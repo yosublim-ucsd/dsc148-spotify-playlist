@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 132436,
+  "num_followers": 132404,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmM0ODNlZWVlZWJkOWFiYWM5OTVjNGQ3NmZlNWI0NjYxNjdmZjcw",
+  "snapshot_id": "MCw0NmViZDZjNTVkZmFmMjYyY2RmNTNmZGI0YmUxNmZhZmYwZjZlMTVh",
   "tracks": [
     {
       "added_at": "2023-11-28 17:00:03",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/3izBQhKOGofHcyILP6iTPs"
     },
     {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
-        "name": "Christmas Bells",
-        "url": "https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 246745,
-      "name": "Christmas Bells",
-      "url": "https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI"
-    },
-    {
       "added_at": "2023-12-20 11:32:39",
       "album": {
         "name": "Silent Night",
@@ -843,6 +827,22 @@
       "duration_ms": 225120,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/7xCJ4D6ka7bXhGbL4NsEEi"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "Christmas Bells",
+        "url": "https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 246745,
+      "name": "Christmas Bells",
+      "url": "https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "Songs For Christmas",
-        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
         "name": "Winter Song",
         "url": "https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 254437,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "Songs For Christmas",
+        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "Warm on a Christmas Night",
-        "url": "https://open.spotify.com/album/0hNsNVEk5TwAFs6fmXUrmE"
-      },
-      "artists": [
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        }
-      ],
-      "duration_ms": 268781,
-      "name": "Warm on a Christmas Night",
-      "url": "https://open.spotify.com/track/1llPUVjhbDrx5s8o1Ym1sH"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
         "name": "Barry White - The Collection",
         "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 187733,
       "name": "It May Be Winter Outside (But In My Heart It's Spring)",
       "url": "https://open.spotify.com/track/4tHGsplffm1rxS33yrL59b"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "Warm on a Christmas Night",
+        "url": "https://open.spotify.com/album/0hNsNVEk5TwAFs6fmXUrmE"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 268781,
+      "name": "Warm on a Christmas Night",
+      "url": "https://open.spotify.com/track/1llPUVjhbDrx5s8o1Ym1sH"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "What I Want For Xmas",
-        "url": "https://open.spotify.com/album/0lHiFF9V2Ey1AI13x5Sh3w"
+        "name": "Together In Electric Dreams",
+        "url": "https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy"
       },
       "artists": [
         {
-          "name": "Orba Squara",
-          "url": "https://open.spotify.com/artist/4SzP9GTvwqU4FzL68ZJdMX"
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 174035,
-      "name": "What I Want For Xmas",
-      "url": "https://open.spotify.com/track/1uT3zADrkjeCfe41WN0yO4"
+      "duration_ms": 201925,
+      "name": "Together In Electric Dreams",
+      "url": "https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
+        "name": "What I Want For Xmas",
+        "url": "https://open.spotify.com/album/0lHiFF9V2Ey1AI13x5Sh3w"
+      },
+      "artists": [
+        {
+          "name": "Orba Squara",
+          "url": "https://open.spotify.com/artist/4SzP9GTvwqU4FzL68ZJdMX"
+        }
+      ],
+      "duration_ms": 174035,
+      "name": "What I Want For Xmas",
+      "url": "https://open.spotify.com/track/1uT3zADrkjeCfe41WN0yO4"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
         "name": "2000 Miles",
         "url": "https://open.spotify.com/album/1jSTa8MOmxE82tnRgyptV4"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 166801,
       "name": "2000 Miles",
       "url": "https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
-        "name": "Together In Electric Dreams",
-        "url": "https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 201925,
-      "name": "Together In Electric Dreams",
-      "url": "https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58"
     },
     {
       "added_at": "2023-12-20 11:32:39",

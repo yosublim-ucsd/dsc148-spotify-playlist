@@ -4,7 +4,7 @@
 
 > Hip\-Hop's hottest from Australia, New Zealand and beyond\. Cover: Skepta
 
-162 songs - 8 hr 0 min
+163 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Skinfade](https://open.spotify.com/track/4UCEIGRovOmBuJz0oOHjI2) | [M1onTheBeat](https://open.spotify.com/artist/7gOJzXf9msdY8JUhMQypSH), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [M1onTheBeat The Mixtape](https://open.spotify.com/album/2eNxE5vYk1YgZGQx6BT8UL) | 2:02 | 2023-11-23 |  |
 | [Skinfade](https://open.spotify.com/track/4e4opOX6j40mfCuWS4u1jD) | [M1onTheBeat](https://open.spotify.com/artist/7gOJzXf9msdY8JUhMQypSH), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Skinfade](https://open.spotify.com/album/3q7jI2SR3PNrwvAlIAG8Wy) | 2:02 | 2023-11-23 | 2023-11-25 |
 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 | 2023-09-22 | 2023-10-20 |
-| [Soak City \(Do it\)](https://open.spotify.com/track/6iiCzEd1ULpq7nXbZVQ4pi) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Lottery Pick](https://open.spotify.com/album/7pp3ZbXrqBiaaeRLIAyis5) | 2:03 | 2024-01-24 |  |
+| [Soak City \(Do it\)](https://open.spotify.com/track/6iiCzEd1ULpq7nXbZVQ4pi) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Lottery Pick](https://open.spotify.com/album/7pp3ZbXrqBiaaeRLIAyis5) | 2:03 | 2024-01-24 | 2024-01-28 |
+| [soak city \(do it\)](https://open.spotify.com/track/779jpZikRmH99DiSVpwCHD) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [lottery pick](https://open.spotify.com/album/6X56VpnIYr8WOiCpkXHdEw) | 2:03 | 2024-01-26 |  |
 | [SOUTHSIDE DILLA](https://open.spotify.com/track/4ypmJ7f8TGY4cZzYn3YVyP) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [SOUTHSIDE DILLA](https://open.spotify.com/album/0GfTdUYEfSFuJ3Stc3LZQl) | 2:09 | 2023-10-12 |  |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-09-22 | 2024-01-05 |
 | [STARGAZING](https://open.spotify.com/track/3j9p8mytLdqHSYcGIkGYuq) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [STARGAZING](https://open.spotify.com/album/4DzFlutgVcuBtfHrY66Ieb) | 2:58 | 2023-09-22 | 2023-10-27 |

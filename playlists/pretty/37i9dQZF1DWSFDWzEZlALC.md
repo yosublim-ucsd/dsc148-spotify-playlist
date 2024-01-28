@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: ENNIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,327 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,351 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 13 | [Nur 3 Sekunden](https://open.spotify.com/track/4xsNzTOHuiE211c4pSVoVw) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Nur 3 Sekunden](https://open.spotify.com/album/5nTPR9hQ3bjBtNeF3utJfP) | 2:36 |
 | 14 | [Schritt für Schritt](https://open.spotify.com/track/3uQFTCi3SuEdBO5MEZLYhz) | [Tigermilch](https://open.spotify.com/artist/5cFzpoYJedkZeGFUp9pExN) | [Schritt für Schritt](https://open.spotify.com/album/5m1TXHF7JagAB954yDSn6w) | 2:18 |
 | 15 | [Drachenfrucht](https://open.spotify.com/track/5mDZnH5AtLhmmz45i4Ru8X) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Drachenfrucht](https://open.spotify.com/album/38x0C388O3eX76t2kmfZeD) | 3:06 |
-| 16 | [lass los](https://open.spotify.com/track/7ds5QDfQbzheDtl7NOOcPc) | [Maeckes](https://open.spotify.com/artist/5nVbdvU60t7C0JBruxsS26) | [lass los](https://open.spotify.com/album/6TmA0wjEnOhoWgUtOxIuuv) | 2:11 |
+| 16 | [lass los](https://open.spotify.com/track/7ds5QDfQbzheDtl7NOOcPc) | [Maeckes](https://open.spotify.com/artist/5nVbdvU60t7C0JBruxsS26), [Bayuk](https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw) | [lass los](https://open.spotify.com/album/6TmA0wjEnOhoWgUtOxIuuv) | 2:11 |
 | 17 | [Zittern](https://open.spotify.com/track/5dUdIExBgfgxWoqJ77Xi4W) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Zittern](https://open.spotify.com/album/1N1Pe9J71EgxGBCcWnrRWY) | 4:06 |
 | 18 | [Führerschein](https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Führerschein](https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp) | 4:02 |
 | 19 | [idc](https://open.spotify.com/track/6kHgwf0WtGsUa7nJfz57Z0) | [Keule](https://open.spotify.com/artist/4YAtpT87My3LTvpLWWvG3Y) | [ein blick in mein kopf](https://open.spotify.com/album/5uO8yrLtqRLkk9MzsWrH6z) | 2:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [BLa\*\_\*](https://open.spotify.com/track/4yzpCGNFvaxrENB5H78uwb) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [BLa\*\_\*](https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK) | 2:27 |
 | 75 | [Es regnet Hirn \(feat\. Paula Carolina\)](https://open.spotify.com/track/02Y7L1qY9Z771QO2w3ubgk) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK), [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Es regnet Hirn \(feat\. Paula Carolina\)](https://open.spotify.com/album/0ip66XV3S8XeOHlqymdX0M) | 3:14 |
 
-Snapshot ID: `MCw4NWEwMGE3MmJmYzBiYmQwYjQxODIwZTQwNzlhZDQwZTkxYTcxOWFi`
+Snapshot ID: `MCwzZGJhOWRlMTY2ODNiOTNkYjk0MTVkODA4M2QyYzkxNWU3MmQ5NGU3`

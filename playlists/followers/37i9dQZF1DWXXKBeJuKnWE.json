@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 50706,
+  "2024-01-28": 50711,
   "date_first_scraped": "2023-01-15",
-  "description": "The home for heavy music. Cover: Bring Me The Horizon",
+  "description": "The home for heavy music. Cover: Bad Omens ft. Poppy",
   "name": "The Pit",
   "tracks": [
     {
@@ -96,6 +96,24 @@
     },
     {
       "album": {
+        "name": "Abortion",
+        "url": "https://open.spotify.com/album/1ZcgrAlvWGlYthMo5bCsJC"
+      },
+      "artists": [
+        {
+          "name": "The Menstrual Cramps",
+          "url": "https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "Abortion",
+      "url": "https://open.spotify.com/track/048Yte6RBmRVn3reWZQvYq"
+    },
+    {
+      "album": {
         "name": "This Place Will Become Your Tomb",
         "url": "https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC"
       },
@@ -143,7 +161,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 198937,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/4X7W1t7pii0H8i5YS4Zu5Z"
@@ -505,7 +523,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 114285,
       "name": "BLOOD PUDDLE",
       "url": "https://open.spotify.com/track/5kkeXjTwDKrMJdpXA2nFZq"
@@ -743,6 +761,24 @@
       "duration_ms": 186601,
       "name": "Brat",
       "url": "https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy"
+    },
+    {
+      "album": {
+        "name": "Blood, Hair, And Eyeballs",
+        "url": "https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203533,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/4447WSwIe8Q9LNKIh7kZDQ"
     },
     {
       "album": {
@@ -1217,7 +1253,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 289756,
       "name": "Demure",
       "url": "https://open.spotify.com/track/0q3a74dm3dH5Sm8ORI2hnB"
@@ -1735,7 +1771,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 190500,
       "name": "foreverend",
       "url": "https://open.spotify.com/track/5gJ8xmfZ3yzMh9pjY0hszN"
@@ -1901,6 +1937,24 @@
       "duration_ms": 144430,
       "name": "Go Tobann",
       "url": "https://open.spotify.com/track/1N3XD3Fz1Brtzsu7ghjqSV"
+    },
+    {
+      "album": {
+        "name": "GOD COMPLEX",
+        "url": "https://open.spotify.com/album/17SJwRZFPmUsSQp2Xdjzva"
+      },
+      "artists": [
+        {
+          "name": "TOVA",
+          "url": "https://open.spotify.com/artist/6xjivjGafHAQaOLI463ZpC"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222758,
+      "name": "GOD COMPLEX",
+      "url": "https://open.spotify.com/track/0HXjcTc7gA4LFIDEex06cm"
     },
     {
       "album": {
@@ -2501,6 +2555,24 @@
       "duration_ms": 220041,
       "name": "Kingslayer (feat. BABYMETAL)",
       "url": "https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7"
+    },
+    {
+      "album": {
+        "name": "Knife",
+        "url": "https://open.spotify.com/album/0w4KpUcSpjvxkiccChtB2C"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218214,
+      "name": "Knife",
+      "url": "https://open.spotify.com/track/4EziK2zE4fTvXi4obtunZh"
     },
     {
       "album": {
@@ -3193,7 +3265,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 212241,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/5prO0h2vJBh5jUgzNFCvG4"
@@ -3377,7 +3449,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 176341,
       "name": "Postcard Xo",
       "url": "https://open.spotify.com/track/2s5sA6obI4A2Up2LnNQI4k"
@@ -3780,6 +3852,24 @@
     },
     {
       "album": {
+        "name": "Self Love",
+        "url": "https://open.spotify.com/album/5u4cNUGjbYNT0k4SCjAQUC"
+      },
+      "artists": [
+        {
+          "name": "Frank Carter & The Rattlesnakes",
+          "url": "https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201251,
+      "name": "Self Love",
+      "url": "https://open.spotify.com/track/5w6LtMQ9mCrw8Rh8wFaZOO"
+    },
+    {
+      "album": {
         "name": "Set Fazers",
         "url": "https://open.spotify.com/album/1fZ1mUfz95fU8yXVHkWv3K"
       },
@@ -3893,6 +3983,24 @@
       "duration_ms": 281171,
       "name": "Sick And Wrong",
       "url": "https://open.spotify.com/track/4rHiHDvjI4Uqm9ahZ9RcS7"
+    },
+    {
+      "album": {
+        "name": "SILYMI",
+        "url": "https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg"
+      },
+      "artists": [
+        {
+          "name": "TeZATalks",
+          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149388,
+      "name": "SILYMI",
+      "url": "https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ"
     },
     {
       "album": {
@@ -4149,7 +4257,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 189018,
       "name": "Swallow",
       "url": "https://open.spotify.com/track/0bDFmPqNCXQcfAc3njZszA"
@@ -4761,6 +4869,28 @@
       "duration_ms": 238109,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82"
+    },
+    {
+      "album": {
+        "name": "V.A.N",
+        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274098,
+      "name": "V.A.N",
+      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
     },
     {
       "album": {

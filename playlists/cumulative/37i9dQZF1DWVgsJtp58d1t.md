@@ -4,7 +4,7 @@
 
 > New music each and every Friday\. <br/>Featuring some of our 2024 Artists to Watch across all genres!<br/> Cover: <a href="spotify:artist:01aC2ikO4Xgb2LUpf9JfKp">Gary Clark Jr.</a>
 
-2,714 songs - 5 day 15 hr 59 min
+2,715 songs - 5 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2588,7 +2588,8 @@
 | [WE ACTIVE \(feat\. YFN Lucci\)](https://open.spotify.com/track/1TzAC0hcnCp8aauuDt8fKN) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [Kollect Kall](https://open.spotify.com/album/1l93oDZaNAsTF0GqsRa3m0) | 2:38 | 2023-04-07 | 2023-04-22 |
 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5) | 4:05 | 2023-01-06 | 2023-02-04 |
 | [We Did](https://open.spotify.com/track/2Fc13mlF3nMqeFm2MY5Pnz) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4ewGerVWPwgTWwD0m0NdNG) | 3:03 | 2022-02-04 | 2022-03-05 |
-| [We Keep On](https://open.spotify.com/track/1DLuBahdUB9VX7DJRtYl1v) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [For the Better](https://open.spotify.com/album/6AlZ1GbJS3uLy8m23EhTfE) | 3:00 | 2024-01-19 |  |
+| [We Keep On](https://open.spotify.com/track/1DLuBahdUB9VX7DJRtYl1v) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [For the Better](https://open.spotify.com/album/6AlZ1GbJS3uLy8m23EhTfE) | 3:00 | 2024-01-19 | 2024-01-28 |
+| [We Keep On](https://open.spotify.com/track/3cWwh46djB72qVMRmTpaMS) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [For the Better](https://open.spotify.com/album/10brv7YGXfM12BcquAQ1Aj) | 3:00 | 2024-01-26 |  |
 | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG) | 1:30 | 2023-02-17 | 2023-03-11 |
 | [We Need To Talk About It](https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Need To Talk About It](https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ) | 2:53 | 2022-06-17 | 2022-07-02 |
 | [We Try](https://open.spotify.com/track/2hr6bLJA3rkb7u3XdIr49i) | [Jay Wile](https://open.spotify.com/artist/1VvjB8ztJLmmj2fyL4TkCU), [Angel Cintron](https://open.spotify.com/artist/6hZZbz6dn2lD5VvXUSeUs3) | [Coordinates](https://open.spotify.com/album/2KBFAyoDp5uB33m2kC08He) | 3:24 | 2022-10-28 | 2022-11-19 |

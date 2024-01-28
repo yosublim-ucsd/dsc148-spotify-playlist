@@ -203,6 +203,28 @@
     },
     {
       "album": {
+        "name": "Astronaut",
+        "url": "https://open.spotify.com/album/0BWRcNqTxZUroW6vcTL3TT"
+      },
+      "artists": [
+        {
+          "name": "LO",
+          "url": "https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto"
+        },
+        {
+          "name": "HEIGHTS",
+          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164125,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/6nMcQh09lWR6Tup4v9ooIg"
+    },
+    {
+      "album": {
         "name": "At Ease",
         "url": "https://open.spotify.com/album/3XoGsRn2xcL43iRKys8BTG"
       },
@@ -474,7 +496,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 157000,
       "name": "Brown Eyed Girl",
       "url": "https://open.spotify.com/track/6vqqKcmf2gV1qcR3tfvULK"
@@ -536,6 +558,24 @@
       "duration_ms": 124137,
       "name": "California Sun",
       "url": "https://open.spotify.com/track/4ndKdhuho4PWsGZL6V4Wbv"
+    },
+    {
+      "album": {
+        "name": "Californication",
+        "url": "https://open.spotify.com/album/67UYfVh7jJnkUkHs0CFSux"
+      },
+      "artists": [
+        {
+          "name": "Lost Ways",
+          "url": "https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141111,
+      "name": "Californication",
+      "url": "https://open.spotify.com/track/0v2atFhYQYPythajdEi4MF"
     },
     {
       "album": {
@@ -814,7 +854,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 182500,
       "name": "Crush",
       "url": "https://open.spotify.com/track/0Nk0W9t2beuJfh97HFHr3F"
@@ -836,7 +876,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 163278,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/10QBJFEgjnKx6YvqPjQsTo"
@@ -1036,6 +1076,28 @@
       "duration_ms": 172872,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/5QAhqtUPu3S3I0zXiWycUG"
+    },
+    {
+      "album": {
+        "name": "Englishman In New York",
+        "url": "https://open.spotify.com/album/1g1ef5KCvVgw2MNBFbmsrX"
+      },
+      "artists": [
+        {
+          "name": "Oceanside",
+          "url": "https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR"
+        },
+        {
+          "name": "Majesto",
+          "url": "https://open.spotify.com/artist/0fFZroJML4yia5tPZs8SDI"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152614,
+      "name": "Englishman In New York",
+      "url": "https://open.spotify.com/track/059mWkxcvYRfyaPlGq3Gkh"
     },
     {
       "album": {
@@ -1467,6 +1529,32 @@
     },
     {
       "album": {
+        "name": "Got This Feeling",
+        "url": "https://open.spotify.com/album/63j7UJjoJaYpFLKD53Je3a"
+      },
+      "artists": [
+        {
+          "name": "Nate VanDeusen",
+          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+        },
+        {
+          "name": "Xiam",
+          "url": "https://open.spotify.com/artist/6W0fy0QYg158jtGa4cfJ84"
+        },
+        {
+          "name": "Rukid",
+          "url": "https://open.spotify.com/artist/190Yg2nkLySugQt7NXZf5a"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185901,
+      "name": "Got This Feeling",
+      "url": "https://open.spotify.com/track/5WkrXPFs3gene3t5pkbNHn"
+    },
+    {
+      "album": {
         "name": "Hate To Love You",
         "url": "https://open.spotify.com/album/1crPTjQB0Mms1YyNa3xhj3"
       },
@@ -1710,6 +1798,28 @@
       "duration_ms": 150285,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/3XIzACaLBacvVPZx5APc4r"
+    },
+    {
+      "album": {
+        "name": "Horizon (So Blue)",
+        "url": "https://open.spotify.com/album/3So42AUVeG31u5L8IN1HvE"
+      },
+      "artists": [
+        {
+          "name": "Abraham Colona",
+          "url": "https://open.spotify.com/artist/1SC74Ya2mEkFoUzpr8hIev"
+        },
+        {
+          "name": "David Emde",
+          "url": "https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135117,
+      "name": "Horizon (So Blue)",
+      "url": "https://open.spotify.com/track/4q4IwjuMCZ5g9e9LwH9P3J"
     },
     {
       "album": {
@@ -2012,7 +2122,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 191250,
       "name": "It All Makes Sense",
       "url": "https://open.spotify.com/track/2h6gE0j4lLXIfY5NFztt8S"
@@ -2130,7 +2240,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 159230,
       "name": "King",
       "url": "https://open.spotify.com/track/3FLtWk8DRjMimRt84JJJOF"
@@ -2160,6 +2270,24 @@
       "duration_ms": 150000,
       "name": "Kiss Me Girl",
       "url": "https://open.spotify.com/track/3e8NAo1OMHxu7XxgjRBUDD"
+    },
+    {
+      "album": {
+        "name": "Lay all your love on me",
+        "url": "https://open.spotify.com/album/2DmENT0BPX3WEY2KNY6Rlg"
+      },
+      "artists": [
+        {
+          "name": "Lost Ways",
+          "url": "https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156494,
+      "name": "Lay all your love on me",
+      "url": "https://open.spotify.com/track/7fAb1ipk2twSkV3mRUvBV3"
     },
     {
       "album": {
@@ -2277,6 +2405,24 @@
     },
     {
       "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/3EvnAak5cNtyFBdcZuNpRN"
+      },
+      "artists": [
+        {
+          "name": "Meynberg",
+          "url": "https://open.spotify.com/artist/59a0J35YbYHfojR8iIpzuX"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131228,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/0eNPmFh1rIwkStKcxU3R4U"
+    },
+    {
+      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/4OPRXGAAcFtuOjl9gALaO5"
       },
@@ -2390,7 +2536,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 170020,
       "name": "Looking Back",
       "url": "https://open.spotify.com/track/3nM8bteGCXUt1Rcd04lPyE"
@@ -2412,7 +2558,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 137991,
       "name": "Lose You",
       "url": "https://open.spotify.com/track/3HoUOGfodbbRQsnfavrViW"
@@ -2578,7 +2724,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 138305,
       "name": "Love Didn't Last",
       "url": "https://open.spotify.com/track/6UQVqtodRLwDEAhBY05Nk3"
@@ -2700,7 +2846,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 152727,
       "name": "Make It Up To You",
       "url": "https://open.spotify.com/track/4RODkN4UR4wHsQAxAZmdB3"
@@ -2766,6 +2912,24 @@
       "duration_ms": 198352,
       "name": "Memories",
       "url": "https://open.spotify.com/track/38ResUOMxk05LUJgFire6b"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/0X7x42PstWExMRmZbbTKsc"
+      },
+      "artists": [
+        {
+          "name": "Seasider",
+          "url": "https://open.spotify.com/artist/3bIeHe3ftDnbJMSyorcPSz"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145206,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4XJTH3xjvYUmAtfMr3D0wm"
     },
     {
       "album": {
@@ -3148,7 +3312,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 201929,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/1mkTvuWn9G1M38zsem7gKC"
@@ -3511,6 +3675,24 @@
     },
     {
       "album": {
+        "name": "Rushing From Me",
+        "url": "https://open.spotify.com/album/4w1iRgykyDw8c433JRIgFs"
+      },
+      "artists": [
+        {
+          "name": "Santorelli",
+          "url": "https://open.spotify.com/artist/2W3PRQeJoFaEFaLZYiVrkR"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168281,
+      "name": "Rushing From Me",
+      "url": "https://open.spotify.com/track/1E7R3c2lHdlftcXcK4HnJL"
+    },
+    {
+      "album": {
         "name": "Safe & Sound",
         "url": "https://open.spotify.com/album/7EO8uLByqZseYCWOZ0pZ0G"
       },
@@ -3642,7 +3824,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 137560,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/0fmiU57491EXzACkiKJrLN"
@@ -3832,6 +4014,24 @@
       "duration_ms": 135254,
       "name": "Still Standing",
       "url": "https://open.spotify.com/track/0vDieQMqZRkGtV1TRkoDlb"
+    },
+    {
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/12MLBpikbkyDBEM2FTXhCl"
+      },
+      "artists": [
+        {
+          "name": "Jawmill",
+          "url": "https://open.spotify.com/artist/78HDMi8gcE9J5Hs3v4nSfJ"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141971,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/48sKbRMLrQh8DqcL2lpnjM"
     },
     {
       "album": {
@@ -4118,7 +4318,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 141344,
       "name": "Sympathy",
       "url": "https://open.spotify.com/track/7dWQoTFmsAnVznADr1sZwB"
@@ -4162,7 +4362,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 162857,
       "name": "Tell Me You Love Me",
       "url": "https://open.spotify.com/track/7lak0WdbGJiJDbyBiZcLgH"
@@ -4298,7 +4498,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 123130,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/4TWnu7grNeQ6WNVmet9fZI"

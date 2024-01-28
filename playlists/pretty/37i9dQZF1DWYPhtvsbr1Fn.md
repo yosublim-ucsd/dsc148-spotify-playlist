@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPhtvsbr1Fn.md) - [plain]
 
 > resurging tracks coming in hot\. cover: Natasha Bedingfield in her Unwritten era
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,253 likes - 73 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,504 likes - 73 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPhtvsbr1Fn.md) - [plain]
 | 72 | [Say It Right](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 3:43 |
 | 73 | [Runaway](https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 9:07 |
 
-Snapshot ID: `MCxjNWFjYmMzMmNlY2YzMGE0OWZjMTAxNzU3NTY2ZmNjNjVkMjJmZDgy`
+Snapshot ID: `MCw5YWQ2MGYyYzdjYzFmZGIzZWQ1ZTNkN2NkMjA5ODJkNjFhZWE5Njdh`

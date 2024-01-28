@@ -1,12 +1,12 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Talib Kweli",
-  "num_followers": 472912,
+  "num_followers": 473112,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjljYWU4MWM4ZTdiODM0NmYzNThjYTM1MWQwYjk4Y2M2MTNiYmE0",
+  "snapshot_id": "MCxjZWIwYjQ5OWFhODBkZjJmMmU4NTYxNzQwMTM5MGJkYzJkNTMwNWRj",
   "tracks": [
     {
       "added_at": "2024-01-12 04:00:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
+        "name": "I Need Drugs",
+        "url": "https://open.spotify.com/album/3goXMAFZit2Wiaazp8zO2f"
+      },
+      "artists": [
+        {
+          "name": "Necro",
+          "url": "https://open.spotify.com/artist/51vjIMmHWyVqDrkxD07Jh7"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Your Fuckin\u2019 Head Split",
+      "url": "https://open.spotify.com/track/1WkJbf3RsZCtPUvxM8AdN9"
+    },
+    {
+      "added_at": "2024-01-12 04:00:00",
+      "album": {
         "name": "Deltron 3030",
         "url": "https://open.spotify.com/album/04uhhcjGVCHodMgZjXOlye"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 214306,
       "name": "Mastermind",
       "url": "https://open.spotify.com/track/0uMn8WKu3qtQLaUyal1bsz"
-    },
-    {
-      "added_at": "2024-01-12 04:00:00",
-      "album": {
-        "name": "I Need Drugs",
-        "url": "https://open.spotify.com/album/3goXMAFZit2Wiaazp8zO2f"
-      },
-      "artists": [
-        {
-          "name": "Necro",
-          "url": "https://open.spotify.com/artist/51vjIMmHWyVqDrkxD07Jh7"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Your Fuckin\u2019 Head Split",
-      "url": "https://open.spotify.com/track/1WkJbf3RsZCtPUvxM8AdN9"
     },
     {
       "added_at": "2024-01-12 04:00:00",
@@ -931,26 +931,22 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
-        "name": "Champion Sound",
-        "url": "https://open.spotify.com/album/0zkhTVHYyDMxFdhVCKGNFa"
+        "name": "Soundpieces: Da Antidote",
+        "url": "https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC"
       },
       "artists": [
         {
-          "name": "Jaylib",
-          "url": "https://open.spotify.com/artist/7BWVFnoB7Qy9biFNCoRCMI"
+          "name": "Lootpack",
+          "url": "https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP"
         },
         {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        },
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+          "name": "Quasimoto",
+          "url": "https://open.spotify.com/artist/1rJkz5vopfGxTUGFNB3o4G"
         }
       ],
-      "duration_ms": 202106,
-      "name": "The Red",
-      "url": "https://open.spotify.com/track/39DqjGQSh3UvzQxueQSauA"
+      "duration_ms": 283600,
+      "name": "Answers",
+      "url": "https://open.spotify.com/track/62XG3j3pMiIkHZxybltx4g"
     }
   ],
   "unique_name": "I Love My Underground Classics",

@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 10355,
+  "2024-01-28": 10360,
   "date_first_scraped": "2021-12-29",
   "description": "The hottest alternative music from Nairobi to Dar!",
   "name": "Eastern Vibes",
@@ -355,7 +355,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 180000,
       "name": "Chaser 2.0",
       "url": "https://open.spotify.com/track/2HGsCutOKv0mC7R0EoiSfP"
@@ -509,6 +509,24 @@
       "duration_ms": 110000,
       "name": "Curtains",
       "url": "https://open.spotify.com/track/25XVan47oOYRQU04LiTfE0"
+    },
+    {
+      "album": {
+        "name": "Divergent",
+        "url": "https://open.spotify.com/album/06NpcpY8sd5DofuSW0AApU"
+      },
+      "artists": [
+        {
+          "name": "Waithaka",
+          "url": "https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "Divergent",
+      "url": "https://open.spotify.com/track/4dvHvQKlhxqIqSDtUbmRdn"
     },
     {
       "album": {
@@ -1232,6 +1250,24 @@
     },
     {
       "album": {
+        "name": "IDKW",
+        "url": "https://open.spotify.com/album/3voJsHgJci2igHrLWnWF6L"
+      },
+      "artists": [
+        {
+          "name": "N'Jiru",
+          "url": "https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "IDKW",
+      "url": "https://open.spotify.com/track/6s1kHxl8VOqGzGyYkgNeTE"
+    },
+    {
+      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/3ocN0pai5zWdLg5CJLTLc5"
       },
@@ -1363,7 +1399,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 189544,
       "name": "Kampala",
       "url": "https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74"
@@ -1631,7 +1667,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 199008,
       "name": "Let's Be Dead Together",
       "url": "https://open.spotify.com/track/1I14Z5NNXIdsmjgLi1jBKV"
@@ -1707,7 +1743,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 206769,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/5Hh5KET3Dm5fXck2bfGXsT"
@@ -1786,6 +1822,24 @@
     },
     {
       "album": {
+        "name": "Lovers Only",
+        "url": "https://open.spotify.com/album/6Q6WdtVzIOlMyWFh9gfmxD"
+      },
+      "artists": [
+        {
+          "name": "Tetu Shani",
+          "url": "https://open.spotify.com/artist/4PATOXrnfnClxoIKMoRSHG"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Lovers Only",
+      "url": "https://open.spotify.com/track/6THvBkYaQmMcuOdPGCWpcv"
+    },
+    {
+      "album": {
         "name": "Lowkey",
         "url": "https://open.spotify.com/album/5SgR3uwNfIzqRhULqPQAAr"
       },
@@ -1861,6 +1915,24 @@
       "duration_ms": 186009,
       "name": "Mad Ting",
       "url": "https://open.spotify.com/track/0329hJmIoXzCiAt2BkR4Zy"
+    },
+    {
+      "album": {
+        "name": "Kwetu: It's Not a Place, It's a Feeling",
+        "url": "https://open.spotify.com/album/0EZscP1mvf9I6HG8wskbbP"
+      },
+      "artists": [
+        {
+          "name": "Fadhilee Itulya",
+          "url": "https://open.spotify.com/artist/3iWzdkOgIDqZDiakNnnlig"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347720,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/44YheWCtWWdboqji2VWjGM"
     },
     {
       "album": {
@@ -2183,7 +2255,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 169913,
       "name": "Oh Shoot",
       "url": "https://open.spotify.com/track/4kHKic91jzEObqoLgYzROV"
@@ -2285,7 +2357,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 174705,
       "name": "Omu",
       "url": "https://open.spotify.com/track/4zP3adRK1v4LD0BZ9nLyVd"
@@ -2685,10 +2757,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 163200,
       "name": "Sana",
       "url": "https://open.spotify.com/track/6cNt6K8BTWyX3ntnMBHjgt"
+    },
+    {
+      "album": {
+        "name": "Sare Jokes",
+        "url": "https://open.spotify.com/album/3JZBkaigAAfmit0u0FyHR9"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122727,
+      "name": "Sare Jokes",
+      "url": "https://open.spotify.com/track/0VO1URUTdzWlo7V3VlHYqv"
     },
     {
       "album": {
@@ -3081,7 +3171,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 139041,
       "name": "The Yeah Yeah",
       "url": "https://open.spotify.com/track/24pqG5Vg6ImGrIPlWrlfLe"
@@ -3459,7 +3549,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 168000,
       "name": "What To Expect When Expecting",
       "url": "https://open.spotify.com/track/3O9GGQXx5mi1ekYoCJbgXk"
@@ -3499,6 +3589,24 @@
       "duration_ms": 154493,
       "name": "WHO\u2019S LOVING YOU?",
       "url": "https://open.spotify.com/track/0ODyFLoeeVJwWhZCAzLyf1"
+    },
+    {
+      "album": {
+        "name": "Kuwe",
+        "url": "https://open.spotify.com/album/0xV4Zm2IC2b9uNh4r0avUY"
+      },
+      "artists": [
+        {
+          "name": "SERRO",
+          "url": "https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225933,
+      "name": "Ya Dunia",
+      "url": "https://open.spotify.com/track/2S5D89CayQ5ml6kcGHrf1g"
     },
     {
       "album": {

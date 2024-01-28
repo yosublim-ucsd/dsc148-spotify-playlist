@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92Z0nRvikjz.md) - [plain]
 
 > 他們把音樂給了世界、溫柔給了我們。所有的喜怒哀樂，仍然都會是五月天。
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,580 likes - 61 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,538 likes - 61 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92Z0nRvikjz.md) - [plain]
 | 60 | [終結孤單](https://open.spotify.com/track/3k5cmt6XDrwGqrGMni8xu2) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [愛情萬歲](https://open.spotify.com/album/0CMBn9K7y4sClB4fB1hiXi) | 3:09 |
 | 61 | [盛夏光年](https://open.spotify.com/track/3MwPlR0x7eIvigySjVw2qu) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [五月天 \| 步步 \| 自選作品輯 the Best of 1999\-2013](https://open.spotify.com/album/5U10pNjMSzaXL392EZ94qg) | 4:42 |
 
-Snapshot ID: `MCxhODc0MjlhYTZiNzkyZjc4ZTEwYjdlYTU2YTUzN2E4MTU0YzM5NTZm`
+Snapshot ID: `MCw1ZWM5ODI0MGZjM2IwOGQzOWYyOTczM2MyYWI0NWQwMDEyYWE4OThi`

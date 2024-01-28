@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX946PjwaHnSD.md) - [plain]
 
 > Os batidões mais agitados pra animar sua malhação!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,880 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,833 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX946PjwaHnSD.md) - [plain]
 | 4 | [Bumbum granada](https://open.spotify.com/track/4SdTyIjA6FuADAN9W8sZjq) | [MC's Zaac](https://open.spotify.com/artist/13ySOy7rghkjVk5f5ChBW8), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Bumbum granada](https://open.spotify.com/album/6g5NSnoGpHQ7pGA0pANEBV) | 3:07 |
 | 5 | [Talarica](https://open.spotify.com/track/4VUcZNeuit8e7zmSAI4GbL) | [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ) | [Talarica](https://open.spotify.com/album/2DWrdCrdqBLbK83AfvcAEP) | 2:42 |
 | 6 | [Call Me Rave](https://open.spotify.com/track/6zpc3Try7qVBnI2FGZCBXt) | [DJ Léo Alves](https://open.spotify.com/artist/755mykV2yGH63szFiyUoK2), [DJ Katrip](https://open.spotify.com/artist/4Ley0K7c2keTiOW0Jpam5g) | [Call Me Rave](https://open.spotify.com/album/42C6LGzNwsQXbIcj56lMy7) | 2:17 |
-| 7 | [Bum Bum Tam Tam](https://open.spotify.com/track/6IHR2yfODpHj38M6IbUWAx) | [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd) | [Latin Hits Summer 2019](https://open.spotify.com/album/5hnqWbGERcUiyXeLnMC7hV) | 2:35 |
+| 7 | [Joga O Bum Bum Tam Tam](https://open.spotify.com/track/30GqVivI3eb7OgonUemcjf) | [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd) | [Joga O Bum Bum Tam Tam](https://open.spotify.com/album/61CmdInybMYeuxLEMrKOKP) | 2:35 |
 | 8 | [Movimento da sanfoninha \- Ao vivo](https://open.spotify.com/track/2loApP0kPaim0BTDVP9F26) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Meu Lugar](https://open.spotify.com/album/1irawiP1fDHeb7hUNf9wxN) | 2:56 |
 | 9 | [Eu Vou Pra Conexão](https://open.spotify.com/track/7lx5WbsQzzuQoBsNKUPdGT) | [Dj Batata](https://open.spotify.com/artist/2rUOBAmeKcpfmd83cIj5Au), [Mc Cula](https://open.spotify.com/artist/6SRUcX4ycrHnl0c2Kop9lh), [DJ Evolução](https://open.spotify.com/artist/7rrOdrFFVQxej6bRJOwllx) | [Eu Vou Pra Conexão](https://open.spotify.com/album/7BqR3R4G3yxdZwAmfD4U7B) | 2:15 |
 | 10 | [Rave Lambada](https://open.spotify.com/track/5SOwbaF5xBwrvc3o25djz7) | [GP DA ZL](https://open.spotify.com/artist/6ln5KMY2ugao3BVvJgzhq3) | [Rave Lambada](https://open.spotify.com/album/2fwHVl3D8qodplWZ355kNP) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX946PjwaHnSD.md) - [plain]
 | 99 | [Ao Som do 150](https://open.spotify.com/track/2nCKTSg3tWkfth4TSYBVzy) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Ao Som do 150](https://open.spotify.com/album/0NnlEaVeimova4vnBMhkGl) | 1:59 |
 | 100 | [Lindona](https://open.spotify.com/track/1wyclICZwhqZYizAdtvzYu) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [Mc Bola](https://open.spotify.com/artist/4ulY4o7oEoqJlqc0V6R3Bc), [Nego Blue](https://open.spotify.com/artist/5dpdK20EYUPpUaAk9ERPFg) | [Lindona](https://open.spotify.com/album/5qrFMWpAjDjSzBPhgoXAVy) | 3:52 |
 
-Snapshot ID: `MCw5NjBiNjUxZDEyMGYyYmU3NmJlYjEyNjEyNjczZTk1ZGU5NDExNDIw`
+Snapshot ID: `MCxiODg3MjJlY2EzM2Y5NDUyNzY5NTE4YzlmOWFmNTM0YzBjMzVmZTcy`

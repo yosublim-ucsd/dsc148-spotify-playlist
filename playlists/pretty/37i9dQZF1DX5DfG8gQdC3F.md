@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Ice Spice, Justin Timberlake, MacKenzie Porter, Tom Odell and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,191 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,032 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 74 | [Over You](https://open.spotify.com/track/6KX5lORRwSuUWyXpMlJ8Hs) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [Over You](https://open.spotify.com/album/0Y8njREiJhHegRMwHHrNth) | 2:29 |
 | 75 | [Messages](https://open.spotify.com/track/1FSDiVFnNPWbFTrHaKTYD2) | [Jane Penny](https://open.spotify.com/artist/3LgeMxdrjCnZIHB8VoFhcd) | [Messages](https://open.spotify.com/album/2NTbrUHlhtJZUCcIebjth2) | 3:15 |
 | 76 | [TULUM](https://open.spotify.com/track/7xSlkebKRYibm6plhrEQAX) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Lyrics to GO Vol\. 5](https://open.spotify.com/album/0R78djLTRtZIvdySvSRjql) | 2:35 |
-| 77 | [Rocket Science](https://open.spotify.com/track/6mbeLmisQkm2lyAbinPunm) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Rocket Science](https://open.spotify.com/album/23BaWTGCVFzPqnJ6BGVDcZ) | 3:27 |
+| 77 | [Rocket Science](https://open.spotify.com/track/6mbeLmisQkm2lyAbinPunm) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Rocket Science / You Don’t Love Me](https://open.spotify.com/album/23BaWTGCVFzPqnJ6BGVDcZ) | 3:27 |
 | 78 | [Make It Better](https://open.spotify.com/track/7KvzuHeLGQAU1Y8QIkRg2S) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Make It Better](https://open.spotify.com/album/7H9rk1mTilMOX4Kwix0E7v) | 3:10 |
 | 79 | [Come Out](https://open.spotify.com/track/4FZYzPLOHh90osvljS7ueD) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5), [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [Come Out](https://open.spotify.com/album/3FnK7zoEHC8QWtedhmTnJw) | 3:03 |
 | 80 | [Astronaut](https://open.spotify.com/track/2q3Qtn6pVjR3MkKW0LZAl8) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Somewhere Down The Road](https://open.spotify.com/album/59QCDtvrb7ndBKYKyFJ12q) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Motions](https://open.spotify.com/track/0HHdg7nNpJwQ5cQKA6gZlC) | [LUM](https://open.spotify.com/artist/1bY66d1Rv5q5KMJYP1lIQd) | [Motions](https://open.spotify.com/album/264dMKFNvBRA7Y2rxpBWTk) | 2:48 |
 | 100 | [LUCKY MERMAID](https://open.spotify.com/track/5tqT2MifFVEO0PnPs8UHfq) | [Milkshakes In The Valley](https://open.spotify.com/artist/3AdVyuXU8TnsPXgAv68icd), [KULTARGOTBOUNCE](https://open.spotify.com/artist/4AVBIZZuqtat8RReyNdqck) | [LUCKY MERMAID](https://open.spotify.com/album/70wcB6uF1kI6uvkVlUOQWv) | 3:03 |
 
-Snapshot ID: `MCwyYTNiNDBmM2UzZGE2NDU3MmIxN2QwZjI2NTQ5OTkxZDE4N2JjYmVk`
+Snapshot ID: `MCw4NjYwYjIzMWNiYTdiZmVkYmNkZDYwNTZkNzA0NWEyOTM0Y2VhMTFj`

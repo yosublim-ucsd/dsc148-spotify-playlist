@@ -672,7 +672,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 190503,
       "name": "Bonkerz",
       "url": "https://open.spotify.com/track/0FaG2Hc9LSFsuChAC0ZZcM"
@@ -1016,6 +1016,24 @@
       "duration_ms": 238455,
       "name": "Died In Your Arms (Reloaded)",
       "url": "https://open.spotify.com/track/4fc381V6V17JS7RqXH2E7M"
+    },
+    {
+      "album": {
+        "name": "Do Whatcha Say",
+        "url": "https://open.spotify.com/album/4HX4ooRkEjEbaRDvx0beVq"
+      },
+      "artists": [
+        {
+          "name": "Mark With a K",
+          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164300,
+      "name": "Do Whatcha Say",
+      "url": "https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR"
     },
     {
       "album": {
@@ -2080,7 +2098,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 176258,
       "name": "Lay Low (Radical Redemption Remix)",
       "url": "https://open.spotify.com/track/2hY7CobV1syoLH1T4jp10O"
@@ -3034,7 +3052,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 218341,
       "name": "Scared to Be Lonely",
       "url": "https://open.spotify.com/track/2d2QoGS87x3y7NmcpSMIpi"

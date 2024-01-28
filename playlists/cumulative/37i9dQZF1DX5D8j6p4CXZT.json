@@ -812,10 +812,28 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 114375,
       "name": "Maybe My Soulmate Died",
       "url": "https://open.spotify.com/track/0Q06bNL4pMTlkilvL88nda"
+    },
+    {
+      "album": {
+        "name": "Chasing the Wind",
+        "url": "https://open.spotify.com/album/37YccldXcBrMJ728lWYcQT"
+      },
+      "artists": [
+        {
+          "name": "iamnotshane",
+          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114375,
+      "name": "Maybe My Soulmate Died",
+      "url": "https://open.spotify.com/track/1xWMqWlcfGrdnQWim2PJVb"
     },
     {
       "album": {

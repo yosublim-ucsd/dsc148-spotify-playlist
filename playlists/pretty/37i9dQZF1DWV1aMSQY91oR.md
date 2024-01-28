@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Ice Spice 💨
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,609 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,622 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 41 | [Eagle](https://open.spotify.com/track/4kPQ9NQTg6rqZNJ0t3lDaI) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Eagle](https://open.spotify.com/album/5jHbKzYrq90fFJFiKhpOE3) | 4:57 |
 | 42 | [THE ONE](https://open.spotify.com/track/6F0qiz4hWEs1ONj2q0WcbO) | [TGETruth](https://open.spotify.com/artist/2ATYFiRwDoNzfpJb9uCaBh), [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [THE ONE](https://open.spotify.com/album/6mVu5tj17vBvC1J5ttawQw) | 2:36 |
 | 43 | [Let The Boy Die](https://open.spotify.com/track/12vdBeUeEiJmLvMMDHMDSp) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO), [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Let The Boy Die](https://open.spotify.com/album/3jsJ6zeCyMjknyNLr4k14Y) | 3:36 |
-| 44 | [Waffle House](https://open.spotify.com/track/7wRkk2WREAGMBdEpMorsda) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A) | [Waffle House](https://open.spotify.com/album/6sytxaodVoEenPlPsZbaBz) | 2:10 |
+| 44 | [Waffle House](https://open.spotify.com/track/7wRkk2WREAGMBdEpMorsda) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A), [LNDN DRGS](https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW) | [Waffle House](https://open.spotify.com/album/6sytxaodVoEenPlPsZbaBz) | 2:10 |
 | 45 | [Entrapreneur](https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Entrapreneur](https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh) | 2:24 |
 | 46 | [Par la fenêtre](https://open.spotify.com/track/23G8gehvhvWvz7LZ8dvpEH) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Par la fenêtre](https://open.spotify.com/album/0eNeBrq66CDet1XNBSjuIG) | 3:48 |
 | 47 | [No Favours](https://open.spotify.com/track/7CQWWZB0YaBFnMdzjX26eF) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [No Favours](https://open.spotify.com/album/0vb90IHcBtS9irLPX3gafl) | 3:44 |
 | 48 | [Only Real](https://open.spotify.com/track/4LWW14lPMoe8EzdlVNquDM) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [Penthouse](https://open.spotify.com/album/7rkyW7jlyubisbtYDA6faY) | 2:35 |
 | 49 | [Potential \- Lolo Zouaï Remix](https://open.spotify.com/track/3R4mUtY9p1yl5YHomb9ix4) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Potential \(Lolo Zouaï Remix\)](https://open.spotify.com/album/6R1g40C2TPZnNx1JyuTBnM) | 2:03 |
 
-Snapshot ID: `MCw3YjkzMmIwZTQ3NWMyMTE1NDg1Mzg4ZjI2NGQ5NWMyZjMwMGUwOTNh`
+Snapshot ID: `MCw0YTM1NmIyYjAyOWNhZjM3NDUwMzkyNzEzMjY3NzIyYjJkOTg3NTc2`

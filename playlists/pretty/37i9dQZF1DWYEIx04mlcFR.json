@@ -1,12 +1,12 @@
 {
   "description": "la nueva ola de artistas con Nicole Horts en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 67488,
+  "num_followers": 67531,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjhhMjhjM2IyOGJjY2JjOTg0NTI0ZGQ2ZjUxOTJkYWEyNjljOTk2",
+  "snapshot_id": "MCxhZmQwZjYyYmU5MGQ2MDA1N2NiNzcyMjgwNzM3ZGYwZjQyOGUxYjgy",
   "tracks": [
     {
       "added_at": "2024-01-26 16:23:21",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-01-26 16:23:21",
       "album": {
+        "name": "EN EL ESPACIO",
+        "url": "https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ"
+      },
+      "artists": [
+        {
+          "name": "Mica Sotera",
+          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
+        }
+      ],
+      "duration_ms": 195750,
+      "name": "Im\u00e1n",
+      "url": "https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG"
+    },
+    {
+      "added_at": "2024-01-26 16:23:21",
+      "album": {
         "name": "ENNI",
         "url": "https://open.spotify.com/album/0BXBqwBYsHsoi2locHuJuc"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 195240,
       "name": "ENNI",
       "url": "https://open.spotify.com/track/1pQMCRRfUWhPlDCtZrMvsh"
-    },
-    {
-      "added_at": "2024-01-26 16:23:21",
-      "album": {
-        "name": "EN EL ESPACIO",
-        "url": "https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ"
-      },
-      "artists": [
-        {
-          "name": "Mica Sotera",
-          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
-        }
-      ],
-      "duration_ms": 195750,
-      "name": "Im\u00e1n",
-      "url": "https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG"
     },
     {
       "added_at": "2024-01-26 16:23:21",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-01-26 16:23:21",
       "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/0d6X2ScN5dJVEmQSNlZHVx"
+      },
+      "artists": [
+        {
+          "name": "Alan Wittels",
+          "url": "https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g"
+        }
+      ],
+      "duration_ms": 141613,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/48t9xmVgtxXlfEPoKvD4rP"
+    },
+    {
+      "added_at": "2024-01-26 16:23:21",
+      "album": {
         "name": "Alta Joya",
         "url": "https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 201200,
       "name": "Alta Joya",
       "url": "https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv"
-    },
-    {
-      "added_at": "2024-01-26 16:23:21",
-      "album": {
-        "name": "Linda",
-        "url": "https://open.spotify.com/album/0d6X2ScN5dJVEmQSNlZHVx"
-      },
-      "artists": [
-        {
-          "name": "Alan Wittels",
-          "url": "https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g"
-        }
-      ],
-      "duration_ms": 141613,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/48t9xmVgtxXlfEPoKvD4rP"
     },
     {
       "added_at": "2024-01-26 16:23:21",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-01-26 16:23:21",
       "album": {
-        "name": "LO QUE PAS\u00d3 UNA VEZ",
-        "url": "https://open.spotify.com/album/46AiJ3b8zW1Mg7L8oZHf8t"
-      },
-      "artists": [
-        {
-          "name": "Ervin River",
-          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
-        }
-      ],
-      "duration_ms": 150013,
-      "name": "LO QUE PAS\u00d3 UNA VEZ",
-      "url": "https://open.spotify.com/track/3DEuPFTumozG70UjBuZDTL"
-    },
-    {
-      "added_at": "2024-01-26 16:23:21",
-      "album": {
         "name": "odio esta casa (cuando te vas)",
         "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2024-01-26 16:23:21",
       "album": {
-        "name": "odiarte",
-        "url": "https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA"
+        "name": "LO QUE PAS\u00d3 UNA VEZ",
+        "url": "https://open.spotify.com/album/46AiJ3b8zW1Mg7L8oZHf8t"
       },
       "artists": [
         {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
         }
       ],
-      "duration_ms": 190000,
-      "name": "odiarte",
-      "url": "https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU"
+      "duration_ms": 150013,
+      "name": "LO QUE PAS\u00d3 UNA VEZ",
+      "url": "https://open.spotify.com/track/3DEuPFTumozG70UjBuZDTL"
     },
     {
       "added_at": "2024-01-26 16:23:21",
@@ -1079,6 +1063,22 @@
       "duration_ms": 224363,
       "name": "La Lista",
       "url": "https://open.spotify.com/track/0AtNOujrNexbsOjJkD7NEF"
+    },
+    {
+      "added_at": "2024-01-26 16:23:21",
+      "album": {
+        "name": "odiarte",
+        "url": "https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "odiarte",
+      "url": "https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU"
     },
     {
       "added_at": "2024-01-26 16:23:21",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-01-26 16:23:21",
       "album": {
-        "name": "A TI",
-        "url": "https://open.spotify.com/album/36InzgYAARL1G0fiqy0Uza"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 138509,
-      "name": "A TI",
-      "url": "https://open.spotify.com/track/7BvX8hQxTizTNxsZhx9VIs"
-    },
-    {
-      "added_at": "2024-01-26 16:23:21",
-      "album": {
         "name": "BITCH3",
         "url": "https://open.spotify.com/album/5KYA9DUntV71ML54hncirY"
       },
@@ -1247,8 +1231,8 @@
     {
       "added_at": "2024-01-26 16:23:21",
       "album": {
-        "name": "nunca me dejes </3",
-        "url": "https://open.spotify.com/album/1DjcS2GNrwG9nkt6J1rcR0"
+        "name": "A TI",
+        "url": "https://open.spotify.com/album/36InzgYAARL1G0fiqy0Uza"
       },
       "artists": [
         {
@@ -1256,9 +1240,9 @@
           "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 206250,
-      "name": "nunca me dejes </3",
-      "url": "https://open.spotify.com/track/1Fo6FrFsz0QygL1Ti103Aj"
+      "duration_ms": 138509,
+      "name": "A TI",
+      "url": "https://open.spotify.com/track/7BvX8hQxTizTNxsZhx9VIs"
     },
     {
       "added_at": "2024-01-26 16:23:21",
@@ -1279,6 +1263,22 @@
       "duration_ms": 244235,
       "name": "lalalala",
       "url": "https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ"
+    },
+    {
+      "added_at": "2024-01-26 16:23:21",
+      "album": {
+        "name": "cansada de verte en todas partes",
+        "url": "https://open.spotify.com/album/2xpnndjYm4cHc3f207UNXf"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 170803,
+      "name": "cansada de verte en todas partes",
+      "url": "https://open.spotify.com/track/09uBE5fjZUWZfjD2ensCGR"
     },
     {
       "added_at": "2024-01-26 16:23:21",

@@ -4,7 +4,7 @@
 
 > Selections of North Indian classical music.
 
-68 songs - 19 hr 30 min
+69 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Meditative Gurjari Todi](https://open.spotify.com/track/1RVbuCSwWwp6PD1UlhopjV) | [Nirali Kartik](https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc) | [Navyaa](https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49) | 11:33 | 2021-12-06 |  |
 | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/track/1c6L8hhEgq8fEvT4MuHmdk) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO) | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/album/3j4OOZZ3pOjgu5plv09AAw) | 5:36 | 2021-12-06 |  |
 | [Pahadi](https://open.spotify.com/track/65ctZ5wpladHzbFFHM64ag) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ), [Satyajit Talwalkar](https://open.spotify.com/artist/12i115642dNlreloDOzrtK) | [Saath Saath](https://open.spotify.com/album/1x1NLTjnFDodYTn31ida5k) | 17:53 | 2022-09-09 |  |
-| [Raag Bhairavi \- Dadra \- Rab Tohe Bhoole Nahi Bane](https://open.spotify.com/track/7e8fqBJhN0n5tkfmZTvZFa) | [Shubha Joshi](https://open.spotify.com/artist/3x8HJIi4joDofxR76HbYaC) | [Surmayi](https://open.spotify.com/album/3cLkuIZQzvGn1aFUrohEpE) | 6:17 | 2021-12-06 |  |
+| [Raag Bhairavi \- Dadra \- Rab Tohe Bhoole Nahi Bane](https://open.spotify.com/track/66KrLDDEDYpVKuCwK3WALo) | [Shubha Joshi](https://open.spotify.com/artist/3x8HJIi4joDofxR76HbYaC) | [Surmayi](https://open.spotify.com/album/5gv6rn7TgsEA6Q7mdOjOei) | 6:17 | 2024-01-10 |  |
+| [Raag Bhairavi \- Dadra \- Rab Tohe Bhoole Nahi Bane](https://open.spotify.com/track/7e8fqBJhN0n5tkfmZTvZFa) | [Shubha Joshi](https://open.spotify.com/artist/3x8HJIi4joDofxR76HbYaC) | [Surmayi](https://open.spotify.com/album/3cLkuIZQzvGn1aFUrohEpE) | 6:17 | 2021-12-06 | 2024-01-28 |
 | [Raag Jhinjhoti Alaap Jod](https://open.spotify.com/track/7EksNfDGLeyAZ2XznadmHg) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Raag Jhinjhoti by Ronu Majumdar](https://open.spotify.com/album/7l5QepzzzRX79oT2Yu4qWI) | 19:54 | 2022-04-13 |  |
 | [Raag Mishra Shirvranjani Taal Deepchandi](https://open.spotify.com/track/1pvvfWnFF3va8LrjbUDx8S) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Aashish Khan](https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Jugalbandi II](https://open.spotify.com/album/5shZ28NNUrgvj8bsSuAo40) | 21:49 | 2021-12-06 |  |
 | [Rag Gurjari Todi](https://open.spotify.com/track/0KWUBMhTeC5SObkrJPACZS) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Saptrang](https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ) | 31:36 | 2021-12-06 |  |

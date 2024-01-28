@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8rY0740lkSF.md) - [plain]
 | 93 | [THE SECOND ACT \- X ver.](https://open.spotify.com/track/38hyBU2GzJMndiBpNUZl2A) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [TALES OF PHANTASIA Narikiri Dungeon X Original Soundtrack](https://open.spotify.com/album/3IhlW0fyUCbWTdoEA8VpXQ) | 2:11 |
 | 94 | [TAKE UP THE CROSS \- X ver.](https://open.spotify.com/track/4nswyQlRqmtbQRxiqKQBha) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [TALES OF PHANTASIA Narikiri Dungeon X Original Soundtrack](https://open.spotify.com/album/3IhlW0fyUCbWTdoEA8VpXQ) | 2:39 |
 
-Snapshot ID: `MCw0ZmY2ODA4OGM3OTEwZWI5ZjJkYjU2NDAwZTVhNzgwYTU2YjI0MWU3`
+Snapshot ID: `MCwzZWM3NDk3ODJhYzU0MjA0MzZhNTVjNTZlYzM2YTA1ZjJlNjQ2NmYy`

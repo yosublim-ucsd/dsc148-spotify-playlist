@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Benjamín Walker en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,398 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,941 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Todo lo que puedo darte](https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Libre](https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O) | 3:26 |
+| 1 | [Todo lo que puedo darte](https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [LIBRE](https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O) | 3:26 |
 | 2 | [BAD INTENCIONES](https://open.spotify.com/track/5BwJIBeUgerlyYADTvRctX) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [BAD INTENCIONES](https://open.spotify.com/album/1sSipuadK72m7WMdrfrieC) | 2:49 |
 | 3 | [Mente Positiva](https://open.spotify.com/track/1gHzqXXqpG2zlGvNOWGjto) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Mente Positiva, Fin de Semana](https://open.spotify.com/album/7s9jARF8VWjmMVSjnzzoFb) | 3:05 |
 | 4 | [So payaso](https://open.spotify.com/track/3OSIzpGBWIcygaZNcp099X) | [\_juno](https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP) | [So payaso](https://open.spotify.com/album/1SJJG2C7MHBWA3FQyHrLXZ) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Telenovela](https://open.spotify.com/track/2kIlt57ill9Pr7Cn4Q6eQc) | [Veintiuno](https://open.spotify.com/artist/2k60o7SVpOKmzpuTEAG3L8) | [Telenovela](https://open.spotify.com/album/5Rp7ox8yY7TFGbtOPhnagL) | 3:15 |
 | 50 | [Puede](https://open.spotify.com/track/3E6LExwH6DhY5VxJoLa6BT) | [Pavlenha](https://open.spotify.com/artist/3AbsiDlRF2eFggJ3DVaH6O) | [Puede](https://open.spotify.com/album/3v53xEJpqWAAIeyDqDtjGM) | 4:03 |
 
-Snapshot ID: `MCw1Y2I2YTNiOTJjNjMxZTM0NzhiYWJjMWY5NzE1NjUyOTNkYzQ3OTQ5`
+Snapshot ID: `MCxjYjc4MTA3YjFiN2Y3YTRlN2E5Njg2MTIxODYwMzEwZWUzMDZlMjk4`

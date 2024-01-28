@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-193 songs - 11 hr 11 min
+194 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Lazy Morning Blues](https://open.spotify.com/track/6Aeq5LjXljB082MugZX8vS) | [Gang Of Broken Arms](https://open.spotify.com/artist/6w2X5ZcVoSy0I2dyMDwI3w), [Bruce James](https://open.spotify.com/artist/0lLevbweYkhEvZRnowRBIW) | [Lazy Morning Blues](https://open.spotify.com/album/6Y2wxeU2LnlU2kbnbsXnGe) | 1:56 | 2023-08-18 |  |
 | [Leave This House](https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Leave This House](https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi) | 3:29 | 2021-12-20 |  |
 | [Leavin Trunk](https://open.spotify.com/track/78dp9ik3tgXCVmbOoqo0YS) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG), [Brandon Santini](https://open.spotify.com/artist/2PiiA5Yu3FDwoy5Nlg3M1T) | [I'm Just Getting Started!](https://open.spotify.com/album/3PdVX86oO0mDnceN43LKPr) | 3:56 | 2022-11-17 | 2023-12-24 |
+| [Leavin Trunk](https://open.spotify.com/track/7vnF7vAWro4Cw8qizqsVxU) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG), [Brandon Santini](https://open.spotify.com/artist/2PiiA5Yu3FDwoy5Nlg3M1T) | [I'm Just Getting Started!](https://open.spotify.com/album/0QgQ8Ln8AIxc3Svhc8cbi3) | 3:56 | 2023-11-24 |  |
 | [Let It Rock \(Live from Blueberry Hill\)](https://open.spotify.com/track/6tc69oV0eeSgoQvGAzP7a1) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Let It Rock \(Live from Blueberry Hill\)](https://open.spotify.com/album/5foGuU81PM8iNTwQBFlA9P) | 3:28 | 2021-12-20 |  |
 | [Let's Make It](https://open.spotify.com/track/3d4iDPWE0ED7wpW5KmS9dx) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 2:27 | 2023-08-18 |  |
 | [Little By Little](https://open.spotify.com/track/2VudfnNeGZVGd2BG5PYJpt) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Just Won't Burn \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/3tUrmnZBBUN9ZCtdJh16xn) | 3:49 | 2023-09-22 |  |
@@ -139,7 +140,7 @@
 | [Put It](https://open.spotify.com/track/0ilZ3ymj1tmMcwGsrYpkfb) | [TrackTribe](https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv) | [Put It](https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5) | 3:30 | 2023-08-18 | 2024-01-05 |
 | [Put It](https://open.spotify.com/track/7yrPbz5EYQKSKj8S5Bm7P7) | [TrackTribe](https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv) | [Upstate](https://open.spotify.com/album/6nySaFGbYGGVcR2CKGs64l) | 3:30 | 2023-11-24 |  |
 | [RED DRESS](https://open.spotify.com/track/7piAoG8DsUIsXzahToJ5Yb) | [Ethan Wilson](https://open.spotify.com/artist/0HrxgAPTbsueVGzLVZ6RzP) | [RED DRESS](https://open.spotify.com/album/4uh2J2yGXDUpXqN3VNSTtA) | 3:16 | 2023-08-18 |  |
-| [Red Hot](https://open.spotify.com/track/5sz4rMisEqqLDkObDfNeKq) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Red Hot / No Greater Love](https://open.spotify.com/album/7KEEvzpHHkU4R3BKgsBtZV) | 2:27 | 2023-08-18 |  |
+| [Red Hot](https://open.spotify.com/track/5sz4rMisEqqLDkObDfNeKq) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Red Hot / No Greater Love](https://open.spotify.com/album/7KEEvzpHHkU4R3BKgsBtZV) | 2:27 | 2023-08-18 | 2024-01-28 |
 | [Reverse Engineer](https://open.spotify.com/track/07PQv121zSIpQRlUqZZdRO) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Old Habits](https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y) | 4:10 | 2022-11-17 |  |
 | [Roadhouse Blues](https://open.spotify.com/track/1dLquP9t2o2O9gUeK6JWVy) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 4:25 | 2021-12-20 |  |
 | [Rocket 88](https://open.spotify.com/track/4IiEsxrgzIMdqoN3dwxk6g) | [Ike Turner](https://open.spotify.com/artist/0FAxkBiT0g3jKF2AaKEipb) | [Presenting Ike Turner](https://open.spotify.com/album/72uPVZB2T541kI9nT4khgC) | 2:49 | 2022-07-08 |  |

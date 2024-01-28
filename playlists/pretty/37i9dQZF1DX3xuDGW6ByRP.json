@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: TINN",
-  "num_followers": 47566,
+  "num_followers": 47582,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzczNGUyNzI2MTIwNjY4MzU2YWJkY2FjOTg0NjA0YTMzY2JhNmNi",
+  "snapshot_id": "MCxiNmQwMzNkZjc1MzE1Y2ZlYTkyOWUzZjA5NGE5ZTAwNDk3N2UwZmQx",
   "tracks": [
     {
       "added_at": "2024-01-26 17:06:16",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "REVAMPED",
-        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 227975,
-      "name": "Tell Me You Love Me - Rock Version",
-      "url": "https://open.spotify.com/track/327h326DnJvW5suWlUG8yp"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
         "name": "31",
         "url": "https://open.spotify.com/album/1zdl2g07b86asvSAFwVY6C"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 251611,
       "name": "31",
       "url": "https://open.spotify.com/track/5mJbLqzvoRio2PeuuPcUuU"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
+        "name": "REVAMPED",
+        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 227975,
+      "name": "Tell Me You Love Me - Rock Version",
+      "url": "https://open.spotify.com/track/327h326DnJvW5suWlUG8yp"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
+        "name": "o maior ot\u00e1rio da cidade",
+        "url": "https://open.spotify.com/album/7rcO22U358g8jL6dGkIEuj"
+      },
+      "artists": [
+        {
+          "name": "TINN",
+          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
+        }
+      ],
+      "duration_ms": 168751,
+      "name": "o maior ot\u00e1rio da cidade",
+      "url": "https://open.spotify.com/track/7cxlbR75XRyHr9PbjqBfSc"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
         "name": "Exagerados",
         "url": "https://open.spotify.com/album/68sIZYDlwj9xRy06ENDGuF"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 163880,
       "name": "Exagerado",
       "url": "https://open.spotify.com/track/4KiAjV7djHETTGUDogKz6l"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
-        "name": "o maior ot\u00e1rio da cidade",
-        "url": "https://open.spotify.com/album/7rcO22U358g8jL6dGkIEuj"
-      },
-      "artists": [
-        {
-          "name": "TINN",
-          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
-        }
-      ],
-      "duration_ms": 168751,
-      "name": "o maior ot\u00e1rio da cidade",
-      "url": "https://open.spotify.com/track/7cxlbR75XRyHr9PbjqBfSc"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "Obscuro",
-        "url": "https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6"
-      },
-      "artists": [
-        {
-          "name": "Scalene",
-          "url": "https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z"
-        }
-      ],
-      "duration_ms": 218161,
-      "name": "Obscuro",
-      "url": "https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
         "name": "NUNCA VOU TE PERDOAR",
         "url": "https://open.spotify.com/album/0HFNiOy2tabQwDMTqRxmOD"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 156000,
       "name": "NUNCA VOU TE PERDOAR",
       "url": "https://open.spotify.com/track/375FOAahZKZhCvBAGnEb7t"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
+        "name": "Obscuro",
+        "url": "https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6"
+      },
+      "artists": [
+        {
+          "name": "Scalene",
+          "url": "https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z"
+        }
+      ],
+      "duration_ms": 218161,
+      "name": "Obscuro",
+      "url": "https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "\u00daltimo Clich\u00ea",
-        "url": "https://open.spotify.com/album/6OhFYkE3KeUM6zRlhCE8vE"
-      },
-      "artists": [
-        {
-          "name": "Cine",
-          "url": "https://open.spotify.com/artist/4MZmexF6g7Kk5nWAP8f5Zr"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "\u00daltimo Clich\u00ea",
-      "url": "https://open.spotify.com/track/3n3aZ903Y3TjQseFJTOFin"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
         "name": "Emocionado",
         "url": "https://open.spotify.com/album/4EsncwoboDBXFxpFKG8Khj"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 167218,
       "name": "Emocionado",
       "url": "https://open.spotify.com/track/0cSQ6uPHR8IHL3QfYe7n8j"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
+        "name": "\u00daltimo Clich\u00ea",
+        "url": "https://open.spotify.com/album/6OhFYkE3KeUM6zRlhCE8vE"
+      },
+      "artists": [
+        {
+          "name": "Cine",
+          "url": "https://open.spotify.com/artist/4MZmexF6g7Kk5nWAP8f5Zr"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "\u00daltimo Clich\u00ea",
+      "url": "https://open.spotify.com/track/3n3aZ903Y3TjQseFJTOFin"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -1187,6 +1187,34 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
+        "name": "Vampira (Remix)",
+        "url": "https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B"
+      },
+      "artists": [
+        {
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
+        },
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "CyberKills",
+          "url": "https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3"
+        },
+        {
+          "name": "FUSO!",
+          "url": "https://open.spotify.com/artist/2nVbDbaNm0KhD8zfkTk6pq"
+        }
+      ],
+      "duration_ms": 178848,
+      "name": "Vampira - Remix",
+      "url": "https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
         "name": "PODERIA SER (bem) PIOR",
         "url": "https://open.spotify.com/album/6q0gUaY6hsZIvOlatWotu0"
       },
@@ -1219,26 +1247,6 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "melhor ou pior",
-        "url": "https://open.spotify.com/album/6tHajjp3p45awmBCk4NbK9"
-      },
-      "artists": [
-        {
-          "name": "THAIS",
-          "url": "https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29"
-        },
-        {
-          "name": "Jambu",
-          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "melhor ou pior",
-      "url": "https://open.spotify.com/track/5yKVs2FmMzrhr1zoK1tljt"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
         "name": "Andar 14",
         "url": "https://open.spotify.com/album/2ZaCdkFUHGtBohD7o763cK"
       },
@@ -1259,6 +1267,26 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
+        "name": "melhor ou pior",
+        "url": "https://open.spotify.com/album/6tHajjp3p45awmBCk4NbK9"
+      },
+      "artists": [
+        {
+          "name": "THAIS",
+          "url": "https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29"
+        },
+        {
+          "name": "Jambu",
+          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "melhor ou pior",
+      "url": "https://open.spotify.com/track/5yKVs2FmMzrhr1zoK1tljt"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
         "name": "EMO NAS BAHAMAS",
         "url": "https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7"
       },
@@ -1271,6 +1299,22 @@
       "duration_ms": 148880,
       "name": "VOU ALI DORMIR",
       "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF"
+      },
+      "artists": [
+        {
+          "name": "CHADY",
+          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
+        }
+      ],
+      "duration_ms": 161866,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -1291,22 +1335,6 @@
       "duration_ms": 126303,
       "name": "Coocoocrazy",
       "url": "https://open.spotify.com/track/1koc0xNNXvdZvxUVKG9Pew"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF"
-      },
-      "artists": [
-        {
-          "name": "CHADY",
-          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
-        }
-      ],
-      "duration_ms": 161866,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -1447,26 +1475,6 @@
       "duration_ms": 134382,
       "name": "Legado",
       "url": "https://open.spotify.com/track/22hTtzEc2038qqwCuiZ687"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
-        "name": "Vampira (Remix)",
-        "url": "https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B"
-      },
-      "artists": [
-        {
-          "name": "Mia Badgyal",
-          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
-        },
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 178848,
-      "name": "Vampira - Remix",
-      "url": "https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ"
     },
     {
       "added_at": "2024-01-26 17:06:16",

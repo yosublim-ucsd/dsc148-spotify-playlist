@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,375 songs - 2 day 3 hr 48 min
+1,376 songs - 2 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Awakening](https://open.spotify.com/track/28TFSOJsr6zUIujZ9vvpOK) | [Sima Jones](https://open.spotify.com/artist/4vYSw95x1SISLFatLw6DcK) | [Awakening](https://open.spotify.com/album/2LlvQDAl15bYhNSij713zO) | 1:48 | 2022-01-27 | 2022-09-03 |
 | [b side](https://open.spotify.com/track/6hUbKFoBqMOGJG5rnQ8qpd) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [b side](https://open.spotify.com/album/17LmbYfU3fBzqxWG9miISo) | 1:50 | 2023-10-27 |  |
 | [Baby Steps](https://open.spotify.com/track/1wHj1ok3aquNUubrCtcw7Q) | [Rigid Moods](https://open.spotify.com/artist/1RQFHOfP3K3mIBNr6xjgy7), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Baby Steps](https://open.spotify.com/album/1H3QOGHdXsCykOviRZe4N2) | 3:26 | 2022-08-12 | 2022-10-15 |
-| [Back Again](https://open.spotify.com/track/2D0IcgJIewYoqiCdQmiAm2) | [Dillon Kay](https://open.spotify.com/artist/3gEfOUa3nPTlBSjLRxtrmq) | [Sunday Sketch & Back Again](https://open.spotify.com/album/3eHKPmK9TTOPXNgFwnzTQ6) | 2:27 | 2023-02-13 | 2024-01-10 |
+| [Back Again](https://open.spotify.com/track/2D0IcgJIewYoqiCdQmiAm2) | [Dillon Kay](https://open.spotify.com/artist/3gEfOUa3nPTlBSjLRxtrmq) | [Sunday Sketch & Back Again](https://open.spotify.com/album/3eHKPmK9TTOPXNgFwnzTQ6) | 2:27 | 2023-02-13 |  |
 | [Backhome](https://open.spotify.com/track/6sRDG18KiJrhoQuZJbTZi5) | [tatuí](https://open.spotify.com/artist/1h4sBiq6QUcJXyoUZDJCUu) | [Backhome](https://open.spotify.com/album/3g12yPQDZGTOsoyw6c676z) | 2:39 | 2022-09-02 | 2023-09-16 |
 | [Balancing](https://open.spotify.com/track/6R5TBVKCGiV8ITQxBRXAz0) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Balancing](https://open.spotify.com/album/7jfKj6qTIRZM0qiRT2TFea) | 2:14 | 2022-12-16 |  |
 | [bald buff activated](https://open.spotify.com/track/1HL0PG4hoX3UQjliOpKowg) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Fnatic Island Vol\. 1](https://open.spotify.com/album/7wX06Zgl00aBrSMBaRQmbO) | 2:16 | 2022-11-11 | 2023-09-05 |
@@ -367,7 +367,7 @@
 | [Fairy Tale Path](https://open.spotify.com/track/3Yf1iC4HUjLAfN7kzv86oy) | [Kokomiko](https://open.spotify.com/artist/1Tl7kataLF4lZip5jfVd7D), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Fairy Tale Path](https://open.spotify.com/album/1EMrTr2AvTqSma1QsjNC5t) | 1:55 | 2023-09-04 | 2023-10-20 |
 | [Fall in Love](https://open.spotify.com/track/3ekZYrWTJwyCICJwvVGTbh) | [OVN](https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304) | [Fall in Love](https://open.spotify.com/album/2EWNPZ0rCXhlV7vpZPS4W3) | 2:00 | 2022-10-08 | 2023-09-22 |
 | [Falling](https://open.spotify.com/track/2wXW4UKo3pXoINNgTzPlxb) | [Perpetual Machine](https://open.spotify.com/artist/2LfRjZGrFS9eu2fppbwGEk) | [Falling](https://open.spotify.com/album/3jFi4OaifWoDWZjsNzsqCe) | 2:13 | 2022-05-20 |  |
-| [Fantasy](https://open.spotify.com/track/3rA0C85YSUAfbgz9VcaSZt) | [Hallie](https://open.spotify.com/artist/4LmD8cR6Zd5udgGP2RHGdb) | [Fantasy](https://open.spotify.com/album/6n36uThkqF7cInMVdxMEsr) | 3:36 | 2023-07-13 |  |
+| [Fantasy](https://open.spotify.com/track/3rA0C85YSUAfbgz9VcaSZt) | [Hallie](https://open.spotify.com/artist/4LmD8cR6Zd5udgGP2RHGdb) | [Fantasy](https://open.spotify.com/album/6n36uThkqF7cInMVdxMEsr) | 3:36 | 2023-07-13 | 2024-01-28 |
 | [Far and Away](https://open.spotify.com/track/1WNUwd7pGt9a8bPAzAA3VA) | [Superglue](https://open.spotify.com/artist/7BqBBLHGWZquOBSunMwRsp), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Far and Away](https://open.spotify.com/album/6vAr3Uv1lyuR4MRhU9BRHk) | 2:49 | 2022-11-25 | 2023-04-21 |
 | [far off](https://open.spotify.com/track/0eZPE3dNkTwxsnOT7FoeTO) | [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl), [M o j o](https://open.spotify.com/artist/4zYnONNjBgbIWYFTq6hzQ4) | [far off](https://open.spotify.com/album/3dFlPi3ewKakbJzDOBlUE7) | 1:41 | 2022-08-05 | 2023-01-07 |
 | [Farsight](https://open.spotify.com/track/5xTE8h6MflxH7GaJZMinNn) | [Joe Sunrise](https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy) | [Farsight](https://open.spotify.com/album/2fezbChLXFbjtEcZwDbVro) | 1:57 | 2022-08-05 | 2022-12-10 |
@@ -819,7 +819,7 @@
 | [New Canary in Town](https://open.spotify.com/track/0kDJu1vVdvQd8zgoGMTjNr) | [Zoozzy](https://open.spotify.com/artist/6KnbMTPGZkiurTMRHRFYSC) | [New Canary in Town](https://open.spotify.com/album/5krBS3qtNJngoj6GKJwmtq) | 3:17 | 2022-01-27 | 2023-05-20 |
 | [New Day](https://open.spotify.com/track/7tfPRq7O7QsyddB0LmLBhJ) | [Azido 88](https://open.spotify.com/artist/36Hfqd2C0x7oulFJTAuIt0), [Moon Ghetto](https://open.spotify.com/artist/13Z78tf8milV5V0tcNwVq0) | [New Day](https://open.spotify.com/album/4ZROMfhzXmzeA6SkgoiBMD) | 1:48 | 2023-01-20 |  |
 | [New Day Coming](https://open.spotify.com/track/6WCjNK192Wl9xDtwe5yMP7) | [Lvnt](https://open.spotify.com/artist/0lJBgFBswR7nf4TrKtwZQt) | [New Day Coming](https://open.spotify.com/album/4BNTLPkgMihGja5aBAkk89) | 2:37 | 2022-09-30 | 2023-09-22 |
-| [new era](https://open.spotify.com/track/2OEy7mdr3nqCLXLXz5KX02) | [rollerbladie](https://open.spotify.com/artist/2v1qbZxflMpzbTQSQfmwah) | [new era](https://open.spotify.com/album/6EaOjZA4k52UfZO5Tqhhu6) | 2:12 | 2023-05-19 |  |
+| [new era](https://open.spotify.com/track/2OEy7mdr3nqCLXLXz5KX02) | [rollerbladie](https://open.spotify.com/artist/2v1qbZxflMpzbTQSQfmwah) | [new era](https://open.spotify.com/album/6EaOjZA4k52UfZO5Tqhhu6) | 2:12 | 2023-05-19 | 2024-01-28 |
 | [New Sneakers](https://open.spotify.com/track/3Y5XXeKGhFDZjKzXDbAeNX) | [Guy Rickard](https://open.spotify.com/artist/0YxB3L46MotRo4ngOeOB5M), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [New Sneakers](https://open.spotify.com/album/1nZCM4YAGBf6CgKuLUCxIx) | 2:18 | 2022-11-11 | 2023-09-29 |
 | [newton photographs.](https://open.spotify.com/track/5rXLp36x4fIeyvxRLO5Zzz) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [newton photographs.](https://open.spotify.com/album/1b52CvnaTEWegZejdI276b) | 1:52 | 2023-05-19 | 2023-11-08 |
 | [Next Chapter](https://open.spotify.com/track/1iPLQ6VARP7lFaE45ezw3W) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Next Chapter](https://open.spotify.com/album/6P1Rhjg3KWMHTXPXzj9qtS) | 1:36 | 2022-01-27 | 2022-06-10 |
@@ -1353,6 +1353,7 @@
 | [Windows Down Please](https://open.spotify.com/track/0PvlcijhpAcsJt0a0sv48p) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Windows Down Please](https://open.spotify.com/album/27NSyKkHjFnOoTyBH7rBKA) | 2:03 | 2023-02-17 |  |
 | [windowsill.](https://open.spotify.com/track/6g8WlgW1divhDIY4arP8t3) | [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [windowsill.](https://open.spotify.com/album/6GGkqL4vnSG0qJIHSpxfrM) | 2:14 | 2022-04-15 | 2022-11-12 |
 | [Wine To The Plants](https://open.spotify.com/track/6XqLGVVMtx8ZUK8jsZhAWR) | [Green Bicycle](https://open.spotify.com/artist/6pusENjxOSBxgEdWFNCA3j) | [Wine To The Plants](https://open.spotify.com/album/3V0GXWAPQnhMiYuWnr8jzi) | 2:27 | 2022-01-27 | 2022-09-03 |
+| [winter creek](https://open.spotify.com/track/0zUhH7k0CrDhRSFiaxtF0D) | [sozin](https://open.spotify.com/artist/0XO6mvpyaIdmGMmpsTtyIj) | [winter creek](https://open.spotify.com/album/2qr0uFcB5ilNdYQtvsFJOQ) | 2:44 | 2024-01-19 |  |
 | [Wisdoms](https://open.spotify.com/track/7knt6DCTc2JhUBQLkJVzDM) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [anbuu](https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q) | [Wisdoms](https://open.spotify.com/album/3Re1laNJonephU9EOKp992) | 1:57 | 2022-04-08 | 2022-10-15 |
 | [Wish You Were Here](https://open.spotify.com/track/2j7BPZDxU6TVZ3miGoLiF5) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Orange Stick](https://open.spotify.com/artist/2Ie3P7oklbSFxfrGtrkT9W) | [Wish You Were Here](https://open.spotify.com/album/5haWEfAMuj6IOs1yQyzJvM) | 1:59 | 2022-01-27 | 2022-04-22 |
 | [With A View](https://open.spotify.com/track/6xmfm1qISCNu4wofhgjjjn) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [With A View](https://open.spotify.com/album/7luQXjFs9O7L3jJBxEmnjK) | 1:55 | 2022-12-16 | 2023-10-06 |

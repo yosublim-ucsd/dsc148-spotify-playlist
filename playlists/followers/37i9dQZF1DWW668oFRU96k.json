@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 200728,
+  "2024-01-28": 200492,
   "date_first_scraped": "2023-02-04",
   "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Cheat Codes x Birdy",
   "name": "Electro Mix",
@@ -4347,6 +4347,28 @@
       "duration_ms": 155000,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/7xUsq89RxKN7Af07ydgX1b"
+    },
+    {
+      "album": {
+        "name": "iScreaM Vol.29 : Fact Check Remixes",
+        "url": "https://open.spotify.com/album/7BtKnsfFs2zXcpIty9mMqP"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        },
+        {
+          "name": "2Spade",
+          "url": "https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225230,
+      "name": "Fact Check - 2Spade Remix",
+      "url": "https://open.spotify.com/track/2XqJVFoCikwIJqVx4YKRTN"
     },
     {
       "album": {
@@ -14948,7 +14970,7 @@
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 212800,
+      "duration_ms": 211200,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr"
     },

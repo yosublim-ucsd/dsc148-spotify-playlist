@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-226 songs - 12 hr 46 min
+227 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Burn MF](https://open.spotify.com/track/2r6w2d3ehFw7BZ5yDLcroq) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Burn MF](https://open.spotify.com/album/3xQTtEFddnUR8jjHR36RUh) | 3:03 | 2022-12-08 | 2023-10-26 |
 | [Cannibal \- Radical Redemption Remix](https://open.spotify.com/track/2DWwikXjYJpQe7sbdjgUQl) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Cannibal \(Radical Redemption Remix\)](https://open.spotify.com/album/0IkDRXg0wntX1zPOlaKDqq) | 3:07 | 2022-12-08 | 2023-10-26 |
 | [Choose Life](https://open.spotify.com/track/2EHSBfC2epl3BXYR2uYrFd) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Choose Life](https://open.spotify.com/album/78oFO3EBoHwZEyyzqMJu9n) | 3:08 | 2023-05-15 |  |
-| [Come for You](https://open.spotify.com/track/6jLL2rtFTGpzStKsw3XBqN) | [Regain](https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK) | [Back to Square One](https://open.spotify.com/album/6kZ3RJatrJ9zZvZwIAYiJb) | 2:48 | 2022-12-08 |  |
+| [Come for You](https://open.spotify.com/track/6jLL2rtFTGpzStKsw3XBqN) | [Regain](https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK) | [Back to Square One](https://open.spotify.com/album/6kZ3RJatrJ9zZvZwIAYiJb) | 2:48 | 2022-12-08 | 2024-01-28 |
 | [Crazy, Like Me!](https://open.spotify.com/track/1Q2olRfNKPRStACvonlfqS) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Crazy, Like Me!](https://open.spotify.com/album/7fP1WnaLnKYajHvHJjU15g) | 2:54 | 2022-12-08 | 2023-09-02 |
 | [Creed Of Freakstyle](https://open.spotify.com/track/14IsD2FgLmBaGVsbCm1oIE) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Creed Of Freakstyle](https://open.spotify.com/album/5QgbUIZAldBQ6FmWDMXD6D) | 4:09 | 2023-09-28 |  |
 | [Cryexgenic](https://open.spotify.com/track/1UACIXnIw1AVHyodV4wbhv) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b), [Cryogenic](https://open.spotify.com/artist/3JkD7HM6gEzgOMm9kwzunN) | [Cryexgenic](https://open.spotify.com/album/1wVCfLLSlUP2zprjVCYKR9) | 3:43 | 2022-12-08 | 2023-09-02 |
@@ -158,6 +158,7 @@
 | [One Way](https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk) | [Bloodfire](https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7) | [One Way](https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM) | 3:20 | 2022-12-08 |  |
 | [Our Harmony \(Official Harmony of Hardcore 2022 Anthem\)](https://open.spotify.com/track/6D67E5KlS9L6o2KgU3Ng0O) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Our Harmony \(Official Harmony of Hardcore 2022 Anthem\)](https://open.spotify.com/album/19TTclSlr9unAuLXAC8S29) | 5:24 | 2022-12-08 | 2023-09-02 |
 | [Outta Here](https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [Outta Here](https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw) | 2:18 | 2023-04-20 |  |
+| [Overdosis](https://open.spotify.com/track/6SA6ttzni94LLVM3Jm5J14) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Overdosis](https://open.spotify.com/album/3LYrflZG7Q6zEP41JVercl) | 3:40 | 2024-01-24 |  |
 | [Pac\-man 2.0](https://open.spotify.com/track/4lXnOLBho6DRMaTUnJoACs) | [FrenchFaces](https://open.spotify.com/artist/5I6ibYN9zhp6iqtJGuHjMt) | [Pac\-man 2.0](https://open.spotify.com/album/1xKoaEipTJrKQNXlQzpyMj) | 2:28 | 2022-12-08 | 2023-10-26 |
 | [Paganos](https://open.spotify.com/track/0vmrcHXNc8wuuowKWOzBr3) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Paganos](https://open.spotify.com/album/59BnQ9t7fehMLcXUUwAxcW) | 4:07 | 2023-01-26 | 2023-05-26 |
 | [PartyRockerz](https://open.spotify.com/track/2iRiV6IPA015xIEGfiwXKX) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [PartyRockerz](https://open.spotify.com/album/51mWPGTNUyjPtbkYyh6cYI) | 2:55 | 2022-12-08 | 2023-09-02 |

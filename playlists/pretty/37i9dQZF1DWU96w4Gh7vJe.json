@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 585371,
+  "num_followers": 583622,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDc5YTZmY2U1NmVjMzUxZmQyMGMwNjZhNjg1NTFjYWRiZTBkNzY1",
+  "snapshot_id": "MCwyNmVmMWJkMmNmZjQ2ZmYzMGM1OTBiOTQ2YzRhODBiMjQ0NGM0Mzk1",
   "tracks": [
     {
       "added_at": "2023-12-08 07:32:26",
@@ -103,22 +103,18 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Gusto",
-        "url": "https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK"
+        "name": "Miss Miss",
+        "url": "https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o"
       },
       "artists": [
         {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        },
-        {
-          "name": "Al James",
-          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Gusto feat. Al James",
-      "url": "https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL"
+      "duration_ms": 265677,
+      "name": "Miss Miss",
+      "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -143,18 +139,22 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Miss Miss",
-        "url": "https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o"
+        "name": "Gusto",
+        "url": "https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK"
       },
       "artists": [
         {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        },
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
         }
       ],
-      "duration_ms": 265677,
-      "name": "Miss Miss",
-      "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
+      "duration_ms": 260000,
+      "name": "Gusto feat. Al James",
+      "url": "https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Gusto With Ya",
-        "url": "https://open.spotify.com/album/3hQTzUwRIXnetrF1WrSrfk"
-      },
-      "artists": [
-        {
-          "name": "DEN\u0232",
-          "url": "https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Gusto With Ya",
-      "url": "https://open.spotify.com/track/0hr2Itwh84Zn3PiRRjHTnw"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
         "name": "Sa Susunod Na Lang",
         "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 214606,
       "name": "Sa Susunod Na Lang",
       "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
+        "name": "Gusto With Ya",
+        "url": "https://open.spotify.com/album/3hQTzUwRIXnetrF1WrSrfk"
+      },
+      "artists": [
+        {
+          "name": "DEN\u0232",
+          "url": "https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Gusto With Ya",
+      "url": "https://open.spotify.com/track/0hr2Itwh84Zn3PiRRjHTnw"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
+        "name": "Malaya",
+        "url": "https://open.spotify.com/album/4MPMYc8S6csdHlF8Ud1yLp"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 260239,
+      "name": "Tagpuan",
+      "url": "https://open.spotify.com/track/6pA9QdHAzg1cyG6I7xI7Ez"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
         "name": "Aking Pahinga",
         "url": "https://open.spotify.com/album/5dO0Qwl40jXrQ4NCmRRuvb"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 274285,
       "name": "Aking Pahinga",
       "url": "https://open.spotify.com/track/6zcjOnMaymoEbG32dWekXi"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
-        "name": "Malaya",
-        "url": "https://open.spotify.com/album/4MPMYc8S6csdHlF8Ud1yLp"
-      },
-      "artists": [
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 260239,
-      "name": "Tagpuan",
-      "url": "https://open.spotify.com/track/6pA9QdHAzg1cyG6I7xI7Ez"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Kursunada",
-        "url": "https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA"
-      },
-      "artists": [
-        {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
-        }
-      ],
-      "duration_ms": 179117,
-      "name": "Kursunada",
-      "url": "https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
         "name": "Ultraelectromagnetic Jam",
         "url": "https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o"
       },
@@ -823,22 +807,6 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Ang Aking Awitin",
-        "url": "https://open.spotify.com/album/04kUFHCYtia8N4oqq0XeVJ"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Liang",
-          "url": "https://open.spotify.com/artist/6GbCVaJ6iTA0OnZaOiDpl0"
-        }
-      ],
-      "duration_ms": 212840,
-      "name": "Ngiti",
-      "url": "https://open.spotify.com/track/2086mMaH4riDyU13MSYzzx"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
         "name": "Nagbabakasakali",
         "url": "https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ"
       },
@@ -855,6 +823,38 @@
       "duration_ms": 202764,
       "name": "Nagbabakasakali",
       "url": "https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
+        "name": "Ang Aking Awitin",
+        "url": "https://open.spotify.com/album/04kUFHCYtia8N4oqq0XeVJ"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Liang",
+          "url": "https://open.spotify.com/artist/6GbCVaJ6iTA0OnZaOiDpl0"
+        }
+      ],
+      "duration_ms": 212840,
+      "name": "Ngiti",
+      "url": "https://open.spotify.com/track/2086mMaH4riDyU13MSYzzx"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
+        "name": "Kursunada",
+        "url": "https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "duration_ms": 179117,
+      "name": "Kursunada",
+      "url": "https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU"
     }
   ],
   "unique_name": "Relax Tayo",

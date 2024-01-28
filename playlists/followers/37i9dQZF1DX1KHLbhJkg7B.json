@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 104523,
+  "2024-01-28": 104588,
   "date_first_scraped": "2022-01-02",
   "description": "Unique versions of hit songs by other artists. Cover: Dolly Parton and Lainey Wilson",
   "name": "Country Covers",
@@ -2147,7 +2147,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 228582,
       "name": "Grandpa (Tell Me \u2018Bout The Good Old Days) (feat. Sonya Isaacs)",
       "url": "https://open.spotify.com/track/7cZjwz3PPzPcmiUVgS7hvJ"
@@ -2591,7 +2591,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 246226,
       "name": "I Don't Want To Miss A Thing",
       "url": "https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1"
@@ -3717,7 +3717,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 277856,
       "name": "Love Can Build A Bridge",
       "url": "https://open.spotify.com/track/74FRX1yPdHxH2Bw0kkVY0X"
@@ -5085,7 +5085,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 171320,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/2Gd3xovLjWKqPIfQNs3LP0"
@@ -5938,6 +5938,24 @@
     },
     {
       "album": {
+        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
+        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241600,
+      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
+      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
+    },
+    {
+      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/35bKt6TLADU51iQ6Z3Of5S"
       },
@@ -6577,7 +6595,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 203681,
       "name": "Why Not Me",
       "url": "https://open.spotify.com/track/3Y1z8jH2cNqXZ9TDdEXOx3"

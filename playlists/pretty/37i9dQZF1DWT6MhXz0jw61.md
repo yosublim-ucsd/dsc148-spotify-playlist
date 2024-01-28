@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Bas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,307,205 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,306,719 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 54 | [MAYNARD VIGNETTE \[Feat\. T.I., JID, Jacquees\]](https://open.spotify.com/track/4H8RhDIpZidT57dKw30k1C) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [MAYNARD VIGNETTE \[Feat\. T.I., JID, and Jacquees\]](https://open.spotify.com/album/60JfsbLNllrEy2zwjO2qzL) | 4:48 |
 | 55 | [Fallin'](https://open.spotify.com/track/1pkK7kZtxGBoXb583vDS9E) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Fallin'](https://open.spotify.com/album/3jRxPwXTP8INLOVpmDxDxo) | 4:20 |
 | 56 | [Mr\. Put That Shit On](https://open.spotify.com/track/4r2pxdCocBEyQ93xbsaYof) | [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Mr\. Put That Shit On](https://open.spotify.com/album/0iB4O5HImR5jopE1vf7WYr) | 5:48 |
-| 57 | [Waffle House](https://open.spotify.com/track/7wRkk2WREAGMBdEpMorsda) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A) | [Waffle House](https://open.spotify.com/album/6sytxaodVoEenPlPsZbaBz) | 2:10 |
+| 57 | [Waffle House](https://open.spotify.com/track/7wRkk2WREAGMBdEpMorsda) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A), [LNDN DRGS](https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW) | [Waffle House](https://open.spotify.com/album/6sytxaodVoEenPlPsZbaBz) | 2:10 |
 | 58 | [Imagine](https://open.spotify.com/track/73wXgS33gR5XYBsIm2SUCd) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [RIP Human Art](https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf) | 4:25 |
 | 59 | [Trust Issues](https://open.spotify.com/track/7FM9XdexrrYaoPFZ6Ggn0k) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [ChanHays](https://open.spotify.com/artist/71WAGa6lzYIgOOvGwifQtk) | [Prisoner of Circumstance](https://open.spotify.com/album/1NybbGtRnS2FiOpnuK57AO) | 3:36 |
 | 60 | [Heavenly Father \(Live\) \- Spotify Ten Version](https://open.spotify.com/track/4jS3qNCepG51ykCim7tiHY) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Cilvia Demo \- Spotify Ten \- 10th Anniversary Series](https://open.spotify.com/album/4vnluuwKQJwtUQ6U6wjh7T) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [WHAT A DAY](https://open.spotify.com/track/3v3gyQkwRQGwDUZ7V2q2lF) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:36 |
 | 100 | [Dead Men \(feat\. Cozz\)](https://open.spotify.com/track/6yy0W5bgERNnQ5diS20fdT) | [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Dead Men \(feat\. Cozz\)](https://open.spotify.com/album/5kwKgot9Kn11YSbiuWJr7O) | 2:51 |
 
-Snapshot ID: `MCxlZjI2ZmZiOGI5OTU0YWU5MWM5OWM1MmQ4OWU4NDMxYTRmMTJlYjM3`
+Snapshot ID: `MCwyNjZlMWJlOGVlMDdiYTE4YmFhMThiOTk0NjdjZTMzODU2YWY1OTk3`

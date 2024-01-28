@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Dana Salah
 
-608 songs - 1 day 11 hr 5 min
+609 songs - 1 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Al Nafsiyah Mhtajah](https://open.spotify.com/track/2Jefv2qJPGxlHWq6RxnQRR) | [Shireen Adam](https://open.spotify.com/artist/3yIVEFwSz53R0i2qSLfmYU) | [Al Nafsiyah Mhtajah](https://open.spotify.com/album/6T0pbsKriw4OaDWRJGp9ng) | 3:24 | 2021-12-23 | 2022-03-02 |
 | [Al Sodfa](https://open.spotify.com/track/2129hTPYFuxRwddEyZQQxq) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Al Sodfa](https://open.spotify.com/album/3U0JikN0cQIjuDnortcJ2R) | 2:53 | 2023-12-07 | 2024-01-11 |
 | [Ala El Hady](https://open.spotify.com/track/2wdjKsBwJikP1TPNhKuyyo) | [Nour Khan](https://open.spotify.com/artist/2xI0X8RCZHFCbtBlNJsZzs), [Ahmed Kore](https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI) | [Ala El Hady](https://open.spotify.com/album/6riYimL3CYEpHcq8k8Agla) | 3:04 | 2022-03-01 | 2023-05-13 |
+| [Ala Fekra](https://open.spotify.com/track/0WeYHVHRImagDo5teUkDOw) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ) | [Ala Fekra](https://open.spotify.com/album/2WAbd2SNR3NuetCFRp4uB8) | 3:17 | 2024-01-27 |  |
 | [Albi Elou](https://open.spotify.com/track/7uIdrMD04D7jsL7lI6ytTw) | [Farah Chreim](https://open.spotify.com/artist/76hwkSg4dVAp3IYhM5VqWc) | [قلبي الو](https://open.spotify.com/album/2jEyAidrKSxLYj8lsz0H4Y) | 3:13 | 2022-06-23 | 2023-05-13 |
 | [Aldonia Dehketly](https://open.spotify.com/track/37mg7IAjMjxnWfqyOxqszq) | [Samar](https://open.spotify.com/artist/5Qs4cnxDrKtH9JTSQSofD1) | [Aldonia Dehketly](https://open.spotify.com/album/2JR3DMCvtWe1bbMTPsrWJ6) | 5:07 | 2021-12-23 | 2022-03-02 |
 | [Alf Rooh \- ألف روح](https://open.spotify.com/track/2prFWJwT8jPBGTOlHAKx2b) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Alf Rooh \(ألف روح\)](https://open.spotify.com/album/2vqM1d2q5lvZPI6j1xf8ZE) | 2:58 | 2023-07-06 | 2024-01-11 |

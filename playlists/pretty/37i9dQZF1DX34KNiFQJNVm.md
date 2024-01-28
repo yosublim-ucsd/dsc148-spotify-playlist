@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Gusttavo Lima e Mari Fernandez, Leo Santana e Ludmilla, Duda Beat e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,909,467 likes - 95 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,904,705 likes - 95 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 46 | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/album/3xYwyMzauc6ENKu2HhpuiP) | 3:15 |
 | 47 | [Hora H](https://open.spotify.com/track/35SfQRslL7TMu3UtFJDThw) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [DJ Pedro](https://open.spotify.com/artist/6sp12XzqjowOJNO1jkbXMR), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Hora H](https://open.spotify.com/album/4PqwySufUoB6hI6P1RUuwt) | 3:47 |
 | 48 | [Gyn Com Ice](https://open.spotify.com/track/7DMpebmacgxusFS2sO9CNS) | [DogBeat](https://open.spotify.com/artist/6QshhXyQBLzoTMIfN5UZLI), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Gyn Com Ice](https://open.spotify.com/album/6xSHvzWFeXad5VC8rEowwF) | 2:45 |
-| 49 | [Sabe Viver](https://open.spotify.com/track/6FdCVlIxLqLlR558Y9OCGm) | [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X) | [Sabe Viver](https://open.spotify.com/album/2kq0ssSC4DeLXe465L5smP) | 1:54 |
+| 49 | [Sabe Viver](https://open.spotify.com/track/6FdCVlIxLqLlR558Y9OCGm) | [DJ Biel do Furduncinho Feat\. Ian Durso](https://open.spotify.com/artist/351MhWLn8OkTt5dnmAko26), [Ian Durso](https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3) | [Sabe Viver](https://open.spotify.com/album/2kq0ssSC4DeLXe465L5smP) | 1:54 |
 | 50 | [Djavu](https://open.spotify.com/track/2WH637f5jibXgY3Be06EC9) | [Eddu Chaves](https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa), [Tertto](https://open.spotify.com/artist/2Ab3GEqPRCoaRDCBhkUgIr), [Raonir Braz](https://open.spotify.com/artist/44w1bg6i4nDOZMvNnGiRdg), [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy) | [Djavu](https://open.spotify.com/album/3teEapeQnAL8iGDlIUb9Cq) | 4:11 |
 | 51 | [Nuuu Que Trem Bão \- Ao vivo](https://open.spotify.com/track/4j43glFTBnFmFCiiV9CHoy) | [Léo & Raphael](https://open.spotify.com/artist/68cvVh3HBHdwWfccCTaq0T) | [Nuuu Que Trem Bão \(Ao vivo\)](https://open.spotify.com/album/3IamZ5ClhBYjPJF0hoXXS2) | 2:12 |
 | 52 | [Estrada de Chão](https://open.spotify.com/track/4ri2pzitSg3ONqxQm1jBu3) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Francisco](https://open.spotify.com/artist/4d9ExYWhOcTwrHJgTl3tJg), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Estrada de Chão](https://open.spotify.com/album/0T99aYwp0i0V6raxIYpcBi) | 2:08 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 94 | [Descaradamente \- Ao Vivo](https://open.spotify.com/track/32Ee0frAiZ0XTNiodyYLkN) | [Alexia Reis](https://open.spotify.com/artist/6rYmVcx0TKASZU6Tn3MgA3), [Workshow](https://open.spotify.com/artist/6YjAtmEF0HcwMnKYSHSDDJ) | [Descaradamente \(Ao Vivo\)](https://open.spotify.com/album/3f2wtfiIb7TfmHkxBHwjDU) | 2:41 |
 | 95 | [Lugar Igual não Há](https://open.spotify.com/track/5QnHR6Fe9rBbIkOY1X7QNE) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV) | [Kabeceira](https://open.spotify.com/album/06dM2WfSkGCsyJRfiX9T72) | 3:48 |
 
-Snapshot ID: `MCwyMzkxYWUwZGRlM2E2MDMzNmU4N2NjNDg3YTJmNGFiN2E3NmY4Njk4`
+Snapshot ID: `MCwzMWE5MzgyMGFkMDg1NzQzNzlkYjhlZGU0ZmUxNmUyYjdhN2M5MDYy`

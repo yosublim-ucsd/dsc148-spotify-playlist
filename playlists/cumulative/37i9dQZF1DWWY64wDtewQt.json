@@ -10259,6 +10259,24 @@
     },
     {
       "album": {
+        "name": "Robot Rock (Funk)",
+        "url": "https://open.spotify.com/album/5XfXXTKbjPlr3jpvnVNJw7"
+      },
+      "artists": [
+        {
+          "name": "DJ Crazy 013",
+          "url": "https://open.spotify.com/artist/3LMb9Tf8kmQWdKoDmoQM29"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151902,
+      "name": "Robot Rock (Funk)",
+      "url": "https://open.spotify.com/track/3ixyPOkAX9ooVeu3JWr9H2"
+    },
+    {
+      "album": {
         "name": "robot rock (funk)",
         "url": "https://open.spotify.com/album/4doU2xxrxSK6BHe3TjsKdW"
       },
@@ -10288,7 +10306,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 151902,
       "name": "Robot Rock (funk)",
       "url": "https://open.spotify.com/track/4WlO3Mb8cDzTVHxFQkP3pi"

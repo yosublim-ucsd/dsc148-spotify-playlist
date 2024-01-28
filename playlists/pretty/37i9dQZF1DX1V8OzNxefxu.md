@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 
 > Quelques chansons tranquilles pour des moments tendres et complices
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,780 likes - 68 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,781 likes - 68 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 | 7 | [La fée](https://open.spotify.com/track/06pqXPHiUMiTagMqmDKttd) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Zaz](https://open.spotify.com/album/6MuoqipFgorIZEYwGWEFAU) | 4:05 |
 | 8 | [Il est où le bonheur](https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [L'attrape\-rêves](https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI) | 4:10 |
 | 9 | [Coco Câline \- Acoustic](https://open.spotify.com/track/78KD7blxwETXx2wo57jSEs) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Vous & moi](https://open.spotify.com/album/5pSQDgT8MXpFtgVR9ZFJRJ) | 3:46 |
-| 10 | [Si t'étais là](https://open.spotify.com/track/3ghmFXEXTP6DdVOyvuPHpr) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/7rDvst38yYrJFGqs4W25Y8) | 2:33 |
+| 10 | [Si t'étais là](https://open.spotify.com/track/1iQ9W74bGFDAbiRIKn0PuH) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/1f1C1CjidKcWQyiIYcMvP2) | 2:33 |
 | 11 | [Le chant des sirènes](https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT) | [Fréro Delavega](https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46) | 2:58 |
 | 12 | [On dirait \- Acoustic version](https://open.spotify.com/track/5Lk4J1Su1lx2eTYsPMHKtH) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Au coeur de moi \(Bonus Tracks\)](https://open.spotify.com/album/3RxIsw5PjwrPGYOicwJqt4) | 3:33 |
 | 13 | [Que je t'aime](https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Ilo Veyou](https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP) | 3:43 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 | 47 | [Petit garçon](https://open.spotify.com/track/5MKmgItXKHcZQswt78k3SQ) | [Graeme Allwright](https://open.spotify.com/artist/0IacSUFvqg5bMJZFfEwsIO) | [Le Jour De Clarte](https://open.spotify.com/album/5Il5Gj7VRXii7xNpKHY4aC) | 2:42 |
 | 48 | [Nostalgic du cool](https://open.spotify.com/track/5zhgJUGxCvOd8K7qn3BrY8) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Le baptême](https://open.spotify.com/album/76lN7B8wVcozwR3DK7B05j) | 3:41 |
 | 49 | [Les filles d'aujourd'hui](https://open.spotify.com/track/0QprVASPJEbmOhD9P2gcNG) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Une place pour moi](https://open.spotify.com/album/2wghVdeCqQTaOavwTo3yWD) | 4:22 |
-| 50 | [Le sud](https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 4:35 |
+| 50 | [Le sud](https://open.spotify.com/track/6HOgSZ5PQqNFJEYg67WpKi) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Dandy](https://open.spotify.com/album/53ibqYJpRGoOJ8m7QFfmRi) | 4:37 |
 | 51 | [La sieste \(feat\. Tété\)](https://open.spotify.com/track/1erAsezbhHFWDURC6OGkEj) | [Le Soldat Rose](https://open.spotify.com/artist/2rOCPPNRJnQMkNa5D18Ef2), [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Le Soldat Rose 2](https://open.spotify.com/album/6fZCT61LQYLgNuwQkR8JCD) | 3:17 |
 | 52 | [Le baiser](https://open.spotify.com/track/5mVzrfnZncbgZsUGcj2DkU) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 4:10 |
 | 53 | [Ton visage \- Acoustic](https://open.spotify.com/track/5DAG0y0LtmvZCcc2uHNwUR) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT), [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Des ombres et des lumières \- Live à l'Olympia / 2016](https://open.spotify.com/album/29AWK7mk7bfJ6QR2CX1fUX) | 2:54 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 | 67 | [I’ll See You In My Dreams](https://open.spotify.com/track/0SOeHOnrKeUCSoLD1lbjcj) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Eternels jusqu’à demain](https://open.spotify.com/album/6h57y7voPpiRDYnh4X6hqg) | 3:04 |
 | 68 | [Les Secrets Chuchotés](https://open.spotify.com/track/3DnoHIA9BPsMBNVnMYbYIL) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [D’Une Tonne A Un Tout Petit Poids](https://open.spotify.com/album/3IZYKZL2tUqYKUL9EAbPpt) | 4:13 |
 
-Snapshot ID: `MCxlMjIxNWIzMDViOWNmMTVhNjA1NGFmODgyOGE0NzhkZjllYTBiMTNl`
+Snapshot ID: `MCw4ZDg2Nzk5ZjA0N2M4ZDI0NWNmMzAyM2MzZjE1MGE5NDBjYTM1MGUy`

@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-421 songs - 1 day 1 hr 28 min
+422 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Running Away](https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE) | 3:15 | 2023-03-24 | 2023-05-21 |
 | [Running Outta Love \(feat\. Tori Kelly\)](https://open.spotify.com/track/5jYF7Xmvmn7sNjtuPXaXfQ) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Running Outta Love \(feat\. Tori Kelly\)](https://open.spotify.com/album/5Or2V3ZWeIcdpnrFwCn1Wp) | 4:25 | 2021-12-03 | 2022-07-28 |
 | [Same Girl](https://open.spotify.com/track/7oKmQiRPMWLrhp1vhlmTRn) | [Tess Henley](https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv) | [Same Girl](https://open.spotify.com/album/10OwB6QTpEQdFOQZyFeLvr) | 3:02 | 2021-12-03 | 2022-10-22 |
+| [Saturday Night \(Need You Now\)](https://open.spotify.com/track/5HYNZhR70lfA1dzvQoXCBM) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Saturday Night \(Need You Now\)](https://open.spotify.com/album/22ZdsViHpBmUCQqxzQxPov) | 4:13 | 2024-01-19 |  |
 | [Scene 1](https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 2:48 | 2022-10-14 |  |
 | [See Me](https://open.spotify.com/track/0vtDLpnv8weWM33Wn29rXo) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [See Me](https://open.spotify.com/album/1fQgwNgiENNE3XDpTjDFXd) | 3:30 | 2021-12-03 | 2022-07-29 |
 | [Sensitive](https://open.spotify.com/track/59aIuvxf1TpntfDqbeynWt) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Sometimes, I'm Speechless](https://open.spotify.com/album/45Mb8i8kcqmoh1jZkqbLqE) | 2:54 | 2022-12-16 | 2023-04-16 |
@@ -363,7 +364,7 @@
 | [Taxi Driver](https://open.spotify.com/track/7vAlIaKmcTYB1BqFcTuQmW) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Taxi Driver / 7711](https://open.spotify.com/album/64Mcx8MEsX8PDEEMfI4ixU) | 2:56 | 2023-08-18 | 2023-11-18 |
 | [TEARS OF JOY](https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN EP](https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D) | 3:23 | 2022-10-28 | 2023-05-21 |
 | [Tell Him](https://open.spotify.com/track/7iCs98iS5n6KCI4q3H7zp9) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 4:40 | 2021-12-03 | 2023-02-25 |
-| [Temperature High](https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Temperature High](https://open.spotify.com/album/6KOHE7segw0upBTSCpWELD) | 3:10 | 2023-08-11 |  |
+| [Temperature High](https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Temperature High](https://open.spotify.com/album/6KOHE7segw0upBTSCpWELD) | 3:10 | 2023-08-11 | 2024-01-28 |
 | [That's All I Wanted From You](https://open.spotify.com/track/6KPPfdQTxqmpt4Mr1RU09o) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [That's All I Wanted From You](https://open.spotify.com/album/5YMTxJYMulSFqd6kHpn14U) | 2:36 | 2023-07-28 |  |
 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 4:11 | 2023-11-10 |  |
 | [The Best Things](https://open.spotify.com/track/2IebZ0AjurvrRGdxnnL2oI) | [Kindred The Family Soul](https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy) | [The Best Things](https://open.spotify.com/album/1RIxAcFlv6TwaBoCkq0Z0t) | 3:16 | 2021-12-03 | 2022-07-29 |

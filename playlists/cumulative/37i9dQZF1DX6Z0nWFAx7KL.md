@@ -4,14 +4,14 @@
 
 > You can dance or chill.
 
-186 songs - 9 hr 17 min
+187 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Much](https://open.spotify.com/track/7twp7m9ZSxWwWyPgimocpH) | [Cookie Crumble](https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V), [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [2 Much](https://open.spotify.com/album/2uyBSSOL4xLjy1AKiySCbc) | 2:18 | 2022-09-15 |  |
 | [A Little Bit of Faith](https://open.spotify.com/track/3AnCxW4JAndjVO7Uj1Onzi) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [MY PARADE](https://open.spotify.com/artist/4odBqe9WOqpaQWwokqQyyt) | [Colors](https://open.spotify.com/album/6uhw5SnjSw9VGjjYEhlZuB) | 3:02 | 2022-09-15 | 2022-09-30 |
 | [About You](https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:52 | 2022-09-15 | 2023-12-18 |
-| [Afterglow](https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Afterglow](https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG) | 2:32 | 2022-12-22 |  |
+| [Afterglow](https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Afterglow](https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG) | 2:32 | 2022-12-22 | 2024-01-28 |
 | [All of Me](https://open.spotify.com/track/2QPe0WJJNOf9ufgl9VMrHq) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [All of Me](https://open.spotify.com/album/1EGKV7dx9qfyrwx9TG25uu) | 2:41 | 2022-09-15 | 2023-11-07 |
 | [All Shook Up](https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [All Shook Up](https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83) | 2:34 | 2022-12-29 | 2023-07-09 |
 | [All The Highs \- Slowed](https://open.spotify.com/track/5aiGF3goUtkx6c5vObwEY9) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [All The Highs \(Alternate Versions\)](https://open.spotify.com/album/7rXOKHtcUTnv07wQ15ryAc) | 3:51 | 2022-12-18 | 2023-02-14 |
@@ -122,6 +122,7 @@
 | [Marco Polo](https://open.spotify.com/track/50FNVTyZYrhryZk4R3F5pv) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [AMELY](https://open.spotify.com/artist/1hZHcJTY2MYNhTqlrfgobM) | [Marco Polo](https://open.spotify.com/album/71iSMPw4ij9TcH8YWIpTux) | 2:36 | 2022-09-15 | 2022-12-24 |
 | [Medicine](https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [PLANT](https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq) | [Medicine](https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0) | 2:38 | 2022-09-15 |  |
 | [Mirror On The Wall](https://open.spotify.com/track/14lWiJlw5WoVn9X8JFC9HW) | [Sorvats Nivek](https://open.spotify.com/artist/6oI4m51P3UAbjIAgNmtSwW), [DERWA](https://open.spotify.com/artist/4N1XdIRXks3iNWTqpdgaua) | [Mirror On The Wall](https://open.spotify.com/album/17LHSqG2e6y93o7oDv31ZV) | 2:10 | 2022-09-15 | 2022-09-30 |
+| [Miss You](https://open.spotify.com/track/2OrmvwrqfGH0C0I70w4SRZ) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Miss You](https://open.spotify.com/album/401BY5jGvGKB4xt7zomYRA) | 4:39 | 2024-01-11 |  |
 | [Morning Glory](https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV), [Monoko](https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI) | [Morning Glory](https://open.spotify.com/album/1mUAhoAG05i5MK5ZFFcVUR) | 4:29 | 2023-09-07 |  |
 | [Motorcycle](https://open.spotify.com/track/68F3LC3u2JSW4TJ9zhdyjR) | [UOAK](https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk) | [Motorcycle](https://open.spotify.com/album/0BFBuQK4HZdmQMzov1uDri) | 3:13 | 2022-09-15 | 2023-05-12 |
 | [Moundé](https://open.spotify.com/track/25GzYCnSJBbrSckIlBzIZD) | [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr) | [Moundé](https://open.spotify.com/album/00NBfbmr2f5PWiFRrqxn1q) | 3:14 | 2022-09-29 | 2022-10-21 |

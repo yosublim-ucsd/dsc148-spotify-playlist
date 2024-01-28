@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 101222,
+  "2024-01-28": 101931,
   "date_first_scraped": "2022-07-28",
   "description": "Enjoy music from GUNDAM series! \u30ac\u30f3\u30c0\u30e0\u30b7\u30ea\u30fc\u30ba\u3092\u5f69\u308b\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9\u5275\u901a\u30fb\u30b5\u30f3\u30e9\u30a4\u30ba",
   "name": "GUNDAM SERIES -\u30ac\u30f3\u30c0\u30e0\u30b7\u30ea\u30fc\u30ba-",
@@ -837,6 +837,24 @@
       "duration_ms": 251200,
       "name": "Days of Birth",
       "url": "https://open.spotify.com/track/7hyh4lMONUqCxVGWylqxbT"
+    },
+    {
+      "album": {
+        "name": "\"Mobile Suit Gundam SEED FREEDOM\" Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6sc2tsnTlIRkIJV9CyhpcY"
+      },
+      "artists": [
+        {
+          "name": "Toshihiko Sahashi",
+          "url": "https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81866,
+      "name": "Destiny Sorties",
+      "url": "https://open.spotify.com/track/3OswaP1NV0xRan0oiSdajm"
     },
     {
       "album": {
@@ -2248,6 +2266,24 @@
     },
     {
       "album": {
+        "name": "\"Mobile Suit Gundam SEED FREEDOM\" Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6sc2tsnTlIRkIJV9CyhpcY"
+      },
+      "artists": [
+        {
+          "name": "Toshihiko Sahashi",
+          "url": "https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140300,
+      "name": "Millennium Sailing",
+      "url": "https://open.spotify.com/track/7FX4mlcoSxdALBGidDZFyQ"
+    },
+    {
+      "album": {
         "name": "MOBILE SUIT GUNDAM SEED DESTINY Original Motion Picture Soundtrack 1",
         "url": "https://open.spotify.com/album/6bU65XgooKmPseVZkZna7x"
       },
@@ -2299,6 +2335,24 @@
       "duration_ms": 221666,
       "name": "Mizu no Hoshi e Ai wo Komete",
       "url": "https://open.spotify.com/track/5vuNDp85EOew3Bx63d0SVy"
+    },
+    {
+      "album": {
+        "name": "\"Mobile Suit Gundam SEED FREEDOM\" Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6sc2tsnTlIRkIJV9CyhpcY"
+      },
+      "artists": [
+        {
+          "name": "Toshihiko Sahashi",
+          "url": "https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258900,
+      "name": "Moment of Confrontation",
+      "url": "https://open.spotify.com/track/71IGdMzqTs3KQ40rKjLfvF"
     },
     {
       "album": {
@@ -4883,7 +4937,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 81866,
       "name": "\u51fa\u6483\uff01\u30c7\u30b9\u30c6\u30a3\u30cb\u30fc",
       "url": "https://open.spotify.com/track/4hRwSXQJEi0CtyF2Q9fvT4"
@@ -5135,7 +5189,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 258900,
       "name": "\u5bfe\u6c7a\u306e\u523b",
       "url": "https://open.spotify.com/track/26Eu3sztahcJ35RpJ21Ki3"
@@ -5583,7 +5637,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 140300,
       "name": "\u822a\u884c\u3059\u308b\u30df\u30ec\u30cb\u30a2\u30e0",
       "url": "https://open.spotify.com/track/4F1LiP4RwiWzH4viDnXKOI"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 
 > Welcome to L.A\. Lo que suena in the city of dreams\. Cover: Los Desvelados
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,774 likes - 45 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,194 likes - 45 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 | 44 | [DECIR ADIOS "OYE NARRADOR" \(with Cuco\)](https://open.spotify.com/track/5aov0mBKpwPe8smzVQEHCI) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [DECIR ADIOS "OYE NARRADOR" \(with Cuco\)](https://open.spotify.com/album/0GgsvW4d1yiUjwMeALi6uO) | 3:48 |
 | 45 | [LOS PITS](https://open.spotify.com/track/7ucEkWU0SVy0XFdfXESgfY) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:10 |
 
-Snapshot ID: `MCxlOTQ5N2YzNTM5OGY5MzE1ZTkyN2FlMjgyOGE5MmU0NTAzM2UyOGYz`
+Snapshot ID: `MCw0ZWIwNGQ1NzAxOWEyY2Q4NmZlNmRhZjFjNTNkYjg5ZGQ3ZDNhZjBm`

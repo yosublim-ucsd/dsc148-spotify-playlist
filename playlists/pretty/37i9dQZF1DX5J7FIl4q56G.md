@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Static\-X
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,210 likes - 56 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,916 likes - 56 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 55 | [Concrete Spine](https://open.spotify.com/track/5yCKh0u40rC0gZfk1l7Upt) | [Beyond Thy Sight](https://open.spotify.com/artist/43Ag99L1ZBjV460Z8vKai8) | [Concrete Spine](https://open.spotify.com/album/4yqqtbMRznWLQeEToa3jf0) | 3:22 |
 | 56 | [ALPINA](https://open.spotify.com/track/1dNkg3YNIu6GfXXPKLaZ1n) | [Uz:ME](https://open.spotify.com/artist/4qg2BxtKMMtm10kaCj6bNt) | [ALPINA](https://open.spotify.com/album/5wHjh13gAnG0GNRQBMxZ6N) | 4:06 |
 
-Snapshot ID: `MCw1Yzk2MjhiOTJlN2Q3YzI2OWNkZjlmODFiOTI5YTIxMjAwNTMxNWYw`
+Snapshot ID: `MCwwYjAyYTFiODczMTk1MzljYjQwN2JjZjY5ZDY0Y2U1M2Q2OGVmY2E4`

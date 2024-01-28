@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-444 songs - 1 day 7 hr 52 min
+445 songs - 1 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Breakfast In Vegas](https://open.spotify.com/track/2o6RuGihlwJhA7vT41lz5A) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Breakfast In Vegas](https://open.spotify.com/album/3vAAypb5bNznpu4gml1xCI) | 3:40 | 2022-02-25 | 2022-07-29 |
 | [Breathe Me In](https://open.spotify.com/track/0eiLudweyosA5c7EUJ6y0c) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [Breathe Me In](https://open.spotify.com/album/0Ez7Txv5ziazJVEVZq41Rc) | 2:58 | 2021-12-10 |  |
 | [Bridges In The Sky \(feat\. Maurits Colijn\)](https://open.spotify.com/track/7qmj6GXCoataBL3kBYBrII) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Maurits Colijn](https://open.spotify.com/artist/3flMOgDUT0vdbSZwkl4by3) | [Bridges In The Sky](https://open.spotify.com/album/1aPCc1XkP3hSE21HfdAVWD) | 5:45 | 2021-05-07 | 2023-05-27 |
-| [Brighter \- Dave Summer Remix](https://open.spotify.com/track/6TDdOZxGNvva3l36Me8XLc) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Dave Summer](https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5) | [Brighter \(Dave Summer Remix\)](https://open.spotify.com/album/7AfDLIKksawCSHZXVoi3nl) | 3:30 | 2023-12-15 |  |
+| [Brighter \- Dave Summer Remix](https://open.spotify.com/track/6TDdOZxGNvva3l36Me8XLc) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Dave Summer](https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5) | [Brighter \(Dave Summer Remix\)](https://open.spotify.com/album/7AfDLIKksawCSHZXVoi3nl) | 3:30 | 2023-12-15 | 2024-01-28 |
 | [Bumblebee](https://open.spotify.com/track/10twrq4TUN6ThYX8fHTlab) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 02](https://open.spotify.com/album/2wdfP8ZepuYBjNC3mDBb73) | 7:50 | 2022-09-02 | 2023-06-03 |
 | [bygones](https://open.spotify.com/track/61VpTyZBzCFtkPpii7pYWl) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [bygones](https://open.spotify.com/album/5v0F0Z4KcAM9yqkPc8fsNh) | 3:15 | 2021-08-20 | 2022-07-28 |
 | [Calling Out Your Name \- Radio Edit](https://open.spotify.com/track/4Zd0Bqfka9K3m3Mv1eibaP) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Mikhaela Faye](https://open.spotify.com/artist/2GL4xifkoDW8sxMHNbbeX7) | [Calling Out Your Name](https://open.spotify.com/album/0HQWHfjbMZHuQGFCY2amgX) | 3:30 | 2021-05-07 | 2022-07-22 |
@@ -359,6 +359,7 @@
 | [Supermodel](https://open.spotify.com/track/3JT8wu4fht9m6m5H9VsAFz) | [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n), [Marcus Cito](https://open.spotify.com/artist/3r26IN2ktuEyJs4hUoOlzC) | [Supermodel](https://open.spotify.com/album/0wMDrSOXPQeh6Lm2jy5LO6) | 2:52 | 2023-03-03 | 2023-04-01 |
 | [Surrender](https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Surrender](https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT) | 2:27 | 2023-05-26 | 2024-01-24 |
 | [Sweat](https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Sweat](https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7) | 2:39 | 2023-05-19 |  |
+| [Sweet Disposition \- John Summit & Silver Panda Remix](https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Sweet Disposition \(John Summit & Silver Panda Remix\)](https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5) | 4:11 | 2024-01-26 |  |
 | [Sweet Surrender](https://open.spotify.com/track/6AYnqhQQeRdLErjV4X999K) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Sweet Surrender](https://open.spotify.com/album/3oeckQ2isCZKg9GD1dk98W) | 3:11 | 2023-02-03 |  |
 | [Synesthesia \- Radio Edit](https://open.spotify.com/track/4tYhb2RtgzpltirLnbgoRY) | [CYA](https://open.spotify.com/artist/2HFWySRmIs8TiKMMfcLN1g) | [Timeless/Synesthesia](https://open.spotify.com/album/5SdMIzrsucFXu3QLJhT5tR) | 3:45 | 2021-05-07 | 2022-04-18 |
 | [Synthetism](https://open.spotify.com/track/0UrJe2qd5b0mgcnwcLYIxm) | [Andrea Martini](https://open.spotify.com/artist/1ys1VqaDEFMz5iN74MuQMr), [Hrederik](https://open.spotify.com/artist/0MMK5cprMIDRCFgrREotPG) | [Unified Vol.15](https://open.spotify.com/album/2BZH50oUwtFvkkCBZEJAvC) | 3:24 | 2021-12-10 | 2022-07-24 |

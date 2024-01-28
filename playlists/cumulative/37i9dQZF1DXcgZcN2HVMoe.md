@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-726 songs - 1 day 19 hr 22 min
+727 songs - 1 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Acoustic](https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 2:52 | 2022-07-22 | 2023-03-29 |
 | [afterthoughts](https://open.spotify.com/track/1ERCrZMVMSpqDW4zmr4sRc) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [CLOUDS \(Music From The Disney+ Original Movie\)](https://open.spotify.com/album/6wxPYC9LuoJCtKtFw4UDgf) | 2:55 | 2022-07-22 | 2023-03-05 |
 | [afterthoughts](https://open.spotify.com/track/2UmyGp3esNouKw42vwG6b8) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [afterthoughts](https://open.spotify.com/album/1qj06N4aOhTq5HmcHxbb27) | 2:55 | 2021-12-17 | 2022-05-08 |
-| [Alabama Haint](https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Alabama Haint](https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg) | 3:02 | 2021-12-17 |  |
+| [Alabama Haint](https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Alabama Haint](https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg) | 3:02 | 2021-12-17 | 2024-01-28 |
 | [Alaska](https://open.spotify.com/track/3NPkwNFvfOoski2eJj89cL) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Alaska](https://open.spotify.com/album/3Z2DqgBQQhR0ZBufsf5cqo) | 3:45 | 2021-12-17 | 2022-07-29 |
 | [Alaska](https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh) | 3:45 | 2022-07-29 | 2024-01-27 |
 | [All at Once](https://open.spotify.com/track/7uNCJCxszDNp2ydwme7pTU) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [All at Once](https://open.spotify.com/album/3ILSC3ncFp5h5C6CZXQp40) | 3:36 | 2021-12-17 | 2022-04-21 |
@@ -466,6 +466,7 @@
 | [oh, mexico](https://open.spotify.com/track/3dT28suh6dzuW7qF79Nf4F) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [love is not dying](https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF) | 3:04 | 2022-07-22 | 2023-03-29 |
 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 | 2022-07-22 | 2022-07-30 |
 | [Old Pine](https://open.spotify.com/track/4PXb4gyyo85e3IYXa0eWkk) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/1HWi1cL1VGLCiIYGfvHJmG) | 5:28 | 2022-01-24 | 2022-04-21 |
+| [Oldest Trick in the Book](https://open.spotify.com/track/1OrcwjuRNNr2OiH1TTYyOx) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf), [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Good Morning It's Now Tomorrow](https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku) | 3:21 | 2023-10-06 |  |
 | [Oldest Trick in the Book \(feat\. Bedouine\)](https://open.spotify.com/track/30lNPXNCQywhRCHzhNhed1) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf), [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Good Morning It's Now Tomorrow](https://open.spotify.com/album/1hcwRc4Ic4tb2F8iLUGTTg) | 3:21 | 2022-01-24 | 2022-04-20 |
 | [One Woman](https://open.spotify.com/track/3WZ1LW2FwEWVLI3nf59WZb) | [STACEY](https://open.spotify.com/artist/1rfYzEJpmnmhVM1V6LUHTQ) | [One Woman](https://open.spotify.com/album/2Ff611A1b4z7EtP3ohtz6s) | 3:40 | 2022-01-24 | 2022-04-21 |
 | [Only Know How to Love You](https://open.spotify.com/track/0GM2k74cNQzZU7nscnEX7n) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz), [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Only Know How to Love You](https://open.spotify.com/album/1DI7awlRykgDTS0u0SqY2P) | 3:01 | 2021-12-17 | 2022-06-22 |

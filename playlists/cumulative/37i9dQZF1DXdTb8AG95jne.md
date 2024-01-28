@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: OKDAL\(옥상달빛\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-620 songs - 1 day 14 hr 0 min
+621 songs - 1 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [LOVE2000](https://open.spotify.com/track/6Su9mLB6TPqSxiRELx5IYE) | [CCOLA](https://open.spotify.com/artist/0L5oGqofGKJNZzFPLwXxpS) | [LOVE2000](https://open.spotify.com/album/5R0mX9LHtH1BlUS5H7FyI9) | 2:54 | 2023-01-05 | 2023-01-12 |
 | [Lovers](https://open.spotify.com/track/2CXhXraeRr7EzV6GCBZBy6) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 4:40 | 2022-03-31 | 2022-07-05 |
 | [Lovers In The Night](https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Lovers In The Night](https://open.spotify.com/album/5qewqwnafgBx455s6LNcWv) | 3:30 | 2021-12-21 | 2024-01-24 |
+| [Lovers in the Night](https://open.spotify.com/track/3JtVOqRMgfMNDL7r2NFkYz) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Lovers in the Night](https://open.spotify.com/album/0HJcwB2w5BHsZFFFrs2QGs) | 3:30 | 2024-01-22 |  |
 | [Loving You is Loving Me](https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd) | [Han Yeoyoo](https://open.spotify.com/artist/3PJavkoaMGLEC06SDMvBoP) | [Loving You is Loving Me](https://open.spotify.com/album/1siSojvN7zaZDxad6nqGFG) | 3:43 | 2023-01-25 | 2023-02-15 |
 | [Lullaby](https://open.spotify.com/track/0OV5CZKs1CNsavPmV9gZzg) | [Risso](https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM), [JIDA](https://open.spotify.com/artist/0Yr4WTbWPoSarkxhU1eS5b) | [Lullaby](https://open.spotify.com/album/56LUm3jvcWdgNeHKrtEjGl) | 4:03 | 2021-12-21 | 2022-07-29 |
 | [Lunch Time 점심시간](https://open.spotify.com/track/44dmYTBkcvpNxWjCwpiKgc) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Lunch Time 점심시간](https://open.spotify.com/album/3NphZwsDlKagZk5IGyUWNp) | 4:36 | 2022-03-31 | 2022-04-05 |
@@ -617,7 +618,7 @@
 | [단춘 Scarlet youth](https://open.spotify.com/track/7AI5Iglkp074EzjqQXtnGn) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [붉게 물든 젊음과 자주 헤매던 새벽에서 Scarlet youth in Nomadic daybreak](https://open.spotify.com/album/6hx1MoGmRaNOrN0ygAerYA) | 2:55 | 2024-01-05 | 2024-01-16 |
 | [떠날까 Should We Leave](https://open.spotify.com/track/63yfmOOnCoH6CVxJIOl3pm) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [아무도 모르게 Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 4:45 | 2023-07-05 | 2023-07-18 |
 | [마네킨 Mannequin](https://open.spotify.com/track/2jZl3rjxP3BcouBIEd4XS2) | [The ASIANIC](https://open.spotify.com/artist/7hrYxrbbaa7TtlKqg9iruF) | [마네킨 Mannequin](https://open.spotify.com/album/2xuc8x41OZSjTeP255pqdv) | 3:40 | 2023-01-10 | 2023-01-26 |
-| [명동콜링](https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [더 팬 2ROUND Part.1](https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV) | 3:56 | 2021-12-21 |  |
+| [명동콜링](https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [더 팬 2ROUND Part.1](https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV) | 3:56 | 2021-12-21 | 2024-01-28 |
 | [방랑자](https://open.spotify.com/track/6h7VcJXkym9NGISDIYlmch) | [JOHA](https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM) | [방랑자](https://open.spotify.com/album/7EOdAL92s1kwBSqYlJNAOX) | 3:20 | 2023-09-15 | 2023-11-11 |
 | [봄밤 \(Feat\. 지혜리\)](https://open.spotify.com/track/5SLKr9YIs6MT195opLHZTg) | [cool\_lazy](https://open.spotify.com/artist/1hpBDK67kAJEqCcR8KW6Q4), [hyeri ji 지혜리](https://open.spotify.com/artist/1aUPs6AsUyPbpH00DEA31P) | [봄밤 \(Feat\. 지혜리\)](https://open.spotify.com/album/05XQGlkHH5hliTxgRyg1RK) | 3:42 | 2022-03-31 | 2022-04-11 |
 | [사랑해 줘](https://open.spotify.com/track/2iF3jUkKB2dqmKoimhPbCV) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [사랑해 줘](https://open.spotify.com/album/4bFd58vyDLdhNYLK5lJb5D) | 3:37 | 2023-01-10 | 2023-01-26 |

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-538 songs - 1 day 11 hr 9 min
+540 songs - 1 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Absolutely Cuckoo](https://open.spotify.com/track/6In0XQ2hzhfHbW5L6mkc4j) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7) | 1:34 | 2023-04-24 |  |
 | [Act Won \(Things Fall Apart\)](https://open.spotify.com/track/4x7uHC8or1AwVeRCh1mULV) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 0:53 | 2022-01-03 |  |
 | [Adam, Check Please](https://open.spotify.com/track/6klpTuQQtcAUCXMKzz4IdZ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Coco Moon](https://open.spotify.com/album/6ZKh1FlIKBeDJYVSuvF2LM) | 5:38 | 2023-03-24 |  |
+| [Agnus Dei](https://open.spotify.com/track/2ohy1XMth89tkmCk7esI0q) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Want Two](https://open.spotify.com/album/6agP9hBwmPQWWEqt5aerMG) | 5:45 | 2024-01-27 |  |
 | [Ain't Nice \- Live](https://open.spotify.com/track/3gdKrnlB0WmJtlxSur73Rm) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Shrimp Sessions 2 \(Live\)](https://open.spotify.com/album/5eSg2ejmod1kGMjCR7giv7) | 3:32 | 2023-12-23 |  |
 | [Ain't That Easy](https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 4:49 | 2022-01-06 |  |
 | [Airbag](https://open.spotify.com/track/7c378mlmubSu7NGkLFa4sN) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:47 | 2022-01-11 |  |
@@ -282,6 +283,7 @@
 | [Let England Shake](https://open.spotify.com/track/2XwL9kTn9411Ed4p0MLYx3) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Let England Shake](https://open.spotify.com/album/2f8Rfpdol5jrJe3OL4YH6k) | 3:09 | 2023-05-20 |  |
 | [Let It Go](https://open.spotify.com/track/0jYgfSncMwfefAUpUMcM5X) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Trap Lord](https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki) | 4:42 | 2022-07-14 |  |
 | [Let Me Drown](https://open.spotify.com/track/3YJ4uP7IHca1MrxoPD6NCC) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown](https://open.spotify.com/album/4SPc25NzdqOQt2IX4JDLUv) | 3:53 | 2023-01-14 |  |
+| [Let You Down](https://open.spotify.com/track/1wzwDKMN9m7NATxnsLqJAu) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Honour and Glory](https://open.spotify.com/album/015KLRVrZoCEnW8jGGH0E3) | 3:28 | 2024-01-27 |  |
 | [Life of Sin](https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 2:26 | 2023-06-03 |  |
 | [Lift](https://open.spotify.com/track/7imDM0mCmxkNgt9ROwijiU) | [Katie Gately](https://open.spotify.com/artist/6FP6ynzSPeBFX46vkI1OsW) | [Color](https://open.spotify.com/album/5pVeEzOuaLQDIoJxOwyWDj) | 4:17 | 2024-01-18 |  |
 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 | 2023-11-01 |  |

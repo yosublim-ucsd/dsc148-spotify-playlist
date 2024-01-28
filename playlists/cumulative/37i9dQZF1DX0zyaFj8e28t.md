@@ -4,7 +4,7 @@
 
 > Les plus grands tubes français des années 80\. Photo : Jean\-Jacques Goldman
 
-52 songs - 3 hr 40 min
+53 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Les valses de Vienne](https://open.spotify.com/track/6J8iEzFAr5Y3rlUWwCgvA0) | [François Feldman](https://open.spotify.com/artist/3marwXSwSzZctZtvg35LOe) | [Une Presence](https://open.spotify.com/album/30GgLVvljvzINURzmnEhik) | 4:05 | 2022-09-12 | 2024-01-26 |
 | [Les valses de Vienne](https://open.spotify.com/track/4MTCNjhonKLRb8WIHpTTy8) | [François Feldman](https://open.spotify.com/artist/3marwXSwSzZctZtvg35LOe) | [Best Of](https://open.spotify.com/album/25bmlyAK19NFZ7QHIZZrsi) | 4:05 | 2022-09-12 |  |
 | [Mademoiselle chante le blues](https://open.spotify.com/track/4bBK4HzDQjhx5JpCAByE4z) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Tubes Chanson Française](https://open.spotify.com/album/2KbsMCeNs0OkgVdiqVoffJ) | 3:48 | 2022-09-12 | 2024-01-26 |
-| [Mademoiselle chante le blues](https://open.spotify.com/track/6vjDUJqVKU9Ws7AIHBCAv9) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Mademoiselle Chante](https://open.spotify.com/album/2I1n984xfOozMfDA1TGvo7) | 3:48 | 2022-09-12 |  |
+| [Mademoiselle chante le blues](https://open.spotify.com/track/5ujGotlh6RnbCUrKh5c5AO) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Réveillon 80](https://open.spotify.com/album/1e2faUwz3Efp2dNVve2XIf) | 3:48 | 2022-09-12 |  |
+| [Mademoiselle chante le blues](https://open.spotify.com/track/6vjDUJqVKU9Ws7AIHBCAv9) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Mademoiselle Chante](https://open.spotify.com/album/2I1n984xfOozMfDA1TGvo7) | 3:48 | 2022-09-12 | 2024-01-28 |
 | [Mistral gagnant](https://open.spotify.com/track/1MOSRjdAbUhvLNnHCdUEL5) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Mistral gagnant](https://open.spotify.com/album/3RNhp7YkJXZe3KJ3xlTHWb) | 2:45 | 2022-09-12 |  |
 | [Mon mec à moi](https://open.spotify.com/track/69cjFYQg0lE0e48bgOPhfy) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Rien ne s'arrête \(1987 \- 2001\)](https://open.spotify.com/album/6sklF5x3mauqDdLFPgIqJw) | 4:13 | 2022-09-12 |  |
 | [Morgane de toi](https://open.spotify.com/track/5OYXpxvWMhgMntxoW1Xg8c) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Renaud CD Story](https://open.spotify.com/album/1QuRVhgQ3UM7N9dz0O1s0z) | 6:12 | 2022-09-12 |  |

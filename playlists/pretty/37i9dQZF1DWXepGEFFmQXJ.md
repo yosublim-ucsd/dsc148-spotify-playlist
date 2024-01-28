@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Warren Zeiders
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,893 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,829 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 79 | [Always Gonna Be](https://open.spotify.com/track/1zfPNHikEYPcPLxJRdDeIk) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Always Gonna Be](https://open.spotify.com/album/1WI5hRCxaEOSMUtKxO5fKa) | 2:52 |
 | 80 | [Shouldn't Be Doing This](https://open.spotify.com/track/0SCMoEjToRt0GL3eIFI8FV) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Shouldn't Be Doing This](https://open.spotify.com/album/12Y9kiAnxFxuBesMAE2bHW) | 3:17 |
 
-Snapshot ID: `MCw3Y2U4ZTc1MDI5NmMxMTg1OGYyYTNhZWIxOGU4ZWI3NjA5MmY4MDU0`
+Snapshot ID: `MCxjMzJkYWYwY2U3Zjc1YWQ2YzhjNDcwMTUzNmQwNTU5NWY0OWMxNTcz`

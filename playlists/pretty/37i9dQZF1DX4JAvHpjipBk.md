@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Ice Spice, Justin Timberlake, Megan Thee Stallion, Christian Nodal and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,159,824 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,157,317 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [PIN\-EYE](https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [PIN\-EYE](https://open.spotify.com/album/0L83uKz3F4cZO6D8Y85qzp) | 4:32 |
 | 100 | [Perfect \(feat\. DaBaby\)](https://open.spotify.com/track/4qBRHPDCVYlJVVDD2qrPpH) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Perfect \(feat\. DaBaby\)](https://open.spotify.com/album/22eDXi43Cr695XthXqglIT) | 3:52 |
 
-Snapshot ID: `MCw2Mzg3NDdjMzBlMTJmNGZhZDQ3OTY5ZDlhZTYyZTQ4ZmYwMzk0MmY1`
+Snapshot ID: `MCw0N2IxNjEzZWRjNGU1N2IwYWM4OGY1MDQxY2YzOWNkNTY4MzMxYmVh`

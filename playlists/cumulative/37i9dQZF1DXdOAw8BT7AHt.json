@@ -622,7 +622,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 185294,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT"
@@ -3662,6 +3662,24 @@
       "duration_ms": 105000,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7"
+    },
+    {
+      "album": {
+        "name": "Thameslink",
+        "url": "https://open.spotify.com/album/5GYdpToNRvYnXG3ob4aGEn"
+      },
+      "artists": [
+        {
+          "name": "PLAY DEAD",
+          "url": "https://open.spotify.com/artist/2XQ4KK7Ol8gTUBBLAkIF2j"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178189,
+      "name": "Thameslink",
+      "url": "https://open.spotify.com/track/2HghPvscCDfcGWp56y6SRP"
     },
     {
       "album": {

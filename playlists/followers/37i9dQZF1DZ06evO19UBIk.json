@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 640970,
+  "2024-01-28": 640866,
   "date_first_scraped": "2022-01-12",
   "description": "This is The Doors. The essential tracks, all in one playlist.",
   "name": "This Is The Doors",
@@ -1241,7 +1241,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 117066,
       "name": "Unhappy Girl",
       "url": "https://open.spotify.com/track/7MW3s6XnZua7CNQAfmdGe8"
@@ -1421,7 +1421,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 180573,
       "name": "You're Lost Little Girl",
       "url": "https://open.spotify.com/track/5onlaW8X1ps8VS4DhxpFom"

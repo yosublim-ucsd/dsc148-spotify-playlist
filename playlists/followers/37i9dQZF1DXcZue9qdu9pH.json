@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 2022,
+  "2024-01-28": 2027,
   "date_first_scraped": "2023-07-04",
   "description": "Come, lets take a soulful journey through rhythmic grooves",
   "name": "Alternative Avenue",
@@ -421,6 +421,28 @@
       "duration_ms": 95714,
       "name": "Home",
       "url": "https://open.spotify.com/track/6olvTBUwNCCChCBSeDeiWT"
+    },
+    {
+      "album": {
+        "name": "It's You",
+        "url": "https://open.spotify.com/album/5DbTBskBpsHoO8MCaP3ubM"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Andyah",
+          "url": "https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154937,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/7pr7HuG2oWV4AhvM4SDbsW"
     },
     {
       "album": {
@@ -901,7 +923,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 281391,
       "name": "Saa Kalo",
       "url": "https://open.spotify.com/track/4pf3QeVj6UGc0V3X6mxqYe"
@@ -927,6 +949,24 @@
       "duration_ms": 246900,
       "name": "Same Page",
       "url": "https://open.spotify.com/track/0J9l0Y5MEvO8e6ksy8Hv82"
+    },
+    {
+      "album": {
+        "name": "Sare Jokes",
+        "url": "https://open.spotify.com/album/3JZBkaigAAfmit0u0FyHR9"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122727,
+      "name": "Sare Jokes",
+      "url": "https://open.spotify.com/track/0VO1URUTdzWlo7V3VlHYqv"
     },
     {
       "album": {
@@ -1101,7 +1141,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 248333,
       "name": "The Sun, The Grass & The River",
       "url": "https://open.spotify.com/track/7EX3rOwPd71wXnreVGey32"

@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 398563,
+  "2024-01-28": 397954,
   "date_first_scraped": "2023-09-24",
   "description": "Novidades do indie mundial. Foto: Mitski",
   "name": "Indie Stage",
@@ -1207,6 +1207,28 @@
       "duration_ms": 210457,
       "name": "Old Love",
       "url": "https://open.spotify.com/track/0W3AkAITCAqzCCzU3vjEoV"
+    },
+    {
+      "album": {
+        "name": "One Night/All Night | Generator",
+        "url": "https://open.spotify.com/album/7wnTMEroi4M4hofOhMO5Ys"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276066,
+      "name": "One Night/All Night",
+      "url": "https://open.spotify.com/track/6tAXrxWNaWpqcu5cCOP7dI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe66p0GtkYj3.md) - [plain]
 
 > Empezó el zapateo\. ¡Take tarake take!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,500 likes - 85 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,501 likes - 85 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe66p0GtkYj3.md) - [plain]
 | 68 | [Siento](https://open.spotify.com/track/0Egq5VEdpO2N1mKkG4AT1m) | [Manco the Sound](https://open.spotify.com/artist/2orC1t4J80YDSFYtZ7DIPI), [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt) | [Siento](https://open.spotify.com/album/4zhQkVYCdh97mVODcPppvi) | 3:59 |
 | 69 | [Dame Lo Que Necesito](https://open.spotify.com/track/4VD7GP0r61nRdYfwn7CIkB) | [Sebastien Rebels](https://open.spotify.com/artist/2ioGOJriBxdLqsZ0iOcY0i) | [Dame Lo Que Necesito](https://open.spotify.com/album/1qJcn8JEJRkhdZyiIc1QdJ) | 3:04 |
 | 70 | [Me Provocas](https://open.spotify.com/track/4PyXKLmDEF9pCJbzaVHQxt) | [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw) | [Origenes](https://open.spotify.com/album/66OBjU5X4edaRBuNZHaZYV) | 4:53 |
-| 71 | [Roses \- Imanbek Remix](https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \(Imanbek Remix\)](https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs) | 2:56 |
+| 71 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0j1WoPf3pSzIThihwIsD3M) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Entreno Intenso](https://open.spotify.com/album/5igX3nAa1kmfshtni2eeFT) | 2:56 |
 | 72 | [Way Out \- Radio Edit](https://open.spotify.com/track/7m4hghG69Jej8ngs8LYgdX) | [Juan Cuadros](https://open.spotify.com/artist/1PvZf2BbjSJBqfiyXLZYzC), [Xotto](https://open.spotify.com/artist/6nvjCOWYBl94cnhiZqvA6I) | [Way Out](https://open.spotify.com/album/1FNVBqISJ3d5rAgu9VwSB2) | 4:00 |
 | 73 | [Losing It](https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It](https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv) | 4:08 |
 | 74 | [Haciéndome el Amor](https://open.spotify.com/track/0a0nRK8pQpzjHTPpEOvrwx) | [Exotic](https://open.spotify.com/artist/14ASSasIb42tG16ym4kVfh), [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw), [Harmoob](https://open.spotify.com/artist/67cn5quJBbSYgeeiUnOZts), [Jery Sandoval](https://open.spotify.com/artist/1eayUbKToItiafMJGra6pF) | [Haciéndome el Amor](https://open.spotify.com/album/0zwPHUPtqpfz4xJF8GcByl) | 4:30 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe66p0GtkYj3.md) - [plain]
 | 84 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 | 85 | [All Around The World \(La La La\)](https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq) | 2:27 |
 
-Snapshot ID: `MCw0MzZhYjRjMzIyMGJhYzk4OTdiODE2OTBkMDk1YmE5OWZlYmZkYjc4`
+Snapshot ID: `MCxhN2U5NmZmNmFhMzFhM2RiY2NmODBhNjg4YTI2OTFiMDI2NGQ3Y2U3`

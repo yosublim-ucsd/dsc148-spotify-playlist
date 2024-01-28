@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,853 songs - 4 day 4 hr 8 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,855 songs - 4 day 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1861,5 +1861,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1851 | [Anadrol](https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Anadrol](https://open.spotify.com/album/0FIwrGmZLzqi8anLO36QDY) | 2:19 |
 | 1852 | [I'Il die next summer \(no joke\)](https://open.spotify.com/track/6Srw8p5X0jYa6fU8nV0x7X) | [DRXG ADXICTION](https://open.spotify.com/artist/0bpNZLmtUlD2ziShWYEVUi), [RAGEIX](https://open.spotify.com/artist/2TxcnTACuVJ1wA1f7U6G4Y) | [I'Il die next summer \(no joke\)](https://open.spotify.com/album/4jbsTDSSba0q1gbKPyhlp5) | 2:53 |
 | 1853 | [Genesis](https://open.spotify.com/track/2UbMJbQq6G0TJnmnubgolV) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 2:42 |
+| 1854 | [Nice to see you](https://open.spotify.com/track/6JVYjNRNYU32o3fUqbr4yt) | [Catalyst...](https://open.spotify.com/artist/4RBpDOH0QTYMcc70rjvFLb) | [CATALYST \(self titled\)](https://open.spotify.com/album/1EICcYyGlrAMKvveWYe0ek) | 2:44 |
+| 1855 | [Birthday Music for Sigurd Rascher: Molto vivace](https://open.spotify.com/track/1ly1sOkrlCDwVwcutLlaYF) | [Lawrence Gwozdz](https://open.spotify.com/artist/2gs8Ak7REWbYwnr7Iqo82Q), [Steffen Hass](https://open.spotify.com/artist/1vQcviiulxIF7WBhswoHBn), [Lois Leventhal](https://open.spotify.com/artist/41oUPjQ6WpUVU3NNDibdbe) | [Rascher International](https://open.spotify.com/album/3tCatEDB8l8xXBT7pUfrbw) | 2:20 |
 
-Snapshot ID: `NzA0LGY3YjcyMjFmYmI4M2UwODBmYWFlYTVjMjFkMTZlOTYyZWJiZGU2MDY=`
+Snapshot ID: `NzA2LDAyZWVjZjM5ZDFjYWE4M2Y4ZDg3ZTk2N2ViY2I2M2UwMDAyNjliNDk=`

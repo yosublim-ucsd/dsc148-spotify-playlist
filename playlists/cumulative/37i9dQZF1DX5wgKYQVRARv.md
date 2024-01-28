@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: TesseracT
 
-669 songs - 2 day 9 hr 42 min
+670 songs - 2 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,7 +409,7 @@
 | [Paralyzed](https://open.spotify.com/track/7DCLX6EC3qcwW9Cz38DJ8O) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Distance Over Time \(Bonus track version\)](https://open.spotify.com/album/1sRDi0MSGOy91fHhcpXIu4) | 4:17 | 2021-12-17 | 2022-09-03 |
 | [Paratyphoid Fever](https://open.spotify.com/track/1hBR7sbMShSI6SO84BTHZd) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [Paratyphoid Fever](https://open.spotify.com/album/3JRjPOWMqdpV81L7Y5rnEZ) | 6:37 | 2021-12-17 | 2022-05-13 |
 | [Pendulum](https://open.spotify.com/track/4HMh3kHGNPE9pSZwR0Jr1M) | [Their Dogs Were Astronauts](https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h) | [Pendulum](https://open.spotify.com/album/3atT3fDVkxsThexLnxNjfM) | 3:52 | 2023-04-07 | 2024-01-02 |
-| [penny royal poison](https://open.spotify.com/track/3JkngcpInYH1pC37MubshJ) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [penny royal poison](https://open.spotify.com/album/6vN7gFRSTozXhZ7RNrk1NO) | 3:09 | 2022-07-13 |  |
+| [penny royal poison](https://open.spotify.com/track/3JkngcpInYH1pC37MubshJ) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [penny royal poison](https://open.spotify.com/album/6vN7gFRSTozXhZ7RNrk1NO) | 3:09 | 2022-07-13 | 2024-01-28 |
 | [Perennial Philosophy](https://open.spotify.com/track/2PSI1KGrynoogbYLnoTybJ) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [Hidden Worship](https://open.spotify.com/album/7fHg4wRjf0m5MA6e3IuROT) | 4:03 | 2021-12-17 | 2023-01-21 |
 | [Periscope](https://open.spotify.com/track/77nsctL8EWneiHnnyTBXl5) | [Andromeda](https://open.spotify.com/artist/46U3e36KOitRTJchc1SqFu) | [Chimera](https://open.spotify.com/album/5N1vbVOrAyU7qqTTkpNc5u) | 6:11 | 2021-12-17 | 2022-01-23 |
 | [Peruvian Skies \(Basic Tracks\)](https://open.spotify.com/track/7lXJWraADeGngycPUcBngY) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Lost Not Forgotten Archives: The Making of Falling Into Infinity \(1997\)](https://open.spotify.com/album/6PSF6V0b6eMbuBI8lBMahX) | 1:44 | 2023-04-07 | 2023-11-05 |
@@ -537,6 +537,7 @@
 | [The Call](https://open.spotify.com/track/3RWcwAtf1AIwmZQQ0T7qLk) | [Beyond the Bridge](https://open.spotify.com/artist/5IDfyDPRpDEGF9qxcdy5mo) | [The Old Man & The Spirit](https://open.spotify.com/album/4dWdkOspqEfAyUDhXcLJ2r) | 6:33 | 2021-12-17 | 2022-01-27 |
 | [The Conduit](https://open.spotify.com/track/08Tb1IuO4nwfjpgwgWStqv) | [Moon Tooth](https://open.spotify.com/artist/7ssGZO3qDsbwCaBOBcQ4aA) | [The Conduit](https://open.spotify.com/album/0LJmjKGuR2CCEGglNPjkzl) | 3:21 | 2021-12-17 | 2022-07-29 |
 | [The Day That The World Breaks Down](https://open.spotify.com/track/7y7H6uAx3sA900GD3ZPHzx) | [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt) | [The Day That The World Breaks Down](https://open.spotify.com/album/6A6Zvde3UBL3Y0hlKYooHW) | 12:34 | 2021-12-17 | 2022-01-29 |
+| [The Demoness](https://open.spotify.com/track/55PD5k3PXs378SZaydTsg9) | [Auras](https://open.spotify.com/artist/58EhqkLf0O4vTU5hSTxOqk) | [Binary Garden](https://open.spotify.com/album/1jaZVrhUbwpfINxfZH4UV6) | 4:18 | 2023-12-06 |  |
 | [The Demoness](https://open.spotify.com/track/3XUNtWOXxvy4MSlKNEIASE) | [Auras](https://open.spotify.com/artist/58EhqkLf0O4vTU5hSTxOqk) | [Binary Garden](https://open.spotify.com/album/45v6n9cb9vbIfSomFJx1zD) | 4:18 | 2023-01-20 | 2023-12-25 |
 | [The Demoness](https://open.spotify.com/track/7epasvZxGClnOSQ4xNCtg8) | [Auras](https://open.spotify.com/artist/58EhqkLf0O4vTU5hSTxOqk) | [The Demoness](https://open.spotify.com/album/5PHoDJsuAoNTVfJRDwNedK) | 4:18 | 2022-07-13 | 2022-07-20 |
 | [The End](https://open.spotify.com/track/09STcjQLFcCE7TzjBmIXML) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Stoned Statues](https://open.spotify.com/album/0NpgStIxQiQV5TmEmu7UJK) | 3:45 | 2022-04-22 |  |

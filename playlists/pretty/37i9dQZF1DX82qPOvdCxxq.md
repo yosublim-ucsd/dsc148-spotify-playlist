@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > Go deep in discovery for great new songs of faith and inspiration\. Cover:  Abby Robertson
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,963 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,952 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Warriors](https://open.spotify.com/track/3dTVCb0537sxC1g9bhoFy1) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [Warriors](https://open.spotify.com/album/59IUZfwB5cpxuYHQ9bz37b) | 3:50 |
 | 2 | [No Hopeless Soul](https://open.spotify.com/track/7fovCglnkftOlJmrIidq8r) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [No Hopeless Soul](https://open.spotify.com/album/5gZ1OG8XcJpv69F2BqBUoW) | 3:03 |
 | 3 | [Sanctuary](https://open.spotify.com/track/3JfZKmChE4YwCVdTKNthxl) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Sanctuary](https://open.spotify.com/album/7lhWkN4foNYWC5zXArlA7H) | 3:42 |
-| 4 | [Take This Slowly // Autumn Sessions](https://open.spotify.com/track/4iaf7Xg99DoMVEIQIE27gs) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Take This Slowly / / Autumn Sessions](https://open.spotify.com/album/5iVZOUKr9l9iG6JeE4n6oq) | 4:46 |
+| 4 | [Take This Slowly // Autumn Sessions](https://open.spotify.com/track/4b6UfKgoBxBLyJBkyHbAvj) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Take This Slowly // Autumn Sessions](https://open.spotify.com/album/0En2HzqrFPmB4eVYFiPa7M) | 4:46 |
 | 5 | [Jesus Is Coming Back](https://open.spotify.com/track/7Dxh2X3k565qoBEnNyqZoa) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 3:33 |
 | 6 | [Together \(Soundtrack from Year in Search\)](https://open.spotify.com/track/0HOPZn0IFpZS142x0uClQ0) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Chicago Children's Choir](https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg), [Matt Jones \(Re\-Collective Orchestra\)](https://open.spotify.com/artist/5aIudIa5jdxKBDLH1qVPWC) | [Together \(Soundtrack from Year in Search\)](https://open.spotify.com/album/1pFKxPHE8wZ3UsCAAcYO1J) | 3:12 |
 | 7 | [Go Go Go](https://open.spotify.com/track/3FG9G5fK7gLHsu9bjt3ae6) | [Hopp](https://open.spotify.com/artist/4waJr0z0IXdqWmWxZyVfmG) | [\#Whoami](https://open.spotify.com/album/2XTh5jTofXAQQ02KwiUW5T) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 49 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3O6HQpzeISpCmZ476CbEz5) | [Natalie Forteza](https://open.spotify.com/artist/79TkkUwYexkd0sUjSpfV2l) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/3RBcORvG8ZbTDOGCpaG2G4) | 3:51 |
 | 50 | [Let Me Find Thee](https://open.spotify.com/track/0UodTBf4fjeCEnbTlxLomd) | [Matthew Smith](https://open.spotify.com/artist/5KIdsYHVdOsekNYNValNzK) | [Let Me Find Thee](https://open.spotify.com/album/1GbrKGOpocbsdvzckBqHDe) | 4:01 |
 
-Snapshot ID: `MCw5YjI0OTQwYjUzNzM1ZDE3YTc3YTg3OWQyMmFiZjMzZDI2MWQ1Zjhl`
+Snapshot ID: `MCxkNTBiMjRkMjE1MDA5ZmMxNzhhMjJiYzEyNjQzOTc3NTFhNWI5NmY2`

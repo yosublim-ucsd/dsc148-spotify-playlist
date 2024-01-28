@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-672 songs - 1 day 17 hr 18 min
+673 songs - 1 day 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Fast Car](https://open.spotify.com/track/68o7eSZOP2kT4Of3mgiWKw) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Deluxe Edition\)](https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm) | 5:41 | 2022-06-10 |  |
 | [Fast Car](https://open.spotify.com/track/1WdCH2OGhDH4iaKL6782xG) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Fast Car b/w Fire](https://open.spotify.com/album/6Z8Chm39KtMZQBwg7aEUfq) | 5:42 | 2021-10-20 | 2022-07-29 |
 | [Fast Car](https://open.spotify.com/track/63wsZUhUZLlh1OsyrZq7sz) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz) | 5:04 | 2022-06-10 |  |
+| [Fast Car](https://open.spotify.com/track/0KHJGKFbzSYPjyhN8TFWke) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Zandvoort 2021](https://open.spotify.com/album/39EP2mz8gBN6pkxTGSgLR7) | 3:32 | 2023-10-23 |  |
 | [Fast Car](https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Fast Car](https://open.spotify.com/album/55zQqrjWsFHRcI1mxlQSsZ) | 3:32 | 2022-06-10 | 2024-01-27 |
 | [Fast Car \(feat\. Kina Grannis\)](https://open.spotify.com/track/6ZimCGmTrqKyUnidBoLG13) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Cover Collaborations, Vol\. 1](https://open.spotify.com/album/16JVqQaupaBt030iKiD5S1) | 5:04 | 2021-10-20 | 2022-07-29 |
 | [Fast Car \(feat\. Tall Heights\)](https://open.spotify.com/track/79ms40oOzof3LMyrrXDXtJ) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc), [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [All or Nothing / Fast Car](https://open.spotify.com/album/0aqbYdpaGt1QhCJDcruuMV) | 4:32 | 2021-10-20 |  |
@@ -364,7 +365,7 @@
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/2LBXHmODxCjJjD6puwDAE8) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [Knockin' On Heaven's Door](https://open.spotify.com/album/1CDAlRhqngtJc6oaauLtJe) | 4:14 | 2022-06-10 |  |
 | [Knocking on Heavens Door](https://open.spotify.com/track/20jZ7lf5eqDUQQruuMSKVE) | [RAIGN](https://open.spotify.com/artist/25IZcQsNwnvgeBiTEjBNI4) | [Knocking On Heavens Door \- EP](https://open.spotify.com/album/2ymI9oU0t6DFuYOjFc4Kpa) | 4:24 | 2022-06-10 |  |
 | [Lakes of Pontchartrain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5HjUkIQgYnl5JOSpmS494a) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 3:54 | 2021-10-20 | 2022-07-29 |
-| [Landslide](https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Landslide](https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS) | 2:59 | 2021-10-20 |  |
+| [Landslide](https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Landslide](https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS) | 2:59 | 2021-10-20 | 2024-01-28 |
 | [Landslide](https://open.spotify.com/track/6P8CsMuJCaqrlr4FDqELUQ) | [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Robyn Sherwell](https://open.spotify.com/album/5C0nfeG2BdvVO3FlsaXXMv) | 2:50 | 2021-10-20 | 2022-07-29 |
 | [Landslide](https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [The Essential The Chicks](https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD) | 3:48 | 2021-10-20 |  |
 | [Latch](https://open.spotify.com/track/0RL9bV2bBVPfVRgoBtP3dJ) | [Moonrise Nation](https://open.spotify.com/artist/3V3ttZhwHpekK6Hcvwv5ju) | [Latch](https://open.spotify.com/album/63pLcJGxLkvqbS5UHnspCa) | 3:27 | 2021-10-20 | 2022-07-29 |

@@ -993,6 +993,28 @@
     },
     {
       "album": {
+        "name": "GALAXIA",
+        "url": "https://open.spotify.com/album/2Or5jNRIMSqTE6He3hZLPL"
+      },
+      "artists": [
+        {
+          "name": "MRivas",
+          "url": "https://open.spotify.com/artist/45blvWfVyA9c2dqSZoJcnt"
+        },
+        {
+          "name": "Salty3r",
+          "url": "https://open.spotify.com/artist/2xMf3T0fvZXJ6EGZimtWdv"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103165,
+      "name": "GALAXIA",
+      "url": "https://open.spotify.com/track/0zC57DepFKYZ5reK9MPPd9"
+    },
+    {
+      "album": {
         "name": "Gand\u00eda Shore",
         "url": "https://open.spotify.com/album/1xjyoUdG9nqrd6LS5WP4bl"
       },
@@ -2010,7 +2032,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 143816,
       "name": "Nunca Volver\u00e9",
       "url": "https://open.spotify.com/track/2PMY1TcOrXGITmbKgwUeoK"

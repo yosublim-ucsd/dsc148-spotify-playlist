@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 1655027,
+  "2024-01-28": 1655038,
   "date_first_scraped": "2021-12-21",
-  "description": "feel it all. Cover: Something Corporate",
+  "description": "feel it all. Cover: Taking Back Sunday",
   "name": "Emo Forever",
   "tracks": [
     {
@@ -107,7 +107,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 249066,
       "name": "Accidents",
       "url": "https://open.spotify.com/track/1FuZJZqUWbwpqwbT8eESfR"
@@ -237,6 +237,24 @@
       "duration_ms": 204773,
       "name": "Always Ten Feet Tall",
       "url": "https://open.spotify.com/track/0sbSgjHNx80MxZ1QDWbwA0"
+    },
+    {
+      "album": {
+        "name": "Worship And Tribute (U.S. Version)",
+        "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303093,
+      "name": "Ape Dos Mil",
+      "url": "https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA"
     },
     {
       "album": {
@@ -395,7 +413,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 244880,
       "name": "Blood Red Summer",
       "url": "https://open.spotify.com/track/6SVMJlw8NLnfuPw0PSlrQR"
@@ -629,7 +647,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 211546,
       "name": "Cute Without The 'E' (Cut From The Team)",
       "url": "https://open.spotify.com/track/0ObyshwXoUY4NTib9v2eji"
@@ -791,7 +809,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 241453,
       "name": "Existentialism On Prom Night",
       "url": "https://open.spotify.com/track/7GUizFgoBcD2RT6BKIdOYl"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 151911,
       "name": "Fucked up Kids",
       "url": "https://open.spotify.com/track/0X0Sce0TWkuYnT8PdNgcB1"
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 207333,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/6doBxUbuslAgelILAjXO95"
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 243226,
       "name": "If It Means A Lot To You",
       "url": "https://open.spotify.com/track/3rEwGRmPVVudVjqdgv0tRR"
@@ -1367,7 +1385,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 207093,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
@@ -1612,6 +1630,24 @@
     },
     {
       "album": {
+        "name": "Keep Doing What You're Doing",
+        "url": "https://open.spotify.com/album/6CIF1X6UWZeUzsOEv1GzpH"
+      },
+      "artists": [
+        {
+          "name": "You Blew It!",
+          "url": "https://open.spotify.com/artist/3jvWpZJpokYCoT0QV4OJg0"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159931,
+      "name": "Match & Tinder",
+      "url": "https://open.spotify.com/track/1M5F0iablulCzXqiFSyRHI"
+    },
+    {
+      "album": {
         "name": "breathe",
         "url": "https://open.spotify.com/album/1JMg02mQ5nmVKBWWoDUIeo"
       },
@@ -1825,6 +1861,24 @@
       "duration_ms": 268333,
       "name": "Never Meant",
       "url": "https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM"
+    },
+    {
+      "album": {
+        "name": "New Medicines",
+        "url": "https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh"
+      },
+      "artists": [
+        {
+          "name": "Dead Poetic",
+          "url": "https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242040,
+      "name": "New Medicines",
+      "url": "https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg"
     },
     {
       "album": {
@@ -2127,7 +2181,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 167200,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/3iwsyTZzOWHZbHffBEyi1N"
@@ -2235,7 +2289,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 311440,
       "name": "Shake It Out",
       "url": "https://open.spotify.com/track/4oS1UEAjl1Fs2nCpOAbp9Q"
@@ -2397,7 +2451,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 143533,
       "name": "Stupid Kid",
       "url": "https://open.spotify.com/track/1vb6phGMBr133Y4bwKxrsT"
@@ -3153,7 +3207,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 272400,
       "name": "War All The Time",
       "url": "https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF"
@@ -3315,7 +3369,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 177760,
       "name": "You And I",
       "url": "https://open.spotify.com/track/2iIxheqTYiaRm1Xn2hJlY8"

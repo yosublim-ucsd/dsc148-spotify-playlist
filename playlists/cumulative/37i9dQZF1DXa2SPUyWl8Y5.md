@@ -4,7 +4,7 @@
 
 > Focus with melodic techno and tech house.
 
-366 songs - 1 day 16 hr 12 min
+367 songs - 1 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Biosphère](https://open.spotify.com/track/4yxlVbgJ5OdE9ipFOSMNGP) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Biosphère](https://open.spotify.com/album/2Cu8QDxQTHq57dOO2GfkFO) | 3:44 | 2022-11-26 | 2023-02-18 |
 | [Bipolar \- Original Mix](https://open.spotify.com/track/734rgmvSEOGgiHHlsjUE81) | [Edone](https://open.spotify.com/artist/2MZs7U8Pgj30dOFjbODBIN) | [Bipolar](https://open.spotify.com/album/2ze3QFTrYhM491qHLW2LDd) | 6:29 | 2019-05-26\* | 2020-05-22 |
 | [Bird](https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Bird EP](https://open.spotify.com/album/6gUapIjz0WUqMhf52onMec) | 5:50 | 2021-07-05 | 2024-01-05 |
+| [Bird](https://open.spotify.com/track/19lR15h6LPtw8oiAIt601v) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Bird EP](https://open.spotify.com/album/2ySh3YsHqiObkiSSfNPyMG) | 5:50 | 2023-11-27 |  |
 | [Black Ice](https://open.spotify.com/track/5KqPPGQikjJHRTT17E8XdS) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Black Ice](https://open.spotify.com/album/7kTHuLdBT3Mk45oHueS33E) | 6:20 | 2021-05-08 | 2024-01-12 |
 | [Black Widow](https://open.spotify.com/track/3SYD63ad3pRG3SMN21NRDr) | [Binaryh](https://open.spotify.com/artist/7zw8gWmNncuk2QZHIc70So) | [Cosmic Manifest](https://open.spotify.com/album/2kSkLhwIBo9DBalcqGRegN) | 7:08 | 2021-05-08 | 2022-07-22 |
 | [Blade](https://open.spotify.com/track/2COF8CoKPOOCwy9pPKYoPY) | [Christopher Kah](https://open.spotify.com/artist/2Sj2h8wkeOzMnfxaSj43gG) | [RE:SOURCE 01](https://open.spotify.com/album/7FUZfHYVSjLseQDGkDyiBr) | 5:00 | 2019-05-26\* | 2021-01-21 |
@@ -135,7 +136,7 @@
 | [Free Colombia](https://open.spotify.com/track/0FvP1wBXZGMkZPRyFEtkdN) | [Alex Dovo](https://open.spotify.com/artist/2dFwWoBhOLLBO9bfTUvqaL) | [The Dawn](https://open.spotify.com/album/0s1Uhx9QIQfSyFuGSI0OuT) | 7:43 | 2020-01-13 | 2022-11-26 |
 | [Fräulein Smilla](https://open.spotify.com/track/2VhMVewJnu96AG9QxyeJLo) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Fallin](https://open.spotify.com/album/3Hkx4TJYtfUeQ07qnlD2yo) | 6:19 | 2021-07-05 | 2022-11-26 |
 | [Galactic](https://open.spotify.com/track/4q1e5Gh80PBbyNyh8axUDB) | [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Galactic](https://open.spotify.com/album/18hIPLjcCNhVXRMdsxYcRj) | 6:37 | 2019-05-26\* | 2020-01-07 |
-| [Glitter and Litter](https://open.spotify.com/track/7zwYmpLrtDNxID8sRvlePp) | [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX), [Ninsa](https://open.spotify.com/artist/1hyVEtn2U4zlDtjZkTGyq8) | [Glitter and Litter](https://open.spotify.com/album/5mUQFI4lOx2CdZtkseari2) | 7:26 | 2022-08-12 |  |
+| [Glitter and Litter](https://open.spotify.com/track/7zwYmpLrtDNxID8sRvlePp) | [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX), [Ninsa](https://open.spotify.com/artist/1hyVEtn2U4zlDtjZkTGyq8) | [Glitter and Litter](https://open.spotify.com/album/5mUQFI4lOx2CdZtkseari2) | 7:26 | 2022-08-12 | 2024-01-28 |
 | [Glow](https://open.spotify.com/track/43Y8J1INTd88M9zJTUPMaT) | [AKA AKA](https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72), [JØREN OZ](https://open.spotify.com/artist/5VKVgpHKOCFbto8DwpnadA) | [Glow](https://open.spotify.com/album/2NtTJ9sWOH2NeTX5LLGgM8) | 5:36 | 2021-01-08 | 2021-08-14 |
 | [Glutes](https://open.spotify.com/track/6n85CqZrqbMjwQImS02tQx) | [Patrice Bäumel](https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT) | [Glutes](https://open.spotify.com/album/5d62LwcW0OFVIHaE9IRlqM) | 7:29 | 2019-06-21 | 2019-08-13 |
 | [Goliath](https://open.spotify.com/track/2yfxLmjLcNYSjdMSJbMZYJ) | [Boss Axis](https://open.spotify.com/artist/0LbAebKs7ZKbgtOnIizXLk) | [Goliath](https://open.spotify.com/album/6otJvL5Xlxmejx5LtNiLnN) | 8:08 | 2019-07-05 | 2022-05-03 |

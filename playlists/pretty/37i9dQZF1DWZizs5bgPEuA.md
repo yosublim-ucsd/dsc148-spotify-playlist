@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZizs5bgPEuA.md) - [plain]
 
 > Music by our 2024 Artists To Watch\. Cover: Saiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,481 likes - 30 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,483 likes - 30 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZizs5bgPEuA.md) - [plain]
 | 29 | [ORGULLO](https://open.spotify.com/track/6FChr93F3ECYRaIKwL7DOa) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [DESAHOGO](https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak) | 3:22 |
 | 30 | [LA CALMA](https://open.spotify.com/track/0j5ocCGz4i7q0aPD1gNZ6H) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L), [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG) | [DESAHOGO](https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak) | 2:41 |
 
-Snapshot ID: `MCxkMWU5MzEwNWM5OTZmNzQwNDYwNDAzNDQxZWE4ZjVjNTZlODUwYWZi`
+Snapshot ID: `MCxjMjJhMjJmYzQzZjJhMGM4MjMwYzVhYzk3MmMwMDg5OTBlNDRkNjRi`

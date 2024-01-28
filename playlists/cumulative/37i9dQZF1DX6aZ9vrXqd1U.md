@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ
 
-310 songs - 21 hr 55 min
+311 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [フリージア](https://open.spotify.com/track/1cqtS5FEOzjaJy1UdNJDXu) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [Monochrome](https://open.spotify.com/album/4MSwMoJfcq1kGVjQAdWACD) | 5:36 | 2022-07-27 |  |
 | [フリージア](https://open.spotify.com/track/6lvAS3R2GWczHHOIyKEEzV) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [モノクローム \(Special Edition\)](https://open.spotify.com/album/0EJJO0KH1iY80ryDdU8f7z) | 5:36 | 2022-07-27 | 2022-07-29 |
 | [ブレイキングブレイジング](https://open.spotify.com/track/6vJkrNdMYGJSh5IduOfFpR) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [ブレイキングブレイジング](https://open.spotify.com/album/31fkJFiqOBrxwsFbSJcOwN) | 4:12 | 2022-07-27 | 2024-01-12 |
+| [保志総一朗（キラ・ヤマト役）GUNDAM SERIES ボイスコメント](https://open.spotify.com/track/15oTuand59qXpbXz2cu9Ft) | [保志総一朗（キラ・ヤマト役）](https://open.spotify.com/artist/4H11F6aZLtSI00UBVxey2k) | [保志総一朗（キラ・ヤマト役）GUNDAM SERIES ボイスコメント](https://open.spotify.com/album/3y6I0lzT9VCxErPdXh3uN8) | 0:35 | 2024-01-27 |  |
 | [僕たちの行方](https://open.spotify.com/track/1Wv3Mnr1MTj0Z4abHQANuq) | [Hitomi Takahashi](https://open.spotify.com/artist/1Jim3BQn4Kj7pJXRZ3vlRd) | [青空のナミダ / 僕たちの行方 BESTタッグ](https://open.spotify.com/album/5lg9H3etTkZQE1np1rwGz2) | 4:33 | 2022-07-27 | 2024-01-12 |
 | [僕たちの行方](https://open.spotify.com/track/4Cp6bLzWRk72OcnXsLiC5Z) | [Hitomi Takahashi](https://open.spotify.com/artist/1Jim3BQn4Kj7pJXRZ3vlRd) | [僕たちの行方](https://open.spotify.com/album/52Jxsu8WaIiezLSzAkP4IL) | 4:33 | 2022-10-17 |  |
 | [僕たちの行方](https://open.spotify.com/track/7mj3emhgxEB87vLuD9LkEx) | [Hitomi Takahashi](https://open.spotify.com/artist/1Jim3BQn4Kj7pJXRZ3vlRd) | [僕たちの行方](https://open.spotify.com/album/4tWGTVSkmwayZBPnmFA6dw) | 4:33 | 2022-07-27 | 2022-07-29 |

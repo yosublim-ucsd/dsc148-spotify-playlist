@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits ! Photo : Joseph Kamel
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,383 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,293 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 49 | [Seasons](https://open.spotify.com/track/6luU2kGjaui6Tm4tfKLiFn) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [It’s The End Of The World But It’s A Beautiful Day](https://open.spotify.com/album/08qd1EHSPOu0RHlIOgyYDf) | 2:46 |
 | 50 | [Lose It All](https://open.spotify.com/track/7g0Fo1jbQfEEFIUXAYnbrm) | [Josiane](https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B) | [Lose It All](https://open.spotify.com/album/7My868BCSFXFo0JpoyJ6MM) | 2:54 |
 
-Snapshot ID: `MCw1YWJjOGM0Zjg2ZGZlZjIwODViMmE4ZDg3MDVlMThjZjhhZjM4YjBj`
+Snapshot ID: `MCwyZmNiYTk1MTQ2N2ExY2FkMWJiOWZkNmZlYmVlNThmYjJjMzdiNDc5`

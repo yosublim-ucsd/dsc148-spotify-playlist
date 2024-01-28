@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0yknvLWQZxwsMjhUhwWZQ8">41</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,776,416 likes - 100 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,774,626 likes - 100 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 8 | [Trick](https://open.spotify.com/track/4Inza1lYiwj1XWGaEoY3B5) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Trick](https://open.spotify.com/album/5C9QBRFVfenix80twC2bj1) | 2:02 |
 | 9 | [Perfect \(feat\. DaBaby\)](https://open.spotify.com/track/4qBRHPDCVYlJVVDD2qrPpH) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Perfect \(feat\. DaBaby\)](https://open.spotify.com/album/22eDXi43Cr695XthXqglIT) | 3:52 |
 | 10 | [Jordan Year](https://open.spotify.com/track/4InhSroLUMR1niKA53Z2ni) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Still Playing The Shadows](https://open.spotify.com/album/700VLsUT8tC9EaGocYexAw) | 2:47 |
-| 11 | [Soak City \(Do it\)](https://open.spotify.com/track/6iiCzEd1ULpq7nXbZVQ4pi) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Lottery Pick](https://open.spotify.com/album/7pp3ZbXrqBiaaeRLIAyis5) | 2:03 |
+| 11 | [soak city \(do it\)](https://open.spotify.com/track/779jpZikRmH99DiSVpwCHD) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [lottery pick](https://open.spotify.com/album/6X56VpnIYr8WOiCpkXHdEw) | 2:03 |
 | 12 | [Mmhmm](https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Mmhmm](https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn) | 1:59 |
 | 13 | [Wop Wop](https://open.spotify.com/track/0XPbfOslBygbuNk3Is3j8v) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Wop Wop](https://open.spotify.com/album/4ZEblJvTAE6sWq8fDnqeEZ) | 3:43 |
 | 14 | [60 Miles](https://open.spotify.com/track/3dyhk17fDgslADTDnU6sgG) | [Lil RT](https://open.spotify.com/artist/1Go9MuDulQ4qHPE4H4rU3H) | [60 Miles](https://open.spotify.com/album/0ZERBpDfUs0o3ZULTzb3cj) | 2:06 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 30 | [I Like It](https://open.spotify.com/track/55JcOyfUKaD77CyWtTXAec) | [SugarHill Keem](https://open.spotify.com/artist/7DY7ygEiVKNki7ZIPnZoNB), [Edot Babyy](https://open.spotify.com/artist/3bOV7IH0Lb13ifOUrwACa7) | [Play For The Mavericks](https://open.spotify.com/album/1wysf1PmgDVK6l3EqLuIfK) | 1:50 |
 | 31 | [I Am Him!](https://open.spotify.com/track/0juj2urvaPsFG5ufNcT1yC) | [YGTUT](https://open.spotify.com/artist/5rOkxO8Va1CnXhF7nrHMrU) | [I'm Back \(Deluxe\)](https://open.spotify.com/album/3tOznNvSuUmITjqGwR9Lj3) | 1:33 |
 | 32 | [kingtut](https://open.spotify.com/track/5o3hsfebCXZUBb5OzsFqyK) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [kingtut](https://open.spotify.com/album/77nZkr98snqK9S5KN7gxiA) | 2:52 |
-| 33 | [HOP OUT THE V](https://open.spotify.com/track/3O7kAcFc8I509HUAQWfPD4) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9) | [HOP OUT THE V](https://open.spotify.com/album/1hv0ZoRc0af9dtI7KWHSkm) | 1:35 |
+| 33 | [HOP OUT THE V](https://open.spotify.com/track/3O7kAcFc8I509HUAQWfPD4) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9), [Mir Ebk](https://open.spotify.com/artist/3oqlRWjbqFjXe0l8Ku7coF) | [HOP OUT THE V](https://open.spotify.com/album/1hv0ZoRc0af9dtI7KWHSkm) | 1:35 |
 | 34 | [On Lock](https://open.spotify.com/track/3tuAivyXRWOKC1UVKwDQ21) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [On Lock](https://open.spotify.com/album/7qW1pB3ePK1R2QPuYIatov) | 2:00 |
 | 35 | [Destiny](https://open.spotify.com/track/5eArWUVDGcjO9zNXMYguEW) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [Destiny](https://open.spotify.com/album/1BDtfB8bRHcCaXk0ck9uXW) | 1:36 |
 | 36 | [Bae](https://open.spotify.com/track/58BFQlOjR0A3K48J6QAz6O) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Bae](https://open.spotify.com/album/3sI2NjVOrYjtv6zu90gtVN) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Not Worthy 2 ft\. Jeezy](https://open.spotify.com/track/1pGkgfarR7dAlueOvkfS0y) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Super Wizz](https://open.spotify.com/album/5oDaFXMXc1SFwlUb4vZrZR) | 3:16 |
 | 100 | [Jet Lee](https://open.spotify.com/track/0Dj9XIgTrMiqJJG5hZcFir) | [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Jet Lee](https://open.spotify.com/album/4vO3ciCm1fXlUIS7YRbpy6) | 2:46 |
 
-Snapshot ID: `MCw0NmFmYjExOTgyNDg4MGIwNDdlZmJkZmY3NmMzMjZiMDNjNTYzZTAx`
+Snapshot ID: `MCw3OGUyYzcxMDY0MzVmNWEzMjA0NTFlNWY0YzQzNjA3ZjFhNTA5Mjdi`

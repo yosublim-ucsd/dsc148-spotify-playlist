@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 273349,
+  "2024-01-28": 274186,
   "date_first_scraped": "2022-11-13",
   "description": "smooth drifting only",
   "name": "cosmic phonk",
@@ -1050,6 +1050,24 @@
     },
     {
       "album": {
+        "name": "Excused",
+        "url": "https://open.spotify.com/album/711t4AGqeMZkLio6N8e3up"
+      },
+      "artists": [
+        {
+          "name": "Lowx",
+          "url": "https://open.spotify.com/artist/2vSV4052CmG3RE9mLFXIrR"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143622,
+      "name": "Excused",
+      "url": "https://open.spotify.com/track/1dAUBCLkCrTbiOSk8iJ12b"
+    },
+    {
+      "album": {
         "name": "EXIST",
         "url": "https://open.spotify.com/album/5iDNw2t9CGE9rTlRe3VpL9"
       },
@@ -1273,6 +1291,28 @@
       "duration_ms": 181294,
       "name": "Forever In My Mind",
       "url": "https://open.spotify.com/track/5DlRPItm6jsKFewssbaJUB"
+    },
+    {
+      "album": {
+        "name": "Freaks",
+        "url": "https://open.spotify.com/album/2cIfNaP93DbfWhcilRi3js"
+      },
+      "artists": [
+        {
+          "name": "PHARA\u00d8H",
+          "url": "https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f"
+        },
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160040,
+      "name": "Freaks",
+      "url": "https://open.spotify.com/track/7ewNJrUgS5C0nxAK1KB3fY"
     },
     {
       "album": {
@@ -1793,7 +1833,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 140800,
       "name": "LIGHTS XFF",
       "url": "https://open.spotify.com/track/1hxhlE5DUTZTcToXlCDTSk"
@@ -2599,7 +2639,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 212307,
       "name": "Nitrogen",
       "url": "https://open.spotify.com/track/3zwdzya2dW8KxS2izHiOx5"

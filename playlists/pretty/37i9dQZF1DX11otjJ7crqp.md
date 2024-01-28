@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Paul Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,952 likes - 99 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,972 likes - 99 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 85 | [Pipe Down](https://open.spotify.com/track/688zECd3rFRSFq3i5EDf5w) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Pipe Down](https://open.spotify.com/album/5FgmQh0UVoKBqC3tnoBzTz) | 2:55 |
 | 86 | [SHOW ME OUT](https://open.spotify.com/track/6h0yJ8bTlpxfwiJ0aXbKxG) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [talking to the wind](https://open.spotify.com/album/1cVxRuTFcepbaLF1Tc1C47) | 2:13 |
 | 87 | [Nothing But Love](https://open.spotify.com/track/5ezGe9uG9J1fSS8X1yIVx5) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Nothing But Love](https://open.spotify.com/album/1OkRU1aahzo9tTyKDrXaAn) | 3:25 |
-| 88 | [Lonely](https://open.spotify.com/track/22qbqYGzexgkBIXefZmmrM) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Lonely](https://open.spotify.com/album/5tATqeMIZfBqYbwPZpWyGl) | 2:19 |
+| 88 | [Lonely](https://open.spotify.com/track/7HB1DLasEe7V1kpgXNtJF8) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Lonely](https://open.spotify.com/album/2oiiBjIc3xmnH1Z9bWF6wa) | 2:19 |
 | 89 | [Karaoke](https://open.spotify.com/track/6zSOlBFpuyqlgnfcz28BqE) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Karaoke](https://open.spotify.com/album/7pcvh3a56G6Sfv5O7lBh1I) | 2:59 |
 | 90 | [Think That You're Lonely](https://open.spotify.com/track/2GA5B8SPVzJzcUM0BskVXW) | [Summer Hoop](https://open.spotify.com/artist/5bJpzOPrVuGyusOODkFeIM) | [Think That You're Lonely](https://open.spotify.com/album/546p326ke1CQwiEda6E9ZL) | 3:26 |
 | 91 | [Off With Her Tits](https://open.spotify.com/track/0PZUINY8mTRYx7rM5hDRmV) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Off With Her Tits](https://open.spotify.com/album/7kOZaeeScV8NhGDlq06Qqr) | 3:16 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [If I Don't Laugh I'll Cry](https://open.spotify.com/track/6HnAjUUMPLyvOFFBxV58Hv) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [If I Don't Laugh I'll Cry](https://open.spotify.com/album/1dP4KmXsWmKYOE1Hpc7ECd) | 2:52 |
 | 99 | [Skin](https://open.spotify.com/track/3Jeo5LzCcMBtdFlp1FqpsN) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Skin](https://open.spotify.com/album/3l3z8fcI2FMAcCMq1wcd3E) | 3:35 |
 
-Snapshot ID: `MCxjODA3OWYyNWEzMzYwM2UwOTRhYTdkZWQzOGVmOTA3ZTFjYWRmN2Q2`
+Snapshot ID: `MCxjMWYyNmZhZmE4YzMxOTcwZTVjNWM5Y2ViOTM3Y2QwMGEwOGY2Zjky`

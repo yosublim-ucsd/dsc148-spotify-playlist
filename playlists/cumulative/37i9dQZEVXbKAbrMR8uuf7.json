@@ -3622,7 +3622,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 128785,
       "name": "Chu Chu",
       "url": "https://open.spotify.com/track/6RnTMsD7ygLNZ4QfbgudXg"
@@ -7329,6 +7329,24 @@
     },
     {
       "album": {
+        "name": "EN UNA NOCHE DE ESAS",
+        "url": "https://open.spotify.com/album/79ofGCnZTWGAgkriGlxUzY"
+      },
+      "artists": [
+        {
+          "name": "Crisaint",
+          "url": "https://open.spotify.com/artist/6uW7pkxGEF7fRcMJATiq9P"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114947,
+      "name": "EN UNA NOCHE DE ESAS",
+      "url": "https://open.spotify.com/track/2iuFo6n8xowO4TWpPJdpC6"
+    },
+    {
+      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
       },
@@ -7468,6 +7486,24 @@
       "duration_ms": 164096,
       "name": "Esa Cruz",
       "url": "https://open.spotify.com/track/7dlFn4xJYAg8hdp9mdz9Zr"
+    },
+    {
+      "album": {
+        "name": "Esa Ni\u00f1a",
+        "url": "https://open.spotify.com/album/2T3WhoVaJ5cYjttjofYsZw"
+      },
+      "artists": [
+        {
+          "name": "Albert la Ley",
+          "url": "https://open.spotify.com/artist/6qWsyrgr7tZD0CjeJhEkvb"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146889,
+      "name": "Esa Ni\u00f1a",
+      "url": "https://open.spotify.com/track/2czRjSFBt0nRx49O9Bk6z5"
     },
     {
       "album": {
@@ -13136,7 +13172,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 190967,
       "name": "Luces Tenues",
       "url": "https://open.spotify.com/track/15GcuHNJMf7LqwpU3N4Puw"
@@ -13154,7 +13190,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 166835,
       "name": "Luchas Mentales",
       "url": "https://open.spotify.com/track/1f70ywNtUyw4VgckqXeuOv"
@@ -14180,7 +14216,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 178567,
       "name": "Me Porto Bonito",
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
@@ -14768,7 +14804,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 229276,
       "name": "Mi Todo",
       "url": "https://open.spotify.com/track/02Rs1gB9idwpTtgcyciiuY"
@@ -20276,7 +20312,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 177760,
       "name": "Rumine",
       "url": "https://open.spotify.com/track/3K8ek4n0oRmhNuygMyrMfQ"

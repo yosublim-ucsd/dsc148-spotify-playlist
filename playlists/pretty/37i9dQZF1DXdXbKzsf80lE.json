@@ -1,12 +1,12 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 232134,
+  "num_followers": 232408,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2ZhNzM1ODE4MzlhNDFjNTk5N2I1OTU2YmUyOTdiZWM5Mzg1NzA4",
+  "snapshot_id": "MCw4NWI4ZmYzMGQ2Nzg5OGY1YzM2YzYzYzQxMGM5NTllMDRmZDRiYzhm",
   "tracks": [
     {
       "added_at": "2023-10-23 12:32:56",
@@ -167,6 +167,22 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
+        "name": "Na Press\u00e3o",
+        "url": "https://open.spotify.com/album/1aD9s70SHK5DyLthruVVAZ"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "duration_ms": 187141,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/0Xav1EeY00uSr2nDVp4jGA"
+    },
+    {
+      "added_at": "2023-10-23 12:32:56",
+      "album": {
         "name": "Cora\u00e7\u00e3o Cachorro",
         "url": "https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d"
       },
@@ -187,34 +203,22 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "Na Press\u00e3o",
-        "url": "https://open.spotify.com/album/1aD9s70SHK5DyLthruVVAZ"
+        "name": "Nem V\u00e1",
+        "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
       },
       "artists": [
         {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        }
-      ],
-      "duration_ms": 187141,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/0Xav1EeY00uSr2nDVp4jGA"
-    },
-    {
-      "added_at": "2023-10-23 12:32:56",
-      "album": {
-        "name": "O Pai Das Crian\u00e7as (Part. 1)",
-        "url": "https://open.spotify.com/album/7Dv7PY99nacoKmLbNdVzJu"
-      },
-      "artists": [
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
         {
-          "name": "Tierry",
-          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 147401,
-      "name": "Cabe\u00e7a Branca",
-      "url": "https://open.spotify.com/track/5zswDNRhJSXuvhJXJGQTFK"
+      "duration_ms": 159639,
+      "name": "Nem V\u00e1",
+      "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -235,22 +239,18 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "Nem V\u00e1",
-        "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
+        "name": "O Pai Das Crian\u00e7as (Part. 1)",
+        "url": "https://open.spotify.com/album/7Dv7PY99nacoKmLbNdVzJu"
       },
       "artists": [
         {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "name": "Tierry",
+          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
         }
       ],
-      "duration_ms": 159639,
-      "name": "Nem V\u00e1",
-      "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
+      "duration_ms": 147401,
+      "name": "Cabe\u00e7a Branca",
+      "url": "https://open.spotify.com/track/5zswDNRhJSXuvhJXJGQTFK"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -995,38 +995,6 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "A\u00f4 Saudade da M\u00e3e dos Meninos",
-        "url": "https://open.spotify.com/album/2V9i8lh4qbIj6oLqECVS6k"
-      },
-      "artists": [
-        {
-          "name": "Tierry",
-          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
-        }
-      ],
-      "duration_ms": 156630,
-      "name": "Rita",
-      "url": "https://open.spotify.com/track/1nDCZBI8MaHXI2f36dnQyG"
-    },
-    {
-      "added_at": "2023-10-23 12:32:56",
-      "album": {
-        "name": "TBT WS 2 - Parte 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1tmO6NxvrqC1D3qBSEr43C"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 143349,
-      "name": "Fora do Eixo - Ao Vivo",
-      "url": "https://open.spotify.com/track/69PsZHMRxyHbCiBLtmUVPJ"
-    },
-    {
-      "added_at": "2023-10-23 12:32:56",
-      "album": {
         "name": "A Dist\u00e2ncia T\u00e1 Maltratando",
         "url": "https://open.spotify.com/album/7G059SfagKnzI5dOXhOyzN"
       },
@@ -1047,22 +1015,18 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "Vazou um \u00c1udio (Ao Vivo No Casa Filtr)",
-        "url": "https://open.spotify.com/album/2oiBNvChBI8N5246RUSLsP"
+        "name": "A\u00f4 Saudade da M\u00e3e dos Meninos",
+        "url": "https://open.spotify.com/album/2V9i8lh4qbIj6oLqECVS6k"
       },
       "artists": [
         {
-          "name": "Avine Vinny",
-          "url": "https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W"
-        },
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+          "name": "Tierry",
+          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
         }
       ],
-      "duration_ms": 151805,
-      "name": "Vazou um \u00c1udio - Ao Vivo No Casa Filtr",
-      "url": "https://open.spotify.com/track/59wOSyrOPTS1NmNHED6hbI"
+      "duration_ms": 156630,
+      "name": "Rita",
+      "url": "https://open.spotify.com/track/1nDCZBI8MaHXI2f36dnQyG"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -1079,6 +1043,50 @@
       "duration_ms": 169903,
       "name": "Trip do Boyzinho",
       "url": "https://open.spotify.com/track/41GMwa6sCB3iA2aS5T30iE"
+    },
+    {
+      "added_at": "2023-10-23 12:32:56",
+      "album": {
+        "name": "Amor Falso",
+        "url": "https://open.spotify.com/album/28EQ82s2vUSPiIH04ZOvVn"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        },
+        {
+          "name": "Aldair Playboy",
+          "url": "https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56"
+        },
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "duration_ms": 177075,
+      "name": "Amor Falso",
+      "url": "https://open.spotify.com/track/0KlDHJm8yPsGdiNhYgEYWZ"
+    },
+    {
+      "added_at": "2023-10-23 12:32:56",
+      "album": {
+        "name": "Vazou um \u00c1udio (Ao Vivo No Casa Filtr)",
+        "url": "https://open.spotify.com/album/2oiBNvChBI8N5246RUSLsP"
+      },
+      "artists": [
+        {
+          "name": "Avine Vinny",
+          "url": "https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "duration_ms": 151805,
+      "name": "Vazou um \u00c1udio - Ao Vivo No Casa Filtr",
+      "url": "https://open.spotify.com/track/59wOSyrOPTS1NmNHED6hbI"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -1551,22 +1559,6 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "Imagina A Sentada \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 184053,
-      "name": "Imagina A Sentada \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2iJGrGll9mGg9pJCezwP85"
-    },
-    {
-      "added_at": "2023-10-23 12:32:56",
-      "album": {
         "name": "Acertou na Mosca",
         "url": "https://open.spotify.com/album/5Jum3LSjwNFO8OxVo0PM2N"
       },
@@ -1579,6 +1571,22 @@
       "duration_ms": 142192,
       "name": "Hb20",
       "url": "https://open.spotify.com/track/4cjowWOdLUKomiRwhWpRXJ"
+    },
+    {
+      "added_at": "2023-10-23 12:32:56",
+      "album": {
+        "name": "Imagina A Sentada \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 184053,
+      "name": "Imagina A Sentada \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2iJGrGll9mGg9pJCezwP85"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -1627,6 +1635,22 @@
       "duration_ms": 146240,
       "name": "Matuto de Verdade",
       "url": "https://open.spotify.com/track/4gryO2XRHDvVgDfAoxZCi4"
+    },
+    {
+      "added_at": "2023-10-23 12:32:56",
+      "album": {
+        "name": "My Baby",
+        "url": "https://open.spotify.com/album/2Tvmo1uMgsFxkMtZ1xgzLp"
+      },
+      "artists": [
+        {
+          "name": "Furac\u00e3o Love",
+          "url": "https://open.spotify.com/artist/35udcF82bFL8EzsDlWWcsr"
+        }
+      ],
+      "duration_ms": 144535,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/5BG7jLnjI62eS7EuBGr3r7"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -1683,26 +1707,6 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "Hoje Tem",
-        "url": "https://open.spotify.com/album/7L8dDLzAgwLjwflKixuoza"
-      },
-      "artists": [
-        {
-          "name": "VAQUEIRO SM",
-          "url": "https://open.spotify.com/artist/3MssfeN0eWZ7eqqkfLEOA3"
-        },
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        }
-      ],
-      "duration_ms": 168085,
-      "name": "Hoje Tem",
-      "url": "https://open.spotify.com/track/6PDVgIf7CRM0taohivuclB"
-    },
-    {
-      "added_at": "2023-10-23 12:32:56",
-      "album": {
         "name": "Vaquejada Deixo N\u00e3o",
         "url": "https://open.spotify.com/album/1clLqhZRPHVnA0LyG6PQAO"
       },
@@ -1719,18 +1723,22 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "My Baby",
-        "url": "https://open.spotify.com/album/2Tvmo1uMgsFxkMtZ1xgzLp"
+        "name": "Hoje Tem",
+        "url": "https://open.spotify.com/album/7L8dDLzAgwLjwflKixuoza"
       },
       "artists": [
         {
-          "name": "Furac\u00e3o Love",
-          "url": "https://open.spotify.com/artist/35udcF82bFL8EzsDlWWcsr"
+          "name": "VAQUEIRO SM",
+          "url": "https://open.spotify.com/artist/3MssfeN0eWZ7eqqkfLEOA3"
+        },
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
         }
       ],
-      "duration_ms": 144535,
-      "name": "My Baby",
-      "url": "https://open.spotify.com/track/5BG7jLnjI62eS7EuBGr3r7"
+      "duration_ms": 168085,
+      "name": "Hoje Tem",
+      "url": "https://open.spotify.com/track/6PDVgIf7CRM0taohivuclB"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -1771,18 +1779,22 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "\u00c9 S\u00f3 Oi e Tchau",
-        "url": "https://open.spotify.com/album/1cRntUVNelLM02NrKFjYhV"
+        "name": "Saudade Vai Bater",
+        "url": "https://open.spotify.com/album/7iISpLEaOAfgBq83h4NxNh"
       },
       "artists": [
         {
-          "name": "Luan Estilizado",
-          "url": "https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc"
+          "name": "MC Bruninho",
+          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
+        },
+        {
+          "name": "Aldair Playboy",
+          "url": "https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56"
         }
       ],
-      "duration_ms": 207319,
-      "name": "\u00c9 S\u00f3 Oi e Tchau",
-      "url": "https://open.spotify.com/track/6V6Vgs8NDlYappnYAq0Syy"
+      "duration_ms": 182000,
+      "name": "Saudade Vai Bater",
+      "url": "https://open.spotify.com/track/6b5GquyOcc5326bJoEUafU"
     }
   ],
   "unique_name": "Bora arrochar",

@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 10623,
+  "2024-01-28": 10622,
   "date_first_scraped": "2023-12-14",
   "description": "Tunes from your favourite coffee shop.",
   "name": "But First Coffee",
@@ -295,7 +295,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 165176,
       "name": "die young - acoustic",
       "url": "https://open.spotify.com/track/5evSLs2Ng5ZwPKHtNgAKB9"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 222586,
       "name": "Du temps",
       "url": "https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL"
@@ -410,6 +410,42 @@
     },
     {
       "album": {
+        "name": "Forever Was Never Enough",
+        "url": "https://open.spotify.com/album/5OPbWgMmKfLsir6Er33VIm"
+      },
+      "artists": [
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175733,
+      "name": "Forever Was Never Enough",
+      "url": "https://open.spotify.com/track/15GmDt2VKLQmcB8q9tkJh8"
+    },
+    {
+      "album": {
+        "name": "Bitter Sweet Love",
+        "url": "https://open.spotify.com/album/02muSEofPSAk276DCafUPb"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "Free Falling",
+      "url": "https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz"
+    },
+    {
+      "album": {
         "name": "God and a Good Man",
         "url": "https://open.spotify.com/album/3lwqtmWopuyOY3eR6dRyWG"
       },
@@ -443,6 +479,24 @@
       "duration_ms": 198370,
       "name": "Heartbreak Anniversary",
       "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
+    },
+    {
+      "album": {
+        "name": "HEAVEN",
+        "url": "https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174595,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
     },
     {
       "album": {
@@ -624,6 +678,24 @@
     },
     {
       "album": {
+        "name": "L'essentiel",
+        "url": "https://open.spotify.com/album/3nc1DGkPmGQEoAMoWhGqEQ"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185133,
+      "name": "L'essentiel",
+      "url": "https://open.spotify.com/track/1vmhZxLgzC3Pk1ElcmTJTJ"
+    },
+    {
+      "album": {
         "name": "Last Train Home (Ballad Version)",
         "url": "https://open.spotify.com/album/4qI7QOLeKaYr0OtqjCXi7d"
       },
@@ -759,6 +831,24 @@
       "duration_ms": 255370,
       "name": "Me Without You (Acoustic)",
       "url": "https://open.spotify.com/track/1mfPsU5u0fgdjYfKIxaJol"
+    },
+    {
+      "album": {
+        "name": "Modern Drugs",
+        "url": "https://open.spotify.com/album/3fexL0QakIVLSCChoQ4aSK"
+      },
+      "artists": [
+        {
+          "name": "JJ Shiplett",
+          "url": "https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313357,
+      "name": "Modern Drugs",
+      "url": "https://open.spotify.com/track/5gocWRuqMWndCOS6FLK270"
     },
     {
       "album": {
@@ -932,6 +1022,24 @@
     },
     {
       "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/0Y8njREiJhHegRMwHHrNth"
+      },
+      "artists": [
+        {
+          "name": "12AM",
+          "url": "https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149366,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/6KX5lORRwSuUWyXpMlJ8Hs"
+    },
+    {
+      "album": {
         "name": "Part of Me",
         "url": "https://open.spotify.com/album/0Xu17UGt6rn4ViWJTQnwTe"
       },
@@ -983,7 +1091,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 228376,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X"
@@ -1023,7 +1131,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 164008,
       "name": "something i can't do",
       "url": "https://open.spotify.com/track/4rtGByFuVFIb3rj4ewtVYw"
@@ -1153,7 +1261,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 250597,
       "name": "The Roads",
       "url": "https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW"
@@ -1189,7 +1297,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 152821,
       "name": "To Whoever Has You Next",
       "url": "https://open.spotify.com/track/5kFyn9ADelkaJ7vO8aTxCU"

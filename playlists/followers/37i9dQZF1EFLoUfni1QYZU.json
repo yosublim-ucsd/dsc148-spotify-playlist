@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 667,
+  "2024-01-28": 667,
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et\">LP</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By LP",
@@ -1749,10 +1749,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 261365,
       "name": "Switchblade",
       "url": "https://open.spotify.com/track/1plHfju0zRVjlSTT7iwew9"
+    },
+    {
+      "album": {
+        "name": "Lost On You",
+        "url": "https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264117,
+      "name": "Switchblade",
+      "url": "https://open.spotify.com/track/0lghQmFvO9TVRx7GmrafsU"
     },
     {
       "album": {
@@ -2063,10 +2081,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 235224,
       "name": "When We're High",
       "url": "https://open.spotify.com/track/0cr9HCqppIsaq6mluZOFHc"
+    },
+    {
+      "album": {
+        "name": "Lost On You",
+        "url": "https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237500,
+      "name": "When We're High",
+      "url": "https://open.spotify.com/track/4jPYg9dHCUElQzDCXoaTxE"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 118710,
+  "2024-01-28": 119074,
   "date_first_scraped": "2022-08-19",
   "description": "The stomping ground.",
   "name": "Open Air",
@@ -3305,6 +3305,28 @@
       "duration_ms": 199358,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4RK3K3tMjzyLbszKzqyAsi"
+    },
+    {
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/3v991d9HB0a1CMHmFgSu7q"
+      },
+      "artists": [
+        {
+          "name": "Cent",
+          "url": "https://open.spotify.com/artist/19k9TrKzU0Jq8UF5ROVK7d"
+        },
+        {
+          "name": "Katia B",
+          "url": "https://open.spotify.com/artist/4WmvFchREyHZdwvDlffQaU"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/6kgVM1XFTsKsGvyzaMgIi2"
     },
     {
       "album": {
@@ -13661,7 +13683,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 176065,
       "name": "The Greatest Thing Alive",
       "url": "https://open.spotify.com/track/6As1zfxQHAgeQPBK2paaqh"

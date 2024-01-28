@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 161137,
+  "2024-01-28": 161113,
   "date_first_scraped": "2023-02-25",
   "description": "De nieuwste Nederlandse pop! Cover: Adriaan Persons",
   "name": "Je Moerstaal",
@@ -7199,6 +7199,24 @@
       "duration_ms": 160167,
       "name": "Stil In De Stad",
       "url": "https://open.spotify.com/track/3zKok5SsKBwSdM1kfedrga"
+    },
+    {
+      "album": {
+        "name": "Stille Pijn",
+        "url": "https://open.spotify.com/album/39Cg6qp3pv6FW7SKpF2bFm"
+      },
+      "artists": [
+        {
+          "name": "Numidia",
+          "url": "https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203135,
+      "name": "Stille Pijn",
+      "url": "https://open.spotify.com/track/3giaPcqlpiX6SG6lwRRj55"
     },
     {
       "album": {

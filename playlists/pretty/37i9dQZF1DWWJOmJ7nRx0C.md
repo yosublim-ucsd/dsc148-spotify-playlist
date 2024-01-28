@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock at its loudest \- turn it up ⬆️ Cover: Dead Poet Society
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,422 likes - 76 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,913 likes - 76 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 75 | [Pull Me Through](https://open.spotify.com/track/4EmnzJLkWYI9JyYTWtnOVT) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:08 |
 | 76 | [Right Side of Wrong](https://open.spotify.com/track/787VnvRnGZatxoIzv2yNkc) | [Mick Mars](https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc) | [Right Side of Wrong](https://open.spotify.com/album/4H1ejQ2JLKUgKy3bCgW9g1) | 3:14 |
 
-Snapshot ID: `MCw5MzI4Yzc0NGE5MmI3NWEzOTdiZWEzY2MwZmRmNGE0MTk3YzM0ZDA1`
+Snapshot ID: `MCxlNGQwNjhlZTVhMjQ2Zjk0MDQzOGUxZTFjN2JjNmRiNzc2ODk1MTBk`

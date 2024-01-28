@@ -1,12 +1,12 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 42232,
+  "num_followers": 42217,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjM3ZDViMmY4ZjE2NDNhNjk5ODkxMmVmY2M2NTFlYTgyOGU0MWNm",
+  "snapshot_id": "MCxkNDA5OWVjMGFlOGQ4NWU3YTY4NWNiYzMxNDZmMTIzNjMyYjUzZjJm",
   "tracks": [
     {
       "added_at": "2021-09-06 15:34:44",
@@ -584,25 +584,25 @@
           "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
         }
       ],
-      "duration_ms": 192893,
-      "name": "Nada Nos Detendr\u00e1",
-      "url": "https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA"
+      "duration_ms": 180226,
+      "name": "Acapulco Dorado",
+      "url": "https://open.spotify.com/track/5ytsmoEtQMsPYfFfxgZCd2"
     },
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Volumen I",
-        "url": "https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk"
+        "name": "Rock en Av\u00e1ndaro Valle de Bravo",
+        "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
       },
       "artists": [
         {
-          "name": "Nahuatl",
-          "url": "https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K"
+          "name": "La Fachada De Piedra",
+          "url": "https://open.spotify.com/artist/4alM2y1QDZQ9NkVgdmO0f9"
         }
       ],
-      "duration_ms": 281773,
-      "name": "Tiempo Perdido",
-      "url": "https://open.spotify.com/track/1PBS2zYINZFFs3Vt8AFfPL"
+      "duration_ms": 187611,
+      "name": "Roaming",
+      "url": "https://open.spotify.com/track/7qbSUZaGP6FyvadcKT59WF"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -639,22 +639,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Rock Sound",
-        "url": "https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq"
-      },
-      "artists": [
-        {
-          "name": "Enigma!",
-          "url": "https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H"
-        }
-      ],
-      "duration_ms": 228080,
-      "name": "The Call of the Woman (El Llamado de la Hembra)",
-      "url": "https://open.spotify.com/track/5xDzHDSJy8kyVrr1WASR0N"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Los Nuggetz - 60's Punk, Pop and Psychedelic From Latin America",
         "url": "https://open.spotify.com/album/3Wmj1OJev6LrgjS9SIPBk7"
       },
@@ -671,18 +655,34 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Rock en Av\u00e1ndaro Valle de Bravo",
-        "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
+        "name": "Rock Sound",
+        "url": "https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq"
       },
       "artists": [
         {
-          "name": "La Fachada De Piedra",
-          "url": "https://open.spotify.com/artist/4alM2y1QDZQ9NkVgdmO0f9"
+          "name": "Enigma!",
+          "url": "https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H"
         }
       ],
-      "duration_ms": 187611,
-      "name": "Roaming",
-      "url": "https://open.spotify.com/track/7qbSUZaGP6FyvadcKT59WF"
+      "duration_ms": 228080,
+      "name": "The Call of the Woman (El Llamado de la Hembra)",
+      "url": "https://open.spotify.com/track/5xDzHDSJy8kyVrr1WASR0N"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Volumen I",
+        "url": "https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk"
+      },
+      "artists": [
+        {
+          "name": "Nahuatl",
+          "url": "https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K"
+        }
+      ],
+      "duration_ms": 281773,
+      "name": "Tiempo Perdido",
+      "url": "https://open.spotify.com/track/1PBS2zYINZFFs3Vt8AFfPL"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
         }
       ],
-      "duration_ms": 180226,
-      "name": "Acapulco Dorado",
-      "url": "https://open.spotify.com/track/5ytsmoEtQMsPYfFfxgZCd2"
+      "duration_ms": 192893,
+      "name": "Nada Nos Detendr\u00e1",
+      "url": "https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA"
     },
     {
       "added_at": "2021-09-06 15:34:44",

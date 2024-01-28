@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 224959,
+  "2024-01-28": 224829,
   "date_first_scraped": "2020-10-29",
   "description": "it's a vibe (\u25e1 \u203f \u25e1 \u273f).",
   "name": "indie pop & chill",
@@ -2363,6 +2363,24 @@
       "duration_ms": 282493,
       "name": "Broken Lips",
       "url": "https://open.spotify.com/track/6F5cfxHDlMAfQdAQ8KF0JZ"
+    },
+    {
+      "album": {
+        "name": "I Love My Girl, She's My Boy",
+        "url": "https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179144,
+      "name": "Bruise",
+      "url": "https://open.spotify.com/track/1U1TpPbxYRFteIeT0Az4kM"
     },
     {
       "album": {
@@ -10763,7 +10781,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 243000,
       "name": "kiss me before u go.",
       "url": "https://open.spotify.com/track/1n6wEo9WEfUHm2VcOx67dw"
@@ -12153,6 +12171,24 @@
       "duration_ms": 168542,
       "name": "MESS U MADE",
       "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
+    },
+    {
+      "album": {
+        "name": "Messages",
+        "url": "https://open.spotify.com/album/2NTbrUHlhtJZUCcIebjth2"
+      },
+      "artists": [
+        {
+          "name": "Jane Penny",
+          "url": "https://open.spotify.com/artist/3LgeMxdrjCnZIHB8VoFhcd"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195950,
+      "name": "Messages",
+      "url": "https://open.spotify.com/track/1FSDiVFnNPWbFTrHaKTYD2"
     },
     {
       "album": {
@@ -15431,7 +15467,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 212537,
       "name": "riptide",
       "url": "https://open.spotify.com/track/42Da30giIkPsirgWn3qMDP"
@@ -18868,6 +18904,24 @@
     },
     {
       "album": {
+        "name": "the muse",
+        "url": "https://open.spotify.com/album/7mKUfDf8TjnrBuYtsBO960"
+      },
+      "artists": [
+        {
+          "name": "One Hope",
+          "url": "https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219452,
+      "name": "the muse",
+      "url": "https://open.spotify.com/track/5rBD71RobWRssvUnK2rbc9"
+    },
+    {
+      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/3r8dj1ruZN0PGP7dFjZhfo"
       },
@@ -20667,7 +20721,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 172881,
       "name": "What's up",
       "url": "https://open.spotify.com/track/7Ho6dQkOqE0GB8Zb6fYf8h"

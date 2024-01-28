@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 10131,
+  "2024-01-28": 10132,
   "date_first_scraped": "2022-05-26",
   "description": "This is Billy Paul. The essential tracks, all in one playlist.",
   "name": "This Is Billy Paul",
@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 275240,
       "name": "Brown Baby",
       "url": "https://open.spotify.com/track/3awQsj2wDfaISFX47q9fTi"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 385720,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/18lK1qUysT3bdjUZsHFFlb"

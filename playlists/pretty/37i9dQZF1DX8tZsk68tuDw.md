@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Disco Lines, Anabel Englund & J\. Worra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,981,011 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,980,362 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 74 | [I Could Be \(feat\. valentina cy\)](https://open.spotify.com/track/19yCgFt2hIHCqLyfsAQPTA) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI), [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [I Could Be \(feat\. valentina cy\)](https://open.spotify.com/album/6tDdVYFLF6PqcnkcLwKrQ0) | 3:26 |
 | 75 | [Look At Me Dance](https://open.spotify.com/track/2ByH7zQsZ5ZGjbWRZpFoRI) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Look At Me Dance](https://open.spotify.com/album/4GQVZQ4Bc70JB8tU8z8XML) | 3:05 |
 
-Snapshot ID: `MCxlYjAyNjljMzk1OWFkYjg1OTk0YmUzOTdlZjllYzIwMmVmM2YxNGRj`
+Snapshot ID: `MCw1ZWUwNGNmNmFkMjA0MmQyNThkZGIxZDljYTgxNzU0MzE1ZjU2MDIy`

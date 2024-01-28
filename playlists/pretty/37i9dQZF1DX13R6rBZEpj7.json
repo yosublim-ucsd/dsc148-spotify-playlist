@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 201978,
+  "num_followers": 202039,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWRjMjM1MmI5MTdmMDBhYzZiNjhiMmUzZjE3OTM5Nzg1NTY3NmVj",
+  "snapshot_id": "MCw4NjM3MDVjN2VhZTNmNDRkZjc0NTM1YTk2MzhhNDIxNGYwNTRhZGIx",
   "tracks": [
     {
       "added_at": "2024-01-26 00:00:00",
@@ -607,26 +607,6 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Ikebana - EP",
-        "url": "https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK"
-      },
-      "artists": [
-        {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        },
-        {
-          "name": "Duskee",
-          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
-        }
-      ],
-      "duration_ms": 226896,
-      "name": "Misfit",
-      "url": "https://open.spotify.com/track/4Lnb1dh4iXpuIRCK4fLBHv"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
         "name": "Surgery",
         "url": "https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr"
       },
@@ -647,22 +627,6 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Shutdown",
-        "url": "https://open.spotify.com/album/1uMBr5KbMr7jDxJCrc3iZT"
-      },
-      "artists": [
-        {
-          "name": "Samstone",
-          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
-        }
-      ],
-      "duration_ms": 223725,
-      "name": "Shutdown",
-      "url": "https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
         "name": "Overrated",
         "url": "https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g"
       },
@@ -679,18 +643,38 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Gimme More",
-        "url": "https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN"
+        "name": "Shutdown",
+        "url": "https://open.spotify.com/album/1uMBr5KbMr7jDxJCrc3iZT"
       },
       "artists": [
         {
-          "name": "Distinkt",
-          "url": "https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug"
+          "name": "Samstone",
+          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
         }
       ],
-      "duration_ms": 234418,
-      "name": "Gimme More",
-      "url": "https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN"
+      "duration_ms": 223725,
+      "name": "Shutdown",
+      "url": "https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
+        "name": "Ikebana - EP",
+        "url": "https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        },
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+        }
+      ],
+      "duration_ms": 226896,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/4Lnb1dh4iXpuIRCK4fLBHv"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -715,6 +699,22 @@
       "duration_ms": 231555,
       "name": "Again (feat. Takura)",
       "url": "https://open.spotify.com/track/6b5yDIjAWJlc3KbjKULccB"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
+        "name": "Gimme More",
+        "url": "https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN"
+      },
+      "artists": [
+        {
+          "name": "Distinkt",
+          "url": "https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug"
+        }
+      ],
+      "duration_ms": 234418,
+      "name": "Gimme More",
+      "url": "https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Faith In Chaos",
-        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Acid",
-      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 237293,
       "name": "Ruins",
       "url": "https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
+        "name": "Faith In Chaos",
+        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Acid",
+      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Aight Boom (feat. Scrufizzer)",
-        "url": "https://open.spotify.com/album/086oqWH3xfRrtg39eiJGLC"
-      },
-      "artists": [
-        {
-          "name": "Y U QT",
-          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 166015,
-      "name": "Aight Boom (feat. Scrufizzer)",
-      "url": "https://open.spotify.com/track/75GSsRPXsU16dUd5uVAbHX"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
         "name": "Turn It Up",
         "url": "https://open.spotify.com/album/2WffomrXjhSK4R2rw9r6jk"
       },
@@ -1055,6 +1035,26 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
+        "name": "Aight Boom (feat. Scrufizzer)",
+        "url": "https://open.spotify.com/album/086oqWH3xfRrtg39eiJGLC"
+      },
+      "artists": [
+        {
+          "name": "Y U QT",
+          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 166015,
+      "name": "Aight Boom (feat. Scrufizzer)",
+      "url": "https://open.spotify.com/track/75GSsRPXsU16dUd5uVAbHX"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
         "name": "Pure",
         "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 166153,
       "name": "Pure",
       "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
+        "name": "Easy for them",
+        "url": "https://open.spotify.com/album/7sE9VcKFbYgVa5jG8pdAUS"
+      },
+      "artists": [
+        {
+          "name": "Rohaan",
+          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Easy for them",
+      "url": "https://open.spotify.com/track/1BVtpveXrAKmxQ3AZ8a1cf"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Easy for them",
-        "url": "https://open.spotify.com/album/7sE9VcKFbYgVa5jG8pdAUS"
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/41v5RTP7DI3PGECp9i7ZBa"
       },
       "artists": [
         {
-          "name": "Rohaan",
-          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+          "name": "Slick Don",
+          "url": "https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Easy for them",
-      "url": "https://open.spotify.com/track/1BVtpveXrAKmxQ3AZ8a1cf"
+      "duration_ms": 252000,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1187,22 +1203,6 @@
       "duration_ms": 169385,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/41v5RTP7DI3PGECp9i7ZBa"
-      },
-      "artists": [
-        {
-          "name": "Slick Don",
-          "url": "https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Inside",
-      "url": "https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1243,22 +1243,22 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Check Yourself",
-        "url": "https://open.spotify.com/album/7HlM6tx37YlyZtIBIdsjFl"
+        "name": "Hard Hitters",
+        "url": "https://open.spotify.com/album/10ugYCkUnBCin3OWtGTlMl"
       },
       "artists": [
         {
-          "name": "909",
-          "url": "https://open.spotify.com/artist/1BGPK5MFxGtMlDfMym8fQF"
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
         },
         {
           "name": "Dread MC",
           "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
         }
       ],
-      "duration_ms": 207619,
-      "name": "Check Yourself",
-      "url": "https://open.spotify.com/track/3CBdMIBhkAffORLkygycWR"
+      "duration_ms": 232602,
+      "name": "Hard Hitters",
+      "url": "https://open.spotify.com/track/6T4YgCYDVBlzpdtsknFeQ7"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1283,22 +1283,26 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Hard Hitters",
-        "url": "https://open.spotify.com/album/10ugYCkUnBCin3OWtGTlMl"
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/5JX891euRdXxQuUNl5f1oW"
       },
       "artists": [
         {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+          "name": "Livsey",
+          "url": "https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL"
         },
         {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+          "name": "Nika D",
+          "url": "https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG"
+        },
+        {
+          "name": "Virus Syndicate",
+          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
         }
       ],
-      "duration_ms": 232602,
-      "name": "Hard Hitters",
-      "url": "https://open.spotify.com/track/6T4YgCYDVBlzpdtsknFeQ7"
+      "duration_ms": 249448,
+      "name": "Redlight",
+      "url": "https://open.spotify.com/track/60GofMxxkrLuEIOS9JluGG"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1323,26 +1327,22 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Liberation",
-        "url": "https://open.spotify.com/album/5JX891euRdXxQuUNl5f1oW"
+        "name": "Check Yourself",
+        "url": "https://open.spotify.com/album/7HlM6tx37YlyZtIBIdsjFl"
       },
       "artists": [
         {
-          "name": "Livsey",
-          "url": "https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL"
+          "name": "909",
+          "url": "https://open.spotify.com/artist/1BGPK5MFxGtMlDfMym8fQF"
         },
         {
-          "name": "Nika D",
-          "url": "https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG"
-        },
-        {
-          "name": "Virus Syndicate",
-          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
         }
       ],
-      "duration_ms": 249448,
-      "name": "Redlight",
-      "url": "https://open.spotify.com/track/60GofMxxkrLuEIOS9JluGG"
+      "duration_ms": 207619,
+      "name": "Check Yourself",
+      "url": "https://open.spotify.com/track/3CBdMIBhkAffORLkygycWR"
     },
     {
       "added_at": "2024-01-26 00:00:00",

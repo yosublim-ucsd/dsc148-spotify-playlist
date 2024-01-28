@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 8246,
+  "2024-01-28": 8271,
   "date_first_scraped": "2022-11-16",
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Amira Elfeky",
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Bad Omens and Poppy",
   "name": "Best New Songs Right Now",
   "tracks": [
     {
@@ -3338,6 +3338,24 @@
     },
     {
       "album": {
+        "name": "Fell Reigns",
+        "url": "https://open.spotify.com/album/301XBMA7ZUEUUuTqVmTJip"
+      },
+      "artists": [
+        {
+          "name": "Hand of Kalliach",
+          "url": "https://open.spotify.com/artist/4KezOas66hmsEjQUt5O6hQ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306864,
+      "name": "Fell Reigns",
+      "url": "https://open.spotify.com/track/05YRqVuLTk3HNkcvrdKf78"
+    },
+    {
+      "album": {
         "name": "Power Pop",
         "url": "https://open.spotify.com/album/3I0AqJlceDn4WCWTEy1U4i"
       },
@@ -5060,6 +5078,24 @@
     },
     {
       "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/6Jca9m0heHbc7wu44GZs0A"
+      },
+      "artists": [
+        {
+          "name": "SPACED",
+          "url": "https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96220,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/4UnezplnQOoiNCRxYfveZR"
+    },
+    {
+      "album": {
         "name": "Wish / Last Laugh",
         "url": "https://open.spotify.com/album/19sxqwRhFmtmwo7V0Pjjhz"
       },
@@ -5462,6 +5498,24 @@
     },
     {
       "album": {
+        "name": "M.O.T. Promo 2024",
+        "url": "https://open.spotify.com/album/3WZaa8PS31cw3P20rqMCKS"
+      },
+      "artists": [
+        {
+          "name": "Moment of Truth",
+          "url": "https://open.spotify.com/artist/7m1PAkhUGJqjCmJbZS8uHv"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150334,
+      "name": "Many Opps Terminated",
+      "url": "https://open.spotify.com/track/4IGmkTpW8b2WJreZPXI4OP"
+    },
+    {
+      "album": {
         "name": "Mark of the Beast",
         "url": "https://open.spotify.com/album/5HxfVHLTw5GbJ6sPxxEITk"
       },
@@ -5579,6 +5633,28 @@
       "duration_ms": 195850,
       "name": "Message Like a Bomb",
       "url": "https://open.spotify.com/track/02Om4tDIjg1RjkcwVwM870"
+    },
+    {
+      "album": {
+        "name": "Miasma",
+        "url": "https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        },
+        {
+          "name": "Winston McCall",
+          "url": "https://open.spotify.com/artist/5SbE63j8ykElvWk3EZEmrx"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258153,
+      "name": "Miasma",
+      "url": "https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG"
     },
     {
       "album": {
@@ -10010,6 +10086,28 @@
     },
     {
       "album": {
+        "name": "V.A.N",
+        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274098,
+      "name": "V.A.N",
+      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
+    },
+    {
+      "album": {
         "name": "Valkyriernes Sang",
         "url": "https://open.spotify.com/album/2dc2XVdO6Vb3zfZEjuw24y"
       },
@@ -10693,6 +10791,24 @@
       "duration_ms": 317130,
       "name": "Wide Open",
       "url": "https://open.spotify.com/track/6Td517jDDCCvHKo7vk7mnP"
+    },
+    {
+      "album": {
+        "name": "Widow Song",
+        "url": "https://open.spotify.com/album/2EmSQd3hktzO3MDe1c0ib5"
+      },
+      "artists": [
+        {
+          "name": "Gost",
+          "url": "https://open.spotify.com/artist/46HcJG62ky3Tj7yJpB2Qqg"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259573,
+      "name": "Widow Song",
+      "url": "https://open.spotify.com/track/0hORSwaLJGHXArVtCCHTXj"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A la antig\u00fcita, chiquitita! Las canciones escritas e interpretadas por Ed\u00e9n Mu\u00f1oz \ud83e\udd20",
-  "num_followers": 111157,
+  "num_followers": 111066,
   "original_name": "Cancionero Ed\u00e9n Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2RlNTFmNDkyMDc1YjIwZDc4OTAxOWY1Njg0YmQyZDEwYjRlNzYx",
+  "snapshot_id": "MCw4NDRkNGZiMTc4Y2ZhMjA5N2E3MGRhZmE0MGNkN2M0OTI2OTJjZTQ5",
   "tracks": [
     {
       "added_at": "2022-05-25 16:50:02",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Como Quiera Sigo Vivo",
-        "url": "https://open.spotify.com/album/0ii8CYwGpHWZOyedXhUuML"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 179604,
-      "name": "Como Quiera Sigo Vivo",
-      "url": "https://open.spotify.com/track/4J6eF2qMnUFg0fgunRFBcC"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Si Te Estoy Rogando",
         "url": "https://open.spotify.com/album/1OMaLDuQXha2jclqIjaXpc"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 247906,
       "name": "Si Te Estoy Rogando",
       "url": "https://open.spotify.com/track/5VcqezOXswsrukgQWbGCyF"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Como Quiera Sigo Vivo",
+        "url": "https://open.spotify.com/album/0ii8CYwGpHWZOyedXhUuML"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 179604,
+      "name": "Como Quiera Sigo Vivo",
+      "url": "https://open.spotify.com/track/4J6eF2qMnUFg0fgunRFBcC"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Desde El Estudio Andaluz Music",
-        "url": "https://open.spotify.com/album/2Apw3yxOCr55zyWDJB3PGs"
-      },
-      "artists": [
-        {
-          "name": "Los De La Noria",
-          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
-        }
-      ],
-      "duration_ms": 194040,
-      "name": "Y Qu\u00e9 Les Vamos A Decir - Desde El Estudio Andaluz Music",
-      "url": "https://open.spotify.com/track/2v7W1uaUgBES0FvNkCkCqf"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Siendo Franco",
         "url": "https://open.spotify.com/album/08FstJ62XKEuL012P8jI6t"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 210573,
       "name": "D\u00edgale",
       "url": "https://open.spotify.com/track/1V2U6e2YEFRGPBhIErpUPp"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Desde El Estudio Andaluz Music",
+        "url": "https://open.spotify.com/album/2Apw3yxOCr55zyWDJB3PGs"
+      },
+      "artists": [
+        {
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "Y Qu\u00e9 Les Vamos A Decir - Desde El Estudio Andaluz Music",
+      "url": "https://open.spotify.com/track/2v7W1uaUgBES0FvNkCkCqf"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Sigo De Pie",
-        "url": "https://open.spotify.com/album/23FhyIwGbJXIkPyB8xgQzB"
-      },
-      "artists": [
-        {
-          "name": "Banda Legal",
-          "url": "https://open.spotify.com/artist/6qzADkcD6NEhqaYRVfC7Sj"
-        }
-      ],
-      "duration_ms": 195223,
-      "name": "Y Si Es Posible",
-      "url": "https://open.spotify.com/track/5QKBZrSlpwzmLVeec2fdqD"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Gallo Fino",
         "url": "https://open.spotify.com/album/2IGNjAidWYUPG0w2P6G91c"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "El Quemado",
-        "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
+        "name": "Sigo De Pie",
+        "url": "https://open.spotify.com/album/23FhyIwGbJXIkPyB8xgQzB"
       },
       "artists": [
         {
-          "name": "Beto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl"
+          "name": "Banda Legal",
+          "url": "https://open.spotify.com/artist/6qzADkcD6NEhqaYRVfC7Sj"
         }
       ],
-      "duration_ms": 176785,
-      "name": "El Dedo En La Boca",
-      "url": "https://open.spotify.com/track/70tZhGsXsfIeJo6vz62Szx"
+      "duration_ms": 195223,
+      "name": "Y Si Es Posible",
+      "url": "https://open.spotify.com/track/5QKBZrSlpwzmLVeec2fdqD"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1263,6 +1247,22 @@
       "duration_ms": 274800,
       "name": "Los Narcoplaticantes",
       "url": "https://open.spotify.com/track/7K1DHCLtIfAnm07wxVnNOI"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "El Quemado",
+        "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
+      },
+      "artists": [
+        {
+          "name": "Beto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl"
+        }
+      ],
+      "duration_ms": 176785,
+      "name": "El Dedo En La Boca",
+      "url": "https://open.spotify.com/track/70tZhGsXsfIeJo6vz62Szx"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "El Quemado",
-        "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
+        "name": "Estoy Listo",
+        "url": "https://open.spotify.com/album/5l0ZVSptrcwNV1AkssAUd7"
       },
       "artists": [
         {
-          "name": "Beto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl"
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
         }
       ],
-      "duration_ms": 240384,
-      "name": "El Amor De Antes",
-      "url": "https://open.spotify.com/track/4tYTSyIIrAnf9fTO6MVsbR"
+      "duration_ms": 189633,
+      "name": "Estoy Listo",
+      "url": "https://open.spotify.com/track/22AOx5ARj7PtFvYGG3OquK"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1343,22 +1343,6 @@
       "duration_ms": 164053,
       "name": "Por Si Te Interesa",
       "url": "https://open.spotify.com/track/6ny9xzVbdqDut4TPjyXnKB"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Estoy Listo",
-        "url": "https://open.spotify.com/album/5l0ZVSptrcwNV1AkssAUd7"
-      },
-      "artists": [
-        {
-          "name": "Banda Punto Medio",
-          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
-        }
-      ],
-      "duration_ms": 189633,
-      "name": "Estoy Listo",
-      "url": "https://open.spotify.com/track/22AOx5ARj7PtFvYGG3OquK"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1395,6 +1379,22 @@
       "duration_ms": 203560,
       "name": "Beso en la mejilla",
       "url": "https://open.spotify.com/track/0EPYj5gONHG914ZIeWQ4Zm"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "El Quemado",
+        "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
+      },
+      "artists": [
+        {
+          "name": "Beto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl"
+        }
+      ],
+      "duration_ms": 240384,
+      "name": "El Amor De Antes",
+      "url": "https://open.spotify.com/track/4tYTSyIIrAnf9fTO6MVsbR"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1508,9 +1508,9 @@
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 213466,
-      "name": "La Tatema",
-      "url": "https://open.spotify.com/track/3ovi8ac2bNxvKe3EnZjOiW"
+      "duration_ms": 126880,
+      "name": "Las Ultras",
+      "url": "https://open.spotify.com/track/32nbIrhBqKTuZr4hFnlDbU"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1524,9 +1524,9 @@
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 126880,
-      "name": "Las Ultras",
-      "url": "https://open.spotify.com/track/32nbIrhBqKTuZr4hFnlDbU"
+      "duration_ms": 213466,
+      "name": "La Tatema",
+      "url": "https://open.spotify.com/track/3ovi8ac2bNxvKe3EnZjOiW"
     },
     {
       "added_at": "2022-05-25 16:50:02",

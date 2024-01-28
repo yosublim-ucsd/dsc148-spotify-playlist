@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-289 songs - 14 hr 55 min
+290 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Clifton 4th](https://open.spotify.com/track/6Lw8lTHizNmiOwwg0xI9qh) | [Markus Gardeweg](https://open.spotify.com/artist/61Z2VOSs2wa7II0ex4jcEu) | [Clifton 4th](https://open.spotify.com/album/3VJ5jQ3WVcs9Lf6PvzGBYz) | 2:27 | 2023-06-23 | 2023-07-14 |
 | [Closer To You](https://open.spotify.com/track/09CanZmO6paS3VIPtoVJsh) | [Lucas Nord](https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd) | [Closer To You](https://open.spotify.com/album/7406FZf3JxgLG19sskEfsG) | 2:46 | 2022-08-19 | 2023-06-17 |
 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-01-27 | 2023-03-20 |
+| [Clouds](https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Levi Don't Do It](https://open.spotify.com/album/3hXx9qkxsHdQ1oyeqOvUAJ) | 2:38 | 2023-12-22 |  |
 | [Clouds](https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR) | 2:38 | 2023-01-27 | 2024-01-22 |
 | [Clouds](https://open.spotify.com/track/5UXlDFlgxnEKSgCnMQX9XM) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2TiAbGza4XIRoIovXNCrXM) | 2:38 | 2023-01-24 | 2023-02-11 |
 | [Colourblind](https://open.spotify.com/track/08AK8kZVQIt5XRjgbbW4c3) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Colourblind](https://open.spotify.com/album/2nX6yifTLWANuDNVK8VJ2P) | 2:38 | 2021-10-29 | 2022-06-14 |
@@ -107,7 +108,7 @@
 | [Heaven Is a Place on Earth](https://open.spotify.com/track/3m6vIFTjiOc6pZgTgdQpuH) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [Heaven Is a Place on Earth](https://open.spotify.com/album/5mVMcDiv3to6jduunb9OTM) | 2:40 | 2021-10-29 | 2022-07-29 |
 | [Heaven Is a Place on Earth](https://open.spotify.com/track/7HEhUhF8jcJVqTOGR6BNOQ) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [Heaven Is a Place on Earth](https://open.spotify.com/album/6suRrxlM7PfRhxcHiWHUIv) | 2:40 | 2022-07-08 | 2023-01-25 |
 | [Here Comes the Sun](https://open.spotify.com/track/5BAgpDvIFoatAbV9Zcxaw3) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Here Comes the Sun](https://open.spotify.com/album/0cvdkumCKsNU3TCk4qxswm) | 2:51 | 2021-10-29 | 2022-11-14 |
-| [hey now](https://open.spotify.com/track/4hvBK1k3eE2ACRUQKjkork) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM), [cloudseven](https://open.spotify.com/artist/127ajarXOJFUfRFivWi49v), [MELINA](https://open.spotify.com/artist/6B0qkeU4m0NgmVbHdRZpSt) | [hey now](https://open.spotify.com/album/16cK2WXAYWUvEmpvyDUKgI) | 2:11 | 2023-09-08 |  |
+| [hey now](https://open.spotify.com/track/4hvBK1k3eE2ACRUQKjkork) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM), [cloudseven](https://open.spotify.com/artist/127ajarXOJFUfRFivWi49v), [MELINA](https://open.spotify.com/artist/6B0qkeU4m0NgmVbHdRZpSt) | [hey now](https://open.spotify.com/album/16cK2WXAYWUvEmpvyDUKgI) | 2:11 | 2023-09-08 | 2024-01-28 |
 | [Hey There Delilah](https://open.spotify.com/track/791KAnfU7LweoRARjI5mTd) | [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [Hey There Delilah](https://open.spotify.com/album/4vlml2SlfKGKGzg6b8LOu0) | 3:02 | 2021-10-29 | 2022-04-20 |
 | [High](https://open.spotify.com/track/3bQ16DLr1K3mZS1j49Czql) | [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [High](https://open.spotify.com/album/2rIZbO1DFyfLtEVkoYPN2x) | 3:02 | 2021-10-29 | 2022-04-21 |
 | [High in a Paradise](https://open.spotify.com/track/4qLtFVZCwFxLJOv63O4FgA) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [High in a Paradise](https://open.spotify.com/album/2sQuXWAR6craEdwLw17LO5) | 2:24 | 2021-10-29 | 2022-03-12 |

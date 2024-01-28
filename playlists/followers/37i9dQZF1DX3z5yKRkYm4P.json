@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 93300,
+  "2024-01-28": 93297,
   "date_first_scraped": "2022-10-27",
   "description": "Los muertos al caj\u00f3n y los vivos al fiest\u00f3n.",
   "name": "Halloween Fiesta",
@@ -1419,10 +1419,28 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 106666,
       "name": "Stranger Things (Versi\u00f3n Cumbia)",
       "url": "https://open.spotify.com/track/2YoUCthmk1GQOEMJOj0UMH"
+    },
+    {
+      "album": {
+        "name": "Stranger Things (Versi\u00f3n Cumbia)",
+        "url": "https://open.spotify.com/album/3CRvTWlhtUhLGgFgkRk1D3"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Drive",
+          "url": "https://open.spotify.com/artist/1P3VBHhKgNg31uzh0pINyc"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "Stranger Things (Versi\u00f3n Cumbia)",
+      "url": "https://open.spotify.com/track/44xuds12NIakj4S9jcGKFZ"
     },
     {
       "album": {

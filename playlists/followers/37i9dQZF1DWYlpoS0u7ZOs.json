@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 8446,
+  "2024-01-28": 8452,
   "date_first_scraped": "2023-01-15",
-  "description": "The new wave of rock from the UK & Ireland. Cover: UNIVERSITY",
+  "description": "The new wave of rock from the UK & Ireland. Cover: SPIDER",
   "name": "shockwave",
   "tracks": [
     {
@@ -161,7 +161,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 157766,
       "name": "Adore Adore Adore",
       "url": "https://open.spotify.com/track/4UgkFdXpJD0fhw06BMk0bz"
@@ -363,6 +363,24 @@
       "duration_ms": 214461,
       "name": "Baby Chaos",
       "url": "https://open.spotify.com/track/218sf8KIzzfPSbdjpYC9X2"
+    },
+    {
+      "album": {
+        "name": "Babyface",
+        "url": "https://open.spotify.com/album/4L9qo6vo2gLQZIwmNNSiG2"
+      },
+      "artists": [
+        {
+          "name": "Artio",
+          "url": "https://open.spotify.com/artist/0l2QxnR8KJQT4m2Ax8rhh5"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206023,
+      "name": "Babyface",
+      "url": "https://open.spotify.com/track/3S7Go0zMpO1WQpx6oZQd2y"
     },
     {
       "album": {
@@ -748,6 +766,24 @@
     },
     {
       "album": {
+        "name": "Corruption's Last Victim",
+        "url": "https://open.spotify.com/album/346o4Y0pk4iBot8NayGjEI"
+      },
+      "artists": [
+        {
+          "name": "Rex Arcum",
+          "url": "https://open.spotify.com/artist/2aESSO1rH5zYGmkTqvLQfI"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Corruption's Last Victim",
+      "url": "https://open.spotify.com/track/1KNRM5ur33sm3wsrZc3GDY"
+    },
+    {
+      "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/2Qmk17AdzsXXEcVBP42lW2"
       },
@@ -759,7 +795,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 147535,
       "name": "Country Life",
       "url": "https://open.spotify.com/track/5Oufn6baCCVbDofy4ScOFL"
@@ -856,6 +892,24 @@
     },
     {
       "album": {
+        "name": "daisy chains",
+        "url": "https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh"
+      },
+      "artists": [
+        {
+          "name": "SPIDER",
+          "url": "https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165657,
+      "name": "daisy chains",
+      "url": "https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf"
+    },
+    {
+      "album": {
         "name": "Sick Moon",
         "url": "https://open.spotify.com/album/0dOCttwqrzhoBngWnuwJCd"
       },
@@ -925,6 +979,24 @@
       "duration_ms": 223812,
       "name": "Dead Poets Society",
       "url": "https://open.spotify.com/track/5pEkbTefFUglGrPafVSfID"
+    },
+    {
+      "album": {
+        "name": "Default Parody",
+        "url": "https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8"
+      },
+      "artists": [
+        {
+          "name": "Drahla",
+          "url": "https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207760,
+      "name": "Default Parody",
+      "url": "https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s"
     },
     {
       "album": {
@@ -1051,6 +1123,24 @@
       "duration_ms": 102193,
       "name": "Diva",
       "url": "https://open.spotify.com/track/1yxDo8aLgWF33rQNE7zlqH"
+    },
+    {
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/6NrMHKEEj6bSmrj5QmLEz4"
+      },
+      "artists": [
+        {
+          "name": "VENUS GRRRLS",
+          "url": "https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157762,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/0bFjFLAlwvmtmNIU0Hn8kI"
     },
     {
       "album": {
@@ -1325,7 +1415,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 202175,
       "name": "Feel for Me",
       "url": "https://open.spotify.com/track/1RLPKYPsBtuOnrSAXAILae"
@@ -1715,6 +1805,42 @@
       "duration_ms": 198863,
       "name": "HALLELUJAH KID",
       "url": "https://open.spotify.com/track/0YMldYHUAVZgdK1JJCRDnC"
+    },
+    {
+      "album": {
+        "name": "Happy on Mars",
+        "url": "https://open.spotify.com/album/1y5S6U7FaBA73iGx1EdQQO"
+      },
+      "artists": [
+        {
+          "name": "Carpark",
+          "url": "https://open.spotify.com/artist/6wNKTp1adxnPYP5L3Vja3b"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215554,
+      "name": "Happy on Mars",
+      "url": "https://open.spotify.com/track/5jgrg6367ewS0BgsP6eIgx"
+    },
+    {
+      "album": {
+        "name": "HARRY'S TUNE",
+        "url": "https://open.spotify.com/album/5ID48hAUBB7gtzUAk3SxUU"
+      },
+      "artists": [
+        {
+          "name": "GANS",
+          "url": "https://open.spotify.com/artist/05PzzXnIetN4rWDlYv23SK"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207727,
+      "name": "HARRY'S TUNE",
+      "url": "https://open.spotify.com/track/6qQ2DCyrbDQqDiQ96O5PGz"
     },
     {
       "album": {
@@ -2132,6 +2258,24 @@
     },
     {
       "album": {
+        "name": "Impossible + Strange",
+        "url": "https://open.spotify.com/album/7t0dcCAHAITzLv3BthyXdh"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Esau",
+          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178305,
+      "name": "Impossible + Strange",
+      "url": "https://open.spotify.com/track/3bYpAjZAzD1GWc9ucXKI92"
+    },
+    {
+      "album": {
         "name": "in my ways",
         "url": "https://open.spotify.com/album/4jHrhCm1rbkI6xNMTCkFMU"
       },
@@ -2295,6 +2439,24 @@
       "duration_ms": 200160,
       "name": "Karaoke",
       "url": "https://open.spotify.com/track/7keNZhvY8vbs3AyqDewmjj"
+    },
+    {
+      "album": {
+        "name": "Kids Wanna Dance",
+        "url": "https://open.spotify.com/album/4yh3NxpgLVxDac62H6sGDS"
+      },
+      "artists": [
+        {
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204480,
+      "name": "Kids Wanna Dance",
+      "url": "https://open.spotify.com/track/3elBHbeIPKuWTuflsA8tFw"
     },
     {
       "album": {
@@ -2813,7 +2975,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 125937,
       "name": "Marching Powder",
       "url": "https://open.spotify.com/track/3dZV4HZQwkw8ktt4SsjBJW"
@@ -3472,6 +3634,24 @@
     },
     {
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/4JrQyuj1xzJFaOSN1ajQ0a"
+      },
+      "artists": [
+        {
+          "name": "TV People",
+          "url": "https://open.spotify.com/artist/3ksd3kWCTBOz1qBahqPhmV"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172135,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/0vv43xb2Ih2KZuZc61m1aJ"
+    },
+    {
+      "album": {
         "name": "RECKLESS",
         "url": "https://open.spotify.com/album/1tKiELuITXrxUVWA1bUzII"
       },
@@ -3487,6 +3667,24 @@
       "duration_ms": 175234,
       "name": "RECKLESS",
       "url": "https://open.spotify.com/track/2iNb7p7WLZ4fJHZd3kbWst"
+    },
+    {
+      "album": {
+        "name": "Red/White",
+        "url": "https://open.spotify.com/album/3G9mMEK9EdPEEW1xJcpH0S"
+      },
+      "artists": [
+        {
+          "name": "Talk Show",
+          "url": "https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141960,
+      "name": "Red/White",
+      "url": "https://open.spotify.com/track/0QeHpEja4lZWWkIt7amenL"
     },
     {
       "album": {
@@ -3699,7 +3897,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 230111,
       "name": "Russian Roulette",
       "url": "https://open.spotify.com/track/7KIrDWJzJGKx1xlK0tOqiU"
@@ -4229,6 +4427,24 @@
       "duration_ms": 133567,
       "name": "Sweet One",
       "url": "https://open.spotify.com/track/2keqxI0IrJUrdBbXpswQpI"
+    },
+    {
+      "album": {
+        "name": "Swing and Sway",
+        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178253,
+      "name": "Swing and Sway",
+      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
     },
     {
       "album": {
@@ -4805,7 +5021,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 206564,
       "name": "What You Mean",
       "url": "https://open.spotify.com/track/2qHMGWgGLyrfKhjRriwAus"
@@ -5021,7 +5237,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 207968,
       "name": "You Don't Exist",
       "url": "https://open.spotify.com/track/5abW9yOsPu6zM5KSRseT9p"

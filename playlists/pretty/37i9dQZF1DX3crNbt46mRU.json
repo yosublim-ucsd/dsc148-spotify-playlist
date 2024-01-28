@@ -1,12 +1,12 @@
 {
   "description": "This week's top new releases. Cover: Justin Timberlake",
-  "num_followers": 39120,
+  "num_followers": 39125,
   "original_name": "New Music Friday Switzerland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTE3NTBlMzc1ZjAwYmRjZjc1MTAzZDBmYjRkMmVkNzg4ZTYzN2Vk",
+  "snapshot_id": "MCw0ZGNjYmU2MWNhNjhkZDFjODcyZTkwN2VhNjE0OTJlYzQwYWYyNjBj",
   "tracks": [
     {
       "added_at": "2024-01-26 10:14:11",
@@ -27,8 +27,8 @@
     {
       "added_at": "2024-01-26 10:14:11",
       "album": {
-        "name": "LOCO",
-        "url": "https://open.spotify.com/album/5ym9a0EgZNubqWMQXI9cha"
+        "name": "LES DERNI\u00c8RES VOLONT\u00c9S DE MOZART (SYMPHONY)",
+        "url": "https://open.spotify.com/album/3kODAAfimujT9QY8PaNgDn"
       },
       "artists": [
         {
@@ -42,7 +42,7 @@
       ],
       "duration_ms": 161311,
       "name": "LOCO",
-      "url": "https://open.spotify.com/track/6MsXDsDuTgFsq9QhpmtAU6"
+      "url": "https://open.spotify.com/track/1ICsCnsH06jI39jjLQmnxY"
     },
     {
       "added_at": "2024-01-26 10:14:11",
@@ -1318,6 +1318,10 @@
         {
           "name": "Maeckes",
           "url": "https://open.spotify.com/artist/5nVbdvU60t7C0JBruxsS26"
+        },
+        {
+          "name": "Bayuk",
+          "url": "https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw"
         }
       ],
       "duration_ms": 131992,

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 327717,
+  "num_followers": 327674,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGVlODg1ZDIxMDQ4ZjdlNTkxNmJkMzEwOThjNGY0MjFiYjhkYzgx",
+  "snapshot_id": "MCw5YjM2Y2QzOGNhZmI3OWU1OGMzZWIxODI2NDc0ZDk0NjZlMWVhMjY3",
   "tracks": [
     {
       "added_at": "2024-01-25 16:48:43",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-01-25 16:48:43",
       "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        }
+      ],
+      "duration_ms": 242637,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
+    },
+    {
+      "added_at": "2024-01-25 16:48:43",
+      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 248764,
       "name": "fuego (feat. Tyler, The Creator)",
       "url": "https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8"
-    },
-    {
-      "added_at": "2024-01-25 16:48:43",
-      "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
-      },
-      "artists": [
-        {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
-        }
-      ],
-      "duration_ms": 242637,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
     },
     {
       "added_at": "2024-01-25 16:48:43",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-01-25 16:48:43",
       "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/637SUNBNXsYqt6bh7rolJY"
+      },
+      "artists": [
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
+        }
+      ],
+      "duration_ms": 196441,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/2h6xtPKtsmS8w3N2Ex9qrR"
+    },
+    {
+      "added_at": "2024-01-25 16:48:43",
+      "album": {
         "name": "Believe (feat. Fredwave & Jeshi)",
         "url": "https://open.spotify.com/album/0u1IdlsVv5D33d3aPKEZrL"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 208439,
       "name": "Believe (feat. Fredwave & Jeshi)",
       "url": "https://open.spotify.com/track/2DLxohwNmcbWktWGVG0dN7"
-    },
-    {
-      "added_at": "2024-01-25 16:48:43",
-      "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/637SUNBNXsYqt6bh7rolJY"
-      },
-      "artists": [
-        {
-          "name": "AK",
-          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
-        }
-      ],
-      "duration_ms": 196441,
-      "name": "Deep Blue",
-      "url": "https://open.spotify.com/track/2h6xtPKtsmS8w3N2Ex9qrR"
     },
     {
       "added_at": "2024-01-25 16:48:43",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-01-25 16:48:43",
       "album": {
+        "name": "Beato Classico",
+        "url": "https://open.spotify.com/album/0dZhnLbdVByf9r4vAdMALB"
+      },
+      "artists": [
+        {
+          "name": "J Lloyd",
+          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
+        }
+      ],
+      "duration_ms": 208959,
+      "name": "Beato Classico",
+      "url": "https://open.spotify.com/track/7I3PUsLHsP6RCp44lcOvI9"
+    },
+    {
+      "added_at": "2024-01-25 16:48:43",
+      "album": {
         "name": "Big Bad Mood (feat. Miraa May)",
         "url": "https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ"
       },
@@ -1279,18 +1295,22 @@
     {
       "added_at": "2024-01-25 16:48:43",
       "album": {
-        "name": "Beato Classico",
-        "url": "https://open.spotify.com/album/0dZhnLbdVByf9r4vAdMALB"
+        "name": "Girls FM",
+        "url": "https://open.spotify.com/album/7clnPpJ3KkLh5GWwzNNWF8"
       },
       "artists": [
         {
-          "name": "J Lloyd",
-          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Olivia Louise",
+          "url": "https://open.spotify.com/artist/6E1v7RmEYvZIvhauy9v0sd"
         }
       ],
-      "duration_ms": 208959,
-      "name": "Beato Classico",
-      "url": "https://open.spotify.com/track/7I3PUsLHsP6RCp44lcOvI9"
+      "duration_ms": 194103,
+      "name": "I Don't Wanna Lose You - Edit",
+      "url": "https://open.spotify.com/track/182XaJsxNfIeVXPAvBxHPp"
     },
     {
       "added_at": "2024-01-25 16:48:43",
@@ -1327,26 +1347,6 @@
       "duration_ms": 193000,
       "name": "FVR105 - p-rallel Remix",
       "url": "https://open.spotify.com/track/5F4jNQAtcorOBctGgpcjNh"
-    },
-    {
-      "added_at": "2024-01-25 16:48:43",
-      "album": {
-        "name": "Girls FM",
-        "url": "https://open.spotify.com/album/7clnPpJ3KkLh5GWwzNNWF8"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        },
-        {
-          "name": "Olivia Louise",
-          "url": "https://open.spotify.com/artist/6E1v7RmEYvZIvhauy9v0sd"
-        }
-      ],
-      "duration_ms": 194103,
-      "name": "I Don't Wanna Lose You - Edit",
-      "url": "https://open.spotify.com/track/182XaJsxNfIeVXPAvBxHPp"
     }
   ],
   "unique_name": "Soultronic",

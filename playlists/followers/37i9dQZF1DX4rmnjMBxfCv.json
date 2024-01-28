@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 53765,
+  "2024-01-28": 53751,
   "date_first_scraped": "2022-05-13",
   "description": "The best dance and electronic songs in the MENA region. Cover: Zerb, Sofiya Nzau",
   "name": "mint \u0646\u0639\u0646\u0639",
@@ -335,6 +335,32 @@
       "duration_ms": 194237,
       "name": "Alf Leila We Leila Remix",
       "url": "https://open.spotify.com/track/01rqnaEjqaP6luRtxdcaz9"
+    },
+    {
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178935,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe"
     },
     {
       "album": {
@@ -1003,7 +1029,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 192786,
       "name": "Dana Dana - Radio Edit",
       "url": "https://open.spotify.com/track/2CE7yTFslLMkI0Oqf1vq9u"
@@ -1882,6 +1908,32 @@
     },
     {
       "album": {
+        "name": "Kamili",
+        "url": "https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Kamili",
+      "url": "https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx"
+    },
+    {
+      "album": {
         "name": "Khidni Habibi",
         "url": "https://open.spotify.com/album/5MSHUA4LGMP1vzGUUjfT22"
       },
@@ -2551,6 +2603,28 @@
       "duration_ms": 149760,
       "name": "Motive",
       "url": "https://open.spotify.com/track/4KbfDwkYomFfWCnN80rBcL"
+    },
+    {
+      "album": {
+        "name": "Moulay Tahar",
+        "url": "https://open.spotify.com/album/25UHbTJdUUIpcvzV5u59Yq"
+      },
+      "artists": [
+        {
+          "name": "Enam",
+          "url": "https://open.spotify.com/artist/2y5SNzltIxAAbmukwFnsfh"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218963,
+      "name": "Moulay Tahar",
+      "url": "https://open.spotify.com/track/68QMeHi9VJg5vB6ceLPJxy"
     },
     {
       "album": {
@@ -3513,7 +3587,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 184320,
       "name": "Vocation",
       "url": "https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd"
@@ -3615,7 +3689,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 377031,
       "name": "Wala Ala Balo Edit",
       "url": "https://open.spotify.com/track/3YV7ImEdD2moA9ZALYFbu1"

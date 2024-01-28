@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 146632,
+  "2024-01-28": 146640,
   "date_first_scraped": "2022-02-20",
-  "description": "new gems by artists carving their own lane. cover: METTE, Sam Gellaitry",
+  "description": "new gems by artists carving their own lane. cover: Moonshine",
   "name": "outliers",
   "tracks": [
     {
@@ -2203,7 +2203,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 164102,
       "name": "Blue Hundreds",
       "url": "https://open.spotify.com/track/4DHupq2NA0tvJXNOmwHZJi"
@@ -3377,7 +3377,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 182189,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp"
@@ -3585,6 +3585,28 @@
       "duration_ms": 224874,
       "name": "Come For Me",
       "url": "https://open.spotify.com/track/1XUdEmAQ1AaFEeocgUEYmU"
+    },
+    {
+      "album": {
+        "name": "We Cut Keys 2",
+        "url": "https://open.spotify.com/album/4QrLni4FRgGo9SgAUoHDso"
+      },
+      "artists": [
+        {
+          "name": "Blinky Bill",
+          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Compare",
+      "url": "https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ"
     },
     {
       "album": {
@@ -10055,7 +10077,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 211500,
       "name": "La Gente Se Levanta",
       "url": "https://open.spotify.com/track/1wAdnXc6Eas8BKww2CSKTB"
@@ -13364,6 +13386,28 @@
     },
     {
       "album": {
+        "name": "One Night/All Night",
+        "url": "https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276066,
+      "name": "One Night/All Night",
+      "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm"
+    },
+    {
+      "album": {
         "name": "One Touch",
         "url": "https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE"
       },
@@ -13877,6 +13921,28 @@
       "duration_ms": 166151,
       "name": "PARANOIA",
       "url": "https://open.spotify.com/track/4O6DdPUG5XiOvJAJNA0538"
+    },
+    {
+      "album": {
+        "name": "Pas tr\u00e8s perspicace",
+        "url": "https://open.spotify.com/album/1gw4tw7bxZnVxGlICTOsCi"
+      },
+      "artists": [
+        {
+          "name": "Xela Edna",
+          "url": "https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS"
+        },
+        {
+          "name": "Eius Echo",
+          "url": "https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154267,
+      "name": "Pas tr\u00e8s perspicace",
+      "url": "https://open.spotify.com/track/2KfzBQtWlCgDsMiHP4twzK"
     },
     {
       "album": {
@@ -15294,6 +15360,40 @@
     },
     {
       "album": {
+        "name": "Sakila (feat. Mwamba & F\u00e9d\u00e9ration Internationale du Bruit)",
+        "url": "https://open.spotify.com/album/3Rt6Hr5epP4lKXhLI802l6"
+      },
+      "artists": [
+        {
+          "name": "Moonshine",
+          "url": "https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX"
+        },
+        {
+          "name": "Spilulu",
+          "url": "https://open.spotify.com/artist/0JXiPfPtSuON62oSTp4w7j"
+        },
+        {
+          "name": "Gafacci",
+          "url": "https://open.spotify.com/artist/72qc1S2CYJyPc1vpTBDJfG"
+        },
+        {
+          "name": "Mwamba",
+          "url": "https://open.spotify.com/artist/5VpE9q71Ar80HR6OpqSpSJ"
+        },
+        {
+          "name": "F\u00e9d\u00e9ration Internationale du Bruit",
+          "url": "https://open.spotify.com/artist/66hejf9UqC4CcRtxOrA3XV"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201389,
+      "name": "Sakila (feat. Mwamba & F\u00e9d\u00e9ration Internationale du Bruit)",
+      "url": "https://open.spotify.com/track/7gV8ucFxnU0VR37gDg9MdT"
+    },
+    {
+      "album": {
         "name": "San Junipero (Personal Heaven)",
         "url": "https://open.spotify.com/album/4VeLLEb0qHif2xQmV388Gf"
       },
@@ -16121,7 +16221,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 244904,
       "name": "Sikoyo (feat. Branko & F\u00e9d\u00e9ration Internationale du Bruit)",
       "url": "https://open.spotify.com/track/6nqe6iXrpAntPHHHNsK7nR"
@@ -17097,7 +17197,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 177731,
       "name": "Stay Blessed",
       "url": "https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb"
@@ -18026,6 +18126,28 @@
     },
     {
       "album": {
+        "name": "tell me",
+        "url": "https://open.spotify.com/album/0JScyUkeeX2YaQXUQT9e09"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163532,
+      "name": "tell me",
+      "url": "https://open.spotify.com/track/29hQU0F1P9mxjAallGIZ4J"
+    },
+    {
+      "album": {
         "name": "Tellin' U (Pat Lok Remix)",
         "url": "https://open.spotify.com/album/3NSIKCS2SCnWp2lCUhlDlu"
       },
@@ -18045,6 +18167,24 @@
       "duration_ms": 207130,
       "name": "Tellin' U (Pat Lok Remix)",
       "url": "https://open.spotify.com/track/7n7STJEnMARv29CtboEV3A"
+    },
+    {
+      "album": {
+        "name": "TEMPTATIONS",
+        "url": "https://open.spotify.com/album/46xtqR37R8Ge71o0tQ4peS"
+      },
+      "artists": [
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111047,
+      "name": "TEMPTATIONS",
+      "url": "https://open.spotify.com/track/5Dm92u2aCnl45seE6MCUwU"
     },
     {
       "album": {
@@ -18797,7 +18937,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 224839,
       "name": "Too Close",
       "url": "https://open.spotify.com/track/0FlYCmQM5q3TcdvwRT53Tt"

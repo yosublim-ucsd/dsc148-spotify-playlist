@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : KSHMR, Dabzee, Vedan
 
-134 songs - 7 hr 11 min
+135 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Koode Thullu](https://open.spotify.com/track/2GbsYQkwNsUufkGz5HK4Yz) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Jeffin Jestin](https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC) | [Koode Thullu](https://open.spotify.com/album/1AVtNIwxSSo0pJrPwFuJq5) | 3:46 | 2023-10-09 |  |
 | [Kotha Raja](https://open.spotify.com/track/10Ve2mQ4hTWtgqR6MbmJyf) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj), [Resmi Sateesh](https://open.spotify.com/artist/3Fj6TOcW3jdLmiHGaXLMAX) | [King of Kotha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44fj4q4kFinawqSkHAebkZ) | 4:33 | 2023-08-24 |  |
 | [KozhiPunk](https://open.spotify.com/track/5HKtzrNTEKpNM8H6p1LvV1) | [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [Sekhar Menon](https://open.spotify.com/artist/1cpwQb4p8o8eFSWCfzGlYw) | [KozhiPunk](https://open.spotify.com/album/7KYW2WsHpFRD5pk0rmbuHQ) | 4:14 | 2022-10-25 | 2023-09-19 |
+| [Kuthanthram \- Extended](https://open.spotify.com/track/4bWdEggTeY1184KQOYUeFS) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Manjummel Boys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HJZ57XsMHMgYsa7PpuZML) | 5:01 | 2024-01-27 |  |
 | [KYA](https://open.spotify.com/track/5GtOlPfo6yKyiASYo9YQrc) | [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe) | [IRUTHALA PAKSHI](https://open.spotify.com/album/7s0xY54MjcJdw1kBrv9e4z) | 2:03 | 2023-07-23 |  |
 | [La Vida](https://open.spotify.com/track/6oScY8qe1DGd6PlrCJ7e44) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [KARAM](https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1) | 2:21 | 2023-11-07 |  |
 | [Lokam Mayakathilo](https://open.spotify.com/track/22QA31omSDg4TvqgxaJBPO) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Blesslee](https://open.spotify.com/artist/0Gl81Y0B87WITIgM34VLGZ), [Achayan](https://open.spotify.com/artist/46eo6xKxaZmYnnKNwpyB4C) | [Lokam Mayakathilo](https://open.spotify.com/album/43xEqVTSaLK0Yn1TrffeXS) | 4:36 | 2022-06-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 
 > This is the official partnership playlist for JTBC 'Sing Again3'\. \(JTBC  '싱어게인3'의 공식 파트너십 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,057 likes - 255 songs - 15 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,084 likes - 255 songs - 15 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 | 29 | [Feeling Of Alone](https://open.spotify.com/track/2MC1hLL0QvVOHeNfGpeUyy) | [Seo Yun Hyuk](https://open.spotify.com/artist/5IN9YnYlxEqXYwevTkqFYO), [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [SingAgain3 \- Battle of the Unknown, Ep.5 \(From the JTBC TV Show\)](https://open.spotify.com/album/0TSqPUJNmLFgP2EN2lnJXl) | 3:13 |
 | 30 | [When I See You](https://open.spotify.com/track/11HP8p6VRYykaCix1YQc90) | [Tejong](https://open.spotify.com/artist/3XWBLSm4ZehGW3NIcCCfZF), [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [SingAgain3 \- Battle of the Unknown, Ep.5 \(From the JTBC TV Show\)](https://open.spotify.com/album/0TSqPUJNmLFgP2EN2lnJXl) | 3:27 |
 | 31 | [Pass Away](https://open.spotify.com/track/4FwjE7DVeRnhVqCv6v9vZ0) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO), [Kang Sunghee](https://open.spotify.com/artist/3WK2AnFrSBFX5peMJr8c5o) | [SingAgain3 \- Battle of the Unknown, Ep.4 \(From the JTBC TV Show\)](https://open.spotify.com/album/3Ik8OkUcMs4Sw5kJR8K5Bo) | 3:15 |
-| 32 | [Speed](https://open.spotify.com/track/6wm28X64KjrldudintrxNN) | [Shin Hea Sol](https://open.spotify.com/artist/0FHHoVXGWBJRueuuCKe2ad), [Son Yeji](https://open.spotify.com/artist/1yMFdzZZDfKIkxwQb9OUDi) | [SingAgain3 \- Battle of the Unknown, Ep.4 \(From the JTBC TV Show\)](https://open.spotify.com/album/3Ik8OkUcMs4Sw5kJR8K5Bo) | 2:48 |
+| 32 | [Speed](https://open.spotify.com/track/6wm28X64KjrldudintrxNN) | [Shin Hea Sol](https://open.spotify.com/artist/0FHHoVXGWBJRueuuCKe2ad), [손예지](https://open.spotify.com/artist/5aNEtOd2W7WCBb0HtZ53B8) | [SingAgain3 \- Battle of the Unknown, Ep.4 \(From the JTBC TV Show\)](https://open.spotify.com/album/3Ik8OkUcMs4Sw5kJR8K5Bo) | 2:48 |
 | 33 | [The Girl in My Memories](https://open.spotify.com/track/0av5aTsPl9x5TJ2s2Arsyb) | [EJel](https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd), [leejean](https://open.spotify.com/artist/7xJMO6077W6z0oUvHeqH60) | [SingAgain3 \- Battle of the Unknown, Ep.4 \(From the JTBC TV Show\)](https://open.spotify.com/album/3Ik8OkUcMs4Sw5kJR8K5Bo) | 3:06 |
 | 34 | [Why So Lonely](https://open.spotify.com/track/3Ziptq5YRFfT3Oz0bJ5LYX) | [EJel](https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd) | [SingAgain3 \- Battle of the Unknown, Ep.4 \(From the JTBC TV Show\)](https://open.spotify.com/album/3Ik8OkUcMs4Sw5kJR8K5Bo) | 2:51 |
 | 35 | [Love Is Too Bitter](https://open.spotify.com/track/5DHJa0459LEGTkZwdkTiJm) | [Seo Yunhyeok](https://open.spotify.com/artist/7yhD8pTwYLejoNdhhiIGyz) | [SingAgain3 \- Battle of the Unknown, Ep.3 \(From the JTBC TV Show\)](https://open.spotify.com/album/3z00egfTZU6zIneRA1JTHE) | 2:49 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 | 45 | [When I am in Busan](https://open.spotify.com/track/7jaJhG7pA4pDtlFRIVJ3Mw) | [KIMMASTER](https://open.spotify.com/artist/6h9fJeptLM8s8xNicLfIGr) | [SingAgain3 \- Battle of the Unknown, Ep.1 \(From the JTBC TV Show\)](https://open.spotify.com/album/2DuwewP1VLETXDVeONTzqY) | 3:15 |
 | 46 | [Million Roses](https://open.spotify.com/track/04t2f5OrdnyfaKj0o7zzjk) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [SingAgain3 \- Battle of the Unknown, Ep.1 \(From the JTBC TV Show\)](https://open.spotify.com/album/2DuwewP1VLETXDVeONTzqY) | 2:32 |
 | 47 | [I'd Love To Love](https://open.spotify.com/track/7er36tvyywevvATjUzgOhP) | [CHOO SEUNG YOUP](https://open.spotify.com/artist/6Dz4K7hBAZzznE6L7mKln2) | [SingAgain3 \- Battle of the Unknown, Ep.1 \(From the JTBC TV Show\)](https://open.spotify.com/album/2DuwewP1VLETXDVeONTzqY) | 2:53 |
-| 48 | [The House You Live](https://open.spotify.com/track/7qpNRYj51LZfxiqNEfB2Th) | [Son Yeji](https://open.spotify.com/artist/1yMFdzZZDfKIkxwQb9OUDi) | [SingAgain3 \- Battle of the Unknown, Ep.1 \(From the JTBC TV Show\)](https://open.spotify.com/album/2DuwewP1VLETXDVeONTzqY) | 2:52 |
+| 48 | [The House You Live](https://open.spotify.com/track/7qpNRYj51LZfxiqNEfB2Th) | [손예지](https://open.spotify.com/artist/5aNEtOd2W7WCBb0HtZ53B8) | [SingAgain3 \- Battle of the Unknown, Ep.1 \(From the JTBC TV Show\)](https://open.spotify.com/album/2DuwewP1VLETXDVeONTzqY) | 2:52 |
 | 49 | [I Will Give You All](https://open.spotify.com/track/17g8XWmLZXLHC3UKFjYFsO) | [Ashatree](https://open.spotify.com/artist/1iFLqsWnASjUPBOD0sr8Up) | [SingAgain3 \- Battle of the Unknown, Ep.1 \(From the JTBC TV Show\)](https://open.spotify.com/album/2DuwewP1VLETXDVeONTzqY) | 2:48 |
 | 50 | [Side Road](https://open.spotify.com/track/6RB9wIYIUbk7DIhuP9VzT6) | [Shin Hea Sol](https://open.spotify.com/artist/0FHHoVXGWBJRueuuCKe2ad) | [SingAgain3 \- Battle of the Unknown, Ep.1 \(From the JTBC TV Show\)](https://open.spotify.com/album/2DuwewP1VLETXDVeONTzqY) | 2:58 |
 | 51 | [To Be Alone \- Live](https://open.spotify.com/track/3lOV4Fc7hIWq1SGpGS5iJq) | [Yun Seong](https://open.spotify.com/artist/3scLPJnii9AmTztP7cO5UM) | [Famous Singers \- Battle Again Pt.12](https://open.spotify.com/album/5AVGQY60u178wRbuh4GM8i) | 4:40 |
@@ -264,4 +264,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 | 254 | [Destiny](https://open.spotify.com/track/4SqdhxTHrKS9TjKBBKUsoS) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O), [Jeong Hongil](https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b) | [Famous Singers, Pt\. 10 \(From the "JTBC" TV SHOW\)](https://open.spotify.com/album/5kdVUtV2QAsG3SxOOrikc2) | 4:17 |
 | 255 | [Dear J](https://open.spotify.com/track/4tA1gAT9JNhCvH0bDZ7kZJ) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O), [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Famous Singers, Pt\. 10 \(From the "JTBC" TV SHOW\)](https://open.spotify.com/album/5kdVUtV2QAsG3SxOOrikc2) | 4:21 |
 
-Snapshot ID: `MCwyMWIyZjM4MjU2MDlhNjAwOWExMWNlZDZlYWM2NjVkY2I2ZmNlYzgw`
+Snapshot ID: `MCw5Njg5YThhYzI5YjIzMzgyNjZiMGZkM2E3ZjZiM2QyNzIyNzZmNzZi`

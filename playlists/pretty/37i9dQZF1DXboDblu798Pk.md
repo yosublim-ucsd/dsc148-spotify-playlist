@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 
 > Pop hits in the making! Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,702 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,493 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 | 79 | [unpredictable thinGs](https://open.spotify.com/track/3pDAsFoenMVsbPFEkdGuXR) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [GORE](https://open.spotify.com/album/18qf5tvWCzzhPauoKyJSTh) | 2:28 |
 | 80 | [BLEED](https://open.spotify.com/track/3CJrKExvAP6RCtUR8Cf99P) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BLEED](https://open.spotify.com/album/783jliO1kkc5vXTrxHqNKk) | 2:51 |
 
-Snapshot ID: `MCw3NWRlNWIwOThlOWE1N2U4NjJiMGFhNDU5MjllNjA5ZGNjNjM0YWZj`
+Snapshot ID: `MCw0YzM1N2NiZjI3ZjY5NWExZTJhMWViZWQ5OGJhMjBmNTBlZDI2NzA5`

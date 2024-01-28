@@ -4,7 +4,7 @@
 
 > Il n'y a pas d'âge pour aimer le rap et les musiques urbaines!
 
-51 songs - 3 hr 3 min
+52 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Amour toxic](https://open.spotify.com/track/70APCdHsWV5BEsacwjzXmd) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Poison Ou Antidote](https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k) | 3:38 | 2021-08-23 |  |
 | [Angela](https://open.spotify.com/track/6ab3CQvDlAVttThZucwGQ1) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Chaise pliante](https://open.spotify.com/album/07bBgskS3ghKJIWvwsgnqF) | 3:56 | 2021-08-23 |  |
 | [Bob Marley](https://open.spotify.com/track/2qXmVc811574AdIdDgayRP) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Gentleman 2.0](https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv) | 3:34 | 2021-08-23 |  |
-| [Bobo au cœur](https://open.spotify.com/track/2XlLHcTNLBkxqCdKasBrRM) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Poison Ou Antidote](https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k) | 3:41 | 2021-08-23 |  |
+| [Bobo au cœur](https://open.spotify.com/track/2XlLHcTNLBkxqCdKasBrRM) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Poison Ou Antidote](https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k) | 3:41 | 2021-08-23 | 2024-01-28 |
+| [Bobo au cœur](https://open.spotify.com/track/4ZJURpomulGIURxYSvO1Xd) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Poison Ou Antidote](https://open.spotify.com/album/7HQqRTeLUgnqxhIacnisWy) | 3:41 | 2021-08-23 |  |
 | [Chocolat \(feat\. Awa Imani\)](https://open.spotify.com/track/4fwtP5khM1iEoa6BP1QQsX) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Awa Imani](https://open.spotify.com/artist/25b5cIThNFVHmLF2DQ814i) | [Clandestino](https://open.spotify.com/album/6j0ZbLhJ0uyREyXoz0KtON) | 3:55 | 2021-08-23 |  |
 | [Cosmo](https://open.spotify.com/track/6nieKIs3A2XxP5zZNrz3p8) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Cosmopolitanie \(Cosmo Tour Edition\)](https://open.spotify.com/album/2fO5Fk1US9U0WD20z1jg5Q) | 3:03 | 2021-08-23 |  |
 | [Dieu merci](https://open.spotify.com/track/4kTF7OQVjTSZ5zdRqo8zxx) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Dieu merci](https://open.spotify.com/album/25O3zUdFHx3k4C0ly1hHh2) | 3:31 | 2021-08-23 |  |
@@ -49,8 +50,8 @@
 | [Pookie](https://open.spotify.com/track/2QpUWi6VSNOt2WyH5FIeLD) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [NAKAMURA](https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko) | 3:00 | 2021-08-23 |  |
 | [Près des étoiles](https://open.spotify.com/track/606aizRf62P9rqTD02jfTn) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Chasseur d'étoiles](https://open.spotify.com/album/35CCZ7wWetfK32serxdHS6) | 4:18 | 2021-08-23 |  |
 | [Ramenez la coupe à la maison](https://open.spotify.com/track/1m0UFnuTktOkksvjbF9z0m) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Marchand de sable](https://open.spotify.com/album/6CWb2cr93FdkcNNraD3E0b) | 3:55 | 2021-08-23 |  |
-| [Reine](https://open.spotify.com/track/1bxP4M9ICllcg7mel8kH89) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Gentleman 2.0](https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv) | 3:19 | 2021-08-23 | 2024-01-27 |
-| [Reine](https://open.spotify.com/track/2HdCh16tdPjle1rm80Y6q7) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Gentleman 2.0](https://open.spotify.com/album/4W1TprhYF2tlbhilWvi0A3) | 3:19 | 2021-08-23 |  |
+| [Reine](https://open.spotify.com/track/1bxP4M9ICllcg7mel8kH89) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Gentleman 2.0](https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv) | 3:19 | 2021-08-23 |  |
+| [Reine](https://open.spotify.com/track/2HdCh16tdPjle1rm80Y6q7) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Gentleman 2.0](https://open.spotify.com/album/4W1TprhYF2tlbhilWvi0A3) | 3:19 | 2021-08-23 | 2024-01-28 |
 | [Reste](https://open.spotify.com/track/4F0B8TLdJVACskfkkTqHDI) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ceinture noire \(Transcendance\)](https://open.spotify.com/album/2lHVp0TDnXIHUHwojpW6fN) | 3:51 | 2021-08-23 |  |
 | [Roule](https://open.spotify.com/track/4aie3id34NbdlJEaWNlKyZ) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [L'Everest \(Deluxe Edition\)](https://open.spotify.com/album/7sNP8kJJr8Ji1wc4eA9HHr) | 3:58 | 2021-08-23 |  |
 | [Sapés comme jamais \(feat\. Niska\) \- Pilule bleue](https://open.spotify.com/track/0CJ31BEjjl1tPIj0CKi9kH) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:26 | 2021-08-23 |  |

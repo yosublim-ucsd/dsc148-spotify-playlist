@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 12056,
+  "num_followers": 12074,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWQ4NGJlYTlhYTgyZDJhNzUzZmY1ODliZGYzMjRiZTY1NDhjM2Ix",
+  "snapshot_id": "MCwwZGI4OWVmNDRlZjA2YWEyZGE2MzhjNDA3OTljNzg1Njk2MDY0ZmEx",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "Ayo",
-        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 216242,
-      "name": "Ojuelegba",
-      "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
         "name": "Bad 25th Anniversary",
         "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 232800,
       "name": "Liberian Girl - 2012 Remastered Version",
       "url": "https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 216242,
+      "name": "Ojuelegba",
+      "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
     },
     {
       "added_at": "2022-10-01 16:57:49",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "AT HOME",
-        "url": "https://open.spotify.com/album/4v5hIeJhusFcKFXyRHRBoy"
-      },
-      "artists": [
-        {
-          "name": "Eddie Hazel",
-          "url": "https://open.spotify.com/artist/3JVF9a4IJrL7sTSdjXxIqJ"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "California Dreaming",
-      "url": "https://open.spotify.com/track/2F7dvdHfSM5cZxrkkptddA"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
         "name": "Walk in Da Park",
         "url": "https://open.spotify.com/album/2UAWSIueBxqi7bXSoKxQ7v"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 170560,
       "name": "You Raised Me",
       "url": "https://open.spotify.com/track/7p9nphST7ntwp2oNGPm7JI"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
+        "name": "AT HOME",
+        "url": "https://open.spotify.com/album/4v5hIeJhusFcKFXyRHRBoy"
+      },
+      "artists": [
+        {
+          "name": "Eddie Hazel",
+          "url": "https://open.spotify.com/artist/3JVF9a4IJrL7sTSdjXxIqJ"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "California Dreaming",
+      "url": "https://open.spotify.com/track/2F7dvdHfSM5cZxrkkptddA"
     }
   ],
   "unique_name": "Damson Idris' Taste",

@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 298006,
+  "2024-01-28": 297990,
   "date_first_scraped": "2023-07-10",
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
   "name": "Praiana",
@@ -87,7 +87,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 244999,
       "name": "Amor Bandido",
       "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 153573,
       "name": "Na Positiva",
       "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"

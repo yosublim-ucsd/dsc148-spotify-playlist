@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest pop hits in one playlist\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,346 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,119 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 38 | [memories \- demo](https://open.spotify.com/track/2xbPbYI0ggFDLZNt2uQRC7) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [songs that got lost in translation](https://open.spotify.com/album/7DNKJTacqnSTbhjbWq1Ihx) | 2:40 |
 | 39 | [Rain](https://open.spotify.com/track/2WQvKZwVrLGQmriYmQqU6o) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Rain](https://open.spotify.com/album/4RgASg0hEG5MgZrn0bSmz5) | 3:21 |
 | 40 | [Puppy](https://open.spotify.com/track/01sURX8cx2KhgUgNFKKLAg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:55 |
-| 41 | [Rocket Science](https://open.spotify.com/track/6mbeLmisQkm2lyAbinPunm) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Rocket Science](https://open.spotify.com/album/23BaWTGCVFzPqnJ6BGVDcZ) | 3:27 |
+| 41 | [Rocket Science](https://open.spotify.com/track/6mbeLmisQkm2lyAbinPunm) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Rocket Science / You Don’t Love Me](https://open.spotify.com/album/23BaWTGCVFzPqnJ6BGVDcZ) | 3:27 |
 | 42 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 |
 | 43 | [Good Side](https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Good Side](https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii) | 2:44 |
 | 44 | [Say Cheese](https://open.spotify.com/track/7uJkYfpWvJiiBGsChnk56I) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Say Cheese](https://open.spotify.com/album/1UGN9fmJaWKfTuwmmyaQ3N) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 |
 | 100 | [another soul](https://open.spotify.com/track/0Yos7Ql3MvIXE56swDiInZ) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [the tears we fight EP](https://open.spotify.com/album/1IO5EbKNw91tCMIb3LdRze) | 2:57 |
 
-Snapshot ID: `MCw4NGRmMTk2NDdlMDQzNjAyY2NmYTYzZmZiODc0OTIxN2MzZTE2MzU0`
+Snapshot ID: `MCwyNjhjYzUxYTM4ZDRkOWIwNzY5OTRmZmZjZDFiZTBlMDIyMmY2MWMy`

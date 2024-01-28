@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Audrey Vanessa
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,021 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,946 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Break The Silence \- Indonesia Version](https://open.spotify.com/track/2T3pycj5laBVctruGZUtC7) | [Audrey Vanessa](https://open.spotify.com/artist/70cqnOZWrVt9sxZzBX3E8f) | [Break The Silence \(Indonesia Version\)](https://open.spotify.com/album/27OWtD1B5EOAVq7sBfEZgO) | 3:48 |
+| 1 | [Break The Silence \- Indonesia Version](https://open.spotify.com/track/2T3pycj5laBVctruGZUtC7) | [Audrey Vanessa](https://open.spotify.com/artist/0wKI7n8o1gQRhMV8R5nGSA) | [Break The Silence](https://open.spotify.com/album/27OWtD1B5EOAVq7sBfEZgO) | 3:48 |
 | 2 | [as it should be](https://open.spotify.com/track/5yL2yJczalyRCDSeasbUrS) | [adoracion](https://open.spotify.com/artist/24t67LUda95ichX4Rz0Rlr) | [as it should be](https://open.spotify.com/album/3i0P0bvMEd3C4tzJDxVkkh) | 4:18 |
 | 3 | [Moving On](https://open.spotify.com/track/1ZJtorRlIPyVvOIvd61TZz) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Moving On](https://open.spotify.com/album/5dihEwfqzPZOJDxXvzoEQV) | 3:22 |
 | 4 | [Rimba Raya](https://open.spotify.com/track/6W0VtckHNteWDzSXOnAQld) | [Rimba](https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ) | [Rimba Raya](https://open.spotify.com/album/5TMDicpwKeOWuFyN8As4QG) | 3:57 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 13 | [Colorless](https://open.spotify.com/track/5DX9NwF7lYGPdeXpeCajoT) | [Biagi](https://open.spotify.com/artist/3vPZeaCrAz1R9wPQfbjLtM) | [Colorless](https://open.spotify.com/album/1EeLlDYkQXhbeU2AAwvBYF) | 2:56 |
 | 14 | [Janji Temu](https://open.spotify.com/track/0bTEOUdcZrs1dh5vAhMkNO) | [TB AJI](https://open.spotify.com/artist/1YMnyeBAV0YSm1ceHXuura) | [Janji Temu](https://open.spotify.com/album/7GRdUc6OGErOhtHZOmLuXT) | 3:44 |
 | 15 | [Falling in Love in Jakarta](https://open.spotify.com/track/0QteQ3SwYCkPGAoQ6YfQKZ) | [Alvin Jo](https://open.spotify.com/artist/3MnsmeScJneDmgu8u3OeNL) | [Falling in Love in Jakarta](https://open.spotify.com/album/5dAAPRXAiD8bKPeKa3Yo5X) | 4:17 |
-| 16 | [Break The Silence \- English Version](https://open.spotify.com/track/4vQCz5hbLgj5HkmAqopHps) | [Audrey Vanessa](https://open.spotify.com/artist/70cqnOZWrVt9sxZzBX3E8f) | [Break The Silence \(Indonesia Version\)](https://open.spotify.com/album/27OWtD1B5EOAVq7sBfEZgO) | 3:48 |
+| 16 | [Break The Silence \- English Version](https://open.spotify.com/track/4vQCz5hbLgj5HkmAqopHps) | [Audrey Vanessa](https://open.spotify.com/artist/0wKI7n8o1gQRhMV8R5nGSA) | [Break The Silence](https://open.spotify.com/album/27OWtD1B5EOAVq7sBfEZgO) | 3:48 |
 | 17 | [Sesaat Kau Hadir](https://open.spotify.com/track/1je4r3DfzWcZXHqx4MMZ9Y) | [Tenty Kamal](https://open.spotify.com/artist/2oizaPrBzAj2754qyq20ly) | [Sesaat Kau Hadir](https://open.spotify.com/album/3DNFwFebDCCSID2w6rHdSQ) | 3:31 |
 | 18 | [Crazy In Love](https://open.spotify.com/track/2TapbOu7FlHgd9Oehhr2HU) | [Widya Angela](https://open.spotify.com/artist/0vkKOZnHj7CU5uAc6nDSsF) | [Amore Mio](https://open.spotify.com/album/2RLUp7V6MhQn21vLY3NJMs) | 3:35 |
 | 19 | [My Boy](https://open.spotify.com/track/69Z3w9PiNsLBAGQV5goeLz) | [Owwie](https://open.spotify.com/artist/2wKVIIT00EhTd9ncgdMPW7) | [My Boy](https://open.spotify.com/album/2f3bcSVOmOP9iO9tbMfp2k) | 2:41 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 26 | [Juicy Gruf](https://open.spotify.com/track/2kZDhGyZP7DoSDLRc9WhN9) | [Cosmic Trip](https://open.spotify.com/artist/6gzmRXto8h6mgEvPImqqnp) | [Juicy Gruf](https://open.spotify.com/album/4FLE3Ryg6UxkFV4T8yYJnV) | 3:05 |
 | 27 | [Kapok](https://open.spotify.com/track/65vh5LcRHvLexwmAqxIcxK) | [ENKA](https://open.spotify.com/artist/3VS4t9c12x6eVl3AyvYSIi), [Tabib Qiu](https://open.spotify.com/artist/13F5SDsfGBg8JlAvIzAbpB) | [Kapok](https://open.spotify.com/album/74m7aZv81wZA5UUqkA1wZ9) | 3:44 |
 | 28 | [Terbit Dan Tenggelam](https://open.spotify.com/track/1AH5cZRccmbrupNwxVq5FM) | [Bimasakti.](https://open.spotify.com/artist/686OcAQs0zAzekMyYYtChH) | [Terbit Dan Tenggelam](https://open.spotify.com/album/2DHuyKbXiZyq3CJHBlcTwX) | 4:35 |
-| 29 | [More Than Words](https://open.spotify.com/track/2eKpL9l5eVVrWWjXeDD1hc) | [Reynold Andriano](https://open.spotify.com/artist/7BN9gkAKpPEAE6K2Ji3Wtb) | [More Than Words](https://open.spotify.com/album/7xUklwskrg39ercUp1R0Hn) | 3:15 |
+| 29 | [More Than Words](https://open.spotify.com/track/2eKpL9l5eVVrWWjXeDD1hc) | [Reynold Andriano](https://open.spotify.com/artist/6lj8XqQNsW82WtQ0bJAw67) | [More Than Words](https://open.spotify.com/album/7xUklwskrg39ercUp1R0Hn) | 3:15 |
 | 30 | [Feeling like a villain](https://open.spotify.com/track/1HomixKSZtSSmAGo5zo40S) | [Nawto](https://open.spotify.com/artist/60KnUoz38lBuVwvbZstkDc), [ouzyboy](https://open.spotify.com/artist/0NzFIMCprKeXYsnb77oMGE) | [Feeling like a villain](https://open.spotify.com/album/70jovJW25aeDDLT44TBEGm) | 2:19 |
 | 31 | [Saturday Night](https://open.spotify.com/track/50OV9WQpFOpmy1m7wiQApy) | [Merindink Disko](https://open.spotify.com/artist/7uORYqO84wkxjXknxCA6k2) | [Saturday Night](https://open.spotify.com/album/6Thx3HaT2j4m9r8A3EIA2u) | 3:23 |
 | 32 | [Melawan Ego](https://open.spotify.com/track/2cRpgTXG7UczPO2xXkwbkN) | [Triatna](https://open.spotify.com/artist/4OQhrgoDTMcrOBw3efCmcF) | [Melawan Ego](https://open.spotify.com/album/1dtxpxXkzJeQa5IRzpXyUT) | 3:54 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 37 | [Not All Boys](https://open.spotify.com/track/3ZQligmEerI7VRJKzhTTxJ) | [Barcleys 491](https://open.spotify.com/artist/0WKB1tOjMWNlFDWJF1bYMp) | [Not All Boys](https://open.spotify.com/album/2ysPmxIBtfyuWUxQNJBTdS) | 2:00 |
 | 38 | [Sink Me In The Ocean](https://open.spotify.com/track/5wgYPf4R9sYLUMpB13lxqE) | [sadchurro](https://open.spotify.com/artist/4J6wdLY1wV8WkrJKD7OA4t) | [Ocean](https://open.spotify.com/album/1e4JlxJbggmvA0WHAeKLJ7) | 3:40 |
 | 39 | [Pretend](https://open.spotify.com/track/5VRzMiken9r1CJ2lSWfDZa) | [Jibs](https://open.spotify.com/artist/5a3vFEe5TeY6dvzzLVa6cn) | [Pretend](https://open.spotify.com/album/10anL35V7w9nLv7FDkiPKu) | 2:53 |
-| 40 | [Play Your Music](https://open.spotify.com/track/0vqf3LC6CMFMHwqd97y0I5) | [DULE](https://open.spotify.com/artist/46DGJYLAv8lVX5USef5CDN), [Maliman](https://open.spotify.com/artist/4P4vdNXnDHeJSSdQ9QdyAV) | [Play Your Music](https://open.spotify.com/album/6pfVwUKsucDqOrKSD1u7gU) | 3:04 |
+| 40 | [Play Your Music](https://open.spotify.com/track/1aPciObwFcusxrfvH4OohM) | [DULE](https://open.spotify.com/artist/46DGJYLAv8lVX5USef5CDN), [Maliman](https://open.spotify.com/artist/4P4vdNXnDHeJSSdQ9QdyAV) | [Play Your Music](https://open.spotify.com/album/4gDgJs8zXQJCibymJzFbaj) | 3:04 |
 | 41 | [Holiness](https://open.spotify.com/track/5fcX7o1TfKr9se5wFOZtZp) | [Bearfours](https://open.spotify.com/artist/5K0U3YPkolmth5SzxPX5fz) | [Holiness](https://open.spotify.com/album/43wetfOpu5NWc3zWHCaynT) | 3:16 |
 | 42 | [Believe](https://open.spotify.com/track/6RkqWdMQ2u6i1Jpm6OBs2o) | [Keira Shabira](https://open.spotify.com/artist/0lTTfSbUQaCstI895ByHla) | [Believe](https://open.spotify.com/album/5gHXZREddN3PJcv2i1USjQ) | 3:19 |
 | 43 | [Fears](https://open.spotify.com/track/2iHiD5HfwzA9rmBCS4KP51) | [Manaditara](https://open.spotify.com/artist/35S1sBwXiq6fvWPSemGj2N) | [Fears](https://open.spotify.com/album/2hL8GAYXvTMX9OUG0r7eja) | 3:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 74 | [Dimiliki Dia](https://open.spotify.com/track/4oYO0bHAPtZFDhgnBBZuKQ) | [Allan Andersn](https://open.spotify.com/artist/4zcXAnIxQ6UDXSu8qDZbsk) | [Dimiliki Dia](https://open.spotify.com/album/5ZMba9BNuaqMcnNjoAhDqo) | 3:48 |
 | 75 | [MENYESAL NGAMBEK](https://open.spotify.com/track/0VtOLdcGcGH4LUnoTDKXhk) | [Rhe M.A.C](https://open.spotify.com/artist/1UrjhXG4lWzzAYx8ZFjj7B), [Riona](https://open.spotify.com/artist/4ij7a0X8hRM1i69zefyKdL), [Rikz](https://open.spotify.com/artist/78esRdh0HtG5vv9HZrJ0RT), [Pet M.A.C](https://open.spotify.com/artist/4hCvwvsqYBqkEfIlyjPIJL) | [MENYESAL NGAMBEK](https://open.spotify.com/album/64I5RfwjVz6FdzjtKOfHTu) | 3:48 |
 
-Snapshot ID: `MCxkMTk1NTVmNGY0YzE3Zjk1YzIzNGQ1NzczNmMzYTE4ZmRiYTY0N2Ux`
+Snapshot ID: `MCxkOGMyZGM4YmQ1YWI4YmVmYzJmNGNkZTEzZWU4MmYwODViZDg2ZDA5`

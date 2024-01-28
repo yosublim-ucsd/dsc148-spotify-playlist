@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 87839,
+  "num_followers": 87929,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDkxOGMyMTQ0MDE3NWViZWU0NTg2OGRlM2YwMTJiYTg4ZmVjOGZi",
+  "snapshot_id": "MCw0YWY1ZWNhY2ZiNzU2YzM4MGM3NzkyNmMwYWQ5MzdjZmJlMmU2ZjE4",
   "tracks": [
     {
       "added_at": "2023-11-24 08:42:40",
@@ -159,18 +159,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "samba do mo\u00e7o bonito",
-        "url": "https://open.spotify.com/album/79yWNPUh9pzwttJ4dTtlVQ"
+        "name": "Meu Amor",
+        "url": "https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ"
       },
       "artists": [
         {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
+        },
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
         }
       ],
-      "duration_ms": 197090,
-      "name": "samba do mo\u00e7o bonito",
-      "url": "https://open.spotify.com/track/2RRSoVyvUIW7vNH9Ti3827"
+      "duration_ms": 146347,
+      "name": "Meu Amor",
+      "url": "https://open.spotify.com/track/6QXTXu1Rezdb7gMcVvRXeC"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -191,22 +195,18 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Meu Amor",
-        "url": "https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ"
+        "name": "samba do mo\u00e7o bonito",
+        "url": "https://open.spotify.com/album/79yWNPUh9pzwttJ4dTtlVQ"
       },
       "artists": [
         {
-          "name": "Julio Secchin",
-          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
-        },
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         }
       ],
-      "duration_ms": 146347,
-      "name": "Meu Amor",
-      "url": "https://open.spotify.com/track/6QXTXu1Rezdb7gMcVvRXeC"
+      "duration_ms": 197090,
+      "name": "samba do mo\u00e7o bonito",
+      "url": "https://open.spotify.com/track/2RRSoVyvUIW7vNH9Ti3827"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Flora - EP",
-        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Vem conversar",
-      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Um Corpo no Mundo",
         "url": "https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 224466,
       "name": "Acalanto",
       "url": "https://open.spotify.com/track/5TTWOyGAjATPEuDiTIRd62"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Original Brasil",
-        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 197610,
-      "name": "Menina",
-      "url": "https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "O Amor Descansa Na Varanda",
         "url": "https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo"
       },
@@ -799,18 +783,34 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Amanheceu (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/113z8oUYAMr59RfzyKHvTM"
+        "name": "Original Brasil",
+        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
       },
       "artists": [
         {
-          "name": "Tritom",
-          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
         }
       ],
-      "duration_ms": 196743,
-      "name": "Amanheceu - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3XQkfQ7Qsacd6Xbpj1ZLvt"
+      "duration_ms": 197610,
+      "name": "Menina",
+      "url": "https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Rua Tr\u00eas",
+        "url": "https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 154647,
+      "name": "Rua Tr\u00eas",
+      "url": "https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -851,38 +851,34 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Rua Tr\u00eas",
-        "url": "https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C"
+        "name": "Amanheceu (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/113z8oUYAMr59RfzyKHvTM"
       },
       "artists": [
         {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
         }
       ],
-      "duration_ms": 154647,
-      "name": "Rua Tr\u00eas",
-      "url": "https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj"
+      "duration_ms": 196743,
+      "name": "Amanheceu - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3XQkfQ7Qsacd6Xbpj1ZLvt"
     },
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Maior Que N\u00f3s",
-        "url": "https://open.spotify.com/album/1mRbqQtEQ4NvHOgPK9MA51"
+        "name": "In\u00edcio",
+        "url": "https://open.spotify.com/album/7ER1Dk5IUHB3KOrEgBBDVr"
       },
       "artists": [
         {
           "name": "Hotelo",
           "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 172119,
-      "name": "Maior Que N\u00f3s",
-      "url": "https://open.spotify.com/track/3oiTGo0oNxtT1kQvZHMyCe"
+      "duration_ms": 192371,
+      "name": "Conto as Horas",
+      "url": "https://open.spotify.com/track/6IHBJfVaRtSqmjIVwWLsJb"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1027,18 +1023,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "In\u00edcio",
-        "url": "https://open.spotify.com/album/7ER1Dk5IUHB3KOrEgBBDVr"
+        "name": "Maior Que N\u00f3s",
+        "url": "https://open.spotify.com/album/1mRbqQtEQ4NvHOgPK9MA51"
       },
       "artists": [
         {
           "name": "Hotelo",
           "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 192371,
-      "name": "Conto as Horas",
-      "url": "https://open.spotify.com/track/6IHBJfVaRtSqmjIVwWLsJb"
+      "duration_ms": 172119,
+      "name": "Maior Que N\u00f3s",
+      "url": "https://open.spotify.com/track/3oiTGo0oNxtT1kQvZHMyCe"
     },
     {
       "added_at": "2023-11-24 08:42:40",

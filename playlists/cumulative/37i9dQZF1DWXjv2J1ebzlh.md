@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,196 songs - 6 day 3 hr 53 min
+2,197 songs - 6 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,7 +401,8 @@
 | [Chambacu](https://open.spotify.com/track/3DWXzqHok8qFOZqsymo2zb) | [Aurita Castillo & Su Conjunto](https://open.spotify.com/artist/2NHGKFxCE9vLbJor6hcVGc) | [Paradas Continuas](https://open.spotify.com/album/3r4KvV3xbEN0VAHthWYnAE) | 3:50 | 2022-06-09 | 2022-07-29 |
 | [Chambacú](https://open.spotify.com/track/1BlutJ4D5RpbxHyGMxnhTZ) | [Aurita Castillo y Su Conjunto](https://open.spotify.com/artist/1uFKnGwEpdcizxwh7KiMhh) | [Picnic Tropical 1](https://open.spotify.com/album/20DZYC7K5CRawXpad8anoY) | 3:51 | 2022-10-31 | 2022-11-13 |
 | [Chambacú](https://open.spotify.com/track/71V8WVPxveWP3hMSg67NMb) | [Aurita Castillo y Su Conjunto](https://open.spotify.com/artist/1uFKnGwEpdcizxwh7KiMhh) | [Festival Con Aurita, Vol\. 2](https://open.spotify.com/album/5KXm0QQXbgzMwq6eb79AUu) | 3:51 | 2022-07-27 |  |
-| [Chan Chan](https://open.spotify.com/track/1A4dz8BQdYd2rphqrtFpyB) | [Banda Caio Rodriguez](https://open.spotify.com/artist/3r3LCgq60jmbEQkEh2Q8aW), [Hector Rey](https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv), [Los Brillantes Cubanos](https://open.spotify.com/artist/0LcZ3t6cQtrE8IASQxDmcu) | [Cuba Café \(The Very Best of Cuban Music\)](https://open.spotify.com/album/6AcFLwyRVfDb0MubVagUdl) | 4:17 | 2022-06-09 |  |
+| [Chan Chan](https://open.spotify.com/track/1A4dz8BQdYd2rphqrtFpyB) | [Banda Caio Rodriguez](https://open.spotify.com/artist/3r3LCgq60jmbEQkEh2Q8aW), [Hector Rey](https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv), [Los Brillantes Cubanos](https://open.spotify.com/artist/0LcZ3t6cQtrE8IASQxDmcu) | [Cuba Café \(The Very Best of Cuban Music\)](https://open.spotify.com/album/6AcFLwyRVfDb0MubVagUdl) | 4:17 | 2022-06-09 | 2024-01-28 |
+| [Chan Chan](https://open.spotify.com/track/6w9KBNh6hsrYMDhDB0Eieq) | [Cuba Cuba](https://open.spotify.com/artist/0lGLinWCvSkF3eSyV9a6aB) | [Cafe Havana](https://open.spotify.com/album/6nVlDrSjPXusRk45H1xbIr) | 4:17 | 2023-11-29 |  |
 | [Chant To Mother Earth](https://open.spotify.com/track/0hYEhK3iGxKzsq2zll840N) | [B.Lo](https://open.spotify.com/artist/2wPOFkzGy7f4bElbHcgHZ5) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/4Qdl3L0yx9NmcbupcyhdSf) | 6:06 | 2022-07-12 | 2022-07-29 |
 | [Chant To Mother Earth](https://open.spotify.com/track/1Ncq5yn2zyL6Nflua7JtTj) | [BLO](https://open.spotify.com/artist/6Occ6ZTaLDgVUjzpQMkTTq) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 6:06 | 2022-07-27 |  |
 | [Chase The Devil](https://open.spotify.com/track/1QS0KyyTpb4DeP1Akh91lC) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [Reggae Is Love](https://open.spotify.com/album/7tvBoWEMNpVDv00U8yh74W) | 3:26 | 2022-10-31 | 2022-11-13 |

@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 188765,
+  "2024-01-28": 188760,
   "date_first_scraped": "2022-05-30",
   "description": "Bring in the new day.",
   "name": "Sun Salutation",
@@ -345,6 +345,24 @@
       "duration_ms": 186571,
       "name": "Blue Reef",
       "url": "https://open.spotify.com/track/5yBb7oxuiAdSsNZE0khsWi"
+    },
+    {
+      "album": {
+        "name": "Breath of Bliss",
+        "url": "https://open.spotify.com/album/1JzOTsgVrlRcU688eDxQ7K"
+      },
+      "artists": [
+        {
+          "name": "Ladakh",
+          "url": "https://open.spotify.com/artist/3Z5oaV8vqWSsdxJbWoWc4P"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177406,
+      "name": "Breath of Bliss",
+      "url": "https://open.spotify.com/track/7qaG9fUxYl5gTqQgTfz50I"
     },
     {
       "album": {
@@ -3011,6 +3029,24 @@
       "duration_ms": 246400,
       "name": "Yin Rhythmatism",
       "url": "https://open.spotify.com/track/5nhIw5ibl4jJ1Uu9Z4zg8q"
+    },
+    {
+      "album": {
+        "name": "Zen Awakening",
+        "url": "https://open.spotify.com/album/6QargaQ60JL5icC11UYce1"
+      },
+      "artists": [
+        {
+          "name": "The Sky",
+          "url": "https://open.spotify.com/artist/0vOYkwa573vQ2BHbYGri2m"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150093,
+      "name": "Zen Awakening",
+      "url": "https://open.spotify.com/track/530GBwxUhpe27TbnY7dVAm"
     },
     {
       "album": {

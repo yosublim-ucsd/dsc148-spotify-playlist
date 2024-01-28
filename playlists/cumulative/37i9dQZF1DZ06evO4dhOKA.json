@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "30 Aniversario Duetos",
+        "url": "https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240426,
+      "name": "Amigo M\u00edo - Dueto Con Lalo Mora",
+      "url": "https://open.spotify.com/track/5lJCiAk7S2WNglqzEVS3JE"
+    },
+    {
+      "album": {
         "name": "20 Memorias Norte\u00f1as",
         "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
       },

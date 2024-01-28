@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,777 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,806 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 30 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
 | 31 | [センスレス・ワンダー\[Original Rec 2024 Mix\]](https://open.spotify.com/track/70Xq38GNInrXsgXeAhYSd5) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [10年後のセンスレス・ワンダー](https://open.spotify.com/album/4DhpPwIwj55p5Wbvi6mb53) | 4:18 |
 | 32 | [フリーフォール](https://open.spotify.com/track/1rmpPnrUsj2JbRGHFpZWHw) | [春猿火](https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l) | [心獣](https://open.spotify.com/album/71LATtEeuS2VtAx8AaP92S) | 3:04 |
-| 33 | [紛い者](https://open.spotify.com/track/5xADu8kVRHsD8b1kpfDfYF) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN), [楠木　ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [Stupid dog](https://open.spotify.com/album/7az7pLGS7uW4AEY3BPy3sZ) | 3:05 |
+| 33 | [紛い者](https://open.spotify.com/track/5xADu8kVRHsD8b1kpfDfYF) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN), [楠木ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [Stupid dog](https://open.spotify.com/album/7az7pLGS7uW4AEY3BPy3sZ) | 3:05 |
 | 34 | [Stand Alone](https://open.spotify.com/track/7r8GcalRUjI04yLLZA7SeU) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [Stand Alone](https://open.spotify.com/album/750PaBcRD3QBD7YWWWrXBc) | 3:28 |
 | 35 | [クリミナ](https://open.spotify.com/track/3BLNrZkS3rPp5PAKBd8n65) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [クリミナ](https://open.spotify.com/album/2nP2srW6dNQuuMiQF2cEyG) | 3:02 |
 | 36 | [炎上撲滅！魔法少女アイ子](https://open.spotify.com/track/1kfD9go6fe7qa1nNpdI5hy) | [アーリオ・オーリオ・エ・ペペロンチーノ](https://open.spotify.com/artist/2Dkaqg1r0QSXn526uMA09p), [そりっどびーつ](https://open.spotify.com/artist/76IWUnp1D3oRp4eexCzE7x) | [炎上撲滅！魔法少女アイ子](https://open.spotify.com/album/2KOraN5wCTzllmf9oPjjS7) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [フライデー・ナイト](https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [フライデー・ナイト](https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ) | 2:55 |
 | 50 | [Biri\-Biri](https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Biri\-Biri](https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz) | 3:07 |
 
-Snapshot ID: `MCxhOGI4NzVjNWM4NWMyNThjOWIxOTlhYmZkZGU2ZWM2MDJiMjRmMGNm`
+Snapshot ID: `MCxkZGY3YmRhNzgzM2IwNmY1YTM2NDMwZDcyY2ExNzY0M2QwNDFlZTcy`

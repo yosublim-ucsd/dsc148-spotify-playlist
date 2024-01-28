@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف : تامر حسني، زاب ثروت
 
-784 songs - 1 day 20 hr 19 min
+785 songs - 1 day 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Aktar Shewaya](https://open.spotify.com/track/31jm2OsyfhnU3uklUnWWsB) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Aktar Shewaya](https://open.spotify.com/album/7iTyA5W1HKLQ3Mkzogu1WT) | 2:48 | 2021-12-23 | 2022-03-10 |
 | [Al Hob Al](https://open.spotify.com/track/4jbeCurXQEsNQjEUSVFkO6) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Al Hob Al](https://open.spotify.com/album/1JG05LPwvaHRp58FI4JgVY) | 6:26 | 2023-08-07 | 2023-09-26 |
 | [Ala Belady](https://open.spotify.com/track/5KVlvlcILWGYqVvhk0luot) | [Weam Ismail](https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko), [SAFY](https://open.spotify.com/artist/34h1bM8C93gX0ROWMoellp) | [Ala Belady](https://open.spotify.com/album/6h09rNBEMVwW78WzZfxVk0) | 4:46 | 2023-08-03 | 2023-08-25 |
+| [Ala Fekra](https://open.spotify.com/track/0WeYHVHRImagDo5teUkDOw) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ) | [Ala Fekra](https://open.spotify.com/album/2WAbd2SNR3NuetCFRp4uB8) | 3:17 | 2024-01-27 |  |
 | [Alaa Bali](https://open.spotify.com/track/12lEpOzMG73XtAxeNSOZfl) | [Ahmed Elshobokshy](https://open.spotify.com/artist/5hXVuAmFV4ql8M4BmIZBmP) | [Alaa Bali](https://open.spotify.com/album/6Tqy0QLbCK6v5xwPibh8n5) | 3:00 | 2023-06-15 | 2023-07-21 |
 | [Alb Akhok](https://open.spotify.com/track/4koneNxLYSL43LF9n5ua4k) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Alb Akhok](https://open.spotify.com/album/67k3Nzh6LtOIlGBME6nEzK) | 3:49 | 2022-04-23 | 2022-08-05 |
 | [Alb Safi](https://open.spotify.com/track/0WrqGT7608mOopBNxKtjzz) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [Alb Safi](https://open.spotify.com/album/4Mk24O7u5xVwkNOSGINF5s) | 2:31 | 2023-09-29 | 2023-12-30 |

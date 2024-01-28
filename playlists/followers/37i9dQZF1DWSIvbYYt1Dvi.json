@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 1213658,
+  "2024-01-28": 1212018,
   "date_first_scraped": "2022-01-18",
   "description": "leall \u00e9 AULAS ",
   "name": "AULAS",
@@ -337,7 +337,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 196464,
       "name": "A Trilha do Fim do Filme",
       "url": "https://open.spotify.com/track/7B0PA9fMc8sSAUYmiz87gD"
@@ -1101,7 +1101,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 428571,
       "name": "BRIMEVISION (feat. Sodomita, SD9, VND, Well, Mirral ONE, Ravi Lobo & Pivete Nobre)",
       "url": "https://open.spotify.com/track/1brdvsMJDwOCrsLsNjC7By"
@@ -2582,6 +2582,32 @@
     },
     {
       "album": {
+        "name": "F\u00e9rias da Metr\u00f3pole",
+        "url": "https://open.spotify.com/album/2zrVQ7cEqAMquEsilCU0U7"
+      },
+      "artists": [
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "Duani",
+          "url": "https://open.spotify.com/artist/7kfnPmwhVUGVTbp4IEiHxZ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181463,
+      "name": "F\u00e9rias da Metr\u00f3pole",
+      "url": "https://open.spotify.com/track/1Yh1BIQoPyH63SUxTGWs6U"
+    },
+    {
+      "album": {
         "name": "Melhor Momento",
         "url": "https://open.spotify.com/album/6kIoVuFEULMVH6bM7u7aVI"
       },
@@ -2871,6 +2897,32 @@
       "duration_ms": 186697,
       "name": "Kim N Kanye",
       "url": "https://open.spotify.com/track/5NJHee8EbpbMv6Mb8ZilZI"
+    },
+    {
+      "album": {
+        "name": "Lado Sul",
+        "url": "https://open.spotify.com/album/0auawK0pQ2eMKY9QlWRF1Q"
+      },
+      "artists": [
+        {
+          "name": "PH Original",
+          "url": "https://open.spotify.com/artist/1vxO2TvhCnd9dhox0Rpgf1"
+        },
+        {
+          "name": "Liip Beats",
+          "url": "https://open.spotify.com/artist/3Pr7FENKcGB6uHVbHDXcPC"
+        },
+        {
+          "name": "MADDRUGA",
+          "url": "https://open.spotify.com/artist/5WTKBWeFY0In0q57BtzZUd"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163666,
+      "name": "Lado Sul",
+      "url": "https://open.spotify.com/track/3oRnApxPuuDm1atizRli2p"
     },
     {
       "album": {
@@ -3437,7 +3489,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 178407,
       "name": "Menorz\u00e3o",
       "url": "https://open.spotify.com/track/54cMvqyAt0IbPaPHoIW1dc"
@@ -4051,7 +4103,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 294683,
       "name": "O Mal e o Bem",
       "url": "https://open.spotify.com/track/76Nv2osNj3GmNnb1W8YWw5"
@@ -4824,6 +4876,32 @@
     },
     {
       "album": {
+        "name": "Minha Zona",
+        "url": "https://open.spotify.com/album/3kQtp9lR4eixzvzvPzP0hG"
+      },
+      "artists": [
+        {
+          "name": "Pecaos",
+          "url": "https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG"
+        },
+        {
+          "name": "NEKTRASH",
+          "url": "https://open.spotify.com/artist/4jxiBeFywrrmqV7cpC9EWP"
+        },
+        {
+          "name": "lucasbin",
+          "url": "https://open.spotify.com/artist/7KYrffinPH0x6rrRIqIBid"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196626,
+      "name": "Puma e Pantera",
+      "url": "https://open.spotify.com/track/2zNxU5GD2ReI4K4v6OzVGr"
+    },
+    {
+      "album": {
         "name": "Pura Ilus\u00e3o",
         "url": "https://open.spotify.com/album/3X9sTASPhchWD2ThIvdyph"
       },
@@ -4913,6 +4991,24 @@
       "duration_ms": 259672,
       "name": "Quase uma Semana",
       "url": "https://open.spotify.com/track/4a5YIaK7qFu6T63GeYx1Ih"
+    },
+    {
+      "album": {
+        "name": "Proibido Estacionar, Vol. 2 - Live Set",
+        "url": "https://open.spotify.com/album/3dNyEVY0LHKpG6voegof2I"
+      },
+      "artists": [
+        {
+          "name": "ruadois",
+          "url": "https://open.spotify.com/artist/1T5hg3seEG39VKTHICTft5"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157250,
+      "name": "Quebra",
+      "url": "https://open.spotify.com/track/6vUdkL5RJnozINC7JBl8M3"
     },
     {
       "album": {

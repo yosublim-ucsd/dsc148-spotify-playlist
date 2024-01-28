@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 157261,
+  "2024-01-28": 157444,
   "date_first_scraped": "2022-01-21",
   "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: Pablo Albor\u00e1n",
   "name": "Enamor\u00e1ndose",
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 178849,
       "name": "Espacio en Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0GIQqhTJpBvAUwThmUHbPj"
@@ -1757,6 +1757,24 @@
       "duration_ms": 203200,
       "name": "LA NOCHE DE ANOCHE",
       "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
+    },
+    {
+      "album": {
+        "name": "La Oportunidad",
+        "url": "https://open.spotify.com/album/09AprFAIabYd5MnoHTE8Ei"
+      },
+      "artists": [
+        {
+          "name": "CLEMENTE",
+          "url": "https://open.spotify.com/artist/4TDHTrq8xN1oKR2TFnBgez"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255596,
+      "name": "La Oportunidad",
+      "url": "https://open.spotify.com/track/3bKnIobC3sURrYNptbi7TN"
     },
     {
       "album": {

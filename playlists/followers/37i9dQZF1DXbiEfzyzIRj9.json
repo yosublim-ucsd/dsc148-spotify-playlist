@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 85497,
+  "2024-01-28": 85459,
   "date_first_scraped": "2023-03-19",
   "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: MFS",
   "name": "Altar JP",
@@ -315,6 +315,24 @@
       "duration_ms": 165018,
       "name": "Aglio e olio",
       "url": "https://open.spotify.com/track/09aFUqQgJPn0Awn47JGKND"
+    },
+    {
+      "album": {
+        "name": "AINOSEIDE2024",
+        "url": "https://open.spotify.com/album/47xn9arhGI2sRMYB9E04Ph"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIE-CHANG",
+          "url": "https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298400,
+      "name": "AINOSEIDE2024",
+      "url": "https://open.spotify.com/track/2NDW9c3MOiNsAyyJeyVgGn"
     },
     {
       "album": {
@@ -4697,7 +4715,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 201230,
       "name": "How Music Makes You Feel Better - Edit",
       "url": "https://open.spotify.com/track/2bBuxaPbzrUGK9rnLJ5fFN"

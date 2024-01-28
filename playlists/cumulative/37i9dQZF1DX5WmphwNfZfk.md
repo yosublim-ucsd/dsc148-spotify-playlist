@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch in the new year, handpicked by our curators\. Cover: DEBBY FRIDAY
 
-1,465 songs - 3 day 3 hr 10 min
+1,466 songs - 3 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1408,7 +1408,8 @@
 | [we don't talk now](https://open.spotify.com/track/6mSH4YFZAI1y5uIXOtnVPe) | [Cindë](https://open.spotify.com/artist/6UmkItoyk0QIRoEQGMhEYz) | [we don't talk now](https://open.spotify.com/album/4kenw7b36JYba2IMdhxphq) | 2:30 | 2022-01-07 | 2022-02-05 |
 | [We Getting Rich](https://open.spotify.com/track/7A3dMjedhNKQmMossWQUpC) | [Tia Bank$](https://open.spotify.com/artist/59rZoAv1GLoq9Iu8pcQbkU) | [We Getting Rich](https://open.spotify.com/album/3ij4Gfms0GhTkssiKIcjBG) | 2:33 | 2022-05-06 | 2022-05-11 |
 | [We Got Tonight](https://open.spotify.com/track/1aK2SfeCjeqkLg0kn9ubsv) | [Hillside Outlaws](https://open.spotify.com/artist/05IOmK3klm0i1TQf0kibZl) | [We Got Tonight](https://open.spotify.com/album/1PLQxFvTENNsVoGEEnnbCm) | 2:58 | 2022-07-01 | 2022-08-06 |
-| [We Keep On](https://open.spotify.com/track/1DLuBahdUB9VX7DJRtYl1v) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [For the Better](https://open.spotify.com/album/6AlZ1GbJS3uLy8m23EhTfE) | 3:00 | 2023-06-02 |  |
+| [We Keep On](https://open.spotify.com/track/1DLuBahdUB9VX7DJRtYl1v) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [For the Better](https://open.spotify.com/album/6AlZ1GbJS3uLy8m23EhTfE) | 3:00 | 2023-06-02 | 2024-01-28 |
+| [We Keep On](https://open.spotify.com/track/3cWwh46djB72qVMRmTpaMS) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [For the Better](https://open.spotify.com/album/10brv7YGXfM12BcquAQ1Aj) | 3:00 | 2023-11-29 |  |
 | [We Make Sense](https://open.spotify.com/track/6Uv0pRytdE99Op5MYIfiJs) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [We Make Sense](https://open.spotify.com/album/7pD9IBIvAiHjT4nKKnA3D1) | 3:21 | 2023-04-07 | 2023-05-06 |
 | [We're All Gonna Die](https://open.spotify.com/track/0vQ6sPAB5lR3VhiOUAhQ9n) | [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K) | [We're All Gonna Die](https://open.spotify.com/album/0YKNaAwk4NPSqJ8vS2dwyy) | 2:48 | 2022-05-06 | 2022-06-04 |
 | [We're Here, My Dear](https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:41 | 2022-11-30 | 2023-02-04 |

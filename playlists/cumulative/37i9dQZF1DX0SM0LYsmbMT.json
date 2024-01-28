@@ -22740,7 +22740,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 143258,
       "name": "Floating",
       "url": "https://open.spotify.com/track/7JWPqQHFctM4VY1WlFNdF6"
@@ -70703,6 +70703,24 @@
     },
     {
       "album": {
+        "name": "They Say",
+        "url": "https://open.spotify.com/album/6JR06bSp8iSg6xRgAOs0od"
+      },
+      "artists": [
+        {
+          "name": "Emapea",
+          "url": "https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206982,
+      "name": "They Say",
+      "url": "https://open.spotify.com/track/7dyDhm02OBav60kMmEVHET"
+    },
+    {
+      "album": {
         "name": "Think for Yourself",
         "url": "https://open.spotify.com/album/2cgAsluSyoCwyXlWgIGNOV"
       },
@@ -70968,7 +70986,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 164354,
       "name": "Through Times",
       "url": "https://open.spotify.com/track/5z3VCbiCjxfp3D1HjIx7jo"
@@ -71602,6 +71620,28 @@
       "duration_ms": 182500,
       "name": "Tokyo Cruise",
       "url": "https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw"
+    },
+    {
+      "album": {
+        "name": "Tokyo Lights",
+        "url": "https://open.spotify.com/album/6J2YMaUFDJf0eoQCgr3o6p"
+      },
+      "artists": [
+        {
+          "name": "Shuko",
+          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
+        },
+        {
+          "name": "FLKS",
+          "url": "https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125818,
+      "name": "Tokyo Lights",
+      "url": "https://open.spotify.com/track/4DkAN8ownDd6sDUOVUZyG4"
     },
     {
       "album": {

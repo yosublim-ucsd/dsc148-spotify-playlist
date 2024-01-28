@@ -1,12 +1,12 @@
 {
   "description": "Nominees \u2014 and past winners \u2014 from the 96th annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 261852,
+  "num_followers": 261683,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjBiMjY5ZDQwZmMzOGMwZGFmZjM3YzRjY2RiYzY2NjBhNjNjZGY5",
+  "snapshot_id": "MCw0NTIyZTkxYmZhZDNmMmEwNThkMjNkNTVmZTA0MTNkZjFiMTZiNDY0",
   "tracks": [
     {
       "added_at": "2024-01-23 19:55:12",
@@ -303,26 +303,6 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 272893,
-      "name": "When You Believe - from The Prince of Egypt",
-      "url": "https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
         "name": "La La Land (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 149706,
       "name": "City Of Stars - From \"La La Land\" Soundtrack",
       "url": "https://open.spotify.com/track/6XQHlsNu6so4PdglFkJQRJ"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 272893,
+      "name": "When You Believe - from The Prince of Egypt",
+      "url": "https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S"
     },
     {
       "added_at": "2024-01-23 19:55:12",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
+        "name": "Coco (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Bratt",
+          "url": "https://open.spotify.com/artist/52H65pWOSERcDK6uVFRwN8"
+        }
+      ],
+      "duration_ms": 109280,
+      "name": "Remember Me (Ernesto de la Cruz)",
+      "url": "https://open.spotify.com/track/4ljlAxfaEjO4Q4g9FMtVj4"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
         "name": "Diwali Special Party Songs",
         "url": "https://open.spotify.com/album/6kI3uUHVh0rBi2faNqddnz"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 214207,
       "name": "Naacho Naacho (From \"Rrr\")",
       "url": "https://open.spotify.com/track/23lZ18elMHEVBMeSm2xxAC"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
-        "name": "Coco (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Bratt",
-          "url": "https://open.spotify.com/artist/52H65pWOSERcDK6uVFRwN8"
-        }
-      ],
-      "duration_ms": 109280,
-      "name": "Remember Me (Ernesto de la Cruz)",
-      "url": "https://open.spotify.com/track/4ljlAxfaEjO4Q4g9FMtVj4"
     },
     {
       "added_at": "2024-01-23 19:55:12",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
+        "name": "The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/38x0H9PdY1fHh8EdfPUXqa"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 347600,
+      "name": "Into the West",
+      "url": "https://open.spotify.com/track/0gSEyG7pOFuHM05433EibX"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
         "name": "The Muppets (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mahHDhPnuYMbo3sXOEW50"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 177533,
       "name": "Man Or Muppet",
       "url": "https://open.spotify.com/track/1JyG5yuwpN0VIi4wbqvDfB"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
-        "name": "The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/38x0H9PdY1fHh8EdfPUXqa"
-      },
-      "artists": [
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        }
-      ],
-      "duration_ms": 347600,
-      "name": "Into the West",
-      "url": "https://open.spotify.com/track/0gSEyG7pOFuHM05433EibX"
     },
     {
       "added_at": "2024-01-23 19:55:12",

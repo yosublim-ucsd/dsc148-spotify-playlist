@@ -4,7 +4,7 @@
 
 > Take a world tour on the club floor\. <br/>Cover: DJ Swisha
 
-200 songs - 10 hr 39 min
+201 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [attachment \(she wanna love\)](https://open.spotify.com/track/6pNa6wVEk5RdxRgGhab77S) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Bossa](https://open.spotify.com/artist/1c7g2IlcGxfR51B2axtFbC), [Kanii Archive](https://open.spotify.com/artist/0FTGkFA0UcAfMR9f7p1djv) | [attachment \(she wanna love\)](https://open.spotify.com/album/4dfembGAqkVP5BAm2F8HAl) | 1:28 | 2022-12-12 | 2023-02-25 |
 | [B2B](https://open.spotify.com/track/3OrMbFUgXjchOYTU8TeLO7) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [B2B / Black Roses](https://open.spotify.com/album/7rs4RT4DkkGWpdxT9belLA) | 3:44 | 2021-12-10 | 2022-10-14 |
 | [B2B](https://open.spotify.com/track/53pVSqKR9rgrr6iGs98JqO) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [B2B / Black Roses](https://open.spotify.com/album/7w1h2MpwzFTTGpa2pbJbK1) | 3:44 | 2022-09-30 |  |
-| [BADBOI](https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY), [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [BADBOI](https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN) | 3:16 | 2022-07-08 |  |
+| [BADBOI](https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY), [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [BADBOI](https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN) | 3:16 | 2022-07-08 | 2024-01-28 |
 | [BaDinga \- Reloaded](https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [TWRK](https://open.spotify.com/artist/2wo3eLY26t8AMyYuYi1pZQ) | [BaDinga \(Reloaded\)](https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W) | 2:48 | 2021-12-10 |  |
 | [Balinha da Alegria](https://open.spotify.com/track/4zHsjExrJLvh0jYU0kAH0r) | [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Balinha da Alegria](https://open.spotify.com/album/0z0NBoZejHXlZKQFSP5YMJ) | 2:40 | 2022-11-18 | 2023-02-25 |
 | [Ball And Chain](https://open.spotify.com/track/0zD50HrXQAuuRlFyxIoCtx) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Svengali](https://open.spotify.com/album/2h8f7vS40iywANXRz0tiYL) | 2:34 | 2022-10-28 | 2023-02-25 |
@@ -160,6 +160,7 @@
 | [So So \(davOmakesbeats Remix\)](https://open.spotify.com/track/37KO7hfi5OHFqyOzv9kRWV) | [Planet Booty](https://open.spotify.com/artist/0muFMgF5rWwcV5Ib8Bx1Av), [davOmakesbeats](https://open.spotify.com/artist/0GVhd3aIFJzTSgnBpIO5aj) | [So So \(davOmakesbeats Remix\)](https://open.spotify.com/album/1bflKsk6dTuyvvFOlTkffg) | 3:28 | 2022-08-12 | 2022-09-13 |
 | [Something Else](https://open.spotify.com/track/1QfBG4EMitoLtVy1796F8A) | [Black Rave Culture](https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS) | [Black Rave Culture Vol 2](https://open.spotify.com/album/6soc0L7CgYTEVEx3dNBLoy) | 5:48 | 2022-06-10 | 2023-05-28 |
 | [Space and Time](https://open.spotify.com/track/2NHtAJhXVOnSIN2lZhbpWz) | [Yacht Money](https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8), [NAWAS](https://open.spotify.com/artist/58l4CfKVxJcp2tYu7Ux2up), [Riot Forge](https://open.spotify.com/artist/35RzeuBuxE2nnnzdtYsTZH), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Space and Time](https://open.spotify.com/album/1Wv3UDxtjeoUYbWzMoWNyk) | 3:10 | 2023-05-26 |  |
+| [Squad Up](https://open.spotify.com/track/1MNSnH2vMRV12gDZTGwFNN) | [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR), [Big Dope P](https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr) | [Squad Up](https://open.spotify.com/album/1S2JXFkTAuO1OYBF1uvwvj) | 2:46 | 2024-01-26 |  |
 | [Sri Lanka](https://open.spotify.com/track/58oUv4YvqAthrjI0fMnYUI) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [PGS Spence](https://open.spotify.com/artist/6hj6U8Z1Akxw93EKtbALqx), [D STURDY](https://open.spotify.com/artist/1IgVVWaJUmYNxAWpN1nmnr) | [Sri Lanka](https://open.spotify.com/album/1L3i8chDu8LRbQB2DSWe8d) | 1:56 | 2022-07-08 |  |
 | [STAND BACK \(RELOADED\)](https://open.spotify.com/track/3xGJbb2zbqialftjg7Jh16) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [93rd](https://open.spotify.com/artist/5J4q52NSlOOu2qN2gOWFzx), [Killa Kherk Cobain](https://open.spotify.com/artist/2cYXDFsvkmjGSkMPBlRf3K) | [STAND BACK \(RELOADED\)](https://open.spotify.com/album/3374aupZhZ7bPEgjqezXJV) | 2:37 | 2021-12-10 |  |
 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 | 2022-07-08 |  |

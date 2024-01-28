@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 58806,
+  "2024-01-28": 58779,
   "date_first_scraped": "2022-01-09",
   "description": "Fresh releases from your future favorite artists. Cover: No Lore Artwork: Isu Kim\n",
   "name": "Fresh Finds Philippines",
@@ -5335,6 +5335,24 @@
       "duration_ms": 222857,
       "name": "bored.",
       "url": "https://open.spotify.com/track/4sGjqrd8BII3KoS9fB8TAl"
+    },
+    {
+      "album": {
+        "name": "Born Of The Spirit",
+        "url": "https://open.spotify.com/album/2RM86TmHIivNAtRclUcuOD"
+      },
+      "artists": [
+        {
+          "name": "The Power Of X",
+          "url": "https://open.spotify.com/artist/6hYR3NQ6MpYvXIgjLmZDWO"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Born Of The Spirit",
+      "url": "https://open.spotify.com/track/0tG1M6QkmC4Lybgb34Qe4k"
     },
     {
       "album": {

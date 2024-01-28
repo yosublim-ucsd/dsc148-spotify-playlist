@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 153101,
+  "2024-01-28": 152957,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Dominican Republic.",
   "name": "Top 50 - Dominican Republic",
@@ -3623,7 +3623,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 128785,
       "name": "Chu Chu",
       "url": "https://open.spotify.com/track/6RnTMsD7ygLNZ4QfbgudXg"
@@ -4745,7 +4745,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 215000,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/2E9bJ7vsFylaYwLwf6dH4f"
@@ -8427,7 +8427,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 190243,
       "name": "F\u00e9, Cojones y Paciencia",
       "url": "https://open.spotify.com/track/0KK2eoNnggdrfUU6sMqRoR"
@@ -9489,7 +9489,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 196600,
       "name": "Hey Mor",
       "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
@@ -13501,7 +13501,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 222272,
       "name": "Mama's Boy",
       "url": "https://open.spotify.com/track/6s0WTmorTss8VsEzsHApKt"
@@ -14437,7 +14437,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 141818,
       "name": "Mencionar",
       "url": "https://open.spotify.com/track/5gEkHtIiOoTuKqcMyxVrqJ"
@@ -17401,6 +17401,24 @@
     {
       "album": {
         "name": "Pegate",
+        "url": "https://open.spotify.com/album/1zR1R2Q6O5M3pWfNSHWHTp"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165168,
+      "name": "Pegate",
+      "url": "https://open.spotify.com/track/11XrHu3CzdiQWxxDRZBni3"
+    },
+    {
+      "album": {
+        "name": "Pegate",
         "url": "https://open.spotify.com/album/1zuCkXUiufmwa109bTEQOA"
       },
       "artists": [
@@ -20233,6 +20251,36 @@
       "duration_ms": 248768,
       "name": "RUMBAT\u00d3N",
       "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
+    },
+    {
+      "album": {
+        "name": "Rumine",
+        "url": "https://open.spotify.com/album/07npxyUMShHTvm5vTvhtJl"
+      },
+      "artists": [
+        {
+          "name": "El Chuky De Lewa",
+          "url": "https://open.spotify.com/artist/4TxFZEk9YEPGUBrXPNwSpb"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Kaly Ocho",
+          "url": "https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD"
+        },
+        {
+          "name": "Kreizy k",
+          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177760,
+      "name": "Rumine",
+      "url": "https://open.spotify.com/track/3K8ek4n0oRmhNuygMyrMfQ"
     },
     {
       "album": {

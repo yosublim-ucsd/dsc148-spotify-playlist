@@ -603,6 +603,28 @@
     },
     {
       "album": {
+        "name": "Charles Ans (En Vivo Desde Casa Lwky)",
+        "url": "https://open.spotify.com/album/2G0vUYAg6WsS4H11eyjRAR"
+      },
+      "artists": [
+        {
+          "name": "LWKY",
+          "url": "https://open.spotify.com/artist/0TUQiIFFiiD3kz3tGfMr8e"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Lqra Session #9 - En Vivo Desde Casa Lwky",
+      "url": "https://open.spotify.com/track/4QqcketNTakQ0A4WiaCydp"
+    },
+    {
+      "album": {
         "name": "De Inmensidades",
         "url": "https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY"
       },

@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 307115,
+  "2024-01-28": 307463,
   "date_first_scraped": "2022-07-19",
   "description": "Respira profundamente y relaja tu mente.",
   "name": "M\u00fasica para Meditar",
@@ -762,6 +762,24 @@
     },
     {
       "album": {
+        "name": "Coherence",
+        "url": "https://open.spotify.com/album/2JzNv0ZN7HlwyGNrkBlP14"
+      },
+      "artists": [
+        {
+          "name": "Distant Dreams",
+          "url": "https://open.spotify.com/artist/4YJcFIbKdvMxTzfwJDEUbY"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Coherence",
+      "url": "https://open.spotify.com/track/2vjurdtpGGt8qTXEEy0tF1"
+    },
+    {
+      "album": {
         "name": "Colours",
         "url": "https://open.spotify.com/album/7gS11TlkTwLYdH2lEJi3kd"
       },
@@ -1371,6 +1389,24 @@
       "duration_ms": 124814,
       "name": "Ethereal Sleep",
       "url": "https://open.spotify.com/track/7HTqClPkU89EhgJi2CO3G5"
+    },
+    {
+      "album": {
+        "name": "Ethereal Vibes",
+        "url": "https://open.spotify.com/album/4kykxUC16LV7Zdtp3C10j3"
+      },
+      "artists": [
+        {
+          "name": "Trevor Marson",
+          "url": "https://open.spotify.com/artist/4HY7iJRgI9SLocwSY7nZja"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Ethereal Vibes",
+      "url": "https://open.spotify.com/track/2RkFPrq3jcUFGQiOdpxgvw"
     },
     {
       "album": {
@@ -2275,6 +2311,24 @@
       "duration_ms": 138983,
       "name": "Lucens",
       "url": "https://open.spotify.com/track/2A2PrM5rdbQPHQIaDZnxCu"
+    },
+    {
+      "album": {
+        "name": "Luminus Circle",
+        "url": "https://open.spotify.com/album/3R35qejYTRWTxl5g62TSom"
+      },
+      "artists": [
+        {
+          "name": "De Ester",
+          "url": "https://open.spotify.com/artist/0dbcAyHyp9aAsEqAAZHjr4"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "Luminus Circle",
+      "url": "https://open.spotify.com/track/6SL08B5P8DpWGGOH9jypaq"
     },
     {
       "album": {
@@ -3413,6 +3467,24 @@
       "duration_ms": 209651,
       "name": "Serene Balance",
       "url": "https://open.spotify.com/track/2xKFUeL4g61DZnNzgCzw2k"
+    },
+    {
+      "album": {
+        "name": "Shadow Scape",
+        "url": "https://open.spotify.com/album/58jsMRx6Nn9pcTSqs7T37N"
+      },
+      "artists": [
+        {
+          "name": "Ephemeral Odyssey",
+          "url": "https://open.spotify.com/artist/5If4W5LdMaQuxNjbWXqgif"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179130,
+      "name": "Shadow Scape",
+      "url": "https://open.spotify.com/track/5TGJIsUo3MOjlD2N88nHey"
     },
     {
       "album": {

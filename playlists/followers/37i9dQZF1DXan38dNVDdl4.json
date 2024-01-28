@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 1027137,
+  "2024-01-28": 1026866,
   "date_first_scraped": "2021-12-21",
   "description": "The biggest Dancehall playlist in the world. Cover: Jada Kingdom",
   "name": "Dancehall Official",
@@ -1865,6 +1865,28 @@
       "duration_ms": 223477,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/4s5F9S2VO5yEcVfxdvMgCO"
+    },
+    {
+      "album": {
+        "name": "Dip (feat. Tommy Lee Sparta)",
+        "url": "https://open.spotify.com/album/7zyoP8BuPaQpMZRjqYqe62"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        },
+        {
+          "name": "Tommy Lee Sparta",
+          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Dip (feat. Tommy Lee Sparta)",
+      "url": "https://open.spotify.com/track/35VwdDhUnGuMJt5pdpRBqn"
     },
     {
       "album": {

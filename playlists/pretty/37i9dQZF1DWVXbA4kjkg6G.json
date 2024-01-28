@@ -1,12 +1,12 @@
 {
   "description": "Atmospheric textures & downtempo beats. Cover: Beth Gibbons of Portishead ",
-  "num_followers": 473491,
+  "num_followers": 473734,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGVjZWNjNjhkZTFhODRmNDU4OTU0ODhhMTJkN2ViM2JkZmMyOTg2",
+  "snapshot_id": "MCw5MjBkNTlhZThjYzk0ZDE4MDQzMzZjYjhlNWQ4MTU0ZmMwMzIyN2U5",
   "tracks": [
     {
       "added_at": "2023-06-20 20:30:21",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Deadringer: Deluxe",
-        "url": "https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj"
+        "name": "Exit Planet Dust",
+        "url": "https://open.spotify.com/album/1Bmuyq89rXZJNK1w8pauEg"
       },
       "artists": [
         {
-          "name": "RJD2",
-          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
         }
       ],
-      "duration_ms": 266200,
-      "name": "Smoke & Mirrors",
-      "url": "https://open.spotify.com/track/2C1nOw1nRxJaBWb9I1x05A"
+      "duration_ms": 332788,
+      "name": "Leave Home",
+      "url": "https://open.spotify.com/track/4mFDB35IaTzrzqMn4spMqo"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -371,38 +371,34 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Exit Planet Dust",
-        "url": "https://open.spotify.com/album/1Bmuyq89rXZJNK1w8pauEg"
+        "name": "Deadringer: Deluxe",
+        "url": "https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj"
       },
       "artists": [
         {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+          "name": "RJD2",
+          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
         }
       ],
-      "duration_ms": 332788,
-      "name": "Leave Home",
-      "url": "https://open.spotify.com/track/4mFDB35IaTzrzqMn4spMqo"
+      "duration_ms": 266200,
+      "name": "Smoke & Mirrors",
+      "url": "https://open.spotify.com/track/2C1nOw1nRxJaBWb9I1x05A"
     },
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Psyence Fiction",
-        "url": "https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS"
+        "name": "DJ-Kicks",
+        "url": "https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53"
       },
       "artists": [
         {
-          "name": "UNKLE",
-          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
-        },
-        {
-          "name": "Thom Yorke",
-          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
         }
       ],
-      "duration_ms": 376160,
-      "name": "Rabbit in Your Headlights",
-      "url": "https://open.spotify.com/track/6CQiD0STiKFsjSdVKtztjJ"
+      "duration_ms": 380786,
+      "name": "Black Baby (DJ-KiCKS)",
+      "url": "https://open.spotify.com/track/13FO5ag4v62zedndUziMI7"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -423,18 +419,22 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "DJ-Kicks",
-        "url": "https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53"
+        "name": "Psyence Fiction",
+        "url": "https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS"
       },
       "artists": [
         {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+          "name": "UNKLE",
+          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+        },
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
         }
       ],
-      "duration_ms": 380786,
-      "name": "Black Baby (DJ-KiCKS)",
-      "url": "https://open.spotify.com/track/13FO5ag4v62zedndUziMI7"
+      "duration_ms": 376160,
+      "name": "Rabbit in Your Headlights",
+      "url": "https://open.spotify.com/track/6CQiD0STiKFsjSdVKtztjJ"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "G-Stoned",
-        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 386266,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Let's Get Killed",
         "url": "https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 278346,
       "name": "Terrapin",
       "url": "https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "G-Stoned",
+        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 386266,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "USSR Repertoire / The Theory Of Verticality",
-        "url": "https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv"
+        "name": "Ninja Cuts - Funkjazztical Tricknology",
+        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
       },
       "artists": [
         {
-          "name": "DJ Vadim",
-          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
+          "name": "DJ Food",
+          "url": "https://open.spotify.com/artist/4NZM5xKuDpGc4vEHDwGO1Q"
         }
       ],
-      "duration_ms": 129400,
-      "name": "The Next Shit",
-      "url": "https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC"
+      "duration_ms": 245946,
+      "name": "Dark Lady",
+      "url": "https://open.spotify.com/track/2eALAfP2PfljNcjlHPXDQY"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Ninja Cuts - Funkjazztical Tricknology",
-        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
+        "name": "USSR Repertoire / The Theory Of Verticality",
+        "url": "https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv"
       },
       "artists": [
         {
-          "name": "DJ Food",
-          "url": "https://open.spotify.com/artist/4NZM5xKuDpGc4vEHDwGO1Q"
+          "name": "DJ Vadim",
+          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
         }
       ],
-      "duration_ms": 245946,
-      "name": "Dark Lady",
-      "url": "https://open.spotify.com/track/2eALAfP2PfljNcjlHPXDQY"
+      "duration_ms": 129400,
+      "name": "The Next Shit",
+      "url": "https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Turn The Dark Off",
-        "url": "https://open.spotify.com/album/4t0n6rx2Y2yZKX9rXZ3lId"
+        "name": "Bricolage",
+        "url": "https://open.spotify.com/album/0DFvcq1cdpIdQxavKkEVCH"
       },
       "artists": [
         {
-          "name": "Howie B.",
-          "url": "https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG"
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
         }
       ],
-      "duration_ms": 264573,
-      "name": "Who's Got The Bacon?",
-      "url": "https://open.spotify.com/track/5NrhncrVseX744Lh505exA"
+      "duration_ms": 353426,
+      "name": "Stoney Street",
+      "url": "https://open.spotify.com/track/0GeezbrS87YZgXuyksdg2q"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Bricolage",
-        "url": "https://open.spotify.com/album/0DFvcq1cdpIdQxavKkEVCH"
+        "name": "Turn The Dark Off",
+        "url": "https://open.spotify.com/album/4t0n6rx2Y2yZKX9rXZ3lId"
       },
       "artists": [
         {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+          "name": "Howie B.",
+          "url": "https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG"
         }
       ],
-      "duration_ms": 353426,
-      "name": "Stoney Street",
-      "url": "https://open.spotify.com/track/0GeezbrS87YZgXuyksdg2q"
+      "duration_ms": 264573,
+      "name": "Who's Got The Bacon?",
+      "url": "https://open.spotify.com/track/5NrhncrVseX744Lh505exA"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "London Funk Volume 1",
-        "url": "https://open.spotify.com/album/3mwJkbOsAEobKg21Ad5bMa"
-      },
-      "artists": [
-        {
-          "name": "London Funk Allstars",
-          "url": "https://open.spotify.com/artist/2NTMckStRtgsN3A6LacOR6"
-        }
-      ],
-      "duration_ms": 285933,
-      "name": "Listen To The Beat",
-      "url": "https://open.spotify.com/track/7wULNOKU99VregJA264okG"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Who Can You Trust? / Beats & B-Sides",
         "url": "https://open.spotify.com/album/7JNlNgL1TlnWn669RaEKhr"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 536613,
       "name": "Who Can You Trust?",
       "url": "https://open.spotify.com/track/3e2UEWneapoIT6Bh7AaGkl"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "London Funk Volume 1",
+        "url": "https://open.spotify.com/album/3mwJkbOsAEobKg21Ad5bMa"
+      },
+      "artists": [
+        {
+          "name": "London Funk Allstars",
+          "url": "https://open.spotify.com/artist/2NTMckStRtgsN3A6LacOR6"
+        }
+      ],
+      "duration_ms": 285933,
+      "name": "Listen To The Beat",
+      "url": "https://open.spotify.com/track/7wULNOKU99VregJA264okG"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -1131,8 +1131,8 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Ninja Cuts - Funkjazztical Tricknology",
-        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
+        "name": "Hed Phone Sex",
+        "url": "https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW"
       },
       "artists": [
         {
@@ -1140,9 +1140,9 @@
           "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
         }
       ],
-      "duration_ms": 241760,
-      "name": "Long Road",
-      "url": "https://open.spotify.com/track/2b1E782QABZaTux77fwlbV"
+      "duration_ms": 441866,
+      "name": "B Monkey",
+      "url": "https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Earth, Vol. 2",
-        "url": "https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk"
-      },
-      "artists": [
-        {
-          "name": "Artemis",
-          "url": "https://open.spotify.com/artist/4EPlTAt2kHslwke6grsplV"
-        }
-      ],
-      "duration_ms": 342500,
-      "name": "Silver Dawn",
-      "url": "https://open.spotify.com/track/49LEjOtuNavbyEDa81CgTX"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Ninja Cuts - Funkjazztical Tricknology",
         "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 245493,
       "name": "Black Jesus",
       "url": "https://open.spotify.com/track/6JKFK3xmbsemZvLA40R7KH"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Earth, Vol. 2",
+        "url": "https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk"
+      },
+      "artists": [
+        {
+          "name": "Artemis",
+          "url": "https://open.spotify.com/artist/4EPlTAt2kHslwke6grsplV"
+        }
+      ],
+      "duration_ms": 342500,
+      "name": "Silver Dawn",
+      "url": "https://open.spotify.com/track/49LEjOtuNavbyEDa81CgTX"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -1227,8 +1227,8 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Hed Phone Sex",
-        "url": "https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW"
+        "name": "Ninja Cuts - Funkjazztical Tricknology",
+        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
       },
       "artists": [
         {
@@ -1236,9 +1236,9 @@
           "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
         }
       ],
-      "duration_ms": 441866,
-      "name": "B Monkey",
-      "url": "https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm"
+      "duration_ms": 241760,
+      "name": "Long Road",
+      "url": "https://open.spotify.com/track/2b1E782QABZaTux77fwlbV"
     },
     {
       "added_at": "2023-06-20 20:30:21",

@@ -969,6 +969,24 @@
     },
     {
       "album": {
+        "name": "Ala Fekra",
+        "url": "https://open.spotify.com/album/2WAbd2SNR3NuetCFRp4uB8"
+      },
+      "artists": [
+        {
+          "name": "Rawan Bin Hussain",
+          "url": "https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197077,
+      "name": "Ala Fekra",
+      "url": "https://open.spotify.com/track/0WeYHVHRImagDo5teUkDOw"
+    },
+    {
+      "album": {
         "name": "\u0642\u0644\u0628\u064a \u0627\u0644\u0648",
         "url": "https://open.spotify.com/album/2jEyAidrKSxLYj8lsz0H4Y"
       },

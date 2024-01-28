@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Sarah Jarosz
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,658 likes - 150 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,077 likes - 150 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Go Outside \(From Natural Bridge State Resort Park\)](https://open.spotify.com/track/0BV9UP7LuS5hrst58oKVBc) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Go Outside \(From Natural Bridge State Resort Park\)](https://open.spotify.com/album/2zHjeynhqTT8ibluQR2Bda) | 3:04 |
 | 150 | [All My Worst Ideas](https://open.spotify.com/track/3vFUf6MhUxiy1YtjvxUaV3) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [All My Worst Ideas](https://open.spotify.com/album/4mKxxoVswgNNEp3pCOyiZ2) | 4:33 |
 
-Snapshot ID: `MCxiMDU0NWIwODdjNzc4OTZkZWVjY2U2ODU4ZGU3YmIyNmYxMjBmNTc1`
+Snapshot ID: `MCxhYWE0MTUyMDlmMmM4M2ZhZWFiZmYzNTQ4MDJhMGIzNDU2ZWU3Njc3`

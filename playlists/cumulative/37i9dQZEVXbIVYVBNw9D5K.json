@@ -23,6 +23,36 @@
     },
     {
       "album": {
+        "name": "#PHONKFREESTYLE",
+        "url": "https://open.spotify.com/album/0OYDRhRornVSIIeHrjvScc"
+      },
+      "artists": [
+        {
+          "name": "DEHA INC.",
+          "url": "https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh"
+        },
+        {
+          "name": "\u015eehin\u015fah",
+          "url": "https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA"
+        },
+        {
+          "name": "Reckol",
+          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
+        },
+        {
+          "name": "13 Killoki",
+          "url": "https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "#PHONKFREESTYLE",
+      "url": "https://open.spotify.com/track/3Ei2OxIID6rSuPkvp6dIGP"
+    },
+    {
+      "album": {
         "name": "Kara Tiyatro",
         "url": "https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe"
       },
@@ -832,7 +862,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 149642,
       "name": "Aman G\u00fczel Yava\u015f Y\u00fcr\u00fc",
       "url": "https://open.spotify.com/track/2uZ7RwAWJiLQUkupslGAVZ"
@@ -6000,7 +6030,7 @@
       ],
       "date_added": "2021-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 207915,
       "name": "Gitme",
       "url": "https://open.spotify.com/track/4Sng3wnol2Gb2yXgFdr9lj"
@@ -6588,6 +6618,24 @@
       "duration_ms": 226000,
       "name": "G\u00f6zya\u015f\u0131 Rapsodi 3",
       "url": "https://open.spotify.com/track/7uECo8F02dr0NrMLCPP1Xr"
+    },
+    {
+      "album": {
+        "name": "G\u00fcl\u00fc\u015f\u00fcne Yan\u0131yorum",
+        "url": "https://open.spotify.com/album/0j819GekftC9QyypkgPlLx"
+      },
+      "artists": [
+        {
+          "name": "Amo988",
+          "url": "https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123765,
+      "name": "G\u00fcl\u00fc\u015f\u00fcne Yan\u0131yorum",
+      "url": "https://open.spotify.com/track/1u2disQzfl3rUEhfZx35gL"
     },
     {
       "album": {
@@ -8000,7 +8048,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 143004,
       "name": "\u0130stanbul",
       "url": "https://open.spotify.com/track/0IwoMJSeyKvHncd3XDYboj"
@@ -8026,6 +8074,28 @@
       "duration_ms": 143004,
       "name": "\u0130stanbul",
       "url": "https://open.spotify.com/track/5WO3fQkU2Stfv6LGzwhwFL"
+    },
+    {
+      "album": {
+        "name": "\u0130STANBUL",
+        "url": "https://open.spotify.com/album/4NyR5G4ZqFgBn3Xst6NCV8"
+      },
+      "artists": [
+        {
+          "name": "Etki",
+          "url": "https://open.spotify.com/artist/2eHCB9X3BalOW2a3zjYJeg"
+        },
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184792,
+      "name": "\u0130STANBUL",
+      "url": "https://open.spotify.com/track/6GKAf3Sq0W8flUosmCirK7"
     },
     {
       "album": {
@@ -8506,6 +8576,24 @@
       "duration_ms": 147136,
       "name": "Kapak Olsun",
       "url": "https://open.spotify.com/track/4yThcjBXiBsiP8QxFraRG1"
+    },
+    {
+      "album": {
+        "name": "Kapal\u0131 Kap\u0131lar",
+        "url": "https://open.spotify.com/album/4LQUHqj3yzAz5zQXR1w296"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Kapal\u0131 Kap\u0131lar",
+      "url": "https://open.spotify.com/track/4tFRoWT0hpshwYHAaDxcLj"
     },
     {
       "album": {
@@ -13068,7 +13156,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 188500,
       "name": "Seni Dert Etmeler",
       "url": "https://open.spotify.com/track/10n66m41IGjA2ZulKPK7Ew"
@@ -13440,6 +13528,24 @@
       "duration_ms": 177959,
       "name": "Sherlock Holmes - Tirat",
       "url": "https://open.spotify.com/track/0VtY1lmgsWOv6ciozU0DEn"
+    },
+    {
+      "album": {
+        "name": "SHOT",
+        "url": "https://open.spotify.com/album/4F8PlrZQCOIdkFp1ABInsn"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108551,
+      "name": "SHOT",
+      "url": "https://open.spotify.com/track/7MEOvvU8t9rx8b4hWemnWW"
     },
     {
       "album": {
@@ -16314,7 +16420,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 106610,
       "name": "\u015ealteri Kapatt\u0131m",
       "url": "https://open.spotify.com/track/1PqVXQrffEeYMgcnrAs4Gb"

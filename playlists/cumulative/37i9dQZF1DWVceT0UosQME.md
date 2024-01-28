@@ -4,7 +4,7 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-508 songs - 19 hr 26 min
+509 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Audemars Pigeon](https://open.spotify.com/track/7iFiiIo6y2jNsmnWJaGUpz) | [Wruce Billis](https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx) | [Audemars Pigeon](https://open.spotify.com/album/5urVLzzVGsvI0lNH1ufLGI) | 2:20 | 2024-01-05 |  |
 | [Aurora Village](https://open.spotify.com/track/5uMKK3FM8xuOtBQ4r5kHsV) | [Venn Divi](https://open.spotify.com/artist/0xMjjTrZmBI1AxzgRKFmPi) | [Aurora Village](https://open.spotify.com/album/1GEp44Hx7irB4w6RmOadUq) | 2:33 | 2024-01-05 |  |
 | [Autopilot](https://open.spotify.com/track/7qwKNJIHESKRCZhMVEryi0) | [Vrouzli](https://open.spotify.com/artist/5UdyPviMkdOWjnawTiCFch) | [Autopilot](https://open.spotify.com/album/4zkTVG3n8JMJ97rBPvRcWv) | 2:08 | 2024-01-05 |  |
-| [Autumn Air](https://open.spotify.com/track/6rHLRiZ8YYwO03he7OJQU2) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [Autumn Air](https://open.spotify.com/album/1LOTpCIncHlI19boa03gC5) | 2:19 | 2024-01-05 | 2024-01-26 |
+| [Autumn Air](https://open.spotify.com/track/6rHLRiZ8YYwO03he7OJQU2) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [Autumn Air](https://open.spotify.com/album/1LOTpCIncHlI19boa03gC5) | 2:19 | 2024-01-05 |  |
 | [Autumn Stroll](https://open.spotify.com/track/5EAColl6xt8Gnm8fNG05hO) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Autumn Stroll](https://open.spotify.com/album/4n6WWpN0P3MsBU4OTFXFIM) | 1:58 | 2024-01-05 |  |
 | [Ayways](https://open.spotify.com/track/1divZI9KtgP416oHCwBJE1) | [A & C](https://open.spotify.com/artist/5XIPbKxnUddeoJ2HIlsM6A) | [Ayways](https://open.spotify.com/album/1JrIdcauTrqt2sJKvYwXnQ) | 1:54 | 2024-01-05 |  |
 | [Backwards](https://open.spotify.com/track/3kiPyaxjjdXnR7SAvQvy5W) | [Lazy Lama](https://open.spotify.com/artist/2OIClIFaDrHXq6ilh3bICZ) | [Backwards](https://open.spotify.com/album/4uRWNT5GJ4dq1Nym8N1uFN) | 2:42 | 2024-01-05 | 2024-01-22 |
@@ -189,7 +189,7 @@
 | [Good As You](https://open.spotify.com/track/4r0wRQ7pw3ACGqNAKst3vB) | [Olle NB](https://open.spotify.com/artist/5HpbRGf62WXEBZbbMBCx80) | [Phases](https://open.spotify.com/album/01BpB45Lmbt3hZzurYa3It) | 1:39 | 2024-01-05 |  |
 | [good times](https://open.spotify.com/track/32gMxI1qGmOK0Rfaxqrufn) | [3scope](https://open.spotify.com/artist/4GoytqouEDWR5VebZhvPVU) | [good times](https://open.spotify.com/album/2NXPvtH4gusbeXOPpORfrN) | 2:24 | 2024-01-05 |  |
 | [Got It](https://open.spotify.com/track/2Z94cduAGpcMsSDy1QUv4l) | [Keyser](https://open.spotify.com/artist/52XeGIGAMhVqec1ev8t3Qc) | [Got It](https://open.spotify.com/album/5hBgxAYtyev9MdBcpS8sAZ) | 2:05 | 2024-01-05 |  |
-| [gramophone groove](https://open.spotify.com/track/1o0sTvsEd5nIx3kFHtDXeP) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [gramophone groove](https://open.spotify.com/album/7IGbYhHDbq2orgTHMdjJ1a) | 2:12 | 2024-01-05 |  |
+| [gramophone groove](https://open.spotify.com/track/1o0sTvsEd5nIx3kFHtDXeP) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [gramophone groove](https://open.spotify.com/album/7IGbYhHDbq2orgTHMdjJ1a) | 2:12 | 2024-01-05 | 2024-01-28 |
 | [Grass and River](https://open.spotify.com/track/6K0Pw82tPWRDMBfJfsbLte) | [Speezhead](https://open.spotify.com/artist/7Bg8y3H9sNWsbm2tnThkpA) | [Grass and River](https://open.spotify.com/album/0BCjyDpUUvRTPUGbLHWaF7) | 2:46 | 2024-01-05 |  |
 | [Green Coco](https://open.spotify.com/track/5lQhlSIPhc0x7VQ2cPLe6P) | [Alana Coello](https://open.spotify.com/artist/2el9nQDcHdJ1kFvoMPz1KT) | [Green Coco](https://open.spotify.com/album/5Jz1CJwWTof9wJnC1a7Usq) | 2:53 | 2024-01-05 |  |
 | [Grey Grey Sky](https://open.spotify.com/track/1Ja3HxkCvHjv4Vi9I7Crp0) | [Low Key Persona](https://open.spotify.com/artist/1c8LSH695KiZELRZeGUbeb) | [Grey Grey Sky](https://open.spotify.com/album/5eUIfgdL6gN8FDwJciEf7E) | 1:54 | 2024-01-05 |  |
@@ -458,6 +458,7 @@
 | [The Day Before Yesterday](https://open.spotify.com/track/7peXxoGUQw6hVftcKNIN6J) | [merīkurisumasu!](https://open.spotify.com/artist/0YXdpycTC7il4RJ9lXmJv0) | [The Day Before Yesterday](https://open.spotify.com/album/4rJbIrWhBpge9CP2ULnDqS) | 2:02 | 2024-01-05 |  |
 | [the neighborhood](https://open.spotify.com/track/6nZIx6Ck3oNPR1L5FblIY0) | [ninetytwo.](https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V) | [the neighborhood](https://open.spotify.com/album/4fvFegKW9QME1hmJVigINz) | 2:09 | 2024-01-05 |  |
 | [The Next Stop Is](https://open.spotify.com/track/476oazZv3c5b3I8vwJAGZ5) | [Sugar Coast](https://open.spotify.com/artist/77PPAf37R11s5IiWFGYP3m) | [The Next Stop Is](https://open.spotify.com/album/0EFrr0p72DDQyWqxbnH26m) | 2:31 | 2024-01-05 |  |
+| [The Night Cruise](https://open.spotify.com/track/2464RLkS0S92lfmGQasZU7) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [The Night Cruise](https://open.spotify.com/album/44gBUyhILIO0PSsSmeHBGo) | 2:17 | 2024-01-18 |  |
 | [The Way To Eden](https://open.spotify.com/track/5hwn92Fpw0VK8y7taEHPrF) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [The Way To Eden](https://open.spotify.com/album/2FyEnKHmb477fH0WRy1iOA) | 1:46 | 2024-01-05 |  |
 | [Their Name Is Jazz](https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Their Name Is Jazz](https://open.spotify.com/album/1Z8CkZUbO8MXbOGEP9k7zj) | 2:15 | 2024-01-05 |  |
 | [This is Amsterdam](https://open.spotify.com/track/6DR19qqLR5SmXfMtOvFrrW) | [Flying Animal](https://open.spotify.com/artist/2swCJIywMR8xcM3yCXUFRx) | [This is Amsterdam](https://open.spotify.com/album/10wlmyMecAxIx7bdoIPNzK) | 1:48 | 2024-01-05 |  |
@@ -506,7 +507,7 @@
 | [Wistful Silhouettes](https://open.spotify.com/track/5Ltgq6XMTilOXhNiSQZrVT) | [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41), [alt.bin.beats](https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos) | [Wistful Silhouettes](https://open.spotify.com/album/7bnbpre7jCyEwHu1hT9ngt) | 2:16 | 2024-01-05 |  |
 | [With your eyes!](https://open.spotify.com/track/1USmYJcOKa94oA58sRnOXJ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [With your eyes!](https://open.spotify.com/album/2WomwpHMSA6E2yrMSEJxCI) | 2:29 | 2024-01-05 |  |
 | [Woke](https://open.spotify.com/track/5EGp4crErFOKGNAr7bGtU6) | [Namaskar Blunt](https://open.spotify.com/artist/1YgUnb4dGNkaCsneIunFmm) | [Woke](https://open.spotify.com/album/23iKhQwfBkYI5FOwrnMjar) | 1:42 | 2024-01-05 |  |
-| [wombat](https://open.spotify.com/track/0PXyjded1E0xIDuDphr7EV) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [wombat](https://open.spotify.com/album/7111PKKgdMHNA21d8Y7VKA) | 2:53 | 2024-01-05 |  |
+| [wombat](https://open.spotify.com/track/0PXyjded1E0xIDuDphr7EV) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [wombat](https://open.spotify.com/album/7111PKKgdMHNA21d8Y7VKA) | 2:53 | 2024-01-05 | 2024-01-28 |
 | [Wonders](https://open.spotify.com/track/1X1rPupt0v0EpvmIjGfrPI) | [Hallie](https://open.spotify.com/artist/4LmD8cR6Zd5udgGP2RHGdb) | [Wonders](https://open.spotify.com/album/2t9021Gl3lIMHhQJzJo2Rt) | 2:41 | 2024-01-05 |  |
 | [World Wonders](https://open.spotify.com/track/7ECNeHwthaexm4DlKXoB6L) | [Anex Xi Ko](https://open.spotify.com/artist/49aViG8nPbDT9il51JrGD4) | [World Wonders](https://open.spotify.com/album/3WBitz6lZdhmXpW7Nu7FzO) | 1:58 | 2024-01-05 |  |
 | [wrapped arms](https://open.spotify.com/track/2ubSXCCGBqeqVmAO9MLtJC) | [LisaMadeIt](https://open.spotify.com/artist/5ViVYkn32Af29Mqim9TPj6) | [wrapped arms](https://open.spotify.com/album/23SKlJ7adcyLeKDQcjrZ5E) | 1:57 | 2024-01-05 |  |

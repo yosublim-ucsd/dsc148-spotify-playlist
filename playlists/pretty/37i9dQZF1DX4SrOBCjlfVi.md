@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Ice Spice, Megan Thee Stallion, Kevin Gates and more\. Cover: LUCKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,207 likes - 49 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,357 likes - 49 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,15 +47,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 37 | [Danger](https://open.spotify.com/track/6PZWlB5Z54Ap2FmeUnooMq) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [Danger](https://open.spotify.com/album/6POfEs8ynjGPawz4fQmGXB) | 3:02 |
 | 38 | [Standin' On Bidness!](https://open.spotify.com/track/7dioIGShUMZ1bouCeA1lda) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Standin' On Bidness!](https://open.spotify.com/album/6CLwYkdSCzSjxm3CELa3KW) | 2:11 |
 | 39 | [Got Her](https://open.spotify.com/track/1fEXmvOsSQkOEm6gmNWL6M) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [The Musalini](https://open.spotify.com/artist/53GkgyJhOQ0D9hX1ch9pu5) | [Got Her](https://open.spotify.com/album/2f57hFRXSwWquKCb9wiN0u) | 2:35 |
-| 40 | [Waffle House](https://open.spotify.com/track/7wRkk2WREAGMBdEpMorsda) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A) | [Waffle House](https://open.spotify.com/album/6sytxaodVoEenPlPsZbaBz) | 2:10 |
+| 40 | [Waffle House](https://open.spotify.com/track/7wRkk2WREAGMBdEpMorsda) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A), [LNDN DRGS](https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW) | [Waffle House](https://open.spotify.com/album/6sytxaodVoEenPlPsZbaBz) | 2:10 |
 | 41 | [Ski'd Up](https://open.spotify.com/track/5t75pNr8pZCnllaSWw1LtK) | [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Ski'd Up](https://open.spotify.com/album/6ZCJKxS9Vx9Aq9XrEf9JjV) | 2:10 |
 | 42 | [Damaged](https://open.spotify.com/track/0wQ9VPm6vX7nBRWOwUWJvN) | [Kirk Knight](https://open.spotify.com/artist/1nSpOxq3pcgomrfpXudQuq) | [Damaged](https://open.spotify.com/album/7HGeSA2XERyNCt6pcd06hL) | 1:56 |
 | 43 | [Scared To Lose You](https://open.spotify.com/track/3tcn2UP3cH4ILH0et4CP4N) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe), [Lil Migo](https://open.spotify.com/artist/4weldYkJEu7VzU1lLUQPBF), [Trapionn](https://open.spotify.com/artist/3FRYpVBzB41Fn55erug4KS), [Cy Yung](https://open.spotify.com/artist/31LajuowZeqdfdEvBam2JX) | [Blac Youngsta Presents: Heavy Camp, Checkmate](https://open.spotify.com/album/0SqyNh4ix8J62ZnouuVSCK) | 3:36 |
 | 44 | [Door Dash](https://open.spotify.com/track/14NjvajwODFtcJXpkylDlK) | [GMF Fatboy](https://open.spotify.com/artist/7B8T3S0UZQCAwqqFOQYOrM), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Door Dash](https://open.spotify.com/album/0BYj8oqEiJqKoYneDJmUbh) | 2:26 |
 | 45 | [SIDEWINDER!](https://open.spotify.com/track/6OBtdSvt4uLQ9P8O0dRYNY) | [Sicario](https://open.spotify.com/artist/3q4y3aC1TrsLxhSyQwUwAA), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [SIDEWINDER!](https://open.spotify.com/album/5poaTUVfdDA9DTK3ZNsY8k) | 2:39 |
 | 46 | [Destiny](https://open.spotify.com/track/5eArWUVDGcjO9zNXMYguEW) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [Destiny](https://open.spotify.com/album/1BDtfB8bRHcCaXk0ck9uXW) | 1:36 |
-| 47 | [HOP OUT THE V](https://open.spotify.com/track/3O7kAcFc8I509HUAQWfPD4) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9) | [HOP OUT THE V](https://open.spotify.com/album/1hv0ZoRc0af9dtI7KWHSkm) | 1:35 |
+| 47 | [HOP OUT THE V](https://open.spotify.com/track/3O7kAcFc8I509HUAQWfPD4) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9), [Mir Ebk](https://open.spotify.com/artist/3oqlRWjbqFjXe0l8Ku7coF) | [HOP OUT THE V](https://open.spotify.com/album/1hv0ZoRc0af9dtI7KWHSkm) | 1:35 |
 | 48 | [Citizens App \(Like Bet!\)](https://open.spotify.com/track/7rwB2x5j13FME8pLSUeZJV) | [Kenzo Balla](https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp) | [Citizens App \(Like Bet!\)](https://open.spotify.com/album/5VJmNPnGNO717ac44uXchP) | 2:48 |
 | 49 | [PROUD](https://open.spotify.com/track/6BMx6vhAUj3kXCCttZGpS6) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse) | [C.I.T.Y.](https://open.spotify.com/album/3BpghLhPaXSD4g4mqopCZF) | 3:32 |
 
-Snapshot ID: `MCxlNDZmYjAzZmU1ZWNiYWM0YTY1YzNmZjE4YzljN2Q5NzJlYzk1NDMw`
+Snapshot ID: `MCw0ZGMxZTc2ZWIyMzIyYThiMjVlMTI3ZGFjZjI1YWI3NmIzNjY0NDZk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: The Thing
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,323 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,375 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 49 | [Sister](https://open.spotify.com/track/55YVfVBZg1Jp64iCQNve5S) | [Mermaidens](https://open.spotify.com/artist/5R7higOEVGXOdv9Uqbn8M8) | [Mermaidens](https://open.spotify.com/album/2rBhR0wIXKyiQ0cHRewnQv) | 3:43 |
 | 50 | [PANIC](https://open.spotify.com/track/3PnhtK4RASoRCTFmmhwaBa) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT), [Cahli Blakers](https://open.spotify.com/artist/3vFVbR740T7YnwzUXUhtZh) | [SONDER](https://open.spotify.com/album/2wLkg0aipcOD5RXzQymjBY) | 2:40 |
 | 51 | [Lucca \(Universe\)](https://open.spotify.com/track/61OEqVGvlOmEmwnRg9dOHn) | [Orson Wilds](https://open.spotify.com/artist/3XnFTYeZVpwvW5qQtmWAWe) | [This Burning House \(We All Fell Asleep In\)](https://open.spotify.com/album/6riRi8RGQqHkUYIs89vhjd) | 4:01 |
-| 52 | [REDEMPTION ARC](https://open.spotify.com/track/69uGaFUvNf55i7DbRzpQSU) | [instant crush](https://open.spotify.com/artist/6CzsxPxOIeXoyhmNiFmtmu) | [REDEMPTION ARC](https://open.spotify.com/album/7uge8Yp8wNJ3CB6P4UYkyl) | 3:12 |
+| 52 | [REDEMPTION ARC](https://open.spotify.com/track/6JRqhGQtFgO9mJgisIUreE) | [instant crush](https://open.spotify.com/artist/6CzsxPxOIeXoyhmNiFmtmu) | [REDEMPTION ARC](https://open.spotify.com/album/2bWOtzB4HJXlXPbSc8R2xn) | 3:12 |
 | 53 | [Compete](https://open.spotify.com/track/6UIt6fh0ElnYgiu6yHWey9) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Compete](https://open.spotify.com/album/7amsgxtqnmOBIBCMmNnqLz) | 2:59 |
 | 54 | [The Other End](https://open.spotify.com/track/2dZ5guEuV4s2MoMGRsv4rj) | [Taking Meds](https://open.spotify.com/artist/1SQ5kDSYuCb4qOJx5itFxz) | [The Other End](https://open.spotify.com/album/1itrVD0UAkR2XJjMVjF4nM) | 3:23 |
 | 55 | [oh well](https://open.spotify.com/track/2ZnqebkfOu2u8dV0hMLwtb) | [bugsy](https://open.spotify.com/artist/550HK4Z4yrcThhCm0An7NZ) | [oh well](https://open.spotify.com/album/4U6HcoQYaecJaxqwQELrib) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [It's A Pain](https://open.spotify.com/track/6fYQfO8TdcHsrGsyiHcbP6) | [Bummer Camp](https://open.spotify.com/artist/03PQWgjoaJt88TpMi1dmm5) | [Big Deal](https://open.spotify.com/album/4hclPpxh4OdsHhYc14TpQV) | 2:54 |
 | 100 | [Half Tank](https://open.spotify.com/track/6eeTmM6NgqFKxEyvbN8e5d) | [Wet Nights](https://open.spotify.com/artist/6KfM7n9lgcfBmiz9vrhqF3) | [Half Tank](https://open.spotify.com/album/2cNScKizCqLxWx4REOJ7BF) | 4:06 |
 
-Snapshot ID: `MCw1YTYxYzNhN2ExZTU1YTFjMWUxYjI3OTBmNjhlOTQ3NGY2Y2Y0ZDEw`
+Snapshot ID: `MCxkZDljMTllNWFlODg1MTIzZTk4ZjNjMWQ2Y2EyOTIzMzA4NTBkZWRk`

@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 120266,
+  "2024-01-28": 120310,
   "date_first_scraped": "2023-09-27",
   "description": "Como el humo voy, como el humo vengo... ",
   "name": "HUMO",
@@ -43,6 +43,24 @@
       "duration_ms": 238285,
       "name": "All\u00e1 en las Nubes",
       "url": "https://open.spotify.com/track/6QX8t27PrLrWioxKXMh78L"
+    },
+    {
+      "album": {
+        "name": "Easy To Hate",
+        "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
+      },
+      "artists": [
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Avi\u00f3n",
+      "url": "https://open.spotify.com/track/4jCJxfd0kMhL0LFdP7sYMV"
     },
     {
       "album": {
@@ -347,6 +365,36 @@
       "duration_ms": 189253,
       "name": "Dr. Greenthumb",
       "url": "https://open.spotify.com/track/6pNPthJtweLWioQeGtwJe5"
+    },
+    {
+      "album": {
+        "name": "El Bais\u00f3n (feat. Toser One)",
+        "url": "https://open.spotify.com/album/0lQOsBHEf9EAm0j8hlbFYr"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219791,
+      "name": "El Bais\u00f3n (feat. Toser One)",
+      "url": "https://open.spotify.com/track/6WwCuYWEH32z0tn8mSN3MY"
     },
     {
       "album": {
@@ -751,6 +799,24 @@
       "duration_ms": 162352,
       "name": "Mermelada",
       "url": "https://open.spotify.com/track/4D8gHiFn0dK0Mbo8hxVAGF"
+    },
+    {
+      "album": {
+        "name": "Mi Raza",
+        "url": "https://open.spotify.com/album/2sNIhivx1vmYiDk5tvlpxN"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Mi Raza",
+      "url": "https://open.spotify.com/track/7HnMj5DQBkrrJyl7kUq5ZB"
     },
     {
       "album": {

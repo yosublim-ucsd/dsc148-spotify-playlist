@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,837,197 likes - 250 songs - 13 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,836,174 likes - 250 songs - 13 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 112 | [Rudy, a Message to You](https://open.spotify.com/track/4gukGozFOurNmDXZzgQHaP) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [The Best of Dandy Livingstone](https://open.spotify.com/album/1dTWKqQJuXoR4u9Kqjkrj3) | 2:42 |
 | 113 | [It Mek](https://open.spotify.com/track/2KLQHmIj0ncGRdnLbbqi9B) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Intensified](https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa) | 2:32 |
 | 114 | [I'm in the Mood for Love \(I'm in the Mood for Ska\)](https://open.spotify.com/track/1CLMWz26XcYpwQOYXePnxX) | [Lord Tanamo](https://open.spotify.com/artist/0jCQfGTP2CuiYqPiVTmzU6) | [Festival Jump Up \(Expanded Version\)](https://open.spotify.com/album/00Or6t6oMpc51EjuYOqmtB) | 2:31 |
-| 115 | [Bonanza Ska](https://open.spotify.com/track/72n1PRmDIsWZg2RypNfyaR) | [Carlos Malcolm & His Afro\-Caribs](https://open.spotify.com/artist/0OHaDoppjQotlrnaZdwFu3) | [The Best of Trojan Ska Vol\. 1](https://open.spotify.com/album/4Y9vhSrt00S7tQg69oWuAC) | 3:03 |
+| 115 | [Bonanza Ska](https://open.spotify.com/track/5ni04FzwAlJ6m2MsiP0vEs) | [Carlos Malcolm & His Afro\-Jamaican Rhythms](https://open.spotify.com/artist/4TikMc07t46U0FQ4sAY6ww) | [Ska & Reggae Classics](https://open.spotify.com/album/0SIpGRJxmn6tYe9o6xf9lZ) | 3:03 |
 | 116 | [Elizabethan Reggae](https://open.spotify.com/track/1AgmbQxbuMm5twV1abIoph) | [Byron Lee](https://open.spotify.com/artist/1qerVYQkyneFNgZfMKH6HX) | [No Woman No Cry](https://open.spotify.com/album/6DFXTY3qHiBrU8JcovB9g8) | 2:33 |
 | 117 | [Skinhead Moon Stomp](https://open.spotify.com/track/0nTWBfNTzHAm4uoYujtXI4) | [Symarip Pyramid](https://open.spotify.com/artist/1ixEgKO1M9LGmBuHJATsw5) | [Skinhead Moon Stomp \- Single](https://open.spotify.com/album/4xus9LxdIL5aPpAidam51s) | 2:59 |
 | 118 | [Dollar in the Teeth](https://open.spotify.com/track/5HARyzTl6cIvyhCp6tHi0k) | [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [A Live Injection: Anthology 1968\-1979](https://open.spotify.com/album/2So48zf14on4O5uQRsa0QR) | 2:35 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 249 | [Monkey Man](https://open.spotify.com/track/7xDi25m7Kcc9rPs7zMA2zN) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/0l8YHHDWRH6dPBpp0V0sYb) | 3:44 |
 | 250 | [The Tide Is High](https://open.spotify.com/track/1GUcIBgJB2AX0Ex6J6SKXM) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Original Paragons At Treasure Isle](https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1) | 2:45 |
 
-Snapshot ID: `MCw2OGM0ODc1ZTg2ZGYwMGQ1MjExNmQyNGIwODM1YjA5Y2JiODk4ZDNm`
+Snapshot ID: `MCxiMjg2OTMyZmZiOTM2OWQzYTVhYmM0Y2E3NjExNjlhM2UzZDMzMjM0`

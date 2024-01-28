@@ -4,7 +4,7 @@
 
 > Free\-spirited, atmospheric vibes.
 
-300 songs - 18 hr 54 min
+301 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,8 +220,9 @@
 | [Ricochet](https://open.spotify.com/track/5UmoFSMOWeilPzzDCQHND2) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember](https://open.spotify.com/album/4XLmFt621uppWWHzoSOcnX) | 3:20 | 2023-06-09 |  |
 | [Ricochet](https://open.spotify.com/track/6If4a7ytTXliui3vJVi9px) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Ricochet](https://open.spotify.com/album/3OaA2qwULCg9W9QTvMv1iy) | 3:20 | 2022-02-25 | 2023-12-08 |
 | [Ricochet](https://open.spotify.com/track/7ESuHpSILZOP0cpIf9DKYx) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember](https://open.spotify.com/album/7vKjpw0lHwLpim0U1lVf7U) | 3:20 | 2022-02-25 | 2022-11-14 |
-| [Rising Water](https://open.spotify.com/track/3e288OThYet2Tjbgq8gGla) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Move](https://open.spotify.com/album/5VECsj7IRVQjIAwMC8LAUa) | 4:56 | 2022-02-25 |  |
+| [Rising Water](https://open.spotify.com/track/3e288OThYet2Tjbgq8gGla) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Move](https://open.spotify.com/album/5VECsj7IRVQjIAwMC8LAUa) | 4:56 | 2022-02-25 | 2024-01-28 |
 | [Rising Water](https://open.spotify.com/track/51jPtON9dTSMp4YMsvVVlL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Rising Water](https://open.spotify.com/album/7Fyik3wUaYUC5is2pfj6cX) | 4:56 | 2021-07-30 | 2022-07-29 |
+| [Rising Water](https://open.spotify.com/track/6K62vFcsdye08qiZcpANpC) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Move](https://open.spotify.com/album/0QcZCmPvkoSmvbhnfachB0) | 4:56 | 2023-06-09 |  |
 | [Rock Holy](https://open.spotify.com/track/6d0bXT02TCCBAenwqGSVdV) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Rock Holy](https://open.spotify.com/album/761LskgYogPeUobs0oIBLz) | 3:41 | 2021-07-30 | 2022-07-29 |
 | [Rock Holy](https://open.spotify.com/track/7ii6y3PzOTPLmbqWOJl1Vp) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Virgo Fool](https://open.spotify.com/album/1X34TSQvQtFYZTMXLUDTuN) | 3:41 | 2022-02-25 |  |
 | [Rose Petals](https://open.spotify.com/track/0NJ1LV5VblYyJsJt3EbAx7) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/7J2oRTfH14BbakDbmqMgiM) | 3:33 | 2021-07-30 | 2022-07-29 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Justin Timberlake
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,120 likes - 105 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,125 likes - 105 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Selfish](https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Selfish](https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy) | 3:49 |
-| 2 | [LOCO](https://open.spotify.com/track/6MsXDsDuTgFsq9QhpmtAU6) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [LOCO](https://open.spotify.com/album/5ym9a0EgZNubqWMQXI9cha) | 2:41 |
+| 2 | [LOCO](https://open.spotify.com/track/1ICsCnsH06jI39jjLQmnxY) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/3kODAAfimujT9QY8PaNgDn) | 2:41 |
 | 3 | [Souvenir](https://open.spotify.com/track/6a20iVTnMEjuLKtOFSUms1) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Unleaded](https://open.spotify.com/artist/3Lfn5Dl1gfkwuLxjVDKaGE) | [Souvenir](https://open.spotify.com/album/6PaR3f33lA3iXdy59U7g2m) | 2:46 |
 | 4 | [Blue Porsche \(feat\. Niska\)](https://open.spotify.com/track/3gOVMei7c4BD6oIfed24dc) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Blue Porsche \(feat\. Niska\)](https://open.spotify.com/album/3cawKdKtM97thqBmQBuAnN) | 3:06 |
 | 5 | [überall](https://open.spotify.com/track/2xZ6qOGFvlwm4VTlhrErPG) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [überall](https://open.spotify.com/album/4yXkNYJCqvCrtSmcJZunyJ) | 2:30 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 70 | [Open House](https://open.spotify.com/track/2hqYY4ugFs6cHkooeZIBDI) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Open House](https://open.spotify.com/album/3ybsSXGwMTt5xL0D2JSW5U) | 3:52 |
 | 71 | [Sundown \(feat\. JID\)](https://open.spotify.com/track/0peWrHmZmYS4D77vJJDMhJ) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Sundown \(feat\. JID\)](https://open.spotify.com/album/3Bhw6mGopsWHhS4OlCGDe3) | 2:37 |
 | 72 | [Gift](https://open.spotify.com/track/3M8jjgyn8lGMjylmBW5u1Z) | [NAYLA](https://open.spotify.com/artist/5qtmt01Gll6cKoiMjPKSMK) | [Gift](https://open.spotify.com/album/2PnMFes2m5I2jG0jALWh9b) | 2:31 |
-| 73 | [lass los](https://open.spotify.com/track/7ds5QDfQbzheDtl7NOOcPc) | [Maeckes](https://open.spotify.com/artist/5nVbdvU60t7C0JBruxsS26) | [lass los](https://open.spotify.com/album/6TmA0wjEnOhoWgUtOxIuuv) | 2:11 |
+| 73 | [lass los](https://open.spotify.com/track/7ds5QDfQbzheDtl7NOOcPc) | [Maeckes](https://open.spotify.com/artist/5nVbdvU60t7C0JBruxsS26), [Bayuk](https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw) | [lass los](https://open.spotify.com/album/6TmA0wjEnOhoWgUtOxIuuv) | 2:11 |
 | 74 | [Fake Chanel](https://open.spotify.com/track/0wHZTILLsTTs357OD2b1CT) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Fake Chanel](https://open.spotify.com/album/1N2DNdCdKP8dShURWbHHCq) | 3:22 |
 | 75 | [This My Life \(with Lil Tecca, The Kid LAROI & Lil Skies\)](https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 2:49 |
 | 76 | [Lovely](https://open.spotify.com/track/07lVT57m4NGsFvZWMv2vxQ) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Lovely](https://open.spotify.com/album/2Ol7eVHaVtcwqr3sBTSmC3) | 3:07 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 104 | [Sad Bitch Hotline](https://open.spotify.com/track/5z1NXWneCrAf1bC2PkiKgh) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Sad Bitch Hotline](https://open.spotify.com/album/5IUwOXuaCvYibs2t7S5Ta0) | 2:52 |
 | 105 | [Catching Feelings](https://open.spotify.com/track/6EGAYAiK2k89dKJNKf5avd) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Catching Feelings](https://open.spotify.com/album/2sKFy4cK1BJygH0uFdo92M) | 2:46 |
 
-Snapshot ID: `MCxmZTE3NTBlMzc1ZjAwYmRjZjc1MTAzZDBmYjRkMmVkNzg4ZTYzN2Vk`
+Snapshot ID: `MCw0ZGNjYmU2MWNhNjhkZDFjODcyZTkwN2VhNjE0OTJlYzQwYWYyNjBj`

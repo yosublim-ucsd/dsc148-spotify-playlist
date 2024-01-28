@@ -688,7 +688,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 200690,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
@@ -5182,6 +5182,24 @@
     {
       "album": {
         "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222320,
+      "name": "Down Under",
+      "url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi"
+    },
+    {
+      "album": {
+        "name": "Business As Usual",
         "url": "https://open.spotify.com/album/146RggLMNzNZL1ZVr8hbCw"
       },
       "artists": [
@@ -5478,6 +5496,24 @@
       "duration_ms": 207068,
       "name": "Dumb Love",
       "url": "https://open.spotify.com/track/2Ms8MDDtYBw7M3K5F3EqPX"
+    },
+    {
+      "album": {
+        "name": "That's Cool",
+        "url": "https://open.spotify.com/album/5IgsKIYKuGgWkQp7oSMs3E"
+      },
+      "artists": [
+        {
+          "name": "Daddy Cool",
+          "url": "https://open.spotify.com/artist/5ht2HGrvbN9eDWJarHsou6"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251666,
+      "name": "Eagle Rock",
+      "url": "https://open.spotify.com/track/79r8fue37JmXOee2ctrqR0"
     },
     {
       "album": {
@@ -6742,7 +6778,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -8369,6 +8405,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3tY24vcfkoO3H6krwv1MqR"
+      },
+      "artists": [
+        {
+          "name": "Hunters & Collectors",
+          "url": "https://open.spotify.com/artist/7udwYystFcvYziV36ZIwuh"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229493,
+      "name": "Holy Grail",
+      "url": "https://open.spotify.com/track/2FPsER4Qd9JsfunkyuBoyX"
+    },
+    {
+      "album": {
         "name": "Honest",
         "url": "https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf"
       },
@@ -9652,7 +9706,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 229477,
       "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
@@ -10290,7 +10344,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 254045,
       "name": "Khe Sanh - 2011 Remastered",
       "url": "https://open.spotify.com/track/0frIZMaQwtdV4Ee8nhB1te"
@@ -13132,7 +13186,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 276626,
       "name": "My Happiness",
       "url": "https://open.spotify.com/track/2pxxVkNhrRST8fpgA12ru8"
@@ -13186,7 +13240,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -13530,6 +13584,24 @@
       "duration_ms": 184586,
       "name": "Never Tear Us Apart",
       "url": "https://open.spotify.com/track/1GjbTNFImFrjFsNdleDe78"
+    },
+    {
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185694,
+      "name": "Never Tear Us Apart",
+      "url": "https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1"
     },
     {
       "album": {
@@ -16208,6 +16280,24 @@
     {
       "album": {
         "name": "Big Bad Noise",
+        "url": "https://open.spotify.com/album/4vMRYy3hjqeuV8l5NBkiE2"
+      },
+      "artists": [
+        {
+          "name": "Choirboys",
+          "url": "https://open.spotify.com/artist/2u6qHMpQaE48aowjWKJeCM"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248560,
+      "name": "Run To Paradise",
+      "url": "https://open.spotify.com/track/0W6u4XTCiS2uDcmQJr6yWA"
+    },
+    {
+      "album": {
+        "name": "Big Bad Noise",
         "url": "https://open.spotify.com/album/2RUPcjcTFN1B4jxYe4RsIF"
       },
       "artists": [
@@ -16842,7 +16932,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
@@ -17760,7 +17850,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 179840,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/3dCC7aodARJimlvDnlh1mo"
@@ -17850,7 +17940,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 231991,
       "name": "Sounds Of Then (This Is Australia)",
       "url": "https://open.spotify.com/track/4yLvWkiGacPp3BAOSxiiHf"
@@ -17966,7 +18056,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
@@ -19410,7 +19500,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 281466,
       "name": "The Boys Light Up - Remastered 2013",
       "url": "https://open.spotify.com/track/687i9z2ZCKNfzpmzs7HxOu"
@@ -19794,7 +19884,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -19906,7 +19996,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 177387,
       "name": "Thinkin\u2019 Bout Me",
       "url": "https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK"
@@ -20120,6 +20210,24 @@
       "duration_ms": 196026,
       "name": "To Her Door",
       "url": "https://open.spotify.com/track/4KZayGognbXUFNLYj4pPxH"
+    },
+    {
+      "album": {
+        "name": "Under the Sun",
+        "url": "https://open.spotify.com/album/7zFxkzRbh0kNEtY6Ilhwra"
+      },
+      "artists": [
+        {
+          "name": "Paul Kelly & The Coloured Girls",
+          "url": "https://open.spotify.com/artist/6ebn4gnCNra9IZKYV6Tz6V"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198320,
+      "name": "To Her Door",
+      "url": "https://open.spotify.com/track/1QD5geCq0N77YMV5oVomkE"
     },
     {
       "album": {

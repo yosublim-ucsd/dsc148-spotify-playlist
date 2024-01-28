@@ -2333,6 +2333,28 @@
     },
     {
       "album": {
+        "name": "ARXH & TELOS",
+        "url": "https://open.spotify.com/album/4uaSlLzaGiTBnUq8aH7CER"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Sanko",
+          "url": "https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165599,
+      "name": "ARXH & TELOS",
+      "url": "https://open.spotify.com/track/5HIVXfDQxvv4WuXTkJKyuS"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -7552,7 +7574,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 207461,
       "name": "Ekato",
       "url": "https://open.spotify.com/track/4s6W225nD6Auj9Qfayujgu"
@@ -8098,7 +8120,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 161160,
       "name": "Ena Tsigaro",
       "url": "https://open.spotify.com/track/6CTeNQupdFg6IAcBrUUB5I"
@@ -29796,6 +29818,28 @@
       "duration_ms": 165600,
       "name": "XOROS",
       "url": "https://open.spotify.com/track/7EeEMoAJVKzhO5uqNH7Oqm"
+    },
+    {
+      "album": {
+        "name": "XRONO",
+        "url": "https://open.spotify.com/album/6SWPoYp3ONOxSyutxtiIT9"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182909,
+      "name": "XRONO",
+      "url": "https://open.spotify.com/track/1hTF7jt7eb1G7oMi10Tvwr"
     },
     {
       "album": {

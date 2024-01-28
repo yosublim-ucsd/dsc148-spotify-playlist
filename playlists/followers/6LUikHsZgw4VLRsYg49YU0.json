@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 4172,
+  "2024-01-28": 4168,
   "date_first_scraped": "2022-06-10",
   "description": "New and classic sounds from the world of Anime. Listen to this year\u2019s nominees for best OP &amp; ED song at the 2022 Anime Trending Awards and vote for your favorite <a href=\"https://anitrendz.net/news/2023/01/01/vote-now-for-your-anime-of-the-year-2022/?ref=socfb//\">HERE</a>.",
   "name": "Anime Songs",
@@ -523,6 +523,28 @@
       "duration_ms": 230666,
       "name": "Comedy",
       "url": "https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV"
+    },
+    {
+      "album": {
+        "name": "Metallic Rouge (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3xUFB8dVFpTph5lYBZ3otN"
+      },
+      "artists": [
+        {
+          "name": "Toft Willingham",
+          "url": "https://open.spotify.com/artist/4cxcb1EnVZwWbGHy2kJNfr"
+        },
+        {
+          "name": "Taisei Iwasaki",
+          "url": "https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209654,
+      "name": "Crimson Lightning",
+      "url": "https://open.spotify.com/track/0waIhVlr9YdRK3GNWLxD4m"
     },
     {
       "album": {

@@ -4306,7 +4306,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -13472,7 +13472,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 147955,
       "name": "Kender Ik' I Morgen",
       "url": "https://open.spotify.com/track/6e7KGsngU13kguy5hTvSxe"
@@ -22038,7 +22038,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 179840,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/3dCC7aodARJimlvDnlh1mo"
@@ -26384,6 +26384,24 @@
       "duration_ms": 133213,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/1yxcKrEcxt4O03IIC25yHk"
+    },
+    {
+      "album": {
+        "name": "winwin",
+        "url": "https://open.spotify.com/album/7j8TjCjwYdrv8x1YBdxbcU"
+      },
+      "artists": [
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163561,
+      "name": "winwin",
+      "url": "https://open.spotify.com/track/3luzLKFxbRZbz1Tbz7UMNF"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 192379,
+  "2024-01-28": 191091,
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Ucie Sucita",
+  "description": "Dendang Dangdut teratas. Cover: Maulana Ardiansyah",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -423,6 +423,24 @@
       "duration_ms": 245347,
       "name": "Cinta Yang Rumit",
       "url": "https://open.spotify.com/track/6Atv6SpeVJ0sgGyFlkcsGX"
+    },
+    {
+      "album": {
+        "name": "Cinta Yang Tulus (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2rD3h2v9YzyoVkRKFrjuMB"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285788,
+      "name": "Cinta Yang Tulus - Acoustic Version",
+      "url": "https://open.spotify.com/track/3y4Dbets2ktIyPYdkLiTPl"
     },
     {
       "album": {
@@ -1099,8 +1117,8 @@
       },
       "artists": [
         {
-          "name": "Sridevi DA",
-          "url": "https://open.spotify.com/artist/0b5wJp0t3tnafP9BnbQY98"
+          "name": "Sridevi DA5",
+          "url": "https://open.spotify.com/artist/7KM65RnfkPrC4zzLoKuQ0s"
         },
         {
           "name": "Kier King",

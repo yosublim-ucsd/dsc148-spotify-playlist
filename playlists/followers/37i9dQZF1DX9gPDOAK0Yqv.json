@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 72722,
+  "2024-01-28": 72826,
   "date_first_scraped": "2022-11-25",
   "description": "A hypnotic journey through Melodic Techno.",
   "name": "Tunnel Vision",
@@ -527,7 +527,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 325908,
       "name": "Artefact",
       "url": "https://open.spotify.com/track/6gok4VbHKJhAsRXADBYZVX"
@@ -842,6 +842,28 @@
     },
     {
       "album": {
+        "name": "Bring Back the Rave",
+        "url": "https://open.spotify.com/album/39In5xBDAxfLF64uVTODdO"
+      },
+      "artists": [
+        {
+          "name": "Ziger",
+          "url": "https://open.spotify.com/artist/33L8FupX5olugmSnrRpYUQ"
+        },
+        {
+          "name": "Two Are",
+          "url": "https://open.spotify.com/artist/3B5IcLPD64jPRgHsSnvHUD"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420480,
+      "name": "Bring Back the Rave - Two Are Remix",
+      "url": "https://open.spotify.com/track/4mNVJqsTlFSmpEbSMs0tiC"
+    },
+    {
+      "album": {
         "name": "Unity Pt. 3",
         "url": "https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE"
       },
@@ -987,7 +1009,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 286666,
       "name": "Close - Enamour Remix",
       "url": "https://open.spotify.com/track/5VMDIeOg5gBVHAjv5tjdbR"
@@ -1525,6 +1547,28 @@
       "duration_ms": 448679,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/0jwWG0oSeKd5CefJa4jcbe"
+    },
+    {
+      "album": {
+        "name": "Delete Time",
+        "url": "https://open.spotify.com/album/3Rn97fqjZ6Nj5ECntOaDJB"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "Delete Time",
+      "url": "https://open.spotify.com/track/0IEmWo1Opdmir15BejC5Yt"
     },
     {
       "album": {
@@ -2767,7 +2811,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 194754,
       "name": "Gravity - Adam Sellouk Remix",
       "url": "https://open.spotify.com/track/1fAEgL0FxWfNqxVZRHsm20"
@@ -3400,6 +3444,32 @@
     },
     {
       "album": {
+        "name": "I Talk To Water (With Perry Farrell) (CamelPhat Remix)",
+        "url": "https://open.spotify.com/album/6tIe9eiRP3pUXY2f2DMMpe"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "I Talk To Water (With Perry Farrell) - CamelPhat Remix",
+      "url": "https://open.spotify.com/track/0VMY3ugy98OkCzk8U3q2C7"
+    },
+    {
+      "album": {
         "name": "I'm So Weak (Dark Mix)",
         "url": "https://open.spotify.com/album/1CLQiCWjOZDBCmw2v7PXrN"
       },
@@ -3511,6 +3581,28 @@
       "duration_ms": 371612,
       "name": "In White Rooms - 2023 Remix",
       "url": "https://open.spotify.com/track/0YHGkJUhWOw5OsvW3KCQBE"
+    },
+    {
+      "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/0KIJ5H16buFOBL0vNpmSsi"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Another Life",
+          "url": "https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333750,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/7lLuAZCes4jKORs3ak8xZP"
     },
     {
       "album": {
@@ -3951,6 +4043,28 @@
       "duration_ms": 208818,
       "name": "LAY ME DOWN",
       "url": "https://open.spotify.com/track/50SJaoPsOsvhwxUCRP4WxD"
+    },
+    {
+      "album": {
+        "name": "Left Right",
+        "url": "https://open.spotify.com/album/6ty39Pp0W6HlmHJDV8wVky"
+      },
+      "artists": [
+        {
+          "name": "ASHER SWISSA",
+          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
+        },
+        {
+          "name": "Lian Gold",
+          "url": "https://open.spotify.com/artist/5NgAdRVBzrOLKRQ8RRvBx4"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251612,
+      "name": "Left Right",
+      "url": "https://open.spotify.com/track/2lcxuqUUnRjIwHpzKrHwTC"
     },
     {
       "album": {
@@ -5167,7 +5281,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 408661,
       "name": "Outside Time",
       "url": "https://open.spotify.com/track/5F8TBm0KnHfW2IVSgSlZrY"
@@ -6019,7 +6133,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 425927,
       "name": "Rise Of The 2nd Sun",
       "url": "https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5"
@@ -6325,6 +6439,24 @@
       "duration_ms": 383448,
       "name": "Shapeshifter",
       "url": "https://open.spotify.com/track/0Xm3qMKuGML22vsOVycQYw"
+    },
+    {
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/4LinhI1N9btqc2iZWKNqYv"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227555,
+      "name": "Shiva",
+      "url": "https://open.spotify.com/track/6Dfu2Fp8vVV9DFRQHnXe5c"
     },
     {
       "album": {
@@ -8539,7 +8671,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 226572,
       "name": "Your Heart - Melodic Techno Remix",
       "url": "https://open.spotify.com/track/3T0we2FGn8jdXeaGJs2zkK"

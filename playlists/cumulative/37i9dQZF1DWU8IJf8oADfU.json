@@ -106,10 +106,28 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 221680,
       "name": "Bobo au c\u0153ur",
       "url": "https://open.spotify.com/track/2XlLHcTNLBkxqCdKasBrRM"
+    },
+    {
+      "album": {
+        "name": "Poison Ou Antidote",
+        "url": "https://open.spotify.com/album/7HQqRTeLUgnqxhIacnisWy"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221680,
+      "name": "Bobo au c\u0153ur",
+      "url": "https://open.spotify.com/track/4ZJURpomulGIURxYSvO1Xd"
     },
     {
       "album": {
@@ -794,7 +812,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 199266,
       "name": "Reine",
       "url": "https://open.spotify.com/track/1bxP4M9ICllcg7mel8kH89"
@@ -812,7 +830,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 199266,
       "name": "Reine",
       "url": "https://open.spotify.com/track/2HdCh16tdPjle1rm80Y6q7"

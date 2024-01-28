@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 1605733,
+  "2024-01-28": 1603923,
   "date_first_scraped": "2021-12-21",
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Smoke DZA",
   "name": "Spilled Ink",
@@ -2727,7 +2727,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 171989,
       "name": "Dead Men (feat. Cozz)",
       "url": "https://open.spotify.com/track/6yy0W5bgERNnQ5diS20fdT"
@@ -4585,6 +4585,36 @@
       "duration_ms": 193660,
       "name": "Grey Poupon",
       "url": "https://open.spotify.com/track/5YiEYhr37soYqg6uImNfcK"
+    },
+    {
+      "album": {
+        "name": "Everybody Can't Go",
+        "url": "https://open.spotify.com/album/13IanJ8zx7YcCJ5yIvArIq"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Rick Hyde",
+          "url": "https://open.spotify.com/artist/5bgr1sPXFeiNuS4vARMZp1"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345297,
+      "name": "Griselda Express (with Westside Gunn, Conway The Machine & Rick Hyde)",
+      "url": "https://open.spotify.com/track/3WanwKuwk826e61JQwejQQ"
     },
     {
       "album": {
@@ -8543,7 +8573,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 213940,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk"
@@ -12061,6 +12091,28 @@
       "duration_ms": 195000,
       "name": "Truffles",
       "url": "https://open.spotify.com/track/6YasuOZcSrwQvHNbsxuPPW"
+    },
+    {
+      "album": {
+        "name": "Lyrics to GO Vol. 5",
+        "url": "https://open.spotify.com/album/0R78djLTRtZIvdySvSRjql"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155169,
+      "name": "TULUM",
+      "url": "https://open.spotify.com/track/7xSlkebKRYibm6plhrEQAX"
     },
     {
       "album": {

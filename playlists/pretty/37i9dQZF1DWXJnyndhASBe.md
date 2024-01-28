@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Chivas
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,708 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,640 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Death note](https://open.spotify.com/track/13mgRmDwkyfsgG78YyEDLc) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [Deathcore](https://open.spotify.com/album/5pEyFfIh3cruUMhecU4G9i) | 2:42 |
-| 2 | [RAP](https://open.spotify.com/track/7iKwOfZC2rAVOYfaUfmzHS) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [Lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [RAP](https://open.spotify.com/album/4PSXiixxn1Qhqofe4qwf05) | 2:36 |
+| 2 | [RAP](https://open.spotify.com/track/7iKwOfZC2rAVOYfaUfmzHS) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [RAP](https://open.spotify.com/album/4PSXiixxn1Qhqofe4qwf05) | 2:36 |
 | 3 | [Plaster](https://open.spotify.com/track/6epWbDEEEOakzBeyNr69MO) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [CERBER EP](https://open.spotify.com/album/2s9Jf5Ir7sG2uFYzFWkxSU) | 2:35 |
 | 4 | [Miyabi](https://open.spotify.com/track/2lCNJCCu7eiBeGVu9AevkW) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [PROXL3M](https://open.spotify.com/album/5RXFK1MabLZM3SEGlidoqs) | 3:00 |
 | 5 | [Ciapakwybujany](https://open.spotify.com/track/2PF5O4wQHtD9KpxNALuoBD) | [GM2L](https://open.spotify.com/artist/5a6bf006Dgf5kk2OxvpVYY), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Kazior](https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8), [Alberto](https://open.spotify.com/artist/79b4a4Bg30Y0RlO5de5jni), [OLEK](https://open.spotify.com/artist/4nRJJWVfbPAULHZl7VYVE8) | [GM2L Mixtape](https://open.spotify.com/album/6yL5hla6R4evgV5kiT9BJe) | 1:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [JEREMY SOCHAN](https://open.spotify.com/track/2WBejVahXeC1gjCXVOlgbq) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [bvdy47](https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4) | [JEREMY SOCHAN](https://open.spotify.com/album/1joqopmcT1uPuuXoQLvzVw) | 2:25 |
 | 50 | [A Milli Milli](https://open.spotify.com/track/3JrArax5edAah1hauuHm4V) | [Expo 2000](https://open.spotify.com/artist/2mJaMgykjhvCzdLp8jltpu), [Belmondawg](https://open.spotify.com/artist/41OErJWZbkNcNzYPoy0PWJ), [Liroy](https://open.spotify.com/artist/1YNJc03EgclUK2rnLX7tE5) | [A Milli Milli](https://open.spotify.com/album/6nR34WMtc3v09JEfKmkwSc) | 2:25 |
 
-Snapshot ID: `MCwwYjgyZGRkMGQ3MmVlYmEzMDBjYWM5MjA3NWUyOGY2ZGNhMzA2M2Iy`
+Snapshot ID: `MCw0YzUyNmE3NDY4ZTYxZmVjYjQzMzdlY2NmNWY4NTMxNTZmZjBkMDJm`

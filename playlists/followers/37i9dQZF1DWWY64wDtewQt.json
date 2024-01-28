@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 7443020,
+  "2024-01-28": 7448797,
   "date_first_scraped": "2022-01-10",
   "description": "the beat of your drift",
   "name": "phonk",
@@ -583,7 +583,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 101321,
       "name": "ALORS BRAZIL",
       "url": "https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY"
@@ -3505,7 +3505,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 150524,
       "name": "DILATA\u00c7\u00c3O HIPN\u00d3TICA 6.0",
       "url": "https://open.spotify.com/track/6WyOuugKx4QEZl4PmIyT9G"
@@ -8602,6 +8602,28 @@
     },
     {
       "album": {
+        "name": "OM NOM NOM",
+        "url": "https://open.spotify.com/album/7fVIIkdIT45y7kssIF9SDg"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        },
+        {
+          "name": "Dragon Boys",
+          "url": "https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110836,
+      "name": "OM NOM NOM",
+      "url": "https://open.spotify.com/track/1qiio3SpjGF7M97YSyeAcB"
+    },
+    {
+      "album": {
         "name": "OMEN",
         "url": "https://open.spotify.com/album/7gwNoZBHPMeTvsTxynR6xA"
       },
@@ -9904,6 +9926,32 @@
     },
     {
       "album": {
+        "name": "REBOLA NO MEU CARALHO",
+        "url": "https://open.spotify.com/album/5UbtwwTLV8n3Z6QCoFwu8Q"
+      },
+      "artists": [
+        {
+          "name": "TOKYOSLEEP",
+          "url": "https://open.spotify.com/artist/3S85ac8yF0ePaCGDPVv0LH"
+        },
+        {
+          "name": "Nemecist",
+          "url": "https://open.spotify.com/artist/3HZFRAdrfCUdkl2ajPWQ0M"
+        },
+        {
+          "name": "acronym.",
+          "url": "https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83076,
+      "name": "REBOLA NO MEU CARALHO",
+      "url": "https://open.spotify.com/track/6ijmhnbAimirN5LHl0ps4W"
+    },
+    {
+      "album": {
         "name": "REI DO BRASIL",
         "url": "https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7"
       },
@@ -10857,7 +10905,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 101287,
       "name": "SIMPLE",
       "url": "https://open.spotify.com/track/1fdqbJTHS8cwGbHDU9YU9A"

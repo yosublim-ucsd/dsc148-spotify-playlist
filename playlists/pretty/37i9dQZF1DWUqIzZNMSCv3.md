@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 
 > Relaxing classical piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,801 likes - 67 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,897 likes - 67 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 60 | [Ravel: Cadence for the Video by Yoann Bourgeois \(On Adagio from Ravel's Concerto in G, M\. 83\)](https://open.spotify.com/track/6ZSfPXGfQUSwODvAr3AhcU) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Ravel: Cadence for the Video by Yoann Bourgeois \(On Adagio from Ravel's Concerto in G, M\. 83\)](https://open.spotify.com/album/217TRsYD0YRrUhEsK5qNa0) | 3:07 |
 | 61 | [Bist du bei mir \(Arr\. Hewitt, Formerly Attrib\. Bach as BWV 508\)](https://open.spotify.com/track/6jSiaJE9nJoVzFaaJkhENR) | [Gottfried Heinrich Stölzel](https://open.spotify.com/artist/1Wx4iiPR6d1bFxxAujNLTL), [Angela Hewitt](https://open.spotify.com/artist/3KtQFp8FUbQMx3bLNKCw3R) | [Love Songs \- Piano Transcriptions Without Words](https://open.spotify.com/album/16zfntcR7VAJWn9Ovooo1w) | 2:54 |
 | 62 | [Rêverie, CD 76](https://open.spotify.com/track/6HNUntao7jCtKR2cGKgqn0) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 5:29 |
-| 63 | [Beethoven: Piano Sonata No\. 8 in C Minor, Op\. 13, "Pathétique": II\. Adagio cantabile](https://open.spotify.com/track/4l5zWNPyET6PqBhxQEyKgt) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N) | [Beethoven: Piano Sonatas Nos 8, "Pathétique", 9 & 10](https://open.spotify.com/album/5AuBjTnxyHHKNNKiGt8V0c) | 5:24 |
+| 63 | [Beethoven: Piano Sonata No\. 8 in C Minor, Op\. 13 "Pathétique": II\. Adagio cantabile](https://open.spotify.com/track/4l5zWNPyET6PqBhxQEyKgt) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N) | [Beethoven: Piano Sonatas Nos 8, "Pathétique", 9 & 10](https://open.spotify.com/album/5AuBjTnxyHHKNNKiGt8V0c) | 5:24 |
 | 64 | [Minuet in A major, D\. 334](https://open.spotify.com/track/2FbUitqkfxFhI4An73HzZW) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Schubert: Piano Sonata D.959 & Minuets D\. 334, D\. 335, D\. 600](https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx) | 3:13 |
 | 65 | [Nocturne No\. 2 in C Minor](https://open.spotify.com/track/6cDytuMZ5Z4iMEhK65HiHL) | [John Field](https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56), [Benjamin Frith](https://open.spotify.com/artist/0g33P9zonyHhsIQJ1LUC8X) | [Field: Piano Music, Vol\. 1](https://open.spotify.com/album/6M8FX7UmvvKWISfxVvxa40) | 3:43 |
 | 66 | [3 Intermezzi, Op\. 117: No\. 1, Andante moderato](https://open.spotify.com/track/3c58ZVEbMUjWsmy4N84kPv) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Hélène Grimaud](https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79) | [Brahms: 3 Intermezzi, Op\. 117: No\. 1, Andante moderato](https://open.spotify.com/album/3SCiglv72zuCvlz88eLfMV) | 4:50 |
 | 67 | [Nocturnes, Op\. 27: No\. 2 in D Flat Major\. Lento sostenuto](https://open.spotify.com/track/5gOiyasbWfppG7fkNI6Byl) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jan Lisiecki](https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy) | [Chopin: Complete Nocturnes](https://open.spotify.com/album/1mvFSxhBUzeOlOFU6SlhAw) | 7:13 |
 
-Snapshot ID: `MCwzY2I2Yjg2NjI1NzhlY2MyY2Y0YThiNTQyYjNlYjFlMDgzMDlmYmE5`
+Snapshot ID: `MCxmMWMxOTA1NzdhN2I3YjYwYmZjNTMyN2RhMjU3ZWZiMjBhODg1MmUw`

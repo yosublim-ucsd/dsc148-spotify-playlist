@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 36753,
+  "num_followers": 36814,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjViYzk2YThkNDg0YjNiNTlkY2ZhZjVhYTQyMTE3MWMyMmMwZDI3",
+  "snapshot_id": "MCwyOTYyNzc5MzU5ZTRkOWU4YTQ0ZDhkZjNmNmQwMmU1MjcyNDNkNDdm",
   "tracks": [
     {
       "added_at": "2024-01-18 13:55:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
+        "name": "Mr. Top Hat",
+        "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "I've Got My Eyes On You",
+      "url": "https://open.spotify.com/track/3CWKx0KS7iq8s2kik4oSMw"
+    },
+    {
+      "added_at": "2024-01-18 13:55:00",
+      "album": {
         "name": "Plays Cole Porter Love Songs",
         "url": "https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 353200,
       "name": "I Love Paris",
       "url": "https://open.spotify.com/track/62UVjAjo8ra1PVSeHfnxk3"
-    },
-    {
-      "added_at": "2024-01-18 13:55:00",
-      "album": {
-        "name": "Mr. Top Hat",
-        "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
-      },
-      "artists": [
-        {
-          "name": "Fred Astaire",
-          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "I've Got My Eyes On You",
-      "url": "https://open.spotify.com/track/3CWKx0KS7iq8s2kik4oSMw"
     },
     {
       "added_at": "2024-01-18 13:55:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
+        "name": "The Astaire Story",
+        "url": "https://open.spotify.com/album/48u8T69QYtvg6edsQtgYXV"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "duration_ms": 164133,
+      "name": "I Concentrate On You",
+      "url": "https://open.spotify.com/track/1iuRx4tqMLsTro33oQwwsX"
+    },
+    {
+      "added_at": "2024-01-18 13:55:00",
+      "album": {
         "name": "Plays Cole Porter Love Songs",
         "url": "https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q"
       },
@@ -823,34 +839,18 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
-        "name": "The Astaire Story",
-        "url": "https://open.spotify.com/album/48u8T69QYtvg6edsQtgYXV"
+        "name": "John Barrowman Swings Cole Porter",
+        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
       },
       "artists": [
         {
-          "name": "Fred Astaire",
-          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+          "name": "John Barrowman",
+          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
         }
       ],
-      "duration_ms": 164133,
-      "name": "I Concentrate On You",
-      "url": "https://open.spotify.com/track/1iuRx4tqMLsTro33oQwwsX"
-    },
-    {
-      "added_at": "2024-01-18 13:55:00",
-      "album": {
-        "name": "Easy To Love: The Songs Of Cole Porter",
-        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
-      },
-      "artists": [
-        {
-          "name": "Susannah McCorkle",
-          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
-        }
-      ],
-      "duration_ms": 266466,
-      "name": "Why Don't We Try Staying Home?",
-      "url": "https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B"
+      "duration_ms": 143066,
+      "name": "\u00c7a, C'est l'Amour",
+      "url": "https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0"
     },
     {
       "added_at": "2024-01-18 13:55:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
-        "name": "Worktime (RVG)",
-        "url": "https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 369053,
-      "name": "It's All Right With Me",
-      "url": "https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp"
-    },
-    {
-      "added_at": "2024-01-18 13:55:00",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/5OBKP6D1MyMdnnB0RZ3PL7"
       },
@@ -919,18 +903,34 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
-        "name": "John Barrowman Swings Cole Porter",
-        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
+        "name": "Worktime (RVG)",
+        "url": "https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC"
       },
       "artists": [
         {
-          "name": "John Barrowman",
-          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 143066,
-      "name": "\u00c7a, C'est l'Amour",
-      "url": "https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0"
+      "duration_ms": 369053,
+      "name": "It's All Right With Me",
+      "url": "https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp"
+    },
+    {
+      "added_at": "2024-01-18 13:55:00",
+      "album": {
+        "name": "Easy To Love: The Songs Of Cole Porter",
+        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
+      },
+      "artists": [
+        {
+          "name": "Susannah McCorkle",
+          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
+        }
+      ],
+      "duration_ms": 266466,
+      "name": "Why Don't We Try Staying Home?",
+      "url": "https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B"
     },
     {
       "added_at": "2024-01-18 13:55:00",
@@ -947,38 +947,6 @@
       "duration_ms": 276426,
       "name": "Wunderbar",
       "url": "https://open.spotify.com/track/19jXz8ZNh5rj9Lmt3l6iVn"
-    },
-    {
-      "added_at": "2024-01-18 13:55:00",
-      "album": {
-        "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 9",
-        "url": "https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Why Can't You Behave?",
-      "url": "https://open.spotify.com/track/5Jo0cCx3upXviXMXWes8XA"
-    },
-    {
-      "added_at": "2024-01-18 13:55:00",
-      "album": {
-        "name": "Bobby Short Loves Cole Porter",
-        "url": "https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Short",
-          "url": "https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Rap Tap on Wood",
-      "url": "https://open.spotify.com/track/7cds5KV5fDScPBvhbHWlpJ"
     },
     {
       "added_at": "2024-01-18 13:55:00",
@@ -1003,6 +971,22 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
+        "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 9",
+        "url": "https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Why Can't You Behave?",
+      "url": "https://open.spotify.com/track/5Jo0cCx3upXviXMXWes8XA"
+    },
+    {
+      "added_at": "2024-01-18 13:55:00",
+      "album": {
         "name": "The Best Of Cole Porter",
         "url": "https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 169001,
       "name": "Rosalie",
       "url": "https://open.spotify.com/track/2UmU67sj5MlaohEIWZv6zv"
+    },
+    {
+      "added_at": "2024-01-18 13:55:00",
+      "album": {
+        "name": "Bobby Short Loves Cole Porter",
+        "url": "https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Short",
+          "url": "https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Rap Tap on Wood",
+      "url": "https://open.spotify.com/track/7cds5KV5fDScPBvhbHWlpJ"
     },
     {
       "added_at": "2024-01-18 13:55:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
+        "name": "The Columbia Years (1943-1952) The Complete Recordings",
+        "url": "https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 168440,
+      "name": "You Don't Remind Me",
+      "url": "https://open.spotify.com/track/6WHaqgrwqzndnDEswCPaB7"
+    },
+    {
+      "added_at": "2024-01-18 13:55:00",
+      "album": {
         "name": "Night and Day With Cole Porter",
         "url": "https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 215600,
       "name": "The Ritz Roll and Rock",
       "url": "https://open.spotify.com/track/6avQ8KrsVqggui50H5zLTb"
-    },
-    {
-      "added_at": "2024-01-18 13:55:00",
-      "album": {
-        "name": "The Columbia Years (1943-1952) The Complete Recordings",
-        "url": "https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 168440,
-      "name": "You Don't Remind Me",
-      "url": "https://open.spotify.com/track/6WHaqgrwqzndnDEswCPaB7"
     },
     {
       "added_at": "2024-01-18 13:55:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+      },
+      "artists": [
+        {
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+        }
+      ],
+      "duration_ms": 111306,
+      "name": "I Am Ashamed That Women Are so Simple",
+      "url": "https://open.spotify.com/track/37tJzpOIs4hDV1B87UrvuQ"
+    },
+    {
+      "added_at": "2024-01-18 13:55:00",
+      "album": {
         "name": "Night and Day With Cole Porter",
         "url": "https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 234840,
       "name": "Conversation Blues",
       "url": "https://open.spotify.com/track/1ZKkiLSA1f4oC0igz3kTvR"
-    },
-    {
-      "added_at": "2024-01-18 13:55:00",
-      "album": {
-        "name": "Mabel Mercer Sings Cole Porter",
-        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
-      },
-      "artists": [
-        {
-          "name": "Mabel Mercer",
-          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
-        }
-      ],
-      "duration_ms": 111306,
-      "name": "I Am Ashamed That Women Are so Simple",
-      "url": "https://open.spotify.com/track/37tJzpOIs4hDV1B87UrvuQ"
     },
     {
       "added_at": "2024-01-18 13:55:00",

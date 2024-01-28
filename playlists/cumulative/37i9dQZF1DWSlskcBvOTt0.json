@@ -3658,7 +3658,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 214864,
       "name": "Find U",
       "url": "https://open.spotify.com/track/6ZszWxc2N3E1W200tDEAQs"
@@ -11590,6 +11590,36 @@
       "duration_ms": 210243,
       "name": "Wespennest - Edit",
       "url": "https://open.spotify.com/track/4O2pqaEaHXhSXFmcy7bNLV"
+    },
+    {
+      "album": {
+        "name": "What A Wonderful World (Greg Cerrone Remix)",
+        "url": "https://open.spotify.com/album/1miEyp3H9WdZtHXQPMui4r"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        },
+        {
+          "name": "Greg Cerrone",
+          "url": "https://open.spotify.com/artist/2UOiCy0MQgPxoBSKPatc3X"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183774,
+      "name": "What A Wonderful World - Greg Cerrone Remix",
+      "url": "https://open.spotify.com/track/56ggEwgh0zcUaXAJbQz6Xo"
     },
     {
       "album": {

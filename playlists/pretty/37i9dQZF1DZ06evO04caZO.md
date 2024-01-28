@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04caZO.md) - [plain]
 
 > This is The Strokes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,146 likes - 42 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,232 likes - 42 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04caZO.md) - [plain]
 | 41 | [Call Me Back](https://open.spotify.com/track/6z5mh42xSM54RncKZMM8hS) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:02 |
 | 42 | [When It Started \(Last Nite B\-Side\)](https://open.spotify.com/track/3mU9Pjls8PszKKmrwhTG78) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The Singles \- Volume 01](https://open.spotify.com/album/2j5jqlI0NvqlXAy9C740pZ) | 2:55 |
 
-Snapshot ID: `Mjg0MzgxMzIsMDAwMDAwMDBmYzU3NTg5YzczZmMwNzYyNWJlMzBhNzQ1NDc0YWRlMA==`
+Snapshot ID: `Mjg0MzkzNDksMDAwMDAwMDA3NWYzNjFhMDU4N2E1NjIwYzU3Mzg4MzE1YjIyZDdiOQ==`

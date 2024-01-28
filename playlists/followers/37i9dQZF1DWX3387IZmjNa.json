@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 2032242,
+  "2024-01-28": 2031547,
   "date_first_scraped": "2021-10-07",
   "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: 4batz",
   "name": "B.A.E.",
@@ -1325,7 +1325,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 219453,
       "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT"
@@ -1664,6 +1664,28 @@
     },
     {
       "album": {
+        "name": "CREAM OF WHEAT",
+        "url": "https://open.spotify.com/album/7Jrr8PWuUpCxPJ9s80BoEO"
+      },
+      "artists": [
+        {
+          "name": "PRICE",
+          "url": "https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse"
+        },
+        {
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173110,
+      "name": "CREAM OF WHEAT",
+      "url": "https://open.spotify.com/track/1hTaoSGBe9UlslV2Hn26Rl"
+    },
+    {
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -1829,7 +1851,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 144028,
       "name": "Dead Wrong",
       "url": "https://open.spotify.com/track/1MVzqiMbhj8iPCn74eCMd8"
@@ -2099,7 +2121,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 165637,
       "name": "Do Something (with Jeremih)",
       "url": "https://open.spotify.com/track/3WaojRhCnye5o9CPS618wn"
@@ -2816,6 +2838,28 @@
     },
     {
       "album": {
+        "name": "Get Over You (feat. Stunna Gambino)",
+        "url": "https://open.spotify.com/album/4kY5i7bsdcMH6KwtESTMsR"
+      },
+      "artists": [
+        {
+          "name": "Jehkai",
+          "url": "https://open.spotify.com/artist/0EqsIz6jZtqiwz76zMMDH6"
+        },
+        {
+          "name": "Stunna Gambino",
+          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179240,
+      "name": "Get Over You (feat. Stunna Gambino)",
+      "url": "https://open.spotify.com/track/5frxJmpBBWx1jiRsTHELJl"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -2919,7 +2963,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 272364,
       "name": "Gold Medals",
       "url": "https://open.spotify.com/track/3OCMZxU1rN32Kvb39JdsDm"
@@ -3179,6 +3223,24 @@
       "duration_ms": 231111,
       "name": "Head Melodies",
       "url": "https://open.spotify.com/track/4gAJm7FWFn57TodthhA4MK"
+    },
+    {
+      "album": {
+        "name": "The Ceremony",
+        "url": "https://open.spotify.com/album/3GTWAs19Lb1OVnPeFxc3l4"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147366,
+      "name": "Heal You",
+      "url": "https://open.spotify.com/track/2JnOiKlp8ulULY4psJBbX8"
     },
     {
       "album": {
@@ -4414,6 +4476,24 @@
     },
     {
       "album": {
+        "name": "The Ceremony",
+        "url": "https://open.spotify.com/album/3GTWAs19Lb1OVnPeFxc3l4"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Lil Yea",
+      "url": "https://open.spotify.com/track/1MLZBL9ZTB4PiPmfjtkMda"
+    },
+    {
+      "album": {
         "name": "Little Miss",
         "url": "https://open.spotify.com/album/2yJNQq4qviVMcukvnoFEzy"
       },
@@ -5039,7 +5119,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 180840,
       "name": "Mr. Right",
       "url": "https://open.spotify.com/track/28JyCkuq1jK3UGnZrd9fxC"
@@ -8024,6 +8104,24 @@
     },
     {
       "album": {
+        "name": "Still Playing The Shadows",
+        "url": "https://open.spotify.com/album/700VLsUT8tC9EaGocYexAw"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143438,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/3wj55IBTVauAvonKfjRc3b"
+    },
+    {
+      "album": {
         "name": "U & I",
         "url": "https://open.spotify.com/album/4WkQCXEpxT1gDqSWiVh0Of"
       },
@@ -8185,7 +8283,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 184335,
       "name": "Up And Down",
       "url": "https://open.spotify.com/track/35AVujsErg1f4OoqPwDPzJ"
@@ -8237,6 +8335,28 @@
       "duration_ms": 186234,
       "name": "Wait Too Long (feat. Blxst)",
       "url": "https://open.spotify.com/track/01GWSxT4tc8oCQDteIvLwM"
+    },
+    {
+      "album": {
+        "name": "Wanna Come Thru",
+        "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131900,
+      "name": "Wanna Come Thru",
+      "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
     },
     {
       "album": {
@@ -8923,7 +9043,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 164466,
       "name": "Without You (Blxst Interlude)",
       "url": "https://open.spotify.com/track/4o37I9GMKgu8bTvt4Zd4Ny"
@@ -9019,6 +9139,24 @@
       "duration_ms": 188333,
       "name": "WORTH IT (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx"
+    },
+    {
+      "album": {
+        "name": "Still Playing The Shadows",
+        "url": "https://open.spotify.com/album/700VLsUT8tC9EaGocYexAw"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182543,
+      "name": "Wraith",
+      "url": "https://open.spotify.com/track/69b4LVuAneVMRXxpAFBHUB"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,405 likes - 110 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,333 likes - 110 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 109 | [Snowman](https://open.spotify.com/track/7sCmR1u8HhlVJw6jZm928w) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Snowman](https://open.spotify.com/album/2obnuLWBPXqWAailC8sQ6e) | 2:38 |
 | 110 | [你的童話 \(電視劇《你也有今天》片尾曲\)](https://open.spotify.com/track/1yKfefGYc9vk125q1OrSPm) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [你的童話](https://open.spotify.com/album/5lCV1ehKM7jma7XgLQF2KD) | 5:27 |
 
-Snapshot ID: `MCw0NDE1N2Q2NGRkODM2OTBhOWY4MmVhZjJhMzU2NzJhYzZiNTc3ZWJj`
+Snapshot ID: `MCxjNmY1YmRhNGIyNDE3OWJhMDYwNmNmMzI4YzYxZTA3ZGEyYmMyY2Yw`

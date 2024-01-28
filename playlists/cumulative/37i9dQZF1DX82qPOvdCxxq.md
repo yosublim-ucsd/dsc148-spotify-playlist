@@ -4,7 +4,7 @@
 
 > Go deep in discovery for great new songs of faith and inspiration\. Cover:  Abby Robertson
 
-57 songs - 4 hr 17 min
+58 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Queen of a Wasteland](https://open.spotify.com/track/14IaGlfgUEAdGOU7hAILca) | [Becca Bradley](https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU) | [Queen of a Wasteland](https://open.spotify.com/album/4emHfbGjN1LqDZ6xuxfGhY) | 3:07 | 2021-02-12 |  |
 | [Sanctuary](https://open.spotify.com/track/3JfZKmChE4YwCVdTKNthxl) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Sanctuary](https://open.spotify.com/album/7lhWkN4foNYWC5zXArlA7H) | 3:42 | 2021-02-12 |  |
 | [Servant King](https://open.spotify.com/track/4ydC3M07LKqNX2zcP3ebdS) | [Awaken Generation](https://open.spotify.com/artist/3jB6QGZ8yLygO5TvEPjx8a), [Alarice](https://open.spotify.com/artist/1bIJRbWCp0gBVPcDzYNZT8), [Ian Chew](https://open.spotify.com/artist/25hYQoD09VbygymGPKfg4Y) | [Servant King](https://open.spotify.com/album/75Mfd9ZNkPFQu01K66LQMB) | 9:48 | 2021-02-12 |  |
-| [Take This Slowly // Autumn Sessions](https://open.spotify.com/track/4iaf7Xg99DoMVEIQIE27gs) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Take This Slowly / / Autumn Sessions](https://open.spotify.com/album/5iVZOUKr9l9iG6JeE4n6oq) | 4:46 | 2021-02-12 |  |
+| [Take This Slowly // Autumn Sessions](https://open.spotify.com/track/4b6UfKgoBxBLyJBkyHbAvj) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Take This Slowly // Autumn Sessions](https://open.spotify.com/album/0En2HzqrFPmB4eVYFiPa7M) | 4:46 | 2023-02-18 |  |
+| [Take This Slowly // Autumn Sessions](https://open.spotify.com/track/4iaf7Xg99DoMVEIQIE27gs) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Take This Slowly / / Autumn Sessions](https://open.spotify.com/album/5iVZOUKr9l9iG6JeE4n6oq) | 4:46 | 2021-02-12 | 2024-01-28 |
 | [Together \(Soundtrack from Year in Search\)](https://open.spotify.com/track/0HOPZn0IFpZS142x0uClQ0) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Chicago Children's Choir](https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg), [Matt Jones \(Re\-Collective Orchestra\)](https://open.spotify.com/artist/5aIudIa5jdxKBDLH1qVPWC) | [Together \(Soundtrack from Year in Search\)](https://open.spotify.com/album/1pFKxPHE8wZ3UsCAAcYO1J) | 3:12 | 2021-02-12 |  |
 | [Warriors](https://open.spotify.com/track/3dTVCb0537sxC1g9bhoFy1) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [Warriors](https://open.spotify.com/album/59IUZfwB5cpxuYHQ9bz37b) | 3:50 | 2021-02-12 |  |
 | [Where I Belong](https://open.spotify.com/track/3DMhc9kOCKfSYLwOFmqVg8) | [Graveyards to Gardens](https://open.spotify.com/artist/1EM7XPBRpj2YuJcWbzs9XI) | [Home](https://open.spotify.com/album/1rWqw8qoWyNvykOiQeREo0) | 3:33 | 2021-02-12 |  |

@@ -4,7 +4,7 @@
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-147 songs - 13 hr 20 min
+148 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bibelbeltet](https://open.spotify.com/track/1BkzpUKhtWEX9ZDwoIg84J) | [Moskus](https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa) | [Salmesykkel](https://open.spotify.com/album/3YffhrgdNcLooABYHzwDy4) | 2:49 | 2022-06-01 |  |
 | [Blodspredikan](https://open.spotify.com/track/53S5imgb3cHA3i19m2EuLP) | [Håvard Stubø Quartet](https://open.spotify.com/artist/7dmLpbha17tADigq4qlGvd) | [Kautokeino Undercover](https://open.spotify.com/album/6ihQPS7ppBCJwyXiQrFXrB) | 6:28 | 2022-06-01 | 2023-12-16 |
 | [Blue Hour](https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Blue Hour](https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX) | 5:19 | 2023-02-16 |  |
+| [Breathe](https://open.spotify.com/track/6HNqq2rRioDYe0BNih5xm8) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [Breathe](https://open.spotify.com/album/6G0tb5j8InjHabcmKZ71NB) | 2:58 | 2024-01-26 |  |
 | [C Moll Maj](https://open.spotify.com/track/2vmTcBCnGPosTKkcPEnhlb) | [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY), [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Fredrik Ljungkvist](https://open.spotify.com/artist/41tgRoG7bdxGN5qbEydB1w), [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh) | [Parish](https://open.spotify.com/album/3qndY4buaSQpCck6szBaEA) | 5:52 | 2022-06-01 | 2023-10-12 |
 | [Caring](https://open.spotify.com/track/3NCrt4D9TmN9QhVAJvEO9u) | [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [Caring](https://open.spotify.com/album/1ZchiiOZho0JAngKiT60Cd) | 6:09 | 2022-06-01 | 2023-09-16 |
 | [Children's Day \- Small Group Version](https://open.spotify.com/track/1rMHzChLvrywL6at5xFb44) | [Marius Neset](https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi) | [Children's Day](https://open.spotify.com/album/0wjbY4Isu7oa95Cu0Gzwot) | 6:55 | 2022-06-01 |  |
@@ -61,7 +62,7 @@
 | [Honey in Your Head](https://open.spotify.com/track/5BXqXJxV5qqCQ7SzAzGDVn) | [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [Stitches](https://open.spotify.com/album/4cAg6MR7qwKMTnEERZNb1K) | 3:42 | 2022-06-01 | 2023-11-04 |
 | [How Could It Be?](https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo) | [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS) | [How Could It Be?](https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk) | 4:45 | 2022-06-01 |  |
 | [Hymne](https://open.spotify.com/track/1VlE5KmU2VZ262ZMfw421w) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY) | [What Are You Doing the Rest of Your Life](https://open.spotify.com/album/2BVN35fZ4R97yOoq4MB3H3) | 4:52 | 2023-02-11 | 2023-09-01 |
-| [I Kirken](https://open.spotify.com/track/7sEygfTquCCu3h5wGsMJeF) | [Jakob Sørensen](https://open.spotify.com/artist/0X5V6eviwYY5xnC8ryCbRq), [Bagland](https://open.spotify.com/artist/2keQ0ZJ8qgOTJte7PPBRzn) | [Cirkel](https://open.spotify.com/album/3iGpwXE8cKFIXeVjAF7svY) | 4:29 | 2022-06-01 |  |
+| [I Kirken](https://open.spotify.com/track/7sEygfTquCCu3h5wGsMJeF) | [Jakob Sørensen](https://open.spotify.com/artist/0X5V6eviwYY5xnC8ryCbRq), [Bagland](https://open.spotify.com/artist/2keQ0ZJ8qgOTJte7PPBRzn) | [Cirkel](https://open.spotify.com/album/3iGpwXE8cKFIXeVjAF7svY) | 4:29 | 2022-06-01 | 2024-01-28 |
 | [Iben](https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt) | [Kjetil Jerve](https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A) | [The Soundtrack of My Home](https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U) | 4:00 | 2022-06-01 |  |
 | [Insomnia](https://open.spotify.com/track/5f8t87EAUOP4JLHGfvVD9Z) | [Søren Dahl Jeppesen](https://open.spotify.com/artist/3yrWnykkPPROYEYdfuhJNX), [Óskar Guðjónsson](https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N) | [Pipe Dreams](https://open.spotify.com/album/1rDxdpTzfIOsPixMN5unj8) | 4:50 | 2022-06-01 |  |
 | [Jeg gik mig ud en Sommerdag](https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda), [Nils Bo Davidsen](https://open.spotify.com/artist/2r34nP7vhdUQj6D8Hx2R6l), [Stefan Pasborg](https://open.spotify.com/artist/51WkZxHdfF1tlqejXDc2AY) | [Painting Music](https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ) | 4:18 | 2022-06-01 |  |

@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-763 songs - 2 day 2 hr 23 min
+764 songs - 2 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [CANDY MOON](https://open.spotify.com/track/2zqbFeCXeON4VggxeAatGd) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [New Beautiful](https://open.spotify.com/album/4BFKguk68XmcaazFf6GU9S) | 3:51 | 2022-05-24 | 2022-07-26 |
 | [Candy ’23](https://open.spotify.com/track/4wz8H4DU6esccn4xFeQsVf) | [BENI](https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI) | [Candy ’23](https://open.spotify.com/album/6rPssY3rO2VWkshsO5FTbe) | 4:41 | 2023-05-09 | 2023-06-21 |
 | [Capsule](https://open.spotify.com/track/63yICY4anYaDErIyT6sxv7) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011) | [Capsule](https://open.spotify.com/album/1oQ6rg9khddeMQkPhGNjyb) | 3:40 | 2022-08-23 | 2022-10-16 |
+| [CAT'S EYE 2023](https://open.spotify.com/track/0FGWm15bVNXkutFq3tJkGE) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [CAT'S EYE 2023](https://open.spotify.com/album/1TZ8PFIs5YVM8B6ybcsyvY) | 2:49 | 2024-01-25 |  |
 | [CAT'S EYE 2023](https://open.spotify.com/track/43yvgvumHPrqko99AlK1jX) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [LUPIN THE THIRD VS CAT'S EYE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/12eUMGk9JZKeSHZ2z6UcMa) | 2:49 | 2023-01-26 | 2023-03-15 |
 | [CATCH THE RAINBOW](https://open.spotify.com/track/1Cwlmkh0KR2EmrazPKJScv) | [Junk Fujiyama](https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J) | [CATCH THE RAINBOW](https://open.spotify.com/album/5TfgfGhPhDk9XdyROheBp1) | 4:50 | 2023-01-31 | 2023-02-02 |
 | [CATCH THE RAINBOW](https://open.spotify.com/track/6V0DEhuDfPk5AUfK31TB9J) | [Junk Fujiyama](https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J) | [CATCH THE RAINBOW](https://open.spotify.com/album/5Dvsfy1GgbwHVcKpXK2uER) | 4:50 | 2023-01-31 | 2023-02-08 |
@@ -348,7 +349,7 @@
 | [R.A.W](https://open.spotify.com/track/4Laa0BbgMXuUBJqeo3LWtQ) | [DeNeel](https://open.spotify.com/artist/4Z4FrPA5tZFztkxVw4XfdX) | [\- 色相 \-](https://open.spotify.com/album/2Gism5ZelQ0ProH55pERAz) | 3:37 | 2022-12-27 | 2023-01-11 |
 | [Rain Of Your Heart](https://open.spotify.com/track/15ZcdsP8WZcifDH1AwAm9O) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [A.Y.A e.p](https://open.spotify.com/album/0DqIJCwOCkKi4HLuxuSbn3) | 4:33 | 2023-02-28 | 2023-07-12 |
 | [Rainin' on my parade](https://open.spotify.com/track/4bjbD3oRzJKcGKx0isRWDI) | [sty](https://open.spotify.com/artist/1Bx5PeSHoY8IjIOZMnBo3Z) | [Rainin' on my parade](https://open.spotify.com/album/0I6IpubleNWNAZkDllZaCR) | 3:08 | 2022-09-08 | 2022-09-15 |
-| [Rainy Day](https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Rainy Day](https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu) | 3:01 | 2023-11-21 |  |
+| [Rainy Day](https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Rainy Day](https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu) | 3:01 | 2023-11-21 | 2024-01-28 |
 | [Rainy Runway](https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Rainy Runway](https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH) | 4:01 | 2022-06-21 |  |
 | [Rainy Talk](https://open.spotify.com/track/0ttL7VeLEqQYVhimPKlqZM) | [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [Golden Circle](https://open.spotify.com/album/57BcxFEK536HPkPFLW6pI2) | 3:29 | 2022-05-24 | 2022-07-20 |
 | [Rainy Talk \- Shady Monk Remix](https://open.spotify.com/track/1QEwfkBc0QByf0SGR0Qwww) | [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv), [Shady Monk](https://open.spotify.com/artist/5oagHUnrrs68cnBmXa3UB8) | [Rainy Talk Remixies](https://open.spotify.com/album/53INaaiMjGDFlTs9S19Xzr) | 3:40 | 2023-01-17 | 2023-01-25 |

@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-172 songs - 9 hr 33 min
+173 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Legacy](https://open.spotify.com/track/7afpuAsblQQuHUk58VGNx0) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j), [Last Word](https://open.spotify.com/artist/4xhbLq3ngCmSNOIoqyS3AG) | [Legacy \(feat\. Last Word\)](https://open.spotify.com/album/37TqwiOBSOpGaQwiE1iKiJ) | 3:38 | 2022-12-08 | 2022-12-16 |
 | [Let Go](https://open.spotify.com/track/2n4ddu9TEIPoL3IQP88uk6) | [Envine](https://open.spotify.com/artist/4jxFb0CASzyps1aMpZOxyi), [REKALL](https://open.spotify.com/artist/6I21Q5XZwxPffqsQ9PXjsp), [Myke](https://open.spotify.com/artist/4MQJh64qUPAmGoeW7sL1OY) | [Let Go](https://open.spotify.com/album/4GgXak6TYk4IMUTFq7dZD3) | 2:47 | 2023-02-28 | 2023-03-08 |
 | [Let's Go Insane \(Into The Madness 2023 OST\)](https://open.spotify.com/track/321NLHCw7fk329HwnpDw9S) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Let's Go Insane \(Into The Madness 2023 OST\)](https://open.spotify.com/album/4CXFQdtkKxov3rjvmDsML2) | 3:35 | 2023-11-17 | 2024-01-18 |
+| [Let's Go Insane \(Into The Madness 2023 OST\)](https://open.spotify.com/track/4sCkVuX3Nj0guPB7LCksHt) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Let's Go Insane \(Into The Madness 2023 OST\)](https://open.spotify.com/album/10wLUtDoGhJE1Jv0ARmRv9) | 3:35 | 2023-12-04 |  |
 | [Live Fast Die Young](https://open.spotify.com/track/6Dr20NRSnMh9NT76D4FNqk) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Live Fast Die Young](https://open.spotify.com/album/4T6rUAR786jTllgifeo6Zx) | 4:01 | 2022-12-08 |  |
 | [Living In A Rave](https://open.spotify.com/track/1jtelkyKjyRJTIhhf4yfxG) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Living In A Rave](https://open.spotify.com/album/2cBej5XP6FobrzbHVLooZW) | 3:19 | 2023-11-09 |  |
 | [Lonely \(Brennan Heart Remix\)](https://open.spotify.com/track/6xjHeCdwsBoUYrEN2kJ998) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Lonely \(Brennan Heart Remix\)](https://open.spotify.com/album/1fUbkjcFgBhw185phdtJJX) | 3:50 | 2022-12-08 |  |
@@ -174,7 +175,7 @@
 | [Way Of The Warrior](https://open.spotify.com/track/74i3mwBXn9RpmiYhy6krAu) | [MYST](https://open.spotify.com/artist/18UStRMkfnMhX5Qxzhylej) | [Way Of The Warrior](https://open.spotify.com/album/6OJw0qC7WWsHEQ17o1hpuI) | 3:58 | 2023-05-10 | 2023-05-16 |
 | [WE AIN'T THE SAME](https://open.spotify.com/track/5qRAZhmiBhlAAznrdyExqE) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w) | [WE AIN'T THE SAME](https://open.spotify.com/album/5ql8Jq6Ze6CJTD9rIgg2Hq) | 2:51 | 2023-02-09 | 2023-02-15 |
 | [We Go Up \- Da Tweekaz Remix](https://open.spotify.com/track/21eGoV8gNSgKWuYE6HCqXO) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [We Go Up \(Remixes\)](https://open.spotify.com/album/0lmlSYKEwEBY3U0c1haM5a) | 3:38 | 2023-02-09 | 2023-04-26 |
-| [What You Give Is What You Get](https://open.spotify.com/track/2Gt8l0oXk0ZuGtpwkN67z0) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Clockartz](https://open.spotify.com/artist/7GVB7uYTgkeYtLJxYMYYDp) | [What You Give Is What You Get](https://open.spotify.com/album/5cR4r1R6oN6v5DNXNUx2AK) | 3:27 | 2022-12-08 |  |
+| [What You Give Is What You Get](https://open.spotify.com/track/2Gt8l0oXk0ZuGtpwkN67z0) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Clockartz](https://open.spotify.com/artist/7GVB7uYTgkeYtLJxYMYYDp) | [What You Give Is What You Get](https://open.spotify.com/album/5cR4r1R6oN6v5DNXNUx2AK) | 3:27 | 2022-12-08 | 2024-01-28 |
 | [What You Heard](https://open.spotify.com/track/6n6xZkucdDYETMuqOmZ8OI) | [Phrantic](https://open.spotify.com/artist/2Bg6vhG3aY7ixxqEGZeos6), [LXCPR](https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0) | [What You Heard](https://open.spotify.com/album/5cUjfZQV7IaaYi89yzz3L4) | 2:42 | 2022-12-15 |  |
 | [With You](https://open.spotify.com/track/2qR8jsXwHJccStxQUQFXyx) | [MYST](https://open.spotify.com/artist/18UStRMkfnMhX5Qxzhylej) | [With You](https://open.spotify.com/album/3kHnXUrJmc696tghdqE2d5) | 3:18 | 2023-02-28 | 2023-04-23 |
 | [Won't Forget](https://open.spotify.com/track/7JXZuqmi5XC8pfiNgeF1yZ) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Xillions](https://open.spotify.com/artist/4bi8SmsdSp5AoD6RFZjyjW) | [Won't Forget](https://open.spotify.com/album/6PnHSLrP5IYAubIo3fT2n7) | 2:32 | 2022-12-08 |  |

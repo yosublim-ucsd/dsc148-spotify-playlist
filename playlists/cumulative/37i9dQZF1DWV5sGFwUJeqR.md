@@ -4,7 +4,7 @@
 
 > El género cubano cantable y bailable por excelencia.
 
-107 songs - 7 hr 55 min
+108 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Guajira \(I Love U 2 Much\)](https://open.spotify.com/track/5lQCYm9wTxbRgvrNNwN9xu) | [Yerba Buena](https://open.spotify.com/artist/024R83OqqR3AgPjYc3QtyT) | [President Alien](https://open.spotify.com/album/6iXN0n421mEm5R1tpznHkx) | 4:09 | 2020-04-30 | 2022-07-29 |
 | [Guajira \(I Love U 2 Much\)](https://open.spotify.com/track/6LuKwOlk7P0ZpR9L6c9b4y) | [Yerba Buena](https://open.spotify.com/artist/024R83OqqR3AgPjYc3QtyT) | [President Alien](https://open.spotify.com/album/1kF981Cq9HULhdiAxKH5FH) | 4:09 | 2022-03-31 |  |
 | [Guantanamera](https://open.spotify.com/track/6ek8f65UGCZaiIBcXkexlE) | [Joseito Fernández](https://open.spotify.com/artist/7ggrY9cEKx1pnl2lkqx4gu) | [La Música de La Bodeguita: Vol\. 1 De Cuba con Sabor](https://open.spotify.com/album/4zU5ji5KJmtovm3pgEsCGc) | 4:28 | 2020-04-30 |  |
-| [La Charanga](https://open.spotify.com/track/1eI3JFc73k6RnwLwp4ld6b) | [Banda Caio Rodriguez](https://open.spotify.com/artist/3r3LCgq60jmbEQkEh2Q8aW), [Hector Rey](https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv), [Los Brillantes Cubanos](https://open.spotify.com/artist/0LcZ3t6cQtrE8IASQxDmcu) | [Cuba Café \(The Very Best of Cuban Music\)](https://open.spotify.com/album/6AcFLwyRVfDb0MubVagUdl) | 4:23 | 2020-04-30 |  |
+| [La Charanga](https://open.spotify.com/track/1eI3JFc73k6RnwLwp4ld6b) | [Banda Caio Rodriguez](https://open.spotify.com/artist/3r3LCgq60jmbEQkEh2Q8aW), [Hector Rey](https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv), [Los Brillantes Cubanos](https://open.spotify.com/artist/0LcZ3t6cQtrE8IASQxDmcu) | [Cuba Café \(The Very Best of Cuban Music\)](https://open.spotify.com/album/6AcFLwyRVfDb0MubVagUdl) | 4:23 | 2020-04-30 | 2024-01-28 |
+| [La Charanga](https://open.spotify.com/track/2MmWRM10MZjuNXZ2xRAEYf) | [Grupo Cubanissimo](https://open.spotify.com/artist/4IxM9uSjSfajUXJzXLKR3a) | [Cuba Libre Vol\. 1](https://open.spotify.com/album/6qEaoYEsuLjSvOhb6EARZr) | 4:22 | 2022-03-31 |  |
 | [La Linda Guajira](https://open.spotify.com/track/3DiLD4JMR4bh7XLUhRmQys) | [Los Guaracheros De Oriente](https://open.spotify.com/artist/0BzFtDQ64uQV9fjIu1XVom), [Ramon Veloz](https://open.spotify.com/artist/3z21nEY2AtJEy2pKYdAGxM) | [Linda Guajira](https://open.spotify.com/album/4vF1RjBN15TIuUJqibuU80) | 2:58 | 2022-03-31 |  |
 | [Linda Guajira](https://open.spotify.com/track/5NoSDAwQwiNgP0TV8WsEXM) | [Los Guaracheros De Oriente](https://open.spotify.com/artist/0BzFtDQ64uQV9fjIu1XVom) | [Linda Guajira](https://open.spotify.com/album/7uP2wJQppJlcVEC2v4oHEd) | 2:58 | 2020-04-30 | 2022-07-29 |
 | [Linda Guajira](https://open.spotify.com/track/56InMnlbWDx8zKj0hn1PZV) | [Ramón Veloz](https://open.spotify.com/artist/1kOqFbCsFak1qdXeZPy0kk) | [The Classics Of Ramon Veloz](https://open.spotify.com/album/07oW9bclZkKn31x34cSWCw) | 2:59 | 2022-03-31 | 2022-11-13 |

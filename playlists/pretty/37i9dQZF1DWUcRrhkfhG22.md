@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 
 > Funky vocoders and talk boxes
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,011 likes - 85 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,032 likes - 85 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 38 | [Love Thang \- Long Version](https://open.spotify.com/track/55Q1gdClrnRYk8HnRkUK0m) | [Fredi Grace](https://open.spotify.com/artist/1lDpsgE48uQcfZh6vpj8Fh), [Rhinstone](https://open.spotify.com/artist/53kfXebhQMaddxG1eDbCgp) | [Get On Your Mark \(Expanded Version\)](https://open.spotify.com/album/1CzTtpcgi4LvfR3u02t1gk) | 7:17 |
 | 39 | [Do that dance](https://open.spotify.com/track/5GoI2NdKncz3WERdzO68KV) | [Modogsta](https://open.spotify.com/artist/786qXsqlTqvPpf5ncqTOWV) | [Modogsta](https://open.spotify.com/album/2R7oZd9PZE6jl7ueT7uekh) | 4:27 |
 | 40 | [Destiny \(Electric House\)](https://open.spotify.com/track/1OW7Tc4LlUli3bNIVgAbTM) | [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [The Remix Animated](https://open.spotify.com/album/3zquMij5PJ1itKFatEmb0p) | 4:47 |
-| 41 | [Winning](https://open.spotify.com/track/5aoEP8goqbvoI7ITs2SVAo) | [Fingazz](https://open.spotify.com/artist/5r1yBS6lhh7Mo4Egr3k0JT) | [Winning](https://open.spotify.com/album/4UQCFBr4wdsGQmcdXyoVcV) | 3:39 |
+| 41 | [Winning](https://open.spotify.com/track/5MAAoqcWFV9jliGzvQuGtO) | [Fingazz](https://open.spotify.com/artist/5r1yBS6lhh7Mo4Egr3k0JT) | [Winning](https://open.spotify.com/album/5jF0kVrm6JWRgwY7nhpwto) | 3:39 |
 | 42 | [E=mc2](https://open.spotify.com/track/6EJUYauBxM66Jrz1X9MqqT) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [The Shining](https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5) | 3:17 |
 | 43 | [Dance And Get Your Funky On](https://open.spotify.com/track/7d5cRPlf0aAHgQvu9mOxbk) | [Woddyfunk](https://open.spotify.com/artist/4TfsQDVMAkODsfTys9hOUT) | [What's My Name?](https://open.spotify.com/album/4tkibNa3vdgTgE1Z0KXU8T) | 4:29 |
 | 44 | [Freaks Come Out at Night](https://open.spotify.com/track/1JKJZLqLUh0vlemaD3IfLe) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [Escape \(Expanded Edition\)](https://open.spotify.com/album/0wXylkn9taeEjiiac1S2zU) | 4:44 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 84 | [Closer to You](https://open.spotify.com/track/174JRizws7VqM3oCF8zruo) | [Captain Supernova](https://open.spotify.com/artist/4BnBLvVYiuGjT6hNpZRzCH) | [The Voyage Never Ends...](https://open.spotify.com/album/2FzPLZyS7d7g6GneVKT4Kx) | 5:04 |
 | 85 | [Pomslap](https://open.spotify.com/track/1o93PmeUiSJopZ70Z4LlMK) | [Pomrad](https://open.spotify.com/artist/4PM7uuFnzArhW3FNNBeMXA) | [This Day EP](https://open.spotify.com/album/4zRbQIkHYXOBEoL84vEqTJ) | 4:04 |
 
-Snapshot ID: `MCxhNWMzZDhlNTc4OGZkYjI1NTZmZGIzODBjMzc4ZDc4YjUzMzEzMDgx`
+Snapshot ID: `MCxiMjE4OTc5ODliODM3NzY1MGJmYzgxOTMzNTBmYmFmYjc4ZjJlMzk2`

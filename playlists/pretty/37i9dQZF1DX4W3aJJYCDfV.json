@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Skepta, Justin Timberlake, Etta Marcus and more!",
-  "num_followers": 845298,
+  "num_followers": 845069,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTRmODljMDJmMjQwOWI2MzEwMjNmYjE5MjY4NTEzMmJjODkzZTlh",
+  "snapshot_id": "MCwwMTI3ZDEwMmZkOTZlN2QzODE0YTNhYmE0MmYwNzI3NWU3MjYzOWY1",
   "tracks": [
     {
       "added_at": "2024-01-26 00:00:00",
@@ -815,7 +815,7 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Rocket Science",
+        "name": "Rocket Science / You Don\u2019t Love Me",
         "url": "https://open.spotify.com/album/23BaWTGCVFzPqnJ6BGVDcZ"
       },
       "artists": [
@@ -1025,7 +1025,7 @@
         },
         {
           "name": "Brodie",
-          "url": "https://open.spotify.com/artist/1Ad52Lq9RkPsrCf4j42mRz"
+          "url": "https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t"
         }
       ],
       "duration_ms": 171379,
@@ -1587,7 +1587,7 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Tell Me",
+        "name": "Why Don't You Tell Me?",
         "url": "https://open.spotify.com/album/1ScIwizlWheuWXKQNPz2Xp"
       },
       "artists": [
@@ -1601,7 +1601,7 @@
         }
       ],
       "duration_ms": 166166,
-      "name": "Tell Me",
+      "name": "Why Don't You Tell Me?",
       "url": "https://open.spotify.com/track/6mxXwwYJ6bw3k3umqlVgkv"
     },
     {
@@ -1832,16 +1832,16 @@
           "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
         },
         {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        },
-        {
           "name": "Deyah",
           "url": "https://open.spotify.com/artist/7FVYHSqy6wB2PCifeS81fb"
         },
         {
           "name": "Joel Baker",
           "url": "https://open.spotify.com/artist/02Ok0rA4DUmpWuALgD54iY"
+        },
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
         }
       ],
       "duration_ms": 234320,

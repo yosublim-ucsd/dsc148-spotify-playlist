@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 1384122,
+  "2024-01-28": 1383500,
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Teezo Touchdown",
+  "description": "Leaders of the new school...Alternative R&B. Cover: Hiatus Kaiyote",
   "name": "Vanguard",
   "tracks": [
     {
@@ -803,7 +803,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 253531,
       "name": "All I've Got",
       "url": "https://open.spotify.com/track/5zpTPxwvDo0qsrw5ISPaqp"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 140241,
       "name": "ALL THAT U WANT",
       "url": "https://open.spotify.com/track/1jHq0Xqbb49WLRUq0kMFzz"
@@ -4080,6 +4080,24 @@
     },
     {
       "album": {
+        "name": "Conversations",
+        "url": "https://open.spotify.com/album/2Ny2uwkmwda4hhIKCpo086"
+      },
+      "artists": [
+        {
+          "name": "Rhyan Douglas",
+          "url": "https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Conversations",
+      "url": "https://open.spotify.com/track/45h8fd89Ft7vIaGMDWNFOV"
+    },
+    {
+      "album": {
         "name": "coogie",
         "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
       },
@@ -5631,6 +5649,24 @@
       "duration_ms": 228000,
       "name": "Everybody's Gotta Learn Sometimes",
       "url": "https://open.spotify.com/track/1NIsLZ5LgLUccEM6XGWYRw"
+    },
+    {
+      "album": {
+        "name": "Everything\u2019s Beautiful",
+        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170479,
+      "name": "Everything\u2019s Beautiful",
+      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
     },
     {
       "album": {
@@ -7425,7 +7461,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 156053,
       "name": "Good Guys",
       "url": "https://open.spotify.com/track/33qepYPIBzWlDVJtpV2oAK"
@@ -8045,7 +8081,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 196373,
       "name": "Hello",
       "url": "https://open.spotify.com/track/0AvmYTwL16E2CAqCrXP0dW"
@@ -13323,6 +13359,32 @@
       "duration_ms": 243701,
       "name": "phases (feat. Kojey Radical)",
       "url": "https://open.spotify.com/track/2kLMWqTsPb3i5QfLmnOAhM"
+    },
+    {
+      "album": {
+        "name": "PHONICS (feat. WESTSIDE BOOGIE & Tempest)",
+        "url": "https://open.spotify.com/album/2NjWGl9tN0HbuqjSzlBBVp"
+      },
+      "artists": [
+        {
+          "name": "Asha Imuno",
+          "url": "https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT"
+        },
+        {
+          "name": "Tempest",
+          "url": "https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa"
+        },
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214200,
+      "name": "PHONICS (feat. WESTSIDE BOOGIE & Tempest)",
+      "url": "https://open.spotify.com/track/1xsgBPMUrBYyZPMP8RjiWC"
     },
     {
       "album": {
@@ -18783,6 +18845,24 @@
       "duration_ms": 178244,
       "name": "Until the Morning",
       "url": "https://open.spotify.com/track/23nazhLti7GDrOZP6429l8"
+    },
+    {
+      "album": {
+        "name": "Life Thru New Lens",
+        "url": "https://open.spotify.com/album/7CbzHetysPW4nXRdt0ktnE"
+      },
+      "artists": [
+        {
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Unusual",
+      "url": "https://open.spotify.com/track/6UNcVgg8SUq0UHcHBHZgbT"
     },
     {
       "album": {

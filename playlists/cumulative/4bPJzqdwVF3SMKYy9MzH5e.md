@@ -4,7 +4,7 @@
 
 > 
 
-1,856 songs - 4 day 4 hr 20 min
+1,858 songs - 4 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Bipolar Disorder](https://open.spotify.com/track/1IiX9OzSR8Px5FVTnOocnx) | [Ame Gedeon](https://open.spotify.com/artist/6i0jPA1cNtyLlSIJBvalDB) | [A.T.E.S.A.](https://open.spotify.com/album/2dMzUjogFd346gwr3KznlX) | 3:36 | 2022-11-04 |  |
 | [BIPP](https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [BIPP](https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU) | 3:44 | 2021-08-05 |  |
 | [Birthday Bitch](https://open.spotify.com/track/6oGC8yJo0FAd4L7Cqp4zJ8) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Birthday Bitch](https://open.spotify.com/album/6ydhoN0onFh7MArs9PiGey) | 3:36 | 2021-08-05 |  |
+| [Birthday Music for Sigurd Rascher: Molto vivace](https://open.spotify.com/track/1ly1sOkrlCDwVwcutLlaYF) | [Lawrence Gwozdz](https://open.spotify.com/artist/2gs8Ak7REWbYwnr7Iqo82Q), [Steffen Hass](https://open.spotify.com/artist/1vQcviiulxIF7WBhswoHBn), [Lois Leventhal](https://open.spotify.com/artist/41oUPjQ6WpUVU3NNDibdbe) | [Rascher International](https://open.spotify.com/album/3tCatEDB8l8xXBT7pUfrbw) | 2:20 | 2024-01-27 |  |
 | [Bitch Better Have My Money](https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Bitch Better Have My Money](https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9) | 3:39 | 2021-08-05 |  |
 | [Bitch Bites Dog](https://open.spotify.com/track/78xCI7hkmeiveXBP4uhYww) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Plucking a Cherry From The Void](https://open.spotify.com/album/0f8LysahQxKbtIQfp5Gi8K) | 3:32 | 2022-02-04 |  |
 | [Bitch Lasagna](https://open.spotify.com/track/1AKGJQIHP3dIPuhOjdxD6a) | [pewdiepie](https://open.spotify.com/artist/1JOdUvDAzNy3L37rZ4Nigr), [Party in Backyard](https://open.spotify.com/artist/7vGkwxpdjmp2UoWRIfqrVc) | [Bitch Lasagna](https://open.spotify.com/album/011iiGYooEuNN0c4770O6q) | 2:14 | 2021-08-05 |  |
@@ -1141,6 +1142,7 @@
 | [Nice 2 Know Ya \- Instrumental](https://open.spotify.com/track/5rlUoCX2fvOgUS7gjCbgdi) | [Sylendanna](https://open.spotify.com/artist/44vCSKVEePe8jkoLBTmGwO) | [Nice 2 Know Ya \(Instrumental\)](https://open.spotify.com/album/1a7mMc3719Bxg8CHI8WuaO) | 2:12 | 2022-12-25 |  |
 | [Nice Guy](https://open.spotify.com/track/3TNDk80olTuIGAABva4Teb) | [GRLwood](https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe) | [Daddy](https://open.spotify.com/album/1R2Ky437vHsCBUGwKoVcmK) | 1:33 | 2022-04-14 |  |
 | [Nice to meet you \(feat\. Central Cee\)](https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:42 | 2023-11-30 |  |
+| [Nice to see you](https://open.spotify.com/track/6JVYjNRNYU32o3fUqbr4yt) | [Catalyst...](https://open.spotify.com/artist/4RBpDOH0QTYMcc70rjvFLb) | [CATALYST \(self titled\)](https://open.spotify.com/album/1EICcYyGlrAMKvveWYe0ek) | 2:44 | 2024-01-27 |  |
 | [Nier Synopsis](https://open.spotify.com/track/4NGhM0KLng2de6g8WyFKPM) | [Windowshopping](https://open.spotify.com/artist/0y0oVfboNhPRm14rOzNann) | [Andromeda](https://open.spotify.com/album/2cDY4wa1QeqFmp5i1ma5tZ) | 2:56 | 2023-04-26 |  |
 | [Night Blooming Jasmine \- Rodriguez Jr\. Remix Edit](https://open.spotify.com/track/4p2huo3cTwy477D3Y9bKWP) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Night Blooming Jasmine \(Rodriguez Jr\. Remix\)](https://open.spotify.com/album/36j7x0WDVyci5im121F4dh) | 5:16 | 2021-09-15 |  |
 | [Nihil](https://open.spotify.com/track/1nB6VmrPybx4xwkL80OqdA) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [N / O / I / S / E](https://open.spotify.com/album/2W5rUof3EANdwzqAMtAWhF) | 2:27 | 2021-08-05 |  |

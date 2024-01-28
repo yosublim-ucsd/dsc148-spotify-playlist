@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-570 songs - 2 day 6 hr 26 min
+571 songs - 2 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [FANTASIZE](https://open.spotify.com/track/155OwUtXixaS773beh6FBD) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [FANTASIZE](https://open.spotify.com/album/0V9G9Hpr3BehgRxg7yuCsv) | 6:32 | 2023-06-30 | 2023-07-03 |
 | [Farsi](https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Farsi](https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU) | 8:41 | 2022-05-27 | 2023-11-22 |
 | [Fata Morgana](https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ) | [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Fata Morgana](https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz) | 5:09 | 2023-04-21 | 2023-06-03 |
-| [Find U](https://open.spotify.com/track/6ZszWxc2N3E1W200tDEAQs) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Find U](https://open.spotify.com/album/5clE9ya21baTT6qhtNEVF9) | 3:34 | 2023-12-15 |  |
+| [Find U](https://open.spotify.com/track/6ZszWxc2N3E1W200tDEAQs) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Find U](https://open.spotify.com/album/5clE9ya21baTT6qhtNEVF9) | 3:34 | 2023-12-15 | 2024-01-28 |
 | [Firedance \- Burningman Original](https://open.spotify.com/track/5Cic0iN6YlMzHtQxbGz0Gr) | [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq), [Simon Vuarambon](https://open.spotify.com/artist/2W3M7XIkEKENCT1LXJ6mdj), [Sidartha Siliceo](https://open.spotify.com/artist/3eeLa5OM4VTkCi6XK84yDE) | [Firedance EP](https://open.spotify.com/album/3PxySRX2mtpektDFcDXsQw) | 8:26 | 2021-04-21 | 2022-07-29 |
 | [Fixed Nostalgia](https://open.spotify.com/track/1NrxsJ8tPjxG24VWXA4k8P) | [Ditian](https://open.spotify.com/artist/6JIvK1wvwFlrjpAWjETPLx) | [Dixon & Âme Present Limbo](https://open.spotify.com/album/4mG0wdymDEjVc8S8LcShI5) | 7:46 | 2021-05-26 | 2022-04-21 |
 | [Fizzy Pop](https://open.spotify.com/track/7LmGa79StJLeRa7MANCorW) | [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8) | [Fizzy Pop](https://open.spotify.com/album/18udJDR6IOSryeSoikVva6) | 4:08 | 2022-08-05 | 2023-07-07 |
@@ -562,6 +562,7 @@
 | [Waves of the Soul](https://open.spotify.com/track/4bkdXYkvmAAji6VWevl6Ve) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul](https://open.spotify.com/album/16eDzM06HNV3eGenqZknA5) | 3:32 | 2022-07-01 | 2023-06-24 |
 | [We Will Forgive Ourselves](https://open.spotify.com/track/7MbPQvkLAQEsmln2BRn2u0) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [We Will Forgive Ourselves](https://open.spotify.com/album/11IyXqq9Br1aLPdmTQJ4TD) | 6:31 | 2022-04-29 | 2022-07-29 |
 | [Wespennest \- Edit](https://open.spotify.com/track/4O2pqaEaHXhSXFmcy7bNLV) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Wespennest](https://open.spotify.com/album/0XkiX0O9zILe3t5Zm815lz) | 3:30 | 2023-07-14 | 2023-12-15 |
+| [What A Wonderful World \- Greg Cerrone Remix](https://open.spotify.com/track/56ggEwgh0zcUaXAJbQz6Xo) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r), [Greg Cerrone](https://open.spotify.com/artist/2UOiCy0MQgPxoBSKPatc3X) | [What A Wonderful World \(Greg Cerrone Remix\)](https://open.spotify.com/album/1miEyp3H9WdZtHXQPMui4r) | 3:03 | 2024-01-26 |  |
 | [When the Lights Go Out](https://open.spotify.com/track/51T5k0OjVZE6d8O1UwTU7W) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [When the Lights Go Out](https://open.spotify.com/album/1L7MYLhgLH4LAevJrd0OJx) | 3:41 | 2023-06-09 |  |
 | [Where I Find My Mind](https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Where I Find My Mind](https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM) | 3:32 | 2023-03-10 |  |
 | [Where We Should Be](https://open.spotify.com/track/1epNzxapV6ZZ6XkSAU0LMW) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Where We Should Be](https://open.spotify.com/album/0TAPk95TmI780w2yqJzmGt) | 4:31 | 2023-01-27 | 2023-03-02 |

@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 26826,
+  "2024-01-28": 26853,
   "date_first_scraped": "2022-03-24",
-  "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: ogoin, Linguini",
+  "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: Oklin, Prod. 2t",
   "name": "Rima Avan\u00e7ada",
   "tracks": [
     {
@@ -2606,6 +2606,28 @@
     },
     {
       "album": {
+        "name": "FAZENDO GRANA COM RIMA!",
+        "url": "https://open.spotify.com/album/2ZM0fgf0JNzlij7nlFOqJP"
+      },
+      "artists": [
+        {
+          "name": "Puyol",
+          "url": "https://open.spotify.com/artist/3I40IzmWD1UYZzZM5U5Q0x"
+        },
+        {
+          "name": "Rossato",
+          "url": "https://open.spotify.com/artist/1iGxbhwpgFmsxVLvPsDefp"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186514,
+      "name": "FAZENDO GRANA COM RIMA!",
+      "url": "https://open.spotify.com/track/0vJmO0AauB4mMPWuVfMgU0"
+    },
+    {
+      "album": {
         "name": "Fazendo o Sinal",
         "url": "https://open.spotify.com/album/6CBy7iii9xKJJr7C4lCnQe"
       },
@@ -4048,6 +4070,28 @@
     },
     {
       "album": {
+        "name": "Naipe Vagabundo",
+        "url": "https://open.spotify.com/album/2EBo00f8mLpLWtZHdlaATT"
+      },
+      "artists": [
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136383,
+      "name": "Naipe Vagabundo",
+      "url": "https://open.spotify.com/track/0gUYr9h0KIYEDW3yZpKDm9"
+    },
+    {
+      "album": {
         "name": "Namorada Nova",
         "url": "https://open.spotify.com/album/3SggglQj8jp2Jgaf8sMTkX"
       },
@@ -4079,6 +4123,36 @@
       "duration_ms": 226285,
       "name": "Namorada Nova",
       "url": "https://open.spotify.com/track/65gAkSz41YfDQ4S70TG9Jd"
+    },
+    {
+      "album": {
+        "name": "Nas Ruas de BH",
+        "url": "https://open.spotify.com/album/0fZI0UZ8i2R5S4hxYa5Hm9"
+      },
+      "artists": [
+        {
+          "name": "Brun4o",
+          "url": "https://open.spotify.com/artist/0r3oI0U6iGVol695l8A1gk"
+        },
+        {
+          "name": "Mc Vini",
+          "url": "https://open.spotify.com/artist/7vKISOGdZa32KcWjGnEJoj"
+        },
+        {
+          "name": "ZukaNoBeat",
+          "url": "https://open.spotify.com/artist/27Mss8I206zigyeQjXdQxn"
+        },
+        {
+          "name": "DannyZoo",
+          "url": "https://open.spotify.com/artist/3YDnPoHopVbRrjWPq0Kc6l"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221569,
+      "name": "Nas Ruas de BH",
+      "url": "https://open.spotify.com/track/0YmsS7zUMslIsIg9NxHrGu"
     },
     {
       "album": {
@@ -4401,7 +4475,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 185142,
       "name": "Passarelas e Vitrines",
       "url": "https://open.spotify.com/track/1bzqCRQHnTaN3hgPtujOTz"
@@ -4423,7 +4497,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 181915,
       "name": "Passarelas e Vitrines - Ao Vivo",
       "url": "https://open.spotify.com/track/074qxkMEa3Jab4qkhcELpe"
@@ -5059,7 +5133,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 139163,
       "name": "Realces",
       "url": "https://open.spotify.com/track/6nZYAJX9BAdHp9ssqRPAOe"
@@ -5457,6 +5531,32 @@
       "duration_ms": 127169,
       "name": "SORAYAMA BRANCO",
       "url": "https://open.spotify.com/track/5vtYrKiForK2eH28A5H2rA"
+    },
+    {
+      "album": {
+        "name": "SoulCrime",
+        "url": "https://open.spotify.com/album/2tMpwH9sCsmwr4Sprp7VtQ"
+      },
+      "artists": [
+        {
+          "name": "Guiu",
+          "url": "https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px"
+        },
+        {
+          "name": "Dk 47",
+          "url": "https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB"
+        },
+        {
+          "name": "Cronus",
+          "url": "https://open.spotify.com/artist/1zK877kicLoZ5q8CiTN8li"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123333,
+      "name": "SoulCrime",
+      "url": "https://open.spotify.com/track/3wdqcWmIbOTxUtFUCJ2M9F"
     },
     {
       "album": {
@@ -6135,7 +6235,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 152571,
       "name": "Vida Bandida",
       "url": "https://open.spotify.com/track/7D6AtgWoXk6jfIruYHBmK7"

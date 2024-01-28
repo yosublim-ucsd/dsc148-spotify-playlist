@@ -4,7 +4,7 @@
 
 > Music from Drake, 21 Savage, Kid Cudi and Travis Scott.
 
-1,901 songs - 4 day 2 hr 26 min
+1,902 songs - 4 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1499,7 +1499,8 @@
 | [Snow On Tha Bluff](https://open.spotify.com/track/1oOEkBNp4zWnkD7nWjJdog) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Snow On Tha Bluff](https://open.spotify.com/album/0MXpE6m0mEK0r3TuERb9Yd) | 3:55 | 2020-06-17 | 2020-06-25 |
 | [So Sophisticated](https://open.spotify.com/track/0pNMYo9MXmyyR9Fp9HwiBT) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [God Forgives, I Don't \(Deluxe Edition\)](https://open.spotify.com/album/1YSb516nyR6ALY2ji1eCAV) | 4:07 | 2022-07-28 | 2022-07-30 |
 | [So What? \- Episode 01](https://open.spotify.com/track/2JRo1DJhNhZWs1TzrPNOSZ) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [So What? \(Episode 01\)](https://open.spotify.com/album/2aYUBEDBamdjpTQT6h6vAL) | 2:05 | 2019-08-23 | 2019-09-06 |
-| [Soak City \(Do it\)](https://open.spotify.com/track/6iiCzEd1ULpq7nXbZVQ4pi) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Lottery Pick](https://open.spotify.com/album/7pp3ZbXrqBiaaeRLIAyis5) | 2:03 | 2023-11-10 |  |
+| [Soak City \(Do it\)](https://open.spotify.com/track/6iiCzEd1ULpq7nXbZVQ4pi) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Lottery Pick](https://open.spotify.com/album/7pp3ZbXrqBiaaeRLIAyis5) | 2:03 | 2023-11-10 | 2024-01-28 |
+| [soak city \(do it\)](https://open.spotify.com/track/779jpZikRmH99DiSVpwCHD) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [lottery pick](https://open.spotify.com/album/6X56VpnIYr8WOiCpkXHdEw) | 2:03 | 2024-01-27 |  |
 | [Sober \(feat\. Roddy Ricch & Post Malone\)](https://open.spotify.com/track/0AzqJBVMdHP9ijAadQ0T18) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 4:13 | 2022-09-30 | 2022-11-05 |
 | [Soccer Dad](https://open.spotify.com/track/3hdaeIlrACjMK5FnahqrLG) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Soccer Dad](https://open.spotify.com/album/3ZKzd6YDXHItIxx83IxXIS) | 3:13 | 2022-04-08 | 2022-04-29 |
 | [Sociopath \(feat\. Kash Doll\)](https://open.spotify.com/track/4xR7m33ECxSjY1nXyWmAx0) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Sociopath](https://open.spotify.com/album/3v452sweoHYSYqZ3oVOM7c) | 2:42 | 2019-08-27 | 2019-09-06 |

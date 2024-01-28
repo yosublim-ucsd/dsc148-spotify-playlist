@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Brunno Ramos, 2metro, BIG THE KIID",
-  "num_followers": 160807,
+  "num_followers": 160837,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGZlMTYwZjk3ZTA0YjVhN2Y4OThkNGYxNjlkYTg1NDVkYWY0MjFh",
+  "snapshot_id": "MCwzNGNlNzA5MjlmMzQ4YmNlNzIwNmNjNjBjMjFlMWNhNWIyNTViYWYz",
   "tracks": [
     {
       "added_at": "2024-01-05 13:31:22",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
+        "name": "PASSAPORTE",
+        "url": "https://open.spotify.com/album/4pjGxdTixPbuJs6YP3C213"
+      },
+      "artists": [
+        {
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "PASSAPORTE",
+      "url": "https://open.spotify.com/track/3a4HH2zpxFtPdFTudw33LH"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
         "name": "Metas e Versos (feat. Brunno Ramos)",
         "url": "https://open.spotify.com/album/1lvWIINLaBBYpz419bFlF0"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 169016,
       "name": "Jesus Saves Bro",
       "url": "https://open.spotify.com/track/16Fi5GqjCkMxazJhOTID63"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
-        "name": "PASSAPORTE",
-        "url": "https://open.spotify.com/album/4pjGxdTixPbuJs6YP3C213"
-      },
-      "artists": [
-        {
-          "name": "CAIQ",
-          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "PASSAPORTE",
-      "url": "https://open.spotify.com/track/3a4HH2zpxFtPdFTudw33LH"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -983,6 +983,26 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
+        "name": "CRISTO FAZ A WAVE",
+        "url": "https://open.spotify.com/album/3cnklZJoW7feW3nF9pZYWL"
+      },
+      "artists": [
+        {
+          "name": "Boanerges",
+          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
+        },
+        {
+          "name": "MATXS",
+          "url": "https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "CRISTO FAZ A WAVE",
+      "url": "https://open.spotify.com/track/7qA4ovLWETJrwMXOAa7X00"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
         "name": "Trap Gospel Existe",
         "url": "https://open.spotify.com/album/45y3zKT3swOm8ZKdbftDvl"
       },
@@ -1023,22 +1043,18 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "CRISTO FAZ A WAVE",
-        "url": "https://open.spotify.com/album/3cnklZJoW7feW3nF9pZYWL"
+        "name": "Salmos 33:3",
+        "url": "https://open.spotify.com/album/3kvCH6WieHrSGdD8Q60M5U"
       },
       "artists": [
         {
-          "name": "Boanerges",
-          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
-        },
-        {
-          "name": "MATXS",
-          "url": "https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y"
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
         }
       ],
-      "duration_ms": 180000,
-      "name": "CRISTO FAZ A WAVE",
-      "url": "https://open.spotify.com/track/7qA4ovLWETJrwMXOAa7X00"
+      "duration_ms": 159400,
+      "name": "Salmos 33:3",
+      "url": "https://open.spotify.com/track/07NVaJJmhoih1A70w6ylPZ"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -1063,22 +1079,6 @@
       "duration_ms": 173222,
       "name": "Paulo & Silas",
       "url": "https://open.spotify.com/track/4so9ijYlh3tSUYlotbdUPg"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
-        "name": "Salmos 33:3",
-        "url": "https://open.spotify.com/album/3kvCH6WieHrSGdD8Q60M5U"
-      },
-      "artists": [
-        {
-          "name": "Kant",
-          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "Salmos 33:3",
-      "url": "https://open.spotify.com/track/07NVaJJmhoih1A70w6ylPZ"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "E F\u00e9",
-        "url": "https://open.spotify.com/album/30ds3ileHxbUp4oiuQOijT"
+        "name": "Me Faz Bem",
+        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
       },
       "artists": [
         {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+          "name": "MARCO AZAUSKI",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
         }
       ],
-      "duration_ms": 153400,
-      "name": "E F\u00e9",
-      "url": "https://open.spotify.com/track/2qfI1rpgbGjNoaqcOJVfc2"
+      "duration_ms": 186293,
+      "name": "Me Faz Bem",
+      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -1363,62 +1363,18 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "Me Faz Bem",
-        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
+        "name": "E F\u00e9",
+        "url": "https://open.spotify.com/album/30ds3ileHxbUp4oiuQOijT"
       },
       "artists": [
         {
-          "name": "MARCO AZAUSKI",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
         }
       ],
-      "duration_ms": 186293,
-      "name": "Me Faz Bem",
-      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/3tKHxULEO1rG2tzXlvGB0U"
-      },
-      "artists": [
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        },
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 138475,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/6hP6Hoivjj4EruHu06PRmT"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
-        "name": "Tempestade",
-        "url": "https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1"
-      },
-      "artists": [
-        {
-          "name": "Calbertini",
-          "url": "https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH"
-        },
-        {
-          "name": "Isaac Folly",
-          "url": "https://open.spotify.com/artist/7FTroPF49wOzN6lIHGKBBB"
-        }
-      ],
-      "duration_ms": 204827,
-      "name": "Tempestade",
-      "url": "https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO"
+      "duration_ms": 153400,
+      "name": "E F\u00e9",
+      "url": "https://open.spotify.com/track/2qfI1rpgbGjNoaqcOJVfc2"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -1451,22 +1407,58 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "Eu Era Servo",
-        "url": "https://open.spotify.com/album/4Cc72TrT4isWBvG2OvBu71"
+        "name": "Sonhei um Dia",
+        "url": "https://open.spotify.com/album/7J9uOnQv6HNAbDd3P5mkYv"
       },
       "artists": [
         {
-          "name": "Bruno Coutinho",
-          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
-        },
-        {
-          "name": "Coutinho Records",
-          "url": "https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS"
+          "name": "Israel Rapper",
+          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
         }
       ],
-      "duration_ms": 171740,
-      "name": "Eu Era Servo",
-      "url": "https://open.spotify.com/track/0IRsbv7O7PeZhF0BR6aZyj"
+      "duration_ms": 181134,
+      "name": "Sonhei um Dia",
+      "url": "https://open.spotify.com/track/0wNVe3LOwU2yrFOQleHQAf"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
+        "name": "Tempestade",
+        "url": "https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1"
+      },
+      "artists": [
+        {
+          "name": "Calbertini",
+          "url": "https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH"
+        },
+        {
+          "name": "Isaac Folly",
+          "url": "https://open.spotify.com/artist/7FTroPF49wOzN6lIHGKBBB"
+        }
+      ],
+      "duration_ms": 204827,
+      "name": "Tempestade",
+      "url": "https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
+        "name": "Rasgou o V\u00e9u",
+        "url": "https://open.spotify.com/album/1Wh4p4J1SQMjnbMlXZQrKC"
+      },
+      "artists": [
+        {
+          "name": "MARCO AZAUSKI",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+        },
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Rasgou o V\u00e9u",
+      "url": "https://open.spotify.com/track/4iqxItooSPTbhMm1otVoLu"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -1491,38 +1483,46 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "Sonhei um Dia",
-        "url": "https://open.spotify.com/album/7J9uOnQv6HNAbDd3P5mkYv"
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/3tKHxULEO1rG2tzXlvGB0U"
       },
       "artists": [
         {
-          "name": "Israel Rapper",
-          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        },
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 181134,
-      "name": "Sonhei um Dia",
-      "url": "https://open.spotify.com/track/0wNVe3LOwU2yrFOQleHQAf"
+      "duration_ms": 138475,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/6hP6Hoivjj4EruHu06PRmT"
     },
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "Rasgou o V\u00e9u",
-        "url": "https://open.spotify.com/album/1Wh4p4J1SQMjnbMlXZQrKC"
+        "name": "Eu Era Servo",
+        "url": "https://open.spotify.com/album/4Cc72TrT4isWBvG2OvBu71"
       },
       "artists": [
         {
-          "name": "MARCO AZAUSKI",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+          "name": "Bruno Coutinho",
+          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
         },
         {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+          "name": "Coutinho Records",
+          "url": "https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS"
         }
       ],
-      "duration_ms": 138750,
-      "name": "Rasgou o V\u00e9u",
-      "url": "https://open.spotify.com/track/4iqxItooSPTbhMm1otVoLu"
+      "duration_ms": 171740,
+      "name": "Eu Era Servo",
+      "url": "https://open.spotify.com/track/0IRsbv7O7PeZhF0BR6aZyj"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "Fala pra eles que \u00e9 o Felipin",
-        "url": "https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB"
-      },
-      "artists": [
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Alian\u00e7a",
-      "url": "https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
         "name": "Mais Perto do C\u00e9u",
         "url": "https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk"
       },
@@ -1595,26 +1579,6 @@
       "duration_ms": 157568,
       "name": "Mais Perto do C\u00e9u",
       "url": "https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
-        "name": "Senhor",
-        "url": "https://open.spotify.com/album/2RbGKTQyIZYsT3c80rTFOz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Coutinho",
-          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
-        },
-        {
-          "name": "Coutinho Records",
-          "url": "https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS"
-        }
-      ],
-      "duration_ms": 218342,
-      "name": "Senhor",
-      "url": "https://open.spotify.com/track/1NpZVpj7w67md1P8p47MBA"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -1675,6 +1639,42 @@
       "duration_ms": 201047,
       "name": "Salmos 116:19",
       "url": "https://open.spotify.com/track/3u94CJO0JGPd0RsEl3EUCB"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
+        "name": "Fala pra eles que \u00e9 o Felipin",
+        "url": "https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Alian\u00e7a",
+      "url": "https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
+        "name": "Senhor",
+        "url": "https://open.spotify.com/album/2RbGKTQyIZYsT3c80rTFOz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Coutinho",
+          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
+        },
+        {
+          "name": "Coutinho Records",
+          "url": "https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS"
+        }
+      ],
+      "duration_ms": 218342,
+      "name": "Senhor",
+      "url": "https://open.spotify.com/track/1NpZVpj7w67md1P8p47MBA"
     },
     {
       "added_at": "2024-01-05 13:31:22",

@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 414205,
+  "2024-01-28": 414468,
   "date_first_scraped": "2022-02-06",
-  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Teddy Swims",
+  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: James Arthur",
   "name": "Everyday Favorites ",
   "tracks": [
     {
@@ -3445,6 +3445,24 @@
       "duration_ms": 222488,
       "name": "FREE",
       "url": "https://open.spotify.com/track/52kYbQXrntPEsZ4iiqWKL6"
+    },
+    {
+      "album": {
+        "name": "Bitter Sweet Love",
+        "url": "https://open.spotify.com/album/02muSEofPSAk276DCafUPb"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "Free Falling",
+      "url": "https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz"
     },
     {
       "album": {

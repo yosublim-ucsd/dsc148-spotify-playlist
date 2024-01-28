@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring MacKenzie Porter, Morgan Wallen, Tyler Hubbard and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,635 likes - 73 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,791 likes - 73 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 32 | [Life Is Tough \(But So Am I\)](https://open.spotify.com/track/53zYH64CbS2SxcNDFJxlC5) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Life Is Tough \(But So Am I\)](https://open.spotify.com/album/4IWrXa3u5YCQ1tVdGn7epT) | 3:19 |
 | 33 | [Blame It All On Country Music](https://open.spotify.com/track/2nJL5Rqs9lpnY36lJgONc2) | [Chase McDaniel](https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz) | [Blame It All On Country Music](https://open.spotify.com/album/1oxN3TOY3nClvy1qASxPx1) | 3:21 |
 | 34 | [Six Feet Deep](https://open.spotify.com/track/2mnQKV6HXWgEMeZ1TUgHAi) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Six Feet Deep](https://open.spotify.com/album/5jT4dQWi9fwTamrIjv1sAr) | 3:43 |
-| 35 | [Rocket Science](https://open.spotify.com/track/6mbeLmisQkm2lyAbinPunm) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Rocket Science](https://open.spotify.com/album/23BaWTGCVFzPqnJ6BGVDcZ) | 3:27 |
+| 35 | [Rocket Science](https://open.spotify.com/track/6mbeLmisQkm2lyAbinPunm) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Rocket Science / You Don’t Love Me](https://open.spotify.com/album/23BaWTGCVFzPqnJ6BGVDcZ) | 3:27 |
 | 36 | [Hurricane](https://open.spotify.com/track/119a4i4LHVRmxPu3hmdmJz) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [Hurricane](https://open.spotify.com/album/5WVYLlEHHKBQPvOfR0f2FY) | 4:20 |
 | 37 | [The Boat](https://open.spotify.com/track/5reDApt4fyHM09WU16yM9D) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [The Boat](https://open.spotify.com/album/3FL6yPHvN6vEbADqhQ29SU) | 3:18 |
 | 38 | [Bad for You](https://open.spotify.com/track/7IoA0dhrFuSVc7RKzlPWTl) | [Ashley Ryan](https://open.spotify.com/artist/7ocagKTuL7owEFIvssbzVq) | [Too Far Gone](https://open.spotify.com/album/78JP5zIEViw7MxLWKYehGB) | 3:32 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 72 | [Devil's Money](https://open.spotify.com/track/50YJ1k4Xi4b4DmzQhyKlPL) | [Mary Kutter](https://open.spotify.com/artist/0rTX0ieS2m0gUGLlLe4kQP) | [Devil's Money](https://open.spotify.com/album/2Vnruy8SLnV6iHlrgDDQSb) | 2:32 |
 | 73 | [Cowboy Ride Home](https://open.spotify.com/track/0iefRDcGLzHz0mZ9u3YoGk) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Cowboy Ride Home](https://open.spotify.com/album/1zn48xh3hEzwOPlD7B0pTc) | 3:45 |
 
-Snapshot ID: `MCw1NDdmMDFlMTdhZWNkMmQ4YzViMzY4OTdlNmFmMjkwNDJlNmNjYzM0`
+Snapshot ID: `MCwxYzZhMzk4OTBiNDY0NmExMTE3NDUwNWFiMTFjZjNhZjcyNmI5MTY1`

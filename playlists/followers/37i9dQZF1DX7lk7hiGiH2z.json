@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 33232,
+  "2024-01-28": 33230,
   "date_first_scraped": "2023-07-28",
   "description": "Zeit f\u00fcr Pl\u00e4tzchen backen, Schlittschuhlaufen und Schneemann bauen \ud83c\udf6a\u26f8\ufe0f\u2603\ufe0f",
   "name": "Familienzeit: Winter",
@@ -5555,6 +5555,24 @@
       "duration_ms": 174000,
       "name": "Zombietanz",
       "url": "https://open.spotify.com/track/2o8OojmqLNat22KUd1YeRl"
+    },
+    {
+      "album": {
+        "name": "Zootierpolka",
+        "url": "https://open.spotify.com/album/29XwB0xxAzrWLdlfgKweoh"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Zootierpolka",
+      "url": "https://open.spotify.com/track/1io4s7JvWnyyteet2kh5K0"
     },
     {
       "album": {

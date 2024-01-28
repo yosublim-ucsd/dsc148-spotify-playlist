@@ -1,12 +1,12 @@
 {
   "description": "Latinoam\u00e9rica baila al ritmo de Eladio Carrion.",
-  "num_followers": 513043,
+  "num_followers": 512788,
   "original_name": "El Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDNmZGQwMmVkZjMxNWE4Yjg0NDQ2ZmVmNDA4YjBlOGI1ZjIyNTky",
+  "snapshot_id": "MCw2YmIwYTAxYzVjNDJiZmJmODY1OGY4OGYxYzIxMmVmOGFjOTViMGYz",
   "tracks": [
     {
       "added_at": "2024-01-26 21:45:14",
@@ -38,10 +38,6 @@
         {
           "name": "Blessd",
           "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
         }
       ],
       "duration_ms": 123750,
@@ -314,6 +310,10 @@
         {
           "name": "Blessd",
           "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
         }
       ],
       "duration_ms": 193906,

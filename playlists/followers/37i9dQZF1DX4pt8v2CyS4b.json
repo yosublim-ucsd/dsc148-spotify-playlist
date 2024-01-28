@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 8212,
+  "2024-01-28": 8394,
   "date_first_scraped": "2023-12-27",
   "description": "Hear the world in new ways with music from National Geographic\u2019s Incredible Animal Journeys, Wild Life, Secrets of the Elephants, A Small Light, and more.",
   "name": "National Geographic Official Playlist",
@@ -689,6 +689,24 @@
       "duration_ms": 223760,
       "name": "Perfect Life",
       "url": "https://open.spotify.com/track/6aDerNa8GOuJGIqa13gdmg"
+    },
+    {
+      "album": {
+        "name": "A Real Bug's Life (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/6dfHVPdqW5lUqCP1X35Sb8"
+      },
+      "artists": [
+        {
+          "name": "Mark Mothersbaugh",
+          "url": "https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121560,
+      "name": "Queen Bee",
+      "url": "https://open.spotify.com/track/0AqqqI8GcSna2WgUe04ytE"
     },
     {
       "album": {

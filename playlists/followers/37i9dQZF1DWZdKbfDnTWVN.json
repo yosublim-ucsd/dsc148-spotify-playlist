@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 11609,
+  "2024-01-28": 11618,
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y?si=_aJIrzyyTdCUjcjUdTCKkg\"> Boutross</a>",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=7rQMXJ0eSw2EU8Wr5nSsXw\"> Nyashinski</a>",
   "name": "254 Flow",
   "tracks": [
     {
@@ -544,6 +544,24 @@
     },
     {
       "album": {
+        "name": "Chocha",
+        "url": "https://open.spotify.com/album/6THeQtr6zfL4yLKPewQl9L"
+      },
+      "artists": [
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186174,
+      "name": "Chocha",
+      "url": "https://open.spotify.com/track/7u3Q4BpuqjR3ipFluofgii"
+    },
+    {
+      "album": {
         "name": "NDANI YA COCKPIT 3",
         "url": "https://open.spotify.com/album/4p5Ob7OdZxOp4rzHF12qKk"
       },
@@ -869,7 +887,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 155172,
       "name": "EASTSIDE GVNNA",
       "url": "https://open.spotify.com/track/7jPCujGKU8RWRyDh60Iull"
@@ -927,7 +945,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 168724,
       "name": "FLEE.",
       "url": "https://open.spotify.com/track/29SlCViPGeON1K5cp0UoJ0"
@@ -1061,6 +1079,32 @@
       "duration_ms": 148759,
       "name": "From The Bottom",
       "url": "https://open.spotify.com/track/2qDbw8aI6X82m8o1B19w8D"
+    },
+    {
+      "album": {
+        "name": "Gabbana",
+        "url": "https://open.spotify.com/album/4Jza4ma3A1zImFepRbnGgM"
+      },
+      "artists": [
+        {
+          "name": "Supadrum",
+          "url": "https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H"
+        },
+        {
+          "name": "Kuky",
+          "url": "https://open.spotify.com/artist/2rxDcEa4Y6mPL7VyQjF8fe"
+        },
+        {
+          "name": "Groovy Jo",
+          "url": "https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180804,
+      "name": "Gabbana",
+      "url": "https://open.spotify.com/track/1o3LdudmUYfDKRoePUjHeD"
     },
     {
       "album": {
@@ -1384,6 +1428,28 @@
     },
     {
       "album": {
+        "name": "Jomo",
+        "url": "https://open.spotify.com/album/1VrDqJJSVQVy6IWZn84eq7"
+      },
+      "artists": [
+        {
+          "name": "LOOORD PIRATES",
+          "url": "https://open.spotify.com/artist/3DanNVxKjCuw8TFxqyS8SV"
+        },
+        {
+          "name": "ANARCHY",
+          "url": "https://open.spotify.com/artist/6RMxR7pd9gScWLqbbTHYrn"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253988,
+      "name": "Jomo",
+      "url": "https://open.spotify.com/track/4yJfiuzjUkkoIKDhdg1cEf"
+    },
+    {
+      "album": {
         "name": "Judgment Day",
         "url": "https://open.spotify.com/album/5kvLli7isTzsrWG5hNac8O"
       },
@@ -1443,6 +1509,24 @@
       "duration_ms": 160000,
       "name": "KILIPESA",
       "url": "https://open.spotify.com/track/00A3bHHQCJv00B8rRItbkh"
+    },
+    {
+      "album": {
+        "name": "Kuwa Strong",
+        "url": "https://open.spotify.com/album/2QpOPczp4woACSct0s87Gv"
+      },
+      "artists": [
+        {
+          "name": "Kahu$h",
+          "url": "https://open.spotify.com/artist/5XRsIBzy6ampDaZvPzRxxr"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178442,
+      "name": "Kuwa Strong",
+      "url": "https://open.spotify.com/track/0QM3gpqToq417bchLwu85C"
     },
     {
       "album": {
@@ -1732,6 +1816,36 @@
     },
     {
       "album": {
+        "name": "Maji",
+        "url": "https://open.spotify.com/album/50nUa53cliPcc7cejZHgpl"
+      },
+      "artists": [
+        {
+          "name": "Dj Mawinch",
+          "url": "https://open.spotify.com/artist/6zPKV2mUFVj1tbliYJeT7N"
+        },
+        {
+          "name": "Boutross",
+          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
+        },
+        {
+          "name": "Danny Millz",
+          "url": "https://open.spotify.com/artist/3KAqzNgFkIza5xmr49if0p"
+        },
+        {
+          "name": "Maleeq Souls",
+          "url": "https://open.spotify.com/artist/0hnAF2nYbHco6ocQ5GEO3G"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155897,
+      "name": "Maji",
+      "url": "https://open.spotify.com/track/6Z43doEGCuDgTaNtJHXRFn"
+    },
+    {
+      "album": {
         "name": "Make Amends",
         "url": "https://open.spotify.com/album/5uFC8GqHRAwtyV2wY8oWER"
       },
@@ -1937,6 +2051,28 @@
       "duration_ms": 267493,
       "name": "Minimal Pressure",
       "url": "https://open.spotify.com/track/0CPf4M3kS1dVAGkLgtXPwR"
+    },
+    {
+      "album": {
+        "name": "UGANJA",
+        "url": "https://open.spotify.com/album/5UbrwU28Y51I3WXThqODBB"
+      },
+      "artists": [
+        {
+          "name": "Ill Gee",
+          "url": "https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW"
+        },
+        {
+          "name": "Vintix Jr",
+          "url": "https://open.spotify.com/artist/13XsdZHCvyYXkAYClwHzxA"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270759,
+      "name": "MONEYLONG MALONG",
+      "url": "https://open.spotify.com/track/00y0lRuyrmT1oblzpF7L4r"
     },
     {
       "album": {
@@ -2329,7 +2465,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 197565,
       "name": "Pree",
       "url": "https://open.spotify.com/track/2YEu77cQVAPT51V4dWSyAb"
@@ -2417,7 +2553,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 157360,
       "name": "Pretty Overload",
       "url": "https://open.spotify.com/track/6a2WQeQHhW1xUiIjskV672"
@@ -2813,7 +2949,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 121858,
       "name": "Shrapa Ranks",
       "url": "https://open.spotify.com/track/0uDl3s52h57l0addjFIbte"
@@ -3376,6 +3512,24 @@
     },
     {
       "album": {
+        "name": "Good Old Days",
+        "url": "https://open.spotify.com/album/5Al1lKbE9sfZD21V5gnnYR"
+      },
+      "artists": [
+        {
+          "name": "Nyashinski",
+          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152502,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/0DrXcPh3EFypO1Bckvgw5W"
+    },
+    {
+      "album": {
         "name": "Three",
         "url": "https://open.spotify.com/album/76KkDaIeYGn4d25R5CgIbT"
       },
@@ -3515,7 +3669,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 171840,
       "name": "Tunnel Vision",
       "url": "https://open.spotify.com/track/1eJKESAX6QRZcgS2zXKzSF"
@@ -3897,7 +4051,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 174905,
       "name": "Zile Zile",
       "url": "https://open.spotify.com/track/5Ni6UiFvBPvOJrCP86S01t"

@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 120675,
+  "2024-01-28": 120867,
   "date_first_scraped": "2021-12-28",
   "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641 : \u062a\u0627\u0645\u0631 \u062d\u0633\u0646\u064a\u060c \u0632\u0627\u0628 \u062b\u0631\u0648\u062a\n",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
@@ -861,7 +861,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 215709,
       "name": "Alby Ma3ak",
       "url": "https://open.spotify.com/track/6P4OUrP9UwjTakaoOJ4njV"
@@ -3462,6 +3462,24 @@
     },
     {
       "album": {
+        "name": "Enta Teabal",
+        "url": "https://open.spotify.com/album/3y2QISOVbahyigZFOKN5XK"
+      },
+      "artists": [
+        {
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Enta Teabal",
+      "url": "https://open.spotify.com/track/0MeHEYGoomiMpbF7HdIKJI"
+    },
+    {
+      "album": {
         "name": "Enty El Oula (Wahda Gdida)",
         "url": "https://open.spotify.com/album/6rTccCjxDyaQ66femjuaHv"
       },
@@ -4222,6 +4240,24 @@
     },
     {
       "album": {
+        "name": "Ghayarina",
+        "url": "https://open.spotify.com/album/4z16XoFuqUURzvfj1YQVbT"
+      },
+      "artists": [
+        {
+          "name": "Nesma Herky",
+          "url": "https://open.spotify.com/artist/20KfKaHWko8qNRRhoXTByX"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257340,
+      "name": "Ghayarina",
+      "url": "https://open.spotify.com/track/2plBAu5y28jMGmwsF4brVy"
+    },
+    {
+      "album": {
         "name": "Ghayart El Tarekh",
         "url": "https://open.spotify.com/album/6grY10EzNruoWcBvo2MxKG"
       },
@@ -4797,6 +4833,24 @@
       "duration_ms": 129532,
       "name": "Hawwa",
       "url": "https://open.spotify.com/track/0uIlJ1aiIJYqscUjXONYPo"
+    },
+    {
+      "album": {
+        "name": "Hayat Alnjoom",
+        "url": "https://open.spotify.com/album/3E8LVGvjNrMxC1wcrYuXI1"
+      },
+      "artists": [
+        {
+          "name": "Layan Shams",
+          "url": "https://open.spotify.com/artist/0fZrqksLFl8Xk5MR4F3zSJ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Hayat Alnjoom",
+      "url": "https://open.spotify.com/track/2c6K9yVIEmlKbGw0dA7s8g"
     },
     {
       "album": {
@@ -6052,6 +6106,24 @@
     },
     {
       "album": {
+        "name": "Leh Safert",
+        "url": "https://open.spotify.com/album/1X32gkzb5bCHkRnhA4p4uv"
+      },
+      "artists": [
+        {
+          "name": "Azeem",
+          "url": "https://open.spotify.com/artist/1C7GlEj3ifjU7NbXTgV2sN"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205132,
+      "name": "Leh Safert",
+      "url": "https://open.spotify.com/track/3CqSqXw45mTM6CvuJXxLAB"
+    },
+    {
+      "album": {
         "name": "Leila",
         "url": "https://open.spotify.com/album/0ShTnsYxPSo8zOhyglIrB4"
       },
@@ -7297,7 +7369,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 238533,
       "name": "Met3shm Fe Men",
       "url": "https://open.spotify.com/track/6Pin7exyU2EIkqm3ZLSs8B"
@@ -7732,6 +7804,28 @@
     },
     {
       "album": {
+        "name": "Omour Basita",
+        "url": "https://open.spotify.com/album/2cIrmQTRGdufySLVhHctqM"
+      },
+      "artists": [
+        {
+          "name": "Hisham Gamal",
+          "url": "https://open.spotify.com/artist/5SyakrUvLtz9pk4zRDVf0N"
+        },
+        {
+          "name": "Laila Ahmed Zaher",
+          "url": "https://open.spotify.com/artist/5MDRZSRZrKbToJMI4doVmj"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262645,
+      "name": "Omour Basita",
+      "url": "https://open.spotify.com/track/1nRCDjARnK6JnGZfo1Vq4t"
+    },
+    {
+      "album": {
         "name": "Or2os",
         "url": "https://open.spotify.com/album/6e134cNPBba31udAGXUTzr"
       },
@@ -8115,7 +8209,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 157100,
       "name": "Rooh",
       "url": "https://open.spotify.com/track/2qfg2K2fX4VDaWOcl2tEFh"
@@ -9221,7 +9315,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 354133,
       "name": "Telk Qadeya",
       "url": "https://open.spotify.com/track/5T8lBGbV2vH3CzrnJxPa7K"
@@ -12766,6 +12860,24 @@
     },
     {
       "album": {
+        "name": "\u0639\u0627\u0646\u062f\u0646\u0627 \u0644\u064a\u0647",
+        "url": "https://open.spotify.com/album/1OpqrZzOrv2aQzTOvcj9u9"
+      },
+      "artists": [
+        {
+          "name": "Karim Mohsen",
+          "url": "https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249480,
+      "name": "\u0639\u0627\u0646\u062f\u0646\u0627 \u0644\u064a\u0647",
+      "url": "https://open.spotify.com/track/2Lpw5au48a6bQ2JuEjsTCZ"
+    },
+    {
+      "album": {
         "name": "\u0639\u0630\u0628\u0646\u064a \u0639\u0630\u0628",
         "url": "https://open.spotify.com/album/6DQcUnGijb9dN7d0ehTmOv"
       },
@@ -13767,7 +13879,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 223246,
       "name": "\u0645\u0634 \u062d\u0643\u0627\u064a\u0629",
       "url": "https://open.spotify.com/track/5hJd88Jh9I2mu6zVFeQBag"

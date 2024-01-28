@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,297 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,317 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 49 | [Anthem For Those Who Know](https://open.spotify.com/track/71HYnMJ8rRgrEthkmam32o) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [Anthem For Those Who Know](https://open.spotify.com/album/0eON9IRmxIU8J3v87CdQ9p) | 3:20 |
 | 50 | [Peace Sign](https://open.spotify.com/track/5cdQMQwsHI7cJxq8UkDkpa) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Peace Sign](https://open.spotify.com/album/1DQuGlBWg0HDXR6f6i9xdb) | 4:38 |
 
-Snapshot ID: `MCxjNzQ0N2E3MmZiMjQ5NDNlZTA0ZGU5MWU1ZmEwMzVkNmMyM2Q3NDA0`
+Snapshot ID: `MCw2ZmJkZDVlY2ZhZTMyZGQ3NGFjNmU4MWMyMjM1ZGI5MTUzNjY5MmFi`

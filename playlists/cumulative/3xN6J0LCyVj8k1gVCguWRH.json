@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2019-09-29",
   "description": "Barack Obama&#x27;s favorite songs of 2023 plus somo of his favorite summer songs. Includes Summer 22, &amp; 21 editions + bonus tracks.",
-  "name": "Obama\u2019s Summer Playlist 2023 | Favorite Songs of 2023",
+  "name": " Obama\u2019s Summer Playlist 2024 | Favorite Songs of 2023",
   "tracks": [
     {
       "album": {
@@ -1615,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1EKwZgF7LMf4elB71VSR88"
+      },
+      "artists": [
+        {
+          "name": "Craig Caliva",
+          "url": "https://open.spotify.com/artist/1UR8HRevJdliHzsYXixh7V"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206019,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/5sCTbkhI2JYg03xypi4uCV"
+    },
+    {
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/5u6xMFMQAahNjsJe5BKCiy"
       },
@@ -1910,7 +1928,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 164475,
       "name": "Alive (Lovesong)",
       "url": "https://open.spotify.com/track/6vYh6irQTkQ0g9NQ0wryYi"
@@ -7922,7 +7940,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 188956,
       "name": "Camino",
       "url": "https://open.spotify.com/track/3HuEdFyq7BPQCqH179VaVk"
@@ -13667,6 +13685,24 @@
     },
     {
       "album": {
+        "name": "Dream House",
+        "url": "https://open.spotify.com/album/5OvVHApc7an0PxgizKaeur"
+      },
+      "artists": [
+        {
+          "name": "Grace Lee",
+          "url": "https://open.spotify.com/artist/5H9MaaK15IDsYf0UE64Kzh"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170333,
+      "name": "Dream House",
+      "url": "https://open.spotify.com/track/1dDWUNpBIgZVc06aU65vGB"
+    },
+    {
+      "album": {
         "name": "Please, Come Home",
         "url": "https://open.spotify.com/album/4NrIGbAQCnlkpA8GtalM5T"
       },
@@ -15308,7 +15344,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 222973,
       "name": "Facing the worst fears",
       "url": "https://open.spotify.com/track/5Uztuj1AiTV8e6UPYvB3iF"
@@ -28902,7 +28938,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 225000,
       "name": "Lost in the Sound",
       "url": "https://open.spotify.com/track/478z5OvtvvQIfWE6vJ7TvT"
@@ -50846,7 +50882,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 163902,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/5aeZzetAqugIhW81mR7Zr7"
@@ -51112,7 +51148,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 156850,
       "name": "Ven Pa Ca",
       "url": "https://open.spotify.com/track/19felDAYliRHZSwBwdAO6O"

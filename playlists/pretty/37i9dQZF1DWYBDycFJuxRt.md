@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: back number \*👉 <a href="https://spice.eplus.jp/articles/325756?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,659 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,649 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 42 | [多摩ナンバー](https://open.spotify.com/track/5d0pbo32LMqR2iQQQRf7Ea) | [有元キイチ](https://open.spotify.com/artist/4mXPdNMeJL46dJWUEdYwW8) | [Tama,Tokyo](https://open.spotify.com/album/4aXMpRhKLcI3OEUDD0mp6m) | 4:16 |
 | 43 | [OK](https://open.spotify.com/track/26Yh1T75WaqQ3R9PLIYgwV) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [OK](https://open.spotify.com/album/3YzWLuauk7PzsLIwyJMPVr) | 2:36 |
 | 44 | [SONG](https://open.spotify.com/track/2ymS78X5VTuW7aWlULYn6C) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [be with you](https://open.spotify.com/album/6A2VRRwE1H5yEykoN8T1Zs) | 3:57 |
-| 45 | [紛い者](https://open.spotify.com/track/5xADu8kVRHsD8b1kpfDfYF) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN), [楠木　ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [Stupid dog](https://open.spotify.com/album/7az7pLGS7uW4AEY3BPy3sZ) | 3:05 |
+| 45 | [紛い者](https://open.spotify.com/track/5xADu8kVRHsD8b1kpfDfYF) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN), [楠木ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [Stupid dog](https://open.spotify.com/album/7az7pLGS7uW4AEY3BPy3sZ) | 3:05 |
 | 46 | [センスレス・ワンダー\[ReREC\]](https://open.spotify.com/track/0vxB49O2ae1Hf3LWw3xoXq) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [10年後のセンスレス・ワンダー](https://open.spotify.com/album/4DhpPwIwj55p5Wbvi6mb53) | 4:18 |
 | 47 | [24030番地に回覧板を回せ](https://open.spotify.com/track/2HLBlrjoXrYOvA4oWrcTPW) | [TsuShiMaMiRe](https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd) | [24030番地に回覧板を回せ](https://open.spotify.com/album/6PsYIDULBBHLQ7naBNQsaF) | 2:13 |
 | 48 | [Mad Honey](https://open.spotify.com/track/4qK48wAWdmuq0B5ga0hamG) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Mad Honey](https://open.spotify.com/album/7xKKffi86RbbNJjxN2BPT5) | 2:33 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 69 | [愛模様](https://open.spotify.com/track/0SGjAOOd55L6Swf74qynfa) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [愛模様](https://open.spotify.com/album/52ARhaxoG22r7PomX7ODTU) | 2:59 |
 | 70 | [街角](https://open.spotify.com/track/3UieuOA7sJiEg0cWwAkJCc) | [yobai suspects](https://open.spotify.com/artist/0VSioSaGvQCLyyIISVhCrv) | [街角](https://open.spotify.com/album/3a4RdrXoLxH0dFoWZHNtKk) | 4:41 |
 
-Snapshot ID: `MCxiNDgzNWVmMTNlNGM5ZTBjMTM2MzNkZmYyMzM0ZGUxMmJlODkwOWZl`
+Snapshot ID: `MCw3ZTllZTkyOTI4N2YzZjY2MDA2ZDA1Mjc3YmJjZjgwNDcwMzdmOGIx`

@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 365931,
+  "2024-01-28": 365764,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - USA.",
   "name": "Viral 50 - USA",
@@ -19231,7 +19231,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 128205,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
@@ -26065,7 +26065,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 128182,
       "name": "MOVE YO BODY",
       "url": "https://open.spotify.com/track/1FKqhy26Yyu6jeCgbVJraj"
@@ -30560,6 +30560,24 @@
     },
     {
       "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191451,
+      "name": "Poison Poison",
+      "url": "https://open.spotify.com/track/7e1arKsP7vPjdwssVPHgZk"
+    },
+    {
+      "album": {
         "name": "Poland",
         "url": "https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S"
       },
@@ -32561,7 +32579,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 130136,
       "name": "RICK OWENS (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC"
@@ -44745,6 +44763,24 @@
     {
       "album": {
         "name": "Wiseman",
+        "url": "https://open.spotify.com/album/2qGzyFzxN6U0gFn8AQTsYG"
+      },
+      "artists": [
+        {
+          "name": "Ocean Ocean",
+          "url": "https://open.spotify.com/artist/7eK4D5sZ3uPrwNpHy00pI3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210928,
+      "name": "Wiseman",
+      "url": "https://open.spotify.com/track/2TzQrHN0poLCQ1khXqtLqS"
+    },
+    {
+      "album": {
+        "name": "Wiseman",
         "url": "https://open.spotify.com/album/5He6HyKSwEtlkSLRExpG7q"
       },
       "artists": [
@@ -44755,7 +44791,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 210886,
       "name": "Wiseman",
       "url": "https://open.spotify.com/track/1ceGPonZn9QVb7XrB33Sy1"

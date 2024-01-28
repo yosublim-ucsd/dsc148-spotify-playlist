@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 139867,
+  "num_followers": 139906,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjJjZTZjY2M0YWQyN2E3ODM3MDYxOWZhOWJhODQ4NTRmMGYxOTFl",
+  "snapshot_id": "MCw1OWI2NDNlMDYxNWI5MDM3ZDg1ZGNmMmIzNGY4ZmQwZGU5MjIxZmZl",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -95,8 +95,8 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Escucha",
-        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
+        "name": "Primavera anticipada",
+        "url": "https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7"
       },
       "artists": [
         {
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 236613,
-      "name": "V\u00edveme",
-      "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
+      "duration_ms": 237440,
+      "name": "En cambio no",
+      "url": "https://open.spotify.com/track/6ea3gVkbrhghwfoio3NFpi"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -211,8 +211,8 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Primavera anticipada",
-        "url": "https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7"
+        "name": "Escucha",
+        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 237440,
-      "name": "En cambio no",
-      "url": "https://open.spotify.com/track/6ea3gVkbrhghwfoio3NFpi"
+      "duration_ms": 236613,
+      "name": "V\u00edveme",
+      "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -263,6 +263,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
+        "name": "El Privilegio De Amar",
+        "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "El Privilegio De Amar",
+      "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 206120,
       "name": "Un Poco De Tu Amor",
       "url": "https://open.spotify.com/track/64mK5Yd0rdGeXVkMFspEyt"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "El Privilegio De Amar",
-        "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "El Privilegio De Amar",
-      "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -431,6 +431,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 246533,
+      "name": "Si T\u00fa Supieras",
+      "url": "https://open.spotify.com/track/3PHD1o4vP68uLbExcqUl1x"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 214306,
       "name": "Rebelde",
       "url": "https://open.spotify.com/track/56tOMi4N980gmsdUoyaLb3"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 246533,
-      "name": "Si T\u00fa Supieras",
-      "url": "https://open.spotify.com/track/3PHD1o4vP68uLbExcqUl1x"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Solo Bolero",
-        "url": "https://open.spotify.com/album/3nJmMv3vx8sLOUNiybShch"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 283680,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/3SmkowrAwAjGSf1SYl7cgV"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Entre Mariposas",
         "url": "https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 226733,
       "name": "En Su Lugar",
       "url": "https://open.spotify.com/track/4w5F6hkJO5Gr1h0tDDPbg1"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Solo Bolero",
+        "url": "https://open.spotify.com/album/3nJmMv3vx8sLOUNiybShch"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 283680,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/3SmkowrAwAjGSf1SYl7cgV"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
+        "name": "Mirada de Mujer",
+        "url": "https://open.spotify.com/album/2IkQ5gZGR8ym3VVXT4WPK3"
+      },
+      "artists": [
+        {
+          "name": "Aranza",
+          "url": "https://open.spotify.com/artist/5gXXR7qrvOV5qY8J9P3ptB"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/2YFXBVYGpDN1Ui8tPqk2ZB"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
         "name": "B'Day Deluxe Edition",
         "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 228413,
       "name": "Amor Gitano",
       "url": "https://open.spotify.com/track/1Kd5Qj9kicqjCw1BjWRzH0"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "Mirada de Mujer",
-        "url": "https://open.spotify.com/album/2IkQ5gZGR8ym3VVXT4WPK3"
-      },
-      "artists": [
-        {
-          "name": "Aranza",
-          "url": "https://open.spotify.com/artist/5gXXR7qrvOV5qY8J9P3ptB"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/2YFXBVYGpDN1Ui8tPqk2ZB"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Alegrije",
-        "url": "https://open.spotify.com/album/0Nmu9Wqf6bBvVzGlT5RejR"
-      },
-      "artists": [
-        {
-          "name": "Soundtrack Alegrijes y Rebujos",
-          "url": "https://open.spotify.com/artist/78Gki9mhnVIJYJdogQyno5"
-        }
-      ],
-      "duration_ms": 163626,
-      "name": "Alegrijes y rebujos",
-      "url": "https://open.spotify.com/track/2U0eZH4CmdPMcfUPqsMqae"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Mis 30 Mejores Canciones",
         "url": "https://open.spotify.com/album/4OFqUGVCznz7kSWhdpSkN4"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 302453,
       "name": "S\u00f3lo Importas T\u00fa",
       "url": "https://open.spotify.com/track/4dCj8lsb7xO4Wlz4P8RcMb"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Alegrije",
+        "url": "https://open.spotify.com/album/0Nmu9Wqf6bBvVzGlT5RejR"
+      },
+      "artists": [
+        {
+          "name": "Soundtrack Alegrijes y Rebujos",
+          "url": "https://open.spotify.com/artist/78Gki9mhnVIJYJdogQyno5"
+        }
+      ],
+      "duration_ms": 163626,
+      "name": "Alegrijes y rebujos",
+      "url": "https://open.spotify.com/track/2U0eZH4CmdPMcfUPqsMqae"
     },
     {
       "added_at": "2022-05-06 18:32:26",

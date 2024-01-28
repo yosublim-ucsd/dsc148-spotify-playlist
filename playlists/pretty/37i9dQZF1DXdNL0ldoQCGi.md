@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > pi po po po ro po
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,412 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,635 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Eu Vou Cair na Noite](https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO) | [DJ RENAN DA BL](https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc), [Dj Jl Do Tp](https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn) | [Eu Vou Cair na Noite](https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW) | 2:05 |
-| 2 | [Pi Po Po Po Ro Po](https://open.spotify.com/track/4e1NqsPJixICKE4xB6nZQq) | [Pedrinha Moraes](https://open.spotify.com/artist/3asivM2DaHPt3PP2ZohGR3) | [Pi Po Po Po Ro Po](https://open.spotify.com/album/7xwUt8ebLbKdK9oSzE1mxh) | 2:54 |
+| 2 | [Pi Po Po Po Ro Po](https://open.spotify.com/track/3dSDQ8jGCOcviaRynf9jeK) | [Pedrinha Moraes](https://open.spotify.com/artist/3asivM2DaHPt3PP2ZohGR3) | [Pi Po Po Po Ro Po](https://open.spotify.com/album/6RzUIF1xmL28SYZ5326cAc) | 2:54 |
 | 3 | [Tem Café](https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Andrezin Araújo](https://open.spotify.com/artist/6Z9eUCDtjeQRAp4eZhTztf), [Dj Kevin Oficial](https://open.spotify.com/artist/6ysi6BecWzevAJ3HYaZNMS) | [Tem Café](https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5) | 2:38 |
 | 4 | [EU VOU TOMAR UM TACACÁ X JOELMO DO RODO](https://open.spotify.com/track/2N2mexzqyE2KGmgRflQuNk) | [DJ MK De Niterói](https://open.spotify.com/artist/4QBJyByBb8tDUFD9XRi5Rs), [2L Motta](https://open.spotify.com/artist/6vlGnGiNA4XMXY6aPhBowm) | [EU VOU TOMAR UM TACACÁ X JOELMO DO RODO](https://open.spotify.com/album/0SivtPh5Iwv3EhQ2bP3wjf) | 1:13 |
 | 5 | [Vem Morenin](https://open.spotify.com/track/0j4YUzROiF5YFR8kkrysFx) | [Neno No beat](https://open.spotify.com/artist/6wPdYcqH47pTiPqsN7SImJ), [MC Rica](https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u) | [Vem Morenin](https://open.spotify.com/album/5xPNbtDedrWFO60aZpsBfK) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 49 | [ENSAIO DAS MARAVILHAS](https://open.spotify.com/track/1V6gIVSrMEJCRyogBnIrNr) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Thaysa Maravilha](https://open.spotify.com/artist/1ki7YZPuQY8PYZ8cugIzBc) | [ENSAIO DAS MARAVILHAS](https://open.spotify.com/album/0WySBFNRnQ1HeXUHckbpLw) | 2:56 |
 | 50 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 
-Snapshot ID: `MCw0ODczZTQxYmRhMmQzMzgxZTkzY2VmNzZmNTE5YTBkZWE2YzM4YWQ0`
+Snapshot ID: `MCxjNjlkYzhjOTExOGY1NzczMDQ3N2YzNDc2ZjA1NzEwMGRmYzMxN2Y5`

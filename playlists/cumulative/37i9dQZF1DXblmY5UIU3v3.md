@@ -4,7 +4,7 @@
 
 > The bass you need for riding low and high.
 
-193 songs - 8 hr 58 min
+194 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Look at Me](https://open.spotify.com/track/6ixeBeuUlZxjmBsjdsLuCv) | [OQTAN](https://open.spotify.com/artist/0sW5E8JJy5gBqGZxDAlS4s), [Ginga](https://open.spotify.com/artist/3Ht6LI9tAjInNAosJnYZSU) | [Look at Me](https://open.spotify.com/album/3v5y3DdwUPVdn0dWn7lVdL) | 2:19 | 2022-04-07 | 2023-09-22 |
 | [Looking For You](https://open.spotify.com/track/16RNr3flj8kk6Mc8DOmXjU) | [INDI](https://open.spotify.com/artist/7AcpHojwmE3bQlZYQ9UEjH), [Archelli Findz](https://open.spotify.com/artist/6eawBW6CjPiWzIFkPj3MFW) | [Looking for You](https://open.spotify.com/album/5LpjWy0EfrIEKN8gPtY4PY) | 3:15 | 2022-07-28 | 2023-01-21 |
 | [Love Nwantiti \(ah ah ah\)](https://open.spotify.com/track/13yZ5GCAdTfhIMAzzgI9VJ) | [Jaydan Wolf](https://open.spotify.com/artist/58NOd3nTpJVVGma4x975P0), [Luc Rushmere](https://open.spotify.com/artist/7IfsuGH0v0gCTz4e5ZSD1p), [ASTRODIA](https://open.spotify.com/artist/3DyfxgDK0vg1vpGQtXZImO) | [Love Nwantiti \(ah ah ah\)](https://open.spotify.com/album/3QKmj83Db2QfSr0IkPUUXR) | 2:50 | 2022-04-07 | 2022-08-13 |
+| [Lowkey \(LDN Drift\) \[feat\. Takura\]](https://open.spotify.com/track/308JcmNsqtkEZaAkcZrCT2) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Lowkey \(LDN Drift\) \[feat\. Takura\]](https://open.spotify.com/album/5rGnxRc5WOwevqYSLNMdkp) | 2:37 | 2024-01-26 |  |
 | [LTE](https://open.spotify.com/track/0wwgILP45gwfpQC8AWhhsq) | [KEAN DYSSO](https://open.spotify.com/artist/74MUeXrsMncKunk1chMxg5), [Sinny](https://open.spotify.com/artist/4yFMTPSQAun7AXk06kLgHJ) | [LTE](https://open.spotify.com/album/0ZVgIvST1MViIlg6ritAlD) | 2:45 | 2022-04-07 | 2022-06-17 |
 | [Mafia \- Remix](https://open.spotify.com/track/3rkSjkhFvhRt4BZKXq99d4) | [JVLA](https://open.spotify.com/artist/24D8gx0257CDd1HAuqNuHu), [MARE](https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX) | [Mafia \(Remix\)](https://open.spotify.com/album/5f1JJTRqqYQVC1stqR869n) | 2:02 | 2023-01-20 |  |
 | [Magic Violin](https://open.spotify.com/track/1VlHp8KvN31LdtDC9orfyV) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7) | [Magic Violin](https://open.spotify.com/album/6oRdtpTdhRpyAZQlQGNCMB) | 2:16 | 2022-10-20 |  |
@@ -197,7 +198,7 @@
 | [Woah](https://open.spotify.com/track/3jWkWcmESJG9fmhZOpZYsW) | [BENO](https://open.spotify.com/artist/2Lkxnlhbsvg4lAIckgEPVP) | [Woah](https://open.spotify.com/album/62kVMk94iQkaxSyly4l6GM) | 2:19 | 2022-04-21 | 2022-08-19 |
 | [XO Tour Llif3](https://open.spotify.com/track/7FRWxs3AS1mStD74em4Ixv) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv) | [XO Tour Llif3](https://open.spotify.com/album/1I7leMbBry30zajbQ4SgPf) | 2:26 | 2022-09-09 | 2022-11-18 |
 | [Ya Lame](https://open.spotify.com/track/1644hjO0NvNDzddHK6NTA8) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz) | [Ya Lame](https://open.spotify.com/album/3M0Z7XRfEy3dev3oVpuxr8) | 3:03 | 2022-04-07 | 2022-05-13 |
-| [Yeah!](https://open.spotify.com/track/2MZkILMJHm0p4JTY2qbUJW) | [Panzer](https://open.spotify.com/artist/3CCPoNaYvH1LPFSBbRGdrl), [HVZVRD](https://open.spotify.com/artist/0TBbjAcKVKKc8QwMoHPI9f), [Vokido](https://open.spotify.com/artist/0OrhRAX5OBX91Ad12Frn16), [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP) | [Yeah!](https://open.spotify.com/album/7BCbDhUmjXcQDPn2SAilwu) | 2:33 | 2022-11-17 |  |
+| [Yeah!](https://open.spotify.com/track/2MZkILMJHm0p4JTY2qbUJW) | [Panzer](https://open.spotify.com/artist/3CCPoNaYvH1LPFSBbRGdrl), [HVZVRD](https://open.spotify.com/artist/0TBbjAcKVKKc8QwMoHPI9f), [Vokido](https://open.spotify.com/artist/0OrhRAX5OBX91Ad12Frn16), [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP) | [Yeah!](https://open.spotify.com/album/7BCbDhUmjXcQDPn2SAilwu) | 2:33 | 2022-11-17 | 2024-01-28 |
 | [ГОВОРИТЬ КИЇВ](https://open.spotify.com/track/6gRhaka1XR8DEc6sQ0mXPa) | [PROBASS ∆ HARDI](https://open.spotify.com/artist/4w8RbPbs4n3ceag62qvMl2) | [ГОВОРИТЬ КИЇВ](https://open.spotify.com/album/46OpjBHW12mcjYPjIJt72X) | 3:03 | 2022-07-28 | 2022-08-19 |
 | [Доброго вечора \- Where Are You From](https://open.spotify.com/track/0O3TZYgwaRadNprRONZ7iX) | [PROBASS ∆ HARDI](https://open.spotify.com/artist/4w8RbPbs4n3ceag62qvMl2) | [Доброго вечора \(Where Are You From\)](https://open.spotify.com/album/0Wb0K888wBuMl5Y58NGcev) | 2:48 | 2022-04-21 | 2022-07-09 |
 | [Минимум \- Ramzan Abitov Remix](https://open.spotify.com/track/2l0IvRqDNGQ63FaImXlHx9) | [Ямаджи](https://open.spotify.com/artist/1vhOS1zU5F96OtQUoMT47i), [Фейджи](https://open.spotify.com/artist/0ybzbOJd34JZg3cd4jsouX), [Ramzan Abitov](https://open.spotify.com/artist/2dOsIKbm1sSfr79DebyMgV) | [Минимум \(Remix Pack\)](https://open.spotify.com/album/3hO7iEp7Mis2rEsDjrDSVQ) | 1:37 | 2022-04-21 | 2022-09-10 |

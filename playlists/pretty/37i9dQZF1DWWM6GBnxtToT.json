@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 581673,
+  "num_followers": 581611,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTZlNDlkOTIyODZmOGJlNGM0YWFhZDVlNmNhZDgzMDNjMjQyZDM1",
+  "snapshot_id": "MCwwMTY5Yzc1Y2YyNmE2NDJjNTBlZTFmZTU0ODdjYTFlMmJkNjMyMmRl",
   "tracks": [
     {
       "added_at": "2024-01-25 17:05:00",
@@ -315,8 +315,8 @@
     {
       "added_at": "2024-01-25 17:05:00",
       "album": {
-        "name": "Synchronize",
-        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+        "name": "Colorado",
+        "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 164576,
-      "name": "Synchronize",
-      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
+      "duration_ms": 174347,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
     },
     {
       "added_at": "2024-01-25 17:05:00",
@@ -395,8 +395,8 @@
     {
       "added_at": "2024-01-25 17:05:00",
       "album": {
-        "name": "Colorado",
-        "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
+        "name": "Synchronize",
+        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 174347,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
+      "duration_ms": 164576,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
     },
     {
       "added_at": "2024-01-25 17:05:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2024-01-25 17:05:00",
       "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/0U3nZkZJbWCRK71MhORAFt"
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
       },
       "artists": [
         {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
         }
       ],
-      "duration_ms": 174725,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/32QjoM6mbNCEFxS8OYiPYB"
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5ieLgTo5CXbIgoO0X2KJHf"
     },
     {
       "added_at": "2024-01-25 17:05:00",
@@ -567,6 +567,22 @@
       "duration_ms": 200391,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/5hsOIinKbxVIVIggR55OAQ"
+    },
+    {
+      "added_at": "2024-01-25 17:05:00",
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/0U3nZkZJbWCRK71MhORAFt"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 174725,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/32QjoM6mbNCEFxS8OYiPYB"
     },
     {
       "added_at": "2024-01-25 17:05:00",
@@ -603,22 +619,6 @@
       "duration_ms": 246706,
       "name": "Tonight (feat. Ezra Koenig)",
       "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
-    },
-    {
-      "added_at": "2024-01-25 17:05:00",
-      "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5ieLgTo5CXbIgoO0X2KJHf"
     },
     {
       "added_at": "2024-01-25 17:05:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-01-25 17:05:00",
       "album": {
-        "name": "Someone You Love",
-        "url": "https://open.spotify.com/album/3osxMWTR97vYigGuiqVhxM"
-      },
-      "artists": [
-        {
-          "name": "Some Sprouts",
-          "url": "https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp"
-        }
-      ],
-      "duration_ms": 203828,
-      "name": "Someone You Love",
-      "url": "https://open.spotify.com/track/2JUXU13VveY6JMvPgpRJJZ"
-    },
-    {
-      "added_at": "2024-01-25 17:05:00",
-      "album": {
         "name": "Around The Sun",
         "url": "https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 234493,
       "name": "Around The Sun",
       "url": "https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P"
+    },
+    {
+      "added_at": "2024-01-25 17:05:00",
+      "album": {
+        "name": "Someone You Love",
+        "url": "https://open.spotify.com/album/3osxMWTR97vYigGuiqVhxM"
+      },
+      "artists": [
+        {
+          "name": "Some Sprouts",
+          "url": "https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp"
+        }
+      ],
+      "duration_ms": 203828,
+      "name": "Someone You Love",
+      "url": "https://open.spotify.com/track/2JUXU13VveY6JMvPgpRJJZ"
     },
     {
       "added_at": "2024-01-25 17:05:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-01-25 17:05:00",
       "album": {
-        "name": "Walking Like That",
-        "url": "https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh"
-      },
-      "artists": [
-        {
-          "name": "Color The Night",
-          "url": "https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Walking Like That",
-      "url": "https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN"
-    },
-    {
-      "added_at": "2024-01-25 17:05:00",
-      "album": {
         "name": "Things Are Great",
         "url": "https://open.spotify.com/album/6oDxFhDxCrSxiPgy6Xlact"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 223053,
       "name": "Crutch",
       "url": "https://open.spotify.com/track/1Ft5ivAGXYDmNoKmys13sX"
+    },
+    {
+      "added_at": "2024-01-25 17:05:00",
+      "album": {
+        "name": "Walking Like That",
+        "url": "https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh"
+      },
+      "artists": [
+        {
+          "name": "Color The Night",
+          "url": "https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Walking Like That",
+      "url": "https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN"
     },
     {
       "added_at": "2024-01-25 17:05:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-01-25 17:05:00",
       "album": {
-        "name": "Tenderfoot",
-        "url": "https://open.spotify.com/album/1fFO2iwv5vhJctuGrObKaV"
-      },
-      "artists": [
-        {
-          "name": "The Day",
-          "url": "https://open.spotify.com/artist/7tE9qfIbkI2LNvwykjyiDN"
-        }
-      ],
-      "duration_ms": 128703,
-      "name": "Tenderfoot",
-      "url": "https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N"
-    },
-    {
-      "added_at": "2024-01-25 17:05:00",
-      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 163648,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
+    },
+    {
+      "added_at": "2024-01-25 17:05:00",
+      "album": {
+        "name": "Tenderfoot",
+        "url": "https://open.spotify.com/album/1fFO2iwv5vhJctuGrObKaV"
+      },
+      "artists": [
+        {
+          "name": "The Day",
+          "url": "https://open.spotify.com/artist/7tE9qfIbkI2LNvwykjyiDN"
+        }
+      ],
+      "duration_ms": 128703,
+      "name": "Tenderfoot",
+      "url": "https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N"
     },
     {
       "added_at": "2024-01-25 17:05:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-01-25 17:05:00",
       "album": {
+        "name": "Dancing in the City (Radio Edit)",
+        "url": "https://open.spotify.com/album/4y2vjGF1u3hhPdyLHiL70o"
+      },
+      "artists": [
+        {
+          "name": "Siamese Elephants",
+          "url": "https://open.spotify.com/artist/7bgOhFs7p8ZGBMIIORey80"
+        }
+      ],
+      "duration_ms": 201994,
+      "name": "Dancing in the City (Radio Edit)",
+      "url": "https://open.spotify.com/track/12pXH0mid48V0vN0ykfBG5"
+    },
+    {
+      "added_at": "2024-01-25 17:05:00",
+      "album": {
         "name": "Heavy Objects",
         "url": "https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 225467,
       "name": "Sabada",
       "url": "https://open.spotify.com/track/6bDu7PiUOUuXrviwss6aJD"
-    },
-    {
-      "added_at": "2024-01-25 17:05:00",
-      "album": {
-        "name": "Dancing in the City (Radio Edit)",
-        "url": "https://open.spotify.com/album/4y2vjGF1u3hhPdyLHiL70o"
-      },
-      "artists": [
-        {
-          "name": "Siamese Elephants",
-          "url": "https://open.spotify.com/artist/7bgOhFs7p8ZGBMIIORey80"
-        }
-      ],
-      "duration_ms": 201994,
-      "name": "Dancing in the City (Radio Edit)",
-      "url": "https://open.spotify.com/track/12pXH0mid48V0vN0ykfBG5"
     },
     {
       "added_at": "2024-01-25 17:05:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-01-25 17:05:00",
       "album": {
-        "name": "Kalif Onya",
-        "url": "https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl"
-      },
-      "artists": [
-        {
-          "name": "Al Pride",
-          "url": "https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB"
-        }
-      ],
-      "duration_ms": 238936,
-      "name": "Kalif Onya",
-      "url": "https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T"
-    },
-    {
-      "added_at": "2024-01-25 17:05:00",
-      "album": {
         "name": "Bleach",
         "url": "https://open.spotify.com/album/4LqbOcnsIgwtuzrcxHMq2L"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 209960,
       "name": "Bleach",
       "url": "https://open.spotify.com/track/0Xct3eGoj7gMnxTdnimiJN"
+    },
+    {
+      "added_at": "2024-01-25 17:05:00",
+      "album": {
+        "name": "Kalif Onya",
+        "url": "https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl"
+      },
+      "artists": [
+        {
+          "name": "Al Pride",
+          "url": "https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB"
+        }
+      ],
+      "duration_ms": 238936,
+      "name": "Kalif Onya",
+      "url": "https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T"
     },
     {
       "added_at": "2024-01-25 17:05:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-01-25 17:05:00",
       "album": {
+        "name": "Mojito",
+        "url": "https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax"
+      },
+      "artists": [
+        {
+          "name": "BILBAO",
+          "url": "https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH"
+        }
+      ],
+      "duration_ms": 184706,
+      "name": "Mojito",
+      "url": "https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx"
+    },
+    {
+      "added_at": "2024-01-25 17:05:00",
+      "album": {
         "name": "Falling for You",
         "url": "https://open.spotify.com/album/3jRlCgPRb4MXYYxa4Y9MCO"
       },
@@ -1539,18 +1555,18 @@
     {
       "added_at": "2024-01-25 17:05:00",
       "album": {
-        "name": "Mojito",
-        "url": "https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax"
+        "name": "Highness",
+        "url": "https://open.spotify.com/album/4EHDGQCK8ziAccxlY8tCS5"
       },
       "artists": [
         {
-          "name": "BILBAO",
-          "url": "https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH"
+          "name": "Nosoyo",
+          "url": "https://open.spotify.com/artist/4H5tKZTXuVPxynMaaaBbWs"
         }
       ],
-      "duration_ms": 184706,
-      "name": "Mojito",
-      "url": "https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx"
+      "duration_ms": 193766,
+      "name": "Highness",
+      "url": "https://open.spotify.com/track/5StogjwnaLs9zO0fl6x7P3"
     },
     {
       "added_at": "2024-01-25 17:05:00",
@@ -1571,22 +1587,6 @@
       "duration_ms": 202493,
       "name": "Impossible Weight - feat. Sharon Van Etten",
       "url": "https://open.spotify.com/track/23y2DjW3Ljd7o0ZcFnqRo9"
-    },
-    {
-      "added_at": "2024-01-25 17:05:00",
-      "album": {
-        "name": "Highness",
-        "url": "https://open.spotify.com/album/4EHDGQCK8ziAccxlY8tCS5"
-      },
-      "artists": [
-        {
-          "name": "Nosoyo",
-          "url": "https://open.spotify.com/artist/4H5tKZTXuVPxynMaaaBbWs"
-        }
-      ],
-      "duration_ms": 193766,
-      "name": "Highness",
-      "url": "https://open.spotify.com/track/5StogjwnaLs9zO0fl6x7P3"
     },
     {
       "added_at": "2024-01-25 17:05:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-01-25 17:05:00",
       "album": {
-        "name": "Get Up!",
-        "url": "https://open.spotify.com/album/2maaNCLEe1kl88Fe0Mq9Ao"
-      },
-      "artists": [
-        {
-          "name": "BILBAO",
-          "url": "https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "Get Up!",
-      "url": "https://open.spotify.com/track/0weXGUBLk52zIbgMbP043L"
-    },
-    {
-      "added_at": "2024-01-25 17:05:00",
-      "album": {
         "name": "Smiling Face",
         "url": "https://open.spotify.com/album/75E23gvtdp9zPvRpKXWcIA"
       },
@@ -1655,22 +1639,6 @@
     {
       "added_at": "2024-01-25 17:05:00",
       "album": {
-        "name": "Morning Dew",
-        "url": "https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp"
-      },
-      "artists": [
-        {
-          "name": "Moglii",
-          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
-        }
-      ],
-      "duration_ms": 159454,
-      "name": "Morning Dew",
-      "url": "https://open.spotify.com/track/4fBdT1O7ZjTdLmMwAB4rgg"
-    },
-    {
-      "added_at": "2024-01-25 17:05:00",
-      "album": {
         "name": "Red & Blue",
         "url": "https://open.spotify.com/album/4LwCWinuYbTmzTBuiXQsU7"
       },
@@ -1683,6 +1651,38 @@
       "duration_ms": 213418,
       "name": "Red & Blue",
       "url": "https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND"
+    },
+    {
+      "added_at": "2024-01-25 17:05:00",
+      "album": {
+        "name": "Get Up!",
+        "url": "https://open.spotify.com/album/2maaNCLEe1kl88Fe0Mq9Ao"
+      },
+      "artists": [
+        {
+          "name": "BILBAO",
+          "url": "https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "Get Up!",
+      "url": "https://open.spotify.com/track/0weXGUBLk52zIbgMbP043L"
+    },
+    {
+      "added_at": "2024-01-25 17:05:00",
+      "album": {
+        "name": "Morning Dew",
+        "url": "https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp"
+      },
+      "artists": [
+        {
+          "name": "Moglii",
+          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
+        }
+      ],
+      "duration_ms": 159454,
+      "name": "Morning Dew",
+      "url": "https://open.spotify.com/track/4fBdT1O7ZjTdLmMwAB4rgg"
     }
   ],
   "unique_name": "Feelgood Indie",

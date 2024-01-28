@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 384894,
+  "2024-01-28": 384659,
   "date_first_scraped": "2022-05-27",
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
   "name": "Tokyo Rising",
@@ -17927,7 +17927,7 @@
     {
       "album": {
         "name": "Toryanse",
-        "url": "https://open.spotify.com/album/2RjltuGxIPfb5a8djkUF57"
+        "url": "https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI"
       },
       "artists": [
         {
@@ -17938,6 +17938,24 @@
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 156556,
+      "name": "Toryanse",
+      "url": "https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r"
+    },
+    {
+      "album": {
+        "name": "Toryanse",
+        "url": "https://open.spotify.com/album/2RjltuGxIPfb5a8djkUF57"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-27",
       "duration_ms": 156556,
       "name": "Toryanse",
       "url": "https://open.spotify.com/track/7lxfgkxV4IGz7lc6TmFPqx"

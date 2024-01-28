@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ヒグチアイ \(Ai Higuchi\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,785 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,847 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 49 | [REALIZE](https://open.spotify.com/track/2IlivxoEfhgiVyuzNmEjfP) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [ULTRA FLASH](https://open.spotify.com/album/1KodmgSv3GB4xEneIHH6ES) | 4:03 |
 | 50 | [ギターと孤独と蒼い惑星](https://open.spotify.com/track/17rhDgnYYryQU4uS71ZxFu) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [ギターと孤独と蒼い惑星](https://open.spotify.com/album/6PmIi4asxDdrpIcZKHYfWp) | 3:48 |
 
-Snapshot ID: `MCw1NjQxMWVmZTY0MzlmNjNkYTVhMDgzZWVhOTA4ZGVmZmM2YTcyOGJm`
+Snapshot ID: `MCxlY2E4NmFhZWQxMmI0MGZhYTVhNjg4NTZkMGY2ZjdhMDUxYmU1NTE3`

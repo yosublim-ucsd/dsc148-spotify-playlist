@@ -556,10 +556,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 275040,
       "name": "Le sud",
       "url": "https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD"
+    },
+    {
+      "album": {
+        "name": "Dandy",
+        "url": "https://open.spotify.com/album/53ibqYJpRGoOJ8m7QFfmRi"
+      },
+      "artists": [
+        {
+          "name": "Nino Ferrer",
+          "url": "https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Le sud",
+      "url": "https://open.spotify.com/track/6HOgSZ5PQqNFJEYg67WpKi"
     },
     {
       "album": {

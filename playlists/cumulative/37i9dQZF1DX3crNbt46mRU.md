@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Justin Timberlake
 
-10,500 songs - 21 day 21 hr 48 min
+10,501 songs - 21 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5222,7 +5222,7 @@
 | [LASS DIE MUSIK AN](https://open.spotify.com/track/0VWhOA6sDGSBPXT9O280QV) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [LASS DIE MUSIK AN](https://open.spotify.com/album/1s5kUNeSWHU0DW3MPsnchM) | 2:48 | 2022-04-21 | 2022-04-29 |
 | [Lass es kreisen](https://open.spotify.com/track/6Pn5YAIhhT85vxBD3YoIzG) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Es ist Abend und wir sitzen bei mir](https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI) | 3:19 | 2023-03-02 | 2023-03-10 |
 | [LASS ES ROSEN FÜR MICH REGNEN \(feat\. Provinz & Lena\)](https://open.spotify.com/track/2cGJrMY1TxKn66h6d76wc0) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [ALLES WAR SCHÖN UND NICHTS TAT WEH](https://open.spotify.com/album/2g6eUnuvDUSkGdUDmc2vBy) | 3:27 | 2022-02-24 | 2022-03-04 |
-| [lass los](https://open.spotify.com/track/7ds5QDfQbzheDtl7NOOcPc) | [Maeckes](https://open.spotify.com/artist/5nVbdvU60t7C0JBruxsS26) | [lass los](https://open.spotify.com/album/6TmA0wjEnOhoWgUtOxIuuv) | 2:11 | 2024-01-25 |  |
+| [lass los](https://open.spotify.com/track/7ds5QDfQbzheDtl7NOOcPc) | [Maeckes](https://open.spotify.com/artist/5nVbdvU60t7C0JBruxsS26), [Bayuk](https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw) | [lass los](https://open.spotify.com/album/6TmA0wjEnOhoWgUtOxIuuv) | 2:11 | 2024-01-25 |  |
 | [LASS LOS](https://open.spotify.com/track/2YI2wLwy4DqZKyMD0sfYeh) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [LASS LOS](https://open.spotify.com/album/76IWgdnjuSYLlCF7qC6so1) | 2:51 | 2023-08-10 | 2023-08-18 |
 | [Lass mich gehen](https://open.spotify.com/track/3xqHty33x4U8sFVqaeVPiJ) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8), [Nisa](https://open.spotify.com/artist/6wYROOAfZ97gNh5TzasS50) | [Lass mich gehen](https://open.spotify.com/album/26om1PBGGbzkSJzhBgSSHb) | 1:58 | 2023-10-19 | 2023-10-27 |
 | [Lass Sie Reden](https://open.spotify.com/track/13aLB1KmkCh52On7ASZMQo) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q), [JESUÉ](https://open.spotify.com/artist/3EIiFjVdVmLOTCbgqhUCKP) | [Lass Sie Reden](https://open.spotify.com/album/6ACfV8Mg31s9C9O5SsLhi5) | 2:55 | 2023-02-23 | 2023-03-03 |
@@ -5521,7 +5521,8 @@
 | [Locked Up \(ft\. Akon\)](https://open.spotify.com/track/7kITGCwFNyrwG98FQTjM53) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Locked Up \(ft\. Akon\)](https://open.spotify.com/album/4eUAfbKPrliNUtflCe6sEu) | 2:27 | 2023-08-17 | 2023-08-25 |
 | [Locker Room](https://open.spotify.com/track/3jjTNicCrPJFe0FyLWmSAR) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Locker Room](https://open.spotify.com/album/2MlvBenVNmFKfLvprpn194) | 3:43 | 2022-04-28 | 2022-05-06 |
 | [Locksmith](https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Locksmith](https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl) | 2:44 | 2022-10-06 | 2022-10-14 |
-| [LOCO](https://open.spotify.com/track/6MsXDsDuTgFsq9QhpmtAU6) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [LOCO](https://open.spotify.com/album/5ym9a0EgZNubqWMQXI9cha) | 2:41 | 2024-01-26 |  |
+| [LOCO](https://open.spotify.com/track/1ICsCnsH06jI39jjLQmnxY) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/3kODAAfimujT9QY8PaNgDn) | 2:41 | 2024-01-26 |  |
+| [LOCO](https://open.spotify.com/track/6MsXDsDuTgFsq9QhpmtAU6) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [LOCO](https://open.spotify.com/album/5ym9a0EgZNubqWMQXI9cha) | 2:41 | 2024-01-26 | 2024-01-28 |
 | [Loco](https://open.spotify.com/track/7eSEKk3leBTU3NFISwzPxu) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Loco](https://open.spotify.com/album/46j0K37V8vyWV3GJYpva1c) | 2:41 | 2024-01-25 | 2024-01-27 |
 | [logical](https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:51 | 2023-09-07 | 2023-09-15 |
 | [Loin](https://open.spotify.com/track/32AgC7PIjcNY5jTGbkrZrt) | [Lily Claire](https://open.spotify.com/artist/1x7tHpp3O11dDPMcpGlI08) | [Loin](https://open.spotify.com/album/6i7GukgQeN49nZM8gTJxb8) | 3:23 | 2022-11-24 | 2022-12-02 |

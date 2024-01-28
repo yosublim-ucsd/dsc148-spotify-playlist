@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover: <a href="spotify:artist:50hkKRxo0g8Ck4JqlwoJr4">Cochren & Co.,</a> <a href="spotify:artist:2cRQc5dlsvrO2lVLCgdugm">Matt Boswell,</a> and <a href="spotify:artist:7C9hIwTUxeWIJzxK6rGH0d">Matt Papa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 982,064 likes - 90 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 981,319 likes - 90 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 89 | [Jesus Now \- Live](https://open.spotify.com/track/6wnxaVE6g2kEnDmjmlKYZL) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Metro Collective Worship](https://open.spotify.com/artist/3v3nuJodbuZr1ofB6Aqzrn) | [Jesus Now](https://open.spotify.com/album/0qLUPWE9SikEjGsvSEDQ5W) | 5:16 |
 | 90 | [Now To God \- Live](https://open.spotify.com/track/3VFfyjdeL14YNC6RgOWBhe) | [Stockholm Worship](https://open.spotify.com/artist/5BLAL4fBI3BB2ohYBPmCOH) | [Other Side](https://open.spotify.com/album/0wRQo1pAoe3b4mNdiQnbV4) | 4:46 |
 
-Snapshot ID: `MCxmYmRkMDJjM2QyNjZkZjA5NDk3M2M0NDJiMWZhZjI2NGY0NDVmYzYz`
+Snapshot ID: `MCwzOGQ5NGMzYWIzMTRkMTFmZTcwN2U0M2E4MzgwNTczMmM5NDZiM2Zj`

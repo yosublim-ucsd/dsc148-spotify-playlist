@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 506415,
+  "2024-01-28": 506333,
   "date_first_scraped": "2022-09-25",
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
   "name": "This Is Bob Dylan",
@@ -219,7 +219,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 161466,
       "name": "Corrina, Corrina",
       "url": "https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI"
@@ -749,7 +749,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 252066,
       "name": "It's All Over Now, Baby Blue",
       "url": "https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S"
@@ -1471,7 +1471,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 166706,
       "name": "She Belongs to Me",
       "url": "https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD"
@@ -1651,7 +1651,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 192053,
       "name": "The Times They Are A-Changin'",
       "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"

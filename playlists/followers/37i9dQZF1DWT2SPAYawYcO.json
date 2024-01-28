@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 369592,
+  "2024-01-28": 369369,
   "date_first_scraped": "2023-06-18",
   "description": "The best new songs of the week! Cover: Kobie Dee",
   "name": "New Music Friday AU & NZ",
@@ -20746,6 +20746,24 @@
     },
     {
       "album": {
+        "name": "HISS",
+        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192818,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
+    },
+    {
+      "album": {
         "name": "History Books (feat. Bruce Springsteen)",
         "url": "https://open.spotify.com/album/4WsKcrfETIMvKNJPnsl5KX"
       },
@@ -33543,6 +33561,24 @@
     {
       "album": {
         "name": "Ocean Demon",
+        "url": "https://open.spotify.com/album/2BL7t5XIN8JmWWJajgqgY0"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260088,
+      "name": "Ocean Demon",
+      "url": "https://open.spotify.com/track/2DuzhNJjW3N61Te2Zqd6Un"
+    },
+    {
+      "album": {
+        "name": "Ocean Demon",
         "url": "https://open.spotify.com/album/0afWv8C27pDRT8Ytp7AQSO"
       },
       "artists": [
@@ -33553,7 +33589,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 260088,
       "name": "Ocean Demon",
       "url": "https://open.spotify.com/track/6qCPI0PZMSJgIptC1HzobL"
@@ -47355,6 +47391,24 @@
       "duration_ms": 170616,
       "name": "Think Of Us",
       "url": "https://open.spotify.com/track/4jpNmNXMzO3aVgJhy8sdxL"
+    },
+    {
+      "album": {
+        "name": "Think U The Sh*t (Fart)",
+        "url": "https://open.spotify.com/album/6KHoc2lBi1kfzqifbY66V6"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141639,
+      "name": "Think U The Sh*t (Fart)",
+      "url": "https://open.spotify.com/track/5xcj5a0RKC2s5PIs1FcXOu"
     },
     {
       "album": {

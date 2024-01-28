@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,836 likes - 63 songs - 17 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,851 likes - 63 songs - 17 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hari Dhwani \- Raga Lalit \- Alap \(Sthai\)](https://open.spotify.com/track/2nEDjd2E33WtY89cBlcGXp) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Rupak Kulkarni](https://open.spotify.com/artist/629Hq4ALLZV2JwkMX6C2Ff) | [Hari Dhwani \- Raga Lalit](https://open.spotify.com/album/2x8LytN5vmjbuESvmBp27S) | 9:55 |
 | 2 | [Ab Mori Baat \- Live](https://open.spotify.com/track/0GtOIkzvHqCXgbXoa4Lmq6) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Bhuvanesh Komkali](https://open.spotify.com/artist/5wqAPDVFT5PhC2RZiA53zB) | [Ab Mori Baat \(Live\)](https://open.spotify.com/album/4iYc0qimMEangahJLGYaNB) | 7:12 |
-| 3 | [Raag Bhairavi \- Dadra \- Rab Tohe Bhoole Nahi Bane](https://open.spotify.com/track/7e8fqBJhN0n5tkfmZTvZFa) | [Shubha Joshi](https://open.spotify.com/artist/3x8HJIi4joDofxR76HbYaC) | [Surmayi](https://open.spotify.com/album/3cLkuIZQzvGn1aFUrohEpE) | 6:17 |
+| 3 | [Raag Bhairavi \- Dadra \- Rab Tohe Bhoole Nahi Bane](https://open.spotify.com/track/66KrLDDEDYpVKuCwK3WALo) | [Shubha Joshi](https://open.spotify.com/artist/3x8HJIi4joDofxR76HbYaC) | [Surmayi](https://open.spotify.com/album/5gv6rn7TgsEA6Q7mdOjOei) | 6:17 |
 | 4 | [Raga Bhinna Kauns \- Alap](https://open.spotify.com/track/3uKf2XtbIOvwKAj0QF9xoK) | [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Rare Masterpiece \- Raga Bhinna Kauns](https://open.spotify.com/album/04PWTDjCdiePmllR2VEXEn) | 9:48 |
 | 5 | [Rut Badle](https://open.spotify.com/track/1V16KVo3SNhjsasMgHH7LQ) | [Tapas Relia](https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O), [Om Bongane](https://open.spotify.com/artist/5CbfjjzYQsnMAIBUBFuL0q) | [Goldfish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co) | 6:16 |
 | 6 | [Jin Ke Man Ram Biraaje \- Raga Malkauns \- Khayal Vilambit \- Ektaal / Angan Aaye Balama \- Raga Malakauns \- Khayal Drut \- Ektaal](https://open.spotify.com/track/0SHJokbf80YliyvxnEzlOO) | [Rajan Mishra](https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9), [Sajan Mishra](https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p) | [Rajan / Sajan Mishra](https://open.spotify.com/album/1PlXFYiSiIviftsPQ3S14m) | 10:03 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 62 | [Dev Dev Sat Sang \- Khayal Vilambit \- Jhap Taal / Maanat Nahin \- Raag Sawani \- Khayal Drut \- Teentaal](https://open.spotify.com/track/3SpPbiI3GoyIDBYxvnByPz) | [Suresh Talwalkar](https://open.spotify.com/artist/61TBwoNacct3xrgHpQrP1r), [Anant Kunte](https://open.spotify.com/artist/2hCXIITSyyqPwgkaVNHN7D), [Pt\. Babanrao Manjrekar](https://open.spotify.com/artist/4zLwSdQIRKPFLWZ4H65agg), [Padma Talwalkar](https://open.spotify.com/artist/064zRRPqgyHoIO6KKSKC4e) | [Padma Talwalkar](https://open.spotify.com/album/1kVSQdnFN0LhpguKaUGJ6T) | 27:13 |
 | 63 | [Raga Shree](https://open.spotify.com/track/7hrScFzMLbCqqMjRVhVGui) | [Kumar Gandharva](https://open.spotify.com/artist/4nZmnoNMkDwdutbWCJhL22) | [Sangeet Sataj Vol\. 1 & 2](https://open.spotify.com/album/3w15CmWb0Wj4HneKR4YAFP) | 31:48 |
 
-Snapshot ID: `MCw3OTkwYzllMWExZGYyZmE1N2JjMjUyYWI3NWIwMzdhYTFiNzQ5OWVm`
+Snapshot ID: `MCwxMWU2OTE0MTExZDY5ZmJmNjFjMmI1Mjg1MTdiMDEyYjY3YWRhNTg2`

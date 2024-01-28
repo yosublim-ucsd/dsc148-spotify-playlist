@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3rXtgePifMs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3rXtgePifMs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3rXtgePifMs)
 
-### [EA SPORTS FC 24 Official Soundtrack](https://open.spotify.com/playlist/37i9dQZF1DX3rXtgePifMs)
+### [Soundtrack oficial de EA SPORTS FC 24](https://open.spotify.com/playlist/37i9dQZF1DX3rXtgePifMs)
 
 > The official EA SPORTS FC 24 Soundtrack.
 

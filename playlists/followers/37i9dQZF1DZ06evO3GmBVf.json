@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 151919,
+  "2024-01-28": 152135,
   "date_first_scraped": "2023-09-16",
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
   "name": "This Is Lefty Sm",
@@ -307,6 +307,36 @@
       "duration_ms": 195030,
       "name": "Diganle",
       "url": "https://open.spotify.com/track/0j9r3PY022HrFfOmQgGZvr"
+    },
+    {
+      "album": {
+        "name": "El Bais\u00f3n (feat. Toser One)",
+        "url": "https://open.spotify.com/album/0lQOsBHEf9EAm0j8hlbFYr"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219791,
+      "name": "El Bais\u00f3n (feat. Toser One)",
+      "url": "https://open.spotify.com/track/6WwCuYWEH32z0tn8mSN3MY"
     },
     {
       "album": {

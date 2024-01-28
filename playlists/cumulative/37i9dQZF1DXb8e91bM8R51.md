@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-365 songs - 20 hr 54 min
+366 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 | 2023-09-01 |  |
 | [Flossin'](https://open.spotify.com/track/7ancvwiSHq5uQSUCxW6IFY) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Flossin'](https://open.spotify.com/album/0W3XpjZWbYHhOyMs756EIs) | 2:48 | 2023-10-29 | 2023-11-25 |
 | [Flossin’ \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3zDMTxEANpj6hedyCrHXBg) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Flossin’ \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/5SzQj9rNCNbXcp1jyr9LWb) | 2:48 | 2022-02-04 | 2023-10-24 |
-| [Flowers \(feat\. MAVI\)](https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Flowers \(feat\. MAVI\)](https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD) | 3:02 | 2023-08-11 |  |
+| [Flowers \(feat\. MAVI\)](https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Flowers \(feat\. MAVI\)](https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD) | 3:02 | 2023-08-11 | 2024-01-28 |
 | [For all my Hustlers](https://open.spotify.com/track/0EOkzEzGnSWFL1FsqSlIzQ) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [For all my Hustlers](https://open.spotify.com/album/6oy2vEDmXeXLyaLQhaJzM6) | 2:43 | 2022-02-25 | 2022-03-12 |
 | [Forever](https://open.spotify.com/track/0dOdo7YAPCRueBT5bGHtQk) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Forever](https://open.spotify.com/album/2wctbpREzDKtOI1Rr29X9m) | 3:43 | 2022-07-01 | 2022-10-08 |
 | [Free Promotion](https://open.spotify.com/track/1rbv0WiULofKWZRDNcPSCK) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [Free Promotion](https://open.spotify.com/album/6grvETmkBJ7Q2GtVqqCHJw) | 1:52 | 2023-02-24 | 2023-08-05 |
@@ -332,6 +332,7 @@
 | [The Listening](https://open.spotify.com/track/1eNjOyhYefAN2AmncRpSjg) | [Little Brother](https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO) | [The Listening](https://open.spotify.com/album/2t4caad14mHY6Lthukz2cY) | 6:07 | 2022-02-04 | 2022-07-20 |
 | [The Recipe](https://open.spotify.com/track/07D2IULzPNePTwnBzDnudX) | [Demrick](https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR), [DJ Hoppa](https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD), [K.A.A.N.](https://open.spotify.com/artist/6WSTevYt4rGwm8QPKQr7dU) | [The Recipe](https://open.spotify.com/album/4ZbVA7Oz0WNzrfSIqWnuCj) | 2:36 | 2022-04-22 | 2022-07-29 |
 | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF) | 3:22 | 2022-10-14 |  |
+| [Think U The Shit \(Fart\)](https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Shit \(Fart\)](https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO) | 2:21 | 2024-01-26 |  |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-22 | 2022-05-24 |
 | [Thug Till It's Over](https://open.spotify.com/track/41vSsnP46DpUZC0YoNyk3U) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Good Job](https://open.spotify.com/album/45AcY6DFGCp9wYlAIu2Itu) | 2:09 | 2022-01-14 |  |
 | [Titanic](https://open.spotify.com/track/6SLsVEicNrL81TCoUh2yhy) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Titanic](https://open.spotify.com/album/5lerjk0bthUa3F5g2K3GrU) | 1:52 | 2022-01-14 | 2022-02-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New Music from Kollywood.\nCover : Captain Miller",
+  "description": "New Music from Kollywood.\nCover : Lal Salaam",
   "name": "Latest Tamil",
   "tracks": [
     {
@@ -1462,6 +1462,28 @@
       "duration_ms": 225793,
       "name": "Anandha Thavamae - From \"Driver Jamuna\"",
       "url": "https://open.spotify.com/track/39kFc4oPV0LFTNBBg6j4y3"
+    },
+    {
+      "album": {
+        "name": "Lal Salaam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4z1B53UzRe5QLEoKSfzqLZ"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Deva",
+          "url": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404754,
+      "name": "Anbalane",
+      "url": "https://open.spotify.com/track/1YRIHylSE3zkflVkevXoiW"
     },
     {
       "album": {
@@ -7656,7 +7678,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 196097,
       "name": "Iru Perum Nadhigal - From \"Minmini\"",
       "url": "https://open.spotify.com/track/4x86dfn1Z0RrPEGRVTgKgQ"
@@ -22013,6 +22035,40 @@
     },
     {
       "album": {
+        "name": "Lal Salaam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4z1B53UzRe5QLEoKSfzqLZ"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "A. R. Reihana",
+          "url": "https://open.spotify.com/artist/7svWIUSwHbHQUw2gK1PfNh"
+        },
+        {
+          "name": "Deepthi Suresh",
+          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
+        },
+        {
+          "name": "Yogi Sekar",
+          "url": "https://open.spotify.com/artist/4n32jWbOVtfNDsOJAGQJcs"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466419,
+      "name": "Ther Thiruvizha",
+      "url": "https://open.spotify.com/track/7F4fmPDqJBK7FT0APXDN2p"
+    },
+    {
+      "album": {
         "name": "Ther Thiruvizha (From \"Lal Salaam\")",
         "url": "https://open.spotify.com/album/6LNwOQhulT2KCVNq3pyBxi"
       },
@@ -25296,7 +25352,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 185801,
       "name": "Villain Yaaru (From \"Leo\")",
       "url": "https://open.spotify.com/track/6p8DwAh6wJ7S6jmpyYlBYp"

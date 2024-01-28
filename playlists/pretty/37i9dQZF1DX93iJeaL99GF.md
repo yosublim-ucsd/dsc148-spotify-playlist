@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 
 > Prominent Indian independent music creators\. Cover \- Lucky Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,589 likes - 40 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,637 likes - 40 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 | 13 | [MoFunk](https://open.spotify.com/track/3UwvtlbJbexgUmBtxVLJCp) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [The Silent Sea](https://open.spotify.com/album/3EnuabTWwljjKXRfjyePy3) | 6:06 |
 | 14 | [Krishna](https://open.spotify.com/track/6g57S5SIlzmWBru2l6uFjM) | [Colonial Cousins](https://open.spotify.com/artist/5gPmyKuAUQRa75lvYq5x5P) | [Colonial Cousins](https://open.spotify.com/album/7id1SVPPWJwE62WmPEhCOC) | 5:50 |
 | 15 | [Teri Deewani](https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Kailasa](https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD) | 5:23 |
-| 16 | [Bulla Ki Jaana Mein Kaun](https://open.spotify.com/track/2mDayytAT6lXBYVDWpjhpR) | [Rabbi Shergill](https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa) | [Bulla Ki Jaana Mein Kaun](https://open.spotify.com/album/5IjwmVLj8wcuZjv6MQrtO9) | 5:17 |
+| 16 | [Bulla Ki Jana](https://open.spotify.com/track/71EsSmCOr91bFkCWQzyCmu) | [Rabbi Shergill](https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa) | [Rabbi](https://open.spotify.com/album/0HUC7qxelpl3IJG5PmDKRb) | 5:17 |
 | 17 | [Bandhu Re](https://open.spotify.com/track/3VQF1tKmEogJqV2XRKm7Qg) | [Cactus](https://open.spotify.com/artist/2PWPl2KNcCDDdhqT7vb2sR) | [Rajar Raja](https://open.spotify.com/album/6UeMitzv4cd2pBCVBTHgDZ) | 5:12 |
 | 18 | [Sa Ni Dha Pa](https://open.spotify.com/track/2sF9kShaPgkYHT2lr2OCy8) | [Colonial Cousins](https://open.spotify.com/artist/5gPmyKuAUQRa75lvYq5x5P) | [Colonial Cousins](https://open.spotify.com/album/7id1SVPPWJwE62WmPEhCOC) | 5:06 |
 | 19 | [Purani Jeans](https://open.spotify.com/track/1fuM2tWkr4LC48kiGTerSX) | [Ali Haider](https://open.spotify.com/artist/6fJXLs7sAIUz7TLJwe1HqY) | [Ali Haider's Best Of The Best Vol\- 1](https://open.spotify.com/album/2Q4YL0QgSL985YNjtFWYkA) | 5:04 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 | 39 | [Lokada Kalaji](https://open.spotify.com/track/2HHnW1zEozzxU9spZVGO5I) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc) | [Jag Changa](https://open.spotify.com/album/6zeb7EfUZzNJ6YJTmeIL0V) | 4:53 |
 | 40 | [Teri Meri Zindagi](https://open.spotify.com/track/3jHP1XTax79oBQN2WB2Zsv) | [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV), [Kavya Jones](https://open.spotify.com/artist/1lydwiD3rVjbuurDYXpbXi) | [Teri Meri Zindagi](https://open.spotify.com/album/2AMpMNsHdraGYj1wigyZIm) | 3:28 |
 
-Snapshot ID: `MCw2OWE5Yjc4ZDY0YjE3ZTZhY2M0MWM2YzE0ZWY0ZTMwMWQzM2RhZmM2`
+Snapshot ID: `MCwyY2I4MzhiNGIwMjI2MzdlNGM3OWFkM2E3Y2MwMmZhYzk0MjA3OTZi`

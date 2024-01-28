@@ -6171,6 +6171,24 @@
     },
     {
       "album": {
+        "name": "Saturday Night (Need You Now)",
+        "url": "https://open.spotify.com/album/22ZdsViHpBmUCQqxzQxPov"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253320,
+      "name": "Saturday Night (Need You Now)",
+      "url": "https://open.spotify.com/track/5HYNZhR70lfA1dzvQoXCBM"
+    },
+    {
+      "album": {
         "name": "PHILEO",
         "url": "https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I"
       },
@@ -7018,7 +7036,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 190259,
       "name": "Temperature High",
       "url": "https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0"

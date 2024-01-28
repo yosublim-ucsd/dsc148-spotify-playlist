@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 3893,
+  "2024-01-28": 3905,
   "date_first_scraped": "2023-02-11",
-  "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: \u00c9l\u00e9gie",
+  "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Corridor",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -424,6 +424,24 @@
     },
     {
       "album": {
+        "name": "Ce qu'on aura",
+        "url": "https://open.spotify.com/album/4SPAxI22NjJMFzmLABVEhl"
+      },
+      "artists": [
+        {
+          "name": "Reno McCarthy",
+          "url": "https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236965,
+      "name": "Ce qu'on aura",
+      "url": "https://open.spotify.com/track/7hHXK4lcDDjgfR7hwPYhhl"
+    },
+    {
+      "album": {
         "name": "Baloney suicide",
         "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
       },
@@ -471,7 +489,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 237000,
       "name": "Chambre d'\u00e9cho",
       "url": "https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5"
@@ -753,7 +771,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 136973,
       "name": "DVTR",
       "url": "https://open.spotify.com/track/6kyU5s2JQj3kqjZ225Hwjv"
@@ -789,7 +807,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 226649,
       "name": "Ekuan Ek(u)",
       "url": "https://open.spotify.com/track/5XJgrFZ4cqbVCiJlMKVJ4t"
@@ -1578,6 +1596,24 @@
     },
     {
       "album": {
+        "name": "Mourir Demain",
+        "url": "https://open.spotify.com/album/2maYUGRhPI9z4D2gBsWgkw"
+      },
+      "artists": [
+        {
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207922,
+      "name": "Mourir Demain",
+      "url": "https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp"
+    },
+    {
+      "album": {
         "name": "Notre-Dame-des-Sept-Douleurs",
         "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
       },
@@ -1773,10 +1809,32 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 168853,
       "name": "Parfaite \u00e0 l'\u00e9cran",
       "url": "https://open.spotify.com/track/7mITLNL1Dg0SZXL4PHG4Y5"
+    },
+    {
+      "album": {
+        "name": "Pas tr\u00e8s perspicace",
+        "url": "https://open.spotify.com/album/1gw4tw7bxZnVxGlICTOsCi"
+      },
+      "artists": [
+        {
+          "name": "Xela Edna",
+          "url": "https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS"
+        },
+        {
+          "name": "Eius Echo",
+          "url": "https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154267,
+      "name": "Pas tr\u00e8s perspicace",
+      "url": "https://open.spotify.com/track/2KfzBQtWlCgDsMiHP4twzK"
     },
     {
       "album": {
@@ -1951,6 +2009,24 @@
       "duration_ms": 187813,
       "name": "Politesse",
       "url": "https://open.spotify.com/track/6REpTzDy5aTw1W5rEGWKWV"
+    },
+    {
+      "album": {
+        "name": "Pour ne pas mourir en hiver",
+        "url": "https://open.spotify.com/album/5JqyureBGsQjdZzvWqa8cm"
+      },
+      "artists": [
+        {
+          "name": "Olivier Faubert",
+          "url": "https://open.spotify.com/artist/7MtaiRiCaon9iTg2dfHC45"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357927,
+      "name": "Pour ne pas mourir en hiver",
+      "url": "https://open.spotify.com/track/1tSgGqtkvQ1hIem3GPF3gj"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 157513,
+  "2024-01-28": 157743,
   "date_first_scraped": "2022-12-10",
   "description": "Updated weekly | Hardstyle | Cover: Radical Redemption",
   "name": "Hardstyle Adrenaline! 2024",
@@ -1603,6 +1603,28 @@
       "duration_ms": 196576,
       "name": "Boom Boom Boom",
       "url": "https://open.spotify.com/track/1WbQ96o7shECYjvEsRhvUV"
+    },
+    {
+      "album": {
+        "name": "BORN TO BE A REBEL (feat. Last Word)",
+        "url": "https://open.spotify.com/album/3wggJZUcikdKhjbPx3WADY"
+      },
+      "artists": [
+        {
+          "name": "Thyron",
+          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
+        },
+        {
+          "name": "Last Word",
+          "url": "https://open.spotify.com/artist/4xhbLq3ngCmSNOIoqyS3AG"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188250,
+      "name": "BORN TO BE A REBEL",
+      "url": "https://open.spotify.com/track/7u6dDlR3OW1Z1lfkfw5zJR"
     },
     {
       "album": {
@@ -4013,6 +4035,14 @@
         {
           "name": "Darius & Finlay",
           "url": "https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
         },
         {
           "name": "Brennan Heart",
@@ -6437,7 +6467,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 184500,
       "name": "Innovate",
       "url": "https://open.spotify.com/track/1cDsGG8T7UO3hABFM3D0Co"

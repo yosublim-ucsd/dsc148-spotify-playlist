@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Grupo Supr3me
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,605 likes - 233 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,616 likes - 233 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,9 +109,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 99 | [Lada de Culiacan](https://open.spotify.com/track/11eGg38zvZS3flsVB4Vbxn) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM), [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [Apadrinado](https://open.spotify.com/album/7KvMBCC3HVeMeF0wL3oTEn) | 2:45 |
 | 100 | [Apadrinado](https://open.spotify.com/track/3KDXFR0c319qfXwaDN9ynh) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Apadrinado](https://open.spotify.com/album/7KvMBCC3HVeMeF0wL3oTEn) | 2:45 |
 | 101 | [No Me Cree](https://open.spotify.com/track/0qBywtCUGYAlKDdcALQkjx) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Apadrinado](https://open.spotify.com/album/7KvMBCC3HVeMeF0wL3oTEn) | 3:20 |
-| 102 | [Tuve Que Marcar](https://open.spotify.com/track/2Xo9PICBQWOS5DnemG2IN9) | [Conjunto Amanecer](https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33) | [Estado Melancólico](https://open.spotify.com/album/3yuOCmv69DsI71xCg9ZADq) | 2:21 |
-| 103 | [Mi Vida Sin Ti](https://open.spotify.com/track/7aDq8oxYo6nOdNrhmBTBXi) | [Conjunto Amanecer](https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33) | [Estado Melancólico](https://open.spotify.com/album/3yuOCmv69DsI71xCg9ZADq) | 3:42 |
-| 104 | [Sentencia De Olvido](https://open.spotify.com/track/0bXeQ3TkIMEsBl0vPzDpti) | [Conjunto Amanecer](https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33) | [Estado Melancólico](https://open.spotify.com/album/3yuOCmv69DsI71xCg9ZADq) | 3:07 |
+| 102 | [Tuve Que Marcar](https://open.spotify.com/track/2Xo9PICBQWOS5DnemG2IN9) | [Conjunto Amanecer](https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33) | [Estado: Melancólico](https://open.spotify.com/album/3yuOCmv69DsI71xCg9ZADq) | 2:21 |
+| 103 | [Mi Vida Sin Ti](https://open.spotify.com/track/7aDq8oxYo6nOdNrhmBTBXi) | [Conjunto Amanecer](https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33) | [Estado: Melancólico](https://open.spotify.com/album/3yuOCmv69DsI71xCg9ZADq) | 3:42 |
+| 104 | [Sentencia De Olvido](https://open.spotify.com/track/0bXeQ3TkIMEsBl0vPzDpti) | [Conjunto Amanecer](https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33) | [Estado: Melancólico](https://open.spotify.com/album/3yuOCmv69DsI71xCg9ZADq) | 3:07 |
 | 105 | [Tú Te Mereces](https://open.spotify.com/track/0jSCU4pckTESxGEzNu2Zz0) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Cápsulas](https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg) | 3:10 |
 | 106 | [Dulce](https://open.spotify.com/track/3TJIhl6GYJ0LtembWzTlJ1) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Cápsulas](https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg) | 2:55 |
 | 107 | [Y Hoy](https://open.spotify.com/track/3kj9NO8joEef3AnBcqriCs) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Cápsulas](https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg) | 3:19 |
@@ -242,4 +242,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 232 | [La Gripa Del Perico](https://open.spotify.com/track/4VTRF8XNXWoO2tAffbaSpi) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [Mas Me Rinde La Hielera](https://open.spotify.com/album/4AqWWqIvVnQYWRD5bmLl8R) | 3:02 |
 | 233 | [El Arbol De Mi Familia](https://open.spotify.com/track/5ABXU27kjthunVsP9gwfZp) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [Mas Me Rinde La Hielera](https://open.spotify.com/album/4AqWWqIvVnQYWRD5bmLl8R) | 3:06 |
 
-Snapshot ID: `MCwwOWE2NmY5M2U2NzU3M2NmZjY1NmFiYTc1MWQ2MzY2ZTUxNzI4NDU4`
+Snapshot ID: `MCw0OTMwZjMwMjcxYWZiOThhNGFiZDZiMjE1ZWE5NjY3ZjQwNWI3YzUw`

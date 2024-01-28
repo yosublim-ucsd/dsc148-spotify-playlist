@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 43212,
+  "2024-01-28": 43184,
   "date_first_scraped": "2024-01-11",
   "description": "Bogot\u00e1, Marzo 23, 24, 25 y 26. Foto: Billie Eillish",
   "name": "Festival Est\u00e9reo Picnic 2023",
@@ -449,10 +449,28 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 297507,
       "name": "Drinkee",
       "url": "https://open.spotify.com/track/0WE8YTl6GAVHnkfvMfci98"
+    },
+    {
+      "album": {
+        "name": "Drinkee",
+        "url": "https://open.spotify.com/album/5vho6dyBSwkXPoZg67x3Co"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299294,
+      "name": "Drinkee",
+      "url": "https://open.spotify.com/track/5TBsLU9TSxjDLzMpsEgJsv"
     },
     {
       "album": {

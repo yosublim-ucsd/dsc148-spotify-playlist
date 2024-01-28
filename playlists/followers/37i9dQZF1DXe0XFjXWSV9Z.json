@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 42084,
+  "2024-01-28": 42075,
   "date_first_scraped": "2023-08-09",
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
   "name": "TROPILOCO",
@@ -777,7 +777,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 257462,
       "name": "Echo en Mexico",
       "url": "https://open.spotify.com/track/01kpcBNsQMDjkmIBbSHCrk"
@@ -979,7 +979,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 204705,
       "name": "Guadalupe",
       "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
@@ -2044,6 +2044,24 @@
     },
     {
       "album": {
+        "name": "S\u00e1badito de Locura",
+        "url": "https://open.spotify.com/album/5BVZ6ILgDpcIRtrNKMHG3G"
+      },
+      "artists": [
+        {
+          "name": "CHIFLIDO",
+          "url": "https://open.spotify.com/artist/1j2ynZu5H24PDCnVsovPL1"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118881,
+      "name": "S\u00e1badito",
+      "url": "https://open.spotify.com/track/2OiIYDDSKP90B7LBbs9Fdr"
+    },
+    {
+      "album": {
         "name": "Corriente EP",
         "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
       },
@@ -2299,6 +2317,24 @@
       "duration_ms": 222214,
       "name": "Virgen de Guadalupe",
       "url": "https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T"
+    },
+    {
+      "album": {
+        "name": "Ya",
+        "url": "https://open.spotify.com/album/7nzAbKNMTxGFlGloo6sytM"
+      },
+      "artists": [
+        {
+          "name": "CHIFLIDO",
+          "url": "https://open.spotify.com/artist/1j2ynZu5H24PDCnVsovPL1"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140552,
+      "name": "Ya",
+      "url": "https://open.spotify.com/track/7F3girVxqXUFc75BEVrLq5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: MF DOOM
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,290 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,445 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 5 | [Formal Invite](https://open.spotify.com/track/6JAVPIgZPynxA3xKtd8WW0) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Penalty of Leadership](https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL) | 3:05 |
 | 6 | [Passports & Suitcases \(feat\. KayCyy\)](https://open.spotify.com/track/0A0ZpEwDk5iNNfxUSYeJCt) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Passports & Suitcases \(feat\. KayCyy\)](https://open.spotify.com/album/51CsULE4CnOMvX0Vkiau0s) | 2:49 |
 | 7 | [Instincts](https://open.spotify.com/track/7bA0Di2pbdscrttwpwrTjp) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Instincts](https://open.spotify.com/album/2lQfIDJwaRfrr5Hdty8Yv5) | 3:56 |
-| 8 | [Waffle House](https://open.spotify.com/track/7wRkk2WREAGMBdEpMorsda) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A) | [Waffle House](https://open.spotify.com/album/6sytxaodVoEenPlPsZbaBz) | 2:10 |
+| 8 | [Waffle House](https://open.spotify.com/track/7wRkk2WREAGMBdEpMorsda) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A), [LNDN DRGS](https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW) | [Waffle House](https://open.spotify.com/album/6sytxaodVoEenPlPsZbaBz) | 2:10 |
 | 9 | [Backfade](https://open.spotify.com/track/2YhAHYPw2b064A4Bd4Lu7x) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll) | [Paisley Dreams](https://open.spotify.com/album/5U8WARPHV0d1VlCBVD50zS) | 2:28 |
 | 10 | [Back Again \(with Snoop Dogg\)](https://open.spotify.com/track/5Xeoc9cN5lq76CTzOybJuU) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Everybody Can't Go](https://open.spotify.com/album/13IanJ8zx7YcCJ5yIvArIq) | 3:20 |
 | 11 | [Twinz \(feat\. Fat Joe\)](https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Capital Punishment](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [Watch Out Now](https://open.spotify.com/track/6sWZn6kTuTrBkbOEQFoB3a) | [The Beatnuts](https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX) | [A Musical Massacre](https://open.spotify.com/album/1eLbbQa8xpbZdp4DtjMB66) | 2:54 |
 | 100 | [E\-Z on the Motion](https://open.spotify.com/track/7v0NXl6RTU9XMhHrUp0gQJ) | [Ghetto Concept](https://open.spotify.com/artist/7dQsyUecbPiqTSDbVWJDaU) | [E\-Z on the Motion / Hard Copy](https://open.spotify.com/album/4FP694zjOnV4aPP6c8wn5a) | 3:58 |
 
-Snapshot ID: `MCxmODIwM2JiMjlkNGNkODY2ZGEzMmRkZGZmMjYzMjljYzhiNDgzZDRm`
+Snapshot ID: `MCxmMTcxMjM3ZmY4YzU0N2NjMmE4MjFlMDQxYmI4ODljMWI1YmQ5ODUz`

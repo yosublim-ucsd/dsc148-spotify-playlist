@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 673098,
+  "2024-01-28": 673058,
   "date_first_scraped": "2022-01-02",
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno  & Migrantes.",
   "name": "100% Cuarteto",
@@ -155,6 +155,28 @@
       "duration_ms": 237242,
       "name": "Adi\u00f3s, Me Voy",
       "url": "https://open.spotify.com/track/7iPwAA5D5zfVVk8wZQ5gh9"
+    },
+    {
+      "album": {
+        "name": "Agua Sucia",
+        "url": "https://open.spotify.com/album/2h8fdFG0TAOJLm8S4MXTYL"
+      },
+      "artists": [
+        {
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        },
+        {
+          "name": "La Groza",
+          "url": "https://open.spotify.com/artist/54yxNOqC1kt6hM34wpNKtL"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241661,
+      "name": "Agua Sucia",
+      "url": "https://open.spotify.com/track/1R3i3CSZ1daF3X3bDhai0T"
     },
     {
       "album": {
@@ -835,7 +857,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 232269,
       "name": "Chachach\u00e1",
       "url": "https://open.spotify.com/track/5eO1kn8BVM6YFiXdMHDxsE"
@@ -1286,6 +1308,28 @@
     },
     {
       "album": {
+        "name": "Cuidado Que Te Supero",
+        "url": "https://open.spotify.com/album/0qNhZHGPeTOdyvsSC1vcsd"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168980,
+      "name": "Cuidado Que Te Supero",
+      "url": "https://open.spotify.com/track/5nRkIy23DFOjph1R6YkFG8"
+    },
+    {
+      "album": {
         "name": "Al M\u00e1ximo Late",
         "url": "https://open.spotify.com/album/5BoaBnzIipQvH6vHYQPlii"
       },
@@ -1409,6 +1453,24 @@
       "duration_ms": 190533,
       "name": "De Enero a Enero",
       "url": "https://open.spotify.com/track/1UQw9rjhed1P8vNxNWJ0tR"
+    },
+    {
+      "album": {
+        "name": "De Lunes a Lunes",
+        "url": "https://open.spotify.com/album/0FIzBrVItz4cfYyZJCyG3K"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157075,
+      "name": "De Lunes a Lunes",
+      "url": "https://open.spotify.com/track/0kMc9zrrUV6OjKl5AgPESe"
     },
     {
       "album": {
@@ -3612,6 +3674,24 @@
     },
     {
       "album": {
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/6rkPptd6g4pkybGp2EmvPD"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170971,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/0ZfYeeKsHwWg40zyilnKPd"
+    },
+    {
+      "album": {
         "name": "Mega Cuarteto Romantico Vol 1",
         "url": "https://open.spotify.com/album/793w83fc1NO7QznNOUKNIE"
       },
@@ -5065,7 +5145,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 204392,
       "name": "Por Primera Vez",
       "url": "https://open.spotify.com/track/35YkHpp1eIB5kb19QINsTV"
@@ -6421,7 +6501,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 245526,
       "name": "Te Portaste Mal",
       "url": "https://open.spotify.com/track/0NHB6lS9i7nQbNmSbMbH4X"
@@ -7209,7 +7289,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 319280,
       "name": "Vuela (En Vivo)",
       "url": "https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna"

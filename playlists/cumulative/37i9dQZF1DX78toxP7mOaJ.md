@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: The Thing
 
-1,274 songs - 2 day 21 hr 40 min
+1,275 songs - 2 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -918,7 +918,8 @@
 | [Red, White, & Blue](https://open.spotify.com/track/1NaDFmwOaAYDDDNCKIInWo) | [Proper.](https://open.spotify.com/artist/07fRiLziB7HEpoJippeKdK) | [The Great American Novel](https://open.spotify.com/album/4Qq6XHRgVkgAltYNGpUyAL) | 2:42 | 2022-07-20 | 2022-07-29 |
 | [Red, White, & Blue](https://open.spotify.com/track/3uQGhH7WjwJ9CEmPNhJJOp) | [Proper.](https://open.spotify.com/artist/07fRiLziB7HEpoJippeKdK) | [The Great American Novel](https://open.spotify.com/album/1sU0VVU5cs5E83FMy6ZfGa) | 2:42 | 2022-07-27 | 2022-08-25 |
 | [Red/White](https://open.spotify.com/track/0QeHpEja4lZWWkIt7amenL) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Red/White](https://open.spotify.com/album/3G9mMEK9EdPEEW1xJcpH0S) | 2:21 | 2024-01-24 |  |
-| [REDEMPTION ARC](https://open.spotify.com/track/69uGaFUvNf55i7DbRzpQSU) | [instant crush](https://open.spotify.com/artist/6CzsxPxOIeXoyhmNiFmtmu) | [REDEMPTION ARC](https://open.spotify.com/album/7uge8Yp8wNJ3CB6P4UYkyl) | 3:12 | 2023-10-18 |  |
+| [REDEMPTION ARC](https://open.spotify.com/track/69uGaFUvNf55i7DbRzpQSU) | [instant crush](https://open.spotify.com/artist/6CzsxPxOIeXoyhmNiFmtmu) | [REDEMPTION ARC](https://open.spotify.com/album/7uge8Yp8wNJ3CB6P4UYkyl) | 3:12 | 2023-10-18 | 2024-01-28 |
+| [REDEMPTION ARC](https://open.spotify.com/track/6JRqhGQtFgO9mJgisIUreE) | [instant crush](https://open.spotify.com/artist/6CzsxPxOIeXoyhmNiFmtmu) | [REDEMPTION ARC](https://open.spotify.com/album/2bWOtzB4HJXlXPbSc8R2xn) | 3:12 | 2024-01-24 |  |
 | [Renter Not a Buyer](https://open.spotify.com/track/1fV5gBweokEACTyxExRvlT) | [Dead Gowns](https://open.spotify.com/artist/7jadGvdBDPrM4fNOukfDny) | [Renter Not a Buyer](https://open.spotify.com/album/79M5sec1af89QsnG2P0HX2) | 2:53 | 2022-09-28 | 2022-12-01 |
 | [Restless](https://open.spotify.com/track/1QMH8fWSJiEnLQhNegTjxK) | [Late November](https://open.spotify.com/artist/5AgraKGOClXr2594sW7Am1) | [Restless](https://open.spotify.com/album/7Hxsh2UCcFuLIsBkKS6ty1) | 4:26 | 2023-07-12 | 2023-10-19 |
 | [Revenge Dress](https://open.spotify.com/track/7w3lHpePhApQkuTcFceZHb) | [Family Dinner](https://open.spotify.com/artist/7ztPkxDDDYp27ssoOB9sEj) | [Revenge Dress](https://open.spotify.com/album/4RlIYgXS8Jlr801Ry10QHR) | 2:46 | 2023-04-26 | 2023-06-15 |

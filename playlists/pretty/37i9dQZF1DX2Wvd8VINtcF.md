@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster\. Cover: Justice
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,209 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,246 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 99 | [San Pedro](https://open.spotify.com/track/524WvaZzJFA2TqnJR3sQ1d) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Prince](https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A) | 3:28 |
 | 100 | [lady \(feat\. chlothegod\)](https://open.spotify.com/track/6qtJs5w3x7z0Z41im1TCT6) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua), [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Take What You Need](https://open.spotify.com/album/3nR9KOMEB7VhY8PlyiK11d) | 2:32 |
 
-Snapshot ID: `MCw2ZjhlMWEwYjZhNTM3NTBjMTM3MDRiNzE5NjE4NDU0OWExMDIyM2Jm`
+Snapshot ID: `MCwyYTY2NTk0YmMzYWI3MjgxYzE1ZjkxMjM3NDNjOTcxNDM3NGY0MGZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Niky Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,794 likes - 51 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,626 likes - 51 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 50 | [CATENE](https://open.spotify.com/track/5fMgrtXaDlFYwlp0GXZOIM) | [Red Roses](https://open.spotify.com/artist/3dA6K34y5FCgngffHJTjpY) | [CATENE](https://open.spotify.com/album/7zQzotpUtavfLrrBVQsoRZ) | 2:24 |
 | 51 | [Bicrave](https://open.spotify.com/track/57NOAYZEQVxUcQvAYL6pwd) | [Kalash247](https://open.spotify.com/artist/0uWqSeCUMHjnUwa3Ia3ZcL) | [Bicrave](https://open.spotify.com/album/7rYb6F4EJMOyF64Aqve4Aa) | 2:59 |
 
-Snapshot ID: `MCw1MWI5OTA3ZDczMjJmZjYyMDdmZjk2Mjk4NTY2ZjY0YTkzYmM0MWU3`
+Snapshot ID: `MCxjZjk2M2ZiYzM2NzIxNzRlMzY4MDYxZDI5NGM4YWJlOGY3ZGFmNzli`

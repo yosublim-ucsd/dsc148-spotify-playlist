@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 7895,
+  "2024-01-28": 7925,
   "date_first_scraped": "2022-04-19",
   "description": "Gather 'round and enjoy these far out songs about outer space.",
   "name": "Space Out",
@@ -1509,6 +1509,32 @@
       "duration_ms": 318026,
       "name": "Space Oddity - 2015 Remaster",
       "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
+    },
+    {
+      "album": {
+        "name": "Space Shuttle",
+        "url": "https://open.spotify.com/album/70LcL2PWtfJyJGT2EbzOGX"
+      },
+      "artists": [
+        {
+          "name": "Tiny Totz Kidz",
+          "url": "https://open.spotify.com/artist/54vwxOSuLxx758lpaUjTst"
+        },
+        {
+          "name": "Tobie",
+          "url": "https://open.spotify.com/artist/4v7MbkhfDQZYPXBDBSKkhw"
+        },
+        {
+          "name": "Kate Steinway",
+          "url": "https://open.spotify.com/artist/0K2OWWGyo4fnLJnVY41M6l"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195483,
+      "name": "Space Shuttle",
+      "url": "https://open.spotify.com/track/7lMeJ4p2j2kGucx6Qzen0q"
     },
     {
       "album": {

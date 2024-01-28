@@ -4302,7 +4302,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 275179,
       "name": "La Escuela",
       "url": "https://open.spotify.com/track/1yNR6HRqPOABW8eusg0qAO"
@@ -4694,7 +4694,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "LA VIDA ES TAN DURA",
       "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
@@ -7516,6 +7516,28 @@
       "duration_ms": 207804,
       "name": "Plomo en el Aire",
       "url": "https://open.spotify.com/track/1mMeJH8C1LifR1QTPFdAN0"
+    },
+    {
+      "album": {
+        "name": "Pompeya",
+        "url": "https://open.spotify.com/album/7D7NyH1XEyKusqeTYcs5C6"
+      },
+      "artists": [
+        {
+          "name": "Noderz",
+          "url": "https://open.spotify.com/artist/373VpZBWiilF1uvIJEpgmb"
+        },
+        {
+          "name": "Rp One",
+          "url": "https://open.spotify.com/artist/6sKBoxw5Ho23osGLIu32Yh"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176950,
+      "name": "Pompeya",
+      "url": "https://open.spotify.com/track/0AMkcfzuHHflJLHGQCQDmt"
     },
     {
       "album": {

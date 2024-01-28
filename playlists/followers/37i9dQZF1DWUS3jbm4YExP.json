@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 695472,
+  "2024-01-28": 695719,
   "date_first_scraped": "2021-12-28",
   "description": "Groovy sounds from around the world.",
   "name": "Global Groove",
@@ -7134,6 +7134,28 @@
     },
     {
       "album": {
+        "name": "Mami Chota",
+        "url": "https://open.spotify.com/album/2aVbO5vigwRXW0oJZycri4"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233939,
+      "name": "Mami Chota",
+      "url": "https://open.spotify.com/track/7gHO9902nXNaoU48h8twI3"
+    },
+    {
+      "album": {
         "name": "Mamita Santa",
         "url": "https://open.spotify.com/album/619zP71cN2JNAFGGyCgkzg"
       },
@@ -11977,7 +11999,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 202104,
       "name": "Verde",
       "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
@@ -12273,7 +12295,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 216362,
       "name": "World Like Mine (Bor Min Bor Mee)",
       "url": "https://open.spotify.com/track/0DCKZft93OXE6ptW28QtE4"
@@ -12313,6 +12335,24 @@
       "duration_ms": 265101,
       "name": "Xiu",
       "url": "https://open.spotify.com/track/1kFiQRJFAaRZntgGZ2cfHN"
+    },
+    {
+      "album": {
+        "name": "Ya",
+        "url": "https://open.spotify.com/album/7nzAbKNMTxGFlGloo6sytM"
+      },
+      "artists": [
+        {
+          "name": "CHIFLIDO",
+          "url": "https://open.spotify.com/artist/1j2ynZu5H24PDCnVsovPL1"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140552,
+      "name": "Ya",
+      "url": "https://open.spotify.com/track/7F3girVxqXUFc75BEVrLq5"
     },
     {
       "album": {

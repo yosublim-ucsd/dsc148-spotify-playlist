@@ -1,9 +1,27 @@
 {
-  "2024-01-27": 3029730,
+  "2024-01-28": 3028283,
   "date_first_scraped": "2021-12-21",
   "description": "This is the essential Justin Bieber. ",
   "name": "This Is Justin Bieber",
   "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4rTQs1s1M2ToGA6DYodYLJ"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/4IzOQ3t9Rqk74MpnCF7sV1"
+    },
     {
       "album": {
         "name": "#willpower (Deluxe)",
@@ -469,7 +487,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 185360,
       "name": "Cold Water",
       "url": "https://open.spotify.com/track/7zsXy7vlHdItvUSH8EwQss"
@@ -1385,7 +1403,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 233720,
       "name": "Love Yourself",
       "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
@@ -1403,7 +1421,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 233746,
       "name": "Love Yourself",
       "url": "https://open.spotify.com/track/6TOivZsskTt2JQr1inIBCM"

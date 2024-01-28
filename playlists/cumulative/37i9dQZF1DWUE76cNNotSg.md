@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-422 songs - 1 day 3 hr 15 min
+423 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [hyperspeed](https://open.spotify.com/track/3km6muXi6ToiRirTJLkgzr) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [hyperspeed](https://open.spotify.com/album/55fj2jwBrgsuw4JmT5jusG) | 3:18 | 2022-07-08 | 2022-07-29 |
 | [Hémisphère](https://open.spotify.com/track/2xIUT6emYrLwuQLhLBf7PH) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Hémisphère / Je m'ennuie](https://open.spotify.com/album/500EIkxZ1MFSKHESVxWR0k) | 7:13 | 2020-12-22 | 2022-04-18 |
 | [Hémisphère](https://open.spotify.com/track/7fDvGoJhLSeJPF4cVlEsVs) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Hémisphère / Je m'ennuie](https://open.spotify.com/album/59ZzI9aLiY0H5b4etn8uu0) | 7:13 | 2020-12-22 | 2023-11-11 |
-| [I Can Change](https://open.spotify.com/track/4yhslVvynysGhexambPGcy) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [I Can Change](https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT) | 5:31 | 2020-12-22 |  |
+| [I Can Change](https://open.spotify.com/track/4yhslVvynysGhexambPGcy) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [I Can Change](https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT) | 5:31 | 2020-12-22 | 2024-01-28 |
 | [I Can't Help But Feel](https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [I Can't Help But Feel](https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr) | 2:58 | 2022-05-13 | 2023-10-25 |
 | [I Can't Help But Feel](https://open.spotify.com/track/4zgGNKt9YQGUQHRu9FgZPM) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Hidden Youth](https://open.spotify.com/album/0p6lFaFEpTcukkXu793jXB) | 2:58 | 2023-10-27 |  |
 | [I Do \- Vandelux Remix](https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [I Do \(Vandelux Remix\)](https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif) | 3:16 | 2022-07-29 |  |
@@ -314,6 +314,7 @@
 | [Run Away](https://open.spotify.com/track/4Ef1QKChVVBQLt0wmTycUS) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Run Away](https://open.spotify.com/album/0TUxwnkbBEjBhriA5aTOL8) | 3:39 | 2020-12-22 | 2022-07-29 |
 | [Run, Run](https://open.spotify.com/track/7a0suLGVvHVHigyksiMt28) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV) | [Run, Run](https://open.spotify.com/album/3aWroQh3J8YFe7YazP4dTT) | 4:59 | 2023-06-09 | 2023-07-14 |
 | [s a l u d o s](https://open.spotify.com/track/1gEBRuOemkKubufvFmF0pE) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 3:17 | 2020-12-22 | 2022-04-08 |
+| [Sadie](https://open.spotify.com/track/5yioG7z2EDTHR5aBN1WS7K) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Lola](https://open.spotify.com/album/2nkuEWWUZLf4tLMZrns03r) | 3:43 | 2024-01-26 |  |
 | [Santé](https://open.spotify.com/track/6jow31AYUbHoTW6OlX0mP1) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Santé](https://open.spotify.com/album/0BmPe2VtJIG1Zv7p5IQSAN) | 1:38 | 2020-12-22 | 2022-04-18 |
 | [See You Again](https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:22 | 2021-03-19 | 2023-02-07 |
 | [See You Again](https://open.spotify.com/track/26gAJmT5PipdLamyFMy7c8) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/6oRdKgJrTM7mNHNhCZZYs6) | 4:22 | 2021-03-19 | 2022-07-29 |

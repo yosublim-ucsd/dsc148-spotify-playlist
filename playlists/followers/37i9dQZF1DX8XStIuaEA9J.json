@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 172054,
+  "2024-01-28": 172054,
   "date_first_scraped": "2023-11-25",
   "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: RADWIMPS",
   "name": "Teen Culture",
@@ -1739,7 +1739,7 @@
     {
       "album": {
         "name": "Toryanse",
-        "url": "https://open.spotify.com/album/2RjltuGxIPfb5a8djkUF57"
+        "url": "https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI"
       },
       "artists": [
         {
@@ -1750,6 +1750,24 @@
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 156556,
+      "name": "Toryanse",
+      "url": "https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r"
+    },
+    {
+      "album": {
+        "name": "Toryanse",
+        "url": "https://open.spotify.com/album/2RjltuGxIPfb5a8djkUF57"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-27",
       "duration_ms": 156556,
       "name": "Toryanse",
       "url": "https://open.spotify.com/track/7lxfgkxV4IGz7lc6TmFPqx"

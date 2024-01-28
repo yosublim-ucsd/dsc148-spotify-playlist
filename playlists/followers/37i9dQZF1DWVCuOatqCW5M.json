@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 48560,
+  "2024-01-28": 48610,
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- Faridkot",
+  "description": "New music from popular Hindi artists. Cover- Lisa Mishra",
   "name": "New Music Friday Hindi ",
   "tracks": [
     {
@@ -109,6 +109,28 @@
       "duration_ms": 147562,
       "name": "Aa Mil",
       "url": "https://open.spotify.com/track/67LdLmIj2GVrGf4ZUuLaE1"
+    },
+    {
+      "album": {
+        "name": "Aadat",
+        "url": "https://open.spotify.com/album/2QGgqhrl1kWtxhkqYN0BaJ"
+      },
+      "artists": [
+        {
+          "name": "Lisa Mishra",
+          "url": "https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs"
+        },
+        {
+          "name": "bebhumika",
+          "url": "https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "Aadat",
+      "url": "https://open.spotify.com/track/5tqjJD5fD85iNMFxuLTaoN"
     },
     {
       "album": {
@@ -877,7 +899,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 257181,
       "name": "Afra Tafri",
       "url": "https://open.spotify.com/track/6UehxEB7DqnuIGkvdYFDvj"
@@ -2635,7 +2657,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 176460,
       "name": "Boondein",
       "url": "https://open.spotify.com/track/1jIMPiNPFrlgZ9M8Kw6zKT"
@@ -4378,6 +4400,24 @@
     },
     {
       "album": {
+        "name": "Dilbara",
+        "url": "https://open.spotify.com/album/1YBqMBanqDm52yjHTNjviM"
+      },
+      "artists": [
+        {
+          "name": "Soham Naik",
+          "url": "https://open.spotify.com/artist/6EpZnABzSqvQlgHPhT1QDM"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Dilbara",
+      "url": "https://open.spotify.com/track/7Eoa10BX1oXOwn3EbJ3B4l"
+    },
+    {
+      "album": {
         "name": "Dilon Ki Doriyan (From \"Bawaal\")",
         "url": "https://open.spotify.com/album/0weAJmsM6oa2aJAv2TBsPc"
       },
@@ -4427,6 +4467,28 @@
       "duration_ms": 206000,
       "name": "Din Dhal Jaayenge",
       "url": "https://open.spotify.com/track/3UggeBH24GT4FQFYNt7b0U"
+    },
+    {
+      "album": {
+        "name": "Do Chaar Dil",
+        "url": "https://open.spotify.com/album/4OCwmnzCcEncwnU0Yy0QlY"
+      },
+      "artists": [
+        {
+          "name": "Meet Bros.",
+          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
+        },
+        {
+          "name": "Tabish Ali",
+          "url": "https://open.spotify.com/artist/36uVpSR1V6J4hf53SXQEga"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243955,
+      "name": "Do Chaar Dil",
+      "url": "https://open.spotify.com/track/00u2Kx1SqOJjRM35hpkmiz"
     },
     {
       "album": {
@@ -6439,7 +6501,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 183882,
       "name": "In Raahon Mein (From \"The Archies\")",
       "url": "https://open.spotify.com/track/25qNCxhu9VzFgcCPawszwh"
@@ -7971,6 +8033,40 @@
     {
       "album": {
         "name": "Kahaani",
+        "url": "https://open.spotify.com/album/02Lln3GfBCBCLYzrh70AC9"
+      },
+      "artists": [
+        {
+          "name": "Rishi Kumar",
+          "url": "https://open.spotify.com/artist/3F5SVEzUMD5JVZ0K9Q4XZW"
+        },
+        {
+          "name": "Rukhsar Bandhukia",
+          "url": "https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC"
+        },
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        },
+        {
+          "name": "Devanand SP",
+          "url": "https://open.spotify.com/artist/327Z73qd8QR6HVb4ixL7ho"
+        },
+        {
+          "name": "Anshul Mathur",
+          "url": "https://open.spotify.com/artist/6DU9rNtAevlHMYBNnkI2LX"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175862,
+      "name": "Kahaani",
+      "url": "https://open.spotify.com/track/0Py5cnBCUATYiCYUyBXdZu"
+    },
+    {
+      "album": {
+        "name": "Kahaani",
         "url": "https://open.spotify.com/album/5DShAPJRVmP2Z0cmcjm1wW"
       },
       "artists": [
@@ -8347,7 +8443,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 260709,
       "name": "Karmawali",
       "url": "https://open.spotify.com/track/6mfdRFpZTTOGwzRCHQlnDW"
@@ -9225,7 +9321,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 323987,
       "name": "Khwabon Mein Mujhko",
       "url": "https://open.spotify.com/track/4sbyQ7LDUxUI32Vez9cTPr"
@@ -12492,6 +12588,28 @@
     },
     {
       "album": {
+        "name": "O Mahi Mere",
+        "url": "https://open.spotify.com/album/3JUyuv3HEQDlGQODyvbPba"
+      },
+      "artists": [
+        {
+          "name": "Priyanshi Srivastava",
+          "url": "https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo"
+        },
+        {
+          "name": "Manas Arora",
+          "url": "https://open.spotify.com/artist/7vjxEFsji0bej7TfiDmS1h"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237362,
+      "name": "O Mahi Mere",
+      "url": "https://open.spotify.com/track/67Zlsv6nMfTmdxvM0wqfoX"
+    },
+    {
+      "album": {
         "name": "O Sanam",
         "url": "https://open.spotify.com/album/7mKLdhcfnDbk8D0G2RfECd"
       },
@@ -15387,7 +15505,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 144923,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/1GMFeGQBppaepcx6NsR7qB"
@@ -15597,6 +15715,28 @@
       "duration_ms": 175161,
       "name": "Tanhai",
       "url": "https://open.spotify.com/track/62LeQ9CgHd4ajbh78V4Doe"
+    },
+    {
+      "album": {
+        "name": "Tanhaiyaan Hai",
+        "url": "https://open.spotify.com/album/51M07pzV2GxNZlADt6xRsq"
+      },
+      "artists": [
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Harish Sagane",
+          "url": "https://open.spotify.com/artist/5v3LPrihYPF2Uu9jDEKnjx"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261177,
+      "name": "Tanhaiyaan Hai",
+      "url": "https://open.spotify.com/track/06MQVuwooHOQbi5mpf90YA"
     },
     {
       "album": {
@@ -16320,6 +16460,32 @@
     },
     {
       "album": {
+        "name": "Teri Meri Mohabbat",
+        "url": "https://open.spotify.com/album/2Zb2t0x3gXugn0dWDuWWUn"
+      },
+      "artists": [
+        {
+          "name": "Yasser Desai",
+          "url": "https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM"
+        },
+        {
+          "name": "Annkur R Pathakk",
+          "url": "https://open.spotify.com/artist/52qnwlT8n9v57lj1Q1cK3J"
+        },
+        {
+          "name": "Sachin Urmtosh",
+          "url": "https://open.spotify.com/artist/1mU6MSjhzEgsJBjEIWbUy3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202480,
+      "name": "Teri Meri Mohabbat",
+      "url": "https://open.spotify.com/track/3Z21mDrMhCIvklKH50xuPP"
+    },
+    {
+      "album": {
         "name": "Teri Mohabbat",
         "url": "https://open.spotify.com/album/3PeeueMTGj7xHFFLnwuzl1"
       },
@@ -16463,6 +16629,28 @@
       "duration_ms": 162461,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/5F41lXOja3WJvPzUNFp0hf"
+    },
+    {
+      "album": {
+        "name": "Theher Ja",
+        "url": "https://open.spotify.com/album/6gPoLMGCiStfFzwkFRnz45"
+      },
+      "artists": [
+        {
+          "name": "Keshav Anand",
+          "url": "https://open.spotify.com/artist/7LkdtgIhOIz0JRoigs3O3K"
+        },
+        {
+          "name": "Tarun Sharma",
+          "url": "https://open.spotify.com/artist/4OSzS0R8qeHLnmnOJpOLl0"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214951,
+      "name": "Theher Ja",
+      "url": "https://open.spotify.com/track/4J775JvJzstEczmg2yQM6M"
     },
     {
       "album": {
@@ -17257,7 +17445,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 223354,
       "name": "Tu Zaroori",
       "url": "https://open.spotify.com/track/6SH88hqJ37g4UHXzKaKaMs"
@@ -17323,7 +17511,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 294146,
       "name": "Tujhe Yaad Na Meri Ayee - 2",
       "url": "https://open.spotify.com/track/4rE9qwUZ0eVQn6ajzRYdcx"

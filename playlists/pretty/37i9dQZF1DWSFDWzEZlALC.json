@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: ENNIO",
-  "num_followers": 413327,
+  "num_followers": 413351,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWEwMGE3MmJmYzBiYmQwYjQxODIwZTQwNzlhZDQwZTkxYTcxOWFi",
+  "snapshot_id": "MCwzZGJhOWRlMTY2ODNiOTNkYjk0MTVkODA4M2QyYzkxNWU3MmQ5NGU3",
   "tracks": [
     {
       "added_at": "2024-01-26 08:28:10",
@@ -278,6 +278,10 @@
         {
           "name": "Maeckes",
           "url": "https://open.spotify.com/artist/5nVbdvU60t7C0JBruxsS26"
+        },
+        {
+          "name": "Bayuk",
+          "url": "https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw"
         }
       ],
       "duration_ms": 131992,

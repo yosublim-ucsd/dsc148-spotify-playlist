@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=7rQMXJ0eSw2EU8Wr5nSsXw"> Nyashinski</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,609 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,618 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 59 | [TIME ITATELL](https://open.spotify.com/track/2mXWteorFyNu2D94ae38nL) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [TIME ITATELL](https://open.spotify.com/album/1MuTtWsvJBRpfZ92rpzwOr) | 2:48 |
 | 60 | [Made For This](https://open.spotify.com/track/5Gr47d1ThvLMeJR8ueVd2W) | [Jovie Jovv](https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ), [Timmy Blanco](https://open.spotify.com/artist/64r1hRUVXSdoMT30u3pUbS) | [Made For This](https://open.spotify.com/album/77xVkwwWp6O3xX0lpWprzH) | 1:10 |
 
-Snapshot ID: `MCwyNDNiNjg4OGM3ZWZlZTU0YjczY2ZlOTIyNTlhYmJiNjcyYjMzY2M5`
+Snapshot ID: `MCxiOGZlN2MxMzU4MTE3MWFhYzA0ZWRjNjA1OGZlMmFhMzJlNDc2YzQ2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Adriaan Persons
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,137 likes - 85 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,113 likes - 85 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 4 | [Maar Niet Met Jou Erbij](https://open.spotify.com/track/1mYqzZR5sfv0zZhgtyUsna) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Maar Niet Met Jou Erbij](https://open.spotify.com/album/6KGMZMTMQvbFgaqZJDu1ey) | 3:01 |
 | 5 | [Alles Op Gevoel](https://open.spotify.com/track/2hCc09htDSAQobdmbYWryY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Alles Op Gevoel](https://open.spotify.com/album/0NSk5echypu0j5gJ8x2MNp) | 2:49 |
 | 6 | [Écoutez\-moi](https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Écoutez\-moi](https://open.spotify.com/album/4YVHGXWYubmt3tysDIdD8W) | 2:39 |
-| 7 | [Stille Pijn](https://open.spotify.com/track/3giaPcqlpiX6SG6lwRRj55) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Stille Pijn](https://open.spotify.com/album/39Cg6qp3pv6FW7SKpF2bFm) | 3:23 |
+| 7 | [Stille Pijn \(Stip it!\)](https://open.spotify.com/track/3giaPcqlpiX6SG6lwRRj55) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Stille Pijn \(Stip it!\)](https://open.spotify.com/album/39Cg6qp3pv6FW7SKpF2bFm) | 3:23 |
 | 8 | [Haat Me](https://open.spotify.com/track/50ELw2DvK4J2Z02m0Vphed) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Haat Me](https://open.spotify.com/album/6267wKbOwViwFSSz1PwuJv) | 3:35 |
 | 9 | [We Hebben De Tijd](https://open.spotify.com/track/6YbyOC4jqn7P9bsIJWdVSq) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 2:32 |
 | 10 | [Harmonie](https://open.spotify.com/track/1RGseAlntVH6yD65xKi509) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Harmonie](https://open.spotify.com/album/7ekoyoS7XjHdic9gqDGlxm) | 2:59 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 84 | [De Tijd Gaat Mooie Dingen Doen](https://open.spotify.com/track/3uMtq20Rh0Bb2rodXPNhzQ) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [De Tijd Gaat Mooie Dingen Doen](https://open.spotify.com/album/4qwPLM18gSBRtb9twSnOGU) | 3:31 |
 | 85 | [Tussendoor](https://open.spotify.com/track/5ejOlSH4f8M5Tqrisvjpsz) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Tussendoor](https://open.spotify.com/album/1uiD722Lty54S0hMv6DAXS) | 3:05 |
 
-Snapshot ID: `MCxkODJkNjg4NGU5OTA4N2RlOTQ4OTAxODUzMWI5NDJjY2U1MTZiNjc0`
+Snapshot ID: `MCw2NDJjYjI0NGIwMjNlN2JlZDllN2QwZjU2MGZiNWRjYzllYzllYjNm`

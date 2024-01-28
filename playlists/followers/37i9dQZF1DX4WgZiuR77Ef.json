@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 394441,
+  "2024-01-28": 394205,
   "date_first_scraped": "2021-12-21",
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
   "name": "All Funked Up",
@@ -1001,7 +1001,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 283600,
       "name": "Discopia - Dubversive Mix",
       "url": "https://open.spotify.com/track/08OOFk8JEDPN3t3oiURiPJ"
@@ -1647,6 +1647,52 @@
       "duration_ms": 241441,
       "name": "He Said / She Said",
       "url": "https://open.spotify.com/track/6ZccMg8F7cWeBAV8Z3Mkc7"
+    },
+    {
+      "album": {
+        "name": "Headache (Frostyboy Mix feat. Fletcher Fathoms and Bill Burns)",
+        "url": "https://open.spotify.com/album/6Oa7qyVR0mlgVtRMzK3kbz"
+      },
+      "artists": [
+        {
+          "name": "Smudge All Stars",
+          "url": "https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU"
+        },
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        },
+        {
+          "name": "Frostyboy",
+          "url": "https://open.spotify.com/artist/3czXEccrgo19wfppvwkhzR"
+        },
+        {
+          "name": "Niara Scarlett",
+          "url": "https://open.spotify.com/artist/5C6vNbPezhechk5GRAo8G3"
+        },
+        {
+          "name": "Dark Globe",
+          "url": "https://open.spotify.com/artist/2oxZ0xso90v1rS2PAb2qpF"
+        },
+        {
+          "name": "Kevan Frost",
+          "url": "https://open.spotify.com/artist/72hK41OzrUSMmFoKOTfCtd"
+        },
+        {
+          "name": "Fletcher Fathoms",
+          "url": "https://open.spotify.com/artist/3dHrg3OGB4pAeXwCQRVFjF"
+        },
+        {
+          "name": "Bill Burns",
+          "url": "https://open.spotify.com/artist/2x7lI5JiBpBQi4N41fgdt2"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447421,
+      "name": "Headache (Frostyboy Mix feat. Fletcher Fathoms and Bill Burns)",
+      "url": "https://open.spotify.com/track/1DK8xnWXO9J6stuWHNv6iZ"
     },
     {
       "album": {
@@ -3872,7 +3918,7 @@
     },
     {
       "album": {
-        "name": "Up Is Just A Place (Xtended Mix Feat. Fred Wesley)",
+        "name": "Up Is Just A Place (Xtended Mix feat. Fred Wesley)",
         "url": "https://open.spotify.com/album/0e8IootF0vFHJzuOszLEot"
       },
       "artists": [
@@ -3913,7 +3959,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 305454,
-      "name": "Up Is Just A Place (Xtended Mix Feat. Fred Wesley)",
+      "name": "Up Is Just A Place (Xtended Mix feat. Fred Wesley)",
       "url": "https://open.spotify.com/track/2X1jifAuCUkeIiidlRDxFl"
     },
     {

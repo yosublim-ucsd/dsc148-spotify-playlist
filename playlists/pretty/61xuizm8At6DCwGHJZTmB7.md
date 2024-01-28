@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Praise His holy name! Listen to the top Christian and Worship hits of 2024 with songs like Abandoned, Who Else and Glorious Day! Cover: <a href="https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm?si=amZK4beZTje3ttbfv\_B7\-Q">Benjamin William Hastings</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,117 likes - 119 songs - 11 hr 21 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,088 likes - 119 songs - 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 12 | [Steadfast Love \- Live](https://open.spotify.com/track/2TMVO0RgGLIyWCVo9vRSiQ) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Steadfast Love \(Live\)](https://open.spotify.com/album/5kuVApIeXUgvb3RFaQZ51p) | 9:16 |
 | 13 | [Gratitude \- Live At Sound Emporium](https://open.spotify.com/track/37WPHM0v6wekvi5wXnve4W) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc) | [Songs You Maybe Didn't Know I Wrote And Some You Maybe Did \(Live At Sound Emporium\)](https://open.spotify.com/album/6zkm3hMUBGWTigktv1U4PK) | 7:07 |
 | 14 | [The Blessing](https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Blessing](https://open.spotify.com/album/2vdGtEIX7BYmmruQ7UbEFL) | 7:03 |
-| 15 | [Heart Cries Holy](https://open.spotify.com/track/5EdKhtiWCSP97UFkXoGER9) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Michael Monroe](https://open.spotify.com/artist/5Ul6r5lUSOraWUidNnsILZ) | [Heart Cries Holy](https://open.spotify.com/album/7fsu4YWjnGzlzLudN1ny1g) | 4:26 |
+| 15 | [Heart Cries Holy](https://open.spotify.com/track/5EdKhtiWCSP97UFkXoGER9) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Michael Monroe](https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv) | [Heart Cries Holy](https://open.spotify.com/album/7fsu4YWjnGzlzLudN1ny1g) | 4:26 |
 | 16 | [So Will I \(100 Billion X\)](https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 6:51 |
 | 17 | [Honey In The Rock \- Live](https://open.spotify.com/track/06EzKxIt7WUokYpkitiIK2) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 4:43 |
 | 18 | [I've Witnessed It \- Live](https://open.spotify.com/track/4oI2WsqTvrNBenQZ35wxQl) | [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8) | [Story To Tell \(Live\)](https://open.spotify.com/album/4O94XSeuiMOblRiDLuwDDT) | 6:51 |

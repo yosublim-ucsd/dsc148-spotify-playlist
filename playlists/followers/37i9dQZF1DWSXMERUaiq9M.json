@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 212918,
+  "2024-01-28": 213267,
   "date_first_scraped": "2023-03-14",
   "description": "love peace techno",
   "name": "rave",
@@ -123,7 +123,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 204172,
       "name": "All Good Things (Come To An End)",
       "url": "https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5"
@@ -3243,6 +3243,24 @@
       "duration_ms": 420317,
       "name": "RUFF CUTS",
       "url": "https://open.spotify.com/track/6Edofgc0fFAfSIoAKhOEec"
+    },
+    {
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/0lq1r21UUKsQrWVgDVVRTX"
+      },
+      "artists": [
+        {
+          "name": "Vizionn",
+          "url": "https://open.spotify.com/artist/58CoYe1IrKXe3FW3icZ2nU"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2yMTcvYrD4aN0Eeyngy9QZ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Back to the golden age of the scene. Cover: The Used",
-  "num_followers": 457806,
+  "num_followers": 457984,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDE3N2MwNzJiMDRjYWJmMDdhYmI2YWI1ZTQxODQ4ZjNjYTkzZmM5",
+  "snapshot_id": "MCxmZmVkY2RlZjhkNzU4YmViZDYxMDJjMDFlOTExZmY4MjBiOTQyMmZm",
   "tracks": [
     {
       "added_at": "2023-03-28 16:00:32",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "All's Well That Ends Well",
-        "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
-      },
-      "artists": [
-        {
-          "name": "Chiodos",
-          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
-        }
-      ],
-      "duration_ms": 280866,
-      "name": "Baby, You Wouldn't Last A Minute On The Creek",
-      "url": "https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "A Flair For The Dramatic",
         "url": "https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 264413,
       "name": "Yeah Boy and Doll Face",
       "url": "https://open.spotify.com/track/51rIDh0FOCNCFkdbtIOyU0"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "All's Well That Ends Well",
+        "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
+      },
+      "artists": [
+        {
+          "name": "Chiodos",
+          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+        }
+      ],
+      "duration_ms": 280866,
+      "name": "Baby, You Wouldn't Last A Minute On The Creek",
+      "url": "https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Hours",
-        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Roses for the Dead",
-      "url": "https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Juturna",
         "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 200800,
       "name": "Act Appalled",
       "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "Roses for the Dead",
+      "url": "https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Happiness",
-        "url": "https://open.spotify.com/album/3K17PJl4d0yhrys2ylYzgm"
+        "name": "30 Seconds To Mars",
+        "url": "https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz"
       },
       "artists": [
         {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
         }
       ],
-      "duration_ms": 201986,
-      "name": "Tree Village",
-      "url": "https://open.spotify.com/track/23H0cL1Mnz96wqTwO1e76j"
+      "duration_ms": 233000,
+      "name": "Capricorn (A Brand New Name)",
+      "url": "https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5"
     }
   ],
   "unique_name": "Chaos Anthems",

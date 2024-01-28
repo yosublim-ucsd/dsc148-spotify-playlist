@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Delilah
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,399 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,347 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 59 | [Oye Bebe](https://open.spotify.com/track/5QZBPMzcmscG48lmTfD6Fg) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ), [El Gilbert](https://open.spotify.com/artist/5k5o4kXREvEQ8pgzdBRxGA) | [Oye Bebe](https://open.spotify.com/album/7DiOqscYWd6f7glLym4uFQ) | 3:23 |
 | 60 | [No Sirven Conmigo](https://open.spotify.com/track/2bnC2O6GypWJSIuyGCcXb2) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [No Sirven Conmigo](https://open.spotify.com/album/4DGGMTZTtxVTLxq0FsWRit) | 2:46 |
 
-Snapshot ID: `MCxjOTgwNWQzYzdmMTA0NmE0ZDAwZWJjZDc4NmIzZWQyOWQ3OTg3ZWIw`
+Snapshot ID: `MCwwYjgyM2FhOGRmMWQxMmQwOWY4Y2I4NzRkNTBhYjZkNDI0NGE5Yjkz`

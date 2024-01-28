@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 339031,
+  "2024-01-28": 338421,
   "date_first_scraped": "2022-01-18",
   "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Dead Fish",
   "name": "P\u00e1tria Rock",
@@ -1133,6 +1133,28 @@
       "duration_ms": 152275,
       "name": "Caminha (Que Aqui \u00e9 da Osvaldo)",
       "url": "https://open.spotify.com/track/67jEIIt6rLIqUpgmeUZ35P"
+    },
+    {
+      "album": {
+        "name": "Candoca",
+        "url": "https://open.spotify.com/album/6CfPMqMY4Lyd92R0wkoLFm"
+      },
+      "artists": [
+        {
+          "name": "SONIKA",
+          "url": "https://open.spotify.com/artist/3DKqT2uHhtHV8Ggz0rt2Xd"
+        },
+        {
+          "name": "Mundo Livre S/A",
+          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Candoca",
+      "url": "https://open.spotify.com/track/5viWiM4HDBtna7MZSGR0yF"
     },
     {
       "album": {
@@ -2657,7 +2679,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 147542,
       "name": "EU N\u00c3O T\u00d4 LEGAL",
       "url": "https://open.spotify.com/track/27iTXxl8tuMNdK7zolwemN"
@@ -3047,6 +3069,24 @@
       "duration_ms": 196182,
       "name": "Fragmentado",
       "url": "https://open.spotify.com/track/4szFyCW5iKr0ZkwoGeQoGb"
+    },
+    {
+      "album": {
+        "name": "Fronteiras",
+        "url": "https://open.spotify.com/album/3OACLk5MGQ5p6l07zLrCBL"
+      },
+      "artists": [
+        {
+          "name": "kamposcomk",
+          "url": "https://open.spotify.com/artist/5v7FspAp61fDlTWCdbdWmE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214148,
+      "name": "Fronteiras",
+      "url": "https://open.spotify.com/track/3oNyz8pbv5MAcbzbSwKqoW"
     },
     {
       "album": {
@@ -4343,7 +4383,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 168505,
       "name": "Muito Al\u00e9m",
       "url": "https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL"
@@ -4672,6 +4712,24 @@
     },
     {
       "album": {
+        "name": "NO FUNDO ME IMPORTO",
+        "url": "https://open.spotify.com/album/6nIvhEFimta5iqjv67kFhR"
+      },
+      "artists": [
+        {
+          "name": "Bullet Bane",
+          "url": "https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208235,
+      "name": "NO FUNDO ME IMPORTO",
+      "url": "https://open.spotify.com/track/30AQgaI2sH71GQDq1F8xHM"
+    },
+    {
+      "album": {
         "name": "Nome do Amor",
         "url": "https://open.spotify.com/album/1HGtq3UpIAIxsRmFSW3xlL"
       },
@@ -4687,6 +4745,24 @@
       "duration_ms": 210236,
       "name": "Nome do Amor",
       "url": "https://open.spotify.com/track/0OvaGYo2WMvl9F9YvbG52H"
+    },
+    {
+      "album": {
+        "name": "Nossa Amizade",
+        "url": "https://open.spotify.com/album/4ZTbVtTCuViTg5bG7v6N3J"
+      },
+      "artists": [
+        {
+          "name": "Anima Mea",
+          "url": "https://open.spotify.com/artist/5Cu2zpWPt83iBOsNBdgvOI"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197413,
+      "name": "Nossa Amizade",
+      "url": "https://open.spotify.com/track/3OiDED20S9xhjGL0TZ6mb5"
     },
     {
       "album": {
@@ -5053,7 +5129,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 368673,
       "name": "O Dia",
       "url": "https://open.spotify.com/track/7dOshwpifuDUfbHDSFVKld"
@@ -5547,7 +5623,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 208733,
       "name": "Para\u00edso C\u00e3o",
       "url": "https://open.spotify.com/track/5KfCD43SLeLfR4qNvnxsMy"
@@ -5667,7 +5743,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 278275,
       "name": "Pensando No Oceano",
       "url": "https://open.spotify.com/track/4r7Et3GKyFxbzwJqMU7Whs"
@@ -8049,6 +8125,28 @@
       "duration_ms": 157055,
       "name": "\u00d3rf\u00e3os Bastardos",
       "url": "https://open.spotify.com/track/5j6CanT7G1iq45F9kqnBhz"
+    },
+    {
+      "album": {
+        "name": "\u00d8 Tir\u00f8",
+        "url": "https://open.spotify.com/album/5wd6SinPpoaLCDuw18Fn3g"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        },
+        {
+          "name": "Scatolove",
+          "url": "https://open.spotify.com/artist/0icMce3ZQU1HdA8gGHo5Rg"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263956,
+      "name": "\u00d8 Tir\u00f8",
+      "url": "https://open.spotify.com/track/5M1xqajeOF4oiU32waRk0P"
     },
     {
       "album": {

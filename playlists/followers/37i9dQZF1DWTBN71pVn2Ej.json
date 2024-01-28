@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 231633,
+  "2024-01-28": 231740,
   "date_first_scraped": "2021-12-28",
   "description": "The shape of noise to come.",
   "name": "adrenaline",
@@ -900,6 +900,24 @@
     },
     {
       "album": {
+        "name": "Blue Sky",
+        "url": "https://open.spotify.com/album/4REq7tbkedlik4lirEXitL"
+      },
+      "artists": [
+        {
+          "name": "Big World",
+          "url": "https://open.spotify.com/artist/1iXlRbJ302iGzpBlPs773g"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146225,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/1aQgDoin5W59DV8XayTlbK"
+    },
+    {
+      "album": {
         "name": "Blur Into One",
         "url": "https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z"
       },
@@ -1023,6 +1041,24 @@
       "duration_ms": 306327,
       "name": "BREAK ME",
       "url": "https://open.spotify.com/track/3PxCZcQggsO06Drkbq13N7"
+    },
+    {
+      "album": {
+        "name": "Bring Me the Head of My Enemy",
+        "url": "https://open.spotify.com/album/5F5PtHdCNnSCgMbpolueDl"
+      },
+      "artists": [
+        {
+          "name": "Better Off",
+          "url": "https://open.spotify.com/artist/14LOHiPLjJKiOzjFilTkWh"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200473,
+      "name": "Bring Me the Head of My Enemy",
+      "url": "https://open.spotify.com/track/5sV8nDtUfBR58sOrSOqMRr"
     },
     {
       "album": {
@@ -1458,6 +1494,24 @@
     },
     {
       "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/3KwC7ZqUBPkS02VmmV6Xlw"
+      },
+      "artists": [
+        {
+          "name": "House & Home",
+          "url": "https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244820,
+      "name": "Cellophane",
+      "url": "https://open.spotify.com/track/1hKN1kdhCZ80PeTdSbiIKt"
+    },
+    {
+      "album": {
         "name": "Center",
         "url": "https://open.spotify.com/album/0tvQT9SCiGfZjHf7cf56j8"
       },
@@ -1505,7 +1559,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 178679,
       "name": "Ceremonia",
       "url": "https://open.spotify.com/track/0Wh5hRYITjXnNsmfrcInyc"
@@ -1721,7 +1775,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 214522,
       "name": "Cold Sweats",
       "url": "https://open.spotify.com/track/12tsMXFxuVQo1eTECMaoSu"
@@ -2779,7 +2833,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 229750,
       "name": "Facade",
       "url": "https://open.spotify.com/track/0LOWGAqGt7dqnYOQzQqEJP"
@@ -3107,6 +3161,24 @@
       "duration_ms": 254379,
       "name": "Full Round Table",
       "url": "https://open.spotify.com/track/2mX022csmPILfLhGGwctqn"
+    },
+    {
+      "album": {
+        "name": "Future Proof",
+        "url": "https://open.spotify.com/album/2HOmKYLYnlz7SYVGDe8EUd"
+      },
+      "artists": [
+        {
+          "name": "Many Eyes",
+          "url": "https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210973,
+      "name": "Future Proof",
+      "url": "https://open.spotify.com/track/7bnnhcgeyJwU5zwhwo02s3"
     },
     {
       "album": {
@@ -3661,7 +3733,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 182400,
       "name": "Happy To Hide",
       "url": "https://open.spotify.com/track/7gr8noh4FDWKIYKqrLtGZy"
@@ -3859,7 +3931,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 225000,
       "name": "Hiraeth",
       "url": "https://open.spotify.com/track/7J1rx8Kkbuagoi3EYuyEl1"
@@ -4393,6 +4465,24 @@
       "duration_ms": 234706,
       "name": "In Your Way",
       "url": "https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg"
+    },
+    {
+      "album": {
+        "name": "Glorious Sunset",
+        "url": "https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226106,
+      "name": "Insultiment",
+      "url": "https://open.spotify.com/track/1BWbOD4CoE451SffL8Kj3W"
     },
     {
       "album": {
@@ -6367,7 +6457,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 251282,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/0LKJT96wjsdh4MXn3BE0Ea"
@@ -8385,6 +8475,24 @@
       "duration_ms": 220862,
       "name": "The Perfume of Decay",
       "url": "https://open.spotify.com/track/7cGKdI3BvJOKYzs9dRdvFj"
+    },
+    {
+      "album": {
+        "name": "The Same Ordinary",
+        "url": "https://open.spotify.com/album/38l16Gbz36o6lS2gPIW8GN"
+      },
+      "artists": [
+        {
+          "name": "Glitterer",
+          "url": "https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70640,
+      "name": "The Same Ordinary",
+      "url": "https://open.spotify.com/track/13sPX6OiDxFJnpf0LMyfp9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 752 songs - 2 day 10 hr 18 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 753 songs - 2 day 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -760,5 +760,6 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 750 | [Coisa Sentimental](https://open.spotify.com/track/6EkKVy1xJuAMhAzSvzdLvI) | [Tobias](https://open.spotify.com/artist/1DP2hddpuTgFA4cr9642sn) | [Mr\. Bongo Record Club, Vol\. 3 \(Compiled by Mr\. Bongo\)](https://open.spotify.com/album/2W50X23ZpQrRbclikWVrdK) | 3:58 |
 | 751 | [Ta Lassa \- Hide & Smile Edit](https://open.spotify.com/track/0knVFI8HNMpvbfcbajZiGI) | [International Soleil Band](https://open.spotify.com/artist/3Btuf1RlPWMzHASwRufaNs) | [Ta Lassa](https://open.spotify.com/album/4Y0VNFTBjcCBcrJpsg6LNA) | 6:16 |
 | 752 | [Peace On Earth](https://open.spotify.com/track/3xm3OnerPVFh8X5l7skbLd) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Life Stories](https://open.spotify.com/album/6vqY4CxUewSHoLPi2G0s99) | 7:43 |
+| 753 | [プラスティック・バンブー](https://open.spotify.com/track/25uY66kafpxMsuOkjwC9Vl) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [フェイヴァリット・ヴィジョンズ](https://open.spotify.com/album/1DzapgwUNFMJTNtyLtzhTJ) | 6:31 |
 
-Snapshot ID: `ODQ0LDQyZmYyMWY4MTk0OTEzYmFlZjRhZjgzYzEwNWVmMjYwNDlkNTZjYWI=`
+Snapshot ID: `ODQ1LGNiNTMyMzE5ZjhlODQ5ODEzYjVlM2Q0MGI1MDNlMTgwY2U3NjViMjg=`

@@ -4,7 +4,7 @@
 
 > headphones on, forget the world
 
-83 songs - 4 hr 7 min
+84 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [low down](https://open.spotify.com/track/58JbFLKwhdxd0OYy5PUpNH) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [zero experience](https://open.spotify.com/album/1WsyR6Rubboirjmw69zHc0) | 3:02 | 2023-11-13 |  |
 | [luvbomb](https://open.spotify.com/track/0QWy6SGLwFnCiP7mC9mfM3) | [Guard](https://open.spotify.com/artist/5T9M6oY1Nf9z6tPSV9XLGl) | [luvbomb](https://open.spotify.com/album/3QhGKHhvdNURttHv39ojYp) | 3:07 | 2023-11-13 |  |
 | [Mama's Boy](https://open.spotify.com/track/65leXqfkdViSssEVN23uYL) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mama's Boy](https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA) | 2:35 | 2023-11-13 |  |
-| [Maybe My Soulmate Died](https://open.spotify.com/track/0Q06bNL4pMTlkilvL88nda) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/42CbU2pxKCYf1fPhBsZpwj) | 1:54 | 2023-11-13 |  |
+| [Maybe My Soulmate Died](https://open.spotify.com/track/0Q06bNL4pMTlkilvL88nda) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/42CbU2pxKCYf1fPhBsZpwj) | 1:54 | 2023-11-13 | 2024-01-28 |
+| [Maybe My Soulmate Died](https://open.spotify.com/track/1xWMqWlcfGrdnQWim2PJVb) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Chasing the Wind](https://open.spotify.com/album/37YccldXcBrMJ728lWYcQT) | 1:54 | 2023-11-13 |  |
 | [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-11-13 | 2024-01-04 |
 | [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 | 2023-11-13 |  |
 | [Message \(Better Days\)](https://open.spotify.com/track/0tZA4mQgeSJjRyjsU6Sujw) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Message \(Better Days\)](https://open.spotify.com/album/5HCqz8ovg4vqzD3NlYL2oO) | 3:34 | 2023-11-13 |  |

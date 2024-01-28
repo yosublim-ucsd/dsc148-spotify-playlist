@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 616878,
+  "2024-01-28": 616494,
   "date_first_scraped": "2022-01-24",
   "description": "ZARAMAY en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
@@ -139,6 +139,32 @@
       "duration_ms": 154478,
       "name": "22HS",
       "url": "https://open.spotify.com/track/3cCTNbeGVsoANK3pbLXOz7"
+    },
+    {
+      "album": {
+        "name": "3033",
+        "url": "https://open.spotify.com/album/6PoMnoM5E9Dlf6dBy2fETQ"
+      },
+      "artists": [
+        {
+          "name": "MP El Juvenil",
+          "url": "https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3"
+        },
+        {
+          "name": "Ceece",
+          "url": "https://open.spotify.com/artist/3xx8AN05rFTaXxdTXBTAow"
+        },
+        {
+          "name": "kerse",
+          "url": "https://open.spotify.com/artist/6iz6r1o9PKEXp845ZQ1Tgx"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135076,
+      "name": "3033",
+      "url": "https://open.spotify.com/track/5NeP1ZwPoSNSGdL9db540W"
     },
     {
       "album": {
@@ -1800,6 +1826,24 @@
     },
     {
       "album": {
+        "name": "Freestyle Session #20",
+        "url": "https://open.spotify.com/album/3YoMuEB1C2tKh3ggbcqcss"
+      },
+      "artists": [
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357550,
+      "name": "Freestyle Session #20",
+      "url": "https://open.spotify.com/track/723IafUdnKn4Qt2uk4I0IK"
+    },
+    {
+      "album": {
         "name": "Frixen",
         "url": "https://open.spotify.com/album/0lTLmQt4g3QIvV4Chz3eT6"
       },
@@ -1855,7 +1899,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 185693,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/7CaBbXaR1sTf5OJKRQFRj6"
@@ -1975,7 +2019,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 185454,
       "name": "Gitano y Sincero",
       "url": "https://open.spotify.com/track/0ShZK7fs8W5O1NqgzB1kBQ"

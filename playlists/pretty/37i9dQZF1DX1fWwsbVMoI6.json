@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Grupo 5, Joey Montana",
-  "num_followers": 110354,
+  "num_followers": 110385,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmYwOWIzNTVkYTljZDRkZDIyMWY5YzkwOWJkOTJkYmExMTY4MmE4",
+  "snapshot_id": "MCwxODVmMDQ3Yjc0NjlkOWViZGZmMGNhZGMxYTVhNGRlNWQzYzE5YTY0",
   "tracks": [
     {
       "added_at": "2023-09-22 04:59:00",
@@ -371,18 +371,18 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Tan Solo T\u00fa",
-        "url": "https://open.spotify.com/album/1R1pHL32brtnkxgZstFz6m"
+        "name": "Por Qu\u00e9 Te Fuiste",
+        "url": "https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd"
       },
       "artists": [
         {
-          "name": "Corazon Serrano",
-          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
+          "name": "Maricarmen Marin",
+          "url": "https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz"
         }
       ],
-      "duration_ms": 246549,
-      "name": "Tu Recuerdo",
-      "url": "https://open.spotify.com/track/7LCyetqC0dra5wnypug3gH"
+      "duration_ms": 185505,
+      "name": "Por Qu\u00e9 Te Fuiste",
+      "url": "https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -403,18 +403,18 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Por Qu\u00e9 Te Fuiste",
-        "url": "https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd"
+        "name": "Tan Solo T\u00fa",
+        "url": "https://open.spotify.com/album/1R1pHL32brtnkxgZstFz6m"
       },
       "artists": [
         {
-          "name": "Maricarmen Marin",
-          "url": "https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz"
+          "name": "Corazon Serrano",
+          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
         }
       ],
-      "duration_ms": 185505,
-      "name": "Por Qu\u00e9 Te Fuiste",
-      "url": "https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0"
+      "duration_ms": 246549,
+      "name": "Tu Recuerdo",
+      "url": "https://open.spotify.com/track/7LCyetqC0dra5wnypug3gH"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
+        "name": "20 A\u00f1os de Amor: Canciones y Recuerdos",
+        "url": "https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Castro",
+          "url": "https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Con Tinta Roja",
+      "url": "https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
         "name": "Falso Amor",
         "url": "https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 246538,
       "name": "Falso Amor",
       "url": "https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
-        "name": "20 A\u00f1os de Amor: Canciones y Recuerdos",
-        "url": "https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Castro",
-          "url": "https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Con Tinta Roja",
-      "url": "https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "No Te Creas Tan Importante",
-        "url": "https://open.spotify.com/album/6044Bh2cDK6TtuD5TEbKTJ"
-      },
-      "artists": [
-        {
-          "name": "Deyvis Orosco",
-          "url": "https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV"
-        }
-      ],
-      "duration_ms": 246048,
-      "name": "No Te Creas Tan Importante",
-      "url": "https://open.spotify.com/track/4aZTN8T7FTSxNb663ZpeNE"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
         "name": "Mi Princesa, Vol. 3",
         "url": "https://open.spotify.com/album/0OtRD5MwHMbaGtOPpwYXgG"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 351308,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/6u9YhTWRdEn6jF403LHKxa"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "No Te Creas Tan Importante",
+        "url": "https://open.spotify.com/album/6044Bh2cDK6TtuD5TEbKTJ"
+      },
+      "artists": [
+        {
+          "name": "Deyvis Orosco",
+          "url": "https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV"
+        }
+      ],
+      "duration_ms": 246048,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/4aZTN8T7FTSxNb663ZpeNE"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Los Amos del Ritmo Caliente, Vol. 2",
-        "url": "https://open.spotify.com/album/1ZXiEqSLL7KZGDe7Men9md"
-      },
-      "artists": [
-        {
-          "name": "Los Ecos",
-          "url": "https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS"
-        }
-      ],
-      "duration_ms": 231680,
-      "name": "Tres Cruces",
-      "url": "https://open.spotify.com/track/5T2cJPNmezb8TYG4j5Wjnp"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
         "name": "El Futuro De La Cumbia",
         "url": "https://open.spotify.com/album/5Lu7FjFsriB2SKkR7GfqQc"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 277296,
       "name": "Te Burlaste de Mi",
       "url": "https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "Los Amos del Ritmo Caliente, Vol. 2",
+        "url": "https://open.spotify.com/album/1ZXiEqSLL7KZGDe7Men9md"
+      },
+      "artists": [
+        {
+          "name": "Los Ecos",
+          "url": "https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS"
+        }
+      ],
+      "duration_ms": 231680,
+      "name": "Tres Cruces",
+      "url": "https://open.spotify.com/track/5T2cJPNmezb8TYG4j5Wjnp"
     },
     {
       "added_at": "2023-09-22 04:59:00",

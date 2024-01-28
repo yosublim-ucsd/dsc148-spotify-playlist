@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Paloma Mami
 
-926 songs - 2 day 1 hr 34 min
+927 songs - 2 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Como Te Va](https://open.spotify.com/track/3y0h34yThCG2qGO4vR0oi5) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Como Te Va](https://open.spotify.com/album/77iLR6m7fjHq7pZgIX3cc8) | 3:45 | 2022-03-29 | 2022-06-29 |
 | [Como Tú](https://open.spotify.com/track/39D1XXTruO2OyjH3pf1mMy) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Como Tú](https://open.spotify.com/album/67DGrksO0zKsTvb3ZNN4RV) | 3:53 | 2022-12-16 | 2023-03-04 |
 | [COMPL1CADO](https://open.spotify.com/track/09LiLT8Uh9CgJSXV6RDU5O) | [FUFU](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6) | [COMPL1CADO](https://open.spotify.com/album/0bwMwYtt9incXsUsRiS9Vy) | 3:04 | 2022-08-11 | 2022-10-29 |
-| [Complicado](https://open.spotify.com/track/0odJehbwynq5ywdEnnWywx) | [VICE MENTA](https://open.spotify.com/artist/5Aw0EHnWZ9YBfsYN3bjZJH) | [Complicado](https://open.spotify.com/album/4MyHfAPhaeb4AwPU2XHvTU) | 3:05 | 2024-01-12 |  |
+| [Complicado](https://open.spotify.com/track/0odJehbwynq5ywdEnnWywx) | [VICE MENTA](https://open.spotify.com/artist/5Aw0EHnWZ9YBfsYN3bjZJH) | [Complicado](https://open.spotify.com/album/4MyHfAPhaeb4AwPU2XHvTU) | 3:05 | 2024-01-12 | 2024-01-28 |
 | [Con To \(feat\. Flow Nasty\)](https://open.spotify.com/track/1QFJzim9HBPFW9E1B1333Q) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Andre Noriega](https://open.spotify.com/artist/4IQ2uSe2L9smq76Jz048Si), [Oviña](https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam), [Flow Nasty](https://open.spotify.com/artist/4ycU4IDmFd9OO39ej6yfWk) | [Con To \(feat\. Flow Nasty\)](https://open.spotify.com/album/2PJRh0xPNmeEZVGNhwHGGf) | 2:12 | 2023-12-01 |  |
 | [Condado](https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Condado](https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD) | 3:52 | 2022-09-09 | 2022-12-03 |
 | [Confundida](https://open.spotify.com/track/6bTzVDkquLTnPhaBHL89pf) | [IVAN$ITO](https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc) | [Confundida](https://open.spotify.com/album/3qh2ZmXjrgtuPrEnyGkdqp) | 2:32 | 2022-08-11 | 2022-10-29 |
@@ -369,6 +369,7 @@
 | [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 | 2022-10-14 | 2023-01-21 |
 | [Hey Siri](https://open.spotify.com/track/5ohqJK8ieHOGIUsbw2oZqQ) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Hey Siri](https://open.spotify.com/album/26PSRzfCh69uiTBWg2eIZO) | 2:27 | 2022-04-15 | 2022-04-29 |
 | [Hola](https://open.spotify.com/track/4sh30wQyEolLcZMr3SurPr) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Hola](https://open.spotify.com/album/7vEqH5ikhMW6tTaUV6IQBd) | 3:10 | 2023-05-19 | 2023-08-22 |
+| [Hola \(feat\. BEATS PER MINUTES\)](https://open.spotify.com/track/0F5zxhhdUF6ODvY1ANZg5S) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [BEATS PER MINUTES](https://open.spotify.com/artist/19Oso0ltYhvDbLtj7OkfCu) | [Hola \(feat\. BEATS PER MINUTES\)](https://open.spotify.com/album/2mi6GEyMMvm7vVonAhqXFl) | 3:08 | 2024-01-26 |  |
 | [Hong Kong](https://open.spotify.com/track/4jJY4P5bdA3da1iRnwIMok) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Hong Kong](https://open.spotify.com/album/6ceziFcjWhnHtwCoVEzp2Q) | 3:42 | 2023-12-01 | 2023-12-30 |
 | [Hoodie](https://open.spotify.com/track/7DtsTnAn320fWxiw6bdAHe) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Hoodie](https://open.spotify.com/album/4hbG4DAg7wlYF6cvmYv9Hb) | 4:10 | 2022-12-02 | 2023-02-18 |
 | [HOOKIA](https://open.spotify.com/track/1WgyA7SYEzPRZkig3q1b0j) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:51 | 2022-12-16 | 2023-01-14 |

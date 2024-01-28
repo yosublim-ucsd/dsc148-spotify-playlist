@@ -4,7 +4,7 @@
 
 > The notes that will make you long for those days of yore.
 
-203 songs - 11 hr 1 min
+204 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Adam's Hotel](https://open.spotify.com/track/0BHv7xDERd9mJPbGlo39tY) | [Deodato](https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr) | [First Cuckoo](https://open.spotify.com/album/7zdSkK10x9AdPzQfohjGzz) | 3:39 | 2020-12-08 |  |
 | [Africa \(L'été Indien\)](https://open.spotify.com/track/7qMoMK7EbYCoS8VgxWXvKA) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 Años Volumen 1](https://open.spotify.com/album/2XNeUwQOcioKg3asaQm3WY) | 3:03 | 2020-12-08 |  |
 | [Afrikaan Beat](https://open.spotify.com/track/5XaJ4JiP7IzrA58PopxKn1) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Grandes Orquestas / Bert Kaempfert](https://open.spotify.com/album/45379AR3gCm13uuVUl5a4i) | 2:25 | 2020-12-08 | 2022-07-29 |
+| [Afrikaan Beat](https://open.spotify.com/track/6qCCiF2yLCkKZ1YcY3TzpG) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Afrikaan Beat And Other Favorites \(Expanded Edition\)](https://open.spotify.com/album/6eTlcCnO2PwdmehwWSGMnm) | 2:25 | 2020-12-08 |  |
 | [Afrikaan Beat](https://open.spotify.com/track/1BPXaPBTN9oF2HJ4PDx2sp) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [A Swingin' Safari \(Remastered\)](https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5) | 2:26 | 2020-12-08 | 2024-01-22 |
 | [Always in my heart](https://open.spotify.com/track/40rN59RjmCSBlXUNxKifae) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [45 Greatest Hits](https://open.spotify.com/album/2SsXx2EEIhWDk6O1l3WoPh) | 2:29 | 2020-12-08 | 2022-07-29 |
 | [Amapola](https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9) | [Joaquin Borges](https://open.spotify.com/artist/4s7HqUlMC8yjg7k2XgN99G), [National Philarmonic Orchestra](https://open.spotify.com/artist/2WOIwrP2heNknxVUWw56cS) | [Grandes Favoritas Instrumentales,Vol\. 4](https://open.spotify.com/album/4wbHEZf62R0M34a8EkuNlk) | 2:55 | 2020-12-08 |  |
@@ -140,7 +141,7 @@
 | [Over the Rainbow](https://open.spotify.com/track/68EG7pZ1EvUjp6wbhcItTL) | [Caravelli](https://open.spotify.com/artist/4ZELYX7reIsNTmxOWCMcav) | [Caravelli & His Orchestra](https://open.spotify.com/album/6fg2yCwbKZ4aCSGAlovkyZ) | 3:28 | 2020-12-08 |  |
 | [Perfidia](https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg) | [Pablo Beltran Ruiz Y Su Orquesta](https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq) | [Pablo Beltrán Ruíz y Su Orquesta](https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F) | 2:15 | 2020-12-08 |  |
 | [Petite Fleur](https://open.spotify.com/track/49ENB0tgwiU80dvt57WQ5x) | [Chris Barber](https://open.spotify.com/artist/22La2Rm0bDntXkMXGhNQgU), [Monty Sunshine](https://open.spotify.com/artist/42AJfxnbtIFT4DbZcUf11d) | [60 Timeless Classics from the Giants of Traditional Jazz](https://open.spotify.com/album/6fN8msI9VOM3uWxjO1Y9eR) | 2:44 | 2020-12-08 | 2023-11-11 |
-| [Petite Fleur](https://open.spotify.com/track/76Xo2n1QOu3k4QAX0AepFE) | [Chris Barber's Jazz Band](https://open.spotify.com/artist/48CW1rjPSOgZbMsV4LpqoP), [Monty Sunshine](https://open.spotify.com/artist/42AJfxnbtIFT4DbZcUf11d) | [The Nixa Jazz Today Albums](https://open.spotify.com/album/0cDbz6xRoyEZEWlidVftPV) | 2:45 | 2020-12-08 |  |
+| [Petite Fleur](https://open.spotify.com/track/76Xo2n1QOu3k4QAX0AepFE) | [Chris Barber's Jazz Band](https://open.spotify.com/artist/48CW1rjPSOgZbMsV4LpqoP), [Monty Sunshine](https://open.spotify.com/artist/42AJfxnbtIFT4DbZcUf11d) | [The Nixa Jazz Today Albums](https://open.spotify.com/album/0cDbz6xRoyEZEWlidVftPV) | 2:45 | 2020-12-08 | 2024-01-28 |
 | [Piano](https://open.spotify.com/track/6sLnc93kXhAMGZ9wyxYZMT) | [Bebu Silvetti](https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ) | [Las No\. 1 Instrumentales](https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb) | 4:43 | 2020-12-08 |  |
 | [Piano](https://open.spotify.com/track/1Q3ascxB6uII8InItPbW23) | [Raul Di Blasio](https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u) | [Grandes Exitos](https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS) | 6:23 | 2020-12-08 |  |
 | [Playas de Ensueño](https://open.spotify.com/track/1IXc0lJmLcPHHrGL9rSWzX) | [DCO](https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ) | [Playas de Ensueño](https://open.spotify.com/album/31E3FJeD3mPINXJu4kXpVD) | 3:13 | 2020-12-08 |  |

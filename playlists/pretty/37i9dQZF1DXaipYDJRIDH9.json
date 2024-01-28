@@ -1,12 +1,12 @@
 {
   "description": "Piano instrumental para ajudar sua concentra\u00e7\u00e3o na hora de ler e estudar.",
-  "num_followers": 217436,
+  "num_followers": 217283,
   "original_name": "Foco no Estudo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDZkZDY0MTcxN2RhYzJmMDQ0ZTY5ODc0NGM4Yzg1OWRiMjU4YWY2",
+  "snapshot_id": "MCw5MTk0NjFlMzM3ZmQ1ZmYxYWQyZTdiNTlhODk4YWRiOGJhM2EyMGU0",
   "tracks": [
     {
       "added_at": "2024-01-09 09:49:14",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
+        "name": "Ignis",
+        "url": "https://open.spotify.com/album/6Z0Zu6OiJYKJ4FXGl9rpXO"
+      },
+      "artists": [
+        {
+          "name": "Martin Rapide",
+          "url": "https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Ignis",
+      "url": "https://open.spotify.com/track/0kDuotZ7G61nk9rQNcHBbK"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
         "name": "Erz\u00e4hlung",
         "url": "https://open.spotify.com/album/38CElXf2rWdFfn6wGN2Efb"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 167921,
       "name": "Sapphire Tears",
       "url": "https://open.spotify.com/track/2dlIVDvA7Otn950xPFBNYM"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
-        "name": "Ignis",
-        "url": "https://open.spotify.com/album/6Z0Zu6OiJYKJ4FXGl9rpXO"
-      },
-      "artists": [
-        {
-          "name": "Martin Rapide",
-          "url": "https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "Ignis",
-      "url": "https://open.spotify.com/track/0kDuotZ7G61nk9rQNcHBbK"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Garden Of Dreams",
-        "url": "https://open.spotify.com/album/30qBdTgHf1pJI54TyiLv7B"
-      },
-      "artists": [
-        {
-          "name": "Fl\u00f3ki",
-          "url": "https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Garden Of Dreams",
-      "url": "https://open.spotify.com/track/7ywZFL0EYH5UFjDbmIGYUp"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "The Old Chapel",
         "url": "https://open.spotify.com/album/4WdLOyBKFk1KV6lANVXvOL"
       },
@@ -411,18 +395,18 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Unexpected Journey",
-        "url": "https://open.spotify.com/album/7G4UfvLMGm1QheYzzWrupS"
+        "name": "Garden Of Dreams",
+        "url": "https://open.spotify.com/album/30qBdTgHf1pJI54TyiLv7B"
       },
       "artists": [
         {
-          "name": "Hues of Ruby",
-          "url": "https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW"
+          "name": "Fl\u00f3ki",
+          "url": "https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT"
         }
       ],
-      "duration_ms": 162925,
-      "name": "Unexpected Journey",
-      "url": "https://open.spotify.com/track/6HgXeN1ZnCxTJshHSK73z9"
+      "duration_ms": 169000,
+      "name": "Garden Of Dreams",
+      "url": "https://open.spotify.com/track/7ywZFL0EYH5UFjDbmIGYUp"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -439,6 +423,22 @@
       "duration_ms": 192000,
       "name": "Daffodils",
       "url": "https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Unexpected Journey",
+        "url": "https://open.spotify.com/album/7G4UfvLMGm1QheYzzWrupS"
+      },
+      "artists": [
+        {
+          "name": "Hues of Ruby",
+          "url": "https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW"
+        }
+      ],
+      "duration_ms": 162925,
+      "name": "Unexpected Journey",
+      "url": "https://open.spotify.com/track/6HgXeN1ZnCxTJshHSK73z9"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
+        "name": "The Lights Around the Shore",
+        "url": "https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6"
+      },
+      "artists": [
+        {
+          "name": "Rory Lewis",
+          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "The Lights Around the Shore",
+      "url": "https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
         "name": "Dreamscape",
         "url": "https://open.spotify.com/album/6NATzdC2BiLCImkdKA16jM"
       },
@@ -587,38 +603,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "The Lights Around the Shore",
-        "url": "https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6"
-      },
-      "artists": [
-        {
-          "name": "Rory Lewis",
-          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "The Lights Around the Shore",
-      "url": "https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
-        "name": "Zephyr",
-        "url": "https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4"
-      },
-      "artists": [
-        {
-          "name": "Con Alma",
-          "url": "https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G"
-        }
-      ],
-      "duration_ms": 160694,
-      "name": "Zephyr",
-      "url": "https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "Spruces and pines",
         "url": "https://open.spotify.com/album/1ZDs2oPCrDDdfXMLC1j6nG"
       },
@@ -631,22 +615,6 @@
       "duration_ms": 142500,
       "name": "Spruces and pines",
       "url": "https://open.spotify.com/track/7kE18LIKowFAQL4eOwBbNi"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
-        "name": "Forbidden Chords",
-        "url": "https://open.spotify.com/album/5qG5zlXidasaBblysEBt4A"
-      },
-      "artists": [
-        {
-          "name": "Eugenius R. Malmgren",
-          "url": "https://open.spotify.com/artist/2uODFqBJo1WlHbFBSuyLW9"
-        }
-      ],
-      "duration_ms": 139263,
-      "name": "Forbidden Chords",
-      "url": "https://open.spotify.com/track/22MdrHbM2paKQswcbjHEsR"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -667,6 +635,22 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
+        "name": "Forbidden Chords",
+        "url": "https://open.spotify.com/album/5qG5zlXidasaBblysEBt4A"
+      },
+      "artists": [
+        {
+          "name": "Eugenius R. Malmgren",
+          "url": "https://open.spotify.com/artist/2uODFqBJo1WlHbFBSuyLW9"
+        }
+      ],
+      "duration_ms": 139263,
+      "name": "Forbidden Chords",
+      "url": "https://open.spotify.com/track/22MdrHbM2paKQswcbjHEsR"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/50QPaMBUUiOcn9MgsYryG3"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "A Day In June",
-        "url": "https://open.spotify.com/album/7ssXeTKWZ23Y7g6CKzKrvd"
+        "name": "Zephyr",
+        "url": "https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4"
       },
       "artists": [
         {
-          "name": "Half Giant",
-          "url": "https://open.spotify.com/artist/3nEq4JXO2GPqB7n95OacSk"
+          "name": "Con Alma",
+          "url": "https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G"
         }
       ],
-      "duration_ms": 120080,
-      "name": "A Day In June",
-      "url": "https://open.spotify.com/track/0AlsRtqib2JbMHDWvcDrus"
+      "duration_ms": 160694,
+      "name": "Zephyr",
+      "url": "https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -711,6 +695,22 @@
       "duration_ms": 126305,
       "name": "Real As Rain",
       "url": "https://open.spotify.com/track/7zhkMFOWQEwHxIrZzd8Ze5"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "A Day In June",
+        "url": "https://open.spotify.com/album/7ssXeTKWZ23Y7g6CKzKrvd"
+      },
+      "artists": [
+        {
+          "name": "Half Giant",
+          "url": "https://open.spotify.com/artist/3nEq4JXO2GPqB7n95OacSk"
+        }
+      ],
+      "duration_ms": 120080,
+      "name": "A Day In June",
+      "url": "https://open.spotify.com/track/0AlsRtqib2JbMHDWvcDrus"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
+        "name": "Au matin du magicien",
+        "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Nocta",
+          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
+        }
+      ],
+      "duration_ms": 122560,
+      "name": "Au matin du magicien",
+      "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/1cEiIlbGm5vs7RHf7rwSnR"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 179123,
       "name": "85mm",
       "url": "https://open.spotify.com/track/0QXXalGnUnollbhAscrpy3"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
-        "name": "Au matin du magicien",
-        "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
-      },
-      "artists": [
-        {
-          "name": "Leo Nocta",
-          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
-        }
-      ],
-      "duration_ms": 122560,
-      "name": "Au matin du magicien",
-      "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Sailing Away",
-        "url": "https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7"
-      },
-      "artists": [
-        {
-          "name": "Anthony Jacobus",
-          "url": "https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi"
-        }
-      ],
-      "duration_ms": 143879,
-      "name": "Sailing Away",
-      "url": "https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "Pneuma",
         "url": "https://open.spotify.com/album/264KiTwubNhJtDZByhbqKI"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 141500,
       "name": "Pneuma",
       "url": "https://open.spotify.com/track/66AEotuooy840dzHKyW9Ks"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Sailing Away",
+        "url": "https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7"
+      },
+      "artists": [
+        {
+          "name": "Anthony Jacobus",
+          "url": "https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi"
+        }
+      ],
+      "duration_ms": 143879,
+      "name": "Sailing Away",
+      "url": "https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Melancholy",
-        "url": "https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3"
-      },
-      "artists": [
-        {
-          "name": "Les Moray",
-          "url": "https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR"
-        }
-      ],
-      "duration_ms": 214630,
-      "name": "Melancholy",
-      "url": "https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "Thirst",
         "url": "https://open.spotify.com/album/7KeiTF4P3CdFZyO13kfWSk"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 205269,
       "name": "Stilles Sehnen - Upright Reframings",
       "url": "https://open.spotify.com/track/0KJa9LQdtvIkg7m7lGiSQu"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Melancholy",
+        "url": "https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3"
+      },
+      "artists": [
+        {
+          "name": "Les Moray",
+          "url": "https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR"
+        }
+      ],
+      "duration_ms": 214630,
+      "name": "Melancholy",
+      "url": "https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Metanoia",
-        "url": "https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl"
-      },
-      "artists": [
-        {
-          "name": "Constance Lucas",
-          "url": "https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq"
-        }
-      ],
-      "duration_ms": 141971,
-      "name": "Metanoia",
-      "url": "https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "Just Passing By",
         "url": "https://open.spotify.com/album/4naAhJ8qPaCcNd99DVrixB"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Del Mar",
-        "url": "https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ"
+        "name": "Metanoia",
+        "url": "https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl"
       },
       "artists": [
         {
-          "name": "Josh Jacobson",
-          "url": "https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE"
+          "name": "Constance Lucas",
+          "url": "https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq"
         }
       ],
-      "duration_ms": 160064,
-      "name": "Del Mar",
-      "url": "https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4"
+      "duration_ms": 141971,
+      "name": "Metanoia",
+      "url": "https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
+        "name": "Del Mar",
+        "url": "https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ"
+      },
+      "artists": [
+        {
+          "name": "Josh Jacobson",
+          "url": "https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE"
+        }
+      ],
+      "duration_ms": 160064,
+      "name": "Del Mar",
+      "url": "https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
         "name": "Morning-Star",
         "url": "https://open.spotify.com/album/1Rl1DJxb2b5XCWOVD1xrBo"
       },
@@ -1403,22 +1403,6 @@
       "duration_ms": 180308,
       "name": "Morning-Star",
       "url": "https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
-        "name": "Chiral",
-        "url": "https://open.spotify.com/album/2GGXazjr151pmesoEHWst8"
-      },
-      "artists": [
-        {
-          "name": "Sven Grimm",
-          "url": "https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "Chiral",
-      "url": "https://open.spotify.com/track/0bda1IFiwlTA3qgmTGzMZg"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -1451,6 +1435,22 @@
       "duration_ms": 196312,
       "name": "Just One More Time",
       "url": "https://open.spotify.com/track/5D4IkgtTqwgA4hr0gqqeW2"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Chiral",
+        "url": "https://open.spotify.com/album/2GGXazjr151pmesoEHWst8"
+      },
+      "artists": [
+        {
+          "name": "Sven Grimm",
+          "url": "https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "Chiral",
+      "url": "https://open.spotify.com/track/0bda1IFiwlTA3qgmTGzMZg"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Secrets of the Earth",
-        "url": "https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK"
-      },
-      "artists": [
-        {
-          "name": "Lama House",
-          "url": "https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ"
-        }
-      ],
-      "duration_ms": 144530,
-      "name": "Secrets of the Earth",
-      "url": "https://open.spotify.com/track/2ebLKk0oGuiVzJz9JCXnVs"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "Corrente",
         "url": "https://open.spotify.com/album/2AgWcmJDGJ08wdzbbs6f4E"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 157521,
       "name": "Secret Language (Solo Piano Version)",
       "url": "https://open.spotify.com/track/1PZaY3NrqUG03f3QworoZL"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Secrets of the Earth",
+        "url": "https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK"
+      },
+      "artists": [
+        {
+          "name": "Lama House",
+          "url": "https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ"
+        }
+      ],
+      "duration_ms": 144530,
+      "name": "Secrets of the Earth",
+      "url": "https://open.spotify.com/track/2ebLKk0oGuiVzJz9JCXnVs"
     },
     {
       "added_at": "2024-01-09 09:49:14",

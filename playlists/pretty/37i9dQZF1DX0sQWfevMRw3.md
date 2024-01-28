@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > GAMMAL I GEMET!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,268 likes - 100 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,360 likes - 100 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Kan Inte Gå](https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Kan Inte Gå](https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC) | 2:26 |
 | 100 | [Gråt inga tårar](https://open.spotify.com/track/1ygS2GcmX2fflz6NpwGx2z) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [Gråt inga tårar](https://open.spotify.com/album/7cLOvgBlm2lV4iFUAC9mfi) | 2:51 |
 
-Snapshot ID: `MCwxNjk2ZjY2OGUwNTRjOGRjZjhkMGVlYWE0NDUxZjUwNzIxNmFjZjFl`
+Snapshot ID: `MCwxNTJhNGNlMDUzMjMyNjQxYjU2ZWU5M2E5MzU4YjYyY2FjMjVkYjEz`

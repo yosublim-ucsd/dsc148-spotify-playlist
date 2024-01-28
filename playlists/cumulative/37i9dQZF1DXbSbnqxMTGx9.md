@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-616 songs - 1 day 10 hr 16 min
+617 songs - 1 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Blood & Fire](https://open.spotify.com/track/7dIxOUb5q5ylvf7w0qtFZZ) | [Niney](https://open.spotify.com/artist/5Q4ixwdKI9GiCVbxicAseE) | [Trojan Presents: Original Reggae](https://open.spotify.com/album/6mHQh1BnJzUtYrt7uBVeC2) | 3:04 | 2021-03-02 | 2022-07-28 |
 | [Blood and Fire](https://open.spotify.com/track/0ekbf7GVIX2ZUbyky2H2Bz) | [Niney The Observer](https://open.spotify.com/artist/1eM04Kj9DckOUmU1LOfj8j) | [Sing It Wicked Style](https://open.spotify.com/album/4yRAqAtefOk5rVUWyofGr8) | 3:07 | 2022-09-22 | 2022-11-13 |
 | [Blood and Fire](https://open.spotify.com/track/5HiTmpnvgLnofi31wuG0EA) | [Niney The Observer](https://open.spotify.com/artist/1eM04Kj9DckOUmU1LOfj8j) | [Observer Station](https://open.spotify.com/album/0cMFWWPdC87MXohtuJPM8n) | 3:08 | 2022-09-22 |  |
-| [Bonanza Ska](https://open.spotify.com/track/72n1PRmDIsWZg2RypNfyaR) | [Carlos Malcolm & His Afro\-Caribs](https://open.spotify.com/artist/0OHaDoppjQotlrnaZdwFu3) | [The Best of Trojan Ska Vol\. 1](https://open.spotify.com/album/4Y9vhSrt00S7tQg69oWuAC) | 3:03 | 2022-09-22 |  |
+| [Bonanza Ska](https://open.spotify.com/track/72n1PRmDIsWZg2RypNfyaR) | [Carlos Malcolm & His Afro\-Caribs](https://open.spotify.com/artist/0OHaDoppjQotlrnaZdwFu3) | [The Best of Trojan Ska Vol\. 1](https://open.spotify.com/album/4Y9vhSrt00S7tQg69oWuAC) | 3:03 | 2022-09-22 | 2024-01-28 |
+| [Bonanza Ska](https://open.spotify.com/track/5ni04FzwAlJ6m2MsiP0vEs) | [Carlos Malcolm & His Afro\-Jamaican Rhythms](https://open.spotify.com/artist/4TikMc07t46U0FQ4sAY6ww) | [Ska & Reggae Classics](https://open.spotify.com/album/0SIpGRJxmn6tYe9o6xf9lZ) | 3:03 | 2022-09-22 |  |
 | [Bonanza Ska](https://open.spotify.com/track/6pY3iDQ1w3e9iYU3S6eZYp) | [Carlos Malcolm & His Afro\-Jamaican Rhythms](https://open.spotify.com/artist/4TikMc07t46U0FQ4sAY6ww) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:03 | 2022-09-22 | 2023-11-11 |
 | [Book of Rules](https://open.spotify.com/track/3zyzxwicHmLEX19tqcmGGn) | [The Heptones](https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4) | [Peace and Harmony: The Trojan Anthology](https://open.spotify.com/album/2geAAG7oYharh4JGOMvrIM) | 3:30 | 2021-03-02 | 2022-07-29 |
 | [Book Of Rules](https://open.spotify.com/track/1hBeA13a2TcHPX5fVR39CZ) | [The Heptones](https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4) | [Classic Reggae](https://open.spotify.com/album/13HCj2mbsNxLgJc6t2fOY0) | 3:31 | 2022-09-22 | 2022-11-14 |

@@ -1,12 +1,12 @@
 {
   "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:0yknvLWQZxwsMjhUhwWZQ8\">41</a>",
-  "num_followers": 2776416,
+  "num_followers": 2774626,
   "original_name": "Most Necessary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmFmYjExOTgyNDg4MGIwNDdlZmJkZmY3NmMzMjZiMDNjNTYzZTAx",
+  "snapshot_id": "MCw3OGUyYzcxMDY0MzVmNWEzMjA0NTFlNWY0YzQzNjA3ZjFhNTA5Mjdi",
   "tracks": [
     {
       "added_at": "2024-01-26 04:00:00",
@@ -183,8 +183,8 @@
     {
       "added_at": "2024-01-26 04:00:00",
       "album": {
-        "name": "Lottery Pick",
-        "url": "https://open.spotify.com/album/7pp3ZbXrqBiaaeRLIAyis5"
+        "name": "lottery pick",
+        "url": "https://open.spotify.com/album/6X56VpnIYr8WOiCpkXHdEw"
       },
       "artists": [
         {
@@ -193,8 +193,8 @@
         }
       ],
       "duration_ms": 123547,
-      "name": "Soak City (Do it)",
-      "url": "https://open.spotify.com/track/6iiCzEd1ULpq7nXbZVQ4pi"
+      "name": "soak city (do it)",
+      "url": "https://open.spotify.com/track/779jpZikRmH99DiSVpwCHD"
     },
     {
       "added_at": "2024-01-26 04:00:00",
@@ -590,6 +590,10 @@
         {
           "name": "Ron Suno",
           "url": "https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9"
+        },
+        {
+          "name": "Mir Ebk",
+          "url": "https://open.spotify.com/artist/3oqlRWjbqFjXe0l8Ku7coF"
         }
       ],
       "duration_ms": 95373,

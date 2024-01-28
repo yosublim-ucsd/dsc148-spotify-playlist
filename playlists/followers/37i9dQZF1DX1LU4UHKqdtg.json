@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 401028,
+  "2024-01-28": 401431,
   "date_first_scraped": "2021-12-28",
   "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: (G)I-DLE",
   "name": "K-Pop Fresh",
@@ -5906,6 +5906,24 @@
     },
     {
       "album": {
+        "name": "Girls of the Year",
+        "url": "https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG"
+      },
+      "artists": [
+        {
+          "name": "VCHA",
+          "url": "https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178253,
+      "name": "Girls of the Year",
+      "url": "https://open.spotify.com/track/03grA043a1uECo5Kyw28a0"
+    },
+    {
+      "album": {
         "name": "LOVElution <\u2180>",
         "url": "https://open.spotify.com/album/4hXAHIWkBpmSskQ8MccyZf"
       },
@@ -6703,6 +6721,24 @@
       "duration_ms": 250104,
       "name": "Here is",
       "url": "https://open.spotify.com/track/2x9XtAG7TS09EhGSOcCKEC"
+    },
+    {
+      "album": {
+        "name": "FlexxCop OST Part.1 (Soundtrack)",
+        "url": "https://open.spotify.com/album/6VJyLEvO5f5xNsKdHY9Vgk"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183669,
+      "name": "Hey!",
+      "url": "https://open.spotify.com/track/0MwrVgNk2IVFpL8OK2Fw9V"
     },
     {
       "album": {

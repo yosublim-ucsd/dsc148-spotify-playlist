@@ -769,6 +769,28 @@
     },
     {
       "album": {
+        "name": "MYA LIVE P5: Si T\u00fa La Ves",
+        "url": "https://open.spotify.com/album/6odcBxR8P9lK9NiV0h7MJF"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190583,
+      "name": "MYA LIVE P5: Si T\u00fa La Ves",
+      "url": "https://open.spotify.com/track/02EOwlpC4Oo8n9FYSYYkjH"
+    },
+    {
+      "album": {
         "name": "No Bailo Pa Ti",
         "url": "https://open.spotify.com/album/2qzobqLuiyFRIMF9FyRHip"
       },

@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 84442,
+  "2024-01-28": 84482,
   "date_first_scraped": "2022-05-15",
-  "description": "Meet the popular webtoon OSTs now! (Cover: The Moon during the Day(\ub0ae\uc5d0 \ub728\ub294 \ub2ec)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "description": "Meet the popular webtoon OSTs now! (Cover: (No Office Romance!)\uc0ac\ub0b4\uc5f0\uc560 \uc0ac\uc808!) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
   "name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",
   "tracks": [
     {
@@ -1911,6 +1911,24 @@
       "duration_ms": 298640,
       "name": "Star (Back to you X An Da Eun)",
       "url": "https://open.spotify.com/track/2Y1R1w2TOzYQTqntArpHXn"
+    },
+    {
+      "album": {
+        "name": "Starlight (No Office Romance! X JINI) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/3xJ4992CDlMMCIdjpRTkfy"
+      },
+      "artists": [
+        {
+          "name": "JINI",
+          "url": "https://open.spotify.com/artist/5X8oV02v7yAe4gsI4Rxl5D"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165293,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/10mZOfUMXYsXVTGuxp69O3"
     },
     {
       "album": {

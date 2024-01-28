@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Bom Gosto, Vitinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,696 likes - 75 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,799 likes - 75 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Você Pode / Você Não Sabe Voltar \- Ao Vivo](https://open.spotify.com/track/7BHsyBZDLiAzZ9rMCfY9I4) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Pixote House Music, EP 01 \(Ao Vivo\)](https://open.spotify.com/album/5cSMxRT91NZn4o8BX1RG0h) | 4:19 |
 | 75 | [Climatizar/ O Que Tinha Que Dar/ Idem \- Ao vivo](https://open.spotify.com/track/6SnlW8RYmTSf0ONc1TL2Vr) | [Grupo Bom Astral](https://open.spotify.com/artist/7nqAVYCMjEMcKe1TP4nkJb) | [Climatizar/ O Que Tinha Que Dar/ Idem \(Ao vivo\)](https://open.spotify.com/album/75qLqfUtjDj2eVa0qn8TY0) | 3:25 |
 
-Snapshot ID: `MCwyZGVhZGJkMDBiZTVkMjM1MTA4ZDlhMDRlOWVlY2IzMjg1ZmI3ZDUy`
+Snapshot ID: `MCxmMmY3NGYzNWYxZDVhY2Y3YmJhYjg2MDY1ODVlNDQ0ODk5NmM0NGRk`

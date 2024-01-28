@@ -628,7 +628,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 139440,
       "name": "Autumn Air",
       "url": "https://open.spotify.com/track/6rHLRiZ8YYwO03he7OJQU2"
@@ -3294,7 +3294,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 132705,
       "name": "gramophone groove",
       "url": "https://open.spotify.com/track/1o0sTvsEd5nIx3kFHtDXeP"
@@ -8145,6 +8145,24 @@
     },
     {
       "album": {
+        "name": "The Night Cruise",
+        "url": "https://open.spotify.com/album/44gBUyhILIO0PSsSmeHBGo"
+      },
+      "artists": [
+        {
+          "name": "My Lucid Dreams",
+          "url": "https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137143,
+      "name": "The Night Cruise",
+      "url": "https://open.spotify.com/track/2464RLkS0S92lfmGQasZU7"
+    },
+    {
+      "album": {
         "name": "The Way To Eden",
         "url": "https://open.spotify.com/album/2FyEnKHmb477fH0WRy1iOA"
       },
@@ -9028,7 +9046,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 173164,
       "name": "wombat",
       "url": "https://open.spotify.com/track/0PXyjded1E0xIDuDphr7EV"

@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 38304,
+  "2024-01-28": 38321,
   "date_first_scraped": "2022-06-15",
   "description": "O melhor do trance feito na Am\u00e9rica Latina / Lo mejor del trance latino. Foto: Delta Species, Middle-D",
   "name": "Trance Latino",
@@ -29,6 +29,24 @@
       "duration_ms": 557142,
       "name": "A Real Good Time - Libra Remix",
       "url": "https://open.spotify.com/track/5ttx47ANI7Z6HuDflC3Xd9"
+    },
+    {
+      "album": {
+        "name": "About Yourself",
+        "url": "https://open.spotify.com/album/02DUxh8isi3DgkQvc6D8Gj"
+      },
+      "artists": [
+        {
+          "name": "Capital Monkey",
+          "url": "https://open.spotify.com/artist/2iCpXbyRRpN1IMRUkuSyGA"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285640,
+      "name": "About Yourself",
+      "url": "https://open.spotify.com/track/3jUhbD3DjjxFEWcfOOuBNA"
     },
     {
       "album": {
@@ -427,7 +445,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 258206,
       "name": "Diethylamide Remix",
       "url": "https://open.spotify.com/track/3SiGpFJ0MEMJdseyUCrEJf"
@@ -691,7 +709,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 263950,
       "name": "High",
       "url": "https://open.spotify.com/track/0uULrNajpLiZD63RkXkT3N"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 353043,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3nLBqiDoxZYk0M8cI1lBhc"
@@ -891,7 +909,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 446197,
       "name": "Life on Mars",
       "url": "https://open.spotify.com/track/2uh87m3mif5cieKwW6IeDz"
@@ -1085,7 +1103,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 162979,
       "name": "Mariachi",
       "url": "https://open.spotify.com/track/7E8JUCRny3bL3jM70Hf8bT"
@@ -1139,7 +1157,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 486956,
       "name": "Mente Eg\u00edpcia",
       "url": "https://open.spotify.com/track/7io28Gw7IlwkRa02d8Kw9W"
@@ -1183,7 +1201,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 378591,
       "name": "My Flow",
       "url": "https://open.spotify.com/track/7fIFFNWykTt4jYsjNGGTGk"
@@ -1307,7 +1325,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 436965,
       "name": "Noise Casting",
       "url": "https://open.spotify.com/track/7C8LL5w3G3ncNIAwy4lzHs"
@@ -1383,7 +1401,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 401959,
       "name": "Pina Colada",
       "url": "https://open.spotify.com/track/1921iEr6Xx017QU7WVcB5C"
@@ -1463,6 +1481,24 @@
       "duration_ms": 256000,
       "name": "P\u00f3lvora",
       "url": "https://open.spotify.com/track/3NZsaDrILzOwEbvvitf1D2"
+    },
+    {
+      "album": {
+        "name": "Quarantine",
+        "url": "https://open.spotify.com/album/3GqYCjGJXV7C6AaPFZB03L"
+      },
+      "artists": [
+        {
+          "name": "4i20",
+          "url": "https://open.spotify.com/artist/3zlIIVkWyNrNpeN8lO49aH"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268356,
+      "name": "Quarantine",
+      "url": "https://open.spotify.com/track/2DRMcUhdCLMAlzraiejvJU"
     },
     {
       "album": {
@@ -1601,7 +1637,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 327887,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/1qsvF68rYkMoWF40sBqGqw"
@@ -1641,7 +1677,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 230400,
       "name": "Shanti",
       "url": "https://open.spotify.com/track/1q6UdQJkg7ULE6qX0YVZSf"
@@ -1729,7 +1765,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 404571,
       "name": "Synapses in Amsterdam",
       "url": "https://open.spotify.com/track/1ZnHUp5jiWFkkN5u26UlmG"
@@ -1747,7 +1783,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 165600,
       "name": "Technical Journey",
       "url": "https://open.spotify.com/track/6pgLNcfT7CknMmjYYgBZwD"
@@ -1765,7 +1801,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 331034,
       "name": "Temple Deep",
       "url": "https://open.spotify.com/track/1anQDZ5Dxv25hrzKWoILXj"

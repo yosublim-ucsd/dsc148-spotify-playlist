@@ -1909,6 +1909,24 @@
     },
     {
       "album": {
+        "name": "On the Other Side",
+        "url": "https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Desert Days",
+      "url": "https://open.spotify.com/track/4Cx7poeTPyhMkMHqQikyTQ"
+    },
+    {
+      "album": {
         "name": "Desert Days",
         "url": "https://open.spotify.com/album/2xHYXSquta7euwgQLtdQyZ"
       },
@@ -4006,7 +4024,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 197186,
       "name": "Lady Grey",
       "url": "https://open.spotify.com/track/6c2jAbpd22wJYbLp5Pa1iA"

@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 72022,
+  "2024-01-28": 72066,
   "date_first_scraped": "2023-06-18",
   "description": "Your new favourite songs! Cover: Sophie Ellis Bexter",
   "name": "Breaking Hits",
@@ -6505,6 +6505,24 @@
       "duration_ms": 222839,
       "name": "Think Fast (feat. Weezer)",
       "url": "https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso"
+    },
+    {
+      "album": {
+        "name": "Think U The Sh*t (Fart)",
+        "url": "https://open.spotify.com/album/6KHoc2lBi1kfzqifbY66V6"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141639,
+      "name": "Think U The Sh*t (Fart)",
+      "url": "https://open.spotify.com/track/5xcj5a0RKC2s5PIs1FcXOu"
     },
     {
       "album": {

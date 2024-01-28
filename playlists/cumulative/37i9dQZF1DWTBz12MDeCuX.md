@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Whitey en vogue, Ikkimel
 
-1,609 songs - 3 day 4 hr 7 min
+1,610 songs - 3 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -803,7 +803,8 @@
 | [Liebe Grüsse](https://open.spotify.com/track/5qQLBOEAelSN7JWqX3RIIv) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Liebe Grüsse](https://open.spotify.com/album/795oJD0ZgKdDjbKojgmswf) | 2:16 | 2023-10-26 | 2023-12-09 |
 | [Liebe Grüße](https://open.spotify.com/track/2490ZIWKhabJ0or3Dor2xC) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Liebe Grüße](https://open.spotify.com/album/6L16lSz9FFaDxv1wm3SQPL) | 2:15 | 2023-11-02 | 2023-11-10 |
 | [Liebe ist sowas wie ein Schwert](https://open.spotify.com/track/5B0gC3MVu8i4Dc4MSsGAbj) | [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [Liebe ist sowas wie ein Schwert](https://open.spotify.com/album/3h0jolofuDo4TCa2OIyzPM) | 1:57 | 2023-12-14 | 2024-01-19 |
-| [Liebeskummer](https://open.spotify.com/track/1eAUy61bG1MNZZJtlfP6wa) | [ÆNY\-1](https://open.spotify.com/artist/1fYMBClShcFvuFBd9dJZZX), [Eight Λ Eleven](https://open.spotify.com/artist/14piLP687bcwtQTCOg6D6l) | [Liebeskummer](https://open.spotify.com/album/6YntWuRGglNCTStVy6zTKZ) | 2:50 | 2024-01-25 |  |
+| [Liebeskummer](https://open.spotify.com/track/1eAUy61bG1MNZZJtlfP6wa) | [ÆNY\-1](https://open.spotify.com/artist/1fYMBClShcFvuFBd9dJZZX), [Eight Λ Eleven](https://open.spotify.com/artist/14piLP687bcwtQTCOg6D6l) | [Liebeskummer](https://open.spotify.com/album/6YntWuRGglNCTStVy6zTKZ) | 2:50 | 2024-01-25 | 2024-01-28 |
+| [Liebeskummer](https://open.spotify.com/track/7C8a12RqYQ1bUygz5C7BCp) | [ÆNY\-1](https://open.spotify.com/artist/1fYMBClShcFvuFBd9dJZZX), [Eight Λ Eleven](https://open.spotify.com/artist/14piLP687bcwtQTCOg6D6l) | [Liebeskummer](https://open.spotify.com/album/1VDtzGJ3Y2FO9bcitZv666) | 2:50 | 2024-01-26 |  |
 | [Liebeslieder](https://open.spotify.com/track/5fyDNSiWhZZdyFLanzRS6d) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Liebeslieder](https://open.spotify.com/album/0MdYyPd4nmLeSAHEM6ABMZ) | 2:06 | 2022-09-09 | 2022-11-04 |
 | [life gets hard](https://open.spotify.com/track/0LoPQfWaoGGnu1tIA6FScX) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F) | [life gets hard](https://open.spotify.com/album/64NXiz0recaVJwJl0Bzabp) | 2:05 | 2023-11-09 | 2023-11-18 |
 | [life gets hard](https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F) | [life gets hard](https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj) | 2:05 | 2023-11-17 |  |

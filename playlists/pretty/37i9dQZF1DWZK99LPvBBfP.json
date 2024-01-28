@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 247768,
+  "num_followers": 248015,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDRlMzBmZmMxODQyODgxNDEzYWY3OTMyYmEyOWYyNjAyYWZhOTFm",
+  "snapshot_id": "MCw3NmU2YjJiZTJhMmJiZDk2NGUyOWU1Yzg3MmFmMDYyYzFjMTVjNWRm",
   "tracks": [
     {
       "added_at": "2023-08-11 15:42:20",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
+        "name": "Upstairs At Eric's",
+        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
       },
       "artists": [
         {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
         }
       ],
-      "duration_ms": 206160,
-      "name": "Big Fun",
-      "url": "https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr"
+      "duration_ms": 346800,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/1QlogZxaAT35c3HqjJt1JH"
     },
     {
       "added_at": "2023-08-11 15:42:20",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
-        "name": "Upstairs At Eric's",
-        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
       },
       "artists": [
         {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
         }
       ],
-      "duration_ms": 346800,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/1QlogZxaAT35c3HqjJt1JH"
+      "duration_ms": 206160,
+      "name": "Big Fun",
+      "url": "https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr"
     },
     {
       "added_at": "2023-08-11 15:42:20",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
-        "name": "Pjanoo",
-        "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 450912,
-      "name": "Pjanoo - Club Mix",
-      "url": "https://open.spotify.com/track/0noVd1VU93X8TEZMmpR3yN"
-    },
-    {
-      "added_at": "2023-08-11 15:42:20",
-      "album": {
         "name": "Everybody's Free",
         "url": "https://open.spotify.com/album/5aQvlWnZ4ccLkCSOUMIA2X"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 212426,
       "name": "Everybody's Free (Single Version)",
       "url": "https://open.spotify.com/track/1gMZCGs6bxhyPeHAEiNc3i"
+    },
+    {
+      "added_at": "2023-08-11 15:42:20",
+      "album": {
+        "name": "Pjanoo",
+        "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 450912,
+      "name": "Pjanoo - Club Mix",
+      "url": "https://open.spotify.com/track/0noVd1VU93X8TEZMmpR3yN"
     },
     {
       "added_at": "2023-08-11 15:42:20",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
-        "name": "Acqua E Viento",
-        "url": "https://open.spotify.com/album/7tg26RTYMYqwep1civ4E0g"
-      },
-      "artists": [
-        {
-          "name": "Tullio De Piscopo",
-          "url": "https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk"
-        }
-      ],
-      "duration_ms": 434000,
-      "name": "Stop Bajon - Club Mix",
-      "url": "https://open.spotify.com/track/0WRWjlZ4R7b9Jz3CVzKz4B"
-    },
-    {
-      "added_at": "2023-08-11 15:42:20",
-      "album": {
         "name": "Volume II - 1990 A New Decade",
         "url": "https://open.spotify.com/album/24zCSTLxBLjzz3yenDjqFF"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 338866,
       "name": "A Dream's A Dream",
       "url": "https://open.spotify.com/track/6SGOR8yLKOxa6sB9p7mQPr"
+    },
+    {
+      "added_at": "2023-08-11 15:42:20",
+      "album": {
+        "name": "Acqua E Viento",
+        "url": "https://open.spotify.com/album/7tg26RTYMYqwep1civ4E0g"
+      },
+      "artists": [
+        {
+          "name": "Tullio De Piscopo",
+          "url": "https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk"
+        }
+      ],
+      "duration_ms": 434000,
+      "name": "Stop Bajon - Club Mix",
+      "url": "https://open.spotify.com/track/0WRWjlZ4R7b9Jz3CVzKz4B"
     },
     {
       "added_at": "2023-08-11 15:42:20",

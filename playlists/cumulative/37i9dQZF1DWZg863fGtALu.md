@@ -4,7 +4,7 @@
 
 > Summer memories from yesteryear!
 
-156 songs - 9 hr 11 min
+157 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/5HLX3X9DKICD2i7m2KNTn6) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Sweat \(A La La La La Long\)](https://open.spotify.com/album/6C2tqCtqlG32rLawvyRXMY) | 3:49 | 2021-05-16 | 2023-12-08 |
 | [Temperature](https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf) | 3:38 | 2021-05-16 |  |
 | [This Girl \(Kungs Vs\. Cookin' On 3 Burners\)](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Layers](https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB) | 3:15 | 2021-05-16 | 2024-01-26 |
-| [This Girl \- Kungs Vs\. Cookin' On 3 Burners](https://open.spotify.com/track/0slOfqij6DK31JhkWLQLBj) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [This Is Future Pop](https://open.spotify.com/album/6tENvLxC2Ya2RX3pUM4PX5) | 3:15 | 2021-05-16 |  |
+| [This Girl \- Kungs Vs\. Cookin' On 3 Burners](https://open.spotify.com/track/0slOfqij6DK31JhkWLQLBj) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [This Is Future Pop](https://open.spotify.com/album/6tENvLxC2Ya2RX3pUM4PX5) | 3:15 | 2021-05-16 | 2024-01-28 |
+| [This Girl \- Kungs Vs\. Cookin' On 3 Burners](https://open.spotify.com/track/4qLAdBMTzixqAAexCs0TrL) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [大掃除がはかどる洋楽ヒッツ](https://open.spotify.com/album/5wWvsNRs99bNW8USlLJW4r) | 3:15 | 2021-05-16 |  |
 | [Thong Song](https://open.spotify.com/track/5T2kvWGL9F7kk1ArD0wEob) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg) | [Going Solo](https://open.spotify.com/album/7LtA3D8VybpPrVqREHLtn3) | 4:13 | 2021-05-16 | 2022-11-13 |
 | [Thong Song](https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg) | [Unleash The Dragon](https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm) | 4:13 | 2021-05-16 |  |
 | [Thong Song](https://open.spotify.com/track/60e1nB8fP9h4Yw44sIfeQx) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg) | [Unleash The Dragon](https://open.spotify.com/album/6WTTIoyBv6hUNYNnGsmRbJ) | 4:13 | 2021-05-16 | 2022-07-29 |

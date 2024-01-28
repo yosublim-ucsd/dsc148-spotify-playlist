@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 47093,
+  "2024-01-28": 47135,
   "date_first_scraped": "2022-03-24",
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: LAI$ROSA",
   "name": "Baby Hair",
@@ -3405,7 +3405,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 254756,
       "name": "Preta Patr\u00edcia",
       "url": "https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6"
@@ -4583,6 +4583,32 @@
       "duration_ms": 168795,
       "name": "Vejo o bem",
       "url": "https://open.spotify.com/track/5M37zvK48rOQMOVyc0t36o"
+    },
+    {
+      "album": {
+        "name": "Verdinha Criminosa",
+        "url": "https://open.spotify.com/album/2EedIUumt8ALF4Hr26SunX"
+      },
+      "artists": [
+        {
+          "name": "MC KTRINE",
+          "url": "https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283"
+        },
+        {
+          "name": "Hug\u00e3o",
+          "url": "https://open.spotify.com/artist/4wFNtMpRn2TEzEXZG60iXY"
+        },
+        {
+          "name": "EHXIS",
+          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159516,
+      "name": "Verdinha Criminosa",
+      "url": "https://open.spotify.com/track/6WHReC5GArql7M1MC92DY4"
     },
     {
       "album": {

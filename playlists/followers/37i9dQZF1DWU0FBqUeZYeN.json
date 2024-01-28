@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 392973,
+  "2024-01-28": 392860,
   "date_first_scraped": "2022-05-15",
   "description": "From '56 to '76 - the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...",
   "name": "The Road to Punk Rock",
@@ -2333,13 +2333,17 @@
         {
           "name": "The 101ers",
           "url": "https://open.spotify.com/artist/75s7RfViwIXirjnRYkZWPe"
+        },
+        {
+          "name": "Joe Strummer",
+          "url": "https://open.spotify.com/artist/2A09V0kHlETOFfT8Hz8oba"
         }
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 224066,
-      "name": "Keys to Your Heart",
+      "name": "Keys to Your Heart (feat. Joe Strummer)",
       "url": "https://open.spotify.com/track/4vpSRQ0kn2fkV17A5XFwZK"
     },
     {

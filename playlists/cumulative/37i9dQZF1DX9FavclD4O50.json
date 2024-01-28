@@ -422,7 +422,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 219013,
       "name": "Back to Black",
       "url": "https://open.spotify.com/track/7qUU7gPJRgN3XkhrkdwCTg"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 341000,
       "name": "Casta Diva",
       "url": "https://open.spotify.com/track/4tY4NZPYATvP1oJsIde6OJ"
@@ -878,7 +878,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 155764,
       "name": "Face plant",
       "url": "https://open.spotify.com/track/5cPJAz8NKMujyLE23gGnfM"
@@ -1018,6 +1018,24 @@
       "duration_ms": 207960,
       "name": "Humoreske",
       "url": "https://open.spotify.com/track/1xNVYFDK4LQIxd9BWNLdQV"
+    },
+    {
+      "album": {
+        "name": "It is ok to be sad and dark",
+        "url": "https://open.spotify.com/album/3e48GYRqwhPQdpKLfx9uAX"
+      },
+      "artists": [
+        {
+          "name": "Kepa Lehtinen",
+          "url": "https://open.spotify.com/artist/22No3IMhBvteEfpCo3y9gz"
+        }
+      ],
+      "date_added": "2021-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156466,
+      "name": "It is ok to be sad and dark",
+      "url": "https://open.spotify.com/track/27dFZaNV0fMRg0xSn3w1XU"
     },
     {
       "album": {
@@ -1464,7 +1482,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 525280,
       "name": "Moritz Eggert: The Son Of the Daughter Of Dracula Versus The Incredible Frankenstein Monster (From Outer Space)",
       "url": "https://open.spotify.com/track/1CL8DcTGkqmXwO8au6LNZQ"
@@ -1636,7 +1654,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 146243,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/3QAlV4BE7756lM55zHbKay"

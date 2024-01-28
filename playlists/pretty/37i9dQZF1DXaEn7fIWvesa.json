@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con El Chacal en portada.",
-  "num_followers": 6080,
+  "num_followers": 6103,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzBkZGNkYTgwYWI3NTc4ZmIyZTZjMjY5Mjk0YzAwYWM5MjgyMjQ2",
+  "snapshot_id": "MCw1MTI4MmYxZmFiZDYyYjhjYmFkMDdlOTNjOGFlZjE1MTNjOTdkZTZk",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Te Quiero Pa' Mi",
-        "url": "https://open.spotify.com/album/7HWJg3Yznnix51OBoq4BRP"
-      },
-      "artists": [
-        {
-          "name": "El Kimiko y Yordy",
-          "url": "https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn"
-        }
-      ],
-      "duration_ms": 201365,
-      "name": "Te Quiero Pa' Mi",
-      "url": "https://open.spotify.com/track/6f1iOMpbJFItdBug6CepDl"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Descaradita",
         "url": "https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 258298,
       "name": "Descaradita",
       "url": "https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Te Quiero Pa' Mi",
+        "url": "https://open.spotify.com/album/7HWJg3Yznnix51OBoq4BRP"
+      },
+      "artists": [
+        {
+          "name": "El Kimiko y Yordy",
+          "url": "https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn"
+        }
+      ],
+      "duration_ms": 201365,
+      "name": "Te Quiero Pa' Mi",
+      "url": "https://open.spotify.com/track/6f1iOMpbJFItdBug6CepDl"
     },
     {
       "added_at": "2024-01-26 05:00:00",

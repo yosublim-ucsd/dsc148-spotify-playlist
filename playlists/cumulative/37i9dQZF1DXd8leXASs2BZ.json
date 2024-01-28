@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 183853,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/4JXLR7C2FpsOFKGGJPNKks"
@@ -3566,6 +3566,24 @@
       "duration_ms": 166153,
       "name": "Tsukutte tsukatte",
       "url": "https://open.spotify.com/track/0N0X18UMqEvueGaLTZ6QQt"
+    },
+    {
+      "album": {
+        "name": "TYOSTAR",
+        "url": "https://open.spotify.com/album/1bqw62lT3nY7fGMFWhjF2x"
+      },
+      "artists": [
+        {
+          "name": "STARKIDS",
+          "url": "https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169014,
+      "name": "TYOSTAR",
+      "url": "https://open.spotify.com/track/0OQgrwS228jqSQZ9UmwWxc"
     },
     {
       "album": {

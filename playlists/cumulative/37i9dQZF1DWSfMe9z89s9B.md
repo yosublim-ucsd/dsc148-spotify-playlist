@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Hiatus Kaiyote
 
-1,065 songs - 2 day 8 hr 48 min
+1,066 songs - 2 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,6 +636,7 @@
 | [New Faces](https://open.spotify.com/track/2QAtG4bBRtLtvgeC3rSTRy) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [New Faces](https://open.spotify.com/album/2tEbyjjMbPQ7uOAXjW7MhR) | 3:09 | 2021-05-14 | 2022-01-09 |
 | [Nimbus](https://open.spotify.com/track/001EhZ9ZELNRrrLhpuPGQJ) | [Brahny](https://open.spotify.com/artist/5XVcCGWqJUyDVL8u3YsSRX) | [Nimbus](https://open.spotify.com/album/1NZZZZwUsYX2Lnmav1WwLG) | 3:07 | 2022-04-01 | 2022-04-11 |
 | [nite](https://open.spotify.com/track/5d2sBOqleqxg8noBOvQEYa) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [it's not you, it's me..\. it's love](https://open.spotify.com/album/18CRiKrKO856anaMXGjXP9) | 2:23 | 2023-09-01 |  |
+| [No Evil](https://open.spotify.com/track/7JHVXlqkoXViFD4giUlzEs) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [No Evil](https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R) | 2:25 | 2024-01-26 |  |
 | [No Love \(with SZA\)](https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:51 | 2021-11-05 | 2022-07-16 |
 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 | 2023-04-28 | 2023-07-22 |
 | [No Questions](https://open.spotify.com/track/4rDouDFu1nqpyTWZkRIiuI) | [Gemaine](https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw) | [No Questions](https://open.spotify.com/album/4G6lVl5CBCSrufxr9SwoBq) | 2:44 | 2022-04-01 | 2022-04-12 |
@@ -729,7 +730,7 @@
 | [Pray](https://open.spotify.com/track/4xXADPkERks2COmdLe8yd0) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 2:55 | 2023-10-20 |  |
 | [Pressure](https://open.spotify.com/track/5DMFR9JU4l86FD063mmb7z) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Pressure](https://open.spotify.com/album/5ggd0JyaC9xDcbbIQigiiX) | 2:27 | 2022-09-02 | 2022-09-10 |
 | [pressure](https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Getaway](https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM) | 3:40 | 2022-03-21 | 2023-09-02 |
-| [Pretty](https://open.spotify.com/track/0WJ8tNBfJRwUPfE8ibBwAF) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Pretty](https://open.spotify.com/album/4psYJ4ruuGaqH25CBWKqMp) | 3:25 | 2023-04-21 |  |
+| [Pretty](https://open.spotify.com/track/0WJ8tNBfJRwUPfE8ibBwAF) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Pretty](https://open.spotify.com/album/4psYJ4ruuGaqH25CBWKqMp) | 3:25 | 2023-04-21 | 2024-01-28 |
 | [Pretty Ass Bish](https://open.spotify.com/track/1UbTy9jNH2JdFrkehNv8J8) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Pretty Ass Bish](https://open.spotify.com/album/2h9UYKJHwFPF25rg28AQj8) | 2:23 | 2023-07-28 | 2023-12-09 |
 | [Pretty Like You](https://open.spotify.com/track/6IksI018PglNFPUL40pxit) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [The Private Room](https://open.spotify.com/album/4tiRp1HukUk0ZN8OfF30Zw) | 2:34 | 2023-04-21 |  |
 | [pretty photos](https://open.spotify.com/track/1PmXc402f75cyfgLlXWSEH) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [it was nice knowing u](https://open.spotify.com/album/2lTY9F1Grt1D0HPsaQrGGT) | 2:56 | 2023-11-19 | 2023-12-09 |

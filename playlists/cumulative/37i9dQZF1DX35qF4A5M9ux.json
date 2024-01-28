@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 212640,
       "name": "Dime Que Pas\u00f3",
       "url": "https://open.spotify.com/track/65D6E7asOuIcW8MQWaRCV2"
@@ -2178,6 +2178,32 @@
       "duration_ms": 302320,
       "name": "La Quiero A Morir",
       "url": "https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif"
+    },
+    {
+      "album": {
+        "name": "La Rebelion",
+        "url": "https://open.spotify.com/album/3eIVxbbbqzZZ43ceV9sufi"
+      },
+      "artists": [
+        {
+          "name": "CHAR\u0130ZXRD",
+          "url": "https://open.spotify.com/artist/02H9qgkOVmmM94uQGFXnDM"
+        },
+        {
+          "name": "firatsamsi",
+          "url": "https://open.spotify.com/artist/3dPhaGKUO2J5ndA2GUOWpX"
+        },
+        {
+          "name": "hitcon5",
+          "url": "https://open.spotify.com/artist/3O46F3OarviZBHkZyOEOd5"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376451,
+      "name": "La Rebelion",
+      "url": "https://open.spotify.com/track/6gecMuiiRAhutKqrYc9WDq"
     },
     {
       "album": {

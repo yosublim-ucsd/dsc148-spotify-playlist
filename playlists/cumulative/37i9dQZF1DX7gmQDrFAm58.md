@@ -4,7 +4,7 @@
 
 > Sons para seu bebê dormir e relaxar / Sonidos para relajar a tu bebé
 
-389 songs - 11 hr 24 min
+390 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [My little Star](https://open.spotify.com/track/5dwlcntGZxSn4rCr5c5aZS) | [Catherine Finch](https://open.spotify.com/artist/2PPbLifiSbhXZZwfjtr4Kk) | [My little Star](https://open.spotify.com/album/0LegDUh60RjpLkNp0QgKi9) | 1:34 | 2023-12-08 |  |
 | [My Pink Baloon](https://open.spotify.com/track/6BDbtRoNOapsFeJQGE5fmv) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [My Pink Baloon](https://open.spotify.com/album/1LeFmlbaMfz6i9nNEgfqh6) | 1:35 | 2023-12-08 |  |
 | [My Puppy](https://open.spotify.com/track/1ylOYsOWTCxozJJ4eOW1mY) | [John Felipe](https://open.spotify.com/artist/5ZrLtkcI48xbgH57MyAjEO) | [My Puppy](https://open.spotify.com/album/0H8uzKnCMYXFpvzmHNXSH4) | 1:21 | 2023-12-08 |  |
-| [My Secret Hope](https://open.spotify.com/track/0OKJn9RZqmsjkAGnDo5YJL) | [April Pascarella](https://open.spotify.com/artist/2mmALxXVjePgMEhi1rDZTG) | [My Secret Hope](https://open.spotify.com/album/5aX6KwuJ7pigQfi1a30sZK) | 1:57 | 2023-12-08 |  |
+| [My Secret Hope](https://open.spotify.com/track/0OKJn9RZqmsjkAGnDo5YJL) | [April Pascarella](https://open.spotify.com/artist/2mmALxXVjePgMEhi1rDZTG) | [My Secret Hope](https://open.spotify.com/album/5aX6KwuJ7pigQfi1a30sZK) | 1:57 | 2023-12-08 | 2024-01-28 |
 | [My Tiny Dollhouse](https://open.spotify.com/track/40MlJ5caN94moDlrtmaIqE) | [Martina Beasley](https://open.spotify.com/artist/6iOLm48O5U4bvtK6igOuqK) | [My Tiny Dollhouse](https://open.spotify.com/album/7HAQJWjdcqVfSYiomtfL8u) | 1:33 | 2023-12-08 |  |
 | [Napping Rabbit](https://open.spotify.com/track/16RLSMLfNH3ASyJ7NONTSv) | [Ronan Ivers](https://open.spotify.com/artist/7Exr5K2SKnd1fzEOqbXUNI) | [Napping Rabbit](https://open.spotify.com/album/5jLj8Q10nTIqH4To584bNV) | 1:15 | 2023-12-08 |  |
 | [Nightingale](https://open.spotify.com/track/3uC8zTgiujbXzfjqDWIqVa) | [Selma June](https://open.spotify.com/artist/2f08UC5AufQFaVZi8r6V91) | [Nightingale](https://open.spotify.com/album/1VV5BOlkuBGfxmn6jfY7IN) | 1:21 | 2023-12-08 |  |
@@ -378,6 +378,7 @@
 | [Warm Milk](https://open.spotify.com/track/0L2o3G1JJfzDd6PWjZn6F2) | [Fraire Jaques](https://open.spotify.com/artist/449CtTB6t83bfPppU0GcfI) | [Warm Milk](https://open.spotify.com/album/76HAoSan8BRJWIteFhzh0h) | 3:10 | 2023-12-08 |  |
 | [We Are Three Musicians](https://open.spotify.com/track/6M0tKLVH56wlV7WEo9bgf1) | [Anton Bruch](https://open.spotify.com/artist/7zT8gDSxsr4jwMiv2gCqIs) | [We Are Three Musicians](https://open.spotify.com/album/1ststXxX5u4D6FXKAAEZMa) | 1:07 | 2023-12-08 |  |
 | [Weightless Sleep](https://open.spotify.com/track/1BA6K5gxk0oGldorRcH6gG) | [Goodnight sweetheart](https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp) | [Weightless Sleep](https://open.spotify.com/album/5yQCAsPHnjxMhaKGKLs8Ax) | 2:19 | 2023-12-08 |  |
+| [What Did Delaware](https://open.spotify.com/track/2ecZMNHqUiNCkeWMHLEP9y) | [Robin Colt](https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH) | [What Did Delaware](https://open.spotify.com/album/0CjmTWjUl7zSwLxkK51KNw) | 1:39 | 2024-01-19 |  |
 | [Whatever Happens](https://open.spotify.com/track/2gAfWIJA9wcWEDy6BmTosY) | [Cosima Bradley](https://open.spotify.com/artist/6l8VqzILTHqmDJfISU6bPg) | [Whatever Happens](https://open.spotify.com/album/4B6EdTLWq7HQm56bVX5ocU) | 1:19 | 2023-12-08 |  |
 | [When I Can't Sleep](https://open.spotify.com/track/3WDqDFuKdClbEY0SgGyrFK) | [Denise Boyette](https://open.spotify.com/artist/7Ic0m7rS8gwZQSDiOmLJxc) | [When I Can't Sleep](https://open.spotify.com/album/5QHMlIVdtZ4gI0I0HERVKh) | 1:29 | 2023-12-08 |  |
 | [When I See a Smiling Face](https://open.spotify.com/track/2TFM4euog31cKxuFN9jCdT) | [Tianna Dorsey](https://open.spotify.com/artist/2VsEJa7uhigAMojVKojMeg) | [When I See a Smiling Face](https://open.spotify.com/album/5UNbYlNn7GSqjYeHr5HEeZ) | 1:24 | 2023-12-08 |  |

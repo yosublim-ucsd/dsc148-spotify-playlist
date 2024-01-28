@@ -4,7 +4,7 @@
 
 > Prominent Indian independent music creators\. Cover \- Lucky Ali
 
-43 songs - 3 hr 45 min
+44 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Bandhu Re](https://open.spotify.com/track/3VQF1tKmEogJqV2XRKm7Qg) | [Cactus](https://open.spotify.com/artist/2PWPl2KNcCDDdhqT7vb2sR) | [Rajar Raja](https://open.spotify.com/album/6UeMitzv4cd2pBCVBTHgDZ) | 5:12 | 2023-05-11 |  |
 | [Bhool Ja](https://open.spotify.com/track/7pCE1BHlNVbvIuqUEOGAj5) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 3:34 | 2023-05-11 |  |
 | [Boondein](https://open.spotify.com/track/2l4w5ctthghnZXpekYyBn4) | [Silk Route](https://open.spotify.com/artist/759QiRQCMliwkrJqosHbmm) | [Boondein](https://open.spotify.com/album/6xr5iebhf8ArsIzWs33OYk) | 4:50 | 2023-05-11 |  |
-| [Bulla Ki Jaana Mein Kaun](https://open.spotify.com/track/2mDayytAT6lXBYVDWpjhpR) | [Rabbi Shergill](https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa) | [Bulla Ki Jaana Mein Kaun](https://open.spotify.com/album/5IjwmVLj8wcuZjv6MQrtO9) | 5:17 | 2023-05-11 |  |
+| [Bulla Ki Jaana Mein Kaun](https://open.spotify.com/track/2mDayytAT6lXBYVDWpjhpR) | [Rabbi Shergill](https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa) | [Bulla Ki Jaana Mein Kaun](https://open.spotify.com/album/5IjwmVLj8wcuZjv6MQrtO9) | 5:17 | 2023-05-11 | 2024-01-28 |
+| [Bulla Ki Jana](https://open.spotify.com/track/71EsSmCOr91bFkCWQzyCmu) | [Rabbi Shergill](https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa) | [Rabbi](https://open.spotify.com/album/0HUC7qxelpl3IJG5PmDKRb) | 5:17 | 2024-01-10 |  |
 | [But It Rained \(Extended Version\)](https://open.spotify.com/track/6F0E0Af1cZpNczVczzSTC4) | [Parikrama](https://open.spotify.com/artist/5I6pG3raoZlKYMjgGa6eFn) | [But It Rained \(Extended Version\)](https://open.spotify.com/album/4ONwuqLKxzElW9DQF8GxeB) | 7:05 | 2023-05-11 |  |
 | [Channa Vey](https://open.spotify.com/track/3At4t5vZ0lDuNWLBPEk6Ck) | [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ) | [Channa Vey](https://open.spotify.com/album/1D3xG0AxMZbq0nVyu0PUgJ) | 4:29 | 2023-05-11 |  |
 | [Dekha Hai Aise Bhi](https://open.spotify.com/track/0GybyL5gY2kSLgiSwauFei) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sifar](https://open.spotify.com/album/0aHRE11myjLyOfFgEb8LpF) | 3:58 | 2023-05-11 |  |

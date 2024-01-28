@@ -4,7 +4,7 @@
 
 > 🍾
 
-159 songs - 9 hr 28 min
+160 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [The Sun](https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 3:27 | 2023-09-22 |  |
 | [The Sun \- Yuksek Remix](https://open.spotify.com/track/1zaBd35OYaifEfAYFbJ2MP) | [lovetempo](https://open.spotify.com/artist/0OypB7arfOmIwUP9C5z2GY), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [The Sun \(Yuksek Remix\)](https://open.spotify.com/album/7HA3KBBhVLypwm1JtuGX2h) | 5:22 | 2023-06-09 |  |
 | [This Girl \(Kungs Vs\. Cookin' On 3 Burners\)](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Layers](https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB) | 3:15 | 2022-12-08 | 2024-01-26 |
-| [This Girl \- Kungs Vs\. Cookin' On 3 Burners](https://open.spotify.com/track/0slOfqij6DK31JhkWLQLBj) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [This Is Future Pop](https://open.spotify.com/album/6tENvLxC2Ya2RX3pUM4PX5) | 3:15 | 2023-12-01 |  |
+| [This Girl \- Kungs Vs\. Cookin' On 3 Burners](https://open.spotify.com/track/0slOfqij6DK31JhkWLQLBj) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [This Is Future Pop](https://open.spotify.com/album/6tENvLxC2Ya2RX3pUM4PX5) | 3:15 | 2023-12-01 | 2024-01-28 |
+| [This Girl \- Kungs Vs\. Cookin' On 3 Burners](https://open.spotify.com/track/4qLAdBMTzixqAAexCs0TrL) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [大掃除がはかどる洋楽ヒッツ](https://open.spotify.com/album/5wWvsNRs99bNW8USlLJW4r) | 3:15 | 2023-12-01 |  |
 | [This Head I Hold](https://open.spotify.com/track/1tzPSule9WZ9B8SujHv8fp) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Mondo](https://open.spotify.com/album/6AbrLabiBsj3yzk5H2g1al) | 2:55 | 2023-02-24 | 2023-06-23 |
 | [This Head I Hold](https://open.spotify.com/track/2dA8HyqpMOXYQBMbeHUQnl) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Mondo](https://open.spotify.com/album/2RAn6k3jUNl82STRz2xtL8) | 2:55 | 2023-03-24 |  |
 | [To Let Myself Go](https://open.spotify.com/track/5ngEoEew3XmBNQO1cD9x2O) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [The Wanderings Of The Avener](https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy) | 4:14 | 2023-01-04 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 823374,
+  "2024-01-28": 823431,
   "date_first_scraped": "2022-05-30",
   "description": "Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.",
   "name": "This Is SEVENTEEN",
@@ -3489,6 +3489,24 @@
       "duration_ms": 184626,
       "name": "Wave",
       "url": "https://open.spotify.com/track/7awomfKxYCpcqUlfZav6PD"
+    },
+    {
+      "album": {
+        "name": "What kind of future",
+        "url": "https://open.spotify.com/album/1S46HO8uCleN4pov8D3bGL"
+      },
+      "artists": [
+        {
+          "name": "WOOZI",
+          "url": "https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231093,
+      "name": "What kind of future",
+      "url": "https://open.spotify.com/track/1DXomndYd10iSX9uZSPv6e"
     },
     {
       "album": {

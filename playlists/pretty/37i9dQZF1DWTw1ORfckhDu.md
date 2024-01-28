@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Senya.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,980 likes - 64 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,974 likes - 64 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 63 | [Vahinko](https://open.spotify.com/track/3EvLCrqp7tdbaNkEe68RoT) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Aino](https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6) | 3:34 |
 | 64 | [Just sillee](https://open.spotify.com/track/1qmWhud8dSCh1WxZnwaR2P) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Just sillee](https://open.spotify.com/album/2Dw5jml0SGkxUES45CrUFk) | 2:38 |
 
-Snapshot ID: `MCwxNTBlNzBhYjliNzdmN2IxODhjNzIxMjNjNWUzOWY2ZWE1YmQ5YTZj`
+Snapshot ID: `MCwzMjViYTIxZTE5MDJhYjkxZWE0ZDJjZDcwZjQzODU2MTNmY2EzODE2`

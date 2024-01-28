@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 73049,
+  "num_followers": 73117,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzZlMWI3ZmI2OGY2MGZiYTMzYjQ0Mjk5OTUyYmM3NWRmNWZiOTYw",
+  "snapshot_id": "MCwwODM4ZmY2NjNhNDMyOGQ5ZTA2M2MyMWY5NmU2OTJjNDUwOTI3MTBl",
   "tracks": [
     {
       "added_at": "2023-08-28 17:02:49",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Ni\u00f1a de fuego (Standard version)",
-        "url": "https://open.spotify.com/album/0ISrJWxZE7Pt54vQTcIhbP"
-      },
-      "artists": [
-        {
-          "name": "Buika",
-          "url": "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
-        }
-      ],
-      "duration_ms": 219640,
-      "name": "La ni\u00f1a de fuego",
-      "url": "https://open.spotify.com/track/49cz5QoR3gQepQFTA6tjZu"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "Cristalitos Machacaos",
         "url": "https://open.spotify.com/album/1Ftarn4wOspiKUBODeu5Rj"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 195080,
       "name": "Sevillanas de los Bloques",
       "url": "https://open.spotify.com/track/5I2t3LU5UTMdxc9sODCT1d"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "Ni\u00f1a de fuego (Standard version)",
+        "url": "https://open.spotify.com/album/0ISrJWxZE7Pt54vQTcIhbP"
+      },
+      "artists": [
+        {
+          "name": "Buika",
+          "url": "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
+        }
+      ],
+      "duration_ms": 219640,
+      "name": "La ni\u00f1a de fuego",
+      "url": "https://open.spotify.com/track/49cz5QoR3gQepQFTA6tjZu"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "A Bola De Nieve",
-        "url": "https://open.spotify.com/album/0EI7n1PYhbPayZzbTaZt7o"
-      },
-      "artists": [
-        {
-          "name": "Martirio",
-          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
-        },
-        {
-          "name": "Chano Dominguez",
-          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
-        }
-      ],
-      "duration_ms": 262811,
-      "name": "Alma M\u00eda",
-      "url": "https://open.spotify.com/track/2zDaBWpjsLnciaxQBU3mVY"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "Pecado de Amor (Original Motion Picture)",
         "url": "https://open.spotify.com/album/77Yz6Y1zfcuPBCPekPz8Pq"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 283909,
       "name": "HEY",
       "url": "https://open.spotify.com/track/1XxRrTL5TWbR5kuY5RB0Ck"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "A Bola De Nieve",
+        "url": "https://open.spotify.com/album/0EI7n1PYhbPayZzbTaZt7o"
+      },
+      "artists": [
+        {
+          "name": "Martirio",
+          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
+        },
+        {
+          "name": "Chano Dominguez",
+          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
+        }
+      ],
+      "duration_ms": 262811,
+      "name": "Alma M\u00eda",
+      "url": "https://open.spotify.com/track/2zDaBWpjsLnciaxQBU3mVY"
     },
     {
       "added_at": "2023-08-28 17:02:49",

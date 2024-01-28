@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT celebrates 30 years Under the Pink\. Cover: Tori Amos
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,271,872 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,270,668 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 49 | [All Apologies](https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 2:37 |
 | 50 | [Crucify \- 2015 Remaster](https://open.spotify.com/track/6DVySQASssOCxJOyWMY1jW) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes \(Deluxe Edition\)](https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE) | 4:59 |
 
-Snapshot ID: `MCxjNDRjOGNmMjhiNzcyZTJhOTNlZGQwMWVjOGMwMDAxYTVkZTlkMTI5`
+Snapshot ID: `MCw1MzA5MzAwNzNlMzQ2NDJkOTUyODRmNzY0ZDM4ZmRhYTUyOTQ4ZGMz`

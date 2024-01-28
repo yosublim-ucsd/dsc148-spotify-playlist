@@ -1,12 +1,12 @@
 {
   "description": "Viento en la cara, pies en el agua y canciones tranqui para disfrutar del paseo.",
-  "num_followers": 20132,
+  "num_followers": 20208,
   "original_name": "Caminata playera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzkzZTEwNjgzNDAzZjkwNmM4ZGI4NWZkM2RjYTY4NzE1MTdjMDRj",
+  "snapshot_id": "MCw2M2I5Y2Y2YTEzNTIwNDM1NzI5OWY1ZjlmNGRkMzU1ODZlZDUxNzU1",
   "tracks": [
     {
       "added_at": "2024-01-25 20:42:15",
@@ -191,22 +191,18 @@
     {
       "added_at": "2024-01-25 20:42:15",
       "album": {
-        "name": "Acapulco",
-        "url": "https://open.spotify.com/album/66TzEKIam5WkxScrvzgYBm"
+        "name": "Un Bossa +",
+        "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
       },
       "artists": [
         {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        },
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 237526,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/3FvQlLlke7bl8phCe1LJgy"
+      "duration_ms": 86000,
+      "name": "Un Bossa +",
+      "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
     },
     {
       "added_at": "2024-01-25 20:42:15",
@@ -227,18 +223,22 @@
     {
       "added_at": "2024-01-25 20:42:15",
       "album": {
-        "name": "Un Bossa +",
-        "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
+        "name": "Acapulco",
+        "url": "https://open.spotify.com/album/66TzEKIam5WkxScrvzgYBm"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
         }
       ],
-      "duration_ms": 86000,
-      "name": "Un Bossa +",
-      "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
+      "duration_ms": 237526,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/3FvQlLlke7bl8phCe1LJgy"
     },
     {
       "added_at": "2024-01-25 20:42:15",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-01-25 20:42:15",
       "album": {
+        "name": "Winnie Pooh",
+        "url": "https://open.spotify.com/album/2Znd00zVJpDEhwfID5Jc56"
+      },
+      "artists": [
+        {
+          "name": "Parientes",
+          "url": "https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE"
+        }
+      ],
+      "duration_ms": 221989,
+      "name": "Winnie Pooh",
+      "url": "https://open.spotify.com/track/67ciCJna2mFDg1wzRFZzAO"
+    },
+    {
+      "added_at": "2024-01-25 20:42:15",
+      "album": {
         "name": "Ojos de R\u00edo",
         "url": "https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 200869,
       "name": "Nuevo mundo (feat. Juancho Marqu\u00e9s)",
       "url": "https://open.spotify.com/track/4hklliK34BQpPNsoag1JmL"
-    },
-    {
-      "added_at": "2024-01-25 20:42:15",
-      "album": {
-        "name": "Winnie Pooh",
-        "url": "https://open.spotify.com/album/2Znd00zVJpDEhwfID5Jc56"
-      },
-      "artists": [
-        {
-          "name": "Parientes",
-          "url": "https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE"
-        }
-      ],
-      "duration_ms": 221989,
-      "name": "Winnie Pooh",
-      "url": "https://open.spotify.com/track/67ciCJna2mFDg1wzRFZzAO"
     }
   ],
   "unique_name": "Caminata playera",

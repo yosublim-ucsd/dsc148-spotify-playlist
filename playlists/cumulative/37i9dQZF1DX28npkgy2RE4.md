@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Lucius
 
-442 songs - 1 day 3 hr 8 min
+443 songs - 1 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Dancing Away In Tears](https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:48 | 2021-11-12 |  |
 | [Deep In Love](https://open.spotify.com/track/3hmHHA69jx1hdY3TkYRKuE) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Deep In Love](https://open.spotify.com/album/27gGc7BNl7mKU3tUnjfkhH) | 5:09 | 2021-11-12 | 2022-07-29 |
 | [Deep In Love](https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G) | 5:09 | 2022-07-11 |  |
+| [Desert Days](https://open.spotify.com/track/4Cx7poeTPyhMkMHqQikyTQ) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC) | 3:31 | 2023-10-27 |  |
 | [Desert Days](https://open.spotify.com/track/5pFVSFlMgx4fMqqhh8H19N) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Desert Days](https://open.spotify.com/album/2xHYXSquta7euwgQLtdQyZ) | 3:32 | 2022-01-21 | 2022-04-21 |
 | [Desert Woman](https://open.spotify.com/track/60YaAz53fBB3CXHPxhlUVu) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Desert Woman](https://open.spotify.com/album/2xAcvuIfPBODVL1I7FbbBc) | 4:16 | 2023-07-21 | 2024-01-04 |
 | [Desire](https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Desire](https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld) | 2:59 | 2021-11-12 | 2022-07-22 |
@@ -221,7 +222,7 @@
 | [Keeps Me Light](https://open.spotify.com/track/5l43igI28lTXnPK0KQsHQc) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Keeps Me Light](https://open.spotify.com/album/48WCft0nRsNOfquczKAH04) | 3:46 | 2021-11-12 | 2022-07-28 |
 | [Kimmy Rolla](https://open.spotify.com/track/2mgjQLBp5tqZVYxjFbeFQ4) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Kimmy Rolla](https://open.spotify.com/album/2WxtdQ4UAURabQC18pRxoI) | 5:17 | 2021-11-12 | 2022-01-15 |
 | [Labyrinth \- Acoustic](https://open.spotify.com/track/3RndHxmIeOlcqihe5bV3gq) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [Labyrinth \(Acoustic\)](https://open.spotify.com/album/0WrzbcELAPL6BA3vsBC1Bo) | 3:15 | 2021-11-12 | 2022-04-16 |
-| [Lady Grey](https://open.spotify.com/track/6c2jAbpd22wJYbLp5Pa1iA) | [The Clientele](https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0) | [I Am Not There Anymore](https://open.spotify.com/album/0o5pPvWlsSeZBVAR08y3mR) | 3:17 | 2023-07-28 |  |
+| [Lady Grey](https://open.spotify.com/track/6c2jAbpd22wJYbLp5Pa1iA) | [The Clientele](https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0) | [I Am Not There Anymore](https://open.spotify.com/album/0o5pPvWlsSeZBVAR08y3mR) | 3:17 | 2023-07-28 | 2024-01-28 |
 | [Latch](https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Latch](https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi) | 3:29 | 2021-11-12 |  |
 | [Late Bloomer](https://open.spotify.com/track/0dTgjND9WVIfk9M2jHbzjr) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Late Bloomer](https://open.spotify.com/album/3s1OBLlL9gLOVl5Dtc5RHs) | 2:54 | 2021-11-12 | 2022-07-19 |
 | [Latter Days](https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 3:38 | 2022-07-11 |  |

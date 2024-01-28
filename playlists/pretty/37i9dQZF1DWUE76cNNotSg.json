@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 505512,
+  "num_followers": 505651,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzI2ZTE4MDIwYzYwMjlhNDA5M2ViOWYzNjI4MDQwOGJmMGU1YzNh",
+  "snapshot_id": "MCw1ZjZlNzMxMDdiOTllNDNiNTNhOTA4ZDZmMDM4MTIxYjc0MzFlOGEw",
   "tracks": [
     {
       "added_at": "2024-01-26 05:04:07",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-01-26 05:04:07",
       "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5ieLgTo5CXbIgoO0X2KJHf"
+    },
+    {
+      "added_at": "2024-01-26 05:04:07",
+      "album": {
         "name": "Must Be Nice",
         "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 227697,
       "name": "Fais rien (Petit Biscuit Remix)",
       "url": "https://open.spotify.com/track/6nYJaQMAbU66vlZOWXy6Q4"
-    },
-    {
-      "added_at": "2024-01-26 05:04:07",
-      "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5ieLgTo5CXbIgoO0X2KJHf"
     },
     {
       "added_at": "2024-01-26 05:04:07",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-01-26 05:04:07",
       "album": {
+        "name": "Taking Over",
+        "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        }
+      ],
+      "duration_ms": 336867,
+      "name": "Taking Over",
+      "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
+    },
+    {
+      "added_at": "2024-01-26 05:04:07",
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
@@ -1651,18 +1667,18 @@
     {
       "added_at": "2024-01-26 05:04:07",
       "album": {
-        "name": "Taking Over",
-        "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
+        "name": "Lola",
+        "url": "https://open.spotify.com/album/2nkuEWWUZLf4tLMZrns03r"
       },
       "artists": [
         {
-          "name": "Joe Goddard",
-          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
         }
       ],
-      "duration_ms": 336867,
-      "name": "Taking Over",
-      "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
+      "duration_ms": 223587,
+      "name": "Sadie",
+      "url": "https://open.spotify.com/track/5yioG7z2EDTHR5aBN1WS7K"
     },
     {
       "added_at": "2024-01-26 05:04:07",
@@ -1707,22 +1723,6 @@
     {
       "added_at": "2024-01-26 05:04:07",
       "album": {
-        "name": "Children",
-        "url": "https://open.spotify.com/album/4NH7dyo0xKA0Tw19ZIeeYR"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        }
-      ],
-      "duration_ms": 275655,
-      "name": "Children",
-      "url": "https://open.spotify.com/track/6iMyAaTKUoVOWSr4o0vESO"
-    },
-    {
-      "added_at": "2024-01-26 05:04:07",
-      "album": {
         "name": "Downtown",
         "url": "https://open.spotify.com/album/7BUIXtXeK8lyCZ0ZbjCaol"
       },
@@ -1735,6 +1735,22 @@
       "duration_ms": 285714,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/6CS2VZem8trycECb9mEGK0"
+    },
+    {
+      "added_at": "2024-01-26 05:04:07",
+      "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/4NH7dyo0xKA0Tw19ZIeeYR"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "duration_ms": 275655,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/6iMyAaTKUoVOWSr4o0vESO"
     },
     {
       "added_at": "2024-01-26 05:04:07",
@@ -1787,22 +1803,6 @@
       "duration_ms": 171699,
       "name": "Don't Turn Around",
       "url": "https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH"
-    },
-    {
-      "added_at": "2024-01-26 05:04:07",
-      "album": {
-        "name": "I Can Change",
-        "url": "https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 331525,
-      "name": "I Can Change",
-      "url": "https://open.spotify.com/track/4yhslVvynysGhexambPGcy"
     }
   ],
   "unique_name": "golden hour",

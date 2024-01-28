@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 62917,
+  "2024-01-28": 62926,
   "date_first_scraped": "2023-07-23",
-  "description": "Ou\u00e7a as novidades da cena eletr\u00f4nica. Foto: CEVITH",
+  "description": "Ou\u00e7a as novidades da cena eletr\u00f4nica. Foto: RED\u00dcKT",
   "name": "Novos Beats",
   "tracks": [
     {
@@ -101,7 +101,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 188160,
       "name": "Ai Papi",
       "url": "https://open.spotify.com/track/2e7a4odH1FkMKAPGFRxkaO"
@@ -202,6 +202,42 @@
     },
     {
       "album": {
+        "name": "Bailalo",
+        "url": "https://open.spotify.com/album/2zLL8VkoFe0AOu2Qj6JrTw"
+      },
+      "artists": [
+        {
+          "name": "Lamooc",
+          "url": "https://open.spotify.com/artist/7Fd7GoXHkgFZWinY7QA5hx"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Bailalo",
+      "url": "https://open.spotify.com/track/7s2Hlm1v8apXqFJo4Gj64t"
+    },
+    {
+      "album": {
+        "name": "Bambararam",
+        "url": "https://open.spotify.com/album/0jfIyLFkR6BkwRKpG3FsAO"
+      },
+      "artists": [
+        {
+          "name": "RED\u00dcKT",
+          "url": "https://open.spotify.com/artist/0Km0b0FjBqTqx2qkyrUHlH"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "Bambararam",
+      "url": "https://open.spotify.com/track/0jYnLbpoQeu15iYjd7wEB4"
+    },
+    {
+      "album": {
         "name": "Beat Unleashed",
         "url": "https://open.spotify.com/album/6GB0zfDqUCR7l3DYo38brc"
       },
@@ -213,7 +249,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 327272,
       "name": "Beat Unleashed",
       "url": "https://open.spotify.com/track/2rdxghXx9rb04Jyv6hcSaz"
@@ -271,7 +307,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 201885,
       "name": "Belong",
       "url": "https://open.spotify.com/track/7xwqzLTTARETI7O1a92WOF"
@@ -694,6 +730,24 @@
     },
     {
       "album": {
+        "name": "Drop Zone",
+        "url": "https://open.spotify.com/album/4WDzXU5dI9AN4VgHI3Z84P"
+      },
+      "artists": [
+        {
+          "name": "Guzz",
+          "url": "https://open.spotify.com/artist/2M23z6FczyKLQFTTvB3EI8"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236766,
+      "name": "Drop Zone",
+      "url": "https://open.spotify.com/track/07GYpI5fKdTYwqlBxd1WxI"
+    },
+    {
+      "album": {
         "name": "Electro Panic (Raz Remix)",
         "url": "https://open.spotify.com/album/7hfskclosZivyNG3AeQA3C"
       },
@@ -823,7 +877,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 247690,
       "name": "Fanfare",
       "url": "https://open.spotify.com/track/0JeYyr2jxAUbC6CbTRLeBf"
@@ -1235,7 +1289,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 115238,
       "name": "House Control",
       "url": "https://open.spotify.com/track/7tsH71rhspuf92v6wSldzM"
@@ -1403,7 +1457,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 76875,
       "name": "Knifes & Spoons",
       "url": "https://open.spotify.com/track/5XmPHUdiDDVNrcZRrJytaT"
@@ -1751,7 +1805,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 120752,
       "name": "My Moment",
       "url": "https://open.spotify.com/track/1yD2PHNXRMhJPcseTiOjg4"
@@ -1809,6 +1863,24 @@
       "duration_ms": 162240,
       "name": "Never Coming Back",
       "url": "https://open.spotify.com/track/6W6ry3cptNbQPR2jLuKhZO"
+    },
+    {
+      "album": {
+        "name": "NEW YORK LA",
+        "url": "https://open.spotify.com/album/6MFKyK1sH7zyWtKEjjjIfx"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mota",
+          "url": "https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "NEW YORK LA",
+      "url": "https://open.spotify.com/track/6fINXdAMhEHJh9MQaK7mhT"
     },
     {
       "album": {
@@ -2051,7 +2123,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 186666,
       "name": "Reason",
       "url": "https://open.spotify.com/track/0ppTYxMWmNN8SuVoRZMbKB"
@@ -2289,7 +2361,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 146612,
       "name": "See The Sun",
       "url": "https://open.spotify.com/track/6OBvZ3LfyijktML8TEaxw4"
@@ -2461,7 +2533,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 145059,
       "name": "So Bad",
       "url": "https://open.spotify.com/track/1ZYHIV76qQYr59eIMqF92C"
@@ -2865,7 +2937,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 252923,
       "name": "Till the World Knows Me",
       "url": "https://open.spotify.com/track/1NFPtZARcv2bpQ9Z4Bycfy"
@@ -2995,7 +3067,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 191370,
       "name": "Under the Glow",
       "url": "https://open.spotify.com/track/2dRRH5xLawGk6qAbuvcuhq"
@@ -3196,6 +3268,28 @@
     },
     {
       "album": {
+        "name": "Wrong Way",
+        "url": "https://open.spotify.com/album/2E5RxfT6Ri1bMdDNHRs75L"
+      },
+      "artists": [
+        {
+          "name": "DJ Sheldon",
+          "url": "https://open.spotify.com/artist/6ciurZxFv38quFvN879YU3"
+        },
+        {
+          "name": "Kubi",
+          "url": "https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171850,
+      "name": "Wrong Way",
+      "url": "https://open.spotify.com/track/0t3kk2JGfNkzV64BmQoMro"
+    },
+    {
+      "album": {
         "name": "You Give Me a Feelin'",
         "url": "https://open.spotify.com/album/7p3bpCZZ4VhXmcJJ3g1r3D"
       },
@@ -3211,6 +3305,24 @@
       "duration_ms": 190683,
       "name": "You Give Me a Feelin'",
       "url": "https://open.spotify.com/track/3WZvq6eOdH8nvtJHHINa23"
+    },
+    {
+      "album": {
+        "name": "You Gonna",
+        "url": "https://open.spotify.com/album/6D99pdgHXLkPlQjJn8JDE5"
+      },
+      "artists": [
+        {
+          "name": "The Fish House",
+          "url": "https://open.spotify.com/artist/0TXfVIHlCROnWuH89PfnJj"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131904,
+      "name": "You Gonna",
+      "url": "https://open.spotify.com/track/62PpvrrCJpHqn1JVIBlLHp"
     },
     {
       "album": {

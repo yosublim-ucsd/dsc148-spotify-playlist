@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 166170,
+  "2024-01-28": 166136,
   "date_first_scraped": "2022-12-01",
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Hanifah, Doug O.",
   "name": "R&B Brasil",
@@ -2522,6 +2522,32 @@
     },
     {
       "album": {
+        "name": "\u00cdn.ti.mo",
+        "url": "https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU"
+      },
+      "artists": [
+        {
+          "name": "Aysha Lima",
+          "url": "https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U"
+        },
+        {
+          "name": "Andr\u00e9 Miquelotti",
+          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
+        },
+        {
+          "name": "DG Prod",
+          "url": "https://open.spotify.com/artist/5yRNIQrZSfIpSKXjDQ1qif"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187954,
+      "name": "PFP (para fazer pretinhos)",
+      "url": "https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh"
+    },
+    {
+      "album": {
         "name": "PLAYLIST TRANSANTE 2.0",
         "url": "https://open.spotify.com/album/30pit7bea2hbcBbVRTruUM"
       },
@@ -2711,6 +2737,24 @@
       "duration_ms": 153103,
       "name": "Pra Mim N\u00e3o D\u00e1",
       "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
+    },
+    {
+      "album": {
+        "name": "Pra Ningu\u00e9m",
+        "url": "https://open.spotify.com/album/4tZ6QIEkiD1aEjzx6XJK8f"
+      },
+      "artists": [
+        {
+          "name": "Elijah",
+          "url": "https://open.spotify.com/artist/5y3vYetg0yJc4y4rvsxqKk"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229586,
+      "name": "Pra Ningu\u00e9m",
+      "url": "https://open.spotify.com/track/355a1BU5F1BSofA99ZNejR"
     },
     {
       "album": {
@@ -2933,7 +2977,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 244705,
       "name": "Redial",
       "url": "https://open.spotify.com/track/5n4Htpe8iRavkKE0ntKIyC"
@@ -3473,7 +3517,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 215400,
       "name": "Tanto Faz",
       "url": "https://open.spotify.com/track/0kgVCF1GMXafogX6R2Dpc5"

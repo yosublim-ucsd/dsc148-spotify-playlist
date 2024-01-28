@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 945255,
+  "2024-01-28": 944903,
   "date_first_scraped": "2021-12-21",
   "description": "New, leftfield, and for the real hip-hop stans! Cover: Kid Cudi",
   "name": "Alternative Hip-Hop",
@@ -215,7 +215,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 196375,
       "name": "2 Bad (feat. Danny Brown & Zelooperz)",
       "url": "https://open.spotify.com/track/2U7ZuxU2qjezPL2IPV8t6z"
@@ -1103,7 +1103,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 131913,
       "name": "aorta",
       "url": "https://open.spotify.com/track/7IBxi4jju9JTSE3s41904R"
@@ -1807,7 +1807,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 205693,
       "name": "Black Jedi",
       "url": "https://open.spotify.com/track/74BUd4XW7X9aE6Bp9vZNiC"
@@ -2716,6 +2716,28 @@
     },
     {
       "album": {
+        "name": "CHROME CASKETZ 2: ARMAGEDDON",
+        "url": "https://open.spotify.com/album/5CRA4YBDWDTCd8wf3WfMwE"
+      },
+      "artists": [
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        },
+        {
+          "name": "Terror Reid",
+          "url": "https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90201,
+      "name": "CHEVY THANG",
+      "url": "https://open.spotify.com/track/3d9995PfvymUKvnYB9a2CK"
+    },
+    {
+      "album": {
         "name": "We Love You Tecca 2",
         "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
       },
@@ -3344,6 +3366,24 @@
     },
     {
       "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/6POfEs8ynjGPawz4fQmGXB"
+      },
+      "artists": [
+        {
+          "name": "KAMAUU",
+          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/6PZWlB5Z54Ap2FmeUnooMq"
+    },
+    {
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/7G39CE2qnxYcW5H2rPlP1K"
       },
@@ -3515,7 +3555,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 139689,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/1Hn5A1HounSuEAxZyRB6EL"
@@ -3599,6 +3639,24 @@
       "duration_ms": 191777,
       "name": "DENY (feat. Tyla Yaweh)",
       "url": "https://open.spotify.com/track/2OGfK0dPkEdALPwrmYXrVE"
+    },
+    {
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/1BDtfB8bRHcCaXk0ck9uXW"
+      },
+      "artists": [
+        {
+          "name": "Foggieraw",
+          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96923,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/5eArWUVDGcjO9zNXMYguEW"
     },
     {
       "album": {
@@ -4870,6 +4928,36 @@
     },
     {
       "album": {
+        "name": "All Is Yellow",
+        "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+        },
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        },
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185538,
+      "name": "Fly Away (with Sheck Wes, Ski Mask The Slump God & JID)",
+      "url": "https://open.spotify.com/track/4FdlNCxdyXOXKIZNKcIqAs"
+    },
+    {
+      "album": {
         "name": "TM",
         "url": "https://open.spotify.com/album/0EICXG4UBIAUOKVlfBGipA"
       },
@@ -5359,7 +5447,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 249652,
       "name": "Go",
       "url": "https://open.spotify.com/track/0ygId62cVyJWm8ZKaHX8CV"
@@ -5699,7 +5787,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 208928,
       "name": "Half Doin Dope (with BabyTron feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/1J0O3RqCeoMcXbayQZDZXL"
@@ -6399,7 +6487,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 147222,
       "name": "I Hate When Girls Die",
       "url": "https://open.spotify.com/track/0zn4FzMODiFeyb974FfjGF"
@@ -7273,6 +7361,24 @@
       "duration_ms": 205320,
       "name": "Kingdom Hearts Key (ft. redveil)",
       "url": "https://open.spotify.com/track/0VA5FzFlysCcSG1IdOkhUb"
+    },
+    {
+      "album": {
+        "name": "kingtut",
+        "url": "https://open.spotify.com/album/77nZkr98snqK9S5KN7gxiA"
+      },
+      "artists": [
+        {
+          "name": "Hardrock",
+          "url": "https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172878,
+      "name": "kingtut",
+      "url": "https://open.spotify.com/track/5o3hsfebCXZUBb5OzsFqyK"
     },
     {
       "album": {
@@ -8613,7 +8719,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 192395,
       "name": "More To Life",
       "url": "https://open.spotify.com/track/0hFrmp87FvmGmmvjWNfX38"
@@ -8781,7 +8887,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 121536,
       "name": "MULTIMILLIONAIRE (w/ Trippie Redd & Odetari)",
       "url": "https://open.spotify.com/track/4JC0XKvkodYsMurv5khQWI"
@@ -9187,7 +9293,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 192989,
       "name": "Nightmare on Peachtree Street (feat. Freddie Dredd)",
       "url": "https://open.spotify.com/track/1iSNk5qM7aScyTL3508KQ6"
@@ -10726,6 +10832,24 @@
     },
     {
       "album": {
+        "name": "PUBLIC ENEMY",
+        "url": "https://open.spotify.com/album/5tEkagXNVRvtmVsJhtffEF"
+      },
+      "artists": [
+        {
+          "name": "YOUNGX777",
+          "url": "https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100331,
+      "name": "PUBLIC ENEMY",
+      "url": "https://open.spotify.com/track/2o6BLsA9CBZyFpSZYhqMHN"
+    },
+    {
+      "album": {
         "name": "Luv 4 Rent",
         "url": "https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT"
       },
@@ -10803,6 +10927,24 @@
       "duration_ms": 125004,
       "name": "PURPLE HEART (w/ Don Toliver)",
       "url": "https://open.spotify.com/track/7DRF9F5YevI4SjsKDpZsBw"
+    },
+    {
+      "album": {
+        "name": "Purple In My Lungs",
+        "url": "https://open.spotify.com/album/0GiyVKWmPiSgE3X6HZ9JkV"
+      },
+      "artists": [
+        {
+          "name": "MAKAVELIGODD",
+          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126140,
+      "name": "Purple In My Lungs",
+      "url": "https://open.spotify.com/track/57QWhhqJC89JZKhpAc91pO"
     },
     {
       "album": {
@@ -11514,6 +11656,24 @@
     },
     {
       "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/0m1FGRxM3wEaIxEgqSW5Oq"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147173,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/13xFz6KanQ08XiE6348CWu"
+    },
+    {
+      "album": {
         "name": "UNGHETTO WORLD",
         "url": "https://open.spotify.com/album/6jHh5VXQZmkIPJ2p5VNmuk"
       },
@@ -11641,7 +11801,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 179568,
       "name": "SHINE (with SiR)",
       "url": "https://open.spotify.com/track/79cQ8BxtYKsb8nAp8LfcZB"
@@ -11667,6 +11827,24 @@
       "duration_ms": 136216,
       "name": "SHOTS! (WITH DENZEL CURRY)",
       "url": "https://open.spotify.com/track/01Oeql41yunzKzHyIfBWmr"
+    },
+    {
+      "album": {
+        "name": "SHOWER SONG",
+        "url": "https://open.spotify.com/album/7zJhaYDSEPb6mybiV8sdl5"
+      },
+      "artists": [
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163133,
+      "name": "SHOWER SONG",
+      "url": "https://open.spotify.com/track/4mD2clo4xlw6aCk5LC7dsi"
     },
     {
       "album": {
@@ -12285,7 +12463,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 107688,
       "name": "Spirit Gun!",
       "url": "https://open.spotify.com/track/1MaFK0KE936MDrYD3iHoDx"
@@ -13950,6 +14128,28 @@
     },
     {
       "album": {
+        "name": "CHROME CASKETZ 2: ARMAGEDDON",
+        "url": "https://open.spotify.com/album/5CRA4YBDWDTCd8wf3WfMwE"
+      },
+      "artists": [
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        },
+        {
+          "name": "Terror Reid",
+          "url": "https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110028,
+      "name": "VENGEANCE",
+      "url": "https://open.spotify.com/track/4P88AEbGk4J1kEHpfsMVNq"
+    },
+    {
+      "album": {
         "name": "Studio Monk (Deluxe Edition)",
         "url": "https://open.spotify.com/album/60x0v6jgbl5230aYZJF9t6"
       },
@@ -14677,6 +14877,32 @@
       "duration_ms": 126690,
       "name": "Wish Me Well",
       "url": "https://open.spotify.com/track/3gxUM5HDA73QknqWde0tyC"
+    },
+    {
+      "album": {
+        "name": "All Is Yellow",
+        "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+        },
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        },
+        {
+          "name": "6 Dogs",
+          "url": "https://open.spotify.com/artist/3Ps6le7tj5BdNtdnfNgTU4"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131351,
+      "name": "With The Fish (with $not & 6 Dogs)",
+      "url": "https://open.spotify.com/track/2SHuJzIrFTWNkHjOTPwyxX"
     },
     {
       "album": {

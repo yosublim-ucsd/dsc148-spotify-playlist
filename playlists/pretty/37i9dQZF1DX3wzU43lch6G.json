@@ -1,12 +1,12 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 103106,
+  "num_followers": 103086,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWYwYWUwNGY4MmI2YzQyMDkyNjVkNWYxM2JkY2YxZTNjYWVlYTBk",
+  "snapshot_id": "MCwwODU0MzY0OGRmNzg4NmZkYzY3NWMzMzJjNDVkMDJlNzBlNWU5Yjll",
   "tracks": [
     {
       "added_at": "2023-11-16 21:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-11-16 21:00:00",
       "album": {
+        "name": "Sustum",
+        "url": "https://open.spotify.com/album/05N4dJk53uBVvH27EAzkNS"
+      },
+      "artists": [
+        {
+          "name": "Evdeki Saat",
+          "url": "https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Sustum",
+      "url": "https://open.spotify.com/track/6IXDRacqWKBzee5DgsLRVf"
+    },
+    {
+      "added_at": "2023-11-16 21:00:00",
+      "album": {
         "name": "Aldat\u0131ld\u0131k",
         "url": "https://open.spotify.com/album/2wr1SwiuPVivHQ2S7Bnv9s"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 186947,
       "name": "Aldat\u0131ld\u0131k",
       "url": "https://open.spotify.com/track/5E1gxNXvUGvpvUECz54xXm"
-    },
-    {
-      "added_at": "2023-11-16 21:00:00",
-      "album": {
-        "name": "Sustum",
-        "url": "https://open.spotify.com/album/05N4dJk53uBVvH27EAzkNS"
-      },
-      "artists": [
-        {
-          "name": "Evdeki Saat",
-          "url": "https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "Sustum",
-      "url": "https://open.spotify.com/track/6IXDRacqWKBzee5DgsLRVf"
     },
     {
       "added_at": "2023-11-16 21:00:00",

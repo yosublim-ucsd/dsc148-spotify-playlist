@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B?si=Mf0WWcWCRnCBrWwOEWZGTQ"> Highlyy </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,983 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,990 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [DIIISAPPEAR](https://open.spotify.com/track/5m6xEduQ35dXndkEnHcneo) | [Joyce Olong](https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj) | [DIIISAPPEAR](https://open.spotify.com/album/4Ykqzp0X4dgI8iGpMUeQAl) | 3:16 |
 | 80 | [Temptation \(Crazy\)](https://open.spotify.com/track/17dakSfRLaNL4T8GbqakLi) | [Di'Ja](https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd), [Lyandra](https://open.spotify.com/artist/5QD1WYJJuEmR4i1zjYeEq2) | [Aphropop Vol.2](https://open.spotify.com/album/6B62GpntVq9fI3EXBd9byX) | 2:36 |
 
-Snapshot ID: `MCw3YTdhNGY3YjI2NTJkNTYwZGU4ZGIwNDUzMTJhZDllZTY0ZTZjM2M5`
+Snapshot ID: `MCwyNjNkNDhmZjFjMWMzZjZlNWFmNDlhMmVjODkzM2ZiOGVjODM5OTkz`

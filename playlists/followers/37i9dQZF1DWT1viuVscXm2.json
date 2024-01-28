@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 898839,
+  "2024-01-28": 902315,
   "date_first_scraped": "2022-01-02",
   "description": "y de la buena!",
   "name": "Esto es Cumbia",
@@ -3108,6 +3108,28 @@
     },
     {
       "album": {
+        "name": "MYA LIVE P5: Si T\u00fa La Ves",
+        "url": "https://open.spotify.com/album/6odcBxR8P9lK9NiV0h7MJF"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190583,
+      "name": "MYA LIVE P5: Si T\u00fa La Ves",
+      "url": "https://open.spotify.com/track/02EOwlpC4Oo8n9FYSYYkjH"
+    },
+    {
+      "album": {
         "name": "Negra Caderona",
         "url": "https://open.spotify.com/album/6eKerB5MySf2QISRA5AYJy"
       },
@@ -3685,7 +3707,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 203300,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/6ENJrMm3Kxj6pZKGGB3DLI"
@@ -4819,7 +4841,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 153665,
       "name": "TU AMOR | E7",
       "url": "https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0"
@@ -5147,6 +5169,36 @@
       "duration_ms": 224512,
       "name": "Una Mujer Como T\u00fa",
       "url": "https://open.spotify.com/track/5jbT4IeQCi00OjuQGFxQIA"
+    },
+    {
+      "album": {
+        "name": "Una Noche Contigo (Remix)",
+        "url": "https://open.spotify.com/album/6pmDtvsP7z9oqgSxgBVR8y"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Una Noche Contigo - Remix",
+      "url": "https://open.spotify.com/track/0Xbz33Mggb4NV2A1vabjJx"
     },
     {
       "album": {

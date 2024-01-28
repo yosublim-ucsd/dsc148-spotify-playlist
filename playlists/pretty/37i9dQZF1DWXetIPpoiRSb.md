@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Kygo & Ava Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,141 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,957 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [Backseat Driver](https://open.spotify.com/track/22nzFhzs8OUwmfXx2SdBwm) | [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Backseat Driver](https://open.spotify.com/album/6uP6H8cvDYJUzKV1hoi0cT) | 2:55 |
 | 80 | [Live For Me](https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY) | 3:31 |
 
-Snapshot ID: `MCw1YWY5NzE0YmQ5YTM5MjkwNTYxMWE2ZmYzNTlmYWE0ZTQ4YzM3ZGE1`
+Snapshot ID: `MCxhODI1NWY2YTVkMTE2Yzg5OGE2OGFmZGE1YzFiY2U2MDUyZTIxODAy`

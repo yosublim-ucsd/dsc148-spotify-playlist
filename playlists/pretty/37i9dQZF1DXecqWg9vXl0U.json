@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring ke onda.",
-  "num_followers": 48181,
+  "num_followers": 48190,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzgwZWEwNGZiZDMxNTEzOGI4NzUwMmQ4NDg3ZWRhNmM4NDk3YTBk",
+  "snapshot_id": "MCw3MWU1NjVmMTEzODI5MzI5ZDdkNDc5ZDNhMTg2ODI3NWRlNDNjZTU4",
   "tracks": [
     {
       "added_at": "2023-09-26 17:16:04",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
+        "name": "L\u00e1grimas En Ti",
+        "url": "https://open.spotify.com/album/0YtEoVStzQw32uPbc2r1TX"
+      },
+      "artists": [
+        {
+          "name": "San Charbel",
+          "url": "https://open.spotify.com/artist/0rJoQxx72uqZsnNZAiaJUx"
+        }
+      ],
+      "duration_ms": 112125,
+      "name": "L\u00e1grimas En Ti",
+      "url": "https://open.spotify.com/track/2YF57m1rHbYffFdiaCw7rM"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
         "name": "las calles de mi ciudad",
         "url": "https://open.spotify.com/album/2UA7eyMtgoFEqkR4U3eQ1S"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 189187,
       "name": "las calles de mi ciudad",
       "url": "https://open.spotify.com/track/5wPC3oJqHkrFqnpO5Hk2q9"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
-        "name": "L\u00e1grimas En Ti",
-        "url": "https://open.spotify.com/album/0YtEoVStzQw32uPbc2r1TX"
-      },
-      "artists": [
-        {
-          "name": "San Charbel",
-          "url": "https://open.spotify.com/artist/0rJoQxx72uqZsnNZAiaJUx"
-        }
-      ],
-      "duration_ms": 112125,
-      "name": "L\u00e1grimas En Ti",
-      "url": "https://open.spotify.com/track/2YF57m1rHbYffFdiaCw7rM"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
-        "name": "FXNGXR",
-        "url": "https://open.spotify.com/album/7kTQ92tSlXOrEsffKLmX9P"
-      },
-      "artists": [
-        {
-          "name": "Angie",
-          "url": "https://open.spotify.com/artist/615oAk69RrUfmOboNfMRIm"
-        }
-      ],
-      "duration_ms": 171689,
-      "name": "FXNGXR",
-      "url": "https://open.spotify.com/track/4muxcrszgWJZZJBaqqq8mc"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 188560,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
+        "name": "FXNGXR",
+        "url": "https://open.spotify.com/album/7kTQ92tSlXOrEsffKLmX9P"
+      },
+      "artists": [
+        {
+          "name": "Angie",
+          "url": "https://open.spotify.com/artist/615oAk69RrUfmOboNfMRIm"
+        }
+      ],
+      "duration_ms": 171689,
+      "name": "FXNGXR",
+      "url": "https://open.spotify.com/track/4muxcrszgWJZZJBaqqq8mc"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP"
+      },
+      "artists": [
+        {
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+        }
+      ],
+      "duration_ms": 242951,
+      "name": "Antes de Marcharte",
+      "url": "https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
         "name": "A Veces",
         "url": "https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP"
-      },
-      "artists": [
-        {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
-        }
-      ],
-      "duration_ms": 242951,
-      "name": "Antes de Marcharte",
-      "url": "https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
         "name": "Ojos",
         "url": "https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX"
       },
@@ -827,26 +827,6 @@
       "duration_ms": 222099,
       "name": "Ojos",
       "url": "https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
-        "name": "for good (with RENEE)",
-        "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 182481,
-      "name": "for good (with RENEE)",
-      "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -871,22 +851,22 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
-        "name": "Instintos",
-        "url": "https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES"
+        "name": "for good (with RENEE)",
+        "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
       },
       "artists": [
         {
-          "name": "Mec\u00e1nico",
-          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
         },
         {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 208723,
-      "name": "Instintos",
-      "url": "https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6"
+      "duration_ms": 182481,
+      "name": "for good (with RENEE)",
+      "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -903,6 +883,26 @@
       "duration_ms": 169919,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/24s5zi3ZFqtahbQTXCvG4k"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
+        "name": "Instintos",
+        "url": "https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES"
+      },
+      "artists": [
+        {
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        },
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        }
+      ],
+      "duration_ms": 208723,
+      "name": "Instintos",
+      "url": "https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
-        "name": "Lo Que Siento",
-        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
-      },
-      "artists": [
-        {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
-        }
-      ],
-      "duration_ms": 199672,
-      "name": "El After",
-      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
         "name": "Colores crom\u00e1ticos",
         "url": "https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 255524,
       "name": "Colores crom\u00e1ticos",
       "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
+        "name": "Lo Que Siento",
+        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        }
+      ],
+      "duration_ms": 199672,
+      "name": "El After",
+      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
+        "name": "Siempre Hago Lo Que Quiero",
+        "url": "https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        },
+        {
+          "name": "Duplat",
+          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Siempre Hago Lo Que Quiero",
+      "url": "https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
         "name": "Lenguaje Universal",
         "url": "https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO"
       },
@@ -1055,6 +1075,22 @@
       "duration_ms": 180400,
       "name": "Lenguaje Universal",
       "url": "https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
+        "name": "Me Gustas Tanto",
+        "url": "https://open.spotify.com/album/4yu56CARvuE68AsJmOBVcg"
+      },
+      "artists": [
+        {
+          "name": "KNYA",
+          "url": "https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz"
+        }
+      ],
+      "duration_ms": 182406,
+      "name": "Me Gustas Tanto",
+      "url": "https://open.spotify.com/track/3JdNambMOshHLbYus6cGqZ"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -1087,42 +1123,6 @@
       "duration_ms": 180236,
       "name": "2000nunca",
       "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
-        "name": "Siempre Hago Lo Que Quiero",
-        "url": "https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt"
-      },
-      "artists": [
-        {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
-        },
-        {
-          "name": "Duplat",
-          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Siempre Hago Lo Que Quiero",
-      "url": "https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
-        "name": "Me Gustas Tanto",
-        "url": "https://open.spotify.com/album/4yu56CARvuE68AsJmOBVcg"
-      },
-      "artists": [
-        {
-          "name": "KNYA",
-          "url": "https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz"
-        }
-      ],
-      "duration_ms": 182406,
-      "name": "Me Gustas Tanto",
-      "url": "https://open.spotify.com/track/3JdNambMOshHLbYus6cGqZ"
     },
     {
       "added_at": "2023-09-26 17:16:04",

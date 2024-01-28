@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Lenin Ramírez
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,329 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,014 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Se Fue La Luz](https://open.spotify.com/track/4vcXQe6AmEnMkOYs39Zn0E) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj), [Conjunto Nuevo Amanecer](https://open.spotify.com/artist/5PYRJEcuO4GwG3LEiowJQc) | [Se Fue La Luz](https://open.spotify.com/album/2grrnz3owoGgPHMiLIBle3) | 2:42 |
 | 50 | [Kalashnikov](https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Kalashnikov](https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY) | 2:09 |
 
-Snapshot ID: `MCxkOTYwNzc3ZDdjMjM2NWUzZTM5OWUwM2Y2ZWVlZjU5Y2Y4NDM5ZTdj`
+Snapshot ID: `MCxiMWRlMWM3NTI3YjM0YmQ2YTczMDEwZWNlMzliNWUyMDdjNjBiMWFi`

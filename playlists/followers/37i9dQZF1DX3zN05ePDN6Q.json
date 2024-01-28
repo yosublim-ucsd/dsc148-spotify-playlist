@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 54787,
+  "2024-01-28": 54843,
   "date_first_scraped": "2022-03-24",
   "description": "boom bap renasce todo dia. Foto: Parteum",
   "name": "Boom Rap",
@@ -443,7 +443,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 194000,
       "name": "A Volta por Baixo",
       "url": "https://open.spotify.com/track/7Eh9GH4NJJWYEPZ51tjF9y"
@@ -1751,7 +1751,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 145116,
       "name": "Cor",
       "url": "https://open.spotify.com/track/09dbxhklCWCqEJ1qq4iwJx"
@@ -4592,6 +4592,24 @@
     },
     {
       "album": {
+        "name": "Met\u00e1stase",
+        "url": "https://open.spotify.com/album/7qmmR3mm8ZehGEjsrZgK84"
+      },
+      "artists": [
+        {
+          "name": "Nocivo Shomon",
+          "url": "https://open.spotify.com/artist/7fVTW9oFlXKy9tzG15tcof"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "Met\u00e1stase",
+      "url": "https://open.spotify.com/track/6j0OYPUv0LOtxCjxuUVzgJ"
+    },
+    {
+      "album": {
         "name": "Meu Normal",
         "url": "https://open.spotify.com/album/2weeGPBIiW9SumEt3V3IIC"
       },
@@ -4691,6 +4709,32 @@
       "duration_ms": 315480,
       "name": "Mon\u00f3logo",
       "url": "https://open.spotify.com/track/12gq7G3vaOaqmgenVBkl9O"
+    },
+    {
+      "album": {
+        "name": "Mon\u00f3tono",
+        "url": "https://open.spotify.com/album/2uIIUBxjyYf32zqJmyu6yM"
+      },
+      "artists": [
+        {
+          "name": "Slim Rimografia",
+          "url": "https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp"
+        },
+        {
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
+        },
+        {
+          "name": "Dj Gio Marx",
+          "url": "https://open.spotify.com/artist/1YRniNbPYLrfiIKgRMD6ab"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220602,
+      "name": "Mon\u00f3tono",
+      "url": "https://open.spotify.com/track/0qYvzyTcrzD8x2mBIbNYNZ"
     },
     {
       "album": {
@@ -6050,6 +6094,24 @@
     },
     {
       "album": {
+        "name": "Picnic",
+        "url": "https://open.spotify.com/album/0PESmW2KYvyXKs0qSyGVWd"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187882,
+      "name": "Picnic",
+      "url": "https://open.spotify.com/track/2Ebgkhh7tri5n4kyHsmXDx"
+    },
+    {
+      "album": {
         "name": "Pierrot e Colombina",
         "url": "https://open.spotify.com/album/3zDetmF1o7NQ3S5W3Y93uC"
       },
@@ -6065,6 +6127,24 @@
       "duration_ms": 239077,
       "name": "Pierrot e Colombina",
       "url": "https://open.spotify.com/track/61wEE7jNq4DM1Dw9IcLksw"
+    },
+    {
+      "album": {
+        "name": "Poli Sci (Linhas De Peso)",
+        "url": "https://open.spotify.com/album/0x7JxMACS8alYr9f9YvopS"
+      },
+      "artists": [
+        {
+          "name": "Parteum",
+          "url": "https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171952,
+      "name": "Poli Sci (Linhas De Peso)",
+      "url": "https://open.spotify.com/track/4LcDTrUNslaxrivCahTZ5i"
     },
     {
       "album": {
@@ -6647,7 +6727,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 207567,
       "name": "Ratos",
       "url": "https://open.spotify.com/track/10S906YyU6w0vNPd369S7N"
@@ -8813,7 +8893,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 114285,
       "name": "Voc\u00ea N\u00e3o \u00c9 Mais Crian\u00e7a",
       "url": "https://open.spotify.com/track/5T4sMKJyVMs0CH1f3iIYLv"

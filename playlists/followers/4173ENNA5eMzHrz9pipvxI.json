@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 120953,
+  "2024-01-28": 120918,
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Sander van Doorn x Jantine",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: SEVENN x Space Motion",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -1801,7 +1801,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 201875,
       "name": "Bala",
       "url": "https://open.spotify.com/track/6pxs9VHwNBOxQZQKx37rox"
@@ -1867,6 +1867,28 @@
       "duration_ms": 168775,
       "name": "BANG!",
       "url": "https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N"
+    },
+    {
+      "album": {
+        "name": "Banger AI",
+        "url": "https://open.spotify.com/album/5JXzkL1HTMNQFZbJ9LAuwL"
+      },
+      "artists": [
+        {
+          "name": "Mairee",
+          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
+        },
+        {
+          "name": "Lionar",
+          "url": "https://open.spotify.com/artist/5JI5dFF3bRFbTHczPmII7a"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186521,
+      "name": "Banger AI",
+      "url": "https://open.spotify.com/track/1oHCmnQ9UgPil93CebVNNL"
     },
     {
       "album": {
@@ -2113,7 +2135,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 240000,
       "name": "Best Friend (Never Let Me Down) [BLR Mix]",
       "url": "https://open.spotify.com/track/7a2ZxSSWQRyK7jihIni8PW"
@@ -2171,7 +2193,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 136727,
       "name": "Best Thing",
       "url": "https://open.spotify.com/track/3ZDpJbRqKXrk3tL4kHBHpT"
@@ -3875,7 +3897,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 144232,
       "name": "Classics Never Die",
       "url": "https://open.spotify.com/track/1uH6WvAo3x0OywxfFuLJnL"
@@ -4337,6 +4359,24 @@
       "duration_ms": 226153,
       "name": "Confession",
       "url": "https://open.spotify.com/track/1Fdmd4daZbxfEh9aAXuDDK"
+    },
+    {
+      "album": {
+        "name": "Confidence",
+        "url": "https://open.spotify.com/album/3Sx0g9PG4PSHAGAqWJlgap"
+      },
+      "artists": [
+        {
+          "name": "Joseph Jones",
+          "url": "https://open.spotify.com/artist/43CUY8BlYXOzEmUsMwemfE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142767,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/0aA9YW5z1er3G0HQwhb4Ri"
     },
     {
       "album": {
@@ -5114,6 +5154,28 @@
     },
     {
       "album": {
+        "name": "Delete Time",
+        "url": "https://open.spotify.com/album/3Rn97fqjZ6Nj5ECntOaDJB"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "Delete Time",
+      "url": "https://open.spotify.com/track/0IEmWo1Opdmir15BejC5Yt"
+    },
+    {
+      "album": {
         "name": "Delilah",
         "url": "https://open.spotify.com/album/46Y6kHcAnFMTGPZQO15WP7"
       },
@@ -5367,7 +5429,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 222857,
       "name": "Disko Demon",
       "url": "https://open.spotify.com/track/0ZV9USjXxHVbLo4aelw5o3"
@@ -5791,7 +5853,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 149793,
       "name": "Down Under",
       "url": "https://open.spotify.com/track/0OOr1PsZZcTFhp6KXO9Oa7"
@@ -6175,7 +6237,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 128250,
       "name": "Du Bon Dieu",
       "url": "https://open.spotify.com/track/2w5IGNyAb9nrdur5YN60jz"
@@ -8569,7 +8631,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 149280,
       "name": "Good God (Sunnery James & Ryan Marciano Remix)",
       "url": "https://open.spotify.com/track/1aXf9GykmY5jprsRYAlrL6"
@@ -9433,7 +9495,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 135000,
       "name": "Honest",
       "url": "https://open.spotify.com/track/0oTNlCTyhIqa3my7tOPPeG"
@@ -10237,7 +10299,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 185144,
       "name": "I Surrender",
       "url": "https://open.spotify.com/track/660utC16unn1ThXISuL0oy"
@@ -10784,6 +10846,28 @@
     },
     {
       "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/3FKhVkpnKuHZkNaiEdfFOq"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Bad Nonno",
+          "url": "https://open.spotify.com/artist/1QDt44k077TE9rFciokBSU"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172820,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/3t71NTwNK5bjIXYfNZuZND"
+    },
+    {
+      "album": {
         "name": "Intercept",
         "url": "https://open.spotify.com/album/7GeuUfYbGxse63cTE0DqlL"
       },
@@ -11185,7 +11269,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 121116,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/1iUSupGwxSegT8RlPDJ3Cr"
@@ -12209,6 +12293,28 @@
       "duration_ms": 149032,
       "name": "Left & Right (MXRCVRY Remix)",
       "url": "https://open.spotify.com/track/3dHucT6ZXMhHQNqRW7AkKb"
+    },
+    {
+      "album": {
+        "name": "Left Right",
+        "url": "https://open.spotify.com/album/6ty39Pp0W6HlmHJDV8wVky"
+      },
+      "artists": [
+        {
+          "name": "ASHER SWISSA",
+          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
+        },
+        {
+          "name": "Lian Gold",
+          "url": "https://open.spotify.com/artist/5NgAdRVBzrOLKRQ8RRvBx4"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251612,
+      "name": "Left Right",
+      "url": "https://open.spotify.com/track/2lcxuqUUnRjIwHpzKrHwTC"
     },
     {
       "album": {
@@ -15130,6 +15236,36 @@
     },
     {
       "album": {
+        "name": "Mr. Vain (with DJ Terry)",
+        "url": "https://open.spotify.com/album/5E9uuqtbdmgcAHtXlHXvCz"
+      },
+      "artists": [
+        {
+          "name": "DJ Kuba",
+          "url": "https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX"
+        },
+        {
+          "name": "Neitan",
+          "url": "https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG"
+        },
+        {
+          "name": "Terri B!",
+          "url": "https://open.spotify.com/artist/6eke2ECTHhJgqVsArc8t5z"
+        },
+        {
+          "name": "DJ Terry",
+          "url": "https://open.spotify.com/artist/49vRRr0jNCPO794NATNr3j"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Mr. Vain (with DJ Terry)",
+      "url": "https://open.spotify.com/track/1t7Wpml2HHWE5M1k7JPpYj"
+    },
+    {
+      "album": {
         "name": "Mumba EP",
         "url": "https://open.spotify.com/album/4UnaLZo7HpgSX8MoZpOSYZ"
       },
@@ -15779,7 +15915,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 120888,
       "name": "Never Give Up (feat. NAJA)",
       "url": "https://open.spotify.com/track/1s9fEvvnuUoBcXWhySnakZ"
@@ -16621,6 +16757,24 @@
       "duration_ms": 162187,
       "name": "Off Switch (with Elle Vee)",
       "url": "https://open.spotify.com/track/3bB7B7mvhRjmREvfO3MokW"
+    },
+    {
+      "album": {
+        "name": "Oh",
+        "url": "https://open.spotify.com/album/3B8iOjNnDZHxn4J9jo5FMb"
+      },
+      "artists": [
+        {
+          "name": "Hi_Tack",
+          "url": "https://open.spotify.com/artist/6N1W9mAlncCKbqBHgBR2bN"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129313,
+      "name": "Oh",
+      "url": "https://open.spotify.com/track/3Fzdo7mEcPpAKXCVg2edP5"
     },
     {
       "album": {
@@ -21179,7 +21333,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 204444,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/1MCykbR6IJsiaXuZ1VTN6j"
@@ -22408,6 +22562,24 @@
     },
     {
       "album": {
+        "name": "The Godfather",
+        "url": "https://open.spotify.com/album/1kgqmG2Y5uOxUnHaIJy1To"
+      },
+      "artists": [
+        {
+          "name": "Kura",
+          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163821,
+      "name": "The Godfather",
+      "url": "https://open.spotify.com/track/7J6iR4yW6lD0p7e9KJ5hzk"
+    },
+    {
+      "album": {
         "name": "The Money",
         "url": "https://open.spotify.com/album/6Q0rMs4HnMc6Ly2uQ28EyK"
       },
@@ -23217,6 +23389,24 @@
       "duration_ms": 145941,
       "name": "Time - Sevek Remix",
       "url": "https://open.spotify.com/track/5grzVCT8ZFzWGBLZQs5dkH"
+    },
+    {
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/761EmE26ty1yb1nD9UQSVz"
+      },
+      "artists": [
+        {
+          "name": "Agatino Romero",
+          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/6jl8gDM9NRcK59MflJP0Qg"
     },
     {
       "album": {
@@ -24446,6 +24636,24 @@
     },
     {
       "album": {
+        "name": "We Enter",
+        "url": "https://open.spotify.com/album/43EyY47jMzKbeq1pHKaGx0"
+      },
+      "artists": [
+        {
+          "name": "Jake Tarry",
+          "url": "https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159330,
+      "name": "We Enter",
+      "url": "https://open.spotify.com/track/7qIpx1KiZc6KBY6zeOJe3T"
+    },
+    {
+      "album": {
         "name": "We Make It Pop",
         "url": "https://open.spotify.com/album/1xSKqKJAjZseHGYhBnVXgw"
       },
@@ -24685,6 +24893,28 @@
       "duration_ms": 195937,
       "name": "When I See It (feat. The Vic)",
       "url": "https://open.spotify.com/track/0ZNO8GpuqnGWSJAzqo3Dso"
+    },
+    {
+      "album": {
+        "name": "When I Wake Up",
+        "url": "https://open.spotify.com/album/5pTuebKZdnDlMTRhUidinz"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Skinny Days",
+          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143100,
+      "name": "When I Wake Up",
+      "url": "https://open.spotify.com/track/3YDjGm8NogZVxOp9aHA4MZ"
     },
     {
       "album": {

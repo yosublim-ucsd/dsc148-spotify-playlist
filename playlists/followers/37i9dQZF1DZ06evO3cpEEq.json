@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 326,
+  "2024-01-28": 327,
   "date_first_scraped": "2023-06-18",
   "description": "This is Felicity Urquhart. The essential tracks, all in one playlist.",
   "name": "This Is Felicity Urquhart",
@@ -207,7 +207,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 228102,
       "name": "Birdsong",
       "url": "https://open.spotify.com/track/3532coqxjmEALDjsVwbNUd"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 217828,
       "name": "Hopscotch Sunday",
       "url": "https://open.spotify.com/track/6wZXs9O8fBFoDAe9Oer5nG"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 202546,
       "name": "My Life",
       "url": "https://open.spotify.com/track/6sT3IWrMqInRfsJjRndV5d"
@@ -1289,7 +1289,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 156632,
       "name": "Strawberry Footprints",
       "url": "https://open.spotify.com/track/1GgjyW2LWQ7Nw5a892i8c1"
@@ -1621,7 +1621,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 194418,
       "name": "Unsteady (Ever Since You're Gone)",
       "url": "https://open.spotify.com/track/5tlaJqthyn8tKphTAHPQ4n"

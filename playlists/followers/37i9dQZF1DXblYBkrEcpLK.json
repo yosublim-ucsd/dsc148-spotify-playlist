@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 151785,
+  "2024-01-28": 151847,
   "date_first_scraped": "2022-06-10",
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: \u30d2\u30b0\u30c1\u30a2\u30a4 (Ai Higuchi)",
   "name": "EQUAL Anime",
@@ -367,7 +367,7 @@
     {
       "album": {
         "name": "ALPINA",
-        "url": "https://open.spotify.com/album/0KDG0kHNqTVGjVuKy1VVtf"
+        "url": "https://open.spotify.com/album/5wHjh13gAnG0GNRQBMxZ6N"
       },
       "artists": [
         {
@@ -378,6 +378,24 @@
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 246406,
+      "name": "ALPINA",
+      "url": "https://open.spotify.com/track/1dNkg3YNIu6GfXXPKLaZ1n"
+    },
+    {
+      "album": {
+        "name": "ALPINA",
+        "url": "https://open.spotify.com/album/0KDG0kHNqTVGjVuKy1VVtf"
+      },
+      "artists": [
+        {
+          "name": "Uz:ME",
+          "url": "https://open.spotify.com/artist/4qg2BxtKMMtm10kaCj6bNt"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-27",
       "duration_ms": 246406,
       "name": "ALPINA",
       "url": "https://open.spotify.com/track/2wjOBd1d4arwtLJSHNMxfO"
@@ -2649,10 +2667,28 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 235433,
       "name": "Itterasshai",
       "url": "https://open.spotify.com/track/6hfkQdov7M8th5y7hjVcwB"
+    },
+    {
+      "album": {
+        "name": "Miseisenjo",
+        "url": "https://open.spotify.com/album/4UMbQQ1A6zjnWzu4Kzr7tl"
+      },
+      "artists": [
+        {
+          "name": "Higuchi Ai",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237366,
+      "name": "Itterasshai",
+      "url": "https://open.spotify.com/track/5qD2Jt4i2btdL1Fg4XOe20"
     },
     {
       "album": {
@@ -5471,6 +5507,24 @@
       "duration_ms": 274978,
       "name": "TRIGGER",
       "url": "https://open.spotify.com/track/0zzfORvHh4ak5BscgpdRqF"
+    },
+    {
+      "album": {
+        "name": "Tsuyokute Yowakute Itoshikute",
+        "url": "https://open.spotify.com/album/06jM2JKRUkEZzLD3scqrK4"
+      },
+      "artists": [
+        {
+          "name": "\u6771 \u65e5\u4e07\u51db(CV:\u5bae\u672c\u4f91\u82bd)",
+          "url": "https://open.spotify.com/artist/50FzsVkuotnAKa9rSK3emX"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193093,
+      "name": "Tsuyokute Yowakute Itoshikute",
+      "url": "https://open.spotify.com/track/6K3VLQ6FhwGubGX39fBrGC"
     },
     {
       "album": {
@@ -9361,7 +9415,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 193093,
       "name": "\u5f37\u304f\u3066\u5f31\u304f\u3066\u611b\u3057\u304f\u3066",
       "url": "https://open.spotify.com/track/6kD7getOuHszFfqzksdtaq"

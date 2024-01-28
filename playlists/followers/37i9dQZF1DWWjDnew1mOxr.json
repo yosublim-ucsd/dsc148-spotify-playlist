@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 117867,
+  "2024-01-28": 117902,
   "date_first_scraped": "2023-01-15",
-  "description": "Boss music for boss people. Cover: The Vaccines ",
+  "description": "Boss music for boss people. Cover: Red Rum Club",
   "name": "Proper Belters",
   "tracks": [
     {
@@ -449,7 +449,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 202761,
       "name": "Bring Us Down",
       "url": "https://open.spotify.com/track/3h2RARW0N82V81Del0u88T"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 211701,
       "name": "CHEMICALS",
       "url": "https://open.spotify.com/track/3bGnizZtJfcuY6ZOoaSMZI"
@@ -687,6 +687,24 @@
       "duration_ms": 206805,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/3fyIwr5p1pZ4uPpUrGETLN"
+    },
+    {
+      "album": {
+        "name": "daisy chains",
+        "url": "https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh"
+      },
+      "artists": [
+        {
+          "name": "SPIDER",
+          "url": "https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165657,
+      "name": "daisy chains",
+      "url": "https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf"
     },
     {
       "album": {
@@ -777,6 +795,24 @@
       "duration_ms": 184900,
       "name": "Diet Punk",
       "url": "https://open.spotify.com/track/1rg7OEOIihiD8Z9axh67lc"
+    },
+    {
+      "album": {
+        "name": "Pick-Up Full Of Pink Carnations",
+        "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229165,
+      "name": "Discount De Kooning (Last One Standing)",
+      "url": "https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB"
     },
     {
       "album": {
@@ -1007,7 +1043,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 206247,
       "name": "Fading Away",
       "url": "https://open.spotify.com/track/6Nyv3dj56fcQPKsNityR0p"
@@ -1180,6 +1216,24 @@
     },
     {
       "album": {
+        "name": "Fred Perry Girl",
+        "url": "https://open.spotify.com/album/29s0Za6wwubjxwHh0PSI4d"
+      },
+      "artists": [
+        {
+          "name": "Andy Goodwin",
+          "url": "https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179750,
+      "name": "Fred Perry Girl",
+      "url": "https://open.spotify.com/track/3lcGMZrsd3fqWjcX8Nmkog"
+    },
+    {
+      "album": {
         "name": "Fuck Me (I Didn\u2019t Know How To Say)",
         "url": "https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW"
       },
@@ -1231,6 +1285,24 @@
       "duration_ms": 189360,
       "name": "Getting Started",
       "url": "https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx"
+    },
+    {
+      "album": {
+        "name": "Girl From NYC",
+        "url": "https://open.spotify.com/album/7DVBWjUq7ZEPeWONK3CLkD"
+      },
+      "artists": [
+        {
+          "name": "Br\u00f2geal",
+          "url": "https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138747,
+      "name": "Girl From NYC",
+      "url": "https://open.spotify.com/track/5gDsBfQ1NcP9IvYScLHxgk"
     },
     {
       "album": {
@@ -1450,6 +1522,24 @@
     },
     {
       "album": {
+        "name": "Hiding & Reading",
+        "url": "https://open.spotify.com/album/1kGZ5GfyjsH1v4ZiGVWjj6"
+      },
+      "artists": [
+        {
+          "name": "The Hubbards",
+          "url": "https://open.spotify.com/artist/5qU07JDAP3mSTpsbRcEbYD"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178556,
+      "name": "Hiding & Reading",
+      "url": "https://open.spotify.com/track/07LMjoua9eEWxfLxqZ7PUQ"
+    },
+    {
+      "album": {
         "name": "Hippodrome",
         "url": "https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc"
       },
@@ -1483,6 +1573,24 @@
       "duration_ms": 152714,
       "name": "Hold Yr Horses",
       "url": "https://open.spotify.com/track/5gKekPljHBtFvuQcaMOnii"
+    },
+    {
+      "album": {
+        "name": "Hole In My Home",
+        "url": "https://open.spotify.com/album/34tNowCNTUsSGaschFdiom"
+      },
+      "artists": [
+        {
+          "name": "Red Rum Club",
+          "url": "https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212106,
+      "name": "Hole In My Home",
+      "url": "https://open.spotify.com/track/3rU2oFrE4c4ZO9K9WgCdSv"
     },
     {
       "album": {
@@ -1587,7 +1695,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 137319,
       "name": "Hummus and Pitta",
       "url": "https://open.spotify.com/track/7n6biK1HTuLfsNZv7LVFZa"
@@ -1663,6 +1771,24 @@
       "duration_ms": 209640,
       "name": "I Never Wanted to Be Alone (F**king Feelings)",
       "url": "https://open.spotify.com/track/749rpRQcFBB6PNwJ2dPOFJ"
+    },
+    {
+      "album": {
+        "name": "I Want You To Know Me",
+        "url": "https://open.spotify.com/album/4ybZv7O8powGQPEhTK9cD0"
+      },
+      "artists": [
+        {
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217040,
+      "name": "I Want You To Know Me",
+      "url": "https://open.spotify.com/track/2lIl1LDlcnAoYnDOE6Xngi"
     },
     {
       "album": {
@@ -1843,7 +1969,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 227145,
       "name": "Isn't",
       "url": "https://open.spotify.com/track/5kD48GFbfBOUEXMXyfhnWr"
@@ -2117,7 +2243,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 184831,
       "name": "Lap Around The Sun",
       "url": "https://open.spotify.com/track/7iC546xP2SSf2Ws3fKeG9X"
@@ -2207,7 +2333,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 174829,
       "name": "little victories",
       "url": "https://open.spotify.com/track/18YO4r2xH4uayIv4qKwsTl"
@@ -2225,7 +2351,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 227307,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/7ckvoom2YHogDgVDHG2sF3"
@@ -2279,7 +2405,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 159586,
       "name": "Lovers Come and Lovers Go",
       "url": "https://open.spotify.com/track/0JWafcuc5QarfXoWSs5MLO"
@@ -2355,6 +2481,24 @@
       "duration_ms": 210975,
       "name": "Money",
       "url": "https://open.spotify.com/track/7KllccAHAj97nQPqBlQouV"
+    },
+    {
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/2S3f8p625yCqGyzvUJsOZF"
+      },
+      "artists": [
+        {
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167631,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/0anZnOvUTenWvjeSru2Neo"
     },
     {
       "album": {
@@ -2589,6 +2733,24 @@
       "duration_ms": 146865,
       "name": "Propaganda",
       "url": "https://open.spotify.com/track/7ySX1sgdBBCzw7WacxCYiS"
+    },
+    {
+      "album": {
+        "name": "Puppy",
+        "url": "https://open.spotify.com/album/0qjJwpkIck9Qj5IoGdHnT2"
+      },
+      "artists": [
+        {
+          "name": "L'objectif",
+          "url": "https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195767,
+      "name": "Puppy",
+      "url": "https://open.spotify.com/track/6lKPZsX33G9uTJ3mDU3pVB"
     },
     {
       "album": {
@@ -3381,7 +3543,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 177143,
       "name": "We'll Be Alreet",
       "url": "https://open.spotify.com/track/5wqlwFwHMCrVo4bKSjM17X"
@@ -3457,6 +3619,24 @@
       "duration_ms": 178533,
       "name": "What a Shame",
       "url": "https://open.spotify.com/track/1qTV9vY7G87NEC8waJtT0B"
+    },
+    {
+      "album": {
+        "name": "What I Need",
+        "url": "https://open.spotify.com/album/73AorMSyzl5wb3bNUarv5D"
+      },
+      "artists": [
+        {
+          "name": "Dylan John Thomas",
+          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251012,
+      "name": "What I Need",
+      "url": "https://open.spotify.com/track/2FiV08wbbr1flVkPKKnbYn"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 461327,
+  "2024-01-28": 461975,
   "date_first_scraped": "2023-07-29",
-  "description": "It's murder on the dancefloor  \ud83c\udf46 #fyp\n",
+  "description": "#fyp\n",
   "name": "t'as la ref ?",
   "tracks": [
     {
@@ -523,7 +523,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 199853,
       "name": "Back It Up",
       "url": "https://open.spotify.com/track/2LKRpB6YTz0MUqbhJoqNCg"
@@ -549,6 +549,28 @@
       "duration_ms": 182200,
       "name": "Bad Boy (feat. Aya Nakamura)",
       "url": "https://open.spotify.com/track/4FwHUD2B60DxYyhEBhhcWW"
+    },
+    {
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/4gmDO1TYRG3Bt280pZ6uU7"
+      },
+      "artists": [
+        {
+          "name": "T2R",
+          "url": "https://open.spotify.com/artist/6aH4CaxRV988XUNLVSi1dZ"
+        },
+        {
+          "name": "Minissia",
+          "url": "https://open.spotify.com/artist/7grHO7fIKR0mfOLo5BEFBl"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206628,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/512swpQtxBYlonwnDZLSsz"
     },
     {
       "album": {
@@ -686,6 +708,24 @@
     },
     {
       "album": {
+        "name": "Bling-Bang-Bang-Born",
+        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168135,
+      "name": "Bling-Bang-Bang-Born",
+      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
+    },
+    {
+      "album": {
         "name": "Liens du 100",
         "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
       },
@@ -697,7 +737,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 176746,
       "name": "Bolide allemand",
       "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
@@ -791,7 +831,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 177190,
       "name": "Brief me",
       "url": "https://open.spotify.com/track/4q9VkXjm2SkPqeudSFs0Ut"
@@ -1209,7 +1249,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 188973,
       "name": "Ch\u00e9rie",
       "url": "https://open.spotify.com/track/0GTO1m0ZbLNvsl6EAMXpj7"
@@ -1261,6 +1301,24 @@
       "duration_ms": 145233,
       "name": "Clandestina - JVSTIN Remix",
       "url": "https://open.spotify.com/track/1VutwUjHPwEELxHkwdhMkz"
+    },
+    {
+      "album": {
+        "name": "Meet The Lilithz",
+        "url": "https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5"
+      },
+      "artists": [
+        {
+          "name": "Lilithzplug",
+          "url": "https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126481,
+      "name": "CLEARED - Remix",
+      "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
     },
     {
       "album": {
@@ -1912,6 +1970,24 @@
     },
     {
       "album": {
+        "name": "racine carr\u00e9e",
+        "url": "https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213933,
+      "name": "Formidable",
+      "url": "https://open.spotify.com/track/2AMysGXOe0zzZJMtH3Nizb"
+    },
+    {
+      "album": {
         "name": "Racine Carr\u00e9e (Standard US Version)",
         "url": "https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj"
       },
@@ -1941,7 +2017,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 214677,
       "name": "Formidable",
       "url": "https://open.spotify.com/track/4YKSyNLSB3CBvHYsjU0EEb"
@@ -2175,6 +2251,24 @@
       "duration_ms": 176786,
       "name": "GTB",
       "url": "https://open.spotify.com/track/2t0sbwkCuLSS8LKFanHEZu"
+    },
+    {
+      "album": {
+        "name": "I Am Armando - Armando Reloaded",
+        "url": "https://open.spotify.com/album/0kv3Rm7PODqJBQaVJiezuB"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205186,
+      "name": "Guantanamera (She's Hot)",
+      "url": "https://open.spotify.com/track/7CijDWxEEbKq76O5rpyCEN"
     },
     {
       "album": {
@@ -2749,7 +2843,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 162840,
       "name": "Laboratoire",
       "url": "https://open.spotify.com/track/24JrEVHDfohup0ypuOV7os"
@@ -3155,7 +3249,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 142746,
       "name": "Mahmouma",
       "url": "https://open.spotify.com/track/3miLA8urFK78rpi4sHb5te"
@@ -3177,6 +3271,28 @@
       "duration_ms": 248986,
       "name": "Makeba",
       "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
+    },
+    {
+      "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233240,
+      "name": "MAMI WATA",
+      "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
     },
     {
       "album": {
@@ -3361,7 +3477,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 180506,
       "name": "Miskine",
       "url": "https://open.spotify.com/track/1oAJcJ1Wqg5lkHHTdRGOld"
@@ -4100,6 +4216,24 @@
     },
     {
       "album": {
+        "name": "Praise Jah In The Moonlight",
+        "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
+      },
+      "artists": [
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263040,
+      "name": "Praise Jah In The Moonlight",
+      "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
+    },
+    {
+      "album": {
         "name": "QUARTIERS NORD",
         "url": "https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC"
       },
@@ -4136,6 +4270,24 @@
     },
     {
       "album": {
+        "name": "P\u00e9pita",
+        "url": "https://open.spotify.com/album/2U7gKPRzSpbRVfGLkMAPzi"
+      },
+      "artists": [
+        {
+          "name": "Emkal",
+          "url": "https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216263,
+      "name": "P\u00e9pita",
+      "url": "https://open.spotify.com/track/7mdQSTiE9yW0w8QQa6YkOd"
+    },
+    {
+      "album": {
         "name": "quel type de vibe?",
         "url": "https://open.spotify.com/album/5jNKxTnotbnb8azNL0jm3l"
       },
@@ -4147,7 +4299,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 116435,
       "name": "quel type de vibe?",
       "url": "https://open.spotify.com/track/7iospt7wmXY3BdoHsK666Y"
@@ -4187,6 +4339,24 @@
       "duration_ms": 161346,
       "name": "Rihanna",
       "url": "https://open.spotify.com/track/73RQVlMExXaeOi6mnlz3Bb"
+    },
+    {
+      "album": {
+        "name": "Rome",
+        "url": "https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST"
+      },
+      "artists": [
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161213,
+      "name": "Rome",
+      "url": "https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX"
     },
     {
       "album": {
@@ -4237,7 +4407,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 176086,
       "name": "Roule un autre - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7FKZix4pk2qf4SZVMOYich"
@@ -4295,7 +4465,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 256026,
       "name": "Sans contrefa\u00e7on - Mix 2001",
       "url": "https://open.spotify.com/track/4lKQlYJdzLPKBc0XEDBdrq"
@@ -4386,6 +4556,24 @@
     },
     {
       "album": {
+        "name": "Serrure #3",
+        "url": "https://open.spotify.com/album/2RajtZ8lghhX1rxA3Q6hN8"
+      },
+      "artists": [
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Serrure #3",
+      "url": "https://open.spotify.com/track/1OORbnoHMf1Iy7HVa2n521"
+    },
+    {
+      "album": {
         "name": "Seum",
         "url": "https://open.spotify.com/album/0i9vEK8VPSeoaIZEwMp2Z7"
       },
@@ -4401,6 +4589,24 @@
       "duration_ms": 228013,
       "name": "Seum",
       "url": "https://open.spotify.com/track/4Dmb0ujGWYjKElrRikPvPI"
+    },
+    {
+      "album": {
+        "name": "Voulez-vous coucher avec moi",
+        "url": "https://open.spotify.com/album/0U9XYTYWK68OPNuO9UJwjM"
+      },
+      "artists": [
+        {
+          "name": "MadeInParis",
+          "url": "https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110466,
+      "name": "Sex (Interlude)",
+      "url": "https://open.spotify.com/track/78XZ8m1aqtiFXyHTV4aRRb"
     },
     {
       "album": {
@@ -4577,6 +4783,28 @@
       "duration_ms": 258693,
       "name": "Smooth Operator - Single Version",
       "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+    },
+    {
+      "album": {
+        "name": "Journal intime",
+        "url": "https://open.spotify.com/album/7h7MqzSJ1wEXpjHzkevE6h"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Jizo Djohn.P",
+          "url": "https://open.spotify.com/artist/5bmxexFqUzFm4nWg6EUYjE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357973,
+      "name": "Soir\u00e9e parisienne (feat. Jizo Djohn.P)",
+      "url": "https://open.spotify.com/track/77jfFVugaz41IwpWqoXsUh"
     },
     {
       "album": {
@@ -5027,7 +5255,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"

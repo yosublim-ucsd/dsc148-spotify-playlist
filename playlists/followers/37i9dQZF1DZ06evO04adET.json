@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 552736,
+  "2024-01-28": 553362,
   "date_first_scraped": "2023-08-09",
   "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
   "name": "This Is Natanael Cano",
@@ -671,7 +671,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 154575,
       "name": "F1",
       "url": "https://open.spotify.com/track/6bf11IBgO6k84wRuTSbci2"
@@ -1111,7 +1111,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 200109,
       "name": "Periquito",
       "url": "https://open.spotify.com/track/1rf9ED0kgnSWMpUxQj9XVX"

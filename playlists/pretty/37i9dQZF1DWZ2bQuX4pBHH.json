@@ -1,12 +1,12 @@
 {
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
-  "num_followers": 237101,
+  "num_followers": 237010,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGMwZGQ0MDY3YWI2ZjU4NTI1YmUxODVjNjVhMzAwMDY3NzM0OTUy",
+  "snapshot_id": "MCw1MGFkNGQ4ODc0OTBlMThmMmRiYmZiNjZkMWYyZGFmYjg5NTBjNmZl",
   "tracks": [
     {
       "added_at": "2023-12-21 04:47:58",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-12-21 04:47:58",
       "album": {
+        "name": "Best of Bollywood Singers - Shaan & Vinod Rathod",
+        "url": "https://open.spotify.com/album/6sR5oeKyogQ6L7wOzO5U3t"
+      },
+      "artists": [
+        {
+          "name": "Vinod Rathod",
+          "url": "https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd"
+        }
+      ],
+      "duration_ms": 383375,
+      "name": "Koi Na Koi Chahiye - From \"Deewana\"",
+      "url": "https://open.spotify.com/track/2SIi6cD1f9VrDnd5MUSpIG"
+    },
+    {
+      "added_at": "2023-12-21 04:47:58",
+      "album": {
         "name": "Yes Boss (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 266066,
       "name": "Ek Din Aap",
       "url": "https://open.spotify.com/track/5fq7CGNYZKJm38HbLwMg9h"
-    },
-    {
-      "added_at": "2023-12-21 04:47:58",
-      "album": {
-        "name": "Best of Bollywood Singers - Shaan & Vinod Rathod",
-        "url": "https://open.spotify.com/album/6sR5oeKyogQ6L7wOzO5U3t"
-      },
-      "artists": [
-        {
-          "name": "Vinod Rathod",
-          "url": "https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd"
-        }
-      ],
-      "duration_ms": 383375,
-      "name": "Koi Na Koi Chahiye - From \"Deewana\"",
-      "url": "https://open.spotify.com/track/2SIi6cD1f9VrDnd5MUSpIG"
     },
     {
       "added_at": "2023-12-21 04:47:58",
@@ -1072,17 +1072,13 @@
           "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
         },
         {
-          "name": "Abhijeet",
-          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
         }
       ],
-      "duration_ms": 303733,
-      "name": "Aur Kya",
-      "url": "https://open.spotify.com/track/3p2n1UTPBc5RdQY9X94Xpg"
+      "duration_ms": 240613,
+      "name": "Phir Bhi Dil Hai Hindustani",
+      "url": "https://open.spotify.com/track/1WX7IIJnUgpDaweRefaih0"
     },
     {
       "added_at": "2023-12-21 04:47:58",

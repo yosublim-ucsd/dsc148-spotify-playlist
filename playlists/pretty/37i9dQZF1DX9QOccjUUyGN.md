@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Jamal KMG
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,656 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,651 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ASTRO](https://open.spotify.com/track/6edJSs6bDIY4Az54T7xnJg) | [Jamal KMG](https://open.spotify.com/artist/2DF0255bTz07OvXhrT8gaA), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Makalister](https://open.spotify.com/artist/1RoerHIsbQo1h0V8KpznKV) | [Você Sabe](https://open.spotify.com/album/0WFpVc9LXQGqopVTZQKJ1N) | 2:34 |
 | 2 | [Doente de Amor](https://open.spotify.com/track/3Xh7yWSduG8Jl3CMYeAeAk) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T) | [Doente de Amor](https://open.spotify.com/album/01aK5tuEUfVgI7BEi7H2Mx) | 2:01 |
 | 3 | [Labirinto](https://open.spotify.com/track/0LJGq2TQMW5WwnD9AuPRuV) | [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Labirinto](https://open.spotify.com/album/1VqFCDs5i27SB11y6aPs8Y) | 3:04 |
-| 4 | [Longe De Tudo](https://open.spotify.com/track/3SHCqNlSfw0InxeC3jQCcT) | [Vitello](https://open.spotify.com/artist/4rNwKeUXrCettTXzyoY62O), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp) | [Longe De Tudo](https://open.spotify.com/album/2RZl5uBpTcWe7xBw7L0Sge) | 2:10 |
+| 4 | [Longe De Tudo](https://open.spotify.com/track/3SHCqNlSfw0InxeC3jQCcT) | [Vitello](https://open.spotify.com/artist/4rNwKeUXrCettTXzyoY62O), [Buccy](https://open.spotify.com/artist/0j4YvpvQYySHXXpVgqyPqT) | [Longe De Tudo](https://open.spotify.com/album/2RZl5uBpTcWe7xBw7L0Sge) | 2:10 |
 | 5 | [Só Olha \- Ao Vivo](https://open.spotify.com/track/26OAbs5hQcTnIlk9nmo4FY) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Guias e Ondas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72) | 3:40 |
 | 6 | [EVA \(Papatracks\#10\)](https://open.spotify.com/track/7jvyEmuz1N8PjECPbryNbX) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [EVA \(Papatracks\#10\)](https://open.spotify.com/album/3t7FwRaT9UzpFOVrw5ryPp) | 2:47 |
 | 7 | [BROCOLIZ](https://open.spotify.com/track/5P7ASG9SpcvYCjaJI3tANl) | [Jamal KMG](https://open.spotify.com/artist/2DF0255bTz07OvXhrT8gaA), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Klyn](https://open.spotify.com/artist/01dmDF9czGp6mlNKFeD1cm) | [Brocoliz](https://open.spotify.com/album/5bCxWBSBhWj7JSKephFOFv) | 2:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Fora Da Lei](https://open.spotify.com/track/25BYiqy7bqjLGuZammSgo1) | [Tito JV](https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao), [Almir delas](https://open.spotify.com/artist/09SqCWuz8I7uQWDpEgtfLu) | [Fora Da Lei](https://open.spotify.com/album/3zSA2HaW5dkplmPfWoX0Zu) | 2:12 |
 | 75 | [Manga Rosa](https://open.spotify.com/track/1ebggv45NciH0NoULmBVQC) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Manga Rosa](https://open.spotify.com/album/2G7cF9AfONIGOsOus4TawG) | 2:13 |
 
-Snapshot ID: `MCwxNTJjOTMwNzUyNjAyZWU5N2Y5ZGJhN2MyNjMzMTlmMjFhM2VmMzJh`
+Snapshot ID: `MCxiMmJlODc2M2UyYjg5YzYxMWVjNDFjYzgxNzgyYmE0MDAyODllODVk`

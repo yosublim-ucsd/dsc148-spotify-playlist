@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 3835,
+  "2024-01-28": 3838,
   "date_first_scraped": "2022-05-13",
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
   "name": "Alma",
@@ -185,6 +185,28 @@
       "duration_ms": 165000,
       "name": "Bad Bongo",
       "url": "https://open.spotify.com/track/20va3aCizGTofhvgwm6cKN"
+    },
+    {
+      "album": {
+        "name": "Baila Le Digo",
+        "url": "https://open.spotify.com/album/4DmYftMx2At8OLlO7oxk0B"
+      },
+      "artists": [
+        {
+          "name": "Ky William",
+          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
+        },
+        {
+          "name": "James Poole",
+          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139702,
+      "name": "Baila Le Digo",
+      "url": "https://open.spotify.com/track/464um5m6FnOIXD9s7P64OH"
     },
     {
       "album": {
@@ -560,6 +582,32 @@
     },
     {
       "album": {
+        "name": "CARNET (Cloonee Remix)",
+        "url": "https://open.spotify.com/album/5gaFlogR1ipqBuLBKlDw3E"
+      },
+      "artists": [
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225587,
+      "name": "CARNET - Cloonee Remix",
+      "url": "https://open.spotify.com/track/5d1T4dmSTUoI5GR9R9CJYL"
+    },
+    {
+      "album": {
         "name": "Catuca",
         "url": "https://open.spotify.com/album/2erxOE5ZUFhe00qlGVEacP"
       },
@@ -631,6 +679,28 @@
       "duration_ms": 152523,
       "name": "CKULO",
       "url": "https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg"
+    },
+    {
+      "album": {
+        "name": "Claro",
+        "url": "https://open.spotify.com/album/2l44I0N3YeYrsIGzPx1C5Q"
+      },
+      "artists": [
+        {
+          "name": "Teko",
+          "url": "https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS"
+        },
+        {
+          "name": "De Qualite",
+          "url": "https://open.spotify.com/artist/1SPYqFTZFY8jLNLRUimSAu"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158740,
+      "name": "Claro",
+      "url": "https://open.spotify.com/track/4KnVflzNO186OAqsc3AbLn"
     },
     {
       "album": {
@@ -908,6 +978,24 @@
     },
     {
       "album": {
+        "name": "Dinga",
+        "url": "https://open.spotify.com/album/58Fy2a3VQzlkh9UksCzMuF"
+      },
+      "artists": [
+        {
+          "name": "Bezh",
+          "url": "https://open.spotify.com/artist/3bUaHi6OSggmW7F34yl3qH"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162239,
+      "name": "Dinga",
+      "url": "https://open.spotify.com/track/64FRBEzBmSI12EyFY72J02"
+    },
+    {
+      "album": {
         "name": "Dirty Spanish",
         "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
       },
@@ -1049,7 +1137,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 160000,
       "name": "Esta Pegao",
       "url": "https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK"
@@ -1275,7 +1363,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 197209,
       "name": "Gitrox",
       "url": "https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ"
@@ -1399,10 +1487,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 187500,
       "name": "Jaleo",
       "url": "https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm"
+    },
+    {
+      "album": {
+        "name": "Kuba",
+        "url": "https://open.spotify.com/album/1oWdKRkVfVM1dIyTCXQbP9"
+      },
+      "artists": [
+        {
+          "name": "Jakblauz",
+          "url": "https://open.spotify.com/artist/0jBf3A4p8Cv5UovH9LPDvg"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157230,
+      "name": "Kuba",
+      "url": "https://open.spotify.com/track/7Mv6lRAkJt83BSqBLDDTY1"
     },
     {
       "album": {
@@ -1731,7 +1837,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 201720,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM"
@@ -2380,6 +2486,28 @@
     },
     {
       "album": {
+        "name": "Que Pasa",
+        "url": "https://open.spotify.com/album/0m7ydDnuLaqCUAKVZ4iRMi"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Que Pasa",
+      "url": "https://open.spotify.com/track/1VZBZKvJIrmX69vTg9xWyv"
+    },
+    {
+      "album": {
         "name": "Quema Quema",
         "url": "https://open.spotify.com/album/5NRmxv41JcMSN7ZznTEVAZ"
       },
@@ -2569,7 +2697,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 152362,
       "name": "Sandia",
       "url": "https://open.spotify.com/track/0nVv2VpTQg8P52xdnEGrmu"
@@ -2961,7 +3089,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 226889,
       "name": "Ulalala",
       "url": "https://open.spotify.com/track/4EMLCdqC0BXgpr42Op96a0"

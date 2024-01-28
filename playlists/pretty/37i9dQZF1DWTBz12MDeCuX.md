@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Whitey en vogue, Ikkimel
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,684 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,826 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 17 | [normal](https://open.spotify.com/track/5QsZqmhSpAWdR5Hmu1BFDi) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [normal](https://open.spotify.com/album/48Ivdrxr3F5t8BjRw8SR3o) | 2:31 |
 | 18 | [Zoom Call](https://open.spotify.com/track/1m4juqM2fqfLfKMYKUJB0h) | [Whitey en vogue](https://open.spotify.com/artist/1ColxjJZKheMce3o7giApM), [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [Zoom Call](https://open.spotify.com/album/3YghzNFQ9wo5Cc0q5FGdFI) | 1:56 |
 | 19 | [I Wouldn't Mind](https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Fall out of Line](https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn) | 3:20 |
-| 20 | [Liebeskummer](https://open.spotify.com/track/1eAUy61bG1MNZZJtlfP6wa) | [ÆNY\-1](https://open.spotify.com/artist/1fYMBClShcFvuFBd9dJZZX), [Eight Λ Eleven](https://open.spotify.com/artist/14piLP687bcwtQTCOg6D6l) | [Liebeskummer](https://open.spotify.com/album/6YntWuRGglNCTStVy6zTKZ) | 2:50 |
+| 20 | [Liebeskummer](https://open.spotify.com/track/7C8a12RqYQ1bUygz5C7BCp) | [ÆNY\-1](https://open.spotify.com/artist/1fYMBClShcFvuFBd9dJZZX), [Eight Λ Eleven](https://open.spotify.com/artist/14piLP687bcwtQTCOg6D6l) | [Liebeskummer](https://open.spotify.com/album/1VDtzGJ3Y2FO9bcitZv666) | 2:50 |
 | 21 | [Mein Herz](https://open.spotify.com/track/5k77C1MvcmyvZeNViBJkji) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [Mein Herz](https://open.spotify.com/album/1OVBKljWDrQrzgaDNaajXm) | 2:34 |
 | 22 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 |
 | 23 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [draußen essen spät schlafen 💤](https://open.spotify.com/track/5I9vAmNTBXXWBtKmjnBSGS) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Tage vor 2000](https://open.spotify.com/album/2sc27jZbMMb8XdwKiZj9Jk) | 2:35 |
 | 100 | [immatrikuliert](https://open.spotify.com/track/0IQN1UjYkpP8I36Z7HrNfC) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [immatrikuliert](https://open.spotify.com/album/5YW9rJ154VueLdV3n7v0rW) | 2:24 |
 
-Snapshot ID: `MCwzZDIyNWI5NWYzYTlmZTdmYWYzYTdmODJmOTkxYTkxZGY2NDQzM2My`
+Snapshot ID: `MCwwMzNkMTk3MmFlM2RiMzY5MjEwYTBlZmU2MGY3NWE1MTdiYmY2MDQ0`

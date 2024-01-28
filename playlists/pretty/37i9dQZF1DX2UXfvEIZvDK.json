@@ -1,12 +1,12 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 725611,
+  "num_followers": 725564,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWI3MTMwN2MyMjg2Mjc1OWIwZjQ0OTBhODM5ZDE4ZGRlMjVjZmFj",
+  "snapshot_id": "MCxmYzc5ZmVjNmY5ODVjNGNlY2JmYTExNzM1YWJmYTEzYjEzMmVhYzBi",
   "tracks": [
     {
       "added_at": "2023-09-24 19:18:19",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-09-24 19:18:19",
       "album": {
-        "name": "Into The Wild (Music For The Motion Picture)",
-        "url": "https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX"
-      },
-      "artists": [
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        }
-      ],
-      "duration_ms": 236306,
-      "name": "Society",
-      "url": "https://open.spotify.com/track/3bHhUEOTIbezeZ856R0BX5"
-    },
-    {
-      "added_at": "2023-09-24 19:18:19",
-      "album": {
         "name": "Siamese Dream (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
       },
@@ -447,18 +431,18 @@
     {
       "added_at": "2023-09-24 19:18:19",
       "album": {
-        "name": "Foo Fighters",
-        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
+        "name": "Into The Wild (Music For The Motion Picture)",
+        "url": "https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
         }
       ],
-      "duration_ms": 132840,
-      "name": "Big Me",
-      "url": "https://open.spotify.com/track/6pb5BBnIM5IM7R1cqag6rE"
+      "duration_ms": 236306,
+      "name": "Society",
+      "url": "https://open.spotify.com/track/3bHhUEOTIbezeZ856R0BX5"
     },
     {
       "added_at": "2023-09-24 19:18:19",
@@ -475,6 +459,22 @@
       "duration_ms": 219866,
       "name": "Every Morning",
       "url": "https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5"
+    },
+    {
+      "added_at": "2023-09-24 19:18:19",
+      "album": {
+        "name": "Foo Fighters",
+        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 132840,
+      "name": "Big Me",
+      "url": "https://open.spotify.com/track/6pb5BBnIM5IM7R1cqag6rE"
     },
     {
       "added_at": "2023-09-24 19:18:19",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-09-24 19:18:19",
       "album": {
-        "name": "Noel Gallagher's High Flying Birds",
-        "url": "https://open.spotify.com/album/4g2nrjzWOuEtZHtiBZrf1U"
-      },
-      "artists": [
-        {
-          "name": "Noel Gallagher's High Flying Birds",
-          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
-        }
-      ],
-      "duration_ms": 249106,
-      "name": "If I Had A Gun\u2026",
-      "url": "https://open.spotify.com/track/4i4ArYpqtsA3MJ1k0o2dxq"
-    },
-    {
-      "added_at": "2023-09-24 19:18:19",
-      "album": {
         "name": "Title Of Record (Expanded Edition)",
         "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 363800,
       "name": "Take A Picture",
       "url": "https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm"
+    },
+    {
+      "added_at": "2023-09-24 19:18:19",
+      "album": {
+        "name": "Noel Gallagher's High Flying Birds",
+        "url": "https://open.spotify.com/album/4g2nrjzWOuEtZHtiBZrf1U"
+      },
+      "artists": [
+        {
+          "name": "Noel Gallagher's High Flying Birds",
+          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
+        }
+      ],
+      "duration_ms": 249106,
+      "name": "If I Had A Gun\u2026",
+      "url": "https://open.spotify.com/track/4i4ArYpqtsA3MJ1k0o2dxq"
     },
     {
       "added_at": "2023-09-24 19:18:19",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-09-24 19:18:19",
       "album": {
-        "name": "Slipway Fires",
-        "url": "https://open.spotify.com/album/00OgN62HrBU8XAeo1k6oCI"
-      },
-      "artists": [
-        {
-          "name": "Razorlight",
-          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Wire To Wire",
-      "url": "https://open.spotify.com/track/5YFEqFTmsbqyamFvFA7Wdc"
-    },
-    {
-      "added_at": "2023-09-24 19:18:19",
-      "album": {
         "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
         "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 263746,
       "name": "Talk Tonight - Remastered",
       "url": "https://open.spotify.com/track/2LNV0347QKt4AHxRSfCBij"
+    },
+    {
+      "added_at": "2023-09-24 19:18:19",
+      "album": {
+        "name": "Slipway Fires",
+        "url": "https://open.spotify.com/album/00OgN62HrBU8XAeo1k6oCI"
+      },
+      "artists": [
+        {
+          "name": "Razorlight",
+          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Wire To Wire",
+      "url": "https://open.spotify.com/track/5YFEqFTmsbqyamFvFA7Wdc"
     },
     {
       "added_at": "2023-09-24 19:18:19",

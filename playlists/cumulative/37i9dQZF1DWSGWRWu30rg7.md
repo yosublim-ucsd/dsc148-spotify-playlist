@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Audrey Vanessa
 
-2,998 songs - 7 day 15 hr 55 min
+2,999 songs - 7 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,8 +384,8 @@
 | [BOYS CRY](https://open.spotify.com/track/5CyCdKGxmTcGlkDtrQcDB4) | [Slep](https://open.spotify.com/artist/1zTCdARR5kThwA4B4m1SHh) | [BOYS CRY](https://open.spotify.com/album/47uLv5z6sSYT2fml5CWgdh) | 2:19 | 2023-02-23 | 2023-03-10 |
 | [Brand New Start](https://open.spotify.com/track/1rdwCkgu1pfhq8Wjgf0dQK) | [Audrey Wijaya](https://open.spotify.com/artist/3cFklqULuJyxg1gu8u2XlW) | [Brand New Start](https://open.spotify.com/album/4NxoMClHaEaNo9UaxyeJX1) | 4:09 | 2023-11-09 | 2023-12-01 |
 | [Bread and Honey](https://open.spotify.com/track/3ij72X66C6pD4MJsvMFQns) | [El Driex](https://open.spotify.com/artist/2QkT9TJQp8VQfG4XFS4moK) | [Bread and Honey](https://open.spotify.com/album/7GaOggA4damVdpn2dPZPyO) | 3:25 | 2023-04-13 | 2023-04-28 |
-| [Break The Silence \- English Version](https://open.spotify.com/track/4vQCz5hbLgj5HkmAqopHps) | [Audrey Vanessa](https://open.spotify.com/artist/70cqnOZWrVt9sxZzBX3E8f) | [Break The Silence \(Indonesia Version\)](https://open.spotify.com/album/27OWtD1B5EOAVq7sBfEZgO) | 3:48 | 2024-01-25 |  |
-| [Break The Silence \- Indonesia Version](https://open.spotify.com/track/2T3pycj5laBVctruGZUtC7) | [Audrey Vanessa](https://open.spotify.com/artist/70cqnOZWrVt9sxZzBX3E8f) | [Break The Silence \(Indonesia Version\)](https://open.spotify.com/album/27OWtD1B5EOAVq7sBfEZgO) | 3:48 | 2024-01-25 |  |
+| [Break The Silence \- English Version](https://open.spotify.com/track/4vQCz5hbLgj5HkmAqopHps) | [Audrey Vanessa](https://open.spotify.com/artist/0wKI7n8o1gQRhMV8R5nGSA) | [Break The Silence](https://open.spotify.com/album/27OWtD1B5EOAVq7sBfEZgO) | 3:48 | 2024-01-25 |  |
+| [Break The Silence \- Indonesia Version](https://open.spotify.com/track/2T3pycj5laBVctruGZUtC7) | [Audrey Vanessa](https://open.spotify.com/artist/0wKI7n8o1gQRhMV8R5nGSA) | [Break The Silence](https://open.spotify.com/album/27OWtD1B5EOAVq7sBfEZgO) | 3:48 | 2024-01-25 |  |
 | [Break Up](https://open.spotify.com/track/1WjPGpNYrum8QZWGeMuU2p) | [Tiya Rima](https://open.spotify.com/artist/2soMazDNpF3MhIRDhrvD5v) | [Break Up](https://open.spotify.com/album/70CDWVLNECkv1kmNUS19EN) | 2:50 | 2023-08-31 | 2023-09-20 |
 | [Breakthrough](https://open.spotify.com/track/2X4NipyDEsEkdbGwdDFupo) | [PRIADHS](https://open.spotify.com/artist/5PZdTJ5YIxjJAjbgdPS4gN), [OVRDZE](https://open.spotify.com/artist/6Hqvy1kgY5p0IdCSh9BmL5) | [Breakthrough/Never Ending](https://open.spotify.com/album/6BTG4qjQEJT598K2PeqxUN) | 4:18 | 2023-08-11 | 2023-08-18 |
 | [Breathe Out\. Breathe In.](https://open.spotify.com/track/5GkYi8C0Yj4DF2xtR9CTxp) | [Cécil](https://open.spotify.com/artist/6QDXcWajSnknD4eHHviIg0) | [Breathe Out\. Breathe In.](https://open.spotify.com/album/7AlrfoBtj9YRZ9nLaKDZKt) | 3:02 | 2022-11-03 | 2022-12-01 |
@@ -1771,7 +1771,7 @@
 | [Morbid Attachment](https://open.spotify.com/track/1Tgcw4KOHkfQswGCX8piAS) | [zzetboii](https://open.spotify.com/artist/4TxHNzSBQfhMyGsGZYwaAn), [Clara Priscilla](https://open.spotify.com/artist/5wxtJlzy31J5DwTDWPEQqy) | [Morbid Attachment](https://open.spotify.com/album/5Z7Ex1ScNwBlNwxcjvhkuP) | 2:43 | 2022-05-05 | 2022-05-20 |
 | [MORE](https://open.spotify.com/track/2dTdASMeVQHC9txzYmQDXm) | [ABÉ](https://open.spotify.com/artist/150IvOIVvRlF7JX3sjKcc7) | [MORE](https://open.spotify.com/album/4D4qIez0Of6N0XpdlTdm8i) | 2:27 | 2023-05-11 | 2023-06-02 |
 | [More Than I Know](https://open.spotify.com/track/1c0IXf9HVeTyt6OFxKSpaR) | [Radinal](https://open.spotify.com/artist/7jtCIfuhpqFUoFax7JE0Jg) | [More Than I Know](https://open.spotify.com/album/6aTcUvccWCCmZfNIRXwBo8) | 3:48 | 2023-01-12 | 2023-01-27 |
-| [More Than Words](https://open.spotify.com/track/2eKpL9l5eVVrWWjXeDD1hc) | [Reynold Andriano](https://open.spotify.com/artist/7BN9gkAKpPEAE6K2Ji3Wtb) | [More Than Words](https://open.spotify.com/album/7xUklwskrg39ercUp1R0Hn) | 3:15 | 2024-01-25 |  |
+| [More Than Words](https://open.spotify.com/track/2eKpL9l5eVVrWWjXeDD1hc) | [Reynold Andriano](https://open.spotify.com/artist/6lj8XqQNsW82WtQ0bJAw67) | [More Than Words](https://open.spotify.com/album/7xUklwskrg39ercUp1R0Hn) | 3:15 | 2024-01-25 |  |
 | [Motion](https://open.spotify.com/track/0VjRIxjA45j70FcF7kppUJ) | [mmmarkos!](https://open.spotify.com/artist/6HUKogubmqdjrszLGzbKxW) | [Preliminer](https://open.spotify.com/album/0vkgsniyzVbBB0dnaCy1gC) | 2:58 | 2023-11-23 | 2023-12-15 |
 | [Move On](https://open.spotify.com/track/6YH56dj72Jp0B89t1hzNhW) | [Son Dheztrow](https://open.spotify.com/artist/7olJOIMhiOGOTTL7irhwFw) | [Move On](https://open.spotify.com/album/59zvn5OrgkQipsGzEC8cTn) | 4:42 | 2022-11-11 | 2022-12-01 |
 | [Movie Night](https://open.spotify.com/track/6VDT1REZCtbZ1F5xPGyDrM) | [Will Mara](https://open.spotify.com/artist/5NxczTw9yZIX62WvzQ24mF) | [Movie Night](https://open.spotify.com/album/05nq5CRK0YVrvlWPohDLNq) | 3:03 | 2022-06-02 | 2022-06-24 |
@@ -2042,7 +2042,8 @@
 | [Plans](https://open.spotify.com/track/3aBxGHTKjgMeIVEQxVDroD) | [Jibs](https://open.spotify.com/artist/5a3vFEe5TeY6dvzzLVa6cn) | [Withdrawal](https://open.spotify.com/album/1qD1VkUIGGTWDyBtUQmSuE) | 2:31 | 2023-08-03 | 2023-08-18 |
 | [play pretend](https://open.spotify.com/track/4cJvWfs0biIUrvYlb0pjEb) | [Devin Adamn](https://open.spotify.com/artist/6kwOdX0GkoTAGArEzSD9fd) | [play pretend](https://open.spotify.com/album/2mXs1xssoxchWlMWvmmYrE) | 2:24 | 2022-11-17 | 2022-12-01 |
 | [Play When I Leave](https://open.spotify.com/track/7am6smiwRpySMpTAln79sI) | [Alwin Kamil](https://open.spotify.com/artist/6lnx4WgmHjm7kOcnXxHPu9) | [Play When I Leave](https://open.spotify.com/album/6JJQjenEm4h0xuNttIekDG) | 3:37 | 2022-01-06 | 2022-01-14 |
-| [Play Your Music](https://open.spotify.com/track/0vqf3LC6CMFMHwqd97y0I5) | [DULE](https://open.spotify.com/artist/46DGJYLAv8lVX5USef5CDN), [Maliman](https://open.spotify.com/artist/4P4vdNXnDHeJSSdQ9QdyAV) | [Play Your Music](https://open.spotify.com/album/6pfVwUKsucDqOrKSD1u7gU) | 3:04 | 2024-01-18 |  |
+| [Play Your Music](https://open.spotify.com/track/0vqf3LC6CMFMHwqd97y0I5) | [DULE](https://open.spotify.com/artist/46DGJYLAv8lVX5USef5CDN), [Maliman](https://open.spotify.com/artist/4P4vdNXnDHeJSSdQ9QdyAV) | [Play Your Music](https://open.spotify.com/album/6pfVwUKsucDqOrKSD1u7gU) | 3:04 | 2024-01-18 | 2024-01-28 |
+| [Play Your Music](https://open.spotify.com/track/1aPciObwFcusxrfvH4OohM) | [DULE](https://open.spotify.com/artist/46DGJYLAv8lVX5USef5CDN), [Maliman](https://open.spotify.com/artist/4P4vdNXnDHeJSSdQ9QdyAV) | [Play Your Music](https://open.spotify.com/album/4gDgJs8zXQJCibymJzFbaj) | 3:04 | 2024-01-25 |  |
 | [Playing Fool](https://open.spotify.com/track/01IiduB8QN0NrH21RPC2b0) | [Kaminaldi](https://open.spotify.com/artist/00EAWRMNbF3eUBRH82vBZs) | [Playing Fool](https://open.spotify.com/album/4jLeJQBoS67I1Okfkk65oa) | 3:41 | 2023-08-11 | 2023-08-25 |
 | [Please](https://open.spotify.com/track/332Xs5qgP7YjohodnomQFT) | [GUDENSWAY](https://open.spotify.com/artist/7EFh8broZwyTtcUsfuMEmf) | [Poem.](https://open.spotify.com/album/1xEKbu60OyUgm4Iayx6ixg) | 3:33 | 2023-07-06 | 2023-07-21 |
 | [Please Don't Say You Can't Live Without Me](https://open.spotify.com/track/11zoslfTeLUUsp5O0BNv23) | [Mirabeth](https://open.spotify.com/artist/3Xpap1vsMoPjVutjOxevPc) | [Abé](https://open.spotify.com/album/6nAXhwPBwx843VK2kaSr4S) | 5:08 | 2023-05-25 | 2023-06-09 |

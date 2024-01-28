@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,844 likes - 91 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,782 likes - 91 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 82 | [Songbird](https://open.spotify.com/track/1FgocYjwU9fhKJFobw6Kak) | [Shannon & Keast](https://open.spotify.com/artist/48hHNfz4xNPbsKEZOkNfmN) | [Dream a Little Dream](https://open.spotify.com/album/7JBOY0cc4ik0A4RbWAfl7r) | 2:49 |
 | 83 | [Halo](https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 3:52 |
 | 84 | [Lullaby](https://open.spotify.com/track/1G0TdnHQLeVY7X1rQJOb93) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Matt Costa](https://open.spotify.com/artist/0EghvcisxKybq4CVO7rB5t) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 2:47 |
-| 85 | [Someone You Loved](https://open.spotify.com/track/3dCC7aodARJimlvDnlh1mo) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [NOW That's What I Call Music, Vol\. 71](https://open.spotify.com/album/6Xo8vxClsqZvYUXCgPuEcB) | 2:59 |
+| 85 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
 | 86 | [Twinkle, Twinkle Little Star](https://open.spotify.com/track/5oIbsxShzRtKyjFZV778Nz) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Lullaby](https://open.spotify.com/album/6aDRCnCbuqY7NkerfUcyp7) | 3:04 |
 | 87 | [Set Me Free](https://open.spotify.com/track/7d7bokEHYGrUc5snfIpHIw) | [Elliott Park](https://open.spotify.com/artist/6iz85IUQbVWxKzemxy4u16) | [Songs with My Daughters](https://open.spotify.com/album/4MyybH1mOTmaADrhjWXDgb) | 3:06 |
 | 88 | [Sea of Love](https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND) | 2:19 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 90 | [Rest Your Head On My Shoulder](https://open.spotify.com/track/07jFL6Z173J4zH2R2SGGRM) | [Seeker Lover Keeper](https://open.spotify.com/artist/18E9agcfYi1KIQlJivdEcX) | [Seeker Lover Keeper](https://open.spotify.com/album/1uEWX9bX1dnHFY4WUN5r9F) | 3:31 |
 | 91 | [If You Can't Sleep](https://open.spotify.com/track/7o2T5dYOjQf7qpmavRerQE) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume Two](https://open.spotify.com/album/47A8zr0CzKLILnYcrXh2Rc) | 2:48 |
 
-Snapshot ID: `MCw1YjQzOWI2OTZkZWNkNDRkZDA1MDRkNDEzMzg1OGE4MWRmMDlhMTFl`
+Snapshot ID: `MCwzYzdiNDExMzYwMmU4OWY3ZDcxNzRjMmFjZjkxZTFjNzFhY2ZiN2M0`

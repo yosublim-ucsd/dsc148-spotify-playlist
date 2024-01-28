@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Milena Pina",
-  "num_followers": 119045,
+  "num_followers": 118869,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTdiMzY5YmM2NzBkMzY4MzJjNjlmM2I1NGJkOWRiMjMxYTY5YWRj",
+  "snapshot_id": "MCxjNDljNzdjY2UxNWQzMmNkNmFjNTNmMTk4MDk1OThjZmZmODU1M2U0",
   "tracks": [
     {
       "added_at": "2023-12-21 22:17:17",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Quando o Eterno For Real",
-        "url": "https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk"
+        "name": "Quanto Amor",
+        "url": "https://open.spotify.com/album/4K7OG0Y812Xl9UlpyNjJbj"
       },
       "artists": [
         {
-          "name": "Vit\u00f3ria Costa",
-          "url": "https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW"
+          "name": "Gabriel Bulian",
+          "url": "https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0"
         }
       ],
-      "duration_ms": 290222,
-      "name": "Quando o Eterno For Real",
-      "url": "https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA"
+      "duration_ms": 224550,
+      "name": "Quanto Amor",
+      "url": "https://open.spotify.com/track/4Uc9lQEOm6KnNtES53jDfB"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -643,42 +643,6 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Meu Grande Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6cljyhbv9omnGm0UhJ4OlI"
-      },
-      "artists": [
-        {
-          "name": "Giselle Knevitz",
-          "url": "https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM"
-        },
-        {
-          "name": "Brasa Church Music",
-          "url": "https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A"
-        }
-      ],
-      "duration_ms": 634368,
-      "name": "Meu Grande Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ezHz7zoux1YGn61T6E3XA"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
-        "name": "Quanto Amor",
-        "url": "https://open.spotify.com/album/4K7OG0Y812Xl9UlpyNjJbj"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Bulian",
-          "url": "https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0"
-        }
-      ],
-      "duration_ms": 224550,
-      "name": "Quanto Amor",
-      "url": "https://open.spotify.com/track/4Uc9lQEOm6KnNtES53jDfB"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
         "name": "Promessa",
         "url": "https://open.spotify.com/album/7M5BKDGBuYyfjzeQGWcVnG"
       },
@@ -699,18 +663,38 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Quem \u00e9 Esse?",
-        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
+        "name": "Quando o Eterno For Real",
+        "url": "https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk"
       },
       "artists": [
         {
-          "name": "Naara e Sarah",
-          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
+          "name": "Vit\u00f3ria Costa",
+          "url": "https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW"
         }
       ],
-      "duration_ms": 319577,
-      "name": "Quem \u00e9 Esse?",
-      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
+      "duration_ms": 290222,
+      "name": "Quando o Eterno For Real",
+      "url": "https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "Meu Grande Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6cljyhbv9omnGm0UhJ4OlI"
+      },
+      "artists": [
+        {
+          "name": "Giselle Knevitz",
+          "url": "https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM"
+        },
+        {
+          "name": "Brasa Church Music",
+          "url": "https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A"
+        }
+      ],
+      "duration_ms": 634368,
+      "name": "Meu Grande Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ezHz7zoux1YGn61T6E3XA"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -727,6 +711,22 @@
       "duration_ms": 262000,
       "name": "Basta Uma Palavra",
       "url": "https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "Quem \u00e9 Esse?",
+        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
+      },
+      "artists": [
+        {
+          "name": "Naara e Sarah",
+          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
+        }
+      ],
+      "duration_ms": 319577,
+      "name": "Quem \u00e9 Esse?",
+      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "N\u00e3o Serei o Mesmo",
-        "url": "https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN"
-      },
-      "artists": [
-        {
-          "name": "Renata Reis",
-          "url": "https://open.spotify.com/artist/5N1xm9Ct1wWvR5AfcVZMDS"
-        }
-      ],
-      "duration_ms": 397096,
-      "name": "N\u00e3o Serei o Mesmo - Ao Vivo",
-      "url": "https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
         "name": "Daqui N\u00e3o Saio",
         "url": "https://open.spotify.com/album/23eNhDRQb2QRbegXM1tH6O"
       },
@@ -811,22 +795,6 @@
       "duration_ms": 558500,
       "name": "Daqui N\u00e3o Saio",
       "url": "https://open.spotify.com/track/0TYzmTenPv6YlD5a2g4gqe"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
-        "name": "Acredito na Promessa",
-        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
-      },
-      "artists": [
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 245109,
-      "name": "Acredito na Promessa",
-      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -847,18 +815,18 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Quem Disse? (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO"
+        "name": "N\u00e3o Serei o Mesmo",
+        "url": "https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN"
       },
       "artists": [
         {
-          "name": "Julliana Silva",
-          "url": "https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI"
+          "name": "Renata Reis",
+          "url": "https://open.spotify.com/artist/5N1xm9Ct1wWvR5AfcVZMDS"
         }
       ],
-      "duration_ms": 330005,
-      "name": "Quem Disse? - Ao Vivo",
-      "url": "https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG"
+      "duration_ms": 397096,
+      "name": "N\u00e3o Serei o Mesmo - Ao Vivo",
+      "url": "https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -879,18 +847,34 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Peda\u00e7os",
-        "url": "https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg"
+        "name": "Quem Disse? (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO"
       },
       "artists": [
         {
-          "name": "Matheus Ferreira",
-          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
+          "name": "Julliana Silva",
+          "url": "https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI"
         }
       ],
-      "duration_ms": 259500,
-      "name": "Peda\u00e7os",
-      "url": "https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4"
+      "duration_ms": 330005,
+      "name": "Quem Disse? - Ao Vivo",
+      "url": "https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "Acredito na Promessa",
+        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
+      },
+      "artists": [
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        }
+      ],
+      "duration_ms": 245109,
+      "name": "Acredito na Promessa",
+      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -911,22 +895,6 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Vest\u00edgios",
-        "url": "https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh"
-      },
-      "artists": [
-        {
-          "name": "Jayana Moreira",
-          "url": "https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH"
-        }
-      ],
-      "duration_ms": 291253,
-      "name": "Vest\u00edgios",
-      "url": "https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
         "name": "Descansa em Mim",
         "url": "https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc"
       },
@@ -943,6 +911,38 @@
       "duration_ms": 305000,
       "name": "Descansa em Mim",
       "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "Peda\u00e7os",
+        "url": "https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg"
+      },
+      "artists": [
+        {
+          "name": "Matheus Ferreira",
+          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
+        }
+      ],
+      "duration_ms": 259500,
+      "name": "Peda\u00e7os",
+      "url": "https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "Vest\u00edgios",
+        "url": "https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh"
+      },
+      "artists": [
+        {
+          "name": "Jayana Moreira",
+          "url": "https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH"
+        }
+      ],
+      "duration_ms": 291253,
+      "name": "Vest\u00edgios",
+      "url": "https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14"
+        "name": "Tu Me Fascinas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7"
       },
       "artists": [
         {
-          "name": "Tamara Pyller",
-          "url": "https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO"
+          "name": "Mariana Vieira",
+          "url": "https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2"
         }
       ],
-      "duration_ms": 251936,
-      "name": "Gra\u00e7a",
-      "url": "https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3"
+      "duration_ms": 283235,
+      "name": "Tu Me Fascinas - Ao Vivo",
+      "url": "https://open.spotify.com/track/41NibAItjNsql9NScvLcon"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Tu Me Fascinas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7"
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14"
       },
       "artists": [
         {
-          "name": "Mariana Vieira",
-          "url": "https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2"
+          "name": "Tamara Pyller",
+          "url": "https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO"
         }
       ],
-      "duration_ms": 283235,
-      "name": "Tu Me Fascinas - Ao Vivo",
-      "url": "https://open.spotify.com/track/41NibAItjNsql9NScvLcon"
+      "duration_ms": 251936,
+      "name": "Gra\u00e7a",
+      "url": "https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3"
     },
     {
       "added_at": "2023-12-21 22:17:17",

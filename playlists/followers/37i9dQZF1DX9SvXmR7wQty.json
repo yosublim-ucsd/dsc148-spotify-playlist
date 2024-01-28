@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 39613,
+  "2024-01-28": 39603,
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Beyries",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Lara Fabian",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -1339,7 +1339,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 189618,
       "name": "AKRAPO 7",
       "url": "https://open.spotify.com/track/1C6E3aZ4S4fMN1HIgj73MQ"
@@ -2565,7 +2565,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 199123,
       "name": "Au suivant",
       "url": "https://open.spotify.com/track/6O6071g2kIG6A78TMiF3Fz"
@@ -4539,7 +4539,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 218392,
       "name": "Bonsoir Paris (Mama No Cry)",
       "url": "https://open.spotify.com/track/6RZ5IuPlCVcXSrnzQ5jsE7"
@@ -6240,6 +6240,24 @@
     },
     {
       "album": {
+        "name": "Ce qu'on aura",
+        "url": "https://open.spotify.com/album/4SPAxI22NjJMFzmLABVEhl"
+      },
+      "artists": [
+        {
+          "name": "Reno McCarthy",
+          "url": "https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236965,
+      "name": "Ce qu'on aura",
+      "url": "https://open.spotify.com/track/7hHXK4lcDDjgfR7hwPYhhl"
+    },
+    {
+      "album": {
         "name": "Daniel Lavoie chante Rimbaud (La rivi\u00e8re de cassis un projet Musical de Laurent Guardo)",
         "url": "https://open.spotify.com/album/3p7LeTmmSzqknMg5nPpWEV"
       },
@@ -6551,6 +6569,24 @@
       "duration_ms": 192173,
       "name": "Chanson pour Maman",
       "url": "https://open.spotify.com/track/7nBXH6lNyAnM7gwdNDc7gH"
+    },
+    {
+      "album": {
+        "name": "Chanson pour toi",
+        "url": "https://open.spotify.com/album/2W3IckMSDPx96MQPHwDJQK"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Chanson pour toi",
+      "url": "https://open.spotify.com/track/7CcVagVQtlFQL5CiXsP159"
     },
     {
       "album": {
@@ -8077,7 +8113,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 175800,
       "name": "CONNEXION",
       "url": "https://open.spotify.com/track/75Dy7b1yzlIJ8YNFMrWpV4"
@@ -8695,7 +8731,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 186333,
       "name": "Culture",
       "url": "https://open.spotify.com/track/7LrK0NDfAdHv7HV2NUGvxA"
@@ -9367,7 +9403,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 160858,
       "name": "Dans le noir",
       "url": "https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F"
@@ -9947,7 +9983,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 211600,
       "name": "Derri\u00e8re le jour",
       "url": "https://open.spotify.com/track/0Va586bS36sGEjVZWhvZ0l"
@@ -10187,6 +10223,24 @@
       "duration_ms": 177270,
       "name": "Deuxi\u00e8me chance",
       "url": "https://open.spotify.com/track/7grAgWrICeHTAYhQaOXiR8"
+    },
+    {
+      "album": {
+        "name": "Les nuages",
+        "url": "https://open.spotify.com/album/1FXl06tgFw0C1t8bZOJrKF"
+      },
+      "artists": [
+        {
+          "name": "Ian Kelly",
+          "url": "https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178213,
+      "name": "Devenir vieux",
+      "url": "https://open.spotify.com/track/3rYr3j4Wjhvg9W8gK7ek63"
     },
     {
       "album": {
@@ -10875,7 +10929,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 160960,
       "name": "Drift\u00e9",
       "url": "https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3"
@@ -11899,7 +11953,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 195133,
       "name": "Emmanuelle",
       "url": "https://open.spotify.com/track/4avh1EtU350fsmKN4splZv"
@@ -14253,7 +14307,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 237733,
       "name": "Focus",
       "url": "https://open.spotify.com/track/0yN4tK3KOWMrgCcN9IEITZ"
@@ -16269,7 +16323,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 182853,
       "name": "Houston",
       "url": "https://open.spotify.com/track/41njRJ9m4HJ3yoP0B0MBgE"
@@ -16497,7 +16551,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 133721,
       "name": "I Lost My Baby",
       "url": "https://open.spotify.com/track/2a4TQ1K4qKkjF5QsUcLbRw"
@@ -17758,6 +17812,24 @@
     },
     {
       "album": {
+        "name": "Etienne Dufresne fait des efforts",
+        "url": "https://open.spotify.com/album/7dj1HTKL7SwjUO74p7iqwO"
+      },
+      "artists": [
+        {
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "J'fais des efforts",
+      "url": "https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA"
+    },
+    {
+      "album": {
         "name": "J'feel comme un alien",
         "url": "https://open.spotify.com/album/4OzduJKDnt1Qga83stwXOK"
       },
@@ -18113,7 +18185,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 172258,
       "name": "Jamais la nuit",
       "url": "https://open.spotify.com/track/0ikCDE1hdQYutykveFe0QM"
@@ -18837,6 +18909,36 @@
       "duration_ms": 181666,
       "name": "Je reviens toujours",
       "url": "https://open.spotify.com/track/1fNP6YTCFfMLGOzfxHJhxa"
+    },
+    {
+      "album": {
+        "name": "Je Sais",
+        "url": "https://open.spotify.com/album/1TWoC9s1Hz8eTPYXgYhRPC"
+      },
+      "artists": [
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        },
+        {
+          "name": "Tizzo",
+          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
+        },
+        {
+          "name": "Peeda",
+          "url": "https://open.spotify.com/artist/7qz5rVVo7GjgNMUzJRfUy4"
+        },
+        {
+          "name": "Salgrimo",
+          "url": "https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201641,
+      "name": "Je Sais",
+      "url": "https://open.spotify.com/track/6d3E2bDNH3nxanxCObVNPm"
     },
     {
       "album": {
@@ -22315,7 +22417,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 196146,
       "name": "Le ciel o\u00f9 je me terre",
       "url": "https://open.spotify.com/track/4VqutfvLnQYhNn9rPWZ67J"
@@ -24029,7 +24131,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 159586,
       "name": "Les \u00e9toiles",
       "url": "https://open.spotify.com/track/63vgIdLa5r5N3F5gEhY14X"
@@ -24249,6 +24351,24 @@
       "duration_ms": 194531,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6bxIp0kZ4aanaMp75Qtr2i"
+    },
+    {
+      "album": {
+        "name": "LA TEMP\u00caTE",
+        "url": "https://open.spotify.com/album/1iqSyi183oO6BxB2XMjPgj"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172303,
+      "name": "Liens de sang",
+      "url": "https://open.spotify.com/track/31SWi3hoe6mC7hxQ4mK8eV"
     },
     {
       "album": {
@@ -24661,7 +24781,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 173810,
       "name": "Lova",
       "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
@@ -27685,7 +27805,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 246818,
       "name": "Mort de rire",
       "url": "https://open.spotify.com/track/1YMyJOWvg161nP3yP2ViAn"
@@ -27809,6 +27929,24 @@
       "duration_ms": 199795,
       "name": "Moun fou",
       "url": "https://open.spotify.com/track/1bhIxTmt2VGki56njVOBRP"
+    },
+    {
+      "album": {
+        "name": "Mourir Demain",
+        "url": "https://open.spotify.com/album/2maYUGRhPI9z4D2gBsWgkw"
+      },
+      "artists": [
+        {
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207922,
+      "name": "Mourir Demain",
+      "url": "https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp"
     },
     {
       "album": {
@@ -29984,6 +30122,24 @@
     },
     {
       "album": {
+        "name": "O\u00f9 es-tu Henri ?",
+        "url": "https://open.spotify.com/album/3Dh1tH75GwLOje7c4zIJBY"
+      },
+      "artists": [
+        {
+          "name": "Kinkead",
+          "url": "https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197453,
+      "name": "O\u00f9 es-tu Henri ?",
+      "url": "https://open.spotify.com/track/3HFVdVdgGnZcAFfJGVC83W"
+    },
+    {
+      "album": {
         "name": "O\u00f9 tu voudras (feat. Tayc)",
         "url": "https://open.spotify.com/album/5MJy5brDsbiFiVHzc9eDcf"
       },
@@ -30803,6 +30959,28 @@
       "duration_ms": 183829,
       "name": "Pas ton ami",
       "url": "https://open.spotify.com/track/3XJdwZcQCp0Vi3ennsbvyx"
+    },
+    {
+      "album": {
+        "name": "Pas tr\u00e8s perspicace",
+        "url": "https://open.spotify.com/album/1gw4tw7bxZnVxGlICTOsCi"
+      },
+      "artists": [
+        {
+          "name": "Xela Edna",
+          "url": "https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS"
+        },
+        {
+          "name": "Eius Echo",
+          "url": "https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154267,
+      "name": "Pas tr\u00e8s perspicace",
+      "url": "https://open.spotify.com/track/2KfzBQtWlCgDsMiHP4twzK"
     },
     {
       "album": {
@@ -31943,7 +32121,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 189626,
       "name": "POISON",
       "url": "https://open.spotify.com/track/3Z29095berlRpJ3R31ZXmD"
@@ -32713,7 +32891,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 178520,
       "name": "Prime",
       "url": "https://open.spotify.com/track/7E9hKUhfpbm4CNnlSdP407"
@@ -38350,6 +38528,24 @@
     },
     {
       "album": {
+        "name": "Ta peine",
+        "url": "https://open.spotify.com/album/2vN2COSOLbR6pMi4Et7k7R"
+      },
+      "artists": [
+        {
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164479,
+      "name": "Ta peine",
+      "url": "https://open.spotify.com/track/0qp0G8VtnYHmLnbCu6lUUQ"
+    },
+    {
+      "album": {
         "name": "Rap Queb, Vol. 1",
         "url": "https://open.spotify.com/album/1Vo7BbkkjFHbaQInxTKEaI"
       },
@@ -40559,6 +40755,24 @@
       "duration_ms": 203519,
       "name": "Tu connais la technique",
       "url": "https://open.spotify.com/track/4RjKhtCPMI483ezB4wEYbi"
+    },
+    {
+      "album": {
+        "name": "Tu connais mon nom",
+        "url": "https://open.spotify.com/album/26Ewl0i5v5fhMKPOIMWkqj"
+      },
+      "artists": [
+        {
+          "name": "Lary Kidd",
+          "url": "https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Tu connais mon nom",
+      "url": "https://open.spotify.com/track/3yFvxH76jUG9LAPg0E6SbP"
     },
     {
       "album": {
@@ -43308,6 +43522,24 @@
     },
     {
       "album": {
+        "name": "Hypersensible (Deluxe)",
+        "url": "https://open.spotify.com/album/1xhn6B8miBagIupKrNdirq"
+      },
+      "artists": [
+        {
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215652,
+      "name": "Zen",
+      "url": "https://open.spotify.com/track/5Mb0Te31hcc1koQ0jWZUwC"
+    },
+    {
+      "album": {
         "name": "zzz",
         "url": "https://open.spotify.com/album/6CiyzGH2UrOvYFhQqiyPTP"
       },
@@ -44359,6 +44591,24 @@
       "duration_ms": 177999,
       "name": "\u00c9videmment",
       "url": "https://open.spotify.com/track/3vKUDkHunP2wapm3ZjQIh5"
+    },
+    {
+      "album": {
+        "name": "\u00catre moi",
+        "url": "https://open.spotify.com/album/47XrSRkRIiNCub8A2DLYY0"
+      },
+      "artists": [
+        {
+          "name": "Annie Villeneuve",
+          "url": "https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193254,
+      "name": "\u00catre moi",
+      "url": "https://open.spotify.com/track/1fJA0kPVpENDuoeUuCfHwZ"
     },
     {
       "album": {

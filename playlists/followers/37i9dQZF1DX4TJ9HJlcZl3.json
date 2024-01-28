@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 12427,
+  "2024-01-28": 12434,
   "date_first_scraped": "2022-10-28",
   "description": "Still yachting. Cover: Young Gun Silver Fox",
   "name": "Yacht Rock Revival",
@@ -954,6 +954,28 @@
     },
     {
       "album": {
+        "name": "On The Line",
+        "url": "https://open.spotify.com/album/55V67H6MNzcqy5hiYRQQZB"
+      },
+      "artists": [
+        {
+          "name": "Jonny Tobin",
+          "url": "https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO"
+        },
+        {
+          "name": "Maya Killtron",
+          "url": "https://open.spotify.com/artist/00kg3zOGx3pJytYkDxK0q2"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240194,
+      "name": "On The Line",
+      "url": "https://open.spotify.com/track/7l25I7cYjeUZVKXDOaDPQP"
+    },
+    {
+      "album": {
         "name": "One Way Out",
         "url": "https://open.spotify.com/album/7GowjRTiHy1OtF0AQuqXVS"
       },
@@ -1001,7 +1023,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 222300,
       "name": "Past the Point",
       "url": "https://open.spotify.com/track/28iT2AnlE73LIJI6RnjFhZ"

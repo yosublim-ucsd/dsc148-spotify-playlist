@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 742 songs - 1 day 13 hr 53 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 743 songs - 1 day 13 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -750,5 +750,6 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 740 | [née\-nah](https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:40 |
 | 741 | [AT THE PARTY \(feat\. Pharrell Williams & Travis Scott\)](https://open.spotify.com/track/0kUQWMs1bRlwFNKA4Dce3f) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:58 |
 | 742 | [4L](https://open.spotify.com/track/1uULQtJ8rbsX5TwjPpPc9Q) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 4:48 |
+| 743 | [Whatever She Wants](https://open.spotify.com/track/1F2YY9lXrRJxAppKaRMGML) | [Rlr Slime](https://open.spotify.com/artist/71ltjO8mWxEALHGt0bbfVZ), [Lil Bryson Tillerr](https://open.spotify.com/artist/1p1Pz5qFGwejLghf94opef) | [Whatever She Wants](https://open.spotify.com/album/1ymOdljx8dHJNxxoOUHV52) | 2:10 |
 
-Snapshot ID: `OTA5LGFlY2UwYzk1Mjc1Y2I2YTQwOGFkNTJjNmI3NzM4ZDMwYzcyYzFjZGQ=`
+Snapshot ID: `OTEwLGEwYWQ2ZjAwZDI2YzE2NGVhODJjYTkwZjkxNGRiMTEyZDU0Y2NkODg=`

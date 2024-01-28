@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWJiMjkxYWMzYzZiNGE0OWQyMTY1NmIzY2I2MTE0N2VmNzk4OGQ0",
+  "snapshot_id": "MCxkNGQ4NjllNGYwNzJmOWNlZTFhMzM3MDdjZjJlNTNkMjBhOGJjZTUy",
   "tracks": [
     {
       "added_at": "2023-11-07 18:19:56",
@@ -867,8 +867,8 @@
     {
       "added_at": "2023-11-07 18:19:56",
       "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER DREAMERS 06",
-        "url": "https://open.spotify.com/album/2ZZRcVg8G2U1HWNw8PxFAP"
+        "name": "THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody",
+        "url": "https://open.spotify.com/album/0dqNWSJ8ePef1E2HbmmnNH"
       },
       "artists": [
         {
@@ -876,13 +876,17 @@
           "url": "https://open.spotify.com/artist/5c4iSbsBs20H32f0mpPHxn"
         },
         {
-          "name": "\u53cc\u6d77\u771f\u7f8e (CV.\u4e0b\u7530\u9ebb\u7f8e)",
-          "url": "https://open.spotify.com/artist/3EwsMOZQY62mg9bEhIFY24"
+          "name": "\u91ce\u3005\u539f \u831c (CV.\u5c0f\u7b20\u539f\u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U"
+        },
+        {
+          "name": "\u7bb1\u5d0e\u661f\u68a8\u82b1 (CV.\u9ebb\u5009\u3082\u3082)",
+          "url": "https://open.spotify.com/artist/78eYeI3ejgsTsQfe8tnke2"
         }
       ],
-      "duration_ms": 291026,
-      "name": "\u30b8\u30e3\u30f3\u30b0\u30eb \u30d1\u30fc\u30c6\u30a3\u30fc",
-      "url": "https://open.spotify.com/track/6LfDlhyY59TjZvA8lgTZsV"
+      "duration_ms": 292893,
+      "name": "Sweet Sweet Soul",
+      "url": "https://open.spotify.com/track/0cdsp44UOjWKtzTSm21Oti"
     },
     {
       "added_at": "2023-11-07 18:19:56",
@@ -1015,8 +1019,8 @@
     {
       "added_at": "2023-11-07 18:19:56",
       "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody",
-        "url": "https://open.spotify.com/album/0dqNWSJ8ePef1E2HbmmnNH"
+        "name": "THE IDOLM@STER LIVE THE@TER DREAMERS 06",
+        "url": "https://open.spotify.com/album/2ZZRcVg8G2U1HWNw8PxFAP"
       },
       "artists": [
         {
@@ -1024,17 +1028,13 @@
           "url": "https://open.spotify.com/artist/5c4iSbsBs20H32f0mpPHxn"
         },
         {
-          "name": "\u91ce\u3005\u539f \u831c (CV.\u5c0f\u7b20\u539f\u65e9\u7d00)",
-          "url": "https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U"
-        },
-        {
-          "name": "\u7bb1\u5d0e\u661f\u68a8\u82b1 (CV.\u9ebb\u5009\u3082\u3082)",
-          "url": "https://open.spotify.com/artist/78eYeI3ejgsTsQfe8tnke2"
+          "name": "\u53cc\u6d77\u771f\u7f8e (CV.\u4e0b\u7530\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/3EwsMOZQY62mg9bEhIFY24"
         }
       ],
-      "duration_ms": 292893,
-      "name": "Sweet Sweet Soul",
-      "url": "https://open.spotify.com/track/0cdsp44UOjWKtzTSm21Oti"
+      "duration_ms": 291026,
+      "name": "\u30b8\u30e3\u30f3\u30b0\u30eb \u30d1\u30fc\u30c6\u30a3\u30fc",
+      "url": "https://open.spotify.com/track/6LfDlhyY59TjZvA8lgTZsV"
     },
     {
       "added_at": "2023-11-07 18:19:56",
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2023-11-07 18:19:56",
       "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 12 D/Zeal",
+        "url": "https://open.spotify.com/album/18rvG8u4mjj3BV0g3Fwm17"
+      },
+      "artists": [
+        {
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        }
+      ],
+      "duration_ms": 300413,
+      "name": "\u991e\u306e\u9ce5",
+      "url": "https://open.spotify.com/track/0wAaSofHTEBrvwP9FwGXBb"
+    },
+    {
+      "added_at": "2023-11-07 18:19:56",
+      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER GENERATION 10 \u9583\u5149 HANABI\u56e3",
         "url": "https://open.spotify.com/album/3yMOG8hVXOI4DRrUixNXBE"
       },
@@ -1467,26 +1487,6 @@
       "duration_ms": 262000,
       "name": "\u54b2\u304f\u306f\u6d6e\u4e16\u306e\u541b\u82b1\u706b",
       "url": "https://open.spotify.com/track/7bShOIQ5ls3hF26cOsE12J"
-    },
-    {
-      "added_at": "2023-11-07 18:19:56",
-      "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 12 D/Zeal",
-        "url": "https://open.spotify.com/album/18rvG8u4mjj3BV0g3Fwm17"
-      },
-      "artists": [
-        {
-          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
-          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
-        },
-        {
-          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
-          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
-        }
-      ],
-      "duration_ms": 300413,
-      "name": "\u991e\u306e\u9ce5",
-      "url": "https://open.spotify.com/track/0wAaSofHTEBrvwP9FwGXBb"
     },
     {
       "added_at": "2023-11-07 18:19:56",
@@ -1563,34 +1563,6 @@
     {
       "added_at": "2023-11-07 18:19:56",
       "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER WAVE 15 chicAAmor",
-        "url": "https://open.spotify.com/album/2EQQNrat2zwQMfwD67OycQ"
-      },
-      "artists": [
-        {
-          "name": "\u9ad8\u5c71\u7d17\u4ee3\u5b50 (CV.\u99d2\u5f62\u53cb\u68a8)",
-          "url": "https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS"
-        },
-        {
-          "name": "\u8c4a\u5ddd\u98a8\u82b1 (CV.\u672b\u67c4\u91cc\u6075)",
-          "url": "https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz"
-        },
-        {
-          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
-          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
-        },
-        {
-          "name": "\u4e8c\u968e\u5802\u5343\u9db4 (CV.\u91ce\u6751\u9999\u83dc\u5b50)",
-          "url": "https://open.spotify.com/artist/4zCdHJxNsqIFe1IS0KDDFe"
-        }
-      ],
-      "duration_ms": 265600,
-      "name": "\u6df1\u7d05\u306e\u30d1\u30b7\u30aa\u30f3",
-      "url": "https://open.spotify.com/track/2cWMgAKxXnZajAfMJrb29N"
-    },
-    {
-      "added_at": "2023-11-07 18:19:56",
-      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER WAVE 06 \u82b1\u54b2\u591c",
         "url": "https://open.spotify.com/album/4to4QXWpdanY8GmKkcKX8H"
       },
@@ -1615,22 +1587,6 @@
     {
       "added_at": "2023-11-07 18:19:56",
       "album": {
-        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 02",
-        "url": "https://open.spotify.com/album/1FepCERIBwbpDzoVq8Rs2m"
-      },
-      "artists": [
-        {
-          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
-          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
-        }
-      ],
-      "duration_ms": 276160,
-      "name": "\u30ed\u30b1\u30c3\u30c8\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/1e0DHXLeziWJjICQSapDYx"
-    },
-    {
-      "added_at": "2023-11-07 18:19:56",
-      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER WAVE 04 Sherry 'n Cherry",
         "url": "https://open.spotify.com/album/5XJU5PcncxC8kuLr0uZ35w"
       },
@@ -1647,6 +1603,22 @@
       "duration_ms": 240613,
       "name": "Cherry Colored Love",
       "url": "https://open.spotify.com/track/7f8Pjs5Y2Ff9YhqdLkmzNj"
+    },
+    {
+      "added_at": "2023-11-07 18:19:56",
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 02",
+        "url": "https://open.spotify.com/album/1FepCERIBwbpDzoVq8Rs2m"
+      },
+      "artists": [
+        {
+          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
+          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
+        }
+      ],
+      "duration_ms": 276160,
+      "name": "\u30ed\u30b1\u30c3\u30c8\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/1e0DHXLeziWJjICQSapDYx"
     },
     {
       "added_at": "2023-11-07 18:19:56",
@@ -1671,6 +1643,34 @@
       "duration_ms": 287373,
       "name": "ReTale",
       "url": "https://open.spotify.com/track/1VjpNNA4LiMrL9Bh2honei"
+    },
+    {
+      "added_at": "2023-11-07 18:19:56",
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 15 chicAAmor",
+        "url": "https://open.spotify.com/album/2EQQNrat2zwQMfwD67OycQ"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u5c71\u7d17\u4ee3\u5b50 (CV.\u99d2\u5f62\u53cb\u68a8)",
+          "url": "https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS"
+        },
+        {
+          "name": "\u8c4a\u5ddd\u98a8\u82b1 (CV.\u672b\u67c4\u91cc\u6075)",
+          "url": "https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz"
+        },
+        {
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
+        },
+        {
+          "name": "\u4e8c\u968e\u5802\u5343\u9db4 (CV.\u91ce\u6751\u9999\u83dc\u5b50)",
+          "url": "https://open.spotify.com/artist/4zCdHJxNsqIFe1IS0KDDFe"
+        }
+      ],
+      "duration_ms": 265600,
+      "name": "\u6df1\u7d05\u306e\u30d1\u30b7\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/2cWMgAKxXnZajAfMJrb29N"
     },
     {
       "added_at": "2023-11-07 18:19:56",

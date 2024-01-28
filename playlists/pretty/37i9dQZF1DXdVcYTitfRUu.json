@@ -1,12 +1,12 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 8940,
+  "num_followers": 8949,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTJiNzU1ZWVlNzZiNjFjZmVmOWZjZmZhOTdhZmVjMTJjZjhiMTky",
+  "snapshot_id": "MCwxMzg5YzIyZTU1YTFjZGU2NDZmOTQzYTUzM2JiYWY0NjdkYzZlYzYx",
   "tracks": [
     {
       "added_at": "2023-12-06 09:09:38",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Let's Stay Well (My love X Roy Kim)",
-        "url": "https://open.spotify.com/album/434PxpoRd7LBO2VdPuefao"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 258146,
-      "name": "Let's Stay Well (My love X Roy Kim)",
-      "url": "https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "Dear my X",
         "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 187733,
       "name": "Dear my X",
       "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
+        "name": "Let's Stay Well (My love X Roy Kim)",
+        "url": "https://open.spotify.com/album/434PxpoRd7LBO2VdPuefao"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 258146,
+      "name": "Let's Stay Well (My love X Roy Kim)",
+      "url": "https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -775,18 +775,22 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Romantic Doctor 3 OST Part.1",
-        "url": "https://open.spotify.com/album/6nErKEsThTGVCCO4RDiIqE"
+        "name": "If you lovingly call my name (GyeongseoYeji x Jeon Gunho)",
+        "url": "https://open.spotify.com/album/1QD2UJupusQ9zBsldpvS3d"
       },
       "artists": [
         {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+          "name": "GyeongseoYeji",
+          "url": "https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9"
+        },
+        {
+          "name": "Jeon Gunho",
+          "url": "https://open.spotify.com/artist/3WFFsW6pFOm0e2yVQLTYCX"
         }
       ],
-      "duration_ms": 230106,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/6Me6uD7KrQ2fS8U8wCiMDY"
+      "duration_ms": 231338,
+      "name": "If you lovingly call my name",
+      "url": "https://open.spotify.com/track/0tgxvf4rqBBeEB54h0nnRD"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -823,6 +827,22 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
+        "name": "Romantic Doctor 3 OST Part.1",
+        "url": "https://open.spotify.com/album/6nErKEsThTGVCCO4RDiIqE"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/6Me6uD7KrQ2fS8U8wCiMDY"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
         "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 5",
         "url": "https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 233317,
       "name": "About loneliness",
       "url": "https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
-        "name": "If you lovingly call my name (GyeongseoYeji x Jeon Gunho)",
-        "url": "https://open.spotify.com/album/1QD2UJupusQ9zBsldpvS3d"
-      },
-      "artists": [
-        {
-          "name": "GyeongseoYeji",
-          "url": "https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9"
-        },
-        {
-          "name": "Jeon Gunho",
-          "url": "https://open.spotify.com/artist/3WFFsW6pFOm0e2yVQLTYCX"
-        }
-      ],
-      "duration_ms": 231338,
-      "name": "If you lovingly call my name",
-      "url": "https://open.spotify.com/track/0tgxvf4rqBBeEB54h0nnRD"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -975,6 +975,38 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
+        "name": "18 again, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/46SLMiMiXNfPLoeatJo9wY"
+      },
+      "artists": [
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+        }
+      ],
+      "duration_ms": 244213,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0avJy0NC4btzu7PQ7TtG0n"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
+        "name": "LOVE.",
+        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 172674,
+      "name": "I JUST WANNA KNOW",
+      "url": "https://open.spotify.com/track/6ZnKQpqaYx6BResKaVBfmc"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
         "name": "Alchemy of Souls, Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa"
       },
@@ -1039,38 +1071,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "18 again, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/46SLMiMiXNfPLoeatJo9wY"
-      },
-      "artists": [
-        {
-          "name": "Sohyang",
-          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
-        }
-      ],
-      "duration_ms": 244213,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/0avJy0NC4btzu7PQ7TtG0n"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
-        "name": "LOVE.",
-        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 172674,
-      "name": "I JUST WANNA KNOW",
-      "url": "https://open.spotify.com/track/6ZnKQpqaYx6BResKaVBfmc"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "Destined with You (Original Television Soundtrack), Pt.6",
         "url": "https://open.spotify.com/album/37BzsG0I20mbX2CFipkt3A"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Last Scene - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/1qEyXADkIHSmaCZuHnQPb7"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Last Scene",
-      "url": "https://open.spotify.com/track/72b8XXM0GEo1TtJ2aPe79R"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 234000,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
+        "name": "Last Scene - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/1qEyXADkIHSmaCZuHnQPb7"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Last Scene",
+      "url": "https://open.spotify.com/track/72b8XXM0GEo1TtJ2aPe79R"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Dear My Winter",
-        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        },
-        {
-          "name": "CHUU",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Dear My Winter",
-      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "Floral Sense - The 1st Album (Special Version)",
         "url": "https://open.spotify.com/album/3GiIDO4BTLwJuZWQszk4Tg"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 228426,
       "name": "Floral Sense",
       "url": "https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
+        "name": "Dear My Winter",
+        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Dear My Winter",
+      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Hongdae R&B",
-        "url": "https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 238454,
-      "name": "Hangang Gongwon",
-      "url": "https://open.spotify.com/track/58DPUgbOVwsLfAOs2oQBk9"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "Underwater",
         "url": "https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 243321,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
+        "name": "Hongdae R&B",
+        "url": "https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 238454,
+      "name": "Hangang Gongwon",
+      "url": "https://open.spotify.com/track/58DPUgbOVwsLfAOs2oQBk9"
     },
     {
       "added_at": "2023-12-06 09:09:38",

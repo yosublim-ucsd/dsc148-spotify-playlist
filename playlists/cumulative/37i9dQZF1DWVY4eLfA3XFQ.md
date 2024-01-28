@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Mau P
 
-1,444 songs - 3 day 10 hr 17 min
+1,445 songs - 3 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [All In](https://open.spotify.com/track/4xy8PsaeOhDoKyUPxtGD4w) | [JustLuke](https://open.spotify.com/artist/5BYp3tFELy8TjfQMd0S3Nh) | [All In](https://open.spotify.com/album/3dGNeMzMH6tllAiTGA2cLZ) | 2:13 | 2023-05-05 | 2023-05-27 |
 | [All My Friends](https://open.spotify.com/track/3cO31q0MpTtBIT8Esr0bsm) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [All My Friends](https://open.spotify.com/album/7I7oyqlMR8U4tvoXvVtH85) | 2:03 | 2023-09-22 | 2023-10-31 |
 | [All Night](https://open.spotify.com/track/3Y5tQljrVItTOxtZcbkQTg) | [Tough Break](https://open.spotify.com/artist/59YvtCKDEG9q6naPqrqykW) | [All Night](https://open.spotify.com/album/6z2CIwuGpv92NOVaufHXzV) | 3:08 | 2023-11-24 | 2024-01-06 |
-| [All Night](https://open.spotify.com/track/2F3igFy3c5lreKQ9bKsPVs) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [All Night](https://open.spotify.com/album/6RTNZ5faWkSVCfKuz3WUzS) | 2:57 | 2023-11-17 |  |
+| [All Night](https://open.spotify.com/track/2F3igFy3c5lreKQ9bKsPVs) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [All Night](https://open.spotify.com/album/6RTNZ5faWkSVCfKuz3WUzS) | 2:57 | 2023-11-17 | 2024-01-28 |
 | [All Over U](https://open.spotify.com/track/6hmwiviuIfeDy5MwWMVCQw) | [Mason Maynard](https://open.spotify.com/artist/4EdTAy3S5GrswFHCdpiKP3) | [All Over U](https://open.spotify.com/album/1fORBKzArhL3rMlkJqHKor) | 3:03 | 2022-05-13 | 2022-06-11 |
 | [All The Girls](https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [All The Girls](https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK) | 3:17 | 2023-03-24 | 2023-08-12 |
 | [All The Night](https://open.spotify.com/track/68DPFeawfvz8M6woXpUpF8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [All The Night](https://open.spotify.com/album/2IMOvEknlvMR8XdyvyKF19) | 2:41 | 2022-12-02 | 2023-03-11 |
@@ -351,6 +351,7 @@
 | [Drip](https://open.spotify.com/track/4NH9xSGfbs8zchM70KZReS) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Drip](https://open.spotify.com/album/5O3Uj3ADw6P0CGQakooc4N) | 2:49 | 2022-02-25 | 2022-06-04 |
 | [Drop It](https://open.spotify.com/track/0CyrNTcFLUqcEzO4jx1I6O) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [Drop It](https://open.spotify.com/album/78miEQ02KsHuz0bRIjxzRA) | 3:12 | 2022-08-05 | 2022-11-29 |
 | [Drop That Shhh](https://open.spotify.com/track/7dGO8MqquDAivoLLVMD8Fr) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc), [Nautik](https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa) | [Drop That Shhh EP](https://open.spotify.com/album/0Bzj5NhafAn9EQu2YANa6f) | 3:42 | 2021-11-26 | 2022-01-06 |
+| [Drug Loop](https://open.spotify.com/track/3Jc7DQJL8qb2ShoAMzY7oZ) | [Phil Harris](https://open.spotify.com/artist/06icPsYb2sw6FlJKYhwsv0) | [Drug Loop](https://open.spotify.com/album/04GTNpzHseEOyXNZG2gSDq) | 3:09 | 2024-01-26 |  |
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-08-19 | 2023-01-28 |
 | [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-08-19 | 2022-09-30 |
 | [Drugs From Amsterdam \- Armand Van Helden Remix](https://open.spotify.com/track/1i7ystPYSrQGjDw3ykXTgR) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Drugs From Amsterdam \(Armand Van Helden Remix\)](https://open.spotify.com/album/5BJsik3qQYgBnm8mtwfTL4) | 2:36 | 2023-03-03 | 2023-04-09 |

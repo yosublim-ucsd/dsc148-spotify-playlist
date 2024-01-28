@@ -15387,6 +15387,24 @@
     },
     {
       "album": {
+        "name": "It's Ok to Cry",
+        "url": "https://open.spotify.com/album/0xemqy7Lea1gWWxi25Ubzp"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161726,
+      "name": "It's Ok to Cry",
+      "url": "https://open.spotify.com/track/3LpatCGL0WM7na3JWk1NlY"
+    },
+    {
+      "album": {
         "name": "It\u2019s All Right",
         "url": "https://open.spotify.com/album/1TvAy8gh24XclaV8iy86Mj"
       },
@@ -23062,7 +23080,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 197431,
       "name": "Puppet",
       "url": "https://open.spotify.com/track/400F8qcb3vxxk7iqRhV1tr"

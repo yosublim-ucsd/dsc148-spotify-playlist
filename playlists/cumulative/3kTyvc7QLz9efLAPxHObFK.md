@@ -4,7 +4,7 @@
 
 > 
 
-1,126 songs - 2 day 15 hr 5 min
+1,127 songs - 2 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Can You Feel The Love \- Radio Edit](https://open.spotify.com/track/0IV3rPb3TebEgigzfcY5Vd) | [Riko](https://open.spotify.com/artist/6VZ658qB3goLJXy084ROQs), [Krayze](https://open.spotify.com/artist/4q1ag2CrQMOL87AkSNtvOA) | [Can You Feel The Love](https://open.spotify.com/album/6FiB3syZRasiVDz1mWDSPV) | 3:58 | 2023-09-22 |  |
 | [Can You Make It Harder?](https://open.spotify.com/track/1X7WYFxcE7SW0JPyAt2jYC) | [Ixper](https://open.spotify.com/artist/4rP4FtB36MD5u3FgV3xlVN) | [Can You Make It Harder?](https://open.spotify.com/album/2nfFxigPlhMyUFIoPi8IwG) | 2:36 | 2023-10-09 |  |
 | [Can't Help Falling In Love](https://open.spotify.com/track/6DYf6xNgm9ICquH8W0bd8I) | [Inquisitive](https://open.spotify.com/artist/6K4XQXfV7Gill2ULeRu6fw), [Nicole Alexa Choo](https://open.spotify.com/artist/5XSnwCQ3t9cTAg5BqchS4W) | [Can't Help Falling In Love](https://open.spotify.com/album/3auD6CFKlMPcCZtL1Szvhk) | 4:00 | 2023-02-13 |  |
+| [Can't Stop Raving \- DJ Noriken Remix](https://open.spotify.com/track/6wAOwFCsmHrhNYEIsWMiig) | [KO3](https://open.spotify.com/artist/1ioBfZldZvVAcqD3KXXTXy), [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK), [tea](https://open.spotify.com/artist/6cgMG5W1mDsh4OssT7OhN4), [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [N+CODE](https://open.spotify.com/album/7nybmeSPmHySV7jC2Y4Bnx) | 5:46 | 2024-01-27 |  |
 | [Caramelldansen](https://open.spotify.com/track/1v7aZHBUwKxeCgmpe6fVUH) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [DJ BERIT](https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI) | [Caramelldansen](https://open.spotify.com/album/1T0okEHDf6UivFaFTD4ciY) | 2:02 | 2023-10-20 |  |
 | [CHAINSAW](https://open.spotify.com/track/2iR2x7WYZbcntcTbw8swBl) | [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM) | [CHAINSAW](https://open.spotify.com/album/2GtHUUQQhwOhUJpmNY50fg) | 2:34 | 2023-06-09 |  |
 | [Change The Game](https://open.spotify.com/track/6rHKmvNacg2A7mrdmRuqMG) | [Dvastate](https://open.spotify.com/artist/1xMkzNWui7gg9TrYMto6VN), [MC Barricade](https://open.spotify.com/artist/0MujEliHJaRbiboLFxk2xw) | [Change The Game](https://open.spotify.com/album/4iNG8fBmdC7hDD24lGjQgT) | 2:49 | 2022-09-09 |  |

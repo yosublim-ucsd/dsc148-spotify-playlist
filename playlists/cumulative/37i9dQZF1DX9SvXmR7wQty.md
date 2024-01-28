@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Lara Fabian
 
-2,290 songs - 5 day 2 hr 17 min
+2,292 songs - 5 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [AMARU](https://open.spotify.com/track/5ymYY65E7II6wmpDlE8162) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Sea Dweller](https://open.spotify.com/album/2SHIDLpCnMQZSoD56EV6Ec) | 2:34 | 2022-05-27 | 2022-06-11 |
 | [Amer amour](https://open.spotify.com/track/23DUiB0lNRwMVlU46BfbB4) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Amer amour](https://open.spotify.com/album/0COlPqPWQtUZrBIqyqQsYd) | 2:55 | 2022-10-14 | 2022-10-29 |
 | [Ami](https://open.spotify.com/track/0N0Ymk2UB6yzGBL2Xqo82L) | [Conifère](https://open.spotify.com/artist/2dp3ze9ayQS05io3tAkcA2) | [Conifère II](https://open.spotify.com/album/27AJRwbqjpYYkXdN5d9e9z) | 2:48 | 2023-03-31 | 2023-04-09 |
+| [Amiri jeans](https://open.spotify.com/track/2b0nACGnsNKVvJhmhOjewh) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Frères Ennemis](https://open.spotify.com/album/1HLUjcUDDsszfj7OIl6LGh) | 2:59 | 2024-01-26 |  |
 | [amnezia](https://open.spotify.com/track/223sTsABqhXPsTAXVF4EGL) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [amnezia](https://open.spotify.com/album/5ZKQDqhe3plohxAlowQ16t) | 3:34 | 2023-05-05 | 2023-06-24 |
 | [Amnésia](https://open.spotify.com/track/0eRqmVoEt73JJLRPkUoQj2) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Amnésia](https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm) | 3:40 | 2023-05-05 | 2023-06-19 |
 | [amour](https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [aubades](https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo) | 4:37 | 2022-02-04 | 2022-02-19 |
@@ -562,7 +563,7 @@
 | [DOWN](https://open.spotify.com/track/2FLFmCpVrGBTp0C85BaFWL) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [DOWN](https://open.spotify.com/album/4PN3DB5DCWhfnKL8MPmmJV) | 2:45 | 2022-11-25 | 2022-12-24 |
 | [Downtown](https://open.spotify.com/track/3rybOnnSY3zc2D0JvPppo0) | [Bønanza](https://open.spotify.com/artist/1gfTnzN2xB9VkU72PkBB30) | [Downtown](https://open.spotify.com/album/3c76ckHHJ1sEgrtJ2LqZQ5) | 3:04 | 2022-05-06 | 2022-05-14 |
 | [Downtown Contrecœur](https://open.spotify.com/track/2cxdHELPfDBZblp9wGQIjp) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Échos d'une vie distante : volume 2](https://open.spotify.com/album/10pkUKc4yyNsFshI8lHlha) | 3:11 | 2022-11-04 | 2022-11-19 |
-| [Drifté](https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/573smzehvvzd4Nl5QoW1MW) | 2:40 | 2023-11-24 |  |
+| [Drifté](https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/573smzehvvzd4Nl5QoW1MW) | 2:40 | 2023-11-24 | 2024-01-28 |
 | [Drinking](https://open.spotify.com/track/4Sif8gDOINGLQ6gDP8yZjP) | [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0), [Bazzart](https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa) | [Tiamat, Mon Amour](https://open.spotify.com/album/0Rh29AQkiNEw3wJNHC4Bzq) | 4:08 | 2023-02-03 | 2023-02-18 |
 | [Droit dedans](https://open.spotify.com/track/2ecLGITx4Bv3mwlTLvx3km) | [Ressak](https://open.spotify.com/artist/2IFoXbYSr2NzsGfi6VFtzO) | [Droit dedans](https://open.spotify.com/album/7AGF7ydG2lpxKKYwjl7z4M) | 3:01 | 2022-02-04 | 2022-02-12 |
 | [Drug Dealin](https://open.spotify.com/track/3cwQfiYlCCsA4TcsbMxYv2) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Mélodie\-Jade](https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK) | [Little Bro](https://open.spotify.com/album/69GbVidiLTfUezF80QTcff) | 3:12 | 2022-12-02 | 2023-01-14 |
@@ -1396,6 +1397,7 @@
 | [Miaou](https://open.spotify.com/track/01x9DQSPwnNAKaqJAcoqs9) | [Sainte\-Croix](https://open.spotify.com/artist/6DXllKnZVeC1AJOMWt7vig) | [Miaou](https://open.spotify.com/album/0eaHgb7sa2m74RtCDSYhBN) | 4:23 | 2021-12-31 | 2022-01-22 |
 | [MICRODOSE](https://open.spotify.com/track/6ccLf6BQBxl863pP57yr3g) | [Whitie](https://open.spotify.com/artist/0i91b2mJ9VCTPDvBEmOTID) | [VITE!](https://open.spotify.com/album/7HsaVeXEfVsB6SAO3Nrcqj) | 2:09 | 2022-05-13 | 2022-05-20 |
 | [Mieux que rien](https://open.spotify.com/track/2ThckaIohgGpUHiG87yObp) | [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Mieux que rien](https://open.spotify.com/album/4t1WcLs8gT4RlqptceZk6L) | 4:49 | 2022-09-30 | 2022-10-15 |
+| [Mignon tout plein](https://open.spotify.com/track/6ndhj3a2GDg2YiS1AvBVTC) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Chambre 140 \(Part.2\)](https://open.spotify.com/album/7vrXUFuevPiXzR76uGPbBZ) | 2:24 | 2024-01-26 |  |
 | [Million](https://open.spotify.com/track/4p6alDHcmLYFP9F2fym7o3) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Million](https://open.spotify.com/album/2JoVMQkDFadGmn29eIpOFR) | 2:22 | 2022-04-08 | 2022-04-23 |
 | [Millionnaire](https://open.spotify.com/track/2wzdnS3Iwjh0ltmZWNEZqD) | [Jay Jay](https://open.spotify.com/artist/42IVM8biRfwghSfukPMimt) | [Millionnaire](https://open.spotify.com/album/5uE3d5oUX3vlC8n875vRNw) | 2:34 | 2023-03-24 | 2023-04-09 |
 | [Mirage](https://open.spotify.com/track/3AmYQR8cv6hyKT0fXNW9FW) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Mirage](https://open.spotify.com/album/59vyoMjXigxYFyldmtgHzm) | 2:54 | 2022-04-29 | 2022-05-14 |
@@ -1656,7 +1658,7 @@
 | [Plus qu'assez](https://open.spotify.com/track/5TvGIuBUdc53iD6NrYfjK7) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Plus qu'assez](https://open.spotify.com/album/74eMYBI9D5AtWcVBogXz9o) | 3:23 | 2022-10-21 | 2022-10-29 |
 | [Plus que](https://open.spotify.com/track/4jYENrEA31fBzgCsEVc6x7) | [Lhéfé](https://open.spotify.com/artist/3bzQSOFEd6Zgzxi8nyhxOY) | [Mentir mon plaisir](https://open.spotify.com/album/5kG61u4EiSpCZhPw6QrSC0) | 3:41 | 2023-01-13 | 2023-01-21 |
 | [Plutôt déplacé](https://open.spotify.com/track/2jpbta5vtKmrIVBEdq4ExY) | [Kaziopée](https://open.spotify.com/artist/40WmSMLxlKOHuS5jHb93QW), [Liamliamliam](https://open.spotify.com/artist/5cNw5xb7EVrmuoPSFOy3Xw) | [Plutôt déplacé](https://open.spotify.com/album/4zwILO2IYlpwTOk4d8kD9Q) | 3:23 | 2022-02-18 | 2022-03-05 |
-| [POISON](https://open.spotify.com/track/3Z29095berlRpJ3R31ZXmD) | [Dospunto](https://open.spotify.com/artist/74I7IwjAcqaomlLrjNRqvD), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [POISON](https://open.spotify.com/album/619vWtlvr2x1MopmkxmMvQ) | 3:09 | 2024-01-12 |  |
+| [POISON](https://open.spotify.com/track/3Z29095berlRpJ3R31ZXmD) | [Dospunto](https://open.spotify.com/artist/74I7IwjAcqaomlLrjNRqvD), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [POISON](https://open.spotify.com/album/619vWtlvr2x1MopmkxmMvQ) | 3:09 | 2024-01-12 | 2024-01-28 |
 | [Polaroid \#1 \- Blessé](https://open.spotify.com/track/0rliboiIZIlevZSkMFvKUW) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Polaroid \#1 \- Blessé](https://open.spotify.com/album/5CEiYd5axZBToAntA9BdZs) | 3:04 | 2022-01-28 | 2022-02-12 |
 | [Polaroid \#2 \- Sourire](https://open.spotify.com/track/0uvNqcBOSwX1ySykAFpxB3) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Polaroid \#2 \- Sourire](https://open.spotify.com/album/2egUuSRrujsuUcvjqM1sjP) | 2:24 | 2022-02-25 | 2022-03-12 |
 | [Police à ma porte](https://open.spotify.com/track/4efHCpCu3cmXSZPcZnemUS) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [Police à ma porte](https://open.spotify.com/album/6s1K0Koo24rGmV33PZYyzv) | 2:29 | 2023-02-10 | 2023-02-25 |

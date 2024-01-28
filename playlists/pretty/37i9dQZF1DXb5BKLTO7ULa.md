@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: RONDÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,962 likes - 102 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,796 likes - 102 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 16 | [Louder](https://open.spotify.com/track/2uNoq7Xuqo7wBBg1rU3Xjk) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Louder](https://open.spotify.com/album/1oQupLohOrOigi27xo9qwf) | 3:49 |
 | 17 | [Waterslides](https://open.spotify.com/track/1SBfaO3swtjh8dV07MExuP) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Waterslides](https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i) | 2:38 |
 | 18 | [Something About It](https://open.spotify.com/track/6YNCKtSjrRBmeJglRNK6Yn) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Something About It](https://open.spotify.com/album/3J89YUZ9n0PZKs0wcVvwqd) | 3:20 |
-| 19 | [Stille Pijn](https://open.spotify.com/track/3giaPcqlpiX6SG6lwRRj55) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Stille Pijn](https://open.spotify.com/album/39Cg6qp3pv6FW7SKpF2bFm) | 3:23 |
+| 19 | [Stille Pijn \(Stip it!\)](https://open.spotify.com/track/3giaPcqlpiX6SG6lwRRj55) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Stille Pijn \(Stip it!\)](https://open.spotify.com/album/39Cg6qp3pv6FW7SKpF2bFm) | 3:23 |
 | 20 | [Waarom?](https://open.spotify.com/track/0MYgi2gsQQOCs38HHKN1Mp) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Waarom?](https://open.spotify.com/album/3pLSB99kUd2FJ0g77mIT3b) | 2:43 |
-| 21 | [Mayhem \(feat\. Naaz\)](https://open.spotify.com/track/5bwPnJFIx1DdkycTgmtRTM) | [Pete Philly & Perquisite](https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2), [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Mayhem \(feat\. Naaz\)](https://open.spotify.com/album/7iEPz4WQ618rjOYC5QYy96) | 3:24 |
+| 21 | [Mayhem](https://open.spotify.com/track/5bwPnJFIx1DdkycTgmtRTM) | [Pete Philly & Perquisite](https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2), [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Mayhem](https://open.spotify.com/album/7iEPz4WQ618rjOYC5QYy96) | 3:24 |
 | 22 | [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 |
 | 23 | [Read The Room](https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 5:14 |
 | 24 | [DOPAMINE](https://open.spotify.com/track/6Z0ydsxwmkKL8yPX0RFjT0) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [DOPAMINE](https://open.spotify.com/album/4kA2V4fDHI0krhrwkb5XDn) | 2:44 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 30 | [Bonus](https://open.spotify.com/track/3KXeTMIdec8G6rclrOFKTL) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc), [Jantje](https://open.spotify.com/artist/4qkXUou0EQ56wmcais8uwJ) | [Bonus](https://open.spotify.com/album/78BcIlHd26IcfnBgOKK2jQ) | 2:10 |
 | 31 | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/album/3xYwyMzauc6ENKu2HhpuiP) | 3:15 |
 | 32 | [Lovers' Leap](https://open.spotify.com/track/1p8mrJtkM4KFa72LLQy2yP) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Lovers' Leap](https://open.spotify.com/album/6AAd32SmYdG4DTBIEuHFbp) | 4:34 |
-| 33 | [Nog Een Keer](https://open.spotify.com/track/0p24oHzyK4XctH0qmndvdh) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Nog Eén Keer](https://open.spotify.com/album/7GLyOaQNW4igaXVaaMdfRS) | 4:31 |
+| 33 | [Nog Een Keer](https://open.spotify.com/track/0p24oHzyK4XctH0qmndvdh) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Nog Een Keer](https://open.spotify.com/album/7GLyOaQNW4igaXVaaMdfRS) | 4:31 |
 | 34 | [The Great Vacation](https://open.spotify.com/track/5UuyeYhT1MgaJRxYBsXYu9) | [JOHAN](https://open.spotify.com/artist/0RBuJpjFEGVDZ7CWq3UcdQ) | [The Great Vacation](https://open.spotify.com/album/79OqGVw6UM81TuF79kpwtW) | 3:27 |
 | 35 | [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 |
 | 36 | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A) | 5:00 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 101 | [No Evil](https://open.spotify.com/track/7JHVXlqkoXViFD4giUlzEs) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [No Evil](https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R) | 2:25 |
 | 102 | [Because of Time](https://open.spotify.com/track/1DbBwYO45JkraXVHX7aHTW) | [NORE](https://open.spotify.com/artist/1TY6Dy5en43uAZPIcXql0Q) | [Because of Time](https://open.spotify.com/album/6r70FuRYrX28vRJmaa6d50) | 3:35 |
 
-Snapshot ID: `MCwzNzg5Y2YyNjZhYTBjMjhkNGQxMTE5ZDUwNmY4ZjA5YzQwMDE0ZDIz`
+Snapshot ID: `MCxhODcxZTNhNjUwY2MzMzk5MzIyYjE1OTE4N2Q2YWU1ZjBlMDY1Y2U4`

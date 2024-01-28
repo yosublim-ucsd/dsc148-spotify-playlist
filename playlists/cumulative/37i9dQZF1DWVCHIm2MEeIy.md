@@ -4,7 +4,7 @@
 
 > The dancefloor is the place to be 🪩
 
-359 songs - 1 day 8 hr 44 min
+360 songs - 1 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [All I See \- BAUGRUPPE90 Remix](https://open.spotify.com/track/56fgIOoSnJS3yPmxrjKx9c) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV), [BAUGRUPPE90](https://open.spotify.com/artist/6pKJqozqp0jdugOsyFRGMx) | [All I See \(BAUGRUPPE90 Remix\)](https://open.spotify.com/album/1mGR41NcbBasYYAoYJu3Qh) | 6:19 | 2022-04-15 | 2022-05-19 |
 | [All The Little Things](https://open.spotify.com/track/5aZE1JRO2x1YvBQr5ssHK2) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [All The Little Things EP](https://open.spotify.com/album/08VBmpMr5rhtIWx2oI4Pc5) | 6:56 | 2022-04-15 | 2023-01-09 |
 | [Almost Everything](https://open.spotify.com/track/4pxC44xd2qCE3FnOcrFdtT) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Hand In Hand](https://open.spotify.com/album/5QFKgCvQUFnHDeWbdCQ6aO) | 3:54 | 2023-08-30 | 2023-11-16 |
+| [AMA](https://open.spotify.com/track/4aJo4L06xodly3Gam3MSoP) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW), [Mar+Mer](https://open.spotify.com/artist/5RYSSOzPU8mkHGBq0S64xa) | [AMA](https://open.spotify.com/album/5YjPVazlA5oBaWvOfUIVfb) | 5:34 | 2024-01-26 |  |
 | [Amethyst](https://open.spotify.com/track/3te14QVhgWAkC3kNMIcy5m) | [Stefanie Raschke](https://open.spotify.com/artist/6IJSvFITTxANPakKiCYyl7) | [Triation, Vol\. II](https://open.spotify.com/album/3CBYYnnmwIIJmWdPlvzfSy) | 6:24 | 2022-04-15 | 2022-07-28 |
 | [Amica](https://open.spotify.com/track/29kqu8w6ROHKgqstqXzaPo) | [Beatamines](https://open.spotify.com/artist/12q8WblexNLJ0QGejfoeXK) | [Amica](https://open.spotify.com/album/0JDo6LmQxWzLRKP9xxhIBE) | 6:24 | 2022-04-15 | 2022-05-18 |
 | [Andromeda](https://open.spotify.com/track/4pB3Uiyv8HbuUAB9YYq7hK) | [Third Person](https://open.spotify.com/artist/66t8meyd0W90QMjxHiDoSc), [Notron](https://open.spotify.com/artist/62cnC7oCiB2QNHwchcORGB) | [Andromeda](https://open.spotify.com/album/6FMv927nFXLB5T2x8sAEpW) | 7:34 | 2022-09-30 | 2022-10-08 |
@@ -171,7 +172,7 @@
 | [Intuition](https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Intuition](https://open.spotify.com/album/2kORg46W2CuossZxEm5qOO) | 3:23 | 2023-11-14 |  |
 | [Irani \- Joris Delacroix Remix](https://open.spotify.com/track/0RAKYllv4sHLI5GzDXIOqd) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO), [Joris Delacroix](https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1) | [Irani \(Joris Delacroix Remix\)](https://open.spotify.com/album/3mSD8QLyj9Nl7jAC82J2c6) | 3:48 | 2022-04-15 | 2022-06-16 |
 | [Is This Our Earth?](https://open.spotify.com/track/4oDRXykJhBsUZJOODiQ18M) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Is This Our Earth?](https://open.spotify.com/album/316bE5c2saBR5h40GBARwm) | 3:41 | 2022-06-24 | 2023-08-07 |
-| [Joy](https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Joy](https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv) | 4:21 | 2023-06-30 |  |
+| [Joy](https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Joy](https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv) | 4:21 | 2023-06-30 | 2024-01-28 |
 | [KEEP ME IN YOUR MIND \- Einmusik Remix](https://open.spotify.com/track/1M3CJIRObczFPT529PyzMy) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [KEEP ME IN YOUR MIND \(Einmusik Remix\)](https://open.spotify.com/album/7uJQ17FKSVFfty0wsa4AMb) | 6:29 | 2023-04-07 | 2023-05-28 |
 | [Known](https://open.spotify.com/track/7HifJr6sXlPCtnfPnMC0Rg) | [Visual Impact](https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI) | [Known](https://open.spotify.com/album/2xnS4KlBwyc8sYKPJ5kmpk) | 4:26 | 2022-11-14 | 2022-12-27 |
 | [Lady Cherry](https://open.spotify.com/track/1FegqJzuhbp7XZY4gT5EoW) | [Whitesquare](https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI) | [Discreet Moment Thing Pt\. 2](https://open.spotify.com/album/7FK2B1ZpjFe2JI5B3MXea0) | 5:42 | 2022-06-24 | 2023-05-20 |

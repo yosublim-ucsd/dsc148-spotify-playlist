@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 
 > Free\-spirited, atmospheric vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,411 likes - 164 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,153 likes - 164 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,7 +144,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 134 | [Blind Man \(Gionna Lee Remix\)](https://open.spotify.com/track/1dx7c3AyA4F9m82gXMqSQU) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Blind Man \(Gionna Lee Remix\)](https://open.spotify.com/album/6N6i6STxE8KkiZ4oD2v128) | 3:33 |
 | 135 | [Berlin](https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 2:54 |
 | 136 | [Does Anybody Know](https://open.spotify.com/track/1YAgRoxeqVip0wIjurbJ3P) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 3:27 |
-| 137 | [Rising Water](https://open.spotify.com/track/3e288OThYet2Tjbgq8gGla) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Move](https://open.spotify.com/album/5VECsj7IRVQjIAwMC8LAUa) | 4:56 |
+| 137 | [Rising Water](https://open.spotify.com/track/6K62vFcsdye08qiZcpANpC) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Move](https://open.spotify.com/album/0QcZCmPvkoSmvbhnfachB0) | 4:56 |
 | 138 | [Tide Teeth](https://open.spotify.com/track/36irNJ4c2w9rQAc41e3b64) | [Night Beds](https://open.spotify.com/artist/533wKOfkJylNSi6ntO1wXd) | [Ivywild](https://open.spotify.com/album/5EiWCTMEuUuLW9HS2zbVDe) | 4:06 |
 | 139 | [Triptych](https://open.spotify.com/track/5SYfajDZMuiromYotmMp3i) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:06 |
 | 140 | [Sadness Is Taking Over](https://open.spotify.com/track/6Eos3ejwtcIinRuYDF1jim) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Nothing Lasts Forever \(And It's Fine\)](https://open.spotify.com/album/4cyvsgs2Sx5JeVqOkXZdSe) | 3:48 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 163 | [Reds](https://open.spotify.com/track/2hBqCLEJc1OiRjMjHW2BnM) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/5lVHUBJ98A0YBQa1HPkamR) | 2:58 |
 | 164 | [Looking For You](https://open.spotify.com/track/7l97DrJ8QQuScv0vr7jLug) | [Ev Carm](https://open.spotify.com/artist/7HRu2XaMM0YFdWqKGDiQtL) | [Looking For You](https://open.spotify.com/album/5pEYv4wPABSjxjXgkyQFpE) | 4:22 |
 
-Snapshot ID: `MCxjNmIzOGNjODUxMDJlZTRkZjEzMmE4NDdjZjE2MDAwNDliNzkyNmRi`
+Snapshot ID: `MCw5ZGVhODUwNzk4OTVkYzYyMjAwMzk2MTgwMzFlMTlhNDlmM2M1Y2U4`

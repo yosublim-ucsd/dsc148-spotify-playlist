@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 63021,
+  "2024-01-28": 62946,
   "date_first_scraped": "2022-01-09",
   "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Audrey Vanessa",
   "name": "Fresh Finds Indonesia",
@@ -42021,6 +42021,24 @@
       "duration_ms": 181621,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/1IjgRvB84ShOBxAO1iTqLt"
+    },
+    {
+      "album": {
+        "name": "Saturday Night",
+        "url": "https://open.spotify.com/album/6Thx3HaT2j4m9r8A3EIA2u"
+      },
+      "artists": [
+        {
+          "name": "Merindink Disko",
+          "url": "https://open.spotify.com/artist/7uORYqO84wkxjXknxCA6k2"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203571,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/50OV9WQpFOpmy1m7wiQApy"
     },
     {
       "album": {

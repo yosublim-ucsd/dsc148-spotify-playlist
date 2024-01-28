@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-545 songs - 1 day 8 hr 19 min
+546 songs - 1 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [AVE MARÍA](https://open.spotify.com/track/5d7RuDDWI7TcCNWJMsaUqN) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [LA SANTÍSIMA TRINIDAD](https://open.spotify.com/album/42YySIet0Gr5dtERZBsFt0) | 1:58 | 2023-08-04 | 2023-08-19 |
 | [Ayer](https://open.spotify.com/track/74VnW6FcqDA0dIya9myWhA) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [Ayer](https://open.spotify.com/album/4uGoe4piSnx77jxLOJPMKz) | 3:05 | 2022-06-03 | 2023-02-05 |
 | [Azul](https://open.spotify.com/track/7jUG0DPV7K1r0gHBvF6BFz) | [Luciana Tagliapietra](https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Azul](https://open.spotify.com/album/7xmxWuzUa907hkQYL64jJD) | 2:50 | 2023-08-11 | 2023-10-06 |
-| [Año Nuevo](https://open.spotify.com/track/09cXnDoBkKnabWnmkb5xmQ) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Año Nuevo](https://open.spotify.com/album/4m09ocOHrupQEz7nHA6VBK) | 3:31 | 2023-06-23 |  |
+| [Año Nuevo](https://open.spotify.com/track/09cXnDoBkKnabWnmkb5xmQ) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Año Nuevo](https://open.spotify.com/album/4m09ocOHrupQEz7nHA6VBK) | 3:31 | 2023-06-23 | 2024-01-28 |
 | [Año Viejo](https://open.spotify.com/track/59kbsKYSbQmVOZDDBuDKAI) | [Cabeza Flotante](https://open.spotify.com/artist/0iF7OWW10dBklfM0Hsc0VH) | [Año Viejo](https://open.spotify.com/album/78aEkXgwwwoEY6764Saus9) | 5:10 | 2022-07-01 | 2022-07-29 |
 | [Bailando tristes](https://open.spotify.com/track/6ZMqp7LzIZ6u9D3I8ryWpi) | [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Parcialmente nublado](https://open.spotify.com/album/4ORofRFEKE8XdwPtseVnf4) | 3:04 | 2022-09-30 | 2023-10-27 |
 | [Bajo las Sombras](https://open.spotify.com/track/2GLwpugztC0QylwpvtIbnB) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Canciones Sobre una Casa, Cuatro Amigos y un Perro](https://open.spotify.com/album/311nosRPXrVfCY5fg1TK5M) | 1:46 | 2022-07-01 | 2022-07-12 |
@@ -295,6 +295,7 @@
 | [Los Durmientes](https://open.spotify.com/track/0pkDnELNOI65NTqKzs3nt5) | [Niños Envueltos](https://open.spotify.com/artist/4QiYNutfcTLjci8bSeCFAy), [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Los Durmientes](https://open.spotify.com/album/3rS3ecr3PFmRvIIvsNitPQ) | 4:00 | 2022-06-03 | 2022-07-25 |
 | [Los Días Que No Estás](https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:15 | 2022-06-03 |  |
 | [Los Fantasmas](https://open.spotify.com/track/0aGYVf5anL1ZHeXR9ZBMKe) | [Gimena Alvarez Cela](https://open.spotify.com/artist/3pswrpKhrhyiwP8J5SQMm5) | [Los Fantasmas](https://open.spotify.com/album/29yX1nvE4qPlHePfgn0AOY) | 4:14 | 2022-07-01 | 2022-07-19 |
+| [Los Halcones](https://open.spotify.com/track/5TdKAGXN0JBooUcGP5jE0j) | [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Los Halcones](https://open.spotify.com/album/0VtAPQ89V7neq7B8RyevIz) | 5:26 | 2024-01-25 |  |
 | [Los Ritmos Violentos](https://open.spotify.com/track/4YGWkgNryrlJDUjlQ97RYA) | [La Luz Mandarina](https://open.spotify.com/artist/4VqRr9QKXxeVVVpJoePixr) | [Los Ritmos Violentos](https://open.spotify.com/album/4hk8jVK8tz5KS2oA3tK04Q) | 3:44 | 2022-06-03 | 2022-07-29 |
 | [Límite](https://open.spotify.com/track/6LBct1lCubyNMQPq7LgWEq) | [te quería mucho](https://open.spotify.com/artist/67aSH8n0Y4SeORd9DU9X6y) | [Límite](https://open.spotify.com/album/3uzSKlNYuN7gJUNnGCVrCZ) | 2:57 | 2022-07-15 | 2022-07-22 |
 | [Madrugada](https://open.spotify.com/track/3IoI9OAF88fZGLIdrDqTUf) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [Madrugada](https://open.spotify.com/album/4voLBSx8yHfNAttn5wzQw7) | 4:42 | 2022-06-03 | 2022-10-09 |

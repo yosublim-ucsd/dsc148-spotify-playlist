@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFFegQlq0Hb.md) - [plain]
 
 > TVアニメ<a href="https://jujutsukaisen.jp/">「呪術廻戦」</a> の公式プレイリスト。これまでのOP/ED曲、 <a href="spotify:show:1OApR2wyRtWRAydfmg3Vto">「呪術廻戦 じゅじゅとーく ニキ </a>」ポッドキャストを合わせてチェック！ / "You should use your strength to help others." \- Enjoy music and podcast from Jujutsu Kaisen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,278 likes - 99 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,423 likes - 99 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFFegQlq0Hb.md) - [plain]
 | 4 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
 | 5 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 |
 | 6 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 |
-| 7 | [Jujutsu Sorcerer](https://open.spotify.com/track/5RpkWyiCnuiy1hMQIjazBY) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [呪術廻戦 懐玉・玉折 / 渋谷事変 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0qypgV8wXEhhZyW5AExUUR) | 3:33 |
+| 7 | [Jujutsu Sorcerer](https://open.spotify.com/track/24pPHDLNDlUfWDNdAqSQ9N) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen Hidden Inventory/Premature Death, The Shibuya Incident Original Soundtrack](https://open.spotify.com/album/4QYMuzcdWP6xCtGT72XO0O) | 3:33 |
 | 8 | [Hidden Inventory](https://open.spotify.com/track/3F2BvwuOOs8cddpx2chlSC) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen Hidden Inventory/Premature Death \- Original Soundtrack](https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4) | 1:29 |
 | 9 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 |
 | 10 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
@@ -45,20 +45,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFFegQlq0Hb.md) - [plain]
 | 35 | [Arrogance](https://open.spotify.com/track/5kVaz8nPPGazclZHMESeLv) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen Hidden Inventory/Premature Death \- Original Soundtrack](https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4) | 2:21 |
 | 36 | [You Better Get Strong](https://open.spotify.com/track/0JSqME27H1MScwKofGT1DH) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen Hidden Inventory/Premature Death \- Original Soundtrack](https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4) | 2:16 |
 | 37 | [渋谷事変](https://open.spotify.com/track/0NwT16idH0DN4B5UiXGBnh) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [呪術廻戦 懐玉・玉折 / 渋谷事変 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0qypgV8wXEhhZyW5AExUUR) | 1:37 |
-| 38 | [Bad Situation](https://open.spotify.com/track/6rC2oBLdFItYZzwicExRAL) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [呪術廻戦 懐玉・玉折 / 渋谷事変 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0qypgV8wXEhhZyW5AExUUR) | 2:04 |
+| 38 | [Bad Situation](https://open.spotify.com/track/4dni4g1zsbys6GlD4NV7jV) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen Hidden Inventory/Premature Death, The Shibuya Incident Original Soundtrack](https://open.spotify.com/album/4QYMuzcdWP6xCtGT72XO0O) | 2:04 |
 | 39 | [領域展開](https://open.spotify.com/track/79QWnjeDw0kzA8gc4Bi1KQ) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [呪術廻戦 懐玉・玉折 / 渋谷事変 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0qypgV8wXEhhZyW5AExUUR) | 1:59 |
 | 40 | [蝗害](https://open.spotify.com/track/1w0cSEcqIEp3t7WKAS13ZE) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [呪術廻戦 懐玉・玉折 / 渋谷事変 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0qypgV8wXEhhZyW5AExUUR) | 1:59 |
 | 41 | [凶運](https://open.spotify.com/track/1NkSNoSAYVQk91EU3RCg4W) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [呪術廻戦 懐玉・玉折 / 渋谷事変 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0qypgV8wXEhhZyW5AExUUR) | 2:44 |
 | 42 | [溢れ出す3年間の青い春](https://open.spotify.com/track/52W6TwDpQI1S2Dqi6SRjEk) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [呪術廻戦 懐玉・玉折 / 渋谷事変 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0qypgV8wXEhhZyW5AExUUR) | 2:28 |
 | 43 | [昏乱](https://open.spotify.com/track/59uAHZNPxxEFrxwSqj1a36) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [呪術廻戦 懐玉・玉折 / 渋谷事変 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0qypgV8wXEhhZyW5AExUUR) | 1:40 |
 | 44 | [Expectation](https://open.spotify.com/track/2XHsaNL70o6UJssiUOz3tX) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [呪術廻戦 懐玉・玉折 / 渋谷事変 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0qypgV8wXEhhZyW5AExUUR) | 2:00 |
-| 45 | [Recapture](https://open.spotify.com/track/22WcQwuMKCaBPv6XOx25Tl) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [呪術廻戦 懐玉・玉折 / 渋谷事変 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0qypgV8wXEhhZyW5AExUUR) | 2:17 |
+| 45 | [Recapture](https://open.spotify.com/track/2ZqootMhR0lCeFSccvR19M) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen Hidden Inventory/Premature Death, The Shibuya Incident Original Soundtrack](https://open.spotify.com/album/4QYMuzcdWP6xCtGT72XO0O) | 2:17 |
 | 46 | [Equilibrium](https://open.spotify.com/track/2zGacoL4g5HOM2sS2uSlll) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [呪術廻戦 懐玉・玉折 / 渋谷事変 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0qypgV8wXEhhZyW5AExUUR) | 2:36 |
 | 47 | [共闘](https://open.spotify.com/track/0yCuYKubFjh29uiGCRYSJ9) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [呪術廻戦 懐玉・玉折 / 渋谷事変 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0qypgV8wXEhhZyW5AExUUR) | 1:54 |
 | 48 | [鈍刀](https://open.spotify.com/track/6kKT6yE11anI6gn9vPXjVu) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [呪術廻戦 懐玉・玉折 / 渋谷事変 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0qypgV8wXEhhZyW5AExUUR) | 3:11 |
 | 49 | [特級特定疾病呪霊「疱瘡神」](https://open.spotify.com/track/46SdpvFu40lnUwCnICP6vB) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [呪術廻戦 懐玉・玉折 / 渋谷事変 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0qypgV8wXEhhZyW5AExUUR) | 1:58 |
 | 50 | [赫鱗](https://open.spotify.com/track/3ndHEWE01XlBAwFJWUTCNa) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [呪術廻戦 懐玉・玉折 / 渋谷事変 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0qypgV8wXEhhZyW5AExUUR) | 2:28 |
-| 51 | [Resolve](https://open.spotify.com/track/5qWz4b9sP1NbHgg38z807f) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [呪術廻戦 懐玉・玉折 / 渋谷事変 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0qypgV8wXEhhZyW5AExUUR) | 3:52 |
+| 51 | [Resolve](https://open.spotify.com/track/6xyEVsjZqOykJ57BSIpWn0) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen Hidden Inventory/Premature Death, The Shibuya Incident Original Soundtrack](https://open.spotify.com/album/4QYMuzcdWP6xCtGT72XO0O) | 3:52 |
 | 52 | [記憶](https://open.spotify.com/track/0tMH6qfpkX2yhOly5okbxv) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [呪術廻戦 懐玉・玉折 / 渋谷事変 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0qypgV8wXEhhZyW5AExUUR) | 2:40 |
 | 53 | [揺蕩](https://open.spotify.com/track/3T0WYvkNRfP8OcBcjqamhB) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [呪術廻戦 懐玉・玉折 / 渋谷事変 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0qypgV8wXEhhZyW5AExUUR) | 1:39 |
 | 54 | [目覚め](https://open.spotify.com/track/1Q2z6od8ojU61fcWuIWTIT) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [呪術廻戦 懐玉・玉折 / 渋谷事変 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0qypgV8wXEhhZyW5AExUUR) | 2:34 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFFegQlq0Hb.md) - [plain]
 | 98 | [REMEMBER](https://open.spotify.com/track/5LpoOEvLsPtK9baecA3Gnp) | [Masto \(coldrain\)](https://open.spotify.com/artist/6lnOwnN8wy4PO5nbkYRQ7D), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Jujutsu Kaisen \(Original Television Soundtrack\)](https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt) | 4:03 |
 | 99 | [Hurt](https://open.spotify.com/track/6QGA2ZzFliSA1Dsg7rBoJJ) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Jujutsu Kaisen \(Original Television Soundtrack\)](https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt) | 1:46 |
 
-Snapshot ID: `MCwzNTYyNjVmMDRkNTUyZmM4ZDFiY2UyYmViYzMwYjQxNWU0ZWQ4MTg2`
+Snapshot ID: `MCwwYmRhYWZhYmRjN2UxNGJjZmNjMTgwMTY4MTY1Mzc2ZGY0MTM1ZWEz`

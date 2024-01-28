@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. José Manuel en portada.
 
-360 songs - 19 hr 9 min
+362 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Buscándole A La Suerte](https://open.spotify.com/track/2jOajXFkllEHWaHgSzhuBV) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Buscándole A La Suerte](https://open.spotify.com/album/74bPnWHzQtUocCjMpK08au) | 2:18 | 2023-10-27 | 2024-01-27 |
 | [Bye](https://open.spotify.com/track/7FI04jmsPiLOz4GfpnCw3M) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [GXLE 3](https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk) | 2:38 | 2023-01-13 |  |
 | [Bélico y Cholo](https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Bélico y Cholo](https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2) | 3:22 | 2023-02-13 |  |
+| [Cada Momento](https://open.spotify.com/track/6QKSO8CgXXbKhiF5tXuR7Y) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Cada Momento](https://open.spotify.com/album/0A6RmcqUuTpPOqBoWfc0ik) | 2:53 | 2024-01-26 |  |
 | [Cada Quién](https://open.spotify.com/track/6UPOxWsisPOym7N5ok3bJn) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe), [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [Requinteando Desde el Llano \- Primera Función](https://open.spotify.com/album/43JpLEtot2hiKlpXPbkdFX) | 3:54 | 2024-01-12 |  |
 | [Cajas De Parke](https://open.spotify.com/track/2yIKNAZ0eXxTx3r3Emfmdk) | [Juanillo Diaz](https://open.spotify.com/artist/43QAcxJuLK8pBo8yKn2Vgz) | [Cajas De Parke](https://open.spotify.com/album/716M4KOIq0Fawqxx56r9qv) | 2:10 | 2022-07-01 | 2022-07-22 |
 | [Calidad](https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Calidad](https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb) | 2:50 | 2022-07-12 |  |
@@ -58,6 +59,7 @@
 | [Como Jordan](https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:45 | 2022-07-01 | 2023-10-28 |
 | [Como Olvidar](https://open.spotify.com/track/6yp2M1xFQPOlhWJJ7pfs49) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Como Olvidar](https://open.spotify.com/album/68VI31gsdOueIYjSKPwPlx) | 3:24 | 2023-06-30 |  |
 | [Como Pancho Villa](https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Como Pancho Villa](https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob) | 2:23 | 2023-12-01 |  |
+| [Como Voy A Ser Feliz](https://open.spotify.com/track/6W4Ucfw40WxD7aalcP3jzA) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Como Voy A Ser Feliz](https://open.spotify.com/album/4MHiwcjO1vjEwQ8yVpEQId) | 2:53 | 2024-01-26 |  |
 | [Compadre](https://open.spotify.com/track/0UIeDAcAJnK7cI3QB23aZh) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm), [ARIEL Y ARIEL](https://open.spotify.com/artist/2tKbVyoH9jXnU2qp1w50ni) | [Compadre](https://open.spotify.com/album/59IflGMetd1sXRyp8cxhze) | 3:33 | 2023-07-14 | 2023-08-05 |
 | [Confiar En Mi](https://open.spotify.com/track/3wVm1plAjtErQGzWeAsNT4) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Confiar En Mi](https://open.spotify.com/album/07pKI6CF1hD9kTgLGQrNhp) | 4:44 | 2022-07-01 | 2022-08-06 |
 | [Corazón](https://open.spotify.com/track/3rVlDhGNxSQApSOFM4XHYd) | [Los Luna](https://open.spotify.com/artist/3je77Yzq2c9d7lcxx7hvkC) | [Corazón](https://open.spotify.com/album/4xM0FfeqFIyDwYbWhjuBoe) | 3:03 | 2023-08-04 |  |
@@ -226,7 +228,7 @@
 | [No Es Por Acá](https://open.spotify.com/track/6tEl8GwFJEFyxZAO1ibTRF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:47 | 2023-08-04 |  |
 | [No Falta Mas Tiempo](https://open.spotify.com/track/6xmtB0oKuEFvwm7jnGkNdg) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [No Falta Mas Tiempo](https://open.spotify.com/album/26ZmTzkhby5ov3PFa3o5jY) | 2:46 | 2022-07-01 | 2023-01-14 |
 | [No Fue Suerte](https://open.spotify.com/track/5JlFFZzslIp8Ljnl4DRr5X) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Galvancillo](https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV) | [No Fue Suerte](https://open.spotify.com/album/5QxLA2T5xN1exwvi8Nbj3m) | 2:40 | 2023-01-20 | 2023-12-02 |
-| [No Fue, Ni Sera](https://open.spotify.com/track/1sSRM8CaJcYNu3cfjfsG9t) | [Chacho Y Su Vagancia](https://open.spotify.com/artist/4Amw1TvsWkH2pWxZHF8pk6) | [No Fue, Ni Sera](https://open.spotify.com/album/2vhJmViptUP7peDwdk7QOb) | 2:44 | 2024-01-26 |  |
+| [No Fue, Ni Sera](https://open.spotify.com/track/1sSRM8CaJcYNu3cfjfsG9t) | [Chacho Y Su Vagancia](https://open.spotify.com/artist/4Amw1TvsWkH2pWxZHF8pk6) | [No Fue, Ni Sera](https://open.spotify.com/album/2vhJmViptUP7peDwdk7QOb) | 2:44 | 2024-01-26 | 2024-01-28 |
 | [No Fuimos Nada](https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [No Fuimos Nada](https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz) | 3:02 | 2023-01-27 | 2023-02-18 |
 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 | 2022-03-04 |  |
 | [No Quiero Agarrar El Rollo](https://open.spotify.com/track/5cM3YFGrnT7EdFNW4kPWv6) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [No Quiero Agarrar El Rollo](https://open.spotify.com/album/46KXJipvIK5dbK6PyltADi) | 2:01 | 2022-12-02 | 2023-05-18 |
@@ -246,7 +248,7 @@
 | [Paradise](https://open.spotify.com/track/5BRXdfXZ5il3XRqtOe9bfj) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [El Chachito](https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ) | [GXLE 3](https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk) | 3:26 | 2022-04-15 | 2023-01-21 |
 | [Pensamientos Grandes](https://open.spotify.com/track/59ENQOCMamUD6WdUN54mcW) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Pensamientos Grandes](https://open.spotify.com/album/4z3q8XT5a2F91iMH9BIKYf) | 4:03 | 2023-05-24 | 2023-07-03 |
 | [Peonia](https://open.spotify.com/track/7kabKZcIsgr5WS5HU94sif) | [Uriel S\. Vázquez](https://open.spotify.com/artist/4s3ux0QXjgaBei8QhxipQ4) | [Peonia](https://open.spotify.com/album/4PATQVUcznSUjIJUq0KET5) | 2:25 | 2024-01-26 |  |
-| [Perdón](https://open.spotify.com/track/2jX6y5EbdBnR4X6NAF7Dfa) | [Angel Montoya](https://open.spotify.com/artist/2z176UA0TCYX0tghkNY5rH) | [Perdón](https://open.spotify.com/album/0bzVWnB7XlGYAyP4z35Egy) | 2:52 | 2024-01-26 |  |
+| [Perdón](https://open.spotify.com/track/2jX6y5EbdBnR4X6NAF7Dfa) | [Angel Montoya](https://open.spotify.com/artist/2z176UA0TCYX0tghkNY5rH) | [Perdón](https://open.spotify.com/album/0bzVWnB7XlGYAyP4z35Egy) | 2:52 | 2024-01-26 | 2024-01-28 |
 | [Perfecta](https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [Las Pacas](https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX) | 4:41 | 2022-04-18 |  |
 | [Perro Abandonado](https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Perro Abandonado](https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI) | 3:31 | 2022-07-01 |  |
 | [Piensa En Mi](https://open.spotify.com/track/2JSmFHR2FpruHXgF5udA1l) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Piensa En Mi](https://open.spotify.com/album/3QvltqphdmNGv93YoM310C) | 3:24 | 2023-09-08 |  |

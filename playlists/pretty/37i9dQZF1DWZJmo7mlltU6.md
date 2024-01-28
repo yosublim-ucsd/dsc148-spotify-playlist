@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: HYBS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,976 likes - 98 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,046 likes - 98 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 97 | [vulnerable](https://open.spotify.com/track/41iIfXRMk0pS2K1N1Y0j6C) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [FDA](https://open.spotify.com/album/6DlORJmquAxLQ3UALhbkcn) | 2:39 |
 | 98 | [Semi Automatic Butane](https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Semi Automatic Butane](https://open.spotify.com/album/3Z5Ozc5CVfx8Tojvj8Z8GY) | 3:29 |
 
-Snapshot ID: `MCwwZThlYTI0YjYzNTRhYWNkMGVlODE4NmRmZjllYWI4NWZjYzJiZWZj`
+Snapshot ID: `MCw5NWU1ZTQ3MDk2NzRkODYxMmVkMmY2NGRkYWFmMjdiNWI3NzFjNGEw`

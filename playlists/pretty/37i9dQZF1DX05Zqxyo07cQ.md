@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Zqxyo07cQ.md) - [plain]
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,161 likes - 290 songs - 14 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,536 likes - 290 songs - 14 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -299,4 +299,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Zqxyo07cQ.md) - [plain]
 | 289 | [Desiderio](https://open.spotify.com/track/0wOCx6BAKo9ZSpejgL8C2Y) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Desiderio](https://open.spotify.com/album/3sN0qF9BHNIrLSN2Z0IWYk) | 3:26 |
 | 290 | [Illa Pancha](https://open.spotify.com/track/1aU0CFHRycE2Va7CVmDZEX) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Candieira](https://open.spotify.com/album/2VKD43M5UUzJvi2rHHmSEe) | 2:40 |
 
-Snapshot ID: `MCw5MjcyZDk3MGVmMTJlMTkzM2ZmY2Y0MGFlY2I3Njk1YTIzZmZjNGMw`
+Snapshot ID: `MCwzYmYzMmRkNzA5NzlhZWFmNmVhMTExNTgxZjhjOWIwNzAxZDUzNzkx`

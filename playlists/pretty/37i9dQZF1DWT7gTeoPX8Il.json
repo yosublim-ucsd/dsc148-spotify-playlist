@@ -1,12 +1,12 @@
 {
   "description": "layan je",
-  "num_followers": 103676,
+  "num_followers": 103823,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGU0MDNhZDVkMjI5MzgzMDk1NDc2YjZkMzFhMzM0NTYxYjdkNWQ1",
+  "snapshot_id": "MCxhNWZhNjE3NWI0Njk4MmFlMmI3YmNhM2U1MTI5NmZlYTI3N2ZlNDY1",
   "tracks": [
     {
       "added_at": "2024-01-25 16:06:15",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-01-25 16:06:15",
       "album": {
-        "name": "Tak Segampang Itu",
-        "url": "https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG"
-      },
-      "artists": [
-        {
-          "name": "Anggi Marito",
-          "url": "https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx"
-        }
-      ],
-      "duration_ms": 231100,
-      "name": "Tak Segampang Itu",
-      "url": "https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU"
-    },
-    {
-      "added_at": "2024-01-25 16:06:15",
-      "album": {
         "name": "Meraih Bintang",
         "url": "https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 234546,
       "name": "Karena Kamu",
       "url": "https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD"
+    },
+    {
+      "added_at": "2024-01-25 16:06:15",
+      "album": {
+        "name": "Tak Segampang Itu",
+        "url": "https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG"
+      },
+      "artists": [
+        {
+          "name": "Anggi Marito",
+          "url": "https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx"
+        }
+      ],
+      "duration_ms": 231100,
+      "name": "Tak Segampang Itu",
+      "url": "https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU"
     },
     {
       "added_at": "2024-01-25 16:06:15",
@@ -203,13 +203,13 @@
     {
       "added_at": "2024-01-25 16:06:15",
       "album": {
-        "name": "Break The Silence (Indonesia Version)",
+        "name": "Break The Silence",
         "url": "https://open.spotify.com/album/27OWtD1B5EOAVq7sBfEZgO"
       },
       "artists": [
         {
           "name": "Audrey Vanessa",
-          "url": "https://open.spotify.com/artist/70cqnOZWrVt9sxZzBX3E8f"
+          "url": "https://open.spotify.com/artist/0wKI7n8o1gQRhMV8R5nGSA"
         }
       ],
       "duration_ms": 228000,
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-01-25 16:06:15",
       "album": {
+        "name": "Tak Dianggap",
+        "url": "https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "duration_ms": 179841,
+      "name": "Tak Dianggap",
+      "url": "https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe"
+    },
+    {
+      "added_at": "2024-01-25 16:06:15",
+      "album": {
         "name": "Nanti Kita Seperti Ini",
         "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 325147,
       "name": "Duka",
       "url": "https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC"
-    },
-    {
-      "added_at": "2024-01-25 16:06:15",
-      "album": {
-        "name": "Tak Dianggap",
-        "url": "https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j"
-      },
-      "artists": [
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        }
-      ],
-      "duration_ms": 179841,
-      "name": "Tak Dianggap",
-      "url": "https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe"
     },
     {
       "added_at": "2024-01-25 16:06:15",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-01-25 16:06:15",
       "album": {
-        "name": "Surat Hati",
-        "url": "https://open.spotify.com/album/6kTAiISEjLjvBSwJFXrh0V"
-      },
-      "artists": [
-        {
-          "name": "Devano",
-          "url": "https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi"
-        }
-      ],
-      "duration_ms": 294666,
-      "name": "Surat Hati",
-      "url": "https://open.spotify.com/track/7tuwsUy09EoabNtrXrLnX1"
-    },
-    {
-      "added_at": "2024-01-25 16:06:15",
-      "album": {
         "name": "Rayuan Perempuan Gila",
         "url": "https://open.spotify.com/album/7cCDE3ZZwmD94SKVKCLXAO"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 320000,
       "name": "Rayuan Perempuan Gila",
       "url": "https://open.spotify.com/track/1nYdkPCbHdYi4w7s2L6SHA"
+    },
+    {
+      "added_at": "2024-01-25 16:06:15",
+      "album": {
+        "name": "Surat Hati",
+        "url": "https://open.spotify.com/album/6kTAiISEjLjvBSwJFXrh0V"
+      },
+      "artists": [
+        {
+          "name": "Devano",
+          "url": "https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi"
+        }
+      ],
+      "duration_ms": 294666,
+      "name": "Surat Hati",
+      "url": "https://open.spotify.com/track/7tuwsUy09EoabNtrXrLnX1"
     },
     {
       "added_at": "2024-01-25 16:06:15",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-01-25 16:06:15",
       "album": {
-        "name": "Pupus / Risalah Hati",
-        "url": "https://open.spotify.com/album/2Hjub1YpegaAmIf2TULKki"
-      },
-      "artists": [
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
-        }
-      ],
-      "duration_ms": 301824,
-      "name": "Risalah Hati",
-      "url": "https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9"
-    },
-    {
-      "added_at": "2024-01-25 16:06:15",
-      "album": {
         "name": "Semua Aku Dirayakan",
         "url": "https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ"
       },
@@ -675,22 +659,6 @@
       "duration_ms": 310625,
       "name": "Semua Aku Dirayakan",
       "url": "https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA"
-    },
-    {
-      "added_at": "2024-01-25 16:06:15",
-      "album": {
-        "name": "Mencintaimu",
-        "url": "https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY"
-      },
-      "artists": [
-        {
-          "name": "Sal Priadi",
-          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
-        }
-      ],
-      "duration_ms": 274041,
-      "name": "Mencintaimu",
-      "url": "https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A"
     },
     {
       "added_at": "2024-01-25 16:06:15",
@@ -711,6 +679,38 @@
       "duration_ms": 210801,
       "name": "Ada",
       "url": "https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK"
+    },
+    {
+      "added_at": "2024-01-25 16:06:15",
+      "album": {
+        "name": "Pupus / Risalah Hati",
+        "url": "https://open.spotify.com/album/2Hjub1YpegaAmIf2TULKki"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 301824,
+      "name": "Risalah Hati",
+      "url": "https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9"
+    },
+    {
+      "added_at": "2024-01-25 16:06:15",
+      "album": {
+        "name": "Mencintaimu",
+        "url": "https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY"
+      },
+      "artists": [
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "duration_ms": 274041,
+      "name": "Mencintaimu",
+      "url": "https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A"
     },
     {
       "added_at": "2024-01-25 16:06:15",

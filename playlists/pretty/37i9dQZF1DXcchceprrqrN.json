@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 69118,
+  "num_followers": 69163,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGQxNjkyNmQ5YmRlYWE1YWMyNTliZTYwMzU2NjQwNTZmZjMyNGIy",
+  "snapshot_id": "MCwyODRiZTVjNjVkMWQ1NzYzYmUyODliMmI3Zjg0ZDVhNGJiZjE1MGMy",
   "tracks": [
     {
       "added_at": "2024-01-23 17:56:19",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-01-23 17:56:19",
       "album": {
-        "name": "BUMMER",
-        "url": "https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 178388,
-      "name": "GOOD GRIEF",
-      "url": "https://open.spotify.com/track/7GjQaDCkilmYWzK0yf60xe"
-    },
-    {
-      "added_at": "2024-01-23 17:56:19",
-      "album": {
         "name": "CRAWLER",
         "url": "https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 260519,
       "name": "Crawl!",
       "url": "https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR"
+    },
+    {
+      "added_at": "2024-01-23 17:56:19",
+      "album": {
+        "name": "BUMMER",
+        "url": "https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 178388,
+      "name": "GOOD GRIEF",
+      "url": "https://open.spotify.com/track/7GjQaDCkilmYWzK0yf60xe"
     },
     {
       "added_at": "2024-01-23 17:56:19",

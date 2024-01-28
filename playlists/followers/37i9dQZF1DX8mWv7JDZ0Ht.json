@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 434284,
+  "2024-01-28": 434132,
   "date_first_scraped": "2022-05-27",
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Feyj\u00e3o, Ferrugem, Thiaguinho",
   "name": "Pop Leve",
@@ -904,6 +904,28 @@
     },
     {
       "album": {
+        "name": "REALVERSO: Lado B",
+        "url": "https://open.spotify.com/album/0B7FKKGbimmDgBEbQvHYyr"
+      },
+      "artists": [
+        {
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
+        },
+        {
+          "name": "Tom Kray",
+          "url": "https://open.spotify.com/artist/0AQpmO9NtP3zqyamC0C9Ji"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147614,
+      "name": "ARREPIO",
+      "url": "https://open.spotify.com/track/0IrFmDVmrV1WDwEgmqtAdF"
+    },
+    {
+      "album": {
         "name": "As Viagens Inimagin\u00e1veis de Priska",
         "url": "https://open.spotify.com/album/4jyLacgXK5jTHmMk0EQ2vM"
       },
@@ -1337,6 +1359,32 @@
       "duration_ms": 129186,
       "name": "caminhada",
       "url": "https://open.spotify.com/track/5AZbqiteR8VtDDWi3BkqBk"
+    },
+    {
+      "album": {
+        "name": "Camomila",
+        "url": "https://open.spotify.com/album/3A1gbycaZAzP4ikPl7EvCL"
+      },
+      "artists": [
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        },
+        {
+          "name": "SalDoce",
+          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
+        },
+        {
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138688,
+      "name": "Camomila",
+      "url": "https://open.spotify.com/track/0Q2wA7LA1pHHEJo9o5gA7y"
     },
     {
       "album": {
@@ -2011,7 +2059,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 148695,
       "name": "Cores",
       "url": "https://open.spotify.com/track/3fTHgagwDjYGPlP1I3s2BN"
@@ -2505,7 +2553,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 193205,
       "name": "Deixa o Amanh\u00e3 pra Amanh\u00e3",
       "url": "https://open.spotify.com/track/3NPeM6KInz42Ez4rIpAkFF"
@@ -5356,6 +5404,32 @@
     },
     {
       "album": {
+        "name": "mentalmente",
+        "url": "https://open.spotify.com/album/5YiQ8dQ3MFu9MNg9sOQjDO"
+      },
+      "artists": [
+        {
+          "name": "Carol Passos",
+          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
+        },
+        {
+          "name": "GCARVALHO",
+          "url": "https://open.spotify.com/artist/1kNfxWOfLZgfDJsEP7tLHh"
+        },
+        {
+          "name": "CASITA",
+          "url": "https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175471,
+      "name": "mentalmente",
+      "url": "https://open.spotify.com/track/1hQa4ceXHdS41cYqHCv5M9"
+    },
+    {
+      "album": {
         "name": "Mentira",
         "url": "https://open.spotify.com/album/3vXGRIRvX8rGxu79ktxSI2"
       },
@@ -5743,7 +5817,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 214464,
       "name": "N",
       "url": "https://open.spotify.com/track/7iNcOVH9n4EEY2rwWAQOsA"
@@ -6249,6 +6323,28 @@
       "duration_ms": 176030,
       "name": "N\u00f3s Dois",
       "url": "https://open.spotify.com/track/0ooea8ptVQNZehNygA91ng"
+    },
+    {
+      "album": {
+        "name": "N\u00d3S NUS",
+        "url": "https://open.spotify.com/album/5Q0BZT7rQ2pGzWaMXEVPgR"
+      },
+      "artists": [
+        {
+          "name": "Leo Cavalcanti",
+          "url": "https://open.spotify.com/artist/4kCmFwffgs5qxAX2kDeOru"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304068,
+      "name": "N\u00d3S NUS",
+      "url": "https://open.spotify.com/track/3zRoNvRTovjZcycfZw7N7T"
     },
     {
       "album": {
@@ -10731,7 +10827,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 190652,
       "name": "Zero a Cem",
       "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"

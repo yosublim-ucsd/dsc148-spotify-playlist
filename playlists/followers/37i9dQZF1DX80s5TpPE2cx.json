@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 8339,
+  "2024-01-28": 8350,
   "date_first_scraped": "2022-10-01",
   "description": "The songs that defined Nigeria's Alt\u00e9 era ",
   "name": "Alt\u00e9 Classics ",
@@ -525,6 +525,24 @@
       "duration_ms": 258263,
       "name": "Feel Alright",
       "url": "https://open.spotify.com/track/45oXGtNuG81jUcwmk73xLh"
+    },
+    {
+      "album": {
+        "name": "Subaru Boys : FINAL HEAVEN",
+        "url": "https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187307,
+      "name": "FINAL CHAMPION",
+      "url": "https://open.spotify.com/track/3glpc7pE2ARlH1rnCxNohE"
     },
     {
       "album": {
@@ -1432,6 +1450,28 @@
     },
     {
       "album": {
+        "name": "showmetheway !!",
+        "url": "https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "showmetheway !!",
+      "url": "https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL"
+    },
+    {
+      "album": {
         "name": "Siamese",
         "url": "https://open.spotify.com/album/2biM1kK3imQ4Oggjl1VuGn"
       },
@@ -1491,6 +1531,28 @@
       "duration_ms": 150858,
       "name": "Skedaddle",
       "url": "https://open.spotify.com/track/58cAdQzxl5avwnhYpJg8C7"
+    },
+    {
+      "album": {
+        "name": "Smooth Criminal",
+        "url": "https://open.spotify.com/album/6xe7n9n6eqrZprj2d8QGNE"
+      },
+      "artists": [
+        {
+          "name": "Yimeeka",
+          "url": "https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/4hVnFwqGpRQJexdLoNwCFn"
     },
     {
       "album": {

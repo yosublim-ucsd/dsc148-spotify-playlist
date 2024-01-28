@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-691 songs - 2 day 6 hr 33 min
+692 songs - 2 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Ceora](https://open.spotify.com/track/5rQTh8OF3mfjgu0NJkSTOk) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Cornbread](https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ) | 6:23 | 2022-10-27 |  |
 | [Chameleon](https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 15:41 | 2022-10-27 |  |
 | [Changes](https://open.spotify.com/track/6B0aELa2yqLyeu2ULt8bEq) | [Miles Davis And Milt Jackson Quintet](https://open.spotify.com/artist/51gulqh1DpAHn0ZUNMRBRu) | [Miles Davis And Milt Jackson Quintet/Sextet](https://open.spotify.com/album/6QV1iyREyud3AGQZxf8Yt7) | 7:10 | 2023-12-20 | 2024-01-15 |
-| [Charlie Brown Theme](https://open.spotify.com/track/2tr8uTaifUtZimedSRmcoY) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 4:19 | 2022-10-27 |  |
+| [Charlie Brown Theme](https://open.spotify.com/track/2tr8uTaifUtZimedSRmcoY) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 4:19 | 2022-10-27 | 2024-01-28 |
 | [Cheek To Cheek](https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 5:54 | 2022-10-27 |  |
 | [Cherokee](https://open.spotify.com/track/0BNrLm5na6f7witHj8769E) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Study In Brown](https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1) | 5:44 | 2023-06-21 |  |
 | [Chicago](https://open.spotify.com/track/5TjO0GOOon3R6YOnRFPwzk) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [The Best Of Benny Goodman](https://open.spotify.com/album/1I1E1ZUYFDK0Dn4DK5YmrH) | 2:59 | 2022-10-27 |  |
@@ -420,6 +420,7 @@
 | [Mumbles](https://open.spotify.com/track/0sguFXNUDV7rZ9GYB9v1r2) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB), [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [Oscar Peterson's Finest Hour](https://open.spotify.com/album/7MvfuK2EXdoRXKpXtQqANP) | 2:01 | 2022-10-27 |  |
 | [My Baby Just Cares for Me \(2013 \- Remaster\)](https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 3:35 | 2023-10-19 |  |
 | [My Baby Just Cares for Me \- 2013 Remastered Version](https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 Remastered Version\)](https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7) | 3:35 | 2022-10-27 | 2023-11-11 |
+| [My Conception](https://open.spotify.com/track/0xc3Zk647proIQWvRaXlsh) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [My Conception](https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ) | 4:44 | 2024-01-18 |  |
 | [My Favorite Things](https://open.spotify.com/track/2JOEPbuwVf0nafGnMSVEhH) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [My Favorite Things \(Deluxe Edition\)](https://open.spotify.com/album/3i7sNgNRwyGQmNP0CPuOM0) | 13:44 | 2022-10-27 |  |
 | [My Foolish Heart](https://open.spotify.com/track/6yKkA8HzwWTZ5taIMaG4Nm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \(Original Jazz Classics Remaster 2010\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 4:57 | 2022-10-27 |  |
 | [My Funny Valentine](https://open.spotify.com/track/7LdrTu0apcwGJi3B5WWYnk) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [Jazz 'Round Midnight](https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD) | 3:24 | 2023-08-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Zeeshan Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,582 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,587 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 22 | [Rabtay](https://open.spotify.com/track/25kFpy4dGmZMUq9ivt0iya) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP) | [Rabtay](https://open.spotify.com/album/1SMdb4Ulrr63DN6bvnPB0M) | 4:08 |
 | 23 | [Je Pata Hunda](https://open.spotify.com/track/4sv3qILxSdEtZUxXb9nu5d) | [Nimra Mehra](https://open.spotify.com/artist/54CllblgtvRRY3etlxRSq2) | [Je Pata Hunda](https://open.spotify.com/album/6eJTlkrbCTnJfoXJTdcLjc) | 2:50 |
 | 24 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 |
-| 25 | [baby please no](https://open.spotify.com/track/4hOovG1f9UlDXq7adR4jJi) | [AHSAN](https://open.spotify.com/artist/74NqyFriwNs6QJWkJmGvYR), [Arhum Sameed](https://open.spotify.com/artist/2AQtQ8Q2knILV9y6l8UIks) | [baby please no](https://open.spotify.com/album/7qFqGvDCDEu9bwiAImx1ML) | 2:58 |
+| 25 | [baby please no](https://open.spotify.com/track/4hOovG1f9UlDXq7adR4jJi) | [AHSAN](https://open.spotify.com/artist/74NqyFriwNs6QJWkJmGvYR), [Arhum Sameed](https://open.spotify.com/artist/2AQtQ8Q2knILV9y6l8UIks), [Hassam Anwar](https://open.spotify.com/artist/1H4fzyg33NrcIRYwpEZrvm) | [baby please no](https://open.spotify.com/album/7qFqGvDCDEu9bwiAImx1ML) | 2:58 |
 | 26 | [Rehnumai](https://open.spotify.com/track/7K2Z9TeTTXR0XBt6ikdqKD) | [Mujahid Hasan](https://open.spotify.com/artist/4ZBnUHzbV10lmXqmRpBejD), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [prodmaarij](https://open.spotify.com/artist/6hKItFSn6L9rvNYiNqZ27z) | [Rehnumai](https://open.spotify.com/album/2cGOn8hKhBW3QV11zrIgJu) | 4:47 |
 | 27 | [Bhanwray](https://open.spotify.com/track/7hd4hJvT4sRKt6ZODGIbRR) | [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN), [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9), [Joshua Savio](https://open.spotify.com/artist/0de1SZQ5sOAmgVK3vtfUt9) | [Bhanwray](https://open.spotify.com/album/7FLHPPyX759sAHlYblf8fw) | 4:10 |
 | 28 | [Stargazing](https://open.spotify.com/track/1hR9ZKmf9j5JNk5umLrUKX) | [Ali Raza](https://open.spotify.com/artist/522dF8hRyQ3b0jypJfUDQW) | [Stargazing](https://open.spotify.com/album/7ywIsRi70yOG0n0SDlx9LL) | 3:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 74 | [Ghar agya main](https://open.spotify.com/track/0MZn47xb5MW7Ampv6cbTbv) | [Armaghan Saif](https://open.spotify.com/artist/5ggFPpZHswvNkWcgCUqEx6) | [Ghar agya main](https://open.spotify.com/album/47HaoQ183IYU9ajXzMdihI) | 4:17 |
 | 75 | [Yaaden](https://open.spotify.com/track/0hTrRRWATfIHjJ9OSMlsDI) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [Hussain Ajani](https://open.spotify.com/artist/4TZi2SKhuNXEyRa7sOLa9H) | [Yaaden](https://open.spotify.com/album/7G26cHP8uiJb7Dy9B6llJA) | 2:38 |
 
-Snapshot ID: `MCwyYTBmMTM5YTEyNzg1OTg1MmEyMjczZmExZDAwNTY4NTZkNTE2YmE5`
+Snapshot ID: `MCwxOGY4YjM4MDQzMGIyMWNhODEwZTE4ZDc1Njk4MTVlMjRjMDlkNmU5`

@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Lia Clark",
-  "num_followers": 226095,
+  "num_followers": 225870,
   "original_name": "AUGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGMwODU4ZTVjYmRmYWU3MDlkYWUyYTRjY2QzMzQyMzM2NmM2MTA2",
+  "snapshot_id": "MCw2YTc0ZmYzMjdkN2JhNmIxYmM5NDFhNWYzOTNjYjBmYzZjMmVlMGY3",
   "tracks": [
     {
       "added_at": "2024-01-15 14:40:46",
@@ -727,22 +727,18 @@
     {
       "added_at": "2024-01-15 14:40:46",
       "album": {
-        "name": "Calcinha",
-        "url": "https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW"
+        "name": "TAQUEI",
+        "url": "https://open.spotify.com/album/5XMPCF2nDlIVcULGoXzgJv"
       },
       "artists": [
         {
           "name": "Kika Boom",
           "url": "https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P"
-        },
-        {
-          "name": "Kaya Conky",
-          "url": "https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe"
         }
       ],
-      "duration_ms": 178041,
-      "name": "Calcinha",
-      "url": "https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l"
+      "duration_ms": 120242,
+      "name": "TAQUEI",
+      "url": "https://open.spotify.com/track/1lspAjQFDEZckwPuwwVnj1"
     },
     {
       "added_at": "2024-01-15 14:40:46",
@@ -807,18 +803,22 @@
     {
       "added_at": "2024-01-15 14:40:46",
       "album": {
-        "name": "TAQUEI",
-        "url": "https://open.spotify.com/album/5XMPCF2nDlIVcULGoXzgJv"
+        "name": "Calcinha",
+        "url": "https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW"
       },
       "artists": [
         {
           "name": "Kika Boom",
           "url": "https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P"
+        },
+        {
+          "name": "Kaya Conky",
+          "url": "https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe"
         }
       ],
-      "duration_ms": 120242,
-      "name": "TAQUEI",
-      "url": "https://open.spotify.com/track/1lspAjQFDEZckwPuwwVnj1"
+      "duration_ms": 178041,
+      "name": "Calcinha",
+      "url": "https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l"
     },
     {
       "added_at": "2024-01-15 14:40:46",

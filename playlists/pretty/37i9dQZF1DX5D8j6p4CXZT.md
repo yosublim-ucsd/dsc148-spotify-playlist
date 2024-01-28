@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D8j6p4CXZT.md) - [plain]
 
 > headphones on, forget the world
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,527 likes - 82 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,522 likes - 82 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D8j6p4CXZT.md) - [plain]
 | 46 | [stuck on you](https://open.spotify.com/track/5fkRXB8f07EDw7Eg6qkTzI) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG), [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [stuck on you](https://open.spotify.com/album/7uIeXvLJufnhza0A98o5Fd) | 2:47 |
 | 47 | [butterfly fields](https://open.spotify.com/track/2nXtGLBgSu60upR05CGEBN) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [butterfly fields](https://open.spotify.com/album/0gUWXiPPG13Zao8Nbqr1fa) | 3:28 |
 | 48 | [Fool Around](https://open.spotify.com/track/2ryDEDHa7Cj00JhnHknukn) | [Matthew Young](https://open.spotify.com/artist/0EIJLgdMEPVJlnkmjWcx5q) | [It's a Feeling](https://open.spotify.com/album/5XOJym8KkxAs8aSUNHGeYY) | 3:38 |
-| 49 | [Maybe My Soulmate Died](https://open.spotify.com/track/0Q06bNL4pMTlkilvL88nda) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/42CbU2pxKCYf1fPhBsZpwj) | 1:54 |
+| 49 | [Maybe My Soulmate Died](https://open.spotify.com/track/1xWMqWlcfGrdnQWim2PJVb) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Chasing the Wind](https://open.spotify.com/album/37YccldXcBrMJ728lWYcQT) | 1:54 |
 | 50 | [Message \(Better Days\)](https://open.spotify.com/track/0tZA4mQgeSJjRyjsU6Sujw) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Message \(Better Days\)](https://open.spotify.com/album/5HCqz8ovg4vqzD3NlYL2oO) | 3:34 |
 | 51 | [low down](https://open.spotify.com/track/58JbFLKwhdxd0OYy5PUpNH) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [zero experience](https://open.spotify.com/album/1WsyR6Rubboirjmw69zHc0) | 3:02 |
 | 52 | [This Side of Paradise \- slowed](https://open.spotify.com/track/3BIBnyt40zWjPCNqRyGwPp) | [Coyote Theory](https://open.spotify.com/artist/48vmXfV0QPy3ljXBp81Fwn) | [This Side of Paradise \(slowed\)](https://open.spotify.com/album/4tQzlk8VN9gRHG5rbiySgY) | 5:04 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D8j6p4CXZT.md) - [plain]
 | 81 | [That's Life](https://open.spotify.com/track/32q9OuCp7wFdLZKuCXm0wl) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [That's Life](https://open.spotify.com/album/5lCRiEhGqKcWZbqMdzrZ9j) | 2:27 |
 | 82 | [Pears](https://open.spotify.com/track/06nKF46jG8p1zwyP4ziAyG) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Pears](https://open.spotify.com/album/4XedVnZRFfk9n7uX601gvb) | 2:21 |
 
-Snapshot ID: `MCw4ZmU2ODM2MjUyODNiN2U2OTZiMGIwYTNkZDJmNmRiNmJiZDVjNDEz`
+Snapshot ID: `MCw2ZWM2M2ZkNGQ0YmU5YjljZGI3NGNhODIwYWM3MDZkYTUzMmUyZGY3`

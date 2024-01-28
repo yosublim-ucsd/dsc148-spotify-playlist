@@ -1,12 +1,12 @@
 {
   "description": "Barack Obama&#x27;s favorite songs of 2023 plus somo of his favorite summer songs. Includes Summer 22, &amp; 21 editions + bonus tracks.",
-  "num_followers": 107943,
-  "original_name": "Obama\u2019s Summer Playlist 2023 | Favorite Songs of 2023",
+  "num_followers": 107940,
+  "original_name": " Obama\u2019s Summer Playlist 2024 | Favorite Songs of 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NzE1NCwyOWIzNTc1MDQ4NTY0YzQwNzg2ZjA1YmQwZTIwYjY1YjM5NjYwZWU1",
+  "snapshot_id": "NzE2NywxYTg2NmY5MGNlOTlmYmIzZmI5ZjAxZTZlZjgzMzYxY2E5NGIyMDBm",
   "tracks": [
     {
       "added_at": "2023-12-29 15:33:48",
@@ -497,6 +497,22 @@
       "url": "https://open.spotify.com/track/7l5oDmgxDEhtZpdxeZzCg9"
     },
     {
+      "added_at": "2024-01-27 15:22:56",
+      "album": {
+        "name": "Dream House",
+        "url": "https://open.spotify.com/album/5OvVHApc7an0PxgizKaeur"
+      },
+      "artists": [
+        {
+          "name": "Grace Lee",
+          "url": "https://open.spotify.com/artist/5H9MaaK15IDsYf0UE64Kzh"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "Dream House",
+      "url": "https://open.spotify.com/track/1dDWUNpBIgZVc06aU65vGB"
+    },
+    {
       "added_at": "2024-01-19 14:01:59",
       "album": {
         "name": "Hold On",
@@ -565,22 +581,6 @@
       "url": "https://open.spotify.com/track/3M7CTl6EiNEeeoFl79GiAG"
     },
     {
-      "added_at": "2024-01-14 14:12:28",
-      "album": {
-        "name": "lovemesooner",
-        "url": "https://open.spotify.com/album/0fxjoSnIWH8Mu5zqLUsp4B"
-      },
-      "artists": [
-        {
-          "name": "jerry",
-          "url": "https://open.spotify.com/artist/1AZJhKobUOUAawr0AEmGE4"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Facing the worst fears",
-      "url": "https://open.spotify.com/track/5Uztuj1AiTV8e6UPYvB3iF"
-    },
-    {
       "added_at": "2024-01-26 06:01:53",
       "album": {
         "name": "My Kind",
@@ -643,38 +643,6 @@
       "duration_ms": 176798,
       "name": "Opening Up",
       "url": "https://open.spotify.com/track/4qdEX8bU0asaQ1gNxbvRx7"
-    },
-    {
-      "added_at": "2024-01-17 00:31:55",
-      "album": {
-        "name": "Lost in the Sound",
-        "url": "https://open.spotify.com/album/1EFNXX3rQqTdGXqaU6uPwT"
-      },
-      "artists": [
-        {
-          "name": "MAEVE",
-          "url": "https://open.spotify.com/artist/1AajydIvADnjIfgalHsDzX"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Lost in the Sound",
-      "url": "https://open.spotify.com/track/478z5OvtvvQIfWE6vJ7TvT"
-    },
-    {
-      "added_at": "2024-01-10 00:01:50",
-      "album": {
-        "name": "Camino",
-        "url": "https://open.spotify.com/album/5WcAaX8MRo8PxLTnLdaepR"
-      },
-      "artists": [
-        {
-          "name": "Free Whenever",
-          "url": "https://open.spotify.com/artist/3bSsyMPujHM45QOvf6M6he"
-        }
-      ],
-      "duration_ms": 188956,
-      "name": "Camino",
-      "url": "https://open.spotify.com/track/3HuEdFyq7BPQCqH179VaVk"
     },
     {
       "added_at": "2024-01-19 06:01:24",
@@ -2921,26 +2889,6 @@
       "url": "https://open.spotify.com/track/4ty0m7E3pvNPxpwAAyYJxH"
     },
     {
-      "added_at": "2024-01-20 13:31:22",
-      "album": {
-        "name": "Alive (Lovesong)",
-        "url": "https://open.spotify.com/album/3sYrMFSGGiNahwubWrccFF"
-      },
-      "artists": [
-        {
-          "name": "Joi",
-          "url": "https://open.spotify.com/artist/5yqB1ibeyETNNzfR2xD70t"
-        },
-        {
-          "name": "Jaco",
-          "url": "https://open.spotify.com/artist/7riJPERZDs7SelUml0v3Bg"
-        }
-      ],
-      "duration_ms": 164475,
-      "name": "Alive (Lovesong)",
-      "url": "https://open.spotify.com/track/6vYh6irQTkQ0g9NQ0wryYi"
-    },
-    {
       "added_at": "2024-01-22 16:31:44",
       "album": {
         "name": "Jaja",
@@ -2955,6 +2903,22 @@
       "duration_ms": 170542,
       "name": "Jaja",
       "url": "https://open.spotify.com/track/0HFZSeT31eu7CXzYWAfLmD"
+    },
+    {
+      "added_at": "2024-01-27 22:41:38",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1EKwZgF7LMf4elB71VSR88"
+      },
+      "artists": [
+        {
+          "name": "Craig Caliva",
+          "url": "https://open.spotify.com/artist/1UR8HRevJdliHzsYXixh7V"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/5sCTbkhI2JYg03xypi4uCV"
     },
     {
       "added_at": "2024-01-26 18:04:49",
@@ -3057,22 +3021,6 @@
       "url": "https://open.spotify.com/track/3t4XGuKnvS4zVCfp3bxHsN"
     },
     {
-      "added_at": "2024-01-15 14:36:20",
-      "album": {
-        "name": "Calling You Out",
-        "url": "https://open.spotify.com/album/1e02uUS8ejIdwU7WOjDuYr"
-      },
-      "artists": [
-        {
-          "name": "Michael Meaney",
-          "url": "https://open.spotify.com/artist/53N5nS18cDlYFPPLlpZMS2"
-        }
-      ],
-      "duration_ms": 155555,
-      "name": "Calling You Out",
-      "url": "https://open.spotify.com/track/7hqVARWgRLLZB01bgkVeyF"
-    },
-    {
       "added_at": "2024-01-19 00:05:28",
       "album": {
         "name": "Lonely Town (Piano Version)",
@@ -3121,6 +3069,22 @@
       "url": "https://open.spotify.com/track/5TJLi9K1I6uGESwhnTOF93"
     },
     {
+      "added_at": "2024-01-15 14:36:20",
+      "album": {
+        "name": "Calling You Out",
+        "url": "https://open.spotify.com/album/1e02uUS8ejIdwU7WOjDuYr"
+      },
+      "artists": [
+        {
+          "name": "Michael Meaney",
+          "url": "https://open.spotify.com/artist/53N5nS18cDlYFPPLlpZMS2"
+        }
+      ],
+      "duration_ms": 155555,
+      "name": "Calling You Out",
+      "url": "https://open.spotify.com/track/7hqVARWgRLLZB01bgkVeyF"
+    },
+    {
       "added_at": "2024-01-10 12:00:22",
       "album": {
         "name": "Coast To Coast (Expanded)",
@@ -3135,38 +3099,6 @@
       "duration_ms": 191626,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/32QHlLzPpISYgv8PzHYoiP"
-    },
-    {
-      "added_at": "2024-01-10 00:03:01",
-      "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/2SPqtySOvGdiPbS1u0BsMr"
-      },
-      "artists": [
-        {
-          "name": "Waynewood",
-          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/5aeZzetAqugIhW81mR7Zr7"
-    },
-    {
-      "added_at": "2024-01-10 00:02:30",
-      "album": {
-        "name": "Ven Pa Ca",
-        "url": "https://open.spotify.com/album/3DGFY8fwmkgdKu9s0E0Fuc"
-      },
-      "artists": [
-        {
-          "name": "HERMANN",
-          "url": "https://open.spotify.com/artist/39nfOPNks3gAIk1jIbVVGJ"
-        }
-      ],
-      "duration_ms": 156850,
-      "name": "Ven Pa Ca",
-      "url": "https://open.spotify.com/track/19felDAYliRHZSwBwdAO6O"
     },
     {
       "added_at": "2024-01-11 12:00:21",
@@ -3201,6 +3133,6 @@
       "url": "https://open.spotify.com/track/2T332LRD02r4loxzwY4W48"
     }
   ],
-  "unique_name": "Obama\u2019s Summer Playlist 2023 | Favorite Songs of 2023",
+  "unique_name": " Obama\u2019s Summer Playlist 2024 | Favorite Songs of 2023",
   "url": "https://open.spotify.com/playlist/3xN6J0LCyVj8k1gVCguWRH"
 }

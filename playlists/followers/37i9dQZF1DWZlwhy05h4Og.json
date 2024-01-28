@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 49553,
+  "2024-01-28": 49615,
   "date_first_scraped": "2023-03-23",
-  "description": "The sweetest bops. Cover: IVE",
+  "description": "The sweetest bops. Cover: VCHA",
   "name": "SUGAR",
   "tracks": [
     {
@@ -853,6 +853,24 @@
       "duration_ms": 213640,
       "name": "girls like me don't cry",
       "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
+    },
+    {
+      "album": {
+        "name": "Girls of the Year",
+        "url": "https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG"
+      },
+      "artists": [
+        {
+          "name": "VCHA",
+          "url": "https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178253,
+      "name": "Girls of the Year",
+      "url": "https://open.spotify.com/track/03grA043a1uECo5Kyw28a0"
     },
     {
       "album": {
@@ -1881,7 +1899,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 185386,
       "name": "Ready for the World",
       "url": "https://open.spotify.com/track/1zh1cJT5qzuhb0F2S6X9ba"

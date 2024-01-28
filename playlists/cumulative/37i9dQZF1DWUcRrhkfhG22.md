@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes
 
-99 songs - 7 hr 23 min
+100 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [What U Do](https://open.spotify.com/track/3rw6Y1CGiJcnQ27QyYpZ6f) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [What U Do](https://open.spotify.com/album/3Ewvl9pL2nfoyKw0pktqoK) | 5:42 | 2020-09-18 | 2022-10-07 |
 | [What U Do](https://open.spotify.com/track/4Y6D4pNgcDIQ0zeeARUmcd) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [What U Do](https://open.spotify.com/album/1FB09P6gwDqt4iD9iUcXyZ) | 5:42 | 2020-09-18 |  |
 | [When I Hit the Block](https://open.spotify.com/track/4Vy23imXjy2kg8zaaX5D7O) | [Throwback Zack](https://open.spotify.com/artist/75csMNFe2KTbVYOko3sLzv) | [Cloud 9](https://open.spotify.com/album/4gvxF2lP3osUa2MXxq3atT) | 3:46 | 2020-09-18 |  |
-| [Winning](https://open.spotify.com/track/5aoEP8goqbvoI7ITs2SVAo) | [Fingazz](https://open.spotify.com/artist/5r1yBS6lhh7Mo4Egr3k0JT) | [Winning](https://open.spotify.com/album/4UQCFBr4wdsGQmcdXyoVcV) | 3:39 | 2020-09-18 |  |
+| [Winning](https://open.spotify.com/track/5MAAoqcWFV9jliGzvQuGtO) | [Fingazz](https://open.spotify.com/artist/5r1yBS6lhh7Mo4Egr3k0JT) | [Winning](https://open.spotify.com/album/5jF0kVrm6JWRgwY7nhpwto) | 3:39 | 2020-09-18 |  |
+| [Winning](https://open.spotify.com/track/5aoEP8goqbvoI7ITs2SVAo) | [Fingazz](https://open.spotify.com/artist/5r1yBS6lhh7Mo4Egr3k0JT) | [Winning](https://open.spotify.com/album/4UQCFBr4wdsGQmcdXyoVcV) | 3:39 | 2020-09-18 | 2024-01-28 |
 | [With the Music](https://open.spotify.com/track/7ADWPWvgegTdPYEqRtQXYe) | [Matt Johnson](https://open.spotify.com/artist/5gFCOJYoKgxTx0KUXISEAS) | [With the Music](https://open.spotify.com/album/57q2lXAoPUWJTBvlSpzy7F) | 6:17 | 2020-09-18 |  |
 | [With the Music](https://open.spotify.com/track/5so4fWOUupeEepFqixqdMt) | [Matt Johnson](https://open.spotify.com/artist/5gFCOJYoKgxTx0KUXISEAS) | [With the Music](https://open.spotify.com/album/4h465iyTznZQouao9JLwif) | 6:18 | 2020-09-18 | 2022-11-14 |
 | [With You](https://open.spotify.com/track/7hA8vD3WERUwEOTGMMJd3J) | [REAL DAZE](https://open.spotify.com/artist/4lTYJ693x10unejOLxoCYr) | [Contrast](https://open.spotify.com/album/41jrWLM0K9x7F3Ux7OJGgv) | 4:06 | 2020-09-18 |  |

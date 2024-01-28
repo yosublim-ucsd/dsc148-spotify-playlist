@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: Parc Jae Jung\(박재정\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,713 likes - 175 songs - 11 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,453 likes - 175 songs - 11 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 9 | [다시 사랑한다면 \(니글니글 버터플라이\)](https://open.spotify.com/track/3UGHBnuq4cFToHy3JfbFcB) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [Mask Singer 47th \(Live Version\)](https://open.spotify.com/album/1bgMYNZHBOxr8iFd3IQPIK) | 4:02 |
 | 10 | [Good Night Good Dream](https://open.spotify.com/track/423WHvB4mKprM6hELzpH3F) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [Good Night Good Dream](https://open.spotify.com/album/4lFbDrujNnh4oFGBHIGYiv) | 4:25 |
 | 11 | [Delete](https://open.spotify.com/track/1GH2zktv0O2oSut4khXRmG) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [The dream of a moth](https://open.spotify.com/album/4VafBO9ZEja9ghat1vb8CL) | 4:12 |
-| 12 | [Honey](https://open.spotify.com/track/3WJbPo8V61piAagZYyRqn8) | [STH](https://open.spotify.com/artist/76Fuve7XknoppOovQwARzY) | [Honey](https://open.spotify.com/album/5sNDzsRA133ANet8CqVaVk) | 4:09 |
+| 12 | [Honey](https://open.spotify.com/track/3WJbPo8V61piAagZYyRqn8) | [Isegye Rockstar \(STH\)](https://open.spotify.com/artist/76Fuve7XknoppOovQwARzY) | [Honey](https://open.spotify.com/album/5sNDzsRA133ANet8CqVaVk) | 4:09 |
 | 13 | [I Can't Have You](https://open.spotify.com/track/7INlzYSRRxRxzpJKRq7nxI) | [Bank](https://open.spotify.com/artist/07yXkk7BsAGmJWvkemt2oa) | [Gift](https://open.spotify.com/album/5wuOoKuHbDuUX4ujZL4UQA) | 4:43 |
 | 14 | [Because I Don't Love You](https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Because I Don't Love You](https://open.spotify.com/album/7LX3cJhfSEBEX8zhw1LrKU) | 3:43 |
 | 15 | [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 174 | [미워요 I Hate You](https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [정인 Jung In from Andromeda](https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD) | 3:22 |
 | 175 | [시작](https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293) | 3:22 |
 
-Snapshot ID: `MCxkZTg4MTMyZGY2M2E1OTY0OWU1OGZmMmIzYzhiNmFjYjJlYWI5OWEw`
+Snapshot ID: `MCwxZWY2MGYzNjRlMWZmZmVkZDdhZDk0NWE1YzRhZmM2OWU4NTM0Yzll`

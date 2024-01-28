@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 369413,
+  "2024-01-28": 369792,
   "date_first_scraped": "2022-04-20",
   "description": "The bass you need for riding low and high.",
   "name": "DOWN LOW",
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 149970,
       "name": "BACK",
       "url": "https://open.spotify.com/track/2EatWIkFOkO7hOBhONxhfX"
@@ -331,6 +331,44 @@
       "duration_ms": 147625,
       "name": "BAD OMENS",
       "url": "https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv"
+    },
+    {
+      "album": {
+        "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
+        "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        },
+        {
+          "name": "Trigga",
+          "url": "https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb"
+        },
+        {
+          "name": "Takura",
+          "url": "https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177291,
+      "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
+      "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
     },
     {
       "album": {
@@ -699,6 +737,28 @@
       "duration_ms": 202285,
       "name": "Combo",
       "url": "https://open.spotify.com/track/1QxvF7sykEILCrINRMovoM"
+    },
+    {
+      "album": {
+        "name": "Cradles",
+        "url": "https://open.spotify.com/album/5rinK7CxL3x2mc8VxWsiyq"
+      },
+      "artists": [
+        {
+          "name": "T-Mass",
+          "url": "https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF"
+        },
+        {
+          "name": "Staarz",
+          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Cradles",
+      "url": "https://open.spotify.com/track/7dlxpBzEYEt7XUHWQS0ZUW"
     },
     {
       "album": {
@@ -1329,7 +1389,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 177715,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1U6rcpjOhEDWTMRMamZkQ1"
@@ -1351,7 +1411,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 148837,
       "name": "Good to Me",
       "url": "https://open.spotify.com/track/2jLBtE7i1PwDd7M88qRo6A"
@@ -2258,6 +2318,28 @@
     },
     {
       "album": {
+        "name": "MHITR (Semi-Automatic) [feat. Eksman]",
+        "url": "https://open.spotify.com/album/0mXlKN5XvrL9olOdYSrTio"
+      },
+      "artists": [
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "Eksman",
+          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174917,
+      "name": "MHITR (Semi-Automatic) [feat. Eksman]",
+      "url": "https://open.spotify.com/track/11Gypesywvx4AnUeYxeLaY"
+    },
+    {
+      "album": {
         "name": "MONTERO (Call Me By Your Name)",
         "url": "https://open.spotify.com/album/1Sy6Ns0eUfzS3xJWgRN00v"
       },
@@ -2605,6 +2687,28 @@
       "duration_ms": 192000,
       "name": "Origin",
       "url": "https://open.spotify.com/track/2FZT1Qy0czgULB2PphCDVa"
+    },
+    {
+      "album": {
+        "name": "Camels / Overthinking",
+        "url": "https://open.spotify.com/album/0Tl8BA4JRmdGy1m32BMH1m"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "Haribo",
+          "url": "https://open.spotify.com/artist/4iYIZQP0f6Ec6gupaJ4SQm"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224914,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/3KWV5kY52CQ4KwunPeH9Mz"
     },
     {
       "album": {
@@ -3303,7 +3407,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 136800,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/09rtoOBDXlydwVQ90ITHnW"

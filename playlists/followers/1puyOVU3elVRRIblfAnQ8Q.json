@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 62793,
+  "2024-01-28": 62788,
   "date_first_scraped": "2023-11-08",
-  "description": "Updated Weekly! DC and Hooks selected jams from Deadbeats record label and beyond. DEADBEATS ON TOUR NOW--&gt; <a href=\"http://www.deadbeatsofficial.com\">www.deadbeatsofficial.com</a>",
+  "description": "DEADBEATS &amp; BROWNIES - Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW--&gt; <a href=\"http://www.deadbeatsofficial.com\">www.deadbeatsofficial.com</a>",
   "name": "Zeds Dead's Deadbeats",
   "tracks": [
     {
@@ -21,7 +21,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 219761,
       "name": "Aching (On A High)",
       "url": "https://open.spotify.com/track/0nLo87MKJJUumGJqNAHACx"
@@ -65,10 +65,28 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 171413,
       "name": "Alien Wook 2230",
       "url": "https://open.spotify.com/track/3EQls5bTKQYP3zaDBV47sE"
+    },
+    {
+      "album": {
+        "name": "Deadbeats & Brownies - Drum & Bass Compilation",
+        "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
+      },
+      "artists": [
+        {
+          "name": "Ghost in Real Life",
+          "url": "https://open.spotify.com/artist/1XNSNWTlirqnvsXUUEVwxb"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200344,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2c8wBwm4zUOKvYIag2LMFz"
     },
     {
       "album": {
@@ -141,10 +159,32 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 210000,
       "name": "Asura",
       "url": "https://open.spotify.com/track/4rYmKvCB2STFuskk0rgT6U"
+    },
+    {
+      "album": {
+        "name": "Deadbeats & Brownies - Drum & Bass Compilation",
+        "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Back Bus",
+      "url": "https://open.spotify.com/track/21ceB6sHPjBtj8SCU9C1zi"
     },
     {
       "album": {
@@ -163,7 +203,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 186206,
       "name": "Bassface",
       "url": "https://open.spotify.com/track/6JMlB2FSy3OxFo40Fx5tjf"
@@ -196,6 +236,24 @@
     },
     {
       "album": {
+        "name": "Deadbeats & Brownies - Drum & Bass Compilation",
+        "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
+      },
+      "artists": [
+        {
+          "name": "Synergy",
+          "url": "https://open.spotify.com/artist/7s83dhuGTbXkYUEDXCisbK"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226221,
+      "name": "Beyond The Sun",
+      "url": "https://open.spotify.com/track/4TswMWD4ZFxCQZEep2SBxP"
+    },
+    {
+      "album": {
         "name": "East Kings Point",
         "url": "https://open.spotify.com/album/0DTZ9LNawUeS7Ymr9rSkgH"
       },
@@ -207,7 +265,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 140571,
       "name": "Bird Feeder",
       "url": "https://open.spotify.com/track/6aRKwQBMl8G2XaGfy7eDrx"
@@ -265,7 +323,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 198400,
       "name": "Built Different",
       "url": "https://open.spotify.com/track/65qHbzlwOeO2Y7InJrYQm9"
@@ -301,7 +359,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 219937,
       "name": "Claw",
       "url": "https://open.spotify.com/track/6JLTatKOVYScUNqqK2iERr"
@@ -323,7 +381,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 329142,
       "name": "Cockroaches",
       "url": "https://open.spotify.com/track/52B80CEV3N6zZ1ERgtMvxF"
@@ -411,10 +469,28 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 182930,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/3hy3b5Oei3UySsinfLQJ44"
+    },
+    {
+      "album": {
+        "name": "Deadbeats & Brownies - Drum & Bass Compilation",
+        "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
+      },
+      "artists": [
+        {
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252342,
+      "name": "Don't Think",
+      "url": "https://open.spotify.com/track/2sAoRGqjUNYLxIKNjwQNFI"
     },
     {
       "album": {
@@ -451,7 +527,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 215111,
       "name": "Dream Sequence",
       "url": "https://open.spotify.com/track/1YrVLt1ET4GzwS3HfOcxWw"
@@ -473,7 +549,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 248275,
       "name": "Drift",
       "url": "https://open.spotify.com/track/1a4hoCFbhtk6GtW7o5Ldun"
@@ -535,7 +611,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 175999,
       "name": "Erotica",
       "url": "https://open.spotify.com/track/7tVRemm7dzzf2m1AfWqiKZ"
@@ -582,6 +658,24 @@
     },
     {
       "album": {
+        "name": "Deadbeats & Brownies - Drum & Bass Compilation",
+        "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
+      },
+      "artists": [
+        {
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201379,
+      "name": "Feel Ur Touch",
+      "url": "https://open.spotify.com/track/2AyS9W5k9vsU6FHHNACWd8"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/1Bmtl3EGSjm4ymczWv88PX"
       },
@@ -597,7 +691,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 197154,
       "name": "Fingertips",
       "url": "https://open.spotify.com/track/6dEGKWFnL2qGzdmS17jSUF"
@@ -619,10 +713,28 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 135000,
       "name": "Flip It",
       "url": "https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy"
+    },
+    {
+      "album": {
+        "name": "Deadbeats & Brownies - Drum & Bass Compilation",
+        "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
+      },
+      "artists": [
+        {
+          "name": "Audioscribe",
+          "url": "https://open.spotify.com/artist/1zCwEEtlGUmFFAEvQ9jW6D"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/1jiPHdx1jxAHxkdWVrmIMY"
     },
     {
       "album": {
@@ -637,7 +749,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 253714,
       "name": "Forest Catcher",
       "url": "https://open.spotify.com/track/7yRMwQAGpzLnAUEY6BAATi"
@@ -673,7 +785,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 236800,
       "name": "GLITCH",
       "url": "https://open.spotify.com/track/3C3ZOzxGQtu4V1uxCmI799"
@@ -691,7 +803,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 201290,
       "name": "Gunshot",
       "url": "https://open.spotify.com/track/35umPDaraumKhonFf5uWSF"
@@ -761,7 +873,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 224233,
       "name": "Hit & Run",
       "url": "https://open.spotify.com/track/44xdaJQkol3BllYFXG1PJ7"
@@ -801,7 +913,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 263559,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/1qKvS15FUKaE8zd77a9G1w"
@@ -877,7 +989,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 198140,
       "name": "Infinite",
       "url": "https://open.spotify.com/track/52BRKkMjJrQD8V8IHFnecr"
@@ -943,10 +1055,32 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 228965,
       "name": "Interference",
       "url": "https://open.spotify.com/track/0pIpEN61pTQZN8nBUzgpDq"
+    },
+    {
+      "album": {
+        "name": "Deadbeats & Brownies - Drum & Bass Compilation",
+        "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
+      },
+      "artists": [
+        {
+          "name": "Bensley",
+          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
+        },
+        {
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228965,
+      "name": "Interference",
+      "url": "https://open.spotify.com/track/2E9bQp7s1HxAL357KY1XMJ"
     },
     {
       "album": {
@@ -961,7 +1095,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 226666,
       "name": "Intergalactic",
       "url": "https://open.spotify.com/track/6lHfCZ4xezNUIIFCOn18Te"
@@ -979,7 +1113,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 200406,
       "name": "Interloper",
       "url": "https://open.spotify.com/track/2OJgO1bNxRcSeqhdgJ6zxE"
@@ -1004,6 +1138,24 @@
     },
     {
       "album": {
+        "name": "Deadbeats & Brownies - Drum & Bass Compilation",
+        "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217674,
+      "name": "It's Our Destiny - IMANU Remix",
+      "url": "https://open.spotify.com/track/1hpGoHU1fJDizORjFQIkJp"
+    },
+    {
+      "album": {
         "name": "keep jumpin",
         "url": "https://open.spotify.com/album/1h5AyAcn7njmqouVzsiJ40"
       },
@@ -1022,6 +1174,24 @@
     },
     {
       "album": {
+        "name": "Deadbeats & Brownies - Drum & Bass Compilation",
+        "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275862,
+      "name": "Know By Now",
+      "url": "https://open.spotify.com/track/7nAqAAY59ADeBkfNtbNL9h"
+    },
+    {
+      "album": {
         "name": "Know By Now",
         "url": "https://open.spotify.com/album/2AoFSRAEpmGB2klZbqf8vu"
       },
@@ -1033,10 +1203,28 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 275862,
       "name": "Know By Now",
       "url": "https://open.spotify.com/track/7wthIYYW5izwk0Dm5BoIar"
+    },
+    {
+      "album": {
+        "name": "Deadbeats & Brownies - Drum & Bass Compilation",
+        "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
+      },
+      "artists": [
+        {
+          "name": "SIREN",
+          "url": "https://open.spotify.com/artist/5GCrxFLckjsBYwr3FTQWir"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Let It Drop",
+      "url": "https://open.spotify.com/track/0ruDIrzlOHRG0WWtnftHvb"
     },
     {
       "album": {
@@ -1077,7 +1265,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 202800,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/3m53COQuUirTyVx0YoM9q0"
@@ -1117,7 +1305,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 233142,
       "name": "LONG WALK",
       "url": "https://open.spotify.com/track/5Lk292NbN2KEJv97g2cwAX"
@@ -1135,7 +1323,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 182400,
       "name": "LSDP",
       "url": "https://open.spotify.com/track/4hqF46oRXqePhKiNlmPuoT"
@@ -1153,7 +1341,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 219720,
       "name": "Mellow Man",
       "url": "https://open.spotify.com/track/2GYMEBJeoZxHqIXc6ymsg1"
@@ -1171,10 +1359,28 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 171428,
       "name": "MIC CHECK",
       "url": "https://open.spotify.com/track/3FZY2bYqCoTUZEyueDzqRC"
+    },
+    {
+      "album": {
+        "name": "Deadbeats & Brownies - Drum & Bass Compilation",
+        "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
+      },
+      "artists": [
+        {
+          "name": "STS9",
+          "url": "https://open.spotify.com/artist/1eZ4td9oadjw7GkW0LzxNK"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250909,
+      "name": "New Dawn New Day",
+      "url": "https://open.spotify.com/track/684ouOOCPhnYp8UqEZZhDl"
     },
     {
       "album": {
@@ -1189,7 +1395,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 172000,
       "name": "Nokia Dub",
       "url": "https://open.spotify.com/track/4Gfo4tm09wqUCERinIl4dn"
@@ -1207,7 +1413,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 161860,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/0jsel4Sd5rrRfDaPK0Djnl"
@@ -1247,7 +1453,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 237044,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/0aQZINxg2Guxiyxjy4pdtt"
@@ -1265,7 +1471,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 252023,
       "name": "One Strobe",
       "url": "https://open.spotify.com/track/2hqJXTvK0uU4VeUhxVg6Sp"
@@ -1287,10 +1493,32 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 168000,
       "name": "One Three Nine",
       "url": "https://open.spotify.com/track/3fDASogRbq1vEZGLFcN9QA"
+    },
+    {
+      "album": {
+        "name": "Deadbeats & Brownies - Drum & Bass Compilation",
+        "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
+      },
+      "artists": [
+        {
+          "name": "Fitch",
+          "url": "https://open.spotify.com/artist/4R1KJqQAvnwb0ChZWqTege"
+        },
+        {
+          "name": "REYKO!",
+          "url": "https://open.spotify.com/artist/5ZCeTjOBMhEeVrsY0lHpTT"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220281,
+      "name": "Orion",
+      "url": "https://open.spotify.com/track/0cf3ihtpE7QzZTdLb9EtGe"
     },
     {
       "album": {
@@ -1309,7 +1537,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 316734,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/0UNpHzs0Sm29tiIl6Wq6RN"
@@ -1421,7 +1649,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 202285,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/0ZzJ8dgTXvblXbHwCtbd8I"
@@ -1443,7 +1671,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 198154,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/07wxoKnyPZnrRtzcRX917e"
@@ -1461,7 +1689,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 181038,
       "name": "Ride 4 U",
       "url": "https://open.spotify.com/track/2zRPvS8h5HP9Txj6JsUkSI"
@@ -1479,7 +1707,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 226285,
       "name": "Ring Master",
       "url": "https://open.spotify.com/track/0KOb8JQInFydOboaHSsJls"
@@ -1541,7 +1769,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 135529,
       "name": "Rude Boy 22 - Spotify Singles",
       "url": "https://open.spotify.com/track/5nuyCix3R7RUitKPxkqIac"
@@ -1585,7 +1813,7 @@
       ],
       "date_added": "2023-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 202394,
       "name": "Rush",
       "url": "https://open.spotify.com/track/0sWniVm3HUdyxClGcyJEUM"
@@ -1625,7 +1853,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 243238,
       "name": "Scared",
       "url": "https://open.spotify.com/track/7DgRZtTKvoa6PlbOUbsU5N"
@@ -1647,10 +1875,32 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 234193,
       "name": "Scout",
       "url": "https://open.spotify.com/track/1wvlh0A1mMVAb7Gw2dGV9a"
+    },
+    {
+      "album": {
+        "name": "Deadbeats & Brownies - Drum & Bass Compilation",
+        "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
+      },
+      "artists": [
+        {
+          "name": "Kumarion",
+          "url": "https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27"
+        },
+        {
+          "name": "Tzar",
+          "url": "https://open.spotify.com/artist/6oMBHWDRue76zAGaT8Rxw0"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227586,
+      "name": "See The Sky",
+      "url": "https://open.spotify.com/track/3eYHRrMnMW5NfGifWtvouw"
     },
     {
       "album": {
@@ -1759,7 +2009,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 227999,
       "name": "Talavara",
       "url": "https://open.spotify.com/track/0sMreITajXmgjIQq4O1HBu"
@@ -1777,7 +2027,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 216000,
       "name": "The Blade",
       "url": "https://open.spotify.com/track/2ZeV6RMdHIdNIqermL9IcU"
@@ -1795,7 +2045,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 224428,
       "name": "The Cycle",
       "url": "https://open.spotify.com/track/768m6Ckgon2o15cceVVuuV"
@@ -1813,7 +2063,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 182608,
       "name": "The Deep",
       "url": "https://open.spotify.com/track/688MRabbIVRJRtZxef04Um"
@@ -1897,10 +2147,36 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 220689,
       "name": "Touch",
       "url": "https://open.spotify.com/track/1l90jvHTkNh9VmOh2LbbeC"
+    },
+    {
+      "album": {
+        "name": "Deadbeats & Brownies - Drum & Bass Compilation",
+        "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
+      },
+      "artists": [
+        {
+          "name": "\u00c6ON:MODE",
+          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "L8NCY",
+          "url": "https://open.spotify.com/artist/749cvAxS1Mb1jsqATH9tlD"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220689,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/3PFu4xwQHn7xYDGmdGrvF5"
     },
     {
       "album": {
@@ -1923,7 +2199,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 186206,
       "name": "Turn The Tide",
       "url": "https://open.spotify.com/track/7r5s7HP6dJvcQjYrb0ZsoK"
@@ -1948,6 +2224,28 @@
     },
     {
       "album": {
+        "name": "Deadbeats & Brownies - Drum & Bass Compilation",
+        "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182475,
+      "name": "What I Need",
+      "url": "https://open.spotify.com/track/7pRAUjVVOHT6vXMto3kxv5"
+    },
+    {
+      "album": {
         "name": "WRAITH | THERMAL",
         "url": "https://open.spotify.com/album/6vvGQsvYRr5yk6rbNIzyHN"
       },
@@ -1959,7 +2257,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 219200,
       "name": "WRAITH",
       "url": "https://open.spotify.com/track/7zxIAyGp8Cq7qY5YLqjIZJ"

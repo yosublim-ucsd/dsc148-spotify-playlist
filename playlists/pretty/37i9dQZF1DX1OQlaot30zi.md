@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di AVA, Neima Ezza, Capo Plaza, Niky Savage e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,311 likes - 90 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,362 likes - 90 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 89 | [GENEVIEVE](https://open.spotify.com/track/0FaNdZ9t8Le9CvlS7fAcMS) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv) | [GENEVIEVE](https://open.spotify.com/album/0xyjoOGikHhA6bxT9pXOzk) | 2:34 |
 | 90 | [STEP BY STEP](https://open.spotify.com/track/6azRsazhYFpDXcjOcEaqdC) | [Flus Brain](https://open.spotify.com/artist/3cIN4XjkAfNwfGLKVPoofY), [PhilG](https://open.spotify.com/artist/2asDlsjpu5fEraiS3nWGPE), [Vaglie](https://open.spotify.com/artist/0TwdOHVNvrlbU0YSJ487KK) | [STEP BY STEP](https://open.spotify.com/album/3QmRXmRqLCBpOxAiN78Ibg) | 2:29 |
 
-Snapshot ID: `MCwxNTdmM2MyNTQ0ZGNjYTNlM2IzYzkwYjFiMmQ3YTQzODM0MGE0Mjky`
+Snapshot ID: `MCwyYTc2MWQzM2E1NzljNmQzNGRiZGYwYmQ4NmE5ZjJiMWYyYmY3YWFh`

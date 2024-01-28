@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDVkYjU0OTJiNWJlY2Y3NTRlOWFiYjQ5OWYyMTE1MDgwZGI0NGY4",
+  "snapshot_id": "MCxiZjc5MmUxYzExYjI3YjdjZWU5MjY1Y2Y4MmI4NTRiNDZhZTA2MGRm",
   "tracks": [
     {
       "added_at": "2023-07-07 15:58:47",
@@ -199,26 +199,6 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "Beyond Love",
-        "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "Beyond Love (Feat. 10CM)",
-      "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -239,22 +219,22 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "Chancellor",
-        "url": "https://open.spotify.com/album/5Jw4ohSYaEuxyOeIOR47Hq"
+        "name": "Beyond Love",
+        "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
       },
       "artists": [
         {
-          "name": "Chancellor",
-          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         },
         {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 248906,
-      "name": "Walking In The Rain (feat. Younha)",
-      "url": "https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo"
+      "duration_ms": 188706,
+      "name": "Beyond Love (Feat. 10CM)",
+      "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
     },
     {
       "added_at": "2023-07-07 15:58:47",
@@ -271,6 +251,26 @@
       "duration_ms": 224240,
       "name": "\ub450\uadfc\uac70\ub824 (Beautiful)",
       "url": "https://open.spotify.com/track/7rxnGhTlqU3FRUzd8F4R3d"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
+        "name": "Chancellor",
+        "url": "https://open.spotify.com/album/5Jw4ohSYaEuxyOeIOR47Hq"
+      },
+      "artists": [
+        {
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+        },
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 248906,
+      "name": "Walking In The Rain (feat. Younha)",
+      "url": "https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo"
     },
     {
       "added_at": "2023-07-07 15:58:47",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "Love Love Love",
-        "url": "https://open.spotify.com/album/1fHeuwIK0CVB1enNSHxzAi"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Bom Bom Bom",
-      "url": "https://open.spotify.com/track/1rVPj9cryjgB7MdaU6sqN3"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 229573,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
+        "name": "Love Love Love",
+        "url": "https://open.spotify.com/album/1fHeuwIK0CVB1enNSHxzAi"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Bom Bom Bom",
+      "url": "https://open.spotify.com/track/1rVPj9cryjgB7MdaU6sqN3"
     },
     {
       "added_at": "2023-07-07 15:58:47",
@@ -555,26 +555,6 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "Emily",
-        "url": "https://open.spotify.com/album/2Ov9APMuTEbjPQjlX4sHCL"
-      },
-      "artists": [
-        {
-          "name": "Rheehab",
-          "url": "https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu"
-        },
-        {
-          "name": "Nason",
-          "url": "https://open.spotify.com/artist/23pbSN0bdhuK8cpCg3dOQX"
-        }
-      ],
-      "duration_ms": 204491,
-      "name": "no lie (feat. Nason)",
-      "url": "https://open.spotify.com/track/4lxOFzYVrRRLKLc1iDCgUy"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
         "name": "Timing",
         "url": "https://open.spotify.com/album/67HXtNJ3Ma3LolxEf0UGQ4"
       },
@@ -599,6 +579,26 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/2Ov9APMuTEbjPQjlX4sHCL"
+      },
+      "artists": [
+        {
+          "name": "Rheehab",
+          "url": "https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu"
+        },
+        {
+          "name": "Nason",
+          "url": "https://open.spotify.com/artist/23pbSN0bdhuK8cpCg3dOQX"
+        }
+      ],
+      "duration_ms": 204491,
+      "name": "no lie (feat. Nason)",
+      "url": "https://open.spotify.com/track/4lxOFzYVrRRLKLc1iDCgUy"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
         "name": "Our Love is Great",
         "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "Love Interference Season3 (Original Television Soundtrack), Pt. 17",
-        "url": "https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG"
-      },
-      "artists": [
-        {
-          "name": "Kim Mi Jeong",
-          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
-        }
-      ],
-      "duration_ms": 170746,
-      "name": "Say I Love U",
-      "url": "https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
         "name": "flutter",
         "url": "https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 196920,
       "name": "flutter",
       "url": "https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
+        "name": "Love Interference Season3 (Original Television Soundtrack), Pt. 17",
+        "url": "https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG"
+      },
+      "artists": [
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+        }
+      ],
+      "duration_ms": 170746,
+      "name": "Say I Love U",
+      "url": "https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H"
     },
     {
       "added_at": "2023-07-07 15:58:47",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "re:",
-        "url": "https://open.spotify.com/album/5iTH1fWDgfxSPkwJRBZiRE"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 226817,
-      "name": "\ud5e4\uc5b4\uc9c0\uae30 \uc2eb\uc5b4",
-      "url": "https://open.spotify.com/track/7pKxsAxBtRJU19Qqij0P6y"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
         "name": "Our Spring : Who?",
         "url": "https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 190746,
       "name": "Who?",
       "url": "https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
+        "name": "re:",
+        "url": "https://open.spotify.com/album/5iTH1fWDgfxSPkwJRBZiRE"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 226817,
+      "name": "\ud5e4\uc5b4\uc9c0\uae30 \uc2eb\uc5b4",
+      "url": "https://open.spotify.com/track/7pKxsAxBtRJU19Qqij0P6y"
     },
     {
       "added_at": "2023-07-07 15:58:47",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "Seoul Check-in OST Part 6",
-        "url": "https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 191208,
-      "name": "Check-In",
-      "url": "https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
         "name": "The Crush Of Spring OST Special Track",
         "url": "https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 190522,
       "name": "Walking In The Memory",
       "url": "https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
+        "name": "Seoul Check-in OST Part 6",
+        "url": "https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 191208,
+      "name": "Check-In",
+      "url": "https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5"
     },
     {
       "added_at": "2023-07-07 15:58:47",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
+        "name": "Love Catcher in Bali, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4"
+      },
+      "artists": [
+        {
+          "name": "KIM YO HAN",
+          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
+        }
+      ],
+      "duration_ms": 194786,
+      "name": "My Destiny",
+      "url": "https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
         "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
         "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
       },
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "Love Catcher in Bali, Pt. 3 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4"
+        "name": "Idle Idle",
+        "url": "https://open.spotify.com/album/5oJiWLZ8JGsYPh9Pdq9D2s"
       },
       "artists": [
         {
-          "name": "KIM YO HAN",
-          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
         }
       ],
-      "duration_ms": 194786,
-      "name": "My Destiny",
-      "url": "https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA"
+      "duration_ms": 196616,
+      "name": "Spring Attitude",
+      "url": "https://open.spotify.com/track/0oX3uukKkz0aBEXl3RxxyC"
     },
     {
       "added_at": "2023-07-07 15:58:47",
@@ -1047,6 +1063,22 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
+        "name": "\ubd04 Spring",
+        "url": "https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs"
+      },
+      "artists": [
+        {
+          "name": "Joob A",
+          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
+        }
+      ],
+      "duration_ms": 173880,
+      "name": "\ubd04 Spring",
+      "url": "https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
         "name": "D_iary page.2",
         "url": "https://open.spotify.com/album/28ir5sUSxl9dkPD1jjeBKv"
       },
@@ -1063,38 +1095,6 @@
       "duration_ms": 246653,
       "name": "Look & Spring (Feat. Ko Young Bae of Soran)",
       "url": "https://open.spotify.com/track/6slTRsKXks38DEsCxRgrVp"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
-        "name": "Idle Idle",
-        "url": "https://open.spotify.com/album/5oJiWLZ8JGsYPh9Pdq9D2s"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 196616,
-      "name": "Spring Attitude",
-      "url": "https://open.spotify.com/track/0oX3uukKkz0aBEXl3RxxyC"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
-        "name": "\ubd04 Spring",
-        "url": "https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs"
-      },
-      "artists": [
-        {
-          "name": "Joob A",
-          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
-        }
-      ],
-      "duration_ms": 173880,
-      "name": "\ubd04 Spring",
-      "url": "https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM"
     },
     {
       "added_at": "2023-07-07 15:58:47",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
+        "name": "Cliche",
+        "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
+      },
+      "artists": [
+        {
+          "name": "ROJO",
+          "url": "https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl"
+        }
+      ],
+      "duration_ms": 186697,
+      "name": "Cliche",
+      "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
         "name": "Paints (feat. 1ho)",
         "url": "https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 182315,
       "name": "Paints (feat. 1ho)",
       "url": "https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
-        "name": "Cliche",
-        "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
-      },
-      "artists": [
-        {
-          "name": "ROJO",
-          "url": "https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl"
-        }
-      ],
-      "duration_ms": 186697,
-      "name": "Cliche",
-      "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
     }
   ],
   "unique_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",

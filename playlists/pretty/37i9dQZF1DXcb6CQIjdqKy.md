@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover:  Matt Redman, Chris Tomlin, Hillary Scott, Cody Carnes, Kari Jobe, Naomi Raine, TAYA, Blessing Offer, Brian & Jen Johnson, Matt Maher, Mitch Wong, Benjamin William Hastings, Pat Barrett, Jon Reddick, and Ryan Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,583,291 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,582,368 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [The Lord's Prayer \(It's Yours\) \- Acoustic](https://open.spotify.com/track/1baVBBJwh3e2EMvRTDI8WH) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Lord's Prayer \(It's Yours\) \[Acoustic\]](https://open.spotify.com/album/6smqQyvINcOFg13yRysvx6) | 3:44 |
 | 100 | [For the Love of God](https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [For the Love of God](https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2) | 3:48 |
 
-Snapshot ID: `MCw2NWU1MmQxZTk2NmI0ODA0ODBmMTFhMTAzZDUzYWM2NDAyMGQ2NDcy`
+Snapshot ID: `MCxlOTIyODM5YWFkMjJiY2JhM2EzNDUwYzQ3ZDU1N2Y1NWJjODkzMDg3`

@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-300 songs - 16 hr 37 min
+301 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Before](https://open.spotify.com/track/4jnryVYgyBPM6yxZQLFzJT) | [Fresh Faces](https://open.spotify.com/artist/054OEgiAhYwnqHQOV2KmSc) | [Before](https://open.spotify.com/album/0ZgzhNN2wnyVnDjlRKi0vK) | 2:34 | 2022-03-25 | 2022-06-08 |
 | [Beyond Beliefs](https://open.spotify.com/track/58ney0bG2Vwecj8QzNGRkV) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 5:13 | 2021-12-09 | 2023-10-14 |
 | [Big Jet Plane](https://open.spotify.com/track/1AcpKqom3BJtk24rd6CP3A) | [HAYM](https://open.spotify.com/artist/6QQD5qFg4hsxqks5NGZEel), [Duke Chaine](https://open.spotify.com/artist/2tKcCJam4q1AjQkF3sF6Qt), [blakke](https://open.spotify.com/artist/1ZsbGfIYCahTeY9RyejokW) | [Big Jet Plane](https://open.spotify.com/album/6ejYy9egIKbzME90xHySOL) | 2:07 | 2023-10-13 |  |
-| [Blend](https://open.spotify.com/track/35FAJSbOqHs0lo5U7Ty0o9) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Blend](https://open.spotify.com/album/0kP4q3IOUAmdDLp6hc7oBQ) | 2:12 | 2023-09-13 |  |
+| [Blend](https://open.spotify.com/track/35FAJSbOqHs0lo5U7Ty0o9) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Blend](https://open.spotify.com/album/0kP4q3IOUAmdDLp6hc7oBQ) | 2:12 | 2023-09-13 | 2024-01-28 |
 | [Bloom](https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Bloom](https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB) | 2:59 | 2022-08-05 |  |
 | [Blue Room](https://open.spotify.com/track/0kALrkZ7O7dZfLuwjD0wDT) | [Noonlight](https://open.spotify.com/artist/0Goi0yeqJIUVfvKkVhksHe) | [Blue Room](https://open.spotify.com/album/64wlWLiCzubQBn4zxkCwxc) | 2:07 | 2022-06-02 | 2023-09-14 |
 | [Blue Room](https://open.spotify.com/track/7pVWQOxI0kKpe4Lo7AJ7qZ) | [Noonlight](https://open.spotify.com/artist/0Goi0yeqJIUVfvKkVhksHe) | [Blue Room](https://open.spotify.com/album/1nz37Y6wJVp4eVngCLeHhe) | 2:07 | 2021-12-09 | 2022-07-29 |
@@ -125,6 +125,7 @@
 | [hey now](https://open.spotify.com/track/4hvBK1k3eE2ACRUQKjkork) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM), [cloudseven](https://open.spotify.com/artist/127ajarXOJFUfRFivWi49v), [MELINA](https://open.spotify.com/artist/6B0qkeU4m0NgmVbHdRZpSt) | [hey now](https://open.spotify.com/album/16cK2WXAYWUvEmpvyDUKgI) | 2:11 | 2023-09-13 |  |
 | [High Fly](https://open.spotify.com/track/2LBf4COkSAdeWiErXJXJ7l) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [High Fly](https://open.spotify.com/album/6OtdbB8E8qul34J2xyI4Bv) | 4:20 | 2021-12-09 | 2023-04-15 |
 | [Hold Me Down](https://open.spotify.com/track/7ctUeZ8kwBfwS3ymOxqdWt) | [D.Polo](https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB) | [Hold Me Down](https://open.spotify.com/album/7MYSe2fPyBji4jffRM9L94) | 2:28 | 2023-08-25 |  |
+| [I Feel Warmer Already](https://open.spotify.com/track/5dvXFPoyEo4KM6BumvypbA) | [Fryst](https://open.spotify.com/artist/4uX8CtNxSK7yqTTTKWngAS) | [I Feel Warmer Already](https://open.spotify.com/album/72jLh8lLAIG07SY7m1cADS) | 2:30 | 2023-11-27 |  |
 | [I Love You](https://open.spotify.com/track/0O4fJqz7sptID3Q3p4yaeL) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W) | [I Love You](https://open.spotify.com/album/3WJvjcVRXWWoY5a1ZZ9k14) | 2:18 | 2021-12-09 |  |
 | [I Might As Well Live In A Hotel Room](https://open.spotify.com/track/5yU6mVDfsrRzE20ZjYb1np) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [I Might As Well Live In A Hotel Room](https://open.spotify.com/album/3VHwo1i4tgdhmociAJ18DH) | 2:33 | 2021-12-09 | 2022-08-06 |
 | [Idiot \(SLCT Remix\) \(Instrumental Version\)](https://open.spotify.com/track/5PprWUDtMegwUWZkPwHjDQ) | [Nahra](https://open.spotify.com/artist/4MKfFnhGNxVnw0dgpgCBeQ), [SLCT](https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM) | [SLCT Takeover Vol\. 1 \(Instrumental\)](https://open.spotify.com/album/7AUJ2hfbg68b8vuUQ0DgDy) | 3:11 | 2021-12-09 | 2022-05-18 |

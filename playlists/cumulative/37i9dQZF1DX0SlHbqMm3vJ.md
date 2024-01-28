@@ -4,7 +4,7 @@
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Qing Madi
 
-499 songs - 1 day 1 hr 3 min
+500 songs - 1 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 | 2021-10-14 | 2023-07-20 |
 | [Free Mind](https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 4:07 | 2023-09-29 | 2023-10-18 |
 | [Game Over](https://open.spotify.com/track/6i6wVdyqlRmFCTkNxSzxQz) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Madina to the Universe](https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW) | 3:18 | 2021-11-18 | 2022-03-23 |
-| [Game Over](https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Game Over](https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88) | 2:22 | 2023-08-03 |  |
+| [Game Over](https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Game Over](https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88) | 2:22 | 2023-08-03 | 2024-01-28 |
 | [Gbese](https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Gbese](https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC) | 2:42 | 2023-02-23 | 2023-09-15 |
 | [Genuine \(ft\. SOLIS\)](https://open.spotify.com/track/46siAqYfYeT5fWHStdXN28) | [SirBastien](https://open.spotify.com/artist/4J3AoVEbI3WEaR8LHVAwRC), [SOLIS](https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh) | [Jellyfish](https://open.spotify.com/album/4kLxWUzWC2ljw7QLHeWAUg) | 2:39 | 2022-04-21 | 2022-07-20 |
 | [Ghetto Luv](https://open.spotify.com/track/1I4TXR1BBf8uGPpW3tLadB) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [G.D.S](https://open.spotify.com/artist/1JJxXFiM6xyoaJecfqdgfx) | [A Lifetime Is Not Enough](https://open.spotify.com/album/5bfIeYx2TDqPNxjSQrQqrH) | 2:44 | 2023-01-19 | 2023-02-04 |
@@ -467,6 +467,7 @@
 | [Unconditionally](https://open.spotify.com/track/2Wa67iymOfKbetMWP2uYiV) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Unconditionally](https://open.spotify.com/album/6oiBC8br4masllouRuOdP7) | 3:17 | 2021-10-14 | 2023-05-20 |
 | [Understand](https://open.spotify.com/track/3cC17ZyEHU4ljycyCaWbbr) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Understand](https://open.spotify.com/album/3eFRo446TwN1OOr3DIJhcB) | 2:54 | 2021-10-14 | 2022-07-29 |
 | [understand](https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:54 | 2022-01-21 | 2023-10-20 |
+| [Undress You \(feat\. Sarkodie\)](https://open.spotify.com/track/6LVuaveD4hazORqbg67C03) | [K.J Spio](https://open.spotify.com/artist/2FupL1k7vpEQwj6Rtp3bbJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Undress You \(feat\. Sarkodie\)](https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO) | 3:33 | 2024-01-26 |  |
 | [Untill I See You \(Anopa Tutuutu\)](https://open.spotify.com/track/0Y7CMyMAdrQYge4mLgogUI) | [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2), [Titi Owusu](https://open.spotify.com/artist/1zFAZYHVVh6hgb0q6dVaVV) | [Road To Hastafari](https://open.spotify.com/album/0aYCzuvw9TZXaOp7gzsisC) | 3:03 | 2022-01-21 | 2022-04-21 |
 | [Up](https://open.spotify.com/track/5GTXa4WXtncHY5Ztbb8yX2) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [In Her Feelings](https://open.spotify.com/album/4TErBkczF1ruHux9wpPbgc) | 2:23 | 2021-10-14 | 2022-03-04 |
 | [Vibrations](https://open.spotify.com/track/2d4CHMYgJNjMGXA7txhsi7) | [Kobla Jnr](https://open.spotify.com/artist/2eNQ8rTGnlHB9SZwh2UVhi), [Harma Boy](https://open.spotify.com/artist/0dBu3FtAi8txcbF1dc5Z0e), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Anita Jaxson](https://open.spotify.com/artist/6KXx2OYYruptjegbc2s7YA) | [Vibrations](https://open.spotify.com/album/5JlLAlhc1DYCLiIAJDpVjJ) | 2:26 | 2021-12-09 | 2022-01-12 |

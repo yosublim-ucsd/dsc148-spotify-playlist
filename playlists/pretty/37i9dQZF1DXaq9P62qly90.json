@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12634,
+  "num_followers": 12633,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDU2OTc1YmE2MmYyOWQ5NDU4OGM0MDdmNjZlZjkxZWY3ZDdlNjk0",
+  "snapshot_id": "MCwyMmZlYmZlOWRhMzVjMTljMGUxMzIzMzdiOWI2ZDQ4NTZhMWY3ZWE1",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Laps Around The Sun",
-        "url": "https://open.spotify.com/album/6JYmn58l1Lj90pF1a9mdh5"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 206166,
-      "name": "Laps Around The Sun",
-      "url": "https://open.spotify.com/track/3U0UzEdzd45T81FHdPPbfC"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "Burial Ground",
         "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 443379,
       "name": "Weight of Sound",
       "url": "https://open.spotify.com/track/3W4x7fZhMHw2pE6wyBzzF8"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "Laps Around The Sun",
+        "url": "https://open.spotify.com/album/6JYmn58l1Lj90pF1a9mdh5"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 206166,
+      "name": "Laps Around The Sun",
+      "url": "https://open.spotify.com/track/3U0UzEdzd45T81FHdPPbfC"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "Jahta Beat: The Lotus Memoirs",
+        "url": "https://open.spotify.com/album/61GQtLkHRdK3jmnm9aoAFZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Drez",
+          "url": "https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "Nectar Drop",
+      "url": "https://open.spotify.com/track/3QbtJmJeeh8JE5EtAD1Eh0"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 238767,
       "name": "Summertime (feat. Citizen Cope)",
       "url": "https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "Jahta Beat: The Lotus Memoirs",
-        "url": "https://open.spotify.com/album/61GQtLkHRdK3jmnm9aoAFZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Drez",
-          "url": "https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "Nectar Drop",
-      "url": "https://open.spotify.com/track/3QbtJmJeeh8JE5EtAD1Eh0"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Stronger (Acoustic)",
-        "url": "https://open.spotify.com/album/1ga7jpZ0eXUsXDq0ym9dbd"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "Stronger - Acoustic",
-      "url": "https://open.spotify.com/track/59pRM3QqvTJkiGmzgDU1Jk"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "You're It!",
         "url": "https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 216706,
       "name": "Don't Hold Your Breath",
       "url": "https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "Stronger (Acoustic)",
+        "url": "https://open.spotify.com/album/1ga7jpZ0eXUsXDq0ym9dbd"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "Stronger - Acoustic",
+      "url": "https://open.spotify.com/track/59pRM3QqvTJkiGmzgDU1Jk"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "Kulture",
+        "url": "https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT"
+      },
+      "artists": [
+        {
+          "name": "Satsang",
+          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
+        }
+      ],
+      "duration_ms": 276017,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/38B7DBC5xcEiYRHNfNROoe"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "Stay Human Vol. II",
         "url": "https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 207485,
       "name": "Lifeguard",
       "url": "https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "Kulture",
-        "url": "https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT"
-      },
-      "artists": [
-        {
-          "name": "Satsang",
-          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
-        }
-      ],
-      "duration_ms": 276017,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/38B7DBC5xcEiYRHNfNROoe"
     },
     {
       "added_at": "2023-01-03 17:09:40",

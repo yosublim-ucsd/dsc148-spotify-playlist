@@ -4,7 +4,7 @@
 
 > Check out the very own Rhythm of Madras!<br/>Cover : Asal Kolaar
 
-65 songs - 4 hr 19 min
+66 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Dammalu Dumeelu](https://open.spotify.com/track/3XtMiD7Oq7bvNEG2Ab7vB7) | [Docomo Mani](https://open.spotify.com/artist/1LSDQTKpM6lCe3t5LMZzGq) | [Dammalu Dumeelu](https://open.spotify.com/album/21d5z8KNjwpo1BZi1FQ9rw) | 4:29 | 2022-11-05 |  |
 | [Dolakku Dakku](https://open.spotify.com/track/3OAZIKrB0wUCzuA3ZxfTwW) | [Palani](https://open.spotify.com/artist/2ek6C69timLZWHkd3qlb6b) | [Gana Ulagam Vol \- 1](https://open.spotify.com/album/3ISlqx1ncmk4x13zWU44uT) | 3:36 | 2023-01-11 | 2023-06-28 |
 | [Enga Chennai](https://open.spotify.com/track/4D7z4o6E20x3etPXDiGE0H) | [Gana Kalaimani](https://open.spotify.com/artist/1SPYnGnTOjzAmwJn1AxnPm) | [Enga Chennai](https://open.spotify.com/album/1C3j0bCWnPM7pj9bWzXr5I) | 3:54 | 2023-03-24 |  |
-| [Ennoda Kanavil Vantha Ennoda Dhevathaye](https://open.spotify.com/track/6jW5NYJwRjyXveNWsM6tEo) | [Joy Sanjai](https://open.spotify.com/artist/0Z9mGj0nfAQPzoFsLghr9M) | [Ennoda Kanavil Vantha Ennoda Dhevathaye](https://open.spotify.com/album/0YSmac7fjjcvtdrGgNIW9K) | 5:56 | 2023-01-11 |  |
+| [Ennoda Kanavil Vantha Ennoda Dhevathaye](https://open.spotify.com/track/4yK5B0xPEZDR3LhFSxW70z) | [Joy Sanjai](https://open.spotify.com/artist/0Z9mGj0nfAQPzoFsLghr9M) | [Ennoda Kanavil Vantha Ennoda Dhevathaye](https://open.spotify.com/album/3y9JzZTgKJuP9TSWw27Zuk) | 5:56 | 2023-01-11 |  |
+| [Ennoda Kanavil Vantha Ennoda Dhevathaye](https://open.spotify.com/track/6jW5NYJwRjyXveNWsM6tEo) | [Joy Sanjai](https://open.spotify.com/artist/0Z9mGj0nfAQPzoFsLghr9M) | [Ennoda Kanavil Vantha Ennoda Dhevathaye](https://open.spotify.com/album/0YSmac7fjjcvtdrGgNIW9K) | 5:56 | 2023-01-11 | 2024-01-28 |
 | [Ennoda Necha Etho Etho Senjaa](https://open.spotify.com/track/335kH32uMbTttLIreClVZa) | [Gana Sakthi](https://open.spotify.com/artist/10qDavfN9Ay52WTQ7biWgh) | [Ennoda Necha Etho Etho Senjaa](https://open.spotify.com/album/0VzNrEgJZ8se0nLdkP49iN) | 4:24 | 2023-01-11 |  |
 | [Ennoda necha Etho Etho Senjaa](https://open.spotify.com/track/7K2agO7ZGgDxhCA3YlNn9i) | [Gana Sakthi](https://open.spotify.com/artist/10qDavfN9Ay52WTQ7biWgh), [Bennet Christopher](https://open.spotify.com/artist/0y0M3qVG12u7oVdSXyNaJL) | [Gana Sakthi](https://open.spotify.com/album/5teo3lRo6w00yHsmU18Mh6) | 4:24 | 2023-01-11 | 2023-05-25 |
 | [Friendship Song](https://open.spotify.com/track/6R3IMqONC1BuPIfG1J4HbO) | [Gana Guna](https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW), [Asalt Raju](https://open.spotify.com/artist/3h9hYhWY2cYTSRztEMemEG) | [Friendship Song](https://open.spotify.com/album/3LZvL35Zk9QT6UAK42Ekpz) | 4:43 | 2023-01-13 |  |

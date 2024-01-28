@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 32796,
+  "2024-01-28": 32835,
   "date_first_scraped": "2023-05-02",
   "description": "Ambient with the sound of waves for a blissful meditation.",
   "name": "Meditate by the Ocean",
@@ -478,6 +478,24 @@
     },
     {
       "album": {
+        "name": "From Within",
+        "url": "https://open.spotify.com/album/0UZaQABB0qZ1wDFF7keDfK"
+      },
+      "artists": [
+        {
+          "name": "Infinity Equals",
+          "url": "https://open.spotify.com/artist/3gqTdyMEE37wzRZA9HEWTQ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160333,
+      "name": "From Within",
+      "url": "https://open.spotify.com/track/7zyc5lRXmothc3kTRi9mfr"
+    },
+    {
+      "album": {
         "name": "Gentle Sail",
         "url": "https://open.spotify.com/album/1sVjTQDOGfWPizUQs7kDUD"
       },
@@ -583,6 +601,24 @@
       "duration_ms": 165576,
       "name": "Love Story Star",
       "url": "https://open.spotify.com/track/4rQcoBXbQlYyXAej1yse4w"
+    },
+    {
+      "album": {
+        "name": "Lunar Light",
+        "url": "https://open.spotify.com/album/6R8vfuIg3yjiwI4wH9P2L9"
+      },
+      "artists": [
+        {
+          "name": "J. Cartwright",
+          "url": "https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152441,
+      "name": "Lunar Light",
+      "url": "https://open.spotify.com/track/0dmBrC4r1VWnGusD26usj1"
     },
     {
       "album": {

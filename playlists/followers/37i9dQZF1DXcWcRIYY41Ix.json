@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 120641,
+  "2024-01-28": 120666,
   "date_first_scraped": "2021-12-28",
-  "description": "La nueva ola de trovadores del Siglo XXI. En portada: Yoly Saa.",
+  "description": "La nueva ola de trovadores del Siglo XXI. En portada: Natalia Lafourcade y Kevin Johansen.",
   "name": "Cancionistas",
   "tracks": [
     {
@@ -657,7 +657,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 258000,
       "name": "Alma en Vilo",
       "url": "https://open.spotify.com/track/4GlgzFZp9FyYXiT2hJSyzM"
@@ -865,6 +865,24 @@
       "duration_ms": 214047,
       "name": "Aunque No Sea Yo",
       "url": "https://open.spotify.com/track/4zrePmHHjkkic4xZGPg8PB"
+    },
+    {
+      "album": {
+        "name": "Azul de mar",
+        "url": "https://open.spotify.com/album/5pz13mxTE5VVuQxKx4dXMA"
+      },
+      "artists": [
+        {
+          "name": "Adri Stuven",
+          "url": "https://open.spotify.com/artist/4DXUWdscqbjGNbrGwgxuYn"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169218,
+      "name": "Azul de mar",
+      "url": "https://open.spotify.com/track/1yg9Dsc7nBuMjDnqEIxqsH"
     },
     {
       "album": {
@@ -1173,7 +1191,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 178378,
       "name": "busco",
       "url": "https://open.spotify.com/track/1dBasjgtFj2VtDLWDmgQQB"
@@ -1449,7 +1467,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 292500,
       "name": "Candor",
       "url": "https://open.spotify.com/track/7KERYWUNyuDcMhhfGhCbui"
@@ -2825,7 +2843,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 194165,
       "name": "D\u00eda De Lluvia En Madrid",
       "url": "https://open.spotify.com/track/7BsBS9JSEw2y8KPhMSDDYf"
@@ -4601,7 +4619,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 303849,
       "name": "La Maza - En Vivo Desde Fonobox",
       "url": "https://open.spotify.com/track/76fR1kHj38aYysA7cLsvle"
@@ -4777,6 +4795,24 @@
       "duration_ms": 224501,
       "name": "la ra\u00edz",
       "url": "https://open.spotify.com/track/2sBmqdqM6wSlSoMM1BSNz2"
+    },
+    {
+      "album": {
+        "name": "La Serrana",
+        "url": "https://open.spotify.com/album/5l0f2RgDat84Z7xWUM5zgS"
+      },
+      "artists": [
+        {
+          "name": "Karmento",
+          "url": "https://open.spotify.com/artist/5QcmgtNbUfqgAOgj7XRRZF"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265015,
+      "name": "La Serrana",
+      "url": "https://open.spotify.com/track/01h6ipg9kKVRfBpTywnKhb"
     },
     {
       "album": {
@@ -4957,6 +4993,24 @@
       "duration_ms": 115029,
       "name": "Las Plantas Crecen",
       "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
+    },
+    {
+      "album": {
+        "name": "Notas de Voz",
+        "url": "https://open.spotify.com/album/40HqgwCT6Ug89tuv8bJyrw"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e's Clue",
+          "url": "https://open.spotify.com/artist/1sRWTOOn4OvDGoe1oXVFoE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134187,
+      "name": "Leche Entera",
+      "url": "https://open.spotify.com/track/4Ervs2U0e4QewVwcvLK6S7"
     },
     {
       "album": {
@@ -5377,7 +5431,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 254829,
       "name": "Malagradecida",
       "url": "https://open.spotify.com/track/6ttA706vqyxFWRbq0zoL8x"
@@ -7136,6 +7190,24 @@
     },
     {
       "album": {
+        "name": "Profec\u00eda",
+        "url": "https://open.spotify.com/album/1QoK9uWN9aQZFBlrmWH4Np"
+      },
+      "artists": [
+        {
+          "name": "Las Nietas del Charli",
+          "url": "https://open.spotify.com/artist/7qUIkRxw27ibYFxuzEm9rS"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179046,
+      "name": "Profec\u00eda",
+      "url": "https://open.spotify.com/track/1dZcZjX03L5midWLI0XOVV"
+    },
+    {
+      "album": {
         "name": "Propuestas Imposibles",
         "url": "https://open.spotify.com/album/1cmDYMQXjP5IGxgp2KPwfb"
       },
@@ -8175,7 +8247,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 138074,
       "name": "Si llega el fin",
       "url": "https://open.spotify.com/track/1r1oclIVtc9FUiKxy4tX8u"
@@ -8336,6 +8408,24 @@
     },
     {
       "album": {
+        "name": "Solo Solomon",
+        "url": "https://open.spotify.com/album/57LAHUqTLA6y7yQ6BhS5bA"
+      },
+      "artists": [
+        {
+          "name": "Solomon Zu",
+          "url": "https://open.spotify.com/artist/5fhdwAxeYvUbQqNww6kRqw"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246614,
+      "name": "Solo Solomon",
+      "url": "https://open.spotify.com/track/2NvrWbODcR4dlfV0aQmmCZ"
+    },
+    {
+      "album": {
         "name": "NIDO",
         "url": "https://open.spotify.com/album/0nTAz6Yf3GC3c9erViwPG4"
       },
@@ -8409,7 +8499,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 178756,
       "name": "Susurrito",
       "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
@@ -8877,6 +8967,24 @@
       "duration_ms": 216661,
       "name": "Todo Lo Que No Est\u00e1",
       "url": "https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z"
+    },
+    {
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206803,
+      "name": "Todo lo que puedo darte",
+      "url": "https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh"
     },
     {
       "album": {

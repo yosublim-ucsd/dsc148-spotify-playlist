@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 8591,
+  "2024-01-28": 8627,
   "date_first_scraped": "2023-09-29",
   "description": "La bande son des premiers amours",
   "name": "Coup de foudre",
@@ -681,10 +681,28 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 199266,
       "name": "Reine",
       "url": "https://open.spotify.com/track/1bxP4M9ICllcg7mel8kH89"
+    },
+    {
+      "album": {
+        "name": "Gentleman 2.0",
+        "url": "https://open.spotify.com/album/4W1TprhYF2tlbhilWvi0A3"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199266,
+      "name": "Reine",
+      "url": "https://open.spotify.com/track/2HdCh16tdPjle1rm80Y6q7"
     },
     {
       "album": {

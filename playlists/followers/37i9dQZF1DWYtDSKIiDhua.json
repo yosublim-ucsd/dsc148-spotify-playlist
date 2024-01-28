@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 123366,
+  "2024-01-28": 123441,
   "date_first_scraped": "2022-06-09",
   "description": "The R&B and good vibe tracks for your current mood. Cover: Justin Timberlake",
   "name": "mood.",
@@ -2999,6 +2999,28 @@
       "duration_ms": 181856,
       "name": "Feelin'",
       "url": "https://open.spotify.com/track/2KBlnIRT9BiUqIcf9E6V6S"
+    },
+    {
+      "album": {
+        "name": "Sphere",
+        "url": "https://open.spotify.com/album/4e9WFFgUKF98b0JKokADNX"
+      },
+      "artists": [
+        {
+          "name": "Jooyoung",
+          "url": "https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH"
+        },
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180010,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/5nDSIB3JHYgCvZQSG1JwrV"
     },
     {
       "album": {
@@ -7015,6 +7037,24 @@
       "duration_ms": 222500,
       "name": "No Conditions",
       "url": "https://open.spotify.com/track/5GHqCNDXs23kv0RY4g4uMH"
+    },
+    {
+      "album": {
+        "name": "No Evil",
+        "url": "https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145267,
+      "name": "No Evil",
+      "url": "https://open.spotify.com/track/7JHVXlqkoXViFD4giUlzEs"
     },
     {
       "album": {

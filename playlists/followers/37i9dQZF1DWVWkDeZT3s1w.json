@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 92373,
+  "2024-01-28": 92468,
   "date_first_scraped": "2023-06-14",
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente. Cancerbero en portada.",
   "name": "Rap Conciencia",
@@ -233,6 +233,32 @@
       "duration_ms": 214285,
       "name": "Alquimista",
       "url": "https://open.spotify.com/track/6jnLJ9M1obPdVKj4kluKAD"
+    },
+    {
+      "album": {
+        "name": "Amor Puro (feat. La Banda Baston)",
+        "url": "https://open.spotify.com/album/1o4F0i1k4nyoOOqQwLR4qQ"
+      },
+      "artists": [
+        {
+          "name": "Pato Machete",
+          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
+        },
+        {
+          "name": "Serko Fu",
+          "url": "https://open.spotify.com/artist/3V0tt9H5XH3KAGobLFhoGw"
+        },
+        {
+          "name": "La Banda Baston",
+          "url": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215373,
+      "name": "Amor Puro (feat. La Banda Baston)",
+      "url": "https://open.spotify.com/track/6XKTQUnpryvy723TkfEhHd"
     },
     {
       "album": {
@@ -932,6 +958,24 @@
     },
     {
       "album": {
+        "name": "Intraterreno",
+        "url": "https://open.spotify.com/album/5ozLNE6qkjZGJ5Inf54tX5"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234428,
+      "name": "Intraterreno",
+      "url": "https://open.spotify.com/track/5bcrz9x6c3NfiZlvQNlzzW"
+    },
+    {
+      "album": {
         "name": "Jamming Sin Fronteras",
         "url": "https://open.spotify.com/album/1Bt7lT0WFNHlvd1yGC8zlJ"
       },
@@ -1091,6 +1135,28 @@
       "duration_ms": 173062,
       "name": "La teor\u00eda de la evoluci\u00f3n",
       "url": "https://open.spotify.com/track/23fBYz4RKFRmzvo2jnedTl"
+    },
+    {
+      "album": {
+        "name": "LA VIDA ES TAN DURA",
+        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Cheo Gallego",
+          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "LA VIDA ES TAN DURA",
+      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
     },
     {
       "album": {

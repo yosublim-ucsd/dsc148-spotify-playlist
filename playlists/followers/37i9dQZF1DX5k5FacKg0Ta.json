@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 10636,
+  "2024-01-28": 10636,
   "date_first_scraped": "2022-09-09",
   "description": "Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz-helmi\u00e4.",
   "name": "Jazzia Suomesta",
@@ -609,6 +609,24 @@
       "duration_ms": 324413,
       "name": "Cold Springs",
       "url": "https://open.spotify.com/track/7c3tADXsEF2hHNLMQ9bWAs"
+    },
+    {
+      "album": {
+        "name": "Collective Awareness",
+        "url": "https://open.spotify.com/album/5s95lm3vSea3jSw2tRQGIf"
+      },
+      "artists": [
+        {
+          "name": "Peela",
+          "url": "https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397290,
+      "name": "Collective Awareness",
+      "url": "https://open.spotify.com/track/4tmUIDjEgDYpeJdB64shy8"
     },
     {
       "album": {
@@ -3763,6 +3781,24 @@
       "duration_ms": 289766,
       "name": "Wallbreaker",
       "url": "https://open.spotify.com/track/2a1QyKbVm0QjDk7TAczeM6"
+    },
+    {
+      "album": {
+        "name": "New Trio (with Arttu Huopainen & Tuomas Talvi)",
+        "url": "https://open.spotify.com/album/59puCqIkLQKOoIch2vUwTB"
+      },
+      "artists": [
+        {
+          "name": "Markus Niittynen",
+          "url": "https://open.spotify.com/artist/0eusP0tQPKn4K6IHIuTZdn"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365914,
+      "name": "Well You Needn't (with Arttu Huopainen & Tuomas Talvi)",
+      "url": "https://open.spotify.com/track/1hsPPlUwPFJEsSiaUwv6uz"
     },
     {
       "album": {

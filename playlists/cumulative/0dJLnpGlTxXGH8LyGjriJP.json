@@ -15237,6 +15237,28 @@
     },
     {
       "album": {
+        "name": "Whatever She Wants",
+        "url": "https://open.spotify.com/album/1ymOdljx8dHJNxxoOUHV52"
+      },
+      "artists": [
+        {
+          "name": "Rlr Slime",
+          "url": "https://open.spotify.com/artist/71ltjO8mWxEALHGt0bbfVZ"
+        },
+        {
+          "name": "Lil Bryson Tillerr",
+          "url": "https://open.spotify.com/artist/1p1Pz5qFGwejLghf94opef"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130007,
+      "name": "Whatever She Wants",
+      "url": "https://open.spotify.com/track/1F2YY9lXrRJxAppKaRMGML"
+    },
+    {
+      "album": {
         "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
         "url": "https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22"
       },

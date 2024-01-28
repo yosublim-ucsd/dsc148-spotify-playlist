@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 341783,
+  "2024-01-28": 341807,
   "date_first_scraped": "2022-08-06",
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
   "name": "This Is Eric Clapton",
@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 150626,
       "name": "For Your Love - 2015 Remaster",
       "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 306293,
       "name": "Help the Poor",
       "url": "https://open.spotify.com/track/1zdJVsBmTNavn5u2GSqWkW"
@@ -2103,7 +2103,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 397200,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/1bursm5ZnNHQS55a23h7kR"
@@ -2483,7 +2483,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 280453,
       "name": "Ten Long Years",
       "url": "https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA"

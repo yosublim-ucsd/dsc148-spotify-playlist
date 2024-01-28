@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 416595,
+  "2024-01-28": 416342,
   "date_first_scraped": "2021-12-21",
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Randall King",
   "name": "Texas Country Now",
@@ -697,6 +697,24 @@
       "duration_ms": 156523,
       "name": "Ask Me To Dance (feat. Hayes Carll)",
       "url": "https://open.spotify.com/track/6cbUXmdoD6mgh7Cs6o0xQz"
+    },
+    {
+      "album": {
+        "name": "Somewhere Down The Road",
+        "url": "https://open.spotify.com/album/59QCDtvrb7ndBKYKyFJ12q"
+      },
+      "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221336,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/2q3Qtn6pVjR3MkKW0LZAl8"
     },
     {
       "album": {
@@ -6082,6 +6100,28 @@
     },
     {
       "album": {
+        "name": "Wandering Star",
+        "url": "https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        },
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223764,
+      "name": "Mornings With You (with Kaitlin Butts)",
+      "url": "https://open.spotify.com/track/0yebM7lJyoX5doGOCW9fmk"
+    },
+    {
+      "album": {
         "name": "Mornings With You (with Kaitlin Butts)",
         "url": "https://open.spotify.com/album/1UkSXpE3GpdEPenT83tsnW"
       },
@@ -6097,7 +6137,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 223764,
       "name": "Mornings With You (with Kaitlin Butts)",
       "url": "https://open.spotify.com/track/7pNCw2WPlLImrZSSI3tXC8"
@@ -7523,7 +7563,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 174327,
       "name": "Settle for a Beer (with Triston Marez)",
       "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"

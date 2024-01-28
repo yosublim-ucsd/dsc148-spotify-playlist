@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 420 songs - 1 day 3 hr 29 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 422 songs - 1 day 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -428,5 +428,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 418 | [Rhododendron Overlook](https://open.spotify.com/track/01zy9hOX1ZcvF1qjQC3EJr) | [Violet Pine](https://open.spotify.com/artist/6wmZyabjfKGIsSiQQxj93r) | [If I Sit Here Long Enough](https://open.spotify.com/album/2TcTUQz8kWFf0wXT7dgWAz) | 6:48 |
 | 419 | [The Day Begins](https://open.spotify.com/track/03fUImUW8G4zDuQOkwWR7v) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [Days Of Future Passed \(Remastered 2017\)](https://open.spotify.com/album/7IIy4elDOHGHr6qemgpa9i) | 5:48 |
 | 420 | [Andrew in Drag](https://open.spotify.com/track/5ehMCdeOhsgsx25M6wAEzu) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [Love at the Bottom of the Sea](https://open.spotify.com/album/3jtS8e6U6UJzRDdQrg1uNP) | 2:12 |
+| 421 | [Let You Down](https://open.spotify.com/track/1wzwDKMN9m7NATxnsLqJAu) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Honour and Glory](https://open.spotify.com/album/015KLRVrZoCEnW8jGGH0E3) | 3:28 |
+| 422 | [Agnus Dei](https://open.spotify.com/track/2ohy1XMth89tkmCk7esI0q) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Want Two](https://open.spotify.com/album/6agP9hBwmPQWWEqt5aerMG) | 5:45 |
 
-Snapshot ID: `MTMyOCwwYmZiMWUxMjExNjZkMDBjYTY1Y2IzYmVmOThjMzgyMzIyNzRjY2Mx`
+Snapshot ID: `MTMzMCwwMTQ3N2QyZTIxMTUyZTY1MzY5MWU4NWIwNDUwYTQ5NzVjNzRiMGRm`

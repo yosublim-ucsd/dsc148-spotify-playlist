@@ -1,12 +1,12 @@
 {
   "description": "The south got something to say. Cover: Yo Gotti",
-  "num_followers": 514731,
+  "num_followers": 514784,
   "original_name": "I Love My Down South Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmIzMDY4ODI4NmY5ZDE4NGViZDk0OGM3YTZiYTNiZTEyNjkyZGM4",
+  "snapshot_id": "MCwwNjc3YmYzNDk1MGI5MjY5MTk5YzBkNjk4NWJhYWU0YWU1MGM2Mzk1",
   "tracks": [
     {
       "added_at": "2023-12-01 19:22:27",
@@ -795,18 +795,30 @@
     {
       "added_at": "2023-12-01 19:22:27",
       "album": {
-        "name": "The Inspiration",
-        "url": "https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP"
+        "name": "Survival Of The Fittest",
+        "url": "https://open.spotify.com/album/2G2MWbopwqEGfEMjGiMe3b"
       },
       "artists": [
         {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+          "name": "Trill Family",
+          "url": "https://open.spotify.com/artist/1YMvmHRTq8YdlABZk6C8av"
+        },
+        {
+          "name": "Boosie Badazz",
+          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
+        },
+        {
+          "name": "Webbie",
+          "url": "https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8"
+        },
+        {
+          "name": "Foxx",
+          "url": "https://open.spotify.com/artist/2l6Z31DakUv5Gl9yQPbLEl"
         }
       ],
-      "duration_ms": 240613,
-      "name": "I Luv It",
-      "url": "https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj"
+      "duration_ms": 272346,
+      "name": "Wipe Me Down (feat. Foxx, Webbie & Boosie Badazz) - Remix",
+      "url": "https://open.spotify.com/track/1csF3mqDAQ33FuLJhV4ESS"
     },
     {
       "added_at": "2023-12-01 19:22:27",
@@ -851,30 +863,18 @@
     {
       "added_at": "2023-12-01 19:22:27",
       "album": {
-        "name": "Survival Of The Fittest",
-        "url": "https://open.spotify.com/album/2G2MWbopwqEGfEMjGiMe3b"
+        "name": "The Inspiration",
+        "url": "https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP"
       },
       "artists": [
         {
-          "name": "Trill Family",
-          "url": "https://open.spotify.com/artist/1YMvmHRTq8YdlABZk6C8av"
-        },
-        {
-          "name": "Boosie Badazz",
-          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
-        },
-        {
-          "name": "Webbie",
-          "url": "https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8"
-        },
-        {
-          "name": "Foxx",
-          "url": "https://open.spotify.com/artist/2l6Z31DakUv5Gl9yQPbLEl"
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
         }
       ],
-      "duration_ms": 272346,
-      "name": "Wipe Me Down (feat. Foxx, Webbie & Boosie Badazz) - Remix",
-      "url": "https://open.spotify.com/track/1csF3mqDAQ33FuLJhV4ESS"
+      "duration_ms": 240613,
+      "name": "I Luv It",
+      "url": "https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj"
     },
     {
       "added_at": "2023-12-01 19:22:27",

@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 76484,
+  "num_followers": 76537,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmZjOGI4N2I2YzczZTFlN2JkNmVhZWEwM2I5MzdjM2I3ZmQ3Y2M4",
+  "snapshot_id": "MCw1ZGE5Y2U1YTk1YzQzNzg1ZWQ0ZmI2NjBlZmE0MjhkODAxMWYxNTEy",
   "tracks": [
     {
       "added_at": "2023-12-27 14:18:14",
@@ -583,26 +583,30 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Manda \u00c1udio (Sped Funk)",
-        "url": "https://open.spotify.com/album/0zuN31JROjiQnzQm0KGtkk"
+        "name": "Levante",
+        "url": "https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS"
       },
       "artists": [
         {
-          "name": "Penedo",
-          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
           "name": "Marquinho no Beat",
           "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
         },
         {
-          "name": "Tkd",
-          "url": "https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt"
+          "name": "DJ Gui",
+          "url": "https://open.spotify.com/artist/3ojbgoniv6UU4eR2HM22wK"
         }
       ],
-      "duration_ms": 99759,
-      "name": "Manda \u00c1udio (Sped Funk)",
-      "url": "https://open.spotify.com/track/0Xawar2jiwMz36PD5M1gJ0"
+      "duration_ms": 115714,
+      "name": "SUV - Remix",
+      "url": "https://open.spotify.com/track/3NC8cCoF495lDMjXDyNvhd"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -635,30 +639,26 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Levante",
-        "url": "https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS"
+        "name": "Manda \u00c1udio (Sped Funk)",
+        "url": "https://open.spotify.com/album/0zuN31JROjiQnzQm0KGtkk"
       },
       "artists": [
         {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "Penedo",
+          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
         },
         {
           "name": "Marquinho no Beat",
           "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
         },
         {
-          "name": "DJ Gui",
-          "url": "https://open.spotify.com/artist/3ojbgoniv6UU4eR2HM22wK"
+          "name": "Tkd",
+          "url": "https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt"
         }
       ],
-      "duration_ms": 115714,
-      "name": "SUV - Remix",
-      "url": "https://open.spotify.com/track/3NC8cCoF495lDMjXDyNvhd"
+      "duration_ms": 99759,
+      "name": "Manda \u00c1udio (Sped Funk)",
+      "url": "https://open.spotify.com/track/0Xawar2jiwMz36PD5M1gJ0"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -695,26 +695,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
-        "url": "https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04"
-      },
-      "artists": [
-        {
-          "name": "PL JUNIOR",
-          "url": "https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0"
-        },
-        {
-          "name": "ANNY SUCESSADA",
-          "url": "https://open.spotify.com/artist/2QgksP01YMIrB0y7DTXqlj"
-        }
-      ],
-      "duration_ms": 106631,
-      "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
-      "url": "https://open.spotify.com/track/1YjPBxRkXcybgV3Jq16dIW"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "ELA SABE QUE \u00c9 O LITTLE HAIR FININHA (REMIX)",
         "url": "https://open.spotify.com/album/3nASJZOJV1VWbLzp2DS7AE"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 169846,
       "name": "ELA SABE QUE \u00c9 O LITTLE HAIR FININHA - REMIX",
       "url": "https://open.spotify.com/track/4Nly3yVddPbsDc6b2eK4W7"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Palha\u00e7ada Speed",
+        "url": "https://open.spotify.com/album/4okp1GPCFiKNbnTfFQvO5A"
+      },
+      "artists": [
+        {
+          "name": "Avelar Music",
+          "url": "https://open.spotify.com/artist/5AlccduhApCtX7ssks4AJ1"
+        },
+        {
+          "name": "Belim",
+          "url": "https://open.spotify.com/artist/6Cb97YqzKJbAxQuHzEDJnb"
+        }
+      ],
+      "duration_ms": 149170,
+      "name": "Palha\u00e7ada Speed",
+      "url": "https://open.spotify.com/track/0ehjQBJZp0dpOv1oCZFHGE"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -775,22 +775,22 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Palha\u00e7ada Speed",
-        "url": "https://open.spotify.com/album/4okp1GPCFiKNbnTfFQvO5A"
+        "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
+        "url": "https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04"
       },
       "artists": [
         {
-          "name": "Avelar Music",
-          "url": "https://open.spotify.com/artist/5AlccduhApCtX7ssks4AJ1"
+          "name": "PL JUNIOR",
+          "url": "https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0"
         },
         {
-          "name": "Belim",
-          "url": "https://open.spotify.com/artist/6Cb97YqzKJbAxQuHzEDJnb"
+          "name": "ANNY SUCESSADA",
+          "url": "https://open.spotify.com/artist/2QgksP01YMIrB0y7DTXqlj"
         }
       ],
-      "duration_ms": 149170,
-      "name": "Palha\u00e7ada Speed",
-      "url": "https://open.spotify.com/track/0ehjQBJZp0dpOv1oCZFHGE"
+      "duration_ms": 106631,
+      "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
+      "url": "https://open.spotify.com/track/1YjPBxRkXcybgV3Jq16dIW"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -807,26 +807,6 @@
       "duration_ms": 84124,
       "name": "Nunca Duvide de um Mano (Speed Up)",
       "url": "https://open.spotify.com/track/5ayuzPrJE082hhsn3tc00D"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Conto do Pescador (Speed Version)",
-        "url": "https://open.spotify.com/album/3LICvuGYphRaseJNrNAO0N"
-      },
-      "artists": [
-        {
-          "name": "MC Menor da VG",
-          "url": "https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR"
-        },
-        {
-          "name": "Jorgin Dejhaay",
-          "url": "https://open.spotify.com/artist/5NV7nZdAgm2k4JrF1zdXOV"
-        }
-      ],
-      "duration_ms": 174701,
-      "name": "Conto do Pescador (Speed Version)",
-      "url": "https://open.spotify.com/track/3uOvGgm0Jc0uX9Fhuxvqp7"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -855,22 +835,38 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Joga na Cara (Vers\u00e3o Speed)",
-        "url": "https://open.spotify.com/album/2Lh5XIcVNQdd8Dq2lglDGo"
+        "name": "Conto do Pescador (Speed Version)",
+        "url": "https://open.spotify.com/album/3LICvuGYphRaseJNrNAO0N"
       },
       "artists": [
         {
-          "name": "MC Braz",
-          "url": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
+          "name": "MC Menor da VG",
+          "url": "https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR"
         },
         {
-          "name": "MC Gabluca",
-          "url": "https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8"
+          "name": "Jorgin Dejhaay",
+          "url": "https://open.spotify.com/artist/5NV7nZdAgm2k4JrF1zdXOV"
         }
       ],
-      "duration_ms": 97714,
-      "name": "Joga na Cara (Vers\u00e3o Speed)",
-      "url": "https://open.spotify.com/track/1pVFSyBX7zVzZtcI5a9y5z"
+      "duration_ms": 174701,
+      "name": "Conto do Pescador (Speed Version)",
+      "url": "https://open.spotify.com/track/3uOvGgm0Jc0uX9Fhuxvqp7"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Como Era Antes",
+        "url": "https://open.spotify.com/album/6ftwzFoSNWFnJLcZ2seY98"
+      },
+      "artists": [
+        {
+          "name": "rs9",
+          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
+        }
+      ],
+      "duration_ms": 64480,
+      "name": "Como Era Antes... (Speed Up)",
+      "url": "https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -887,6 +883,26 @@
       "duration_ms": 176538,
       "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
       "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Joga na Cara (Vers\u00e3o Speed)",
+        "url": "https://open.spotify.com/album/2Lh5XIcVNQdd8Dq2lglDGo"
+      },
+      "artists": [
+        {
+          "name": "MC Braz",
+          "url": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
+        },
+        {
+          "name": "MC Gabluca",
+          "url": "https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8"
+        }
+      ],
+      "duration_ms": 97714,
+      "name": "Joga na Cara (Vers\u00e3o Speed)",
+      "url": "https://open.spotify.com/track/1pVFSyBX7zVzZtcI5a9y5z"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -911,22 +927,6 @@
       "duration_ms": 168615,
       "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
       "url": "https://open.spotify.com/track/7mSweyinAvjEFBy6sSTjkg"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Como Era Antes",
-        "url": "https://open.spotify.com/album/6ftwzFoSNWFnJLcZ2seY98"
-      },
-      "artists": [
-        {
-          "name": "rs9",
-          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
-        }
-      ],
-      "duration_ms": 64480,
-      "name": "Como Era Antes... (Speed Up)",
-      "url": "https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Me Deixei Levar",
+        "url": "https://open.spotify.com/album/2Buy6we9bBklwZmo9nrNBc"
+      },
+      "artists": [
+        {
+          "name": "7Seven",
+          "url": "https://open.spotify.com/artist/2p5u1gM4gSvT7rM6zbjfV1"
+        }
+      ],
+      "duration_ms": 96082,
+      "name": "Me Deixei Levar - Speed",
+      "url": "https://open.spotify.com/track/1R2tR76ixjc4upkRz5LDNh"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Gorilla Dream, Vol. I",
         "url": "https://open.spotify.com/album/2q9mARnuyo6TwdNmTwRkqk"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 134760,
       "name": "Contatos - Speed Plug",
       "url": "https://open.spotify.com/track/2uagJoFfpDCEnIwHftuduv"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Me Deixei Levar",
-        "url": "https://open.spotify.com/album/2Buy6we9bBklwZmo9nrNBc"
-      },
-      "artists": [
-        {
-          "name": "7Seven",
-          "url": "https://open.spotify.com/artist/2p5u1gM4gSvT7rM6zbjfV1"
-        }
-      ],
-      "duration_ms": 96082,
-      "name": "Me Deixei Levar - Speed",
-      "url": "https://open.spotify.com/track/1R2tR76ixjc4upkRz5LDNh"
     },
     {
       "added_at": "2023-12-27 14:18:14",

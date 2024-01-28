@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: TWERL
 
-349 songs - 18 hr 57 min
+350 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [INTHEENDITSYOU](https://open.spotify.com/track/6rNrdKs44k8ZsrB3Jpsozc) | [DJ Ride](https://open.spotify.com/artist/2Cy9j9uZwlKdqjb6fBNMqC) | [Sable Valley Summer Vol\. 2](https://open.spotify.com/album/7ybQzVkmLNJ0Lidjk1AEZ5) | 2:47 | 2021-11-19 | 2022-02-02 |
 | [Into It \(with Danni Carra\)](https://open.spotify.com/track/2aXerFb42GVKbgmbb8fKpD) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Into It \(with Danni Carra\)](https://open.spotify.com/album/18Tdxv5Bof7soOlsjKFb5Q) | 3:28 | 2023-11-10 | 2024-01-27 |
 | [Invasion](https://open.spotify.com/track/5i7bwIFZhhj90GjgJJnNvj) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Transformation](https://open.spotify.com/album/59MTZU0PKW3Cjen6rdbpVg) | 3:44 | 2021-11-19 | 2022-02-02 |
-| [Issa Bounce](https://open.spotify.com/track/7zeL5uEA13GJ6VN732HYyS) | [UpsideDown](https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu) | [Issa Bounce](https://open.spotify.com/album/7wveyi2W3dCEn8lUHIQdRi) | 1:57 | 2021-11-19 |  |
+| [Issa Bounce](https://open.spotify.com/track/7zeL5uEA13GJ6VN732HYyS) | [UpsideDown](https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu) | [Issa Bounce](https://open.spotify.com/album/7wveyi2W3dCEn8lUHIQdRi) | 1:57 | 2021-11-19 | 2024-01-28 |
 | [It's Our Destiny](https://open.spotify.com/track/0OijABrqIE3h6iDcDjLagm) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [It's Our Destiny](https://open.spotify.com/album/7rWG1YdbCUi4Kd47eK3sUF) | 2:33 | 2022-03-18 | 2023-01-03 |
 | [Jungle Juice](https://open.spotify.com/track/1VxQboO0KAsIm8MjSShBJv) | [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3), [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k) | [Jungle Juice](https://open.spotify.com/album/3ZWcx0FGgPqxpxcQ87cuZM) | 4:34 | 2022-02-01 |  |
 | [Just Enough](https://open.spotify.com/track/6O7EqSCpQTiU8GECX1KDIA) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Dark Skies & Holy Grail](https://open.spotify.com/album/3gMbIi1OkJnQZiKhHs1QTO) | 3:49 | 2021-11-19 | 2022-02-02 |
@@ -261,6 +261,7 @@
 | [Red Ish](https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:01 | 2021-11-19 | 2023-12-16 |
 | [Redline](https://open.spotify.com/track/4aazAfFSKtI5XIlkauNyJC) | [Lookas](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG) | [Redline](https://open.spotify.com/album/4CIMWIQasnF1cP3lUjpFt0) | 3:56 | 2021-11-19 | 2022-01-12 |
 | [REDloop](https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [REDloop](https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq) | 3:45 | 2022-05-11 | 2023-12-11 |
+| [REDloop](https://open.spotify.com/track/54ZY8FCkx9Mgs9EXB2KLk5) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [REDloop](https://open.spotify.com/album/4eaYfg0CXG33rfHNOlnufL) | 3:45 | 2023-10-27 |  |
 | [Redo](https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Redo](https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7) | 3:17 | 2022-02-01 |  |
 | [REKT \- Effin Remix](https://open.spotify.com/track/1Pd1yo5pRPsfVJVNxVGNyx) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Kayoh](https://open.spotify.com/artist/2FHV97AjOSu5Fe92kIGpjD), [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [REKT \(Effin Remix\)](https://open.spotify.com/album/4WSXe9sEFtg0OPGk43HrtO) | 3:12 | 2024-01-12 | 2024-01-20 |
 | [Remember 01](https://open.spotify.com/track/7uVb2BbkZGTtsZOZJX8ZHp) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z), [John Trudell](https://open.spotify.com/artist/66UTgjk1qw87MQEpsidHdA), [Black Bear](https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7) | [Remember 01](https://open.spotify.com/album/2snP3VAdPPSFNoxWx89l4L) | 2:47 | 2021-11-19 | 2022-02-02 |

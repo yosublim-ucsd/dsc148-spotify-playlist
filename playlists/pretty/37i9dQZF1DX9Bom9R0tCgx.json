@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 360801,
+  "num_followers": 360994,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjJhNWRiMTk3ZTA5N2FiOTcwODI0NmNjZGEyYWYzM2YzOGNmNWUx",
+  "snapshot_id": "MCxkMTkyOGI3MWE5ZWY1ZGYxZWMyZWQ4ODQ1MDlhOWFhYmRjNzUwMmY0",
   "tracks": [
     {
       "added_at": "2024-01-25 23:00:00",
@@ -883,6 +883,26 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
+        "name": "Shake That",
+        "url": "https://open.spotify.com/album/5SoTXkh99EXoin02hPhgoL"
+      },
+      "artists": [
+        {
+          "name": "Gang Speed",
+          "url": "https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv"
+        },
+        {
+          "name": "Treetalk",
+          "url": "https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp"
+        }
+      ],
+      "duration_ms": 179738,
+      "name": "Shake That",
+      "url": "https://open.spotify.com/track/47TOnN2ffRwsEvWsTZ6IaI"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/0l4G9jBMrdIXWPdRGzWMji"
       },
@@ -907,26 +927,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Shake That",
-        "url": "https://open.spotify.com/album/5SoTXkh99EXoin02hPhgoL"
-      },
-      "artists": [
-        {
-          "name": "Gang Speed",
-          "url": "https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv"
-        },
-        {
-          "name": "Treetalk",
-          "url": "https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp"
-        }
-      ],
-      "duration_ms": 179738,
-      "name": "Shake That",
-      "url": "https://open.spotify.com/track/47TOnN2ffRwsEvWsTZ6IaI"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "DARK MATTER",
         "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 174044,
       "name": "P.I.M.P. - HEDEGAARD Remix",
       "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
-      },
-      "artists": [
-        {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
-        }
-      ],
-      "duration_ms": 176914,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -975,6 +959,22 @@
       "duration_ms": 144935,
       "name": "Fire To The Rain",
       "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "duration_ms": 176914,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -1059,30 +1059,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Timmy Trumpet's SINPHONY No. 1",
-        "url": "https://open.spotify.com/album/4nRym2kzawfVrO1bHcw5zK"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        },
-        {
-          "name": "Junkie Kid",
-          "url": "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
-        }
-      ],
-      "duration_ms": 168919,
-      "name": "WOLFGANG",
-      "url": "https://open.spotify.com/track/7fSxXydUV3O7B9v2EBQCS3"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "Spiritum",
         "url": "https://open.spotify.com/album/3DLisv8F3tPRnqRgAwPmxn"
       },
@@ -1103,6 +1079,30 @@
       "duration_ms": 193528,
       "name": "Spiritum",
       "url": "https://open.spotify.com/track/1Ck2WX9Gw7zIFlhc6kZRu9"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Timmy Trumpet's SINPHONY No. 1",
+        "url": "https://open.spotify.com/album/4nRym2kzawfVrO1bHcw5zK"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Junkie Kid",
+          "url": "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+        }
+      ],
+      "duration_ms": 168919,
+      "name": "WOLFGANG",
+      "url": "https://open.spotify.com/track/7fSxXydUV3O7B9v2EBQCS3"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Judgement Day",
-        "url": "https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "Baby When The Light",
         "url": "https://open.spotify.com/album/5WMLIFXqC0ajansfAnQ8WV"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 155165,
       "name": "Baby When The Light",
       "url": "https://open.spotify.com/track/147hiQi8wu8SimEk0FAfzD"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Judgement Day",
+        "url": "https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -1227,30 +1227,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Mirror Mirror (Showtek 360 Blue Edit)",
-        "url": "https://open.spotify.com/album/55ZS8saRiWagdQxDnarJnC"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 187132,
-      "name": "Mirror Mirror (Showtek 360 Blue Edit)",
-      "url": "https://open.spotify.com/track/61Iu6ZZxqusXV5Zpu2oiyT"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "GASOLINA & COCAINA",
         "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
       },
@@ -1283,6 +1259,30 @@
       "duration_ms": 153469,
       "name": "It's That Time - Edit",
       "url": "https://open.spotify.com/track/72qcP3hwdqa8NkVxSCpYjm"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Mirror Mirror (Showtek 360 Blue Edit)",
+        "url": "https://open.spotify.com/album/55ZS8saRiWagdQxDnarJnC"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 187132,
+      "name": "Mirror Mirror (Showtek 360 Blue Edit)",
+      "url": "https://open.spotify.com/track/61Iu6ZZxqusXV5Zpu2oiyT"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Make It Count",
-        "url": "https://open.spotify.com/album/7yRpzkneNaRzDwq6BGvtsi"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Just_us",
-          "url": "https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4"
-        }
-      ],
-      "duration_ms": 213327,
-      "name": "Make It Count",
-      "url": "https://open.spotify.com/track/6qroXN9iyKNG6mP0Ddvh1b"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "Popcorn (Rework)",
         "url": "https://open.spotify.com/album/2t39L0Xt4lG7tslqEoZDHs"
       },
@@ -1487,18 +1467,22 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "15 Years Da Tweekaz EP",
-        "url": "https://open.spotify.com/album/6JbIWQYDfOET1qOPnHcZwf"
+        "name": "Make It Count",
+        "url": "https://open.spotify.com/album/7yRpzkneNaRzDwq6BGvtsi"
       },
       "artists": [
         {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Just_us",
+          "url": "https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4"
         }
       ],
-      "duration_ms": 249664,
-      "name": "Tequila - 15 Years Mix",
-      "url": "https://open.spotify.com/track/1gmwTxnQB5sIRoyuYmV7fE"
+      "duration_ms": 213327,
+      "name": "Make It Count",
+      "url": "https://open.spotify.com/track/6qroXN9iyKNG6mP0Ddvh1b"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
+        "name": "15 Years Da Tweekaz EP",
+        "url": "https://open.spotify.com/album/6JbIWQYDfOET1qOPnHcZwf"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 249664,
+      "name": "Tequila - 15 Years Mix",
+      "url": "https://open.spotify.com/track/1gmwTxnQB5sIRoyuYmV7fE"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/6nbQRswXW5OFHFZFw8y1YZ"
       },
@@ -1551,26 +1551,6 @@
       "duration_ms": 167294,
       "name": "Faith",
       "url": "https://open.spotify.com/track/5tlmO0EqsLwqS2CGxVVjEe"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "Drop It Down",
-        "url": "https://open.spotify.com/album/7u26VusojvClzoCafHyzcV"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Joyhauser",
-          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Drop It Down",
-      "url": "https://open.spotify.com/track/6euR4VW88wRwG6TTXI8YEE"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -1623,6 +1603,26 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
+        "name": "Drop It Down",
+        "url": "https://open.spotify.com/album/7u26VusojvClzoCafHyzcV"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Drop It Down",
+      "url": "https://open.spotify.com/track/6euR4VW88wRwG6TTXI8YEE"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
         "name": "Sensual, on Ecstasy (Sped Up Version)",
         "url": "https://open.spotify.com/album/4JFYjBwuetlK5lUdXyJgV7"
       },
@@ -1635,26 +1635,6 @@
       "duration_ms": 324718,
       "name": "Sensual, on Ecstasy - Sped Up Version",
       "url": "https://open.spotify.com/track/22FZzabHSqgMY15Cnx1alE"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "One Night In Bangkok 2K23 (The Ultimate Remixes)",
-        "url": "https://open.spotify.com/album/31gy6l39adSklojfefXZCB"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "Vinylshakerz",
-          "url": "https://open.spotify.com/artist/7g7uwd4PAs7J3PgiKUx47q"
-        }
-      ],
-      "duration_ms": 207815,
-      "name": "One Night in Bangkok 2K23 - Da Tweekaz 2K23 Remix",
-      "url": "https://open.spotify.com/track/44rdr40M1DhqS7X5HKoPQ9"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -1683,6 +1663,26 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
+        "name": "One Night In Bangkok 2K23 (The Ultimate Remixes)",
+        "url": "https://open.spotify.com/album/31gy6l39adSklojfefXZCB"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Vinylshakerz",
+          "url": "https://open.spotify.com/artist/7g7uwd4PAs7J3PgiKUx47q"
+        }
+      ],
+      "duration_ms": 207815,
+      "name": "One Night in Bangkok 2K23 - Da Tweekaz 2K23 Remix",
+      "url": "https://open.spotify.com/track/44rdr40M1DhqS7X5HKoPQ9"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
         "name": "Better Off Alone (Hardstyle)",
         "url": "https://open.spotify.com/album/6lmxlgUWCaQPL48esioKtW"
       },
@@ -1699,6 +1699,26 @@
       "duration_ms": 161000,
       "name": "Better Off Alone - Hardstyle",
       "url": "https://open.spotify.com/track/5xGpNlEZ0BHF1Y0KtRIqTO"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Hated On (Funkatron)",
+        "url": "https://open.spotify.com/album/65z5rSxOEzyMFdu6FbGCOO"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        }
+      ],
+      "duration_ms": 187625,
+      "name": "Hated On (Funkatron)",
+      "url": "https://open.spotify.com/track/0BGMkKTFjUrznBsbpnqsQt"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -1767,26 +1787,26 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "One Day Left",
-        "url": "https://open.spotify.com/album/6Gcq9YBTwpOsZxKXtZosrG"
+        "name": "Alors On Danse",
+        "url": "https://open.spotify.com/album/51jAMGcj0cLMv6nKDQQ5kY"
       },
       "artists": [
         {
-          "name": "Tweekacore",
-          "url": "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
         },
         {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+          "name": "Hyper Hamster",
+          "url": "https://open.spotify.com/artist/2zEmE2fUy3FPemLS0WI5fM"
         },
         {
-          "name": "Eirik N\u00e6ss",
-          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
+          "name": "PET3RPUNX",
+          "url": "https://open.spotify.com/artist/1Z0DRUany5l8E7J6XNRlmC"
         }
       ],
-      "duration_ms": 206555,
-      "name": "One Day Left",
-      "url": "https://open.spotify.com/track/6j7c7qxP1BXBzbF6B9uxSz"
+      "duration_ms": 135565,
+      "name": "Alors On Danse",
+      "url": "https://open.spotify.com/track/78kyW53mM6Sh6OqnBYGUET"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -1811,22 +1831,26 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Hated On (Funkatron)",
-        "url": "https://open.spotify.com/album/65z5rSxOEzyMFdu6FbGCOO"
+        "name": "One Day Left",
+        "url": "https://open.spotify.com/album/6Gcq9YBTwpOsZxKXtZosrG"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Tweekacore",
+          "url": "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
         },
         {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Eirik N\u00e6ss",
+          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
         }
       ],
-      "duration_ms": 187625,
-      "name": "Hated On (Funkatron)",
-      "url": "https://open.spotify.com/track/0BGMkKTFjUrznBsbpnqsQt"
+      "duration_ms": 206555,
+      "name": "One Day Left",
+      "url": "https://open.spotify.com/track/6j7c7qxP1BXBzbF6B9uxSz"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -1859,30 +1883,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Alors On Danse",
-        "url": "https://open.spotify.com/album/51jAMGcj0cLMv6nKDQQ5kY"
-      },
-      "artists": [
-        {
-          "name": "Fyex",
-          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
-        },
-        {
-          "name": "Hyper Hamster",
-          "url": "https://open.spotify.com/artist/2zEmE2fUy3FPemLS0WI5fM"
-        },
-        {
-          "name": "PET3RPUNX",
-          "url": "https://open.spotify.com/artist/1Z0DRUany5l8E7J6XNRlmC"
-        }
-      ],
-      "duration_ms": 135565,
-      "name": "Alors On Danse",
-      "url": "https://open.spotify.com/track/78kyW53mM6Sh6OqnBYGUET"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "Accepted Concept",
         "url": "https://open.spotify.com/album/5026e5pinYOgls5mjv1duU"
       },
@@ -1895,6 +1895,50 @@
       "duration_ms": 171006,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Jump Dance Move Bounce",
+        "url": "https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        },
+        {
+          "name": "NOTMYTYPE",
+          "url": "https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U"
+        },
+        {
+          "name": "AENJAY",
+          "url": "https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ"
+        }
+      ],
+      "duration_ms": 149610,
+      "name": "Jump Dance Move Bounce",
+      "url": "https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Chasing Highs (LIZOT Remix)",
+        "url": "https://open.spotify.com/album/7JVvbZAInkbZ33BxWWT4yp"
+      },
+      "artists": [
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+        },
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        }
+      ],
+      "duration_ms": 133593,
+      "name": "Chasing Highs - LIZOT Remix",
+      "url": "https://open.spotify.com/track/5uISqR4lyfgJ0snckYmQpJ"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -1923,26 +1967,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Chasing Highs (LIZOT Remix)",
-        "url": "https://open.spotify.com/album/7JVvbZAInkbZ33BxWWT4yp"
-      },
-      "artists": [
-        {
-          "name": "ALMA",
-          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
-        },
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        }
-      ],
-      "duration_ms": 133593,
-      "name": "Chasing Highs - LIZOT Remix",
-      "url": "https://open.spotify.com/track/5uISqR4lyfgJ0snckYmQpJ"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "Numb (Aftershock Remix)",
         "url": "https://open.spotify.com/album/6w9952uhK6D5H5nGXt0YNp"
       },
@@ -1963,30 +1987,6 @@
       "duration_ms": 226075,
       "name": "Numb - Aftershock Remix",
       "url": "https://open.spotify.com/track/3npJiA8jl1eBs0nwxKlnVs"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "Jump Dance Move Bounce",
-        "url": "https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        },
-        {
-          "name": "NOTMYTYPE",
-          "url": "https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U"
-        },
-        {
-          "name": "AENJAY",
-          "url": "https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ"
-        }
-      ],
-      "duration_ms": 149610,
-      "name": "Jump Dance Move Bounce",
-      "url": "https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa"
     },
     {
       "added_at": "2024-01-25 23:00:00",

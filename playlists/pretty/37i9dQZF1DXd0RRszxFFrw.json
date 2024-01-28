@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 54609,
+  "num_followers": 54618,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTY1MzgyODIxODI1MWJjNjU4MmFhODlkYzJiYTViMDZlYmFmM2I3",
+  "snapshot_id": "MCwzOGFkMDhhNmM4NmU0MDRiZWI0Yjc0YmQ5YTk2MDBjMDZjMGZkODYy",
   "tracks": [
     {
       "added_at": "2024-01-16 00:00:00",
@@ -147,18 +147,18 @@
     {
       "added_at": "2024-01-16 00:00:00",
       "album": {
-        "name": "Cerezo Rosa",
-        "url": "https://open.spotify.com/album/0f3HutA3oPA2QjOyST7YMj"
+        "name": "Bella Donna",
+        "url": "https://open.spotify.com/album/2TMmjsWz9oQ0WMcNOsZAd4"
       },
       "artists": [
         {
-          "name": "Los Tres Mariquitas",
-          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
+          "name": "Esteban Delano",
+          "url": "https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Cerezo Rosa",
-      "url": "https://open.spotify.com/track/6lrHmW92xxdL7RObYtTlga"
+      "duration_ms": 139760,
+      "name": "Bella Donna",
+      "url": "https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3"
     },
     {
       "added_at": "2024-01-16 00:00:00",
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-01-16 00:00:00",
       "album": {
-        "name": "Bella Donna",
-        "url": "https://open.spotify.com/album/2TMmjsWz9oQ0WMcNOsZAd4"
+        "name": "Cerezo Rosa",
+        "url": "https://open.spotify.com/album/0f3HutA3oPA2QjOyST7YMj"
       },
       "artists": [
         {
-          "name": "Esteban Delano",
-          "url": "https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN"
+          "name": "Los Tres Mariquitas",
+          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
         }
       ],
-      "duration_ms": 139760,
-      "name": "Bella Donna",
-      "url": "https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3"
+      "duration_ms": 184000,
+      "name": "Cerezo Rosa",
+      "url": "https://open.spotify.com/track/6lrHmW92xxdL7RObYtTlga"
     },
     {
       "added_at": "2024-01-16 00:00:00",
@@ -415,22 +415,18 @@
     {
       "added_at": "2024-01-16 00:00:00",
       "album": {
-        "name": "Mediterr\u00e1neo",
-        "url": "https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy"
+        "name": "Muniesa",
+        "url": "https://open.spotify.com/album/1aj7jOSaXgoZcA0auD3BGK"
       },
       "artists": [
         {
-          "name": "Francisco T\u00e1rrega",
-          "url": "https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t"
-        },
-        {
-          "name": "Milo\u0161 Karadagli\u0107",
-          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
+          "name": "Muniesa",
+          "url": "https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v"
         }
       ],
-      "duration_ms": 108053,
-      "name": "Adelita",
-      "url": "https://open.spotify.com/track/3VgpE8AfuyJZAg8oe8Squk"
+      "duration_ms": 126688,
+      "name": "Montalba\u0301n",
+      "url": "https://open.spotify.com/track/4oVDnTJ0ctB5OajVGuAUpo"
     },
     {
       "added_at": "2024-01-16 00:00:00",
@@ -451,18 +447,22 @@
     {
       "added_at": "2024-01-16 00:00:00",
       "album": {
-        "name": "Muniesa",
-        "url": "https://open.spotify.com/album/1aj7jOSaXgoZcA0auD3BGK"
+        "name": "Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy"
       },
       "artists": [
         {
-          "name": "Muniesa",
-          "url": "https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v"
+          "name": "Francisco T\u00e1rrega",
+          "url": "https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t"
+        },
+        {
+          "name": "Milo\u0161 Karadagli\u0107",
+          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
         }
       ],
-      "duration_ms": 126688,
-      "name": "Montalba\u0301n",
-      "url": "https://open.spotify.com/track/4oVDnTJ0ctB5OajVGuAUpo"
+      "duration_ms": 108053,
+      "name": "Adelita",
+      "url": "https://open.spotify.com/track/3VgpE8AfuyJZAg8oe8Squk"
     },
     {
       "added_at": "2024-01-16 00:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-01-16 00:00:00",
       "album": {
-        "name": "The Little Island Bossa",
-        "url": "https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW"
-      },
-      "artists": [
-        {
-          "name": "Filip Benedetto",
-          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
-        }
-      ],
-      "duration_ms": 246128,
-      "name": "The Little Island Bossa",
-      "url": "https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU"
-    },
-    {
-      "added_at": "2024-01-16 00:00:00",
-      "album": {
         "name": "Ibiza Sunset",
         "url": "https://open.spotify.com/album/03gFLapNILwqleIO9ZCPS8"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2024-01-16 00:00:00",
       "album": {
-        "name": "Luminosity",
-        "url": "https://open.spotify.com/album/5WKBnocziOjEf0A3Sqpm7a"
+        "name": "The Little Island Bossa",
+        "url": "https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW"
       },
       "artists": [
         {
-          "name": "Govi",
-          "url": "https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB"
+          "name": "Filip Benedetto",
+          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
         }
       ],
-      "duration_ms": 332400,
-      "name": "Train to Rishikesh",
-      "url": "https://open.spotify.com/track/5NQqC3Xs5CSHiZOEFOOWSa"
+      "duration_ms": 246128,
+      "name": "The Little Island Bossa",
+      "url": "https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU"
     },
     {
       "added_at": "2024-01-16 00:00:00",
@@ -723,6 +707,22 @@
       "duration_ms": 152663,
       "name": "Me Estas Haciendo Falta",
       "url": "https://open.spotify.com/track/5V0WQGIPkrEgpgQAOaGBif"
+    },
+    {
+      "added_at": "2024-01-16 00:00:00",
+      "album": {
+        "name": "Luminosity",
+        "url": "https://open.spotify.com/album/5WKBnocziOjEf0A3Sqpm7a"
+      },
+      "artists": [
+        {
+          "name": "Govi",
+          "url": "https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB"
+        }
+      ],
+      "duration_ms": 332400,
+      "name": "Train to Rishikesh",
+      "url": "https://open.spotify.com/track/5NQqC3Xs5CSHiZOEFOOWSa"
     },
     {
       "added_at": "2024-01-16 00:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-01-16 00:00:00",
       "album": {
-        "name": "M\u00fasica De Espa\u00f1a",
-        "url": "https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC"
-      },
-      "artists": [
-        {
-          "name": "Guitarras De Oro",
-          "url": "https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M"
-        }
-      ],
-      "duration_ms": 221637,
-      "name": "Rumbita (Guitar Version)",
-      "url": "https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ"
-    },
-    {
-      "added_at": "2024-01-16 00:00:00",
-      "album": {
         "name": "Recital Flamenco. 12 de Sus Toques Originales",
         "url": "https://open.spotify.com/album/35I2VAs6hVpC3pobXmNSrh"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 279293,
       "name": "El Ca\u00f1averal - Guajira",
       "url": "https://open.spotify.com/track/70aQ5WqBFN8bpyRyeaucwL"
+    },
+    {
+      "added_at": "2024-01-16 00:00:00",
+      "album": {
+        "name": "M\u00fasica De Espa\u00f1a",
+        "url": "https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC"
+      },
+      "artists": [
+        {
+          "name": "Guitarras De Oro",
+          "url": "https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M"
+        }
+      ],
+      "duration_ms": 221637,
+      "name": "Rumbita (Guitar Version)",
+      "url": "https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ"
     },
     {
       "added_at": "2024-01-16 00:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-01-16 00:00:00",
       "album": {
-        "name": "Bajo La Luna",
-        "url": "https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO"
-      },
-      "artists": [
-        {
-          "name": "Enrique De Melchor",
-          "url": "https://open.spotify.com/artist/1gIRAKME2A6CNJ3mBSBpjl"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "Zaralmondi - Colombianas",
-      "url": "https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT"
-    },
-    {
-      "added_at": "2024-01-16 00:00:00",
-      "album": {
         "name": "La Fuente",
         "url": "https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 162000,
       "name": "La Fuente",
       "url": "https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj"
+    },
+    {
+      "added_at": "2024-01-16 00:00:00",
+      "album": {
+        "name": "Bajo La Luna",
+        "url": "https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO"
+      },
+      "artists": [
+        {
+          "name": "Enrique De Melchor",
+          "url": "https://open.spotify.com/artist/1gIRAKME2A6CNJ3mBSBpjl"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "Zaralmondi - Colombianas",
+      "url": "https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT"
     },
     {
       "added_at": "2024-01-16 00:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-01-16 00:00:00",
       "album": {
-        "name": "Spanish Guitar EP",
-        "url": "https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk"
-      },
-      "artists": [
-        {
-          "name": "Alex Albright",
-          "url": "https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj"
-        }
-      ],
-      "duration_ms": 132446,
-      "name": "Adelita Mazurka",
-      "url": "https://open.spotify.com/track/2gsOZwrJXlumVqfCJYkHEf"
-    },
-    {
-      "added_at": "2024-01-16 00:00:00",
-      "album": {
         "name": "Sol Naciente",
         "url": "https://open.spotify.com/album/5TGkBE8ag2FN8O95EfwOfQ"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 216000,
       "name": "Lisboa Antigua",
       "url": "https://open.spotify.com/track/3uCPr8h0wxi905eMSAdajB"
+    },
+    {
+      "added_at": "2024-01-16 00:00:00",
+      "album": {
+        "name": "Spanish Guitar EP",
+        "url": "https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk"
+      },
+      "artists": [
+        {
+          "name": "Alex Albright",
+          "url": "https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj"
+        }
+      ],
+      "duration_ms": 132446,
+      "name": "Adelita Mazurka",
+      "url": "https://open.spotify.com/track/2gsOZwrJXlumVqfCJYkHEf"
     },
     {
       "added_at": "2024-01-16 00:00:00",

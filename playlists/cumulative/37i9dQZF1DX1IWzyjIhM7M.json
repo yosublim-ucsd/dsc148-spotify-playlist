@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Eurostar",
+        "url": "https://open.spotify.com/album/5WWpnaOe9Jq6EV8wHNHD3m"
+      },
+      "artists": [
+        {
+          "name": "Swank Mami",
+          "url": "https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91080,
+      "name": "Bad B*tch",
+      "url": "https://open.spotify.com/track/515DlGs3ur3soKeIomMFbL"
+    },
+    {
+      "album": {
         "name": "Beqadra",
         "url": "https://open.spotify.com/album/5SGHD9oHkRZ2zkYDcfGqq5"
       },
@@ -1590,7 +1608,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 106097,
       "name": "sunset blvd",
       "url": "https://open.spotify.com/track/2XQFj0w1UIJpsUs0OO4013"

@@ -4,7 +4,7 @@
 
 > riff\-heavy, fuzzed\-out numbers.
 
-317 songs - 1 day 6 hr 36 min
+318 songs - 1 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,11 +225,12 @@
 | [Regular John](https://open.spotify.com/track/0fZLTsasJCJ2EaaczK2Nob) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Queens of the Stone Age](https://open.spotify.com/album/4ZVYZI1wY4TmLOQ3as1UNI) | 4:37 | 2021-11-30 | 2022-07-29 |
 | [Return to the Tundrasphere](https://open.spotify.com/track/2bDCKq0cgrMFEbgaLvCTqG) | [Kanaan](https://open.spotify.com/artist/3Hb1TSP5l7tR214bjmHIBA) | [Earthbound](https://open.spotify.com/album/5cgZyUkPspSn9DxxsIPWoK) | 8:41 | 2021-11-30 | 2022-02-13 |
 | [Road to Burn](https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn) | [1000mods](https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89) | [Super Van Vacation](https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8) | 8:49 | 2021-11-30 |  |
-| [Rollercoaster](https://open.spotify.com/track/1ffTuRRrqqiDG0T1CPJse8) | [Black Mountain](https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4) | [Wilderness Heart](https://open.spotify.com/album/19zI1pAARSE3rV72vWX9Ak) | 5:15 | 2023-03-10 |  |
+| [Rollercoaster](https://open.spotify.com/track/1ffTuRRrqqiDG0T1CPJse8) | [Black Mountain](https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4) | [Wilderness Heart](https://open.spotify.com/album/19zI1pAARSE3rV72vWX9Ak) | 5:15 | 2023-03-10 | 2024-01-28 |
 | [Rollercoaster](https://open.spotify.com/track/6cJhk7H8SQj4rzZmRVnK0A) | [Black Mountain](https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4) | [Wilderness Heart](https://open.spotify.com/album/7HiIz7nui3LtGVY62ORP3b) | 5:15 | 2021-11-30 | 2022-07-29 |
 | [Rooster \(2022 Remaster\)](https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 6:14 | 2021-11-30 | 2023-03-23 |
 | [Rooster Booster](https://open.spotify.com/track/0v7RT360hYbz6LhNRKaEaJ) | [Brain Police](https://open.spotify.com/artist/3u8Bmkzs6rer0AirAa87iR) | [Beyond the Wasteland](https://open.spotify.com/album/6uRSnF16GbMeK0Lt4TmUqr) | 4:26 | 2021-11-30 | 2022-07-29 |
 | [Rooster Booster](https://open.spotify.com/track/1pi2KguwgnD90fmAvwZp9B) | [Brain Police](https://open.spotify.com/artist/3u8Bmkzs6rer0AirAa87iR) | [Beyond the Wasteland](https://open.spotify.com/album/6OZQwyKEtA3BiKWsccW7Im) | 4:26 | 2022-10-03 | 2023-12-25 |
+| [Rooster Booster](https://open.spotify.com/track/5N0zJKmuSoOubO1Mxb2JzQ) | [Brain Police](https://open.spotify.com/artist/3u8Bmkzs6rer0AirAa87iR) | [Beyond the Wasteland](https://open.spotify.com/album/4V0gTWOnViR8fnttDSDnpu) | 4:26 | 2024-01-05 |  |
 | [Rust](https://open.spotify.com/track/6lFJiZ4aiGxobbu3ronF9O) | [Monolord](https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm) | [Rust](https://open.spotify.com/album/5NGeKmbgxv6GHky0EtaIZx) | 5:39 | 2021-11-30 | 2023-03-23 |
 | [Satan](https://open.spotify.com/track/6REn6PCS3uBTAqdSXJwN3R) | [Ufomammut](https://open.spotify.com/artist/105vC0oJ985P5G3g36EosL) | [Godlike Snake](https://open.spotify.com/album/0pTqPU7QFeAJlua2L1j0jG) | 3:26 | 2022-01-14 | 2022-01-26 |
 | [Scorpionica](https://open.spotify.com/track/6jhYtTdUeFGX2X629AMd4r) | [Orange Goblin](https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo) | [The Big Black](https://open.spotify.com/album/4zfCuQTmfsBNxYL0GUhSg0) | 3:14 | 2023-03-22 |  |

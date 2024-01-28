@@ -2,7 +2,7 @@
 
 ### [Chill Tracks](https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7)
 
-> Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
+> Música <a href="spotify:genre:edm\_dance">dance</a> suave.
 
 1,559 songs - 4 day 11 hr 22 min
 

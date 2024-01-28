@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 29363,
+  "2024-01-28": 29395,
   "date_first_scraped": "2023-03-30",
   "description": "Yo Hai Haryanvi Hip-Hop! Cover: Addy Nagar",
   "name": "Hip-Hop Haryanvi",
@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 166800,
       "name": "Dil",
       "url": "https://open.spotify.com/track/3CH2lqnViWcW8mZsSzHXtQ"
@@ -2485,7 +2485,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 194400,
       "name": "No Fake",
       "url": "https://open.spotify.com/track/6g9O3FKotfjT9rxqgNOTi2"
@@ -3425,6 +3425,46 @@
       "duration_ms": 188652,
       "name": "Up To U",
       "url": "https://open.spotify.com/track/7695jWrVLrftHb9ChEmFCg"
+    },
+    {
+      "album": {
+        "name": "Up-14 J & G",
+        "url": "https://open.spotify.com/album/1klxmkBEoXNTLd6VDpqmcm"
+      },
+      "artists": [
+        {
+          "name": "Addy Nagar",
+          "url": "https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137241,
+      "name": "Up-14 J & G",
+      "url": "https://open.spotify.com/track/5wzyhBuKjAfPgC0H10tZUJ"
+    },
+    {
+      "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/6QlGN5FPWk3VM3i3ugVfKN"
+      },
+      "artists": [
+        {
+          "name": "Shikriwal",
+          "url": "https://open.spotify.com/artist/0CinOHFWu7nAChXK9KH9Oa"
+        },
+        {
+          "name": "Total Deep",
+          "url": "https://open.spotify.com/artist/6sRIh4YXmBX5EjTzQ9zmLf"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174985,
+      "name": "Up12 to Jh14",
+      "url": "https://open.spotify.com/track/6mYDZwRQKZEWgQ1VZqDHDF"
     },
     {
       "album": {

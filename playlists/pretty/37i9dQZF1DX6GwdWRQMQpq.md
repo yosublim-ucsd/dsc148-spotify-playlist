@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,042,578 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,044,284 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [Lick Or Sum](https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Lick Or Sum](https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR) | 2:21 |
 | 50 | [Lackin](https://open.spotify.com/track/6lasIWLndqFchulQMIH5Cm) | [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [NCognita](https://open.spotify.com/artist/5cbFRX9vfBg6rtjN1V0VTI), [Simon Said.](https://open.spotify.com/artist/1ZoJcQjLukYdKLfOcoEVn9) | [RAP SH!T: The Mixtape \(From the Max Original Series, S2\)](https://open.spotify.com/album/2WhkGLUX16VzmOjr6KSqRX) | 2:50 |
 
-Snapshot ID: `MCxkMGRhMWIyNWMwMjhjMjYzODdmMzJjNzAxMjI5ZTlmMGQ4NTZlNDEy`
+Snapshot ID: `MCxlMzc1Y2RlY2MwMmMwMzE5MGE1NjFjNzViY2IwODk4OTZhNGEwNWFl`

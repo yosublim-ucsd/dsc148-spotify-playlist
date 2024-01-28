@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Daniel Toh
 
-869 songs - 2 day 1 hr 10 min
+870 songs - 2 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,7 +455,8 @@
 | [Strawberry & Cream \- DEMO](https://open.spotify.com/track/318r9Qmt4XwIsvKAiedKnk) | [minor.](https://open.spotify.com/artist/4XZyugjrzgUfkvScYggo71) | [Strawberry & Cream \(DEMO\)](https://open.spotify.com/album/2d9fUVgv1L5NMOy24Fk5t1) | 3:12 | 2023-06-08 | 2023-10-20 |
 | [STREET FIGHTER](https://open.spotify.com/track/6FI1pixuCnBIItD9rLwU5M) | [ANGO](https://open.spotify.com/artist/3Q0FYDdtPoEKD16g9XBPjG), [DRAGON](https://open.spotify.com/artist/4iDLHFAB55d1nBjCctTvge), [SID22](https://open.spotify.com/artist/687Afh5UMC1dbKeH8WwD51) | [STREET FIGHTER](https://open.spotify.com/album/66s4ZUNAHA62CnZ6F1B0UO) | 3:48 | 2023-08-10 | 2023-12-01 |
 | [Stuck in my dream](https://open.spotify.com/track/6FRQGRaRgCBMiV1od1ZJAG) | [Science Noodles](https://open.spotify.com/artist/4cqVlLy4QV2KwAojyE7KHR) | [Noodles](https://open.spotify.com/album/1ExTXmIeooEWgFxQoiFCka) | 3:44 | 2022-07-07 | 2022-11-04 |
-| [stupidlittlegirl](https://open.spotify.com/track/3eA0lnEfEf3DmNAWn9IsVt) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [stupidlittlegirl](https://open.spotify.com/album/75OPV2NFqRnPpwc5bmsEmo) | 2:59 | 2024-01-11 |  |
+| [stupidlittlegirl](https://open.spotify.com/track/3eA0lnEfEf3DmNAWn9IsVt) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [stupidlittlegirl](https://open.spotify.com/album/75OPV2NFqRnPpwc5bmsEmo) | 2:59 | 2024-01-11 | 2024-01-28 |
+| [stupidlittlegirl](https://open.spotify.com/track/48dGspOoVv7a9HtHSgPQuh) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [stupidlittlegirl](https://open.spotify.com/album/1I8xMmaGJ6f17RDdN0ZhGN) | 2:59 | 2024-01-25 |  |
 | [suburban crush](https://open.spotify.com/track/5uY9J7hSvVqzTcEejI2hiw) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [suburban crush](https://open.spotify.com/album/6Krpx8rHDfDEPfzENdVOmb) | 4:48 | 2022-05-26 | 2022-07-29 |
 | [summer](https://open.spotify.com/track/4osRLDg7abL4hLdfZ1c39g) | [RAFA](https://open.spotify.com/artist/4dnl0VOP7cS57VQOWxr3ND), [EJEAN](https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz) | [summer](https://open.spotify.com/album/2BLrXMpziCnaHv0gEeyjQ3) | 2:12 | 2022-12-08 | 2023-03-18 |
 | [Summer Fever](https://open.spotify.com/track/3gG6DUfZmMvI2GMUyps7fi) | [kaaai](https://open.spotify.com/artist/10Dni0SDMpzGLmB1O6hp5c) | [Summer Fever](https://open.spotify.com/album/4PQFB3qXGbLJicQk6JxUfV) | 3:34 | 2023-08-31 | 2023-11-03 |

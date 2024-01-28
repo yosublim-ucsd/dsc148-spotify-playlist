@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Highlyy
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,294 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,368 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 31 | [Sudwe](https://open.spotify.com/track/0Tl1zTPLYvHAL5oOjbhUZf) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Sudwe](https://open.spotify.com/album/2ihKrEGppe3qGmyWFJQjpQ) | 3:10 |
 | 32 | [Ma Jo Lo](https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Ma Jo Lo](https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk) | 2:27 |
 | 33 | [Nouveau Dossier](https://open.spotify.com/track/0FnkamDeASFZ49DlYzQXFF) | [C\-lina](https://open.spotify.com/artist/4UkywnuqJOUz6YuvuCEyLm) | [Nouveau Dossier](https://open.spotify.com/album/5dfYD2dYiRYQVYLmjryGop) | 2:19 |
-| 34 | [I Want You](https://open.spotify.com/track/77LZE9iAKy6KDWTBl7vRwm) | [Bien](https://open.spotify.com/artist/5SwlCdVrvwU99EWa6VjIWw) | [Alusa Why Are You Topless?](https://open.spotify.com/album/6AB8x99F5MUrnSHSbUdLBD) | 3:43 |
+| 34 | [I Want You](https://open.spotify.com/track/77LZE9iAKy6KDWTBl7vRwm) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Alusa Why Are You Topless?](https://open.spotify.com/album/6AB8x99F5MUrnSHSbUdLBD) | 3:43 |
 | 35 | [Aló](https://open.spotify.com/track/1PCqgmYwQQfZtDXSYvcAXy) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Aló](https://open.spotify.com/album/0556miRSxmC7vGyTZuZ5Ex) | 2:56 |
 | 36 | [Légende](https://open.spotify.com/track/0emGnnTL0TQrGY5r6Agbhj) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Légende](https://open.spotify.com/album/6PXVs8Ap2JMUWn2znMlcF7) | 2:45 |
 | 37 | [Amaria](https://open.spotify.com/track/14E6VXR7nqhhdybb57asuu) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk) | [Amaria](https://open.spotify.com/album/2QDTlTSuwPiVmtTd2B9fYL) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Spiritual Gangsta](https://open.spotify.com/track/17CeZUGav0EA8irJdBHjwB) | [Lhiroyd](https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8) | [Spiritual Gangsta](https://open.spotify.com/album/4FuhmRwDg6qdKuCS1RPPak) | 2:22 |
 | 50 | [Mamae](https://open.spotify.com/track/05O5SXB2UNtknsETkzYo5O) | [Jaymax](https://open.spotify.com/artist/0v5TXXJsokDC2bYAUe8UAF) | [Mamae](https://open.spotify.com/album/7F8XVMXoqeQ7b1SBLshRHF) | 2:50 |
 
-Snapshot ID: `MCw2ODlhMWE3YjcwNGUzMzU4MmQ5MjUxM2E0OTUyNGYyNWQzY2VjMzEz`
+Snapshot ID: `MCw1MmM1ZDc0MTNiMWQ1MWZkNmE2NjczMGRkYTNkYmE5NzJlMzA0M2Qz`

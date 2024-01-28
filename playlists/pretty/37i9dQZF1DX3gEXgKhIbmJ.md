@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,297 likes - 57 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,329 likes - 57 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 56 | [Momentâneo](https://open.spotify.com/track/7LnQQ9mdAz9KvbA4mGOwdm) | [tocha mc](https://open.spotify.com/artist/5Q7xswJypfPZvBjRMc0mW3), [NóizProd](https://open.spotify.com/artist/3ww1Cvu2JnTEqxpRQwlGGZ), [Young San](https://open.spotify.com/artist/5wMAlBMvbJBVF6fkwJ4BBb) | [Momentâneo](https://open.spotify.com/album/1ZZSiw9bzU1WZ9syPzVcJa) | 2:42 |
 | 57 | [Aumentando os Lucros](https://open.spotify.com/track/6flGT8gHgiS6anHceskTmP) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW), [Zion](https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6) | [É Quem?](https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL) | 2:20 |
 
-Snapshot ID: `MCw1NTNiNjgyMjEwMzMyMzQzNWU5MzNhYmY0YzNhYjI2YzM3ZjIxNzk5`
+Snapshot ID: `MCxjZjFjNjk1MzA5OWYyZTQ0YTllMDJjY2Q4YjgxZjQ3NzFjYzNmNzc2`

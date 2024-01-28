@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 23236,
+  "2024-01-28": 23231,
   "date_first_scraped": "2023-12-14",
   "description": "Chill out and relax with a moody mix of modern classics ranging from R&amp;B to Indie to Pop. Cover: David Kushner",
   "name": "Late Night Music",
@@ -477,6 +477,24 @@
       "duration_ms": 157186,
       "name": "criminal",
       "url": "https://open.spotify.com/track/3uJ6LonaZHCqjlQ6vevlqn"
+    },
+    {
+      "album": {
+        "name": "Crying Over U",
+        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234231,
+      "name": "Crying Over U",
+      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
     },
     {
       "album": {
@@ -2518,6 +2536,28 @@
     },
     {
       "album": {
+        "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300213,
+      "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH"
+    },
+    {
+      "album": {
         "name": "Wild Grey Ocean",
         "url": "https://open.spotify.com/album/6H7rX9r5UAwdlkDtWOiW6v"
       },
@@ -2623,6 +2663,24 @@
       "duration_ms": 204967,
       "name": "Yours",
       "url": "https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J"
+    },
+    {
+      "album": {
+        "name": "Hypersensible (Deluxe)",
+        "url": "https://open.spotify.com/album/1xhn6B8miBagIupKrNdirq"
+      },
+      "artists": [
+        {
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215652,
+      "name": "Zen",
+      "url": "https://open.spotify.com/track/5Mb0Te31hcc1koQ0jWZUwC"
     },
     {
       "album": {

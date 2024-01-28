@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Motive
 
-269 songs - 11 hr 46 min
+270 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [DADAŞ](https://open.spotify.com/track/7JyfTZNgQTptVyZoV45IZM) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [DADAŞ](https://open.spotify.com/album/4UkPi2BmL7Lfviwf8XbSrn) | 1:57 | 2023-11-09 | 2023-11-18 |
 | [DEFOL](https://open.spotify.com/track/6bZXS4iBLq09KhK6Mr569I) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [DEFOL](https://open.spotify.com/album/0qclcDdgeV7AM80qcBnWtm) | 2:53 | 2023-05-04 |  |
 | [Degişir Adresim](https://open.spotify.com/track/04blQ72Bz8isZajEftjYJu) | [Şiir!](https://open.spotify.com/artist/3xAajp4pZmP2HKx0NcTsdf), [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [Degişir Adresim](https://open.spotify.com/album/2Fxz4mp2wh4Y9ydTSB3kSQ) | 2:33 | 2023-11-09 | 2023-11-18 |
-| [DENE](https://open.spotify.com/track/1Sa1IX2uXnAuJkmqg5r3lj) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [YOUNGSTA](https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q) | 2:15 | 2023-12-12 |  |
+| [DENE](https://open.spotify.com/track/1Sa1IX2uXnAuJkmqg5r3lj) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [YOUNGSTA](https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q) | 2:15 | 2023-12-12 | 2024-01-28 |
 | [Değilim Bi Aşık](https://open.spotify.com/track/0zjiGvCYPHDT7OT4HIv5kp) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [Değilim Bi Aşık](https://open.spotify.com/album/7eCHPDgtLhtJPxt8Ghk3lX) | 2:43 | 2023-01-10 | 2023-04-07 |
 | [Diyardan Diyara](https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Diyardan Diyara](https://open.spotify.com/album/5fKySH2Y7Q2LYl0QrGtudP) | 2:29 | 2023-01-10 | 2023-09-22 |
 | [DIYE](https://open.spotify.com/track/35dhWi0kF2ZJbTA2jY2Phs) | [Ayaz](https://open.spotify.com/artist/4BNyQQUayFkUOdf2sw9cLY), [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [EPIZOD](https://open.spotify.com/album/0bZOB8JHT7TL3lheF8jEMG) | 3:00 | 2023-11-16 | 2023-12-14 |
@@ -234,6 +234,7 @@
 | [SHOT](https://open.spotify.com/track/7MEOvvU8t9rx8b4hWemnWW) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [SHOT](https://open.spotify.com/album/4F8PlrZQCOIdkFp1ABInsn) | 1:48 | 2024-01-25 |  |
 | [SIMARIK](https://open.spotify.com/track/5m0FBZ3g71Tv2v5XYZ4pKv) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [YOUNGSTA](https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q) | 2:52 | 2023-12-12 |  |
 | [SİKİYİM PARAYI](https://open.spotify.com/track/3tihmPx482ekmjGIrb0ckz) | [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2), [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [SİKİYİM PARAYI](https://open.spotify.com/album/57Y33AI5kjQ3nLejLkClPH) | 3:16 | 2024-01-04 | 2024-01-19 |
+| [Sokakta Stres](https://open.spotify.com/track/5UNtKrrLFnvX1rCfdjaZGb) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk) | [Sokakta Stres](https://open.spotify.com/album/3EEIfRTJw16UWx03Xaix9W) | 2:35 | 2024-01-27 |  |
 | [SONSUZA KADAR](https://open.spotify.com/track/7whQwxhwPfyqV32I0UHbMv) | [Tepki](https://open.spotify.com/artist/5DtQ3MpxpzAyDvgMNFWN1r) | [FULLMETAL](https://open.spotify.com/album/578K3dGVGZgxZUsk8BrXMu) | 2:02 | 2023-11-09 | 2023-11-18 |
 | [Sor Bize](https://open.spotify.com/track/5CaBkfl4rSKlXm91PZkNUV) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Sor Bize](https://open.spotify.com/album/5u7KCV8aBJ6kHjFvqyROMm) | 2:27 | 2023-06-22 | 2023-07-28 |
 | [Suçlarımdan Biri](https://open.spotify.com/track/65tIJClJx8fHo6YW4wVDhi) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Atlantis](https://open.spotify.com/album/1cMvvPcywFlOGLlAzSbYDz) | 2:51 | 2023-01-10 | 2023-03-18 |

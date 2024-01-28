@@ -4,7 +4,7 @@
 
 > Se você cheirou a suco em 2023, essa playlist é pros seus treinos, não é mesmo?
 
-51 songs - 2 hr 34 min
+52 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,8 +42,9 @@
 | [Push The Feeling On](https://open.spotify.com/track/7MRzjgoS72BNFT2pcToJGJ) | [Brannco](https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL), [Maya Days](https://open.spotify.com/artist/23lYDtdMB31cbu5g4z0wju) | [Push The Feeling On](https://open.spotify.com/album/4lzJoouKOsWxhpY3pJkNJG) | 2:38 | 2023-11-29 |  |
 | [Quarentoxic](https://open.spotify.com/track/1kbA0ogOM9fWT4dDHMsa8y) | [Kzn](https://open.spotify.com/artist/5EZHJyeAbl8WK8PdMRR2eh) | [Quarentoxic](https://open.spotify.com/album/3JZ8UlANPOiKPRXDub8In1) | 3:13 | 2023-11-29 |  |
 | [Rapture](https://open.spotify.com/track/0CIohDBYA8xKM5VQwi0LtS) | [Hugo Doche](https://open.spotify.com/artist/2JejalV9S2tSy4uk3o3aiv) | [Rapture](https://open.spotify.com/album/3BOMBE4SXoFJyvE7yW4qX2) | 4:04 | 2023-11-29 |  |
+| [Roses \- Imanbek Remix](https://open.spotify.com/track/0j1WoPf3pSzIThihwIsD3M) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Entreno Intenso](https://open.spotify.com/album/5igX3nAa1kmfshtni2eeFT) | 2:56 | 2023-11-29 |  |
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f) | 2:56 | 2023-11-29 | 2024-01-27 |
-| [Roses \- Imanbek Remix](https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \(Imanbek Remix\)](https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs) | 2:56 | 2023-11-29 |  |
+| [Roses \- Imanbek Remix](https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \(Imanbek Remix\)](https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs) | 2:56 | 2023-11-29 | 2024-01-28 |
 | [Scars](https://open.spotify.com/track/3A2GhX9ydgMDpKvxmOrAB5) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [HAVENN](https://open.spotify.com/artist/3tvbAIVlkhKVAia7CvcacA) | [Scars](https://open.spotify.com/album/42bs64tKURjQaqladg0GIF) | 2:50 | 2023-11-29 |  |
 | [Selfish Desires](https://open.spotify.com/track/365NPDcst7fidzjrnKGvLp) | [BLACKVEL](https://open.spotify.com/artist/3rZCKIdVul5Bh7AKprpRD4), [Religare](https://open.spotify.com/artist/3l4IZ90A4B3rpU2aXoOAl4) | [Selfish Desires](https://open.spotify.com/album/2etkmzAlxsmyt4bAkWrm04) | 3:46 | 2023-11-29 |  |
 | [So Tell Me \- Radio Edit](https://open.spotify.com/track/0WbYSr9vGI33xEH8xLb7vo) | [Malifoo](https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5) | [So Tell Me \(Radio Edit\)](https://open.spotify.com/album/0TvZI457Iot4mtGRlMDSeN) | 3:09 | 2023-11-29 |  |

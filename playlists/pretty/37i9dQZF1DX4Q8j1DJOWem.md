@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย\. ศิลปิน: PURPEECH
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,646 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,649 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 49 | [ดาว \(Down\)](https://open.spotify.com/track/3uoMU6t9HYyS6mzOjYNavf) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [ดาว \(Down\)](https://open.spotify.com/album/0IaQviNjdSyVrrZ0q7ZfqB) | 3:23 |
 | 50 | [ได้เวลาแยกย้าย](https://open.spotify.com/track/51Y5u1uButVdKnAmjtJ9Gn) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [ได้เวลาแยกย้าย \- Single](https://open.spotify.com/album/4StH50jOP7uCCIsQ6tijX0) | 3:56 |
 
-Snapshot ID: `MCw1YzY2ODM1NDc2YmE2OGQ4ZGRhMjRlODFiNjZjMTIwM2M3MjliZjg0`
+Snapshot ID: `MCxhOTA0ODhlYzJkMjBlNTA5ZjdiMDg3NTQ1OTUxNWI4MWU4NjcyN2I0`

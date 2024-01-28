@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Bad Gyal
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,044 likes - 202 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,062 likes - 202 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,16 +13,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 3 | [Otra Vez Más](https://open.spotify.com/track/6E5iXFRORBnSpVtN4DHYBj) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [La Joia](https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd) | 2:33 |
 | 4 | [SI SABE FERXXO](https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 2:32 |
 | 5 | [SORNERITO](https://open.spotify.com/track/2gN4tTPjZceqOy2F0OJZQk) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 2:19 |
-| 6 | [HAGALE OME](https://open.spotify.com/track/3LqGq0UHMEHcipo7yfER8r) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 3:13 |
+| 6 | [HAGALE OME](https://open.spotify.com/track/3LqGq0UHMEHcipo7yfER8r) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 3:13 |
 | 7 | [sol & prada](https://open.spotify.com/track/7wfMTV2iORe3n6JLgA9daD) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [PLANES DE MEDIANOCHE](https://open.spotify.com/album/5RWEssac5Dun4RvxolSjlX) | 3:01 |
 | 8 | [CON LOS AROS 22](https://open.spotify.com/track/03QEu6x9S21eUkffyT3WLb) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [PLANES DE MEDIANOCHE](https://open.spotify.com/album/5RWEssac5Dun4RvxolSjlX) | 3:27 |
 | 9 | [PUERTO ESCONDIDO](https://open.spotify.com/track/6p9lWmoGI6WNlh3MFNhYSU) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [PUERTO ESCONDIDO](https://open.spotify.com/album/4lj7xDOBMMb76MrLKt9w8z) | 3:28 |
 | 10 | [Pitcher](https://open.spotify.com/track/11RzXOEKhGh7rpDtGLYEN3) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Karbeats](https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV) | [Pitcher](https://open.spotify.com/album/2k98cU83ZXIFQpAikP1xyU) | 2:38 |
 | 11 | [Sigo](https://open.spotify.com/track/3Q3MPUjUHmgn7FSeAmTCLI) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Karbeats](https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV) | [Pitcher](https://open.spotify.com/album/2k98cU83ZXIFQpAikP1xyU) | 2:11 |
 | 12 | [Friza](https://open.spotify.com/track/4qwss3ljS0MTc6eEyEA3Rc) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG) | [Pitcher](https://open.spotify.com/album/2k98cU83ZXIFQpAikP1xyU) | 1:30 |
-| 13 | [Todo lo que puedo darte](https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Libre](https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O) | 3:26 |
-| 14 | [Alguien como tú](https://open.spotify.com/track/1YYFCQtxaABA09CMLw51xf) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Libre](https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O) | 3:22 |
-| 15 | [Por tu vereda](https://open.spotify.com/track/0T14pmgT4GSvMzf68YAcUi) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Libre](https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O) | 3:35 |
+| 13 | [Todo lo que puedo darte](https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [LIBRE](https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O) | 3:26 |
+| 14 | [Alguien como tú](https://open.spotify.com/track/1YYFCQtxaABA09CMLw51xf) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [LIBRE](https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O) | 3:22 |
+| 15 | [Por tu vereda](https://open.spotify.com/track/0T14pmgT4GSvMzf68YAcUi) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [LIBRE](https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O) | 3:35 |
 | 16 | [Bendecido](https://open.spotify.com/track/3ZV60LVhqQ2uHXG6LL6F0V) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:22 |
 | 17 | [Sigo Enamorau'](https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:14 |
 | 18 | [Tu Ritmo](https://open.spotify.com/track/7JArcReBGffsbhMaosvQR0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:38 |
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 201 | [Bendecida](https://open.spotify.com/track/0TwLKBA5RgsYsmO38cg9s9) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Supernova](https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1) | 2:56 |
 | 202 | [Centenas De Miles De Años](https://open.spotify.com/track/6xa21lEbZdVtQa41HDkQcY) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Centenas De Miles De Años](https://open.spotify.com/album/2VEb1mzailGntQVRoWqaq9) | 3:12 |
 
-Snapshot ID: `MCwwMzYwZGY0ZmU5MDUyMDU0MDcxNTcyMTI4ZjQ3MDBjMjZlMDkxNTYy`
+Snapshot ID: `MCxkYTFhNTNmMGNhZTdhNmJkNTdlZTM5MzViYzI5NTZhMDdlY2I5YmU5`

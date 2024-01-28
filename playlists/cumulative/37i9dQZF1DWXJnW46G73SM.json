@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Ala Fekra",
+        "url": "https://open.spotify.com/album/2WAbd2SNR3NuetCFRp4uB8"
+      },
+      "artists": [
+        {
+          "name": "Rawan Bin Hussain",
+          "url": "https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197077,
+      "name": "Ala Fekra",
+      "url": "https://open.spotify.com/track/0WeYHVHRImagDo5teUkDOw"
+    },
+    {
+      "album": {
         "name": "Alaa Bali",
         "url": "https://open.spotify.com/album/6Tqy0QLbCK6v5xwPibh8n5"
       },

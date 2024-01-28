@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 
 > The best and latest rock and alternative\. Cover: Aysanabee, Raye Zaragoza
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 9,900 likes - 80 songs - 4 hr 49 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 9,888 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6268,7 +6268,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 180242,
       "name": "cool",
       "url": "https://open.spotify.com/track/3ccodz9WzM5L385hQbxbYW"
@@ -17296,7 +17296,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -19232,7 +19232,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 189000,
       "name": "Molto Allegro",
       "url": "https://open.spotify.com/track/2tbf8Kg7mmr6wliHGFJrjw"
@@ -23408,7 +23408,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 161250,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
@@ -24016,7 +24016,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 207752,
       "name": "Pond\u011bl\u00ed a\u017e ned\u011ble - Sped Up",
       "url": "https://open.spotify.com/track/3lcCxnxPqh0Rp7vsrD7KD6"
@@ -30674,6 +30674,24 @@
       "duration_ms": 199845,
       "name": "The Songcord",
       "url": "https://open.spotify.com/track/43uFqqDlSL5YhKcPnzJi4b"
+    },
+    {
+      "album": {
+        "name": "The Sound Of Silence",
+        "url": "https://open.spotify.com/album/2mG2BCrq18dPuqyXluFAD5"
+      },
+      "artists": [
+        {
+          "name": "CYREES",
+          "url": "https://open.spotify.com/artist/10bmjPGhgwYvRis3pjAAmL"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133374,
+      "name": "The Sound Of Silence",
+      "url": "https://open.spotify.com/track/5Cw1C3iQUquhH2gehdqqj8"
     },
     {
       "album": {

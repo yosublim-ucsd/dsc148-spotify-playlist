@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:Kwak Jin Eon\(곽진언\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,621 likes - 105 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,415 likes - 105 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 104 | [I will be alright](https://open.spotify.com/track/1iURdIbRZv2t643LDwLbl2) | [Lee Eun Mi](https://open.spotify.com/artist/57Rbh9mF8Peu1jOPRawGHW) | [I will be alright](https://open.spotify.com/album/7MPJaPGqkTXM3ej4PXklwV) | 5:35 |
 | 105 | [We Love Each Other](https://open.spotify.com/track/5rs94R9T7hFEziBB4sQj2G) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Destined with You \(Original Television Soundtrack\), Pt.9](https://open.spotify.com/album/0k6eU1vKSrnhHJRTTCOsw7) | 3:46 |
 
-Snapshot ID: `MCw5M2I5NTM5ZjI0ZGU4ZThmMTJiMmFlYWQ4YzFjYzFkMTUzMmYwMWQ1`
+Snapshot ID: `MCwzZWIyYzYyZjYzOWExMGU2Yjc1NWE2ZjMxNGUzNzBlMDRiMjc5MzBh`

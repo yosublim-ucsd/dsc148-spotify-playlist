@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 335864,
+  "2024-01-28": 335898,
   "date_first_scraped": "2022-03-28",
   "description": "The perfect soundtrack to your morning yoga session.",
   "name": "Sunrise Yoga",
@@ -2217,6 +2217,24 @@
       "duration_ms": 177985,
       "name": "Close Your Eyes Once Again",
       "url": "https://open.spotify.com/track/0hFq6QVQSKRwgXcY6ilHvb"
+    },
+    {
+      "album": {
+        "name": "Coherence",
+        "url": "https://open.spotify.com/album/2JzNv0ZN7HlwyGNrkBlP14"
+      },
+      "artists": [
+        {
+          "name": "Distant Dreams",
+          "url": "https://open.spotify.com/artist/4YJcFIbKdvMxTzfwJDEUbY"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Coherence",
+      "url": "https://open.spotify.com/track/2vjurdtpGGt8qTXEEy0tF1"
     },
     {
       "album": {
@@ -5973,6 +5991,24 @@
       "duration_ms": 154800,
       "name": "Luminous Corridor",
       "url": "https://open.spotify.com/track/1IIJYx2RQFNrHO2X9868LD"
+    },
+    {
+      "album": {
+        "name": "Luminus Circle",
+        "url": "https://open.spotify.com/album/3R35qejYTRWTxl5g62TSom"
+      },
+      "artists": [
+        {
+          "name": "De Ester",
+          "url": "https://open.spotify.com/artist/0dbcAyHyp9aAsEqAAZHjr4"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "Luminus Circle",
+      "url": "https://open.spotify.com/track/6SL08B5P8DpWGGOH9jypaq"
     },
     {
       "album": {
@@ -10221,6 +10257,24 @@
       "duration_ms": 166527,
       "name": "The First Light",
       "url": "https://open.spotify.com/track/4LHU2ae5wv5SN7KNwZFM9d"
+    },
+    {
+      "album": {
+        "name": "The Free Air",
+        "url": "https://open.spotify.com/album/2xxUugRqE6aPAwjJsXzmgW"
+      },
+      "artists": [
+        {
+          "name": "Soliaga",
+          "url": "https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202362,
+      "name": "The Free Air",
+      "url": "https://open.spotify.com/track/4Bi9PXnI1ZDErQlgDgT4y9"
     },
     {
       "album": {

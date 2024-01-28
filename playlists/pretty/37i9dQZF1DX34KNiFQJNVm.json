@@ -1,12 +1,12 @@
 {
   "description": "Os lan\u00e7amentos dessa semana incluem Gusttavo Lima e Mari Fernandez, Leo Santana e Ludmilla, Duda Beat e muito mais!",
-  "num_followers": 1909467,
+  "num_followers": 1904705,
   "original_name": "Novidades da Semana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzkxYWUwZGRlM2E2MDMzNmU4N2NjNDg3YTJmNGFiN2E3NmY4Njk4",
+  "snapshot_id": "MCwzMWE5MzgyMGFkMDg1NzQzNzlkYjhlZGU0ZmUxNmUyYjdhN2M5MDYy",
   "tracks": [
     {
       "added_at": "2024-01-26 16:34:40",
@@ -948,8 +948,12 @@
       },
       "artists": [
         {
-          "name": "DJ Biel do Furduncinho",
-          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
+          "name": "DJ Biel do Furduncinho Feat. Ian Durso",
+          "url": "https://open.spotify.com/artist/351MhWLn8OkTt5dnmAko26"
+        },
+        {
+          "name": "Ian Durso",
+          "url": "https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3"
         }
       ],
       "duration_ms": 114744,

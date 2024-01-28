@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Yvng Patra
 
-196 songs - 8 hr 59 min
+197 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Green Hill](https://open.spotify.com/track/5ges7BvLIO7V4UWCX7XiTC) | [Robbie Duncan](https://open.spotify.com/artist/6KYcCkb8Ne44TabbH4vmMS), [凡度](https://open.spotify.com/artist/7J3NKlR5DBnBlkGarSkqoH) | [Green Hill](https://open.spotify.com/album/4uvHftZy3cLqJpTN3jjKYP) | 2:24 | 2023-12-26 |  |
 | [ha?](https://open.spotify.com/track/1AHAFgBaotPhp2PLonXRPW) | [nana](https://open.spotify.com/artist/7uzEQGrUAupBJK2j3uQsoC), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [ha?](https://open.spotify.com/album/3vhn0dgPQFECXynziQmkUa) | 2:43 | 2023-12-07 | 2023-12-14 |
 | [HACKER](https://open.spotify.com/track/3KrpwhS3sq0qQsRsFBpKnx) | [Kampf](https://open.spotify.com/artist/3Sg7AKFRL72rX0OXRfSrGK), [XAN](https://open.spotify.com/artist/604ByWe9PBAjkIyEarEz60) | [The Diary](https://open.spotify.com/album/0lWIcfSd06NzJ7e8qiY4fS) | 3:10 | 2024-01-25 |  |
-| [Hands Up](https://open.spotify.com/track/4JXLR7C2FpsOFKGGJPNKks) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [Deko](https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn) | [Hands Up](https://open.spotify.com/album/0jGOX35jE6qx6w3tpVS3U6) | 3:03 | 2023-12-07 |  |
+| [Hands Up](https://open.spotify.com/track/4JXLR7C2FpsOFKGGJPNKks) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [Deko](https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn) | [Hands Up](https://open.spotify.com/album/0jGOX35jE6qx6w3tpVS3U6) | 3:03 | 2023-12-07 | 2024-01-28 |
 | [Hardest \- Afro Remix](https://open.spotify.com/track/7m60NVCclGwWrMNT2EtMkK) | [NGONG](https://open.spotify.com/artist/2YnP9D6Xjf1U8HHSu9Lwmq), [Kethug](https://open.spotify.com/artist/68cAP4Go5kmvViP9SHhlaJ), [KK](https://open.spotify.com/artist/0KjxSZxEWHvHLuCuhgHqZ5) | [Hardest \(Afro Remix\)](https://open.spotify.com/album/0adBjy9W9i8IQ5kKVLbBNE) | 3:31 | 2024-01-11 |  |
 | [Hate Goodbyes](https://open.spotify.com/track/2L9DQKjdZy6jtQIr2uTSdP) | [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Hate Goodbyes](https://open.spotify.com/album/7rjieC5S7NvAPC5416zhnj) | 1:20 | 2023-12-07 |  |
 | [Hazy](https://open.spotify.com/track/468nDu81LeneOvrM8BVPUD) | [NAZAL](https://open.spotify.com/artist/1YbyCB84VLDKqvPZrXb77l), [Pool](https://open.spotify.com/artist/682zJPYEeAySHdPs9uSV5E) | [Hazy](https://open.spotify.com/album/4rLQ6wtzSJ9ZaLl2H2na8x) | 2:17 | 2023-12-14 | 2024-01-12 |
@@ -178,6 +178,7 @@
 | [TOYOTA CAROLLA](https://open.spotify.com/track/1BZ7SR2PchuoUPfP4pP3px) | [hyunis1000](https://open.spotify.com/artist/5kg1VfX43k7uJ1mLHXmkRF) | [TOYOTA CAROLLA](https://open.spotify.com/album/69hNAvQ8asBkrJMjGDggDD) | 2:19 | 2023-12-14 | 2024-01-26 |
 | [Try & Error](https://open.spotify.com/track/6vqHiscoH7PWnXvzFt2mxu) | [DJ SID](https://open.spotify.com/artist/4bGwpSOihSRnkKcZYyPSM5), [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [018](https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN) | [Try & Error](https://open.spotify.com/album/6kouP6OtkeyHwuxkFWrDtB) | 2:46 | 2023-12-07 | 2024-01-24 |
 | [Tsukutte tsukatte](https://open.spotify.com/track/0N0X18UMqEvueGaLTZ6QQt) | [BAD B](https://open.spotify.com/artist/07uvj3Ij0D7YyEzPalaOgZ) | [Tsukutte tsukatte](https://open.spotify.com/album/515qhlOOi9oPubU2iHWUFj) | 2:46 | 2023-12-07 | 2024-01-12 |
+| [TYOSTAR](https://open.spotify.com/track/0OQgrwS228jqSQZ9UmwWxc) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x) | [TYOSTAR](https://open.spotify.com/album/1bqw62lT3nY7fGMFWhjF2x) | 2:49 | 2024-01-27 |  |
 | [Ujimushi](https://open.spotify.com/track/5dqEB0IHqXO6afBahLGnoA) | [Yan Seku](https://open.spotify.com/artist/0ahizkUD0EESiSH8qRr5o0) | [NATURAL PUNKS](https://open.spotify.com/album/1NA67kiuJwm1JQb5NiG6ZH) | 3:00 | 2024-01-11 | 2024-01-26 |
 | [Uncover](https://open.spotify.com/track/1Ab04PsirFDU1YwHw5SuKm) | [TEITO](https://open.spotify.com/artist/5FyZiNFoZYDUwFOXBsctGm) | [Uncover](https://open.spotify.com/album/4JMg1a925swgeX7Azqpoab) | 1:50 | 2023-12-07 | 2024-01-10 |
 | [UV](https://open.spotify.com/track/0ZN89ciaiag2wxPoDPSray) | [Swoo](https://open.spotify.com/artist/2177RsrP8VeFlEa26VWsmT), [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken) | [UV](https://open.spotify.com/album/3VIMhF4pFB1yGeeNc5GBhm) | 2:37 | 2023-12-07 | 2023-12-23 |

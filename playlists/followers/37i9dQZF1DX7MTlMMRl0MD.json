@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 1868057,
+  "2024-01-28": 1864884,
   "date_first_scraped": "2022-03-22",
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Prince Royce & Gabito Ballesteros",
   "name": "Bachata Lovers",
@@ -2502,6 +2502,28 @@
     },
     {
       "album": {
+        "name": "Falsos Recuerdos",
+        "url": "https://open.spotify.com/album/35djQkpLKC1ijpfi6i3AJw"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191414,
+      "name": "Falsos Recuerdos",
+      "url": "https://open.spotify.com/track/4snJ71Uz5KvX1CW0SaUiZY"
+    },
+    {
+      "album": {
         "name": "Fronteo",
         "url": "https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC"
       },
@@ -3347,6 +3369,32 @@
       "duration_ms": 232803,
       "name": "Las Puertas del Cielo",
       "url": "https://open.spotify.com/track/02hyDMBvUTU0ATb7RS6dmg"
+    },
+    {
+      "album": {
+        "name": "Latidos",
+        "url": "https://open.spotify.com/album/3sKQ2V6nzvfKFBpfoJtHpo"
+      },
+      "artists": [
+        {
+          "name": "J Salez",
+          "url": "https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU"
+        },
+        {
+          "name": "DerekVinci",
+          "url": "https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu"
+        },
+        {
+          "name": "El Tiguere",
+          "url": "https://open.spotify.com/artist/1noUS4B84xt3nMpTIRgV8F"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185722,
+      "name": "Latidos",
+      "url": "https://open.spotify.com/track/7ED3KHIfiyn83mcwonMr6T"
     },
     {
       "album": {
@@ -4807,6 +4855,24 @@
       "duration_ms": 235226,
       "name": "Propuesta Indecente",
       "url": "https://open.spotify.com/track/6FwEmbPo3d3USlMzuulT69"
+    },
+    {
+      "album": {
+        "name": "Punta Cana",
+        "url": "https://open.spotify.com/album/55851CfWJef6CzkdeJPpIu"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185120,
+      "name": "Punta Cana",
+      "url": "https://open.spotify.com/track/6tFXzOTZCTZ8t62NiLjC5z"
     },
     {
       "album": {

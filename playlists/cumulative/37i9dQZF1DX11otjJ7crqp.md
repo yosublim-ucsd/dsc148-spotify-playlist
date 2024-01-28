@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: Paul Russell
 
-4,651 songs - 9 day 15 hr 19 min
+4,652 songs - 9 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2533,7 +2533,8 @@
 | [Lollipop](https://open.spotify.com/track/0p1Ei2H706y4ynYaGGJxaY) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no) | 2:47 | 2023-10-27 | 2023-11-11 |
 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 | 2022-02-04 | 2022-02-12 |
 | [lonely](https://open.spotify.com/track/2Lm0zTyVto9JsTwcjIuZcw) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [lonely](https://open.spotify.com/album/4WtLTJCmLuJ1XQHHt4jOcy) | 2:08 | 2023-03-24 | 2023-04-15 |
-| [Lonely](https://open.spotify.com/track/22qbqYGzexgkBIXefZmmrM) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Lonely](https://open.spotify.com/album/5tATqeMIZfBqYbwPZpWyGl) | 2:19 | 2024-01-19 |  |
+| [Lonely](https://open.spotify.com/track/22qbqYGzexgkBIXefZmmrM) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Lonely](https://open.spotify.com/album/5tATqeMIZfBqYbwPZpWyGl) | 2:19 | 2024-01-19 | 2024-01-28 |
+| [Lonely](https://open.spotify.com/track/7HB1DLasEe7V1kpgXNtJF8) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Lonely](https://open.spotify.com/album/2oiiBjIc3xmnH1Z9bWF6wa) | 2:19 | 2024-01-19 |  |
 | [Lonely](https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lonely](https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw) | 3:12 | 2022-03-18 | 2022-04-02 |
 | [Lonely & Horny](https://open.spotify.com/track/15NiYgz7uwQZaiPrHLNVG5) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Lonely & Horny](https://open.spotify.com/album/3tpzGkK9rD0k3o9VPSYWIf) | 3:13 | 2023-07-28 | 2023-08-12 |
 | [lonely bitch](https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [lonely bitch](https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze) | 2:55 | 2023-01-13 | 2023-01-28 |

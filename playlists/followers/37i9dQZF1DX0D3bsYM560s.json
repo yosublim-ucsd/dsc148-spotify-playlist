@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 4834,
+  "2024-01-28": 4852,
   "date_first_scraped": "2023-04-16",
   "description": "Celebrating the extraordinary women breaking boundaries and keeping tradition alive. Cover: Rhonda Vincent ",
   "name": "Women of Bluegrass",
@@ -223,6 +223,32 @@
       "duration_ms": 135746,
       "name": "Bridge You're Gonna Burn",
       "url": "https://open.spotify.com/track/1JNopLLdrPqDljHPtAcwuj"
+    },
+    {
+      "album": {
+        "name": "Can't Live Without Love",
+        "url": "https://open.spotify.com/album/6nNbG7l5MjTclnCUJSPaXj"
+      },
+      "artists": [
+        {
+          "name": "Bronwyn Keith-Hynes",
+          "url": "https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "Can't Live Without Love",
+      "url": "https://open.spotify.com/track/2lA4tBOeDhq58itnkz7tUp"
     },
     {
       "album": {

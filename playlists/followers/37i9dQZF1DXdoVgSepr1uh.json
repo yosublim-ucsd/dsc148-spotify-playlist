@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 18401,
+  "2024-01-28": 18401,
   "date_first_scraped": "2022-05-26",
   "description": "Perreo hecho en Argentina. Foto: Angela Torres.",
   "name": "Reggaet\u00f3n Argentino",
@@ -343,6 +343,24 @@
       "duration_ms": 187569,
       "name": "BANDIDA",
       "url": "https://open.spotify.com/track/579JvpCcewz3IBcbv9ea8e"
+    },
+    {
+      "album": {
+        "name": "BB",
+        "url": "https://open.spotify.com/album/0k7xTuLGEGtKWRWXRVfq6W"
+      },
+      "artists": [
+        {
+          "name": "El Osito Wito",
+          "url": "https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165779,
+      "name": "BB",
+      "url": "https://open.spotify.com/track/3Cd4WUYSdQjSZ0e2J2ZIfz"
     },
     {
       "album": {
@@ -2727,7 +2745,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 195158,
       "name": "Mojate",
       "url": "https://open.spotify.com/track/5fmKs2C2IuvTWv24oxeVmU"

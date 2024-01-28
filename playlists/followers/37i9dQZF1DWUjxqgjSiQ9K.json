@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 594199,
+  "2024-01-28": 593474,
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:2gaFnEQydJdWNkT17NLZm3\">Su Presencia</a>",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:6slyJwua5e5GuhuP82sTHR\">Alex Campos</a>",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -756,6 +756,32 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/5JvQMsvdjTyecJfFimoCLF"
+      },
+      "artists": [
+        {
+          "name": "Barajas",
+          "url": "https://open.spotify.com/artist/0oaW8w858ZIyAnhDIskEqw"
+        },
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242570,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2SWzVaubaZL8tVapoBBg10"
+    },
+    {
+      "album": {
         "name": "Amar Cura",
         "url": "https://open.spotify.com/album/2mghrHaxa4kTrB1ohUuu9r"
       },
@@ -1379,6 +1405,24 @@
       "duration_ms": 423893,
       "name": "Bendita Esperanza - Live",
       "url": "https://open.spotify.com/track/1zadQBdLuwX58zNfMTqCjW"
+    },
+    {
+      "album": {
+        "name": "Bendito Amor",
+        "url": "https://open.spotify.com/album/3S4HJFAAD0u1It10vwFS92"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227694,
+      "name": "Bendito Amor",
+      "url": "https://open.spotify.com/track/5bLt725KjALgMBuemRHcTD"
     },
     {
       "album": {
@@ -2307,7 +2351,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 224312,
       "name": "Corro A Tus Brazos",
       "url": "https://open.spotify.com/track/77jXK0SAJO3QlJUPeVqJ3K"
@@ -5316,6 +5360,24 @@
     },
     {
       "album": {
+        "name": "Jes\u00fas Mi Fiel Amigo",
+        "url": "https://open.spotify.com/album/6Q2bdTIWmtEFFHSRBKc6cc"
+      },
+      "artists": [
+        {
+          "name": "Abel Zavala",
+          "url": "https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296370,
+      "name": "Jes\u00fas Mi Fiel Amigo",
+      "url": "https://open.spotify.com/track/2fEcicVGtyAg07iScRAmzO"
+    },
+    {
+      "album": {
         "name": "J\u00fabilo",
         "url": "https://open.spotify.com/album/3NXtSFvCB1tv6cEBt4O9xo"
       },
@@ -5901,7 +5963,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 202727,
       "name": "Loco Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3222yl84B3wPXBQ0VvEyux"
@@ -9863,7 +9925,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 208000,
       "name": "Tomarte de la Mano",
       "url": "https://open.spotify.com/track/1j8xgO0FICUq7wSJZrdHff"

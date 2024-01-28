@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: James Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,319 likes - 97 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,050 likes - 97 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 18 | [Spicy Margarita](https://open.spotify.com/track/6TFUhEcEsqGVMZeZtAeUzN) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Spicy Margarita](https://open.spotify.com/album/0axDmm6r0mlrw4SRIXpIER) | 2:34 |
 | 19 | [Loving You Will Be The Death Of Me](https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB) | 2:11 |
 | 20 | [Threepeat](https://open.spotify.com/track/3B47lA8KtRC1E6GBAbcQIy) | [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Threepeat](https://open.spotify.com/album/2NEi7FzorbZOyVWfSVxfJ0) | 2:14 |
-| 21 | [Problems](https://open.spotify.com/track/4iW5OTwRAYZOQO0YjErC77) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [Problems](https://open.spotify.com/album/2clG6lWFZZFyIl3prBhXEV) | 2:06 |
+| 21 | [problems](https://open.spotify.com/track/4iW5OTwRAYZOQO0YjErC77) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [problems](https://open.spotify.com/album/2clG6lWFZZFyIl3prBhXEV) | 2:06 |
 | 22 | [Moving On](https://open.spotify.com/track/1ZJtorRlIPyVvOIvd61TZz) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Moving On](https://open.spotify.com/album/5dihEwfqzPZOJDxXvzoEQV) | 3:22 |
 | 23 | [Toryanse](https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI) | 2:36 |
 | 24 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 41 | [Anugerah Cinta](https://open.spotify.com/track/6HseFylGAjl0LwghzHl2X9) | [Inka Christie](https://open.spotify.com/artist/07ghkzGGEQ7Luq905lZi4i) | [Anugerah Cinta](https://open.spotify.com/album/6RdjzAZbU1niRZuIBf3E06) | 4:43 |
 | 42 | [Janji Temu](https://open.spotify.com/track/0bTEOUdcZrs1dh5vAhMkNO) | [TB AJI](https://open.spotify.com/artist/1YMnyeBAV0YSm1ceHXuura) | [Janji Temu](https://open.spotify.com/album/7GRdUc6OGErOhtHZOmLuXT) | 3:44 |
 | 43 | [Falling in Love in Jakarta](https://open.spotify.com/track/0QteQ3SwYCkPGAoQ6YfQKZ) | [Alvin Jo](https://open.spotify.com/artist/3MnsmeScJneDmgu8u3OeNL) | [Falling in Love in Jakarta](https://open.spotify.com/album/5dAAPRXAiD8bKPeKa3Yo5X) | 4:17 |
-| 44 | [Break The Silence \- English Version](https://open.spotify.com/track/4vQCz5hbLgj5HkmAqopHps) | [Audrey Vanessa](https://open.spotify.com/artist/70cqnOZWrVt9sxZzBX3E8f) | [Break The Silence \(Indonesia Version\)](https://open.spotify.com/album/27OWtD1B5EOAVq7sBfEZgO) | 3:48 |
+| 44 | [Break The Silence \- English Version](https://open.spotify.com/track/4vQCz5hbLgj5HkmAqopHps) | [Audrey Vanessa](https://open.spotify.com/artist/0wKI7n8o1gQRhMV8R5nGSA) | [Break The Silence](https://open.spotify.com/album/27OWtD1B5EOAVq7sBfEZgO) | 3:48 |
 | 45 | [One Night/All Night](https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night](https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK) | 4:36 |
 | 46 | [Reckless Child](https://open.spotify.com/track/1y093zNa1pQUw8SDBstgXc) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Reckless Child](https://open.spotify.com/album/3hgRlpLt7y31c0KFUE4xcX) | 2:54 |
 | 47 | [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 96 | [No Doubt](https://open.spotify.com/track/3vMtPTyRz8UKXuGXGmqhHM) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [No Doubt](https://open.spotify.com/album/48UbbOD6O9q4Nc95CIalLR) | 3:46 |
 | 97 | [Don't Let It Break Your Heart](https://open.spotify.com/track/7GN6brQCfYOqHTYJ16ZL1T) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Don't Let It Break Your Heart](https://open.spotify.com/album/0bpcG8lePecCAyQzC85P0G) | 3:26 |
 
-Snapshot ID: `MCxiOWM0MWM1NGU2ODRiM2RmMTI4MDE5NzkwMjA2MzI4OTk1MTExZDYw`
+Snapshot ID: `MCwyZTA5MmRmZTUwNGJhNDRmZTQzMGY2ZjIyYTA2OWE3MTViNzY1MzIw`

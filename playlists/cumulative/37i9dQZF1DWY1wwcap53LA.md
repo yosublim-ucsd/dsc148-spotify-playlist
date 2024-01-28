@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: The Kentucky Gentlemen
 
-189 songs - 9 hr 47 min
+190 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,8 @@
 | [What The Truck](https://open.spotify.com/track/2W49YPwZNSwtbTzIqO5dMt) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u), [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [What The Truck](https://open.spotify.com/album/41lFKChrp5p5NKxsW6exdG) | 2:24 | 2022-07-22 |  |
 | [What The Truck](https://open.spotify.com/track/4HCJcKwRmhDIROAtNMj6K1) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv), [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [What The Truck](https://open.spotify.com/album/3OKlwjvdtVkQDfnYZ65FK0) | 2:24 | 2021-12-03 | 2022-07-29 |
 | [What Was I Drinking](https://open.spotify.com/track/05XhhXmBu1aUPNFLlTZ9XJ) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [What Was I Drinking](https://open.spotify.com/album/6kYGLfvbmgWqOV2spNzb09) | 2:57 | 2022-01-21 |  |
-| [What's Country to You](https://open.spotify.com/track/269kPmzjzBsqgVL87VYEUD) | [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [What's Country to You](https://open.spotify.com/album/268bBPpIuTh35T5Wr1OJQC) | 2:55 | 2023-02-10 |  |
+| [What's Country to You](https://open.spotify.com/track/269kPmzjzBsqgVL87VYEUD) | [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [What's Country to You](https://open.spotify.com/album/268bBPpIuTh35T5Wr1OJQC) | 2:55 | 2023-02-10 | 2024-01-28 |
+| [What's Country to You](https://open.spotify.com/track/7Lkid8K3M00z6jqRiMbw5g) | [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [What's Country To You](https://open.spotify.com/album/0kvq3xd58MwcwCalQDPpC4) | 2:55 | 2024-01-05 |  |
 | [Whiskey River](https://open.spotify.com/track/3lIaJQ9U0l6Bae86e1cZQs) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Whiskey River](https://open.spotify.com/album/2Bq8jup1tjO1rxo7YTauaU) | 4:31 | 2021-12-03 |  |
 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 | 2022-01-14 |  |
 | [Whiskey When I'm Gone](https://open.spotify.com/track/7EY4WHDf4Csp0gz7urHClf) | [Chauncey Jones](https://open.spotify.com/artist/5Dm8aBxMcG8ORTzv0IJMkt) | [Whiskey When I'm Gone](https://open.spotify.com/album/3VQtuaW3kFENk36ThLmnT7) | 3:18 | 2022-07-08 |  |

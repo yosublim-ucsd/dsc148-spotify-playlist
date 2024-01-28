@@ -3719,6 +3719,32 @@
     },
     {
       "album": {
+        "name": "Rascher International",
+        "url": "https://open.spotify.com/album/3tCatEDB8l8xXBT7pUfrbw"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Gwozdz",
+          "url": "https://open.spotify.com/artist/2gs8Ak7REWbYwnr7Iqo82Q"
+        },
+        {
+          "name": "Steffen Hass",
+          "url": "https://open.spotify.com/artist/1vQcviiulxIF7WBhswoHBn"
+        },
+        {
+          "name": "Lois Leventhal",
+          "url": "https://open.spotify.com/artist/41oUPjQ6WpUVU3NNDibdbe"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140840,
+      "name": "Birthday Music for Sigurd Rascher: Molto vivace",
+      "url": "https://open.spotify.com/track/1ly1sOkrlCDwVwcutLlaYF"
+    },
+    {
+      "album": {
         "name": "Bitch Better Have My Money",
         "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
       },
@@ -21408,6 +21434,24 @@
       "duration_ms": 162413,
       "name": "Nice to meet you (feat. Central Cee)",
       "url": "https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR"
+    },
+    {
+      "album": {
+        "name": "CATALYST (self titled)",
+        "url": "https://open.spotify.com/album/1EICcYyGlrAMKvveWYe0ek"
+      },
+      "artists": [
+        {
+          "name": "Catalyst...",
+          "url": "https://open.spotify.com/artist/4RBpDOH0QTYMcc70rjvFLb"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164001,
+      "name": "Nice to see you",
+      "url": "https://open.spotify.com/track/6JVYjNRNYU32o3fUqbr4yt"
     },
     {
       "album": {

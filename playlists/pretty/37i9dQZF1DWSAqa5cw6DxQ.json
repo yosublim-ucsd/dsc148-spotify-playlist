@@ -1,12 +1,12 @@
 {
   "description": "Clear your mind with soothing new age guitar.",
-  "num_followers": 76790,
+  "num_followers": 76811,
   "original_name": "Meditative Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTU4Mjg4MGY5MGFiZTU3MDY3ZDliYTFlYTdhODNmNmFkMWY0ZGZj",
+  "snapshot_id": "MCwxOWUxNTljOWI4YWI1NGRjZjY5NzIwYWIwYWZjNmI0MTgxMjY2Mjky",
   "tracks": [
     {
       "added_at": "2023-12-01 18:12:28",
@@ -327,6 +327,326 @@
       "duration_ms": 311950,
       "name": "Deliverance",
       "url": "https://open.spotify.com/track/1iiNGLareyph69mzwYYBnn"
+    },
+    {
+      "added_at": "2023-12-01 18:12:28",
+      "album": {
+        "name": "In The Moonlight",
+        "url": "https://open.spotify.com/album/1o2HPfW45FXQ4pVbmvU3uu"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Ryan",
+          "url": "https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g"
+        }
+      ],
+      "duration_ms": 170048,
+      "name": "In The Moonlight",
+      "url": "https://open.spotify.com/track/7bKnCUZd2DPux3xyebZZhl"
+    },
+    {
+      "added_at": "2023-12-01 18:12:28",
+      "album": {
+        "name": "Aldo Mythology",
+        "url": "https://open.spotify.com/album/290k8TOQf58TGNug3fCWbb"
+      },
+      "artists": [
+        {
+          "name": "Rand Aldo",
+          "url": "https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N"
+        }
+      ],
+      "duration_ms": 169374,
+      "name": "Remember Rain",
+      "url": "https://open.spotify.com/track/3xRLIbOyquBObxGPdIZe2A"
+    },
+    {
+      "added_at": "2023-12-01 18:12:28",
+      "album": {
+        "name": "Silent Wishes",
+        "url": "https://open.spotify.com/album/3CMz6HEMfufNKYTIUcyCQC"
+      },
+      "artists": [
+        {
+          "name": "Minisol",
+          "url": "https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf"
+        }
+      ],
+      "duration_ms": 208649,
+      "name": "Silent Wishes",
+      "url": "https://open.spotify.com/track/0Y04tCb932hyMGO12fzTtw"
+    },
+    {
+      "added_at": "2023-12-01 18:12:28",
+      "album": {
+        "name": "Quiescence",
+        "url": "https://open.spotify.com/album/19hoNIvh1uWXqTakJUCNhL"
+      },
+      "artists": [
+        {
+          "name": "Nelson Robert",
+          "url": "https://open.spotify.com/artist/1nITSgFXHcsi7Im2tAANUp"
+        }
+      ],
+      "duration_ms": 175798,
+      "name": "Quiescence",
+      "url": "https://open.spotify.com/track/3m51cUr11ZSJWFGmIn800g"
+    },
+    {
+      "added_at": "2023-12-01 18:12:28",
+      "album": {
+        "name": "Sinus",
+        "url": "https://open.spotify.com/album/3p0yXuPgxloFFUMO0YIVxu"
+      },
+      "artists": [
+        {
+          "name": "Wilfred Fredig",
+          "url": "https://open.spotify.com/artist/4hTrnME7WOKqbnIfRiu01m"
+        }
+      ],
+      "duration_ms": 130794,
+      "name": "Sinus",
+      "url": "https://open.spotify.com/track/6Zwt26VVEUeS7Iq9BR0kiA"
+    },
+    {
+      "added_at": "2023-12-01 18:12:28",
+      "album": {
+        "name": "Adrift (Meditation)",
+        "url": "https://open.spotify.com/album/3YhHaFBL6pqr287a8fQsuh"
+      },
+      "artists": [
+        {
+          "name": "Treter",
+          "url": "https://open.spotify.com/artist/1Zn7lUSMgFwccPi9evC8NN"
+        }
+      ],
+      "duration_ms": 145441,
+      "name": "Adrift (Meditation)",
+      "url": "https://open.spotify.com/track/3L3YFTmQOCFe36kQ1DuugY"
+    },
+    {
+      "added_at": "2023-12-01 18:12:28",
+      "album": {
+        "name": "Visible Quiet",
+        "url": "https://open.spotify.com/album/2YeNTFyl9Zh0j246Wfjru6"
+      },
+      "artists": [
+        {
+          "name": "Places Within",
+          "url": "https://open.spotify.com/artist/00rLUyC4CkQCYpvg0kBI87"
+        }
+      ],
+      "duration_ms": 219752,
+      "name": "Visible Quiet",
+      "url": "https://open.spotify.com/track/6KHLa0fdsXpjvgA2Xv9Ncx"
+    },
+    {
+      "added_at": "2023-12-01 18:12:28",
+      "album": {
+        "name": "Whisper in the wind",
+        "url": "https://open.spotify.com/album/5BZ2gwkDuYlpVkObyPMCr3"
+      },
+      "artists": [
+        {
+          "name": "Andri Hart",
+          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
+        }
+      ],
+      "duration_ms": 182924,
+      "name": "Whisper in the wind",
+      "url": "https://open.spotify.com/track/5ZSqAynin0lj0U8fVA5p8W"
+    },
+    {
+      "added_at": "2023-12-01 18:12:28",
+      "album": {
+        "name": "Abiding Light",
+        "url": "https://open.spotify.com/album/5BVFOUfy4UigiSC5sWIX8K"
+      },
+      "artists": [
+        {
+          "name": "Amat Leony",
+          "url": "https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms"
+        }
+      ],
+      "duration_ms": 184935,
+      "name": "Abiding Light",
+      "url": "https://open.spotify.com/track/2nfzCK4TA4wSlJP640kyIZ"
+    },
+    {
+      "added_at": "2023-12-01 18:12:28",
+      "album": {
+        "name": "Myself & I",
+        "url": "https://open.spotify.com/album/4BEtTebp6HzWw2R40AvTmr"
+      },
+      "artists": [
+        {
+          "name": "Voyage Control",
+          "url": "https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc"
+        }
+      ],
+      "duration_ms": 253627,
+      "name": "Myself & I",
+      "url": "https://open.spotify.com/track/1bA1rj6vbVOip77KgpW2x8"
+    },
+    {
+      "added_at": "2023-12-01 18:12:28",
+      "album": {
+        "name": "Solitude By Numbers",
+        "url": "https://open.spotify.com/album/52sUayQnby3lc9Ui5ggd29"
+      },
+      "artists": [
+        {
+          "name": "Minisol",
+          "url": "https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf"
+        }
+      ],
+      "duration_ms": 186237,
+      "name": "Solitude By Numbers",
+      "url": "https://open.spotify.com/track/1WF0V2ndTgetIzonPqO6Qz"
+    },
+    {
+      "added_at": "2023-12-01 18:12:28",
+      "album": {
+        "name": "In Seclusion",
+        "url": "https://open.spotify.com/album/2B3prQA84v2JQdDb756aoO"
+      },
+      "artists": [
+        {
+          "name": "Chim Suri",
+          "url": "https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg"
+        }
+      ],
+      "duration_ms": 166764,
+      "name": "In Seclusion",
+      "url": "https://open.spotify.com/track/03lIEUzXDUm8ivedRHOWff"
+    },
+    {
+      "added_at": "2023-12-01 18:12:28",
+      "album": {
+        "name": "State of Existence",
+        "url": "https://open.spotify.com/album/4VBg4QcYhgsnVVFGEU5wzI"
+      },
+      "artists": [
+        {
+          "name": "Christos Konstantinidis",
+          "url": "https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO"
+        }
+      ],
+      "duration_ms": 176545,
+      "name": "State of Existence",
+      "url": "https://open.spotify.com/track/2ZA0J8gcbUxetOh1R3rzMp"
+    },
+    {
+      "added_at": "2023-12-01 18:12:28",
+      "album": {
+        "name": "Fluire",
+        "url": "https://open.spotify.com/album/6vI0jXADPhs3uC4UjoWED5"
+      },
+      "artists": [
+        {
+          "name": "Trinitah",
+          "url": "https://open.spotify.com/artist/50MIKfXvxiyqZDE3xFm9iC"
+        }
+      ],
+      "duration_ms": 156222,
+      "name": "Fluire",
+      "url": "https://open.spotify.com/track/2lunfSloiCO0mbpFtzLkTm"
+    },
+    {
+      "added_at": "2023-12-01 18:12:28",
+      "album": {
+        "name": "Alignements",
+        "url": "https://open.spotify.com/album/7LwE51sYyVwk45hWcIJz5k"
+      },
+      "artists": [
+        {
+          "name": "Samuel Banks",
+          "url": "https://open.spotify.com/artist/0YRPAc7JhsviXAElmgcRzU"
+        }
+      ],
+      "duration_ms": 183252,
+      "name": "Alignements",
+      "url": "https://open.spotify.com/track/33tTpKz41ECTjEJmhzb3zp"
+    },
+    {
+      "added_at": "2023-12-01 18:12:28",
+      "album": {
+        "name": "Dreametheral",
+        "url": "https://open.spotify.com/album/73tedZgmVrBYQvGRpnJALO"
+      },
+      "artists": [
+        {
+          "name": "Leigh Erin",
+          "url": "https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg"
+        }
+      ],
+      "duration_ms": 177047,
+      "name": "Dreametheral",
+      "url": "https://open.spotify.com/track/4ZnMbPSIG1eOCEelRuqFAe"
+    },
+    {
+      "added_at": "2023-12-01 18:12:28",
+      "album": {
+        "name": "Riddles",
+        "url": "https://open.spotify.com/album/1v317uEoGbIxuZ9L8aIjxh"
+      },
+      "artists": [
+        {
+          "name": "Samaneh Awad",
+          "url": "https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1"
+        }
+      ],
+      "duration_ms": 137536,
+      "name": "Riddles",
+      "url": "https://open.spotify.com/track/0q6IHlkLK8Mu1gyVZukEvy"
+    },
+    {
+      "added_at": "2023-12-01 18:12:28",
+      "album": {
+        "name": "En Stilla Plats",
+        "url": "https://open.spotify.com/album/4wnu2eR9UZ3LWzjx9e0Le9"
+      },
+      "artists": [
+        {
+          "name": "Alva Abrahamson",
+          "url": "https://open.spotify.com/artist/1Bnfz5xvq0H2MT2rYSaz5y"
+        }
+      ],
+      "duration_ms": 179850,
+      "name": "En Stilla Plats",
+      "url": "https://open.spotify.com/track/42aXU4fhzS1bx3rIYowx5c"
+    },
+    {
+      "added_at": "2023-12-01 18:12:28",
+      "album": {
+        "name": "Floating Dreams",
+        "url": "https://open.spotify.com/album/78tgqwStPHndZPZtMSzzgD"
+      },
+      "artists": [
+        {
+          "name": "Zane Cassidy",
+          "url": "https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC"
+        }
+      ],
+      "duration_ms": 131547,
+      "name": "Floating Dreams",
+      "url": "https://open.spotify.com/track/0EEJNWq8aoSCCi8JtJZdsU"
+    },
+    {
+      "added_at": "2023-12-01 18:12:28",
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/2dYDZU8dBHtK8lsDT4tnUW"
+      },
+      "artists": [
+        {
+          "name": "Alex Miracone",
+          "url": "https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh"
+        }
+      ],
+      "duration_ms": 168779,
+      "name": "One",
+      "url": "https://open.spotify.com/track/4FlZGFYTdwrVgqsA1Veqsc"
     },
     {
       "added_at": "2023-12-01 18:12:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJTipjkC7Fa.md) - [plain]
 
 > Listen to the music from and inspired by My Life With The Walter Boys, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,048 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,139 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJTipjkC7Fa.md) - [plain]
 | 11 | [Peach New Am](https://open.spotify.com/track/7ab3I1YUW9fcMWOGeHGays) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Peach New Am](https://open.spotify.com/album/4W2ikAqT0qF4BiEqpQMAUZ) | 2:47 |
 | 12 | [For the Birds](https://open.spotify.com/track/3zIZn2lkgEVnnr7HutPnrT) | [Hyaenas](https://open.spotify.com/artist/3WURoSXW6bsmAW6JtgYiYU) | [Little Trophy](https://open.spotify.com/album/12ZOnVksOZO6kRaRQY8N3t) | 3:35 |
 | 13 | [Glove Scene](https://open.spotify.com/track/1xUyWcChEGClUTOlGdhRGd) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn) | [On the Waterfront \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KqLl9eMcIo79Zj5cmHpIq) | 1:47 |
-| 14 | [Cake By The Ocean](https://open.spotify.com/track/1m48UEu1t3396rz6pvPLqv) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Feel Good Music](https://open.spotify.com/album/7c1XTG4IFIsc0jjgE8UiW8) | 3:40 |
+| 14 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 |
 | 15 | [Golden Leaves](https://open.spotify.com/track/1fTi9sJDQV1VPM57eH0M5m) | [Sula May Andrade Deane](https://open.spotify.com/artist/6foSM2qBbW1vshevmAuwwV), [Thomas Evan's](https://open.spotify.com/artist/7AqFERmUsZpAd5pJFL0lN1), [Louis Martin](https://open.spotify.com/artist/1RH3Cp5QZDEQ366dPPqrQz) | [Closer To You](https://open.spotify.com/album/2tlHkd05gk4CNHSWvkbd93) | 3:30 |
 | 16 | [everything everywhere always](https://open.spotify.com/track/1sd2HaV5RYWN8ly7htaElN) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [everything everywhere always](https://open.spotify.com/album/73HKMtn4WRIvvm1m2QEAdf) | 2:27 |
 | 17 | [The Fall](https://open.spotify.com/track/26gaZ7kj1MQL6SwWvYvp3S) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Cult Classic](https://open.spotify.com/album/0NFxvuLwUsCzLICePGnEm6) | 4:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJTipjkC7Fa.md) - [plain]
 | 59 | [Fall with You](https://open.spotify.com/track/7lYiZOy2syi7UwS2XEpmeM) | [Emma McGrath](https://open.spotify.com/artist/3PZyI7b9LfYnS0QU827W8z) | [Fall with You](https://open.spotify.com/album/1iJtv8bQksRPjchfn4mRqk) | 3:13 |
 | 60 | [Light Up the Sky \(Skylar's Song\)](https://open.spotify.com/track/4mpfRdBiUiWABpJcHgCMnB) | [Brian H\. Kim](https://open.spotify.com/artist/6AWougHufUYuAil1drF6MB), [Corey Fogelmanis](https://open.spotify.com/artist/5YC2obH1ww4IH0o0zDA7m9) | [My Life with the Walter Boys \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4o4dY3Am1MVqFzdS8cCqEe) | 2:05 |
 
-Snapshot ID: `MCxhMzg3MzlhZDQzNzg1OWI5ODAxOTllNzNkM2IyMjdkNjZkOWJiNDAy`
+Snapshot ID: `MCw5Y2Y4ZWI1MjBkOTVhZDUxOTg2ZTBkNmU4OGM5MDczM2YxMDhhOTY5`

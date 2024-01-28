@@ -1165,6 +1165,28 @@
     },
     {
       "album": {
+        "name": "Versprich mir du gehst",
+        "url": "https://open.spotify.com/album/0pK7yVTUsuHjDWV9BGw8nm"
+      },
+      "artists": [
+        {
+          "name": "Madeline Juno",
+          "url": "https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ"
+        },
+        {
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178423,
+      "name": "Versprich mir du gehst",
+      "url": "https://open.spotify.com/track/1nIfneoBS1iYRcdWPYqgq4"
+    },
+    {
+      "album": {
         "name": "We're Done",
         "url": "https://open.spotify.com/album/5OMiYGBlMTN09vXaf8rZ5u"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > songs you'll fall in love with\. Medium Build on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,133,338 likes - 112 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,133,496 likes - 112 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 111 | [Shame](https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Grapes Upon the Vine](https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT) | 4:06 |
 | 112 | [Think Of Me Once In A While, Take Care](https://open.spotify.com/track/4JdYapRlYv67LnjrkDhZVX) | [Take Care](https://open.spotify.com/artist/2HpfqDQ8DBQlnrbAsdIh7s) | [Agony](https://open.spotify.com/album/6hMR006RO5sOuA9Vgs4v9L) | 1:43 |
 
-Snapshot ID: `MCwwNDE3YjU2ZGM4YTUyZmVhMmQ4ZDBhOTVlZjkzNWIxZjg5NmIwMjdk`
+Snapshot ID: `MCxjNGMzZDdjZGQ3MWYyOTEwNzBmNzI5YmUzYWUxZmQ1ZTdhNmExOGE2`

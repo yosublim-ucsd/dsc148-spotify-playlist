@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-1,676 songs - 3 day 20 hr 14 min
+1,677 songs - 3 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,7 +591,7 @@
 | [Headshot \(feat\. Polo G & Fivio Foreign\)](https://open.spotify.com/track/6cQ08IpBxxfGcSKxqE3NmB) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Headshot](https://open.spotify.com/album/74nxdn9ypqp3hqJEttpDNU) | 2:24 | 2021-03-27\* | 2021-03-29 |
 | [Heart of Steel \- Eurovision Version](https://open.spotify.com/track/155yInH5aDNEI1MkcX6NNk) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5) | [Heart of Steel \(Eurovision Version\)](https://open.spotify.com/album/0jGnnA1n6iYtDq1fOxMfgx) | 2:38 | 2023-05-09 | 2023-06-01 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-03-27\* | 2021-05-16 |
-| [Heartless](https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [808s & Heartbreak](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU) | 3:31 | 2022-08-09 |  |
+| [Heartless](https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [808s & Heartbreak](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU) | 3:31 | 2022-08-09 | 2024-01-28 |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-04-28 | 2023-01-03 |
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-04-16 | 2023-04-20 |
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-02-18 | 2023-03-04 |
@@ -1085,7 +1085,7 @@
 | [Painting Pictures](https://open.spotify.com/track/2OgIbXHmuRJowDwtmezcio) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [Painting Pictures](https://open.spotify.com/album/1XciNWcYMtjVEjgEQXXxSN) | 2:02 | 2023-03-01 | 2023-03-04 |
 | [Painting Pictures](https://open.spotify.com/track/4ElnYhTeJEx90XrPDlLzH9) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [Painting Pictures](https://open.spotify.com/album/4rOjLnFYn6xZSEKkR86qEV) | 2:02 | 2023-02-28 | 2023-03-02 |
 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 | 2023-02-21 | 2023-03-06 |
-| [Paintings](https://open.spotify.com/track/6f2zjW2WOXWwbEd1N6xr0I) | [Dj Sam](https://open.spotify.com/artist/2ejuJyUZzp9pyYgKpso6OP) | [X Cross](https://open.spotify.com/album/0yUfPZEQhKiVbYE24v7hd8) | 2:06 | 2024-01-26 |  |
+| [Paintings](https://open.spotify.com/track/6f2zjW2WOXWwbEd1N6xr0I) | [Dj Sam](https://open.spotify.com/artist/2ejuJyUZzp9pyYgKpso6OP) | [X Cross](https://open.spotify.com/album/0yUfPZEQhKiVbYE24v7hd8) | 2:06 | 2024-01-26 | 2024-01-28 |
 | [Papi’s Home](https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:58 | 2021-09-05 | 2021-09-12 |
 | [Parade on Cleveland \(feat\. Drake\)](https://open.spotify.com/track/05CTjmZKjZoCKQvM1Ldq9M) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:48 | 2023-06-24 | 2023-06-26 |
 | [Paradise By the Dashboard Light](https://open.spotify.com/track/7mzHEzbsl5iOvBRuXwReZU) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/0elHWyUbF2KLuHl8GjlzEM) | 8:28 | 2022-01-22 | 2022-01-25 |
@@ -1340,7 +1340,7 @@
 | [Stingið henni í steininn](https://open.spotify.com/track/4FO7upk8MhVmHTs4GQ4Wdg) | [ICEGUYS](https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw) | [Stingið henni í steininn](https://open.spotify.com/album/3OqkmInmQMPZKHsvV0jNE2) | 3:11 | 2023-09-30 | 2024-01-23 |
 | [Stingið Henni í Steininn \(Live @ FM95BLÖ\)](https://open.spotify.com/track/1nJRvBcKtZvjWVGcaD6EFG) | [ICEGUYS](https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw) | [Þessi Týpísku Jól](https://open.spotify.com/album/6ParLmmTIwyPsVlDRITR39) | 3:11 | 2023-11-11 | 2023-12-19 |
 | [Stjörnulífið Intro](https://open.spotify.com/track/5sOcNP2uMSGYFt4iqF2hE3) | [Yung Nigo Drippin'](https://open.spotify.com/artist/6I8ljltXh3l5H8hgKMSeAG) | [Stjörnulífið](https://open.spotify.com/album/0jEfYrVeezQTikNmZTHzQE) | 0:54 | 2023-01-07 | 2023-01-09 |
-| [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-15 | 2024-01-26 |
+| [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-15 |  |
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-28 |
 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 | 2021-03-27\* | 2021-04-21 |
 | [Strong Ting](https://open.spotify.com/track/3TM0owiKZmewQBdXnkSBWO) | [Duncan Daniels](https://open.spotify.com/artist/4Hbx82x5pU9EiWxl91BXmL), [Yadima](https://open.spotify.com/artist/7lxeVOSdsLBhh4hAs52LLD), [DEMOLA](https://open.spotify.com/artist/5cUFIkBWAwJOJZDEiACH6m) | [Strong Ting](https://open.spotify.com/album/1pkDbJ4ci4HgENqe1aNkVl) | 3:03 | 2023-04-14 | 2023-04-18 |
@@ -1621,6 +1621,7 @@
 | [Ástrós \(feat\. BRÍET\)](https://open.spotify.com/track/2QVU4zCVdeOfIkrMQ07ze3) | [Bubbi Morthens](https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up), [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Sjálfsmynd](https://open.spotify.com/album/1kUwoJJsHkplH4eormHLhu) | 4:29 | 2021-06-18 | 2022-05-04 |
 | [ÁÐUR FYRR](https://open.spotify.com/track/4HaNvTyWOo3ruZXjEFNGfu) | [ISSI](https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL) | [ÁÐUR FYRR](https://open.spotify.com/album/7eHuI7cdn5en9Y0sbXESGB) | 2:31 | 2023-10-14 | 2023-11-12 |
 | [Ætla ekki að eyða þeim ein](https://open.spotify.com/track/0kKVxEL8ia1F3vKQj6GVeL) | [Jóhanna Guðrún](https://open.spotify.com/artist/4KsGMNzBc29HS8e4QrVvDu) | [Ætla ekki að eyða þeim ein](https://open.spotify.com/album/3o66NAChRnod08TV9XXs2T) | 3:20 | 2021-11-07 | 2021-11-08 |
+| [Ævilangt](https://open.spotify.com/track/4F3R0328kGKMgcYn5SaOAO) | [GDRN](https://open.spotify.com/artist/1FvIWbYLm8dBezbdjucrZb) | [Ævilangt](https://open.spotify.com/album/5jgK5WCtxA0hrdlOh2zMje) | 3:41 | 2024-01-27 |  |
 | [Ævintýralönd](https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB) | [Hafdís Huld](https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5) | [Vögguvísur](https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l) | 3:11 | 2022-05-30 |  |
 | [Ævintýralönd](https://open.spotify.com/track/1uaSTOZG1cSH2e7EaWNYaM) | [Hafdís Huld](https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5) | [Vögguvísur](https://open.spotify.com/album/0Hr58TK8oPAI33wF9f6tew) | 3:11 | 2021-08-26 | 2022-05-31 |
 | [Æðri máttur](https://open.spotify.com/track/6VEEsTkTNEGTm8R1FoYBMl) | [Bubbi Morthens](https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up) | [Ljós og skuggar](https://open.spotify.com/album/6NyxqE7BTQI1QXLWTcDB3Q) | 3:56 | 2023-10-14 | 2023-10-18 |

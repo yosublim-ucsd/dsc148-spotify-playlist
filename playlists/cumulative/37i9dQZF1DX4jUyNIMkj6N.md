@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-251 songs - 15 hr 29 min
+252 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [By the time you hear this](https://open.spotify.com/track/0aGBL8l3yHYXkRt1rd7mB6) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [By the time you hear this](https://open.spotify.com/album/3QDLru0GgwjIQL3xox7mL9) | 3:14 | 2023-01-12 | 2024-01-19 |
 | [Cemetery](https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 2:52 | 2023-12-21 |  |
 | [Cheap Disposition](https://open.spotify.com/track/312PDc82PEWHeP6Px2UZWE) | [Resa Saffa Park](https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv) | [Cheap Disposition / Bitre Miner](https://open.spotify.com/album/7imJLmLYlNOgwuwuT6NEHy) | 3:24 | 2022-06-30 | 2023-03-31 |
-| [Chicago](https://open.spotify.com/track/4WGfbOXbDMj5ugvmJ38irE) | [The Northern Belle](https://open.spotify.com/artist/3SSBBFq7ACVCk7vapfDqIS), [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY), [Ida Jenshus](https://open.spotify.com/artist/15qMqM0HdFCZ6IKVNfLGNd), [Louien](https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY), [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm), [Signe Marie Rustad](https://open.spotify.com/artist/23JSMmZOW1mgd7UhYDk4iJ) | [The Women in Me](https://open.spotify.com/album/6iixNCrjwoAe2MfDuONaLu) | 4:39 | 2021-12-02 |  |
+| [Chicago](https://open.spotify.com/track/4WGfbOXbDMj5ugvmJ38irE) | [The Northern Belle](https://open.spotify.com/artist/3SSBBFq7ACVCk7vapfDqIS), [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY), [Ida Jenshus](https://open.spotify.com/artist/15qMqM0HdFCZ6IKVNfLGNd), [Louien](https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY), [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm), [Signe Marie Rustad](https://open.spotify.com/artist/23JSMmZOW1mgd7UhYDk4iJ) | [The Women in Me](https://open.spotify.com/album/6iixNCrjwoAe2MfDuONaLu) | 4:39 | 2021-12-02 | 2024-01-28 |
 | [Cold](https://open.spotify.com/track/5DpTlBdTHCvdbjg9Nl9mCx) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [=](https://open.spotify.com/album/3hgmDOXMqt6KQLRZNi4ZUj) | 4:43 | 2021-12-02 | 2022-07-26 |
 | [Coming Home](https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Coming Home](https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ) | 3:28 | 2023-09-14 |  |
 | [Coming Home](https://open.spotify.com/track/3Ies4YqUvwKGY8TxKmxicZ) | [Lucky Lips](https://open.spotify.com/artist/57wRcXzsm02wA9Vh0yeJkb) | [Coming Home](https://open.spotify.com/album/2bZ5sNOSfy5NOOq69D1IIg) | 4:49 | 2021-12-02 | 2022-07-21 |
@@ -223,6 +223,7 @@
 | [Vega](https://open.spotify.com/track/2Vo7t22exoxAEqjCUJMpJk) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT), [Sindre Hotvedt](https://open.spotify.com/artist/6UzXqmZCFu0Qq5v6NbyC14) | [Vega](https://open.spotify.com/album/3vbNof55CDxh6favNsfI68) | 6:43 | 2021-12-02 | 2022-07-28 |
 | [Vegvisir](https://open.spotify.com/track/11uFxNr49ZWoEDJvupsRQx) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT), [Sindre Hotvedt](https://open.spotify.com/artist/6UzXqmZCFu0Qq5v6NbyC14) | [Vegvisir](https://open.spotify.com/album/2BrY4jpqzewSvlmVVHRsBS) | 5:14 | 2022-03-10 | 2022-07-29 |
 | [Veronica](https://open.spotify.com/track/5MulsCSWNznHXELAlB6xpe) | [My Bubba](https://open.spotify.com/artist/09VsCALGBjeVE3pq9k085d), [Elsa Håkansson](https://open.spotify.com/artist/4q7HtD6vr5asdQr8CJmFME) | [Veronica & Veronika](https://open.spotify.com/album/66DdGBAMdsopKPTdSYQXjv) | 3:52 | 2021-12-02 | 2022-07-29 |
+| [Viking Fair](https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP) | [forfedre](https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW) | [Viking Fair](https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4) | 1:07 | 2024-01-25 |  |
 | [Vikings](https://open.spotify.com/track/5qirIQ2MMhySjzxVDDWTas) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO), [forfedre](https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW) | [Drömmer](https://open.spotify.com/album/5kIFqtdB34Q3nFsOUavKUB) | 4:37 | 2023-02-02 | 2023-03-26 |
 | [Vinyl and a Heartache](https://open.spotify.com/track/4Cvj1Q6S7FktJwwkJLaS9V) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Vinyl and a Heartache](https://open.spotify.com/album/2xvl46LPQ9xmyj6Z2M9FB9) | 3:51 | 2021-12-02 | 2022-04-21 |
 | [vár](https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [vár](https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF) | 3:51 | 2023-05-04 |  |

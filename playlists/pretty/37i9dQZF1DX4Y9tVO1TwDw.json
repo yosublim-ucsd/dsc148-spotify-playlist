@@ -1,12 +1,12 @@
 {
   "description": "A place for hyphenated Americans, creating our own identity & connecting to our roots. Cover: Ivan Cornejo",
-  "num_followers": 6896,
+  "num_followers": 6901,
   "original_name": "Hyphenated",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzZmOTc4NmI2NDA2YmYwOWNhMDZmMTc2OGRkY2M5YWQyZjZhMjA0",
+  "snapshot_id": "MCwyNDAyNTIwM2M5OTg4ZTIzNTJiZDg1M2I4MTk4MGI0ZmIyYjgzZGZi",
   "tracks": [
     {
       "added_at": "2023-12-06 20:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "Town Shit Vol. 3",
-        "url": "https://open.spotify.com/album/6vRbcfIeASWMzW5xXoaPUA"
-      },
-      "artists": [
-        {
-          "name": "Tony Loya",
-          "url": "https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L"
-        }
-      ],
-      "duration_ms": 144746,
-      "name": "VAN A VER",
-      "url": "https://open.spotify.com/track/3DMbXac1r9ZOwOZKs1Pd1O"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
         "name": "Casa Lumbre",
         "url": "https://open.spotify.com/album/4myLmh9NdqAnvbXuc2isCR"
       },
@@ -467,6 +451,22 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
+        "name": "Town Shit Vol. 3",
+        "url": "https://open.spotify.com/album/6vRbcfIeASWMzW5xXoaPUA"
+      },
+      "artists": [
+        {
+          "name": "Tony Loya",
+          "url": "https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L"
+        }
+      ],
+      "duration_ms": 144746,
+      "name": "VAN A VER",
+      "url": "https://open.spotify.com/track/3DMbXac1r9ZOwOZKs1Pd1O"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
         "name": "A Mi Cama",
         "url": "https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6"
       },
@@ -479,6 +479,22 @@
       "duration_ms": 154906,
       "name": "A Mi Cama",
       "url": "https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
+        "name": "Si Una Vez",
+        "url": "https://open.spotify.com/album/6aW8Fk5hy1LtljeI7EscKM"
+      },
+      "artists": [
+        {
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
+        }
+      ],
+      "duration_ms": 175269,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/1b9VGldop6GGiTdcVoshUl"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -499,22 +515,6 @@
       "duration_ms": 176508,
       "name": "Cu\u00e9ntame",
       "url": "https://open.spotify.com/track/08XOjWbCPNQZ9QQmR8cvVM"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
-        "name": "Si Una Vez",
-        "url": "https://open.spotify.com/album/6aW8Fk5hy1LtljeI7EscKM"
-      },
-      "artists": [
-        {
-          "name": "Luna Luna",
-          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
-        }
-      ],
-      "duration_ms": 175269,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/1b9VGldop6GGiTdcVoshUl"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "Si Se Siente",
-        "url": "https://open.spotify.com/album/2JA2xyMPBjqvJVz9Cdlrl9"
-      },
-      "artists": [
-        {
-          "name": "Los Bravos De La H",
-          "url": "https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr"
-        }
-      ],
-      "duration_ms": 184965,
-      "name": "Si Se Siente",
-      "url": "https://open.spotify.com/track/3pTm05Q4Ba4uawoAK8T6tH"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
         "name": "LA TANGA",
         "url": "https://open.spotify.com/album/0S6Z8MgGVuGxC3ubKfEQSf"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 138247,
       "name": "LA TANGA",
       "url": "https://open.spotify.com/track/100QTgMwBISQLjrime1jF8"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
+        "name": "Si Se Siente",
+        "url": "https://open.spotify.com/album/2JA2xyMPBjqvJVz9Cdlrl9"
+      },
+      "artists": [
+        {
+          "name": "Los Bravos De La H",
+          "url": "https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr"
+        }
+      ],
+      "duration_ms": 184965,
+      "name": "Si Se Siente",
+      "url": "https://open.spotify.com/track/3pTm05Q4Ba4uawoAK8T6tH"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "guestlist",
-        "url": "https://open.spotify.com/album/2of4vbeGS8Fp7ylj6H5tJ9"
-      },
-      "artists": [
-        {
-          "name": "ARIEL",
-          "url": "https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3"
-        }
-      ],
-      "duration_ms": 211070,
-      "name": "guestlist",
-      "url": "https://open.spotify.com/track/6RoVyGRo2NNIPfL6euEbuz"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
         "name": "Mil Pedazos",
         "url": "https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 184615,
       "name": "Coraz\u00f3n Da\u00f1ado",
       "url": "https://open.spotify.com/track/0ft4G7aJUXgPQ0i3UFKu29"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
+        "name": "guestlist",
+        "url": "https://open.spotify.com/album/2of4vbeGS8Fp7ylj6H5tJ9"
+      },
+      "artists": [
+        {
+          "name": "ARIEL",
+          "url": "https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3"
+        }
+      ],
+      "duration_ms": 211070,
+      "name": "guestlist",
+      "url": "https://open.spotify.com/track/6RoVyGRo2NNIPfL6euEbuz"
     },
     {
       "added_at": "2023-12-06 20:00:00",

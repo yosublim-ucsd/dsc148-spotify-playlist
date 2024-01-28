@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-304 songs - 16 hr 44 min
+305 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Chatter](https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [Chatter](https://open.spotify.com/album/0ke6IZ0jAiFuZuOT7Jwr8u) | 2:53 | 2022-06-06 | 2022-11-14 |
 | [Cheap Vacations \(feat\. Glassface\)](https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [Glassface](https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 3:35 | 2022-07-25 |  |
 | [Chill](https://open.spotify.com/track/6o0PuBbbFNdnkKVJEQ3G6Y) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Chill](https://open.spotify.com/album/6eDc1WXXQhsyvRgb3DduaR) | 4:03 | 2022-06-06 | 2022-07-29 |
+| [Chilly](https://open.spotify.com/track/2WrZX7qILvKZkw0tldzkmP) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Chilly](https://open.spotify.com/album/0uxUV7HJLD9xFD0Zh0ZAhA) | 3:50 | 2024-01-22 |  |
 | [Chilly](https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Chilly](https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni) | 3:50 | 2022-07-25 | 2024-01-24 |
 | [Cinema](https://open.spotify.com/track/6ejBx2l9eJr5n1V7t0WpCC) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Cinema](https://open.spotify.com/album/0T57uRN9WnBm3J5V0qA4M9) | 2:59 | 2023-12-04 | 2024-01-05 |
 | [circle of feelings](https://open.spotify.com/track/0Zr57tyrXXfbnjejbNWwfg) | [g y l s](https://open.spotify.com/artist/5P9ZfGxqKllKQuq3xBfWSk) | [circle of feelings](https://open.spotify.com/album/3PvBRlnbO6mZSD4WwsV4c8) | 3:03 | 2022-06-06 | 2022-07-26 |
@@ -227,7 +228,7 @@
 | [Reissues](https://open.spotify.com/track/4sxgweDT1cTr70Sfj5DLfH) | [OJ Law](https://open.spotify.com/artist/6tjfwkm7IWjpqtMBWckfHd) | [Reissues](https://open.spotify.com/album/4S4kXQvqeurWZBrqbD7Ane) | 3:43 | 2022-06-06 | 2022-07-29 |
 | [Relationship Obsession](https://open.spotify.com/track/6w2dAI4lAxYWXwUlXIOn2T) | [Calinn](https://open.spotify.com/artist/6SbqLtBLg1JMLhQWDt5r4E) | [Relationship Obsession](https://open.spotify.com/album/2itcfjdd0vwebx8MlcXmis) | 3:51 | 2022-06-06 | 2022-07-29 |
 | [Release](https://open.spotify.com/track/0P1Z6G1dnunmC5yc8zhkSx) | [Soulful Ghosts](https://open.spotify.com/artist/3CfoYxHDFSqlGAHsXw3isu) | [Release](https://open.spotify.com/album/2oQeJ0UWEt58697cThIqlv) | 4:01 | 2022-06-06 | 2022-07-29 |
-| [Remember](https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Remember](https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL) | 3:19 | 2022-07-25 |  |
+| [Remember](https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Remember](https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL) | 3:19 | 2022-07-25 | 2024-01-28 |
 | [repeat](https://open.spotify.com/track/6P4jmwL4M4LSa4JWdgAPx2) | [LHRHND](https://open.spotify.com/artist/5Y4wI02HN3fDWmqO0OKGir), [Froya](https://open.spotify.com/artist/1NNTp69Arw8ikxNNlKe8JI) | [repeat](https://open.spotify.com/album/2cCFHDzbTGF2rYjLNKEHV7) | 3:36 | 2023-07-24 | 2023-08-01 |
 | [Revenge Of The Number](https://open.spotify.com/track/1ScZSUcqKAYPoBhL8KL5pU) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Numb](https://open.spotify.com/album/16TtKhePgbLxoqSOvJVQKu) | 3:22 | 2023-10-16 |  |
 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 | 2022-06-06 |  |

@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-379 songs - 1 day 7 hr 24 min
+380 songs - 1 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Forgotten Field](https://open.spotify.com/track/0hmCr0Xc8E0RrA5Mf5fJXp) | [Suntapes](https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6) | [Forgotten Field](https://open.spotify.com/album/14NCgAUOAmREsUNIzaLOfv) | 2:58 | 2022-10-14 |  |
 | [Fractural](https://open.spotify.com/track/0vIk5Z6dAqWeOQoE76NUTv) | [Ian Hawgood](https://open.spotify.com/artist/74VB5tp2lrCzeaFg2WPRXC) | [朝](https://open.spotify.com/album/0Ky0C7LcSJ2HwsamzMuYKC) | 11:52 | 2022-03-17 | 2023-01-07 |
 | [From Darkness to Light \(Ambient Cello Loops\), Pt\. 3](https://open.spotify.com/track/1rHQUBlbNIPvSZTX5VjGMJ) | [The Wong Janice](https://open.spotify.com/artist/1q1P9ifOMhgIYCsj9KXxdX) | [From Darkness to Light \(Ambient Cello Loops\)](https://open.spotify.com/album/1vPAKdej68HxCa4wizIjfi) | 5:23 | 2023-03-10 |  |
+| [Fsjbmmr](https://open.spotify.com/track/35emZczLftp0mZcTCYWKWw) | [Oh No Noh](https://open.spotify.com/artist/3lpaAfKISKw6QKpcRXMhOL), [Jenny Berger Myhre](https://open.spotify.com/artist/3BMzPhmI2cSwN4VzYbOJyw), [F.S.Blumm](https://open.spotify.com/artist/4cHtgM7lauSNaau5uAm5Cc) | [Interstitial](https://open.spotify.com/album/04L37SYhkClPOmKjQfsXBz) | 10:27 | 2023-11-17 |  |
 | [Fugative of a Narrative](https://open.spotify.com/track/321eSRbte3iwQNRQUzUTep) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Jonas Colstrup](https://open.spotify.com/artist/5ZRR9BnCZ89uKNgkvnwCJ2) | [The Shadow Play \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pq4x7PVkJSbfxnOiiawgD) | 1:35 | 2022-03-30 | 2022-06-20 |
 | [Golden Waxcap](https://open.spotify.com/track/0NP6SNyOxJnvjNIvMVNDPt) | [Preslav Literary School](https://open.spotify.com/artist/2i5ykOuXu6SytWoJw7MFJY) | [Mycelium](https://open.spotify.com/album/2YncKGBm21QkOrfWnterb9) | 1:14 | 2023-03-16 |  |
 | [Gradual of Image](https://open.spotify.com/track/23nCdon9t8jCCBFKqZDpXf) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh) | 3:08 | 2022-03-17 | 2023-01-07 |
@@ -326,7 +327,7 @@
 | [Take it Easy \- Single Version](https://open.spotify.com/track/5oaP0XHFuiaR1f2i9J6Ebq) | [Deux Filles](https://open.spotify.com/artist/2PNeKY2obbpjO7MrVJf0M3) | [Take It Easy](https://open.spotify.com/album/7sOj3wUCWlPlOstZqNK5qL) | 3:46 | 2023-11-17 | 2024-01-15 |
 | [TAN / 潭](https://open.spotify.com/track/0Bj6OvrKGn2Ifcv3ztKFIn) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [之 / OF](https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV) | 1:57 | 2022-03-30 | 2022-09-13 |
 | [Tanto](https://open.spotify.com/track/5KaW5oOw4D5W4gOsQyTh3h) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Music for Six Rooms](https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH) | 3:36 | 2022-03-17 | 2023-03-18 |
-| [Tape Loop \#7](https://open.spotify.com/track/5xmrerXtEqiIoxp3yOOMHY) | [James Ellis Ford](https://open.spotify.com/artist/4rzx4iwzF4sCJns8pelK55) | [The Hum](https://open.spotify.com/album/5tyCImNcNj877Flhbt9HgF) | 4:40 | 2023-06-09 |  |
+| [Tape Loop \#7](https://open.spotify.com/track/5xmrerXtEqiIoxp3yOOMHY) | [James Ellis Ford](https://open.spotify.com/artist/4rzx4iwzF4sCJns8pelK55) | [The Hum](https://open.spotify.com/album/5tyCImNcNj877Flhbt9HgF) | 4:40 | 2023-06-09 | 2024-01-28 |
 | [Tapir](https://open.spotify.com/track/20MXBhQSpsngsyWdn7lwjF) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn), [Andrew Tasselmyer](https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx) | [Tapir](https://open.spotify.com/album/3GR4fQQerubloHGRzyqrtr) | 3:05 | 2023-03-11 |  |
 | [Technical Press](https://open.spotify.com/track/2Y7hogbq8RYP8cz8bjgKpX) | [The Humble Bee](https://open.spotify.com/artist/5GicejpdrZmfWfpDJE4XRT) | [A Miscellany For The Quiet Hours](https://open.spotify.com/album/2wQzTt4DVzH42KQpPkHPLS) | 3:07 | 2023-08-18 | 2023-09-01 |
 | [The Anatomy of Clouds \(Malibu Sweet Hereafter Remix\) I](https://open.spotify.com/track/1eRpubYdTxJ2RtuOCu5hSg) | [Michael Price](https://open.spotify.com/artist/6Ie1HZJ0vFXxxogMhPnZcg), [Malibu](https://open.spotify.com/artist/5mYo4YwZlsy9pbftU3j3xR) | [The Hope of Better Weather](https://open.spotify.com/album/419TYWSCyXp4Wez6XbdUDo) | 9:03 | 2022-03-17 | 2023-03-18 |

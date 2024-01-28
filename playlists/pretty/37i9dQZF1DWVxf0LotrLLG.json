@@ -1,12 +1,12 @@
 {
   "description": "Descubre los nuevos \u00e1lbumes del a\u00f1o. Hit shuffle for a mixed listening experience. Cover: Bad Gyal",
-  "num_followers": 17044,
+  "num_followers": 17062,
   "original_name": "New Latin Albums",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzYwZGY0ZmU5MDUyMDU0MDcxNTcyMTI4ZjQ3MDBjMjZlMDkxNTYy",
+  "snapshot_id": "MCxkYTFhNTNmMGNhZTdhNmJkNTdlZTM5MzViYzI5NTZhMDdlY2I5YmU5",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -106,6 +106,10 @@
         {
           "name": "Blessd",
           "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
         }
       ],
       "duration_ms": 193906,
@@ -235,7 +239,7 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Libre",
+        "name": "LIBRE",
         "url": "https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O"
       },
       "artists": [
@@ -251,7 +255,7 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Libre",
+        "name": "LIBRE",
         "url": "https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O"
       },
       "artists": [
@@ -271,7 +275,7 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Libre",
+        "name": "LIBRE",
         "url": "https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O"
       },
       "artists": [

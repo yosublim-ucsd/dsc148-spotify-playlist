@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 28286,
+  "2024-01-28": 28267,
   "date_first_scraped": "2023-11-08",
   "description": "Stay current with the latest indie-alt tracks.",
   "name": "Hipster Radar",
@@ -189,7 +189,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 201586,
       "name": "Artefact (feat. Le\u00f3n Larregui)",
       "url": "https://open.spotify.com/track/2XvRfxK4qTbX9ZOloiomxv"
@@ -448,6 +448,28 @@
     },
     {
       "album": {
+        "name": "Burn The Hard Drive (feat. Mura Masa)",
+        "url": "https://open.spotify.com/album/2A7QGN8AFnIFthFrGXKKIi"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192832,
+      "name": "Burn The Hard Drive (feat. Mura Masa)",
+      "url": "https://open.spotify.com/track/2YK4w5AUbAyjgdokQuCzoj"
+    },
+    {
+      "album": {
         "name": "Candy Pop",
         "url": "https://open.spotify.com/album/7fXCm0PCqu1iVopffq3ZVU"
       },
@@ -592,6 +614,24 @@
     },
     {
       "album": {
+        "name": "Do One",
+        "url": "https://open.spotify.com/album/7A7iMGBEB5KY5ZfUV40usr"
+      },
+      "artists": [
+        {
+          "name": "Frank Turner",
+          "url": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141506,
+      "name": "Do One",
+      "url": "https://open.spotify.com/track/6uM4d5YuVQZzlZkfBb1g4N"
+    },
+    {
+      "album": {
         "name": "Town",
         "url": "https://open.spotify.com/album/6DjifeDOsCYY6m7JrOwGpn"
       },
@@ -665,6 +705,24 @@
       "duration_ms": 190476,
       "name": "fault in the stars",
       "url": "https://open.spotify.com/track/585DJiJ7LPSNBSUEE4TxNo"
+    },
+    {
+      "album": {
+        "name": "Live Now",
+        "url": "https://open.spotify.com/album/07InDreREEteYAIuQKcXE8"
+      },
+      "artists": [
+        {
+          "name": "Ryan McMahon",
+          "url": "https://open.spotify.com/artist/6Fq6imxdg0bFQh41DbtcJB"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198653,
+      "name": "Feed Your Mind",
+      "url": "https://open.spotify.com/track/51zKWYNIFsBoDv2Quj1dN9"
     },
     {
       "album": {
@@ -845,7 +903,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 263859,
       "name": "Girl With No Face",
       "url": "https://open.spotify.com/track/0EQJc4WYegeTU1VDaiI8Tj"
@@ -1127,7 +1185,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 159813,
       "name": "How to Party",
       "url": "https://open.spotify.com/track/5RgkIsDZCVeT31N3VQQUJK"
@@ -1185,7 +1243,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 200987,
       "name": "I'm Around (Both Sides)",
       "url": "https://open.spotify.com/track/6En9mJVkwVSgIIURTSFHv7"
@@ -1452,6 +1510,24 @@
     },
     {
       "album": {
+        "name": "Modern Drugs",
+        "url": "https://open.spotify.com/album/3fexL0QakIVLSCChoQ4aSK"
+      },
+      "artists": [
+        {
+          "name": "JJ Shiplett",
+          "url": "https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313357,
+      "name": "Modern Drugs",
+      "url": "https://open.spotify.com/track/5gocWRuqMWndCOS6FLK270"
+    },
+    {
+      "album": {
         "name": "Movies (Softest Version)",
         "url": "https://open.spotify.com/album/17LA8L1s5R9Yi9IzKE5kau"
       },
@@ -1611,7 +1687,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 172213,
       "name": "Next to You",
       "url": "https://open.spotify.com/track/57reeqpImanYb0RBFICHMY"
@@ -1727,6 +1803,24 @@
       "duration_ms": 222737,
       "name": "Oral",
       "url": "https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr"
+    },
+    {
+      "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/0Y8njREiJhHegRMwHHrNth"
+      },
+      "artists": [
+        {
+          "name": "12AM",
+          "url": "https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149366,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/6KX5lORRwSuUWyXpMlJ8Hs"
     },
     {
       "album": {
@@ -2048,6 +2142,24 @@
     },
     {
       "album": {
+        "name": "stay with me",
+        "url": "https://open.spotify.com/album/1sK7oMScJ9bzgQGZTXozqM"
+      },
+      "artists": [
+        {
+          "name": "Cam Kahin",
+          "url": "https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229312,
+      "name": "stay with me",
+      "url": "https://open.spotify.com/track/5bAWcx3JLwpNXvUcnrlX9F"
+    },
+    {
+      "album": {
         "name": "Cold War Kids",
         "url": "https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c"
       },
@@ -2337,7 +2449,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 198375,
       "name": "waiting",
       "url": "https://open.spotify.com/track/2zkdrkOrB4vzU9O7SyWDD7"

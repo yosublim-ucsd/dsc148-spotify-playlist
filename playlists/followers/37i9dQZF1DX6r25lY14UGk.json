@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 17043,
+  "2024-01-28": 17077,
   "date_first_scraped": "2022-04-19",
   "description": "New releases for the kids. Cover: Pj Panda",
   "name": "New Kids Music",
@@ -2416,6 +2416,24 @@
     },
     {
       "album": {
+        "name": "Magic Words Song",
+        "url": "https://open.spotify.com/album/5QjBWvb6JUgjAYaCebeN9O"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131044,
+      "name": "Magic Words Song",
+      "url": "https://open.spotify.com/track/4lopHo0eInAeE6hvH4MMXh"
+    },
+    {
+      "album": {
         "name": "D.A.D",
         "url": "https://open.spotify.com/album/0XwbOQniQkH18ZPTa8em0N"
       },
@@ -3050,6 +3068,24 @@
     },
     {
       "album": {
+        "name": "Shapes Song",
+        "url": "https://open.spotify.com/album/6VObnYkmbHc6rgM64QFNg4"
+      },
+      "artists": [
+        {
+          "name": "Jools TV",
+          "url": "https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163916,
+      "name": "Shapes Song",
+      "url": "https://open.spotify.com/track/6Wngc5yIuzpZMMvYtICxNy"
+    },
+    {
+      "album": {
         "name": "Shine Like the Sun",
         "url": "https://open.spotify.com/album/6qUpKJPe0VicRiU7JRAz8I"
       },
@@ -3189,6 +3225,32 @@
       "duration_ms": 167020,
       "name": "So Many Ways (feat. Uncle Jumbo)",
       "url": "https://open.spotify.com/track/78LJuqoUgXS7q7KWf0U7J5"
+    },
+    {
+      "album": {
+        "name": "Space Shuttle",
+        "url": "https://open.spotify.com/album/70LcL2PWtfJyJGT2EbzOGX"
+      },
+      "artists": [
+        {
+          "name": "Tiny Totz Kidz",
+          "url": "https://open.spotify.com/artist/54vwxOSuLxx758lpaUjTst"
+        },
+        {
+          "name": "Tobie",
+          "url": "https://open.spotify.com/artist/4v7MbkhfDQZYPXBDBSKkhw"
+        },
+        {
+          "name": "Kate Steinway",
+          "url": "https://open.spotify.com/artist/0K2OWWGyo4fnLJnVY41M6l"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195483,
+      "name": "Space Shuttle",
+      "url": "https://open.spotify.com/track/7lMeJ4p2j2kGucx6Qzen0q"
     },
     {
       "album": {

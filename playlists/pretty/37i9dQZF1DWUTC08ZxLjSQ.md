@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover:Ghida\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,349 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,346 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 48 | [Way Up](https://open.spotify.com/track/4VLws1htn1cLel6LpUe3D4) | [Laila Beshara](https://open.spotify.com/artist/1jLZGIAr5dV3MrPxe4EKJD), [AMR OMAR](https://open.spotify.com/artist/3FMgXCU1dPKbTexcI0yVND) | [Things You Don't Tell Yourself](https://open.spotify.com/album/6BtKroE9NthS2kTSsYv8dT) | 3:19 |
 | 49 | [Kindir Suprise](https://open.spotify.com/track/5jjxs06EnkLIUajLPTAdqH) | [Aziz Konkrite](https://open.spotify.com/artist/7s8PJjvTY4nc7BCgCpB4Ok) | [Kindir Surprise](https://open.spotify.com/album/3MO0fz7nWbv0cNybHu6DuM) | 4:48 |
 
-Snapshot ID: `MCwyMDYzMWU5NmQyMzE5YzA3ZTMzMTcxYWU2YTdlNGVmMzNkZDlkZTQw`
+Snapshot ID: `MCwzYTUxYTI4NzZkYjc4NDNkNWJkM2MzMTFkMTkyYjhmNjE4OGEwMDM1`

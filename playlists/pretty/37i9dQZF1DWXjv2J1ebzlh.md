@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,725 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,722 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -582,7 +582,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 572 | [Uptown Top Ranking \- Remastered 2001](https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4) | [Althea And Donna](https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2) | [Uptown Top Ranking](https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP) | 3:49 |
 | 573 | [Otro Muerde el Polvo \(Another One Bites the Dust\)](https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 3:32 |
 | 574 | [L'Amour Joue Au Violon](https://open.spotify.com/track/2r2zAXMgVdSA0uxaCKrhMG) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Ritual Chants](https://open.spotify.com/album/79SpX17JQa0BR3bOxo0gFI) | 4:25 |
-| 575 | [Chan Chan](https://open.spotify.com/track/1A4dz8BQdYd2rphqrtFpyB) | [Banda Caio Rodriguez](https://open.spotify.com/artist/3r3LCgq60jmbEQkEh2Q8aW), [Hector Rey](https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv), [Los Brillantes Cubanos](https://open.spotify.com/artist/0LcZ3t6cQtrE8IASQxDmcu) | [Cuba Café \(The Very Best of Cuban Music\)](https://open.spotify.com/album/6AcFLwyRVfDb0MubVagUdl) | 4:17 |
+| 575 | [Chan Chan](https://open.spotify.com/track/6w9KBNh6hsrYMDhDB0Eieq) | [Cuba Cuba](https://open.spotify.com/artist/0lGLinWCvSkF3eSyV9a6aB) | [Cafe Havana](https://open.spotify.com/album/6nVlDrSjPXusRk45H1xbIr) | 4:17 |
 | 576 | [Sol Cumbia](https://open.spotify.com/track/2Z3PohzqaghZySKmIqnmuA) | [Romanowski](https://open.spotify.com/artist/3KAcFfdKSdu9XySvEmu0Kb), [Los Hoopties](https://open.spotify.com/artist/0WY5JUi1eZzfBYXr9labgg), [J.Whitefield](https://open.spotify.com/artist/3mBN09aDFDnloHE3TJTBBM), [Todd Simon](https://open.spotify.com/artist/6DYxO4YKjS4jSDZQvEcxZ6) | [The Return of Steady Rocking Romanowski & Friends](https://open.spotify.com/album/6ihyhLPcmPiJ9uPbCrWg09) | 3:53 |
 | 577 | [Jocotoco Antpitta](https://open.spotify.com/track/0hh8kMA8Zk4UeUcRXQcQ9f) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [A Guide to the Birdsong of South America](https://open.spotify.com/album/0DDsDqhH1cWmQ59cIWrxw3) | 3:16 |
 | 578 | [Pepe](https://open.spotify.com/track/55U1Glo5iKY9gwkVlJLybQ) | [Lucho Bermúdez](https://open.spotify.com/artist/5x1E6GVoNd2Haj7Jtvg3E0) | [Bailando y Gozando](https://open.spotify.com/album/5fJLE2By1q5u3hQVhcgu9Y) | 2:31 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw3OGJlM2JlZTU0MjUzNjVlMzI1ZDg4YzFmNTZiM2Q3MzU1YTU4MzU1`
+Snapshot ID: `MCw2OWM0ZGY5MGYzMWEwNDFhZmQzZDAzZDVjZjFlNDIwMTcwY2Q3NzQz`

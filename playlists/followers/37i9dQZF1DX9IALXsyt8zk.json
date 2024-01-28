@@ -1,5 +1,5 @@
 {
-  "2024-01-27": 111366,
+  "2024-01-28": 111353,
   "date_first_scraped": "2022-01-02",
   "description": "Unearthing up-and-coming Korean acts. Cover: Zior Park",
   "name": "RADAR Korea",
@@ -763,7 +763,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 175106,
       "name": "But Sometimes",
       "url": "https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT"
@@ -1921,7 +1921,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 160371,
       "name": "Get A Guitar",
       "url": "https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4"
@@ -1997,6 +1997,24 @@
       "duration_ms": 215800,
       "name": "GingaMingaYo (the strange world)",
       "url": "https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv"
+    },
+    {
+      "album": {
+        "name": "Girls of the Year",
+        "url": "https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG"
+      },
+      "artists": [
+        {
+          "name": "VCHA",
+          "url": "https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178253,
+      "name": "Girls of the Year",
+      "url": "https://open.spotify.com/track/03grA043a1uECo5Kyw28a0"
     },
     {
       "album": {
@@ -2247,7 +2265,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 160946,
       "name": "hit the floor",
       "url": "https://open.spotify.com/track/6605lg0mbsHwJroFaEUtFH"
@@ -2645,7 +2663,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 210081,
       "name": "KIDDING",
       "url": "https://open.spotify.com/track/5grkkSqOpUGHfl2KunfdD9"
@@ -2945,7 +2963,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 188718,
       "name": "Love Me Like This",
       "url": "https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m"
@@ -4080,6 +4098,24 @@
     },
     {
       "album": {
+        "name": "TWS 1st Mini Album 'Sparkling Blue'",
+        "url": "https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152400,
+      "name": "plot twist",
+      "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
+    },
+    {
+      "album": {
         "name": "POP",
         "url": "https://open.spotify.com/album/1ZMNqhcar5rjEgjWZ6WFv1"
       },
@@ -4341,7 +4377,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 182346,
       "name": "Right Now (Feat. Crush)",
       "url": "https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11"
@@ -4431,7 +4467,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 179373,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df"
@@ -4866,6 +4902,24 @@
     },
     {
       "album": {
+        "name": "Giggles",
+        "url": "https://open.spotify.com/album/38nM2l54T2K0sr7OJAoffP"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199136,
+      "name": "Shower Song",
+      "url": "https://open.spotify.com/track/345fxKqJCqWeQk5kuc7eKs"
+    },
+    {
+      "album": {
         "name": "I wanna be your deepest heart",
         "url": "https://open.spotify.com/album/7INMtslivPf4Op0LaJ8X6T"
       },
@@ -5223,6 +5277,24 @@
       "duration_ms": 237532,
       "name": "Still love (feat. SO HYUN)",
       "url": "https://open.spotify.com/track/1DXtneuKeU3pfxhBTHrTr5"
+    },
+    {
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/1XOdt7of67I6i0m3UNHaEF"
+      },
+      "artists": [
+        {
+          "name": "Weeekly",
+          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169080,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/3lWNov4VlzcBZPLRgYFcHZ"
     },
     {
       "album": {
@@ -5808,6 +5880,24 @@
     },
     {
       "album": {
+        "name": "Un: SEEN",
+        "url": "https://open.spotify.com/album/6lPOFQarc48hDHdFYcVdzQ"
+      },
+      "artists": [
+        {
+          "name": "EVNNE",
+          "url": "https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201120,
+      "name": "UGLY",
+      "url": "https://open.spotify.com/track/3p5SJW1Jb4EvSEXrpShQzm"
+    },
+    {
+      "album": {
         "name": "In the Rain",
         "url": "https://open.spotify.com/album/5gfpmmyrpKjXeiVrd4ZQmH"
       },
@@ -5867,7 +5957,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 182148,
       "name": "UNFORGIVEN (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
@@ -5925,6 +6015,24 @@
       "duration_ms": 192026,
       "name": "Up!",
       "url": "https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1"
+    },
+    {
+      "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/0vLPfdVh9YuLudvHRRqXeD"
+      },
+      "artists": [
+        {
+          "name": "POW",
+          "url": "https://open.spotify.com/artist/3aycZMYDTnN0trM2XnTI4Y"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164083,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/7soqW0C2hCCblU402zUalw"
     },
     {
       "album": {
@@ -6232,6 +6340,24 @@
     },
     {
       "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/2CEtkvdTUlrdXn93Whpzr2"
+      },
+      "artists": [
+        {
+          "name": "Ash-B",
+          "url": "https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180893,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/32rfwDhSWTWp5xAIa36B72"
+    },
+    {
+      "album": {
         "name": "INSIDE US",
         "url": "https://open.spotify.com/album/1qnoKqr14E0DWdcYcZSW4m"
       },
@@ -6247,6 +6373,24 @@
       "duration_ms": 204992,
       "name": "With U",
       "url": "https://open.spotify.com/track/1rZsc6Aob7PySzwhdBYnD5"
+    },
+    {
+      "album": {
+        "name": "INSIDE OUT",
+        "url": "https://open.spotify.com/album/791UCNthor64Y8rgUk8UaL"
+      },
+      "artists": [
+        {
+          "name": "SEOLA",
+          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192226,
+      "name": "Without U",
+      "url": "https://open.spotify.com/track/4I8UOVsfrrR1rwD5NSRLlD"
     },
     {
       "album": {

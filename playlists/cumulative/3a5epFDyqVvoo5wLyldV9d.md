@@ -4,7 +4,7 @@
 
 > 
 
-747 songs - 2 day 9 hr 56 min
+748 songs - 2 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -744,6 +744,7 @@
 | [ザ・ワード II](https://open.spotify.com/track/3OCxOUUH3FUf8xk0RuWADJ) | [セキトオ・シゲオ](https://open.spotify.com/artist/4fP5zCJRf168wiWHG9tR9m) | [華麗なるエレクトーン \-ザ・ワード\-](https://open.spotify.com/album/2rwQ71x5mXHX162ce5ypy7) | 3:03 | 2019-12-15 |  |
 | [ジョハナスバーグ \- 2012 Remaster](https://open.spotify.com/track/0V57cVCVlaU9vXIUBlQdg2) | [Junko Yagami](https://open.spotify.com/artist/6ooFYQBSq3sFEipwHfw5gr) | [コミュニケーション \(+3, 2012 Remaster\)](https://open.spotify.com/album/5yTy8ckBM2ZfdoE98snIYW) | 5:10 | 2022-09-23 |  |
 | [パームサンデー](https://open.spotify.com/track/5tDf33JbOJW8y8YK5ou83e) | [ぬいぐるみクレヨン Lush Crayon](https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe) | [本物のオリジナル](https://open.spotify.com/album/28V2Db535PKuDX3yeHm6No) | 1:05 | 2023-11-24 |  |
+| [プラスティック・バンブー](https://open.spotify.com/track/25uY66kafpxMsuOkjwC9Vl) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [フェイヴァリット・ヴィジョンズ](https://open.spotify.com/album/1DzapgwUNFMJTNtyLtzhTJ) | 6:31 | 2024-01-27 |  |
 | [ボラーレ](https://open.spotify.com/track/3L8aQMfWwafy66OHyAXRJK) | [高橋ユキヒロ](https://open.spotify.com/artist/0pkyrLngibQ5r4jqB08mH4) | [サラヴァ!](https://open.spotify.com/album/3R9KTFDBhl6SMgvOsObKUb) | 2:29 | 2022-02-28 |  |
 | [処女航海](https://open.spotify.com/track/2sgeR4J7gQwSZwfgtvVbQj) | [セキトオ・シゲオ](https://open.spotify.com/artist/4fP5zCJRf168wiWHG9tR9m) | [華麗なるエレクトーン \-サマータイム\-](https://open.spotify.com/album/5STN9WkizILrlz9TmpNJkI) | 6:58 | 2021-06-07 |  |
 | [夢中人](https://open.spotify.com/track/1SGPQAdXXDbcRX8kGoBiN3) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [傳奇 \- 胡思亂想](https://open.spotify.com/album/5FhKi7rkSdgJhQeNEmNPje) | 4:21 | 2020-07-23 |  |

@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Yumewanaii\(유명한아이\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-667 songs - 1 day 12 hr 12 min
+668 songs - 1 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -578,7 +578,7 @@
 | [The Truman Show](https://open.spotify.com/track/0cVZgBitnJJaOTviugscS3) | [YunB](https://open.spotify.com/artist/2Z7teNgQJnz6qUp8FmhEtG), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [Show Me the Money 8 Episode 3](https://open.spotify.com/album/4xPKZgTlCRLRVzYFctyhZ7) | 3:23 | 2022-07-24 | 2022-07-28 |
 | [the way you move](https://open.spotify.com/track/6V63olQ6UOmPqRgcO0bEcb) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [pool vol\. 1 \- the way you move](https://open.spotify.com/album/6qqLPbX9JdQmfia6WPMKdM) | 2:29 | 2023-02-15 | 2023-04-24 |
 | [Think \(feat\. Jay Park\)](https://open.spotify.com/track/1CXFpNn6Zry8QziDpz7wC9) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Think](https://open.spotify.com/album/10YUSQwsDYah4Bi7E33jUA) | 3:51 | 2022-11-22 | 2023-09-19 |
-| [Think \(feat\. Jay Park\)](https://open.spotify.com/track/79NQUQKBKrCUlBGdpGszhq) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Think \(feat\. Jay Park\)](https://open.spotify.com/album/26kUYOFHxASZTDjvse7xmz) | 3:51 | 2024-01-08 |  |
+| [Think \(feat\. Jay Park\)](https://open.spotify.com/track/79NQUQKBKrCUlBGdpGszhq) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Think \(feat\. Jay Park\)](https://open.spotify.com/album/26kUYOFHxASZTDjvse7xmz) | 3:51 | 2024-01-08 | 2024-01-28 |
 | [Thinkin About You \(Feat\. INO\)](https://open.spotify.com/track/2tOHUm2VSBa5aMgo5pIYem) | [DJ Juice](https://open.spotify.com/artist/0bJKaJ5AdUz5nDFDRGfKPJ), [INO](https://open.spotify.com/artist/4xRr0YW5BltFbZGEwliT79) | [Thinkin About You](https://open.spotify.com/album/58L2gm73knHBL66btgBKGC) | 3:16 | 2022-05-28 | 2022-05-30 |
 | [thirst](https://open.spotify.com/track/7kyupZQftQDUUxlATGGmOe) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [DPR ARCHIVES](https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw) | 2:37 | 2022-04-01 | 2022-07-28 |
 | [Thirsty \(feat\. oygli\)](https://open.spotify.com/track/2roYVMw7wnl1fr9INRqvWi) | [Lean Lean](https://open.spotify.com/artist/6IprxsitojRXQLHOLyizzb), [Oygli](https://open.spotify.com/artist/0IoC4AySnjJ9c5okTOO8Rk) | [SUNSHINE](https://open.spotify.com/album/5MgqA59cpZMyowGSHHvatc) | 3:10 | 2023-03-22 | 2023-04-07 |
@@ -588,6 +588,7 @@
 | [Tic Tac?](https://open.spotify.com/track/50V9V62d0byssOftbpH0ZK) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [Giggles](https://open.spotify.com/album/38nM2l54T2K0sr7OJAoffP) | 2:15 | 2024-01-23 |  |
 | [Tic Tac?](https://open.spotify.com/track/1xnjwH0oVDptgAhSvnuWq4) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [Tic Tac?](https://open.spotify.com/album/6UzFx8pWnJQm4832lXPfos) | 2:15 | 2024-01-05 | 2024-01-26 |
 | [Tiffany Cartier](https://open.spotify.com/track/1T5xZOx03EqBlU4WcjJFpU) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Fragile](https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe) | 2:21 | 2022-06-09 | 2022-06-26 |
+| [Till I Live](https://open.spotify.com/track/3FTZzX9slo4CSKqHX0GtmB) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [Giggles](https://open.spotify.com/album/38nM2l54T2K0sr7OJAoffP) | 4:27 | 2024-01-23 |  |
 | [Till I Live](https://open.spotify.com/track/41QtqULXM34zXfPkM88Rwm) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [Till I Live](https://open.spotify.com/album/7uZSZnFHoZIGYA5eN9nLbH) | 4:28 | 2023-10-27 | 2024-01-10 |
 | [Till I Live](https://open.spotify.com/track/6mKVMbbmoMDO8DS9hyxhtx) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [Tic Tac?](https://open.spotify.com/album/6UzFx8pWnJQm4832lXPfos) | 4:28 | 2024-01-08 | 2024-01-26 |
 | [TIPSY](https://open.spotify.com/track/6DB2B0oxQTHdV6Q5j7uxRV) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [BUT FOR NOW LEAVE ME ALONE](https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn) | 3:20 | 2023-03-22 | 2023-06-04 |

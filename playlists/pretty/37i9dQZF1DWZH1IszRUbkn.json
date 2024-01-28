@@ -1,12 +1,12 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 49,
+  "num_followers": 60,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDczYWJlMjdmZTUwMDEzOTljMmZkMjI1OGE1YTUxNjI3NzgzYTdl",
+  "snapshot_id": "MCxlMjYwMGI1NTljMGJhMzQ0MGJiMjVmNDNlYzFmOGQyMGFiY2Y4NmNj",
   "tracks": [
     {
       "added_at": "2020-04-27 15:43:16",
@@ -267,22 +267,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "La Granja de Zen\u00f3n Vol. 2",
-        "url": "https://open.spotify.com/album/2VkG1yYDatWC1Avw3eZ1SI"
-      },
-      "artists": [
-        {
-          "name": "El Reino Infantil",
-          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Susanita",
-      "url": "https://open.spotify.com/track/0kzk0Vd1A8ZW16AhR0niJj"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Violetta",
         "url": "https://open.spotify.com/album/6qc5VvjVyBNSMhUHzmG0uK"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 177346,
       "name": "Juntos Somos Mas",
       "url": "https://open.spotify.com/track/0298TR48npXuchmJraLrzF"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "La Granja de Zen\u00f3n Vol. 2",
+        "url": "https://open.spotify.com/album/2VkG1yYDatWC1Avw3eZ1SI"
+      },
+      "artists": [
+        {
+          "name": "El Reino Infantil",
+          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Susanita",
+      "url": "https://open.spotify.com/track/0kzk0Vd1A8ZW16AhR0niJj"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -391,6 +391,38 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
+        "name": "Rondas y Cl\u00e1sicos Infantiles 2",
+        "url": "https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg"
+      },
+      "artists": [
+        {
+          "name": "El Reino Infantil",
+          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
+        }
+      ],
+      "duration_ms": 206186,
+      "name": "El Auto De Pap\u00e1",
+      "url": "https://open.spotify.com/track/66Z2LsDkNBc2rCWTqcOcB6"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Gallina Pintadita, Vol. 1",
+        "url": "https://open.spotify.com/album/2NOcRovINlE1ysJKFUyYXH"
+      },
+      "artists": [
+        {
+          "name": "Gallina Pintadita",
+          "url": "https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq"
+        }
+      ],
+      "duration_ms": 192632,
+      "name": "Mariana",
+      "url": "https://open.spotify.com/track/1omsGCyXOwY4zk6VuhxRuE"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
         "name": "Mejores Amigos",
         "url": "https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl"
       },
@@ -419,22 +451,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Gallina Pintadita, Vol. 1",
-        "url": "https://open.spotify.com/album/2NOcRovINlE1ysJKFUyYXH"
-      },
-      "artists": [
-        {
-          "name": "Gallina Pintadita",
-          "url": "https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq"
-        }
-      ],
-      "duration_ms": 192632,
-      "name": "Mariana",
-      "url": "https://open.spotify.com/track/1omsGCyXOwY4zk6VuhxRuE"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "El Patio de Mi Casa",
         "url": "https://open.spotify.com/album/6N4L3Vt3MeuKk3J0tvm9qN"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 124640,
       "name": "La Cucaracha",
       "url": "https://open.spotify.com/track/7vUU63HyochOSQ8OBvf5uk"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "Rondas y Cl\u00e1sicos Infantiles 2",
-        "url": "https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg"
-      },
-      "artists": [
-        {
-          "name": "El Reino Infantil",
-          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
-        }
-      ],
-      "duration_ms": 206186,
-      "name": "El Auto De Pap\u00e1",
-      "url": "https://open.spotify.com/track/66Z2LsDkNBc2rCWTqcOcB6"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -539,18 +539,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Minidisco 2018 (Espa\u00f1ol Version)",
-        "url": "https://open.spotify.com/album/5Npbvxnl5kx6VnQwmBgr0N"
+        "name": "A cantar",
+        "url": "https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em"
       },
       "artists": [
         {
-          "name": "Minidisco Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/7aNXgkii6Zsi7Otp2MSOiQ"
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
         }
       ],
-      "duration_ms": 143478,
-      "name": "La Familia Dedo",
-      "url": "https://open.spotify.com/track/4YKEh2ULjn9phBPXbiOfhI"
+      "duration_ms": 55376,
+      "name": "Dos ojitos tengo",
+      "url": "https://open.spotify.com/track/5NVfQukFgB2NUo5kEmb328"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -571,18 +571,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "A cantar",
-        "url": "https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em"
+        "name": "Minidisco 2018 (Espa\u00f1ol Version)",
+        "url": "https://open.spotify.com/album/5Npbvxnl5kx6VnQwmBgr0N"
       },
       "artists": [
         {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+          "name": "Minidisco Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/7aNXgkii6Zsi7Otp2MSOiQ"
         }
       ],
-      "duration_ms": 55376,
-      "name": "Dos ojitos tengo",
-      "url": "https://open.spotify.com/track/5NVfQukFgB2NUo5kEmb328"
+      "duration_ms": 143478,
+      "name": "La Familia Dedo",
+      "url": "https://open.spotify.com/track/4YKEh2ULjn9phBPXbiOfhI"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -895,22 +895,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Rondas y Cl\u00e1sicos Infantiles 2",
-        "url": "https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg"
-      },
-      "artists": [
-        {
-          "name": "El Reino Infantil",
-          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Mi Familia",
-      "url": "https://open.spotify.com/track/2bsMa5r165wLPih4iM3uBn"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "24 Horas",
         "url": "https://open.spotify.com/album/3dPdREEhxWnXBcVDcl90Ea"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 132773,
       "name": "Hasta Diez",
       "url": "https://open.spotify.com/track/4vdyMCHuBNWRVPysXZFtsc"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Rondas y Cl\u00e1sicos Infantiles 2",
+        "url": "https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg"
+      },
+      "artists": [
+        {
+          "name": "El Reino Infantil",
+          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Mi Familia",
+      "url": "https://open.spotify.com/track/2bsMa5r165wLPih4iM3uBn"
     },
     {
       "added_at": "2020-04-27 15:43:16",

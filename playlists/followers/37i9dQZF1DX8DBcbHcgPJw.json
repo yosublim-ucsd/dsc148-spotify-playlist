@@ -1,7 +1,7 @@
 {
-  "2024-01-27": 1194369,
+  "2024-01-28": 1192129,
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Roze Oficial & Lauty Gram.",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Marama, DJ Tao, Lauty Gram & Roze Oficial.",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -271,6 +271,40 @@
       "duration_ms": 121500,
       "name": "Ahora Te Puedes Marchar",
       "url": "https://open.spotify.com/track/3eaJ3AT7TTyNRy9h8HdNSD"
+    },
+    {
+      "album": {
+        "name": "Ah\u00ed Ah\u00ed (feat. L-Gante y La T y la M) [Remix]",
+        "url": "https://open.spotify.com/album/5FFJnLghKYOcGmovytmUGy"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Pablo Lescano",
+          "url": "https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253340,
+      "name": "Ah\u00ed Ah\u00ed (feat. L-Gante y La T y la M) - Remix",
+      "url": "https://open.spotify.com/track/1FNdZuZ02FowKC6NrwG9CL"
     },
     {
       "album": {
@@ -633,7 +667,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 130212,
       "name": "Aunque Te Enamores",
       "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
@@ -959,7 +993,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 175909,
       "name": "Cachorro",
       "url": "https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph"
@@ -3352,6 +3386,24 @@
     },
     {
       "album": {
+        "name": "Viernes Random #1",
+        "url": "https://open.spotify.com/album/28NuJLr1HrO5NWIw0VtAPB"
+      },
+      "artists": [
+        {
+          "name": "Marito",
+          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116935,
+      "name": "Hola Perdida",
+      "url": "https://open.spotify.com/track/0CJVxmJwOUFsOTfcSprFNr"
+    },
+    {
+      "album": {
         "name": "Hoy Te Vi",
         "url": "https://open.spotify.com/album/3zTgssC09xvqTyx0P9K55d"
       },
@@ -4117,7 +4169,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 170653,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/6Kk4fza1rX70tVY3ZZcsic"
@@ -4835,7 +4887,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 137727,
       "name": "Martes 13",
       "url": "https://open.spotify.com/track/57q0jUz79o0XeTmN2E15uI"
@@ -6249,6 +6301,32 @@
       "duration_ms": 133750,
       "name": "Pibe Cantina",
       "url": "https://open.spotify.com/track/14P2CPErwCwlRp5HutEZ7i"
+    },
+    {
+      "album": {
+        "name": "Picaflor",
+        "url": "https://open.spotify.com/album/5R2w6f8WdeG04DcQjKhDJ1"
+      },
+      "artists": [
+        {
+          "name": "Flor Vigna",
+          "url": "https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE"
+        },
+        {
+          "name": "El Villano",
+          "url": "https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110771,
+      "name": "Picaflor",
+      "url": "https://open.spotify.com/track/1wEZfd8CB99QIIKHewFZvC"
     },
     {
       "album": {
@@ -8640,6 +8718,28 @@
     },
     {
       "album": {
+        "name": "Tuve Que Archivar Tu Chat",
+        "url": "https://open.spotify.com/album/4Dpd7JuhW5pW6BdqkrZhiC"
+      },
+      "artists": [
+        {
+          "name": "Lauta",
+          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
+        },
+        {
+          "name": "Nehuen Arias",
+          "url": "https://open.spotify.com/artist/5xrxw1uqWrbk8FzgR8g68c"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162797,
+      "name": "Tuve Que Archivar Tu Chat",
+      "url": "https://open.spotify.com/track/0k6oaTU8zkKezHCVcvwwHs"
+    },
+    {
+      "album": {
         "name": "T\u00edpico (Tu Histeriqueo)",
         "url": "https://open.spotify.com/album/67X3TLwyIELvJZqqBDRxHl"
       },
@@ -8855,6 +8955,36 @@
       "duration_ms": 135157,
       "name": "UNA CUMBITA",
       "url": "https://open.spotify.com/track/3GpnVe55oNyrjtrKy8ZMQJ"
+    },
+    {
+      "album": {
+        "name": "Una Noche Contigo (Remix)",
+        "url": "https://open.spotify.com/album/6pmDtvsP7z9oqgSxgBVR8y"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Una Noche Contigo - Remix",
+      "url": "https://open.spotify.com/track/0Xbz33Mggb4NV2A1vabjJx"
     },
     {
       "album": {
@@ -9103,7 +9233,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-27",
       "duration_ms": 133894,
       "name": "Verano Pasado",
       "url": "https://open.spotify.com/track/7Jin5x96XaXowvaqixYBWw"
