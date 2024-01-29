@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Sid Dorey\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,180,523 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,180,525 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [living in the 90s](https://open.spotify.com/track/1tc5LvUV85Pcc5zxaZUjER) | [tiger del flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [living in the 90s](https://open.spotify.com/album/0bGxn1bHAb5ivzLyK9OjpD) | 3:11 |
 | 100 | [Egocentric](https://open.spotify.com/track/3N43TUERvQtxQsNA5FFvPT) | [Tara Flanagan](https://open.spotify.com/artist/4FTxQPJkalbHR0mwDJSvbi) | [Egocentric](https://open.spotify.com/album/6yZQzb3Rr7QnZdXeNK96xK) | 3:10 |
 
-Snapshot ID: `MCwyYjUyZmYzMThkOGZiY2RmM2E3Y2FlNzc3MWU1ZjgyMjhjNTdmNzYx`
+Snapshot ID: `MCwyNGRhOWY4NDVkYTJiNzVjNTlkNzNhMTE4ODFjNDVjZjA5NjAwY2U4`

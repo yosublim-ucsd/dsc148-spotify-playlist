@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-383 songs - 22 hr 2 min
+384 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,8 @@
 | [Lion](https://open.spotify.com/track/6HxrWdubqLT6aE0J0fyZSB) | [O$VMV$M](https://open.spotify.com/artist/3IKWb28rlILm12AKNX8Nq4), [Rider Shafique](https://open.spotify.com/artist/3Q0LSoV64A2FTwAFCzyDyq) | [Lion](https://open.spotify.com/album/2pHut8GcEosOMI0JkP7XJa) | 3:23 | 2023-10-24 |  |
 | [Little Vibey Thing](https://open.spotify.com/track/2ESLxzqj6HB6QGdCoEJbNK) | [Conrad Subs](https://open.spotify.com/artist/62Vn4DolLwSkkSS4fEXKLH) | [Tides LP](https://open.spotify.com/album/5UVRNQrXNRJz8P4VJIpdOW) | 4:46 | 2022-02-04 | 2023-10-25 |
 | [Live Good](https://open.spotify.com/track/1jkX2QsH9Hpn57gBoFluda) | [Ethan Mark](https://open.spotify.com/artist/20ZHmYNQXa3NoerXEAADpl) | [Skin to Skin](https://open.spotify.com/album/5afB1fS5lPw6ZMl7ty0BWw) | 2:18 | 2022-02-04 | 2022-10-28 |
-| [Live Some Life \(feat\. DING DONG\)](https://open.spotify.com/track/35MNHqBGewFxlJZtjHOxvj) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Live Some Life \(feat\. DING DONG\)](https://open.spotify.com/album/3SwPKWhYOkIGL3AF0CC6sY) | 3:05 | 2022-12-05 |  |
+| [Live Some Life](https://open.spotify.com/track/4d3fU25k4ChNL3JQ8dmJ8n) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Live Some Life](https://open.spotify.com/album/5EM6i3JoeKaGKHr3yPeQPY) | 3:05 | 2023-10-24 |  |
+| [Live Some Life \(feat\. DING DONG\)](https://open.spotify.com/track/35MNHqBGewFxlJZtjHOxvj) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Live Some Life \(feat\. DING DONG\)](https://open.spotify.com/album/3SwPKWhYOkIGL3AF0CC6sY) | 3:05 | 2022-12-05 | 2024-01-29 |
 | [Living For](https://open.spotify.com/track/03LB8fHbPRvl4MygY4bHcZ) | [Ethan Mark](https://open.spotify.com/artist/20ZHmYNQXa3NoerXEAADpl), [Chara Kai\-Le](https://open.spotify.com/artist/0S6PVCIrYIIr2nmdaVTg3n) | [Living For](https://open.spotify.com/album/4AkYY2aJTl2PzydT86Nmmo) | 2:26 | 2023-03-08 |  |
 | [Lonely](https://open.spotify.com/track/0WRfCxwrL7MKCNKNa8KGAQ) | [D'Cruze](https://open.spotify.com/artist/5jTjgHoQanj6Mo3vNJk66S) | [Lonely / Chronic Breaks](https://open.spotify.com/album/2b55QpHI3SDGCnsMlkQfGK) | 5:14 | 2022-02-04 | 2022-10-28 |
 | [Lose Ya Mind ft Aleisha Lee](https://open.spotify.com/track/6RVOJNTrEXOlecsUPCaOG5) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Aleisha Lee](https://open.spotify.com/artist/0A4gPcMJUMuH8wjgMl9Dij) | [Perception](https://open.spotify.com/album/52ZsESTtVx9GWBVQK1rE00) | 4:26 | 2022-02-04 | 2023-10-25 |

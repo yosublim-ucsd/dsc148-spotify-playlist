@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Justice & TAME IMPALA, Justin Timberlake, James Arthur, 緑黄色社会 and more! Cover: Justice & TAME IMPALA
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,228 likes - 78 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,249 likes - 78 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 74 | [81 Tonnes](https://open.spotify.com/track/45X2Oew48LzoTigtwQ5axt) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [81 Tonnes](https://open.spotify.com/album/3g1RYqFhHKypcYSibeWFoS) | 4:00 |
 | 75 | [Rocket Science](https://open.spotify.com/track/6mbeLmisQkm2lyAbinPunm) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Rocket Science / You Don’t Love Me](https://open.spotify.com/album/23BaWTGCVFzPqnJ6BGVDcZ) | 3:27 |
 | 76 | [They Sold My Home To Build A Skyscraper](https://open.spotify.com/track/26M0qUTcJfYhw2T8SeTAiL) | [Gruff Rhys](https://open.spotify.com/artist/0dLSQG3IV62UNVhWUe6mx6) | [Sadness Sets Me Free](https://open.spotify.com/album/3qpQSTi0YJFDoWom0wGIOT) | 3:04 |
-| 77 | [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/4o6BNrTOcajYSCAFkqL71c) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Yussef Dayes Experience \- Live From Malibu](https://open.spotify.com/album/5gohS1223mJrzBVQzakpjm) | 4:08 |
+| 77 | [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/65lKgD4JnUU5EYaqMly9T6) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Yussef Dayes Experience \(Live From Malibu\)](https://open.spotify.com/album/3PGNm2ibnsl8rldfXjQ1wB) | 4:08 |
 | 78 | [Txera](https://open.spotify.com/track/2FYaO6gwoQeR0UlemcfkvW) | [Fabiano do Nascimento](https://open.spotify.com/artist/5GNLaaEOwaEaXJfK7XnD8j), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [The Room](https://open.spotify.com/album/6hjgspe4lt2y1hiRyCtSHp) | 2:29 |
 
-Snapshot ID: `MCwxMTFiZWM1NjdhNjY5MGYyZjZmMWJlOGQyNDkyY2E3ODFiODIzYzFk`
+Snapshot ID: `MCw5NmM2ZGE3NWEyYjRmODRjMzZkYzVkMjcxNDA5ZGI3NmM4YzA2Njhk`

@@ -1,12 +1,12 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 65879,
+  "num_followers": 65924,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTAyMDBmYmU1MGQ2OGIwM2ZkMDdmYzhiMGQ2ODdhOTU2MmFiMDBj",
+  "snapshot_id": "MCxjOWE4ZjVkMTM4ZTA2MDQ1MmRmN2Y1NzFjZTcwNmZiOTkxMGY1YjRi",
   "tracks": [
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1663,18 +1663,22 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Sauce",
-        "url": "https://open.spotify.com/album/0J3ZUsihPAvYKEzuOhoVF7"
+        "name": "Calathea",
+        "url": "https://open.spotify.com/album/70bgkmeqNXZLB4xJ7u8Dp4"
       },
       "artists": [
         {
           "name": "Ruth de las Plantas",
           "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
         }
       ],
-      "duration_ms": 168549,
-      "name": "Sauce",
-      "url": "https://open.spotify.com/track/0HSJcMdGPoPJ0X8fJ5tEM8"
+      "duration_ms": 153600,
+      "name": "Calathea",
+      "url": "https://open.spotify.com/track/6xliZhP2fmbkKCa3KaYB3p"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1711,22 +1715,18 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Calathea",
-        "url": "https://open.spotify.com/album/70bgkmeqNXZLB4xJ7u8Dp4"
+        "name": "Sauce",
+        "url": "https://open.spotify.com/album/0J3ZUsihPAvYKEzuOhoVF7"
       },
       "artists": [
         {
           "name": "Ruth de las Plantas",
           "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Calathea",
-      "url": "https://open.spotify.com/track/6xliZhP2fmbkKCa3KaYB3p"
+      "duration_ms": 168549,
+      "name": "Sauce",
+      "url": "https://open.spotify.com/track/0HSJcMdGPoPJ0X8fJ5tEM8"
     },
     {
       "added_at": "2023-06-15 16:40:57",

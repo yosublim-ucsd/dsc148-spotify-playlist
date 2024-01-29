@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > Music from Drake, 21 Savage, Kid Cudi and Travis Scott.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,608,374 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,618,449 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [Beep Beep \(feat\. 50 Cent\)](https://open.spotify.com/track/6Hn4RAq9DerZedTzgyCgvC) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Beep Beep](https://open.spotify.com/album/5R6AzRUZMA5j38lpgrQ388) | 2:27 |
 | 50 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 |
 
-Snapshot ID: `MCxjZWNlMGE5ZTBjNWI4MjViMzQ5MjI1ZjJmMWM0OTIyNjM3ZGQyOTcz`
+Snapshot ID: `MCw1MzgyMzY2YzkzOGE4ODBmYzA4ZGYyZjAwZWVkYzY2NTNlYTI1Nzhi`

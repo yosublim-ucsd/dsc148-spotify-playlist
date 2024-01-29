@@ -181,7 +181,7 @@
 | [Il mio cuore brucia per te](https://open.spotify.com/track/2Wvu8d2R1Ish33Jl67JEdI) | [Oddo Fava](https://open.spotify.com/artist/3DbqhQZ1BfpxozIDPMjZDd) | [Il mio cuore brucia per te](https://open.spotify.com/album/65YsTIbDwGwTGVxGjpDMvy) | 2:10 | 2023-03-10 |  |
 | [Impressions](https://open.spotify.com/track/2IxfYyUQFZWoopvcfOmKnV) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Impressions](https://open.spotify.com/album/319m1F9IJTZ6ups51e1m4N) | 2:43 | 2023-03-10 |  |
 | [Improbability Solitaire](https://open.spotify.com/track/6v7O54WyQiQVj8kWLHFcu4) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [Improbability Solitaire](https://open.spotify.com/album/3mpGajmrRWwaWkREBaHrt8) | 2:31 | 2023-03-10 |  |
-| [In Absentia](https://open.spotify.com/track/4JCgdyOYbYasqg1NWLEAnd) | [Ximena Lopez](https://open.spotify.com/artist/0xYM56zKh0cqSMVSAkqg0P) | [In Absentia](https://open.spotify.com/album/0KAYnnWgnaqGwLIHljAdkT) | 2:59 | 2023-10-10 | 2023-10-17 |
+| [In Absentia](https://open.spotify.com/track/4JCgdyOYbYasqg1NWLEAnd) | [Ximena Lopez](https://open.spotify.com/artist/0xYM56zKh0cqSMVSAkqg0P) | [In Absentia](https://open.spotify.com/album/0KAYnnWgnaqGwLIHljAdkT) | 2:59 | 2023-10-10 |  |
 | [In Bloom](https://open.spotify.com/track/6UBUNOxmO5HloYRN3y4PPr) | [Józef Gatysik](https://open.spotify.com/artist/4k0n9qZSgE1HVExw9b2T9j) | [In Bloom](https://open.spotify.com/album/3YfYjGlD2ZGO5DEcgs3QOj) | 2:48 | 2023-03-10 |  |
 | [In Motion](https://open.spotify.com/track/2mUnKFrk4ar3L5Ad8t5T1u) | [Richard Mahees](https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5) | [Abstractions](https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2) | 2:13 | 2023-03-10 |  |
 | [In Qualsiasi Momento](https://open.spotify.com/track/19UBwInMQqv987LmQdvu6I) | [Gionata Accursio](https://open.spotify.com/artist/5xz3FUiqpxBD1z2u6SPx09) | [In Qualsiasi Momento](https://open.spotify.com/album/2eOVzvYDY3OHTeta59uCMQ) | 2:44 | 2023-03-10 |  |
@@ -480,6 +480,6 @@
 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 | 2023-03-10 |  |
 | [Your Own Kind](https://open.spotify.com/track/3V6ocwEhy5BD9rpzrLFXfn) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Your Own Kind](https://open.spotify.com/album/1WV5E90TCHTaGKRYU9QfoH) | 1:54 | 2023-03-10 | 2023-10-11 |
 | [Zadar](https://open.spotify.com/track/0LOaCUBNsulgH8qEHH7Y4O) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Zadar](https://open.spotify.com/album/3pudp0e767UMQu6w1DWzfz) | 2:03 | 2023-03-10 |  |
-| [Zarah](https://open.spotify.com/track/28vLvC18x4OjW9pNmlsO0x) | [Nicola Casalino](https://open.spotify.com/artist/3yfPBQP1jcsBr5LNlbipBR) | [Volatile](https://open.spotify.com/album/7yrDD8D5wJzMWnfkUXpjcG) | 3:28 | 2023-10-10 |  |
+| [Zarah](https://open.spotify.com/track/28vLvC18x4OjW9pNmlsO0x) | [Nicola Casalino](https://open.spotify.com/artist/3yfPBQP1jcsBr5LNlbipBR) | [Volatile](https://open.spotify.com/album/7yrDD8D5wJzMWnfkUXpjcG) | 3:28 | 2023-10-10 | 2024-01-29 |
 
 \*This playlist was first scraped on 2023-09-08. Prior content cannot be recovered.

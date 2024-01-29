@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > open the pit\. cover: Scowl
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,346 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,394 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 99 | [Teeth of Wolves](https://open.spotify.com/track/7LwlqPgjtM72PJVIwIUYeP) | [BITE THE HAND](https://open.spotify.com/artist/1niXxbnUc8pJ3DIBxV8KXg) | [Down Comes the Bay](https://open.spotify.com/album/6z9kejZ3MPWyLzuinXVMvU) | 2:22 |
 | 100 | [Apology Denied](https://open.spotify.com/track/4MzCYwWHfleM9HORAQNNbB) | [Bad Blood](https://open.spotify.com/artist/3IBbnAgFWe1zOEuoNS8n53) | [Apology Denied](https://open.spotify.com/album/5HEZd6pZmeCNT2Cn4PcA2G) | 2:21 |
 
-Snapshot ID: `MCwzNzUxMTI5M2YxYzAwNThmMmU3MzkxNmEyMzVhYjY3NDRhNDRlMWYy`
+Snapshot ID: `MCwxMjk2NzFlMzQ5ZWVmNGVkYjdiOGE3NDg4MmNkZTM1ZWNlMjc0NjZl`

@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 246756,
+  "num_followers": 246825,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjE5NGQ2NDQzZTExOGFkZDY1NjlkMDZiZmRhMWYwYjNmOWQyNjcz",
+  "snapshot_id": "MCwxNDc4MGIwYTFiMzg0YmU4NGY0MGM2N2VjOGIyZWFiYjYxZmM1OTlj",
   "tracks": [
     {
       "added_at": "2020-01-07 15:31:11",
@@ -331,22 +331,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Pleasure & Pain",
-        "url": "https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F"
-      },
-      "artists": [
-        {
-          "name": "Dr. Hook",
-          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
-        }
-      ],
-      "duration_ms": 174533,
-      "name": "Sharing The Night Together",
-      "url": "https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 218040,
       "name": "Little Lies",
       "url": "https://open.spotify.com/track/08o75xMKmGrKny6GsXrNJW"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Pleasure & Pain",
+        "url": "https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F"
+      },
+      "artists": [
+        {
+          "name": "Dr. Hook",
+          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
+        }
+      ],
+      "duration_ms": 174533,
+      "name": "Sharing The Night Together",
+      "url": "https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -427,22 +427,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Pretzel Logic",
-        "url": "https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 272946,
-      "name": "Rikki Don't Lose That Number",
-      "url": "https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Longer Fuse",
         "url": "https://open.spotify.com/album/0dQK7dydGZY4UPL87P3YhW"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 252693,
       "name": "Sometimes When We Touch",
       "url": "https://open.spotify.com/track/1nAexCn3dPoFSmE7h6P5S7"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Pretzel Logic",
+        "url": "https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 272946,
+      "name": "Rikki Don't Lose That Number",
+      "url": "https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Late for the Sky (Remastered)",
-        "url": "https://open.spotify.com/album/0aiTqo8YZI0dKDgcCnkkzP"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 412082,
-      "name": "Fountain of Sorrow - Remastered",
-      "url": "https://open.spotify.com/track/2U2EMuFyUk5LYMPlMUpOxM"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "The Best Of The Alessi Brothers",
         "url": "https://open.spotify.com/album/1WABgS1g9NMV8cpwDS4aDY"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Release",
-        "url": "https://open.spotify.com/album/5KoWyVRECXH3IYrGuF4oza"
+        "name": "Late for the Sky (Remastered)",
+        "url": "https://open.spotify.com/album/0aiTqo8YZI0dKDgcCnkkzP"
       },
       "artists": [
         {
-          "name": "Henry Gross",
-          "url": "https://open.spotify.com/artist/3u2E9OhKS2vkxi08itc25a"
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
         }
       ],
-      "duration_ms": 233676,
-      "name": "Shannon",
-      "url": "https://open.spotify.com/track/4IYoyOVK9oQyJS1QZt5Vyj"
+      "duration_ms": 412082,
+      "name": "Fountain of Sorrow - Remastered",
+      "url": "https://open.spotify.com/track/2U2EMuFyUk5LYMPlMUpOxM"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -1223,6 +1207,22 @@
       "duration_ms": 307466,
       "name": "Imaginary Lover",
       "url": "https://open.spotify.com/track/3qxBN4nWvSDibXmEq5of9E"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/5KoWyVRECXH3IYrGuF4oza"
+      },
+      "artists": [
+        {
+          "name": "Henry Gross",
+          "url": "https://open.spotify.com/artist/3u2E9OhKS2vkxi08itc25a"
+        }
+      ],
+      "duration_ms": 233676,
+      "name": "Shannon",
+      "url": "https://open.spotify.com/track/4IYoyOVK9oQyJS1QZt5Vyj"
     },
     {
       "added_at": "2020-01-07 15:31:11",

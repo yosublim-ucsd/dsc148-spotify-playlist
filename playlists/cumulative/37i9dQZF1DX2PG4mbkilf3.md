@@ -4,7 +4,7 @@
 
 > This is R&B in Canada\. Elevate your aura with Chikoruss.
 
-912 songs - 2 day 0 hr 5 min
+913 songs - 2 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,8 +407,9 @@
 | [Jupiter & Mars](https://open.spotify.com/track/1BTECTa3NituN8LqXjrw2B) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/6IgkZ5qys4BMo6X1iFYIBU) | 3:16 | 2022-04-22 | 2022-06-25 |
 | [JUS KNOW \(feat\. Travis Scott\)](https://open.spotify.com/track/1pg2gguxmrrD4rYUeRSmGj) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 4:21 | 2023-09-22 | 2023-10-07 |
 | [just a call away \(feat\. Lafa Taylor & Mr\. Carmack\)](https://open.spotify.com/track/72ixJIhUCZMwIw0Ooxoqoe) | [the della kit](https://open.spotify.com/artist/7iizvwAcI4QI2haMM6mM1q), [Lafa Taylor](https://open.spotify.com/artist/0j0HBDnIuT6rsn840ec18A), [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn) | [just a call away \(feat\. Lafa Taylor & Mr\. Carmack\)](https://open.spotify.com/album/5R2FS8nANdM0gH541mvF8n) | 3:31 | 2022-05-06 | 2022-07-30 |
-| [JUST LIKE CANDY](https://open.spotify.com/track/2F67eoAIARJ6E9FdhoxOYV) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [JUST LIKE CANDY](https://open.spotify.com/album/4naBKZx2cng8JXWnLZ8LE3) | 2:40 | 2024-01-19 |  |
+| [JUST LIKE CANDY](https://open.spotify.com/track/2F67eoAIARJ6E9FdhoxOYV) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [JUST LIKE CANDY](https://open.spotify.com/album/4naBKZx2cng8JXWnLZ8LE3) | 2:40 | 2024-01-19 | 2024-01-29 |
 | [JUST LIKE CANDY](https://open.spotify.com/track/2HGMJumlVE3cN88AT3q9F9) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [JUST LIKE CANDY](https://open.spotify.com/album/3R6AG9fnGJeF2odxFzHhS1) | 2:40 | 2023-10-06 | 2024-01-26 |
+| [JUST LIKE CANDY](https://open.spotify.com/track/6XG3FOWMN4AOvQoxVoLUI7) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [HARTTBREAK / am I enough?](https://open.spotify.com/album/1ROUWJo8rgIAEt6pm34ToK) | 2:40 | 2024-01-26 |  |
 | [Just My Type](https://open.spotify.com/track/18PRCgb3j81aaoETWbvbzR) | [Becca Tg](https://open.spotify.com/artist/0AKk93IMKx5QgX2cuofvlw), [Lowgo](https://open.spotify.com/artist/3KqP7d4TwVfuAZIeRMxen4) | [Just My Type](https://open.spotify.com/album/4h0q6MWu94hJA0UazZJSWv) | 2:44 | 2023-09-22 | 2024-01-13 |
 | [Just Say It \(feat\. Johnny Yukon\)](https://open.spotify.com/track/7MJMR1MtGCk0RFZlkeKhGI) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F), [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Just Say It \(feat\. Johnny Yukon\)](https://open.spotify.com/album/0MDI5CLeDpW0nnjA4HEvji) | 2:25 | 2023-02-03 | 2023-03-04 |
 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-21 |  |

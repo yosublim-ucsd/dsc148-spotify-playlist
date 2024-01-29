@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: Quantic
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,336 likes - 68 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,418 likes - 68 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 8 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 9 | [Love the Mystery \- Radio Edit](https://open.spotify.com/track/2Pz0KXAVTupriGxk9rT42n) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Love the Mystery](https://open.spotify.com/album/3rHgk8sOOo0Kh5bX0Oqjs5) | 3:44 |
 | 10 | [Sweet Talking Honeys \(feat\. Max Tuohy\)](https://open.spotify.com/track/1aa6C8kTiQCjHulkxmMTbM) | [Nothing But Funk](https://open.spotify.com/artist/32RSzgTDqApMWHr6tLNLBF), [Max Tuohy](https://open.spotify.com/artist/6ll2ZlFzEpHh6WKZhXatK8) | [Sweet Talking Honeys \(feat\. Max Tuohy\)](https://open.spotify.com/album/1hso95vrFE15sn24uzWBum) | 3:32 |
-| 11 | [Give Me a Reason](https://open.spotify.com/track/4UUYZvP9SmlyjZ3i70YuMW) | [The Tibbs](https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw) | [Give Me a Reason](https://open.spotify.com/album/4GFJwiUQw3nixYf2jzDQVw) | 2:58 |
+| 11 | [Give Me a Reason](https://open.spotify.com/track/6H4uvuMnonERh5DucTznYq) | [The Tibbs](https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw) | [Keep It To Yourself](https://open.spotify.com/album/5tB3tjThhawiGBwASIEXjr) | 2:58 |
 | 12 | [Some Of Us Are Brave](https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn) | 3:53 |
 | 13 | [Favorite Thing to Do](https://open.spotify.com/track/2CvrLqKWl77sjcg608A1xW) | [Terry Hunter](https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [Favorite Thing to Do](https://open.spotify.com/album/2jtnBkj4zEknJH95VeO7kM) | 3:35 |
 | 14 | [Sleeper](https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Sleeper](https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD) | 4:04 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 23 | [Hideaway](https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Hideaway](https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG) | 4:19 |
 | 24 | [Hold On](https://open.spotify.com/track/2Wr8VlaALAoCINplD16qwh) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [Hold On](https://open.spotify.com/album/0cLxZPKM7QjIItprbOw2E4) | 3:28 |
 | 25 | [Loves Me Not](https://open.spotify.com/track/1lkpAjIs0tnD7vKIbJPycT) | [Nia Wyn](https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH) | [Loves Me Not](https://open.spotify.com/album/44r88qiS1bWVpciRKe23mV) | 2:37 |
-| 26 | [Ain't It Funny](https://open.spotify.com/track/2XFYO0Tp9nQ470T8x7KpLA) | [The Tibbs](https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw) | [Ain't It Funny](https://open.spotify.com/album/0CxV9DAx08JuoR38aTKJj8) | 3:19 |
+| 26 | [Ain't It Funny](https://open.spotify.com/track/6ToyjrRZI3n7pgnhgr0gst) | [The Tibbs](https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw) | [Keep It To Yourself](https://open.spotify.com/album/5tB3tjThhawiGBwASIEXjr) | 3:19 |
 | 27 | [Human](https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:20 |
 | 28 | [Made Up Your Mind](https://open.spotify.com/track/7y9MSDTGKQphbjLE0pL8OZ) | [MT Jones](https://open.spotify.com/artist/0DLNLJyVZ55oPrSrsbiD5m) | [Made Up Your Mind](https://open.spotify.com/album/1OIJ6gRVd4Ez5oF16f2Awk) | 3:19 |
 | 29 | [Keep Your Head Up](https://open.spotify.com/track/2kHVK2I4FpaI48ZRAlmNTc) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Keep Your Head Up](https://open.spotify.com/album/71P3ASFixQCXfE4S7XYYFb) | 2:59 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 67 | [You Can Count On Me](https://open.spotify.com/track/63zB2o0u28X046oIFO2ou1) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Waiting on the Sidelines](https://open.spotify.com/album/5kABgENIqXOEWtN3o6rcPn) | 4:09 |
 | 68 | [Might Just Make It](https://open.spotify.com/track/0jRcaxm19oxnlKBbEucjZm) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Might Just Make It](https://open.spotify.com/album/74rexr4XjvEjgOVHmFH0ow) | 4:29 |
 
-Snapshot ID: `MCwzODkxNzg4MzQyOGQxYzEzMGZiY2Y4YTkxMTEwYzMwMmY0Zjc4YjUw`
+Snapshot ID: `MCxjOTZkODBkMTMzN2IzMWUxMWUyMGMwZmJiNzc0YjBiNGY3NDJlYTUz`

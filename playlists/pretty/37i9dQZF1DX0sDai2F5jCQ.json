@@ -1,63 +1,15 @@
 {
   "description": "Hip-Hop's hottest from Australia, New Zealand and beyond. Cover: Skepta",
-  "num_followers": 437744,
+  "num_followers": 437681,
   "original_name": "A1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODYwOTcwMjUxNmMxOGU5ZjE4ZTIzYjkzMTBmN2Y5NWE5ZWIxMzI5",
+  "snapshot_id": "MCxiOWFhZTE4YWVjOTBmY2JkNWE1YmZhZTIxZGMyZjliYmM2NjdiMzFm",
   "tracks": [
     {
-      "added_at": "2024-01-26 11:46:23",
-      "album": {
-        "name": "Statistic",
-        "url": "https://open.spotify.com/album/2hbb8uAn508T2KtLdaLFGO"
-      },
-      "artists": [
-        {
-          "name": "Kobie Dee",
-          "url": "https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO"
-        }
-      ],
-      "duration_ms": 185969,
-      "name": "Statistic",
-      "url": "https://open.spotify.com/track/1oNCGrtyBeljG6xovZfa6m"
-    },
-    {
-      "added_at": "2024-01-26 11:46:23",
-      "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 270697,
-      "name": "redrum",
-      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
-    },
-    {
-      "added_at": "2024-01-26 11:46:23",
-      "album": {
-        "name": "Think U The Sh*t (Fart)",
-        "url": "https://open.spotify.com/album/6KHoc2lBi1kfzqifbY66V6"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 141639,
-      "name": "Think U The Sh*t (Fart)",
-      "url": "https://open.spotify.com/track/5xcj5a0RKC2s5PIs1FcXOu"
-    },
-    {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Gas Me Up (Diligent)",
         "url": "https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn"
@@ -73,23 +25,7 @@
       "url": "https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
-      "album": {
-        "name": "HISS",
-        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 192818,
-      "name": "HISS",
-      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
-    },
-    {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Wifey Riddim 4",
         "url": "https://open.spotify.com/album/6DYAAqIERXoKZxUymEq1S3"
@@ -105,7 +41,71 @@
       "url": "https://open.spotify.com/track/6tbHckupN0s7pM7w2ifq12"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
+      "album": {
+        "name": "Think U The Sh*t (Fart)",
+        "url": "https://open.spotify.com/album/6KHoc2lBi1kfzqifbY66V6"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 141639,
+      "name": "Think U The Sh*t (Fart)",
+      "url": "https://open.spotify.com/track/5xcj5a0RKC2s5PIs1FcXOu"
+    },
+    {
+      "added_at": "2024-01-29 00:31:55",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "added_at": "2024-01-29 00:31:55",
+      "album": {
+        "name": "Never Lose Me",
+        "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 125901,
+      "name": "Never Lose Me",
+      "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
+    },
+    {
+      "added_at": "2024-01-29 00:31:55",
+      "album": {
+        "name": "Statistic",
+        "url": "https://open.spotify.com/album/2hbb8uAn508T2KtLdaLFGO"
+      },
+      "artists": [
+        {
+          "name": "Kobie Dee",
+          "url": "https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO"
+        }
+      ],
+      "duration_ms": 185969,
+      "name": "Statistic",
+      "url": "https://open.spotify.com/track/1oNCGrtyBeljG6xovZfa6m"
+    },
+    {
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "All Is Yellow",
         "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Entrapreneur",
         "url": "https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Canarsie",
         "url": "https://open.spotify.com/album/7EvGeQSKTCqgwFb4hrO91d"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/4yyZkXQPuxfNhM5tPSFoHJ"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Freedom Of Speech",
         "url": "https://open.spotify.com/album/2wmsAKoZTwxdjzJgLNKji8"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/3WZefKhtpq0ZZABbBLYA4n"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Lowkey (LDN Drift) [feat. Takura]",
         "url": "https://open.spotify.com/album/5rGnxRc5WOwevqYSLNMdkp"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/308JcmNsqtkEZaAkcZrCT2"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
@@ -233,23 +233,23 @@
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+        "name": "HISS",
+        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 172137,
-      "name": "FTCU",
-      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
+      "duration_ms": 192818,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "HITA",
         "url": "https://open.spotify.com/album/5mkxe82AB3MUJnejMTgYmM"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/3tNPtRyxl1bqSvA7X6n5qz"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
         "url": "https://open.spotify.com/album/3eb4GbFzAMjgoRAuuSkoLo"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/5kj4uRtKgpR9PKnQaMYqZU"
@@ -309,7 +309,23 @@
       "url": "https://open.spotify.com/track/73f5rpLgydSRIvHzRLcJFF"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "FTCU",
+      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
+    },
+    {
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Wanna Come Thru",
         "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Eagle",
         "url": "https://open.spotify.com/album/5jHbKzYrq90fFJFiKhpOE3"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/4kPQ9NQTg6rqZNJ0t3lDaI"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Long Live",
         "url": "https://open.spotify.com/album/5gRInWJuQo14YK0lGhjwTY"
@@ -389,7 +405,7 @@
       "url": "https://open.spotify.com/track/5fpPyPGQoQ7yVjaBkXfBEQ"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "lottery pick",
         "url": "https://open.spotify.com/album/6X56VpnIYr8WOiCpkXHdEw"
@@ -405,7 +421,7 @@
       "url": "https://open.spotify.com/track/779jpZikRmH99DiSVpwCHD"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Boy Meets World",
         "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "For All The Dogs Scary Hours Edition",
         "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
@@ -485,7 +501,7 @@
       "url": "https://open.spotify.com/track/44gmXwbdHjwQsQvsiraj14"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Get Deady",
         "url": "https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "MULTIMILLIONAIRE (w/ Trippie Redd & Odetari)",
         "url": "https://open.spotify.com/album/5FmiDGF563dGPCfCLaiUKU"
@@ -541,7 +557,7 @@
       "url": "https://open.spotify.com/track/4JC0XKvkodYsMurv5khQWI"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Gutta",
         "url": "https://open.spotify.com/album/19UpTFofaeJWpgprRhLPOG"
@@ -557,7 +573,7 @@
       "url": "https://open.spotify.com/track/125SOhYMAdBGsLdjHBRgTF"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Us Against the World",
         "url": "https://open.spotify.com/album/5m2xRmSB1D30YZHDHr8556"
@@ -573,7 +589,7 @@
       "url": "https://open.spotify.com/track/4TaS4giQQK01vKzBB40AEY"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "J CHRIST",
         "url": "https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J"
@@ -589,7 +605,7 @@
       "url": "https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Shotta Flow 7",
         "url": "https://open.spotify.com/album/1sDAOcqpwOFrDyrIncZn4d"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/1WrxYBGmFK19BMRn3wLYMa"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -621,7 +637,7 @@
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Through The Storm",
         "url": "https://open.spotify.com/album/5pACLCow7gGS6YJPyfbbGW"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/4AnY0oihG1lRUxSiTOcGdt"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "We Only Talk About Real Shit When We're Fucked Up",
         "url": "https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk"
@@ -661,7 +677,7 @@
       "url": "https://open.spotify.com/track/0Fg88OWOdERXLMDcTWYwjf"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "500lbs",
         "url": "https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9"
@@ -677,7 +693,7 @@
       "url": "https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Lace It (with Eminem & benny blanco)",
         "url": "https://open.spotify.com/album/5nOfPCLpHGpayGrUNHAPLt"
@@ -701,7 +717,7 @@
       "url": "https://open.spotify.com/track/4qmG24ebshLXtKu9HIShBP"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
@@ -721,7 +737,7 @@
       "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "No Reason",
         "url": "https://open.spotify.com/album/5Mrxmb4rgY5yFs6wQy9UCB"
@@ -741,7 +757,7 @@
       "url": "https://open.spotify.com/track/02zVMezpAua7ZMmbzSyejO"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Stop Giving Me Advice",
         "url": "https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv"
@@ -765,7 +781,7 @@
       "url": "https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "GOLDEN TAN",
         "url": "https://open.spotify.com/album/0g1TUTFKhCXhjrbRVgD51W"
@@ -781,7 +797,7 @@
       "url": "https://open.spotify.com/track/0BGpFyx94bloTixpSc2Fl3"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "WHAT'S THE MOVE? (feat. Future and BabyDrill)",
         "url": "https://open.spotify.com/album/4GwIahaGnJ2cA4QfAJ74nF"
@@ -805,7 +821,7 @@
       "url": "https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
@@ -825,7 +841,7 @@
       "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/6cjbVG3nXSvk4StWBzAUF6"
@@ -849,7 +865,7 @@
       "url": "https://open.spotify.com/track/3pAiyhPhaShzbztS6XPVhY"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "179 Deli (with AJ Tracey)",
         "url": "https://open.spotify.com/album/0dEpwUIoXY3qhmkJ0OatS1"
@@ -869,7 +885,7 @@
       "url": "https://open.spotify.com/track/44Go9rmuqrzTS2dYJMT6ee"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "M1onTheBeat The Mixtape",
         "url": "https://open.spotify.com/album/2eNxE5vYk1YgZGQx6BT8UL"
@@ -889,7 +905,7 @@
       "url": "https://open.spotify.com/track/4UCEIGRovOmBuJz0oOHjI2"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Welcome 2 Collegrove",
         "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
@@ -913,7 +929,7 @@
       "url": "https://open.spotify.com/track/5FDc4ljIWyW8wClzt54dhs"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "For All The Dogs Scary Hours Edition",
         "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
@@ -929,7 +945,7 @@
       "url": "https://open.spotify.com/track/5Se32hEA9raeboZerywxka"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "PARTY & BS",
         "url": "https://open.spotify.com/album/4DBFog4Noo1bZjrWGUYgAv"
@@ -949,7 +965,7 @@
       "url": "https://open.spotify.com/track/6AvILUPVLwuDcSbqxICA4r"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Landslide (feat. Nafe Smallz)",
         "url": "https://open.spotify.com/album/5IraEqtcwvylKHZlBX1V92"
@@ -969,7 +985,7 @@
       "url": "https://open.spotify.com/track/25roKnaj1LrahRrGjBcqQy"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Boys Light Up",
         "url": "https://open.spotify.com/album/3GfGjAm40VSALkTTkj1dyQ"
@@ -985,7 +1001,7 @@
       "url": "https://open.spotify.com/track/4ErGr6NdI8DHIaf9bYuquZ"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "When I Was Dead",
         "url": "https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR"
@@ -1001,7 +1017,7 @@
       "url": "https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "THROW AWAY BARS",
         "url": "https://open.spotify.com/album/2NFOlKJaGoL3mFMmGL9jnL"
@@ -1017,7 +1033,7 @@
       "url": "https://open.spotify.com/track/5dZgSlWGLKyf5LnCyyvU6x"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "All My Life (Remixes) (feat. Burna Boy)",
         "url": "https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7"
@@ -1041,7 +1057,7 @@
       "url": "https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -1065,7 +1081,7 @@
       "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "And We",
         "url": "https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W"
@@ -1081,7 +1097,7 @@
       "url": "https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Scary (feat. Aitch)",
         "url": "https://open.spotify.com/album/35Fe3Uvw64VWPPYLdf9Ts9"
@@ -1101,7 +1117,7 @@
       "url": "https://open.spotify.com/track/1FuNxUJozvzMV2AvxFDCMo"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Celine",
         "url": "https://open.spotify.com/album/2osmYzbFYfQEbIeq5QB6Hc"
@@ -1125,7 +1141,7 @@
       "url": "https://open.spotify.com/track/2FAubZAGaGl5k2Be1n1nrG"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Hood Hottest Princess",
         "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
@@ -1141,7 +1157,7 @@
       "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "SOUTHSIDE DILLA",
         "url": "https://open.spotify.com/album/0GfTdUYEfSFuJ3Stc3LZQl"
@@ -1157,7 +1173,7 @@
       "url": "https://open.spotify.com/track/4ypmJ7f8TGY4cZzYn3YVyP"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -1177,7 +1193,7 @@
       "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "We Ride",
         "url": "https://open.spotify.com/album/54BeNq6d1lkoLM8foqjx9k"
@@ -1193,7 +1209,7 @@
       "url": "https://open.spotify.com/track/0ZndP0d6W6ICRmSlKgMiS4"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "B4 BOA",
         "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
@@ -1209,7 +1225,7 @@
       "url": "https://open.spotify.com/track/2hkcNrUwTVwKqjfUO1Kx3d"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Father's Eyes (feat. Stan Walker)",
         "url": "https://open.spotify.com/album/2AjIya9H5LNYjFS2ipFUXt"
@@ -1229,7 +1245,7 @@
       "url": "https://open.spotify.com/track/5nxQzwAkcKPPOhF7RBLDWg"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Paint The Town Red",
         "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
@@ -1245,7 +1261,7 @@
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Cheat On Me (feat. Dave)",
         "url": "https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi"
@@ -1265,7 +1281,7 @@
       "url": "https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "Bacardi Papi",
         "url": "https://open.spotify.com/album/4Ss42IUh5AjXZguuOQQMbK"
@@ -1289,7 +1305,7 @@
       "url": "https://open.spotify.com/track/2EyiuaItL3x16qi1zzEbzn"
     },
     {
-      "added_at": "2024-01-26 11:46:23",
+      "added_at": "2024-01-29 00:31:55",
       "album": {
         "name": "a Gift & a Curse",
         "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"

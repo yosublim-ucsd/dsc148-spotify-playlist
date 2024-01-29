@@ -941,6 +941,36 @@
     },
     {
       "album": {
+        "name": "Djavu",
+        "url": "https://open.spotify.com/album/3teEapeQnAL8iGDlIUb9Cq"
+      },
+      "artists": [
+        {
+          "name": "Eddu Chaves",
+          "url": "https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa"
+        },
+        {
+          "name": "Tertto",
+          "url": "https://open.spotify.com/artist/2Ab3GEqPRCoaRDCBhkUgIr"
+        },
+        {
+          "name": "Raonir Braz",
+          "url": "https://open.spotify.com/artist/44w1bg6i4nDOZMvNnGiRdg"
+        },
+        {
+          "name": "ogoin",
+          "url": "https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251600,
+      "name": "Djavu",
+      "url": "https://open.spotify.com/track/2WH637f5jibXgY3Be06EC9"
+    },
+    {
+      "album": {
         "name": "Doses",
         "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
       },
@@ -2358,7 +2388,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 199750,
       "name": "Nada comum",
       "url": "https://open.spotify.com/track/08y2uUZH8TJ9ugWBTPDdM1"

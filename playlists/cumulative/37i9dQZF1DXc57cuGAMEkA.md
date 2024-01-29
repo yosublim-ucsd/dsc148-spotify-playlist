@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。Justice & TAME IMPALA, Justin Timberlake, James Arthur, 緑黄色社会 and more! Cover: Justice & TAME IMPALA
 
-3,918 songs - 9 day 6 hr 15 min
+3,919 songs - 9 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1615,7 +1615,8 @@
 | [Is It Real? \(with Roddy Ricch\)](https://open.spotify.com/track/6VWxLcnrLGJDE6Cr4nm0lW) | [Rosemarie](https://open.spotify.com/artist/3Lz0JugHcf9nqKF1Khkhmu), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Is It Real? \(with Roddy Ricch\)](https://open.spotify.com/album/4HORf4RtMyCUu5FIQ6pEsS) | 3:23 | 2023-11-11 | 2023-11-18 |
 | [Is It What It Feels Like to Feel Like This? \- Myd Remix Radio Edit](https://open.spotify.com/track/0jL7eFRciFuzPnFU4hLjUG) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Is This What It Feels Like to Feel Like This? \(Myd Remix\)](https://open.spotify.com/album/5ntFw6kOzBWC6xXf5SS5Q6) | 3:36 | 2023-02-02 | 2023-02-10 |
 | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm) | 2:56 | 2023-09-28 | 2023-10-06 |
-| [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/4o6BNrTOcajYSCAFkqL71c) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Yussef Dayes Experience \- Live From Malibu](https://open.spotify.com/album/5gohS1223mJrzBVQzakpjm) | 4:08 | 2024-01-25 |  |
+| [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/4o6BNrTOcajYSCAFkqL71c) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Yussef Dayes Experience \- Live From Malibu](https://open.spotify.com/album/5gohS1223mJrzBVQzakpjm) | 4:08 | 2024-01-25 | 2024-01-29 |
+| [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/65lKgD4JnUU5EYaqMly9T6) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Yussef Dayes Experience \(Live From Malibu\)](https://open.spotify.com/album/3PGNm2ibnsl8rldfXjQ1wB) | 4:08 | 2024-01-25 |  |
 | [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/6itrJDS89zESGoipn5vkCO) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/album/3hmMIzmXleegAOFQap4LDg) | 4:08 | 2024-01-25 | 2024-01-27 |
 | [ISTJ](https://open.spotify.com/track/43Pmqpiw4zFY77pT5QdxQ8) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [ISTJ \- The 3rd Album](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 3:05 | 2023-07-20 | 2023-07-28 |
 | [It Takes 3](https://open.spotify.com/track/15ggd6ccKQ1UJ4mzltHsh1) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE) | [Trackhouse](https://open.spotify.com/album/1l86t4bTNT2j1X0ZBCIv6R) | 1:56 | 2023-10-05 | 2023-10-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: The Chisel
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,122 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,269 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Where will I go when I Dream?](https://open.spotify.com/track/1Nr3rJj29OdAAplLKEP40s) | [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd) | [Where will I go when I Dream?](https://open.spotify.com/album/5ZoxwgGYU4db0fNzeRuUai) | 3:14 |
 | 100 | [Down](https://open.spotify.com/track/1Wxrs8R59LwjCf66UyWw8B) | [Dance! No Thanks](https://open.spotify.com/artist/0885hgEwstYF6vz2qHbSpC) | [Misplaced](https://open.spotify.com/album/51SpKubhOlSWKslwx5GyUR) | 2:49 |
 
-Snapshot ID: `MCxhNzgyZDk1ZjFmYjIyMGMwMWEzMDQyYjE2N2YxMTU2MTUyMjZlYjc1`
+Snapshot ID: `MCw4MjUyYzUzOTczODk0NzJlZjEzZTI4ZGE5OTllMTdhNjU4ODU0Y2Qz`

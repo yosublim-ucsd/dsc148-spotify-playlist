@@ -4,7 +4,7 @@
 
 > R&B of the moment by the artists of the future\. Cover: Reggie Becton
 
-773 songs - 1 day 15 hr 41 min
+774 songs - 1 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,8 @@
 | [heartache](https://open.spotify.com/track/1jQMaxQQk0q0XSepGSnoys) | [fiction.](https://open.spotify.com/artist/2moT8pNvWKrULiMq8DQBfa) | [heartbreak szn](https://open.spotify.com/album/35T4P88Hxz0b3ZgZ1FBLOI) | 3:00 | 2022-04-29 | 2022-06-18 |
 | [Heatwave](https://open.spotify.com/track/0MZcjyFmlR4OUSa45Z3Wtz) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [SASSY \(Deluxe\)](https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38) | 2:36 | 2022-07-29 | 2022-10-29 |
 | [Heatwave](https://open.spotify.com/track/1klIcWCcdnwTI3fJlT5pcO) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [SASSY \(Deluxe\)](https://open.spotify.com/album/51sUPyQRFL5HlwIqQYop4q) | 2:36 | 2022-07-29 | 2022-10-13 |
-| [Hello](https://open.spotify.com/track/1YDrNRfnJKkyEuwCUId1vG) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [For the Better](https://open.spotify.com/album/6AlZ1GbJS3uLy8m23EhTfE) | 3:15 | 2024-01-10 |  |
+| [Hello](https://open.spotify.com/track/1YDrNRfnJKkyEuwCUId1vG) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [For the Better](https://open.spotify.com/album/6AlZ1GbJS3uLy8m23EhTfE) | 3:15 | 2024-01-10 | 2024-01-29 |
+| [Hello](https://open.spotify.com/track/36IM2MYJz2ZwlWib8rHNHM) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [For the Better](https://open.spotify.com/album/10brv7YGXfM12BcquAQ1Aj) | 3:15 | 2024-01-10 |  |
 | [Hennessy Tears](https://open.spotify.com/track/0cfaNTDBtXDavehtJ554z4) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [ON THE ROCKS](https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz) | 4:03 | 2023-01-20 | 2023-09-02 |
 | [Higher](https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 3:16 | 2022-11-27 | 2022-12-03 |
 | [Highway](https://open.spotify.com/track/6PU6jUiadiaPA4VaXhtpqp) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Highway](https://open.spotify.com/album/70XI6LyZx4d1n4JmmbxWSJ) | 3:12 | 2022-02-28 | 2022-03-18 |

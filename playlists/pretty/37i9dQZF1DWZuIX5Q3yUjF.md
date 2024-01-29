@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Tatum Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,175 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,178 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 57 | [Televisione \(feat\. Mahmood\)](https://open.spotify.com/track/4JuUtt0xKSzIy5nrpuXL4m) | [TROPICO](https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Chiamami Quando La Magia Finisce](https://open.spotify.com/album/40NoSD1gcWgmWS2M0gri9N) | 3:34 |
 | 58 | [salvare](https://open.spotify.com/track/4jQCFTq0WPVBHayDkgzIFf) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR) | [salvare](https://open.spotify.com/album/2YjaCfTIJi5ehsSPOIflxu) | 3:04 |
 | 59 | [Effetto Domino \(feat\. Evra & Blue Phelix\)](https://open.spotify.com/track/1IdM9itYdIvgBhUZh9Iis8) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [MYDRAMA](https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH), [KAPUT](https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt), [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt) | [Effetto Domino \(feat\. Evra & Blue Phelix\)](https://open.spotify.com/album/583dSlEeKPTLVodqjH6I3k) | 3:33 |
-| 60 | [Diamanti solitari](https://open.spotify.com/track/0xLdR8e8CZNxsaKdUBjjkG) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Trusty](https://open.spotify.com/artist/5yC9LA5cSmbG5y20u2Qxf7) | [Aurora Boreale](https://open.spotify.com/album/0hbgo46Lsi6gdliKEtKcvo) | 3:53 |
+| 60 | [Diamanti solitari](https://open.spotify.com/track/4R6r3rMsdxnsi8zRscS71N) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Trusty](https://open.spotify.com/artist/5yC9LA5cSmbG5y20u2Qxf7) | [Aurora Boreale](https://open.spotify.com/album/0PD2JnNa4bsQEG9QWvlOuR) | 3:53 |
 | 61 | [Sogni lucidi](https://open.spotify.com/track/3eEXsbKITTX3rxS6xan1nH) | [Malakiia](https://open.spotify.com/artist/0f86xQ9MwhbVSBpOaDc7mP) | [Komorebi](https://open.spotify.com/album/7CLiWGzgYlMEyqBUO966aI) | 3:50 |
 | 62 | [L'R&B in Italia non esiste \(Interlude\)](https://open.spotify.com/track/5haGMsywnKV4e2FqsYjoKH) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR) | [L'R&B IN ITALIA NON ESISTE](https://open.spotify.com/album/41IqmB0uShPRiNVsYyOmbg) | 2:23 |
 | 63 | [Come mi ricordi](https://open.spotify.com/track/3uB8fbnGNHH8YqsrT0bP4V) | [Bye.Tide](https://open.spotify.com/artist/30Ufi67H57YMdnKTV5wNJH), [Drvmmer](https://open.spotify.com/artist/6br4GP9OfOdNFTngwqYWYQ) | [Come mi ricordi](https://open.spotify.com/album/7qkxyfFepBq7ImES9cguZh) | 3:13 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 69 | [Non Mi Sembri Tu](https://open.spotify.com/track/3heycD4XRr4QZ5zmUuy0Ue) | [Gee Marchese](https://open.spotify.com/artist/6NOryWbPcGZeujO5aHzAka), [Kinder](https://open.spotify.com/artist/7Ll3iGPVXXh27DmeDkfV28), [J Valerix](https://open.spotify.com/artist/4EcOFW30CqidrKMARI3I7u) | [Non Mi Sembri Tu](https://open.spotify.com/album/0DbwQqagnY37dNUTbqtv7x) | 3:05 |
 | 70 | [SEGRETO \(feat\. Sina Tekle\)](https://open.spotify.com/track/0wUqkKIjEdZIMf2eaJiY6p) | [Gojardi](https://open.spotify.com/artist/2BK1KTuteomgkZ5ta3crjk), [Sina Tekle](https://open.spotify.com/artist/3jhexNp8ak2GP9dEqmRLdv) | [SEGRETO \(feat\. Sina Tekle\)](https://open.spotify.com/album/2GzKVikbqExzxzB6rgXW7b) | 2:30 |
 
-Snapshot ID: `MCxiM2Q2MjU1NjkyOWFiNGI0YjE4ZDIwMmRhNGM4Y2JlYjA5MjU4Njdh`
+Snapshot ID: `MCw3MDFhMmZmODQ2YTFhMjE4YzZkNjQ3Njc3MmY4Mjc2MjdkNGY3ZTE4`

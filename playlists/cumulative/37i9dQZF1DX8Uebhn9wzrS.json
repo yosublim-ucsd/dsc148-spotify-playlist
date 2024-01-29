@@ -5180,7 +5180,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 97500,
       "name": "chapter one",
       "url": "https://open.spotify.com/track/3KWCSFlXzN09GtiLCuRBKn"
@@ -5874,6 +5874,24 @@
       "duration_ms": 142857,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/0p0MtKtgkqkmRnXIBQlfUY"
+    },
+    {
+      "album": {
+        "name": "cloudspeak",
+        "url": "https://open.spotify.com/album/0l0qcMB7s99fuWbzpR883A"
+      },
+      "artists": [
+        {
+          "name": "London Lighthouse",
+          "url": "https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "cloudspeak",
+      "url": "https://open.spotify.com/track/1sQnye3wteYsntlgMO9rn8"
     },
     {
       "album": {
@@ -12582,7 +12600,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 114000,
       "name": "Half Waked",
       "url": "https://open.spotify.com/track/4vNr7yElsA1xkrjgtLYMSy"
@@ -16058,7 +16076,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 158117,
       "name": "Lemon Gardens",
       "url": "https://open.spotify.com/track/3VChI6nBTxw1Jk7f5QRoGU"

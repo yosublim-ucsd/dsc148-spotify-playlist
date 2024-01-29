@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Froid
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,643 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,577 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Tempo Ruim](https://open.spotify.com/track/1g70vYJx7zcLVeOl4uxeRc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:40 |
 | 75 | [Girl From Ipanema](https://open.spotify.com/track/7ysU8N5QdUZNFzkuQhDpV4) | [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [NSFS](https://open.spotify.com/artist/3w7GpmivBfWVh5CTrp0irY) | [Girl From Ipanema](https://open.spotify.com/album/5KmgelwwyTOIP93hJwqt7T) | 3:29 |
 
-Snapshot ID: `MCw0ZWQ2YzRmN2Y0NmIyMjg2MWJiZDM5ZmNlMWMwMzU1OTE2NDM2Zjcz`
+Snapshot ID: `MCw3N2IzN2Y1YzdlZGM0MDgwNWQyMmQwYjNiZTZiODZlYWU3Y2I2Yzhl`

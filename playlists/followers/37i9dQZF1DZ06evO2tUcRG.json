@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 258638,
+  "2024-01-29": 258611,
   "date_first_scraped": "2023-07-10",
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
   "name": "This Is Gabriela Rocha",
@@ -769,6 +769,28 @@
       "duration_ms": 390386,
       "name": "Ningu\u00e9m Explica Deus (feat. Gabriela Rocha) - Ao Vivo",
       "url": "https://open.spotify.com/track/682XjN6L1Qhs5rXbuGSQKK"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o H\u00e1 Lugar Mais Alto (No Hay Lugar M\u00e1s Alto - Versi\u00f3n Portugu\u00e9s)",
+        "url": "https://open.spotify.com/album/0tByw96XA7W1pqB6yVPqZP"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305180,
+      "name": "N\u00e3o H\u00e1 Lugar Mais Alto (No Hay Lugar M\u00e1s Alto - Versi\u00f3n Portugu\u00e9s)",
+      "url": "https://open.spotify.com/track/19mAVzo7vhfnUx41Hed1ML"
     },
     {
       "album": {

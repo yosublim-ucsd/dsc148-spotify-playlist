@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 160203,
       "name": "Dame Sengen",
       "url": "https://open.spotify.com/track/6jSRiSqC4enItld9Atti6h"
@@ -492,6 +492,24 @@
       "duration_ms": 250766,
       "name": "Mouichido",
       "url": "https://open.spotify.com/track/40gt89icqkSFqWWfMlqagb"
+    },
+    {
+      "album": {
+        "name": "I'll Be Cute When You See Me",
+        "url": "https://open.spotify.com/album/73gLuSuMKY13uGbfcvkseg"
+      },
+      "artists": [
+        {
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201520,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/2JplDq106PTi3y21zyj6hl"
     },
     {
       "album": {

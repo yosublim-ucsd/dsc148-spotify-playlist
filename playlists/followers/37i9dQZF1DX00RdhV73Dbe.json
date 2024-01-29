@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 52538,
+  "2024-01-29": 52559,
   "date_first_scraped": "2022-09-17",
   "description": "<a href=\"spotify:artist:3MkIU5jhXTMK9pYQTRVI6p\">DJ BORING</a>'s favorite tracks. Updated regularly. Curated by DJ BORING. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "DJ BORING's track IDs",
@@ -57,7 +57,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 149000,
       "name": "02:29",
       "url": "https://open.spotify.com/track/0nq1m4IivlKihMvkGitVah"
@@ -83,6 +83,28 @@
       "duration_ms": 149000,
       "name": "02:29",
       "url": "https://open.spotify.com/track/4l4HVlm0t0hXWvMeEAGv5W"
+    },
+    {
+      "album": {
+        "name": "02:29",
+        "url": "https://open.spotify.com/album/7bc03XrL6TQapTG9AfCQlW"
+      },
+      "artists": [
+        {
+          "name": "Harve",
+          "url": "https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx"
+        },
+        {
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "02:29",
+      "url": "https://open.spotify.com/track/55K0Zqv0ZuzFRH4T35dJn3"
     },
     {
       "album": {

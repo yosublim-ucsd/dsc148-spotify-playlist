@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30w0JtSIv4j.md) - [plain]
 
 > Experience Louis Theroux's Hip Hop House Party and listen to his <a href="https://open.spotify.com/show/7LuQv400JFzzlJrOuMukRj?si=b8abc7800daf4d8c/">new podcast</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,678,454 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,678,158 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30w0JtSIv4j.md) - [plain]
 | 13 | [Obsessed](https://open.spotify.com/track/6GFl4mN1PdXe3zJrhni67W) | [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn) | [Obsessed](https://open.spotify.com/album/747RsZwiMOHFE0qr1mhDJQ) | 2:56 |
 | 14 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
 | 15 | [NIC \(feat\. Tiggs Da Author\)](https://open.spotify.com/track/5xa6bK1Q2K9gmZiQLJVRVW) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Crabs In A Bucket](https://open.spotify.com/album/6nGxZjUBZK40BydnxQkc15) | 3:40 |
-| 16 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 |
+| 16 | [Toast \- Remix](https://open.spotify.com/track/5Nc0d8sxVWjUoH85NuCiJU) | [J Star](https://open.spotify.com/artist/4XoVFXRNNMzxuEpxRt2lqp) | [Toast \(Remix\)](https://open.spotify.com/album/24oZPmdzVJ7X5agJbGpK8d) | 3:07 |
 | 17 | [Must Be](https://open.spotify.com/track/5vIXEk3u02WHbcD0h2ozhm) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Big Conspiracy](https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn) | 3:28 |
 | 18 | [Foot Fungus](https://open.spotify.com/track/3EikYy40GMSp8l5mDV6IQo) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:09 |
 | 19 | [Motorola \(feat\. Swarmz, Deno & Dappy\)](https://open.spotify.com/track/0Q8aQ6xUAFOGCd0vR32FPf) | [Da Beatfreakz](https://open.spotify.com/artist/3Q8Ow3li2nXzZhRPHMwR7h), [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l), [Swarmz](https://open.spotify.com/artist/2yPprAQlrIQWu60g09B9MZ), [Dappy](https://open.spotify.com/artist/4q6hTJmeYXCwp0ivdtoSWA) | [Motorola \(feat\. Swarmz, Deno & Dappy\)](https://open.spotify.com/album/4LcHmOy7GtRqEeqIz1Ii12) | 2:57 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30w0JtSIv4j.md) - [plain]
 | 39 | [Favela \(feat\. J Styles\)](https://open.spotify.com/track/48xlA36vr7wEFRu3gDwyC6) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [J Styles](https://open.spotify.com/artist/5yECsdgmXEkHpn5B00ZNfY) | [Crop Circle 2](https://open.spotify.com/album/6FKbwzq8TsA8F2p0ePYOx6) | 2:21 |
 | 40 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
 
-Snapshot ID: `MCw1NjgwYjFmNTA5MzQxNjQ1N2I3NzJlNDA0ZDRjZTExMjBiODYxMWNi`
+Snapshot ID: `MCwyYzg3NWRiYmIzNDI3ZmJiODc5YjU4NmQ3OGQyY2RlYTMxMGMzMTNj`

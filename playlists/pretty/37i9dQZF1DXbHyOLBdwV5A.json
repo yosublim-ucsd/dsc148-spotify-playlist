@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 119041,
+  "num_followers": 119062,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTQwMDgzYTNhYjE0NzhlZDcyMmJkYjIxNGE3ZDIyNzY4ZjljZjk2",
+  "snapshot_id": "MCwyZGJkZjY4YzA2Y2U5ZTk3NzZhM2VkNWVlZTFlZjE1YjE5NTIxNzI5",
   "tracks": [
     {
       "added_at": "2024-01-05 13:32:37",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Eu Te Vejo Em Tudo (Remix)",
-        "url": "https://open.spotify.com/album/1ZJlMeuK3YnxzFgVbDktxJ"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Helena Albernaz",
-          "url": "https://open.spotify.com/artist/0aULAu6t778NjHU24DfCc7"
-        }
-      ],
-      "duration_ms": 166716,
-      "name": "Eu Te Vejo Em Tudo (Remix)",
-      "url": "https://open.spotify.com/track/1XkwuabxLXwd8KJhegVn8n"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/5YgyARkjEkGMzz96G4qVBA"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 166874,
       "name": "Praise",
       "url": "https://open.spotify.com/track/6j0DDG232N0ZJfGcD32bE3"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
+        "name": "Eu Te Vejo Em Tudo (Remix)",
+        "url": "https://open.spotify.com/album/1ZJlMeuK3YnxzFgVbDktxJ"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Helena Albernaz",
+          "url": "https://open.spotify.com/artist/0aULAu6t778NjHU24DfCc7"
+        }
+      ],
+      "duration_ms": 166716,
+      "name": "Eu Te Vejo Em Tudo (Remix)",
+      "url": "https://open.spotify.com/track/1XkwuabxLXwd8KJhegVn8n"
     },
     {
       "added_at": "2024-01-05 13:32:37",

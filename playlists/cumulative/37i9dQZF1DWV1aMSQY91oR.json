@@ -6570,7 +6570,7 @@
     {
       "album": {
         "name": "CHINA TOWN (with Lil B)",
-        "url": "https://open.spotify.com/album/6PDoQVpwrYzA9wtlUOtxOm"
+        "url": "https://open.spotify.com/album/1ABTRC3AQ41huRWDpblWZl"
       },
       "artists": [
         {
@@ -6585,6 +6585,28 @@
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 184844,
+      "name": "CHINA TOWN (with Lil B)",
+      "url": "https://open.spotify.com/track/4vViYyuQsqeg7WVcv7DoU4"
+    },
+    {
+      "album": {
+        "name": "CHINA TOWN (with Lil B)",
+        "url": "https://open.spotify.com/album/6PDoQVpwrYzA9wtlUOtxOm"
+      },
+      "artists": [
+        {
+          "name": "G Milla",
+          "url": "https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW"
+        },
+        {
+          "name": "Lil B",
+          "url": "https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-29",
       "duration_ms": 184844,
       "name": "CHINA TOWN (with Lil B)",
       "url": "https://open.spotify.com/track/5yPyWy03ZrK1drSNvBUuZ1"

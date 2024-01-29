@@ -295,6 +295,24 @@
     },
     {
       "album": {
+        "name": "ATTENTION",
+        "url": "https://open.spotify.com/album/6IWyzrY0BPHRyBryHiibgG"
+      },
+      "artists": [
+        {
+          "name": "Benji Kasule",
+          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/6eW4bViVkUEJtFiLykrOrE"
+    },
+    {
+      "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/2GGdcif99IqBhZ7m9401eZ"
       },
@@ -1692,7 +1710,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 121067,
       "name": "Glad",
       "url": "https://open.spotify.com/track/1A6LVS7FbihjjlJVb9VLP4"
@@ -2214,6 +2232,32 @@
       "duration_ms": 229363,
       "name": "Ike",
       "url": "https://open.spotify.com/track/6qomGFqXFcN7sbXL2j8wwX"
+    },
+    {
+      "album": {
+        "name": "In My Heart",
+        "url": "https://open.spotify.com/album/4YroeDNlYQdl6MjTz7VD9z"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164830,
+      "name": "In My Heart",
+      "url": "https://open.spotify.com/track/29QgRF9T4wIRYZrSRECu6e"
     },
     {
       "album": {
@@ -4014,7 +4058,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 203893,
       "name": "Running",
       "url": "https://open.spotify.com/track/50qf4Vm3nkbT0k7LR3ltxh"

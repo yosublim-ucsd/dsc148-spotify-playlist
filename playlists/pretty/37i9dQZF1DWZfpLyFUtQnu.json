@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 73850,
+  "num_followers": 73952,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZThmYWM2NTViN2UxNmNjMTFmM2I5NzkwZWMwZjFlYTIxZDZkZDQ2",
+  "snapshot_id": "MCw3NTk1ZDJhMzRkNWY0M2MzM2Q2N2EzZjBjMzgyNTFhZTBmODUxYTNh",
   "tracks": [
     {
       "added_at": "2024-01-03 15:04:20",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-01-03 15:04:20",
       "album": {
-        "name": "Quelqu'un m'a dit",
-        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 168626,
-      "name": "Quelqu'un m'a dit",
-      "url": "https://open.spotify.com/track/5lIOhDGfy2lQJWWwxBm8L4"
-    },
-    {
-      "added_at": "2024-01-03 15:04:20",
-      "album": {
         "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
         "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
       },
@@ -207,6 +191,22 @@
     {
       "added_at": "2024-01-03 15:04:20",
       "album": {
+        "name": "Quelqu'un m'a dit",
+        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 168626,
+      "name": "Quelqu'un m'a dit",
+      "url": "https://open.spotify.com/track/5lIOhDGfy2lQJWWwxBm8L4"
+    },
+    {
+      "added_at": "2024-01-03 15:04:20",
+      "album": {
         "name": "Samedi soir sur la terre (Remastered)",
         "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
       },
@@ -219,6 +219,22 @@
       "duration_ms": 278253,
       "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
       "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
+    },
+    {
+      "added_at": "2024-01-03 15:04:20",
+      "album": {
+        "name": "Nino Ferrer",
+        "url": "https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG"
+      },
+      "artists": [
+        {
+          "name": "Nino Ferrer",
+          "url": "https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv"
+        }
+      ],
+      "duration_ms": 275040,
+      "name": "Le sud",
+      "url": "https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD"
     },
     {
       "added_at": "2024-01-03 15:04:20",
@@ -567,22 +583,6 @@
     {
       "added_at": "2024-01-03 15:04:20",
       "album": {
-        "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
-      },
-      "artists": [
-        {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
-        }
-      ],
-      "duration_ms": 396493,
-      "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
-    },
-    {
-      "added_at": "2024-01-03 15:04:20",
-      "album": {
         "name": "L'Heure D'Et\u00e9",
         "url": "https://open.spotify.com/album/4KGuo3fzcCgvfvqvA2o5lh"
       },
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-01-03 15:04:20",
       "album": {
-        "name": "&",
-        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
+        "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
       },
       "artists": [
         {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
         }
       ],
-      "duration_ms": 236853,
-      "name": "Sublime & Silence",
-      "url": "https://open.spotify.com/track/5nOy1wbwjpGTXr3Bk5zI4T"
+      "duration_ms": 396493,
+      "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
     },
     {
       "added_at": "2024-01-03 15:04:20",
@@ -663,6 +663,22 @@
       "duration_ms": 190026,
       "name": "Secret",
       "url": "https://open.spotify.com/track/3g8XEpjHvbt2KfilEIh0Jj"
+    },
+    {
+      "added_at": "2024-01-03 15:04:20",
+      "album": {
+        "name": "&",
+        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "duration_ms": 236853,
+      "name": "Sublime & Silence",
+      "url": "https://open.spotify.com/track/5nOy1wbwjpGTXr3Bk5zI4T"
     },
     {
       "added_at": "2024-01-03 15:04:20",
@@ -719,22 +735,6 @@
     {
       "added_at": "2024-01-03 15:04:20",
       "album": {
-        "name": "Jamais Content",
-        "url": "https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "All\u00f4 maman bobo",
-      "url": "https://open.spotify.com/track/6feRXBskplLVuNov74Rep3"
-    },
-    {
-      "added_at": "2024-01-03 15:04:20",
-      "album": {
         "name": "Marc Lavoine",
         "url": "https://open.spotify.com/album/3rAiEREUQbY2YQUPpUJWcI"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 238746,
       "name": "Je ne veux qu'elle",
       "url": "https://open.spotify.com/track/0AwSGcHfNy5rRBIZTG4lfe"
+    },
+    {
+      "added_at": "2024-01-03 15:04:20",
+      "album": {
+        "name": "Jamais Content",
+        "url": "https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw"
+      },
+      "artists": [
+        {
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "All\u00f4 maman bobo",
+      "url": "https://open.spotify.com/track/6feRXBskplLVuNov74Rep3"
     },
     {
       "added_at": "2024-01-03 15:04:20",
@@ -871,18 +887,18 @@
     {
       "added_at": "2024-01-03 15:04:20",
       "album": {
-        "name": "Ami Ou Ennemi",
-        "url": "https://open.spotify.com/album/6SLKeOEgpg9XmpsKxxXCBU"
+        "name": "Le coeur grenadine",
+        "url": "https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot"
       },
       "artists": [
         {
-          "name": "Maurane",
-          "url": "https://open.spotify.com/artist/1bsGJW4NXgXaHzD2Lpk7if"
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
         }
       ],
-      "duration_ms": 290226,
-      "name": "Sur un pr\u00e9lude de Bach",
-      "url": "https://open.spotify.com/track/5zfkEYXMQPXO7usJOPm7cB"
+      "duration_ms": 347520,
+      "name": "Le coeur grenadine",
+      "url": "https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb"
     },
     {
       "added_at": "2024-01-03 15:04:20",
@@ -899,22 +915,6 @@
       "duration_ms": 252533,
       "name": "So Far Away from L.A.",
       "url": "https://open.spotify.com/track/4OnWd9bQcVfjo5U63SLTXQ"
-    },
-    {
-      "added_at": "2024-01-03 15:04:20",
-      "album": {
-        "name": "Le coeur grenadine",
-        "url": "https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 347520,
-      "name": "Le coeur grenadine",
-      "url": "https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb"
     },
     {
       "added_at": "2024-01-03 15:04:20",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-01-03 15:04:20",
       "album": {
-        "name": "Les Frangines (Nouvelle \u00e9dition)",
-        "url": "https://open.spotify.com/album/1AnZKsSHpXjV4d4zyUDGu5"
-      },
-      "artists": [
-        {
-          "name": "Les Frangines",
-          "url": "https://open.spotify.com/artist/2sYOUJa6fNc4ke4Zo6EkZ4"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "Pour une seconde",
-      "url": "https://open.spotify.com/track/4uiR0HGXDcqsR4E1P2EzLW"
-    },
-    {
-      "added_at": "2024-01-03 15:04:20",
-      "album": {
         "name": "On fait comme si",
         "url": "https://open.spotify.com/album/0UpDT5u1kYDZV21UBQctll"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 251625,
       "name": "On fait comme si",
       "url": "https://open.spotify.com/track/0QaVAoRnez6qMlLPqbB4fd"
+    },
+    {
+      "added_at": "2024-01-03 15:04:20",
+      "album": {
+        "name": "Louane",
+        "url": "https://open.spotify.com/album/1f1C1CjidKcWQyiIYcMvP2"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Si t'\u00e9tais l\u00e0",
+      "url": "https://open.spotify.com/track/1iQ9W74bGFDAbiRIKn0PuH"
     },
     {
       "added_at": "2024-01-03 15:04:20",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-01-03 15:04:20",
       "album": {
+        "name": "Les Frangines (Nouvelle \u00e9dition)",
+        "url": "https://open.spotify.com/album/1AnZKsSHpXjV4d4zyUDGu5"
+      },
+      "artists": [
+        {
+          "name": "Les Frangines",
+          "url": "https://open.spotify.com/artist/2sYOUJa6fNc4ke4Zo6EkZ4"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "Pour une seconde",
+      "url": "https://open.spotify.com/track/4uiR0HGXDcqsR4E1P2EzLW"
+    },
+    {
+      "added_at": "2024-01-03 15:04:20",
+      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/11XeNgRYiVl3yeHIarvLzt"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 254800,
       "name": "\u00c0 toutes les filles",
       "url": "https://open.spotify.com/track/6VR1rolPThMeYmWqFTbdLo"
-    },
-    {
-      "added_at": "2024-01-03 15:04:20",
-      "album": {
-        "name": "Louane",
-        "url": "https://open.spotify.com/album/1f1C1CjidKcWQyiIYcMvP2"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "Si t'\u00e9tais l\u00e0",
-      "url": "https://open.spotify.com/track/1iQ9W74bGFDAbiRIKn0PuH"
     },
     {
       "added_at": "2024-01-03 15:04:20",

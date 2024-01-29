@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 216106,
+  "num_followers": 216147,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTI1YmQxZWM4YjUwMmJkNWZjNzZiOGY5ZDcyM2UxNjIyZTk4ZTMy",
+  "snapshot_id": "MCxlZGVkZDUwNjU5OWUxODg1Y2MzYjc4ZjVlM2U0ODAwNGVlZDM2NDhh",
   "tracks": [
     {
       "added_at": "2023-11-08 15:57:38",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
+        "name": "Vivir Muriendo",
+        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
+      },
+      "artists": [
+        {
+          "name": "Astrid Hadad",
+          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
+        }
+      ],
+      "duration_ms": 244813,
+      "name": "A Mi Me Mato\u0301 La Vida",
+      "url": "https://open.spotify.com/track/6IXhgZRpbrZULT8aqNrC43"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
         "name": "M\u00e1s Alto",
         "url": "https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 209706,
       "name": "Dimensi\u00f3n Astral",
       "url": "https://open.spotify.com/track/7FV7GdKvi1FFbP41PqI1y2"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
-        "name": "Vivir Muriendo",
-        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
-      },
-      "artists": [
-        {
-          "name": "Astrid Hadad",
-          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
-        }
-      ],
-      "duration_ms": 244813,
-      "name": "A Mi Me Mato\u0301 La Vida",
-      "url": "https://open.spotify.com/track/6IXhgZRpbrZULT8aqNrC43"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Pecados Y Milagros",
-        "url": "https://open.spotify.com/album/77NZ2TxTW8ZlubZbThIjBT"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs"
       },
       "artists": [
         {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "Susana Harp",
+          "url": "https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo"
         }
       ],
-      "duration_ms": 190106,
-      "name": "La Reyna Del Inframundo",
-      "url": "https://open.spotify.com/track/6JjEAA2fJVlQABflpkYzA1"
+      "duration_ms": 394146,
+      "name": "Morir en Paz",
+      "url": "https://open.spotify.com/track/2R5tHhHmGxhbrvOpoDluqr"
     }
   ],
   "unique_name": "D\u00eda de Muertos",

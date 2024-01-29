@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX344TqGDlDff.md) - [plain]
 
 > A woman of substance...Listen to the music from and inspired by Griselda, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 404 likes - 52 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 729 likes - 52 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX344TqGDlDff.md) - [plain]
 | 51 | [LA MADRINA](https://open.spotify.com/track/0urS2dyuVbSh4f4yv0uFrc) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Griselda \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw) | 1:06 |
 | 52 | [MALA MADRE MADHOUSE](https://open.spotify.com/track/3H5aVcxGvJNX8fwkyL09Xw) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Griselda \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw) | 3:20 |
 
-Snapshot ID: `MCw3OWM4Mzg3NWJkZmUwZWVjYjk2MGFmNDM3OTU0NzNjZDBmN2VjMzAz`
+Snapshot ID: `MCw3NjNlMGU4ZThmNDhjNzE5OGZiYTc0MjRmYWU2ZDQ5MmJmNmY4MDIw`

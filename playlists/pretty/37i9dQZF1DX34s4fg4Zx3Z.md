@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Puppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,472 likes - 99 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,484 likes - 99 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 98 | [vẫn còn buồn](https://open.spotify.com/track/47LPfHZuLX0QUH2GCfiNv0) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [vẫn còn buồn](https://open.spotify.com/album/3SxS4SedPnhiPcJSPwriiJ) | 3:14 |
 | 99 | [mind](https://open.spotify.com/track/2NmkzIXT5YfMh0zXhy2D3g) | [giabao](https://open.spotify.com/artist/3cowtwoHuAizkSqqTFyWus) | [mind](https://open.spotify.com/album/2A7TqNuIMtBbpfvlWzgttJ) | 3:17 |
 
-Snapshot ID: `MCw5OTgzNWYxYjNiODcwZjFjZmQ1YTJiMmM4YWY0NmU4MWVhMzgxODcx`
+Snapshot ID: `MCw0ZDIxNDRmOTkxNDkwOGQ0YmI2OGE0ZWViNmU3YmFiMDczNDkyMTI1`

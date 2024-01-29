@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 233076,
+  "2024-01-29": 233123,
   "date_first_scraped": "2023-06-18",
   "description": "The hits you just keep coming back to. Cover: Olivia Rodrigo",
   "name": "Hit Repeat",
@@ -947,7 +947,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 233720,
       "name": "Love Yourself",
       "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
@@ -1309,7 +1309,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"

@@ -12788,7 +12788,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 190287,
       "name": "Diver",
       "url": "https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9"
@@ -12944,6 +12944,32 @@
       "duration_ms": 230999,
       "name": "Do This To Me",
       "url": "https://open.spotify.com/track/3SsDNoQIPbvi72S83zqLES"
+    },
+    {
+      "album": {
+        "name": "Still Luv",
+        "url": "https://open.spotify.com/album/3K984cTKmKdox6Q6B3o5e3"
+      },
+      "artists": [
+        {
+          "name": "Slatty K",
+          "url": "https://open.spotify.com/artist/6M1OUdpdIBG9uwwVVw80En"
+        },
+        {
+          "name": "AAP",
+          "url": "https://open.spotify.com/artist/0LNjllgatcEOXzClhJDyMx"
+        },
+        {
+          "name": "Jadhe",
+          "url": "https://open.spotify.com/artist/1rxAD6xp9NiycI83htzv5P"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274285,
+      "name": "Do You Feel?",
+      "url": "https://open.spotify.com/track/2sSY3K85CvWtK7KAHaHbMj"
     },
     {
       "album": {
@@ -36096,7 +36122,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 295493,
       "name": "Orchids from Fire",
       "url": "https://open.spotify.com/track/1QWQbufiCcpqffNkOCSaF8"
@@ -44936,6 +44962,24 @@
       "duration_ms": 187555,
       "name": "Stupid Me",
       "url": "https://open.spotify.com/track/3yl0hK8awY340PpLYGuwZg"
+    },
+    {
+      "album": {
+        "name": "Sugar Daddy",
+        "url": "https://open.spotify.com/album/71XTpdu6oVhIWfjHsr4hBQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rivers & The Real Juice",
+          "url": "https://open.spotify.com/artist/23V3hZ8OOhLund0FUEW6Cm"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245748,
+      "name": "Sugar Daddy",
+      "url": "https://open.spotify.com/track/2R1759HDsyHhhOn4PM3pSk"
     },
     {
       "album": {

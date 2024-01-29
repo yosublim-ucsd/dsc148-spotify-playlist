@@ -3040,12 +3040,12 @@
       },
       "artists": [
         {
-          "name": "Belle Lune",
-          "url": "https://open.spotify.com/artist/37kiKpzwo3ERmon9VTN86h"
-        },
-        {
           "name": "Fl\u00e1via Felicio",
           "url": "https://open.spotify.com/artist/18NAwbvTOm9hTFYcEiG2Xf"
+        },
+        {
+          "name": "Belle Lune",
+          "url": "https://open.spotify.com/artist/37kiKpzwo3ERmon9VTN86h"
         }
       ],
       "date_added": "2022-06-03",

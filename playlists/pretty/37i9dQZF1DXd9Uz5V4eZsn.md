@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9Uz5V4eZsn.md) - [plain]
 
 > Ambient Indian sounds for your daily Yoga practise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,341 likes - 52 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,399 likes - 52 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9Uz5V4eZsn.md) - [plain]
 | 21 | [Santoor Bhoop](https://open.spotify.com/track/0T1WIpHOc7Rz34MA54c7es) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 3:02 |
 | 22 | [Raga Hansadhwani \(Dancing Spring\)](https://open.spotify.com/track/2lalSgHoXxZWSHTT9PNV2t) | [Ustad Usman Khan](https://open.spotify.com/artist/3HywltOSu9HsE3gG7yulzq) | [Nada Yoga: Music of the Mystic](https://open.spotify.com/album/2j2Fs9jZxDeDIQqvbqxyN9) | 9:00 |
 | 23 | [Unmind: Soulful Sitar Music with Introspective Dialogue](https://open.spotify.com/track/1W6NMuXjDERerPWhuK7J1a) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4), [Makarand Deshpande](https://open.spotify.com/artist/4g1NbHZ72prdsCs2ZnhpXz) | [Unmind: Soulful Sitar Music with Introspective Dialogue](https://open.spotify.com/album/4JhtIvvsqpW56Op8dSgOP0) | 12:08 |
-| 24 | [Purnamadah](https://open.spotify.com/track/73iMOvR544T1n5QIVGHLuX) | [Shantala](https://open.spotify.com/artist/6z6YXTlyMCY6fvT79yxDgi) | [The Love Window](https://open.spotify.com/album/2LBLfPrjJ8ofb5iWfvPjn8) | 8:35 |
+| 24 | [Purnamadah](https://open.spotify.com/track/0xHmA4WUsQFbMAUHRJwJVG) | [Shantala](https://open.spotify.com/artist/6z6YXTlyMCY6fvT79yxDgi) | [The Love Window](https://open.spotify.com/album/1K3wOcXCIZFQlVdjQTIVqU) | 8:35 |
 | 25 | [All Is Well](https://open.spotify.com/track/7D8qkK690DvHGcLnBZNsdw) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Archit & Smit](https://open.spotify.com/artist/7rUtLZngbHLLqBfA0QFRPc) | [Songs Of The River \- Ganga \(Soundtrack\)](https://open.spotify.com/album/4lDuBGAfZ2ZuG180wwvezn) | 3:04 |
 | 26 | [Introduction To Therapy \(Based on\) Raga Yaman](https://open.spotify.com/track/1gTWlinEg9LBUQTx5b4VxI) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Music Therapy \- For Motivation & Rejuvenation](https://open.spotify.com/album/5onhOTw07V7vWwwZW5E4Vk) | 9:55 |
 | 27 | [Ever So Lonely / Eyes / Ocean](https://open.spotify.com/track/6PeTYB1Wiv5ijg46xkPBdE) | [Sheila Chandra](https://open.spotify.com/artist/7eYoqLpLD211aYrxb64AzN) | [Weaving My Ancestors' Voices \(Real World Gold\)](https://open.spotify.com/album/18xHLkID2nZIjqAGCrKVs6) | 3:24 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9Uz5V4eZsn.md) - [plain]
 | 51 | [Surrender To The Supreme](https://open.spotify.com/track/6thuYcDe02vdRQIIuY4g3g) | [Vamanan](https://open.spotify.com/artist/50D5QNIcqU50fStd2PrZ7y) | [Meditation Music](https://open.spotify.com/album/4XUESTVzfg5sEj7DjPCuZL) | 17:22 |
 | 52 | [Earth in Space](https://open.spotify.com/track/3d4lrPfdFxvtONXc0fbRec) | [Raajeev V Bhalla](https://open.spotify.com/artist/3M3uBX6WMgpjbX3Z8mPMax) | [Healing \(Vol 1\)](https://open.spotify.com/album/49vsK5SdsNgFzg73orXx7Z) | 10:17 |
 
-Snapshot ID: `MCxmYWU4N2VhZGYwZjJlNjE4MzFhZGRlMTNhYmY5MTY4ODliMjFkMTA5`
+Snapshot ID: `MCxjODA0ZGExYmQwZGM0YTQ4YTA1MjYwZjZjYWE5MmNlMjUyOTY0Nzk2`

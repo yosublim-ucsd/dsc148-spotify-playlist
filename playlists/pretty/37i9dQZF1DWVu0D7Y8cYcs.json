@@ -1,12 +1,12 @@
 {
   "description": "Come on, man. Just smile!",
-  "num_followers": 483479,
+  "num_followers": 483668,
   "original_name": "Just Smile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjJiM2M1ODc0ZmU4NTI4ZDA4YzVkN2Q2MjQ3OGU4YjA4NmNmOGE2",
+  "snapshot_id": "MCxlZjM0YjFkYWRkZGIwYWU3ZmY4MGM5MDBjM2JjMzQxZTVlYmQ2OWNl",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Burning",
-        "url": "https://open.spotify.com/album/1gCBAfrnTTAFRthxRqp0Rj"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 181434,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/2ur8F1rb1lsxpZA9UJEDfl"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "HOPE Campaign Tribute Album 2010",
         "url": "https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM"
       },
@@ -635,22 +619,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "The Best of The Maytals",
-        "url": "https://open.spotify.com/album/07vKVYq96EdCHfqQ47aJSo"
-      },
-      "artists": [
-        {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
-        }
-      ],
-      "duration_ms": 204706,
-      "name": "It Must Be True Love",
-      "url": "https://open.spotify.com/track/2DWNvyAsE7yZWUDAPQqHw0"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "A Vibe (feat. Wiz Khalifa)",
         "url": "https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw"
       },
@@ -667,6 +635,22 @@
       "duration_ms": 163853,
       "name": "A Vibe (feat. Wiz Khalifa)",
       "url": "https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "The Best of The Maytals",
+        "url": "https://open.spotify.com/album/07vKVYq96EdCHfqQ47aJSo"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "It Must Be True Love",
+      "url": "https://open.spotify.com/track/2DWNvyAsE7yZWUDAPQqHw0"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -855,22 +839,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Fix It",
-        "url": "https://open.spotify.com/album/0UIcpuZ7MGsGOSzv5RFB2p"
-      },
-      "artists": [
-        {
-          "name": "Clinton Fearon",
-          "url": "https://open.spotify.com/artist/2mSiPzmzBCGS7p6tEuRuTd"
-        }
-      ],
-      "duration_ms": 182533,
-      "name": "Fix It",
-      "url": "https://open.spotify.com/track/2FmD1oi2Wna2jcQcYEEYn5"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Push Time",
         "url": "https://open.spotify.com/album/0hG4yN1bfY9KhQcnUTQSDG"
       },
@@ -887,6 +855,38 @@
       "duration_ms": 181333,
       "name": "Push Time",
       "url": "https://open.spotify.com/track/4qeMtlPANjhEHKWm3VhmyK"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Fix It",
+        "url": "https://open.spotify.com/album/0UIcpuZ7MGsGOSzv5RFB2p"
+      },
+      "artists": [
+        {
+          "name": "Clinton Fearon",
+          "url": "https://open.spotify.com/artist/2mSiPzmzBCGS7p6tEuRuTd"
+        }
+      ],
+      "duration_ms": 182533,
+      "name": "Fix It",
+      "url": "https://open.spotify.com/track/2FmD1oi2Wna2jcQcYEEYn5"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Warm & Easy",
+        "url": "https://open.spotify.com/album/3IkZdCpD7KXA0gMA0REKLl"
+      },
+      "artists": [
+        {
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Warm & Easy",
+      "url": "https://open.spotify.com/track/2K02J8shfay33u49WhlaZg"
     }
   ],
   "unique_name": "Just Smile",

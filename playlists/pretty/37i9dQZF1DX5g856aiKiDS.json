@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 482569,
+  "num_followers": 482642,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODM5NDlkYTBlNjgwZTViNjFlZmQ1ZDk0ZWQzOGEyODAyYTIxNjkw",
+  "snapshot_id": "MCw5YzE2MDc3MjdlNWJjOTA1MmVkYzdkNzRjNDE2NWI5YzljZDYwYzA1",
   "tracks": [
     {
       "added_at": "2024-01-23 13:54:03",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-01-23 13:54:03",
       "album": {
-        "name": "[A]",
-        "url": "https://open.spotify.com/album/7EJPkVvOwB787PxrHCrrAE"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "MEENOI",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "Bus Stop",
-      "url": "https://open.spotify.com/track/2X0Jlj1hP9q2xP5Lkd8sy4"
-    },
-    {
-      "added_at": "2024-01-23 13:54:03",
-      "album": {
         "name": "cocoa",
         "url": "https://open.spotify.com/album/0j6gcWSUVtfcHvF4l56kLo"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 229665,
       "name": "The night we parted",
       "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
+    },
+    {
+      "added_at": "2024-01-23 13:54:03",
+      "album": {
+        "name": "[A]",
+        "url": "https://open.spotify.com/album/7EJPkVvOwB787PxrHCrrAE"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "MEENOI",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/2X0Jlj1hP9q2xP5Lkd8sy4"
     },
     {
       "added_at": "2024-01-23 13:54:03",

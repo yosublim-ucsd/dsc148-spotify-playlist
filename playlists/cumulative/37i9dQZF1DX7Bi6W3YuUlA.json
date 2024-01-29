@@ -7098,10 +7098,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 191502,
       "name": "Toast",
       "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
+    },
+    {
+      "album": {
+        "name": "Toast (Remix)",
+        "url": "https://open.spotify.com/album/24oZPmdzVJ7X5agJbGpK8d"
+      },
+      "artists": [
+        {
+          "name": "J Star",
+          "url": "https://open.spotify.com/artist/4XoVFXRNNMzxuEpxRt2lqp"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187245,
+      "name": "Toast - Remix",
+      "url": "https://open.spotify.com/track/5Nc0d8sxVWjUoH85NuCiJU"
     },
     {
       "album": {

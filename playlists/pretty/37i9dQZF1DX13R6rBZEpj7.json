@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 202039,
+  "num_followers": 202091,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjM3MDVjN2VhZTNmNDRkZjc0NTM1YTk2MzhhNDIxNGYwNTRhZGIx",
+  "snapshot_id": "MCw2NWRjMjM1MmI5MTdmMDBhYzZiNjhiMmUzZjE3OTM5Nzg1NTY3NmVj",
   "tracks": [
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Came Here For",
-        "url": "https://open.spotify.com/album/2hJch4KUiT6m6vLURAeDCG"
-      },
-      "artists": [
-        {
-          "name": "Cajama",
-          "url": "https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY"
-        },
-        {
-          "name": "x.o.anne",
-          "url": "https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "Came Here For",
-      "url": "https://open.spotify.com/track/2V3S1RkfQlvCZQIjO62LKa"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
         "name": "This Sound",
         "url": "https://open.spotify.com/album/3tvCBG7axwQrj57zrurbws"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 257390,
       "name": "This Sound",
       "url": "https://open.spotify.com/track/5sQoVIKIgJnPkjZoq42AhX"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
+        "name": "Came Here For",
+        "url": "https://open.spotify.com/album/2hJch4KUiT6m6vLURAeDCG"
+      },
+      "artists": [
+        {
+          "name": "Cajama",
+          "url": "https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY"
+        },
+        {
+          "name": "x.o.anne",
+          "url": "https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "Came Here For",
+      "url": "https://open.spotify.com/track/2V3S1RkfQlvCZQIjO62LKa"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Never",
-        "url": "https://open.spotify.com/album/1xmjSW9vcDWID0kWHWcZGn"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        },
-        {
-          "name": "Aleya Mae",
-          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "Never",
-      "url": "https://open.spotify.com/track/4HfPqI7QIU5YzjjxxSMmRo"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
         "name": "Liberation",
         "url": "https://open.spotify.com/album/5JX891euRdXxQuUNl5f1oW"
       },
@@ -1327,22 +1307,22 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Check Yourself",
-        "url": "https://open.spotify.com/album/7HlM6tx37YlyZtIBIdsjFl"
+        "name": "Never",
+        "url": "https://open.spotify.com/album/1xmjSW9vcDWID0kWHWcZGn"
       },
       "artists": [
         {
-          "name": "909",
-          "url": "https://open.spotify.com/artist/1BGPK5MFxGtMlDfMym8fQF"
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
         },
         {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+          "name": "Aleya Mae",
+          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
         }
       ],
-      "duration_ms": 207619,
-      "name": "Check Yourself",
-      "url": "https://open.spotify.com/track/3CBdMIBhkAffORLkygycWR"
+      "duration_ms": 206500,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/4HfPqI7QIU5YzjjxxSMmRo"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1359,6 +1339,26 @@
       "duration_ms": 232888,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
+        "name": "Check Yourself",
+        "url": "https://open.spotify.com/album/7HlM6tx37YlyZtIBIdsjFl"
+      },
+      "artists": [
+        {
+          "name": "909",
+          "url": "https://open.spotify.com/artist/1BGPK5MFxGtMlDfMym8fQF"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "duration_ms": 207619,
+      "name": "Check Yourself",
+      "url": "https://open.spotify.com/track/3CBdMIBhkAffORLkygycWR"
     },
     {
       "added_at": "2024-01-26 00:00:00",

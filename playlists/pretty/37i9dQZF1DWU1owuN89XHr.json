@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 270555,
+  "num_followers": 270644,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Njk4NTkwNzNhZmVhZWQwYjFiOTUzZTVkMjM5Mzk1MmNlNmI4ZTQx",
+  "snapshot_id": "MCw4NDIwNTY4YzkzMGQyMWE5ZDExMTA2NDQzMDM4NmM2MGYxMDhhY2Nk",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -383,18 +383,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Mujer Que Camina",
-        "url": "https://open.spotify.com/album/7sm8OhJ1XcOSc1SCtlzFHK"
+        "name": "De Carne y Hueso",
+        "url": "https://open.spotify.com/album/5vhobYClzYYgOR8FCd9Uj8"
       },
       "artists": [
         {
-          "name": "Alejandro Filio",
-          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
         }
       ],
-      "duration_ms": 322013,
-      "name": "Mujer Que Camina",
-      "url": "https://open.spotify.com/track/5U1hQvJzMLsjeySz5V5BuG"
+      "duration_ms": 261493,
+      "name": "Kil\u00f3metros de Cielo",
+      "url": "https://open.spotify.com/track/6UrLQTasnzlYYKo0U5IICp"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -415,18 +415,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "De Carne y Hueso",
-        "url": "https://open.spotify.com/album/5vhobYClzYYgOR8FCd9Uj8"
+        "name": "Mujer Que Camina",
+        "url": "https://open.spotify.com/album/7sm8OhJ1XcOSc1SCtlzFHK"
       },
       "artists": [
         {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+          "name": "Alejandro Filio",
+          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
         }
       ],
-      "duration_ms": 261493,
-      "name": "Kil\u00f3metros de Cielo",
-      "url": "https://open.spotify.com/track/6UrLQTasnzlYYKo0U5IICp"
+      "duration_ms": 322013,
+      "name": "Mujer Que Camina",
+      "url": "https://open.spotify.com/track/5U1hQvJzMLsjeySz5V5BuG"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -535,22 +535,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Pablo Milan\u00e9s: Un Concierto para Am\u00e9rica (Live)",
-        "url": "https://open.spotify.com/album/128iTJllUXrFI9VogghxEJ"
-      },
-      "artists": [
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 268964,
-      "name": "El Breve Espacio en Que No Est\u00e1s - Live",
-      "url": "https://open.spotify.com/track/5gqjhBhOtdSJpB7el7VXCj"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "S\u00f3lo, Ni Tan S\u00f3lo, Vol. 2 (Acoustic Live Version)",
         "url": "https://open.spotify.com/album/0J37bveorWwGLl1fSn7ZqJ"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 245413,
       "name": "El Manual de Lo Prohibido - Acoustic Live Version",
       "url": "https://open.spotify.com/track/126lK16xw9pZo9N1xTf8Oy"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Pablo Milan\u00e9s: Un Concierto para Am\u00e9rica (Live)",
+        "url": "https://open.spotify.com/album/128iTJllUXrFI9VogghxEJ"
+      },
+      "artists": [
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "duration_ms": 268964,
+      "name": "El Breve Espacio en Que No Est\u00e1s - Live",
+      "url": "https://open.spotify.com/track/5gqjhBhOtdSJpB7el7VXCj"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "1978/1988",
-        "url": "https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Filio",
-          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "Quiz\u00e1s una Flor",
-      "url": "https://open.spotify.com/track/7H1ED0sczqO7nfmy9sGHEe"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Vicente Feli\u00fa",
         "url": "https://open.spotify.com/album/4RxfaSazhSz83FbGHVvDaX"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 201338,
       "name": "Esther homenaje",
       "url": "https://open.spotify.com/track/2PAG1xqCniDbKzXhO0f2yO"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "1978/1988",
+        "url": "https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Filio",
+          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Quiz\u00e1s una Flor",
+      "url": "https://open.spotify.com/track/7H1ED0sczqO7nfmy9sGHEe"
     },
     {
       "added_at": "2021-07-29 16:46:05",

@@ -4,7 +4,7 @@
 
 > Faith without work\[out\]s is dead\.  Get your beast mode on!
 
-527 songs - 1 day 2 hr 6 min
+528 songs - 1 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,7 +292,7 @@
 | [Loyal Til The End \(feat\. Jon Keith\)](https://open.spotify.com/track/0XDdbGVWoomccMBmkkkPs9) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 4:02 | 2022-02-04 | 2023-08-12 |
 | [MAD 2 THE MAX](https://open.spotify.com/track/6y6hyRiHnfwHKd2D8oy00W) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [TRANSCENDENT](https://open.spotify.com/album/6rIfLRsHOsNEsLsRV3V5RG) | 2:24 | 2022-12-16 | 2023-08-12 |
 | [MAKE IT MAKE SENSE](https://open.spotify.com/track/5XOsnWdQhXQbwW3DMmSp9D) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [MAKE IT MAKE SENSE](https://open.spotify.com/album/3JQmpYGKuUhmJ0CttBZCC5) | 2:45 | 2022-04-30 | 2023-11-03 |
-| [Make It Out \(From "Bad Things Happen In Philadelphia"\)](https://open.spotify.com/track/6jE9tkuIHU1Ggo2GAAure5) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Make It Out \(From "Bad Things Happen In Philadelphia"\)](https://open.spotify.com/album/6lRoiB35gfnd3zOyxO9x4X) | 2:39 | 2024-01-12 |  |
+| [Make It Out \(From "Bad Things Happen In Philadelphia"\)](https://open.spotify.com/track/6jE9tkuIHU1Ggo2GAAure5) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Make It Out \(From "Bad Things Happen In Philadelphia"\)](https://open.spotify.com/album/6lRoiB35gfnd3zOyxO9x4X) | 2:39 | 2024-01-12 | 2024-01-29 |
 | [Marvelous](https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Marvelous](https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt) | 2:22 | 2023-08-11 |  |
 | [Meant For Good](https://open.spotify.com/track/3HzNYPLR7TB2PkDak8kVEN) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [HELP!](https://open.spotify.com/album/6GH2Oi7zWgZsVKLz9IRLH6) | 3:34 | 2022-05-28 | 2022-08-07 |
 | [Menace](https://open.spotify.com/track/5IkWtYpw1WqIpr6zbVsrGQ) | [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [Menace](https://open.spotify.com/album/2Z2SIzz0bV2hpan15gsmMc) | 2:44 | 2023-11-02 |  |
@@ -308,6 +308,7 @@
 | [Move \(Keep Walkin’\)](https://open.spotify.com/track/4Opt8AwROn5AXMQ20mNvHq) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:41 | 2022-03-23 | 2022-04-21 |
 | [Muzzle](https://open.spotify.com/track/205gltq1f8eo49aii55f81) | [Zelijah Tishbite](https://open.spotify.com/artist/1PyYLasAElH6ZMJ4n3DPh4) | [Muzzle](https://open.spotify.com/album/6F4nQqEvCzuejRPLPcslFD) | 2:54 | 2022-03-23 | 2023-11-03 |
 | [MVP](https://open.spotify.com/track/00uwU1dENamylOgeLh2ask) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [MVP](https://open.spotify.com/album/0nDku2WGHlH96oLtvN3Z4n) | 2:07 | 2023-08-11 |  |
+| [My Banner](https://open.spotify.com/track/4zpbWsXvqzvDE7X9F36aJX) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [My Banner](https://open.spotify.com/album/0msCROB5BcYESQ1YD3N98w) | 3:20 | 2024-01-12 |  |
 | [MY SPACE](https://open.spotify.com/track/3Z5ezWXb965iY2BlPEdS4N) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [NEW HOLLYWOOD](https://open.spotify.com/album/7BVSP15gMNXLl3DnJkyyjc) | 3:02 | 2022-10-01 | 2023-08-12 |
 | [my year](https://open.spotify.com/track/29xxP6mLTIadUao1NHMj9x) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [AOTY](https://open.spotify.com/album/2uooBtdxDqd5dU7QaBTPcm) | 4:00 | 2022-05-28 | 2023-08-12 |
 | [Need You](https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq) | [Caz](https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu) | [Need You](https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl) | 3:20 | 2022-03-23 | 2023-12-15 |

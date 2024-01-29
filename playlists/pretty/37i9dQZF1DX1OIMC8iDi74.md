@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: TWERL
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,832 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,711 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 96 | [Voices](https://open.spotify.com/track/2tsIMR0ok3KDqJ4oodDRjg) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Voices](https://open.spotify.com/album/3Xug1RZvXgaLQf7yPVlu7n) | 3:08 |
 | 97 | [All Again](https://open.spotify.com/track/1EHT4y5kyE0goaTmSEdEqW) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [All Again](https://open.spotify.com/album/4En2WlLfGumuYwiqY6jJEG) | 2:37 |
 | 98 | [GOATED](https://open.spotify.com/track/2tPiJ3Rp20TsiG0nrvEyEp) | [Rickyxsan](https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ), [Mike Jones](https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0) | [GOATED](https://open.spotify.com/album/7vhMu8cSg5nx9CQgXQTdjG) | 3:00 |
-| 99 | [Lights Go Down \- Peekaboo Remix](https://open.spotify.com/track/0RJgmCUXLIDQ2kMMAD5cGs) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Lights Go Down \(Peekaboo Remix\)](https://open.spotify.com/album/5dqobhABvWXbytvUKbPpnB) | 5:25 |
-| 100 | [REDloop](https://open.spotify.com/track/54ZY8FCkx9Mgs9EXB2KLk5) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [REDloop](https://open.spotify.com/album/4eaYfg0CXG33rfHNOlnufL) | 3:45 |
+| 99 | [REDloop](https://open.spotify.com/track/54ZY8FCkx9Mgs9EXB2KLk5) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [REDloop](https://open.spotify.com/album/4eaYfg0CXG33rfHNOlnufL) | 3:45 |
+| 100 | [Lights Go Down \- Peekaboo Remix](https://open.spotify.com/track/0RJgmCUXLIDQ2kMMAD5cGs) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Lights Go Down \(Peekaboo Remix\)](https://open.spotify.com/album/5dqobhABvWXbytvUKbPpnB) | 5:25 |
 
-Snapshot ID: `MCxiNGE2Mzc2MDljN2ZlOGM0M2QwMDAzOWUyNmQzNjcyNTdmODM2YjRk`
+Snapshot ID: `MCxhNDExNThhNDgyMzYwODA0MzAzM2JkZDRmN2RiYTc2MjgzNWJmZGEz`

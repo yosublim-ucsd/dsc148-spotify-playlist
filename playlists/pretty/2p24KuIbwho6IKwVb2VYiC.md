@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Kungs, David Guetta, Izzy Bizu
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,240 likes - 86 songs - 4 hr 29 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,239 likes - 86 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

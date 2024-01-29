@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 213806,
+  "2024-01-29": 214002,
   "date_first_scraped": "2022-01-21",
   "description": "The notes that will make you long for those days of yore.",
   "name": "Golden Instrumentals",
@@ -147,6 +147,24 @@
       "duration_ms": 145186,
       "name": "Afrikaan Beat",
       "url": "https://open.spotify.com/track/5XaJ4JiP7IzrA58PopxKn1"
+    },
+    {
+      "album": {
+        "name": "Afrikaan Beat And Other Favorites (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eTlcCnO2PwdmehwWSGMnm"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145506,
+      "name": "Afrikaan Beat",
+      "url": "https://open.spotify.com/track/6qCCiF2yLCkKZ1YcY3TzpG"
     },
     {
       "album": {
@@ -2445,7 +2463,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 165293,
       "name": "Petite Fleur",
       "url": "https://open.spotify.com/track/76Xo2n1QOu3k4QAX0AepFE"

@@ -1,12 +1,12 @@
 {
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: \u30b5\u30d0\u30b7\u30b9\u30bf\u30fc (Saba Sister)",
-  "num_followers": 115061,
+  "num_followers": 115144,
   "original_name": "Punk Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGJjMTg5NTg5ZjU2NjIyMmVmMzJlYWM5YzAwYmZhOWYxYmM4ZjE0",
+  "snapshot_id": "MCw0MTYxZGU3MWQ3ZTZkZGY0MGE1MTJmMTQ3NTZjMTJmOWU4MDhkYWZk",
   "tracks": [
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
+        "name": "I'M A RAT",
+        "url": "https://open.spotify.com/album/2b8IfylXhVRBnF1UHwT2Rh"
+      },
+      "artists": [
+        {
+          "name": "Hi-STANDARD",
+          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+        }
+      ],
+      "duration_ms": 124719,
+      "name": "I'M A RAT",
+      "url": "https://open.spotify.com/track/3mmmFNse4YOe6DK8SRoNzG"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
         "name": "\u3055\u304f\u3089\u306e\u5504",
         "url": "https://open.spotify.com/album/48SXTUrfrvgKVPoVQjeur0"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 226400,
       "name": "\u3082\u3057\u3082\u541b\u304c\u6ce3\u304f\u306a\u3089\u3070",
       "url": "https://open.spotify.com/track/1xCQa1dJC3jIXGHaTo7273"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
-        "name": "Wicked and Naked",
-        "url": "https://open.spotify.com/album/3QQYI3nyuD3vinb0VJetFH"
-      },
-      "artists": [
-        {
-          "name": "TOTALFAT",
-          "url": "https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "PARTY PARTY",
-      "url": "https://open.spotify.com/track/1UJ85UjmaZGw1Xolf5mGTS"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "I'M A RAT",
-        "url": "https://open.spotify.com/album/2b8IfylXhVRBnF1UHwT2Rh"
+        "name": "Wicked and Naked",
+        "url": "https://open.spotify.com/album/3QQYI3nyuD3vinb0VJetFH"
       },
       "artists": [
         {
-          "name": "Hi-STANDARD",
-          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+          "name": "TOTALFAT",
+          "url": "https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE"
         }
       ],
-      "duration_ms": 124719,
-      "name": "I'M A RAT",
-      "url": "https://open.spotify.com/track/3mmmFNse4YOe6DK8SRoNzG"
+      "duration_ms": 219400,
+      "name": "PARTY PARTY",
+      "url": "https://open.spotify.com/track/1UJ85UjmaZGw1Xolf5mGTS"
     },
     {
       "added_at": "2024-01-25 15:00:00",

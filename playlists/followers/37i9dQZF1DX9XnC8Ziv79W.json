@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 5374,
+  "2024-01-29": 5381,
   "date_first_scraped": "2023-05-19",
   "description": "Check out the very own Rhythm of Madras!\nCover : Asal Kolaar",
   "name": "Tamil Indie : Gaana",
@@ -315,7 +315,7 @@
     {
       "album": {
         "name": "Ennoda Kanavil Vantha Ennoda Dhevathaye",
-        "url": "https://open.spotify.com/album/0YSmac7fjjcvtdrGgNIW9K"
+        "url": "https://open.spotify.com/album/3y9JzZTgKJuP9TSWw27Zuk"
       },
       "artists": [
         {
@@ -326,6 +326,24 @@
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 356731,
+      "name": "Ennoda Kanavil Vantha Ennoda Dhevathaye",
+      "url": "https://open.spotify.com/track/4yK5B0xPEZDR3LhFSxW70z"
+    },
+    {
+      "album": {
+        "name": "Ennoda Kanavil Vantha Ennoda Dhevathaye",
+        "url": "https://open.spotify.com/album/0YSmac7fjjcvtdrGgNIW9K"
+      },
+      "artists": [
+        {
+          "name": "Joy Sanjai",
+          "url": "https://open.spotify.com/artist/0Z9mGj0nfAQPzoFsLghr9M"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-28",
       "duration_ms": 356731,
       "name": "Ennoda Kanavil Vantha Ennoda Dhevathaye",
       "url": "https://open.spotify.com/track/6jW5NYJwRjyXveNWsM6tEo"

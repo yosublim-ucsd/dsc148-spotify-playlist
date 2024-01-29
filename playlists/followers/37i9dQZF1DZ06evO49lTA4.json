@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 738242,
+  "2024-01-29": 738417,
   "date_first_scraped": "2023-09-22",
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
   "name": "This Is Luke Combs",
@@ -57,7 +57,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 217280,
       "name": "A Long Way",
       "url": "https://open.spotify.com/track/3z1QH1O1h15lFROjcECqgi"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 210920,
       "name": "Beer Can",
       "url": "https://open.spotify.com/track/5k8m3ZCp3AP4TKd2IKzKO8"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 186733,
       "name": "Beer Never Broke My Heart",
       "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 204240,
       "name": "Refrigerator Door",
       "url": "https://open.spotify.com/track/3bfuN2UbSYYqCLG3cdweGf"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 183160,
       "name": "She Got the Best of Me",
       "url": "https://open.spotify.com/track/698eQRku24PIYPQPHItKlA"
@@ -857,7 +857,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 165666,
       "name": "The Way She Rides",
       "url": "https://open.spotify.com/track/4t2AnYhvH7gr59zLJ5Cn6c"

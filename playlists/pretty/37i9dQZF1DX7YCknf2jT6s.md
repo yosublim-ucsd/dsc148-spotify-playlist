@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Nubya Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,130 likes - 100 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,470 likes - 100 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fortify](https://open.spotify.com/track/0oD4SYLAvCK5PI38bUK2jc) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Fortify](https://open.spotify.com/album/74mZzqkL5nvDDyBGbyMX0g) | 5:49 |
-| 2 | [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/4o6BNrTOcajYSCAFkqL71c) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Yussef Dayes Experience \- Live From Malibu](https://open.spotify.com/album/5gohS1223mJrzBVQzakpjm) | 4:08 |
+| 2 | [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/65lKgD4JnUU5EYaqMly9T6) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Yussef Dayes Experience \(Live From Malibu\)](https://open.spotify.com/album/3PGNm2ibnsl8rldfXjQ1wB) | 4:08 |
 | 3 | [Lay Lady Lay \- Radio Edit](https://open.spotify.com/track/5OG31noejjsYhav7aY4Uui) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU), [John Medeski](https://open.spotify.com/artist/46IQ7Q0jkW6dW0l4e15FFD), [Larry Grenadier](https://open.spotify.com/artist/4HGsz6HI7mw7t14Fb2irLV), [Hudson](https://open.spotify.com/artist/5TLN8NgSEohypkfU1sKwaI) | [Hudson \(Deluxe Edition\)](https://open.spotify.com/album/4eG2q4jobDvU5Leo0oI3ut) | 3:46 |
 | 4 | [Wait A While](https://open.spotify.com/track/2y7p83lOa1MpcyTeHHYXcL) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Farah Audhali](https://open.spotify.com/artist/7MLxTev9ycEN906jNOxX4U), [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH) | [Wait A While](https://open.spotify.com/album/7t25V8XrGM2RzxXrb11dPu) | 3:34 |
 | 5 | [central park west](https://open.spotify.com/track/1RzZ52eCHTUA9VkIJMMcO3) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [central park west](https://open.spotify.com/album/4jR1pj36uwbnOKxBphdmEG) | 4:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [The Junglist \- Bonus Track](https://open.spotify.com/track/0Ew7cCW9CQWEZX8KrOIiFk) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn \(10th Anniversary Remaster\)](https://open.spotify.com/album/6KPAS8bKufxqev7XFgg8ss) | 5:18 |
 | 100 | [Eye Never Knew \[Feat\. Pink Siifu, Keyon Harrold\]](https://open.spotify.com/track/1Z5OAreCNpapmYDkmzbuM5) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Eye Never Knew \[Feat\. Pink Siifu, Keyon Harrold\]](https://open.spotify.com/album/4511OYwmrYTxyIWeN06Pql) | 3:30 |
 
-Snapshot ID: `MCw1OGJmNjM2YWVjY2I0OTgzOWVmMTE4NzQwMTMxYWVlOGEzYzk3ZGVm`
+Snapshot ID: `MCwyOTNkYzc0Y2M3ODdjYWMxOTQ1OGJhNDFjOGM1NTAyZDgxMjczOTgz`

@@ -468,10 +468,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 199014,
       "name": "Ain't It Funny",
       "url": "https://open.spotify.com/track/2XFYO0Tp9nQ470T8x7KpLA"
+    },
+    {
+      "album": {
+        "name": "Keep It To Yourself",
+        "url": "https://open.spotify.com/album/5tB3tjThhawiGBwASIEXjr"
+      },
+      "artists": [
+        {
+          "name": "The Tibbs",
+          "url": "https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199014,
+      "name": "Ain't It Funny",
+      "url": "https://open.spotify.com/track/6ToyjrRZI3n7pgnhgr0gst"
     },
     {
       "album": {
@@ -4652,10 +4670,28 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 178966,
       "name": "Give Me a Reason",
       "url": "https://open.spotify.com/track/4UUYZvP9SmlyjZ3i70YuMW"
+    },
+    {
+      "album": {
+        "name": "Keep It To Yourself",
+        "url": "https://open.spotify.com/album/5tB3tjThhawiGBwASIEXjr"
+      },
+      "artists": [
+        {
+          "name": "The Tibbs",
+          "url": "https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178966,
+      "name": "Give Me a Reason",
+      "url": "https://open.spotify.com/track/6H4uvuMnonERh5DucTznYq"
     },
     {
       "album": {

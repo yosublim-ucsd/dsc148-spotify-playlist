@@ -3110,7 +3110,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 190532,
       "name": "Fire 4 Fire",
       "url": "https://open.spotify.com/track/6i2abtBneioUeBlLVg3ncx"
@@ -5636,6 +5636,24 @@
       "duration_ms": 171445,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/0JAzlCL0Btz2z6qWN09AaG"
+    },
+    {
+      "album": {
+        "name": "Manifest (My Prayer)",
+        "url": "https://open.spotify.com/album/6Sx26wth07xY8HhYACRaZu"
+      },
+      "artists": [
+        {
+          "name": "Toby Grey",
+          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Manifest (My Prayer)",
+      "url": "https://open.spotify.com/track/5PQPG6LgvLxDuB02z4zSzY"
     },
     {
       "album": {
@@ -9328,8 +9346,8 @@
       },
       "artists": [
         {
-          "name": "K.J Spio",
-          "url": "https://open.spotify.com/artist/2FupL1k7vpEQwj6Rtp3bbJ"
+          "name": "KJ Spio",
+          "url": "https://open.spotify.com/artist/72Rav2u2DeRPJuA44Ng0n0"
         },
         {
           "name": "Oxlade",

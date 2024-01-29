@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Lara Fabian
 
-2,292 songs - 5 day 2 hr 22 min
+2,293 songs - 5 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,7 +419,7 @@
 | [Comment tu vas?](https://open.spotify.com/track/3KsUnYbPcOMHetYdc3ftlZ) | [King Maliba](https://open.spotify.com/artist/5qdNvzjfLvWUkcbWVjuu08) | [Comment tu vas?](https://open.spotify.com/album/7GdSUvEjuoeKPF03foQpeD) | 3:02 | 2022-04-15 | 2022-04-23 |
 | [Commun maintenant \- Session live H2T](https://open.spotify.com/track/5cqlX4QK1VnaK0cT0d8vSL) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Commun maintenant \(Session Live H2T\)](https://open.spotify.com/album/7wgAYh8mujlxEtD8wtpQFQ) | 3:24 | 2022-05-27 | 2022-06-04 |
 | [Confetti \(VF\)](https://open.spotify.com/track/5Avs3gR4TlMVBZMp0YvsHN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti \(VF\)](https://open.spotify.com/album/4VJNLOXqF1aKhk2BIxMeuI) | 3:04 | 2023-05-05 | 2023-06-09 |
-| [CONNEXION](https://open.spotify.com/track/75Dy7b1yzlIJ8YNFMrWpV4) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [CONNEXION](https://open.spotify.com/album/2YzwklEbU1QAg2sR4MTpog) | 2:55 | 2024-01-05 |  |
+| [CONNEXION](https://open.spotify.com/track/75Dy7b1yzlIJ8YNFMrWpV4) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [CONNEXION](https://open.spotify.com/album/2YzwklEbU1QAg2sR4MTpog) | 2:55 | 2024-01-05 | 2024-01-29 |
 | [CONS’ DE LOVE](https://open.spotify.com/track/73eih2FtSIuGkKvqZpMGnW) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [L'Amour...](https://open.spotify.com/album/0CyzYWU1ZY7Z5Eggx2c3ML) | 2:45 | 2023-09-22 | 2023-11-18 |
 | [Contentement](https://open.spotify.com/track/2sSwrRdkrWSbtKNPvOAz39) | [Julie Aubé](https://open.spotify.com/artist/33iNg8aAPLNrC4e69kjMuM) | [Contentement](https://open.spotify.com/album/0JxgRw0X8dicjH6keF8f0M) | 3:25 | 2022-09-09 | 2022-09-24 |
 | [Contvct \(feat\. Aya Nakamura\)](https://open.spotify.com/track/7BIPJBIGoxQTn3i748Wk0j) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [LMDB](https://open.spotify.com/album/18xrakiypJXRVWnCD30zjD) | 2:56 | 2022-10-07 | 2022-10-22 |
@@ -512,6 +512,7 @@
 | [Dernière danse](https://open.spotify.com/track/3UYc8Rc0hskiAzyvczieGl) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Dernière danse](https://open.spotify.com/album/59Aeo4d7E0FVfHH5wZVi3Q) | 3:11 | 2023-06-23 | 2023-09-09 |
 | [Dernière danse](https://open.spotify.com/track/7rCgUChULpKv1y0MLOaB4X) | [Many Hundred Towns](https://open.spotify.com/artist/3AXB2ECtH25kZuyZG1e5xU), [Jolane Simard](https://open.spotify.com/artist/2AkZ1lqL87lS6vBuX8SYxA) | [Dernière danse](https://open.spotify.com/album/2NZmzydGXjD71uTmwIDSFY) | 3:32 | 2022-07-22 | 2022-08-20 |
 | [Dernière danse](https://open.spotify.com/track/1iJuIKRRtGp0t6gJQvd6W1) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Dernière danse](https://open.spotify.com/album/6hURADTx1Ymlwx2NnZj69H) | 2:51 | 2022-03-18 | 2022-04-02 |
+| [Dernière danse \- Techno Mix](https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Dernière danse \(Techno Mix\)](https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q) | 3:17 | 2024-01-26 |  |
 | [Dernière fois](https://open.spotify.com/track/0udfbNVYXI0vJkSPqnHvvY) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Dernière fois](https://open.spotify.com/album/1SYhFcpQJ1CU6s6KraTiCv) | 3:18 | 2023-06-23 | 2023-09-09 |
 | [Dernière fois](https://open.spotify.com/track/4PJtgFWghFBHGD6J4q5lhp) | [Sneazzy](https://open.spotify.com/artist/1cA379ILgR07m7XQVXyP6Q) | [Dernière fois](https://open.spotify.com/album/6iS3QT8SnIbsYbxvcvqZWB) | 3:01 | 2022-02-18 | 2022-03-05 |
 | [Derrière le jour](https://open.spotify.com/track/0Va586bS36sGEjVZWhvZ0l) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn), [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Derrière le jour](https://open.spotify.com/album/3voXYeH3wpX4b1UDzo5rhu) | 3:31 | 2024-01-19 | 2024-01-27 |

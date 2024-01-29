@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di AVA, Neima Ezza, Capo Plaza, Niky Savage e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,362 likes - 90 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,423 likes - 90 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 32 | [Focus](https://open.spotify.com/track/76FjkISUAScGV9EVVyfveX) | [Solo Venom](https://open.spotify.com/artist/3ACWTYVAyH6K0n07z9FotZ) | [Focus](https://open.spotify.com/album/6p2qG0Z0wmScAXLLCPOYLe) | 3:23 |
 | 33 | [IO SOLO](https://open.spotify.com/track/7eia2gRTczMU59LoOANsIs) | [Vago](https://open.spotify.com/artist/02HjKECtF08ZgloUOOyWHo) | [IO SOLO](https://open.spotify.com/album/6dGrzk8avK9izmMh3lR5Ct) | 2:05 |
 | 34 | [Antimateria Organica](https://open.spotify.com/track/19TZdk1nw9YvNNSZiZ3vay) | [N¡k](https://open.spotify.com/artist/5sLXvgVTv7lsDjO6CYwqHd) | [Antimateria Organica](https://open.spotify.com/album/1a2iB4MisOjiX1quVEf1wa) | 1:24 |
-| 35 | [Pidditta](https://open.spotify.com/track/1MzX0bCa7jKQl3irVK2wsd) | [Carlo Ragazzo](https://open.spotify.com/artist/1Gd8pBpWcI3jLoDoAbCE7L), [Toni Zeno](https://open.spotify.com/artist/3EjtKBJgiLErF6cprWuHXG) | [DIES IRAE](https://open.spotify.com/album/4VFPf74QfBxWvFWjYdqNXb) | 3:10 |
+| 35 | [Pidditta](https://open.spotify.com/track/1MzX0bCa7jKQl3irVK2wsd) | [Carlo Ragazzo](https://open.spotify.com/artist/1K299mHgnPgQXWvkQpk15i), [Toni Zeno](https://open.spotify.com/artist/3EjtKBJgiLErF6cprWuHXG) | [DIES IRAE](https://open.spotify.com/album/4VFPf74QfBxWvFWjYdqNXb) | 3:10 |
 | 36 | [Sembra Cap](https://open.spotify.com/track/5GRNCRTXAyhcZWEdFS3QC7) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [Sembra Cap](https://open.spotify.com/album/5ayLm2ALhCbqt3cjNl2NCj) | 2:45 |
 | 37 | [JAPANESE](https://open.spotify.com/track/58gzVKHQ3HTTJhUnt65XDP) | [ViraH](https://open.spotify.com/artist/69o2pHVfX91A567pn3hehS) | [JAPANESE](https://open.spotify.com/album/6AkuFnGVxtCpRVE4HRUWBP) | 3:06 |
 | 38 | [Hebs](https://open.spotify.com/track/3EyDmcEetdHSOdY2V1xsXj) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [Hebs](https://open.spotify.com/album/0yNWGKvITLUfl9wufIjo4W) | 2:51 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 89 | [GENEVIEVE](https://open.spotify.com/track/0FaNdZ9t8Le9CvlS7fAcMS) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv) | [GENEVIEVE](https://open.spotify.com/album/0xyjoOGikHhA6bxT9pXOzk) | 2:34 |
 | 90 | [STEP BY STEP](https://open.spotify.com/track/6azRsazhYFpDXcjOcEaqdC) | [Flus Brain](https://open.spotify.com/artist/3cIN4XjkAfNwfGLKVPoofY), [PhilG](https://open.spotify.com/artist/2asDlsjpu5fEraiS3nWGPE), [Vaglie](https://open.spotify.com/artist/0TwdOHVNvrlbU0YSJ487KK) | [STEP BY STEP](https://open.spotify.com/album/3QmRXmRqLCBpOxAiN78Ibg) | 2:29 |
 
-Snapshot ID: `MCwyYTc2MWQzM2E1NzljNmQzNGRiZGYwYmQ4NmE5ZjJiMWYyYmY3YWFh`
+Snapshot ID: `MCwxNTdmM2MyNTQ0ZGNjYTNlM2IzYzkwYjFiMmQ3YTQzODM0MGE0Mjky`

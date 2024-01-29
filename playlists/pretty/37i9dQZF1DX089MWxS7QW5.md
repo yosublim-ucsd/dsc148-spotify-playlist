@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Jooyoung\(주영\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,560 likes - 52 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,590 likes - 52 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 51 | [DAY N NIGHT](https://open.spotify.com/track/7mf5QqTBynvYLk3bASLVJh) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [DAY N NIGHT](https://open.spotify.com/album/7eovAYPFqZattIUZ1vsNkh) | 3:07 |
 | 52 | [I Want to Be Closer to You](https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [A Love Supreme](https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi) | 3:30 |
 
-Snapshot ID: `MCw3OWQ5ZjAxMTdjZTYzZWFiNWU4YTM4OTkwMmMyNGRiOWY2MGRiODBj`
+Snapshot ID: `MCw3NzExMGZhMDcyNDMwYzdjNzU1Yjk5OGYxNGMzY2YxMGI4YzNiYTY3`

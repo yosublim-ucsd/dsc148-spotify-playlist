@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Oakman
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,012 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,014 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [Comfort Zone](https://open.spotify.com/track/4meJcWnZIsYL5CDpamJH0D) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [Comfort Zone](https://open.spotify.com/album/3Wm8avMamR1wrfyYtmbrK7) | 3:32 |
 | 50 | [New Career](https://open.spotify.com/track/5ALHNp45uN1jpPypqcHhHf) | [Hoorsees](https://open.spotify.com/artist/2jEi3FU5iGeVWxOCm9BTX4) | [Big](https://open.spotify.com/album/4YcCaPA0E4BifZ2jjpgDah) | 3:30 |
 
-Snapshot ID: `MCxmZjM0ZDgyNTQwMzNjMmMyMGVkZGNkMGMyYTk2ZWM4ODMwYjcyMGJm`
+Snapshot ID: `MCxlNDVjM2ExYWY3MDdlNGRmODFhMjgxM2IxNmRkN2VhYWZhOTVmYzNh`

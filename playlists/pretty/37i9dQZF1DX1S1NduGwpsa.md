@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Naama
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,047 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,104 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Baby Won't You Please Come Home](https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z) | [Naama](https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg) | [Baby Won't You Please Come Home](https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk) | 3:19 |
 | 2 | [Reach Out I'll Be There](https://open.spotify.com/track/3Aob4GmG6EFusxwI2dbGh4) | [Térez Montcalm](https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB) | [Reach Out I'll Be There](https://open.spotify.com/album/2iAQxZSo3JEQ4Zqm3VeLrK) | 3:40 |
-| 3 | [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/4o6BNrTOcajYSCAFkqL71c) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Yussef Dayes Experience \- Live From Malibu](https://open.spotify.com/album/5gohS1223mJrzBVQzakpjm) | 4:08 |
+| 3 | [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/65lKgD4JnUU5EYaqMly9T6) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Yussef Dayes Experience \(Live From Malibu\)](https://open.spotify.com/album/3PGNm2ibnsl8rldfXjQ1wB) | 4:08 |
 | 4 | [In Heaven](https://open.spotify.com/track/3YjDLKrBH1u30LCnT2l1gt) | [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3), [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [Clap!](https://open.spotify.com/album/1HV1d1eZnnlAQkG5beiBQi) | 3:18 |
 | 5 | [Embraceable You](https://open.spotify.com/track/50xfb5jlP00Jv6xMhcpik9) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9) | [Embraceable You](https://open.spotify.com/album/0wEQI7wwW5WTh1WaD09fr6) | 4:48 |
 | 6 | [Just](https://open.spotify.com/track/2a4PkVPUiH7ITVbUUxlxtx) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R) | [Just](https://open.spotify.com/album/1DiPTDwuzbplRZmK9WI805) | 3:46 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 27 | [The Man I Love](https://open.spotify.com/track/4pIDAXRLGPNr8rebHeBze2) | [Thilo Wolf Jazz Quartett](https://open.spotify.com/artist/666q7fags4CW8XuJU8jLlr), [Munich Radio Orchestra](https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX), [Thilo Wolf](https://open.spotify.com/artist/1FMY0g6xQ4ydkaXMdq141W), [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Gershwin Melodies](https://open.spotify.com/album/6P4o9sHXOP8xYf5WB7FlWW) | 6:19 |
 | 28 | [You're the Top](https://open.spotify.com/track/5eroCoaqooWE4FBMZHHxAH) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [You're the Top](https://open.spotify.com/album/57XMvt6aiMjWpJHWTyBo29) | 4:08 |
 | 29 | [Day In Day Out \- Florian Pellissier Extended Version](https://open.spotify.com/track/2HCLYRJnXDMQ9yfjHIiL60) | [Cotonete](https://open.spotify.com/artist/7vRJDtEvLW2MZ4ISs1Zddy), [Leron Thomas](https://open.spotify.com/artist/0lVzm0fYj4BredTD0LMdSY), [Florian Pellissier](https://open.spotify.com/artist/0xiIT6hCcH1oLeoOZjHo0s) | [Day In Day Out \(Florian Pellissier Extended Version\)](https://open.spotify.com/album/7urOxAlRsgKpA64cKZ6jWw) | 7:23 |
-| 30 | [The Colour Purple \- Live From Malibu](https://open.spotify.com/track/3yc3KFakYKMOso38RHBtzI) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Colour Purple](https://open.spotify.com/album/1ionXEA2jbPJgpKKjYHq3Z) | 2:43 |
+| 30 | [The Colour Purple \- Live From Malibu](https://open.spotify.com/track/6OCawhDsDWOyyhWwoumwsT) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Yussef Dayes Experience \(Live From Malibu\)](https://open.spotify.com/album/3PGNm2ibnsl8rldfXjQ1wB) | 2:43 |
 | 31 | [I Got Rhythm \(Arr\. Firth for 2 Pianos\) \- From "Girl Crazy"](https://open.spotify.com/track/4Hc8SPt8CFJnbNjprrIzHH) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6), [Michael Feinstein](https://open.spotify.com/artist/2IcIec7ZxgwaWNJbZ0Sth7) | [Gershwin: I Got Rhythm \(Arr\. Firth for 2 Pianos\) \[From "Girl Crazy"\]](https://open.spotify.com/album/6VGKfvZKJmHJNqWRzQDDnS) | 1:52 |
 | 32 | [It's Alright with Me](https://open.spotify.com/track/45S7VWVW2je3lJ8uOBfFS0) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9) | [It's Alright with Me](https://open.spotify.com/album/40iRG6qHYkWd2bbWFZvKeu) | 3:12 |
 | 33 | [Never Doubt](https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Never Doubt](https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [I loves you Porgy](https://open.spotify.com/track/4wYj7DbAJBNE8YzWpmsWnT) | [Kareen Guiock\-Thuram](https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER) | [Nina](https://open.spotify.com/album/6z7RipHovotv8iZtjz3hIt) | 4:13 |
 | 50 | [Almost Like Being in Love](https://open.spotify.com/track/3qizV4OtxenPpgi4GIGR2U) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Almost Like Being in Love](https://open.spotify.com/album/0Nh59ZpVKxw8TM7nHNEOYk) | 2:39 |
 
-Snapshot ID: `MCxkYzAyYTZlY2EyNGI0MzZhZjhjYzA0ZDAyMDQ2N2Q4NzMyNWI1ZGVh`
+Snapshot ID: `MCxiODNmZmRiNTBhZDkwYTMyNWU2Y2U2N2QzMWQ2YWVkNmY0ZWQxNzc0`

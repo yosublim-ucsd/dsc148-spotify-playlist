@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/3HU5DXz2taeMRxafimOgom?si=IzDcDqJSQz\-G5cFoehBhNQ">Griffit Vigo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,760 likes - 50 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,800 likes - 50 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 49 | [Umhlaka 2](https://open.spotify.com/track/5Yd1gtpJTGDphBNbnDIMVU) | [Dr Dope](https://open.spotify.com/artist/511VpiGCdzuECpteBjWKuT), [The Elevatorz](https://open.spotify.com/artist/5yu1Qzlob7mdCvXWByKuEZ), [JR IGhost](https://open.spotify.com/artist/4V824x6HB7yHu8Sr7sXOUH), [Ainch](https://open.spotify.com/artist/3KyYbO8vsDfPpXOGGVUSHF) | [Umhlaka 2](https://open.spotify.com/album/06tkCF1OAZz0Z8XwDSpE6n) | 5:24 |
 | 50 | [Imali](https://open.spotify.com/track/4u0RKHQuHzEiXySDbRYy1B) | [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle), [Nobantu Vilakazi](https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q) | [Imali](https://open.spotify.com/album/1QTu1sPc5EYFeufpGVVfnc) | 5:34 |
 
-Snapshot ID: `MCxkZjUzYzA2ZDgyZWM5N2YwYzEwMzU3OTViNzIxN2M3OGVlYTFiZjA3`
+Snapshot ID: `MCw0ZDMwMmU5NWJiNjQyMjcxNjFkYjM1M2Q4ZDc2MTM5MzI2Nzg5ZWFi`

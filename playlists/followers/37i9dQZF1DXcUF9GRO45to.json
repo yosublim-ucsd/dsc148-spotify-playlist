@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 34648,
+  "2024-01-29": 34728,
   "date_first_scraped": "2021-12-28",
   "description": "French scene makes some noise!",
   "name": "French Noise",
@@ -2266,6 +2266,24 @@
     },
     {
       "album": {
+        "name": "Genuine Feelings",
+        "url": "https://open.spotify.com/album/7E2hjbpHwAJCiVu6va9HJa"
+      },
+      "artists": [
+        {
+          "name": "Von Pariahs",
+          "url": "https://open.spotify.com/artist/1ZTgRXHRnEsxf1pwq25GQK"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227693,
+      "name": "I Want Her",
+      "url": "https://open.spotify.com/track/4rzSTnaCcgeG68XjMPkhRq"
+    },
+    {
+      "album": {
         "name": "I Was Told",
         "url": "https://open.spotify.com/album/0zWiTtWOkCq97ilSJOO5A1"
       },
@@ -4241,7 +4259,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 197333,
       "name": "So Quarrelsome",
       "url": "https://open.spotify.com/track/5Z9zNP3QnZUZNvakIDKTbP"

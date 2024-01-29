@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny summer vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,246 likes - 65 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,413 likes - 65 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 38 | [Things You Can't Control](https://open.spotify.com/track/389BGaLv0BIG8hcIY1a0im) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Trevor Young](https://open.spotify.com/artist/6FdpwFQezfnM4CtJuh2zaJ) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 4:04 |
 | 39 | [As You Are \- Shy FX Remix](https://open.spotify.com/track/5LBsjW8qNjTpHFPeBoVwca) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [As You Are \(Remixes\)](https://open.spotify.com/album/5jl3bZodIYwlQKAolggKyG) | 3:25 |
 | 40 | [Proper Sensi](https://open.spotify.com/track/4Ga9D6SHCVUNsOLPVSZf9v) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN), [Mr\. Patze](https://open.spotify.com/artist/2YQacuu8Y0C0iXXA4z7k25), [DJ Jeren](https://open.spotify.com/artist/5QkPMsK0XHCvM6jCbKhuEJ) | [Proper Sensi](https://open.spotify.com/album/34Kn8UzygYGV7N5fEAMd4V) | 3:03 |
-| 41 | [Lonely](https://open.spotify.com/track/5rPIC7hQVaDSZryekHY89Z) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi) | 4:08 |
+| 41 | [Lonely](https://open.spotify.com/track/7D3PK92kbJXsPoviayoLN3) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP) | 4:08 |
 | 42 | [Every Day \(feat\. Romain Virgo, Fiji\)](https://open.spotify.com/track/6MaY1vrV1kgOhUxb0XwfjD) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4), [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Every Day \(feat\. Romain Virgo, Fiji\)](https://open.spotify.com/album/6m51kg4NdKR3zzPNetb1qL) | 3:51 |
 | 43 | [I Wonder](https://open.spotify.com/track/5ZCNcQRCQfqdE9gAJir3Hg) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [I Wonder](https://open.spotify.com/album/7yHdGR9ZJLR7Gm56tWdKh8) | 2:39 |
 | 44 | [Mad World](https://open.spotify.com/track/7CgedTnm0Ehh8O1Iaa8OwM) | [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Mad World](https://open.spotify.com/album/5EypOXAENUBdyfTAHbLTe9) | 2:30 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 64 | [Is This Love](https://open.spotify.com/track/2w7xs3r4RZtipgMYTlxsvr) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:48 |
 | 65 | [Magic Potion \(with Lion Rezz\)](https://open.spotify.com/track/2J3SINtTF2idrk1SwXsFtC) | [Lomez Brown](https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [The Feels & Groove EP](https://open.spotify.com/album/7oRRh1N2z8ZWFogGfIVgsM) | 4:12 |
 
-Snapshot ID: `MCw2YTg3ZDA5ZWRhMTk3MDcwYTY4NzRkNWI3MTZhZjBjZjUxNjIxOTQy`
+Snapshot ID: `MCxmNDg2N2I4M2NhOTBhMDI3OTY2Y2ExYWQ1NWY5YmYzMTU0YmQ5N2Jj`

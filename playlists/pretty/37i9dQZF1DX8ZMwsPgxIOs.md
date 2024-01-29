@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Amelie Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,451 likes - 80 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,499 likes - 80 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 79 | [Shook](https://open.spotify.com/track/3pvthFHMfvalSNxcnSJgUM) | [David Lowe](https://open.spotify.com/artist/52dT7EHXa4b74ozIjFISzD), [Brad Edgar](https://open.spotify.com/artist/32zsdaR0kbqUOgHwMAtiTx) | [Shook](https://open.spotify.com/album/5V9YlNz4b31CggAtQ5ubhV) | 3:39 |
 | 80 | [Pinger](https://open.spotify.com/track/6iOSV9Wk97hIpWVHfq29Dj) | [NANCY Live](https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1) | [Pinger](https://open.spotify.com/album/66RRmzSYSxtvkFDjqZzJps) | 4:58 |
 
-Snapshot ID: `MCxlOGE0M2MyYzkxYjFlN2JiZjlhYTE1NGRjYzFmNjgyY2M5MGY4Yjgy`
+Snapshot ID: `MCxkOWFlMmE1M2FhN2I2NzYyNzg3MmYyNWE3M2JhMTUxODQwYjM2ZGEy`

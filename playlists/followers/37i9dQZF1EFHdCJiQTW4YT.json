@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 312,
+  "2024-01-29": 312,
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/7fz7UPTxns39Xp8gj9zoIB\">Stephen Wrabel</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Stephen Wrabel",
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 194000,
       "name": "Baby",
       "url": "https://open.spotify.com/track/21vwWfS6qvxh8TN3lgHvZr"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 195236,
       "name": "Baby",
       "url": "https://open.spotify.com/track/4BbVWoRHYM6xwfGyLyXfYa"
@@ -1359,7 +1359,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 199946,
       "name": "High Road",
       "url": "https://open.spotify.com/track/113vSUnh7fsCbSRNgEH0to"
@@ -1377,7 +1377,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 207445,
       "name": "High Road",
       "url": "https://open.spotify.com/track/61ajurwxRe5ylmgL15chfw"

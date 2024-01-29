@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 856342,
+  "2024-01-29": 856872,
   "date_first_scraped": "2023-08-09",
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
   "name": "This Is Alfredo Olivas",
@@ -111,7 +111,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 239013,
       "name": "Con La Novedad",
       "url": "https://open.spotify.com/track/4BkRkW91EvxeW9VhzVatqi"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 220666,
       "name": "El Zool\u00f3gico",
       "url": "https://open.spotify.com/track/0BIpn82Dpo4EdCwHnwoapp"
@@ -588,6 +588,24 @@
     },
     {
       "album": {
+        "name": "El D\u00eda De Los Muertos",
+        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183693,
+      "name": "Medalla De Plata",
+      "url": "https://open.spotify.com/track/6HhmRkKT5i2oGSECqQxrog"
+    },
+    {
+      "album": {
         "name": "Ni Con Labios Prestados",
         "url": "https://open.spotify.com/album/6qbkITbtEKq6CfhurxWvLx"
       },
@@ -769,7 +787,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 209040,
       "name": "Tres Tiros",
       "url": "https://open.spotify.com/track/2emeqNzdm71GXY2aADYGHJ"

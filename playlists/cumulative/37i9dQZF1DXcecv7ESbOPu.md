@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-11,579 songs - 25 day 0 hr 4 min
+11,580 songs - 25 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7603,7 +7603,8 @@
 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 | 2022-04-21 | 2022-04-29 |
 | [Out To Eat](https://open.spotify.com/track/7ElUAFXBTExwiK9I3fZqRh) | [Chara Kai\-Le](https://open.spotify.com/artist/0S6PVCIrYIIr2nmdaVTg3n), [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Out To Eat](https://open.spotify.com/album/7xJanb6TnNcMcMBzDOUCq6) | 2:18 | 2023-04-27 | 2023-05-05 |
 | [Outbound \(feat\. grandpa julie\)](https://open.spotify.com/track/1hN9P4VZol7Hxfn7Z4ZHBu) | [Hitch](https://open.spotify.com/artist/0EqZqTzwUy9Sgm7yFIllLo), [grandpa julie](https://open.spotify.com/artist/6P38Kx1SGQCgAQHqv0LjAs) | [Outbound \(feat\. grandpa julie\)](https://open.spotify.com/album/31Z21p10mUPCn4hQfGsVZv) | 3:39 | 2023-12-08 | 2023-12-15 |
-| [Outcome](https://open.spotify.com/track/1T68xySFdNYYCjX9S0XtBa) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [The Affliction](https://open.spotify.com/album/3OPfTGs6dit3vywqCGpGHQ) | 3:25 | 2024-01-25 |  |
+| [Outcome](https://open.spotify.com/track/1T68xySFdNYYCjX9S0XtBa) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [The Affliction](https://open.spotify.com/album/3OPfTGs6dit3vywqCGpGHQ) | 3:25 | 2024-01-25 | 2024-01-29 |
+| [Outcome](https://open.spotify.com/track/54Mdl7oXai0VZ3usuCxIPb) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [The Affliction](https://open.spotify.com/album/1Sggf1c9AVCvAEAGaC9v6K) | 3:25 | 2024-01-26 |  |
 | [Outer Dimensions](https://open.spotify.com/track/13E52tvYVKOyd7COIs1cba) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Outer Dimensions](https://open.spotify.com/album/1g2CRYugkE60cBxB2WSOLi) | 3:05 | 2023-11-17 | 2023-12-09 |
 | [Outlaws](https://open.spotify.com/track/2EfQsmVJ5YQtZonO9q0HQW) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ), [House Body](https://open.spotify.com/artist/3mJUXSSzYTwacmj0kYBJal), [Oskr](https://open.spotify.com/artist/13aLgWBHLtwZx4Qi2yiY2y) | [Outlaws](https://open.spotify.com/album/4bAzbmRZ5kjPFRgNaHj2YR) | 2:57 | 2023-03-24 | 2023-03-31 |
 | [Outrunnin' Your Memory](https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 4:14 | 2022-06-23 | 2022-07-01 |

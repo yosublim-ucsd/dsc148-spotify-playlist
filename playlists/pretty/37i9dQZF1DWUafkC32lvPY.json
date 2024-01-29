@@ -1,12 +1,12 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 11183,
+  "num_followers": 11205,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWZiOGJmZWFjMTE2YmY4MzU2MWQwYWE2YTQ4OWM3ZjFlMmVjNmUy",
+  "snapshot_id": "MCwxMDk0NWMwNjJhNzQ3OGQ5MTQxOTNjMTA5N2I0MWU5MDAzOGNlMDA2",
   "tracks": [
     {
       "added_at": "2024-01-26 17:51:21",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
+        "name": "Patadas de Ahogado",
+        "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Patadas de Ahogado",
+      "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
+    },
+    {
+      "added_at": "2024-01-26 17:51:21",
+      "album": {
         "name": "Vueltas",
         "url": "https://open.spotify.com/album/0GnzcCxFuBmx7VWXnHbLUK"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 115714,
       "name": "Vueltas",
       "url": "https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s"
-    },
-    {
-      "added_at": "2024-01-26 17:51:21",
-      "album": {
-        "name": "Patadas de Ahogado",
-        "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Patadas de Ahogado",
-      "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
     },
     {
       "added_at": "2024-01-26 17:51:21",
@@ -927,6 +927,26 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
+        "name": "Areca",
+        "url": "https://open.spotify.com/album/39i5NpLsjgm59O39sy0iks"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Ozymandias' Dream",
+          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
+        }
+      ],
+      "duration_ms": 119741,
+      "name": "Areca",
+      "url": "https://open.spotify.com/track/3r5sRubnsV13HpvP1Hv3E8"
+    },
+    {
+      "added_at": "2024-01-26 17:51:21",
+      "album": {
         "name": "Quiet Process",
         "url": "https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 98832,
       "name": "M\u00e9xico M\u00e1gico",
       "url": "https://open.spotify.com/track/0HEBViSFSmzVzFd7kubqmp"
-    },
-    {
-      "added_at": "2024-01-26 17:51:21",
-      "album": {
-        "name": "Areca",
-        "url": "https://open.spotify.com/album/39i5NpLsjgm59O39sy0iks"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Ozymandias' Dream",
-          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
-        }
-      ],
-      "duration_ms": 119741,
-      "name": "Areca",
-      "url": "https://open.spotify.com/track/3r5sRubnsV13HpvP1Hv3E8"
     },
     {
       "added_at": "2024-01-26 17:51:21",

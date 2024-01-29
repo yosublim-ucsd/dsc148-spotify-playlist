@@ -4,7 +4,7 @@
 
 > Barack Obama&\#x27;s favorite songs of 2023 plus somo of his favorite summer songs\. Includes Summer 22, &amp; 21 editions + bonus tracks.
 
-2,904 songs - 6 day 21 hr 39 min
+2,906 songs - 6 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -676,7 +676,7 @@
 | [Disguise](https://open.spotify.com/track/7JFsWb7Hz7bqJS2BnM1FuC) | [K.K.](https://open.spotify.com/artist/3PQxqn5ALBERvhCNx8JSPw) | [Disguise](https://open.spotify.com/album/72u481IXlI8FbGI3omQeCx) | 2:55 | 2020-08-02 | 2020-08-20 |
 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 | 2021-07-12 | 2021-11-19 |
 | [Diva](https://open.spotify.com/track/2N4Fs1jeggmilxMi0cyrRu) | [Qasim](https://open.spotify.com/artist/611DiraGc9sy6b10CKFOIW) | [Diva](https://open.spotify.com/album/4yuj3HTE9wo6uq9TViyRWK) | 3:00 | 2021-11-25 | 2021-12-18 |
-| [Diver](https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB) | 3:10 | 2024-01-21 |  |
+| [Diver](https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB) | 3:10 | 2024-01-21 | 2024-01-29 |
 | [Divine Timing](https://open.spotify.com/track/3iFWUwrLai8rugDV9M95q6) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [THINGS CHANGED](https://open.spotify.com/album/77FFl8rc8mTr7POq7lMfLa) | 2:06 | 2022-09-16 | 2022-10-04 |
 | [Do I Do](https://open.spotify.com/track/4P91jW5QmEkhoLgdMujp82) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/1vQrNEAdt2eHCXAvdIs1M2) | 5:03 | 2020-08-20 | 2023-08-28 |
 | [Do I Move You \- Version II](https://open.spotify.com/track/2km9fkIwupyw4puhwcYnCP) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:17 | 2022-07-26 |  |
@@ -685,6 +685,7 @@
 | [Do It All Again](https://open.spotify.com/track/2HjNSdh34fQ19tdQd1f6NC) | [Zoe Clarke](https://open.spotify.com/artist/30nnYTY2uHrbhJdc0SqNaI) | [Do It All Again](https://open.spotify.com/album/2wAhTDmJbJbKxKSTBJXqKM) | 2:51 | 2023-09-23 | 2023-12-14 |
 | [Do Not Grill Inside \- Original Mix](https://open.spotify.com/track/0kbUD0WNZDKeObJrlgvzXr) | [Gab Rhome](https://open.spotify.com/artist/3VXMcHmS4xk3cacv4oXWKI) | [Rêveries Éphémères](https://open.spotify.com/album/5H3DwYzlv34fAyGn5AEtk2) | 6:53 | 2021-04-03 | 2021-04-18 |
 | [Do This To Me](https://open.spotify.com/track/3SsDNoQIPbvi72S83zqLES) | [Love Level](https://open.spotify.com/artist/5rvUlI4cK6csRpgrOEeuRb) | [Love Level](https://open.spotify.com/album/4kICkffmL9wkUmIkKyuHit) | 3:50 | 2021-08-26 | 2021-09-11 |
+| [Do You Feel?](https://open.spotify.com/track/2sSY3K85CvWtK7KAHaHbMj) | [Slatty K](https://open.spotify.com/artist/6M1OUdpdIBG9uwwVVw80En), [AAP](https://open.spotify.com/artist/0LNjllgatcEOXzClhJDyMx), [Jadhe](https://open.spotify.com/artist/1rxAD6xp9NiycI83htzv5P) | [Still Luv](https://open.spotify.com/album/3K984cTKmKdox6Q6B3o5e3) | 4:34 | 2024-01-28 |  |
 | [Do You Know What I Mean](https://open.spotify.com/track/25ESdAEdfA6fPM222g1Rxg) | [Sol Y Motion](https://open.spotify.com/artist/24AY9nmcbCmv0EHlXmE01o) | [Do You Know What I Mean](https://open.spotify.com/album/5yFbic3Mwt73OdJJKuQGF5) | 3:37 | 2022-05-11 | 2022-06-01 |
 | [Do You Wanna Know](https://open.spotify.com/track/2X85h0gD3Tx1lpOXktZ18N) | [Lujza](https://open.spotify.com/artist/14lUC6NbE64ObCIHsy5jQ6) | [Do You Wanna Know](https://open.spotify.com/album/3DmhSYhozucyVWtKclydrs) | 3:45 | 2022-05-25 | 2022-06-12 |
 | [Doctor My Eyes](https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Jackson Browne \(Saturate Before Using\)](https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u) | 3:19 | 2023-07-20 |  |
@@ -1892,7 +1893,7 @@
 | [Ophelia](https://open.spotify.com/track/3nSjHglSuD9N8F0978Py1D) | [New Seven](https://open.spotify.com/artist/1wm2Qetez0IELnv1B0hjwJ) | [The Colossus of Uptown](https://open.spotify.com/album/6viH20D6GZhtZMMhsCJ494) | 3:18 | 2023-03-17 | 2023-04-09 |
 | [Orange](https://open.spotify.com/track/78I7REFKs4WPEd0JuQJgxm) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Orange](https://open.spotify.com/album/4gYV6DMYozgUcTT8gORd0y) | 3:13 | 2022-07-15 | 2022-07-31 |
 | [Orange](https://open.spotify.com/track/2V6qzoX7Urn5QcNib1yvrI) | [Sabe Anderson](https://open.spotify.com/artist/6nDI30LMNn69U93QoJ05bt) | [Orange](https://open.spotify.com/album/6VDobIt9k6PzaOdjYp1l4U) | 3:48 | 2022-11-04 | 2022-11-27 |
-| [Orchids from Fire](https://open.spotify.com/track/1QWQbufiCcpqffNkOCSaF8) | [Kellie Haddock](https://open.spotify.com/artist/6ZszMgt4IsKoJfzU1aultN) | [Orchids from Fire](https://open.spotify.com/album/3s7JmeQxkY3lrF5sGrMKBZ) | 4:55 | 2024-01-21 |  |
+| [Orchids from Fire](https://open.spotify.com/track/1QWQbufiCcpqffNkOCSaF8) | [Kellie Haddock](https://open.spotify.com/artist/6ZszMgt4IsKoJfzU1aultN) | [Orchids from Fire](https://open.spotify.com/album/3s7JmeQxkY3lrF5sGrMKBZ) | 4:55 | 2024-01-21 | 2024-01-29 |
 | [Original](https://open.spotify.com/track/6SwJ1LmZlDfAXAAK69DD4s) | [ZeXzy](https://open.spotify.com/artist/3IwO7IAIsQn4UHafxRHESo) | [Original](https://open.spotify.com/album/5acvWxZ969AIuEZUfo2Zl0) | 2:17 | 2023-07-27 | 2023-08-20 |
 | [Osprey Park](https://open.spotify.com/track/7CWc1AWtfHpoq8qj2XCDdb) | [Sarah Gross](https://open.spotify.com/artist/58lbHYipYB2JGbElUXeG2p) | [The Riversides EP](https://open.spotify.com/album/0IisQC9f4M5VDz9Koa0ZwY) | 3:02 | 2022-02-04 | 2022-02-20 |
 | [Other Times](https://open.spotify.com/track/5khm5C3CQJQ8rxDlxXsovG) | [Artdob](https://open.spotify.com/artist/6eN97PIRR6ScvH4VjlHRiL) | [Other Times](https://open.spotify.com/album/6zbvj3I5cg5AwTT9SvIbsW) | 3:18 | 2023-07-17 | 2023-07-29 |
@@ -2361,6 +2362,7 @@
 | [Stuck on You](https://open.spotify.com/track/2rDLmRfQ5ePrrI0PfDj5hT) | [Frankie Zulferino](https://open.spotify.com/artist/1e2qCgABcOAaTeqLHHFkvC) | [Stuck on You](https://open.spotify.com/album/7cRaEgrftHeonV50MleArj) | 3:32 | 2021-10-09 | 2021-10-23 |
 | [Stupid](https://open.spotify.com/track/5tiXe9KoGmYHHBZwKHhAfD) | [Niki Kand](https://open.spotify.com/artist/2vh6QStsqt7NuA0XkUykhH) | [Stupid](https://open.spotify.com/album/1KWFdSnejE6hTtZoGV2i02) | 2:01 | 2020-10-26 | 2020-11-06 |
 | [Stupid Me](https://open.spotify.com/track/3yl0hK8awY340PpLYGuwZg) | [NIIVA](https://open.spotify.com/artist/0viMvQMmt8vK3TO2TAkbz1) | [NIIVA](https://open.spotify.com/album/4DoVWd6Ak9O9Qo5dUs8KEx) | 3:07 | 2021-02-19 | 2021-03-06 |
+| [Sugar Daddy](https://open.spotify.com/track/2R1759HDsyHhhOn4PM3pSk) | [Jordan Rivers & The Real Juice](https://open.spotify.com/artist/23V3hZ8OOhLund0FUEW6Cm) | [Sugar Daddy](https://open.spotify.com/album/71XTpdu6oVhIWfjHsr4hBQ) | 4:05 | 2024-01-28 |  |
 | [sugarbird](https://open.spotify.com/track/1NhLiTYtwF8oQ9K65KiTgS) | [renaissance boy](https://open.spotify.com/artist/2xx6r3BUgC87ymoQAt6a5W) | [sugarbird](https://open.spotify.com/album/4czSA8MDgdF1S1xPBYA47f) | 2:43 | 2023-05-26 | 2023-06-17 |
 | [Sugartime](https://open.spotify.com/track/1AslkSoGsWkcMK9j2sLib8) | [Seneko](https://open.spotify.com/artist/1UgT2APaVtYoO6STizaALA) | [The Girls from Cedarhurst](https://open.spotify.com/album/55J0lB4YkQV2pFr97vBOVj) | 3:56 | 2023-02-24 | 2023-03-20 |
 | [Summer 2020](https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:16 | 2021-07-12 | 2021-11-19 |

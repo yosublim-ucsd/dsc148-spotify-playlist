@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Sz1gsYZdwj.md) - [plain]
 
 > Drift off to these peaceful classical melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,943 likes - 109 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,920 likes - 109 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Sz1gsYZdwj.md) - [plain]
 | 108 | [Trois Romances sans paroles, Op\. 17: 3\. Andante moderato](https://open.spotify.com/track/4myyfMmDd7wTkgq8Ci7VfF) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Kun\-Woo Paik](https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX) | [Fauré: Piano Music](https://open.spotify.com/album/2E2G6rlHCJrDKUU4JSp5Bp) | 2:45 |
 | 109 | [Landsort](https://open.spotify.com/track/0VrOdgTIh68gW8p9WkXSPY) | [Olivia Meyer](https://open.spotify.com/artist/473vc3cGQmpGSHrcyvePWE) | [Fantasia](https://open.spotify.com/album/5h0R2d0rhCu6V46L91UBN4) | 2:19 |
 
-Snapshot ID: `MCw2YWE3NDkyNGU2ZGYzZmFjYTdlNDFlOGM2NjFkNTY5ZGFhNDcwZmVl`
+Snapshot ID: `MCw1ZTRhMDBmODJkYjdhNzI3MTM4ZTY5MjQ1YmEwNmVlOWU5OTFhM2U0`

@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists in the UK + Ireland. Cover: Ama Louise",
-  "num_followers": 25261,
+  "num_followers": 25259,
   "original_name": "Fresh Finds UK & IE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjcxOWU1MGI3MDc2NDJlZjkzYWIxNmRkZTdiYWYyOGNjNTQ3Yzc3",
+  "snapshot_id": "MCwyZDk1Y2FkNGYxNjcxZWY1NzJlMzdmMjZmOTZhNTIzMDE0Zjg0ZDll",
   "tracks": [
     {
       "added_at": "2024-01-24 00:00:00",
@@ -682,6 +682,10 @@
         {
           "name": "earl saga",
           "url": "https://open.spotify.com/artist/4vT2gelX0Wt2gy2vx1Qb8Z"
+        },
+        {
+          "name": "Bby Shea",
+          "url": "https://open.spotify.com/artist/1jahRKm6VXJmd1vZPIfuPo"
         }
       ],
       "duration_ms": 137441,

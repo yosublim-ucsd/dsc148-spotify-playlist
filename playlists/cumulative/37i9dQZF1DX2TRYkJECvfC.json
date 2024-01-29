@@ -4685,6 +4685,24 @@
     },
     {
       "album": {
+        "name": "Mimose",
+        "url": "https://open.spotify.com/album/4Ng9Nfr1cVIftnjfuzDUG2"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254749,
+      "name": "Mimose",
+      "url": "https://open.spotify.com/track/5aYZ8EM8Do3PpgUqArgiQ8"
+    },
+    {
+      "album": {
         "name": "Azure EP",
         "url": "https://open.spotify.com/album/5M4iiiphjdlqSq9Yutm6QU"
       },
@@ -7690,7 +7708,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 252000,
       "name": "Swim",
       "url": "https://open.spotify.com/track/7I1e5uMItJ9kiTWFyUayVs"

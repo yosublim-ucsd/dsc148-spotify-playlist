@@ -528,7 +528,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 264760,
       "name": "Forever Note",
       "url": "https://open.spotify.com/track/6lOJvgfaTLtyPEozeXyg7l"
@@ -1727,6 +1727,36 @@
     },
     {
       "album": {
+        "name": "Take my rose",
+        "url": "https://open.spotify.com/album/688jVLZjDRjXoAcaWeF685"
+      },
+      "artists": [
+        {
+          "name": "Riku Nanase (CV: Kensho Ono)",
+          "url": "https://open.spotify.com/artist/0Bq1mg6MFqIr0KpIzE84ZC"
+        },
+        {
+          "name": "Gaku Yaotome (CV: Wataru Hatano)",
+          "url": "https://open.spotify.com/artist/3I9m87ybp1RVh06pGCVYi8"
+        },
+        {
+          "name": "Momo (CV: Soichiro Hoshi)",
+          "url": "https://open.spotify.com/artist/5WRGYmpIXSNxYtZhY8wkuQ"
+        },
+        {
+          "name": "Torao Mido (CV: Takashi Kondo)",
+          "url": "https://open.spotify.com/artist/4ywzIhLH7AjkcGSusAEf3I"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216946,
+      "name": "Take my rose",
+      "url": "https://open.spotify.com/track/4LwRwNdOtEFlFUPCTBlCDM"
+    },
+    {
+      "album": {
         "name": "Intermezzo",
         "url": "https://open.spotify.com/album/0usMI7YhKzGwU3SUp72XAx"
       },
@@ -2072,7 +2102,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 247360,
       "name": "YOUR RHAPSODY",
       "url": "https://open.spotify.com/track/7CHlI1L51UCziupZC3BzfD"
@@ -2520,7 +2550,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 279266,
       "name": "\u604b\u306e\u304b\u3051\u3089",
       "url": "https://open.spotify.com/track/7jA6MKXhfBa6bwe9kJrBNT"

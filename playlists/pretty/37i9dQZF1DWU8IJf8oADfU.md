@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8IJf8oADfU.md) - [plain]
 
 > Il n'y a pas d'âge pour aimer le rap et les musiques urbaines!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,200 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,227 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8IJf8oADfU.md) - [plain]
 | 9 | [Grand bain](https://open.spotify.com/track/0W4MOQ2kTOm1y7ooahgQP1) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Poison Ou Antidote](https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k) | 3:27 |
 | 10 | [Chocolat \(feat\. Awa Imani\)](https://open.spotify.com/track/4fwtP5khM1iEoa6BP1QQsX) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Awa Imani](https://open.spotify.com/artist/25b5cIThNFVHmLF2DQ814i) | [Clandestino](https://open.spotify.com/album/6j0ZbLhJ0uyREyXoz0KtON) | 3:55 |
 | 11 | [Mon beau\-frère](https://open.spotify.com/track/0AFmUmPR9Tl4SGw2l1fIUG) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw) | [Mon beau\-frère](https://open.spotify.com/album/7h9bnMLZqzkPkvzN7r7lps) | 3:33 |
-| 12 | [Bobo au cœur](https://open.spotify.com/track/4ZJURpomulGIURxYSvO1Xd) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Poison Ou Antidote](https://open.spotify.com/album/7HQqRTeLUgnqxhIacnisWy) | 3:41 |
+| 12 | [Bobo au cœur](https://open.spotify.com/track/2XlLHcTNLBkxqCdKasBrRM) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Poison Ou Antidote](https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k) | 3:41 |
 | 13 | [Dingue](https://open.spotify.com/track/2NXk38cqDXz1qY6E1ADlKA) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Chasseur d'étoiles](https://open.spotify.com/album/35CCZ7wWetfK32serxdHS6) | 3:26 |
 | 14 | [Je suis chez moi](https://open.spotify.com/track/3jyQ5s7TlKm5tqmpICahUY) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw) | [Éternel insatisfait](https://open.spotify.com/album/0fBcGOxa5aFx5MAOYaQ4XU) | 3:48 |
 | 15 | [Yolo](https://open.spotify.com/track/2u4IJKewUvcJ9B6Wng92PI) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Le fléau](https://open.spotify.com/album/05pZDf1vw2s8MQSWmW3zul) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8IJf8oADfU.md) - [plain]
 | 49 | [Gangsta \- Bonus](https://open.spotify.com/track/7IFJNcevREJV8ZkIeITQGm) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La cour des grands](https://open.spotify.com/album/0TwkVtzgTlt1Y9kwsqkTCQ) | 3:39 |
 | 50 | [Je danse le Mia](https://open.spotify.com/track/6P8YkdLMTBA7z5nhKXgyi3) | [IAM](https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7) | [Ombre Est Lumière](https://open.spotify.com/album/2soc1D7Ym6sGp4A4d2pbWU) | 4:27 |
 
-Snapshot ID: `MCxhMDUzYTNlYWE5ZDU3MDg0Njk3ZmYxZmIxYWEyOTZlOTAyZjk0YjMw`
+Snapshot ID: `MCxlNTU4Yjk4MTg5Nzk3N2Q4YTg5YmYxNDNhMTRkY2Q0YTc0YWQwMmM4`

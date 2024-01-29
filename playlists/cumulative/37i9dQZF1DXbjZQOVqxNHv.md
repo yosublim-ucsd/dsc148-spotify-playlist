@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-574 songs - 2 day 6 hr 2 min
+575 songs - 2 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Abdon](https://open.spotify.com/track/3a8cOqJzSgkNbJ556opmZv) | [F.X\. Randomiz](https://open.spotify.com/artist/2jm769wifVItyqZyOXH7mP) | [Goflex](https://open.spotify.com/album/2cxULZwMNhuz3YvsVPqMce) | 3:35 | 2022-04-13 | 2022-07-29 |
 | [Accent](https://open.spotify.com/track/10vbaNdPMRVmHZvRIAGen0) | [Christian Kleine](https://open.spotify.com/artist/39RGo9NOqiCfbV8epXxFTj) | [Valis](https://open.spotify.com/album/4eXbpc1durSnCg1GFV9tKh) | 4:04 | 2022-04-13 | 2022-07-29 |
 | [Acrid Avid Jam Shred](https://open.spotify.com/track/3Bp478Itxv8gxqqEcf8HRL) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 7:39 | 2022-04-13 | 2022-07-29 |
+| [Adozenaday](https://open.spotify.com/track/2b0v0rXPjaqzJWbdhVjdc8) | [Brothomstates](https://open.spotify.com/artist/7dJoiDu6p9jcAESCcRYU0z) | [Qtio](https://open.spotify.com/album/3wbjiKGzG6vyt3IysNXtYM) | 5:33 | 2022-04-13 |  |
 | [Adozenaday](https://open.spotify.com/track/3Yc7AxUfMy50QPWwwkwlh2) | [Brothomstates](https://open.spotify.com/artist/7dJoiDu6p9jcAESCcRYU0z) | [Qtio](https://open.spotify.com/album/3kq8Hu3D10vLbHQbhGi0DA) | 5:33 | 2022-04-13 | 2022-07-27 |
 | [Aero Deck](https://open.spotify.com/track/3CxY2EYnLDdGVaRcEiE7wp) | [Oval](https://open.spotify.com/artist/1Yti3CsDazWVjNMXBHx1Af) | [Systemisch](https://open.spotify.com/album/1VjWcD0lLRFpAIK0AFRUBl) | 4:33 | 2022-04-13 |  |
 | [Afraid Of Monsters](https://open.spotify.com/track/4PbMuyuUAJPhBdsW3vf2Fs) | [Xela](https://open.spotify.com/artist/1DpTCZ0h0a2IDmLiKJtDN5) | [For Frosty Mornings And Summer Nights](https://open.spotify.com/album/6aRdKJaXUBi23MPtwUMTb7) | 5:03 | 2022-04-13 | 2023-12-09 |
@@ -39,7 +40,7 @@
 | [All Is Full of Love \(Secondotted\)](https://open.spotify.com/track/7ICMCUEZG6wOMjr263QEd0) | [Björk Mit Funkstorung](https://open.spotify.com/artist/629LeaUSUKLfzbsBHX021V) | [Across Uneven Terrain](https://open.spotify.com/album/1kldzA5EECxo319li3GN5N) | 4:39 | 2022-04-13 |  |
 | [Analogue Bubblebath](https://open.spotify.com/track/3EhTOTAvNAUgY6AIurVxT1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Classics](https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG) | 4:46 | 2022-04-13 | 2022-07-25 |
 | [Anex](https://open.spotify.com/track/2gBIPZBOGbOOBiaqxjGyYN) | [Adam Johnson](https://open.spotify.com/artist/1mpZvM3DHU6o5DC1lJmw5Y) | [Chigliak](https://open.spotify.com/album/3qKpwSHUazGWmxLm0WWdGS) | 5:43 | 2022-04-13 |  |
-| [Angel](https://open.spotify.com/track/5ErXilg6f26YH2FSu44HHZ) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Persona](https://open.spotify.com/album/08Qox0oVipyl9qf9mnrjJi) | 6:44 | 2022-04-13 | 2024-01-26 |
+| [Angel](https://open.spotify.com/track/5ErXilg6f26YH2FSu44HHZ) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Persona](https://open.spotify.com/album/08Qox0oVipyl9qf9mnrjJi) | 6:44 | 2022-04-13 |  |
 | [Angel](https://open.spotify.com/track/6JRuuEyDoDkCUlDHyVe0Lw) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Persona](https://open.spotify.com/album/6mYcSE6c9FOwaOG9rifQM2) | 6:44 | 2022-04-13 | 2022-11-17 |
 | [Ano Electro \(Andante\)](https://open.spotify.com/track/7rWcvkhbnpt53ESchtgPqs) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Sabresonic](https://open.spotify.com/album/3MeNCEVxsgW3JkPDBMh1OA) | 8:15 | 2022-04-13 | 2022-07-22 |
 | [Antacid](https://open.spotify.com/track/4cfo0BxZHQ98UrmAs4i1R4) | [Link & E621](https://open.spotify.com/artist/3qqJr1KaDtpkLrZSXG0fvj) | [Antacid](https://open.spotify.com/album/4NmPykwRXi6FWNTk2aDVUA) | 11:37 | 2022-04-13 | 2022-07-20 |
@@ -433,7 +434,7 @@
 | [Shell of Light](https://open.spotify.com/track/5oLDBlcP7njmPA8gqxprVZ) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK) | 4:40 | 2022-04-13 |  |
 | [Shell of Light](https://open.spotify.com/track/29Gr10bFvvbsIrLRg7Yibi) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq) | 4:42 | 2022-04-13 | 2022-07-29 |
 | [Shimmer](https://open.spotify.com/track/1rsbnhLppI7cibuDHEVurM) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [Beat Excursions \#5](https://open.spotify.com/album/3WuM7HpTwBFvzzNydSHiaP) | 5:16 | 2022-04-13 | 2023-03-02 |
-| [Shimmer](https://open.spotify.com/track/3HfFFgqFtUBFDFQ5EJILUQ) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [Beat Excursions \#5](https://open.spotify.com/album/31jaEe1GGy7q1EfC9tJ2oe) | 5:16 | 2022-04-13 |  |
+| [Shimmer](https://open.spotify.com/track/3HfFFgqFtUBFDFQ5EJILUQ) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [Beat Excursions \#5](https://open.spotify.com/album/31jaEe1GGy7q1EfC9tJ2oe) | 5:16 | 2022-04-13 | 2024-01-29 |
 | [Shimmer](https://open.spotify.com/track/3weZimmbHwkD1lGZTpEKkC) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [Beat Excursions \#5](https://open.spotify.com/album/1b6j9rzmDYA26k8rrtNbD5) | 5:16 | 2022-04-13 | 2022-07-27 |
 | [Shove Piggy Shove](https://open.spotify.com/track/6cgZ2KVDd4PIv9sf9J46Ud) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Advance](https://open.spotify.com/album/1UNThIdbVUt5DJAA4marps) | 4:19 | 2022-04-13 |  |
 | [Shove Piggy Shove](https://open.spotify.com/track/01jvJsXAHxhJqAIMAEIkxa) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Advance](https://open.spotify.com/album/08B5J90mQplQjkjNWAgdjb) | 4:19 | 2022-04-13 | 2023-02-02 |
@@ -570,7 +571,7 @@
 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 | 2022-04-13 |  |
 | [Yesterday Faded \- Edit](https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/6o2dqU7r0teFQoNQZdEGdT) | 4:02 | 2022-04-13 |  |
 | [Yesterday Faded \- Edit](https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/2lBEcttfPvSH71VyBfIqSf) | 4:02 | 2022-04-13 | 2022-07-29 |
-| [Yoaoshk](https://open.spotify.com/track/17d4Aqj6ZTY7B383vklGxc) | [Brothomstates](https://open.spotify.com/artist/7dJoiDu6p9jcAESCcRYU0z) | [Brothomstates EP](https://open.spotify.com/album/1xIPlgbK5HoN41M8gMToSQ) | 5:02 | 2022-04-13 |  |
+| [Yoaoshk](https://open.spotify.com/track/17d4Aqj6ZTY7B383vklGxc) | [Brothomstates](https://open.spotify.com/artist/7dJoiDu6p9jcAESCcRYU0z) | [Brothomstates EP](https://open.spotify.com/album/1xIPlgbK5HoN41M8gMToSQ) | 5:02 | 2022-04-13 | 2024-01-29 |
 | [You Don't Need A Weatherman \(cult x zomby remix \(kollaps\)\)](https://open.spotify.com/track/1HiywvtKI9rCEhexb31U41) | [Darkstar](https://open.spotify.com/artist/45ALMSzoLNFkaYxyhS4QZ1) | [HD7](https://open.spotify.com/album/1u4ERGeuIwSnJTftMAxu01) | 3:51 | 2022-04-13 | 2022-07-28 |
 | [You Took Your Time \(Lee Gamble Remix\)](https://open.spotify.com/track/4MxUfnSAmKSzlnDLzWOh7F) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [CSFLY Remixes](https://open.spotify.com/album/2dnCDWsatb4A79qAKEtY5i) | 5:56 | 2022-04-13 | 2022-07-06 |
 | [You Took Your Time \- Lee Gamble Remix](https://open.spotify.com/track/0OMhdiDR1F9dd5ncB2tQFu) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Lee Gamble](https://open.spotify.com/artist/7rAD9Ws0ihREeDmgPS2ZL8) | [CSFLY Remixes](https://open.spotify.com/album/4pnYizdLGvIpspWqpo2Azh) | 5:56 | 2022-04-13 | 2023-12-14 |

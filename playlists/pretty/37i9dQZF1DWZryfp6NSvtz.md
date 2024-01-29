@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Charlotte Sands
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,036 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,361 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Lieutenant Dan](https://open.spotify.com/track/5eBBCkdqdtqKC9HXgHc4b1) | [Johnny Stranger](https://open.spotify.com/artist/4FeP8yuBjoDKfpo8TWCMBA) | [Lieutenant Dan](https://open.spotify.com/album/5gTgOAVXRHdMgvEsZtzasw) | 4:20 |
 | 50 | [All Again](https://open.spotify.com/track/4KVpza8DNWl7v61rhv2IYA) | [ILA](https://open.spotify.com/artist/4dTDkzVuBCP4Rml12Iq5b2) | [All Again](https://open.spotify.com/album/5NwrzU8yuu3u3R5HmV5GC1) | 2:53 |
 
-Snapshot ID: `MCxmZmZlMzEwOTEzYzZjNmUyNDZhOWRkZDEwNDVjNTI0NGM0MmRiZTdh`
+Snapshot ID: `MCwxNTQ0MTY3NzliMWZkMDhjMDdmNDNhMzQ0NDY4YTk5NWU3MWVhMmVi`

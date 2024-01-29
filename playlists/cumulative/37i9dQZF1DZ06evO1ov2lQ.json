@@ -817,6 +817,24 @@
     },
     {
       "album": {
+        "name": "Departed Glories",
+        "url": "https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135523,
+      "name": "Free From The Bondage You Are In",
+      "url": "https://open.spotify.com/track/1r3IDkWJsisS6udCSBjEBw"
+    },
+    {
+      "album": {
         "name": "Dropsonde",
         "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
       },
@@ -1322,7 +1340,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 413386,
       "name": "Journey To The Centre Of The First, Pt. 1",
       "url": "https://open.spotify.com/track/280pz3FHXp82OZzls1lyvH"
@@ -1376,7 +1394,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 93500,
       "name": "Juno",
       "url": "https://open.spotify.com/track/6UAI6i1BLXg9bFODQIRAod"
@@ -1896,7 +1914,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 251066,
       "name": "Poa Alpina",
       "url": "https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw"
@@ -2494,7 +2512,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 388160,
       "name": "The Things I Tell You",
       "url": "https://open.spotify.com/track/36BGk42n6upPWiMCWpBQKL"
@@ -2650,7 +2668,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 166480,
       "name": "Twin Decks",
       "url": "https://open.spotify.com/track/4rhZ726UASilAJG9vSJqGZ"

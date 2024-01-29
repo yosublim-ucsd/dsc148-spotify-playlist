@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nebrugg",
-  "num_followers": 36114,
+  "num_followers": 36138,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmQxNTdjMGM1ODczZjMzNTc2NjkxMjI1OWNhOWM0MTg3NjkzYjky",
+  "snapshot_id": "MCxhNjMwZTRlNWE4MGYzYmFhOTE1OWFjNTFmN2NhN2U3MDVkMDk5NWEy",
   "tracks": [
     {
       "added_at": "2024-01-19 03:01:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
+        "name": "Mente Livre 2.0",
+        "url": "https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD"
+      },
+      "artists": [
+        {
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+        }
+      ],
+      "duration_ms": 208111,
+      "name": "Mente Livre 2.0",
+      "url": "https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
         "name": "Paco de 100",
         "url": "https://open.spotify.com/album/7fdTm9HaWOebHU81vG2vDE"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 173877,
       "name": "Paco de 100",
       "url": "https://open.spotify.com/track/7K8uNMveijYGBeOQ3cR9wo"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "Mente Livre 2.0",
-        "url": "https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD"
-      },
-      "artists": [
-        {
-          "name": "Leal",
-          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
-        }
-      ],
-      "duration_ms": 208111,
-      "name": "Mente Livre 2.0",
-      "url": "https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX"
     },
     {
       "added_at": "2024-01-19 03:01:00",

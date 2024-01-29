@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 15352,
+  "2024-01-29": 15365,
   "date_first_scraped": "2023-09-18",
   "description": "pra curtir o puro afrobeats feito no Brasil.",
   "name": "pique afrobeats",
@@ -1073,6 +1073,28 @@
       "duration_ms": 194862,
       "name": "Luar",
       "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
+    },
+    {
+      "album": {
+        "name": "Mano Brown",
+        "url": "https://open.spotify.com/album/3h5F25cpPZx9zLu9Rlw2X3"
+      },
+      "artists": [
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225882,
+      "name": "Mano Brown",
+      "url": "https://open.spotify.com/track/14I2fRIAoRQRWK5AA07N4C"
     },
     {
       "album": {
@@ -2441,7 +2463,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 195400,
       "name": "YEY\u00ca",
       "url": "https://open.spotify.com/track/5K99hrcPJLnVBQg15v6UYq"

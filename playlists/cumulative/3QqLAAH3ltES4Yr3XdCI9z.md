@@ -4,7 +4,7 @@
 
 > 
 
-87 songs - 6 hr 50 min
+88 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [I Surrender All](https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 5:29 | 2019-10-26 |  |
 | [I Won’t Complain](https://open.spotify.com/track/3rGlvhGguVckWnkFiaslsB) | [Rev\. Paul Jones](https://open.spotify.com/artist/0Wu5bgr1RccU9UMgoLbXaT) | [I Won’t Complain](https://open.spotify.com/album/5rxkuBLC0JKcdJhdQsV0Ed) | 4:52 | 2019-09-20 |  |
 | [I'll Fly Away](https://open.spotify.com/track/3Ibqth7iNwWwM28ZWcLk3Q) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Redemption Songs](https://open.spotify.com/album/1BVXtTYIfshVRCeKp9uIwb) | 4:42 | 2019-09-13 |  |
+| [I'm Still Here](https://open.spotify.com/track/0qtIa1k4Dh5bVYNngW9SDz) | [Dorinda Clark\-Cole](https://open.spotify.com/artist/2izm16Jd9ifkaqR5fxzlTK) | [Dorinda Clark\-Cole](https://open.spotify.com/album/4GFRHIy3A3yBqBc1fchCDh) | 5:51 | 2024-01-28 |  |
 | [If It Had Not Been For The Lord On My Side](https://open.spotify.com/track/2xroZZbIlZVmfSXUKO5Q95) | [Helen Baylor](https://open.spotify.com/artist/4p4141HhLjwFCpNwKHFnxf) | [Women's Day \(Great Women Sing Gospel Favorites\)](https://open.spotify.com/album/4WsD5YQlpAdNQ1FRid9wUY) | 2:33 | 2019-09-08 |  |
 | [In His Time](https://open.spotify.com/track/7sbEU72YfeGSxezSJKOc0s) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Praise Gold \(In His Time\)](https://open.spotify.com/album/0RjgEIRsu8cDphS17upnz4) | 4:21 | 2019-09-09 |  |
 | [Is My Living in Vain? / You Brought the Sunshine / Hallelujah \(Medley\)](https://open.spotify.com/track/1D4IYk4ajd9ipJb8AccYy8) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Bringing It Back Home](https://open.spotify.com/album/62KnQkbZsmhz5y9q6Gs2m2) | 6:58 | 2020-05-03 |  |

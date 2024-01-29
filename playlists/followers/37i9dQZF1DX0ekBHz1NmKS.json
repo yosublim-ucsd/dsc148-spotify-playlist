@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 195880,
+  "2024-01-29": 195855,
   "date_first_scraped": "2021-12-21",
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
   "name": "Made in Sweden",
@@ -410,6 +410,24 @@
     },
     {
       "album": {
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/7yJnSPJbgB2kQlSfuAYuNA"
+      },
+      "artists": [
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/3DZLPKmYJOcOaWUllUnmXa"
+    },
+    {
+      "album": {
         "name": "Again and Again",
         "url": "https://open.spotify.com/album/47JRk1CbVTPi04WNz7uU9Z"
       },
@@ -681,7 +699,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 203178,
       "name": "Allt som jag har",
       "url": "https://open.spotify.com/track/6uF9cnsgCSH0y5KZn3U4vY"
@@ -3746,6 +3764,24 @@
     },
     {
       "album": {
+        "name": "du f\u00e5r vara min ikv\u00e4ll",
+        "url": "https://open.spotify.com/album/3r3kACBwzv1rf3a5PJj6Js"
+      },
+      "artists": [
+        {
+          "name": "ASTE",
+          "url": "https://open.spotify.com/artist/5zYmm4lmcacjQo9zns3aDJ"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "du f\u00e5r vara min ikv\u00e4ll",
+      "url": "https://open.spotify.com/track/4FjTt2t005M50VaS6PpGbD"
+    },
+    {
+      "album": {
         "name": "Du f\u00f6rtj\u00e4nar det",
         "url": "https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn"
       },
@@ -3869,6 +3905,24 @@
       "duration_ms": 238481,
       "name": "Dumba Nengue",
       "url": "https://open.spotify.com/track/2PBWMips0ip5rBS5rhzpjI"
+    },
+    {
+      "album": {
+        "name": "TROLL",
+        "url": "https://open.spotify.com/album/0sFwVx2YJ465Q31RlYkjzx"
+      },
+      "artists": [
+        {
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160421,
+      "name": "DUST",
+      "url": "https://open.spotify.com/track/6fz5hmuApTOplf5Oam5Ith"
     },
     {
       "album": {
@@ -5227,7 +5281,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 213677,
       "name": "F\u00f6ljer du med mig?",
       "url": "https://open.spotify.com/track/7vy8phXNTaT29XOInByU6d"
@@ -5458,6 +5512,24 @@
     },
     {
       "album": {
+        "name": "GAMMAL I GEMET",
+        "url": "https://open.spotify.com/album/1EqJfYrvI9T3FbvKWyPWkz"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159120,
+      "name": "GAMMAL I GEMET",
+      "url": "https://open.spotify.com/track/2EbK8nlyOYm6MHvkALytMW"
+    },
+    {
+      "album": {
         "name": "Ge mig ett tecken",
         "url": "https://open.spotify.com/album/6fGHPpUiSpHau74zXUfBza"
       },
@@ -5581,6 +5653,24 @@
       "duration_ms": 197626,
       "name": "Ghost Killer",
       "url": "https://open.spotify.com/track/04l6PAC8SUtEPTY3IdRuT7"
+    },
+    {
+      "album": {
+        "name": "Girls Girls Girls",
+        "url": "https://open.spotify.com/album/5EB4A1XebKg1zN6qAOZJ3k"
+      },
+      "artists": [
+        {
+          "name": "Dolly Style",
+          "url": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182759,
+      "name": "Girls Girls Girls",
+      "url": "https://open.spotify.com/track/5kMu9t0U11YXMpyxmkGvi5"
     },
     {
       "album": {
@@ -5869,7 +5959,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 192300,
       "name": "gravity - alternative version",
       "url": "https://open.spotify.com/track/6zq4g1UiKjge8SbJ6IrgEg"
@@ -7359,7 +7449,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 170139,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/2wcKeTZakbkVejO4dLoflg"
@@ -7407,7 +7497,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 247000,
       "name": "I Had You By My Side",
       "url": "https://open.spotify.com/track/76TMobb4xIq90XBLOzf3WC"
@@ -7537,7 +7627,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 153499,
       "name": "i talk a lot",
       "url": "https://open.spotify.com/track/0Qw3Q7YYb5cnROb82g7wuH"
@@ -8013,6 +8103,24 @@
       "duration_ms": 228065,
       "name": "It Takes a Fool to Remain Sane - Spotify Singles",
       "url": "https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ"
+    },
+    {
+      "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/7akLNZ7EOOAZuNqNEc2zNA"
+      },
+      "artists": [
+        {
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "I\u2019m His, He\u2019s Mine",
+      "url": "https://open.spotify.com/track/4ssi26oVcUXWLooc1Ac0Ni"
     },
     {
       "album": {
@@ -9496,6 +9604,24 @@
     },
     {
       "album": {
+        "name": "L\u00e5nga V\u00e4gen Hem",
+        "url": "https://open.spotify.com/album/7Gf6HcA5iAyaJVHvevrs84"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192631,
+      "name": "L\u00e5nga V\u00e4gen Hem",
+      "url": "https://open.spotify.com/track/5LGG9YM4YPhmVvuom6T5QY"
+    },
+    {
+      "album": {
         "name": "L\u00e5ngsamt",
         "url": "https://open.spotify.com/album/2slS0luW5xPrlIQFQevMJs"
       },
@@ -9905,7 +10031,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 146865,
       "name": "Met her at a party",
       "url": "https://open.spotify.com/track/0yyndWvnE5QBeLFsUA1XRV"
@@ -10057,6 +10183,24 @@
       "duration_ms": 192836,
       "name": "Miss The Party",
       "url": "https://open.spotify.com/track/1u70gXN0eulrXoeZEiIXyv"
+    },
+    {
+      "album": {
+        "name": "Miss You On My Own",
+        "url": "https://open.spotify.com/album/18i1cm2aN0wqLiVc8qmU9i"
+      },
+      "artists": [
+        {
+          "name": "Aida Lae",
+          "url": "https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187361,
+      "name": "Miss You On My Own",
+      "url": "https://open.spotify.com/track/0pP83CapV6oZE6XSExUnBP"
     },
     {
       "album": {
@@ -10824,6 +10968,24 @@
     },
     {
       "album": {
+        "name": "N\u00e4ra",
+        "url": "https://open.spotify.com/album/35Bhcus7vIYWZAgQWELT40"
+      },
+      "artists": [
+        {
+          "name": "UPPENBARA",
+          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145766,
+      "name": "N\u00e4ra",
+      "url": "https://open.spotify.com/track/2TG32mRqjRyu3m6HV7mYwk"
+    },
+    {
+      "album": {
         "name": "N\u00e4tterna",
         "url": "https://open.spotify.com/album/30F33A6kVzeBE6qKcBLTz7"
       },
@@ -11212,6 +11374,24 @@
     },
     {
       "album": {
+        "name": "One Of Us",
+        "url": "https://open.spotify.com/album/6nhRB6c39feuGdqh9aLH9N"
+      },
+      "artists": [
+        {
+          "name": "Klara Hammarstr\u00f6m",
+          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148812,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/3c0uWc9wFRPeHjDKkYy4zz"
+    },
+    {
+      "album": {
         "name": "Fluent Stutter",
         "url": "https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA"
       },
@@ -11563,7 +11743,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 175636,
       "name": "Pink it up",
       "url": "https://open.spotify.com/track/7dABKByHTGJB7m5LImo89k"
@@ -13065,7 +13245,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 197473,
       "name": "Ska du l\u00e4mna mig d\u00e5?",
       "url": "https://open.spotify.com/track/1giGdrvlrnqHPcrKlspCNe"
@@ -13137,7 +13317,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 193709,
       "name": "Sk\u00e5l f\u00f6r alla sorger",
       "url": "https://open.spotify.com/track/1ENh6YDTLL1RbWSMsHqYw2"
@@ -14545,7 +14725,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 220000,
       "name": "Svar p\u00e5 allt",
       "url": "https://open.spotify.com/track/2OBa4jejR7cayJ9KrudxxH"
@@ -15461,7 +15641,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 200000,
       "name": "they don't know",
       "url": "https://open.spotify.com/track/1yfIeso4HxiY5N5TRZRyIf"
@@ -15779,7 +15959,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 174149,
       "name": "Too Kind",
       "url": "https://open.spotify.com/track/5EbEsJFurAUO2WrMjr5ppZ"
@@ -15891,6 +16071,24 @@
       "duration_ms": 163361,
       "name": "Tr\u00e4ffa andra",
       "url": "https://open.spotify.com/track/12xfklEh742AncfxxkSIzY"
+    },
+    {
+      "album": {
+        "name": "tr\u00f6tt p\u00e5 det",
+        "url": "https://open.spotify.com/album/66IhgUUfX0mE9TmNnxRouz"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144842,
+      "name": "tr\u00f6tt p\u00e5 det",
+      "url": "https://open.spotify.com/track/4AyU1dA0MJN7nyWHgFwfak"
     },
     {
       "album": {
@@ -16984,6 +17182,24 @@
     },
     {
       "album": {
+        "name": "Wasn't Meant To Be",
+        "url": "https://open.spotify.com/album/2YvV30u3YMsFucH6dMXQib"
+      },
+      "artists": [
+        {
+          "name": "Frans",
+          "url": "https://open.spotify.com/artist/1y5T3Prq30eW5RkpaUWNOQ"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193014,
+      "name": "Wasn't Meant To Be",
+      "url": "https://open.spotify.com/track/0GRw7DZGp7KC9Plsy4DDgn"
+    },
+    {
+      "album": {
         "name": "Water Pistol",
         "url": "https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC"
       },
@@ -17689,6 +17905,24 @@
       "duration_ms": 143414,
       "name": "Zlatan Ibrahimovi\u0107",
       "url": "https://open.spotify.com/track/4fDUU3PetUumiNtPRCG7mV"
+    },
+    {
+      "album": {
+        "name": "\u00c4lskad",
+        "url": "https://open.spotify.com/album/4a6axd5VO3HWdkCrtj0mhf"
+      },
+      "artists": [
+        {
+          "name": "Jeano",
+          "url": "https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164889,
+      "name": "\u00c4lskad",
+      "url": "https://open.spotify.com/track/5CsGx0tqM4faRt1E8osjtq"
     },
     {
       "album": {

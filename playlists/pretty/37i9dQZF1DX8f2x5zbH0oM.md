@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f2x5zbH0oM.md) - [plain]
 
 > La playlist au\-delà des genres\. Photo : KAYTRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,495 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,508 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f2x5zbH0oM.md) - [plain]
 | 49 | [Pixie Dust](https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Pixie Dust](https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8) | 3:03 |
 | 50 | [Paradisio](https://open.spotify.com/track/3EO5VAVMkKCDHW31QHd1P9) | [15 15](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Ataheva](https://open.spotify.com/album/7361gJ17DZkovNEBrUGUM6) | 4:17 |
 
-Snapshot ID: `MCxjNjE2OWYxNmVkNmVkZGI3MzkzMzhkMGFlMWI0ODIyZDMwMTRkODI2`
+Snapshot ID: `MCwzZmUxNjAyOTllNzgxNThmODdkNDcxYTBiYTE0N2ZmNGU5NDJkMGVk`

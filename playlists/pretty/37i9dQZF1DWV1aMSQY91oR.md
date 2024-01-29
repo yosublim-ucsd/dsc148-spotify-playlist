@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Ice Spice 💨
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,622 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,629 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 17 | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/track/4qmG24ebshLXtKu9HIShBP) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/album/5nOfPCLpHGpayGrUNHAPLt) | 3:37 |
 | 18 | [AMG](https://open.spotify.com/track/7fcQLY4j4QYQKzjh7UVFx3) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [AMG](https://open.spotify.com/album/5klHREYWvkW33YlIknjx5o) | 2:24 |
 | 19 | [All Wrong](https://open.spotify.com/track/39i4ZZlQhLf4u4WlOgZLsu) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN) | [All Wrong](https://open.spotify.com/album/4str3q1BH81yuhclcs48DR) | 3:37 |
-| 20 | [CHINA TOWN \(with Lil B\)](https://open.spotify.com/track/5yPyWy03ZrK1drSNvBUuZ1) | [G Milla](https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [CHINA TOWN \(with Lil B\)](https://open.spotify.com/album/6PDoQVpwrYzA9wtlUOtxOm) | 3:04 |
+| 20 | [CHINA TOWN \(with Lil B\)](https://open.spotify.com/track/4vViYyuQsqeg7WVcv7DoU4) | [G Milla](https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [CHINA TOWN \(with Lil B\)](https://open.spotify.com/album/1ABTRC3AQ41huRWDpblWZl) | 3:04 |
 | 21 | [Touchin' \(feat\. Kaliii\)](https://open.spotify.com/track/7KY0PsHITl98gztGO1fh5Z) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Touchin' \(feat\. Kaliii\)](https://open.spotify.com/album/46dCBNUNDnajk5pK0i0VgN) | 3:34 |
 | 22 | [CMON FREESTYLE](https://open.spotify.com/track/2CSUpKbvwm1kWfjuNjKAyM) | [CASTRO](https://open.spotify.com/artist/0LAurKItZ2c5kltNoRMtKq) | [CMON FREESTYLE](https://open.spotify.com/album/2g43kx4o3jExDa6WvCoj3l) | 1:42 |
 | 23 | [Nicki Hendrix \(feat\. Future\)](https://open.spotify.com/track/5XOVnisFK9XbICdyMMjrol) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pink Friday 2 \(Gag City PLUTO Edition\)](https://open.spotify.com/album/2lbQSK3qnWtWVYwjZiyvbM) | 4:24 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [Only Real](https://open.spotify.com/track/4LWW14lPMoe8EzdlVNquDM) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [Penthouse](https://open.spotify.com/album/7rkyW7jlyubisbtYDA6faY) | 2:35 |
 | 49 | [Potential \- Lolo Zouaï Remix](https://open.spotify.com/track/3R4mUtY9p1yl5YHomb9ix4) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Potential \(Lolo Zouaï Remix\)](https://open.spotify.com/album/6R1g40C2TPZnNx1JyuTBnM) | 2:03 |
 
-Snapshot ID: `MCw0YTM1NmIyYjAyOWNhZjM3NDUwMzkyNzEzMjY3NzIyYjJkOTg3NTc2`
+Snapshot ID: `MCw3YjkzMmIwZTQ3NWMyMTE1NDg1Mzg4ZjI2NGQ5NWMyZjMwMGUwOTNh`

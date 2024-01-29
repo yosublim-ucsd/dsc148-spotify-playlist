@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 63382,
+  "2024-01-29": 63401,
   "date_first_scraped": "2023-07-08",
   "description": "Its time to travel inwards & feel the bliss!",
   "name": "Dhyanam",
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 181863,
       "name": "Ayurveda",
       "url": "https://open.spotify.com/track/0yEUTofCJIxdRIuW6JxE3l"
@@ -1159,6 +1159,24 @@
       "duration_ms": 309013,
       "name": "Shiva's Meditation",
       "url": "https://open.spotify.com/track/0TxmxoCQMiXvfFA6DPM1wT"
+    },
+    {
+      "album": {
+        "name": "Ragas Relax",
+        "url": "https://open.spotify.com/album/5tSFLJ9LFFdIqrF6G7R3Je"
+      },
+      "artists": [
+        {
+          "name": "Chinmaya Dunster",
+          "url": "https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309024,
+      "name": "Shiva's Meditation",
+      "url": "https://open.spotify.com/track/2PIOLxy5u0q2KzbAE2gG2b"
     },
     {
       "album": {

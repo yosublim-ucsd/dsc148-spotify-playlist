@@ -4,7 +4,7 @@
 
 > The bass you need for riding low and high.
 
-194 songs - 9 hr 1 min
+195 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Dubai](https://open.spotify.com/track/21JaPxq2EGDDHKxGX8Cwwl) | [Mosees](https://open.spotify.com/artist/1Bff29cYcg0JkyYiyhFguD) | [Dubai](https://open.spotify.com/album/0nxlL5KuQPIlqgj6uJ6j9C) | 2:24 | 2022-06-16 | 2022-09-03 |
 | [Dune](https://open.spotify.com/track/3DYl0qnXwMYMKcXHn95i7d) | [Infraction](https://open.spotify.com/artist/7qlhXQA7QMXRwHtfTcQoyJ), [Alexi Action](https://open.spotify.com/artist/5Q3fDuVVQh3Bn8SVcIdqKw) | [Dune](https://open.spotify.com/album/6IzhSilCIno7FCwaj74CmD) | 2:23 | 2022-05-20 | 2022-06-17 |
 | [E S C O B a R](https://open.spotify.com/track/75BDGJuV727Qx2qkSqx5Fy) | [Şevket Öndaş](https://open.spotify.com/artist/5acooQjRlNtjcI4cHSOlki), [Egemen Kızıltekin](https://open.spotify.com/artist/7qcEBm8FydNYp8jZagSq2W) | [E S C O B a R](https://open.spotify.com/album/3Km6AfOXnr94jZbOWVyhPa) | 3:05 | 2022-09-30 |  |
+| [Enemy](https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Enemy](https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF) | 3:31 | 2024-01-26 |  |
 | [Ethnic](https://open.spotify.com/track/5j5dVqtX2YESmIy5T45EHq) | [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf) | [Ethnic](https://open.spotify.com/album/1OElQtPbcZZYj9NN5gphXj) | 3:37 | 2022-08-12 |  |
 | [Every Day Fucking Lie](https://open.spotify.com/track/4ZR2PqSafhvb5EDDyDwKbR) | [Libercio](https://open.spotify.com/artist/5xBPjWMU42TN6P0nwcH1f1), [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7) | [Every Day Fucking Lie](https://open.spotify.com/album/5Vn8ooJjGYUm2d7Yq2vpac) | 3:22 | 2022-04-07 | 2022-05-13 |
 | [Eyes Low](https://open.spotify.com/track/7bwyVyKR3HLkFDBS2nqKKQ) | [Edward Snellen](https://open.spotify.com/artist/6NqXkBi75jInrB94Nzfv6G), [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5) | [Eyes Low](https://open.spotify.com/album/6qYzu7jgQ6J1JuNdaNAEYf) | 2:52 | 2022-04-07 | 2022-06-11 |
@@ -186,7 +187,7 @@
 | [Temptation](https://open.spotify.com/track/7vuWtneKztDK57TAUlCynR) | [WYR GEMI](https://open.spotify.com/artist/3Qubu5zXcOh0EIb2bDwMdB) | [Temptation](https://open.spotify.com/album/4P3CtBPS8woTHS9YnjDD57) | 2:36 | 2022-04-07 | 2022-07-01 |
 | [Thank You \[Not So Bad\]](https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Thank You \[Not So Bad\]](https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK) | 3:17 | 2022-04-07 | 2022-07-01 |
 | [The Motto](https://open.spotify.com/track/5r6axyEqpdxog8T8u6gm5D) | [BRAN](https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd), [Newroad](https://open.spotify.com/artist/7fMVmvW8MFpSAeJBHAbyf9), [DVNAIR](https://open.spotify.com/artist/61A7lqEfBx8ghvKGtzWqWU), [Snoblack](https://open.spotify.com/artist/03ED5pKDk5KVVlCEtxH2bX) | [The Motto](https://open.spotify.com/album/4HoTfH5ggbjjTSH8rP7eHQ) | 2:54 | 2022-07-15 |  |
-| [The Walls](https://open.spotify.com/track/0O1XOHLMOsLoGNu6tZkOMt) | [Mondorro](https://open.spotify.com/artist/3TWVC1HPfghgGufoJTPk4h), [HAYASA G](https://open.spotify.com/artist/6L5WgMUzw10WPxDk0o8ghs) | [The Walls](https://open.spotify.com/album/1OXRWOmHupluRWTbQKaog9) | 2:54 | 2023-02-28 |  |
+| [The Walls](https://open.spotify.com/track/0O1XOHLMOsLoGNu6tZkOMt) | [Mondorro](https://open.spotify.com/artist/3TWVC1HPfghgGufoJTPk4h), [HAYASA G](https://open.spotify.com/artist/6L5WgMUzw10WPxDk0o8ghs) | [The Walls](https://open.spotify.com/album/1OXRWOmHupluRWTbQKaog9) | 2:54 | 2023-02-28 | 2024-01-29 |
 | [The Walls](https://open.spotify.com/track/7gfvtlkYb4NQhkLzagOez4) | [Mondorro](https://open.spotify.com/artist/3TWVC1HPfghgGufoJTPk4h), [HAYASA G](https://open.spotify.com/artist/6L5WgMUzw10WPxDk0o8ghs) | [The Walls](https://open.spotify.com/album/6GC9OjIjwwzOzzVkWQ8hIL) | 2:54 | 2022-10-06 | 2023-08-17 |
 | [Tricky Trippy](https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz) | [Tricky Trippy](https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5) | 2:58 | 2022-10-06 |  |
 | [ULETAY](https://open.spotify.com/track/6Pv2ssBWBcj2QFgmPl42gx) | [ONEIL](https://open.spotify.com/artist/7kzcAiYqxBV5J25vTYeOxA), [ORGAN](https://open.spotify.com/artist/1YKl8e8MJE5TK28LC4UyC6), [Titov](https://open.spotify.com/artist/3SuQprUc8N1kIOs2Hm2mAk), [FAVIA](https://open.spotify.com/artist/1FTXwgjHR8LAr13cnjWp7m) | [ULETAY](https://open.spotify.com/album/35VhiKDtvhfredQm0zWb2m) | 2:41 | 2022-11-04 |  |

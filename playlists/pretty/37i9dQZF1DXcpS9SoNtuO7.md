@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 ### [リスアニ！LIVE 2024](https://open.spotify.com/playlist/37i9dQZF1DXcpS9SoNtuO7)
 
-> 【SATURDAY STAGE セットリスト公開中！】2024年1月27日・28日、日本武道館にて開催！The official playlist of "LisAni! LIVE 2024
+> 【セットリスト公開中！】2024年1月27日・28日、日本武道館にて開催！The official playlist of "LisAni! LIVE 2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,070 likes - 39 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,273 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,5 +47,41 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 37 | [コノユビトマレ](https://open.spotify.com/track/47ltbGJTejvcljxYfzAlUZ) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [コノユビトマレ](https://open.spotify.com/album/5xpmbprnRWDZfDCF8kCU63) | 4:59 |
 | 38 | [Ikenai Borderline \-album version\-](https://open.spotify.com/track/0gg1K0zwcNaYyzMeKpRNxT) | [Walkure](https://open.spotify.com/artist/4b1IVV9meynYx65WpsxjbT) | [TV Animation "MACROSS DELTA" VOCAL SONGS COLLECTION "Walkure Attack!"](https://open.spotify.com/album/2nQJ2Eyi1uAwWcYXeYx6xP) | 4:39 |
 | 39 | [Kazenootosae kikoenai](https://open.spotify.com/track/48uOREHgRTGnIcZITpINcD) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [5th Anniversary 3rd Full Album Dear](https://open.spotify.com/album/6wDj0XhwsypQ1ANwXTIN8z) | 3:38 |
+| 40 | [五ツ座流星群](https://open.spotify.com/track/4HR0875EE4qjzED6rcNJYr) | [放課後クライマックスガールズ](https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 04](https://open.spotify.com/album/1VZnwWtBpDyVT0IWV4IV57) | 3:58 |
+| 41 | [ビーチブレイバー](https://open.spotify.com/track/6rHnoHywkJbqXPZvyU3xeM) | [放課後クライマックスガールズ](https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5) | [THE IDOLM@STER SHINY COLORS FR@GMENT WING 04](https://open.spotify.com/album/5mmghdMKxtWt5QaAMLqGWQ) | 3:55 |
+| 42 | [Tracing Defender](https://open.spotify.com/track/1XEU5o0qG4P0pHJeyAW00Q) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 06](https://open.spotify.com/album/40jerhrEfhhYjWUh9AA4EU) | 3:20 |
+| 43 | [Start up Stand up](https://open.spotify.com/track/2opWD3mqnkXvTEh1tjqqV6) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS "CANVAS" 05](https://open.spotify.com/album/1V2XKud3WLAvGy1NlukjPw) | 4:28 |
+| 44 | [太陽キッス](https://open.spotify.com/track/7zHBye4FWEI3W6u3rqm39M) | [放課後クライマックスガールズ](https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5) | [THE IDOLM@STER SHINY COLORS BRILLI@NT WING 04 夢咲きAfter school](https://open.spotify.com/album/7nbtHmpCxyd61CvO3DstSu) | 4:51 |
+| 45 | [Timeless Shooting Star](https://open.spotify.com/track/33svvagvZcmKa0GRyo3a4O) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS L@YERED WING 06](https://open.spotify.com/album/0zgAxjnwrYfek0bxi2aISp) | 3:32 |
+| 46 | [光のありか](https://open.spotify.com/track/4nzXq00j8m2VHAcvr7tW5Q) | [CHiCO](https://open.spotify.com/artist/7IV8K4vnEgJDGkfeyjjbWL) | [光のありか](https://open.spotify.com/album/7BaFAiG5gUAkoAjtx3FKFt) | 3:58 |
+| 47 | [ヒカリ証明論](https://open.spotify.com/track/1gTilQEziwJYdBHDPfXcX1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒカリ証明論](https://open.spotify.com/album/75ffnBvgLbwr4WKiHWMPul) | 4:34 |
+| 48 | [決戦スピリット](https://open.spotify.com/track/0ga108tnC9yVAWiH3mCsO0) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 4:32 |
+| 49 | [エース](https://open.spotify.com/track/0inUfiO8xQe8qx76gHW65a) | [CHiCO](https://open.spotify.com/artist/7IV8K4vnEgJDGkfeyjjbWL) | [エース](https://open.spotify.com/album/2Jpi5zf9OI76za4S136kvJ) | 3:08 |
+| 50 | [ソラトレイト](https://open.spotify.com/track/75cbWH61pd6yN1ZJrPTAW7) | [岬 なこ](https://open.spotify.com/artist/3b4KP5O2za8H98IxieMJfh) | [day to YOU](https://open.spotify.com/album/183oG82yds2ZFswddXOr2y) | 4:04 |
+| 51 | [スイートサイン](https://open.spotify.com/track/3PSgLRh1Wrk5fqxRDYfnDW) | [岬 なこ](https://open.spotify.com/artist/3b4KP5O2za8H98IxieMJfh) | [スイートサイン](https://open.spotify.com/album/4AEN1kQph1d95G97SKEutw) | 3:25 |
+| 52 | [morning morning](https://open.spotify.com/track/3NloEHbTZxvarJ14ygl1Sr) | [岬 なこ](https://open.spotify.com/artist/3b4KP5O2za8H98IxieMJfh) | [day to YOU](https://open.spotify.com/album/183oG82yds2ZFswddXOr2y) | 2:59 |
+| 53 | [Surprise](https://open.spotify.com/track/0fkfWgEkwmdDHms0V1JogP) | [中島怜](https://open.spotify.com/artist/7pQmC6NNs7KvWfrYKmqPbo) | [TV Animation "Sugar Apple Fairy Tale" 2nd Season Opening Theme Song "Surprise"](https://open.spotify.com/album/6EE5ge21vW9ehRzFfjFNRl) | 4:25 |
+| 54 | [Hajimaru](https://open.spotify.com/track/300QSeetGQx02LfIGzgjMD) | [中島怜](https://open.spotify.com/artist/7pQmC6NNs7KvWfrYKmqPbo) | [TV Animation "Sugar Apple Fairy Tale" 2nd Season Opening Theme Song "Surprise"](https://open.spotify.com/album/6EE5ge21vW9ehRzFfjFNRl) | 4:14 |
+| 55 | [迷星叫](https://open.spotify.com/track/5whZaLwjyjkLr75rRtmftL) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷跡波](https://open.spotify.com/album/6GBBqk1v5okNnioUXqMi7D) | 3:31 |
+| 56 | [壱雫空](https://open.spotify.com/track/1OVlUHWAK5KwWkWoLyMDjZ) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷跡波](https://open.spotify.com/album/6GBBqk1v5okNnioUXqMi7D) | 3:09 |
+| 57 | [影色舞](https://open.spotify.com/track/6MC5NKWAONf1YmNTEfom7I) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷跡波](https://open.spotify.com/album/6GBBqk1v5okNnioUXqMi7D) | 3:29 |
+| 58 | [碧天伴走](https://open.spotify.com/track/2fONHmoAIfMMklC7P9d6d1) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷跡波](https://open.spotify.com/album/6GBBqk1v5okNnioUXqMi7D) | 3:38 |
+| 59 | [音一会](https://open.spotify.com/track/2wjXoHFoZAPgSsyXMogQQa) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [音一会](https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN) | 4:42 |
+| 60 | [TTL](https://open.spotify.com/track/4NwRPoWzQT0JPGDkF42JBZ) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [恋愛ミリフィルム \(Complete Edition\)](https://open.spotify.com/album/48SVT8S7jkoU0kGISpMr09) | 3:42 |
+| 61 | [恋愛ミリフィルム](https://open.spotify.com/track/19BFUoZ7NSxD1toOmGRh6L) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [恋愛ミリフィルム](https://open.spotify.com/album/2KrmynsmgJbJLLOuAOn1fM) | 3:27 |
+| 62 | [センチメンタルクライシス](https://open.spotify.com/track/31fN64zoCHnWmFmPVmiVJT) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [Assortrip](https://open.spotify.com/album/21WfM8C9tr6u7MEZ4eWufZ) | 4:03 |
+| 63 | [誰彼スクランブル](https://open.spotify.com/track/0psSjxGt2lNnWYhZLLqBT6) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [誰彼スクランブル](https://open.spotify.com/album/3riDcXmPfyF8WRyiFUJOo3) | 4:28 |
+| 64 | [Good Luck Waker](https://open.spotify.com/track/5RAyZHSo1OlSJhDzjm5K42) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [Good Luck Waker](https://open.spotify.com/album/1LJgTHYnR11wmvCTUBFDwW) | 3:32 |
+| 65 | [Shekira](https://open.spotify.com/track/7lmoKU5kY1haRL1N1hiqzE) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Shekira](https://open.spotify.com/album/6omYirdfRVRWanhMVbCLBM) | 4:22 |
+| 66 | [スター宣言](https://open.spotify.com/track/2NXZ1iOG0zV0petFHEc3iG) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [WE WILL!!](https://open.spotify.com/album/1tOOzv1BUFulpiX5uiKnih) | 3:42 |
+| 67 | [キラーキューン☆](https://open.spotify.com/track/2xevuvQNCjevHHYP2VgDZn) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [MIRACLE NEW STORY](https://open.spotify.com/album/6GZVeBtYYQFdtQTXEcKD2V) | 3:17 |
+| 68 | [UNIVERSE!!](https://open.spotify.com/track/3KYIfwDTz5vFK6Op5ifWvd) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [UNIVERSE!!](https://open.spotify.com/album/1RK318IO7OR587IF7AnLve) | 4:22 |
+| 69 | [TO BE CONTINUED](https://open.spotify.com/track/0KHF63nvWLEID5ZEzwUKd3) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Sing！Shine！Smile！ / 未来の音が聴こえる \(第12話盤\)](https://open.spotify.com/album/7J38QZOcQfuuZixGxTDYGA) | 3:10 |
+| 70 | [かかわり](https://open.spotify.com/track/7MdTnv03MnwSoNDeADoxgf) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 4:23 |
+| 71 | [はなれない距離](https://open.spotify.com/track/0pFaJy4xKLLb7QeAGUhEDF) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [はなれない距離](https://open.spotify.com/album/0kA9ILc9xJDnoJl3HXiRnH) | 3:41 |
+| 72 | [マイハートリバイバル](https://open.spotify.com/track/2W5gFliehqCrXVsmVcswHK) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Re Bon Voyage](https://open.spotify.com/album/0cFsKEvhK04mcktNzfBv8I) | 3:37 |
+| 73 | [High Free Spirits](https://open.spotify.com/track/5YEG7E2bTb59guO3kzR58M) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F) | 4:44 |
+| 74 | [adrenaline!!!](https://open.spotify.com/track/10Yk9WbT2840l1NK5RWvkq) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F) | 4:34 |
+| 75 | [華麗ワンターン](https://open.spotify.com/track/3E7PYVYZ5YfmeJpzEv4PYf) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [華麗ワンターン](https://open.spotify.com/album/5Gu4DBIvLsOtPIPXSBAG7Y) | 4:23 |
 
-Snapshot ID: `MCw1MmI2YTBjM2JlOWQyNzE2NGIwMjQ2MDU3MDA0MmE1ZGZmYjRkNmMz`
+Snapshot ID: `MCwyOTgwYjYyMTBjMGZjZGQ4ZTQzMWE0MGM0MzdkNjMzZjJhZDM1Nzcy`

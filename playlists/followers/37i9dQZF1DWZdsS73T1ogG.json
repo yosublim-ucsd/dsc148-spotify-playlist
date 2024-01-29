@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 509210,
+  "2024-01-29": 509655,
   "date_first_scraped": "2022-03-22",
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Paloma Mami\n",
   "name": "el nuevo urbano",
@@ -3691,7 +3691,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 185750,
       "name": "Complicado",
       "url": "https://open.spotify.com/track/0odJehbwynq5ywdEnnWywx"
@@ -7913,6 +7913,36 @@
       "duration_ms": 190194,
       "name": "Hola",
       "url": "https://open.spotify.com/track/4sh30wQyEolLcZMr3SurPr"
+    },
+    {
+      "album": {
+        "name": "Hola (feat. BEATS PER MINUTES)",
+        "url": "https://open.spotify.com/album/2mi6GEyMMvm7vVonAhqXFl"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "BEATS PER MINUTES",
+          "url": "https://open.spotify.com/artist/19Oso0ltYhvDbLtj7OkfCu"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188649,
+      "name": "Hola (feat. BEATS PER MINUTES)",
+      "url": "https://open.spotify.com/track/0F5zxhhdUF6ODvY1ANZg5S"
     },
     {
       "album": {

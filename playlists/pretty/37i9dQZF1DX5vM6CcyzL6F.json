@@ -1,12 +1,12 @@
 {
   "description": "Si la salsa se cruza con la chamba... \u00a1s\u00fabele a la bocina!",
-  "num_followers": 48016,
+  "num_followers": 48039,
   "original_name": "Chambeando con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2RlMTM4NWJmN2IxYzViYTM4YzhkNTE0MzRlNWQyZDkzOGEwNDdi",
+  "snapshot_id": "MCxjYjYwOGZlZTJmZTZlYmZhNDEyNGUwYjFmZGRiNzQwOWM4ZjFlMWIz",
   "tracks": [
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
+        "name": "Sin Escencia",
+        "url": "https://open.spotify.com/album/3G4proiHOSagEvS94X2txr"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 195960,
+      "name": "Sin Escencia",
+      "url": "https://open.spotify.com/track/3rIFRsEwKXVZCZBvGgMwLq"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
         "name": "Fruko el Grande",
         "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 293067,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
-        "name": "Sin Escencia",
-        "url": "https://open.spotify.com/album/3G4proiHOSagEvS94X2txr"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 195960,
-      "name": "Sin Escencia",
-      "url": "https://open.spotify.com/track/3rIFRsEwKXVZCZBvGgMwLq"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Hechizando",
-        "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
-      },
-      "artists": [
-        {
-          "name": "Danny Daniel",
-          "url": "https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB"
-        },
-        {
-          "name": "Prix 06",
-          "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
-        }
-      ],
-      "duration_ms": 199862,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4Qr4M2eMQCLmpMdnLjDKYB"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Por Las Buenas",
         "url": "https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1"
       },
@@ -1251,6 +1231,22 @@
       "duration_ms": 155538,
       "name": "Por Las Buenas",
       "url": "https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Soy Feliz",
+        "url": "https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Las Tumbas",
+      "url": "https://open.spotify.com/track/4qD9JUCyC4IrCOO2hGDVDw"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1275,22 +1271,6 @@
       "duration_ms": 276581,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/3QXFOKlokWXMh2x9Q29764"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
-        "name": "Soy Feliz",
-        "url": "https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi"
-      },
-      "artists": [
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Las Tumbas",
-      "url": "https://open.spotify.com/track/4qD9JUCyC4IrCOO2hGDVDw"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1327,6 +1307,26 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
+        "name": "Hechizando",
+        "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
+      },
+      "artists": [
+        {
+          "name": "Danny Daniel",
+          "url": "https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB"
+        },
+        {
+          "name": "Prix 06",
+          "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
+        }
+      ],
+      "duration_ms": 199862,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4Qr4M2eMQCLmpMdnLjDKYB"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
         "name": "Exitos Eternos",
         "url": "https://open.spotify.com/album/3fyopvDCAQpZIJrCCIz6dx"
       },
@@ -1355,26 +1355,6 @@
       "duration_ms": 269826,
       "name": "\u00bfQu\u00e9 Pas\u00f3?",
       "url": "https://open.spotify.com/track/4rU0PHummLWtI4Y1IhP7WQ"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
-        "name": "Hechizando",
-        "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
-      },
-      "artists": [
-        {
-          "name": "Danny Daniel",
-          "url": "https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB"
-        },
-        {
-          "name": "Prix 06",
-          "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
-        }
-      ],
-      "duration_ms": 267311,
-      "name": "Hechizo",
-      "url": "https://open.spotify.com/track/6SDFIy0gtc8tLjVGWIJkxq"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1411,18 +1391,18 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "14 Ca\u00f1onazos Bailables 2001",
-        "url": "https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS"
+        "name": "From Cali with Love",
+        "url": "https://open.spotify.com/album/6l2H02jQ5TEVk0QTI90I4s"
       },
       "artists": [
         {
-          "name": "Sonora Carruseles",
-          "url": "https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS"
+          "name": "Moncho Santana",
+          "url": "https://open.spotify.com/artist/2JqEiy0aIziuAupest70fk"
         }
       ],
-      "duration_ms": 216146,
-      "name": "Arranca En Fa",
-      "url": "https://open.spotify.com/track/5ChULaTmIYylzL3lrrzuhf"
+      "duration_ms": 301400,
+      "name": "Tendria Que Llorar Por Ti",
+      "url": "https://open.spotify.com/track/1KvvRNWBKRcWE6aSxroIb0"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1443,18 +1423,38 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "From Cali with Love",
-        "url": "https://open.spotify.com/album/6l2H02jQ5TEVk0QTI90I4s"
+        "name": "Hechizando",
+        "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
       },
       "artists": [
         {
-          "name": "Moncho Santana",
-          "url": "https://open.spotify.com/artist/2JqEiy0aIziuAupest70fk"
+          "name": "Danny Daniel",
+          "url": "https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB"
+        },
+        {
+          "name": "Prix 06",
+          "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
         }
       ],
-      "duration_ms": 301400,
-      "name": "Tendria Que Llorar Por Ti",
-      "url": "https://open.spotify.com/track/1KvvRNWBKRcWE6aSxroIb0"
+      "duration_ms": 267311,
+      "name": "Hechizo",
+      "url": "https://open.spotify.com/track/6SDFIy0gtc8tLjVGWIJkxq"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "14 Ca\u00f1onazos Bailables 2001",
+        "url": "https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS"
+      },
+      "artists": [
+        {
+          "name": "Sonora Carruseles",
+          "url": "https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "Arranca En Fa",
+      "url": "https://open.spotify.com/track/5ChULaTmIYylzL3lrrzuhf"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 288240,
-      "name": "Por Favor Se\u00f1ora",
-      "url": "https://open.spotify.com/track/7qukMXPY4zpdDLLHi5wLA7"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "El Malo",
         "url": "https://open.spotify.com/album/6ROTUtQlp130rdHDff3nhE"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 200280,
       "name": "Borinquen",
       "url": "https://open.spotify.com/track/5aWptIJbLIRyQ5nELmBUKG"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 288240,
+      "name": "Por Favor Se\u00f1ora",
+      "url": "https://open.spotify.com/track/7qukMXPY4zpdDLLHi5wLA7"
     },
     {
       "added_at": "2022-08-02 22:53:13",

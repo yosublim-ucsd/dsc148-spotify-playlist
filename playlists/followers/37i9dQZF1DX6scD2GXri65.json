@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 51044,
+  "2024-01-29": 51125,
   "date_first_scraped": "2022-12-10",
   "description": "Go hard or go home",
   "name": "Hardstyle Gym \ud83d\udcaa",
@@ -1874,6 +1874,24 @@
     },
     {
       "album": {
+        "name": "Let's Go Insane (Into The Madness 2023 OST)",
+        "url": "https://open.spotify.com/album/10wLUtDoGhJE1Jv0ARmRv9"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215688,
+      "name": "Let's Go Insane (Into The Madness 2023 OST)",
+      "url": "https://open.spotify.com/track/4sCkVuX3Nj0guPB7LCksHt"
+    },
+    {
+      "album": {
         "name": "Live Fast Die Young",
         "url": "https://open.spotify.com/album/4T6rUAR786jTllgifeo6Zx"
       },
@@ -3613,7 +3631,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 207290,
       "name": "What You Give Is What You Get",
       "url": "https://open.spotify.com/track/2Gt8l0oXk0ZuGtpwkN67z0"

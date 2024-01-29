@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Rezz
 
-745 songs - 1 day 18 hr 45 min
+746 songs - 1 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Feel No Pain](https://open.spotify.com/track/5d8FKzupYxokVUB1fZEamz) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Feel No Pain](https://open.spotify.com/album/3y7BcgeKhEpG9OAk4PZeCO) | 2:49 | 2022-07-08 | 2022-12-03 |
 | [Feel Real](https://open.spotify.com/track/1smVQuPPMcDTg4ZucbNAh9) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Feel Real](https://open.spotify.com/album/1E4XNNJ1DkMrfHQ9g7JVdO) | 2:29 | 2022-05-27 | 2022-09-03 |
 | [Feel The Same](https://open.spotify.com/track/4uXs9sxxIQ1OdOl36HkTKB) | [Awakend](https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O), [CeCe Mix](https://open.spotify.com/artist/57xlBOg4rGYpipwpaIKv1W) | [Feel The Same](https://open.spotify.com/album/3Yh1Ori1Ydaq46oNsksZhN) | 2:47 | 2022-07-15 | 2023-01-06 |
+| [Feel Ur Touch](https://open.spotify.com/track/6Ic1geNctwh66xumQ3qyyw) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j) | [Feel Ur Touch](https://open.spotify.com/album/7pfd5jFr6TMpb9x7U04eAs) | 3:21 | 2024-01-12 |  |
 | [Feeling Free](https://open.spotify.com/track/4DYTMSIZB7nIazRd0vuI5w) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Feeling Free](https://open.spotify.com/album/5hYaCD1FopzL8Gd4wWUilB) | 2:59 | 2023-09-08 | 2023-10-21 |
 | [Feels Like You](https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp) | [Feels Like You](https://open.spotify.com/album/1EE0HJG6YJbTz2UPCVxdJI) | 3:22 | 2023-10-27 |  |
 | [Fever](https://open.spotify.com/track/4aonFWNn1hriqeEtXmMIRy) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ) | [Fever](https://open.spotify.com/album/1czheboLJFCb4lgJL2q4KK) | 2:40 | 2023-11-03 | 2023-12-09 |
@@ -616,7 +617,7 @@
 | [Skylight](https://open.spotify.com/track/5S8Qr5koQFUiZw3pqdRZhl) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Skylight](https://open.spotify.com/album/10NOqShCVq1dXnnskSeKLZ) | 3:32 | 2023-07-14 | 2023-09-16 |
 | [Skyline](https://open.spotify.com/track/5M6DnQMTwQs0CaNdz7yJ5d) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Skyline](https://open.spotify.com/album/0j1JntUGndsVxvXu6DwvRg) | 4:10 | 2022-05-20 | 2023-07-08 |
 | [Sleepless](https://open.spotify.com/track/4QXYBGEATD3XN91dIS57Rx) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [Teminite](https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF) | [Sleepless](https://open.spotify.com/album/0mfBVDHwB7RyTVTyndyv04) | 3:50 | 2021-12-17 | 2022-02-19 |
-| [Someone Else \- Blanke Remix](https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Overthrown \(The Thrones of Blood Remix Album\)](https://open.spotify.com/album/0uX6vlfx2rgxUX5cCZ1eXE) | 4:26 | 2023-12-01 |  |
+| [Someone Else \- Blanke Remix](https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Overthrown \(The Thrones of Blood Remix Album\)](https://open.spotify.com/album/0uX6vlfx2rgxUX5cCZ1eXE) | 4:26 | 2023-12-01 | 2024-01-29 |
 | [Someone To Forget](https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Someone To Forget](https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO) | 4:01 | 2023-09-01 | 2023-11-11 |
 | [something i can't change](https://open.spotify.com/track/7ehM4PkZ022zgzALGAYQtG) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4), [Adam Turley](https://open.spotify.com/artist/0clfID6QXqVAUhgm7QHpwF) | [something i can't change](https://open.spotify.com/album/55jIiVRuC91WSzB1ag6LdB) | 3:58 | 2021-12-17 | 2022-03-12 |
 | [SONG SIX](https://open.spotify.com/track/1bYscy2XwW0fKJoNrALWP7) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [SPLIT // PERSONALITY](https://open.spotify.com/album/6ndnEYMopLIxV3Bn3pAKDl) | 4:50 | 2021-12-17 | 2022-02-19 |

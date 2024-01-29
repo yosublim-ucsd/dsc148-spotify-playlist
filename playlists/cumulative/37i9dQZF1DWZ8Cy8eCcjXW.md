@@ -4,7 +4,7 @@
 
 > The genre\-bending singer's essential hits.
 
-52 songs - 3 hr 12 min
+53 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 | 2022-06-18 |  |
 | [Warm Winds \(feat\. Isaiah Rashad\)](https://open.spotify.com/track/0Kz9aGVgFvndWkcaiylIt5) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Z](https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8) | 5:50 | 2022-06-18 |  |
 | [West Savannah \(feat\. SZA\)](https://open.spotify.com/track/0Gt4nGWoATcQFL38a1NRao) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Cilvia Demo](https://open.spotify.com/album/6JF49ixyHmOgS0Rsda2k42) | 2:47 | 2022-06-18 |  |
-| [What Lovers Do](https://open.spotify.com/track/1PrNd4qyytqDIlfmQ1r8YL) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NOW That's What I Call Music, Vol\. 64](https://open.spotify.com/album/68FGnF6LTrgtYHQDVgPkZL) | 3:15 | 2022-06-18 |  |
+| [What Lovers Do](https://open.spotify.com/track/1PrNd4qyytqDIlfmQ1r8YL) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NOW That's What I Call Music, Vol\. 64](https://open.spotify.com/album/68FGnF6LTrgtYHQDVgPkZL) | 3:15 | 2022-06-18 | 2024-01-29 |
+| [What Lovers Do](https://open.spotify.com/track/164FniLcKsL0eigxthKS1T) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [大掃除がはかどる洋楽ヒッツ](https://open.spotify.com/album/5wWvsNRs99bNW8USlLJW4r) | 3:19 | 2022-06-18 |  |
 | [What Lovers Do \(feat\. SZA\)](https://open.spotify.com/track/2j5hsQvApottzvTn4pFJWF) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:19 | 2022-06-18 | 2024-01-27 |
 
 \*This playlist was first scraped on 2023-02-11. Prior content cannot be recovered.

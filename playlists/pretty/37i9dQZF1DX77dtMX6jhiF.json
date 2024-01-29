@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 12074,
+  "num_followers": 12100,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGI4OWVmNDRlZjA2YWEyZGE2MzhjNDA3OTljNzg1Njk2MDY0ZmEx",
+  "snapshot_id": "MCw3MWQ4NGJlYTlhYTgyZDJhNzUzZmY1ODliZGYzMjRiZTY1NDhjM2Ix",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 128651,
-      "name": "Bare Wit Me",
-      "url": "https://open.spotify.com/track/5QvU2zJrEVw1gAVL4D4iLj"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
         "name": "The Best of Sade",
         "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 381560,
       "name": "Is It a Crime",
       "url": "https://open.spotify.com/track/1SvET7grrtsHT0CkyJjJcZ"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 128651,
+      "name": "Bare Wit Me",
+      "url": "https://open.spotify.com/track/5QvU2zJrEVw1gAVL4D4iLj"
     },
     {
       "added_at": "2022-10-01 16:57:49",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "Crabs In A Bucket",
-        "url": "https://open.spotify.com/album/6nGxZjUBZK40BydnxQkc15"
-      },
-      "artists": [
-        {
-          "name": "Nines",
-          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
-        }
-      ],
-      "duration_ms": 177295,
-      "name": "Movie Knights",
-      "url": "https://open.spotify.com/track/5E03l2EB3TAf2xIX7QK5Cc"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
         "name": "4 Your Eyez Only",
         "url": "https://open.spotify.com/album/3MNP6yEmCAFruLe7pAGKCu"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 216520,
       "name": "Neighbors",
       "url": "https://open.spotify.com/track/4eSn3WcTUYdM5dYnSf7v8K"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
+        "name": "Crabs In A Bucket",
+        "url": "https://open.spotify.com/album/6nGxZjUBZK40BydnxQkc15"
+      },
+      "artists": [
+        {
+          "name": "Nines",
+          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
+        }
+      ],
+      "duration_ms": 177295,
+      "name": "Movie Knights",
+      "url": "https://open.spotify.com/track/5E03l2EB3TAf2xIX7QK5Cc"
     },
     {
       "added_at": "2022-10-01 16:57:49",

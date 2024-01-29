@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 2145944,
+  "2024-01-29": 2145406,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Germany.",
   "name": "Top 50 - Germany",
@@ -367,7 +367,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 146808,
       "name": "112",
       "url": "https://open.spotify.com/track/151QpsxCSYAPPchzELKWXb"
@@ -3073,7 +3073,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -3761,6 +3761,24 @@
       "duration_ms": 148973,
       "name": "AUSMACHT",
       "url": "https://open.spotify.com/track/6sDfeHgrQvvBFdg88Qq8TM"
+    },
+    {
+      "album": {
+        "name": "Ausreden",
+        "url": "https://open.spotify.com/album/68bqFhNUUavffB9OpTP065"
+      },
+      "artists": [
+        {
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133880,
+      "name": "Ausreden",
+      "url": "https://open.spotify.com/track/6ocEdv3r2yASPGP7moFUeZ"
     },
     {
       "album": {
@@ -6341,6 +6359,28 @@
       "duration_ms": 130199,
       "name": "Blue Cheese (feat. KALIM)",
       "url": "https://open.spotify.com/track/7BaLRoaLSmnOgmMnQzonGq"
+    },
+    {
+      "album": {
+        "name": "Blue Porsche (feat. Niska)",
+        "url": "https://open.spotify.com/album/3cawKdKtM97thqBmQBuAnN"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186479,
+      "name": "Blue Porsche (feat. Niska)",
+      "url": "https://open.spotify.com/track/3gOVMei7c4BD6oIfed24dc"
     },
     {
       "album": {
@@ -9715,7 +9755,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -12630,6 +12670,24 @@
     },
     {
       "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/1P7A1ht3drAlLlhiuDH6Hj"
+      },
+      "artists": [
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129009,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/7G6CXD57a8mIUFoOrmMhU7"
+    },
+    {
+      "album": {
         "name": "ELMAS",
         "url": "https://open.spotify.com/album/3I9p3UhZEHa6jmZyHhveco"
       },
@@ -12953,6 +13011,24 @@
       "duration_ms": 215549,
       "name": "ERFOLGSSPUR",
       "url": "https://open.spotify.com/track/3DqJfQglDmUUJPCbeVIbYP"
+    },
+    {
+      "album": {
+        "name": "Erinnern V4",
+        "url": "https://open.spotify.com/album/7BTR3pN03vDDsNnpSCO9sh"
+      },
+      "artists": [
+        {
+          "name": "361Ufuk",
+          "url": "https://open.spotify.com/artist/7tmEByPmgU7PrjiN7EEJSW"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152517,
+      "name": "Erinnern V4",
+      "url": "https://open.spotify.com/track/2MJhiHlV09y6ucGnC3cVOd"
     },
     {
       "album": {
@@ -16478,6 +16554,28 @@
     },
     {
       "album": {
+        "name": "Ghettostar (feat. Kolja Goldstein)",
+        "url": "https://open.spotify.com/album/2AyxTFNknIq6nXOk3mB1DL"
+      },
+      "artists": [
+        {
+          "name": "CAPO",
+          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
+        },
+        {
+          "name": "Kolja Goldstein",
+          "url": "https://open.spotify.com/artist/3rZxAl7fnH4NDynhJm3MUm"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158870,
+      "name": "Ghettostar (feat. Kolja Goldstein)",
+      "url": "https://open.spotify.com/track/4GvlN8k1FPoioICU5wFwRB"
+    },
+    {
+      "album": {
         "name": "Ghost Town",
         "url": "https://open.spotify.com/album/29xmDbpP6xSw3Bs1d6YPHa"
       },
@@ -18847,7 +18945,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
@@ -20875,7 +20973,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 117957,
       "name": "Intro",
       "url": "https://open.spotify.com/track/1nkDuqTrwWjHinq4rjx0Lx"
@@ -25558,6 +25656,24 @@
     },
     {
       "album": {
+        "name": "Lovesong",
+        "url": "https://open.spotify.com/album/7kQJJ7WcmsHmuq7tJsTL3t"
+      },
+      "artists": [
+        {
+          "name": "Loredana",
+          "url": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130157,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/2Cog6WTjyfEqZEj0eecGeS"
+    },
+    {
+      "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },
@@ -27901,7 +28017,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 155944,
       "name": "Miss my Home",
       "url": "https://open.spotify.com/track/2dLmWZcGmVsu6joHqO42AL"
@@ -28255,7 +28371,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -31995,7 +32111,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -36920,6 +37036,24 @@
     },
     {
       "album": {
+        "name": "Schloss aus Sand",
+        "url": "https://open.spotify.com/album/1suisGAGd9P0gjhffOqRQz"
+      },
+      "artists": [
+        {
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150882,
+      "name": "Schloss aus Sand",
+      "url": "https://open.spotify.com/track/4sbl4SNfBkfijDEiaijhcC"
+    },
+    {
+      "album": {
         "name": "Schmetterling",
         "url": "https://open.spotify.com/album/18LPHcIbr5G6oFx9Mf3lU3"
       },
@@ -39489,7 +39623,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -45941,7 +46075,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
@@ -46618,6 +46752,24 @@
     },
     {
       "album": {
+        "name": "Wittenbergplatz",
+        "url": "https://open.spotify.com/album/77ti7OnoU3a4j5HnbzsIIl"
+      },
+      "artists": [
+        {
+          "name": "Lucio101",
+          "url": "https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "Wittenbergplatz",
+      "url": "https://open.spotify.com/track/020fQowWGE54urxH67pgFx"
+    },
+    {
+      "album": {
         "name": "WOHIN",
         "url": "https://open.spotify.com/album/3ijyvvXTkjX4y5P0I6hnYD"
       },
@@ -47262,6 +47414,24 @@
     },
     {
       "album": {
+        "name": "Z0RNIG [2O24]",
+        "url": "https://open.spotify.com/album/6jd8NOxJvrkCjWGfbyZbHg"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156781,
+      "name": "Z0RNIG [2O24]",
+      "url": "https://open.spotify.com/track/4bL1w0m4bPkjqMfi93RK1x"
+    },
+    {
+      "album": {
         "name": "Zangar Zangar",
         "url": "https://open.spotify.com/album/0C9m4I1lxh6sQ4Ri5qai3S"
       },
@@ -47737,6 +47907,28 @@
       "duration_ms": 181016,
       "name": "\u00c0 la Carte",
       "url": "https://open.spotify.com/track/4RzIPi5kcw5gYAd07I8NDz"
+    },
+    {
+      "album": {
+        "name": "\u00fcberall",
+        "url": "https://open.spotify.com/album/4yXkNYJCqvCrtSmcJZunyJ"
+      },
+      "artists": [
+        {
+          "name": "Esther Graf",
+          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
+        },
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150632,
+      "name": "\u00fcberall",
+      "url": "https://open.spotify.com/track/2xZ6qOGFvlwm4VTlhrErPG"
     },
     {
       "album": {

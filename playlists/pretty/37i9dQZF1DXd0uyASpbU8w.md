@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz?si=K5VklOKLSDOF2V\_uTxQZLw">Priddy Ugly</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,433 likes - 65 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,487 likes - 65 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 39 | [Save Me](https://open.spotify.com/track/0RxUVkZSaKd61CMeZEkvnp) | [Kids In America](https://open.spotify.com/artist/6ovlMe2HTmv1MmrZfsoBqY), [John Samuel](https://open.spotify.com/artist/1aLNavTO9Rv8rPCgl2jMtl), [Bruvvy](https://open.spotify.com/artist/5VvBn4J8cVrk4A0YXLeUVf) | [life in lofi](https://open.spotify.com/album/6aUWz34G5cqlC7X5fSIK87) | 2:46 |
 | 40 | [Ngiyabonga](https://open.spotify.com/track/2fOazsCfbGoDQqwxIJLUzG) | [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN) | [Ngiyabonga](https://open.spotify.com/album/6cSQEZpZosF2eFkZPCYjF8) | 4:01 |
 | 41 | [Ishmael](https://open.spotify.com/track/0PpwwmmLTEi0cCsh0YMn0c) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleave Guyton Jr.](https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC) | [3](https://open.spotify.com/album/7zQJ12lE2XhxLyoTqSYS6v) | 1:42 |
-| 42 | [Undress You \(feat\. Sarkodie\)](https://open.spotify.com/track/6LVuaveD4hazORqbg67C03) | [K.J Spio](https://open.spotify.com/artist/2FupL1k7vpEQwj6Rtp3bbJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Undress You \(feat\. Sarkodie\)](https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO) | 3:33 |
+| 42 | [Undress You \(feat\. Sarkodie\)](https://open.spotify.com/track/6LVuaveD4hazORqbg67C03) | [KJ Spio](https://open.spotify.com/artist/72Rav2u2DeRPJuA44Ng0n0), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Undress You \(feat\. Sarkodie\)](https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO) | 3:33 |
 | 43 | [Nxese](https://open.spotify.com/track/1SFv8SpZVqW2PSpxqF9isM) | [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu) | [UBHOKO](https://open.spotify.com/album/1DAzJRQVdjclcmoeR0Hc5F) | 4:15 |
 | 44 | [Sekunjalo](https://open.spotify.com/track/3TFnmlvfoM2szN5AfIVyvt) | [Digital Sangoma](https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN) | [Sekunjalo](https://open.spotify.com/album/0zHCIfkUe24snVC8PhsX3F) | 5:50 |
 | 45 | [This My Life \(with Lil Tecca, The Kid LAROI & Lil Skies\)](https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 2:49 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 64 | [Moment to Myself](https://open.spotify.com/track/2vso6Cxk5aCcj1E8Dpb8SQ) | [Yanga YaYa](https://open.spotify.com/artist/6khlvGagBlNVPYIknFCPeJ) | [Moment to Myself](https://open.spotify.com/album/50t80L8FmtEW5RVSu8lV83) | 3:36 |
 | 65 | [African Lullaby](https://open.spotify.com/track/6CImoHDqYlFRYJEUzVP4yT) | [Jeremy Olivier](https://open.spotify.com/artist/4E0vXuP4jPooLrKMWifC4m), [Mike Del Ferro](https://open.spotify.com/artist/0TNH4nP9pt2WmRcbmFn8kr) | [Where the Light Gets In](https://open.spotify.com/album/1lYpby1e6FO73dXiCrmLw8) | 3:00 |
 
-Snapshot ID: `MCxkZDBmZTUyMGEwOWM5OTJmNmVjMTExYTFmZWExZDFhN2IwYTZjZTE4`
+Snapshot ID: `MCxhM2Y5ZThlYzdmN2QwN2ExMjZlNGY2ZGY4NWNjZjFmNTllOWYxNGJh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 
 > C'est parti pour une nuit de folie ! Photo : Gilbert Montagné
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,151 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,161 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 | 10 | [Plus près des étoiles](https://open.spotify.com/track/05OmZz1tixVBtXMx3cb4oc) | [Gold](https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5) | [Le Train De Mes Souvenirs](https://open.spotify.com/album/6oub6ygmprxb8y1QG8pDc9) | 3:57 |
 | 11 | [Femme que j'aime](https://open.spotify.com/track/6BDGz3KS4xmlUGv3hB0M8A) | [Jean\-Luc Lahaye](https://open.spotify.com/artist/6kKVGVM28hXgQDqNPr2CsD) | [Rendez\-vous](https://open.spotify.com/album/1AUBLpYSKPoxUivPUbhba7) | 3:45 |
 | 12 | [Eve lève\-toi](https://open.spotify.com/track/3MPmRgJHfD7CADCibQfNgG) | [Julie Pietri](https://open.spotify.com/artist/4siBlVknVhh8jtVy9jHsDG) | [Eve lève\-toi](https://open.spotify.com/album/5P5GtHwVOmZEVqqapr0F1w) | 4:32 |
-| 13 | [Les sunlights des tropiques](https://open.spotify.com/track/3xWQcHNZygGSrNAgzVLfFZ) | [Gilbert Montagné](https://open.spotify.com/artist/4qJ1NPJIburUjxcucKOhvu) | [Nouvel an 2022 chanson française](https://open.spotify.com/album/5uiadXJaCEHluWgbuGkKFT) | 3:47 |
+| 13 | [Les sunlights des tropiques](https://open.spotify.com/track/5hRRxtVL7Lgyq20mk9rtlS) | [Gilbert Montagné](https://open.spotify.com/artist/4qJ1NPJIburUjxcucKOhvu) | [CD STory](https://open.spotify.com/album/5dEIRCOVxzcofxlQ7jF8EZ) | 3:57 |
 | 14 | [Le coup de folie](https://open.spotify.com/track/7nWMVmzfodNQ5Ezj29yJ3S) | [Thierry Pastor](https://open.spotify.com/artist/2pwVe1rARBwb9VVjcL8XpH) | [Le coup de folie](https://open.spotify.com/album/1PzNZnVIDlvl4GDtCb6E3K) | 3:37 |
 | 15 | [Femme libérée](https://open.spotify.com/track/7H90dG9HiJ05b5NMNccm5C) | [Cookie Dingler](https://open.spotify.com/artist/7dwEj40A9FcUsnSTgBVOPG) | [Stars 80 l’album anniversaire !](https://open.spotify.com/album/59fkKgFk49BHq1tgTBpVtb) | 3:44 |
 | 16 | [Histoire d'1 soir \- Bye bye les galères](https://open.spotify.com/track/03QgO3lV2SxLD2rrdetFHt) | [Bibi Flash](https://open.spotify.com/artist/3ey9lZapAq5kQ9A5d65LBO) | [Histoire d'1 soir \(Bye bye les galères\)](https://open.spotify.com/album/7tt4oeT6k5W3e8n0r89WJz) | 4:35 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 | 31 | [Africa](https://open.spotify.com/track/1YXH5a44usvJyNKeMt8NMo) | [Rose Laurens](https://open.spotify.com/artist/5yHrAQeiQbwIqGHInzdYWM) | [Africa \- EP](https://open.spotify.com/album/4NR83WiSh5Zs9jL1VtkpRr) | 3:36 |
 | 32 | [New\-York avec toi \- Remasterisé en 2015](https://open.spotify.com/track/3MzqZDQInpsxboLy33uMct) | [Téléphone](https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK) | [Un autre monde \(Remasterisé en 2015\)](https://open.spotify.com/album/5DiavRKmdRpqdzgBjoNEF3) | 2:22 |
 | 33 | [Ça fait rire les oiseaux](https://open.spotify.com/track/1k5W5sE306l2rDTIux3cW0) | [La Compagnie Créole](https://open.spotify.com/artist/4GFqys2YA5hdCl4P2pdX3h) | [Best Of: C'est bon pour le moral !](https://open.spotify.com/album/7BzFMQvwZtV39KOsGT4Ltl) | 3:42 |
-| 34 | [Dès que le vent soufflera](https://open.spotify.com/track/4BcXU1mM5B4Uy8ourpl8sU) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Réveillon chanson française](https://open.spotify.com/album/0WMkNMsRkAI1HJxeB9QiDH) | 4:27 |
+| 34 | [Dès que le vent soufflera](https://open.spotify.com/track/4fUWOQk8Qk0KjRxQ0FH0zp) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Renaud CD Story](https://open.spotify.com/album/1QuRVhgQ3UM7N9dz0O1s0z) | 4:24 |
 | 35 | [En rouge et noir](https://open.spotify.com/track/1Gcv4C4s4aJTtm8THwEdFN) | [Jeanne Mas](https://open.spotify.com/artist/6ItMujsGa113JYrjlfrZXR) | [best of jeanne mas 2004](https://open.spotify.com/album/4pTDSN6BHeCYXI3hkojANx) | 4:28 |
 | 36 | [Je marche seul](https://open.spotify.com/track/64RjISJL1FHd2QljKi41Ga) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [Singulier 81 \- 89](https://open.spotify.com/album/3uNjjn5cfebLLGyKHTdDyS) | 4:02 |
 | 37 | [Ouragan \- Remastered](https://open.spotify.com/track/3qd96R8vwARMzD8uBSNui5) | [Stephanie](https://open.spotify.com/artist/16q1X9q6DxoNdqPQlYwxgM) | [Irresistible Princess](https://open.spotify.com/album/1R2G7lobLL80kaFPrVCCQ6) | 4:21 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 | 44 | [Libertine](https://open.spotify.com/track/1zlYAnYJD7TzHiXnA6oQEW) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Libertine](https://open.spotify.com/album/2nkqzj7uKomG5q4UHV2EGi) | 3:46 |
 | 45 | [Boule de flipper](https://open.spotify.com/track/1S0SNWFuMJOnruRgIklPRg) | [Corynne CHARBY](https://open.spotify.com/artist/0g3UZ5TKLKBB9m35O8KAm3) | [Boule de flipper](https://open.spotify.com/album/0lzuBZIhhzpooxF2dR9sPk) | 3:26 |
 | 46 | [Chacun fait \(c'qui lui plait\)](https://open.spotify.com/track/5TpIQ1tVlPnm4SHObswUU6) | [Chagrin D'amour](https://open.spotify.com/artist/1LTi4SuPK0G9juYKxU6AAG) | [Chacun fait \(C'qui lui plait\)](https://open.spotify.com/album/0I18V9PWrPOG3JmOkLyysm) | 4:09 |
-| 47 | [L'amour à la plage](https://open.spotify.com/track/68JrQUo61GVs5Rcn7FYpbw) | [Niagara](https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU) | [Playlist mariage : les classiques](https://open.spotify.com/album/06hB0lQD3oVT0U5buFzedK) | 3:20 |
+| 47 | [L'amour à la plage](https://open.spotify.com/track/4mII9EfvzMukROnehYgqG3) | [Niagara](https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU) | [Encore un dernier baiser](https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN) | 3:23 |
 | 48 | [T'as le look coco \- Version originale 1984](https://open.spotify.com/track/4SUywsuljKsUnFm0sE63Mq) | [Laroche Valmont](https://open.spotify.com/artist/65m1wGOxY1xTzvDr51BsFH) | [T'as le look coco & co, vol\. 1 \(Best of versions originales, covers et remixes\)](https://open.spotify.com/album/5GFORoaV2Iqm20AShh0diW) | 3:24 |
 | 49 | [Toi mon toit \- Extended Version](https://open.spotify.com/track/6VUw1TBkg9QNOzLtP4jmhw) | [Elli Medeiros](https://open.spotify.com/artist/6gpCBsCNiMt5MO5sW0sexm) | [Bom Bom](https://open.spotify.com/album/2tnKQOQfzdyn4UO3CVr2lP) | 6:23 |
 | 50 | [Maîtresse](https://open.spotify.com/track/6UT5PGqkKoUbEEgSJEdtqY) | [Images](https://open.spotify.com/artist/6BGRCwCR7pQWXqWNhBE2vf) | [L'album](https://open.spotify.com/album/0h7NQszOFKKgJ1jacUpxb0) | 4:01 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 | 59 | [Pour le plaisir](https://open.spotify.com/track/3UbjLaV37WezwuvT2pdsIL) | [Herbert Léonard](https://open.spotify.com/artist/2VsTgQUocqoaXjLG5YerlB) | [Best of Herbert Léonard](https://open.spotify.com/album/6ZudFHSwgkQxsmCDwjHSRX) | 3:48 |
 | 60 | [A caus' des garçons \- Radio Version](https://open.spotify.com/track/6qVHavRuhCeoNq66osK4cL) | [A Caus' Des Garçons](https://open.spotify.com/artist/44rIoyd04L9FBK4P8zrodX) | [A caus' des garçons](https://open.spotify.com/album/2Pd31sl13MAvyawXBToJi7) | 4:13 |
 
-Snapshot ID: `MCxkZWY3NTk5YmI0YjA0YTlhNGUwMTBiYThjNTYzMzhhODhiZGQxOTFh`
+Snapshot ID: `MCwyNWI2NmYxNzZjZTI1OGE3NjBiNjJkZDFjYjIzNjNkY2U1OGZjYjFl`

@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 4468,
+  "2024-01-29": 4482,
   "date_first_scraped": "2023-04-07",
   "description": "Gospel music from across East Africa",
   "name": "Sunday Service",
@@ -651,6 +651,24 @@
       "duration_ms": 308066,
       "name": "Holy Forever",
       "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
+    },
+    {
+      "album": {
+        "name": "Honestly, We Just Need Jesus",
+        "url": "https://open.spotify.com/album/1fWPYlF3KjkU0snPtPk2Hz"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208480,
+      "name": "Honestly, We Just Need Jesus",
+      "url": "https://open.spotify.com/track/18QDUhYX0DYLHueTr1Wzz7"
     },
     {
       "album": {
@@ -1941,7 +1959,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 504992,
       "name": "Sing Hallelujah (with Natalie Grant) - Live",
       "url": "https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9"

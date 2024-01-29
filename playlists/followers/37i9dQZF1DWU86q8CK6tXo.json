@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 45501,
+  "2024-01-29": 45527,
   "date_first_scraped": "2021-12-28",
   "description": "Listen to women at full volume. Cover: Courtney LaPlante of Spiritbox",
   "name": "EQUAL US",
@@ -5197,6 +5197,24 @@
       "duration_ms": 194423,
       "name": "Dancing At The Disco",
       "url": "https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN"
+    },
+    {
+      "album": {
+        "name": "Dangerous Game",
+        "url": "https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158647,
+      "name": "Dangerous Game",
+      "url": "https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG"
     },
     {
       "album": {
@@ -12173,7 +12191,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 157322,
       "name": "Look What You Do to Me",
       "url": "https://open.spotify.com/track/0ayKEMhZY2mCghqvqoPWEE"

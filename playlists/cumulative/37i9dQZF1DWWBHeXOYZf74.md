@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Empress Of
 
-2,352 songs - 5 day 12 hr 11 min
+2,353 songs - 5 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,8 +489,9 @@
 | [Crushing](https://open.spotify.com/track/6BPwBHxjmavFAyMrLQgQYd) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Powders](https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U) | 4:31 | 2023-09-22 |  |
 | [Crust](https://open.spotify.com/track/3KsS9NkC5ZlPAIWpGoL5Sx) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj) | 2:13 | 2021-04-30 | 2022-01-15 |
 | [Cry](https://open.spotify.com/track/10dIUI2sI4IBXhgEfp5oIs) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Too Loyal for My Own Good](https://open.spotify.com/album/39SJXfvhdYT3pWyfKqLO83) | 2:40 | 2021-10-07 | 2021-10-21 |
+| [Cry Baby](https://open.spotify.com/track/63aDJ5QU4GRShLk60kadlZ) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [In The Midst of You](https://open.spotify.com/album/48zdL0EfmjVrQoi4UJwGG9) | 4:32 | 2024-01-05 |  |
 | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/track/0Lh0ZEInuYqlHtx2DM2rC4) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/album/0oUea0jex9YxPdZgmP62Hw) | 4:32 | 2024-01-05 | 2024-01-12 |
-| [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/track/6hOGZCEgzOEULm4lXk9SS2) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/album/60bBNV9rQfhoD8YnfbWTIq) | 4:32 | 2024-01-05 |  |
+| [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/track/6hOGZCEgzOEULm4lXk9SS2) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/album/60bBNV9rQfhoD8YnfbWTIq) | 4:32 | 2024-01-05 | 2024-01-29 |
 | [CRYBABY :\*\(](https://open.spotify.com/track/0psWKCR3qW2qqyCTAbCFtO) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [CRYBABY :\*\(](https://open.spotify.com/album/6LPTa6WxHqzA5E9ohh1JoN) | 2:48 | 2019-11-02 | 2020-04-04 |
 | [Crystal Ball](https://open.spotify.com/track/50bGW8Z9qGXlWC1CpOORr1) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Crystal Ball](https://open.spotify.com/album/79N96g4sh8QwGGp09VMJZN) | 1:58 | 2021-05-15 | 2021-07-24 |
 | [Cuenta Lo](https://open.spotify.com/track/549VARqe57rM5u8vkzTPgs) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Cuenta Lo](https://open.spotify.com/album/3iieIKdHUhtM7xNO1zLJ9X) | 3:05 | 2021-02-12 | 2021-03-26 |

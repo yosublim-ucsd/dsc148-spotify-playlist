@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Justin Timberlake
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,019 likes - 81 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,957 likes - 81 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 80 | [Closer Than This](https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Closer Than This](https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4) | 3:43 |
 | 81 | [f@k€](https://open.spotify.com/track/25dihw6b05yrnLyqxs3IDO) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj) | [f@k€](https://open.spotify.com/album/1o8jGQjvhRvE3ecv4KSlS4) | 1:47 |
 
-Snapshot ID: `MCwzYmYzZGJmN2M2MjUzNDBmOThiZjQ1NWUxYzIyN2ZjNjNiNzg0YzVj`
+Snapshot ID: `MCw2OTc2MTk4ZTJkMGU0ZjViOWU3ZWM0NTA4ZWNhMjRlYjBjMTEyYjcw`

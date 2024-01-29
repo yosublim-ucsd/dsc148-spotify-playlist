@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 66105,
+  "num_followers": 66117,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGNkMjk0ZGM5YTVkZjQ5ZmI0OGFlNjMyYzEyNzA4YjhiNzIyOWE4",
+  "snapshot_id": "MCw2MDhhNjVkZDVhYmE2NjM0NjJkMWRkOWIyNTZiNTZhNzFjN2RlYzc2",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -845,6 +845,22 @@
       "url": "https://open.spotify.com/track/23AKDhAiWJSyLOdn5AB9Gs"
     },
     {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "In search of Moksha... Or something of the kind",
+        "url": "https://open.spotify.com/album/3CtCE0cNY4AQZTr1Jdyos2"
+      },
+      "artists": [
+        {
+          "name": "Aron Estocolmo",
+          "url": "https://open.spotify.com/artist/2QU3bcawUYfHbcPmWPHtra"
+        }
+      ],
+      "duration_ms": 397894,
+      "name": "The Ganga river unpolluted once more",
+      "url": "https://open.spotify.com/track/0JWrWRvxPc86sLSfnyhCBv"
+    },
+    {
       "added_at": "2023-06-23 14:51:15",
       "album": {
         "name": "Simple Child",
@@ -871,22 +887,6 @@
       "duration_ms": 376000,
       "name": "Simple Child",
       "url": "https://open.spotify.com/track/091XExKLCNuX2sIJ3UvP1X"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "In search of Moksha... Or something of the kind",
-        "url": "https://open.spotify.com/album/3CtCE0cNY4AQZTr1Jdyos2"
-      },
-      "artists": [
-        {
-          "name": "Aron Estocolmo",
-          "url": "https://open.spotify.com/artist/2QU3bcawUYfHbcPmWPHtra"
-        }
-      ],
-      "duration_ms": 397894,
-      "name": "The Ganga river unpolluted once more",
-      "url": "https://open.spotify.com/track/0JWrWRvxPc86sLSfnyhCBv"
     }
   ],
   "unique_name": "Deep Study",

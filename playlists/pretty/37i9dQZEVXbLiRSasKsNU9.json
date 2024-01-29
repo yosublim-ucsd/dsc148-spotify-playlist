@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Global.",
-  "num_followers": 1771772,
+  "num_followers": 1771421,
   "original_name": "Viral 50 - Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzU5NzIwMDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzU5ODA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "Praise Jah In The Moonlight",
         "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "Poison (Hazbin Hotel Original Soundtrack)",
         "url": "https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "Bling-Bang-Bang-Born",
         "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "Meet The Lilithz",
         "url": "https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5"
@@ -81,39 +81,7 @@
       "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
-      "album": {
-        "name": "act ii: date @ 8",
-        "url": "https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        }
-      ],
-      "duration_ms": 113684,
-      "name": "act ii: date @ 8",
-      "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
-    },
-    {
-      "added_at": "2024-01-27 14:52:36",
-      "album": {
-        "name": "Read My Lips",
-        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "Murder On The Dancefloor",
-      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
-    },
-    {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "Baby Eu Tava na Rua da \u00c1gua",
         "url": "https://open.spotify.com/album/6HIPvZhnf9Pb6rFLQb7vmD"
@@ -137,7 +105,39 @@
       "url": "https://open.spotify.com/track/4sAoshwHCmh4IHMQxZHwRD"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
+      "album": {
+        "name": "act ii: date @ 8",
+        "url": "https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "duration_ms": 113684,
+      "name": "act ii: date @ 8",
+      "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
+    },
+    {
+      "added_at": "2024-01-28 14:02:34",
+      "album": {
+        "name": "Read My Lips",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
+    },
+    {
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "YOARI X MY DEMON",
         "url": "https://open.spotify.com/album/2XyMN12w6Lb9Ion8UdRCkf"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/2oAmC0f5DWBDyXqsKO00ov"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "Christell",
         "url": "https://open.spotify.com/album/3akGM9qVRzmn3WIDKc2xiz"
@@ -169,43 +169,7 @@
       "url": "https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
-      "album": {
-        "name": "rain",
-        "url": "https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX"
-      },
-      "artists": [
-        {
-          "name": "PiXXiE",
-          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
-        }
-      ],
-      "duration_ms": 196896,
-      "name": "\u0e15\u0e34\u0e14\u0e1d\u0e19 (rain)",
-      "url": "https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F"
-    },
-    {
-      "added_at": "2024-01-27 14:52:36",
-      "album": {
-        "name": "FIRST LOVE",
-        "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
-      },
-      "artists": [
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "FIRST LOVE",
-      "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
-    },
-    {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "Buscando Money",
         "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
@@ -225,7 +189,43 @@
       "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
+      "album": {
+        "name": "FIRST LOVE",
+        "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
+      },
+      "artists": [
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "FIRST LOVE",
+      "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
+    },
+    {
+      "added_at": "2024-01-28 14:02:34",
+      "album": {
+        "name": "rain",
+        "url": "https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "duration_ms": 196896,
+      "name": "\u0e15\u0e34\u0e14\u0e1d\u0e19 (rain)",
+      "url": "https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F"
+    },
+    {
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "Pi Po Po Po Ro Po",
         "url": "https://open.spotify.com/album/6RzUIF1xmL28SYZ5326cAc"
@@ -241,27 +241,7 @@
       "url": "https://open.spotify.com/track/3dSDQ8jGCOcviaRynf9jeK"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
-      "album": {
-        "name": "BACKROOMS",
-        "url": "https://open.spotify.com/album/0uuJecIiLh64AJTixOfvBy"
-      },
-      "artists": [
-        {
-          "name": "mud washed denim",
-          "url": "https://open.spotify.com/artist/3wwdmXeB7T4O79vHR3ob4G"
-        },
-        {
-          "name": "liminal00",
-          "url": "https://open.spotify.com/artist/0TWkLGlTS3pQcPKgk0DNk8"
-        }
-      ],
-      "duration_ms": 160391,
-      "name": "BACKROOMS",
-      "url": "https://open.spotify.com/track/3cqX6bsRIwJ24CvKwzaIQw"
-    },
-    {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "Koi Si",
         "url": "https://open.spotify.com/album/4HYXhgflBVtGl3cYL2eJIm"
@@ -281,7 +261,7 @@
       "url": "https://open.spotify.com/track/0rY5TEzbVFwphIzMhMh7hX"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "Like I Do",
         "url": "https://open.spotify.com/album/4AT7V0zZ0B3xWDef7sPCyJ"
@@ -297,39 +277,27 @@
       "url": "https://open.spotify.com/track/1TiZWEsxN85yLJBq56K8mG"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
       "album": {
-        "name": "Husn",
-        "url": "https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W"
+        "name": "BACKROOMS",
+        "url": "https://open.spotify.com/album/0uuJecIiLh64AJTixOfvBy"
       },
       "artists": [
         {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 217894,
-      "name": "Husn",
-      "url": "https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY"
-    },
-    {
-      "added_at": "2024-01-27 14:52:36",
-      "album": {
-        "name": "Apa Fer Milaangey",
-        "url": "https://open.spotify.com/album/4DJ0kcXBIrmzbdhoGkwmti"
-      },
-      "artists": [
+          "name": "mud washed denim",
+          "url": "https://open.spotify.com/artist/3wwdmXeB7T4O79vHR3ob4G"
+        },
         {
-          "name": "Savi Kahlon",
-          "url": "https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP"
+          "name": "liminal00",
+          "url": "https://open.spotify.com/artist/0TWkLGlTS3pQcPKgk0DNk8"
         }
       ],
-      "duration_ms": 213368,
-      "name": "Apa Fer Milaangey",
-      "url": "https://open.spotify.com/track/5BBB2PDgDWi6NBECj0wJiA"
+      "duration_ms": 160391,
+      "name": "BACKROOMS",
+      "url": "https://open.spotify.com/track/3cqX6bsRIwJ24CvKwzaIQw"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "Never Lose Me",
         "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
@@ -345,7 +313,7 @@
       "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "Ghetto Fabulous",
         "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
@@ -361,7 +329,39 @@
       "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
+      "album": {
+        "name": "Husn",
+        "url": "https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "duration_ms": 217894,
+      "name": "Husn",
+      "url": "https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY"
+    },
+    {
+      "added_at": "2024-01-28 14:02:34",
+      "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 184027,
+      "name": "M.A.I",
+      "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
+    },
+    {
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "CERBER EP",
         "url": "https://open.spotify.com/album/2s9Jf5Ir7sG2uFYzFWkxSU"
@@ -381,7 +381,23 @@
       "url": "https://open.spotify.com/track/6epWbDEEEOakzBeyNr69MO"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
+      "album": {
+        "name": "Apa Fer Milaangey",
+        "url": "https://open.spotify.com/album/4DJ0kcXBIrmzbdhoGkwmti"
+      },
+      "artists": [
+        {
+          "name": "Savi Kahlon",
+          "url": "https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP"
+        }
+      ],
+      "duration_ms": 213368,
+      "name": "Apa Fer Milaangey",
+      "url": "https://open.spotify.com/track/5BBB2PDgDWi6NBECj0wJiA"
+    },
+    {
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "Kho Gaye Hum Kahan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3S4aagneprm7Dlvzf4Nu0O"
@@ -405,23 +421,7 @@
       "url": "https://open.spotify.com/track/4lQzrLcNfjm1fqBpQmbHG6"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 184027,
-      "name": "M.A.I",
-      "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
-    },
-    {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "Kapak Olsun",
         "url": "https://open.spotify.com/album/7j9rfRyTb6tHY4CWgE8S2B"
@@ -445,39 +445,7 @@
       "url": "https://open.spotify.com/track/4yThcjBXiBsiP8QxFraRG1"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
-      "album": {
-        "name": "Ram Ayenge",
-        "url": "https://open.spotify.com/album/17pSSH9rK9c3DgILGUXHdm"
-      },
-      "artists": [
-        {
-          "name": "Swati Mishra",
-          "url": "https://open.spotify.com/artist/3SwS8uwiv8h8gf0uobOb4f"
-        }
-      ],
-      "duration_ms": 233170,
-      "name": "Ram Ayenge",
-      "url": "https://open.spotify.com/track/533hHUYw7BW8VVQ1o0IdTR"
-    },
-    {
-      "added_at": "2024-01-27 14:52:36",
-      "album": {
-        "name": "La Diabla",
-        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 172264,
-      "name": "La Diabla",
-      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
-    },
-    {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "Stumblin' In",
         "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
@@ -493,87 +461,7 @@
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
-      "album": {
-        "name": "Fall out of Line",
-        "url": "https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn"
-      },
-      "artists": [
-        {
-          "name": "He Is We",
-          "url": "https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU"
-        }
-      ],
-      "duration_ms": 200059,
-      "name": "I Wouldn't Mind",
-      "url": "https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj"
-    },
-    {
-      "added_at": "2024-01-27 14:52:36",
-      "album": {
-        "name": "Apa Fer Milaange",
-        "url": "https://open.spotify.com/album/62dVx2sHnVaGFP2cuURpL5"
-      },
-      "artists": [
-        {
-          "name": "Savi Kahlon",
-          "url": "https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP"
-        }
-      ],
-      "duration_ms": 254142,
-      "name": "Apa Fer Milaange",
-      "url": "https://open.spotify.com/track/6JP8RinqsLkPiBi7B0VLGJ"
-    },
-    {
-      "added_at": "2024-01-27 14:52:36",
-      "album": {
-        "name": "Bad Feeling (Oompa Loompa)",
-        "url": "https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296"
-      },
-      "artists": [
-        {
-          "name": "Jagwar Twin",
-          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
-        }
-      ],
-      "duration_ms": 133754,
-      "name": "Bad Feeling (Oompa Loompa)",
-      "url": "https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A"
-    },
-    {
-      "added_at": "2024-01-27 14:52:36",
-      "album": {
-        "name": "Erotyczne Pif-Paf",
-        "url": "https://open.spotify.com/album/4k7PWbA31OkVs8SFxmTuqG"
-      },
-      "artists": [
-        {
-          "name": "Figo i Samogony",
-          "url": "https://open.spotify.com/artist/6oOSXrGnm3gri3wZBkpx1t"
-        }
-      ],
-      "duration_ms": 175582,
-      "name": "Erotyczne Pif-Paf",
-      "url": "https://open.spotify.com/track/1xHbeaBnk5tV1BEInmVKlw"
-    },
-    {
-      "added_at": "2024-01-27 14:52:36",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "Made For Me",
         "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
@@ -589,7 +477,119 @@
       "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
+      "album": {
+        "name": "La Diabla",
+        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 172264,
+      "name": "La Diabla",
+      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
+    },
+    {
+      "added_at": "2024-01-28 14:02:34",
+      "album": {
+        "name": "Fall out of Line",
+        "url": "https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn"
+      },
+      "artists": [
+        {
+          "name": "He Is We",
+          "url": "https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU"
+        }
+      ],
+      "duration_ms": 200059,
+      "name": "I Wouldn't Mind",
+      "url": "https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj"
+    },
+    {
+      "added_at": "2024-01-28 14:02:34",
+      "album": {
+        "name": "Bad Feeling (Oompa Loompa)",
+        "url": "https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296"
+      },
+      "artists": [
+        {
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+        }
+      ],
+      "duration_ms": 133754,
+      "name": "Bad Feeling (Oompa Loompa)",
+      "url": "https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A"
+    },
+    {
+      "added_at": "2024-01-28 14:02:34",
+      "album": {
+        "name": "Apa Fer Milaange",
+        "url": "https://open.spotify.com/album/62dVx2sHnVaGFP2cuURpL5"
+      },
+      "artists": [
+        {
+          "name": "Savi Kahlon",
+          "url": "https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP"
+        }
+      ],
+      "duration_ms": 254142,
+      "name": "Apa Fer Milaange",
+      "url": "https://open.spotify.com/track/6JP8RinqsLkPiBi7B0VLGJ"
+    },
+    {
+      "added_at": "2024-01-28 14:02:34",
+      "album": {
+        "name": "Erotyczne Pif-Paf",
+        "url": "https://open.spotify.com/album/4k7PWbA31OkVs8SFxmTuqG"
+      },
+      "artists": [
+        {
+          "name": "Figo i Samogony",
+          "url": "https://open.spotify.com/artist/6oOSXrGnm3gri3wZBkpx1t"
+        }
+      ],
+      "duration_ms": 175582,
+      "name": "Erotyczne Pif-Paf",
+      "url": "https://open.spotify.com/track/1xHbeaBnk5tV1BEInmVKlw"
+    },
+    {
+      "added_at": "2024-01-28 14:02:34",
+      "album": {
+        "name": "Ram Ayenge",
+        "url": "https://open.spotify.com/album/17pSSH9rK9c3DgILGUXHdm"
+      },
+      "artists": [
+        {
+          "name": "Swati Mishra",
+          "url": "https://open.spotify.com/artist/3SwS8uwiv8h8gf0uobOb4f"
+        }
+      ],
+      "duration_ms": 233170,
+      "name": "Ram Ayenge",
+      "url": "https://open.spotify.com/track/533hHUYw7BW8VVQ1o0IdTR"
+    },
+    {
+      "added_at": "2024-01-28 14:02:34",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "Half of forever",
         "url": "https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "\u0e1e\u0e35\u0e48\u0e0a\u0e2d\u0e1a\u0e2b\u0e19\u0e39\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e25\u0e22",
         "url": "https://open.spotify.com/album/69ybwJj0gIujut2fiIMQLY"
@@ -625,7 +625,23 @@
       "url": "https://open.spotify.com/track/7mVobUmGP12Y5SQJgBice3"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
+      "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "Makasarili Malambing",
         "url": "https://open.spotify.com/album/07y0oEistR8d2JOwd5E67B"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "No Te Quieren Conmigo",
         "url": "https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP"
@@ -669,7 +685,7 @@
       "url": "https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "B\u00e9cane - A COLORS SHOW",
         "url": "https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB"
@@ -685,135 +701,7 @@
       "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
-      "album": {
-        "name": "Keejo Kesari Ke Lal",
-        "url": "https://open.spotify.com/album/2AKJdQlmnGC3dFRv0kSaVq"
-      },
-      "artists": [
-        {
-          "name": "Swapnil Murlidhar Barphe",
-          "url": "https://open.spotify.com/artist/7zVx1jrHcIkKTpXMpKc4hl"
-        }
-      ],
-      "duration_ms": 238221,
-      "name": "Keejo Kesari Ke Lal",
-      "url": "https://open.spotify.com/track/5UeYbndHdM4zHI0pcW2IJm"
-    },
-    {
-      "added_at": "2024-01-27 14:52:36",
-      "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 181750,
-      "name": "Nothing Matters",
-      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
-    },
-    {
-      "added_at": "2024-01-27 14:52:36",
-      "album": {
-        "name": "Love 119",
-        "url": "https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 173489,
-      "name": "Love 119",
-      "url": "https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9"
-    },
-    {
-      "added_at": "2024-01-27 14:52:36",
-      "album": {
-        "name": "PRESENTE",
-        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "Regalo De Dios",
-      "url": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi"
-    },
-    {
-      "added_at": "2024-01-27 14:52:36",
-      "album": {
-        "name": "Wiseman",
-        "url": "https://open.spotify.com/album/2qGzyFzxN6U0gFn8AQTsYG"
-      },
-      "artists": [
-        {
-          "name": "Ocean Ocean",
-          "url": "https://open.spotify.com/artist/7eK4D5sZ3uPrwNpHy00pI3"
-        }
-      ],
-      "duration_ms": 210928,
-      "name": "Wiseman",
-      "url": "https://open.spotify.com/track/2TzQrHN0poLCQ1khXqtLqS"
-    },
-    {
-      "added_at": "2024-01-27 14:52:36",
-      "album": {
-        "name": "Montagem Mysterious Game",
-        "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
-      },
-      "artists": [
-        {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
-        }
-      ],
-      "duration_ms": 103495,
-      "name": "Montagem Mysterious Game",
-      "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
-    },
-    {
-      "added_at": "2024-01-27 14:52:36",
-      "album": {
-        "name": "Unwritten",
-        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Unwritten",
-      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
-    },
-    {
-      "added_at": "2024-01-27 14:52:36",
-      "album": {
-        "name": "Moment of Truth",
-        "url": "https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI"
-      },
-      "artists": [
-        {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
-        }
-      ],
-      "duration_ms": 232917,
-      "name": "Wondering Why",
-      "url": "https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0"
-    },
-    {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "Mean Girls (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
@@ -833,23 +721,135 @@
       "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
       "album": {
-        "name": "Panasea",
-        "url": "https://open.spotify.com/album/1MmaIdhgD77i8uT5NhpoEp"
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
       },
       "artists": [
         {
-          "name": "rumahsakit",
-          "url": "https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP"
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
         }
       ],
-      "duration_ms": 271267,
-      "name": "Panasea",
-      "url": "https://open.spotify.com/track/3EXh4IzbdHQtf3pL2DCOaS"
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
+      "album": {
+        "name": "Keejo Kesari Ke Lal",
+        "url": "https://open.spotify.com/album/2AKJdQlmnGC3dFRv0kSaVq"
+      },
+      "artists": [
+        {
+          "name": "Swapnil Murlidhar Barphe",
+          "url": "https://open.spotify.com/artist/7zVx1jrHcIkKTpXMpKc4hl"
+        }
+      ],
+      "duration_ms": 238221,
+      "name": "Keejo Kesari Ke Lal",
+      "url": "https://open.spotify.com/track/5UeYbndHdM4zHI0pcW2IJm"
+    },
+    {
+      "added_at": "2024-01-28 14:02:34",
+      "album": {
+        "name": "Montagem Mysterious Game",
+        "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        }
+      ],
+      "duration_ms": 103495,
+      "name": "Montagem Mysterious Game",
+      "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
+    },
+    {
+      "added_at": "2024-01-28 14:02:34",
+      "album": {
+        "name": "PRESENTE",
+        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "Regalo De Dios",
+      "url": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi"
+    },
+    {
+      "added_at": "2024-01-28 14:02:34",
+      "album": {
+        "name": "Love 119",
+        "url": "https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 173489,
+      "name": "Love 119",
+      "url": "https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9"
+    },
+    {
+      "added_at": "2024-01-28 14:02:34",
+      "album": {
+        "name": "Wiseman",
+        "url": "https://open.spotify.com/album/2qGzyFzxN6U0gFn8AQTsYG"
+      },
+      "artists": [
+        {
+          "name": "Ocean Ocean",
+          "url": "https://open.spotify.com/artist/7eK4D5sZ3uPrwNpHy00pI3"
+        }
+      ],
+      "duration_ms": 210928,
+      "name": "Wiseman",
+      "url": "https://open.spotify.com/track/2TzQrHN0poLCQ1khXqtLqS"
+    },
+    {
+      "added_at": "2024-01-28 14:02:34",
+      "album": {
+        "name": "Moment of Truth",
+        "url": "https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 232917,
+      "name": "Wondering Why",
+      "url": "https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0"
+    },
+    {
+      "added_at": "2024-01-28 14:02:34",
+      "album": {
+        "name": "Kar\u0131\u015f\u0131k Kaset",
+        "url": "https://open.spotify.com/album/5SHv3oXpZdmsqHt57lY0Yg"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        }
+      ],
+      "duration_ms": 260320,
+      "name": "Bat\u0131k Gemi",
+      "url": "https://open.spotify.com/track/3Gpffv3gaD1UxQPeElIjCp"
+    },
+    {
+      "added_at": "2024-01-28 14:02:34",
       "album": {
         "name": "HOLA PERDIDA",
         "url": "https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl"
@@ -869,20 +869,20 @@
       "url": "https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL"
     },
     {
-      "added_at": "2024-01-27 14:52:36",
+      "added_at": "2024-01-28 14:02:34",
       "album": {
-        "name": "Kar\u0131\u015f\u0131k Kaset",
-        "url": "https://open.spotify.com/album/5SHv3oXpZdmsqHt57lY0Yg"
+        "name": "Panasea",
+        "url": "https://open.spotify.com/album/1MmaIdhgD77i8uT5NhpoEp"
       },
       "artists": [
         {
-          "name": "Semicenk",
-          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+          "name": "rumahsakit",
+          "url": "https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP"
         }
       ],
-      "duration_ms": 260320,
-      "name": "Bat\u0131k Gemi",
-      "url": "https://open.spotify.com/track/3Gpffv3gaD1UxQPeElIjCp"
+      "duration_ms": 271267,
+      "name": "Panasea",
+      "url": "https://open.spotify.com/track/3EXh4IzbdHQtf3pL2DCOaS"
     }
   ],
   "unique_name": "Viral 50 - Global",

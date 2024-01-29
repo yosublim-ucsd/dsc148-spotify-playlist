@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 1453434,
+  "2024-01-29": 1453823,
   "date_first_scraped": "2021-12-21",
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
   "name": "Dance Classics",
@@ -471,7 +471,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 220320,
       "name": "Behind - Callea Radio Mix",
       "url": "https://open.spotify.com/track/2hS4wCi2VAV8CdsLPnWIoD"
@@ -3229,7 +3229,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 211853,
       "name": "Lady (Hear Me Tonight)",
       "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"

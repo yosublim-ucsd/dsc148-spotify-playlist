@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Pressa
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,128 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,154 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 11 | [360°](https://open.spotify.com/track/1VFTnRcVwKHOc32s0wOFaO) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [360°](https://open.spotify.com/album/4YptsPP3fx66GTCnuCtZAJ) | 2:50 |
 | 12 | [Fly god manners](https://open.spotify.com/track/0hLYU06I6ppGIhqiJ4uZom) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [LONERWRLD, vol 1](https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah) | 2:10 |
 | 13 | [Too Many Losses \(feat\. Dave East\)](https://open.spotify.com/track/1LC0PZAPRKAK43LqvP45hX) | [Riicch](https://open.spotify.com/artist/2CD6U9YiRscScZ5lT7vUFQ), [SHA\-G](https://open.spotify.com/artist/3p4OQzNJ8zLp0vBMS3WDfu), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Too Many Losses \(feat\. Dave East\)](https://open.spotify.com/album/3GK4KP2YMk25msLBUnPYAF) | 3:16 |
-| 14 | [CHINA TOWN \(with Lil B\)](https://open.spotify.com/track/5yPyWy03ZrK1drSNvBUuZ1) | [G Milla](https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [CHINA TOWN \(with Lil B\)](https://open.spotify.com/album/6PDoQVpwrYzA9wtlUOtxOm) | 3:04 |
+| 14 | [CHINA TOWN \(with Lil B\)](https://open.spotify.com/track/4vViYyuQsqeg7WVcv7DoU4) | [G Milla](https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [CHINA TOWN \(with Lil B\)](https://open.spotify.com/album/1ABTRC3AQ41huRWDpblWZl) | 3:04 |
 | 15 | [Good Kid](https://open.spotify.com/track/7CXtko4co5UNe51FVioLyX) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [Good Kid](https://open.spotify.com/album/5CJQwomPazcVb1yoPPw8Cg) | 3:03 |
 | 16 | [Strictly](https://open.spotify.com/track/5ynWLIQkVwBsoBJrvYLUYH) | [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [Strictly](https://open.spotify.com/album/0IQQFjjQ8dF8hEdOr3osJf) | 2:51 |
 | 17 | [On & On](https://open.spotify.com/track/1e7UBMdqcr3WqSBmDMk5YI) | [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H), [Lolly D](https://open.spotify.com/artist/5ktMdxOh53mFdQcTKGySsL) | [On & On](https://open.spotify.com/album/64ZYJwlXXQVNPlXEdteQdc) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Beams Don't Lose Balance](https://open.spotify.com/track/4v2tggb0uijJLiRqgSD0RU) | [Zeuce](https://open.spotify.com/artist/1QIW19JeWy2vtQDvH3JXkj) | [Beams Don't Lose Balance](https://open.spotify.com/album/5vK5KcBpEAh6FGX5ZfITbv) | 1:51 |
 | 100 | [Eyes On Me](https://open.spotify.com/track/4nNwfJM1DixAKRqnLFz0GS) | [Che](https://open.spotify.com/artist/3E5ZrCLCq0HP63QQHF6ttp) | [Eyes On Me](https://open.spotify.com/album/5eUasOW00sfNnxnOALm9Vo) | 2:58 |
 
-Snapshot ID: `MCw2OTJiY2Q1ZDM1NGMwMWExNzY5NGU0ZDViYzE2YTM4OGQwOTgyZTQ0`
+Snapshot ID: `MCw4MmQ5YTQyMGZkMTA4Njg3YWZmZGZkYjQxMzhmZjkxYzY1MTE0NzQ4`

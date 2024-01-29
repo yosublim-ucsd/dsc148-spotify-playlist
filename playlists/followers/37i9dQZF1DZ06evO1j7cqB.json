@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 8992,
+  "2024-01-29": 8999,
   "date_first_scraped": "2022-12-02",
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
   "name": "This Is Bear McCreary",
@@ -1153,7 +1153,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 429440,
       "name": "The Key to Lallybroch",
       "url": "https://open.spotify.com/track/1zWAmJcTnSmDFdGknjMiNl"
@@ -1475,7 +1475,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 166266,
       "name": "Willoughby",
       "url": "https://open.spotify.com/track/3KMjkO1uOIZBPG20qjW8ej"

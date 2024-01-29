@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 147105,
+  "2024-01-29": 147207,
   "date_first_scraped": "2021-12-21",
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:6CQGrt3AJ2gx5oMSR0mwbl\">1K Phew</a>",
   "name": "The Flow",
@@ -2408,6 +2408,24 @@
     },
     {
       "album": {
+        "name": "Bought By The Blood",
+        "url": "https://open.spotify.com/album/3wMWVjpGqDkz6BK3XDkXaz"
+      },
+      "artists": [
+        {
+          "name": "Quasarpro",
+          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143448,
+      "name": "Bought By The Blood",
+      "url": "https://open.spotify.com/track/3eLPuEgWkfFbtvNByNvCyY"
+    },
+    {
+      "album": {
         "name": "Bounce Back",
         "url": "https://open.spotify.com/album/0zsk6tXiEZW7xRVWPzeFy2"
       },
@@ -3144,6 +3162,24 @@
     },
     {
       "album": {
+        "name": "Check Me Out",
+        "url": "https://open.spotify.com/album/6Izr5b1DXvk9JDfQDjuAmQ"
+      },
+      "artists": [
+        {
+          "name": "Caleb McCoy",
+          "url": "https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167727,
+      "name": "Check Me Out",
+      "url": "https://open.spotify.com/track/5nZ5pAW5UI3SGGnYSjKZCt"
+    },
+    {
+      "album": {
         "name": "Tale of a Free Man",
         "url": "https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh"
       },
@@ -3599,7 +3635,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 115914,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/59GAoANcDQYqxvMCvdNrnt"
@@ -16809,7 +16845,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 140122,
       "name": "Tough Love",
       "url": "https://open.spotify.com/track/63N6oeVUu4RehqpPutwwcC"

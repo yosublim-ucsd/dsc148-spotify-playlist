@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=7rQMXJ0eSw2EU8Wr5nSsXw"> Nyashinski</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,618 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,626 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 37 | [Minimal Pressure](https://open.spotify.com/track/0CPf4M3kS1dVAGkLgtXPwR) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Minimal Pressure](https://open.spotify.com/album/2TfvT358xh2LsMPHZHbqeI) | 4:27 |
 | 38 | [PTSD](https://open.spotify.com/track/3KmUE0imli6gdoHQneEGDf) | [Sabi Wu](https://open.spotify.com/artist/0Lb6QZKrLMSzlcljXexbtB), [Jovie Jovv](https://open.spotify.com/artist/7tBvsYNwdwlbWIsF2VR5lR) | [FREEDOM II](https://open.spotify.com/album/3DKOQ3jh0VzNwUnz6kKBF9) | 3:30 |
 | 39 | [Woo](https://open.spotify.com/track/2X4y4atdcQXSaWn8aBSJZq) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Woo](https://open.spotify.com/album/6JKsNhNlPwfClt6j5ueIJM) | 2:00 |
-| 40 | [Mzigo](https://open.spotify.com/track/75QOnqQyG9HGeiH2HDV6ye) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Mzigo](https://open.spotify.com/album/6HsyXPe7DuDcKCQert6a3U) | 3:55 |
+| 40 | [Mzigo](https://open.spotify.com/track/0U0zmqjmcPg8s9RXZzakcz) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [EMOTIONAL GANGSTER](https://open.spotify.com/album/5bOgDyDjL2Iijyr36IRYMd) | 3:55 |
 | 41 | [Splurge](https://open.spotify.com/track/5UMOz9M4VwvgAb02K3leia) | [Xavier Xander](https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ), [Trvp Hvrd](https://open.spotify.com/artist/6jrhrfcjpF6XcaI7fmSPkd), [KANJII](https://open.spotify.com/artist/190UXOe4cz5zZaPlLuz9Iy) | [Splurge](https://open.spotify.com/album/1NUrQb9xy6Hn47782a6hVm) | 3:14 |
 | 42 | [No Hook](https://open.spotify.com/track/79yYxJd98IRA51BCP4mPBV) | [Splifff](https://open.spotify.com/artist/3FbXkQv5LMtFqNBbvImIde), [Dok](https://open.spotify.com/artist/6cXAmvwesliaTtwaGdv0qC), [Infamous Alvin](https://open.spotify.com/artist/1o5JBUR0mqOxLwNWa7siPZ) | [No Hook](https://open.spotify.com/album/48audShqxj5ypmHoLSuTmH) | 3:17 |
 | 43 | [YKTD](https://open.spotify.com/track/43nz8zSHKEY2fZrlrx9MFL) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z), [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv), [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [Terrianne Iraki](https://open.spotify.com/artist/2IQSH6zp92t5AaGMx2PltM) | [YKTD](https://open.spotify.com/album/2m9Kfunek8BbhHkTYbckpu) | 3:25 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 45 | [Shiiiine](https://open.spotify.com/track/1H2cgCa1EIklAP04oYm7qW) | [Jakk Quill](https://open.spotify.com/artist/6QqOXzlH2dcYNAHeGgZcLm) | [Shiiiine](https://open.spotify.com/album/6qphjqWOQwiWebyVJAe16j) | 3:15 |
 | 46 | [Swerved](https://open.spotify.com/track/0LrGxBqyXmN6PrvB0ZOm0W) | [Lewis KE](https://open.spotify.com/artist/5EWEp45uBW3TNr3v0F0bT3) | [Swerved](https://open.spotify.com/album/60rP86C9hDkhNyYh9aSjJk) | 2:43 |
 | 47 | [Hadharani](https://open.spotify.com/track/4itiO6J4bjyHFiQOzkYtSB) | [Thayu Mwas](https://open.spotify.com/artist/6Za9gHP7gAvWh4IJC9Osqc) | [Hadharani](https://open.spotify.com/album/2Q4r76WwMRUYIZ5JE3uZsR) | 2:41 |
-| 48 | [Chachisha](https://open.spotify.com/track/7qqhMOYy8FU1SnwLpGLMhv) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [Domani Mkadinali](https://open.spotify.com/artist/5JAiIzH0jXCzYZe0nRbol2) | [EMOTIONAL GANGSTER](https://open.spotify.com/album/19omrLfZdSm48xHpEgWG06) | 2:58 |
+| 48 | [Chachisha](https://open.spotify.com/track/3HSoCY72QqYJrbWqde9LJC) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [Domani Mkadinali](https://open.spotify.com/artist/5JAiIzH0jXCzYZe0nRbol2) | [EMOTIONAL GANGSTER](https://open.spotify.com/album/5bOgDyDjL2Iijyr36IRYMd) | 2:58 |
 | 49 | [Starshine](https://open.spotify.com/track/7JR3NMwh6rLIosFhFtatEF) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Starshine](https://open.spotify.com/album/3reSPpvFtvYOIzMN0S8GC3) | 3:06 |
 | 50 | [Caliweed](https://open.spotify.com/track/36xONjijeZ6ye4ARFwQADT) | [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Caliweed](https://open.spotify.com/album/5ZkTRYiGpsEuBCZQoIT1hO) | 2:00 |
 | 51 | [Sue me](https://open.spotify.com/track/3DgYLpiHk6MYE8PET6VlJB) | [Kahu$h](https://open.spotify.com/artist/5XRsIBzy6ampDaZvPzRxxr), [Korb$](https://open.spotify.com/artist/5cG5xPX9IGkJqah9F3IFC5) | [Uptown Chokoraa](https://open.spotify.com/album/6HA8OwSGgnbqhr0Hiy6zZm) | 2:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 59 | [TIME ITATELL](https://open.spotify.com/track/2mXWteorFyNu2D94ae38nL) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [TIME ITATELL](https://open.spotify.com/album/1MuTtWsvJBRpfZ92rpzwOr) | 2:48 |
 | 60 | [Made For This](https://open.spotify.com/track/5Gr47d1ThvLMeJR8ueVd2W) | [Jovie Jovv](https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ), [Timmy Blanco](https://open.spotify.com/artist/64r1hRUVXSdoMT30u3pUbS) | [Made For This](https://open.spotify.com/album/77xVkwwWp6O3xX0lpWprzH) | 1:10 |
 
-Snapshot ID: `MCxiOGZlN2MxMzU4MTE3MWFhYzA0ZWRjNjA1OGZlMmFhMzJlNDc2YzQ2`
+Snapshot ID: `MCwyNDNiNjg4OGM3ZWZlZTU0YjczY2ZlOTIyNTlhYmJiNjcyYjMzY2M5`

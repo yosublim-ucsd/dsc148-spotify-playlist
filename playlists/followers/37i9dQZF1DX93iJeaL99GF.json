@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 65637,
+  "2024-01-29": 65673,
   "date_first_scraped": "2023-05-19",
   "description": "Prominent Indian independent music creators. Cover - Lucky Ali",
   "name": "Legends of Indie India",
@@ -165,10 +165,28 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 317425,
       "name": "Bulla Ki Jaana Mein Kaun",
       "url": "https://open.spotify.com/track/2mDayytAT6lXBYVDWpjhpR"
+    },
+    {
+      "album": {
+        "name": "Rabbi",
+        "url": "https://open.spotify.com/album/0HUC7qxelpl3IJG5PmDKRb"
+      },
+      "artists": [
+        {
+          "name": "Rabbi Shergill",
+          "url": "https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317425,
+      "name": "Bulla Ki Jana",
+      "url": "https://open.spotify.com/track/71EsSmCOr91bFkCWQzyCmu"
     },
     {
       "album": {

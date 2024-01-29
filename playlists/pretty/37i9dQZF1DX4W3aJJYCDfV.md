@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Skepta, Justin Timberlake, Etta Marcus and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,069 likes - 131 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,017 likes - 131 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,13 +57,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 47 | [This My Life \(with Lil Tecca, The Kid LAROI & Lil Skies\)](https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 2:49 |
 | 48 | [Gleams](https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Gleams](https://open.spotify.com/album/4YrxxFmElZO6FgUjc8R3Lo) | 4:53 |
 | 49 | [Basically](https://open.spotify.com/track/11YH6pYrbxkGl8vjdKK2bK) | [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv) | [Basically](https://open.spotify.com/album/0MAgITcavTLRIy1qqi6Me5) | 2:26 |
-| 50 | [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/4o6BNrTOcajYSCAFkqL71c) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Yussef Dayes Experience \- Live From Malibu](https://open.spotify.com/album/5gohS1223mJrzBVQzakpjm) | 4:08 |
+| 50 | [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/65lKgD4JnUU5EYaqMly9T6) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Yussef Dayes Experience \(Live From Malibu\)](https://open.spotify.com/album/3PGNm2ibnsl8rldfXjQ1wB) | 4:08 |
 | 51 | [eat me alive](https://open.spotify.com/track/6AYNmsHwCWmfYrniipNAWe) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [eat me alive](https://open.spotify.com/album/5hbB0FUNpayoGS3vRaMdnF) | 2:39 |
 | 52 | [Read The Room](https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 5:14 |
 | 53 | [LEANIN](https://open.spotify.com/track/7rhkyaxaAheX4usxCAECcw) | [A2 Anti](https://open.spotify.com/artist/3TTq94wgOIj0skk2wT8bnb) | [LEANIN](https://open.spotify.com/album/6aTQ0cxnn2r1OucuHHLbtB) | 2:34 |
 | 54 | [Hide Your Kids](https://open.spotify.com/track/7nRuVjmhfYCraHEhfgNv1j) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Hide Your Kids](https://open.spotify.com/album/7cM1dj0HtCAGN85Fr7a7yc) | 2:15 |
 | 55 | [Prove It To You](https://open.spotify.com/track/4Z7kVvEhQ3jqhskvmcrgfW) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Prove It To You](https://open.spotify.com/album/4Xz22ylDIPE8D3KGjptD4J) | 3:20 |
-| 56 | [Undress You \(feat\. Sarkodie\)](https://open.spotify.com/track/6LVuaveD4hazORqbg67C03) | [K.J Spio](https://open.spotify.com/artist/2FupL1k7vpEQwj6Rtp3bbJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Undress You \(feat\. Sarkodie\)](https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO) | 3:33 |
+| 56 | [Undress You \(feat\. Sarkodie\)](https://open.spotify.com/track/6LVuaveD4hazORqbg67C03) | [KJ Spio](https://open.spotify.com/artist/72Rav2u2DeRPJuA44Ng0n0), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Undress You \(feat\. Sarkodie\)](https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO) | 3:33 |
 | 57 | [Delete Our Love](https://open.spotify.com/track/2TiEo6WY5sIh2pEgUzgLsG) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Brodie](https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t) | [Delete Our Love](https://open.spotify.com/album/7g5GmifykucoqzWJMOeOlO) | 2:51 |
 | 58 | [Happy Birthday](https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Happy Birthday](https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg) | 3:04 |
 | 59 | [I Don't Say It, But I Feel It](https://open.spotify.com/track/1PXJSowN1ky2pmQRRP1zJC) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [I Don't Say It, But I Feel It](https://open.spotify.com/album/0Sdx5RbKaDeGHG1WHJIY4d) | 4:08 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 130 | [Holy](https://open.spotify.com/track/0YroIWkKvnQaSGF4PMAR8s) | [Òlah Bliss](https://open.spotify.com/artist/5R3XnMDrp1cUAjbRtc8aOs) | [Holy](https://open.spotify.com/album/0xepR0VYF6d6feDAKKSMJg) | 2:32 |
 | 131 | [Mollyraw](https://open.spotify.com/track/358dNeuLELfexwK2WAzDjp) | [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [Mollyraw](https://open.spotify.com/album/5o4SyYUwVLTkIHFv9hxyu6) | 4:00 |
 
-Snapshot ID: `MCwwMTI3ZDEwMmZkOTZlN2QzODE0YTNhYmE0MmYwNzI3NWU3MjYzOWY1`
+Snapshot ID: `MCwwMTRmODljMDJmMjQwOWI2MzEwMjNmYjE5MjY4NTEzMmJjODkzZTlh`

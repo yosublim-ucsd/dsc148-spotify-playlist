@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Nubya Garcia
 
-1,207 songs - 4 day 1 hr 33 min
+1,208 songs - 4 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,7 +498,8 @@
 | [Ishmael](https://open.spotify.com/track/0PpwwmmLTEi0cCsh0YMn0c) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleave Guyton Jr.](https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC) | [3](https://open.spotify.com/album/7zQJ12lE2XhxLyoTqSYS6v) | 1:42 | 2024-01-26 |  |
 | [Isn't It Strange \(feat\. Thundercat & JD Beck\)](https://open.spotify.com/track/0KWT5yvZ4iphotBfmPeAuY) | [Pedro Martins](https://open.spotify.com/artist/7fgw6kQggc48KiNoTGWNU5), [JD Beck](https://open.spotify.com/artist/2eoP74ao4wWLXJUNyFtuBg), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Isn't It Strange \(feat\. Thundercat & JD Beck\)](https://open.spotify.com/album/3WwPC6pxPHPGJo7K6fZDPi) | 3:23 | 2023-06-02 |  |
 | [Isn't This My Sound Around Me? \(feat\. Reuben Rogers, Walter Smith III\)](https://open.spotify.com/track/08wE4pl2bY1qaM5mqqCiG6) | [Kendrick Scott](https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux), [Reuben Rogers](https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL), [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Corridors](https://open.spotify.com/album/378aEOqUQ1caegAwHxlyuv) | 5:08 | 2023-03-03 | 2023-06-10 |
-| [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/4o6BNrTOcajYSCAFkqL71c) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Yussef Dayes Experience \- Live From Malibu](https://open.spotify.com/album/5gohS1223mJrzBVQzakpjm) | 4:08 | 2024-01-26 |  |
+| [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/4o6BNrTOcajYSCAFkqL71c) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Yussef Dayes Experience \- Live From Malibu](https://open.spotify.com/album/5gohS1223mJrzBVQzakpjm) | 4:08 | 2024-01-26 | 2024-01-29 |
+| [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/65lKgD4JnUU5EYaqMly9T6) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Yussef Dayes Experience \(Live From Malibu\)](https://open.spotify.com/album/3PGNm2ibnsl8rldfXjQ1wB) | 4:08 | 2024-01-26 |  |
 | [It](https://open.spotify.com/track/7ErUIjiBrzkeoUXE4YG5O4) | [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [It](https://open.spotify.com/album/0iugyVpDcuoRnRajOrXcj8) | 5:13 | 2022-09-30 | 2022-10-29 |
 | [It Might as Well Be Spring](https://open.spotify.com/track/0mmhNRfvI599pLb0bNV13N) | [Ari Hoenig](https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz), [Yoav Eshed](https://open.spotify.com/artist/0xgMRXvX4wS1we58R46Xh5), [Gadi Lehavi](https://open.spotify.com/artist/01FRXq3Es0z4crmTkjkR7o), [Ben Tiberio](https://open.spotify.com/artist/4HF9chz1OmDunHzUD3ZIos) | [Golden Treasures](https://open.spotify.com/album/6HVVdncUSlgCkRh5qQaTV4) | 6:14 | 2022-06-03 | 2022-09-17 |
 | [It Might as Well Be Spring](https://open.spotify.com/track/2G1V7x6BZ5Pym68sgSpY66) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [It Might as Well Be Spring](https://open.spotify.com/album/21FWhg9f01fN9WtJ9sICxc) | 6:59 | 2023-01-06 | 2023-01-28 |

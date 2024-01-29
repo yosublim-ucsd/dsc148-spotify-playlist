@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Paloma Mami
 
-927 songs - 2 day 1 hr 37 min
+928 songs - 2 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [EL TONTO](https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:07 | 2023-04-14 | 2023-05-27 |
 | [EL VALS](https://open.spotify.com/track/7aZspSnjNoHdthMrl8cILH) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7) | [EL VALS](https://open.spotify.com/album/7fNOjCNStUOYlNGPqZFB1M) | 3:00 | 2024-01-12 |  |
 | [Ella Hace Vino](https://open.spotify.com/track/6ANymFCKuM24XvNxaHksH9) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Ella Hace Vino](https://open.spotify.com/album/2TKEmeQD9nxDVxkiKQ8OFt) | 2:38 | 2023-08-25 | 2023-10-14 |
-| [Ella Mata](https://open.spotify.com/track/7JqgPZVfpwFVPDhb4mSjOJ) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5) | [OTRA VIDA](https://open.spotify.com/album/3Ux5e7wmBayckov4KDDHoo) | 2:07 | 2023-11-24 |  |
+| [Ella Mata](https://open.spotify.com/track/7JqgPZVfpwFVPDhb4mSjOJ) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5) | [OTRA VIDA](https://open.spotify.com/album/3Ux5e7wmBayckov4KDDHoo) | 2:07 | 2023-11-24 | 2024-01-29 |
 | [Ella Perrea](https://open.spotify.com/track/6BGjArXcJnxm5Uyp0O7050) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [ALTER EGO](https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm) | 2:48 | 2023-09-22 | 2024-01-06 |
 | [En Bajita](https://open.spotify.com/track/5K9VzfSr7L34rMMJxe8ndg) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [En Bajita](https://open.spotify.com/album/77hesD3v2jWR2dnhElz9Yp) | 3:29 | 2023-03-17 | 2023-09-09 |
 | [En La De Ella](https://open.spotify.com/track/5NxhMcHSVY3Z7ykWxZf3aj) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [En La De Ella](https://open.spotify.com/album/2h9T2SLXRUPyBkzj9qtnVH) | 3:50 | 2022-10-28 | 2023-02-11 |
@@ -282,6 +282,7 @@
 | [En La Intimidad \| CROSSOVER \#1](https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [En La Intimidad \| CROSSOVER \#1](https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82) | 2:45 | 2023-03-10 | 2023-05-13 |
 | [EN LA LENTA](https://open.spotify.com/track/02mYqoWYX6wRrfqKWr4Bj8) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [Hit$ Mu$ic \(VOL\. 1\)](https://open.spotify.com/album/5jPDhWUbfyTeUTPSdHdrff) | 3:09 | 2022-10-07 | 2022-12-17 |
 | [EN LA MIA](https://open.spotify.com/track/1TfqRVmFP6vAWKrnsXvoiV) | [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz) | [EN LA MIA](https://open.spotify.com/album/2HpneKcoRlNwTe5UFlQOqJ) | 3:44 | 2023-08-04 | 2023-11-11 |
+| [En la Playa](https://open.spotify.com/track/3Zzd6XNyMb0pS7oc1RnKCA) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [En la Playa](https://open.spotify.com/album/2xsPHBNlul25V9EI7ZuGUu) | 2:51 | 2024-01-26 |  |
 | [En Mis Sueños](https://open.spotify.com/track/0CyBQFxnc2OQIZ2AVxDxLy) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Códigos](https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd) | 3:36 | 2023-03-03 | 2023-05-20 |
 | [Encerra' en Casa](https://open.spotify.com/track/5L0VzdSpg5XMy3Kwiucloe) | [ELYSANIJ](https://open.spotify.com/artist/6xLvSuN3p2uD8IorXxYmHg) | [Encerra' en Casa](https://open.spotify.com/album/303Ck6MDpcTYGHFqMCENo5) | 2:44 | 2023-05-19 | 2023-06-03 |
 | [Enigma \- Remix](https://open.spotify.com/track/59MDxtaOcMfx1kGbkw4BIQ) | [Deimi](https://open.spotify.com/artist/0NrygGrqdoAjfoUieqPFmD), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Enigma \(Remix\)](https://open.spotify.com/album/5HwvdJEkRPiVg5BNbpzXuk) | 3:14 | 2023-07-11 | 2023-09-16 |

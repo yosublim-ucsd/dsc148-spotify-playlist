@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Ruhaan79, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,264 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,279 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Kho Na Jau](https://open.spotify.com/track/0ZOkSHrdY7KQl9gzAp1gul) | [Shubham Sarita](https://open.spotify.com/artist/2M2UjSgx193L2gOGZ8lEkw) | [Kho Na Jau](https://open.spotify.com/album/5RcROEiAF3IFVKf90WDc1M) | 2:13 |
 | 100 | [Kahin Door \(Raw\)](https://open.spotify.com/track/48Ffp7BhtGsmxsz1b8YDlw) | [Sajid Rizvi](https://open.spotify.com/artist/4GQ5xNBHVVO8UkUZ7IufKo) | [Kahin Door \(Raw\)](https://open.spotify.com/album/0lSZjrFUdgpM6RZCppSYDO) | 2:48 |
 
-Snapshot ID: `MCwyNGFhYWI3OTA0NTI1MDI0YzA0NWM1ZDNhOWQwMDIzODRhYTM5YzJm`
+Snapshot ID: `MCw2NGM1MDAwNjA4NTQ1YzMyZjZjMDlhYjE5NzYwZmEzYWZmZjEzNGE2`

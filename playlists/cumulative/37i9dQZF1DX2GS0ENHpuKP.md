@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-74 songs - 6 hr 13 min
+75 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Yes I Know My Way \- 2021 Remaster](https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Vai mo' \(2021 Remaster\)](https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX) | 3:36 | 2022-07-19 |  |
 | [You Can't Change A Man](https://open.spotify.com/track/1dR7rHSrmfcnih3Bi9yorZ) | [Christy Essien](https://open.spotify.com/artist/23zDrpDFGx3aBQPhd0R9cA) | [One Understanding](https://open.spotify.com/album/7res8aOcsEM7TRkFMOPaW6) | 4:01 | 2022-07-19 | 2024-01-13 |
 | [You Can't Change a Man](https://open.spotify.com/track/0swVeq1CQJZjKfNen02SeR) | [Christy Essien Igbokwe](https://open.spotify.com/artist/1HefyGXvLQBSDcnWDXuuFm) | [You Can't Change a Man](https://open.spotify.com/album/7KPrWMK1Fu40vyAbasI2h2) | 4:01 | 2023-05-24 | 2024-01-22 |
-| [You Can't Change a Man](https://open.spotify.com/track/2heUj8FdH5QrqUhBG5G1hM) | [Christy Essien Igbokwe](https://open.spotify.com/artist/1HefyGXvLQBSDcnWDXuuFm) | [You Can't Change a Man](https://open.spotify.com/album/77DsUverMpDFGfuT8Esc6M) | 4:01 | 2023-05-24 |  |
+| [You Can't Change a Man](https://open.spotify.com/track/2heUj8FdH5QrqUhBG5G1hM) | [Christy Essien Igbokwe](https://open.spotify.com/artist/1HefyGXvLQBSDcnWDXuuFm) | [You Can't Change a Man](https://open.spotify.com/album/77DsUverMpDFGfuT8Esc6M) | 4:01 | 2023-05-24 | 2024-01-29 |
+| [You Can't Change a Man](https://open.spotify.com/track/5jO6agviIZnOFaaDoJnfkR) | [Christy Essien Igbokwe](https://open.spotify.com/artist/1HefyGXvLQBSDcnWDXuuFm) | [One Understanding](https://open.spotify.com/album/6yHYWMDX8i3WQ396kAfgyU) | 4:01 | 2023-05-24 |  |
 | [You're so Good to Me](https://open.spotify.com/track/55NHIURZ08Uv9FwfmWMmmZ) | [Mac & Monica](https://open.spotify.com/artist/60eHzQDI4SaxAnPLHcwhfD) | [Night City Life \(Compiled by Ilan Pdahtzur\)](https://open.spotify.com/album/6F7W25aizjn2FDKgfmQygE) | 6:29 | 2023-05-24 |  |
 | [ZANZIBAR NIGHT](https://open.spotify.com/track/6mvutDXNQ2CLYJGfszY7pt) | [Marlene](https://open.spotify.com/artist/22QUQlQHmAx7jO0wGwhTt4) | [デジャ・ブー](https://open.spotify.com/album/1OPlXySIVSeJNczpyNYxAH) | 3:40 | 2022-07-19 |  |
 

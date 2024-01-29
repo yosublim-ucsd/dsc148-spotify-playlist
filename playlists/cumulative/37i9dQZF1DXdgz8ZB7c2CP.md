@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Elohim
 
-635 songs - 1 day 11 hr 2 min
+636 songs - 1 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [DREAMER](https://open.spotify.com/track/44V3prBS5nmjRlQN0lcbeK) | [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [TALK2MUCH](https://open.spotify.com/album/5iWyIv8QHoD5P2vIUOf1j3) | 2:13 | 2023-05-26 | 2023-12-14 |
 | [Drink Blood \- caro<3 Remix](https://open.spotify.com/track/62kimSCo9HnX3S5X7RFg13) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [caro♡](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8) | [Apple vs\. 7G](https://open.spotify.com/album/5c2YRZ7kAry8fQuoS5LVjW) | 3:20 | 2021-08-06 | 2022-04-21 |
 | [Drugs](https://open.spotify.com/track/1OisORzsNmtki9guAiG4mU) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Drugs](https://open.spotify.com/album/01ycBgYCovBlkq6S6VRsdg) | 3:30 | 2021-08-06 | 2023-02-19 |
-| [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 | 2023-06-02 |  |
+| [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 | 2023-06-02 | 2024-01-29 |
 | [Duality](https://open.spotify.com/track/1MDFcgb008rczRBg2lmtGG) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [bloody white](https://open.spotify.com/artist/5wZF02QJCBqUNCgl1pxrFQ) | [Duality](https://open.spotify.com/album/4s2EjL4SlGCNokGwui7Iwp) | 2:49 | 2023-08-04 | 2023-08-25 |
 | [Dummo Loop](https://open.spotify.com/track/6xpemzIGan5uOg7KGR0wfp) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE) | [Dummo Loop](https://open.spotify.com/album/0CcTKrd2fCVSME9xhDqm2w) | 3:37 | 2021-08-06 | 2022-07-29 |
 | [Dummy – Chrome Sparks Remix](https://open.spotify.com/track/3VsuqAQ7XXKsygtCGyPzO1) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Dummy – Chrome Sparks Remix](https://open.spotify.com/album/1evFsTho9g2jaaIBwX5i5L) | 3:46 | 2023-04-28 | 2023-09-02 |
@@ -464,6 +464,7 @@
 | [Rush](https://open.spotify.com/track/0sWniVm3HUdyxClGcyJEUM) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Rush](https://open.spotify.com/album/4ppeM7jmOH2YmkshVfPxhn) | 3:22 | 2023-11-09 |  |
 | [Rushing Back](https://open.spotify.com/track/2yXNGOlMz8ejsBjEnnPTir) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Rushing Back](https://open.spotify.com/album/5t11EjKtQLt7Eqnxab8pVI) | 3:51 | 2023-12-22 | 2024-01-28 |
 | [Rushing Back](https://open.spotify.com/track/2zoNNEAyPK2OGDfajardlY) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Rushing Back](https://open.spotify.com/album/4d2YOjyPDopVhOkksaALJj) | 3:51 | 2021-08-06 | 2023-12-14 |
+| [Rushing Back \(feat\. Vera Blue\)](https://open.spotify.com/track/4uyYsLMnxzzIB6LE81g4OF) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Rushing Back \(feat\. Vera Blue\)](https://open.spotify.com/album/29OgoLRPAWEYSWgwkemiHT) | 3:51 | 2024-01-26 |  |
 | [S.O.S](https://open.spotify.com/track/46ZbeFHcvPbZT3z19WIKHZ) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [S.O.S](https://open.spotify.com/album/5sudLLMrf4J9ymgG8f07Ba) | 2:54 | 2023-02-10 |  |
 | [Safe](https://open.spotify.com/track/26WKIQfoKE1FryKWAWm7MY) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Safe](https://open.spotify.com/album/6At9zWklU7p32WDdskTrrV) | 2:43 | 2021-08-06 | 2023-02-05 |
 | [Safe](https://open.spotify.com/track/2ictSZJ9sGFOpdMlCBYGH9) | [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [Benni Ola](https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg) | [Safe](https://open.spotify.com/album/16fuAXQUtixLaJaV9aZiGo) | 3:24 | 2023-08-04 | 2023-08-12 |

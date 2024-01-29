@@ -1,12 +1,12 @@
 {
   "description": "Revisit memories and make new ones with the best Kwaito songs ever released. Cover: Spikiri",
-  "num_followers": 41460,
+  "num_followers": 41556,
   "original_name": "Kwaito Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDYxZGVlZjVkNGQzYWExYjVkNjBiY2QzYzA0ZDExZTgwOTMwZGNl",
+  "snapshot_id": "MCxlODQ4MjlhODRiYmQyODM5ZGJjYTliZDc3ZGU4NDI0ZDE1NzJiYTlh",
   "tracks": [
     {
       "added_at": "2022-04-25 18:44:17",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "Mandoza",
-        "url": "https://open.spotify.com/album/5mt82F2mozkrikmeYeFU80"
-      },
-      "artists": [
-        {
-          "name": "Mandoza",
-          "url": "https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH"
-        }
-      ],
-      "duration_ms": 261933,
-      "name": "Sgelekeqe - Mindlo Mix",
-      "url": "https://open.spotify.com/track/4Xqec5nATHVa8bsHngCMKE"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
         "name": "Intwenjani",
         "url": "https://open.spotify.com/album/4VJK1hwYju24DtMhDAwDli"
       },
@@ -535,8 +519,24 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "Always Da Case",
-        "url": "https://open.spotify.com/album/5ZL4Mf3do60ZcBtyzlVonT"
+        "name": "Mandoza",
+        "url": "https://open.spotify.com/album/5mt82F2mozkrikmeYeFU80"
+      },
+      "artists": [
+        {
+          "name": "Mandoza",
+          "url": "https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH"
+        }
+      ],
+      "duration_ms": 261933,
+      "name": "Sgelekeqe - Mindlo Mix",
+      "url": "https://open.spotify.com/track/4Xqec5nATHVa8bsHngCMKE"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
+        "name": "Y U 4 Me",
+        "url": "https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
         }
       ],
-      "duration_ms": 424653,
-      "name": "Ma Bankbook",
-      "url": "https://open.spotify.com/track/4ru4VcAOmoA8aYdEKVIa73"
+      "duration_ms": 451466,
+      "name": "Y U 4 Me",
+      "url": "https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu"
     },
     {
       "added_at": "2022-05-08 18:08:38",
@@ -631,8 +631,8 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "Y U 4 Me",
-        "url": "https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7"
+        "name": "Always Da Case",
+        "url": "https://open.spotify.com/album/5ZL4Mf3do60ZcBtyzlVonT"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
         }
       ],
-      "duration_ms": 451466,
-      "name": "Y U 4 Me",
-      "url": "https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu"
+      "duration_ms": 424653,
+      "name": "Ma Bankbook",
+      "url": "https://open.spotify.com/track/4ru4VcAOmoA8aYdEKVIa73"
     },
     {
       "added_at": "2022-09-22 21:59:00",

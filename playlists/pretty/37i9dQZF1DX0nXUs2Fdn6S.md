@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,452 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,455 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 | 42 | [Somedays I Know](https://open.spotify.com/track/5KyMwqeqAVcsGQPICW3LkX) | [Whoshafee](https://open.spotify.com/artist/6PMkmGQLEWSCCml7Z0KKkx) | [Somedays I Know](https://open.spotify.com/album/2OwqlF3OJ0NQWynICBthiO) | 3:49 |
 | 43 | [Bangalore](https://open.spotify.com/track/5bP5wIJaIMzxBCU2oLnmkU) | [Kamil Ghaouti](https://open.spotify.com/artist/59D1PT94ywzBggaLufM7ki), [SAGA](https://open.spotify.com/artist/7j2DecJrsHe2QRQQSpqx70), [Natalie Major](https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ) | [Bangalore](https://open.spotify.com/album/3LJUSBlkxUpUEgSAIvF5yz) | 3:26 |
 | 44 | [A Dream](https://open.spotify.com/track/52E7qutei1inKrIAcBYp89) | [Enine](https://open.spotify.com/artist/6BsL2HkIj6DBL1tYuswybL) | [A Dream](https://open.spotify.com/album/7mqGNYCngh5JwyjySJLHTL) | 2:49 |
-| 45 | [Easy To Say](https://open.spotify.com/track/3j9VzQkNGlZsr5582nKC1A) | [\#BBC](https://open.spotify.com/artist/0Q6aidKFOfCW2H1OW0ExOV) | [Easy To Say](https://open.spotify.com/album/6XSZrddGLhqcfSTcRZ3Rdp) | 2:55 |
+| 45 | [Easy to Say](https://open.spotify.com/track/34vphJNw9MpZqkNhOXEXkp) | [\#BBC](https://open.spotify.com/artist/0Q6aidKFOfCW2H1OW0ExOV) | [Easy to Say](https://open.spotify.com/album/7upEImDiNfOU0XNPjGQbWL) | 2:55 |
 | 46 | [KMTN](https://open.spotify.com/track/0PGFtUkvDdvQx5CmqezI8t) | [babyface](https://open.spotify.com/artist/5MTT0dvjp1BmpEwF1xEZZi) | [KMTN](https://open.spotify.com/album/2lWLqWYZZBs4vr2ASJpdtc) | 2:42 |
 | 47 | [Ready](https://open.spotify.com/track/0wlaeFaSX0L6yrn5DXrLO9) | [Project 91](https://open.spotify.com/artist/6HbsMua3wRqwv8WQRpbpYp), [OnePlusOne](https://open.spotify.com/artist/1AhgqeZLaibBRg9tpEffcH) | [Ready](https://open.spotify.com/album/168ihFGkCQF4WxQeoZhBtf) | 3:35 |
 | 48 | [The Excellent Loser](https://open.spotify.com/track/1XbP0nCs7t90yljbC2PPsS) | [Enej Johhem](https://open.spotify.com/artist/3f69RB0W7TVpNs20ul7Fhy) | [The Excellent Loser](https://open.spotify.com/album/3fUi0ZwfrNTM2bb9ppPVQL) | 4:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 | 59 | [Uncomplicated](https://open.spotify.com/track/1xn3ESNRR5wbpZwEU3xlBv) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Matthew Steeper](https://open.spotify.com/artist/5BCqO5LyLTOvo7etwfgQ7b) | [Uncomplicated](https://open.spotify.com/album/0vZhZVruxqC8HEGc1Wdwtr) | 3:25 |
 | 60 | [Roshni](https://open.spotify.com/track/0MZ6NFEV7oQSDMzuXBVS5E) | [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ), [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Roshni](https://open.spotify.com/album/27KyEgaluOMGNdtKud8Axt) | 2:54 |
 
-Snapshot ID: `MCw0ZTE5NGExNGJjNDQ2MjIyZWY4NDJjZmQ4MTEzMTNhOWNmZDNkMTg5`
+Snapshot ID: `MCwyNzM0YzNkNDY1YWZmM2IxYzAwNmI0OWNhNjZlYzMyNTc2MDlhNDhl`

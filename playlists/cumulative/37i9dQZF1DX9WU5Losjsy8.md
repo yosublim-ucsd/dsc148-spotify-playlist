@@ -4,7 +4,7 @@
 
 > Skifoan und Hüttenabriss.
 
-111 songs - 5 hr 37 min
+112 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Abfahrt](https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Dorfdisko](https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL) | 3:26 | 2023-07-14 |  |
 | [Anna\-Lena](https://open.spotify.com/track/5NTiHVwhx2FpUsuSbgkDGE) | [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Deejay Matze](https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4) | [Anna\-Lena](https://open.spotify.com/album/2NQEW9DajvxCNWSyj0eS5d) | 3:00 | 2023-07-14 | 2024-01-18 |
 | [Anton aus Tirol](https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj) | [Anton](https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw), [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Das Album](https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1) | 3:49 | 2023-11-14 |  |
-| [Arielle](https://open.spotify.com/track/0fy3cqUm8msuhJg7k43yh2) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ), [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai) | [Arielle](https://open.spotify.com/album/4EXFZVB4injyDGnD86Z77z) | 3:25 | 2023-07-14 |  |
+| [Arielle](https://open.spotify.com/track/0fy3cqUm8msuhJg7k43yh2) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ), [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai) | [Arielle](https://open.spotify.com/album/4EXFZVB4injyDGnD86Z77z) | 3:25 | 2023-07-14 | 2024-01-29 |
 | [Atemlos durch die Nacht](https://open.spotify.com/track/1cSXzDZt8vzuUp2XREQEJN) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Farbenspiel](https://open.spotify.com/album/7MTjxNeS3N8XNuUm4BxjSx) | 3:39 | 2023-07-14 |  |
 | [Auf dem Besen an den Tresen](https://open.spotify.com/track/4z57csWGtiNCLzxBMsnIDU) | [Milla Pink](https://open.spotify.com/artist/3SPz8uSbGWbwUF6zWGUpJ5) | [Auf dem Besen an den Tresen](https://open.spotify.com/album/47ih6wlWo3moVGDo6EiwuH) | 3:02 | 2023-08-28 |  |
 | [Auf geht’s nach Malle \(Sarà perché ti amo\)](https://open.spotify.com/track/2T8t116RDkrvAA6WwzdMJm) | [Frenzy](https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd), [Banjee](https://open.spotify.com/artist/09Cd4t2LRKHr2sPbAXw4rm) | [Auf geht’s nach Malle \(Sarà perché ti amo\)](https://open.spotify.com/album/5HQxiHwV6aa81zg3zJg1Nc) | 2:31 | 2023-07-14 | 2023-11-16 |
@@ -77,6 +77,7 @@
 | [Kleine Fee](https://open.spotify.com/track/6Hh3PWarkgiMwUP2klVS8h) | [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Kleine Fee](https://open.spotify.com/album/6mR5HHT7NuAD3ZA82tusHM) | 2:18 | 2023-10-20 | 2023-12-13 |
 | [Klempner Klaus](https://open.spotify.com/track/0LStK5S9hM7tmi8X7TItkY) | [GABBY](https://open.spotify.com/artist/7gM9yfQR9QrXqnHmeIkhbI), [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO) | [Klempner Klaus](https://open.spotify.com/album/4ZUCnOcTeLaz8XAKhl1zTL) | 2:35 | 2023-08-28 |  |
 | [Knicklicht](https://open.spotify.com/track/4tPfm4RkiCw8XppXUnFe7c) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Knicklicht](https://open.spotify.com/album/1TqfTWxuO8ciwXwoUB5GgE) | 2:18 | 2023-07-14 | 2024-01-19 |
+| [Lass uns nicht geh'n \- Stereoact Remix](https://open.spotify.com/track/72FeMSpQJwXnhPT2sPjdqA) | [Cat Ballou](https://open.spotify.com/artist/6d5CGj93XLaqmyt10XgL8O), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Lass uns nicht geh'n \(Stereoact Remix\)](https://open.spotify.com/album/5LwpB5j8Z7iIm3zosk0SKf) | 2:44 | 2024-01-26 |  |
 | [Layla](https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Layla](https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4) | 3:05 | 2023-07-14 |  |
 | [Lea](https://open.spotify.com/track/02AnxXaXzxredcMjjb26U0) | [Bierkapitän](https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD), [Andy Luxx](https://open.spotify.com/artist/09Mknlo1aOXbEtxUD41wH2), [Dj Aaron](https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ) | [Lea](https://open.spotify.com/album/7DpARaNJn5iLOKGVANTSsq) | 2:39 | 2023-07-14 |  |
 | [Mallelelele](https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT) | [Rumbombe](https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Mallelelele](https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb) | 2:13 | 2023-07-28 |  |

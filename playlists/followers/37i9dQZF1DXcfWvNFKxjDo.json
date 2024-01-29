@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 296834,
+  "2024-01-29": 296927,
   "date_first_scraped": "2023-09-07",
   "description": "Die hei\u00dfesten neuen Dance Tracks in einer Playlist. Cover: BENNETT, Indila",
   "name": "Dance Brandneu",
@@ -1697,10 +1697,32 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 116878,
       "name": "Boots R Made 4 This!",
       "url": "https://open.spotify.com/track/2q5e4O4PI42nfgvoKe93D9"
+    },
+    {
+      "album": {
+        "name": "Boots R Made 4 This!",
+        "url": "https://open.spotify.com/album/2rSCFGb4cjsGGmpjNNCQ2A"
+      },
+      "artists": [
+        {
+          "name": "89ers",
+          "url": "https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs"
+        },
+        {
+          "name": "Quick-Jaxx",
+          "url": "https://open.spotify.com/artist/7xYI1rCtFzVzKMXseFy92i"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116878,
+      "name": "Boots R Made 4 This!",
+      "url": "https://open.spotify.com/track/3SdOsMX61EUU3nP6Nku3nu"
     },
     {
       "album": {
@@ -12827,7 +12849,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 222070,
-      "name": "Silcence",
+      "name": "Silence",
       "url": "https://open.spotify.com/track/3JvijFDDd3fUj4DZxcGw0l"
     },
     {

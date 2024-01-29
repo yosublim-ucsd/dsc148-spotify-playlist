@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Tizzo, Shreez, Le Ice, Salgrimo, Peeda
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,752 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,751 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Tout est bon](https://open.spotify.com/track/3ewz0r9BwB0cbZ4Clleho6) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Tout est bon](https://open.spotify.com/album/2s0srAo1r2xhPVtxbsarKA) | 3:16 |
 | 75 | [Mission Nocturne](https://open.spotify.com/track/7g1sKd5TXXMMVTaBlssG2U) | [Dextee](https://open.spotify.com/artist/2T0593JGcrLxhxTwHXaWiE) | [Mission Nocturne](https://open.spotify.com/album/3tKvDoCb5VgKj7lQZO50Bc) | 2:40 |
 
-Snapshot ID: `MCwzMmZkMzVjY2NhYjk1YjI5Y2JjNWIxOThmODUwMzQ1NzNiNjU0YTM1`
+Snapshot ID: `MCxkOGNlZGNkMWZmZjYwYmEwMDJhZmMxMDk3YTg1OWM3MDYyZDQzOWRl`

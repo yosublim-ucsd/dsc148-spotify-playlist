@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Paris Paloma
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,271,770 likes - 175 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,271,562 likes - 175 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [Sweet N Low](https://open.spotify.com/track/0f4motUd4Dn7UXr6I7GUsG) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Sweet N Low](https://open.spotify.com/album/7e0ZCDgmeakv4Fqz1tIq1G) | 2:59 |
 | 175 | [rot in love](https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [why aren't you laughing?](https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh) | 4:13 |
 
-Snapshot ID: `MCw4NmE4OGFhOTE2M2ZjODU3ODlhNmE0ZWFmNmM4NjY3ZTdkNDE2Y2Vm`
+Snapshot ID: `MCwwYWE2MTg3NjY3Y2QyYmQ4M2I2Yjg3YjVjNzM4ZWZkOWQ2OGY4MWE1`

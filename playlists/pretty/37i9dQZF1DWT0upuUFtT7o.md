@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Henry Morris
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,807 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,936 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [Twist](https://open.spotify.com/track/5xKZOJuMygqB056nROv1xC) | [nelward](https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb) | [Twist](https://open.spotify.com/album/2XBVgT51eTQg8brDMYGiET) | 5:58 |
 | 100 | [hurt](https://open.spotify.com/track/7zqInuL6hFY9nHfb6AunDk) | [twikipedia](https://open.spotify.com/artist/2V8aJ7qCArKAmHAX7u81Sj) | [still\-life](https://open.spotify.com/album/2Lxt91d4tShiwypj8IKrVV) | 3:27 |
 
-Snapshot ID: `MCxiYWMyYmYwNjFkZWQyMGJhOTYzYzU2OWNmNDhlNWU3OGViMjU2MDU1`
+Snapshot ID: `MCxjYjhiZmVlZTM5ZmJkOTI3MGU4ODgyOWEzMGE0NGMwM2Y2OGMzMzg1`

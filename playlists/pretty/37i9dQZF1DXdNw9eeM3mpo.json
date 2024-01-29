@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. Los Fabulosos Cadillacs en portada.",
-  "num_followers": 446056,
+  "num_followers": 446086,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTc5NzNiZTUyNDU2ZWEwODJjNzg3MDhkMTYyMGZkMTllOTBlM2Fj",
+  "snapshot_id": "MCwzNGEzZDgzN2RjMDdlY2Y5YTdiMWU1NjQ5NzlmMzQ4OTEyMGMyMjE3",
   "tracks": [
     {
       "added_at": "2024-01-19 06:00:00",
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
         }
       ],
-      "duration_ms": 302813,
-      "name": "Delfino",
-      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
+      "duration_ms": 243813,
+      "name": "La Zona del Terror",
+      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1036,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
         }
       ],
-      "duration_ms": 243813,
-      "name": "La Zona del Terror",
-      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
+      "duration_ms": 302813,
+      "name": "Delfino",
+      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Historias de amor y otras mierdas",
-        "url": "https://open.spotify.com/album/1vvV6rMEPELqmSFcAK7wtt"
-      },
-      "artists": [
-        {
-          "name": "Eskorzo",
-          "url": "https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8"
-        }
-      ],
-      "duration_ms": 185925,
-      "name": "Me Va A Castigar El Se\u00f1or",
-      "url": "https://open.spotify.com/track/1m7FERQ0mu9OuhRTUdzHbP"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Paz y Baile",
         "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 218750,
       "name": "Paz y Baile",
       "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Historias de amor y otras mierdas",
+        "url": "https://open.spotify.com/album/1vvV6rMEPELqmSFcAK7wtt"
+      },
+      "artists": [
+        {
+          "name": "Eskorzo",
+          "url": "https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8"
+        }
+      ],
+      "duration_ms": 185925,
+      "name": "Me Va A Castigar El Se\u00f1or",
+      "url": "https://open.spotify.com/track/1m7FERQ0mu9OuhRTUdzHbP"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Vira-Lata",
-        "url": "https://open.spotify.com/album/4Wy6qLOygnSQ6MGKHqNC0Z"
-      },
-      "artists": [
-        {
-          "name": "Buena Onda Reggae Club",
-          "url": "https://open.spotify.com/artist/2fuv23bY4oSgxNKH7TdUZz"
-        }
-      ],
-      "duration_ms": 210069,
-      "name": "Vira-Lata",
-      "url": "https://open.spotify.com/track/0qrWq5QicfLTefnLMuxUPz"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Antih\u00e9roes",
         "url": "https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 332695,
       "name": "Amor Sin Odio",
       "url": "https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Vira-Lata",
+        "url": "https://open.spotify.com/album/4Wy6qLOygnSQ6MGKHqNC0Z"
+      },
+      "artists": [
+        {
+          "name": "Buena Onda Reggae Club",
+          "url": "https://open.spotify.com/artist/2fuv23bY4oSgxNKH7TdUZz"
+        }
+      ],
+      "duration_ms": 210069,
+      "name": "Vira-Lata",
+      "url": "https://open.spotify.com/track/0qrWq5QicfLTefnLMuxUPz"
     },
     {
       "added_at": "2024-01-19 06:00:00",

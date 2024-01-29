@@ -4,7 +4,7 @@
 
 > Il meglio dell'R&B italiano\. Cover: Tatum Rush
 
-464 songs - 22 hr 59 min
+465 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Demone](https://open.spotify.com/track/214KT9TF4uVt1VCNBtOmzj) | [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Demone](https://open.spotify.com/album/6kIx9gfpHm1NI2TDo9FLU4) | 3:03 | 2023-07-06 | 2023-09-29 |
 | [Dettagli](https://open.spotify.com/track/7isfTQzWnrGZPv0eLf92cF) | [marco.](https://open.spotify.com/artist/3YwnaFYy7mL8nnjkxL0bx1), [Santacroce](https://open.spotify.com/artist/6tXJU8pjgnWBnw6m6b8krY) | [Dettagli](https://open.spotify.com/album/4Ap3xuFc7S9zqnOZ3A2XdF) | 3:01 | 2023-09-28 | 2023-12-08 |
 | [DIAMANTI](https://open.spotify.com/track/6S3Q6qeGe0DFTDYvO5ZetR) | [francesca moretti](https://open.spotify.com/artist/1JFwMGRpvznPGEcbWhQPpX) | [DIAMANTI](https://open.spotify.com/album/1xHqLNfHuyCFfuDYy2D2wi) | 3:16 | 2022-07-07 | 2022-09-16 |
-| [Diamanti solitari](https://open.spotify.com/track/0xLdR8e8CZNxsaKdUBjjkG) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Trusty](https://open.spotify.com/artist/5yC9LA5cSmbG5y20u2Qxf7) | [Aurora Boreale](https://open.spotify.com/album/0hbgo46Lsi6gdliKEtKcvo) | 3:53 | 2024-01-11 |  |
+| [Diamanti solitari](https://open.spotify.com/track/0xLdR8e8CZNxsaKdUBjjkG) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Trusty](https://open.spotify.com/artist/5yC9LA5cSmbG5y20u2Qxf7) | [Aurora Boreale](https://open.spotify.com/album/0hbgo46Lsi6gdliKEtKcvo) | 3:53 | 2024-01-11 | 2024-01-29 |
+| [Diamanti solitari](https://open.spotify.com/track/4R6r3rMsdxnsi8zRscS71N) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Trusty](https://open.spotify.com/artist/5yC9LA5cSmbG5y20u2Qxf7) | [Aurora Boreale](https://open.spotify.com/album/0PD2JnNa4bsQEG9QWvlOuR) | 3:53 | 2024-01-25 |  |
 | [Diamanti solitari](https://open.spotify.com/track/4XSJfPyaH9VytRjn8EUwc1) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Trusty](https://open.spotify.com/artist/5yC9LA5cSmbG5y20u2Qxf7) | [Aurora Boreale](https://open.spotify.com/album/5afOl4r5DZq2slkIrfN14I) | 3:53 | 2023-11-30 | 2024-01-14 |
 | [Difenderti](https://open.spotify.com/track/3kwQ577i2mY0JlUeazrLha) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR) | [Aurora Boreale](https://open.spotify.com/album/0PD2JnNa4bsQEG9QWvlOuR) | 2:05 | 2024-01-25 |  |
 | [Dipinto](https://open.spotify.com/track/7EyaNzozxk5KAXjXK9fv4c) | [CLARICE](https://open.spotify.com/artist/3n8gcjmulraZzTPHH8sONK), [Commodo](https://open.spotify.com/artist/3tdN1qijWdkKpbB2ofQCmo) | [Dipinto](https://open.spotify.com/album/1jPwyUAnIKDd6OicV6BQRH) | 2:39 | 2022-11-24 | 2023-01-20 |

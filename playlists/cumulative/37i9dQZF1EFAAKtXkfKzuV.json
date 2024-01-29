@@ -356,10 +356,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 180546,
       "name": "Gewissenlos",
       "url": "https://open.spotify.com/track/097dlPGhNKGPhoDniwPvCZ"
+    },
+    {
+      "album": {
+        "name": "Nur zu Besuch",
+        "url": "https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R"
+      },
+      "artists": [
+        {
+          "name": "Madeline Juno",
+          "url": "https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180546,
+      "name": "Gewissenlos",
+      "url": "https://open.spotify.com/track/5ggxyRAcTN1PFVNGgw4wmM"
     },
     {
       "album": {
@@ -1180,10 +1198,32 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 178423,
       "name": "Versprich mir du gehst",
       "url": "https://open.spotify.com/track/1nIfneoBS1iYRcdWPYqgq4"
+    },
+    {
+      "album": {
+        "name": "Nur zu Besuch",
+        "url": "https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R"
+      },
+      "artists": [
+        {
+          "name": "Madeline Juno",
+          "url": "https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ"
+        },
+        {
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178423,
+      "name": "Versprich mir du gehst",
+      "url": "https://open.spotify.com/track/3aQJMAHkaEFNt2fD9JvDXa"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3QqLAAH3ltES4Yr3XdCI9z.md) - [plain]
 
 > 
 
-[laisinha](https://open.spotify.com/user/q64xm9wcophofu2yt8armms73) - 34 likes - 87 songs - 6 hr 50 min
+[laisinha](https://open.spotify.com/user/q64xm9wcophofu2yt8armms73) - 34 likes - 88 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,5 +95,6 @@ pretty - [cumulative](/playlists/cumulative/3QqLAAH3ltES4Yr3XdCI9z.md) - [plain]
 | 85 | [Your Love Never Fails](https://open.spotify.com/track/1KedGIK1fpqpl56GkW5VgB) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [God's Not Dead](https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX) | 3:38 |
 | 86 | [At The Cross](https://open.spotify.com/track/1tElh70sXmt1yAGJ7Szw6S) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Mighty To Save \(Live\)](https://open.spotify.com/album/50pKUonleomBalc93lyfEG) | 6:49 |
 | 87 | [Oceans Will Part](https://open.spotify.com/track/5MoKzZzkbcd6GrVvZUGdhe) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Mighty To Save \(Live\)](https://open.spotify.com/album/50pKUonleomBalc93lyfEG) | 5:07 |
+| 88 | [I'm Still Here](https://open.spotify.com/track/0qtIa1k4Dh5bVYNngW9SDz) | [Dorinda Clark\-Cole](https://open.spotify.com/artist/2izm16Jd9ifkaqR5fxzlTK) | [Dorinda Clark\-Cole](https://open.spotify.com/album/4GFRHIy3A3yBqBc1fchCDh) | 5:51 |
 
-Snapshot ID: `NDExLGM2ZTQwM2E2ZjM2YTc5YWI3YjBmZWQ5YjlkMTZkODc1OTVlOWVkYWY=`
+Snapshot ID: `NDEyLDI4NjFjNTc4MzU1Yjc3NDJlNTc3MjIyYjc2YTgxZDJmYzg1NDJhMTA=`

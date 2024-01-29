@@ -4,7 +4,7 @@
 
 > Celebrate \#SelfCareSunday with Michelle Obama's workout mix.
 
-48 songs - 2 hr 56 min
+49 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [South of the Border \(feat\. Camila Cabello & Cardi B\)](https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:24 | 2020-01-19 |  |
 | [Tambourine \- Edited Version](https://open.spotify.com/track/1dNHkbbl6PaoqO5bUM9Q32) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Tambourine](https://open.spotify.com/album/6VO19ubQLg8pEzMuBlcigx) | 3:12 | 2020-01-19 |  |
 | [Tints \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6JAJxkQA5Q3TYN4dP8b46e) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Oxnard](https://open.spotify.com/album/470YoR7n18n3xyQTsUxdlV) | 4:28 | 2020-01-19 |  |
-| [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 | 2020-01-19 |  |
+| [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 | 2020-01-19 | 2024-01-29 |
+| [Toast \- Remix](https://open.spotify.com/track/5Nc0d8sxVWjUoH85NuCiJU) | [J Star](https://open.spotify.com/artist/4XoVFXRNNMzxuEpxRt2lqp) | [Toast \(Remix\)](https://open.spotify.com/album/24oZPmdzVJ7X5agJbGpK8d) | 3:07 | 2020-01-19 |  |
 | [Turnin' Me Up](https://open.spotify.com/track/09XnY0y4QUQmLzfUlbCEeZ) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [In My Mind](https://open.spotify.com/album/4Y8CDk1rrS7lnmcT2C96XA) | 4:29 | 2020-01-19 |  |
 | [V\. 3005](https://open.spotify.com/track/0BoWVJUFru3oEaU2N1GCyc) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/6kWZEtlgdfNxohXEgk8fo0) | 3:54 | 2020-01-19 |  |
 | [V\. 3005](https://open.spotify.com/track/1rfJQpYr0clcyXssjQjk4T) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/7Efnr0fVLkoDz1QEDvmQVZ) | 3:54 | 2020-01-19 | 2022-10-13 |

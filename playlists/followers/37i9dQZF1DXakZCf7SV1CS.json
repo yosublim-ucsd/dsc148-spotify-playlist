@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 73244,
+  "2024-01-29": 73312,
   "date_first_scraped": "2022-03-28",
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
   "name": "Hyperpop Classics",
@@ -2470,6 +2470,24 @@
     },
     {
       "album": {
+        "name": "must be nice",
+        "url": "https://open.spotify.com/album/3nUIEmwKrceOIj4Kz33LB9"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134961,
+      "name": "must be nice",
+      "url": "https://open.spotify.com/track/25TIIp717353bt26eqPiJw"
+    },
+    {
+      "album": {
         "name": "HIGHSCHOOLUNDEAD",
         "url": "https://open.spotify.com/album/1PfcUcqehTpxk8EplvJQMc"
       },
@@ -2739,7 +2757,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 107129,
       "name": "serialkilled",
       "url": "https://open.spotify.com/track/4DC73wRVLzJLollwd9LlLs"

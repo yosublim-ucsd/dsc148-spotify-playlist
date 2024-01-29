@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Barack Obama&\#x27;s favorite songs of 2023 plus somo of his favorite summer songs\. Includes Summer 22, &amp; 21 editions + bonus tracks.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 107,940 likes - 182 songs - 11 hr 7 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 107,934 likes - 182 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,18 +170,18 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 160 | [Meant To Be](https://open.spotify.com/track/1kJRESx6MpGUnxENwvM16d) | [AhhWoo](https://open.spotify.com/artist/5dzSUiI5kNti4Yt8J2LnKn) | [Meant To Be](https://open.spotify.com/album/5rp3vZxHMdOcTRLncm2Zhg) | 2:47 |
 | 161 | [We Won't Forget](https://open.spotify.com/track/0GdQJXcJO0Akn5YBdqQYaD) | [AJ Smith](https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973) | [We Won't Forget](https://open.spotify.com/album/5gpDNjNqnPEwgiisdQGQYc) | 2:36 |
 | 162 | [BIGGER THAN YOU](https://open.spotify.com/track/4T6lbvUqZyp29NbiRwzIUY) | [MICALL](https://open.spotify.com/artist/2xrLmzMaMHtiTA0B5uh9yN) | [BIGGER THAN YOU](https://open.spotify.com/album/6aSgPbYBzNcYITV6KH8Atq) | 3:56 |
-| 163 | [Bésame](https://open.spotify.com/track/5q9fbgxoorkYpQtTScUz7Q) | [VENEGAS](https://open.spotify.com/artist/4R0Y6tpuKIvFUbteEIo6hz) | [Bésame](https://open.spotify.com/album/0OMCpFP1U5rDv905JNfqBN) | 2:38 |
-| 164 | [Gimme Love](https://open.spotify.com/track/7kSM4ah3qZ5KhQUfuytqxu) | [Elvis Ngoma](https://open.spotify.com/artist/30HcF4gxziFU0Hi872go1f) | [Gimme Love](https://open.spotify.com/album/64r3Hqn4YZjFmSjF231aak) | 3:36 |
-| 165 | [Tempted \- Westyle Remix](https://open.spotify.com/track/6M5J2fr71vdd8x88rmWxiJ) | [HU3M3N](https://open.spotify.com/artist/7IOcEnP1ul7jQt4GSAHxTO), [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [Tempted \(Westyle Remix\)](https://open.spotify.com/album/0zs6MeThgDrINDfteoWbiw) | 3:44 |
-| 166 | [El Negro Sabroso \(Banda\)](https://open.spotify.com/track/3DFsxiMt0LbVIS77ZFdgUC) | [Lios Choko](https://open.spotify.com/artist/0VRmGGMsCYaO7vgvWFLEkP) | [El Negro Sabroso \(Banda\)](https://open.spotify.com/album/6fR2B2cNt2L5DF8bBpv9Fz) | 3:55 |
-| 167 | [Mind](https://open.spotify.com/track/4ty0m7E3pvNPxpwAAyYJxH) | [SENTO](https://open.spotify.com/artist/2rRKwSbT80Ss7cfcz8FeAG) | [Mind](https://open.spotify.com/album/6VVsvx4Nu8vfU1AvRbjrEc) | 3:30 |
-| 168 | [Jaja](https://open.spotify.com/track/0HFZSeT31eu7CXzYWAfLmD) | [Tutipsy](https://open.spotify.com/artist/0LY2ULdbf59X4QJjZfEnW3) | [Jaja](https://open.spotify.com/album/3JXVpWiCvhCl4ikiP5pc80) | 2:50 |
-| 169 | [Afterglow](https://open.spotify.com/track/5sCTbkhI2JYg03xypi4uCV) | [Craig Caliva](https://open.spotify.com/artist/1UR8HRevJdliHzsYXixh7V) | [Afterglow](https://open.spotify.com/album/1EKwZgF7LMf4elB71VSR88) | 3:26 |
-| 170 | [My Selection](https://open.spotify.com/track/0lZKsTMwgyduyOvfFfEqpo) | [Desi Doom](https://open.spotify.com/artist/09nfzR2jOWrWFa8MoVcyGX) | [My Selection](https://open.spotify.com/album/1ZYyIidR79lXRunjEetLMp) | 2:25 |
-| 171 | [Take](https://open.spotify.com/track/7mCLBREGnQTgauOYtNtmO4) | [Devon Eggers](https://open.spotify.com/artist/4rd5uGxnfBKgFXUQaLT0yf) | [Take](https://open.spotify.com/album/5dqbQXTPwZkZvVWChdTSTS) | 4:05 |
-| 172 | [Grammy](https://open.spotify.com/track/4KCYM4d8iEe1ttO4y5NYh0) | [Dya](https://open.spotify.com/artist/1jVsPzjW6IcCCUCw2gFFfA), [Janza](https://open.spotify.com/artist/20h3TR1YlS0eeqKW2OQPrj) | [Grammy](https://open.spotify.com/album/4Rtpi65v3AoYiY1nHMKbKV) | 2:25 |
-| 173 | [Orchids from Fire](https://open.spotify.com/track/1QWQbufiCcpqffNkOCSaF8) | [Kellie Haddock](https://open.spotify.com/artist/6ZszMgt4IsKoJfzU1aultN) | [Orchids from Fire](https://open.spotify.com/album/3s7JmeQxkY3lrF5sGrMKBZ) | 4:55 |
-| 174 | [Diver](https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB) | 3:10 |
+| 163 | [Do You Feel?](https://open.spotify.com/track/2sSY3K85CvWtK7KAHaHbMj) | [Slatty K](https://open.spotify.com/artist/6M1OUdpdIBG9uwwVVw80En), [AAP](https://open.spotify.com/artist/0LNjllgatcEOXzClhJDyMx), [Jadhe](https://open.spotify.com/artist/1rxAD6xp9NiycI83htzv5P) | [Still Luv](https://open.spotify.com/album/3K984cTKmKdox6Q6B3o5e3) | 4:34 |
+| 164 | [Bésame](https://open.spotify.com/track/5q9fbgxoorkYpQtTScUz7Q) | [VENEGAS](https://open.spotify.com/artist/4R0Y6tpuKIvFUbteEIo6hz) | [Bésame](https://open.spotify.com/album/0OMCpFP1U5rDv905JNfqBN) | 2:38 |
+| 165 | [Gimme Love](https://open.spotify.com/track/7kSM4ah3qZ5KhQUfuytqxu) | [Elvis Ngoma](https://open.spotify.com/artist/30HcF4gxziFU0Hi872go1f) | [Gimme Love](https://open.spotify.com/album/64r3Hqn4YZjFmSjF231aak) | 3:36 |
+| 166 | [Tempted \- Westyle Remix](https://open.spotify.com/track/6M5J2fr71vdd8x88rmWxiJ) | [HU3M3N](https://open.spotify.com/artist/7IOcEnP1ul7jQt4GSAHxTO), [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [Tempted \(Westyle Remix\)](https://open.spotify.com/album/0zs6MeThgDrINDfteoWbiw) | 3:44 |
+| 167 | [El Negro Sabroso \(Banda\)](https://open.spotify.com/track/3DFsxiMt0LbVIS77ZFdgUC) | [Lios Choko](https://open.spotify.com/artist/0VRmGGMsCYaO7vgvWFLEkP) | [El Negro Sabroso \(Banda\)](https://open.spotify.com/album/6fR2B2cNt2L5DF8bBpv9Fz) | 3:55 |
+| 168 | [Mind](https://open.spotify.com/track/4ty0m7E3pvNPxpwAAyYJxH) | [SENTO](https://open.spotify.com/artist/2rRKwSbT80Ss7cfcz8FeAG) | [Mind](https://open.spotify.com/album/6VVsvx4Nu8vfU1AvRbjrEc) | 3:30 |
+| 169 | [Jaja](https://open.spotify.com/track/0HFZSeT31eu7CXzYWAfLmD) | [Tutipsy](https://open.spotify.com/artist/0LY2ULdbf59X4QJjZfEnW3) | [Jaja](https://open.spotify.com/album/3JXVpWiCvhCl4ikiP5pc80) | 2:50 |
+| 170 | [Afterglow](https://open.spotify.com/track/5sCTbkhI2JYg03xypi4uCV) | [Craig Caliva](https://open.spotify.com/artist/1UR8HRevJdliHzsYXixh7V) | [Afterglow](https://open.spotify.com/album/1EKwZgF7LMf4elB71VSR88) | 3:26 |
+| 171 | [My Selection](https://open.spotify.com/track/0lZKsTMwgyduyOvfFfEqpo) | [Desi Doom](https://open.spotify.com/artist/09nfzR2jOWrWFa8MoVcyGX) | [My Selection](https://open.spotify.com/album/1ZYyIidR79lXRunjEetLMp) | 2:25 |
+| 172 | [Take](https://open.spotify.com/track/7mCLBREGnQTgauOYtNtmO4) | [Devon Eggers](https://open.spotify.com/artist/4rd5uGxnfBKgFXUQaLT0yf) | [Take](https://open.spotify.com/album/5dqbQXTPwZkZvVWChdTSTS) | 4:05 |
+| 173 | [Grammy](https://open.spotify.com/track/4KCYM4d8iEe1ttO4y5NYh0) | [Dya](https://open.spotify.com/artist/1jVsPzjW6IcCCUCw2gFFfA), [Janza](https://open.spotify.com/artist/20h3TR1YlS0eeqKW2OQPrj) | [Grammy](https://open.spotify.com/album/4Rtpi65v3AoYiY1nHMKbKV) | 2:25 |
+| 174 | [Sugar Daddy](https://open.spotify.com/track/2R1759HDsyHhhOn4PM3pSk) | [Jordan Rivers & The Real Juice](https://open.spotify.com/artist/23V3hZ8OOhLund0FUEW6Cm) | [Sugar Daddy](https://open.spotify.com/album/71XTpdu6oVhIWfjHsr4hBQ) | 4:05 |
 | 175 | [No Tengas Miedo \- Version Rock](https://open.spotify.com/track/3t4XGuKnvS4zVCfp3bxHsN) | [Senova](https://open.spotify.com/artist/47ziKUSrrbZzpxR8ULeWd9) | [No Tengas Miedo \(Version Rock\)](https://open.spotify.com/album/6qdnvfIsBW9HeUus5tcEtf) | 3:25 |
 | 176 | [Lonely Town \(Piano Version\)](https://open.spotify.com/track/17jWwHu2PlAR52RuipBVLr) | [A\-Zal](https://open.spotify.com/artist/3GxZTnrO8CqpTaGicA9lrf) | [Lonely Town \(Piano Version\)](https://open.spotify.com/album/6R10GDCZMNBWr70Z5LpWC6) | 3:09 |
 | 177 | [Rattlesnake Wine](https://open.spotify.com/track/07Yj3vn2clz4ku4HtYJtfH) | [Jack Nashville](https://open.spotify.com/artist/7nnnllJHSQzVovCOPTbij2) | [All My Heroes Get High](https://open.spotify.com/album/4MY81WClA7rKJaId9MI2iD) | 3:06 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 181 | [$@Lt](https://open.spotify.com/track/5hYRXOqi6jsxzlVUT76uYy) | [Credit Electric](https://open.spotify.com/artist/5POatvLAZTsSIV7QYLMDXU) | [six](https://open.spotify.com/album/3WqiEqUvFbN7J9jG5y5N7I) | 3:09 |
 | 182 | [No Worries](https://open.spotify.com/track/2T332LRD02r4loxzwY4W48) | [David Shabani](https://open.spotify.com/artist/10tmEpWAvuar7nGsOeqdQN) | [No Worries](https://open.spotify.com/album/6IAn7B6LduDnjHrCnlHhFB) | 3:48 |
 
-Snapshot ID: `NzE2NywxYTg2NmY5MGNlOTlmYmIzZmI5ZjAxZTZlZjgzMzYxY2E5NGIyMDBm`
+Snapshot ID: `NzE3Myw0OTQxY2MzMGM2Y2QzMGQzZTQ1ZTNlMjlmMDI2ZmUyNDhmNWRjZDIx`

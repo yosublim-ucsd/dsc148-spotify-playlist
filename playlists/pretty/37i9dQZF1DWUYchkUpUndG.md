@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH?si=tvOkEkbvR9O860WtFUOgJQ>Greatman Takit</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,860 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,895 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [2rue love Refix](https://open.spotify.com/track/5kv3dukuvZdnZ7dgF5cM1s) | [Shadrach SBS](https://open.spotify.com/artist/2eKjftX5gKorRAzO2ECBtb) | [2rue love Refix](https://open.spotify.com/album/147BH1EIfsb9OVtu9g3waH) | 1:46 |
 | 100 | [You're Calling](https://open.spotify.com/track/6skQtYU6ybEhlzxAxDtJd2) | [Naje Busia](https://open.spotify.com/artist/4mg6KKHgOCPcHxNCr2CiaE), [Yolanda\-Marie](https://open.spotify.com/artist/30EoQ26SvJIk9hgGSGqVhQ) | [You're Calling](https://open.spotify.com/album/6CZtNsduMqIrS5l7JD59oZ) | 3:17 |
 
-Snapshot ID: `MCxlZDk3MmNhOWFlZjdhMjQzN2MyM2RlMmFmOWI4NDhhMmI4ODhkNzli`
+Snapshot ID: `MCxhMzgxNDhiM2NlNTA4YzQyNjQ4OGI0NmIwODUzOGMyMDU4YjA4OTg3`

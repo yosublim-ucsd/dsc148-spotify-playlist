@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,804 songs - 2 day 20 hr 40 min
+1,805 songs - 2 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Changes](https://open.spotify.com/track/6dWwrOobdcseSx8giSWPkE) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Changes](https://open.spotify.com/album/2HSFpJCyWs7WVrq9gvyGKR) | 1:57 | 2022-04-15 | 2023-08-18 |
 | [Changing Lanes](https://open.spotify.com/track/3j6aJ31Ri6y6Oywx7tM38W) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [Changing Lanes](https://open.spotify.com/album/6W1heIRffQoahfENAWZ9v3) | 2:01 | 2023-12-22 |  |
 | [Chapman](https://open.spotify.com/track/16N0uGSoGeW41PrPCEnh8T) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Chapman](https://open.spotify.com/album/6dP2OierGgAWvXtfjRpWtZ) | 2:09 | 2022-04-15 | 2023-02-14 |
-| [chapter one](https://open.spotify.com/track/3KWCSFlXzN09GtiLCuRBKn) | [Emaso](https://open.spotify.com/artist/5nsxk8zPqHAFqADVsLy45c) | [chapter one](https://open.spotify.com/album/5sa4owS9NBpq0u5xi5Trso) | 1:37 | 2023-08-03 |  |
+| [chapter one](https://open.spotify.com/track/3KWCSFlXzN09GtiLCuRBKn) | [Emaso](https://open.spotify.com/artist/5nsxk8zPqHAFqADVsLy45c) | [chapter one](https://open.spotify.com/album/5sa4owS9NBpq0u5xi5Trso) | 1:37 | 2023-08-03 | 2024-01-29 |
 | [Chasette](https://open.spotify.com/track/6YxNZWfsde3p8xYqO5bZsQ) | [Koloso](https://open.spotify.com/artist/5sJTKXv0COjf7x8ucatN55) | [Chasette](https://open.spotify.com/album/2nEtJlvncjBCZpx818evPA) | 3:14 | 2022-04-15 | 2022-06-10 |
 | [Cheating Accidentally](https://open.spotify.com/track/3x5U06AxZduhHGtMxR5PVX) | [asanatobi](https://open.spotify.com/artist/6LeJY3URhc2QOx8vPAB2Ou) | [Cheating Accidentally](https://open.spotify.com/album/35mtHWzN4VCTlIFhvTKos3) | 2:03 | 2023-07-13 | 2023-08-18 |
 | [Check\-Out Time](https://open.spotify.com/track/6Q0Pf9BVZxgpebR8q3NS6N) | [Geometrical](https://open.spotify.com/artist/2qBL4kmK6EygqSfEEkMRpq) | [Check\-Out Time](https://open.spotify.com/album/4G799Tgmay9itwQSV3xdTF) | 1:53 | 2023-04-20 |  |
@@ -314,6 +314,7 @@
 | [Clouds](https://open.spotify.com/track/5LrRZIOip9uqlJuISIcPZN) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Clouds](https://open.spotify.com/album/0MFuP63RB3wKviRRBHJXUq) | 1:59 | 2022-04-15 | 2022-09-02 |
 | [Clouds](https://open.spotify.com/track/3UcgqdjXCPzjnjUdIKSEXC) | [Rez Tiller](https://open.spotify.com/artist/6kMQXQHnSoU416PTFgiCQn) | [Clouds](https://open.spotify.com/album/3oDKuiGPdDLloNHgIEm3Jm) | 2:30 | 2024-01-12 |  |
 | [Clouds](https://open.spotify.com/track/0p0MtKtgkqkmRnXIBQlfUY) | [ZeDe](https://open.spotify.com/artist/0xtxiEdr8VEnERqcadfVNK) | [Clouds](https://open.spotify.com/album/2P2LkI0nRddOxHS2YJKW9R) | 2:22 | 2022-08-12 | 2022-12-17 |
+| [cloudspeak](https://open.spotify.com/track/1sQnye3wteYsntlgMO9rn8) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [cloudspeak](https://open.spotify.com/album/0l0qcMB7s99fuWbzpR883A) | 2:16 | 2024-01-19 |  |
 | [Cloudy](https://open.spotify.com/track/6P8220cjoS346f8C8dXy4l) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Cloudy](https://open.spotify.com/album/2w8PlNQ1PCQnn7fA4LQiim) | 2:21 | 2022-04-15 | 2022-05-13 |
 | [Cloudy](https://open.spotify.com/track/5kdQWGfpqk1Pa45wZH0Vxw) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Cloudy](https://open.spotify.com/album/6Nea26TpW8breUlrxAINqR) | 2:12 | 2022-04-15 | 2022-09-17 |
 | [Cloudy days](https://open.spotify.com/track/2XZZi9nIXtmEhCQoXbheUz) | [LOFI LAND](https://open.spotify.com/artist/1pFOASn4amyKQUJm4SjeXe) | [Cloudy days](https://open.spotify.com/album/4RZlj3U0bB74lg8QFDD2Oi) | 1:54 | 2023-04-20 |  |
@@ -669,7 +670,7 @@
 | [haha yeah ok \(lofi remix\)](https://open.spotify.com/track/18wRLqDBZQGNCBeiECoJ5s) | [sancy j](https://open.spotify.com/artist/3UVxi5LYbngFziA6ots019), [braj mahal](https://open.spotify.com/artist/2uHJReWme1oJ0jaXD1fiHT), [West Bestern](https://open.spotify.com/artist/7zOLbjVjQZPAldCJ6K9Nha) | [haha yeah ok \(lofi remix\)](https://open.spotify.com/album/771hb2ACwe9f8Fd34jBRIX) | 2:20 | 2022-06-10 | 2022-11-19 |
 | [hairbrush](https://open.spotify.com/track/1FehK5JdDIxLLVRJBLPWSO) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [hairbrush](https://open.spotify.com/album/76t3Ver8ZnguBwwjQU3JM2) | 2:19 | 2022-05-13 | 2023-08-18 |
 | [Hakone](https://open.spotify.com/track/5Mz7BteoFe1ltcaVjjuCWQ) | [ARISU](https://open.spotify.com/artist/2jqODWgHJI8JDjZOyf7Xy4) | [Hakone](https://open.spotify.com/album/0JxLKWtZ3jEnkNXtzXTuqY) | 2:33 | 2022-11-18 | 2023-09-16 |
-| [Half Waked](https://open.spotify.com/track/4vNr7yElsA1xkrjgtLYMSy) | [Richard Leek](https://open.spotify.com/artist/3bRqzDAKR5xAreIHzGunSu) | [Half Waked](https://open.spotify.com/album/7hgZZ0LwYHkmurzKmPkeA9) | 1:54 | 2022-12-23 |  |
+| [Half Waked](https://open.spotify.com/track/4vNr7yElsA1xkrjgtLYMSy) | [Richard Leek](https://open.spotify.com/artist/3bRqzDAKR5xAreIHzGunSu) | [Half Waked](https://open.spotify.com/album/7hgZZ0LwYHkmurzKmPkeA9) | 1:54 | 2022-12-23 | 2024-01-29 |
 | [Halfway](https://open.spotify.com/track/7JjUUzjaOvKTgOPqS8k7co) | [Droxilyn](https://open.spotify.com/artist/3oFAs0SnvbeuGg4ti8Ycak), [lofi boyz](https://open.spotify.com/artist/4MGcmCTE0ifSg3In5uyD1u) | [Halfway](https://open.spotify.com/album/288gVJdgEXnPu89VNdKY4t) | 2:12 | 2022-04-15 | 2022-05-27 |
 | [Ham On Rye](https://open.spotify.com/track/1YHe10629RcHU4qusWR9b1) | [Worn Tape](https://open.spotify.com/artist/6BohbICG26xpKvK0bXezmx) | [Ham On Rye](https://open.spotify.com/album/3kmS2l0JQwzlbcnR0S1hEV) | 2:04 | 2023-02-13 |  |
 | [Hammer](https://open.spotify.com/track/5tLMIpf7vZrIuRZPdh243H) | [Loyla Lo](https://open.spotify.com/artist/64Xx19yQZ3j5RzbTIG7Yl7) | [Sun Study](https://open.spotify.com/album/3vWeMRKNEpdkaJJPEDcFJX) | 1:43 | 2022-04-15 | 2022-10-01 |
@@ -853,7 +854,7 @@
 | [Leaves](https://open.spotify.com/track/6bzHmsvCu9StoVrmdmDYlW) | [420am](https://open.spotify.com/artist/2KPFkiMzNAp6jiKak35U6m) | [Leaves](https://open.spotify.com/album/3QcTgZizX89kySvI2578Mf) | 1:58 | 2022-10-28 | 2023-03-09 |
 | [Left](https://open.spotify.com/track/47LZD8vMgs9oknUS3L1GaJ) | [Master Haratt](https://open.spotify.com/artist/4xXJGTAfTfLq9HqksgZHBT) | [Left](https://open.spotify.com/album/0nMupNelvEmA9NKbit7vct) | 2:28 | 2022-04-15 | 2022-07-15 |
 | [Lemme Just Sunbleach \(All Day All Night\)](https://open.spotify.com/track/3r92YrLWSVmwbCpyl0saJ1) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Lemme Just Sunbleach \(All Day All Night\)](https://open.spotify.com/album/1d6qrcmACFopMLcBqBhe5A) | 3:03 | 2022-12-16 |  |
-| [Lemon Gardens](https://open.spotify.com/track/3VChI6nBTxw1Jk7f5QRoGU) | [rosetta's stone](https://open.spotify.com/artist/31WQZQf2EfYbbw1RpIU5GZ) | [Lemon Gardens](https://open.spotify.com/album/3L6NZBTSSTtmy1fsiMc3Wg) | 2:38 | 2023-07-13 | 2024-01-24 |
+| [Lemon Gardens](https://open.spotify.com/track/3VChI6nBTxw1Jk7f5QRoGU) | [rosetta's stone](https://open.spotify.com/artist/31WQZQf2EfYbbw1RpIU5GZ) | [Lemon Gardens](https://open.spotify.com/album/3L6NZBTSSTtmy1fsiMc3Wg) | 2:38 | 2023-07-13 |  |
 | [lemonade](https://open.spotify.com/track/7ugbUqIuXfg3UVxbIsK3Vd) | [Jungle Hit](https://open.spotify.com/artist/6zMsK4j9ppsNd4hry9P1bd) | [lemonade](https://open.spotify.com/album/17uTT5xBuHUU4WvCmKOtvr) | 2:10 | 2022-04-15 | 2022-10-14 |
 | [Lemonade Waves](https://open.spotify.com/track/6ovbhJchg5kGdayDjhUV60) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Lemonade Waves](https://open.spotify.com/album/4MiCj4Rn6yw3HLdpeXbVrX) | 2:49 | 2022-06-10 | 2023-03-25 |
 | [Lens Flare](https://open.spotify.com/track/3BPDxsdq20JHIsDPpZJzbO) | [gCoope](https://open.spotify.com/artist/0VyTdP8A5VGuLAxSzJHind), [Lxpse](https://open.spotify.com/artist/031Vp2J0KxdRPynrvxlx6r) | [Lens Flare](https://open.spotify.com/album/5ahcWCFCydgEdSgrOPuCbQ) | 1:54 | 2022-08-05 | 2022-08-12 |

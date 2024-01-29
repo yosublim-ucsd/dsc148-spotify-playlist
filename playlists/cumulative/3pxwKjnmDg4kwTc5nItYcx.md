@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Budjerah
 
-750 songs - 1 day 16 hr 23 min
+751 songs - 1 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,6 +579,7 @@
 | [Say It Again](https://open.spotify.com/track/3DF9XSRvf0dFT3Om0Rj4KJ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Say It Again](https://open.spotify.com/album/1mgTS0tdQowCQkrOPxMVOG) | 3:36 | 2020-07-31 | 2021-05-12 |
 | [Say Nothing](https://open.spotify.com/track/4rDRcp3HUu0Yac7o7URJNY) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Say Nothing / Strangers / History of Violence](https://open.spotify.com/album/3rSIMdxCuuWiXNTiXuqX6p) | 3:36 | 2019-12-16 | 2020-03-25 |
 | [Say to You](https://open.spotify.com/track/5eH0e7g26zWBwpGNeK3Gb0) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Say to You](https://open.spotify.com/album/22DKvHucok7t6wzlwEMVL0) | 3:14 | 2019-10-18 | 2021-05-12 |
+| [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-01-29 |  |
 | [Scars](https://open.spotify.com/track/0HCjXEQF533z8Z9LuX28cL) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Scars](https://open.spotify.com/album/7CPt4lQhUc7zCSpm2EVxIz) | 2:51 | 2020-03-20 | 2021-05-12 |
 | [Scorpio \(feat\. Ralph\)](https://open.spotify.com/track/0MQdw4KqjlaeKCVzWT4j0K) | [Hopium](https://open.spotify.com/artist/3DXcwp1aG9wMyxWIAlysmF), [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Scorpio \(feat\. Ralph\)](https://open.spotify.com/album/5jdrLdhKMOLf7Enj05JqOS) | 2:54 | 2019-08-27\* | 2021-05-12 |
 | [Seasons](https://open.spotify.com/track/6sbqpXpDBb6MNv93lhqKvl) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Bebe](https://open.spotify.com/album/0FWLTTcCKsd3b1PiW9GTEN) | 3:23 | 2023-04-28 |  |

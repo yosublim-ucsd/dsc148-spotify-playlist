@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain](/playlists/plain/2BvXXHZ3Hx4pS5OacZMVKc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2BvXXHZ3Hx4pS5OacZMVKc)
 
-### [Gaming Music 2023](https://open.spotify.com/playlist/2BvXXHZ3Hx4pS5OacZMVKc)
+### [Gaming Music 2024](https://open.spotify.com/playlist/2BvXXHZ3Hx4pS5OacZMVKc)
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 137,270 likes - 100 songs - 5 hr 21 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 137,242 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 | 99 | [Over It](https://open.spotify.com/track/4Qx4kYkwuXMZjLd3aRS0ot) | [Idle Days](https://open.spotify.com/artist/6wx2DYiNYOG3HGQYQSBb9j) | [Over It](https://open.spotify.com/album/1PBGk50F3o9bkJUpJpI9zt) | 3:27 |
 | 100 | [Dynamiser](https://open.spotify.com/track/1nruXXU3erq3cQvs8v2FCv) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Eternity](https://open.spotify.com/album/0VKsGtPK6AupzW1IvsiEjh) | 4:10 |
 
-Snapshot ID: `Mjk0MSxiZmVlZjM1ZmQ3MTYxNzU5MTJkYzUzY2QwNzcyZDMyMjBlZmRmYjUz`
+Snapshot ID: `Mjk0Miw3YTE4MTQ3ZTcxYzYxNjZkMzBlZDI3YmRjYWFlMmFlNjdjZDkzYWFl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 
 > Enjoy game music from SEGA classic soundtracks including SONIC, SPACE HARRIER and OutRun\. SEGA名作ゲームサントラの世界へようこそ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,791 likes - 53 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,815 likes - 53 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 | 37 | [Live & Learn ...Main Theme of ”SONIC ADVENTURE 2”](https://open.spotify.com/track/6vmX8fwYQ5QJfh5sK8Ntcf) | [Crush 40](https://open.spotify.com/artist/4gNEgDZhEu6ldAI2wWdZsL) | [Sonic Adventure 2 Original Soundtrack \(vol.2\)](https://open.spotify.com/album/3t403ItXnbNnmBsuAPP0cT) | 4:28 |
 | 38 | [Flight \- Orchestra Version](https://open.spotify.com/track/0mcEjn7RlnDqk5TM6sbWp6) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Panzer Dragoon Original Soundtrack](https://open.spotify.com/album/1HEe03N4xgUX2njGHJD6bQ) | 3:46 |
 | 39 | [ルーヴル美術館侵入](https://open.spotify.com/track/2TjrM7ixQJRV47YsQsj75A) | [Naofumi Hataya](https://open.spotify.com/artist/16Zt0banJ38CasAMhXAqBm) | [リズム怪盗R 皇帝ナポレオンの遺産 オリジナル サウンドトラック \(Vol\. 1\)](https://open.spotify.com/album/2cjLwgvKJDcXxJD2jjv985) | 1:56 |
-| 40 | [Bakamitai \- Taxi Driver Edition](https://open.spotify.com/track/4xXu9UO2qdBotUOfqru2UC) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [Kazuma Kiryu Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj) | 4:51 |
+| 40 | [BAKAMITAI \- Taxi Driver Edition](https://open.spotify.com/track/67WpDwkzxYoCiCauQN1V1a) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [LIKE A DRAGON 8 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7DEXskff0xQFFwH6kTRKWv) | 4:52 |
 | 41 | [Xenophobia \(Alcatraz boss BGM\)](https://open.spotify.com/track/0EwIGqB1Wr1DhWLwz4gsXw) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Gunblade NY & L.A\. Machineguns Original Soundtrack](https://open.spotify.com/album/0VEU6OijrTZgAJWuAEVpBC) | 2:57 |
 | 42 | [Bossa Nova Of Briny Air](https://open.spotify.com/track/0ysEAg07T7MmogKLtX76qy) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Mariko Nanba](https://open.spotify.com/artist/4zyUC91IwhP3IK6Q1ARzJq), [Tomoya Ohtani](https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3) | [Billy Hatcher and the Giant Egg Original Soundtrack ”Music Popped Out of The Egg”](https://open.spotify.com/album/5nf5ABw42byofYV4vZ4Y1S) | 1:59 |
 | 43 | [MONKEY TARGET](https://open.spotify.com/track/5Rz7IrnUkGmOYDblTQUxah) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Super Monkey Ball: Banana Blitz HD Original Sound Track](https://open.spotify.com/album/6oEjg92P4rujUZTN7KjoE0) | 1:34 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 | 52 | [Perfect \(SDI\)](https://open.spotify.com/track/4DlR0hUCK9xG6v8rANXvmw) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [SDI & QUARTET SEGA SYSTEM 16 COLLECTION](https://open.spotify.com/album/4mURnEgAm00MbB7e4cTEiJ) | 0:07 |
 | 53 | [LAST WAVE \(Out Run\)](https://open.spotify.com/track/0J2NTnEsa3IjeV7OwsRk7B) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Out Run \- Original Soundtrack \(Vol\. 1\)](https://open.spotify.com/album/3anhK2YJabXuqEPeHyKWgS) | 1:31 |
 
-Snapshot ID: `MCw3ZTcxYTZkYWE5NWE3NDBmYTA4NTk1MDVjZjJhYTliNWIzYmJkNjVk`
+Snapshot ID: `MCxlYzBiYTcwNmI1Y2I0NTcyZTkwNTNiMjMzYTZlMTliYWY2MjYzMTI1`

@@ -1,12 +1,12 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 103086,
+  "num_followers": 103067,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODU0MzY0OGRmNzg4NmZkYzY3NWMzMzJjNDVkMDJlNzBlNWU5Yjll",
+  "snapshot_id": "MCwwYWYwYWUwNGY4MmI2YzQyMDkyNjVkNWYxM2JkY2YxZTNjYWVlYTBk",
   "tracks": [
     {
       "added_at": "2023-11-16 21:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-11-16 21:00:00",
       "album": {
-        "name": "\u015eehir Yaln\u0131zl\u0131\u011f\u0131",
-        "url": "https://open.spotify.com/album/5MgGccROaHVkJQJaR8Ok1r"
-      },
-      "artists": [
-        {
-          "name": "Ya\u015far",
-          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
-        }
-      ],
-      "duration_ms": 237422,
-      "name": "Nara",
-      "url": "https://open.spotify.com/track/11m3VyqxqUiiviJnwEzwBb"
-    },
-    {
-      "added_at": "2023-11-16 21:00:00",
-      "album": {
         "name": "Sustum",
         "url": "https://open.spotify.com/album/05N4dJk53uBVvH27EAzkNS"
       },
@@ -431,22 +415,34 @@
     {
       "added_at": "2023-11-16 21:00:00",
       "album": {
-        "name": "Aldat\u0131ld\u0131k",
-        "url": "https://open.spotify.com/album/2wr1SwiuPVivHQ2S7Bnv9s"
+        "name": "\u015eehir Yaln\u0131zl\u0131\u011f\u0131",
+        "url": "https://open.spotify.com/album/5MgGccROaHVkJQJaR8Ok1r"
       },
       "artists": [
         {
-          "name": "Jabbar",
-          "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
-        },
-        {
-          "name": "Deeperise",
-          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+          "name": "Ya\u015far",
+          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
         }
       ],
-      "duration_ms": 186947,
-      "name": "Aldat\u0131ld\u0131k",
-      "url": "https://open.spotify.com/track/5E1gxNXvUGvpvUECz54xXm"
+      "duration_ms": 237422,
+      "name": "Nara",
+      "url": "https://open.spotify.com/track/11m3VyqxqUiiviJnwEzwBb"
+    },
+    {
+      "added_at": "2023-11-16 21:00:00",
+      "album": {
+        "name": "Yaln\u0131z \u00d6lmek",
+        "url": "https://open.spotify.com/album/6Mt7gBiLAvEk0dzGQ6QZvh"
+      },
+      "artists": [
+        {
+          "name": "Can G\u00fcng\u00f6r",
+          "url": "https://open.spotify.com/artist/1G2uUovCzQzQTxT5YM7zPN"
+        }
+      ],
+      "duration_ms": 227578,
+      "name": "Yaln\u0131z \u00d6lmek",
+      "url": "https://open.spotify.com/track/1jeezFfn6ccRfWEUlDT7gO"
     },
     {
       "added_at": "2023-11-16 21:00:00",
@@ -467,18 +463,22 @@
     {
       "added_at": "2023-11-16 21:00:00",
       "album": {
-        "name": "Yaln\u0131z \u00d6lmek",
-        "url": "https://open.spotify.com/album/6Mt7gBiLAvEk0dzGQ6QZvh"
+        "name": "Aldat\u0131ld\u0131k",
+        "url": "https://open.spotify.com/album/2wr1SwiuPVivHQ2S7Bnv9s"
       },
       "artists": [
         {
-          "name": "Can G\u00fcng\u00f6r",
-          "url": "https://open.spotify.com/artist/1G2uUovCzQzQTxT5YM7zPN"
+          "name": "Jabbar",
+          "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
+        },
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
         }
       ],
-      "duration_ms": 227578,
-      "name": "Yaln\u0131z \u00d6lmek",
-      "url": "https://open.spotify.com/track/1jeezFfn6ccRfWEUlDT7gO"
+      "duration_ms": 186947,
+      "name": "Aldat\u0131ld\u0131k",
+      "url": "https://open.spotify.com/track/5E1gxNXvUGvpvUECz54xXm"
     },
     {
       "added_at": "2023-11-16 21:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-11-16 21:00:00",
       "album": {
+        "name": "Med Cezir",
+        "url": "https://open.spotify.com/album/2ZdcN7EGH5XuE9ZxaAfzLO"
+      },
+      "artists": [
+        {
+          "name": "Levent Y\u00fcksel",
+          "url": "https://open.spotify.com/artist/3OVWvBHwlq5w8iRJEBoCp2"
+        }
+      ],
+      "duration_ms": 292884,
+      "name": "Dedikodu",
+      "url": "https://open.spotify.com/track/4JVVy6F29ms0u0MBDQsfRN"
+    },
+    {
+      "added_at": "2023-11-16 21:00:00",
+      "album": {
         "name": "\u00c7apk\u0131nca",
         "url": "https://open.spotify.com/album/7gwa9w1nvCdv23BC93xFIo"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 218789,
       "name": "\u00c7apk\u0131nca",
       "url": "https://open.spotify.com/track/7dUqzkI19Bzy8LAWWMlJTn"
-    },
-    {
-      "added_at": "2023-11-16 21:00:00",
-      "album": {
-        "name": "Med Cezir",
-        "url": "https://open.spotify.com/album/2ZdcN7EGH5XuE9ZxaAfzLO"
-      },
-      "artists": [
-        {
-          "name": "Levent Y\u00fcksel",
-          "url": "https://open.spotify.com/artist/3OVWvBHwlq5w8iRJEBoCp2"
-        }
-      ],
-      "duration_ms": 292884,
-      "name": "Dedikodu",
-      "url": "https://open.spotify.com/track/4JVVy6F29ms0u0MBDQsfRN"
     },
     {
       "added_at": "2023-11-16 21:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-11-16 21:00:00",
       "album": {
-        "name": "Selam S\u00f6yle",
-        "url": "https://open.spotify.com/album/5PFNuphPszDP7rHHmGKfpm"
+        "name": "Her Dem Yeni (Yirmi Se\u00e7ilmi\u015f \u015eark\u0131)",
+        "url": "https://open.spotify.com/album/3lReGFhnQrP7bqnVTRjEfX"
       },
       "artists": [
         {
-          "name": "Nil\u00fcfer",
-          "url": "https://open.spotify.com/artist/3iVIrcJmrV7GawrxVWsBUF"
+          "name": "Yeni T\u00fcrk\u00fc",
+          "url": "https://open.spotify.com/artist/5Oo6D3FLRpWjgBn0mqfiA3"
         }
       ],
-      "duration_ms": 182893,
-      "name": "Selam S\u00f6yle",
-      "url": "https://open.spotify.com/track/1ClnNu5oASK5TwqxtXMZJP"
+      "duration_ms": 169093,
+      "name": "A\u015fk Yeniden",
+      "url": "https://open.spotify.com/track/7lQpqtDVqsl6go3XrmfQBR"
     }
   ],
   "unique_name": "K\u0131y\u0131 Boyu",

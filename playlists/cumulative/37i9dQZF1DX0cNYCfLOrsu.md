@@ -4,7 +4,7 @@
 
 > The best in Dancehall for the gyaldem\. Cover: Tina \(Hoodcelebrityy\)
 
-195 songs - 10 hr 1 min
+196 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Hands Up](https://open.spotify.com/track/2DqiAl1qCPnOkx6EHDt12R) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Hands Up](https://open.spotify.com/album/2ddLiPnq33pYj3V7Kfmo9u) | 2:17 | 2023-05-15 | 2023-07-16 |
 | [Hard & Done](https://open.spotify.com/track/50ZQ13cDPuFaSXfWdPwa5n) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [Nyla](https://open.spotify.com/artist/4VZY0nxYMSNotbS7WjNVQy), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Hard & Done](https://open.spotify.com/album/2mdQ5xNL2QOBniNeHrhIDY) | 2:40 | 2021-10-24 | 2022-08-19 |
 | [Hard Drive](https://open.spotify.com/track/4tw57jakL7TFEdZ4bUohP1) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Hard Drive](https://open.spotify.com/album/4y2mW0Vpyc897XhWl8K6B9) | 2:48 | 2021-10-24 |  |
-| [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 | 2021-10-24 | 2023-12-12 |
+| [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 | 2021-10-24 |  |
 | [Heavy! \(Vybz Kartel Remix\)](https://open.spotify.com/track/07XcuVPoyMogdiV4nBeCPt) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Dj Papis](https://open.spotify.com/artist/3a2dlVcm5z0ha2j9ihlQmP) | [Heavy! \(Vybz Kartel Remix\)](https://open.spotify.com/album/3pjBdUQ3B9zLWc4y7GmDSE) | 2:45 | 2021-10-24 | 2022-06-22 |
 | [Heels On](https://open.spotify.com/track/0NWgQIhsa5Jn9OtmMq56zm) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Heels On \- Single](https://open.spotify.com/album/32QwqUCDMihv6W0jcts4oo) | 3:50 | 2023-05-15 |  |
 | [Hold You \- Hold Yuh](https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Hold You](https://open.spotify.com/album/3Oi5j0kqicMfqW51jqrsfe) | 3:53 | 2023-05-15 |  |
@@ -110,7 +110,7 @@
 | [Lighter \(with Tarrus Riley & Rvssian\)](https://open.spotify.com/track/1AAkIj1NSdpaoOZYctGnrg) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Lighter \(with Tarrus Riley & Rvssian\)](https://open.spotify.com/album/11FhJslAwiGqGYP2TLOVBq) | 2:04 | 2023-05-15 |  |
 | [LIGHTS](https://open.spotify.com/track/5NwpV8cS54Qr0Lxh4Qvfug) | [Leaha](https://open.spotify.com/artist/1QKXXl3OKfTUTcXg0z1ntp) | [LIGHTS](https://open.spotify.com/album/0Mbjwil51uX1EE2nARbl0f) | 3:05 | 2021-10-24 | 2022-07-29 |
 | [Lime Light](https://open.spotify.com/track/5AbcWeVLIUgIzrbZIGPVak) | [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [The Art of Flex](https://open.spotify.com/album/3SzwtY32eeDhTg8W4G1RhF) | 2:30 | 2021-10-24 | 2022-07-29 |
-| [Lockdown](https://open.spotify.com/track/0izUjTuDrUy2FgQOSRALSU) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Lockdown](https://open.spotify.com/album/0tJs3Wig9YBdDG8jGKeLq6) | 2:59 | 2021-10-24 |  |
+| [Lockdown](https://open.spotify.com/track/0izUjTuDrUy2FgQOSRALSU) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Lockdown](https://open.spotify.com/album/0tJs3Wig9YBdDG8jGKeLq6) | 2:59 | 2021-10-24 | 2024-01-29 |
 | [Love Situations](https://open.spotify.com/track/18YlTPHOFfZCd4EaeqD8De) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Love Situations](https://open.spotify.com/album/3AYh9Cgmai1t6Aw6jvrQTe) | 3:24 | 2022-08-18 | 2023-05-16 |
 | [Mad Out](https://open.spotify.com/track/0e5lrtbJiVGRVTRU2wFgXo) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Mad Out](https://open.spotify.com/album/5aAuB9NOM8eG4JdQbVWthA) | 2:07 | 2021-10-24 | 2022-07-29 |
 | [Man Is The Least](https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Extra Raw: The First Lady Of Dancehall](https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd) | 3:50 | 2021-10-24 |  |
@@ -172,7 +172,8 @@
 | [The Sidechick Song](https://open.spotify.com/track/75Z53FMCvlupjHfAh9XgDo) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [The Sidechick Song](https://open.spotify.com/album/0LUbxj9I4VJIVui4m2UGhC) | 3:13 | 2021-10-24 | 2022-08-19 |
 | [TIP \(The Party\)](https://open.spotify.com/track/7JN94B0MwRWK4GuX7n7dhM) | [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [TIP \(The Party\)](https://open.spotify.com/album/6xe51V9sFd0wq04oXxa7Gy) | 2:20 | 2021-10-24 | 2022-07-28 |
 | [Toast](https://open.spotify.com/track/3VEpRXloN4rbzNRPSQzZFW) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Toast](https://open.spotify.com/album/5wrjX4P4iirfltdwKC3VOc) | 3:11 | 2021-10-24 | 2022-07-29 |
-| [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 | 2021-10-24 |  |
+| [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 | 2021-10-24 | 2024-01-29 |
+| [Toast \- Remix](https://open.spotify.com/track/5Nc0d8sxVWjUoH85NuCiJU) | [J Star](https://open.spotify.com/artist/4XoVFXRNNMzxuEpxRt2lqp) | [Toast \(Remix\)](https://open.spotify.com/album/24oZPmdzVJ7X5agJbGpK8d) | 3:07 | 2023-05-15 |  |
 | [Top Gyal](https://open.spotify.com/track/0aScqSccesEPFrw28mOije) | [Poshh](https://open.spotify.com/artist/3QtKcHpJt9j9n8fsbjQ7RJ) | [Raw Raw Riddim](https://open.spotify.com/album/6mlmlDJeD8CaIsZnFdC7wS) | 3:00 | 2021-10-24 | 2022-07-20 |
 | [Trick'a Treat](https://open.spotify.com/track/65tmTVKDca8w2kOXMp1opA) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Trick'a Treat](https://open.spotify.com/album/6FIgMqqBzBXoVLS66Pg6k9) | 2:15 | 2021-10-24 | 2022-07-29 |
 | [TRUCK RIDDIM \(feat\. BEAM\)](https://open.spotify.com/track/51rfow8pK8X2JjRTtwr1GF) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [TRUCK RIDDIM](https://open.spotify.com/album/54xLW8QE1v07mdkmkFKHyJ) | 2:08 | 2021-10-24 | 2022-07-29 |

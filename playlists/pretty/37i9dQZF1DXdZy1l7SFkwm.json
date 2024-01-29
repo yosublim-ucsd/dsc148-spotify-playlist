@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 38423,
+  "num_followers": 38440,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjQ0NjdkNDczZTc0MGQyZmI5OWE5MWJkNmJiZGY5NzI5YjBjZTlk",
+  "snapshot_id": "MCw1ZTRlNWIyOTE1NjFjMmQzOTdhYTU4YWUwYzY2ZjJkNDJlNmM3OGRk",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -479,6 +479,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Marcos Valle",
+        "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
+      },
+      "artists": [
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        }
+      ],
+      "duration_ms": 313493,
+      "name": "Estrelar",
+      "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "The New Sound of Brazil",
         "url": "https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 265080,
       "name": "I Like It Like That",
       "url": "https://open.spotify.com/track/6Wy3X4jSszfisnRscJCHdq"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Marcos Valle",
-        "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
-      },
-      "artists": [
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        }
-      ],
-      "duration_ms": 313493,
-      "name": "Estrelar",
-      "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -903,6 +903,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Original Paragons At Treasure Isle",
+        "url": "https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1"
+      },
+      "artists": [
+        {
+          "name": "The Paragons",
+          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "The Tide Is High",
+      "url": "https://open.spotify.com/track/1GUcIBgJB2AX0Ex6J6SKXM"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Lonely Teardrops",
         "url": "https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 173893,
       "name": "You Really Got a Hold on Me",
       "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Original Paragons At Treasure Isle",
-        "url": "https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1"
-      },
-      "artists": [
-        {
-          "name": "The Paragons",
-          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "The Tide Is High",
-      "url": "https://open.spotify.com/track/1GUcIBgJB2AX0Ex6J6SKXM"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Loose & Juicy",
-        "url": "https://open.spotify.com/album/1QrIXVqDiXZzmHLR0woYk7"
+        "name": "Zeca Pagodinho Em Casa",
+        "url": "https://open.spotify.com/album/0ihjlZ6pyIMNly2O2OLIm0"
       },
       "artists": [
         {
-          "name": "Sivuca",
-          "url": "https://open.spotify.com/artist/11L2rdluUfcxyWcX2feoCm"
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
         }
       ],
-      "duration_ms": 289000,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/7DmExRy2zWKkM9QX8Wy7oM"
+      "duration_ms": 275466,
+      "name": "Deixa A Vida Me Levar",
+      "url": "https://open.spotify.com/track/3cVSl7SF1BNnCYUR3WYKd8"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Zeca Pagodinho Em Casa",
-        "url": "https://open.spotify.com/album/0ihjlZ6pyIMNly2O2OLIm0"
+        "name": "Loose & Juicy",
+        "url": "https://open.spotify.com/album/1QrIXVqDiXZzmHLR0woYk7"
       },
       "artists": [
         {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+          "name": "Sivuca",
+          "url": "https://open.spotify.com/artist/11L2rdluUfcxyWcX2feoCm"
         }
       ],
-      "duration_ms": 275466,
-      "name": "Deixa A Vida Me Levar",
-      "url": "https://open.spotify.com/track/3cVSl7SF1BNnCYUR3WYKd8"
+      "duration_ms": 289000,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/7DmExRy2zWKkM9QX8Wy7oM"
     },
     {
       "added_at": "2021-03-15 16:04:53",

@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 2002,
+  "2024-01-29": 2002,
   "date_first_scraped": "2023-12-14",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1\">T-Minus</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By T-Minus",
@@ -1101,7 +1101,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 221546,
       "name": "Learn From This",
       "url": "https://open.spotify.com/track/2hqqEVmvgdQ9HETiYigMoG"
@@ -1629,7 +1629,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 245203,
       "name": "Pretty Little Fears",
       "url": "https://open.spotify.com/track/4LZNGgyUsJLDgBr8Ou08tt"
@@ -1651,7 +1651,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 240341,
       "name": "Pretty Little Fears (feat. J. Cole)",
       "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
@@ -2235,7 +2235,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 200186,
       "name": "The London (feat. J. Cole & Travis Scott)",
       "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
@@ -2261,7 +2261,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 207248,
       "name": "The London (feat. J. Cole & Travis Scott)",
       "url": "https://open.spotify.com/track/5h0ERFfd8oKj1LoKXTbbWz"
@@ -2323,6 +2323,28 @@
       "duration_ms": 150850,
       "name": "The One",
       "url": "https://open.spotify.com/track/483jC5kP5kW7dnYDQ2NMh9"
+    },
+    {
+      "album": {
+        "name": "This Is Revival",
+        "url": "https://open.spotify.com/album/7qFgqgOj8keNKjD8k0qDVG"
+      },
+      "artists": [
+        {
+          "name": "Brittani Scott",
+          "url": "https://open.spotify.com/artist/2zekc0lrVTCOVrgSntYwar"
+        },
+        {
+          "name": "David Jennings",
+          "url": "https://open.spotify.com/artist/0bngvThnRev3ZK6PzEhnWw"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324093,
+      "name": "This Is Revival",
+      "url": "https://open.spotify.com/track/3glwzl5Je8zFPJkSo8YBJM"
     },
     {
       "album": {

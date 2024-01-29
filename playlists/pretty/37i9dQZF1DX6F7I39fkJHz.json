@@ -1,12 +1,12 @@
 {
   "description": "Las m\u00e1s bichotas de la escena featuring Aura BAE.",
-  "num_followers": 33294,
+  "num_followers": 33305,
   "original_name": "EQUAL Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjY4MjYyNTg1OGYyZjAwMzhkNThlNGI2ODI5MTc0ODZmMDFkMzQy",
+  "snapshot_id": "MCw1NWNmMmUzODAwNjA4YzU2MDc1OGIyODU2MmRjMGJjZTA2NDJlNmE4",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "ESTAMINA",
-        "url": "https://open.spotify.com/album/7BVZytJvPtxkIoZ8P6f89x"
-      },
-      "artists": [
-        {
-          "name": "Anto Segovia",
-          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
-        },
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        }
-      ],
-      "duration_ms": 163286,
-      "name": "ESTAMINA",
-      "url": "https://open.spotify.com/track/72hfagNY0Vdya31dliW3LE"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 173427,
       "name": "narcisa",
       "url": "https://open.spotify.com/track/4fvIO9UsmmJM2b8gWCzsOg"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "ESTAMINA",
+        "url": "https://open.spotify.com/album/7BVZytJvPtxkIoZ8P6f89x"
+      },
+      "artists": [
+        {
+          "name": "Anto Segovia",
+          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "duration_ms": 163286,
+      "name": "ESTAMINA",
+      "url": "https://open.spotify.com/track/72hfagNY0Vdya31dliW3LE"
     },
     {
       "added_at": "2023-12-01 03:00:00",

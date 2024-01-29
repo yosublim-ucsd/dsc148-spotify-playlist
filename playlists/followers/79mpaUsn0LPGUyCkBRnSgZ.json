@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 1,
+  "2024-01-29": 1,
   "date_first_scraped": "2023-03-31",
   "description": "albums i plan to listen to eventually",
   "name": "Zacklog",
@@ -479,6 +479,24 @@
       "duration_ms": 338902,
       "name": "Adam, Check Please",
       "url": "https://open.spotify.com/track/6klpTuQQtcAUCXMKzz4IdZ"
+    },
+    {
+      "album": {
+        "name": "Want Two",
+        "url": "https://open.spotify.com/album/6agP9hBwmPQWWEqt5aerMG"
+      },
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345666,
+      "name": "Agnus Dei",
+      "url": "https://open.spotify.com/track/2ohy1XMth89tkmCk7esI0q"
     },
     {
       "album": {
@@ -5087,6 +5105,24 @@
       "duration_ms": 233293,
       "name": "Let Me Drown",
       "url": "https://open.spotify.com/track/3YJ4uP7IHca1MrxoPD6NCC"
+    },
+    {
+      "album": {
+        "name": "Honour and Glory",
+        "url": "https://open.spotify.com/album/015KLRVrZoCEnW8jGGH0E3"
+      },
+      "artists": [
+        {
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208201,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/1wzwDKMN9m7NATxnsLqJAu"
     },
     {
       "album": {

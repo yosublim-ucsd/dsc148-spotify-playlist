@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Her Dem Yeni (Yirmi Se\u00e7ilmi\u015f \u015eark\u0131)",
+        "url": "https://open.spotify.com/album/3lReGFhnQrP7bqnVTRjEfX"
+      },
+      "artists": [
+        {
+          "name": "Yeni T\u00fcrk\u00fc",
+          "url": "https://open.spotify.com/artist/5Oo6D3FLRpWjgBn0mqfiA3"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169093,
+      "name": "A\u015fk Yeniden",
+      "url": "https://open.spotify.com/track/7lQpqtDVqsl6go3XrmfQBR"
+    },
+    {
+      "album": {
         "name": "Neogazino",
         "url": "https://open.spotify.com/album/24ohBXA9KS4lIq1ebnirp6"
       },
@@ -738,7 +756,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 182893,
       "name": "Selam S\u00f6yle",
       "url": "https://open.spotify.com/track/1ClnNu5oASK5TwqxtXMZJP"

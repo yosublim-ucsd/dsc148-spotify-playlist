@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Quantic
 
-802 songs - 2 day 1 hr 13 min
+804 songs - 2 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [ADULTHOOD](https://open.spotify.com/track/4FblU56VwlVyJuvq4H6GRv) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:41 | 2021-03-26 | 2021-12-01 |
 | [After Last Night \(with Thundercat & Bootsy Collins\)](https://open.spotify.com/track/3jiKUMXqwEodB7gVv1RMZU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:09 | 2022-07-28 | 2022-09-23 |
 | [Ain't Got No Reason](https://open.spotify.com/track/37Bqopwiecf3YP1no3Jxwi) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Ain't Got No Reason](https://open.spotify.com/album/2KuXE2OeaKZ5uNrfqFg1c4) | 2:24 | 2020-05-01 | 2020-10-30 |
-| [Ain't It Funny](https://open.spotify.com/track/2XFYO0Tp9nQ470T8x7KpLA) | [The Tibbs](https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw) | [Ain't It Funny](https://open.spotify.com/album/0CxV9DAx08JuoR38aTKJj8) | 3:19 | 2023-12-12 |  |
+| [Ain't It Funny](https://open.spotify.com/track/2XFYO0Tp9nQ470T8x7KpLA) | [The Tibbs](https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw) | [Ain't It Funny](https://open.spotify.com/album/0CxV9DAx08JuoR38aTKJj8) | 3:19 | 2023-12-12 | 2024-01-29 |
+| [Ain't It Funny](https://open.spotify.com/track/6ToyjrRZI3n7pgnhgr0gst) | [The Tibbs](https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw) | [Keep It To Yourself](https://open.spotify.com/album/5tB3tjThhawiGBwASIEXjr) | 3:19 | 2024-01-16 |  |
 | [Alibi](https://open.spotify.com/track/7A9aASmJF3GtnBBri3Km23) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4VQebFp9TEuKOaCu5lUUrC) | 3:48 | 2021-01-23 | 2022-04-29 |
 | [All A Share Together Now](https://open.spotify.com/track/6jfdwBdHyJkxSdgZrPCI8Y) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [All A Share Together Now](https://open.spotify.com/album/4buyOrbqG380Urv8cdCH4i) | 3:46 | 2023-07-10 | 2023-10-07 |
 | [ALL DA TIME](https://open.spotify.com/track/5sPvDvxuuOBxo0njp76d2s) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [ALL DA TIME](https://open.spotify.com/album/37v1eLlzy3tLnrkNFrIzPb) | 4:18 | 2023-08-15 |  |
@@ -242,7 +243,8 @@
 | [Get It Right](https://open.spotify.com/track/3159fLoJc7neVqMUchcCin) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Get It Right](https://open.spotify.com/album/0UCzllaY9orr3hC1iZsim3) | 4:00 | 2021-04-23 | 2021-07-23 |
 | [Get on Board](https://open.spotify.com/track/4vBSrAKC9WnVIrJAfrwfi7) | [Lefties Soul Connection](https://open.spotify.com/artist/404uYs9bhCcDYAmlT3p67y), [Corrina Greyson](https://open.spotify.com/artist/1blKUELXZmmCBX2hCaaB0F) | [Let It Out](https://open.spotify.com/album/2RiFtgeWg30uurOWnYrRL5) | 3:11 | 2023-10-06 | 2024-01-17 |
 | [Gidget](https://open.spotify.com/track/1UrxBDCv9kDRIBUc2oskNR) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [T.Nava](https://open.spotify.com/artist/30Utx0xoArdV237AnYyu6o) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:39 | 2020-03-25\* | 2020-08-25 |
-| [Give Me a Reason](https://open.spotify.com/track/4UUYZvP9SmlyjZ3i70YuMW) | [The Tibbs](https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw) | [Give Me a Reason](https://open.spotify.com/album/4GFJwiUQw3nixYf2jzDQVw) | 2:58 | 2024-01-16 |  |
+| [Give Me a Reason](https://open.spotify.com/track/4UUYZvP9SmlyjZ3i70YuMW) | [The Tibbs](https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw) | [Give Me a Reason](https://open.spotify.com/album/4GFJwiUQw3nixYf2jzDQVw) | 2:58 | 2024-01-16 | 2024-01-29 |
+| [Give Me a Reason](https://open.spotify.com/track/6H4uvuMnonERh5DucTznYq) | [The Tibbs](https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw) | [Keep It To Yourself](https://open.spotify.com/album/5tB3tjThhawiGBwASIEXjr) | 2:58 | 2024-01-16 |  |
 | [Glory](https://open.spotify.com/track/0fm6oDgGOPikLyxKEHMMHk) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 5:37 | 2022-12-12 | 2023-06-08 |
 | [Go](https://open.spotify.com/track/2VXoiz9P6W9jG48Gv3bTHO) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [Go](https://open.spotify.com/album/5Jr1eGcMKChuU0gQdxeF5b) | 4:12 | 2021-12-01 | 2022-12-03 |
 | [Goddamn \- Nth Power Edit](https://open.spotify.com/track/7mI7TjfK1OSXqeIG8BtKAd) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [The Nth Power](https://open.spotify.com/artist/2bXPPuTujhUR51cpf670Ks) | [Goddamn \(Nth Power Edit\)](https://open.spotify.com/album/6P8mZIJQxnj4XcAruCR4Fc) | 2:59 | 2020-06-20 | 2020-07-18 |

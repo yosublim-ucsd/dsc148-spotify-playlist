@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Ama Louise
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,261 likes - 85 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,259 likes - 85 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 38 | [Locked Up Never Fade](https://open.spotify.com/track/30DYH6JwOhWdGwrQfU2U55) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Locked Up Never Fade](https://open.spotify.com/album/54vZ2lPCS9hCzSERgIG3z8) | 5:24 |
 | 39 | [In Flow](https://open.spotify.com/track/2znRQ7uaIqwbC7ev29FVkp) | [Lauren Mikki](https://open.spotify.com/artist/6igYdW26l8iFC4CGdwGfJk) | [In Flow](https://open.spotify.com/album/3rBoihJwBSDq7CeDeU0pwq) | 3:05 |
 | 40 | [Lost](https://open.spotify.com/track/6UtKy6Y8WfglgGMtju1u7p) | [DXNTE](https://open.spotify.com/artist/1JJRYZ6NtGL2hAwFjoaEZP) | [Lost](https://open.spotify.com/album/5VQmACaPLq2qJBTyL343gH) | 2:02 |
-| 41 | [Friends \(w Bby Shea\)](https://open.spotify.com/track/6rjkdi6ymMPrmGYgBXUgl2) | [earl saga](https://open.spotify.com/artist/4vT2gelX0Wt2gy2vx1Qb8Z) | [Faces Are For Friends](https://open.spotify.com/album/529hgwVhosimwhhmWojouX) | 2:17 |
+| 41 | [Friends \(w Bby Shea\)](https://open.spotify.com/track/6rjkdi6ymMPrmGYgBXUgl2) | [earl saga](https://open.spotify.com/artist/4vT2gelX0Wt2gy2vx1Qb8Z), [Bby Shea](https://open.spotify.com/artist/1jahRKm6VXJmd1vZPIfuPo) | [Faces Are For Friends](https://open.spotify.com/album/529hgwVhosimwhhmWojouX) | 2:17 |
 | 42 | [Tear Gas](https://open.spotify.com/track/1hiVYjWEA0DMHYHBy61pHC) | [Skydaddy](https://open.spotify.com/artist/3D0kSdrilgR4uCW5smIzEX), [Tyler Cryde](https://open.spotify.com/artist/1ghH3iyV8WKmK2pMvyQ55E) | [Tear Gas \(feat\. Tyler Cryde\)](https://open.spotify.com/album/3dr2QOBPShCo49di8WnPvA) | 4:18 |
 | 43 | [Lee Judges](https://open.spotify.com/track/3oDiMQykfLGirV6mqCRwjm) | [Solz](https://open.spotify.com/artist/3VppUvO8VSyoF6bKxwMEQ0), [dxvl](https://open.spotify.com/artist/7aVN7GGnvCgEnZpykvn1fj), [Tywheezo](https://open.spotify.com/artist/56zeNyg063I6iA8P1KtVnr) | [Lee Judges](https://open.spotify.com/album/66xEkSRnPdF4r9Ekv7Frx6) | 2:41 |
 | 44 | [In Your Eyes](https://open.spotify.com/track/14qq1BqxguYojuOGaun0xW) | [KeepVibesNear](https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU), [Jay Lewn](https://open.spotify.com/artist/3yfgNzGGBhgqdFaYE89ntD) | [In Your Eyes](https://open.spotify.com/album/5drImt8RdXUTgqSeFL12A8) | 3:49 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 84 | [The Chase](https://open.spotify.com/track/0hX1Sc2QkcVHzvgy1kMaAD) | [Tamara Dos Santos](https://open.spotify.com/artist/1GhWD01U6kf5djUGOD523H) | [The Chase](https://open.spotify.com/album/17F03Nv5crXD0S8grbmNYB) | 3:05 |
 | 85 | [“gaslighting isn’t real, you’re just mental”](https://open.spotify.com/track/7DyGyXWXKbr2yeSc5JNr6k) | [ZELA](https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg) | [“gaslighting isn’t real, you’re just mental”](https://open.spotify.com/album/7ttWuNfN7myZ4tT5Kwxx34) | 2:26 |
 
-Snapshot ID: `MCw4YjcxOWU1MGI3MDc2NDJlZjkzYWIxNmRkZTdiYWYyOGNjNTQ3Yzc3`
+Snapshot ID: `MCwyZDk1Y2FkNGYxNjcxZWY1NzJlMzdmMjZmOTZhNTIzMDE0Zjg0ZDll`

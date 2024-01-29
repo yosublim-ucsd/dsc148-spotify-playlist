@@ -4,7 +4,7 @@
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-64 songs - 3 hr 25 min
+65 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Castles \- Bomb Bay Remix](https://open.spotify.com/track/7xasn2JEKs7Qf36NeK1Ztu) | [Anish Sood](https://open.spotify.com/artist/7qjp4poDA0EDaiCEKuH1ZQ), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Bomb Bay](https://open.spotify.com/artist/7xsYqVqZED2jeOTZESZ6Q8) | [Castles \(Bomb Bay Remix\)](https://open.spotify.com/album/0EcQPZjTUdW0Ta8sa18l8j) | 3:37 | 2023-10-20 |  |
 | [Chemistry](https://open.spotify.com/track/79yCicUXsMibJTNY0y5CXE) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Kanchan Daniel](https://open.spotify.com/artist/3PLLYBkFo8mZO9JIsXRRUA) | [Music For The \# Generation](https://open.spotify.com/album/5eEqeXiXjxhcZisBravDBr) | 3:39 | 2023-10-20 |  |
 | [Desire](https://open.spotify.com/track/3ksugse2MMQvb5RwILo8gL) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Ampresi](https://open.spotify.com/artist/5Fn1hBOpMl6EGasVkGAZ1P) | [Desire](https://open.spotify.com/album/2ZUXqOCce6uUxWYD7ZTfiU) | 3:50 | 2023-10-20 |  |
-| [Easy To Say](https://open.spotify.com/track/3j9VzQkNGlZsr5582nKC1A) | [\#BBC](https://open.spotify.com/artist/0Q6aidKFOfCW2H1OW0ExOV) | [Easy To Say](https://open.spotify.com/album/6XSZrddGLhqcfSTcRZ3Rdp) | 2:55 | 2023-10-20 |  |
+| [Easy to Say](https://open.spotify.com/track/34vphJNw9MpZqkNhOXEXkp) | [\#BBC](https://open.spotify.com/artist/0Q6aidKFOfCW2H1OW0ExOV) | [Easy to Say](https://open.spotify.com/album/7upEImDiNfOU0XNPjGQbWL) | 2:55 | 2023-12-06 |  |
+| [Easy To Say](https://open.spotify.com/track/3j9VzQkNGlZsr5582nKC1A) | [\#BBC](https://open.spotify.com/artist/0Q6aidKFOfCW2H1OW0ExOV) | [Easy To Say](https://open.spotify.com/album/6XSZrddGLhqcfSTcRZ3Rdp) | 2:55 | 2023-10-20 | 2024-01-29 |
 | [Flash](https://open.spotify.com/track/216RNiFj3BXXJZeYdCuUUr) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Flash](https://open.spotify.com/album/7EGry35I28U6reu63FlS4g) | 2:41 | 2023-10-20 |  |
 | [For My Own](https://open.spotify.com/track/3YKfLsDKd1e6IOCGApfI4d) | [FLiPKiCK](https://open.spotify.com/artist/117KJptkj4EDWkL45naFY3), [Splinter Cub](https://open.spotify.com/artist/7Jna317w0DhXpCzuM1qe6N), [Elation](https://open.spotify.com/artist/2ZTd1ErAfMHBgLDKSv7aKW) | [For My Own](https://open.spotify.com/album/1Bl5tGw5Pf8m5F0C2hsDQu) | 3:41 | 2023-10-20 |  |
 | [Fusion](https://open.spotify.com/track/5QB4LOyZW7ciFPu8uC7HO9) | [Aneesh Chengappa](https://open.spotify.com/artist/5gVQeVBF1ycIuAYwTDgZ95) | [Fusion](https://open.spotify.com/album/7zcsAMbDZv6gNmmkV7ew3E) | 2:48 | 2023-10-20 |  |

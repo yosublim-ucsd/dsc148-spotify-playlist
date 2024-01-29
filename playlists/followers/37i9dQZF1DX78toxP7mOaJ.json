@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 136375,
+  "2024-01-29": 136428,
   "date_first_scraped": "2021-12-21",
   "description": "Fresh rock from independent artists every Wednesday. Cover: The Thing",
   "name": "Fresh Finds Rock ",
@@ -16577,10 +16577,28 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 192032,
       "name": "REDEMPTION ARC",
       "url": "https://open.spotify.com/track/69uGaFUvNf55i7DbRzpQSU"
+    },
+    {
+      "album": {
+        "name": "REDEMPTION ARC",
+        "url": "https://open.spotify.com/album/2bWOtzB4HJXlXPbSc8R2xn"
+      },
+      "artists": [
+        {
+          "name": "instant crush",
+          "url": "https://open.spotify.com/artist/6CzsxPxOIeXoyhmNiFmtmu"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192032,
+      "name": "REDEMPTION ARC",
+      "url": "https://open.spotify.com/track/6JRqhGQtFgO9mJgisIUreE"
     },
     {
       "album": {

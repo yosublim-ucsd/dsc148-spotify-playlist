@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: BENNETT, Indila
 
-750 songs - 1 day 10 hr 30 min
+751 songs - 1 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Back In '99](https://open.spotify.com/track/2go9hE9lNmxdPdUSd2X2uh) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Back In '99](https://open.spotify.com/album/4QKHJEN7HIzyMDP7QCfhzs) | 2:47 | 2023-12-14 | 2024-01-12 |
 | [BANG!](https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [BANG!](https://open.spotify.com/album/3u5seutkhK9M6DdLiTaZMa) | 2:48 | 2023-08-31 | 2023-09-15 |
 | [Be Forever](https://open.spotify.com/track/57i7s7mYtdRP4hgnSpHEOG) | [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R) | [Be Forever](https://open.spotify.com/album/3FlPHbTYVAWuK5dXCq7dBh) | 2:37 | 2023-09-14 | 2023-09-29 |
-| [Beat Of Your Heart](https://open.spotify.com/track/0prrKDxUVhyN9UMtD2m499) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Beat Of Your Heart](https://open.spotify.com/album/0FemeRyKTEUCQUDiBu7NIL) | 3:29 | 2024-01-25 |  |
+| [Beat Of Your Heart](https://open.spotify.com/track/0prrKDxUVhyN9UMtD2m499) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Beat Of Your Heart](https://open.spotify.com/album/0FemeRyKTEUCQUDiBu7NIL) | 3:29 | 2024-01-25 | 2024-01-29 |
+| [Beat Of Your Heart](https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Beat Of Your Heart](https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr) | 3:29 | 2024-01-26 |  |
 | [Beautiful Life \- Faustix RMX](https://open.spotify.com/track/27r1J3SrSwVoRHIcb5FdIh) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Beautiful Life \(Faustix RMX\)](https://open.spotify.com/album/621d4r3IhIOtDRJZLEtKWh) | 2:59 | 2023-10-12 | 2023-11-11 |
 | [Beautiful Madness](https://open.spotify.com/track/76JietWY2atfnysaXK1xJI) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [Marc Korn](https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt), [Semitoo](https://open.spotify.com/artist/4MWJBSx7ScBa5ETzTjdFvk) | [Beautiful Madness](https://open.spotify.com/album/1ZbYagUM7dPGABC1nebsWd) | 2:08 | 2023-09-14 | 2023-09-29 |
 | [Because I Love You](https://open.spotify.com/track/3sC0fJkTwfYMz4sRXHBY7h) | [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf) | [Because I Love You](https://open.spotify.com/album/0CR6r5SZkvhSIVvOZ0QZ5Y) | 2:57 | 2024-01-18 | 2024-01-26 |

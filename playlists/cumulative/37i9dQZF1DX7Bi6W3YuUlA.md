@@ -4,7 +4,7 @@
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-374 songs - 18 hr 44 min
+375 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,8 @@
 | [Thru The Fire \(feat\. Chance the Rapper\)](https://open.spotify.com/track/5UMTz4b4eN7IrmXBXRNsME) | [Grace Weber](https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Thru The Fire \(feat\. Chance the Rapper\)](https://open.spotify.com/album/3ZU5l3OoptXPNrqdjd0jPO) | 2:54 | 2021-12-11 | 2022-07-29 |
 | [TIDAL WAVE](https://open.spotify.com/track/7LiqwJEzsr7wt0Fdsylc4M) | [Spencer Kane](https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb) | [TIDAL WAVE](https://open.spotify.com/album/1kqy6QTtfW2fglB0umPFms) | 3:53 | 2021-12-11 | 2022-07-27 |
 | [Time](https://open.spotify.com/track/5z0zUqvdGKqcXkgKgzqdoJ) | [Prince Von](https://open.spotify.com/artist/0O0xVzL5CCE9OjYbDChRE5), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav) | [Time](https://open.spotify.com/album/6q4Uz4AzGVRleCydh9plE9) | 3:30 | 2021-12-11 | 2022-04-25 |
-| [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 | 2022-03-25 |  |
+| [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 | 2022-03-25 | 2024-01-29 |
+| [Toast \- Remix](https://open.spotify.com/track/5Nc0d8sxVWjUoH85NuCiJU) | [J Star](https://open.spotify.com/artist/4XoVFXRNNMzxuEpxRt2lqp) | [Toast \(Remix\)](https://open.spotify.com/album/24oZPmdzVJ7X5agJbGpK8d) | 3:07 | 2023-02-18 |  |
 | [Too Far In Love](https://open.spotify.com/track/5jJitdFoXDG4NOE1EKOPzi) | [Tmmrw](https://open.spotify.com/artist/4yrVT3iI0uEPzTvGBKEiRf) | [Too Far In Love](https://open.spotify.com/album/71o4kxfGdcSLGBy9l01j9B) | 2:49 | 2021-12-11 | 2022-07-22 |
 | [Trials and Tribulations](https://open.spotify.com/track/5vlGygcIVC8P6Mvj1f42aK) | [Lil Goat](https://open.spotify.com/artist/40zuFXVJaYmGFpEXojbUiV) | [Trials and Tribulations](https://open.spotify.com/album/6WiSBKRCDWzOR8Y8DNO7jM) | 3:49 | 2022-05-28 | 2022-06-12 |
 | [Tricky](https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Tricky](https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB) | 2:12 | 2022-11-18 |  |

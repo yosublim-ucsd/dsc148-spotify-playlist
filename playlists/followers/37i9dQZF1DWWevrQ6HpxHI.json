@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 201321,
+  "2024-01-29": 201357,
   "date_first_scraped": "2023-05-19",
   "description": "Over 5 hours of classic heaters \ud83d\udd25",
   "name": "Summer Bangers",
@@ -1229,7 +1229,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 168387,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
@@ -1255,7 +1255,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 168387,
       "name": "Lose Control (with Meduza & Goodboys)",
       "url": "https://open.spotify.com/track/7dx2BcBcf0OzegEX7AvkGg"
@@ -2219,10 +2219,32 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 195533,
       "name": "This Girl - Kungs Vs. Cookin' On 3 Burners",
       "url": "https://open.spotify.com/track/0slOfqij6DK31JhkWLQLBj"
+    },
+    {
+      "album": {
+        "name": "\u5927\u6383\u9664\u304c\u306f\u304b\u3069\u308b\u6d0b\u697d\u30d2\u30c3\u30c4",
+        "url": "https://open.spotify.com/album/5wWvsNRs99bNW8USlLJW4r"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195561,
+      "name": "This Girl - Kungs Vs. Cookin' On 3 Burners",
+      "url": "https://open.spotify.com/track/4qLAdBMTzixqAAexCs0TrL"
     },
     {
       "album": {

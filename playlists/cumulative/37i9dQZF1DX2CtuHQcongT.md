@@ -4,13 +4,14 @@
 
 > Enjoy game music from SEGA classic soundtracks including SONIC, SPACE HARRIER and OutRun\. SEGA名作ゲームサントラの世界へようこそ！
 
-107 songs - 5 hr 35 min
+108 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Anu Orta Veniya](https://open.spotify.com/track/3E974axWCqFooWXzzuIvFc) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [パンツァードラグーン オルタ オリジナルサウンドトラック](https://open.spotify.com/album/1KZnXO5UQT0rzoLhDRQDze) | 5:28 | 2021-09-14 | 2022-07-29 |
 | [Anu Orta Veniya](https://open.spotify.com/track/4fI6mge33CFDf68gDh6NIp) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Panzer Dragoon Orta Original Soundtrack](https://open.spotify.com/album/3kKsFvmgIeJshU1yQP0Eds) | 5:28 | 2021-09-14 |  |
-| [Bakamitai \- Taxi Driver Edition](https://open.spotify.com/track/4xXu9UO2qdBotUOfqru2UC) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [Kazuma Kiryu Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj) | 4:51 | 2021-09-14 |  |
+| [Bakamitai \- Taxi Driver Edition](https://open.spotify.com/track/4xXu9UO2qdBotUOfqru2UC) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [Kazuma Kiryu Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj) | 4:51 | 2021-09-14 | 2024-01-29 |
+| [BAKAMITAI \- Taxi Driver Edition](https://open.spotify.com/track/67WpDwkzxYoCiCauQN1V1a) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [LIKE A DRAGON 8 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7DEXskff0xQFFwH6kTRKWv) | 4:52 | 2023-10-01 |  |
 | [BATTLE FIELD \- SPACE HARRIER\(ARCADE\)](https://open.spotify.com/track/0gAcj9wGZuv01nUHjnHI13) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [SPACE HARRIER II 〜SPACE HARRIER COMPLETE COLLECTION〜 ORIGINAL SOUNDTRACK\(Bonus Track\)](https://open.spotify.com/album/7sVQDE20rLpkvFx2AsyVs9) | 1:19 | 2021-09-14 | 2022-07-29 |
 | [BATTLE FIELD \- SPACE HARRIER\(ARCADE\)](https://open.spotify.com/track/59BzzOSzxWmXUWzKGLvjRx) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [SPACE HARRIER II 〜SPACE HARRIER COMPLETE COLLECTION〜 ORIGINAL SOUNDTRACK\(Bonus Track\)](https://open.spotify.com/album/3lUdX3qpIVb7qwZZBsfwRA) | 1:19 | 2021-09-14 |  |
 | [Battle For Justice II](https://open.spotify.com/track/04EzuITyJdEBc0bOeWUEhS) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Chain Chronicle Original Sound Track](https://open.spotify.com/album/0pAKeQprz6aHrMqdCBZjaO) | 2:41 | 2021-09-14 |  |

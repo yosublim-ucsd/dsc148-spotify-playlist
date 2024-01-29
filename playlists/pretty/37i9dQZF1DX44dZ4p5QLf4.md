@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: Elmiene
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,985 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,034 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 70 | [Get Away](https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Get Away](https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK) | 3:03 |
 | 71 | [Beach](https://open.spotify.com/track/2AsxkwENblcn7EzycEZbkQ) | [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV), [Niké Laos](https://open.spotify.com/artist/2s1srNtreW8p5TYjWQ1VN3) | [Selfish](https://open.spotify.com/album/4wnxRDYuAbwAZTxXcAq6vZ) | 2:57 |
 | 72 | [Price You Pay](https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Price You Pay](https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML) | 3:03 |
-| 73 | [Falling Off You](https://open.spotify.com/track/4WaYPUUyqFvENamtOiLMY5) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Actually, I Can.](https://open.spotify.com/album/0L0JffGJcm2ybbDcd6BJmO) | 3:41 |
+| 73 | [Falling Off You](https://open.spotify.com/track/7mRsuVy3oqbfSLKXYHJCXV) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Actually, I Can.](https://open.spotify.com/album/4JXNlrGjAQUvx4qFA5Yban) | 3:41 |
 | 74 | [TEARS OF JOY](https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN EP](https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D) | 3:23 |
 | 75 | [Screw My Head Back On](https://open.spotify.com/track/2tlhFFTqAcM2OgAF4NOAtY) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5), [Len](https://open.spotify.com/artist/2iYJH0zXVSgpM6Ln6zslxj) | [Screw My Head Back On](https://open.spotify.com/album/41ipmhsYupEWd8N3rrNudY) | 2:56 |
 | 76 | [How Long](https://open.spotify.com/track/3kbDEejuDSeOS2biB43MNq) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Nia Wyn](https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Keymer](https://open.spotify.com/artist/11KbGk05uR2COLPYEqehU3) | [How Long](https://open.spotify.com/album/7HUqyV0fOajsXvFxDvdHEO) | 3:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 79 | [Bad Company](https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Bad Company](https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230) | 3:38 |
 | 80 | [Sweet Distraction](https://open.spotify.com/track/6YaQQnajGqFsly2ckrZmw7) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [Sweet Distraction](https://open.spotify.com/album/05EE5Cuom9zgpxbs07xeRE) | 2:51 |
 
-Snapshot ID: `MCwwNmI0ZjU4NTZkMjdkYjk4NDUzNmY0NWExZjA0YmJlNDNmNGVjZjJi`
+Snapshot ID: `MCxlOGY5YzFjOTc0ZWM0YzJhMjE4ZGJhYzJjM2Q1YjcwMTk2ZmNhNDhm`

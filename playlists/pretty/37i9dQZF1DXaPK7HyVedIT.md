@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Cat Dealers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,198,526 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,197,741 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 74 | [Fly Away](https://open.spotify.com/track/7gQzv8EeV2LKGoF6dGtL3P) | [Barja](https://open.spotify.com/artist/5uBR08vndaYNR50ZqRWthK) | [Fly Away](https://open.spotify.com/album/3kn9zwMVOE1Ighr5ZvN5mo) | 5:40 |
 | 75 | [Turn It On](https://open.spotify.com/track/6Euen4Ocjf0nMlXroL5YYO) | [Royale BR](https://open.spotify.com/artist/6OLLWuyehNLw5nFKLok3gs), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Turn It On](https://open.spotify.com/album/7ncH0Ng2E0oZrAt2T7krmi) | 3:21 |
 
-Snapshot ID: `MCw5NGQyYmNjMzdmNTI4MGEyZWFjZjRhMmI3OThhZWMwOWY1MjI1ZGVh`
+Snapshot ID: `MCxjYTQ0YWU1Yjc2OTcwYzVlZWE4YWMxZmU3ZjcxZmI5YzU4NzY4Njk0`

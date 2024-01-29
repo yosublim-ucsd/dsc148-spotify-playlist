@@ -4,7 +4,7 @@
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-306 songs - 12 hr 22 min
+307 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,8 @@
 | [Need \(Bonus Track\)](https://open.spotify.com/track/01aojvlRe3mwlEwTnLVUbs) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [B2B](https://open.spotify.com/album/51Esh2ddbUkN2u9P00PFR8) | 2:37 | 2023-11-10 |  |
 | [Need Your Body](https://open.spotify.com/track/4Z7YhHGk0gmipGgTc9PASI) | [Jaeo Draftpick](https://open.spotify.com/artist/3ZFFfdm5Xl5W3U0sX9Y9Uq), [DJ Scenario](https://open.spotify.com/artist/34kyEo5yp0o6ZrgpoZNnHE) | [Need Your Body](https://open.spotify.com/album/7sqFwj4nu19GzsxJzg9Ogi) | 2:44 | 2022-09-02 | 2023-07-20 |
 | [No Days Off](https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [No Days Off](https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS) | 3:15 | 2023-05-30 |  |
-| [NO IDEA \#jerseyclub](https://open.spotify.com/track/4uNzalrFBK6dPKiQffmQBo) | [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl), [Indo2x](https://open.spotify.com/artist/3WQnwswrc0FaQ6AqenFuFE) | [NO IDEA \#jerseyclub](https://open.spotify.com/album/4wNgysj3uaCO6VhPYzzXdA) | 2:36 | 2024-01-26 |  |
+| [NO IDEA \#jerseyclub](https://open.spotify.com/track/0CL7inoRs82nkhuRyxjqmg) | [SUKI](https://open.spotify.com/artist/343XMDCksvdaU1XrNmthr3) | [NO IDEA \#jerseyclub](https://open.spotify.com/album/1jVuBD5qkC4WYWYjtcwtXq) | 2:36 | 2024-01-26 |  |
+| [NO IDEA \#jerseyclub](https://open.spotify.com/track/4uNzalrFBK6dPKiQffmQBo) | [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl), [Indo2x](https://open.spotify.com/artist/3WQnwswrc0FaQ6AqenFuFE) | [NO IDEA \#jerseyclub](https://open.spotify.com/album/4wNgysj3uaCO6VhPYzzXdA) | 2:36 | 2024-01-26 | 2024-01-29 |
 | [No Lies](https://open.spotify.com/track/7N1Fo26nFRTsqufTQ6eJQR) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1), [Yū Novaa](https://open.spotify.com/artist/3A9QsMXZE9PQi4DRfoNBVU) | [No Lies](https://open.spotify.com/album/1WSpih9o4iO0wjuS3JKkAK) | 2:07 | 2022-12-30 | 2023-01-06 |
 | [Nobody's Perfect \- Original Mix](https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A) | [DJ Tray](https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg) | [New Jersey Club EP](https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4) | 1:38 | 2022-02-11 | 2023-08-12 |
 | [Nxwxrk \- Dj Sliink Remix](https://open.spotify.com/track/3vYd0cHIpVfOj86097PwZZ) | [Nadus](https://open.spotify.com/artist/59myknL407PNXcExTEeUpU), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Broke City \(Deluxe\)](https://open.spotify.com/album/6WBDzqrCcXti6p8sfRh3QL) | 4:24 | 2022-02-11 | 2022-07-29 |

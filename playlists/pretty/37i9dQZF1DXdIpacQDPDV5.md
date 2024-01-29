@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Kiesza
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,744 likes - 65 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,791 likes - 65 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 64 | [Where Would I Be](https://open.spotify.com/track/4CmQ63dOuY5T6i8A6asTPR) | [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x) | [Where Would I Be](https://open.spotify.com/album/1A5GsDaqFJMcMcA3pkv9zD) | 4:00 |
 | 65 | [Hollow](https://open.spotify.com/track/3gByRyiigH782nWRRA5AO0) | [Jack Trades](https://open.spotify.com/artist/1tvnV6kDJfjfVqpuFKSA2s), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Hollow](https://open.spotify.com/album/419GAsyEbISUne6I62pkpk) | 2:59 |
 
-Snapshot ID: `MCwzMjFjZTZlN2Q4MGI0YzYyNzhiZTM1NjczZmE1NjU3OWIyZWM2MzRk`
+Snapshot ID: `MCxjYjA3NTkzM2I1YjU5NzJhOTFiNTExYjZiMzVjMGE0NTkzZTkxMzJh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,350 likes - 88 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,358 likes - 88 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 78 | [Elysium](https://open.spotify.com/track/3eC3ISlCf8yBbLCg8snmbF) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [Renascentia](https://open.spotify.com/album/5R7cUADCzBIPUfq0hrSv2N) | 3:11 |
 | 79 | [Play for Keeps](https://open.spotify.com/track/57eoDpCIH3hQmmy6NbuBxQ) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9) | [Play for Keeps](https://open.spotify.com/album/2IrUKNMogEptODtx7b9aBU) | 3:17 |
 | 80 | [Wishes And Butterflies](https://open.spotify.com/track/2bJiq43RRoWzh8szaaLD6K) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Wishes And Butterflies](https://open.spotify.com/album/3N9LYpcxF7H0pJGafs44VW) | 1:24 |
-| 81 | [Siamese](https://open.spotify.com/track/2LI7jT5sSpUGeJHUsnDtC9) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Spacely](https://open.spotify.com/artist/1aH8ONeaFrJxobc6rV0zCR) | [Siamese](https://open.spotify.com/album/2biM1kK3imQ4Oggjl1VuGn) | 4:06 |
+| 81 | [Siamese](https://open.spotify.com/track/2LI7jT5sSpUGeJHUsnDtC9) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Spacely](https://open.spotify.com/artist/3VD8HpkZWjn5HnDRyunLs5) | [Siamese](https://open.spotify.com/album/2biM1kK3imQ4Oggjl1VuGn) | 4:06 |
 | 82 | [Squad](https://open.spotify.com/track/48KxNEn76nPC6Tq08tRGFW) | [Idris King](https://open.spotify.com/artist/72RaYOqPyRGRgaXP5XNXR1) | [Squad](https://open.spotify.com/album/6iCd662RxmzQtMdEvInl88) | 3:12 |
 | 83 | [My Wave](https://open.spotify.com/track/7FbmKPvnVKpyd45jDsRhlF) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sona](https://open.spotify.com/artist/2Z4SIKdYcugWq0fyvPpA7w), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Leap of Faith](https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl) | 4:19 |
 | 84 | [Juno](https://open.spotify.com/track/5AOPmzieeja8yhoPrVGpbr) | [Suté](https://open.spotify.com/artist/61rrCRzJaoWeZ9oknq0S0Y) | [JERICHO ROSE](https://open.spotify.com/album/1sy6NWN50xhFyNLb9cyxbL) | 3:16 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 87 | [Sunday Morning](https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Phases EP](https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG) | 3:20 |
 | 88 | [Godzilla](https://open.spotify.com/track/1SFIUpNbKHb6IxDv63OB75) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH) | [La Meme Tape](https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT) | 3:21 |
 
-Snapshot ID: `MCw3MGM2YTNlYzQ0N2E1OTlhOTlkNjg1YWU1OGNjZTJlMjhjODY0MTRl`
+Snapshot ID: `MCxhYzFiMTAxYjkxOWZmNjI3MGVhZTAxNzVhOWI1Y2I2M2NiYzQ0OTQ4`

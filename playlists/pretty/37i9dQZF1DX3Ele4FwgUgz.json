@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Love Live! Nijigasaki High School Idol Club\" \u300c\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\n\u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
-  "num_followers": 14312,
+  "num_followers": 14327,
   "original_name": "Love Live! Nijigasaki High School Idol Club \u30e9\u30d6\u30e9\u30a4\u30d6!\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTNiNDVkODFiNDI3YTI5YTExNjAyMTlmMThmZDQ0NWJlNzkyYzI3",
+  "snapshot_id": "MCw5YTM3NTQ5ZDkyYmViNTk3ZjhmNDdmNWM3MjM4NWUyYmE1ZDVmNzBl",
   "tracks": [
     {
       "added_at": "2024-01-23 18:34:42",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-01-23 18:34:42",
       "album": {
-        "name": "Fly with You!!",
-        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
-      },
-      "artists": [
-        {
-          "name": "Lanzhu Zhong (CV: Akina Homoto)",
-          "url": "https://open.spotify.com/artist/71EQKxwB0ZJrPEhW0Sz6sf"
-        }
-      ],
-      "duration_ms": 237813,
-      "name": "5201314",
-      "url": "https://open.spotify.com/track/58N59QptRCYvEee9KKTURD"
-    },
-    {
-      "added_at": "2024-01-23 18:34:42",
-      "album": {
         "name": "Infinity! Our wings!!",
         "url": "https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 271106,
       "name": "Infinity\uff01Our wings!!",
       "url": "https://open.spotify.com/track/0Ozd2HHjz6HZEbmttB6bMO"
+    },
+    {
+      "added_at": "2024-01-23 18:34:42",
+      "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
+      },
+      "artists": [
+        {
+          "name": "Lanzhu Zhong (CV: Akina Homoto)",
+          "url": "https://open.spotify.com/artist/71EQKxwB0ZJrPEhW0Sz6sf"
+        }
+      ],
+      "duration_ms": 237813,
+      "name": "5201314",
+      "url": "https://open.spotify.com/track/58N59QptRCYvEee9KKTURD"
     },
     {
       "added_at": "2024-01-23 18:34:42",
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-01-23 18:34:42",
       "album": {
-        "name": "MONSTER GIRLS",
-        "url": "https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar"
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
       },
       "artists": [
         {
-          "name": "R3BIRTH",
-          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
+          "name": "Setsuna Yuki (CV: Coco Hayashi)",
+          "url": "https://open.spotify.com/artist/4uhgRKs6zvKdexMFWGRxwT"
         }
       ],
-      "duration_ms": 236746,
-      "name": "MONSTER GIRLS",
-      "url": "https://open.spotify.com/track/6ZGnmaySGGk2pcprMoBX73"
+      "duration_ms": 219840,
+      "name": "Cherry Bomb",
+      "url": "https://open.spotify.com/track/6Ut3eQN8VLwQXjRejHmNk3"
     },
     {
       "added_at": "2024-01-23 18:34:42",
@@ -579,18 +579,18 @@
     {
       "added_at": "2024-01-23 18:34:42",
       "album": {
-        "name": "Fly with You!!",
-        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
+        "name": "MONSTER GIRLS",
+        "url": "https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar"
       },
       "artists": [
         {
-          "name": "Setsuna Yuki (CV: Coco Hayashi)",
-          "url": "https://open.spotify.com/artist/4uhgRKs6zvKdexMFWGRxwT"
+          "name": "R3BIRTH",
+          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
         }
       ],
-      "duration_ms": 219840,
-      "name": "Cherry Bomb",
-      "url": "https://open.spotify.com/track/6Ut3eQN8VLwQXjRejHmNk3"
+      "duration_ms": 236746,
+      "name": "MONSTER GIRLS",
+      "url": "https://open.spotify.com/track/6ZGnmaySGGk2pcprMoBX73"
     },
     {
       "added_at": "2024-01-23 18:34:42",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-01-23 18:34:42",
       "album": {
-        "name": "Vroom Vroom",
-        "url": "https://open.spotify.com/album/4luDm6B6w59F3oJzTbAzfX"
-      },
-      "artists": [
-        {
-          "name": "R3BIRTH",
-          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "\u30d0\u30d6\u30eb\u30aa\u30fc\u30d0\u30fc\uff01",
-      "url": "https://open.spotify.com/track/6OUbiO6I3jYhfFzoBr27hd"
-    },
-    {
-      "added_at": "2024-01-23 18:34:42",
-      "album": {
         "name": "TOKIMEKI Runners",
         "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 224720,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/2H8qziW7IGOPO3yXAhk9o4"
+    },
+    {
+      "added_at": "2024-01-23 18:34:42",
+      "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
+      },
+      "artists": [
+        {
+          "name": "Shizuku Osaka (CV: Kaori Maeda)",
+          "url": "https://open.spotify.com/artist/0wr7BgwyUkizi1cVYkzxk7"
+        }
+      ],
+      "duration_ms": 242933,
+      "name": "Koakuma LOVE",
+      "url": "https://open.spotify.com/track/1dkFzcQjaw7YkPT83raO3j"
     },
     {
       "added_at": "2024-01-23 18:34:42",
@@ -712,22 +712,6 @@
       },
       "artists": [
         {
-          "name": "Shizuku Osaka (CV: Kaori Maeda)",
-          "url": "https://open.spotify.com/artist/0wr7BgwyUkizi1cVYkzxk7"
-        }
-      ],
-      "duration_ms": 242933,
-      "name": "Koakuma LOVE",
-      "url": "https://open.spotify.com/track/1dkFzcQjaw7YkPT83raO3j"
-    },
-    {
-      "added_at": "2024-01-23 18:34:42",
-      "album": {
-        "name": "Fly with You!!",
-        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
-      },
-      "artists": [
-        {
           "name": "Shioriko Mifune (CV: Moeka Koizumi)",
           "url": "https://open.spotify.com/artist/3hVNHMjYAkdcgYgqxXy1G3"
         }
@@ -735,6 +719,22 @@
       "duration_ms": 260252,
       "name": "Kofukuron",
       "url": "https://open.spotify.com/track/05DZPBOfAqqdywyCX33yh1"
+    },
+    {
+      "added_at": "2024-01-23 18:34:42",
+      "album": {
+        "name": "Vroom Vroom",
+        "url": "https://open.spotify.com/album/4luDm6B6w59F3oJzTbAzfX"
+      },
+      "artists": [
+        {
+          "name": "R3BIRTH",
+          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "\u30d0\u30d6\u30eb\u30aa\u30fc\u30d0\u30fc\uff01",
+      "url": "https://open.spotify.com/track/6OUbiO6I3jYhfFzoBr27hd"
     },
     {
       "added_at": "2024-01-23 18:34:42",

@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 139906,
+  "num_followers": 139962,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWI2NDNlMDYxNWI5MDM3ZDg1ZGNmMmIzNGY4ZmQwZGU5MjIxZmZl",
+  "snapshot_id": "MCxjYjJjZTZjY2M0YWQyN2E3ODM3MDYxOWZhOWJhODQ4NTRmMGYxOTFl",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Sue\u00f1os de Juventud",
-        "url": "https://open.spotify.com/album/4cQY4cujpOI7UvLj34JBbk"
-      },
-      "artists": [
-        {
-          "name": "DKDA",
-          "url": "https://open.spotify.com/artist/0nMUgbsNVXEOVBTB5JBoxb"
-        }
-      ],
-      "duration_ms": 335751,
-      "name": "\u00c1mame Como Soy (En Vivo)",
-      "url": "https://open.spotify.com/track/3tc8mJk3KTTiSmmAQiqKz1"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Mis 30 Mejores Canciones",
         "url": "https://open.spotify.com/album/4OFqUGVCznz7kSWhdpSkN4"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 302453,
       "name": "S\u00f3lo Importas T\u00fa",
       "url": "https://open.spotify.com/track/4dCj8lsb7xO4Wlz4P8RcMb"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Sue\u00f1os de Juventud",
+        "url": "https://open.spotify.com/album/4cQY4cujpOI7UvLj34JBbk"
+      },
+      "artists": [
+        {
+          "name": "DKDA",
+          "url": "https://open.spotify.com/artist/0nMUgbsNVXEOVBTB5JBoxb"
+        }
+      ],
+      "duration_ms": 335751,
+      "name": "\u00c1mame Como Soy (En Vivo)",
+      "url": "https://open.spotify.com/track/3tc8mJk3KTTiSmmAQiqKz1"
     },
     {
       "added_at": "2022-05-06 18:32:26",

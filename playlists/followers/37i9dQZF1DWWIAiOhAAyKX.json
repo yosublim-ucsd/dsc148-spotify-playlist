@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 206401,
+  "2024-01-29": 206441,
   "date_first_scraped": "2022-02-02",
   "description": "if bunny is on, you know it's a good perreo.",
   "name": "Party Bunny",
@@ -83,7 +83,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 202240,
       "name": "BAD CON NICKY",
       "url": "https://open.spotify.com/track/5bmSver2b3ZXyuyLKtgnFI"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 188654,
       "name": "Cuando Perriabas",
       "url": "https://open.spotify.com/track/5mj8WVFcKdGA8p9HWGTSLc"

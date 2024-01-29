@@ -1,12 +1,12 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1825,
+  "num_followers": 1823,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmYxMDMxYmQyNjY3MWQ3ZDdjMDc5NzUzYmE0MmQyZjg1YmM5NzY1",
+  "snapshot_id": "MCxjMjk0NTNhZTE2ZTViNGQzYjM1MTlmYWMyMWI4OGU5YWJlYzIzZjY0",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -413,20 +413,20 @@
       "url": "https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m"
     },
     {
-      "added_at": "2022-03-28 19:29:09",
+      "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Amazing Ames Brothers",
-        "url": "https://open.spotify.com/album/4Mb59LfU7RrMOZTh6qx8IP"
+        "name": "50 Best Hits",
+        "url": "https://open.spotify.com/album/7eugEzpVGg4umQRaFD4ocg"
       },
       "artists": [
         {
-          "name": "The Ames Brothers",
-          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
+          "name": "The Five Satins",
+          "url": "https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS"
         }
       ],
-      "duration_ms": 179146,
-      "name": "Undecided",
-      "url": "https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22"
+      "duration_ms": 164511,
+      "name": "To the Aisle",
+      "url": "https://open.spotify.com/track/08KiBWh7EreFKWKSv8SIrh"
     },
     {
       "added_at": "2022-03-28 19:29:09",
@@ -445,20 +445,20 @@
       "url": "https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq"
     },
     {
-      "added_at": "2020-08-17 22:49:59",
+      "added_at": "2022-03-28 19:29:09",
       "album": {
-        "name": "50 Best Hits",
-        "url": "https://open.spotify.com/album/7eugEzpVGg4umQRaFD4ocg"
+        "name": "The Amazing Ames Brothers",
+        "url": "https://open.spotify.com/album/4Mb59LfU7RrMOZTh6qx8IP"
       },
       "artists": [
         {
-          "name": "The Five Satins",
-          "url": "https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS"
+          "name": "The Ames Brothers",
+          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
         }
       ],
-      "duration_ms": 164511,
-      "name": "To the Aisle",
-      "url": "https://open.spotify.com/track/08KiBWh7EreFKWKSv8SIrh"
+      "duration_ms": 179146,
+      "name": "Undecided",
+      "url": "https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -519,22 +519,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Best Of The Ames",
-        "url": "https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0"
-      },
-      "artists": [
-        {
-          "name": "The Ames Brothers",
-          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
-        }
-      ],
-      "duration_ms": 166520,
-      "name": "Rag Mop",
-      "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The Merry Macs Sing Mairzy Doats",
         "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 169000,
       "name": "Secret Love",
       "url": "https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Best Of The Ames",
+        "url": "https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0"
+      },
+      "artists": [
+        {
+          "name": "The Ames Brothers",
+          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
+        }
+      ],
+      "duration_ms": 166520,
+      "name": "Rag Mop",
+      "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -695,22 +695,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Best Of The Four Coins",
-        "url": "https://open.spotify.com/album/5QpanrSfnut4MbnbG8ryH9"
-      },
-      "artists": [
-        {
-          "name": "The Four Coins",
-          "url": "https://open.spotify.com/artist/1XQXkciRULT2PXhRUtmmuH"
-        }
-      ],
-      "duration_ms": 139520,
-      "name": "My One Sin",
-      "url": "https://open.spotify.com/track/0gWKRxc5ncnS3wxXF1E9jV"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The Kirby Stone Touch",
         "url": "https://open.spotify.com/album/2BeXXbbvUL4qzsm8A6W9pA"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 129866,
       "name": "Lullaby of Birdland",
       "url": "https://open.spotify.com/track/4ZQebNut4njSuTIJe7l3UH"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "Best Of The Four Coins",
+        "url": "https://open.spotify.com/album/5QpanrSfnut4MbnbG8ryH9"
+      },
+      "artists": [
+        {
+          "name": "The Four Coins",
+          "url": "https://open.spotify.com/artist/1XQXkciRULT2PXhRUtmmuH"
+        }
+      ],
+      "duration_ms": 139520,
+      "name": "My One Sin",
+      "url": "https://open.spotify.com/track/0gWKRxc5ncnS3wxXF1E9jV"
     },
     {
       "added_at": "2020-08-17 22:49:59",

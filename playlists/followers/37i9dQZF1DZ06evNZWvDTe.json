@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 9885,
+  "2024-01-29": 9889,
   "date_first_scraped": "2021-12-29",
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
   "name": "This Is Sarkodie",
@@ -3049,6 +3049,32 @@
       "duration_ms": 225625,
       "name": "U Go Kill Me (feat. El)",
       "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
+    },
+    {
+      "album": {
+        "name": "Undress You (feat. Sarkodie)",
+        "url": "https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO"
+      },
+      "artists": [
+        {
+          "name": "K.J Spio",
+          "url": "https://open.spotify.com/artist/2FupL1k7vpEQwj6Rtp3bbJ"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "Undress You (feat. Sarkodie)",
+      "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > new gems by artists carving their own lane\. cover: Moonshine
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,640 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,694 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Alien Love Call](https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 3:42 |
 | 100 | [Boom Boom](https://open.spotify.com/track/4BID2xH9ckVVKRNTtcVluE) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ), [SKY LEON](https://open.spotify.com/artist/1ry1IbtMEE1MfHZJoDnaVT) | [Boom Boom](https://open.spotify.com/album/1b4ffSO1YHIGBhrlG5j6Ny) | 3:55 |
 
-Snapshot ID: `MCxjNjA2OTU3M2YyNzUxYTQzYjgwMjA5OGQ1Y2ZlMGY2MTAwZTAyY2Qw`
+Snapshot ID: `MCxkNTQzMmIyYWEzOTcyNGI0NTQ1NGQwMjdmMzk0NTg3NmNmODAxZTk4`

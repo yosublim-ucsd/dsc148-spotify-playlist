@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Static\-X
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,916 likes - 56 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,827 likes - 56 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 4 | [B.D.E.](https://open.spotify.com/track/2BRWzdsVX8CSDM9fGyMu2V) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [B.D.E.](https://open.spotify.com/album/3PAug8cbRYpww9PMjA29IK) | 4:27 |
 | 5 | [Miasma](https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9), [Winston McCall](https://open.spotify.com/artist/5SbE63j8ykElvWk3EZEmrx) | [Miasma](https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL) | 4:18 |
 | 6 | [Sucks 2 Suck](https://open.spotify.com/track/256sFTOD01wutUbC7omH17) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Sucks 2 Suck](https://open.spotify.com/album/4vApNOb7B86XOY1DdLcs7w) | 3:53 |
-| 7 | [Outcome](https://open.spotify.com/track/1T68xySFdNYYCjX9S0XtBa) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [The Affliction](https://open.spotify.com/album/3OPfTGs6dit3vywqCGpGHQ) | 3:25 |
+| 7 | [Outcome](https://open.spotify.com/track/54Mdl7oXai0VZ3usuCxIPb) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [The Affliction](https://open.spotify.com/album/1Sggf1c9AVCvAEAGaC9v6K) | 3:25 |
 | 8 | [Best Time](https://open.spotify.com/track/1wfXm0e3Un8DfIxWgQ6MER) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Limitless](https://open.spotify.com/album/15TD3hgcILW2sfZjQnBBbS) | 3:12 |
 | 9 | [Rain on the Graves](https://open.spotify.com/track/2DYquEUcjmMjxZYFKPON4L) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Rain on the Graves](https://open.spotify.com/album/13hB30MBr9lEVogRpiNBav) | 5:04 |
 | 10 | [Dark Empath](https://open.spotify.com/track/3IyMTdXLWF6bodKNRUMads) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [Dark Empath](https://open.spotify.com/album/6ywPoCmlwHdPnq2aAFXYSq) | 6:05 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 55 | [Concrete Spine](https://open.spotify.com/track/5yCKh0u40rC0gZfk1l7Upt) | [Beyond Thy Sight](https://open.spotify.com/artist/43Ag99L1ZBjV460Z8vKai8) | [Concrete Spine](https://open.spotify.com/album/4yqqtbMRznWLQeEToa3jf0) | 3:22 |
 | 56 | [ALPINA](https://open.spotify.com/track/1dNkg3YNIu6GfXXPKLaZ1n) | [Uz:ME](https://open.spotify.com/artist/4qg2BxtKMMtm10kaCj6bNt) | [ALPINA](https://open.spotify.com/album/5wHjh13gAnG0GNRQBMxZ6N) | 4:06 |
 
-Snapshot ID: `MCwwYjAyYTFiODczMTk1MzljYjQwN2JjZjY5ZDY0Y2U1M2Q2OGVmY2E4`
+Snapshot ID: `MCw1Yzk2MjhiOTJlN2Q3YzI2OWNkZjlmODFiOTI5YTIxMjAwNTMxNWYw`

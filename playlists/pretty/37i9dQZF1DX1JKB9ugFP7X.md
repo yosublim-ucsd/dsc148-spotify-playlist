@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 
 > Escucha lo mejor del pop electrónico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,852 likes - 95 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,853 likes - 95 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 47 | [Hay que venir al Sur](https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Hay que venir al Sur](https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC) | 3:48 |
 | 48 | [Quién Me Escucha](https://open.spotify.com/track/19e0zVRwZdpid0bGdYXxGi) | [Sandra Bernardo](https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw) | [Quién Me Escucha](https://open.spotify.com/album/0ZFJQ8aL8E9kxKapcZSN2V) | 3:18 |
 | 49 | [POSE!](https://open.spotify.com/track/0CBqdjYm2rVEEFbzxCtdLj) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [POSE!](https://open.spotify.com/album/20TZLmuA2scsAXFU62L1vN) | 2:52 |
-| 50 | [PURA](https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 2:14 |
-| 51 | [Un Dia de Verano](https://open.spotify.com/track/3GeqVjy0mj0rxdQEhorw8I) | [Milagros](https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU), [YOGAROCK](https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc) | [Un Dia de Verano](https://open.spotify.com/album/7mUWKTXni4xWqWkml6g3Yy) | 3:35 |
+| 50 | [Un Dia de Verano](https://open.spotify.com/track/3GeqVjy0mj0rxdQEhorw8I) | [Milagros](https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU), [YOGAROCK](https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc) | [Un Dia de Verano](https://open.spotify.com/album/7mUWKTXni4xWqWkml6g3Yy) | 3:35 |
+| 51 | [PURA](https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 2:14 |
 | 52 | [Sed](https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:26 |
 | 53 | [MAL NECESARIO](https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [MAL NECESARIO](https://open.spotify.com/album/2N7E8e5LmRFUv7yRnYazyB) | 2:54 |
 | 54 | [CONEXIÓN DE AMOR](https://open.spotify.com/track/58F5bd40PlBLvoRKzKWDCD) | [Make Mama Proud](https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI) | [Conexión De Amor](https://open.spotify.com/album/0Ix9AzDcPeQKSNYNzKSxSt) | 3:52 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 61 | [Arriba](https://open.spotify.com/track/3fD9K7rYQJi0IDozmqpGYp) | [Un Planeta](https://open.spotify.com/artist/3lk6Afqeq4ST8Yz15OkOHE) | [Des](https://open.spotify.com/album/0aNPqbzj34bIvcshvWSZLX) | 3:45 |
 | 62 | [Bajo Cero](https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb), [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [Bajo Cero](https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7) | 4:03 |
 | 63 | [TODO LO QUE HICIMOS.](https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa) | [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc) | [Postal](https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV) | 3:30 |
-| 64 | [Volver](https://open.spotify.com/track/1t59IuGyLPy0ge1nKeQNXL) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Mango Negro](https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF) | 3:28 |
-| 65 | [Sola por la Ciudad](https://open.spotify.com/track/1UH3xWxB8T2kTZlg37tfFs) | [Poncho](https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r), [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Poncholandia](https://open.spotify.com/album/7IY4JeLJedz5xyMDi0gfzW) | 4:40 |
+| 64 | [Sola por la Ciudad](https://open.spotify.com/track/1UH3xWxB8T2kTZlg37tfFs) | [Poncho](https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r), [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Poncholandia](https://open.spotify.com/album/7IY4JeLJedz5xyMDi0gfzW) | 4:40 |
+| 65 | [Volver](https://open.spotify.com/track/1t59IuGyLPy0ge1nKeQNXL) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Mango Negro](https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF) | 3:28 |
 | 66 | [Caribbean](https://open.spotify.com/track/6yciTnwFKwtN2WyrxaLyNz) | [Astro](https://open.spotify.com/artist/0V2YTCyeeSs4sivZL99x3g) | [Chicos de la Luz](https://open.spotify.com/album/1JAJem5IxeIq8Rwo6EhIWe) | 4:39 |
 | 67 | [Romance de Fin de Semana](https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Romance de Fin de Semana](https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN) | 4:35 |
 | 68 | [blablablablabla](https://open.spotify.com/track/4b0FSUCnGQ0UGn00cWMoMj) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg), [musica gratis](https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G) | [blablablablabla](https://open.spotify.com/album/67PCcqW4kt4CYOzJH1E3mp) | 3:21 |
@@ -95,13 +95,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 85 | [Derrumbe](https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Derrumbe](https://open.spotify.com/album/23csDME5tEskWfOBPW09mi) | 3:21 |
 | 86 | [Alta Magia \- Reversión 10 años](https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Alta Magia \(Reversión 10 años\)](https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl) | 5:57 |
 | 87 | [Te quiero ver](https://open.spotify.com/track/5bVEYK9UQf4ow5RMU296Qj) | [Fernanda Elío](https://open.spotify.com/artist/3fWL42NNnFgoXDTgVfWVrK) | [Después De Ti](https://open.spotify.com/album/2O8B8Y5bKAiimKnNU0p7OT) | 2:24 |
-| 88 | [Noche de Vampiros](https://open.spotify.com/track/4D6XViAmoJGuz6SqPOP0me) | [Trashu](https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY) | [Noche de Vampiros](https://open.spotify.com/album/2T2TvM0TON3sdK0TOofI5n) | 3:05 |
-| 89 | [Místico Mezcal](https://open.spotify.com/track/4uEvTqHD3KEO7xXuawTSWG) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Atemporal](https://open.spotify.com/album/2MkNHGimCLS2aC0Bny8nnT) | 3:46 |
-| 90 | [Diré tu nombre](https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Diré tu nombre](https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr) | 2:59 |
-| 91 | [En la Torre \- AV Remix](https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [En el Palacio \(REMIX\)](https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS) | 4:06 |
+| 88 | [Místico Mezcal](https://open.spotify.com/track/4uEvTqHD3KEO7xXuawTSWG) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Atemporal](https://open.spotify.com/album/2MkNHGimCLS2aC0Bny8nnT) | 3:46 |
+| 89 | [Noche de Vampiros](https://open.spotify.com/track/4D6XViAmoJGuz6SqPOP0me) | [Trashu](https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY) | [Noche de Vampiros](https://open.spotify.com/album/2T2TvM0TON3sdK0TOofI5n) | 3:05 |
+| 90 | [En la Torre \- AV Remix](https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [En el Palacio \(REMIX\)](https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS) | 4:06 |
+| 91 | [Diré tu nombre](https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Diré tu nombre](https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr) | 2:59 |
 | 92 | [Todas las Luces \- Remix](https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [Disonar](https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM) | [Todas las Luces \(Remix\)](https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0) | 3:40 |
 | 93 | [Delight](https://open.spotify.com/track/2h4yMcOkn6n62XBYhtgQl4) | [Gor2](https://open.spotify.com/artist/0HaKpLgYbvjuZWzAvc39ME) | [Delight](https://open.spotify.com/album/1DNqh53UJJWkRg5Tk9ysWc) | 5:09 |
-| 94 | [Lucidez](https://open.spotify.com/track/1d9Y8VhQKy03r996XabxX8) | [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Lucidez](https://open.spotify.com/album/1XZRNnQ1dcp59OJrq5DtUD) | 6:11 |
-| 95 | [BOTON](https://open.spotify.com/track/34WKnyo66SajqdBMooAzl1) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [BOTON](https://open.spotify.com/album/3f3dFNqTR47VfyDeGtZ427) | 2:18 |
+| 94 | [Housie](https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08) | [Formas](https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF) | 3:33 |
+| 95 | [Lucidez](https://open.spotify.com/track/1d9Y8VhQKy03r996XabxX8) | [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Lucidez](https://open.spotify.com/album/1XZRNnQ1dcp59OJrq5DtUD) | 6:11 |
 
-Snapshot ID: `MCwzY2JmZDUyY2VmMzFhN2RlZGM4NzcyOGE3YTcwM2UwZmY2YzFiNTg5`
+Snapshot ID: `MCxjYjcwYmU0MTNjNjZhMWE5YWM4NjA3ZWI0NTlkYmRjOGQ0N2NlM2Nh`

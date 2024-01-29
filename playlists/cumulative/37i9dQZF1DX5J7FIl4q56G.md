@@ -4,7 +4,7 @@
 
 > This week's best new metal & hard rock tracks\. Cover: Static\-X
 
-5,538 songs - 15 day 15 hr 11 min
+5,539 songs - 15 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3473,7 +3473,8 @@
 | [Out to the Inside](https://open.spotify.com/track/4fIbgStSL1II8DS74pdI26) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS), [Mob Machine](https://open.spotify.com/artist/7MmCmVajYpt2NTXg1kTqm9) | [Quarantine Collaborations](https://open.spotify.com/album/0C2DCVriqRYCWhancrKQBv) | 3:58 | 2021-12-17 | 2022-01-21 |
 | [OUTBREAK II: THE RECKONING](https://open.spotify.com/track/7sOpirRkjxjAqyspS4xQZi) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [OUTBREAK II: THE RECKONING](https://open.spotify.com/album/2JESo6gQ5ezrUG7viR0f6B) | 3:28 | 2023-01-20 | 2023-01-28 |
 | [Outcast](https://open.spotify.com/track/4YhlVjushJ1ypFikNno2CD) | [Samurai Pizza Cats](https://open.spotify.com/artist/6f0FWL5v2c3a5shWKRuiwq) | [Outcast](https://open.spotify.com/album/3H0THEEWUzbyr2pygKVGX0) | 3:32 | 2022-11-11 | 2022-11-19 |
-| [Outcome](https://open.spotify.com/track/1T68xySFdNYYCjX9S0XtBa) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [The Affliction](https://open.spotify.com/album/3OPfTGs6dit3vywqCGpGHQ) | 3:25 | 2024-01-26 |  |
+| [Outcome](https://open.spotify.com/track/1T68xySFdNYYCjX9S0XtBa) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [The Affliction](https://open.spotify.com/album/3OPfTGs6dit3vywqCGpGHQ) | 3:25 | 2024-01-26 | 2024-01-29 |
+| [Outcome](https://open.spotify.com/track/54Mdl7oXai0VZ3usuCxIPb) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [The Affliction](https://open.spotify.com/album/1Sggf1c9AVCvAEAGaC9v6K) | 3:25 | 2024-01-26 |  |
 | [Outer Dimensions](https://open.spotify.com/track/13E52tvYVKOyd7COIs1cba) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Outer Dimensions](https://open.spotify.com/album/1g2CRYugkE60cBxB2WSOLi) | 3:05 | 2023-11-17 | 2023-11-25 |
 | [Outer Gods Exodvs](https://open.spotify.com/track/6OV6ZWY1zCKNPyWL9vHHSZ) | [Dav Dralleon](https://open.spotify.com/artist/5V8x0GqH9GCBPl1fYeOhuB) | [Kthullu](https://open.spotify.com/album/10oYTRB7OGp6LslyFt0grk) | 4:35 | 2022-11-25 | 2022-12-03 |
 | [Outset](https://open.spotify.com/track/6CQojH7ypPnDzTmQqpZF4q) | [Solitaris](https://open.spotify.com/artist/3FsxQTz4NBLf2ABqDIghzM) | [Siwa](https://open.spotify.com/album/1gzemnp5YPNIugGVdYr3zI) | 2:08 | 2023-03-10 | 2023-03-18 |

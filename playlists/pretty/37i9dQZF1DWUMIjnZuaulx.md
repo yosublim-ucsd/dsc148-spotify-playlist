@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover: <a href="spotify:artist:3EDwVZensg15abkTt5zfTM">Ricky Dillard</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,060 likes - 99 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,127 likes - 99 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 98 | [I Love to Call Him](https://open.spotify.com/track/3X2XCrzqrs1Wo8oEidcZMb) | [Vincent Bohanan & SOV](https://open.spotify.com/artist/6dT6h1tNvW5ZA4lyMdXfTk) | [I Love to Call Him](https://open.spotify.com/album/3S2W9Kd9sMYrbNNDTnM1uP) | 5:25 |
 | 99 | [One Day](https://open.spotify.com/track/1aWEgCat4z6MwWZHQEdwPT) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [One Day](https://open.spotify.com/album/2X56R8P00VmhcRKhc8CMmF) | 3:41 |
 
-Snapshot ID: `MCwxMzYxNzA5MWI4Y2Y3MTMxZGIzNTZmODdkNzM5YjRjMjMxNzJkZWU4`
+Snapshot ID: `MCwzNmY5YTQ4NzIxMGRjYzAwYzIwOGUyM2NhZWRhMDdlNDk3NDgxZDRj`

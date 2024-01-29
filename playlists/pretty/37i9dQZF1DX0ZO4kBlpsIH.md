@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,779 likes - 103 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,111 likes - 103 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 43 | [Bistro Fada](https://open.spotify.com/track/08T5wMbEnPN8ghT8o24KY6) | [Stephane Wrembel](https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm) | [Bistro Fada](https://open.spotify.com/album/6lT35xJDhO7Ao5TOLfKsqZ) | 3:02 |
 | 44 | [Bei Dir war es immer so schön](https://open.spotify.com/track/6l3FR8oM1vScye1lyIxUjN) | [George Laffitte](https://open.spotify.com/artist/73svkXqxHEpuyC39kOuuCP) | [La Javanaise](https://open.spotify.com/album/1DdH3YQO9vGj4v75Lll1Uy) | 3:51 |
 | 45 | [Padam...Padam...](https://open.spotify.com/track/2xQmDo3CrD1s5npI3bWYqu) | [Jacques Ferchit](https://open.spotify.com/artist/2IJGeegMtg1oHYYXT6frrO) | [Paris\-accordeon](https://open.spotify.com/album/2xRxJSYzFSSpFYLHw6QVbD) | 2:38 |
-| 46 | [Le Vieux Moulin](https://open.spotify.com/track/0gIYlhqKe0h8LRSOKMerU3) | [Bateau Mouche](https://open.spotify.com/artist/5qCJ0Ww13jRmYWuL3PLEmf) | [Le Vieux Moulin](https://open.spotify.com/album/5t2X4RIkdsCrFMshfr3g6N) | 2:48 |
+| 46 | [Le Vieux Moulin](https://open.spotify.com/track/32KZMkZ68ViB0nHVb3eLWt) | [Menilmuche](https://open.spotify.com/artist/4UokevHf2JYeNlpcpQH7W8) | [Le Vieux Moulin](https://open.spotify.com/album/3gmX5Dw51NBWSzMwv96439) | 2:48 |
 | 47 | [Reve d'accordeonist](https://open.spotify.com/track/1Lz7wiD9KaBS7zptRQJbWk) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 2:52 |
 | 48 | [Djangology](https://open.spotify.com/track/3dIl8SxXJTggnKIMozYRqi) | [Carré Bleu](https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es) | [Les feuilles mortes](https://open.spotify.com/album/3OtWDcUB17fVR7UtlQof1c) | 2:37 |
 | 49 | [Boum Musette](https://open.spotify.com/track/7wBDJL7T1pSzwpfm5fzqjt) | [Joss Baselli](https://open.spotify.com/artist/2Goh2SVD0hBxz9qMrtBTkt) | [Presenting Joss Baselli](https://open.spotify.com/album/2ztegz9DBfyvvD1ArFsOwe) | 2:25 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 102 | [Les rues de Paris](https://open.spotify.com/track/2Z706066GiPx7nVpQrVLqU) | [Stefano Corradi](https://open.spotify.com/artist/4KnatJMl9LPIdRUSQsYION), [Gian Pietro Marazza](https://open.spotify.com/artist/2tgYUszDncWLQhwJzSSfVX), [Luca Garlaschell](https://open.spotify.com/artist/4uHfosVwJmQAuFyXngLoPo) | [Love Routes \(Romantic Accordion Ballads in Rome\)](https://open.spotify.com/album/3lEXZx6W90Y1WjkWILQwaB) | 2:08 |
 | 103 | [Valse Des Niglos](https://open.spotify.com/track/0lHWKbBlhz3uzdFN5GGOT8) | [Jo Privat](https://open.spotify.com/artist/7wWbbQYVV7AVROYT3sMVoA) | [Minor Swing](https://open.spotify.com/album/5hdK38PRwYdBhdBuyGyZDF) | 2:22 |
 
-Snapshot ID: `MCxhZWI2YWM0Y2Y3YmE5NTFmYTVlMGY1ODJmYWRhNTY0MzdkZDU4ZTE1`
+Snapshot ID: `MCw4ZmM2MTNhNWIxZjVlODhlNjdlYjdiNzI0NDM0OGJmNDQxMThjMDE0`

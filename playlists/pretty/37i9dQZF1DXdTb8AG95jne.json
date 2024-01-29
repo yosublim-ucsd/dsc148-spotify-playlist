@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \bOKDAL(\uc625\uc0c1\ub2ec\ube5b)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 462430,
+  "num_followers": 462524,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjVkZjcyMDViMTBkYzRlMDc1MzgwODNkMzNiYWUzM2FhYTdjNDZj",
+  "snapshot_id": "MCxmMWI1MDM5OGQ3MzRmODI1ZGUwM2RkMTEwMGNiOGE2MjEwN2IxNGNk",
   "tracks": [
     {
       "added_at": "2024-01-22 05:22:36",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-01-22 05:22:36",
       "album": {
+        "name": "Lovers in the Night",
+        "url": "https://open.spotify.com/album/0HJcwB2w5BHsZFFFrs2QGs"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 210546,
+      "name": "Lovers in the Night",
+      "url": "https://open.spotify.com/track/3JtVOqRMgfMNDL7r2NFkYz"
+    },
+    {
+      "added_at": "2024-01-22 05:22:36",
+      "album": {
         "name": "in the bed",
         "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": "2024-01-22 05:22:36",
       "album": {
-        "name": "YOUTH",
-        "url": "https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE"
-      },
-      "artists": [
-        {
-          "name": "Dasutt",
-          "url": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
-        }
-      ],
-      "duration_ms": 361426,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3"
-    },
-    {
-      "added_at": "2024-01-22 05:22:36",
-      "album": {
         "name": "Calibrate",
         "url": "https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 225813,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X"
+    },
+    {
+      "added_at": "2024-01-22 05:22:36",
+      "album": {
+        "name": "YOUTH",
+        "url": "https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE"
+      },
+      "artists": [
+        {
+          "name": "Dasutt",
+          "url": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
+        }
+      ],
+      "duration_ms": 361426,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3"
     },
     {
       "added_at": "2024-01-22 05:22:36",
@@ -735,22 +751,6 @@
       "duration_ms": 222999,
       "name": "I Know Where The Rainbow has Fallen",
       "url": "https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS"
-    },
-    {
-      "added_at": "2024-01-22 05:22:36",
-      "album": {
-        "name": "Lovers in the Night",
-        "url": "https://open.spotify.com/album/0HJcwB2w5BHsZFFFrs2QGs"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        }
-      ],
-      "duration_ms": 210546,
-      "name": "Lovers in the Night",
-      "url": "https://open.spotify.com/track/3JtVOqRMgfMNDL7r2NFkYz"
     },
     {
       "added_at": "2024-01-22 05:22:36",

@@ -1272,6 +1272,24 @@
     {
       "album": {
         "name": "Pangea",
+        "url": "https://open.spotify.com/album/6atAn3qbgkoDZqeJW7qbj2"
+      },
+      "artists": [
+        {
+          "name": "Spaghetti Western",
+          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/2ithPgILb0VqnA8N944jHg"
+    },
+    {
+      "album": {
+        "name": "Pangea",
         "url": "https://open.spotify.com/album/4UjEy9hqJdmG31HCaV1Lr4"
       },
       "artists": [
@@ -1840,7 +1858,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 230991,
       "name": "Silver Mule",
       "url": "https://open.spotify.com/track/3PJmsTebOq650PohvoAOny"

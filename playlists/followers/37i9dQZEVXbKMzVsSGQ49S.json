@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 41589,
+  "2024-01-29": 41584,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Iceland.",
   "name": "Top 50 - Iceland",
@@ -11623,7 +11623,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 211000,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
@@ -21307,7 +21307,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 126240,
       "name": "Paintings",
       "url": "https://open.spotify.com/track/6f2zjW2WOXWwbEd1N6xr0I"
@@ -26401,7 +26401,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
@@ -32097,6 +32097,24 @@
       "duration_ms": 200607,
       "name": "\u00c6tla ekki a\u00f0 ey\u00f0a \u00feeim ein",
       "url": "https://open.spotify.com/track/0kKVxEL8ia1F3vKQj6GVeL"
+    },
+    {
+      "album": {
+        "name": "\u00c6vilangt",
+        "url": "https://open.spotify.com/album/5jgK5WCtxA0hrdlOh2zMje"
+      },
+      "artists": [
+        {
+          "name": "GDRN",
+          "url": "https://open.spotify.com/artist/1FvIWbYLm8dBezbdjucrZb"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221600,
+      "name": "\u00c6vilangt",
+      "url": "https://open.spotify.com/track/4F3R0328kGKMgcYn5SaOAO"
     },
     {
       "album": {

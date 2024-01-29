@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=7rQMXJ0eSw2EU8Wr5nSsXw"> Nyashinski</a>
 
-190 songs - 9 hr 47 min
+192 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Can't Stop, Won't Stop](https://open.spotify.com/track/4XHwTlzlBacs3hHVMvlPGH) | [Clue Ashaivisha Track](https://open.spotify.com/artist/7uSiyol0SgxNKHJFzXFI2P), [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg) | [Can't Stop, Won't Stop](https://open.spotify.com/album/4eDBCnVb4QPOjy0JtQTwSR) | 1:40 | 2023-04-06 | 2024-01-12 |
 | [CATALYST](https://open.spotify.com/track/3gaYFa4e3JswfToeYHtAKX) | [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 2:44 | 2022-05-19 | 2023-02-04 |
 | [Catalyst](https://open.spotify.com/track/0eYtxjlZfYQEsqCWzzptuO) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [East Mpaka London](https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu) | 2:47 | 2022-05-19 | 2022-12-09 |
-| [Chachisha](https://open.spotify.com/track/7qqhMOYy8FU1SnwLpGLMhv) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [Domani Mkadinali](https://open.spotify.com/artist/5JAiIzH0jXCzYZe0nRbol2) | [EMOTIONAL GANGSTER](https://open.spotify.com/album/19omrLfZdSm48xHpEgWG06) | 2:58 | 2023-09-14 |  |
+| [Chachisha](https://open.spotify.com/track/3HSoCY72QqYJrbWqde9LJC) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [Domani Mkadinali](https://open.spotify.com/artist/5JAiIzH0jXCzYZe0nRbol2) | [EMOTIONAL GANGSTER](https://open.spotify.com/album/5bOgDyDjL2Iijyr36IRYMd) | 2:58 | 2024-01-26 |  |
+| [Chachisha](https://open.spotify.com/track/7qqhMOYy8FU1SnwLpGLMhv) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [Domani Mkadinali](https://open.spotify.com/artist/5JAiIzH0jXCzYZe0nRbol2) | [EMOTIONAL GANGSTER](https://open.spotify.com/album/19omrLfZdSm48xHpEgWG06) | 2:58 | 2023-09-14 | 2024-01-29 |
 | [CHECKLIST](https://open.spotify.com/track/4vSPH1x7oYohAUEoYehl2b) | [Vallerie Muthoni](https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E) | [CHECKLIST](https://open.spotify.com/album/1AtdGKcZ4hjcWTBDGDRpD2) | 3:25 | 2022-08-04 | 2023-08-05 |
 | [Chief Gwetheist \(Sewersydaa\)](https://open.spotify.com/track/2GucYaVrScyiDXQpie0pIY) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [Chief Gwetheist \(Sewersydaa\)](https://open.spotify.com/album/5GD594cT72b9UnuBl0vEIC) | 2:50 | 2023-04-13 | 2023-10-13 |
 | [Chocha](https://open.spotify.com/track/7u3Q4BpuqjR3ipFluofgii) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Chocha](https://open.spotify.com/album/6THeQtr6zfL4yLKPewQl9L) | 3:06 | 2024-01-26 |  |
@@ -108,7 +109,8 @@
 | [MOTOWN](https://open.spotify.com/track/1Eo01Bnj04mLVrBpwpCWaQ) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [MOTOWN \(feat\. BabyTron\)](https://open.spotify.com/album/5xcoC6VNSy4dfNIYGPMJQm) | 2:44 | 2023-01-26 | 2023-08-18 |
 | [Mtungi](https://open.spotify.com/track/1D8EvJwAQaBrS5mY2xDZht) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Mtungi](https://open.spotify.com/album/3yh1hLgnx7f682n9E3kdZ4) | 3:05 | 2024-01-11 |  |
 | [Mukta](https://open.spotify.com/track/0oN4a2IN6iaUT3onIIuBYI) | [£g0](https://open.spotify.com/artist/3VfGT695sBZZvATskxjdr0), [LB \(EL PRESIDENTE\)](https://open.spotify.com/artist/19tmkCNT4ZOGkI4cLgSxO3) | [Mukta](https://open.spotify.com/album/71d0dEnWw8vBQ2Ka3MQtKG) | 2:14 | 2022-09-08 | 2023-05-19 |
-| [Mzigo](https://open.spotify.com/track/75QOnqQyG9HGeiH2HDV6ye) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Mzigo](https://open.spotify.com/album/6HsyXPe7DuDcKCQert6a3U) | 3:55 | 2023-07-07 |  |
+| [Mzigo](https://open.spotify.com/track/0U0zmqjmcPg8s9RXZzakcz) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [EMOTIONAL GANGSTER](https://open.spotify.com/album/5bOgDyDjL2Iijyr36IRYMd) | 3:55 | 2024-01-26 |  |
+| [Mzigo](https://open.spotify.com/track/75QOnqQyG9HGeiH2HDV6ye) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Mzigo](https://open.spotify.com/album/6HsyXPe7DuDcKCQert6a3U) | 3:55 | 2023-07-07 | 2024-01-29 |
 | [Nairobi Pengz](https://open.spotify.com/track/6vYlSCbecwhbLN7LCReItg) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [CHONJO](https://open.spotify.com/album/7MKDPUsNzh4adGw36ACW9C) | 3:42 | 2022-07-07 | 2023-09-15 |
 | [No Hook](https://open.spotify.com/track/79yYxJd98IRA51BCP4mPBV) | [Splifff](https://open.spotify.com/artist/3FbXkQv5LMtFqNBbvImIde), [Dok](https://open.spotify.com/artist/6cXAmvwesliaTtwaGdv0qC), [Infamous Alvin](https://open.spotify.com/artist/1o5JBUR0mqOxLwNWa7siPZ) | [No Hook](https://open.spotify.com/album/48audShqxj5ypmHoLSuTmH) | 3:17 | 2023-07-27 |  |
 | [No Likes](https://open.spotify.com/track/25d8CR1991gkMBoGXYPqYC) | [Jodye Faneto](https://open.spotify.com/artist/3v6SQTs83vlDVAIcQgs1r6) | [No Likes](https://open.spotify.com/album/0LQxQUpfkRDBTfykCRXzwr) | 2:20 | 2022-06-23 | 2022-10-07 |

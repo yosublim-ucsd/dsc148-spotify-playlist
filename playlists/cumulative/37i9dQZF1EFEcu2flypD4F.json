@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 216391,
       "name": "Crying in the Club",
       "url": "https://open.spotify.com/track/1SJtlNRJDeYHioymcvsqev"
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 320320,
       "name": "Crying in the Club",
       "url": "https://open.spotify.com/track/0Xb98kwHXee194Q9dzqsCB"
@@ -1718,7 +1718,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 257200,
       "name": "Elastic Heart",
       "url": "https://open.spotify.com/track/6kwAbEjseqBob48jCus7Sz"
@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 307093,
       "name": "Elastic Heart",
       "url": "https://open.spotify.com/track/0WEZ5fQZdzJGKeHe0MnEoH"
@@ -1898,7 +1898,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 241493,
       "name": "Fire Meet Gasoline",
       "url": "https://open.spotify.com/track/3Rw6shHCDFRWv3g2WmEFKv"
@@ -1916,7 +1916,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 245888,
       "name": "Fire Meet Gasoline - by Heidi Klum",
       "url": "https://open.spotify.com/track/36riEXIy7ySsrdhvFABbkF"
@@ -2924,7 +2924,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 238360,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/0yUlMnLpU2W6JQtvg1k4Od"
@@ -2942,7 +2942,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 239381,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/5t7VPBEOx8Ibu8lViG8nhy"
@@ -3034,7 +3034,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 290773,
       "name": "Je te pardonne",
       "url": "https://open.spotify.com/track/7DvhRa3sOvjHx4rEgrz3OB"
@@ -3056,7 +3056,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 213026,
       "name": "Je te pardonne (feat. Sia) - Pilule bleue",
       "url": "https://open.spotify.com/track/6ftEA8CwMP4vtlL7F6VKsj"
@@ -3334,7 +3334,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 247458,
       "name": "Limitless from the Movie \"Second Act\"",
       "url": "https://open.spotify.com/track/46Sqq6dVzY5uFtd93R7I0L"
@@ -4342,6 +4342,24 @@
     {
       "album": {
         "name": "ORA",
+        "url": "https://open.spotify.com/album/3wVudWLcF1D7jK5kTj6hlA"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251226,
+      "name": "Radioactive",
+      "url": "https://open.spotify.com/track/1p72DhSVCYhdO5Or2Nd11I"
+    },
+    {
+      "album": {
+        "name": "ORA",
         "url": "https://open.spotify.com/album/1aDnLoXL8rl3WFJWLTxZmx"
       },
       "artists": [
@@ -4352,7 +4370,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 251226,
       "name": "Radioactive",
       "url": "https://open.spotify.com/track/6ZdmRTzL0MK4dRFeQyRvFn"
@@ -4798,7 +4816,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -4816,7 +4834,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 172255,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/4478hK5vl9IVnYr2pxW7jP"
@@ -6420,7 +6438,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 257252,
       "name": "You Lost Me",
       "url": "https://open.spotify.com/track/1maOjghpUSvVHj9F9WPujZ"
@@ -6438,7 +6456,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 265706,
       "name": "You Lost Me",
       "url": "https://open.spotify.com/track/30LX4w8a4TAtpQUbgfvFTm"

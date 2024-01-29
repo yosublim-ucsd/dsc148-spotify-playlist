@@ -308,7 +308,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 137764,
       "name": "Atlantic.Wav",
       "url": "https://open.spotify.com/track/6bMsqnrwBIF6sbeS9GV7uL"
@@ -810,6 +810,32 @@
     {
       "album": {
         "name": "crush on you",
+        "url": "https://open.spotify.com/album/2t8wIgXAwnWnfvdat3nXjR"
+      },
+      "artists": [
+        {
+          "name": "Retrib",
+          "url": "https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I"
+        },
+        {
+          "name": "417se",
+          "url": "https://open.spotify.com/artist/7Mb2dSVTpyUEzfeUo4MK0s"
+        },
+        {
+          "name": "racheasf",
+          "url": "https://open.spotify.com/artist/0T5yGVoz20dIrgI3vDRR0B"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84030,
+      "name": "crush on you",
+      "url": "https://open.spotify.com/track/5VcEDw61pCPNiSjqh9cNwN"
+    },
+    {
+      "album": {
+        "name": "crush on you",
         "url": "https://open.spotify.com/album/1JTdnT0NeG7mRf64KXmIE0"
       },
       "artists": [
@@ -1102,12 +1128,8 @@
           "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
         },
         {
-          "name": "Cise Star",
-          "url": "https://open.spotify.com/artist/33U7NALGE1kDIhgwofWG2s"
-        },
-        {
-          "name": "Akin Yai",
-          "url": "https://open.spotify.com/artist/5BY7uwdKwTd7ZZRFLUxhcw"
+          "name": "Cise Starr & Akin from CYNE",
+          "url": "https://open.spotify.com/artist/0NQ5kUvKwC9r53V095i0np"
         }
       ],
       "date_added": "2022-04-15",

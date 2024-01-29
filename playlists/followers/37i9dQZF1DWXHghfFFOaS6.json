@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 324051,
+  "2024-01-29": 324163,
   "date_first_scraped": "2021-12-21",
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
   "name": "Acid Jazz",
@@ -1909,6 +1909,24 @@
     {
       "album": {
         "name": "Do You Want More?!!!??!",
+        "url": "https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281866,
+      "name": "Mellow My Man",
+      "url": "https://open.spotify.com/track/0bzFaHiymbvjmIDKf6XAbS"
+    },
+    {
+      "album": {
+        "name": "Do You Want More?!!!??!",
         "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
       },
       "artists": [
@@ -2147,7 +2165,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 387040,
       "name": "On The Backside",
       "url": "https://open.spotify.com/track/3RmIwirZYgqS18gkrbzGnW"

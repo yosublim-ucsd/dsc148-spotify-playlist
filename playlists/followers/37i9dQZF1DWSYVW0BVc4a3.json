@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 119074,
+  "2024-01-29": 119394,
   "date_first_scraped": "2022-08-19",
   "description": "The stomping ground.",
   "name": "Open Air",
@@ -1235,7 +1235,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 205454,
       "name": "Barbarian",
       "url": "https://open.spotify.com/track/0bpIW9LLpTJNxHZZVNtOJm"
@@ -13683,7 +13683,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 176065,
       "name": "The Greatest Thing Alive",
       "url": "https://open.spotify.com/track/6As1zfxQHAgeQPBK2paaqh"

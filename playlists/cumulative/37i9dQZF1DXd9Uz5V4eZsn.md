@@ -4,7 +4,7 @@
 
 > Ambient Indian sounds for your daily Yoga practise.
 
-54 songs - 5 hr 44 min
+55 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Om Shanti Shanti \(Edit\) \[Chant for Yoga Class\] \[feat\. Adham Shaikh\]](https://open.spotify.com/track/4wjYQMw7dg2oB9mrO8fQsl) | [The Yoga Mantra and Chant Music Project](https://open.spotify.com/artist/0zjett5LduAKxk0NfLC3NZ) | [Yoga Music Mantras & Chants](https://open.spotify.com/album/55qbMjcJd92Po54nkLmukm) | 3:58 | 2023-06-30 |  |
 | [Papa Tau \(A Tribute to Papa Tau Moe\)](https://open.spotify.com/track/7aJUSnGZYW4S5YsGu6hYei) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Hawaii to Calcutta: A Tribute to Tau Moe](https://open.spotify.com/album/1Cp0LRQxzKZ2PbG8lNYGr7) | 6:08 | 2023-06-30 |  |
 | [Peace](https://open.spotify.com/track/0JQ0zIQxvpz8XvMphwdRZj) | [Kiran Murti](https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub) | 5:05 | 2023-06-30 |  |
-| [Purnamadah](https://open.spotify.com/track/73iMOvR544T1n5QIVGHLuX) | [Shantala](https://open.spotify.com/artist/6z6YXTlyMCY6fvT79yxDgi) | [The Love Window](https://open.spotify.com/album/2LBLfPrjJ8ofb5iWfvPjn8) | 8:35 | 2023-06-30 |  |
+| [Purnamadah](https://open.spotify.com/track/0xHmA4WUsQFbMAUHRJwJVG) | [Shantala](https://open.spotify.com/artist/6z6YXTlyMCY6fvT79yxDgi) | [The Love Window](https://open.spotify.com/album/1K3wOcXCIZFQlVdjQTIVqU) | 8:35 | 2023-12-20 |  |
+| [Purnamadah](https://open.spotify.com/track/73iMOvR544T1n5QIVGHLuX) | [Shantala](https://open.spotify.com/artist/6z6YXTlyMCY6fvT79yxDgi) | [The Love Window](https://open.spotify.com/album/2LBLfPrjJ8ofb5iWfvPjn8) | 8:35 | 2023-06-30 | 2024-01-29 |
 | [Raga Bhoopali](https://open.spotify.com/track/2FvS3T9QA1K7RibQDrTYqc) | [Sangit Om](https://open.spotify.com/artist/51OgTOMeriyJbz07cpve3u) | [The Spirit of Yoga](https://open.spotify.com/album/3twYsK4gKVEaBVOUUdeT88) | 3:52 | 2023-06-30 |  |
 | [Raga Hansadhwani](https://open.spotify.com/track/6QT56xgKBPA15RyuGft5hh) | [Pravin Godkhindi](https://open.spotify.com/artist/5zsiGj3C1bfEBeWtq0ryPe) | [Music Therapy \- For Motivation & Rejuvenation](https://open.spotify.com/album/5onhOTw07V7vWwwZW5E4Vk) | 20:19 | 2023-06-30 |  |
 | [Raga Hansadhwani \(Dancing Spring\)](https://open.spotify.com/track/2lalSgHoXxZWSHTT9PNV2t) | [Ustad Usman Khan](https://open.spotify.com/artist/3HywltOSu9HsE3gG7yulzq) | [Nada Yoga: Music of the Mystic](https://open.spotify.com/album/2j2Fs9jZxDeDIQqvbqxyN9) | 9:00 | 2023-06-30 |  |

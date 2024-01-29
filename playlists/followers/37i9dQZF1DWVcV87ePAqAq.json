@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 369309,
+  "2024-01-29": 369275,
   "date_first_scraped": "2021-12-21",
   "description": "Den enda spellistan du beh\u00f6ver f\u00f6r en bra fest!",
   "name": "Fest!",
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 219146,
       "name": "Cake By The Ocean",
       "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
@@ -4735,7 +4735,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 231400,
       "name": "Low (feat. T-Pain)",
       "url": "https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J"

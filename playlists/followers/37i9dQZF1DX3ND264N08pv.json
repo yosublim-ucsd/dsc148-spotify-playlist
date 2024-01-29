@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 69862,
+  "2024-01-29": 69873,
   "date_first_scraped": "2022-12-10",
   "description": "Hardcore and uptempo to get you pumped",
   "name": "Hardcore Rage 2024",
@@ -629,7 +629,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 168363,
       "name": "Come for You",
       "url": "https://open.spotify.com/track/6jLL2rtFTGpzStKsw3XBqN"
@@ -3099,6 +3099,28 @@
       "duration_ms": 138500,
       "name": "Outta Here",
       "url": "https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35"
+    },
+    {
+      "album": {
+        "name": "Overdosis",
+        "url": "https://open.spotify.com/album/3LYrflZG7Q6zEP41JVercl"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        },
+        {
+          "name": "MC Robs",
+          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Overdosis",
+      "url": "https://open.spotify.com/track/6SA6ttzni94LLVM3Jm5J14"
     },
     {
       "album": {

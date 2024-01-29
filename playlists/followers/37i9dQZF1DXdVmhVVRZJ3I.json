@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 278019,
+  "2024-01-29": 278191,
   "date_first_scraped": "2023-07-23",
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
   "name": "Suor EDM",
@@ -1151,7 +1151,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 176840,
       "name": "Roses - Imanbek Remix",
       "url": "https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI"
@@ -1195,6 +1195,36 @@
       "duration_ms": 181000,
       "name": "Showing Signs",
       "url": "https://open.spotify.com/track/2uG6wCBGkH01QiBAVMOaut"
+    },
+    {
+      "album": {
+        "name": "Stay High (Zerb Remix)",
+        "url": "https://open.spotify.com/album/3WNwoy8cC9kcksFSf4d0kM"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187626,
+      "name": "Stay High - Zerb Remix",
+      "url": "https://open.spotify.com/track/3fripGC0ptg0cUE2qkjfRF"
     },
     {
       "album": {

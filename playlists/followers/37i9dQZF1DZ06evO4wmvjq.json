@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 1870,
+  "2024-01-29": 1872,
   "date_first_scraped": "2022-05-30",
   "description": "This is Terry Riley. The essential tracks, all in one playlist.",
   "name": "This Is Terry Riley",
@@ -293,7 +293,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 373118,
       "name": "Archangels: I. Queen of Black Waters",
       "url": "https://open.spotify.com/track/4yGwQzeOHH8gYbViFYohXY"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 347906,
       "name": "Crucifixion Voices",
       "url": "https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7"
@@ -1167,7 +1167,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Hymns from a Great Temple: Hymn No. 2",
       "url": "https://open.spotify.com/track/0BabrdezSUxE95TTjLhAxY"
@@ -1197,7 +1197,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 104000,
       "name": "Hymns from a Great Temple: Hymn No. 3, \"Hymn of the Cherubim\"",
       "url": "https://open.spotify.com/track/45G3yCpdT7oaChqXr8avFp"

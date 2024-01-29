@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1655038,
+  "num_followers": 1655672,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDFlZTBmYmRkY2FhNTZlYWZhYmFjODJlOGRmYWQwYzNlZDUxNDI2",
+  "snapshot_id": "MCxhMjE5Njg1YWE5ZjU5OTk3NDJhYTkxYzFmZmY5MjJkOGY5YTU0MGZj",
   "tracks": [
     {
       "added_at": "2024-01-26 17:11:01",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
+        "name": "Where You Want To Be",
+        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 247760,
+      "name": "A Decade Under The Influence",
+      "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
         "name": "The Artist In The Ambulance",
         "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 219973,
       "name": "Tell Me I'm A Wreck",
       "url": "https://open.spotify.com/track/203zTFd1zbfG0fiOG9OREv"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
-        "name": "Where You Want To Be",
-        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 247760,
-      "name": "A Decade Under The Influence",
-      "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1247,38 +1247,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Leaving Through The Window",
-        "url": "https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix"
-      },
-      "artists": [
-        {
-          "name": "Something Corporate",
-          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
-        }
-      ],
-      "duration_ms": 252866,
-      "name": "I Woke Up In A Car",
-      "url": "https://open.spotify.com/track/3kaK1EohdhDXT5ICBMRGkz"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
-        "name": "Never Hungover Again",
-        "url": "https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf"
-      },
-      "artists": [
-        {
-          "name": "Joyce Manor",
-          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
-        }
-      ],
-      "duration_ms": 148120,
-      "name": "Falling in Love Again",
-      "url": "https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "Diary (2009 Edition)",
         "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
       },
@@ -1307,6 +1275,38 @@
       "duration_ms": 209626,
       "name": "Devotion And Desire",
       "url": "https://open.spotify.com/track/27O9FuS1UIm6ZyLplgLQAH"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Never Hungover Again",
+        "url": "https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf"
+      },
+      "artists": [
+        {
+          "name": "Joyce Manor",
+          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
+        }
+      ],
+      "duration_ms": 148120,
+      "name": "Falling in Love Again",
+      "url": "https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Leaving Through The Window",
+        "url": "https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix"
+      },
+      "artists": [
+        {
+          "name": "Something Corporate",
+          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
+        }
+      ],
+      "duration_ms": 252866,
+      "name": "I Woke Up In A Car",
+      "url": "https://open.spotify.com/track/3kaK1EohdhDXT5ICBMRGkz"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Leaving Through The Window",
-        "url": "https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix"
-      },
-      "artists": [
-        {
-          "name": "Something Corporate",
-          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Punk Rock Princess",
-      "url": "https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "Decadence",
         "url": "https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 203733,
       "name": "Beating Heart Baby",
       "url": "https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Leaving Through The Window",
+        "url": "https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix"
+      },
+      "artists": [
+        {
+          "name": "Something Corporate",
+          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Punk Rock Princess",
+      "url": "https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK"
     },
     {
       "added_at": "2024-01-26 17:11:01",

@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 76811,
+  "2024-01-29": 76831,
   "date_first_scraped": "2022-03-22",
   "description": "Clear your mind with soothing new age guitar.",
   "name": "Meditative Guitar",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 184935,
       "name": "Abiding Light",
       "url": "https://open.spotify.com/track/2nfzCK4TA4wSlJP640kyIZ"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 145441,
       "name": "Adrift (Meditation)",
       "url": "https://open.spotify.com/track/3L3YFTmQOCFe36kQ1DuugY"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 183252,
       "name": "Alignements",
       "url": "https://open.spotify.com/track/33tTpKz41ECTjEJmhzb3zp"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 177047,
       "name": "Dreametheral",
       "url": "https://open.spotify.com/track/4ZnMbPSIG1eOCEelRuqFAe"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 179850,
       "name": "En Stilla Plats",
       "url": "https://open.spotify.com/track/42aXU4fhzS1bx3rIYowx5c"
@@ -1029,7 +1029,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 131547,
       "name": "Floating Dreams",
       "url": "https://open.spotify.com/track/0EEJNWq8aoSCCi8JtJZdsU"
@@ -1047,7 +1047,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 156222,
       "name": "Fluire",
       "url": "https://open.spotify.com/track/2lunfSloiCO0mbpFtzLkTm"
@@ -1227,7 +1227,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 166764,
       "name": "In Seclusion",
       "url": "https://open.spotify.com/track/03lIEUzXDUm8ivedRHOWff"
@@ -1263,7 +1263,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 170048,
       "name": "In The Moonlight",
       "url": "https://open.spotify.com/track/7bKnCUZd2DPux3xyebZZhl"
@@ -1677,7 +1677,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 253627,
       "name": "Myself & I",
       "url": "https://open.spotify.com/track/1bA1rj6vbVOip77KgpW2x8"
@@ -1857,7 +1857,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 168779,
       "name": "One",
       "url": "https://open.spotify.com/track/4FlZGFYTdwrVgqsA1Veqsc"
@@ -2001,7 +2001,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 175798,
       "name": "Quiescence",
       "url": "https://open.spotify.com/track/3m51cUr11ZSJWFGmIn800g"
@@ -2113,7 +2113,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 169374,
       "name": "Remember Rain",
       "url": "https://open.spotify.com/track/3xRLIbOyquBObxGPdIZe2A"
@@ -2221,7 +2221,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 137536,
       "name": "Riddles",
       "url": "https://open.spotify.com/track/0q6IHlkLK8Mu1gyVZukEvy"
@@ -2329,7 +2329,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 208649,
       "name": "Silent Wishes",
       "url": "https://open.spotify.com/track/0Y04tCb932hyMGO12fzTtw"
@@ -2365,7 +2365,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 130794,
       "name": "Sinus",
       "url": "https://open.spotify.com/track/6Zwt26VVEUeS7Iq9BR0kiA"
@@ -2455,7 +2455,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 186237,
       "name": "Solitude By Numbers",
       "url": "https://open.spotify.com/track/1WF0V2ndTgetIzonPqO6Qz"
@@ -2509,7 +2509,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 176545,
       "name": "State of Existence",
       "url": "https://open.spotify.com/track/2ZA0J8gcbUxetOh1R3rzMp"
@@ -2833,7 +2833,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 219752,
       "name": "Visible Quiet",
       "url": "https://open.spotify.com/track/6KHLa0fdsXpjvgA2Xv9Ncx"
@@ -2959,7 +2959,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 182924,
       "name": "Whisper in the wind",
       "url": "https://open.spotify.com/track/5ZSqAynin0lj0U8fVA5p8W"

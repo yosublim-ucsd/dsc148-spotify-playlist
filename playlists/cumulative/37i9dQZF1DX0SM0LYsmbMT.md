@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,985 songs - 6 day 8 hr 23 min
+3,986 songs - 6 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Alone Together](https://open.spotify.com/track/0sjRtGeytCniumI769pDM2) | [Rizik](https://open.spotify.com/artist/1RPAAHsStLojK33L7zhgzl) | [Alone Together](https://open.spotify.com/album/2oCaZeW86AT8phiRCXNgUM) | 3:56 | 2020-04-08 | 2020-06-24 |
 | [Alpha](https://open.spotify.com/track/7Hiblos98LjJwAoHn6vyiU) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Alpha](https://open.spotify.com/album/22J8I9RclptwR54QbU5eKO) | 1:53 | 2022-03-04 |  |
 | [Alphawave](https://open.spotify.com/track/7DbkzKwPxExH6tPMLDOCiS) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz) | [Alphawave](https://open.spotify.com/album/1WLjBe8mPKvp53U5L79ycg) | 2:52 | 2021-06-25 | 2021-11-19 |
+| [Alright](https://open.spotify.com/track/4uahGrfDRqEzghdU5vq6AS) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Alright](https://open.spotify.com/album/7BmP3G9hmSI4NeOpDBZe2G) | 2:40 | 2024-01-26 |  |
 | [Altered Time](https://open.spotify.com/track/1swgntnR8aAPm23U1bBcM0) | [Knick](https://open.spotify.com/artist/4JeYrBePUtaLKFSWP1BqZX), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM) | [Altered Time](https://open.spotify.com/album/3ewzyQrB4kCYON9KVE5eVN) | 2:10 | 2022-02-17 | 2022-03-25 |
 | [Always 10.15](https://open.spotify.com/track/257hHAdnxA1WCNkKfyocRz) | [Lord Akton](https://open.spotify.com/artist/3aalnO8zXI30bOXQrzod5k) | [Stone Loop Presence](https://open.spotify.com/album/6gK92lSf0z4O96ZB3MZuh0) | 1:23 | 2020-03-25 | 2020-05-12 |
 | [Always Highhh](https://open.spotify.com/track/2nMNBKNWbTsnq14L1ZT0Xc) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [Always Highhh](https://open.spotify.com/album/4AaRq2N9QsPwiCvsN3sLTd) | 2:20 | 2020-02-21 | 2020-12-18 |
@@ -2622,7 +2623,7 @@
 | [Phantom Horns](https://open.spotify.com/track/0iWEXPNt4S5zsGVGnHuaF8) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Phantom Horns](https://open.spotify.com/album/3bzAPFAGaL21A9Zpz8ntqY) | 2:20 | 2022-07-14 | 2022-07-22 |
 | [PHANTOM PAIN \- Instrumental](https://open.spotify.com/track/6g837LRehug5yojrAKNfWS) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [GISEKE \(Instrumental Version\)](https://open.spotify.com/album/0IX4zr8pwtrmCUnW5vc2VB) | 3:37 | 2021-12-03 | 2021-12-10 |
 | [Phase II](https://open.spotify.com/track/5g6aFOrYy6uIJclUH4cDo3) | [Bill & Pecker](https://open.spotify.com/artist/4Ls7eAl0y3fm6nqZvQfdhP) | [Phase II](https://open.spotify.com/album/5yFvyGIxDUVO7vmsuJOcmm) | 1:43 | 2020-11-03 | 2021-05-21 |
-| [phat rainbow](https://open.spotify.com/track/3ikcMAiD4PPtcZtK5WmDyt) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [phat rainbow](https://open.spotify.com/album/4Qd8kg6AVYmd1ERCVnxXMx) | 1:57 | 2024-01-26 |  |
+| [phat rainbow](https://open.spotify.com/track/3ikcMAiD4PPtcZtK5WmDyt) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [phat rainbow](https://open.spotify.com/album/4Qd8kg6AVYmd1ERCVnxXMx) | 1:57 | 2024-01-26 | 2024-01-29 |
 | [Phew](https://open.spotify.com/track/2h2s62yHkjcB2icZMZG3L4) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [Antônio Neves](https://open.spotify.com/artist/1or8OkrZ48T6BW0OpeN683), [Ed Santana](https://open.spotify.com/artist/6M74DHDHLcc0kD9OefNZUo) | [Phew](https://open.spotify.com/album/72RgoGYxbXsIYTkObWrvId) | 2:02 | 2020-08-08 | 2021-02-06 |
 | [Phoebe](https://open.spotify.com/track/0jVcDTCdWPPPka66nfuyVu) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Phoebe](https://open.spotify.com/album/2dGzw9eWYj25HXKQRYgfIH) | 2:25 | 2020-12-22 | 2021-06-18 |
 | [Phoenix](https://open.spotify.com/track/1QNFsVscOg20naQDYWt2OE) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Phoenix](https://open.spotify.com/album/5tq101TOhIDEg9oGesy0BG) | 2:31 | 2020-04-24 | 2020-07-03 |

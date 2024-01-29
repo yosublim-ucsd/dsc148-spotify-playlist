@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 1065054,
+  "2024-01-29": 1064778,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Italy.",
   "name": "Top 50 - Italy",
@@ -1595,7 +1595,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 171903,
       "name": "Alta marea",
       "url": "https://open.spotify.com/track/1ytp1BZurhOk14vErLhivu"
@@ -2845,7 +2845,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 185195,
       "name": "Ballon d'Or (feat. Nayt)",
       "url": "https://open.spotify.com/track/5aVUDn1F4x26UkHFVgWsiE"
@@ -3467,6 +3467,28 @@
       "duration_ms": 146933,
       "name": "BIG CHECKS (feat. Jake La Furia & Shiva)",
       "url": "https://open.spotify.com/track/7djURrG8mUDSehfhX97G35"
+    },
+    {
+      "album": {
+        "name": "Piccolo principe",
+        "url": "https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "2nd Roof",
+          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195305,
+      "name": "Bimbo in quartiere",
+      "url": "https://open.spotify.com/track/3LUz9MAlrMJ4paLLFgHrB3"
     },
     {
       "album": {
@@ -4637,6 +4659,32 @@
       "duration_ms": 205524,
       "name": "Calcolatrici",
       "url": "https://open.spotify.com/track/6bN41HjY008ggroMFxNLaa"
+    },
+    {
+      "album": {
+        "name": "Piccolo principe",
+        "url": "https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Dystopic",
+          "url": "https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170764,
+      "name": "Calle (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/7C8Yj3WDtN1rBu15xIvRA2"
     },
     {
       "album": {
@@ -6121,7 +6169,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 186666,
       "name": "Ciao Bella",
       "url": "https://open.spotify.com/track/5JuidT91MdTPOEDHL4u3fp"
@@ -9474,6 +9522,32 @@
     },
     {
       "album": {
+        "name": "Piccolo principe",
+        "url": "https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Dystopic",
+          "url": "https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211434,
+      "name": "Due principi (feat. Emis Killa)",
+      "url": "https://open.spotify.com/track/5YdpLxge3UzTHymkQ6XCf4"
+    },
+    {
+      "album": {
         "name": "MATERIA (PELLE)",
         "url": "https://open.spotify.com/album/6hqtA9s9KpwBHXapL0fEcH"
       },
@@ -11096,6 +11170,28 @@
     },
     {
       "album": {
+        "name": "Piccolo principe",
+        "url": "https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Dystopic",
+          "url": "https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208622,
+      "name": "Finita",
+      "url": "https://open.spotify.com/track/40gRuXnudy92Wt4x2N0WrA"
+    },
+    {
+      "album": {
         "name": "FIORI MORTI",
         "url": "https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O"
       },
@@ -12066,6 +12162,36 @@
     },
     {
       "album": {
+        "name": "Piccolo principe",
+        "url": "https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Dystopic",
+          "url": "https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj"
+        },
+        {
+          "name": "2nd Roof",
+          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119083,
+      "name": "Ghetto love (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/6fG0TZQMCCUjTlWwB5WyGP"
+    },
+    {
+      "album": {
         "name": "RELAX",
         "url": "https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj"
       },
@@ -12601,7 +12727,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -18211,7 +18337,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 135652,
       "name": "Machiavelli (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/3KRwYDQt79HltHM1YHzQbl"
@@ -18397,7 +18523,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 168130,
       "name": "Malafede",
       "url": "https://open.spotify.com/track/0bSEor7VCHPuRiwyT6dvTM"
@@ -18619,6 +18745,32 @@
       "duration_ms": 169090,
       "name": "Mamacita (feat. Sacky)",
       "url": "https://open.spotify.com/track/7veqJ2O24ZiAx8bbVUP4OL"
+    },
+    {
+      "album": {
+        "name": "Piccolo principe",
+        "url": "https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Dystopic",
+          "url": "https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Mamma mi diceva (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/7uBN2cQXUXx1N670z1pD6m"
     },
     {
       "album": {
@@ -23487,7 +23639,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 174893,
       "name": "Paganini",
       "url": "https://open.spotify.com/track/34XnlHqQzVeqXTMXc7SVo0"
@@ -24666,6 +24818,36 @@
     },
     {
       "album": {
+        "name": "Piccolo principe",
+        "url": "https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        },
+        {
+          "name": "1hellion",
+          "url": "https://open.spotify.com/artist/3KXy5B1nJf9WYod5vpnMXV"
+        },
+        {
+          "name": "prodbymiku",
+          "url": "https://open.spotify.com/artist/6MhvveMb6gshUHAeTYIfEo"
+        }
+      ],
+      "date_added": "2024-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200897,
+      "name": "Piccolo principe",
+      "url": "https://open.spotify.com/track/0ReSNmM6DihL9WAb95jc5h"
+    },
+    {
+      "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/12ezRjJUICPhvnJiZQ7A5k"
       },
@@ -25749,7 +25931,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
@@ -28457,7 +28639,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 132308,
       "name": "SOLDI A CASA (feat. Ghali)",
       "url": "https://open.spotify.com/track/4pl1S8uglG2vYJ45IIgIo2"

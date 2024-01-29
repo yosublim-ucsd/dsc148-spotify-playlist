@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 52458,
+  "2024-01-29": 52484,
   "date_first_scraped": "2022-05-26",
   "description": "Con mucha dulzura y sabor para un momento de relax. ",
   "name": "Caf\u00e9 de Olla",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 232500,
       "name": "Agarra Tu Camino",
       "url": "https://open.spotify.com/track/2IYRUFK8T0tbJCueZoBj9u"
@@ -3231,7 +3231,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 201004,
       "name": "Solo Vine A Despedirme",
       "url": "https://open.spotify.com/track/6JKesuqLu8ZTtRgxNTzbdu"

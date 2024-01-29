@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 
 > Acá hay letra\. Foto: AK4:20.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,096 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,119 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 | 72 | [F40](https://open.spotify.com/track/1r4cq6ZPidlBrhBC5kpnCp) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:41 |
 | 73 | [Mala Influencia](https://open.spotify.com/track/28sOLLPgDAdBzDuhkuuLhz) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Mala Influencia](https://open.spotify.com/album/1qb1ja0w8w0m2QYStSs3IA) | 3:14 |
 | 74 | [Sin Tabú](https://open.spotify.com/track/7xJeg4TFZBwoK63G98YRaA) | [Nakary](https://open.spotify.com/artist/3pPvxpifWmiueGdmBeUvZW), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Sin Tabú \(Remix\)](https://open.spotify.com/album/0OjGPsF7wQtx1jmbv0IhQt) | 3:52 |
-| 75 | [Jukiao \- Remix](https://open.spotify.com/track/08HdyqNXBEHUF4tkZejKUR) | [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt), [Marvel Boy](https://open.spotify.com/artist/59AwfIz27MGfHEaxKeJUpS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Hits Master Music](https://open.spotify.com/artist/3ZiDknOvJlekwjqM020usd) | [Jukiao Remix](https://open.spotify.com/album/1ndMbMRE6D8nAg9HGUExQK) | 5:08 |
+| 75 | [Ácido](https://open.spotify.com/track/67qxV0lxSgs8BAnIl3gtEL) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC) | [Ácido](https://open.spotify.com/album/2fpJi92UkpWlVfehON7Yqt) | 2:29 |
 
-Snapshot ID: `MCxjODAwODY3ZDliMzJkNjNmNGNiYWFjZGRjYzgyODk1MzkwZTk1N2Yz`
+Snapshot ID: `MCxiYzg2OGRjZGFiYzEyN2M4MDkwYTJkMmVjNjAyNmMzMDFlOTBiMmJm`

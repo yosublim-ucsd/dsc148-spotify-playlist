@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-160 songs - 11 hr 7 min
+161 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Only Fool Was Me](https://open.spotify.com/track/2fUoJejy209Fw7CJXAkacA) | [Jj Thames](https://open.spotify.com/artist/3s40l5PuYSiN6ZxVatol8p) | [Raw Sugar](https://open.spotify.com/album/5yVHESZZNt3DcYtG1Obsfd) | 4:28 | 2020-11-05 | 2022-07-29 |
 | [Our Love](https://open.spotify.com/track/5cfGJHxNcS1S2qyZj9xH6z) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 4:11 | 2020-11-05 |  |
 | [Out of Sight \(Out of Mind\)](https://open.spotify.com/track/00XkBPsjAlNyw4VeQrQSJY) | [Emily West](https://open.spotify.com/artist/20YJEBSWm14EDzjbXNcwDA), [Whiskey Wolves of the West](https://open.spotify.com/artist/301ao5Vcw38iIFuWiMG1Rj) | [Dear Diary](https://open.spotify.com/album/1IqSN6kpB4yS7kn4eHobRi) | 4:00 | 2022-09-30 |  |
-| [Pictures on the Wall](https://open.spotify.com/track/2KK8G1JqNkz7L6wfTbgp7H) | [The Soul Jacket](https://open.spotify.com/artist/74gz5JP3mfqLeMBeCwYf9S) | [Black Cotton Limited](https://open.spotify.com/album/4BzCphuz3P1FvWvOB5GtDp) | 4:17 | 2020-11-05 |  |
+| [Pictures on the Wall](https://open.spotify.com/track/2KK8G1JqNkz7L6wfTbgp7H) | [The Soul Jacket](https://open.spotify.com/artist/74gz5JP3mfqLeMBeCwYf9S) | [Black Cotton Limited](https://open.spotify.com/album/4BzCphuz3P1FvWvOB5GtDp) | 4:17 | 2020-11-05 | 2024-01-29 |
+| [Pictures on the Wall](https://open.spotify.com/track/2wVjp4OxakImce78cTHun8) | [The Soul Jacket](https://open.spotify.com/artist/74gz5JP3mfqLeMBeCwYf9S) | [Black Cotton Limited](https://open.spotify.com/album/4qXRbe3hN9vrSPcJwra6TQ) | 4:17 | 2020-11-05 |  |
 | [Pictures on the Wall](https://open.spotify.com/track/3L5gTxFwf6T2ZeXx9n0bik) | [The Soul Jacket](https://open.spotify.com/artist/74gz5JP3mfqLeMBeCwYf9S) | [Black Cotton Limited](https://open.spotify.com/album/4eV2e8k894bwbeX2lJMYgb) | 4:17 | 2020-11-05 | 2022-07-29 |
 | [Pressure Makes Diamonds](https://open.spotify.com/track/0aBjG35bcty7tOM917tVL6) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Pressure Makes Diamonds](https://open.spotify.com/album/5mSDSfm25FGQZVuxKi6Gvo) | 3:29 | 2020-11-05 | 2022-07-29 |
 | [Pressure Makes Diamonds](https://open.spotify.com/track/2w8RAtIGT6Ba1TydglCWW9) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Pressure Makes Diamonds](https://open.spotify.com/album/0A9Ozy729zqiSdMVkBMizh) | 3:29 | 2020-11-05 |  |

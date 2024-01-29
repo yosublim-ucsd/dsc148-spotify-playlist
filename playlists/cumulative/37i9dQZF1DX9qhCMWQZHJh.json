@@ -1506,7 +1506,7 @@
     {
       "album": {
         "name": "Gifted",
-        "url": "https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi"
+        "url": "https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP"
       },
       "artists": [
         {
@@ -1517,6 +1517,24 @@
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 202245,
+      "name": "Where I'm From",
+      "url": "https://open.spotify.com/track/0vtivvSAgB90twCgy1uOhh"
+    },
+    {
+      "album": {
+        "name": "Gifted",
+        "url": "https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-29",
       "duration_ms": 202245,
       "name": "Where I'm From",
       "url": "https://open.spotify.com/track/16a1oNnP5DfymTm93omHB4"

@@ -4131,6 +4131,24 @@
     },
     {
       "album": {
+        "name": "Empati",
+        "url": "https://open.spotify.com/album/0xstPqvoi3ogWYS27scNX8"
+      },
+      "artists": [
+        {
+          "name": "Nardn",
+          "url": "https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169043,
+      "name": "Empati",
+      "url": "https://open.spotify.com/track/0VtfW5epZbVcSXwB2M7unz"
+    },
+    {
+      "album": {
         "name": "En av ungarna",
         "url": "https://open.spotify.com/album/6ekSfXbb6ry0JE0hhq5VMI"
       },
@@ -15532,7 +15550,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 197485,
       "name": "The only thing",
       "url": "https://open.spotify.com/track/3tIO6LF3bh2pRBAm4zSWE4"

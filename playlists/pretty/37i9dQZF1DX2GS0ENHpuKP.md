@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,716 likes - 55 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,773 likes - 55 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 27 | [Can't You See Me](https://open.spotify.com/track/1EzfTM6xAaF4d1FCSARWYL) | [Boogsie](https://open.spotify.com/artist/3Svu0WHorwzeTSxVmGOg5H) | [Under the Influence Vol\. 4 compiled by Nick the Record](https://open.spotify.com/album/5pM5jYmEFRrALBMeykTJOi) | 5:21 |
 | 28 | [Hai capito o no? \- Live](https://open.spotify.com/track/1xBMyLQh9cxjwRdwUqdLxC) | [Ron](https://open.spotify.com/artist/3vuKNU7lgoecqjnArUKom6) | [Tutti cuori viaggianti](https://open.spotify.com/album/0U1L7YV4j7Jd3VDqoDBCmM) | 3:40 |
 | 29 | [Lady Bug \- Disco Mix](https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB) | [Bumblebee Unlimited](https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58) | [Sting Like A Bee](https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI) | 9:49 |
-| 30 | [You Can't Change a Man](https://open.spotify.com/track/2heUj8FdH5QrqUhBG5G1hM) | [Christy Essien Igbokwe](https://open.spotify.com/artist/1HefyGXvLQBSDcnWDXuuFm) | [You Can't Change a Man](https://open.spotify.com/album/77DsUverMpDFGfuT8Esc6M) | 4:01 |
+| 30 | [You Can't Change a Man](https://open.spotify.com/track/5jO6agviIZnOFaaDoJnfkR) | [Christy Essien Igbokwe](https://open.spotify.com/artist/1HefyGXvLQBSDcnWDXuuFm) | [One Understanding](https://open.spotify.com/album/6yHYWMDX8i3WQ396kAfgyU) | 4:01 |
 | 31 | [Vesuvio](https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:41 |
 | 32 | [Danse Cette Zik](https://open.spotify.com/track/0JSDjKJ1VJwmRwW35I3OYH) | [Parbleu](https://open.spotify.com/artist/6TPtmX8rRaOXQgN6WFFTlo) | [Danse Cette Zik](https://open.spotify.com/album/3dMQYdTraNEoCBKUC34Uyt) | 4:19 |
 | 33 | [Se Tu Vuoi](https://open.spotify.com/track/0YDc4kVUW7J0Yr908XFEUa) | [Flavia Fortunato](https://open.spotify.com/artist/6u4qQuBV1wEiChGgPVT45f) | [Canto Per Te](https://open.spotify.com/album/2T4GTTm7POJdcUfRKn4EC1) | 3:40 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 54 | [Il vecchiaccio](https://open.spotify.com/track/1u0uPBJx7pHVlx9L2Wcydu) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [le più belle canzoni](https://open.spotify.com/album/02322HwE6b1hf200vS8dVR) | 3:45 |
 | 55 | [Lotus 72 D \- Fast Version](https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:00 |
 
-Snapshot ID: `MCw0ZTA5YTYwOTgxM2Y0ZjI5ZTZiZTA4ZDZlNmQ0ZTA1NWJmYzJlYjYw`
+Snapshot ID: `MCxmYjRjMWViZWI1MDFhYmE0ZjM3NTZkN2FmYWZjOTNjZjFmOTM1OTA2`

@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 51147,
+  "2024-01-29": 51196,
   "date_first_scraped": "2021-12-29",
   "description": "Mzansi's musical wealth and heritage in one playlist.",
   "name": "SA Gold",
@@ -2809,7 +2809,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 275360,
       "name": "Umoya",
       "url": "https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF"
@@ -3033,7 +3033,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 263293,
       "name": "Where I Wanna Be",
       "url": "https://open.spotify.com/track/0CJ8BEJi9NOQblvrGspHY9"

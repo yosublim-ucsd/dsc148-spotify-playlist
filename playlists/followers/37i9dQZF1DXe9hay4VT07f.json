@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 428139,
+  "2024-01-29": 428217,
   "date_first_scraped": "2021-12-29",
   "description": "We outside. Cover: Valiant",
   "name": "Dancehall Party",
@@ -583,7 +583,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 173844,
       "name": "Calmc",
       "url": "https://open.spotify.com/track/4qRTXseVumpZKty0AGH1o5"
@@ -4935,6 +4935,24 @@
       "duration_ms": 199200,
       "name": "Understand",
       "url": "https://open.spotify.com/track/3c1F3vF1hsKqEoacqHnhWq"
+    },
+    {
+      "album": {
+        "name": "Unfaithful Games",
+        "url": "https://open.spotify.com/album/0QDzewuAi0KMRc1oYzQCc9"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162815,
+      "name": "Unfaithful Games",
+      "url": "https://open.spotify.com/track/1kZ5wCFlcuV7qN2abxU3LO"
     },
     {
       "album": {

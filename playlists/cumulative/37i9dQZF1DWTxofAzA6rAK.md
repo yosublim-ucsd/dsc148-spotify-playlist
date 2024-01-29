@@ -4,7 +4,7 @@
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Intence
 
-194 songs - 9 hr 36 min
+196 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [Pieces \(with Jahshii\)](https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Pieces](https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW) | 3:39 | 2023-05-15 |  |
 | [Powder](https://open.spotify.com/track/7sSVFr6ENsP1D6jWFUNZ3X) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Powder](https://open.spotify.com/album/4tMjcwSNXqUsPhLwsFA1GP) | 2:29 | 2023-05-15 |  |
 | [Pro\-Gress](https://open.spotify.com/track/6uZsoeimrQQH86DVe5DwIn) | [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [Pro\-Gress](https://open.spotify.com/album/2XGhRJbTjrxFH1EWaNl7CH) | 2:42 | 2021-10-20 |  |
-| [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 | 2023-05-15 |  |
+| [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 | 2023-05-15 | 2024-01-29 |
+| [Pull Up](https://open.spotify.com/track/6VZc5PlI7bLmgCYjODYLnG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP) | 2:51 | 2023-05-24 |  |
 | [Racketeer](https://open.spotify.com/track/2zLPeZ5T1ZLGiYLzHV1kCn) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Racketeer](https://open.spotify.com/album/2IjlI8ae5xYFntDtNnTJt9) | 2:39 | 2021-10-20 | 2023-05-24 |
 | [Ready](https://open.spotify.com/track/0i5tGTm0ibiyLSCiDs3CiS) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR), [Nile SNL](https://open.spotify.com/artist/4eUKHWM8spZa4rCtDdPRTZ) | [Ready](https://open.spotify.com/album/1V7ZuemBGHlZHJnXWImgiL) | 2:19 | 2023-05-15 |  |
 | [Riches Wii a Pree](https://open.spotify.com/track/6iT95NOUvQpPjjEnEoO5dP) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Riches Wii a Pree](https://open.spotify.com/album/0EzG5RsmeisxpEsNMoWGCt) | 3:06 | 2023-05-24 |  |
@@ -191,7 +192,8 @@
 | [Want You Back](https://open.spotify.com/track/1jjKMxay070xOXjse6TsGw) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Alandon](https://open.spotify.com/artist/1eEatPjBX7GUArLsabmJVo), [DJ Smo](https://open.spotify.com/artist/65O3QUAeUUs925oniksGJp), [Reid Waters](https://open.spotify.com/artist/0dUCgtuvTnnLNohdnNECkL) | [Want You Back](https://open.spotify.com/album/7DyRjxogpXhnbhSeTKj80P) | 2:33 | 2023-05-15 |  |
 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5) | 4:05 | 2023-05-15 |  |
 | [Weak Spot](https://open.spotify.com/track/0G7OH0l8A8qipYKUh4KsSJ) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Weak Spot](https://open.spotify.com/album/6S6hs9wcy2hxJwkmQdKLwO) | 3:33 | 2023-05-15 |  |
-| [West Indies](https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [West Indies](https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq) | 3:57 | 2021-10-20 |  |
+| [West Indies](https://open.spotify.com/track/2OFvClbKLxtHeVMb3O1pOX) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP) | 3:57 | 2023-05-24 |  |
+| [West Indies](https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [West Indies](https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq) | 3:57 | 2021-10-20 | 2024-01-29 |
 | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [F.S.](https://open.spotify.com/artist/0KR0MgITEQAm0sLRrcuExN) | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/album/1NR77oknzl4KJylIBuhvvu) | 3:01 | 2023-05-15 |  |
 | [Who Cares](https://open.spotify.com/track/1V2JgYBZYFW5zmLrWMQf4w) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Who Cares](https://open.spotify.com/album/20KtHUMM6VGYqfsUVF8QTb) | 2:42 | 2023-05-15 | 2023-12-08 |
 | [Wi Deh Yah](https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Wi Deh Yah](https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1) | 2:26 | 2023-05-15 |  |

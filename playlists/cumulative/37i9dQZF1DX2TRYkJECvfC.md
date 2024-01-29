@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-468 songs - 1 day 16 hr 20 min
+469 songs - 1 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Memories](https://open.spotify.com/track/3wNi79QD5Jkz9yWFSGEeBl) | [LJ MASE](https://open.spotify.com/artist/3agWAq6ZjoWlv5Igeya98N), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Memories](https://open.spotify.com/album/2eVjPnHAVEhHd4povh4dRg) | 5:06 | 2021-12-08 | 2022-11-17 |
 | [Midnight \- Original Mix](https://open.spotify.com/track/5jAAoKfKfENn8EfjqfItKX) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Midnight EP](https://open.spotify.com/album/0IO4rC04ohE3akbw7dQX8v) | 6:59 | 2022-05-03 |  |
 | [Miles Away](https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Miles Away](https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa) | 4:28 | 2023-09-08 |  |
+| [Mimose](https://open.spotify.com/track/5aYZ8EM8Do3PpgUqArgiQ8) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Mimose](https://open.spotify.com/album/4Ng9Nfr1cVIftnjfuzDUG2) | 4:14 | 2024-01-26 |  |
 | [Mine To Love](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Azure EP](https://open.spotify.com/album/5M4iiiphjdlqSq9Yutm6QU) | 3:42 | 2023-03-03 |  |
 | [Moment](https://open.spotify.com/track/2Zk9i8ayiwYLZIEJemuhl9) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Moment](https://open.spotify.com/album/4zvb6dFdrfPFHcLGtMdCXr) | 3:12 | 2022-01-14 | 2022-02-22 |
 | [Moment In Time](https://open.spotify.com/track/0mqObq0LCWmM0P0zLQd1eh) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Moment In Time](https://open.spotify.com/album/29wquy11Iersljz5usyVA2) | 3:57 | 2021-12-08 |  |
@@ -397,7 +398,7 @@
 | [Supervivencia \- Original Mix](https://open.spotify.com/track/4bJlbvjScvFlkzuHU1AC0n) | [Julian Iannone](https://open.spotify.com/artist/01mHkY7IVrdNlF1KJm1hkQ), [Ramon Bedoya](https://open.spotify.com/artist/7bca0jrEcYw3lqIHQp3wl2) | [Supervivencia](https://open.spotify.com/album/0wAqQzMRN0RIsjYdb27Xs5) | 7:21 | 2021-12-08 | 2022-07-05 |
 | [Surrender](https://open.spotify.com/track/1o5ZPbk5NxzAODTs698XTz) | [Angelos](https://open.spotify.com/artist/2zagWFWxFhQg3OvUmnnliq), [Jaidene Veda](https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG) | [Surrender EP](https://open.spotify.com/album/4YMwLHF5geIbncO1hSCm6Y) | 6:34 | 2021-12-08 |  |
 | [Surrender \- Pablo Fierro Remix](https://open.spotify.com/track/3DioyryIiTFOavvhrQ00G6) | [Angelos](https://open.spotify.com/artist/2zagWFWxFhQg3OvUmnnliq), [Jaidene Veda](https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG), [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Surrender EP](https://open.spotify.com/album/4YMwLHF5geIbncO1hSCm6Y) | 7:40 | 2021-12-08 | 2023-03-04 |
-| [Swim](https://open.spotify.com/track/7I1e5uMItJ9kiTWFyUayVs) | [Hugo Mari](https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU) | [Swim](https://open.spotify.com/album/1DEJoLpHJgQrKW4g6OtNSp) | 4:12 | 2021-12-08 |  |
+| [Swim](https://open.spotify.com/track/7I1e5uMItJ9kiTWFyUayVs) | [Hugo Mari](https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU) | [Swim](https://open.spotify.com/album/1DEJoLpHJgQrKW4g6OtNSp) | 4:12 | 2021-12-08 | 2024-01-29 |
 | [Swing Theory \- Radio Edit](https://open.spotify.com/track/1hdg5jyymn9UVOoqi9FY9o) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH) | [Swing Theory EP](https://open.spotify.com/album/1ZRQKNxFP6nBWnNOA9ZJOd) | 3:54 | 2021-12-08 | 2023-05-13 |
 | [Synesthesia](https://open.spotify.com/track/4IyPWtUklvJDCG5b7eFZyg) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Synesthesia](https://open.spotify.com/album/1lBVXRRehgnwoMpRm0wwBb) | 4:28 | 2023-09-08 |  |
 | [Takume](https://open.spotify.com/track/3zQwLgmWd0CDRIKZXq9WsW) | [INNX](https://open.spotify.com/artist/5nJed4T0G1U9dZlF5W9Otb) | [Takume](https://open.spotify.com/album/6WDPLQDBa4mjjJQi0rOY0X) | 6:35 | 2021-12-08 |  |

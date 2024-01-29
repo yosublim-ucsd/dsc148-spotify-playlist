@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 6162,
+  "2024-01-29": 6174,
   "date_first_scraped": "2023-07-08",
   "description": "Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses. Cover : Ishaan Ghosh",
   "name": "ECHO : Tabla Rhythms",
@@ -701,10 +701,32 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 326666,
       "name": "Tabla Breath",
       "url": "https://open.spotify.com/track/1xCGBNquEBWEYeliECZqki"
+    },
+    {
+      "album": {
+        "name": "One River",
+        "url": "https://open.spotify.com/album/2sLe3CidNMoGusZDUouKcA"
+      },
+      "artists": [
+        {
+          "name": "Benjy Wertheimer",
+          "url": "https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX"
+        },
+        {
+          "name": "John De Kadt",
+          "url": "https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326666,
+      "name": "Tabla Breath",
+      "url": "https://open.spotify.com/track/6P6eZPLalsneaRcCT6fMgp"
     },
     {
       "album": {

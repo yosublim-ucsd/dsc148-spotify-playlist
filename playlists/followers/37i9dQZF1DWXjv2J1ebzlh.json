@@ -1,5 +1,5 @@
 {
-  "2024-01-28": 106722,
+  "2024-01-29": 106748,
   "date_first_scraped": "2022-06-10",
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
   "name": "Bon Voyage",
@@ -7331,10 +7331,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-28",
       "duration_ms": 257373,
       "name": "Chan Chan",
       "url": "https://open.spotify.com/track/1A4dz8BQdYd2rphqrtFpyB"
+    },
+    {
+      "album": {
+        "name": "Cafe Havana",
+        "url": "https://open.spotify.com/album/6nVlDrSjPXusRk45H1xbIr"
+      },
+      "artists": [
+        {
+          "name": "Cuba Cuba",
+          "url": "https://open.spotify.com/artist/0lGLinWCvSkF3eSyV9a6aB"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257279,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/6w9KBNh6hsrYMDhDB0Eieq"
     },
     {
       "album": {

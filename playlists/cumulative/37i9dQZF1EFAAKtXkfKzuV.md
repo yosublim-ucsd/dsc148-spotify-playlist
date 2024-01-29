@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-61 songs - 2 hr 50 min
+63 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Flimmerlicht](https://open.spotify.com/track/7J2aP9q1HDpq7edb4b7sK5) | [48 Stunden](https://open.spotify.com/artist/0lzjvvk1UkMwgbpDYlpE7M) | [Der Letzte Sommer](https://open.spotify.com/album/3i9sd6fOlY6b6EVrs6lzT6) | 4:04 | 2023-06-29 |  |
 | [Follow Me \(Into the Sun\)](https://open.spotify.com/track/1am9iMOzvV1VrhwCBsPmbc) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Follow Me \(Into the Sun\)](https://open.spotify.com/album/6L7ZEimKo9L67LdkYd8HpZ) | 1:35 | 2023-12-13 |  |
 | [Forgot How to Love](https://open.spotify.com/track/2DyOstPCEqOJfBA4tcMC6t) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [Forgot How to Love](https://open.spotify.com/album/7oCCiK2qVfJY019T4Wdhgj) | 2:29 | 2023-06-29 |  |
-| [Gewissenlos](https://open.spotify.com/track/097dlPGhNKGPhoDniwPvCZ) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Gewissenlos](https://open.spotify.com/album/2CJg2ELQSaeAf7QYt6zGUM) | 3:00 | 2023-12-13 |  |
+| [Gewissenlos](https://open.spotify.com/track/097dlPGhNKGPhoDniwPvCZ) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Gewissenlos](https://open.spotify.com/album/2CJg2ELQSaeAf7QYt6zGUM) | 3:00 | 2023-12-13 | 2024-01-29 |
+| [Gewissenlos](https://open.spotify.com/track/5ggxyRAcTN1PFVNGgw4wmM) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 3:00 | 2024-01-28 |  |
 | [Gone for Good](https://open.spotify.com/track/7ay7NUJBH3Sh5fyaJd8V0R) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Gone for Good](https://open.spotify.com/album/7GxwZXchbvbGixgHnrNiXr) | 2:33 | 2023-08-25 |  |
 | [Guilty](https://open.spotify.com/track/1acexIzypi1joCwS2hbkiY) | [Asher Angel](https://open.spotify.com/artist/48wfV4LAYtBe3r5SdjvjHX) | [Guilty](https://open.spotify.com/album/4a8rIXcOFlaNyvXKoO9GOQ) | 2:17 | 2023-12-13 |  |
 | [Guilty](https://open.spotify.com/track/3SGM2GWhK4hJSFon35F5l0) | [Asher Angel](https://open.spotify.com/artist/48wfV4LAYtBe3r5SdjvjHX) | [Guilty](https://open.spotify.com/album/1IgcvMS2cjy33nggjKuqVq) | 2:17 | 2023-06-29 | 2023-12-14 |
@@ -64,7 +65,8 @@
 | [The Best Is Yet To Come](https://open.spotify.com/track/6A5zWnkFR96Z4SJPon9KjD) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Best Is Yet To Come](https://open.spotify.com/album/2zs4alV54L7X8B0lNghrG7) | 3:03 | 2023-06-29 |  |
 | [Used To](https://open.spotify.com/track/7fxBpWDrnSYnbMq1nXxHPw) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [Used To](https://open.spotify.com/album/2WaLo3xRff8eUIbRRrhgTm) | 2:39 | 2023-06-29 |  |
 | [Vermisse gar nichts \- Akustik Version](https://open.spotify.com/track/0GNUZmcZjInPaJBufzfXYu) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ), [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Besser kann ich es nicht erklären \(Deluxe\)](https://open.spotify.com/album/5ZFDT3yYk1te0ROLbXjUld) | 3:15 | 2023-06-29 |  |
-| [Versprich mir du gehst](https://open.spotify.com/track/1nIfneoBS1iYRcdWPYqgq4) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ), [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Versprich mir du gehst](https://open.spotify.com/album/0pK7yVTUsuHjDWV9BGw8nm) | 2:58 | 2024-01-27 |  |
+| [Versprich mir du gehst](https://open.spotify.com/track/1nIfneoBS1iYRcdWPYqgq4) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ), [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Versprich mir du gehst](https://open.spotify.com/album/0pK7yVTUsuHjDWV9BGw8nm) | 2:58 | 2024-01-27 | 2024-01-29 |
+| [Versprich mir du gehst](https://open.spotify.com/track/3aQJMAHkaEFNt2fD9JvDXa) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ), [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 2:58 | 2024-01-28 |  |
 | [We're Done](https://open.spotify.com/track/1ZmP8k7gRkFnHU5WT5f3qm) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Zoe Maxwell](https://open.spotify.com/artist/642AbhxMV1HpvwV4kMAFmw) | [We're Done](https://open.spotify.com/album/5OMiYGBlMTN09vXaf8rZ5u) | 2:59 | 2023-06-29 |  |
 | [Wenn mein Herz wieder bricht](https://open.spotify.com/track/2JCNmjkXZ9XZaGYGy15QOL) | [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Wenn mein Herz wieder bricht](https://open.spotify.com/album/4Fq0A9Ayu7gKZaPsghKFw4) | 3:14 | 2023-06-29 |  |
 | [When I Wake Up](https://open.spotify.com/track/6URUyQLdPdKgCySVgryLpH) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [LNZHD](https://open.spotify.com/album/6R9ddkyO2cIN2TqZGBWcvg) | 2:54 | 2023-06-29 |  |

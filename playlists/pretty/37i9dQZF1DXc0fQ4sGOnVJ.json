@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 147276,
+  "num_followers": 147226,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmFiNzY1OTdiNDhkZWY5MWMyZDhlY2VkNGNlZmU5ZmZmYzZhZTY2",
+  "snapshot_id": "MCw4ZThjOTIzNjE1ZWFjZDczYmYxMjZhYzAxNzY3MTE2N2U5MTQ4YWEx",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:00",
@@ -535,22 +535,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Down the Road (feat. Colt Ford) [Remix]",
-        "url": "https://open.spotify.com/album/5yc1gjIdUXeSY6U6Qa1jwb"
+        "name": "Dirt Rock",
+        "url": "https://open.spotify.com/album/5fVHkVelQbRQs1QfFDCHk7"
       },
       "artists": [
         {
-          "name": "Kidd G",
-          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
         },
         {
-          "name": "Colt Ford",
-          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+          "name": "Nate Kenyon",
+          "url": "https://open.spotify.com/artist/18uDt2CmzLwhbVUORHE6x4"
         }
       ],
-      "duration_ms": 165315,
-      "name": "Down the Road (feat. Colt Ford) - Remix",
-      "url": "https://open.spotify.com/track/4CmYl83JZSKuMMjssiALgs"
+      "duration_ms": 229773,
+      "name": "Willie Nelson (feat. Nate Kenyon)",
+      "url": "https://open.spotify.com/track/4vcHeAH1Zcg7bF74PfaFlO"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -571,22 +571,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Dirt Rock",
-        "url": "https://open.spotify.com/album/5fVHkVelQbRQs1QfFDCHk7"
+        "name": "Down the Road (feat. Colt Ford) [Remix]",
+        "url": "https://open.spotify.com/album/5yc1gjIdUXeSY6U6Qa1jwb"
       },
       "artists": [
         {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
         },
         {
-          "name": "Nate Kenyon",
-          "url": "https://open.spotify.com/artist/18uDt2CmzLwhbVUORHE6x4"
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
         }
       ],
-      "duration_ms": 229773,
-      "name": "Willie Nelson (feat. Nate Kenyon)",
-      "url": "https://open.spotify.com/track/4vcHeAH1Zcg7bF74PfaFlO"
+      "duration_ms": 165315,
+      "name": "Down the Road (feat. Colt Ford) - Remix",
+      "url": "https://open.spotify.com/track/4CmYl83JZSKuMMjssiALgs"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -671,22 +671,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Dirt Road (Remix) (feat. BRELAND)",
-        "url": "https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo"
+        "name": "Time to Get Right",
+        "url": "https://open.spotify.com/album/5DULWTKKsU4R7aXFOfo3OB"
       },
       "artists": [
         {
-          "name": "Kidd G",
-          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
-        },
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+          "name": "Jessta James",
+          "url": "https://open.spotify.com/artist/35Gl3ugDwfqKvwOrlHcQqK"
         }
       ],
-      "duration_ms": 155866,
-      "name": "Dirt Road (Remix) (feat. BRELAND)",
-      "url": "https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL"
+      "duration_ms": 255426,
+      "name": "If That Ain't Country",
+      "url": "https://open.spotify.com/track/2bWaQyC68Bt7FSXCACY2aN"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -711,18 +707,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Time to Get Right",
-        "url": "https://open.spotify.com/album/5DULWTKKsU4R7aXFOfo3OB"
+        "name": "Dirt Road (Remix) (feat. BRELAND)",
+        "url": "https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo"
       },
       "artists": [
         {
-          "name": "Jessta James",
-          "url": "https://open.spotify.com/artist/35Gl3ugDwfqKvwOrlHcQqK"
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+        },
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
         }
       ],
-      "duration_ms": 255426,
-      "name": "If That Ain't Country",
-      "url": "https://open.spotify.com/track/2bWaQyC68Bt7FSXCACY2aN"
+      "duration_ms": 155866,
+      "name": "Dirt Road (Remix) (feat. BRELAND)",
+      "url": "https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL"
     },
     {
       "added_at": "2023-12-22 05:00:00",

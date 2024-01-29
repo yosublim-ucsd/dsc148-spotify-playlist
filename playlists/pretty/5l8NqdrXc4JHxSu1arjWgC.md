@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,240 likes - 684 songs - 1 day 22 hr 4 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,240 likes - 693 songs - 1 day 22 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -692,5 +692,14 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 682 | [Copy Of A](https://open.spotify.com/track/6xlsMxBuulXsX0hY37iE70) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Hesitation Marks](https://open.spotify.com/album/26m96TIXkNAiL4fl4aiFvd) | 5:22 |
 | 683 | [Vernie](https://open.spotify.com/track/14E3sWuyPFwTj1KVqn3hj2) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Soup](https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO) | 3:15 |
 | 684 | [Piranha](https://open.spotify.com/track/1vqw24tqUeqKtTA8fiPccF) | [Tripping Daisy](https://open.spotify.com/artist/7hhoMvZJRwEdjJUBpuWiDk) | [I Am An Elastic Firecracker](https://open.spotify.com/album/4H0sGJvU49fFtUH86CJyu5) | 4:47 |
+| 685 | [Tones Of Home](https://open.spotify.com/track/2Gd9ME5OKuzUB0QAT1HtL0) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/0A6yLV44DEhpwXB7cyvLEP) | 4:26 |
+| 686 | [In A Big Country](https://open.spotify.com/track/1tAFvq63jO3n9WaDCZPJNh) | [Big Country](https://open.spotify.com/artist/1h8YIw9HLr6E8gdXVDRbVJ) | [The Crossing](https://open.spotify.com/album/3ODt64EiOqXvwR5fEIWlWy) | 4:44 |
+| 687 | [Gangsters](https://open.spotify.com/track/5RogPnGizCEgf2TgPd1YtG) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Forgotten 70's Hits](https://open.spotify.com/album/1eu3UDetw7CZtEUUZVydVR) | 3:54 |
+| 688 | [We Care a Lot](https://open.spotify.com/track/2z1uVu3OwTmPlfqt5TWk5k) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Introduce Yourself](https://open.spotify.com/album/0kBy2KA6BuCWveFo88VmMX) | 4:03 |
+| 689 | [Wear Your Love Like Heaven](https://open.spotify.com/track/0NkqCdYDySVdBoeGs4Nywe) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [A Gift From A Flower To A Garden](https://open.spotify.com/album/4g2Bs0K7hTjvMEWM44USwz) | 2:26 |
+| 690 | [Mother Mother](https://open.spotify.com/track/6WGaVdhY8uMWMgxiKpdLVy) | [Tracy Bonham](https://open.spotify.com/artist/6RaSfqo4f0b42iNouQeAKK) | [The Burdens Of Being Upright](https://open.spotify.com/album/1tKKCue9Yi0oYnzP68fLvz) | 3:00 |
+| 691 | [Hateful \- Remastered](https://open.spotify.com/track/2FNsNZjUQg3bhx5dWW0pRs) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 2:43 |
+| 692 | [Tried And True](https://open.spotify.com/track/4VtbQx2koGlw8Ple6O2IZH) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [Quebec](https://open.spotify.com/album/0GOWw5YVpOmIX6mUtjLi30) | 4:02 |
+| 693 | [Human Crime](https://open.spotify.com/track/1a1Mk18Fh0eba27uRe9fh4) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Human Crime](https://open.spotify.com/album/5t30kYZOvnKjhQPojZMpVi) | 3:07 |
 
-Snapshot ID: `MTcwNyw1ZDM1MjZlOWEwZGI2YjRkNDgyM2Q5YmM2YTRiYTA5ZmI1ZWU0ZDBj`
+Snapshot ID: `MTcxNiwzN2E4MjVlNjRhODNhNzE3MjBiMmYyMDhkYzMwZTJmODEwNTk1ZDcx`

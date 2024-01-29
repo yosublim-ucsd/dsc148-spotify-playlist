@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: FRIDAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,209 likes - 91 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,226 likes - 91 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 90 | [Hold Your Head Up \(feat\. Jack Savoretti\)](https://open.spotify.com/track/5f81IBtp89HGHZ6qYoxwvd) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [Hold Your Head Up \(feat\. Jack Savoretti\)](https://open.spotify.com/album/21SOe11JbPN5S3FosDDujh) | 3:07 |
 | 91 | [The Show](https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:11 |
 
-Snapshot ID: `MCwxNzNkMWFjNTJiYTI3NDA3MDBmNDQyYjg3M2U5NDNhYmY4Y2NmODFi`
+Snapshot ID: `MCwzODU5MmQ1ODQzMWQ3MDJlOWY2YzA0MDZkODA0NTAzNjllYjE1Mjg3`

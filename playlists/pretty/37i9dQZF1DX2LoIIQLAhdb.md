@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Franglish
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,354 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,423 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Mama](https://open.spotify.com/track/3mBj1U1FgqYSPFjiOw3MTO) | [Dieson Samba](https://open.spotify.com/artist/4IJNkk3UY2TjVpL4T2z1ki) | [Mama](https://open.spotify.com/album/7sWLVrQIi4JujdLhuNmdXB) | 2:26 |
 | 40 | [On sait jamais](https://open.spotify.com/track/3KJ09hhKE2fLIxcoLS4sAD) | [Driks](https://open.spotify.com/artist/3mTLkUsH6xz7b0UjcNcVsN) | [On sait jamais](https://open.spotify.com/album/6s5BcLYgORt6uvUbSVb7mL) | 2:48 |
 
-Snapshot ID: `MCw2NzExZTRkOTU3OWYwNDkwMDUxNDA1YmM4YTJiYzNkM2Q1ZmQ3NTQy`
+Snapshot ID: `MCxiNDg2YzRiN2NmYzc2YTJlZWY0NzQ5ZmQwMzA2OGI1OGIxZWM3MzQw`

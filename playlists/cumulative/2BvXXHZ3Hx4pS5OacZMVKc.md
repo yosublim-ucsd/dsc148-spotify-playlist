@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/2BvXXHZ3Hx4pS5OacZMVKc.md) - cumulative - [plain](/playlists/plain/2BvXXHZ3Hx4pS5OacZMVKc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2BvXXHZ3Hx4pS5OacZMVKc)
 
-### [Gaming Music 2023](https://open.spotify.com/playlist/2BvXXHZ3Hx4pS5OacZMVKc)
+### [Gaming Music 2024](https://open.spotify.com/playlist/2BvXXHZ3Hx4pS5OacZMVKc)
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 

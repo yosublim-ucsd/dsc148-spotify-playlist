@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \baespa) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 232395,
+  "num_followers": 232534,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTYwNjVlZmIzN2ZmYzhhMmJlZGJmN2I1YmUxMjMyYzg5MzYyZDFi",
+  "snapshot_id": "MCxiNjYzYWRkZmM5ZjJhOGZkMTBmNmU5ZDM0OWM3YTgzNjFkZGJmMmY1",
   "tracks": [
     {
       "added_at": "2024-01-15 09:11:01",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-01-15 09:11:01",
       "album": {
-        "name": "I \u2260 DOLL",
-        "url": "https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT"
-      },
-      "artists": [
-        {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
-        }
-      ],
-      "duration_ms": 150269,
-      "name": "I \u2260 DOLL",
-      "url": "https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa"
-    },
-    {
-      "added_at": "2024-01-15 09:11:01",
-      "album": {
         "name": "Episode",
         "url": "https://open.spotify.com/album/1L2jHkzXmQyGUBAy3ReAxL"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 205213,
       "name": "Episode",
       "url": "https://open.spotify.com/track/3ImDzyDVlxu6qjxT49vlX0"
+    },
+    {
+      "added_at": "2024-01-15 09:11:01",
+      "album": {
+        "name": "I \u2260 DOLL",
+        "url": "https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT"
+      },
+      "artists": [
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        }
+      ],
+      "duration_ms": 150269,
+      "name": "I \u2260 DOLL",
+      "url": "https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa"
     },
     {
       "added_at": "2024-01-15 09:11:01",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-01-15 09:11:01",
       "album": {
-        "name": "COLORFUL TRAUMA",
-        "url": "https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe"
+        "name": "23",
+        "url": "https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B"
       },
       "artists": [
         {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
         }
       ],
-      "duration_ms": 190000,
-      "name": "I hate you",
-      "url": "https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX"
+      "duration_ms": 241692,
+      "name": "TOMBOY",
+      "url": "https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

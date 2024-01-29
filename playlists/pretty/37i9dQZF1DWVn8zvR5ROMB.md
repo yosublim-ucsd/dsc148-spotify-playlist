@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring MacKenzie Porter, Morgan Wallen, Tyler Hubbard and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,791 likes - 73 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,953 likes - 73 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 72 | [Devil's Money](https://open.spotify.com/track/50YJ1k4Xi4b4DmzQhyKlPL) | [Mary Kutter](https://open.spotify.com/artist/0rTX0ieS2m0gUGLlLe4kQP) | [Devil's Money](https://open.spotify.com/album/2Vnruy8SLnV6iHlrgDDQSb) | 2:32 |
 | 73 | [Cowboy Ride Home](https://open.spotify.com/track/0iefRDcGLzHz0mZ9u3YoGk) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Cowboy Ride Home](https://open.spotify.com/album/1zn48xh3hEzwOPlD7B0pTc) | 3:45 |
 
-Snapshot ID: `MCwxYzZhMzk4OTBiNDY0NmExMTE3NDUwNWFiMTFjZjNhZjcyNmI5MTY1`
+Snapshot ID: `MCw1NDdmMDFlMTdhZWNkMmQ4YzViMzY4OTdlNmFmMjkwNDJlNmNjYzM0`
