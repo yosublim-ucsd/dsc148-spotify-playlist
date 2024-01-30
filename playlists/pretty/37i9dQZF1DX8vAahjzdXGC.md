@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: James Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,002 likes - 97 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,012 likes - 97 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 44 | [Break The Silence \- English Version](https://open.spotify.com/track/4vQCz5hbLgj5HkmAqopHps) | [Audrey Vanessa](https://open.spotify.com/artist/0wKI7n8o1gQRhMV8R5nGSA) | [Break The Silence](https://open.spotify.com/album/27OWtD1B5EOAVq7sBfEZgO) | 3:48 |
 | 45 | [One Night/All Night](https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night](https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK) | 4:36 |
 | 46 | [Reckless Child](https://open.spotify.com/track/1y093zNa1pQUw8SDBstgXc) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Reckless Child](https://open.spotify.com/album/3hgRlpLt7y31c0KFUE4xcX) | 2:54 |
-| 47 | [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 |
+| 47 | [Head Up](https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp) | 3:09 |
 | 48 | [WTF R U!?](https://open.spotify.com/track/7IrBKNBMGIDv8od1EEaQPk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [WTF R U!?](https://open.spotify.com/album/1qNBQh6STwsh2iP8bFecSg) | 2:32 |
 | 49 | [Lead Me On](https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Lead Me On](https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb) | 2:53 |
 | 50 | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A) | 5:00 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 96 | [No Doubt](https://open.spotify.com/track/3vMtPTyRz8UKXuGXGmqhHM) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [No Doubt](https://open.spotify.com/album/48UbbOD6O9q4Nc95CIalLR) | 3:46 |
 | 97 | [Don't Let It Break Your Heart](https://open.spotify.com/track/7GN6brQCfYOqHTYJ16ZL1T) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Don't Let It Break Your Heart](https://open.spotify.com/album/0bpcG8lePecCAyQzC85P0G) | 3:26 |
 
-Snapshot ID: `MCxiOWM0MWM1NGU2ODRiM2RmMTI4MDE5NzkwMjA2MzI4OTk1MTExZDYw`
+Snapshot ID: `MCwyZTA5MmRmZTUwNGJhNDRmZTQzMGY2ZjIyYTA2OWE3MTViNzY1MzIw`

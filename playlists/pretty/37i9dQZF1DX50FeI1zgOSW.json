@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sanathan Shree Krishnan",
-  "num_followers": 6352,
+  "num_followers": 6388,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGE4Y2VjOGVhNGQ0NTY2NDM3YjZmNzA1MzVlZTE1N2IzYmIzMDNk",
+  "snapshot_id": "MCw5ZmU5YzE3NWVjNzEyMDI1ZWE0ZWJiNzU5NGQxYTNjZTIzM2M1NmQ2",
   "tracks": [
     {
       "added_at": "2023-10-27 09:17:06",
@@ -43,6 +43,46 @@
       "duration_ms": 222375,
       "name": "Boomer Uncle",
       "url": "https://open.spotify.com/track/76Rduf0fn3F5UsCZI4X17J"
+    },
+    {
+      "added_at": "2024-01-29 08:53:46",
+      "album": {
+        "name": "Yugam Thaandi",
+        "url": "https://open.spotify.com/album/2vwEDGIloo1geXcnCBcPbs"
+      },
+      "artists": [
+        {
+          "name": "Stefan Packianathan",
+          "url": "https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa"
+        }
+      ],
+      "duration_ms": 242625,
+      "name": "Yugam Thaandi",
+      "url": "https://open.spotify.com/track/1vipkTlGAOLkWzPhjheXFj"
+    },
+    {
+      "added_at": "2024-01-29 08:56:18",
+      "album": {
+        "name": "Ranganaa",
+        "url": "https://open.spotify.com/album/7Abooc4IFECT3bOeejP6eB"
+      },
+      "artists": [
+        {
+          "name": "Jo",
+          "url": "https://open.spotify.com/artist/7rTuLzJBUcmKeqfqxuhv94"
+        },
+        {
+          "name": "Kavindya Adikari",
+          "url": "https://open.spotify.com/artist/7qionbkzGDNdQeqwBExzqB"
+        },
+        {
+          "name": "Cozzy",
+          "url": "https://open.spotify.com/artist/5wbotL8r54GNzca15JjKa5"
+        }
+      ],
+      "duration_ms": 202421,
+      "name": "Ranganaa",
+      "url": "https://open.spotify.com/track/43IUMVJK6qYgjq5dPzUO8j"
     },
     {
       "added_at": "2024-01-23 11:59:42",
@@ -1053,22 +1093,6 @@
       "url": "https://open.spotify.com/track/0qJyvMQ9VyX2jC0nPzC9yI"
     },
     {
-      "added_at": "2023-08-31 11:21:33",
-      "album": {
-        "name": "Pozhudhugal",
-        "url": "https://open.spotify.com/album/3y77bo40iqv3V5cvGrQRAH"
-      },
-      "artists": [
-        {
-          "name": "Kiran Surath N",
-          "url": "https://open.spotify.com/artist/3HtIU5rxQT1V2GiAorUK8I"
-        }
-      ],
-      "duration_ms": 146203,
-      "name": "Pozhudhugal",
-      "url": "https://open.spotify.com/track/5AzjLBpTMQAVolbzZ5dzJH"
-    },
-    {
       "added_at": "2023-07-31 06:41:45",
       "album": {
         "name": "\u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc7... \u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc7...",
@@ -1311,38 +1335,6 @@
       "duration_ms": 243323,
       "name": "Kaatru Veesum Iravu",
       "url": "https://open.spotify.com/track/2N1mLYWZk93Tq9GnOCaHrU"
-    },
-    {
-      "added_at": "2023-07-19 14:56:47",
-      "album": {
-        "name": "Karupalagi",
-        "url": "https://open.spotify.com/album/4tjkowdfpmhjMtRKAovi9N"
-      },
-      "artists": [
-        {
-          "name": "Kishore krishnan",
-          "url": "https://open.spotify.com/artist/7lCO7RX3b2d22J0OUMYRXj"
-        }
-      ],
-      "duration_ms": 209285,
-      "name": "Karupalagi",
-      "url": "https://open.spotify.com/track/5WbO7n09uccYyjhF510EKz"
-    },
-    {
-      "added_at": "2023-07-12 08:19:12",
-      "album": {
-        "name": "Valithathey",
-        "url": "https://open.spotify.com/album/1mx2goQMmpZ4Xy08BMbo8F"
-      },
-      "artists": [
-        {
-          "name": "Allan Preetham",
-          "url": "https://open.spotify.com/artist/5fzwyKrgd74RioG5kFNY03"
-        }
-      ],
-      "duration_ms": 121874,
-      "name": "Valithathey",
-      "url": "https://open.spotify.com/track/3sKdK2a0Arlv0KC0BEorQl"
     },
     {
       "added_at": "2023-07-12 08:24:04",

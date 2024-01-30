@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0623\u062c\u0645\u062f \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a \u0641\u064a \u0645\u0635\u0631\ud83d\udd25 \n \u0643\u0648\u0641\u0631: <a href=\"https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB?si=5pOYTLVwR4uoTuzhcAmH5Q\"> \u0643\u0631\u064a\u0645 \u0643\u0631\u0633\u062a\u064a\u0627\u0646\u0648 </a> ",
+  "description": "\u0623\u062c\u0645\u062f \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a \u0641\u064a \u0645\u0635\u0631\ud83d\udd25 \n \u0643\u0648\u0641\u0631: <a href=\"https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB?si=JtoVxGGLRaqTdSS46bGHxg\"> \u0627\u0633\u0644\u0627\u0645 \u0643\u0627\u0628\u0648\u0646\u062c </a> ",
   "name": "\u0623\u0642\u0648\u0649 \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a",
   "tracks": [
     {
@@ -3890,6 +3890,28 @@
       "duration_ms": 212000,
       "name": "\u0648\u0627\u0646\u062a \u0631\u0627\u064a\u062d \u0643\u0646\u0627 \u0647\u0646\u0627\u0643",
       "url": "https://open.spotify.com/track/0lPlGW4DAFgmB9dZpRjMDX"
+    },
+    {
+      "album": {
+        "name": "\u0648\u062d\u062f\u0627\u0646\u064a \u0631\u063a\u0645 \u062c\u0645\u062f\u0627\u0646\u064a",
+        "url": "https://open.spotify.com/album/5BTeRCXFgRkMy7ufpsgYlw"
+      },
+      "artists": [
+        {
+          "name": "Eslam Kabonga",
+          "url": "https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB"
+        },
+        {
+          "name": "Hamo Ashraf",
+          "url": "https://open.spotify.com/artist/72EQa5bvShk1lxSXAIelKp"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221753,
+      "name": "\u0648\u062d\u062f\u0627\u0646\u064a \u0631\u063a\u0645 \u062c\u0645\u062f\u0627\u0646\u064a",
+      "url": "https://open.spotify.com/track/28X0agSVwzgki5lVEmyhJx"
     },
     {
       "album": {

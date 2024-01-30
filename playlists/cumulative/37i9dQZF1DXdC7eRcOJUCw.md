@@ -4,7 +4,7 @@
 
 > Estas damas sí que tienen carácter\. Yuridia en portada.
 
-214 songs - 11 hr 35 min
+215 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,8 +69,8 @@
 | [Fruta Prohibida](https://open.spotify.com/track/0oZYQ8dIQh5EFQwErqDWl6) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 2:45 | 2022-06-08 |  |
 | [Fruta Prohibida](https://open.spotify.com/track/3x9x9FMUXUkAQSpLYlH4vY) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Fruta Prohibida](https://open.spotify.com/album/0q4wmFZM0Doz5GkzZQmpts) | 2:45 | 2022-04-18 | 2022-07-29 |
 | [Fruta Prohibida](https://open.spotify.com/track/7wzBcwQYUyboa2w56LWlIP) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Fruta Prohibida](https://open.spotify.com/album/186sbJdKHVH7OM5MuBtdUv) | 2:45 | 2022-06-08 | 2022-12-22 |
-| [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Fue Tan Poco Tu Cariño](https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU) | 3:15 | 2023-07-28 | 2024-01-29 |
-| [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/3odp8TF0NtxpSWl3ttysZq) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 3:15 | 2023-11-10 |  |
+| [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Fue Tan Poco Tu Cariño](https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU) | 3:15 | 2023-07-28 |  |
+| [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/3odp8TF0NtxpSWl3ttysZq) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 3:15 | 2023-11-10 | 2024-01-30 |
 | [Gaviota Traidora](https://open.spotify.com/track/4RFUAP9a2VWF7BF0XsghH8) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [15 Éxitos](https://open.spotify.com/album/6GwaoWbWyoONxQA8NxnaQM) | 2:42 | 2022-06-08 | 2022-11-13 |
 | [Gaviota Traidora](https://open.spotify.com/track/54UCeomwW6iG6gN0YijQfM) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [15 Grandes Exitos\-Flor Silvestre](https://open.spotify.com/album/4FNgT1gbX9oHHuikiyZcOv) | 2:42 | 2021-11-26 | 2022-07-29 |
 | [Gaviota Traidora](https://open.spotify.com/track/65DppNriLfxOOM5eCSaKm3) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [15 Éxitos](https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg) | 2:42 | 2022-06-08 |  |
@@ -205,7 +205,8 @@
 | [Vámonos](https://open.spotify.com/track/0dtDYTLPsBjnJHvOfny8te) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 2:59 | 2021-11-26 |  |
 | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE) | 2:58 | 2022-06-08 | 2023-02-18 |
 | [Y Volvere](https://open.spotify.com/track/0BKQcXaeCmqhGv72P4Fo25) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Desafío De Divas](https://open.spotify.com/album/0AtvVJ8iAYBi0drA2wqDU2) | 3:17 | 2022-06-08 | 2023-11-18 |
-| [Y Volvere](https://open.spotify.com/track/5NQD1UTDqELITz9G9ehD6l) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Divas del Mariachi](https://open.spotify.com/album/2dxMFiI5snjmKAZKNC6Nd9) | 3:17 | 2023-11-10 |  |
+| [Y Volvere](https://open.spotify.com/track/4Y0ST9NM7qIk4MNqehy5mb) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Duelo Romántico](https://open.spotify.com/album/7p0npRWEOE6S2ZjbEBBRF2) | 3:17 | 2023-12-15 |  |
+| [Y Volvere](https://open.spotify.com/track/5NQD1UTDqELITz9G9ehD6l) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Divas del Mariachi](https://open.spotify.com/album/2dxMFiI5snjmKAZKNC6Nd9) | 3:17 | 2023-11-10 | 2024-01-30 |
 | [Y Volvere](https://open.spotify.com/track/6jEeiPJzflqEBPPMED1MKi) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Rancheras](https://open.spotify.com/album/7de2kW1O6r8poOQG0cS3wU) | 3:17 | 2022-06-08 | 2022-11-13 |
 | [Y Volveré...](https://open.spotify.com/track/2jLCF9svTRPh0dF2Ugv1AB) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Cariño de Mis Cariños](https://open.spotify.com/album/6v7iTP4Lh5C9adz8mXIi7G) | 3:19 | 2021-11-26 | 2022-07-29 |
 | [Ya Me Voy Para Siempre](https://open.spotify.com/track/1zCfG4iMtCvcCjkoa2kJa7) | [Chayito Valdez](https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04) | [15 Éxitos: Chayito Valdez](https://open.spotify.com/album/36a05M8c3EUno9kl5gePDs) | 3:17 | 2021-11-26 |  |

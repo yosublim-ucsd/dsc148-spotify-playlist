@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain](/playlists/plain/59RVdM0oev6GKFiuDXzH6F) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/59RVdM0oev6GKFiuDXzH6F)
 
-### [Clubbing Music 2024](https://open.spotify.com/playlist/59RVdM0oev6GKFiuDXzH6F)
+### [Tech House & Clubbing 2024](https://open.spotify.com/playlist/59RVdM0oev6GKFiuDXzH6F)
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks from Tiësto, David Guetta, BROHUG, Guz and many more.
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,166 likes - 148 songs - 7 hr 25 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,167 likes - 148 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 147 | [Aphrodisiac](https://open.spotify.com/track/4H7xD9m83yc0RrEzUn7CoY) | [Sven & Clé](https://open.spotify.com/artist/2Iehpem0KKLhjiyiaJXKZS), [Nesh.](https://open.spotify.com/artist/3j6yvMbZXy8rDx4D6dX2Mn), [Ilaria.](https://open.spotify.com/artist/05dKq0cZiW2xBUG6AGtk5X) | [Aphrodisiac \(feat\. Ilaria.\)](https://open.spotify.com/album/2Lgp2PvTWkSPbtlU9weBmm) | 3:07 |
 | 148 | [Relax, Bro](https://open.spotify.com/track/61NyJsjaUxm4sbLMgc39LQ) | [C\-Ro](https://open.spotify.com/artist/6PAunVzpRKDn5xbMgkV1gh), [Don Bnnr](https://open.spotify.com/artist/0YD4K8mKJ4zeOnOpH8qdT5) | [Relax, Bro](https://open.spotify.com/album/1thhuz7aclGrDJNCsBRe7j) | 2:02 |
 
-Snapshot ID: `MzQ5NyxjM2U4ZWE5NjE2NWM5MGZiODJlNjU2MjNmMDdjZTg5NTM1MmE4YmNm`
+Snapshot ID: `MzQ5OCw2NDliMTlhMDZjMWE5YjRlNzFlYTdjZmE3MTkyNWQ1NzRhM2UzNzhm`

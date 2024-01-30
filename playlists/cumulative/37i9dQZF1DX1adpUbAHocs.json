@@ -1122,6 +1122,24 @@
     {
       "album": {
         "name": "Things Are Great",
+        "url": "https://open.spotify.com/album/6oDxFhDxCrSxiPgy6Xlact"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223053,
+      "name": "Crutch",
+      "url": "https://open.spotify.com/track/1Ft5ivAGXYDmNoKmys13sX"
+    },
+    {
+      "album": {
+        "name": "Things Are Great",
         "url": "https://open.spotify.com/album/3hWOJ8Xj5yVqcHWtjkMQ3q"
       },
       "artists": [
@@ -2664,7 +2682,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 196772,
       "name": "I Can't Make You Love Me - Spotify Singles",
       "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"

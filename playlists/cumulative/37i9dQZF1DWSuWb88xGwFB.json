@@ -3547,6 +3547,24 @@
     },
     {
       "album": {
+        "name": "Strictly Club Cuts Vol. 9",
+        "url": "https://open.spotify.com/album/46qLvcWO3P4AN5RwIvEspN"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486973,
+      "name": "The Warning (Inner Mix)",
+      "url": "https://open.spotify.com/track/30HsnslIUoAwcPDOltaIut"
+    },
+    {
+      "album": {
         "name": "The Warning (Claude Monnet & Torre Bros Mixes)",
         "url": "https://open.spotify.com/album/4QtyGlCFgFiK8585IxptIi"
       },
@@ -3818,7 +3836,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 334220,
       "name": "We Can Make It (The \u2018I Believe' Dub)",
       "url": "https://open.spotify.com/track/5Os1U3nFLRBZ7eB4QTTMmZ"

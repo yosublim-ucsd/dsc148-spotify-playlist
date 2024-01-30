@@ -1415,6 +1415,24 @@
     },
     {
       "album": {
+        "name": "i still think about you",
+        "url": "https://open.spotify.com/album/4hZmFxYP6Av5sAHrSuEwF3"
+      },
+      "artists": [
+        {
+          "name": "Sweet Boy",
+          "url": "https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165925,
+      "name": "i still think about you",
+      "url": "https://open.spotify.com/track/1gn36xiTbvh5ZdLQblagfP"
+    },
+    {
+      "album": {
         "name": "melanchole",
         "url": "https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx"
       },

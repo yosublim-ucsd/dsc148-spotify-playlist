@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz?si=hQdL67LfSD\-fyv0qtUJEhw">CKay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,107 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,150 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 49 | [Ndakhuyanza](https://open.spotify.com/track/7uVsmB4CmynqGuhVFwaZ7R) | [TY1NE](https://open.spotify.com/artist/4Cc5wSjyKdtkmQjuBLAo5B), [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [Ndakhuyanza](https://open.spotify.com/album/6NnMNIcJlBqAHXVTgmzf0D) | 3:13 |
 | 50 | [Daddy ohh](https://open.spotify.com/track/576ny2Fu52p2iacJxWKYn6) | [Willy Will](https://open.spotify.com/artist/7COHnUQjxEVi5SggMxlu4E) | [Daddy ohh](https://open.spotify.com/album/4jFB19VG7Zn6lCSxve8QRI) | 2:47 |
 
-Snapshot ID: `MCw4YWEzMDIyNTIyYWQ3NTkxZThhOWZjZTY4MWM1MzI5MjNlMmI2YTM4`
+Snapshot ID: `MCwyY2Y0OTkyNmJiODJhNGE1NmI1N2NiMGFlZTc1ZGFjNWVhMmE2NWMw`

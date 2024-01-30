@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 111811,
+  "num_followers": 111885,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDQ5YzIwNTUyMmY3NzZjNGVlYzI4YTE5ZDJhZTc5MjBjZmVmNzIw",
+  "snapshot_id": "MCxiODAzYmIzYmI3NTZmNmEzNjQwOGQ2ZGI4NDcyZTA2NDE5MmQ3MzZm",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -659,6 +659,26 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Adventures in Acid Boogie, Vol.2",
+        "url": "https://open.spotify.com/album/5naCHwy40cRVsbtr0zR1VC"
+      },
+      "artists": [
+        {
+          "name": "Timewarp Inc",
+          "url": "https://open.spotify.com/artist/1LxC10tZiw6AYtRcemcvKr"
+        },
+        {
+          "name": "Valique",
+          "url": "https://open.spotify.com/artist/5IdyZix2HjYLOb1fvN7oaH"
+        }
+      ],
+      "duration_ms": 325862,
+      "name": "Afrofunk (Valique Boogie Brother Remix)",
+      "url": "https://open.spotify.com/track/3bd2zgQZ8YZZSEoFAYjlrv"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "The Garden of Eden",
         "url": "https://open.spotify.com/album/0zRO73WKcyEzInguX9yubX"
       },
@@ -687,26 +707,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Adventures in Acid Boogie, Vol.2",
-        "url": "https://open.spotify.com/album/5naCHwy40cRVsbtr0zR1VC"
-      },
-      "artists": [
-        {
-          "name": "Timewarp Inc",
-          "url": "https://open.spotify.com/artist/1LxC10tZiw6AYtRcemcvKr"
-        },
-        {
-          "name": "Valique",
-          "url": "https://open.spotify.com/artist/5IdyZix2HjYLOb1fvN7oaH"
-        }
-      ],
-      "duration_ms": 325862,
-      "name": "Afrofunk (Valique Boogie Brother Remix)",
-      "url": "https://open.spotify.com/track/3bd2zgQZ8YZZSEoFAYjlrv"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Double Cup",
         "url": "https://open.spotify.com/album/4EAuFwsFpxj4S7K4licbT7"
       },
@@ -727,22 +727,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Box Energy",
-        "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
+        "name": "Thank You for Letting Me Be Myself",
+        "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
       },
       "artists": [
         {
-          "name": "Armando",
-          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
-        },
-        {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+          "name": "Omar S",
+          "url": "https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI"
         }
       ],
-      "duration_ms": 370306,
-      "name": "Box Energy",
-      "url": "https://open.spotify.com/track/1AJjf493QWymMyQmDXj6fK"
+      "duration_ms": 324668,
+      "name": "Ready My Black Asz",
+      "url": "https://open.spotify.com/track/6XDdcBC0hQkRcQfYovxd4c"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -763,18 +759,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Thank You for Letting Me Be Myself",
-        "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
+        "name": "Box Energy",
+        "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
       },
       "artists": [
         {
-          "name": "Omar S",
-          "url": "https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI"
+          "name": "Armando",
+          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
+        },
+        {
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
         }
       ],
-      "duration_ms": 324668,
-      "name": "Ready My Black Asz",
-      "url": "https://open.spotify.com/track/6XDdcBC0hQkRcQfYovxd4c"
+      "duration_ms": 370306,
+      "name": "Box Energy",
+      "url": "https://open.spotify.com/track/1AJjf493QWymMyQmDXj6fK"
     },
     {
       "added_at": "2021-10-22 11:07:27",

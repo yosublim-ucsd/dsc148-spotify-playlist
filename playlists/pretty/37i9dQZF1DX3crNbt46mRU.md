@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Justin Timberlake
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,132 likes - 105 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,133 likes - 105 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 20 | [VDM \(feat\. Leto\)](https://open.spotify.com/track/2Bgh9sUZDtRo43Z491TaBd) | [Lamatrix](https://open.spotify.com/artist/5eAv3bvAehIJEOMLtzAtaE), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [VDM \(feat\. Leto\)](https://open.spotify.com/album/3yC77NQtuhVxH0uLc8Jhvj) | 3:31 |
 | 21 | [HEAVEN](https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HEAVEN](https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h) | 2:54 |
 | 22 | [normal](https://open.spotify.com/track/5QsZqmhSpAWdR5Hmu1BFDi) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [normal](https://open.spotify.com/album/48Ivdrxr3F5t8BjRw8SR3o) | 2:31 |
-| 23 | [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 |
+| 23 | [Head Up](https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp) | 3:09 |
 | 24 | [Due principi \(feat\. Emis Killa\)](https://open.spotify.com/track/5YdpLxge3UzTHymkQ6XCf4) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 3:31 |
 | 25 | [Was weiß ich schon](https://open.spotify.com/track/0EwlWEJ8TkA8UUTOmrsyiM) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 2:34 |
 | 26 | [Stay](https://open.spotify.com/track/5RPb4BmoWmy1c6SxQb8rHC) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc) | [Stay](https://open.spotify.com/album/6XNlioBAdVOcTIzqeDNM3I) | 2:12 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 104 | [Sad Bitch Hotline](https://open.spotify.com/track/5z1NXWneCrAf1bC2PkiKgh) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Sad Bitch Hotline](https://open.spotify.com/album/5IUwOXuaCvYibs2t7S5Ta0) | 2:52 |
 | 105 | [Catching Feelings](https://open.spotify.com/track/6EGAYAiK2k89dKJNKf5avd) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Catching Feelings](https://open.spotify.com/album/2sKFy4cK1BJygH0uFdo92M) | 2:46 |
 
-Snapshot ID: `MCxmZTE3NTBlMzc1ZjAwYmRjZjc1MTAzZDBmYjRkMmVkNzg4ZTYzN2Vk`
+Snapshot ID: `MCw0ZGNjYmU2MWNhNjhkZDFjODcyZTkwN2VhNjE0OTJlYzQwYWYyNjBj`

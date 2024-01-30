@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 895383,
+  "2024-01-30": 895372,
   "date_first_scraped": "2021-12-21",
   "description": "The essential tracks by the Dutch DJ and producer</a>.",
   "name": "This Is Martin Garrix",
@@ -1789,7 +1789,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 277546,
       "name": "Proxy",
       "url": "https://open.spotify.com/track/54fgYLd9UtdPZVjx548Ver"
@@ -1807,7 +1807,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 279384,
       "name": "Proxy",
       "url": "https://open.spotify.com/track/3iLzyDMXB7QXX2RjtmJFOn"
@@ -2145,7 +2145,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 258440,
       "name": "The Only Way Is Up",
       "url": "https://open.spotify.com/track/1V0Zy7533bjXFSVtn3crzY"
@@ -2189,7 +2189,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 258440,
       "name": "The Only Way Is Up",
       "url": "https://open.spotify.com/track/5wsskBPgW3pw876uCa9JX4"

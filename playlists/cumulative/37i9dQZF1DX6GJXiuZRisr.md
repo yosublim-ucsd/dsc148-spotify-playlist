@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-445 songs - 1 day 7 hr 56 min
+446 songs - 1 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Forget It](https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf) | 2:53 | 2021-05-07 | 2023-02-26 |
 | [Forget It](https://open.spotify.com/track/7nbuGxQ7TfJXb9OgH3xJEr) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/2DJVlpI8RAelMusdKi3ieH) | 2:53 | 2022-07-01 | 2023-07-15 |
 | [Free Your Mind](https://open.spotify.com/track/6tZOXgmWxoQsaJ5Pwbo9pt) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Free Your Mind](https://open.spotify.com/album/4HVHjZ3jLUxMZ1uTypUL3r) | 5:38 | 2023-06-02 | 2024-01-22 |
+| [Freyja](https://open.spotify.com/track/50OqVeHgPhiVsoHaqWhBPd) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Freyja](https://open.spotify.com/album/2ahVbWkHUwk5vn2yDQAtKM) | 3:49 | 2024-01-26 |  |
 | [Friend Of Mine](https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Friend Of Mine](https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS) | 3:33 | 2024-01-19 |  |
 | [Further Away](https://open.spotify.com/track/5w6NzsoExb9pPhoEN9aWRc) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Further Away](https://open.spotify.com/album/5Cj5Y28x79njyaIIus6zNB) | 3:14 | 2023-08-04 | 2023-12-08 |
 | [Future](https://open.spotify.com/track/4Gvh60vRr6cKdB3RVtBiOg) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Future](https://open.spotify.com/album/1FmCbkv8Sr05gSWeRq0T4G) | 3:24 | 2021-05-07 | 2022-06-18 |
@@ -322,7 +323,7 @@
 | [Say Hello](https://open.spotify.com/track/4cF6Pk7YaRtv91mSZa4nVi) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Meliha](https://open.spotify.com/artist/1jQxjRh08iMoMSgZVKCVC5) | [Say Hello EP](https://open.spotify.com/album/6CX0RyPKTxrgtNfazPtrKZ) | 3:27 | 2021-05-07 |  |
 | [Say It's Over](https://open.spotify.com/track/1Mezu0QLswKxKY21bgIzQn) | [REFFEL](https://open.spotify.com/artist/7eBZQrvBsAeuqAasuZM3hS) | [Say It's Over](https://open.spotify.com/album/6ieHyR7Zj4dNBoMpGcRRLI) | 3:59 | 2021-05-07 | 2022-04-21 |
 | [Sendeturm](https://open.spotify.com/track/0VoqjK1Nf9MjeRM60b8GiO) | [PBR Streetgang](https://open.spotify.com/artist/5PDEurVJJvitl9PGDjhPgY) | [Zoot Module](https://open.spotify.com/album/1znAzYbadOJI7CAc1HPZz6) | 3:22 | 2021-05-07 | 2022-07-13 |
-| [Should Have Seen It Coming](https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AETHO](https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG) | [Should Have Seen It Coming](https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa) | 3:58 | 2021-05-07 |  |
+| [Should Have Seen It Coming](https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AETHO](https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG) | [Should Have Seen It Coming](https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa) | 3:58 | 2021-05-07 | 2024-01-30 |
 | [Show Me A Sign \(with MKLA\)](https://open.spotify.com/track/49yvk8qS9L7I5aDeIMSutb) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Show Me A Sign](https://open.spotify.com/album/2YhDLveyepgvgfnV8BBMOL) | 3:43 | 2022-02-18 | 2023-06-01 |
 | [Signals](https://open.spotify.com/track/7F8LoNeDRgItTcpTpYTmY3) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Signals](https://open.spotify.com/album/1jfZBmZUZeJsZZNluJL6zY) | 6:17 | 2022-06-17 | 2022-08-17 |
 | [Silence](https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Silence](https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF) | 4:05 | 2021-05-07 | 2023-10-15 |

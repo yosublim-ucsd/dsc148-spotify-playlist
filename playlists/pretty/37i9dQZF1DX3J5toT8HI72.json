@@ -1,12 +1,12 @@
 {
   "description": "Grandes m\u00fasicas pra voc\u00ea curtir com seu amorzinho (ou pensando nele) ",
-  "num_followers": 775017,
+  "num_followers": 775003,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOThiNDJlODY0NGJiNGRiNTBiMzY1ZWM3ZTU0NTNhZmFjNjcwMmM4",
+  "snapshot_id": "MCw2NzIyZWQ1N2QxMGMyNjJjNDU1YzJjZDZiZjNiZmRlNDdlZjkzYmNi",
   "tracks": [
     {
       "added_at": "2023-12-11 13:23:48",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+    },
+    {
+      "added_at": "2023-12-11 13:23:48",
+      "album": {
         "name": "We Sing. We Dance. We Steal Things.",
         "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 242946,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
-    },
-    {
-      "added_at": "2023-12-11 13:23:48",
-      "album": {
-        "name": "Piloto",
-        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Piloto",
-      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+        "name": "Piloto",
+        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
         }
       ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+      "duration_ms": 197538,
+      "name": "Piloto",
+      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
+        "name": "Melim",
+        "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 210889,
+      "name": "Ouvi Dizer",
+      "url": "https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV"
+    },
+    {
+      "added_at": "2023-12-11 13:23:48",
+      "album": {
         "name": "Esmeraldas (\u00c1lbum Comentado)",
         "url": "https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 394706,
       "name": "Quando Bate Aquela Saudade",
       "url": "https://open.spotify.com/track/6hFKP7kl22184msxWDhXLL"
-    },
-    {
-      "added_at": "2023-12-11 13:23:48",
-      "album": {
-        "name": "Melim",
-        "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 210889,
-      "name": "Ouvi Dizer",
-      "url": "https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -691,6 +691,38 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
+        "name": "Detonautas Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
+      },
+      "artists": [
+        {
+          "name": "Detonautas Roque Clube",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "duration_ms": 254520,
+      "name": "Voc\u00ea me faz t\u00e3o bem",
+      "url": "https://open.spotify.com/track/656TZu3G6rnfK9m2Y0zR6g"
+    },
+    {
+      "added_at": "2023-12-11 13:23:48",
+      "album": {
+        "name": "Medo Bobo",
+        "url": "https://open.spotify.com/album/7iwR0wOFLOMRDZZNWT4Hrr"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 198039,
+      "name": "Medo Bobo",
+      "url": "https://open.spotify.com/track/0d3nLIxfrwZu7sHQnOhWJa"
+    },
+    {
+      "added_at": "2023-12-11 13:23:48",
+      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -707,22 +739,6 @@
       "duration_ms": 268640,
       "name": "Pra Sonhar",
       "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
-    },
-    {
-      "added_at": "2023-12-11 13:23:48",
-      "album": {
-        "name": "Detonautas Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
-      },
-      "artists": [
-        {
-          "name": "Detonautas Roque Clube",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
-        }
-      ],
-      "duration_ms": 254520,
-      "name": "Voc\u00ea me faz t\u00e3o bem",
-      "url": "https://open.spotify.com/track/656TZu3G6rnfK9m2Y0zR6g"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -759,18 +775,18 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "Medo Bobo",
-        "url": "https://open.spotify.com/album/7iwR0wOFLOMRDZZNWT4Hrr"
+        "name": "P\u00fablico",
+        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
       },
       "artists": [
         {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
         }
       ],
-      "duration_ms": 198039,
-      "name": "Medo Bobo",
-      "url": "https://open.spotify.com/track/0d3nLIxfrwZu7sHQnOhWJa"
+      "duration_ms": 131426,
+      "name": "Devolva-Me (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -811,22 +827,6 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "P\u00fablico",
-        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 131426,
-      "name": "Devolva-Me (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
-    },
-    {
-      "added_at": "2023-12-11 13:23:48",
-      "album": {
         "name": "Troco Likes",
         "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
       },
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
+        "name": "Uns",
+        "url": "https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 292306,
+      "name": "Voce E Linda - Remixed Original Album",
+      "url": "https://open.spotify.com/track/0hQbovQO5Cui5Imze8Q3oo"
+    },
+    {
+      "added_at": "2023-12-11 13:23:48",
+      "album": {
         "name": "Silva & Liniker (Ao Vivo)",
         "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "Uns",
-        "url": "https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3"
+        "name": "Monomania",
+        "url": "https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Clarice Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
         }
       ],
-      "duration_ms": 292306,
-      "name": "Voce E Linda - Remixed Original Album",
-      "url": "https://open.spotify.com/track/0hQbovQO5Cui5Imze8Q3oo"
+      "duration_ms": 217756,
+      "name": "Eu Me Lembro",
+      "url": "https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -915,22 +931,6 @@
       "duration_ms": 214464,
       "name": "N",
       "url": "https://open.spotify.com/track/7iNcOVH9n4EEY2rwWAQOsA"
-    },
-    {
-      "added_at": "2023-12-11 13:23:48",
-      "album": {
-        "name": "Monomania",
-        "url": "https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA"
-      },
-      "artists": [
-        {
-          "name": "Clarice Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
-        }
-      ],
-      "duration_ms": 217756,
-      "name": "Eu Me Lembro",
-      "url": "https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "A Bolha",
-        "url": "https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 183542,
-      "name": "O Amor \u00e9 o Segredo",
-      "url": "https://open.spotify.com/track/7tOXo8dzQYKgWHWB9nxBVg"
-    },
-    {
-      "added_at": "2023-12-11 13:23:48",
-      "album": {
         "name": "Silva Canta Marisa",
         "url": "https://open.spotify.com/album/0Us3ZgxlQGMYZLwiLmjoHz"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 195400,
       "name": "Beija Eu",
       "url": "https://open.spotify.com/track/4LBupHhBSFZCXhPteUWWY3"
+    },
+    {
+      "added_at": "2023-12-11 13:23:48",
+      "album": {
+        "name": "A Bolha",
+        "url": "https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 183542,
+      "name": "O Amor \u00e9 o Segredo",
+      "url": "https://open.spotify.com/track/7tOXo8dzQYKgWHWB9nxBVg"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
+        "name": "Tudo Que Eu Quero",
+        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 122870,
+      "name": "Tudo Que Eu Quero",
+      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
+    },
+    {
+      "added_at": "2023-12-11 13:23:48",
+      "album": {
         "name": "Mariana Nolasco",
         "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
       },
@@ -1227,42 +1243,6 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "Tudo Que Eu Quero",
-        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 122870,
-      "name": "Tudo Que Eu Quero",
-      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
-    },
-    {
-      "added_at": "2023-12-11 13:23:48",
-      "album": {
-        "name": "Minha Felicidade",
-        "url": "https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 217384,
-      "name": "Minha Felicidade",
-      "url": "https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ"
-    },
-    {
-      "added_at": "2023-12-11 13:23:48",
-      "album": {
         "name": "Remonta",
         "url": "https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 269120,
       "name": "Sem Nome, Mas Com Endere\u00e7o",
       "url": "https://open.spotify.com/track/6xh9JILM2rzAtRynrTAAhe"
+    },
+    {
+      "added_at": "2023-12-11 13:23:48",
+      "album": {
+        "name": "Minha Felicidade",
+        "url": "https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 217384,
+      "name": "Minha Felicidade",
+      "url": "https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ"
     },
     {
       "added_at": "2023-12-11 13:23:48",

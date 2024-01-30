@@ -4,7 +4,7 @@
 
 > Releases from the legendary label.
 
-216 songs - 1 day 1 hr 44 min
+217 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [The Sound \- The Studio 54 Mix](https://open.spotify.com/track/3NYlKhLDWNe99VXWspYFIO) | [Motion Lotion](https://open.spotify.com/artist/6zNLfnKYj3cf2dw6S0aJxn) | [The Lost Tapes: 'Little' Louie Vega Strictly Rhythm Mix](https://open.spotify.com/album/5styrn4ZNjvGasDd6Y4sam) | 9:14 | 2022-03-03 | 2023-10-19 |
 | [The Warning \(2 Copy Mix\)](https://open.spotify.com/track/2AHVEBAfnayE9WI0JMxZ0t) | [Logic](https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT), [Claude Monnet](https://open.spotify.com/artist/08UnNnUkmKlxFVb25yboWo) | [The Warning \(Remixes\)](https://open.spotify.com/album/6MgegMKyBL5NjEkD9ITHVz) | 3:53 | 2022-03-03 | 2023-12-14 |
 | [The Warning \(2 Copy Mix\)](https://open.spotify.com/track/6zUi8w1eVSwqBl1YbmxDKS) | [Logic](https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT), [Claude Monnet](https://open.spotify.com/artist/08UnNnUkmKlxFVb25yboWo) | [The Lost Tapes: Tony Humphries Strictly Rhythm Mix](https://open.spotify.com/album/5OnKjcZw9bdTwtehVtdBcp) | 3:53 | 2022-03-03 |  |
+| [The Warning \(Inner Mix\)](https://open.spotify.com/track/30HsnslIUoAwcPDOltaIut) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Strictly Club Cuts Vol\. 9](https://open.spotify.com/album/46qLvcWO3P4AN5RwIvEspN) | 8:06 | 2022-03-03 |  |
 | [The Warning \(Inner Mix\)](https://open.spotify.com/track/3ThnNJgw1mGxOqNwrZjFCS) | [Logic](https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT) | [The Warning \(Claude Monnet & Torre Bros Mixes\)](https://open.spotify.com/album/4QtyGlCFgFiK8585IxptIi) | 8:09 | 2022-03-03 | 2023-12-14 |
 | [The Warning \- 2 Copy Mix](https://open.spotify.com/track/38elChQNQUWz4nOFEH40q9) | [Logic](https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT) | [The Lost Tapes: Tony Humphries Strictly Rhythm Mix](https://open.spotify.com/album/09KKcE6i87Iar6YaadcPFG) | 3:53 | 2022-03-03 | 2022-07-29 |
 | [The Warning \- 2 Copy Mix](https://open.spotify.com/track/6rBhOQ7739vfGRDFGuc8mj) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [The Warning \(Remixes\)](https://open.spotify.com/album/00Xqdmf1iSOAiiaiTUfCXQ) | 3:53 | 2022-03-03 | 2023-11-04 |
@@ -207,7 +208,7 @@
 | [Wanna Be Your Girl \- A 'G' Thang Mix](https://open.spotify.com/track/1kTbLVpJoP0QzMhf4ZoUfH) | [Raw Power](https://open.spotify.com/artist/5xhTAnkK8Pxq3XHGitPztd) | [The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC \(Unmixed\)](https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr) | 4:57 | 2022-03-03 | 2023-11-04 |
 | [Waterfalls \(3 A.M\. Mix\)](https://open.spotify.com/track/5G0YQmoqgJQaffES8hkeIO) | [After Hours](https://open.spotify.com/artist/1y27W02EFVbp6nPfM1LFh7) | [Feel It / Waterfalls](https://open.spotify.com/album/3mZYy0NtvBFp679UJ66GnT) | 5:58 | 2022-03-03 |  |
 | [Waterfalls \- 3 A.M\. Mix](https://open.spotify.com/track/3Lv3bT31Sali9Zk7sFgy5r) | [After Hours](https://open.spotify.com/artist/1y27W02EFVbp6nPfM1LFh7) | [Feel It / Waterfalls](https://open.spotify.com/album/1wVS8Gdyzyzb233I6pdmIl) | 5:58 | 2022-03-03 | 2023-11-05 |
-| [We Can Make It \(The ‘I Believe' Dub\)](https://open.spotify.com/track/5Os1U3nFLRBZ7eB4QTTMmZ) | [Moné](https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition \- Unmixed\]](https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz) | 5:34 | 2022-03-03 |  |
+| [We Can Make It \(The ‘I Believe' Dub\)](https://open.spotify.com/track/5Os1U3nFLRBZ7eB4QTTMmZ) | [Moné](https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition \- Unmixed\]](https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz) | 5:34 | 2022-03-03 | 2024-01-30 |
 | [We Can Make It \- The 'I Believe' Dub](https://open.spotify.com/track/01kNH1gcD00UXdzroGFOxg) | [Moné](https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 5:34 | 2022-03-03 | 2023-11-04 |
 | [What You Need \(feat\. Duane Harden\) \(Full Intention Radio Edit\)](https://open.spotify.com/track/71GnBo103iRcHQpmzlMYta) | [Powerhouse](https://open.spotify.com/artist/2FbCA5ewgyGeuNV90qpZUS), [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0) | [What You Need \(feat\. Duane Harden\)](https://open.spotify.com/album/1SYKY0RKrK96kaHEnWfOrW) | 3:22 | 2022-03-03 |  |
 | [What You Need \(feat\. Duane Harden\) \- Full Intention Radio Edit](https://open.spotify.com/track/7inuLUpKsCnlh4gxrsOe3i) | [Powerhouse](https://open.spotify.com/artist/2FbCA5ewgyGeuNV90qpZUS), [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0) | [What You Need \(feat\. Duane Harden\)](https://open.spotify.com/album/0PHSjWhb9VxzPTvGVE80PR) | 3:22 | 2022-03-03 | 2023-11-05 |

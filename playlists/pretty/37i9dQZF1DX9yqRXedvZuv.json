@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/zackbia/\">Zack Bia</a>",
-  "num_followers": 1801,
+  "num_followers": 1802,
   "original_name": "Zack Bia's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjU5MDJlYmRmNDFiOWJlNTMzYzZlOTU1MTQ1YjcxYTc4MzI2MGU3",
+  "snapshot_id": "MCxiYTU0YTNlOWUwZTI3YmI0OTVjOTk0YjMyZDM1MjllZWRkNmY2MTg4",
   "tracks": [
     {
       "added_at": "2022-10-01 17:37:57",
@@ -183,6 +183,22 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "Candy Rain",
+        "url": "https://open.spotify.com/album/0GmC4fd7RwxsFoo5Ht4nKp"
+      },
+      "artists": [
+        {
+          "name": "Soul For Real",
+          "url": "https://open.spotify.com/artist/296LotOmbj7eOX7r9l46fK"
+        }
+      ],
+      "duration_ms": 276066,
+      "name": "Candy Rain",
+      "url": "https://open.spotify.com/track/4j1Bk0BEIGCF9hR7cSwl9d"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "House Of Balloons (Original)",
         "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
       },
@@ -199,18 +215,18 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "Candy Rain",
-        "url": "https://open.spotify.com/album/0GmC4fd7RwxsFoo5Ht4nKp"
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
       "artists": [
         {
-          "name": "Soul For Real",
-          "url": "https://open.spotify.com/artist/296LotOmbj7eOX7r9l46fK"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 276066,
-      "name": "Candy Rain",
-      "url": "https://open.spotify.com/track/4j1Bk0BEIGCF9hR7cSwl9d"
+      "duration_ms": 205721,
+      "name": "Pipe Down",
+      "url": "https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -239,22 +255,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 205721,
-      "name": "Pipe Down",
-      "url": "https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "Let Me Explain",
         "url": "https://open.spotify.com/album/3BjVNKsPNcmSGG5n4bHNUq"
       },
@@ -267,22 +267,6 @@
       "duration_ms": 223969,
       "name": "Let Me Explain",
       "url": "https://open.spotify.com/track/1trZGMI2CGyVT44STkpCoN"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "My Dear Melancholy,",
-        "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "Wasted Times",
-      "url": "https://open.spotify.com/track/7DKS0rX27cCEPsK0R6tFWS"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -339,6 +323,22 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "4NEM",
+        "url": "https://open.spotify.com/album/1yk448SJRapgsEqCaF81nM"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "duration_ms": 248372,
+      "name": "Yes Sir",
+      "url": "https://open.spotify.com/track/6Sn6WyJl9Xd2iWTfprdLCC"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
       },
@@ -355,18 +355,18 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "4NEM",
-        "url": "https://open.spotify.com/album/1yk448SJRapgsEqCaF81nM"
+        "name": "My Dear Melancholy,",
+        "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
       },
       "artists": [
         {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 248372,
-      "name": "Yes Sir",
-      "url": "https://open.spotify.com/track/6Sn6WyJl9Xd2iWTfprdLCC"
+      "duration_ms": 220293,
+      "name": "Wasted Times",
+      "url": "https://open.spotify.com/track/7DKS0rX27cCEPsK0R6tFWS"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "Backend",
+        "url": "https://open.spotify.com/album/0JoNVaga3yMJLnBJPuoI7Z"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 231409,
+      "name": "Backend",
+      "url": "https://open.spotify.com/track/4YQSpaf4dVmwB4PAb8kDU6"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "PARTYPACK",
         "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 210489,
       "name": "BUZZIN' (feat. Lil Yachty & Murda Beatz)",
       "url": "https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "Backend",
-        "url": "https://open.spotify.com/album/0JoNVaga3yMJLnBJPuoI7Z"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 231409,
-      "name": "Backend",
-      "url": "https://open.spotify.com/track/4YQSpaf4dVmwB4PAb8kDU6"
     },
     {
       "added_at": "2022-10-01 17:37:57",

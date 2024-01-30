@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Bab El Shaareya",
+        "url": "https://open.spotify.com/album/2vSrvBwrfC5yhMR8xyT0eg"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Adaweya",
+          "url": "https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202005,
+      "name": "Bab El Shaareya",
+      "url": "https://open.spotify.com/track/4Hchf0jFsoO9PIKMsu1Lof"
+    },
+    {
+      "album": {
         "name": "Bab ElTayaba",
         "url": "https://open.spotify.com/album/48tYyb8VGC5WRrDCHZmbMD"
       },
@@ -3250,7 +3268,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 202004,
       "name": "\u0628\u0627\u0628 \u0627\u0644\u0634\u0639\u0631\u064a\u0647",
       "url": "https://open.spotify.com/track/1LvxnrYAgVPrmSl2U8lYqz"

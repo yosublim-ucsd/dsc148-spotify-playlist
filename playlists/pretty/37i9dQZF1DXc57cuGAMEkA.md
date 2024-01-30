@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Justice & TAME IMPALA, Justin Timberlake, James Arthur, 緑黄色社会 and more! Cover: Justice & TAME IMPALA
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,249 likes - 78 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,253 likes - 78 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 29 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 |
 | 30 | [RNS](https://open.spotify.com/track/4b8zFITxLmN0rIbhuj5wub) | [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [RNS](https://open.spotify.com/album/7CRZBxNtX0t4bD3w5zQY78) | 2:18 |
 | 31 | [This My Life \(with Lil Tecca, The Kid LAROI & Lil Skies\)](https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 2:49 |
-| 32 | [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 |
+| 32 | [Head Up](https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp) | 3:09 |
 | 33 | [WTF R U!?](https://open.spotify.com/track/7IrBKNBMGIDv8od1EEaQPk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [WTF R U!?](https://open.spotify.com/album/1qNBQh6STwsh2iP8bFecSg) | 2:32 |
 | 34 | [Valentine](https://open.spotify.com/track/6b57FDNY52AlFJa81vTijE) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Valentine](https://open.spotify.com/album/06PMmkzppZU6YSZVQbHpzy) | 3:49 |
 | 35 | [Cheeky](https://open.spotify.com/track/7xePsiaOdxT9lkTck9Uv8t) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Cheeky](https://open.spotify.com/album/6lLyrH0Und9dYATr4F9Pjh) | 2:22 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 77 | [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/65lKgD4JnUU5EYaqMly9T6) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Yussef Dayes Experience \(Live From Malibu\)](https://open.spotify.com/album/3PGNm2ibnsl8rldfXjQ1wB) | 4:08 |
 | 78 | [Txera](https://open.spotify.com/track/2FYaO6gwoQeR0UlemcfkvW) | [Fabiano do Nascimento](https://open.spotify.com/artist/5GNLaaEOwaEaXJfK7XnD8j), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [The Room](https://open.spotify.com/album/6hjgspe4lt2y1hiRyCtSHp) | 2:29 |
 
-Snapshot ID: `MCw5NmM2ZGE3NWEyYjRmODRjMzZkYzVkMjcxNDA5ZGI3NmM4YzA2Njhk`
+Snapshot ID: `MCwxMTFiZWM1NjdhNjY5MGYyZjZmMWJlOGQyNDkyY2E3ODFiODIzYzFk`

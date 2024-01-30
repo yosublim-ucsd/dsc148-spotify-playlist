@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 88267,
+  "2024-01-30": 88290,
   "date_first_scraped": "2021-12-21",
   "description": "Soulful, bluesy ballads. Cover: The War and Treaty",
   "name": "Blue Ballads",
@@ -1839,10 +1839,28 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 257453,
       "name": "Pictures on the Wall",
       "url": "https://open.spotify.com/track/2KK8G1JqNkz7L6wfTbgp7H"
+    },
+    {
+      "album": {
+        "name": "Black Cotton Limited",
+        "url": "https://open.spotify.com/album/4qXRbe3hN9vrSPcJwra6TQ"
+      },
+      "artists": [
+        {
+          "name": "The Soul Jacket",
+          "url": "https://open.spotify.com/artist/74gz5JP3mfqLeMBeCwYf9S"
+        }
+      ],
+      "date_added": "2020-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257453,
+      "name": "Pictures on the Wall",
+      "url": "https://open.spotify.com/track/2wVjp4OxakImce78cTHun8"
     },
     {
       "album": {

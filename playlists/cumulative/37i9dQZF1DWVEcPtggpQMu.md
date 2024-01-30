@@ -4,7 +4,7 @@
 
 > Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/5nWYsE0N983XcI3qsU55bp?si=twNR91SKQcS1I3f0ZhnEqg">ZULO</a>
 
-668 songs - 1 day 12 hr 15 min
+669 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,6 +616,7 @@
 | [Twice](https://open.spotify.com/track/1Po23ny87Sx3gMB9DFqf1B) | [Indigo Stella](https://open.spotify.com/artist/3GXgxaSpm0hNom0dS4414e) | [Twice](https://open.spotify.com/album/5aSWvBpM2OVXGaT5ATSBWF) | 3:30 | 2023-07-14 | 2023-08-18 |
 | [u$e to it](https://open.spotify.com/track/5CC7cnNlssweF2jAQDfR6g) | [Bryan Cheru](https://open.spotify.com/artist/7lCzTXOAcnqLYNZM3xxBfo), [DazeOnEast](https://open.spotify.com/artist/37kYLWfV9dJ9l0nmWTqVJN) | [u$e to it](https://open.spotify.com/album/6kQe2nYuGYuBbBhnabH6uW) | 2:46 | 2022-04-14 | 2022-05-06 |
 | [uKuphi](https://open.spotify.com/track/1fzhy3XEQEXUYff6jvbf40) | [DJ Sliqe](https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa) | [Champion Music 2](https://open.spotify.com/album/0Z4cLn4fZtEJ2psku88wNx) | 2:30 | 2022-10-14 | 2022-12-13 |
+| [Umhlaba](https://open.spotify.com/track/6l212VLnvhEJl2o7BCRBcG) | [katli g](https://open.spotify.com/artist/2IGyvttuJUWbmXxSrfSNu7), [mordy](https://open.spotify.com/artist/3xzIIBU6Sag14Yle4zgoty), [tabiska](https://open.spotify.com/artist/7KEUzqWJJvLJM8SNRXettE) | [Umhlaba](https://open.spotify.com/album/2iniomh8ICLoBfhW6RKAZs) | 3:35 | 2024-01-29 |  |
 | [Umhlonyane](https://open.spotify.com/track/3rZOWkWUqRs1JETDpXXK6Q) | [WayWard Sounds](https://open.spotify.com/artist/6ZciWl4s8GNlcrUmJmhXIp), [K\-Zaka](https://open.spotify.com/artist/2JUE0RwHFKDPk2mzNDhdeR), [Mzulu Kakhulu](https://open.spotify.com/artist/2HIPHxJYqbegJSBxZdb8Hf), [Rufaro Rcrds](https://open.spotify.com/artist/2aYzzfKnuL4i4WIsc90lyE), [Simple T](https://open.spotify.com/artist/0N85CSTVPVpCSl97qWL3Eg) | [Umhlonyane](https://open.spotify.com/album/6S76oei9SyLRidfBQ6pPt9) | 3:14 | 2023-06-30 | 2023-07-28 |
 | [Umntu](https://open.spotify.com/track/4HG5pEkuERhQ6Y9HWKiLkr) | [Bravo Le Roux](https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umntu](https://open.spotify.com/album/6gFP86yvqkNRvLAaw4ptnF) | 3:56 | 2023-06-09 | 2023-10-21 |
 | [umoya](https://open.spotify.com/track/5Mg5kfEzI7stnjNoXHyaUC) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [4LUV](https://open.spotify.com/album/2SGGNsEIuL5zM0NHiO5dBd) | 4:31 | 2022-02-17 | 2022-09-16 |

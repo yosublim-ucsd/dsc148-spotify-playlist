@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 975826,
+  "2024-01-30": 975856,
   "date_first_scraped": "2021-12-21",
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Rezz",
   "name": "Bass Arcade",
@@ -5073,6 +5073,24 @@
       "duration_ms": 167750,
       "name": "Feel The Same",
       "url": "https://open.spotify.com/track/4uXs9sxxIQ1OdOl36HkTKB"
+    },
+    {
+      "album": {
+        "name": "Feel Ur Touch",
+        "url": "https://open.spotify.com/album/7pfd5jFr6TMpb9x7U04eAs"
+      },
+      "artists": [
+        {
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201379,
+      "name": "Feel Ur Touch",
+      "url": "https://open.spotify.com/track/6Ic1geNctwh66xumQ3qyyw"
     },
     {
       "album": {
@@ -13293,7 +13311,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 266482,
       "name": "Someone Else - Blanke Remix",
       "url": "https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok"

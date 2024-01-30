@@ -2370,10 +2370,28 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 70400,
       "name": "The Hunger Games",
       "url": "https://open.spotify.com/track/1s9GYilV9guTnwidLuBV7I"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: Original Motion Picture Score",
+        "url": "https://open.spotify.com/album/5tF7RSw6Zke0WY4fPf6LR9"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70400,
+      "name": "The Hunger Games",
+      "url": "https://open.spotify.com/track/5c1dQbR220sPGEndTw9ALW"
     },
     {
       "album": {

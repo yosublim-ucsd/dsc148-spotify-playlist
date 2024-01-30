@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 676938,
+  "num_followers": 676802,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzc0NWFhYjYzZGM4ZjNmNTAzNmNlZDM5YjNmNTY5YTE0ZGIwMzVj",
+  "snapshot_id": "MCwxYzZhNjdiYTk4ZjZkOGJkNDJjZGMzY2NhZGNmNWY5OTE2Njc1ZDI4",
   "tracks": [
     {
       "added_at": "2024-01-26 12:16:12",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-01-26 12:16:12",
       "album": {
-        "name": "Losing It",
-        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 248035,
-      "name": "Losing It",
-      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
-    },
-    {
-      "added_at": "2024-01-26 12:16:12",
-      "album": {
         "name": "Serotonin Moonbeams",
         "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 289471,
       "name": "Serotonin Moonbeams",
       "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
+    },
+    {
+      "added_at": "2024-01-26 12:16:12",
+      "album": {
+        "name": "Losing It",
+        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Losing It",
+      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
     },
     {
       "added_at": "2024-01-26 12:16:12",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2024-01-26 12:16:12",
       "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/2bJ75kaDgkRHnPAfLDaz6n"
-      },
-      "artists": [
-        {
-          "name": "Sigma",
-          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
-        },
-        {
-          "name": "Queen Millz",
-          "url": "https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0"
-        }
-      ],
-      "duration_ms": 162844,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/0S3b1jhjbkaeg3QYmfObXz"
-    },
-    {
-      "added_at": "2024-01-26 12:16:12",
-      "album": {
         "name": "My Head is A Jungle - MK Remix / Radio Edit",
         "url": "https://open.spotify.com/album/1V2K4IdlYAMC73lZyNTE7W"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 206007,
       "name": "My Head is A Jungle - MK Remix / Radio Edit",
       "url": "https://open.spotify.com/track/1AUdrHbGmrPgWkda6JjylP"
+    },
+    {
+      "added_at": "2024-01-26 12:16:12",
+      "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/2bJ75kaDgkRHnPAfLDaz6n"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Queen Millz",
+          "url": "https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0"
+        }
+      ],
+      "duration_ms": 162844,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/0S3b1jhjbkaeg3QYmfObXz"
     },
     {
       "added_at": "2024-01-26 12:16:12",

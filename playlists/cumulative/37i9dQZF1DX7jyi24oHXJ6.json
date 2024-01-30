@@ -190,6 +190,24 @@
       },
       "artists": [
         {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 10005,
+      "name": "Message from Choi Yuree",
+      "url": "https://open.spotify.com/track/32oEsMgOZpKcQplQA73IW5"
+    },
+    {
+      "album": {
+        "name": "EXchange3 Audio Liner",
+        "url": "https://open.spotify.com/album/5SBrbDH8wP6zdb0gFys0ZI"
+      },
+      "artists": [
+        {
           "name": "Paul Blanco",
           "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
         }

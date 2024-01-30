@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: RONDÉ
 
-4,652 songs - 10 day 4 hr 25 min
+4,653 songs - 10 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1659,7 +1659,8 @@
 | [Head Down](https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Head Down](https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2) | 2:53 | 2023-12-28 | 2024-01-05 |
 | [Head In The Ground](https://open.spotify.com/track/1kbUDBZ6ORICXCXZAQCQq2) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Head In The Ground](https://open.spotify.com/album/4eCIhpR9BlftjlDWb1t0WD) | 2:55 | 2023-11-24 | 2023-12-02 |
 | [Head Straight](https://open.spotify.com/track/3AX1DcrLUY03ipCMZCkjuL) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Head Straight](https://open.spotify.com/album/2MjQxYxyjRGEBgkBzlCcll) | 2:20 | 2023-06-01 | 2023-06-09 |
-| [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 | 2024-01-25 |  |
+| [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 | 2024-01-25 | 2024-01-30 |
+| [Head Up](https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp) | 3:09 | 2024-01-26 |  |
 | [Headphones \(feat\. Aron Blom\)](https://open.spotify.com/track/5lSvT7dzt2iFriCShrRlKv) | [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Aron Blom](https://open.spotify.com/artist/6srxAZuUenELGYEGNhsKpH) | [Headphones \(feat\. Aron Blom\)](https://open.spotify.com/album/3EZbuRCkXAcdxGbyzBpokQ) | 2:39 | 2023-12-21 | 2024-01-05 |
 | [Hear Me Out](https://open.spotify.com/track/3d4B6DbpWYnZ9bfzt4sivp) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u) | [Hear Me Out](https://open.spotify.com/album/7cYhTHVTBYNxV935vr3P29) | 3:45 | 2023-10-12 | 2023-10-21 |
 | [hearing faces](https://open.spotify.com/track/3aIOgiGUBjEBiVAoaRbEgx) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [THE RED BUTTON WAS TALKING AGAIN](https://open.spotify.com/album/7zieU55cGtAinDTr3OkPGw) | 3:25 | 2023-09-07 | 2023-09-15 |

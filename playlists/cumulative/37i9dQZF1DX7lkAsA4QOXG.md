@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Joey Alexander
 
-186 songs - 14 hr 37 min
+187 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Case Of You \- Short Version](https://open.spotify.com/track/4pVnYnA1mTIccXsLLEKMyY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Lounge Jazz](https://open.spotify.com/album/6rhfgujT6eCMrlnQay4T0C) | 7:36 | 2022-09-13 | 2022-09-27 |
 | [A Case Of You \- Short Version](https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Jazz Volume: Herbie Hancock](https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z) | 7:36 | 2022-12-01 |  |
 | [A Case Of You \- Short Version](https://open.spotify.com/track/5mFYhmpAeyTPrNgz4E283K) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Herbie Hancock: Hits & Rarities](https://open.spotify.com/album/01wO4zYqruKFxPiSlfHQNY) | 7:36 | 2022-10-05 | 2022-11-25 |
-| [A Day In The Life](https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [A Day In The Life: Impressions Of Pepper](https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4) | 4:49 | 2022-09-13 |  |
+| [A Day In The Life](https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [A Day In The Life: Impressions Of Pepper](https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4) | 4:49 | 2022-09-13 | 2024-01-30 |
 | [A Hard Day's Night](https://open.spotify.com/track/2ESLwV27dNbFi91FUJdPJP) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Basie's Beatle Bag](https://open.spotify.com/album/1XBfMdvfawbcBOh43VvHWE) | 4:22 | 2022-09-13 | 2023-09-02 |
 | [A Hard Day's Night](https://open.spotify.com/track/3f3hT4I98nzIeqijasHcud) | [Les Crossaders](https://open.spotify.com/artist/2MmYl6uhjTpPB6mSnNOWHv), [Deborah Dixon](https://open.spotify.com/artist/1aHdv3nIrpIqY0Ot84aUCl) | [Sunday Morning](https://open.spotify.com/album/6yYoYbMFB4I37AgBBsbKMy) | 2:53 | 2022-09-13 |  |
 | [A Hard Rain's A\-Gonna Fall](https://open.spotify.com/track/4rTIHSHAUhS7VZdv7RWaQL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [East/West](https://open.spotify.com/album/3osIJ2ulRYsz7FMAw1AG3E) | 11:47 | 2022-09-13 |  |
@@ -42,6 +42,7 @@
 | [Cecilia](https://open.spotify.com/track/0KelVyupuOOwka66PcAmNZ) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E) | 2:11 | 2023-05-03 |  |
 | [Chelsea Morning](https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1) | [Sara Colman](https://open.spotify.com/artist/4PfopQBQZtuDd8NmCvOBXa) | [Ink on a Pin \- A Celebration of Joni Mitchell](https://open.spotify.com/album/62dQ3hNEiWLBOCJLHILChk) | 3:52 | 2022-09-13 |  |
 | [Circle Game](https://open.spotify.com/track/1nznIr3ZHzQFYoQZ6s98ri) | [Lauren Bush](https://open.spotify.com/artist/0voLSXF4pGAKwcDXctLdLD) | [Circle Game](https://open.spotify.com/album/1zI5sP4mAW9p0eQsEMQSNi) | 5:49 | 2023-09-15 | 2023-11-14 |
+| [Cocoon](https://open.spotify.com/track/4QyNMirtHB7dwDkXW73hX3) | [Youn Sun Nah](https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj) | [Elles](https://open.spotify.com/album/053PhX5KlVX5SJTueWiuyc) | 4:22 | 2024-01-26 |  |
 | [Comfortably Numb](https://open.spotify.com/track/0aQZxKrtx2JhXQfT4TD23E) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [For All I Care](https://open.spotify.com/album/3CGYqqKu94N6TBohkL35OV) | 6:41 | 2022-09-13 | 2022-10-08 |
 | [Conversation](https://open.spotify.com/track/06gNa1Rs8ivtJ3V9vSVNWB) | [Aubrey Johnson](https://open.spotify.com/artist/6WRb9e3LohpJwr0aA13eRi), [Randy Ingram](https://open.spotify.com/artist/1I1RsZSV9pEW8Zpz7feqpG) | [Play Favorites](https://open.spotify.com/album/4DHI03EwOkdyy4bXnGQnDj) | 4:23 | 2024-01-19 |  |
 | [Conversation](https://open.spotify.com/track/2OsL9OwffBpmb4YlrEpxxB) | [Aubrey Johnson](https://open.spotify.com/artist/6WRb9e3LohpJwr0aA13eRi), [Randy Ingram](https://open.spotify.com/artist/1I1RsZSV9pEW8Zpz7feqpG) | [Play Favorites](https://open.spotify.com/album/18PqcQgK9HM9N3NaLnPc9H) | 4:23 | 2022-11-24 | 2023-12-24 |

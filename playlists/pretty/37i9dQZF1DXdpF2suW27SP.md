@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Piruka entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,450 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,494 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Alé](https://open.spotify.com/track/7eVnASlqAzqYQPcpwZCgkw) | [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi), [Hernani Kalash](https://open.spotify.com/artist/7LBXbj2Z6ue2B3e5aOfh45) | [Alé](https://open.spotify.com/album/7q1pJ1A7muFQNy7RBmdkx7) | 2:22 |
 | 75 | [Banda](https://open.spotify.com/track/0uayyEDH8Wz6X1aJ21K3da) | [Lurhany](https://open.spotify.com/artist/3ohRcZusOEIJxhbEiFkDIi) | [Chora](https://open.spotify.com/album/6zmfOqBeOu9vctUDFNWiML) | 3:18 |
 
-Snapshot ID: `MCwxYWQxNjAzZTBiOWJhODQ0MjI4MDkwZmM1NGFiNTZhYmQwMWQ1MzRk`
+Snapshot ID: `MCxlOTZhMTNlMGIyMDAzYWQ1ZTAxYTMyOGI1NGQwY2JhZmU4NmMzYTg1`

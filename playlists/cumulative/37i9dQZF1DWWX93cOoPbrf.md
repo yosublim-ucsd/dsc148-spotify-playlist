@@ -2,7 +2,7 @@
 
 ### [Corridos 2024](https://open.spotify.com/playlist/37i9dQZF1DWWX93cOoPbrf)
 
-> Lo más fresco de la cosecha 2023\. Los Chavalitos en portada.
+> Lo más fresco de la cosecha 2024\. Los Chavalitos en portada.
 
 961 songs - 2 day 1 hr 21 min
 

@@ -4,7 +4,7 @@
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover: <a href="spotify:artist:50hkKRxo0g8Ck4JqlwoJr4">Cochren & Co.,</a> <a href="spotify:artist:2cRQc5dlsvrO2lVLCgdugm">Matt Boswell,</a> and <a href="spotify:artist:7C9hIwTUxeWIJzxK6rGH0d">Matt Papa</a>
 
-479 songs - 1 day 22 hr 6 min
+480 songs - 1 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,8 @@
 | [Mustard Seed](https://open.spotify.com/track/5SKRevBBlUlUFhqV9C3shR) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Mountains Move](https://open.spotify.com/album/16Y2cLHtfQOOZ6lpkYjE1J) | 5:57 | 2022-03-25 | 2022-06-11 |
 | [My Deliverer](https://open.spotify.com/track/0oTqpffMAdIcVD2QInfrIO) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Chichi Onyekanne](https://open.spotify.com/artist/50gFsE5NXUZTs9Ystdog7B) | [My Deliverer](https://open.spotify.com/album/3dBEsJbJjAytRaLnBWWOr9) | 5:24 | 2022-04-22 | 2023-04-15 |
 | [My Soul Sings](https://open.spotify.com/track/2HRanyDAEkbZkVBSdyVAPI) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [My Soul Sings](https://open.spotify.com/album/72LxQEwNtctTwLPkxJuCm3) | 6:00 | 2022-07-08 | 2024-01-13 |
-| [My Worth Is Not in What I Own](https://open.spotify.com/track/4I9E2g5Nw9RpzR9cgci5UQ) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [My Worth Is Not in What I Own](https://open.spotify.com/album/0mrY7V0AYmAMPup2GkdGpV) | 3:43 | 2023-06-09 |  |
+| [My Worth is Not in What I Own](https://open.spotify.com/track/3EgZO1HNPochAaREvj9dav) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Come Behold the Wondrous Mystery](https://open.spotify.com/album/25AJ4n2vNiYmR34lLwessO) | 3:43 | 2024-01-26 |  |
+| [My Worth Is Not in What I Own](https://open.spotify.com/track/4I9E2g5Nw9RpzR9cgci5UQ) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [My Worth Is Not in What I Own](https://open.spotify.com/album/0mrY7V0AYmAMPup2GkdGpV) | 3:43 | 2023-06-09 | 2024-01-30 |
 | [Nail Scarred Hands](https://open.spotify.com/track/4lUzMhab7SAAQBOCxyG1qo) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Nail Scarred Hands](https://open.spotify.com/album/04sRnc4zX3NEI2Raqfx8JD) | 3:12 | 2022-04-01 | 2023-03-25 |
 | [Name Above All Names \- Live \- Single Version](https://open.spotify.com/track/0e3QRktKhq0glX1HT96NI4) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq) | [Name Above All Names](https://open.spotify.com/album/4pl2xLrgY9Zq8ukesuFli8) | 6:04 | 2023-09-29 |  |
 | [Never Been](https://open.spotify.com/track/2GA5R0AVGt0DIf1cY2APhv) | [Jordan Merritt](https://open.spotify.com/artist/39DgyPkCHL68NcN1rBsjbE), [The Band Table](https://open.spotify.com/artist/67IX3oYVot7E779xGELk4L), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [Never Been](https://open.spotify.com/album/0tuajk7f2pPvbAvzgef4jM) | 5:54 | 2023-12-15 |  |

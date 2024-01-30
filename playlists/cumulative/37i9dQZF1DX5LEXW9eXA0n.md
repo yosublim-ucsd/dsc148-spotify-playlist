@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover:Kwak Jin Eon\(곽진언\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover:Jhnovr\(존오버\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,142 songs - 3 day 1 hr 56 min
+1,143 songs - 3 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,6 +368,7 @@
 | [How have you been](https://open.spotify.com/track/2HVku0IEbTB41iQvAJKQuJ) | [Kim Sol](https://open.spotify.com/artist/2ZXy5pIbcsRpQSdJ7ORUdb) | [How have you been](https://open.spotify.com/album/6nESHbjPc2o0YzWj9zh5bq) | 3:01 | 2023-01-11 | 2023-02-25 |
 | [How many nights should far away more](https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [How many nights should far away more](https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc) | 3:46 | 2023-01-20 | 2023-02-25 |
 | [How Many Times Can We Say Goodbye](https://open.spotify.com/track/4xeUPkI5r5aHwziwlYXvS0) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [How Many Times Can We Say Goodbye](https://open.spotify.com/album/1wr3C63SlJ3P67iICQKfob) | 4:26 | 2023-01-11 | 2023-02-15 |
+| [How Much I Love You](https://open.spotify.com/track/55tsR9WU9Rtl8eLKTz242N) | [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [How Much I Love You](https://open.spotify.com/album/5NpyatjHKN1GJur16L3dfR) | 3:37 | 2024-01-29 |  |
 | [How much I love you \(with Jeong Haeil\)](https://open.spotify.com/track/3AKMTInwWSxtMZdDrtUwlb) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jeong Haeil](https://open.spotify.com/artist/63AlyeATteOmFWtJPgWlH6) | [How much I love you \(with Jeong Haeil\)](https://open.spotify.com/album/5JsGLUzww5OmVXyVzAeOGg) | 3:56 | 2021-12-23 | 2022-07-02 |
 | [How painful it must be to forget](https://open.spotify.com/track/0pnBmZHznIWiv1NQktqt3S) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 11](https://open.spotify.com/album/7LxA19lgElfEjpHJk36eLq) | 3:55 | 2022-07-26 | 2022-10-27 |
 | [How should I say it](https://open.spotify.com/track/1oMQkyqsgpcdhzAskPCKtC) | [NAMJAE](https://open.spotify.com/artist/2IVjEbitCDPorTv7Ia2ORo) | [How should I say it](https://open.spotify.com/album/0ZWFO6NsJPjFOWIJFElsUO) | 4:25 | 2022-07-26 | 2022-10-15 |

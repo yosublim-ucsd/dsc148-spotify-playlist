@@ -1,12 +1,12 @@
 {
   "description": "Deja que el sentimiento de los boleros te enamore a la antigua.",
-  "num_followers": 74086,
+  "num_followers": 74154,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzk1NjBhMmFkMmVjYTJjZTEzMDU4OGFkODljODNjYjY5ZDNlYjk4",
+  "snapshot_id": "MCwyOWI3ZDY3NTAzYjQ5ZDhiZGY2N2QzMmQxZTQ2ZmJkMjMyZDg3Yjcx",
   "tracks": [
     {
       "added_at": "2021-12-26 12:28:38",
@@ -127,38 +127,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Serenata con Los Tecolines",
-        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
-      },
-      "artists": [
-        {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
-        }
-      ],
-      "duration_ms": 173146,
-      "name": "Ahora y siempre",
-      "url": "https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ"
-      },
-      "artists": [
-        {
-          "name": "Los Dandys",
-          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
-        }
-      ],
-      "duration_ms": 175253,
-      "name": "Tres Regalos",
-      "url": "https://open.spotify.com/track/0Wui9qdWQt5zhH0ZYXmrVq"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -179,6 +147,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Serenata con Los Tecolines",
+        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
+      },
+      "artists": [
+        {
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+        }
+      ],
+      "duration_ms": 173146,
+      "name": "Ahora y siempre",
+      "url": "https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "A Mi Amor Con Mi Amor",
         "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
       },
@@ -195,18 +179,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Germ\u00e1n Vald\u00e9s TIN-TAN Canciones de Sus Pel\u00edculas",
-        "url": "https://open.spotify.com/album/3Ci1X3dr7NJlbuUgqsFUgK"
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ"
       },
       "artists": [
         {
-          "name": "Germ\u00e1n Vald\u00e9s \"Tin Tan\"",
-          "url": "https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ"
+          "name": "Los Dandys",
+          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
         }
       ],
-      "duration_ms": 178703,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2S5ogx9YB1fhCcoKVd4UkQ"
+      "duration_ms": 175253,
+      "name": "Tres Regalos",
+      "url": "https://open.spotify.com/track/0Wui9qdWQt5zhH0ZYXmrVq"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -223,6 +207,22 @@
       "duration_ms": 132800,
       "name": "Te Amar\u00e9 Toda la Vida",
       "url": "https://open.spotify.com/track/60TNuPO8CKIjHstvZ9y5JN"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Germ\u00e1n Vald\u00e9s TIN-TAN Canciones de Sus Pel\u00edculas",
+        "url": "https://open.spotify.com/album/3Ci1X3dr7NJlbuUgqsFUgK"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Vald\u00e9s \"Tin Tan\"",
+          "url": "https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ"
+        }
+      ],
+      "duration_ms": 178703,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2S5ogx9YB1fhCcoKVd4UkQ"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -291,18 +291,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Las Estrellas De La Matancera",
-        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
+        "name": "Los Santos",
+        "url": "https://open.spotify.com/album/2oFAIyqSu5623ZUIFnbiiR"
       },
       "artists": [
         {
-          "name": "Celio Gonzalez",
-          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
+          "name": "Los Santos",
+          "url": "https://open.spotify.com/artist/2yecGImQIcTzSN0nh6BHcI"
         }
       ],
-      "duration_ms": 174213,
-      "name": "Total",
-      "url": "https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9"
+      "duration_ms": 176889,
+      "name": "Jacarand\u00e1",
+      "url": "https://open.spotify.com/track/0RIijpTXIM2xf11zcH3eGL"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -339,18 +339,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Los Santos",
-        "url": "https://open.spotify.com/album/2oFAIyqSu5623ZUIFnbiiR"
+        "name": "Las Estrellas De La Matancera",
+        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
       },
       "artists": [
         {
-          "name": "Los Santos",
-          "url": "https://open.spotify.com/artist/2yecGImQIcTzSN0nh6BHcI"
+          "name": "Celio Gonzalez",
+          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
         }
       ],
-      "duration_ms": 176889,
-      "name": "Jacarand\u00e1",
-      "url": "https://open.spotify.com/track/0RIijpTXIM2xf11zcH3eGL"
+      "duration_ms": 174213,
+      "name": "Total",
+      "url": "https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -451,6 +451,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "B\u00e9same Mucho",
+      "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "\u00c9xitos",
         "url": "https://open.spotify.com/album/54BYhUZE62cpwfBlcIYAWs"
       },
@@ -487,6 +503,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Los Tres Ases - Serenata de Amor",
+        "url": "https://open.spotify.com/album/1Ne7t2hsWhafB18i5QCUoI"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
+        }
+      ],
+      "duration_ms": 192888,
+      "name": "Sabor a mi",
+      "url": "https://open.spotify.com/track/3qbYOwAWwcvMUx6KPmWFKJ"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "The Golden Record, Vol. 1",
         "url": "https://open.spotify.com/album/60IfvvlBBoGXZpCFVS6KSF"
       },
@@ -515,38 +547,6 @@
       "duration_ms": 198080,
       "name": "No me platiques",
       "url": "https://open.spotify.com/track/78nszOi3nyWJG0UmLrSeAB"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Los Tres Ases - Serenata de Amor",
-        "url": "https://open.spotify.com/album/1Ne7t2hsWhafB18i5QCUoI"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Ases",
-          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
-        }
-      ],
-      "duration_ms": 192888,
-      "name": "Sabor a mi",
-      "url": "https://open.spotify.com/track/3qbYOwAWwcvMUx6KPmWFKJ"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "B\u00e9same Mucho",
-      "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -791,38 +791,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Cada Noche Un Amor",
-        "url": "https://open.spotify.com/album/3mqlr428rzRpER555YbBJN"
-      },
-      "artists": [
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 184773,
-      "name": "Amor de Mis Amores",
-      "url": "https://open.spotify.com/track/6ykbMeaYP0fcADEFAn65Y9"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Los Exitos de Alvaro Carrillo",
-        "url": "https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Carrillo",
-          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
-        }
-      ],
-      "duration_ms": 189426,
-      "name": "Como un Lunar",
-      "url": "https://open.spotify.com/track/6bVxowP80G2ScKsfAz56Fs"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Boleros De Siempre",
         "url": "https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK"
       },
@@ -835,6 +803,22 @@
       "duration_ms": 171432,
       "name": "Mil Cosas",
       "url": "https://open.spotify.com/track/2uJpuids3FAuhAsLjp5Zzm"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Cada Noche Un Amor",
+        "url": "https://open.spotify.com/album/3mqlr428rzRpER555YbBJN"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "duration_ms": 184773,
+      "name": "Amor de Mis Amores",
+      "url": "https://open.spotify.com/track/6ykbMeaYP0fcADEFAn65Y9"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -855,6 +839,22 @@
       "duration_ms": 178173,
       "name": "En la Palma de la Mano",
       "url": "https://open.spotify.com/track/4fPCFJHsR8iWRv3Q6yDL4i"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Los Exitos de Alvaro Carrillo",
+        "url": "https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Carrillo",
+          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
+        }
+      ],
+      "duration_ms": 189426,
+      "name": "Como un Lunar",
+      "url": "https://open.spotify.com/track/6bVxowP80G2ScKsfAz56Fs"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -895,6 +895,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Boleros De Siempre",
+        "url": "https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK"
+      },
+      "artists": [
+        {
+          "name": "Alberto Beltran",
+          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
+        }
+      ],
+      "duration_ms": 170649,
+      "name": "La N\u00famero Cien",
+      "url": "https://open.spotify.com/track/0YXhcFM9FyZ7EXK9LXPvD9"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "El Trovador Solitario",
         "url": "https://open.spotify.com/album/21bapb0tcYyoqzZuXP9Xze"
       },
@@ -927,18 +943,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Boleros De Siempre",
-        "url": "https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK"
+        "name": "Benny Mor\u00e9 M\u00e1gico",
+        "url": "https://open.spotify.com/album/6eR6hzbY2nRAOEn04Ckixb"
       },
       "artists": [
         {
-          "name": "Alberto Beltran",
-          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
         }
       ],
-      "duration_ms": 170649,
-      "name": "La N\u00famero Cien",
-      "url": "https://open.spotify.com/track/0YXhcFM9FyZ7EXK9LXPvD9"
+      "duration_ms": 178626,
+      "name": "Como Fu\u00e9",
+      "url": "https://open.spotify.com/track/7yvBuMGvWigRvJgwtKEPLD"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -955,22 +971,6 @@
       "duration_ms": 147017,
       "name": "Cuando Estemos Viejo",
       "url": "https://open.spotify.com/track/01OCG8cqpCCV2PVrP6Xuvg"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Benny Mor\u00e9 M\u00e1gico",
-        "url": "https://open.spotify.com/album/6eR6hzbY2nRAOEn04Ckixb"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Como Fu\u00e9",
-      "url": "https://open.spotify.com/track/7yvBuMGvWigRvJgwtKEPLD"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -995,22 +995,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Los Jefes Interpretan al Inmortal Julio Jaramillo",
-        "url": "https://open.spotify.com/album/3SjcynTYHXUywEqdpv2KFA"
-      },
-      "artists": [
-        {
-          "name": "Los Jefes",
-          "url": "https://open.spotify.com/artist/2yCqVZMT1Q1rCz86KiKQUp"
-        }
-      ],
-      "duration_ms": 206826,
-      "name": "Nuestro Juramento",
-      "url": "https://open.spotify.com/track/0cGYk1dJWiA0fUSgQuAGpY"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Los Tres Ases",
         "url": "https://open.spotify.com/album/0Qsqqs8HWEjVSXfoHhlIkp"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 182532,
       "name": "Si Nos Dejan",
       "url": "https://open.spotify.com/track/4pZEUFPChCHLkJJ78hkwvh"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Los Jefes Interpretan al Inmortal Julio Jaramillo",
+        "url": "https://open.spotify.com/album/3SjcynTYHXUywEqdpv2KFA"
+      },
+      "artists": [
+        {
+          "name": "Los Jefes",
+          "url": "https://open.spotify.com/artist/2yCqVZMT1Q1rCz86KiKQUp"
+        }
+      ],
+      "duration_ms": 206826,
+      "name": "Nuestro Juramento",
+      "url": "https://open.spotify.com/track/0cGYk1dJWiA0fUSgQuAGpY"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Antologia (Volumen 2)",
-        "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
-      },
-      "artists": [
-        {
-          "name": "Nelson Ned",
-          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "Mi Manera De Amar",
-      "url": "https://open.spotify.com/track/65JC1aD0zlq5RQ7Q8zQuss"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Canciones De Amor",
         "url": "https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 194466,
       "name": "Usted",
       "url": "https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Antologia (Volumen 2)",
+        "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
+      },
+      "artists": [
+        {
+          "name": "Nelson Ned",
+          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "Mi Manera De Amar",
+      "url": "https://open.spotify.com/track/65JC1aD0zlq5RQ7Q8zQuss"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "El Estilo de Roberto Ledesma",
+        "url": "https://open.spotify.com/album/2cW8xEyy96yugn4JzlSsBM"
+      },
+      "artists": [
+        {
+          "name": "Roberto Ledesma",
+          "url": "https://open.spotify.com/artist/2Ejmg38PVquSCqD7ijebmY"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Mira Que Eres Linda",
+      "url": "https://open.spotify.com/track/3QMnlOZnTJtoJwyizN832A"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Canta",
         "url": "https://open.spotify.com/album/34SGNnZ6tCYw7v00Y0H6KZ"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 141000,
       "name": "Besos De Fuego",
       "url": "https://open.spotify.com/track/0gcHTyuJ19PvuDAcaw0uEX"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "El Estilo de Roberto Ledesma",
-        "url": "https://open.spotify.com/album/2cW8xEyy96yugn4JzlSsBM"
-      },
-      "artists": [
-        {
-          "name": "Roberto Ledesma",
-          "url": "https://open.spotify.com/artist/2Ejmg38PVquSCqD7ijebmY"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Mira Que Eres Linda",
-      "url": "https://open.spotify.com/track/3QMnlOZnTJtoJwyizN832A"
     },
     {
       "added_at": "2021-12-26 12:28:38",

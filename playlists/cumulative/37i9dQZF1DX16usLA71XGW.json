@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-20",
-  "description": "East Africa queens in their music bag. Cover: Phina",
+  "description": "East Africa queens in their music bag. Cover: Jowy Landa",
   "name": "Malkia",
   "tracks": [
     {
@@ -443,6 +443,24 @@
     },
     {
       "album": {
+        "name": "Feelings Station",
+        "url": "https://open.spotify.com/album/6JQB8PzILyZHsYEMLejthu"
+      },
+      "artists": [
+        {
+          "name": "Moraa",
+          "url": "https://open.spotify.com/artist/3KXgIveLaCqHIvZPex0HE8"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136296,
+      "name": "Haya",
+      "url": "https://open.spotify.com/track/42hRf2eAhvWnGqAUGnLHh1"
+    },
+    {
+      "album": {
         "name": "HIGH",
         "url": "https://open.spotify.com/album/7KRSyRYblNpRGfHBPgs3dt"
       },
@@ -696,7 +714,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 121544,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
@@ -1225,6 +1243,24 @@
     },
     {
       "album": {
+        "name": "Ntaawa",
+        "url": "https://open.spotify.com/album/5uKZ39gh0m85av50uFH7vE"
+      },
+      "artists": [
+        {
+          "name": "JOWY LANDA",
+          "url": "https://open.spotify.com/artist/2SynZgOgEzrqmPhtkr6q9X"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142106,
+      "name": "Ntaawa",
+      "url": "https://open.spotify.com/track/0gwOZ0bsxcHkXjdewTVC4I"
+    },
+    {
+      "album": {
         "name": "NYUMBANI",
         "url": "https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s"
       },
@@ -1240,7 +1276,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 120960,
       "name": "Nyumbani",
       "url": "https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW"
@@ -1619,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "Sisi Ni Wale",
+        "url": "https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3"
+      },
+      "artists": [
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228251,
+      "name": "Sisi Ni Wale",
+      "url": "https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9"
+    },
+    {
+      "album": {
         "name": "Flavour",
         "url": "https://open.spotify.com/album/5YOqPJBwr15Z9RZOca5K1H"
       },
@@ -1958,7 +2012,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 242400,
       "name": "Undercover",
       "url": "https://open.spotify.com/track/5Uy3sc1qolZIq16vURqlH7"

@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 162161,
+  "num_followers": 162492,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWY3NWI2OWQ0NmIzMjQyOGQzNjMwMjI0ZjBmZjdlZGM5ZjA4ODg2",
+  "snapshot_id": "MCwxNjRmMDdjMWEwYmJlMzUxMTE3N2YyNjZmZDg0NTI0N2M5MTVkMzcx",
   "tracks": [
     {
       "added_at": "2023-09-22 12:14:33",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "A I A: Alien Observer",
-        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 236480,
-      "name": "Alien Observer",
-      "url": "https://open.spotify.com/track/35VfLKymw2iZKWnLTvm8Xv"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "I Could Live In Hope",
         "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 317455,
       "name": "come",
       "url": "https://open.spotify.com/track/6MX8v7cRooNQb5fW5Uo6Sm"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "A I A: Alien Observer",
+        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "Alien Observer",
+      "url": "https://open.spotify.com/track/35VfLKymw2iZKWnLTvm8Xv"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -431,38 +431,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Heavy Water/I'd Rather Be Sleeping",
-      "url": "https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "I Could Live In Hope",
-        "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
-        }
-      ],
-      "duration_ms": 348800,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "F\u266f A\u266f \u221e",
         "url": "https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5"
       },
@@ -475,22 +443,6 @@
       "duration_ms": 987960,
       "name": "The Dead Flag Blues",
       "url": "https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "Giles Corey",
-        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
-      },
-      "artists": [
-        {
-          "name": "Giles Corey",
-          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
-        }
-      ],
-      "duration_ms": 486277,
-      "name": "No One Is Ever Going to Want Me",
-      "url": "https://open.spotify.com/track/4McullpiOd45TwEHlOISgs"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -511,6 +463,22 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Heavy Water/I'd Rather Be Sleeping",
+      "url": "https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
         "name": "You Stay by the Sea (Deluxe)",
         "url": "https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4"
       },
@@ -523,6 +491,38 @@
       "duration_ms": 256394,
       "name": "Sea Creatures",
       "url": "https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "I Could Live In Hope",
+        "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+        }
+      ],
+      "duration_ms": 348800,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Giles Corey",
+        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+      },
+      "artists": [
+        {
+          "name": "Giles Corey",
+          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+        }
+      ],
+      "duration_ms": 486277,
+      "name": "No One Is Ever Going to Want Me",
+      "url": "https://open.spotify.com/track/4McullpiOd45TwEHlOISgs"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Giles Corey",
-        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
-      },
-      "artists": [
-        {
-          "name": "Giles Corey",
-          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
-        }
-      ],
-      "duration_ms": 477000,
-      "name": "The Haunting Presence",
-      "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "Fantas Variations",
         "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
       },
@@ -607,6 +591,38 @@
       "duration_ms": 187863,
       "name": "Fantas Morbida",
       "url": "https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
+      },
+      "artists": [
+        {
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
+        }
+      ],
+      "duration_ms": 213426,
+      "name": "Warmth of You",
+      "url": "https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Giles Corey",
+        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+      },
+      "artists": [
+        {
+          "name": "Giles Corey",
+          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+        }
+      ],
+      "duration_ms": 477000,
+      "name": "The Haunting Presence",
+      "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -643,22 +659,6 @@
       "duration_ms": 566208,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 213426,
-      "name": "Warmth of You",
-      "url": "https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 221213,
-      "name": "Below the House",
-      "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "And They Will Fall",
         "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 241333,
       "name": "And They Will Fall",
       "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
+      },
+      "artists": [
+        {
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
+        }
+      ],
+      "duration_ms": 221213,
+      "name": "Below the House",
+      "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
+        "name": "4AM ambient version",
+        "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
+      },
+      "artists": [
+        {
+          "name": "Late Era",
+          "url": "https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN"
+        }
+      ],
+      "duration_ms": 112826,
+      "name": "4AM ambient version",
+      "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
         "name": "...Is Doomed",
         "url": "https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP"
       },
@@ -959,18 +975,18 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "4AM ambient version",
-        "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
       "artists": [
         {
-          "name": "Late Era",
-          "url": "https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN"
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
         }
       ],
-      "duration_ms": 112826,
-      "name": "4AM ambient version",
-      "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
+      "duration_ms": 489320,
+      "name": "Spectral",
+      "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -991,22 +1007,6 @@
       "duration_ms": 396773,
       "name": "Gold of the Azure - Marconi Union Remix",
       "url": "https://open.spotify.com/track/3PdFwrtQxYdw0S1urHwKO6"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 489320,
-      "name": "Spectral",
-      "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Together Is The New Alone (2021 Remaster)",
-        "url": "https://open.spotify.com/album/50IrZoBBRl0nlOnnPxYS1U"
+        "name": "Dead Magic",
+        "url": "https://open.spotify.com/album/6TwIgTmp0ntCzuc846KoXB"
       },
       "artists": [
         {
-          "name": "Donnacha Costello",
-          "url": "https://open.spotify.com/artist/4E4E7r2hvqQjmNVaHnKXiz"
+          "name": "Anna von Hausswolff",
+          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
         }
       ],
-      "duration_ms": 645000,
-      "name": "Dry Retch - 2021 Remaster",
-      "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
+      "duration_ms": 318786,
+      "name": "The Marble Eye",
+      "url": "https://open.spotify.com/track/5tWSQ1cXoMBafYnEwmSVkS"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
+        "name": "Together Is The New Alone (2021 Remaster)",
+        "url": "https://open.spotify.com/album/50IrZoBBRl0nlOnnPxYS1U"
+      },
+      "artists": [
+        {
+          "name": "Donnacha Costello",
+          "url": "https://open.spotify.com/artist/4E4E7r2hvqQjmNVaHnKXiz"
+        }
+      ],
+      "duration_ms": 645000,
+      "name": "Dry Retch - 2021 Remaster",
+      "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
         "name": "Lie Beneath the Stars",
         "url": "https://open.spotify.com/album/4hIXAm8DjhWViiAvruMVaj"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 389530,
       "name": "Lie Beneath the Stars",
       "url": "https://open.spotify.com/track/1zSuezypJNKfab1FnC83HG"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "Dead Magic",
-        "url": "https://open.spotify.com/album/6TwIgTmp0ntCzuc846KoXB"
-      },
-      "artists": [
-        {
-          "name": "Anna von Hausswolff",
-          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
-        }
-      ],
-      "duration_ms": 318786,
-      "name": "The Marble Eye",
-      "url": "https://open.spotify.com/track/5tWSQ1cXoMBafYnEwmSVkS"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 417142,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "Slow Bloom",
         "url": "https://open.spotify.com/album/2Vz8SP9YrEhrCK0seyZw2n"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 285312,
       "name": "Slow Bloom",
       "url": "https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+      },
+      "artists": [
+        {
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+        }
+      ],
+      "duration_ms": 417142,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
     }
   ],
   "unique_name": "gloomcore",

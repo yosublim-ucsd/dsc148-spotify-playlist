@@ -1699,6 +1699,28 @@
     },
     {
       "album": {
+        "name": "Parwaah",
+        "url": "https://open.spotify.com/album/3FMVR3rWT0bqQV7nBtgBWl"
+      },
+      "artists": [
+        {
+          "name": "Zeeshan Ali",
+          "url": "https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92"
+        },
+        {
+          "name": "Anmol Daniel",
+          "url": "https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206446,
+      "name": "Parwaah",
+      "url": "https://open.spotify.com/track/6gKJGGdSdplnQMztBCCpnR"
+    },
+    {
+      "album": {
         "name": "Bazaar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1avIfZTPBNVgxgbBSaNLnX"
       },

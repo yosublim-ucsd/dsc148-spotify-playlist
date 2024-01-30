@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 34,
+  "2024-01-30": 34,
   "date_first_scraped": "2023-03-17",
   "description": "",
   "name": "a wonderful change",
@@ -783,6 +783,24 @@
       "duration_ms": 282706,
       "name": "I'll Fly Away",
       "url": "https://open.spotify.com/track/3Ibqth7iNwWwM28ZWcLk3Q"
+    },
+    {
+      "album": {
+        "name": "Dorinda Clark-Cole",
+        "url": "https://open.spotify.com/album/4GFRHIy3A3yBqBc1fchCDh"
+      },
+      "artists": [
+        {
+          "name": "Dorinda Clark-Cole",
+          "url": "https://open.spotify.com/artist/2izm16Jd9ifkaqR5fxzlTK"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351533,
+      "name": "I'm Still Here",
+      "url": "https://open.spotify.com/track/0qtIa1k4Dh5bVYNngW9SDz"
     },
     {
       "album": {

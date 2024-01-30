@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWevrQ6HpxHI.md) - [plain]
 
 > Over 5 hours of classic heaters 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,357 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,399 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
 | 2 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 |
 | 3 | [Sunshine \(feat\. Dan Harkna\) \- Radio Edit](https://open.spotify.com/track/3jbsz68DZXoqTlCz0n05xn) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [Dan Harkna](https://open.spotify.com/artist/5xeGJm9dgg2x5luZLEYtMx) | [Sunshine \(feat\. Dan Harkna\) \[Radio Edit\]](https://open.spotify.com/album/7qAljACjJJN2jhgB4aA9sZ) | 3:00 |
-| 4 | [This Girl \- Kungs Vs\. Cookin' On 3 Burners](https://open.spotify.com/track/4qLAdBMTzixqAAexCs0TrL) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [大掃除がはかどる洋楽ヒッツ](https://open.spotify.com/album/5wWvsNRs99bNW8USlLJW4r) | 3:15 |
+| 4 | [This Girl \(Kungs Vs\. Cookin' On 3 Burners\)](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Layers](https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB) | 3:15 |
 | 5 | [Afterglow](https://open.spotify.com/track/6LW3Z1GqbL78TIjfDyg4zp) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Lazers Not Included](https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB) | 3:45 |
 | 6 | [Looking For Me](https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Do You Dance?](https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0) | 3:31 |
 | 7 | [Sweet Lovin' \- Radio Edit](https://open.spotify.com/track/1qp0ptMXNg9hqLH8sk7cc2) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWevrQ6HpxHI.md) - [plain]
 | 99 | [Nobody Does It Better](https://open.spotify.com/track/71qJKN5aGOnAHHuui6344H) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [Nobody Does It Better](https://open.spotify.com/album/3vgpPO8Z1AhRDdQAsUJUKQ) | 2:28 |
 | 100 | [Bullit](https://open.spotify.com/track/0HFmNBn8c5oHCkg8oEjEEA) | [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W) | [Bullit](https://open.spotify.com/album/5yIGnF3aTgLLVVtnG9b8Qw) | 3:15 |
 
-Snapshot ID: `MCw3NzRlOWI2NDQ3ODk5MGJkMWUzYjBlOWU0NjQ5MGNlYzUyOTM3NDcy`
+Snapshot ID: `MCxmOTQ5MGFjZjlkYmFiODVhOTE3YTljNWNlMDg3ODdiOWUxMzMwODhi`

@@ -710,7 +710,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 316653,
       "name": "Fantasia in D Minor, K. 397",
       "url": "https://open.spotify.com/track/7IHEJdJhju1F2rhIiwgawx"
@@ -1078,6 +1078,28 @@
       "duration_ms": 301400,
       "name": "Montero: Adagio (After Bach's Violin Concerto No. 2, BWV 1042)",
       "url": "https://open.spotify.com/track/1v3gGmcneK1QzYyBFiBXG0"
+    },
+    {
+      "album": {
+        "name": "Mozart",
+        "url": "https://open.spotify.com/album/2xetV0B6kIvioqH52Q6JFW"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319973,
+      "name": "Mozart: Fantasia in D Minor, K. 397",
+      "url": "https://open.spotify.com/track/1O0XZAJf8fIN7wRgXffL0P"
     },
     {
       "album": {

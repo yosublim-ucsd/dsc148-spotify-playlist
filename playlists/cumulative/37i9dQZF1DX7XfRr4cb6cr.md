@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-261 songs - 21 hr 36 min
+262 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Hostages in Love](https://open.spotify.com/track/6SeMU5LqTGTWGVNZbfcyyv) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Crossing the Border](https://open.spotify.com/album/4p1dDiZNp0L8hmBa8PnCb2) | 4:07 | 2023-09-01 |  |
 | [Hunter](https://open.spotify.com/track/10Q1McczOHRWTzRIVAeeaL) | [Nature of Wires](https://open.spotify.com/artist/3UbV4twUaN8yLN3MYKgmMi) | [Building Reflections](https://open.spotify.com/album/75KSdcNz3VGxu0jNIjGj0G) | 3:15 | 2022-03-25 |  |
 | [Hyna Ruje](https://open.spotify.com/track/2Yj78qpYlgKsOT0BV7WO2n) | [Digital Moss](https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB) | [Hyna Ruje](https://open.spotify.com/album/66ZYAjqiueJ8s7JYOKZLZQ) | 5:38 | 2022-03-25 |  |
-| [Hávamál](https://open.spotify.com/track/5dURxMxfTaxka4rsMlGC3m) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Winter Ashes](https://open.spotify.com/album/22ayH0VEYTH5MDjx3S686N) | 5:18 | 2022-01-21 |  |
+| [Hávamál](https://open.spotify.com/track/5dURxMxfTaxka4rsMlGC3m) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Winter Ashes](https://open.spotify.com/album/22ayH0VEYTH5MDjx3S686N) | 5:18 | 2022-01-21 | 2024-01-30 |
 | [i don't know](https://open.spotify.com/track/6IdTGiVPwOhI5kJCH32Ue5) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy), [Miranda Rain](https://open.spotify.com/artist/5zb0UmoGI37fw1JM6t6x9c) | [i don't know](https://open.spotify.com/album/2AUH1ICjCVPn89ToFgeqyg) | 1:57 | 2023-06-29 | 2023-10-06 |
 | [i lost my heart \- Slowed + Reverb](https://open.spotify.com/track/6E7srZ5EkQ4oOmqB3iU4Bo) | [auroratønes](https://open.spotify.com/artist/25xv3luiiLhzEWDSk0SOmy), [$adness](https://open.spotify.com/artist/6jiqToMlWSzv4F4IH4Knf6) | [i lost my heart \(Slowed + Reverb\)](https://open.spotify.com/album/40HHfGDkYr6GM6ANlH74un) | 2:48 | 2023-09-01 |  |
 | [I See Your Picture, It's in the Same Old Frame](https://open.spotify.com/track/1admOcHNEDufX4KbPM6zqC) | [Katia Krow](https://open.spotify.com/artist/2YykFr6zggCoi2GHZbFlSG) | [I've Called off the Search, I Know Exactly Where You Are](https://open.spotify.com/album/1Gsd8mV3HxMu4uqimgh8yu) | 2:47 | 2022-07-22 | 2023-10-23 |
@@ -212,6 +212,7 @@
 | [Stora vreden i Storvreta](https://open.spotify.com/track/1UN8NVjNxGpLj5bYs0m73h) | [Gävle\-Stockholm Dub](https://open.spotify.com/artist/6aDddHTB6bkZ4ozFebxEdE), [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Pro424](https://open.spotify.com/artist/2JM8Yxfky3rGXzVvchyFof) | [Ingenmansland](https://open.spotify.com/album/6LbHHHfmp3sV9olKmzITYk) | 5:04 | 2022-01-21 |  |
 | [Stretching / Invading](https://open.spotify.com/track/17ZTSGtdTtAeKaCvAUosDt) | [Augustus Muller](https://open.spotify.com/artist/6dCwK4owIEfNc1IIK3tlOk), [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Cellulosed Bodies \(Original Score\)](https://open.spotify.com/album/3JRCKVOnmG1VCJM94I3Nk7) | 2:25 | 2023-09-22 | 2024-01-12 |
 | [Stretching / Invading](https://open.spotify.com/track/2gz0CqpSgEAif1U3hez55O) | [Augustus Muller](https://open.spotify.com/artist/6dCwK4owIEfNc1IIK3tlOk), [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Fur and Metal](https://open.spotify.com/album/6ehmrA1NW4dSyQQWIK2EJ9) | 2:25 | 2023-07-21 | 2023-09-09 |
+| [Stretching / Invading](https://open.spotify.com/track/5gNw8EWLnREMt0QQaOvLGx) | [Augustus Muller](https://open.spotify.com/artist/6dCwK4owIEfNc1IIK3tlOk), [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Cellulosed Bodies \(Original Score\)](https://open.spotify.com/album/0E4j6OuXlMFhVq3ZXJT8G7) | 2:25 | 2023-12-01 |  |
 | [Summiteer](https://open.spotify.com/track/05bAZwA4ZaxsCzpHBlUVqs) | [Max Würden](https://open.spotify.com/artist/2MKTL40lyjR0TZPgj5YYq9) | [Landmark](https://open.spotify.com/album/3uLDq6PcffnmXFz4MZnxZP) | 5:30 | 2023-03-10 | 2023-12-14 |
 | [Sun \- Midnight Version](https://open.spotify.com/track/1qzAQw3RpFpdB7p71KQRrr) | [Lisa Nordström](https://open.spotify.com/artist/4K9TXqOfC8Owin6QflkeHl) | [Midnight](https://open.spotify.com/album/0Ki50P3NuzhFtM70S5OOtf) | 19:28 | 2022-10-14 |  |
 | [Sun \- Midnight Version](https://open.spotify.com/track/7MJNbajzY9V54Eq2a0SiQD) | [Lisa Nordström](https://open.spotify.com/artist/4K9TXqOfC8Owin6QflkeHl) | [Midnight](https://open.spotify.com/album/3jzXWkXEgM5WDtLnf3ySUK) | 19:28 | 2022-03-25 | 2022-07-25 |

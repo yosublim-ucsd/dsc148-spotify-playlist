@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 17628,
+  "2024-01-30": 17654,
   "date_first_scraped": "2023-11-24",
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
   "name": "\u305b\u304d\u3089\u3089",
@@ -125,7 +125,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 160203,
       "name": "Dame Sengen",
       "url": "https://open.spotify.com/track/6jSRiSqC4enItld9Atti6h"
@@ -493,6 +493,24 @@
       "duration_ms": 250766,
       "name": "Mouichido",
       "url": "https://open.spotify.com/track/40gt89icqkSFqWWfMlqagb"
+    },
+    {
+      "album": {
+        "name": "I'll Be Cute When You See Me",
+        "url": "https://open.spotify.com/album/73gLuSuMKY13uGbfcvkseg"
+      },
+      "artists": [
+        {
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201520,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/2JplDq106PTi3y21zyj6hl"
     },
     {
       "album": {

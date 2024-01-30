@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Naama
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,104 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,114 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [I loves you Porgy](https://open.spotify.com/track/4wYj7DbAJBNE8YzWpmsWnT) | [Kareen Guiock\-Thuram](https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER) | [Nina](https://open.spotify.com/album/6z7RipHovotv8iZtjz3hIt) | 4:13 |
 | 50 | [Almost Like Being in Love](https://open.spotify.com/track/3qizV4OtxenPpgi4GIGR2U) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Almost Like Being in Love](https://open.spotify.com/album/0Nh59ZpVKxw8TM7nHNEOYk) | 2:39 |
 
-Snapshot ID: `MCxiODNmZmRiNTBhZDkwYTMyNWU2Y2U2N2QzMWQ2YWVkNmY0ZWQxNzc0`
+Snapshot ID: `MCxkYzAyYTZlY2EyNGI0MzZhZjhjYzA0ZDAyMDQ2N2Q4NzMyNWI1ZGVh`

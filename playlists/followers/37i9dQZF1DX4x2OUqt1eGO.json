@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 14475,
+  "2024-01-30": 14491,
   "date_first_scraped": "2023-07-08",
   "description": "Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses. Cover : Shriram Sampath",
   "name": "ECHO : Fascinating Flute",
@@ -119,6 +119,24 @@
       "duration_ms": 273127,
       "name": "Bansuri (Tranquil Waters)",
       "url": "https://open.spotify.com/track/7AyWhg7yOGaT1a8juVaFAF"
+    },
+    {
+      "album": {
+        "name": "Bansuri Shri Krishna Ki",
+        "url": "https://open.spotify.com/album/1pFIjJaIEarHq5tVVWCrWl"
+      },
+      "artists": [
+        {
+          "name": "Anjan Roy",
+          "url": "https://open.spotify.com/artist/7HPchTb6N01giKeLztkPpZ"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283963,
+      "name": "Bansuri Bgm",
+      "url": "https://open.spotify.com/track/4ij8HJsDyEcDG1fVoF70TD"
     },
     {
       "album": {
@@ -1013,7 +1031,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 244800,
       "name": "Monsoon Moon",
       "url": "https://open.spotify.com/track/53l3hRGFDvakOGlZNmOEJO"

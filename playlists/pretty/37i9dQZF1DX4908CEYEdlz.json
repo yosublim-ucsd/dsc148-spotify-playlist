@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: The Killers",
-  "num_followers": 679352,
+  "num_followers": 679108,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2FkMTQyYWI2OTgxODgwOTJhZTFkMTI4MTY5OGI4NzE3Nzg5NDgx",
+  "snapshot_id": "MCwyOTgyN2JkNDQwOGUzYjRjMjM2NDYzZmNlZWUyMmYyODY2NWRlOWJl",
   "tracks": [
     {
       "added_at": "2024-01-26 03:01:00",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 198324,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
         "name": "Artificial",
         "url": "https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 219468,
       "name": "Artificial",
       "url": "https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
-        "name": "The Fear of Fear",
-        "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 281052,
-      "name": "Too Close / Too Late",
-      "url": "https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Dilemma",
-        "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 198324,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "Lighting Up The Sky",
         "url": "https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 220839,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/1HFXb1wpN8cGuTrRn1idRd"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "The Fear of Fear",
+        "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 281052,
+      "name": "Too Close / Too Late",
+      "url": "https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -239,6 +239,26 @@
       "duration_ms": 259173,
       "name": "Temple Of Ekur",
       "url": "https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "Mars To Liverpool",
+        "url": "https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        },
+        {
+          "name": "John Squire",
+          "url": "https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ"
+        }
+      ],
+      "duration_ms": 220940,
+      "name": "Mars To Liverpool",
+      "url": "https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -287,26 +307,6 @@
       "duration_ms": 244216,
       "name": "The Indigo Streak",
       "url": "https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
-        "name": "Mars To Liverpool",
-        "url": "https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        },
-        {
-          "name": "John Squire",
-          "url": "https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ"
-        }
-      ],
-      "duration_ms": 220940,
-      "name": "Mars To Liverpool",
-      "url": "https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Hotel Kalifornia (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2QmovINf6cQMuNTTZYNBWi"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 215643,
-      "name": "Salvation",
-      "url": "https://open.spotify.com/track/7lLjB1RVkIG3CangYngvtJ"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "Lighting Up The Sky",
         "url": "https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 201541,
       "name": "More Than Machines",
       "url": "https://open.spotify.com/track/3PiSJPOATPEo0XOnSUS9nv"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "Hotel Kalifornia (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2QmovINf6cQMuNTTZYNBWi"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 215643,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/7lLjB1RVkIG3CangYngvtJ"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Lighting Up The Sky",
-        "url": "https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 316979,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/3vbUfrHlvij1EiBW2CgFEs"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "Sacred The Thread",
         "url": "https://open.spotify.com/album/4dimPGtC8aTFM0jCf739TN"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 321710,
       "name": "Sacred The Thread",
       "url": "https://open.spotify.com/track/1euMlU3weroX6ERo4vEfQl"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "Lighting Up The Sky",
+        "url": "https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 316979,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/3vbUfrHlvij1EiBW2CgFEs"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Dreadpool",
-        "url": "https://open.spotify.com/album/3vF3bDExugJaSubn8KgPwQ"
-      },
-      "artists": [
-        {
-          "name": "Black Pantera",
-          "url": "https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t"
-        }
-      ],
-      "duration_ms": 179564,
-      "name": "Dreadpool",
-      "url": "https://open.spotify.com/track/3Xj5buo2mNxOyxPgT8Xkzy"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "Keep It Away",
         "url": "https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 221226,
       "name": "Keep It Away",
       "url": "https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "Dreadpool",
+        "url": "https://open.spotify.com/album/3vF3bDExugJaSubn8KgPwQ"
+      },
+      "artists": [
+        {
+          "name": "Black Pantera",
+          "url": "https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t"
+        }
+      ],
+      "duration_ms": 179564,
+      "name": "Dreadpool",
+      "url": "https://open.spotify.com/track/3Xj5buo2mNxOyxPgT8Xkzy"
     }
   ],
   "unique_name": "Volume M\u00e1ximo",

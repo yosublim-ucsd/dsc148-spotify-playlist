@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-752 songs - 1 day 8 hr 13 min
+754 songs - 1 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Empty Streets](https://open.spotify.com/track/6NR2SRndDIWZeNzGBwtJBX) | [Livia Irvine](https://open.spotify.com/artist/5UZGLyXbAbN3zwH8pMhWmR) | [Empty Streets](https://open.spotify.com/album/6Cctv6zm1t6oSnLMwNzbdX) | 2:26 | 2022-11-11 |  |
 | [Encercler](https://open.spotify.com/track/1d30t4z4DuJelbpdfI63Dy) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Encercler](https://open.spotify.com/album/0HYjX55TUeNVL0LBLwv2FA) | 1:48 | 2023-02-20 | 2023-08-22 |
 | [Ensamma nätter](https://open.spotify.com/track/7wHSoSqiCeLNn56BjPvece) | [Drömqvist](https://open.spotify.com/artist/1vmjcCxXgIkmW2139Y5nr8) | [Ensamma nätter](https://open.spotify.com/album/498EN0Kfw9NYGlyFzV5ALo) | 2:28 | 2022-05-26 | 2024-01-03 |
+| [Eridani](https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Eridani](https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV) | 2:32 | 2024-01-29 |  |
 | [Et løfte](https://open.spotify.com/track/4KB0FsNnaynCa0Zx8V6h9C) | [Tosh Møller](https://open.spotify.com/artist/2CUZliHXKYjXEV2BOZqMvi) | [Et løfte](https://open.spotify.com/album/6zZJcLrm7pvfBWlIEmffH9) | 2:14 | 2023-04-24 |  |
 | [Eternal Bloom](https://open.spotify.com/track/0OYDV3vHPSXFQkKmVdodFn) | [Luis Álvarez](https://open.spotify.com/artist/3zowTYcPBFKlG4Hi98bPpq) | [Eternal Bloom](https://open.spotify.com/album/72ckrZrv9xw3vabgq5cLM1) | 3:11 | 2021-12-13 | 2022-03-18 |
 | [Ether](https://open.spotify.com/track/0NInoCrExhcGEZFnRBBo0o) | [Astrid Sky](https://open.spotify.com/artist/1Kk2yuiHX31YmnpMTgrP4L), [Marcos Boza](https://open.spotify.com/artist/443Yc7SeaW7ddTyVUMJ5ZX) | [Ether](https://open.spotify.com/album/4Hg9aMbQfviR7UjPFXHbHf) | 2:37 | 2022-08-29 |  |
@@ -430,6 +431,7 @@
 | [My Affliction](https://open.spotify.com/track/49bBnHT2FcuusDAaIfZVLC) | [Thibaud Fleming](https://open.spotify.com/artist/6QE5XI9fz7xt4jDwOqYceT) | [My Affliction](https://open.spotify.com/album/7mmt3L0Tva5TBR1gJ3fbtY) | 2:19 | 2022-12-21 | 2023-02-28 |
 | [My Only One](https://open.spotify.com/track/29Ys0ZMO3R4HfewkxjGvHR) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [My Only One](https://open.spotify.com/album/7p77pk33lJOZQeSD2Ot7CV) | 2:22 | 2021-12-13 | 2022-07-29 |
 | [My Only One](https://open.spotify.com/track/6weHliQCgO8eaXFpONJJ7Z) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [In Itself](https://open.spotify.com/album/5dKgGpZkMl8i3RQNbKtFCh) | 2:22 | 2022-07-28 | 2023-01-10 |
+| [Mystical State](https://open.spotify.com/track/5ZX0EY0qNRf1oF3q1cyzJ0) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Mystical State](https://open.spotify.com/album/16YWfdIgPKDVJyNVbbwmjh) | 2:00 | 2024-01-29 |  |
 | [Mécanique](https://open.spotify.com/track/3qbkko1sBm8hOhRg2T6OBV) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Mécanique](https://open.spotify.com/album/2CIascL7mybuFRkjXVUgBa) | 3:00 | 2021-12-13 | 2024-01-03 |
 | [Mélancolie](https://open.spotify.com/track/5JlrnENzKipdE51pDq8mDT) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Mélancolie](https://open.spotify.com/album/5Dmdf5KPs7djGXKwaOAO7N) | 3:11 | 2021-12-13 | 2022-02-03 |
 | [Mývatn](https://open.spotify.com/track/5ub9LeeFOXQrbBNScxNq2x) | [Petra Birgisdóttir](https://open.spotify.com/artist/3adgqj7rUBUySnFjtS9QCb) | [Mývatn](https://open.spotify.com/album/2Rhww7rg0TpfRyjaaLgF5o) | 1:58 | 2021-12-13 | 2022-09-24 |

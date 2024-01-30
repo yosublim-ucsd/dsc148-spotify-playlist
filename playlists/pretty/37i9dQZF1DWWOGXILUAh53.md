@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Kygo & Ava Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,199 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,326 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 |
 | 2 | [Missing You](https://open.spotify.com/track/0Ae4YMelaM5V6uWa5HNyKw) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Missing You \(feat\. Nate Smith\)](https://open.spotify.com/album/49CNxAyvqa120JqsF8ypdh) | 3:07 |
-| 3 | [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 |
+| 3 | [Head Up](https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp) | 3:09 |
 | 4 | [Serious](https://open.spotify.com/track/6hkoQqLTPQwpVmGvLIAPGD) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Serious](https://open.spotify.com/album/6nmFhzScrtVHU5gyXekNtW) | 2:44 |
 | 5 | [Sunglasses at Night](https://open.spotify.com/track/1LiMNzbo4XYzsZ0Odg3OW7) | [Heidi Klum](https://open.spotify.com/artist/7gmNO7Sv6EFNtxJ7JTgeaC) | [Sunglasses at Night](https://open.spotify.com/album/2WL25jOF2CEzuH1D7oJIYM) | 2:50 |
 | 6 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 49 | [Run From You](https://open.spotify.com/track/2ouMNYPXQ6P9epCLmiqRSg) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [Run From You](https://open.spotify.com/album/5EY4emNooAmEsHDquKD104) | 2:47 |
 | 50 | [Don't Call Me Up](https://open.spotify.com/track/2fCTMmtNWFPR49sXkzwB4g) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Don't Call Me Up](https://open.spotify.com/album/7x51vYN8rt6vrpIwwQWcU2) | 2:23 |
 
-Snapshot ID: `MCxlZmQ1YWU5Mjk1MTE1YTY5NTlmMGMxNTY2NDAxYTU3ZjA1NTM0YTE4`
+Snapshot ID: `MCw3Y2Y0NWU5M2YyYjkxZGNhZTdmODllYTE0OWRjMTU0MTgwYjA0MDVi`

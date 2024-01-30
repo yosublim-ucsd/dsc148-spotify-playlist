@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/7AeKMRp3pXrLnzhkOAnjkd"
+      },
+      "artists": [
+        {
+          "name": "The American Railway",
+          "url": "https://open.spotify.com/artist/2XvIJQ4i2vTtf5Br94eFb6"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356519,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/56r1nUtDLZcSs8nHfMoNXz"
+    },
+    {
+      "album": {
         "name": "On Track - Train Sounds",
         "url": "https://open.spotify.com/album/4KPbPPnnYMa4AIvHVEGmcu"
       },
@@ -1629,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "Steam Train through Tuscany",
+        "url": "https://open.spotify.com/album/1daCgzO8tL7qMqNrtFJa3e"
+      },
+      "artists": [
+        {
+          "name": "Train Travlz",
+          "url": "https://open.spotify.com/artist/1XCfyWOdIZPEFbFsUSGGtC"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398764,
+      "name": "Steam Train through Tuscany",
+      "url": "https://open.spotify.com/track/4ebzxl4kN4CjNaoPUPIF4r"
+    },
+    {
+      "album": {
         "name": "Steel of Wheels",
         "url": "https://open.spotify.com/album/0EDPgMo24oomhLxwlNfthe"
       },
@@ -2174,6 +2210,24 @@
       "duration_ms": 106990,
       "name": "Wagon Dreams",
       "url": "https://open.spotify.com/track/0Eb1UJetNfc5KLFQd0rEtu"
+    },
+    {
+      "album": {
+        "name": "Zermatt Express",
+        "url": "https://open.spotify.com/album/1enQdrcdq5O6BQvycRZ3FC"
+      },
+      "artists": [
+        {
+          "name": "Tray N",
+          "url": "https://open.spotify.com/artist/2bNilsq819ehowEstD1hiE"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252705,
+      "name": "Zermatt Express",
+      "url": "https://open.spotify.com/track/0k8DZ7A5lOQpKt2SODR4Qm"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9mxKt6WorzQ"

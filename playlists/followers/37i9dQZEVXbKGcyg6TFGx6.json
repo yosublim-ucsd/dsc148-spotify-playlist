@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 7985,
+  "2024-01-30": 7987,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Luxembourg.",
   "name": "Top 50 - Luxembourg",
@@ -1611,7 +1611,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 177240,
       "name": "Aller sans retour",
       "url": "https://open.spotify.com/track/3eD90F1Ve0qxq54Np0VCga"
@@ -2459,7 +2459,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -4481,7 +4481,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 176746,
       "name": "Bolide allemand",
       "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
@@ -5361,7 +5361,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 156493,
       "name": "C'est non",
       "url": "https://open.spotify.com/track/2wpGkDZlLo9CQYEEFrpg1K"
@@ -10814,6 +10814,24 @@
     },
     {
       "album": {
+        "name": "Fighter",
+        "url": "https://open.spotify.com/album/2EfRFRfgepHUI1UNo6FC5r"
+      },
+      "artists": [
+        {
+          "name": "Tali Golergant",
+          "url": "https://open.spotify.com/artist/6v6wot3YV1QnPry6mfrCLK"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175105,
+      "name": "Fighter",
+      "url": "https://open.spotify.com/track/6ac0GZMtGXywMyyNJg7EAP"
+    },
+    {
+      "album": {
         "name": "Fighting Myself",
         "url": "https://open.spotify.com/album/0S1tvjDaar0S6LaRJAFcWF"
       },
@@ -14201,7 +14219,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-28",
+      "date_removed": null,
       "duration_ms": 172631,
       "name": "I know who i am",
       "url": "https://open.spotify.com/track/5WkMBLy2Fo1SW1hAj4PaLT"
@@ -19803,7 +19821,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 267194,
       "name": "MONACO",
       "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
@@ -21680,6 +21698,24 @@
     },
     {
       "album": {
+        "name": "The Poetry Of Desire",
+        "url": "https://open.spotify.com/album/6TQtEORZ3WNkqAO66qVqbt"
+      },
+      "artists": [
+        {
+          "name": "LUKA POETRY",
+          "url": "https://open.spotify.com/artist/22VDkDg3TU7jS4EtGBo2TD"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Now We Are One",
+      "url": "https://open.spotify.com/track/4AIMKBGrwPuePXaSSm6Fmq"
+    },
+    {
+      "album": {
         "name": "Nowadayz",
         "url": "https://open.spotify.com/album/0dA5YhkkfMr8Fu5RggByur"
       },
@@ -22346,6 +22382,24 @@
     },
     {
       "album": {
+        "name": "Outra Noite de Solid\u00e3o",
+        "url": "https://open.spotify.com/album/124HcPrEn51Q5G6zWcjJog"
+      },
+      "artists": [
+        {
+          "name": "Eddie",
+          "url": "https://open.spotify.com/artist/1MmLG6cDLevJ6btFC57wuw"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178469,
+      "name": "Outra Noite de Solid\u00e3o",
+      "url": "https://open.spotify.com/track/7LAe43xdjjUDiByWU0HnME"
+    },
+    {
+      "album": {
         "name": "LA MELO EST GANGX",
         "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
       },
@@ -22723,7 +22777,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 178520,
       "name": "Parano",
       "url": "https://open.spotify.com/track/5PrxNOtPuBGng7aTKavAc5"
@@ -26277,6 +26331,32 @@
     {
       "album": {
         "name": "LES DERNI\u00c8RES VOLONT\u00c9S DE MOZART (SYMPHONY)",
+        "url": "https://open.spotify.com/album/3kODAAfimujT9QY8PaNgDn"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "SativaMusic",
+          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188484,
+      "name": "SEYA",
+      "url": "https://open.spotify.com/track/3bdJXs70t2ybhfrDH6zyv4"
+    },
+    {
+      "album": {
+        "name": "LES DERNI\u00c8RES VOLONT\u00c9S DE MOZART (SYMPHONY)",
         "url": "https://open.spotify.com/album/3zIRFFMBelYsHN0ksstyWU"
       },
       "artists": [
@@ -26295,7 +26375,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 188484,
       "name": "SEYA",
       "url": "https://open.spotify.com/track/6JI15EdgbGuhUjm4tWyIco"
@@ -28757,7 +28837,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 185253,
       "name": "Synth\u00e8se",
       "url": "https://open.spotify.com/track/623v0j1Y3BHriGnTowl6KR"
@@ -30079,7 +30159,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 206142,
       "name": "Time",
       "url": "https://open.spotify.com/track/32QpSQhOWrFbSYOEVvXV8F"
@@ -31047,7 +31127,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 171453,
       "name": "Un billet",
       "url": "https://open.spotify.com/track/41QjSZhArx6SDxmK4LAD0z"
@@ -32363,7 +32443,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"

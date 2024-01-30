@@ -1281,6 +1281,48 @@
     },
     {
       "album": {
+        "name": "Desacato",
+        "url": "https://open.spotify.com/album/0pJN3wcy6eveGD29QGBJt8"
+      },
+      "artists": [
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "MC Gui Da Norte",
+          "url": "https://open.spotify.com/artist/1PC8RPtwfgPPdlxyAsd1Bw"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438748,
+      "name": "Desacato",
+      "url": "https://open.spotify.com/track/1fzaUKQv7sgGW0udQVghSW"
+    },
+    {
+      "album": {
         "name": "DEUS \u00c9 MUITO BOM (Ao Vivo)",
         "url": "https://open.spotify.com/album/49T6GunhdUuSCbYBZ156AD"
       },
@@ -1858,7 +1900,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 99701,
       "name": "Faz o Teu Nome",
       "url": "https://open.spotify.com/track/2SFc3dFgkPvADsqz84MYi6"
@@ -3585,6 +3627,28 @@
     },
     {
       "album": {
+        "name": "Diferent\u00e3o",
+        "url": "https://open.spotify.com/album/4GEKE1p87kk2tSgMAvubVl"
+      },
+      "artists": [
+        {
+          "name": "Parangol\u00e9",
+          "url": "https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf"
+        },
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127220,
+      "name": "Perna Bamba",
+      "url": "https://open.spotify.com/track/6fcQIY5VSFNrK4YzDoljPQ"
+    },
+    {
+      "album": {
         "name": "Pilantra",
         "url": "https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K"
       },
@@ -4216,7 +4280,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 151828,
       "name": "Sentada Malvada - Ao Vivo",
       "url": "https://open.spotify.com/track/0D2BtpuZbS42zp2MbFRBMk"

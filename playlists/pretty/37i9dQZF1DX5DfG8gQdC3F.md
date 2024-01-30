@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Ice Spice, Justin Timberlake, MacKenzie Porter, Tom Odell and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,083 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,082 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Motions](https://open.spotify.com/track/0HHdg7nNpJwQ5cQKA6gZlC) | [LUM](https://open.spotify.com/artist/1bY66d1Rv5q5KMJYP1lIQd) | [Motions](https://open.spotify.com/album/264dMKFNvBRA7Y2rxpBWTk) | 2:48 |
 | 100 | [LUCKY MERMAID](https://open.spotify.com/track/5tqT2MifFVEO0PnPs8UHfq) | [Milkshakes In The Valley](https://open.spotify.com/artist/3AdVyuXU8TnsPXgAv68icd), [KULTARGOTBOUNCE](https://open.spotify.com/artist/4AVBIZZuqtat8RReyNdqck) | [LUCKY MERMAID](https://open.spotify.com/album/70wcB6uF1kI6uvkVlUOQWv) | 3:03 |
 
-Snapshot ID: `MCwyYTNiNDBmM2UzZGE2NDU3MmIxN2QwZjI2NTQ5OTkxZDE4N2JjYmVk`
+Snapshot ID: `MCw4NjYwYjIzMWNiYTdiZmVkYmNkZDYwNTZkNzA0NWEyOTM0Y2VhMTFj`

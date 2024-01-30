@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 1064778,
+  "2024-01-30": 1064623,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Italy.",
   "name": "Top 50 - Italy",
@@ -1595,7 +1595,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 171903,
       "name": "Alta marea",
       "url": "https://open.spotify.com/track/1ytp1BZurhOk14vErLhivu"
@@ -3485,7 +3485,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 195305,
       "name": "Bimbo in quartiere",
       "url": "https://open.spotify.com/track/3LUz9MAlrMJ4paLLFgHrB3"
@@ -4681,7 +4681,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 170764,
       "name": "Calle (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/7C8Yj3WDtN1rBu15xIvRA2"
@@ -11185,7 +11185,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 208622,
       "name": "Finita",
       "url": "https://open.spotify.com/track/40gRuXnudy92Wt4x2N0WrA"
@@ -12185,7 +12185,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 119083,
       "name": "Ghetto love (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/6fG0TZQMCCUjTlWwB5WyGP"
@@ -12727,7 +12727,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -13453,7 +13453,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-19",
+      "date_removed": null,
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
@@ -18767,7 +18767,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 144000,
       "name": "Mamma mi diceva (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/7uBN2cQXUXx1N670z1pD6m"
@@ -21105,6 +21105,24 @@
       "duration_ms": 161739,
       "name": "Mujer (feat. Madame)",
       "url": "https://open.spotify.com/track/2B2jQ2cdbrsWs1XmjVhdrU"
+    },
+    {
+      "album": {
+        "name": "Read My Lips",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230013,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
     },
     {
       "album": {
@@ -24841,7 +24859,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 200897,
       "name": "Piccolo principe",
       "url": "https://open.spotify.com/track/0ReSNmM6DihL9WAb95jc5h"
@@ -26193,6 +26211,24 @@
       "duration_ms": 168275,
       "name": "READY 4 WAR (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/0pwRSrIxfrAdTLbPaEtZli"
+    },
+    {
+      "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/2Ddi22NvLWIP9MUAYqEil5"
+      },
+      "artists": [
+        {
+          "name": "STE",
+          "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134302,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/0jwm30oXN08kVO9JwqrCPL"
     },
     {
       "album": {
@@ -33865,7 +33901,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"

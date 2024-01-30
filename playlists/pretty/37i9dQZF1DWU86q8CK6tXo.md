@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Courtney LaPlante of Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,527 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,563 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 28 | [Lullaby](https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Lullaby](https://open.spotify.com/album/2PT518qif2NTxvgizAObme) | 3:35 |
 | 29 | [IN THE LIGHT](https://open.spotify.com/track/5GRJci91Qsc14761s6f4Nv) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [STEPPIN in the LIGHT](https://open.spotify.com/album/5PmSxoI4vbgq6hWz0EWV5I) | 2:46 |
 | 30 | [Blessings](https://open.spotify.com/track/4uTANRdemxU9C40FrD9sHO) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings](https://open.spotify.com/album/2IPCK9h2W6YKCs951ytlfA) | 2:42 |
-| 31 | [Potential \- Lolo Zouaï Remix](https://open.spotify.com/track/3R4mUtY9p1yl5YHomb9ix4) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Potential \(Lolo Zouaï Remix\)](https://open.spotify.com/album/6R1g40C2TPZnNx1JyuTBnM) | 2:03 |
-| 32 | [Cut 'Em Off](https://open.spotify.com/track/0EIjQy9ifrBLscYBSVCr1M) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Koryn Hawthorne Bundle](https://open.spotify.com/album/2WnXB1FLl2M3JwHqNLpy0b) | 2:14 |
-| 33 | [Mean Well](https://open.spotify.com/track/2fZjJ78yaF8CbjBRcIC3rY) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Mean Well](https://open.spotify.com/album/1e1Iwj8gw8pFe7Ba0PvQiy) | 2:52 |
-| 34 | [Dangerous Game](https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Dangerous Game](https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny) | 2:38 |
+| 31 | [Dangerous Game](https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Dangerous Game](https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny) | 2:38 |
+| 32 | [Potential \- Lolo Zouaï Remix](https://open.spotify.com/track/3R4mUtY9p1yl5YHomb9ix4) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Potential \(Lolo Zouaï Remix\)](https://open.spotify.com/album/6R1g40C2TPZnNx1JyuTBnM) | 2:03 |
+| 33 | [Cut 'Em Off](https://open.spotify.com/track/0EIjQy9ifrBLscYBSVCr1M) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Koryn Hawthorne Bundle](https://open.spotify.com/album/2WnXB1FLl2M3JwHqNLpy0b) | 2:14 |
+| 34 | [Mean Well](https://open.spotify.com/track/2fZjJ78yaF8CbjBRcIC3rY) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Mean Well](https://open.spotify.com/album/1e1Iwj8gw8pFe7Ba0PvQiy) | 2:52 |
 | 35 | [White Lies, White Jesus And You](https://open.spotify.com/track/6gWgHGxCrROeP19EzkD7rs) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [White Lies, White Jesus And You](https://open.spotify.com/album/4PxGWmuTtzAxkPCzmWQ5Al) | 4:24 |
 | 36 | [Un Dia](https://open.spotify.com/track/3B9d4ZOgxxDIqKgjY7UbAg) | [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [More Flowers](https://open.spotify.com/album/7ssjsADiKQFYwDU8QgqTuL) | 3:15 |
 | 37 | [Moonstruck](https://open.spotify.com/track/1kM0YPEPUmZfV7WAl6HH0i) | [Sheer Mag](https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1) | [Moonstruck](https://open.spotify.com/album/03TpK5HO3kLKg7jSTsKjoD) | 3:05 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 39 | [Cartagena](https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Cartagena](https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx) | 3:32 |
 | 40 | [Polly Pocket](https://open.spotify.com/track/7uwYghkyYw9nGJPa39ruX7) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [LIVE, RAFF, LOVE \(Act II\)](https://open.spotify.com/album/1DuQMGJEdkhILvziIoJfai) | 2:15 |
 
-Snapshot ID: `MCw4OTQ5YzRlMjZlNmNiYjhkOTUwYjMxNWJmMWU2OGZiYTJiNzliMjU2`
+Snapshot ID: `MCwwZTEyMWE5ZDM0ZWYyNzc5ZTFmNTM5ODYyNDYzZjE3ZTYyZDZkM2Yx`

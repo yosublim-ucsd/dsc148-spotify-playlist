@@ -4,7 +4,7 @@
 
 > Relax and sleep to the soft, melodic, and rhythmic rumbling of the night train
 
-120 songs - 6 hr 3 min
+123 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Muffled Train Sound](https://open.spotify.com/track/72X3fieIPzZeoifUGi4yQL) | [Sleep Genius](https://open.spotify.com/artist/12feGAYnkGkOpubXHFo6rw) | [Sleep Sounds \- Train Edition](https://open.spotify.com/album/0hBj5gkqnrqbel84uaISGN) | 3:33 | 2022-07-29 |  |
 | [Nap On The Train](https://open.spotify.com/track/3jyEGsc1Tca4MygygNiNDn) | [Bruce White](https://open.spotify.com/artist/4mzeWWSIsYV5WMOWtNkZ0x) | [Sleep Station](https://open.spotify.com/album/6euGL8NW5DCmFiZrdlYxy5) | 1:54 | 2022-08-26 | 2023-06-17 |
 | [Next Stop Sleep](https://open.spotify.com/track/4NvPoE32Doo1fDJBuAFwMS) | [Pink Noise Panther](https://open.spotify.com/artist/0qJsh3RHy0fi68ruyX3Kjf) | [Rails Of Sleep](https://open.spotify.com/album/6CzQdyEuURFqqVmXZeMdRq) | 1:24 | 2022-08-26 | 2023-06-17 |
+| [Night Train](https://open.spotify.com/track/56r1nUtDLZcSs8nHfMoNXz) | [The American Railway](https://open.spotify.com/artist/2XvIJQ4i2vTtf5Br94eFb6) | [Night Train](https://open.spotify.com/album/7AeKMRp3pXrLnzhkOAnjkd) | 5:56 | 2024-01-29 |  |
 | [Night Train](https://open.spotify.com/track/3ANYHvJllwYYxKt20U3FZi) | [The Railwayers](https://open.spotify.com/artist/2YdRFg3oHeTDQi1OMLg95m) | [On Track \- Train Sounds](https://open.spotify.com/album/4KPbPPnnYMa4AIvHVEGmcu) | 2:57 | 2022-07-29 | 2023-10-20 |
 | [Noisy Train Cabin](https://open.spotify.com/track/0hhgM94IBDLQKqEeqVlQWn) | [From A To B](https://open.spotify.com/artist/3DCP3x9FHOsIQk1TlKE040) | [Train Sound Collection](https://open.spotify.com/album/14yJi5EC1ZZc2aItBSE1OP) | 4:16 | 2022-07-29 |  |
 | [Off The Rail](https://open.spotify.com/track/1Gfgi34GAcfU0j3hwOdl8i) | [Taivas](https://open.spotify.com/artist/458m1hra3eVTKqtfyAqRnt) | [Off The Rail](https://open.spotify.com/album/2q9pluDNqPcfU5BpLtad0q) | 1:24 | 2022-09-29 | 2023-06-17 |
@@ -98,6 +99,7 @@
 | [Smooth Train Ride](https://open.spotify.com/track/0wqdQcCEGfT01H7bY3UIa9) | [Brooke St.](https://open.spotify.com/artist/1YCAJzn4RldXoowAlME5uB) | [Wagon Dreams](https://open.spotify.com/album/6XiHNgQZrR3gutfWS1LfP1) | 1:57 | 2022-07-29 | 2023-06-17 |
 | [Soothing Train Sounds for Sleep and Relaxation](https://open.spotify.com/track/09c9bdt47GQz396opqlfk8) | [Masters of Binaurality](https://open.spotify.com/artist/6em3rrtKhjff80iJWE6m6K) | [Soothing Train Sounds for Sleep and Relaxation](https://open.spotify.com/album/6wNMM1VdFS1oVc5cBVDvqS) | 2:56 | 2023-06-05 |  |
 | [Soothing Train Whistles for a Relaxing Evening](https://open.spotify.com/track/0650g89WwOTWUYqxTNYHro) | [The Train spotter](https://open.spotify.com/artist/33Y7mnlPZciDSqY3zKKIuz) | [Dreamy Train Hums for a Peaceful Slumber](https://open.spotify.com/album/1Mfzlryyb9MIxl1rDD9uoD) | 2:20 | 2023-08-15 |  |
+| [Steam Train through Tuscany](https://open.spotify.com/track/4ebzxl4kN4CjNaoPUPIF4r) | [Train Travlz](https://open.spotify.com/artist/1XCfyWOdIZPEFbFsUSGGtC) | [Steam Train through Tuscany](https://open.spotify.com/album/1daCgzO8tL7qMqNrtFJa3e) | 6:38 | 2024-01-29 |  |
 | [Steel of Wheels](https://open.spotify.com/track/45lylxAHZ9iGEa4bpDJPq1) | [Treyn](https://open.spotify.com/artist/6k55b19QHSIaukTKfIeQ7X) | [Steel of Wheels](https://open.spotify.com/album/0EDPgMo24oomhLxwlNfthe) | 2:16 | 2022-07-29 |  |
 | [The Iron Horse](https://open.spotify.com/track/3FO83dPBQuZDGs3S5dLzzs) | [Snore Patrol](https://open.spotify.com/artist/07csNjxjo7yYEOCdpNlIMu) | [The Iron Horse](https://open.spotify.com/album/1MbmzACKg4MwJE4zeK7e7A) | 2:18 | 2023-09-11 |  |
 | [Tracks Of Sleep](https://open.spotify.com/track/3YzV0YLvkT3DupOS2jebRD) | [Bruce White](https://open.spotify.com/artist/4mzeWWSIsYV5WMOWtNkZ0x) | [Sleep Station](https://open.spotify.com/album/6euGL8NW5DCmFiZrdlYxy5) | 1:36 | 2022-09-29 | 2023-06-17 |
@@ -128,5 +130,6 @@
 | [Urban Commute](https://open.spotify.com/track/3JEsWPI5oDNuWOJ7gxvI20) | [Traniac](https://open.spotify.com/artist/4UwyKNY22p7LEPPNEWDKaM) | [Urban Commute](https://open.spotify.com/album/5fVvbqwXGiq3VB7vMu4usI) | 1:57 | 2022-07-29 | 2023-06-17 |
 | [Vintage Train](https://open.spotify.com/track/7vqy4Gx70hq9hEJwVd7My4) | [The Train spotter](https://open.spotify.com/artist/33Y7mnlPZciDSqY3zKKIuz) | [Train Sounds And Noises](https://open.spotify.com/album/6lwXMt7haok7iOhlyq1MFh) | 2:28 | 2022-07-29 | 2023-10-20 |
 | [Wagon Dreams](https://open.spotify.com/track/0Eb1UJetNfc5KLFQd0rEtu) | [Brooke St.](https://open.spotify.com/artist/1YCAJzn4RldXoowAlME5uB) | [Wagon Dreams](https://open.spotify.com/album/6XiHNgQZrR3gutfWS1LfP1) | 1:46 | 2022-07-29 | 2023-06-17 |
+| [Zermatt Express](https://open.spotify.com/track/0k8DZ7A5lOQpKt2SODR4Qm) | [Tray N](https://open.spotify.com/artist/2bNilsq819ehowEstD1hiE) | [Zermatt Express](https://open.spotify.com/album/1enQdrcdq5O6BQvycRZ3FC) | 4:12 | 2024-01-29 |  |
 
 \*This playlist was first scraped on 2022-08-18. Prior content cannot be recovered.

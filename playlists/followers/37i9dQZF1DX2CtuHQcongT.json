@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 73815,
+  "2024-01-30": 73841,
   "date_first_scraped": "2022-05-09",
   "description": "Enjoy game music from SEGA classic soundtracks including SONIC, SPACE HARRIER and OutRun. SEGA\u540d\u4f5c\u30b2\u30fc\u30e0\u30b5\u30f3\u30c8\u30e9\u306e\u4e16\u754c\u3078\u3088\u3046\u3053\u305d\uff01",
   "name": "This Is SEGA SOUND TEAM",
@@ -53,10 +53,28 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 291266,
       "name": "Bakamitai - Taxi Driver Edition",
       "url": "https://open.spotify.com/track/4xXu9UO2qdBotUOfqru2UC"
+    },
+    {
+      "album": {
+        "name": "LIKE A DRAGON 8 ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/7DEXskff0xQFFwH6kTRKWv"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292320,
+      "name": "BAKAMITAI - Taxi Driver Edition",
+      "url": "https://open.spotify.com/track/67WpDwkzxYoCiCauQN1V1a"
     },
     {
       "album": {

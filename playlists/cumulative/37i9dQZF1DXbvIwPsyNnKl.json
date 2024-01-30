@@ -285,6 +285,28 @@
     },
     {
       "album": {
+        "name": "Babaero",
+        "url": "https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO"
+      },
+      "artists": [
+        {
+          "name": "gins&melodies",
+          "url": "https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK"
+        },
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175396,
+      "name": "Babaero",
+      "url": "https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP"
+    },
+    {
+      "album": {
         "name": "Guns and Roses",
         "url": "https://open.spotify.com/album/5P3G3lpZQ5ZJvLEC4Gyodh"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Ice Spice, Megan Thee Stallion, Kevin Gates and more\. Cover: LUCKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,479 likes - 49 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,608 likes - 49 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [Citizens App \(Like Bet!\)](https://open.spotify.com/track/7rwB2x5j13FME8pLSUeZJV) | [Kenzo Balla](https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp) | [Citizens App \(Like Bet!\)](https://open.spotify.com/album/5VJmNPnGNO717ac44uXchP) | 2:48 |
 | 49 | [PROUD](https://open.spotify.com/track/6BMx6vhAUj3kXCCttZGpS6) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse) | [C.I.T.Y.](https://open.spotify.com/album/3BpghLhPaXSD4g4mqopCZF) | 3:32 |
 
-Snapshot ID: `MCxlNDZmYjAzZmU1ZWNiYWM0YTY1YzNmZjE4YzljN2Q5NzJlYzk1NDMw`
+Snapshot ID: `MCw0ZGMxZTc2ZWIyMzIyYThiMjVlMTI3ZGFjZjI1YWI3NmIzNjY0NDZk`

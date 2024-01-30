@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 187503,
+  "2024-01-30": 187523,
   "date_first_scraped": "2023-09-29",
   "description": "Le meilleur des ann\u00e9es 70 en 70 titres.",
   "name": "Ann\u00e9es 70",
@@ -659,7 +659,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 275040,
       "name": "Le sud",
       "url": "https://open.spotify.com/track/4sWGG5BEy2zYE81rFoHMBo"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 275040,
       "name": "Le sud",
       "url": "https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD"

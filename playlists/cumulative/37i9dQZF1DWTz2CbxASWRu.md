@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-406 songs - 1 day 5 hr 53 min
+407 songs - 1 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [El Jardin](https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [8 Años](https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP) | 3:20 | 2023-07-10 |  |
 | [El Koun](https://open.spotify.com/track/3GoBo3IeBnqaRZWMieW5xo) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA), [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda) | [El Koun](https://open.spotify.com/album/47TSlsN85IYn25Armdr7iy) | 4:06 | 2023-07-10 |  |
 | [El Manicero](https://open.spotify.com/track/4A0iCzLqX0bmDuDq1YAT59) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [La Historia del Mambo, Vol\. 2](https://open.spotify.com/album/6fJdrjyuTWOeZboh03i01n) | 2:39 | 2023-07-10 |  |
-| [El Monte](https://open.spotify.com/track/6mb2VnsEIhCJzuYh8hDFef) | [Pecera](https://open.spotify.com/artist/3sm7obyOkCJIRwFrs4VgoX) | [Musica Paralatina](https://open.spotify.com/album/0FoTltAmloEOgoSy4m5Rnj) | 4:50 | 2023-07-10 |  |
+| [El Monte](https://open.spotify.com/track/6mb2VnsEIhCJzuYh8hDFef) | [Pecera](https://open.spotify.com/artist/3sm7obyOkCJIRwFrs4VgoX) | [Musica Paralatina](https://open.spotify.com/album/0FoTltAmloEOgoSy4m5Rnj) | 4:50 | 2023-07-10 | 2024-01-30 |
 | [El niño](https://open.spotify.com/track/4fCevXfseuEJRmPwmNnUZr) | [DjeuhDjoah](https://open.spotify.com/artist/6oay09Jpzlp3TKFbx7GBMY), [Lieutenant Nicholson](https://open.spotify.com/artist/7veGa0wVnoD20wadhEUMq5) | [Aimez ces airs](https://open.spotify.com/album/2He9SDdWsV0r3PdBPxjJrf) | 4:01 | 2023-07-10 |  |
 | [El Pajaro](https://open.spotify.com/track/74PJ9RiqWtAYBDUwOAZ1Bk) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI) | [La Llorona](https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP) | 3:58 | 2023-07-10 |  |
 | [El Ruso](https://open.spotify.com/track/7oDLFBkpSB3R411eXiFJhH) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Nueva Era](https://open.spotify.com/album/23HEGSjUL7dakX0quTzUdC) | 4:44 | 2023-07-10 |  |
@@ -290,6 +290,7 @@
 | [Pacifique](https://open.spotify.com/track/5kBAS93dHatBVw5lve0NVF) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD) | [Chienne de vie](https://open.spotify.com/album/7c6Z4B7NbzngH484t8jrFQ) | 6:42 | 2023-07-10 |  |
 | [Palea](https://open.spotify.com/track/7cwmwDUVlrsH78TMBijAA4) | [Dobet Gnahoré](https://open.spotify.com/artist/0eHY5jLP9TgzxYhT19Sqyq) | [Na Afriki](https://open.spotify.com/album/0iq6cp0xVs0NTIcBr1W6bt) | 3:39 | 2023-07-10 |  |
 | [Paleta](https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4) | 2:38 | 2023-07-10 | 2023-10-20 |
+| [Papa Loko \(Arr\. N\. Joachim\) \- Interlude\. September 24, 1918](https://open.spotify.com/track/2loul0DeCz0DtLe5gLOjfi) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Nathalie Joachim](https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i), [Spektral Quartet](https://open.spotify.com/artist/2s8HBhXmdcVH5UHQzANkjb) | [Fanm d'Ayiti](https://open.spotify.com/album/3KVpKanJVJ1efS6ISTkaJm) | 6:40 | 2024-01-29 |  |
 | [Papote's Guajira](https://open.spotify.com/track/7gvrsINoNbkAeI7u7KV1QB) | [Los Hacheros](https://open.spotify.com/artist/3QaUIcIZGNLAQdmUq8rv9y) | [Pilon](https://open.spotify.com/album/7nCo1Pzbu5CoY8GLGwDWrH) | 6:56 | 2023-07-10 |  |
 | [Passarinha](https://open.spotify.com/track/6pHX4yF2JKjZdSk25DWJKv) | [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH), [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [Lucas Nunes](https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [SIM SIM SIM](https://open.spotify.com/album/3dTQyJxSCkwJ4PFcURFd3f) | 3:55 | 2023-07-10 |  |
 | [Pata Pata](https://open.spotify.com/track/151vetNVhtSVBiTFqII0yz) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn) | 3:23 | 2023-07-10 |  |

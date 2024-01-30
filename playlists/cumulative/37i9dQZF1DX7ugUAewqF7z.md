@@ -4,7 +4,7 @@
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-152 songs - 9 hr 31 min
+154 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,8 +135,10 @@
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-07-07 |  |
 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 | 2023-09-01 |  |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2023-12-11 |  |
-| [감사 \(FEAT\. 소향\)](https://open.spotify.com/track/4ralviGrgOeBiSCRnH2qcC) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [인사](https://open.spotify.com/album/1LE8WPv3OxH93MXOz0ps3h) | 3:50 | 2023-10-06 |  |
-| [그대를 사랑하는 10가지 이유](https://open.spotify.com/track/1irsHnzK1oo5x0eWJ3pqKx) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [인사](https://open.spotify.com/album/1LE8WPv3OxH93MXOz0ps3h) | 4:15 | 2023-08-28 |  |
+| [감사 \(FEAT\. 소향\)](https://open.spotify.com/track/339ONbEchBensZnESqghNW) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [인사](https://open.spotify.com/album/1gVCySPJoAjV90BcLL3i29) | 3:50 | 2024-01-05 |  |
+| [감사 \(FEAT\. 소향\)](https://open.spotify.com/track/4ralviGrgOeBiSCRnH2qcC) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [인사](https://open.spotify.com/album/1LE8WPv3OxH93MXOz0ps3h) | 3:50 | 2023-10-06 | 2024-01-30 |
+| [그대를 사랑하는 10가지 이유](https://open.spotify.com/track/1irsHnzK1oo5x0eWJ3pqKx) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [인사](https://open.spotify.com/album/1LE8WPv3OxH93MXOz0ps3h) | 4:15 | 2023-08-28 | 2024-01-30 |
+| [그대를 사랑하는 10가지 이유](https://open.spotify.com/track/5QXRbVoCLqnN5jfaqcmwYk) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [인사](https://open.spotify.com/album/1gVCySPJoAjV90BcLL3i29) | 4:15 | 2024-01-05 |  |
 | [기억해줘요 내 모든 날과 그때를](https://open.spotify.com/track/3OqE4AVDie6l1gjoXGAQQR) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Hotel del Luna \(Original Television Soundtrack\) Pt.7](https://open.spotify.com/album/7iM4E3rchIQqTbSFFhcDAR) | 3:48 | 2023-12-11 |  |
 | [냉면](https://open.spotify.com/track/08UZjYR1rZNMFR8HJQslfp) | [명카드라이브](https://open.spotify.com/artist/6UgPbb5cHdroYwW0o7N3Eu) | [무한도전 올림픽대로 듀엣가요제](https://open.spotify.com/album/72fbjyAwK1AYE68QAim59D) | 3:38 | 2024-01-05 |  |
 | [너 때문에 미쳐](https://open.spotify.com/track/5vCXnSlbAEkuJ3w2O0ALan) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [Breaking Heart](https://open.spotify.com/album/7C3YPRZQVhmE7TStRdXshF) | 3:14 | 2023-08-04 |  |

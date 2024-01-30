@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Papooz
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,322 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,308 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [It's Over](https://open.spotify.com/track/4tkLVSKI0XSeOdGUqb0hzt) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Better Place](https://open.spotify.com/album/3k7JvsR60tqWc4VLR4ugTZ) | 3:04 |
 | 50 | [Métaphores](https://open.spotify.com/track/3DBt3IOapmTsIV5QWfOje0) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Métaphores](https://open.spotify.com/album/12awGrBjFIJcRWGGrTqGAJ) | 3:21 |
 
-Snapshot ID: `MCw0NTk2OTgxNmVhN2Q4MTMzZGJjNWY4MzY2YjZiMDM3MjUxNjI5Yzg3`
+Snapshot ID: `MCwyYWViY2U0MzYwNDgyZmVlYTJlNzllZDU2MmE5M2JkMDRmODliNTdi`

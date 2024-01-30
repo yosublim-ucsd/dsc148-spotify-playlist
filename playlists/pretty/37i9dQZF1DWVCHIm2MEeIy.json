@@ -1,12 +1,12 @@
 {
   "description": "The dancefloor is the place to be \ud83e\udea9\u200a",
-  "num_followers": 855054,
+  "num_followers": 855212,
   "original_name": "Electronic Circus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmE2ODk5NzEyZTIyYWM5ZmIwODVhM2FjMTQ1ZWNkYWVjNjI1OTYx",
+  "snapshot_id": "MCxmYjhjZmE3MDI2NDdjMDQwYmMxOWIwN2Q0Zjc1ODUzNjc5Mzk5MzQ5",
   "tracks": [
     {
       "added_at": "2024-01-26 15:35:48",
@@ -215,26 +215,6 @@
     {
       "added_at": "2024-01-26 15:35:48",
       "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Welcome To The Opera (with Grimes)",
-      "url": "https://open.spotify.com/track/7hV8vZMezoQdSdvsi70Ioa"
-    },
-    {
-      "added_at": "2024-01-26 15:35:48",
-      "album": {
         "name": "Concorde",
         "url": "https://open.spotify.com/album/5tDbwaajccd1lTumbnB0kK"
       },
@@ -251,22 +231,22 @@
     {
       "added_at": "2024-01-26 15:35:48",
       "album": {
-        "name": "Point Of No Return",
-        "url": "https://open.spotify.com/album/3rtikOpy9VLFHFv79b2ZzQ"
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
       },
       "artists": [
         {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         },
         {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 283902,
-      "name": "Point Of No Return",
-      "url": "https://open.spotify.com/track/2xsIBTddzLEnXCFsxPHBn0"
+      "duration_ms": 245280,
+      "name": "Welcome To The Opera (with Grimes)",
+      "url": "https://open.spotify.com/track/7hV8vZMezoQdSdvsi70Ioa"
     },
     {
       "added_at": "2024-01-26 15:35:48",
@@ -291,6 +271,26 @@
       "duration_ms": 403676,
       "name": "Tibet",
       "url": "https://open.spotify.com/track/7xvl39LuJ8o5yeHR1kta90"
+    },
+    {
+      "added_at": "2024-01-26 15:35:48",
+      "album": {
+        "name": "Point Of No Return",
+        "url": "https://open.spotify.com/album/3rtikOpy9VLFHFv79b2ZzQ"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 283902,
+      "name": "Point Of No Return",
+      "url": "https://open.spotify.com/track/2xsIBTddzLEnXCFsxPHBn0"
     },
     {
       "added_at": "2024-01-26 15:35:48",
@@ -327,6 +327,46 @@
     {
       "added_at": "2024-01-26 15:35:48",
       "album": {
+        "name": "I Go (Remixes)",
+        "url": "https://open.spotify.com/album/5ROthns2NsZzi0cx6o0vcs"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 329996,
+      "name": "I Go - DJ Koze Remix",
+      "url": "https://open.spotify.com/track/75yKhfvUFlPi8niVVmlnHt"
+    },
+    {
+      "added_at": "2024-01-26 15:35:48",
+      "album": {
+        "name": "Montserrat / Closer",
+        "url": "https://open.spotify.com/album/2XkPQxDWtW7gS4CHy6ab67"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "duration_ms": 460800,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1rGnpPG0QHfqjDgM8cIf4A"
+    },
+    {
+      "added_at": "2024-01-26 15:35:48",
+      "album": {
         "name": "Captain Nemo",
         "url": "https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu"
       },
@@ -355,46 +395,6 @@
       "duration_ms": 225494,
       "name": "LET\u2019S DO IT AGAIN - Radio Edit",
       "url": "https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX"
-    },
-    {
-      "added_at": "2024-01-26 15:35:48",
-      "album": {
-        "name": "Montserrat / Closer",
-        "url": "https://open.spotify.com/album/2XkPQxDWtW7gS4CHy6ab67"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        }
-      ],
-      "duration_ms": 460800,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/1rGnpPG0QHfqjDgM8cIf4A"
-    },
-    {
-      "added_at": "2024-01-26 15:35:48",
-      "album": {
-        "name": "I Go (Remixes)",
-        "url": "https://open.spotify.com/album/5ROthns2NsZzi0cx6o0vcs"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        },
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 329996,
-      "name": "I Go - DJ Koze Remix",
-      "url": "https://open.spotify.com/track/75yKhfvUFlPi8niVVmlnHt"
     },
     {
       "added_at": "2024-01-26 15:35:48",
@@ -431,42 +431,6 @@
     {
       "added_at": "2024-01-26 15:35:48",
       "album": {
-        "name": "Drop It Down",
-        "url": "https://open.spotify.com/album/7u26VusojvClzoCafHyzcV"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Joyhauser",
-          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Drop It Down",
-      "url": "https://open.spotify.com/track/6euR4VW88wRwG6TTXI8YEE"
-    },
-    {
-      "added_at": "2024-01-26 15:35:48",
-      "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/3mPdroSAho9HE6PwGJgM3g"
-      },
-      "artists": [
-        {
-          "name": "Myno!",
-          "url": "https://open.spotify.com/artist/1P7eFOQtdbvjzHBEMT3Bq9"
-        }
-      ],
-      "duration_ms": 385474,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/66wSsVqIEuxTryOwZHddFI"
-    },
-    {
-      "added_at": "2024-01-26 15:35:48",
-      "album": {
         "name": "Another Life (Remixes)",
         "url": "https://open.spotify.com/album/59Kzou8grlp6UqVVL1HoT4"
       },
@@ -487,18 +451,38 @@
     {
       "added_at": "2024-01-26 15:35:48",
       "album": {
-        "name": "Dimension",
-        "url": "https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg"
+        "name": "Running",
+        "url": "https://open.spotify.com/album/3mPdroSAho9HE6PwGJgM3g"
       },
       "artists": [
         {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+          "name": "Myno!",
+          "url": "https://open.spotify.com/artist/1P7eFOQtdbvjzHBEMT3Bq9"
         }
       ],
-      "duration_ms": 481920,
-      "name": "Dimension",
-      "url": "https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH"
+      "duration_ms": 385474,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/66wSsVqIEuxTryOwZHddFI"
+    },
+    {
+      "added_at": "2024-01-26 15:35:48",
+      "album": {
+        "name": "Drop It Down",
+        "url": "https://open.spotify.com/album/7u26VusojvClzoCafHyzcV"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Drop It Down",
+      "url": "https://open.spotify.com/track/6euR4VW88wRwG6TTXI8YEE"
     },
     {
       "added_at": "2024-01-26 15:35:48",
@@ -547,6 +531,22 @@
       "duration_ms": 336393,
       "name": "Children - Mind Against & Dyzen Remix",
       "url": "https://open.spotify.com/track/5hr6v1jVSkiFaKq8ZvN7Md"
+    },
+    {
+      "added_at": "2024-01-26 15:35:48",
+      "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 481920,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH"
     },
     {
       "added_at": "2024-01-26 15:35:48",
@@ -627,26 +627,6 @@
     {
       "added_at": "2024-01-26 15:35:48",
       "album": {
-        "name": "Timelapse",
-        "url": "https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        },
-        {
-          "name": "Ginger",
-          "url": "https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN"
-        }
-      ],
-      "duration_ms": 478080,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH"
-    },
-    {
-      "added_at": "2024-01-26 15:35:48",
-      "album": {
         "name": "Independence",
         "url": "https://open.spotify.com/album/3gTody5aBTLm3YzTfhz6Wv"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 213390,
       "name": "Cosmovision",
       "url": "https://open.spotify.com/track/32JWyOLWccN1BwBvwjuChN"
+    },
+    {
+      "added_at": "2024-01-26 15:35:48",
+      "album": {
+        "name": "Timelapse",
+        "url": "https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Ginger",
+          "url": "https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN"
+        }
+      ],
+      "duration_ms": 478080,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH"
     },
     {
       "added_at": "2024-01-26 15:35:48",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-01-26 15:35:48",
       "album": {
+        "name": "I Can't Save You",
+        "url": "https://open.spotify.com/album/0p6NHnIch3TXqClOS4wwkL"
+      },
+      "artists": [
+        {
+          "name": "Jono Stephenson",
+          "url": "https://open.spotify.com/artist/21MbQv1rCoPiOUq7f3cdHL"
+        }
+      ],
+      "duration_ms": 376560,
+      "name": "I Can't Save You",
+      "url": "https://open.spotify.com/track/2QUuqXFWOBS1UDde1b0tSx"
+    },
+    {
+      "added_at": "2024-01-26 15:35:48",
+      "album": {
         "name": "Dunes",
         "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
       },
@@ -859,22 +875,6 @@
     {
       "added_at": "2024-01-26 15:35:48",
       "album": {
-        "name": "I Can't Save You",
-        "url": "https://open.spotify.com/album/0p6NHnIch3TXqClOS4wwkL"
-      },
-      "artists": [
-        {
-          "name": "Jono Stephenson",
-          "url": "https://open.spotify.com/artist/21MbQv1rCoPiOUq7f3cdHL"
-        }
-      ],
-      "duration_ms": 376560,
-      "name": "I Can't Save You",
-      "url": "https://open.spotify.com/track/2QUuqXFWOBS1UDde1b0tSx"
-    },
-    {
-      "added_at": "2024-01-26 15:35:48",
-      "album": {
         "name": "You Can Dance Now",
         "url": "https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 244802,
       "name": "You Can Dance Now",
       "url": "https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR"
+    },
+    {
+      "added_at": "2024-01-26 15:35:48",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5k27SCv9uikB2YqlMB9Ub2"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4yaXiOi0fml3ehTPOovp5K"
     },
     {
       "added_at": "2024-01-26 15:35:48",
@@ -907,22 +923,6 @@
       "duration_ms": 279484,
       "name": "If I Live Forever",
       "url": "https://open.spotify.com/track/2BUF674QTAA8cL6YaBX3rd"
-    },
-    {
-      "added_at": "2024-01-26 15:35:48",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/5k27SCv9uikB2YqlMB9Ub2"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4yaXiOi0fml3ehTPOovp5K"
     },
     {
       "added_at": "2024-01-26 15:35:48",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-01-26 15:35:48",
       "album": {
+        "name": "Elamy",
+        "url": "https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "Elamy",
+      "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
+    },
+    {
+      "added_at": "2024-01-26 15:35:48",
+      "album": {
         "name": "RIDERS ON THE STORM",
         "url": "https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 176483,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/7gGf1lpYd8AiibjYIh2ups"
-    },
-    {
-      "added_at": "2024-01-26 15:35:48",
-      "album": {
-        "name": "Elamy",
-        "url": "https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "Elamy",
-      "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
     },
     {
       "added_at": "2024-01-26 15:35:48",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-01-26 15:35:48",
       "album": {
-        "name": "In A Blurry World",
-        "url": "https://open.spotify.com/album/4lfQqESSeqD0m6W2VSN23g"
-      },
-      "artists": [
-        {
-          "name": "Moritz Hofbauer",
-          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
-        }
-      ],
-      "duration_ms": 347680,
-      "name": "In A Blurry World",
-      "url": "https://open.spotify.com/track/0LNRfd0PXiMunpzOl4OQhN"
-    },
-    {
-      "added_at": "2024-01-26 15:35:48",
-      "album": {
         "name": "Confusion",
         "url": "https://open.spotify.com/album/0c4WgnhgDzr5B0SL3mwIDM"
       },
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2024-01-26 15:35:48",
       "album": {
+        "name": "In A Blurry World",
+        "url": "https://open.spotify.com/album/4lfQqESSeqD0m6W2VSN23g"
+      },
+      "artists": [
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        }
+      ],
+      "duration_ms": 347680,
+      "name": "In A Blurry World",
+      "url": "https://open.spotify.com/track/0LNRfd0PXiMunpzOl4OQhN"
+    },
+    {
+      "added_at": "2024-01-26 15:35:48",
+      "album": {
         "name": "Rise Of The 2nd Sun",
         "url": "https://open.spotify.com/album/2vcdcwvURyhYMkh8P0wfJT"
       },
@@ -1147,22 +1147,6 @@
       "duration_ms": 425927,
       "name": "Rise Of The 2nd Sun",
       "url": "https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5"
-    },
-    {
-      "added_at": "2024-01-26 15:35:48",
-      "album": {
-        "name": "Footprints",
-        "url": "https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar"
-      },
-      "artists": [
-        {
-          "name": "Kaz James",
-          "url": "https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA"
-        }
-      ],
-      "duration_ms": 348815,
-      "name": "Footprints",
-      "url": "https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt"
     },
     {
       "added_at": "2024-01-26 15:35:48",
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2024-01-26 15:35:48",
       "album": {
-        "name": "She Could!",
-        "url": "https://open.spotify.com/album/1lrDC0vFrAASm3z1K3iTW5"
+        "name": "Footprints",
+        "url": "https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar"
       },
       "artists": [
         {
-          "name": "Alfred Heinrichs",
-          "url": "https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo"
+          "name": "Kaz James",
+          "url": "https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA"
         }
       ],
-      "duration_ms": 424332,
-      "name": "She Could!",
-      "url": "https://open.spotify.com/track/1twqQpzBuaDtwfAU7CXH9d"
+      "duration_ms": 348815,
+      "name": "Footprints",
+      "url": "https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt"
     },
     {
       "added_at": "2024-01-26 15:35:48",
@@ -1235,6 +1219,22 @@
       "duration_ms": 197640,
       "name": "Do My Thing - Dixon Rework",
       "url": "https://open.spotify.com/track/4taJ42xa2t0EmWsrHcZNiz"
+    },
+    {
+      "added_at": "2024-01-26 15:35:48",
+      "album": {
+        "name": "She Could!",
+        "url": "https://open.spotify.com/album/1lrDC0vFrAASm3z1K3iTW5"
+      },
+      "artists": [
+        {
+          "name": "Alfred Heinrichs",
+          "url": "https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo"
+        }
+      ],
+      "duration_ms": 424332,
+      "name": "She Could!",
+      "url": "https://open.spotify.com/track/1twqQpzBuaDtwfAU7CXH9d"
     },
     {
       "added_at": "2024-01-26 15:35:48",
@@ -1311,22 +1311,18 @@
     {
       "added_at": "2024-01-26 15:35:48",
       "album": {
-        "name": "More Than You Know",
-        "url": "https://open.spotify.com/album/3NMghT86mTUt2EPd1aRnhN"
+        "name": "Hera",
+        "url": "https://open.spotify.com/album/6jY3lRLOJoWlCV6LCHjY5y"
       },
       "artists": [
         {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        },
-        {
-          "name": "Richard Judge",
-          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
         }
       ],
-      "duration_ms": 398524,
-      "name": "More Than You Know",
-      "url": "https://open.spotify.com/track/1SnX2vQo16bLlFREsoRyw7"
+      "duration_ms": 205440,
+      "name": "Hera - Radio Edit",
+      "url": "https://open.spotify.com/track/0jKXCKiiW0HBsWVJSrg713"
     }
   ],
   "unique_name": "Electronic Circus",

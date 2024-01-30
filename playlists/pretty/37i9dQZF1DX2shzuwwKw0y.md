@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Los Caimanes de Sinaloa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,204,704 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,205,234 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 | 74 | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh) | 2:44 |
 | 75 | [El Mago Merlín](https://open.spotify.com/track/4dbH1Md7KseiHuzWAyE3Y3) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Mago Merlín](https://open.spotify.com/album/2tkBG4kM8b2punqvupfFSm) | 2:41 |
 
-Snapshot ID: `MCxlMTI1YzFjMjhhYTk5NmQ2ODAzZWE5NWZhMGRiNjE5ZjdiYmNhOGQ4`
+Snapshot ID: `MCwwZDI1NGNlMmYwOTg1OGE0ZGQ1MTE3Y2ExNWUzOGE0ZjU1OGJhNDk2`

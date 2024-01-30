@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-966 songs - 2 day 2 hr 52 min
+967 songs - 2 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [FEMININE ENERGY](https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [FEMININE ENERGY](https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT) | 2:51 | 2023-09-08 | 2024-01-19 |
 | [Festen \- Remix](https://open.spotify.com/track/4aCfUbfu8NiacDnodIMvLc) | [IRMELI](https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv), [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [Festen \(Remix\)](https://open.spotify.com/album/11m5bfHgmwNncfAoTZK7Ge) | 2:37 | 2023-11-03 |  |
 | [Fight Like A Girl](https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Fight Like A Girl](https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e) | 3:32 | 2023-08-03 | 2023-11-17 |
-| [Finally Home](https://open.spotify.com/track/50b4hGmCcAG4kFboxSEM3j) | [Angelino](https://open.spotify.com/artist/3PI9Zv8cDF0Fh0UlqohJir) | [Finally Home](https://open.spotify.com/album/29qzETKSfxppvz3hk8VRUr) | 2:59 | 2023-11-30 |  |
+| [Finally Home](https://open.spotify.com/track/50b4hGmCcAG4kFboxSEM3j) | [Angelino](https://open.spotify.com/artist/3PI9Zv8cDF0Fh0UlqohJir) | [Finally Home](https://open.spotify.com/album/29qzETKSfxppvz3hk8VRUr) | 2:59 | 2023-11-30 | 2024-01-30 |
 | [Fine](https://open.spotify.com/track/3p52HKLY1X9Vfvkkajpfwd) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Fine](https://open.spotify.com/album/53p4lvVH4RV76OQj6evdOx) | 3:25 | 2022-03-10 | 2022-09-16 |
 | [Fint att få va med dig](https://open.spotify.com/track/6yz3bCneU0XztgwIu6CNxJ) | [Jimmy Ahlén](https://open.spotify.com/artist/0VdcztH2xzmGP5hFr9pUtg), [Hanna Christiansson](https://open.spotify.com/artist/50CfYjX4VlsiXgOXHc8aQG) | [Fint att få va med dig](https://open.spotify.com/album/0ct5SzIYbWiQfbrzEAjEvi) | 3:29 | 2023-01-19 | 2023-02-24 |
 | [Fint i mörker](https://open.spotify.com/track/5Ak1ub0g1FY6xopm1kaFNX) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt](https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM) | 3:20 | 2022-06-16 | 2022-10-17 |
@@ -760,6 +760,7 @@
 | [Starkare](https://open.spotify.com/track/22WLD0thQ96SRCJ0azSCIX) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Starkare](https://open.spotify.com/album/2zCCebbYUHgSoOS0gxGw3r) | 2:25 | 2023-05-04 | 2023-10-20 |
 | [Start Walking](https://open.spotify.com/track/4UEzD2NPm9yZ0cLTB9Lo6z) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Start Walking](https://open.spotify.com/album/4JhxpPwRhUf0RzHuHSsZ3O) | 3:14 | 2021-12-16 | 2022-03-09 |
 | [Stay Awake](https://open.spotify.com/track/67rLEjVfBaTus10bbL8zLN) | [Ulrik Munther](https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM) | [Put Your Self Out There](https://open.spotify.com/album/55zVsU9v9bo3P253vEhMDi) | 4:20 | 2021-12-16 | 2022-01-09 |
+| [Stay The Same](https://open.spotify.com/track/1x2HCmiEv5CSEltweAkOW8) | [Vide](https://open.spotify.com/artist/33DYTSjYcxK2DzjeK7w539) | [Stay The Same](https://open.spotify.com/album/74i4fawNhn1B7aXv2s6BSa) | 2:58 | 2024-01-25 |  |
 | [Stay.](https://open.spotify.com/track/3vqnnGl5PYzj0eRXEuDVNb) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Stay.](https://open.spotify.com/album/7kpupdVQCbCdiVp0B8bMn8) | 3:19 | 2023-02-09 | 2023-02-17 |
 | [Stigen](https://open.spotify.com/track/68HcHIRS7uahPafhE5a699) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Drinking Gasoline](https://open.spotify.com/album/0EpIQ8fu194s2Um54bybXd) | 4:03 | 2023-10-19 | 2024-01-26 |
 | [Still Got the Blues från Sverige](https://open.spotify.com/track/5zCtffa9eit69GFSBkCkys) | [Tomas Andersson Wij](https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL) | [Still Got the Blues från Sverige](https://open.spotify.com/album/4jHhoDYHM7wTN5EZHr4oRX) | 4:08 | 2023-10-19 | 2024-01-26 |

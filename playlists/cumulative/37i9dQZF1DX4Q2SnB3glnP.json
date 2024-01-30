@@ -1285,6 +1285,24 @@
     },
     {
       "album": {
+        "name": "Epic keys",
+        "url": "https://open.spotify.com/album/6M7DRibzrsIfTXaroGtSkz"
+      },
+      "artists": [
+        {
+          "name": "Udda Jnhale",
+          "url": "https://open.spotify.com/artist/61dB4bXX3NDinvPlTy0v2P"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Epic keys",
+      "url": "https://open.spotify.com/track/0sc3NHCx6ME031as4gsNOA"
+    },
+    {
+      "album": {
         "name": "Epiphany",
         "url": "https://open.spotify.com/album/3QhvbpLgFT2pHsxdirqLW7"
       },
@@ -3733,6 +3751,24 @@
     },
     {
       "album": {
+        "name": "Serata",
+        "url": "https://open.spotify.com/album/02cpYFUzqpmAspwrvUtO0c"
+      },
+      "artists": [
+        {
+          "name": "Dormiente",
+          "url": "https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Serata",
+      "url": "https://open.spotify.com/track/5ZLOfL06vYZY1jh4hQ850O"
+    },
+    {
+      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm"
       },
@@ -4018,6 +4054,24 @@
       "duration_ms": 181683,
       "name": "Submerged",
       "url": "https://open.spotify.com/track/0FaCS30JAXH9ntYh3TcF31"
+    },
+    {
+      "album": {
+        "name": "Sun Descending",
+        "url": "https://open.spotify.com/album/7mtktubpUj4RsaMaokQamH"
+      },
+      "artists": [
+        {
+          "name": "Segarus",
+          "url": "https://open.spotify.com/artist/5L3uMci2iyD3APnlwYfTkO"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191217,
+      "name": "Sun Descending",
+      "url": "https://open.spotify.com/track/2C67c8x43LXzoX71FdCUdd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: The Thing
 
-1,276 songs - 2 day 21 hr 46 min
+1,277 songs - 2 day 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Better Now](https://open.spotify.com/track/2lh9LVKmQQ1NFpyAubsgOP) | [Mandala](https://open.spotify.com/artist/6Tj1tp56mZjmAIAuri4aSO) | [Better Now](https://open.spotify.com/album/16kt0Oi8MFTzOGXzes1YLQ) | 4:06 | 2022-03-30 | 2022-06-16 |
 | [Beware Of Birds](https://open.spotify.com/track/23qDTjPsKlySn4rt2OIKvl) | [Jack and the bearded fishermen](https://open.spotify.com/artist/3dA2NIoEt8X4q0KU4QycgJ) | [Playful Winds](https://open.spotify.com/album/42qmcuJ95Mbba03aQsGQVz) | 3:10 | 2022-03-30 | 2022-05-26 |
 | [BFS](https://open.spotify.com/track/7IrqBe8gXzN5DPm98SIIQ1) | [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi) | [Suck It](https://open.spotify.com/album/2NqQ1eOFTuwZR1gEwOtqCp) | 3:13 | 2021-12-01 | 2022-01-20 |
-| [Big Air](https://open.spotify.com/track/33DjR40rZu7Nhr8oQQnl7o) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Spiel](https://open.spotify.com/album/6MYpD839kq2hZu0pfWFPAh) | 3:26 | 2024-01-24 |  |
+| [Big Air](https://open.spotify.com/track/33DjR40rZu7Nhr8oQQnl7o) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Spiel](https://open.spotify.com/album/6MYpD839kq2hZu0pfWFPAh) | 3:26 | 2024-01-24 | 2024-01-30 |
+| [Big Air](https://open.spotify.com/track/4CV3vmoI1mExWRTcGCsKTc) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Spiel](https://open.spotify.com/album/38uN3ZQLCnEz7LhFq5Y2Qh) | 3:26 | 2024-01-24 |  |
 | [Big Air](https://open.spotify.com/track/4Lg9g0vN4guToh7068wPtT) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Big Air](https://open.spotify.com/album/0cB3kmKZuRiz1UvvNb7r7B) | 3:26 | 2023-09-20 | 2024-01-29 |
 | [Big Bite](https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Big Bite](https://open.spotify.com/album/5r7FCFcuwOhQFO8Oc9jaoI) | 3:21 | 2023-06-07 | 2024-01-11 |
 | [Big Fish](https://open.spotify.com/track/7kY5rVq2LKZN2bjVryVN7A) | [Snarls](https://open.spotify.com/artist/3yZV7kMGClXfw0xaPAlImS) | [Big Fish](https://open.spotify.com/album/5FFr5TtGcTd1QGjSd7eVLG) | 3:28 | 2023-10-25 |  |

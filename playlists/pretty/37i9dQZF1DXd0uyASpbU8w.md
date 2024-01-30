@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz?si=K5VklOKLSDOF2V\_uTxQZLw">Priddy Ugly</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,487 likes - 65 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,558 likes - 65 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 64 | [Moment to Myself](https://open.spotify.com/track/2vso6Cxk5aCcj1E8Dpb8SQ) | [Yanga YaYa](https://open.spotify.com/artist/6khlvGagBlNVPYIknFCPeJ) | [Moment to Myself](https://open.spotify.com/album/50t80L8FmtEW5RVSu8lV83) | 3:36 |
 | 65 | [African Lullaby](https://open.spotify.com/track/6CImoHDqYlFRYJEUzVP4yT) | [Jeremy Olivier](https://open.spotify.com/artist/4E0vXuP4jPooLrKMWifC4m), [Mike Del Ferro](https://open.spotify.com/artist/0TNH4nP9pt2WmRcbmFn8kr) | [Where the Light Gets In](https://open.spotify.com/album/1lYpby1e6FO73dXiCrmLw8) | 3:00 |
 
-Snapshot ID: `MCxhM2Y5ZThlYzdmN2QwN2ExMjZlNGY2ZGY4NWNjZjFmNTllOWYxNGJh`
+Snapshot ID: `MCxkZDBmZTUyMGEwOWM5OTJmNmVjMTExYTFmZWExZDFhN2IwYTZjZTE4`

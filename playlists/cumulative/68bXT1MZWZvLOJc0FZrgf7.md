@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/68bXT1MZWZvLOJc0FZrgf7.md) - cumulative - [plain](/playlists/plain/68bXT1MZWZvLOJc0FZrgf7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/68bXT1MZWZvLOJc0FZrgf7)
 
-### [Dance For Days \| 2024 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
+### [Dance For Days 🪩🕺 2024 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
 > Dance to your favorite electronic hits \| 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \| Cover: Diamond Pistols
 
-544 songs - 1 day 4 hr 22 min
+546 songs - 1 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Hallucination \- Luude Remix](https://open.spotify.com/track/272Pe5QxPswPH6P1qLq05K) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg) | [Hallucination \(Luude Remix\)](https://open.spotify.com/album/5fTCc5pT3TuEFcfjGA7HHO) | 2:47 | 2022-06-03 | 2023-06-10 |
 | [Hate Me](https://open.spotify.com/track/4UkpdfVqpn7aHlXWibsv5q) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Hate Me](https://open.spotify.com/album/0sJEjzcDY59OtCL5UbUmRA) | 2:34 | 2022-06-24 | 2022-11-19 |
 | [have a good time](https://open.spotify.com/track/0YnfIvaUWgwBMvJqEIxPyJ) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23) | [have a good time](https://open.spotify.com/album/17pjEE2XXRHEl6MKuE7p4N) | 2:06 | 2023-12-08 |  |
+| [Head Down](https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Head Down](https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2) | 2:53 | 2024-01-29 |  |
 | [Heard Me Right](https://open.spotify.com/track/2c1rczYCpnnoRPVhUtrKoT) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Heard Me Right](https://open.spotify.com/album/1Tb1MTgSXq7wuDieWHQrd1) | 4:50 | 2023-01-13 | 2023-06-10 |
 | [Heartwaves \(feat\. Sam Gray\)](https://open.spotify.com/track/0ucfUk4WEPz456gjrkv3uo) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Heartwaves \(feat\. Sam Gray\)](https://open.spotify.com/album/2KtS29TzenMimtZMxxj6h1) | 2:38 | 2023-05-05 | 2023-12-14 |
 | [Heaven](https://open.spotify.com/track/6p8uRRGziFLcA3QDvWxEPM) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Heaven](https://open.spotify.com/album/3L9kENKyJtn4kaPV6zP89y) | 2:58 | 2022-06-03 | 2023-02-05 |
@@ -462,6 +463,7 @@
 | [Tell It To My Heart](https://open.spotify.com/track/5tkVC8EcUXEZNwmD45e7tq) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Tell It To My Heart](https://open.spotify.com/album/1KxlM9HIGOgM7SOMko1W9m) | 2:55 | 2023-12-08 |  |
 | [Tell You What It Is](https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Tell You What It Is](https://open.spotify.com/album/6DSU3tmrRd6nymUrEaapbu) | 3:07 | 2022-06-03 | 2023-02-05 |
 | [Tempo](https://open.spotify.com/track/7icIDep1Jr3oJdgJSGsdnM) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Tempo](https://open.spotify.com/album/5TWuIEEbRxkdyn9HgiV69n) | 1:47 | 2023-08-18 |  |
+| [Thank You \(Not So Bad\)](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN) | 2:20 | 2024-01-29 |  |
 | [that way \- Jonasu Remix](https://open.spotify.com/track/6Asu7oyQxcmONn4HypXV7n) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [that way \(Jonasu Remix\)](https://open.spotify.com/album/14OfY1xDQxV8Ax31LpVSHW) | 2:47 | 2022-06-03 | 2022-10-29 |
 | [The Birdie That Never Was](https://open.spotify.com/track/7amFehbW0RojJwLJduWC5l) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [The Birdie That Never Was](https://open.spotify.com/album/3WVXSwXmdi0q6HsUjWZ72b) | 3:15 | 2023-06-23 | 2023-12-14 |
 | [The Birdie That Never Was \- Lipless Remix](https://open.spotify.com/track/348nGSQNyPXEn9mE6BSm1h) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO), [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [The Birdie That Never Was \(Lipless Remix\)](https://open.spotify.com/album/4tJV8XfVmCkioMwfJeroS7) | 4:06 | 2023-12-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: PONCHET
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,332 likes - 76 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,222,245 likes - 76 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 75 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 |
 | 76 | [Tak Dianggap](https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Dianggap](https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j) | 2:59 |
 
-Snapshot ID: `MCw0YzJkZjAzMjg5ZGY1MmY0MWMzZTczNGIxYjk3NzRlNzMyZWY3M2Iw`
+Snapshot ID: `MCw3ZTY5MGVhNDRlNjYwMzYyNDA5NzQ2Y2Q5ZDdhNmU5MWIwMjczMzQ2`

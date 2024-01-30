@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bluay e Julinho Ksd.",
-  "num_followers": 42879,
+  "num_followers": 42905,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTA3MDBlYmJmYTE2M2FhMmU5NWZkZjUyNWU1Y2U2NDk1NmU0Nzc3",
+  "snapshot_id": "MCwyNWEzOGFlMmRmMTQyNjMxOGM4ZTViMDVjYjcyYjY0ZGUzODA3NTdj",
   "tracks": [
     {
       "added_at": "2024-01-19 00:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr"
+      },
+      "artists": [
+        {
+          "name": "Domingues",
+          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
+        }
+      ],
+      "duration_ms": 260571,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
         "name": "Barco",
         "url": "https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 216556,
       "name": "Barco",
       "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
-        "name": "Fica",
-        "url": "https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr"
-      },
-      "artists": [
-        {
-          "name": "Domingues",
-          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
-        }
-      ],
-      "duration_ms": 260571,
-      "name": "Fica",
-      "url": "https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
+        "name": "Nada a Esconder",
+        "url": "https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 218258,
+      "name": "Nada a Esconder",
+      "url": "https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
         "name": "Reflexo",
         "url": "https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU"
       },
@@ -587,6 +603,26 @@
       "duration_ms": 306733,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "Sabi na Sabura",
+        "url": "https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        },
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 185684,
+      "name": "Don't Lie",
+      "url": "https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -635,42 +671,6 @@
       "duration_ms": 212093,
       "name": "00 Fala Bonito",
       "url": "https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
-        "name": "Nada a Esconder",
-        "url": "https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 218258,
-      "name": "Nada a Esconder",
-      "url": "https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
-        "name": "Sabi na Sabura",
-        "url": "https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        },
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 185684,
-      "name": "Don't Lie",
-      "url": "https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -747,6 +747,26 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
+        "name": "19.2k",
+        "url": "https://open.spotify.com/album/4R91ZYsYt4fDohOjgHzM2K"
+      },
+      "artists": [
+        {
+          "name": "Mike11",
+          "url": "https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x"
+        },
+        {
+          "name": "B\u00e1rbara Bandeira",
+          "url": "https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Ride (feat. B\u00e1rbara Bandeira)",
+      "url": "https://open.spotify.com/track/0GNgrdn3uuVzssBxJzdpcF"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
         "name": "ORDEM & PROGRESSO",
         "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
       },
@@ -771,22 +791,22 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "19.2k",
-        "url": "https://open.spotify.com/album/4R91ZYsYt4fDohOjgHzM2K"
+        "name": "Essa Saia",
+        "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
       },
       "artists": [
         {
-          "name": "Mike11",
-          "url": "https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x"
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
         },
         {
-          "name": "B\u00e1rbara Bandeira",
-          "url": "https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ"
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Ride (feat. B\u00e1rbara Bandeira)",
-      "url": "https://open.spotify.com/track/0GNgrdn3uuVzssBxJzdpcF"
+      "duration_ms": 209069,
+      "name": "Essa Saia",
+      "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -827,42 +847,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Carta",
-        "url": "https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "DREYA",
-          "url": "https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38"
-        }
-      ],
-      "duration_ms": 153703,
-      "name": "Carta",
-      "url": "https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
-        "name": "Jony Driver",
-        "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
-      },
-      "artists": [
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": ".Sais e Minerais",
-      "url": "https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "do.mar",
         "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
       },
@@ -883,22 +867,38 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Essa Saia",
-        "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
+        "name": "VOLTA",
+        "url": "https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J"
       },
       "artists": [
         {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        },
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 241565,
+      "name": "VOLTA",
+      "url": "https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "Carta",
+        "url": "https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav"
+      },
+      "artists": [
         {
           "name": "Ivandro",
           "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "DREYA",
+          "url": "https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38"
         }
       ],
-      "duration_ms": 209069,
-      "name": "Essa Saia",
-      "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
+      "duration_ms": 153703,
+      "name": "Carta",
+      "url": "https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "VOLTA",
-        "url": "https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J"
+        "name": "Jony Driver",
+        "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
       },
       "artists": [
         {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
         }
       ],
-      "duration_ms": 241565,
-      "name": "VOLTA",
-      "url": "https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3"
+      "duration_ms": 257500,
+      "name": ".Sais e Minerais",
+      "url": "https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        },
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        }
-      ],
-      "duration_ms": 297737,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
         "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
       },
@@ -1043,6 +1023,22 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
+        "name": "GUUD",
+        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 168631,
+      "name": "GUUD",
+      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
         "name": "That's Me",
         "url": "https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u"
       },
@@ -1063,18 +1059,22 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "GUUD",
-        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
       },
       "artists": [
         {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
         }
       ],
-      "duration_ms": 168631,
-      "name": "GUUD",
-      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
+      "duration_ms": 297737,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Dan\u00e7a",
-        "url": "https://open.spotify.com/album/0P7u3Ze1wNDzKFFNo7to1C"
-      },
-      "artists": [
-        {
-          "name": "nastyfactor",
-          "url": "https://open.spotify.com/artist/6txPp4e05GExCjHl2oELQ1"
-        }
-      ],
-      "duration_ms": 179179,
-      "name": "Dan\u00e7a",
-      "url": "https://open.spotify.com/track/5dFuWvNXDMwWJg3Fs64pJM"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "Mar de Rosas",
         "url": "https://open.spotify.com/album/492Q0hPgKBp529dQpdHvPZ"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 184057,
       "name": "Agora Naw",
       "url": "https://open.spotify.com/track/1PgAHn4rhXbsGNkFK8A8HN"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "Dan\u00e7a",
+        "url": "https://open.spotify.com/album/0P7u3Ze1wNDzKFFNo7to1C"
+      },
+      "artists": [
+        {
+          "name": "nastyfactor",
+          "url": "https://open.spotify.com/artist/6txPp4e05GExCjHl2oELQ1"
+        }
+      ],
+      "duration_ms": 179179,
+      "name": "Dan\u00e7a",
+      "url": "https://open.spotify.com/track/5dFuWvNXDMwWJg3Fs64pJM"
     },
     {
       "added_at": "2024-01-19 00:00:00",

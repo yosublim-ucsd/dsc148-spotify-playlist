@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 493187,
+  "2024-01-30": 493158,
   "date_first_scraped": "2023-09-07",
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
   "name": "Wochenende",
@@ -543,6 +543,28 @@
       "duration_ms": 169866,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0JmcyemnP0RT5C6QdOMjxA"
+    },
+    {
+      "album": {
+        "name": "Levi Don't Do It",
+        "url": "https://open.spotify.com/album/3hXx9qkxsHdQ1oyeqOvUAJ"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t"
     },
     {
       "album": {
@@ -2397,7 +2419,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 149374,
       "name": "Through the Fire",
       "url": "https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL"

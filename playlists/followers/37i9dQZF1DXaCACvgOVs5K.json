@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 258232,
+  "2024-01-30": 258540,
   "date_first_scraped": "2022-09-15",
   "description": "Get ready for Ibiza season 2023. See you on the dancefloor.",
   "name": "Ibiza 2023",
@@ -867,7 +867,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 185120,
       "name": "Colourblind",
       "url": "https://open.spotify.com/track/1ZNaOGKAZKaZh7V87zDs1i"
@@ -3037,6 +3037,28 @@
       "duration_ms": 177142,
       "name": "Plastic Smiling",
       "url": "https://open.spotify.com/track/2Ns6oTwpUGA9zdcS6BEwU7"
+    },
+    {
+      "album": {
+        "name": "Point Of No Return",
+        "url": "https://open.spotify.com/album/3rtikOpy9VLFHFv79b2ZzQ"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283902,
+      "name": "Point Of No Return",
+      "url": "https://open.spotify.com/track/2xsIBTddzLEnXCFsxPHBn0"
     },
     {
       "album": {

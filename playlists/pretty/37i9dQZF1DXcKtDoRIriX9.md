@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 
 > <a href="spotify:artist:0W8ZVf53GqJkTOPRWQaaBq">CHLOE</a>'s favourite tracks\. Updated regularly\. Curated by CHLOE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,314 likes - 69 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,328 likes - 69 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 | 68 | [Sans l'oublier \- Chloé Remix](https://open.spotify.com/track/3eWgUvZKfTqJilMne1E8XV) | [Ezéchiel Pailhès](https://open.spotify.com/artist/4rqegcqfzES4oBRh4n8TM1), [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Oh ! Remixes](https://open.spotify.com/album/5WnWyUtMzM7ZXAgWUS6mlf) | 7:26 |
 | 69 | [El Escondite](https://open.spotify.com/track/3GRk3gmqrfU0erMD6VHUwE) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Blanquita \(Original Soundtrack\)](https://open.spotify.com/album/2SbndURUZ0k22dK3jzoyYJ) | 6:31 |
 
-Snapshot ID: `MCwzNGJhMmZlMzczYzVkNjZlZDQ1ZTYyMmFlMWZlNzE3YmFlNGViY2E5`
+Snapshot ID: `MCwwYmVhNzUyZmY1NzI5NjdjMTAxZWQ1MzgyN2YzZjM3MmJlYTAwZjZk`

@@ -4,7 +4,7 @@
 
 > your rock/alt cheat sheet feat\. the 2024 Rock Artists to Watch  \| Cover: Jhariah
 
-2,118 songs - 4 day 15 hr 39 min
+2,120 songs - 4 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Anxious Times](https://open.spotify.com/track/3gxjnVCZlckyhE55OP2Dli) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [Anxious Times](https://open.spotify.com/album/3RmuIzPSJvtJxWuskXECoB) | 3:34 | 2023-11-03 | 2024-01-06 |
 | [Anything Goes](https://open.spotify.com/track/7HiUxhv8kfKJ3c5CWDm02K) | [Quinton Griggs](https://open.spotify.com/artist/0ZdLS8EfYknjiTEBHbJt9n) | [Anything Goes](https://open.spotify.com/album/08TiSpHuYW6BIWcZhGess3) | 3:19 | 2022-09-23 | 2022-11-19 |
 | [Apartment Complex on the Eastside](https://open.spotify.com/track/2nm0J9sicQTiW8M8k2yZ4x) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Apartment Complex on the Eastside](https://open.spotify.com/album/52bzMUfIaS9YeVADl51eoT) | 4:07 | 2022-04-15 | 2022-07-02 |
+| [Apollo](https://open.spotify.com/track/6NMUkluQ4ZI6XwGuqH2Z2n) | [Slow Fiction](https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW) | [Apollo](https://open.spotify.com/album/4x11dM49Sq4awkswFoJfoR) | 3:19 | 2024-01-29 |  |
 | [Apologies](https://open.spotify.com/track/5IYHlgFTDYMiXzvYtUxUAK) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Apologies](https://open.spotify.com/album/1nATWShLPekWv0pH4yKrL6) | 2:53 | 2022-10-21 | 2023-01-21 |
 | [Appetite](https://open.spotify.com/track/34O6gpg1ljVP1NNvAJIOJQ) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS) | [Appetite](https://open.spotify.com/album/3OrNjBTvDML7u22UGc5MMc) | 2:41 | 2021-11-19 | 2022-01-08 |
 | [Applause](https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Applause](https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4) | 2:44 | 2022-12-16 | 2023-02-25 |
@@ -194,7 +195,8 @@
 | [Better Than Nothing](https://open.spotify.com/track/1lYWpkFVDY9HvVDWuAnyA6) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Better Than Nothing](https://open.spotify.com/album/3BiDzIyOjLyXSbPaNr1xoR) | 3:43 | 2024-01-26 |  |
 | [Better With](https://open.spotify.com/track/1O1GLjtl8cMiTLWWLU9hQc) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Better With](https://open.spotify.com/album/74RwAWj0wKofIBAyDLrxPS) | 2:43 | 2022-08-05 | 2022-10-22 |
 | [Beyond the Vale](https://open.spotify.com/track/7DkojvD8hlZZETvBOZp1TI) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM \- Act I](https://open.spotify.com/album/6lnwneHwAQkzRdRLf4W10i) | 3:42 | 2022-11-18 | 2023-01-14 |
-| [Big Air](https://open.spotify.com/track/33DjR40rZu7Nhr8oQQnl7o) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Spiel](https://open.spotify.com/album/6MYpD839kq2hZu0pfWFPAh) | 3:26 | 2024-01-26 |  |
+| [Big Air](https://open.spotify.com/track/33DjR40rZu7Nhr8oQQnl7o) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Spiel](https://open.spotify.com/album/6MYpD839kq2hZu0pfWFPAh) | 3:26 | 2024-01-26 | 2024-01-30 |
+| [Big Air](https://open.spotify.com/track/4CV3vmoI1mExWRTcGCsKTc) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Spiel](https://open.spotify.com/album/38uN3ZQLCnEz7LhFq5Y2Qh) | 3:26 | 2024-01-26 |  |
 | [Big Air](https://open.spotify.com/track/4Lg9g0vN4guToh7068wPtT) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Big Air](https://open.spotify.com/album/0cB3kmKZuRiz1UvvNb7r7B) | 3:26 | 2023-09-15 | 2024-01-29 |
 | [Big Bite](https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Big Bite](https://open.spotify.com/album/5r7FCFcuwOhQFO8Oc9jaoI) | 3:21 | 2023-06-02 | 2023-07-08 |
 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 | 2023-08-04 | 2023-09-09 |

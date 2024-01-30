@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-358 songs - 18 hr 19 min
+360 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Hills](https://open.spotify.com/track/1PZbzrqct1Hh4FkBkAH85N) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Hills](https://open.spotify.com/album/2Qoz4wkyZ0mXLwsdSryAZ0) | 2:33 | 2023-11-10 |  |
 | [Hills](https://open.spotify.com/track/6rMM5c330kAz3wKRmH4IRn) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Hills](https://open.spotify.com/album/4jgjzmK773C6q9NGVAtD0l) | 2:33 | 2023-01-06 | 2023-11-11 |
 | [Hohenbol](https://open.spotify.com/track/6TYZYNqAoYfE64csvrZyoy) | [Feldgeister](https://open.spotify.com/artist/6ZqY3JYu0C4FTgyDhXCVEQ) | [Between Camerae](https://open.spotify.com/album/64c0jCqYkzq1jhxFTve3Bq) | 3:20 | 2022-05-25 |  |
+| [Holy Spirit](https://open.spotify.com/track/5HqIiUZj3DZn2NjzoIk7Dh) | [Few z\`s](https://open.spotify.com/artist/7HORXP8BSULDn3JTWLEAWL) | [Holy Spirit](https://open.spotify.com/album/0GXI38FGOUPIXqhlGwLXsS) | 2:54 | 2024-01-29 |  |
 | [I Know You're Here](https://open.spotify.com/track/15IzXs0Oln8qBHIJUYLSzM) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Presence](https://open.spotify.com/album/6IgFlUlufatumAUT9b9w3l) | 3:25 | 2022-05-25 | 2022-09-28 |
 | [Ich Wünsche](https://open.spotify.com/track/5EKGc8AhERWLmIAZgph4rT) | [Nils Schreiber](https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl) | [Ich Wünsche](https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA) | 3:00 | 2022-12-20 |  |
 | [Immersion](https://open.spotify.com/track/3OSnZ592Due23ZwYwWOqyT) | [Blissful Dreams](https://open.spotify.com/artist/4lPwfvbWNPN2FNrLuijbcC) | [String Of Light](https://open.spotify.com/album/5o9d8NHM20XsL6JMtLdrhR) | 2:49 | 2022-05-25 |  |
@@ -169,6 +170,7 @@
 | [Inner River](https://open.spotify.com/track/2ZHtE6Gdq09hEV4YdKurd5) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Inner River](https://open.spotify.com/album/25tcfPh3NVHPR7kdPnXL38) | 2:27 | 2023-07-13 |  |
 | [Insieme](https://open.spotify.com/track/2FjdJ4hXRC6rrKD1zNGHqZ) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Spirituale](https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO) | 3:13 | 2023-02-09 | 2023-11-11 |
 | [Intentions](https://open.spotify.com/track/4V6wywWLT9rFRH4CFtsRxU) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Calming Piano for Yoga and Meditation Vol 3](https://open.spotify.com/album/5cwbCf5VPtpZndvubNFKSo) | 2:48 | 2022-05-25 |  |
+| [Into the Peace](https://open.spotify.com/track/6rJskG5NR6Fq07Ma099nyu) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Into the Peace](https://open.spotify.com/album/0TU0t5jXhcFJxr7OckeVc0) | 2:28 | 2024-01-29 |  |
 | [Irmas](https://open.spotify.com/track/2Wod7pTNsGwJwZDQIt8N4H) | [Sharon Simple](https://open.spotify.com/artist/00tbcOvq709RE1UCBr7uEs) | [Irmas](https://open.spotify.com/album/3WD3qTmaxpHOQU5FL4ygnv) | 3:33 | 2022-05-25 |  |
 | [Just Because](https://open.spotify.com/track/7iPyN8KKPycEdDIDvtvUdJ) | [Skye Baird](https://open.spotify.com/artist/2oxWaOoXIpRuAtFRSyakJ0) | [Just Because](https://open.spotify.com/album/3721Y3lIW8EZKyHDxntnoP) | 2:51 | 2022-05-25 |  |
 | [Kalmte](https://open.spotify.com/track/1Mvt8IaW1Pl48tFkXXuUuQ) | [Chaima Bergevoet](https://open.spotify.com/artist/5fjdDidIgzZ6pFIXk3q5Bj) | [Kalmte](https://open.spotify.com/album/6b0e71St6KUs0eI0IcQXGr) | 3:23 | 2022-05-25 | 2022-09-28 |

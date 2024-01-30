@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Dead Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,196 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,057 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Simplifica](https://open.spotify.com/track/0XZYEobMACkaODDYZnuU3k) | [The Mönic](https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q) | [Cuidado Você](https://open.spotify.com/album/1pjWYLqFoKnkenPkvpM6pK) | 3:04 |
 | 75 | [Até Logo](https://open.spotify.com/track/7x4TWQ3JjclapCLi6pWoK8) | [Skarno](https://open.spotify.com/artist/0S5CzwLcxLkVECtBom3VUt) | [Até Logo](https://open.spotify.com/album/2epcjn2UFpoOEXqUXvGJjl) | 3:35 |
 
-Snapshot ID: `MCw2ZWQ2ODQ3YTI4NzNmYWE2MWVhNmJhMTc4NWM3MTNiMWY5MDc0ZjM0`
+Snapshot ID: `MCxiZDExN2EyOTZkNzdmNmIyMzI5MjdlMmNmYjhlODRiOWViODZmMmIw`

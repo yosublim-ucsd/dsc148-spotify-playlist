@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 27168,
+  "2024-01-30": 27230,
   "date_first_scraped": "2022-07-19",
   "description": "Your go to Afrobeats workout playlist ",
   "name": "Keep Fit Club ",
@@ -7428,6 +7428,24 @@
     },
     {
       "album": {
+        "name": "The Second Wave (Deluxe)",
+        "url": "https://open.spotify.com/album/4C25f9CQZZmeXJeGcpXWFg"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173617,
+      "name": "WeWe",
+      "url": "https://open.spotify.com/track/0cnxJjQ8T4GSz87TaIkwDY"
+    },
+    {
+      "album": {
         "name": "The Second Wave Deluxe",
         "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
       },
@@ -7439,7 +7457,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 173617,
       "name": "WeWe",
       "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"

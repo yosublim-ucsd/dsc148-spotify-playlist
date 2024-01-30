@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 2285,
+  "2024-01-30": 2284,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo\">Ester Dean</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Ester Dean",
@@ -1389,6 +1389,28 @@
     {
       "album": {
         "name": "ORA",
+        "url": "https://open.spotify.com/album/3wVudWLcF1D7jK5kTj6hlA"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215173,
+      "name": "Love And War",
+      "url": "https://open.spotify.com/track/4EmF2ApQBf996DrHIi2OGp"
+    },
+    {
+      "album": {
+        "name": "ORA",
         "url": "https://open.spotify.com/album/1aDnLoXL8rl3WFJWLTxZmx"
       },
       "artists": [
@@ -1403,7 +1425,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 215173,
       "name": "Love And War (feat. J. Cole)",
       "url": "https://open.spotify.com/track/0s7QzY9H3hwJ2BD9mzGqS9"
@@ -1533,7 +1555,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 232520,
       "name": "Mr. Know It All",
       "url": "https://open.spotify.com/track/7CHIJREUYyM7vndBQE6iMy"
@@ -1551,7 +1573,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 233216,
       "name": "Mr. Know It All",
       "url": "https://open.spotify.com/track/4zAlngOtqlPTUKVYw2eKbX"
@@ -2137,7 +2159,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 199580,
       "name": "Ugly Heart",
       "url": "https://open.spotify.com/track/1Vv0MPcooEoQzVZYfKMgKW"
@@ -2155,7 +2177,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 209728,
       "name": "Ugly Heart",
       "url": "https://open.spotify.com/track/44l4dGUdTC040Y66JBuDNS"

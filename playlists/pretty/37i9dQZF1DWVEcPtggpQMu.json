@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/5nWYsE0N983XcI3qsU55bp?si=twNR91SKQcS1I3f0ZhnEqg\">ZULO</a>",
-  "num_followers": 74051,
+  "num_followers": 74110,
   "original_name": "Mzansi Raps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDJiZTBmOTU2OTQzMjI5MzFiNjZkYzQ0NmNkNzIzYTQyNmMxOGRl",
+  "snapshot_id": "MCw5N2JlNGE2NTYzNDFiODk4YjA5YTVjMTI0NTRjMzBmMTEzNmI5NmU2",
   "tracks": [
     {
       "added_at": "2024-01-25 23:00:00",
@@ -263,6 +263,30 @@
       "duration_ms": 163333,
       "name": "uSANELEIGHOST",
       "url": "https://open.spotify.com/track/0fSYV7Fu6icGmEuX9f2Ywy"
+    },
+    {
+      "added_at": "2024-01-29 08:09:42",
+      "album": {
+        "name": "Umhlaba",
+        "url": "https://open.spotify.com/album/2iniomh8ICLoBfhW6RKAZs"
+      },
+      "artists": [
+        {
+          "name": "katli g",
+          "url": "https://open.spotify.com/artist/2IGyvttuJUWbmXxSrfSNu7"
+        },
+        {
+          "name": "mordy",
+          "url": "https://open.spotify.com/artist/3xzIIBU6Sag14Yle4zgoty"
+        },
+        {
+          "name": "tabiska",
+          "url": "https://open.spotify.com/artist/7KEUzqWJJvLJM8SNRXettE"
+        }
+      ],
+      "duration_ms": 215510,
+      "name": "Umhlaba",
+      "url": "https://open.spotify.com/track/6l212VLnvhEJl2o7BCRBcG"
     },
     {
       "added_at": "2024-01-25 23:00:00",

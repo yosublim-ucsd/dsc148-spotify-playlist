@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Kelsey Hart, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,160 likes - 79 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,246 likes - 79 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 78 | [Closure](https://open.spotify.com/track/0UjKHm78zqd802cfMAboFf) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Closure](https://open.spotify.com/album/41x6j7jROb2v1heAsuR2bZ) | 3:39 |
 | 79 | [May Be](https://open.spotify.com/track/2ETyMtIX52XJWMgbwxWfhJ) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [May Be](https://open.spotify.com/album/6rVMMcyRuJCwdQw0x1kr1v) | 2:33 |
 
-Snapshot ID: `MCxkMjY5YzUxMTJkNzA5NTg4M2UxMWUzOTUwMmEwZDU3YmMxMTI3YTc2`
+Snapshot ID: `MCw5OTUxN2I4ZWE1MTlmNzEwYzM4NDdkN2RkYjkxZTNjYzE1ZjNmMjZh`

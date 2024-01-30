@@ -1,12 +1,12 @@
 {
   "description": "The best in classic and new UK Funky. Cover: Roska",
-  "num_followers": 102527,
+  "num_followers": 102532,
   "original_name": "UK Funky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTdlNzRkNWFlZTIyMDdmZDQyYTQ5OWM2YWMwMDhlOTY0ZDU0NDky",
+  "snapshot_id": "MCwyY2Q3ZTE0OWU3N2QwNmYyMmM3ZjRiZjIxYjUzMTI4MDMzNzA2OGQ4",
   "tracks": [
     {
       "added_at": "2024-01-25 17:37:05",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-01-25 17:37:05",
       "album": {
+        "name": "Party Hard",
+        "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
+      },
+      "artists": [
+        {
+          "name": "Donae'o",
+          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+        }
+      ],
+      "duration_ms": 258866,
+      "name": "African Warrior",
+      "url": "https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw"
+    },
+    {
+      "added_at": "2024-01-25 17:37:05",
+      "album": {
         "name": "Da Linha",
         "url": "https://open.spotify.com/album/6SL6Sd07xhv6Rsr6TrFjPh"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 170901,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/2Xb7RtwHMkdNF5nCDWS1W5"
-    },
-    {
-      "added_at": "2024-01-25 17:37:05",
-      "album": {
-        "name": "Party Hard",
-        "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
-      },
-      "artists": [
-        {
-          "name": "Donae'o",
-          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
-        }
-      ],
-      "duration_ms": 258866,
-      "name": "African Warrior",
-      "url": "https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw"
     },
     {
       "added_at": "2024-01-25 17:37:05",
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-01-25 17:37:05",
       "album": {
-        "name": "Make Money",
-        "url": "https://open.spotify.com/album/0lF3TZ4d8dK723Icsy5dvH"
-      },
-      "artists": [
-        {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv"
-        },
-        {
-          "name": "Bryte",
-          "url": "https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi"
-        }
-      ],
-      "duration_ms": 197072,
-      "name": "Make Money",
-      "url": "https://open.spotify.com/track/5D2nyKpovnlc0o6dFWA4Y1"
-    },
-    {
-      "added_at": "2024-01-25 17:37:05",
-      "album": {
         "name": "Gabryelle (Refix)",
         "url": "https://open.spotify.com/album/3FMYlqSKfihyze2nDho7sO"
       },
@@ -807,30 +787,22 @@
     {
       "added_at": "2024-01-25 17:37:05",
       "album": {
-        "name": "My Circle (Remix)",
-        "url": "https://open.spotify.com/album/3IrXZ0zBVpZCk62OaQg4AS"
+        "name": "Make Money",
+        "url": "https://open.spotify.com/album/0lF3TZ4d8dK723Icsy5dvH"
       },
       "artists": [
         {
-          "name": "Donae'o",
-          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv"
         },
         {
-          "name": "Cadet",
-          "url": "https://open.spotify.com/artist/1Gm0kKaDx4GH6pQF88rjSK"
-        },
-        {
-          "name": "Wiley",
-          "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
-        },
-        {
-          "name": "Ghetts",
-          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+          "name": "Bryte",
+          "url": "https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi"
         }
       ],
-      "duration_ms": 260000,
-      "name": "My Circle - Remix",
-      "url": "https://open.spotify.com/track/7gDEIbmCStEGzICfqOTWeJ"
+      "duration_ms": 197072,
+      "name": "Make Money",
+      "url": "https://open.spotify.com/track/5D2nyKpovnlc0o6dFWA4Y1"
     },
     {
       "added_at": "2024-01-25 17:37:05",
@@ -911,6 +883,34 @@
       "duration_ms": 237307,
       "name": "De Siegalizer",
       "url": "https://open.spotify.com/track/05oRAIJvKCJ5Vku1RLldwB"
+    },
+    {
+      "added_at": "2024-01-25 17:37:05",
+      "album": {
+        "name": "My Circle (Remix)",
+        "url": "https://open.spotify.com/album/3IrXZ0zBVpZCk62OaQg4AS"
+      },
+      "artists": [
+        {
+          "name": "Donae'o",
+          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+        },
+        {
+          "name": "Cadet",
+          "url": "https://open.spotify.com/artist/1Gm0kKaDx4GH6pQF88rjSK"
+        },
+        {
+          "name": "Wiley",
+          "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
+        },
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "My Circle - Remix",
+      "url": "https://open.spotify.com/track/7gDEIbmCStEGzICfqOTWeJ"
     },
     {
       "added_at": "2024-01-25 17:37:05",

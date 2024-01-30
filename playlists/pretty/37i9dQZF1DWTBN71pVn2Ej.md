@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The shape of noise to come.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,816 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,911 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 59 | [Everything Blu](https://open.spotify.com/track/6VHRK7snwupgniSGeORQCt) | [Day Aches](https://open.spotify.com/artist/6fKJtGQ4ACpLgs1cqOMx3H) | [Everything Blu](https://open.spotify.com/album/0CWPNy15VAmkYMX8BpnR1R) | 3:05 |
 | 60 | [Pain of Glass](https://open.spotify.com/track/5jJsqz7aMxtft8490mW6oC) | [NVM](https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC) | [Burning Halos](https://open.spotify.com/album/3cIrdBgxHkf6o65enOmvTO) | 3:28 |
 
-Snapshot ID: `MCxlZDRlMWM5OWRmZmNhODA5NTQ2NDRkNDgzOWJmMDA4NDEwMGI2OTE3`
+Snapshot ID: `MCw1ZjNlMzI4ZDg1MDRkNzUxMDc1OTM2OTY1NmQ5NGZhYzQ0ZTU0Njdl`

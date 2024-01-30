@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. En portada: Maluma y J Balvin
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,178 likes - 57 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,814 likes - 57 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 56 | [30 Cadeados \- Ao Vivo](https://open.spotify.com/track/4UBTjBOglPqrcDKSLwYHQr) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Paraíso Particular Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/5xbSsOJsCXNSodcAE7IsAA) | 2:47 |
 | 57 | [Não Sou Brinquedo](https://open.spotify.com/track/47uAsG64Myh3wNmQQtwbLz) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Não Sou Brinquedo](https://open.spotify.com/album/3BxS4BLnSBgQRGM5qiEHve) | 3:10 |
 
-Snapshot ID: `MCw1MGMwYmM5NjlhM2QzYWE4MzA5ZmRlODEwMTA5ZGZjNzk4OWJiNzQ0`
+Snapshot ID: `MCxhZjAzMjk5YmE1OWQ4N2FlMDljNmM4MDE0ZWYzYTJkM2FiY2EwZWYy`

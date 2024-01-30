@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0Mzc0MjAsMDAwMDAwMDAzMjFlODVjMWFhMDQzNjRjMGJhZTg4MWNkNWQ4MGM5NA==",
+  "snapshot_id": "Mjg0Mzc0MjAsMDAwMDAwMDA2OTJmZWZhOTA5NjJkNzk4ODhmODNlZDBmZGE0OGMwNQ==",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -103,22 +103,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Blue Monday (Metal Version)",
-        "url": "https://open.spotify.com/album/3AuFSUtVd01lZkyNl0CjzG"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 266125,
-      "name": "Blue Monday (Metal Version)",
-      "url": "https://open.spotify.com/track/3m2Qqez8qEUhVcf8pYGwD2"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Reckless Child",
         "url": "https://open.spotify.com/album/3hgRlpLt7y31c0KFUE4xcX"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 174573,
       "name": "Reckless Child",
       "url": "https://open.spotify.com/track/1y093zNa1pQUw8SDBstgXc"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "It's a Sin (Metal Version)",
+        "url": "https://open.spotify.com/album/6DMJl9zBVW78Y3TpzeBX2W"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 234658,
+      "name": "It's a Sin (Metal Version)",
+      "url": "https://open.spotify.com/track/4RAEs2oxK0z3jrLo36N8jV"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -155,30 +155,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Richmond Hill",
-        "url": "https://open.spotify.com/album/4LBpILPiB0gp6GTdTVeF3V"
+        "name": "Gold Dust (ILLENIUM 2015 Remix)",
+        "url": "https://open.spotify.com/album/20FXdazGWpExq17zclAjKP"
       },
       "artists": [
         {
-          "name": "Masta Ace & Marco Polo",
-          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         },
         {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
         }
       ],
-      "duration_ms": 168364,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/2Ffk1ykh4yfruyAtmv3l12"
+      "duration_ms": 264000,
+      "name": "Gold Dust - ILLENIUM 2015 Remix",
+      "url": "https://open.spotify.com/track/31xpBcHJen3t4zJz02dO1U"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -207,30 +199,30 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "HiROQUEST 2: Double Helix Remixed",
-        "url": "https://open.spotify.com/album/66WcJqzeSYCSSO9uGPfKIF"
+        "name": "Richmond Hill",
+        "url": "https://open.spotify.com/album/4LBpILPiB0gp6GTdTVeF3V"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
         },
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
         },
         {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
         }
       ],
-      "duration_ms": 205352,
-      "name": "Hungry Heart ft. Hayley Kiyoko (Bassjackers Remix)",
-      "url": "https://open.spotify.com/track/1ZLc408bUkXksnrMr0E0YQ"
+      "duration_ms": 168364,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/2Ffk1ykh4yfruyAtmv3l12"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -440,9 +432,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 126143,
-      "name": "Living in the '20s",
-      "url": "https://open.spotify.com/track/7BL0Cr69HYGInkytQ3lAWj"
+      "duration_ms": 129692,
+      "name": "1981",
+      "url": "https://open.spotify.com/track/5p5lAB6YJioo8gJIck84JJ"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -519,6 +511,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Skin and Bones",
+        "url": "https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 214632,
+      "name": "Skin and Bones",
+      "url": "https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
       },
@@ -535,22 +543,6 @@
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Skin and Bones",
-        "url": "https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 214632,
-      "name": "Skin and Bones",
-      "url": "https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -587,18 +579,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "TEC (Bonus)",
-        "url": "https://open.spotify.com/album/0pVQ3KO4jjqdeWJUrrkkWp"
+        "name": "No Caller ID",
+        "url": "https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW"
       },
       "artists": [
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 120034,
-      "name": "Down With Me",
-      "url": "https://open.spotify.com/track/00n83h3zn2IrySO4Q4aTrG"
+      "duration_ms": 208759,
+      "name": "No Caller ID",
+      "url": "https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

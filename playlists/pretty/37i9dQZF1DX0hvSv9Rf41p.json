@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Rezz",
-  "num_followers": 975826,
+  "num_followers": 975856,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTYyMWUzNmQzMzJiNmMxMDY1ZjZhMjkxOTBhOWM0YzY4ZjdlZDg2",
+  "snapshot_id": "MCxlOWVhMDRlYjAwOTYyOWVlOTkwNDI3ZTdjNmE3MjE2ZTliMDE2YzM3",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -749,24 +749,24 @@
       "url": "https://open.spotify.com/track/6NdLcYW52VTforkwIJZ1Nn"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "If Love Could Have Saved You",
-        "url": "https://open.spotify.com/album/6h00scGXHmjeGfQDWjy8A3"
+        "name": "2 RUFF, Vol. 1",
+        "url": "https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl"
       },
       "artists": [
         {
-          "name": "Hybrid Minds",
-          "url": "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
         },
         {
-          "name": "venbee",
-          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
         }
       ],
-      "duration_ms": 181414,
-      "name": "If Love Could Have Saved You",
-      "url": "https://open.spotify.com/track/7D5vd0DZ2zR0NoIeaX0stb"
+      "duration_ms": 189693,
+      "name": "Selecta (feat. Stefflon Don)",
+      "url": "https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -795,30 +795,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Badders",
-        "url": "https://open.spotify.com/album/0K5ljicneNOkdgx2rNxYBv"
+        "name": "If Love Could Have Saved You",
+        "url": "https://open.spotify.com/album/6h00scGXHmjeGfQDWjy8A3"
       },
       "artists": [
         {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+          "name": "Hybrid Minds",
+          "url": "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
         },
         {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "G-Rex",
-          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
         }
       ],
-      "duration_ms": 167172,
-      "name": "Badders",
-      "url": "https://open.spotify.com/track/4zbInBD4rY7tYPJ16LVxdh"
+      "duration_ms": 181414,
+      "name": "If Love Could Have Saved You",
+      "url": "https://open.spotify.com/track/7D5vd0DZ2zR0NoIeaX0stb"
     },
     {
       "added_at": "2024-01-26 05:00:36",
@@ -857,24 +849,32 @@
       "url": "https://open.spotify.com/track/2tPiJ3Rp20TsiG0nrvEyEp"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
+      "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "2 RUFF, Vol. 1",
-        "url": "https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl"
+        "name": "Badders",
+        "url": "https://open.spotify.com/album/0K5ljicneNOkdgx2rNxYBv"
       },
       "artists": [
         {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
         },
         {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "G-Rex",
+          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
         }
       ],
-      "duration_ms": 189693,
-      "name": "Selecta (feat. Stefflon Don)",
-      "url": "https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn"
+      "duration_ms": 167172,
+      "name": "Badders",
+      "url": "https://open.spotify.com/track/4zbInBD4rY7tYPJ16LVxdh"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -957,6 +957,26 @@
       "url": "https://open.spotify.com/track/5CMOwBRA9nShq31cMeMEsE"
     },
     {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Say The Word (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/6n71DzGS11DoNhdmGQGq5B"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Say The Word (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/1jxGhPyCn9SZR9eqrTduja"
+    },
+    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Hollow",
@@ -981,22 +1001,6 @@
       "url": "https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "STFU",
-        "url": "https://open.spotify.com/album/1nlVk6AHkm9WdF0BZ9iGuB"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 156924,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/0v1nobrUSVLIXrYaI4zwkw"
-    },
-    {
       "added_at": "2024-01-19 05:00:00",
       "album": {
         "name": "Sabre",
@@ -1013,24 +1017,20 @@
       "url": "https://open.spotify.com/track/62BMIBlCzq0jONLulf7EcB"
     },
     {
-      "added_at": "2023-10-27 04:00:00",
+      "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Say The Word (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/6n71DzGS11DoNhdmGQGq5B"
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/1nlVk6AHkm9WdF0BZ9iGuB"
       },
       "artists": [
         {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
         }
       ],
-      "duration_ms": 237133,
-      "name": "Say The Word (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/1jxGhPyCn9SZR9eqrTduja"
+      "duration_ms": 156924,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/0v1nobrUSVLIXrYaI4zwkw"
     },
     {
       "added_at": "2024-01-26 05:00:36",
@@ -1245,26 +1245,6 @@
       "url": "https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Asteroid",
-        "url": "https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Asteroid",
-      "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
-    },
-    {
       "added_at": "2024-01-19 05:00:00",
       "album": {
         "name": "OneHundred",
@@ -1287,6 +1267,26 @@
       "duration_ms": 189376,
       "name": "OneHundred",
       "url": "https://open.spotify.com/track/5SNvyCJJ5OLKDLQza2EPLP"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Asteroid",
+        "url": "https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Asteroid",
+      "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1357,6 +1357,22 @@
       "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
     },
     {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
+    },
+    {
       "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "Out For Blood",
@@ -1411,38 +1427,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Omnidirectional",
-        "url": "https://open.spotify.com/album/1JffeD5SMNcg2DmFNkjrLF"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        }
-      ],
-      "duration_ms": 222608,
-      "name": "Omnidirectional",
-      "url": "https://open.spotify.com/track/3Uadv5DQG3qXZ1jFYIQBVT"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "BANG YOUR HEAD",
         "url": "https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk"
       },
@@ -1481,6 +1465,22 @@
       "url": "https://open.spotify.com/track/44tKnY1Tsoe9jPGmoA1H2c"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Omnidirectional",
+        "url": "https://open.spotify.com/album/1JffeD5SMNcg2DmFNkjrLF"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "duration_ms": 222608,
+      "name": "Omnidirectional",
+      "url": "https://open.spotify.com/track/3Uadv5DQG3qXZ1jFYIQBVT"
+    },
+    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "kidsgonemad!",
@@ -1495,26 +1495,6 @@
       "duration_ms": 221142,
       "name": "dontstopme!",
       "url": "https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h"
-    },
-    {
-      "added_at": "2023-12-15 05:13:07",
-      "album": {
-        "name": "Mind Control",
-        "url": "https://open.spotify.com/album/7f0LR3Mm5uD7oCBjCJ2Xt4"
-      },
-      "artists": [
-        {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Mind Control",
-      "url": "https://open.spotify.com/track/28vsBdSYrVngw6b7hA6bos"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1539,6 +1519,26 @@
       "duration_ms": 157036,
       "name": "HEADSH\u00d6T",
       "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
+    },
+    {
+      "added_at": "2023-12-15 05:13:07",
+      "album": {
+        "name": "Mind Control",
+        "url": "https://open.spotify.com/album/7f0LR3Mm5uD7oCBjCJ2Xt4"
+      },
+      "artists": [
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Mind Control",
+      "url": "https://open.spotify.com/track/28vsBdSYrVngw6b7hA6bos"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1685,6 +1685,30 @@
       "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
     },
     {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Back For More",
+        "url": "https://open.spotify.com/album/11kp1IYIHPxZhBKHNaeKgb"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        },
+        {
+          "name": "Olivia Sebastianelli",
+          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Back For More",
+      "url": "https://open.spotify.com/track/1waYHmEXR5mFJCfEYfa2BL"
+    },
+    {
       "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "ANGELS IN HELL",
@@ -1725,30 +1749,6 @@
       "url": "https://open.spotify.com/track/27hGDu6VTcXy0sugTIsDvv"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Back For More",
-        "url": "https://open.spotify.com/album/11kp1IYIHPxZhBKHNaeKgb"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        },
-        {
-          "name": "Olivia Sebastianelli",
-          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Back For More",
-      "url": "https://open.spotify.com/track/1waYHmEXR5mFJCfEYfa2BL"
-    },
-    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Redemption",
@@ -1763,26 +1763,6 @@
       "duration_ms": 228800,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/4Xo0c4AtfUUuprVEKzyNYW"
-    },
-    {
-      "added_at": "2023-12-15 05:13:07",
-      "album": {
-        "name": "Skanka (P Money Vocal Dub)",
-        "url": "https://open.spotify.com/album/70GlGp3nB4wbZasLKDh707"
-      },
-      "artists": [
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        }
-      ],
-      "duration_ms": 192049,
-      "name": "Skanka - P Money Vocal Dub",
-      "url": "https://open.spotify.com/track/4n7PlmHa8DU1elvSbYTOFY"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1805,6 +1785,26 @@
       "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
     },
     {
+      "added_at": "2023-12-15 05:13:07",
+      "album": {
+        "name": "Skanka (P Money Vocal Dub)",
+        "url": "https://open.spotify.com/album/70GlGp3nB4wbZasLKDh707"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "duration_ms": 192049,
+      "name": "Skanka - P Money Vocal Dub",
+      "url": "https://open.spotify.com/track/4n7PlmHa8DU1elvSbYTOFY"
+    },
+    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Fight or Flight",
@@ -1823,6 +1823,26 @@
       "duration_ms": 151538,
       "name": "Fight or Flight",
       "url": "https://open.spotify.com/track/0biZ6lxXHy4eHweTbOD33W"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "kidsgonemad!",
+        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "SHYPOP",
+      "url": "https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1845,26 +1865,6 @@
       "url": "https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH"
     },
     {
-      "added_at": "2024-01-12 23:36:33",
-      "album": {
-        "name": "Not Enough",
-        "url": "https://open.spotify.com/album/1HOT0HOpQ9LXsmGVanpznD"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        },
-        {
-          "name": "EDDIE",
-          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Not Enough",
-      "url": "https://open.spotify.com/track/4EWfyPDwqBVWMBfzgvrI9y"
-    },
-    {
       "added_at": "2024-01-05 05:03:38",
       "album": {
         "name": "Big Bombaclat",
@@ -1885,6 +1885,26 @@
       "url": "https://open.spotify.com/track/28jNyViXlq41mxejMdpQ08"
     },
     {
+      "added_at": "2024-01-12 23:36:33",
+      "album": {
+        "name": "Not Enough",
+        "url": "https://open.spotify.com/album/1HOT0HOpQ9LXsmGVanpznD"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        },
+        {
+          "name": "EDDIE",
+          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Not Enough",
+      "url": "https://open.spotify.com/track/4EWfyPDwqBVWMBfzgvrI9y"
+    },
+    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Heritage",
@@ -1903,26 +1923,6 @@
       "duration_ms": 198582,
       "name": "Libre",
       "url": "https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "kidsgonemad!",
-        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "SHYPOP",
-      "url": "https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -2029,26 +2029,6 @@
       "url": "https://open.spotify.com/track/3PuTUAsUTR7D3PnYtW1yj4"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Don't You Dare Go Hollow",
-        "url": "https://open.spotify.com/album/1Hhc7Xf30VgmsLaRuyMGWY"
-      },
-      "artists": [
-        {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
-        },
-        {
-          "name": "HVDES",
-          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
-        }
-      ],
-      "duration_ms": 225857,
-      "name": "Don't You Dare Go Hollow",
-      "url": "https://open.spotify.com/track/26TKv9T50hSeZUi995fg5x"
-    },
-    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "Feel Ur Touch",
@@ -2083,6 +2063,26 @@
       "duration_ms": 231529,
       "name": "Going Insane",
       "url": "https://open.spotify.com/track/6d8XSByw7I0sUYFymPtsD8"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Overthrown (The Thrones of Blood Remix Album)",
+        "url": "https://open.spotify.com/album/0uX6vlfx2rgxUX5cCZ1eXE"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "duration_ms": 266482,
+      "name": "Someone Else - Blanke Remix",
+      "url": "https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok"
     }
   ],
   "unique_name": "Bass Arcade",

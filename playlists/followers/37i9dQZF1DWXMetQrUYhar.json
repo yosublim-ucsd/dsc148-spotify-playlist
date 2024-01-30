@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 105586,
+  "2024-01-30": 105598,
   "date_first_scraped": "2022-01-25",
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
   "name": "Spotify Singles: Indie & Alternative",
@@ -1517,7 +1517,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 155797,
       "name": "Go Away - Spotify Singles",
       "url": "https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo"
@@ -4515,7 +4515,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 168043,
       "name": "White Noise - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/01LXrAtadc5KLDmINlg1yt"

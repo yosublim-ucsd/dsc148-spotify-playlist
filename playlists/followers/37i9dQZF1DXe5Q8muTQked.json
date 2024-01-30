@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 1181934,
+  "2024-01-30": 1181787,
   "date_first_scraped": "2021-12-21",
   "description": "Kick back with the perfect mix of covers.",
   "name": "Ultimate Covers",
@@ -2395,7 +2395,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 294498,
       "name": "Dakota",
       "url": "https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp"
@@ -3493,7 +3493,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 212386,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/0KHJGKFbzSYPjyhN8TFWke"
@@ -3515,7 +3515,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 212424,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"
@@ -9951,6 +9951,24 @@
       "duration_ms": 222362,
       "name": "Swingin Party",
       "url": "https://open.spotify.com/track/3YYwrOdeMEvmHBWHJ0TmB6"
+    },
+    {
+      "album": {
+        "name": "More Mayhem",
+        "url": "https://open.spotify.com/album/7vL49AGpkONykl6dCDShAu"
+      },
+      "artists": [
+        {
+          "name": "Imelda May",
+          "url": "https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165586,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/390RYJSKZVN9IHa9E9zB34"
     },
     {
       "album": {

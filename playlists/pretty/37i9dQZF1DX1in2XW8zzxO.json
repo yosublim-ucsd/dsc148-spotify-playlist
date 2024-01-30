@@ -1,12 +1,12 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 61153,
+  "num_followers": 61232,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmZiMmYzMTNhMjU0ZGM4NTA4ZjVlZDRjMmM0Y2M3Mjk4Y2FjMTE4",
+  "snapshot_id": "MCxkNWFiZDVjMDAyYjQ2N2M1MmFhYjU2MmE2MzE0MTQ2OGI0MzNhNmYx",
   "tracks": [
     {
       "added_at": "2024-01-25 23:01:00",
@@ -411,30 +411,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "Khekheleza (Dlala Dlala)",
-        "url": "https://open.spotify.com/album/0xzQmemSpxC1d1XmNAQY80"
-      },
-      "artists": [
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "EeQue",
-          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
-        },
-        {
-          "name": "Thama Tee",
-          "url": "https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR"
-        }
-      ],
-      "duration_ms": 329079,
-      "name": "Khekheleza (Dlala Dlala)",
-      "url": "https://open.spotify.com/track/183zjMwtPbSQjsE71Yrfoo"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "Yahyuppiyah (feat. Pcee, EeQue, & Chley)",
         "url": "https://open.spotify.com/album/1o4qQoueKYWmGiSrKFoB3C"
       },
@@ -467,6 +443,30 @@
       "duration_ms": 296975,
       "name": "Yahyuppiyah (feat. Pcee, EeQue & Chley)",
       "url": "https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "Khekheleza (Dlala Dlala)",
+        "url": "https://open.spotify.com/album/0xzQmemSpxC1d1XmNAQY80"
+      },
+      "artists": [
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        },
+        {
+          "name": "Thama Tee",
+          "url": "https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR"
+        }
+      ],
+      "duration_ms": 329079,
+      "name": "Khekheleza (Dlala Dlala)",
+      "url": "https://open.spotify.com/track/183zjMwtPbSQjsE71Yrfoo"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -515,26 +515,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "Selema (Po Po)",
-        "url": "https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR"
-      },
-      "artists": [
-        {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
-        },
-        {
-          "name": "Loui",
-          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
-        }
-      ],
-      "duration_ms": 340846,
-      "name": "Selema (Po Po)",
-      "url": "https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
         "url": "https://open.spotify.com/album/0d6dUG7eTcnKoGzX8VKbn1"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 381768,
       "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
       "url": "https://open.spotify.com/track/51fIDcNGiIp7pxHCCN5QaL"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "Selema (Po Po)",
+        "url": "https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR"
+      },
+      "artists": [
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        },
+        {
+          "name": "Loui",
+          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
+        }
+      ],
+      "duration_ms": 340846,
+      "name": "Selema (Po Po)",
+      "url": "https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -631,22 +631,6 @@
       "duration_ms": 361528,
       "name": "Nkao Tempela",
       "url": "https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "Widlysm",
-        "url": "https://open.spotify.com/album/1ZwWviKOdxQsoaobNqiMg6"
-      },
-      "artists": [
-        {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
-        }
-      ],
-      "duration_ms": 393430,
-      "name": "Samarian Boy",
-      "url": "https://open.spotify.com/track/61P7fkM3YBSTGCrLBUaWKM"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -763,6 +747,22 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
+        "name": "Widlysm",
+        "url": "https://open.spotify.com/album/1ZwWviKOdxQsoaobNqiMg6"
+      },
+      "artists": [
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        }
+      ],
+      "duration_ms": 393430,
+      "name": "Samarian Boy",
+      "url": "https://open.spotify.com/track/61P7fkM3YBSTGCrLBUaWKM"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
         "name": "Uyavala",
         "url": "https://open.spotify.com/album/3ABIwMyYq1eFuHq9gIw5TZ"
       },
@@ -871,6 +871,26 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
+        "name": "Down The Drain",
+        "url": "https://open.spotify.com/album/4RrEXzYVPDRdYUufiCw2W2"
+      },
+      "artists": [
+        {
+          "name": "Njelic",
+          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
+        },
+        {
+          "name": "Thabza Tee",
+          "url": "https://open.spotify.com/artist/5JyEgson2YVsJT0fNGroWn"
+        }
+      ],
+      "duration_ms": 368610,
+      "name": "Down The Drain",
+      "url": "https://open.spotify.com/track/62SaDdv956IYAt5nS1nWx7"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
         "name": "Umhlolo",
         "url": "https://open.spotify.com/album/6ZKX7q754N7FdJMwnuqKNj"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 184285,
       "name": "Umhlolo",
       "url": "https://open.spotify.com/track/7w9l1MLqmCtwhKHz9R93Xd"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "Down The Drain",
-        "url": "https://open.spotify.com/album/4RrEXzYVPDRdYUufiCw2W2"
-      },
-      "artists": [
-        {
-          "name": "Njelic",
-          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
-        },
-        {
-          "name": "Thabza Tee",
-          "url": "https://open.spotify.com/artist/5JyEgson2YVsJT0fNGroWn"
-        }
-      ],
-      "duration_ms": 368610,
-      "name": "Down The Drain",
-      "url": "https://open.spotify.com/track/62SaDdv956IYAt5nS1nWx7"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "Masego",
-        "url": "https://open.spotify.com/album/1eBp7lKuofxvC46hCYml0u"
-      },
-      "artists": [
-        {
-          "name": "Dj Obza",
-          "url": "https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh"
-        },
-        {
-          "name": "Leon Lee",
-          "url": "https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD"
-        }
-      ],
-      "duration_ms": 411952,
-      "name": "Mang' Dakiwe (feat. Leon Lee)",
-      "url": "https://open.spotify.com/track/2uHImha8ZRh5gDQAsCzcle"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "Sanitizer",
         "url": "https://open.spotify.com/album/1dPG0MRY5u8J2e2cw1NPCN"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 416404,
       "name": "Sanitizer",
       "url": "https://open.spotify.com/track/3dFpRuEIxuQfm2EHBf4ZVU"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "Masego",
+        "url": "https://open.spotify.com/album/1eBp7lKuofxvC46hCYml0u"
+      },
+      "artists": [
+        {
+          "name": "Dj Obza",
+          "url": "https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh"
+        },
+        {
+          "name": "Leon Lee",
+          "url": "https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD"
+        }
+      ],
+      "duration_ms": 411952,
+      "name": "Mang' Dakiwe (feat. Leon Lee)",
+      "url": "https://open.spotify.com/track/2uHImha8ZRh5gDQAsCzcle"
     },
     {
       "added_at": "2024-01-25 23:01:00",

@@ -4,7 +4,7 @@
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-81 songs - 7 hr 12 min
+82 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Everything is Okay](https://open.spotify.com/track/3nb3ETwE9NEjmRuszFSFp2) | [LunaRexx ASMR](https://open.spotify.com/artist/1gN9pIv8jnrIYJV3S88I6D) | [May I Touch You?](https://open.spotify.com/album/3zr7dqQ2k9EG0MCAubYqql) | 3:07 | 2023-09-08 |  |
 | [Extremely Sensitive ASMR Mic Scratching and Ear to Ear Whispering, Pt\. 1](https://open.spotify.com/track/5k6j68qAUCCMtuFsuKPWSo) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [Extremely Sensitive ASMR Mic Scratching and Ear to Ear Whispering \[ASMR at 100% Sensitivity\]](https://open.spotify.com/album/1OmgwNuQvXPqnqENtlkrjT) | 3:12 | 2021-11-12 | 2022-07-13 |
 | [Fluffy Mic & Slow Whispering Around Your Head, Pt\. 2](https://open.spotify.com/track/2KUF4YBM0ekcDf6aTsEbq1) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [8D ASMR \- Fluffy Mic & Slow Whispering Around Your Head](https://open.spotify.com/album/0v8s8XlzfDFrRpBJGnAiIZ) | 5:16 | 2021-11-12 | 2023-09-17 |
-| [Fluffy Mic & Slow Whispering Around Your Head, Pt\. 2](https://open.spotify.com/track/4EAP4yIQlIwowyqTKKBLXv) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [8D ASMR \- Fluffy Mic & Slow Whispering Around Your Head](https://open.spotify.com/album/0Gh6wdhrgzwGeTYsiz9qTY) | 5:16 | 2023-09-08 |  |
+| [Fluffy Mic & Slow Whispering Around Your Head, Pt\. 2](https://open.spotify.com/track/4EAP4yIQlIwowyqTKKBLXv) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [8D ASMR \- Fluffy Mic & Slow Whispering Around Your Head](https://open.spotify.com/album/0Gh6wdhrgzwGeTYsiz9qTY) | 5:16 | 2023-09-08 | 2024-01-30 |
 | [Gibberish](https://open.spotify.com/track/71E2C3WKGRu4Q4BOtYipx1) | [Mikki ASMR](https://open.spotify.com/artist/0CinSQAHxIyGB3lNkPEQVu) | [ASMR Whispers](https://open.spotify.com/album/4M7mKm6D8XbCYWDEf3INVN) | 5:06 | 2022-07-14 |  |
 | [Going Over Your Notes / Writing Sounds](https://open.spotify.com/track/1oRrPXaq2PNiGYiUn6YV6a) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR For Sleep \| Zen Rainforest Sleep Treatment \- Day 1 of 3](https://open.spotify.com/album/3PgSMImJNYOEUCTHudph0c) | 6:01 | 2021-11-12 | 2023-09-16 |
 | [Going Over Your Notes / Writing Sounds](https://open.spotify.com/track/3YxyDSG1HgIjVQOIt1sENb) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR For Sleep \| Zen Rainforest Sleep Treatment \- Day 1 of 3](https://open.spotify.com/album/7FFtmDlOVzVkqRUuFip36l) | 6:01 | 2023-09-08 |  |
@@ -49,6 +49,7 @@
 | [Laura Says ASMR](https://open.spotify.com/track/4kHSEjGLEJBBD6DROwKkVp) | [Laura Love ASMR](https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn) | [Laura Says ASMR](https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8) | 3:44 | 2022-10-07 |  |
 | [Liquid Bubble Hourglass & Whispering, Pt\. 4](https://open.spotify.com/track/4MoJG4kECK0KoPMPNbnLmL) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [3Dio Ear Touching ASMR \- Liquid Bubble Hourglass](https://open.spotify.com/album/7npzqkuDloJNEyEgxcy6yj) | 4:22 | 2021-11-12 | 2022-07-13 |
 | [Making Your Eyes Heavy](https://open.spotify.com/track/01Zuq3xB12zBwqfbPT55r8) | [fastASMR](https://open.spotify.com/artist/56Il8oV0mbdnHbOimlgy6v) | [Sounds To Help You Sleep in 15 Minutes](https://open.spotify.com/album/7FBQgbJXAqYIQGvrHWsF3j) | 5:02 | 2021-11-12 | 2024-01-29 |
+| [Making Your Eyes Heavy](https://open.spotify.com/track/3ir7iDuuUDQ0aWb8DPyI91) | [fastASMR](https://open.spotify.com/artist/56Il8oV0mbdnHbOimlgy6v) | [Sounds To Help You Sleep in 15 Minutes](https://open.spotify.com/album/0W5E39u3695EgS8xXYtmb4) | 5:02 | 2023-09-08 |  |
 | [Measuring and Examining Your Face Pt.1](https://open.spotify.com/track/5Cru2U6APr3JQGW9cArjBf) | [Catplant ASMR](https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C) | [Measuring and Examining Your Face](https://open.spotify.com/album/3vV3eFCUvQ4grVD3o4KMg4) | 6:16 | 2021-11-12 |  |
 | [Milk Bath](https://open.spotify.com/track/2WwA9o1ZQWu9W2JGAg42OG) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR Egyptian Spa \| Bathing You, Skin Treatment, Makeup, Pampering \- ASMR Roleplay Soft Spoken](https://open.spotify.com/album/0IHfyUsgLNwuSHP7gTxd2F) | 6:44 | 2023-09-08 |  |
 | [Milk Bath](https://open.spotify.com/track/4Dph1YEGoMe8mw6Kze3c0u) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR Egyptian Spa \| Bathing You, Skin Treatment, Makeup, Pampering \- ASMR Roleplay Soft Spoken](https://open.spotify.com/album/7cueYYiDNozCHhIc36e7Ip) | 6:44 | 2021-11-12 | 2023-09-16 |

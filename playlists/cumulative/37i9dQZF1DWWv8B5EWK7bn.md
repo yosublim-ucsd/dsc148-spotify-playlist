@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-363 songs - 1 day 1 hr 53 min
+364 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Joyas](https://open.spotify.com/track/7HuyjEAR0uhAvzfDLpsOHO) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Joyas](https://open.spotify.com/album/7aNoysMFjBa4Nxy4XQcoqN) | 2:52 | 2022-09-15 | 2023-01-07 |
 | [Just a moment](https://open.spotify.com/track/4B2duCzao3lvUAtex1R3CC) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [Just a moment](https://open.spotify.com/album/5BPLqZrd0YicrOFMCWLlkv) | 3:22 | 2022-09-12 | 2023-04-15 |
 | [Keep Your Mind Free](https://open.spotify.com/track/2JoAsRpfSpuCGsEOtlFS7W) | [Damon Locks](https://open.spotify.com/artist/6TlQM2KMbYG7xE7Zy1BMUy), [Black Monument Ensemble](https://open.spotify.com/artist/4UTQycdCDv5HBn2NdhOraF), [Ben LaMar Gay](https://open.spotify.com/artist/4ITyby2i26NhM69kXNpIdR) | [NOW](https://open.spotify.com/album/42yBiH8auH9zsloOembHL0) | 5:54 | 2021-10-06 | 2023-01-03 |
+| [Ki moun ou ye](https://open.spotify.com/track/5j0A24ckSZtirzrxxVjGdy) | [Nathalie Joachim](https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i) | [Ki moun ou ye](https://open.spotify.com/album/7cJDsHyqQS6k7vSubd1reE) | 5:20 | 2024-01-29 |  |
 | [Kids are electric](https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ) | [Scenario](https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu) | 3:38 | 2022-03-30 | 2022-08-14 |
 | [Knew You Better](https://open.spotify.com/track/4JXicRysL3kGWGRV1UFFmC) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [When We Knew Less](https://open.spotify.com/album/38XjHKpVkTU4RaTznhqln8) | 3:04 | 2022-08-13 | 2022-09-10 |
 | [La Roseraie](https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 2:50 | 2022-03-30 |  |
@@ -352,7 +353,7 @@
 | [Vexations](https://open.spotify.com/track/0eHOw5xlTyw2DbVTHu3mlH) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK) | [A Young Person's Guide to the Avant\-Garde](https://open.spotify.com/album/3B4NWeTR5KQ8SItD6mz6x2) | 3:09 | 2023-01-20 | 2023-02-04 |
 | [Victims of Victimless Crimes](https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE) | [Kübler\-Ross](https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy) | [Kübler\-Ross](https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH) | 4:18 | 2022-07-15 | 2023-01-03 |
 | [Voyager](https://open.spotify.com/track/7liCZGCeSyqcDRKhdlglHW) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [Voyager](https://open.spotify.com/album/6HHaF08StaSFk1MdDOMAp4) | 3:09 | 2023-08-24 | 2024-01-04 |
-| [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 | 2023-11-23 |  |
+| [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 | 2023-11-23 | 2024-01-30 |
 | [We Go Back](https://open.spotify.com/track/0rm3x9LMs2QN72gNp4qY50) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [We Go Back](https://open.spotify.com/album/5aqwNIaQEGgQZCTjSIGOPJ) | 3:23 | 2022-02-04 | 2022-06-08 |
 | [What Has Happened](https://open.spotify.com/track/1WM2ObDoxB3QqksZRxpy7w) | [Tonstartssbandht](https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW) | [Petunia](https://open.spotify.com/album/6CjVp0URuekH4fRUQJqJ92) | 7:02 | 2022-03-16 | 2023-06-27 |
 | [What Has Happened](https://open.spotify.com/track/3cYdy35yz0p44Uy02qqThg) | [Tonstartssbandht](https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW) | [What Has Happened](https://open.spotify.com/album/0R014aRU0SPhTIFe47nR1D) | 7:02 | 2022-03-16 | 2022-11-14 |

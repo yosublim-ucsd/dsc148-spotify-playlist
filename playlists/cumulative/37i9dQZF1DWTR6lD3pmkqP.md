@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-533 songs - 1 day 21 hr 9 min
+534 songs - 1 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Grasshopper](https://open.spotify.com/track/1yutSXKfA5VXkwH5Zq44y2) | [Joanna Duda Trio](https://open.spotify.com/artist/7f9e3OHtFqSbSOF4BzX83i) | [Fumitsuke](https://open.spotify.com/album/2TyZVrjALM78v1DfNezKKv) | 7:28 | 2022-02-10 | 2023-12-19 |
 | [Grasshopper](https://open.spotify.com/track/4FT3jNR5d9qmVkw60K9UJc) | [Joanna Duda Trio](https://open.spotify.com/artist/7f9e3OHtFqSbSOF4BzX83i) | [Grasshopper](https://open.spotify.com/album/0pbl1UD7ra9ypd9TqzsR5O) | 7:28 | 2021-12-16 | 2022-07-27 |
 | [Grenadier](https://open.spotify.com/track/1sjsqhEE2V6fCEAKwAwQ7I) | [Fazer](https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C) | [Grenadier](https://open.spotify.com/album/0cpPto1VjYJt81NvjzVrUv) | 5:14 | 2021-12-16 | 2023-06-20 |
+| [Grenadier](https://open.spotify.com/track/5R0flLOBkzDKBXkxvUwzwK) | [Fazer](https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C) | [Plex](https://open.spotify.com/album/3uXvql4fD31uz7mfaMlXPt) | 5:14 | 2022-02-10 |  |
 | [HAWK MOUNTAIN feat\. Eric Harland](https://open.spotify.com/track/2gfzhHPD80RzyWMj8BL15T) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh) | [HAWK MOUNTAIN feat\. Eric Harland](https://open.spotify.com/album/07hHjgzjT4aW5XENwbQ712) | 6:24 | 2021-12-16 | 2022-07-28 |
 | [Heather Grey \(BK Gritty\)](https://open.spotify.com/track/7x5Dul8CyNveFqG8j9p9LZ) | [NIKARA presents Black Wall Street](https://open.spotify.com/artist/3aKINS5KI279EKkNpHcMng), [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3) | [NIKARA presents Black Wall Street](https://open.spotify.com/album/1ajCBcWKmPE52w4d0h0AhL) | 6:06 | 2021-12-16 |  |
 | [Heksen Romance](https://open.spotify.com/track/1RPtXJvLdFFU7lh7SQgtL8) | [Monocled Man](https://open.spotify.com/artist/4Ulb0AKOmkqerNXGwtRob1), [Chris Montague](https://open.spotify.com/artist/2gz62zpojSXuPaCJazpDrA) | [Heksen Romance](https://open.spotify.com/album/4SUzYTki8mF5xSw69e6V8H) | 6:34 | 2021-12-21 | 2022-07-27 |
@@ -428,7 +429,7 @@
 | [Street Fighter Mas](https://open.spotify.com/track/42HCaQAAihJZBY12wIZvyR) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Heaven and Earth](https://open.spotify.com/album/4gqOopeAEc1uZ392BBAWEd) | 5:58 | 2021-12-16 | 2021-12-22 |
 | [Stronger](https://open.spotify.com/track/0DMmuamiQ9tRdXfFLrEADn) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Stronger](https://open.spotify.com/album/04Zzn0UXThAN51aO82Csk3) | 3:03 | 2021-12-21 |  |
 | [Sua Beleza e Beleza](https://open.spotify.com/track/2THVitcsBZMyurTEwrPRlr) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [João Donato JID007](https://open.spotify.com/album/03q6oK9euB25TGC2Jp8uPZ) | 3:00 | 2022-02-10 | 2023-04-30 |
-| [Sua Beleza e Beleza](https://open.spotify.com/track/5QuPgQRKb6ojYzbvNTRjQv) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [João Donato JID007](https://open.spotify.com/album/2qWnN8q2Tulx0oH4MJY12Z) | 3:00 | 2022-02-10 |  |
+| [Sua Beleza e Beleza](https://open.spotify.com/track/5QuPgQRKb6ojYzbvNTRjQv) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [João Donato JID007](https://open.spotify.com/album/2qWnN8q2Tulx0oH4MJY12Z) | 3:00 | 2022-02-10 | 2024-01-30 |
 | [Sua Beleza e Beleza](https://open.spotify.com/track/3VIzPTVNrXegeAiBQ9LyCP) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [João Donato JID007](https://open.spotify.com/album/6nHhbD7do3JQsvLsPduaqF) | 3:00 | 2021-12-16 | 2022-07-29 |
 | [Sun Kissed Child \- From "Liberated / Music For the Movement Vol\. 3"](https://open.spotify.com/track/091hH6lNsAmC3I3CTLNkth) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Sun Kissed Child \(From "Liberated / Music For the Movement Vol\. 3"\)](https://open.spotify.com/album/33qmE7Pe8lRlZTC4bJOo6P) | 8:00 | 2021-12-16 |  |
 | [Sunfish](https://open.spotify.com/track/7wXFm7V9l7WDL08iyghuPm) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v) | [Sunfish](https://open.spotify.com/album/5kFv4TfnpB7lRNjACm0VZk) | 6:26 | 2021-12-21 |  |

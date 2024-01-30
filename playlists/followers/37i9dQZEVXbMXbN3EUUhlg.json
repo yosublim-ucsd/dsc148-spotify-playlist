@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 3483147,
+  "2024-01-30": 3482907,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Brazil.",
   "name": "Top 50 - Brazil",
@@ -5393,7 +5393,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 156942,
       "name": "Duas Tr\u00eas",
       "url": "https://open.spotify.com/track/0redQHBfejmPUhonR5ppGC"
@@ -9857,10 +9857,32 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 167786,
       "name": "Macetando",
       "url": "https://open.spotify.com/track/1T9dxi40GuNW3gNRHwk8P4"
+    },
+    {
+      "album": {
+        "name": "Macetando",
+        "url": "https://open.spotify.com/album/6FEJSBFIqZe9GYN2xaAP52"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167786,
+      "name": "Macetando",
+      "url": "https://open.spotify.com/track/6eJUG282cUKuIoa72sEsqO"
     },
     {
       "album": {
@@ -12121,7 +12143,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 140322,
       "name": "Novo Balan\u00e7o",
       "url": "https://open.spotify.com/track/4hKLzFvNwHF6dPosGT30ed"
@@ -12169,7 +12191,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 132247,
       "name": "Nuuu Que Trem B\u00e3o - Ao vivo",
       "url": "https://open.spotify.com/track/4j43glFTBnFmFCiiV9CHoy"
@@ -12719,7 +12741,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 159158,
       "name": "Oi Balde - Ao Vivo",
       "url": "https://open.spotify.com/track/4xAGuRRKOgoaZbMGdmTD3N"
@@ -15181,7 +15203,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 167445,
       "name": "Sai Da Frente",
       "url": "https://open.spotify.com/track/3OirlIOGwFgwcQgVru6IUG"
@@ -16013,6 +16035,28 @@
       "duration_ms": 165366,
       "name": "Sigilo - Ao Vivo",
       "url": "https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx"
+    },
+    {
+      "album": {
+        "name": "Silverado (AgroPlay Ver\u00e3o)",
+        "url": "https://open.spotify.com/album/0jc1n9dACj0B3LxivgmrQb"
+      },
+      "artists": [
+        {
+          "name": "AgroPlay",
+          "url": "https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162194,
+      "name": "Silverado (AgroPlay Ver\u00e3o)",
+      "url": "https://open.spotify.com/track/26l5FAEVr9cfaILS0szvvt"
     },
     {
       "album": {

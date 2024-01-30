@@ -9651,6 +9651,32 @@
     },
     {
       "album": {
+        "name": "Palace In My Head (Fred Falke Remix)",
+        "url": "https://open.spotify.com/album/0KmmDNX9lSTwfCoR5ahkvU"
+      },
+      "artists": [
+        {
+          "name": "Jaakko Eino Kalevi",
+          "url": "https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3"
+        },
+        {
+          "name": "Alma Jodorowsky",
+          "url": "https://open.spotify.com/artist/4DBszooKyAkibrGnhMxKqr"
+        },
+        {
+          "name": "Fred Falke",
+          "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310946,
+      "name": "Palace In My Head - Fred Falke Remix",
+      "url": "https://open.spotify.com/track/6NLXQtGnssNEpZMa35juxf"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/5nLHY1doRZ0jVRcRcU8NOw"
       },

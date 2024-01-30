@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Jigarthanda DoubleX
 
-122 songs - 7 hr 21 min
+123 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Touching Touching \(From "Japan"\)](https://open.spotify.com/track/1j4MpVUmV2C6iMsUa01mwd) | [Karthi](https://open.spotify.com/artist/0B33QkzBOTcn3E0oTzqLfJ), [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Touching Touching \(From "Japan"\)](https://open.spotify.com/album/0I9vHFefKgGlrBKMyMghu6) | 3:36 | 2023-11-09 |  |
 | [Two Two Two](https://open.spotify.com/track/7mhJ08BCG6goQ8mPpk9TuZ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ) | [Kaathuvaakula Rendu Kaadhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2bRyFTzMb2iz6yIlcon1uz) | 2:56 | 2022-04-28 |  |
 | [Uruttu](https://open.spotify.com/track/56kHBD2biMor1AHSCE40bA) | [Vivek Siva](https://open.spotify.com/artist/7B0eBcEyMXoyqBrVyj7gFD), [Mervin Solomon](https://open.spotify.com/artist/5UMXQPeU8ojXiH8f7IfpXv), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz), [Santesh](https://open.spotify.com/artist/7DWSfLX0stZ7Fm4JssbiN6) | [Uruttu \(From "Enna Solla Pogirai"\)](https://open.spotify.com/album/3hHZsklIyfzfx3bqsywRnQ) | 3:34 | 2021-12-02 | 2022-06-28 |
+| [Vaadi En Trip \- From "Lover"](https://open.spotify.com/track/6WCDmJsS5UmW4nraqXJJCE) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Vaadi En Trip \(From "Lover"\)](https://open.spotify.com/album/4sTyUjQrCPsSrizLb530Uh) | 1:40 | 2024-01-29 |  |
 | [Vaadi Vaasal \- From "The Legend"](https://open.spotify.com/track/1603c8fUKw65aJubrsTnAt) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Vaadi Vaasal \(From "The Legend"\)](https://open.spotify.com/album/2xc1j2STHlCyX00edTUkOc) | 4:18 | 2022-05-23 | 2022-10-12 |
 | [Vaanam Kidukidunga](https://open.spotify.com/track/7pog5PPLDv7NcGO975f3EJ) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Muthu Sirpi](https://open.spotify.com/artist/26rblDtQQ9U26NMYSraPYm) | [Viruman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Rwd1j6rdOs7M9PLCkqcOi) | 4:08 | 2022-08-03 | 2022-11-15 |
 | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/track/4dJrjWtAhEkW7VdPYSL1Ip) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL) | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/album/0SOw7gw33kUZHgyZpLY1Jh) | 3:48 | 2021-12-01 |  |

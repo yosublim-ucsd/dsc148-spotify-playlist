@@ -4,7 +4,7 @@
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Ice Spice 💨
 
-1,831 songs - 3 day 16 hr 24 min
+1,832 songs - 3 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Big Diamonds \(feat\. 21 Savage\)](https://open.spotify.com/track/5FDc4ljIWyW8wClzt54dhs) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 3:19 | 2023-11-17 |  |
 | [Big Dog \(with Lil Wayne\)](https://open.spotify.com/track/4EKfEZ89t2DzU41RbsyFC6) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Big Dog](https://open.spotify.com/album/5N1Y4h6H1fiS7tIL0fPivM) | 4:13 | 2023-11-10 | 2023-12-02 |
 | [BIG DRIP](https://open.spotify.com/track/6yOnCtqG95CzhjeTeI9uOV) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [BIG DRIP](https://open.spotify.com/album/4x7Yo7b9NKZmto1hsfUOTz) | 2:04 | 2023-12-01 | 2023-12-23 |
+| [Big Foot](https://open.spotify.com/track/587Ks4sb6Wd2qRVS5i9fdW) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Big Foot](https://open.spotify.com/album/3b80v2noU4EEZmCefjinoO) | 4:22 | 2024-01-29 |  |
 | [Big Heart](https://open.spotify.com/track/6lVXddn4jSzCYrCnqKNiPF) | [Will Ryte](https://open.spotify.com/artist/5kyrkoHcYHl2Hf74KB4fVw) | [Big Heart](https://open.spotify.com/album/4XyoO1MBFGmcFyi1NQz7ON) | 1:41 | 2023-08-18 | 2023-08-26 |
 | [BIG MACK \- Bria Mack Gets A Life](https://open.spotify.com/track/2aYMlCk7hwDEnuSU0Wx6ds) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [Dub J](https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE) | [BIG MACK \(Bria Mack Gets A Life\)](https://open.spotify.com/album/5FZNkSsYEFtcP7LePndrIs) | 2:35 | 2023-10-13 | 2023-10-21 |
 | [Big Mad \(feat\. Flo Milli\)](https://open.spotify.com/track/6UliIDFULJHvJpSfQ61zu5) | [Icandy](https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Big Mad \(feat\. Flo Milli\)](https://open.spotify.com/album/04jIgr8btAumWJzTRIhrxl) | 1:50 | 2023-09-22 | 2023-09-30 |
@@ -1066,7 +1067,7 @@
 | [NEW YORK \(CONCEPT DE PARIS\) \(feat\. Gil Scott\-Heron\)](https://open.spotify.com/track/52HkYMgslCfQjNuQ8zjE4P) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [NEW YORK \(CONCEPT DE PARIS\) \(feat\. Gil Scott\-Heron\)](https://open.spotify.com/album/4Vppt72lQJuwdBaK9HCh5E) | 4:06 | 2023-04-21 | 2023-04-29 |
 | [Next](https://open.spotify.com/track/3ZVGZ8fOVMvVnPBLtwWw1d) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Next](https://open.spotify.com/album/3Ex3f0VBLU0XHfQPotkoue) | 3:20 | 2023-03-03 | 2023-03-11 |
 | [NFNC](https://open.spotify.com/track/44fJijP9HKdkYhVVh0Zf1i) | [KingAlexBeats](https://open.spotify.com/artist/6UKzVrB3hJHkBAz60T4jlw), [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [NFNC](https://open.spotify.com/album/7usI8mrhIBM6km8dlpzehE) | 2:21 | 2023-12-01 | 2023-12-16 |
-| [Nicki Hendrix \(feat\. Future\)](https://open.spotify.com/track/5XOVnisFK9XbICdyMMjrol) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pink Friday 2 \(Gag City PLUTO Edition\)](https://open.spotify.com/album/2lbQSK3qnWtWVYwjZiyvbM) | 4:24 | 2024-01-19 |  |
+| [Nicki Hendrix \(feat\. Future\)](https://open.spotify.com/track/5XOVnisFK9XbICdyMMjrol) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pink Friday 2 \(Gag City PLUTO Edition\)](https://open.spotify.com/album/2lbQSK3qnWtWVYwjZiyvbM) | 4:24 | 2024-01-19 | 2024-01-30 |
 | [Night Shift](https://open.spotify.com/track/1knM2BR3zAFetYHxLuQMbg) | [Evil Ebenezer](https://open.spotify.com/artist/1E1u1P7Fse6SKnETGdo6XK), [Kurst](https://open.spotify.com/artist/0D4cQbi3Sux3MWTX4ksNPt) | [Night Shift](https://open.spotify.com/album/3TyhM9aYlJ8Usix1HxXUTX) | 3:01 | 2023-07-07 | 2023-07-15 |
 | [NIGHT WE MET \(feat\. Veronica Elizabeth\)](https://open.spotify.com/track/4zEacEOMttSocwk0HkP7yK) | [Portion](https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY), [Veronica Elizabeth](https://open.spotify.com/artist/4F41MoSaTAAARtg7WrLSJf) | [NIGHT WE MET \(feat\. Veronica Elizabeth\)](https://open.spotify.com/album/0TB0Y7sgxun4jaAZjjnrqY) | 2:56 | 2023-12-15 | 2023-12-23 |
 | [NIGHTCAP](https://open.spotify.com/track/4CnfenmPbN9QNKITPe9o10) | [APB](https://open.spotify.com/artist/3vUy9wmklGDZ5r2sEPk7N8) | [NIGHTCAP](https://open.spotify.com/album/3TKWragC4qTf8gjvTYdOQ4) | 2:50 | 2023-06-23 | 2023-07-01 |

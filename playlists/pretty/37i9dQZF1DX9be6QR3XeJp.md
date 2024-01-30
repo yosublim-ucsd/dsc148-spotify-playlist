@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: NewDad
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,192 likes - 171 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,184 likes - 171 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,7 +154,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 144 | [Anseo](https://open.spotify.com/track/2VxCFajDagmquFM9gH5qbJ) | [Denise Chaila](https://open.spotify.com/artist/2VjvDoPMZvWItuivXdoe5Y) | [GO Bravely](https://open.spotify.com/album/3F5NOIN8QC02Sd2XEYFrvk) | 2:35 |
 | 145 | [CRUSHED VELVET](https://open.spotify.com/track/5mHAhU2mrJ0WjRx818XmYS) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [DEMOTAPE/VEGA](https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK) | 2:41 |
 | 146 | [Worth It](https://open.spotify.com/track/4oecUEFtf9m5x8YQFfE1em) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Worth It](https://open.spotify.com/album/1i1VUVcZdZBU8U87QMOCii) | 3:14 |
-| 147 | [Loud](https://open.spotify.com/track/0gvOes4JPUbtP9MPInKsWA) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Loud](https://open.spotify.com/album/0RKB3f9wQH7cRlTyiQZdha) | 4:00 |
+| 147 | [Loud](https://open.spotify.com/track/3eTH67em8ZO5qzbv3w0w1L) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Loud](https://open.spotify.com/album/1cRWqwiwrA2cVSXbyysn94) | 4:00 |
 | 148 | [Mademoiselle](https://open.spotify.com/track/6MGLQRKop0hKfWkeyln5p7) | [JyellowL](https://open.spotify.com/artist/7zWrMTItje9ZjKK2XWTPle), [Chris Kabs](https://open.spotify.com/artist/1cFEPWsvZm4bwiBcoqELG9) | [Mademoiselle](https://open.spotify.com/album/000JMiqsaAikfjgWrBUJ1a) | 3:25 |
 | 149 | [Wicked & Wild](https://open.spotify.com/track/2myNRoPh3Nh8V07gEEchGt) | [Claye](https://open.spotify.com/artist/5cxA5TNOxf4h9Y9btuxpCG) | [Black Magic](https://open.spotify.com/album/0lGLhUdrNZjxJnkmugpY4r) | 2:06 |
 | 150 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 170 | [Anyone But Me](https://open.spotify.com/track/40KxHanilxLVRq4DY5pnm7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Anyone But Me](https://open.spotify.com/album/6DDUgkyC6tDXlSa3w4ua3q) | 3:02 |
 | 171 | [Don't Rush \(feat\. Headie One\)](https://open.spotify.com/track/0PXukVbYpvz40KcEFKnIw7) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Don't Rush \(feat\. Headie One\)](https://open.spotify.com/album/1UX0F7yksh3rHlEJKvliAT) | 3:27 |
 
-Snapshot ID: `MCxmNTVlY2Y2NDhiY2YzMTRjZTMzMzQwM2U5OTFkZTAwMDA2ZThlODNi`
+Snapshot ID: `MCw0NDA1MmNmNTk3YWZiZTJlOTMwZTdkYjgyNzdiMTc0ZDVjMTY3ZTUx`

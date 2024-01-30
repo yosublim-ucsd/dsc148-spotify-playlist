@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: 10CM\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: KIM BUMSOO\(김범수\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-471 songs - 1 day 6 hr 40 min
+473 songs - 1 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Dream](https://open.spotify.com/track/2Mbq7v42FvbLJewOfCw7hv) | [LEE BORAM](https://open.spotify.com/artist/6SFvlarNwNCJVr7p5ZHPp3) | [Dream](https://open.spotify.com/album/6mub9pdrLa8fCqzWP4kk64) | 3:08 | 2022-09-05 | 2022-09-07 |
 | [Dream](https://open.spotify.com/track/2QiqcWQBXB6PD14CvQHuIc) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [Dream](https://open.spotify.com/album/6ySezBYVHuSk0eUqhiUYQD) | 3:49 | 2023-02-15 | 2023-04-15 |
 | [Dreaming me](https://open.spotify.com/track/48yWAEKHXC7HZumnUvoqoc) | [Hyeong Min](https://open.spotify.com/artist/46oTnauRqldja8Zxdxyjsi) | [Dreaming me](https://open.spotify.com/album/0gnOekyeHjuZwQF2yRkcms) | 4:14 | 2022-01-14 | 2022-07-09 |
-| [Drunken confession at night \(Prod\. 2soo\)](https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Drunken confession at night](https://open.spotify.com/album/6ckoOynVQtEj04mbOAyGAh) | 4:06 | 2022-06-20 |  |
+| [Drunken confession at night \(Prod\. 2soo\)](https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Drunken confession at night](https://open.spotify.com/album/6ckoOynVQtEj04mbOAyGAh) | 4:06 | 2022-06-20 | 2024-01-30 |
 | [ELEVATOR](https://open.spotify.com/track/1TyJ03k31YUBobtQo5g6ji) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [ELEVATOR](https://open.spotify.com/album/54iEiUHiYVeNdKDRZqDsag) | 3:15 | 2022-03-29 | 2022-05-12 |
 | [Emergency Room \- 2021](https://open.spotify.com/track/3USmrwVK08XzzrIQdYtY1m) | [Hwang In Wook](https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq) | [Emergency Room \(2021\)](https://open.spotify.com/album/2ysDz3rcISkxRnuLjM8gaW) | 4:03 | 2021-12-20 | 2022-07-09 |
 | [Empty words](https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Empty words](https://open.spotify.com/album/0rMu2ccCP5oQJnLogE2idU) | 4:12 | 2021-12-20 | 2022-07-29 |
@@ -131,7 +131,7 @@
 | [For a While](https://open.spotify.com/track/1ZmPNFXRwZxX2Zv9T7Ohme) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [The Emperor: Owner of the Mask \(MBC Drama\) OST Part.3](https://open.spotify.com/album/5CspqdsAZVuACvrEygM9mC) | 4:04 | 2022-03-24 | 2022-04-19 |
 | [For You](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [For You](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) | 3:25 | 2021-12-20 |  |
 | [Fragile 물거품](https://open.spotify.com/track/3S0GeKxqEdnq0MrzqfYmqH) | [Wyne](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [Fragile 물거품](https://open.spotify.com/album/3b2V1rI4Zvxgdy2c0yhbiR) | 2:57 | 2022-03-31 | 2022-04-21 |
-| [Fuckin' New Year](https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [New Year](https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB) | 2:48 | 2023-01-02 |  |
+| [Fuckin' New Year](https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [New Year](https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB) | 2:48 | 2023-01-02 | 2024-01-30 |
 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-03-11 |  |
 | [Gift](https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:20 | 2023-12-01 |  |
 | [Girlfriend](https://open.spotify.com/track/7sesu8e9LIdAiP3pZpo8qY) | [HAEUN](https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW), [요셉](https://open.spotify.com/artist/2vAttwKn3MBAKe3rE4ndr8) | [Girlfriend](https://open.spotify.com/album/7qH3C41mcnfeHoyq84dAuT) | 3:14 | 2022-04-01 | 2022-04-06 |
@@ -167,6 +167,7 @@
 | [How Can I Forget You](https://open.spotify.com/track/3zs2ZBMzKOG1fMeh9rnkVT) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [The Forbidden Marriage, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0UoIZMkWzH1OqYXbc934Mv) | 4:35 | 2022-12-27 | 2023-04-02 |
 | [How could you](https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [How could you](https://open.spotify.com/album/6Tv0HmutNYBa1IK3scNXYo) | 4:11 | 2021-12-20 | 2022-07-29 |
 | [How many nights should far away more](https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [How many nights should far away more](https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc) | 3:46 | 2023-01-25 | 2023-02-14 |
+| [How Much I Love You](https://open.spotify.com/track/55tsR9WU9Rtl8eLKTz242N) | [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [How Much I Love You](https://open.spotify.com/album/5NpyatjHKN1GJur16L3dfR) | 3:37 | 2024-01-29 |  |
 | [I \(feat\. MINSEO\)](https://open.spotify.com/track/0OmPQqX1CajqAZ4MkBz6tb) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [I \(feat\. MINSEO\)](https://open.spotify.com/album/7wcgA4iskyzVb8s4w7St3e) | 4:00 | 2021-12-20 | 2022-07-29 |
 | [I can't forget you](https://open.spotify.com/track/7K37ggTWKnAlZFVVmTIlzM) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [If You Wish Upon Me OST Part.3](https://open.spotify.com/album/3RWQFf7JlTLZZWG21CsJr9) | 3:38 | 2022-08-19 | 2023-10-05 |
 | [I Can't Help It \(Prod\. Jungkey\)](https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [I Can't Help It](https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd) | 3:44 | 2022-09-21 | 2023-03-28 |
@@ -380,6 +381,7 @@
 | [The Wind Blows](https://open.spotify.com/track/1PssUYQxZqXz673rilqMvZ) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Sing Forest Part.1](https://open.spotify.com/album/53wnkkDyLjZLpdRBR9iP0i) | 3:48 | 2022-04-01 | 2022-07-14 |
 | [The Word](https://open.spotify.com/track/69XGqdtKexbf8W9Khs3XA7) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [From The Island](https://open.spotify.com/album/3tYXM2RUje2peApyIWNERR) | 3:49 | 2022-03-24 | 2022-05-30 |
 | [The Work Of Erasing You](https://open.spotify.com/track/13XmTLlsQvX8glN5sM2gfL) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [The Work Of Erasing You](https://open.spotify.com/album/7w6PcIh2p6O2zPaymwCuXI) | 3:37 | 2023-03-10 | 2023-03-18 |
+| [The World of You](https://open.spotify.com/track/03LjOJ71W4yGJ0mjtudMRR) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [The World of You](https://open.spotify.com/album/0PYvMxPdN7gTsEBTDJ7ZPj) | 4:08 | 2024-01-29 |  |
 | [There has never been a day I haven't loved you](https://open.spotify.com/track/07dEYudaDt4vMgTiGINUH3) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [There has never been a day I haven't loved you](https://open.spotify.com/album/5uxEITfPVGU67MdPA6LiaE) | 4:03 | 2022-01-14 | 2022-04-29 |
 | [Think About You](https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Think About You](https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ) | 3:32 | 2021-12-20 |  |
 | [This is me](https://open.spotify.com/track/2VnAN5tR2Y4raaPcAEFE9u) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [멜로디책방 Part 6](https://open.spotify.com/album/1WIfzWPSJiACHtURL458Xt) | 3:02 | 2021-12-20 | 2022-04-21 |

@@ -1,12 +1,12 @@
 {
   "description": "H\u00e5ll det 100.",
-  "num_followers": 323839,
+  "num_followers": 323929,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDI0YTAzZjk4NTUzMDRiMjViOGQ2ODVlZmRiMTUyOTVlZGJiNjQx",
+  "snapshot_id": "MCwzOTgxOGJlM2IzOWVhYWQ0NWRiZTY3ZmU1MDdlOGM0Y2VlNDYxZTA0",
   "tracks": [
     {
       "added_at": "2024-01-26 13:53:31",
@@ -31,22 +31,6 @@
     {
       "added_at": "2024-01-26 13:53:31",
       "album": {
-        "name": "In Memory Of Some Stand Up Guys",
-        "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Svar",
-      "url": "https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw"
-    },
-    {
-      "added_at": "2024-01-26 13:53:31",
-      "album": {
         "name": "En g\u00e5ng till",
         "url": "https://open.spotify.com/album/4DHfWTM0wLOcsvPftNzluD"
       },
@@ -67,6 +51,22 @@
     {
       "added_at": "2024-01-26 13:53:31",
       "album": {
+        "name": "Inga \u00e4nglar (Na na na)",
+        "url": "https://open.spotify.com/album/3jJmhnYy9Zif0lCkLQfv6J"
+      },
+      "artists": [
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        }
+      ],
+      "duration_ms": 194599,
+      "name": "Inga \u00e4nglar (Na na na)",
+      "url": "https://open.spotify.com/track/532hmJMBzkTyhVQTlHHUuJ"
+    },
+    {
+      "added_at": "2024-01-26 13:53:31",
+      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/5GusruUjqDx5zA9jfdRgSH"
       },
@@ -79,6 +79,22 @@
       "duration_ms": 146562,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/1LB3r7Nn2PE4spye87VjHp"
+    },
+    {
+      "added_at": "2024-01-26 13:53:31",
+      "album": {
+        "name": "In Memory Of Some Stand Up Guys",
+        "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Svar",
+      "url": "https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw"
     },
     {
       "added_at": "2024-01-26 13:53:31",
@@ -119,6 +135,22 @@
     {
       "added_at": "2024-01-26 13:53:31",
       "album": {
+        "name": "Toto Bien",
+        "url": "https://open.spotify.com/album/5XgwhFkliOQ7dVYSPb5B8r"
+      },
+      "artists": [
+        {
+          "name": "GULEED",
+          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
+        }
+      ],
+      "duration_ms": 142222,
+      "name": "Toto Bien",
+      "url": "https://open.spotify.com/track/6n9IAWUx3QamVfNlQcdMaj"
+    },
+    {
+      "added_at": "2024-01-26 13:53:31",
+      "album": {
         "name": "\u00d6verallt",
         "url": "https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM"
       },
@@ -131,22 +163,6 @@
       "duration_ms": 125092,
       "name": "\u00d6verallt",
       "url": "https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH"
-    },
-    {
-      "added_at": "2024-01-26 13:53:31",
-      "album": {
-        "name": "Inga \u00e4nglar (Na na na)",
-        "url": "https://open.spotify.com/album/3jJmhnYy9Zif0lCkLQfv6J"
-      },
-      "artists": [
-        {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
-        }
-      ],
-      "duration_ms": 194599,
-      "name": "Inga \u00e4nglar (Na na na)",
-      "url": "https://open.spotify.com/track/532hmJMBzkTyhVQTlHHUuJ"
     },
     {
       "added_at": "2024-01-26 13:53:31",
@@ -195,18 +211,18 @@
     {
       "added_at": "2024-01-26 13:53:31",
       "album": {
-        "name": "Move (Ensam) - Spotify Singles",
-        "url": "https://open.spotify.com/album/6xPqs77IVNVKLw0t62ktAp"
+        "name": "Roma",
+        "url": "https://open.spotify.com/album/56IVBQgF3IcQE3cYrrsDJL"
       },
       "artists": [
         {
-          "name": "B.Baby",
-          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+          "name": "FGZ",
+          "url": "https://open.spotify.com/artist/4Si6O7X4gvXWjVF2yYzORs"
         }
       ],
-      "duration_ms": 147723,
-      "name": "Move (Ensam) - Spotify Singles",
-      "url": "https://open.spotify.com/track/0uxMjXTK2DrJjAPGTJyiwh"
+      "duration_ms": 161500,
+      "name": "Roma",
+      "url": "https://open.spotify.com/track/72Vowls7A5ZiLp8bfAOPig"
     },
     {
       "added_at": "2024-01-26 13:53:31",
@@ -227,22 +243,6 @@
     {
       "added_at": "2024-01-26 13:53:31",
       "album": {
-        "name": "Toto Bien",
-        "url": "https://open.spotify.com/album/5XgwhFkliOQ7dVYSPb5B8r"
-      },
-      "artists": [
-        {
-          "name": "GULEED",
-          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
-        }
-      ],
-      "duration_ms": 142222,
-      "name": "Toto Bien",
-      "url": "https://open.spotify.com/track/6n9IAWUx3QamVfNlQcdMaj"
-    },
-    {
-      "added_at": "2024-01-26 13:53:31",
-      "album": {
         "name": "Holy Father",
         "url": "https://open.spotify.com/album/3EDPjtq7VheovIXi7hXCTu"
       },
@@ -255,6 +255,22 @@
       "duration_ms": 158035,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/5L3rVVMUlgJgDRaXc4V3wt"
+    },
+    {
+      "added_at": "2024-01-26 13:53:31",
+      "album": {
+        "name": "Move (Ensam) - Spotify Singles",
+        "url": "https://open.spotify.com/album/6xPqs77IVNVKLw0t62ktAp"
+      },
+      "artists": [
+        {
+          "name": "B.Baby",
+          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+        }
+      ],
+      "duration_ms": 147723,
+      "name": "Move (Ensam) - Spotify Singles",
+      "url": "https://open.spotify.com/track/0uxMjXTK2DrJjAPGTJyiwh"
     },
     {
       "added_at": "2024-01-26 13:53:31",
@@ -275,18 +291,18 @@
     {
       "added_at": "2024-01-26 13:53:31",
       "album": {
-        "name": "Roma",
-        "url": "https://open.spotify.com/album/56IVBQgF3IcQE3cYrrsDJL"
+        "name": "ASKER",
+        "url": "https://open.spotify.com/album/2FBCD1CwSiLcZANLypghei"
       },
       "artists": [
         {
-          "name": "FGZ",
-          "url": "https://open.spotify.com/artist/4Si6O7X4gvXWjVF2yYzORs"
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
         }
       ],
-      "duration_ms": 161500,
-      "name": "Roma",
-      "url": "https://open.spotify.com/track/72Vowls7A5ZiLp8bfAOPig"
+      "duration_ms": 127878,
+      "name": "MIKEY",
+      "url": "https://open.spotify.com/track/0I93VgSamyAka0fD0xPOso"
     },
     {
       "added_at": "2024-01-26 13:53:31",
@@ -379,22 +395,6 @@
       "duration_ms": 158918,
       "name": "Hj\u00e4rta",
       "url": "https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d"
-    },
-    {
-      "added_at": "2024-01-26 13:53:31",
-      "album": {
-        "name": "ASKER",
-        "url": "https://open.spotify.com/album/2FBCD1CwSiLcZANLypghei"
-      },
-      "artists": [
-        {
-          "name": "VC Barre",
-          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
-        }
-      ],
-      "duration_ms": 127878,
-      "name": "MIKEY",
-      "url": "https://open.spotify.com/track/0I93VgSamyAka0fD0xPOso"
     },
     {
       "added_at": "2024-01-26 13:53:31",

@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 156596,
+  "num_followers": 156602,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTdjZWYwNTA3MzA5ZGQxODk5OTdjNzZjNjFjNjY4ZjIxMTlhZTAy",
+  "snapshot_id": "MCxhMDk5Yjc5Mjg1OTY4NTg4MDljZDJiMzZhMWU3ODgwM2FjZTZlMTA3",
   "tracks": [
     {
       "added_at": "2024-01-26 03:01:00",
@@ -263,30 +263,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Probleminha Di\u00e1rio (Papasessions #7)",
-        "url": "https://open.spotify.com/album/7A8XaIPQmaZtvgo25ut9i8"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "CALIFFA",
-          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
-        }
-      ],
-      "duration_ms": 245625,
-      "name": "Probleminha Di\u00e1rio (Papasessions #7)",
-      "url": "https://open.spotify.com/track/3fT7cJoa7RqsvNZnEC45EC"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "Poesia Ac\u00fastica 14",
         "url": "https://open.spotify.com/album/4VM4tFlf3F3rAQfbJDvqnN"
       },
@@ -339,6 +315,30 @@
       "duration_ms": 849230,
       "name": "Poesia Ac\u00fastica 14",
       "url": "https://open.spotify.com/track/0Co2c6T1U06m4wLT6kOxdc"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "Probleminha Di\u00e1rio (Papasessions #7)",
+        "url": "https://open.spotify.com/album/7A8XaIPQmaZtvgo25ut9i8"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "CALIFFA",
+          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
+        }
+      ],
+      "duration_ms": 245625,
+      "name": "Probleminha Di\u00e1rio (Papasessions #7)",
+      "url": "https://open.spotify.com/track/3fT7cJoa7RqsvNZnEC45EC"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -491,30 +491,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Ibiza",
-        "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "De Longe. (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk"
       },
@@ -547,6 +523,30 @@
       "duration_ms": 136901,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/1HEy5wolNdmeHCB9Qw6At7"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "N\u00e3o Quero Mais Nada",
-        "url": "https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy"
-      },
-      "artists": [
-        {
-          "name": "S7lermo",
-          "url": "https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm"
-        },
-        {
-          "name": "L\u00edvia Neves",
-          "url": "https://open.spotify.com/artist/6oqRJsv7s4CXdVdclAEchk"
-        }
-      ],
-      "duration_ms": 213587,
-      "name": "N\u00e3o Quero Mais Nada",
-      "url": "https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "De F\u00e9rias Com O WEY",
         "url": "https://open.spotify.com/album/7jXxwDkJ5f63wjRuXI8d2A"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 168960,
       "name": "De F\u00e9rias Com O WEY",
       "url": "https://open.spotify.com/track/44gLlJcTjyTRJ2KFip1I6r"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "N\u00e3o Quero Mais Nada",
+        "url": "https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy"
+      },
+      "artists": [
+        {
+          "name": "S7lermo",
+          "url": "https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm"
+        },
+        {
+          "name": "L\u00edvia Neves",
+          "url": "https://open.spotify.com/artist/6oqRJsv7s4CXdVdclAEchk"
+        }
+      ],
+      "duration_ms": 213587,
+      "name": "N\u00e3o Quero Mais Nada",
+      "url": "https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
+        "name": "Sabe Qual \u00c9",
+        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
+      },
+      "artists": [
+        {
+          "name": "Nathan",
+          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
+        }
+      ],
+      "duration_ms": 150361,
+      "name": "Sabe Qual \u00c9",
+      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
         "name": "Interfone",
         "url": "https://open.spotify.com/album/3isbuTBsnIoXfDg7bGedYs"
       },
@@ -1295,18 +1311,22 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Sabe Qual \u00c9",
-        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
+        "name": "Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
       },
       "artists": [
         {
-          "name": "Nathan",
-          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        },
+        {
+          "name": "Felipe Brasil",
+          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
         }
       ],
-      "duration_ms": 150361,
-      "name": "Sabe Qual \u00c9",
-      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
+      "duration_ms": 213698,
+      "name": "Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -1327,26 +1347,6 @@
       "duration_ms": 125932,
       "name": "Ir Embora",
       "url": "https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
-        "name": "Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        },
-        {
-          "name": "Felipe Brasil",
-          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
-        }
-      ],
-      "duration_ms": 213698,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -1463,6 +1463,50 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
+        "name": "Djavu",
+        "url": "https://open.spotify.com/album/3teEapeQnAL8iGDlIUb9Cq"
+      },
+      "artists": [
+        {
+          "name": "Eddu Chaves",
+          "url": "https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa"
+        },
+        {
+          "name": "Tertto",
+          "url": "https://open.spotify.com/artist/2Ab3GEqPRCoaRDCBhkUgIr"
+        },
+        {
+          "name": "Raonir Braz",
+          "url": "https://open.spotify.com/artist/44w1bg6i4nDOZMvNnGiRdg"
+        },
+        {
+          "name": "ogoin",
+          "url": "https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "Djavu",
+      "url": "https://open.spotify.com/track/2WH637f5jibXgY3Be06EC9"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
+      },
+      "artists": [
+        {
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+        }
+      ],
+      "duration_ms": 164713,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
         "name": "Jeito Bom #2",
         "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
       },
@@ -1487,22 +1531,6 @@
       "duration_ms": 209378,
       "name": "Jeito Bom #2",
       "url": "https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
-      },
-      "artists": [
-        {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
-        }
-      ],
-      "duration_ms": 164713,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -1559,6 +1587,30 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
+        "name": "27 Dias",
+        "url": "https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX"
+      },
+      "artists": [
+        {
+          "name": "Douriel",
+          "url": "https://open.spotify.com/artist/4gYOZZdzJ8PMurmOD72ZLF"
+        },
+        {
+          "name": "Dracko",
+          "url": "https://open.spotify.com/artist/6gOq16KSO2ORGiVS7yDZHY"
+        },
+        {
+          "name": "Indie Space",
+          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
+        }
+      ],
+      "duration_ms": 139097,
+      "name": "27 Dias",
+      "url": "https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
         "name": "Meia Hora",
         "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
       },
@@ -1603,30 +1655,6 @@
       "duration_ms": 188911,
       "name": "Estrela do Bairro",
       "url": "https://open.spotify.com/track/1QhYZN26nrWchzfbURdaNv"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
-        "name": "27 Dias",
-        "url": "https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX"
-      },
-      "artists": [
-        {
-          "name": "Douriel",
-          "url": "https://open.spotify.com/artist/4gYOZZdzJ8PMurmOD72ZLF"
-        },
-        {
-          "name": "Dracko",
-          "url": "https://open.spotify.com/artist/6gOq16KSO2ORGiVS7yDZHY"
-        },
-        {
-          "name": "Indie Space",
-          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
-        }
-      ],
-      "duration_ms": 139097,
-      "name": "27 Dias",
-      "url": "https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -1691,46 +1719,30 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Djavu",
-        "url": "https://open.spotify.com/album/3teEapeQnAL8iGDlIUb9Cq"
+        "name": "Nada Comum",
+        "url": "https://open.spotify.com/album/5mlcHnrFuiWZ4EQDtudkvO"
       },
       "artists": [
         {
-          "name": "Eddu Chaves",
-          "url": "https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa"
+          "name": "Trist\u00e3o",
+          "url": "https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH"
         },
         {
-          "name": "Tertto",
-          "url": "https://open.spotify.com/artist/2Ab3GEqPRCoaRDCBhkUgIr"
+          "name": "Camargo",
+          "url": "https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f"
         },
         {
-          "name": "Raonir Braz",
-          "url": "https://open.spotify.com/artist/44w1bg6i4nDOZMvNnGiRdg"
+          "name": "RalphTheKiD",
+          "url": "https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw"
         },
         {
-          "name": "ogoin",
-          "url": "https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy"
+          "name": "Joab Beats",
+          "url": "https://open.spotify.com/artist/26B7Vxj9wBzF8wsDTK6IHh"
         }
       ],
-      "duration_ms": 251600,
-      "name": "Djavu",
-      "url": "https://open.spotify.com/track/2WH637f5jibXgY3Be06EC9"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
-        "name": "Rosas Rositas",
-        "url": "https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt"
-      },
-      "artists": [
-        {
-          "name": "Inc\u00f3gnito",
-          "url": "https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8"
-        }
-      ],
-      "duration_ms": 309406,
-      "name": "Rosas Rositas",
-      "url": "https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg"
+      "duration_ms": 199750,
+      "name": "Nada comum",
+      "url": "https://open.spotify.com/track/08y2uUZH8TJ9ugWBTPDdM1"
     }
   ],
   "unique_name": "Resenha na Praia",

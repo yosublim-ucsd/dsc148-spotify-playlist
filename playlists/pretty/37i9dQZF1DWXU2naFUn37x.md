@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Baby Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,394 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,464 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Calcolatrici](https://open.spotify.com/track/6bN41HjY008ggroMFxNLaa) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:25 |
 | 2 | [Hebs](https://open.spotify.com/track/3EyDmcEetdHSOdY2V1xsXj) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [Hebs](https://open.spotify.com/album/0yNWGKvITLUfl9wufIjo4W) | 2:51 |
-| 3 | [Ghetto love \(feat\. Guè\)](https://open.spotify.com/track/6fG0TZQMCCUjTlWwB5WyGP) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 1:59 |
+| 3 | [Ghetto love \(feat\. Guè\)](https://open.spotify.com/track/6fG0TZQMCCUjTlWwB5WyGP) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 1:58 |
 | 4 | [Face to face 2](https://open.spotify.com/track/3Y9w1o3DIroJsJN3WG5RMy) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Face to face 2](https://open.spotify.com/album/4bQKXlrKLDgBuKFTGK3nO7) | 3:13 |
 | 5 | [Paganini](https://open.spotify.com/track/34XnlHqQzVeqXTMXc7SVo0) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Paganini](https://open.spotify.com/album/3kI8OpMHBcp6Fb56Z1uGeZ) | 2:54 |
 | 6 | [Machiavelli \(feat\. Simba La Rue\)](https://open.spotify.com/track/3KRwYDQt79HltHM1YHzQbl) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Van Scuro](https://open.spotify.com/track/6cJSJ18BFkKij2wbSUakrR) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Bendicion](https://open.spotify.com/album/6VTLsm4M3WA9YTf3RNWMnz) | 2:19 |
 | 50 | [PANAMERA](https://open.spotify.com/track/3DQAo0bfnXBrUu0uJ24htg) | [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg) | [PANAMERA](https://open.spotify.com/album/1OTEAosHYXXUh9gEalhGiK) | 2:18 |
 
-Snapshot ID: `MCw5ZjU2ODQ5N2Y0OWJlMGYxMjNjOWFhMTkyMzY4ZWExNWU2ODliODgw`
+Snapshot ID: `MCxhNzMzMjg4YWE0OTI5ZjNkNWUwYzVjZTI2ZDcwMjkzYjk5NjQ5MmQ5`

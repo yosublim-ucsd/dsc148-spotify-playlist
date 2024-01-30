@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Brunno Ramos, 2metro, BIG THE KIID",
-  "num_followers": 160908,
+  "num_followers": 161012,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGZlMTYwZjk3ZTA0YjVhN2Y4OThkNGYxNjlkYTg1NDVkYWY0MjFh",
+  "snapshot_id": "MCwzNGNlNzA5MjlmMzQ4YmNlNzIwNmNjNjBjMjFlMWNhNWIyNTViYWYz",
   "tracks": [
     {
       "added_at": "2024-01-05 13:31:22",
@@ -223,62 +223,6 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "Viv\u00eancias",
-        "url": "https://open.spotify.com/album/6VCbpqc4zqIRdBPUPM5F6K"
-      },
-      "artists": [
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        },
-        {
-          "name": "2metro",
-          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Viv\u00eancias",
-      "url": "https://open.spotify.com/track/0jmfZfkd9y1aqT7nvyFssH"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
-        "name": "Deus N\u00e3o Usa Rolex",
-        "url": "https://open.spotify.com/album/03lo8KNZ2ruPaxTgVexzDD"
-      },
-      "artists": [
-        {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
-        }
-      ],
-      "duration_ms": 104582,
-      "name": "Deus N\u00e3o Usa Rolex",
-      "url": "https://open.spotify.com/track/1z4UoXYJNZiyGPfCyLRrWk"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
-        "name": "Reino",
-        "url": "https://open.spotify.com/album/4lIopOsEcjtY3SmrxD0VFs"
-      },
-      "artists": [
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        }
-      ],
-      "duration_ms": 185430,
-      "name": "Reino",
-      "url": "https://open.spotify.com/track/4Fr3nNVFMWozvcucS95j3G"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
         "name": "Ah Teu (Sample: Naquela Mesa)",
         "url": "https://open.spotify.com/album/4jUUWhkXEtqTuMp98OThIv"
       },
@@ -295,6 +239,22 @@
       "duration_ms": 165031,
       "name": "Ah Teu (Sample: Naquela Mesa)",
       "url": "https://open.spotify.com/track/3VYaIt0YgMlaTS6QOhNtF8"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
+        "name": "Reino",
+        "url": "https://open.spotify.com/album/4lIopOsEcjtY3SmrxD0VFs"
+      },
+      "artists": [
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        }
+      ],
+      "duration_ms": 185430,
+      "name": "Reino",
+      "url": "https://open.spotify.com/track/4Fr3nNVFMWozvcucS95j3G"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -339,6 +299,66 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
+        "name": "Viv\u00eancias",
+        "url": "https://open.spotify.com/album/6VCbpqc4zqIRdBPUPM5F6K"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Viv\u00eancias",
+      "url": "https://open.spotify.com/track/0jmfZfkd9y1aqT7nvyFssH"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
+        "name": "Pela Manh\u00e3",
+        "url": "https://open.spotify.com/album/07p5qILARDVfkIH6fQuQ0T"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        },
+        {
+          "name": "F\u00e1bio Casagrande",
+          "url": "https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn"
+        }
+      ],
+      "duration_ms": 132968,
+      "name": "Pela Manh\u00e3",
+      "url": "https://open.spotify.com/track/2QHMbD5U9awGhvHGcVIh5v"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
+        "name": "Deus N\u00e3o Usa Rolex",
+        "url": "https://open.spotify.com/album/03lo8KNZ2ruPaxTgVexzDD"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "duration_ms": 104582,
+      "name": "Deus N\u00e3o Usa Rolex",
+      "url": "https://open.spotify.com/track/1z4UoXYJNZiyGPfCyLRrWk"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
         "name": "Hosana",
         "url": "https://open.spotify.com/album/1I0VpGgH26ul84YeFjoH2r"
       },
@@ -367,58 +387,6 @@
       "duration_ms": 245056,
       "name": "Hosana",
       "url": "https://open.spotify.com/track/1Q6Zk8VtV071NWfIyzzdHY"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
-        "name": "Filhos de Crente #1 - Jesus Invadiu o Ac\u00fastico (feat. Lookas & Noventa)",
-        "url": "https://open.spotify.com/album/3s5vcKGvTawT9YXMojqO9d"
-      },
-      "artists": [
-        {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
-        },
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "Thiag\u00e3o",
-          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
-        },
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        },
-        {
-          "name": "Noventa",
-          "url": "https://open.spotify.com/artist/3yECzJfU6iMdOknE2zPCFK"
-        }
-      ],
-      "duration_ms": 436577,
-      "name": "Filhos de Crente #1 - Jesus Invadiu o Ac\u00fastico (feat. Lookas & Noventa)",
-      "url": "https://open.spotify.com/track/6nb4anyJTi60sdQ0cZWbup"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
-        "name": "Pela Manh\u00e3",
-        "url": "https://open.spotify.com/album/07p5qILARDVfkIH6fQuQ0T"
-      },
-      "artists": [
-        {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
-        },
-        {
-          "name": "F\u00e1bio Casagrande",
-          "url": "https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn"
-        }
-      ],
-      "duration_ms": 132968,
-      "name": "Pela Manh\u00e3",
-      "url": "https://open.spotify.com/track/2QHMbD5U9awGhvHGcVIh5v"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -463,6 +431,26 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
+        "name": "Multiplica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0EeuXelK1qIrhVZ2KGidKM"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        },
+        {
+          "name": "F\u00e1bio Casagrande",
+          "url": "https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn"
+        }
+      ],
+      "duration_ms": 163183,
+      "name": "Multiplica\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/41UOPlYbkLEVr9J0EayDCP"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
         "name": "Paracetamol (Divisa de Fogo)",
         "url": "https://open.spotify.com/album/4Bpp2LO4aQInjYsDnn6vfQ"
       },
@@ -503,26 +491,6 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "Multiplica\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0EeuXelK1qIrhVZ2KGidKM"
-      },
-      "artists": [
-        {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
-        },
-        {
-          "name": "F\u00e1bio Casagrande",
-          "url": "https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn"
-        }
-      ],
-      "duration_ms": 163183,
-      "name": "Multiplica\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/41UOPlYbkLEVr9J0EayDCP"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
         "name": "Cora\u00e7\u00e3o Cansado",
         "url": "https://open.spotify.com/album/647o2SxR5KwJMyiW8UjWwW"
       },
@@ -543,18 +511,34 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "God Feat. Me",
-        "url": "https://open.spotify.com/album/4YtnJjWzn6cLoNXUTYcdct"
+        "name": "Filhos de Crente #1 - Jesus Invadiu o Ac\u00fastico (feat. Lookas & Noventa)",
+        "url": "https://open.spotify.com/album/3s5vcKGvTawT9YXMojqO9d"
       },
       "artists": [
         {
           "name": "VICTIN",
           "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        },
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "Noventa",
+          "url": "https://open.spotify.com/artist/3yECzJfU6iMdOknE2zPCFK"
         }
       ],
-      "duration_ms": 176934,
-      "name": "Mateus 6.6",
-      "url": "https://open.spotify.com/track/3LLyv1b4IX5WjKhs2kuiqZ"
+      "duration_ms": 436577,
+      "name": "Filhos de Crente #1 - Jesus Invadiu o Ac\u00fastico (feat. Lookas & Noventa)",
+      "url": "https://open.spotify.com/track/6nb4anyJTi60sdQ0cZWbup"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -591,70 +575,6 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "Bom Samaritano",
-        "url": "https://open.spotify.com/album/5hNmqwyPIczz0fcNQa0zpn"
-      },
-      "artists": [
-        {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
-        }
-      ],
-      "duration_ms": 133727,
-      "name": "Bom Samaritano",
-      "url": "https://open.spotify.com/track/2ppf3yjN6Z46uHoPXNIOpL"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
-        "name": "Predestinado",
-        "url": "https://open.spotify.com/album/4D0hEnelEJSkEplzl3tfh2"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 162272,
-      "name": "Viv\u00e3o",
-      "url": "https://open.spotify.com/track/06fddvzlWUEew0EGXK7eei"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
-        "name": "Jesus Invadiu a Cena",
-        "url": "https://open.spotify.com/album/6ZYHnkp7z1agh309H04SYA"
-      },
-      "artists": [
-        {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
-        }
-      ],
-      "duration_ms": 206829,
-      "name": "Aff",
-      "url": "https://open.spotify.com/track/3F25r7aIj83DaGs7kVDnP6"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
-        "name": "Ju\u00edzo Final",
-        "url": "https://open.spotify.com/album/6vn7pXMOSJHxTwUYkfNNOf"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        }
-      ],
-      "duration_ms": 149576,
-      "name": "Ju\u00edzo Final",
-      "url": "https://open.spotify.com/track/7tyML8BrEAJJlYWXCrAr0D"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
         "name": "Mais Perto do C\u00e9u",
         "url": "https://open.spotify.com/album/0E8SH7T4JSUJ0anUb20KMP"
       },
@@ -683,18 +603,66 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "PASSAPORTE",
-        "url": "https://open.spotify.com/album/4pjGxdTixPbuJs6YP3C213"
+        "name": "Predestinado",
+        "url": "https://open.spotify.com/album/4D0hEnelEJSkEplzl3tfh2"
       },
       "artists": [
         {
-          "name": "CAIQ",
-          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
         }
       ],
-      "duration_ms": 112000,
-      "name": "PASSAPORTE",
-      "url": "https://open.spotify.com/track/3a4HH2zpxFtPdFTudw33LH"
+      "duration_ms": 162272,
+      "name": "Viv\u00e3o",
+      "url": "https://open.spotify.com/track/06fddvzlWUEew0EGXK7eei"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
+        "name": "God Feat. Me",
+        "url": "https://open.spotify.com/album/4YtnJjWzn6cLoNXUTYcdct"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "duration_ms": 176934,
+      "name": "Mateus 6.6",
+      "url": "https://open.spotify.com/track/3LLyv1b4IX5WjKhs2kuiqZ"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
+        "name": "Bom Samaritano",
+        "url": "https://open.spotify.com/album/5hNmqwyPIczz0fcNQa0zpn"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        }
+      ],
+      "duration_ms": 133727,
+      "name": "Bom Samaritano",
+      "url": "https://open.spotify.com/track/2ppf3yjN6Z46uHoPXNIOpL"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
+        "name": "Ju\u00edzo Final",
+        "url": "https://open.spotify.com/album/6vn7pXMOSJHxTwUYkfNNOf"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        }
+      ],
+      "duration_ms": 149576,
+      "name": "Ju\u00edzo Final",
+      "url": "https://open.spotify.com/track/7tyML8BrEAJJlYWXCrAr0D"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -771,6 +739,22 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
+        "name": "PASSAPORTE",
+        "url": "https://open.spotify.com/album/4pjGxdTixPbuJs6YP3C213"
+      },
+      "artists": [
+        {
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "PASSAPORTE",
+      "url": "https://open.spotify.com/track/3a4HH2zpxFtPdFTudw33LH"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
         "name": "Olho pro C\u00e9u",
         "url": "https://open.spotify.com/album/34rhziCCOtspVNUED09xYb"
       },
@@ -791,6 +775,42 @@
       "duration_ms": 228668,
       "name": "Olho pro C\u00e9u",
       "url": "https://open.spotify.com/track/5m4DYDaq07W0o2dIYGik0S"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
+        "name": "Ladr\u00e3o",
+        "url": "https://open.spotify.com/album/6w145Bh0gJREaGV52bXvmQ"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Ladr\u00e3o",
+      "url": "https://open.spotify.com/track/1S2LdnCSPrV9xxlGEefNDn"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
+        "name": "Jesus Invadiu a Cena",
+        "url": "https://open.spotify.com/album/6ZYHnkp7z1agh309H04SYA"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "duration_ms": 206829,
+      "name": "Aff",
+      "url": "https://open.spotify.com/track/3F25r7aIj83DaGs7kVDnP6"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -819,6 +839,38 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
+        "name": "Pontes, Pt. 2",
+        "url": "https://open.spotify.com/album/203yoUjyzyslGCXeLx9lqB"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        },
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        },
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "LEVII MC",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "Jacinto Manto",
+          "url": "https://open.spotify.com/artist/6A3OIry69tkUAEhQpcVsKv"
+        }
+      ],
+      "duration_ms": 303667,
+      "name": "Se Deus \u00c9 Por Mim (Set Da B\u00ean\u00e7\u00e3o)",
+      "url": "https://open.spotify.com/track/7nmVhG1XDaxVRFEGQX2PEJ"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
         "name": "Controle",
         "url": "https://open.spotify.com/album/4MJLd9rXWPBQONZcUkpVYI"
       },
@@ -831,26 +883,6 @@
       "duration_ms": 184102,
       "name": "Controle",
       "url": "https://open.spotify.com/track/55wOEFXFsswm2z2xGEQOx1"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
-        "name": "Ladr\u00e3o",
-        "url": "https://open.spotify.com/album/6w145Bh0gJREaGV52bXvmQ"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Ladr\u00e3o",
-      "url": "https://open.spotify.com/track/1S2LdnCSPrV9xxlGEefNDn"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -903,38 +935,6 @@
       "duration_ms": 217731,
       "name": "Ac\u00fastico OnSet #1 - Siga Adiante",
       "url": "https://open.spotify.com/track/1lumFVKdKI1ry8laEH1WET"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
-        "name": "Pontes, Pt. 2",
-        "url": "https://open.spotify.com/album/203yoUjyzyslGCXeLx9lqB"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        },
-        {
-          "name": "2metro",
-          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
-        },
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        },
-        {
-          "name": "LEVII MC",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "Jacinto Manto",
-          "url": "https://open.spotify.com/artist/6A3OIry69tkUAEhQpcVsKv"
-        }
-      ],
-      "duration_ms": 303667,
-      "name": "Se Deus \u00c9 Por Mim (Set Da B\u00ean\u00e7\u00e3o)",
-      "url": "https://open.spotify.com/track/7nmVhG1XDaxVRFEGQX2PEJ"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -1223,30 +1223,6 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "Amor \u00c1gape",
-        "url": "https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc"
-      },
-      "artists": [
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 326028,
-      "name": "Amor \u00c1gape",
-      "url": "https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
         "name": "Com Jesus Eu Ganho",
         "url": "https://open.spotify.com/album/5To4bNdV0QW3H6uiXPHo8u"
       },
@@ -1307,6 +1283,46 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
+        "name": "Amor \u00c1gape",
+        "url": "https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 326028,
+      "name": "Amor \u00c1gape",
+      "url": "https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
+        "name": "Notas de um Cora\u00e7\u00e3o Amado",
+        "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 133653,
+      "name": "Al\u00e9m",
+      "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
         "name": "Love Jesus #1 - Caminhos da Vida",
         "url": "https://open.spotify.com/album/1TE4JunRsZ4INVJUTBVsdN"
       },
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "Notas de um Cora\u00e7\u00e3o Amado",
-        "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
+        "name": "Sonhei um Dia",
+        "url": "https://open.spotify.com/album/7J9uOnQv6HNAbDd3P5mkYv"
       },
       "artists": [
         {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+          "name": "Israel Rapper",
+          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
         }
       ],
-      "duration_ms": 133653,
-      "name": "Al\u00e9m",
-      "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
+      "duration_ms": 181134,
+      "name": "Sonhei um Dia",
+      "url": "https://open.spotify.com/track/0wNVe3LOwU2yrFOQleHQAf"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "Sonhei um Dia",
-        "url": "https://open.spotify.com/album/7J9uOnQv6HNAbDd3P5mkYv"
-      },
-      "artists": [
-        {
-          "name": "Israel Rapper",
-          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
-        }
-      ],
-      "duration_ms": 181134,
-      "name": "Sonhei um Dia",
-      "url": "https://open.spotify.com/track/0wNVe3LOwU2yrFOQleHQAf"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
         "name": "Tempestade",
         "url": "https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1"
       },
@@ -1443,26 +1443,18 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/3tKHxULEO1rG2tzXlvGB0U"
+        "name": "Fala pra eles que \u00e9 o Felipin",
+        "url": "https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB"
       },
       "artists": [
         {
           "name": "Felipin",
           "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        },
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 138475,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/6hP6Hoivjj4EruHu06PRmT"
+      "duration_ms": 179016,
+      "name": "Alian\u00e7a",
+      "url": "https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -1507,26 +1499,6 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "Rasgou o V\u00e9u",
-        "url": "https://open.spotify.com/album/1Wh4p4J1SQMjnbMlXZQrKC"
-      },
-      "artists": [
-        {
-          "name": "MARCO AZAUSKI",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
-        },
-        {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Rasgou o V\u00e9u",
-      "url": "https://open.spotify.com/track/4iqxItooSPTbhMm1otVoLu"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
         "name": "777 na Mente",
         "url": "https://open.spotify.com/album/03yWHI8We0NZAfknyQJ0qT"
       },
@@ -1555,6 +1527,50 @@
       "duration_ms": 179310,
       "name": "eu vi",
       "url": "https://open.spotify.com/track/776a4QwYcp91riZRZlAqWt"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/3tKHxULEO1rG2tzXlvGB0U"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        },
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 138475,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/6hP6Hoivjj4EruHu06PRmT"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
+        "name": "Rasgou o V\u00e9u",
+        "url": "https://open.spotify.com/album/1Wh4p4J1SQMjnbMlXZQrKC"
+      },
+      "artists": [
+        {
+          "name": "MARCO AZAUSKI",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+        },
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Rasgou o V\u00e9u",
+      "url": "https://open.spotify.com/track/4iqxItooSPTbhMm1otVoLu"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -1603,22 +1619,6 @@
       "duration_ms": 192000,
       "name": "Teu V\u00f4o",
       "url": "https://open.spotify.com/track/3s1puxrckxaAKtsqGcHuPD"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
-        "name": "Fala pra eles que \u00e9 o Felipin",
-        "url": "https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB"
-      },
-      "artists": [
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Alian\u00e7a",
-      "url": "https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw"
     },
     {
       "added_at": "2024-01-05 13:31:22",

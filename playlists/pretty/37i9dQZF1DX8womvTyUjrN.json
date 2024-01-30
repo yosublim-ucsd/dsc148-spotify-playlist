@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Leon Leiden & DannyLux",
-  "num_followers": 283202,
+  "num_followers": 283207,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmMwNzAwMzY5NTYxZDIyMjk0YjhlODZjZTg0NWNjZjhmMzI1Y2E4",
+  "snapshot_id": "MCw3ZmY4MTMwYjgxNWNhZmM4YTg0MjVjY2I0MDQ4YmNiYzg1MjQ0YjU5",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -159,22 +159,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Extra\u00f1\u00e1ndote",
-        "url": "https://open.spotify.com/album/5wyMJ9XYRHetHFcu8tOowP"
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
       },
       "artists": [
         {
-          "name": "Zhamira Zambrano",
-          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 183157,
-      "name": "Extra\u00f1\u00e1ndote",
-      "url": "https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww"
+      "duration_ms": 162181,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -195,18 +191,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
+        "name": "Extra\u00f1\u00e1ndote",
+        "url": "https://open.spotify.com/album/5wyMJ9XYRHetHFcu8tOowP"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Zhamira Zambrano",
+          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 162181,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
+      "duration_ms": 183157,
+      "name": "Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Demasiado Lejos",
+        "url": "https://open.spotify.com/album/6ffoY6voawepJR0R8xIyQA"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 179123,
+      "name": "Demasiado Lejos",
+      "url": "https://open.spotify.com/track/5ssfE8stObAdewUXpSdG2I"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Te Juro No Te Miento",
         "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
       },
@@ -355,22 +371,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Demasiado Lejos",
-        "url": "https://open.spotify.com/album/6ffoY6voawepJR0R8xIyQA"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 179123,
-      "name": "Demasiado Lejos",
-      "url": "https://open.spotify.com/track/5ssfE8stObAdewUXpSdG2I"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Estemos Donde Estemos",
         "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
       },
@@ -391,26 +391,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
-        "url": "https://open.spotify.com/album/21lNO9EMMnQMQsXytV9ORY"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 162816,
-      "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
-      "url": "https://open.spotify.com/track/4FJHG1aW704Cq66OxuyOrq"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "rompo esquemas",
         "url": "https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 199421,
       "name": "rompo esquemas",
       "url": "https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
+        "url": "https://open.spotify.com/album/21lNO9EMMnQMQsXytV9ORY"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 162816,
+      "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
+      "url": "https://open.spotify.com/track/4FJHG1aW704Cq66OxuyOrq"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "tiroteAo",
-        "url": "https://open.spotify.com/album/79shU5fy5HE8MJp05fYeOh"
-      },
-      "artists": [
-        {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
-        }
-      ],
-      "duration_ms": 153403,
-      "name": "tiroteAo",
-      "url": "https://open.spotify.com/track/0HG1ISOw3yzzKxWbgOxBb0"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "\u00bfPor Qu\u00e9 No Me Fui Antes?",
         "url": "https://open.spotify.com/album/5EsXC7mx9m2O11NHQvr21L"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 167960,
       "name": "\u00bfPor Qu\u00e9 No Me Fui Antes?",
       "url": "https://open.spotify.com/track/6sYMPSRtbjiPjksAfrjszr"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "tiroteAo",
+        "url": "https://open.spotify.com/album/79shU5fy5HE8MJp05fYeOh"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "duration_ms": 153403,
+      "name": "tiroteAo",
+      "url": "https://open.spotify.com/track/0HG1ISOw3yzzKxWbgOxBb0"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -551,6 +551,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "MALVAS",
+        "url": "https://open.spotify.com/album/6kUKwicaYia3sYbgQyEtb2"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        },
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "duration_ms": 183760,
+      "name": "MALVAS",
+      "url": "https://open.spotify.com/track/1MtxOSpyeHEQEUV2NtkK1H"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "POEMA A TUS PROBLEMAS",
         "url": "https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5"
       },
@@ -583,26 +603,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "MALVAS",
-        "url": "https://open.spotify.com/album/6kUKwicaYia3sYbgQyEtb2"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        },
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        }
-      ],
-      "duration_ms": 183760,
-      "name": "MALVAS",
-      "url": "https://open.spotify.com/track/1MtxOSpyeHEQEUV2NtkK1H"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "quise quererte",
         "url": "https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 219786,
       "name": "quise quererte",
       "url": "https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Que La Detengan",
+        "url": "https://open.spotify.com/album/4Ojro0SE46qoa50JqvpOj8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Mart\u00edn",
+          "url": "https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus"
+        }
+      ],
+      "duration_ms": 143265,
+      "name": "Que La Detengan",
+      "url": "https://open.spotify.com/track/26SAg6zRb3JpoyEXmcXxe0"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -655,22 +671,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Que La Detengan",
-        "url": "https://open.spotify.com/album/4Ojro0SE46qoa50JqvpOj8"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Mart\u00edn",
-          "url": "https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus"
-        }
-      ],
-      "duration_ms": 143265,
-      "name": "Que La Detengan",
-      "url": "https://open.spotify.com/track/26SAg6zRb3JpoyEXmcXxe0"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "La Dosis",
         "url": "https://open.spotify.com/album/6REG6XsOTiPC2c7h7LfWVq"
       },
@@ -687,6 +687,26 @@
       "duration_ms": 175282,
       "name": "La Dosis",
       "url": "https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "La Mexicana",
+        "url": "https://open.spotify.com/album/5JBNbex1k3qqo57JwIZUTA"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 149741,
+      "name": "La Mexicana",
+      "url": "https://open.spotify.com/track/09d92ol4KHLqTx0nu9vbxZ"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -723,38 +743,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "La Mexicana",
-        "url": "https://open.spotify.com/album/5JBNbex1k3qqo57JwIZUTA"
+        "name": "Demasiado",
+        "url": "https://open.spotify.com/album/1JFyrOT7y6kSLBO7r7XZlx"
       },
       "artists": [
         {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
         },
         {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
         }
       ],
-      "duration_ms": 149741,
-      "name": "La Mexicana",
-      "url": "https://open.spotify.com/track/09d92ol4KHLqTx0nu9vbxZ"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Inevitable",
-        "url": "https://open.spotify.com/album/2c8xgsmbLIgMm1x6lLKBd4"
-      },
-      "artists": [
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 188405,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/4DyVhH4VtUcl42sNJgp0wr"
+      "duration_ms": 170250,
+      "name": "Demasiado",
+      "url": "https://open.spotify.com/track/28fOb3d0iXy21ROKrBEo9H"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -775,22 +779,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Demasiado",
-        "url": "https://open.spotify.com/album/1JFyrOT7y6kSLBO7r7XZlx"
+        "name": "Inevitable",
+        "url": "https://open.spotify.com/album/2c8xgsmbLIgMm1x6lLKBd4"
       },
       "artists": [
         {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
         }
       ],
-      "duration_ms": 170250,
-      "name": "Demasiado",
-      "url": "https://open.spotify.com/track/28fOb3d0iXy21ROKrBEo9H"
+      "duration_ms": 188405,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/4DyVhH4VtUcl42sNJgp0wr"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Enemigos",
-        "url": "https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv"
+        "name": "Introspecci\u00f3n",
+        "url": "https://open.spotify.com/album/33tRyIKhIzBW2Y8eufDMFx"
       },
       "artists": [
         {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
         }
       ],
-      "duration_ms": 157375,
-      "name": "Enemigos",
-      "url": "https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7"
+      "duration_ms": 132610,
+      "name": "Vale Madres",
+      "url": "https://open.spotify.com/track/02YhaoVERYV2QhGq8NEYnZ"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Introspecci\u00f3n",
-        "url": "https://open.spotify.com/album/33tRyIKhIzBW2Y8eufDMFx"
-      },
-      "artists": [
-        {
-          "name": "Alex Luna",
-          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
-        }
-      ],
-      "duration_ms": 132610,
-      "name": "Vale Madres",
-      "url": "https://open.spotify.com/track/02YhaoVERYV2QhGq8NEYnZ"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Como Si Nada",
         "url": "https://open.spotify.com/album/4a8vhvGoU8VFZvE3Hrc7RI"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 186209,
       "name": "Como Si Nada",
       "url": "https://open.spotify.com/track/0WOZZpdj3HKxYKtZlLjdJg"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Enemigos",
+        "url": "https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "duration_ms": 157375,
+      "name": "Enemigos",
+      "url": "https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "medio vac\u00edo",
-        "url": "https://open.spotify.com/album/5WLapTTLMjeF2g1bJPcTNy"
-      },
-      "artists": [
-        {
-          "name": "Alex Wall",
-          "url": "https://open.spotify.com/artist/4ea330FfNhtiTABdSJZthp"
-        }
-      ],
-      "duration_ms": 185163,
-      "name": "medio vac\u00edo",
-      "url": "https://open.spotify.com/track/68bWtlDEUAV5l0bJPUr1sr"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Que Chimbo",
         "url": "https://open.spotify.com/album/3F5sgJGuvlRmuaV7YQnsvX"
       },
@@ -1135,18 +1119,34 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "MAGIA NEGRA",
-        "url": "https://open.spotify.com/album/4XnM8cvuYpAjfR3bXwoXEc"
+        "name": "medio vac\u00edo",
+        "url": "https://open.spotify.com/album/5WLapTTLMjeF2g1bJPcTNy"
       },
       "artists": [
         {
-          "name": "Le Coco",
-          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
+          "name": "Alex Wall",
+          "url": "https://open.spotify.com/artist/4ea330FfNhtiTABdSJZthp"
         }
       ],
-      "duration_ms": 214349,
-      "name": "MAGIA NEGRA",
-      "url": "https://open.spotify.com/track/1E71uY1krMSN6fyX7zOt2L"
+      "duration_ms": 185163,
+      "name": "medio vac\u00edo",
+      "url": "https://open.spotify.com/track/68bWtlDEUAV5l0bJPUr1sr"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "HAGAMOS EL AMOR",
+        "url": "https://open.spotify.com/album/3y4NdIxEf3e3amKDYQi3YB"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "HAGAMOS EL AMOR",
+      "url": "https://open.spotify.com/track/1pWKdA1ToVsC2mxc5mqzQS"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "MAGIA NEGRA",
+        "url": "https://open.spotify.com/album/4XnM8cvuYpAjfR3bXwoXEc"
+      },
+      "artists": [
+        {
+          "name": "Le Coco",
+          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
+        }
+      ],
+      "duration_ms": 214349,
+      "name": "MAGIA NEGRA",
+      "url": "https://open.spotify.com/track/1E71uY1krMSN6fyX7zOt2L"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Diciembre Fr\u00edo",
         "url": "https://open.spotify.com/album/1DanZPzGDbBYuMeFVgloC5"
       },
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "HAGAMOS EL AMOR",
-        "url": "https://open.spotify.com/album/3y4NdIxEf3e3amKDYQi3YB"
+        "name": "Fase de Pat\u00e1n",
+        "url": "https://open.spotify.com/album/1sD67oWrgWt8HTZFDObkbW"
       },
       "artists": [
         {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
         }
       ],
-      "duration_ms": 162373,
-      "name": "HAGAMOS EL AMOR",
-      "url": "https://open.spotify.com/track/1pWKdA1ToVsC2mxc5mqzQS"
+      "duration_ms": 144955,
+      "name": "Fase De Pat\u00e1n",
+      "url": "https://open.spotify.com/track/6zcJSq4x31DHjwIWUzGyjs"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1219,22 +1235,6 @@
       "duration_ms": 210707,
       "name": "bubble gum",
       "url": "https://open.spotify.com/track/2MWaS0ko4ABFXulETnZ3m4"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Fase de Pat\u00e1n",
-        "url": "https://open.spotify.com/album/1sD67oWrgWt8HTZFDObkbW"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 144955,
-      "name": "Fase De Pat\u00e1n",
-      "url": "https://open.spotify.com/track/6zcJSq4x31DHjwIWUzGyjs"
     },
     {
       "added_at": "2024-01-26 05:00:00",

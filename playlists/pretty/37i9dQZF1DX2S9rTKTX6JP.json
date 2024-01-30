@@ -1,12 +1,12 @@
 {
   "description": "The very best rock covers. Cover: Dolly Parton",
-  "num_followers": 668573,
+  "num_followers": 668657,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmRhMTE4YjI2ZGY1ZDYyZjRlNzFiNjc3NDBmMTE4MmE1ZjlkNGUx",
+  "snapshot_id": "MCwzOGQ5NjU2ZjMxMGQ1NmRjNDJjNDMxOWNlYjE3MzMxOWNmNjQ1NGY2",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -72,7 +72,7 @@
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "Burn the Ships",
-        "url": "https://open.spotify.com/album/27TGyW8JaXeWo971FPfKUi"
+        "url": "https://open.spotify.com/album/3o8Cmmh3bULwiqQY2SqeOz"
       },
       "artists": [
         {
@@ -82,7 +82,7 @@
       ],
       "duration_ms": 265476,
       "name": "Dream On",
-      "url": "https://open.spotify.com/track/5Z3DfEnGBOKC5XMjNlJ8qm"
+      "url": "https://open.spotify.com/track/3zOlblZcFlt12XXAnS1ItD"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+        "name": "Immortalized",
+        "url": "https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
         }
       ],
-      "duration_ms": 182733,
-      "name": "Live And Let Die",
-      "url": "https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR"
+      "duration_ms": 248466,
+      "name": "The Sound of Silence",
+      "url": "https://open.spotify.com/track/1Cj2vqUwlJVG27gJrun92y"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Immortalized",
-        "url": "https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK"
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
       "artists": [
         {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 248466,
-      "name": "The Sound of Silence",
-      "url": "https://open.spotify.com/track/1Cj2vqUwlJVG27gJrun92y"
+      "duration_ms": 182733,
+      "name": "Live And Let Die",
+      "url": "https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Age Of Ignorance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 249411,
-      "name": "Skyfall",
-      "url": "https://open.spotify.com/track/77WO0JSWRfhu0ek3Zp2amk"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 199386,
       "name": "Addicted To Love",
       "url": "https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Age Of Ignorance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 249411,
+      "name": "Skyfall",
+      "url": "https://open.spotify.com/track/77WO0JSWRfhu0ek3Zp2amk"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "DJ Got Us Fallin in Love",
-        "url": "https://open.spotify.com/album/7BlAqQCFaGeZ74asl8SvGL"
-      },
-      "artists": [
-        {
-          "name": "Her Bright Skies",
-          "url": "https://open.spotify.com/artist/2bbUP7SmbTeujkLaOa6IGI"
-        }
-      ],
-      "duration_ms": 215922,
-      "name": "DJ Got Us Fallin in Love",
-      "url": "https://open.spotify.com/track/5QOWi9IVukyO3DGOIBM5To"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Pisces Iscariot (Remastered)",
         "url": "https://open.spotify.com/album/0WMWadJs4xUOIv5bmgR79W"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 190586,
       "name": "Landslide - Remastered",
       "url": "https://open.spotify.com/track/2dc1BYopTHgviDXawShfME"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "DJ Got Us Fallin in Love",
+        "url": "https://open.spotify.com/album/7BlAqQCFaGeZ74asl8SvGL"
+      },
+      "artists": [
+        {
+          "name": "Her Bright Skies",
+          "url": "https://open.spotify.com/artist/2bbUP7SmbTeujkLaOa6IGI"
+        }
+      ],
+      "duration_ms": 215922,
+      "name": "DJ Got Us Fallin in Love",
+      "url": "https://open.spotify.com/track/5QOWi9IVukyO3DGOIBM5To"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Eleanor Rigby",
-        "url": "https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 177413,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2CrS7PVRbhHm0DPqIDm8fY"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 284935,
       "name": "The Only Exception - Spotify Single",
       "url": "https://open.spotify.com/track/3aemIcBosf7udts37BAvXx"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Eleanor Rigby",
+        "url": "https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 177413,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "DANSE MACABRE",
-        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 265547,
-      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
-      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Origin (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 203520,
       "name": "Fortunate Son",
       "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "DANSE MACABRE",
+        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 265547,
+      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
+      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
     },
     {
       "added_at": "2023-11-17 05:00:00",

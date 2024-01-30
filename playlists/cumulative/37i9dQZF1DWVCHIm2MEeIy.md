@@ -4,7 +4,7 @@
 
 > The dancefloor is the place to be 🪩
 
-360 songs - 1 day 8 hr 50 min
+361 songs - 1 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Haute Definition](https://open.spotify.com/track/5ogJoH7CMHtyxIsxExxm4B) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [Dissidænce Episode 1](https://open.spotify.com/album/3x4w1TdlWi3d81ibVmR4Lj) | 3:58 | 2022-04-15 | 2024-01-27 |
 | [Heart on Hold \- Hidden Empire Remix](https://open.spotify.com/track/5YkdbdZ2MXUZGP4u4q4nK9) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM), [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Heart on Hold \(Hidden Empire Remix\)](https://open.spotify.com/album/1aQjZKJ5wB93EZVv5hSQoy) | 5:46 | 2023-11-14 | 2023-11-28 |
 | [Heaven \- Oliver Schories Club Mix](https://open.spotify.com/track/2ZtjuNdPKbiRlxCAm7J8Tt) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [Heaven \(Oliver Schories Club Mix\)](https://open.spotify.com/album/2n0qGGx3bVrgRBTu3P3Stn) | 3:45 | 2022-10-14 | 2023-11-16 |
+| [Hera \- Radio Edit](https://open.spotify.com/track/0jKXCKiiW0HBsWVJSrg713) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Hera](https://open.spotify.com/album/6jY3lRLOJoWlCV6LCHjY5y) | 3:25 | 2024-01-26 |  |
 | [Hera \- Radio Edit](https://open.spotify.com/track/3vvI4AgjiuPerFxIkhLxXy) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Hera](https://open.spotify.com/album/7zCZCLV0eO0TPCxl3iFobd) | 3:25 | 2023-11-14 | 2024-01-21 |
 | [HI](https://open.spotify.com/track/5x0lhxt4DBf7ja3RRCLCXF) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [HI](https://open.spotify.com/album/2wj4oyjeXPn6XlGxsaqAmB) | 8:25 | 2022-04-15 | 2022-05-19 |
 | [Higher Dimension](https://open.spotify.com/track/4PYmuwsR4TcCXEr2PBhrXi) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Fat Cosmoe](https://open.spotify.com/artist/1BsQxCEbgRXSMX6uCXIp31), [Wennink](https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk) | [Higher Dimension](https://open.spotify.com/album/0p1SwlD81kC5zvGuOyhoFg) | 6:36 | 2022-05-20 | 2022-06-21 |
@@ -211,7 +212,7 @@
 | [Monolith](https://open.spotify.com/track/2TBCjgsbpGpf664aA0V5B2) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Monolith](https://open.spotify.com/album/3fpazL83dR1sdhVixTXarD) | 6:31 | 2022-11-25 | 2023-09-02 |
 | [Monsterbüro](https://open.spotify.com/track/2OtYRMgTANHk5hhOm3O37t) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea) | [Monsterbüro](https://open.spotify.com/album/1L9aMaYiUug54NBwgiveNl) | 6:55 | 2022-04-15 | 2022-06-15 |
 | [Moonspell](https://open.spotify.com/track/1ffXmvAVzxOGTbsxgKxJrk) | [Elif \(TR\)](https://open.spotify.com/artist/1yatuhSYBeceXdDRg67hrm), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Moonspell](https://open.spotify.com/album/0XoIr7qWzP0nAY80UmnLAF) | 7:46 | 2022-04-15 | 2022-06-01 |
-| [More Than You Know](https://open.spotify.com/track/1SnX2vQo16bLlFREsoRyw7) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [More Than You Know](https://open.spotify.com/album/3NMghT86mTUt2EPd1aRnhN) | 6:38 | 2024-01-26 |  |
+| [More Than You Know](https://open.spotify.com/track/1SnX2vQo16bLlFREsoRyw7) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [More Than You Know](https://open.spotify.com/album/3NMghT86mTUt2EPd1aRnhN) | 6:38 | 2024-01-26 | 2024-01-30 |
 | [Morning Glow \- Edit](https://open.spotify.com/track/0TwiKyrgJ7dRykmg5jpjHH) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Morning Glow \(Edit\)](https://open.spotify.com/album/0VJJHbw6jcGCjU90REt3wF) | 3:01 | 2022-04-15 | 2022-07-20 |
 | [Move](https://open.spotify.com/track/0fouEhRoo3FApnQPIXKgOY) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Kinky Sound](https://open.spotify.com/artist/6oIco6H7xclBUVQpEeCTnl) | [Move](https://open.spotify.com/album/2O1q3IboqaR8KEDRy2cDRc) | 5:25 | 2022-10-28 | 2022-11-30 |
 | [Moving On](https://open.spotify.com/track/0LJ33gGNQlxoLJlOsZLGNE) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [The Valley EP](https://open.spotify.com/album/1ggOs7osv7Gtv6w5Pf9rwl) | 3:25 | 2022-10-14 | 2023-07-13 |

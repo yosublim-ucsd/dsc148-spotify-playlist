@@ -128,10 +128,28 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 178986,
       "name": "by the end of the night",
       "url": "https://open.spotify.com/track/0yrGcbCjEwowGuETML0NOT"
+    },
+    {
+      "album": {
+        "name": "by the end of the night",
+        "url": "https://open.spotify.com/album/3c7NyXa96w0Ei3HmjXyzVC"
+      },
+      "artists": [
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178986,
+      "name": "by the end of the night",
+      "url": "https://open.spotify.com/track/6DFch1r1JwISZRgkqR7NQs"
     },
     {
       "album": {
@@ -164,7 +182,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 176989,
       "name": "Freezing",
       "url": "https://open.spotify.com/track/7reh67rES37v1n9grDX6HO"
@@ -182,7 +200,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 177216,
       "name": "Freezing",
       "url": "https://open.spotify.com/track/61ypmrpI4Duo6Sn2Tbr3jo"
@@ -474,6 +492,24 @@
       "duration_ms": 197466,
       "name": "Truth Is",
       "url": "https://open.spotify.com/track/25JGrdT3bi62ZzPeNxZiBu"
+    },
+    {
+      "album": {
+        "name": "Two Hands",
+        "url": "https://open.spotify.com/album/14ISDS5Xh5QsS8NZN6H20l"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182733,
+      "name": "Two Hands",
+      "url": "https://open.spotify.com/track/523F1pQJh1P4JKvbVOgDU7"
     },
     {
       "album": {

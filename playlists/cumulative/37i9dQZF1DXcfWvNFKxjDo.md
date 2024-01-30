@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: BENNETT, Indila
 
-751 songs - 1 day 10 hr 33 min
+752 songs - 1 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,8 @@
 | [Harmonies](https://open.spotify.com/track/5WSomiwanobl9ts3g1mKxw) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2) | [Harmonies](https://open.spotify.com/album/29PK9D8G8t3sbSJUJDVisz) | 2:53 | 2023-11-17 | 2023-12-09 |
 | [Hated On \(Funkatron\)](https://open.spotify.com/track/0BGMkKTFjUrznBsbpnqsQt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP) | [Hated On \(Funkatron\)](https://open.spotify.com/album/65z5rSxOEzyMFdu6FbGCOO) | 3:07 | 2024-01-18 |  |
 | [Head Down](https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Head Down](https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2) | 2:53 | 2023-12-29 | 2024-01-19 |
-| [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 | 2024-01-25 |  |
+| [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 | 2024-01-25 | 2024-01-30 |
+| [Head Up](https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp) | 3:09 | 2024-01-26 |  |
 | [Hear Me Now \(Alok Remix\)](https://open.spotify.com/track/3FwGPAu9qxJrNzKNn1HP1n) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Hear Me Now \(Alok Remix\)](https://open.spotify.com/album/1tjKFbLvH3Ee5OJF6nk5T6) | 3:07 | 2023-10-19 | 2023-11-11 |
 | [Heard It Like This](https://open.spotify.com/track/6HtjJ09kCJbaQSrazLVEGr) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Heard It Like This](https://open.spotify.com/album/0YPe5oH70RPB9HAGkpXmQ9) | 3:40 | 2023-10-19 | 2023-11-11 |
 | [Heart For Tonight](https://open.spotify.com/track/5BO9lHGZ1ve4GaznPVkPhM) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Heart For Tonight](https://open.spotify.com/album/1900d6yBhXOtMJfliiWBt2) | 2:12 | 2023-10-12 | 2023-11-11 |

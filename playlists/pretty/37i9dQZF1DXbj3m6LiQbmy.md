@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana\. Giolì & Assia in cover! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,068 likes - 76 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,099 likes - 76 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 75 | [Parigi \(mi manchi\) \- Hey Cabrera! Remix](https://open.spotify.com/track/0uf3THPz59F1SmobBeTgaB) | [Thomas Costantin](https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW), [Hey Cabrera!](https://open.spotify.com/artist/4mGJlxDbUm6OelkTrUDSoW) | [Le città](https://open.spotify.com/album/6QWVKKra5NxI0AlS4h4u0t) | 4:24 |
 | 76 | [S.T.A.R.](https://open.spotify.com/track/05cY2YCQeXQ1Mn2Iui62ws) | [Playgirls from Caracas](https://open.spotify.com/artist/2DtlP0AAGRMHdesTux8mu9), [Lilith Primavera](https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019) | [S.T.A.R.](https://open.spotify.com/album/6TrBVo7n8yiRADPe3Lb8gh) | 3:38 |
 
-Snapshot ID: `MCwxNDFjODNmY2RiOTVlMjBjNzBlOTYwNGE1NGM3NTEyZTk4MmM0YjNi`
+Snapshot ID: `MCxkOGQyNDMxNjE4ZDkzYjUxNTRhZTIzNmM2OTBmOTYxNTgwMzI4NGIx`

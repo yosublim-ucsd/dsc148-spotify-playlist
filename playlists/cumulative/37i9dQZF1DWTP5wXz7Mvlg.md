@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1rd51IrbtX9DqoU0Zxu4TV">DJ Marky</a>'s favourite tracks\. Updated regularly\. Curated by DJ Marky\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-112 songs - 8 hr 33 min
+113 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Call In Me](https://open.spotify.com/track/0QyBzJDGe81YNJXu4hmW5x) | [Phase](https://open.spotify.com/artist/3VNrSQLu9M0oEoybY7mL53), [Grey Code](https://open.spotify.com/artist/7KzRXWiO7ggx1pbXccMSTm) | [Call In Me](https://open.spotify.com/album/3YHIA65weRT7thGIrOsedL) | 6:24 | 2022-07-11 | 2023-07-22 |
 | [Camels](https://open.spotify.com/track/6Dvbm1h0w7fRcRnqxPOPqo) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Camels / Overthinking](https://open.spotify.com/album/0Tl8BA4JRmdGy1m32BMH1m) | 4:30 | 2023-07-21 |  |
 | [Candy Bass](https://open.spotify.com/track/19PlTpVVLSInv7o92X9WND) | [DJ Hazard](https://open.spotify.com/artist/04rhebO91K6xoiXE0XuDkh) | [Stranger Danger / Candy Bass](https://open.spotify.com/album/1gCCiszgUt4WZESdnxTzYI) | 3:44 | 2022-07-11 | 2023-07-22 |
-| [Caramel](https://open.spotify.com/track/3woSieU9aSdXUQsRUmnDsp) | [Urbandawn](https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX), [Alibi](https://open.spotify.com/artist/4nBPbiPjcXskHFjQ3IE63T) | [500](https://open.spotify.com/album/0kV6vns2tdbfSXgq3woZUy) | 4:34 | 2023-07-21 |  |
+| [Caramel](https://open.spotify.com/track/3woSieU9aSdXUQsRUmnDsp) | [Urbandawn](https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX), [Alibi](https://open.spotify.com/artist/4nBPbiPjcXskHFjQ3IE63T) | [500](https://open.spotify.com/album/0kV6vns2tdbfSXgq3woZUy) | 4:34 | 2023-07-21 | 2024-01-30 |
+| [Caramel](https://open.spotify.com/track/4YFnpYcxX35R7r33597mAR) | [Urbandawn](https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX), [Alibi](https://open.spotify.com/artist/4nBPbiPjcXskHFjQ3IE63T) | [Caramel](https://open.spotify.com/album/60pmwL3Jsp3XViEgcxFZgK) | 4:34 | 2023-07-21 |  |
 | [Caramel](https://open.spotify.com/track/7iWLJWtzihu0xrJGDk8jQR) | [Urbandawn](https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX), [Alibi](https://open.spotify.com/artist/64AcsjHBz0mv71VKuQfmXV) | [Caramel](https://open.spotify.com/album/4b7NaIi0vnorprCkLjr2q1) | 4:34 | 2023-07-21 | 2023-09-09 |
 | [Changing Moods](https://open.spotify.com/track/2yJFxmKxB3B2OX6M9CFFP3) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Lorna King](https://open.spotify.com/artist/0uwrXVfgTsoEzyJs4qytIC) | [Changing Moods](https://open.spotify.com/album/0F34OSuJLMMbmVG4IyITXW) | 4:29 | 2023-07-21 |  |
 | [Changing Moods](https://open.spotify.com/track/65GTRsXRYgSh6Se0ziQ6ep) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Lorna King](https://open.spotify.com/artist/0uwrXVfgTsoEzyJs4qytIC) | [Innerground 100](https://open.spotify.com/album/51VA7pPbQh9AZxv8LDchbS) | 4:29 | 2022-07-11 | 2023-09-17 |

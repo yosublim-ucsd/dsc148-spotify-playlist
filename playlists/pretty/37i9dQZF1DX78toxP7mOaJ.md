@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: The Thing
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,428 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,477 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 53 | [Compete](https://open.spotify.com/track/6UIt6fh0ElnYgiu6yHWey9) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Compete](https://open.spotify.com/album/7amsgxtqnmOBIBCMmNnqLz) | 2:59 |
 | 54 | [The Other End](https://open.spotify.com/track/2dZ5guEuV4s2MoMGRsv4rj) | [Taking Meds](https://open.spotify.com/artist/1SQ5kDSYuCb4qOJx5itFxz) | [The Other End](https://open.spotify.com/album/1itrVD0UAkR2XJjMVjF4nM) | 3:23 |
 | 55 | [oh well](https://open.spotify.com/track/2ZnqebkfOu2u8dV0hMLwtb) | [bugsy](https://open.spotify.com/artist/550HK4Z4yrcThhCm0An7NZ) | [oh well](https://open.spotify.com/album/4U6HcoQYaecJaxqwQELrib) | 3:33 |
-| 56 | [Big Air](https://open.spotify.com/track/33DjR40rZu7Nhr8oQQnl7o) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Spiel](https://open.spotify.com/album/6MYpD839kq2hZu0pfWFPAh) | 3:26 |
+| 56 | [Big Air](https://open.spotify.com/track/4CV3vmoI1mExWRTcGCsKTc) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Spiel](https://open.spotify.com/album/38uN3ZQLCnEz7LhFq5Y2Qh) | 3:26 |
 | 57 | [Big Fish](https://open.spotify.com/track/7kY5rVq2LKZN2bjVryVN7A) | [Snarls](https://open.spotify.com/artist/3yZV7kMGClXfw0xaPAlImS) | [Big Fish](https://open.spotify.com/album/5FFr5TtGcTd1QGjSd7eVLG) | 3:28 |
 | 58 | [Silencer](https://open.spotify.com/track/6oaojdApsszEW6ZROqkxrO) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha) | [Silencer](https://open.spotify.com/album/14NCGatMxEaxT6ctrtQUBM) | 3:09 |
 | 59 | [Day One](https://open.spotify.com/track/3FhGJYW3fRgil5qJVBh9lK) | [Tribe Friday](https://open.spotify.com/artist/27Hd2l3rnMm3JL9hm31RE7) | [Hemma](https://open.spotify.com/album/7oZ2K8xEGBYIXdUg6Ha6vH) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [It's A Pain](https://open.spotify.com/track/6fYQfO8TdcHsrGsyiHcbP6) | [Bummer Camp](https://open.spotify.com/artist/03PQWgjoaJt88TpMi1dmm5) | [Big Deal](https://open.spotify.com/album/4hclPpxh4OdsHhYc14TpQV) | 2:54 |
 | 100 | [Half Tank](https://open.spotify.com/track/6eeTmM6NgqFKxEyvbN8e5d) | [Wet Nights](https://open.spotify.com/artist/6KfM7n9lgcfBmiz9vrhqF3) | [Half Tank](https://open.spotify.com/album/2cNScKizCqLxWx4REOJ7BF) | 4:06 |
 
-Snapshot ID: `MCw1YTYxYzNhN2ExZTU1YTFjMWUxYjI3OTBmNjhlOTQ3NGY2Y2Y0ZDEw`
+Snapshot ID: `MCxkZDljMTllNWFlODg1MTIzZTk4ZjNjMWQ2Y2EyOTIzMzA4NTBkZWRk`

@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,376 songs - 2 day 3 hr 50 min
+1,377 songs - 2 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,6 +562,7 @@
 | [If It Rains](https://open.spotify.com/track/5fpRmkeWY2XHqVJDZgGP9J) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [If It Rains](https://open.spotify.com/album/1DumN0sb25DgpQYzUjxQ6k) | 1:54 | 2023-03-08 |  |
 | [Ilene](https://open.spotify.com/track/0Y5hAGvfwXoQnjWEd90ju2) | [Blutone](https://open.spotify.com/artist/6C3HjDxIciOd8XvkEnNamY) | [Sharingan](https://open.spotify.com/album/5ISSZnA4V8C7eCia0WIhsY) | 2:09 | 2022-01-27 | 2023-06-06 |
 | [Illuminated](https://open.spotify.com/track/7JGzBYYOPMpR4J0bttU32b) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Illuminated](https://open.spotify.com/album/0FmNls6a4NskzGGH4JiFtd) | 1:49 | 2023-03-08 |  |
+| [immanent](https://open.spotify.com/track/1N1TBYrQ2VGKzQ1JyTMXSq) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [immanent](https://open.spotify.com/album/60Rh4kHbkGV8YojGWysb5v) | 2:22 | 2024-01-19 |  |
 | [Imperfections](https://open.spotify.com/track/5r8XVRTEAFBJFHWPlqMJ4m) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Imperfections](https://open.spotify.com/album/6JNuMqF0exqLWCleqcKL7c) | 2:18 | 2022-10-28 | 2023-02-25 |
 | [In My Mind](https://open.spotify.com/track/79Qncq9X02HoE3AvSz7HZt) | [Raven Paradox](https://open.spotify.com/artist/6kOg93cYVJ8rQile4irBtc) | [In My Mind](https://open.spotify.com/album/3xrXU507RQMBgeqPo54hha) | 1:38 | 2022-09-09 | 2023-09-16 |
 | [In Parallell](https://open.spotify.com/track/2CV7GxX3vg5GYqBORRdCpR) | [Interscope](https://open.spotify.com/artist/288kcmSAmoRYgLiRKXTeZt) | [In Parallell](https://open.spotify.com/album/0GLUqN8vKfHSPsYsDwcWM1) | 1:46 | 2022-01-27 | 2022-06-10 |
@@ -819,7 +820,7 @@
 | [New Canary in Town](https://open.spotify.com/track/0kDJu1vVdvQd8zgoGMTjNr) | [Zoozzy](https://open.spotify.com/artist/6KnbMTPGZkiurTMRHRFYSC) | [New Canary in Town](https://open.spotify.com/album/5krBS3qtNJngoj6GKJwmtq) | 3:17 | 2022-01-27 | 2023-05-20 |
 | [New Day](https://open.spotify.com/track/7tfPRq7O7QsyddB0LmLBhJ) | [Azido 88](https://open.spotify.com/artist/36Hfqd2C0x7oulFJTAuIt0), [Moon Ghetto](https://open.spotify.com/artist/13Z78tf8milV5V0tcNwVq0) | [New Day](https://open.spotify.com/album/4ZROMfhzXmzeA6SkgoiBMD) | 1:48 | 2023-01-20 |  |
 | [New Day Coming](https://open.spotify.com/track/6WCjNK192Wl9xDtwe5yMP7) | [Lvnt](https://open.spotify.com/artist/0lJBgFBswR7nf4TrKtwZQt) | [New Day Coming](https://open.spotify.com/album/4BNTLPkgMihGja5aBAkk89) | 2:37 | 2022-09-30 | 2023-09-22 |
-| [new era](https://open.spotify.com/track/2OEy7mdr3nqCLXLXz5KX02) | [rollerbladie](https://open.spotify.com/artist/2v1qbZxflMpzbTQSQfmwah) | [new era](https://open.spotify.com/album/6EaOjZA4k52UfZO5Tqhhu6) | 2:12 | 2023-05-19 |  |
+| [new era](https://open.spotify.com/track/2OEy7mdr3nqCLXLXz5KX02) | [rollerbladie](https://open.spotify.com/artist/2v1qbZxflMpzbTQSQfmwah) | [new era](https://open.spotify.com/album/6EaOjZA4k52UfZO5Tqhhu6) | 2:12 | 2023-05-19 | 2024-01-30 |
 | [New Sneakers](https://open.spotify.com/track/3Y5XXeKGhFDZjKzXDbAeNX) | [Guy Rickard](https://open.spotify.com/artist/0YxB3L46MotRo4ngOeOB5M), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [New Sneakers](https://open.spotify.com/album/1nZCM4YAGBf6CgKuLUCxIx) | 2:18 | 2022-11-11 | 2023-09-29 |
 | [newton photographs.](https://open.spotify.com/track/5rXLp36x4fIeyvxRLO5Zzz) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [newton photographs.](https://open.spotify.com/album/1b52CvnaTEWegZejdI276b) | 1:52 | 2023-05-19 | 2023-11-08 |
 | [Next Chapter](https://open.spotify.com/track/1iPLQ6VARP7lFaE45ezw3W) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Next Chapter](https://open.spotify.com/album/6P1Rhjg3KWMHTXPXzj9qtS) | 1:36 | 2022-01-27 | 2022-06-10 |

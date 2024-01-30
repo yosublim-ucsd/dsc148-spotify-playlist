@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Ninajirachi, Izzy Camina
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,649 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,654 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 8 | [Care About Us \(feat\. Ebenezer\)](https://open.spotify.com/track/7rztNRexBl8QEdtKB6Cr91) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Ebenezer](https://open.spotify.com/artist/2vik8lyw8WiALKMJK7C3hn) | [London Sound](https://open.spotify.com/album/5jguHiPnYKnCubpuOZskLY) | 2:28 |
 | 9 | [Cheeky](https://open.spotify.com/track/7xePsiaOdxT9lkTck9Uv8t) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Cheeky](https://open.spotify.com/album/6lLyrH0Und9dYATr4F9Pjh) | 2:22 |
 | 10 | [Bring That Back](https://open.spotify.com/track/0zoSIutqFnFhDuUVrkIG7X) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Bring That Back](https://open.spotify.com/album/4mdooGwGTnkUJT01QY5K8L) | 3:08 |
-| 11 | [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 |
+| 11 | [Head Up](https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp) | 3:09 |
 | 12 | [HOLLER](https://open.spotify.com/track/3orvFPnojxfKoERuNyvdke) | [CLYPSO](https://open.spotify.com/artist/0PLRwyoWBDRiK3QnflnDbd) | [HOLLER](https://open.spotify.com/album/7CiNp8IdfmHoOhNNSl3oOB) | 2:46 |
 | 13 | [Tonic \(Edit\)](https://open.spotify.com/track/4b9disSqE7Yvxgpo4W7lB5) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Tonic](https://open.spotify.com/album/4xbLjgXZNRWrMhWcWe7ww1) | 4:39 |
 | 14 | [Drums \(Feat\. Kim Petras\) \- Wh0 Remix](https://open.spotify.com/track/6MMWo7QxyXXmwT39mmLhVJ) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Drums \(Feat\. Kim Petras\) \[Wh0 Remix\]](https://open.spotify.com/album/5hKgd8c1Pac9VT0UqRQA3k) | 3:18 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 19 | [Gleams](https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Gleams](https://open.spotify.com/album/4YrxxFmElZO6FgUjc8R3Lo) | 4:53 |
 | 20 | [Sleepwalker](https://open.spotify.com/track/4yMlRQSTRQCzU8cUdQ8Bw1) | [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5), [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W) | [Sleepwalker](https://open.spotify.com/album/75iz2e1Ak9AEQUpOcIiaZ7) | 3:31 |
 | 21 | [Perfect \(Exceeder\) \- 1991 Remix](https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM), [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Perfect \(Exceeder\) \[1991 Remix\]](https://open.spotify.com/album/32pP9IByNHcFzL4Hlr6cob) | 3:20 |
-| 22 | [Given The Chance \(ILLENIUM Remix\)](https://open.spotify.com/track/1DesiYqBx60jw8B1eTADcT) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Given The Chance \(ILLENIUM Remix\)](https://open.spotify.com/album/6hLYHpd1QnQvxQsmVuuWji) | 3:36 |
+| 22 | [Given The Chance \(ILLENIUM 2014 Remix\)](https://open.spotify.com/track/1DesiYqBx60jw8B1eTADcT) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Given The Chance \(ILLENIUM 2014 Remix\)](https://open.spotify.com/album/6hLYHpd1QnQvxQsmVuuWji) | 3:36 |
 | 23 | [Rest Of My Life](https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Rest Of My Life](https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM) | 3:25 |
 | 24 | [Heart Strings](https://open.spotify.com/track/5fUcckBVUWX4HbShrP6YoI) | [Jantoje](https://open.spotify.com/artist/0ISMhfuHRFjqZ8PztWHHDx) | [Verano](https://open.spotify.com/album/4PQJ3PG46fo29GN0a3Dj7H) | 3:32 |
 | 25 | [Kick Ons](https://open.spotify.com/track/5ssHH7GG6cJuEk6ur21LGd) | [Bum Bag](https://open.spotify.com/artist/2WS2Qwnxq1hrwwgfMLFTDW) | [Kick Ons](https://open.spotify.com/album/3d6njCnDl5Nk0B1zqzpqiN) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [All My Life](https://open.spotify.com/track/3qCCQas6tIP15Yjgu3gl9S) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [All My Life](https://open.spotify.com/album/2AhoXwTvHcGjBwNMDOwEZp) | 2:26 |
 | 100 | [Body Moving \- Riordan Remix](https://open.spotify.com/track/1j1gU6llk8Nqv3Kga9WBi7) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Body Moving \(Riordan Remix\)](https://open.spotify.com/album/6VN62DL9qSYG53VGXfohOn) | 3:06 |
 
-Snapshot ID: `MCw5MGQ2MDM3YjA3MTMwN2Q0ZjlhYTk3NzU5YWM4YzNhMWJjOTVhYTZm`
+Snapshot ID: `MCwzZWY5MTk2NDgyMTgzMDAwN2ViMTUyOTZlOTM3MWVmNzg2NWUyZjk3`

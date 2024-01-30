@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Justin Timberlake
 
-10,502 songs - 21 day 21 hr 54 min
+10,503 songs - 21 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3929,7 +3929,8 @@
 | [Head Melodies](https://open.spotify.com/track/0AyY8MxDo1xasovQD79Man) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Head Melodies](https://open.spotify.com/album/6re1rqVtyS8MqSe5iKbz9P) | 3:51 | 2023-11-09 | 2023-11-17 |
 | [Head On](https://open.spotify.com/track/3uulUpw6IvYkNlig8clyKS) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 4:45 | 2023-03-30 | 2023-04-07 |
 | [Head Start](https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Heard You Got Love](https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff) | 3:23 | 2022-07-07 | 2022-07-15 |
-| [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 | 2024-01-25 |  |
+| [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 | 2024-01-25 | 2024-01-30 |
+| [Head Up](https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp) | 3:09 | 2024-01-26 |  |
 | [Head Up High](https://open.spotify.com/track/0CP5mlRELoimSiawY28RMN) | [Daffodils](https://open.spotify.com/artist/79xn5sZcR1wNoPCfnP3cLV) | [Head Up High](https://open.spotify.com/album/0FmTltNdGjk7SYkDkiKqUs) | 3:54 | 2023-04-13 | 2023-04-21 |
 | [Headed Home](https://open.spotify.com/track/3QLJiQKjhp8eyxSz6nDRVi) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Headed Home](https://open.spotify.com/album/5pNCBxmKPZIIFlbRGHRLCU) | 3:49 | 2022-12-15 | 2022-12-24 |
 | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW) | 2:38 | 2022-02-17 | 2022-02-25 |

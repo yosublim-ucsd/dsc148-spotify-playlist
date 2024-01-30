@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 43773,
+  "2024-01-30": 43814,
   "date_first_scraped": "2022-12-14",
   "description": "<a href=\"spotify:artist:77J3V0V7sEOf5ifCDBSNaJ\">Nu Genea</a>'s favorite tracks. Updated regularly. Curated by Nu Genea. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Nu Genea's track IDs",
@@ -1315,10 +1315,28 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 241397,
       "name": "You Can't Change a Man",
       "url": "https://open.spotify.com/track/2heUj8FdH5QrqUhBG5G1hM"
+    },
+    {
+      "album": {
+        "name": "One Understanding",
+        "url": "https://open.spotify.com/album/6yHYWMDX8i3WQ396kAfgyU"
+      },
+      "artists": [
+        {
+          "name": "Christy Essien Igbokwe",
+          "url": "https://open.spotify.com/artist/1HefyGXvLQBSDcnWDXuuFm"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241397,
+      "name": "You Can't Change a Man",
+      "url": "https://open.spotify.com/track/5jO6agviIZnOFaaDoJnfkR"
     },
     {
       "album": {

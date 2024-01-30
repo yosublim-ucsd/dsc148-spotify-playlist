@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126506,
+  "num_followers": 126499,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDUzNCxkOWU1Nzk1YTczN2ViNjBkMWRmN2I1NGUwYTA5OTI0MDdjNGEyOWJi",
+  "snapshot_id": "NDUzNSwwYmQxYWZhMjE2YWJkY2JlMzNhM2I4ZThmZGMzMzljOWZmMGUyNTcz",
   "tracks": [
+    {
+      "added_at": "2024-01-29 20:05:44",
+      "album": {
+        "name": "u want me 2.0",
+        "url": "https://open.spotify.com/album/7rxq7ndz7RxCN6PiELPyfl"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        },
+        {
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+        }
+      ],
+      "duration_ms": 129103,
+      "name": "u want me 2.0",
+      "url": "https://open.spotify.com/track/3kkdLxiHkkDO76KXJdDKhG"
+    },
     {
       "added_at": "2024-01-26 17:08:50",
       "album": {

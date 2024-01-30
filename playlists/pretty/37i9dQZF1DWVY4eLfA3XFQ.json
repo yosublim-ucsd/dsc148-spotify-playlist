@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Mau P",
-  "num_followers": 605662,
+  "num_followers": 605816,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDU1MmM2MzgwYjc4ZWNkMWFhYWZkZGQ5MzQ3YWUyYWQ1MWZkZWE1",
+  "snapshot_id": "MCwzOWIzNDQzZWU4YjY0OTNiOTM4MWZjODRkYmE2MzkxZTJkYmI5YTI2",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "The Function",
+        "url": "https://open.spotify.com/album/1dDEeKb8vS0R7AtNA0OAbx"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 192848,
+      "name": "The Function",
+      "url": "https://open.spotify.com/track/34fXpiwE0KrGzirOItUh9m"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "Escaping It (feat. Tania Foster)",
         "url": "https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY"
       },
@@ -1387,30 +1403,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Spring Girl (Vintage Culture Remix)",
-        "url": "https://open.spotify.com/album/5b704SG8QwJJhRVDzDk4yv"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "Maori",
-          "url": "https://open.spotify.com/artist/2GjC0P8uCItsOxEYXtm7kv"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 228779,
-      "name": "Spring Girl - Vintage Culture Remix",
-      "url": "https://open.spotify.com/track/2SCkpXTuQOvXySjlz9O1JH"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Chakachaka",
         "url": "https://open.spotify.com/album/3ZLiJSNwRdxYmm669cq1pv"
       },
@@ -1437,6 +1429,30 @@
       "url": "https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Spring Girl (Vintage Culture Remix)",
+        "url": "https://open.spotify.com/album/5b704SG8QwJJhRVDzDk4yv"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Maori",
+          "url": "https://open.spotify.com/artist/2GjC0P8uCItsOxEYXtm7kv"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 228779,
+      "name": "Spring Girl - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/2SCkpXTuQOvXySjlz9O1JH"
+    },
+    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "Boom Boom",
@@ -1451,22 +1467,6 @@
       "duration_ms": 181875,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/47xWwrLbcQzPaIYfzT6tHw"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "The Function",
-        "url": "https://open.spotify.com/album/1dDEeKb8vS0R7AtNA0OAbx"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 192848,
-      "name": "The Function",
-      "url": "https://open.spotify.com/track/34fXpiwE0KrGzirOItUh9m"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1589,6 +1589,26 @@
       "url": "https://open.spotify.com/track/1pIugPaeYrwzjoBi8SC2ts"
     },
     {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Weeping Willow",
+        "url": "https://open.spotify.com/album/474PPVNNsWQ5ae9iilffbD"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 215091,
+      "name": "Weeping Willow",
+      "url": "https://open.spotify.com/track/6yYzEgqwB9rIXKZzEOjBiT"
+    },
+    {
       "added_at": "2023-12-15 05:00:00",
       "album": {
         "name": "Dale",
@@ -1613,24 +1633,28 @@
       "url": "https://open.spotify.com/track/7KDkVer6KDHahrjFABNGww"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
+      "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Weeping Willow",
-        "url": "https://open.spotify.com/album/474PPVNNsWQ5ae9iilffbD"
+        "name": "Cruel Intentions",
+        "url": "https://open.spotify.com/album/6jNQGxYOPEJTUaL3BA8Vro"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+          "name": "Hannah Wants",
+          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
         },
         {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+          "name": "Sam Divine",
+          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
         }
       ],
-      "duration_ms": 215091,
-      "name": "Weeping Willow",
-      "url": "https://open.spotify.com/track/6yYzEgqwB9rIXKZzEOjBiT"
+      "duration_ms": 222273,
+      "name": "Cruel Intentions",
+      "url": "https://open.spotify.com/track/6UF4Bj3prR1bNu8IW8zpzh"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1655,30 +1679,6 @@
       "duration_ms": 211343,
       "name": "Bringing Me Home - OMNOM Remix",
       "url": "https://open.spotify.com/track/0MqW3v6dcZkbJ6ijxG5dTi"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Cruel Intentions",
-        "url": "https://open.spotify.com/album/6jNQGxYOPEJTUaL3BA8Vro"
-      },
-      "artists": [
-        {
-          "name": "Hannah Wants",
-          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
-        },
-        {
-          "name": "Sam Divine",
-          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 222273,
-      "name": "Cruel Intentions",
-      "url": "https://open.spotify.com/track/6UF4Bj3prR1bNu8IW8zpzh"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1773,22 +1773,6 @@
       "url": "https://open.spotify.com/track/1ygoSdSGNwK3PIWxizJRnm"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Aisha",
-        "url": "https://open.spotify.com/album/4NDHCK021W0pdlGQMvwOCv"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 181875,
-      "name": "Aisha",
-      "url": "https://open.spotify.com/track/1bXgTBNfGgKw20IsS3P37o"
-    },
-    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "Night Owls",
@@ -1803,6 +1787,22 @@
       "duration_ms": 186141,
       "name": "Night Owls",
       "url": "https://open.spotify.com/track/4anGNCfSIlqVgBGxcgKNNK"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Aisha",
+        "url": "https://open.spotify.com/album/4NDHCK021W0pdlGQMvwOCv"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "Aisha",
+      "url": "https://open.spotify.com/track/1bXgTBNfGgKw20IsS3P37o"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1841,30 +1841,6 @@
       "url": "https://open.spotify.com/track/2byx7sBtIIUnzEdqcCfPB2"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "LALALA",
-        "url": "https://open.spotify.com/album/6hxVFjWlFEeezccloBHDKW"
-      },
-      "artists": [
-        {
-          "name": "Duck Sauce",
-          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
-        },
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        }
-      ],
-      "duration_ms": 169635,
-      "name": "LALALA",
-      "url": "https://open.spotify.com/track/0vMAY6AodrM6yXH8Gi9Xzq"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Bim Boom Bam",
@@ -1901,6 +1877,30 @@
       "url": "https://open.spotify.com/track/24n7rjOS6a9j6fcD5UHGuq"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "LALALA",
+        "url": "https://open.spotify.com/album/6hxVFjWlFEeezccloBHDKW"
+      },
+      "artists": [
+        {
+          "name": "Duck Sauce",
+          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        }
+      ],
+      "duration_ms": 169635,
+      "name": "LALALA",
+      "url": "https://open.spotify.com/track/0vMAY6AodrM6yXH8Gi9Xzq"
+    },
+    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "Worship Technology",
@@ -1927,26 +1927,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "More Baby",
-        "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 264996,
-      "name": "More Baby - VIP Mix",
-      "url": "https://open.spotify.com/track/4ddRKTrv4fXl47Jzigwyit"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Paris to Milan",
         "url": "https://open.spotify.com/album/4t0TNMetsmutn7aErFG88U"
       },
@@ -1963,6 +1943,26 @@
       "duration_ms": 112380,
       "name": "Paris to Milan",
       "url": "https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "More Baby",
+        "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 264996,
+      "name": "More Baby - VIP Mix",
+      "url": "https://open.spotify.com/track/4ddRKTrv4fXl47Jzigwyit"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2061,24 +2061,20 @@
       "url": "https://open.spotify.com/track/4ZNuShYJjCqhDq83ZtYGgr"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Space Bump",
-        "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
+        "name": "Drug Loop",
+        "url": "https://open.spotify.com/album/04GTNpzHseEOyXNZG2gSDq"
       },
       "artists": [
         {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        },
-        {
-          "name": "Deeft",
-          "url": "https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6"
+          "name": "Phil Harris",
+          "url": "https://open.spotify.com/artist/06icPsYb2sw6FlJKYhwsv0"
         }
       ],
-      "duration_ms": 167004,
-      "name": "Space Bump",
-      "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
+      "duration_ms": 189374,
+      "name": "Drug Loop",
+      "url": "https://open.spotify.com/track/3Jc7DQJL8qb2ShoAMzY7oZ"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2099,6 +2095,26 @@
       "duration_ms": 171968,
       "name": "Dive In (feat. Notelle)",
       "url": "https://open.spotify.com/track/27sxAuxRyXYwhwjPA5L0af"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Space Bump",
+        "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        },
+        {
+          "name": "Deeft",
+          "url": "https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6"
+        }
+      ],
+      "duration_ms": 167004,
+      "name": "Space Bump",
+      "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2155,22 +2171,6 @@
       "duration_ms": 168983,
       "name": "PLAY SOME RECORDS",
       "url": "https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Drug Loop",
-        "url": "https://open.spotify.com/album/04GTNpzHseEOyXNZG2gSDq"
-      },
-      "artists": [
-        {
-          "name": "Phil Harris",
-          "url": "https://open.spotify.com/artist/06icPsYb2sw6FlJKYhwsv0"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Drug Loop",
-      "url": "https://open.spotify.com/track/3Jc7DQJL8qb2ShoAMzY7oZ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2377,22 +2377,6 @@
       "url": "https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Boiling Room",
-        "url": "https://open.spotify.com/album/3hHdKTqywXKpJjOYjHCkui"
-      },
-      "artists": [
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Boiling Room",
-      "url": "https://open.spotify.com/track/5wdAiwQ6QsqH6tHWcE76qM"
-    },
-    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "Bend N Snap",
@@ -2407,6 +2391,30 @@
       "duration_ms": 134430,
       "name": "Bend N Snap",
       "url": "https://open.spotify.com/track/0cIfTCAE7fLAgvFzBA4XAW"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Drums (Feat. Kim Petras) [Wh0 Remix]",
+        "url": "https://open.spotify.com/album/5hKgd8c1Pac9VT0UqRQA3k"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        }
+      ],
+      "duration_ms": 198469,
+      "name": "Drums (Feat. Kim Petras) - Wh0 Remix",
+      "url": "https://open.spotify.com/track/6MMWo7QxyXXmwT39mmLhVJ"
     }
   ],
   "unique_name": "Tech House Operator",

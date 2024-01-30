@@ -1,12 +1,12 @@
 {
   "description": "The anti pop archive: tracks added by our editors over the last year. Cover: Gorillaz",
-  "num_followers": 699476,
+  "num_followers": 699648,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDk4NmI0YjNjN2UxODExYjQ5NzM5NzRiZWZjNzg4YTM2NDVhYTI4",
+  "snapshot_id": "MCxlYTEzNTZmZGYzN2I3ZDZjNGQyZGM1Yzc0ZjBkYjliZTBkNGEzYjUx",
   "tracks": [
     {
       "added_at": "2024-01-09 14:46:15",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "DOA",
-        "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 143319,
-      "name": "dancinwithsomebawdy",
-      "url": "https://open.spotify.com/track/5v7oj9PosKdE39x9uwDs6C"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "hypochondriac",
         "url": "https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08"
       },
@@ -567,22 +551,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "How Do You Sleep At Night?",
-        "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
-      },
-      "artists": [
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 166626,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/6DrrY8ardpYRyF90mzN0jF"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "the Rake (can\u2019t complain)",
         "url": "https://open.spotify.com/album/15uH3yROMIfOmC3UZKwtVF"
       },
@@ -595,6 +563,38 @@
       "duration_ms": 181714,
       "name": "the Rake (can\u2019t complain)",
       "url": "https://open.spotify.com/track/4wXMa4oleu4CaD06V7zEyG"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "DOA",
+        "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 143319,
+      "name": "dancinwithsomebawdy",
+      "url": "https://open.spotify.com/track/5v7oj9PosKdE39x9uwDs6C"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "How Do You Sleep At Night?",
+        "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 166626,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/6DrrY8ardpYRyF90mzN0jF"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "DOA",
-        "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 130207,
-      "name": "kickstand",
-      "url": "https://open.spotify.com/track/0lDT25U4Jxr2joTulE7ao8"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
         "url": "https://open.spotify.com/album/6Vi0vIyTyUc60z7n3J7NZL"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 147025,
       "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
       "url": "https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "DOA",
+        "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 130207,
+      "name": "kickstand",
+      "url": "https://open.spotify.com/track/0lDT25U4Jxr2joTulE7ao8"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 190348,
       "name": "Good News",
       "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "UGLY",
+        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
+      },
+      "artists": [
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        }
+      ],
+      "duration_ms": 174648,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "Can't Fake What You Feel",
         "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 171052,
       "name": "Can't Fake What You Feel",
       "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "UGLY",
-        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
-      },
-      "artists": [
-        {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
-        }
-      ],
-      "duration_ms": 174648,
-      "name": "Sooner",
-      "url": "https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1255,6 +1255,26 @@
       "duration_ms": 126857,
       "name": "are you sleeping alone again?",
       "url": "https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "Show Me The Money (with Tkay Maidza)",
+        "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 187058,
+      "name": "Show Me The Money (with Tkay Maidza)",
+      "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1359,50 +1379,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "Show Me The Money (with Tkay Maidza)",
-        "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 187058,
-      "name": "Show Me The Money (with Tkay Maidza)",
-      "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "Cheese (feat. PawPaw Rod & Valerie June)",
-        "url": "https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        },
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        },
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 229525,
-      "name": "Cheese (feat. PawPaw Rod & Valerie June)",
-      "url": "https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "Driver",
         "url": "https://open.spotify.com/album/3PqeO4aB2VIw27kSffCZL4"
       },
@@ -1439,6 +1415,30 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "Cheese (feat. PawPaw Rod & Valerie June)",
+        "url": "https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 229525,
+      "name": "Cheese (feat. PawPaw Rod & Valerie June)",
+      "url": "https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "You Thought (feat. Janelle Mon\u00e1e)",
         "url": "https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6"
       },
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "Fishnets",
-        "url": "https://open.spotify.com/album/3mfeRfnXvnOSGr3BgHWAIs"
-      },
-      "artists": [
-        {
-          "name": "Croosh",
-          "url": "https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Fishnets",
-      "url": "https://open.spotify.com/track/6JnLTBWxTM8M25AJuyFCs2"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "Into The Rift",
         "url": "https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 219984,
       "name": "Dead",
       "url": "https://open.spotify.com/track/2LaHq6oy3DYrsmreXlmlwx"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "Fishnets",
+        "url": "https://open.spotify.com/album/3mfeRfnXvnOSGr3BgHWAIs"
+      },
+      "artists": [
+        {
+          "name": "Croosh",
+          "url": "https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Fishnets",
+      "url": "https://open.spotify.com/track/6JnLTBWxTM8M25AJuyFCs2"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "love deluxe",
-        "url": "https://open.spotify.com/album/5DlKYqA27vTrARUdV6x2T8"
-      },
-      "artists": [
-        {
-          "name": "Meltycanon",
-          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
-        }
-      ],
-      "duration_ms": 100714,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/1QWQaR1vH6E6Ap84HEc4va"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "Familiarity",
         "url": "https://open.spotify.com/album/48CGCAKq0qCLqZjEnKFBbE"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 207486,
       "name": "Familiarity",
       "url": "https://open.spotify.com/track/6hB5O4G6L5xa4r3wKSisH3"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "love deluxe",
+        "url": "https://open.spotify.com/album/5DlKYqA27vTrARUdV6x2T8"
+      },
+      "artists": [
+        {
+          "name": "Meltycanon",
+          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
+        }
+      ],
+      "duration_ms": 100714,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/1QWQaR1vH6E6Ap84HEc4va"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "I feel like doing candy flips and riding elephants",
-        "url": "https://open.spotify.com/album/5I2FczytVYgNEy9MZnW7V8"
-      },
-      "artists": [
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
-        }
-      ],
-      "duration_ms": 148330,
-      "name": "candyflips!",
-      "url": "https://open.spotify.com/track/2ciSvEYA4En6vwZpG2cuJn"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "Since September",
         "url": "https://open.spotify.com/album/6lvciV8L3fuHDz2bxPrbHg"
       },
@@ -1711,6 +1695,38 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "I feel like doing candy flips and riding elephants",
+        "url": "https://open.spotify.com/album/5I2FczytVYgNEy9MZnW7V8"
+      },
+      "artists": [
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        }
+      ],
+      "duration_ms": 148330,
+      "name": "candyflips!",
+      "url": "https://open.spotify.com/track/2ciSvEYA4En6vwZpG2cuJn"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "Stay Blessed",
+        "url": "https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 177731,
+      "name": "Stay Blessed",
+      "url": "https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "THE RUSH",
         "url": "https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 130515,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "California Dream Girl",
-        "url": "https://open.spotify.com/album/7Mu6gL29rc1hiFuVtYFvVs"
-      },
-      "artists": [
-        {
-          "name": "The Hellp",
-          "url": "https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "California Dream Girl",
-      "url": "https://open.spotify.com/track/4luiQl18IztB9tmtn0ACV0"
     }
   ],
   "unique_name": "anti pop",

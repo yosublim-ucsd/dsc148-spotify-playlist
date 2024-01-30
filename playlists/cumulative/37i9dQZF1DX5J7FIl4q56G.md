@@ -4,7 +4,7 @@
 
 > This week's best new metal & hard rock tracks\. Cover: Static\-X
 
-5,539 songs - 15 day 15 hr 14 min
+5,541 songs - 15 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1408,10 +1408,12 @@
 | [DOOMED](https://open.spotify.com/track/2nkDzveHmXhcz3pwRGmkKK) | [We Are The Empty](https://open.spotify.com/artist/1BbI77tXAW1gC8iBYJGwMB) | [THE DESERT](https://open.spotify.com/album/5TRyO99VoE8GSOhFJy5jVe) | 3:54 | 2023-06-09 | 2023-06-17 |
 | [DOOMED TO DISAPPEAR](https://open.spotify.com/track/6v8AFIpw62Xkk56IeNnIA5) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [DOOMED TO DISAPPEAR](https://open.spotify.com/album/7sDIRLfsdBvvMwR5fdGyAE) | 3:29 | 2023-06-09 | 2023-06-17 |
 | [Doomsayer](https://open.spotify.com/track/5qSkGAttrRovIQ78NPaPsq) | [Fallstar](https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST) | [Doomsayer](https://open.spotify.com/album/5ppBq9nJtiq1Z322HNCq6N) | 3:03 | 2023-02-24 | 2023-03-04 |
+| [Doomsday](https://open.spotify.com/track/5SbotHmwNvolKkFo4GqaFW) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Doomsday](https://open.spotify.com/album/0uvd0sRUmlxkkAC69d64tj) | 3:17 | 2024-01-29 |  |
 | [Doomsday Party](https://open.spotify.com/track/6dxtBnbVxQJ1UydpaayskF) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Doomsday Party](https://open.spotify.com/album/4vjJPfQI2sQ0lmGMmsqwrj) | 5:15 | 2023-09-15 | 2023-09-23 |
 | [Doomsday Party \(feat\. Elize Ryd\)](https://open.spotify.com/track/1ZCswF7siN8dYFVUEiuzEW) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [Doomsday Party](https://open.spotify.com/album/6fjgP6OSNi0I3WxGkHWYnA) | 5:15 | 2023-12-01 | 2023-12-09 |
 | [Doomswitch](https://open.spotify.com/track/7v9HNMlAe2UBaEhvaCk5wX) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/2WJV5AVoALNLtr2ZqOlf2n) | 4:35 | 2022-10-14 | 2022-10-22 |
-| [Dormant](https://open.spotify.com/track/1wdueUYTepHz8dIE0hQ1uX) | [Hiraes](https://open.spotify.com/artist/1Djkm24RzECe7M6KuxKZzt) | [Dormant](https://open.spotify.com/album/2VokgY916Q2ZuWx7VcnFIS) | 5:11 | 2024-01-26 |  |
+| [Dormant](https://open.spotify.com/track/07EvyjBT7gdCmSj9JYdM7N) | [Hiraes](https://open.spotify.com/artist/1Djkm24RzECe7M6KuxKZzt) | [Dormant](https://open.spotify.com/album/7HYBfqEXZfP4JYfJcrHckC) | 5:11 | 2024-01-26 |  |
+| [Dormant](https://open.spotify.com/track/1wdueUYTepHz8dIE0hQ1uX) | [Hiraes](https://open.spotify.com/artist/1Djkm24RzECe7M6KuxKZzt) | [Dormant](https://open.spotify.com/album/2VokgY916Q2ZuWx7VcnFIS) | 5:11 | 2024-01-26 | 2024-01-30 |
 | [Dormant \- Bonus track](https://open.spotify.com/track/2gZXhR9HM7jBWA0Xpu78rv) | [Gaerea](https://open.spotify.com/artist/1wXoI3Ajpv4WwQ3LmcrSBw) | [Dormant \(Bonus track\)](https://open.spotify.com/album/6N2JHvOmRC77yZxhvSRL5R) | 7:46 | 2023-09-29 | 2023-10-07 |
 | [Double Trouble / Lumos! \(Hedwig´s Theme\)](https://open.spotify.com/track/4wjWn8Z5MmrUTCbq2Pu09Z) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm), [Rusanda Panfili](https://open.spotify.com/artist/7i3Xc8Q0FEGHlsERoPgejc) | [Double Trouble / Lumos! \(Hedwig´s Theme\)](https://open.spotify.com/album/380BOS63zClRKGPF6beBeU) | 2:58 | 2022-12-16 | 2022-12-24 |
 | [Doubt Me](https://open.spotify.com/track/6dxTJRZFB3mU9MvuX7OqJ0) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Doubt Me](https://open.spotify.com/album/4BzqS85ljr08WHx0Qiy5rl) | 3:10 | 2023-08-25 | 2023-09-02 |

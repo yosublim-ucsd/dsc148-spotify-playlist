@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 370129,
+  "2024-01-30": 370466,
   "date_first_scraped": "2022-04-20",
   "description": "The bass you need for riding low and high.",
   "name": "DOWN LOW",
@@ -985,6 +985,28 @@
       "duration_ms": 185143,
       "name": "E S C O B a R",
       "url": "https://open.spotify.com/track/75BDGJuV727Qx2qkSqx5Fy"
+    },
+    {
+      "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211428,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
     },
     {
       "album": {
@@ -3781,7 +3803,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 174151,
       "name": "The Walls",
       "url": "https://open.spotify.com/track/0O1XOHLMOsLoGNu6tZkOMt"

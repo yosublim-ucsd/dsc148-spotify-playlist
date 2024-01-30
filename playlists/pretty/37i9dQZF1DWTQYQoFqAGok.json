@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 58994,
+  "num_followers": 59002,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWQxZmY1YzE2NTY4NmY0OGEwMjMzM2Q0Mjg0M2FiZjFmYjdhMmJk",
+  "snapshot_id": "MCxlYzFjMWMyNDAyNWIzMWY5NDYzOWQ3OTE2OWQ4MzNkYzliMGY2YmU2",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/1zQ6VQQqjSree6Nvp9QWbC"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "No Corro, No Grito, No Empujo",
-        "url": "https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy"
-      },
-      "artists": [
-        {
-          "name": "Triciclo Circus Band",
-          "url": "https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Excusez-Moi",
-      "url": "https://open.spotify.com/track/2O13YCjbszhxzkVxEMn1Ht"
-    },
-    {
       "added_at": "2022-01-11 02:50:37",
       "album": {
         "name": "Con Sabor a M\u00e9xico",
@@ -71,6 +55,22 @@
       "duration_ms": 271053,
       "name": "Frenes\u00ed",
       "url": "https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "No Corro, No Grito, No Empujo",
+        "url": "https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy"
+      },
+      "artists": [
+        {
+          "name": "Triciclo Circus Band",
+          "url": "https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt"
+        }
+      ],
+      "duration_ms": 156960,
+      "name": "Excusez-Moi",
+      "url": "https://open.spotify.com/track/2O13YCjbszhxzkVxEMn1Ht"
     },
     {
       "added_at": "2023-04-12 01:24:34",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
-        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 285880,
-      "name": "La Canci\u00f3n de Linyera",
-      "url": "https://open.spotify.com/track/4LK5SHNZuDT9hjy7EMvyob"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Nuevos Retros",
         "url": "https://open.spotify.com/album/2EWXBn0wNaSo8dS9sU7esL"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 248746,
       "name": "Tu Luz",
       "url": "https://open.spotify.com/track/4g9iO9ga0CveiTQKOeR3W4"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
+        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 285880,
+      "name": "La Canci\u00f3n de Linyera",
+      "url": "https://open.spotify.com/track/4LK5SHNZuDT9hjy7EMvyob"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -511,26 +511,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Voices from the Border",
-        "url": "https://open.spotify.com/album/2wITZBdfVISfiCe7NOEWfA"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Balderas Quartet",
-          "url": "https://open.spotify.com/artist/58qSHv8M0ELKIDSObDqEFH"
-        },
-        {
-          "name": "John Vince",
-          "url": "https://open.spotify.com/artist/5aPsi6G5Cs3dt1FnjkVYDF"
-        }
-      ],
-      "duration_ms": 443872,
-      "name": "Those People",
-      "url": "https://open.spotify.com/track/3FTnF6GptSUAfsMMEZH1i8"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Qui\u00e9n Eres T\u00fa?",
         "url": "https://open.spotify.com/album/6627kcDKivQe10EdHUDmok"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 350746,
       "name": "Qui\u00e9n Eres T\u00fa?",
       "url": "https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Voices from the Border",
+        "url": "https://open.spotify.com/album/2wITZBdfVISfiCe7NOEWfA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Balderas Quartet",
+          "url": "https://open.spotify.com/artist/58qSHv8M0ELKIDSObDqEFH"
+        },
+        {
+          "name": "John Vince",
+          "url": "https://open.spotify.com/artist/5aPsi6G5Cs3dt1FnjkVYDF"
+        }
+      ],
+      "duration_ms": 443872,
+      "name": "Those People",
+      "url": "https://open.spotify.com/track/3FTnF6GptSUAfsMMEZH1i8"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -623,6 +623,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Ventana espacial",
+        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
+      },
+      "artists": [
+        {
+          "name": "Filip y Woppe",
+          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
+        }
+      ],
+      "duration_ms": 254720,
+      "name": "Ventana espacial",
+      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Retazos",
         "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
       },
@@ -635,6 +651,22 @@
       "duration_ms": 269080,
       "name": "M\u00e1s All\u00e1",
       "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Your Voice",
+        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
+      },
+      "artists": [
+        {
+          "name": "Daniela Escalante",
+          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+        }
+      ],
+      "duration_ms": 175776,
+      "name": "Your Voice",
+      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -663,38 +695,6 @@
       "duration_ms": 246539,
       "name": "Aquel Incendio",
       "url": "https://open.spotify.com/track/21B1SsKnsjcUTkzRAAUJqy"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Your Voice",
-        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
-      },
-      "artists": [
-        {
-          "name": "Daniela Escalante",
-          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
-        }
-      ],
-      "duration_ms": 175776,
-      "name": "Your Voice",
-      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Ventana espacial",
-        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
-      },
-      "artists": [
-        {
-          "name": "Filip y Woppe",
-          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
-        }
-      ],
-      "duration_ms": 254720,
-      "name": "Ventana espacial",
-      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
     },
     {
       "added_at": "2022-08-16 16:23:25",

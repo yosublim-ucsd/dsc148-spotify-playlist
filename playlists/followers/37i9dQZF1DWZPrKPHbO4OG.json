@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 19208,
+  "2024-01-30": 19229,
   "date_first_scraped": "2023-07-25",
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
   "name": "Marathi Workout",
@@ -781,6 +781,32 @@
     {
       "album": {
         "name": "O Sheth (DJ Remix)",
+        "url": "https://open.spotify.com/album/1W5Dt62j8LRMaLKyTub3YB"
+      },
+      "artists": [
+        {
+          "name": "Praniket Khune",
+          "url": "https://open.spotify.com/artist/1dL65B06v62VbbrnJklKUJ"
+        },
+        {
+          "name": "Sandhya Keshe",
+          "url": "https://open.spotify.com/artist/2cQU4jBHWE17V2BLq6Y7Ak"
+        },
+        {
+          "name": "Umesh Gawali",
+          "url": "https://open.spotify.com/artist/00PJ0oZlC5InNHCDRYaubR"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184733,
+      "name": "O Sheth (DJ Remix)",
+      "url": "https://open.spotify.com/track/1pxLwFEoHC0VuxhPpWk8Fq"
+    },
+    {
+      "album": {
+        "name": "O Sheth (DJ Remix)",
         "url": "https://open.spotify.com/album/4LOVpn0sKbfIT6BUyjZqKK"
       },
       "artists": [
@@ -799,7 +825,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 184733,
       "name": "O Sheth (DJ Remix)",
       "url": "https://open.spotify.com/track/5B3IsGRHozEAeRnyGs5XEl"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Reggie Becton
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,022 likes - 71 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,060 likes - 71 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 33 | [Luv Songs \(Unruly\)](https://open.spotify.com/track/0puWG0IhM981IsC1hd2640) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Don't Get Too Cozy](https://open.spotify.com/album/3fGURvjAC7mZz3nMfPRRBI) | 2:55 |
 | 34 | [Drifted \(feat\. Jayla Darden\)](https://open.spotify.com/track/562S3M4AGzUZcZ6G1WorfN) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Jayla Darden](https://open.spotify.com/artist/2FcXBEz4zZpJGNO8CSrchU) | [Drifted \(feat\. Jayla Darden\)](https://open.spotify.com/album/03ekiMgr3rkTqWmHYOKcIz) | 4:10 |
 | 35 | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/track/6rVomZSCiNuuJmVlpgfZkt) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/album/1KUP4jLGY0Jil7j43w3dx8) | 4:18 |
-| 36 | [Hello](https://open.spotify.com/track/36IM2MYJz2ZwlWib8rHNHM) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [For the Better](https://open.spotify.com/album/10brv7YGXfM12BcquAQ1Aj) | 3:15 |
+| 36 | [Hello](https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Hello](https://open.spotify.com/album/3eBHvRyUhfarjwJH0YK7HK) | 3:15 |
 | 37 | [When It Comes To You](https://open.spotify.com/track/4OzS0O0i88cGeu8YklCHrT) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Fridayy](https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf) | 2:48 |
 | 38 | [Lonely](https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Conditions](https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ) | 2:11 |
 | 39 | [Young & Reckless](https://open.spotify.com/track/6V4PJjy37MgVSZELGsia5P) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Young & Reckless](https://open.spotify.com/album/1PLct2MneZeXJOi335GQfD) | 2:16 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 70 | [TODAY](https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [TODAY](https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt) | 4:01 |
 | 71 | [Psycho Bitch](https://open.spotify.com/track/3DRBBbiVNkHlRrfalETplk) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Bet That](https://open.spotify.com/album/7mmBqDdCZwqn4g30GAuteH) | 3:07 |
 
-Snapshot ID: `MCxhY2MwNTgyOTAzOWMxOGI0YWEwYzhjMGU3OTc4NDA3ZDA4OGY1NjNi`
+Snapshot ID: `MCw5ZDQ1NDI4M2YzZWY1NzM3YmVmN2FiMTMyMTlhZWYyZmExMGZiZGJm`

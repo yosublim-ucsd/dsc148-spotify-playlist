@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: Atreyu",
-  "num_followers": 348465,
+  "num_followers": 348565,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWUyYWQxNzRjNjg2ZTM5NmJmMjYxM2NmOTZiMDRlNDk4YjU5MjE4",
+  "snapshot_id": "MCw3MGNiOGY3NDFiNjM1N2I5NmI2OTE3ZWYzNDVlNGJiNTA5MjFkZmM3",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Remade In Misery",
-        "url": "https://open.spotify.com/album/1Uf494OVdGpxqdUgzdrVDv"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 192176,
-      "name": "Misery",
-      "url": "https://open.spotify.com/track/6gfUOprNMeD8amncMOSFl0"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "V.A.N",
         "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
       },
@@ -535,18 +519,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Make It Out Alive",
-        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
+        "name": "Remade In Misery",
+        "url": "https://open.spotify.com/album/1Uf494OVdGpxqdUgzdrVDv"
       },
       "artists": [
         {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
         }
       ],
-      "duration_ms": 209799,
-      "name": "Make It Out Alive",
-      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
+      "duration_ms": 192176,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/6gfUOprNMeD8amncMOSFl0"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -567,6 +551,22 @@
       "duration_ms": 168280,
       "name": "GOSSIP (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Make It Out Alive",
+        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 209799,
+      "name": "Make It Out Alive",
+      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "The Surface",
-        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "Might Love Myself",
-      "url": "https://open.spotify.com/track/1VLM75hY5fluRorkbIt6NT"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Dance Devil Dance",
         "url": "https://open.spotify.com/album/5GH4bz50nqlXUm4xyK4tC2"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "JACK",
+        "url": "https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 168630,
+      "name": "JACK",
+      "url": "https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Will Of The People",
         "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
       },
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "JACK",
-        "url": "https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc"
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 168630,
-      "name": "JACK",
-      "url": "https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY"
+      "duration_ms": 219973,
+      "name": "Might Love Myself",
+      "url": "https://open.spotify.com/track/1VLM75hY5fluRorkbIt6NT"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "EXPLOSIONS",
-        "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 175733,
-      "name": "I Am The Weapon",
-      "url": "https://open.spotify.com/track/2zIyWLmiA8ka9Si6x1D4oW"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Divisive",
         "url": "https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 238109,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/5t2Wv4h5MO2ZyRBsLbFz55"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "EXPLOSIONS",
+        "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 175733,
+      "name": "I Am The Weapon",
+      "url": "https://open.spotify.com/track/2zIyWLmiA8ka9Si6x1D4oW"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "The Optimist",
-        "url": "https://open.spotify.com/album/4rkuMkZkDrZ4ls8cWe0lN9"
-      },
-      "artists": [
-        {
-          "name": "10 Years",
-          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
-        }
-      ],
-      "duration_ms": 178415,
-      "name": "The Optimist",
-      "url": "https://open.spotify.com/track/55ET0bFCVKpGJOXATqLe0x"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "WAR",
         "url": "https://open.spotify.com/album/003vdZ1jXsYpAFfiBZ9oJv"
       },
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "The Optimist",
+        "url": "https://open.spotify.com/album/4rkuMkZkDrZ4ls8cWe0lN9"
+      },
+      "artists": [
+        {
+          "name": "10 Years",
+          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
+        }
+      ],
+      "duration_ms": 178415,
+      "name": "The Optimist",
+      "url": "https://open.spotify.com/track/55ET0bFCVKpGJOXATqLe0x"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/2RVZtDdeACKYVXKnmIWH7m"
       },
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "virus",
-        "url": "https://open.spotify.com/album/6nAOndDSvGs7dsQ8FgrdnZ"
-      },
-      "artists": [
-        {
-          "name": "elijah",
-          "url": "https://open.spotify.com/artist/2khsUR01VIAut0HXZUh5Gy"
-        }
-      ],
-      "duration_ms": 226874,
-      "name": "virus",
-      "url": "https://open.spotify.com/track/56cIg3GhiWW5OLp87pQ8MA"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Gifts From The Holy Ghost",
         "url": "https://open.spotify.com/album/258YZ2TUzI1SJBU626eYFc"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 189736,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/7mJycBkeGO6rBA2zIQsP5t"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "virus",
+        "url": "https://open.spotify.com/album/6nAOndDSvGs7dsQ8FgrdnZ"
+      },
+      "artists": [
+        {
+          "name": "elijah",
+          "url": "https://open.spotify.com/artist/2khsUR01VIAut0HXZUh5Gy"
+        }
+      ],
+      "duration_ms": 226874,
+      "name": "virus",
+      "url": "https://open.spotify.com/track/56cIg3GhiWW5OLp87pQ8MA"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Won't Take Me Alive",
-        "url": "https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv"
-      },
-      "artists": [
-        {
-          "name": "Dirty Honey",
-          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
-        }
-      ],
-      "duration_ms": 225596,
-      "name": "Won't Take Me Alive",
-      "url": "https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Mammoth II",
         "url": "https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 275739,
       "name": "I\u2019m Alright",
       "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Won't Take Me Alive",
+        "url": "https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv"
+      },
+      "artists": [
+        {
+          "name": "Dirty Honey",
+          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
+        }
+      ],
+      "duration_ms": 225596,
+      "name": "Won't Take Me Alive",
+      "url": "https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/2wErOkh2cGvaROMlWTQ3Dw"
-      },
-      "artists": [
-        {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
-        }
-      ],
-      "duration_ms": 227678,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/2wN75EXN0qbYFH6hNjZ4LJ"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "How To Ruin Everything (Patience) [feat. Ice Nine Kills]",
         "url": "https://open.spotify.com/album/3wI6LYcqfyWa4bvrRsIjNv"
       },
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/2wErOkh2cGvaROMlWTQ3Dw"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "duration_ms": 227678,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2wN75EXN0qbYFH6hNjZ4LJ"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Dinosaur",
         "url": "https://open.spotify.com/album/2pvd7WBSWo76lZeufdC34a"
       },
@@ -1547,22 +1547,6 @@
       "duration_ms": 228219,
       "name": "Dinosaur",
       "url": "https://open.spotify.com/track/0amnfaLU8jeRhVcDjvEX6k"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Knife",
-        "url": "https://open.spotify.com/album/0w4KpUcSpjvxkiccChtB2C"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 218214,
-      "name": "Knife",
-      "url": "https://open.spotify.com/track/4EziK2zE4fTvXi4obtunZh"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1595,6 +1579,22 @@
       "duration_ms": 235736,
       "name": "Paranoid (Crash & Burn)",
       "url": "https://open.spotify.com/track/1Q1SYwGXe7dFtcTgkgblwF"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Knife",
+        "url": "https://open.spotify.com/album/0w4KpUcSpjvxkiccChtB2C"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 218214,
+      "name": "Knife",
+      "url": "https://open.spotify.com/track/4EziK2zE4fTvXi4obtunZh"
     },
     {
       "added_at": "2024-01-26 05:00:00",

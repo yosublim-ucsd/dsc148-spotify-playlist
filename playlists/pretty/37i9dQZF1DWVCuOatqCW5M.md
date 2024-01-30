@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Lisa Mishra
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,657 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,712 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Baarish Ke Aane Se](https://open.spotify.com/track/7zkdhpXOGATPZDelzXE7ae) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Prince Dubey](https://open.spotify.com/artist/3bs0mT7GMaduAPHu1oWJwq) | [Baarish Ke Aane Se](https://open.spotify.com/album/5Qjv9KUc0QP4HwCtie4oc7) | 4:00 |
 | 50 | [Meri Ho Ja](https://open.spotify.com/track/7z3e5trtKbiILn2bcxqKpr) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Meri Ho Ja](https://open.spotify.com/album/4zy8E2oRVyGJseIcHk2hAQ) | 2:59 |
 
-Snapshot ID: `MCw5MGYwYzEwMzcxNDU0ZGRiZjJmZDY5M2YxM2Q1MjA5MmM4NDQ1M2I1`
+Snapshot ID: `MCw2YzJhNDFiYjhiMjBkZTRkOGFmNGVmYzBkM2FhN2I1MWVlNjhiZTMx`

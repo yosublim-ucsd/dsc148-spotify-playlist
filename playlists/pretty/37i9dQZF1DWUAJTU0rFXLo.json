@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas que fazem de qualquer hora, a mais perfeita para um baile! Foto: Carlos Daf\u00e9",
-  "num_followers": 29061,
+  "num_followers": 29079,
   "original_name": "Baile Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzgyY2E3ZWI2ZmVmMzY5ODY0MTgwM2IwMzJhZmZkYmFjYTZlNzZm",
+  "snapshot_id": "MCw4N2MxNzYzZGQzZWU1ZWMzYmMyYTAwMTQxYTA5OTdjZWIwMTdhMzNh",
   "tracks": [
     {
       "added_at": "2023-09-14 19:24:02",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 193573,
       "name": "Mercy Mercy Me (The Ecology)",
       "url": "https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -339,6 +339,38 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Got To Give It Up - Pt. 1",
+      "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
         "name": "September",
         "url": "https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd"
       },
@@ -387,22 +419,6 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "Every Great Motown Hit Of Marvin Gaye",
-        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Got To Give It Up - Pt. 1",
-      "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
         "name": "Go for Your Guns",
         "url": "https://open.spotify.com/album/04nhRulMSOvcRCGRTa7I5l"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 306800,
       "name": "Footsteps in the Dark, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/1tL5a9jowsWMtn3wkFYsG9"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
-        "name": "Talking Book",
-        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "Superstition",
-      "url": "https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -463,6 +463,22 @@
       "duration_ms": 217604,
       "name": "R\u00e9u Confesso",
       "url": "https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
+        "name": "My Cherie Amour",
+        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 173306,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -515,22 +531,6 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "My Cherie Amour",
-        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 173306,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
         "name": "Risqu\u00e9 (2018 Remaster)",
         "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 486186,
       "name": "Good Times - 2018 Remaster",
       "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -579,22 +595,6 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "The 12\" Collection And More (Funk Essentials)",
-        "url": "https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH"
-      },
-      "artists": [
-        {
-          "name": "The Gap Band",
-          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
-        }
-      ],
-      "duration_ms": 375400,
-      "name": "Outstanding - Original 12\" Mix",
-      "url": "https://open.spotify.com/track/6korvxtUEyt590jUFOfADm"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
         "name": "Mothership Connection",
         "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
       },
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "Innervisions",
-        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+        "name": "The 12\" Collection And More (Funk Essentials)",
+        "url": "https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
         }
       ],
-      "duration_ms": 222600,
-      "name": "Higher Ground",
-      "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
+      "duration_ms": 375400,
+      "name": "Outstanding - Original 12\" Mix",
+      "url": "https://open.spotify.com/track/6korvxtUEyt590jUFOfADm"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "The Payback",
-        "url": "https://open.spotify.com/album/49vpRrUcAr2bj6aYQr0Cfl"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 459893,
-      "name": "The Payback",
-      "url": "https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 394266,
       "name": "Isn't She Lovely",
       "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
+        "name": "The Payback",
+        "url": "https://open.spotify.com/album/49vpRrUcAr2bj6aYQr0Cfl"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 459893,
+      "name": "The Payback",
+      "url": "https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
+        "name": "Brasilian Fiesta",
+        "url": "https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "Sossego",
+      "url": "https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
         "name": "What Cha' Gonna Do for Me",
         "url": "https://open.spotify.com/album/6elTNQdWmobPp0QGEPwPMc"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "Brasilian Fiesta",
-        "url": "https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "Sossego",
-      "url": "https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "A Banda do Z\u00e9 Pretinho",
-        "url": "https://open.spotify.com/album/2C94EAIFBPnTcq7z8Xj7oe"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 239973,
-      "name": "A Banda do Z\u00e9 Pretinho",
-      "url": "https://open.spotify.com/track/4jSiAZQpsA1mAS3RE0UHCo"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
         "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
         "url": "https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 208573,
       "name": "Que Beleza",
       "url": "https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
+        "name": "A Banda do Z\u00e9 Pretinho",
+        "url": "https://open.spotify.com/album/2C94EAIFBPnTcq7z8Xj7oe"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 239973,
+      "name": "A Banda do Z\u00e9 Pretinho",
+      "url": "https://open.spotify.com/track/4jSiAZQpsA1mAS3RE0UHCo"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -1175,22 +1175,6 @@
       "duration_ms": 212600,
       "name": "Cong\u00eanito",
       "url": "https://open.spotify.com/track/7Kiw2eWnLpXmnKXKxpCcq0"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
-        "name": "Maria Fuma\u00e7a (Remasterizado)",
-        "url": "https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG"
-      },
-      "artists": [
-        {
-          "name": "Banda Black Rio",
-          "url": "https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv"
-        }
-      ],
-      "duration_ms": 219173,
-      "name": "Mr. Funky samba",
-      "url": "https://open.spotify.com/track/4SXWXupjFY49tbQWCG5rFf"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -1271,6 +1255,22 @@
       "duration_ms": 225200,
       "name": "Manh\u00e3",
       "url": "https://open.spotify.com/track/6Pr8fOfppj8C6qpkAYDDzE"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
+        "name": "Maria Fuma\u00e7a (Remasterizado)",
+        "url": "https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG"
+      },
+      "artists": [
+        {
+          "name": "Banda Black Rio",
+          "url": "https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv"
+        }
+      ],
+      "duration_ms": 219173,
+      "name": "Mr. Funky samba",
+      "url": "https://open.spotify.com/track/4SXWXupjFY49tbQWCG5rFf"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "Cuban Soul: 18 Kilates",
-        "url": "https://open.spotify.com/album/2DTcOvJhcTPDoI0LU7zE18"
-      },
-      "artists": [
-        {
-          "name": "Cassiano",
-          "url": "https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Central Do Brasil",
-      "url": "https://open.spotify.com/track/6Cy5en1wAlQmvORoWYiWWK"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
         "name": "Robot Man (Vinyl Edit Version)",
         "url": "https://open.spotify.com/album/3cVvm1DlqO4UVsoQzjjbRw"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 223012,
       "name": "Robot Man - Vinyl Edit Version",
       "url": "https://open.spotify.com/track/6myAJZFY7NYLCF8fJIIciU"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
+        "name": "Cuban Soul: 18 Kilates",
+        "url": "https://open.spotify.com/album/2DTcOvJhcTPDoI0LU7zE18"
+      },
+      "artists": [
+        {
+          "name": "Cassiano",
+          "url": "https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Central Do Brasil",
+      "url": "https://open.spotify.com/track/6Cy5en1wAlQmvORoWYiWWK"
     },
     {
       "added_at": "2023-09-14 19:24:02",

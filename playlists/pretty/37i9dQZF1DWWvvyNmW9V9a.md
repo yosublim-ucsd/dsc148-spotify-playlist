@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > if you think poison poison is about you it probably is 🐍
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,170,863 likes - 97 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,170,566 likes - 97 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 96 | [Le Monde \- From Talk to Me](https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H) | [Richard Carter](https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU) | [Le Monde \(From Talk to Me\)](https://open.spotify.com/album/0RBFL7NYfHslFXlYrVwtir) | 2:14 |
 | 97 | [Intrusive Thoughts](https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Intrusive Thoughts](https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk) | 3:21 |
 
-Snapshot ID: `MCw4MWZmMGU4NDE3ZTFmZTBlYzVmMmM5ZTk5ZTEzYTI2YmNlZWY3NGNj`
+Snapshot ID: `MCxiMWZlYTdiMzNmNTFlNzRiMDI4YmM4MjBmYTYyNzg1ZmUxNzJlYmQw`

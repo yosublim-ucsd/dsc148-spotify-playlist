@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 459076,
+  "num_followers": 459067,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTFhODIyYjRkNjc3OTcwNmMzYTAxNTcxNWI2NjVhZDk3MjUwNmYx",
+  "snapshot_id": "MCxjM2FmM2I5YjU2NTIxYzllM2Q5NGU3NzUwNDQ2YzIzNzRmZTRjYTM1",
   "tracks": [
     {
       "added_at": "2024-01-24 16:30:56",
@@ -225,6 +225,22 @@
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
     },
     {
+      "added_at": "2023-12-12 21:00:18",
+      "album": {
+        "name": "Beautiful World",
+        "url": "https://open.spotify.com/album/0ZnnuF8eC7ZsyMJm9008k4"
+      },
+      "artists": [
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        }
+      ],
+      "duration_ms": 243664,
+      "name": "Bermondsey Bender",
+      "url": "https://open.spotify.com/track/0vW7OH6FgumkWUgyHPFeRR"
+    },
+    {
       "added_at": "2022-02-16 00:41:13",
       "album": {
         "name": "drames rurals",
@@ -255,22 +271,6 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
-    },
-    {
-      "added_at": "2023-12-12 21:00:18",
-      "album": {
-        "name": "Beautiful World",
-        "url": "https://open.spotify.com/album/0ZnnuF8eC7ZsyMJm9008k4"
-      },
-      "artists": [
-        {
-          "name": "anam\u0113",
-          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
-        }
-      ],
-      "duration_ms": 243664,
-      "name": "Bermondsey Bender",
-      "url": "https://open.spotify.com/track/0vW7OH6FgumkWUgyHPFeRR"
     },
     {
       "added_at": "2021-10-15 03:56:52",
@@ -385,22 +385,6 @@
       "url": "https://open.spotify.com/track/3GAEFblFG0ZzSKx5ilOWeW"
     },
     {
-      "added_at": "2022-08-19 02:33:31",
-      "album": {
-        "name": "Order",
-        "url": "https://open.spotify.com/album/6OYR86XQE5NItKcLtBEfPA"
-      },
-      "artists": [
-        {
-          "name": "Bon-Psy",
-          "url": "https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn"
-        }
-      ],
-      "duration_ms": 206657,
-      "name": "Warm Fuzzies: The Glory",
-      "url": "https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd"
-    },
-    {
       "added_at": "2022-03-30 04:42:42",
       "album": {
         "name": "Chamas Do Cerrado",
@@ -415,6 +399,22 @@
       "duration_ms": 213708,
       "name": "Vale Da Lua",
       "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
+    },
+    {
+      "added_at": "2022-08-19 02:33:31",
+      "album": {
+        "name": "Order",
+        "url": "https://open.spotify.com/album/6OYR86XQE5NItKcLtBEfPA"
+      },
+      "artists": [
+        {
+          "name": "Bon-Psy",
+          "url": "https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn"
+        }
+      ],
+      "duration_ms": 206657,
+      "name": "Warm Fuzzies: The Glory",
+      "url": "https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd"
     },
     {
       "added_at": "2023-04-12 14:46:36",
@@ -609,6 +609,22 @@
       "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
+      "added_at": "2022-03-30 05:10:26",
+      "album": {
+        "name": "tracing Rays [reality glo]",
+        "url": "https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "tracing Rays [reality glo]",
+      "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
+    },
+    {
       "added_at": "2022-12-16 06:00:00",
       "album": {
         "name": "Hondo (Remix)",
@@ -681,22 +697,6 @@
       "url": "https://open.spotify.com/track/2Gh7Fv6yk1sgbwT6kMVV0U"
     },
     {
-      "added_at": "2022-03-30 05:10:26",
-      "album": {
-        "name": "tracing Rays [reality glo]",
-        "url": "https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY"
-      },
-      "artists": [
-        {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
-        }
-      ],
-      "duration_ms": 262240,
-      "name": "tracing Rays [reality glo]",
-      "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
-    },
-    {
       "added_at": "2022-04-12 02:09:40",
       "album": {
         "name": "Minena",
@@ -731,6 +731,22 @@
       "duration_ms": 246696,
       "name": "Closer - Daniel Avery Edit",
       "url": "https://open.spotify.com/track/6n3bL5mXJ9iD3W8lB55PiA"
+    },
+    {
+      "added_at": "2022-01-19 22:44:25",
+      "album": {
+        "name": "Fwd: Re: late (Ref.: karoshi)",
+        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 361386,
+      "name": "Fwd: Re: late (Ref.: karoshi)",
+      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
     },
     {
       "added_at": "2022-12-20 19:12:56",
@@ -835,22 +851,6 @@
       "duration_ms": 337194,
       "name": "Opak",
       "url": "https://open.spotify.com/track/01XBVQvgUeUMSrznKTR1X7"
-    },
-    {
-      "added_at": "2022-01-19 22:44:25",
-      "album": {
-        "name": "Fwd: Re: late (Ref.: karoshi)",
-        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
-      },
-      "artists": [
-        {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
-        }
-      ],
-      "duration_ms": 361386,
-      "name": "Fwd: Re: late (Ref.: karoshi)",
-      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
     },
     {
       "added_at": "2023-05-24 02:20:35",

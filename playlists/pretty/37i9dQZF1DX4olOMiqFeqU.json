@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Yeng Constantino",
-  "num_followers": 2397054,
+  "num_followers": 2397334,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmJhMDA0NTQxNTY3ODFlMjIzYjdjOWUzNmI5MzdmZjQ4NGYwMjdl",
+  "snapshot_id": "MCxhOGY0OWYyN2UzODAzZmE3ZTI0NDBlNDZhNmZkYmE4ZmEwOTBmZGYw",
   "tracks": [
     {
       "added_at": "2024-01-10 00:55:20",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-01-10 00:55:20",
       "album": {
-        "name": "Kathang Isip",
-        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
+        "name": "Isa lang",
+        "url": "https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
         }
       ],
-      "duration_ms": 318814,
-      "name": "Kathang Isip",
-      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
+      "duration_ms": 269256,
+      "name": "Isa lang",
+      "url": "https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ"
     },
     {
       "added_at": "2024-01-10 00:55:20",
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-01-10 00:55:20",
       "album": {
-        "name": "Isa lang",
-        "url": "https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF"
+        "name": "Kathang Isip",
+        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
       },
       "artists": [
         {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 269256,
-      "name": "Isa lang",
-      "url": "https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ"
+      "duration_ms": 318814,
+      "name": "Kathang Isip",
+      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
     },
     {
       "added_at": "2024-01-10 00:55:20",
@@ -303,54 +303,6 @@
     {
       "added_at": "2024-01-10 00:55:20",
       "album": {
-        "name": "Ikaw Pa Rin",
-        "url": "https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k"
-      },
-      "artists": [
-        {
-          "name": "mrld",
-          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
-        }
-      ],
-      "duration_ms": 191009,
-      "name": "Ikaw Pa Rin",
-      "url": "https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly"
-    },
-    {
-      "added_at": "2024-01-10 00:55:20",
-      "album": {
-        "name": "Leaves",
-        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 310708,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
-    },
-    {
-      "added_at": "2024-01-10 00:55:20",
-      "album": {
-        "name": "Ngayong Gabi",
-        "url": "https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot"
-      },
-      "artists": [
-        {
-          "name": "Al James",
-          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
-        }
-      ],
-      "duration_ms": 267456,
-      "name": "Ngayong Gabi",
-      "url": "https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH"
-    },
-    {
-      "added_at": "2024-01-10 00:55:20",
-      "album": {
         "name": "Pano",
         "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
       },
@@ -363,6 +315,22 @@
       "duration_ms": 254400,
       "name": "Pano",
       "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
+    },
+    {
+      "added_at": "2024-01-10 00:55:20",
+      "album": {
+        "name": "Ikaw Pa Rin",
+        "url": "https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k"
+      },
+      "artists": [
+        {
+          "name": "mrld",
+          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
+        }
+      ],
+      "duration_ms": 191009,
+      "name": "Ikaw Pa Rin",
+      "url": "https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly"
     },
     {
       "added_at": "2024-01-10 00:55:20",
@@ -399,6 +367,22 @@
     {
       "added_at": "2024-01-10 00:55:20",
       "album": {
+        "name": "Bigotilyo",
+        "url": "https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f"
+      },
+      "artists": [
+        {
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+        }
+      ],
+      "duration_ms": 168493,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV"
+    },
+    {
+      "added_at": "2024-01-10 00:55:20",
+      "album": {
         "name": "Letters Never Sent",
         "url": "https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF"
       },
@@ -415,18 +399,34 @@
     {
       "added_at": "2024-01-10 00:55:20",
       "album": {
-        "name": "Bigotilyo",
-        "url": "https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f"
+        "name": "Ngayong Gabi",
+        "url": "https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot"
       },
       "artists": [
         {
-          "name": "Parokya Ni Edgar",
-          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
         }
       ],
-      "duration_ms": 168493,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV"
+      "duration_ms": 267456,
+      "name": "Ngayong Gabi",
+      "url": "https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH"
+    },
+    {
+      "added_at": "2024-01-10 00:55:20",
+      "album": {
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 310708,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
     },
     {
       "added_at": "2024-01-10 00:55:20",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-01-10 00:55:20",
       "album": {
-        "name": "Destination XYZ",
-        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
-      },
-      "artists": [
-        {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
-        }
-      ],
-      "duration_ms": 326813,
-      "name": "Magbalik",
-      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
-    },
-    {
-      "added_at": "2024-01-10 00:55:20",
-      "album": {
         "name": "Buruguduystunstugudunstuy",
         "url": "https://open.spotify.com/album/6BGIBrSqYRLcOEOwz0x19B"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 182200,
       "name": "Harana",
       "url": "https://open.spotify.com/track/6UGrgPcISfwGeDikA4YpEv"
+    },
+    {
+      "added_at": "2024-01-10 00:55:20",
+      "album": {
+        "name": "Destination XYZ",
+        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "duration_ms": 326813,
+      "name": "Magbalik",
+      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
     },
     {
       "added_at": "2024-01-10 00:55:20",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-01-10 00:55:20",
       "album": {
-        "name": "Unang Sayaw",
-        "url": "https://open.spotify.com/album/05VgPoz2XrqlgnnOYBaPsk"
-      },
-      "artists": [
-        {
-          "name": "NOBITA",
-          "url": "https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V"
-        }
-      ],
-      "duration_ms": 278008,
-      "name": "Unang Sayaw",
-      "url": "https://open.spotify.com/track/4iRRAvxPPWXQp3mV1rAbPF"
-    },
-    {
-      "added_at": "2024-01-10 00:55:20",
-      "album": {
         "name": "Pauwi Nako",
         "url": "https://open.spotify.com/album/33qqYIFSFSVYO3wCkc1Ksh"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 341573,
       "name": "Pauwi Nako",
       "url": "https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr"
+    },
+    {
+      "added_at": "2024-01-10 00:55:20",
+      "album": {
+        "name": "Unang Sayaw",
+        "url": "https://open.spotify.com/album/05VgPoz2XrqlgnnOYBaPsk"
+      },
+      "artists": [
+        {
+          "name": "NOBITA",
+          "url": "https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V"
+        }
+      ],
+      "duration_ms": 278008,
+      "name": "Unang Sayaw",
+      "url": "https://open.spotify.com/track/4iRRAvxPPWXQp3mV1rAbPF"
     },
     {
       "added_at": "2024-01-10 00:55:20",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-01-10 00:55:20",
       "album": {
-        "name": "Monodramatic",
-        "url": "https://open.spotify.com/album/3ZlePmbDly7zZxzi8MdWib"
+        "name": "Kung Alam Mo Lang",
+        "url": "https://open.spotify.com/album/54hm1RYQZwy4tZokG4YhGf"
       },
       "artists": [
         {
-          "name": "Silent Sanctuary",
-          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+          "name": "Bandang Lapis",
+          "url": "https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx"
         }
       ],
-      "duration_ms": 253360,
-      "name": "Sa'yo",
-      "url": "https://open.spotify.com/track/3Poi6rJ2p1G5ZrsRmCFH7e"
+      "duration_ms": 256311,
+      "name": "Kung Alam Mo Lang",
+      "url": "https://open.spotify.com/track/2OwTNSBOspDlAWDcv37GIW"
     }
   ],
   "unique_name": "OPM Favorites",

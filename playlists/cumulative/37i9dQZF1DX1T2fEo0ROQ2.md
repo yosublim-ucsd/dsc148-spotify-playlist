@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-422 songs - 22 hr 2 min
+424 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Callao](https://open.spotify.com/track/5amx3yIBxrbiTLvENP6XFX) | [Vinícius Énnae](https://open.spotify.com/artist/3kj0g7ata90ABzu9sHr5XD) | [Callao](https://open.spotify.com/album/54xrVh7X5GDUKF5saQAgLW) | 2:55 | 2023-02-03 |  |
 | [Calm](https://open.spotify.com/track/3Pcd6tCQ84hbnBDhkIhO4g) | [Life Flows](https://open.spotify.com/artist/5YqVHlI6MomKuf0q8XUnhE) | [New Light](https://open.spotify.com/album/5CFrWmXkc0iHtduRrZYgmY) | 3:35 | 2022-05-26 | 2023-08-25 |
 | [Calm Down](https://open.spotify.com/track/2At5E780QvmswvvPuTKPh9) | [Tranquomo](https://open.spotify.com/artist/6z737VR1MbCOSfYhG1mzY3) | [Calm Down](https://open.spotify.com/album/3TlOeKIxwjajTKp8TWWZPG) | 3:15 | 2022-05-26 |  |
+| [Calm Sequencer](https://open.spotify.com/track/661zdyC91aNQ6L7YWhiONe) | [Tiam Aref](https://open.spotify.com/artist/2mCQyDE74XqEsxiYgZnpnL) | [Calm Sequencer](https://open.spotify.com/album/5g1g6GJjXj43ylTntF6pBu) | 3:57 | 2024-01-30 |  |
 | [Calma Tranquilla](https://open.spotify.com/track/0SC85m5L8K9gES5M3Y4Mqb) | [Carlo Cipriani](https://open.spotify.com/artist/5lXIK5LjHj6sjXP3cgP5N1) | [Calma Tranquilla](https://open.spotify.com/album/2lLmQokjLZK9V3oJ9DQI8o) | 2:05 | 2022-05-26 |  |
 | [Calmative](https://open.spotify.com/track/08uQmwPw9ZbJW82ikavFKL) | [Vincente M](https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA) | [First Flower](https://open.spotify.com/album/4z5M2r9PDsE5jz72rYMjvz) | 3:42 | 2022-07-22 | 2022-11-12 |
 | [Calmative](https://open.spotify.com/track/6k1DasduiT5LjawgYPg3pF) | [Vincente M](https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA) | [First Flower](https://open.spotify.com/album/0kRICOLMCYoy7QoN40sSJO) | 3:42 | 2022-05-26 | 2022-07-29 |
@@ -204,6 +205,7 @@
 | [Lana](https://open.spotify.com/track/3MGCNZbekjphNk5SKVCdme) | [Julian Nema](https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS) | [Nova](https://open.spotify.com/album/1rvBfxWsbgqQKg0UHdTTeT) | 2:35 | 2022-10-21 |  |
 | [Lasai](https://open.spotify.com/track/1vXPvFeZGpojHygGjSjQfH) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Lasai](https://open.spotify.com/album/7kYXPNnP4j96kO0FzCfYjb) | 3:41 | 2022-05-26 |  |
 | [Le temps passe](https://open.spotify.com/track/1FKTWT91DCPwRbWMxK3NZn) | [Matilda Charpie](https://open.spotify.com/artist/5W0bcXKJ4xnO3q0ViObq0N) | [Le temps passe](https://open.spotify.com/album/0ItCJJdXRzbhsl1zwclP4z) | 2:38 | 2022-05-26 |  |
+| [Left Outside Alone In My Dream](https://open.spotify.com/track/4X6J6308RZMG8ACWHZM0No) | [Peyote Level](https://open.spotify.com/artist/4pYUORZCLABNwtzn9kezVd) | [Left Outside Alone In My Dream](https://open.spotify.com/album/5lx2Or9TMCyCWzp2fYotHy) | 3:04 | 2024-01-30 |  |
 | [Let Me Disappear](https://open.spotify.com/track/16HtsIT4MCXQEbAXfT1rGP) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [Let Me Disappear](https://open.spotify.com/album/5xe8NT7aIklJe7Rd1nsQWc) | 3:23 | 2022-05-26 |  |
 | [Leviathan](https://open.spotify.com/track/0BYHrCCKTQyHqLBFNb5yMQ) | [Dean Delaux](https://open.spotify.com/artist/4n8xlf3g6Q5K64ZDw1qVx0) | [Leviathan](https://open.spotify.com/album/2udP6hGcDbxPiOQOcBngRz) | 2:24 | 2022-05-26 |  |
 | [Levitate](https://open.spotify.com/track/7dZchcSQZRcqLs9g5FkbYs) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Levitate](https://open.spotify.com/album/6cLDivlBobugdVdPeKuySN) | 1:30 | 2022-05-26 | 2023-07-29 |

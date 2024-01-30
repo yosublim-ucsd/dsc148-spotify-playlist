@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Mixtape curated by Blessd\. Listen to all mixtapes <a href="spotify:genre:0JQ5DAqbMKFNhzOQgaEZ0b">HERE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,889,962 likes - 25 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,889,543 likes - 25 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 24 | [Hagale Pues](https://open.spotify.com/track/6Tah0tpInGpXOnYvPcwrCc) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Hagale Pues](https://open.spotify.com/album/7I5F0zSVcazXWKAG0Pnr2l) | 2:28 |
 | 25 | [Energía](https://open.spotify.com/track/2iZZoJHrohOxAxlK6o2Awg) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Energía](https://open.spotify.com/album/76mNc50Njn9XlFMMYvh1G3) | 3:24 |
 
-Snapshot ID: `MCwwMWU1YTQxZDk5YTM0NDk3MjIzMDMwYTQwNDNmZDZiNGQ1ZDllODI2`
+Snapshot ID: `MCxlNTMxMTMyZTJiMGM3ZTAxZDgxMWVjODI4ZmVjZTBhMzlhOTA4Yzg0`

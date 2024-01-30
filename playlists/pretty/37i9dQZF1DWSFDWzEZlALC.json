@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: ENNIO",
-  "num_followers": 413392,
+  "num_followers": 413466,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWEwMGE3MmJmYzBiYmQwYjQxODIwZTQwNzlhZDQwZTkxYTcxOWFi",
+  "snapshot_id": "MCw2MjllYzI2NmIzZjgzODYyNGQ5MjAzZjE2MTc2MjFlNzIzNDZmYWYz",
   "tracks": [
     {
       "added_at": "2024-01-26 08:28:10",
@@ -47,50 +47,18 @@
     {
       "added_at": "2024-01-26 08:28:10",
       "album": {
-        "name": "EKSTASE",
-        "url": "https://open.spotify.com/album/7qn6KrafYuBOj2bgn4FXvM"
+        "name": "Ode an den Bass",
+        "url": "https://open.spotify.com/album/1gAnk5qZJAA3T01vufMMDD"
       },
       "artists": [
         {
-          "name": "KAFFKIEZ",
-          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
+          "name": "PaulWetz",
+          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
         }
       ],
-      "duration_ms": 175400,
-      "name": "Galaxis",
-      "url": "https://open.spotify.com/track/2ngK3wxFAWhsn3oyKFAaeb"
-    },
-    {
-      "added_at": "2024-01-26 08:28:10",
-      "album": {
-        "name": "Richtung Mars",
-        "url": "https://open.spotify.com/album/3tpBhoJe0XBSwDE5mNjskj"
-      },
-      "artists": [
-        {
-          "name": "error",
-          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
-        }
-      ],
-      "duration_ms": 163157,
-      "name": "Richtung Mars",
-      "url": "https://open.spotify.com/track/5eC2s3KFhxnsM7JYnea6EN"
-    },
-    {
-      "added_at": "2024-01-26 08:28:10",
-      "album": {
-        "name": "Rosenkohl",
-        "url": "https://open.spotify.com/album/3NQOMc1QfESj79ZSzfA0C5"
-      },
-      "artists": [
-        {
-          "name": "soffie",
-          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Rosenkohl",
-      "url": "https://open.spotify.com/track/2cJYzrox3QphJpiwqAVwis"
+      "duration_ms": 200042,
+      "name": "Ode an den Bass",
+      "url": "https://open.spotify.com/track/5BfQq5cdMr5f5PVSz6yRpq"
     },
     {
       "added_at": "2024-01-26 08:28:10",
@@ -111,18 +79,70 @@
     {
       "added_at": "2024-01-26 08:28:10",
       "album": {
-        "name": "Ode an den Bass",
-        "url": "https://open.spotify.com/album/1gAnk5qZJAA3T01vufMMDD"
+        "name": "Richtung Mars",
+        "url": "https://open.spotify.com/album/3tpBhoJe0XBSwDE5mNjskj"
       },
       "artists": [
         {
-          "name": "PaulWetz",
-          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+          "name": "error",
+          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
         }
       ],
-      "duration_ms": 200042,
-      "name": "Ode an den Bass",
-      "url": "https://open.spotify.com/track/5BfQq5cdMr5f5PVSz6yRpq"
+      "duration_ms": 163157,
+      "name": "Richtung Mars",
+      "url": "https://open.spotify.com/track/5eC2s3KFhxnsM7JYnea6EN"
+    },
+    {
+      "added_at": "2024-01-26 08:28:10",
+      "album": {
+        "name": "bittebitte",
+        "url": "https://open.spotify.com/album/19wMMm9dBInd4tgVFAlfRv"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
+        },
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "duration_ms": 166700,
+      "name": "bittebitte",
+      "url": "https://open.spotify.com/track/4BPWmTxuWLsvOwN4ej6S7u"
+    },
+    {
+      "added_at": "2024-01-26 08:28:10",
+      "album": {
+        "name": "EKSTASE",
+        "url": "https://open.spotify.com/album/7qn6KrafYuBOj2bgn4FXvM"
+      },
+      "artists": [
+        {
+          "name": "KAFFKIEZ",
+          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "Galaxis",
+      "url": "https://open.spotify.com/track/2ngK3wxFAWhsn3oyKFAaeb"
+    },
+    {
+      "added_at": "2024-01-26 08:28:10",
+      "album": {
+        "name": "Rosenkohl",
+        "url": "https://open.spotify.com/album/3NQOMc1QfESj79ZSzfA0C5"
+      },
+      "artists": [
+        {
+          "name": "soffie",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Rosenkohl",
+      "url": "https://open.spotify.com/track/2cJYzrox3QphJpiwqAVwis"
     },
     {
       "added_at": "2024-01-26 08:28:10",
@@ -163,26 +183,6 @@
       "duration_ms": 174907,
       "name": "Party mit mir selbst",
       "url": "https://open.spotify.com/track/2kNpg9AiImLPLhDDbgWgZs"
-    },
-    {
-      "added_at": "2024-01-26 08:28:10",
-      "album": {
-        "name": "bittebitte",
-        "url": "https://open.spotify.com/album/19wMMm9dBInd4tgVFAlfRv"
-      },
-      "artists": [
-        {
-          "name": "Aaron",
-          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
-        },
-        {
-          "name": "Dani Lia",
-          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
-        }
-      ],
-      "duration_ms": 166700,
-      "name": "bittebitte",
-      "url": "https://open.spotify.com/track/4BPWmTxuWLsvOwN4ej6S7u"
     },
     {
       "added_at": "2024-01-26 08:28:10",

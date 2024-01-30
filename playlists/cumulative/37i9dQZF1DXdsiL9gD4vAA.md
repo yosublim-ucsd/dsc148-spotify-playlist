@@ -4,7 +4,7 @@
 
 > Let these contemplative couplets take you away.
 
-124 songs - 11 hr 44 min
+125 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Para Para Hua](https://open.spotify.com/track/6cSrBzC2LM0KjsxRI83mik) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali the Ghazal Maestro](https://open.spotify.com/album/6WtcRp4M2WaSBX3hza6efS) | 3:48 | 2021-12-01 | 2022-07-29 |
 | [Para Para Hua](https://open.spotify.com/track/4oCvl7Jdbm7yNVoLohUHOV) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Ghazal \- For The First Time Together \- Vol \- 1](https://open.spotify.com/album/5Hdhdp7Ouuz4c6lROJCofW) | 3:53 | 2022-11-09 | 2022-11-13 |
 | [Para Para Hua](https://open.spotify.com/track/6sjMz9ZnmYzn6bRBHiMQG7) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali The Gazal Mastro](https://open.spotify.com/album/4MHSBOVdmXDu10EVMyfArU) | 3:53 | 2022-07-26 | 2023-05-20 |
+| [Parwaah](https://open.spotify.com/track/6gKJGGdSdplnQMztBCCpnR) | [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Parwaah](https://open.spotify.com/album/3FMVR3rWT0bqQV7nBtgBWl) | 3:26 | 2024-01-29 |  |
 | [Phir Chiddi Raat](https://open.spotify.com/track/0bdlGyCdA6DDg5wd5QfvQx) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Bazaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1avIfZTPBNVgxgbBSaNLnX) | 5:08 | 2021-12-01 | 2023-05-16 |
 | [Poshiida](https://open.spotify.com/track/5IBSUC328q7FOJbRWSBshZ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Poshiida](https://open.spotify.com/album/028fac3QHLwLvVAiGpg8Os) | 5:19 | 2023-12-12 | 2024-01-27 |
 | [Poshiida](https://open.spotify.com/track/6ArdbmXqWGlRjsPQQfAGj4) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Poshiida](https://open.spotify.com/album/5l1KWAkPohyeWSp6EhJL3o) | 5:19 | 2024-01-25 |  |

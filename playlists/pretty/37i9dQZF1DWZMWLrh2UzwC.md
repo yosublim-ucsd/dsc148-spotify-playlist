@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: \(G\)I\-DLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,499 likes - 102 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,502 likes - 102 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 52 | [why’d you have to be like that?](https://open.spotify.com/track/6ZVlPEJeT4zxuGzWb9lbZA) | [marsh.](https://open.spotify.com/artist/5UG3ifWUIKrOeo2pCwKYLC) | [why’d you have to be like that?](https://open.spotify.com/album/2laHNZcQ08kzx4NAsDhrId) | 2:50 |
 | 53 | [elusive dream](https://open.spotify.com/track/7kT4oHtvxcs7oJurU5Qzmd) | [Rae Nadya](https://open.spotify.com/artist/3zWXvj5aQGhcISnaBXeuli) | [elusive dream](https://open.spotify.com/album/6XCb16HB1SjUxRDcYvuR99) | 4:09 |
 | 54 | [Chop](https://open.spotify.com/track/5tJr0DQL0lRML11c4vjvjV) | [Amari Teague](https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC) | [Chop](https://open.spotify.com/album/10FO1RdujEMob5G8uCOiKO) | 2:50 |
-| 55 | [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 |
+| 55 | [Head Up](https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp) | 3:09 |
 | 56 | [WTF R U!?](https://open.spotify.com/track/7IrBKNBMGIDv8od1EEaQPk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [WTF R U!?](https://open.spotify.com/album/1qNBQh6STwsh2iP8bFecSg) | 2:32 |
 | 57 | [Lead Me On](https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Lead Me On](https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb) | 2:53 |
 | 58 | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A) | 5:00 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 101 | [Bullet of Dignity](https://open.spotify.com/track/0bd1oHZdvi2DHUGPVhdOAI) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Bullet of Dignity](https://open.spotify.com/album/40gq5eFnNQbQ7EEvO6V2ja) | 2:59 |
 | 102 | [No Doubt](https://open.spotify.com/track/3vMtPTyRz8UKXuGXGmqhHM) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [No Doubt](https://open.spotify.com/album/48UbbOD6O9q4Nc95CIalLR) | 3:46 |
 
-Snapshot ID: `MCwwOGY5MGU1NmQ0YjEwOWM2NGMwMDRiZDkyN2E4Yzg3MGU2MzQzOTNj`
+Snapshot ID: `MCw1ZjkxNzhhNDc4YjA5Y2UxMmM2MTIxOTNlZWE0OTUzM2QxNGMzMzkz`

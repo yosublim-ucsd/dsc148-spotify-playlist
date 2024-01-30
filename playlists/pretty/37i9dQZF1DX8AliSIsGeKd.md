@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Ann Clue
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,277 likes - 90 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,473 likes - 90 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Dystopia](https://open.spotify.com/track/0TQKpaHuextgMdznPlxiQ1) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp), [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [Dystopia](https://open.spotify.com/album/23KbjqK1LNV1bTj13oQj94) | 6:42 |
 | 90 | [Atemporal](https://open.spotify.com/track/1QO97rv8QyqPXQYQ5HrqDR) | [Keith Holland](https://open.spotify.com/artist/2aiclLmwHVK8c8eyCf0hOX) | [Nadie / Atemporal](https://open.spotify.com/album/1bweA3GCMxMZVa8UvA0gdz) | 4:17 |
 
-Snapshot ID: `MCxmZThkMGY1NGJjMGJjMGJlZGVkNDAyZmQzYWY2ODk2YWEzMjRiMThk`
+Snapshot ID: `MCwwNjA5OTdiMWFiMjQyMzllOWE0NWFjMzdmNjZmYWM4ZGU1NDQxYTgz`

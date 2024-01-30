@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: ENNIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,392 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,466 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Zeit](https://open.spotify.com/track/6WoyIbtL9Ex5jxiGF7a5jE) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Zeit](https://open.spotify.com/album/4aL2wj06bRu9M93gzQJbpI) | 2:15 |
 | 2 | [sag was](https://open.spotify.com/track/1phFx4XBj9VOSV5c8s4PQr) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [sag was](https://open.spotify.com/album/2biK8sXdAObBs6oRqNpTEs) | 3:22 |
-| 3 | [Galaxis](https://open.spotify.com/track/2ngK3wxFAWhsn3oyKFAaeb) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [EKSTASE](https://open.spotify.com/album/7qn6KrafYuBOj2bgn4FXvM) | 2:55 |
-| 4 | [Richtung Mars](https://open.spotify.com/track/5eC2s3KFhxnsM7JYnea6EN) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Richtung Mars](https://open.spotify.com/album/3tpBhoJe0XBSwDE5mNjskj) | 2:43 |
-| 5 | [Rosenkohl](https://open.spotify.com/track/2cJYzrox3QphJpiwqAVwis) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Rosenkohl](https://open.spotify.com/album/3NQOMc1QfESj79ZSzfA0C5) | 2:42 |
-| 6 | [Nichts für immer](https://open.spotify.com/track/7DzpWWBAuKpaNfzavoTjLI) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [Nichts für immer](https://open.spotify.com/album/1ikXu7Cq3SEFP34uqSNCRS) | 2:31 |
-| 7 | [Ode an den Bass](https://open.spotify.com/track/5BfQq5cdMr5f5PVSz6yRpq) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Ode an den Bass](https://open.spotify.com/album/1gAnk5qZJAA3T01vufMMDD) | 3:20 |
-| 8 | [immatrikuliert](https://open.spotify.com/track/0IQN1UjYkpP8I36Z7HrNfC) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [immatrikuliert](https://open.spotify.com/album/5YW9rJ154VueLdV3n7v0rW) | 2:24 |
-| 9 | [Party mit mir selbst](https://open.spotify.com/track/2kNpg9AiImLPLhDDbgWgZs) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq), [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [Party mit mir selbst](https://open.spotify.com/album/7FYIEyAdivc1sNE7j6cqkW) | 2:54 |
-| 10 | [bittebitte](https://open.spotify.com/track/4BPWmTxuWLsvOwN4ej6S7u) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [bittebitte](https://open.spotify.com/album/19wMMm9dBInd4tgVFAlfRv) | 2:46 |
+| 3 | [Ode an den Bass](https://open.spotify.com/track/5BfQq5cdMr5f5PVSz6yRpq) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Ode an den Bass](https://open.spotify.com/album/1gAnk5qZJAA3T01vufMMDD) | 3:20 |
+| 4 | [Nichts für immer](https://open.spotify.com/track/7DzpWWBAuKpaNfzavoTjLI) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [Nichts für immer](https://open.spotify.com/album/1ikXu7Cq3SEFP34uqSNCRS) | 2:31 |
+| 5 | [Richtung Mars](https://open.spotify.com/track/5eC2s3KFhxnsM7JYnea6EN) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Richtung Mars](https://open.spotify.com/album/3tpBhoJe0XBSwDE5mNjskj) | 2:43 |
+| 6 | [bittebitte](https://open.spotify.com/track/4BPWmTxuWLsvOwN4ej6S7u) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [bittebitte](https://open.spotify.com/album/19wMMm9dBInd4tgVFAlfRv) | 2:46 |
+| 7 | [Galaxis](https://open.spotify.com/track/2ngK3wxFAWhsn3oyKFAaeb) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [EKSTASE](https://open.spotify.com/album/7qn6KrafYuBOj2bgn4FXvM) | 2:55 |
+| 8 | [Rosenkohl](https://open.spotify.com/track/2cJYzrox3QphJpiwqAVwis) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Rosenkohl](https://open.spotify.com/album/3NQOMc1QfESj79ZSzfA0C5) | 2:42 |
+| 9 | [immatrikuliert](https://open.spotify.com/track/0IQN1UjYkpP8I36Z7HrNfC) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [immatrikuliert](https://open.spotify.com/album/5YW9rJ154VueLdV3n7v0rW) | 2:24 |
+| 10 | [Party mit mir selbst](https://open.spotify.com/track/2kNpg9AiImLPLhDDbgWgZs) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq), [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [Party mit mir selbst](https://open.spotify.com/album/7FYIEyAdivc1sNE7j6cqkW) | 2:54 |
 | 11 | [5 neue sorgen](https://open.spotify.com/track/4hZKwJ0XKPKAsfdEXOrPik) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [5 neue sorgen](https://open.spotify.com/album/0HIHYFw3F6Swht6XLpJGwf) | 2:29 |
 | 12 | [vermiss nicht mehr](https://open.spotify.com/track/226lOE0355w0RBUXsn3XWV) | [Mika](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [vermiss nicht mehr](https://open.spotify.com/album/37djXxoBTq8AzNuJBA8XkZ) | 2:53 |
 | 13 | [Nur 3 Sekunden](https://open.spotify.com/track/4xsNzTOHuiE211c4pSVoVw) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Nur 3 Sekunden](https://open.spotify.com/album/5nTPR9hQ3bjBtNeF3utJfP) | 2:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [BLa\*\_\*](https://open.spotify.com/track/4yzpCGNFvaxrENB5H78uwb) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [BLa\*\_\*](https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK) | 2:27 |
 | 75 | [Es regnet Hirn \(feat\. Paula Carolina\)](https://open.spotify.com/track/02Y7L1qY9Z771QO2w3ubgk) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK), [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Es regnet Hirn \(feat\. Paula Carolina\)](https://open.spotify.com/album/0ip66XV3S8XeOHlqymdX0M) | 3:14 |
 
-Snapshot ID: `MCw4NWEwMGE3MmJmYzBiYmQwYjQxODIwZTQwNzlhZDQwZTkxYTcxOWFi`
+Snapshot ID: `MCw2MjllYzI2NmIzZjgzODYyNGQ5MjAzZjE2MTc2MjFlNzIzNDZmYWYz`

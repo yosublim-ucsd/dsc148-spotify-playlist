@@ -4,7 +4,7 @@
 
 > 🇵🇭 vibin' 🥶 🔥 Cover: Felip, PLAYERTWO
 
-198 songs - 11 hr 26 min
+199 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Araw2x Gabi2x](https://open.spotify.com/track/5LrsVk1IzDBXkaUDL6PoDC) | [Zo zo](https://open.spotify.com/artist/0xyijUZwKlIH8yjj0OuDf6) | [Araw2x Gabi2x](https://open.spotify.com/album/5tCSAhDhtQZlvFXywZu7PZ) | 3:43 | 2022-10-12 | 2023-07-29 |
 | [Ayos Lang ‘Yan](https://open.spotify.com/track/4SsdGsUCb6RWorUQ58bueg) | [Hero](https://open.spotify.com/artist/0zF89Z0aMZSGZlgEBX0uvm) | [Ayos Lang ‘Yan](https://open.spotify.com/album/2pBLiHZ28ZbC3gC6MOIp1H) | 3:23 | 2023-10-02 | 2023-12-06 |
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2023-10-27 |  |
+| [Babaero](https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Babaero](https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO) | 2:55 | 2024-01-29 |  |
 | [Babalik Ba](https://open.spotify.com/track/2PUnWvAzUpIpIgQtOCRavW) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Babalik Ba](https://open.spotify.com/album/2tbiWn0aGNRWJm5aYhz6DA) | 2:52 | 2023-04-06 | 2023-09-07 |
 | [bb girl](https://open.spotify.com/track/4JkPVqYsg83oHC4VhSW37n) | [Yoki](https://open.spotify.com/artist/2KSbfWcuuca3HqCgxzNR5c) | [bb girl](https://open.spotify.com/album/0WGdprszHqeEuOIu8F6t5D) | 3:13 | 2023-02-23 | 2023-09-07 |
 | [BE KIND](https://open.spotify.com/track/49DQxYQV8e7HFzDLXJGTyf) | [Adjeng](https://open.spotify.com/artist/6YceEbx95WDXZNT8fKpKyi) | [BE KIND](https://open.spotify.com/album/0yaYlzdd5cRPPvX7xgajxm) | 3:24 | 2022-10-12 | 2023-07-29 |
@@ -41,7 +42,7 @@
 | [Comfort Zone](https://open.spotify.com/track/2KKyzmlAJFq3WvOHvuTMt1) | [Ayip](https://open.spotify.com/artist/5hvJjbF0h7vQRvZ47Ll1zP) | [Comfort Zone](https://open.spotify.com/album/6OpBQt9Ui1f92EUbNAgIhr) | 2:55 | 2023-04-06 | 2023-09-07 |
 | [cool with u](https://open.spotify.com/track/41wYOM8hifwnuMsLjilL0F) | [Kio Priest](https://open.spotify.com/artist/63LUimzizrAuTWQ6nHkaky) | [cool with u](https://open.spotify.com/album/5cXWp9TLbY1ziTOcA9MDsw) | 2:56 | 2023-07-28 | 2023-10-14 |
 | [Dalawa](https://open.spotify.com/track/7KL81oWVy5M91P6X5nt4wq) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [Dalawa](https://open.spotify.com/album/41fY9cER956ekeEXYZQBJF) | 3:53 | 2022-10-12 | 2023-07-29 |
-| [Dare You](https://open.spotify.com/track/2HLCZ1OJCd3uRd5o5btDNW) | [Kiana V](https://open.spotify.com/artist/1DZGAZcaTA32eLJELEsjXY) | [Dare You](https://open.spotify.com/album/1IkwnBsMi80pYR6hHLUMZO) | 2:56 | 2023-10-02 |  |
+| [Dare You](https://open.spotify.com/track/2HLCZ1OJCd3uRd5o5btDNW) | [Kiana V](https://open.spotify.com/artist/1DZGAZcaTA32eLJELEsjXY) | [Dare You](https://open.spotify.com/album/1IkwnBsMi80pYR6hHLUMZO) | 2:56 | 2023-10-02 | 2024-01-30 |
 | [Dazed](https://open.spotify.com/track/6gPB7r1NuSNfiC4GSnARcz) | [Kiana V](https://open.spotify.com/artist/1DZGAZcaTA32eLJELEsjXY) | [Dazed](https://open.spotify.com/album/5XVE9feP9gPeaEnYDzHMaB) | 4:00 | 2022-10-12 | 2022-12-15 |
 | [DESPERADO](https://open.spotify.com/track/5OhOlK3n9t6vCsDjNQvdOc) | [ARDEE](https://open.spotify.com/artist/5KyAtSiun66X0W4l9azY1J), [Jrldm](https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB), [aust\|nn](https://open.spotify.com/artist/02qicH9o3fQf9RhfhzGgKm) | [DESPERADO](https://open.spotify.com/album/0zpdy5QT4W1S138ntxeywQ) | 4:57 | 2022-10-12 | 2023-05-18 |
 | [Di ko pala kaya](https://open.spotify.com/track/28ORaX44ctuxnlZ8EvMeF8) | [Chy](https://open.spotify.com/artist/2pdQteTtlz2JwxUJnOiBRE) | [Di ko pala kaya](https://open.spotify.com/album/6I2lmp16dw7oYB6bRC6lhY) | 4:12 | 2023-11-10 |  |

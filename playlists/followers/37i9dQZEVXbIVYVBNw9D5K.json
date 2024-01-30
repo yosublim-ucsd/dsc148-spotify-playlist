@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 820301,
+  "2024-01-30": 820340,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Turkey.",
   "name": "Top 50 - Turkey",
@@ -863,7 +863,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 149642,
       "name": "Aman G\u00fczel Yava\u015f Y\u00fcr\u00fc",
       "url": "https://open.spotify.com/track/2uZ7RwAWJiLQUkupslGAVZ"
@@ -8049,7 +8049,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 143004,
       "name": "\u0130stanbul",
       "url": "https://open.spotify.com/track/0IwoMJSeyKvHncd3XDYboj"
@@ -8093,7 +8093,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 184792,
       "name": "\u0130STANBUL",
       "url": "https://open.spotify.com/track/6GKAf3Sq0W8flUosmCirK7"
@@ -13543,7 +13543,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 108551,
       "name": "SHOT",
       "url": "https://open.spotify.com/track/7MEOvvU8t9rx8b4hWemnWW"

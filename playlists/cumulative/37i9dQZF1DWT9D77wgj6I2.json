@@ -350,7 +350,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 246759,
       "name": "Cuando Te Toco",
       "url": "https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 250000,
       "name": "Era Mentira",
       "url": "https://open.spotify.com/track/6R8Wtmkt4gExspMQV3W9xw"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 253880,
       "name": "Reflejo",
       "url": "https://open.spotify.com/track/54zDpwf0mqx9VQRn91SLX6"
@@ -1410,6 +1410,24 @@
       "duration_ms": 272000,
       "name": "Tengo una Necesidad - Bachata Version",
       "url": "https://open.spotify.com/track/5sRMQMMZ8v3GVI7WrRw9AU"
+    },
+    {
+      "album": {
+        "name": "Todo de Mi",
+        "url": "https://open.spotify.com/album/58Enl9mlqHa9QexbtUZc4G"
+      },
+      "artists": [
+        {
+          "name": "Dani J",
+          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221204,
+      "name": "Todo de Mi",
+      "url": "https://open.spotify.com/track/1JHIAmLrqKwURVE5lHVuj4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,607 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,776 likes - 101 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 94 | [RÅW & UNCUT](https://open.spotify.com/track/3qCdb8GuMPzXbVzBbkre9P) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [RÅW & UNCUT](https://open.spotify.com/album/4toPAW7HgveYu5M9lAYUga) | 3:04 |
 | 95 | [Riga By Bike](https://open.spotify.com/track/5LTT4eNSUmsRh5UPWtyhjj) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Riga By Bike](https://open.spotify.com/album/5eziB08STdQkuVE9UAgyOk) | 2:22 |
 | 96 | [Fool's Gold \- Instrumental](https://open.spotify.com/track/400dKJ9NMuxsg99O0te1Ix) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Dreamer's Disease \(Instrumentals\)](https://open.spotify.com/album/1eW7YxArELoW5iCXdCjEmC) | 2:47 |
-| 97 | [No Bad Thoughts](https://open.spotify.com/track/2RQmw3XOLPVO425zmdIgOA) | [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z), [Zod](https://open.spotify.com/artist/35gOMrYr6tnnuUrnU5fosv) | [No Bad Thoughts](https://open.spotify.com/album/3SNihfZvCdZvAG37ETYi76) | 2:13 |
-| 98 | [Late Evening](https://open.spotify.com/track/0sTVGD0aRZ1SQ37q0eLZoS) | [Kezz Beats](https://open.spotify.com/artist/6UfsrHXyOdIVCWnv4YSou3) | [Late Evening](https://open.spotify.com/album/1MNWCI5nvnLlsja6rpetro) | 2:28 |
-| 99 | [Aix](https://open.spotify.com/track/34mXkxjLfdL4LseDpQYps0) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Aix](https://open.spotify.com/album/5I7cP45DUe2N8gjKM2X6vB) | 2:19 |
-| 100 | [Leave A Message](https://open.spotify.com/track/5KJqEIAYKfey08rG9KmtgE) | [Jaz93](https://open.spotify.com/artist/1GUv8VOUxgJrbN9hx20xxi), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Tanqueray](https://open.spotify.com/album/4oLwCJS6Mn5QT9WObQVdkB) | 2:51 |
+| 97 | [Change Gears \- Instrumental](https://open.spotify.com/track/2UbpxaOiQucm6n3tQlsCPn) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [I am Reuben \(Instrumentals\)](https://open.spotify.com/album/4e5P8GG5z6yY7dOvatcpkr) | 3:48 |
+| 98 | [No Bad Thoughts](https://open.spotify.com/track/2RQmw3XOLPVO425zmdIgOA) | [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z), [Zod](https://open.spotify.com/artist/35gOMrYr6tnnuUrnU5fosv) | [No Bad Thoughts](https://open.spotify.com/album/3SNihfZvCdZvAG37ETYi76) | 2:13 |
+| 99 | [Late Evening](https://open.spotify.com/track/0sTVGD0aRZ1SQ37q0eLZoS) | [Kezz Beats](https://open.spotify.com/artist/6UfsrHXyOdIVCWnv4YSou3) | [Late Evening](https://open.spotify.com/album/1MNWCI5nvnLlsja6rpetro) | 2:28 |
+| 100 | [Aix](https://open.spotify.com/track/34mXkxjLfdL4LseDpQYps0) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Aix](https://open.spotify.com/album/5I7cP45DUe2N8gjKM2X6vB) | 2:19 |
+| 101 | [Leave A Message](https://open.spotify.com/track/5KJqEIAYKfey08rG9KmtgE) | [Jaz93](https://open.spotify.com/artist/1GUv8VOUxgJrbN9hx20xxi), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Tanqueray](https://open.spotify.com/album/4oLwCJS6Mn5QT9WObQVdkB) | 2:51 |
 
-Snapshot ID: `MCw1MTllNmNmNTY5MDg0MDY5MTBkZjdlNzA1YzNkN2UyOWMxNTFkYTlm`
+Snapshot ID: `MCwwNTZmYTJlZWRkNmRhMDc5ZGI5NTZmNDJhN2Y4NTI0NGUzNGNjZDYx`

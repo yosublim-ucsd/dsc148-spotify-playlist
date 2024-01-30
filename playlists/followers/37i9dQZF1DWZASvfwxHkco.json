@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 69175,
+  "2024-01-30": 69168,
   "date_first_scraped": "2023-03-19",
   "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ea\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: Ti\u00ebsto",
   "name": "mint Japan",
@@ -538,6 +538,24 @@
     },
     {
       "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/0oYYpXXsXSacuWF0PmDclB"
+      },
+      "artists": [
+        {
+          "name": "Svan Code",
+          "url": "https://open.spotify.com/artist/4o5GhGFJiq1jj4cgBDj3vD"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "Amnesia - Radio Edit",
+      "url": "https://open.spotify.com/track/0Qhoilnbn6j8HMsqSElexb"
+    },
+    {
+      "album": {
         "name": "Another Friday Night",
         "url": "https://open.spotify.com/album/7mtOGMtwr9QpnkYaS1UuTh"
       },
@@ -913,7 +931,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 161770,
       "name": "Big FU",
       "url": "https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh"
@@ -1697,7 +1715,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 250702,
       "name": "Delilah (pull me out of this)",
       "url": "https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz"
@@ -6889,7 +6907,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 185000,
       "name": "When You Were Mine - Cheat Codes Remix",
       "url": "https://open.spotify.com/track/3HB9Sw7w421fyf8AMzgZbV"

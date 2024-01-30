@@ -1,12 +1,12 @@
 {
   "description": "A little alt, folk, and indie rock sprinkled into this delicious melting pot. Cover: Hozier",
-  "num_followers": 468202,
+  "num_followers": 468183,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjhmMWMxNzM3ZjVlNGEyNWY0ZmY5ZWEyN2FjNWJkMGI5ZDcxY2Zl",
+  "snapshot_id": "MCw1MmQwZjcyMDEzM2UzMTk1NDJjYmFkZmI2NjIyODE5ZTgzNThjNWM3",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 200546,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "The Bandit / 100,000 People",
         "url": "https://open.spotify.com/album/37jVrA1CD7d55Ft12iASUr"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 185120,
       "name": "Psychos",
       "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 200546,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Electrophonic Chronic",
-        "url": "https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ"
-      },
-      "artists": [
-        {
-          "name": "The Arcs",
-          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Eyez",
-      "url": "https://open.spotify.com/track/4gP55KOAwtv0qGuKq4YjLA"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Last Night In The Bittersweet",
         "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 330672,
       "name": "Lose It",
       "url": "https://open.spotify.com/track/5kXJylHJ1Ov1Su94vbzxfQ"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Electrophonic Chronic",
+        "url": "https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Eyez",
+      "url": "https://open.spotify.com/track/4gP55KOAwtv0qGuKq4YjLA"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "I Am The Lightning",
-        "url": "https://open.spotify.com/album/3YOjMrvWQbrTk9TodyU24C"
-      },
-      "artists": [
-        {
-          "name": "Des Rocs",
-          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "I Am The Lightning",
-      "url": "https://open.spotify.com/track/0Sm3zpAqwYVIMULTJIZSGx"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "FEVER / SKY",
         "url": "https://open.spotify.com/album/4zpGSBstdibPEMzdRH1iip"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 202040,
       "name": "Maestro (Tears Don't Lie)",
       "url": "https://open.spotify.com/track/5BF1TNThRiA6fnfGkTxEfQ"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "I Am The Lightning",
+        "url": "https://open.spotify.com/album/3YOjMrvWQbrTk9TodyU24C"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "I Am The Lightning",
+      "url": "https://open.spotify.com/track/0Sm3zpAqwYVIMULTJIZSGx"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Highlands",
-        "url": "https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw"
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
       },
       "artists": [
         {
-          "name": "Middle Kids",
-          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 211855,
-      "name": "Highlands",
-      "url": "https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6"
+      "duration_ms": 199874,
+      "name": "Deep Stays Down",
+      "url": "https://open.spotify.com/track/4ludCkJK1UF7PbxsbQMHDg"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
+        "name": "Highlands",
+        "url": "https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw"
       },
       "artists": [
         {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
         }
       ],
-      "duration_ms": 199874,
-      "name": "Deep Stays Down",
-      "url": "https://open.spotify.com/track/4ludCkJK1UF7PbxsbQMHDg"
+      "duration_ms": 211855,
+      "name": "Highlands",
+      "url": "https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6"
     },
     {
       "added_at": "2024-01-12 05:00:00",

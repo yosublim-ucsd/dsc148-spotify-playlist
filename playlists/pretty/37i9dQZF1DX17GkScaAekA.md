@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,237 likes - 69 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,792 likes - 69 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 | 24 | [Gymnopédie No\. 3](https://open.spotify.com/track/0hZBK2IS2uKdWVwEWXX1vB) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Philippe Entremont](https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO) | [Erik Satie & Friends](https://open.spotify.com/album/32kkHw8GnItrzLQ1qwupbJ) | 2:55 |
 | 25 | [24 Préludes, Op\. 28: No\. 4 in E Minor](https://open.spotify.com/track/4TdplSGjf7izKmKe81pt6b) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Martha Argerich](https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4) | [Chopin: 26 Preludes](https://open.spotify.com/album/3baJOyeM5b3t8CoOOeRKH6) | 1:51 |
 | 26 | [Merry\-Go\-Round of Life \- from 'Howl's Moving Castle'](https://open.spotify.com/track/39uLYYZytVUwcjgeYLI409) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [FREEDOM PIANO STORIES 4](https://open.spotify.com/album/5y3QOvNMlvamEs4rzua8JV) | 5:11 |
-| 27 | [Fantasia in D Minor, K\. 397](https://open.spotify.com/track/7IHEJdJhju1F2rhIiwgawx) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Mozart: Piano Sonatas K.310, K.311 & K.533/494](https://open.spotify.com/album/37qHlAzBNRI9UahnOI9lvr) | 5:16 |
+| 27 | [Mozart: Fantasia in D Minor, K\. 397](https://open.spotify.com/track/1O0XZAJf8fIN7wRgXffL0P) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Mozart](https://open.spotify.com/album/2xetV0B6kIvioqH52Q6JFW) | 5:19 |
 | 28 | [I\. Allegro moderato](https://open.spotify.com/track/3R3d9GdiGr5hYHTIwKaVjw) | [Baldassare Galuppi](https://open.spotify.com/artist/65fAk5vQnO9gmOCk2wPkuT), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [I\. Allegro moderato](https://open.spotify.com/album/51i7eo6ivT0dQxYx6eHsVx) | 2:10 |
 | 29 | [3 Romances, Op\. 11: No\. 1, Andante](https://open.spotify.com/track/6VLzm03YUeXVl3GdGyib6J) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Romance – The Piano Music of Clara Schumann](https://open.spotify.com/album/7Jt7TzZQgrMsJgI7CPyApE) | 3:02 |
 | 30 | [Today and it’s gone \(Munich Session\)](https://open.spotify.com/track/2w2ILZhs6v4kAEPD8GLIJj) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Munich Session](https://open.spotify.com/album/5Dp1VpNlgHhyXoLVU3xUEC) | 4:18 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 | 68 | [Mahler / Transcr\. Tharaud: Symphony No\. 5 in C\-Sharp Minor, Pt\. 3: IV\. Adagietto](https://open.spotify.com/track/2wRDxGoCJWiWVNgjC8eHwJ) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Le Poète du piano](https://open.spotify.com/album/5e0hqGrjuazjIvaCNLGKVk) | 10:36 |
 | 69 | [Schubert: Sonata in A Minor, D\. 821 "Arpeggione": II\. Adagio](https://open.spotify.com/track/0mphqBldbD5cTcWfnODhmI) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Anneleen Lenaerts](https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I), [Dionysis Grammenos](https://open.spotify.com/artist/1gyehD73iVuIYqL6Rltepc) | [Schumann & Schubert \- Transcriptions for Clarinet & Harp](https://open.spotify.com/album/2O1MCD0Yt1sh79kNyq3Gxk) | 3:40 |
 
-Snapshot ID: `MCxjN2M2ODA5YjcyM2E2Y2Q2NTc3YmFmMGE4MjVlYzQxY2RlOGU4OGQz`
+Snapshot ID: `MCw4YmU3OTkxYzc4NzkyNDI5ZWRkZWE3MDE0ZGU3NWJjMDQwODYxNWQy`

@@ -335,6 +335,24 @@
     },
     {
       "album": {
+        "name": "Blast (tongues)",
+        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204841,
+      "name": "Blast - tongues",
+      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
+    },
+    {
+      "album": {
         "name": "BLESS ME",
         "url": "https://open.spotify.com/album/2XHD6EX55HJfkZXGqLOH2M"
       },
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 321684,
       "name": "Hosanna",
       "url": "https://open.spotify.com/track/0H1Jd2NNq80u7xF7FzyJtn"

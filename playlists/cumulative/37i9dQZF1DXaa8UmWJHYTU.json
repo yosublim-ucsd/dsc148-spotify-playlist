@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "R\u00eaves de Braise",
+        "url": "https://open.spotify.com/album/0pMnvYzM1ArT0MRfcEWi6B"
+      },
+      "artists": [
+        {
+          "name": "\u00c9quipage ambiant",
+          "url": "https://open.spotify.com/artist/2WI0t9L9e4wmhiV7HYp9BU"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164534,
+      "name": "Chaleur Cr\u00e9pitante",
+      "url": "https://open.spotify.com/track/7KtD6u3iS7lW89Gw934Q27"
+    },
+    {
+      "album": {
         "name": "Christmas Campfire",
         "url": "https://open.spotify.com/album/2m6tZvVaPUJcMJJpQQha2H"
       },
@@ -1426,6 +1444,24 @@
       "duration_ms": 144000,
       "name": "Furnace Warmth",
       "url": "https://open.spotify.com/track/1WfjkcMD91QD93kNvja6uU"
+    },
+    {
+      "album": {
+        "name": "Fire Comfort",
+        "url": "https://open.spotify.com/album/2HMdssLELi9Qmd9W5HWZyW"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Endeavors",
+          "url": "https://open.spotify.com/artist/3TNKOriU72JCIKSKVaebNC"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148043,
+      "name": "Glowing Ashes",
+      "url": "https://open.spotify.com/track/5D1BqKyvGVCQinZeC9Uq2r"
     },
     {
       "album": {

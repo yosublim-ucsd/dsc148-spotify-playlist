@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,766 likes - 90 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,812 likes - 90 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 | 89 | [Nimbu](https://open.spotify.com/track/0JaoJx1DTAr67hv0f6jlmZ) | [Kahani](https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb) | [Nimbu](https://open.spotify.com/album/3yAtei57IWEOMO2PIh5Cua) | 4:19 |
 | 90 | [Gal Mukdi](https://open.spotify.com/track/4AQw1pwzUrucO5OOMLIrV6) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [Gal Mukdi](https://open.spotify.com/album/2hYgj4AQhL4f45jmUaIrmx) | 2:53 |
 
-Snapshot ID: `MCxjZGE5MWRhYTdmYmJkNTk1YWZlZjY0M2Q5MGJmMDU1ODdmNTE2ODhk`
+Snapshot ID: `MCwzOWQyNTZlZmQ2NGJmZTljMmYxMTUzZTE2NzMyM2E0Y2NjODA0ZjE2`

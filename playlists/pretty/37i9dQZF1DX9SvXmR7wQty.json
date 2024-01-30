@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Lara Fabian",
-  "num_followers": 39598,
+  "num_followers": 39591,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGJmNjEzNjQwZjYzYTMyYmYyN2M1OWM3OTM2OTFjZDRkYTJkMTdl",
+  "snapshot_id": "MCwyZjgwZjdiMzc1OTUxYTdkODcyMjBhZjE2NTFkMWM3NmIwNWE3ZDk0",
   "tracks": [
     {
       "added_at": "2024-01-26 18:38:27",
@@ -219,18 +219,22 @@
     {
       "added_at": "2024-01-26 18:38:27",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
+        "name": "Le chemin - 20 ans",
+        "url": "https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz"
       },
       "artists": [
         {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        },
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
         }
       ],
-      "duration_ms": 254800,
-      "name": "MAGHRIBI",
-      "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
+      "duration_ms": 170026,
+      "name": "Je cours (feat. Nuit Incolore)",
+      "url": "https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG"
     },
     {
       "added_at": "2024-01-26 18:38:27",
@@ -251,22 +255,18 @@
     {
       "added_at": "2024-01-26 18:38:27",
       "album": {
-        "name": "Aller sans retour",
-        "url": "https://open.spotify.com/album/2CGmqtcGHkQrZkyw8NfSQN"
+        "name": "27",
+        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
       },
       "artists": [
         {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
-        },
-        {
-          "name": "Koba LaD",
-          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         }
       ],
-      "duration_ms": 176146,
-      "name": "Aller sans retour",
-      "url": "https://open.spotify.com/track/4RTtj1vGu82hjp3cDtiqOj"
+      "duration_ms": 254800,
+      "name": "MAGHRIBI",
+      "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
     },
     {
       "added_at": "2024-01-26 18:38:27",
@@ -283,6 +283,42 @@
       "duration_ms": 215652,
       "name": "Zen",
       "url": "https://open.spotify.com/track/5Mb0Te31hcc1koQ0jWZUwC"
+    },
+    {
+      "added_at": "2024-01-26 18:38:27",
+      "album": {
+        "name": "AMBITION",
+        "url": "https://open.spotify.com/album/48JSJ6nOB4SegSt9Gs2cZY"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 175946,
+      "name": "DIS-MOI (feat. SDM)",
+      "url": "https://open.spotify.com/track/72EzFi8h1H2MImmS2ZoSTr"
+    },
+    {
+      "added_at": "2024-01-26 18:38:27",
+      "album": {
+        "name": "O\u00f9 es-tu Henri ?",
+        "url": "https://open.spotify.com/album/3Dh1tH75GwLOje7c4zIJBY"
+      },
+      "artists": [
+        {
+          "name": "Kinkead",
+          "url": "https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "O\u00f9 es-tu Henri ?",
+      "url": "https://open.spotify.com/track/3HFVdVdgGnZcAFfJGVC83W"
     },
     {
       "added_at": "2024-01-26 18:38:27",
@@ -307,58 +343,22 @@
     {
       "added_at": "2024-01-26 18:38:27",
       "album": {
-        "name": "O\u00f9 es-tu Henri ?",
-        "url": "https://open.spotify.com/album/3Dh1tH75GwLOje7c4zIJBY"
+        "name": "Aller sans retour",
+        "url": "https://open.spotify.com/album/2CGmqtcGHkQrZkyw8NfSQN"
       },
       "artists": [
         {
-          "name": "Kinkead",
-          "url": "https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "O\u00f9 es-tu Henri ?",
-      "url": "https://open.spotify.com/track/3HFVdVdgGnZcAFfJGVC83W"
-    },
-    {
-      "added_at": "2024-01-26 18:38:27",
-      "album": {
-        "name": "Le chemin - 20 ans",
-        "url": "https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz"
-      },
-      "artists": [
-        {
-          "name": "Kyo",
-          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
         },
         {
-          "name": "Nuit Incolore",
-          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
         }
       ],
-      "duration_ms": 170026,
-      "name": "Je cours (feat. Nuit Incolore)",
-      "url": "https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG"
-    },
-    {
-      "added_at": "2024-01-26 18:38:27",
-      "album": {
-        "name": "DELLALI (feat. Hamza)",
-        "url": "https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 182037,
-      "name": "DELLALI (feat. Hamza)",
-      "url": "https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w"
+      "duration_ms": 176146,
+      "name": "Aller sans retour",
+      "url": "https://open.spotify.com/track/4RTtj1vGu82hjp3cDtiqOj"
     },
     {
       "added_at": "2024-01-26 18:38:27",
@@ -379,22 +379,22 @@
     {
       "added_at": "2024-01-26 18:38:27",
       "album": {
-        "name": "AMBITION",
-        "url": "https://open.spotify.com/album/48JSJ6nOB4SegSt9Gs2cZY"
+        "name": "DELLALI (feat. Hamza)",
+        "url": "https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7"
       },
       "artists": [
         {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         },
         {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 175946,
-      "name": "DIS-MOI (feat. SDM)",
-      "url": "https://open.spotify.com/track/72EzFi8h1H2MImmS2ZoSTr"
+      "duration_ms": 182037,
+      "name": "DELLALI (feat. Hamza)",
+      "url": "https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w"
     },
     {
       "added_at": "2024-01-26 18:38:27",
@@ -475,22 +475,22 @@
     {
       "added_at": "2024-01-26 18:38:27",
       "album": {
-        "name": "\u00c7a c'est bien",
-        "url": "https://open.spotify.com/album/6laF6aVjTtWwMZvwYdLOES"
+        "name": "Fr\u00e8res Ennemis",
+        "url": "https://open.spotify.com/album/1HLUjcUDDsszfj7OIl6LGh"
       },
       "artists": [
         {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
         },
         {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
         }
       ],
-      "duration_ms": 159299,
-      "name": "\u00c7a c'est bien",
-      "url": "https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX"
+      "duration_ms": 179280,
+      "name": "Amiri jeans",
+      "url": "https://open.spotify.com/track/2b0nACGnsNKVvJhmhOjewh"
     },
     {
       "added_at": "2024-01-26 18:38:27",
@@ -511,22 +511,54 @@
     {
       "added_at": "2024-01-26 18:38:27",
       "album": {
-        "name": "Fr\u00e8res Ennemis",
-        "url": "https://open.spotify.com/album/1HLUjcUDDsszfj7OIl6LGh"
+        "name": "\u00c7a c'est bien",
+        "url": "https://open.spotify.com/album/6laF6aVjTtWwMZvwYdLOES"
       },
       "artists": [
         {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         },
         {
-          "name": "Koba LaD",
-          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
         }
       ],
-      "duration_ms": 179280,
-      "name": "Amiri jeans",
-      "url": "https://open.spotify.com/track/2b0nACGnsNKVvJhmhOjewh"
+      "duration_ms": 159299,
+      "name": "\u00c7a c'est bien",
+      "url": "https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX"
+    },
+    {
+      "added_at": "2024-01-26 18:38:27",
+      "album": {
+        "name": "D\u00e9cennie",
+        "url": "https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Love de toi",
+      "url": "https://open.spotify.com/track/6gxqFnRudA7OAgmwwonkcP"
+    },
+    {
+      "added_at": "2024-01-26 18:38:27",
+      "album": {
+        "name": "Chambre 140 (Part.2)",
+        "url": "https://open.spotify.com/album/7vrXUFuevPiXzR76uGPbBZ"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "duration_ms": 144933,
+      "name": "Mignon tout plein",
+      "url": "https://open.spotify.com/track/6ndhj3a2GDg2YiS1AvBVTC"
     },
     {
       "added_at": "2024-01-26 18:38:27",
@@ -563,38 +595,6 @@
       "duration_ms": 163013,
       "name": "Shooter",
       "url": "https://open.spotify.com/track/7l8gtKRBrpmHWChkwS0v1z"
-    },
-    {
-      "added_at": "2024-01-26 18:38:27",
-      "album": {
-        "name": "Chambre 140 (Part.2)",
-        "url": "https://open.spotify.com/album/7vrXUFuevPiXzR76uGPbBZ"
-      },
-      "artists": [
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        }
-      ],
-      "duration_ms": 144933,
-      "name": "Mignon tout plein",
-      "url": "https://open.spotify.com/track/6ndhj3a2GDg2YiS1AvBVTC"
-    },
-    {
-      "added_at": "2024-01-26 18:38:27",
-      "album": {
-        "name": "D\u00e9cennie",
-        "url": "https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Love de toi",
-      "url": "https://open.spotify.com/track/6gxqFnRudA7OAgmwwonkcP"
     },
     {
       "added_at": "2024-01-26 18:38:27",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-01-26 18:38:27",
       "album": {
-        "name": "2006 (Opps qui court)",
-        "url": "https://open.spotify.com/album/5ncE4u6zAIl1O7a4x3zy2Q"
-      },
-      "artists": [
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        }
-      ],
-      "duration_ms": 178346,
-      "name": "2006 - Opps qui court",
-      "url": "https://open.spotify.com/track/5cJHbMiyHr3oj9M8ZqIxho"
-    },
-    {
-      "added_at": "2024-01-26 18:38:27",
-      "album": {
         "name": "Lamborghini",
         "url": "https://open.spotify.com/album/2BaNOV1st3WvTlFNbDFBxx"
       },
@@ -727,22 +711,22 @@
     {
       "added_at": "2024-01-26 18:38:27",
       "album": {
-        "name": "I'm Sorry (ft. Lous and The Yakuza)",
-        "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
+        "name": "Derni\u00e8re danse (Techno Mix)",
+        "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Indila",
+          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
         },
         {
-          "name": "Lous and The Yakuza",
-          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
         }
       ],
-      "duration_ms": 187282,
-      "name": "I'm Sorry (ft. Lous and The Yakuza)",
-      "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
+      "duration_ms": 197142,
+      "name": "Derni\u00e8re danse - Techno Mix",
+      "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
     },
     {
       "added_at": "2024-01-26 18:38:27",
@@ -763,6 +747,42 @@
       "duration_ms": 149133,
       "name": "CALMANT",
       "url": "https://open.spotify.com/track/5aJhbhV4fTcLSkgH8y3aKq"
+    },
+    {
+      "added_at": "2024-01-26 18:38:27",
+      "album": {
+        "name": "2006 (Opps qui court)",
+        "url": "https://open.spotify.com/album/5ncE4u6zAIl1O7a4x3zy2Q"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "duration_ms": 178346,
+      "name": "2006 - Opps qui court",
+      "url": "https://open.spotify.com/track/5cJHbMiyHr3oj9M8ZqIxho"
+    },
+    {
+      "added_at": "2024-01-26 18:38:27",
+      "album": {
+        "name": "I'm Sorry (ft. Lous and The Yakuza)",
+        "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        }
+      ],
+      "duration_ms": 187282,
+      "name": "I'm Sorry (ft. Lous and The Yakuza)",
+      "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
     },
     {
       "added_at": "2024-01-26 18:38:27",
@@ -847,26 +867,6 @@
       "duration_ms": 177467,
       "name": "Une bonne sant\u00e9 et grave des lards",
       "url": "https://open.spotify.com/track/7Fwchv4I4XW5n57awYvOaj"
-    },
-    {
-      "added_at": "2024-01-26 18:38:27",
-      "album": {
-        "name": "Derni\u00e8re danse (Techno Mix)",
-        "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
-      },
-      "artists": [
-        {
-          "name": "Indila",
-          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
-        },
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Derni\u00e8re danse - Techno Mix",
-      "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
     },
     {
       "added_at": "2024-01-26 18:38:27",

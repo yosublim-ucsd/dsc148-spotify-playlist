@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 972078,
+  "2024-01-30": 972337,
   "date_first_scraped": "2023-11-11",
   "description": "This is Doja Cat. The essential tracks, all in one playlist.",
   "name": "This Is Doja Cat",
@@ -43,7 +43,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 208480,
       "name": "Addiction",
       "url": "https://open.spotify.com/track/2OAcH9SD8ehxuG0tWNe0cU"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 188893,
       "name": "I Don't Do Drugs (feat. Ariana Grande)",
       "url": "https://open.spotify.com/track/0FFsgUoFibYISzMxuGS61W"
@@ -519,6 +519,36 @@
       "duration_ms": 237911,
       "name": "In Your Eyes (with Doja Cat) - Remix",
       "url": "https://open.spotify.com/track/0UnTaVkntyh3vqvLEvbpQx"
+    },
+    {
+      "album": {
+        "name": "JEEZU (feat. Adekunle Gold) [From The Motion Picture Soundtrack \u201cThe Book Of Clarence\u201d]",
+        "url": "https://open.spotify.com/album/6YB6Auh4xBNjk2nCgjFhSo"
+      },
+      "artists": [
+        {
+          "name": "Jeymes Samuel",
+          "url": "https://open.spotify.com/artist/5LCKmOTlZQaULxnQ1xIkD8"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268092,
+      "name": "JEEZU (feat. Adekunle Gold) - From The Motion Picture Soundtrack \u201cThe Book Of Clarence\u201d",
+      "url": "https://open.spotify.com/track/2tHD1q2MnjtlLu7M75KWtb"
     },
     {
       "album": {
@@ -581,7 +611,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
@@ -683,7 +713,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 210560,
       "name": "Need to Know",
       "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
@@ -795,7 +825,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 237893,
       "name": "Say So",
       "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
@@ -987,7 +1017,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"

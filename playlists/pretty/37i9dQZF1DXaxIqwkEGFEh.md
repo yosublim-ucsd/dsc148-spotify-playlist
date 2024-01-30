@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: MudBaby Ru
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,189,553 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,189,527 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 5 | [02.02.99](https://open.spotify.com/track/582YxhgpJEY0aEHQtVQFhO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [02.02.99](https://open.spotify.com/album/079OfpydEQxerHZRJD3Or9) | 2:42 |
 | 6 | [Sundown \(feat\. JID\)](https://open.spotify.com/track/0peWrHmZmYS4D77vJJDMhJ) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Sundown \(feat\. JID\)](https://open.spotify.com/album/3Bhw6mGopsWHhS4OlCGDe3) | 2:37 |
 | 7 | [Left Right](https://open.spotify.com/track/0r0KV3E7CjM0F5gH6Ku9Hf) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Left Right](https://open.spotify.com/album/59eyN6yBBk1oxIf7gH6WHx) | 3:16 |
-| 8 | [CBFW \(feat\. Lil Baby\)](https://open.spotify.com/track/4e2HCzAsq32hsGabDi02v0) | [Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [CBFW \(feat\. Lil Baby\)](https://open.spotify.com/album/65yeE7D5vaPkt7pkgXeNxj) | 2:53 |
+| 8 | [CBFW \(feat\. Lil Baby\)](https://open.spotify.com/track/4e2HCzAsq32hsGabDi02v0) | [FTO Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [CBFW \(feat\. Lil Baby\)](https://open.spotify.com/album/65yeE7D5vaPkt7pkgXeNxj) | 2:53 |
 | 9 | [Climate \(feat\. Offset\)](https://open.spotify.com/track/1c7MITQmNJTrvfbDSzWT6x) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 2:50 |
 | 10 | [32 Bars](https://open.spotify.com/track/3F8b80zjERYnKDDBiag615) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [32 Bars](https://open.spotify.com/album/64bJrpjuW1J7V2WeeZYn1u) | 2:13 |
 | 11 | [Grizzley 2Tymes \(feat\. Finesse2Tymes\)](https://open.spotify.com/track/5RknKQS8uPXks3pCETEUKY) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Grizzley 2Tymes \(feat\. Finesse2Tymes\)](https://open.spotify.com/album/18xz1i3XiHFJolH6VNqYQ3) | 2:46 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 82 | [Bae \(42 Dugg\)](https://open.spotify.com/track/391Fi42HNOsMuQPnpfVNfm) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art 2](https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA) | 2:36 |
 | 83 | [Come Outside \(feat\. YTB Fatt\)](https://open.spotify.com/track/1fxlHuMfJPa0de1WJHOwBf) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Come Outside \(feat\. YTB Fatt\)](https://open.spotify.com/album/0xTtXNNN82brPd2cRn23ZX) | 2:14 |
 | 84 | [Voices](https://open.spotify.com/track/4i90bzDPcuDenZCKYY3xjA) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y) | [Voices](https://open.spotify.com/album/4j3HApvvoEAk6h4VHoFVD9) | 2:37 |
-| 85 | [Ndrangheta \(feat\. Sett\)](https://open.spotify.com/track/2fYtSj7kqxS4pXZPNH0uD5) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d) | [Chosen 1K](https://open.spotify.com/album/2MZMbxoGvgp5cQjPXcQZYZ) | 2:15 |
+| 85 | [Ndrangheta \(feat\. Sett\)](https://open.spotify.com/track/2fYtSj7kqxS4pXZPNH0uD5) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [FTO Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d) | [Chosen 1K](https://open.spotify.com/album/2MZMbxoGvgp5cQjPXcQZYZ) | 2:15 |
 | 86 | [Shotta Flow 7](https://open.spotify.com/track/1WrxYBGmFK19BMRn3wLYMa) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Shotta Flow 7](https://open.spotify.com/album/1sDAOcqpwOFrDyrIncZn4d) | 2:45 |
 | 87 | [Gang Time](https://open.spotify.com/track/6oOO3Kok03oEsXRrWcKff3) | [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Gang Time](https://open.spotify.com/album/7CqIBingCuH1gQvKH2uJPM) | 2:14 |
 | 88 | [A MOMENT WITH GOTTI \(FEAT\. YO GOTTI\)](https://open.spotify.com/track/58Oj2g9GDO4xYKrtgDNeUv) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [Bubba Man](https://open.spotify.com/track/03Z1yhSewsReSk6a5GBZOh) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Welcome To Bubba Land](https://open.spotify.com/album/2gxWI53PddwWddJQyrII3h) | 2:28 |
 | 100 | [Get Lucki](https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger \(Deluxe Edition\)](https://open.spotify.com/album/1VzWsyBJ8FdJwoMlpm7tDn) | 2:59 |
 
-Snapshot ID: `MCw5NzIxMzM4ODE1NmFjZWM4Yjg3MmUyNzY5ZmYxZWVlMGQ2NjUyZmM4`
+Snapshot ID: `MCxiNmYxOTU1ZDI5ZjQ3YmFmNGY2ZDA4ZTMyODRlMTM2ZDQzNzAyNmQ3`

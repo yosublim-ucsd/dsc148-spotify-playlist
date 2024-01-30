@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 102518,
+  "num_followers": 102645,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWIzMGFiZTFlNWZjYmIwMWM5YzBlNzM4YmQ4MWEyOWJmZmMwNmNm",
+  "snapshot_id": "MCw2MjU0M2Y1YTA5ZDJiMDQ5NzhlNWM4ZmFkMmI5ZWRhMDMwMzVjMjI5",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -371,6 +371,38 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Giant Steps (Mono)",
+        "url": "https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 418246,
+      "name": "Mr. P.C. - Mono",
+      "url": "https://open.spotify.com/track/1Z6Yxm3WpEJRkE0tGLr31y"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 276133,
+      "name": "Things Ain't What They Used To Be",
+      "url": "https://open.spotify.com/track/69enZcR3Rr9Bg3fNzHEp9y"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "The Very Best",
         "url": "https://open.spotify.com/album/4xuegUilqM4eMcAH9FdxRR"
       },
@@ -403,38 +435,6 @@
       "duration_ms": 414266,
       "name": "The Blues Walk",
       "url": "https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Giant Steps (Mono)",
-        "url": "https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 418246,
-      "name": "Mr. P.C. - Mono",
-      "url": "https://open.spotify.com/track/1Z6Yxm3WpEJRkE0tGLr31y"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 276133,
-      "name": "Things Ain't What They Used To Be",
-      "url": "https://open.spotify.com/track/69enZcR3Rr9Bg3fNzHEp9y"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -555,6 +555,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Thelonious Alone In San Francisco",
+        "url": "https://open.spotify.com/album/5xOjgloikzuQ1mTs2mqedk"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Bluehawk",
+      "url": "https://open.spotify.com/track/1K4d8wa5NanzH425a42DMn"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Red's Blues",
         "url": "https://open.spotify.com/album/560iFUlNMIk2FHleBEkbNS"
       },
@@ -567,34 +583,6 @@
       "duration_ms": 400373,
       "name": "Ralph J. Gleason Blues",
       "url": "https://open.spotify.com/track/3qfsuszc9cwvUI56OdCbqR"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Brilliant Corners",
-        "url": "https://open.spotify.com/album/5gWF47eGSbv4BOfxoFcQtd"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        },
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        },
-        {
-          "name": "Ernie Henry",
-          "url": "https://open.spotify.com/artist/1kL3usnF0v21VlGzfY8KxR"
-        },
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        }
-      ],
-      "duration_ms": 787933,
-      "name": "Ba-Lue Bolivar Ba-Lues-Are",
-      "url": "https://open.spotify.com/track/1OjmEyEycmzJK3itBAq8EG"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -679,6 +667,34 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Brilliant Corners",
+        "url": "https://open.spotify.com/album/5gWF47eGSbv4BOfxoFcQtd"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Ernie Henry",
+          "url": "https://open.spotify.com/artist/1kL3usnF0v21VlGzfY8KxR"
+        },
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "duration_ms": 787933,
+      "name": "Ba-Lue Bolivar Ba-Lues-Are",
+      "url": "https://open.spotify.com/track/1OjmEyEycmzJK3itBAq8EG"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Blues In the Night",
         "url": "https://open.spotify.com/album/6ZBjJtU9Bbd5Yo0dWZes7y"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 427000,
       "name": "Blues For Willarene",
       "url": "https://open.spotify.com/track/18Rt4272J5ngkGAWUtWBzk"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Thelonious Alone In San Francisco",
-        "url": "https://open.spotify.com/album/5xOjgloikzuQ1mTs2mqedk"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Bluehawk",
-      "url": "https://open.spotify.com/track/1K4d8wa5NanzH425a42DMn"
     },
     {
       "added_at": "2020-10-12 18:15:54",

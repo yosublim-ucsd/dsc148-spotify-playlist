@@ -1,12 +1,12 @@
 {
   "description": "Alternative Arabic songs. Cover: Mohammed Saeed",
-  "num_followers": 68685,
+  "num_followers": 68706,
   "original_name": "Arab Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWExNjc0ZjNlYjg4NjQ2MzdkNDc1NzI2YmJlMzc1YzEzMTAxNzgw",
+  "snapshot_id": "MCw5MDhiODljZDM5N2I1OTZhZWRmNjQxODY4MzcyMWI2M2RiN2MwZmE3",
   "tracks": [
     {
       "added_at": "2023-12-28 08:39:26",
@@ -95,6 +95,22 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
+        "name": "W El 7al Eh",
+        "url": "https://open.spotify.com/album/620iOLdLBpcOwoNxGIoe4f"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "duration_ms": 179284,
+      "name": "W El 7al Eh",
+      "url": "https://open.spotify.com/track/6HeKAyGEX0EW0AvGTw1xgn"
+    },
+    {
+      "added_at": "2023-12-28 08:39:26",
+      "album": {
         "name": "Lessa Bahinlha",
         "url": "https://open.spotify.com/album/428C46dH0EBtXIbzpeLSGO"
       },
@@ -147,22 +163,6 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
-        "name": "W El 7al Eh",
-        "url": "https://open.spotify.com/album/620iOLdLBpcOwoNxGIoe4f"
-      },
-      "artists": [
-        {
-          "name": "Mohammed Saeed",
-          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
-        }
-      ],
-      "duration_ms": 179284,
-      "name": "W El 7al Eh",
-      "url": "https://open.spotify.com/track/6HeKAyGEX0EW0AvGTw1xgn"
-    },
-    {
-      "added_at": "2023-12-28 08:39:26",
-      "album": {
         "name": "Elak w Bas",
         "url": "https://open.spotify.com/album/6YkN9Z2hJk7g9h2aeBN7RY"
       },
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
+        "name": "Hashrab Hashish",
+        "url": "https://open.spotify.com/album/2Nc4YEEwac5P2s3vjcsrEX"
+      },
+      "artists": [
+        {
+          "name": "Luka Salam",
+          "url": "https://open.spotify.com/artist/6czL7Hx1NgpdU6m27i3IuK"
+        }
+      ],
+      "duration_ms": 184123,
+      "name": "Hashrab Hashish",
+      "url": "https://open.spotify.com/track/6Ah2JMiRc7MTr4SwRVNMh9"
+    },
+    {
+      "added_at": "2023-12-28 08:39:26",
+      "album": {
         "name": "Yama",
         "url": "https://open.spotify.com/album/44d1S25h0oDhLgzuXExMra"
       },
@@ -211,18 +227,18 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
-        "name": "Hashrab Hashish",
-        "url": "https://open.spotify.com/album/2Nc4YEEwac5P2s3vjcsrEX"
+        "name": "7 PM",
+        "url": "https://open.spotify.com/album/6X1pSxDd8HhPgB1li6YHXB"
       },
       "artists": [
         {
-          "name": "Luka Salam",
-          "url": "https://open.spotify.com/artist/6czL7Hx1NgpdU6m27i3IuK"
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
         }
       ],
-      "duration_ms": 184123,
-      "name": "Hashrab Hashish",
-      "url": "https://open.spotify.com/track/6Ah2JMiRc7MTr4SwRVNMh9"
+      "duration_ms": 156000,
+      "name": "7 PM",
+      "url": "https://open.spotify.com/track/5lyUDM4Bsb0xMelClStJk7"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -247,22 +263,6 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
-        "name": "7 PM",
-        "url": "https://open.spotify.com/album/6X1pSxDd8HhPgB1li6YHXB"
-      },
-      "artists": [
-        {
-          "name": "Mohammed Saeed",
-          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "7 PM",
-      "url": "https://open.spotify.com/track/5lyUDM4Bsb0xMelClStJk7"
-    },
-    {
-      "added_at": "2023-12-28 08:39:26",
-      "album": {
         "name": "Wahad",
         "url": "https://open.spotify.com/album/50h20MwAWGy4qMiA1eueuV"
       },
@@ -275,22 +275,6 @@
       "duration_ms": 193384,
       "name": "Wainek Min Zaman",
       "url": "https://open.spotify.com/track/1R69Raqo1YOHxk2fOpk9xS"
-    },
-    {
-      "added_at": "2023-12-28 08:39:26",
-      "album": {
-        "name": "Badareek (\u0628\u062f\u0627\u0631\u064a\u0643)",
-        "url": "https://open.spotify.com/album/34dPhKMYFcyEThP7eMbXqg"
-      },
-      "artists": [
-        {
-          "name": "A5rass - \u0627\u0644\u0627\u062e\u0631\u0633",
-          "url": "https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4"
-        }
-      ],
-      "duration_ms": 173445,
-      "name": "Badareek - \u0628\u062f\u0627\u0631\u064a\u0643",
-      "url": "https://open.spotify.com/track/1Iw0LkV3VNc9KhwkTzPaku"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -347,6 +331,22 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
+        "name": "Badareek (\u0628\u062f\u0627\u0631\u064a\u0643)",
+        "url": "https://open.spotify.com/album/34dPhKMYFcyEThP7eMbXqg"
+      },
+      "artists": [
+        {
+          "name": "A5rass - \u0627\u0644\u0627\u062e\u0631\u0633",
+          "url": "https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4"
+        }
+      ],
+      "duration_ms": 173445,
+      "name": "Badareek - \u0628\u062f\u0627\u0631\u064a\u0643",
+      "url": "https://open.spotify.com/track/1Iw0LkV3VNc9KhwkTzPaku"
+    },
+    {
+      "added_at": "2023-12-28 08:39:26",
+      "album": {
         "name": "Daye3 Albi",
         "url": "https://open.spotify.com/album/0KYywGAwgeVKlWqAoohIw2"
       },
@@ -391,22 +391,6 @@
       "duration_ms": 473981,
       "name": "Yumain O Leila",
       "url": "https://open.spotify.com/track/08NqxhwtQzKtRdPtRSBuTR"
-    },
-    {
-      "added_at": "2023-12-28 08:39:26",
-      "album": {
-        "name": "Lahali",
-        "url": "https://open.spotify.com/album/095MAhIauuggkJGXuHhb2p"
-      },
-      "artists": [
-        {
-          "name": "A5rass - \u0627\u0644\u0627\u062e\u0631\u0633",
-          "url": "https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4"
-        }
-      ],
-      "duration_ms": 212214,
-      "name": "Lahali",
-      "url": "https://open.spotify.com/track/6GDzePGixhJPzQzIkFOeZx"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -467,22 +451,6 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
-        "name": "El Makina",
-        "url": "https://open.spotify.com/album/2EIhDyhOzFspLD2nSj79XK"
-      },
-      "artists": [
-        {
-          "name": "Jadal",
-          "url": "https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f"
-        }
-      ],
-      "duration_ms": 260243,
-      "name": "Ana Bakhaf Min El Commitment",
-      "url": "https://open.spotify.com/track/5DJLUHviIEbqG1uXaoNzaq"
-    },
-    {
-      "added_at": "2023-12-28 08:39:26",
-      "album": {
         "name": "El Morabba3 (\u0627\u0644\u0645\u0631\u0628\u0639)",
         "url": "https://open.spotify.com/album/2BPmsmtbu1sIGIPZe1LgIa"
       },
@@ -511,6 +479,22 @@
       "duration_ms": 235026,
       "name": "Sucre",
       "url": "https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq"
+    },
+    {
+      "added_at": "2023-12-28 08:39:26",
+      "album": {
+        "name": "Lahali",
+        "url": "https://open.spotify.com/album/095MAhIauuggkJGXuHhb2p"
+      },
+      "artists": [
+        {
+          "name": "A5rass - \u0627\u0644\u0627\u062e\u0631\u0633",
+          "url": "https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4"
+        }
+      ],
+      "duration_ms": 212214,
+      "name": "Lahali",
+      "url": "https://open.spotify.com/track/6GDzePGixhJPzQzIkFOeZx"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -547,6 +531,22 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
+        "name": "El Makina",
+        "url": "https://open.spotify.com/album/2EIhDyhOzFspLD2nSj79XK"
+      },
+      "artists": [
+        {
+          "name": "Jadal",
+          "url": "https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f"
+        }
+      ],
+      "duration_ms": 260243,
+      "name": "Ana Bakhaf Min El Commitment",
+      "url": "https://open.spotify.com/track/5DJLUHviIEbqG1uXaoNzaq"
+    },
+    {
+      "added_at": "2023-12-28 08:39:26",
+      "album": {
         "name": "\u0628\u0631\u0643\u0627\u0646",
         "url": "https://open.spotify.com/album/5RKRUPGQoldDKWdDOykvZv"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 260527,
       "name": "\u062e\u0627\u0637\u064a",
       "url": "https://open.spotify.com/track/4uHMUW4pvuHKDxxFBnBg4b"
-    },
-    {
-      "added_at": "2023-12-28 08:39:26",
-      "album": {
-        "name": "Enti El Asas",
-        "url": "https://open.spotify.com/album/3lvvDWDr8o3Jexg1NgqdG9"
-      },
-      "artists": [
-        {
-          "name": "A5rass - \u0627\u0644\u0627\u062e\u0631\u0633",
-          "url": "https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4"
-        }
-      ],
-      "duration_ms": 243559,
-      "name": "Enti El Asas",
-      "url": "https://open.spotify.com/track/0TTl1pEex2tFSFGvaVbu8t"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -595,6 +579,22 @@
       "duration_ms": 234217,
       "name": "Al-Furat",
       "url": "https://open.spotify.com/track/2OnVKpbC4WDedzVcoHjGBx"
+    },
+    {
+      "added_at": "2023-12-28 08:39:26",
+      "album": {
+        "name": "Enti El Asas",
+        "url": "https://open.spotify.com/album/3lvvDWDr8o3Jexg1NgqdG9"
+      },
+      "artists": [
+        {
+          "name": "A5rass - \u0627\u0644\u0627\u062e\u0631\u0633",
+          "url": "https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4"
+        }
+      ],
+      "duration_ms": 243559,
+      "name": "Enti El Asas",
+      "url": "https://open.spotify.com/track/0TTl1pEex2tFSFGvaVbu8t"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -627,6 +627,26 @@
       "duration_ms": 224624,
       "name": "Ya Weel Weely",
       "url": "https://open.spotify.com/track/0SVfaNq8jB4boSfBjEQhf3"
+    },
+    {
+      "added_at": "2023-12-28 08:39:26",
+      "album": {
+        "name": "Sawt El Madini",
+        "url": "https://open.spotify.com/album/2G1qgmAYD4wfPLOU9qTrFp"
+      },
+      "artists": [
+        {
+          "name": "Adonis",
+          "url": "https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv"
+        },
+        {
+          "name": "Ghaliaa",
+          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
+        }
+      ],
+      "duration_ms": 189914,
+      "name": "Sawt El Madini",
+      "url": "https://open.spotify.com/track/70Urq3p5yK8I75TtTMg945"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -679,26 +699,6 @@
       "duration_ms": 203133,
       "name": "Inni Mneeh",
       "url": "https://open.spotify.com/track/5DZqSd5MS5ubyXnc7PIMtR"
-    },
-    {
-      "added_at": "2023-12-28 08:39:26",
-      "album": {
-        "name": "Sawt El Madini",
-        "url": "https://open.spotify.com/album/2G1qgmAYD4wfPLOU9qTrFp"
-      },
-      "artists": [
-        {
-          "name": "Adonis",
-          "url": "https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv"
-        },
-        {
-          "name": "Ghaliaa",
-          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
-        }
-      ],
-      "duration_ms": 189914,
-      "name": "Sawt El Madini",
-      "url": "https://open.spotify.com/track/70Urq3p5yK8I75TtTMg945"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -799,6 +799,26 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
+        "name": "Ya Ghazal",
+        "url": "https://open.spotify.com/album/1PdOgjmgGXw7p6Kp3jCV0a"
+      },
+      "artists": [
+        {
+          "name": "Dina El Wedidi",
+          "url": "https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA"
+        },
+        {
+          "name": "Twyxx",
+          "url": "https://open.spotify.com/artist/49tL54lw3BSK1DD2OfaffG"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "Ya Ghazal",
+      "url": "https://open.spotify.com/track/0qqlxbChmf6iUkzvbdYQ44"
+    },
+    {
+      "added_at": "2023-12-28 08:39:26",
+      "album": {
         "name": "Biban",
         "url": "https://open.spotify.com/album/427SljlsOOfw6AVPdRPdfx"
       },
@@ -851,42 +871,6 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
-        "name": "Nos El Bahr",
-        "url": "https://open.spotify.com/album/5b7quz61hkXH51ocDuSeCp"
-      },
-      "artists": [
-        {
-          "name": "Tayar - \u062a\u064a\u0651\u0627\u0631",
-          "url": "https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM"
-        }
-      ],
-      "duration_ms": 238213,
-      "name": "Nos El Bahr",
-      "url": "https://open.spotify.com/track/3uUUJo8kymUm0a9L7JSEDF"
-    },
-    {
-      "added_at": "2023-12-28 08:39:26",
-      "album": {
-        "name": "Ya Ghazal",
-        "url": "https://open.spotify.com/album/1PdOgjmgGXw7p6Kp3jCV0a"
-      },
-      "artists": [
-        {
-          "name": "Dina El Wedidi",
-          "url": "https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA"
-        },
-        {
-          "name": "Twyxx",
-          "url": "https://open.spotify.com/artist/49tL54lw3BSK1DD2OfaffG"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "Ya Ghazal",
-      "url": "https://open.spotify.com/track/0qqlxbChmf6iUkzvbdYQ44"
-    },
-    {
-      "added_at": "2023-12-28 08:39:26",
-      "album": {
         "name": "Btes2aleeni",
         "url": "https://open.spotify.com/album/0jeLyqrrLW3ZTFhrvgIKOH"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 243887,
       "name": "Btes2aleeni",
       "url": "https://open.spotify.com/track/5HEQVHnRMqcBT2PP7GYYlR"
+    },
+    {
+      "added_at": "2023-12-28 08:39:26",
+      "album": {
+        "name": "Nos El Bahr",
+        "url": "https://open.spotify.com/album/5b7quz61hkXH51ocDuSeCp"
+      },
+      "artists": [
+        {
+          "name": "Tayar - \u062a\u064a\u0651\u0627\u0631",
+          "url": "https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM"
+        }
+      ],
+      "duration_ms": 238213,
+      "name": "Nos El Bahr",
+      "url": "https://open.spotify.com/track/3uUUJo8kymUm0a9L7JSEDF"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
+        "name": "Sahara",
+        "url": "https://open.spotify.com/album/4uyGKH3wKeFn9T7LH77NAp"
+      },
+      "artists": [
+        {
+          "name": "Almena",
+          "url": "https://open.spotify.com/artist/3dwnBsNq4R18t5SYNqJL37"
+        }
+      ],
+      "duration_ms": 258120,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/76rdCaOQc4RlzeilZ9ZffD"
+    },
+    {
+      "added_at": "2023-12-28 08:39:26",
+      "album": {
         "name": "\u0648\u0633\u0637 \u0627\u0644\u062f\u0648\u0627\u0645\u0629",
         "url": "https://open.spotify.com/album/6m42mTl7UmDxA7OqhWmO3i"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 218522,
       "name": "INSAK",
       "url": "https://open.spotify.com/track/50MBVBBWsWtxqb2QICAyB8"
-    },
-    {
-      "added_at": "2023-12-28 08:39:26",
-      "album": {
-        "name": "Sahara",
-        "url": "https://open.spotify.com/album/4uyGKH3wKeFn9T7LH77NAp"
-      },
-      "artists": [
-        {
-          "name": "Almena",
-          "url": "https://open.spotify.com/artist/3dwnBsNq4R18t5SYNqJL37"
-        }
-      ],
-      "duration_ms": 258120,
-      "name": "Sahara",
-      "url": "https://open.spotify.com/track/76rdCaOQc4RlzeilZ9ZffD"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
-        "name": "Koulou Banat",
-        "url": "https://open.spotify.com/album/0GVHXr4UrQtrvexyuMGZsv"
-      },
-      "artists": [
-        {
-          "name": "Gharam Electric",
-          "url": "https://open.spotify.com/artist/7bSZexnmG19HNWsNh1xok7"
-        }
-      ],
-      "duration_ms": 314364,
-      "name": "Koulou Banat",
-      "url": "https://open.spotify.com/track/0ht0NTzJCbrS6yO1MU3Jgi"
-    },
-    {
-      "added_at": "2023-12-28 08:39:26",
-      "album": {
         "name": "Telfizion",
         "url": "https://open.spotify.com/album/4QOn9Te6pWD6uR8nnk5QqM"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 188250,
       "name": "Telfizion",
       "url": "https://open.spotify.com/track/0zcCxBYW0kAkaxI6nvyvMR"
+    },
+    {
+      "added_at": "2023-12-28 08:39:26",
+      "album": {
+        "name": "Koulou Banat",
+        "url": "https://open.spotify.com/album/0GVHXr4UrQtrvexyuMGZsv"
+      },
+      "artists": [
+        {
+          "name": "Gharam Electric",
+          "url": "https://open.spotify.com/artist/7bSZexnmG19HNWsNh1xok7"
+        }
+      ],
+      "duration_ms": 314364,
+      "name": "Koulou Banat",
+      "url": "https://open.spotify.com/track/0ht0NTzJCbrS6yO1MU3Jgi"
     },
     {
       "added_at": "2023-12-28 08:39:26",

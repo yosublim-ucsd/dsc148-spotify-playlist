@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 783413,
+  "2024-01-30": 783601,
   "date_first_scraped": "2021-12-21",
   "description": "Pop style reggae for a sunny summer vibe!",
   "name": "Summer Sunshine Reggae",
@@ -1843,10 +1843,28 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 248780,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5rPIC7hQVaDSZryekHY89Z"
+    },
+    {
+      "album": {
+        "name": "Gifted",
+        "url": "https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248780,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/7D3PK92kbJXsPoviayoLN3"
     },
     {
       "album": {

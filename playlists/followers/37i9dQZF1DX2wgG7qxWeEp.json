@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 80590,
+  "2024-01-30": 80587,
   "date_first_scraped": "2023-05-16",
   "description": "Todo hits veraniegos para la mejor fiesta.",
   "name": "Verano Mix 2023",
@@ -963,7 +963,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-02",
+      "date_removed": null,
       "duration_ms": 200480,
       "name": "Dura",
       "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
@@ -2353,7 +2353,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 193626,
       "name": "Pasarela",
       "url": "https://open.spotify.com/track/7uUYUy2qLfev9ppNvFBHpX"

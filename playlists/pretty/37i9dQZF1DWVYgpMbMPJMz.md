@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover: <a href="spotify:artist:50hkKRxo0g8Ck4JqlwoJr4">Cochren & Co.,</a> <a href="spotify:artist:2cRQc5dlsvrO2lVLCgdugm">Matt Boswell,</a> and <a href="spotify:artist:7C9hIwTUxeWIJzxK6rGH0d">Matt Papa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 981,142 likes - 90 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 981,069 likes - 90 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 65 | [I Set My Hope \(Hymn For A Deconstructing Friend\)](https://open.spotify.com/track/6WOMNb2YNHE3HhTo3w0KCx) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d) | [I Set My Hope On Jesus](https://open.spotify.com/album/2Tk1ntQrATbl2G05ncpJDK) | 4:15 |
 | 66 | [Honest Offering / I Surrender All \- Live](https://open.spotify.com/track/6qWGguLKmE88iJMBxCRH4G) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Honest Offering \(Live\)](https://open.spotify.com/album/4ZruUTVf0jFq3wdoCFqNfp) | 4:37 |
 | 67 | [Breaking Me Down](https://open.spotify.com/track/0e8010L3eMtEblYGLFBd3Q) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [No More Wasted Years](https://open.spotify.com/album/1qpgxwVd0GemgTLsBDKRBx) | 4:17 |
-| 68 | [My Worth Is Not in What I Own](https://open.spotify.com/track/4I9E2g5Nw9RpzR9cgci5UQ) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [My Worth Is Not in What I Own](https://open.spotify.com/album/0mrY7V0AYmAMPup2GkdGpV) | 3:43 |
+| 68 | [My Worth is Not in What I Own](https://open.spotify.com/track/3EgZO1HNPochAaREvj9dav) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Come Behold the Wondrous Mystery](https://open.spotify.com/album/25AJ4n2vNiYmR34lLwessO) | 3:43 |
 | 69 | [Satisfied \- Live](https://open.spotify.com/track/0tlRerGFtxcKovDewBX5sc) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Sing As One \(Live\)](https://open.spotify.com/album/5u5lOB1VHyCfbNZrRKjMs6) | 7:43 |
 | 70 | [Precious Blood](https://open.spotify.com/track/4EjoSOfFN7HQVzwl5txinM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 4:41 |
 | 71 | [Take, Eat, Drink \- Live](https://open.spotify.com/track/1b5YiRG1yd1KWj0aDWiFiE) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Take, Eat, Drink \(Live\)](https://open.spotify.com/album/3hDc3GQ0j8bGM7IszTfwgF) | 4:47 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 89 | [Jesus Now \- Live](https://open.spotify.com/track/6wnxaVE6g2kEnDmjmlKYZL) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Metro Collective Worship](https://open.spotify.com/artist/3v3nuJodbuZr1ofB6Aqzrn) | [Jesus Now](https://open.spotify.com/album/0qLUPWE9SikEjGsvSEDQ5W) | 5:16 |
 | 90 | [Now To God \- Live](https://open.spotify.com/track/3VFfyjdeL14YNC6RgOWBhe) | [Stockholm Worship](https://open.spotify.com/artist/5BLAL4fBI3BB2ohYBPmCOH) | [Other Side](https://open.spotify.com/album/0wRQo1pAoe3b4mNdiQnbV4) | 4:46 |
 
-Snapshot ID: `MCxmYmRkMDJjM2QyNjZkZjA5NDk3M2M0NDJiMWZhZjI2NGY0NDVmYzYz`
+Snapshot ID: `MCwzOGQ5NGMzYWIzMTRkMTFmZTcwN2U0M2E4MzgwNTczMmM5NDZiM2Zj`

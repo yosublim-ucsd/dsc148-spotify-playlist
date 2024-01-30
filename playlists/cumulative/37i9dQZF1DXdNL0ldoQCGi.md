@@ -4,7 +4,7 @@
 
 > pi po po po ro po
 
-492 songs - 1 day 1 hr 12 min
+493 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,6 +433,7 @@
 | [Taurus](https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [TAURUS/ ÚNICA](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 2:06 | 2023-07-03 | 2023-07-26 |
 | [Te Amar Demais](https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM) | [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Te Amar Demais](https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR) | 2:11 | 2022-11-07 | 2023-03-08 |
 | [Te Love \- Ao Vivo](https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Te Love \(Ao Vivo\)](https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX) | 2:49 | 2022-09-08 | 2023-07-18 |
+| [Te Trombei](https://open.spotify.com/track/5tVPt5O7Y9t1NjhwKRJ4px) | [Gentalha](https://open.spotify.com/artist/4MvS9Puc3OUx9EDT4A9c5i), [Liemy irie](https://open.spotify.com/artist/3hXlm8iJZtW1estcvZObVI) | [Te Trombei](https://open.spotify.com/album/7yy2vPT1cQdIJZptAfsUcc) | 2:13 | 2024-01-29 |  |
 | [Te Ver de Novo](https://open.spotify.com/track/2vJzeuKQ3tFKmSMkdbALKp) | [Annick](https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE), [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Te Ver de Novo](https://open.spotify.com/album/12uLu97kOecrtb7yRWQsiK) | 3:16 | 2023-04-17 | 2023-05-30 |
 | [te vi dançando](https://open.spotify.com/track/2LlRU1DN8gqAfbO2bY6Ksd) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng) | [te vi dançando](https://open.spotify.com/album/6jmUBWpF6tz9FzhBqx1ceO) | 1:18 | 2023-02-27 | 2023-03-31 |
 | [Te vi de canto](https://open.spotify.com/track/4irM0ZydWatEXDDC7SflXS) | [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Te vi de canto](https://open.spotify.com/album/0MTuIQpLoSuhW5gSgfXYoS) | 2:08 | 2023-08-15 | 2023-10-11 |

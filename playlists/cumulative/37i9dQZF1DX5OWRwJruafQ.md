@@ -2,12 +2,13 @@
 
 ### [Ghaint Flow](https://open.spotify.com/playlist/37i9dQZF1DX5OWRwJruafQ)
 
-> Keep it Punjabi, Keep it Real\. Cover: Kaka
+> Keep it Punjabi, Keep it Real\. Cover: Wazir Patar
 
-300 songs - 14 hr 14 min
+301 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [.45](https://open.spotify.com/track/4mym4dNc5XPEAXP7Orzq18) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [.45](https://open.spotify.com/album/6vG52FnBHzc61469A3yiBs) | 2:40 | 2024-01-29 |  |
 | [0 to 100](https://open.spotify.com/track/7cVe3mYMIfhOlz1NXFWv70) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 1:48 | 2023-03-29 |  |
 | [10 Bande](https://open.spotify.com/track/6yOfrhPr40G18wPui5CXxu) | [George Sidhu](https://open.spotify.com/artist/3D2754tZxCEJ4bhiEN0QEC) | [10 Bande](https://open.spotify.com/album/5zpxoPuMHZIOYBoJjl1oO7) | 3:21 | 2023-03-29 | 2023-04-28 |
 | [100](https://open.spotify.com/track/1i0OA7qz1PQkX01TeR8Ua8) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Infinite](https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe) | 1:47 | 2023-04-01 | 2023-04-09 |
@@ -206,9 +207,9 @@
 | [Nah They Can’t](https://open.spotify.com/track/6PO6EnP2QoP4vN27KmKvrj) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 3:24 | 2023-03-29 | 2023-07-06 |
 | [Nai Reesa](https://open.spotify.com/track/6pfiPyvtL69rsT5w7rRKS5) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Nai Reesa](https://open.spotify.com/album/0gGAr7LZK0I6LEVQ2HHXgA) | 1:59 | 2023-11-07 | 2023-11-16 |
 | [Nakhra](https://open.spotify.com/track/2mCSLb0iW0XRrKDVjMzNhm) | [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc), [Gurjas Sidhu](https://open.spotify.com/artist/5PG1p5BLA6PsBFu2V2nC6y), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Nakhra](https://open.spotify.com/album/2pbLLIj7fyi6Zqokwew87o) | 2:28 | 2023-03-29 | 2023-04-09 |
-| [Nakhro](https://open.spotify.com/track/5wTJUBrXap0YwoXLEYMAn9) | [Dj Flow](https://open.spotify.com/artist/46ZZ5CWZwIeuBVBKalbpZ4), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Nakhro](https://open.spotify.com/album/5hskIdcDek1mjsLDzLErbn) | 2:29 | 2024-01-24 |  |
+| [Nakhro](https://open.spotify.com/track/5wTJUBrXap0YwoXLEYMAn9) | [DJ Flow](https://open.spotify.com/artist/3MP2WJg5D3bmH5Mz2scPF8), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Nakhro](https://open.spotify.com/album/5hskIdcDek1mjsLDzLErbn) | 2:29 | 2024-01-24 |  |
 | [Nattiyan](https://open.spotify.com/track/0DzcKCvxOBiueaJOnK9WhG) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Infinite](https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe) | 3:07 | 2023-04-01 | 2023-04-15 |
-| [Navigation](https://open.spotify.com/track/1FEv3Eim0qpTQP5DMLZeXe) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Sejal Puri](https://open.spotify.com/artist/5krsrrFzTaI3Mb51twW6Dg), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Navigation](https://open.spotify.com/album/3b1uXfpYcttiBlXZ804FSz) | 3:00 | 2023-07-25 |  |
+| [Navigation](https://open.spotify.com/track/1FEv3Eim0qpTQP5DMLZeXe) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Sejal Puri](https://open.spotify.com/artist/5krsrrFzTaI3Mb51twW6Dg), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Navigation](https://open.spotify.com/album/3b1uXfpYcttiBlXZ804FSz) | 3:00 | 2023-07-25 | 2024-01-30 |
 | [Never Ending](https://open.spotify.com/track/3QWwHA9yV64KMcUUggOofL) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Haakam](https://open.spotify.com/artist/1gPdNRLkL8J1nZrck72moJ) | [Never Ending](https://open.spotify.com/album/3UPmZcg6np0DqEo2SonSNu) | 2:38 | 2023-07-24 |  |
 | [NH7](https://open.spotify.com/track/2loopFYh52aXLdtjN7477C) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg), [Sulfa](https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0) | [NH7](https://open.spotify.com/album/2a4nyc9fkABtmWBwKSIyoX) | 2:53 | 2023-10-23 | 2023-11-08 |
 | [No Fake](https://open.spotify.com/track/4BKx5bluk9JK84PkzjIe4h) | [ABY](https://open.spotify.com/artist/474lx20917Ts6yKqKc6lF5), [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr) | [No Fake](https://open.spotify.com/album/4wxbtYf37aiM1RF0Q1iGS2) | 3:01 | 2023-09-12 |  |

@@ -4,15 +4,16 @@
 
 > Les hits tunisiens du moment.
 
-191 songs - 11 hr 40 min
+193 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2000 Ktab](https://open.spotify.com/track/7nFKjqixWVbTMk1qR9OfD6) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [2000 Ktab](https://open.spotify.com/album/28S3HWqbXgop9MG2XcC5Ur) | 3:25 | 2023-05-24 |  |
+| [22](https://open.spotify.com/track/3A9NZWQXiNufaUBbApEXpC) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [22](https://open.spotify.com/album/2oc2RuCw3M5Q1278SEBncH) | 4:07 | 2024-01-29 |  |
 | [3allamni Ellil](https://open.spotify.com/track/1RBZj4TSUCsaIdapBU8wOv) | [Cheb Bachir](https://open.spotify.com/artist/52tue7QYDGQeyJM4e5U6KZ), [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui) | [3allamni Ellil](https://open.spotify.com/album/2p0a7Xcqk98IW1QgHqSiuy) | 3:26 | 2021-12-10 | 2022-11-08 |
 | [3arbouch](https://open.spotify.com/track/01CJo2bZ28t0rtcWxmfGfw) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [3arbouch](https://open.spotify.com/album/1xlz69ZMzryJjXvdJnpy0H) | 3:04 | 2021-12-10 | 2022-07-12 |
 | [3ayech Lili \- عايش ليلي](https://open.spotify.com/track/2bWjhCbfeguEp2hSXvYB5l) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [3ayech Lili \(عايش ليلي\)](https://open.spotify.com/album/7K50LbLo6SdxQx0uuw9khz) | 3:22 | 2023-01-08 | 2023-02-02 |
-| [6G](https://open.spotify.com/track/5cDw3Icnxb1hB5XGBRzKer) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [6G](https://open.spotify.com/album/6myOlMXXWjwlOrz7xugqnj) | 2:56 | 2023-06-27 |  |
+| [6G](https://open.spotify.com/track/5cDw3Icnxb1hB5XGBRzKer) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [6G](https://open.spotify.com/album/6myOlMXXWjwlOrz7xugqnj) | 2:56 | 2023-06-27 | 2024-01-30 |
 | [7 Snin](https://open.spotify.com/track/5hSs2Tq3dkarWaRtt46QM7) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [7 Snin](https://open.spotify.com/album/5q6JhGTERJe7fWAQOJwz1W) | 4:47 | 2022-10-21 | 2022-11-23 |
 | [7amra ka7la](https://open.spotify.com/track/7LlTfu1SyKqU1I4Zwscvo1) | [Ta9chira](https://open.spotify.com/artist/3i9OYfUCXrnExALGVDFVbV), [4lfa](https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY), [Brotherhood Family](https://open.spotify.com/artist/10cwob7dZC2NvAJtTc6GwD), [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa) | [RISE OF A GANG](https://open.spotify.com/album/1IE9cNCHBKtGIwk8gfqFW6) | 3:13 | 2022-11-26 | 2022-11-30 |
 | [7elma](https://open.spotify.com/track/0BQ88yi1T6GEVgqPB6Q0nb) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [7elma](https://open.spotify.com/album/3HsnSlpKD6gsDGh8Pq5gNT) | 4:02 | 2023-03-30 | 2023-06-05 |
@@ -90,6 +91,7 @@
 | [La Loum](https://open.spotify.com/track/7pL1hO8qcS60CqWNqGAsZX) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [La Loum](https://open.spotify.com/album/3V5xcUcgTtSELeMEplZYO9) | 3:53 | 2022-08-29 | 2023-02-09 |
 | [Labes](https://open.spotify.com/track/3H52df9m7BwrTE5wnZjAad) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Labes](https://open.spotify.com/album/2sJR68ckXbB5gJy0WcDTbP) | 6:06 | 2022-11-22 | 2022-11-27 |
 | [Lamma](https://open.spotify.com/track/76dTTUyLKgEuKRuImvjlQj) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Lamma](https://open.spotify.com/album/2qtvzn4F3p3I7tQcq8xtNF) | 3:25 | 2021-12-30 | 2022-07-12 |
+| [Layam](https://open.spotify.com/track/6qM1V0fvAHohEXuCKvaYfz) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Layam](https://open.spotify.com/album/3dAcWL49dX4oxXcxkKUBW6) | 4:52 | 2024-01-29 |  |
 | [Lekbida Tmerjet](https://open.spotify.com/track/6qumsDpLKX99one4xNrZkc) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI), [Dhaf](https://open.spotify.com/artist/5nl9XGwpeR6xL7UCNuUgk4) | [Lekbida Tmerjet](https://open.spotify.com/album/5HIsHvcHz1C2z54ukhjMQ6) | 3:49 | 2023-03-22 | 2023-05-17 |
 | [Life's Good Ft\. Hamza Erwy](https://open.spotify.com/track/6rlFvEbpscB11H9xiE3ugV) | [Manel Amara](https://open.spotify.com/artist/2E6PtFWoDSwZ3VXTVCbdpN), [Hamza Erwy](https://open.spotify.com/artist/5caNOvWTfYtjikSTgZEqrN) | [Life's Good Ft\. Hamza Erwy](https://open.spotify.com/album/7qNUVFaCNSeUzFZ1RZDhXc) | 3:30 | 2022-09-07 | 2022-09-13 |
 | [Lil](https://open.spotify.com/track/58ZDRk8fyRvesaCYGro0Di) | [Joujma](https://open.spotify.com/artist/6J3OrlKMbWMx60M7QuDJsf) | [Lil](https://open.spotify.com/album/7JFYWTodPY8Eb2UsKFEYlB) | 3:00 | 2023-01-16 |  |
@@ -164,7 +166,7 @@
 | [Trafiquant](https://open.spotify.com/track/0oVCJc8jyrrhFvighWUAP2) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Trafiquant](https://open.spotify.com/album/6GMy1L0OFXE5UXY5scYimM) | 3:25 | 2023-12-04 |  |
 | [Tunisie](https://open.spotify.com/track/1fj8TuCYneYtKsVmIJG4N6) | [Aurélie Saada](https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh) | [Tunisie](https://open.spotify.com/album/6Ru27IhNy926jX1r4dpa0G) | 3:36 | 2022-11-09 | 2022-11-25 |
 | [Tutto Passa](https://open.spotify.com/track/1QqnWKAws9X39acDYOokl9) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [Tutto Passa](https://open.spotify.com/album/0LlHGHtOHk3wYzDxKNvMww) | 3:15 | 2023-08-19 |  |
-| [Twahachtek Barcha](https://open.spotify.com/track/1X8pBfUNMacs0hoZRDhH2Z) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Conan](https://open.spotify.com/album/6cjiodEbf1rxHUIUWe8S1p) | 5:08 | 2023-08-05 |  |
+| [Twahachtek Barcha](https://open.spotify.com/track/1X8pBfUNMacs0hoZRDhH2Z) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Conan](https://open.spotify.com/album/6cjiodEbf1rxHUIUWe8S1p) | 5:08 | 2023-08-05 | 2024-01-30 |
 | [Va Bene](https://open.spotify.com/track/6NYQhiBDgiliWFSQzHqpmZ) | [Yousfi](https://open.spotify.com/artist/3Sbb6TiJ8LLT877N4BlAJj) | [Va Bene](https://open.spotify.com/album/45pTrdiBG1DmQ5YfZPmsgt) | 2:26 | 2023-06-27 |  |
 | [Vanille](https://open.spotify.com/track/4lrsCXwghvihHzjYKrB2uY) | [Lady Miro](https://open.spotify.com/artist/3xCulAs0FwT4sByJ8UVpjb), [Nordo](https://open.spotify.com/artist/4UNykXoF5SxUpgyX4nSOVC) | [Vanille](https://open.spotify.com/album/4JKKfV15KUKpoEGathW7np) | 2:27 | 2021-12-10 | 2022-02-26 |
 | [Wa7di](https://open.spotify.com/track/1Kcd7hb4w18W1VVDLkt5Kn) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [Wa7di](https://open.spotify.com/album/2CiqwTgfyqPgK7bmSfCK0i) | 3:06 | 2023-01-04 | 2023-01-14 |

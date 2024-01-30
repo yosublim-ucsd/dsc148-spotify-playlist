@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Knocked Loose",
-  "num_followers": 476798,
+  "num_followers": 476905,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2Y2ODY4MzhjNWIyY2M2OTVlMDIyMmJiYWZmN2QwZGZiOWZmNjhk",
+  "snapshot_id": "MCw5MzUyNDI2NDNkOTExYzMwMTcwM2JhZThmNWM3YWE0MGIxODk4MDQz",
   "tracks": [
     {
       "added_at": "2023-06-20 21:21:38",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "THE DEATH OF PEACE OF MIND",
+        "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 210685,
+      "name": "Like A Villain",
+      "url": "https://open.spotify.com/track/0xoyUiHhxVH4gwb0CRgNmg"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 228372,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/1hkm127hnTSa2xjGNw8IAE"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Vie",
         "url": "https://open.spotify.com/album/67uI83VDTFiMPYJazZgzaO"
       },
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "THE DEATH OF PEACE OF MIND",
-        "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
       },
       "artists": [
         {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 210685,
-      "name": "Like A Villain",
-      "url": "https://open.spotify.com/track/0xoyUiHhxVH4gwb0CRgNmg"
+      "duration_ms": 228372,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/1hkm127hnTSa2xjGNw8IAE"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Finding God Before God Finds Me (Deluxe)",
+        "url": "https://open.spotify.com/album/30IYyCP3Ptfat4hO5alq7b"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 213851,
+      "name": "Never Know",
+      "url": "https://open.spotify.com/track/2K1ENoIs1y6M5nFdJhLpvU"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Order In Decline",
         "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 216571,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Ghost in My Home",
-        "url": "https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 200189,
-      "name": "Ghost in My Home",
-      "url": "https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Ghost in My Home",
+        "url": "https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 200189,
+      "name": "Ghost in My Home",
+      "url": "https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Carry the Weight / From the First Note",
         "url": "https://open.spotify.com/album/1LWKl74lrLudXEtmIUDr3o"
       },
@@ -267,6 +283,22 @@
       "duration_ms": 229266,
       "name": "Carry the Weight",
       "url": "https://open.spotify.com/track/17aUTUaDHrwv49PViccjy9"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Finding God Before God Finds Me (Deluxe)",
+        "url": "https://open.spotify.com/album/30IYyCP3Ptfat4hO5alq7b"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 261398,
+      "name": "Come Undone",
+      "url": "https://open.spotify.com/track/4ztGu78QFB9Syh7JcS09XR"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -287,18 +319,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Finding God Before God Finds Me (Deluxe)",
-        "url": "https://open.spotify.com/album/30IYyCP3Ptfat4hO5alq7b"
+        "name": "Platypus Boys",
+        "url": "https://open.spotify.com/album/4vG5sf2rPzHzwPeaelbMTe"
       },
       "artists": [
         {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+          "name": "Combos",
+          "url": "https://open.spotify.com/artist/6VacY9mK4BuWyHjKB49QcP"
         }
       ],
-      "duration_ms": 213851,
-      "name": "Never Know",
-      "url": "https://open.spotify.com/track/2K1ENoIs1y6M5nFdJhLpvU"
+      "duration_ms": 162160,
+      "name": "Platypus Boys",
+      "url": "https://open.spotify.com/track/6Xbx1cLT978tRRvf2wvkWb"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -315,22 +347,6 @@
       "duration_ms": 195390,
       "name": "They Don't Want What We Want (And They Don't Care)",
       "url": "https://open.spotify.com/track/2uzfmwy3syDgMVW1HEkS1i"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Platypus Boys",
-        "url": "https://open.spotify.com/album/4vG5sf2rPzHzwPeaelbMTe"
-      },
-      "artists": [
-        {
-          "name": "Combos",
-          "url": "https://open.spotify.com/artist/6VacY9mK4BuWyHjKB49QcP"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "Platypus Boys",
-      "url": "https://open.spotify.com/track/6Xbx1cLT978tRRvf2wvkWb"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -367,22 +383,6 @@
       "duration_ms": 235186,
       "name": "Like a Shadow",
       "url": "https://open.spotify.com/track/5AEMIxJzEsZhdJMWattYUq"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Finding God Before God Finds Me (Deluxe)",
-        "url": "https://open.spotify.com/album/30IYyCP3Ptfat4hO5alq7b"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        }
-      ],
-      "duration_ms": 261398,
-      "name": "Come Undone",
-      "url": "https://open.spotify.com/track/4ztGu78QFB9Syh7JcS09XR"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Like A House On Fire",
-        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 216411,
-      "name": "Antisocialist",
-      "url": "https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "To Better Days",
         "url": "https://open.spotify.com/album/0R8nkP9bWyoCi6NuetVq5p"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 209720,
       "name": "Holding Me Down",
       "url": "https://open.spotify.com/track/3RsrKzD7rntAYMbiBt7tM0"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Like A House On Fire",
+        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 216411,
+      "name": "Antisocialist",
+      "url": "https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 236050,
-      "name": "Lyrics Lie",
-      "url": "https://open.spotify.com/track/56rDsioIJVni7hmFio7yZU"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -727,22 +711,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Infinite",
-        "url": "https://open.spotify.com/album/4A0h5fDeSf8P1egJGllKz4"
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U"
       },
       "artists": [
         {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        },
-        {
-          "name": "Aaron Gillespie",
-          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
         }
       ],
-      "duration_ms": 163720,
-      "name": "Infinite",
-      "url": "https://open.spotify.com/track/1aWpVsNjEiqpFvV3KhJiWu"
+      "duration_ms": 236050,
+      "name": "Lyrics Lie",
+      "url": "https://open.spotify.com/track/56rDsioIJVni7hmFio7yZU"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -759,6 +739,26 @@
       "duration_ms": 229896,
       "name": "Hypochondria",
       "url": "https://open.spotify.com/track/0Ta1d0OUwjTANXIu0gz8a9"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Infinite",
+        "url": "https://open.spotify.com/album/4A0h5fDeSf8P1egJGllKz4"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        },
+        {
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+        }
+      ],
+      "duration_ms": 163720,
+      "name": "Infinite",
+      "url": "https://open.spotify.com/track/1aWpVsNjEiqpFvV3KhJiWu"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "How It Feels to Be Lost (Deluxe)",
+        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 190783,
+      "name": "Talking to Myself",
+      "url": "https://open.spotify.com/track/2BAt57GbkJ1DGDDh6U41eS"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "wonderful life (feat. Dani Filth)",
         "url": "https://open.spotify.com/album/1uunFc8ZPthd7kFXaf393T"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 274403,
       "name": "wonderful life (feat. Dani Filth)",
       "url": "https://open.spotify.com/track/1kq5dLuzkRLgemasnkUg9G"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "How It Feels to Be Lost (Deluxe)",
-        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 190783,
-      "name": "Talking to Myself",
-      "url": "https://open.spotify.com/track/2BAt57GbkJ1DGDDh6U41eS"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O"
+        "name": "Disease (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
       },
       "artists": [
         {
-          "name": "Bloom",
-          "url": "https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 219900,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip"
+      "duration_ms": 185454,
+      "name": "Messed Up",
+      "url": "https://open.spotify.com/track/6VyVscmvqF2DvH94Yx8KCd"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1443,6 +1443,22 @@
       "duration_ms": 191000,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/4TbQTssne2OMNMureg9Qtt"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O"
+      },
+      "artists": [
+        {
+          "name": "Bloom",
+          "url": "https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl"
+        }
+      ],
+      "duration_ms": 219900,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1488,9 +1504,9 @@
           "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 185454,
-      "name": "Messed Up",
-      "url": "https://open.spotify.com/track/6VyVscmvqF2DvH94Yx8KCd"
+      "duration_ms": 178154,
+      "name": "Takeover",
+      "url": "https://open.spotify.com/track/5TcpsBCqICDWlk2kT3ieFg"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1507,6 +1523,22 @@
       "duration_ms": 170000,
       "name": "No One's Listening",
       "url": "https://open.spotify.com/track/0WWL5rECF9ILJQBwM7nCuZ"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "EGGY POCKET",
+        "url": "https://open.spotify.com/album/4R8AnjaHbyk7p8ugGF1Wbo"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        }
+      ],
+      "duration_ms": 160982,
+      "name": "ISERIOUSLYDISLIKEMOSTOTHERHUMANS",
+      "url": "https://open.spotify.com/track/67BZCSAtonrsgtacsscLYG"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1543,18 +1575,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "EGGY POCKET",
-        "url": "https://open.spotify.com/album/4R8AnjaHbyk7p8ugGF1Wbo"
+        "name": "Misery Made Me",
+        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
       },
       "artists": [
         {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
         }
       ],
-      "duration_ms": 160982,
-      "name": "ISERIOUSLYDISLIKEMOSTOTHERHUMANS",
-      "url": "https://open.spotify.com/track/67BZCSAtonrsgtacsscLYG"
+      "duration_ms": 201600,
+      "name": "Bankrupt",
+      "url": "https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1571,38 +1603,6 @@
       "duration_ms": 192931,
       "name": "Lifeguard",
       "url": "https://open.spotify.com/track/4APrX8rA13avGMevPGxinl"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Disease (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 178154,
-      "name": "Takeover",
-      "url": "https://open.spotify.com/track/5TcpsBCqICDWlk2kT3ieFg"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Misery Made Me",
-        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Bankrupt",
-      "url": "https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1"
     },
     {
       "added_at": "2023-06-20 21:21:38",

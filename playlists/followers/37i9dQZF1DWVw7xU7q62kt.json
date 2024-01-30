@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 42019,
+  "2024-01-30": 42165,
   "date_first_scraped": "2023-08-25",
   "description": "Beats with a flavour of Jazz. Cover: Blue Lab Beats",
   "name": "Jazzy Beats",
@@ -2841,10 +2841,28 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 163226,
       "name": "The Colour Purple - Live From Malibu",
       "url": "https://open.spotify.com/track/3yc3KFakYKMOso38RHBtzI"
+    },
+    {
+      "album": {
+        "name": "The Yussef Dayes Experience (Live From Malibu)",
+        "url": "https://open.spotify.com/album/3PGNm2ibnsl8rldfXjQ1wB"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163226,
+      "name": "The Colour Purple - Live From Malibu",
+      "url": "https://open.spotify.com/track/6OCawhDsDWOyyhWwoumwsT"
     },
     {
       "album": {

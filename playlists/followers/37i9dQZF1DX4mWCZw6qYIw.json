@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 754652,
+  "2024-01-30": 754788,
   "date_first_scraped": "2021-12-30",
   "description": "the mood is to scream into your dashboard/choke back tears in the parking lot",
   "name": "songs to scream in the car",
@@ -233,7 +233,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 305746,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
@@ -2633,7 +2633,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 262533,
       "name": "How to Save a Life",
       "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"

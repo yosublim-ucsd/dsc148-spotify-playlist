@@ -1,13 +1,37 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 71270,
+  "num_followers": 71250,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "Mzg1NCwwMGYwYjY1M2QxNGEwZDM1NTgzZWUwMDllMzk2NTAyY2QzMjQxNjI4",
+  "snapshot_id": "Mzg1NSw5ZGEwNDdlNDkwNmJjM2JhYmQ3Y2RmOTE5NDA2ZWZlNWVkZDcwNzAw",
   "tracks": [
+    {
+      "added_at": "2024-01-29 09:49:08",
+      "album": {
+        "name": "Palace In My Head (Fred Falke Remix)",
+        "url": "https://open.spotify.com/album/0KmmDNX9lSTwfCoR5ahkvU"
+      },
+      "artists": [
+        {
+          "name": "Jaakko Eino Kalevi",
+          "url": "https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3"
+        },
+        {
+          "name": "Alma Jodorowsky",
+          "url": "https://open.spotify.com/artist/4DBszooKyAkibrGnhMxKqr"
+        },
+        {
+          "name": "Fred Falke",
+          "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
+        }
+      ],
+      "duration_ms": 310946,
+      "name": "Palace In My Head - Fred Falke Remix",
+      "url": "https://open.spotify.com/track/6NLXQtGnssNEpZMa35juxf"
+    },
     {
       "added_at": "2024-01-24 15:38:57",
       "album": {

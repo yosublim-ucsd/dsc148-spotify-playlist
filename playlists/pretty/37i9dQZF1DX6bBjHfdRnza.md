@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Ninajirachi\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,447 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,500 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 79 | [Hyperdream](https://open.spotify.com/track/4bL2exKkLpkKveLKnIltSQ) | [Zorza](https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr) | [Hyperdream](https://open.spotify.com/album/54yMMbi29Ta7xnouSuEs6J) | 2:48 |
 | 80 | [Forward Step](https://open.spotify.com/track/1ftMMNpvUuhFQhyptugUpo) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Forward Step](https://open.spotify.com/album/6uto8zjUa1Ght3zklDnqDi) | 6:47 |
 
-Snapshot ID: `MCxjZjM5Y2JlNmU3NDAyMjBmZTg3YTY4MDVlM2QwZDEyNjlmNTRmNmI2`
+Snapshot ID: `MCw3MTAxZTk0YjIzODBkZmY3ZDU3NDIyOWQ1MTk0YmFhZWJkZGUyMGE0`

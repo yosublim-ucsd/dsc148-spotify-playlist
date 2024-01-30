@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Omar Montes, Abraham Mateo",
-  "num_followers": 974270,
+  "num_followers": 974332,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDZmODg4NjIwNWI1ZTRmNjgxNTk3NWUyZjQxNDAzMjE5MWU1YmZh",
+  "snapshot_id": "MCwzMzFkNDZjNTAxMzNlMjA4NTc3ZTcxM2Q4NGJmMDkzN2NkZDJmNDFh",
   "tracks": [
     {
       "added_at": "2024-01-25 23:01:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "Sobreviviste",
-        "url": "https://open.spotify.com/album/1TpmuLGyFw9tVtuBIt7t6u"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "Sobreviviste",
-      "url": "https://open.spotify.com/track/3CGPWcU0S3tnb1hSvtyBmj"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "tequiero",
         "url": "https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 181840,
       "name": "Olvid\u00e9 Olvidarte",
       "url": "https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "Sobreviviste",
+        "url": "https://open.spotify.com/album/1TpmuLGyFw9tVtuBIt7t6u"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "Sobreviviste",
+      "url": "https://open.spotify.com/track/3CGPWcU0S3tnb1hSvtyBmj"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
+        "name": "Lugar Para\u00edso",
+        "url": "https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 201206,
+      "name": "MI BANDERA",
+      "url": "https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
         "name": "TE TRAJE FLORES",
         "url": "https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA"
       },
@@ -899,18 +915,18 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "Lugar Para\u00edso",
-        "url": "https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5"
+        "name": "LOLITA",
+        "url": "https://open.spotify.com/album/0EO1dyAqWVpuhUtvwvXdpm"
       },
       "artists": [
         {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
         }
       ],
-      "duration_ms": 201206,
-      "name": "MI BANDERA",
-      "url": "https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr"
+      "duration_ms": 177272,
+      "name": "LOLITA",
+      "url": "https://open.spotify.com/track/5i1FOXsvB6ITPZZm4dyLgq"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -963,38 +979,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "LOLITA",
-        "url": "https://open.spotify.com/album/0EO1dyAqWVpuhUtvwvXdpm"
-      },
-      "artists": [
-        {
-          "name": "Bel\u00e9n Aguilera",
-          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "LOLITA",
-      "url": "https://open.spotify.com/track/5i1FOXsvB6ITPZZm4dyLgq"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "La Balada",
-        "url": "https://open.spotify.com/album/3TDvcjRcNio7vXFUTVNgPZ"
-      },
-      "artists": [
-        {
-          "name": "Chema Rivas",
-          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
-        }
-      ],
-      "duration_ms": 225750,
-      "name": "La Balada",
-      "url": "https://open.spotify.com/track/2fEkjxvVZi37s7E80sOwfT"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "La \u00daltima",
         "url": "https://open.spotify.com/album/0dnIzmTItQnjqmG4CNpbuU"
       },
@@ -1011,22 +995,18 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "GOOD DAY (feat. Camidoh)",
-        "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
+        "name": "La Balada",
+        "url": "https://open.spotify.com/album/3TDvcjRcNio7vXFUTVNgPZ"
       },
       "artists": [
         {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        },
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+          "name": "Chema Rivas",
+          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
         }
       ],
-      "duration_ms": 164765,
-      "name": "GOOD DAY (feat. Camidoh)",
-      "url": "https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf"
+      "duration_ms": 225750,
+      "name": "La Balada",
+      "url": "https://open.spotify.com/track/2fEkjxvVZi37s7E80sOwfT"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -1067,6 +1047,26 @@
       "duration_ms": 193626,
       "name": "Pirata",
       "url": "https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "GOOD DAY (feat. Camidoh)",
+        "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "duration_ms": 164765,
+      "name": "GOOD DAY (feat. Camidoh)",
+      "url": "https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf"
     },
     {
       "added_at": "2024-01-25 23:01:00",

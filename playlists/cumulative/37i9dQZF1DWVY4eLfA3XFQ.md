@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Mau P
 
-1,445 songs - 3 day 10 hr 20 min
+1,446 songs - 3 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Body Move](https://open.spotify.com/track/1UyYIqE4bTokxEK0DUpzTM) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt) | [Jack The House 3](https://open.spotify.com/album/2JLEygazGNxcACvaFLNRmC) | 3:04 | 2022-11-11 | 2023-03-25 |
 | [Body Shots](https://open.spotify.com/track/02FQoIxEcJEKBW4VJ8a4XJ) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Body Shots](https://open.spotify.com/album/5yJHDOdyDT4KVeBS0TsUQk) | 2:33 | 2022-07-08 | 2022-08-13 |
 | [Bodywork](https://open.spotify.com/track/5HdSJivsHp49gtx5Tz1HOw) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Bodywork](https://open.spotify.com/album/1AWsuzNSJ2bWhZqPEPK9zI) | 2:25 | 2023-10-20 | 2023-11-11 |
-| [Boiling Room](https://open.spotify.com/track/5wdAiwQ6QsqH6tHWcE76qM) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Boiling Room](https://open.spotify.com/album/3hHdKTqywXKpJjOYjHCkui) | 3:00 | 2023-10-27 |  |
+| [Boiling Room](https://open.spotify.com/track/5wdAiwQ6QsqH6tHWcE76qM) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Boiling Room](https://open.spotify.com/album/3hHdKTqywXKpJjOYjHCkui) | 3:00 | 2023-10-27 | 2024-01-30 |
 | [Bongoloco](https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA) | 3:26 | 2023-02-10 | 2023-07-22 |
 | [Bongos](https://open.spotify.com/track/02iUOsajHXDI4ncxVT6u27) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Calista Kazuko](https://open.spotify.com/artist/2FolG4F7PJKFEbG2cJ0Ncq) | [Bongos](https://open.spotify.com/album/4HWzyEtJROe6cguogQ5pbJ) | 4:29 | 2023-11-10 |  |
 | [BOOM](https://open.spotify.com/track/3oSnkO1C5gglYD1k3mLofN) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [BOOM](https://open.spotify.com/album/5rSwibwAvUaIdeTdMi5gmA) | 3:06 | 2022-10-28 | 2023-02-04 |
@@ -358,6 +358,7 @@
 | [Drum Machine](https://open.spotify.com/track/2vuMD95467vEtEUja63LxH) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Drum Machine](https://open.spotify.com/album/0MKp1ezYjLB8jzz8o9JIVN) | 2:26 | 2023-08-25 |  |
 | [Drummers Mind \- Original Edit](https://open.spotify.com/track/0iq6bJBeZYstW81rYEY5yT) | [Little Fritter](https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo) | [Drummers Mind EP](https://open.spotify.com/album/6PMoVDzdggQqGjxUVv60ii) | 4:16 | 2022-11-18 | 2022-12-29 |
 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 | 2023-10-06 | 2024-01-24 |
+| [Drums \(Feat\. Kim Petras\) \- Wh0 Remix](https://open.spotify.com/track/6MMWo7QxyXXmwT39mmLhVJ) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Drums \(Feat\. Kim Petras\) \[Wh0 Remix\]](https://open.spotify.com/album/5hKgd8c1Pac9VT0UqRQA3k) | 3:18 | 2024-01-26 |  |
 | [Ducati](https://open.spotify.com/track/7zt5nDR0xO2KctrgbYN235) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Alina Pozi](https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY) | [Ducati](https://open.spotify.com/album/7asDUvdxIPxavwdyX3r4FF) | 3:00 | 2023-06-30 | 2023-11-11 |
 | [Duro](https://open.spotify.com/track/1vDkc8P9SDkqXlXHs3uzjV) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Duro](https://open.spotify.com/album/3QuVE1YSF1gkqt4yoQ0W5L) | 3:08 | 2021-11-26 | 2022-02-26 |
 | [Eastern Dub](https://open.spotify.com/track/6cVlxUZCdNqNQsgH0T2aqh) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Eastern Dub](https://open.spotify.com/album/1Lssaw5dvG8riE4Uiyuv6U) | 2:58 | 2022-06-24 | 2022-07-23 |

@@ -4,13 +4,13 @@
 
 > Les hits algériens du moment\. Cover: Moha K, Lyna Mahyem
 
-185 songs - 11 hr 19 min
+186 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3ach9ek Criminel](https://open.spotify.com/track/6Y3hqLC16tJUEI4PDsusoT) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [3ach9ek Criminel](https://open.spotify.com/album/5CYq5YmDbgtM0ys9xBxYiL) | 2:52 | 2021-12-09 | 2022-12-26 |
 | [3alam Tani](https://open.spotify.com/track/2vCQ9IZyXbjeDBLsYFOFUx) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [3alam Tani](https://open.spotify.com/album/5HBu7VCzKwtPbtUzf8Rpe1) | 3:51 | 2021-12-09 | 2022-01-01 |
-| [3ayech Lili \- عايش ليلي](https://open.spotify.com/track/2bWjhCbfeguEp2hSXvYB5l) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [3ayech Lili \(عايش ليلي\)](https://open.spotify.com/album/7K50LbLo6SdxQx0uuw9khz) | 3:22 | 2023-01-11 |  |
+| [3ayech Lili \- عايش ليلي](https://open.spotify.com/track/2bWjhCbfeguEp2hSXvYB5l) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [3ayech Lili \(عايش ليلي\)](https://open.spotify.com/album/7K50LbLo6SdxQx0uuw9khz) | 3:22 | 2023-01-11 | 2024-01-30 |
 | [4 chiffres](https://open.spotify.com/track/5kV9rjO5C8ekF9vFGZdbcw) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Flou](https://open.spotify.com/album/67cpbnbv3A8dewZVqfHams) | 2:44 | 2023-04-06 |  |
 | [7CHOUMA](https://open.spotify.com/track/0bmnCDY8M8fBtlPwMrLIu9) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [7CHOUMA](https://open.spotify.com/album/7JrLFJw1NFNDOnoNDsHBWS) | 4:06 | 2022-11-09 | 2023-03-28 |
 | [7CHOUMA](https://open.spotify.com/track/797McgitlHovktyFPMDZYc) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [7CHOUMA](https://open.spotify.com/album/6EE03Qicg9RZIZbYeIS0Dj) | 4:06 | 2023-03-23 | 2024-01-26 |
@@ -162,6 +162,7 @@
 | [Sur Pp \(feat\. Soolking\)](https://open.spotify.com/track/6ZKbxxzlGfC2d0s7p8hqjc) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [La vie de Many](https://open.spotify.com/album/28cZatUBH4ypo1q3ieocuc) | 3:12 | 2023-01-23 | 2023-10-12 |
 | [Tab Tab](https://open.spotify.com/track/5DinnPLecFV8N9b5QuZc8D) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Moudja](https://open.spotify.com/album/3fxv4IPUjOdLKSWTEALktY) | 3:15 | 2022-11-03 | 2023-02-07 |
 | [Tal Sebri](https://open.spotify.com/track/4G7OIVLbpp7BnNrpDDVgPJ) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [Youcef Gdh](https://open.spotify.com/artist/5oO5vd9qs9GJ1bFE4OZbM9) | [Tal Sebri](https://open.spotify.com/album/7FitafHMcsT0DiYZY019Ih) | 3:22 | 2022-10-09 | 2023-02-01 |
+| [Tayha Love](https://open.spotify.com/track/3ZFDVnwbi8cJiEyPxbZGea) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo), [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Tayha Love](https://open.spotify.com/album/6wl0rqJu3eO97Z1Qyfv8Gd) | 4:43 | 2024-01-29 |  |
 | [Tesla](https://open.spotify.com/track/0SAznyiLIYzAQthw8n7o3t) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Tesla](https://open.spotify.com/album/1qx1Oo3nxg87rd2dwmaUAY) | 3:08 | 2023-04-05 | 2023-08-15 |
 | [Thatmet Lekdar](https://open.spotify.com/track/61vtgCYKGAiw75IoTnDCG1) | [Kami Phénoméne](https://open.spotify.com/artist/2BxA0WWffDANrGk2etCPfI) | [Bonita](https://open.spotify.com/album/6SV06bKUQ0zibdRafy5PSW) | 4:07 | 2021-12-09 | 2023-06-10 |
 | [Thugluv](https://open.spotify.com/track/0LmBTAeJkoVntKjuUqCQHb) | [Islem\-23](https://open.spotify.com/artist/4fdscmamdruNB8lZ1nWrTd) | [7or](https://open.spotify.com/album/1rvuk6HyweX9My7TiODYbN) | 3:05 | 2021-12-09 | 2023-02-07 |

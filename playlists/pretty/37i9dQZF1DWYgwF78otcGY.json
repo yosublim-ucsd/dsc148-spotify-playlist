@@ -1,12 +1,12 @@
 {
   "description": "Fj\u00e4derboa, dansgolv, alls\u00e5ng och tonartsh\u00f6jningar - nu \u00e4r det mellofest! \ud83e\udea9\u2728\ud83d\udc9c",
-  "num_followers": 28154,
+  "num_followers": 28211,
   "original_name": "Mellofest! ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTkwNjU3ZTRjNWYwYmZiZjZlZGUxYzA0YzQwZmU1N2YwNWM0ODhj",
+  "snapshot_id": "MCw2ZmMyYjIzMTFhYWEyZDI3NGMyYzhlZjQ2NTJhMWQ4N2UwYTQwMzc1",
   "tracks": [
     {
       "added_at": "2024-01-19 08:50:53",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-01-19 08:50:53",
       "album": {
-        "name": "Euphoria (The Alternative Mixes)",
-        "url": "https://open.spotify.com/album/6gWEIUmtUGPbLMbEcTCDxu"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 181786,
-      "name": "Euphoria - Single Version",
-      "url": "https://open.spotify.com/track/2I0NkzwRH4Onzzg5UbmcpE"
-    },
-    {
-      "added_at": "2024-01-19 08:50:53",
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/6G6DMOiYMgVZLGs9nmNEJh"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 190613,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI"
+    },
+    {
+      "added_at": "2024-01-19 08:50:53",
+      "album": {
+        "name": "Euphoria (The Alternative Mixes)",
+        "url": "https://open.spotify.com/album/6gWEIUmtUGPbLMbEcTCDxu"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "Euphoria - Single Version",
+      "url": "https://open.spotify.com/track/2I0NkzwRH4Onzzg5UbmcpE"
     },
     {
       "added_at": "2024-01-19 08:50:53",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-01-19 08:50:53",
       "album": {
-        "name": "Vem e som oss",
-        "url": "https://open.spotify.com/album/2KX1IGf0NJMA3p1wh57Ccb"
-      },
-      "artists": [
-        {
-          "name": "Anis Don Demina",
-          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
-        }
-      ],
-      "duration_ms": 175604,
-      "name": "Vem e som oss",
-      "url": "https://open.spotify.com/track/20052FYa2SF5Lkp9VZTLJX"
-    },
-    {
-      "added_at": "2024-01-19 08:50:53",
-      "album": {
         "name": "Bada Nakna",
         "url": "https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 191047,
       "name": "Bada nakna",
       "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
+    },
+    {
+      "added_at": "2024-01-19 08:50:53",
+      "album": {
+        "name": "Vem e som oss",
+        "url": "https://open.spotify.com/album/2KX1IGf0NJMA3p1wh57Ccb"
+      },
+      "artists": [
+        {
+          "name": "Anis Don Demina",
+          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
+        }
+      ],
+      "duration_ms": 175604,
+      "name": "Vem e som oss",
+      "url": "https://open.spotify.com/track/20052FYa2SF5Lkp9VZTLJX"
     },
     {
       "added_at": "2024-01-19 08:50:53",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-01-19 08:50:53",
       "album": {
-        "name": "Diggiloo Diggiley",
-        "url": "https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg"
-      },
-      "artists": [
-        {
-          "name": "Herreys",
-          "url": "https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Diggiloo Diggiley",
-      "url": "https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4"
-    },
-    {
-      "added_at": "2024-01-19 08:50:53",
-      "album": {
         "name": "I Can't Go On",
         "url": "https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 183990,
       "name": "I Can\u00b4t Go On",
       "url": "https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ"
+    },
+    {
+      "added_at": "2024-01-19 08:50:53",
+      "album": {
+        "name": "Diggiloo Diggiley",
+        "url": "https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg"
+      },
+      "artists": [
+        {
+          "name": "Herreys",
+          "url": "https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Diggiloo Diggiley",
+      "url": "https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4"
     },
     {
       "added_at": "2024-01-19 08:50:53",

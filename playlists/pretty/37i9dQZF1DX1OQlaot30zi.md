@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di AVA, Neima Ezza, Capo Plaza, Niky Savage e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,423 likes - 90 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,474 likes - 90 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 16 | [Fiducia](https://open.spotify.com/track/5HMGqC3rBoSWi8gPRwEJC6) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az) | [Fiducia](https://open.spotify.com/album/6nb4J7t10e3B6c3no1TSWx) | 3:12 |
 | 17 | [MIO FRATELLO \(feat\. Helmi sa7bi\)](https://open.spotify.com/track/6c9IcU5IC43o80gHzjUtjU) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj) | [MIO FRATELLO \(feat\. Helmi sa7bi\)](https://open.spotify.com/album/5W3jgcVUIemrMoLdImuZKo) | 2:37 |
 | 18 | [L'Aspettativa](https://open.spotify.com/track/46wfXzagvgy75hSeFAyvVb) | [Revé](https://open.spotify.com/artist/01Isxz2v0SDQALf5wpV74V), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [L'Aspettativa](https://open.spotify.com/album/66rJEhcrshU5HIRghe3B3e) | 2:41 |
-| 19 | [Mamma mi diceva \(feat\. Baby Gang\)](https://open.spotify.com/track/7uBN2cQXUXx1N670z1pD6m) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 2:24 |
+| 19 | [Mamma mi diceva \(feat\. Baby Gang\)](https://open.spotify.com/track/7uBN2cQXUXx1N670z1pD6m) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 2:23 |
 | 20 | [TROPPO \(2Much\)](https://open.spotify.com/track/404XGGrSDwF4hb3xzdbUSc) | [PLATA](https://open.spotify.com/artist/0HEXJrFImu9YGNMHZB4NEi) | [TROPPO \(2Much\)](https://open.spotify.com/album/1Ettzdd0ZDQ3nM5TTtkjyd) | 2:43 |
 | 21 | [Corona](https://open.spotify.com/track/4h0n6lMdF9vWrNTfiNUBD3) | [AuRORA](https://open.spotify.com/artist/4MNMNUDNnxNQyg8uHU0gQV), [iLL Papi](https://open.spotify.com/artist/1xFWY11ZQ1aBUIgIa7c7By) | [Corona](https://open.spotify.com/album/12Qg04jmiRAUwxLXtF5UjR) | 3:42 |
 | 22 | [Rockefeller](https://open.spotify.com/track/5fWVgHHwRdHZTmyxGoqeXq) | [Joe Scacchi](https://open.spotify.com/artist/2K2213LQPCdQMJdpw1k65R) | [Rockefeller](https://open.spotify.com/album/7ovODtWxk53uO33ZOgbuFZ) | 1:58 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 89 | [GENEVIEVE](https://open.spotify.com/track/0FaNdZ9t8Le9CvlS7fAcMS) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv) | [GENEVIEVE](https://open.spotify.com/album/0xyjoOGikHhA6bxT9pXOzk) | 2:34 |
 | 90 | [STEP BY STEP](https://open.spotify.com/track/6azRsazhYFpDXcjOcEaqdC) | [Flus Brain](https://open.spotify.com/artist/3cIN4XjkAfNwfGLKVPoofY), [PhilG](https://open.spotify.com/artist/2asDlsjpu5fEraiS3nWGPE), [Vaglie](https://open.spotify.com/artist/0TwdOHVNvrlbU0YSJ487KK) | [STEP BY STEP](https://open.spotify.com/album/3QmRXmRqLCBpOxAiN78Ibg) | 2:29 |
 
-Snapshot ID: `MCwxNTdmM2MyNTQ0ZGNjYTNlM2IzYzkwYjFiMmQ3YTQzODM0MGE0Mjky`
+Snapshot ID: `MCwyYTc2MWQzM2E1NzljNmQzNGRiZGYwYmQ4NmE5ZjJiMWYyYmY3YWFh`

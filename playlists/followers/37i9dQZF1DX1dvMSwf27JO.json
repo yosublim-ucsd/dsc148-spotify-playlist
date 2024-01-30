@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 525840,
+  "2024-01-30": 525876,
   "date_first_scraped": "2021-12-21",
   "description": "music to get fly to ft Zendaya at Paris Fashion Week.",
   "name": "'fit check",
@@ -2271,6 +2271,32 @@
       "duration_ms": 139017,
       "name": "CTRL",
       "url": "https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm"
+    },
+    {
+      "album": {
+        "name": "THE ANGEL YOU DON'T KNOW",
+        "url": "https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Kyu Steed",
+          "url": "https://open.spotify.com/artist/7KDgQWTOnYMsPqI61gxVUy"
+        },
+        {
+          "name": "6",
+          "url": "https://open.spotify.com/artist/3iF2oCv5pVQ19uwoaBK9qW"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180485,
+      "name": "C\u00c9LINE",
+      "url": "https://open.spotify.com/track/3PDph58rpbRHraKLXaC2ZG"
     },
     {
       "album": {
@@ -7561,7 +7587,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 154400,
       "name": "silver lining",
       "url": "https://open.spotify.com/track/4tuIihi8Bv5WNHDLe8pkiy"

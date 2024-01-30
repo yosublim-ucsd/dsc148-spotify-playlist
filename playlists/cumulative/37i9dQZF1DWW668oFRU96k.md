@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Cheat Codes x Birdy
 
-809 songs - 1 day 16 hr 18 min
+810 songs - 1 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,8 @@
 | [Harley & Joker](https://open.spotify.com/track/4Etu1fscIWqgDlLh517NbD) | [notefly](https://open.spotify.com/artist/7HXCVqcNJjoOCOf3GWiwMT), [BrillLion](https://open.spotify.com/artist/1hzTGiVMoHHDQwybbnUClq) | [Harley & Joker](https://open.spotify.com/album/47fto16ZiVWEy4MdEmgDxw) | 2:48 | 2023-03-23 | 2023-04-28 |
 | [Haven](https://open.spotify.com/track/33jPsnwa0CfBBNYzm6wPvb) | [Criss Antof](https://open.spotify.com/artist/3fxxT8cio6JkI5dH4Dy4Y4), [Rayz](https://open.spotify.com/artist/0RNfSDtiquYCmP3PjPj9eL), [Aiden Somerville](https://open.spotify.com/artist/72tzyOHDBEzJYmsgJLKaqK) | [Haven](https://open.spotify.com/album/5ywM2m1U4qJy9t75dz99Ym) | 2:53 | 2023-03-30 | 2023-06-09 |
 | [Haven \- feat\. Hana Hope](https://open.spotify.com/track/6KYCOYdW5e0FPFf18CUybx) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Haven \(feat\. Hana Hope\)](https://open.spotify.com/album/2GjztKFs20fe8oZTvXsCm9) | 3:16 | 2023-02-02 | 2023-02-10 |
-| [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 | 2024-01-25 |  |
+| [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 | 2024-01-25 | 2024-01-30 |
+| [Head Up](https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp) | 3:09 | 2024-01-25 |  |
 | [Heart of Mine](https://open.spotify.com/track/6vqHbooVnSkuAkPdWljmko) | [PRMGH](https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9), [bad narrator](https://open.spotify.com/artist/47GNF7Kf5NvKu7diVeHmCh) | [Blue](https://open.spotify.com/album/2yOsOQFGEI7Va1WYdm53J8) | 2:17 | 2023-05-04 | 2023-06-09 |
 | [Heart over Mind](https://open.spotify.com/track/3duI7TT4kzLtoqf4PeUR3Z) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Walkerworld](https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo) | 3:09 | 2023-11-09 |  |
 | [Heart over Mind](https://open.spotify.com/track/66sLONodWY4iLTFQznkgUw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Heart over Mind](https://open.spotify.com/album/5Xza3YTfdYnMC9RZ5uTcw9) | 3:09 | 2023-11-09 | 2023-11-11 |

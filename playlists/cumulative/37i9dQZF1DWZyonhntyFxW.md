@@ -4,7 +4,7 @@
 
 > اسمك فاشل بين البراكتسسس، بلعب بيهم يسطى ركتسسس، بكتفهم زي جكتسسس غلاف: أبيوسف
 
-276 songs - 13 hr 59 min
+278 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Caravan](https://open.spotify.com/track/1mDomyxsV7TpNhjsHSdAim) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Caravan](https://open.spotify.com/album/3qwsyWmHGylqvRkqUvvuzJ) | 2:29 | 2023-01-18 | 2023-05-23 |
 | [Catalina](https://open.spotify.com/track/49b5PKQTRiFp6fJq0idjB8) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [Catalina](https://open.spotify.com/album/0XcxqyJ2wJAKPFc7vpjnKX) | 2:14 | 2023-08-16 | 2023-08-25 |
 | [CHAPTER III: GORAA](https://open.spotify.com/track/11CLR83zp5oox9U0dr21Uw) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [TRAUMA \(2023\)](https://open.spotify.com/album/7i1bXILDFwI9u4SaHFOTEJ) | 3:02 | 2023-02-20 | 2023-03-03 |
+| [Code](https://open.spotify.com/track/6zgFCgu5goQ6fvcRZ8zvbT) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Code](https://open.spotify.com/album/3RrKOzOn551GmZ18WCrRnj) | 4:08 | 2024-01-29 |  |
 | [CRISTIANO](https://open.spotify.com/track/70o1xXReo9Y5N0OPKxHB8v) | [Begad](https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl), [EVO](https://open.spotify.com/artist/3zg3iSMFyA6Jl24iLbQIlx) | [EL\- RAYES x CR7](https://open.spotify.com/album/22l5F8L05DBTaQ6IjDIgJV) | 2:26 | 2024-01-25 |  |
 | [Daftar A7mar](https://open.spotify.com/track/3Ezm9m5G9BnWNFeKDZ5WY3) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Alfy](https://open.spotify.com/artist/2LsOWfjooIMANdGBjtiMLz) | [Madina](https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp) | 3:06 | 2022-08-08 | 2022-10-11 |
 | [DAWLETNA](https://open.spotify.com/track/1VteZ9xomF21Idym2C8Xbb) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 2:38 | 2023-02-13 | 2023-08-18 |
@@ -229,6 +230,7 @@
 | [Wasa3](https://open.spotify.com/track/2Zo8Kn2PslabnsvrouOJxk) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Wasa3](https://open.spotify.com/album/1MtIYYteuLNUM2EBUJt0wU) | 2:09 | 2022-09-27 | 2022-12-24 |
 | [Wija](https://open.spotify.com/track/2WGt3cf3Jb63fMO9fUt0d1) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Akhro Noor](https://open.spotify.com/album/7gdZgKqTsgJLaY3DwmJaU7) | 3:18 | 2023-03-06 | 2023-04-12 |
 | [Wo Wo](https://open.spotify.com/track/4DOXUf71PoUQmF2IeCgJqw) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Desso](https://open.spotify.com/artist/28O73xyNVl2RaEQb2IfbJp), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Akhro Noor](https://open.spotify.com/album/7gdZgKqTsgJLaY3DwmJaU7) | 3:31 | 2023-02-23 | 2023-08-18 |
+| [X](https://open.spotify.com/track/1au78dVSUm2AysZJcIl2Hx) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Code](https://open.spotify.com/album/3RrKOzOn551GmZ18WCrRnj) | 2:29 | 2024-01-29 |  |
 | [Ya Reem Estani](https://open.spotify.com/track/4N1GQ6HFwAUwAUsigqYhUM) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Nemshy Men Hena](https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK) | 2:07 | 2024-01-28 |  |
 | [Ya Wa3dy](https://open.spotify.com/track/1DQFgzRwvvWuRFQYsKbE0P) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky) | [Ya Wa3dy](https://open.spotify.com/album/5O803jOfSfDdSFbztbJ0aQ) | 3:01 | 2023-01-17 | 2023-02-24 |
 | [Ya Wa3dy](https://open.spotify.com/track/6j88kr0UP2Fof1HzhKbCA9) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky) | [Ya Wa3dy](https://open.spotify.com/album/4I8Wyq7R75sBcFSIoqytZ7) | 3:01 | 2022-05-10 | 2023-01-18 |

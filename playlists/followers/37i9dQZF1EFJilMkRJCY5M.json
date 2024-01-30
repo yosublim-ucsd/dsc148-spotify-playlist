@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 158,
+  "2024-01-30": 158,
   "date_first_scraped": "2022-05-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g\">Emily Falvey</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Emily Falvey",
@@ -1239,6 +1239,32 @@
       "duration_ms": 180266,
       "name": "Outdoor Voices",
       "url": "https://open.spotify.com/track/57JCpf5iUwSLpdQxe9ORWb"
+    },
+    {
+      "album": {
+        "name": "Own My Body",
+        "url": "https://open.spotify.com/album/6WL5v0CjTwys4HuN6RSH3Y"
+      },
+      "artists": [
+        {
+          "name": "MEG + JAC",
+          "url": "https://open.spotify.com/artist/6q6isSwnbC9MxmWGZYl7sk"
+        },
+        {
+          "name": "Megan Davies",
+          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
+        },
+        {
+          "name": "Jaclyn Davies",
+          "url": "https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162434,
+      "name": "Own My Body",
+      "url": "https://open.spotify.com/track/5a6QsW35imEPjk7TP9g4N6"
     },
     {
       "album": {

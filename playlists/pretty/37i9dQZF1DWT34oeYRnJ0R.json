@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Hamilton",
-  "num_followers": 677496,
+  "num_followers": 677291,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzE0YWE2YzI4YzhjMDJiYjI2YTUzMzJhYmFlYjlhMDQ0YzM3MzE3",
+  "snapshot_id": "MCw1Zjc3Y2Q1YzJkYTZlYmEwNTBiODBiMGUyN2FlMzU1NGUxNDY5Y2Iw",
   "tracks": [
     {
       "added_at": "2024-01-19 05:23:33",
@@ -503,26 +503,6 @@
     {
       "added_at": "2024-01-19 05:23:33",
       "album": {
-        "name": "BUBALU",
-        "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "BUBALU",
-      "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
-    },
-    {
-      "added_at": "2024-01-19 05:23:33",
-      "album": {
         "name": "Donde Est\u00e1s",
         "url": "https://open.spotify.com/album/3P1vHJYr9mrJYvIEWNm8yb"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 194941,
       "name": "Sigo Enamorau'",
       "url": "https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98"
+    },
+    {
+      "added_at": "2024-01-19 05:23:33",
+      "album": {
+        "name": "BUBALU",
+        "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "BUBALU",
+      "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
     },
     {
       "added_at": "2024-01-19 05:23:33",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-01-19 05:23:33",
       "album": {
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 164293,
+      "name": "LUCES DE TECNO",
+      "url": "https://open.spotify.com/track/0goXAEnjWhssHU0y9Zyqyf"
+    },
+    {
+      "added_at": "2024-01-19 05:23:33",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -663,6 +679,26 @@
     {
       "added_at": "2024-01-19 05:23:33",
       "album": {
+        "name": "Sauce Boyz 2",
+        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 232560,
+      "name": "No Te Deseo el Mal",
+      "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
+    },
+    {
+      "added_at": "2024-01-19 05:23:33",
+      "album": {
         "name": "Me Gusta Tu Flow",
         "url": "https://open.spotify.com/album/1625TAr0aacB03dTtcLg5W"
       },
@@ -675,22 +711,6 @@
       "duration_ms": 177500,
       "name": "Me Gusta Tu Flow",
       "url": "https://open.spotify.com/track/1jeaCBXzfpy9kPBuLSQNmo"
-    },
-    {
-      "added_at": "2024-01-19 05:23:33",
-      "album": {
-        "name": "MOR, No Le Temas a La Oscuridad",
-        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 164293,
-      "name": "LUCES DE TECNO",
-      "url": "https://open.spotify.com/track/0goXAEnjWhssHU0y9Zyqyf"
     },
     {
       "added_at": "2024-01-19 05:23:33",
@@ -731,22 +751,22 @@
     {
       "added_at": "2024-01-19 05:23:33",
       "album": {
-        "name": "Sauce Boyz 2",
-        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+        "name": "SIXDO",
+        "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
         }
       ],
-      "duration_ms": 232560,
-      "name": "No Te Deseo el Mal",
-      "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
+      "duration_ms": 165880,
+      "name": "Le Pido a DIOS",
+      "url": "https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu"
     },
     {
       "added_at": "2024-01-19 05:23:33",
@@ -795,26 +815,6 @@
     {
       "added_at": "2024-01-19 05:23:33",
       "album": {
-        "name": "SIXDO",
-        "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 165880,
-      "name": "Le Pido a DIOS",
-      "url": "https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu"
-    },
-    {
-      "added_at": "2024-01-19 05:23:33",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -855,22 +855,22 @@
     {
       "added_at": "2024-01-19 05:23:33",
       "album": {
-        "name": "Hood (Remix)",
-        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
+        "name": "FERXXO 151",
+        "url": "https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq"
       },
       "artists": [
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "ICON",
+          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
         }
       ],
-      "duration_ms": 176372,
-      "name": "Hood - Remix",
-      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
+      "duration_ms": 195653,
+      "name": "FERXXO 151",
+      "url": "https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8"
     },
     {
       "added_at": "2024-01-19 05:23:33",
@@ -895,6 +895,26 @@
       "duration_ms": 196701,
       "name": "11 Y ONCE",
       "url": "https://open.spotify.com/track/0DwVNspGmrWAWFnbjMa2FZ"
+    },
+    {
+      "added_at": "2024-01-19 05:23:33",
+      "album": {
+        "name": "Hood (Remix)",
+        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 176372,
+      "name": "Hood - Remix",
+      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
     },
     {
       "added_at": "2024-01-19 05:23:33",
@@ -991,26 +1011,6 @@
       "duration_ms": 213877,
       "name": "VENENO",
       "url": "https://open.spotify.com/track/7hID0StXCgSbBeJ1WdHhYB"
-    },
-    {
-      "added_at": "2024-01-19 05:23:33",
-      "album": {
-        "name": "FERXXO 151",
-        "url": "https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "ICON",
-          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "FERXXO 151",
-      "url": "https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8"
     },
     {
       "added_at": "2024-01-19 05:23:33",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2024-01-19 05:23:33",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/1sRH4OWpSusGI266WHwTPu"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        },
-        {
-          "name": "Babi",
-          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
-        }
-      ],
-      "duration_ms": 205027,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/6zmn8g3wqzXs75rs6gJW8T"
-    },
-    {
-      "added_at": "2024-01-19 05:23:33",
-      "album": {
         "name": "Se\u00f1orita (Remix)",
         "url": "https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 181591,
       "name": "Se\u00f1orita - Remix",
       "url": "https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH"
+    },
+    {
+      "added_at": "2024-01-19 05:23:33",
+      "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/1sRH4OWpSusGI266WHwTPu"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        },
+        {
+          "name": "Babi",
+          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
+        }
+      ],
+      "duration_ms": 205027,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/6zmn8g3wqzXs75rs6gJW8T"
     },
     {
       "added_at": "2024-01-19 05:23:33",
@@ -1399,6 +1399,30 @@
     {
       "added_at": "2024-01-19 05:23:33",
       "album": {
+        "name": "Good Energy (Remix)",
+        "url": "https://open.spotify.com/album/1PihY5yy5PX8kW2jGonJW1"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Yung Wylin'",
+          "url": "https://open.spotify.com/artist/0m4kaX5bs4Jp3rCsRuLjA9"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "duration_ms": 214906,
+      "name": "Good Energy - Remix",
+      "url": "https://open.spotify.com/track/37sgLcobfnLtle8H17N0H1"
+    },
+    {
+      "added_at": "2024-01-19 05:23:33",
+      "album": {
         "name": "S\u00edNTOMAS DE SOLTERA",
         "url": "https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x"
       },
@@ -1475,30 +1499,6 @@
     {
       "added_at": "2024-01-19 05:23:33",
       "album": {
-        "name": "Good Energy (Remix)",
-        "url": "https://open.spotify.com/album/1PihY5yy5PX8kW2jGonJW1"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Yung Wylin'",
-          "url": "https://open.spotify.com/artist/0m4kaX5bs4Jp3rCsRuLjA9"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        }
-      ],
-      "duration_ms": 214906,
-      "name": "Good Energy - Remix",
-      "url": "https://open.spotify.com/track/37sgLcobfnLtle8H17N0H1"
-    },
-    {
-      "added_at": "2024-01-19 05:23:33",
-      "album": {
         "name": "POKE FREESTYLE",
         "url": "https://open.spotify.com/album/2GWvS2DZKb8ovA7HquXJQ3"
       },
@@ -1531,22 +1531,6 @@
       "duration_ms": 134482,
       "name": "La Fama",
       "url": "https://open.spotify.com/track/3Lk9DyjczkS9qf8PlJgBYj"
-    },
-    {
-      "added_at": "2024-01-19 05:23:33",
-      "album": {
-        "name": "Sue\u00f1os de Dal\u00ed",
-        "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 147561,
-      "name": "For Ya",
-      "url": "https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme"
     },
     {
       "added_at": "2024-01-19 05:23:33",
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2024-01-19 05:23:33",
       "album": {
+        "name": "Sue\u00f1os de Dal\u00ed",
+        "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 147561,
+      "name": "For Ya",
+      "url": "https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme"
+    },
+    {
+      "added_at": "2024-01-19 05:23:33",
+      "album": {
         "name": "Para Mi",
         "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
       },
@@ -1635,22 +1635,6 @@
       "duration_ms": 250082,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z"
-    },
-    {
-      "added_at": "2024-01-19 05:23:33",
-      "album": {
-        "name": "COPY+PASTE",
-        "url": "https://open.spotify.com/album/2PHqlhJf3wMNXfUvCGMPWk"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 139746,
-      "name": "COPY+PASTE",
-      "url": "https://open.spotify.com/track/4lNJPSKTlH5H2LQAX0pqH2"
     },
     {
       "added_at": "2024-01-19 05:23:33",
@@ -1727,6 +1711,22 @@
     {
       "added_at": "2024-01-19 05:23:33",
       "album": {
+        "name": "COPY+PASTE",
+        "url": "https://open.spotify.com/album/2PHqlhJf3wMNXfUvCGMPWk"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 139746,
+      "name": "COPY+PASTE",
+      "url": "https://open.spotify.com/track/4lNJPSKTlH5H2LQAX0pqH2"
+    },
+    {
+      "added_at": "2024-01-19 05:23:33",
+      "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
       },
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-01-19 05:23:33",
       "album": {
-        "name": "No me queda m\u00e1s",
-        "url": "https://open.spotify.com/album/5JOLE4jmdFpweNnLTvrE9o"
-      },
-      "artists": [
-        {
-          "name": "Fabi\u00f8 Guerra",
-          "url": "https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp"
-        }
-      ],
-      "duration_ms": 204970,
-      "name": "No me queda m\u00e1s",
-      "url": "https://open.spotify.com/track/4z3vTxnIfdET5ja47yYXRE"
-    },
-    {
-      "added_at": "2024-01-19 05:23:33",
-      "album": {
         "name": "Di\u00e1vola",
         "url": "https://open.spotify.com/album/4azJnGFXTPVHM4hImHSsB1"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 218777,
       "name": "Di\u00e1vola",
       "url": "https://open.spotify.com/track/73n2N3lk2dNc9seGfEyXo9"
+    },
+    {
+      "added_at": "2024-01-19 05:23:33",
+      "album": {
+        "name": "No me queda m\u00e1s",
+        "url": "https://open.spotify.com/album/5JOLE4jmdFpweNnLTvrE9o"
+      },
+      "artists": [
+        {
+          "name": "Fabi\u00f8 Guerra",
+          "url": "https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp"
+        }
+      ],
+      "duration_ms": 204970,
+      "name": "No me queda m\u00e1s",
+      "url": "https://open.spotify.com/track/4z3vTxnIfdET5ja47yYXRE"
     },
     {
       "added_at": "2024-01-19 05:23:33",

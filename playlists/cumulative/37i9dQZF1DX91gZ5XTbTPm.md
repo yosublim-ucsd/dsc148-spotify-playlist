@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Skilla Baby
 
-665 songs - 1 day 6 hr 56 min
+666 songs - 1 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Busy](https://open.spotify.com/track/75baMigu6wpU2Lx3CoxYvt) | [E the profit](https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP) | [Galler\-E](https://open.spotify.com/album/7asa3U3pJ9IHG5PsO602gP) | 1:46 | 2023-11-24 | 2024-01-13 |
 | [Bye Bye](https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Bye Bye](https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb) | 1:48 | 2022-10-14 | 2022-12-17 |
 | [Candy Bars](https://open.spotify.com/track/4hC2vef0rkgMlEs5GSaAwO) | [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [Sorry 4 The Leaks Vol\. 1](https://open.spotify.com/album/7xOEuVCjgF3HfglgX8jMyv) | 1:40 | 2023-12-08 | 2024-01-13 |
-| [Candyman](https://open.spotify.com/track/3Zt0VZcBR4DGmuEzpJh7PR) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Candyman](https://open.spotify.com/album/1Y0U9tzLmjG3x0RVhyGElR) | 2:52 | 2024-01-26 |  |
+| [Candyman](https://open.spotify.com/track/3Zt0VZcBR4DGmuEzpJh7PR) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Candyman](https://open.spotify.com/album/1Y0U9tzLmjG3x0RVhyGElR) | 2:52 | 2024-01-26 | 2024-01-30 |
 | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t) | 4:01 | 2022-09-02 | 2022-10-22 |
 | [Cash App](https://open.spotify.com/track/6AG2zjruUpoYu9hunhx2lg) | [Louie Ray](https://open.spotify.com/artist/4U44HqrUwzfE2GEx9NXllw) | [Cash App](https://open.spotify.com/album/5Y6DbLjNhOclGopStO1P1d) | 2:10 | 2022-03-18 | 2022-06-25 |
 | [Catch A B](https://open.spotify.com/track/1N1OEPRVwRpimvSL6H3Mwx) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB) | [Catch A B](https://open.spotify.com/album/02GqHGLaoX1mKGypdJP2VW) | 2:13 | 2023-10-13 |  |
@@ -598,6 +598,7 @@
 | [The King and I \(feat\. CeeLo Green\) \- From the Original Motion Picture Soundtrack ELVIS](https://open.spotify.com/track/4QjbbBQAJ7NiGdlfDPcxag) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The King and I \(feat\. CeeLo Green\) \[From the Original Motion Picture Soundtrack ELVIS\]](https://open.spotify.com/album/24lMM7McdJmSBgbFhKGugA) | 3:13 | 2022-06-17 | 2022-06-25 |
 | [The Light](https://open.spotify.com/track/6j5BK1cFX9TjJd5EXHGgAn) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Light](https://open.spotify.com/album/2thP70nudcFpvmRl3AsYRa) | 2:52 | 2023-03-24 | 2023-05-13 |
 | [The Next](https://open.spotify.com/track/7hZfOP3gtRWagxuSwNG7du) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [The Next](https://open.spotify.com/album/5NNwwuzgbWaaxTseHOweJm) | 1:36 | 2023-04-21 | 2023-05-20 |
+| [The Reason](https://open.spotify.com/track/4pgtruCqDh9YE3mMyL1KRp) | [Los and Nutty](https://open.spotify.com/artist/1jWzClO5EIz8fpvtl3bno5) | [LOS X NUTTY](https://open.spotify.com/album/6Zs4q98crWtdRkf3E8sAck) | 2:17 | 2024-01-29 |  |
 | [The Sopranos \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/7MqHN8wKfencDiLYrEs1em) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tee's Coney Island](https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP) | 3:12 | 2023-11-03 |  |
 | [The Streets](https://open.spotify.com/track/4b9gu3ChsEGAnle4WIqxqo) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak) | [The Streets](https://open.spotify.com/album/3Iqca530onnDoofMp0goL6) | 3:24 | 2023-10-27 | 2024-01-20 |
 | [The Whoop Family \(feat\. Sada Baby\)](https://open.spotify.com/track/1Qz4O4X6vp4PCoyicOeurc) | [FMB DZ](https://open.spotify.com/artist/1h6ob3DaPqHakcGmqbzLWa), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Back On Track](https://open.spotify.com/album/1A6RGXkdrjY5IKwaMU53OZ) | 2:15 | 2022-02-04 | 2022-06-18 |

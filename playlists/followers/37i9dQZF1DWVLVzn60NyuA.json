@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 290237,
+  "2024-01-30": 290282,
   "date_first_scraped": "2021-12-21",
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
   "name": "Summer Vibes",
@@ -3571,7 +3571,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 203001,
       "name": "Handle It",
       "url": "https://open.spotify.com/track/53MCnnU5XI7Xr1IbaF6KN8"
@@ -4151,7 +4151,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 193543,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/7nYG5KBe9rMuZ06Idhi2Rq"
@@ -4671,7 +4671,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 179737,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/0izUjTuDrUy2FgQOSRALSU"
@@ -6581,7 +6581,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 171092,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
@@ -8387,10 +8387,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 191502,
       "name": "Toast",
       "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
+    },
+    {
+      "album": {
+        "name": "Toast (Remix)",
+        "url": "https://open.spotify.com/album/24oZPmdzVJ7X5agJbGpK8d"
+      },
+      "artists": [
+        {
+          "name": "J Star",
+          "url": "https://open.spotify.com/artist/4XoVFXRNNMzxuEpxRt2lqp"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187245,
+      "name": "Toast - Remix",
+      "url": "https://open.spotify.com/track/5Nc0d8sxVWjUoH85NuCiJU"
     },
     {
       "album": {
@@ -8577,7 +8595,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 149369,
       "name": "Tunup (feat. Konshens & Bokoesam)",
       "url": "https://open.spotify.com/track/0Ho4fDQ3EKYkpCAQmUfwM6"
@@ -9097,7 +9115,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 237458,
       "name": "West Indies",
       "url": "https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE"

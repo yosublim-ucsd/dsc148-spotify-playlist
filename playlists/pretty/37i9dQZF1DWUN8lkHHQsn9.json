@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:09GfElZ8wfFoJyaHNbSaan\">Sophie Szklarska</a>",
-  "num_followers": 8083,
+  "num_followers": 8094,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTk3YzhjZTYxZWFjNDFlNTMzMDYzYjUwMTllNDg2NGRlMWM1NzE1",
+  "snapshot_id": "MCxmN2Q3YjMzNjU0ODljYzg1MDhkNzk4NTU2YWQyMGMzZmI4NDY1Y2Rh",
   "tracks": [
     {
       "added_at": "2024-01-08 23:01:00",
@@ -147,18 +147,18 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "bezdech",
-        "url": "https://open.spotify.com/album/33FAfgaa5ZMKsJElVNO16R"
+        "name": "NIE CHC\u0118 CI\u0118 ZNA\u0106",
+        "url": "https://open.spotify.com/album/2S2S3x5NcK9Ze3OrHEioKC"
       },
       "artists": [
         {
-          "name": "livia lena",
-          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+          "name": "27.Fuckdemons",
+          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
         }
       ],
-      "duration_ms": 199168,
-      "name": "bezdech",
-      "url": "https://open.spotify.com/track/19TK1sdgx6H2l4uTl7Ti50"
+      "duration_ms": 203805,
+      "name": "NIE CHC\u0118 CI\u0118 ZNA\u0106",
+      "url": "https://open.spotify.com/track/6H0FBOuMvEzGzP2T6sD1wT"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "NIE CHC\u0118 CI\u0118 ZNA\u0106",
-        "url": "https://open.spotify.com/album/2S2S3x5NcK9Ze3OrHEioKC"
-      },
-      "artists": [
-        {
-          "name": "27.Fuckdemons",
-          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
-        }
-      ],
-      "duration_ms": 203805,
-      "name": "NIE CHC\u0118 CI\u0118 ZNA\u0106",
-      "url": "https://open.spotify.com/track/6H0FBOuMvEzGzP2T6sD1wT"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/0A7DfszejiHBJaGH7VSkgj"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 186000,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/677URO2eaUkEKpGeKq6Lds"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
+        "name": "bezdech",
+        "url": "https://open.spotify.com/album/33FAfgaa5ZMKsJElVNO16R"
+      },
+      "artists": [
+        {
+          "name": "livia lena",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+        }
+      ],
+      "duration_ms": 199168,
+      "name": "bezdech",
+      "url": "https://open.spotify.com/track/19TK1sdgx6H2l4uTl7Ti50"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -279,6 +279,42 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
+        "name": "Pod Kapturem",
+        "url": "https://open.spotify.com/album/1w5CwDnHIM3aXOxJseMLWV"
+      },
+      "artists": [
+        {
+          "name": "27.Fuckdemons",
+          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
+        },
+        {
+          "name": "PSR",
+          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "Pod Kapturem",
+      "url": "https://open.spotify.com/track/0tGyB6w2ctetOyQylOsH8C"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
+        "name": "Deadfall",
+        "url": "https://open.spotify.com/album/4ZKXU8IhV2iq3qUzmMRALn"
+      },
+      "artists": [
+        {
+          "name": "Zamilska",
+          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+        }
+      ],
+      "duration_ms": 263614,
+      "name": "Deadfall",
+      "url": "https://open.spotify.com/track/3JCRS3QDBI69OXYF5UAL7W"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
         "name": "Shyness!",
         "url": "https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto"
       },
@@ -315,6 +351,22 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
+        "name": "Inspiracje",
+        "url": "https://open.spotify.com/album/4asBYPR1ZZyBhW01Cbv1vh"
+      },
+      "artists": [
+        {
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        }
+      ],
+      "duration_ms": 158030,
+      "name": "Inspiracje",
+      "url": "https://open.spotify.com/track/5nRpR5MEp8sz6f6M83rtA2"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
         "name": "Red Flag",
         "url": "https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u"
       },
@@ -343,42 +395,6 @@
       "duration_ms": 180000,
       "name": "tw\u00f3j zapach",
       "url": "https://open.spotify.com/track/0irIpENIile1obCEpugDL1"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
-        "name": "Deadfall",
-        "url": "https://open.spotify.com/album/4ZKXU8IhV2iq3qUzmMRALn"
-      },
-      "artists": [
-        {
-          "name": "Zamilska",
-          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
-        }
-      ],
-      "duration_ms": 263614,
-      "name": "Deadfall",
-      "url": "https://open.spotify.com/track/3JCRS3QDBI69OXYF5UAL7W"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
-        "name": "Pod Kapturem",
-        "url": "https://open.spotify.com/album/1w5CwDnHIM3aXOxJseMLWV"
-      },
-      "artists": [
-        {
-          "name": "27.Fuckdemons",
-          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
-        },
-        {
-          "name": "PSR",
-          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "Pod Kapturem",
-      "url": "https://open.spotify.com/track/0tGyB6w2ctetOyQylOsH8C"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -423,22 +439,6 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "Inspiracje",
-        "url": "https://open.spotify.com/album/4asBYPR1ZZyBhW01Cbv1vh"
-      },
-      "artists": [
-        {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
-        }
-      ],
-      "duration_ms": 158030,
-      "name": "Inspiracje",
-      "url": "https://open.spotify.com/track/5nRpR5MEp8sz6f6M83rtA2"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
         "name": "Stukamy si\u0119 browarami",
         "url": "https://open.spotify.com/album/2VLLvagKSj1zD2Bok6F32w"
       },
@@ -451,22 +451,6 @@
       "duration_ms": 205502,
       "name": "Stukamy si\u0119 browarami",
       "url": "https://open.spotify.com/track/4BxOstnrSY1OmAguUtpljj"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
-        "name": "Sabota\u017cysta",
-        "url": "https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kempi\u0144ski",
-          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Sabota\u017cysta",
-      "url": "https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -523,6 +507,38 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
+        "name": "Bezsens",
+        "url": "https://open.spotify.com/album/5EncNKYnNabcgchchBYRc8"
+      },
+      "artists": [
+        {
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        }
+      ],
+      "duration_ms": 163076,
+      "name": "Bezsens",
+      "url": "https://open.spotify.com/track/0NLrg1VRaqlb65kvm1dnKw"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
+        "name": "Sabota\u017cysta",
+        "url": "https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kempi\u0144ski",
+          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Sabota\u017cysta",
+      "url": "https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
         "name": "OLIMP",
         "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "Bezsens",
-        "url": "https://open.spotify.com/album/5EncNKYnNabcgchchBYRc8"
-      },
-      "artists": [
-        {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
-        }
-      ],
-      "duration_ms": 163076,
-      "name": "Bezsens",
-      "url": "https://open.spotify.com/track/0NLrg1VRaqlb65kvm1dnKw"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
         "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
         "url": "https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri"
       },
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "OLIMP",
-        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
-      },
-      "artists": [
-        {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
-        }
-      ],
-      "duration_ms": 207732,
-      "name": "Jako\u015b To Przetrwamy",
-      "url": "https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
         "name": "Dolce Vita",
         "url": "https://open.spotify.com/album/1m0XMvYDp5d19yxvs4NblQ"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
+        "name": "Dziewczynka Tatusia",
+        "url": "https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+        }
+      ],
+      "duration_ms": 141340,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/6qw0cxzRzqAw9EctLLSGkX"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
         "name": "Bolt",
         "url": "https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 216860,
       "name": "Bolt",
       "url": "https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
+        "name": "OLIMP",
+        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
+      },
+      "artists": [
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+        }
+      ],
+      "duration_ms": 207732,
+      "name": "Jako\u015b To Przetrwamy",
+      "url": "https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -707,22 +723,6 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "Dziewczynka Tatusia",
-        "url": "https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B"
-      },
-      "artists": [
-        {
-          "name": "Sylvia Baudelaire",
-          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
-        }
-      ],
-      "duration_ms": 141340,
-      "name": "Barbie",
-      "url": "https://open.spotify.com/track/6qw0cxzRzqAw9EctLLSGkX"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
         "name": "$WAG (lepi si\u0119 w ch*j)",
         "url": "https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z"
       },
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "52 Kilo",
-        "url": "https://open.spotify.com/album/2ybhVe7eucFViFRCMbGqyr"
-      },
-      "artists": [
-        {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "52 Kilo",
-      "url": "https://open.spotify.com/track/7gwi5NDvGXmEphUGAKPKeL"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
         "name": "miss u",
         "url": "https://open.spotify.com/album/0TIjkkDpIOiOmdc3el92Uz"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 150001,
       "name": "miss u",
       "url": "https://open.spotify.com/track/6264KCYuGN6YncMjaGbiRH"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
+        "name": "52 Kilo",
+        "url": "https://open.spotify.com/album/2ybhVe7eucFViFRCMbGqyr"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "52 Kilo",
+      "url": "https://open.spotify.com/track/7gwi5NDvGXmEphUGAKPKeL"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -799,6 +799,26 @@
       "duration_ms": 194250,
       "name": "Dok\u0105d biegn\u0119",
       "url": "https://open.spotify.com/track/72fif1k16rwOEMH8l8MLVM"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
+        "name": "Spicy",
+        "url": "https://open.spotify.com/album/5s9O3oTtIG0TscYAG8gRaH"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+        },
+        {
+          "name": "H8",
+          "url": "https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO"
+        }
+      ],
+      "duration_ms": 159985,
+      "name": "Spicy",
+      "url": "https://open.spotify.com/track/0L6WdUBOquVBQ8Gu3ASpZZ"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -839,26 +859,6 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "Gdzie spa\u0142a\u015b?",
-        "url": "https://open.spotify.com/album/4RVgbMVXysSvTeqmvTLNiU"
-      },
-      "artists": [
-        {
-          "name": "DZIWNE SNY",
-          "url": "https://open.spotify.com/artist/2hVplwnGStsNWof6RKmQwo"
-        },
-        {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
-        }
-      ],
-      "duration_ms": 267986,
-      "name": "Gdzie spa\u0142a\u015b?",
-      "url": "https://open.spotify.com/track/79QCCEYEns2jrNmhlJDMRx"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
         "name": "J\u0119zyk",
         "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
       },
@@ -875,38 +875,22 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "Spicy",
-        "url": "https://open.spotify.com/album/5s9O3oTtIG0TscYAG8gRaH"
+        "name": "Gdzie spa\u0142a\u015b?",
+        "url": "https://open.spotify.com/album/4RVgbMVXysSvTeqmvTLNiU"
       },
       "artists": [
         {
-          "name": "Sylvia Baudelaire",
-          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+          "name": "DZIWNE SNY",
+          "url": "https://open.spotify.com/artist/2hVplwnGStsNWof6RKmQwo"
         },
         {
-          "name": "H8",
-          "url": "https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO"
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
         }
       ],
-      "duration_ms": 159985,
-      "name": "Spicy",
-      "url": "https://open.spotify.com/track/0L6WdUBOquVBQ8Gu3ASpZZ"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
-        "name": "Jeszcze mam serce",
-        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 251216,
-      "name": "Jeszcze mam serce",
-      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
+      "duration_ms": 267986,
+      "name": "Gdzie spa\u0142a\u015b?",
+      "url": "https://open.spotify.com/track/79QCCEYEns2jrNmhlJDMRx"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -931,22 +915,18 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "OH WOW",
-        "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
+        "name": "Jeszcze mam serce",
+        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
       },
       "artists": [
         {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        },
-        {
-          "name": "Nick Sinckler",
-          "url": "https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK"
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
         }
       ],
-      "duration_ms": 174000,
-      "name": "OH WOW",
-      "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
+      "duration_ms": 251216,
+      "name": "Jeszcze mam serce",
+      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -1003,18 +983,42 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "Spina",
-        "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
+        "name": "Przekle\u0144stwa Niewinno\u015bci",
+        "url": "https://open.spotify.com/album/5zBEDCmcK2SVgyTK8maiu5"
       },
       "artists": [
         {
-          "name": "Lulu x Uaziuk",
-          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+        },
+        {
+          "name": "H8",
+          "url": "https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO"
         }
       ],
-      "duration_ms": 213921,
-      "name": "Spina",
-      "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
+      "duration_ms": 171379,
+      "name": "Wiem, \u017ce Smakuj\u0119 Jak...",
+      "url": "https://open.spotify.com/track/4GMIKtwsgJwa6zvA0krAS4"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
+        "name": "OH WOW",
+        "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "Nick Sinckler",
+          "url": "https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "OH WOW",
+      "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -1051,22 +1055,18 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "Przekle\u0144stwa Niewinno\u015bci",
-        "url": "https://open.spotify.com/album/5zBEDCmcK2SVgyTK8maiu5"
+        "name": "Spina",
+        "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
       },
       "artists": [
         {
-          "name": "Sylvia Baudelaire",
-          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
-        },
-        {
-          "name": "H8",
-          "url": "https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO"
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
         }
       ],
-      "duration_ms": 171379,
-      "name": "Wiem, \u017ce Smakuj\u0119 Jak...",
-      "url": "https://open.spotify.com/track/4GMIKtwsgJwa6zvA0krAS4"
+      "duration_ms": 213921,
+      "name": "Spina",
+      "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "\u015awiat\u0142a Lamp",
-        "url": "https://open.spotify.com/album/2ZcmKJQ5Ts00yz1IaKZkMo"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 164242,
-      "name": "\u015awiat\u0142a Lamp",
-      "url": "https://open.spotify.com/track/1X6LyZBmgjXBpaJyR11z6D"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
         "name": "Diego M.",
         "url": "https://open.spotify.com/album/0nSbH99Z1jWuqolGkPsvqM"
       },
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
+        "name": "\u015awiat\u0142a Lamp",
+        "url": "https://open.spotify.com/album/2ZcmKJQ5Ts00yz1IaKZkMo"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 164242,
+      "name": "\u015awiat\u0142a Lamp",
+      "url": "https://open.spotify.com/track/1X6LyZBmgjXBpaJyR11z6D"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
         "name": "Technikolor",
         "url": "https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc"
       },
@@ -1203,22 +1203,6 @@
       "duration_ms": 230906,
       "name": "Technikolor",
       "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
-        "name": "Hydra",
-        "url": "https://open.spotify.com/album/7A7tpEscBr4gb6G5dJAqZv"
-      },
-      "artists": [
-        {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
-        }
-      ],
-      "duration_ms": 288480,
-      "name": "Hydra",
-      "url": "https://open.spotify.com/track/5IIkGVU8NWqjWmxWSKyD6u"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -1271,22 +1255,6 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
-        "url": "https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER"
-      },
-      "artists": [
-        {
-          "name": "Cudowne Lata",
-          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
-        }
-      ],
-      "duration_ms": 248202,
-      "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
-      "url": "https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
         "name": "Don't Collapse",
         "url": "https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm"
       },
@@ -1307,34 +1275,18 @@
     {
       "added_at": "2024-01-08 23:01:00",
       "album": {
-        "name": "Bezpowrotnie",
-        "url": "https://open.spotify.com/album/6zmndzBsKowsmJBxlNeT06"
+        "name": "Hydra",
+        "url": "https://open.spotify.com/album/7A7tpEscBr4gb6G5dJAqZv"
       },
       "artists": [
         {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
         }
       ],
-      "duration_ms": 182219,
-      "name": "Bezpowrotnie",
-      "url": "https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc"
-    },
-    {
-      "added_at": "2024-01-08 23:01:00",
-      "album": {
-        "name": "Palo Santo",
-        "url": "https://open.spotify.com/album/0NGJx0HX2do5UEU3XhOsnP"
-      },
-      "artists": [
-        {
-          "name": "Lesbijski Groove",
-          "url": "https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Palo Santo",
-      "url": "https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu"
+      "duration_ms": 288480,
+      "name": "Hydra",
+      "url": "https://open.spotify.com/track/5IIkGVU8NWqjWmxWSKyD6u"
     },
     {
       "added_at": "2024-01-08 23:01:00",
@@ -1355,6 +1307,54 @@
       "duration_ms": 220000,
       "name": "Dziewczyna z NASA",
       "url": "https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
+        "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
+        "url": "https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER"
+      },
+      "artists": [
+        {
+          "name": "Cudowne Lata",
+          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
+        }
+      ],
+      "duration_ms": 248202,
+      "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
+      "url": "https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
+        "name": "Palo Santo",
+        "url": "https://open.spotify.com/album/0NGJx0HX2do5UEU3XhOsnP"
+      },
+      "artists": [
+        {
+          "name": "Lesbijski Groove",
+          "url": "https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Palo Santo",
+      "url": "https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu"
+    },
+    {
+      "added_at": "2024-01-08 23:01:00",
+      "album": {
+        "name": "Bezpowrotnie",
+        "url": "https://open.spotify.com/album/6zmndzBsKowsmJBxlNeT06"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 182219,
+      "name": "Bezpowrotnie",
+      "url": "https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc"
     },
     {
       "added_at": "2024-01-08 23:01:00",

@@ -2,9 +2,9 @@
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB?si=5pOYTLVwR4uoTuzhcAmH5Q"> كريم كرستيانو </a>
+> أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB?si=JtoVxGGLRaqTdSS46bGHxg"> اسلام كابونج </a>
 
-202 songs - 12 hr 23 min
+203 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [هلا انا جيت تريح يلا](https://open.spotify.com/track/4qE4iUKv7mH6mdpsiBJSko) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t), [مودي امين](https://open.spotify.com/artist/5KyjLQ01zRYXx6wLuiM8gI) | [هلا انا جيت تريح يلا](https://open.spotify.com/album/7LgRSY8OKHAGmejreFPGwz) | 6:25 | 2021-12-16 | 2022-07-29 |
 | [واخد علي خطري من الدنيا\( غصب عني \)](https://open.spotify.com/track/6YXMo6FHDrTLG0ksd9vWeP) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [واخد علي خطري من الدنيا\( غصب عني \)](https://open.spotify.com/album/2o4PSrpaRP4yvaAtB5HPL5) | 4:10 | 2023-09-05 | 2023-10-12 |
 | [وانت رايح كنا هناك](https://open.spotify.com/track/0lPlGW4DAFgmB9dZpRjMDX) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [وانت رايح كنا هناك](https://open.spotify.com/album/4EM3jj46AVehUD4RpTf5PB) | 3:32 | 2022-07-30 | 2022-10-17 |
+| [وحداني رغم جمداني](https://open.spotify.com/track/28X0agSVwzgki5lVEmyhJx) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [Hamo Ashraf](https://open.spotify.com/artist/72EQa5bvShk1lxSXAIelKp) | [وحداني رغم جمداني](https://open.spotify.com/album/5BTeRCXFgRkMy7ufpsgYlw) | 3:41 | 2024-01-29 |  |
 | [وسط دموع وجراح](https://open.spotify.com/track/3FdV0iO6fskyPeYnrMsKPM) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [وسط دموع وجراح](https://open.spotify.com/album/5QcbolYaY1VvcTKA2mvu0T) | 4:24 | 2021-12-16 | 2023-04-21 |
 | [وقوف في القلب](https://open.spotify.com/track/31zXcMW1eLrnVPWy4XpoaY) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Moslem](https://open.spotify.com/artist/4Cmzjffz7uLaESQIWIs9G5) | [وقوف في القلب](https://open.spotify.com/album/3e6uGfC65QZA9A1T17Gncg) | 3:10 | 2023-04-20 | 2023-08-09 |
 | [يا اصفر](https://open.spotify.com/track/4zYPnTQw16Ep4dEEgvjQTu) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [يا اصفر](https://open.spotify.com/album/4enUdXXUFYoWg5I6TlKWE6) | 3:41 | 2022-02-24 | 2022-10-17 |

@@ -4,7 +4,7 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-194 songs - 12 hr 28 min
+196 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Bohemian Paradise](https://open.spotify.com/track/6IdB80rkZp5uaKooVoxpjA) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [In the Age of Aristrocracy \(2 Year Anniversary Extended Edition\)](https://open.spotify.com/album/0x6TBcRG1kyb1Rh5RvXfUL) | 4:54 | 2023-10-12 |  |
 | [Bohemian Paradise](https://open.spotify.com/track/76BZeboUrTw8niFWxWET13) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [In the Age of Aristocracy](https://open.spotify.com/album/2VyzPKVjOkYIlevXe7midR) | 4:54 | 2022-05-19 | 2023-09-28 |
 | [Break The Cycle](https://open.spotify.com/track/5dUpUWlBPGIydeG9Ew0fQa) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Micro Macro](https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB) | 4:46 | 2022-05-19 | 2023-10-01 |
+| [Calmed Souls](https://open.spotify.com/track/3Mtii6PX4EVIwhHXKysuBd) | [Eural](https://open.spotify.com/artist/50x43BjaV7dRtBZkdrRNJo) | [Calmed Souls](https://open.spotify.com/album/4esJYZ0vRecdJI2UM2o5yR) | 3:22 | 2024-01-29 |  |
 | [Calming Measures](https://open.spotify.com/track/3e1oAxlPBpRF2LQSF7ZkhQ) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Calming Measures](https://open.spotify.com/album/1I4EAT9tMeRya2VeCdABH8) | 3:18 | 2023-09-19 |  |
 | [Celestial Orbit](https://open.spotify.com/track/7leBQCu78Elq3ersWc8HWE) | [Yuio Zah](https://open.spotify.com/artist/3LZJYvCAKjkOsPGlWj6oTf) | [Intergalactic](https://open.spotify.com/album/2KnSiN6Iqp0CIdsMHu9L4P) | 3:00 | 2023-09-19 |  |
 | [Chinsi](https://open.spotify.com/track/6sBNaiB80PUXMiFeJJ5wNc) | [Bunraku](https://open.spotify.com/artist/2KRjFUNJ9GJepRGAGextuq) | [Yoru](https://open.spotify.com/album/19KxJBqNupp2VPFOg3ZgaH) | 4:13 | 2022-05-19 |  |
@@ -198,6 +199,7 @@
 | [Weightless](https://open.spotify.com/track/0U86hztiLpoyVjJiRVZxJF) | [Beyond Time](https://open.spotify.com/artist/5jcdsaKY2dOyiAVuePI4a2) | [Weightless](https://open.spotify.com/album/6uruLBCnRc6Kd33Q1wJtbV) | 2:04 | 2023-01-20 | 2023-10-01 |
 | [Weightless Part 1](https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 8:06 | 2022-05-19 | 2023-05-06 |
 | [What a day I](https://open.spotify.com/track/4rCMha9h0PZ3ghhnO2ykim) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXIIVoid XXIIII](https://open.spotify.com/album/2RhfFJKxFTEVTOYlNcqELm) | 5:34 | 2022-05-19 | 2023-08-19 |
+| [Whispering Winds](https://open.spotify.com/track/4WtOiVV0INe9P4UranCTBy) | [Enyaq](https://open.spotify.com/artist/67rg1RV1XGrujzyW4rZfYL) | [Whispering Winds](https://open.spotify.com/album/4PsYDh0naaW122lBSOJ2d7) | 3:29 | 2024-01-29 |  |
 | [Your Way](https://open.spotify.com/track/6FDJwjtEaug5O8F8R1j5A4) | [Old Futures](https://open.spotify.com/artist/6GqHocik7Id2Em8f7Gv0Z1) | [Your Way](https://open.spotify.com/album/0k28sUPUtxguPEe9Ww9ruO) | 2:42 | 2022-07-22 |  |
 | [yuugata](https://open.spotify.com/track/65pNFP4VlE4PFKuEKbkpT4) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Soyogu](https://open.spotify.com/album/0udr94g55aVGIq8zXy60X7) | 3:02 | 2023-04-28 | 2023-10-01 |
 | [zatu](https://open.spotify.com/track/4scwisvOsvaFPIxPwNsirE) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Kansei](https://open.spotify.com/album/1BbrCC1XoKHkJF8Bwkp1wp) | 3:02 | 2023-05-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: CKay
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,059 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,265 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Outside \(feat\. Blaqbonez\)](https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:00 |
 | 50 | [À quoi ça sert](https://open.spotify.com/track/3YX6MF3ZbRSjFeiqLFVkX0) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [À quoi ça sert](https://open.spotify.com/album/7l6qwV6xSUalCbXzxkcBUV) | 2:42 |
 
-Snapshot ID: `MCwwNDc1OTQwMmU3MGQxZmRiMTE3MzRiYTUwYzdjYWY2YWY2MGQyNjkx`
+Snapshot ID: `MCw5YmM3OWY4YzY2YTQ5NGZkNTc1NWUwOTU5N2FmOTg3Mzc5ODcyNzM5`

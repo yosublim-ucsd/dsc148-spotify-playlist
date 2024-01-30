@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 44563,
+  "num_followers": 44626,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjViY2ZmZDYxMmU0MzRlNTNmMGJkYjBkNWRkZGFhNDI0MzEwN2Uw",
+  "snapshot_id": "MCw1NzQ5ODE1NjQ0MTJiNDkyZjJiMjFhMDA3MThkNzRmYWY2ZTJjYjdh",
   "tracks": [
     {
       "added_at": "2022-10-01 20:14:07",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "Luv Is Rage 2",
+        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 207038,
+      "name": "Sauce It Up",
+      "url": "https://open.spotify.com/track/1uL78kFWxhz3umTMWJu8n5"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "The Voice of the Heroes",
         "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
       },
@@ -407,22 +423,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Luv Is Rage 2",
-        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 207038,
-      "name": "Sauce It Up",
-      "url": "https://open.spotify.com/track/1uL78kFWxhz3umTMWJu8n5"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "late at night",
         "url": "https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u"
       },
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Wins & Losses",
-        "url": "https://open.spotify.com/album/2SCQAZZ5pc90l9SPBsWCIQ"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 282666,
-      "name": "1942 Flows",
-      "url": "https://open.spotify.com/track/7sLDnUauivS2vN6Z9EfUJT"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "Young and Turnt",
         "url": "https://open.spotify.com/album/10QfjPmSXM0Lt82GKlajKL"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 153958,
       "name": "Dog Food",
       "url": "https://open.spotify.com/track/3AnCVSpT7j6l8T8GBDUl6n"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Wins & Losses",
+        "url": "https://open.spotify.com/album/2SCQAZZ5pc90l9SPBsWCIQ"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 282666,
+      "name": "1942 Flows",
+      "url": "https://open.spotify.com/track/7sLDnUauivS2vN6Z9EfUJT"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "What A Time To Be Alive",
+        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 253934,
+      "name": "30 for 30 Freestyle",
+      "url": "https://open.spotify.com/track/1DmnEYXa4WfbdhAPwNzgD8"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "SUPER SLIMEY",
         "url": "https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm"
       },
@@ -519,34 +535,34 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/5VVILXgB1joAxfZkOlWs8U"
+        "name": "The Voice",
+        "url": "https://open.spotify.com/album/33lOYXjswrDuzTqTNJYSWy"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 156032,
-      "name": "All In",
-      "url": "https://open.spotify.com/track/1ZRjLZcNTm1vUgrexBp3px"
+      "duration_ms": 200000,
+      "name": "Backdoor",
+      "url": "https://open.spotify.com/track/3xUoEjDFhHCWlIeLRoTabt"
     },
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "What A Time To Be Alive",
-        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 253934,
-      "name": "30 for 30 Freestyle",
-      "url": "https://open.spotify.com/track/1DmnEYXa4WfbdhAPwNzgD8"
+      "duration_ms": 236462,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/6Ms3n5sUl0Bzg3bMCtUEAw"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -567,18 +583,18 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "The Voice",
-        "url": "https://open.spotify.com/album/33lOYXjswrDuzTqTNJYSWy"
+        "name": "All In",
+        "url": "https://open.spotify.com/album/5VVILXgB1joAxfZkOlWs8U"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Backdoor",
-      "url": "https://open.spotify.com/track/3xUoEjDFhHCWlIeLRoTabt"
+      "duration_ms": 156032,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/1ZRjLZcNTm1vUgrexBp3px"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -607,38 +623,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Heaven Or Hell",
-        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
       },
       "artists": [
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 236462,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/6Ms3n5sUl0Bzg3bMCtUEAw"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "The Voice of the Heroes",
-        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
         },
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
         }
       ],
-      "duration_ms": 209299,
-      "name": "Voice of the Heroes",
-      "url": "https://open.spotify.com/track/3E3pb3qH11iny6TFDJvsg5"
+      "duration_ms": 240895,
+      "name": "None of This",
+      "url": "https://open.spotify.com/track/3sG8wVhIbQjJfPWICb4TVk"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -679,26 +679,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
-      },
-      "artists": [
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        },
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 240895,
-      "name": "None of This",
-      "url": "https://open.spotify.com/track/3sG8wVhIbQjJfPWICb4TVk"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "No Love Lost",
         "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 163200,
       "name": "Wrong or Right",
       "url": "https://open.spotify.com/track/6qY4SYsByMNcrhVjSMd0Ow"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "The Voice of the Heroes",
+        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 209299,
+      "name": "Voice of the Heroes",
+      "url": "https://open.spotify.com/track/3E3pb3qH11iny6TFDJvsg5"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Crenshaw",
-        "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 205666,
-      "name": "U See Us",
-      "url": "https://open.spotify.com/track/2fkiHKbZVhkywVvJynZNR0"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
       },
@@ -851,22 +835,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Ion Feel Nun",
-        "url": "https://open.spotify.com/album/3fqV2haNIJQ5nn8qyVLzpU"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 151980,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/6skKn3fQ37z7m5hfl9jAr3"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "Flamerz Flow",
         "url": "https://open.spotify.com/album/69Fj23LvwqsYsPE0roNuzl"
       },
@@ -879,6 +847,38 @@
       "duration_ms": 100465,
       "name": "Flamerz Flow",
       "url": "https://open.spotify.com/track/74saqPvlvYTPwXORWa9IeU"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Crenshaw",
+        "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "U See Us",
+      "url": "https://open.spotify.com/track/2fkiHKbZVhkywVvJynZNR0"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Ion Feel Nun",
+        "url": "https://open.spotify.com/album/3fqV2haNIJQ5nn8qyVLzpU"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 151980,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/6skKn3fQ37z7m5hfl9jAr3"
     },
     {
       "added_at": "2022-10-01 20:14:07",

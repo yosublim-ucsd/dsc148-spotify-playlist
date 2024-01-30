@@ -4,7 +4,7 @@
 
 > Il meglio dell'R&B italiano\. Cover: Tatum Rush
 
-465 songs - 23 hr 3 min
+466 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,8 +91,9 @@
 | [Come se ballassimo](https://open.spotify.com/track/6vqp7l8bvamjZoihR5lu9b) | [Bye.Tide](https://open.spotify.com/artist/30Ufi67H57YMdnKTV5wNJH) | [Come se ballassimo](https://open.spotify.com/album/3v8tPkwbNPtq6rPFIo7ywg) | 3:40 | 2022-05-05 | 2022-06-10 |
 | [Come se Ballassimo](https://open.spotify.com/track/4aLp3lEAzKtMMbpYICQYEZ) | [Etta Jungle](https://open.spotify.com/artist/4qx8XNik3zFtPhaiIqwiMR) | [Come se Ballassimo](https://open.spotify.com/album/7gmsfsBP15wDEcQXqwUnQA) | 3:04 | 2023-03-30 | 2023-05-05 |
 | [Come si fa \(feat\. Mecna\)](https://open.spotify.com/track/0fsVkQHvaOq1dxW1MMfGHV) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Aurora Boreale](https://open.spotify.com/album/0BywUWtRfCZXLRjrl53PFx) | 3:13 | 2023-10-12 | 2023-11-05 |
-| [Come si fa \(feat\. Mecna\)](https://open.spotify.com/track/1OlyejULTOwZKKrw4J3FAc) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Aurora Boreale](https://open.spotify.com/album/0hbgo46Lsi6gdliKEtKcvo) | 3:13 | 2024-01-11 |  |
+| [Come si fa \(feat\. Mecna\)](https://open.spotify.com/track/1OlyejULTOwZKKrw4J3FAc) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Aurora Boreale](https://open.spotify.com/album/0hbgo46Lsi6gdliKEtKcvo) | 3:13 | 2024-01-11 | 2024-01-30 |
 | [Come si fa \(feat\. Mecna\)](https://open.spotify.com/track/1acYpHsbkn5OnzWn6xwhvM) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Aurora Boreale](https://open.spotify.com/album/0RWG0hwJKw9uBOA8wFIF1u) | 3:13 | 2023-11-30 | 2024-01-14 |
+| [Come si fa \(feat\. Mecna\)](https://open.spotify.com/track/1oAWhthFOMnYZlqvPHPj1h) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Aurora Boreale](https://open.spotify.com/album/0PD2JnNa4bsQEG9QWvlOuR) | 3:13 | 2024-01-25 |  |
 | [Come si fa \(feat\. Mecna\)](https://open.spotify.com/track/3djhLlGIgNz63lhDplcW85) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Aurora Boreale](https://open.spotify.com/album/3oh4nZNcAzLtV6KKBohGfK) | 3:13 | 2023-11-02 | 2023-12-04 |
 | [Come sta il gatto](https://open.spotify.com/track/6VZFonwEjQz2bH05rJXb8x) | [DARJO](https://open.spotify.com/artist/0OtDutNd8CG5HKJ3KK3OHX), [WIBE](https://open.spotify.com/artist/0uQT0wIvCJeDWafAHL5IE1), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [+0881](https://open.spotify.com/album/1IT9xUZiobsYQeaBO6Wq6W) | 2:38 | 2022-06-02 | 2022-07-29 |
 | [Come un Film](https://open.spotify.com/track/39XNBtQcyOgyWEIbreIe8u) | [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu) | [Come un Film](https://open.spotify.com/album/3h9WDTPIEOddGaxoAW9yeA) | 2:41 | 2022-05-12 | 2022-09-30 |

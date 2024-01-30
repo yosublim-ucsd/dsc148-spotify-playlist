@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=yb2B-KRbSyGfeu2yZVTtDw>Moses Bliss</a> ",
-  "num_followers": 20987,
+  "num_followers": 21086,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzUwZWRiMDk3ZjQ5ZTVlNzYyYzFlMDEzNGUzNjZjYjhjZTZlOWQw",
+  "snapshot_id": "MCxiMGY3MzU4MmY5MzMwMWZlZTcxZTNjODVjYzc1MmZkMGQxNjkxZjdi",
   "tracks": [
     {
       "added_at": "2024-01-26 00:01:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 234667,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "No Longer Bound (I'm Free)",
         "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 175188,
       "name": "No Longer Bound (I'm Free)",
       "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 234667,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -739,30 +739,6 @@
     {
       "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "Take It All Back",
-        "url": "https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        },
-        {
-          "name": "Davies",
-          "url": "https://open.spotify.com/artist/3JX5OfBuVx3kqJjigmW4Jy"
-        }
-      ],
-      "duration_ms": 193501,
-      "name": "Take It All Back",
-      "url": "https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
         "name": "What Are We Waiting For? (The Single)",
         "url": "https://open.spotify.com/album/7qTqRqAA0xgvuf5E1ZuzuT"
       },
@@ -791,6 +767,30 @@
       "duration_ms": 170854,
       "name": "Grave Robber",
       "url": "https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy"
+    },
+    {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "Take It All Back",
+        "url": "https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        },
+        {
+          "name": "Davies",
+          "url": "https://open.spotify.com/artist/3JX5OfBuVx3kqJjigmW4Jy"
+        }
+      ],
+      "duration_ms": 193501,
+      "name": "Take It All Back",
+      "url": "https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
     },
     {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Your Mercies",
-        "url": "https://open.spotify.com/album/2Ml0WKFkZ7TqCW52vDGGzr"
-      },
-      "artists": [
-        {
-          "name": "Nsikan Louis",
-          "url": "https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B"
-        }
-      ],
-      "duration_ms": 318857,
-      "name": "Your Mercies",
-      "url": "https://open.spotify.com/track/5JUVnZgo4FtVE4C2UlhIAH"
-    },
-    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "Thank You Lord",
@@ -923,6 +907,22 @@
       "duration_ms": 214932,
       "name": "Never",
       "url": "https://open.spotify.com/track/5HGrUHHL9w04CI4FAV0ebl"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Your Mercies",
+        "url": "https://open.spotify.com/album/2Ml0WKFkZ7TqCW52vDGGzr"
+      },
+      "artists": [
+        {
+          "name": "Nsikan Louis",
+          "url": "https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B"
+        }
+      ],
+      "duration_ms": 318857,
+      "name": "Your Mercies",
+      "url": "https://open.spotify.com/track/5JUVnZgo4FtVE4C2UlhIAH"
     }
   ],
   "unique_name": "Testify",

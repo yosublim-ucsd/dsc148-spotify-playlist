@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: back number \*👉 <a href="https://spice.eplus.jp/articles/325756?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,670 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,677 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 69 | [愛模様](https://open.spotify.com/track/0SGjAOOd55L6Swf74qynfa) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [愛模様](https://open.spotify.com/album/52ARhaxoG22r7PomX7ODTU) | 2:59 |
 | 70 | [街角](https://open.spotify.com/track/3UieuOA7sJiEg0cWwAkJCc) | [yobai suspects](https://open.spotify.com/artist/0VSioSaGvQCLyyIISVhCrv) | [街角](https://open.spotify.com/album/3a4RdrXoLxH0dFoWZHNtKk) | 4:41 |
 
-Snapshot ID: `MCxiNDgzNWVmMTNlNGM5ZTBjMTM2MzNkZmYyMzM0ZGUxMmJlODkwOWZl`
+Snapshot ID: `MCw3ZTllZTkyOTI4N2YzZjY2MDA2ZDA1Mjc3YmJjZjgwNDcwMzdmOGIx`

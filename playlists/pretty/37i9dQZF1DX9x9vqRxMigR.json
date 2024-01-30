@@ -1,12 +1,12 @@
 {
   "description": "Learn more at <a href=\"https://folk.org/programs/conference/\">folk.org</a>.  Cover: Rainbow Girls",
-  "num_followers": 16328,
+  "num_followers": 16353,
   "original_name": "Folk Alliance 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTQyYjEwYjA2Y2Q0OWFjMjg1YjM0MTdiYTc3Yjk5ZGZhZTA2MTk0",
+  "snapshot_id": "MCxjNDk4Mjc0YWNkMjczMTUxOWE0MDUwNmFkMzdlYTBiZDAxNzQ3ZjU2",
   "tracks": [
     {
       "added_at": "2024-01-03 18:15:03",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/0yGem84XQFLUPquXiLV0lQ"
+      },
+      "artists": [
+        {
+          "name": "Violet Bell",
+          "url": "https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8"
+        }
+      ],
+      "duration_ms": 228083,
+      "name": "All the Stars (Radio Edit)",
+      "url": "https://open.spotify.com/track/3W9IyoqItFEGDZ0a4BAb3I"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
         "name": "Gog Magog",
         "url": "https://open.spotify.com/album/59sjbeBja91tPzMz8NjFFL"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 197253,
       "name": "Seileach",
       "url": "https://open.spotify.com/track/0QygANVyTJAIhSU32X6Cqz"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/0yGem84XQFLUPquXiLV0lQ"
-      },
-      "artists": [
-        {
-          "name": "Violet Bell",
-          "url": "https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8"
-        }
-      ],
-      "duration_ms": 228083,
-      "name": "All the Stars (Radio Edit)",
-      "url": "https://open.spotify.com/track/3W9IyoqItFEGDZ0a4BAb3I"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
+        "name": "Minor Gold",
+        "url": "https://open.spotify.com/album/2pwhfKM3O7V8CQha9WlWJR"
+      },
+      "artists": [
+        {
+          "name": "Minor Gold",
+          "url": "https://open.spotify.com/artist/2lirdoVpJHkqTyXzIpS8nI"
+        }
+      ],
+      "duration_ms": 175573,
+      "name": "Way With Words",
+      "url": "https://open.spotify.com/track/6a2GoiH5H27p56HUJYEQ8f"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
         "name": "18 Years",
         "url": "https://open.spotify.com/album/5zyOSTkiKS11XR03cnqQjp"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 189826,
       "name": "18 Years",
       "url": "https://open.spotify.com/track/6Np5EVd4L0tjVlFszx89mw"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
-        "name": "Minor Gold",
-        "url": "https://open.spotify.com/album/2pwhfKM3O7V8CQha9WlWJR"
-      },
-      "artists": [
-        {
-          "name": "Minor Gold",
-          "url": "https://open.spotify.com/artist/2lirdoVpJHkqTyXzIpS8nI"
-        }
-      ],
-      "duration_ms": 175573,
-      "name": "Way With Words",
-      "url": "https://open.spotify.com/track/6a2GoiH5H27p56HUJYEQ8f"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "Red Neck Yaught Club",
-        "url": "https://open.spotify.com/album/2cjhzkb743LHhIcyRFMIui"
-      },
-      "artists": [
-        {
-          "name": "Louisa Stancioff",
-          "url": "https://open.spotify.com/artist/57bd2dcysq88J5fleUcS57"
-        }
-      ],
-      "duration_ms": 189169,
-      "name": "Red Neck Yaught Club",
-      "url": "https://open.spotify.com/track/39KGtlVBMQueYRKrGEDLHX"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
         "name": "The Beginning of the End",
         "url": "https://open.spotify.com/album/57gekK1rNIYyCxcRP9Vba8"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 186220,
       "name": "The Beginning Of The End",
       "url": "https://open.spotify.com/track/44LKUkizNm5YokjjZkMm0P"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
+        "name": "Red Neck Yaught Club",
+        "url": "https://open.spotify.com/album/2cjhzkb743LHhIcyRFMIui"
+      },
+      "artists": [
+        {
+          "name": "Louisa Stancioff",
+          "url": "https://open.spotify.com/artist/57bd2dcysq88J5fleUcS57"
+        }
+      ],
+      "duration_ms": 189169,
+      "name": "Red Neck Yaught Club",
+      "url": "https://open.spotify.com/track/39KGtlVBMQueYRKrGEDLHX"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -911,38 +911,6 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "The Runner",
-        "url": "https://open.spotify.com/album/4EAiH6dKII38S4tBUYHNMP"
-      },
-      "artists": [
-        {
-          "name": "Anna Smyrk",
-          "url": "https://open.spotify.com/artist/646EQaPAp3sJOgg5QjEFAm"
-        }
-      ],
-      "duration_ms": 176369,
-      "name": "The Runner",
-      "url": "https://open.spotify.com/track/5tb43sD7EAxbUCV2vuCMKG"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
-        "name": "You Don't Really Know Me",
-        "url": "https://open.spotify.com/album/1flPntiHhEN5bgCRFGmfaF"
-      },
-      "artists": [
-        {
-          "name": "Tim Easton",
-          "url": "https://open.spotify.com/artist/11ixEVNpyaaCW7VfC7fx8M"
-        }
-      ],
-      "duration_ms": 164914,
-      "name": "Voice on the Radio",
-      "url": "https://open.spotify.com/track/3M1NwECaE0OCpTKLtn8vkL"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
         "name": "Minor Gold",
         "url": "https://open.spotify.com/album/2pwhfKM3O7V8CQha9WlWJR"
       },
@@ -975,18 +943,34 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "Only a Man",
-        "url": "https://open.spotify.com/album/2lJ47yBYjkSSYBafQGiEvM"
+        "name": "You Don't Really Know Me",
+        "url": "https://open.spotify.com/album/1flPntiHhEN5bgCRFGmfaF"
       },
       "artists": [
         {
-          "name": "Pat Byrne",
-          "url": "https://open.spotify.com/artist/69kOQOUIhu4r8IzOme8N2F"
+          "name": "Tim Easton",
+          "url": "https://open.spotify.com/artist/11ixEVNpyaaCW7VfC7fx8M"
         }
       ],
-      "duration_ms": 211921,
-      "name": "Only a Man",
-      "url": "https://open.spotify.com/track/0oORe0mUVKIxYzblK2Bd6N"
+      "duration_ms": 164914,
+      "name": "Voice on the Radio",
+      "url": "https://open.spotify.com/track/3M1NwECaE0OCpTKLtn8vkL"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
+        "name": "The Runner",
+        "url": "https://open.spotify.com/album/4EAiH6dKII38S4tBUYHNMP"
+      },
+      "artists": [
+        {
+          "name": "Anna Smyrk",
+          "url": "https://open.spotify.com/artist/646EQaPAp3sJOgg5QjEFAm"
+        }
+      ],
+      "duration_ms": 176369,
+      "name": "The Runner",
+      "url": "https://open.spotify.com/track/5tb43sD7EAxbUCV2vuCMKG"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -1003,6 +987,38 @@
       "duration_ms": 245476,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/5pddz8HThKMCk0M68wTLoy"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
+        "name": "Only a Man",
+        "url": "https://open.spotify.com/album/2lJ47yBYjkSSYBafQGiEvM"
+      },
+      "artists": [
+        {
+          "name": "Pat Byrne",
+          "url": "https://open.spotify.com/artist/69kOQOUIhu4r8IzOme8N2F"
+        }
+      ],
+      "duration_ms": 211921,
+      "name": "Only a Man",
+      "url": "https://open.spotify.com/track/0oORe0mUVKIxYzblK2Bd6N"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
+        "name": "Back Down Home",
+        "url": "https://open.spotify.com/album/5XXg1B8ODKe3udultRZQ6w"
+      },
+      "artists": [
+        {
+          "name": "Tony Kamel",
+          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
+        }
+      ],
+      "duration_ms": 227704,
+      "name": "Slow on the Gulf",
+      "url": "https://open.spotify.com/track/49uZo2ai1Cum38ydfaZKCp"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -1071,22 +1087,6 @@
       "duration_ms": 274541,
       "name": "My New Best Friend Is Loneliness",
       "url": "https://open.spotify.com/track/6cW9u9APykwmRjYZPP4d9A"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
-        "name": "Back Down Home",
-        "url": "https://open.spotify.com/album/5XXg1B8ODKe3udultRZQ6w"
-      },
-      "artists": [
-        {
-          "name": "Tony Kamel",
-          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
-        }
-      ],
-      "duration_ms": 227704,
-      "name": "Slow on the Gulf",
-      "url": "https://open.spotify.com/track/49uZo2ai1Cum38ydfaZKCp"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "These Bones",
-        "url": "https://open.spotify.com/album/00VAVIBjWiyiClCxpLH7e7"
-      },
-      "artists": [
-        {
-          "name": "Michele Stodart",
-          "url": "https://open.spotify.com/artist/7ritjcrqfuDJoXWZv8OIMG"
-        }
-      ],
-      "duration_ms": 286493,
-      "name": "These Bones",
-      "url": "https://open.spotify.com/track/5GQBQjs94Z9GVNWnaVsFft"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
         "name": "Sinner's Shrine",
         "url": "https://open.spotify.com/album/5mSubqAaO2cTfpBMPu9MDn"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 194253,
       "name": "New Mexico",
       "url": "https://open.spotify.com/track/1MHo5ctrczvloB4rDQ9UM4"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
+        "name": "These Bones",
+        "url": "https://open.spotify.com/album/00VAVIBjWiyiClCxpLH7e7"
+      },
+      "artists": [
+        {
+          "name": "Michele Stodart",
+          "url": "https://open.spotify.com/artist/7ritjcrqfuDJoXWZv8OIMG"
+        }
+      ],
+      "duration_ms": 286493,
+      "name": "These Bones",
+      "url": "https://open.spotify.com/track/5GQBQjs94Z9GVNWnaVsFft"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "Grand Tour, Vol. 1",
-        "url": "https://open.spotify.com/album/6DeBUrTPH6lFpAji165Zeb"
-      },
-      "artists": [
-        {
-          "name": "Ensemble Sangineto",
-          "url": "https://open.spotify.com/artist/7pcPfitZiaGaptvib0hvJK"
-        }
-      ],
-      "duration_ms": 216093,
-      "name": "Lusive la lune",
-      "url": "https://open.spotify.com/track/6jRLZOyYzFFMziu7VfgmLN"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
         "name": "Helleristning",
         "url": "https://open.spotify.com/album/5bAzAbKcbrMs5EdVIU0Zoz"
       },
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
+        "name": "Grand Tour, Vol. 1",
+        "url": "https://open.spotify.com/album/6DeBUrTPH6lFpAji165Zeb"
+      },
+      "artists": [
+        {
+          "name": "Ensemble Sangineto",
+          "url": "https://open.spotify.com/artist/7pcPfitZiaGaptvib0hvJK"
+        }
+      ],
+      "duration_ms": 216093,
+      "name": "Lusive la lune",
+      "url": "https://open.spotify.com/track/6jRLZOyYzFFMziu7VfgmLN"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
         "name": "Circumstance",
         "url": "https://open.spotify.com/album/3SjjFeU2K48fbLOy50satR"
       },
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "Show Me",
-        "url": "https://open.spotify.com/album/0A668ius4Akg3xsREvAyKz"
-      },
-      "artists": [
-        {
-          "name": "The Resonant Rogues",
-          "url": "https://open.spotify.com/artist/3n0QiWJkZmsbq1SfclUodh"
-        }
-      ],
-      "duration_ms": 255946,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/6HtBhkRmuE44Fkrah8m9vy"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
         "name": "Bridge",
         "url": "https://open.spotify.com/album/5ggnDDpZa11EvVrt2oB3Bi"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 233583,
       "name": "Dingi Do",
       "url": "https://open.spotify.com/track/72sN8axRC8SS0hDYY7QnnJ"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/0A668ius4Akg3xsREvAyKz"
+      },
+      "artists": [
+        {
+          "name": "The Resonant Rogues",
+          "url": "https://open.spotify.com/artist/3n0QiWJkZmsbq1SfclUodh"
+        }
+      ],
+      "duration_ms": 255946,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/6HtBhkRmuE44Fkrah8m9vy"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "If Only.",
-        "url": "https://open.spotify.com/album/2Tr7zmoUm5E7X92MsXtXpq"
-      },
-      "artists": [
-        {
-          "name": "Inn Echo",
-          "url": "https://open.spotify.com/artist/6aoMCE07CVpOEMifVOQuuX"
-        }
-      ],
-      "duration_ms": 309043,
-      "name": "If Only.",
-      "url": "https://open.spotify.com/track/6nRNiN8l2gDcWD2DrsX4B6"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
         "name": "Imposter Syndrome",
         "url": "https://open.spotify.com/album/1cpwcFs4tQW37SOSxC2Zv3"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 183662,
       "name": "Girls Like Me",
       "url": "https://open.spotify.com/track/2JYgjlSNLH3e4fk60n6G0y"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
+        "name": "If Only.",
+        "url": "https://open.spotify.com/album/2Tr7zmoUm5E7X92MsXtXpq"
+      },
+      "artists": [
+        {
+          "name": "Inn Echo",
+          "url": "https://open.spotify.com/artist/6aoMCE07CVpOEMifVOQuuX"
+        }
+      ],
+      "duration_ms": 309043,
+      "name": "If Only.",
+      "url": "https://open.spotify.com/track/6nRNiN8l2gDcWD2DrsX4B6"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "Keep Going",
-        "url": "https://open.spotify.com/album/7uURfM1yiijfhNqblBZvXU"
-      },
-      "artists": [
-        {
-          "name": "Connie Kaldor",
-          "url": "https://open.spotify.com/artist/59JnJ7Xf0nIvADXD6DcO2y"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Keep Going",
-      "url": "https://open.spotify.com/track/51QsRyZKjmwvlLh90zJbMS"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
         "name": "Slow Coming Alive",
         "url": "https://open.spotify.com/album/219uhNQC88Po4EqzeZdXQV"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 255893,
       "name": "Pearls",
       "url": "https://open.spotify.com/track/5DqpN7Jnd8Pv2zFYMqY157"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
+        "name": "Keep Going",
+        "url": "https://open.spotify.com/album/7uURfM1yiijfhNqblBZvXU"
+      },
+      "artists": [
+        {
+          "name": "Connie Kaldor",
+          "url": "https://open.spotify.com/artist/59JnJ7Xf0nIvADXD6DcO2y"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Keep Going",
+      "url": "https://open.spotify.com/track/51QsRyZKjmwvlLh90zJbMS"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -2175,6 +2175,22 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
+        "name": "Songs from Home",
+        "url": "https://open.spotify.com/album/1MTtVcR6x4KrYq0bBa26tw"
+      },
+      "artists": [
+        {
+          "name": "Polky",
+          "url": "https://open.spotify.com/artist/4Y7Hjp3Yft1NplrshNVAHV"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "Kopanitsa",
+      "url": "https://open.spotify.com/track/59QyO26yXFn58nXyLWbpvX"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
         "name": "Tin Palace",
         "url": "https://open.spotify.com/album/7Hih7qmePX5VSxPfOrTUmR"
       },
@@ -2203,22 +2219,6 @@
       "duration_ms": 218613,
       "name": "Le grand retour",
       "url": "https://open.spotify.com/track/7eKxKreGEc4kweoM76fn8z"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
-        "name": "Songs from Home",
-        "url": "https://open.spotify.com/album/1MTtVcR6x4KrYq0bBa26tw"
-      },
-      "artists": [
-        {
-          "name": "Polky",
-          "url": "https://open.spotify.com/artist/4Y7Hjp3Yft1NplrshNVAHV"
-        }
-      ],
-      "duration_ms": 240853,
-      "name": "Kopanitsa",
-      "url": "https://open.spotify.com/track/59QyO26yXFn58nXyLWbpvX"
     },
     {
       "added_at": "2024-01-03 18:15:03",

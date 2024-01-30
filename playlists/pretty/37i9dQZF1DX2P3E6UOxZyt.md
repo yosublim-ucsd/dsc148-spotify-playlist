@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: Soph T.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,440 likes - 72 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,443 likes - 72 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [like that x4](https://open.spotify.com/track/41iVxKOcl1e4hZtheCca2R) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [like that x4](https://open.spotify.com/album/4UWdCcyQ9m7p7kaKFMIq2Q) | 2:06 |
 | 72 | [Forever 19](https://open.spotify.com/track/3NVCNdefsFDzI5t6h1naVO) | [Jasmine Yen](https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS) | [Forever 19](https://open.spotify.com/album/4xeQ2XBZfMG7znRk8NpfTp) | 3:33 |
 
-Snapshot ID: `MCw0OWI0NmJhNTE3NmNmNmExZjYwZDMwMDNkNGQzYTQyNDViNWU0MzYw`
+Snapshot ID: `MCxkOGMxNzkyZDYxOWVhMTBlZTEwZjAxNmY1NGYzMjRiMzkxYjQ0NDM5`

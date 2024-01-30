@@ -711,6 +711,50 @@
     },
     {
       "album": {
+        "name": "Mozart",
+        "url": "https://open.spotify.com/album/2xetV0B6kIvioqH52Q6JFW"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 581346,
+      "name": "Mozart: Piano Sonata No. 15 in F Major, K. 533/494 - 2. Andante, K. 533",
+      "url": "https://open.spotify.com/track/5GdaeLNJYQU89TtjDUsSU5"
+    },
+    {
+      "album": {
+        "name": "Mozart",
+        "url": "https://open.spotify.com/album/2xetV0B6kIvioqH52Q6JFW"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398160,
+      "name": "Mozart: Piano Sonata No. 15 in F Major, K. 533/494 - 3. Rondo. Allegretto, K. 494",
+      "url": "https://open.spotify.com/track/2bttkDnoNAIWQkaE7OQXS6"
+    },
+    {
+      "album": {
         "name": "Mozart: String Quartets Nos. 17 \"Hunt\" & 19 \"Dissonance\"",
         "url": "https://open.spotify.com/album/4ejSwakYe2wWm3X32o82zz"
       },
@@ -1506,7 +1550,7 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 580093,
       "name": "Piano Sonata No. 15 in F Major, K. 533/494: 2. Andante, K. 533",
       "url": "https://open.spotify.com/track/5WYQOIMpczR5zkuSECXa4Q"
@@ -1528,7 +1572,7 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 395133,
       "name": "Piano Sonata No. 15 in F Major, K. 533/494: 3. Rondo. Allegretto, K. 494",
       "url": "https://open.spotify.com/track/3uVMWI57CV8LKm0hfsDuX6"

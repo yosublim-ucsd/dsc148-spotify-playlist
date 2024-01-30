@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 349595,
+  "num_followers": 349623,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDk0Yjg2MjAwZTQyYzRmNmJhNmI1MDRkMTE3MjZiMDVhNDA1NGVl",
+  "snapshot_id": "MCxiOWVkYmY4NjdmMjFhMTVlZjAwMzhkOTkxMDZiNDg4NDFjOTliNDU0",
   "tracks": [
     {
       "added_at": "2024-01-26 13:07:45",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-01-26 13:07:45",
       "album": {
-        "name": "Stop the Moment (Deluxe)",
-        "url": "https://open.spotify.com/album/31up7nR5ex0xB1e3fFvmG4"
-      },
-      "artists": [
-        {
-          "name": "Kelvin Jones",
-          "url": "https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "Call You Home",
-      "url": "https://open.spotify.com/track/13fKofkr63VqPpBCwv5D1j"
-    },
-    {
-      "added_at": "2024-01-26 13:07:45",
-      "album": {
         "name": "Kuss.",
         "url": "https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 198218,
       "name": "Sch\u00f6n genug",
       "url": "https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2"
+    },
+    {
+      "added_at": "2024-01-26 13:07:45",
+      "album": {
+        "name": "Stop the Moment (Deluxe)",
+        "url": "https://open.spotify.com/album/31up7nR5ex0xB1e3fFvmG4"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Jones",
+          "url": "https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "Call You Home",
+      "url": "https://open.spotify.com/track/13fKofkr63VqPpBCwv5D1j"
     },
     {
       "added_at": "2024-01-26 13:07:45",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-01-26 13:07:45",
       "album": {
-        "name": "Mehr davon",
-        "url": "https://open.spotify.com/album/7u16dLnOhtHtBXt9FAVImm"
-      },
-      "artists": [
-        {
-          "name": "LOTTE",
-          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
-        }
-      ],
-      "duration_ms": 173808,
-      "name": "Mehr davon",
-      "url": "https://open.spotify.com/track/7rwAzZpANJEN0vn0pzYONW"
-    },
-    {
-      "added_at": "2024-01-26 13:07:45",
-      "album": {
         "name": "Thanks For Nothing, See You Never",
         "url": "https://open.spotify.com/album/3z0cezSSci6BbzON9y9LXc"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 140309,
       "name": "Pretty Boys",
       "url": "https://open.spotify.com/track/698ehyxjqZ7i06vUJQFviN"
+    },
+    {
+      "added_at": "2024-01-26 13:07:45",
+      "album": {
+        "name": "Mehr davon",
+        "url": "https://open.spotify.com/album/7u16dLnOhtHtBXt9FAVImm"
+      },
+      "artists": [
+        {
+          "name": "LOTTE",
+          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
+        }
+      ],
+      "duration_ms": 173808,
+      "name": "Mehr davon",
+      "url": "https://open.spotify.com/track/7rwAzZpANJEN0vn0pzYONW"
     },
     {
       "added_at": "2024-01-26 13:07:45",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-01-26 13:07:45",
       "album": {
-        "name": "Thrill Of It All",
-        "url": "https://open.spotify.com/album/23tZRrcxog6733FrjhknAi"
-      },
-      "artists": [
-        {
-          "name": "Berre",
-          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
-        }
-      ],
-      "duration_ms": 203603,
-      "name": "Thrill Of It All",
-      "url": "https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh"
-    },
-    {
-      "added_at": "2024-01-26 13:07:45",
-      "album": {
         "name": "A Producer From Vienna",
         "url": "https://open.spotify.com/album/7AX7iptabwUqOi4rFekYgp"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 211781,
       "name": "Boys & Girls",
       "url": "https://open.spotify.com/track/0m28KN9Y8srHVJvutwJj5v"
+    },
+    {
+      "added_at": "2024-01-26 13:07:45",
+      "album": {
+        "name": "Thrill Of It All",
+        "url": "https://open.spotify.com/album/23tZRrcxog6733FrjhknAi"
+      },
+      "artists": [
+        {
+          "name": "Berre",
+          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
+        }
+      ],
+      "duration_ms": 203603,
+      "name": "Thrill Of It All",
+      "url": "https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh"
     },
     {
       "added_at": "2024-01-26 13:07:45",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-01-26 13:07:45",
       "album": {
+        "name": "Best You Ever Had",
+        "url": "https://open.spotify.com/album/0vL34mO5klplb791wYYGbK"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "duration_ms": 167313,
+      "name": "Best You Ever Had",
+      "url": "https://open.spotify.com/track/2NwttTTC9PXdnIOXggpzEk"
+    },
+    {
+      "added_at": "2024-01-26 13:07:45",
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7zQznatXJv40vMCjR2ztfb"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2024-01-26 13:07:45",
       "album": {
-        "name": "Best You Ever Had",
-        "url": "https://open.spotify.com/album/0vL34mO5klplb791wYYGbK"
-      },
-      "artists": [
-        {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
-        }
-      ],
-      "duration_ms": 167313,
-      "name": "Best You Ever Had",
-      "url": "https://open.spotify.com/track/2NwttTTC9PXdnIOXggpzEk"
-    },
-    {
-      "added_at": "2024-01-26 13:07:45",
-      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-01-26 13:07:45",
       "album": {
-        "name": "Broken Memories",
-        "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
-      },
-      "artists": [
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 151307,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/4EXfwVdsRBBcyuSSy3CMlT"
-    },
-    {
-      "added_at": "2024-01-26 13:07:45",
-      "album": {
         "name": "How Many Moons",
         "url": "https://open.spotify.com/album/52UTuP81SsIORoHYbDjWc9"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 183635,
       "name": "How Many Moons",
       "url": "https://open.spotify.com/track/6iF73wEQMGzFeSh8hob5so"
+    },
+    {
+      "added_at": "2024-01-26 13:07:45",
+      "album": {
+        "name": "Broken Memories",
+        "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 151307,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/4EXfwVdsRBBcyuSSy3CMlT"
     }
   ],
   "unique_name": "Feelgood Pop",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzczNGUyNzI2MTIwNjY4MzU2YWJkY2FjOTg0NjA0YTMzY2JhNmNi",
+  "snapshot_id": "MCxiNmQwMzNkZjc1MzE1Y2ZlYTkyOWUzZjA5NGE5ZTAwNDk3N2UwZmQx",
   "tracks": [
     {
       "added_at": "2024-01-26 17:06:16",
@@ -151,22 +151,6 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "RUSH! (ARE U COMING?)",
-        "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 216997,
-      "name": "VALENTINE",
-      "url": "https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
         "name": "WHAT JUST HAPPENED",
         "url": "https://open.spotify.com/album/5cFhETbBm8L6tybXY4AZSj"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 162191,
       "name": "WHAT JUST HAPPENED",
       "url": "https://open.spotify.com/track/2djNsYsA71cIs4A8YaF59J"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
+        "name": "RUSH! (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 216997,
+      "name": "VALENTINE",
+      "url": "https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -295,38 +295,6 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "THE LONELIEST",
-        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 247067,
-      "name": "THE LONELIEST",
-      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
-        "name": "Still Alive (From the Original Motion Picture Scream VI)",
-        "url": "https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 185310,
-      "name": "Still Alive - From the Original Motion Picture Scream VI",
-      "url": "https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
         "name": "lonely bitch",
         "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
       },
@@ -359,6 +327,38 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
+        "name": "THE LONELIEST",
+        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 247067,
+      "name": "THE LONELIEST",
+      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
+        "name": "Still Alive (From the Original Motion Picture Scream VI)",
+        "url": "https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 185310,
+      "name": "Still Alive - From the Original Motion Picture Scream VI",
+      "url": "https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
       },
@@ -371,26 +371,6 @@
       "duration_ms": 187140,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
-        "name": "GOSSIP (feat. Tom Morello)",
-        "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "GOSSIP (feat. Tom Morello)",
-      "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -447,22 +427,6 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "REVAMPED",
-        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 227975,
-      "name": "Tell Me You Love Me - Rock Version",
-      "url": "https://open.spotify.com/track/327h326DnJvW5suWlUG8yp"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
         "name": "Eu Nunca Fui Embora",
         "url": "https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h"
       },
@@ -495,6 +459,22 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
+        "name": "REVAMPED",
+        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 227975,
+      "name": "Tell Me You Love Me - Rock Version",
+      "url": "https://open.spotify.com/track/327h326DnJvW5suWlUG8yp"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
         "name": "Anestesiado",
         "url": "https://open.spotify.com/album/4o3Aga2Oc5GbQNNE6dJySZ"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 174786,
       "name": "Anestesiado",
       "url": "https://open.spotify.com/track/148IPSNoDbIEVdfwIIsxHx"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
+        "name": "GOSSIP (feat. Tom Morello)",
+        "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "GOSSIP (feat. Tom Morello)",
+      "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -639,18 +639,18 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "Caso Perdido",
-        "url": "https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv"
+        "name": "O Amor Machuca Demais",
+        "url": "https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB"
       },
       "artists": [
         {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 199401,
-      "name": "Caso Perdido",
-      "url": "https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo"
+      "duration_ms": 188638,
+      "name": "O Amor Machuca Demais",
+      "url": "https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -667,22 +667,6 @@
       "duration_ms": 143357,
       "name": "hover like a GODDESS",
       "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
-        "name": "O Amor Machuca Demais",
-        "url": "https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 188638,
-      "name": "O Amor Machuca Demais",
-      "url": "https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -719,6 +703,22 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
+        "name": "Caso Perdido",
+        "url": "https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 199401,
+      "name": "Caso Perdido",
+      "url": "https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
         "name": "NUNCA VOU TE PERDOAR",
         "url": "https://open.spotify.com/album/0HFNiOy2tabQwDMTqRxmOD"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 218161,
       "name": "Obscuro",
       "url": "https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
-        "name": "T\u00c1 TODO MUNDO MAL",
-        "url": "https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "T\u00c1 TODO MUNDO MAL",
-      "url": "https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -903,38 +887,18 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "MENTIRA FAVORITA",
-        "url": "https://open.spotify.com/album/5S0rzOgakJueLdblfzAjwf"
-      },
-      "artists": [
-        {
-          "name": "Ci\u00e7a Moreira",
-          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
-        }
-      ],
-      "duration_ms": 173461,
-      "name": "MENTIRA FAVORITA",
-      "url": "https://open.spotify.com/track/2tnAEKbdnPds84REPr5S73"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
-        "name": "ponto de vista",
-        "url": "https://open.spotify.com/album/0nD3dR5hkxS3g1DyCATB9U"
+        "name": "T\u00c1 TODO MUNDO MAL",
+        "url": "https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR"
       },
       "artists": [
         {
           "name": "Ananda",
           "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        },
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
         }
       ],
-      "duration_ms": 206021,
-      "name": "ponto de vista",
-      "url": "https://open.spotify.com/track/0NfqR1Kf2opCwXPaNVouRY"
+      "duration_ms": 201290,
+      "name": "T\u00c1 TODO MUNDO MAL",
+      "url": "https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -959,6 +923,50 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
+        "name": "MENTIRA FAVORITA",
+        "url": "https://open.spotify.com/album/5S0rzOgakJueLdblfzAjwf"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        }
+      ],
+      "duration_ms": 173461,
+      "name": "MENTIRA FAVORITA",
+      "url": "https://open.spotify.com/track/2tnAEKbdnPds84REPr5S73"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
+        "name": "Vampira (Remix)",
+        "url": "https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B"
+      },
+      "artists": [
+        {
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
+        },
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "CyberKills",
+          "url": "https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3"
+        },
+        {
+          "name": "FUSO!",
+          "url": "https://open.spotify.com/artist/2nVbDbaNm0KhD8zfkTk6pq"
+        }
+      ],
+      "duration_ms": 178848,
+      "name": "Vampira - Remix",
+      "url": "https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
         "name": "DUBL\u00ca",
         "url": "https://open.spotify.com/album/21nz8HbPqUOCkPRXbpH5jJ"
       },
@@ -971,6 +979,22 @@
       "duration_ms": 178208,
       "name": "DUBL\u00ca",
       "url": "https://open.spotify.com/track/2P4Nbb8Gf5TX2JyBu0kuIY"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
+        "name": ":( UMA BAD UMA FARRA :) [Deluxe]",
+        "url": "https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom"
+      },
+      "artists": [
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        }
+      ],
+      "duration_ms": 207070,
+      "name": "CORPO FECHADO",
+      "url": "https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -1007,18 +1031,18 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "\u00daltimo Clich\u00ea",
-        "url": "https://open.spotify.com/album/6OhFYkE3KeUM6zRlhCE8vE"
+        "name": "Depois das Seis",
+        "url": "https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3"
       },
       "artists": [
         {
-          "name": "Cine",
-          "url": "https://open.spotify.com/artist/4MZmexF6g7Kk5nWAP8f5Zr"
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
         }
       ],
-      "duration_ms": 169411,
-      "name": "\u00daltimo Clich\u00ea",
-      "url": "https://open.spotify.com/track/3n3aZ903Y3TjQseFJTOFin"
+      "duration_ms": 180488,
+      "name": "Depois Das Seis",
+      "url": "https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -1039,34 +1063,22 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "Depois das Seis",
-        "url": "https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3"
+        "name": "ponto de vista",
+        "url": "https://open.spotify.com/album/0nD3dR5hkxS3g1DyCATB9U"
       },
       "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        },
         {
           "name": "Hotelo",
           "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
         }
       ],
-      "duration_ms": 180488,
-      "name": "Depois Das Seis",
-      "url": "https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
-        "name": ":( UMA BAD UMA FARRA :) [Deluxe]",
-        "url": "https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom"
-      },
-      "artists": [
-        {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
-        }
-      ],
-      "duration_ms": 207070,
-      "name": "CORPO FECHADO",
-      "url": "https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98"
+      "duration_ms": 206021,
+      "name": "ponto de vista",
+      "url": "https://open.spotify.com/track/0NfqR1Kf2opCwXPaNVouRY"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -1091,62 +1103,18 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "Vampira (Remix)",
-        "url": "https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B"
+        "name": "\u00daltimo Clich\u00ea",
+        "url": "https://open.spotify.com/album/6OhFYkE3KeUM6zRlhCE8vE"
       },
       "artists": [
         {
-          "name": "Mia Badgyal",
-          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
-        },
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "CyberKills",
-          "url": "https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3"
-        },
-        {
-          "name": "FUSO!",
-          "url": "https://open.spotify.com/artist/2nVbDbaNm0KhD8zfkTk6pq"
+          "name": "Cine",
+          "url": "https://open.spotify.com/artist/4MZmexF6g7Kk5nWAP8f5Zr"
         }
       ],
-      "duration_ms": 178848,
-      "name": "Vampira - Remix",
-      "url": "https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
-        "name": "MINHA RELIGI\u00c3O",
-        "url": "https://open.spotify.com/album/2pIHcNnoZyzf0eLWIlT3u9"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "MINHA RELIGI\u00c3O",
-      "url": "https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
-        "name": "Tonto, Mole, Trouxa (e meio devagar)",
-        "url": "https://open.spotify.com/album/4n8PxOVREWt1CjeCKnJmYB"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 131986,
-      "name": "Tonto, Mole, Trouxa (e meio devagar)",
-      "url": "https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P"
+      "duration_ms": 169411,
+      "name": "\u00daltimo Clich\u00ea",
+      "url": "https://open.spotify.com/track/3n3aZ903Y3TjQseFJTOFin"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -1183,38 +1151,6 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "FORA DE SI",
-        "url": "https://open.spotify.com/album/7xeqEfqU6k9VIbm9v9HD17"
-      },
-      "artists": [
-        {
-          "name": "Ci\u00e7a Moreira",
-          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
-        }
-      ],
-      "duration_ms": 142825,
-      "name": "FORA DE SI",
-      "url": "https://open.spotify.com/track/55Glu5AJDiVpUOLmxaTFoc"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
-        "name": "vc n gosta de garotas",
-        "url": "https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob"
-      },
-      "artists": [
-        {
-          "name": "lalalaura",
-          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "vc n gosta de garotas",
-      "url": "https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
         "name": "PODERIA SER (bem) PIOR",
         "url": "https://open.spotify.com/album/6q0gUaY6hsZIvOlatWotu0"
       },
@@ -1243,6 +1179,70 @@
       "duration_ms": 146643,
       "name": "ANTISSOCIAL",
       "url": "https://open.spotify.com/track/5vkLsYCrNiD56XifYnIBo9"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
+        "name": "FORA DE SI",
+        "url": "https://open.spotify.com/album/7xeqEfqU6k9VIbm9v9HD17"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        }
+      ],
+      "duration_ms": 142825,
+      "name": "FORA DE SI",
+      "url": "https://open.spotify.com/track/55Glu5AJDiVpUOLmxaTFoc"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
+        "name": "Tonto, Mole, Trouxa (e meio devagar)",
+        "url": "https://open.spotify.com/album/4n8PxOVREWt1CjeCKnJmYB"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 131986,
+      "name": "Tonto, Mole, Trouxa (e meio devagar)",
+      "url": "https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
+        "name": "MINHA RELIGI\u00c3O",
+        "url": "https://open.spotify.com/album/2pIHcNnoZyzf0eLWIlT3u9"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "MINHA RELIGI\u00c3O",
+      "url": "https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
+        "name": "vc n gosta de garotas",
+        "url": "https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob"
+      },
+      "artists": [
+        {
+          "name": "lalalaura",
+          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "vc n gosta de garotas",
+      "url": "https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "EMO NAS BAHAMAS",
-        "url": "https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7"
-      },
-      "artists": [
-        {
-          "name": "BAKA",
-          "url": "https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o"
-        }
-      ],
-      "duration_ms": 148880,
-      "name": "VOU ALI DORMIR",
-      "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
         "name": "Maria",
         "url": "https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 161866,
       "name": "Maria",
       "url": "https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
+        "name": "EMO NAS BAHAMAS",
+        "url": "https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7"
+      },
+      "artists": [
+        {
+          "name": "BAKA",
+          "url": "https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o"
+        }
+      ],
+      "duration_ms": 148880,
+      "name": "VOU ALI DORMIR",
+      "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c"
+      },
+      "artists": [
+        {
+          "name": "Mayra",
+          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "A Cura",
+      "url": "https://open.spotify.com/track/4xawu6VJn17igipPIGayeU"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
         "name": "Legado",
         "url": "https://open.spotify.com/album/7qk4AUAt8F9m508h7HV8sj"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 134382,
       "name": "Legado",
       "url": "https://open.spotify.com/track/22hTtzEc2038qqwCuiZ687"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c"
-      },
-      "artists": [
-        {
-          "name": "Mayra",
-          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "A Cura",
-      "url": "https://open.spotify.com/track/4xawu6VJn17igipPIGayeU"
     }
   ],
   "unique_name": "rockers",

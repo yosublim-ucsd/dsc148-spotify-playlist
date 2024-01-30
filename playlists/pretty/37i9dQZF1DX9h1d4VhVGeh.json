@@ -1,29 +1,13 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 176105,
+  "num_followers": 176189,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2M5Zjc3OTI4NjBiZDQwZWE3ODlkMGMzMGEzZjBmOGQxNDhmNWM0",
+  "snapshot_id": "MCw0OGExZWIzZjI1NTZhYWM0OTc0NTkzMGJlZGE4MWZiZmU2NmI0NmFj",
   "tracks": [
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
-        "name": "Roma",
-        "url": "https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F"
-      },
-      "artists": [
-        {
-          "name": "Cairokee",
-          "url": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
-        }
-      ],
-      "duration_ms": 237832,
-      "name": "Basrah w Atooh",
-      "url": "https://open.spotify.com/track/4vIbws1xp082bv0zl8vLaJ"
-    },
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 198571,
       "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
       "url": "https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Roma",
+        "url": "https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F"
+      },
+      "artists": [
+        {
+          "name": "Cairokee",
+          "url": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
+        }
+      ],
+      "duration_ms": 237832,
+      "name": "Basrah w Atooh",
+      "url": "https://open.spotify.com/track/4vIbws1xp082bv0zl8vLaJ"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Mawloud Sanat 80",
-        "url": "https://open.spotify.com/album/3l4HXkpmAhcVi6moAigDT7"
-      },
-      "artists": [
-        {
-          "name": "Hamza Namira",
-          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
-        }
-      ],
-      "duration_ms": 231735,
-      "name": "Fady Shewaya",
-      "url": "https://open.spotify.com/track/3qRGs7H1bPfshHh19syRKQ"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "\u0644\u064a\u0644\u0649 \u0646\u0647\u0627\u0631\u0649",
         "url": "https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 264228,
       "name": "\u0642\u0635\u0627\u062f \u0639\u064a\u0646\u0649",
       "url": "https://open.spotify.com/track/3bISYorQwMHFlDaAhNyWd8"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Mawloud Sanat 80",
+        "url": "https://open.spotify.com/album/3l4HXkpmAhcVi6moAigDT7"
+      },
+      "artists": [
+        {
+          "name": "Hamza Namira",
+          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
+        }
+      ],
+      "duration_ms": 231735,
+      "name": "Fady Shewaya",
+      "url": "https://open.spotify.com/track/3qRGs7H1bPfshHh19syRKQ"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -155,6 +155,22 @@
       "duration_ms": 257656,
       "name": "Nefsy Ahbek",
       "url": "https://open.spotify.com/track/7yZc2gKENILqeJWofabYNF"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Bi Saraha",
+        "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
+      },
+      "artists": [
+        {
+          "name": "Abeer Nehme",
+          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
+        }
+      ],
+      "duration_ms": 199864,
+      "name": "Bi Saraha",
+      "url": "https://open.spotify.com/track/2TkmosdPkJXcjhvMzscrYP"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -207,22 +223,6 @@
       "duration_ms": 278546,
       "name": "Mel Bedaya",
       "url": "https://open.spotify.com/track/2j9B8YHcnxDwiDNZg6UXFl"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
-        "name": "Bi Saraha",
-        "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
-      },
-      "artists": [
-        {
-          "name": "Abeer Nehme",
-          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
-        }
-      ],
-      "duration_ms": 199864,
-      "name": "Bi Saraha",
-      "url": "https://open.spotify.com/track/2TkmosdPkJXcjhvMzscrYP"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -343,6 +343,26 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
+        "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
+        "url": "https://open.spotify.com/album/3n3DCKoWvQdEgrF0GLDHuF"
+      },
+      "artists": [
+        {
+          "name": "Abdulrahman Mohammed",
+          "url": "https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl"
+        },
+        {
+          "name": "Mohab Omer",
+          "url": "https://open.spotify.com/artist/7kluF012Emzsqg6qh2ShAY"
+        }
+      ],
+      "duration_ms": 291440,
+      "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
+      "url": "https://open.spotify.com/track/4HbQMB4aMPTATNBC1qweUN"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
         "name": "Fairouz World, Pt. 1",
         "url": "https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 303906,
       "name": "Matrahak Bi Albi",
       "url": "https://open.spotify.com/track/0f6iJjj6MqYZcFoftpjuwp"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
-        "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
-        "url": "https://open.spotify.com/album/3n3DCKoWvQdEgrF0GLDHuF"
-      },
-      "artists": [
-        {
-          "name": "Abdulrahman Mohammed",
-          "url": "https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl"
-        },
-        {
-          "name": "Mohab Omer",
-          "url": "https://open.spotify.com/artist/7kluF012Emzsqg6qh2ShAY"
-        }
-      ],
-      "duration_ms": 291440,
-      "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
-      "url": "https://open.spotify.com/track/4HbQMB4aMPTATNBC1qweUN"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "\u0628\u062f\u064a \u0627\u062d\u0643\u064a\u0643",
-        "url": "https://open.spotify.com/album/24l1EZQGlN4iiE8qnowy0Q"
-      },
-      "artists": [
-        {
-          "name": "Ghaliaa",
-          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
-        }
-      ],
-      "duration_ms": 171922,
-      "name": "\u0628\u062f\u064a \u0627\u062d\u0643\u064a\u0643",
-      "url": "https://open.spotify.com/track/4LcxmnNWYr9EUeEJWwKT5e"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "Hashrab Hashish",
         "url": "https://open.spotify.com/album/2Nc4YEEwac5P2s3vjcsrEX"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 184123,
       "name": "Hashrab Hashish",
       "url": "https://open.spotify.com/track/6Ah2JMiRc7MTr4SwRVNMh9"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "\u0628\u062f\u064a \u0627\u062d\u0643\u064a\u0643",
+        "url": "https://open.spotify.com/album/24l1EZQGlN4iiE8qnowy0Q"
+      },
+      "artists": [
+        {
+          "name": "Ghaliaa",
+          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
+        }
+      ],
+      "duration_ms": 171922,
+      "name": "\u0628\u062f\u064a \u0627\u062d\u0643\u064a\u0643",
+      "url": "https://open.spotify.com/track/4LcxmnNWYr9EUeEJWwKT5e"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Rouh Ya Amar",
-        "url": "https://open.spotify.com/album/6Se4NtTSbdIK9tQToOcQB6"
-      },
-      "artists": [
-        {
-          "name": "Hiba Tawaji",
-          "url": "https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX"
-        }
-      ],
-      "duration_ms": 242947,
-      "name": "Rouh Ya Amar",
-      "url": "https://open.spotify.com/track/2lIKMzHpP3KzZpxK6QwM5O"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "Bahebek Lelsama",
         "url": "https://open.spotify.com/album/2426NrM8n5hNONlavrlbkn"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 200826,
       "name": "Bahebek Lelsama",
       "url": "https://open.spotify.com/track/6J4xPcKd2BdyCYdCIspKTg"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Rouh Ya Amar",
+        "url": "https://open.spotify.com/album/6Se4NtTSbdIK9tQToOcQB6"
+      },
+      "artists": [
+        {
+          "name": "Hiba Tawaji",
+          "url": "https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX"
+        }
+      ],
+      "duration_ms": 242947,
+      "name": "Rouh Ya Amar",
+      "url": "https://open.spotify.com/track/2lIKMzHpP3KzZpxK6QwM5O"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Ll Abad",
-        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
-      },
-      "artists": [
-        {
-          "name": "Lina Makoul",
-          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
-        }
-      ],
-      "duration_ms": 212476,
-      "name": "Ll Abad",
-      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "Ya Bay - Live",
         "url": "https://open.spotify.com/album/2iz4CRdRylXqvWkYRtznqq"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 370000,
       "name": "Ya Bay - Live",
       "url": "https://open.spotify.com/track/7f8Hj1nQ0FnLUjswRiITKl"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Ll Abad",
+        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
+      },
+      "artists": [
+        {
+          "name": "Lina Makoul",
+          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
+        }
+      ],
+      "duration_ms": 212476,
+      "name": "Ll Abad",
+      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -1367,18 +1367,22 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "A Time to Cry - a Lament over Jerusalem",
-        "url": "https://open.spotify.com/album/5Q1IFJcO2UoccuVQkIukc8"
+        "name": "Ya Zalamez",
+        "url": "https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo"
       },
       "artists": [
         {
-          "name": "Nai Barghouti",
-          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
+        },
+        {
+          "name": "Norah Shaqur",
+          "url": "https://open.spotify.com/artist/357LwT1uF798pX9P418HhS"
         }
       ],
-      "duration_ms": 208626,
-      "name": "Mum, Sing to the Wind",
-      "url": "https://open.spotify.com/track/6DdxuWERjRsWofoIuZJiwA"
+      "duration_ms": 233215,
+      "name": "Albi",
+      "url": "https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -1399,22 +1403,18 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Ya Zalamez",
-        "url": "https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo"
+        "name": "A Time to Cry - a Lament over Jerusalem",
+        "url": "https://open.spotify.com/album/5Q1IFJcO2UoccuVQkIukc8"
       },
       "artists": [
         {
-          "name": "Apo & the Apostles",
-          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
-        },
-        {
-          "name": "Norah Shaqur",
-          "url": "https://open.spotify.com/artist/357LwT1uF798pX9P418HhS"
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
         }
       ],
-      "duration_ms": 233215,
-      "name": "Albi",
-      "url": "https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk"
+      "duration_ms": 208626,
+      "name": "Mum, Sing to the Wind",
+      "url": "https://open.spotify.com/track/6DdxuWERjRsWofoIuZJiwA"
     },
     {
       "added_at": "2023-12-27 09:37:08",

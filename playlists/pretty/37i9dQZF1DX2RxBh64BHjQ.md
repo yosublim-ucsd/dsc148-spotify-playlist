@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0yknvLWQZxwsMjhUhwWZQ8">41</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,773,932 likes - 100 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,773,504 likes - 100 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 17 | [02.02.99](https://open.spotify.com/track/582YxhgpJEY0aEHQtVQFhO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [02.02.99](https://open.spotify.com/album/079OfpydEQxerHZRJD3Or9) | 2:42 |
 | 18 | [ONE CALL](https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [ONE CALL](https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi) | 2:01 |
 | 19 | [Your Friends](https://open.spotify.com/track/6ZOCnU7MLtcZeRKAxgsqTT) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Your Friends](https://open.spotify.com/album/14LBhlalfWuVwSoLMEW8I1) | 2:19 |
-| 20 | [CBFW \(feat\. Lil Baby\)](https://open.spotify.com/track/4e2HCzAsq32hsGabDi02v0) | [Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [CBFW \(feat\. Lil Baby\)](https://open.spotify.com/album/65yeE7D5vaPkt7pkgXeNxj) | 2:53 |
+| 20 | [CBFW \(feat\. Lil Baby\)](https://open.spotify.com/track/4e2HCzAsq32hsGabDi02v0) | [FTO Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [CBFW \(feat\. Lil Baby\)](https://open.spotify.com/album/65yeE7D5vaPkt7pkgXeNxj) | 2:53 |
 | 21 | [Wassam Baby \(with Lil Wayne\)](https://open.spotify.com/track/5ezBNotZ831KDvrtVtn1nI) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Wassam Baby \(with Lil Wayne\)](https://open.spotify.com/album/00rvII5QFDSrmuBFYISwjF) | 2:13 |
 | 22 | [Ridin Round](https://open.spotify.com/track/0Q08VPRP2KMgifsgi38uE2) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [Ridin Round](https://open.spotify.com/album/1HzTsEctfuZ3NwhbfIrh6G) | 2:20 |
 | 23 | [Dat Business](https://open.spotify.com/track/3OcGYX2gjvVTcU3OVCE9iZ) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Yes, I'm Sad](https://open.spotify.com/album/1sNFQJdjahycBFQrPVW2RN) | 2:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Not Worthy 2 ft\. Jeezy](https://open.spotify.com/track/1pGkgfarR7dAlueOvkfS0y) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Super Wizz](https://open.spotify.com/album/5oDaFXMXc1SFwlUb4vZrZR) | 3:16 |
 | 100 | [Jet Lee](https://open.spotify.com/track/0Dj9XIgTrMiqJJG5hZcFir) | [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Jet Lee](https://open.spotify.com/album/4vO3ciCm1fXlUIS7YRbpy6) | 2:46 |
 
-Snapshot ID: `MCw0NmFmYjExOTgyNDg4MGIwNDdlZmJkZmY3NmMzMjZiMDNjNTYzZTAx`
+Snapshot ID: `MCw3OGUyYzcxMDY0MzVmNWEzMjA0NTFlNWY0YzQzNjA3ZjFhNTA5Mjdi`

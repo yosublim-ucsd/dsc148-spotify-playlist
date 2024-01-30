@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Justice
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,407 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,423 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [An Amazing](https://open.spotify.com/track/2FcKjPu6Ni72VBQ2YSM0GF) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [An Amazing](https://open.spotify.com/album/1V66tjjOlamPoGxFIBhSuy) | 4:56 |
 | 100 | [Free](https://open.spotify.com/track/05dsewKoowRsvsnRjUEXvX) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Free EP](https://open.spotify.com/album/0zZG5gWDyQXDTJUXbpSyxl) | 3:26 |
 
-Snapshot ID: `MCwxODg1N2UwZWM5Zjc3MmY0ZTY2ZjBiZDI5NzRmMzFjM2EwZGQyNTQ4`
+Snapshot ID: `MCwyYmY5ZmE5Y2Q5MTE5NzQ3NGVhYTZjYzE5MGUyNzIzN2FkYzAzNjhi`

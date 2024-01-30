@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Bachelor Party\n",
-  "num_followers": 56936,
+  "num_followers": 56941,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGUzMGFhMmEwODk4OWZjMDk3NGQ2MjRmNDE1NWJjNjZkZmY5Y2Rk",
+  "snapshot_id": "MCwxZjVlNzU4ZjEzY2U2ZGVkYWRjZGRlYTMyOWMyZTU0MWE1N2FiNjhl",
   "tracks": [
     {
       "added_at": "2024-01-04 06:14:40",
@@ -85,6 +85,30 @@
       "url": "https://open.spotify.com/track/7FqHCguKhIjeGs59nfebrC"
     },
     {
+      "added_at": "2024-01-29 06:24:00",
+      "album": {
+        "name": "Babu (No.1 Bullshit Guy) - Kannada",
+        "url": "https://open.spotify.com/album/49Hnl23C2dWOztSUF3pbzi"
+      },
+      "artists": [
+        {
+          "name": "Pavan",
+          "url": "https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp"
+        },
+        {
+          "name": "Shivam",
+          "url": "https://open.spotify.com/artist/4XJbBF8I2RxG9RNWTdYyon"
+        },
+        {
+          "name": "Kinnal Raj",
+          "url": "https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD"
+        }
+      ],
+      "duration_ms": 174735,
+      "name": "Babu (No.1 Bullshit Guy) Title Song",
+      "url": "https://open.spotify.com/track/45Vq1XIUhUshAIVi8AhBdh"
+    },
+    {
       "added_at": "2024-01-22 08:39:08",
       "album": {
         "name": "Haadada Haadu (From \"Mehbooba\")",
@@ -107,6 +131,58 @@
       "duration_ms": 231965,
       "name": "Haadada Haadu (From \"Mehbooba\")",
       "url": "https://open.spotify.com/track/7rig2O6TcRfWrlDzrLeymN"
+    },
+    {
+      "added_at": "2024-01-25 15:09:39",
+      "album": {
+        "name": "Ujjadbitlu (From \"Bisi-Bisi Ice-Cream\")",
+        "url": "https://open.spotify.com/album/0eEpt1QvWuPmdoSjJquD1r"
+      },
+      "artists": [
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        },
+        {
+          "name": "Arvind Sastry",
+          "url": "https://open.spotify.com/artist/5LYfroOEnxQrFtoVYSH9L4"
+        },
+        {
+          "name": "Ramesh Kurubagatti",
+          "url": "https://open.spotify.com/artist/1rDnokI7CTozvLPsBPl1A7"
+        },
+        {
+          "name": "Ram Hadpad",
+          "url": "https://open.spotify.com/artist/3mjO5dyLHDKvJHf76lIoiH"
+        }
+      ],
+      "duration_ms": 206120,
+      "name": "Ujjadbitlu (From \"Bisi-Bisi Ice-Cream\")",
+      "url": "https://open.spotify.com/track/3VhYtrijtNJH1J0YHLe4JC"
+    },
+    {
+      "added_at": "2024-01-29 06:24:55",
+      "album": {
+        "name": "Sri Ram (From \"Vairam\")",
+        "url": "https://open.spotify.com/album/3aSyMAL0Ali8aeotpKzx2A"
+      },
+      "artists": [
+        {
+          "name": "Mahati Swara Sagar",
+          "url": "https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Sri Ram - From \"Vairam\"",
+      "url": "https://open.spotify.com/track/2LrgEYPPevTu6cCheyN7pB"
     },
     {
       "added_at": "2024-01-22 08:37:31",
@@ -137,6 +213,54 @@
       "url": "https://open.spotify.com/track/7rtkNIEoWbE6l1pS4G7gXX"
     },
     {
+      "added_at": "2024-01-29 06:23:25",
+      "album": {
+        "name": "Anjanadri Theme Song (From \"HanuMan\") [Kannada]",
+        "url": "https://open.spotify.com/album/66r8NrK2uSxGU7BfgutAqj"
+      },
+      "artists": [
+        {
+          "name": "GowraHari",
+          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
+        },
+        {
+          "name": "Sai Charan",
+          "url": "https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU"
+        },
+        {
+          "name": "Siva Sakthi Datta",
+          "url": "https://open.spotify.com/artist/4yyVabDrnKm1Z9nfGVdSO8"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Anjanadri Theme Song (From \"HanuMan\") [Kannada]",
+      "url": "https://open.spotify.com/track/1gTiz4EccN56liBJaIsyg9"
+    },
+    {
+      "added_at": "2024-01-29 06:18:40",
+      "album": {
+        "name": "Ayayyo (From \"KTM\")",
+        "url": "https://open.spotify.com/album/2b7NeR1MrXgNsXzzE85oUC"
+      },
+      "artists": [
+        {
+          "name": "Chetan Rao",
+          "url": "https://open.spotify.com/artist/1BqAWpvIAKLMISzajmSS6P"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Abhinandan Dhesh Priya",
+          "url": "https://open.spotify.com/artist/2wQm6uHvdSktkVEadt9wxX"
+        }
+      ],
+      "duration_ms": 184144,
+      "name": "Ayayyo - From \"KTM\"",
+      "url": "https://open.spotify.com/track/0EWt9twxI5Jp5W1mpJ0tBt"
+    },
+    {
       "added_at": "2024-01-25 15:08:32",
       "album": {
         "name": "Sameepa (From \"Pranayam\")",
@@ -163,34 +287,6 @@
       "duration_ms": 236508,
       "name": "Sameepa (From \"Pranayam\")",
       "url": "https://open.spotify.com/track/0jReORrSdz0qjADXiaY8Zz"
-    },
-    {
-      "added_at": "2024-01-25 15:09:39",
-      "album": {
-        "name": "Ujjadbitlu (From \"Bisi-Bisi Ice-Cream\")",
-        "url": "https://open.spotify.com/album/0eEpt1QvWuPmdoSjJquD1r"
-      },
-      "artists": [
-        {
-          "name": "Nakul Abhyankar",
-          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
-        },
-        {
-          "name": "Arvind Sastry",
-          "url": "https://open.spotify.com/artist/5LYfroOEnxQrFtoVYSH9L4"
-        },
-        {
-          "name": "Ramesh Kurubagatti",
-          "url": "https://open.spotify.com/artist/1rDnokI7CTozvLPsBPl1A7"
-        },
-        {
-          "name": "Ram Hadpad",
-          "url": "https://open.spotify.com/artist/3mjO5dyLHDKvJHf76lIoiH"
-        }
-      ],
-      "duration_ms": 206120,
-      "name": "Ujjadbitlu (From \"Bisi-Bisi Ice-Cream\")",
-      "url": "https://open.spotify.com/track/3VhYtrijtNJH1J0YHLe4JC"
     },
     {
       "added_at": "2024-01-18 12:03:12",
@@ -1393,22 +1489,6 @@
       "url": "https://open.spotify.com/track/1y3YovNNzuF8Vor9aMIKnL"
     },
     {
-      "added_at": "2023-12-07 05:39:01",
-      "album": {
-        "name": "Idhe Idhe (From \"Hi Nanna\")",
-        "url": "https://open.spotify.com/album/25UZgzuXBScF2ucqRqnlUh"
-      },
-      "artists": [
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        }
-      ],
-      "duration_ms": 215132,
-      "name": "Idhe Idhe (From \"Hi Nanna\")",
-      "url": "https://open.spotify.com/track/1lbynW6oPqdMHNTZoiTqmQ"
-    },
-    {
       "added_at": "2023-11-15 12:36:47",
       "album": {
         "name": "Sapta Sagaradaache Ello - Side B Title Track (From \"Sapta Sagaradaache Ello - Side B\")",
@@ -1455,26 +1535,6 @@
       "duration_ms": 156111,
       "name": "Dhare Neenididaasare (From \"Sapta Sagaradaache Ello - Side B\")",
       "url": "https://open.spotify.com/track/5rk8XadyFwgJMxy2l73Ynh"
-    },
-    {
-      "added_at": "2023-12-01 05:54:59",
-      "album": {
-        "name": "Kaatera (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/35x8sEQpw1cSG2D2TRWPnq"
-      },
-      "artists": [
-        {
-          "name": "Darshan",
-          "url": "https://open.spotify.com/artist/26H1qsQAoHvJ3NWoaJasKB"
-        },
-        {
-          "name": "V. Harikrishna",
-          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
-        }
-      ],
-      "duration_ms": 96124,
-      "name": "Kaatera Theme Music 02",
-      "url": "https://open.spotify.com/track/3i1AOIPSZjPCbbheknkrOn"
     },
     {
       "added_at": "2023-11-29 11:22:54",
@@ -1541,34 +1601,6 @@
       "url": "https://open.spotify.com/track/4bn3L8VtLXt6iw2CqO8HLQ"
     },
     {
-      "added_at": "2023-11-28 14:30:36",
-      "album": {
-        "name": "The Suit (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2Q6ZokQAXPBbLtJ0e6u38p"
-      },
-      "artists": [
-        {
-          "name": "Ananya Bhagath",
-          "url": "https://open.spotify.com/artist/1plpb1AtIR2E4rYUIJuevr"
-        },
-        {
-          "name": "Chethan Naik",
-          "url": "https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y"
-        },
-        {
-          "name": "Jude Pereira",
-          "url": "https://open.spotify.com/artist/00zwGm9I8PktoMdsioh02z"
-        },
-        {
-          "name": "Eesha Suchi",
-          "url": "https://open.spotify.com/artist/7BQODxJYjUv5TppoSGnFZI"
-        }
-      ],
-      "duration_ms": 244572,
-      "name": "Bande Naa",
-      "url": "https://open.spotify.com/track/0ABEjnwkoRHOhGZa1MoNM1"
-    },
-    {
       "added_at": "2023-11-24 12:19:32",
       "album": {
         "name": "Jingalaka Laka Laka (From \"Ardhambardha Premakathe\")",
@@ -1591,30 +1623,6 @@
       "duration_ms": 191559,
       "name": "Jingalaka Laka Laka - From \"Ardhambardha Premakathe\"",
       "url": "https://open.spotify.com/track/5656wgb6YXZTxJQzJDAiSH"
-    },
-    {
-      "added_at": "2023-11-27 07:28:34",
-      "album": {
-        "name": "ANIMAL (KANNADA)",
-        "url": "https://open.spotify.com/album/3Ug7bGXtFxichU3gkxioT4"
-      },
-      "artists": [
-        {
-          "name": "Raghav Chaitanya",
-          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
-        },
-        {
-          "name": "Varadaraj Chikkaballapura",
-          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
-        },
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        }
-      ],
-      "duration_ms": 275439,
-      "name": "Oh Baale",
-      "url": "https://open.spotify.com/track/015vFQdlCArdhXOI2XMw3r"
     },
     {
       "added_at": "2023-11-24 12:23:12",

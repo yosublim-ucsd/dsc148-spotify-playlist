@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Bambie Thug
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,733 likes - 85 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,804 likes - 85 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 84 | [Deliverance](https://open.spotify.com/track/2BVTLEEbNKbOBCkEQmOb2j) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Deliverance](https://open.spotify.com/album/6CORTXGLALFSWFt5yfutX5) | 3:32 |
 | 85 | [Chained Into My Brain](https://open.spotify.com/track/3PL15g18dHsv9j2japWLeZ) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [SCUM](https://open.spotify.com/album/30Vekn7zrEIyTT0IKTrI93) | 2:55 |
 
-Snapshot ID: `MCxjYTQ3Y2VkYmNkNzgzOGUwMzdjNzAzMDY2M2UzMDQyNDNkNzFjYzYy`
+Snapshot ID: `MCwyMGZhNzI5NmU5ZWZhZDY2YjIzZDcxNWQzMjhmN2U3NDQ5Njc5Mjg5`

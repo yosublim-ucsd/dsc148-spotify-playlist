@@ -1103,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Calm Sequencer",
+        "url": "https://open.spotify.com/album/5g1g6GJjXj43ylTntF6pBu"
+      },
+      "artists": [
+        {
+          "name": "Tiam Aref",
+          "url": "https://open.spotify.com/artist/2mCQyDE74XqEsxiYgZnpnL"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237429,
+      "name": "Calm Sequencer",
+      "url": "https://open.spotify.com/track/661zdyC91aNQ6L7YWhiONe"
+    },
+    {
+      "album": {
         "name": "Calma Tranquilla",
         "url": "https://open.spotify.com/album/2lLmQokjLZK9V3oJ9DQI8o"
       },
@@ -3530,6 +3548,24 @@
       "duration_ms": 158250,
       "name": "Le temps passe",
       "url": "https://open.spotify.com/track/1FKTWT91DCPwRbWMxK3NZn"
+    },
+    {
+      "album": {
+        "name": "Left Outside Alone In My Dream",
+        "url": "https://open.spotify.com/album/5lx2Or9TMCyCWzp2fYotHy"
+      },
+      "artists": [
+        {
+          "name": "Peyote Level",
+          "url": "https://open.spotify.com/artist/4pYUORZCLABNwtzn9kezVd"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Left Outside Alone In My Dream",
+      "url": "https://open.spotify.com/track/4X6J6308RZMG8ACWHZM0No"
     },
     {
       "album": {

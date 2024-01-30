@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 117045,
+  "2024-01-30": 117332,
   "date_first_scraped": "2023-11-11",
   "description": "This is Emilia. The essential tracks, all in one playlist.",
   "name": "This Is Emilia",
@@ -255,7 +255,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 215000,
       "name": "Diva (feat. Emilia)",
       "url": "https://open.spotify.com/track/0Be0IFTqpOBkJeGQYaXvY6"
@@ -573,7 +573,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 149211,
       "name": "J\u00e1 \u00e9 Tarde (No M\u00e1s)",
       "url": "https://open.spotify.com/track/3zOM8olfYjhEY4gARuV8gU"

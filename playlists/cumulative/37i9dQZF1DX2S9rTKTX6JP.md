@@ -4,7 +4,7 @@
 
 > The very best rock covers\. Cover: Dolly Parton
 
-329 songs - 21 hr 17 min
+330 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Drag Me Down](https://open.spotify.com/track/4Ka1naDgbMur3LwxMaPTrg) | [Santa Cruz](https://open.spotify.com/artist/1ZP10xzJoQljzTHiaU2Gri) | [Drag Me Down](https://open.spotify.com/album/5Zj9nOCVsOe9cYuR2jIpNE) | 3:28 | 2020-12-16 | 2022-07-29 |
 | [Drag Me Down](https://open.spotify.com/track/6UBbdux7eI0m77auUWh4UD) | [Santa Cruz](https://open.spotify.com/artist/1ZP10xzJoQljzTHiaU2Gri) | [Drag Me Down](https://open.spotify.com/album/1WP3SyR5WGMxeLdXiAzGpg) | 3:28 | 2022-06-17 | 2022-08-20 |
 | [Dream On](https://open.spotify.com/track/2U0nXVgU5FcLTFtPbkcv1v) | [Blacktop Mojo](https://open.spotify.com/artist/74YaL1CwdKlao06KrJyuX2) | [Burn the Ships](https://open.spotify.com/album/0FkzemXaWdS5R75QBjpBin) | 4:25 | 2020-12-16 | 2022-11-24 |
-| [Dream On](https://open.spotify.com/track/5Z3DfEnGBOKC5XMjNlJ8qm) | [Blacktop Mojo](https://open.spotify.com/artist/74YaL1CwdKlao06KrJyuX2) | [Burn the Ships](https://open.spotify.com/album/27TGyW8JaXeWo971FPfKUi) | 4:25 | 2022-10-26 |  |
+| [Dream On](https://open.spotify.com/track/3zOlblZcFlt12XXAnS1ItD) | [Blacktop Mojo](https://open.spotify.com/artist/74YaL1CwdKlao06KrJyuX2) | [Burn the Ships](https://open.spotify.com/album/3o8Cmmh3bULwiqQY2SqeOz) | 4:25 | 2023-11-17 |  |
+| [Dream On](https://open.spotify.com/track/5Z3DfEnGBOKC5XMjNlJ8qm) | [Blacktop Mojo](https://open.spotify.com/artist/74YaL1CwdKlao06KrJyuX2) | [Burn the Ships](https://open.spotify.com/album/27TGyW8JaXeWo971FPfKUi) | 4:25 | 2022-10-26 | 2024-01-30 |
 | [Dreaming](https://open.spotify.com/track/2c5y2QB5qY6S84MoJTJYzE) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dreaming](https://open.spotify.com/album/2WApmrlB4VgT8Mz0zEMrty) | 3:07 | 2020-12-16 | 2022-07-29 |
 | [Easy](https://open.spotify.com/track/4zzvMG8KrsykYtvFEJ99Cl) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust](https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q) | 3:06 | 2020-12-16 |  |
 | [Eleanor Rigby](https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Eleanor Rigby](https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5) | 2:57 | 2023-03-24 |  |

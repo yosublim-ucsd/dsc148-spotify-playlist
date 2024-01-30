@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,173 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,196 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [But Not for Me](https://open.spotify.com/track/1RFcW32md4A4JxrSLzSBjK) | [Laila Biali](https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I), [Anat Cohen](https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH) | [But Not for Me](https://open.spotify.com/album/2vkGc6locFx5ukMogc8u5r) | 2:57 |
 | 100 | [Waiting for the Sun to Rise](https://open.spotify.com/track/7ghUJN5yFKgcuSsY0TxRT1) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [Waiting For The Sun To Rise](https://open.spotify.com/album/5E0CarVimmc8TWcIgcqZ4f) | 4:38 |
 
-Snapshot ID: `MCw3OTI5MzIyMmZkN2Q5ZjE1N2U1NWRmNGU4MDEwMGQ5ZmY2OTI0MmFi`
+Snapshot ID: `MCw1Y2MxMDU0MjM0ZjZjNzMwMTU4ZDg1MWY5ZTQ3OGFhY2M0ODg0M2U4`

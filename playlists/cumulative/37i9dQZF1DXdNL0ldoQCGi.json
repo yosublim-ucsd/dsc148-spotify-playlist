@@ -9491,6 +9491,28 @@
     },
     {
       "album": {
+        "name": "Te Trombei",
+        "url": "https://open.spotify.com/album/7yy2vPT1cQdIJZptAfsUcc"
+      },
+      "artists": [
+        {
+          "name": "Gentalha",
+          "url": "https://open.spotify.com/artist/4MvS9Puc3OUx9EDT4A9c5i"
+        },
+        {
+          "name": "Liemy irie",
+          "url": "https://open.spotify.com/artist/3hXlm8iJZtW1estcvZObVI"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133982,
+      "name": "Te Trombei",
+      "url": "https://open.spotify.com/track/5tVPt5O7Y9t1NjhwKRJ4px"
+    },
+    {
+      "album": {
         "name": "Te Ver de Novo",
         "url": "https://open.spotify.com/album/12uLu97kOecrtb7yRWQsiK"
       },

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,986 songs - 6 day 8 hr 26 min
+3,987 songs - 6 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2198,7 +2198,7 @@
 | [Mood Minor](https://open.spotify.com/track/6bDgmAXDID8VGS4BEXJ6TN) | [RenBoz](https://open.spotify.com/artist/4EtruNo3qv5ML5tiXQopqT), [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [Mood Minor](https://open.spotify.com/album/25rKFv3Ybd3pitud8KqzJK) | 1:57 | 2021-10-22 | 2021-11-17 |
 | [Moodswing](https://open.spotify.com/track/0Zo84WVAetJjKHFNS0dkcf) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Azec](https://open.spotify.com/artist/57pNVo1Rep9excJIRumo87) | [Moodswing](https://open.spotify.com/album/0TDnFi6R6AWL0xFhwfdE8O) | 1:20 | 2019-05-26\* | 2019-12-13 |
 | [Moody](https://open.spotify.com/track/4YSfx207ylk9FMY6VfIAhd) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [Moody](https://open.spotify.com/album/7y4YKPlVFqa1JFA38sQCHL) | 2:28 | 2021-11-19 | 2022-09-23 |
-| [Moon](https://open.spotify.com/track/43h5zuXze1jS9F5c13MutN) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d) | [Moon](https://open.spotify.com/album/6EunKjRlwh920PMWDdB0IE) | 1:50 | 2024-01-26 |  |
+| [Moon](https://open.spotify.com/track/43h5zuXze1jS9F5c13MutN) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d) | [Moon](https://open.spotify.com/album/6EunKjRlwh920PMWDdB0IE) | 1:50 | 2024-01-26 | 2024-01-30 |
 | [Moon](https://open.spotify.com/track/1uqc3diGUG9rwi9FsctR2n) | [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH) | [Moon](https://open.spotify.com/album/0m7M2eiLuNdVA2aeeamPNI) | 3:16 | 2019-05-26\* | 2019-06-29 |
 | [Moon](https://open.spotify.com/track/3XhYNox14zn42Kcxr2a9Ix) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Moon](https://open.spotify.com/album/5I7shLS4ws0tqvsu4Nqcdz) | 2:36 | 2020-10-16 | 2021-05-14 |
 | [Moon Groove](https://open.spotify.com/track/0oRUtViRB6gnyq3E0JFlJM) | [DIRTYTHREE](https://open.spotify.com/artist/4FBSXEaE4sG5WlTgfzIx51) | [Moon Groove](https://open.spotify.com/album/12lMqMdiJY1CW7OmO2TIoK) | 2:10 | 2020-10-09 | 2021-05-14 |
@@ -2415,6 +2415,7 @@
 | [Nostalgia](https://open.spotify.com/track/19NMCb0Ur6FPad3BU0ainP) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Nostalgia](https://open.spotify.com/album/1K0LekCXrnlYhzbc1HwGYj) | 1:31 | 2022-07-14 | 2023-04-21 |
 | [Not Yet!](https://open.spotify.com/track/6BXpBfad6wTTKmXWQ2CkMx) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [Not Yet!](https://open.spotify.com/album/7L1HQKjU0Ugfc5QOPAl5NN) | 2:56 | 2020-10-09 | 2020-11-11 |
 | [Not Your Fault](https://open.spotify.com/track/2x46RS4ZKqojPgrWue6Kj4) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Not Your Fault](https://open.spotify.com/album/0v0rjp60yVud1D6GPZrtvH) | 2:14 | 2021-11-29 | 2022-12-06 |
+| [notable](https://open.spotify.com/track/2esHjrQWY6d9tDRuFlwsVE) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [notable](https://open.spotify.com/album/4Qx3XovgDCfjn7KlTWpKyI) | 2:01 | 2024-01-26 |  |
 | [Notes](https://open.spotify.com/track/6vUGOgzxH4Pi54xXvXslNV) | [Hazy Year](https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD) | [Beats On Boat: Hazy Year](https://open.spotify.com/album/4VjNePQ8xCBre4qFegkm7U) | 2:47 | 2020-07-18 | 2021-02-01 |
 | [Nothing But Net](https://open.spotify.com/track/55WjPayn3MNHh8qPhGDwVw) | [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7), [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Nothing But Net](https://open.spotify.com/album/3raS8KlJQTCAVoIZyEvDAd) | 1:54 | 2021-12-17 | 2023-10-06 |
 | [Nothing on the Radio](https://open.spotify.com/track/0n2oWcziIPAFbLbdCrREGJ) | [Kid Kio](https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE), [Roelo](https://open.spotify.com/artist/427NoskGkRLFdKbxUEsEPr) | [Nothing on the Radio](https://open.spotify.com/album/710vVAcf1JuvBgpynkAmTV) | 2:35 | 2022-01-06 | 2022-02-25 |

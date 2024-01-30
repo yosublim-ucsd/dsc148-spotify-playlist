@@ -2,7 +2,7 @@
 
 ### [Latin Gaming](https://open.spotify.com/playlist/37i9dQZF1DX43v1NFXUzji)
 
-> Latin music bangers for your gaming session! Cover: Peso Pluma
+> Latin music bangers for your gaming session! Cover: Eladio Carrion
 
 602 songs - 1 day 9 hr 59 min
 

@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "NzE5NCwyNTI4YWQwZTMxMmFhYjkwOWFkMTg2ZTJmNGYxMDRiMGMxZDRkNzI0",
+  "snapshot_id": "NzE5Niw3NGQ5YzVjYTk4NmI1OWQzOGU1YWE2NzFlNTg2NmIwMTExZjc2ZDMy",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -2571,6 +2571,38 @@
       "duration_ms": 274480,
       "name": "Auditorium",
       "url": "https://open.spotify.com/track/7dGG7W2p1qUzbf7KwZBAsZ"
+    },
+    {
+      "added_at": "2024-01-29 21:47:28",
+      "album": {
+        "name": "What Am I To Do",
+        "url": "https://open.spotify.com/album/3dyRrIw0NzRFi26EwfZo6V"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 175609,
+      "name": "What Am I To Do",
+      "url": "https://open.spotify.com/track/4TXPbHOeQE0Az7T71uybPu"
+    },
+    {
+      "added_at": "2024-01-29 21:48:31",
+      "album": {
+        "name": "Flygod Is An Awesome God",
+        "url": "https://open.spotify.com/album/2JUpGYRkV6ymlDOX7UFTL7"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "duration_ms": 211983,
+      "name": "Lunchin",
+      "url": "https://open.spotify.com/track/2jIU2VR6uIKBCJCpFi3aL4"
     }
   ],
   "unique_name": "main ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,660 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,861 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 41 | [Estilo Livre \- Ao Vivo](https://open.spotify.com/track/6egNmHLmEDsSYx7dRPQVGe) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [FRXV \(Ao Vivo\)](https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi) | 2:42 |
 | 42 | [A Libertina](https://open.spotify.com/track/3SB6agr5USMImS0LZrEyNm) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 2:48 |
 | 43 | [Dentro de Você](https://open.spotify.com/track/15kW9fqlnorhFhzJosKu0F) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Dentro de Você](https://open.spotify.com/album/5wSXLd7oIgwI6LGo3e0QzH) | 3:55 |
-| 44 | [Eu Não Sou Tão Bom Assim \- Ao Vivo](https://open.spotify.com/track/7s4e0robYmfsPC89q4W5YA) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Show Case](https://open.spotify.com/album/7JEu7nDWBE72tKNHsTnIzF) | 2:17 |
+| 44 | [Isso Que É Vida](https://open.spotify.com/track/7JSCzHrg0FXEKJplK14ySy) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/422XU7tl8bg3VIklzD1VGf) | 4:56 |
 | 45 | [Acende a Vela](https://open.spotify.com/track/4aTa2DgvWg9njylIa5KMl7) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:48 |
 | 46 | [Vivendo Avançado](https://open.spotify.com/track/3J6cbUJfVq1veQECuq2v8G) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Johnny Monteiro](https://open.spotify.com/artist/04t3iQpfOkTMQtH4LHmbMQ) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 4:00 |
-| 47 | [Isso Que É Vida](https://open.spotify.com/track/7JSCzHrg0FXEKJplK14ySy) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/422XU7tl8bg3VIklzD1VGf) | 4:56 |
+| 47 | [Eu Não Sou Tão Bom Assim \- Ao Vivo](https://open.spotify.com/track/7s4e0robYmfsPC89q4W5YA) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Show Case](https://open.spotify.com/album/7JEu7nDWBE72tKNHsTnIzF) | 2:17 |
 | 48 | [Nova Sorte](https://open.spotify.com/track/05xyGlj1EKsjZHAR0wlD8L) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Vivaz](https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g) | 3:10 |
 | 49 | [Jamais Serão](https://open.spotify.com/track/2nDoREifQ978QhJXbnxLe8) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Start](https://open.spotify.com/artist/2wDK7CcPdIb0WJ3SiYaf1h) | [Numa Margem Distante](https://open.spotify.com/album/7FlYqBtcwB9b51uq0OZYjJ) | 4:03 |
 | 50 | [Paradoxo Mítico](https://open.spotify.com/track/4m1V2JVYzrfUuJrVY8n5MS) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 3:39 |
 
-Snapshot ID: `Mjg0NDA3NDMsMDAwMDAwMDAxNWM0MzM3MGMyNGExZWFkYjM4NGY5YjJhOTc2NTFlZg==`
+Snapshot ID: `Mjg0NDIxOTIsMDAwMDAwMDBkNTBkOTUyM2Q1YTBhMGM0YmE2N2VjMDJmZTFjNTg2Ng==`

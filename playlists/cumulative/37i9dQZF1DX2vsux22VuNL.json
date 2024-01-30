@@ -1073,6 +1073,28 @@
     },
     {
       "album": {
+        "name": "Caio em Ti",
+        "url": "https://open.spotify.com/album/1TcTGElHC9VMOq5yg5rpuF"
+      },
+      "artists": [
+        {
+          "name": "Caio Prado",
+          "url": "https://open.spotify.com/artist/5VR80ewg2Ki9zuaAkUkxxt"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155039,
+      "name": "Caio em Ti",
+      "url": "https://open.spotify.com/track/2Hw1eLrbRhLedmvmcxxsoV"
+    },
+    {
+      "album": {
         "name": "Calma Z\u00e9 (vers\u00e3o do mato)",
         "url": "https://open.spotify.com/album/0ZDn9Z3IhB77qcNmM7ZI06"
       },
@@ -3264,7 +3286,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 182500,
       "name": "Jeito Doce",
       "url": "https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP"

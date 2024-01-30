@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJnfwk84BX.md) - [plain]
 
 > Trilhas sonoras e grandes clássicos para te ajudar a relaxar durante a leitura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,576 likes - 117 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,581 likes - 117 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJnfwk84BX.md) - [plain]
 | 88 | [Violin Concerto in A Minor, RV 523: II\. Largo](https://open.spotify.com/track/76d6R3Arx2LCszSyXALNeW) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Dmitry Sinkovsky](https://open.spotify.com/artist/6KxLsPEyo1B169xGOWUCwD), [Riccardo Minasi](https://open.spotify.com/artist/4uYezrzLeI9Y2Q8AnwO5ey), [Il Pomo D'oro](https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z) | [Vivaldi: Concerti per due violini e archi I](https://open.spotify.com/album/1FgjztE4ng8tXW5nH0l7Tf) | 2:51 |
 | 89 | [Adagio in E Major, K\. 261](https://open.spotify.com/track/2vBuaUzWANdghLfM1nF0Yw) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Pinchas Zukerman](https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER), [Saint Paul Chamber Orchestra](https://open.spotify.com/artist/0QjKu8W5tafMCDKKw3xHYT) | [Mozart: Works for Violin & Orchestra](https://open.spotify.com/album/4zETVNxxf0HT4iHXV0he0F) | 8:37 |
 | 90 | [Piano Concerto No\. 2 in F Major, Op\. 102: II\. Andante](https://open.spotify.com/track/4G9nvquG9wJNTnBeuJ1Pbp) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Boris Giltburg](https://open.spotify.com/artist/6DJ974Gf11OtDblQklBHPX), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3), [Vasily Petrenko](https://open.spotify.com/artist/6H9eOWeGZkU9alBUYqNR7Q) | [Shostakovich: Piano Concertos Nos\. 1 & 2 and String Quartet No\. 8](https://open.spotify.com/album/3CQZBDcWc8jKdTIDA9n9pr) | 6:53 |
-| 91 | [The Hunger Games](https://open.spotify.com/track/1s9GYilV9guTnwidLuBV7I) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Original Motion Picture Score](https://open.spotify.com/album/6PH1qpo8wXTJnhZHnQi8YT) | 1:10 |
+| 91 | [The Hunger Games](https://open.spotify.com/track/5c1dQbR220sPGEndTw9ALW) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Original Motion Picture Score](https://open.spotify.com/album/5tF7RSw6Zke0WY4fPf6LR9) | 1:10 |
 | 92 | [Ravel: Miroirs, M\. 43: V\. La Vallée des cloches](https://open.spotify.com/track/1vRDKkxMscAH1o8emcDbcw) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Ravel: Complete Works for Solo Piano](https://open.spotify.com/album/5Ui8Uj9oHn2yT7Duo0welM) | 6:06 |
 | 93 | [Avril 14th](https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:05 |
 | 94 | [Puccini: Crisantemi](https://open.spotify.com/track/0ObV8vQoB8SJLf6vGv4xhB) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Antonio Pappano](https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw) | [Puccini: Messa di Gloria, Preludio sinfonico, Crisantemi](https://open.spotify.com/album/2y9CgDrQ19SbbO9rsmihCT) | 7:01 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJnfwk84BX.md) - [plain]
 | 116 | [](https://open.spotify.com/track/2CqYEUz87EmtXLpu5QhjrQ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5ha7u3ly8G0bEDLxidwWRD) | 0:00 |
 | 117 | [Violin Sonata in C Minor, BWV 1024: III\. Affettuoso](https://open.spotify.com/track/251kv4zkWTOOVfIl0Xe5Ny) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Johannes Pramsohler](https://open.spotify.com/artist/3vrMRlMsFCU2SZTDA9gnse), [Philippe Grisvard](https://open.spotify.com/artist/0QNKqcJExzI83diFSAv8Se) | [Bach & Entourage: Violin Sonatas by Bach, Pisendel, Krebs & Graun](https://open.spotify.com/album/5gS8NxA7q24fLiiSSppKOm) | 2:14 |
 
-Snapshot ID: `MCwxYzNmODBlZDRkOGUyMzEzNGMyNWQ3YWE0YmFjNzc4N2Q5MDY0Y2I4`
+Snapshot ID: `MCwzY2I5ZTc1NTgwY2FhN2Q4ODkxMjg5NDk2NWI3OGQzODZkYzMzYjZj`

@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 42895,
+  "num_followers": 43015,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDJlNDNhYjNmZGM2YzNkYjAzZjc2MDc4MTI5ZjUzOWQwZjFlMjE4",
+  "snapshot_id": "MCwyNzdjM2Q3ZWE5MmZlNjAyMjYwY2NjY2ExZjE4MTdiNGM0YjhjNjFm",
   "tracks": [
     {
       "added_at": "2024-01-25 23:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Good Vibes Only E.P",
-        "url": "https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN"
-      },
-      "artists": [
-        {
-          "name": "Nastic Groove",
-          "url": "https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56"
-        }
-      ],
-      "duration_ms": 353701,
-      "name": "You've Been Missing Me",
-      "url": "https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 417600,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Good Vibes Only E.P",
+        "url": "https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN"
+      },
+      "artists": [
+        {
+          "name": "Nastic Groove",
+          "url": "https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56"
+        }
+      ],
+      "duration_ms": 353701,
+      "name": "You've Been Missing Me",
+      "url": "https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
+        "name": "Skies Showers EP",
+        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        }
+      ],
+      "duration_ms": 530086,
+      "name": "Stay For The Night",
+      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
         "name": "Never Thought",
         "url": "https://open.spotify.com/album/0q4QBX9InqxRyTaen8e4oj"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 284284,
       "name": "Never Thought",
       "url": "https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "Skies Showers EP",
-        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        }
-      ],
-      "duration_ms": 530086,
-      "name": "Stay For The Night",
-      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -455,6 +455,22 @@
       "duration_ms": 395709,
       "name": "Love I Know",
       "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "OVGSREPUBLIC",
+        "url": "https://open.spotify.com/album/6wHFSpUGY7TYoMH36tJsaU"
+      },
+      "artists": [
+        {
+          "name": "SGVO",
+          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
+        }
+      ],
+      "duration_ms": 453711,
+      "name": "Octave",
+      "url": "https://open.spotify.com/track/0VnmFajFeWDUE2FO9jPIAy"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -519,18 +535,26 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "OVGSREPUBLIC",
-        "url": "https://open.spotify.com/album/6wHFSpUGY7TYoMH36tJsaU"
+        "name": "Ingoma",
+        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
       },
       "artists": [
         {
-          "name": "SGVO",
-          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        },
+        {
+          "name": "Mr.Cantata",
+          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
+        },
+        {
+          "name": "Bikie",
+          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
         }
       ],
-      "duration_ms": 453711,
-      "name": "Octave",
-      "url": "https://open.spotify.com/track/0VnmFajFeWDUE2FO9jPIAy"
+      "duration_ms": 430538,
+      "name": "Ingoma - Original Mix",
+      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -555,26 +579,26 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Ingoma",
-        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
+        "name": "It Is Well",
+        "url": "https://open.spotify.com/album/6hJ2QxpWc8eMbwwOgfFkpY"
       },
       "artists": [
         {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+          "name": "Senior Oat",
+          "url": "https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw"
         },
         {
-          "name": "Mr.Cantata",
-          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
+          "name": "Oliphant Gold",
+          "url": "https://open.spotify.com/artist/1UeEFhpijQMngJrzoPiPXV"
         },
         {
-          "name": "Bikie",
-          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
+          "name": "Romeo ThaGreatWhite",
+          "url": "https://open.spotify.com/artist/3ZCdk8KQtyV9ZbB6okOx0Q"
         }
       ],
-      "duration_ms": 430538,
-      "name": "Ingoma - Original Mix",
-      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
+      "duration_ms": 430301,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/4wPGakZ5g4ZjReeTjbo6SA"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -655,22 +679,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Joker EP",
-        "url": "https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE"
-      },
-      "artists": [
-        {
-          "name": "Ed-Ward",
-          "url": "https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ"
-        }
-      ],
-      "duration_ms": 323245,
-      "name": "Joker",
-      "url": "https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "Old but New Last Episode",
         "url": "https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4"
       },
@@ -683,6 +691,22 @@
       "duration_ms": 412264,
       "name": "Sunday Showers",
       "url": "https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Joker EP",
+        "url": "https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE"
+      },
+      "artists": [
+        {
+          "name": "Ed-Ward",
+          "url": "https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ"
+        }
+      ],
+      "duration_ms": 323245,
+      "name": "Joker",
+      "url": "https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -759,30 +783,6 @@
       "duration_ms": 375431,
       "name": "Before Everything",
       "url": "https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "It Is Well",
-        "url": "https://open.spotify.com/album/6hJ2QxpWc8eMbwwOgfFkpY"
-      },
-      "artists": [
-        {
-          "name": "Senior Oat",
-          "url": "https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw"
-        },
-        {
-          "name": "Oliphant Gold",
-          "url": "https://open.spotify.com/artist/1UeEFhpijQMngJrzoPiPXV"
-        },
-        {
-          "name": "Romeo ThaGreatWhite",
-          "url": "https://open.spotify.com/artist/3ZCdk8KQtyV9ZbB6okOx0Q"
-        }
-      ],
-      "duration_ms": 430301,
-      "name": "It Is Well",
-      "url": "https://open.spotify.com/track/4wPGakZ5g4ZjReeTjbo6SA"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Emulate",
-        "url": "https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js"
-      },
-      "artists": [
-        {
-          "name": "Jason Scoble",
-          "url": "https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg"
-        }
-      ],
-      "duration_ms": 469614,
-      "name": "Emulate - Original Mix",
-      "url": "https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "Little Me",
         "url": "https://open.spotify.com/album/6GbR420ApY1NvLE1PdafQn"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 437415,
       "name": "Little Me - Extended Mix",
       "url": "https://open.spotify.com/track/04Xamzbh9Mv4yd0nqkahbU"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Emulate",
+        "url": "https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js"
+      },
+      "artists": [
+        {
+          "name": "Jason Scoble",
+          "url": "https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg"
+        }
+      ],
+      "duration_ms": 469614,
+      "name": "Emulate - Original Mix",
+      "url": "https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk"
     },
     {
       "added_at": "2024-01-25 23:00:00",

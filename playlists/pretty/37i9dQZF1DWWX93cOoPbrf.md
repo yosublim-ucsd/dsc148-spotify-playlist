@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 ### [Corridos 2024](https://open.spotify.com/playlist/37i9dQZF1DWWX93cOoPbrf)
 
-> Lo más fresco de la cosecha 2023\. Los Chavalitos en portada.
+> Lo más fresco de la cosecha 2024\. Los Chavalitos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,075 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 803,205 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [El Chavo Felix](https://open.spotify.com/track/32n9g4H0H85AzOeiMAbSjE) | [Kirri Enigma](https://open.spotify.com/artist/36nV3psZJft6vV1G7YEz9X) | [El Chavo Felix](https://open.spotify.com/album/6RQfFsFKkWX0X5Vrz9i6XA) | 2:47 |
 | 75 | [25 De Diciembre](https://open.spotify.com/track/6E2pxdNAp9Z3x8vJYqkUMb) | [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Patria Chica](https://open.spotify.com/artist/50Zgf95i1BEuFsbdVhoC8p) | [25 De Diciembre](https://open.spotify.com/album/3yxcIcJLYb5m6yBdYQVbPk) | 2:37 |
 
-Snapshot ID: `MCw2NWY3N2ZhNTQ2N2ZmMzAwYTI0N2Y5YTM5MTdiMTMzMGMyM2FjMjg1`
+Snapshot ID: `MCw5MGNjOTYwMDAzOGNkN2ZiYmE1ZmRjNGE4NTE5NGE1OTI3MWIxYWJk`

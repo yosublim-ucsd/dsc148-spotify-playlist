@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 240942,
+  "num_followers": 240950,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzI2YTkzNTQ4ZmVkZmM1MjAzMDAyNDllZGM5MzhiOWRiNmJmODU3",
+  "snapshot_id": "MCw4ZTQ1MWZmZTNlOTc5NDU2NjRmNWMxNjJjNmU1YTYzMTJjZjg3OGZj",
   "tracks": [
     {
       "added_at": "2024-01-25 23:01:00",
@@ -243,6 +243,26 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 223480,
+      "name": "No One Else (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/1lYqI9WKBPsL6Hf93yT9bB"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
         "name": "Be My Summer",
         "url": "https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C"
       },
@@ -311,26 +331,6 @@
       "duration_ms": 195000,
       "name": "Moment Of Your Life",
       "url": "https://open.spotify.com/track/6ffrYPrHM70FScnrtHIcPh"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 223480,
-      "name": "No One Else (feat. Fridayy)",
-      "url": "https://open.spotify.com/track/1lYqI9WKBPsL6Hf93yT9bB"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
+        "name": "Heartbreak & Other Stories",
+        "url": "https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 164706,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
         "name": "Good People",
         "url": "https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3"
       },
@@ -443,18 +459,18 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "Heartbreak & Other Stories",
-        "url": "https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU"
+        "name": "Little Blue Moon",
+        "url": "https://open.spotify.com/album/3vWO9Cph9rejneWpuF79lq"
       },
       "artists": [
         {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
         }
       ],
-      "duration_ms": 164706,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya"
+      "duration_ms": 168146,
+      "name": "Little Blue Moon",
+      "url": "https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -475,22 +491,6 @@
       "duration_ms": 166623,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "Little Blue Moon",
-        "url": "https://open.spotify.com/album/3vWO9Cph9rejneWpuF79lq"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 168146,
-      "name": "Little Blue Moon",
-      "url": "https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "Words of Affirmation",
-        "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
-      },
-      "artists": [
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        }
-      ],
-      "duration_ms": 186095,
-      "name": "Words of Affirmation",
-      "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "FIRST PLACE",
         "url": "https://open.spotify.com/album/2WqRCYXLCzsxMNLM5gYuAo"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 157800,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "Words of Affirmation",
+        "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "duration_ms": 186095,
+      "name": "Words of Affirmation",
+      "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "We're through",
-        "url": "https://open.spotify.com/album/4wPDZWxj7CB4xUBLQ7hIJn"
-      },
-      "artists": [
-        {
-          "name": "Kyara Shereen",
-          "url": "https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q"
-        },
-        {
-          "name": "This is Lema",
-          "url": "https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "We're Through",
-      "url": "https://open.spotify.com/track/0rQKB1uvWhq4CAVNQxjPuj"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "speed up",
         "url": "https://open.spotify.com/album/6GWBNmNUtFbMFZNaOUjGVG"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 149989,
       "name": "speed up",
       "url": "https://open.spotify.com/track/4jz3KUDAYLnhOjN0GsH005"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "We're through",
+        "url": "https://open.spotify.com/album/4wPDZWxj7CB4xUBLQ7hIJn"
+      },
+      "artists": [
+        {
+          "name": "Kyara Shereen",
+          "url": "https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q"
+        },
+        {
+          "name": "This is Lema",
+          "url": "https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "We're Through",
+      "url": "https://open.spotify.com/track/0rQKB1uvWhq4CAVNQxjPuj"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "Zwanger in De Club",
-        "url": "https://open.spotify.com/album/73kbFX65iAHPx1OPXvo4sJ"
-      },
-      "artists": [
-        {
-          "name": "KIMONO",
-          "url": "https://open.spotify.com/artist/1nSGi0gYeO1v0gWXRaGk1F"
-        }
-      ],
-      "duration_ms": 232747,
-      "name": "Zwanger in De Club",
-      "url": "https://open.spotify.com/track/1cGTc7bB6ZXCREKvIQE2gg"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "Private",
         "url": "https://open.spotify.com/album/6obunuhuVYQh7LBZgXoIOR"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 158901,
       "name": "Private",
       "url": "https://open.spotify.com/track/42aNId1lKXtXYhs3tw9qlE"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "Zwanger in De Club",
+        "url": "https://open.spotify.com/album/73kbFX65iAHPx1OPXvo4sJ"
+      },
+      "artists": [
+        {
+          "name": "KIMONO",
+          "url": "https://open.spotify.com/artist/1nSGi0gYeO1v0gWXRaGk1F"
+        }
+      ],
+      "duration_ms": 232747,
+      "name": "Zwanger in De Club",
+      "url": "https://open.spotify.com/track/1cGTc7bB6ZXCREKvIQE2gg"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "Say That",
-        "url": "https://open.spotify.com/album/1PQe82S6RF7feFvSBAn3yh"
-      },
-      "artists": [
-        {
-          "name": "Ast\u00e8r Fekre",
-          "url": "https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "Say That",
-      "url": "https://open.spotify.com/track/3I2OTaL3DTKB6MK24nKYJy"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "City Girl",
         "url": "https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn"
       },
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "Baeside",
-        "url": "https://open.spotify.com/album/6b4rqnlyogdajmmTc8tpRZ"
+        "name": "Say That",
+        "url": "https://open.spotify.com/album/1PQe82S6RF7feFvSBAn3yh"
       },
       "artists": [
         {
-          "name": "LORNZO",
-          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
+          "name": "Ast\u00e8r Fekre",
+          "url": "https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK"
         }
       ],
-      "duration_ms": 104000,
-      "name": "Baeside",
-      "url": "https://open.spotify.com/track/61INco9IWV4MfDHnuLZQkt"
+      "duration_ms": 227142,
+      "name": "Say That",
+      "url": "https://open.spotify.com/track/3I2OTaL3DTKB6MK24nKYJy"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -1623,6 +1607,22 @@
       "duration_ms": 181422,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "Baeside",
+        "url": "https://open.spotify.com/album/6b4rqnlyogdajmmTc8tpRZ"
+      },
+      "artists": [
+        {
+          "name": "LORNZO",
+          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Baeside",
+      "url": "https://open.spotify.com/track/61INco9IWV4MfDHnuLZQkt"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
+        "name": "Fierce",
+        "url": "https://open.spotify.com/album/6tKTVT89iafMp3Btwod0pY"
+      },
+      "artists": [
+        {
+          "name": "Romy Dya",
+          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
+        }
+      ],
+      "duration_ms": 142615,
+      "name": "Fierce",
+      "url": "https://open.spotify.com/track/6mKsCz4g17ghwIfk2UhaKT"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
         "name": "Whatever I Guess?",
         "url": "https://open.spotify.com/album/4fkxCVh692oxovALJrl1iu"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 141176,
       "name": "Flexible",
       "url": "https://open.spotify.com/track/159K76vGQ2yVz9RSjtRagM"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "Fierce",
-        "url": "https://open.spotify.com/album/6tKTVT89iafMp3Btwod0pY"
-      },
-      "artists": [
-        {
-          "name": "Romy Dya",
-          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
-        }
-      ],
-      "duration_ms": 142615,
-      "name": "Fierce",
-      "url": "https://open.spotify.com/track/6mKsCz4g17ghwIfk2UhaKT"
     },
     {
       "added_at": "2024-01-25 23:01:00",

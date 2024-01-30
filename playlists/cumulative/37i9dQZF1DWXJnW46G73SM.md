@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف : تامر حسني، زاب ثروت
 
-785 songs - 1 day 20 hr 23 min
+786 songs - 1 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Amar 14](https://open.spotify.com/track/2O36wGSupi2wumi360NBxz) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Amar 14](https://open.spotify.com/album/2Wj3ovxVaSyHaBD2yWca1Y) | 3:03 | 2022-01-10 | 2022-03-18 |
 | [Amira](https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Amira](https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS) | 4:29 | 2022-08-25 | 2022-11-18 |
 | [Amleen Gamdeen](https://open.spotify.com/track/5riqOQoEZ5Z0KwrNNKdhPQ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Amleen Gamdeen](https://open.spotify.com/album/0wThwaKwsCl1LerBs9ltpt) | 1:59 | 2022-05-01 | 2022-08-10 |
-| [Ammal Tqoul Ana W Ana \(Ana El Hadota\)](https://open.spotify.com/track/7CSHoZLRbZNdWXgDfjNTF1) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Ammal Tqoul Ana W Ana \(Ana El Hadota\)](https://open.spotify.com/album/0IP0IYOCbbIeelfyFfBRWl) | 3:22 | 2023-12-18 |  |
+| [Ammal Tqoul Ana W Ana \(Ana El Hadota\)](https://open.spotify.com/track/7CSHoZLRbZNdWXgDfjNTF1) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Ammal Tqoul Ana W Ana \(Ana El Hadota\)](https://open.spotify.com/album/0IP0IYOCbbIeelfyFfBRWl) | 3:22 | 2023-12-18 | 2024-01-30 |
 | [Amoot Ana](https://open.spotify.com/track/0y3Rbo2bkvCMinQkjdaG0O) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Amoot Ana](https://open.spotify.com/album/2I0r0p4ri7aCkei8SgeEwQ) | 2:55 | 2022-11-03 | 2023-01-20 |
 | [An El Awan](https://open.spotify.com/track/1iUN70RBPfcqbT1PbohVuS) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [An El Awan](https://open.spotify.com/album/7ILydBC9TthOU5Y42EhPZk) | 3:38 | 2021-12-23 | 2021-12-30 |
 | [Ana Be Touly](https://open.spotify.com/track/3vnaFVNsC059Iiu5QDZ6Ms) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE) | [Ana Be Touly](https://open.spotify.com/album/2snYyolbPLnvsU2VNHyA3F) | 3:44 | 2023-03-07 | 2023-05-06 |
@@ -121,7 +121,7 @@
 | [Betseeri El Gadal](https://open.spotify.com/track/6x2JlAZVoq7ELXSiRfEIAn) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Betseeri El Gadal](https://open.spotify.com/album/69MCpaAU3I4bki2lxwDXqZ) | 2:46 | 2023-02-02 | 2023-03-11 |
 | [Bkam](https://open.spotify.com/track/00UnHWPTVmkhRj6rW1ZlFH) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo Ch.1](https://open.spotify.com/album/1W1DA6VBq40gfW93VZQWIy) | 1:53 | 2023-12-21 | 2023-12-31 |
 | [Bkam](https://open.spotify.com/track/4OgtLrSm7HbhwH9EVGCz4O) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/7imparG5dbIP5Nt0sgb9ol) | 1:53 | 2023-12-29 | 2024-01-06 |
-| [Bkam](https://open.spotify.com/track/6NxEW5BYo3SKFW6kxO9rBq) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa) | 1:53 | 2024-01-05 |  |
+| [Bkam](https://open.spotify.com/track/6NxEW5BYo3SKFW6kxO9rBq) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa) | 1:53 | 2024-01-05 | 2024-01-30 |
 | [Bomba](https://open.spotify.com/track/1mslncEUjBYoS5NbEUJiJh) | [Mostafa Shawky](https://open.spotify.com/artist/69HsaYqqbiG8d3LxNdlvM7) | [Bomba](https://open.spotify.com/album/71TukCJEhT0j8RKweeZpPD) | 3:10 | 2023-07-12 | 2023-08-09 |
 | [Bumble](https://open.spotify.com/track/6SY8dp9yl9YWdh8rErTsEW) | [fayrouz Karawya](https://open.spotify.com/artist/5Td9LvCizoI69AVWIoYd3O) | [Bumble](https://open.spotify.com/album/0TW5DtLhLZXYyngRsSqSRW) | 3:10 | 2023-05-04 | 2023-06-15 |
 | [Byehzi](https://open.spotify.com/track/0TvCDE5xR4HVv7rcEiLU8R) | [Mohamed Rashad](https://open.spotify.com/artist/0D3GrTX8gewB7hlKDPCInu) | [Byehzi](https://open.spotify.com/album/3RxHFLVbHLJNuMN53fjRzp) | 2:54 | 2023-06-22 | 2023-07-28 |
@@ -666,6 +666,7 @@
 | [رايق اوي \- اورنچ و احمد سعد](https://open.spotify.com/track/6BlG5SOrK1H57svuWMKMba) | [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [رايق اوي \- اورنچ و احمد سعد](https://open.spotify.com/album/5m3TBcO1hB3MjV1l9xLu0p) | 1:51 | 2023-06-26 | 2023-07-28 |
 | [رنة خلخال](https://open.spotify.com/track/4EqNT4pCDGVv2rC5Fd6NBO) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [رنة خلخال](https://open.spotify.com/album/0cze08hL6Iw0XbHwqVzwzR) | 3:31 | 2023-08-15 | 2023-09-29 |
 | [روق](https://open.spotify.com/track/60RmfptZLtkoxaCZuuTrVg) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [روق](https://open.spotify.com/album/6X1CS8FShrwAZDmUgrqTFV) | 3:01 | 2022-01-27 | 2022-04-29 |
+| [زيه تاني](https://open.spotify.com/track/0CX9eUkRNhVnG7qx3lEq8f) | [بوسي](https://open.spotify.com/artist/7a0K56MtFI8OmIuA9H7bl8) | [زيه تاني](https://open.spotify.com/album/52xxYtoGAUUnJFIxj6fGPV) | 3:25 | 2024-01-29 |  |
 | [سارح فى السما \( فى ثانيه كله كان معايا \)](https://open.spotify.com/track/2iudD0MDAvJvV4Po8pQvGV) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [سارح فى السما \( فى ثانيه كله كان معايا \)](https://open.spotify.com/album/0Lgx0uYxOsVbLMDKBeI71K) | 3:20 | 2023-04-20 | 2023-05-19 |
 | [ست البنات \- من فيلم حمص وحلاوة](https://open.spotify.com/track/7zdtpoc0FZHIhIGByD4bvP) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [ست البنات \(من فيلم حمص وحلاوة\)](https://open.spotify.com/album/2oxlsSucqhSky72BZ9Iff2) | 3:11 | 2024-01-25 |  |
 | [سحلاني](https://open.spotify.com/track/6OqfxVVUvkSesd88gTUCOt) | [Budgy](https://open.spotify.com/artist/73ShI69rb4GNM1sbHfuLDk) | [سحلاني](https://open.spotify.com/album/7yM6tuifG1Yo3Px5Gq7hfe) | 3:01 | 2023-05-04 | 2023-06-16 |

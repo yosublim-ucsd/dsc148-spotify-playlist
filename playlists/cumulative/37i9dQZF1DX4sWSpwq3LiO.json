@@ -7205,6 +7205,24 @@
     },
     {
       "album": {
+        "name": "Eridani",
+        "url": "https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV"
+      },
+      "artists": [
+        {
+          "name": "Flori Vivea",
+          "url": "https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Eridani",
+      "url": "https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0"
+    },
+    {
+      "album": {
         "name": "erinna",
         "url": "https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X"
       },

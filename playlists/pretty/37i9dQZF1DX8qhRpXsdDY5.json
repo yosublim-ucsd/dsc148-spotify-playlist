@@ -1,12 +1,12 @@
 {
   "description": "Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 209272,
+  "num_followers": 209230,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWMwZTQwZTIyMjI2ZTMzMzVjZmY4YjJlMWYyYjQwOTAzMWU4YmRh",
+  "snapshot_id": "MCwwNWVkNGQ5Njk2MjRjMDExMTRhYzRlNDA0MTcxNDI3NmFhOTkwNTQz",
   "tracks": [
     {
       "added_at": "2023-12-20 18:10:37",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
+        "name": "Navidades Luis Miguel",
+        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/77J6wE54qpAb2iGegfCVFu"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
         "name": "El Burrito de Bel\u00e9n",
         "url": "https://open.spotify.com/album/2Vg95eYQRh5Mg881N8Dk72"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 183360,
       "name": "5 Pa\u00b4 Las 12",
       "url": "https://open.spotify.com/track/5FmBAWbO9P6LL7BGzEhPGi"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
-        "name": "Navidades Luis Miguel",
-        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Blanca Navidad",
-      "url": "https://open.spotify.com/track/77J6wE54qpAb2iGegfCVFu"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
+        "name": "Navidades Luis Miguel",
+        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 125186,
+      "name": "Lleg\u00f3 La Navidad",
+      "url": "https://open.spotify.com/track/2P3RQbqU5xw1heCZSSVyL5"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
         "name": "Navidad",
         "url": "https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR"
       },
@@ -359,22 +375,6 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Navidades Luis Miguel",
-        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 125186,
-      "name": "Lleg\u00f3 La Navidad",
-      "url": "https://open.spotify.com/track/2P3RQbqU5xw1heCZSSVyL5"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
         "name": "Navidad con Pandora",
         "url": "https://open.spotify.com/album/6A6jIdmnSirfsVE8D8ONJV"
       },
@@ -387,22 +387,6 @@
       "duration_ms": 165306,
       "name": "Los Peces en el R\u00edo",
       "url": "https://open.spotify.com/track/2z90VCXCVOH5SbaoVSnkjf"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
-        "name": "Parranda All-Stars: Navidad",
-        "url": "https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 234880,
-      "name": "No Te Pongas Triste",
-      "url": "https://open.spotify.com/track/1imzVwkMqRDohhFbxuxv9j"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -427,18 +411,18 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Navidad Con Tatiana",
-        "url": "https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z"
+        "name": "Parranda All-Stars: Navidad",
+        "url": "https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI"
       },
       "artists": [
         {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         }
       ],
-      "duration_ms": 207152,
-      "name": "Feliz A\u00f1o Nuevo, Feliz Navidad",
-      "url": "https://open.spotify.com/track/5bEBGopE3OBIAo0lOMexAy"
+      "duration_ms": 234880,
+      "name": "No Te Pongas Triste",
+      "url": "https://open.spotify.com/track/1imzVwkMqRDohhFbxuxv9j"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -459,6 +443,22 @@
       "duration_ms": 217877,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/1NyPrCfqvms4t5yNGtu9Fy"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
+        "name": "Navidad Con Tatiana",
+        "url": "https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z"
+      },
+      "artists": [
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+        }
+      ],
+      "duration_ms": 207152,
+      "name": "Feliz A\u00f1o Nuevo, Feliz Navidad",
+      "url": "https://open.spotify.com/track/5bEBGopE3OBIAo0lOMexAy"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Christmas Through Your Eyes",
-        "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 234133,
-      "name": "Arbolito de Navidad",
-      "url": "https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
         "name": "Tarjeta De Navidad, VOL. II",
         "url": "https://open.spotify.com/album/6quAUDl5w1TszBZCC6Qj75"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 300506,
       "name": "El Cuerpo Me Pide",
       "url": "https://open.spotify.com/track/3SMJ6uEe3DbBZ4xsRtXg5R"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
+        "name": "Christmas Through Your Eyes",
+        "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 234133,
+      "name": "Arbolito de Navidad",
+      "url": "https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf"
     },
     {
       "added_at": "2023-12-20 18:10:37",

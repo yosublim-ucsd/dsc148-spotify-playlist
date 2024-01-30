@@ -1,12 +1,12 @@
 {
   "description": "\u00bfXD...? \u00bfTe refieres a Magaly Ch\u00e1vez?",
-  "num_followers": 23698,
+  "num_followers": 23783,
   "original_name": "XD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzQzOThiZDYyZTExOGM0NmRjYzMzZTRkMTdmM2NiOWJhM2EzMGY2",
+  "snapshot_id": "MCxlNjRjOGRjYmRkMjExNTA3NzdhMTM1ZWEzODE2NTNjYzllZWZlYWVi",
   "tracks": [
     {
       "added_at": "2024-01-19 06:00:00",
@@ -511,26 +511,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Los Collares",
-        "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 148793,
-      "name": "Los Collares",
-      "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Da\u00f1ado",
         "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 162041,
       "name": "SHADOW",
       "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Los Collares",
+        "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 148793,
+      "name": "Los Collares",
+      "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Alma Vac\u00eda",
-        "url": "https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk"
+        "name": "Que Se Yo",
+        "url": "https://open.spotify.com/album/29GPy18nuDwaIBrlwxZsGK"
       },
       "artists": [
         {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 237781,
-      "name": "Est\u00e1s en M\u00ed Pasado",
-      "url": "https://open.spotify.com/track/6ztAOF9gzTWhF4IHW0Sclj"
+      "duration_ms": 205403,
+      "name": "Que Se Yo",
+      "url": "https://open.spotify.com/track/3rKZuDrVxEcHLcHwIp2I2z"
     }
   ],
   "unique_name": "XD",

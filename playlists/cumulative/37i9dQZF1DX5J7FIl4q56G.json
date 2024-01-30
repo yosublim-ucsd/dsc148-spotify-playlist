@@ -26237,6 +26237,24 @@
     },
     {
       "album": {
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/0uvd0sRUmlxkkAC69d64tj"
+      },
+      "artists": [
+        {
+          "name": "Gore.",
+          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197806,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/5SbotHmwNvolKkFo4GqaFW"
+    },
+    {
+      "album": {
         "name": "Doomsday Party",
         "url": "https://open.spotify.com/album/4vjJPfQI2sQ0lmGMmsqwrj"
       },
@@ -26296,7 +26314,7 @@
     {
       "album": {
         "name": "Dormant",
-        "url": "https://open.spotify.com/album/2VokgY916Q2ZuWx7VcnFIS"
+        "url": "https://open.spotify.com/album/7HYBfqEXZfP4JYfJcrHckC"
       },
       "artists": [
         {
@@ -26307,6 +26325,24 @@
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 311026,
+      "name": "Dormant",
+      "url": "https://open.spotify.com/track/07EvyjBT7gdCmSj9JYdM7N"
+    },
+    {
+      "album": {
+        "name": "Dormant",
+        "url": "https://open.spotify.com/album/2VokgY916Q2ZuWx7VcnFIS"
+      },
+      "artists": [
+        {
+          "name": "Hiraes",
+          "url": "https://open.spotify.com/artist/1Djkm24RzECe7M6KuxKZzt"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-30",
       "duration_ms": 311026,
       "name": "Dormant",
       "url": "https://open.spotify.com/track/1wdueUYTepHz8dIE0hQ1uX"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Praise His holy name! Listen to the top Christian and Worship hits of 2024 with songs like Abandoned, Who Else and Glorious Day! Cover: <a href="https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm?si=amZK4beZTje3ttbfv\_B7\-Q">Benjamin William Hastings</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,088 likes - 119 songs - 11 hr 21 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,100 likes - 119 songs - 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

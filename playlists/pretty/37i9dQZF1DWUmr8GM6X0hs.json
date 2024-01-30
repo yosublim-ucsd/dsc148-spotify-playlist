@@ -1,29 +1,13 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 78348,
+  "num_followers": 78394,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGNhMjE3MTZjYjkyYTAyMDQwNWE0YmFlMTk0ODViN2NjMmQ4M2I1",
+  "snapshot_id": "MCxjNDUxYWIyMWJjMWQ3YzIzMTE0MzBkZDU3NDQzMWJkMjdiMTE1MDQw",
   "tracks": [
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
-        "name": "Te Mata",
-        "url": "https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 232306,
-      "name": "Te Mata",
-      "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
-    },
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 168400,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
+        "name": "Te Mata",
+        "url": "https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 232306,
+      "name": "Te Mata",
+      "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
     },
     {
       "added_at": "2023-12-20 18:45:06",
@@ -127,70 +127,6 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
-        "name": "Cuba: Bienvenido Granda",
-        "url": "https://open.spotify.com/album/3RxQinQEYdWBtAZkrMGfRt"
-      },
-      "artists": [
-        {
-          "name": "Bienvenido Granda",
-          "url": "https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4"
-        }
-      ],
-      "duration_ms": 170811,
-      "name": "En la orilla del mar (Bolero version)",
-      "url": "https://open.spotify.com/track/4ok44lUrhQgJEoyQq5Ot3N"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
-        "name": "30 Grandes De Infante",
-        "url": "https://open.spotify.com/album/0AJKbcwcTiVr6bSxZhxIyc"
-      },
-      "artists": [
-        {
-          "name": "Infante",
-          "url": "https://open.spotify.com/artist/0CUGdPMu03lV9TNf2wjunj"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/2PKXhSPdSw8W2KqZZneoy6"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "B\u00e9same Mucho",
-      "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
-        "name": "S\u00e9 Que Me Enga\u00f1aste un D\u00eda",
-        "url": "https://open.spotify.com/album/6QAmZA5XSfwanx2QdCyxT1"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
-        }
-      ],
-      "duration_ms": 201514,
-      "name": "Me Dices Que Te Vas",
-      "url": "https://open.spotify.com/track/3N2a9M6Dm9azoY1YmmSBmu"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -211,6 +147,54 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
+        "name": "30 Grandes De Infante",
+        "url": "https://open.spotify.com/album/0AJKbcwcTiVr6bSxZhxIyc"
+      },
+      "artists": [
+        {
+          "name": "Infante",
+          "url": "https://open.spotify.com/artist/0CUGdPMu03lV9TNf2wjunj"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/2PKXhSPdSw8W2KqZZneoy6"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
+        "name": "Cuba: Bienvenido Granda",
+        "url": "https://open.spotify.com/album/3RxQinQEYdWBtAZkrMGfRt"
+      },
+      "artists": [
+        {
+          "name": "Bienvenido Granda",
+          "url": "https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4"
+        }
+      ],
+      "duration_ms": 170811,
+      "name": "En la orilla del mar (Bolero version)",
+      "url": "https://open.spotify.com/track/4ok44lUrhQgJEoyQq5Ot3N"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "B\u00e9same Mucho",
+      "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
         "name": "Y Siguen Los \u00c9xitos",
         "url": "https://open.spotify.com/album/4yWg278fGlo1SZHEjgLfUI"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 153573,
       "name": "El Contragolpe",
       "url": "https://open.spotify.com/track/74f7hfeONxGZH6bVnXIYGW"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
+        "name": "S\u00e9 Que Me Enga\u00f1aste un D\u00eda",
+        "url": "https://open.spotify.com/album/6QAmZA5XSfwanx2QdCyxT1"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
+        }
+      ],
+      "duration_ms": 201514,
+      "name": "Me Dices Que Te Vas",
+      "url": "https://open.spotify.com/track/3N2a9M6Dm9azoY1YmmSBmu"
     },
     {
       "added_at": "2023-12-20 18:45:06",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
-        "name": "Disco de Oro",
-        "url": "https://open.spotify.com/album/0BReXvDDnar5dcAQIWvKLE"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
-        }
-      ],
-      "duration_ms": 240625,
-      "name": "Mozo Deme Otra Copa",
-      "url": "https://open.spotify.com/track/7MjUWVbAxPN64rf5e2MorO"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. II",
         "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 222453,
       "name": "Cien A\u00f1os",
       "url": "https://open.spotify.com/track/4SL8wbnGRP0nkIYyjeIKRU"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
+        "name": "Disco de Oro",
+        "url": "https://open.spotify.com/album/0BReXvDDnar5dcAQIWvKLE"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
+        }
+      ],
+      "duration_ms": 240625,
+      "name": "Mozo Deme Otra Copa",
+      "url": "https://open.spotify.com/track/7MjUWVbAxPN64rf5e2MorO"
     },
     {
       "added_at": "2023-12-20 18:45:06",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
-        "name": "La Voz Elegante del Bolero",
-        "url": "https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H"
-      },
-      "artists": [
-        {
-          "name": "Johnny Farf\u00e1n",
-          "url": "https://open.spotify.com/artist/0Bwzbgfx2UJ7tiHBs2LHwj"
-        }
-      ],
-      "duration_ms": 163400,
-      "name": "Se\u00f1or Abogado",
-      "url": "https://open.spotify.com/track/1UAtOGKYcUw9b3Kwq9GMPl"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
         "name": "Benny Mor\u00e9 M\u00e1gico",
         "url": "https://open.spotify.com/album/6eR6hzbY2nRAOEn04Ckixb"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 178626,
       "name": "Como Fu\u00e9",
       "url": "https://open.spotify.com/track/7yvBuMGvWigRvJgwtKEPLD"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
+        "name": "La Voz Elegante del Bolero",
+        "url": "https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H"
+      },
+      "artists": [
+        {
+          "name": "Johnny Farf\u00e1n",
+          "url": "https://open.spotify.com/artist/0Bwzbgfx2UJ7tiHBs2LHwj"
+        }
+      ],
+      "duration_ms": 163400,
+      "name": "Se\u00f1or Abogado",
+      "url": "https://open.spotify.com/track/1UAtOGKYcUw9b3Kwq9GMPl"
     },
     {
       "added_at": "2023-12-20 18:45:06",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
-        "name": "Poker de Ases",
-        "url": "https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Avil\u00e9s",
-          "url": "https://open.spotify.com/artist/1IJ4cVs5Zjf2445S6ge2R1"
-        }
-      ],
-      "duration_ms": 180586,
-      "name": "Cabellitos de Mi Madre",
-      "url": "https://open.spotify.com/track/5CEIxkQc67VmkkR2pQljSj"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
         "name": "Doble Filo",
         "url": "https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 314773,
       "name": "Privilegio",
       "url": "https://open.spotify.com/track/3KhoUV7LX6qKjnXBXvMoct"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
+        "name": "Poker de Ases",
+        "url": "https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Avil\u00e9s",
+          "url": "https://open.spotify.com/artist/1IJ4cVs5Zjf2445S6ge2R1"
+        }
+      ],
+      "duration_ms": 180586,
+      "name": "Cabellitos de Mi Madre",
+      "url": "https://open.spotify.com/track/5CEIxkQc67VmkkR2pQljSj"
     },
     {
       "added_at": "2023-12-20 18:45:06",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
-        "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
-        "url": "https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk"
-      },
-      "artists": [
-        {
-          "name": "Daniel Aranda",
-          "url": "https://open.spotify.com/artist/4QCcLssqPwu4I7BJUECJPJ"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Solo Cenizas Quedaron",
-      "url": "https://open.spotify.com/track/5blYKQjsXDbGhENFKFBMXJ"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
         "name": "Un Bolero un Vals, Vol. 2",
         "url": "https://open.spotify.com/album/6QcqMrnNCOFagbX5Xn1Gg4"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 307401,
       "name": "Mi Viejo / Recordando a Mi Padre",
       "url": "https://open.spotify.com/track/5sK9OW4DCGyfO7uaIR9pJq"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
+        "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
+        "url": "https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk"
+      },
+      "artists": [
+        {
+          "name": "Daniel Aranda",
+          "url": "https://open.spotify.com/artist/4QCcLssqPwu4I7BJUECJPJ"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Solo Cenizas Quedaron",
+      "url": "https://open.spotify.com/track/5blYKQjsXDbGhENFKFBMXJ"
     },
     {
       "added_at": "2023-12-20 18:45:06",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
+        "name": "La Dama del Bolero",
+        "url": "https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF"
+      },
+      "artists": [
+        {
+          "name": "Gaby Zevallos",
+          "url": "https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo"
+        }
+      ],
+      "duration_ms": 190365,
+      "name": "Coraz\u00f3n Herido",
+      "url": "https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
         "name": "El mago y la publicidad",
         "url": "https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 140249,
       "name": "El mago y la publicidad",
       "url": "https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
-        "name": "La Dama del Bolero",
-        "url": "https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF"
-      },
-      "artists": [
-        {
-          "name": "Gaby Zevallos",
-          "url": "https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo"
-        }
-      ],
-      "duration_ms": 190365,
-      "name": "Coraz\u00f3n Herido",
-      "url": "https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq"
     },
     {
       "added_at": "2023-12-20 18:45:06",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
+        "name": "El Bolerista De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pirela",
+          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
+        }
+      ],
+      "duration_ms": 173373,
+      "name": "Ese Bolero Es M\u00edo",
+      "url": "https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
         "name": "Colecci\u00f3n Diamante",
         "url": "https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h"
       },
@@ -915,18 +931,18 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
-        "name": "El Bolerista De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
+        "name": "La Dama del Bolero",
+        "url": "https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF"
       },
       "artists": [
         {
-          "name": "Felipe Pirela",
-          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
+          "name": "Gaby Zevallos",
+          "url": "https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo"
         }
       ],
-      "duration_ms": 173373,
-      "name": "Ese Bolero Es M\u00edo",
-      "url": "https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa"
+      "duration_ms": 266196,
+      "name": "Ese Hombre",
+      "url": "https://open.spotify.com/track/6CsNX5wEhQwMlfyvK6e82q"
     },
     {
       "added_at": "2023-12-20 18:45:06",
@@ -959,22 +975,6 @@
       "duration_ms": 145426,
       "name": "Brujerias",
       "url": "https://open.spotify.com/track/3KMZevenugNMlqN1q5RyKR"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
-        "name": "La Dama del Bolero",
-        "url": "https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF"
-      },
-      "artists": [
-        {
-          "name": "Gaby Zevallos",
-          "url": "https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo"
-        }
-      ],
-      "duration_ms": 266196,
-      "name": "Ese Hombre",
-      "url": "https://open.spotify.com/track/6CsNX5wEhQwMlfyvK6e82q"
     },
     {
       "added_at": "2023-12-20 18:45:06",

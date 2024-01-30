@@ -1,12 +1,12 @@
 {
   "description": "layan je",
-  "num_followers": 103956,
+  "num_followers": 104085,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGU0MDNhZDVkMjI5MzgzMDk1NDc2YjZkMzFhMzM0NTYxYjdkNWQ1",
+  "snapshot_id": "MCxhNWZhNjE3NWI0Njk4MmFlMmI3YmNhM2U1MTI5NmZlYTI3N2ZlNDY1",
   "tracks": [
     {
       "added_at": "2024-01-25 16:06:15",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-01-25 16:06:15",
       "album": {
-        "name": "Bercinta Lewat Kata (OST Jatuh Cinta Seperti di Film-Film)",
-        "url": "https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd"
-      },
-      "artists": [
-        {
-          "name": "Donne Maula",
-          "url": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Bercinta Lewat Kata - OST Jatuh Cinta Seperti di Film-Film",
-      "url": "https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u"
-    },
-    {
-      "added_at": "2024-01-25 16:06:15",
-      "album": {
         "name": "Tak Dianggap",
         "url": "https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 179841,
       "name": "Tak Dianggap",
       "url": "https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe"
+    },
+    {
+      "added_at": "2024-01-25 16:06:15",
+      "album": {
+        "name": "Bercinta Lewat Kata (OST Jatuh Cinta Seperti di Film-Film)",
+        "url": "https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd"
+      },
+      "artists": [
+        {
+          "name": "Donne Maula",
+          "url": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Bercinta Lewat Kata - OST Jatuh Cinta Seperti di Film-Film",
+      "url": "https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u"
     },
     {
       "added_at": "2024-01-25 16:06:15",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-01-25 16:06:15",
       "album": {
-        "name": "Tertawan Hati",
-        "url": "https://open.spotify.com/album/4pHrGkGuL62BjpAwLxhoJo"
-      },
-      "artists": [
-        {
-          "name": "Awdella",
-          "url": "https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw"
-        }
-      ],
-      "duration_ms": 237863,
-      "name": "Tertawan Hati",
-      "url": "https://open.spotify.com/track/0DVCvSb8PhHchIP23JOP9q"
-    },
-    {
-      "added_at": "2024-01-25 16:06:15",
-      "album": {
         "name": "Trauma",
         "url": "https://open.spotify.com/album/6H3lJJCLJjrKAKfm7KaE3Z"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 218073,
       "name": "Trauma",
       "url": "https://open.spotify.com/track/6SITe0StjnWHjyNOVzyJTX"
+    },
+    {
+      "added_at": "2024-01-25 16:06:15",
+      "album": {
+        "name": "Tertawan Hati",
+        "url": "https://open.spotify.com/album/4pHrGkGuL62BjpAwLxhoJo"
+      },
+      "artists": [
+        {
+          "name": "Awdella",
+          "url": "https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw"
+        }
+      ],
+      "duration_ms": 237863,
+      "name": "Tertawan Hati",
+      "url": "https://open.spotify.com/track/0DVCvSb8PhHchIP23JOP9q"
     },
     {
       "added_at": "2024-01-25 16:06:15",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-01-25 16:06:15",
       "album": {
+        "name": "Pupus / Risalah Hati",
+        "url": "https://open.spotify.com/album/2Hjub1YpegaAmIf2TULKki"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 301824,
+      "name": "Risalah Hati",
+      "url": "https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9"
+    },
+    {
+      "added_at": "2024-01-25 16:06:15",
+      "album": {
         "name": "Semua Aku Dirayakan",
         "url": "https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 279618,
       "name": "Dawai (From \"Air Mata Di Ujung Sajadah\")",
       "url": "https://open.spotify.com/track/5KKqMjyldESKZbcfEs9QnY"
-    },
-    {
-      "added_at": "2024-01-25 16:06:15",
-      "album": {
-        "name": "Pupus / Risalah Hati",
-        "url": "https://open.spotify.com/album/2Hjub1YpegaAmIf2TULKki"
-      },
-      "artists": [
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
-        }
-      ],
-      "duration_ms": 301824,
-      "name": "Risalah Hati",
-      "url": "https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9"
     },
     {
       "added_at": "2024-01-25 16:06:15",

@@ -4,7 +4,7 @@
 
 > Relax and fall asleep to ASMR trigger sounds \(no talking\).
 
-134 songs - 8 hr 11 min
+135 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Brushing the Microphone ASMR](https://open.spotify.com/track/3CYq5eDRNgrq2nm5FG5I7x) | [ASMR Insomnia Aid & Sounds for Sleep](https://open.spotify.com/artist/0yN0qOhddGt45V7av1mNVO), [ASMR Sounds](https://open.spotify.com/artist/3k8lnyyV1B08YBjFNIFfIG) | [ASMR Looped Sounds for Relax, Sleep, Mind Cleansing and Calming](https://open.spotify.com/album/1o2iMD9Lt4dLWOlVWlupoJ) | 2:10 | 2021-11-12 |  |
 | [Bubble Popping While Covering Ears](https://open.spotify.com/track/0QL4p6EysgYAR9AcUdZP4y) | [ASMR LillyVinnily](https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ) | [1 Hour ASMR Triggers for Anxiety](https://open.spotify.com/album/1e9YWKypiLPR4BSjQjsHB3) | 1:48 | 2021-11-12 | 2023-09-09 |
 | [Bubbles](https://open.spotify.com/track/3HwwVWDPPqNKXtlzPi65my) | [Ljudith](https://open.spotify.com/artist/5DihhCZUInKqFLe3K00DLP) | [Bubbles](https://open.spotify.com/album/3Uan2R7PkeAlUldR7B4EGC) | 1:59 | 2022-10-07 | 2022-10-14 |
-| [Burning Your Ears \- ASMR Random Triggers](https://open.spotify.com/track/4nEmGLZQrJLwmqEwKrTFX7) | [Thiệu Rino](https://open.spotify.com/artist/6f2tNSxNSFty7kAaxhlFCf) | [F1](https://open.spotify.com/album/47kDfjVp3w2PwiGw7NhkXg) | 10:35 | 2022-02-25 |  |
+| [Burning Your Ears \- ASMR Random Triggers](https://open.spotify.com/track/4nEmGLZQrJLwmqEwKrTFX7) | [Thiệu Rino](https://open.spotify.com/artist/6f2tNSxNSFty7kAaxhlFCf) | [F1](https://open.spotify.com/album/47kDfjVp3w2PwiGw7NhkXg) | 10:35 | 2022-02-25 | 2024-01-30 |
 | [Butterbrain, Pt\. 1](https://open.spotify.com/track/30DcfbB1dyqHODAbgcAr1X) | [TheOneLilium ASMR](https://open.spotify.com/artist/7qOvhKuza5UPfivHA3yyQa) | [Butterbrain](https://open.spotify.com/album/3Mz5DE0IrA84wGqjSxxWhC) | 4:06 | 2021-11-12 | 2023-09-09 |
 | [Butterbrain, Pt\. 1](https://open.spotify.com/track/4dL4zZfRr5KuWR1UrCoH8T) | [TheOneLilium ASMR](https://open.spotify.com/artist/7qOvhKuza5UPfivHA3yyQa) | [Butterbrain](https://open.spotify.com/album/00yNdBE8ZLUJSqjYEwFZVt) | 4:06 | 2023-09-08 |  |
 | [Chess ASMR](https://open.spotify.com/track/66FzaOocADp4Yx4Nu9G0ax) | [ASMR Billy](https://open.spotify.com/artist/7zThNsQGpD1QW6XvXTlEAC) | [Relaxing ASMR Noises](https://open.spotify.com/album/1ahfASpNH14OETQXrl7uju) | 1:25 | 2022-07-14 | 2023-09-09 |
@@ -142,5 +142,6 @@
 | [Wiro ASMR](https://open.spotify.com/track/0gAyd9D0XsZT241m2k5Qs4) | [Ezequiel Calvo](https://open.spotify.com/artist/5WBRIgdYpUWKbQ1Hr4e07K) | [Disparador ASMR](https://open.spotify.com/album/4GJccfhFDa6BSuGVJmGIFa) | 2:00 | 2021-11-12 |  |
 | [Wooden Brush 1](https://open.spotify.com/track/0CP2PqqqxXZ04B63C7m6Gz) | [Moonlight Cottage ASMR](https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn) | [Cozy Hair Brushing \| ASMR](https://open.spotify.com/album/6TqRVUxmGMgrpGNUtMwV1z) | 6:19 | 2021-11-12 | 2023-09-09 |
 | [Wooden Brush 1](https://open.spotify.com/track/4yDH6sGPzeQBnGNSQUpcHZ) | [Moonlight Cottage ASMR](https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn) | [Cozy Hair Brushing \| ASMR](https://open.spotify.com/album/1etbX0P2iBS6Wf5Ey6igcf) | 6:19 | 2023-09-08 |  |
+| [Đốt Cháy Đôi Tai Của Bạn \- ASMR Random Triggers](https://open.spotify.com/track/6cm8JHAOCWlcx6jctM0NWU) | [Thiệu Rino](https://open.spotify.com/artist/6f2tNSxNSFty7kAaxhlFCf) | [24](https://open.spotify.com/album/5TEtxllWeaWoanaDQlTXSv) | 10:35 | 2023-09-08 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

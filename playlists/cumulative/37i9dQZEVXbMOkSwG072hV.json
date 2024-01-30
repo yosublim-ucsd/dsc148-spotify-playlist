@@ -11712,7 +11712,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 214973,
       "name": "Drama",
       "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
@@ -32748,7 +32748,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "real valor",
       "url": "https://open.spotify.com/track/78wYB2vQHXCGW5UwKlFlob"
@@ -38114,7 +38114,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 232258,
       "name": "Tenho Que Me Decidir",
       "url": "https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll"
@@ -40246,6 +40246,32 @@
       "duration_ms": 130254,
       "name": "Ultimamente Speed",
       "url": "https://open.spotify.com/track/5ghSPv2tPkGZN8DESSvKZl"
+    },
+    {
+      "album": {
+        "name": "ULTRA M\u00c9DIO DOS \u00cdNDIOS 2",
+        "url": "https://open.spotify.com/album/2HV7nanoXhaKjeVGG02fJI"
+      },
+      "artists": [
+        {
+          "name": "DJ Kennedy OBraboo",
+          "url": "https://open.spotify.com/artist/0We5nkC71G4o6OHkLfx9uh"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Danflin",
+          "url": "https://open.spotify.com/artist/5FAaE0nqQcRWZUOIObttHr"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "ULTRA M\u00c9DIO DOS \u00cdNDIOS 2",
+      "url": "https://open.spotify.com/track/6WQ0Goxfid0pSCAIsrEvav"
     },
     {
       "album": {

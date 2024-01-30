@@ -6140,7 +6140,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 191160,
       "name": "The Nutcracker, Op. 71, TH.14 / Act 2: No. 12b Coffee (Arabian Dance)",
       "url": "https://open.spotify.com/track/0AyNC0zlef2QbJ01Xfq8Wf"
@@ -6170,6 +6170,32 @@
       "duration_ms": 191160,
       "name": "The Nutcracker, Op. 71, TH.14 / Act 2: No. 12b Coffee (Arabian Dance)",
       "url": "https://open.spotify.com/track/0oMFY1g0fUdQ4dr1vXkBEi"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: The Nutcracker",
+        "url": "https://open.spotify.com/album/674mZFtvaO2AN2YnO3bQvr"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191160,
+      "name": "The Nutcracker, Op. 71, TH.14 / Act 2: No. 12b Coffee (Arabian Dance)",
+      "url": "https://open.spotify.com/track/7kIOMHUvbjjosQywMTre1N"
     },
     {
       "album": {
@@ -6454,10 +6480,48 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 177333,
       "name": "Turandot, SC 91, Act III: Nessun dorma!",
       "url": "https://open.spotify.com/track/74WjYdm3Lvbwnds4thYPUU"
+    },
+    {
+      "album": {
+        "name": "Ti Amo - Puccini's greatest love songs",
+        "url": "https://open.spotify.com/album/5hdNamogB3YdsFi2SnOnxb"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "John Alldis Choir",
+          "url": "https://open.spotify.com/artist/1c0LUqvKTiWVsdrIn4LTZz"
+        },
+        {
+          "name": "Wandsworth School Boys Choir",
+          "url": "https://open.spotify.com/artist/3Al8lu5X4j3QY40s4OIawp"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Zubin Mehta",
+          "url": "https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182933,
+      "name": "Turandot, SC 91, Act III: Nessun dorma!",
+      "url": "https://open.spotify.com/track/1nCyd4Wxa9ZSolNvnRsfQt"
     },
     {
       "album": {

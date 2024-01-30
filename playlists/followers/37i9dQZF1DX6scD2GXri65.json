@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 51125,
+  "2024-01-30": 51224,
   "date_first_scraped": "2022-12-10",
   "description": "Go hard or go home",
   "name": "Hardstyle Gym \ud83d\udcaa",
@@ -277,6 +277,32 @@
       "duration_ms": 219000,
       "name": "Burning Love",
       "url": "https://open.spotify.com/track/4mhuBO0VjqcJ3OSgc6Mv33"
+    },
+    {
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/24KSJMqOVqscu18lS9KB4o"
+      },
+      "artists": [
+        {
+          "name": "Influencerz",
+          "url": "https://open.spotify.com/artist/163A7vg111FgP21NQSD6dN"
+        },
+        {
+          "name": "NIKSTER",
+          "url": "https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai"
+        },
+        {
+          "name": "Dimmalou",
+          "url": "https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154400,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/1cV1UP1QRnCOZcAlRTPJxM"
     },
     {
       "album": {
@@ -933,7 +959,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 212322,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/4U7tLQ4g0JPqisxSAuNoFK"

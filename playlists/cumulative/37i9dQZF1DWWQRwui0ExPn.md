@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,511 songs - 10 day 6 hr 47 min
+6,512 songs - 10 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [000](https://open.spotify.com/track/6DS76JPaRKd9hoTowobY0b) | [Bokki](https://open.spotify.com/artist/1gmAvUNIqrPSGklxtoj514) | [000](https://open.spotify.com/album/6EgfTioQxOF6Jh927XLpFL) | 1:41 | 2021-01-21 | 2022-01-14 |
 | [003](https://open.spotify.com/track/007li59Nxy2wRsYSCagDeC) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z), [Bill adlib](https://open.spotify.com/artist/2vtcShcGkXS1SZeLwEOqKz) | [re:ups](https://open.spotify.com/album/47k3DYKD4Dsme1rgj56f3Y) | 2:19 | 2019-06-22 | 2020-01-22 |
 | [1\. Dreams](https://open.spotify.com/track/1jBmcmfSFM2esUa38vyGig) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [Dreams](https://open.spotify.com/album/0xQvlEgN03z6yBo3MzLCzz) | 1:36 | 2022-06-24 | 2022-10-28 |
-| [10 o’clock](https://open.spotify.com/track/7m9KPvnsF4U811ITJu3iF1) | [U\-kata](https://open.spotify.com/artist/2K78Mcf0SeQlIy2QCtjqcn) | [10 o’clock](https://open.spotify.com/album/5hxLsuFCN1UBmqjhOrjgef) | 2:15 | 2024-01-26 |  |
+| [10 o’clock](https://open.spotify.com/track/7m9KPvnsF4U811ITJu3iF1) | [U\-kata](https://open.spotify.com/artist/2K78Mcf0SeQlIy2QCtjqcn) | [10 o’clock](https://open.spotify.com/album/5hxLsuFCN1UBmqjhOrjgef) | 2:15 | 2024-01-26 | 2024-01-30 |
 | [11 coffee](https://open.spotify.com/track/6HWAAOQKVg4szheqxEqa5P) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [11 coffee](https://open.spotify.com/album/5V4R5mnLrPbkAUrnW3yJoc) | 1:56 | 2023-08-25 | 2023-09-16 |
 | [11pm in london](https://open.spotify.com/track/5nixFnWQFcGgjk23BNO47v) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [11pm in london](https://open.spotify.com/album/4MXeEPY7027SmSHhpSmXMY) | 2:28 | 2021-12-17 | 2022-06-24 |
 | [143](https://open.spotify.com/track/0ofSbJuaDQRThgOdsRAndd) | [Gidde](https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l) | [143](https://open.spotify.com/album/6TI8St2osvFTUFyL22UK5T) | 1:57 | 2022-08-05 | 2022-12-09 |
@@ -2295,6 +2295,7 @@
 | [grace](https://open.spotify.com/track/5qslhLjrw6sPEFamwdsWtu) | [LASYA](https://open.spotify.com/artist/0b5h0PUkdiBs0mzhyaB1pQ), [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt) | [grace](https://open.spotify.com/album/2qltmvhQV1oCOmgDGLB8Up) | 2:30 | 2022-03-19 | 2022-07-29 |
 | [gradient](https://open.spotify.com/track/7wUTyuyNTzkUlucrA7fSEF) | [flowtide](https://open.spotify.com/artist/1krCmhhTo8H7k8YxKoKpbv) | [gradient](https://open.spotify.com/album/449jYhiXW9VxrRF4VgG4AU) | 1:38 | 2022-02-14 | 2022-09-09 |
 | [gradual](https://open.spotify.com/track/2BsIIaj2hJ7rw8yFWMiL0A) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [gradual](https://open.spotify.com/album/22KxorNZHmgpoS6XOBgme2) | 2:37 | 2024-01-19 |  |
+| [graining](https://open.spotify.com/track/4AkNFW2EVDK3k4nmr7kdhA) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07) | [graining](https://open.spotify.com/album/7BNnuGbXLHHdM9CEw6vCqJ) | 2:12 | 2024-01-26 |  |
 | [grainy days](https://open.spotify.com/track/1J7rXzv3sc4TzIoyduAfZX) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [grainy days](https://open.spotify.com/album/4yluxYpGtpR4M2gPzxYo15) | 2:24 | 2022-07-29 | 2022-11-11 |
 | [granadilla](https://open.spotify.com/track/2PIPmnGTu2wPBJFnBxej2Z) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Fruitful](https://open.spotify.com/album/5JhEHT0JaRUgVvA3C8dbyd) | 2:32 | 2023-10-20 | 2023-11-11 |
 | [Grand Master](https://open.spotify.com/track/1vDIIfv8qU7xPmK44oAdn7) | [Spiral Groove](https://open.spotify.com/artist/1gWC6rCLFzEeh7k62E1Ah0) | [Grand Master](https://open.spotify.com/album/2pjhEAX1kHJZ0W73jMTG6x) | 2:10 | 2024-01-26 |  |

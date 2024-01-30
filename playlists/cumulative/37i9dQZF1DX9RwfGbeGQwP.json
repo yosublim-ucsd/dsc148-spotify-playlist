@@ -10601,6 +10601,24 @@
     },
     {
       "album": {
+        "name": "immanent",
+        "url": "https://open.spotify.com/album/60Rh4kHbkGV8YojGWysb5v"
+      },
+      "artists": [
+        {
+          "name": "love_eight",
+          "url": "https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142485,
+      "name": "immanent",
+      "url": "https://open.spotify.com/track/1N1TBYrQ2VGKzQ1JyTMXSq"
+    },
+    {
+      "album": {
         "name": "Imperfections",
         "url": "https://open.spotify.com/album/6JNuMqF0exqLWCleqcKL7c"
       },
@@ -15598,7 +15616,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 132000,
       "name": "new era",
       "url": "https://open.spotify.com/track/2OEy7mdr3nqCLXLXz5KX02"

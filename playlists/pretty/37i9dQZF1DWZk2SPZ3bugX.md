@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 
 > 🍾
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,980 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,979 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 | 27 | [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 |
 | 28 | [Barcelona \(feat\. Samm Henshaw\)](https://open.spotify.com/track/04hxf6171aKFM67gNkOfKt) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Barcelona \(feat\. Samm Henshaw\)](https://open.spotify.com/album/0ey2p9BD1wTRBICOSewhnJ) | 3:20 |
 | 29 | [She Is Coming \- Jean Tonique Remix](https://open.spotify.com/track/4qYqjNyEIWX3lSoUVZgCY0) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [She Is Coming \(Jean Tonique Remix\)](https://open.spotify.com/album/4ffi6qFZOWFltGjdOyTPJP) | 3:37 |
-| 30 | [This Girl \- Kungs Vs\. Cookin' On 3 Burners](https://open.spotify.com/track/4qLAdBMTzixqAAexCs0TrL) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [大掃除がはかどる洋楽ヒッツ](https://open.spotify.com/album/5wWvsNRs99bNW8USlLJW4r) | 3:15 |
+| 30 | [This Girl \(Kungs Vs\. Cookin' On 3 Burners\)](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Layers](https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB) | 3:15 |
 | 31 | [A Taste Of Possibility](https://open.spotify.com/track/09qAEZgB4KcFixRPilvca1) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [A Taste Of Possibility](https://open.spotify.com/album/4SiCcKUuHVHXJwRcPsb2Yf) | 3:46 |
 | 32 | [The Sun \- Yuksek Remix](https://open.spotify.com/track/1zaBd35OYaifEfAYFbJ2MP) | [lovetempo](https://open.spotify.com/artist/0OypB7arfOmIwUP9C5z2GY), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [The Sun \(Yuksek Remix\)](https://open.spotify.com/album/7HA3KBBhVLypwm1JtuGX2h) | 5:22 |
 | 33 | [Dunston \(Bellaire Remix\)](https://open.spotify.com/track/1un3tgix0qXdcAAT7VYiDx) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6), [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw) | [Dunston \(Bellaire Remix\)](https://open.spotify.com/album/6ZyTc9CIeuHsPSgg0ypxAI) | 3:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 | 59 | [Freedom](https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Freedom](https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox) | 3:25 |
 | 60 | [Fragments of Time \(feat\. Todd Edwards\)](https://open.spotify.com/track/0IedgQjjJ8Ad4B3UDQ5Lyn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:39 |
 
-Snapshot ID: `MCw5YmE0N2Q1ZTZlNDM5ZmQ2ZDVhYjU4Y2I2ZThjYTQ1ZDA4NzY5Y2E1`
+Snapshot ID: `MCwxNDdlNDlmOTEyZmYwNmZiMzQ1MTBjODk1NTY4MDc3OTdjNjZkZTRl`

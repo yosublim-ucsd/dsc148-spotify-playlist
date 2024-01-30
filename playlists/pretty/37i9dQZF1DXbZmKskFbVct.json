@@ -1,12 +1,12 @@
 {
   "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
-  "num_followers": 33516,
+  "num_followers": 33534,
   "original_name": "ASMR Sleep Whispers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWM3MWI2MGE1Y2ZlZTdkYjJmMWUzYWJjZjNjNjM5YTQ2ZWY5Yjhh",
+  "snapshot_id": "MCwyZjAzODVhYzExYThmODVmZTdmMDFjOTQ5NDRmN2ZkZjVmMDdlZGY4",
   "tracks": [
     {
       "added_at": "2023-09-08 12:24:34",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Whispers and Thrifty Tingles",
-        "url": "https://open.spotify.com/album/0We5bmEJsOLZoj4UGVUTcd"
-      },
-      "artists": [
-        {
-          "name": "Prim ASMR",
-          "url": "https://open.spotify.com/artist/6OhEbrAJdkKbJ8cjfNCi1X"
-        }
-      ],
-      "duration_ms": 251219,
-      "name": "Whispers and Thrifty Tingles Pt.1",
-      "url": "https://open.spotify.com/track/3Wbm2ioAtPkjMj3N46M5ez"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
         "name": "ASMR Sleep Relaxation Meditation",
         "url": "https://open.spotify.com/album/2umeKrYETsK1lJA7YBRYLL"
       },
@@ -75,18 +59,18 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Super sleepy attention, close positive whispers, inaudible whispers",
-        "url": "https://open.spotify.com/album/4IwFZL7tcaocPJlicCyNIH"
+        "name": "Whispers and Thrifty Tingles",
+        "url": "https://open.spotify.com/album/0We5bmEJsOLZoj4UGVUTcd"
       },
       "artists": [
         {
-          "name": "RoseASMR",
-          "url": "https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS"
+          "name": "Prim ASMR",
+          "url": "https://open.spotify.com/artist/6OhEbrAJdkKbJ8cjfNCi1X"
         }
       ],
-      "duration_ms": 279875,
-      "name": "Super sleepy attention, close positive whispers, inaudible whispers Pt.1",
-      "url": "https://open.spotify.com/track/0fU7os8IzBtcblVO0YeIsR"
+      "duration_ms": 251219,
+      "name": "Whispers and Thrifty Tingles Pt.1",
+      "url": "https://open.spotify.com/track/3Wbm2ioAtPkjMj3N46M5ez"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -103,6 +87,22 @@
       "duration_ms": 182682,
       "name": "Unintelligble Sleep Whisper Dee Kaa",
       "url": "https://open.spotify.com/track/7rAyhoQ18VOFt9DLgzM0n2"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
+        "name": "Super sleepy attention, close positive whispers, inaudible whispers",
+        "url": "https://open.spotify.com/album/4IwFZL7tcaocPJlicCyNIH"
+      },
+      "artists": [
+        {
+          "name": "RoseASMR",
+          "url": "https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS"
+        }
+      ],
+      "duration_ms": 279875,
+      "name": "Super sleepy attention, close positive whispers, inaudible whispers Pt.1",
+      "url": "https://open.spotify.com/track/0fU7os8IzBtcblVO0YeIsR"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Showering You In Compliments",
-        "url": "https://open.spotify.com/album/3JY9ZTIKDr9X71ENWcrwdh"
-      },
-      "artists": [
-        {
-          "name": "ASMR Darling",
-          "url": "https://open.spotify.com/artist/5Bu2D80nyECM0G6fFdsfK7"
-        }
-      ],
-      "duration_ms": 211128,
-      "name": "Showering You In Compliments Pt.2",
-      "url": "https://open.spotify.com/track/0kcQZkQc8JYh0Vcpke0dWL"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
         "name": "ASMR Whispers (Binaural)",
         "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 176039,
       "name": "Unintelligble Sleep Whisper Sayy Wayy",
       "url": "https://open.spotify.com/track/6chyCwZ2KhBUqjTUfw0ZHS"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
+        "name": "Showering You In Compliments",
+        "url": "https://open.spotify.com/album/3JY9ZTIKDr9X71ENWcrwdh"
+      },
+      "artists": [
+        {
+          "name": "ASMR Darling",
+          "url": "https://open.spotify.com/artist/5Bu2D80nyECM0G6fFdsfK7"
+        }
+      ],
+      "duration_ms": 211128,
+      "name": "Showering You In Compliments Pt.2",
+      "url": "https://open.spotify.com/track/0kcQZkQc8JYh0Vcpke0dWL"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Close Ear to Ear Whispered Countdown to Sleep",
-        "url": "https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk"
-      },
-      "artists": [
-        {
-          "name": "HeatheredEffect ASMR",
-          "url": "https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L"
-        }
-      ],
-      "duration_ms": 279222,
-      "name": "Close Ear to Ear Whispered Countdown to Sleep Pt.4",
-      "url": "https://open.spotify.com/track/4SizL2yMtF5wkXMuYh1edR"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
         "name": "July Tingly Studio Sounds Special",
         "url": "https://open.spotify.com/album/3jgCOz5dDHSVBCHRwwqizz"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 307488,
       "name": "Reassuring Whispers 2 Asmr",
       "url": "https://open.spotify.com/track/3Cid1Ne9qWeFJiU2Z6bhIx"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
+        "name": "Close Ear to Ear Whispered Countdown to Sleep",
+        "url": "https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk"
+      },
+      "artists": [
+        {
+          "name": "HeatheredEffect ASMR",
+          "url": "https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L"
+        }
+      ],
+      "duration_ms": 279222,
+      "name": "Close Ear to Ear Whispered Countdown to Sleep Pt.4",
+      "url": "https://open.spotify.com/track/4SizL2yMtF5wkXMuYh1edR"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Santorini Sunbath ASMR",
-        "url": "https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt"
-      },
-      "artists": [
-        {
-          "name": "Summer ASMR",
-          "url": "https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6"
-        }
-      ],
-      "duration_ms": 304949,
-      "name": "Into Dreams",
-      "url": "https://open.spotify.com/track/5x4vUEtSMG1DT6QEMT1ZQn"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
         "name": "Intense Relaxation",
         "url": "https://open.spotify.com/album/5d4TEWC6eJagsEFcOxLaa8"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 294500,
       "name": "Removing Negative Energy",
       "url": "https://open.spotify.com/track/5ZkeEqISDLs7RG4bPkDobc"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
+        "name": "Santorini Sunbath ASMR",
+        "url": "https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt"
+      },
+      "artists": [
+        {
+          "name": "Summer ASMR",
+          "url": "https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6"
+        }
+      ],
+      "duration_ms": 304949,
+      "name": "Into Dreams",
+      "url": "https://open.spotify.com/track/5x4vUEtSMG1DT6QEMT1ZQn"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Anticipatory Ear to Ear Whisepers",
-        "url": "https://open.spotify.com/album/5lqSEu356oV96g0VZXYFTL"
-      },
-      "artists": [
-        {
-          "name": "Slight Sounds ASMR",
-          "url": "https://open.spotify.com/artist/3T3Ygd1CAqQdgzphPcs6ts"
-        }
-      ],
-      "duration_ms": 322455,
-      "name": "Anticipatory Ear to Ear Whispers Pt.1",
-      "url": "https://open.spotify.com/track/1WKMPkedR3z44hL8QifjOT"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
         "name": "DEEP SLEEP in 45 Minutes",
         "url": "https://open.spotify.com/album/3lTWKjbjrHsEQ27NqB7h3u"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 298347,
       "name": "DEEP SLEEP in 45 Minutes Pt.3",
       "url": "https://open.spotify.com/track/0vDgu0Eyll8tdk1ai6J94q"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
+        "name": "Anticipatory Ear to Ear Whisepers",
+        "url": "https://open.spotify.com/album/5lqSEu356oV96g0VZXYFTL"
+      },
+      "artists": [
+        {
+          "name": "Slight Sounds ASMR",
+          "url": "https://open.spotify.com/artist/3T3Ygd1CAqQdgzphPcs6ts"
+        }
+      ],
+      "duration_ms": 322455,
+      "name": "Anticipatory Ear to Ear Whispers Pt.1",
+      "url": "https://open.spotify.com/track/1WKMPkedR3z44hL8QifjOT"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Relaxing You HEAD to TOE",
-        "url": "https://open.spotify.com/album/7rR9BrOUJew20POht76Dzg"
-      },
-      "artists": [
-        {
-          "name": "Alana ASMR",
-          "url": "https://open.spotify.com/artist/48DAnk1KeJX11nFUNH8CyM"
-        }
-      ],
-      "duration_ms": 245795,
-      "name": "Relaxing You HEAD to TOE Pt.5",
-      "url": "https://open.spotify.com/track/6Ult8KyCkQMVqhGWqxjZBy"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
         "name": "ASMR - The Invisible Man - Unintelligible/Inaudible Whispered Reading (WITHOUT ambient sounds)",
         "url": "https://open.spotify.com/album/22STdU6oFRzb7wDQAJqKZ3"
       },
@@ -535,22 +519,6 @@
       "duration_ms": 359356,
       "name": "The Invisible Man - Unintelligible Inaudible Whispered Reading, Pt. 6",
       "url": "https://open.spotify.com/track/2WYFQOEtY5Y61kGj9g5KfW"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
-        "name": "7 Terrific Triggers",
-        "url": "https://open.spotify.com/album/5hkatDJDbc75G83lu0nEX6"
-      },
-      "artists": [
-        {
-          "name": "TheOneLilium ASMR",
-          "url": "https://open.spotify.com/artist/7qOvhKuza5UPfivHA3yyQa"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "7 Terrific Triggers, Pt. 1",
-      "url": "https://open.spotify.com/track/1kmBYv7Hw8zH2CaxTvzzii"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -571,6 +539,38 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
+        "name": "Relaxing You HEAD to TOE",
+        "url": "https://open.spotify.com/album/7rR9BrOUJew20POht76Dzg"
+      },
+      "artists": [
+        {
+          "name": "Alana ASMR",
+          "url": "https://open.spotify.com/artist/48DAnk1KeJX11nFUNH8CyM"
+        }
+      ],
+      "duration_ms": 245795,
+      "name": "Relaxing You HEAD to TOE Pt.5",
+      "url": "https://open.spotify.com/track/6Ult8KyCkQMVqhGWqxjZBy"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
+        "name": "7 Terrific Triggers",
+        "url": "https://open.spotify.com/album/5hkatDJDbc75G83lu0nEX6"
+      },
+      "artists": [
+        {
+          "name": "TheOneLilium ASMR",
+          "url": "https://open.spotify.com/artist/7qOvhKuza5UPfivHA3yyQa"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "7 Terrific Triggers, Pt. 1",
+      "url": "https://open.spotify.com/track/1kmBYv7Hw8zH2CaxTvzzii"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
         "name": "ASMR Guided Visualisation for Sleep",
         "url": "https://open.spotify.com/album/2N9fYuYYRuK7M8tMVG73We"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Whispering Things Your Brain Needs To Hear",
-        "url": "https://open.spotify.com/album/2uxS4hwrZPnUlUpPkGix99"
-      },
-      "artists": [
-        {
-          "name": "ASMR LillyVinnily",
-          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
-        }
-      ],
-      "duration_ms": 909500,
-      "name": "Guided Meditation and Positive Affirmations, Pt. 1",
-      "url": "https://open.spotify.com/track/6qh2KnPtlLsd421MywfYXs"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
         "name": "Triggers I'm Wearing",
         "url": "https://open.spotify.com/album/3xNxeiXBijPz3Ew2I69LWQ"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 277763,
       "name": "Triggers I'm Wearing Pt.1",
       "url": "https://open.spotify.com/track/7jFNTsHEIckQPm6nhLlJ0z"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
+        "name": "Whispering Things Your Brain Needs To Hear",
+        "url": "https://open.spotify.com/album/2uxS4hwrZPnUlUpPkGix99"
+      },
+      "artists": [
+        {
+          "name": "ASMR LillyVinnily",
+          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
+        }
+      ],
+      "duration_ms": 909500,
+      "name": "Guided Meditation and Positive Affirmations, Pt. 1",
+      "url": "https://open.spotify.com/track/6qh2KnPtlLsd421MywfYXs"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "ASMR 8D Mic Scratching w/Spoolie and Slow Whispering",
-        "url": "https://open.spotify.com/album/7xwDBNS7i2d09hJUwOhrEP"
+        "name": "Cozy Low-Light",
+        "url": "https://open.spotify.com/album/4ycfXJlHSIT4JeosgjGcMb"
       },
       "artists": [
         {
-          "name": "ASMR Art of Sound",
-          "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
+          "name": "Goodnight Moon ASMR",
+          "url": "https://open.spotify.com/artist/2suw8cZRpUiapwhFP8tASj"
         }
       ],
-      "duration_ms": 206000,
-      "name": "8D Mic Scratching with Spoolie and Slow Whispering, Pt. 4",
-      "url": "https://open.spotify.com/track/57fRbdbk9bPW5DJV508GBL"
+      "duration_ms": 470619,
+      "name": "Cozy Low-Light Pt.4",
+      "url": "https://open.spotify.com/track/16hoz3j0hMPDMJYv659kPq"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Cozy Low-Light",
-        "url": "https://open.spotify.com/album/4ycfXJlHSIT4JeosgjGcMb"
+        "name": "ASMR 8D Mic Scratching w/Spoolie and Slow Whispering",
+        "url": "https://open.spotify.com/album/7xwDBNS7i2d09hJUwOhrEP"
       },
       "artists": [
         {
-          "name": "Goodnight Moon ASMR",
-          "url": "https://open.spotify.com/artist/2suw8cZRpUiapwhFP8tASj"
+          "name": "ASMR Art of Sound",
+          "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
         }
       ],
-      "duration_ms": 470619,
-      "name": "Cozy Low-Light Pt.4",
-      "url": "https://open.spotify.com/track/16hoz3j0hMPDMJYv659kPq"
+      "duration_ms": 206000,
+      "name": "8D Mic Scratching with Spoolie and Slow Whispering, Pt. 4",
+      "url": "https://open.spotify.com/track/57fRbdbk9bPW5DJV508GBL"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Sorting Fantasy & Medieval Coins | ASMR Cozy Basics",
-        "url": "https://open.spotify.com/album/7Amaypzgbs3yueIMb6AeYF"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Cottage ASMR",
-          "url": "https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn"
-        }
-      ],
-      "duration_ms": 303000,
-      "name": "Identifying the Different Fantasy Coins",
-      "url": "https://open.spotify.com/track/2hZ9Oix00VixG6xLnQBoeW"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
         "name": "Checking Up On You (Scratch, Tapping, Ramble)",
         "url": "https://open.spotify.com/album/1Do1eNmYnpBrXSbjXCI57Z"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 321000,
       "name": "Do You Have Plans?",
       "url": "https://open.spotify.com/track/1qlGwXQZKiyXOw67dElhoP"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
+        "name": "Sorting Fantasy & Medieval Coins | ASMR Cozy Basics",
+        "url": "https://open.spotify.com/album/7Amaypzgbs3yueIMb6AeYF"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Cottage ASMR",
+          "url": "https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn"
+        }
+      ],
+      "duration_ms": 303000,
+      "name": "Identifying the Different Fantasy Coins",
+      "url": "https://open.spotify.com/track/2hZ9Oix00VixG6xLnQBoeW"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "8D ASMR - Fluffy Mic & Slow Whispering Around Your Head",
-        "url": "https://open.spotify.com/album/0Gh6wdhrgzwGeTYsiz9qTY"
+        "name": "Sounds To Help You Sleep in 15 Minutes",
+        "url": "https://open.spotify.com/album/0W5E39u3695EgS8xXYtmb4"
       },
       "artists": [
         {
-          "name": "ASMR Art of Sound",
-          "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
+          "name": "fastASMR",
+          "url": "https://open.spotify.com/artist/56Il8oV0mbdnHbOimlgy6v"
         }
       ],
-      "duration_ms": 316000,
-      "name": "Fluffy Mic & Slow Whispering Around Your Head, Pt. 2",
-      "url": "https://open.spotify.com/track/4EAP4yIQlIwowyqTKKBLXv"
+      "duration_ms": 302088,
+      "name": "Making Your Eyes Heavy",
+      "url": "https://open.spotify.com/track/3ir7iDuuUDQ0aWb8DPyI91"
     },
     {
       "added_at": "2023-09-08 12:24:34",

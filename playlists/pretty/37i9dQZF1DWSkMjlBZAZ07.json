@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1946965,
+  "num_followers": 1946665,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWE5OTdlZmM0Mzk3YTViYzZkNjg3YTU4Y2U0ZmQxODU1N2ZmMWIy",
+  "snapshot_id": "MCw1NTZlNjEzMzMyYzczMjk3ZTUwZDMxNzRiMDJmMTYwNjM0ZjY4NjM5",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Men Amongst Mountains",
-        "url": "https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 274093,
-      "name": "Wish I Knew You",
-      "url": "https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/6gtu2oXhmDQN8TAsWimZbj"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 240586,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Men Amongst Mountains",
+        "url": "https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "duration_ms": 274093,
+      "name": "Wish I Knew You",
+      "url": "https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -383,6 +383,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Going In",
+        "url": "https://open.spotify.com/album/76LMmHE9JB7GDA0ihlRlpH"
+      },
+      "artists": [
+        {
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+        },
+        {
+          "name": "The Song Confessional",
+          "url": "https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E"
+        }
+      ],
+      "duration_ms": 161324,
+      "name": "Going In",
+      "url": "https://open.spotify.com/track/51Zo4yemKVPqpmRxOZfYiX"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Boys & Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 172800,
       "name": "WHERE WE ARE",
       "url": "https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Going In",
-        "url": "https://open.spotify.com/album/76LMmHE9JB7GDA0ihlRlpH"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        },
-        {
-          "name": "The Song Confessional",
-          "url": "https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E"
-        }
-      ],
-      "duration_ms": 161324,
-      "name": "Going In",
-      "url": "https://open.spotify.com/track/51Zo4yemKVPqpmRxOZfYiX"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -923,26 +923,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Ready or Not (feat. Sierra Ferrell)",
-        "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 192901,
-      "name": "Ready or Not (feat. Sierra Ferrell)",
-      "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Rolling Golden Holy",
         "url": "https://open.spotify.com/album/43mr98g3RoWlC3jyxAKf5I"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 196126,
       "name": "California",
       "url": "https://open.spotify.com/track/0YuFmCuwYxzytcLRKTn5Fg"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Ready or Not (feat. Sierra Ferrell)",
+        "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 192901,
+      "name": "Ready or Not (feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/4gVu2VoV5kV8g6ihNLWfFS"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 172446,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/5P8ldnOsScd9aMlQMKucb6"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Saratoga",
         "url": "https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 227105,
       "name": "Graveclothes",
       "url": "https://open.spotify.com/track/1UM7bluhwWTGfhvWWOshk7"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/4gVu2VoV5kV8g6ihNLWfFS"
-      },
-      "artists": [
-        {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
-        }
-      ],
-      "duration_ms": 172446,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/5P8ldnOsScd9aMlQMKucb6"
     },
     {
       "added_at": "2023-12-08 05:00:00",

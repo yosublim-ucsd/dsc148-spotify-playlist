@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 708827,
+  "2024-01-30": 708795,
   "date_first_scraped": "2021-12-21",
   "description": "This week's best new metal & hard rock tracks. Cover: Static-X",
   "name": "All New Metal",
@@ -64807,10 +64807,36 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 205742,
       "name": "Outcome",
       "url": "https://open.spotify.com/track/1T68xySFdNYYCjX9S0XtBa"
+    },
+    {
+      "album": {
+        "name": "The Affliction",
+        "url": "https://open.spotify.com/album/1Sggf1c9AVCvAEAGaC9v6K"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        },
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        },
+        {
+          "name": "Samuel Ericsson",
+          "url": "https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205742,
+      "name": "Outcome",
+      "url": "https://open.spotify.com/track/54Mdl7oXai0VZ3usuCxIPb"
     },
     {
       "album": {

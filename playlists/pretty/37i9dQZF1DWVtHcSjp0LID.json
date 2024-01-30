@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 66117,
+  "num_followers": 66135,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDhhNjVkZDVhYmE2NjM0NjJkMWRkOWIyNTZiNTZhNzFjN2RlYzc2",
+  "snapshot_id": "MCw3OGNkMjk0ZGM5YTVkZjQ5ZmI0OGFlNjMyYzEyNzA4YjhiNzIyOWE4",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -95,26 +95,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Opal (Four Tet Remix)",
-        "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 494256,
-      "name": "Opal - Four Tet Remix",
-      "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Powers of Ten",
         "url": "https://open.spotify.com/album/5zj0qH4lKPQOotmWkE3ECb"
       },
@@ -167,6 +147,26 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Opal (Four Tet Remix)",
+        "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 494256,
+      "name": "Opal - Four Tet Remix",
+      "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
       },
@@ -203,22 +203,6 @@
       "duration_ms": 377738,
       "name": "Atlas - Adriatique Remix",
       "url": "https://open.spotify.com/track/1Ou1g6tCGdwp2SFnNyfZXw"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Bicep",
-        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 216267,
-      "name": "Ayaya",
-      "url": "https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -291,6 +275,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Bicep",
+        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 216267,
+      "name": "Ayaya",
+      "url": "https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Blurred",
         "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
       },
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Syvsover",
+        "url": "https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 360118,
+      "name": "Ghostly",
+      "url": "https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Trinity",
         "url": "https://open.spotify.com/album/1EqeS2WcAaUwzVGsDGiJBN"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 443026,
       "name": "Trinity - Amelie Lens Remix",
       "url": "https://open.spotify.com/track/14K7vrt1x7axRIXvHP0e2r"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Syvsover",
-        "url": "https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 360118,
-      "name": "Ghostly",
-      "url": "https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Pacer",
+        "url": "https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 459081,
+      "name": "Pacer",
+      "url": "https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Perfect in a Way (Remixes)",
         "url": "https://open.spotify.com/album/17doTJCIOkuz5LzMRioJvA"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 383250,
       "name": "Perfect in a Way - Ben B\u00f6hmer Remix",
       "url": "https://open.spotify.com/track/0G57FO3IP8Q6TTLiAMRLuc"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Pacer",
-        "url": "https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 459081,
-      "name": "Pacer",
-      "url": "https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Drone Logic",
-        "url": "https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 342853,
-      "name": "Knowing We'll Be Here",
-      "url": "https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 272346,
       "name": "The Right Place (feat. Teira)",
       "url": "https://open.spotify.com/track/3BOoEOCwmEw0c7C9UXGkwH"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Drone Logic",
+        "url": "https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 342853,
+      "name": "Knowing We'll Be Here",
+      "url": "https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7"
     },
     {
       "added_at": "2023-06-09 18:05:35",

@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 89209,
+  "2024-01-30": 89286,
   "date_first_scraped": "2022-03-28",
   "description": "Walk the bridge between indie and folk. Cover: Abby Sage",
   "name": "Folk Arc",
@@ -537,7 +537,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 211067,
       "name": "Bad Taste",
       "url": "https://open.spotify.com/track/5SmTHQfqmBWbaak0mCyYi4"
@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 240124,
       "name": "Changes (feat. Laura Elliott)",
       "url": "https://open.spotify.com/track/6jnpmyEFhz9Y4ASLZ48rGJ"
@@ -1515,7 +1515,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 216964,
       "name": "Come June",
       "url": "https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a"
@@ -1991,6 +1991,24 @@
       "duration_ms": 287448,
       "name": "Dreamers change the world",
       "url": "https://open.spotify.com/track/1n9UwCcEyiqNfx7AtJbwBF"
+    },
+    {
+      "album": {
+        "name": "Blue Raspberry",
+        "url": "https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199045,
+      "name": "Drop Dead",
+      "url": "https://open.spotify.com/track/4WNetbhwSqOmlmEX6ym824"
     },
     {
       "album": {

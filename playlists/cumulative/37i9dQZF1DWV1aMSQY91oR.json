@@ -4021,6 +4021,24 @@
     },
     {
       "album": {
+        "name": "Big Foot",
+        "url": "https://open.spotify.com/album/3b80v2noU4EEZmCefjinoO"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262268,
+      "name": "Big Foot",
+      "url": "https://open.spotify.com/track/587Ks4sb6Wd2qRVS5i9fdW"
+    },
+    {
+      "album": {
         "name": "Big Heart",
         "url": "https://open.spotify.com/album/4XyoO1MBFGmcFyi1NQz7ON"
       },
@@ -22432,7 +22450,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 264347,
       "name": "Nicki Hendrix (feat. Future)",
       "url": "https://open.spotify.com/track/5XOVnisFK9XbICdyMMjrol"

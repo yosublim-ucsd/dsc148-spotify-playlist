@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: iri",
-  "num_followers": 107498,
+  "num_followers": 107536,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDlmNTAyOTk1ZDUzOTM4NTQxZTRmMDlhOTZiZGZmNzAyODVhYjYy",
+  "snapshot_id": "MCw3YTBiNjBmMTYzMWQ3ZGRjMWEyMTgwMzAxZmU2YzI1Nzk1NWQzM2Nj",
   "tracks": [
     {
       "added_at": "2024-01-25 15:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
-        "url": "https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 254138,
-      "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
-      "url": "https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "\u30a2\u30a4\u30b3\u30c8\u30d0",
         "url": "https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 242321,
       "name": "\u8cb4\u65b9\u306e\u5074\u306b\u3002",
       "url": "https://open.spotify.com/track/6TTAZeyRDN03BHlhQ9Lq6L"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
+        "url": "https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 254138,
+      "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
+      "url": "https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "\u604b\u3060\u3068\u306f",
-        "url": "https://open.spotify.com/album/0U5Ngt5P22CZPHNhhnH0Tb"
-      },
-      "artists": [
-        {
-          "name": "shimamo",
-          "url": "https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm"
-        }
-      ],
-      "duration_ms": 226677,
-      "name": "\u604b\u3060\u3068\u306f",
-      "url": "https://open.spotify.com/track/2jI3IN3kyMDlWONkR6G3lc"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/5ItabiqjFEYWwMFL1jBfve"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 207160,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "\u604b\u3060\u3068\u306f",
+        "url": "https://open.spotify.com/album/0U5Ngt5P22CZPHNhhnH0Tb"
+      },
+      "artists": [
+        {
+          "name": "shimamo",
+          "url": "https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm"
+        }
+      ],
+      "duration_ms": 226677,
+      "name": "\u604b\u3060\u3068\u306f",
+      "url": "https://open.spotify.com/track/2jI3IN3kyMDlWONkR6G3lc"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
+        "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
+        "url": "https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 299255,
+      "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
+      "url": "https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
         "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
         "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 236413,
       "name": "\u30d4\u30f3\u30af\u30d6\u30eb\u30fc",
       "url": "https://open.spotify.com/track/1VRwCezjpvjnCrab92b1dk"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
-        "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
-        "url": "https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 299255,
-      "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
-      "url": "https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "Moon",
-        "url": "https://open.spotify.com/album/751vSwVvqQCaz8biSgNGHK"
+        "name": "\u7070\u304b\u3076\u308a",
+        "url": "https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW"
       },
       "artists": [
         {
-          "name": "Perfume",
-          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
         }
       ],
-      "duration_ms": 181479,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/77WrUAbySLHjGwd5n9B7WN"
+      "duration_ms": 220714,
+      "name": "\u7070\u304b\u3076\u308a",
+      "url": "https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/751vSwVvqQCaz8biSgNGHK"
+      },
+      "artists": [
+        {
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+        }
+      ],
+      "duration_ms": 181479,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/77WrUAbySLHjGwd5n9B7WN"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
         "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
         "url": "https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h"
       },
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "\u7070\u304b\u3076\u308a",
-        "url": "https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW"
-      },
-      "artists": [
-        {
-          "name": "Toaka",
-          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
-        }
-      ],
-      "duration_ms": 220714,
-      "name": "\u7070\u304b\u3076\u308a",
-      "url": "https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "The Flower of Love",
         "url": "https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p"
       },
@@ -1363,6 +1363,22 @@
       "duration_ms": 199333,
       "name": "The Flame of Love",
       "url": "https://open.spotify.com/track/0uNmOW9ock1EUkbBzjTk0L"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "17\u3055\u3044\u306e\u3046\u305f\u3002",
+        "url": "https://open.spotify.com/album/4agwJEKwQwlZnWCIbgYggO"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "duration_ms": 309662,
+      "name": "17\u3055\u3044\u306e\u3046\u305f\u3002",
+      "url": "https://open.spotify.com/track/1Fwv9oA5Jje4sBE0rcXHiP"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "17\u3055\u3044\u306e\u3046\u305f\u3002",
-        "url": "https://open.spotify.com/album/4agwJEKwQwlZnWCIbgYggO"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 309662,
-      "name": "17\u3055\u3044\u306e\u3046\u305f\u3002",
-      "url": "https://open.spotify.com/track/1Fwv9oA5Jje4sBE0rcXHiP"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "\u597d\u304d\u306b\u3057\u306a\u3088",
         "url": "https://open.spotify.com/album/0himSAZSz3XxBPhX5JWs6p"
       },
@@ -1443,6 +1443,22 @@
       "duration_ms": 266693,
       "name": "\u597d\u304d\u306b\u3057\u306a\u3088",
       "url": "https://open.spotify.com/track/3Yyc0Ccj7lZ3VOgBFMlEQo"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 249273,
+      "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1463,22 +1479,6 @@
       "duration_ms": 318762,
       "name": "\u30ad\u30ea\u30a8\u30fb\u6190\u308c\u307f\u306e\u8b83\u6b4c",
       "url": "https://open.spotify.com/track/2lyFs3iMvfNi6bfHi3mJKj"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
-        "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
-        "url": "https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 249273,
-      "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
-      "url": "https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
+        "name": "ai no hana",
+        "url": "https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "duration_ms": 242792,
+      "name": "ai no hana",
+      "url": "https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
         "name": "\u4e0d\u6cd5\u4fb5\u5165",
         "url": "https://open.spotify.com/album/4W82k5xNeEGD7TldC0zgMp"
       },
@@ -1627,34 +1643,18 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "ai no hana",
-        "url": "https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p"
+        "name": "\u611b\u3092\u3042\u308a\u304c\u3068\u3046",
+        "url": "https://open.spotify.com/album/5eaaXphQ2C5rwgoOKTbOp1"
       },
       "artists": [
         {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+          "name": "MISIA",
+          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
         }
       ],
-      "duration_ms": 242792,
-      "name": "ai no hana",
-      "url": "https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
-        "name": "\u3059\u307f\u3063\u30b3\u30c7\u30a3\u30b9\u30b3",
-        "url": "https://open.spotify.com/album/2OIPi5b7P9RzXfP6EX6OVR"
-      },
-      "artists": [
-        {
-          "name": "Perfume",
-          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
-        }
-      ],
-      "duration_ms": 207970,
-      "name": "\u3059\u307f\u3063\u30b3\u30c7\u30a3\u30b9\u30b3",
-      "url": "https://open.spotify.com/track/0KPWMRTUbbq1kyn8tINBTY"
+      "duration_ms": 314633,
+      "name": "\u611b\u3092\u3042\u308a\u304c\u3068\u3046",
+      "url": "https://open.spotify.com/track/5oDEAsNWeomAjcplALgqdw"
     }
   ],
   "unique_name": "Women's Voice",

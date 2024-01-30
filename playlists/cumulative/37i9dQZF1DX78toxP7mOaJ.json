@@ -2174,10 +2174,28 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 206440,
       "name": "Big Air",
       "url": "https://open.spotify.com/track/33DjR40rZu7Nhr8oQQnl7o"
+    },
+    {
+      "album": {
+        "name": "Spiel",
+        "url": "https://open.spotify.com/album/38uN3ZQLCnEz7LhFq5Y2Qh"
+      },
+      "artists": [
+        {
+          "name": "Office Dog",
+          "url": "https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206440,
+      "name": "Big Air",
+      "url": "https://open.spotify.com/track/4CV3vmoI1mExWRTcGCsKTc"
     },
     {
       "album": {

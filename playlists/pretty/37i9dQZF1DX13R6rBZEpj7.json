@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 202091,
+  "num_followers": 202179,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWRjMjM1MmI5MTdmMDBhYzZiNjhiMmUzZjE3OTM5Nzg1NTY3NmVj",
+  "snapshot_id": "MCw4NjM3MDVjN2VhZTNmNDRkZjc0NTM1YTk2MzhhNDIxNGYwNTRhZGIx",
   "tracks": [
     {
       "added_at": "2024-01-26 00:00:00",
@@ -527,26 +527,22 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Pressure Drop",
-        "url": "https://open.spotify.com/album/1CxVudK7TbRFpUdPCPSZaB"
+        "name": "Surgery",
+        "url": "https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr"
       },
       "artists": [
         {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+          "name": "FooR",
+          "url": "https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr"
         },
         {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        },
-        {
-          "name": "DJ Q",
-          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
+          "name": "Ragga Twins",
+          "url": "https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq"
         }
       ],
-      "duration_ms": 188160,
-      "name": "Tune",
-      "url": "https://open.spotify.com/track/4FKxRe40M52eYZ3yI86FCy"
+      "duration_ms": 129625,
+      "name": "Surgery",
+      "url": "https://open.spotify.com/track/1cLCoQ6yp9RPNI8yI3NSjK"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -607,22 +603,26 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Surgery",
-        "url": "https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr"
+        "name": "Pressure Drop",
+        "url": "https://open.spotify.com/album/1CxVudK7TbRFpUdPCPSZaB"
       },
       "artists": [
         {
-          "name": "FooR",
-          "url": "https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr"
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
         },
         {
-          "name": "Ragga Twins",
-          "url": "https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq"
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        },
+        {
+          "name": "DJ Q",
+          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
         }
       ],
-      "duration_ms": 129625,
-      "name": "Surgery",
-      "url": "https://open.spotify.com/track/1cLCoQ6yp9RPNI8yI3NSjK"
+      "duration_ms": 188160,
+      "name": "Tune",
+      "url": "https://open.spotify.com/track/4FKxRe40M52eYZ3yI86FCy"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -719,6 +719,26 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
+        "name": "Party Right / Snake Charmer",
+        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+        }
+      ],
+      "duration_ms": 216715,
+      "name": "Party Right",
+      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
         "name": "Badman Riddim (feat. Sweetie Irie)",
         "url": "https://open.spotify.com/album/6oPO1krnnAWP9qhOgJb7WB"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 218899,
       "name": "Can't Escape",
       "url": "https://open.spotify.com/track/5limkDdrq5YnqDU1HundyJ"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
-        "name": "Party Right / Snake Charmer",
-        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "Logan_olm",
-          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
-        }
-      ],
-      "duration_ms": 216715,
-      "name": "Party Right",
-      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -819,6 +819,42 @@
       "duration_ms": 227189,
       "name": "Skanker",
       "url": "https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
+        "name": "Faith In Chaos",
+        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Acid",
+      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/4qYKUGewjnrJ8ahXM4Vw9g"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Aleya Mae",
+          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
+        }
+      ],
+      "duration_ms": 213743,
+      "name": "Let Go (with Aleya Mae)",
+      "url": "https://open.spotify.com/track/7gW131CT4bxZ7M3uQqUheT"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -879,42 +915,6 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Faith In Chaos",
-        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Acid",
-      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/4qYKUGewjnrJ8ahXM4Vw9g"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "Aleya Mae",
-          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
-        }
-      ],
-      "duration_ms": 213743,
-      "name": "Let Go (with Aleya Mae)",
-      "url": "https://open.spotify.com/track/7gW131CT4bxZ7M3uQqUheT"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
         "name": "One Ting",
         "url": "https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E"
       },
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
+        "name": "Want (ur body)",
+        "url": "https://open.spotify.com/album/7J9Cj4yEiCU7cFsuxvNuts"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "duration_ms": 274672,
+      "name": "Want (ur body)",
+      "url": "https://open.spotify.com/track/7h4ubaopYMigwEXZpTLi9s"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
         "name": "Gully",
         "url": "https://open.spotify.com/album/0lPpodKFrrKabX3wWFYxjt"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 210461,
       "name": "Gully",
       "url": "https://open.spotify.com/track/2NVMb5oEdeOakcDcpUtEri"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
-        "name": "Want (ur body)",
-        "url": "https://open.spotify.com/album/7J9Cj4yEiCU7cFsuxvNuts"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        }
-      ],
-      "duration_ms": 274672,
-      "name": "Want (ur body)",
-      "url": "https://open.spotify.com/track/7h4ubaopYMigwEXZpTLi9s"
     },
     {
       "added_at": "2024-01-26 00:00:00",

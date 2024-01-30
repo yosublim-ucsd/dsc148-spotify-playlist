@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 614256,
+  "2024-01-30": 614279,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Sweden.",
   "name": "Top 50 - Sweden",
@@ -1475,7 +1475,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 157546,
       "name": "Andas in andas ut",
       "url": "https://open.spotify.com/track/0gF8DDkQ4AZEEgPsWL95n6"
@@ -11047,7 +11047,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 154043,
       "name": "Go",
       "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
@@ -12327,7 +12327,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 174595,
       "name": "HEAVEN",
       "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
@@ -30151,7 +30151,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 130526,
       "name": "TSM",
       "url": "https://open.spotify.com/track/1qLHJiRgdNgJ3JB2cdM6sl"

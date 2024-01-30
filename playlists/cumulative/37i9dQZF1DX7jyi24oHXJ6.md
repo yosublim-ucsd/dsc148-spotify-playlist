@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the EXchange series\. \(환승연애 시리즈 사운드 트랙들을 즐겨보세요!\)
 
-35 songs - 1 hr 56 min
+36 songs - 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Last minute \- Instrumental](https://open.spotify.com/track/6sPhFieJhkmMJRUg9SYSa4) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [EXchange3, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/3IhnwWehcwHwLKfP2vgVYn) | 3:34 | 2024-01-26 |  |
 | [Love remnants](https://open.spotify.com/track/6Z8HhBie79IA6BEhwf7PwZ) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [EXchange3, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Yu6AvluH9IUEtpsn3g78K) | 4:01 | 2024-01-12 |  |
 | [Love remnants \- Instrumental](https://open.spotify.com/track/1d9JGDX84lUtWBmZAthyp2) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [EXchange3, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Yu6AvluH9IUEtpsn3g78K) | 4:01 | 2024-01-12 |  |
+| [Message from Choi Yuree](https://open.spotify.com/track/32oEsMgOZpKcQplQA73IW5) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [EXchange3 Audio Liner](https://open.spotify.com/album/5SBrbDH8wP6zdb0gFys0ZI) | 0:10 | 2024-01-29 |  |
 | [Message from Paul Blanco](https://open.spotify.com/track/6vDz4cJhqmAnAAY27a3I9s) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [EXchange3 Audio Liner](https://open.spotify.com/album/5SBrbDH8wP6zdb0gFys0ZI) | 0:10 | 2024-01-12 |  |
 | [My World, My First](https://open.spotify.com/track/5ZTJUc0BhK2pvrs72WT8nt) | [Jungtune](https://open.spotify.com/artist/4GzXJN1RrXRMB9XqIeZeiT) | [EXchange2, Pt\. 4 'My Heart Flutter, Again' \(Original Television Soundtrack\)](https://open.spotify.com/album/1KDWuCEliNwhGIZpzTWhrF) | 4:48 | 2024-01-12 |  |
 | [My World, My First \- Instrumental](https://open.spotify.com/track/6zPRDNWPNoGt5mkc2Z0VpQ) | [Jungtune](https://open.spotify.com/artist/4GzXJN1RrXRMB9XqIeZeiT) | [EXchange2, Pt\. 4 'My Heart Flutter, Again' \(Original Television Soundtrack\)](https://open.spotify.com/album/1KDWuCEliNwhGIZpzTWhrF) | 4:48 | 2024-01-12 |  |

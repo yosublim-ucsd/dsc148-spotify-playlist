@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Marie Awadis
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,978 likes - 84 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,965 likes - 84 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 83 | [Cello Sonata in E Minor, RV 40: III\. Largo](https://open.spotify.com/track/5fpzmkhBFmgsXMsGEFB8th) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Hanna Salzenstein](https://open.spotify.com/artist/6yKXn3m6oaQyDwGUWDDJft), [Justin Taylor](https://open.spotify.com/artist/5tkIvW05MneKOKtxgpQWo6) | [É il violoncello suonò](https://open.spotify.com/album/4rvqDDS54zKt2LIRegkCnE) | 3:02 |
 | 84 | [Beloved](https://open.spotify.com/track/1BN1CRtAASePB613q30ni6) | [Paul Colomb](https://open.spotify.com/artist/2sGla7iUXrL6bwkcN4h0o2), [Justine Metral](https://open.spotify.com/artist/2h33yfyktyyl99tup86VY8), [Frédéric Deville](https://open.spotify.com/artist/26vCIaJFpYWCu8r6YkwvKt), [Michèle Pierre](https://open.spotify.com/artist/0u5L4vVUyEljoYyBBd6EQ5), [Louis Rodde](https://open.spotify.com/artist/5OFyR6vslFqhDqoLo8opbc) | [Bleue Quintet](https://open.spotify.com/album/68YmXcMimGdlzMwNp73suD) | 3:38 |
 
-Snapshot ID: `MCw3NGE0NzkxZGM5M2UwNDQ1MjUyN2Q3MzlmNzUyNWZlODMzZTRjNzZh`
+Snapshot ID: `MCxiNWJiNzQ4YmU1MjJiNTFlMDgwOWIxMTQ0YjcxNTI3N2YwNDhjMjYx`

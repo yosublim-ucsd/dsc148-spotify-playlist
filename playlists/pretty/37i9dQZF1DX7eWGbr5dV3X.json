@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 8691,
+  "num_followers": 8688,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzQzYWJmZDg1MDMyYTlkMzdmY2MyNDIxNjk1OGU2NmE4NWVhMjc1",
+  "snapshot_id": "MCxjNmU5NGRhYzZiMDRmMTQ2MDYxMThlMzQyNjZkNmE2NzJkZGQ0YmU5",
   "tracks": [
     {
       "added_at": "2023-06-30 23:59:00",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 199070,
+      "name": "chance",
+      "url": "https://open.spotify.com/track/74jOmqVRM9Ha4xu8G15iKv"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "dusk",
         "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
       },
@@ -231,18 +247,18 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+        "name": "Tweety",
+        "url": "https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T"
       },
       "artists": [
         {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
         }
       ],
-      "duration_ms": 199070,
-      "name": "chance",
-      "url": "https://open.spotify.com/track/74jOmqVRM9Ha4xu8G15iKv"
+      "duration_ms": 232773,
+      "name": "Tweety",
+      "url": "https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -311,22 +327,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Tweety",
-        "url": "https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T"
-      },
-      "artists": [
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 232773,
-      "name": "Tweety",
-      "url": "https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/4tcu6pnwN5mTJJZVAE2Tlb"
       },
@@ -391,6 +391,38 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "good juju : vol. 1",
+        "url": "https://open.spotify.com/album/2JBGnfjeAuIK26Ysk3XlIS"
+      },
+      "artists": [
+        {
+          "name": "Jujubee",
+          "url": "https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U"
+        }
+      ],
+      "duration_ms": 181424,
+      "name": "Need Ya",
+      "url": "https://open.spotify.com/track/7DdiwiiHRuqRZizeq6s1NM"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Masterpiece (80s Remix)",
+        "url": "https://open.spotify.com/album/2tJRA9WA7MHc8WbmHHAE9z"
+      },
+      "artists": [
+        {
+          "name": "Summer C",
+          "url": "https://open.spotify.com/artist/4q0x2gtJstAX1i8B95hLO7"
+        }
+      ],
+      "duration_ms": 238999,
+      "name": "Masterpiece (80s Remix)",
+      "url": "https://open.spotify.com/track/3LspHgoGctRuW3lccLI5gx"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "Kaitlin",
         "url": "https://open.spotify.com/album/4HKc9NdbLgaMnjqZMM2FnY"
       },
@@ -435,38 +467,6 @@
       "duration_ms": 184528,
       "name": "What Happened, Happened",
       "url": "https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
-        "name": "good juju : vol. 1",
-        "url": "https://open.spotify.com/album/2JBGnfjeAuIK26Ysk3XlIS"
-      },
-      "artists": [
-        {
-          "name": "Jujubee",
-          "url": "https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U"
-        }
-      ],
-      "duration_ms": 181424,
-      "name": "Need Ya",
-      "url": "https://open.spotify.com/track/7DdiwiiHRuqRZizeq6s1NM"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
-        "name": "Masterpiece (80s Remix)",
-        "url": "https://open.spotify.com/album/2tJRA9WA7MHc8WbmHHAE9z"
-      },
-      "artists": [
-        {
-          "name": "Summer C",
-          "url": "https://open.spotify.com/artist/4q0x2gtJstAX1i8B95hLO7"
-        }
-      ],
-      "duration_ms": 238999,
-      "name": "Masterpiece (80s Remix)",
-      "url": "https://open.spotify.com/track/3LspHgoGctRuW3lccLI5gx"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
+        "url": "https://open.spotify.com/album/3ELSQlnkdBcEa8XEZRE0Tc"
+      },
+      "artists": [
+        {
+          "name": "Alextbh",
+          "url": "https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu"
+        }
+      ],
+      "duration_ms": 273080,
+      "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
+      "url": "https://open.spotify.com/track/5ZAkzn6gq9gSSiwQoqE24M"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "Abide",
         "url": "https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO"
       },
@@ -599,18 +615,18 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
-        "url": "https://open.spotify.com/album/3ELSQlnkdBcEa8XEZRE0Tc"
+        "name": "Hyperdome",
+        "url": "https://open.spotify.com/album/4WQ745zAz9eRVRVDMBk4IE"
       },
       "artists": [
         {
-          "name": "Alextbh",
-          "url": "https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu"
+          "name": "SuperKnova",
+          "url": "https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD"
         }
       ],
-      "duration_ms": 273080,
-      "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
-      "url": "https://open.spotify.com/track/5ZAkzn6gq9gSSiwQoqE24M"
+      "duration_ms": 193333,
+      "name": "Hyperdome",
+      "url": "https://open.spotify.com/track/47z3fqsE7tSXGkFFCzNaFH"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -683,22 +699,6 @@
       "duration_ms": 174295,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/2gU2Eg1PfmJMHtfIMxIMnK"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
-        "name": "Hyperdome",
-        "url": "https://open.spotify.com/album/4WQ745zAz9eRVRVDMBk4IE"
-      },
-      "artists": [
-        {
-          "name": "SuperKnova",
-          "url": "https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Hyperdome",
-      "url": "https://open.spotify.com/track/47z3fqsE7tSXGkFFCzNaFH"
     },
     {
       "added_at": "2023-06-30 23:59:00",

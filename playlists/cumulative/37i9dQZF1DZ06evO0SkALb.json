@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 165960,
       "name": "'Tain't Nobody's Biz-ness If I Do",
       "url": "https://open.spotify.com/track/3YKl0GFke1KhVACpj59XtL"
@@ -256,7 +256,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 223493,
       "name": "Be Anything (But Be Mine)",
       "url": "https://open.spotify.com/track/2I1W9KXPSmT6h8hvJ2ij7u"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 170466,
       "name": "It Was A Very Good Year - Digitally Remastered 00",
       "url": "https://open.spotify.com/track/0MuK8gUKHaj9PdlOxgvygy"
@@ -828,7 +828,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 133466,
       "name": "Kansas City - Digitally Remastered 00",
       "url": "https://open.spotify.com/track/6HHVWXN2ItXtLdkH4pXgdR"
@@ -1105,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "I'm Blessed",
+        "url": "https://open.spotify.com/album/3QzhFMsQAECe4fEeoRmVXD"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301266,
+      "name": "Oh Happy Day",
+      "url": "https://open.spotify.com/track/4aWCjpKKRmieApv4uc3AFB"
+    },
+    {
+      "album": {
         "name": "At Last",
         "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
       },
@@ -1254,7 +1272,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 268586,
       "name": "See You When I Git There",
       "url": "https://open.spotify.com/track/3LJEsCWWR0eQ5zhwwzX5Kc"
@@ -1698,7 +1716,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 241680,
       "name": "Tobacco Road - 2006 Remaster",
       "url": "https://open.spotify.com/track/2XV3Q00jCVoePVLoXl8nKn"
@@ -1832,7 +1850,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 357040,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun"

@@ -1,13 +1,29 @@
 {
   "description": "Future K-Pop hits! Cover: I.M",
-  "num_followers": 795924,
+  "num_followers": 795973,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDA1OTVlMmU5MmQzNTA2ZTk4OTY4NzgxZjQ0ZjYwNmFkMTI3ZWY0",
+  "snapshot_id": "MCxhYTUzZWIzMTE1NWZiMzcyMjhiNDhjMTU1MjkxN2Y4MjlkODMwZTY3",
   "tracks": [
+    {
+      "added_at": "2024-01-29 08:37:42",
+      "album": {
+        "name": "Girls of the Year",
+        "url": "https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG"
+      },
+      "artists": [
+        {
+          "name": "VCHA",
+          "url": "https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s"
+        }
+      ],
+      "duration_ms": 178253,
+      "name": "Girls of the Year",
+      "url": "https://open.spotify.com/track/03grA043a1uECo5Kyw28a0"
+    },
     {
       "added_at": "2024-01-23 09:51:23",
       "album": {
@@ -29,6 +45,22 @@
       "url": "https://open.spotify.com/track/4Ugf1uFzQx3RT7X0UgZjQv"
     },
     {
+      "added_at": "2024-01-29 08:37:42",
+      "album": {
+        "name": "What kind of future",
+        "url": "https://open.spotify.com/album/1S46HO8uCleN4pov8D3bGL"
+      },
+      "artists": [
+        {
+          "name": "WOOZI",
+          "url": "https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "What kind of future",
+      "url": "https://open.spotify.com/track/1DXomndYd10iSX9uZSPv6e"
+    },
+    {
       "added_at": "2024-01-23 09:51:23",
       "album": {
         "name": "TWS 1st Mini Album 'Sparkling Blue'",
@@ -43,6 +75,22 @@
       "duration_ms": 152400,
       "name": "plot twist",
       "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
+    },
+    {
+      "added_at": "2024-01-29 03:17:41",
+      "album": {
+        "name": "1st Single Album 'Harmony from Discord'",
+        "url": "https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc"
+      },
+      "artists": [
+        {
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "Discord",
+      "url": "https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC"
     },
     {
       "added_at": "2024-01-23 09:51:23",
@@ -61,6 +109,22 @@
       "url": "https://open.spotify.com/track/4zXbnTwqwQcRdDILZVKZSQ"
     },
     {
+      "added_at": "2024-01-29 03:17:41",
+      "album": {
+        "name": "Un: SEEN",
+        "url": "https://open.spotify.com/album/6lPOFQarc48hDHdFYcVdzQ"
+      },
+      "artists": [
+        {
+          "name": "EVNNE",
+          "url": "https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "UGLY",
+      "url": "https://open.spotify.com/track/3p5SJW1Jb4EvSEXrpShQzm"
+    },
+    {
       "added_at": "2024-01-23 09:51:23",
       "album": {
         "name": "My Beloved",
@@ -75,6 +139,46 @@
       "duration_ms": 244692,
       "name": "My Beloved",
       "url": "https://open.spotify.com/track/2o8qsTLDQ17QWeozcwKFoF"
+    },
+    {
+      "added_at": "2024-01-29 03:17:41",
+      "album": {
+        "name": "EXchange3, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0IgxB341S7p4sTGH29uTg4"
+      },
+      "artists": [
+        {
+          "name": "ZHANG HAO",
+          "url": "https://open.spotify.com/artist/19Vc3zeXWnOUUsAYiXgjCX"
+        }
+      ],
+      "duration_ms": 164133,
+      "name": "I WANNA KNOW",
+      "url": "https://open.spotify.com/track/4ki0EcH3qL0DEbXqZIz1GI"
+    },
+    {
+      "added_at": "2024-01-23 09:51:23",
+      "album": {
+        "name": "Yes or No",
+        "url": "https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF"
+      },
+      "artists": [
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 179146,
+      "name": "Yes or No (Feat. HUH YUNJIN of LE SSERAFIM, Crush)",
+      "url": "https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq"
     },
     {
       "added_at": "2024-01-23 09:51:23",
@@ -123,30 +227,6 @@
       "duration_ms": 188026,
       "name": "Door",
       "url": "https://open.spotify.com/track/1TZDaNtU02kQpusQh0zws0"
-    },
-    {
-      "added_at": "2024-01-23 09:51:23",
-      "album": {
-        "name": "Yes or No",
-        "url": "https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF"
-      },
-      "artists": [
-        {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        },
-        {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 179146,
-      "name": "Yes or No (Feat. HUH YUNJIN of LE SSERAFIM, Crush)",
-      "url": "https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq"
     },
     {
       "added_at": "2024-01-23 09:51:23",
@@ -679,22 +759,6 @@
     {
       "added_at": "2024-01-23 09:51:23",
       "album": {
-        "name": "MELTING POINT",
-        "url": "https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys"
-      },
-      "artists": [
-        {
-          "name": "ZEROBASEONE",
-          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
-        }
-      ],
-      "duration_ms": 169040,
-      "name": "CRUSH",
-      "url": "https://open.spotify.com/track/2qiWQf7ka0C4XoA7JAZ1q5"
-    },
-    {
-      "added_at": "2024-01-23 09:51:23",
-      "album": {
         "name": "Zip",
         "url": "https://open.spotify.com/album/0T3dxtCegtw8C07ZMvwIfv"
       },
@@ -767,22 +831,6 @@
     {
       "added_at": "2024-01-23 09:51:23",
       "album": {
-        "name": "\ubbf8\uccd0\ubc84\ub9ac\uaca0\ub2e4 (MAD)",
-        "url": "https://open.spotify.com/album/1CdiLd2ENEFje7ux0G23KT"
-      },
-      "artists": [
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        }
-      ],
-      "duration_ms": 197373,
-      "name": "\ubbf8\uccd0\ubc84\ub9ac\uaca0\ub2e4 (MAD)",
-      "url": "https://open.spotify.com/track/7n1yuwnzs5jTEitJ7eecS8"
-    },
-    {
-      "added_at": "2024-01-23 09:51:23",
-      "album": {
         "name": "Billlie 'BYOB (bring your own best friend)'",
         "url": "https://open.spotify.com/album/4k9r7qGZQi1kLGMWlyn8Xl"
       },
@@ -795,54 +843,6 @@
       "duration_ms": 158068,
       "name": "BYOB (bring your own best friend)",
       "url": "https://open.spotify.com/track/2zoLJs2jC0uiy59KJAWL2h"
-    },
-    {
-      "added_at": "2024-01-23 09:51:23",
-      "album": {
-        "name": "Target: ME",
-        "url": "https://open.spotify.com/album/3zgfK7IBAPDcroAqxzzMOy"
-      },
-      "artists": [
-        {
-          "name": "EVNNE",
-          "url": "https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "TROUBLE",
-      "url": "https://open.spotify.com/track/6MSRu5wksC0Esn63XOgmI3"
-    },
-    {
-      "added_at": "2024-01-23 09:51:23",
-      "album": {
-        "name": "Fadeaway (From \"GARBAGE TIME\")",
-        "url": "https://open.spotify.com/album/7phg7mzEHuthKyl6e4UvA7"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 172720,
-      "name": "Fadeaway",
-      "url": "https://open.spotify.com/track/3ckM6eeEiOc0iON56lKfDv"
-    },
-    {
-      "added_at": "2024-01-23 09:51:23",
-      "album": {
-        "name": "STRANGER",
-        "url": "https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 166560,
-      "name": "STRANGER",
-      "url": "https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi"
     }
   ],
   "unique_name": "K-Pop Rising",

@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 184476,
+  "num_followers": 184577,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2UxNzcxNzM1YWVlNWMxOGFjZjFhYWFjZDNjMmEyNWU3NTY4N2Mz",
+  "snapshot_id": "MCwyM2UxZjY4MDFkYzI4MTFjNDcxOTA1ZjU0MGI1MzQ5ZjQzNzFhNjgy",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Bitchboy",
-        "url": "https://open.spotify.com/album/4fCa5qkqmOyFhyWpg5VyqG"
-      },
-      "artists": [
-        {
-          "name": "The Oozes",
-          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
-        }
-      ],
-      "duration_ms": 107162,
-      "name": "Bitchboy",
-      "url": "https://open.spotify.com/track/1QQ0bhZ39lG5LVjWIGiryS"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "New Wave (U.S. Version)",
         "url": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 187933,
       "name": "Damage",
       "url": "https://open.spotify.com/track/5AuzysaHMCMHvv6Ppyx9lI"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Bitchboy",
+        "url": "https://open.spotify.com/album/4fCa5qkqmOyFhyWpg5VyqG"
+      },
+      "artists": [
+        {
+          "name": "The Oozes",
+          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+        }
+      ],
+      "duration_ms": 107162,
+      "name": "Bitchboy",
+      "url": "https://open.spotify.com/track/1QQ0bhZ39lG5LVjWIGiryS"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
+        "name": "Get Awkward",
+        "url": "https://open.spotify.com/album/3NTvYh8PojyC68r2cnU398"
+      },
+      "artists": [
+        {
+          "name": "Be Your Own Pet",
+          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
+        }
+      ],
+      "duration_ms": 131226,
+      "name": "Heart Throb - Album Version (Edited)",
+      "url": "https://open.spotify.com/track/4Pmf5TmEIHkhCt2rfFeLLC"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
         "name": "Call the Doctor (Remastered)",
         "url": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 151473,
       "name": "Things Still Left to Say",
       "url": "https://open.spotify.com/track/4aZq3QHHQHI5tCcjnhIES7"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
-        "name": "Get Awkward",
-        "url": "https://open.spotify.com/album/3NTvYh8PojyC68r2cnU398"
-      },
-      "artists": [
-        {
-          "name": "Be Your Own Pet",
-          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
-        }
-      ],
-      "duration_ms": 131226,
-      "name": "Heart Throb - Album Version (Edited)",
-      "url": "https://open.spotify.com/track/4Pmf5TmEIHkhCt2rfFeLLC"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Love Me Forever",
-        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 196942,
-      "name": "the kids aren't alright",
-      "url": "https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Demo 2015",
         "url": "https://open.spotify.com/album/2v3FQ4S6xMKm9YL0JapDKl"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 91249,
       "name": "G.L.O.S.S. (We're from the Future)",
       "url": "https://open.spotify.com/track/5w8lL6jy9wToBej9Lk9v2f"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Love Me Forever",
+        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 196942,
+      "name": "the kids aren't alright",
+      "url": "https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "The Royal They",
-        "url": "https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH"
-      },
-      "artists": [
-        {
-          "name": "The Royal They",
-          "url": "https://open.spotify.com/artist/6PScjU4Y5AJ8EZp2aW4TA2"
-        }
-      ],
-      "duration_ms": 183994,
-      "name": "Full Metal Black",
-      "url": "https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Intractable",
         "url": "https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 124653,
       "name": "So-Called Str8 Grrrl",
       "url": "https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "The Royal They",
+        "url": "https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH"
+      },
+      "artists": [
+        {
+          "name": "The Royal They",
+          "url": "https://open.spotify.com/artist/6PScjU4Y5AJ8EZp2aW4TA2"
+        }
+      ],
+      "duration_ms": 183994,
+      "name": "Full Metal Black",
+      "url": "https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Queen Zee",
-        "url": "https://open.spotify.com/album/2wbap4Wf20Dbp2kLrZFkHk"
-      },
-      "artists": [
-        {
-          "name": "Queen Zee",
-          "url": "https://open.spotify.com/artist/4Fu68byHFGEiID8pHyYxFL"
-        }
-      ],
-      "duration_ms": 143853,
-      "name": "Sissy Fists",
-      "url": "https://open.spotify.com/track/1KHFqFiuV5KNyHjtjTKBbJ"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Divine Violence",
         "url": "https://open.spotify.com/album/5F3NCovJyL6jjJevjEp5Q4"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 202231,
       "name": "Divine Violence",
       "url": "https://open.spotify.com/track/20XjbnBPSXQCRPzNHUwcNl"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Queen Zee",
+        "url": "https://open.spotify.com/album/2wbap4Wf20Dbp2kLrZFkHk"
+      },
+      "artists": [
+        {
+          "name": "Queen Zee",
+          "url": "https://open.spotify.com/artist/4Fu68byHFGEiID8pHyYxFL"
+        }
+      ],
+      "duration_ms": 143853,
+      "name": "Sissy Fists",
+      "url": "https://open.spotify.com/track/1KHFqFiuV5KNyHjtjTKBbJ"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Every Now and Then",
-        "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
-      },
-      "artists": [
-        {
-          "name": "Wolf Girl",
-          "url": "https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX"
-        }
-      ],
-      "duration_ms": 154618,
-      "name": "Dream Partner",
-      "url": "https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Home Recordings 2020 - 2021",
         "url": "https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 86842,
       "name": "Eden on Acid",
       "url": "https://open.spotify.com/track/5h8VuvFvYuQ0dzJhxPcqjZ"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Every Now and Then",
+        "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
+      },
+      "artists": [
+        {
+          "name": "Wolf Girl",
+          "url": "https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX"
+        }
+      ],
+      "duration_ms": 154618,
+      "name": "Dream Partner",
+      "url": "https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3"
     }
   ],
   "unique_name": "Queercore",

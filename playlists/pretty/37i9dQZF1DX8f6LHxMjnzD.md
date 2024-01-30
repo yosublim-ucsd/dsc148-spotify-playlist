@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,667 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,696 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Moment](https://open.spotify.com/track/7wNKtCzafd3om6QKiub1Js) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Levi Don't Do It](https://open.spotify.com/album/3hXx9qkxsHdQ1oyeqOvUAJ) | 3:05 |
 | 40 | [Running](https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Running](https://open.spotify.com/album/3O5wnk4n2Zxw7DxkJdldi7) | 3:28 |
 
-Snapshot ID: `MCxjMTJhOTkwNjUxNjMwZDAzOThlOTkzM2JjMTMxZDY4NGU4MzNiYmM1`
+Snapshot ID: `MCxjZGE5YWEyOTQzMGNkMWM5ZjkxNTJjOGIzNWFlNzcxYmM1N2IwODk1`

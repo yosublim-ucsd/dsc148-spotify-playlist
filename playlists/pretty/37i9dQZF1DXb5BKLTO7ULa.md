@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: RONDÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,828 likes - 102 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,825 likes - 102 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 49 | [Spicy Margarita](https://open.spotify.com/track/6TFUhEcEsqGVMZeZtAeUzN) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Spicy Margarita](https://open.spotify.com/album/0axDmm6r0mlrw4SRIXpIER) | 2:34 |
 | 50 | [Stay With Me Through The Night](https://open.spotify.com/track/60gpPVIPxuB8OLKS3mif0I) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Stay With Me Through The Night](https://open.spotify.com/album/5zXZBEsCxIFSqGwAO1FEOK) | 3:36 |
 | 51 | [Wanna Come Thru](https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Wanna Come Thru](https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF) | 2:11 |
-| 52 | [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 |
+| 52 | [Head Up](https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp) | 3:09 |
 | 53 | [Bid Voor Mij](https://open.spotify.com/track/3SuHVNuiRSnOgAcB3837iE) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC) | [Bid Voor Mij](https://open.spotify.com/album/5HvJOXXEIx0lcYGxuXPLvk) | 2:38 |
 | 54 | [Free Falling](https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:53 |
 | 55 | [Long as I'm Not the One](https://open.spotify.com/track/3PvkXdAx1nua094mKJuNFU) | [Grandaddy](https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk) | [Long as I'm Not the One](https://open.spotify.com/album/1TbTGMI4DdCiuDV1Ilaa5y) | 4:35 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 101 | [No Evil](https://open.spotify.com/track/7JHVXlqkoXViFD4giUlzEs) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [No Evil](https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R) | 2:25 |
 | 102 | [Because of Time](https://open.spotify.com/track/1DbBwYO45JkraXVHX7aHTW) | [NORE](https://open.spotify.com/artist/1TY6Dy5en43uAZPIcXql0Q) | [Because of Time](https://open.spotify.com/album/6r70FuRYrX28vRJmaa6d50) | 3:35 |
 
-Snapshot ID: `MCwzNzg5Y2YyNjZhYTBjMjhkNGQxMTE5ZDUwNmY4ZjA5YzQwMDE0ZDIz`
+Snapshot ID: `MCxhODcxZTNhNjUwY2MzMzk5MzIyYjE1OTE4N2Q2YWU1ZjBlMDY1Y2U4`

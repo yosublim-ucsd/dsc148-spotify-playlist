@@ -1,13 +1,33 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.",
-  "num_followers": 63940,
+  "num_followers": 63922,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "MTc5Niw2NTBiZWI5NDkzMDI0Y2IwOTRiZWVkODZmMzhiN2RhZmI2OGJiMzk0",
+  "snapshot_id": "MTc5Nyw1ZDJiNTM4NzA5ZDJjOThjYTkzNDczOTVmOWZlYzllZGNlNjFiYWJm",
   "tracks": [
+    {
+      "added_at": "2024-01-29 17:04:32",
+      "album": {
+        "name": "Boulanger, Faur\u00e9, Hahn",
+        "url": "https://open.spotify.com/album/052Bj8bzdrcLnmhGoaeuyD"
+      },
+      "artists": [
+        {
+          "name": "Reynaldo Hahn",
+          "url": "https://open.spotify.com/artist/6Eu8djOGFxGaykaqJlbzEf"
+        },
+        {
+          "name": "William Youn",
+          "url": "https://open.spotify.com/artist/7uWSy5aRJy75BSKdpYbp2R"
+        }
+      ],
+      "duration_ms": 180426,
+      "name": "A Chloris in E Major (Arr. for Piano by William Youn)",
+      "url": "https://open.spotify.com/track/6eIUmf25GrdAyFzKVvTlhm"
+    },
     {
       "added_at": "2024-01-19 20:46:19",
       "album": {

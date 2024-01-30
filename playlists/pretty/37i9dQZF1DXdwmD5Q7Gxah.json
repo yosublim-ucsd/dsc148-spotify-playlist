@@ -1,13 +1,29 @@
 {
   "description": "songs you'll fall in love with. Medium Build on the cover. ",
-  "num_followers": 1133736,
+  "num_followers": 1133981,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDE3YjU2ZGM4YTUyZmVhMmQ4ZDBhOTVlZjkzNWIxZjg5NmIwMjdk",
+  "snapshot_id": "MCwxOTgyNzMyM2VkM2VmMmIxNzdkOGRlMGQzYjc1NDJiMzlmM2ZhMGRk",
   "tracks": [
+    {
+      "added_at": "2024-01-29 19:24:59",
+      "album": {
+        "name": "Murder on the Dancefloor (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 180872,
+      "name": "Murder on the Dance Floor - triple j Like A Version",
+      "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
+    },
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {

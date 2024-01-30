@@ -1,12 +1,12 @@
 {
   "description": "Canciones tropicales que te transportan a Caleta y Caletilla.",
-  "num_followers": 74671,
+  "num_followers": 74715,
   "original_name": "Acapulco en la Azotea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjY3MGJjYzY3ZWI5ZTNlZGRlOWM3ZTMxOGJhODI1NmQ0YTllMWVh",
+  "snapshot_id": "MCxiYWRjYTNjMDc5MGY3OTRmMWMyZmEzMjM5Mzc3NDExNzBlYWM0N2Fh",
   "tracks": [
     {
       "added_at": "2024-01-04 23:44:23",
@@ -155,38 +155,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Zool\u00f3gico Tropical",
-        "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
-      },
-      "artists": [
-        {
-          "name": "Fito Olivares y Su Grupo",
-          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
-        }
-      ],
-      "duration_ms": 198613,
-      "name": "Cumbia De La Cobra",
-      "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
-        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
-        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
-      },
-      "artists": [
-        {
-          "name": "Banda Blanca",
-          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
-        }
-      ],
-      "duration_ms": 293906,
-      "name": "Sopa de Caracol",
-      "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "Album de Oro",
         "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
       },
@@ -203,6 +171,22 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
+        "name": "Zool\u00f3gico Tropical",
+        "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
+      },
+      "artists": [
+        {
+          "name": "Fito Olivares y Su Grupo",
+          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
+        }
+      ],
+      "duration_ms": 198613,
+      "name": "Cumbia De La Cobra",
+      "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
         "name": "Una L\u00e1grima No Basta",
         "url": "https://open.spotify.com/album/6mQJfbwCFc2PxT0Kf7k1He"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 226546,
       "name": "Comer a Besos",
       "url": "https://open.spotify.com/track/6b2jmWNdY33SFlDMdcBs5V"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
+        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "duration_ms": 293906,
+      "name": "Sopa de Caracol",
+      "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "30 Exitos Inolvidables",
-        "url": "https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA"
-      },
-      "artists": [
-        {
-          "name": "Fito Olivares y Su Grupo",
-          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
-        }
-      ],
-      "duration_ms": 146013,
-      "name": "El Colesterol",
-      "url": "https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "30 Aniversario (Edici\u00f3n Limitada)",
         "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 185880,
       "name": "A Donde Iras Ahora",
       "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "30 Exitos Inolvidables",
+        "url": "https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA"
+      },
+      "artists": [
+        {
+          "name": "Fito Olivares y Su Grupo",
+          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
+        }
+      ],
+      "duration_ms": 146013,
+      "name": "El Colesterol",
+      "url": "https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Ni Juana la Cubana",
-        "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
-      },
-      "artists": [
-        {
-          "name": "Rigo Dominguez Y Su Grupo Audaz",
-          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
-        }
-      ],
-      "duration_ms": 171746,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "17 Aniversario",
         "url": "https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 242586,
       "name": "El baile del gavil\u00e1n",
       "url": "https://open.spotify.com/track/4fzG5qBkdo1kT9UURFVrrL"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "Ni Juana la Cubana",
+        "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
+      },
+      "artists": [
+        {
+          "name": "Rigo Dominguez Y Su Grupo Audaz",
+          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
+        }
+      ],
+      "duration_ms": 171746,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Amor Y Cumbia",
-        "url": "https://open.spotify.com/album/4nSARKHzo1d323AHGmvzsQ"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 236760,
-      "name": "La Sirenita",
-      "url": "https://open.spotify.com/track/6X2Mxz4KnWYOAOHmv3MNAK"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "La Del Vestido Rojo",
         "url": "https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 221733,
       "name": "La del Vestido Rojo",
       "url": "https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "Amor Y Cumbia",
+        "url": "https://open.spotify.com/album/4nSARKHzo1d323AHGmvzsQ"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 236760,
+      "name": "La Sirenita",
+      "url": "https://open.spotify.com/track/6X2Mxz4KnWYOAOHmv3MNAK"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -779,38 +779,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 171546,
-      "name": "La Boa",
-      "url": "https://open.spotify.com/track/4UmKFyEKaew90RWzqbTalb"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
-        "name": "Ritmo, Sol y Arena",
-        "url": "https://open.spotify.com/album/6GNCUK92o0O92UgV14oI6H"
-      },
-      "artists": [
-        {
-          "name": "Acapulco Tropical",
-          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
-        }
-      ],
-      "duration_ms": 147866,
-      "name": "Acapulco Tropical",
-      "url": "https://open.spotify.com/track/3gs1Vacn6b0kc67zLYilY9"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "Eva Mar\u00eda",
         "url": "https://open.spotify.com/album/7nsXFT6vkw3cwbv1Igyv3y"
       },
@@ -827,6 +795,22 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 171546,
+      "name": "La Boa",
+      "url": "https://open.spotify.com/track/4UmKFyEKaew90RWzqbTalb"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
         "name": "15 Exitos",
         "url": "https://open.spotify.com/album/6tmgzoSUGJV7YmkCD8LiA0"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 163000,
       "name": "Dame Mas Amor",
       "url": "https://open.spotify.com/track/2HTCgnClGkbNQLUVBLR8EC"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "Ritmo, Sol y Arena",
+        "url": "https://open.spotify.com/album/6GNCUK92o0O92UgV14oI6H"
+      },
+      "artists": [
+        {
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
+        }
+      ],
+      "duration_ms": 147866,
+      "name": "Acapulco Tropical",
+      "url": "https://open.spotify.com/track/3gs1Vacn6b0kc67zLYilY9"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 205346,
-      "name": "Donde Estas",
-      "url": "https://open.spotify.com/track/2zfeUz2xzgrtM2kF5bprCY"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "Macumba",
         "url": "https://open.spotify.com/album/7m67Buns7GWyajKdkoUkq5"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 164884,
       "name": "Macumba",
       "url": "https://open.spotify.com/track/1RRnygeCEjxTrMQYcHONUd"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "Donde Estas",
+      "url": "https://open.spotify.com/track/2zfeUz2xzgrtM2kF5bprCY"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 172813,
+      "name": "Amor Libre",
+      "url": "https://open.spotify.com/track/417hz3bOfPdXH9vKjzfM23"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
         "name": "M\u00fasica Tropical de Colombia, Vol. 3",
         "url": "https://open.spotify.com/album/2GDi9jf5Xtc1f8BGWOSHs9"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 250760,
       "name": "Capullo y Sorullo",
       "url": "https://open.spotify.com/track/6ZsHgpnSsHr87zwnxRp2Pw"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 172813,
-      "name": "Amor Libre",
-      "url": "https://open.spotify.com/track/417hz3bOfPdXH9vKjzfM23"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Ron Y Coca Cola",
-        "url": "https://open.spotify.com/album/4fcUEob7X3ipsrIBa3jZyx"
+        "name": "Antolog\u00eda...Los Sonor's",
+        "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
       },
       "artists": [
         {
-          "name": "Mister Chivo",
-          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
+          "name": "Los Sonor's",
+          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
         }
       ],
-      "duration_ms": 194840,
-      "name": "Ron Y Coca Cola",
-      "url": "https://open.spotify.com/track/6jPNqIc5llDGJ9hr5GfIhV"
+      "duration_ms": 172920,
+      "name": "La feria de Cali",
+      "url": "https://open.spotify.com/track/1v7xtNEebuvdi147gd7rRc"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Antolog\u00eda...Los Sonor's",
-        "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
-      },
-      "artists": [
-        {
-          "name": "Los Sonor's",
-          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "La feria de Cali",
-      "url": "https://open.spotify.com/track/1v7xtNEebuvdi147gd7rRc"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "Lo Mejor De Mike Laure",
         "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Sabor A Cumbia",
-        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
+        "name": "Ron Y Coca Cola",
+        "url": "https://open.spotify.com/album/4fcUEob7X3ipsrIBa3jZyx"
       },
       "artists": [
         {
-          "name": "Los Dinamiteros de Colombia",
-          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+          "name": "Mister Chivo",
+          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
         }
       ],
-      "duration_ms": 174933,
-      "name": "La Velludita",
-      "url": "https://open.spotify.com/track/7sdCUfRUrKbqWCOguRhQnp"
+      "duration_ms": 194840,
+      "name": "Ron Y Coca Cola",
+      "url": "https://open.spotify.com/track/6jPNqIc5llDGJ9hr5GfIhV"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1423,6 +1407,22 @@
       "duration_ms": 150674,
       "name": "Donde Te Agarro el Temblor",
       "url": "https://open.spotify.com/track/2lkYi9Zq1oLevjFDW0Zj9M"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "Sabor A Cumbia",
+        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
+      },
+      "artists": [
+        {
+          "name": "Los Dinamiteros de Colombia",
+          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+        }
+      ],
+      "duration_ms": 174933,
+      "name": "La Velludita",
+      "url": "https://open.spotify.com/track/7sdCUfRUrKbqWCOguRhQnp"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
+        "name": "Bueno Pa' Bailar",
+        "url": "https://open.spotify.com/album/4uWDQj68C6UF6e0TvWMAWF"
+      },
+      "artists": [
+        {
+          "name": "Mike Laure",
+          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
+        }
+      ],
+      "duration_ms": 144323,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/0NA27btGDmBNAgJiV0QBdG"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
         "name": "Coleccion De Oro Puro",
         "url": "https://open.spotify.com/album/1oyXpx45VV9E7K9rS33TS8"
       },
@@ -1491,18 +1507,18 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Bueno Pa' Bailar",
-        "url": "https://open.spotify.com/album/4uWDQj68C6UF6e0TvWMAWF"
+        "name": "Viva el Amor",
+        "url": "https://open.spotify.com/album/1o5ZMdsdZIjhjCRV54BDlF"
       },
       "artists": [
         {
-          "name": "Mike Laure",
-          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
         }
       ],
-      "duration_ms": 144323,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/0NA27btGDmBNAgJiV0QBdG"
+      "duration_ms": 208882,
+      "name": "Viva el Amor",
+      "url": "https://open.spotify.com/track/0dPW1gm93Ls6VVdNDuxbGw"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Viva el Amor",
-        "url": "https://open.spotify.com/album/1o5ZMdsdZIjhjCRV54BDlF"
-      },
-      "artists": [
-        {
-          "name": "Su Majestad La Brissa",
-          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
-        }
-      ],
-      "duration_ms": 208882,
-      "name": "Viva el Amor",
-      "url": "https://open.spotify.com/track/0dPW1gm93Ls6VVdNDuxbGw"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "Serie 32",
         "url": "https://open.spotify.com/album/52SwmseipF9fBvw0tOAM6u"
       },
@@ -1551,22 +1551,6 @@
       "duration_ms": 201813,
       "name": "La Coloreteada",
       "url": "https://open.spotify.com/track/4LtDqOqFiaXkR4AOpSFdbR"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
-        "name": "Los Nenes con Los Nenes",
-        "url": "https://open.spotify.com/album/3N8uklKicclGP85lgxYmDw"
-      },
-      "artists": [
-        {
-          "name": "Chico Che y La Crisis",
-          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
-        }
-      ],
-      "duration_ms": 161985,
-      "name": "Los Nenes Con los Nenes",
-      "url": "https://open.spotify.com/track/6naFSjDQESFuw9Hv7v2ZOd"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "20 Exitos Historia Musical",
-        "url": "https://open.spotify.com/album/0DylSKswghS7tyMd8ES5SB"
+        "name": "Los Nenes con Los Nenes",
+        "url": "https://open.spotify.com/album/3N8uklKicclGP85lgxYmDw"
       },
       "artists": [
         {
-          "name": "Renacimiento 74",
-          "url": "https://open.spotify.com/artist/6qioLW4OC3ZBqwH93xATgU"
+          "name": "Chico Che y La Crisis",
+          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
         }
       ],
-      "duration_ms": 175960,
-      "name": "La Guera Gringa",
-      "url": "https://open.spotify.com/track/6lLekYXNTMHtuu9HQBf9DA"
+      "duration_ms": 161985,
+      "name": "Los Nenes Con los Nenes",
+      "url": "https://open.spotify.com/track/6naFSjDQESFuw9Hv7v2ZOd"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1615,6 +1599,22 @@
       "duration_ms": 186148,
       "name": "Bota la Bata",
       "url": "https://open.spotify.com/track/24WCqEUzGi4fEUCbChJVLl"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "20 Exitos Historia Musical",
+        "url": "https://open.spotify.com/album/0DylSKswghS7tyMd8ES5SB"
+      },
+      "artists": [
+        {
+          "name": "Renacimiento 74",
+          "url": "https://open.spotify.com/artist/6qioLW4OC3ZBqwH93xATgU"
+        }
+      ],
+      "duration_ms": 175960,
+      "name": "La Guera Gringa",
+      "url": "https://open.spotify.com/track/6lLekYXNTMHtuu9HQBf9DA"
     }
   ],
   "unique_name": "Acapulco en la Azotea",

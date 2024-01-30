@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Radical Redemption
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,892 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,065 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Retaliation](https://open.spotify.com/track/6N1NycLCUdSMWLM6ucXjP2) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [No Retaliation, Pt\. 1: The Solo's](https://open.spotify.com/album/1wTbNgkQexxRJSzbSV2IeC) | 3:44 |
 | 2 | [Kamikaze](https://open.spotify.com/track/1J8s1yH5MJNm7AFCBcUyKH) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Kamikaze](https://open.spotify.com/album/63yjSekBPPm8GIwjHAdAWI) | 3:25 |
 | 3 | [Explode](https://open.spotify.com/track/04ErJiS734u76JgX5JQayC) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Explode](https://open.spotify.com/album/2QryHAeKDPpFc5gww7Of3o) | 2:39 |
-| 4 | [Techno Syndrome \(Mortal Kombat\)](https://open.spotify.com/track/6oxX7IUFlUGTB3FIcF2ZlL) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [Techno Syndrome \(Mortal Kombat\)](https://open.spotify.com/album/5ojvfc6g78q7i7VgZdwGBn) | 3:36 |
-| 5 | [Demon](https://open.spotify.com/track/0z880OjDrjGjEGwA4kDEcL) | [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao) | [Demon](https://open.spotify.com/album/0qdTCEWeVDCoZendfdSyRy) | 2:39 |
-| 6 | [Take Me Away](https://open.spotify.com/track/4Y8o07UHVsGFBCWXB2MGRM) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j), [Bass Modulators](https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC) | [Take Me Away](https://open.spotify.com/album/4ZWWKBBQZp4Gu9tWP6PeQz) | 3:28 |
-| 7 | [Hardcore Life](https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Hardcore Life](https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w) | 2:45 |
+| 4 | [Hardcore Life](https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Hardcore Life](https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w) | 2:45 |
+| 5 | [Techno Syndrome \(Mortal Kombat\)](https://open.spotify.com/track/6oxX7IUFlUGTB3FIcF2ZlL) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [Techno Syndrome \(Mortal Kombat\)](https://open.spotify.com/album/5ojvfc6g78q7i7VgZdwGBn) | 3:36 |
+| 6 | [Demon](https://open.spotify.com/track/0z880OjDrjGjEGwA4kDEcL) | [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao) | [Demon](https://open.spotify.com/album/0qdTCEWeVDCoZendfdSyRy) | 2:39 |
+| 7 | [Take Me Away](https://open.spotify.com/track/4Y8o07UHVsGFBCWXB2MGRM) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j), [Bass Modulators](https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC) | [Take Me Away](https://open.spotify.com/album/4ZWWKBBQZp4Gu9tWP6PeQz) | 3:28 |
 | 8 | [AM\-PM \(Gluttony\)](https://open.spotify.com/track/5ylRcQigJwkw9Od0HgV4lI) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [AM\-PM \(Gluttony\)](https://open.spotify.com/album/1Vg7DEavxBrb6vQJXaRY52) | 2:48 |
 | 9 | [Rave From The Grave](https://open.spotify.com/track/5hnmpL3XJwHP9McJ0RSkxl) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Carola](https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp) | [Rave From The Grave](https://open.spotify.com/album/7BJ7QAzzef1Bsydy4gajiW) | 2:57 |
 | 10 | [Dissolve My Mind](https://open.spotify.com/track/3pfXohE3mfz9lsdo47Rfvt) | [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21) | [Dissolve My Mind](https://open.spotify.com/album/4LzpG7zgNbRvejVUpx0U4W) | 4:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Love Like Yours](https://open.spotify.com/track/60FjaVoaLYKEZmmYC7Gx5t) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Empyre One](https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22), [Kane Scott](https://open.spotify.com/artist/03Uxnv0S5yon8NjFeBF3Bu) | [Love Like Yours](https://open.spotify.com/album/7LhDrHd7GkACFuhA8muQ5b) | 3:13 |
 | 100 | [MF KING](https://open.spotify.com/track/3UcOEZC3LorrVAq9OiTZHC) | [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [MF KING](https://open.spotify.com/album/0cjV4JAaqhmIih49MA4M6l) | 2:21 |
 
-Snapshot ID: `MCw3YmViYzM2NWNhYzgyNDg4ODgxOTkwNTgxMjk5MTFhMmM2ODcxNjc1`
+Snapshot ID: `MCxhYjU3YjRmMmVmYTAxZDc4Yjc3ZDAwNDA5ODBlY2E5ZDExOTU5M2Jj`

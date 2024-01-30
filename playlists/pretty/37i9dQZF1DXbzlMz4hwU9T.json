@@ -1,12 +1,12 @@
 {
   "description": "Ser\u00e9 la gata bajo la lluvia... \ud83d\ude3f",
-  "num_followers": 80259,
+  "num_followers": 80347,
   "original_name": "viendo llover desde la ventana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmNlZDFmMzBlYjY4ZmFhNmYxNjQ5Y2M5MjMxNDRkMWY4MmMyY2My",
+  "snapshot_id": "MCw3NDYwMmY1ODI1NTA2NjgwMWEyYjBiYjJiYTY5NzEwYzZmMjcwZDM2",
   "tracks": [
     {
       "added_at": "2024-01-25 15:55:50",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-01-25 15:55:50",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "1979 - Remastered 2012",
-      "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
-    },
-    {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 184027,
       "name": "M.A.I",
       "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
+    },
+    {
+      "added_at": "2024-01-25 15:55:50",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "1979 - Remastered 2012",
+      "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
     },
     {
       "added_at": "2024-01-25 15:55:50",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-01-25 15:55:50",
       "album": {
-        "name": "Arunima",
-        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 228534,
-      "name": "No Es Que No Te Quiera",
-      "url": "https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX"
-    },
-    {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
         "name": "Donde los Ponys Pastan",
         "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 322013,
       "name": "Espiral",
       "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
+    },
+    {
+      "added_at": "2024-01-25 15:55:50",
+      "album": {
+        "name": "Arunima",
+        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "duration_ms": 228534,
+      "name": "No Es Que No Te Quiera",
+      "url": "https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX"
     },
     {
       "added_at": "2024-01-25 15:55:50",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-01-25 15:55:50",
       "album": {
+        "name": "Collected",
+        "url": "https://open.spotify.com/album/1X4zW7kIY8bQHO9gDTsIVh"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        }
+      ],
+      "duration_ms": 312293,
+      "name": "Unfinished Sympathy - Remastered 2006",
+      "url": "https://open.spotify.com/track/10CiC7n8xCJJpbNcBpHsXc"
+    },
+    {
+      "added_at": "2024-01-25 15:55:50",
+      "album": {
         "name": "Fuera Del Cielo",
         "url": "https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 232880,
       "name": "16 De Febrero",
       "url": "https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5"
-    },
-    {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
-        "name": "Collected",
-        "url": "https://open.spotify.com/album/1X4zW7kIY8bQHO9gDTsIVh"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 312293,
-      "name": "Unfinished Sympathy - Remastered 2006",
-      "url": "https://open.spotify.com/track/10CiC7n8xCJJpbNcBpHsXc"
     },
     {
       "added_at": "2024-01-25 15:55:50",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-01-25 15:55:50",
       "album": {
-        "name": "Si No Vas a Ser T\u00fa",
-        "url": "https://open.spotify.com/album/4gaVr59Phf6qtOHIGe12Bk"
-      },
-      "artists": [
-        {
-          "name": "Young Tender",
-          "url": "https://open.spotify.com/artist/19g2jApswUTCNqXFxx2lAx"
-        }
-      ],
-      "duration_ms": 229225,
-      "name": "Si No Vas a Ser T\u00fa",
-      "url": "https://open.spotify.com/track/2vLFK4t0KQwNVQvnjGuMb8"
-    },
-    {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
         "name": "L\u00e1grimas y Lluvia",
         "url": "https://open.spotify.com/album/6g3KpaqhOLhPQ1jWvjm7zc"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 216192,
       "name": "L\u00e1grimas y Lluvia",
       "url": "https://open.spotify.com/track/1C0Na3mjjb5gX3VRjXDgHf"
+    },
+    {
+      "added_at": "2024-01-25 15:55:50",
+      "album": {
+        "name": "Si No Vas a Ser T\u00fa",
+        "url": "https://open.spotify.com/album/4gaVr59Phf6qtOHIGe12Bk"
+      },
+      "artists": [
+        {
+          "name": "Young Tender",
+          "url": "https://open.spotify.com/artist/19g2jApswUTCNqXFxx2lAx"
+        }
+      ],
+      "duration_ms": 229225,
+      "name": "Si No Vas a Ser T\u00fa",
+      "url": "https://open.spotify.com/track/2vLFK4t0KQwNVQvnjGuMb8"
     },
     {
       "added_at": "2024-01-25 15:55:50",

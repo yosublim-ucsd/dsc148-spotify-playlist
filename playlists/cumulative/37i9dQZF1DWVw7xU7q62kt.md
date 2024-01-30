@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-159 songs - 8 hr 43 min
+160 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [stroll](https://open.spotify.com/track/48CXPSMqlczCjqHD3tWKRF) | [Cosmic Wildlife](https://open.spotify.com/artist/01yuxqHdzegJb5Aq4V8gsB) | [stroll](https://open.spotify.com/album/0az5tgCzDGhdWbhUmRTWyT) | 3:31 | 2023-10-13 |  |
 | [Subdivisão](https://open.spotify.com/track/3I5VB6Zfemby4tyyXIHpmP) | [Thomas Asselman](https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU) | [Subdivisão](https://open.spotify.com/album/2WaviSBDrps4BxMTdog2ql) | 2:44 | 2024-01-26 |  |
 | [Sun Drops](https://open.spotify.com/track/329x1AzCPqgaeiYLayRKQt) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Sun Drops](https://open.spotify.com/album/6JhhmF9rjvZ7rIIMqsa91k) | 3:04 | 2023-08-22 |  |
-| [Sun Go Down](https://open.spotify.com/track/67b8oUDiOzfPPN2xDj4G0x) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Sun Go Down](https://open.spotify.com/album/6tGejsu1Row5Qg2MD6fRl3) | 3:12 | 2023-10-13 |  |
+| [Sun Go Down](https://open.spotify.com/track/1M9UnuKIPJd9kVdz45GIML) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Blowout](https://open.spotify.com/album/1PtMyRufUsbQ81yMxXjSym) | 3:12 | 2024-01-26 |  |
+| [Sun Go Down](https://open.spotify.com/track/67b8oUDiOzfPPN2xDj4G0x) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Sun Go Down](https://open.spotify.com/album/6tGejsu1Row5Qg2MD6fRl3) | 3:12 | 2023-10-13 | 2024-01-30 |
 | [Sunflowers \- Instrumental](https://open.spotify.com/track/4QbGLxnTppGc8Ezpj7sPz7) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Instrumentals JID009](https://open.spotify.com/album/1pgEGAlSKQqofycTIjSW4g) | 3:01 | 2023-08-25 |  |
 | [Sunset](https://open.spotify.com/track/5PAQ2JpAOHW8q7u17qqh58) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 3:48 | 2023-10-13 |  |
 | [Superglue](https://open.spotify.com/track/71o5d6HO6CdRW899OkB0e1) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Tool Box](https://open.spotify.com/album/60foAlPlTrG424X5Agh7Yh) | 2:32 | 2023-08-22 |  |

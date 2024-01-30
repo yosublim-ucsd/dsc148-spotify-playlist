@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Skepta, Justin Timberlake, Etta Marcus and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,017 likes - 131 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,994 likes - 131 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 130 | [Holy](https://open.spotify.com/track/0YroIWkKvnQaSGF4PMAR8s) | [Òlah Bliss](https://open.spotify.com/artist/5R3XnMDrp1cUAjbRtc8aOs) | [Holy](https://open.spotify.com/album/0xepR0VYF6d6feDAKKSMJg) | 2:32 |
 | 131 | [Mollyraw](https://open.spotify.com/track/358dNeuLELfexwK2WAzDjp) | [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [Mollyraw](https://open.spotify.com/album/5o4SyYUwVLTkIHFv9hxyu6) | 4:00 |
 
-Snapshot ID: `MCwwMTRmODljMDJmMjQwOWI2MzEwMjNmYjE5MjY4NTEzMmJjODkzZTlh`
+Snapshot ID: `MCwwMTI3ZDEwMmZkOTZlN2QzODE0YTNhYmE0MmYwNzI3NWU3MjYzOWY1`

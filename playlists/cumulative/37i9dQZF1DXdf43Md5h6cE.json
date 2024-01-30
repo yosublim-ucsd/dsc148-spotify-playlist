@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Calmed Souls",
+        "url": "https://open.spotify.com/album/4esJYZ0vRecdJI2UM2o5yR"
+      },
+      "artists": [
+        {
+          "name": "Eural",
+          "url": "https://open.spotify.com/artist/50x43BjaV7dRtBZkdrRNJo"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Calmed Souls",
+      "url": "https://open.spotify.com/track/3Mtii6PX4EVIwhHXKysuBd"
+    },
+    {
+      "album": {
         "name": "Calming Measures",
         "url": "https://open.spotify.com/album/1I4EAT9tMeRya2VeCdABH8"
       },
@@ -3506,6 +3524,24 @@
       "duration_ms": 334949,
       "name": "What a day I",
       "url": "https://open.spotify.com/track/4rCMha9h0PZ3ghhnO2ykim"
+    },
+    {
+      "album": {
+        "name": "Whispering Winds",
+        "url": "https://open.spotify.com/album/4PsYDh0naaW122lBSOJ2d7"
+      },
+      "artists": [
+        {
+          "name": "Enyaq",
+          "url": "https://open.spotify.com/artist/67rg1RV1XGrujzyW4rZfYL"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209971,
+      "name": "Whispering Winds",
+      "url": "https://open.spotify.com/track/4WtOiVV0INe9P4UranCTBy"
     },
     {
       "album": {

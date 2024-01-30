@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,090 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,129 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 29 | [U Groove](https://open.spotify.com/track/25YO08VUVw2ewTg90lNZNt) | [Sean U](https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE) | [U Groove](https://open.spotify.com/album/4pWAAnjOEONxjQ3yo6OuM5) | 4:18 |
 | 30 | [Right on Time](https://open.spotify.com/track/02lpgkBHgom6jlrs39rGDY) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Right on Time](https://open.spotify.com/album/5iSnIAhinFlHf96YvI912l) | 3:40 |
 | 31 | [Magic City Streets](https://open.spotify.com/track/6WG2FanAGtFE6rsB3IvCAV) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Magic City Streets](https://open.spotify.com/album/1zlO5c2oerKojvsCvk6mxm) | 3:40 |
-| 32 | [Can We Talk](https://open.spotify.com/track/621i6kpO5Te1WLiMgnovdQ) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [Can We Talk](https://open.spotify.com/album/2ue7GjPC8MDeflNgril0sq) | 4:10 |
+| 32 | [Can We Talk](https://open.spotify.com/track/0KUWTBINgTBrkrHwj5dEot) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [Can We Talk](https://open.spotify.com/album/4jt3x9S0RBFg5yCvvWCtje) | 4:08 |
 | 33 | [Black Eden](https://open.spotify.com/track/6PPngXfYjNrITbLSllbBhD) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW), [Sir Tim](https://open.spotify.com/artist/1ZVSRE09PJilA3Z7JnUwVR) | [Kalignous](https://open.spotify.com/album/6LG3XGg7O9YV9o9u8RDgpx) | 3:28 |
 | 34 | [Uptop](https://open.spotify.com/track/2dVePyjsLCrWmu6ICDm8cF) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Uptop](https://open.spotify.com/album/0e9CbmyR2qGr4k1vGQYtSv) | 4:20 |
 | 35 | [Love Nwantiti](https://open.spotify.com/track/06lydkzsIHhHmDZCgZKCDJ) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Love Nwantiti](https://open.spotify.com/album/1hAt5XyintKlTCsHBz6HHY) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Mama Smiles](https://open.spotify.com/track/6F0XssVvn2ePxP49sXLPZP) | [Michael Haggins](https://open.spotify.com/artist/6CKmfNuULyn3w1pMMHrHqx) | [Mama Smiles](https://open.spotify.com/album/4UOfNT5ngk0VXXBxSiH7hy) | 4:20 |
 | 100 | [Living in This House](https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX) | [Living in This House](https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP) | 3:54 |
 
-Snapshot ID: `MCxiNmRhMzYwM2VjODNhZjY4MmZhYjEwMDM1NTQ5NGY1MjBjMmEzN2Fi`
+Snapshot ID: `MCw1MzlhNGFmNjhkZjc3MTViMTdmOGQ3MmMzNjk5NDQzNDhlNDg5Yjgw`

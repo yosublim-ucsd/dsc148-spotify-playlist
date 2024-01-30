@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Kungs x David Guetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,073 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,100 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 39 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 |
 | 40 | [J'fais que danser](https://open.spotify.com/track/0SqLN8ZqucYOGZH7SD4HGC) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [J'fais que danser](https://open.spotify.com/album/4w7f8o2ZkjNPBJalSVrh27) | 2:53 |
 
-Snapshot ID: `MCxhNWI4NWQxYTNlNGE4NTE3MTc1YmVjY2YzMDk0NjA3MmNkM2MyMTU5`
+Snapshot ID: `MCxkMTdhMDMyY2RkNjIzOTVmY2QyNjc5ZDQwYzM2ODJjODYwMmI1M2Fi`

@@ -1,12 +1,12 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Arlo Parks",
-  "num_followers": 288287,
+  "num_followers": 288313,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjJlMDk0MjMwMjI4YzhhY2YyZjFmMTYwZDQ1NDAyMTc2ZmFjODgz",
+  "snapshot_id": "MCw1N2E5NDk1OTkyMTg5N2M5ZTNlYzBlZjVjNmNkMzdiZGFjMDhmOTQx",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Nothing Else Matters",
-        "url": "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "The Georgia EP",
         "url": "https://open.spotify.com/album/3stEKyV4hKU1G5yXtmDOaN"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 264160,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/6p8ZhmQS4fia0j93S2M3Fj"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 274506,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "I'm Only Me When I'm With You",
-        "url": "https://open.spotify.com/album/4XxKXwDS8eG7aOw3cF816M"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 247400,
-      "name": "I'm Only Me When I'm With You",
-      "url": "https://open.spotify.com/track/3p5rnKolaN8ap6Ykm0A8AK"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Bad Religion / A Pair Of Brown Eyes",
         "url": "https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 260760,
       "name": "Bad Religion",
       "url": "https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "I'm Only Me When I'm With You",
+        "url": "https://open.spotify.com/album/4XxKXwDS8eG7aOw3cF816M"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 247400,
+      "name": "I'm Only Me When I'm With You",
+      "url": "https://open.spotify.com/track/3p5rnKolaN8ap6Ykm0A8AK"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe"
-      },
-      "artists": [
-        {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
-        }
-      ],
-      "duration_ms": 180093,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Under The Milky Way",
         "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 260101,
       "name": "Under The Milky Way",
       "url": "https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "You're Still The One",
+        "url": "https://open.spotify.com/album/5ZKBjx5wcE0c99n1zXUna4"
+      },
+      "artists": [
+        {
+          "name": "Okay Kaya",
+          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
+        }
+      ],
+      "duration_ms": 164779,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/3P87k30Y8InwhW8Vx9YOZR"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "You're Still The One",
-        "url": "https://open.spotify.com/album/5ZKBjx5wcE0c99n1zXUna4"
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe"
       },
       "artists": [
         {
-          "name": "Okay Kaya",
-          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
         }
       ],
-      "duration_ms": 164779,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/3P87k30Y8InwhW8Vx9YOZR"
+      "duration_ms": 180093,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "On the Road Again",
         "url": "https://open.spotify.com/album/4AcWg6gNuQV2Ulh0yS0Nqt"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 145305,
       "name": "On the Road Again",
       "url": "https://open.spotify.com/track/4QCzw4JAIj6Ythv6GxiI7G"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
     }
   ],
   "unique_name": "Indie Covers",

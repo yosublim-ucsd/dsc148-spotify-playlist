@@ -4,7 +4,7 @@
 
 > Canciones directas y banderas al viento\. Foto: La 25.
 
-182 songs - 12 hr 38 min
+183 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [El Final Es En Donde Partí](https://open.spotify.com/track/5zdazgWuhzFMMtwt5kdeFD) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:36 | 2022-04-01 | 2022-07-29 |
 | [El Golem de Paternal](https://open.spotify.com/track/1i663MaTN7dcRxv2UPKOlu) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Talismán](https://open.spotify.com/album/0x0SVERapfyHHdWgoboteO) | 3:54 | 2022-04-01 | 2022-08-19 |
 | [El Templo de Momo](https://open.spotify.com/track/0v1Y8sDNSPC7FAgdVlDGAQ) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Momo Sampler](https://open.spotify.com/album/4Evme9w1iDX33jAxbhPg48) | 3:21 | 2022-07-08 | 2023-10-06 |
-| [El Viejo](https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [De Bichos Y Flores](https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI) | 3:07 | 2022-04-01 |  |
+| [El Viejo](https://open.spotify.com/track/6kaPz7x24xq420o8dyly3x) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [\#MusicaEnCasa para cocinar](https://open.spotify.com/album/7prmDbc4pNPuJZzswgrxP4) | 3:07 | 2024-01-26 |  |
+| [El Viejo](https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [De Bichos Y Flores](https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI) | 3:07 | 2022-04-01 | 2024-01-30 |
 | [Esta Noche Hay Rock And Roll](https://open.spotify.com/track/4FtGxCVUJw512ROG96pTVA) | [Viticus](https://open.spotify.com/artist/7ncoZ68e892tLhd9EBFGuI) | [Super](https://open.spotify.com/album/3ev3Z7RedMrIFQWy01wld4) | 4:28 | 2022-07-08 | 2022-07-28 |
 | [Esta Saliendo El Sol](https://open.spotify.com/track/2pmHBQiIjVfTyn3p1rRbSB) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 4:08 | 2022-04-01 |  |
 | [Estampita](https://open.spotify.com/track/3vaV6ERdDONqCzXvqxuutE) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Estampita](https://open.spotify.com/album/6Z1DpEiOF3BMj67ZukNgSL) | 4:44 | 2022-04-01 | 2022-08-06 |

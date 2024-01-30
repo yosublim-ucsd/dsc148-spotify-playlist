@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,805 songs - 2 day 20 hr 42 min
+1,806 songs - 2 day 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -617,7 +617,7 @@
 | [Galu](https://open.spotify.com/track/02lQKzdCsP0YeRDRjJunz7) | [Ahe Bane](https://open.spotify.com/artist/3UERyQ4VEbAEy8qfc6OwvU) | [Maulu](https://open.spotify.com/album/6D3JN5dhSXj1YvaBzWL8dW) | 2:03 | 2022-04-15 | 2022-05-27 |
 | [Garden Araki](https://open.spotify.com/track/6aUu7XAvrwqJfOXkG3YLZ1) | [Pat Poker](https://open.spotify.com/artist/6CAC4ia3z2NKbunyFfzEDS) | [Garden Araki](https://open.spotify.com/album/4GrDO1XWWOXoKJ8kwAnyRD) | 2:23 | 2022-04-15 | 2022-09-23 |
 | [Garden Lights](https://open.spotify.com/track/5zSa6ekJG1FQSHPKS0v6c3) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Skengybeatz](https://open.spotify.com/artist/4RKXfmC9klLXN3SzDxmXJ1) | [Garden Lights](https://open.spotify.com/album/5XonElufDXSMydtnchCqtd) | 2:08 | 2022-10-07 | 2023-01-13 |
-| [Gas Guzzling](https://open.spotify.com/track/4S586yJKAg7TtGaA4SOLec) | [Sleepy Titan](https://open.spotify.com/artist/4ehFI3LIUrDNhMXTR1XCdL) | [Gas Guzzling](https://open.spotify.com/album/2pvO8YY1SwXuoyPvGSB0fS) | 2:21 | 2022-12-23 |  |
+| [Gas Guzzling](https://open.spotify.com/track/4S586yJKAg7TtGaA4SOLec) | [Sleepy Titan](https://open.spotify.com/artist/4ehFI3LIUrDNhMXTR1XCdL) | [Gas Guzzling](https://open.spotify.com/album/2pvO8YY1SwXuoyPvGSB0fS) | 2:21 | 2022-12-23 | 2024-01-30 |
 | [Gas Station Oasis](https://open.spotify.com/track/0XSfoUnf7HB5DEd2kIEAZV) | [Lil Gromit](https://open.spotify.com/artist/12R1ZRnrpi0uH9EfmLQ9Pj) | [Gas Station Oasis](https://open.spotify.com/album/2P46J1xI0GgdfTOwnwt4uo) | 2:19 | 2023-03-08 |  |
 | [Gasteria](https://open.spotify.com/track/4eWxdRtALlb44ggdcWVW8K) | [Gaura](https://open.spotify.com/artist/4Zv99UKFFZKDVl2OsQS7Vp) | [Gasteria](https://open.spotify.com/album/0Jhvii8lPj3SsXzxO6GPZG) | 1:21 | 2022-04-15 | 2022-06-25 |
 | [generic](https://open.spotify.com/track/3D1il7pXKNoEOkpIsXv1JO) | [bennya](https://open.spotify.com/artist/5JBnR1eBGJOvshIAGcmPXR), [One Million Flowers](https://open.spotify.com/artist/4wG9asMejSEaInbXHnc3Zm), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [generic](https://open.spotify.com/album/3mgxihXn1zkx4l5tZbsV1L) | 1:25 | 2022-06-10 | 2022-11-19 |
@@ -1100,6 +1100,7 @@
 | [No Way](https://open.spotify.com/track/0sVba9uh8Nu49q6AjERawP) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [No Way](https://open.spotify.com/album/1w7VFffQi2JXgLUljXarHm) | 1:36 | 2023-03-08 |  |
 | [no worriezz](https://open.spotify.com/track/1cOQS9uGWr6LzyeL9f1J4T) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [no worriezz](https://open.spotify.com/album/1EqH35TFaYcbVsqicNh55p) | 2:30 | 2022-07-01 |  |
 | [Non Troppo](https://open.spotify.com/track/5769mk2Z62iRhm0qyIC3kn) | [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Non Troppo](https://open.spotify.com/album/4DneUqwjCEcFMexEmDa9p7) | 2:45 | 2022-07-22 | 2022-08-12 |
+| [Northern Lights](https://open.spotify.com/track/6Nta3FSv5BKjpJD2hkOhDI) | [Nishimura Blaze](https://open.spotify.com/artist/0UkVabqymwYoKqA9FtrTYa) | [Northern Lights](https://open.spotify.com/album/5WLBT0odmOFAoX2i7QeaLu) | 2:07 | 2024-01-19 |  |
 | [Nostalgia](https://open.spotify.com/track/2cqvEdlgsh6UkAbWrLeNsS) | [Flat Ruy](https://open.spotify.com/artist/2nNNlvce8hkNy7Qc8marke) | [Nostalgia](https://open.spotify.com/album/4h5AOoOzuQntV9z4iuSRbS) | 2:44 | 2022-08-05 | 2022-10-29 |
 | [Nostalgia Pt\. 1 \- Beat Edit](https://open.spotify.com/track/1SBIGuG5nlZSA0ujKDcx5o) | [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH), [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [Nostalgia Pt\. 1 \(Beat Edit\)](https://open.spotify.com/album/0NRAkXnNFFStPxA3Orqdb9) | 2:09 | 2022-04-15 | 2022-07-15 |
 | [Nostalgic Noodles](https://open.spotify.com/track/639IKfmKDbCl4mVt02t1Wa) | [Vidstige](https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR) | [Nostalgic Noodles](https://open.spotify.com/album/7wcmvwXKitFGIE9yIPm5Cj) | 1:59 | 2023-09-29 |  |

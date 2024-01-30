@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,366 likes - 120 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,444 likes - 120 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 35 | [Say Cheese](https://open.spotify.com/track/7uJkYfpWvJiiBGsChnk56I) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Say Cheese](https://open.spotify.com/album/1UGN9fmJaWKfTuwmmyaQ3N) | 2:33 |
 | 36 | [Nära](https://open.spotify.com/track/2TG32mRqjRyu3m6HV7mYwk) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Nära](https://open.spotify.com/album/35Bhcus7vIYWZAgQWELT40) | 2:25 |
 | 37 | [L4TS](https://open.spotify.com/track/4y5Rea78b4eqahGEJPYtnZ) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [Lucas Lazaro](https://open.spotify.com/artist/7HHU8MpmWjHZU7trOcXaFW) | [L4TS](https://open.spotify.com/album/3adHWgESLl0nzNJaYqnN8r) | 2:08 |
-| 38 | [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 |
+| 38 | [Head Up](https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp) | 3:09 |
 | 39 | [When I Wake Up](https://open.spotify.com/track/3YDjGm8NogZVxOp9aHA4MZ) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq) | [When I Wake Up](https://open.spotify.com/album/5pTuebKZdnDlMTRhUidinz) | 2:23 |
 | 40 | [1 till](https://open.spotify.com/track/6JLCKLr5uT2LhdVJU63FrB) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [1 till](https://open.spotify.com/album/6xJsQT2Lxsx4rEQWORH1G4) | 2:15 |
 | 41 | [It’s You \(It’s You It’s You It’s You\)](https://open.spotify.com/track/5Glw1OsXYkbjxWTZGBIfF2) | [The Wannadies](https://open.spotify.com/artist/7GBLSeDdlx3gl2cxHvYuOh) | [It’s You \(It’s You It’s You It’s You\)](https://open.spotify.com/album/6nGYlmqX5lijfQkXq9XJ4t) | 3:19 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 119 | [Act A Donkey](https://open.spotify.com/track/25BaRS4eM52MTpYrrtROCz) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Act A Donkey](https://open.spotify.com/album/4LX6VTXQ2g8zGB230yAnPg) | 3:23 |
 | 120 | [Sunglasses at Night](https://open.spotify.com/track/1LiMNzbo4XYzsZ0Odg3OW7) | [Heidi Klum](https://open.spotify.com/artist/7gmNO7Sv6EFNtxJ7JTgeaC) | [Sunglasses at Night](https://open.spotify.com/album/2WL25jOF2CEzuH1D7oJIYM) | 2:50 |
 
-Snapshot ID: `MCxkYTZjNTA2MjZhMzZhNjk4ZDJjMGJjNmMyMWJiZjlmMTVlMDRlNDc1`
+Snapshot ID: `MCw5MDY5ZmIyNmExZmI3OTBiMjFkNDM3YjhlN2Y1ZjhiMTUwNTQ2NzA1`

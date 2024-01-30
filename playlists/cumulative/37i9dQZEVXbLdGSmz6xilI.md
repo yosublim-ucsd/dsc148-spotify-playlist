@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-936 songs - 2 day 6 hr 21 min
+937 songs - 2 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [DUMB DUMB](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) | 2:29 | 2021-08-05 | 2021-08-09 |
 | [Dynamite](https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:19 | 2021-03-27\* | 2021-12-15 |
 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2021-12-15 | 2022-12-29 |
+| [Dám Rực Rỡ](https://open.spotify.com/track/4R7UV2BCJ2bt9hh6jFOgId) | [WeChoice](https://open.spotify.com/artist/083jWNEVYIU5VwPTPaER5D), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Kai Dinh](https://open.spotify.com/artist/4apziP0xAn2FvX7brihATE), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Dám Rực Rỡ](https://open.spotify.com/album/6wTRYzuUxJw4XOsHpzkYo0) | 3:48 | 2024-01-29 |  |
 | [Dáng Xinh](https://open.spotify.com/track/6NAlg9IZh3T3uQVeBtmjo3) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Trungng](https://open.spotify.com/artist/60KOzc3SHHzq8PgKHeXB9z) | [Dáng Xinh](https://open.spotify.com/album/2B3yVLp0Jli0a6e1XaC6BI) | 3:25 | 2021-12-18 | 2021-12-19 |
 | [Dân Chơi Sao Phải Khóc](https://open.spotify.com/track/0dBKcPEAsdxWJsqNDNHcPz) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [Dân Chơi Sao Phải Khóc](https://open.spotify.com/album/3INCvyLfaoojlTWtSLMHDa) | 3:30 | 2024-01-07 |  |
 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1) | 3:53 | 2021-09-18 | 2022-06-09 |
@@ -785,7 +786,7 @@
 | [Tháng Tư Là Lời Nói Dối Của Em](https://open.spotify.com/track/53zusvCJkyGYjEZ6bnLIjh) | [Ha Anh Tuan](https://open.spotify.com/artist/3FwYnbtGNt8hJfjNuOfpeG) | [Fragile](https://open.spotify.com/album/3PqBYrAmvHfO0eVmqMSrcB) | 5:10 | 2023-04-11 | 2023-04-21 |
 | [Thích Em Hơi Nhiều](https://open.spotify.com/track/45Mswno1F7FoZkcmQkp7fi) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu) | [Thích Em Hơi Nhiều](https://open.spotify.com/album/0Xxw1ohJW7S8b3ezJorYHg) | 2:51 | 2021-06-23 | 2024-01-12 |
 | [Thích Em Hơi Nhiều](https://open.spotify.com/track/6H6nbn9RX0zDHFDrkAbLzw) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu) | [Chiều Hôm Ấy Anh Thấy Màu Đỏ](https://open.spotify.com/album/2dgm5O4Mi6BDSRiJ0VtqaC) | 2:51 | 2022-12-10 | 2022-12-21 |
-| [Thích Quá Rùi Nà](https://open.spotify.com/track/4qJSUFwZFouto5VZUlln75) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Thích Quá Rùi Nà](https://open.spotify.com/album/3EJFGb9JNfZq2AlyF9Y96Z) | 2:58 | 2023-09-29 |  |
+| [Thích Quá Rùi Nà](https://open.spotify.com/track/4qJSUFwZFouto5VZUlln75) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Thích Quá Rùi Nà](https://open.spotify.com/album/3EJFGb9JNfZq2AlyF9Y96Z) | 2:58 | 2023-09-29 | 2024-01-30 |
 | [Thích Quá Rùi Nà](https://open.spotify.com/track/6jcG3yZ0e2CSI6omkYO1ut) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Thích Quá Rùi Nà](https://open.spotify.com/album/2Uejuvo8WwGMH3hUe8NGsO) | 2:58 | 2021-03-27\* | 2023-03-04 |
 | [Thói Quen \(25 Mét Vuông\) \[feat\. Gducky\]](https://open.spotify.com/track/1Dyf0sRNi4bns4TeWgKpVY) | [Hoang Dung](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74), [GDucky](https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW) | [Thói Quen \(25 mét vuông\) \[feat\. Gducky\]](https://open.spotify.com/album/4SklM9raXlTECzXLjwTAlR) | 4:39 | 2021-11-26 | 2022-01-24 |
 | [Thôi Em Đừng Đi](https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:53 | 2023-03-04 | 2024-01-22 |

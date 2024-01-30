@@ -1,7 +1,7 @@
 {
-  "2024-01-29": 13273,
+  "2024-01-30": 13386,
   "date_first_scraped": "2022-06-10",
-  "description": "\u3010SATURDAY STAGE \u30bb\u30c3\u30c8\u30ea\u30b9\u30c8\u516c\u958b\u4e2d\uff01\u30112024\u5e741\u670827\u65e5\u30fb28\u65e5\u3001\u65e5\u672c\u6b66\u9053\u9928\u306b\u3066\u958b\u50ac\uff01The official playlist of \"LisAni! LIVE 2024",
+  "description": "\u3010\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8\u516c\u958b\u4e2d\uff01\u30112024\u5e741\u670827\u65e5\u30fb28\u65e5\u3001\u65e5\u672c\u6b66\u9053\u9928\u306b\u3066\u958b\u50ac\uff01The official playlist of \"LisAni! LIVE 2024",
   "name": "\u30ea\u30b9\u30a2\u30cb\uff01LIVE 2024",
   "tracks": [
     {
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-12",
+      "date_removed": null,
       "duration_ms": 274146,
       "name": "adrenaline!!!",
       "url": "https://open.spotify.com/track/10Yk9WbT2840l1NK5RWvkq"
@@ -1686,6 +1686,24 @@
     },
     {
       "album": {
+        "name": "Good Luck Waker",
+        "url": "https://open.spotify.com/album/1LJgTHYnR11wmvCTUBFDwW"
+      },
+      "artists": [
+        {
+          "name": "halca",
+          "url": "https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212813,
+      "name": "Good Luck Waker",
+      "url": "https://open.spotify.com/track/5RAyZHSo1OlSJhDzjm5K42"
+    },
+    {
+      "album": {
         "name": "Good mood",
         "url": "https://open.spotify.com/album/6zvFWzaDQzIr7cQVOOBhTW"
       },
@@ -1812,6 +1830,24 @@
     },
     {
       "album": {
+        "name": "TV Animation \"Sugar Apple Fairy Tale\" 2nd Season Opening Theme Song \"Surprise\"",
+        "url": "https://open.spotify.com/album/6EE5ge21vW9ehRzFfjFNRl"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u601c",
+          "url": "https://open.spotify.com/artist/7pQmC6NNs7KvWfrYKmqPbo"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254733,
+      "name": "Hajimaru",
+      "url": "https://open.spotify.com/track/300QSeetGQx02LfIGzgjMD"
+    },
+    {
+      "album": {
         "name": "TV Animation \"MACROSS DELTA\" VOCAL SONGS COLLECTION \"Walk?re TRAP!\"",
         "url": "https://open.spotify.com/album/0HuVUFY5e2Gp3OlpJHzyWO"
       },
@@ -1917,6 +1953,24 @@
       "duration_ms": 239213,
       "name": "Hide & Attack",
       "url": "https://open.spotify.com/track/5mX8BzqOQ4u1UwrOCztEIc"
+    },
+    {
+      "album": {
+        "name": "TAILWIND",
+        "url": "https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F"
+      },
+      "artists": [
+        {
+          "name": "TrySail",
+          "url": "https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284200,
+      "name": "High Free Spirits",
+      "url": "https://open.spotify.com/track/5YEG7E2bTb59guO3kzR58M"
     },
     {
       "album": {
@@ -2991,7 +3045,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 179419,
       "name": "morning morning",
       "url": "https://open.spotify.com/track/3NloEHbTZxvarJ14ygl1Sr"
@@ -4056,6 +4110,24 @@
     },
     {
       "album": {
+        "name": "Shekira",
+        "url": "https://open.spotify.com/album/6omYirdfRVRWanhMVbCLBM"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262056,
+      "name": "Shekira",
+      "url": "https://open.spotify.com/track/7lmoKU5kY1haRL1N1hiqzE"
+    },
+    {
+      "album": {
         "name": "Shiko",
         "url": "https://open.spotify.com/album/2jXcc6MdtXQYetzqkllveN"
       },
@@ -4344,6 +4416,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 05",
+        "url": "https://open.spotify.com/album/1V2XKud3WLAvGy1NlukjPw"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30c8\u30ec\u30a4\u30e9\u30a4\u30c8",
+          "url": "https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268826,
+      "name": "Start up Stand up",
+      "url": "https://open.spotify.com/track/2opWD3mqnkXvTEh1tjqqV6"
+    },
+    {
+      "album": {
         "name": "Stellar",
         "url": "https://open.spotify.com/album/4CuTdQ8WWl2DCNVkuI7fj0"
       },
@@ -4553,7 +4643,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 265160,
       "name": "Surprise",
       "url": "https://open.spotify.com/track/0fkfWgEkwmdDHms0V1JogP"
@@ -4751,10 +4841,28 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 212533,
       "name": "Timeless Shooting Star",
       "url": "https://open.spotify.com/track/33svvagvZcmKa0GRyo3a4O"
+    },
+    {
+      "album": {
+        "name": "Sing\uff01Shine\uff01Smile\uff01 / \u672a\u6765\u306e\u97f3\u304c\u8074\u3053\u3048\u308b (\u7b2c12\u8a71\u76e4)",
+        "url": "https://open.spotify.com/album/7J38QZOcQfuuZixGxTDYGA"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190950,
+      "name": "TO BE CONTINUED",
+      "url": "https://open.spotify.com/track/0KHF63nvWLEID5ZEzwUKd3"
     },
     {
       "album": {
@@ -4841,7 +4949,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-29",
+      "date_removed": null,
       "duration_ms": 200866,
       "name": "Tracing Defender",
       "url": "https://open.spotify.com/track/1XEU5o0qG4P0pHJeyAW00Q"
@@ -4917,6 +5025,24 @@
       "duration_ms": 207833,
       "name": "TRUE FOOL LOVE",
       "url": "https://open.spotify.com/track/4bjkG6erhuCwOXTSMff7my"
+    },
+    {
+      "album": {
+        "name": "\u604b\u611b\u30df\u30ea\u30d5\u30a3\u30eb\u30e0 (Complete Edition)",
+        "url": "https://open.spotify.com/album/48SVT8S7jkoU0kGISpMr09"
+      },
+      "artists": [
+        {
+          "name": "halca",
+          "url": "https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222946,
+      "name": "TTL",
+      "url": "https://open.spotify.com/track/4NwRPoWzQT0JPGDkF42JBZ"
     },
     {
       "album": {
@@ -5007,6 +5133,24 @@
       "duration_ms": 231360,
       "name": "Univer Page",
       "url": "https://open.spotify.com/track/6ma69bhzrc7UfePktWJrfq"
+    },
+    {
+      "album": {
+        "name": "UNIVERSE!!",
+        "url": "https://open.spotify.com/album/1RK318IO7OR587IF7AnLve"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262325,
+      "name": "UNIVERSE!!",
+      "url": "https://open.spotify.com/track/3KYIfwDTz5vFK6Op5ifWvd"
     },
     {
       "album": {
@@ -5388,6 +5532,24 @@
     },
     {
       "album": {
+        "name": "\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9 \u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d\u300d Music Collection",
+        "url": "https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd"
+      },
+      "artists": [
+        {
+          "name": "TrySail",
+          "url": "https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263573,
+      "name": "\u304b\u304b\u308f\u308a",
+      "url": "https://open.spotify.com/track/7MdTnv03MnwSoNDeADoxgf"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u8718\u86db\u3067\u3059\u304c\u3001\u306a\u306b\u304b?\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u300c\u304c\u3093\u3070\u308c!\u8718\u86db\u5b50\u3055\u3093\u306e\u30c6\u30fc\u30de\u300d",
         "url": "https://open.spotify.com/album/4QRo0XAo5CzhsxV8CgWWog"
       },
@@ -5615,7 +5777,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-12",
+      "date_removed": null,
       "duration_ms": 221123,
       "name": "\u306f\u306a\u308c\u306a\u3044\u8ddd\u96e2",
       "url": "https://open.spotify.com/track/0pFaJy4xKLLb7QeAGUhEDF"
@@ -5937,7 +6099,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 188348,
       "name": "\u30a8\u30fc\u30b9",
       "url": "https://open.spotify.com/track/0inUfiO8xQe8qx76gHW65a"
@@ -6067,6 +6229,24 @@
       "duration_ms": 188600,
       "name": "\u30ad\u30e9\u30ad\u30e9\u3057\u3061\u3083\u3063\u3066 My True Love!",
       "url": "https://open.spotify.com/track/3R7GmHmuDA1hPfmZ5nPrAy"
+    },
+    {
+      "album": {
+        "name": "MIRACLE NEW STORY",
+        "url": "https://open.spotify.com/album/6GZVeBtYYQFdtQTXEcKD2V"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197486,
+      "name": "\u30ad\u30e9\u30fc\u30ad\u30e5\u30fc\u30f3\u2606",
+      "url": "https://open.spotify.com/track/2xevuvQNCjevHHYP2VgDZn"
     },
     {
       "album": {
@@ -6448,6 +6628,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30a4\u30fc\u30c8\u30b5\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/4AEN1kQph1d95G97SKEutw"
+      },
+      "artists": [
+        {
+          "name": "\u5cac \u306a\u3053",
+          "url": "https://open.spotify.com/artist/3b4KP5O2za8H98IxieMJfh"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205237,
+      "name": "\u30b9\u30a4\u30fc\u30c8\u30b5\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/3PSgLRh1Wrk5fqxRDYfnDW"
+    },
+    {
+      "album": {
         "name": "\u30b9\u30bf\u30fc\u30c6\u30a3\u30f3\u30b0\u30d6\u30eb\u30fc",
         "url": "https://open.spotify.com/album/4KYNYzhwjilz8y311wpsD2"
       },
@@ -6463,6 +6661,24 @@
       "duration_ms": 230786,
       "name": "\u30b9\u30bf\u30fc\u30c6\u30a3\u30f3\u30b0\u30d6\u30eb\u30fc",
       "url": "https://open.spotify.com/track/5FgGjF78yyGNdLKsiEI8Sr"
+    },
+    {
+      "album": {
+        "name": "WE WILL!!",
+        "url": "https://open.spotify.com/album/1tOOzv1BUFulpiX5uiKnih"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222189,
+      "name": "\u30b9\u30bf\u30fc\u5ba3\u8a00",
+      "url": "https://open.spotify.com/track/2NXZ1iOG0zV0petFHEc3iG"
     },
     {
       "album": {
@@ -6484,6 +6700,24 @@
     },
     {
       "album": {
+        "name": "Assortrip",
+        "url": "https://open.spotify.com/album/21WfM8C9tr6u7MEZ4eWufZ"
+      },
+      "artists": [
+        {
+          "name": "halca",
+          "url": "https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243960,
+      "name": "\u30bb\u30f3\u30c1\u30e1\u30f3\u30bf\u30eb\u30af\u30e9\u30a4\u30b7\u30b9",
+      "url": "https://open.spotify.com/track/31fN64zoCHnWmFmPVmiVJT"
+    },
+    {
+      "album": {
         "name": "\u30bb\u30f3\u30c1\u30e1\u30f3\u30bf\u30eb\u30af\u30e9\u30a4\u30b7\u30b9",
         "url": "https://open.spotify.com/album/3U5y4KAvnX8qgsjZYkpfvq"
       },
@@ -6499,6 +6733,24 @@
       "duration_ms": 244240,
       "name": "\u30bb\u30f3\u30c1\u30e1\u30f3\u30bf\u30eb\u30af\u30e9\u30a4\u30b7\u30b9",
       "url": "https://open.spotify.com/track/5uuWVQHf6a9tQqyPZTQFQs"
+    },
+    {
+      "album": {
+        "name": "day to YOU",
+        "url": "https://open.spotify.com/album/183oG82yds2ZFswddXOr2y"
+      },
+      "artists": [
+        {
+          "name": "\u5cac \u306a\u3053",
+          "url": "https://open.spotify.com/artist/3b4KP5O2za8H98IxieMJfh"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244769,
+      "name": "\u30bd\u30e9\u30c8\u30ec\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/75cbWH61pd6yN1ZJrPTAW7"
     },
     {
       "album": {
@@ -6875,7 +7127,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 274440,
       "name": "\u30d2\u30ab\u30ea\u8a3c\u660e\u8ad6",
       "url": "https://open.spotify.com/track/1gTilQEziwJYdBHDPfXcX1"
@@ -6915,6 +7167,24 @@
       "duration_ms": 334426,
       "name": "\u30d3\u30d0\u30ca\u30df\u30c0",
       "url": "https://open.spotify.com/track/5TX2HoADxFcAWD1rDz9Ghv"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS FR@GMENT WING 04",
+        "url": "https://open.spotify.com/album/5mmghdMKxtWt5QaAMLqGWQ"
+      },
+      "artists": [
+        {
+          "name": "\u653e\u8ab2\u5f8c\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9\u30ac\u30fc\u30eb\u30ba",
+          "url": "https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235040,
+      "name": "\u30d3\u30fc\u30c1\u30d6\u30ec\u30a4\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/6rHnoHywkJbqXPZvyU3xeM"
     },
     {
       "album": {
@@ -7077,6 +7347,24 @@
       "duration_ms": 264840,
       "name": "\u30da\u30bf\u30eb\u30ba",
       "url": "https://open.spotify.com/track/5haga6r620YjsPrSvGEpxA"
+    },
+    {
+      "album": {
+        "name": "Re Bon Voyage",
+        "url": "https://open.spotify.com/album/0cFsKEvhK04mcktNzfBv8I"
+      },
+      "artists": [
+        {
+          "name": "TrySail",
+          "url": "https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217586,
+      "name": "\u30de\u30a4\u30cf\u30fc\u30c8\u30ea\u30d0\u30a4\u30d0\u30eb",
+      "url": "https://open.spotify.com/track/2W5gFliehqCrXVsmVcswHK"
     },
     {
       "album": {
@@ -7462,6 +7750,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 04",
+        "url": "https://open.spotify.com/album/1VZnwWtBpDyVT0IWV4IV57"
+      },
+      "artists": [
+        {
+          "name": "\u653e\u8ab2\u5f8c\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9\u30ac\u30fc\u30eb\u30ba",
+          "url": "https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238986,
+      "name": "\u4e94\u30c4\u5ea7\u6d41\u661f\u7fa4",
+      "url": "https://open.spotify.com/track/4HR0875EE4qjzED6rcNJYr"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u30b9\u30ed\u30fc\u30eb\u30fc\u30d7\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de \u3084\u3058\u308b\u3057\u2192(\u30a4\u30aa\u30f3\u76e4)",
         "url": "https://open.spotify.com/album/5z2xF0EIG5ZyeHSYn4l8ul"
       },
@@ -7491,7 +7797,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 238493,
       "name": "\u5149\u306e\u3042\u308a\u304b",
       "url": "https://open.spotify.com/track/4nzXq00j8m2VHAcvr7tW5Q"
@@ -7822,6 +8128,24 @@
     },
     {
       "album": {
+        "name": "\u8ff7\u8de1\u6ce2",
+        "url": "https://open.spotify.com/album/6GBBqk1v5okNnioUXqMi7D"
+      },
+      "artists": [
+        {
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189586,
+      "name": "\u58f1\u96eb\u7a7a",
+      "url": "https://open.spotify.com/track/1OVlUHWAK5KwWkWoLyMDjZ"
+    },
+    {
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/2YDWnU26RfvpkuV8Y1IFG6"
       },
@@ -7891,6 +8215,24 @@
       "duration_ms": 327167,
       "name": "\u592a\u967d\u306f\u591c\u3082\u8f1d\u304f",
       "url": "https://open.spotify.com/track/4gTqkjp6ItiOwNTr5sqirn"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS BRILLI@NT WING 04 \u5922\u54b2\u304dAfter school",
+        "url": "https://open.spotify.com/album/7nbtHmpCxyd61CvO3DstSu"
+      },
+      "artists": [
+        {
+          "name": "\u653e\u8ab2\u5f8c\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9\u30ac\u30fc\u30eb\u30ba",
+          "url": "https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291520,
+      "name": "\u592a\u967d\u30ad\u30c3\u30b9",
+      "url": "https://open.spotify.com/track/7zHBye4FWEI3W6u3rqm39M"
     },
     {
       "album": {
@@ -8074,6 +8416,24 @@
     },
     {
       "album": {
+        "name": "\u8ff7\u8de1\u6ce2",
+        "url": "https://open.spotify.com/album/6GBBqk1v5okNnioUXqMi7D"
+      },
+      "artists": [
+        {
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209453,
+      "name": "\u5f71\u8272\u821e",
+      "url": "https://open.spotify.com/track/6MC5NKWAONf1YmNTEfom7I"
+    },
+    {
+      "album": {
         "name": "\u3046\u308b\u661f\u3084\u3064\u3089 SONG BOOK",
         "url": "https://open.spotify.com/album/3yuzNoBWSb7woGw28pDbvT"
       },
@@ -8143,6 +8503,24 @@
       "duration_ms": 255040,
       "name": "\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/7l3eyDvvjQxLI5ChGGnkgB"
+    },
+    {
+      "album": {
+        "name": "\u604b\u611b\u30df\u30ea\u30d5\u30a3\u30eb\u30e0",
+        "url": "https://open.spotify.com/album/2KrmynsmgJbJLLOuAOn1fM"
+      },
+      "artists": [
+        {
+          "name": "halca",
+          "url": "https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207586,
+      "name": "\u604b\u611b\u30df\u30ea\u30d5\u30a3\u30eb\u30e0",
+      "url": "https://open.spotify.com/track/19BFUoZ7NSxD1toOmGRh6L"
     },
     {
       "album": {
@@ -8522,6 +8900,24 @@
     },
     {
       "album": {
+        "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272653,
+      "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/0ga108tnC9yVAWiH3mCsO0"
+    },
+    {
+      "album": {
         "name": "\u6d41\u661f / \u7d04\u675f",
         "url": "https://open.spotify.com/album/4wrLAS2If2XoK2MURPJ2SG"
       },
@@ -8864,6 +9260,24 @@
     },
     {
       "album": {
+        "name": "\u8ff7\u8de1\u6ce2",
+        "url": "https://open.spotify.com/album/6GBBqk1v5okNnioUXqMi7D"
+      },
+      "artists": [
+        {
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218866,
+      "name": "\u78a7\u5929\u4f34\u8d70",
+      "url": "https://open.spotify.com/track/2fONHmoAIfMMklC7P9d6d1"
+    },
+    {
+      "album": {
         "name": "\u79c1\u304c\u7b11\u3046\u7406\u7531\u306f",
         "url": "https://open.spotify.com/album/7GWhPysWd4KgTFpJTVO3tl"
       },
@@ -9059,7 +9473,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 263613,
       "name": "\u83ef\u9e97\u30ef\u30f3\u30bf\u30fc\u30f3",
       "url": "https://open.spotify.com/track/3E7PYVYZ5YfmeJpzEv4PYf"
@@ -9161,7 +9575,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 268386,
       "name": "\u8ab0\u5f7c\u30b9\u30af\u30e9\u30f3\u30d6\u30eb",
       "url": "https://open.spotify.com/track/0psSjxGt2lNnWYhZLLqBT6"
@@ -9237,6 +9651,24 @@
       "duration_ms": 263542,
       "name": "\u8f1d\u3051\u308b\u661f",
       "url": "https://open.spotify.com/track/1cKleXdDDuXJBsXbbQp5ls"
+    },
+    {
+      "album": {
+        "name": "\u8ff7\u8de1\u6ce2",
+        "url": "https://open.spotify.com/album/6GBBqk1v5okNnioUXqMi7D"
+      },
+      "artists": [
+        {
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211373,
+      "name": "\u8ff7\u661f\u53eb",
+      "url": "https://open.spotify.com/track/5whZaLwjyjkLr75rRtmftL"
     },
     {
       "album": {
@@ -9515,6 +9947,24 @@
       "duration_ms": 239920,
       "name": "\u9769\u547d\u30c7\u30e5\u30a2\u30ea\u30ba\u30e0",
       "url": "https://open.spotify.com/track/3xIGFgJm8Pzn24dbhcd9vD"
+    },
+    {
+      "album": {
+        "name": "\u97f3\u4e00\u4f1a",
+        "url": "https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN"
+      },
+      "artists": [
+        {
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282013,
+      "name": "\u97f3\u4e00\u4f1a",
+      "url": "https://open.spotify.com/track/2wjXoHFoZAPgSsyXMogQQa"
     },
     {
       "album": {

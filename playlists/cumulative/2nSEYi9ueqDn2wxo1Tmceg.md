@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-757 songs - 2 day 3 hr 50 min
+758 songs - 2 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,6 +509,7 @@
 | [Outhouse 2023](https://open.spotify.com/track/1jTbzu70Z7eJAWGvYxR0Zy) | [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG) | [Outhouse 2023](https://open.spotify.com/album/1bMtz3A47MlgzYK3iF2GTl) | 5:58 | 2023-11-15 | 2024-01-04 |
 | [Pad](https://open.spotify.com/track/2Wa7vAGPiBI6FZ24YBY727) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Pad](https://open.spotify.com/album/7GRrY0vi5nC0tSKOK3LrOk) | 2:46 | 2022-08-10 | 2022-09-22 |
 | [Palace In My Head](https://open.spotify.com/track/3XXUa6zYeJ7l53goVtH73x) | [Jaakko Eino Kalevi](https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3), [Alma Jodorowsky](https://open.spotify.com/artist/4DBszooKyAkibrGnhMxKqr) | [Palace In My Head](https://open.spotify.com/album/2BE3sN6vEDb9OIVarVMZZH) | 3:34 | 2023-09-12 | 2023-11-09 |
+| [Palace In My Head \- Fred Falke Remix](https://open.spotify.com/track/6NLXQtGnssNEpZMa35juxf) | [Jaakko Eino Kalevi](https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3), [Alma Jodorowsky](https://open.spotify.com/artist/4DBszooKyAkibrGnhMxKqr), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Palace In My Head \(Fred Falke Remix\)](https://open.spotify.com/album/0KmmDNX9lSTwfCoR5ahkvU) | 5:10 | 2024-01-29 |  |
 | [Paradise](https://open.spotify.com/track/7Mcpr4dcL5FIrLQkAl2ThC) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Paradise](https://open.spotify.com/album/5nLHY1doRZ0jVRcRcU8NOw) | 3:39 | 2023-07-05 | 2023-08-31 |
 | [Parody](https://open.spotify.com/track/4oWHRC1mCSSJhNv3YoUlBc) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Praise A Lord Who Chews But Which Does Not Consume; \(Or Simply, Hot Between Worlds\)](https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC) | 3:06 | 2023-03-22 | 2023-05-04 |
 | [Passed Tense](https://open.spotify.com/track/2uUAW6qgya8keByF9mh3ui) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Passed Tense](https://open.spotify.com/album/5lbiP1DLW9DrB5BB3dH3x9) | 4:01 | 2022-08-31 | 2022-10-13 |

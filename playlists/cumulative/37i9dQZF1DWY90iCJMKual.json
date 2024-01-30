@@ -291,6 +291,28 @@
     },
     {
       "album": {
+        "name": "Babaero",
+        "url": "https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO"
+      },
+      "artists": [
+        {
+          "name": "gins&melodies",
+          "url": "https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK"
+        },
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175396,
+      "name": "Babaero",
+      "url": "https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP"
+    },
+    {
+      "album": {
         "name": "Babalik Ba",
         "url": "https://open.spotify.com/album/2tbiWn0aGNRWJm5aYhz6DA"
       },
@@ -654,7 +676,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 176307,
       "name": "Dare You",
       "url": "https://open.spotify.com/track/2HLCZ1OJCd3uRd5o5btDNW"

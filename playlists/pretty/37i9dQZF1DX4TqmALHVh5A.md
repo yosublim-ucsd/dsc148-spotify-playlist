@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Lescop
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,896 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,898 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [My Way \(with Creams\)](https://open.spotify.com/track/5WvApuKcoXZL1FinExKsRq) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [My Way \(with Creams\)](https://open.spotify.com/album/1oWzOh4biDkSnj0ZITjuYo) | 3:14 |
 | 50 | [Adios](https://open.spotify.com/track/1hKbnXEH8nAJlVpG9mtadI) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy), [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [Adios](https://open.spotify.com/album/68HnsbMad7vqV3qg7a9NPY) | 3:20 |
 
-Snapshot ID: `MCxmMTJmOTc4NDU0MTdhZTA5MzE2MDYzMmM2YjBhNGQxYmRiZWVmNzlm`
+Snapshot ID: `MCwxNDRmODE5MTc1NTc0MzJlMmI5Nzk5NmExMjBiNWQ1N2FmOTA3MjQ2`

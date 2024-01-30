@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo: Hamza x Kaaris
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,072,749 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,072,887 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 39 | [Drifté](https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/573smzehvvzd4Nl5QoW1MW) | 2:40 |
 | 40 | [On est prêt](https://open.spotify.com/track/3roPtG7hZaqEqbJIqt412J) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [On est prêt](https://open.spotify.com/album/1jpee0EIds7Jp7evzNdmrW) | 2:46 |
 
-Snapshot ID: `MCw5ZTc2MTFiNGNmNmZkZTE0ZWYwODZjNjA3MzcxMzViY2Q2ZTE2Nzc3`
+Snapshot ID: `MCxkYjAwNzA3ZWRjZDQ3ODE5NTJjM2UzNTNhZmE1MDhjZDMyNTk2Nzk5`

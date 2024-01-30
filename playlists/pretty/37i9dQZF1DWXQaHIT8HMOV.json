@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Joshua Baraka",
-  "num_followers": 1933,
+  "num_followers": 1934,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWM1MDQ4MTAwYjFmMzhmNjhkNTdhOThkOGFkYmM2Y2JkMjNlNzg3",
+  "snapshot_id": "MCxmZDc3YjE4Y2IwMWEwNWU5NzRkNzhlNTg4NzFkODE4MzZmZjNmZjky",
   "tracks": [
     {
       "added_at": "2024-01-19 04:47:55",
@@ -151,46 +151,6 @@
     {
       "added_at": "2024-01-19 04:47:55",
       "album": {
-        "name": "Bedroom Essentials",
-        "url": "https://open.spotify.com/album/1UNHyhwVrEpDXadpnPQeF4"
-      },
-      "artists": [
-        {
-          "name": "Elijah Kitaka",
-          "url": "https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6"
-        },
-        {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Tutu Mama",
-      "url": "https://open.spotify.com/track/3J12BNX50z4OsGpmihm4LG"
-    },
-    {
-      "added_at": "2024-01-19 04:47:55",
-      "album": {
-        "name": "Mufaliso",
-        "url": "https://open.spotify.com/album/3KBtyfdRMk6CwwE1hp9ek6"
-      },
-      "artists": [
-        {
-          "name": "Hatim and Dokey",
-          "url": "https://open.spotify.com/artist/5Ei5mLhGXCY5Js2qznqUVJ"
-        },
-        {
-          "name": "Kodish",
-          "url": "https://open.spotify.com/artist/14Qge9gMzt7IBs6MsRhN2X"
-        }
-      ],
-      "duration_ms": 221935,
-      "name": "Mufaliso",
-      "url": "https://open.spotify.com/track/26Li04nrV5DfJUEWKkYYo6"
-    },
-    {
-      "added_at": "2024-01-19 04:47:55",
-      "album": {
         "name": "NANA (feat. Joeboy, King Promise & BIEN) [Remix]",
         "url": "https://open.spotify.com/album/6wJBlGByE21Q8v3Q3YiGs0"
       },
@@ -215,6 +175,46 @@
       "duration_ms": 199190,
       "name": "NANA - Remix",
       "url": "https://open.spotify.com/track/7opZfbxpDVfytlGZ8AgDQL"
+    },
+    {
+      "added_at": "2024-01-19 04:47:55",
+      "album": {
+        "name": "Mufaliso",
+        "url": "https://open.spotify.com/album/3KBtyfdRMk6CwwE1hp9ek6"
+      },
+      "artists": [
+        {
+          "name": "Hatim and Dokey",
+          "url": "https://open.spotify.com/artist/5Ei5mLhGXCY5Js2qznqUVJ"
+        },
+        {
+          "name": "Kodish",
+          "url": "https://open.spotify.com/artist/14Qge9gMzt7IBs6MsRhN2X"
+        }
+      ],
+      "duration_ms": 221935,
+      "name": "Mufaliso",
+      "url": "https://open.spotify.com/track/26Li04nrV5DfJUEWKkYYo6"
+    },
+    {
+      "added_at": "2024-01-19 04:47:55",
+      "album": {
+        "name": "Bedroom Essentials",
+        "url": "https://open.spotify.com/album/1UNHyhwVrEpDXadpnPQeF4"
+      },
+      "artists": [
+        {
+          "name": "Elijah Kitaka",
+          "url": "https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6"
+        },
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Tutu Mama",
+      "url": "https://open.spotify.com/track/3J12BNX50z4OsGpmihm4LG"
     },
     {
       "added_at": "2024-01-19 04:47:55",
@@ -355,26 +355,6 @@
     {
       "added_at": "2024-01-19 04:47:55",
       "album": {
-        "name": "Cinderella",
-        "url": "https://open.spotify.com/album/2zWi7EGBKMpwU8VDLib9r2"
-      },
-      "artists": [
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        },
-        {
-          "name": "An-Known",
-          "url": "https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ"
-        }
-      ],
-      "duration_ms": 227027,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/4HUfDL3FITibpGatbGUw6f"
-    },
-    {
-      "added_at": "2024-01-19 04:47:55",
-      "album": {
         "name": "AFRICAN MUSIC",
         "url": "https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E"
       },
@@ -395,6 +375,26 @@
     {
       "added_at": "2024-01-19 04:47:55",
       "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/2zWi7EGBKMpwU8VDLib9r2"
+      },
+      "artists": [
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        },
+        {
+          "name": "An-Known",
+          "url": "https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ"
+        }
+      ],
+      "duration_ms": 227027,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/4HUfDL3FITibpGatbGUw6f"
+    },
+    {
+      "added_at": "2024-01-19 04:47:55",
+      "album": {
         "name": "Sembera",
         "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
       },
@@ -407,22 +407,6 @@
       "duration_ms": 208988,
       "name": "Sembera",
       "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
-    },
-    {
-      "added_at": "2024-01-19 04:47:55",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 186382,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM"
     },
     {
       "added_at": "2024-01-19 04:47:55",
@@ -443,6 +427,22 @@
       "duration_ms": 155007,
       "name": "Biwamiel",
       "url": "https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er"
+    },
+    {
+      "added_at": "2024-01-19 04:47:55",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 186382,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM"
     },
     {
       "added_at": "2024-01-19 04:47:55",
@@ -507,26 +507,6 @@
     {
       "added_at": "2024-01-19 04:47:55",
       "album": {
-        "name": "Omukwano (Love)",
-        "url": "https://open.spotify.com/album/1DvxeF75SryYMeYsarF6NN"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Winnie Nwagi",
-          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
-        }
-      ],
-      "duration_ms": 183673,
-      "name": "Omukwano (Love)",
-      "url": "https://open.spotify.com/track/0OwVXpiH4Mikje2le0NQrG"
-    },
-    {
-      "added_at": "2024-01-19 04:47:55",
-      "album": {
         "name": "Omwana",
         "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 180172,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
+    },
+    {
+      "added_at": "2024-01-19 04:47:55",
+      "album": {
+        "name": "Omukwano (Love)",
+        "url": "https://open.spotify.com/album/1DvxeF75SryYMeYsarF6NN"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Winnie Nwagi",
+          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
+        }
+      ],
+      "duration_ms": 183673,
+      "name": "Omukwano (Love)",
+      "url": "https://open.spotify.com/track/0OwVXpiH4Mikje2le0NQrG"
     },
     {
       "added_at": "2024-01-19 04:47:55",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-01-19 04:47:55",
       "album": {
+        "name": "Omwenge",
+        "url": "https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "duration_ms": 225985,
+      "name": "Omwenge",
+      "url": "https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn"
+    },
+    {
+      "added_at": "2024-01-19 04:47:55",
+      "album": {
         "name": "CHERRY SWEET",
         "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
       },
@@ -635,18 +651,18 @@
     {
       "added_at": "2024-01-19 04:47:55",
       "album": {
-        "name": "Omwenge",
-        "url": "https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT"
+        "name": "Bitimba",
+        "url": "https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5"
       },
       "artists": [
         {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
         }
       ],
-      "duration_ms": 225985,
-      "name": "Omwenge",
-      "url": "https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn"
+      "duration_ms": 147590,
+      "name": "Bitimba",
+      "url": "https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K"
     },
     {
       "added_at": "2024-01-19 04:47:55",
@@ -663,22 +679,6 @@
       "duration_ms": 187200,
       "name": "Nkwata Bulungi (Bailamos)",
       "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
-    },
-    {
-      "added_at": "2024-01-19 04:47:55",
-      "album": {
-        "name": "Bitimba",
-        "url": "https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5"
-      },
-      "artists": [
-        {
-          "name": "Pia Pounds",
-          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
-        }
-      ],
-      "duration_ms": 147590,
-      "name": "Bitimba",
-      "url": "https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K"
     },
     {
       "added_at": "2024-01-19 04:47:55",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-01-19 04:47:55",
       "album": {
-        "name": "SANKOFA",
-        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
-      },
-      "artists": [
-        {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Lucky Day",
-      "url": "https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el"
-    },
-    {
-      "added_at": "2024-01-19 04:47:55",
-      "album": {
         "name": "Gukuba",
         "url": "https://open.spotify.com/album/2sGJOLxu38C9Fzin1iwB8z"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2024-01-19 04:47:55",
       "album": {
+        "name": "SANKOFA",
+        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "Lucky Day",
+      "url": "https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el"
+    },
+    {
+      "added_at": "2024-01-19 04:47:55",
+      "album": {
         "name": "Chai Mata",
         "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 165015,
       "name": "Chai We Njaye",
       "url": "https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m"
+    },
+    {
+      "added_at": "2024-01-19 04:47:55",
+      "album": {
+        "name": "Tutamire",
+        "url": "https://open.spotify.com/album/5F3Ahu2jSh25zW4YGm9qQ1"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        }
+      ],
+      "duration_ms": 175072,
+      "name": "Tutamire",
+      "url": "https://open.spotify.com/track/63l4eF30bX8vVTcRSuoBIc"
     },
     {
       "added_at": "2024-01-19 04:47:55",
@@ -907,42 +923,6 @@
     {
       "added_at": "2024-01-19 04:47:55",
       "album": {
-        "name": "Tutamire",
-        "url": "https://open.spotify.com/album/5F3Ahu2jSh25zW4YGm9qQ1"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        }
-      ],
-      "duration_ms": 175072,
-      "name": "Tutamire",
-      "url": "https://open.spotify.com/track/63l4eF30bX8vVTcRSuoBIc"
-    },
-    {
-      "added_at": "2024-01-19 04:47:55",
-      "album": {
-        "name": "Ekyama",
-        "url": "https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0"
-      },
-      "artists": [
-        {
-          "name": "Jozzi Uganda",
-          "url": "https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3"
-        },
-        {
-          "name": "Will84",
-          "url": "https://open.spotify.com/artist/1BeeJoeMWmKFM93rL0fF09"
-        }
-      ],
-      "duration_ms": 217021,
-      "name": "Ekyama",
-      "url": "https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf"
-    },
-    {
-      "added_at": "2024-01-19 04:47:55",
-      "album": {
         "name": "Nwanilaako",
         "url": "https://open.spotify.com/album/37hfU05WeAHrchmEGW5O40"
       },
@@ -955,6 +935,22 @@
       "duration_ms": 194455,
       "name": "Nwanilaako",
       "url": "https://open.spotify.com/track/3LqicxLoiOglpMim5kwit2"
+    },
+    {
+      "added_at": "2024-01-19 04:47:55",
+      "album": {
+        "name": "Binkolele",
+        "url": "https://open.spotify.com/album/6MfNYhFnajErRuvwzRBC8w"
+      },
+      "artists": [
+        {
+          "name": "Kataleya & Kandle",
+          "url": "https://open.spotify.com/artist/1a93I0beev2mbujNJiNuA4"
+        }
+      ],
+      "duration_ms": 191211,
+      "name": "Binkolele",
+      "url": "https://open.spotify.com/track/0zDT3yAXoFiBn0gcj91uaJ"
     }
   ],
   "unique_name": "Made In Uganda",

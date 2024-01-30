@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 416247,
+  "2024-01-30": 416197,
   "date_first_scraped": "2021-12-21",
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Randall King",
   "name": "Texas Country Now",
@@ -5280,6 +5280,32 @@
     },
     {
       "album": {
+        "name": "Kick A Little",
+        "url": "https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb"
+      },
+      "artists": [
+        {
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+        },
+        {
+          "name": "Rodney Carrington",
+          "url": "https://open.spotify.com/artist/7xsMZdxw6eEJXGTLZulONO"
+        },
+        {
+          "name": "David Adam Byrnes",
+          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227175,
+      "name": "Kick A Little",
+      "url": "https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL"
+    },
+    {
+      "album": {
         "name": "Know That by Now",
         "url": "https://open.spotify.com/album/6tZ6olAlfKCuB3ZWr741LC"
       },
@@ -6479,7 +6505,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 204715,
       "name": "OK Cowboy",
       "url": "https://open.spotify.com/track/01lARb2d5zmKIVUaHjSfZM"
@@ -7306,6 +7332,24 @@
     },
     {
       "album": {
+        "name": "Richmond County Line",
+        "url": "https://open.spotify.com/album/5AFTEWjgI1kLPfdoHEauOR"
+      },
+      "artists": [
+        {
+          "name": "Wade Forster",
+          "url": "https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Richmond County Line",
+      "url": "https://open.spotify.com/track/1qdlie6Hb1wzHTOyWJ4WBY"
+    },
+    {
+      "album": {
         "name": "Ride the Lightning (717 Tapes)",
         "url": "https://open.spotify.com/album/5rPnLz5tuUOuWfh69TOwNP"
       },
@@ -7563,7 +7607,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 174327,
       "name": "Settle for a Beer (with Triston Marez)",
       "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"

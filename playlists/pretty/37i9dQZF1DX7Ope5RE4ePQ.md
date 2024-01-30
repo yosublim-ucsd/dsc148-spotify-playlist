@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ope5RE4ePQ.md) - [plain]
 
 > masquerades, moonlit encounters, and locking eyes across the ballroom
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,232 likes - 75 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,446 likes - 75 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ope5RE4ePQ.md) - [plain]
 | 33 | [Pinocchio: XIII\. La bаrса di Geppetto sulle onde](https://open.spotify.com/track/20wxVMGnzJyATpypS1vlFE) | [Alexander Litvinovsky](https://open.spotify.com/artist/28yzshAIS5oCBCAhVR5vpJ), [Metamorphose String Orchestra](https://open.spotify.com/artist/4G2W8xOZ8D0KRJX4GIETWe), [Pavel Lyubomudrov](https://open.spotify.com/artist/2P4DEqPDDyGY3cHfEWkRIE), [Anna Ignatova](https://open.spotify.com/artist/6MSaQGQXwB6tX56VIMbwfm) | [Pinocchio: XIII\. La bаrса di Geppetto sulle onde](https://open.spotify.com/album/2MDntUdIyLdP8SBFSxu9t4) | 2:44 |
 | 34 | [Après un rêve, Op\. 7, No\. 1 \(Arr\. Piano\)](https://open.spotify.com/track/0d71p8tQDxLgdTkEHcxQyl) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Alan Feinberg](https://open.spotify.com/artist/7cTvdUU1BZYBATq6QdfZO6) | [The American Virtuoso](https://open.spotify.com/album/0vdIwOj00vVbRNxi70rurD) | 3:18 |
 | 35 | [Chopin: Nocturne No\. 2 \- slowed + reverb](https://open.spotify.com/track/1sO9ZsvKbRQLEcGhnGb5OY) | [Classical Slowed + Reverb](https://open.spotify.com/artist/5KXpXnDelYc8HLAAVbtIzk) | [Chopin: Nocturne No\. 2 \- slowed + reverb](https://open.spotify.com/album/3WjeRoeEvnuUaCZcZ27f3W) | 7:18 |
-| 36 | [Fantasia in D Minor, K\. 397](https://open.spotify.com/track/7IHEJdJhju1F2rhIiwgawx) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Mozart: Piano Sonatas K.310, K.311 & K.533/494](https://open.spotify.com/album/37qHlAzBNRI9UahnOI9lvr) | 5:16 |
+| 36 | [Mozart: Fantasia in D Minor, K\. 397](https://open.spotify.com/track/1O0XZAJf8fIN7wRgXffL0P) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Mozart](https://open.spotify.com/album/2xetV0B6kIvioqH52Q6JFW) | 5:19 |
 | 37 | [Liebestraum No\. 3 in A\-Flat Major, S\. 541 / 3](https://open.spotify.com/track/2u9VGZmVz7Rm01SfDgzcfA) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Liszt \- My Piano Hero](https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu) | 4:53 |
 | 38 | [Kingdom Dance \- From "Tangled"/Score](https://open.spotify.com/track/0jkGkwy510cvhy0jYPFme4) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 2:20 |
 | 39 | [Clocks](https://open.spotify.com/track/6dfdNTuLOK8eFusN8HaQg8) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [Clocks](https://open.spotify.com/album/15WhEso6vgnXIhHZNIn5eJ) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ope5RE4ePQ.md) - [plain]
 | 74 | [Vocalise, Op\. 34, No\. 14](https://open.spotify.com/track/56uWqDzSqIMbdi3ItnG481) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Nikolaj Znaider](https://open.spotify.com/artist/34bsUBJpRrFZQRZ15hYqMV) | [Bravo! Virtuoso And Romantic Encores For Violin](https://open.spotify.com/album/1QoCZzbSlfjhyRpEBxOKT4) | 4:50 |
 | 75 | [Run](https://open.spotify.com/track/7yUukIX492jvLR85xYQkvc) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:32 |
 
-Snapshot ID: `MCw3ZGUyYmQ2YmE1NTc2ZWYyMjFkNDE5ZDk4MzQzNzE0ZjU4NThkNWMx`
+Snapshot ID: `MCwwOWUxOTU5NjllYjM5YWU4NTNlYjViZWMxNTk2YzExMjJkNGVlMTBi`

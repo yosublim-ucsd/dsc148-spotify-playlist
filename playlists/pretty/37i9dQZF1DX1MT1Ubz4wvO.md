@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Vivir Quintana & Andrea Echeverri en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,683 likes - 49 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,681 likes - 49 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 48 | [Pálida](https://open.spotify.com/track/1v8rkd3pR6Yep9fmdtMGw9) | [Mute](https://open.spotify.com/artist/74pPZbzQHcOt9PuvlFQeCJ) | [Pálida](https://open.spotify.com/album/1V7tcZFpaKWbWlmWp4tmLY) | 2:44 |
 | 49 | [Me Cansé](https://open.spotify.com/track/6fbEx1uVW5uLzeUdfcgZ2Z) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Me Cansé](https://open.spotify.com/album/5E5NaXKPK3LZTLkOtL5USb) | 3:19 |
 
-Snapshot ID: `MCxlMjQ2YzY2YTZiMDI0Mzg2NzUxM2M1YTY3OWE0MmVkOWRiOTcxMTc1`
+Snapshot ID: `MCwyYTU3ODY4NzA4MThiYTFkMjJjNTIyNTIzMzk0M2RmNjdjYmZjYzNm`

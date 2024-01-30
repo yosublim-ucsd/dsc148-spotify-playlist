@@ -119,6 +119,28 @@
     },
     {
       "album": {
+        "name": "Boulanger, Faur\u00e9, Hahn",
+        "url": "https://open.spotify.com/album/052Bj8bzdrcLnmhGoaeuyD"
+      },
+      "artists": [
+        {
+          "name": "Reynaldo Hahn",
+          "url": "https://open.spotify.com/artist/6Eu8djOGFxGaykaqJlbzEf"
+        },
+        {
+          "name": "William Youn",
+          "url": "https://open.spotify.com/artist/7uWSy5aRJy75BSKdpYbp2R"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180426,
+      "name": "A Chloris in E Major (Arr. for Piano by William Youn)",
+      "url": "https://open.spotify.com/track/6eIUmf25GrdAyFzKVvTlhm"
+    },
+    {
+      "album": {
         "name": "A Winter Interlude (After Schubert)",
         "url": "https://open.spotify.com/album/3ulwdi8ksAyXlPpljgE8Be"
       },

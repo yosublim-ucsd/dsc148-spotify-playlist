@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pYgLUl85GP.md) - [plain]
 
 > El Top 50 de canciones en Instagram Reels, actualizado cada semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,802 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,781 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pYgLUl85GP.md) - [plain]
 | 47 | [Christmas Vibes](https://open.spotify.com/track/6Wut5M7Af14UTbT3nKde1M) | [Crazy Fox](https://open.spotify.com/artist/0Zzs6tTHRHMXV4otAYXaK0) | [Christmas Vibes](https://open.spotify.com/album/5Bj7r0zDc5JgCfZXXR8zb9) | 1:13 |
 | 48 | [Magical Fantasy](https://open.spotify.com/track/7HJv3cUOGwU1I2EDWYUCdS) | [Dmitriy Sevostyanov](https://open.spotify.com/artist/2EjhIBhwDZiastNGvRR0iN) | [Magical Fantasy](https://open.spotify.com/album/2DuvGdw9GE5lL2cRul3Rk2) | 2:08 |
 | 49 | [Tiempo](https://open.spotify.com/track/0roHxvWUsTnrKQDTXKXGwZ) | [Tony Dark Eyes](https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP), [Sofia Rød](https://open.spotify.com/artist/1DKDOfgZ1sBbOQwXfPKOHN) | [Tiempo](https://open.spotify.com/album/67t8LdykkpoG6o7nmjmzuv) | 4:01 |
-| 50 | [Little Life](https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o) | 4:30 |
+| 50 | [Little Life](https://open.spotify.com/track/51WRxaNJVQuXOBYUAmSzbf) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Little Life \(radio edit cos they made me\)](https://open.spotify.com/album/5z0Mu1Ez4F9ijTlpexZ5Rk) | 4:30 |
 
-Snapshot ID: `MCxlZjQ3YWZhYzY5ZjA1N2U4YmY2NTM2MGY0MTg1YzQ5MzJjZjAyMmVh`
+Snapshot ID: `MCxhZjIxYjNkODZmNmQ4N2MzN2I3MDI3MjBjYzc1ZjcyOTkyYTI1MDgx`

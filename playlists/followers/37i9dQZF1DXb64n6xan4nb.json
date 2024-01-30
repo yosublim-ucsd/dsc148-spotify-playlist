@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 28672,
+  "2024-01-30": 28690,
   "date_first_scraped": "2023-02-21",
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
   "name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
@@ -2334,6 +2334,28 @@
     },
     {
       "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/4mVaOQu6qOjGpSlNjwf0n4"
+      },
+      "artists": [
+        {
+          "name": "BYUL",
+          "url": "https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp"
+        },
+        {
+          "name": "Na Yoon Kwon",
+          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239933,
+      "name": "\uc548\ubd80",
+      "url": "https://open.spotify.com/track/7J630PtbTxF2cg0WQ0BhZF"
+    },
+    {
+      "album": {
         "name": "Because I Love You",
         "url": "https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc"
       },
@@ -2475,7 +2497,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 272386,
       "name": "\uc815\ub9d0 \uc0ac\ub791\ud588\uc744\uae4c",
       "url": "https://open.spotify.com/track/0xuXybbYxNqKKD4NMr63g4"

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 235455,
+  "num_followers": 235536,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzgwNGE2MGFmMzczNTU3Njk2MjEzMGExMTNlMzI4ZmIwNjk2Y2Uz",
+  "snapshot_id": "MCxmNWNlNDY4YjMzOGYzYTFkNzg2MDg0NGEyNTZjY2JjYjExMjIwNDgz",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -147,6 +147,38 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 289586,
+      "name": "No Me Acostumbro",
+      "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 329200,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "La Negra Tiene Tumbao",
         "url": "https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9"
       },
@@ -195,6 +227,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 284053,
+      "name": "Luna Negra",
+      "url": "https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "De la Habana a Per\u00fa",
         "url": "https://open.spotify.com/album/01U5RgaIfsSHyB6yw4nRj0"
       },
@@ -227,38 +275,6 @@
       "duration_ms": 188364,
       "name": "Suma y Resta",
       "url": "https://open.spotify.com/track/1j6HyQf4y1IiHFewyXnxK1"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 289586,
-      "name": "No Me Acostumbro",
-      "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 329200,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -347,38 +363,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "De la Habana a Per\u00fa",
-        "url": "https://open.spotify.com/album/01U5RgaIfsSHyB6yw4nRj0"
-      },
-      "artists": [
-        {
-          "name": "Barbaro Fines y su Mayimbe",
-          "url": "https://open.spotify.com/artist/3U5KffZYriorcfC62Lca43"
-        }
-      ],
-      "duration_ms": 330533,
-      "name": "El Tren Bala",
-      "url": "https://open.spotify.com/track/77yYv9YWmd8KLui0RRsTMF"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 284053,
-      "name": "Luna Negra",
-      "url": "https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "GUACHINEO (Cubaton - Cuban Reggaeton 2015 - Lo Que Mas Suena En Cuba)",
         "url": "https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 284266,
       "name": "Cuba Isla Bella (feat. Gente de Zona, Leoni Torres, Isaac Delgado, Buena Fe, Descemer Bueno, Laritza Bacallao, Waldo Mendoza & Pedrito Martinez)",
       "url": "https://open.spotify.com/track/6T9Cyj2tFiV1epQbQm0Gb2"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "De la Habana a Per\u00fa",
+        "url": "https://open.spotify.com/album/01U5RgaIfsSHyB6yw4nRj0"
+      },
+      "artists": [
+        {
+          "name": "Barbaro Fines y su Mayimbe",
+          "url": "https://open.spotify.com/artist/3U5KffZYriorcfC62Lca43"
+        }
+      ],
+      "duration_ms": 330533,
+      "name": "El Tren Bala",
+      "url": "https://open.spotify.com/track/77yYv9YWmd8KLui0RRsTMF"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -587,38 +587,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3"
-      },
-      "artists": [
-        {
-          "name": "Manolito y Su Trabuco",
-          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
-        }
-      ],
-      "duration_ms": 326720,
-      "name": "La Boda de Bel\u00e9n",
-      "url": "https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "EN LETRAS DE OTROS",
-        "url": "https://open.spotify.com/album/3nAC4AClBOoBxGzhSyyqil"
-      },
-      "artists": [
-        {
-          "name": "Los 4",
-          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
-        }
-      ],
-      "duration_ms": 233979,
-      "name": "No Me Quiero Enamorar",
-      "url": "https://open.spotify.com/track/726bxM7rwE4bhJGPPaawQP"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "Con La Musica Cubana No!",
         "url": "https://open.spotify.com/album/6VSv71T72A9eQBritcJsTy"
       },
@@ -631,6 +599,22 @@
       "duration_ms": 316339,
       "name": "Conmigo No",
       "url": "https://open.spotify.com/track/3yophgzbY958X32KOQqiYF"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3"
+      },
+      "artists": [
+        {
+          "name": "Manolito y Su Trabuco",
+          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
+        }
+      ],
+      "duration_ms": 326720,
+      "name": "La Boda de Bel\u00e9n",
+      "url": "https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -651,6 +635,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "EN LETRAS DE OTROS",
+        "url": "https://open.spotify.com/album/3nAC4AClBOoBxGzhSyyqil"
+      },
+      "artists": [
+        {
+          "name": "Los 4",
+          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
+        }
+      ],
+      "duration_ms": 233979,
+      "name": "No Me Quiero Enamorar",
+      "url": "https://open.spotify.com/track/726bxM7rwE4bhJGPPaawQP"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "Qu\u00e9 Sorpresa",
         "url": "https://open.spotify.com/album/6rUbV5YhPvlqsYTXO3Mjig"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 360957,
       "name": "Qu\u00e9 Sorpresa",
       "url": "https://open.spotify.com/track/0WEUAHwL8buyzLIM5NMgN5"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "Reina de la Canci\u00f3n Latina",
-        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
-      },
-      "artists": [
-        {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
-        }
-      ],
-      "duration_ms": 165213,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -699,6 +683,22 @@
       "duration_ms": 382360,
       "name": "Agua De Clavelito",
       "url": "https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Reina de la Canci\u00f3n Latina",
+        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
+      },
+      "artists": [
+        {
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
+        }
+      ],
+      "duration_ms": 165213,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "Lleg\u00f3 La Verdad (Remasterizado)",
+        "url": "https://open.spotify.com/album/0fVo66HW2xP2IiJ7Z5kRAe"
+      },
+      "artists": [
+        {
+          "name": "El Ni\u00f1o y la Verdad",
+          "url": "https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n"
+        }
+      ],
+      "duration_ms": 315520,
+      "name": "Dime Cu\u00e1nto - Remasterizado",
+      "url": "https://open.spotify.com/track/31Pwa4vxNUEtxYQIhZfc3B"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "Latin Trumpets - Bolero",
         "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 168866,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "Ya No Hace Falta",
-        "url": "https://open.spotify.com/album/00ZrOIn5bIxbiicATeWcXL"
-      },
-      "artists": [
-        {
-          "name": "Bamboleo",
-          "url": "https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4"
-        }
-      ],
-      "duration_ms": 325373,
-      "name": "La Tremenda",
-      "url": "https://open.spotify.com/track/6voqBz6blDvN1c29vadprU"
     }
   ],
   "unique_name": "Salsa Cubana",

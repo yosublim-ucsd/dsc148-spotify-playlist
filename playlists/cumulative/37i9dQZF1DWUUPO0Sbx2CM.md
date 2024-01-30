@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-393 songs - 21 hr 51 min
+394 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [I Met Jesus In Miami](https://open.spotify.com/track/6Zpq9oz3t4u1S02kG38byT) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [I Met Jesus In Miami](https://open.spotify.com/album/0ne1BFbmYUj1OClXGHLp7A) | 3:12 | 2023-02-07 |  |
 | [I Need You](https://open.spotify.com/track/5FH4htVArJA0PMPnTtI8iT) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Feared By Hell](https://open.spotify.com/album/4SzRSzmKDSJiCe4WHyAwjc) | 2:37 | 2021-10-31 | 2022-07-10 |
 | [I See You](https://open.spotify.com/track/709TAwgu9RUtiPLVgmZP71) | [Natalie Cleveland](https://open.spotify.com/artist/1vMDnKZvPdfoF3quGrgTi5) | [I See You](https://open.spotify.com/album/0XrKnCiGuRfD5rrB1fynVQ) | 3:27 | 2021-10-31 | 2022-05-16 |
-| [I Will Follow You \- Live](https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [I Will Follow You \(Live\)](https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3) | 3:51 | 2023-02-07 |  |
+| [I Will Follow You \- Live](https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [I Will Follow You \(Live\)](https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3) | 3:51 | 2023-02-07 | 2024-01-30 |
 | [I Will Wait](https://open.spotify.com/track/62sxM2Uha39CysCoVcoGKT) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [I Will Wait](https://open.spotify.com/album/4tOoPNp8aBjo696qCtaxFk) | 3:19 | 2021-10-31 | 2022-07-27 |
 | [I Will Wait](https://open.spotify.com/track/2wkwB6NDsTpt1hBweJmFW5) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Better King](https://open.spotify.com/album/4cVPPMx15HZ4HHpsB7Vcf8) | 3:19 | 2021-10-31 | 2022-11-13 |
 | [I'll Fight for You](https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [I'll Fight for You](https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy) | 2:47 | 2023-02-07 |  |
@@ -232,6 +232,7 @@
 | [Like You Love Me](https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 3:30 | 2021-10-31 | 2023-02-08 |
 | [Little Bit More \- Neon Feather Remix](https://open.spotify.com/track/71P3M3VFr6MNMxRp9vlNU3) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Little Bit More \(Neon Feather Remix\)](https://open.spotify.com/album/5UPyM0wdY0ghnfIrVL6Cyj) | 2:54 | 2021-10-31 | 2022-07-29 |
 | [Little Seed \- Dance Mix](https://open.spotify.com/track/0aRkP3M32J0m3skYRHugrr) | [Kierre Bjorn](https://open.spotify.com/artist/1P8IF5V5o54mR3fn2fr5P9), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Little Seed \(Dance Mix\)](https://open.spotify.com/album/4AkT2i0W0a1vQyNCMF75JR) | 3:03 | 2023-02-08 | 2023-03-06 |
+| [LOSE CONTROL](https://open.spotify.com/track/5ApvV6ALfi7YAFv6chSst6) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F) | [LOSE CONTROL](https://open.spotify.com/album/7pju4LTiWq4TW1HYxsweLM) | 2:26 | 2023-02-07 |  |
 | [Love Is Everything We Need](https://open.spotify.com/track/4U4MhlKh1s5DW1PH4W3PbG) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Love Is Everything We Need](https://open.spotify.com/album/6QonKeISFBF4m0uucPdv1M) | 2:37 | 2023-02-08 | 2023-04-13 |
 | [Love Is Everything We Need](https://open.spotify.com/track/5SCLsSvlwGeZuZTqma0SdQ) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [God Help Me](https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8) | 2:37 | 2023-02-07 |  |
 | [Love Me Back to Life](https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Love Me Back to Life](https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM) | 2:47 | 2023-02-07 |  |

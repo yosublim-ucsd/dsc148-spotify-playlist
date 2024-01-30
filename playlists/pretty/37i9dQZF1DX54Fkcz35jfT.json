@@ -1,12 +1,12 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: \u30aa\u30e1\u3067\u305f\u3044\u982d\u3067\u306a\u306b\u3088\u308a",
-  "num_followers": 43144,
+  "num_followers": 43158,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjIyYzU4NDNjYzk3ZTA3YWI5MDZkNDk2NmNkZTAwZmIwODNkNzk1",
+  "snapshot_id": "MCwyMGVhOTEzYzc2OGE0YjQxZDJmMWZhNmE5OTU0YmFiY2NiYzIxZGNj",
   "tracks": [
     {
       "added_at": "2024-01-25 15:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 194695,
+      "name": "Vandalize",
+      "url": "https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
         "name": "CAVU",
         "url": "https://open.spotify.com/album/5ZGyjBoHMJb8M2diIt9af8"
       },
@@ -663,22 +679,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "Luxury Disease",
-        "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 194695,
-      "name": "Vandalize",
-      "url": "https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
         "url": "https://open.spotify.com/album/30LuOfT2yzjCCL8LNFrUUr"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 237354,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "ELLEGARDEN BEST 1999-2008",
         "url": "https://open.spotify.com/album/1UnNvMfNPmPQlsedObGRIK"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 252453,
       "name": "\u98a8\u306e\u65e5",
       "url": "https://open.spotify.com/track/0ui9eFDmG2V9vW794v8CEp"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
+        "name": "Missing",
+        "url": "https://open.spotify.com/album/6mGi2j1maFymgzAoiiQVoY"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "The Autumn Song",
+      "url": "https://open.spotify.com/track/6UzbqphdFT8m90bUJVtJHY"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
         "name": "Luxury Disease (Japanese Version)",
         "url": "https://open.spotify.com/album/1GDFRCws0YeYcDQYL6UWCD"
       },
@@ -855,38 +871,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "BUG",
-        "url": "https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP"
-      },
-      "artists": [
-        {
-          "name": "THE ORAL CIGARETTES",
-          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
-        }
-      ],
-      "duration_ms": 231428,
-      "name": "BUG",
-      "url": "https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
-        "name": "Missing",
-        "url": "https://open.spotify.com/album/6mGi2j1maFymgzAoiiQVoY"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "The Autumn Song",
-      "url": "https://open.spotify.com/track/6UzbqphdFT8m90bUJVtJHY"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "10-feat",
         "url": "https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma"
       },
@@ -907,18 +891,34 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "\u6c38\u9060\u5c11\u5973",
-        "url": "https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ"
+        "name": "BUG",
+        "url": "https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP"
       },
       "artists": [
         {
-          "name": "ZAZEN BOYS",
-          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
+          "name": "THE ORAL CIGARETTES",
+          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
         }
       ],
-      "duration_ms": 242973,
-      "name": "\u6c38\u9060\u5c11\u5973",
-      "url": "https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs"
+      "duration_ms": 231428,
+      "name": "BUG",
+      "url": "https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "ELEVEN FIRE CRACKERS",
+        "url": "https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 226920,
+      "name": "Salamander",
+      "url": "https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
+        "name": "\u6c38\u9060\u5c11\u5973",
+        "url": "https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ"
+      },
+      "artists": [
+        {
+          "name": "ZAZEN BOYS",
+          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
+        }
+      ],
+      "duration_ms": 242973,
+      "name": "\u6c38\u9060\u5c11\u5973",
+      "url": "https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
         "name": "Parasites",
         "url": "https://open.spotify.com/album/02Tb76LOod9iowVjS8r9sF"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 130225,
       "name": "Parasites",
       "url": "https://open.spotify.com/track/2PvPwvinXuMcF82qkR9DqG"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
-        "name": "ELEVEN FIRE CRACKERS",
-        "url": "https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 226920,
-      "name": "Salamander",
-      "url": "https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "\u30e6\u30ca\u30a4\u30c6\u30c3\u30c9\u30d1\u30f3\u30b1\u30fc\u30ad",
-        "url": "https://open.spotify.com/album/0ws17q0T3CgE9l4KBx4sTW"
-      },
-      "artists": [
-        {
-          "name": "domico",
-          "url": "https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ"
-        }
-      ],
-      "duration_ms": 161747,
-      "name": "\u30e6\u30ca\u30a4\u30c6\u30c3\u30c9\u30d1\u30f3\u30b1\u30fc\u30ad",
-      "url": "https://open.spotify.com/track/35wXqoRa5J448Mi4EcRzWM"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "These Magic Words",
         "url": "https://open.spotify.com/album/2WKzfJK53JJ4R8BEXawsxW"
       },
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
+        "name": "\u30e6\u30ca\u30a4\u30c6\u30c3\u30c9\u30d1\u30f3\u30b1\u30fc\u30ad",
+        "url": "https://open.spotify.com/album/0ws17q0T3CgE9l4KBx4sTW"
+      },
+      "artists": [
+        {
+          "name": "domico",
+          "url": "https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ"
+        }
+      ],
+      "duration_ms": 161747,
+      "name": "\u30e6\u30ca\u30a4\u30c6\u30c3\u30c9\u30d1\u30f3\u30b1\u30fc\u30ad",
+      "url": "https://open.spotify.com/track/35wXqoRa5J448Mi4EcRzWM"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
         "name": "Nonnegative",
         "url": "https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 233678,
       "name": "From Today",
       "url": "https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "Keep going",
+        "url": "https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT"
+      },
+      "artists": [
+        {
+          "name": "04 Limited Sazabys",
+          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Keep going",
+      "url": "https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1131,22 +1147,6 @@
       "duration_ms": 164117,
       "name": "Enchant",
       "url": "https://open.spotify.com/track/2tYNzHULY0NLwOX14Ii0f6"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
-        "name": "Keep going",
-        "url": "https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT"
-      },
-      "artists": [
-        {
-          "name": "04 Limited Sazabys",
-          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Keep going",
-      "url": "https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
+        "name": "STEADY",
+        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+      },
+      "artists": [
+        {
+          "name": "SHANK",
+          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+        }
+      ],
+      "duration_ms": 150180,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
         "name": "PARADISE (Kill The Silence)",
         "url": "https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "STEADY",
-        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
-      },
-      "artists": [
-        {
-          "name": "SHANK",
-          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
-        }
-      ],
-      "duration_ms": 150180,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "Mountain Top",
         "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
       },
@@ -1295,22 +1295,6 @@
       "duration_ms": 246518,
       "name": "Mountain Top",
       "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
-        "name": "BLOOMING",
-        "url": "https://open.spotify.com/album/09gk3EbwFcSfMvXupZRUXS"
-      },
-      "artists": [
-        {
-          "name": "The Winking Owl",
-          "url": "https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE"
-        }
-      ],
-      "duration_ms": 230680,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/6zg3qFNuaEbl5pxKquLu7a"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1331,22 +1315,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "RARA",
-        "url": "https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c"
-      },
-      "artists": [
-        {
-          "name": "NOISEMAKER",
-          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "NAME",
-      "url": "https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "STEADY",
         "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
       },
@@ -1359,6 +1327,38 @@
       "duration_ms": 131680,
       "name": "Drain Water",
       "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "BLOOMING",
+        "url": "https://open.spotify.com/album/09gk3EbwFcSfMvXupZRUXS"
+      },
+      "artists": [
+        {
+          "name": "The Winking Owl",
+          "url": "https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE"
+        }
+      ],
+      "duration_ms": 230680,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/6zg3qFNuaEbl5pxKquLu7a"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "RARA",
+        "url": "https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c"
+      },
+      "artists": [
+        {
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "NAME",
+      "url": "https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "INSAINT",
-        "url": "https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s"
-      },
-      "artists": [
-        {
-          "name": "HARU NEMURI",
-          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
-        }
-      ],
-      "duration_ms": 150966,
-      "name": "Destruction Sisters",
-      "url": "https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "My One Wish",
         "url": "https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 172092,
       "name": "My One Wish",
       "url": "https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "INSAINT",
+        "url": "https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "duration_ms": 150966,
+      "name": "Destruction Sisters",
+      "url": "https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "PLAYDEAD",
-        "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
-      },
-      "artists": [
-        {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
-        }
-      ],
-      "duration_ms": 196199,
-      "name": "DO THE DANCE",
-      "url": "https://open.spotify.com/track/1dyxnU4Me5DETPSXkNpaDl"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "PLAY",
         "url": "https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 251400,
       "name": "\u5bc2\u5bde -sekibaku-",
       "url": "https://open.spotify.com/track/2CTniBM95HMN060rKGccXW"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 196199,
+      "name": "DO THE DANCE",
+      "url": "https://open.spotify.com/track/1dyxnU4Me5DETPSXkNpaDl"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1607,42 +1607,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "\u30e6\u30a8\u30cb",
-        "url": "https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84"
-      },
-      "artists": [
-        {
-          "name": "Mr.FanTastiC",
-          "url": "https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA"
-        }
-      ],
-      "duration_ms": 240550,
-      "name": "\u30e6\u30a8\u30cb",
-      "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
-        "name": "ANGRY ANGRY",
-        "url": "https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe"
-      },
-      "artists": [
-        {
-          "name": "HARU NEMURI",
-          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
-        },
-        {
-          "name": "Jaguar Jonze",
-          "url": "https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR"
-        }
-      ],
-      "duration_ms": 136866,
-      "name": "ANGRY ANGRY",
-      "url": "https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "APEX",
         "url": "https://open.spotify.com/album/14H4061l4bvaxzT8EcMVP2"
       },
@@ -1655,6 +1619,38 @@
       "duration_ms": 227225,
       "name": "APEX",
       "url": "https://open.spotify.com/track/7CTA1vdVYwHsIwOMvOkEhE"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 203545,
+      "name": "Sad Song",
+      "url": "https://open.spotify.com/track/5exqWbhEoSxjx8S6YgVGF1"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "\u30e6\u30a8\u30cb",
+        "url": "https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84"
+      },
+      "artists": [
+        {
+          "name": "Mr.FanTastiC",
+          "url": "https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA"
+        }
+      ],
+      "duration_ms": 240550,
+      "name": "\u30e6\u30a8\u30cb",
+      "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"
     }
   ],
   "unique_name": "Loud Rock Japan",

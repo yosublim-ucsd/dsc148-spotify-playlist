@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 37846,
+  "2024-01-30": 37842,
   "date_first_scraped": "2023-03-30",
   "description": "Fresh Punjabi Rap. Cover:  Sikander Kahlon",
   "name": "Burrh Rap",
@@ -893,10 +893,32 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 173656,
       "name": "Kikli",
       "url": "https://open.spotify.com/track/2i1oTDv7dODcdQxQ2LMDM3"
+    },
+    {
+      "album": {
+        "name": "Kikli",
+        "url": "https://open.spotify.com/album/4WCsDUqNWHK33Y6A9MvGUK"
+      },
+      "artists": [
+        {
+          "name": "Kptaan",
+          "url": "https://open.spotify.com/artist/06MWXAofHwT2tS9EyF1TpJ"
+        },
+        {
+          "name": "Ghxst",
+          "url": "https://open.spotify.com/artist/2Q1wU3JGmsqdM5xevEC5qj"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173656,
+      "name": "Kikli",
+      "url": "https://open.spotify.com/track/752ZVuWP4QcOQNgxWaV4b4"
     },
     {
       "album": {

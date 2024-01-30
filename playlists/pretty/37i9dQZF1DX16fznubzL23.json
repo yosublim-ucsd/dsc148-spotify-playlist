@@ -1,12 +1,12 @@
 {
   "description": "For the pain, tears and heartbreak.",
-  "num_followers": 20447,
+  "num_followers": 20496,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzYxMTdlMDI0MTI0MDlhZmZmMWVjOGRiNTVkN2I1MDk1ZmNmNzEy",
+  "snapshot_id": "MCxkZjc5Mjk2YjVmYThmYWUwODY3NGM0NmZjY2FlNWQ2NmU5YjU4Y2Yw",
   "tracks": [
     {
       "added_at": "2024-01-12 05:26:27",
@@ -135,18 +135,18 @@
     {
       "added_at": "2024-01-12 05:26:27",
       "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 169411,
-      "name": "Damages",
-      "url": "https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O"
+      "duration_ms": 197972,
+      "name": "Leg Over",
+      "url": "https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa"
     },
     {
       "added_at": "2024-01-12 05:26:27",
@@ -163,22 +163,6 @@
       "duration_ms": 140160,
       "name": "Toxic Love Story",
       "url": "https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ"
-    },
-    {
-      "added_at": "2024-01-12 05:26:27",
-      "album": {
-        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
-        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 197972,
-      "name": "Leg Over",
-      "url": "https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa"
     },
     {
       "added_at": "2024-01-12 05:26:27",
@@ -203,6 +187,22 @@
     {
       "added_at": "2024-01-12 05:26:27",
       "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Damages",
+      "url": "https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O"
+    },
+    {
+      "added_at": "2024-01-12 05:26:27",
+      "album": {
         "name": "Growing Pains",
         "url": "https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx"
       },
@@ -219,6 +219,22 @@
       "duration_ms": 167755,
       "name": "Dalilah",
       "url": "https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy"
+    },
+    {
+      "added_at": "2024-01-12 05:26:27",
+      "album": {
+        "name": "RU The World",
+        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 175254,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/31jkD22MNUrpebszwU7ZFz"
     },
     {
       "added_at": "2024-01-12 05:26:27",
@@ -259,6 +275,42 @@
     {
       "added_at": "2024-01-12 05:26:27",
       "album": {
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/3CIFG7DN9QuTAl6UgiqS12"
+      },
+      "artists": [
+        {
+          "name": "Raybekah",
+          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
+        }
+      ],
+      "duration_ms": 167628,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/2pnNn9p4qGkSApyBeMM2Gc"
+    },
+    {
+      "added_at": "2024-01-12 05:26:27",
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 176766,
+      "name": "Miss You Bad",
+      "url": "https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT"
+    },
+    {
+      "added_at": "2024-01-12 05:26:27",
+      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -275,22 +327,6 @@
       "duration_ms": 208500,
       "name": "Beggie Beggie",
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
-    },
-    {
-      "added_at": "2024-01-12 05:26:27",
-      "album": {
-        "name": "Problems",
-        "url": "https://open.spotify.com/album/3CIFG7DN9QuTAl6UgiqS12"
-      },
-      "artists": [
-        {
-          "name": "Raybekah",
-          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
-        }
-      ],
-      "duration_ms": 167628,
-      "name": "Problems",
-      "url": "https://open.spotify.com/track/2pnNn9p4qGkSApyBeMM2Gc"
     },
     {
       "added_at": "2024-01-12 05:26:27",
@@ -355,26 +391,6 @@
     {
       "added_at": "2024-01-12 05:26:27",
       "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 176766,
-      "name": "Miss You Bad",
-      "url": "https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT"
-    },
-    {
-      "added_at": "2024-01-12 05:26:27",
-      "album": {
         "name": "A1 (Feeling Disorder)",
         "url": "https://open.spotify.com/album/310NyAQdWMgHJNjq7AKLvo"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 125137,
       "name": "A1 (Feeling Disorder)",
       "url": "https://open.spotify.com/track/5lsnlGFJTOytJFgJH5tuMu"
-    },
-    {
-      "added_at": "2024-01-12 05:26:27",
-      "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 175254,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb"
     },
     {
       "added_at": "2024-01-12 05:26:27",
@@ -591,6 +591,30 @@
     {
       "added_at": "2024-01-12 05:26:27",
       "album": {
+        "name": "One Day You Will Understand",
+        "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "emPawa Africa",
+          "url": "https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Baby I'm Jealous",
+      "url": "https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD"
+    },
+    {
+      "added_at": "2024-01-12 05:26:27",
+      "album": {
         "name": "Breakfast in Lagos",
         "url": "https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u"
       },
@@ -691,30 +715,6 @@
     {
       "added_at": "2024-01-12 05:26:27",
       "album": {
-        "name": "One Day You Will Understand",
-        "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "emPawa Africa",
-          "url": "https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Baby I'm Jealous",
-      "url": "https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD"
-    },
-    {
-      "added_at": "2024-01-12 05:26:27",
-      "album": {
         "name": "DND",
         "url": "https://open.spotify.com/album/0WENkwbQAil9puByD0fKZd"
       },
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-01-12 05:26:27",
       "album": {
-        "name": "Love & Trust",
-        "url": "https://open.spotify.com/album/1R0lN0IUKzFO6eLUlzDFSJ"
-      },
-      "artists": [
-        {
-          "name": "Iyanya",
-          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 165217,
-      "name": "Love and Trust",
-      "url": "https://open.spotify.com/track/2Vt3LIt6PTK8f0LeKt0DnQ"
-    },
-    {
-      "added_at": "2024-01-12 05:26:27",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/2r1ln8Z5prTPO5qGQkBA4T"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 220894,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm"
+    },
+    {
+      "added_at": "2024-01-12 05:26:27",
+      "album": {
+        "name": "Love & Trust",
+        "url": "https://open.spotify.com/album/1R0lN0IUKzFO6eLUlzDFSJ"
+      },
+      "artists": [
+        {
+          "name": "Iyanya",
+          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 165217,
+      "name": "Love and Trust",
+      "url": "https://open.spotify.com/track/2Vt3LIt6PTK8f0LeKt0DnQ"
     },
     {
       "added_at": "2024-01-12 05:26:27",

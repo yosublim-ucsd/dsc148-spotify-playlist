@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-407 songs - 1 day 4 hr 51 min
+408 songs - 1 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Business As Usual](https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc) | [Sean U](https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE) | [Business As Usual](https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5) | 3:36 | 2022-02-25 | 2023-06-17 |
 | [Busta Move](https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg), [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [SOLO](https://open.spotify.com/album/0MurAaGHilyDEL78yDIYGA) | 4:34 | 2022-04-01 | 2023-08-05 |
 | [C'mon Y'all](https://open.spotify.com/track/3saNbbFn6fncpSFq9YoYis) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [C'mon Y'all](https://open.spotify.com/album/2HO6PhCIZ5G8tLFEbJYTJ4) | 3:55 | 2023-08-25 | 2023-10-07 |
-| [Can We Talk](https://open.spotify.com/track/621i6kpO5Te1WLiMgnovdQ) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [Can We Talk](https://open.spotify.com/album/2ue7GjPC8MDeflNgril0sq) | 4:10 | 2023-08-18 |  |
+| [Can We Talk](https://open.spotify.com/track/0KUWTBINgTBrkrHwj5dEot) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [Can We Talk](https://open.spotify.com/album/4jt3x9S0RBFg5yCvvWCtje) | 4:08 | 2023-08-18 |  |
+| [Can We Talk](https://open.spotify.com/track/621i6kpO5Te1WLiMgnovdQ) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [Can We Talk](https://open.spotify.com/album/2ue7GjPC8MDeflNgril0sq) | 4:10 | 2023-08-18 | 2024-01-30 |
 | [Can You Stand the Rain](https://open.spotify.com/track/0yshM8ljTRo3H42dUlA5MR) | [Brian Lenair](https://open.spotify.com/artist/5yqmxKpOCtz0LAjPNlvf68) | [Can You Stand the Rain](https://open.spotify.com/album/0lIu2Rc7OdLodxbwCbsd3i) | 4:04 | 2023-06-02 |  |
 | [Can't Stop](https://open.spotify.com/track/2vBjecyzspx6GsoL3FU6mF) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX), [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Escape](https://open.spotify.com/album/7qOXrZte4eeBH3S7LYoO1T) | 4:40 | 2020-10-30 | 2022-03-17 |
 | [Captivate Me](https://open.spotify.com/track/3nHdUHhCUlO1zUPT0lqhFV) | [Riley Richard](https://open.spotify.com/artist/3gYM4qdpRiNT5GRIMB5iY4) | [Captivate Me](https://open.spotify.com/album/4kJBD2qAK1Z9HGjo5QuYmS) | 4:48 | 2020-10-30 | 2022-03-16 |

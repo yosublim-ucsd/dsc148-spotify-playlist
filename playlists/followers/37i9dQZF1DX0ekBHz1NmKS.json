@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 195855,
+  "2024-01-30": 195845,
   "date_first_scraped": "2021-12-21",
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
   "name": "Made in Sweden",
@@ -4129,6 +4129,24 @@
       "duration_ms": 178352,
       "name": "Elevator Eyes",
       "url": "https://open.spotify.com/track/1xaI8BC30DDf9RDQSWyonb"
+    },
+    {
+      "album": {
+        "name": "Empati",
+        "url": "https://open.spotify.com/album/0xstPqvoi3ogWYS27scNX8"
+      },
+      "artists": [
+        {
+          "name": "Nardn",
+          "url": "https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169043,
+      "name": "Empati",
+      "url": "https://open.spotify.com/track/0VtfW5epZbVcSXwB2M7unz"
     },
     {
       "album": {
@@ -15533,7 +15551,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 197485,
       "name": "The only thing",
       "url": "https://open.spotify.com/track/3tIO6LF3bh2pRBAm4zSWE4"

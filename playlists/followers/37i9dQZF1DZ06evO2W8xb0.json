@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 2875,
+  "2024-01-30": 2876,
   "date_first_scraped": "2021-12-29",
   "description": "This is Chief Commander Ebenezer Obey. The essential tracks, all in one playlist.",
   "name": "This Is Chief Commander Ebenezer Obey",
@@ -115,6 +115,24 @@
       "duration_ms": 399843,
       "name": "Ajoyio",
       "url": "https://open.spotify.com/track/3tWmLZjzhvnQq7Xci21luT"
+    },
+    {
+      "album": {
+        "name": "Alo Mi Alo",
+        "url": "https://open.spotify.com/album/2RCqoBobW6z7XAxSl6MAR3"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1274200,
+      "name": "Alo Mi Alo Medley (Part 2)",
+      "url": "https://open.spotify.com/track/7v6JS4cQiYR8dgKNwxCvhu"
     },
     {
       "album": {
@@ -987,7 +1005,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 261853,
       "name": "Ojeje",
       "url": "https://open.spotify.com/track/2cu05uZ9A48CdfH9c3goy0"

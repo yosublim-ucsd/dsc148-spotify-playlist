@@ -1,12 +1,12 @@
 {
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
-  "num_followers": 26119,
+  "num_followers": 26262,
   "original_name": "Soft Nature Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODcyZjc3MzVmZGYxMzhkNWM2MmI4MWE1ZDA4YWQ1Y2Y3ZTE4OWI4",
+  "snapshot_id": "MCwxMDMzZWQ4MWZlNGNlZDBlMDdjMmNiM2ZlMDhhYzRhYmFiZTMwMTli",
   "tracks": [
     {
       "added_at": "2024-01-25 13:31:04",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-01-25 13:31:04",
       "album": {
+        "name": "In The Forest",
+        "url": "https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88"
+      },
+      "artists": [
+        {
+          "name": "Auley Gere",
+          "url": "https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz"
+        }
+      ],
+      "duration_ms": 107000,
+      "name": "Ballerina",
+      "url": "https://open.spotify.com/track/2rvd4QBrSRXmgzvbzBz1k7"
+    },
+    {
+      "added_at": "2024-01-25 13:31:04",
+      "album": {
         "name": "meloh",
         "url": "https://open.spotify.com/album/3JGENPKwjfu9LD8Qv6FGfd"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 178460,
       "name": "Lily's Arrival",
       "url": "https://open.spotify.com/track/0KdOX4bbKodh8fWhbUgRLe"
-    },
-    {
-      "added_at": "2024-01-25 13:31:04",
-      "album": {
-        "name": "In The Forest",
-        "url": "https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88"
-      },
-      "artists": [
-        {
-          "name": "Auley Gere",
-          "url": "https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz"
-        }
-      ],
-      "duration_ms": 107000,
-      "name": "Ballerina",
-      "url": "https://open.spotify.com/track/2rvd4QBrSRXmgzvbzBz1k7"
     },
     {
       "added_at": "2024-01-25 13:31:04",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-01-25 13:31:04",
       "album": {
+        "name": "In The Forest",
+        "url": "https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88"
+      },
+      "artists": [
+        {
+          "name": "Auley Gere",
+          "url": "https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/6onnyQliInBgkmiKD01kzX"
+    },
+    {
+      "added_at": "2024-01-25 13:31:04",
+      "album": {
         "name": "Clearing",
         "url": "https://open.spotify.com/album/280KxJyB75D1qmYZTeBGYS"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 126000,
       "name": "Boreal Forest",
       "url": "https://open.spotify.com/track/3km5eq3PiyetKEGn9MQMS2"
-    },
-    {
-      "added_at": "2024-01-25 13:31:04",
-      "album": {
-        "name": "In The Forest",
-        "url": "https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88"
-      },
-      "artists": [
-        {
-          "name": "Auley Gere",
-          "url": "https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/6onnyQliInBgkmiKD01kzX"
     },
     {
       "added_at": "2024-01-25 13:31:04",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-01-25 13:31:04",
       "album": {
-        "name": "Pitter Patter",
-        "url": "https://open.spotify.com/album/6vroyHfRe7dytL34m4yatE"
-      },
-      "artists": [
-        {
-          "name": "A Long Story",
-          "url": "https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Pitter Patter",
-      "url": "https://open.spotify.com/track/7JHGHOEQA2xhiraQESNSyu"
-    },
-    {
-      "added_at": "2024-01-25 13:31:04",
-      "album": {
         "name": "Dasik\u00f3 Plankt\u00f3n",
         "url": "https://open.spotify.com/album/2KgTNWVUecD2ujr3WhGjKu"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 210000,
       "name": "Dasik\u00f3 Plankt\u00f3n",
       "url": "https://open.spotify.com/track/3t0fHYkxFJk0CCflFvOYQh"
+    },
+    {
+      "added_at": "2024-01-25 13:31:04",
+      "album": {
+        "name": "Pitter Patter",
+        "url": "https://open.spotify.com/album/6vroyHfRe7dytL34m4yatE"
+      },
+      "artists": [
+        {
+          "name": "A Long Story",
+          "url": "https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Pitter Patter",
+      "url": "https://open.spotify.com/track/7JHGHOEQA2xhiraQESNSyu"
     },
     {
       "added_at": "2024-01-25 13:31:04",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-01-25 13:31:04",
       "album": {
+        "name": "Returning Home",
+        "url": "https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L"
+      },
+      "artists": [
+        {
+          "name": "A Long Story",
+          "url": "https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Returning Home",
+      "url": "https://open.spotify.com/track/1ClUmEEJYoDemcIPQQIODw"
+    },
+    {
+      "added_at": "2024-01-25 13:31:04",
+      "album": {
         "name": "Grave",
         "url": "https://open.spotify.com/album/7qj6wjs7Fm5WQjxIE9nN9W"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 134489,
       "name": "Eosphoros T.Merula",
       "url": "https://open.spotify.com/track/5engCD94A1A16P51xvAFiP"
-    },
-    {
-      "added_at": "2024-01-25 13:31:04",
-      "album": {
-        "name": "Returning Home",
-        "url": "https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L"
-      },
-      "artists": [
-        {
-          "name": "A Long Story",
-          "url": "https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Returning Home",
-      "url": "https://open.spotify.com/track/1ClUmEEJYoDemcIPQQIODw"
     },
     {
       "added_at": "2024-01-25 13:31:04",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-01-25 13:31:04",
       "album": {
-        "name": "The Long Way Home",
-        "url": "https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7"
-      },
-      "artists": [
-        {
-          "name": "Homesong",
-          "url": "https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "The Long Way Home",
-      "url": "https://open.spotify.com/track/7waW8AXCVZvytfmgxdKuNf"
-    },
-    {
-      "added_at": "2024-01-25 13:31:04",
-      "album": {
         "name": "From the meadow",
         "url": "https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 167678,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/4esZXGbuTIYgM6G2oj0Mgp"
+    },
+    {
+      "added_at": "2024-01-25 13:31:04",
+      "album": {
+        "name": "The Long Way Home",
+        "url": "https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7"
+      },
+      "artists": [
+        {
+          "name": "Homesong",
+          "url": "https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "The Long Way Home",
+      "url": "https://open.spotify.com/track/7waW8AXCVZvytfmgxdKuNf"
     },
     {
       "added_at": "2024-01-25 13:31:04",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-01-25 13:31:04",
       "album": {
-        "name": "Above all",
-        "url": "https://open.spotify.com/album/2SndImMqTgOaikElBmLHQP"
-      },
-      "artists": [
-        {
-          "name": "Henrietta Patrick",
-          "url": "https://open.spotify.com/artist/4dCZm6THef8wb8x4VwrSO0"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Above all",
-      "url": "https://open.spotify.com/track/32lWGnfRRUk44f4zWHV37L"
-    },
-    {
-      "added_at": "2024-01-25 13:31:04",
-      "album": {
         "name": "Remain In Light (432 Hz Sound Bath)",
         "url": "https://open.spotify.com/album/68fnzlJrQwjBXCBSHQhwiI"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 184545,
       "name": "Remain In Light (432 Hz Sound Bath)",
       "url": "https://open.spotify.com/track/0oN2nYpBnQTFcl5DQdDqZl"
+    },
+    {
+      "added_at": "2024-01-25 13:31:04",
+      "album": {
+        "name": "Above all",
+        "url": "https://open.spotify.com/album/2SndImMqTgOaikElBmLHQP"
+      },
+      "artists": [
+        {
+          "name": "Henrietta Patrick",
+          "url": "https://open.spotify.com/artist/4dCZm6THef8wb8x4VwrSO0"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Above all",
+      "url": "https://open.spotify.com/track/32lWGnfRRUk44f4zWHV37L"
     },
     {
       "added_at": "2024-01-25 13:31:04",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-01-25 13:31:04",
       "album": {
+        "name": "Winter Lake",
+        "url": "https://open.spotify.com/album/7uDFwqkJQ98z06u7ft3Mqb"
+      },
+      "artists": [
+        {
+          "name": "Carl Faber",
+          "url": "https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Winter Lake",
+      "url": "https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6"
+    },
+    {
+      "added_at": "2024-01-25 13:31:04",
+      "album": {
         "name": "Der Goldene Weg Birds",
         "url": "https://open.spotify.com/album/6gY9gSX1z2xqL0RaOQJtkJ"
       },
@@ -1387,18 +1403,18 @@
     {
       "added_at": "2024-01-25 13:31:04",
       "album": {
-        "name": "Winter Lake",
-        "url": "https://open.spotify.com/album/7uDFwqkJQ98z06u7ft3Mqb"
+        "name": "Relaxing Dreams",
+        "url": "https://open.spotify.com/album/5vVwGskg1XG5oRrgbAYFZ4"
       },
       "artists": [
         {
-          "name": "Carl Faber",
-          "url": "https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN"
+          "name": "Mam\u00e1 Valiente",
+          "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
         }
       ],
-      "duration_ms": 265000,
-      "name": "Winter Lake",
-      "url": "https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6"
+      "duration_ms": 281904,
+      "name": "Relaxing Dreams",
+      "url": "https://open.spotify.com/track/1sVSK4sDadVzioPciymr00"
     },
     {
       "added_at": "2024-01-25 13:31:04",
@@ -1463,22 +1479,6 @@
       "duration_ms": 186786,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/3UcE5BE9BZwNhBvIOF3Ty8"
-    },
-    {
-      "added_at": "2024-01-25 13:31:04",
-      "album": {
-        "name": "Relaxing Dreams",
-        "url": "https://open.spotify.com/album/5vVwGskg1XG5oRrgbAYFZ4"
-      },
-      "artists": [
-        {
-          "name": "Mam\u00e1 Valiente",
-          "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
-        }
-      ],
-      "duration_ms": 281904,
-      "name": "Relaxing Dreams",
-      "url": "https://open.spotify.com/track/1sVSK4sDadVzioPciymr00"
     },
     {
       "added_at": "2024-01-25 13:31:04",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-01-25 13:31:04",
       "album": {
+        "name": "Noruega",
+        "url": "https://open.spotify.com/album/1iLUSWxkVJs2AXQ4xCq8cx"
+      },
+      "artists": [
+        {
+          "name": "Mam\u00e1 Valiente",
+          "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
+        }
+      ],
+      "duration_ms": 225019,
+      "name": "Noruega",
+      "url": "https://open.spotify.com/track/2gmJtW3bjoCRZ0EBxVSTKN"
+    },
+    {
+      "added_at": "2024-01-25 13:31:04",
+      "album": {
         "name": "Juncture",
         "url": "https://open.spotify.com/album/7sRgPqeByeoKnByrxzz5l8"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 206000,
       "name": "Bogha Sound Bath",
       "url": "https://open.spotify.com/track/3WeUY3OjcntfpnRl1VuV9Q"
-    },
-    {
-      "added_at": "2024-01-25 13:31:04",
-      "album": {
-        "name": "Carpology",
-        "url": "https://open.spotify.com/album/2HVhkzOKtK1M5yvbRfZdek"
-      },
-      "artists": [
-        {
-          "name": "En Sollozos",
-          "url": "https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE"
-        }
-      ],
-      "duration_ms": 123500,
-      "name": "Carpology",
-      "url": "https://open.spotify.com/track/5eTwZHtaPzrRoVtyOUMgx1"
     }
   ],
   "unique_name": "Soft Nature Music",

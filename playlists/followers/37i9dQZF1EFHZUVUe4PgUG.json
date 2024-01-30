@@ -1,5 +1,5 @@
 {
-  "2024-01-29": 711,
+  "2024-01-30": 710,
   "date_first_scraped": "2022-06-05",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5nEbufTK1GscqQUw0AL6wp\">JonTheProducer</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By JonTheProducer",
@@ -25,7 +25,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 199407,
       "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
       "url": "https://open.spotify.com/track/7xcfuHG60u1YiGAO02RZIF"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 180624,
       "name": "Besos en Cualquier Horario",
       "url": "https://open.spotify.com/track/3jmcOU72m5T7B4DaUYALuf"
@@ -299,7 +299,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 204501,
       "name": "Besos en Cualquier Horario",
       "url": "https://open.spotify.com/track/0aiJ4t6JYzLN5V9RSj6h2N"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 203861,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/43dGfZIUUpi31ZiZe1ym90"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 204563,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/56f5qnyAlZdlz8wrUDA50h"
@@ -927,7 +927,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 221386,
       "name": "En Guerra",
       "url": "https://open.spotify.com/track/6dJPqP0gHP6iAZuIk1njBs"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 312020,
       "name": "En Guerra",
       "url": "https://open.spotify.com/track/5OlztYUTU56HqQwlmTn3Td"
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 118773,
       "name": "Guaro",
       "url": "https://open.spotify.com/track/57sG0muDy6txXqYFBlcA6y"
@@ -1101,7 +1101,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 131711,
       "name": "Guaro",
       "url": "https://open.spotify.com/track/0YU53P25kD7JK8P6g4AoDv"
@@ -1279,7 +1279,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 219711,
       "name": "La Boca",
       "url": "https://open.spotify.com/track/1YfMT1kT3hWTyWdEHP6w5L"
@@ -1315,7 +1315,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 158708,
       "name": "La Grosera",
       "url": "https://open.spotify.com/track/2FM5hCiv6FE8b7d0KIjABb"
@@ -1333,7 +1333,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 173205,
       "name": "La Grosera",
       "url": "https://open.spotify.com/track/6u6m9vEfEGjspOT69PcZYL"
@@ -1749,7 +1749,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 139146,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
@@ -1767,7 +1767,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 159210,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/5BbdgD9dflK5rQgXjsNizB"
@@ -1829,7 +1829,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 168167,
       "name": "Me Enamora",
       "url": "https://open.spotify.com/track/2hdhH9YsYQInj4NYU75XZZ"
@@ -1865,7 +1865,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 181311,
       "name": "Me Enamora",
       "url": "https://open.spotify.com/track/1sn93I0KEmGp9IBitEpSbc"
@@ -2677,7 +2677,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 157623,
       "name": "Si Estoy Contigo",
       "url": "https://open.spotify.com/track/6nTIchACfHZWP2zrGOVYFa"
@@ -2695,7 +2695,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 163200,
       "name": "Si Estoy Contigo",
       "url": "https://open.spotify.com/track/5LDgfSxN2Jey2CBsQc1BiC"
@@ -2769,7 +2769,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 190160,
       "name": "Sin Pijama",
       "url": "https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7"
@@ -2791,7 +2791,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 216320,
       "name": "Sin Pijama",
       "url": "https://open.spotify.com/track/5XslJPC2aLkXxqyPCOtVsr"
@@ -3029,7 +3029,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 186842,
       "name": "Un Poquito",
       "url": "https://open.spotify.com/track/3aWCkmStzGLDDmlwxJtQrU"
@@ -3051,7 +3051,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-29",
       "duration_ms": 199466,
       "name": "Un Poquito",
       "url": "https://open.spotify.com/track/016PgM2tBnXkKfoaXg0WBA"

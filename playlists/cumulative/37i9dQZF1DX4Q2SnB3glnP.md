@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-278 songs - 14 hr 47 min
+281 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Energetic Waves](https://open.spotify.com/track/6ALP8q5geZi3Y6agRNKsA1) | [Bit Rain](https://open.spotify.com/artist/58KNAmC26pbsrRUnDloPyt) | [Mindful Delta](https://open.spotify.com/album/7zBPGRenr6VrZcHU45DtQp) | 2:47 | 2021-12-08 |  |
 | [Enlightened](https://open.spotify.com/track/2rDUD1OjekGLpJIQTaAGAE) | [Theatantrical](https://open.spotify.com/artist/3NfPyQcxlNd7Avfcgn13Sh) | [Seduction](https://open.spotify.com/album/7KSDplAurK6FocNB7MkCyx) | 3:29 | 2021-12-08 | 2022-10-22 |
 | [Entering the Sacred Room \(Temple pt\. I\)](https://open.spotify.com/track/7Dz2O45BvScxRo5zUGA21K) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Temple](https://open.spotify.com/album/4zapRzqcbZaoqxvgnJzxgE) | 4:06 | 2021-12-08 |  |
+| [Epic keys](https://open.spotify.com/track/0sc3NHCx6ME031as4gsNOA) | [Udda Jnhale](https://open.spotify.com/artist/61dB4bXX3NDinvPlTy0v2P) | [Epic keys](https://open.spotify.com/album/6M7DRibzrsIfTXaroGtSkz) | 3:02 | 2024-01-29 |  |
 | [Epiphany](https://open.spotify.com/track/7etqolbqNqTmybDTIN77pt) | [Aari Kumar](https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG) | [Epiphany](https://open.spotify.com/album/3QhvbpLgFT2pHsxdirqLW7) | 2:52 | 2021-12-22 |  |
 | [Essence](https://open.spotify.com/track/1sab9eLTbZCDOHxFAnO00e) | [Calma](https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT) | [Essence](https://open.spotify.com/album/7vCCiQEhbRVYNOCsUraYlI) | 3:08 | 2021-12-08 | 2023-12-05 |
 | [Eternal Frequencies](https://open.spotify.com/track/283vPj5Pzt9VE8FkU4CvcG) | [Beatrice Laporte](https://open.spotify.com/artist/1ZIKR3Tjxro7Zltjogbrkr) | [Clarity Frequency](https://open.spotify.com/album/3ycZzgIgovCY0ToGeEPAcq) | 2:32 | 2023-02-17 |  |
@@ -214,6 +215,7 @@
 | [Semper Fidelis](https://open.spotify.com/track/554NJ5Ny6aTx4UqUG07BsW) | [James Matthéus](https://open.spotify.com/artist/5fv48FX13ObHcPLxuxguyy) | [Ad Infinitum](https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR) | 3:18 | 2022-09-30 |  |
 | [Sensory Bypass](https://open.spotify.com/track/6d9PX0f4YezrwhMtH5BKiU) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Sensory Bypass](https://open.spotify.com/album/2jxMcJP34nxtV2I9OHXe3s) | 2:31 | 2023-04-14 |  |
 | [Separated](https://open.spotify.com/track/24Q4s34r5lTO9bCkdZnNaO) | [Juno Reed](https://open.spotify.com/artist/5Ouz17H301vQh6K1snZRln) | [Separated](https://open.spotify.com/album/3PGOAxYU1IJgQgwTY0ddSQ) | 2:37 | 2021-12-08 |  |
+| [Serata](https://open.spotify.com/track/5ZLOfL06vYZY1jh4hQ850O) | [Dormiente](https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu) | [Serata](https://open.spotify.com/album/02cpYFUzqpmAspwrvUtO0c) | 2:20 | 2024-01-29 |  |
 | [Serenity](https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va) | [Eva Slott](https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe) | [Serenity](https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm) | 2:19 | 2021-12-08 | 2023-05-06 |
 | [Serenity of Touch](https://open.spotify.com/track/45I8e1cnl6rzrf2AEqoMDO) | [Niigata](https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N) | [Serenity of Touch](https://open.spotify.com/album/3xyRep7OzHkL9laLeiB6Ci) | 2:20 | 2021-12-08 |  |
 | [Shaman Dreams](https://open.spotify.com/track/3O9i7hYrsLU99msJcjPOCL) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Shaman Dreams](https://open.spotify.com/album/02TnwoWJCcqxX4CSI9528L) | 3:06 | 2021-12-08 |  |
@@ -230,6 +232,7 @@
 | [Strewn Across](https://open.spotify.com/track/0kuBMsyIEjgPEvxumcFUTV) | [Oberohn](https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt) | [Strewn Across](https://open.spotify.com/album/4kmgmdpvu4blESSHvIV5we) | 2:36 | 2021-12-08 |  |
 | [Submerged](https://open.spotify.com/track/6Ldcbpyvgs11PgWMcjeqmW) | [Rizzolo](https://open.spotify.com/artist/5b9r8wJcTcjRrOECClHYkO) | [Submerged](https://open.spotify.com/album/6AS1ccXorg5PEKALw5wttV) | 3:17 | 2023-08-24 |  |
 | [Submerged](https://open.spotify.com/track/0FaCS30JAXH9ntYh3TcF31) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Liquid Universe](https://open.spotify.com/album/4MkMpficPrQ8RnElrfp8Iq) | 3:01 | 2021-12-08 |  |
+| [Sun Descending](https://open.spotify.com/track/2C67c8x43LXzoX71FdCUdd) | [Segarus](https://open.spotify.com/artist/5L3uMci2iyD3APnlwYfTkO) | [Sun Descending](https://open.spotify.com/album/7mtktubpUj4RsaMaokQamH) | 3:11 | 2024-01-29 |  |
 | [Super Moon](https://open.spotify.com/track/2RhkqYZSsC2MGHvWNf05oa) | [Europa Falls](https://open.spotify.com/artist/3JR6Brrb2Uq8lXcXph5oxz) | [Super Moon](https://open.spotify.com/album/3VsiFFZNCC0bn6vg2gHSGO) | 3:02 | 2023-09-15 |  |
 | [Sway Me Away](https://open.spotify.com/track/5WoT7gc0ZRAFml3B2k7ZlC) | [Joseff Shields](https://open.spotify.com/artist/3k3jeStlJRgFKEWvcbJuy3) | [Sway Me Away](https://open.spotify.com/album/6jrZpHY37Ck2f2X4t0NIKp) | 2:13 | 2022-03-21 |  |
 | [Symmetry](https://open.spotify.com/track/7s1zPhZgciTy2ruEy3JUmb) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Liquid Air](https://open.spotify.com/album/70mPe6QZPnJJmQCok7bxBW) | 3:00 | 2021-12-08 |  |

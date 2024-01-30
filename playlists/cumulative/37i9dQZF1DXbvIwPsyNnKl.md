@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Flow G
 
-103 songs - 5 hr 46 min
+104 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Anytime](https://open.spotify.com/track/0GiqrzfvBVHmkyJEWP4kcx) | [Lipip](https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2), [Asiong De Luna](https://open.spotify.com/artist/4fhejfeRXmlwh5ozRvrltW), [esseca](https://open.spotify.com/artist/4G6h14o5YEgdmiwd10cemr) | [Anytime](https://open.spotify.com/album/73d8pQZqyvAkvYNiq1eCqN) | 4:19 | 2023-09-20 | 2023-12-30 |
 | [ARÁL](https://open.spotify.com/track/0b58IHPRtTbBv48sOwc6Vr) | [Loonie](https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc), [Apekz](https://open.spotify.com/artist/76xGhfBlYK3ZLMwkGxOuQn), [Ron Henley](https://open.spotify.com/artist/6eGQ0qPUlGBjmRgyQ84g3f), [Abra](https://open.spotify.com/artist/0e7I5fhtxrhsH8xrjGGDiv) | [ARÁL](https://open.spotify.com/album/2otfhblFnjovKbuiZSYbHF) | 3:40 | 2023-10-04 | 2023-11-11 |
 | [Atin\-Atin Lang](https://open.spotify.com/track/77vQ9j2ZdxiAd8sFArDAEX) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Atin\-Atin Lang](https://open.spotify.com/album/1QcUcqYEgnQppd7UhU2MNW) | 3:17 | 2023-09-20 |  |
+| [Babaero](https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Babaero](https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO) | 2:55 | 2024-01-29 |  |
 | [Bad Type](https://open.spotify.com/track/1Nf8lo7CKSJLGHi4uT8EvL) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Guns and Roses](https://open.spotify.com/album/5P3G3lpZQ5ZJvLEC4Gyodh) | 3:07 | 2023-12-06 |  |
 | [BAI NA BAI](https://open.spotify.com/track/5OvRmSitjggIYxAcgWnImV) | [Jae Bourgeoisie](https://open.spotify.com/artist/7Mm8pIdZHREtl0HYRuD9Na), [Izey Bleu](https://open.spotify.com/artist/1rWxNB88AktiJTvy876e8t) | [BAI NA BAI](https://open.spotify.com/album/3GQhCfio9Aec4AwVTUMdjD) | 2:35 | 2023-11-08 |  |
 | [BLING](https://open.spotify.com/track/1K3WDnJwzEQUwH0YbuVlNo) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [BLING](https://open.spotify.com/album/4BEXEaGEDL1nUQIR0a3tat) | 2:28 | 2023-12-13 |  |
