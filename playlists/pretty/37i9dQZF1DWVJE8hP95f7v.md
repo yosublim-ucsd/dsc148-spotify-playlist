@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Gerson King Combo
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,550 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,543 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 10 | [VAI VIVER](https://open.spotify.com/track/23vOjzeW7rjtZN2mdcDW1K) | [Rodrigo Sá](https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho), [Champz](https://open.spotify.com/artist/23aUdKJQ97T0r0Ogp3yT4F) | [VAI VIVER](https://open.spotify.com/album/5B6jeiCMNzI9pTtcfmInm0) | 3:11 |
 | 11 | [Aeroporto](https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aeroporto](https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq) | 3:29 |
 | 12 | [Sistemão](https://open.spotify.com/track/4DXfGm7b95Hqw67QGKnYHv) | [Bossa & Soul](https://open.spotify.com/artist/1Hl7wz7GCiJAXOp85CpEGA), [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW) | [Sistemão](https://open.spotify.com/album/5imzplwd5IHQI1ibhT0xrl) | 3:49 |
-| 13 | [São Paulo High Society \- Remix](https://open.spotify.com/track/0ZX7KT4d4iDPCVadpcj0kn) | [Almir Ricardi](https://open.spotify.com/artist/6LycV8XSGC3KMwcLF08kxb), [Luísa Viscardi](https://open.spotify.com/artist/5crcFRnnfwZTcGybeH6OH3), [Shaka](https://open.spotify.com/artist/5GYGgY9pRpbfjCOvkIfImY), [Afterclapp](https://open.spotify.com/artist/6SOIDTPmPScMiJYBm75gRC) | [São Paulo High Society \(Remix\)](https://open.spotify.com/album/3n8EMWGqqovL4THs4lx1w9) | 3:35 |
+| 13 | [São Paulo High Society \- Remix](https://open.spotify.com/track/0ZX7KT4d4iDPCVadpcj0kn) | [Almir Ricardi](https://open.spotify.com/artist/6LycV8XSGC3KMwcLF08kxb), [Luísa Viscardi](https://open.spotify.com/artist/5crcFRnnfwZTcGybeH6OH3), [Shaka](https://open.spotify.com/artist/6C2JXtWjH9WXUdC7T8ViU4), [Afterclapp](https://open.spotify.com/artist/6SOIDTPmPScMiJYBm75gRC) | [São Paulo High Society \(Remix\)](https://open.spotify.com/album/3n8EMWGqqovL4THs4lx1w9) | 3:35 |
 | 14 | [Deixa queimar](https://open.spotify.com/track/5sObxQz2kAeBYW1NN1piae) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Deixa queimar](https://open.spotify.com/album/7yPQoeGVeVlXsjTg0eWr5M) | 3:02 |
 | 15 | [Nossa Noite](https://open.spotify.com/track/19ZBM3YUW2ckbZ9uAnNbha) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz), [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ) | [Ogoin & Linguini: TV Show](https://open.spotify.com/album/1rKjTHrC5iRC5e9Vm8Widv) | 3:16 |
 | 16 | [Escolhi Ser Feliz](https://open.spotify.com/track/46Mbf2x3j3qJidTWfmt23u) | [Josimar Prince](https://open.spotify.com/artist/2pQWEVffdxDEZEsWdRTUPz) | [Escolhi Ser Feliz](https://open.spotify.com/album/5lbtSIdSEelRqUM4eBOTqj) | 4:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 74 | [Faca Fake](https://open.spotify.com/track/6ExD1ytOeShmnoEkQ6EAy5) | [Aláfia](https://open.spotify.com/artist/2ZzDm7UiS7g3e9HVjTMr29), [Sérgio Vaz](https://open.spotify.com/artist/6vccXOyVtwBKPkOrDmsDJk) | [Liturgia Samba Soul](https://open.spotify.com/album/2XYOFAiPlXl4eUldblrFGb) | 3:03 |
 | 75 | [Nós dois um só \- Just You And Me](https://open.spotify.com/track/4ze1NjtQxLnbOwRSHVUeWy) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Nós dois um só \(Just You And Me\)](https://open.spotify.com/album/46AmONQlUeyTzkERmWwG21) | 2:27 |
 
-Snapshot ID: `MCw0NzVlNTVjODEwNjM1YzI4OWQwNGQ4OGZjOWMzMTQwMWU5OWJlM2Fm`
+Snapshot ID: `MCxmYjE5NjNlM2Y5NDc4Yzk1NTRiNTdkNDNjMjI0YzI2YTliNDYyOGE1`

@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Dolly Parton and Lainey Wilson",
-  "num_followers": 104718,
+  "num_followers": 104762,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTkzYTcyYmE4NzM5YzNkNjQwOGU4OTUxYjQ2ZjdhZTFmZTNlMjM0",
+  "snapshot_id": "MCxmZWM0NWI3ODNmNTI1ODNlZjYwZjIwN2QyMDBiNDEwYWM2NTQ4Yjlm",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Chasing Cars",
-        "url": "https://open.spotify.com/album/1eY89cApAgmtGED00mXrhQ"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 265222,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/5ysaeGRQwnO01L6OjXq8PA"
+      "duration_ms": 233973,
+      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
+      "url": "https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ"
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/1eY89cApAgmtGED00mXrhQ"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 233973,
-      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
-      "url": "https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw"
+      "duration_ms": 265222,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/5ysaeGRQwnO01L6OjXq8PA"
     },
     {
       "added_at": "2024-01-26 05:00:00",

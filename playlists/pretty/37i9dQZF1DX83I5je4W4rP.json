@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1059334,
+  "num_followers": 1059276,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTE4NWJlMzYzMzlhYjViNDFmN2QyODhjMTJmZTZmZTRhY2RlNDg0",
+  "snapshot_id": "MCwzNmY3NjE2NThlMDRmMjA3NzIwMWEyNDQ1OWJlM2Q5OGYwYTRiM2I5",
   "tracks": [
     {
       "added_at": "2023-11-13 22:46:04",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "The Clarence Greenwood Recordings",
-        "url": "https://open.spotify.com/album/4cmqFKgpFzSa6FDR1I3VFr"
-      },
-      "artists": [
-        {
-          "name": "Citizen Cope",
-          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
-        }
-      ],
-      "duration_ms": 263400,
-      "name": "Bullet and a Target",
-      "url": "https://open.spotify.com/track/3r7gP3kGBkldTrOO6ebMGy"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "There I Go",
         "url": "https://open.spotify.com/album/4UU8LUYdyjM3oa1UHwKhWI"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 202172,
       "name": "There I Go",
       "url": "https://open.spotify.com/track/5maLNTxNa29qrB1qpBoh6y"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "The Clarence Greenwood Recordings",
+        "url": "https://open.spotify.com/album/4cmqFKgpFzSa6FDR1I3VFr"
+      },
+      "artists": [
+        {
+          "name": "Citizen Cope",
+          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "Bullet and a Target",
+      "url": "https://open.spotify.com/track/3r7gP3kGBkldTrOO6ebMGy"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Trevor Hall",
-        "url": "https://open.spotify.com/album/34rT9ovQneEIUPtwPX9tDn"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 239853,
-      "name": "Where's The Love",
-      "url": "https://open.spotify.com/track/1XShVicocgCeGOxDAtHSAN"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Edge of the Ocean",
         "url": "https://open.spotify.com/album/29TmBre90Vd3iE2pu8cDP1"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 295867,
       "name": "Edge of the Ocean",
       "url": "https://open.spotify.com/track/0SctzStskP74wkmBBXlmEn"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "Trevor Hall",
+        "url": "https://open.spotify.com/album/34rT9ovQneEIUPtwPX9tDn"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 239853,
+      "name": "Where's The Love",
+      "url": "https://open.spotify.com/track/1XShVicocgCeGOxDAtHSAN"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/5PdXV8lvbR9xLOPYTdrDEG"
-      },
-      "artists": [
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 203912,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/6ZXODzDislboN4mffec8NM"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Way of Life (with Slightly Stoopid)",
         "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 253794,
       "name": "Way of Life (with Slightly Stoopid)",
       "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/5PdXV8lvbR9xLOPYTdrDEG"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 203912,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/6ZXODzDislboN4mffec8NM"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 250397,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Ocean Eyes",
         "url": "https://open.spotify.com/album/5zKQRDvSP8oOvpw8fi6Bph"
       },
@@ -1511,6 +1495,26 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
+        "name": "Dance My Stress Away (with Stephen Marley)",
+        "url": "https://open.spotify.com/album/4qAB2fZm1df7LhxPIiXAmW"
+      },
+      "artists": [
+        {
+          "name": "Demarco",
+          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
+        },
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        }
+      ],
+      "duration_ms": 214122,
+      "name": "Dance My Stress Away (with Stephen Marley)",
+      "url": "https://open.spotify.com/track/4YzBQfeZtXKEQABl61rT6f"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
         "name": "Put Down What You Are Carrying (with Brett Dennen)",
         "url": "https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB"
       },
@@ -1551,22 +1555,18 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Dance My Stress Away (with Stephen Marley)",
-        "url": "https://open.spotify.com/album/4qAB2fZm1df7LhxPIiXAmW"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s"
       },
       "artists": [
         {
-          "name": "Demarco",
-          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
-        },
-        {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 214122,
-      "name": "Dance My Stress Away (with Stephen Marley)",
-      "url": "https://open.spotify.com/track/4YzBQfeZtXKEQABl61rT6f"
+      "duration_ms": 250397,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln"
     },
     {
       "added_at": "2023-11-13 22:46:04",

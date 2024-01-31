@@ -5,6 +5,78 @@
   "tracks": [
     {
       "album": {
+        "name": "[Solo-Leveling]SymphonicSuite-Lv.1",
+        "url": "https://open.spotify.com/album/5tA3jS8dhOAuviuLW4TyoJ"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365400,
+      "name": "[Solo-Leveling]SymphonicSuite-Lv.1",
+      "url": "https://open.spotify.com/track/7Dh49wvvg6uIw1zFnLTmj9"
+    },
+    {
+      "album": {
+        "name": "[Solo-Leveling]SymphonicSuite-Lv.2",
+        "url": "https://open.spotify.com/album/31Lbc4yZkE3N7ZTJmkODBE"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164146,
+      "name": "[Solo-Leveling]SymphonicSuite-Lv.2",
+      "url": "https://open.spotify.com/track/7vXN0O6cc1DVUrXp6tgJBy"
+    },
+    {
+      "album": {
+        "name": "[Solo-Leveling]SymphonicSuite-Lv.3",
+        "url": "https://open.spotify.com/album/3S5bCqO3Fp5zyPGzj58qf3"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293453,
+      "name": "[Solo-Leveling]SymphonicSuite-Lv.3",
+      "url": "https://open.spotify.com/track/5Yii2VWmLpSCtR7hsXZdYO"
+    },
+    {
+      "album": {
+        "name": "[Solo-Leveling]SymphonicSuite-Lv.8",
+        "url": "https://open.spotify.com/album/33PJlQUa6r9BgLwhZJe4Hn"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161160,
+      "name": "[Solo-Leveling]SymphonicSuite-Lv.8",
+      "url": "https://open.spotify.com/track/0WYhgrgXCa7LmgOq4dbNeO"
+    },
+    {
+      "album": {
         "name": "Re:CREATORS Original Soundtrack",
         "url": "https://open.spotify.com/album/79D8sROYs9ik8C3f8dm9ZG"
       },
@@ -1284,7 +1356,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 206306,
       "name": "ME & CREED <nZkv>",
       "url": "https://open.spotify.com/track/4TUMn1MyfbGKEH3SOQis4T"

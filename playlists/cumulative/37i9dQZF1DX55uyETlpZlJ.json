@@ -2837,6 +2837,28 @@
     },
     {
       "album": {
+        "name": "ART OF WAVES",
+        "url": "https://open.spotify.com/album/0RjvS9LHtU7dhFbppc84yw"
+      },
+      "artists": [
+        {
+          "name": "TED",
+          "url": "https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T"
+        },
+        {
+          "name": "Yohanan",
+          "url": "https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245492,
+      "name": "Ma\u1e37e Banthu Ma\u1e37e",
+      "url": "https://open.spotify.com/track/57TPkV7QunC4b8zkAuVakD"
+    },
+    {
+      "album": {
         "name": "Meghave",
         "url": "https://open.spotify.com/album/7m9qZKWRJ8SiwtSQg6R33E"
       },
@@ -3622,6 +3644,28 @@
       "duration_ms": 236666,
       "name": "Nannusire",
       "url": "https://open.spotify.com/track/6ASWvRVb8O7hSV26VGbech"
+    },
+    {
+      "album": {
+        "name": "Nanomme Ninnodane",
+        "url": "https://open.spotify.com/album/62ytPu2CdgYgwBcXFpqdDW"
+      },
+      "artists": [
+        {
+          "name": "Vishwas Javali",
+          "url": "https://open.spotify.com/artist/7GvOdsn4GlpJVT993RveVN"
+        },
+        {
+          "name": "Sakshi Hiremath",
+          "url": "https://open.spotify.com/artist/2sKHLb9k9XLMegvuRA1AIU"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249219,
+      "name": "Nanomme Ninnodane",
+      "url": "https://open.spotify.com/track/1nXe2tZgYkFYAQiwYrc605"
     },
     {
       "album": {

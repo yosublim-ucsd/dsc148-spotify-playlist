@@ -2582,7 +2582,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
@@ -3932,10 +3932,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 160858,
       "name": "B\u00ed\u00f3mynd",
       "url": "https://open.spotify.com/track/3VL3tWap62d4ZDc1PlQEcI"
+    },
+    {
+      "album": {
+        "name": "S\u00f6ngvakeppnin 2024",
+        "url": "https://open.spotify.com/album/1w0HnWILxap6N63DZpcsiJ"
+      },
+      "artists": [
+        {
+          "name": "V\u00c6B",
+          "url": "https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160858,
+      "name": "B\u00ed\u00f3mynd",
+      "url": "https://open.spotify.com/track/7uFMO0faBzaJYOdSIfufDX"
     },
     {
       "album": {
@@ -8584,7 +8602,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 135920,
       "name": "Father Stretch My Hands Pt. 1",
       "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
@@ -16184,7 +16202,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 129600,
       "name": "Lied To",
       "url": "https://open.spotify.com/track/6mC8t1VZq5wyPNRc9Dm2s6"
@@ -20734,6 +20752,24 @@
       "duration_ms": 161379,
       "name": "One",
       "url": "https://open.spotify.com/track/43y4bvWHydIDn1DV5VqZRr"
+    },
+    {
+      "album": {
+        "name": "Ghetto Fabulous",
+        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121399,
+      "name": "ONE CALL",
+      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
     },
     {
       "album": {
@@ -26346,7 +26382,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -26440,7 +26476,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 181198,
       "name": "Stingum af",
       "url": "https://open.spotify.com/track/5mRekPJH49mEmpgryogt5K"
@@ -29214,7 +29250,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 163701,
       "name": "Um allan alheiminn",
       "url": "https://open.spotify.com/track/4pCEYhbAvqCEgir11nF2HA"
@@ -29826,7 +29862,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 180813,
       "name": "Vestri\u00f0 villt",
       "url": "https://open.spotify.com/track/3onkNwRjtxgTZQ9IIukaEC"
@@ -31048,7 +31084,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 180386,
       "name": "Wild West",
       "url": "https://open.spotify.com/track/3BK8jSqOlB46o8pP2XYPXh"
@@ -32046,7 +32082,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 257720,
       "name": "\u00c1STIN M\u00cdN REMIX (feat. Floni)",
       "url": "https://open.spotify.com/track/4sI0wnGxTmdQ3DHGqNjfsp"

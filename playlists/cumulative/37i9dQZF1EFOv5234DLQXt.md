@@ -4,10 +4,11 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/625Qzz0OJmeDpIbOZwjf8G">Gustavo Cerati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-113 songs - 7 hr 53 min
+115 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(En\) El Séptimo Día \- Remasterizado 2007](https://open.spotify.com/track/4xVZmLJtBTedcXbDB3qYdX) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 4:23 | 2024-01-30 |  |
 | [A Merced](https://open.spotify.com/track/68KSFDLogotFjUubwxTMHj) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [11 Episodios Sinfónicos](https://open.spotify.com/album/3fYo0MVmXOnGtJiZVUV7nH) | 2:33 | 2024-01-29 |  |
 | [Adiós](https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:53 | 2024-01-29 |  |
 | [Afrodisíacos \- Remasterizado 2007](https://open.spotify.com/track/11DDUdeL5QwBXVqeyb1fOa) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 4:23 | 2024-01-29 |  |
@@ -48,7 +49,7 @@
 | [Ella Usó, Un Misil \(SEP7IMO DIA\)](https://open.spotify.com/track/1tgb1PGMFHkMIOuwX7gGKv) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [SEP7IMO DIA](https://open.spotify.com/album/0HUncweJW3LTO0YOvOEX4a) | 1:29 | 2024-01-29 |  |
 | [En Camino \- Remasterizado 2007](https://open.spotify.com/track/4EO3RjlXJbTUQdDnRGlcGa) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:29 | 2024-01-29 |  |
 | [En El Borde \- Remasterizado 2007](https://open.spotify.com/track/4WOWzyHpoGvlve7qOQiXHf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 4:42 | 2024-01-29 |  |
-| [En el Séptimo Día](https://open.spotify.com/track/6WFqaM9j9vyHi9BNKjWYWM) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk) | [Gracias...Totales: Tributo Bizarro a Soda Stereo](https://open.spotify.com/album/6TiYPC6LAwk1vjFSS3nSfd) | 4:17 | 2024-01-29 |  |
+| [En el Séptimo Día](https://open.spotify.com/track/6WFqaM9j9vyHi9BNKjWYWM) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk) | [Gracias...Totales: Tributo Bizarro a Soda Stereo](https://open.spotify.com/album/6TiYPC6LAwk1vjFSS3nSfd) | 4:17 | 2024-01-29 | 2024-01-31 |
 | [En La Ciudad De La Furia \- Remasterizado 2007](https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 5:46 | 2024-01-29 |  |
 | [En Remolinos](https://open.spotify.com/track/1Q5DZiLiUoLs3cG5ZkmcP3) | [Pixel](https://open.spotify.com/artist/61tsAT8ra4mLllePLRikc2) | [En Remolinos](https://open.spotify.com/album/05EhD6gV31HCFHMbsq89HT) | 4:53 | 2024-01-29 |  |
 | [Engaña](https://open.spotify.com/track/7BRwN1pRe3sn653D4oPPSR) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:11 | 2024-01-29 |  |
@@ -100,7 +101,8 @@
 | [Sueles Dejarme Solo](https://open.spotify.com/track/7qz2gGwfzqREato14g4tk4) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 3:48 | 2024-01-29 |  |
 | [Sweet Sahumerio \- Remasterizado 2007](https://open.spotify.com/track/0GcU3ZhlnF5k3vKjqPRifa) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 6:03 | 2024-01-29 |  |
 | [Tabú \(feat\. Ely Guerra\)](https://open.spotify.com/track/5yEz5u9lfLHDO1s7aMcq8s) | [Twanguero](https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS) | [Argentina Songbook](https://open.spotify.com/album/5FNdQV7A2U2tSAfDuHFhdu) | 4:39 | 2024-01-29 |  |
-| [Te Hacen Falta Vitaminas](https://open.spotify.com/track/0RlpuslAJMOhXHsuyhEpvn) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 2:38 | 2024-01-29 |  |
+| [Te Hacen Falta Vitaminas](https://open.spotify.com/track/0RlpuslAJMOhXHsuyhEpvn) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 2:38 | 2024-01-29 | 2024-01-31 |
+| [Te Hacen Falta Vitaminas](https://open.spotify.com/track/22KA3JofMEiB0rvD7z5Kbg) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Te Hacen Falta Vitaminas \(Official Video\)](https://open.spotify.com/album/64lxmlDJgzblBcty8oCEBJ) | 2:39 | 2024-01-30 |  |
 | [Te Llevo para Que Me Lleves](https://open.spotify.com/track/5rGphVLnbPdyBQ5X3rjb2X) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Amor Amarillo](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | 3:44 | 2024-01-29 |  |
 | [Tele\-Ka \- Remasterizado 2007](https://open.spotify.com/track/5ZDMWyxvoEEi5ofWUjf0NL) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 2:25 | 2024-01-29 |  |
 | [Terapia De Amor Intensiva \- Remasterizado 2007](https://open.spotify.com/track/57CH3KwRsQkbJH8VSDdKeI) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 5:40 | 2024-01-29 |  |

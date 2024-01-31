@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 120598,
+  "2024-01-31": 120592,
   "date_first_scraped": "2023-06-18",
   "description": "Keep your finger on the pulse of pop. Cover: Kaylee Bell, Navvy",
   "name": "Pop n' Fresh",
@@ -1137,6 +1137,24 @@
       "duration_ms": 203216,
       "name": "Better Things",
       "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
+    },
+    {
+      "album": {
+        "name": "Big Foot",
+        "url": "https://open.spotify.com/album/3b80v2noU4EEZmCefjinoO"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262268,
+      "name": "Big Foot",
+      "url": "https://open.spotify.com/track/587Ks4sb6Wd2qRVS5i9fdW"
     },
     {
       "album": {
@@ -10599,10 +10617,28 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 141639,
       "name": "Think U The Sh*t (Fart)",
       "url": "https://open.spotify.com/track/5xcj5a0RKC2s5PIs1FcXOu"
+    },
+    {
+      "album": {
+        "name": "Think U The Shit (Fart)",
+        "url": "https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141639,
+      "name": "Think U The Shit (Fart)",
+      "url": "https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR"
     },
     {
       "album": {

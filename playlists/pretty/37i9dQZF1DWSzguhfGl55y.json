@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 622642,
+  "num_followers": 622671,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNThjZTVlYWJiZDk0M2UyYWQzMGJjMjA2ZWY3MDc0ZThiMmVlNTk1",
+  "snapshot_id": "MCwzYTgzNDcyMDA1YjM1ZmFhOTBhMjA5NDEzY2JjYjY3YmQxYjQyMzJh",
   "tracks": [
     {
       "added_at": "2023-12-07 13:48:37",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
+        "name": "Samy Deluxe",
+        "url": "https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx"
+      },
+      "artists": [
+        {
+          "name": "Samy Deluxe",
+          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
+        }
+      ],
+      "duration_ms": 343226,
+      "name": "Weck mich auf",
+      "url": "https://open.spotify.com/track/47VRtROAdociHgtuVZNoBL"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
         "name": "New Dubby Conquerors",
         "url": "https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 284906,
       "name": "Dickes B (feat. Black Kappa)",
       "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
-        "name": "Samy Deluxe",
-        "url": "https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx"
-      },
-      "artists": [
-        {
-          "name": "Samy Deluxe",
-          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
-        }
-      ],
-      "duration_ms": 343226,
-      "name": "Weck mich auf",
-      "url": "https://open.spotify.com/track/47VRtROAdociHgtuVZNoBL"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "Zum Gl\u00fcck in die Zukunft",
-        "url": "https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg"
-      },
-      "artists": [
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        },
-        {
-          "name": "Yasha",
-          "url": "https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Verstrahlt",
-      "url": "https://open.spotify.com/track/1wblDHAGAHk9v3prkgPZwI"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/2bsldlysGbFc8Kqg0iItlU"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 221346,
       "name": "Eines Tages (feat. Cassandra Steen) - Single Edit",
       "url": "https://open.spotify.com/track/3U0yDyVzdjhOcl3TcEDylU"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
+        "name": "Zum Gl\u00fcck in die Zukunft",
+        "url": "https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg"
+      },
+      "artists": [
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        },
+        {
+          "name": "Yasha",
+          "url": "https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "Verstrahlt",
+      "url": "https://open.spotify.com/track/1wblDHAGAHk9v3prkgPZwI"
     },
     {
       "added_at": "2023-12-07 13:48:37",

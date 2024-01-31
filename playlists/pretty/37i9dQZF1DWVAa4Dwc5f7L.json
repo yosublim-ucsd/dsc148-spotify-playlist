@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Olga Ta\u00f1\u00f3n",
-  "num_followers": 382173,
+  "num_followers": 382136,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDM5NGNkNGNmMThmN2Q0ZjU4NjRmMjIwNTIwNDgzNDEwMDVhN2Q2",
+  "snapshot_id": "MCw2NzM5YTk4NGRkMjVlODUzYjhkOGYxYmRmZTlmNTUwYWQzNDJhM2Jj",
   "tracks": [
     {
       "added_at": "2024-01-25 23:12:57",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-01-25 23:12:57",
       "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+        "name": "El Virao",
+        "url": "https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P"
       },
       "artists": [
         {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+          "name": "Los Cantantes",
+          "url": "https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh"
         }
       ],
-      "duration_ms": 251733,
-      "name": "El Africano",
-      "url": "https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32"
+      "duration_ms": 292800,
+      "name": "El Venao",
+      "url": "https://open.spotify.com/track/12Jg89d9Cz2qwTnxIbX03g"
     },
     {
       "added_at": "2024-01-25 23:12:57",
@@ -879,18 +879,34 @@
     {
       "added_at": "2024-01-25 23:12:57",
       "album": {
-        "name": "El Virao",
-        "url": "https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P"
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
       },
       "artists": [
         {
-          "name": "Los Cantantes",
-          "url": "https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh"
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
         }
       ],
-      "duration_ms": 292800,
-      "name": "El Venao",
-      "url": "https://open.spotify.com/track/12Jg89d9Cz2qwTnxIbX03g"
+      "duration_ms": 251733,
+      "name": "El Africano",
+      "url": "https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32"
+    },
+    {
+      "added_at": "2024-01-25 23:12:57",
+      "album": {
+        "name": "Puro Mambo",
+        "url": "https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS"
+      },
+      "artists": [
+        {
+          "name": "La Banda Gorda",
+          "url": "https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1"
+        }
+      ],
+      "duration_ms": 261146,
+      "name": "Traigo Fuego",
+      "url": "https://open.spotify.com/track/5aaM6KRamITPsyLlsMb80v"
     },
     {
       "added_at": "2024-01-25 23:12:57",
@@ -915,22 +931,6 @@
       "duration_ms": 181894,
       "name": "No Es Normal",
       "url": "https://open.spotify.com/track/2Z4X8Y8Iedaf14Cgs0Dnri"
-    },
-    {
-      "added_at": "2024-01-25 23:12:57",
-      "album": {
-        "name": "Puro Mambo",
-        "url": "https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS"
-      },
-      "artists": [
-        {
-          "name": "La Banda Gorda",
-          "url": "https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1"
-        }
-      ],
-      "duration_ms": 261146,
-      "name": "Traigo Fuego",
-      "url": "https://open.spotify.com/track/5aaM6KRamITPsyLlsMb80v"
     },
     {
       "added_at": "2024-01-25 23:12:57",
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2024-01-25 23:12:57",
       "album": {
+        "name": "Qu\u00e9date Conmigo (Remix)",
+        "url": "https://open.spotify.com/album/6QLtDVO02H24gW3yzO900Y"
+      },
+      "artists": [
+        {
+          "name": "Omar Enrique",
+          "url": "https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7"
+        },
+        {
+          "name": "Manny Cruz",
+          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
+        }
+      ],
+      "duration_ms": 213976,
+      "name": "Qu\u00e9date Conmigo - Remix",
+      "url": "https://open.spotify.com/track/31m4BylSn9z9NoS5qfviJw"
+    },
+    {
+      "added_at": "2024-01-25 23:12:57",
+      "album": {
         "name": "Gozando",
         "url": "https://open.spotify.com/album/5qlTbCPV7gUDC9uWZygodC"
       },
@@ -1471,26 +1491,6 @@
       "duration_ms": 245000,
       "name": "La Mujer",
       "url": "https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48"
-    },
-    {
-      "added_at": "2024-01-25 23:12:57",
-      "album": {
-        "name": "Con Las Canciones Que Crec\u00ed Vol. 1",
-        "url": "https://open.spotify.com/album/3lT1RrPQO1jpe19q7MzLoF"
-      },
-      "artists": [
-        {
-          "name": "Omar Enrique",
-          "url": "https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7"
-        },
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/2dHwYqYxsj7IEgGu6dxraM"
-        }
-      ],
-      "duration_ms": 273365,
-      "name": "T\u00fa Eres Ajena",
-      "url": "https://open.spotify.com/track/1H3buHXVp1smlFutuQTgZR"
     },
     {
       "added_at": "2024-01-25 23:12:57",
@@ -1611,6 +1611,26 @@
     {
       "added_at": "2024-01-25 23:12:57",
       "album": {
+        "name": "Con Las Canciones Que Crec\u00ed Vol. 1",
+        "url": "https://open.spotify.com/album/3lT1RrPQO1jpe19q7MzLoF"
+      },
+      "artists": [
+        {
+          "name": "Omar Enrique",
+          "url": "https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7"
+        },
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/2dHwYqYxsj7IEgGu6dxraM"
+        }
+      ],
+      "duration_ms": 273365,
+      "name": "T\u00fa Eres Ajena",
+      "url": "https://open.spotify.com/track/1H3buHXVp1smlFutuQTgZR"
+    },
+    {
+      "added_at": "2024-01-25 23:12:57",
+      "album": {
         "name": "Best Of The Best",
         "url": "https://open.spotify.com/album/3HSBkBA1hv9drUjHVhF3oA"
       },
@@ -1623,26 +1643,6 @@
       "duration_ms": 281066,
       "name": "La Suegra",
       "url": "https://open.spotify.com/track/7bDoTCEpyesQRjPk0x8ky1"
-    },
-    {
-      "added_at": "2024-01-25 23:12:57",
-      "album": {
-        "name": "Qu\u00e9date Conmigo (Remix)",
-        "url": "https://open.spotify.com/album/6QLtDVO02H24gW3yzO900Y"
-      },
-      "artists": [
-        {
-          "name": "Omar Enrique",
-          "url": "https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7"
-        },
-        {
-          "name": "Manny Cruz",
-          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
-        }
-      ],
-      "duration_ms": 213976,
-      "name": "Qu\u00e9date Conmigo - Remix",
-      "url": "https://open.spotify.com/track/31m4BylSn9z9NoS5qfviJw"
     },
     {
       "added_at": "2024-01-25 23:12:57",

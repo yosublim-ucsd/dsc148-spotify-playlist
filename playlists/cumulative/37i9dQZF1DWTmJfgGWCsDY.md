@@ -4,7 +4,7 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-91 songs - 6 hr 27 min
+92 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Nimekuona Wewe](https://open.spotify.com/track/5PBSEww6tZGRO2rw4pxIJI) | [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Nimekuona Wewe](https://open.spotify.com/album/5I6OqXRV878FRPHrVcWJho) | 4:46 | 2023-12-08 |  |
 | [Nimempost \- Remix](https://open.spotify.com/track/65bXqAf2Vz6NUK19RkBmZ1) | [Kidene Fighter](https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA), [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Nimempost \(Remix\)](https://open.spotify.com/album/2V5WxJD56nKXtyZWLwue2T) | 3:59 | 2024-01-11 |  |
 | [NINAASILA](https://open.spotify.com/track/6EyFCSjskAxCdtUartv446) | [Duke](https://open.spotify.com/artist/6DnyyK1TL0Lbfrvwz9zeLc), [Kibo Travella](https://open.spotify.com/artist/0LWlOhbVzbmoHTTi4sot50), [Mczo](https://open.spotify.com/artist/1zJfEzj4ITRmpkkAa208Su) | [Pamoja V Sisso \(Singeli Sound\)](https://open.spotify.com/album/0Owu6KAD2puOplJsCeRoSk) | 3:54 | 2022-11-07 |  |
-| [Niwataje](https://open.spotify.com/track/7qPJAWnwWTDp5jIe7OXbBP) | [Mkojani](https://open.spotify.com/artist/7jZAgLdoUU9mA8lQIGDI9U), [Kai Music](https://open.spotify.com/artist/2q1hVslf2JFLRjiqobuHy6) | [Niwataje](https://open.spotify.com/album/5SKtdBUN7j9rFCtC1cv2ed) | 3:31 | 2022-08-05 |  |
+| [Niwataje](https://open.spotify.com/track/6tuzK14AAS6pZO6KsDitIy) | [Mkojani](https://open.spotify.com/artist/7jZAgLdoUU9mA8lQIGDI9U), [Kai Music](https://open.spotify.com/artist/0evTkA4rvITtue34dZbQvl) | [Niwataje](https://open.spotify.com/album/7l3NJQr1fIaCg0vgyDnpCI) | 3:31 | 2024-01-26 |  |
+| [Niwataje](https://open.spotify.com/track/7qPJAWnwWTDp5jIe7OXbBP) | [Mkojani](https://open.spotify.com/artist/7jZAgLdoUU9mA8lQIGDI9U), [Kai Music](https://open.spotify.com/artist/2q1hVslf2JFLRjiqobuHy6) | [Niwataje](https://open.spotify.com/album/5SKtdBUN7j9rFCtC1cv2ed) | 3:31 | 2022-08-05 | 2024-01-31 |
 | [Nyumba Ndogo](https://open.spotify.com/track/1GAmhYpbEPorhkSOecnVqj) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Nyumba Ndogo](https://open.spotify.com/album/3X3LJtY2Y3FVpZfWxTGbGb) | 4:01 | 2022-08-05 |  |
 | [Penzi Jipya](https://open.spotify.com/track/06n62HV6RIhYiZHkjVvjwc) | [Gigy Money](https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e), [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Penzi Jipya](https://open.spotify.com/album/6w38hV7TcLYrKwhIoVzxM1) | 5:14 | 2023-06-01 |  |
 | [Pita Huku](https://open.spotify.com/track/6MPh88mAFUWCoAMZhNx8JU) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Pita Huku](https://open.spotify.com/album/5Xhex3yr9HCNsFZ6ctCjPR) | 4:56 | 2023-09-15 |  |

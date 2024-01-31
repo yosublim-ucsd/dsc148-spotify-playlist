@@ -4,7 +4,7 @@
 
 > traka hdsptm 👿👹🍻🍾🫡💸
 
-186 songs - 10 hr 3 min
+187 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Cobardemente](https://open.spotify.com/track/4RZIcM350ojxE1p2FgFVmt) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Súper Éxitos](https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk) | 3:04 | 2023-12-20 | 2024-01-30 |
 | [Compré Una Cantina](https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:39 | 2023-11-27 | 2024-01-30 |
 | [Con El Corazón En La Mano](https://open.spotify.com/track/7dQXDhWQmLrememQGfQo70) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Con La Fuerza Del Destino](https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY) | 3:17 | 2023-11-27 | 2024-01-30 |
-| [Con To \(feat\. Flow Nasty\)](https://open.spotify.com/track/1QFJzim9HBPFW9E1B1333Q) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Andre Noriega](https://open.spotify.com/artist/4IQ2uSe2L9smq76Jz048Si), [Oviña](https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam), [Flow Nasty](https://open.spotify.com/artist/4ycU4IDmFd9OO39ej6yfWk) | [Con To \(feat\. Flow Nasty\)](https://open.spotify.com/album/2PJRh0xPNmeEZVGNhwHGGf) | 2:12 | 2024-01-29 |  |
+| [Con To \(feat\. Flow Nasty\)](https://open.spotify.com/track/1QFJzim9HBPFW9E1B1333Q) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Andre Noriega](https://open.spotify.com/artist/4IQ2uSe2L9smq76Jz048Si), [Oviña](https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam), [Flow Nasty](https://open.spotify.com/artist/4ycU4IDmFd9OO39ej6yfWk) | [Con To \(feat\. Flow Nasty\)](https://open.spotify.com/album/2PJRh0xPNmeEZVGNhwHGGf) | 2:12 | 2024-01-29 | 2024-01-31 |
 | [CRAZYZ](https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:24 | 2024-01-29 |  |
 | [Cuando Los Hombres Lloran](https://open.spotify.com/track/0tAq9Pn5C9F6iTsAqvtj4s) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Las Bandas Más Matonas](https://open.spotify.com/album/14FxLzVmnS8EvGjyrkJZ7W) | 2:16 | 2023-11-27 | 2024-01-30 |
 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/0SO2Dss01b1ZlHfNVhcAQq) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [30 Exitos Insuperables](https://open.spotify.com/album/7H4amdxBMJreiqTAa8seXB) | 3:18 | 2023-11-27 | 2024-01-30 |
@@ -74,6 +74,7 @@
 | [Eres Tu / </3](https://open.spotify.com/track/4dhPazu6qCoo50c7bqq6IT) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Eres Tu / </3](https://open.spotify.com/album/6jnwwwk6qIVOmLRG6aCvDC) | 3:25 | 2022-11-30 | 2023-11-28 |
 | [Esta Noche](https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:09 | 2022-11-30 | 2023-11-28 |
 | [Extssy Model](https://open.spotify.com/track/24teIhDYO2RocTA2v5dY0r) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 4:00 | 2022-11-30 | 2023-11-28 |
+| [F\*CK](https://open.spotify.com/track/6e1e9WGpijrsGEDafrqmBL) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [F\*CK](https://open.spotify.com/album/3qFjhIu38Fly1SXrWiD1Tq) | 2:05 | 2024-01-29 |  |
 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 | 2024-01-29 |  |
 | [Frío de Ausencia](https://open.spotify.com/track/4LvVnIfsV2A6pbc8HDgbkc) | [Los Chicanos](https://open.spotify.com/artist/4CtmyXgladHink6882NHrX) | [Éxitos..](https://open.spotify.com/album/1ukRNJ1deHMIlBkquZ71i4) | 3:53 | 2023-11-27 | 2024-01-30 |
 | [Hablando Claro](https://open.spotify.com/track/0gqoQHLcWzZcls7KzYd6xT) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Hablando Claro](https://open.spotify.com/album/6RsUI2bxtHfbGTV5EnCILh) | 2:17 | 2023-11-27 | 2024-01-30 |

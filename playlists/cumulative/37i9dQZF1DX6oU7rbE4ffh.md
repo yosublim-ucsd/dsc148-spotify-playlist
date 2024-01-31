@@ -4,7 +4,7 @@
 
 > Take a deep breath and relax.
 
-153 songs - 8 hr 2 min
+157 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Canes Venatici](https://open.spotify.com/track/2P64F9RPwQos7ELkKotqW5) | [Donald Beaudoin](https://open.spotify.com/artist/2Z0z4n4ndyWuJVJYoSvlLI) | [Canes Venatici](https://open.spotify.com/album/4FcA1I4Xjgy2fpry8zNlK3) | 3:43 | 2022-05-25 | 2023-03-31 |
 | [Cardboard Gadgets](https://open.spotify.com/track/1GnzjRqS1QnHeA9O7bR5y0) | [Georg Valeks](https://open.spotify.com/artist/0CdgdnjNOILlUCUFx0JfWS) | [Cardboard Gadgets](https://open.spotify.com/album/2MzvZKJ9HAnFmTxQHTAqyH) | 3:36 | 2022-05-25 | 2022-08-24 |
 | [Celestial Orbit](https://open.spotify.com/track/7leBQCu78Elq3ersWc8HWE) | [Yuio Zah](https://open.spotify.com/artist/3LZJYvCAKjkOsPGlWj6oTf) | [Intergalactic](https://open.spotify.com/album/2KnSiN6Iqp0CIdsMHu9L4P) | 3:00 | 2023-04-21 |  |
+| [Chromaticity](https://open.spotify.com/track/4VNfBtsAbadZfGJHbZavU2) | [Marlowe Coleman](https://open.spotify.com/artist/19Ezl9iEvMupXpC5XMgZBR) | [Chromaticity](https://open.spotify.com/album/39cFOl89shll6kZj8hbpqi) | 3:30 | 2024-01-30 |  |
 | [Convergence](https://open.spotify.com/track/6u6mjHCd8ULdqYYmkRJeeS) | [SleepTherapy](https://open.spotify.com/artist/6lmrCOEWctZj9LghJ9wxuv) | [Convergence](https://open.spotify.com/album/1095m41z6UPcurOL35ybPa) | 3:14 | 2022-08-15 | 2023-03-10 |
 | [Dagdraumur](https://open.spotify.com/track/4vpUme6bonH4EPwMxBBLOP) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Dagdraumur](https://open.spotify.com/album/2mwJKpI6depPe7yzYAIzGT) | 2:46 | 2022-06-16 |  |
 | [dama](https://open.spotify.com/track/4Xri8RbDoyznZ2HZeQaSlh) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Midori](https://open.spotify.com/album/1dSDUX6GkjFVeQtNjWYVKt) | 3:08 | 2022-05-25 | 2022-08-24 |
@@ -62,6 +63,7 @@
 | [Escapism](https://open.spotify.com/track/1hZwpsltD5RTHPhJTEz42U) | [Corbin Tellier](https://open.spotify.com/artist/3hg9opvN3lCbZsoG6T0gpn) | [Escapism](https://open.spotify.com/album/4yZf7vfGxPqrSxazti0FFH) | 3:18 | 2022-12-09 |  |
 | [Evangelic](https://open.spotify.com/track/0XTn1DV7iPYTS9yVXzgnZI) | [Solitudes](https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX) | [Evangelic](https://open.spotify.com/album/6Aa9HH5W8IQHhPuFChIJj1) | 2:33 | 2023-03-17 |  |
 | [Even Silence](https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Even Silence](https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj) | 2:20 | 2023-05-05 |  |
+| [F Sharp Major Manomaya Drone](https://open.spotify.com/track/0b0dkYuwwMZOQuwTYe7O5I) | [Tim Eshin](https://open.spotify.com/artist/0MIELhUkO2GlHsYfatULMO) | [Yoga / Meditation Drones](https://open.spotify.com/album/6xhOpEpBvf3v2zluvZBVSt) | 3:14 | 2024-01-30 |  |
 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 | 2022-05-25 | 2023-04-14 |
 | [Falling Winds](https://open.spotify.com/track/3LDurr25Dx3XAR4nMxNXpp) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Falling Winds](https://open.spotify.com/album/4nOCx7KqmyryOHBbu3cNdV) | 3:25 | 2022-05-25 | 2023-02-25 |
 | [Following The Seasons](https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy) | [Aisha Akebono](https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72) | [Following The Seasons](https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb) | 3:31 | 2022-11-11 |  |
@@ -77,6 +79,7 @@
 | [Healing Waves](https://open.spotify.com/track/2e0GYT1cwyJTcWy9hiN1xZ) | [Pax Soloman](https://open.spotify.com/artist/7lPIQjl1EboMXeIKVogpRg) | [Healing Waves](https://open.spotify.com/album/1XKOfSQ44K7AgVPgCubMbD) | 2:41 | 2022-05-25 |  |
 | [Heelen](https://open.spotify.com/track/0UDlSuqQciysci1WARAywP) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Heelen](https://open.spotify.com/album/4ZW0tZd8K849k6Ymuni1rp) | 2:49 | 2022-05-25 |  |
 | [Helleborus Orientalis](https://open.spotify.com/track/7KHpwN3iEUPfccUqeAKNR0) | [The Gods and I](https://open.spotify.com/artist/4O1p00pWzMaD9Vr7bm5sr7) | [The Modern Prometheus](https://open.spotify.com/album/6K3RHtl7uPCwHdkYDwFBjd) | 3:24 | 2022-05-25 | 2023-05-20 |
+| [Here](https://open.spotify.com/track/39OcBhQNIyodpgt9OEPE1K) | [Both Are Infinite](https://open.spotify.com/artist/50DApFni8RZH3HKbCTgjve) | [Here](https://open.spotify.com/album/7JU3DbNEFTXHjJWSt7Vpwa) | 3:01 | 2024-01-30 |  |
 | [High Fly](https://open.spotify.com/track/4lpIocJWZ7ubpEi2WmXs6Z) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Vast Surroundings](https://open.spotify.com/album/4TAjh8pw6XL9Vujx5tMm7U) | 3:46 | 2022-05-25 | 2022-09-07 |
 | [I Believe](https://open.spotify.com/track/0vK8tdh9HbtUcAm9g4CVDD) | [Xiaoming Chu](https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9) | [Peace Of Mind](https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ) | 2:00 | 2022-05-25 | 2022-08-06 |
 | [Imagination](https://open.spotify.com/track/1wqc4mp6CKNGnDV3rOTb9M) | [Invertivo](https://open.spotify.com/artist/41SaKcYP2CTeAwnQPFS3YV) | [Imagination](https://open.spotify.com/album/4RbMri9MGtYClHNBOdDNVm) | 2:54 | 2022-05-25 |  |
@@ -125,6 +128,7 @@
 | [Quiet Motions](https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Quiet Motions](https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr) | 3:15 | 2022-11-11 |  |
 | [Rejuvenate](https://open.spotify.com/track/2BMsZTRgwxpLN4tQFSUcSo) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Rejuvenate](https://open.spotify.com/album/0ovPC1p3FWLW1NHSgiobYf) | 3:13 | 2022-06-16 |  |
 | [Repouso](https://open.spotify.com/track/41Fp3VZmyloxKUUcWDUrH2) | [Polysomni](https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN) | [Repouso](https://open.spotify.com/album/0FOLb3AIWL91ig6CEQu09c) | 3:56 | 2022-05-25 |  |
+| [Resting Hearts](https://open.spotify.com/track/27vouVstDyg8Wdqc2HwtPm) | [Aural Veneer](https://open.spotify.com/artist/2KxXrvu8Ji2aHsMLwrE0Go) | [Resting Hearts](https://open.spotify.com/album/28Qcr8EP3AKrNEZOZLToUz) | 3:35 | 2024-01-30 |  |
 | [Revolve](https://open.spotify.com/track/0X33Oo6yg2qlTsrFiH1qta) | [Sleepless Eye](https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS) | [Revolve](https://open.spotify.com/album/5x1eSN3IFw7QEbT9sm44w2) | 3:07 | 2022-05-25 |  |
 | [Roses](https://open.spotify.com/track/7wU6EBFCXEYad8ok9ivBBY) | [Elevated Minds](https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6) | [Roses](https://open.spotify.com/album/7F9msRYmj8CHWFYtUyXTfq) | 4:01 | 2022-05-25 | 2022-08-06 |
 | [Rêver](https://open.spotify.com/track/1yYjkMdQyOvwqiwfeGP5fK) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Rêver](https://open.spotify.com/album/6Sb8XeQK9LqSeUlYHFaB9B) | 2:54 | 2022-05-25 |  |

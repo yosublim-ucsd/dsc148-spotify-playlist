@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Houseium&\#x27;s BANGIN HOUSE is full of high energy house music! 📲 TikTok &amp; IG: @houseium \[dm for inquiries\]
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,110 likes - 55 songs - 2 hr 52 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,115 likes - 55 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 54 | [Cat Walk](https://open.spotify.com/track/6XFtkaLDZ2bfM1E3ZRlXlV) | [GREEDO](https://open.spotify.com/artist/3yu7ddRCRTmHlxmz7NWO0c) | [Closer](https://open.spotify.com/album/7j2qe7cR8GY1MGzJPsUo4S) | 5:30 |
 | 55 | [Control](https://open.spotify.com/track/4NLF0XgMRCT6ARMhuSIL1y) | [Pavarino](https://open.spotify.com/artist/2Fpae9iRbR4yJa3hScKIO2) | [Control](https://open.spotify.com/album/4zhVHvYUGAuyZnsSzZmtr2) | 2:51 |
 
-Snapshot ID: `NjE0NCw4NTA5NzFhYjJiOTUyZDIyYTVmOGExZDg0YThjMWFmZDAzZTQxMTQz`
+Snapshot ID: `NjE0Niw0ZjlhYzIyY2QwNGI5NjVjM2VjNTA0NDE3ZmFiZGMxZjRlNDg3ZGU4`

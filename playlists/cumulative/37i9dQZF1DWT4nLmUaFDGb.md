@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-242 songs - 15 hr 35 min
+243 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [At Last](https://open.spotify.com/track/0fJ561ClK3pIJBr0c6dtUX) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Both Sides Now](https://open.spotify.com/album/2zK66VRY3rDGDuZcGvRJdZ) | 4:28 | 2021-12-21 | 2022-02-25 |
 | [Autumn Breeze](https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso), [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Autumn Breeze](https://open.spotify.com/album/44JRlQhNgPJ6M0HfyNYQbj) | 4:01 | 2021-12-21 |  |
 | [Autumn Leaves](https://open.spotify.com/track/76rNA8RYBC1WgspUaOVZsB) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Songbird 20](https://open.spotify.com/album/3XqJP3zCQMeEdJrk7IGiTJ) | 4:42 | 2021-12-21 |  |
+| [Baby Won't You Please Come Home](https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z) | [Naama](https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg) | [Baby Won't You Please Come Home](https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk) | 3:19 | 2024-01-19 |  |
 | [Be Still My Heart](https://open.spotify.com/track/4KAUdFfxYtrerQEw4fwAKq) | [Silje Nergaard](https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc) | [At First Light](https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A) | 4:59 | 2021-12-21 |  |
 | [Blue in Green](https://open.spotify.com/track/1091lAjkbu1GrbdsxICeWI) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [Still Life](https://open.spotify.com/album/0Yly6QXR76EpiQtG51yenm) | 3:46 | 2022-07-14 |  |
 | [Blue Moon](https://open.spotify.com/track/4DEOJOUfwi3jErNGJcW6Vu) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Moon Lover](https://open.spotify.com/album/05an8UcHjgcT3AIt1Sw1ye) | 3:00 | 2021-12-21 | 2022-07-29 |
@@ -239,7 +240,7 @@
 | [What Love Will Do to You](https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:51 | 2022-10-20 | 2023-10-05 |
 | [What Love Will Do to You](https://open.spotify.com/track/4bOsrHAmfULYx4PmkLV7nr) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 2:51 | 2022-08-29 | 2022-10-13 |
 | [What The World Needs Now Is Love](https://open.spotify.com/track/2Y4jKE3vhkI2yR3Ms065ZZ) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Boy Next Door \(Special Edition\)](https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc) | 4:12 | 2022-09-08 |  |
-| [When Wind Fades](https://open.spotify.com/track/1WqC7bXM00cOZpr8PhG8BR) | [Siril Malmedal Hauge](https://open.spotify.com/artist/6rzVr8BQsgQEpzrH0Pv1Yn), [Kjetil Mulelid](https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy) | [Blues and Bells](https://open.spotify.com/album/4Fx9vxHmk3yAk8M5o4IP3Y) | 5:07 | 2023-08-22 |  |
+| [When Wind Fades](https://open.spotify.com/track/1WqC7bXM00cOZpr8PhG8BR) | [Siril Malmedal Hauge](https://open.spotify.com/artist/6rzVr8BQsgQEpzrH0Pv1Yn), [Kjetil Mulelid](https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy) | [Blues and Bells](https://open.spotify.com/album/4Fx9vxHmk3yAk8M5o4IP3Y) | 5:07 | 2023-08-22 | 2024-01-31 |
 | [Will you still love me tomorrow](https://open.spotify.com/track/2pzhO7ZJ3tQGnnkxI6sc5o) | [Inger Marie Gundersen](https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq) | [Make this moment](https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY) | 4:47 | 2022-08-19 |  |
 | [Worrisome Heart](https://open.spotify.com/track/3zh5km8gPDYMiWvmLTsos0) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Worrisome Heart](https://open.spotify.com/album/5ahEd7berYIgjRYsIHZa8Y) | 4:21 | 2021-12-21 | 2023-08-19 |
 | [You Are My Sunshine](https://open.spotify.com/track/2bAdCQPyUANc4oxnR7ZsfI) | [Sara Gazarek](https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc) | [Yours](https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM) | 3:34 | 2021-12-21 |  |

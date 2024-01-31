@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 1204561,
+  "2024-01-31": 1205140,
   "date_first_scraped": "2021-12-21",
   "description": "Calm your mind from anxiety with gentle piano and ambient music.",
   "name": "Stress Relief",
@@ -5036,6 +5036,24 @@
     },
     {
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/0ofqk7fjvTJpteLRDdHdHh"
+      },
+      "artists": [
+        {
+          "name": "Cristoforo Giordano",
+          "url": "https://open.spotify.com/artist/5kCSdIBChGo0GjOEuyjb40"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/2ow8vxjl8drOEgx1eW76gM"
+    },
+    {
+      "album": {
         "name": "Room For Thoughs",
         "url": "https://open.spotify.com/album/3BRR6uX7qSjZiWikMe9Fwh"
       },
@@ -5159,6 +5177,24 @@
       "duration_ms": 156976,
       "name": "Salaio",
       "url": "https://open.spotify.com/track/3JtiHgyAOj8mvHUi5zR3Sq"
+    },
+    {
+      "album": {
+        "name": "Sand In My Eyes",
+        "url": "https://open.spotify.com/album/0KAOiLaBA5rengMxFMGXrF"
+      },
+      "artists": [
+        {
+          "name": "Orion Dreamwalker",
+          "url": "https://open.spotify.com/artist/3tesBuyrrVqSoGUa5EoxzS"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Sand In My Eyes",
+      "url": "https://open.spotify.com/track/3GRJ4sVDMibRmQGsC5pTGJ"
     },
     {
       "album": {

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 
 > Get into the flow and stay focused while writing code, with music curated by the JetBrains team\. www.jetbrains.com
 
-[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 4,552 likes - 100 songs - 8 hr 23 min
+[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 4,553 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tu t'en lasses](https://open.spotify.com/track/4CWjcFDg1oiONAkIkRiIpG) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paradigmes](https://open.spotify.com/album/1u2Q5MFWptOdPpldjC0xO9) | 6:02 |
-| 2 | [The Ha Dub Rewerk'd](https://open.spotify.com/track/6CwYUcRRe7URQo1n1bACFw) | [MikeQ](https://open.spotify.com/artist/0H2tgKu7aoe1YVflaRWH6o) | [Let It All Out EP](https://open.spotify.com/album/2n4OhDkh0yjrFimKqX9cFN) | 8:53 |
+| 2 | [Illusion Of Seclusion](https://open.spotify.com/track/6gqJJwkvzyXXj8SUEJgP4g) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Photay](https://open.spotify.com/album/18rcvgzvr5DMsPNOBwL5Cz) | 6:30 |
 | 3 | [The Afro Trap Ha \- Original Mix](https://open.spotify.com/track/1ausAXCNjCfqNGY4UdD6ai) | [Lazy Flow](https://open.spotify.com/artist/4jA2A3Y2maLt3gFjuEaAhy) | [Tropical Vogue Vol.2](https://open.spotify.com/album/3SE0Gy1E20oT4Pggqdv43s) | 2:59 |
 | 4 | [Streets of Calcutta](https://open.spotify.com/track/0qOkVf0dJYXokHxzm9CGnS) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Forest of Lost Children](https://open.spotify.com/album/2dwNxD6zrwPkRJlr08WOKA) | 3:55 |
 | 5 | [Hiç Mutlu Olmam Daha İyi](https://open.spotify.com/track/3bSfHmaA4wZx7kbwZ9xaMp) | [Lalalar](https://open.spotify.com/artist/6CWQ7KWveleaeFagKCz26T) | [Hiç Mutlu Olmam Daha İyi](https://open.spotify.com/album/6Gx00JHGuDHaIKRCTT5BkN) | 5:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 | 99 | [Dissolve](https://open.spotify.com/track/0Qm14E0Scc9hpGPwhowHEP) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k) | [Dissolve](https://open.spotify.com/album/3Gg6RFUbthCb0a6y3Nxssq) | 6:32 |
 | 100 | [Forgotten Empires Never Forget](https://open.spotify.com/track/3TKvD8kF23lMZG8CL1H3Ub) | [Bluetech](https://open.spotify.com/artist/5yUtOYdnxxWdcIoZM1dx68) | [The 4 Horsemen of the Electrocalypse: The White Horse](https://open.spotify.com/album/37HCblJExHkDL2VW2Y9yJE) | 5:16 |
 
-Snapshot ID: `MzM0LDU5ZDBjYjM0YWU2ODhjYTU5YTY4NTUxMGYwN2Y2MjVjY2Y4NDI2OGI=`
+Snapshot ID: `MzM3LGIxZTdlZWYxOGVjYmUwNmNmODQ3OTYzNGZjZjI0N2FhNTljYzFiY2I=`

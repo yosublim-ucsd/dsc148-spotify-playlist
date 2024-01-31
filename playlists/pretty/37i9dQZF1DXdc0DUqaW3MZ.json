@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 327918,
+  "num_followers": 328015,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjM2Y2QzOGNhZmI3OWU1OGMzZWIxODI2NDc0ZDk0NjZlMWVhMjY3",
+  "snapshot_id": "MCwwNGVlODg1ZDIxMDQ4ZjdlNTkxNmJkMzEwOThjNGY0MjFiYjhkYzgx",
   "tracks": [
     {
       "added_at": "2024-01-25 16:48:43",
@@ -1239,22 +1239,18 @@
     {
       "added_at": "2024-01-25 16:48:43",
       "album": {
-        "name": "What Kinda Music (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2"
+        "name": "Beato Classico",
+        "url": "https://open.spotify.com/album/0dZhnLbdVByf9r4vAdMALB"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+          "name": "J Lloyd",
+          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
         }
       ],
-      "duration_ms": 189683,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH"
+      "duration_ms": 208959,
+      "name": "Beato Classico",
+      "url": "https://open.spotify.com/track/7I3PUsLHsP6RCp44lcOvI9"
     },
     {
       "added_at": "2024-01-25 16:48:43",
@@ -1279,18 +1275,22 @@
     {
       "added_at": "2024-01-25 16:48:43",
       "album": {
-        "name": "Beato Classico",
-        "url": "https://open.spotify.com/album/0dZhnLbdVByf9r4vAdMALB"
+        "name": "What Kinda Music (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2"
       },
       "artists": [
         {
-          "name": "J Lloyd",
-          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         }
       ],
-      "duration_ms": 208959,
-      "name": "Beato Classico",
-      "url": "https://open.spotify.com/track/7I3PUsLHsP6RCp44lcOvI9"
+      "duration_ms": 189683,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH"
     },
     {
       "added_at": "2024-01-25 16:48:43",
@@ -1315,22 +1315,38 @@
     {
       "added_at": "2024-01-25 16:48:43",
       "album": {
-        "name": "Big Bad Mood (feat. Miraa May)",
-        "url": "https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ"
+        "name": "FVR105 (p-rallel Remix)",
+        "url": "https://open.spotify.com/album/6LMCxZc1m2uTJ1ZSNwgjYz"
       },
       "artists": [
         {
-          "name": "Jordan Stephens",
-          "url": "https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze"
+          "name": "NiNE8",
+          "url": "https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG"
         },
         {
-          "name": "Miraa May",
-          "url": "https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM"
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        },
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        },
+        {
+          "name": "Bone Slim",
+          "url": "https://open.spotify.com/artist/5VoreVetRqMEFui6KpGdt2"
+        },
+        {
+          "name": "Lorenzorsv",
+          "url": "https://open.spotify.com/artist/6ikQz0CCwjFMtT7Hzxn9mY"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
         }
       ],
-      "duration_ms": 229090,
-      "name": "Big Bad Mood (feat. Miraa May)",
-      "url": "https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T"
+      "duration_ms": 193000,
+      "name": "FVR105 - p-rallel Remix",
+      "url": "https://open.spotify.com/track/5F4jNQAtcorOBctGgpcjNh"
     }
   ],
   "unique_name": "Soultronic",

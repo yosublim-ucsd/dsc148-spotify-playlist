@@ -4,7 +4,7 @@
 
 > 【セットリスト公開中！】2024年1月27日・28日、日本武道館にて開催！The official playlist of "LisAni! LIVE 2024
 
-545 songs - 1 day 15 hr 13 min
+546 songs - 1 day 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [アニメじゃない〜夢を忘れた古い地球人よ](https://open.spotify.com/track/28ACIDtyN78mOR0sx8PoAn) | [新井正人](https://open.spotify.com/artist/7hMxnHHsLMWePQQvmyFDjT) | [アニメじゃない〜夢を忘れた古い地球人よ](https://open.spotify.com/album/1oxQkwYrG93I53Y8yfcNZ8) | 4:05 | 2022-12-07 | 2023-01-12 |
 | [インモラリスト](https://open.spotify.com/track/7tr1dBlrKE0OdlfEeFJ63d) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [インモラリスト](https://open.spotify.com/album/7bpk8rcuTc2IvrYzv4v7rK) | 4:55 | 2022-06-07 | 2023-01-12 |
 | [エフェメラをあつめて](https://open.spotify.com/track/3IphULZ8rvO9lebAz4OnoG) | [Minori Suzuki](https://open.spotify.com/artist/3Ath9xfI4WBdrZPFQ4VX9A) | [エフェメラをあつめて](https://open.spotify.com/album/7bf0ROA3sO3o0o6BEg2PZF) | 4:41 | 2022-06-07 | 2022-06-23 |
+| [エンパシア](https://open.spotify.com/track/2UBdcJC3Ln67ne7cb7hrR3) | [CHiCO](https://open.spotify.com/artist/7IV8K4vnEgJDGkfeyjjbWL) | [エンパシア](https://open.spotify.com/album/5e0FBUwr1TNLyA2CyKQQzx) | 4:27 | 2024-01-30 |  |
 | [エース](https://open.spotify.com/track/0inUfiO8xQe8qx76gHW65a) | [CHiCO](https://open.spotify.com/artist/7IV8K4vnEgJDGkfeyjjbWL) | [エース](https://open.spotify.com/album/2Jpi5zf9OI76za4S136kvJ) | 3:08 | 2023-11-17 |  |
 | [オレンジ](https://open.spotify.com/track/2l0q9YHXmhrvPIDgxAbdtA) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [オレンジ](https://open.spotify.com/album/5KAOHWbyNhVLoAGwrKxBL9) | 3:44 | 2022-06-07 | 2022-06-23 |
 | [ガチャガチャきゅ\~と・ふぃぎゅ@メイト](https://open.spotify.com/track/5i67QOClYA9CYsgzwjz5fF) | [Mosaic.Wav](https://open.spotify.com/artist/4UNEM59pyyoeOZiQKj3fXo) | [AKIBA\-POP RECOLLECTION](https://open.spotify.com/album/3lxv2bu6lzvugPTbMsSmdW) | 3:51 | 2023-05-30 | 2024-01-24 |

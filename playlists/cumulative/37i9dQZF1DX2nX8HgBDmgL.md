@@ -4,7 +4,7 @@
 
 > Catch the amazing South Asian artists with Raja Kumari.
 
-150 songs - 7 hr 51 min
+151 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Treasure](https://open.spotify.com/track/5CVG987blpufhMgwaXN6UX) | [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0) | [Treasure](https://open.spotify.com/album/4MzbdkOO1YzOYD13WC2Goh) | 2:43 | 2021-11-11 | 2022-07-19 |
 | [Tropical Hills](https://open.spotify.com/track/1RCY5OwIvN2kk8A9voQSdW) | [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp) | [Tropical Hills](https://open.spotify.com/album/13GncLeabSPoO84G2NtKkl) | 2:07 | 2024-01-03 |  |
 | [Tropical Hills](https://open.spotify.com/track/3Xehu9k1QGMPfG0nUOgJUf) | [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp) | [Tropical Hills](https://open.spotify.com/album/5yVJx2QgjQZ7HcDchYRDpv) | 2:07 | 2022-08-16 | 2024-01-04 |
-| [Tu Aake Dekhle](https://open.spotify.com/track/0yCWDaAgOtg6TKlNCg9rwA) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Carnival](https://open.spotify.com/album/7uftfPn8f7lwtRLUrEVRYM) | 4:30 | 2022-07-18 |  |
+| [Tu Aake Dekhle](https://open.spotify.com/track/0yCWDaAgOtg6TKlNCg9rwA) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Carnival](https://open.spotify.com/album/7uftfPn8f7lwtRLUrEVRYM) | 4:30 | 2022-07-18 | 2024-01-31 |
+| [Tu Aake Dekhle](https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Carnival](https://open.spotify.com/album/5eF8So0MxcSwx5mWSG93QE) | 4:30 | 2024-01-03 |  |
 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 | 2024-01-03 |  |
 | [Turn Me on \(Remix\) \[feat\. Mumzy Stranger & Raxstar\]](https://open.spotify.com/track/35bGZ0hG27HIz9ZnTGNr7N) | [Nish](https://open.spotify.com/artist/3xyfJgRtCzUrNshzo4Deg9), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt) | [Turn Me on \(Remix\) \[feat\. Mumzy Stranger & Raxstar\]](https://open.spotify.com/album/30T3kSECyT1i2ytnwAcq0E) | 4:17 | 2021-11-11 | 2022-07-19 |
 | [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:00 | 2022-07-18 |  |

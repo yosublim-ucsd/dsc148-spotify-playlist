@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 2191845,
+  "2024-01-31": 2191878,
   "date_first_scraped": "2019-05-26",
   "description": "The original chill instrumental beats playlist.",
   "name": "Jazz Vibes",
@@ -44113,7 +44113,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 110344,
       "name": "Moon",
       "url": "https://open.spotify.com/track/43h5zuXze1jS9F5c13MutN"
@@ -48509,6 +48509,24 @@
       "duration_ms": 134166,
       "name": "Not Your Fault",
       "url": "https://open.spotify.com/track/2x46RS4ZKqojPgrWue6Kj4"
+    },
+    {
+      "album": {
+        "name": "notable",
+        "url": "https://open.spotify.com/album/4Qx3XovgDCfjn7KlTWpKyI"
+      },
+      "artists": [
+        {
+          "name": "flamingo zamperoni",
+          "url": "https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121481,
+      "name": "notable",
+      "url": "https://open.spotify.com/track/2esHjrQWY6d9tDRuFlwsVE"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "let's get it on",
-  "num_followers": 43724,
+  "num_followers": 43744,
   "original_name": "bes\u00e1ndote <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzE4ZTJjYThhNTZmMWM4Yzg5ZDE1ODdlNGI0ZTA2M2RhMDJkMzU4",
+  "snapshot_id": "MCw5ZjhlMTQ1YTg4MjcyNzA3MGJjMzBlYmM0ZjYxMTUzZjMxMGMyZTFj",
   "tracks": [
     {
       "added_at": "2023-12-12 22:35:32",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3tHGFcXeL55wqNQl2vh2GX"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 194233,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/4KM3EegQxVIvcihTEjPdRf"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 201642,
       "name": "me jodi...",
       "url": "https://open.spotify.com/track/4trfOyEYrf0Ezx8LUDogU1"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3tHGFcXeL55wqNQl2vh2GX"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 194233,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/4KM3EegQxVIvcihTEjPdRf"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
-        "name": "LQTQH",
-        "url": "https://open.spotify.com/album/5HPXDjAoNY2sLab8HotJ59"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 161889,
-      "name": "LQTQH",
-      "url": "https://open.spotify.com/track/2rEtrKowZlSwB3YJU9KJhL"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/3JUzKnPSx25f6XGmFlmOQM"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 174303,
       "name": "Aire",
       "url": "https://open.spotify.com/track/6KD13DHZyT3hRvcVg1sZfZ"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "LQTQH",
+        "url": "https://open.spotify.com/album/5HPXDjAoNY2sLab8HotJ59"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 161889,
+      "name": "LQTQH",
+      "url": "https://open.spotify.com/track/2rEtrKowZlSwB3YJU9KJhL"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
-        "name": "Nuevos Aires",
-        "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 226844,
-      "name": "DameLove (feat. Cuco)",
-      "url": "https://open.spotify.com/track/2ALEhWrcpAdOC7YYJBQIre"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
         "name": "Cardellino",
         "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 163755,
       "name": "COLTRANE",
       "url": "https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "Nuevos Aires",
+        "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 226844,
+      "name": "DameLove (feat. Cuco)",
+      "url": "https://open.spotify.com/track/2ALEhWrcpAdOC7YYJBQIre"
     },
     {
       "added_at": "2023-12-12 22:35:32",

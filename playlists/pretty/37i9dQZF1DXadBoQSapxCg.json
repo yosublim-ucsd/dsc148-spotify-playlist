@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 308235,
+  "num_followers": 308191,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzY4NjZlZTE4MDg5MTUyZmIyOGM2MjI2MmEzNzdmMDFkM2U0ZGQ1",
+  "snapshot_id": "MCxkYTIyMGUwMGM4M2EwOGM1MjU0NDM2YTJjMTE5MWEyN2IyNzRlODI3",
   "tracks": [
     {
       "added_at": "2023-11-24 17:02:27",
@@ -779,26 +779,6 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
-        "name": "Confundindo S\u00e1bios",
-        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 235740,
-      "name": "V\u00edcio",
-      "url": "https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB"
-    },
-    {
-      "added_at": "2023-11-24 17:02:27",
-      "album": {
         "name": "Djavan",
         "url": "https://open.spotify.com/album/7FrPBgxnDtKXFF0fDo02VU"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 269909,
       "name": "Djavan",
       "url": "https://open.spotify.com/track/5qvHuqSk7uQmHWyGLn58LE"
+    },
+    {
+      "added_at": "2023-11-24 17:02:27",
+      "album": {
+        "name": "Confundindo S\u00e1bios",
+        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 235740,
+      "name": "V\u00edcio",
+      "url": "https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB"
     },
     {
       "added_at": "2023-11-24 17:02:27",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/3Bv66xBV6gxCjKFGl32aOJ"
-      },
-      "artists": [
-        {
-          "name": "Bruna Griphao",
-          "url": "https://open.spotify.com/artist/3zBh63FeLXKl7X4M7Axqjo"
-        }
-      ],
-      "duration_ms": 140596,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/4Diwn4chKkEFT1c7XifxSl"
-    },
-    {
-      "added_at": "2023-11-24 17:02:27",
-      "album": {
         "name": "Playlist Transante",
         "url": "https://open.spotify.com/album/5kU7Es6oEU01pfXhkG9YBS"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 197494,
       "name": "Playlist Transante",
       "url": "https://open.spotify.com/track/2qCps28vIziXwOKmici1g7"
+    },
+    {
+      "added_at": "2023-11-24 17:02:27",
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/3Bv66xBV6gxCjKFGl32aOJ"
+      },
+      "artists": [
+        {
+          "name": "Bruna Griphao",
+          "url": "https://open.spotify.com/artist/3zBh63FeLXKl7X4M7Axqjo"
+        }
+      ],
+      "duration_ms": 140596,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/4Diwn4chKkEFT1c7XifxSl"
     },
     {
       "added_at": "2023-11-24 17:02:27",

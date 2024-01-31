@@ -4,7 +4,7 @@
 
 > love peace techno
 
-208 songs - 14 hr 4 min
+209 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Cash](https://open.spotify.com/track/59i2OvHMQI089MhL39oCwI) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [TELESHOP](https://open.spotify.com/artist/0Cr5IUi0VbocOLWgz8wiXx) | [Gift EP](https://open.spotify.com/album/58X3RQRsXbgnXYf3rbj8TW) | 4:09 | 2023-06-22 | 2023-07-22 |
 | [Catch Me](https://open.spotify.com/track/1VZcEYRfYUuFywp4ns4pxd) | [Franck](https://open.spotify.com/artist/3XGGc2cdg65V8AOXGfdHwb) | [Sektion 3](https://open.spotify.com/album/1nGOgACCBlA4Hmrlm8Xkpd) | 5:42 | 2023-06-05 | 2023-06-10 |
 | [Chaotic NRG](https://open.spotify.com/track/5FKmQG3seap8bwPjbmQc5a) | [Panteros666](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt), [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS) | [Chaotic NRG](https://open.spotify.com/album/4FCtpzPYcNWouVVI3crsdV) | 4:40 | 2023-03-10 | 2023-06-06 |
+| [Close Your Eyes](https://open.spotify.com/track/1Hll6B9gqsOFi2Bln02laD) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Close Your Eyes EP](https://open.spotify.com/album/6hHi4OlpNnto3GNoLQyUG9) | 5:01 | 2024-01-29 |  |
 | [Close Your Eyes](https://open.spotify.com/track/5yQm4HrLdxmTEQgBN7XFnj) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Close Your Eyes EP](https://open.spotify.com/album/1vdhcibrbib1EV1iLZxInF) | 5:01 | 2023-04-18 | 2023-09-16 |
 | [Cool Kids](https://open.spotify.com/track/2SduRa0s3ZDDkC9dmbIRgw) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY), [Lavinia Hope](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Cool Kids](https://open.spotify.com/album/280PiP7DBhLYyJFNld8oeh) | 2:01 | 2023-12-22 |  |
 | [Counting Days](https://open.spotify.com/track/5OJD78B17MJrSAxQwIgurU) | [Julien Bracht](https://open.spotify.com/artist/10dTAeheJUqaoY9C0UxdHx) | [Counting Days](https://open.spotify.com/album/02pKj0523YIrSE3dYI87Ry) | 4:52 | 2023-03-10 | 2023-03-25 |
@@ -177,7 +178,7 @@
 | [Sarà perché ti amo](https://open.spotify.com/track/6nQLIugrQVRZ7UKaTVdnmS) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Sarà perché ti amo](https://open.spotify.com/album/42TliMaS2eKrHcVEzggsAh) | 2:14 | 2023-10-20 |  |
 | [Say yes to heaven](https://open.spotify.com/track/6s5nJGUMS7g0tO8L1ejXA9) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [BAYZY](https://open.spotify.com/artist/3Bp2X5t7A5WNxBg3Kdhr6z), [Oleria](https://open.spotify.com/artist/2VhoK5L78oQvoUJIDT4eHY) | [Say yes to heaven](https://open.spotify.com/album/5xz3sjfbFqdnf9Raa1kCGa) | 1:55 | 2023-09-29 | 2023-10-05 |
 | [Schreien! \- Turbo Remix](https://open.spotify.com/track/4tQxA4wt4knZ19uqRka3u6) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ), [Marti Fischer](https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV) | [Schreien! \(Turbo Remix\)](https://open.spotify.com/album/39nZLctQpTKoFBNZ8gHjsE) | 2:45 | 2023-05-10 |  |
-| [Serenity](https://open.spotify.com/track/24ODAgW6PvaHTl7QUgaoqk) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN), [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [Serenity](https://open.spotify.com/album/5SBYcUgDbjQNxILy4xvhop) | 6:55 | 2023-03-10 |  |
+| [Serenity](https://open.spotify.com/track/24ODAgW6PvaHTl7QUgaoqk) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN), [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [Serenity](https://open.spotify.com/album/5SBYcUgDbjQNxILy4xvhop) | 6:55 | 2023-03-10 | 2024-01-31 |
 | [Silence](https://open.spotify.com/track/5iXgpgzmDiafKqRk4Tl4d2) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Silence](https://open.spotify.com/album/0NWM2Hrpligv2VaMnVUX2Y) | 2:58 | 2023-11-10 |  |
 | [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 | 2023-07-12 |  |
 | [Spicey \- Original](https://open.spotify.com/track/4V8WSDvLpCtcmeXn5ZZLCd) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Spicey \(Original\)](https://open.spotify.com/album/25RnjGOl1DrXiXDlG6axld) | 2:31 | 2023-06-29 | 2023-07-13 |

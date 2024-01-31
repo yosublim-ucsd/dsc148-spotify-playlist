@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 19283,
+  "num_followers": 19321,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2U4YWUwMDNlODljODExNTMwMDQ1YWE4ZThlNWVjYmY2YmZkNzRk",
+  "snapshot_id": "MCw1Zjc5ZmNlZjVlZGZhZTVmM2NiNGM3NDFmY2UzZTQyNDg1NjU0NDlj",
   "tracks": [
     {
       "added_at": "2024-01-26 00:01:00",
@@ -675,8 +675,8 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "BILLION DOLLAR DREAM (Deluxe Version)",
-        "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
+        "name": "Evil Twin",
+        "url": "https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo"
       },
       "artists": [
         {
@@ -684,13 +684,17 @@
           "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         },
         {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
           "name": "Phyno",
           "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         }
       ],
-      "duration_ms": 186906,
-      "name": "My Bro",
-      "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
+      "duration_ms": 152558,
+      "name": "Breaking News",
+      "url": "https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -843,8 +847,8 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Evil Twin",
-        "url": "https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo"
+        "name": "BILLION DOLLAR DREAM (Deluxe Version)",
+        "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
       },
       "artists": [
         {
@@ -852,17 +856,13 @@
           "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         },
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
           "name": "Phyno",
           "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         }
       ],
-      "duration_ms": 152558,
-      "name": "Breaking News",
-      "url": "https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP"
+      "duration_ms": 186906,
+      "name": "My Bro",
+      "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -999,22 +999,22 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "031 To The World 2.0",
-        "url": "https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH"
+        "name": "Bando Diaries",
+        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
       },
       "artists": [
         {
-          "name": "Lucasraps",
-          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         },
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 186240,
-      "name": "The Views",
-      "url": "https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui"
+      "duration_ms": 158298,
+      "name": "Bando Diaries",
+      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     }
   ],
   "unique_name": "Pump it Up ",

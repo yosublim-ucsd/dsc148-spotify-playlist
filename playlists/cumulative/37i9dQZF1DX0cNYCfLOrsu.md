@@ -4,7 +4,7 @@
 
 > The best in Dancehall for the gyaldem\. Cover: Tina \(Hoodcelebrityy\)
 
-196 songs - 10 hr 4 min
+197 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [LIGHTS](https://open.spotify.com/track/5NwpV8cS54Qr0Lxh4Qvfug) | [Leaha](https://open.spotify.com/artist/1QKXXl3OKfTUTcXg0z1ntp) | [LIGHTS](https://open.spotify.com/album/0Mbjwil51uX1EE2nARbl0f) | 3:05 | 2021-10-24 | 2022-07-29 |
 | [Lime Light](https://open.spotify.com/track/5AbcWeVLIUgIzrbZIGPVak) | [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [The Art of Flex](https://open.spotify.com/album/3SzwtY32eeDhTg8W4G1RhF) | 2:30 | 2021-10-24 | 2022-07-29 |
 | [Lockdown](https://open.spotify.com/track/0izUjTuDrUy2FgQOSRALSU) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Lockdown](https://open.spotify.com/album/0tJs3Wig9YBdDG8jGKeLq6) | 2:59 | 2021-10-24 | 2024-01-29 |
+| [Lockdown](https://open.spotify.com/track/6cy4qUAqBO5F5v5TR4AAIP) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP) | 2:59 | 2023-05-15 |  |
 | [Love Situations](https://open.spotify.com/track/18YlTPHOFfZCd4EaeqD8De) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Love Situations](https://open.spotify.com/album/3AYh9Cgmai1t6Aw6jvrQTe) | 3:24 | 2022-08-18 | 2023-05-16 |
 | [Mad Out](https://open.spotify.com/track/0e5lrtbJiVGRVTRU2wFgXo) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Mad Out](https://open.spotify.com/album/5aAuB9NOM8eG4JdQbVWthA) | 2:07 | 2021-10-24 | 2022-07-29 |
 | [Man Is The Least](https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Extra Raw: The First Lady Of Dancehall](https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd) | 3:50 | 2021-10-24 |  |
@@ -203,6 +204,6 @@
 | [Yamabella](https://open.spotify.com/track/0kXox7KhOnDs62txnUSLF1) | [Shaneil Muir](https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ) | [Yamabella](https://open.spotify.com/album/1MOESZoQnGJnCwXy6vm1Bs) | 2:54 | 2022-08-18 |  |
 | [Yamabella](https://open.spotify.com/track/2XtrSZeRNtCGiMJX7Kjp01) | [Shaneil Muir](https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ) | [Yamabella](https://open.spotify.com/album/1MRKXWfa8l9LMdBA7n8l3k) | 2:54 | 2022-08-18 | 2022-11-13 |
 | [You Don't Love Me \(No, No, No\) \- Extended Mix](https://open.spotify.com/track/0INtJm8gCJKtNaAYQNVlpZ) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [No, No, No](https://open.spotify.com/album/7DLI0K5q6Gb1vgtlgKSgmU) | 4:37 | 2023-05-15 |  |
-| [Young](https://open.spotify.com/track/6vuPtRQKVMAz7N2Lvrf2lX) | [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Young](https://open.spotify.com/album/0GWzMz9t2VtUHWL9SqCvWc) | 2:34 | 2021-10-24 |  |
+| [Young](https://open.spotify.com/track/6vuPtRQKVMAz7N2Lvrf2lX) | [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Young](https://open.spotify.com/album/0GWzMz9t2VtUHWL9SqCvWc) | 2:34 | 2021-10-24 | 2024-01-31 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

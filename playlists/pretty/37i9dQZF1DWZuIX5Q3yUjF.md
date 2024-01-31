@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Tatum Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,178 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,177 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 69 | [Non Mi Sembri Tu](https://open.spotify.com/track/3heycD4XRr4QZ5zmUuy0Ue) | [Gee Marchese](https://open.spotify.com/artist/6NOryWbPcGZeujO5aHzAka), [Kinder](https://open.spotify.com/artist/7Ll3iGPVXXh27DmeDkfV28), [J Valerix](https://open.spotify.com/artist/4EcOFW30CqidrKMARI3I7u) | [Non Mi Sembri Tu](https://open.spotify.com/album/0DbwQqagnY37dNUTbqtv7x) | 3:05 |
 | 70 | [SEGRETO \(feat\. Sina Tekle\)](https://open.spotify.com/track/0wUqkKIjEdZIMf2eaJiY6p) | [Gojardi](https://open.spotify.com/artist/2BK1KTuteomgkZ5ta3crjk), [Sina Tekle](https://open.spotify.com/artist/3jhexNp8ak2GP9dEqmRLdv) | [SEGRETO \(feat\. Sina Tekle\)](https://open.spotify.com/album/2GzKVikbqExzxzB6rgXW7b) | 2:30 |
 
-Snapshot ID: `MCxiM2Q2MjU1NjkyOWFiNGI0YjE4ZDIwMmRhNGM4Y2JlYjA5MjU4Njdh`
+Snapshot ID: `MCw3MDFhMmZmODQ2YTFhMjE4YzZkNjQ3Njc3MmY4Mjc2MjdkNGY3ZTE4`

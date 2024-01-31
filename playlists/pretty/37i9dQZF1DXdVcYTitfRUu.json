@@ -1,12 +1,12 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 8981,
+  "num_followers": 8998,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzg5YzIyZTU1YTFjZGU2NDZmOTQzYTUzM2JiYWY0NjdkYzZlYzYx",
+  "snapshot_id": "MCxhNTJiNzU1ZWVlNzZiNjFjZmVmOWZjZmZhOTdhZmVjMTJjZjhiMTky",
   "tracks": [
     {
       "added_at": "2023-12-06 09:09:38",
@@ -123,18 +123,18 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Let Me In",
-        "url": "https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl"
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
       "artists": [
         {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 197533,
-      "name": "Let Me In",
-      "url": "https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP"
+      "duration_ms": 316506,
+      "name": "My sea",
+      "url": "https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -155,18 +155,18 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 316506,
-      "name": "My sea",
-      "url": "https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk"
+      "duration_ms": 197533,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -699,26 +699,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Lost Mood",
-        "url": "https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh"
-      },
-      "artists": [
-        {
-          "name": "entoy",
-          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
-        },
-        {
-          "name": "suru",
-          "url": "https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Blue mood",
-      "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek"
       },
@@ -743,6 +723,26 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
+        "name": "Lost Mood",
+        "url": "https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh"
+      },
+      "artists": [
+        {
+          "name": "entoy",
+          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
+        },
+        {
+          "name": "suru",
+          "url": "https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Blue mood",
+      "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
         "name": "Flower in the Desert",
         "url": "https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 259133,
       "name": "Flower in the Desert - Kor Version",
       "url": "https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -775,18 +791,18 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP"
+        "name": "The King's Affection OST Part.3",
+        "url": "https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J"
       },
       "artists": [
         {
-          "name": "DK",
-          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
+          "name": "Baek Ji Young",
+          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
         }
       ],
-      "duration_ms": 257026,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt"
+      "duration_ms": 221080,
+      "name": "IF I",
+      "url": "https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -811,22 +827,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "The King's Affection OST Part.3",
-        "url": "https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J"
-      },
-      "artists": [
-        {
-          "name": "Baek Ji Young",
-          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "IF I",
-      "url": "https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "Romantic Doctor 3 OST Part.1",
         "url": "https://open.spotify.com/album/6nErKEsThTGVCCO4RDiIqE"
       },
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 5",
-        "url": "https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq"
-      },
-      "artists": [
-        {
-          "name": "Aalia",
-          "url": "https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS"
-        }
-      ],
-      "duration_ms": 233317,
-      "name": "About loneliness",
-      "url": "https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 222305,
       "name": "Shining on Your Night",
       "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
+        "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq"
+      },
+      "artists": [
+        {
+          "name": "Aalia",
+          "url": "https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS"
+        }
+      ],
+      "duration_ms": 233317,
+      "name": "About loneliness",
+      "url": "https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Because I Don't Love You",
-        "url": "https://open.spotify.com/album/7LX3cJhfSEBEX8zhw1LrKU"
-      },
-      "artists": [
-        {
-          "name": "Onestar",
-          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
-        }
-      ],
-      "duration_ms": 223826,
-      "name": "Because I Don't Love You",
-      "url": "https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "18 again, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/46SLMiMiXNfPLoeatJo9wY"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 244213,
       "name": "Hello",
       "url": "https://open.spotify.com/track/0avJy0NC4btzu7PQ7TtG0n"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
+        "name": "Because I Don't Love You",
+        "url": "https://open.spotify.com/album/7LX3cJhfSEBEX8zhw1LrKU"
+      },
+      "artists": [
+        {
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        }
+      ],
+      "duration_ms": 223826,
+      "name": "Because I Don't Love You",
+      "url": "https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "haeyo (2022)",
-        "url": "https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo"
-      },
-      "artists": [
-        {
-          "name": "An Nyeong",
-          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
-        }
-      ],
-      "duration_ms": 238071,
-      "name": "haeyo (2022)",
-      "url": "https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "Beige coat",
         "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Destined with You (Original Television Soundtrack), Pt.6",
-        "url": "https://open.spotify.com/album/37BzsG0I20mbX2CFipkt3A"
+        "name": "haeyo (2022)",
+        "url": "https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo"
       },
       "artists": [
         {
-          "name": "Noel",
-          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+          "name": "An Nyeong",
+          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
         }
       ],
-      "duration_ms": 231759,
-      "name": "That's You",
-      "url": "https://open.spotify.com/track/2UysjEVKnL55ywc6TuvcQI"
+      "duration_ms": 238071,
+      "name": "haeyo (2022)",
+      "url": "https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "My Lovely Liar, Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7qnNNyNveamlqSXk8AhrQT"
+        "name": "Destined with You (Original Television Soundtrack), Pt.6",
+        "url": "https://open.spotify.com/album/37BzsG0I20mbX2CFipkt3A"
       },
       "artists": [
         {
-          "name": "HWANG MIN HYUN",
-          "url": "https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf"
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
         }
       ],
-      "duration_ms": 199431,
-      "name": "Alarm",
-      "url": "https://open.spotify.com/track/0bWaehT6suvoyAVP0RwpNd"
+      "duration_ms": 231759,
+      "name": "That's You",
+      "url": "https://open.spotify.com/track/2UysjEVKnL55ywc6TuvcQI"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -1131,6 +1115,22 @@
       "duration_ms": 234000,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
+        "name": "My Lovely Liar, Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7qnNNyNveamlqSXk8AhrQT"
+      },
+      "artists": [
+        {
+          "name": "HWANG MIN HYUN",
+          "url": "https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf"
+        }
+      ],
+      "duration_ms": 199431,
+      "name": "Alarm",
+      "url": "https://open.spotify.com/track/0bWaehT6suvoyAVP0RwpNd"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Dear My Winter",
-        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        },
-        {
-          "name": "CHUU",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Dear My Winter",
-      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "Like Yesterday",
         "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
       },
@@ -1255,18 +1235,22 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "THE BOYZ Special Single [All About You]",
-        "url": "https://open.spotify.com/album/16VQsGjUDQ11VCfAJjFKYs"
+        "name": "Dear My Winter",
+        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
       },
       "artists": [
         {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
         }
       ],
-      "duration_ms": 218306,
-      "name": "All About You",
-      "url": "https://open.spotify.com/track/5MCARv92OMtNgUufLR3W4r"
+      "duration_ms": 200933,
+      "name": "Dear My Winter",
+      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
+        "name": "THE BOYZ Special Single [All About You]",
+        "url": "https://open.spotify.com/album/16VQsGjUDQ11VCfAJjFKYs"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 218306,
+      "name": "All About You",
+      "url": "https://open.spotify.com/track/5MCARv92OMtNgUufLR3W4r"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
         "name": "Underwater",
         "url": "https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 243321,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
-        "name": "Hongdae R&B",
-        "url": "https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 238454,
-      "name": "Hangang Gongwon",
-      "url": "https://open.spotify.com/track/58DPUgbOVwsLfAOs2oQBk9"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -1339,6 +1323,22 @@
       "duration_ms": 204000,
       "name": "wandering (feat. george)",
       "url": "https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
+        "name": "Hongdae R&B",
+        "url": "https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 238454,
+      "name": "Hangang Gongwon",
+      "url": "https://open.spotify.com/track/58DPUgbOVwsLfAOs2oQBk9"
     },
     {
       "added_at": "2023-12-06 09:09:38",

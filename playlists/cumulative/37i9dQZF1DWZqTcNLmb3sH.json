@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Check out the latest hits from Sandalwood!\nCover : Bachelor Party\n",
+  "description": "Check out the latest hits from Sandalwood!\nCover : Karnataka Damanaka\n",
   "name": "Latest Kannada",
   "tracks": [
     {
@@ -10638,7 +10638,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 191559,
       "name": "Jingalaka Laka Laka - From \"Ardhambardha Premakathe\"",
       "url": "https://open.spotify.com/track/5656wgb6YXZTxJQzJDAiSH"
@@ -11833,6 +11833,28 @@
     },
     {
       "album": {
+        "name": "Karataka Damanaka Title Track (from \"Karataka Damanaka\")",
+        "url": "https://open.spotify.com/album/4DlpftS9Z7UD1ICVkOZSKi"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262725,
+      "name": "Karataka Damanaka Title Track (from \"Karataka Damanaka\")",
+      "url": "https://open.spotify.com/track/1mj1drdsDFDhMrSYHOP6nW"
+    },
+    {
+      "album": {
         "name": "Rupayi",
         "url": "https://open.spotify.com/album/2DRyk43lgpokOU5DImADWO"
       },
@@ -12928,6 +12950,24 @@
       "duration_ms": 238333,
       "name": "Maadappa",
       "url": "https://open.spotify.com/track/7fSZEM8wvAjPeFvMyqzf61"
+    },
+    {
+      "album": {
+        "name": "Maadeva (Theme Music) [From \"Maadeva\"]",
+        "url": "https://open.spotify.com/album/3jvAFe9dKIEFzgp23IV4N1"
+      },
+      "artists": [
+        {
+          "name": "Praddyottan",
+          "url": "https://open.spotify.com/artist/2cM8BF1ngqyE703rsaRbaw"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121731,
+      "name": "Maadeva (Theme Music) - From \"Maadeva\"",
+      "url": "https://open.spotify.com/track/5sMPNdLwyrMep3hT52dz89"
     },
     {
       "album": {
@@ -23186,6 +23226,32 @@
       "duration_ms": 240044,
       "name": "Upadhyaksha Title Track - from \"Upadhyaksha\"",
       "url": "https://open.spotify.com/track/6QOSva7goIIBuaN1YJwCjZ"
+    },
+    {
+      "album": {
+        "name": "Urige Ure Kaaneru (From \"Schoool Ramayana\")",
+        "url": "https://open.spotify.com/album/2kRChi9lJgEIhglZ7ObbP3"
+      },
+      "artists": [
+        {
+          "name": "Aarohan Karthik Venkatesh",
+          "url": "https://open.spotify.com/artist/1guoPhvtL06vVIvtKxDVtg"
+        },
+        {
+          "name": "N. B. Loki (Local Loki)",
+          "url": "https://open.spotify.com/artist/3f0BN0DhUxpJFUPUNiSi8t"
+        },
+        {
+          "name": "Mehboob Saab",
+          "url": "https://open.spotify.com/artist/6HetSWGemJe8nirwDZa8nl"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264477,
+      "name": "Urige Ure Kaaneru (From \"Schoool Ramayana\")",
+      "url": "https://open.spotify.com/track/31xtN1TYHOFoNsjco8nNWF"
     },
     {
       "album": {

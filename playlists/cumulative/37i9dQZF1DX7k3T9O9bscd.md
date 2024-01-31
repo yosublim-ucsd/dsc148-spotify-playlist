@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world\. Melody's Echo Chamber on cover.
 
-297 songs - 23 hr 57 min
+299 songs - 1 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,13 +129,14 @@
 | [I'll Gladly Place Myself Below You](https://open.spotify.com/track/7fpEayIv2yPcLnbiRLDMWn) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Déjàvu](https://open.spotify.com/album/0vhTWEtT1LUdl5cxr5oACF) | 5:12 | 2021-11-12 | 2022-10-16 |
 | [Ice V](https://open.spotify.com/track/36XAknfUMQYgAPfIJkTed0) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Ice, Death, Planets, Lungs, Mushrooms And Lava](https://open.spotify.com/album/2nPbslvl01lfELsFHTKp0s) | 10:15 | 2022-09-09 |  |
 | [Ice V](https://open.spotify.com/track/3B5G4Twkzamy4ZuOWJbbGk) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Ice V](https://open.spotify.com/album/5Al5fmTyzQNHel55Hc5O7q) | 10:15 | 2022-09-09 | 2022-11-17 |
+| [Ilion](https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [ILION](https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3) | 11:08 | 2024-01-30 |  |
 | [Illusory Motion](https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [The Gold & Silver Sessions](https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl) | 9:53 | 2021-11-12 |  |
 | [Imaginary Girl](https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:21 | 2022-04-22 |  |
 | [Imperio](https://open.spotify.com/track/4H6DcYcjNs5GzfF8gHncke) | [A Group Called CoBrA](https://open.spotify.com/artist/4fNoH37udrtOfcMMXbnGjN) | [Imperio](https://open.spotify.com/album/4xSIqrDjct43Ts9y0p2Foj) | 3:39 | 2021-11-12 | 2022-06-13 |
 | [In The Eve](https://open.spotify.com/track/4rVD839xJRAk4jRqB2UzND) | [Stonefield](https://open.spotify.com/artist/2xhrgovPiJBMN8cyW2iflu) | [Far From Earth](https://open.spotify.com/album/7zxPsrcn1bbLrGgzUQo3qg) | 3:56 | 2021-11-12 | 2022-07-24 |
 | [In The Eve](https://open.spotify.com/track/5VQq8M6cGARgFSLnialsvJ) | [Stonefield](https://open.spotify.com/artist/2xhrgovPiJBMN8cyW2iflu) | [Far From Earth](https://open.spotify.com/album/0Q8ULMJnNCjkLErAEgysO6) | 3:56 | 2021-11-12 | 2023-07-02 |
 | [Indian Zone Drum Killer Inc.](https://open.spotify.com/track/0AMWwBYxbWI8D0E1FFwmWP) | [Tandy Love](https://open.spotify.com/artist/5VCev3apvTkUABVDvbxM7P) | [Turk Jerk](https://open.spotify.com/album/5YPdvWg02GM4zomzuy40E4) | 3:25 | 2021-11-12 | 2023-07-14 |
-| [Instinct, Eye and Mind](https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy) | [Moundabout](https://open.spotify.com/artist/1Bx8PsKhqwixBmGYesbG5l) | [An Cnoc Mór](https://open.spotify.com/album/5SHAueNfvUkFGaD2uh3fmp) | 8:35 | 2023-08-15 |  |
+| [Instinct, Eye and Mind](https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy) | [Moundabout](https://open.spotify.com/artist/1Bx8PsKhqwixBmGYesbG5l) | [An Cnoc Mór](https://open.spotify.com/album/5SHAueNfvUkFGaD2uh3fmp) | 8:35 | 2023-08-15 | 2024-01-31 |
 | [Interior People](https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Butterfly 3000](https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy) | 5:15 | 2021-11-12 |  |
 | [Intrasport](https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 4:12 | 2021-11-12 | 2022-11-13 |
 | [It Might Be Time](https://open.spotify.com/track/2P0NiuAfypaw5UZJoo0n0o) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [It Might Be Time](https://open.spotify.com/album/0xUNJrjy4ORR3xQKH93n3a) | 4:33 | 2021-11-12 | 2022-07-24 |
@@ -177,6 +178,7 @@
 | [Mind Mischief](https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 4:31 | 2022-04-12 |  |
 | [Monolithium](https://open.spotify.com/track/13FOAbsBvMHY9jLzGS68IG) | [SCALPING](https://open.spotify.com/artist/3pMZZzAKwSIftJmwtEx56W) | [Monolithium](https://open.spotify.com/album/75OHm9PdYyumWK5dxE3Xc4) | 4:35 | 2021-11-12 | 2022-07-17 |
 | [Mother Seletta](https://open.spotify.com/track/3q6wLmKG8EalzV3bcxNmQt) | [Karl Hector & The Malcouns](https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB) | [Non Ex Orbis](https://open.spotify.com/album/1XczGr1lyHPJpaTJ7KHNXq) | 8:06 | 2021-11-12 | 2022-07-29 |
+| [Mourir Demain](https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Mourir Demain](https://open.spotify.com/album/2maYUGRhPI9z4D2gBsWgkw) | 3:27 | 2024-01-30 |  |
 | [Música para una Ciudad Solitaria](https://open.spotify.com/track/7yTrFuwZWsC2q4OQ55wJ1o) | [Sublime Progresivo](https://open.spotify.com/artist/6Ayd3v4VLs52oc5S6XZJlq) | [Común e Intrascendente](https://open.spotify.com/album/12yCfI0GlqOPhEuoLjWGVU) | 3:00 | 2022-04-12 | 2022-07-17 |
 | [New Hope For The New Year](https://open.spotify.com/track/1nvN1xiHviRrs1m3V3guLY) | [moe.](https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj) | [Not Normal](https://open.spotify.com/album/0QtFYcwClPF5RW3tYyfeMx) | 9:01 | 2021-11-12 | 2023-08-16 |
 | [nijimu](https://open.spotify.com/track/6mSoV1VR4E0q7imROwCYw7) | [OOIOO](https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe) | [nijimusi](https://open.spotify.com/album/7HzdnY7KZwknO1dhQ9i5Wt) | 4:21 | 2021-11-12 | 2022-07-14 |
@@ -195,7 +197,7 @@
 | [Panic In Babylon](https://open.spotify.com/track/6nh4bNcaY1DHZ2k6lQEcLi) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Aufheben](https://open.spotify.com/album/63XqaziPkNvU0DgABaitR1) | 4:38 | 2021-11-12 | 2022-07-25 |
 | [Panic In The Isles Of Splendor](https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 | 2023-01-12 | 2023-10-04 |
 | [Paraphernalia](https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Paraphernalia](https://open.spotify.com/album/5lAMuAXEsJekTC4MbBRax1) | 4:23 | 2021-11-12 |  |
-| [Pascuales](https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Pascuales](https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz) | 3:37 | 2022-09-30 |  |
+| [Pascuales](https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Pascuales](https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz) | 3:37 | 2022-09-30 | 2024-01-31 |
 | [Patience](https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Patience](https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj) | 4:52 | 2021-11-12 |  |
 | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF) | 3:39 | 2021-11-12 | 2023-09-28 |
 | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/track/6P3wuqOj57ljpXpSHOy8fH) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/album/30MHkRh4rQIwdFDopFGTbC) | 3:39 | 2021-11-12 | 2022-07-29 |

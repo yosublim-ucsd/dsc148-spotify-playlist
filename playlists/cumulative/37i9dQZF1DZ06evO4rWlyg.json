@@ -685,6 +685,28 @@
     },
     {
       "album": {
+        "name": "Mount Wittenberg Orca",
+        "url": "https://open.spotify.com/album/0zm40o2MnYmpxcKKProN8U"
+      },
+      "artists": [
+        {
+          "name": "Dirty Projectors",
+          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253973,
+      "name": "No Embrace",
+      "url": "https://open.spotify.com/track/5v7JvwgoPu7U6yERGNhruD"
+    },
+    {
+      "album": {
         "name": "Vulnicura",
         "url": "https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf"
       },
@@ -882,7 +904,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 195943,
       "name": "Sorrowful Soil",
       "url": "https://open.spotify.com/track/2ETLJnzi2cPo6RX3VgzRnl"

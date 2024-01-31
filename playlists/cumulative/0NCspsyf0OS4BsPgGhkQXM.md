@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-995 songs - 2 day 4 hr 18 min
+996 songs - 2 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,6 +529,7 @@
 | [LUCKY](https://open.spotify.com/track/74UmVU5CbduHLqhWKiSP0n) | [CRÈME](https://open.spotify.com/artist/7GSnGLal6xBBecChmC4W9H) | [LUCKY](https://open.spotify.com/album/5HMoTN5ArxZtS2krlXA02l) | 2:15 | 2022-11-16 | 2022-11-24 |
 | [Lunatic](https://open.spotify.com/track/2hMV75CO41FBwBESc7Z0xV) | [Lost Heroes](https://open.spotify.com/artist/5J9yuE6EPQt3nwUVssAcDH), [Alexander](https://open.spotify.com/artist/3dUu9IeP8wOWOFSMlNLdkD) | [Lunatic](https://open.spotify.com/album/46dVPW1jDrXaN70qVU61G2) | 2:46 | 2022-05-06 | 2022-06-04 |
 | [Luxxid Diamondz \- Perfectly Pitched + Looped](https://open.spotify.com/track/2M1r4gMEPlalemkeEhfFWd) | [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm) | [Luxxid Diamondz](https://open.spotify.com/album/38j2s8g6y6ixE1dglTJlha) | 2:03 | 2023-10-13 |  |
+| [LX\-777 \(Lunar Data\)](https://open.spotify.com/track/2HYsPCvdZwBPT1FV7c8JGN) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [LX\-777 \(Lunar Data\)](https://open.spotify.com/album/1CMFHMO78oM6fkDIknyUzN) | 2:40 | 2024-01-30 |  |
 | [Magic](https://open.spotify.com/track/1PGjHonPC2r4vHCAfwEof5) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [Magic](https://open.spotify.com/album/5c4t8rwrNtUpQGewiaoHNa) | 2:58 | 2023-02-24 | 2023-03-22 |
 | [Magic Flute](https://open.spotify.com/track/7FMCLIP6mDs4TuJMtWjTla) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Midnight](https://open.spotify.com/album/12fPhZer9WgOQ51AxYLdwn) | 2:49 | 2023-02-21 |  |
 | [Magnets](https://open.spotify.com/track/2qoVyX8fGrZezlqgmQxMxz) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Dead Rose](https://open.spotify.com/artist/3rNr1eW0hok7zumZYUqyCM) | [Magnets](https://open.spotify.com/album/0zW1I56aQjsrJsGpxneROQ) | 3:39 | 2022-06-24 | 2022-11-24 |

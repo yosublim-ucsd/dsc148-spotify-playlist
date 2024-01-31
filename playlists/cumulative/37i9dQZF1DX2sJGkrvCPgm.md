@@ -4,10 +4,11 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-344 songs - 21 hr 41 min
+345 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(There’s No Place Like\) Home for the Holidays](https://open.spotify.com/track/1DH6zhxdbHU5NU3tnelKrw) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [\(There’s No Place Like\) Home for the Holidays](https://open.spotify.com/album/4QM16VhapZKE1haa2QdXkv) | 2:21 | 2023-12-15 |  |
 | [\[the night the sky joined in\]](https://open.spotify.com/track/09haRxFNHvJw3wiC1HK4Vd) | [All Creatures](https://open.spotify.com/artist/2YgZPJl3jMabwzd1UZONon) | [\[the night the sky joined in\]](https://open.spotify.com/album/4d5DlbsJbmVEvKR6bM5JLH) | 3:18 | 2021-12-24 | 2022-07-29 |
 | [A Christmas Alleluia \- Live](https://open.spotify.com/track/5ZxHipYAxiIQ22iCP2wL28) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh) | [Adore: Christmas Songs Of Worship \(Deluxe Edition/Live\)](https://open.spotify.com/album/6wOdF5DJPo31iR9b9rEn6o) | 4:31 | 2021-12-24 | 2022-07-18 |
 | [Adore \- Live](https://open.spotify.com/track/4XfPvAopzTR0N9TYqJUAdo) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Adore: Christmas Songs Of Worship \(Deluxe Edition/Live\)](https://open.spotify.com/album/6wOdF5DJPo31iR9b9rEn6o) | 4:45 | 2021-12-24 | 2022-07-21 |
@@ -220,7 +221,7 @@
 | [Mary Had A Little Lamb](https://open.spotify.com/track/7mdaecge9hB8VZyrqQMDBM) | [Rod + Rose](https://open.spotify.com/artist/6xWrMsqTNDV7Pi10GWUhuZ), [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2), [Rose Falcon](https://open.spotify.com/artist/3M2ei8oRgZ3TwTo6F6votj) | [Mary Had A Little Lamb](https://open.spotify.com/album/7hSSwV7RWL4slYauUvt3BW) | 2:48 | 2021-12-24 | 2024-01-04 |
 | [May You Find a Light](https://open.spotify.com/track/4ihsQ2R46NSvGItUXcTpO7) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [The Light Came Down](https://open.spotify.com/album/69jXtqUEHCVsB5geUWN1Yl) | 3:47 | 2021-12-24 |  |
 | [Maybe Christmas Will Make It Right](https://open.spotify.com/track/3pRy8US6Hud7z9VcOZ0FQW) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Maybe Christmas Will Make It Right](https://open.spotify.com/album/3e6V6QLVkYKxaOz6GssKp7) | 3:38 | 2022-12-11 | 2023-06-24 |
-| [Mercy In A Manger](https://open.spotify.com/track/68PkFLi9OXi6JLF9rID2Wn) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Mercy In A Manger](https://open.spotify.com/album/1P8k4am7eNKqNQAA0EBXjD) | 3:34 | 2023-12-15 |  |
+| [Mercy In A Manger](https://open.spotify.com/track/68PkFLi9OXi6JLF9rID2Wn) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Mercy In A Manger](https://open.spotify.com/album/1P8k4am7eNKqNQAA0EBXjD) | 3:34 | 2023-12-15 | 2024-01-31 |
 | [Messiah](https://open.spotify.com/track/07uDNxlcxJ9yc97VPJHZTy) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Greatest Hits: The First Ten Years](https://open.spotify.com/album/2W1v9Xz8vVmsDsvkPj78jS) | 3:38 | 2021-12-24 |  |
 | [Midwinter](https://open.spotify.com/track/2xWrohwZZ88teyMfIIucpN) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Midwinter](https://open.spotify.com/album/2GIM7r9F1uJ8YmYTIHRfE3) | 4:04 | 2021-12-24 | 2022-07-27 |
 | [Mighty Christmas](https://open.spotify.com/track/0tgZq7jJMTmWCyIEZtlcwF) | [Tim Timmons](https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX) | [Mighty Christmas](https://open.spotify.com/album/4LgcALN2RdRGWSULMJuL5d) | 3:33 | 2021-12-24 | 2022-07-27 |

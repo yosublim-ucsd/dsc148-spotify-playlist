@@ -2,7 +2,7 @@
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di AVA, Neima Ezza, Capo Plaza, Niky Savage e tanti altri.
+> Sempre aggiornata\. Con nuovi brani di AVA, Neima Ezza, Capo Plaza e tanti altri.
 
 2,978 songs - 5 day 14 hr 59 min
 
@@ -2079,7 +2079,7 @@
 | [Piccola Peste](https://open.spotify.com/track/6wZ8XgjQVoKPc72Kh6CjWr) | [PLAYBOIKIRA](https://open.spotify.com/artist/4SXKXgZLapOYWThvUIpZpV) | [Piccola Peste](https://open.spotify.com/album/0qVOnlmaGY9va4LAVqRIc6) | 2:05 | 2022-07-07 | 2022-07-22 |
 | [Piccole Drugz](https://open.spotify.com/track/0bJK1c5m9HnYbSODWhveBJ) | [Glasond](https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq), [Lil Fabris](https://open.spotify.com/artist/6Pdf29AAm1uzY3ad2v546s) | [Dirty Fiama](https://open.spotify.com/album/0YivK5qw0WX5yZWwpvIKmf) | 2:45 | 2023-08-03 | 2023-09-01 |
 | [PICCOLI](https://open.spotify.com/track/1FcxGXTJDdTTtkWXT9mVVc) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Arden](https://open.spotify.com/artist/38PbHju77F8TBo3ByW4HiI) | [PICCOLI](https://open.spotify.com/album/552cO0pQzMzCNVkwLKkV8N) | 2:43 | 2022-05-10 | 2022-05-20 |
-| [Piccolo principe](https://open.spotify.com/track/0ReSNmM6DihL9WAb95jc5h) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [1hellion](https://open.spotify.com/artist/3KXy5B1nJf9WYod5vpnMXV), [prodbymiku](https://open.spotify.com/artist/6MhvveMb6gshUHAeTYIfEo) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 3:20 | 2024-01-25 |  |
+| [Piccolo principe](https://open.spotify.com/track/0ReSNmM6DihL9WAb95jc5h) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 3:20 | 2024-01-25 |  |
 | [Piccolo principe](https://open.spotify.com/track/0OziUV1T8aoQk6rr95pPA8) | [Panama Era](https://open.spotify.com/artist/5q1c9NCZ4P1WUFg52a9Dnj) | [Piccolo principe](https://open.spotify.com/album/4XXpE9UmGHavDVKMLZeeYl) | 3:21 | 2022-07-29 | 2022-08-05 |
 | [Pidditta](https://open.spotify.com/track/1MzX0bCa7jKQl3irVK2wsd) | [Carlo Ragazzo](https://open.spotify.com/artist/1K299mHgnPgQXWvkQpk15i), [Toni Zeno](https://open.spotify.com/artist/3EjtKBJgiLErF6cprWuHXG) | [DIES IRAE](https://open.spotify.com/album/4VFPf74QfBxWvFWjYdqNXb) | 3:10 | 2024-01-25 |  |
 | [Pietre Roventi](https://open.spotify.com/track/3lk5nbbxln0M5MsbzboGR6) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [Pietre Roventi](https://open.spotify.com/album/1Pmk7Yl7ZxCgfBrPbxQsVi) | 2:13 | 2023-03-09 | 2023-03-25 |
@@ -2909,7 +2909,7 @@
 | [Wake Up](https://open.spotify.com/track/2XRadCJPt1ef4YD8ydNeXJ) | [Knfuzed](https://open.spotify.com/artist/0iLJo0Dem6c216e2jQjQBB) | [Wake Up](https://open.spotify.com/album/78e3XuhmbCga6gq2FNaJAE) | 1:46 | 2023-03-24 | 2023-03-31 |
 | [Walkie Talkie](https://open.spotify.com/track/34PkzeCZ8fZj9jBMMV1gqa) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Walkie Talkie](https://open.spotify.com/album/02sDUCaTdnQXVqsTwlFA9B) | 2:20 | 2022-09-22 | 2022-10-25 |
 | [WAO](https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [WAO](https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD) | 2:29 | 2023-04-20 | 2023-05-19 |
-| [WARANZA](https://open.spotify.com/track/3vunrjJSbv06Q3WMitJ3Sb) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [WARANZA](https://open.spotify.com/album/7lBViHTFvoLqwWEpLTN3aV) | 1:58 | 2024-01-25 |  |
+| [WARANZA](https://open.spotify.com/track/3vunrjJSbv06Q3WMitJ3Sb) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [WARANZA](https://open.spotify.com/album/7lBViHTFvoLqwWEpLTN3aV) | 1:58 | 2024-01-25 | 2024-01-31 |
 | [Wawa](https://open.spotify.com/track/3OwMlRnyiwe69rAdBSNEOe) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [Wawa](https://open.spotify.com/album/0A3SICVCsWnKv5riQ9PqPv) | 2:33 | 2022-06-16 | 2022-06-29 |
 | [WE MAN](https://open.spotify.com/track/7eEA003LpGnkMz765TtPyn) | [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [WE MAN](https://open.spotify.com/album/39WBRLH8CvDmOV8snicCzk) | 2:25 | 2023-08-10 | 2023-09-01 |
 | [WE ON EM \(feat\. NLE Choppa\)](https://open.spotify.com/track/4dxGWEYW7UBxG1piCzVH6F) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [WE ON EM \(feat\. NLE Choppa\)](https://open.spotify.com/album/7udyn4k5NezxJxkmogAuxK) | 3:12 | 2023-05-17 | 2023-06-07 |

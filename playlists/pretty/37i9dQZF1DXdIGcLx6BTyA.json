@@ -1,12 +1,12 @@
 {
   "description": "Roll the windows down and take a few risks out on the open, country roads.",
-  "num_followers": 31760,
+  "num_followers": 31761,
   "original_name": "The Road Less Traveled",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjBjNWQxNGU4YTRiNjlkNTdlYzBjNmYxNWU2ZWVjMGI5YjVkZmQ1",
+  "snapshot_id": "MCwyM2NlNmVhYmM3ZmFjZTliNTU4Y2E2MmUwZWQ3ODE5YjcyOWJjOTM1",
   "tracks": [
     {
       "added_at": "2021-07-06 14:22:02",
@@ -711,22 +711,6 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "Providence Canyon",
-        "url": "https://open.spotify.com/album/5PRI3Le2iKuhNdJ8yebeVj"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 221466,
-      "name": "Ain't A Road Too Long",
-      "url": "https://open.spotify.com/track/61KyJ3aQJYu4tpJEmQOHdw"
-    },
-    {
-      "added_at": "2021-07-06 14:22:02",
-      "album": {
         "name": "American Love Song",
         "url": "https://open.spotify.com/album/6MiafQveSkts5v397zarWq"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 232524,
       "name": "Jingle and Go",
       "url": "https://open.spotify.com/track/42Wvzdf5yRnjE3C6XjYYVV"
+    },
+    {
+      "added_at": "2021-07-06 14:22:02",
+      "album": {
+        "name": "Providence Canyon",
+        "url": "https://open.spotify.com/album/5PRI3Le2iKuhNdJ8yebeVj"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "Ain't A Road Too Long",
+      "url": "https://open.spotify.com/track/61KyJ3aQJYu4tpJEmQOHdw"
     },
     {
       "added_at": "2021-07-06 14:22:02",

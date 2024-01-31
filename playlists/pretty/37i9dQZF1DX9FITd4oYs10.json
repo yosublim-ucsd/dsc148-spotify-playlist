@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17817,
+  "num_followers": 17816,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWIyNWNhNGZlNDM1M2ZjNzc3NDkyM2JmZjZjZjM2ZDBjNzJiZDFi",
+  "snapshot_id": "MCxkMzk4OGU1MzkwZDgxNTljNDRmYzgzNTgzMDUxNmViN2FiYzkyYTg1",
   "tracks": [
     {
       "added_at": "2023-12-29 03:00:00",
@@ -179,26 +179,18 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Praia do Rosa (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql"
+        "name": "Abaixo de Zero: Hello Hell",
+        "url": "https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT"
       },
       "artists": [
         {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 256523,
-      "name": "Praia do Rosa - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF"
+      "duration_ms": 177077,
+      "name": "Vai Baby",
+      "url": "https://open.spotify.com/track/2Kk7b7iKXhFETUvKD4LaHS"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -219,18 +211,26 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Abaixo de Zero: Hello Hell",
-        "url": "https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT"
+        "name": "Praia do Rosa (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql"
       },
       "artists": [
         {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
         }
       ],
-      "duration_ms": 177077,
-      "name": "Vai Baby",
-      "url": "https://open.spotify.com/track/2Kk7b7iKXhFETUvKD4LaHS"
+      "duration_ms": 256523,
+      "name": "Praia do Rosa - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Caro Vapor / Vida e Veneno de Don L",
-        "url": "https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK"
-      },
-      "artists": [
-        {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
-        },
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 229889,
-      "name": "Beira de Piscina (Remix)",
-      "url": "https://open.spotify.com/track/6a0kQTjyGmfwBF0tLVgEha"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "Poetas no Topo 2",
         "url": "https://open.spotify.com/album/4Qnc9kgBCgCD4BAOlf8GHb"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 523467,
       "name": "Poetas no Topo 2",
       "url": "https://open.spotify.com/track/5ePNo6uzHyOiZ5lq1L5WVs"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "Caro Vapor / Vida e Veneno de Don L",
+        "url": "https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 229889,
+      "name": "Beira de Piscina (Remix)",
+      "url": "https://open.spotify.com/track/6a0kQTjyGmfwBF0tLVgEha"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
-        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 256760,
-      "name": "Babylon By Gus",
-      "url": "https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "Bicho de 7 Cabe\u00e7as / a Culpa \u00c9 das Igrejas",
         "url": "https://open.spotify.com/album/6hdyWMkuMjjm7txPp7qScS"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
+        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
+        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 256760,
+      "name": "Babylon By Gus",
+      "url": "https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
         "name": "A Milenar Arte De Meter O Louco",
         "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 274482,
       "name": "Muleque De Vila",
       "url": "https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
-        "name": "Racionais 3 D\u00e9cadas",
-        "url": "https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 354310,
-      "name": "Negro Drama - Ao Vivo",
-      "url": "https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -959,6 +943,22 @@
       "duration_ms": 193799,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/1yHEBmkI2j3lhlVLU8yuTl"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "Racionais 3 D\u00e9cadas",
+        "url": "https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 354310,
+      "name": "Negro Drama - Ao Vivo",
+      "url": "https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
+        "name": "Foco, For\u00e7a E F\u00e9",
+        "url": "https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 224546,
+      "name": "Foco, For\u00e7a E F\u00e9",
+      "url": "https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
         "name": "Rap \u00c9 Compromisso (Edi\u00e7\u00e3o Comemorativa)",
         "url": "https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 366413,
       "name": "Cantando pro Santo",
       "url": "https://open.spotify.com/track/4ObGL3b6H7kbe3r7QgaIr9"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
-        "name": "Foco, For\u00e7a E F\u00e9",
-        "url": "https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD"
-      },
-      "artists": [
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 224546,
-      "name": "Foco, For\u00e7a E F\u00e9",
-      "url": "https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W"
     },
     {
       "added_at": "2023-12-29 03:00:00",

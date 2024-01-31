@@ -2529,6 +2529,24 @@
     },
     {
       "album": {
+        "name": "Buoys",
+        "url": "https://open.spotify.com/album/3vnTHiTvlOcNFg2wCK0Uyl"
+      },
+      "artists": [
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221586,
+      "name": "Dolphin",
+      "url": "https://open.spotify.com/track/10n7ftA9Y0hAdaFMWDYsk2"
+    },
+    {
+      "album": {
         "name": "Modus Vivendi",
         "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
       },

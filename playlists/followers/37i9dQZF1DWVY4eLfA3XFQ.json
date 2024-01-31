@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 605816,
+  "2024-01-31": 606027,
   "date_first_scraped": "2021-12-21",
   "description": "Tech house technicians, featuring Mau P",
   "name": "Tech House Operator",
@@ -2877,7 +2877,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 180000,
       "name": "Boiling Room",
       "url": "https://open.spotify.com/track/5wdAiwQ6QsqH6tHWcE76qM"
@@ -7235,6 +7235,32 @@
       "duration_ms": 152400,
       "name": "Drums (Feat. Kim Petras)",
       "url": "https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc"
+    },
+    {
+      "album": {
+        "name": "Drums (Feat. Kim Petras) [Wh0 Remix]",
+        "url": "https://open.spotify.com/album/5hKgd8c1Pac9VT0UqRQA3k"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198469,
+      "name": "Drums (Feat. Kim Petras) - Wh0 Remix",
+      "url": "https://open.spotify.com/track/6MMWo7QxyXXmwT39mmLhVJ"
     },
     {
       "album": {

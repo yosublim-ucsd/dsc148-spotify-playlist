@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 1736216,
+  "2024-01-31": 1736259,
   "date_first_scraped": "2021-12-21",
   "description": "Soft piano music to help you focus and chill. ",
   "name": "Instrumental Study",
@@ -597,6 +597,24 @@
       "duration_ms": 148416,
       "name": "Across Long Lakes",
       "url": "https://open.spotify.com/track/3MWklqtDFfMkD3pcf4rBwu"
+    },
+    {
+      "album": {
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/5yvvTP8gUPVY8DWikC604f"
+      },
+      "artists": [
+        {
+          "name": "Regn\u00f8r",
+          "url": "https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162454,
+      "name": "Adagio",
+      "url": "https://open.spotify.com/track/0o7F3b4QNRaSL3EKn4Jjel"
     },
     {
       "album": {
@@ -4072,6 +4090,24 @@
     },
     {
       "album": {
+        "name": "Fictional Reality",
+        "url": "https://open.spotify.com/album/4pii8aE4Kr2mC3x8QxdXU6"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Austin",
+          "url": "https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140385,
+      "name": "Fictional Reality",
+      "url": "https://open.spotify.com/track/3Ro52fuPSWBfMqhbu9NTX8"
+    },
+    {
+      "album": {
         "name": "Fidelity",
         "url": "https://open.spotify.com/album/0NVSJ5RYhkcS30b9VKTsLh"
       },
@@ -4267,7 +4303,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 162437,
       "name": "Flickering Flame",
       "url": "https://open.spotify.com/track/67g2IwGrHQW0MXnZ1Gr8Km"
@@ -7059,6 +7095,24 @@
       "duration_ms": 155685,
       "name": "Little While",
       "url": "https://open.spotify.com/track/1f9RHATlSLTKsEgGjC6lQh"
+    },
+    {
+      "album": {
+        "name": "Littoral",
+        "url": "https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC"
+      },
+      "artists": [
+        {
+          "name": "Jozef De Schutter",
+          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141216,
+      "name": "Littoral",
+      "url": "https://open.spotify.com/track/73Nea4j1hzgzKdgOLaiiZd"
     },
     {
       "album": {
@@ -14143,6 +14197,24 @@
       "duration_ms": 136124,
       "name": "What We Used To Say",
       "url": "https://open.spotify.com/track/43puambWzfUexLaMUVfR4H"
+    },
+    {
+      "album": {
+        "name": "Whatever is left",
+        "url": "https://open.spotify.com/album/1LNtCytR3zCAjkMtFeUd6Q"
+      },
+      "artists": [
+        {
+          "name": "Noemi Lucas",
+          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123628,
+      "name": "Whatever is left",
+      "url": "https://open.spotify.com/track/5MWKM287iNZv276AkNnJaM"
     },
     {
       "album": {

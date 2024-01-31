@@ -4,7 +4,7 @@
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Abyusif
 
-362 songs - 18 hr 50 min
+363 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Kilo](https://open.spotify.com/track/0t6XwIJqdZuJ5pUFMH39dp) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT) | [Z5M](https://open.spotify.com/album/2qD60uCdyfhVd0tVNmLLDJ) | 2:38 | 2022-06-08 | 2022-10-04 |
 | [Klashat](https://open.spotify.com/track/1gk3xYnAX39GZp6pKJYCgb) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Doppler](https://open.spotify.com/album/04m1uvsNNz7rofzN2SE37N) | 2:25 | 2023-12-05 |  |
 | [L7ARB \- Spotify Singles](https://open.spotify.com/track/5GNQQVf3hHLtSp4XP143Xa) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL), [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [L7ARB \(Spotify Singles\)](https://open.spotify.com/album/0hrLNERzqFfgqVZbkS9Zmk) | 4:02 | 2023-12-28 |  |
-| [La Tete](https://open.spotify.com/track/5XXOa4ih4ELmoeY5G48Axk) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Alam](https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX) | 2:57 | 2023-05-31 |  |
+| [La Tete](https://open.spotify.com/track/5XXOa4ih4ELmoeY5G48Axk) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Alam](https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX) | 2:57 | 2023-05-31 | 2024-01-31 |
 | [Laisse Tomber](https://open.spotify.com/track/5VpkGOSBwYh0ikxPxmR2ld) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Laisse Tomber](https://open.spotify.com/album/6ZhgW4To5S7eY08c0wMPPO) | 3:17 | 2022-10-04 | 2023-02-10 |
 | [Lali](https://open.spotify.com/track/0QeVRDwmrjh4PJqQiRnATR) | [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS), [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI), [EQuBE](https://open.spotify.com/artist/1vKZWmYdp9BQAbtrX9ORuu) | [Lali](https://open.spotify.com/album/4ApxdrM03o7lhMex0WCix0) | 3:07 | 2022-08-11 | 2022-10-04 |
 | [Lamouni](https://open.spotify.com/track/3VjyVm2EOI3bKXmA9BRz7i) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [Lamouni](https://open.spotify.com/album/67GW8ttYMQksrL6ER2Ovaf) | 3:22 | 2023-07-03 | 2024-01-30 |
@@ -253,12 +253,13 @@
 | [Sham3 3id El Milad](https://open.spotify.com/track/0kcmuRtga0TXoKTOcfLRXr) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Sham3 3id El Milad](https://open.spotify.com/album/2ubz2Ex7oXN1nch00vvyKN) | 2:14 | 2022-05-08 | 2022-07-29 |
 | [Shiva](https://open.spotify.com/track/2Pz9vTFvlHkZUXfnUSMkNP) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [Shiva](https://open.spotify.com/album/5rKDVA3AMV8Fl9GFbmSbkl) | 2:31 | 2022-05-08 | 2022-07-29 |
 | [Shiva](https://open.spotify.com/track/61hQTYj7rPofrmQl9GIX65) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [Talib.](https://open.spotify.com/album/02ECeIkL7FkU4OMFzqnouf) | 2:31 | 2022-07-28 | 2022-08-24 |
+| [Shkoon](https://open.spotify.com/track/76oxojNipN7ol8ALGuNA0Y) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Shkoon](https://open.spotify.com/album/5Et9sV7KldC7b3sxSR4uWW) | 3:36 | 2024-01-30 |  |
 | [SHOOTA](https://open.spotify.com/track/3nfWzTTxqbjHvALssUUKGb) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [SHOOTA](https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy) | 2:29 | 2023-07-03 | 2023-08-03 |
 | [Silhouette](https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Silhouette](https://open.spotify.com/album/10jax1tK9x6smIzmN12rGs) | 4:25 | 2022-11-28 | 2023-03-01 |
 | [Silicone](https://open.spotify.com/track/0CIOL8FDW8LSceHDXSpE07) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 3:18 | 2022-05-08 | 2022-10-04 |
 | [SIRI](https://open.spotify.com/track/1w8I30qzVlqUgkp0P9bXh1) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [SIRI](https://open.spotify.com/album/0bFMGtbNkgppqYHjBai2oN) | 3:33 | 2022-05-08 | 2022-07-29 |
 | [Siri](https://open.spotify.com/track/224pf1HG3LAO6LvR3AlRNy) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Siri](https://open.spotify.com/album/1Ju4yo5yf3HZpeqEbaXPpi) | 3:33 | 2022-07-28 | 2022-08-24 |
-| [SLOWLY](https://open.spotify.com/track/65SmL7YPV13heKT147Fosp) | [Bo9al](https://open.spotify.com/artist/2z22RH52CAU4zKZMoRLJgW) | [SBITAR](https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp) | 2:49 | 2023-12-28 |  |
+| [SLOWLY](https://open.spotify.com/track/65SmL7YPV13heKT147Fosp) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SBITAR](https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp) | 2:49 | 2023-12-28 |  |
 | [SME3NI](https://open.spotify.com/track/5ovEmtHmbmWmmN1jeoJAyP) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SME3NI](https://open.spotify.com/album/1rkTH3xM85MYdRXI9FDRGb) | 3:02 | 2023-02-08 | 2023-12-30 |
 | [So Fresh](https://open.spotify.com/track/2oy8TFitLAgp3IOEAiclZo) | [Abdullah Trill](https://open.spotify.com/artist/0RdQVXvBEJSwpdfMfwfHOD), [2Two](https://open.spotify.com/artist/0mj273jWZNCOCMIorzMjtw) | [Passion](https://open.spotify.com/album/1ZOfTexH2xzLPCjzKluhT9) | 2:36 | 2022-05-08 | 2022-08-24 |
 | [SoloSquad \| سولو سكواد](https://open.spotify.com/track/1lQp2Q1Inqum4mlc9aPBpc) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [SoloSquad \| سولو سكواد](https://open.spotify.com/album/3QYStmSUNxpJrE7prm3f9z) | 2:52 | 2023-04-01 | 2023-05-10 |

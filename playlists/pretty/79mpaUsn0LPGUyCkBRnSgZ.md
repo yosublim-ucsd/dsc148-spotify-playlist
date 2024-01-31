@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 421 songs - 1 day 3 hr 29 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 422 songs - 1 day 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -429,5 +429,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 419 | [¿Cómo Así?](https://open.spotify.com/track/54KEm0VI9i3ic7VHHKHKRx) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:49 |
 | 420 | [in My Garden...](https://open.spotify.com/track/40xfJg6ZZXr3jRJkxJJZ0O) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 0:25 |
 | 421 | [Psychedelics: I\. Deep Blue \(You Beat Me\)](https://open.spotify.com/track/43es6Mxw89bV0Yv0f1ZEon) | [William Brittelle](https://open.spotify.com/artist/466nMSvwGWb3f8G7hR4Gja), [Roomful of Teeth](https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH) | [Rough Magic](https://open.spotify.com/album/5LCUG6zhXjBOUQm89nO81d) | 4:39 |
+| 422 | [Dolphin](https://open.spotify.com/track/10n7ftA9Y0hAdaFMWDYsk2) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Buoys](https://open.spotify.com/album/3vnTHiTvlOcNFg2wCK0Uyl) | 3:41 |
 
-Snapshot ID: `MTMzNyxhMDQzZGI0NjY5MmQ4OGExMDIxNmYwZWZmZDU1ZDA1ODU0YWQwNmZm`
+Snapshot ID: `MTMzOCxjM2E0ZWE0N2EyN2NmZWY5ZDI2YTY0ZTFmNDU3NWQzZmQ5MmY4YjM0`

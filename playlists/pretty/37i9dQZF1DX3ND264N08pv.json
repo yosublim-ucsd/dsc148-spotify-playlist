@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 69907,
+  "num_followers": 69930,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGQxNGQ2OGNkYmZjZDQ3MDU2YjJhODA5MjljZjI1ZGNkM2RlOTkz",
+  "snapshot_id": "MCwzMDY4ODM1YTBlZWQwNWQ3OTRlMzM4MWYxM2E3OWFmNjc2YjNhOGQ1",
   "tracks": [
     {
       "added_at": "2024-01-24 23:00:00",
@@ -303,8 +303,8 @@
     {
       "added_at": "2024-01-24 23:00:00",
       "album": {
-        "name": "The Deadly Fist",
-        "url": "https://open.spotify.com/album/3iF9oI3j8t3pgX2tVd6QuP"
+        "name": "Overdosis",
+        "url": "https://open.spotify.com/album/3LYrflZG7Q6zEP41JVercl"
       },
       "artists": [
         {
@@ -312,13 +312,13 @@
           "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
         },
         {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+          "name": "MC Robs",
+          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
         }
       ],
-      "duration_ms": 194710,
-      "name": "The Deadly Fist",
-      "url": "https://open.spotify.com/track/7pANE2n751S0dmh0WJeC87"
+      "duration_ms": 220000,
+      "name": "Overdosis",
+      "url": "https://open.spotify.com/track/6SA6ttzni94LLVM3Jm5J14"
     },
     {
       "added_at": "2024-01-24 23:00:00",
@@ -447,46 +447,6 @@
     {
       "added_at": "2024-01-24 23:00:00",
       "album": {
-        "name": "So Druff (D-Fence Remix)",
-        "url": "https://open.spotify.com/album/1Syx62VNKXvKBPZ84zQj1v"
-      },
-      "artists": [
-        {
-          "name": "KNTRLVRLST",
-          "url": "https://open.spotify.com/artist/5C9HSvVi06YZftH6UVnd6V"
-        },
-        {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
-        }
-      ],
-      "duration_ms": 166950,
-      "name": "So Druff - D-Fence Remix",
-      "url": "https://open.spotify.com/track/1yDNPqk30hDMY2wTPuqQiu"
-    },
-    {
-      "added_at": "2024-01-24 23:00:00",
-      "album": {
-        "name": "Overdosis",
-        "url": "https://open.spotify.com/album/3LYrflZG7Q6zEP41JVercl"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        },
-        {
-          "name": "MC Robs",
-          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Overdosis",
-      "url": "https://open.spotify.com/track/6SA6ttzni94LLVM3Jm5J14"
-    },
-    {
-      "added_at": "2024-01-24 23:00:00",
-      "album": {
         "name": "Welcome To My Nightmare",
         "url": "https://open.spotify.com/album/7x2ImrxaXBL79nq6WaK0Ui"
       },
@@ -503,6 +463,46 @@
       "duration_ms": 207157,
       "name": "Welcome To My Nightmare",
       "url": "https://open.spotify.com/track/7mXYCi1wA8n8zBN0ud211g"
+    },
+    {
+      "added_at": "2024-01-24 23:00:00",
+      "album": {
+        "name": "The Deadly Fist",
+        "url": "https://open.spotify.com/album/3iF9oI3j8t3pgX2tVd6QuP"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 194710,
+      "name": "The Deadly Fist",
+      "url": "https://open.spotify.com/track/7pANE2n751S0dmh0WJeC87"
+    },
+    {
+      "added_at": "2024-01-24 23:00:00",
+      "album": {
+        "name": "So Druff (D-Fence Remix)",
+        "url": "https://open.spotify.com/album/1Syx62VNKXvKBPZ84zQj1v"
+      },
+      "artists": [
+        {
+          "name": "KNTRLVRLST",
+          "url": "https://open.spotify.com/artist/5C9HSvVi06YZftH6UVnd6V"
+        },
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        }
+      ],
+      "duration_ms": 166950,
+      "name": "So Druff - D-Fence Remix",
+      "url": "https://open.spotify.com/track/1yDNPqk30hDMY2wTPuqQiu"
     },
     {
       "added_at": "2024-01-24 23:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-01-24 23:00:00",
       "album": {
-        "name": "HIT IT",
-        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
-      },
-      "artists": [
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "HIT IT",
-      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
-    },
-    {
-      "added_at": "2024-01-24 23:00:00",
-      "album": {
         "name": "The Ultimate Sound",
         "url": "https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 161419,
       "name": "The Ultimate Sound",
       "url": "https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g"
+    },
+    {
+      "added_at": "2024-01-24 23:00:00",
+      "album": {
+        "name": "HIT IT",
+        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "HIT IT",
+      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
     },
     {
       "added_at": "2024-01-24 23:00:00",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2024-01-24 23:00:00",
       "album": {
-        "name": "The Ultimate Killing Machine",
-        "url": "https://open.spotify.com/album/4Go2MGwW5SXqoJCzYgmW23"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        },
-        {
-          "name": "Serouj Guidanian",
-          "url": "https://open.spotify.com/artist/401yqK30JbtGhF3zV07qzU"
-        }
-      ],
-      "duration_ms": 205846,
-      "name": "Here To Stay",
-      "url": "https://open.spotify.com/track/6Zvj3BSyp3lwyw9uSqsGpr"
-    },
-    {
-      "added_at": "2024-01-24 23:00:00",
-      "album": {
         "name": "One Way",
         "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 213254,
       "name": "Fvcking One",
       "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
+    },
+    {
+      "added_at": "2024-01-24 23:00:00",
+      "album": {
+        "name": "The Ultimate Killing Machine",
+        "url": "https://open.spotify.com/album/4Go2MGwW5SXqoJCzYgmW23"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        },
+        {
+          "name": "Serouj Guidanian",
+          "url": "https://open.spotify.com/artist/401yqK30JbtGhF3zV07qzU"
+        }
+      ],
+      "duration_ms": 205846,
+      "name": "Here To Stay",
+      "url": "https://open.spotify.com/track/6Zvj3BSyp3lwyw9uSqsGpr"
     },
     {
       "added_at": "2024-01-24 23:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-01-24 23:00:00",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/0UrT7ZmEkro70hRGaixoRn"
-      },
-      "artists": [
-        {
-          "name": "Noctyz",
-          "url": "https://open.spotify.com/artist/7gkuoQQsU5ZBUpsFpZy1yh"
-        }
-      ],
-      "duration_ms": 169512,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/2xWUGV4FHZkSuB89667jrr"
-    },
-    {
-      "added_at": "2024-01-24 23:00:00",
-      "album": {
         "name": "Story of My Life",
         "url": "https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 245373,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc"
+    },
+    {
+      "added_at": "2024-01-24 23:00:00",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/0UrT7ZmEkro70hRGaixoRn"
+      },
+      "artists": [
+        {
+          "name": "Noctyz",
+          "url": "https://open.spotify.com/artist/7gkuoQQsU5ZBUpsFpZy1yh"
+        }
+      ],
+      "duration_ms": 169512,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2xWUGV4FHZkSuB89667jrr"
     },
     {
       "added_at": "2024-01-24 23:00:00",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2024-01-24 23:00:00",
       "album": {
-        "name": "I AM",
-        "url": "https://open.spotify.com/album/3vumUha7zafLsiFJAjQBuy"
+        "name": "Beastmode",
+        "url": "https://open.spotify.com/album/4SX8CfWWnB4zeUnvhG1WKY"
       },
       "artists": [
         {
-          "name": "Elite Enemy",
-          "url": "https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB"
+          "name": "Evil Activities",
+          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
         }
       ],
-      "duration_ms": 181200,
-      "name": "I AM",
-      "url": "https://open.spotify.com/track/6GN7ZWNNqgVZl7t3dgH6ot"
+      "duration_ms": 241333,
+      "name": "Beastmode",
+      "url": "https://open.spotify.com/track/2NRNiUqKzAAt2CQL1FWSMU"
     },
     {
       "added_at": "2024-01-24 23:00:00",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2024-01-24 23:00:00",
       "album": {
-        "name": "Beastmode",
-        "url": "https://open.spotify.com/album/4SX8CfWWnB4zeUnvhG1WKY"
+        "name": "I AM",
+        "url": "https://open.spotify.com/album/3vumUha7zafLsiFJAjQBuy"
       },
       "artists": [
         {
-          "name": "Evil Activities",
-          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
+          "name": "Elite Enemy",
+          "url": "https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB"
         }
       ],
-      "duration_ms": 241333,
-      "name": "Beastmode",
-      "url": "https://open.spotify.com/track/2NRNiUqKzAAt2CQL1FWSMU"
+      "duration_ms": 181200,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/6GN7ZWNNqgVZl7t3dgH6ot"
     },
     {
       "added_at": "2024-01-24 23:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-01-24 23:00:00",
       "album": {
-        "name": "LOSE IT",
-        "url": "https://open.spotify.com/album/03UYxj7j9zacRjwwEbExV5"
-      },
-      "artists": [
-        {
-          "name": "Crypton",
-          "url": "https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2"
-        }
-      ],
-      "duration_ms": 163597,
-      "name": "LOSE IT",
-      "url": "https://open.spotify.com/track/4jF9Df8yhktHGaRV4UwQ8r"
-    },
-    {
-      "added_at": "2024-01-24 23:00:00",
-      "album": {
         "name": "Wake Up Now",
         "url": "https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 202678,
       "name": "Wake Up Now",
       "url": "https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk"
+    },
+    {
+      "added_at": "2024-01-24 23:00:00",
+      "album": {
+        "name": "LOSE IT",
+        "url": "https://open.spotify.com/album/03UYxj7j9zacRjwwEbExV5"
+      },
+      "artists": [
+        {
+          "name": "Crypton",
+          "url": "https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2"
+        }
+      ],
+      "duration_ms": 163597,
+      "name": "LOSE IT",
+      "url": "https://open.spotify.com/track/4jF9Df8yhktHGaRV4UwQ8r"
     },
     {
       "added_at": "2024-01-24 23:00:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-01-24 23:00:00",
       "album": {
-        "name": "TH3 FL0W",
-        "url": "https://open.spotify.com/album/11ykfjfk1g4ZJjsx7tEM9J"
-      },
-      "artists": [
-        {
-          "name": "Mind Compressor",
-          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
-        }
-      ],
-      "duration_ms": 154272,
-      "name": "TH3 FL0W",
-      "url": "https://open.spotify.com/track/67pe3dZk02n1cXjtPbXuHh"
-    },
-    {
-      "added_at": "2024-01-24 23:00:00",
-      "album": {
         "name": "Hide Me",
         "url": "https://open.spotify.com/album/3sqlQlmk1NPZaeo62ihESL"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 183891,
       "name": "Hide Me",
       "url": "https://open.spotify.com/track/31i8Y19hlXk2MzraK6EX9B"
+    },
+    {
+      "added_at": "2024-01-24 23:00:00",
+      "album": {
+        "name": "TH3 FL0W",
+        "url": "https://open.spotify.com/album/11ykfjfk1g4ZJjsx7tEM9J"
+      },
+      "artists": [
+        {
+          "name": "Mind Compressor",
+          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
+        }
+      ],
+      "duration_ms": 154272,
+      "name": "TH3 FL0W",
+      "url": "https://open.spotify.com/track/67pe3dZk02n1cXjtPbXuHh"
     },
     {
       "added_at": "2024-01-24 23:00:00",

@@ -4,7 +4,7 @@
 
 > A sonic wonderland of mesmerizing tunes...
 
-262 songs - 16 hr 56 min
+263 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 | 2023-09-25 | 2024-01-11 |
 | [Like Coconut Water](https://open.spotify.com/track/28pnWcdTLT64CupOvo26Ed) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Like Coconut Water](https://open.spotify.com/album/5j86EWmljEfisr53Kocm1e) | 3:11 | 2023-11-07 | 2024-01-06 |
 | [Lonely Times](https://open.spotify.com/track/66fHmVMVKYLwNzIdwrZADI) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Lonely Times](https://open.spotify.com/album/52NC1y7dIs0EjOJf9UFc04) | 3:17 | 2023-11-24 | 2024-01-04 |
+| [Lose](https://open.spotify.com/track/729EJVbWkITU4vAc690cFE) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Lose](https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP) | 4:51 | 2024-01-30 |  |
 | [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 | 2023-05-17 | 2023-06-16 |
 | [Lose](https://open.spotify.com/track/2w5QAzFA6bwErf3Xo05mQK) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Lose](https://open.spotify.com/album/3ZTQVeyP8qtTnjlp0XLWL9) | 3:16 | 2023-05-17 | 2023-05-25 |
 | [Lose My Head](https://open.spotify.com/track/4KefSDm2uulCInC38hXKYj) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Lose My Head](https://open.spotify.com/album/3q8cttdPEVNFCZwCxe47B5) | 2:30 | 2023-06-02 | 2023-06-16 |
@@ -226,7 +227,7 @@
 | [Su Sızıyor](https://open.spotify.com/track/3kU6hohnnkNNk0tQCZubKk) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Su Sızıyor](https://open.spotify.com/album/0eVvTt2KZztpxztS0JvgMd) | 4:04 | 2023-03-29 | 2023-04-03 |
 | [Su Sızıyor](https://open.spotify.com/track/5Yw2orljyPxOQe9s1JfPqU) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 4:04 | 2023-03-29 | 2023-06-03 |
 | [Sun Girl](https://open.spotify.com/track/0sMgwHapnEjJ7ixPHuvE8m) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Sun Girl](https://open.spotify.com/album/34cvl46Fs5VoDm7DzS5ZeR) | 5:52 | 2023-11-10 | 2024-01-12 |
-| [Sunflower](https://open.spotify.com/track/5Iv0imXfXBd7URaPqlF3Te) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Sunflower](https://open.spotify.com/album/59jNWoQlsY5cudwYzu44Bl) | 4:00 | 2023-03-29 |  |
+| [Sunflower](https://open.spotify.com/track/5Iv0imXfXBd7URaPqlF3Te) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Sunflower](https://open.spotify.com/album/59jNWoQlsY5cudwYzu44Bl) | 4:00 | 2023-03-29 | 2024-01-31 |
 | [Takahashi Timing](https://open.spotify.com/track/07Waqz8Zkad6oM7dL4MNce) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [Mount Matsu](https://open.spotify.com/album/4pGx4kwa3nb51qACYJJkgB) | 5:24 | 2024-01-23 |  |
 | [Tell Me](https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 5:00 | 2023-09-25 |  |
 | [tens morada em mim](https://open.spotify.com/track/3Cw2TWb0LgtY9vegjf0o9m) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5X7JFiLKCde11k7ERBSIRS) | 3:21 | 2023-03-31 | 2023-04-13 |

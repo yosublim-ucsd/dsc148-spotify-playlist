@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 176175,
+  "2024-01-31": 176260,
   "date_first_scraped": "2022-05-11",
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
   "name": "Oblique",
@@ -3079,6 +3079,24 @@
       "duration_ms": 354346,
       "name": "Keep Your Mind Free",
       "url": "https://open.spotify.com/track/2JoAsRpfSpuCGsEOtlFS7W"
+    },
+    {
+      "album": {
+        "name": "Ki moun ou ye",
+        "url": "https://open.spotify.com/album/7cJDsHyqQS6k7vSubd1reE"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Joachim",
+          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320409,
+      "name": "Ki moun ou ye",
+      "url": "https://open.spotify.com/track/5j0A24ckSZtirzrxxVjGdy"
     },
     {
       "album": {
@@ -6573,7 +6591,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 305946,
       "name": "Wall Of Eyes",
       "url": "https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J"

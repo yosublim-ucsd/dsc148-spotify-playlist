@@ -1,12 +1,12 @@
 {
   "description": "Heartwarming carols and classical Christmas favourites, guaranteed to make any festive occasion merry and bright.",
-  "num_followers": 246954,
+  "num_followers": 246905,
   "original_name": "Classical Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTUwYzgzYmUxYjFiYmE0NWJkYjMxZWVmZTdkYWE4NDk4OTVkZWFm",
+  "snapshot_id": "MCw3MjAzMTBhZDQyNGRmZTQxZmNkNzY3ZmIxN2Y4MDVlYTA2YjE0NTBi",
   "tracks": [
     {
       "added_at": "2023-12-15 10:00:30",
@@ -1114,6 +1114,10 @@
         {
           "name": "Christopher Monks",
           "url": "https://open.spotify.com/artist/75tSsNh0EYP90xx0U4xcwu"
+        },
+        {
+          "name": "Edward Picton-Turbervill",
+          "url": "https://open.spotify.com/artist/3OnbUorAEBo4bZqOxs4XXn"
         }
       ],
       "duration_ms": 204000,
@@ -1578,6 +1582,10 @@
         {
           "name": "Christopher Monks",
           "url": "https://open.spotify.com/artist/75tSsNh0EYP90xx0U4xcwu"
+        },
+        {
+          "name": "Edward Picton-Turbervill",
+          "url": "https://open.spotify.com/artist/3OnbUorAEBo4bZqOxs4XXn"
         }
       ],
       "duration_ms": 107000,

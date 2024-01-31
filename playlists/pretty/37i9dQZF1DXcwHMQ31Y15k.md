@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: James AP
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,473 likes - 97 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,560 likes - 97 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 18 | [LINTANG TRESNO](https://open.spotify.com/track/2SaWykWk6mlPziz1jSJgvr) | [Intan Chacha](https://open.spotify.com/artist/5SpXroFYbrLLG5fgOBkTVk) | [LINTANG TRESNO](https://open.spotify.com/album/7pePOgLJLUMctA667qpAKi) | 5:09 |
 | 19 | [Kapang \(feat\. Ajeng Yulia Abdilla\)](https://open.spotify.com/track/4YQ5EKOsHCNKZLIuUQkDAM) | [Adhimas Dewa Tricahya](https://open.spotify.com/artist/2EYDh9L9Mz6EMjbcfXTanv), [Ajeng Yulia Abdilla](https://open.spotify.com/artist/6KNevSfPmGyAXGulaz95Hl) | [Kapang \(feat\. Ajeng Yulia Abdilla\)](https://open.spotify.com/album/0YLvl6OFE7wBC1uFRQgNPY) | 5:39 |
 | 20 | [Gampil](https://open.spotify.com/track/7yCRYkJJfyRrOswvni0P6U) | [NGATMOMBILUNG](https://open.spotify.com/artist/2QTbC45lx9ANi4Cm2hx09c) | [Gampil](https://open.spotify.com/album/2wftoe7LLLRQbWhC5PnkOp) | 4:35 |
-| 21 | [Anak Lanang](https://open.spotify.com/track/3WV04K6iHFtoDy5NJ3eYQ9) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Anak Lanang](https://open.spotify.com/album/37UR4PopF3odzG2214LRW2) | 6:36 |
+| 21 | [Anak Lanang \- Live](https://open.spotify.com/track/3WV04K6iHFtoDy5NJ3eYQ9) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Anak Lanang \(Live\)](https://open.spotify.com/album/37UR4PopF3odzG2214LRW2) | 6:36 |
 | 22 | [Salam Tresno](https://open.spotify.com/track/1vwIQKsGlO41jnKjTGF8qp) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Salam Tresno](https://open.spotify.com/album/0eAI9lcLsSjqB8tw89hUdW) | 5:13 |
 | 23 | [Apik](https://open.spotify.com/track/4wKs47lXYzgdkhEfU2X1L6) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Apik](https://open.spotify.com/album/0U63NlQb7uOyrEMEv4TCRK) | 5:42 |
 | 24 | [Kalah](https://open.spotify.com/track/6w7wnRZVLdVQGpvAnpI7Wf) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL), [Restianade](https://open.spotify.com/artist/2snngeuArUgVK4TxAWwe9a) | [Kalah](https://open.spotify.com/album/3sOqpgD6n7tYmN75GdUGYx) | 6:38 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 96 | [Kartonyono Medot Janji](https://open.spotify.com/track/6bnCgtR9tDcADREMONA91t) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kartonyono Medot Janji](https://open.spotify.com/album/0WlqBbLuZrAOgh6asdiign) | 4:30 |
 | 97 | [Mendung Tanpo Udan](https://open.spotify.com/track/0Z54rUZ81Vn0qphFR3jXUb) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Mendung Tanpo Udan](https://open.spotify.com/album/71G3sO1tdp632dquXZFMNE) | 5:05 |
 
-Snapshot ID: `MCw3MmUxMWYxNWE2NzEzOTBmNDE1YWQ4M2NiNjgzNzFmMWZmZGNmNWM0`
+Snapshot ID: `MCw4N2ZiOWIwNjNhNDBjM2I1NzBmZGU2OGFlNGRiZDI2NTYxZTI3OWVl`

@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 3654191,
+  "2024-01-31": 3653949,
   "date_first_scraped": "2019-05-26",
   "description": "<a href=\"spotify:genre:space:electronica_chill\">Hypnotic electronic</a> for studies and a relax.",
   "name": "Brain Food",
@@ -1469,6 +1469,28 @@
     {
       "album": {
         "name": "The Mountain Will Fall",
+        "url": "https://open.spotify.com/album/3OSeqyUWmkngEhQTTkdTSA"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        },
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250542,
+      "name": "Bergschrund",
+      "url": "https://open.spotify.com/track/4XAGu6WFwsbGl5zRPmPgkg"
+    },
+    {
+      "album": {
+        "name": "The Mountain Will Fall",
         "url": "https://open.spotify.com/album/2OW3iDsmS98lTqgta5Zv0O"
       },
       "artists": [
@@ -1707,7 +1729,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 343332,
       "name": "Blissda",
       "url": "https://open.spotify.com/track/5trIxTDiFfTeqnRiRjW0A8"

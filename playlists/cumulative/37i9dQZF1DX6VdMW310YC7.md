@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,559 songs - 4 day 11 hr 22 min
+1,560 songs - 4 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,7 +371,7 @@
 | [Empire](https://open.spotify.com/track/1ywIrbGuUkwHADbRcgTHZI) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Empire](https://open.spotify.com/album/1H2dCA0ubfJW3K35f17QCy) | 4:16 | 2021-11-12 | 2022-05-07 |
 | [Empty Promise](https://open.spotify.com/track/086eJJvQUVNNDABt1bevJn) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Empty Promise](https://open.spotify.com/album/7c1vkq6VrXtK7gdUOPy5ch) | 3:51 | 2022-04-01 | 2022-08-27 |
 | [Empty Promise](https://open.spotify.com/track/0sEn4RyabCmp3dGbbT5J6I) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Happiness, Guaranteed](https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX) | 3:51 | 2022-09-09 | 2022-12-29 |
-| [En](https://open.spotify.com/track/2iSwJrdrvWCup9BQQTJwTf) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [En](https://open.spotify.com/album/5p7qEJfdanragsgSMfhx2B) | 4:47 | 2024-01-19 |  |
+| [En](https://open.spotify.com/track/2iSwJrdrvWCup9BQQTJwTf) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [En](https://open.spotify.com/album/5p7qEJfdanragsgSMfhx2B) | 4:47 | 2024-01-19 | 2024-01-31 |
 | [Endless](https://open.spotify.com/track/0EnCOAi1Nx7yJwlQpUoha1) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Magical Thinking](https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ) | 3:47 | 2020-04-13 | 2022-03-05 |
 | [Endless Endeavor](https://open.spotify.com/track/6No1iyh21ROzdBkxGWqhmQ) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [RIPPLS](https://open.spotify.com/album/3L7pWKpDt0YFxACcY0CbLR) | 2:55 | 2020-03-25 | 2022-04-18 |
 | [Endorphine](https://open.spotify.com/track/2ZOMdszeOsFaj31wt8mDNn) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Endorphine](https://open.spotify.com/album/7cGTSxBKUuqU4EUCIEUf6f) | 4:02 | 2022-12-28 | 2023-01-06 |
@@ -806,6 +806,7 @@
 | [Limits](https://open.spotify.com/track/6WObvqFvHHiz24Vnbn8aXc) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh) | [Standing Still](https://open.spotify.com/album/0mZOETX4JjeTQCJrYJ7lg2) | 3:50 | 2021-04-30 | 2022-06-16 |
 | [Little Voices](https://open.spotify.com/track/1LMmtQcanJ1SQ6GB08NZsR) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Little Voices](https://open.spotify.com/album/4HTFKOuRazkQkEb0A6tnpQ) | 6:39 | 2020-02-29\* | 2020-03-16 |
 | [Lock It Up](https://open.spotify.com/track/1ogUN2xB4qKAs2qPeEJp39) | [Paul Mayson](https://open.spotify.com/artist/2aSbTqzj52OymR8fEx4dca), [Brave](https://open.spotify.com/artist/01KDvLstg6DnLjN8eHnTUY) | [Run EP](https://open.spotify.com/album/0HUtolDFfAYy34JNLe8AZD) | 3:31 | 2020-05-18 | 2020-07-03 |
+| [Lonely](https://open.spotify.com/track/56v1HwCZeldmJ82yViKQhZ) | [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC), [Plaha](https://open.spotify.com/artist/6zYjUGkES36bUhs1hWqmQU), [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk) | [Lonely](https://open.spotify.com/album/4tja9y8DTcIwetXDI8Lalm) | 2:58 | 2024-01-26 |  |
 | [Lonely](https://open.spotify.com/track/1FTrDODUS6bWx3eSCWu1Ym) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Lonely](https://open.spotify.com/album/3o2K9k9I6qN5U8VAD8vfVp) | 4:10 | 2023-08-18 |  |
 | [Lonely Man of Winter \- Doveman Mix feat\. Melissa Mary Ahern](https://open.spotify.com/track/593ZLxBJwoqT9WkkTTI2HA) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Melissa Mary Ahern](https://open.spotify.com/artist/79KGU3BCSn2jRJi4r0jHZ2) | [Lonely Man of Winter](https://open.spotify.com/album/6ih3mS49nmttFRS8A63X7L) | 3:39 | 2020-05-18 | 2020-10-10 |
 | [Long Time Coming](https://open.spotify.com/track/16LzUBaDdv3aYB8GbLMA6m) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r) | [Brighter Future](https://open.spotify.com/album/39Emg3duoZHR4LrE7gziK3) | 2:19 | 2020-05-18 | 2021-03-10 |

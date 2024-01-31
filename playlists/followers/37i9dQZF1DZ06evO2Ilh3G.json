@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 113055,
+  "2024-01-31": 113070,
   "date_first_scraped": "2023-11-11",
   "description": "This is Offset. The essential tracks, all in one playlist.",
   "name": "This Is Offset",
@@ -233,7 +233,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 177073,
       "name": "Bulletproof Maybach (feat. Offset)",
       "url": "https://open.spotify.com/track/6rI8uFFmGyvS2N6sqDCdu3"
@@ -901,7 +901,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 195213,
       "name": "Only You",
       "url": "https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz"

@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-678 songs - 1 day 3 hr 27 min
+679 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [It's just a phase](https://open.spotify.com/track/1lbU8i2RPO0DKGWCzkjdDP) | [cuttingwood](https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw) | [It's just a phase](https://open.spotify.com/album/2UbjJdAj76M4lMHp2m0ZAN) | 2:18 | 2023-09-08 |  |
 | [It's Real](https://open.spotify.com/track/43cvBPKTYdJESkGr9jqmOR) | [Suede Wallet](https://open.spotify.com/artist/2oTCWOKOMia5kg2jep7nKY), [mariussax](https://open.spotify.com/artist/5w7HPDu1t1FSCEfjEm3tKE), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [It's Real](https://open.spotify.com/album/0M6zhqqm3JwLaSr5Amkt55) | 2:30 | 2023-09-08 |  |
 | [Jay](https://open.spotify.com/track/5GEJovN72R9nDWb4xUXk9o) | [Lukrembo](https://open.spotify.com/artist/2mvFGnu3tPO49WSrFZ4zVR) | [Jay](https://open.spotify.com/album/3Iu3hTlA1SEuWkPddLJxb1) | 2:39 | 2023-09-08 | 2024-01-30 |
+| [Jay](https://open.spotify.com/track/5v6yu1b18jUZDuvVJBCtAs) | [Lukrembo](https://open.spotify.com/artist/2mvFGnu3tPO49WSrFZ4zVR) | [Jay](https://open.spotify.com/album/1dBMEDqwRc1QhvtQmUe1r2) | 2:39 | 2024-01-05 |  |
 | [Jazzy Love](https://open.spotify.com/track/0K3MHQsHETxpCBJYAUzaIq) | [Ly Morales](https://open.spotify.com/artist/5m3wWm7LVYul1KOV9sXuA6) | [Follow My Sky](https://open.spotify.com/album/1efGgUHD6q8lU1e4baGgfQ) | 1:57 | 2023-09-08 |  |
 | [Jazzy Vibes](https://open.spotify.com/track/1hsGmd0FaHgH5nQYZzWrX2) | [Hanagoori](https://open.spotify.com/artist/2vRSKTF2P233iIMuhkoO2l) | [Jazzy Vibes](https://open.spotify.com/album/1SVTiqLbbKzXGbY99HKnqB) | 1:58 | 2023-09-08 |  |
 | [jeep](https://open.spotify.com/track/74QVwX6fjyS88E3WywI9NA) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [jeep](https://open.spotify.com/album/3SZNhX6P0hkZY48D0nfEVL) | 1:49 | 2023-12-22 |  |
@@ -654,7 +655,7 @@
 | [ways of lofi](https://open.spotify.com/track/3JH9aeScyGeXQxvwOJvwGk) | [Astakon](https://open.spotify.com/artist/50Bv1IHX3VuLtfplLreuov) | [soho polylines](https://open.spotify.com/album/36XaNzLiyDLutAOhW4vGcT) | 2:00 | 2023-09-08 |  |
 | [we finally met](https://open.spotify.com/track/3zhjHhvPEeqhZJKTk4spfh) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [cute.a](https://open.spotify.com/artist/4M2GOXttGFdgK95pZtvy5b) | [we finally met](https://open.spotify.com/album/5OIHEQznDbyTbpcQ98lqhH) | 2:04 | 2023-09-08 |  |
 | [WE OK](https://open.spotify.com/track/09ZzRztpVpp0Z9AqSSFWsT) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Sublime](https://open.spotify.com/album/56pBm2WN9oVK9vAnb3MXX4) | 2:30 | 2022-02-17 | 2023-09-09 |
-| [weatherlight](https://open.spotify.com/track/0pcf1rZgUG5lb6WBwbzX56) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [dharā](https://open.spotify.com/artist/1M6OZtIOe8HhLXuGy8djF6) | [weatherlight](https://open.spotify.com/album/4W6vDPSqFdYOaWXWVCdR8F) | 2:20 | 2023-09-08 |  |
+| [weatherlight](https://open.spotify.com/track/0pcf1rZgUG5lb6WBwbzX56) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [dharā](https://open.spotify.com/artist/1M6OZtIOe8HhLXuGy8djF6) | [weatherlight](https://open.spotify.com/album/4W6vDPSqFdYOaWXWVCdR8F) | 2:20 | 2023-09-08 | 2024-01-31 |
 | [Weekends](https://open.spotify.com/track/5oUn6WpmemZm5STqFPaWRQ) | [RenBoz](https://open.spotify.com/artist/4EtruNo3qv5ML5tiXQopqT), [quietbeat](https://open.spotify.com/artist/6QA0s1mjWAjVWB54l9iccR), [VOLKHIN](https://open.spotify.com/artist/4zLct3dcGnskzifqZebi2p) | [Weekends](https://open.spotify.com/album/0uXRH3JgRswqkavOFcL8yh) | 2:03 | 2023-09-08 |  |
 | [Westminster](https://open.spotify.com/track/4xJIJavUzBatJRvs8v48dF) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [Westminster](https://open.spotify.com/album/2QC94ST7Lx4VaHNarIk6zc) | 2:44 | 2023-09-08 |  |
 | [Where are we now??](https://open.spotify.com/track/0X3VvSa9UXAAc5GkwsPEkS) | [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Where are we now??](https://open.spotify.com/album/3qdSszvaFaXLwD58p4mgVi) | 1:10 | 2023-11-17 |  |

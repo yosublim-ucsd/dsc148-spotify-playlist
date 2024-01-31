@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 139654,
+  "2024-01-31": 139656,
   "date_first_scraped": "2022-12-10",
   "description": "Future Dance hits. Cover: Ninajirachi, Izzy Camina",
   "name": "New Dance Beats",
@@ -14132,7 +14132,7 @@
     },
     {
       "album": {
-        "name": "Given The Chance (ILLENIUM Remix)",
+        "name": "Given The Chance (ILLENIUM 2014 Remix)",
         "url": "https://open.spotify.com/album/6hLYHpd1QnQvxQsmVuuWji"
       },
       "artists": [
@@ -14149,7 +14149,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 216000,
-      "name": "Given The Chance (ILLENIUM Remix)",
+      "name": "Given The Chance (ILLENIUM 2014 Remix)",
       "url": "https://open.spotify.com/track/1DesiYqBx60jw8B1eTADcT"
     },
     {
@@ -15129,10 +15129,32 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 189636,
       "name": "Head Up",
       "url": "https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn"
+    },
+    {
+      "album": {
+        "name": "Head Up",
+        "url": "https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189636,
+      "name": "Head Up",
+      "url": "https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ"
     },
     {
       "album": {

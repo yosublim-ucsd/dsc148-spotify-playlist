@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Push play on the coolest playlist around, and get ready to jump around.",
-  "name": "Hip-Hopscotch & Reggae Recess",
+  "description": "Push play on the coolest playlist around, and get ready to jump around. Cover: Mega Ran",
+  "name": "Hip-Hop & R&B for Kids",
   "tracks": [
     {
       "album": {
@@ -34,10 +34,76 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 289750,
       "name": "2 Times Tables (Biggie Style)",
       "url": "https://open.spotify.com/track/6pFoYMv2aU4aBORxa4UrIz"
+    },
+    {
+      "album": {
+        "name": "AnceStars",
+        "url": "https://open.spotify.com/album/64aREOj3hb0pCmJzTSxTXc"
+      },
+      "artists": [
+        {
+          "name": "Pierce Freelon",
+          "url": "https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG"
+        },
+        {
+          "name": "Nnenna Freelon",
+          "url": "https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS"
+        },
+        {
+          "name": "Stella Freelon",
+          "url": "https://open.spotify.com/artist/07a4pfP7i1yw280o7TWBCk"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113506,
+      "name": "ABC You A G",
+      "url": "https://open.spotify.com/track/0WJRF99Adva94LORA1Cyud"
+    },
+    {
+      "album": {
+        "name": "Affirmation Alphabets",
+        "url": "https://open.spotify.com/album/2fNNnhBbvYqbNTnubH9iiC"
+      },
+      "artists": [
+        {
+          "name": "Phonicsman",
+          "url": "https://open.spotify.com/artist/3uBROWn3YUw9MweORiLbFI"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308036,
+      "name": "Affirmation Alphabets",
+      "url": "https://open.spotify.com/track/23EL7i3uZgzPROoD1NYL4b"
+    },
+    {
+      "album": {
+        "name": "Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm"
+      },
+      "artists": [
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126688,
+      "name": "Affirmation Song",
+      "url": "https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk"
     },
     {
       "album": {
@@ -52,10 +118,64 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 255047,
       "name": "Apple of My Eye",
       "url": "https://open.spotify.com/track/7nzvfB4c708km3Y69qKj5k"
+    },
+    {
+      "album": {
+        "name": "Taste The Sky",
+        "url": "https://open.spotify.com/album/3j2LHcEsD5j3LY77fAitx5"
+      },
+      "artists": [
+        {
+          "name": "Uncle Jumbo",
+          "url": "https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182975,
+      "name": "Be You You You",
+      "url": "https://open.spotify.com/track/7Eg3RbciQgucCxDanFjEbE"
+    },
+    {
+      "album": {
+        "name": "Believe In Yourself",
+        "url": "https://open.spotify.com/album/6Cr8zKBlb8QtPCHlDaJey7"
+      },
+      "artists": [
+        {
+          "name": "Cali Sad\u00e9",
+          "url": "https://open.spotify.com/artist/412wqueGF3MRBHjzYP5KQC"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153303,
+      "name": "Believe In Yourself",
+      "url": "https://open.spotify.com/track/4fodXSNCm0wF9IfCjqA9SF"
+    },
+    {
+      "album": {
+        "name": "Okay to Be Different",
+        "url": "https://open.spotify.com/album/79hcqBz6rqKuv1aMCJfx23"
+      },
+      "artists": [
+        {
+          "name": "SaulPaul",
+          "url": "https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Best Day Ever",
+      "url": "https://open.spotify.com/track/5zNvK3AfYvmMfb458bzUFY"
     },
     {
       "album": {
@@ -70,7 +190,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 199120,
       "name": "Black and White",
       "url": "https://open.spotify.com/track/2tL2sP4QCuO3gJJ84opH0J"
@@ -118,7 +238,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 190895,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/6c3ipL19bLPHrpoj5kKawy"
@@ -136,7 +256,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 223480,
       "name": "Bored is a Bad Word",
       "url": "https://open.spotify.com/track/6l8PVMHkToebBTlJacW6Fa"
@@ -154,7 +274,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 138214,
       "name": "Bubble Wrap Rap",
       "url": "https://open.spotify.com/track/3vyExFn4NbOCGkGR30i6AA"
@@ -172,7 +292,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 251573,
       "name": "Can I Kick It?",
       "url": "https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I"
@@ -190,7 +310,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 222786,
       "name": "Cha Cha Slide",
       "url": "https://open.spotify.com/track/146IdUhpqJAKpfGPegGtd1"
@@ -215,6 +335,24 @@
     },
     {
       "album": {
+        "name": "Adventures Of The Music Box",
+        "url": "https://open.spotify.com/album/1GwhMxPANknpYACqJCQU6C"
+      },
+      "artists": [
+        {
+          "name": "The Magic Jones",
+          "url": "https://open.spotify.com/artist/68k1fAn7fhJnsujFNEscyA"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Clap Your Hands",
+      "url": "https://open.spotify.com/track/17rsWinx1UqahD9ntGdkyA"
+    },
+    {
+      "album": {
         "name": "CONFIDENT",
         "url": "https://open.spotify.com/album/45pqzyFPMnLw0KN9Qe2Ous"
       },
@@ -226,10 +364,68 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 112960,
       "name": "CONFIDENT",
       "url": "https://open.spotify.com/track/4Q2ellywUb76X5n08rn8TE"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Rise Up, Sing Out",
+        "url": "https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U"
+      },
+      "artists": [
+        {
+          "name": "Rise Up, Sing Out - Cast",
+          "url": "https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101624,
+      "name": "Create Your World",
+      "url": "https://open.spotify.com/track/5LxAmqmVkKAvtJruLIbCJX"
+    },
+    {
+      "album": {
+        "name": "We Dance Full Out",
+        "url": "https://open.spotify.com/album/4KfRi7zVFxgR5GO33iLbTC"
+      },
+      "artists": [
+        {
+          "name": "Karma's World",
+          "url": "https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141083,
+      "name": "Dance Full Out",
+      "url": "https://open.spotify.com/track/3bV1JJ6ItRaTRdaDmlmm8x"
+    },
+    {
+      "album": {
+        "name": "Kids Dance Jams",
+        "url": "https://open.spotify.com/album/4QuhMdlQcRvXTe0zV7NTh1"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dennis",
+          "url": "https://open.spotify.com/artist/1W14E5ExskpUoE8H9n8fPn"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154680,
+      "name": "Dance in the Playroom",
+      "url": "https://open.spotify.com/track/2TfF7L9W79OdDaxdp2pKMo"
     },
     {
       "album": {
@@ -248,7 +444,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 198347,
       "name": "Dance Party in the House",
       "url": "https://open.spotify.com/track/6ZSMbNa2ZSmLR7LlC5Bz0m"
@@ -270,10 +466,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 205714,
       "name": "Dance to the Reggae Rhythm (feat. Father Goose)",
       "url": "https://open.spotify.com/track/0PylWiOSendDTztmimb42y"
+    },
+    {
+      "album": {
+        "name": "Daydream Baby",
+        "url": "https://open.spotify.com/album/1wpzMFGu7KpRz6f7PGkxtS"
+      },
+      "artists": [
+        {
+          "name": "Secret Agent 23 Skidoo",
+          "url": "https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206703,
+      "name": "Daydream Baby",
+      "url": "https://open.spotify.com/track/3vszROWz4cAi5lDYIVaA4W"
     },
     {
       "album": {
@@ -295,6 +509,50 @@
     },
     {
       "album": {
+        "name": "Ready Set Go!",
+        "url": "https://open.spotify.com/album/4jOCINfRZTbcSiblJcrqyu"
+      },
+      "artists": [
+        {
+          "name": "Divi Roxx Kids",
+          "url": "https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR"
+        },
+        {
+          "name": "Divinity Roxx",
+          "url": "https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI"
+        },
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176613,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/0qVGxEjXwJtHIcV2ool7M7"
+    },
+    {
+      "album": {
+        "name": "The Movement",
+        "url": "https://open.spotify.com/album/1QxVv43hGh5XB1glM74gPw"
+      },
+      "artists": [
+        {
+          "name": "Alphabet Rockers",
+          "url": "https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180444,
+      "name": "Get You A Friend",
+      "url": "https://open.spotify.com/track/0wgwnjKBcA5wn1MntWaRQZ"
+    },
+    {
+      "album": {
         "name": "Big Willie Style",
         "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
@@ -306,7 +564,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 227933,
       "name": "Gettin' Jiggy Wit It",
       "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
@@ -328,10 +586,50 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 110675,
       "name": "Getting Silly",
       "url": "https://open.spotify.com/track/60kcJIrsehemBC5S2PTTG3"
+    },
+    {
+      "album": {
+        "name": "Buddy's Magic Toy Box",
+        "url": "https://open.spotify.com/album/0t89W84YBh8m1CsqBrR5Ip"
+      },
+      "artists": [
+        {
+          "name": "Mega Ran",
+          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
+        },
+        {
+          "name": "Whitney Peyton",
+          "url": "https://open.spotify.com/artist/1O2t0Zg7s34o2VrOutAjqx"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139786,
+      "name": "Gimme The Fruit!",
+      "url": "https://open.spotify.com/track/5oZOSCkQ3Ie7E6sNHqF2tx"
+    },
+    {
+      "album": {
+        "name": "We Dance Full Out",
+        "url": "https://open.spotify.com/album/4KfRi7zVFxgR5GO33iLbTC"
+      },
+      "artists": [
+        {
+          "name": "Karma's World",
+          "url": "https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142841,
+      "name": "Girls Do It Best",
+      "url": "https://open.spotify.com/track/0Nk5gkcSIkSu29m4XO95mq"
     },
     {
       "album": {
@@ -418,7 +716,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 202786,
       "name": "Go DJ",
       "url": "https://open.spotify.com/track/1iD60ApOiYKOb32UCaYWP1"
@@ -440,10 +738,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 147428,
       "name": "Go Play Outside",
       "url": "https://open.spotify.com/track/5oGi3t0P5LJ4Opu87mlLUg"
+    },
+    {
+      "album": {
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/34pHgSzZar4FBqXhB7anYU"
+      },
+      "artists": [
+        {
+          "name": "Aaron Nigel Smith",
+          "url": "https://open.spotify.com/artist/5afv4kS3cXl7Rs0oKQj6S4"
+        },
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186093,
+      "name": "Good Vibes",
+      "url": "https://open.spotify.com/track/1T4TCM0A22kV5Ts0MhDas9"
     },
     {
       "album": {
@@ -458,7 +778,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 186946,
       "name": "Have Fun",
       "url": "https://open.spotify.com/track/2SRrXQG5zBbd2VUZFu38iL"
@@ -512,10 +832,54 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 166153,
       "name": "Healthy",
       "url": "https://open.spotify.com/track/4h0sclha9pcAkN8oJPA795"
+    },
+    {
+      "album": {
+        "name": "AnceStars",
+        "url": "https://open.spotify.com/album/64aREOj3hb0pCmJzTSxTXc"
+      },
+      "artists": [
+        {
+          "name": "Pierce Freelon",
+          "url": "https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG"
+        },
+        {
+          "name": "Nnenna Freelon",
+          "url": "https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS"
+        },
+        {
+          "name": "Jarrett Johnson",
+          "url": "https://open.spotify.com/artist/7s9DvOkGwaNtMa4jPXPpLt"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168480,
+      "name": "Help You Do The Work",
+      "url": "https://open.spotify.com/track/4odnaqDDzJuQPTQ69AC7wJ"
+    },
+    {
+      "album": {
+        "name": "Hey Diddle Diddle",
+        "url": "https://open.spotify.com/album/2cBnlHDLpjSLoEqtn8phOG"
+      },
+      "artists": [
+        {
+          "name": "Pj Panda",
+          "url": "https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122305,
+      "name": "Hey Diddle Diddle",
+      "url": "https://open.spotify.com/track/5CjQc6AFaaguvmLLwS2gdG"
     },
     {
       "album": {
@@ -548,7 +912,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 235400,
       "name": "Hey Ya",
       "url": "https://open.spotify.com/track/7qEaSln7DzqWAxVWPJG8hz"
@@ -573,6 +937,28 @@
     },
     {
       "album": {
+        "name": "Hip Hope For Kids!",
+        "url": "https://open.spotify.com/album/6EV4fFV1l6P6s43QQSlBCo"
+      },
+      "artists": [
+        {
+          "name": "DJ WILLY WOW!",
+          "url": "https://open.spotify.com/artist/1wrWCOgGgDPnyplXzAyphY"
+        },
+        {
+          "name": "Armand Hutton",
+          "url": "https://open.spotify.com/artist/2tTTLk0nX4eKLe7H2o1nAA"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79800,
+      "name": "Hold On To Hope",
+      "url": "https://open.spotify.com/track/1LersStKnGeVNUT22jV93Z"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/0z7eg9m6jd8CfepI2WLLC6"
       },
@@ -584,7 +970,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 200906,
       "name": "I Like Fruit",
       "url": "https://open.spotify.com/track/1FgVgbqZG3tZ9vNgymPOVe"
@@ -634,7 +1020,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 61906,
       "name": "I'm Coming Out / Mo' Money Mo' Problems",
       "url": "https://open.spotify.com/track/3SUQYLuMqCW7lkMAZ1Bhev"
@@ -656,7 +1042,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 153239,
       "name": "I'm Healthy",
       "url": "https://open.spotify.com/track/7ECdYi17tlPuGg9YVblRPU"
@@ -674,7 +1060,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 185693,
       "name": "If You're Happy and You Know It",
       "url": "https://open.spotify.com/track/1CoEBzmNnIJlNRrgcGZ1Lz"
@@ -692,7 +1078,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 183333,
       "name": "In My Feelings",
       "url": "https://open.spotify.com/track/5GJkaptoXzXzZ3NUw8MJy9"
@@ -710,7 +1096,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 231493,
       "name": "Intergalactic - Remastered 2009",
       "url": "https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R"
@@ -754,7 +1140,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 194800,
       "name": "Jamaica Farewell",
       "url": "https://open.spotify.com/track/5cYxD1ChuvEUlIIQBlv42J"
@@ -772,7 +1158,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 157426,
       "name": "Joy to the World",
       "url": "https://open.spotify.com/track/08d59tHb8uQvvWGVEnYsLl"
@@ -815,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "Just Be Brave",
+        "url": "https://open.spotify.com/album/3kg2E3Mgy7n3TjuVnvF0Kx"
+      },
+      "artists": [
+        {
+          "name": "Gracie's Corner",
+          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Just Be Brave",
+      "url": "https://open.spotify.com/track/77qcquRxiKXVyZGA2ev6gu"
+    },
+    {
+      "album": {
         "name": "Ready Set Go!",
         "url": "https://open.spotify.com/album/4jOCINfRZTbcSiblJcrqyu"
       },
@@ -838,7 +1242,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 136253,
       "name": "Just When You Think - Kidz Version",
       "url": "https://open.spotify.com/track/1KDmjtkUAtTKomtKnGEp9j"
@@ -856,7 +1260,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 210920,
       "name": "Kids That Rock",
       "url": "https://open.spotify.com/track/3MZmpfcmRK73emDMcqNpbe"
@@ -896,6 +1300,58 @@
       "duration_ms": 278413,
       "name": "Learn Your State Capitols",
       "url": "https://open.spotify.com/track/5GBH7uQ6hX7umS4Bl9RZ8J"
+    },
+    {
+      "album": {
+        "name": "LOL LAUGH OUT LOUD",
+        "url": "https://open.spotify.com/album/4glq20l2Wimpfi4Ac3KHXL"
+      },
+      "artists": [
+        {
+          "name": "Divinity Roxx",
+          "url": "https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI"
+        },
+        {
+          "name": "Divi Roxx Kids",
+          "url": "https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR"
+        },
+        {
+          "name": "Carrie Clark",
+          "url": "https://open.spotify.com/artist/3J1fapB3gyP3uAmKuqavh8"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145800,
+      "name": "LOL LAUGH OUT LOUD",
+      "url": "https://open.spotify.com/track/1qhtoRTnYx6icGiwcKiT4j"
+    },
+    {
+      "album": {
+        "name": "Lovable and Capable (All Star Remix)",
+        "url": "https://open.spotify.com/album/22wpa7n1zlx9PEvGLNIE2g"
+      },
+      "artists": [
+        {
+          "name": "Mega Ran",
+          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
+        },
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        },
+        {
+          "name": "Alphabet Rockers",
+          "url": "https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220757,
+      "name": "Lovable and Capable - All Star Remix",
+      "url": "https://open.spotify.com/track/7qmhq9HB3avP0XWOMjhiXb"
     },
     {
       "album": {
@@ -946,10 +1402,28 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 119160,
       "name": "Man Stop",
       "url": "https://open.spotify.com/track/7IZNULeligccS1z83Bzjt8"
+    },
+    {
+      "album": {
+        "name": "Martin Luther King Jr. Song for Kids",
+        "url": "https://open.spotify.com/album/5tkC2owfO70QSvP9Pt5y7w"
+      },
+      "artists": [
+        {
+          "name": "Numberock",
+          "url": "https://open.spotify.com/artist/7dBwVUfKAtowGHK94FlzT8"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324702,
+      "name": "Martin Luther King Jr. Song for Kids",
+      "url": "https://open.spotify.com/track/3LpC4X1bJYj2I1CFTrNvpM"
     },
     {
       "album": {
@@ -982,10 +1456,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 188333,
       "name": "Mi Gente",
       "url": "https://open.spotify.com/track/57rPxsDFpBnUp4Bw5uxIXP"
+    },
+    {
+      "album": {
+        "name": "Trap Nursery Rhymes, Vol. 2",
+        "url": "https://open.spotify.com/album/5IhjSsdEIQkAIbFAUOipZe"
+      },
+      "artists": [
+        {
+          "name": "Jools TV",
+          "url": "https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167428,
+      "name": "MKB (Mama Knows Best)",
+      "url": "https://open.spotify.com/track/2eY1qIARgQKnoQRi6LKn9E"
     },
     {
       "album": {
@@ -1000,7 +1492,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 175088,
       "name": "Monster Moves",
       "url": "https://open.spotify.com/track/2LncSzAiksL7Wtm7eNhikm"
@@ -1025,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Trap Nursery Rhymes, Vol. 2",
+        "url": "https://open.spotify.com/album/5IhjSsdEIQkAIbFAUOipZe"
+      },
+      "artists": [
+        {
+          "name": "Jools TV",
+          "url": "https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163356,
+      "name": "Months Of The Year",
+      "url": "https://open.spotify.com/track/2lfQDNdqoCxdKC0Ixcmxnt"
+    },
+    {
+      "album": {
         "name": "Old Town Road",
         "url": "https://open.spotify.com/album/4BAx7hzmBgjaGxs62oWcBn"
       },
@@ -1036,7 +1546,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 110346,
       "name": "Old Town Road",
       "url": "https://open.spotify.com/track/3QpAo1aiTUVgsQBR8KmNHO"
@@ -1054,7 +1564,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 113000,
       "name": "Old Town Road",
       "url": "https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH"
@@ -1108,7 +1618,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 172933,
       "name": "One Love / People Get Ready - Medley",
       "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
@@ -1126,10 +1636,94 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 114893,
       "name": "Panini",
       "url": "https://open.spotify.com/track/6fTt0CH2t0mdeB2N9XFG5r"
+    },
+    {
+      "album": {
+        "name": "Family Tree",
+        "url": "https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj"
+      },
+      "artists": [
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170594,
+      "name": "Pick It Up",
+      "url": "https://open.spotify.com/track/6lY2AdInMhdWlio2rS8yph"
+    },
+    {
+      "album": {
+        "name": "Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm"
+      },
+      "artists": [
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95944,
+      "name": "Please & Thank You",
+      "url": "https://open.spotify.com/track/6PTkVli8zGBzffeZGZnWDm"
+    },
+    {
+      "album": {
+        "name": "Reading is Amazing (World Book Day 2022)",
+        "url": "https://open.spotify.com/album/529nXtwRpnni4MtGtKrEJy"
+      },
+      "artists": [
+        {
+          "name": "MC Grammar",
+          "url": "https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179516,
+      "name": "Reading is Amazing (World Book Day 2022)",
+      "url": "https://open.spotify.com/track/1V2Ck7XdziVOmHBbXDujQy"
+    },
+    {
+      "album": {
+        "name": "Buddy's Magic Toy Box",
+        "url": "https://open.spotify.com/album/0t89W84YBh8m1CsqBrR5Ip"
+      },
+      "artists": [
+        {
+          "name": "Mega Ran",
+          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
+        },
+        {
+          "name": "JER",
+          "url": "https://open.spotify.com/artist/7xJaPX4LwOT3i6XB7WFskK"
+        },
+        {
+          "name": "Stacked Like Pancakes",
+          "url": "https://open.spotify.com/artist/7Fk8bbugoEFZWgUvVoTBBp"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168786,
+      "name": "Recess",
+      "url": "https://open.spotify.com/track/4cTLSLjhkKCtGdkwmBPdK6"
     },
     {
       "album": {
@@ -1144,10 +1738,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 183250,
       "name": "Rise",
       "url": "https://open.spotify.com/track/00Nx5kFUJBcdGa0GNPH8Lx"
+    },
+    {
+      "album": {
+        "name": "Cool Kids Jams 4",
+        "url": "https://open.spotify.com/album/76Lr20i3iEpxEGiATZPAzM"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dennis",
+          "url": "https://open.spotify.com/artist/1W14E5ExskpUoE8H9n8fPn"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134186,
+      "name": "Rise and Shine",
+      "url": "https://open.spotify.com/track/2VDkVkx5wDtwbsT07p69so"
     },
     {
       "album": {
@@ -1180,7 +1792,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 205680,
       "name": "Safari",
       "url": "https://open.spotify.com/track/1Cz147uNA3JuLlaF60TP5K"
@@ -1198,10 +1810,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 238426,
       "name": "Shake Ya Tailfeather",
       "url": "https://open.spotify.com/track/2t3ZxwOLtpRYxctPbXRRns"
+    },
+    {
+      "album": {
+        "name": "Shine Bright",
+        "url": "https://open.spotify.com/album/7xpTudRq1jnZtbsJKaVxsK"
+      },
+      "artists": [
+        {
+          "name": "Super Siah",
+          "url": "https://open.spotify.com/artist/36s30oXmxBFCjVoJLiOY9P"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107808,
+      "name": "Shine Bright",
+      "url": "https://open.spotify.com/track/0vky4YTaxSuGlnSPjpWHt1"
     },
     {
       "album": {
@@ -1274,7 +1904,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 198066,
       "name": "Take Me To Jamaica (feat. Toots Hibbert)",
       "url": "https://open.spotify.com/track/2vcKT2C8W276xnrWz6ypuz"
@@ -1310,10 +1940,50 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 272706,
       "name": "Tennessee",
       "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
+    },
+    {
+      "album": {
+        "name": "That's My Sista",
+        "url": "https://open.spotify.com/album/3peZixM4ePxajKAgpBu0Gl"
+      },
+      "artists": [
+        {
+          "name": "Grey Skye Evans",
+          "url": "https://open.spotify.com/artist/0xcZxQPXuEniKbWwUMvPPP"
+        },
+        {
+          "name": "Phoenix Evans",
+          "url": "https://open.spotify.com/artist/5gWQvDnZuBRtqjTN7sypED"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122553,
+      "name": "That's My Sista",
+      "url": "https://open.spotify.com/track/6A4NGHgNxyihpSWI2Euf7f"
+    },
+    {
+      "album": {
+        "name": "Wonder Raps",
+        "url": "https://open.spotify.com/album/4iWMDhbFSAJ9OiJmko17mH"
+      },
+      "artists": [
+        {
+          "name": "MC Grammar",
+          "url": "https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "The Brain Song",
+      "url": "https://open.spotify.com/track/3WKp2G9XxEoUqXB64UR0qV"
     },
     {
       "album": {
@@ -1335,6 +2005,24 @@
     },
     {
       "album": {
+        "name": "Desmond Cool Jams",
+        "url": "https://open.spotify.com/album/78ZmgGAOrMieH3NANKJ7Ir"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dennis",
+          "url": "https://open.spotify.com/artist/1W14E5ExskpUoE8H9n8fPn"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152340,
+      "name": "The Muffin Man",
+      "url": "https://open.spotify.com/track/1Vbvmps24U9pmD4Mf5fEtC"
+    },
+    {
+      "album": {
         "name": "Wonder Raps",
         "url": "https://open.spotify.com/album/4iWMDhbFSAJ9OiJmko17mH"
       },
@@ -1346,7 +2034,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 189843,
       "name": "The Volcano Song",
       "url": "https://open.spotify.com/track/0LixLuFCySCWfXxRWH0Esj"
@@ -1368,7 +2056,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 209781,
       "name": "The Word is Love",
       "url": "https://open.spotify.com/track/7lqd7pWvJgsCdyecGibcAy"
@@ -1386,7 +2074,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 193240,
       "name": "This Old Man",
       "url": "https://open.spotify.com/track/33brRRHTjeMZVXzt4tDOzp"
@@ -1426,7 +2114,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 205893,
       "name": "Three Little Birds (feat. Ziggy Marley)",
       "url": "https://open.spotify.com/track/4lWJMQSOJIWSodi3Oe6Few"
@@ -1502,7 +2190,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 196293,
       "name": "Walk Tall (feat. Paul Simon)",
       "url": "https://open.spotify.com/track/2n5jNXpu7XrDpsNeU2BZk0"
@@ -1520,7 +2208,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 164000,
       "name": "We Outside",
       "url": "https://open.spotify.com/track/2Jm5GHTsbMXbDvhIoyUikW"
@@ -1538,7 +2226,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 165902,
       "name": "Welcome To Karma's World",
       "url": "https://open.spotify.com/track/1AP554izviISI1m6Yb7O0o"
@@ -1662,6 +2350,60 @@
       "duration_ms": 227901,
       "name": "Wonderful People (feat. Judah Marley, Gideon Marley & Abraham Marley)",
       "url": "https://open.spotify.com/track/3xDiCJdE8eRRgx0qUOQphX"
+    },
+    {
+      "album": {
+        "name": "You Are Not Alone",
+        "url": "https://open.spotify.com/album/6gWplVbzEU4t7v1lEEnJRo"
+      },
+      "artists": [
+        {
+          "name": "Alphabet Rockers",
+          "url": "https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204740,
+      "name": "You Are Not Alone",
+      "url": "https://open.spotify.com/track/2KgDN89wIbocdgIBXrCi0b"
+    },
+    {
+      "album": {
+        "name": "You Did It",
+        "url": "https://open.spotify.com/album/1TRng1CBebIq5Iu8dUNVgp"
+      },
+      "artists": [
+        {
+          "name": "Pj Panda",
+          "url": "https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146750,
+      "name": "You Did It",
+      "url": "https://open.spotify.com/track/2VXZxXzmjSDCys1rZc0Ri1"
+    },
+    {
+      "album": {
+        "name": "The Perfect Quirk",
+        "url": "https://open.spotify.com/album/5swOluAxNHMNIyW95TjSTF"
+      },
+      "artists": [
+        {
+          "name": "Secret Agent 23 Skidoo",
+          "url": "https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154533,
+      "name": "You\u2019re It",
+      "url": "https://open.spotify.com/track/6NJE6RXJrAI6AqThyrNSul"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWX16Q183eyvd"

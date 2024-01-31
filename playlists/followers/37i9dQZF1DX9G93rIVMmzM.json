@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 92234,
+  "2024-01-31": 92928,
   "date_first_scraped": "2023-09-22",
   "description": "for the baddies",
   "name": "ALLURE",
@@ -1095,6 +1095,28 @@
       "duration_ms": 248888,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/6qR5axxGIS7JORzaYM0YRs"
+    },
+    {
+      "album": {
+        "name": "V.A.N",
+        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274098,
+      "name": "V.A.N",
+      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,129 likes - 186 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,154 likes - 186 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 102 | [Back to the Sun](https://open.spotify.com/track/1gqZfvOiLczx1jARMT5l6f) | [Black Bones](https://open.spotify.com/artist/6pjcvtswA4LuOf8tBE21Wl) | [The Wolf Under The Moon](https://open.spotify.com/album/0SpFWJ5LuKqg84SZwCWVUd) | 3:51 |
 | 103 | [Fire for You](https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn) | 3:51 |
 | 104 | [Ellipsis](https://open.spotify.com/track/7j3KGtoP432CcQLA9zLrAo) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [Modern Mirror](https://open.spotify.com/album/5M68LgZR31aWfO4rWwooQK) | 5:06 |
-| 105 | [Be Fair](https://open.spotify.com/track/6n89Kys79T2kZnjAAVhHcR) | [Computer Magic](https://open.spotify.com/artist/6vhyWw7hIpvfIY9tE94mzP) | [Davos](https://open.spotify.com/album/0NqEhR3T1X5Bn27JAymtlo) | 4:08 |
+| 105 | [Be Fair](https://open.spotify.com/track/6n89Kys79T2kZnjAAVhHcR) | [Computer Magic](https://open.spotify.com/artist/6vhyWw7hIpvfIY9tE94mzP), [Danz CM](https://open.spotify.com/artist/6p68pkOt9kdwy15072E4dD) | [Davos](https://open.spotify.com/album/0NqEhR3T1X5Bn27JAymtlo) | 4:08 |
 | 106 | [The Technology](https://open.spotify.com/track/0asDnlxGyRvFZw7Ft0DrnB) | [Computer Magic](https://open.spotify.com/artist/6vhyWw7hIpvfIY9tE94mzP), [Danz CM](https://open.spotify.com/artist/6p68pkOt9kdwy15072E4dD) | [Super Rare: a Compilation of Early Tracks, Japan Exclusives and Rarities](https://open.spotify.com/album/1cK9XZ32ji2QoJd3UoRLNM) | 4:11 |
 | 107 | [Darjeeling](https://open.spotify.com/track/6vPmNElzvzODHP0tWu9Ayu) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Happy To Be Here](https://open.spotify.com/album/6t1OiiVq9VIbW1SUHaXX7W) | 3:19 |
 | 108 | [More Love](https://open.spotify.com/track/0iQsANSDYXZI40g7DQSng5) | [Sedona](https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi) | [More Love](https://open.spotify.com/album/6BXcqC3UlzpTA5iK3V8nYF) | 3:24 |
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 120 | [IOU](https://open.spotify.com/track/37hr304EeFefwdyxmS8YXh) | [Annabel Jones](https://open.spotify.com/artist/5koilOAvfuLq4O2yc9UWft) | [IOU](https://open.spotify.com/album/3TxkSyXFgSNmlhHTvys10F) | 2:33 |
 | 121 | [JuJu](https://open.spotify.com/track/3kgyMku6HTu3jytLRFBgIs) | [Summer Twins](https://open.spotify.com/artist/2Tfo5n4B74gg8c3n8hjDf1) | [Limbo](https://open.spotify.com/album/0p0xZ8HOzi6tqI7S589hGh) | 4:15 |
 | 122 | [KARMA](https://open.spotify.com/track/4wK7cKpXBSTuXPmWKG1pTg) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [KARMA](https://open.spotify.com/album/6ooIqBUjoxd1MAzRfF4SGj) | 2:48 |
-| 123 | [Fuzz](https://open.spotify.com/track/5V1QjzMOsM9JpRyPQzt1DD) | [Computer Magic](https://open.spotify.com/artist/6vhyWw7hIpvfIY9tE94mzP) | [Davos](https://open.spotify.com/album/0NqEhR3T1X5Bn27JAymtlo) | 4:14 |
+| 123 | [Fuzz](https://open.spotify.com/track/5V1QjzMOsM9JpRyPQzt1DD) | [Computer Magic](https://open.spotify.com/artist/6vhyWw7hIpvfIY9tE94mzP), [Danz CM](https://open.spotify.com/artist/6p68pkOt9kdwy15072E4dD) | [Davos](https://open.spotify.com/album/0NqEhR3T1X5Bn27JAymtlo) | 4:14 |
 | 124 | [Bad Habits](https://open.spotify.com/track/7bM54jOBYpZ1FOd7xUFCpp) | [Madame Gandhi](https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf) | [Visions](https://open.spotify.com/album/0V4kDiBvMZDxtPGaXf3fqc) | 3:48 |
 | 125 | [Yellow Sea](https://open.spotify.com/track/266iIGIh8AbMLVFIM5Urhb) | [Madame Gandhi](https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf) | [Voices](https://open.spotify.com/album/5l9seKsDpX6RCaJrPDTfKF) | 3:37 |
 | 126 | [Faster](https://open.spotify.com/track/0fbxkVJjBAv6MYUgXJNnRB) | [Orlean](https://open.spotify.com/artist/0CMi4bdgWM5KaUWQ5Wt6RO) | [Faster](https://open.spotify.com/album/1y4klEfZXHcvBgdIzHfFsv) | 3:04 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 185 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 186 | [Boys Like You](https://open.spotify.com/track/2i8zKNkcMQMjztKdNQrYx4) | [Kids At Midnight](https://open.spotify.com/artist/0PUDa7NkXCsMPeFUPLdTAs) | [Boys Like You](https://open.spotify.com/album/10vIxKjxQTtnWc9cA3t4EH) | 3:50 |
 
-Snapshot ID: `MCw5OTJkN2VkMzY4NzI5MzM2MWY5MzRiYjcwMTgyYjc0MGRkMzA3YTRj`
+Snapshot ID: `MCxjNDljZTY5YTg4OTYyYmViYjdmNDgxZWU0ZjkyNTc0ZWFlZTZmMmNk`

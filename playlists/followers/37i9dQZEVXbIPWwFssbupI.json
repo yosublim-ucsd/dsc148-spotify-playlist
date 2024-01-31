@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 842293,
+  "2024-01-31": 842248,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - France.",
   "name": "Top 50 - France",
@@ -1337,7 +1337,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 165506,
       "name": "Ailleurs",
       "url": "https://open.spotify.com/track/7ujxY1bqVRvMe1sR5iFmxt"
@@ -1631,7 +1631,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 177240,
       "name": "Aller sans retour",
       "url": "https://open.spotify.com/track/3eD90F1Ve0qxq54Np0VCga"
@@ -5987,7 +5987,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 156413,
       "name": "Celui qui part",
       "url": "https://open.spotify.com/track/4ZeveNuwkv5cUrkDsx2eGQ"
@@ -8363,7 +8363,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"

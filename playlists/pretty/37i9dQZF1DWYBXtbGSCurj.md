@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Sidoka
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,032 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,012 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Frenesi](https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [prodbyiniesta](https://open.spotify.com/artist/5kbHs0XpVIVFYD75VBXpNB), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Frenesi](https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA) | 3:41 |
 | 75 | [Porsche "Ye Yo"](https://open.spotify.com/track/7jpS4vYcLObK2YtcXjgwEO) | [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [TrapHits](https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW) | [O Bagulho É Trap II](https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX) | 2:34 |
 
-Snapshot ID: `MCwxMGExMGEyOWFhN2U5MjBmYjQwZjJjOWNjZDkwMjViMzg5YTJhNmQw`
+Snapshot ID: `MCw3YjQ2Y2YxZWU2ZjYxMzI2Njc3MTg2NTZlNTYwMDMzMDMwMDkzYmI5`

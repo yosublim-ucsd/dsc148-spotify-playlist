@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 142839,
       "name": "morrigan",
       "url": "https://open.spotify.com/track/2zWzQh571g7vTJh2ODmdh1"
@@ -2062,6 +2062,24 @@
       "duration_ms": 186920,
       "name": "Through The Hosiery",
       "url": "https://open.spotify.com/track/6pGxDQNsAzAXSTM36XEG4U"
+    },
+    {
+      "album": {
+        "name": "Crystal Castles",
+        "url": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186920,
+      "name": "Through The Hosiery",
+      "url": "https://open.spotify.com/track/76Sl8UKNB6ACcrg6pjOopx"
     },
     {
       "album": {

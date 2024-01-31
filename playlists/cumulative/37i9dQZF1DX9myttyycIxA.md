@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Katy Kirby
 
-1,148 songs - 2 day 17 hr 19 min
+1,149 songs - 2 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Blue](https://open.spotify.com/track/2gD6XfMklqFzI766JU9xjt) | [Retlehs](https://open.spotify.com/artist/1Zinn1WzK7KHfvgBUuGrrX) | [Satyr's Satire](https://open.spotify.com/album/4wOvGi8aHdcRcjLJ9HLZY2) | 3:57 | 2022-07-29 | 2022-12-15 |
 | [BLUE](https://open.spotify.com/track/1Jsrkn70ZpnAVEC7cAPrgh) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [SPARK](https://open.spotify.com/album/5FgDFLMa4LM50AlBypheGs) | 3:05 | 2022-07-29 | 2022-09-29 |
 | [BLUE](https://open.spotify.com/track/5ogl7JWflmR7b0fedAgQOI) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [BLUE b/w TWIRL](https://open.spotify.com/album/65VvEIy3GWf6o5Xk9gZYIq) | 3:05 | 2022-07-29 | 2022-09-28 |
+| [Blue Tuesday](https://open.spotify.com/track/37pvGnY30NAi7FdtB2HhJL) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Blue Tuesday](https://open.spotify.com/album/43f2MIFJtD0hEWs1KQkvnw) | 2:38 | 2024-01-30 |  |
 | [bodies](https://open.spotify.com/track/4kXdLQaiCpqSdM9OTpvfZe) | [fearofmakingout](https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c) | [bodies](https://open.spotify.com/album/6nJVoyXol3qPhMdBS4VaFh) | 3:02 | 2022-09-02 | 2023-05-06 |
 | [Bodies Lie](https://open.spotify.com/track/3EmPt5Hsx40X5xKsZF0sOP) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Bodies Lie](https://open.spotify.com/album/3tTPYeDCoc0Z3sc1EALUGx) | 3:38 | 2021-07-02 | 2022-09-03 |
 | [Body Bag \(w/ Ethan Tasch\)](https://open.spotify.com/track/1x6xmj2HRJDYJB94sgzkpp) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP), [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Body Bag \(w/ Ethan Tasch\)](https://open.spotify.com/album/3t7PD8kmLJdX3rLGwxmwT1) | 2:21 | 2021-10-29 | 2022-01-17 |

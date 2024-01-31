@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring The Kid LAROI, Beyoncé, Harry Styles &amp; more! Cover: The Kid LAROI
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,262 likes - 38 songs - 1 hr 59 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,258 likes - 38 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

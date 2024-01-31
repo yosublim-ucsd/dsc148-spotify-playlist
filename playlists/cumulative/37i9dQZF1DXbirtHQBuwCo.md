@@ -2,7 +2,7 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Enjoy trendy & chill Korean R&B music\. \(Cover: So Soo Bin\(소수빈\)\)
+> Enjoy trendy & chill Korean R&B music\. \(Cover: H1\-KEY\)
 
 659 songs - 1 day 11 hr 27 min
 
@@ -489,7 +489,7 @@
 | [Refresh \(feat\. Gist & Kid Wine\)](https://open.spotify.com/track/30SwX34WgPlXKkqnJHrhlG) | [LOTI](https://open.spotify.com/artist/5HlwsKjYi0iygvWg19itif), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Refresh \(feat\. Gist & Kid Wine\)](https://open.spotify.com/album/0Nt3sn3MrZhQb3hfR3xEvL) | 3:29 | 2023-01-11 | 2023-01-24 |
 | [Remember \(Feat\. Owell Mood\)](https://open.spotify.com/track/3UBJWEPCIFeVbhnb8wWh2w) | [XAXA](https://open.spotify.com/artist/2Rtn7OFpkjyS5OXGaKzwW1), [Owell Mood](https://open.spotify.com/artist/21PxLOZet5J6uX4uMfXUTA) | [Remember](https://open.spotify.com/album/4yHWe2xBs5mk0wNHafCUVH) | 3:01 | 2022-04-19 | 2022-04-21 |
 | [Respect](https://open.spotify.com/track/2b8wiA0rT5h1ONtW9HsXUt) | [안신애](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Respect](https://open.spotify.com/album/3oikuOBybmjw4rW7SBFWwD) | 3:01 | 2023-09-22 | 2023-09-28 |
-| [Restless](https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [LISTEN 035 Restless](https://open.spotify.com/album/5xDX8Uv4ojXg0ONDEcAMra) | 4:27 | 2022-04-19 | 2024-01-29 |
+| [Restless](https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [LISTEN 035 Restless](https://open.spotify.com/album/5xDX8Uv4ojXg0ONDEcAMra) | 4:27 | 2022-04-19 |  |
 | [Riddle \(feat\. Khundi Panda\)](https://open.spotify.com/track/0CfaShWRNwAS86m7gzbehv) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [Riddle](https://open.spotify.com/album/37jhqfjnQFN5ObACGJkdUv) | 2:47 | 2022-06-23 | 2022-06-30 |
 | [Right Back \(Feat\. Tabber\)](https://open.spotify.com/track/5w0UlB7OxmoBF5kpT6uFKw) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [Lucky Charms!](https://open.spotify.com/album/6bwVdSQ3xOtkSgNIzhqiaa) | 3:26 | 2022-05-31 | 2022-06-17 |
 | [right now](https://open.spotify.com/track/1nEHkqPpdcYimQBcksbpFe) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [right now](https://open.spotify.com/album/0outmoEBf1z970iFwCEPBs) | 2:15 | 2022-09-30 | 2022-10-06 |
@@ -594,7 +594,7 @@
 | [Tropical](https://open.spotify.com/track/0mChhyeHONd7iEiyfETprG) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Seoul Check\-in OST Part 12](https://open.spotify.com/album/3oMeuwSCtpt0e1ln0o4IHO) | 3:04 | 2022-12-15 | 2022-12-20 |
 | [true colors \(feat\. Rovv\)](https://open.spotify.com/track/7C5bIf3LcljUhNBPSi5wnv) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy) | [true colors \(feat\. Rovv\)](https://open.spotify.com/album/4uFeEsuhw8dLCWBzni0JcU) | 2:34 | 2022-05-02 | 2022-05-12 |
 | [Trust Me \(Feat\. Roh Yun Ha\)](https://open.spotify.com/track/1xjJUoYC3ZHBjj1QsiKlUm) | [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [Trust Me](https://open.spotify.com/album/7fKdvbJrehDqOAHdHMnof7) | 3:16 | 2023-08-08 | 2023-08-18 |
-| [Try Again](https://open.spotify.com/track/0kvfHWIeOQe0GDoWktoh8r) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [SingAgain3 \- Battle of the Unknown, Ep.11 \(From the JTBC TV Show\)](https://open.spotify.com/album/4OkQktNpOvuGmmqWbM3Hn6) | 3:32 | 2024-01-23 |  |
+| [Try Again](https://open.spotify.com/track/0kvfHWIeOQe0GDoWktoh8r) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [SingAgain3 \- Battle of the Unknown, Ep.11 \(From the JTBC TV Show\)](https://open.spotify.com/album/4OkQktNpOvuGmmqWbM3Hn6) | 3:32 | 2024-01-23 | 2024-01-31 |
 | [TUXEDO \(feat\. UNE\)](https://open.spotify.com/track/1tdHJMgpkwb2GwvNJUwpbN) | [Z.flat](https://open.spotify.com/artist/0y2EA2TQKYjLSbzlPRhBDq), [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS) | [INHALE](https://open.spotify.com/album/2x9HxolZ62HxwI0R4wcEPO) | 3:14 | 2022-07-27 | 2022-08-03 |
 | [TWO BOYS WERE WALKIN' ON A WOOD \(Feat\. Horim\)](https://open.spotify.com/track/7rCOLQGqKnYAGPXar4Fl1P) | [KORRNOI](https://open.spotify.com/artist/6NSJuvZarTq2vKVIwhc9Q6), [Horim](https://open.spotify.com/artist/4ewZPWfaF9tFfnX1bPVI6A) | [TWO BOYS WERE WALKIN' ON A WOOD](https://open.spotify.com/album/448JG49SvtOMlK5TfrPBLk) | 4:32 | 2023-04-17 | 2023-04-26 |
 | [typical story](https://open.spotify.com/track/3fyGfzTIepF4iz3hgVqgGO) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [typical story](https://open.spotify.com/album/09itvchYjsX9XfvCJ7ihyU) | 2:06 | 2022-12-15 | 2023-01-24 |

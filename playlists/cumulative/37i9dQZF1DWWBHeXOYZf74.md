@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Empress Of
 
-2,353 songs - 5 day 12 hr 16 min
+2,355 songs - 5 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,7 +489,7 @@
 | [Crushing](https://open.spotify.com/track/6BPwBHxjmavFAyMrLQgQYd) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Powders](https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U) | 4:31 | 2023-09-22 |  |
 | [Crust](https://open.spotify.com/track/3KsS9NkC5ZlPAIWpGoL5Sx) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj) | 2:13 | 2021-04-30 | 2022-01-15 |
 | [Cry](https://open.spotify.com/track/10dIUI2sI4IBXhgEfp5oIs) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Too Loyal for My Own Good](https://open.spotify.com/album/39SJXfvhdYT3pWyfKqLO83) | 2:40 | 2021-10-07 | 2021-10-21 |
-| [Cry Baby](https://open.spotify.com/track/63aDJ5QU4GRShLk60kadlZ) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [In The Midst of You](https://open.spotify.com/album/48zdL0EfmjVrQoi4UJwGG9) | 4:32 | 2024-01-05 |  |
+| [Cry Baby](https://open.spotify.com/track/63aDJ5QU4GRShLk60kadlZ) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [In the Midst of You](https://open.spotify.com/album/48zdL0EfmjVrQoi4UJwGG9) | 4:32 | 2024-01-05 |  |
 | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/track/0Lh0ZEInuYqlHtx2DM2rC4) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/album/0oUea0jex9YxPdZgmP62Hw) | 4:32 | 2024-01-05 | 2024-01-12 |
 | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/track/6hOGZCEgzOEULm4lXk9SS2) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Cry Baby \(Ft\. Lord Apex\)](https://open.spotify.com/album/60bBNV9rQfhoD8YnfbWTIq) | 4:32 | 2024-01-05 | 2024-01-29 |
 | [CRYBABY :\*\(](https://open.spotify.com/track/0psWKCR3qW2qqyCTAbCFtO) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [CRYBABY :\*\(](https://open.spotify.com/album/6LPTa6WxHqzA5E9ohh1JoN) | 2:48 | 2019-11-02 | 2020-04-04 |
@@ -2207,6 +2207,7 @@
 | [Wannabe](https://open.spotify.com/track/36ODdTjOflEHu6vGHSpNYu) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Heart Ego](https://open.spotify.com/album/3OBMJU0p7YKR46QkDnNLTC) | 3:49 | 2021-10-23 | 2021-12-04 |
 | [Want \(feat\. Octavian\)](https://open.spotify.com/track/17AAzX2TvtYxqa7PAjPLDy) | [J Rick](https://open.spotify.com/artist/3b0OO3bmtd9oXo3EOW8KHZ), [Octavian](https://open.spotify.com/artist/5zfEatKLDdRkgbw6sdLBAQ) | [Want \(feat\. Octavian\)](https://open.spotify.com/album/1Cn8iO3i1TXau2sFKxxK98) | 3:40 | 2019-09-27 | 2019-10-29 |
 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx) | 4:07 | 2020-10-15 | 2021-01-23 |
+| [Want You](https://open.spotify.com/track/3rCfcTci0MDdEQyyZoZWSY) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [Want You](https://open.spotify.com/album/4G6BILfMKr9J36MWIslf5f) | 2:31 | 2024-01-30 |  |
 | [Warning Sign](https://open.spotify.com/track/3HpfHYxvRacvmEPFR9ovF7) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:26 | 2023-03-31 | 2023-07-29 |
 | [Warning Sign](https://open.spotify.com/track/4E76b5eScYyjahibva76Bk) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Warning Sign](https://open.spotify.com/album/3vJUWpd8WbFx2nCu7EfKmV) | 3:26 | 2023-03-31 | 2023-05-24 |
 | [Washed Away](https://open.spotify.com/track/4Ci2V1PsULUIdpcd4YVlLg) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Washed Away](https://open.spotify.com/album/1GqPpESoA8N9DvPWtzaFMG) | 3:36 | 2022-09-16 | 2023-01-21 |
@@ -2222,6 +2223,7 @@
 | [Water Me Down](https://open.spotify.com/track/79ap7oTftmfgDUBUsUcYqt) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Water Me Down](https://open.spotify.com/album/4kcsdigEl9ascAJ6a2b2g9) | 4:32 | 2019-08-29 | 2020-01-28 |
 | [WATERBOYZ \(with JID & J\. Cole\)](https://open.spotify.com/track/1KyXCd04yHni5pMGFwgzuE) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 5:03 | 2022-03-01 | 2022-06-25 |
 | [Wax On \(Feat\. Freddie Gibbs\)](https://open.spotify.com/track/13yFBO0mxphhrphW3s6dx2) | [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Injury Reserve](https://open.spotify.com/album/5UWKsRDw3O4BsobmeyRpB9) | 4:27 | 2019-07-30\* | 2019-09-18 |
+| [we don't move](https://open.spotify.com/track/4waAiItUduog4VPo0BAQEx) | [BADMIND](https://open.spotify.com/artist/4qTKTDRcMPtnohoWWR1oX9) | [we don't move](https://open.spotify.com/album/0XDaAj0BLRxre1JAmIu1Vn) | 2:40 | 2024-01-30 |  |
 | [We Found It](https://open.spotify.com/track/4TUqDLaBxUQHphes04Kp5k) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 6:40 | 2021-04-30 | 2021-09-18 |
 | [We Good](https://open.spotify.com/track/08ghP1DR1JLLvKVbhsuwCy) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Heroine](https://open.spotify.com/album/4E6nyzUW5sNhMwCoLNIJun) | 2:14 | 2019-07-30\* | 2019-08-29 |
 | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG) | 1:30 | 2023-02-17 | 2023-05-27 |

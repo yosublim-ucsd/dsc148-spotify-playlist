@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 150884,
       "name": "432 Hz Omgivande",
       "url": "https://open.spotify.com/track/2GJufgGBgz94AxyMgZ9mjg"
@@ -290,6 +290,24 @@
       "duration_ms": 202570,
       "name": "Aras",
       "url": "https://open.spotify.com/track/253y13qPHj6Jf3bkJ88mYM"
+    },
+    {
+      "album": {
+        "name": "As Time Passes By",
+        "url": "https://open.spotify.com/album/663yqKc7AQSnZuBhw1x2yi"
+      },
+      "artists": [
+        {
+          "name": "LUCCI",
+          "url": "https://open.spotify.com/artist/7sOL3G4nJz0wDXnkOWKOEf"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "As Time Passes By",
+      "url": "https://open.spotify.com/track/7KojnmCNcvHP0uTbw3ZZ8Z"
     },
     {
       "album": {
@@ -610,7 +628,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 177231,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/06H8kGJm3IIGOUXacNVWLi"
@@ -1229,6 +1247,28 @@
     },
     {
       "album": {
+        "name": "Gong like wind",
+        "url": "https://open.spotify.com/album/28HuOj4SnAEmTtECUqoxbD"
+      },
+      "artists": [
+        {
+          "name": "Auricz",
+          "url": "https://open.spotify.com/artist/1PL9QegP0mArHAjJeJDKWN"
+        },
+        {
+          "name": "Georg Valeks",
+          "url": "https://open.spotify.com/artist/0CdgdnjNOILlUCUFx0JfWS"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Gong like wind",
+      "url": "https://open.spotify.com/track/2kUDELBLnmtHbhS6I6WYro"
+    },
+    {
+      "album": {
         "name": "Growing Tall",
         "url": "https://open.spotify.com/album/43g1BdXllghZAwj2t4Mhjo"
       },
@@ -1535,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Krathong",
+        "url": "https://open.spotify.com/album/4FsrtxxXyROSsrqwvX4tBg"
+      },
+      "artists": [
+        {
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183041,
+      "name": "Krathong",
+      "url": "https://open.spotify.com/track/2ZJEXYpeQy4YBx3DmjoakI"
+    },
+    {
+      "album": {
         "name": "La Pierre Dans La For\u00eat",
         "url": "https://open.spotify.com/album/1phF1rjWS2TbHYGgo7JGrM"
       },
@@ -1694,6 +1752,24 @@
       "duration_ms": 187200,
       "name": "Little Rabbit",
       "url": "https://open.spotify.com/track/4ANwAzJKUZv8n3DmUkOv6b"
+    },
+    {
+      "album": {
+        "name": "Ljungan",
+        "url": "https://open.spotify.com/album/5QuQ41PhwHAa7dSYVlU8Va"
+      },
+      "artists": [
+        {
+          "name": "Forgotten Lake",
+          "url": "https://open.spotify.com/artist/4zfCCxd0zQ5q7xkLB7Yh5x"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Ljungan",
+      "url": "https://open.spotify.com/track/7magt73bNENgndrpaYE7qv"
     },
     {
       "album": {
@@ -2165,6 +2241,24 @@
     },
     {
       "album": {
+        "name": "Nordic Nature",
+        "url": "https://open.spotify.com/album/01Pb8nwmMw9acSDIceI8yO"
+      },
+      "artists": [
+        {
+          "name": "Nature Pulse",
+          "url": "https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188498,
+      "name": "Nordic Nature",
+      "url": "https://open.spotify.com/track/3sw3OyQfASazznWZz0w1EU"
+    },
+    {
+      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/1dOa9Yi7Rt5QP1JHDrmjwJ"
       },
@@ -2414,6 +2508,24 @@
       "duration_ms": 216420,
       "name": "Peaceful Rains",
       "url": "https://open.spotify.com/track/1Ob1iujiq63tbCOqLpmQhI"
+    },
+    {
+      "album": {
+        "name": "River Peace",
+        "url": "https://open.spotify.com/album/78qKa5xSG1kJaoi5nSo2NZ"
+      },
+      "artists": [
+        {
+          "name": "Cooper Sams",
+          "url": "https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222720,
+      "name": "Peaceful Weal (by a Babbling Brook)",
+      "url": "https://open.spotify.com/track/6XcXTrmANCkpLiZ1hj215q"
     },
     {
       "album": {
@@ -3015,6 +3127,24 @@
     },
     {
       "album": {
+        "name": "Swells of Peace",
+        "url": "https://open.spotify.com/album/0JdcL1uvu23PI3A0pdYEPF"
+      },
+      "artists": [
+        {
+          "name": "Beyond Observable",
+          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143045,
+      "name": "Swells of Peace",
+      "url": "https://open.spotify.com/track/2dIc6DpyULpWApOIcfrJ9R"
+    },
+    {
+      "album": {
         "name": "Take A Breath",
         "url": "https://open.spotify.com/album/2AjcwMmxfCdh0siTZOOdJw"
       },
@@ -3426,6 +3556,24 @@
       "duration_ms": 135000,
       "name": "Welcome Home",
       "url": "https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg"
+    },
+    {
+      "album": {
+        "name": "White Light",
+        "url": "https://open.spotify.com/album/0H3vdaaoJS6l7E8TDn49jy"
+      },
+      "artists": [
+        {
+          "name": "Heal Divisions",
+          "url": "https://open.spotify.com/artist/0kAuGd32wX67fzHjIJtSWn"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178370,
+      "name": "White Light",
+      "url": "https://open.spotify.com/track/6oGtCltZ2qtAjguWpxEXRT"
     },
     {
       "album": {

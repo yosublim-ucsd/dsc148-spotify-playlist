@@ -1,13 +1,29 @@
 {
   "description": "Underground indie rock gems. Cover: Katy Kirby",
-  "num_followers": 293811,
+  "num_followers": 293830,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWYzMDNkM2I2NjhmZWNkMzczODE2MjQ5OWI2ZTI5YjA0NTRjMzIx",
+  "snapshot_id": "MCxkYTViMjE4MjkxNjQyZDFjN2UzNzg3MTcwZWRkMTQ1MDVjNmNkYmNi",
   "tracks": [
+    {
+      "added_at": "2024-01-30 18:33:47",
+      "album": {
+        "name": "Blue Tuesday",
+        "url": "https://open.spotify.com/album/43f2MIFJtD0hEWs1KQkvnw"
+      },
+      "artists": [
+        {
+          "name": "Francis of Delirium",
+          "url": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif"
+        }
+      ],
+      "duration_ms": 158626,
+      "name": "Blue Tuesday",
+      "url": "https://open.spotify.com/track/37pvGnY30NAi7FdtB2HhJL"
+    },
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Corridor",
-  "num_followers": 3927,
+  "num_followers": 3950,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjk0MmQzNDhiODhjZmNjZjlmMDUzM2ZiNzBlNTIyZWEyNTg5ZDA1",
+  "snapshot_id": "MCw0MGEzY2UzYWYzYmE2ZDExNjIxMzc2ZjgwOTFlMjIyNjgzODkzNjg4",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "GOOD LUCK",
+        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
+      },
+      "artists": [
+        {
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+        }
+      ],
+      "duration_ms": 202986,
+      "name": "WHAT A MAN",
+      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Aire de plastique",
         "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 108066,
       "name": "J'esp\u00e8re encore que quelque part l'attente s'arr\u00eate",
       "url": "https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "GOOD LUCK",
-        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
-      },
-      "artists": [
-        {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
-        }
-      ],
-      "duration_ms": 202986,
-      "name": "WHAT A MAN",
-      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Isumagijunnaitaungituq (The Unforgiven)",
-        "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 273997,
-      "name": "Isumagijunnaitaungituq (The Unforgiven)",
-      "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "mile \u200eend (kiss ur friends)",
         "url": "https://open.spotify.com/album/04EpaHiU3NdHePUCmxKyzJ"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 192000,
       "name": "\u200emile \u200eend",
       "url": "https://open.spotify.com/track/3lqVjU8Shn7UGlqY9ZDvpP"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Isumagijunnaitaungituq (The Unforgiven)",
+        "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 273997,
+      "name": "Isumagijunnaitaungituq (The Unforgiven)",
+      "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "sadguitar_V777.wav",
-        "url": "https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq"
-      },
-      "artists": [
-        {
-          "name": "Emma Beko",
-          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
-        }
-      ],
-      "duration_ms": 237022,
-      "name": "sadguitar_V777.wav",
-      "url": "https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Chicout",
         "url": "https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 220607,
       "name": "Feu de for\u00eat",
       "url": "https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "sadguitar_V777.wav",
+        "url": "https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq"
+      },
+      "artists": [
+        {
+          "name": "Emma Beko",
+          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
+        }
+      ],
+      "duration_ms": 237022,
+      "name": "sadguitar_V777.wav",
+      "url": "https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Sweet Mont\u00e9r\u00e9gie",
+        "url": "https://open.spotify.com/album/5J54uEsmf08ml6uDxOUxU3"
+      },
+      "artists": [
+        {
+          "name": "Alex Burger",
+          "url": "https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "Sweet mont\u00e9r\u00e9gie",
+      "url": "https://open.spotify.com/track/5cdHmyc2mbTB7Dzaj3Dsbw"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "BAD JAZZ",
         "url": "https://open.spotify.com/album/6MuDbEDzWZe4CNXc6GqeC7"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 87272,
       "name": "PHOTO",
       "url": "https://open.spotify.com/track/3i1nFr97pA3hRz0nqDIQVD"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Sweet Mont\u00e9r\u00e9gie",
-        "url": "https://open.spotify.com/album/5J54uEsmf08ml6uDxOUxU3"
-      },
-      "artists": [
-        {
-          "name": "Alex Burger",
-          "url": "https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7"
-        }
-      ],
-      "duration_ms": 229413,
-      "name": "Sweet mont\u00e9r\u00e9gie",
-      "url": "https://open.spotify.com/track/5cdHmyc2mbTB7Dzaj3Dsbw"
     },
     {
       "added_at": "2024-01-26 05:00:00",

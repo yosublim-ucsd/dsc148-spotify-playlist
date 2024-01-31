@@ -2082,7 +2082,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 196293,
       "name": "Do You Think Of Me?",
       "url": "https://open.spotify.com/track/3rE5YYh8azn8WwtRToLYuh"
@@ -4104,7 +4104,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 227756,
       "name": "Hug me tight",
       "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
@@ -7544,7 +7544,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 181266,
       "name": "pony",
       "url": "https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V"
@@ -11009,6 +11009,24 @@
     },
     {
       "album": {
+        "name": "You are special",
+        "url": "https://open.spotify.com/album/2vtpyCgI3m6igo2dKJQqTV"
+      },
+      "artists": [
+        {
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204533,
+      "name": "You are special",
+      "url": "https://open.spotify.com/track/2CNG54Mbrfw5EvmXE0370Y"
+    },
+    {
+      "album": {
         "name": "Boong-",
         "url": "https://open.spotify.com/album/0HANd2pgqDZkrpzx4lLvOc"
       },
@@ -11315,6 +11333,28 @@
     },
     {
       "album": {
+        "name": "\ub0b4\uc77c\uc774 \uc624\uae30 \uc804\uae4c\uc9c0 Until tomorrow comes (feat. P.RAO)",
+        "url": "https://open.spotify.com/album/3PrBuHgC7Dpgtw3T1Ny2uS"
+      },
+      "artists": [
+        {
+          "name": "AQUINAS",
+          "url": "https://open.spotify.com/artist/6icWxBzgVFQXsLJN8uIzCR"
+        },
+        {
+          "name": "P.RAO",
+          "url": "https://open.spotify.com/artist/6iGM3mRu8Dgv0vraQmsocz"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218794,
+      "name": "\ub0b4\uc77c\uc774 \uc624\uae30 \uc804\uae4c\uc9c0 Until tomorrow comes (feat. P.RAO)",
+      "url": "https://open.spotify.com/track/20CiPSS7cby4JLhwzPC2JB"
+    },
+    {
+      "album": {
         "name": "\uc5ec\ub984 \uac10\uc131",
         "url": "https://open.spotify.com/album/4yOWIAHIQYOWGkZ3BOKi3o"
       },
@@ -11492,7 +11532,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 210850,
       "name": "\uc2ac\ud37c\ud558\uc9c0\ub9c8 Don't be sad",
       "url": "https://open.spotify.com/track/6SU5PLvEAozLFwKRCI26NT"

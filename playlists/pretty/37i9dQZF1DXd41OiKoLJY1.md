@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: No Lore Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,773 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,771 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Imo Ra](https://open.spotify.com/track/0Pj5nZ1Fha8TiGi41bv539) | [Kent Charcos](https://open.spotify.com/artist/5ku1SxgKbnvKOMnCmfWi5h) | [Imo Ra](https://open.spotify.com/album/6zvV3Kg9UvXJu8VBC2Ho91) | 3:41 |
 | 100 | [Paano](https://open.spotify.com/track/0szvNe3QoTyoo3eBLdX5nQ) | [Denice Lao](https://open.spotify.com/artist/4AGSTj6y1dBffc3IvEgBn5) | [Paano](https://open.spotify.com/album/4OVLpcCftcU09g0zjXRpvF) | 4:29 |
 
-Snapshot ID: `MCxhZjdlYzdhZGFiZjM1NTc1ODA4MWMyNGU1YjVmZWIxN2U4NjA2NGQz`
+Snapshot ID: `MCxkMGY3ODU5NWMxNTQ5YzE3YWU2OTVhNzdkNGM4NTIzNTNlMzU2NDU1`

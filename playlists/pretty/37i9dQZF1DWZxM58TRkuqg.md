@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Juicy Luicy
 
-[Spotify](https://open.spotify.com/user/spotify) - 737,501 likes - 55 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 737,672 likes - 55 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 54 | [Berpayung Tuhan](https://open.spotify.com/track/5n7JlSbYBsUSncCwm5OAOh) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Untuk Dunia, Cinta, dan Kotornya](https://open.spotify.com/album/5hpq1LSLCuC7cifjXAM5bf) | 4:57 |
 | 55 | [Dunia Yang Terlupa](https://open.spotify.com/track/1B4d9vrImt99bpCI5eHPe9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Hari Yang Cerah](https://open.spotify.com/album/7th82LGjGsDpfE52ZRPp4U) | 3:31 |
 
-Snapshot ID: `MCw4Y2YwZDE0ZjliMTBhYjA5MDdkODRkYTI3ZjA4MTY2ZDBmOTQ5OWJk`
+Snapshot ID: `MCw3YWM2NTA0NGFjZmY1MzQxZTU1NWRlYjI1MjYxNDdiZjk2ZTkxZGYy`

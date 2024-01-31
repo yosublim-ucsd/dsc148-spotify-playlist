@@ -4172,7 +4172,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 208500,
       "name": "Fikar",
       "url": "https://open.spotify.com/track/70BgJ8MYMyF3zURCqUd8FP"
@@ -6228,6 +6228,24 @@
       "duration_ms": 225048,
       "name": "Jee Laange Yaara",
       "url": "https://open.spotify.com/track/4kBtLDq9dhDlKpmZWVDVqm"
+    },
+    {
+      "album": {
+        "name": "Jee Ve Sohneya Jee-Title Track",
+        "url": "https://open.spotify.com/album/0XLh1MrynsAfph4UoEtYrQ"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271040,
+      "name": "Jee Ve Sohneya Jee - Title Track",
+      "url": "https://open.spotify.com/track/6PNhbEHabSERm2YHXOSizH"
     },
     {
       "album": {
@@ -15944,7 +15962,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 222000,
       "name": "Walk Talk",
       "url": "https://open.spotify.com/track/7hCXra10hAFhcziuZhgeWt"
@@ -16086,6 +16104,24 @@
       "duration_ms": 146500,
       "name": "What...?",
       "url": "https://open.spotify.com/track/2zkp8sFTnlN7xBrxnG5PA6"
+    },
+    {
+      "album": {
+        "name": "Making Memories (Unplugged)",
+        "url": "https://open.spotify.com/album/4Lwk1I0BCKmVwFK00PdT9p"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143548,
+      "name": "What\u2026? - Unplugged",
+      "url": "https://open.spotify.com/track/4ae8ZMgIZs4AqJiLflSVkJ"
     },
     {
       "album": {

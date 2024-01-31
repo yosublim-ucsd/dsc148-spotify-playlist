@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 54992,
+  "num_followers": 55010,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWM4NTQ2NDhmYzVmYzg2YTE1NmNlMTQ3MDk1YWIyZGVjYjhiMmRh",
+  "snapshot_id": "MCw4NDM4NmZkMmZiN2QyNTg3ZmEyZmE2MWQxZGQwYTQ0MGJkNWU0NjA5",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -893,6 +893,22 @@
       "url": "https://open.spotify.com/track/62W5VouctXG9jggZdHaEi1"
     },
     {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "My Radio Sure Sounds Good To Me",
+        "url": "https://open.spotify.com/album/5DldGiP8hbKtAjGzzcdYEq"
+      },
+      "artists": [
+        {
+          "name": "Larry Graham & Graham Central Station",
+          "url": "https://open.spotify.com/artist/6NodJUvzLqPU2HtPLhDuf5"
+        }
+      ],
+      "duration_ms": 227946,
+      "name": "Boogie Witcha, Baby",
+      "url": "https://open.spotify.com/track/5NqRwz0rPh3aK4iWyJLXxy"
+    },
+    {
       "added_at": "2019-09-20 18:33:34",
       "album": {
         "name": "Stay Good",
@@ -915,22 +931,6 @@
       "duration_ms": 231963,
       "name": "Funk Ain't Ova",
       "url": "https://open.spotify.com/track/5nBgM7vUM7w9bNKW2MFZhH"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "My Radio Sure Sounds Good To Me",
-        "url": "https://open.spotify.com/album/5DldGiP8hbKtAjGzzcdYEq"
-      },
-      "artists": [
-        {
-          "name": "Larry Graham & Graham Central Station",
-          "url": "https://open.spotify.com/artist/6NodJUvzLqPU2HtPLhDuf5"
-        }
-      ],
-      "duration_ms": 227946,
-      "name": "Boogie Witcha, Baby",
-      "url": "https://open.spotify.com/track/5NqRwz0rPh3aK4iWyJLXxy"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1031,38 +1031,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Funk Ain't Ova",
-        "url": "https://open.spotify.com/album/090mBdNZpmAl9P2fhOpdmM"
-      },
-      "artists": [
-        {
-          "name": "Brooklyn Funk Essentials",
-          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
-        },
-        {
-          "name": "Joi Cardwell",
-          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
-        },
-        {
-          "name": "Papa Dee",
-          "url": "https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y"
-        },
-        {
-          "name": "Desmond Foster",
-          "url": "https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf"
-        },
-        {
-          "name": "Anna Brooks",
-          "url": "https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV"
-        }
-      ],
-      "duration_ms": 296880,
-      "name": "Dance Or Die",
-      "url": "https://open.spotify.com/track/0hu9PvLPvTRPH30JsoPhPd"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Birth Day",
         "url": "https://open.spotify.com/album/0M3myHr9PVkY1SzbjWFDS3"
       },
@@ -1095,6 +1063,38 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Funk Ain't Ova",
+        "url": "https://open.spotify.com/album/090mBdNZpmAl9P2fhOpdmM"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Funk Essentials",
+          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
+        },
+        {
+          "name": "Joi Cardwell",
+          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
+        },
+        {
+          "name": "Papa Dee",
+          "url": "https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y"
+        },
+        {
+          "name": "Desmond Foster",
+          "url": "https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf"
+        },
+        {
+          "name": "Anna Brooks",
+          "url": "https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV"
+        }
+      ],
+      "duration_ms": 296880,
+      "name": "Dance Or Die",
+      "url": "https://open.spotify.com/track/0hu9PvLPvTRPH30JsoPhPd"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Confident (feat. The MB's)",
         "url": "https://open.spotify.com/album/0dnIxietsEIhuml8hJKopn"
       },
@@ -1111,22 +1111,6 @@
       "duration_ms": 199893,
       "name": "Confident (feat. The MB's)",
       "url": "https://open.spotify.com/track/28YkfGOg7FmjJpokMe9wS6"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Breaks from the Border",
-        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
-      },
-      "artists": [
-        {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "Take What You Need",
-      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
     },
     {
       "added_at": "2019-09-06 07:01:00",
@@ -1147,22 +1131,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Undercover Mixtape",
-        "url": "https://open.spotify.com/album/6XnaRujtyMCICItpFo4lQY"
+        "name": "Breaks from the Border",
+        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
       },
       "artists": [
         {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
-        },
-        {
-          "name": "Adryon de Le\u00f3n",
-          "url": "https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo"
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
         }
       ],
-      "duration_ms": 274580,
-      "name": "All This Love That I'm Giving",
-      "url": "https://open.spotify.com/track/5hj0KzWvcfEZ4M1JjIwbU3"
+      "duration_ms": 191160,
+      "name": "Take What You Need",
+      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1179,6 +1159,26 @@
       "duration_ms": 212026,
       "name": "Got Me Funked Up",
       "url": "https://open.spotify.com/track/6puGnKlOsMcu5SkcEEdHkg"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Undercover Mixtape",
+        "url": "https://open.spotify.com/album/6XnaRujtyMCICItpFo4lQY"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        },
+        {
+          "name": "Adryon de Le\u00f3n",
+          "url": "https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo"
+        }
+      ],
+      "duration_ms": 274580,
+      "name": "All This Love That I'm Giving",
+      "url": "https://open.spotify.com/track/5hj0KzWvcfEZ4M1JjIwbU3"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1261,26 +1261,6 @@
       "url": "https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB"
     },
     {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "One of These Days",
-        "url": "https://open.spotify.com/album/2hs8mdiV2Ace1WZKt9IPJ8"
-      },
-      "artists": [
-        {
-          "name": "The Haggis Horns",
-          "url": "https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu"
-        },
-        {
-          "name": "Doc Brown",
-          "url": "https://open.spotify.com/artist/7usDVD6PDkEOCbHK7Elk7O"
-        }
-      ],
-      "duration_ms": 211988,
-      "name": "Take It Back (feat. Doc Brown)",
-      "url": "https://open.spotify.com/track/1ENj6P8jaXJgURajSJCsIL"
-    },
-    {
       "added_at": "2019-09-20 18:17:51",
       "album": {
         "name": "Shake It",
@@ -1299,6 +1279,26 @@
       "duration_ms": 177080,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/34gV8KREMiciMm8annmIOo"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "One of These Days",
+        "url": "https://open.spotify.com/album/2hs8mdiV2Ace1WZKt9IPJ8"
+      },
+      "artists": [
+        {
+          "name": "The Haggis Horns",
+          "url": "https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu"
+        },
+        {
+          "name": "Doc Brown",
+          "url": "https://open.spotify.com/artist/7usDVD6PDkEOCbHK7Elk7O"
+        }
+      ],
+      "duration_ms": 211988,
+      "name": "Take It Back (feat. Doc Brown)",
+      "url": "https://open.spotify.com/track/1ENj6P8jaXJgURajSJCsIL"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Going to a Go Go",
+        "url": "https://open.spotify.com/album/3ssGWeOGiSLWVX5xIuVSc9"
+      },
+      "artists": [
+        {
+          "name": "Mr President",
+          "url": "https://open.spotify.com/artist/0vxQClb5BOpAPfYZl1l0fR"
+        },
+        {
+          "name": "Sabba MG",
+          "url": "https://open.spotify.com/artist/4AUMNpNUkYFFEVtqO4htFl"
+        }
+      ],
+      "duration_ms": 402851,
+      "name": "Night Time",
+      "url": "https://open.spotify.com/track/7tjRXebutOf50Ks2cRzv9d"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Afterlife Vol. 2 - EP",
         "url": "https://open.spotify.com/album/6fYiUXcG04ykfJcT9X75Al"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 216800,
       "name": "I'm Your Biggest Fan",
       "url": "https://open.spotify.com/track/6UpcqV2QSaMJENWjVkMgAT"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Going to a Go Go",
-        "url": "https://open.spotify.com/album/3ssGWeOGiSLWVX5xIuVSc9"
-      },
-      "artists": [
-        {
-          "name": "Mr President",
-          "url": "https://open.spotify.com/artist/0vxQClb5BOpAPfYZl1l0fR"
-        },
-        {
-          "name": "Sabba MG",
-          "url": "https://open.spotify.com/artist/4AUMNpNUkYFFEVtqO4htFl"
-        }
-      ],
-      "duration_ms": 402851,
-      "name": "Night Time",
-      "url": "https://open.spotify.com/track/7tjRXebutOf50Ks2cRzv9d"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Life In The City",
-        "url": "https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio"
-      },
-      "artists": [
-        {
-          "name": "Turkuaz",
-          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
-        }
-      ],
-      "duration_ms": 245413,
-      "name": "Superstatic",
-      "url": "https://open.spotify.com/track/7DmAKZ07s3e2IYrqUVtUWF"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Jukestone Paradise",
         "url": "https://open.spotify.com/album/7iffpPqDJH74f03Eu6HZ2y"
       },
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Soul Side of Town",
+        "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
+      },
+      "artists": [
+        {
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
+        }
+      ],
+      "duration_ms": 233491,
+      "name": "Do It with Soul",
+      "url": "https://open.spotify.com/track/4U3pzSGJKpi3JwAOZygvwX"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Dirty Word",
         "url": "https://open.spotify.com/album/3hLGxazNwkFKTsaGAm3Jcj"
       },
@@ -1523,22 +1523,6 @@
       "duration_ms": 273880,
       "name": "Water",
       "url": "https://open.spotify.com/track/1qB1AGK7AbUKkCgHi0AqrF"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Soul Side of Town",
-        "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
-      },
-      "artists": [
-        {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
-        }
-      ],
-      "duration_ms": 233491,
-      "name": "Do It with Soul",
-      "url": "https://open.spotify.com/track/4U3pzSGJKpi3JwAOZygvwX"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Life In The City",
+        "url": "https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio"
+      },
+      "artists": [
+        {
+          "name": "Turkuaz",
+          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
+        }
+      ],
+      "duration_ms": 245413,
+      "name": "Superstatic",
+      "url": "https://open.spotify.com/track/7DmAKZ07s3e2IYrqUVtUWF"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Wild",
         "url": "https://open.spotify.com/album/7hKNuqA2bj1BjYDOXMMWGK"
       },
@@ -1591,6 +1591,26 @@
       "duration_ms": 212065,
       "name": "Wild",
       "url": "https://open.spotify.com/track/6WPIx2V0nXS0xJmvJ4X0wh"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Lab Experiments, Vol. 2",
+        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        },
+        {
+          "name": "Kaiit",
+          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
+        }
+      ],
+      "duration_ms": 211615,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1631,26 +1651,6 @@
       "duration_ms": 281133,
       "name": "Just Say Nothing",
       "url": "https://open.spotify.com/track/6oBOx9S6xhHbAkznP2wiNC"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Lab Experiments, Vol. 2",
-        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
-      },
-      "artists": [
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        },
-        {
-          "name": "Kaiit",
-          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
-        }
-      ],
-      "duration_ms": 211615,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
     },
     {
       "added_at": "2019-08-22 14:26:16",

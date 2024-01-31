@@ -2,7 +2,7 @@
 
 ### [Teen Culture](https://open.spotify.com/playlist/37i9dQZF1DX8XStIuaEA9J)
 
-> 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: RADWIMPS
+> 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 緑黄色社会
 
 202 songs - 12 hr 7 min
 

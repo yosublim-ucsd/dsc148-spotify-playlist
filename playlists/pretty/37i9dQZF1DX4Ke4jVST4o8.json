@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers and big streamers of 2012. ",
-  "num_followers": 107752,
+  "num_followers": 107821,
   "original_name": "Dance Hits of 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDc2N2VmZmI1YWUzOTg2NGI4NGY0ZjA2M2Y5ODBhNjQ5MmVlOWE5",
+  "snapshot_id": "MCw2NTc4ZWEzNzllNzc3MTE4ZWQ3NzNlOGNmOWExNzE3ZjY3Mzg4OTFj",
   "tracks": [
     {
       "added_at": "2022-10-14 00:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
+        "name": "It's the Arps",
+        "url": "https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp"
+      },
+      "artists": [
+        {
+          "name": "Todd Terje",
+          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
+        }
+      ],
+      "duration_ms": 400751,
+      "name": "Inspector Norse",
+      "url": "https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
         "name": "Year of Summer",
         "url": "https://open.spotify.com/album/2LAZd5AdhXLIJIKaLRNqPa"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 174400,
       "name": "Year Of Summer - Radio Edit",
       "url": "https://open.spotify.com/track/3iKcDwqwMf6O547uQcyjaO"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
-        "name": "It's the Arps",
-        "url": "https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp"
-      },
-      "artists": [
-        {
-          "name": "Todd Terje",
-          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
-        }
-      ],
-      "duration_ms": 400751,
-      "name": "Inspector Norse",
-      "url": "https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T"
     },
     {
       "added_at": "2022-10-14 00:00:00",

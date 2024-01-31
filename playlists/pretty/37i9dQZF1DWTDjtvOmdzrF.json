@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 563721,
+  "num_followers": 563599,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTI0ZjVhYWZlMGI0NmNmMGUwZGNhMjhjNzI4ZjI2NGMxN2U4NDE4",
+  "snapshot_id": "MCxiNWRmZTk2ZGI2NjNmMzc5MjM0MWQ3MWIwY2RhNzQzNTIxNWUxODVh",
   "tracks": [
     {
       "added_at": "2023-12-06 09:41:58",
@@ -1063,26 +1063,34 @@
     {
       "added_at": "2023-12-06 09:41:58",
       "album": {
-        "name": "Ini Bukan Nosstress",
-        "url": "https://open.spotify.com/album/5VDBGrroiUxwcjyd8fqKvy"
+        "name": "Perspektif Bodoh, Vol. 2",
+        "url": "https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1"
       },
       "artists": [
         {
           "name": "Nosstress",
           "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
-        },
-        {
-          "name": "Dadang Sh Pranoto",
-          "url": "https://open.spotify.com/artist/7cN32kelGKr663CVytGvc3"
-        },
-        {
-          "name": "Deny Surya",
-          "url": "https://open.spotify.com/artist/1zffTcVmBMb4L4s060WBXf"
         }
       ],
-      "duration_ms": 213240,
-      "name": "Semoga, Ya",
-      "url": "https://open.spotify.com/track/6wHnwqvtNdQicSPTTkYRQN"
+      "duration_ms": 308349,
+      "name": "Pegang Tanganku",
+      "url": "https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF"
+    },
+    {
+      "added_at": "2023-12-06 09:41:58",
+      "album": {
+        "name": "Konspirasi Alam Semesta",
+        "url": "https://open.spotify.com/album/6ej8qsrXEhtkhYYKUoTa4h"
+      },
+      "artists": [
+        {
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+        }
+      ],
+      "duration_ms": 213236,
+      "name": "Garis Terdepan",
+      "url": "https://open.spotify.com/track/4cLmzFuO46wsTaJnoC8m4P"
     },
     {
       "added_at": "2023-12-06 09:41:58",
@@ -1135,22 +1143,6 @@
     {
       "added_at": "2023-12-06 09:41:58",
       "album": {
-        "name": "Konspirasi Alam Semesta",
-        "url": "https://open.spotify.com/album/6ej8qsrXEhtkhYYKUoTa4h"
-      },
-      "artists": [
-        {
-          "name": "Fiersa Besari",
-          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
-        }
-      ],
-      "duration_ms": 213236,
-      "name": "Garis Terdepan",
-      "url": "https://open.spotify.com/track/4cLmzFuO46wsTaJnoC8m4P"
-    },
-    {
-      "added_at": "2023-12-06 09:41:58",
-      "album": {
         "name": "Monokrom",
         "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
       },
@@ -1163,6 +1155,26 @@
       "duration_ms": 195914,
       "name": "Cahaya",
       "url": "https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj"
+    },
+    {
+      "added_at": "2023-12-06 09:41:58",
+      "album": {
+        "name": "Tempat Aku Pulang",
+        "url": "https://open.spotify.com/album/2jZflSCJ8hq8bp7bBzioOx"
+      },
+      "artists": [
+        {
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+        },
+        {
+          "name": "Thantri Sundari",
+          "url": "https://open.spotify.com/artist/5jVRSr4hRxxwEFeG3uWFGV"
+        }
+      ],
+      "duration_ms": 323956,
+      "name": "Waktu Yang Salah",
+      "url": "https://open.spotify.com/track/47caohVI6Qe7KY8EuaRtg0"
     },
     {
       "added_at": "2023-12-06 09:41:58",
@@ -1187,54 +1199,6 @@
     {
       "added_at": "2023-12-06 09:41:58",
       "album": {
-        "name": "Rasa Cinta Ini",
-        "url": "https://open.spotify.com/album/7G0jQf7djccY6OsKIPu3Df"
-      },
-      "artists": [
-        {
-          "name": "Ghea Indrawari",
-          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
-        }
-      ],
-      "duration_ms": 241294,
-      "name": "Rasa Cinta Ini",
-      "url": "https://open.spotify.com/track/6zxacya3lkUHMT7wmbIioe"
-    },
-    {
-      "added_at": "2023-12-06 09:41:58",
-      "album": {
-        "name": "Ego & Fungsi Otak",
-        "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
-      },
-      "artists": [
-        {
-          "name": "Fourtwnty",
-          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
-        }
-      ],
-      "duration_ms": 260003,
-      "name": "Kusut",
-      "url": "https://open.spotify.com/track/3diD8b3u6oEn74BezQpujj"
-    },
-    {
-      "added_at": "2023-12-06 09:41:58",
-      "album": {
-        "name": "Perspektif Bodoh, Vol. 2",
-        "url": "https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1"
-      },
-      "artists": [
-        {
-          "name": "Nosstress",
-          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
-        }
-      ],
-      "duration_ms": 308349,
-      "name": "Pegang Tanganku",
-      "url": "https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF"
-    },
-    {
-      "added_at": "2023-12-06 09:41:58",
-      "album": {
         "name": "I Love You 3000",
         "url": "https://open.spotify.com/album/44L0CHtegdQ1MauWk0BZ8x"
       },
@@ -1247,6 +1211,46 @@
       "duration_ms": 209734,
       "name": "I Love You 3000",
       "url": "https://open.spotify.com/track/20GqLThxIpyo4LBnwoYe9T"
+    },
+    {
+      "added_at": "2023-12-06 09:41:58",
+      "album": {
+        "name": "Ini Bukan Nosstress",
+        "url": "https://open.spotify.com/album/5VDBGrroiUxwcjyd8fqKvy"
+      },
+      "artists": [
+        {
+          "name": "Nosstress",
+          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
+        },
+        {
+          "name": "Dadang Sh Pranoto",
+          "url": "https://open.spotify.com/artist/7cN32kelGKr663CVytGvc3"
+        },
+        {
+          "name": "Deny Surya",
+          "url": "https://open.spotify.com/artist/1zffTcVmBMb4L4s060WBXf"
+        }
+      ],
+      "duration_ms": 213240,
+      "name": "Semoga, Ya",
+      "url": "https://open.spotify.com/track/6wHnwqvtNdQicSPTTkYRQN"
+    },
+    {
+      "added_at": "2023-12-06 09:41:58",
+      "album": {
+        "name": "Rasa Cinta Ini",
+        "url": "https://open.spotify.com/album/7G0jQf7djccY6OsKIPu3Df"
+      },
+      "artists": [
+        {
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+        }
+      ],
+      "duration_ms": 241294,
+      "name": "Rasa Cinta Ini",
+      "url": "https://open.spotify.com/track/6zxacya3lkUHMT7wmbIioe"
     }
   ],
   "unique_name": "Kopikustik",

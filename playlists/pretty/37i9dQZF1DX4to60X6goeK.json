@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Skepsis",
-  "num_followers": 54980,
+  "num_followers": 55048,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTU2YTljYzJmNjkwNTIxNWYwMzE0NTc3ZmE1NzlmNmM0ZjMxOTg4",
+  "snapshot_id": "MCxkNWYyYjlmOTE5MjAzMWQ1MGM0MTM3ZTAwYzVmZDljOWNmOTU5YmUw",
   "tracks": [
     {
       "added_at": "2023-11-17 16:57:48",
@@ -815,26 +815,6 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
-        "name": "Forever Changes",
-        "url": "https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6"
-      },
-      "artists": [
-        {
-          "name": "DNMO",
-          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
-        },
-        {
-          "name": "Zara Kershaw",
-          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
-        }
-      ],
-      "duration_ms": 184065,
-      "name": "Forever Changes",
-      "url": "https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
         "name": "Freak (Used Remix)",
         "url": "https://open.spotify.com/album/0y7mYfre8eBAUSpHVCRFXY"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 252342,
       "name": "Freak - Used Remix",
       "url": "https://open.spotify.com/track/48261IylfaueSdk1XKX0nh"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
+        "name": "Forever Changes",
+        "url": "https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6"
+      },
+      "artists": [
+        {
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        },
+        {
+          "name": "Zara Kershaw",
+          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
+        }
+      ],
+      "duration_ms": 184065,
+      "name": "Forever Changes",
+      "url": "https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs"
     },
     {
       "added_at": "2024-01-12 00:01:00",

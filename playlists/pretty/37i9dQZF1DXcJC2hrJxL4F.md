@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcJC2hrJxL4F.md) - [plain]
 
 > you're gathering flowers in the forest, listening to birdsong, humming a sweet melody.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,451 likes - 66 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,531 likes - 66 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcJC2hrJxL4F.md) - [plain]
 | 65 | [Brandeburg](https://open.spotify.com/track/3tiKP9Nw60joyKTqxXNrvJ) | [Karol Seifert](https://open.spotify.com/artist/3IQYEJG6lpSmC3r4NfWB9m) | [Brandeburg](https://open.spotify.com/album/6ulGhEHDIg1i9CA7rLbnGy) | 3:01 |
 | 66 | [Everything's okay](https://open.spotify.com/track/2SZ2yUWp0iHGFetUo5MJay) | [RA\-UL](https://open.spotify.com/artist/2JeqxmyESYTBLsPY9Xvdjt) | [Everything's okay](https://open.spotify.com/album/0eXgqijm4ijx968hQbO3uG) | 3:07 |
 
-Snapshot ID: `MCwwYWZhMDgyODBmNmMyOGUxYzIzMmI4YWRmMTRmMDA2ZWE2NzI3ZGI0`
+Snapshot ID: `MCw3OGY0ODI5ZTlkYTU4ZmIwOWVlNDQ1YjkxZDYxMTBkZGFhMDYyMDFj`

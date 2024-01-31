@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 1196,
+  "2024-01-31": 1198,
   "date_first_scraped": "2022-05-30",
   "description": "This is Alessandro Cortini. The essential tracks, all in one playlist.",
   "name": "This Is Alessandro Cortini",
@@ -1231,7 +1231,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 98186,
       "name": "Mourning the Fallen",
       "url": "https://open.spotify.com/track/5oblJwpXzETf1DGPAeXXOg"
@@ -1549,7 +1549,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 218493,
       "name": "Secrets of Golem Island",
       "url": "https://open.spotify.com/track/44XbZoz0X4cKAScjpamfTb"

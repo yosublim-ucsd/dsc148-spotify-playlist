@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits \| 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \| Cover: Diamond Pistols
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 105,802 likes - 139 songs - 7 hr 7 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 105,704 likes - 139 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

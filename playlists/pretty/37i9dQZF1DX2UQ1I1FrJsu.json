@@ -1,12 +1,12 @@
 {
   "description": "natural wine vibes, because wine not? | Photo: Stir Crazy LA ",
-  "num_followers": 41644,
+  "num_followers": 41824,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODgyYmUyMWFmOTUwYWVjN2M4ODkwNjA0YzAyODg3YjhkNTBkNWIw",
+  "snapshot_id": "MCwwMmRkYmZjYmRiNjVkMGRhYjJhZDRiNzRkMmU2NWFkMTBjODEwNTc4",
   "tracks": [
     {
       "added_at": "2024-01-08 17:56:55",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-01-08 17:56:55",
       "album": {
-        "name": "Chandelier",
-        "url": "https://open.spotify.com/album/1VC4P7rm1o3aYlYVYFkpGF"
-      },
-      "artists": [
-        {
-          "name": "Will Paquin",
-          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
-        }
-      ],
-      "duration_ms": 127464,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/1cwqP7Tyxu5z8XDYoPkNte"
-    },
-    {
-      "added_at": "2024-01-08 17:56:55",
-      "album": {
         "name": "Thee Sacred Souls",
         "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 190546,
       "name": "Can I Call You Rose?",
       "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
+    },
+    {
+      "added_at": "2024-01-08 17:56:55",
+      "album": {
+        "name": "Chandelier",
+        "url": "https://open.spotify.com/album/1VC4P7rm1o3aYlYVYFkpGF"
+      },
+      "artists": [
+        {
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
+        }
+      ],
+      "duration_ms": 127464,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/1cwqP7Tyxu5z8XDYoPkNte"
     },
     {
       "added_at": "2024-01-08 17:56:55",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-01-08 17:56:55",
       "album": {
+        "name": "Will I See You Again?",
+        "url": "https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 240653,
+      "name": "Will I See You Again?",
+      "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl"
+    },
+    {
+      "added_at": "2024-01-08 17:56:55",
+      "album": {
         "name": "Whipped Cream & Other Delights",
         "url": "https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 209160,
       "name": "Didn't I",
       "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
-    },
-    {
-      "added_at": "2024-01-08 17:56:55",
-      "album": {
-        "name": "Will I See You Again?",
-        "url": "https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 240653,
-      "name": "Will I See You Again?",
-      "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl"
     },
     {
       "added_at": "2024-01-08 17:56:55",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-01-08 17:56:55",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 229477,
-      "name": "There Will Be No Crying",
-      "url": "https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l"
-    },
-    {
-      "added_at": "2024-01-08 17:56:55",
-      "album": {
         "name": "Cruisin to the Park",
         "url": "https://open.spotify.com/album/1X0ZHwPLIpROo8arjBErDY"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2024-01-08 17:56:55",
       "album": {
-        "name": "Cola",
-        "url": "https://open.spotify.com/album/292dfJsxChA6s32kXGrrd4"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 229685,
-      "name": "Cola",
-      "url": "https://open.spotify.com/track/0i6c86ntKJoZpKk8aCHL3c"
+      "duration_ms": 229477,
+      "name": "There Will Be No Crying",
+      "url": "https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l"
     },
     {
       "added_at": "2024-01-08 17:56:55",
@@ -1183,6 +1167,22 @@
       "duration_ms": 211626,
       "name": "Future Lover",
       "url": "https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK"
+    },
+    {
+      "added_at": "2024-01-08 17:56:55",
+      "album": {
+        "name": "Cola",
+        "url": "https://open.spotify.com/album/292dfJsxChA6s32kXGrrd4"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 229685,
+      "name": "Cola",
+      "url": "https://open.spotify.com/track/0i6c86ntKJoZpKk8aCHL3c"
     },
     {
       "added_at": "2024-01-08 17:56:55",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-01-08 17:56:55",
       "album": {
+        "name": "Kimosab\u00e8",
+        "url": "https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 276317,
+      "name": "Kimosab\u00e8",
+      "url": "https://open.spotify.com/track/6ThLeHskGmgionXRoqGyYS"
+    },
+    {
+      "added_at": "2024-01-08 17:56:55",
+      "album": {
         "name": "Afro-Harping",
         "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2024-01-08 17:56:55",
       "album": {
-        "name": "Kimosab\u00e8",
-        "url": "https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 276317,
-      "name": "Kimosab\u00e8",
-      "url": "https://open.spotify.com/track/6ThLeHskGmgionXRoqGyYS"
-    },
-    {
-      "added_at": "2024-01-08 17:56:55",
-      "album": {
         "name": "Africa",
         "url": "https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3"
       },
@@ -1295,6 +1295,22 @@
       "duration_ms": 203716,
       "name": "Khala My Friend",
       "url": "https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy"
+    },
+    {
+      "added_at": "2024-01-08 17:56:55",
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 180601,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk"
     },
     {
       "added_at": "2024-01-08 17:56:55",
@@ -1315,22 +1331,6 @@
       "duration_ms": 316093,
       "name": "Savanne",
       "url": "https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm"
-    },
-    {
-      "added_at": "2024-01-08 17:56:55",
-      "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 180601,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk"
     },
     {
       "added_at": "2024-01-08 17:56:55",

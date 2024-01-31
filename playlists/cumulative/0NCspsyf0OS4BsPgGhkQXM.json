@@ -11231,6 +11231,24 @@
     },
     {
       "album": {
+        "name": "LX-777 (Lunar Data)",
+        "url": "https://open.spotify.com/album/1CMFHMO78oM6fkDIknyUzN"
+      },
+      "artists": [
+        {
+          "name": "Starjunk 95",
+          "url": "https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160235,
+      "name": "LX-777 (Lunar Data)",
+      "url": "https://open.spotify.com/track/2HYsPCvdZwBPT1FV7c8JGN"
+    },
+    {
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/5c4t8rwrNtUpQGewiaoHNa"
       },

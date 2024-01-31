@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2028928,
+  "num_followers": 2028735,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQ0NTIsZWUxNzYxOWU4M2YwYjU3Njc3MDRjNjAyNTAwNWI2ODFmZGJjYzZjMA==",
+  "snapshot_id": "MTQ0NTQsNDAzZTZmNDFiYmM0YjI3NDQ5NmVhNmQ2YzRiNjMxOGNiMDhiZTU5Zg==",
   "tracks": [
     {
       "added_at": "2024-01-29 22:53:51",
@@ -627,6 +627,22 @@
       "duration_ms": 193379,
       "name": "Meet Me",
       "url": "https://open.spotify.com/track/1DBra8wN9Gh9emkHot3FXk"
+    },
+    {
+      "added_at": "2024-01-30 02:18:46",
+      "album": {
+        "name": "LX-777 (Lunar Data)",
+        "url": "https://open.spotify.com/album/1CMFHMO78oM6fkDIknyUzN"
+      },
+      "artists": [
+        {
+          "name": "Starjunk 95",
+          "url": "https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx"
+        }
+      ],
+      "duration_ms": 160235,
+      "name": "LX-777 (Lunar Data)",
+      "url": "https://open.spotify.com/track/2HYsPCvdZwBPT1FV7c8JGN"
     },
     {
       "added_at": "2024-01-29 22:53:51",

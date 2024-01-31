@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/1rq5TZtl1Z46v2gRAMtmmW.md) - cumulative - [plain](/playlists/plain/1rq5TZtl1Z46v2gRAMtmmW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1rq5TZtl1Z46v2gRAMtmmW)
 
-### [Ninja Tune \- New Releases](https://open.spotify.com/playlist/1rq5TZtl1Z46v2gRAMtmmW)
+### [Ninja Tune // New Releases](https://open.spotify.com/playlist/1rq5TZtl1Z46v2gRAMtmmW)
 
 > 
 

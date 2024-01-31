@@ -1,12 +1,12 @@
 {
   "description": "Tulum szn",
-  "num_followers": 236545,
+  "num_followers": 236909,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmE5NGRhNjA4NTNlZTljM2ZhZGEzYjRlMTBlOTFlYWQwMDcwZDJl",
+  "snapshot_id": "MCwyN2I5NTExNjAyYWY5N2RkN2Y2NzI1NDljMDZkMTQzOTBlYzBlMGFh",
   "tracks": [
     {
       "added_at": "2024-01-25 23:00:00",
@@ -200,12 +200,12 @@
       },
       "artists": [
         {
-          "name": "JEWELS",
-          "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
-        },
-        {
           "name": "SOMMA",
           "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "JEWELS",
+          "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
         },
         {
           "name": "Jabulile Majola",

@@ -1,12 +1,12 @@
 {
   "description": "Songs from Canadian artists that dominated the 1990s. Cover: LEN",
-  "num_followers": 57213,
+  "num_followers": 57220,
   "original_name": "Canadian '90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2RlODhjOTBiNjcwYjkwMmYzNmVlZTBmMGE3YmNjMWRlMWIxOTg3",
+  "snapshot_id": "MCw4OWQ2OTllM2QyMjkwODVmMTY5YjYzMjU0M2U5NTlmOTM4Mjk2MWJl",
   "tracks": [
     {
       "added_at": "2021-09-21 20:57:50",
@@ -531,6 +531,22 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
+        "name": "Drive Fast, Rock Hard",
+        "url": "https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL"
+      },
+      "artists": [
+        {
+          "name": "I Mother Earth",
+          "url": "https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM"
+        }
+      ],
+      "duration_ms": 324226,
+      "name": "One More Astronaut",
+      "url": "https://open.spotify.com/track/3l20bPHgAFsFPRogdTNXWS"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
         "name": "Cash Crop + Bonus Track",
         "url": "https://open.spotify.com/album/5mJHJ4ycYgFtNK5mEF68MM"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 247706,
       "name": "Northern Touch (feat. Kardinal Offishall, Thrust, Choclair & Checkmate)",
       "url": "https://open.spotify.com/track/4IfK0yQdVsWVoQO44DedEG"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Drive Fast, Rock Hard",
-        "url": "https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL"
-      },
-      "artists": [
-        {
-          "name": "I Mother Earth",
-          "url": "https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM"
-        }
-      ],
-      "duration_ms": 324226,
-      "name": "One More Astronaut",
-      "url": "https://open.spotify.com/track/3l20bPHgAFsFPRogdTNXWS"
     },
     {
       "added_at": "2021-09-21 20:57:50",

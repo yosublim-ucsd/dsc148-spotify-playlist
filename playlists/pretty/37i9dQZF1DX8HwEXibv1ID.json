@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 36901,
+  "num_followers": 36940,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTYyNzc5MzU5ZTRkOWU4YTQ0ZDhkZjNmNmQwMmU1MjcyNDNkNDdm",
+  "snapshot_id": "MCxiMjViYzk2YThkNDg0YjNiNTlkY2ZhZjVhYTQyMTE3MWMyMmMwZDI3",
   "tracks": [
     {
       "added_at": "2024-01-18 13:55:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
-        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
-        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "Night and Day - Take 1",
-      "url": "https://open.spotify.com/track/0tFX3mUraX85YPzTwEHWs4"
-    },
-    {
-      "added_at": "2024-01-18 13:55:00",
-      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/502uTcoHcwKPVIGREXz9pi"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 205666,
       "name": "Its Delovely",
       "url": "https://open.spotify.com/track/7iPqb64Shlib9ta9ouKyTC"
+    },
+    {
+      "added_at": "2024-01-18 13:55:00",
+      "album": {
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 177866,
+      "name": "Night and Day - Take 1",
+      "url": "https://open.spotify.com/track/0tFX3mUraX85YPzTwEHWs4"
     },
     {
       "added_at": "2024-01-18 13:55:00",
@@ -543,6 +543,26 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
+        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
+        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        },
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "You're The Top",
+      "url": "https://open.spotify.com/track/6pdbfNeGcAkMkkVClm532h"
+    },
+    {
+      "added_at": "2024-01-18 13:55:00",
+      "album": {
         "name": "Their Greatest Hits And Finest Performances",
         "url": "https://open.spotify.com/album/3GK2W9eAOQ6585VCGKvKkh"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 187026,
       "name": "Don't Fence Me In",
       "url": "https://open.spotify.com/track/1Bis647TLxkQ6T2hhIFyC5"
-    },
-    {
-      "added_at": "2024-01-18 13:55:00",
-      "album": {
-        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
-        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
-      },
-      "artists": [
-        {
-          "name": "Sammy Davis Jr.",
-          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
-        },
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "You're The Top",
-      "url": "https://open.spotify.com/track/6pdbfNeGcAkMkkVClm532h"
     },
     {
       "added_at": "2024-01-18 13:55:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
+        "name": "John Barrowman Swings Cole Porter",
+        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
+      },
+      "artists": [
+        {
+          "name": "John Barrowman",
+          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
+        }
+      ],
+      "duration_ms": 143066,
+      "name": "\u00c7a, C'est l'Amour",
+      "url": "https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0"
+    },
+    {
+      "added_at": "2024-01-18 13:55:00",
+      "album": {
         "name": "Worktime (RVG)",
         "url": "https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 369053,
       "name": "It's All Right With Me",
       "url": "https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp"
-    },
-    {
-      "added_at": "2024-01-18 13:55:00",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/5OBKP6D1MyMdnnB0RZ3PL7"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 165893,
-      "name": "In the Still of the Night",
-      "url": "https://open.spotify.com/track/62SGxkOggmrZblQ6prK5AI"
     },
     {
       "added_at": "2024-01-18 13:55:00",
@@ -923,34 +923,18 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
-        "name": "John Barrowman Swings Cole Porter",
-        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/5OBKP6D1MyMdnnB0RZ3PL7"
       },
       "artists": [
         {
-          "name": "John Barrowman",
-          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
         }
       ],
-      "duration_ms": 143066,
-      "name": "\u00c7a, C'est l'Amour",
-      "url": "https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0"
-    },
-    {
-      "added_at": "2024-01-18 13:55:00",
-      "album": {
-        "name": "Easy To Love: The Songs Of Cole Porter",
-        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
-      },
-      "artists": [
-        {
-          "name": "Susannah McCorkle",
-          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
-        }
-      ],
-      "duration_ms": 266466,
-      "name": "Why Don't We Try Staying Home?",
-      "url": "https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B"
+      "duration_ms": 165893,
+      "name": "In the Still of the Night",
+      "url": "https://open.spotify.com/track/62SGxkOggmrZblQ6prK5AI"
     },
     {
       "added_at": "2024-01-18 13:55:00",
@@ -967,6 +951,22 @@
       "duration_ms": 276426,
       "name": "Wunderbar",
       "url": "https://open.spotify.com/track/19jXz8ZNh5rj9Lmt3l6iVn"
+    },
+    {
+      "added_at": "2024-01-18 13:55:00",
+      "album": {
+        "name": "Easy To Love: The Songs Of Cole Porter",
+        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
+      },
+      "artists": [
+        {
+          "name": "Susannah McCorkle",
+          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
+        }
+      ],
+      "duration_ms": 266466,
+      "name": "Why Don't We Try Staying Home?",
+      "url": "https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B"
     },
     {
       "added_at": "2024-01-18 13:55:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
-        "name": "Mabel Mercer Sings Cole Porter",
-        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
-      },
-      "artists": [
-        {
-          "name": "Mabel Mercer",
-          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
-        }
-      ],
-      "duration_ms": 173840,
-      "name": "Looking at You",
-      "url": "https://open.spotify.com/track/7afi1z162KLkzTIjPU8DCH"
-    },
-    {
-      "added_at": "2024-01-18 13:55:00",
-      "album": {
         "name": "Chet Baker & Strings",
         "url": "https://open.spotify.com/album/6dngHguvEgUGdmjR79OC7S"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 213760,
       "name": "Why Shouldn't I?",
       "url": "https://open.spotify.com/track/2RM6F4QDwmWWFKmV7WunEO"
+    },
+    {
+      "added_at": "2024-01-18 13:55:00",
+      "album": {
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+      },
+      "artists": [
+        {
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+        }
+      ],
+      "duration_ms": 173840,
+      "name": "Looking at You",
+      "url": "https://open.spotify.com/track/7afi1z162KLkzTIjPU8DCH"
     },
     {
       "added_at": "2024-01-18 13:55:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
-        "name": "Easy To Love: The Songs Of Cole Porter",
-        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
-      },
-      "artists": [
-        {
-          "name": "Susannah McCorkle",
-          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
-        }
-      ],
-      "duration_ms": 189906,
-      "name": "Goodbye Little Dream, Goodbye",
-      "url": "https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW"
-    },
-    {
-      "added_at": "2024-01-18 13:55:00",
-      "album": {
         "name": "Silk Stockings (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4mYSlsuLpaqRNT1b5hloIz"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 215600,
       "name": "The Ritz Roll and Rock",
       "url": "https://open.spotify.com/track/6avQ8KrsVqggui50H5zLTb"
+    },
+    {
+      "added_at": "2024-01-18 13:55:00",
+      "album": {
+        "name": "Easy To Love: The Songs Of Cole Porter",
+        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
+      },
+      "artists": [
+        {
+          "name": "Susannah McCorkle",
+          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
+        }
+      ],
+      "duration_ms": 189906,
+      "name": "Goodbye Little Dream, Goodbye",
+      "url": "https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW"
     },
     {
       "added_at": "2024-01-18 13:55:00",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-119 songs - 6 hr 31 min
+120 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Hummingbird \(feat\. Sophie Ellis\-Bextor\)](https://open.spotify.com/track/4XrpyLKVB7uR1yKE0BxQkc) | [LCAW](https://open.spotify.com/artist/7FOb8fwCcjHjKlIlEZk6go), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Hummingbird \(feat\. Sophie Ellis\-Bextor\)](https://open.spotify.com/album/4mmqfJbRk0NG7OG7cHdGbf) | 2:48 | 2024-01-29 |  |
 | [Hurricane](https://open.spotify.com/track/1it55uap8fb6m5EudcE0yG) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 3:27 | 2024-01-29 |  |
 | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/track/2mPyJgKE7vSpUoFXJps8z3) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/album/2TSrZnrtY7zFQ5HFcKnpG6) | 2:42 | 2024-01-29 |  |
-| [If Love Could Have Saved You](https://open.spotify.com/track/7D5vd0DZ2zR0NoIeaX0stb) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [If Love Could Have Saved You](https://open.spotify.com/album/6h00scGXHmjeGfQDWjy8A3) | 3:01 | 2024-01-29 |  |
+| [If Love Could Have Saved You](https://open.spotify.com/track/7D5vd0DZ2zR0NoIeaX0stb) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [If Love Could Have Saved You](https://open.spotify.com/album/6h00scGXHmjeGfQDWjy8A3) | 3:01 | 2024-01-29 | 2024-01-31 |
+| [If Love Could Have Saved You](https://open.spotify.com/track/1gsUJcO7LQ1MqC1gYeFjmp) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [If Love Could Have Saved You \(Official Video\)](https://open.spotify.com/album/0s9AFxpwLeoEcguq5pMgQO) | 4:01 | 2024-01-30 |  |
 | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/track/5TnF44IQRsopRNa63BEyFd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/album/70gacpgIA2SlF8EqYpu22B) | 3:04 | 2024-01-29 |  |
 | [Indulge](https://open.spotify.com/track/4UVGz5y0PEtKDIcyiMfnB3) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [New Skin](https://open.spotify.com/album/7kssLuW4quDDfOA4Krm2Rx) | 3:16 | 2024-01-29 |  |
 | [Jealous](https://open.spotify.com/track/6C4XFRkNEYlGvmjPQW1GcJ) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S) | 3:54 | 2024-01-29 |  |

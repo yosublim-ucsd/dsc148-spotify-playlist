@@ -4,7 +4,7 @@
 
 > aggressive\. heavy\. unhinged\. make a mess of it.
 
-210 songs - 11 hr 27 min
+211 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Fuck You](https://open.spotify.com/track/6gkqY0rDnrzGwGpFyTugi9) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Fuck You](https://open.spotify.com/album/3cO6RzHotTE55LiV7dtA1L) | 3:03 | 2022-07-01 |  |
 | [FØØL \- INHUMAN Remix](https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [INHUMAN](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [FØØL \(INHUMAN Remix\)](https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa) | 3:08 | 2022-04-08 |  |
 | [GASLIGHT!](https://open.spotify.com/track/4sqsaID1vck0Sxis6EPzci) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [GASLIGHT!](https://open.spotify.com/album/4HA7sK0N3OHC2GzTvfa9RL) | 2:28 | 2022-04-08 | 2023-03-25 |
-| [Gaunt](https://open.spotify.com/track/07WXShmsAvKUVK3QYUubJ9) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Gaunt](https://open.spotify.com/album/3hj2N8CIJ67hejzX5XcMRs) | 3:29 | 2023-09-22 |  |
+| [Gaunt](https://open.spotify.com/track/07WXShmsAvKUVK3QYUubJ9) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Gaunt](https://open.spotify.com/album/3hj2N8CIJ67hejzX5XcMRs) | 3:29 | 2023-09-22 | 2024-01-31 |
 | [GauzeValley](https://open.spotify.com/track/23W69K592RCQ6bHhtCERd1) | [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [GauzeValley](https://open.spotify.com/album/7e5VVmMGYiLnmX6Me2LLPC) | 2:30 | 2022-07-01 | 2023-06-02 |
 | [GauzeValley](https://open.spotify.com/track/36sdifWfDrwaR5x4QrrQ6Y) | [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [GauzeValley](https://open.spotify.com/album/5paHLzewvgX7QCz1LP73MO) | 2:30 | 2023-09-22 |  |
 | [GauzeValley](https://open.spotify.com/track/5o0bG13lRrsVGSaeZU6NAl) | [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [GauzeValley](https://open.spotify.com/album/3tzOxmJbLNcBMeNvlxmY8T) | 2:30 | 2023-05-19 | 2023-10-27 |
@@ -198,6 +198,7 @@
 | [U Love It](https://open.spotify.com/track/4tvVKTTnvDal5mUhf80RJC) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [U Love It](https://open.spotify.com/album/0fnqpN4YCLNfiKdQ8uzvPi) | 2:40 | 2022-04-08 |  |
 | [Undertaker \- FEVER 333 Remix](https://open.spotify.com/track/3Wj8USHNbYGLvfIHgxbMhZ) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Undertaker \(FEVER 333 Remix\)](https://open.spotify.com/album/4jpumJcPwvLooTIXKMcH4k) | 2:15 | 2022-04-08 | 2022-09-10 |
 | [Undertaker \- Fever 333 Remix](https://open.spotify.com/track/42byRWzhvfTWbsN7pxcC6w) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Undertaker \(Fever 333 Remix\)](https://open.spotify.com/album/4FAZBq7n35B3wftzMcJIwY) | 2:15 | 2022-07-01 |  |
+| [V.A.N](https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [V.A.N](https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM) | 4:34 | 2024-01-30 |  |
 | [VAMPIR \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [VAMPIR](https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW) | 2:23 | 2022-04-08 | 2022-11-09 |
 | [Venomous \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/6my1SNH8U6TTT5S5vLOKVW) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [LOUD](https://open.spotify.com/album/45soPQg7CQgBOWHgTBvIFf) | 3:24 | 2022-07-01 | 2022-09-24 |
 | [Venomous \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/2xAjXvmMqqlnVhNvpGLzeY) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Venomous \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/0FazkrXViAG8NSMnBuaIHv) | 3:29 | 2022-04-08 | 2022-07-29 |

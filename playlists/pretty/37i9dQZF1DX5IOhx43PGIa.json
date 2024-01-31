@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: thuy.",
-  "num_followers": 284372,
+  "num_followers": 284405,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjQxZGIxNjFmMjM5OGIzYTliNjE3MDZhNmZlYTc2ZGI1MTJiZjU2",
+  "snapshot_id": "MCxmMjBjOTgwYjAyMzBjNTEwM2Q1NjBhZTJjZjM1YWViNDA0ZmNjMzUx",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Slow (with Ciara)",
         "url": "https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "I say bye",
         "url": "https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 180596,
       "name": "I say bye",
       "url": "https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "the space between us",
+        "url": "https://open.spotify.com/album/3MW0W3uEDPpMQyzdVJ9xAx"
+      },
+      "artists": [
+        {
+          "name": "siopaolo",
+          "url": "https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf"
+        }
+      ],
+      "duration_ms": 253325,
+      "name": "the space between us",
+      "url": "https://open.spotify.com/track/4s0m05iPPuTeFlJxAQivGy"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1155,22 +1171,6 @@
       "duration_ms": 205423,
       "name": "Don't Look Down (feat. BANKS)",
       "url": "https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "the space between us",
-        "url": "https://open.spotify.com/album/3MW0W3uEDPpMQyzdVJ9xAx"
-      },
-      "artists": [
-        {
-          "name": "siopaolo",
-          "url": "https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf"
-        }
-      ],
-      "duration_ms": 253325,
-      "name": "the space between us",
-      "url": "https://open.spotify.com/track/4s0m05iPPuTeFlJxAQivGy"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/5FyY9wYLHeJoFzPl0tOU5k"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "duration_ms": 211406,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/2PQNbNPuSfNa3B3r447fbL"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "My Luv (feat. Bibi Bourelly)",
         "url": "https://open.spotify.com/album/2wzmoGlE1JlvlASjEF3WRQ"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 152238,
       "name": "My Luv (feat. Bibi Bourelly)",
       "url": "https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Sunny",
-        "url": "https://open.spotify.com/album/5FyY9wYLHeJoFzPl0tOU5k"
-      },
-      "artists": [
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
-        }
-      ],
-      "duration_ms": 211406,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/2PQNbNPuSfNa3B3r447fbL"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "love letters to u (EP)",
+        "url": "https://open.spotify.com/album/4F1W1gMngOB4UhVF0ykpox"
+      },
+      "artists": [
+        {
+          "name": "Takayoshi",
+          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
+        }
+      ],
+      "duration_ms": 157377,
+      "name": "love of my life",
+      "url": "https://open.spotify.com/track/2ooHvit2WOf9PmptyEWfY4"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "If I Say I Love You",
         "url": "https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 230704,
       "name": "If I Say I Love You",
       "url": "https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "love letters to u (EP)",
-        "url": "https://open.spotify.com/album/4F1W1gMngOB4UhVF0ykpox"
-      },
-      "artists": [
-        {
-          "name": "Takayoshi",
-          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
-        }
-      ],
-      "duration_ms": 157377,
-      "name": "love of my life",
-      "url": "https://open.spotify.com/track/2ooHvit2WOf9PmptyEWfY4"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2215,6 +2215,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Swapping Socks",
+        "url": "https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        },
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "duration_ms": 218762,
+      "name": "Swapping Socks",
+      "url": "https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "A PROPHECY",
         "url": "https://open.spotify.com/album/697xj44bX9XhpDsx2poKKg"
       },
@@ -2247,6 +2267,22 @@
       "duration_ms": 152058,
       "name": "Care (feat. Bakar)",
       "url": "https://open.spotify.com/track/28Irf1qUrZ3Dbw9rXmXxHN"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "hewantscoffeebutiamtea",
+        "url": "https://open.spotify.com/album/1ZJiogegMu9wEbMxI7uy7U"
+      },
+      "artists": [
+        {
+          "name": "Numcha",
+          "url": "https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "afterglow",
+      "url": "https://open.spotify.com/track/0yIshWSqN6TmJNywjZ7zGh"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2287,22 +2323,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "hewantscoffeebutiamtea",
-        "url": "https://open.spotify.com/album/1ZJiogegMu9wEbMxI7uy7U"
-      },
-      "artists": [
-        {
-          "name": "Numcha",
-          "url": "https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "afterglow",
-      "url": "https://open.spotify.com/track/0yIshWSqN6TmJNywjZ7zGh"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "OUT OF BODY",
         "url": "https://open.spotify.com/album/6Vn4kSaFkyRbNToiLEtNiX"
       },
@@ -2315,26 +2335,6 @@
       "duration_ms": 127985,
       "name": "OUT OF BODY",
       "url": "https://open.spotify.com/track/6UHF567WPxGMnBYLy87G7w"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Swapping Socks",
-        "url": "https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5"
-      },
-      "artists": [
-        {
-          "name": "Andr",
-          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
-        },
-        {
-          "name": "mindfreakkk",
-          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
-        }
-      ],
-      "duration_ms": 218762,
-      "name": "Swapping Socks",
-      "url": "https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Unreal",
-        "url": "https://open.spotify.com/album/2IjTLiLnqonRQxxCqiO0pR"
-      },
-      "artists": [
-        {
-          "name": "Lucy Tun",
-          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "ADHD",
-      "url": "https://open.spotify.com/track/61B4mVUvs1m3WvtIbOzHzp"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Anybody Out There (feat. HENRY & Sara Phillips)",
         "url": "https://open.spotify.com/album/6SL1Xp1uM3kHmKxfEWzPh2"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 190666,
       "name": "Anybody Out There (feat. HENRY & Sara Phillips)",
       "url": "https://open.spotify.com/track/05tOx5wW2LGBOExPe37wdI"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Unreal",
+        "url": "https://open.spotify.com/album/2IjTLiLnqonRQxxCqiO0pR"
+      },
+      "artists": [
+        {
+          "name": "Lucy Tun",
+          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "ADHD",
+      "url": "https://open.spotify.com/track/61B4mVUvs1m3WvtIbOzHzp"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "If It's Time",
-        "url": "https://open.spotify.com/album/2PgVfs8f6XAgI5AAdvirWW"
-      },
-      "artists": [
-        {
-          "name": "Simu Liu",
-          "url": "https://open.spotify.com/artist/50cRZOl5AL13akHdLc7nfP"
-        }
-      ],
-      "duration_ms": 167845,
-      "name": "If It's Time",
-      "url": "https://open.spotify.com/track/6tl3V3Br8AFYE6q9khDdR6"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Realized",
         "url": "https://open.spotify.com/album/5IJlO0FOlqJLW29TammKbX"
       },
@@ -2503,6 +2487,38 @@
       "duration_ms": 234420,
       "name": "Realized",
       "url": "https://open.spotify.com/track/7Fj4rj1zxtabjjydlUNXll"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "If It's Time",
+        "url": "https://open.spotify.com/album/2PgVfs8f6XAgI5AAdvirWW"
+      },
+      "artists": [
+        {
+          "name": "Simu Liu",
+          "url": "https://open.spotify.com/artist/50cRZOl5AL13akHdLc7nfP"
+        }
+      ],
+      "duration_ms": 167845,
+      "name": "If It's Time",
+      "url": "https://open.spotify.com/track/6tl3V3Br8AFYE6q9khDdR6"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Kulture Klub",
+        "url": "https://open.spotify.com/album/2sm4TXmoscpZ6i3rFcDUO4"
+      },
+      "artists": [
+        {
+          "name": "Lucy Tun",
+          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
+        }
+      ],
+      "duration_ms": 133888,
+      "name": "Kulture Klub",
+      "url": "https://open.spotify.com/track/5JB470bDe4AvruKK2J3Pkv"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2575,22 +2591,6 @@
       "duration_ms": 120139,
       "name": "DawaN",
       "url": "https://open.spotify.com/track/7mFbfAxNEbD4zxiIAnI9Uh"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Kulture Klub",
-        "url": "https://open.spotify.com/album/2sm4TXmoscpZ6i3rFcDUO4"
-      },
-      "artists": [
-        {
-          "name": "Lucy Tun",
-          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
-        }
-      ],
-      "duration_ms": 133888,
-      "name": "Kulture Klub",
-      "url": "https://open.spotify.com/track/5JB470bDe4AvruKK2J3Pkv"
     }
   ],
   "unique_name": "Jasmine",

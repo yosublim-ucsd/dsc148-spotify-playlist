@@ -1,31 +1,15 @@
 {
   "description": "Rap napoletano e il meglio della scena campana. Nicola Siciliano in cover.",
-  "num_followers": 183470,
+  "num_followers": 183542,
   "original_name": "Int 'o Rione",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWVhMTViMzFhNTZlM2QwYjk2ZGI1N2Q5N2JiZjY5YWQyN2YwZGQw",
+  "snapshot_id": "MCw2NWZjODg2MDMxNjRjOWI0Mzg1ZTNlMjhkNWU3Zjg4YTE4ZDcwMjY4",
   "tracks": [
     {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "FEDE",
-        "url": "https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK"
-      },
-      "artists": [
-        {
-          "name": "MV Killa",
-          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
-        }
-      ],
-      "duration_ms": 158700,
-      "name": "MAKAI",
-      "url": "https://open.spotify.com/track/7cIQHtaKW3l7OEEtFWm1pc"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Lamborghini a Via Marina",
         "url": "https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp"
@@ -49,23 +33,7 @@
       "url": "https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "Colpa Mia",
-        "url": "https://open.spotify.com/album/0Wp77ioPW3AFkhEEcXKM2P"
-      },
-      "artists": [
-        {
-          "name": "Nicola Siciliano",
-          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
-        }
-      ],
-      "duration_ms": 174124,
-      "name": "Colpa Mia",
-      "url": "https://open.spotify.com/track/7qFqO4ytYYQCYRO8j13nIG"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Napoletano RMX (feat. SLF)",
         "url": "https://open.spotify.com/album/2vwJ8mtsNwTYCZHxIKHTDl"
@@ -85,7 +53,7 @@
       "url": "https://open.spotify.com/track/3FDmJlbAtx6u7m0REfhTxQ"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Campioni In Italia (Red Bull 64 Bars)",
         "url": "https://open.spotify.com/album/4pZLLjPkLo3LXhkxlOU4OX"
@@ -109,7 +77,39 @@
       "url": "https://open.spotify.com/track/0lmmsw2Z7uN1e5q93AHXbd"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
+      "album": {
+        "name": "FEDE",
+        "url": "https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK"
+      },
+      "artists": [
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        }
+      ],
+      "duration_ms": 158700,
+      "name": "MAKAI",
+      "url": "https://open.spotify.com/track/7cIQHtaKW3l7OEEtFWm1pc"
+    },
+    {
+      "added_at": "2024-01-30 11:16:23",
+      "album": {
+        "name": "Colpa Mia",
+        "url": "https://open.spotify.com/album/0Wp77ioPW3AFkhEEcXKM2P"
+      },
+      "artists": [
+        {
+          "name": "Nicola Siciliano",
+          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
+        }
+      ],
+      "duration_ms": 174124,
+      "name": "Colpa Mia",
+      "url": "https://open.spotify.com/track/7qFqO4ytYYQCYRO8j13nIG"
+    },
+    {
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "PSG",
         "url": "https://open.spotify.com/album/2VTHXl42e8utykEVef79Uk"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/50sLmAcDOEkiMeTbZnDTLl"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "HOTEL MONTANA",
         "url": "https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Forever Alone",
         "url": "https://open.spotify.com/album/2HS0wNjOG8w72WjiMlqFqw"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/4Ck5wIeWVH0EbtCsQoZ9sl"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
         "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Plaza Freestyle",
         "url": "https://open.spotify.com/album/6wi7ySINUoSx25FTEyTDv3"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/0eLYWoIuuNzaR26eynemYM"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "FEDE",
         "url": "https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Lamborghini a Via Marina",
         "url": "https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/4ZTlsr3kmSylBKSTP7f2oR"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Shawty (feat. ANNA)",
         "url": "https://open.spotify.com/album/0Lk62qOfyMoDWD4iIpNZjy"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/2FSyRgYesfoqC0xGVmHgeH"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "WE THE SQUAD Vol. 1",
         "url": "https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Naples",
         "url": "https://open.spotify.com/album/2bpDU3tbbS3kvj17Ds34wC"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/6hOndc2UrGv7jU12S6IvS0"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/2GYnr5RUWwCWMQuyY6xUNO"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/6hNhO6JOgTGeT3CWjPSiIm"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "MONEY",
         "url": "https://open.spotify.com/album/1L3BundfZgLB9db5496I4y"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/1EOTrGOcrCwTG1nhUnp0dV"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Sul'A Mia (feat. Enzo Dong)",
         "url": "https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Primma",
         "url": "https://open.spotify.com/album/12uUkIYJag0ui0vWd48zdw"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/7GY5uK8LtZGIA4IiGg5Li2"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "HOLLYWOOD",
         "url": "https://open.spotify.com/album/32Nb9JBPqfQthAwwBRjizS"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/3mwYpTNy6uYkyIakEvMcDW"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Dove Volano Le Aquile Vol. 2",
         "url": "https://open.spotify.com/album/5533SD7HXknP7vKdshypG1"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/5gNI6SVOOugp1KOrDpw3O4"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/5ZBIeRCyYvb0nGEtsvuth8"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Botox",
         "url": "https://open.spotify.com/album/4nhZUFV7XuVY3hfsXB7EMt"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/1odrZy5kTuj3SGdfgzhMzq"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "LIBERATO",
         "url": "https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/1901MP4sFYR617bT4hNcyW"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/0ub5NaCeNKWDcRWUmb8yvQ"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/40l3gNOxcK4MWgHfQuOyAF"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "IERI, OGGI E DOMANI",
         "url": "https://open.spotify.com/album/5Vqyjj1Ijl1cqOUDqbZLC5"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/1BTMLhdA6ewk2uXuzMsQWQ"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Topless",
         "url": "https://open.spotify.com/album/6Vy5xxdBNkTyOC9fXVHV5X"
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/2HjM0ufsJtI0zBBeFIpEog"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
         "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/4YM3Pxqe3FiapO16Myngww"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "FEDE II",
         "url": "https://open.spotify.com/album/5wtj64nI3MqbatoKYYAoQO"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/0PIYRd1kHwvUlvoTACuhlc"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "0 In Tasca",
         "url": "https://open.spotify.com/album/6tZ1DGxKbvpbshXOredaKu"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/6TTX5dhUU8hyyrOADiy1KZ"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Tredici",
         "url": "https://open.spotify.com/album/2ZxTZlVQ0eZCeZP6BCTD7O"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/4TVsoRS3ziac6VczSnN8vD"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Sincer (feat. Lele Blade & Icy Subzero)",
         "url": "https://open.spotify.com/album/7BBkLJQiEzHkFDbHy48rjd"
@@ -661,7 +661,7 @@
       "url": "https://open.spotify.com/track/5NA6KErStFT0zPk1VJiSWI"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Dove Volano Le Aquile",
         "url": "https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/3R3S0yqtESkFwJDpscvKfd"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "999",
         "url": "https://open.spotify.com/album/5VmmhTJMQvJIXdb4pEgynz"
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/7pVs5d0hPKE2RUruztOEx3"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "A' vita senz' e te (Me fa paura)",
         "url": "https://open.spotify.com/album/0o862B9nqWJuGpEJwsQIsI"
@@ -725,7 +725,7 @@
       "url": "https://open.spotify.com/track/0aihKoR995mM6IO31vYd3I"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Ma Xk\u00e8 A Me?",
         "url": "https://open.spotify.com/album/1MS0UQ61W1A77NTw77o1Ea"
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/4jeP1FfZpmRa1TIxibtOx2"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Lamborghini a Via Marina",
         "url": "https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/74bfTNttbZDa0x9v57V94K"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "ME VOGL BENE (feat. Geolier)",
         "url": "https://open.spotify.com/album/5zRsIaSAVqjaskO9aH851E"
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/6fJBFIo43hyaij2dWl7L6f"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Cuore Rotto",
         "url": "https://open.spotify.com/album/5BXkveR4dh0YJpV75rtPNY"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/5qAMsFqClevxs2nuZbReDW"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "RUN",
         "url": "https://open.spotify.com/album/6TfVxDaXGqSapRvP7TQETU"
@@ -813,7 +813,7 @@
       "url": "https://open.spotify.com/track/4b5wNTRKC0DhtvTFjohhBK"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Rivoluzione",
         "url": "https://open.spotify.com/album/1bFodetEZ0nZP3A7COgZ9x"
@@ -829,7 +829,7 @@
       "url": "https://open.spotify.com/track/3ULxZjqSg06WTPjhurRA1G"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "VANITAS",
         "url": "https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Notte",
         "url": "https://open.spotify.com/album/3XzpceqOSp5QJI9KTo6iIl"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/7nYGZHYEtYUpdJ29GOntX0"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "MARIANELLA",
         "url": "https://open.spotify.com/album/0F2CZADWos1brXQTY7ExeS"
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/6BylpMONqUzxVVC3mzx1Am"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "ESAME DI COSCIENZA",
         "url": "https://open.spotify.com/album/6x5LrOvqh7U92hLFUGc88z"
@@ -897,7 +897,7 @@
       "url": "https://open.spotify.com/track/43yj12NGdqBcizo5rGE71D"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Via Piombai",
         "url": "https://open.spotify.com/album/4RBnfg3OcCrv5a0J1FbNoQ"
@@ -921,7 +921,7 @@
       "url": "https://open.spotify.com/track/7aJUttpLAxSOrlCmYSVz5X"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "SUD ITALIAN DREAM",
         "url": "https://open.spotify.com/album/4pGk4pX9muBUKwki6JnBut"
@@ -941,7 +941,7 @@
       "url": "https://open.spotify.com/track/35woYksQFAx5OhYKzNXxRy"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-01-30 11:16:23",
       "album": {
         "name": "Leale e Infame",
         "url": "https://open.spotify.com/album/7ihxGS8fgircOQzGLQvtWV"

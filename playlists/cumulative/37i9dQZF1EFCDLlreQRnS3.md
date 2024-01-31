@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Molly Irvine</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-92 songs - 4 hr 51 min
+94 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,11 +71,13 @@
 | [PARIS](https://open.spotify.com/track/0NfeAyYr0WWnV33gYfKOFY) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [PARIS](https://open.spotify.com/album/7mFz9BHV1E6VDp9DLMll1q) | 2:25 | 2024-01-29 |  |
 | [Playing With My Heart](https://open.spotify.com/track/3hMpunBF4cTJybNRSBMU3t) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Playing With My Heart](https://open.spotify.com/album/0S6XfMEhF99rXMBubMqJp3) | 2:44 | 2024-01-29 |  |
 | [Rouge](https://open.spotify.com/track/5Lq8jAdhc69KzkrRoc2pjB) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH) | [Rouge](https://open.spotify.com/album/208eaI6RT7zPv6lcM2ivII) | 2:28 | 2024-01-29 |  |
-| [Running in Circles](https://open.spotify.com/track/44jry7JVnikOOBNjzi91Wg) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Running in Circles](https://open.spotify.com/album/0nW3TMoHy0cT7e7JtuWPCe) | 3:11 | 2024-01-29 |  |
+| [Running in Circles](https://open.spotify.com/track/44jry7JVnikOOBNjzi91Wg) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Running in Circles](https://open.spotify.com/album/0nW3TMoHy0cT7e7JtuWPCe) | 3:11 | 2024-01-29 | 2024-01-31 |
+| [Running in Circles](https://open.spotify.com/track/2fRLyifXMKqGf9QFWLp7Po) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Running in Circles](https://open.spotify.com/album/0v2lsd6U7vasCxIho2EMXU) | 3:14 | 2024-01-30 |  |
 | [Saving Me](https://open.spotify.com/track/35SNaNea9zk1oWk3IzrSKJ) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Saving Me](https://open.spotify.com/album/7nR1IQ7y37DG4rVxVqN0Y1) | 3:35 | 2024-01-29 |  |
 | [Shapeshifting](https://open.spotify.com/track/0wyrhNheLaN7wyiW1TaJ0D) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:26 | 2024-01-29 |  |
 | [Show You](https://open.spotify.com/track/2pi50lnTL4suF9KMOQRgcp) | [Kasper G](https://open.spotify.com/artist/1KCbJUJMBMWPE0n3jskSz8), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Show You](https://open.spotify.com/album/5ho9hNw0hocm8XGvLt4F85) | 3:26 | 2024-01-29 |  |
-| [Sleepless \(feat\. GoldFord\)](https://open.spotify.com/track/3NO0uDaqtPzSSU9GAj39hC) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Sleepless \(feat\. GoldFord\)](https://open.spotify.com/album/3748XL91ovL1Tpni1BWAor) | 2:17 | 2024-01-29 |  |
+| [Sleepless](https://open.spotify.com/track/6XkJKUgacEAcJg2eJP9kjp) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Sleepless](https://open.spotify.com/album/5OGYUO0DwfmxEeiH4vCYnJ) | 2:21 | 2024-01-30 |  |
+| [Sleepless \(feat\. GoldFord\)](https://open.spotify.com/track/3NO0uDaqtPzSSU9GAj39hC) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Sleepless \(feat\. GoldFord\)](https://open.spotify.com/album/3748XL91ovL1Tpni1BWAor) | 2:17 | 2024-01-29 | 2024-01-31 |
 | [So Jealous](https://open.spotify.com/track/0BwB0EYF9aMeluMCjFWeHz) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:12 | 2024-01-29 |  |
 | [Something I Said](https://open.spotify.com/track/0lhU93mkq0mpXOO6GYKAOU) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Something I Said](https://open.spotify.com/album/41nxQC0tLiUmELqgc5Grbx) | 4:08 | 2024-01-29 |  |
 | [Speak](https://open.spotify.com/track/0UHdsqznjCoqPzZJTJZ5Kb) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Speak](https://open.spotify.com/album/3ZSfzqjAgOZv7S23jASBdt) | 2:53 | 2024-01-29 |  |

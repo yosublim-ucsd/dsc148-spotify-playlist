@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 7689,
+  "2024-01-31": 7691,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4K6JUGERv1pUGgxWwuwj06\">Victoria Mon\u00e9t</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Victoria Mon\u00e9t",
@@ -79,7 +79,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 184893,
       "name": "7 rings",
       "url": "https://open.spotify.com/track/14udgTPuByrHR6jUCYHVXu"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 182442,
       "name": "Do It",
       "url": "https://open.spotify.com/track/4AatkEJAn78QCDq6M7b9F6"
@@ -1411,7 +1411,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 184258,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
@@ -1429,7 +1429,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 216042,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/2Clhb6PQH7BQHbtlPOdh8x"
@@ -1753,7 +1753,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 207320,
       "name": "thank u, next",
       "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
@@ -1771,7 +1771,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 330496,
       "name": "thank u, next",
       "url": "https://open.spotify.com/track/3mGQy4nq0o0fqnCGzUAF7e"

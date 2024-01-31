@@ -689,6 +689,28 @@
     },
     {
       "album": {
+        "name": "ECDISE",
+        "url": "https://open.spotify.com/album/2aLSg64wVLlIUGEyTCqQlK"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174390,
+      "name": "frequente(mente)",
+      "url": "https://open.spotify.com/track/3sxNGrRDz8PTSbK7P91yJ6"
+    },
+    {
+      "album": {
         "name": "Dawn Of Chromatica",
         "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
       },

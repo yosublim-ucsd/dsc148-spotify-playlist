@@ -1,12 +1,12 @@
 {
   "description": "The best metal songs of the 90s. Cover: Metallica",
-  "num_followers": 977234,
+  "num_followers": 977963,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGMzOTdlODNiYTUyOWE5YTI5Y2IyYzM4MTQzMzg3ZjQ1MmVmNzMw",
+  "snapshot_id": "MCw0MGJiZDFlMWY2NTA5ZWYxNGY5YzFlZmY5M2RlMDkwNDZlMzBhMjgw",
   "tracks": [
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Powertrip",
-        "url": "https://open.spotify.com/album/51RrYaRLHpw1pbtpL6BE4L"
-      },
-      "artists": [
-        {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "Powertrip",
-      "url": "https://open.spotify.com/track/2FqDEb5wkhtwSl8H2erumv"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
         "name": "Burn My Eyes",
         "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 245600,
       "name": "Old",
       "url": "https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "Powertrip",
+        "url": "https://open.spotify.com/album/51RrYaRLHpw1pbtpL6BE4L"
+      },
+      "artists": [
+        {
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "Powertrip",
+      "url": "https://open.spotify.com/track/2FqDEb5wkhtwSl8H2erumv"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
+        "name": "The More Things Change...",
+        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 254666,
+      "name": "Ten Ton Hammer",
+      "url": "https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
         "name": "The Essential Stabbing Westward",
         "url": "https://open.spotify.com/album/1K9DEVSr5iG2W72escDZV7"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 208706,
       "name": "The Gentle Art of Making Enemies - 2016 Remaster",
       "url": "https://open.spotify.com/track/66uYWEw9gJxkPw6STqNcKl"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
-        "name": "The More Things Change...",
-        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 254666,
-      "name": "Ten Ton Hammer",
-      "url": "https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd"
     },
     {
       "added_at": "2023-03-01 15:25:34",

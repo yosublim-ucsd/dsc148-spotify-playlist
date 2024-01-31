@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops and LGBTQIA+ artists only\. Cover: FLETCHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,245 likes - 105 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,259 likes - 105 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 104 | [Alligator](https://open.spotify.com/track/611w5RH6Et8D5hrSqxxib7) | [Gia Ford](https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX) | [Alligator](https://open.spotify.com/album/2XXEJZqcwdc9iZLLmOPJPc) | 3:10 |
 | 105 | [QUE PASÓ](https://open.spotify.com/track/6HAPQ70OHzZ5QRfeoBUHkf) | [Hugo D Almonte](https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP) | [QUE PASÓ](https://open.spotify.com/album/5aFewLfeXMZKYFFYcPejso) | 2:25 |
 
-Snapshot ID: `MCxhNGNjNzg0MDUxNDJhZjIyYjFiYzYxNzRmZmViNzk1ZWMxNDI2MDc0`
+Snapshot ID: `MCxmYmU1YWE3MzkxZGY1M2M1OGU1OWNlZmIyZjhkYTZlMzU3ZjQ4YzJm`

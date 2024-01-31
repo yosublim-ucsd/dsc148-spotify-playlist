@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 
 > Svensk jazz när den är som bäst.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,913 likes - 147 songs - 11 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,912 likes - 147 songs - 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 5 | [Havsmelodi \(feat\. Filip Ekestubbe, Ludvig Eriksson and Ludwig Gustavsson\)](https://open.spotify.com/track/5kUOeYFGgy6IcBiA7twicw) | [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj), [Askanäs Kammarkvartett](https://open.spotify.com/artist/7DUIwGmSZbOvlg7qakClCC), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Ludvig Eriksson](https://open.spotify.com/artist/7Cyxcco8pURt6wdRtAGiT5), [Ludwig Gustavsson](https://open.spotify.com/artist/6QPdFsa3QG0DLEKhfsD42i) | [Havsmelodi \(feat\. Filip Ekestubbe, Ludvig Eriksson and Ludwig Gustavsson\)](https://open.spotify.com/album/50PKsVQcaP239PGPYIpLyv) | 5:22 |
 | 6 | [Once Again Looking For Love](https://open.spotify.com/track/15co0IfqPYN3UvUX47Arhq) | [Irma Neumüller](https://open.spotify.com/artist/12IgqUh5ZWPutziu3KFq4w), [Stefan Wingefors](https://open.spotify.com/artist/1liam8bwvvXaHhAtjBBBC4), [Bo Nygårds](https://open.spotify.com/artist/3BBzllaBTkBElB3EAIevP7), [Albin Halvordsson](https://open.spotify.com/artist/3275AaFKPyK0QCVLYHraMv), [Johan Löfcrantz Ramsay](https://open.spotify.com/artist/4KjT6YrRSQlJcj6YJuRZuy) | [Once Again Looking For Love](https://open.spotify.com/album/2vBgUSyNzqaIs8ZJPCpQeM) | 6:03 |
 | 7 | [Måste inte](https://open.spotify.com/track/534jGZVFl1BZ3fSL2Vvs4O) | [Liselotte Boustedt](https://open.spotify.com/artist/2j85nUcVoaN1OBEGpRtyZt) | [GRÖN TRÅD](https://open.spotify.com/album/5CD60z4soxLQmorJPeXFHQ) | 2:50 |
-| 8 | [Julians vals](https://open.spotify.com/track/6rbdsIILzJpsPv8cZDbpkg) | [Hederosgruppen](https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw) | [Julians vals](https://open.spotify.com/album/0xcdkqLctNQ9JL4bIHlqx8) | 3:39 |
+| 8 | [Julians vals](https://open.spotify.com/track/6rbdsIILzJpsPv8cZDbpkg) | [Hederosgruppen](https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw) | [Julians vals / Signes psalm](https://open.spotify.com/album/0xcdkqLctNQ9JL4bIHlqx8) | 3:39 |
 | 9 | [Västertorps Hjärta](https://open.spotify.com/track/3ROvgS56VoCFcafLOFO6GZ) | [Tonbruket](https://open.spotify.com/artist/5Txp8CzIIEwkALY9agmKpJ) | [Light Wood, Dark Strings](https://open.spotify.com/album/2JSTNVXcog7ywG3iG3xIiG) | 5:58 |
 | 10 | [Ledsen](https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ) | [John Nilsson](https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr) | [Ledsen](https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ) | 5:30 |
 | 11 | [Wedding](https://open.spotify.com/track/6bzSmAhfNxRtivvL8jHGvO) | [Ale Möller](https://open.spotify.com/artist/5kWZBRi1mL1QA414GqLllw), [Mats Öberg](https://open.spotify.com/artist/3LUqfl7mVVnNwfCpE6s4RD), [Olle Linder](https://open.spotify.com/artist/3DnXgG6Wr1VxhsP543vnug) | [Day Tripper / Wedding](https://open.spotify.com/album/2vso9u23A2kQqEDa9st5xs) | 4:22 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 146 | [Little Green Apples](https://open.spotify.com/track/1Fq5zGO9szoi1qhmAmedbT) | [Merit Hemmingson](https://open.spotify.com/artist/5xoFJP7qzaMcSAghFZXI4a) | [Merit!](https://open.spotify.com/album/4vXz5HHVIzciTPmFRaTXSi) | 4:22 |
 | 147 | [The Midnight Sun Never Sets](https://open.spotify.com/track/2CcK7rb2RWa3KU6zd4kfDE) | [Arne Domnérus](https://open.spotify.com/artist/1ouwdRCWsw9IBhPoDMrhFv) | [Guldkorn](https://open.spotify.com/album/6eFrMXMf8qQGGyZFSQill8) | 4:08 |
 
-Snapshot ID: `MCw1N2JkOTAyNWFmMzRiZDI5Y2UwMzUyNDFjNDc3ZjczYzMzYjE2NGVl`
+Snapshot ID: `MCw4MWZjN2FlNDU5ZjkyY2VjNGYyN2I4MTUxNDRiMzYzNDMzZjA1YzVm`

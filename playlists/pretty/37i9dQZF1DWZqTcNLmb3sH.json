@@ -1,13 +1,33 @@
 {
-  "description": "Check out the latest hits from Sandalwood!\nCover : Bachelor Party\n",
-  "num_followers": 56941,
+  "description": "Check out the latest hits from Sandalwood!\nCover : Karnataka Damanaka\n",
+  "num_followers": 56958,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjVlNzU4ZjEzY2U2ZGVkYWRjZGRlYTMyOWMyZTU0MWE1N2FiNjhl",
+  "snapshot_id": "MCwyMzJiZDk2OTZkNGIwMDgxZjgyYzA0NTg2ZDJkMWE1Zjc3YzZiMzE2",
   "tracks": [
+    {
+      "added_at": "2024-01-30 12:16:19",
+      "album": {
+        "name": "Karataka Damanaka Title Track (from \"Karataka Damanaka\")",
+        "url": "https://open.spotify.com/album/4DlpftS9Z7UD1ICVkOZSKi"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        }
+      ],
+      "duration_ms": 262725,
+      "name": "Karataka Damanaka Title Track (from \"Karataka Damanaka\")",
+      "url": "https://open.spotify.com/track/1mj1drdsDFDhMrSYHOP6nW"
+    },
     {
       "added_at": "2024-01-04 06:14:40",
       "album": {
@@ -85,6 +105,30 @@
       "url": "https://open.spotify.com/track/7FqHCguKhIjeGs59nfebrC"
     },
     {
+      "added_at": "2024-01-30 06:53:54",
+      "album": {
+        "name": "Urige Ure Kaaneru (From \"Schoool Ramayana\")",
+        "url": "https://open.spotify.com/album/2kRChi9lJgEIhglZ7ObbP3"
+      },
+      "artists": [
+        {
+          "name": "Aarohan Karthik Venkatesh",
+          "url": "https://open.spotify.com/artist/1guoPhvtL06vVIvtKxDVtg"
+        },
+        {
+          "name": "N. B. Loki (Local Loki)",
+          "url": "https://open.spotify.com/artist/3f0BN0DhUxpJFUPUNiSi8t"
+        },
+        {
+          "name": "Mehboob Saab",
+          "url": "https://open.spotify.com/artist/6HetSWGemJe8nirwDZa8nl"
+        }
+      ],
+      "duration_ms": 264477,
+      "name": "Urige Ure Kaaneru (From \"Schoool Ramayana\")",
+      "url": "https://open.spotify.com/track/31xtN1TYHOFoNsjco8nNWF"
+    },
+    {
       "added_at": "2024-01-29 06:24:00",
       "album": {
         "name": "Babu (No.1 Bullshit Guy) - Kannada",
@@ -159,6 +203,22 @@
       "duration_ms": 206120,
       "name": "Ujjadbitlu (From \"Bisi-Bisi Ice-Cream\")",
       "url": "https://open.spotify.com/track/3VhYtrijtNJH1J0YHLe4JC"
+    },
+    {
+      "added_at": "2024-01-30 06:52:05",
+      "album": {
+        "name": "Maadeva (Theme Music) [From \"Maadeva\"]",
+        "url": "https://open.spotify.com/album/3jvAFe9dKIEFzgp23IV4N1"
+      },
+      "artists": [
+        {
+          "name": "Praddyottan",
+          "url": "https://open.spotify.com/artist/2cM8BF1ngqyE703rsaRbaw"
+        }
+      ],
+      "duration_ms": 121731,
+      "name": "Maadeva (Theme Music) - From \"Maadeva\"",
+      "url": "https://open.spotify.com/track/5sMPNdLwyrMep3hT52dz89"
     },
     {
       "added_at": "2024-01-29 06:24:55",
@@ -1599,30 +1659,6 @@
       "duration_ms": 259411,
       "name": "Vajrakaaya Anjaneya (From \"HanuMan\") [Kannada]",
       "url": "https://open.spotify.com/track/4bn3L8VtLXt6iw2CqO8HLQ"
-    },
-    {
-      "added_at": "2023-11-24 12:19:32",
-      "album": {
-        "name": "Jingalaka Laka Laka (From \"Ardhambardha Premakathe\")",
-        "url": "https://open.spotify.com/album/7xJaFcDzPgFSUuSfAcFHJK"
-      },
-      "artists": [
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        },
-        {
-          "name": "Naveen Sajju",
-          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
-        },
-        {
-          "name": "Aravind Kaushik",
-          "url": "https://open.spotify.com/artist/2owwxBbcNSSRkZkspfHzdj"
-        }
-      ],
-      "duration_ms": 191559,
-      "name": "Jingalaka Laka Laka - From \"Ardhambardha Premakathe\"",
-      "url": "https://open.spotify.com/track/5656wgb6YXZTxJQzJDAiSH"
     },
     {
       "added_at": "2023-11-24 12:23:12",

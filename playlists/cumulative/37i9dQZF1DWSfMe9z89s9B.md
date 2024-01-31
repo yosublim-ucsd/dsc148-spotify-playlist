@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Hiatus Kaiyote
 
-1,066 songs - 2 day 8 hr 51 min
+1,067 songs - 2 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -916,6 +916,7 @@
 | [Tell Me](https://open.spotify.com/track/2acAftMCwuDIsKkTABFC5A) | [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo) | [HARMINE](https://open.spotify.com/album/3m8xrGYg4snYy54VS2IHsh) | 4:45 | 2022-05-20 | 2022-07-16 |
 | [Tell Me](https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Tell Me](https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV) | 3:42 | 2022-04-01 | 2022-04-08 |
 | [Tell Me Why](https://open.spotify.com/track/75QLOfbDw2IyEuY5OZWV5r) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Tell Me Why](https://open.spotify.com/album/0g8h1QxnKUsfnEgVwKTuJN) | 3:08 | 2022-05-13 | 2022-10-15 |
+| [TEMPTATIONS](https://open.spotify.com/track/5Dm92u2aCnl45seE6MCUwU) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [TEMPTATIONS](https://open.spotify.com/album/46xtqR37R8Ge71o0tQ4peS) | 1:51 | 2024-01-19 |  |
 | [Tennis Courts](https://open.spotify.com/track/7FSHUkLuZipISCAvdgxEc2) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Tennis Courts](https://open.spotify.com/album/7tKJHyWwrh0KIkTRo2KMOW) | 3:00 | 2022-04-01 | 2022-08-09 |
 | [Terracotta](https://open.spotify.com/track/0ACJFbxNaMKlGrCCuWHLLn) | [Brahny](https://open.spotify.com/artist/5XVcCGWqJUyDVL8u3YsSRX) | [Siamese](https://open.spotify.com/album/3g1yzxidCjV1HVC7Gic1q1) | 4:04 | 2022-04-01 | 2022-04-14 |
 | [Test What I Know](https://open.spotify.com/track/1x6bosUmFK9cwrEV6O6mtt) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Test What I Know](https://open.spotify.com/album/7cvxZYlw5goVjvfwea3mb3) | 2:34 | 2023-07-21 |  |
@@ -1043,7 +1044,7 @@
 | [wish you hell](https://open.spotify.com/track/5QTpJCeiyOyBVaeThyMQUV) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [wish you hell](https://open.spotify.com/album/1WlsXlSlUc0CxO0Rkqcp8t) | 2:54 | 2023-09-29 | 2023-11-01 |
 | [Wish You Well](https://open.spotify.com/track/6VaBTaTsjak8UAPWCIrvl8) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Wish You Well](https://open.spotify.com/album/21A6NJoF9eN9yuCqIHJu5y) | 2:54 | 2023-01-13 | 2023-02-11 |
 | [Woman \(feat\. Lianne La Havas\)](https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Woman \(feat\. Lianne La Havas\)](https://open.spotify.com/album/573VHLRrwj40u1oZcutY9r) | 3:11 | 2021-03-19 | 2022-01-25 |
-| [Won One](https://open.spotify.com/track/1Go1t1GBt5XJX75DMoMBoa) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 2:41 | 2023-11-03 |  |
+| [Won One](https://open.spotify.com/track/1Go1t1GBt5XJX75DMoMBoa) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 2:41 | 2023-11-03 | 2024-01-31 |
 | [WORK 4 A SMILE \(DEMO\)](https://open.spotify.com/track/0pgR8YHXEZPOAo93QvWyhA) | [Rahul](https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8) | [DEPRESSED BUT MAKE IT COOL](https://open.spotify.com/album/1C4fLVYiwsja5CtDc3kSp0) | 1:50 | 2022-09-09 | 2022-09-24 |
 | [World In My Hands](https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [World In My Hands](https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT) | 3:14 | 2023-02-24 | 2023-11-07 |
 | [Worth It](https://open.spotify.com/track/7yeAu4xPWoTOGwQlQpgNZA) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Worth It](https://open.spotify.com/album/4gA30BEiTEYzHesXLSBbJc) | 4:18 | 2021-04-30 | 2022-07-29 |

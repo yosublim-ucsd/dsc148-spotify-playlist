@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 221987,
+  "2024-01-31": 222014,
   "date_first_scraped": "2022-01-09",
   "description": "\u00a1Puro perreo intenso en la comodidad de tu habitaci\u00f3n!",
   "name": "Perrea en tu Cuarto",
@@ -1164,6 +1164,32 @@
     },
     {
       "album": {
+        "name": "Faldas y Gistros",
+        "url": "https://open.spotify.com/album/4I3UDGvDhFHcq9nPFzsOb1"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179666,
+      "name": "Faldas y Gistros",
+      "url": "https://open.spotify.com/track/0qFS3YSjOgoO7qiOekDJtp"
+    },
+    {
+      "album": {
         "name": "Fan de Tus Fotos",
         "url": "https://open.spotify.com/album/2AWg2kHOfuRPjJKYyttF9T"
       },
@@ -1521,7 +1547,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 224972,
       "name": "Intro Telefono 1 - Remix",
       "url": "https://open.spotify.com/track/7uSvtldc5qiqcjmpeEk0gB"
@@ -2396,6 +2422,32 @@
     },
     {
       "album": {
+        "name": "MALIANTEO",
+        "url": "https://open.spotify.com/album/5u0hfSKS3TjW2NqIZCDHsx"
+      },
+      "artists": [
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "MALIANTEO",
+      "url": "https://open.spotify.com/track/4HxHuTn5m8mvwstavPF8yE"
+    },
+    {
+      "album": {
         "name": "Malvada (feat. Jae S)",
         "url": "https://open.spotify.com/album/7fNNajuPo4mkxRfvAwUpIR"
       },
@@ -2747,7 +2799,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 196320,
       "name": "Mi Cama - Remix",
       "url": "https://open.spotify.com/track/38QmUDpkoYlNbMKvpvAsrE"

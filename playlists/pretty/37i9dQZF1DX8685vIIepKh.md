@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 
 > La playlist survitaminée !
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,761 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,919 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 | 49 | [You Made Me Pray](https://open.spotify.com/track/0Xbn76gXJuD8vB5ZPEGG2k) | [Kimberose](https://open.spotify.com/artist/6CpNuq0rsIj6Il313E6lKL) | [You Made Me Pray](https://open.spotify.com/album/7dGoaSScaSFZDGjUsJdbi7) | 3:13 |
 | 50 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
 
-Snapshot ID: `MCwxMGYwMjM2MGRlNjQ4ZWUxOGM2MTk2NzQ5MTdmZGNhMDBlOWIzYjNi`
+Snapshot ID: `MCxhOWNiOTA2NjhmMmI2NmY3NTEzYmQyMzU5MjMwNmY2ZTU4ZTdjOThh`

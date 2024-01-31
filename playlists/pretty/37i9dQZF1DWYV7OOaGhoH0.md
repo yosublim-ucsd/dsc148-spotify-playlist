@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Tom Odell
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,838,694 likes - 102 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,838,330 likes - 102 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 101 | [How I Love](https://open.spotify.com/track/2XBmrWOsPavSy6YnwbG7f8) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Smalltown Stardust](https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG) | 4:48 |
 | 102 | [The End](https://open.spotify.com/track/0HfT6rSWC48pyZc4fhwl1b) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [The End](https://open.spotify.com/album/5yTgFfMZGmvB5yeHK0Y7Ox) | 3:10 |
 
-Snapshot ID: `MCwyOTIwOTg2ZTYzMWU2MzQyMWVhY2NjNTc4NTkwNzE2MjI2Y2Y1ZDU4`
+Snapshot ID: `MCw1MTVjNTlkMTYyNzg5YzllNDM3NjQzNjQ1ZGRjZDg4ZjAyMjZlMzFl`

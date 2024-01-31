@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-673 songs - 1 day 1 hr 29 min
+674 songs - 1 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,8 +380,9 @@
 | [Montagem Coral](https://open.spotify.com/track/2bWf8d1FhnB1ypJZ2bDUvt) | [fedo DJ](https://open.spotify.com/artist/0sfCfF62IjeupwxdvH7KM3), [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x), [Sinom](https://open.spotify.com/artist/5M4Z9UYuF8o4fSrhnL6S5C), [UNCRYPTED INC.](https://open.spotify.com/artist/1Lp30VcQVQEDdb3Til1hRQ), [Tolga Karaoğlan](https://open.spotify.com/artist/2lJ8D1SXYsUck4IB09d6hm), [Rohith Pai Kasturi](https://open.spotify.com/artist/3Ji6vr5jQfh3mMoeVt1mFb), [onvr](https://open.spotify.com/artist/69d6VXGsKMsnaVLJSBK4Ho), [Ata İNC](https://open.spotify.com/artist/4lppPTq0U3pGjv7wPBd8qK) | [Montagem Coral](https://open.spotify.com/album/3ON26D5AT9jJWeNwSc3CVR) | 2:25 | 2023-09-22 | 2023-12-23 |
 | [Montagem Coral](https://open.spotify.com/track/1IluQAUAhRumwIYsBuYqFQ) | [flux.beats](https://open.spotify.com/artist/3TkE7Wo4vLvOjTZPYNKGjL) | [Montagem Coral \(Slowed + Reverb\)](https://open.spotify.com/album/7bITNZFQVcVzUCESciDyFJ) | 2:23 | 2023-09-22 | 2023-10-30 |
 | [Montagem Coral](https://open.spotify.com/track/3cE1cyAdPmv5Eq5ZBaQmYV) | [flux.beats](https://open.spotify.com/artist/3TkE7Wo4vLvOjTZPYNKGjL) | [Montagem Coral](https://open.spotify.com/album/6RfEECBJXORJnhJNdVB4mN) | 2:23 | 2023-09-22 | 2023-10-17 |
-| [Montagem Coral](https://open.spotify.com/track/7o5n1CDIYYM3f979LbsMr3) | [loera](https://open.spotify.com/artist/7gSVrCt5LUSUjTRGf2qIlX), [ZETH INC.](https://open.spotify.com/artist/6CH6yCwls8JUmh0J4tKdxj), [Flexyz](https://open.spotify.com/artist/7b1fbUqnT4rGuWLNK8aQDI) | [Montagem Coral](https://open.spotify.com/album/4qYv01PwTelamkcX0aqoYS) | 2:25 | 2023-09-22 |  |
+| [Montagem Coral](https://open.spotify.com/track/7o5n1CDIYYM3f979LbsMr3) | [loera](https://open.spotify.com/artist/7gSVrCt5LUSUjTRGf2qIlX), [ZETH INC.](https://open.spotify.com/artist/6CH6yCwls8JUmh0J4tKdxj), [Flexyz](https://open.spotify.com/artist/7b1fbUqnT4rGuWLNK8aQDI) | [Montagem Coral](https://open.spotify.com/album/4qYv01PwTelamkcX0aqoYS) | 2:25 | 2023-09-22 | 2024-01-31 |
 | [MONTAGEM CORAL](https://open.spotify.com/track/16pCNpN8qTkUViMALO0U3Z) | [sadakatsiz](https://open.spotify.com/artist/0zZR7LKqUKMJSVnoogF6Mi) | [MONTAGEM CORAL](https://open.spotify.com/album/6JQs1jzCDA6MHAqaBTxxgy) | 2:25 | 2023-09-22 | 2023-12-06 |
+| [Montagem Coral](https://open.spotify.com/track/56nrEf6ozwqRzvxnF3i0fW) | [seyhqnsert](https://open.spotify.com/artist/6HxY3m36GtRhg7v7aFsnPa), [Buserealx](https://open.spotify.com/artist/2FTOriXCdQgd64u939xYuH), [Belaxs](https://open.spotify.com/artist/1GUxcjnzN8wM4MgAE0tE6s) | [Montagem Coral](https://open.spotify.com/album/3pmUloAK5VbWMZ2dffDaJ0) | 2:25 | 2023-09-22 |  |
 | [MONTAGEM CORAL](https://open.spotify.com/track/3XxgfnKzZAc8hZlsjBCOIK) | [somai](https://open.spotify.com/artist/6q8Xr34whpzJxsu3lax6fh) | [MONTAGEM CORAL](https://open.spotify.com/album/2OKsctX02r3R3qhyq64mSG) | 2:25 | 2023-09-22 | 2023-10-05 |
 | [MONTAGEM CORAL](https://open.spotify.com/track/2rjXdiDz6cmKTn4MbnR6rS) | [veysxl](https://open.spotify.com/artist/0WeEdxpSmM2Rtjqm2mbSp3), [batuzane](https://open.spotify.com/artist/0xNQSJ31hA6QrnQNzQkK6P) | [MONTAGEM CORAL](https://open.spotify.com/album/58pJKKlXJ1s5aIhk4rwkIT) | 2:25 | 2023-09-22 | 2023-11-22 |
 | [Montagem Coral](https://open.spotify.com/track/3F02rCPD3IvrnZ7GPSjR5t) | [vicX](https://open.spotify.com/artist/4qiIMJtorRG5GfdyRsLBtC) | [Montagem Coral](https://open.spotify.com/album/6m8N6j8GfGmW3cqgP5uiHq) | 2:25 | 2023-09-22 | 2023-10-12 |

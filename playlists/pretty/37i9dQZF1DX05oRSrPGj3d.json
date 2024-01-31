@@ -1,12 +1,12 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Cody Johnson",
-  "num_followers": 252041,
+  "num_followers": 252149,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjJhYWNiZGViNmEyZDcxNjEwNTY5YzdjNTIzMjRiYmQwNDY4NDE2",
+  "snapshot_id": "MCxjYTU4ZjJkMzlkM2M0Y2VhZTg1NDVkOGZlNTFiYTIyYzFlZDdkZGRl",
   "tracks": [
     {
       "added_at": "2024-01-19 17:31:05",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Firewater",
-        "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
-        }
-      ],
-      "duration_ms": 260506,
-      "name": "Virginia",
-      "url": "https://open.spotify.com/track/0sQkMsh3ojWIw7CIGsXArG"
-    },
-    {
-      "added_at": "2024-01-19 17:31:05",
-      "album": {
         "name": "Broke Ass Kid",
         "url": "https://open.spotify.com/album/2HfPwB24BxVvoZJf6aDVAP"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 242325,
       "name": "Broke Ass Kid",
       "url": "https://open.spotify.com/track/22NJ4gaxcMI4j5Fg8dbnug"
+    },
+    {
+      "added_at": "2024-01-19 17:31:05",
+      "album": {
+        "name": "Firewater",
+        "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "duration_ms": 260506,
+      "name": "Virginia",
+      "url": "https://open.spotify.com/track/0sQkMsh3ojWIw7CIGsXArG"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/4vHUA1pDoYFTaxuCNOhK2z"
-      },
-      "artists": [
-        {
-          "name": "Charlie Robison",
-          "url": "https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "New Year's Day",
-      "url": "https://open.spotify.com/track/7DXNTiUCWJvomSGEGMr3H8"
-    },
-    {
-      "added_at": "2024-01-19 17:31:05",
-      "album": {
         "name": "She's Like Texas",
         "url": "https://open.spotify.com/album/3GQWEiCkBX2tyr0D1Y60au"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 235253,
       "name": "She's Like Texas",
       "url": "https://open.spotify.com/track/7k0ahlHosIWblaaIsEqJ8M"
+    },
+    {
+      "added_at": "2024-01-19 17:31:05",
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/4vHUA1pDoYFTaxuCNOhK2z"
+      },
+      "artists": [
+        {
+          "name": "Charlie Robison",
+          "url": "https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "New Year's Day",
+      "url": "https://open.spotify.com/track/7DXNTiUCWJvomSGEGMr3H8"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Lovin' Where It's Goin'",
-        "url": "https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA"
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/6csMrzyN5ZpLcwxBWH9XeQ"
       },
       "artists": [
         {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+          "name": "Stoney LaRue",
+          "url": "https://open.spotify.com/artist/0T7J61YgErxSH8yuyggHJO"
         }
       ],
-      "duration_ms": 179691,
-      "name": "Lovin' Where It's Goin'",
-      "url": "https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ"
+      "duration_ms": 248586,
+      "name": "Feet Don't Touch the Ground",
+      "url": "https://open.spotify.com/track/5jlKg466AQEoBSPJ8y8wyY"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Live at Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/6csMrzyN5ZpLcwxBWH9XeQ"
+        "name": "Lovin' Where It's Goin'",
+        "url": "https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA"
       },
       "artists": [
         {
-          "name": "Stoney LaRue",
-          "url": "https://open.spotify.com/artist/0T7J61YgErxSH8yuyggHJO"
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
         }
       ],
-      "duration_ms": 248586,
-      "name": "Feet Don't Touch the Ground",
-      "url": "https://open.spotify.com/track/5jlKg466AQEoBSPJ8y8wyY"
+      "duration_ms": 179691,
+      "name": "Lovin' Where It's Goin'",
+      "url": "https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -1371,6 +1371,22 @@
       "duration_ms": 233106,
       "name": "Shine Out",
       "url": "https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP"
+    },
+    {
+      "added_at": "2024-01-19 17:31:05",
+      "album": {
+        "name": "Humble Folks",
+        "url": "https://open.spotify.com/album/0uoIEPON8NkkkCjhpXJ9g8"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 231146,
+      "name": "One I Want",
+      "url": "https://open.spotify.com/track/2GVKDSFwVWCbygrZQvB5ed"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -1403,22 +1419,6 @@
       "duration_ms": 196866,
       "name": "Feelin' Good Again",
       "url": "https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6"
-    },
-    {
-      "added_at": "2024-01-19 17:31:05",
-      "album": {
-        "name": "Humble Folks",
-        "url": "https://open.spotify.com/album/0uoIEPON8NkkkCjhpXJ9g8"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 231146,
-      "name": "One I Want",
-      "url": "https://open.spotify.com/track/2GVKDSFwVWCbygrZQvB5ed"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Tramp On Your Street",
-        "url": "https://open.spotify.com/album/4VZK4PLoIdugyfsg3ZHon0"
-      },
-      "artists": [
-        {
-          "name": "Billy Joe Shaver",
-          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/4f2K09ZZra4gK8Cyuf6yW6"
-    },
-    {
-      "added_at": "2024-01-19 17:31:05",
-      "album": {
         "name": "Welcome To Countryland",
         "url": "https://open.spotify.com/album/3eMDuIysSkp3nUlmTrxbfx"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 200666,
       "name": "Some Things Never Change",
       "url": "https://open.spotify.com/track/0pP8lCq9MTZh3QDw7nSjpP"
+    },
+    {
+      "added_at": "2024-01-19 17:31:05",
+      "album": {
+        "name": "Tramp On Your Street",
+        "url": "https://open.spotify.com/album/4VZK4PLoIdugyfsg3ZHon0"
+      },
+      "artists": [
+        {
+          "name": "Billy Joe Shaver",
+          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/4f2K09ZZra4gK8Cyuf6yW6"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -1587,22 +1587,6 @@
       "duration_ms": 150186,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
-    },
-    {
-      "added_at": "2024-01-19 17:31:05",
-      "album": {
-        "name": "Burning The Day",
-        "url": "https://open.spotify.com/album/56Eev1ECimoTdex4w7yjpY"
-      },
-      "artists": [
-        {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
-        }
-      ],
-      "duration_ms": 281653,
-      "name": "Interstate",
-      "url": "https://open.spotify.com/track/2bSakZfbGt38Z9sViKpNXc"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -1667,6 +1651,22 @@
       "duration_ms": 246803,
       "name": "Fast Lane",
       "url": "https://open.spotify.com/track/2lqC75TB8cuEP8ZQ6L9zi5"
+    },
+    {
+      "added_at": "2024-01-19 17:31:05",
+      "album": {
+        "name": "Mr. Bojangles",
+        "url": "https://open.spotify.com/album/48Pyc7crme2ofMCDnhsDwW"
+      },
+      "artists": [
+        {
+          "name": "Jerry Jeff Walker",
+          "url": "https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7"
+        }
+      ],
+      "duration_ms": 328146,
+      "name": "Mr. Bojangles",
+      "url": "https://open.spotify.com/track/51DLN9R1dIqkKnlRsz1kpg"
     }
   ],
   "unique_name": "Heart Of Texas",

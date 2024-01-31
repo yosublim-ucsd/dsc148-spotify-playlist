@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Justice & TAME IMPALA, Justin Timberlake, James Arthur, 緑黄色社会 and more! Cover: Justice & TAME IMPALA
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,253 likes - 78 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,257 likes - 78 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 77 | [Istanbul \(feat\. Elijah Fox\)](https://open.spotify.com/track/65lKgD4JnUU5EYaqMly9T6) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Yussef Dayes Experience \(Live From Malibu\)](https://open.spotify.com/album/3PGNm2ibnsl8rldfXjQ1wB) | 4:08 |
 | 78 | [Txera](https://open.spotify.com/track/2FYaO6gwoQeR0UlemcfkvW) | [Fabiano do Nascimento](https://open.spotify.com/artist/5GNLaaEOwaEaXJfK7XnD8j), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [The Room](https://open.spotify.com/album/6hjgspe4lt2y1hiRyCtSHp) | 2:29 |
 
-Snapshot ID: `MCwxMTFiZWM1NjdhNjY5MGYyZjZmMWJlOGQyNDkyY2E3ODFiODIzYzFk`
+Snapshot ID: `MCw5NmM2ZGE3NWEyYjRmODRjMzZkYzVkMjcxNDA5ZGI3NmM4YzA2Njhk`

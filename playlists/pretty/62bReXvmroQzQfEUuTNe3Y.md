@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Chill tracks to vibe or dance for 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-[Selected.](https://open.spotify.com/user/selectedbase) - 1,160,584 likes - 124 songs - 6 hr 49 min
+[Selected.](https://open.spotify.com/user/selectedbase) - 1,161,069 likes - 124 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 19 | [Melt](https://open.spotify.com/track/4YXJZWRPQbrlA84IrQ7p07) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Blasé Boys Club \(Pt\. 1\)](https://open.spotify.com/album/270fFgaAL8AL1mmGK1bld7) | 4:37 |
 | 20 | [Lie](https://open.spotify.com/track/3RnZjwrBL25HDLEdh3JroP) | [BRETSN](https://open.spotify.com/artist/0q1KWQ2KDqSA6neWGPi2Mm), [SANDMO](https://open.spotify.com/artist/6s4D1tHXN2nIoywKMPR8UF) | [Lie](https://open.spotify.com/album/1GvBsRk5yQfKPShCSFH88g) | 2:50 |
 | 21 | [If You Wanna](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [If You Wanna](https://open.spotify.com/album/6xdH62cWsnkSNb1KrstnEA) | 2:39 |
-| 22 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 |
+| 22 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 |
 | 23 | [Leave Me Low](https://open.spotify.com/track/1fhFDn9W8ehz6rqomxDUW4) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Leave Me Low](https://open.spotify.com/album/7mXiSzZCJglvzRwmGlG59f) | 2:58 |
 | 24 | [Changes](https://open.spotify.com/track/4GYO06wf3VU43VzgRevxU2) | [Nathan C](https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q), [Yola Recoba](https://open.spotify.com/artist/7gvpJzKMMMQsdLqWF4SKs7) | [Changes](https://open.spotify.com/album/4tx98D2IVwR6lqnDcBPrzi) | 2:38 |
 | 25 | [Honesty](https://open.spotify.com/track/5ZzE5vW4fTPzjLDEe6EjUU) | [Paul Schulze](https://open.spotify.com/artist/32o1qg6YNbckc4BDFqBBdY), [Able Faces](https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2), [Callum George](https://open.spotify.com/artist/6UT0zskYDqB2JgGEiAEGFh) | [Honesty](https://open.spotify.com/album/2VLnaCkRw8tH9rcGKTbbL6) | 2:37 |

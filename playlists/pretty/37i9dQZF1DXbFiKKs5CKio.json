@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 54815,
+  "num_followers": 54811,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzFhN2U0NDQ5NzgwOWIwNTYyNGFiNWIwODAyMGZmYjU3NGEzNTAw",
+  "snapshot_id": "MCw3ZjJmNGE3MGI3NDZjMjk4ZTEyZWU0NjBhODIyOTAzNjkxN2Y5ZmIz",
   "tracks": [
     {
       "added_at": "2024-01-26 03:01:00",
@@ -703,26 +703,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Onda (Remix)",
-        "url": "https://open.spotify.com/album/1tUH0tMpxSzRvIXY91dyjs"
-      },
-      "artists": [
-        {
-          "name": "Patricia Marx",
-          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
-        },
-        {
-          "name": "DJ Nato_PK",
-          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
-        }
-      ],
-      "duration_ms": 346939,
-      "name": "Onda - Remix",
-      "url": "https://open.spotify.com/track/3ixozEXArgOxWDKiemyRPU"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "P\u00f4r Do Sol",
         "url": "https://open.spotify.com/album/1I0fKlFwD13sGC8kHQ77lS"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 151730,
       "name": "P\u00f4r Do Sol",
       "url": "https://open.spotify.com/track/5qTFpdZGb94SFWQ7AFqYPt"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "Onda (Remix)",
+        "url": "https://open.spotify.com/album/1tUH0tMpxSzRvIXY91dyjs"
+      },
+      "artists": [
+        {
+          "name": "Patricia Marx",
+          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
+        },
+        {
+          "name": "DJ Nato_PK",
+          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
+        }
+      ],
+      "duration_ms": 346939,
+      "name": "Onda - Remix",
+      "url": "https://open.spotify.com/track/3ixozEXArgOxWDKiemyRPU"
     },
     {
       "added_at": "2024-01-26 03:01:00",

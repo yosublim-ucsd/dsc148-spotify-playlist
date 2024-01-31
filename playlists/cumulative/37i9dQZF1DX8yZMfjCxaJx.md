@@ -4,7 +4,7 @@
 
 > Las favoritas de los patrones\. Markitos Toys, Pantera de Culiacán en portada.
 
-75 songs - 4 hr 1 min
+76 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [El Vocho](https://open.spotify.com/track/31Q8g39em3t71EvBvwN3GE) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [El Vocho](https://open.spotify.com/album/6STegWJxkTwumApW32e8hl) | 3:10 | 2024-01-26 |  |
 | [En la Meza una Flor](https://open.spotify.com/track/6HNWy3KVc067j2aLqt3wp3) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [En la Meza una Flor](https://open.spotify.com/album/0zXKdGgyDm6gSdZiUPgagr) | 3:44 | 2024-01-26 |  |
 | [Estilo Especial \- En Vivo](https://open.spotify.com/track/5jSK8BMzUXMlcFCukMi7Wm) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Estilo Especial \(En Vivo\)](https://open.spotify.com/album/29FmR3eNWdNhR0Yw368j6W) | 4:07 | 2024-01-26 |  |
-| [Estilo Guzmán](https://open.spotify.com/track/1JGy92ftziV5hdHP0rwOwh) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Estilo Guzmán](https://open.spotify.com/album/4WfTUStZ0n7EgeqZrcIekI) | 2:51 | 2024-01-26 |  |
+| [Estilo Guzmán](https://open.spotify.com/track/1JGy92ftziV5hdHP0rwOwh) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Estilo Guzmán](https://open.spotify.com/album/4WfTUStZ0n7EgeqZrcIekI) | 2:51 | 2024-01-26 | 2024-01-31 |
 | [Fresas De La Capital](https://open.spotify.com/track/3HIL8kXH7d56lMcl9wEOpb) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew) | [Fresas De La Capital](https://open.spotify.com/album/6Zpv9HFhV78xWi58Gi3E8B) | 2:53 | 2024-01-26 |  |
 | [Fuga Del Jefe](https://open.spotify.com/track/3V6lLVVvLJKMqtGRsuSX6l) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Contrato A La Vida](https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD) | 2:43 | 2024-01-26 |  |
 | [Guerreros Aztecas](https://open.spotify.com/track/2BKTRdo32SFyNrDjcHgVFW) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Guerreros Aztecas](https://open.spotify.com/album/2C8J91k1UfZpeONBHE6UTi) | 3:53 | 2024-01-26 |  |
@@ -72,6 +72,7 @@
 | [Me Recordará El Cartel](https://open.spotify.com/track/3frGd9BgQSOrOg7ELtmIND) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [Markitos Toys](https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g) | [Me Recordará El Cartel](https://open.spotify.com/album/0y3JfPmBXObYNQdFA51wPt) | 3:41 | 2024-01-26 |  |
 | [Mood Malandro](https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Mood Malandro](https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr) | 3:11 | 2024-01-26 |  |
 | [Nene Zambada](https://open.spotify.com/track/3IVFOkEMepCHIAGnUjvWJg) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:03 | 2024-01-26 |  |
+| [Nuevo Mando](https://open.spotify.com/track/6jbk8wBRezS07OWr9IYjpv) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Nuevo Mando](https://open.spotify.com/album/4sTQdTXhs18gLhJxZOnYk2) | 2:36 | 2024-01-26 |  |
 | [Pixelados](https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 3:55 | 2024-01-26 |  |
 | [Por Clave Caiman](https://open.spotify.com/track/78CE12m0ygkEbWpTSNqLOM) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [Por Clave El Caiman](https://open.spotify.com/album/59a9ZTGGKzHDQND5K6g65g) | 2:38 | 2024-01-26 |  |
 | [Por La Baja Navegamos](https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [La Loteria](https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W) | 2:56 | 2024-01-26 |  |

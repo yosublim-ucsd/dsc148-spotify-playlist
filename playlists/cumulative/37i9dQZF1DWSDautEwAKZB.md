@@ -2,7 +2,7 @@
 
 ### [Spotify Singles: Latin](https://open.spotify.com/playlist/37i9dQZF1DWSDautEwAKZB)
 
-> Latin songs you love like you've never heard before\. Cover: Kevin Kaarl
+> Latin songs you love like you've never heard before\. Cover: Natanael Cano
 
 83 songs - 4 hr 46 min
 

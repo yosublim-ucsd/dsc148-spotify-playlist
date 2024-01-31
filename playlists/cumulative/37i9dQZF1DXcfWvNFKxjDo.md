@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: BENNETT, Indila
 
-752 songs - 1 day 10 hr 36 min
+753 songs - 1 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -759,6 +759,7 @@
 | [You Hate Me](https://open.spotify.com/track/2vzcp4Fr1IYkMFnyvCa5YS) | [Kate Linch](https://open.spotify.com/artist/3mNTiIjnKprYMSec0DaYvu), [FILV](https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0) | [You Hate Me](https://open.spotify.com/album/45m1ccAo7NyBmEWgvQvzA6) | 2:17 | 2024-01-18 | 2024-01-20 |
 | [Young & Foolish](https://open.spotify.com/track/3KtqBwqDbjxjXmJQ2gmtzW) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Young & Foolish](https://open.spotify.com/album/3t7ewN9SVxMCeXTZBvJoNR) | 2:36 | 2023-12-08 | 2023-12-30 |
 | [Young, Wild & Free](https://open.spotify.com/track/7Hs4pE0qAVak7p8BVboO33) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [AVA CROWN](https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC) | [Young, Wild & Free](https://open.spotify.com/album/3Si9ovQvvUzhRJwVSoFCpS) | 2:22 | 2023-12-14 | 2024-01-12 |
+| [Z0RNIG \[2O24\] – Niklas Dee & Berky Remix](https://open.spotify.com/track/78PEp6PRRLCCMlCVKjm7d9) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Berky](https://open.spotify.com/artist/2pMOrhY7Oit4TTRe6zEvJ2) | [Z0RNIG \[2O24\] – Niklas Dee & Berky Remix](https://open.spotify.com/album/1WsQTxbOfIZw8L4yrjgV8Q) | 2:20 | 2024-01-30 |  |
 | [Zombie](https://open.spotify.com/track/6gexNFJIyaeMuqOmpXmo7M) | [Masove](https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR), [Niteblue](https://open.spotify.com/artist/16LeQrs9jKCO8owOMQsJmM), [Milcon](https://open.spotify.com/artist/6YGG5WcDJgBcar9Ul3AlJk) | [Zombie](https://open.spotify.com/album/0TL2MTltCe5JiS5ZEiAJ1o) | 1:49 | 2023-12-29 | 2024-01-12 |
 
 \*This playlist was first scraped on 2023-09-07. Prior content cannot be recovered.

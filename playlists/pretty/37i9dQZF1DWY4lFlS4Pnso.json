@@ -1,12 +1,12 @@
 {
   "description": "The UK's biggest playlist. Cover: Sam Fender & Noah Kahan",
-  "num_followers": 3022632,
+  "num_followers": 3022644,
   "original_name": "Hot Hits UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzJlMjg5NDhmZDk0NjBiMGU4Njg4MDNiYjVhZDFhY2Q5ZWIyZDdh",
+  "snapshot_id": "MCw3MTc2NWJhOTYzMmIyMDE4OTllMWMxYjc4NzAwNWNhNDQzMDVlODc1",
   "tracks": [
     {
       "added_at": "2024-01-29 12:00:00",
@@ -1094,6 +1094,10 @@
         {
           "name": "Jozzy",
           "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        },
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
         }
       ],
       "duration_ms": 181545,

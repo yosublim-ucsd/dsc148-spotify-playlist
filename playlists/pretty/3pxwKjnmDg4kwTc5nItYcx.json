@@ -6,7 +6,7 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTczOCw1MWMxOTc2MDRlNzZiYTIwNGM2YjZiZDE3MDk1ZjE0NWE1Y2VkMjM0",
+  "snapshot_id": "MTczOSxiMmY1MzA0ODU4MTdjZGM1M2QzOWVkNjMyMDRlMjYxMDA1YjYxMmQ3",
   "tracks": [
     {
       "added_at": "2024-01-18 22:26:18",
@@ -219,6 +219,22 @@
       "duration_ms": 197976,
       "name": "American Town",
       "url": "https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6"
+    },
+    {
+      "added_at": "2024-01-31 00:11:38",
+      "album": {
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2023-11-10 05:49:03",

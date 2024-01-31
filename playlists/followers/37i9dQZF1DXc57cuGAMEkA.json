@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 101253,
+  "2024-01-31": 101257,
   "date_first_scraped": "2023-02-01",
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Justice & TAME IMPALA, Justin Timberlake, James Arthur, \u7dd1\u9ec4\u8272\u793e\u4f1a and more! Cover: Justice & TAME IMPALA",
   "name": "New Music Friday Japan",
@@ -26231,10 +26231,32 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 189636,
       "name": "Head Up",
       "url": "https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn"
+    },
+    {
+      "album": {
+        "name": "Head Up",
+        "url": "https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189636,
+      "name": "Head Up",
+      "url": "https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ"
     },
     {
       "album": {

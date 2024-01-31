@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Budjerah
 
-751 songs - 1 day 16 hr 26 min
+752 songs - 1 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -710,6 +710,7 @@
 | [Wait For Me](https://open.spotify.com/track/3UktGQO4TaIN3Jn7YtJoZr) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Wait For Me](https://open.spotify.com/album/4zqzaFoDBEm1iaM91taDCu) | 3:41 | 2020-02-21 | 2021-05-12 |
 | [Wait No More](https://open.spotify.com/track/6JeHBrY4VPxckc2bQQVY0T) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Wait No More](https://open.spotify.com/album/0iNBhGKXc162Mpn2eaBnD7) | 2:44 | 2020-05-29 | 2021-05-12 |
 | [Wake Me When It's Over](https://open.spotify.com/track/3uUuMn3IsBKJaOochRe8UR) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Wake Me When It's Over](https://open.spotify.com/album/68QQIttbWORtJ5qL8xbnnW) | 2:10 | 2020-04-03 | 2021-05-12 |
+| [Walk on By](https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Make Way for Dionne Warwick](https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr) | 2:58 | 2024-01-31 |  |
 | [Walking \(feat\. Swae Lee & Major Lazer\)](https://open.spotify.com/track/1qbXrxctv75pm1lWCn6Zw3) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Head In The Clouds II](https://open.spotify.com/album/7bOpX6Ilc9UCFmH9uGyUDy) | 2:47 | 2019-10-11 | 2020-05-19 |
 | [WALKING HOME IN THE RAIN](https://open.spotify.com/track/0BLIUPUMVrWbu7QtLWdeNn) | [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [I'M DOING IT](https://open.spotify.com/album/2wa7MjKQNL9TQX3GDMuG7t) | 2:43 | 2020-07-31 |  |
 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/1Qu24vc8msUVLcMZWa4k1x) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 4:07 | 2020-10-16 |  |

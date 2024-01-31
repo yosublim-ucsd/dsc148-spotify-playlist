@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Gusttavo Lima e Mari Fernandez, Leo Santana e Ludmilla, Duda Beat e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,906,901 likes - 95 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,906,897 likes - 95 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 94 | [Descaradamente \- Ao Vivo](https://open.spotify.com/track/32Ee0frAiZ0XTNiodyYLkN) | [Alexia Reis](https://open.spotify.com/artist/6rYmVcx0TKASZU6Tn3MgA3), [Workshow](https://open.spotify.com/artist/6YjAtmEF0HcwMnKYSHSDDJ) | [Descaradamente \(Ao Vivo\)](https://open.spotify.com/album/3f2wtfiIb7TfmHkxBHwjDU) | 2:41 |
 | 95 | [Lugar Igual não Há](https://open.spotify.com/track/5QnHR6Fe9rBbIkOY1X7QNE) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV) | [Kabeceira](https://open.spotify.com/album/06dM2WfSkGCsyJRfiX9T72) | 3:48 |
 
-Snapshot ID: `MCwzMWE5MzgyMGFkMDg1NzQzNzlkYjhlZGU0ZmUxNmUyYjdhN2M5MDYy`
+Snapshot ID: `MCwyMzkxYWUwZGRlM2E2MDMzNmU4N2NjNDg3YTJmNGFiN2E3NmY4Njk4`

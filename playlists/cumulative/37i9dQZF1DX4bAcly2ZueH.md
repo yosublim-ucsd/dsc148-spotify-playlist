@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-137 songs - 7 hr 15 min
+138 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [How You Been](https://open.spotify.com/track/0tSusFmbtXwd8VbrYq4CnG) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [How You Been](https://open.spotify.com/album/4YTl2R43JpQcrsmkXJNFjz) | 2:37 | 2023-09-26 | 2024-01-12 |
 | [How You Been](https://open.spotify.com/track/6dSa2i9AIEVT7JgFFAGCWi) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [How You Been](https://open.spotify.com/album/5DQzrFmc37ugVviEb4CX9C) | 2:37 | 2023-01-31 | 2023-10-15 |
 | [Human Related Accident](https://open.spotify.com/track/5Jn9SSRNuGR5Iqae5C0Gd7) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Chroma Velocity](https://open.spotify.com/album/2ywS0U93usdBb0nINkESoo) | 2:38 | 2022-10-11 |  |
+| [Husigina Ki](https://open.spotify.com/track/15KQSocfr0YVYoXwKJzOrH) | [Yassy](https://open.spotify.com/artist/0KTpJYwmBiu2Zbm6W4wiZH) | [Husigina Ki](https://open.spotify.com/album/2mdGuotPBacHnY8QqPTCbl) | 2:40 | 2024-01-30 |  |
 | [I Miss You](https://open.spotify.com/track/3ebNoTCPxye8un6NaRXk69) | [Katu](https://open.spotify.com/artist/6vOl41W4SQQDJaN381qzrR) | [I Miss You](https://open.spotify.com/album/0XwwbGbT2KM0p9MYbdKmnf) | 2:34 | 2022-10-11 |  |
 | [I'll Come Find You](https://open.spotify.com/track/3V1nJumPZoo10X5ngak4nz) | [Duumu](https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF) | [Dissociated](https://open.spotify.com/album/5xLRDCKx8oG8UwRejXGxpF) | 3:34 | 2023-06-06 |  |
 | [I'll Come Find You](https://open.spotify.com/track/6i0uNcIhVZRMKahUtkBqQH) | [Duumu](https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF) | [Dissociated EP](https://open.spotify.com/album/1wmHZvsUm09GfGvIIRQ3SZ) | 3:34 | 2022-10-11 | 2023-06-23 |
@@ -92,7 +93,7 @@
 | [Nude](https://open.spotify.com/track/62AVqsyuz1R8C9eh0uqm5B) | [Furns](https://open.spotify.com/artist/0I0pGHj36QgKwEck9Ijbiy) | [Nude](https://open.spotify.com/album/1Yfp4upzjyXY3VRIDELf43) | 4:16 | 2022-10-11 | 2022-11-10 |
 | [one hymn](https://open.spotify.com/track/5uJPjiuGC70uRlFyoYS5Af) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Light years \(THE NORTH FACE Sphere 2022 S/A\)](https://open.spotify.com/album/3AR39FZ5jLZJltCVdzQiXN) | 7:10 | 2022-10-11 | 2022-11-16 |
 | [outset](https://open.spotify.com/track/6ZpPt8jptwLcWmEmqQ95OO) | [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu), [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL) | [January](https://open.spotify.com/album/4lu9rOm32Ieevp1INYmzNQ) | 2:16 | 2022-10-11 |  |
-| [Paradise](https://open.spotify.com/track/4jNJlY21mAa7OBSvQ9iE89) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [Paradise](https://open.spotify.com/album/1HtWTbPU3YXQU7xxYqHIqK) | 3:09 | 2023-09-26 |  |
+| [Paradise](https://open.spotify.com/track/4jNJlY21mAa7OBSvQ9iE89) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [Paradise](https://open.spotify.com/album/1HtWTbPU3YXQU7xxYqHIqK) | 3:09 | 2023-09-26 | 2024-01-31 |
 | [Paradise](https://open.spotify.com/track/5waRnWPjrrRfUF2j0J0WLq) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [Paradise](https://open.spotify.com/album/4P7ZLYY4dnkwO98cNv426b) | 3:09 | 2022-10-11 | 2023-10-15 |
 | [Petals in a Breeze](https://open.spotify.com/track/3TtdSePGpXpmTQDTblgyrv) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [Novelletten \#1](https://open.spotify.com/album/4ARq7c6yR8tbXdKC3xm5dq) | 2:11 | 2022-10-11 |  |
 | [Pink scent](https://open.spotify.com/track/3CGwJYv15CGvWK0bF7YVDd) | [Mingeon Jang](https://open.spotify.com/artist/6JRh0BrOq2odFlhxULwk5F), [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Pink scent](https://open.spotify.com/album/0l30FzUlJTAztq8P5nFoOP) | 2:45 | 2023-11-14 |  |

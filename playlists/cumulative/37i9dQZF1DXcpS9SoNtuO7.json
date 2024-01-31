@@ -6087,6 +6087,24 @@
     },
     {
       "album": {
+        "name": "\u30a8\u30f3\u30d1\u30b7\u30a2",
+        "url": "https://open.spotify.com/album/5e0FBUwr1TNLyA2CyKQQzx"
+      },
+      "artists": [
+        {
+          "name": "CHiCO",
+          "url": "https://open.spotify.com/artist/7IV8K4vnEgJDGkfeyjjbWL"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267973,
+      "name": "\u30a8\u30f3\u30d1\u30b7\u30a2",
+      "url": "https://open.spotify.com/track/2UBdcJC3Ln67ne7cb7hrR3"
+    },
+    {
+      "album": {
         "name": "\u30a8\u30fc\u30b9",
         "url": "https://open.spotify.com/album/2Jpi5zf9OI76za4S136kvJ"
       },

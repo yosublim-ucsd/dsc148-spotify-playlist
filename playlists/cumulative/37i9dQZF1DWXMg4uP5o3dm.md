@@ -4,7 +4,7 @@
 
 > alternative meets electronic Cover: Layto
 
-288 songs - 15 hr 4 min
+289 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Dead](https://open.spotify.com/track/6O2QJqa6hgF0uzj9mcDq4p) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Dead](https://open.spotify.com/album/3hKxNaxs2oVPewk04LDuBI) | 2:37 | 2023-08-18 |  |
 | [Dead](https://open.spotify.com/track/6H3NSyefUL4tm6yvWuQ8FR) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Dead](https://open.spotify.com/album/6yhPN6jzku1HlV8rZF6oZb) | 3:30 | 2022-06-03 | 2022-07-28 |
 | [Dead To Me](https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dead To Me](https://open.spotify.com/album/0GgNNJPbQUpny8XErV9Vhw) | 2:33 | 2022-03-04 |  |
+| [deadly ever after](https://open.spotify.com/track/1sGT7SHoxtjk18oSNSItBq) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [the last laugh](https://open.spotify.com/album/2Ph3wOGu6UwYZz5UqicIHL) | 3:16 | 2024-01-19 |  |
 | [deadly ever after](https://open.spotify.com/track/49RVuMbXGzYwu7Q8Jec5Yw) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [deadly ever after](https://open.spotify.com/album/257JMntLr2vKOG3esYNkdK) | 3:16 | 2023-02-05 | 2024-01-19 |
 | [deadly ever after](https://open.spotify.com/track/6NzTKn3WXr8lX8nbjQ6EKz) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [deadly ever after](https://open.spotify.com/album/4enQcVUMRm6zWjYEJSwByi) | 3:16 | 2023-02-06 | 2023-03-18 |
 | [Deep End](https://open.spotify.com/track/25xNO6EC6RPmBpBZOblOOW) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Deep End](https://open.spotify.com/album/15GDnzPjBsyWwHvQDxUtD1) | 2:44 | 2024-01-19 |  |
@@ -227,7 +228,7 @@
 | [Return To Love](https://open.spotify.com/track/5gC2purkEbtC5AqOXC4fRi) | [Skellism](https://open.spotify.com/artist/2mxNzGDRK6oFFJN8CqBUNr), [KOU](https://open.spotify.com/artist/3JKyXLujejo7zdgLzdl2pR) | [Return To Love](https://open.spotify.com/album/2UOdn9i0WaSoq4XSDGSUgj) | 3:29 | 2021-11-12 | 2022-02-12 |
 | [Rich Girl](https://open.spotify.com/track/0ixGQPZSCRllfWBNrG2E31) | [Soulex](https://open.spotify.com/artist/0uGW3VhhBk9vTgOcJRkvsC) | [Rich Girl](https://open.spotify.com/album/4yqJZLW1d2RvtiwnhxsMVa) | 3:45 | 2020-10-02 | 2022-02-12 |
 | [Rocket On My Feet \- Remix](https://open.spotify.com/track/2FRPNemB4JGpbFrgboic91) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Rocket On My Feet \(Remix\)](https://open.spotify.com/album/4JLj98zpw1zg1zgeAtExJo) | 4:47 | 2022-06-17 | 2022-08-17 |
-| [RUN THRU ME](https://open.spotify.com/track/4ysb8MTFAVIDloHNX6l4jt) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [RUN THRU ME](https://open.spotify.com/album/2kUz84vIo4FczGj1UZ2pZe) | 2:57 | 2023-07-27 |  |
+| [RUN THRU ME](https://open.spotify.com/track/4ysb8MTFAVIDloHNX6l4jt) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [RUN THRU ME](https://open.spotify.com/album/2kUz84vIo4FczGj1UZ2pZe) | 2:57 | 2023-07-27 | 2024-01-31 |
 | [Running](https://open.spotify.com/track/5PtOXZFJyXnXwj6gQ0PsuV) | [Boon](https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7) | [Running](https://open.spotify.com/album/3JqEX8kWRDih4SJ2DZXHxg) | 2:53 | 2022-04-08 | 2022-07-28 |
 | [rusty](https://open.spotify.com/track/3ntxIRgurUskKaJ8F7jnXr) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [rusty](https://open.spotify.com/album/12sM1DPfzb1nmSAWVrUxsG) | 2:15 | 2024-01-19 |  |
 | [S.O.A.G.](https://open.spotify.com/track/7yBkmyHcSTEkauXdQotxMz) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [S.O.A.G.](https://open.spotify.com/album/5gKanMQhuEqZVJUmvQjEhZ) | 3:10 | 2022-03-15 | 2023-02-25 |

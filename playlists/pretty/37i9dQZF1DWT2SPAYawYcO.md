@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Kobie Dee
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,432 likes - 79 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,456 likes - 79 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 78 | [Bring That Back](https://open.spotify.com/track/0zoSIutqFnFhDuUVrkIG7X) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Bring That Back](https://open.spotify.com/album/4mdooGwGTnkUJT01QY5K8L) | 3:08 |
 | 79 | [Paradise](https://open.spotify.com/track/21S1YmXsz3OUVclC7cFf8C) | [DARTZ](https://open.spotify.com/artist/0ekrcj2YAoYh52dJzcvKJi) | [Paradise](https://open.spotify.com/album/3EgAfBMX6F9XRbrUdQz6m8) | 3:35 |
 
-Snapshot ID: `MCw2NjM2OWM2NTJlMDcxMzdhZjM3NTUzNTNlYzllNjcyZjY0YzA3ZjEz`
+Snapshot ID: `MCxkOGUwM2U5YTUxYzY2N2EzZmRhZWEyMDA3OGQwZTFkOWQ0MDI2NzA0`

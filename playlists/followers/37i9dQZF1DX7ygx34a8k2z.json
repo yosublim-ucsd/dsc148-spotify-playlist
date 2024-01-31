@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 201687,
+  "2024-01-31": 201785,
   "date_first_scraped": "2022-03-18",
   "description": "dig through the record bin w/ tour mates <a href=\"https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74?si=c1be7e2940d844f0\">Liz Phair</a> and <a href=\"https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij?si=YxaujGp8SUiTnZgRi5epLw\">Blondshell</a>, who highlight some of their favorites.",
   "name": "Thrifted",
@@ -1731,7 +1731,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 144400,
       "name": "I Am A Scientist",
       "url": "https://open.spotify.com/track/0oN2fJx5t5BzkKQQiojHrr"
@@ -3533,7 +3533,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 226600,
       "name": "Soul And Fire",
       "url": "https://open.spotify.com/track/72WzLBoSQggMZ0S5hm95VH"

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,963 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,002 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7) | 3:09 |
 | 2 | [Inténtalo \(feat\. América Sierra & El Bebeto\)](https://open.spotify.com/track/61aPpbJMAD5BjWkiHeX9R6) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Inténtalo \(Deluxe Edition\)](https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4) | 3:13 |
 | 3 | [Toco el Cielo](https://open.spotify.com/track/2aq9MMe06Uw0v76iaCRceg) | [Manco the Sound](https://open.spotify.com/artist/2orC1t4J80YDSFYtZ7DIPI), [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt) | [Toco el Cielo](https://open.spotify.com/album/2jWj6KsoXN1R3gRPjcuYzT) | 5:17 |
-| 4 | [La Cumbia Tribalera \(feat\. Edwin Luna y La Trakalosa de Monterrey & Grupo Violento\)](https://open.spotify.com/track/6A96JQxi0ajdhp9941F2de) | [El Pelón del Mikrophone](https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Grupo Violento](https://open.spotify.com/artist/4sGrnZLg0bsXP5TzRp4Dom) | [Los Reyes del Tribal](https://open.spotify.com/album/7aZA6VrLLeLQUNge1y0BuF) | 3:40 |
-| 5 | [Tus Besos](https://open.spotify.com/track/1wbIYS28OVIKPPhgqJ2bFn) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd), [Cuvan](https://open.spotify.com/artist/600tEotuBvksb03YwjVkX0), [Aneth](https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7) | [Tus Besos](https://open.spotify.com/album/5eUI4VKc1cHEMTuIOBM2kg) | 3:00 |
+| 4 | [Tus Besos](https://open.spotify.com/track/1wbIYS28OVIKPPhgqJ2bFn) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd), [Cuvan](https://open.spotify.com/artist/600tEotuBvksb03YwjVkX0), [Aneth](https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7) | [Tus Besos](https://open.spotify.com/album/5eUI4VKc1cHEMTuIOBM2kg) | 3:00 |
+| 5 | [La Cumbia Tribalera \(feat\. Edwin Luna y La Trakalosa de Monterrey & Grupo Violento\)](https://open.spotify.com/track/6A96JQxi0ajdhp9941F2de) | [El Pelón del Mikrophone](https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Grupo Violento](https://open.spotify.com/artist/4sGrnZLg0bsXP5TzRp4Dom) | [Los Reyes del Tribal](https://open.spotify.com/album/7aZA6VrLLeLQUNge1y0BuF) | 3:40 |
 | 6 | [Si Me Tocan Esta Play, Si Bailo \- Guaracha, Aleteo, Zapateo, Tribal, House](https://open.spotify.com/track/1em725YNxISJ79QoT5ruUE) | [J\-Alex Stylee](https://open.spotify.com/artist/2LAyRJWNuuNRbok5t3K70i) | [Si Me Tocan Esta Play, Si Bailo \(Guaracha, Aleteo, Zapateo, Tribal, House\)](https://open.spotify.com/album/0jK7zKpYPn2TcudoAvylOd) | 3:14 |
 | 7 | [Siento](https://open.spotify.com/track/3YKPuIxSWF3wwBXpyezDW7) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Siento](https://open.spotify.com/album/2buLINyvSP9CBHWvkpHusG) | 3:18 |
 | 8 | [Saxofon](https://open.spotify.com/track/7srKZVPwjXOy1ukLyVtaAL) | [Gio Silva](https://open.spotify.com/artist/1AiJaYXwfdIDA97ytcuWkm) | [Saxofon](https://open.spotify.com/album/33u5LeinGWjWbGi690XPLm) | 4:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 49 | [Brindemos Por Ellas](https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Baby Joss](https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn) | [Brindemos Por Ellas](https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs) | 3:28 |
 | 50 | [Mueve Tu Caderita](https://open.spotify.com/track/7E6SsIPD1wn0SZsm4CxJhr) | [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN) | [Las Más Picudas del Tribal](https://open.spotify.com/album/4X8TwSLAqP8J60F0wXfYOA) | 3:12 |
 
-Snapshot ID: `MCw3NWYxZTQxMGE1Mjg1MWM3M2Q3N2Q4Yzg0ZTA2N2JhYTYxOTJiYmI4`
+Snapshot ID: `MCw1MDA5M2Y1ZmQ5OWYxMjI3ZDBhZjI1YmQ2ODMzMTAzZDkwNzJlNWRl`

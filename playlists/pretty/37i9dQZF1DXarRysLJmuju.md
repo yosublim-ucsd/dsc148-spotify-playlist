@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest pop hits in one playlist\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,963 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,925 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 |
 | 100 | [another soul](https://open.spotify.com/track/0Yos7Ql3MvIXE56swDiInZ) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [the tears we fight EP](https://open.spotify.com/album/1IO5EbKNw91tCMIb3LdRze) | 2:57 |
 
-Snapshot ID: `MCwyNjhjYzUxYTM4ZDRkOWIwNzY5OTRmZmZjZDFiZTBlMDIyMmY2MWMy`
+Snapshot ID: `MCw4NGRmMTk2NDdlMDQzNjAyY2NmYTYzZmZiODc0OTIxN2MzZTE2MzU0`

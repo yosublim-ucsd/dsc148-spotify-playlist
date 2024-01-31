@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 129377,
+  "num_followers": 129405,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTVkZjRmNGJkNGJkOWE0MjJlZmZmMGUxYTViZjNhN2UzZmIzZjdi",
+  "snapshot_id": "MCw2OGFiYzNiYWM3NWQ5ZTM0YmJiOTgxM2E1ODMwMjRkZTZjYzkzZjlm",
   "tracks": [
     {
       "added_at": "2023-06-19 13:01:14",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Nature Hideout",
-        "url": "https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6"
-      },
-      "artists": [
-        {
-          "name": "mahogany",
-          "url": "https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Nature Night-time",
-      "url": "https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "Thunderstorms vol II",
         "url": "https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg"
       },
@@ -315,18 +299,18 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Rain Awakening",
-        "url": "https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc"
+        "name": "Nature Hideout",
+        "url": "https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6"
       },
       "artists": [
         {
-          "name": "Natural Awakening",
-          "url": "https://open.spotify.com/artist/0c854X9smbUIbXTJLLdya3"
+          "name": "mahogany",
+          "url": "https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Bird Chatter In Rainforest",
-      "url": "https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF"
+      "duration_ms": 192000,
+      "name": "Nature Night-time",
+      "url": "https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -347,6 +331,22 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
+        "name": "Rain Awakening",
+        "url": "https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc"
+      },
+      "artists": [
+        {
+          "name": "Natural Awakening",
+          "url": "https://open.spotify.com/artist/0c854X9smbUIbXTJLLdya3"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Bird Chatter In Rainforest",
+      "url": "https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
         "name": "Rainmaker",
         "url": "https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5"
       },
@@ -359,6 +359,22 @@
       "duration_ms": 230983,
       "name": "Rain Forest Meditation",
       "url": "https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Suburban Forest Rain",
+        "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
+      },
+      "artists": [
+        {
+          "name": "Aquagirl",
+          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Suburban Forest Rain 2",
+      "url": "https://open.spotify.com/track/0rtT2DmXIcwqpcXVrX6C7V"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -423,22 +439,6 @@
       "duration_ms": 183028,
       "name": "Distant Thunder in the East of the City",
       "url": "https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
-        "name": "Suburban Forest Rain",
-        "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
-      },
-      "artists": [
-        {
-          "name": "Aquagirl",
-          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Suburban Forest Rain 1",
-      "url": "https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
+        "name": "Suburban Forest Rain",
+        "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
+      },
+      "artists": [
+        {
+          "name": "Aquagirl",
+          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Suburban Forest Rain 1",
+      "url": "https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
         "name": "Light Forest Rain",
         "url": "https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 146000,
       "name": "Light Forest Rain 1",
       "url": "https://open.spotify.com/track/14oV03JSrcUShNmJw0qUvH"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
-        "name": "Suburban Forest Rain",
-        "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
-      },
-      "artists": [
-        {
-          "name": "Aquagirl",
-          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Suburban Forest Rain 2",
-      "url": "https://open.spotify.com/track/0rtT2DmXIcwqpcXVrX6C7V"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
+        "name": "Light Forest Rain",
+        "url": "https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey"
+      },
+      "artists": [
+        {
+          "name": "Smoothe Sounds",
+          "url": "https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Light Forest Rain Long",
+      "url": "https://open.spotify.com/track/3TOdrkKf8QAZhIdpmU6ebO"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
         "name": "Nature",
         "url": "https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ"
       },
@@ -667,18 +683,18 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Light Forest Rain",
-        "url": "https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey"
+        "name": "Soothing Birdsong by the River",
+        "url": "https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf"
       },
       "artists": [
         {
-          "name": "Smoothe Sounds",
-          "url": "https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN"
+          "name": "El Naturel",
+          "url": "https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX"
         }
       ],
-      "duration_ms": 258000,
-      "name": "Light Forest Rain Long",
-      "url": "https://open.spotify.com/track/3TOdrkKf8QAZhIdpmU6ebO"
+      "duration_ms": 184186,
+      "name": "Soothing Birdsong by the River",
+      "url": "https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -695,22 +711,6 @@
       "duration_ms": 145500,
       "name": "Soul Healing Birds",
       "url": "https://open.spotify.com/track/2xDAhRpg274IdUlSwrUKeG"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
-        "name": "Soothing Birdsong by the River",
-        "url": "https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf"
-      },
-      "artists": [
-        {
-          "name": "El Naturel",
-          "url": "https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX"
-        }
-      ],
-      "duration_ms": 184186,
-      "name": "Soothing Birdsong by the River",
-      "url": "https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1"
     },
     {
       "added_at": "2023-06-19 13:01:14",

@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 446609,
+  "2024-01-31": 446754,
   "date_first_scraped": "2022-01-21",
   "description": "Canciones con la adrenalina necesaria para dar esa milla extra.",
   "name": "Corre con Rock",
@@ -1529,7 +1529,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 255373,
       "name": "Otherside",
       "url": "https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P"
@@ -1911,6 +1911,24 @@
       "duration_ms": 196250,
       "name": "Somebody Told Me",
       "url": "https://open.spotify.com/track/2t6hKG0Zr3tfxBVQRfa9Zs"
+    },
+    {
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197200,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Oppidan",
-  "num_followers": 464847,
+  "num_followers": 464950,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTRhM2Q0ZjMyOGI5ZWExNWNmMDExNGQ1ZmY2MjVmMWFkODFlYTYw",
+  "snapshot_id": "MCwyOTkwYmIyNjliMzk5Yzk0ZWZkODc5YmFiZTEyMDliOThjOTBlZTMw",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "One Night/All Night | Generator",
-        "url": "https://open.spotify.com/album/7wnTMEroi4M4hofOhMO5Ys"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        }
-      ],
-      "duration_ms": 282746,
-      "name": "Generator",
-      "url": "https://open.spotify.com/track/4ZVTe0Pn5sjcFu71Oel0i0"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Derni\u00e8re danse (Techno Mix)",
         "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 197142,
       "name": "Derni\u00e8re danse - Techno Mix",
       "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "One Night/All Night | Generator",
+        "url": "https://open.spotify.com/album/7wnTMEroi4M4hofOhMO5Ys"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "duration_ms": 282746,
+      "name": "Generator",
+      "url": "https://open.spotify.com/track/4ZVTe0Pn5sjcFu71Oel0i0"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Sail Away (feat. Laura Brehm)",
-        "url": "https://open.spotify.com/album/0ePoBRHuZ055Sy40GNgE6i"
-      },
-      "artists": [
-        {
-          "name": "TheFatRat",
-          "url": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4"
-        },
-        {
-          "name": "Laura Brehm",
-          "url": "https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt"
-        }
-      ],
-      "duration_ms": 156321,
-      "name": "Sail Away (feat. Laura Brehm)",
-      "url": "https://open.spotify.com/track/5nZ3fj5icOnJhmVsvGSqVL"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Delete Our Love",
         "url": "https://open.spotify.com/album/7g5GmifykucoqzWJMOeOlO"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 171379,
       "name": "Delete Our Love",
       "url": "https://open.spotify.com/track/2TiEo6WY5sIh2pEgUzgLsG"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Sail Away (feat. Laura Brehm)",
+        "url": "https://open.spotify.com/album/0ePoBRHuZ055Sy40GNgE6i"
+      },
+      "artists": [
+        {
+          "name": "TheFatRat",
+          "url": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4"
+        },
+        {
+          "name": "Laura Brehm",
+          "url": "https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt"
+        }
+      ],
+      "duration_ms": 156321,
+      "name": "Sail Away (feat. Laura Brehm)",
+      "url": "https://open.spotify.com/track/5nZ3fj5icOnJhmVsvGSqVL"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -763,26 +763,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/1dLN65huLLcvL8Vjq9QyAK"
-      },
-      "artists": [
-        {
-          "name": "Rinzen",
-          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 341409,
-      "name": "Burnin'",
-      "url": "https://open.spotify.com/track/2OwotsG0NuhOapwalJtqMV"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Ice Moon",
         "url": "https://open.spotify.com/album/4ZFwY8augL822xcvrf0LL2"
       },
@@ -807,22 +787,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Will You Remember Me? (YOTTO vs. Anden)",
-        "url": "https://open.spotify.com/album/4fZ5FOgPaTPErFFMFQwbhN"
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/1dLN65huLLcvL8Vjq9QyAK"
       },
       "artists": [
         {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "Rinzen",
+          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
         },
         {
-          "name": "Anden",
-          "url": "https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 227427,
-      "name": "Will You Remember Me? - (YOTTO vs. Anden)",
-      "url": "https://open.spotify.com/track/3qRBvlbLv3ZCwQ9rVa7VyW"
+      "duration_ms": 341409,
+      "name": "Burnin'",
+      "url": "https://open.spotify.com/track/2OwotsG0NuhOapwalJtqMV"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -851,22 +831,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Enemy",
-        "url": "https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF"
+        "name": "Will You Remember Me? (YOTTO vs. Anden)",
+        "url": "https://open.spotify.com/album/4fZ5FOgPaTPErFFMFQwbhN"
       },
       "artists": [
         {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
         },
         {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+          "name": "Anden",
+          "url": "https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF"
         }
       ],
-      "duration_ms": 211428,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
+      "duration_ms": 227427,
+      "name": "Will You Remember Me? - (YOTTO vs. Anden)",
+      "url": "https://open.spotify.com/track/3qRBvlbLv3ZCwQ9rVa7VyW"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -883,6 +863,26 @@
       "duration_ms": 229024,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/6b57FDNY52AlFJa81vTijE"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Feedback",
-        "url": "https://open.spotify.com/album/4HBmxwMuOrLBuyQjrS9FxB"
-      },
-      "artists": [
-        {
-          "name": "Amtrac",
-          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
-        }
-      ],
-      "duration_ms": 358000,
-      "name": "Feedback",
-      "url": "https://open.spotify.com/track/4Io7rS6x4YWYK99UdnBFkc"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Never Ever Ever (feat. shiv)",
         "url": "https://open.spotify.com/album/31lcP0CvJaiFST2fvuyuOH"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 189270,
       "name": "Never Ever Ever (feat. shiv)",
       "url": "https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Feedback",
+        "url": "https://open.spotify.com/album/4HBmxwMuOrLBuyQjrS9FxB"
+      },
+      "artists": [
+        {
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "duration_ms": 358000,
+      "name": "Feedback",
+      "url": "https://open.spotify.com/track/4Io7rS6x4YWYK99UdnBFkc"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Ninacamina",
-        "url": "https://open.spotify.com/album/3ZbOtABntVluWh1wtzmGMv"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        },
-        {
-          "name": "Izzy Camina",
-          "url": "https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u"
-        }
-      ],
-      "duration_ms": 187494,
-      "name": "Ninacamina",
-      "url": "https://open.spotify.com/track/7mnnneke9KNVkwjPmMB7EY"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/0UBMDH6SZpQCvGq42yjRtp"
       },
@@ -1171,38 +1151,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Hot Night",
-        "url": "https://open.spotify.com/album/1TsV2l0AtV32o8nQCjsnlv"
+        "name": "Ninacamina",
+        "url": "https://open.spotify.com/album/3ZbOtABntVluWh1wtzmGMv"
       },
       "artists": [
         {
-          "name": "Durante",
-          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
         },
         {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
+          "name": "Izzy Camina",
+          "url": "https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u"
         }
       ],
-      "duration_ms": 238987,
-      "name": "Hot Night",
-      "url": "https://open.spotify.com/track/5xcmBLG9VO1ILZtUjNP4q8"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Can't Remember Your Name",
-        "url": "https://open.spotify.com/album/4acktAl1ephbc4wc0ZAo0W"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Can't Remember Your Name",
-      "url": "https://open.spotify.com/track/2P6Eu9dx7ryxq83ZHd1zUE"
+      "duration_ms": 187494,
+      "name": "Ninacamina",
+      "url": "https://open.spotify.com/track/7mnnneke9KNVkwjPmMB7EY"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1227,6 +1191,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Can't Remember Your Name",
+        "url": "https://open.spotify.com/album/4acktAl1ephbc4wc0ZAo0W"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Can't Remember Your Name",
+      "url": "https://open.spotify.com/track/2P6Eu9dx7ryxq83ZHd1zUE"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "The Pulse EP",
         "url": "https://open.spotify.com/album/02rzwl7dvPAlo4j6JYcLGE"
       },
@@ -1243,6 +1223,62 @@
       "duration_ms": 184347,
       "name": "The Pulse",
       "url": "https://open.spotify.com/track/3HRd57TYoNsRHXUkduSy3w"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Hot Night",
+        "url": "https://open.spotify.com/album/1TsV2l0AtV32o8nQCjsnlv"
+      },
+      "artists": [
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        },
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
+        }
+      ],
+      "duration_ms": 238987,
+      "name": "Hot Night",
+      "url": "https://open.spotify.com/track/5xcmBLG9VO1ILZtUjNP4q8"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/6WAuwYAOQ8BiormDkcZ0pW"
+      },
+      "artists": [
+        {
+          "name": "Galoski",
+          "url": "https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB"
+        },
+        {
+          "name": "YAKSA",
+          "url": "https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR"
+        }
+      ],
+      "duration_ms": 153705,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/5yQy36RGCL7OJcklGrME9X"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/2qfoZjWQfXkFml3ZgwkID0"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "duration_ms": 202202,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/54vzUEcuM3CmIVnrBiYABn"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1279,42 +1315,6 @@
       "duration_ms": 147310,
       "name": "Pocket Change",
       "url": "https://open.spotify.com/track/2Y5SakTfLyezs5dBElmc78"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/2qfoZjWQfXkFml3ZgwkID0"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 202202,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/54vzUEcuM3CmIVnrBiYABn"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/6WAuwYAOQ8BiormDkcZ0pW"
-      },
-      "artists": [
-        {
-          "name": "Galoski",
-          "url": "https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB"
-        },
-        {
-          "name": "YAKSA",
-          "url": "https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR"
-        }
-      ],
-      "duration_ms": 153705,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/5yQy36RGCL7OJcklGrME9X"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Heart Pure",
-        "url": "https://open.spotify.com/album/3hUqT3TR7Mt1u94BJ4S1nN"
-      },
-      "artists": [
-        {
-          "name": "Grigor\u00e9",
-          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
-        }
-      ],
-      "duration_ms": 342580,
-      "name": "Heart Pure",
-      "url": "https://open.spotify.com/track/0sauXyaZFx80Jn9brSqqW1"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Lean Into The Sunshine",
         "url": "https://open.spotify.com/album/7rgSE69LAmqzt5kCYj7C1k"
       },
@@ -1543,38 +1527,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Come With Me",
-        "url": "https://open.spotify.com/album/6Rt6Pr5mP5Sou3SjPcvSL3"
+        "name": "Heart Pure",
+        "url": "https://open.spotify.com/album/3hUqT3TR7Mt1u94BJ4S1nN"
       },
       "artists": [
         {
-          "name": "Grum",
-          "url": "https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ"
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
         }
       ],
-      "duration_ms": 286773,
-      "name": "Come With Me",
-      "url": "https://open.spotify.com/track/7q0IexvcnRg9vR9z56CEp1"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "What Do You Want",
-        "url": "https://open.spotify.com/album/0TdUKu8MVbIYVykduz6CNc"
-      },
-      "artists": [
-        {
-          "name": "Honey & Badger",
-          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
-        },
-        {
-          "name": "Haylee Wood",
-          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "What Do You Want",
-      "url": "https://open.spotify.com/track/4FPJskFFWE4uYsK9rw7uFI"
+      "duration_ms": 342580,
+      "name": "Heart Pure",
+      "url": "https://open.spotify.com/track/0sauXyaZFx80Jn9brSqqW1"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1599,22 +1563,38 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Shiver (ABSOLUTE.'s Massive Organ Remix)",
-        "url": "https://open.spotify.com/album/1xphyeSmjAYweaQX28VTif"
+        "name": "What Do You Want",
+        "url": "https://open.spotify.com/album/0TdUKu8MVbIYVykduz6CNc"
       },
       "artists": [
         {
-          "name": "Fever Ray",
-          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+          "name": "Honey & Badger",
+          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
         },
         {
-          "name": "ABSOLUTE.",
-          "url": "https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h"
+          "name": "Haylee Wood",
+          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
         }
       ],
-      "duration_ms": 417474,
-      "name": "Shiver - ABSOLUTE.'s Massive Organ Remix",
-      "url": "https://open.spotify.com/track/7iDfa7kYvJ4xr4VRtkSObL"
+      "duration_ms": 180480,
+      "name": "What Do You Want",
+      "url": "https://open.spotify.com/track/4FPJskFFWE4uYsK9rw7uFI"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Come With Me",
+        "url": "https://open.spotify.com/album/6Rt6Pr5mP5Sou3SjPcvSL3"
+      },
+      "artists": [
+        {
+          "name": "Grum",
+          "url": "https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ"
+        }
+      ],
+      "duration_ms": 286773,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/7q0IexvcnRg9vR9z56CEp1"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1631,22 +1611,6 @@
       "duration_ms": 241418,
       "name": "Poison Of Choice",
       "url": "https://open.spotify.com/track/72zZ2KOn7JbTFsALUmhpt0"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Stabbing",
-        "url": "https://open.spotify.com/album/3KP5JK9Riqrclze7nHMm3p"
-      },
-      "artists": [
-        {
-          "name": "Spartaque",
-          "url": "https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB"
-        }
-      ],
-      "duration_ms": 289130,
-      "name": "Stabbing",
-      "url": "https://open.spotify.com/track/11HNHTJMORdbZM5JimuXoz"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1671,22 +1635,38 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Flutes of Gold",
-        "url": "https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD"
+        "name": "Shiver (ABSOLUTE.'s Massive Organ Remix)",
+        "url": "https://open.spotify.com/album/1xphyeSmjAYweaQX28VTif"
       },
       "artists": [
         {
-          "name": "Felipe Gordon",
-          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
         },
         {
-          "name": "Toro Moratto",
-          "url": "https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H"
+          "name": "ABSOLUTE.",
+          "url": "https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h"
         }
       ],
-      "duration_ms": 422278,
-      "name": "Flutes of Gold",
-      "url": "https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M"
+      "duration_ms": 417474,
+      "name": "Shiver - ABSOLUTE.'s Massive Organ Remix",
+      "url": "https://open.spotify.com/track/7iDfa7kYvJ4xr4VRtkSObL"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Stabbing",
+        "url": "https://open.spotify.com/album/3KP5JK9Riqrclze7nHMm3p"
+      },
+      "artists": [
+        {
+          "name": "Spartaque",
+          "url": "https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB"
+        }
+      ],
+      "duration_ms": 289130,
+      "name": "Stabbing",
+      "url": "https://open.spotify.com/track/11HNHTJMORdbZM5JimuXoz"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1707,6 +1687,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Flutes of Gold",
+        "url": "https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD"
+      },
+      "artists": [
+        {
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+        },
+        {
+          "name": "Toro Moratto",
+          "url": "https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H"
+        }
+      ],
+      "duration_ms": 422278,
+      "name": "Flutes of Gold",
+      "url": "https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Make It Work",
         "url": "https://open.spotify.com/album/1E52hut27anq4lpUI3Tjmd"
       },
@@ -1719,42 +1719,6 @@
       "duration_ms": 187472,
       "name": "Make It Work",
       "url": "https://open.spotify.com/track/5j2WkmIgSmaggh5tBzAA5g"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Mind Reader",
-        "url": "https://open.spotify.com/album/2R2xDJEyMniiZjQZ2unXEG"
-      },
-      "artists": [
-        {
-          "name": "Cakes da Killa",
-          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
-        },
-        {
-          "name": "STOUT",
-          "url": "https://open.spotify.com/artist/7n7OpW30m3JZKuJFD3pAjJ"
-        }
-      ],
-      "duration_ms": 191219,
-      "name": "Mind Reader",
-      "url": "https://open.spotify.com/track/5hPW7gPqe5y7HGCSfdiqD8"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Getting Older",
-        "url": "https://open.spotify.com/album/6e9a2tACPvAZDYAQS5jXPP"
-      },
-      "artists": [
-        {
-          "name": "coldbrew",
-          "url": "https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK"
-        }
-      ],
-      "duration_ms": 114285,
-      "name": "Getting Older",
-      "url": "https://open.spotify.com/track/1CSWPbVOQx9a1ny7HjBLEg"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1779,6 +1743,42 @@
       "duration_ms": 190595,
       "name": "Enemy - VIP Mix",
       "url": "https://open.spotify.com/track/6S2joFuNc26Oj9e5XqMNI6"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Getting Older",
+        "url": "https://open.spotify.com/album/6e9a2tACPvAZDYAQS5jXPP"
+      },
+      "artists": [
+        {
+          "name": "coldbrew",
+          "url": "https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK"
+        }
+      ],
+      "duration_ms": 114285,
+      "name": "Getting Older",
+      "url": "https://open.spotify.com/track/1CSWPbVOQx9a1ny7HjBLEg"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Mind Reader",
+        "url": "https://open.spotify.com/album/2R2xDJEyMniiZjQZ2unXEG"
+      },
+      "artists": [
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        },
+        {
+          "name": "STOUT",
+          "url": "https://open.spotify.com/artist/7n7OpW30m3JZKuJFD3pAjJ"
+        }
+      ],
+      "duration_ms": 191219,
+      "name": "Mind Reader",
+      "url": "https://open.spotify.com/track/5hPW7gPqe5y7HGCSfdiqD8"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "See Me EP",
+        "url": "https://open.spotify.com/album/2LKaLlnCurUGKaPxIXAH20"
+      },
+      "artists": [
+        {
+          "name": "Mona Yim",
+          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
+        }
+      ],
+      "duration_ms": 231923,
+      "name": "See Me",
+      "url": "https://open.spotify.com/track/3KT4X8XBbjjrcgWERsFGMo"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "In Your Arms",
         "url": "https://open.spotify.com/album/3IVaKDPsMSeZ0DfRjftt0b"
       },
@@ -1887,18 +1903,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "See Me EP",
-        "url": "https://open.spotify.com/album/2LKaLlnCurUGKaPxIXAH20"
+        "name": "Double Rainbow",
+        "url": "https://open.spotify.com/album/3yjGKTCxPkrOhv7MbRZh7s"
       },
       "artists": [
         {
-          "name": "Mona Yim",
-          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
+          "name": "PPJ",
+          "url": "https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi"
         }
       ],
-      "duration_ms": 231923,
-      "name": "See Me",
-      "url": "https://open.spotify.com/track/3KT4X8XBbjjrcgWERsFGMo"
+      "duration_ms": 297218,
+      "name": "Double Rainbow",
+      "url": "https://open.spotify.com/track/2xOD6I2RoOJqHZc0r2XUXX"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1915,22 +1931,6 @@
       "duration_ms": 293866,
       "name": "Wipe Your Tears",
       "url": "https://open.spotify.com/track/7qJkJQ7YRxPJwHJabyAohr"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Double Rainbow",
-        "url": "https://open.spotify.com/album/3yjGKTCxPkrOhv7MbRZh7s"
-      },
-      "artists": [
-        {
-          "name": "PPJ",
-          "url": "https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi"
-        }
-      ],
-      "duration_ms": 297218,
-      "name": "Double Rainbow",
-      "url": "https://open.spotify.com/track/2xOD6I2RoOJqHZc0r2XUXX"
     },
     {
       "added_at": "2024-01-26 05:00:00",

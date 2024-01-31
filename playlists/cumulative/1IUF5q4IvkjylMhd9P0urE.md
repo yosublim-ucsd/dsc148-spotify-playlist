@@ -4,7 +4,7 @@
 
 > Our favourite new music, updated monthly by the XL team.
 
-510 songs - 1 day 5 hr 34 min
+511 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Freewaves](https://open.spotify.com/track/2xfV7BVKkf8rsTa7DsTE5x) | [Hook](https://open.spotify.com/artist/4d3vpAm6F40YCwlQt1FYn8), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [SELFISH](https://open.spotify.com/album/2L09x3vqgcozmqERsa3mNM) | 2:40 | 2023-05-23 | 2023-08-04 |
 | [Fresh](https://open.spotify.com/track/7GqdJV2Fpi6IeUZxwpzxXs) | [Kat7](https://open.spotify.com/artist/4mZOCsz0Ht9nn6oKVdf2ej) | [Fresh](https://open.spotify.com/album/5gGNVklcB6tlIhD0CssGxA) | 4:30 | 2023-05-23 | 2023-08-04 |
 | [Fresh Out The Bank \(feat\. Dave\)](https://open.spotify.com/track/6MmnTuOVSGCcW0qX20nvIv) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Respect The Come Up](https://open.spotify.com/album/1MLRMDDQlOdUPBUcpc7XmB) | 4:15 | 2023-01-18 | 2023-04-14 |
+| [Friend Of A Friend](https://open.spotify.com/track/4lTLmo9aTyMJ1SoHa63WA6) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 4:35 | 2024-01-30 |  |
 | [Friendly](https://open.spotify.com/track/4ikACoSiRRLZo6gX5JnRjV) | [Slew](https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3) | [Face Value](https://open.spotify.com/album/3cSSOPFzD1Bo12hWXWjRGf) | 2:11 | 2023-12-07 |  |
 | [Friendly Reccomendations](https://open.spotify.com/track/4zjFwOpeseDEg4gX8HqPgM) | [Jumping Back Slash](https://open.spotify.com/artist/5CGv0g2VrlDjaWbZCspOz8), [BŪJIN](https://open.spotify.com/artist/1Li4AeVdyUrd5ltRTzfWED) | [A Seat In Heaven](https://open.spotify.com/album/69h1yr9souD6QamJXV65r4) | 3:41 | 2024-01-29 |  |
 | [FUCK IT](https://open.spotify.com/track/5VMFAX8s0ykRmKRKaF1Oso) | [Benny Mails](https://open.spotify.com/artist/0XzjmqIqvTnie7suxhyFC1), [Cesta](https://open.spotify.com/artist/3bQAu72QBnkmp1I7EzyNco), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [FUCK IT](https://open.spotify.com/album/6QItnbHQCYQy9wTHWN9dHR) | 3:27 | 2023-04-13 | 2023-08-04 |
@@ -385,7 +386,7 @@
 | [Rasta](https://open.spotify.com/track/1BXuekBuG8sIz1OwL8XhD0) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Rasta](https://open.spotify.com/album/1ZEgRS3jgYyQWQMlPsPSSD) | 2:15 | 2023-03-15 | 2023-07-04 |
 | [RATATA](https://open.spotify.com/track/3ve4pnOXb2zDM3oBSq7nA9) | [Baby Cocada](https://open.spotify.com/artist/2f2EmidwEUgacBJfs5QqkZ), [Fran Marco](https://open.spotify.com/artist/73a3g4dfuq0CM3VlNNhh8v), [Sacrifice.Rosse](https://open.spotify.com/artist/6fPoTt1lbihQTxz3Hr9BIK) | [RATATA](https://open.spotify.com/album/2diqa73F7SBZbIPynCm4lc) | 3:06 | 2023-03-15 | 2023-07-04 |
 | [Raving in Our Bedroom](https://open.spotify.com/track/74vx0XYxKHf5A7WVQ13r5I) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw), [Tropics](https://open.spotify.com/artist/0d00ssafltw8HYv2zxe4fD) | [Raving in Our Bedroom](https://open.spotify.com/album/57MZvXN5BlHRiKNaX2DBN6) | 4:46 | 2024-01-29 |  |
-| [Read The Room](https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 5:14 | 2024-01-29 |  |
+| [Read The Room](https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 5:14 | 2024-01-29 | 2024-01-31 |
 | [Real](https://open.spotify.com/track/7cIjKWHZvMaDFmSUaUdN7W) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [6.9.4.2](https://open.spotify.com/album/5o1xMeUQ9cLNq9rX5ftrrx) | 2:20 | 2023-07-03 | 2023-12-08 |
 | [Really Real](https://open.spotify.com/track/4mzfN9vHWbbVO1CumRQdxI) | [Albertina](https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq) | [Really Real](https://open.spotify.com/album/18VbkNuzEv15xEKN6T1V3C) | 3:52 | 2022-10-10 | 2022-12-20 |
 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 | 2023-04-13 |  |

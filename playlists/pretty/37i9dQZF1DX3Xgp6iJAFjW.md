@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,916 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,914 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,13 +66,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 56 | [Arbolito](https://open.spotify.com/track/0tCZl9jBqwfqo2n9s1qbAI) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Navidad en Borínquen](https://open.spotify.com/album/4aepF49pb9dljNnzXgisO0) | 4:43 |
 | 57 | [Navidad para el pueblo](https://open.spotify.com/track/0NMKMatww8aQFrGTI88QOa) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Toño en America](https://open.spotify.com/album/3vBuyDnFfXcMORQsi1yMJe) | 4:19 |
 | 58 | [La Parranda](https://open.spotify.com/track/5Ptl9drhVZS14XStUwxvtf) | [Danny Rivera](https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL) | [20 Exitos Navideños](https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1) | 4:20 |
-| 59 | [Alegre Vengo Cantando](https://open.spotify.com/track/1RoUwy8Rfsp0SPaddPUmBu) | [José Nogueras](https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Versos de Nuestra Cultura](https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK) | 3:50 |
-| 60 | [La Clave](https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Clave](https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S) | 2:17 |
-| 61 | [El 5 de Enero](https://open.spotify.com/track/0wA1WkJouLmvBG9eIYaVrP) | [La Nueva Patrulla 15](https://open.spotify.com/artist/7vLJ6OLd5o3zCoUpSguI3d) | [Navidad a Lo Boricua](https://open.spotify.com/album/5wfv8V9nRCajVyBNKXp0nM) | 4:00 |
+| 59 | [La Clave](https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Clave](https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S) | 2:17 |
+| 60 | [Alegre Vengo Cantando](https://open.spotify.com/track/1RoUwy8Rfsp0SPaddPUmBu) | [José Nogueras](https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Versos de Nuestra Cultura](https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK) | 3:50 |
+| 61 | [Navidad Con Mi Gente](https://open.spotify.com/track/4wHHRsP2Ifxnj0AhsjEyNQ) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Navidad Con Mi Gente](https://open.spotify.com/album/0hnilJiSbfzm9EoTgeZQjl) | 3:45 |
 | 62 | [Me Quede Puyu](https://open.spotify.com/track/01W0fOluLxLPivIUbOtGWr) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Me Quede Puyu](https://open.spotify.com/album/5LIWtFgFrFZNf0girb1SSx) | 4:35 |
-| 63 | [Navidad Con Mi Gente](https://open.spotify.com/track/4wHHRsP2Ifxnj0AhsjEyNQ) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Navidad Con Mi Gente](https://open.spotify.com/album/0hnilJiSbfzm9EoTgeZQjl) | 3:45 |
-| 64 | [Llegó Tu Marido \(Version Navidad\)](https://open.spotify.com/track/042FMCMJQviVQQ1oYBIdVb) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Fiesta en Navidad, Vol\. 2 \(39 Éxitos\)](https://open.spotify.com/album/2KU53YYpSADLNINuYxGqfG) | 5:11 |
-| 65 | [Dame la mano paloma](https://open.spotify.com/track/2s1vPf9pwdF6HApyRAna2J) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [El burrito de belen / Dame la mano paloma](https://open.spotify.com/album/1S4fT6NsFY4AzFViDpg69w) | 3:39 |
+| 63 | [El 5 de Enero](https://open.spotify.com/track/0wA1WkJouLmvBG9eIYaVrP) | [La Nueva Patrulla 15](https://open.spotify.com/artist/7vLJ6OLd5o3zCoUpSguI3d) | [Navidad a Lo Boricua](https://open.spotify.com/album/5wfv8V9nRCajVyBNKXp0nM) | 4:00 |
+| 64 | [Dame la mano paloma](https://open.spotify.com/track/2s1vPf9pwdF6HApyRAna2J) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [El burrito de belen / Dame la mano paloma](https://open.spotify.com/album/1S4fT6NsFY4AzFViDpg69w) | 3:39 |
+| 65 | [Llegó Tu Marido \(Version Navidad\)](https://open.spotify.com/track/042FMCMJQviVQQ1oYBIdVb) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Fiesta en Navidad, Vol\. 2 \(39 Éxitos\)](https://open.spotify.com/album/2KU53YYpSADLNINuYxGqfG) | 5:11 |
 | 66 | [No Se Acaba Na' Mix: No Se Acaba Na' / Para Estar De Fiesta / Ya Viene La Nochebuena \- De Navidad](https://open.spotify.com/track/60VHGVgXcbFleSAxUeNMLq) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [No Se Acaba Na' Mix: No Se Acaba Na' / Para Estar De Fiesta / Ya Viene La Nochebuena \(De Navidad\)](https://open.spotify.com/album/1NF6nTsGudRHJLxRd9V3pW) | 4:41 |
 | 67 | [Amerindio](https://open.spotify.com/track/6OOGXA7qm09X3PKrptesLB) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 1](https://open.spotify.com/album/6yGR9lJFtZACoDo4haXjMq) | 2:53 |
 | 68 | [Trulla Pa' Ti](https://open.spotify.com/track/5JYJ7UuEoLnTZBtKKXRVN8) | [Danny Rivera](https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL) | [20 Exitos Navideños](https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 99 | [Hay Mucha Alegria](https://open.spotify.com/track/3sWxMI7ptGU5eq5ptxqrh1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 6:02 |
 | 100 | [Aguinaldo Navideño](https://open.spotify.com/track/3rFwtBGwM0kxJKGfh5TmXt) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Diciembre Colombiano](https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa) | 4:13 |
 
-Snapshot ID: `MCw2ZTcxMDI4NWI4NTFhNTgyYjY1MmRmMGFiYzQwNmI1YjA0ZDQ3NTEx`
+Snapshot ID: `MCwyYzNlYTQwNWYwNGFjZDI3ZDA0NGE4MmYxMTNhYjAwYjE1ZDVmNmFm`

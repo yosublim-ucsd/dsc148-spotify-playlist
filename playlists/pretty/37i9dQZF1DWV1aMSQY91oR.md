@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Ice Spice 💨
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,640 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,658 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 24 | [Standin' On Bidness!](https://open.spotify.com/track/7dioIGShUMZ1bouCeA1lda) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Standin' On Bidness!](https://open.spotify.com/album/6CLwYkdSCzSjxm3CELa3KW) | 2:11 |
 | 25 | [Backfade](https://open.spotify.com/track/2YhAHYPw2b064A4Bd4Lu7x) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll) | [Paisley Dreams](https://open.spotify.com/album/5U8WARPHV0d1VlCBVD50zS) | 2:28 |
 | 26 | [Hero](https://open.spotify.com/track/2Ffk1ykh4yfruyAtmv3l12) | [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA), [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO) | [Richmond Hill](https://open.spotify.com/album/4LBpILPiB0gp6GTdTVeF3V) | 2:48 |
-| 27 | [2011](https://open.spotify.com/track/0n7mUH2Yx5mrUW2NvCBcTD) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [The Patience \(Deluxe Edition\)](https://open.spotify.com/album/1QEyTusbAcW5xMGGvWQkyC) | 2:50 |
+| 27 | [2011 \(feat\. Venna\)](https://open.spotify.com/track/0n7mUH2Yx5mrUW2NvCBcTD) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Patience \(Deluxe Edition\)](https://open.spotify.com/album/1QEyTusbAcW5xMGGvWQkyC) | 2:50 |
 | 28 | [Blue Porsche \(feat\. Niska\)](https://open.spotify.com/track/3gOVMei7c4BD6oIfed24dc) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Blue Porsche \(feat\. Niska\)](https://open.spotify.com/album/3cawKdKtM97thqBmQBuAnN) | 3:06 |
 | 29 | [Blick \(feat\. NLE Choppa\) \- Remix](https://open.spotify.com/track/6W5l0WMb1BTvUsYmVfywco) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Blick \(feat\. NLE Choppa\) \[Remix\]](https://open.spotify.com/album/4luQV28tZT0RsxoXgboGnc) | 3:08 |
 | 30 | [Nothing Better Than \(TRUE\)](https://open.spotify.com/track/3sc8ssEGuHALQ8aOaRSgvS) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Nothing Better Than \(TRUE\)](https://open.spotify.com/album/1K5Kgv3ebMHMOKyskx1pCC) | 3:36 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [Only Real](https://open.spotify.com/track/4LWW14lPMoe8EzdlVNquDM) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [Penthouse](https://open.spotify.com/album/7rkyW7jlyubisbtYDA6faY) | 2:35 |
 | 49 | [Potential \- Lolo Zouaï Remix](https://open.spotify.com/track/3R4mUtY9p1yl5YHomb9ix4) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Potential \(Lolo Zouaï Remix\)](https://open.spotify.com/album/6R1g40C2TPZnNx1JyuTBnM) | 2:03 |
 
-Snapshot ID: `MCw2NTI4ZTkwMzAzZmY1YTllZDlhZmUzMWRmYjE0MDkzNmFkYzQwNGE2`
+Snapshot ID: `MCxmM2U1ZDQzZjhjYjM5Yzk2NDdmODI4MDNkYmM3N2ZlM2MzNjkzY2Q4`

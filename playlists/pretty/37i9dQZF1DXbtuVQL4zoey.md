@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Beach vibes and summer jams only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,066 likes - 241 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,078 likes - 241 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -250,4 +250,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 240 | [Vacation](https://open.spotify.com/track/3SPpqRQdEQAywU8fRKrWqx) | [franz.](https://open.spotify.com/artist/2iNqhG5SC3ZAG6KpHM3HIk) | [Vacation](https://open.spotify.com/album/6vokRNRSXc9420XmveNnHP) | 2:57 |
 | 241 | [pinecone](https://open.spotify.com/track/0Ef6Q0Cav49AL4xhPlXSZg) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/2ASnBB18wyCJJnk0NIlM0p) | 1:55 |
 
-Snapshot ID: `MCw0ZmRhOWVhMGQwZTc3YzAzYmFhYWNhOGM5NDE4ZTJkOTExZjFlYTA3`
+Snapshot ID: `MCxmOWMxMzkwNTQ0ZTBhN2YyYjg0YWIzZmFiZTdkYTQzYmM0ZTRhMTYy`

@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 1145929,
+  "2024-01-31": 1145887,
   "date_first_scraped": "2022-07-24",
   "description": "\u00a1A calentar garganta!",
   "name": "La Cantina",
@@ -559,7 +559,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 228506,
       "name": "Caballero",
       "url": "https://open.spotify.com/track/5DL6BDuqhnQw8HfIvUYkm9"
@@ -2897,7 +2897,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 186933,
       "name": "Seremos",
       "url": "https://open.spotify.com/track/1ea25iz3zE8aLnbSZ5ZR92"

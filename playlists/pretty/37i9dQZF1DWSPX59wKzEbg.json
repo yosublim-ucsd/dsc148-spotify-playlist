@@ -1,12 +1,12 @@
 {
   "description": "A festive mix of Christmas carols and classical crossover favorites, perfect for spending time with family this holiday season. Cover: The Bocellis",
-  "num_followers": 27518,
+  "num_followers": 27513,
   "original_name": "Home for the Holidays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTkzMzQxNDIxOGFhZjIyYTAyNzNlNDViYTgyNmFkYzFiMWZjYjQw",
+  "snapshot_id": "MCxkMWMwOWI4MDE0YjhjMjk3MzEyZGRjZjU2N2UyNmYyOTFkMDhhMDRj",
   "tracks": [
     {
       "added_at": "2023-12-15 10:06:24",
@@ -167,10 +167,14 @@
     {
       "added_at": "2023-12-15 10:06:24",
       "album": {
-        "name": "Winter Magic (International Version)",
-        "url": "https://open.spotify.com/album/18sVMzXtBh24lXpj7rQ3Pz"
+        "name": "Classical Christmas Music",
+        "url": "https://open.spotify.com/album/2kgeSamd3cuGJpO2TsMMbE"
       },
       "artists": [
+        {
+          "name": "Mykola Dmytrovych Leontovych",
+          "url": "https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF"
+        },
         {
           "name": "Hayley Westenra",
           "url": "https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6"
@@ -180,9 +184,9 @@
           "url": "https://open.spotify.com/artist/0IDCYTiXoyA9Qh5fpiWTGT"
         }
       ],
-      "duration_ms": 180880,
+      "duration_ms": 179313,
       "name": "Carol Of The Bells",
-      "url": "https://open.spotify.com/track/1d2rtQn8I5EOHe9t0OD3QX"
+      "url": "https://open.spotify.com/track/1JjCNNVVl8UX8gojY70J0f"
     },
     {
       "added_at": "2023-12-15 10:06:24",
@@ -331,10 +335,18 @@
     {
       "added_at": "2023-12-15 10:06:24",
       "album": {
-        "name": "Winter Magic (International Version)",
-        "url": "https://open.spotify.com/album/18sVMzXtBh24lXpj7rQ3Pz"
+        "name": "Music for Christmas Day",
+        "url": "https://open.spotify.com/album/2J6wkw78U2hLAgcZGJU30w"
       },
       "artists": [
+        {
+          "name": "Mitchell Parish",
+          "url": "https://open.spotify.com/artist/46d292pKNk3zreGHQf9H30"
+        },
+        {
+          "name": "Leroy Anderson",
+          "url": "https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX"
+        },
         {
           "name": "Hayley Westenra",
           "url": "https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6"
@@ -346,7 +358,7 @@
       ],
       "duration_ms": 192533,
       "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/3G6FCZpvoYtHW10NVdxKUt"
+      "url": "https://open.spotify.com/track/6XzVBeIbc7hjXU4XoDhjgC"
     },
     {
       "added_at": "2023-12-15 10:06:24",

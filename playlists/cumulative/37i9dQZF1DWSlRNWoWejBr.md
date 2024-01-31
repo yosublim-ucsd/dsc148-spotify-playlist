@@ -4,7 +4,7 @@
 
 > ou vc dança ou o grave t balança
 
-147 songs - 6 hr 15 min
+148 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Mega do Akon](https://open.spotify.com/track/48a10s0prwFVvEbGWdVhi7) | [DJ Jonatas Felipe](https://open.spotify.com/artist/22NFWM3F5kyI8KsRZVCSRr), [DogBeat](https://open.spotify.com/artist/6QshhXyQBLzoTMIfN5UZLI) | [Mega do Akon](https://open.spotify.com/album/6sLUkJ8lvG5naRIOOF0TJC) | 2:25 | 2023-10-06 |  |
 | [MEGA FUNK \(MARIA MARIAH\) \- DJ Ryder Remix](https://open.spotify.com/track/37Sefc4QQlymwpkn3EuAmI) | [DIQUIO](https://open.spotify.com/artist/4bM9L0VHyz6WgMgOcMyxYz), [DJ Ryder](https://open.spotify.com/artist/5YumCDj6lKjjgfUUz4Bm5K) | [MEGA FUNK \(MARIA MARIAH\) \[DJ Ryder Remix\]](https://open.spotify.com/album/4tJTClj5yXFgYEC9ZoyEEc) | 2:24 | 2024-01-26 |  |
 | [MEGA FUNK LOST](https://open.spotify.com/track/4kF6c7oMaNnkTlVTPvpipy) | [DJ Maninho](https://open.spotify.com/artist/4XZR4NawJ2XBNzaINpqrI5), [DJ Dudu](https://open.spotify.com/artist/2kge0I5DHgUgkmFXRey3iw) | [MEGA FUNK LOST](https://open.spotify.com/album/5QuEEXjrT3chFSBnsRlsCS) | 2:41 | 2023-10-24 | 2023-11-11 |
-| [Mega Funk Lost](https://open.spotify.com/track/1dNaW9Zy3lSgwylHwR75Ro) | [DJ Maninho](https://open.spotify.com/artist/4XZR4NawJ2XBNzaINpqrI5), [Dj Dudu](https://open.spotify.com/artist/55s1nOqpHGET1gHUReBJZh), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Mega Funk Lost](https://open.spotify.com/album/7z1fRz5wZLxWpxmsFRWa3A) | 2:41 | 2023-11-08 |  |
+| [Mega Funk Lost](https://open.spotify.com/track/1dNaW9Zy3lSgwylHwR75Ro) | [DJ Maninho](https://open.spotify.com/artist/4XZR4NawJ2XBNzaINpqrI5), [Dj Dudu](https://open.spotify.com/artist/55s1nOqpHGET1gHUReBJZh), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Mega Funk Lost](https://open.spotify.com/album/7z1fRz5wZLxWpxmsFRWa3A) | 2:41 | 2023-11-08 | 2024-01-31 |
+| [Mega Funk Lost](https://open.spotify.com/track/1xWnRVOZiVLkSIJbNRfiy8) | [DJ Maninho](https://open.spotify.com/artist/4XZR4NawJ2XBNzaINpqrI5), [Dj Dudu](https://open.spotify.com/artist/55s1nOqpHGET1gHUReBJZh), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Mega Funk Lost](https://open.spotify.com/album/42UgjLpkcOAF4emPZMmuw5) | 2:41 | 2024-01-29 |  |
 | [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO), [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 | 2023-10-06 |  |
 | [MEU PILOTO DE FUGA](https://open.spotify.com/track/6T9TULKFZrTMqSlphJeq45) | [SO ELETROFUNK BOM](https://open.spotify.com/artist/51YTokYMt4tkeMnHVeD2sf) | [MEU PILOTO DE FUGA](https://open.spotify.com/album/37HMTx6rNqEVivgC4PFmEe) | 2:19 | 2023-10-24 | 2023-11-07 |
 | [MEU PILOTO DE FUGA ELETROFUNK](https://open.spotify.com/track/4yWoDut24GNWsA8A0yWefc) | [SO ELETROFUNK BOM](https://open.spotify.com/artist/51YTokYMt4tkeMnHVeD2sf), [GABRIEL APGO](https://open.spotify.com/artist/0vFr9eIywFwrm2UnYZO2QG) | [ELETROFUNK](https://open.spotify.com/album/2LcCnMtsbkavtp840DP8Hh) | 2:19 | 2023-11-08 | 2023-11-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 147831,
+  "num_followers": 147872,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjNhZTc2ZThkYzIwODkyZjQwOThmODJlMDJiOTUyMjBiZjY2ZDYz",
+  "snapshot_id": "MCxjOGRkNWYyYzRmNDQwYzA1MzQ1YzkwYjE0NzMxY2IxY2M2NDBjOThm",
   "tracks": [
     {
       "added_at": "2023-12-04 19:43:02",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-12-04 19:43:02",
       "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/2GcGH4Ad6HLvI8Vr1Pu54K"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        }
+      ],
+      "duration_ms": 266057,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/7rPaFoaK4CjcFujFhIWMcO"
+    },
+    {
+      "added_at": "2023-12-04 19:43:02",
+      "album": {
         "name": "Party All the Time (feat. Kay)",
         "url": "https://open.spotify.com/album/026MiiWON7Aei7MKzxCKGC"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 266929,
       "name": "Party All the Time (feat. Kay)",
       "url": "https://open.spotify.com/track/7xN6f50e0ZdiDehWaVFeZ2"
-    },
-    {
-      "added_at": "2023-12-04 19:43:02",
-      "album": {
-        "name": "Talk To Me",
-        "url": "https://open.spotify.com/album/2GcGH4Ad6HLvI8Vr1Pu54K"
-      },
-      "artists": [
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        }
-      ],
-      "duration_ms": 266057,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/7rPaFoaK4CjcFujFhIWMcO"
     },
     {
       "added_at": "2023-12-04 19:43:02",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-12-04 19:43:02",
       "album": {
+        "name": "Bad Gyalz",
+        "url": "https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 159299,
+      "name": "Bad Gyalz",
+      "url": "https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv"
+    },
+    {
+      "added_at": "2023-12-04 19:43:02",
+      "album": {
         "name": "Diamond Therapy",
         "url": "https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 199472,
       "name": "Diamond Therapy",
       "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
-    },
-    {
-      "added_at": "2023-12-04 19:43:02",
-      "album": {
-        "name": "Bad Gyalz",
-        "url": "https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 159299,
-      "name": "Bad Gyalz",
-      "url": "https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv"
     },
     {
       "added_at": "2023-12-04 19:43:02",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-12-04 19:43:02",
       "album": {
-        "name": "Lazers Not Included",
-        "url": "https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB"
-      },
-      "artists": [
-        {
-          "name": "Wilkinson",
-          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
-        }
-      ],
-      "duration_ms": 287241,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/2rnDPE04mBt78lfmp9JNDP"
-    },
-    {
-      "added_at": "2023-12-04 19:43:02",
-      "album": {
         "name": "Drops Remixes",
         "url": "https://open.spotify.com/album/6WkDq5hrKzwxDY4fdgjFEq"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 262628,
       "name": "Drops - Kanine Remix",
       "url": "https://open.spotify.com/track/3okcBYUuR2VRbygL9kYb5k"
+    },
+    {
+      "added_at": "2023-12-04 19:43:02",
+      "album": {
+        "name": "Lazers Not Included",
+        "url": "https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        }
+      ],
+      "duration_ms": 287241,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/2rnDPE04mBt78lfmp9JNDP"
     },
     {
       "added_at": "2023-12-04 19:43:02",
@@ -1547,22 +1547,22 @@
     {
       "added_at": "2023-12-04 19:43:02",
       "album": {
-        "name": "Blinded By The Lights 23",
-        "url": "https://open.spotify.com/album/4RKZ3J38GOtJ76Br91HkwZ"
+        "name": "Pictures In My Head",
+        "url": "https://open.spotify.com/album/2Tz3N0ksvhYiVu6qcgW4wm"
       },
       "artists": [
         {
-          "name": "Mixtress",
-          "url": "https://open.spotify.com/artist/1Eviv9wjS232W0w0Sqy7Il"
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
         },
         {
-          "name": "Pete Cannon",
-          "url": "https://open.spotify.com/artist/61S6bNsMZYtmojqjL43MkA"
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Blinded By The Lights 23",
-      "url": "https://open.spotify.com/track/7qSeLqSb07k8qtL8LfMokD"
+      "duration_ms": 258703,
+      "name": "Pictures In My Head - High Contrast Remix",
+      "url": "https://open.spotify.com/track/4nTWlJcs3S1cxnXTTnWu2n"
     }
   ],
   "unique_name": "Proper Naughty ",

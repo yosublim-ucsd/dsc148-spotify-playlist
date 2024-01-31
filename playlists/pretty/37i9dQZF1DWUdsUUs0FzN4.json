@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Bellakath en portada ",
-  "num_followers": 17319,
+  "num_followers": 17343,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTY2NTJlZTZmNjRjNjcyNDczYTZhZDRiNjNmMmU5MjdjY2I3NmE4",
+  "snapshot_id": "MCw0Y2E3MWMyOGZlMjAzZDQ4NGU5MTIzZjg4Y2Y5ZTcyODk5YWUwOTQx",
   "tracks": [
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "Tiempos de Plan B",
+        "url": "https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb"
+      },
+      "artists": [
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "duration_ms": 161287,
+      "name": "Tiempos de Plan B",
+      "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "La B Es de Bellaka",
         "url": "https://open.spotify.com/album/0cd0WR5vvoleRlvjdygUrs"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 146328,
       "name": "La B Es de Bellaka",
       "url": "https://open.spotify.com/track/0ArhUN6zFdmFn5l7q6CO23"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "Tiempos de Plan B",
-        "url": "https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb"
-      },
-      "artists": [
-        {
-          "name": "Maldy",
-          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
-        }
-      ],
-      "duration_ms": 161287,
-      "name": "Tiempos de Plan B",
-      "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1911,30 +1911,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Chakalona",
-        "url": "https://open.spotify.com/album/67EjstfrVdX0ogEFfsYSFi"
-      },
-      "artists": [
-        {
-          "name": "De la Rosa Mx",
-          "url": "https://open.spotify.com/artist/5vqTcQeQsS5ypqWxufGUOo"
-        },
-        {
-          "name": "Flowker Slick",
-          "url": "https://open.spotify.com/artist/08Jl77YAzZDOfkM3OY4OrN"
-        },
-        {
-          "name": "DimeloooLexx",
-          "url": "https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO"
-        }
-      ],
-      "duration_ms": 168769,
-      "name": "Chakalona",
-      "url": "https://open.spotify.com/track/6LxKefLfvUJQ4gDifOmajM"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Chakaleo",
         "url": "https://open.spotify.com/album/1AFiAS14jLq3BE4xXJ16zz"
       },
@@ -1955,6 +1931,30 @@
       "duration_ms": 183331,
       "name": "Chakaleo",
       "url": "https://open.spotify.com/track/6cfFlDz8iGUVedHJLZjbXI"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Chakalona",
+        "url": "https://open.spotify.com/album/67EjstfrVdX0ogEFfsYSFi"
+      },
+      "artists": [
+        {
+          "name": "De la Rosa Mx",
+          "url": "https://open.spotify.com/artist/5vqTcQeQsS5ypqWxufGUOo"
+        },
+        {
+          "name": "Flowker Slick",
+          "url": "https://open.spotify.com/artist/08Jl77YAzZDOfkM3OY4OrN"
+        },
+        {
+          "name": "DimeloooLexx",
+          "url": "https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO"
+        }
+      ],
+      "duration_ms": 168769,
+      "name": "Chakalona",
+      "url": "https://open.spotify.com/track/6LxKefLfvUJQ4gDifOmajM"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -2079,6 +2079,26 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "El Bellako",
+        "url": "https://open.spotify.com/album/1jTPG5Ta9ynl446ZzOhuEq"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "A la pared",
+      "url": "https://open.spotify.com/track/0RXGUnF9cCVn4w6n9lc6rP"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "Puta Rara, Puta Dominicana",
         "url": "https://open.spotify.com/album/2xqmPcHXQztVVlb3hoFRmB"
       },
@@ -2099,26 +2119,6 @@
       "duration_ms": 140643,
       "name": "Puta Rara, Puta Dominicana",
       "url": "https://open.spotify.com/track/7K4GdyNrfmE4QmEsDE5Xwi"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "El Bellako",
-        "url": "https://open.spotify.com/album/1jTPG5Ta9ynl446ZzOhuEq"
-      },
-      "artists": [
-        {
-          "name": "Dan Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "A la pared",
-      "url": "https://open.spotify.com/track/0RXGUnF9cCVn4w6n9lc6rP"
     },
     {
       "added_at": "2024-01-26 06:00:00",

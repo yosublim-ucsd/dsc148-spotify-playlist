@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Skepta\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,612 likes - 95 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,586 likes - 95 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 24 | [Paper Right](https://open.spotify.com/track/0Kf0XFiNQF9poPU5fElDYK) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [Paper Right](https://open.spotify.com/album/2krzaPYb1lDEb6vkCa3UGq) | 3:12 |
 | 25 | [HAHAHA](https://open.spotify.com/track/73cnzXHK8i4WC5Pw0ZIZ2F) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [Penith \(The DAVE Soundtrack\)](https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe) | 4:03 |
 | 26 | [Rich & Reckless](https://open.spotify.com/track/0VdN5UU7UT2tzaXJfbcvlV) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Famous Dex](https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Rich & Reckless](https://open.spotify.com/album/4rUiYXutkIFPbCr8H8ELoJ) | 2:14 |
-| 27 | [2011](https://open.spotify.com/track/0n7mUH2Yx5mrUW2NvCBcTD) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [The Patience \(Deluxe Edition\)](https://open.spotify.com/album/1QEyTusbAcW5xMGGvWQkyC) | 2:50 |
+| 27 | [2011 \(feat\. Venna\)](https://open.spotify.com/track/0n7mUH2Yx5mrUW2NvCBcTD) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Patience \(Deluxe Edition\)](https://open.spotify.com/album/1QEyTusbAcW5xMGGvWQkyC) | 2:50 |
 | 28 | [Wassam Baby \(with Lil Wayne\)](https://open.spotify.com/track/5ezBNotZ831KDvrtVtn1nI) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Wassam Baby \(with Lil Wayne\)](https://open.spotify.com/album/00rvII5QFDSrmuBFYISwjF) | 2:13 |
 | 29 | [Ilusi](https://open.spotify.com/track/59oww27UjSq32K256OhePE) | [Ben Utomo](https://open.spotify.com/artist/2w1klrlMW8RqL6YLOy0OKs) | [23: The Playlist](https://open.spotify.com/album/0n2KnnQbP46IHeosdBwfIC) | 2:19 |
 | 30 | [NOROSHI](https://open.spotify.com/track/53DggQCoS5Xz3NAKHPFUrP) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [NOROSHI](https://open.spotify.com/album/7yF0rRaa3R1001cBP9Bm6K) | 3:32 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 94 | [Long Story Short \(with Lil Wayne\)](https://open.spotify.com/track/2jmdxJ60YfV3fVemuLz7pD) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Long Story Short](https://open.spotify.com/album/5Nzk5vGBrgjl9Ll8vk8m2q) | 3:30 |
 | 95 | [Screen Time \(Feat\. Hoshi of SEVENTEEN\)](https://open.spotify.com/track/4yorFTfi9Tay8tG0NNK7vB) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Screen Time](https://open.spotify.com/album/5E5xpayOlNMK28OxS7deDq) | 3:53 |
 
-Snapshot ID: `MCxlYWQ4MDg5MDczZjQ3OTYzNzg4ODJkMWFlNDQ5MzZlYTU3ZjdmZjVi`
+Snapshot ID: `MCw5OTk2MmFjNjQ5YzY5NDk2NjQ3Mjg5MmQ5OGU5ZGIxZWJiNzFjODAz`

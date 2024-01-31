@@ -1,12 +1,12 @@
 {
   "description": "Songs so beautiful, made for the night",
-  "num_followers": 44648,
+  "num_followers": 44766,
   "original_name": "The Most Beautiful Songs of the Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTBmZDFkZThkN2VmZjU1MWI3OTA5MzQ2YjFjZDUwYTFjNWE0Nzhi",
+  "snapshot_id": "MCwxZDEwMTBkMDYwZTZiZjM5NzczMDBhNDBkMGQ3M2Q5OWM3ZGY0YzA4",
   "tracks": [
     {
       "added_at": "2023-10-17 15:29:37",
@@ -22,6 +22,10 @@
         {
           "name": "Jozzy",
           "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        },
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
         }
       ],
       "duration_ms": 181545,

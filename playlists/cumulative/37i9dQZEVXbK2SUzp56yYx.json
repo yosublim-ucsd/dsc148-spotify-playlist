@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 213933,
       "name": "Formidable",
       "url": "https://open.spotify.com/track/382n05RtneO3ykQlFQrAd1"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 109767,
       "name": "FREETATO",
       "url": "https://open.spotify.com/track/3nTrjR697Wt8FVLEIZqwiO"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 191478,
       "name": "GEORGIAN DISCO",
       "url": "https://open.spotify.com/track/5H4ad8yhr4ksStGoGnFc3t"
@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "I Wouldn't Mind (Sped Up)",
+        "url": "https://open.spotify.com/album/219eYIAsXXSxfvAs78ot6Y"
+      },
+      "artists": [
+        {
+          "name": "He Is We",
+          "url": "https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169541,
+      "name": "I Wouldn't Mind - Sped Up",
+      "url": "https://open.spotify.com/track/7LMvwcBObTDW6h05HXG0S2"
+    },
+    {
+      "album": {
         "name": "Life Is Killing Me",
         "url": "https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC"
       },
@@ -254,7 +272,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 380240,
       "name": "IYDKMIGTHTKY (Gimme That)",
       "url": "https://open.spotify.com/track/16m8dqnXoAmu40eCp1BESe"
@@ -276,10 +294,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 103486,
       "name": "Jeff the Killer",
       "url": "https://open.spotify.com/track/24T8LnTIZGiWplQIj6sFg6"
+    },
+    {
+      "album": {
+        "name": "LIKE A",
+        "url": "https://open.spotify.com/album/0x5aDGl3YQyMKQsrYsR3ra"
+      },
+      "artists": [
+        {
+          "name": "requi3m",
+          "url": "https://open.spotify.com/artist/1dzhL0wTs2Skw8ZI6IuiMl"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100000,
+      "name": "LIKE A",
+      "url": "https://open.spotify.com/track/5odP9Z1HPvEC7gutN55Nto"
     },
     {
       "album": {
@@ -320,6 +356,24 @@
     {
       "album": {
         "name": "MOVE YO BODY (sped up)",
+        "url": "https://open.spotify.com/album/6nS9EjRDVbygYUcBQppALL"
+      },
+      "artists": [
+        {
+          "name": "Bryansanon",
+          "url": "https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117603,
+      "name": "MOVE YO BODY (sped up)",
+      "url": "https://open.spotify.com/track/062UdtCYGxKMR2ihegtZUU"
+    },
+    {
+      "album": {
+        "name": "MOVE YO BODY (sped up)",
         "url": "https://open.spotify.com/album/0HLkU4vM6OC799fhrQaf3P"
       },
       "artists": [
@@ -330,7 +384,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 117603,
       "name": "MOVE YO BODY - sped up",
       "url": "https://open.spotify.com/track/1Z3egeO5qIoHXN5BkZgIlu"
@@ -352,6 +406,28 @@
       "duration_ms": 230013,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
+    },
+    {
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143718,
+      "name": "n.h.i.e.",
+      "url": "https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W"
     },
     {
       "album": {
@@ -413,6 +489,32 @@
     },
     {
       "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220584,
+      "name": "n\u00e9e-nah",
+      "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
+    },
+    {
+      "album": {
         "name": "Perfect (Exceeder)",
         "url": "https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U"
       },
@@ -461,6 +563,24 @@
     },
     {
       "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "album": {
         "name": "Silent In Loss",
         "url": "https://open.spotify.com/album/2F2c4vpHnQRzh7WKbOLiIK"
       },
@@ -472,7 +592,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 111445,
       "name": "Silent In Loss",
       "url": "https://open.spotify.com/track/5u57He0TBFnoVrlYw7CDnW"
@@ -526,7 +646,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 192240,
       "name": "TRUE",
       "url": "https://open.spotify.com/track/2oAmC0f5DWBDyXqsKO00ov"
@@ -813,6 +933,46 @@
     },
     {
       "album": {
+        "name": "\u041e\u043d\u0430 \u0434\u0435\u043b\u0438\u0442 \u0432\u0430\u0439\u0431",
+        "url": "https://open.spotify.com/album/7KFpHlTQcPu6zaAo0Lgos0"
+      },
+      "artists": [
+        {
+          "name": "KOREL",
+          "url": "https://open.spotify.com/artist/6BkXB0ZfuivRVTBU17VTvx"
+        },
+        {
+          "name": "NEEL",
+          "url": "https://open.spotify.com/artist/6MNmnKmvKRaLxBsfhh3gYj"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151576,
+      "name": "\u041e\u043d\u0430 \u0434\u0435\u043b\u0438\u0442 \u0432\u0430\u0439\u0431",
+      "url": "https://open.spotify.com/track/4WUmervieIR98wLI5Xz6ue"
+    },
+    {
+      "album": {
+        "name": "\u041e\u043d\u0430 \u043f\u0438\u0448\u0435\u0442 \u043c\u043d\u0435 Wassup",
+        "url": "https://open.spotify.com/album/7EaKCyyNMA7QaEy02aa1st"
+      },
+      "artists": [
+        {
+          "name": "LAnaYA",
+          "url": "https://open.spotify.com/artist/6BCFnKqqy21B7dfzzlyfdd"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154331,
+      "name": "\u041e\u043d\u0430 \u043f\u0438\u0448\u0435\u0442 \u043c\u043d\u0435 Wassup",
+      "url": "https://open.spotify.com/track/7M8qQTJ5A0aplpepOFOCRg"
+    },
+    {
+      "album": {
         "name": "\u0416\u0432\u0430\u0447\u043a\u0430 \u043f\u043e \u0440\u0443\u0431\u043b\u044e",
         "url": "https://open.spotify.com/album/7zhzED1BztksMSBBD6KKuj"
       },
@@ -824,10 +984,36 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 145335,
       "name": "\u041e\u0442\u0441\u0442\u043e\u0439",
       "url": "https://open.spotify.com/track/0fLAJS1gQfORDIT8YNYLkF"
+    },
+    {
+      "album": {
+        "name": "\u041f\u043b\u0430\u0447\u0443\u0442 \u041d\u0435\u0431\u0435\u0441\u0430",
+        "url": "https://open.spotify.com/album/2d5EJLlYd2KLRhijE8gaZk"
+      },
+      "artists": [
+        {
+          "name": "OG Buda",
+          "url": "https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW"
+        },
+        {
+          "name": "Egor Kreed",
+          "url": "https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb"
+        },
+        {
+          "name": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a \u0414\u0436\u043e\u043a\u0435\u0440",
+          "url": "https://open.spotify.com/artist/5YF9ggs1BDRHNx7OiLCvxe"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167903,
+      "name": "\u041f\u043b\u0430\u0447\u0443\u0442 \u041d\u0435\u0431\u0435\u0441\u0430",
+      "url": "https://open.spotify.com/track/6euqOfQXC3YdneT6bGTyI6"
     },
     {
       "album": {
@@ -886,6 +1072,24 @@
       "duration_ms": 117740,
       "name": "\u0420\u0430\u0437\u043d\u043e\u0446\u0432\u0435\u0442\u043d\u044b\u0435 \u0442\u0430\u0431\u043b\u0435\u0442\u043a\u0438",
       "url": "https://open.spotify.com/track/1Za23uNH9LP4gcflnvAGCE"
+    },
+    {
+      "album": {
+        "name": "\u0421\u043d\u0435\u0433 \u0440\u0430\u0441\u0442\u0430\u044f\u043b \u043d\u0430 \u043f\u043b\u0435\u0447\u0430\u0445",
+        "url": "https://open.spotify.com/album/4V5ZrTCDnhpsL4Oyi3R7Hs"
+      },
+      "artists": [
+        {
+          "name": "DEAD BLONDE",
+          "url": "https://open.spotify.com/artist/4k0dbhJImJWSJf9PsH7H3z"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "\u0421\u043d\u0435\u0433 \u0440\u0430\u0441\u0442\u0430\u044f\u043b \u043d\u0430 \u043f\u043b\u0435\u0447\u0430\u0445",
+      "url": "https://open.spotify.com/track/6mC2PY4sm4M0YFL9dsBMGc"
     },
     {
       "album": {
@@ -954,7 +1158,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 165600,
       "name": "\u042f \u0438\u0434\u0443 \u043f\u043e \u0433\u043e\u0440\u043e\u0434\u0443",
       "url": "https://open.spotify.com/track/41QD3JUCrI1H3SRolaBtln"

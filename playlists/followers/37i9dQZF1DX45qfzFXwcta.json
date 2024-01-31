@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 50776,
+  "2024-01-31": 50958,
   "date_first_scraped": "2022-07-30",
   "description": "Instrumental beats from (and influenced by) Hip-Hop's golden era; to help you study, work and vibe. ",
   "name": "Boom Bap Focus",
@@ -289,6 +289,24 @@
       "duration_ms": 138000,
       "name": "Caminos",
       "url": "https://open.spotify.com/track/6908A1nEezSYjpplzdfs2z"
+    },
+    {
+      "album": {
+        "name": "I am Reuben (Instrumentals)",
+        "url": "https://open.spotify.com/album/4e5P8GG5z6yY7dOvatcpkr"
+      },
+      "artists": [
+        {
+          "name": "Funky DL",
+          "url": "https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228523,
+      "name": "Change Gears - Instrumental",
+      "url": "https://open.spotify.com/track/2UbpxaOiQucm6n3tQlsCPn"
     },
     {
       "album": {

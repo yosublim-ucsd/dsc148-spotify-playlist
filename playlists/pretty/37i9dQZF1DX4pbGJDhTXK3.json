@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 133642,
+  "num_followers": 133652,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmQ1NDM1OWRjNjA3MjhmNjNmM2I5ZTg3ZjI5NDJjYmQ0OGNmOWE4",
+  "snapshot_id": "MCw2M2JlMWQzZDg4ZjY2ZmRlYWZlMDQ1YWZlNDhhZjk3MzZmNjQ4ZWQ0",
   "tracks": [
     {
       "added_at": "2023-08-02 08:46:27",
@@ -755,8 +755,8 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "This Soft Apocalypse",
-        "url": "https://open.spotify.com/album/17IgvKjvNvTamb9NGboCpI"
+        "name": "The Point At The End Of Infinity",
+        "url": "https://open.spotify.com/album/6xKexStWn3mgT7AIDeFbmZ"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/4USOu1WzfdbX4Ka0KY6vfz"
         }
       ],
-      "duration_ms": 201356,
-      "name": "This Soft Apocalypse",
-      "url": "https://open.spotify.com/track/19SLtZkiiimfEy1mwWGFeM"
+      "duration_ms": 244746,
+      "name": "The Point At The End Of Infinity",
+      "url": "https://open.spotify.com/track/6qLlOzNGfbYAOs1wIM0ecT"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "There's a Girl",
-        "url": "https://open.spotify.com/album/47Sdf7KIpYT8uBkLAoQKKA"
+        "name": "Perseverance",
+        "url": "https://open.spotify.com/album/3mppadjAyaa5NGmMRDSQIS"
       },
       "artists": [
         {
-          "name": "H\u00f4y la",
-          "url": "https://open.spotify.com/artist/4ON4pqJpCq22QCCzqbsm0p"
+          "name": "Niilas",
+          "url": "https://open.spotify.com/artist/1qAHgylFxv2gU6bXAQEM2P"
         }
       ],
-      "duration_ms": 194633,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/5MEUmj5WBqoJu9TAXftVFs"
+      "duration_ms": 166730,
+      "name": "Perseverance",
+      "url": "https://open.spotify.com/track/1S2N8e03dQC5Hs8OC141PE"
     }
   ],
   "unique_name": "Space Disco",

@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Natalia Lafourcade y Kevin Johansen.
 
-512 songs - 1 day 6 hr 56 min
+513 songs - 1 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Para Siempre](https://open.spotify.com/track/2CwOQJ5gCpn1MgQqyTna5d) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Para Siempre](https://open.spotify.com/album/4S960SG2fqdAUmVGfcmwCQ) | 3:21 | 2022-09-09 | 2022-09-24 |
 | [Para Siempre](https://open.spotify.com/track/5Fc0FUbxgQlC9ZBAb6ffYt) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Para Siempre](https://open.spotify.com/album/6bFYJSjxE8O1LBSBtOwU4l) | 3:21 | 2021-12-24 | 2022-09-15 |
 | [Para Vencer](https://open.spotify.com/track/3ttxFaEM3dB1Et9QNpxCnA) | [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Basta de Música](https://open.spotify.com/album/5gLwEInVNphcUsjYQzoTRQ) | 2:55 | 2021-12-24 | 2022-04-24 |
+| [Paraguas](https://open.spotify.com/track/1cNA9ubMLg2L4EFk3GtErb) | [Juan Cerro](https://open.spotify.com/artist/3dMAwDvgNZmLZHiVlFGi6L), [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Paraguas](https://open.spotify.com/album/0GfAxoI33NN4bE8ic0Jyvl) | 3:28 | 2024-01-26 |  |
 | [Parque Chas](https://open.spotify.com/track/2gFl3pREsXYOsmXLbSD6Yl) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Parque Chas](https://open.spotify.com/album/3aPje43iWN45wTwm7h5X3b) | 3:54 | 2022-03-04 | 2022-04-21 |
 | [Pasajeros](https://open.spotify.com/track/0VcIILzAJwz4Psl1qFvJcS) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/0r2Xdzbp9DrRhlOQsPYMp8) | 3:30 | 2021-12-24 | 2022-07-24 |
 | [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 | 2022-09-09 | 2023-02-22 |
@@ -437,7 +438,7 @@
 | [Solo para Ti](https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7), [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Eva Sierra](https://open.spotify.com/artist/2wOD9A7TLRFCSxyFyv9A7V) | [Solo para Ti](https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq) | 3:35 | 2021-12-24 |  |
 | [Solo Solomon](https://open.spotify.com/track/2NvrWbODcR4dlfV0aQmmCZ) | [Solomon Zu](https://open.spotify.com/artist/5fhdwAxeYvUbQqNww6kRqw) | [Solo Solomon](https://open.spotify.com/album/57LAHUqTLA6y7yQ6BhS5bA) | 4:06 | 2024-01-26 |  |
 | [Sombra y Animal](https://open.spotify.com/track/72sE2B7RTlaaK5KNLxyszg) | [Berenice](https://open.spotify.com/artist/4dwFB84QoBGv2MBRiUwXEc), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS) | [NIDO](https://open.spotify.com/album/0nTAz6Yf3GC3c9erViwPG4) | 4:47 | 2023-06-16 | 2023-07-01 |
-| [Sonrisa Valiente \- Versión Acústica](https://open.spotify.com/track/61erUSPD0TaNOQ1P1oWymd) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Tabú](https://open.spotify.com/album/0vtS3RtK84fPO6U5GV59L5) | 3:42 | 2024-01-12 |  |
+| [Sonrisa Valiente \- Versión Acústica](https://open.spotify.com/track/61erUSPD0TaNOQ1P1oWymd) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Tabú](https://open.spotify.com/album/0vtS3RtK84fPO6U5GV59L5) | 3:42 | 2024-01-12 | 2024-01-31 |
 | [Soy lo que Doy](https://open.spotify.com/track/4Sq2A3LUiytnHVO4WWVAtH) | [El Árbol de Diego](https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW), [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Soy lo que Doy](https://open.spotify.com/album/7mBvWresKJvNwLWP10yW7X) | 3:37 | 2024-01-19 |  |
 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 | 2023-06-16 | 2024-01-27 |
 | [Sí](https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Sí](https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ) | 2:38 | 2023-03-25 | 2023-05-13 |

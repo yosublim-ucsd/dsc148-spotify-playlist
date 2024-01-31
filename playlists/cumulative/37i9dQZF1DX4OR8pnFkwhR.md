@@ -2,9 +2,9 @@
 
 ### [RADAR: Early Noise 2024](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> Spotifyが2024年に躍進を期待する次世代アーティスト「RADAR: Early Noise 2024」10組のアーティストを発表！！ Cover: First Love is Never Returned/＊<a href="https://spotify\-earlynoise.jp/">2024.3.15 Early Noise Night\#16開催決定！</a>
+> Spotifyが2024年に躍進を期待する次世代アーティスト「RADAR: Early Noise 2024」10組のアーティストを発表！！ Cover: 離婚伝説/＊<a href="https://spotify\-earlynoise.jp/">2024.3.15 Early Noise Night\#16開催決定！</a>
 
-1,358 songs - 3 day 10 hr 43 min
+1,360 songs - 3 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -831,6 +831,7 @@
 | [あなたへのおすすめ\(A\-bug Remix\)](https://open.spotify.com/track/1FA49CNEIxQS8Kv6Qw0v71) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL), [A\-bug](https://open.spotify.com/artist/5kDZSgsJllCJAkgTiFsOJT) | [あなたへのおすすめ\(A\-bug Remix\)](https://open.spotify.com/album/0epGDt5NBxIiSV4Z8i5Fnh) | 4:05 | 2023-11-14 | 2023-12-13 |
 | [あなたを愛するように](https://open.spotify.com/track/4hrWAaNzcszm5NKbhah82N) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [peko](https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [Who?](https://open.spotify.com/album/672YB4ykUdCVpHu9UgLa6j) | 3:24 | 2023-10-05 | 2023-11-29 |
 | [あばよ、](https://open.spotify.com/track/2EmNn0bH0C8YN0e6Hei0nT) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [日日爛漫](https://open.spotify.com/album/45sqLJokVzE6iKntXyfHxM) | 4:23 | 2022-03-08 | 2022-03-23 |
+| [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 | 2024-01-30 |  |
 | [あり得ない幸せ](https://open.spotify.com/track/7pLVU9xPdpb6LFyIxsFDAh) | [望月起市](https://open.spotify.com/artist/30X4hEsMvjJc0b5BJizNkV) | [あり得ない幸せ](https://open.spotify.com/album/1uBEB0i549HcnlAXlFknrm) | 4:15 | 2023-10-31 | 2023-12-06 |
 | [あんたがたどこさ](https://open.spotify.com/track/0D7NkRih5RUHO0VV4zA3ws) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [あんたがたどこさ](https://open.spotify.com/album/3ixAaAZKHUUdFy5ELtaaYo) | 2:54 | 2022-02-17 | 2022-03-30 |
 | [いつか \- SOMEDAY \(feat\. tonun\) \- 45s Edit](https://open.spotify.com/track/3rFpK78Cw2WmpQL1X18Pag) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [いつか \- SOMEDAY \(feat\. tonun\)](https://open.spotify.com/album/2Bx1wsjWVTExc1pLgrvI7h) | 5:03 | 2022-03-31 | 2022-04-13 |
@@ -969,7 +970,7 @@
 | [ステンドの夜](https://open.spotify.com/track/0m0KEWllO59oDfHdYAiyV3) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:04 | 2022-12-13 | 2023-01-13 |
 | [ストックホルムの箱](https://open.spotify.com/track/4gMLLDFwe4Ehd8Kd6cYHmo) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ストックホルムの箱](https://open.spotify.com/album/51oY8HhOEljEFqIOIyzsOG) | 2:40 | 2023-12-26 | 2023-12-30 |
 | [スニーカー](https://open.spotify.com/track/45OytbqaQtUIY6vJyJL5Hd) | [G over](https://open.spotify.com/artist/7sJ2Az7V9sP0i4dN7fh8zp) | [スニーカー](https://open.spotify.com/album/01mEWLvmpGWu8Pm5JmHW7E) | 3:19 | 2023-08-08 | 2023-10-11 |
-| [スパンコールの女](https://open.spotify.com/track/3HFqp1jOem1Htc6K7nFpTm) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [愛が一層メロウ](https://open.spotify.com/album/38Uv2EtCEfUpfWdHVvVtaV) | 3:38 | 2024-01-10 |  |
+| [スパンコールの女](https://open.spotify.com/track/3HFqp1jOem1Htc6K7nFpTm) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [愛が一層メロウ](https://open.spotify.com/album/38Uv2EtCEfUpfWdHVvVtaV) | 3:38 | 2024-01-10 | 2024-01-31 |
 | [スローモーション](https://open.spotify.com/track/0f0jWZvuuzS0exDNBJQ6NC) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [P・O・N](https://open.spotify.com/album/5kd9iymKxO4uXMDWzdBoEE) | 3:47 | 2022-03-15 | 2022-04-13 |
 | [スーパーハイパー忍者手裏剣](https://open.spotify.com/track/5xqxfPEKE3K7Su32bnKtrQ) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [スーパーハイパー忍者手裏剣](https://open.spotify.com/album/32VfvVGwzuka6xQSrdyamD) | 3:29 | 2022-07-12 | 2022-08-10 |
 | [タイムトラベラー](https://open.spotify.com/track/70tw6ikG6EyKtfKbCa43UH) | [NORTH](https://open.spotify.com/artist/48nDztq25G7XW2JF3iRD4y) | [タイムトラベラー](https://open.spotify.com/album/1lMaGH2vITLusMAVQnDy3H) | 3:55 | 2022-07-12 | 2022-07-29 |
@@ -1051,6 +1052,7 @@
 | [ライムライト](https://open.spotify.com/track/6dRVLa81jfp37EkKrv0trK) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ライムライト](https://open.spotify.com/album/0wVmz8nodc9IW0NFb8SP1L) | 3:12 | 2022-06-30 | 2022-07-15 |
 | [ラブソング](https://open.spotify.com/track/1OOpz8FwsB7h1YrFEHfwha) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [あいについて](https://open.spotify.com/album/4yhCBM3SysopK5WedJDCgw) | 3:02 | 2023-02-01 | 2023-03-29 |
 | [ラブレター](https://open.spotify.com/track/7c7rjEaoqcCsDSVJ6KfBd3) | [中島雄士](https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN) | [JUNCTION POP](https://open.spotify.com/album/1NuQdox8SHt5RwgsojvXGF) | 3:44 | 2023-03-21 | 2023-03-23 |
+| [ランタン](https://open.spotify.com/track/4osMB4WygimYX7kKCx8OxU) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [ランタン](https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe) | 3:26 | 2024-01-30 |  |
 | [リセット症候群](https://open.spotify.com/track/4LSGiBpY39U737kuUW9POq) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [リセット症候群](https://open.spotify.com/album/1q4SKYBWbXBBFZRdZC3nW6) | 3:16 | 2022-07-12 | 2022-07-29 |
 | [リップル](https://open.spotify.com/track/3ovSCyUHXi2QUlwgyOC3zx) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [リップル](https://open.spotify.com/album/5OYTQcR3aufuIJZ9Z0AJJb) | 2:44 | 2022-06-07 | 2022-07-29 |
 | [リトルダンサー feat\. Ito \(PEOPLE 1\)](https://open.spotify.com/track/4YyalpG25LRXCSBEgQgI0Q) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [ワンス・アポン・ア・リバイバル](https://open.spotify.com/album/3RueJOo83vwTyoKLKL6lT5) | 3:12 | 2022-02-17 | 2022-03-09 |
@@ -1326,7 +1328,7 @@
 | [西日暮里の緑](https://open.spotify.com/track/0RtpYEDtccOkPrL7j1P3hz) | [松田今宵](https://open.spotify.com/artist/4hFuB8PPtCDza8ewzekmbf) | [西日暮里の緑](https://open.spotify.com/album/3F7PUM6MDPsT1OsOcAlnVm) | 4:03 | 2023-10-31 | 2023-12-06 |
 | [角を探す人](https://open.spotify.com/track/78qoF0s9vf9twx2eOijPuq) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [角を探す人](https://open.spotify.com/album/7iMAmNtdF8KZZiyupPHhzo) | 5:56 | 2023-07-06 | 2023-09-15 |
 | [言わせない](https://open.spotify.com/track/2pqjnwREQKF3RYgP3gsGAY) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [dig saw](https://open.spotify.com/album/5TaLQKn5KHpyL0b9V44kWl) | 3:17 | 2023-10-24 | 2023-11-22 |
-| [言焉](https://open.spotify.com/track/6sgFQ5GNkyvmdNlULIlzRA) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:07 | 2024-01-10 |  |
+| [言焉](https://open.spotify.com/track/6sgFQ5GNkyvmdNlULIlzRA) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:07 | 2024-01-10 | 2024-01-31 |
 | [言葉にして](https://open.spotify.com/track/6nEkWRyNxWHawcf6pRcNnW) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [言葉にして](https://open.spotify.com/album/7pudWjUKycdXIrwrUch3nK) | 4:35 | 2023-11-28 | 2024-01-11 |
 | [誰も聞かないラジオから](https://open.spotify.com/track/45IRk9DUYEuz5aXivljmMk) | [泡く、脆く。](https://open.spotify.com/artist/0Gr5IN22Dhn1DDkp0bLVHp) | [誰も聞かないラジオから](https://open.spotify.com/album/5SR6hwOKKGjUJpCDIJ9kNf) | 4:39 | 2022-05-24 | 2022-07-06 |
 | [貴方依存症](https://open.spotify.com/track/4oJn4hDoQYzvJNAGxo6u3I) | [cherie](https://open.spotify.com/artist/1nNlKcJf1h43ksIjVFKF7e) | [貴方依存症](https://open.spotify.com/album/7gWu4jfTTrzOSmyYIN5cqh) | 3:03 | 2023-12-05 | 2024-01-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 
 > De la isla, pa' el mundo! Representando la cultura con orgullo\. Cover: Christian Alicea
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,371 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,373 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 | 55 | [CANDY "4:00 PG"](https://open.spotify.com/track/0Ot8SkmztkeOosIW96GtWC) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [EL FAVORITO DE LAS NENAS](https://open.spotify.com/album/6xkhGbgMC7zouP3ofEbV7S) | 2:30 |
 | 56 | [5 Estrellas](https://open.spotify.com/track/3lN1fgtcVeToWt1H6AEVAM) | [Genio](https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [5 Estrellas](https://open.spotify.com/album/3hPNd8YlE88jGyQ1jIdNrM) | 4:09 |
 | 57 | [Solución](https://open.spotify.com/track/7L2iH3hbDuMpxIwABcyHV9) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Solución](https://open.spotify.com/album/2vi8w5TScVrMNUV6Z1hTQd) | 3:39 |
-| 58 | [Inseparables](https://open.spotify.com/track/4AoJmA5TNnqjwTZIb8vX8l) | [Xyron](https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be), [Carlitos Rossy](https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED), [Veterano Music](https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT) | [Inseparables](https://open.spotify.com/album/0OUlso6XqDSGVETWB19zdh) | 2:57 |
+| 58 | [Hedonismo](https://open.spotify.com/track/7l6H2qBoaTETYgvYHSRQ9I) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 3:10 |
 | 59 | [Te La Dedico](https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Te La Dedico](https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y) | 3:51 |
-| 60 | [Hedonismo](https://open.spotify.com/track/7l6H2qBoaTETYgvYHSRQ9I) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 3:10 |
+| 60 | [Inseparables](https://open.spotify.com/track/4AoJmA5TNnqjwTZIb8vX8l) | [Xyron](https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be), [Carlitos Rossy](https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED), [Veterano Music](https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT) | [Inseparables](https://open.spotify.com/album/0OUlso6XqDSGVETWB19zdh) | 2:57 |
 | 61 | [Después Del Party](https://open.spotify.com/track/4AanOfVKkQKYRe4nbcaVaG) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Reggaetón Sex](https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif) | 2:42 |
 | 62 | [Movie](https://open.spotify.com/track/2eQIaeYSCb6hwoVJtZvETm) | [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o) | [Movie](https://open.spotify.com/album/1Shl9o4n9lH2ULhW2Wfj5r) | 3:36 |
 | 63 | [Miko](https://open.spotify.com/track/0ITEio7vNOlNQrGv0eTaRH) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Miko](https://open.spotify.com/album/2WbddxAsbB0puaya03zbpo) | 2:15 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 | 94 | [Cupido](https://open.spotify.com/track/44B8PLdX1k6vzDtfUnwj5U) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Cupido](https://open.spotify.com/album/6myrgqSgzhFhIhZxO87XsY) | 3:10 |
 | 95 | [Traficando](https://open.spotify.com/track/4SQ6Wf45YaLFBsXXPfvuNZ) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [Traficando](https://open.spotify.com/album/4uTZikMbZ7sKhApOhIQGxQ) | 4:27 |
 | 96 | [Por Amor](https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn) | [TIVGO Cruz](https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW) | [Por Amor](https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2) | 3:04 |
-| 97 | [Twisty](https://open.spotify.com/track/2EpuU1Fb5JnYnQxgUeNSoN) | [Karbeats](https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV), [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [Twisty](https://open.spotify.com/album/2ZF9vzq2iW6e6Xo1evM7N7) | 2:45 |
-| 98 | [For You](https://open.spotify.com/track/0Bvaux1uoiR3ID2C9rMzxB) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [For You](https://open.spotify.com/album/7mwjFFFHrC2r2oCpnoMHR4) | 2:30 |
+| 97 | [For You](https://open.spotify.com/track/0Bvaux1uoiR3ID2C9rMzxB) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [For You](https://open.spotify.com/album/7mwjFFFHrC2r2oCpnoMHR4) | 2:30 |
+| 98 | [Twisty](https://open.spotify.com/track/2EpuU1Fb5JnYnQxgUeNSoN) | [Karbeats](https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV), [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [Twisty](https://open.spotify.com/album/2ZF9vzq2iW6e6Xo1evM7N7) | 2:45 |
 | 99 | [Nena Buena](https://open.spotify.com/track/1LipU0DjCXaCK8yBfmglm6) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Nena Buena](https://open.spotify.com/album/6H0y2FOaj4tPcZTQ1VRTUU) | 3:28 |
 | 100 | [La Bebecita](https://open.spotify.com/track/1ixrtbkdlkVQnYusBAsIBQ) | [Sammy & Falsetto](https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc) | [Las Criaturas: El Regreso](https://open.spotify.com/album/3dDKCvYJNViQvZTLMcNank) | 3:51 |
 
-Snapshot ID: `MCwyYzhlMmIyNzEzMDAxNDU3NDhlZTQxNGMwZDY4NTVjNTEwMTVjZGMy`
+Snapshot ID: `MCxlNTI3OGUxODFiNjUxMzExZTU1OWQ1YmQ3NTE3YjgxZmU5YTBiOGE3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain]
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,785 likes - 15 songs - 55 min 25 sec
+[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,783 likes - 15 songs - 55 min 25 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,6 +22,6 @@ pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain]
 | 12 | [Orion](https://open.spotify.com/track/0cf3ihtpE7QzZTdLb9EtGe) | [Fitch](https://open.spotify.com/artist/4R1KJqQAvnwb0ChZWqTege), [REYKO!](https://open.spotify.com/artist/5ZCeTjOBMhEeVrsY0lHpTT) | [Deadbeats & Brownies \- Drum & Bass Compilation](https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule) | 3:40 |
 | 13 | [Alive](https://open.spotify.com/track/2c8wBwm4zUOKvYIag2LMFz) | [Ghost in Real Life](https://open.spotify.com/artist/1XNSNWTlirqnvsXUUEVwxb) | [Deadbeats & Brownies \- Drum & Bass Compilation](https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule) | 3:20 |
 | 14 | [Beyond The Sun](https://open.spotify.com/track/4TswMWD4ZFxCQZEep2SBxP) | [Synergy](https://open.spotify.com/artist/7s83dhuGTbXkYUEDXCisbK) | [Deadbeats & Brownies \- Drum & Bass Compilation](https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule) | 3:46 |
-| 15 | [New Dawn New Day](https://open.spotify.com/track/684ouOOCPhnYp8UqEZZhDl) | [STS9](https://open.spotify.com/artist/1eZ4td9oadjw7GkW0LzxNK) | [Deadbeats & Brownies \- Drum & Bass Compilation](https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule) | 4:10 |
+| 15 | [New Dawn New Day \- D+B Edit](https://open.spotify.com/track/684ouOOCPhnYp8UqEZZhDl) | [STS9](https://open.spotify.com/artist/1eZ4td9oadjw7GkW0LzxNK) | [Deadbeats & Brownies \- Drum & Bass Compilation](https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule) | 4:10 |
 
 Snapshot ID: `NTgwMSwxOGUxODgzOWUxZGQ3MTRjZThhZjI4NGZmM2M4NzYwOGYzN2ViMDNk`

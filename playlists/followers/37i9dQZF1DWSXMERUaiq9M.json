@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 213891,
+  "2024-01-31": 214212,
   "date_first_scraped": "2023-03-14",
   "description": "love peace techno",
   "name": "rave",
@@ -21,7 +21,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 185953,
       "name": "1, 2 Step - DJ HEARTSTRING Remix",
       "url": "https://open.spotify.com/track/4IhCpufYdnbCIjwWw7tqty"
@@ -123,7 +123,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 204172,
       "name": "All Good Things (Come To An End)",
       "url": "https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 331609,
       "name": "All Of It",
       "url": "https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 167162,
       "name": "All That She Wants - Helion Remix",
       "url": "https://open.spotify.com/track/747OPJC1PujokY0T3rAajk"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 232750,
       "name": "BAE",
       "url": "https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 116062,
       "name": "Can't Forget U",
       "url": "https://open.spotify.com/track/3LIW2sGUzq4SskgzV0halx"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 321666,
       "name": "Deine Angst",
       "url": "https://open.spotify.com/track/6C3vS3o69ZX3JvX0onzFkT"
@@ -774,6 +774,28 @@
     },
     {
       "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/5eYUa4zesuZMPPTK25IRdb"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        },
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230137,
+      "name": "Devotion - Show Me Love 2023 Techno Mix - Radio Edit",
+      "url": "https://open.spotify.com/track/5CgfZ4a0Ja2m8BoHfLqvJ0"
+    },
+    {
+      "album": {
         "name": "DIE LIEBE KOMMT NICHT AUS BERLIN",
         "url": "https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi"
       },
@@ -785,7 +807,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 206626,
       "name": "DIE LIEBE KOMMT NICHT AUS BERLIN",
       "url": "https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc"
@@ -1385,7 +1407,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
+      "date_removed": null,
       "duration_ms": 136793,
       "name": "Give Me Your Love (Baby)",
       "url": "https://open.spotify.com/track/4F1Rn7hLL2m5l66NYzzb4H"
@@ -1429,7 +1451,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": null,
       "duration_ms": 288400,
       "name": "Goldener Raver (1995 Remix) - Rave Mix",
       "url": "https://open.spotify.com/track/6Q3m7v5B10JUlcoJR4RCKw"
@@ -1531,7 +1553,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 170096,
       "name": "Heartbreak Repair System",
       "url": "https://open.spotify.com/track/2Vl7tpgcrVNT2FlAFs9oPm"
@@ -1819,7 +1841,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 215096,
       "name": "It Ain't Over",
       "url": "https://open.spotify.com/track/2CXgBOHvaylFWhzk8aoNPG"
@@ -2087,7 +2109,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 174811,
       "name": "Lets go",
       "url": "https://open.spotify.com/track/4vmzFOCbjeV9cIvVqS3DKC"
@@ -2451,7 +2473,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 126530,
       "name": "My Barn My Rules - Edit",
       "url": "https://open.spotify.com/track/2y2FrM6flv3s5LNqpjGVgW"
@@ -2622,6 +2644,24 @@
     },
     {
       "album": {
+        "name": "No Air",
+        "url": "https://open.spotify.com/album/4gFzlb733pLB8lT6cfjHwn"
+      },
+      "artists": [
+        {
+          "name": "FZA",
+          "url": "https://open.spotify.com/artist/2H6aOJ4VEbPsFr8OD3KWg2"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "No Air",
+      "url": "https://open.spotify.com/track/2gs6SQlgCap3dW1nLm8WNb"
+    },
+    {
+      "album": {
         "name": "slash 001",
         "url": "https://open.spotify.com/album/7mwCXIc5XkgaISn5UBQTwn"
       },
@@ -2673,7 +2713,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 203684,
       "name": "No Type",
       "url": "https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU"
@@ -2973,7 +3013,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 149771,
       "name": "Pretty People (feat. INJI)",
       "url": "https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS"
@@ -3411,7 +3451,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 415522,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/24ODAgW6PvaHTl7QUgaoqk"
@@ -3618,6 +3658,32 @@
     },
     {
       "album": {
+        "name": "Tell Me Daddy",
+        "url": "https://open.spotify.com/album/4HMoL4sjAVMylMnSdcLbMs"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        },
+        {
+          "name": "Coach Harrison",
+          "url": "https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169329,
+      "name": "Tell Me Daddy",
+      "url": "https://open.spotify.com/track/09p7aiG886Vev83CeQyjPh"
+    },
+    {
+      "album": {
         "name": "The Captain",
         "url": "https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j"
       },
@@ -3629,7 +3695,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "The Captain",
       "url": "https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus"
@@ -3763,7 +3829,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 147075,
       "name": "tonight belongs to you",
       "url": "https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID"
@@ -3851,7 +3917,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 312746,
       "name": "Unity - Original Mix",
       "url": "https://open.spotify.com/track/4lotSTi1ufPLtyfTLZ4VNF"
@@ -3975,7 +4041,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 164826,
       "name": "While U Sleep",
       "url": "https://open.spotify.com/track/1DNvYQWmYVnKzXZUYssNhX"
@@ -4109,7 +4175,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-24",
+      "date_removed": null,
       "duration_ms": 371555,
       "name": "You're Toxic",
       "url": "https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Christian Nodal &amp; Peso Pluma &quot;La Intención&quot; Prince Royce &amp; Gabito Ballesteros &quot;Cosas de la Peda&quot; Emilia &amp; Nathy Peluso &quot;JET\_Set.mp3&quot;, Shakira &amp; Fuerza Regida &quot;El Jefe&quot;, Maluma x Carin Leon &quot;Segun Quien&quot;
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 54,801 likes - 133 songs - 7 hr 4 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 54,790 likes - 133 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

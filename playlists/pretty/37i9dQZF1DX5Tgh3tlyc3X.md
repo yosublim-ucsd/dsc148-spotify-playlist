@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 
 > Enter an Alpha meditative state with mid\-range frequencies and then ease into a Theta brainwave state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,483 likes - 178 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,548 likes - 178 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 | 5 | [Alpha Sine](https://open.spotify.com/track/2ayFHCjDIFtxjnyzDCt1J6) | [SOWE](https://open.spotify.com/artist/4gsiHX6ewD0G96o4sO5wOF) | [Binaural Sleep Beats](https://open.spotify.com/album/7lHKcPjSRQsXDfWKzOrXOp) | 3:25 |
 | 6 | [Dust Settle G Alpha \(96\-108hz\)](https://open.spotify.com/track/1qhpoFWll8RJHM8sKla8CA) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Celestial Blink Alpha](https://open.spotify.com/album/2TZ4Ks3FtnQz558iczbZAQ) | 2:10 |
 | 7 | [Alpha Vocantes 54Hz\-62Hz](https://open.spotify.com/track/1iUPb3Uw65EBlhAo5gDDE6) | [Smoove Nappers](https://open.spotify.com/artist/1FQ5ICSZEEZRk68yEJ0Ol1) | [Alpha Vocantes 54Hz\-62Hz](https://open.spotify.com/album/2kyCvfTIMvavgFc9IGP8K6) | 2:29 |
-| 8 | [From Above \- Alpha Sinus 71Hz \- 81Hz](https://open.spotify.com/track/7ayDStd0Al7EGDZ7PjXB97) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [From Above \- Alpha Sinus 71Hz \- 81Hz](https://open.spotify.com/album/4teRsOhNnx0Ogd4QWM51wG) | 2:08 |
-| 9 | [Deep Soul \- Alpha Sinus 102Hz \- 110Hz](https://open.spotify.com/track/4m3pWrYXXRTO86g3dOUgIC) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Deep Soul \- Alpha Sinus 102Hz \- 110Hz](https://open.spotify.com/album/0WmAUMjEGYZlPG1hKjQBWz) | 2:08 |
+| 8 | [From Above](https://open.spotify.com/track/7ayDStd0Al7EGDZ7PjXB97) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [From Above](https://open.spotify.com/album/4teRsOhNnx0Ogd4QWM51wG) | 2:08 |
+| 9 | [Deep Soul](https://open.spotify.com/track/4m3pWrYXXRTO86g3dOUgIC) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Deep Soul](https://open.spotify.com/album/0WmAUMjEGYZlPG1hKjQBWz) | 2:08 |
 | 10 | [Quensimo Alpha Sinus 83Hz \- 91Hz](https://open.spotify.com/track/7nHI4JcpC3QhI5JbXDI3pU) | [Sine Soothers](https://open.spotify.com/artist/3heVgDPxG5RpofyonEqwX9) | [Quensimo Alpha Sinus 83Hz \- 91Hz](https://open.spotify.com/album/4y6AxPnrkb9doxWLl4nsTR) | 3:17 |
 | 11 | [Colors](https://open.spotify.com/track/6eKAnxOAUfeGz8wr6vbPSt) | [The Binaural Girl](https://open.spotify.com/artist/1SZvf7oGMJwvncGXAFMWvs) | [Colors](https://open.spotify.com/album/6A9BWzxpAgJyV8LZx6p9ez) | 1:49 |
 | 12 | [Translucent \- Alpha Sinus 71,7 Hz \- 73,8 Hz](https://open.spotify.com/track/0BbLU0pwbzAzFkJjbl9KdJ) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Deep Alpha Focus](https://open.spotify.com/album/268lE50iJ6lqOuLDAgAmMb) | 2:58 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 | 27 | [Alpha Sinus \- Celestial Oasis \- 130 Hz \-136 Hz](https://open.spotify.com/track/0B0svaukFtvTYwkiRIf1NE) | [FX Sleep Creator](https://open.spotify.com/artist/6YPpB1iVfPRurxJ7fNIevL) | [Alpha Sinus \- Celestial Oasis \- 130 Hz \-136 Hz](https://open.spotify.com/album/2d1LetNfR72VeccUu6u2r9) | 3:18 |
 | 28 | [Binaural Alpha Deep 45,5 + 49 hz](https://open.spotify.com/track/5pGpcXSHImdddmdCylkRWP) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Alpha Horizon](https://open.spotify.com/album/6GnCnCvllPPRsgxHIWPi5Z) | 2:34 |
 | 29 | [Binaural Alpha Sinus 220 Hz \- L 230 Hz \- R](https://open.spotify.com/track/4yZW295RhtI2vdjNtDpLhb) | [Dramadoria](https://open.spotify.com/artist/7g1qKEMGMmdNxwndbNylbD) | [Binaural Alpha Sinus 220 Hz \- L 230 Hz \- R](https://open.spotify.com/album/5WsQeQf7nbbnqaHpw84MaQ) | 2:36 |
-| 30 | [Wind \- Alpha Sinus 84Hz \- 92Hz](https://open.spotify.com/track/2mAuJq6UEpRn3Zd81gkhZU) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Wind \- Alpha Sinus 84Hz \- 92Hz](https://open.spotify.com/album/5wRoH8y8isKFWDpCiVfwSy) | 2:10 |
+| 30 | [Wind](https://open.spotify.com/track/2mAuJq6UEpRn3Zd81gkhZU) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Wind](https://open.spotify.com/album/5wRoH8y8isKFWDpCiVfwSy) | 2:10 |
 | 31 | [Alpha Waves 100\-110 Hz \- Relieve Stress](https://open.spotify.com/track/0zOELDIfYwIF3t5l6cagpV) | [Binaural Healing Frequencies](https://open.spotify.com/artist/0O3hasNaQ353zIkDpwn4Ul) | [Alpha Waves 100\-110 Hz \- Relieve Stress](https://open.spotify.com/album/23V112ZYp3eax0NmbVHaGt) | 2:28 |
 | 32 | [Galactic \- Alpha Sinus 84,1 Hz \- 87,2 Hz](https://open.spotify.com/track/7Grr4TGNkddZQKmiAcsMH6) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Deep Alpha Focus](https://open.spotify.com/album/268lE50iJ6lqOuLDAgAmMb) | 2:56 |
 | 33 | [Circumspect Alpha 10Hz](https://open.spotify.com/track/6xa4tQjf1T53fTB2RfZyGi) | [Sine Soothers](https://open.spotify.com/artist/3heVgDPxG5RpofyonEqwX9) | [Circumspect Alpha 10Hz](https://open.spotify.com/album/3pe61os5F0RnpPjMCvVbiw) | 3:19 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 | 67 | [Fantasia \- Alpha Sinus 95Hz \- 103Hz](https://open.spotify.com/track/6yDMWJ9KFUtFkQndXVVJry) | [Binaural Movements](https://open.spotify.com/artist/7qgmuFa8s0woxvn8Tnl84Q) | [Access to the Subconcious](https://open.spotify.com/album/5Z4FDimtghanNx9Yzuu64m) | 2:41 |
 | 68 | [Binaural Vibe Alpha Sinus 64\-74 Hz](https://open.spotify.com/track/3QjHNYEzGUDfMOHqjnPJJA) | [Restful SInus](https://open.spotify.com/artist/6S3sDcK2WIHZ9a2eMLJJYX) | [Attractive Alpha](https://open.spotify.com/album/0xOcPoHBjNrr6fhi31rw3z) | 2:26 |
 | 69 | [Alpha 8HZ](https://open.spotify.com/track/2b73pXF92rsFndS7FxeQ68) | [Schamanen](https://open.spotify.com/artist/6o3pIin2DmrRp7z2HMbIcT) | [Synchronized Beta](https://open.spotify.com/album/23X2NUStO3afzaR3uS6QU8) | 3:24 |
-| 70 | [Soul Of Light \- Alpha Sinus 70Hz \- 75Hz](https://open.spotify.com/track/6KBGWO5tW8j2uittrWODo3) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Soul Of Light \- Alpha Sinus 70Hz \- 75Hz](https://open.spotify.com/album/6L04enAmUuRh7fbIxWBgOs) | 2:08 |
+| 70 | [Soul Of Light](https://open.spotify.com/track/6KBGWO5tW8j2uittrWODo3) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Soul Of Light](https://open.spotify.com/album/6L04enAmUuRh7fbIxWBgOs) | 2:08 |
 | 71 | [Binaural Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/track/7aYJz2VkCYykD2VnRM83A9) | [Light Vibrations](https://open.spotify.com/artist/7HGnugtCkahzbqB9tTOUZP) | [Focused Mind](https://open.spotify.com/album/3f1LpLV6ybqLYGNvwwEowt) | 3:43 |
 | 72 | [Sommernacht \- Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/track/6um6WVJVLw43yxPNtUlsPJ) | [Twinbeet](https://open.spotify.com/artist/5TgC13fERuYwNvHbRSfVGp) | [Morning Binaural](https://open.spotify.com/album/2G0j9ck7PCysNMufYHWCbn) | 2:20 |
 | 73 | [Stille \- Alpha Sinus 134Hz \- 141Hz](https://open.spotify.com/track/3ocQGhNuWunmbDK1IYzVBD) | [Blue Triangles](https://open.spotify.com/artist/6brKlPbQVltmtC6MCvfXFK) | [Stille Binaural](https://open.spotify.com/album/34DwcLP6FYLKDbpK0RoN8Y) | 4:06 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 | 177 | [Theta Sinus 150 Hz \- 156 Hz](https://open.spotify.com/track/7KuuvaRj6z8WJq81Ffb0L0) | [Phascoi﻿](https://open.spotify.com/artist/4rP4SiSzg5lzgHn9qw4g7A) | [Phascoi](https://open.spotify.com/album/7qQX2d62XCLYX4QUQYvnAp) | 3:36 |
 | 178 | [Binaural Theta Sinus 150 Hz \- 156 Hz](https://open.spotify.com/track/3c5u6dSAbnqfYK12vtTpFI) | [Sort of Speak](https://open.spotify.com/artist/5l9xTwNi7RjxvJnDRdid38) | [Binaural Theta Sinus 150 Hz \- 156 Hz](https://open.spotify.com/album/76HG7VMcJbs8PP3gugRSNv) | 2:33 |
 
-Snapshot ID: `MCxhOWMxM2Q5ODdiNzllYzA4NTZmMWFlMTE3NWQyYWNmMmRkYTg5MjZk`
+Snapshot ID: `MCw4MTVlMzI5OWFiOGEyN2E2YzNmMTk1MmMwZjJmNDJhZDNlNjdjMmRh`

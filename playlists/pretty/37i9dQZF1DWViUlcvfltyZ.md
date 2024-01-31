@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Cover: Any Other
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,192 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,181 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 74 | [Re](https://open.spotify.com/track/2MXmns9bnMQK75QRXglbuE) | [Umberto Maria Giardini](https://open.spotify.com/artist/1jUnq1j9h7jwhefWzS8r95) | [Re](https://open.spotify.com/album/0010d1A2rC7GUI0F9yPNCz) | 3:54 |
 | 75 | [LA FINE DI UN RAGAZZO](https://open.spotify.com/track/09AN0C4hAhXzbwTbM3K1fE) | [Appino](https://open.spotify.com/artist/4DZifQP0B5j53Hw4KuMOnH) | [HUMANIZE](https://open.spotify.com/album/0OkZmSBdLAVLDfKh6OWTRl) | 3:18 |
 
-Snapshot ID: `MCw2N2FlYjRmMWIxMjg2YzkzOTIwNmZiMDhkZDQ4OTAzZjg3YzBhNmQz`
+Snapshot ID: `MCxiM2E5ZjQ5NjAyNTg3YjAzZTc2Y2FjZWIzNGRlOTQ1NWMzNzRjNzU4`

@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 496,
+  "2024-01-31": 497,
   "date_first_scraped": "2023-03-10",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/7clFvfOCA8KimyV26jLALB\">Alicia Keys</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Alicia Keys",
@@ -357,7 +357,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 272703,
       "name": "Brand New Me",
       "url": "https://open.spotify.com/track/3ddTcWO0otfZvR3zn0bduS"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 272613,
       "name": "Doesn't Mean Anything",
       "url": "https://open.spotify.com/track/5bpx60gYQoDDJcP7vBygPB"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 313514,
       "name": "Doesn't Mean Anything",
       "url": "https://open.spotify.com/track/2FKYQbdegoxuFDoSKbsYPn"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 206911,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/4M3VnGriMuTOUV65fj16yg"
@@ -993,7 +993,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 210200,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
@@ -1405,7 +1405,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 209600,
       "name": "If I Ain't Got You",
       "url": "https://open.spotify.com/track/59TEPBzyKfMtcJ01w6Umoo"
@@ -1423,7 +1423,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 228706,
       "name": "If I Ain't Got You",
       "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
@@ -1589,7 +1589,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 230591,
       "name": "It's On Again",
       "url": "https://open.spotify.com/track/25iwSdBP7aQW8XnNPd8EHc"
@@ -1611,7 +1611,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 229827,
       "name": "It's On Again (feat. Kendrick Lamar) - From The Amazing Spider-Man 2 Soundtrack",
       "url": "https://open.spotify.com/track/44EkzAU92xwm30YpD4p31i"
@@ -1705,7 +1705,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 225151,
       "name": "Karma",
       "url": "https://open.spotify.com/track/5X0UH4kp5zNOQiAbeN6OF1"
@@ -1723,7 +1723,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "Karma",
       "url": "https://open.spotify.com/track/588RGyR1f4Plc8nm7SrdCa"
@@ -1919,7 +1919,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 267818,
       "name": "Like You'll Never See Me Again",
       "url": "https://open.spotify.com/track/6Cl7yuosuJMY29lzjoDrXW"
@@ -1937,7 +1937,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 315360,
       "name": "Like You'll Never See Me Again",
       "url": "https://open.spotify.com/track/3JHDtmFdX9kdx9wz0md98U"
@@ -2071,7 +2071,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 203320,
       "name": "Love Looks Better",
       "url": "https://open.spotify.com/track/0HL5XOeVxgX1cEPY2KgRRa"
@@ -2089,7 +2089,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 230293,
       "name": "Love Looks Better",
       "url": "https://open.spotify.com/track/4L5KZNybVabAoB8waldDbw"
@@ -2383,7 +2383,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 248000,
       "name": "No One",
       "url": "https://open.spotify.com/track/1rEWI6tnJ3Za9sZC2YZm0J"
@@ -3177,7 +3177,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 250218,
       "name": "So Done",
       "url": "https://open.spotify.com/track/3CHdCeXVBB5U7PYxjilNuT"
@@ -3199,7 +3199,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 234866,
       "name": "So Done (feat. Khalid)",
       "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
@@ -3315,7 +3315,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 253098,
       "name": "Superwoman",
       "url": "https://open.spotify.com/track/18kkEfe5r9c1TqoWpmjlKR"
@@ -3333,7 +3333,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 274106,
       "name": "Superwoman",
       "url": "https://open.spotify.com/track/694V3efHIeLmVRZIDMGc4O"
@@ -3585,7 +3585,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 242005,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/3hBxzzWEIHFpVWuU0s2YQD"
@@ -3603,7 +3603,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 266293,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5mK9w8MYTh3SpmycLZ561K"

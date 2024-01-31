@@ -1,12 +1,12 @@
 {
   "description": "Some of the most influential and innovative voices in hip-hop\u2014yesterday, today, tomorrow. Cover: Doja Cat",
-  "num_followers": 55290,
+  "num_followers": 55374,
   "original_name": "Women of Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTg4Mzg1NTFlMWYzNmE2OTJkZDYxNzdhNzY5Nzg0NTAzN2QyNDFh",
+  "snapshot_id": "MCw1MDUyMGE1YTZmNGJmMjE1MmE5Mzk4ZmM2NzFlZmZjMWFiZmJjMGYw",
   "tracks": [
     {
       "added_at": "2022-03-08 20:45:52",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-03-08 20:45:52",
       "album": {
-        "name": "FOR CERTAIN",
-        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 156005,
-      "name": "WHOLE LOTTA MONEY",
-      "url": "https://open.spotify.com/track/5yorXJWdBan1Vlh116ZtQ7"
-    },
-    {
-      "added_at": "2022-03-08 20:45:52",
-      "album": {
         "name": "Ho, why is you here ?",
         "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 163018,
       "name": "May I",
       "url": "https://open.spotify.com/track/1GcXzijYzyfMq6wryZjYW5"
+    },
+    {
+      "added_at": "2022-03-08 20:45:52",
+      "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 156005,
+      "name": "WHOLE LOTTA MONEY",
+      "url": "https://open.spotify.com/track/5yorXJWdBan1Vlh116ZtQ7"
     },
     {
       "added_at": "2022-03-08 20:45:52",

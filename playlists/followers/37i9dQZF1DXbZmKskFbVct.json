@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 33534,
+  "2024-01-31": 33546,
   "date_first_scraped": "2021-12-30",
   "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
   "name": "ASMR Sleep Whispers",
@@ -413,7 +413,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 316000,
       "name": "Fluffy Mic & Slow Whispering Around Your Head, Pt. 2",
       "url": "https://open.spotify.com/track/4EAP4yIQlIwowyqTKKBLXv"
@@ -741,6 +741,24 @@
       "duration_ms": 302088,
       "name": "Making Your Eyes Heavy",
       "url": "https://open.spotify.com/track/01Zuq3xB12zBwqfbPT55r8"
+    },
+    {
+      "album": {
+        "name": "Sounds To Help You Sleep in 15 Minutes",
+        "url": "https://open.spotify.com/album/0W5E39u3695EgS8xXYtmb4"
+      },
+      "artists": [
+        {
+          "name": "fastASMR",
+          "url": "https://open.spotify.com/artist/56Il8oV0mbdnHbOimlgy6v"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302088,
+      "name": "Making Your Eyes Heavy",
+      "url": "https://open.spotify.com/track/3ir7iDuuUDQ0aWb8DPyI91"
     },
     {
       "album": {

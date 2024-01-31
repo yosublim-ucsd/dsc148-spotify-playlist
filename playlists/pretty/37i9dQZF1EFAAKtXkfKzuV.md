@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160 likes - 59 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 161 likes - 59 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 17 | [Better Off](https://open.spotify.com/track/45F6EIwDFK039OKPUynPbw) | [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [BCS](https://open.spotify.com/artist/4tGQ53InAQSRcbpDrYZPtz) | [Better Off](https://open.spotify.com/album/2ZZxWs9ltFcQzuQnCsb2WC) | 2:05 |
 | 18 | [Not Ready](https://open.spotify.com/track/0mtm0nHodvra53NA3n0T9B) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Not Ready](https://open.spotify.com/album/0uVoAz2Yw0dGaYbhO5D3VA) | 1:52 |
 | 19 | [Irgendwie auch nicht](https://open.spotify.com/track/0KcYpVzF1lc6m49JsTjgkC) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Vielleicht Irgendwann \(Deluxe Edition\)](https://open.spotify.com/album/7tQQXsZhZIDbI3GPeEGwMV) | 2:28 |
-| 20 | [Über dich](https://open.spotify.com/track/3qM79gu83nz6RiT98UGWTI) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Besser kann ich es nicht erklären](https://open.spotify.com/album/2x3GbNC5I3eFx4ZrFJjvsy) | 3:04 |
-| 21 | [Versprich mir du gehst](https://open.spotify.com/track/3aQJMAHkaEFNt2fD9JvDXa) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ), [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 2:58 |
+| 20 | [Versprich mir du gehst](https://open.spotify.com/track/3aQJMAHkaEFNt2fD9JvDXa) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ), [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 2:58 |
+| 21 | [Über dich](https://open.spotify.com/track/3qM79gu83nz6RiT98UGWTI) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Besser kann ich es nicht erklären](https://open.spotify.com/album/2x3GbNC5I3eFx4ZrFJjvsy) | 3:04 |
 | 22 | [Follow Me \(Into the Sun\)](https://open.spotify.com/track/1am9iMOzvV1VrhwCBsPmbc) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Follow Me \(Into the Sun\)](https://open.spotify.com/album/6L7ZEimKo9L67LdkYd8HpZ) | 1:35 |
 | 23 | [Between The Lies](https://open.spotify.com/track/6wt5mtCAxAgFJ084gobHGx) | [DHALI](https://open.spotify.com/artist/0sUz3y3TQ9UlD5qehZHfwT) | [Between The Lies](https://open.spotify.com/album/5OvACh4nCKjELix6o8yOxH) | 3:01 |
 | 24 | [If This Ain't Love](https://open.spotify.com/track/7oBIOtw4TmPPEHB9mxnfoS) | [LOFLY](https://open.spotify.com/artist/6Nq0fa6pYLroAcMDPenPsk), [boy with a scar](https://open.spotify.com/artist/7kunuxTlJDipiIZpC1aZqZ) | [If This Ain't Love](https://open.spotify.com/album/54f7eAbmDVQTMCv7XMikTL) | 2:18 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 58 | [Flimmerlicht](https://open.spotify.com/track/7J2aP9q1HDpq7edb4b7sK5) | [48 Stunden](https://open.spotify.com/artist/0lzjvvk1UkMwgbpDYlpE7M) | [Der Letzte Sommer](https://open.spotify.com/album/3i9sd6fOlY6b6EVrs6lzT6) | 4:04 |
 | 59 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
 
-Snapshot ID: `Mjg0NDMwMjAsMDAwMDAwMDBkOTE1NDZjMGRiOTVhNGQ2NTExYjczNDk5NzFjZmZjMg==`
+Snapshot ID: `Mjg0NDQ0NjAsMDAwMDAwMDBhYThkZWY2ZGZjMjVkYmYzYWEwNGU5NTIzNmViYjAxMg==`

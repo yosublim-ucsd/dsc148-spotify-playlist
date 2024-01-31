@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c2024\u5e74\u306b\u8e8d\u9032\u3092\u671f\u5f85\u3059\u308b\u6b21\u4e16\u4ee3\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u300cRADAR: Early Noise 2024\u300d10\u7d44\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u767a\u8868\uff01\uff01 Cover: First Love is Never Returned/\uff0a<a href=\"https://spotify-earlynoise.jp/\">2024.3.15 Early Noise Night#16\u958b\u50ac\u6c7a\u5b9a\uff01</a>",
+  "description": "Spotify\u304c2024\u5e74\u306b\u8e8d\u9032\u3092\u671f\u5f85\u3059\u308b\u6b21\u4e16\u4ee3\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u300cRADAR: Early Noise 2024\u300d10\u7d44\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u767a\u8868\uff01\uff01 Cover: \u96e2\u5a5a\u4f1d\u8aac/\uff0a<a href=\"https://spotify-earlynoise.jp/\">2024.3.15 Early Noise Night#16\u958b\u50ac\u6c7a\u5b9a\uff01</a>",
   "name": "RADAR: Early Noise 2024",
   "tracks": [
     {
@@ -15343,6 +15343,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3089\u308f\u308c\u306a\u3044\u3067",
+        "url": "https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237122,
+      "name": "\u3042\u3089\u308f\u308c\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa"
+    },
+    {
+      "album": {
         "name": "\u3042\u308a\u5f97\u306a\u3044\u5e78\u305b",
         "url": "https://open.spotify.com/album/1uBEB0i549HcnlAXlFknrm"
       },
@@ -17858,7 +17876,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 218166,
       "name": "\u30b9\u30d1\u30f3\u30b3\u30fc\u30eb\u306e\u5973",
       "url": "https://open.spotify.com/track/3HFqp1jOem1Htc6K7nFpTm"
@@ -19344,6 +19362,24 @@
       "duration_ms": 224800,
       "name": "\u30e9\u30d6\u30ec\u30bf\u30fc",
       "url": "https://open.spotify.com/track/7c7rjEaoqcCsDSVJ6KfBd3"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30f3\u30bf\u30f3",
+        "url": "https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206133,
+      "name": "\u30e9\u30f3\u30bf\u30f3",
+      "url": "https://open.spotify.com/track/4osMB4WygimYX7kKCx8OxU"
     },
     {
       "album": {
@@ -24368,7 +24404,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 187946,
       "name": "\u8a00\u7109",
       "url": "https://open.spotify.com/track/6sgFQ5GNkyvmdNlULIlzRA"

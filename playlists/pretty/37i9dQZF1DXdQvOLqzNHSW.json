@@ -1,12 +1,12 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 972106,
+  "num_followers": 972769,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWVkNGRkMzVmMTZlZTA0ZGZjYjI0OGI4YWM4NTljZWMzMWMwZTAw",
+  "snapshot_id": "MCw2MGQ3ZDE4ZTU4Y2UzODY2YTVkN2JiODQxNWQyNDBjYTQ1MGIxYWE1",
   "tracks": [
     {
       "added_at": "2024-01-04 16:08:54",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Float Back To You",
-        "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
-      },
-      "artists": [
-        {
-          "name": "Holy Hive",
-          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
-        }
-      ],
-      "duration_ms": 135752,
-      "name": "Broom",
-      "url": "https://open.spotify.com/track/5BbalszBPahg1um1QVxSRi"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "Candy / How many miles",
         "url": "https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 141871,
       "name": "How many miles",
       "url": "https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "Float Back To You",
+        "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
+      },
+      "artists": [
+        {
+          "name": "Holy Hive",
+          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
+        }
+      ],
+      "duration_ms": 135752,
+      "name": "Broom",
+      "url": "https://open.spotify.com/track/5BbalszBPahg1um1QVxSRi"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Big Crown Vaults Vol. 3 - Holy Hive",
-        "url": "https://open.spotify.com/album/2WJTqjkxctm9tTax0zAq46"
-      },
-      "artists": [
-        {
-          "name": "Holy Hive",
-          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
-        }
-      ],
-      "duration_ms": 132750,
-      "name": "This Is My Story",
-      "url": "https://open.spotify.com/track/44PXZKO9CfbWrHosfe9j3a"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "LOVE + POP",
         "url": "https://open.spotify.com/album/5God4dounbNrQtR8otCSHD"
       },
@@ -455,22 +439,18 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf"
+        "name": "Big Crown Vaults Vol. 3 - Holy Hive",
+        "url": "https://open.spotify.com/album/2WJTqjkxctm9tTax0zAq46"
       },
       "artists": [
         {
-          "name": "Sherwyn",
-          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
-        },
-        {
-          "name": "Sariah Mae",
-          "url": "https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th"
+          "name": "Holy Hive",
+          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
         }
       ],
-      "duration_ms": 178477,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA"
+      "duration_ms": 132750,
+      "name": "This Is My Story",
+      "url": "https://open.spotify.com/track/44PXZKO9CfbWrHosfe9j3a"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -491,6 +471,26 @@
       "duration_ms": 156026,
       "name": "Let's Go to Trader Joe's",
       "url": "https://open.spotify.com/track/69j9dsNUQQPBab9vCBu99r"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf"
+      },
+      "artists": [
+        {
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        },
+        {
+          "name": "Sariah Mae",
+          "url": "https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th"
+        }
+      ],
+      "duration_ms": 178477,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Craterellus Tubaeformis",
-        "url": "https://open.spotify.com/album/3r1iYMy6HNa2cxtArmxydJ"
-      },
-      "artists": [
-        {
-          "name": "Skinshape",
-          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
-        }
-      ],
-      "duration_ms": 220653,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/5dPUsGMQNCOreRx8jYrOpn"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "Dream Room",
         "url": "https://open.spotify.com/album/59ppoPlK5PjXnl8IMPnOZi"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 222523,
       "name": "Always Tomorrow",
       "url": "https://open.spotify.com/track/0OblxGfTmtALWjImtm7DFd"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "Craterellus Tubaeformis",
+        "url": "https://open.spotify.com/album/3r1iYMy6HNa2cxtArmxydJ"
+      },
+      "artists": [
+        {
+          "name": "Skinshape",
+          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
+        }
+      ],
+      "duration_ms": 220653,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/5dPUsGMQNCOreRx8jYrOpn"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "What's Even Real Anymore",
-        "url": "https://open.spotify.com/album/0V2M8ekAk65ZSYK33TsfJL"
-      },
-      "artists": [
-        {
-          "name": "Old Man Canyon",
-          "url": "https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx"
-        }
-      ],
-      "duration_ms": 249548,
-      "name": "What's Even Real Anymore",
-      "url": "https://open.spotify.com/track/11JY5F9rxxqOXrtdx4KyVp"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "What's Your Motive",
         "url": "https://open.spotify.com/album/0Agt8lNHXUtNqaNfXdF4JH"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 200961,
       "name": "Fiona",
       "url": "https://open.spotify.com/track/5R5bBeonMDFY4VX4DqjNgC"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "What's Even Real Anymore",
+        "url": "https://open.spotify.com/album/0V2M8ekAk65ZSYK33TsfJL"
+      },
+      "artists": [
+        {
+          "name": "Old Man Canyon",
+          "url": "https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx"
+        }
+      ],
+      "duration_ms": 249548,
+      "name": "What's Even Real Anymore",
+      "url": "https://open.spotify.com/track/11JY5F9rxxqOXrtdx4KyVp"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "R\u00eaverie",
-        "url": "https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO"
-      },
-      "artists": [
-        {
-          "name": "Les Imprim\u00e9s",
-          "url": "https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf"
-        }
-      ],
-      "duration_ms": 197511,
-      "name": "I'll Never Leave",
-      "url": "https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "Anak Ko",
         "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 237865,
       "name": "Get Well",
       "url": "https://open.spotify.com/track/2HL9AWMPtGWxPEYyEdpdaU"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "R\u00eaverie",
+        "url": "https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO"
+      },
+      "artists": [
+        {
+          "name": "Les Imprim\u00e9s",
+          "url": "https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf"
+        }
+      ],
+      "duration_ms": 197511,
+      "name": "I'll Never Leave",
+      "url": "https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
+        "name": "Iris and I",
+        "url": "https://open.spotify.com/album/0OF4M8g6GOgUvMUX21ypu1"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "Iris and I",
+      "url": "https://open.spotify.com/track/0keKUvQlMR21BPpZfJAMlW"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
         "name": "hurt me enough",
         "url": "https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0"
       },
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Iris and I",
-        "url": "https://open.spotify.com/album/0OF4M8g6GOgUvMUX21ypu1"
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A"
       },
       "artists": [
         {
-          "name": "Ralph Castelli",
-          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+          "name": "Jelly Crystal",
+          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
         }
       ],
-      "duration_ms": 165882,
-      "name": "Iris and I",
-      "url": "https://open.spotify.com/track/0keKUvQlMR21BPpZfJAMlW"
+      "duration_ms": 221692,
+      "name": "Don Lemon",
+      "url": "https://open.spotify.com/track/78qzUOwcFqXdA5npQMLwAh"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -1307,22 +1323,6 @@
       "duration_ms": 185333,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/11nL5QfqIl1DEpwlxbQplf"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
-        "name": "Prince",
-        "url": "https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A"
-      },
-      "artists": [
-        {
-          "name": "Jelly Crystal",
-          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
-        }
-      ],
-      "duration_ms": 221692,
-      "name": "Don Lemon",
-      "url": "https://open.spotify.com/track/78qzUOwcFqXdA5npQMLwAh"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/6ZQtzX4jkYZ9bCrHJuqluB"
-      },
-      "artists": [
-        {
-          "name": "Morning Silk",
-          "url": "https://open.spotify.com/artist/4tyiJFCv1MuTzfykbK0q7A"
-        }
-      ],
-      "duration_ms": 188253,
-      "name": "Nightlife",
-      "url": "https://open.spotify.com/track/4UZjcwGRc99D7GwJYXVRPd"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "Everything Was Green",
         "url": "https://open.spotify.com/album/2e44vmxqO2T41YHmKVbsv3"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 255419,
       "name": "Violence",
       "url": "https://open.spotify.com/track/5NPXREEwnaFzuGzEPdvaca"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/6ZQtzX4jkYZ9bCrHJuqluB"
+      },
+      "artists": [
+        {
+          "name": "Morning Silk",
+          "url": "https://open.spotify.com/artist/4tyiJFCv1MuTzfykbK0q7A"
+        }
+      ],
+      "duration_ms": 188253,
+      "name": "Nightlife",
+      "url": "https://open.spotify.com/track/4UZjcwGRc99D7GwJYXVRPd"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/2mhUlq89PNUsG0iRweZ8no"
-      },
-      "artists": [
-        {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        }
-      ],
-      "duration_ms": 218848,
-      "name": "Really You",
-      "url": "https://open.spotify.com/track/51jPeV7Ece8amGS37cBC80"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "Future Reference",
         "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
       },
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/2mhUlq89PNUsG0iRweZ8no"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "duration_ms": 218848,
+      "name": "Really You",
+      "url": "https://open.spotify.com/track/51jPeV7Ece8amGS37cBC80"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
         "name": "Said I Don't Cry",
         "url": "https://open.spotify.com/album/3PB8BS32ZXxvHTg385Zrzj"
       },
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Lionel Boy",
-        "url": "https://open.spotify.com/album/6GjZiLmCzYL2GnqlqS9759"
-      },
-      "artists": [
-        {
-          "name": "Lionel Boy",
-          "url": "https://open.spotify.com/artist/3UaINrj5Lmv7F7meQPuIGh"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Flower Girl",
-      "url": "https://open.spotify.com/track/0Wv2uZY5ZU5rOxVjXo2ttu"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "Some Place Else",
         "url": "https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 295331,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/5dXSZacyn5kvZHrXZ3rFsL"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "Lionel Boy",
+        "url": "https://open.spotify.com/album/6GjZiLmCzYL2GnqlqS9759"
+      },
+      "artists": [
+        {
+          "name": "Lionel Boy",
+          "url": "https://open.spotify.com/artist/3UaINrj5Lmv7F7meQPuIGh"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Flower Girl",
+      "url": "https://open.spotify.com/track/0Wv2uZY5ZU5rOxVjXo2ttu"
     },
     {
       "added_at": "2024-01-04 16:08:54",

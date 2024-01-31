@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,408 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,407 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [Holier \- JD\. REID Remix feat\. Shygirl](https://open.spotify.com/track/3SAGwjKKitPBNpgdi80ScD) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Holier \(JD\. REID Remix feat\. Shygirl\)](https://open.spotify.com/album/42At6bfdhnCcDuX2d3zhxh) | 3:35 |
 | 70 | [I'm a bee you're a flower \- The Bug remix](https://open.spotify.com/track/4iqrBlOyCkCDjpwRkhv2V4) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ), [The Bug](https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw) | [Gateway](https://open.spotify.com/album/7xWbzfGRjJpzrkQ6kONF2w) | 3:45 |
 
-Snapshot ID: `MCxjMTM4NzU1YzA0MGQ3ZGVlNmI0MzUwZWZiZjk0NmE0ZTNhZjJhNjk4`
+Snapshot ID: `MCxlMWI1ODI3OThhODVmZGQyY2VkMWM4ZTU0OGFmY2IzOTY0OWQ0ZThh`

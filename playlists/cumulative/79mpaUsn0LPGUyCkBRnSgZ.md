@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-543 songs - 1 day 11 hr 26 min
+544 songs - 1 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Disorder \- 2019 Digital Master](https://open.spotify.com/track/2OPmhk5vO4qiYE4LEAC9hs) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures](https://open.spotify.com/album/5Dgqy4bBg09Rdw7CQM545s) | 3:32 | 2022-04-04 |  |
 | [DO IT](https://open.spotify.com/track/73IdeGI8Gt1XxcaQ6vBsyD) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 2:12 | 2024-01-08 |  |
 | [Dodecahedron](https://open.spotify.com/track/0rbBNWwPxwXUSlqUmlh4JK) | [$ilkMoney](https://open.spotify.com/artist/6hj2p7pzusn5Fcdi35Yedr) | [I Don't Give a Fuck About This Rap Shit, Imma Just Drop Until I Don't Feel Like It Anymore](https://open.spotify.com/album/1JfbPIbBc0wMHgl5zmwm9x) | 2:42 | 2022-11-24 |  |
+| [Dolphin](https://open.spotify.com/track/10n7ftA9Y0hAdaFMWDYsk2) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Buoys](https://open.spotify.com/album/3vnTHiTvlOcNFg2wCK0Uyl) | 3:41 | 2024-01-31 |  |
 | [Don't Break The Silence](https://open.spotify.com/track/7fTEiF3rNCc8TDagCAXjhd) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 1:44 | 2023-04-24 |  |
 | [Don't Go Near The Water \- Remastered 2009](https://open.spotify.com/track/1bqc35qbUzNP7kH19ql8PF) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 2:41 | 2023-08-04 |  |
 | [Don't Stop Believin' \(2022 Remaster\)](https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 4:09 | 2024-01-18 |  |

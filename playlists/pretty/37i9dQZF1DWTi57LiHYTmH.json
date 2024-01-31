@@ -1,12 +1,12 @@
 {
   "description": "A calm and cosy classical soundtrack to all activities. ",
-  "num_followers": 29718,
+  "num_followers": 29931,
   "original_name": "Classical in the Background",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGI3ZGM0MDQ0NGIwYTRiMmUyMjgyYjBmZGRkM2UyMzZiNGE4ODIy",
+  "snapshot_id": "MCw4ZWFkMjBkOGI3NDNjNWJmMzc0OGRlYjBiZmM1YWViYTNkYmY5NTk3",
   "tracks": [
     {
       "added_at": "2024-01-26 10:23:36",
@@ -499,22 +499,22 @@
     {
       "added_at": "2024-01-26 10:23:36",
       "album": {
-        "name": "Grieg: Piano Concerto; Lyric Pieces",
-        "url": "https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n"
+        "name": "Sibelius: Piano Music, Vol. 4",
+        "url": "https://open.spotify.com/album/5ua9CNv1DptXlzsA0nYMJ2"
       },
       "artists": [
         {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
         },
         {
-          "name": "Javier Perianes",
-          "url": "https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz"
+          "name": "H\u00e5vard Gimse",
+          "url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I"
         }
       ],
-      "duration_ms": 85906,
-      "name": "Lyric Pieces, Book 1, Op. 12: I. Arietta",
-      "url": "https://open.spotify.com/track/76wV53YHl0tGEvT3L0QzvK"
+      "duration_ms": 140333,
+      "name": "5 Pieces, Op. 75, \"The Trees\": No. 3 Aspen",
+      "url": "https://open.spotify.com/track/6MoY9dj27qBHzCCmcvYTIJ"
     },
     {
       "added_at": "2024-01-26 10:23:36",
@@ -539,22 +539,22 @@
     {
       "added_at": "2024-01-26 10:23:36",
       "album": {
-        "name": "Sibelius: Piano Music, Vol. 4",
-        "url": "https://open.spotify.com/album/5ua9CNv1DptXlzsA0nYMJ2"
+        "name": "Grieg: Piano Concerto; Lyric Pieces",
+        "url": "https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n"
       },
       "artists": [
         {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
-          "name": "H\u00e5vard Gimse",
-          "url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I"
+          "name": "Javier Perianes",
+          "url": "https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz"
         }
       ],
-      "duration_ms": 140333,
-      "name": "5 Pieces, Op. 75, \"The Trees\": No. 3 Aspen",
-      "url": "https://open.spotify.com/track/6MoY9dj27qBHzCCmcvYTIJ"
+      "duration_ms": 85906,
+      "name": "Lyric Pieces, Book 1, Op. 12: I. Arietta",
+      "url": "https://open.spotify.com/track/76wV53YHl0tGEvT3L0QzvK"
     },
     {
       "added_at": "2024-01-26 10:23:36",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-01-26 10:23:36",
       "album": {
-        "name": "Schumann: Kinderszenen; Kreisleriana",
-        "url": "https://open.spotify.com/album/6sxH5yHob34qbhbYjYWjsX"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
-        }
-      ],
-      "duration_ms": 113240,
-      "name": "Kinderszenen, Op. 15: 1. Von fremden L\u00e4ndern und Menschen",
-      "url": "https://open.spotify.com/track/4pfkZUqRCYG5If39QHFpbQ"
-    },
-    {
-      "added_at": "2024-01-26 10:23:36",
-      "album": {
         "name": "Schubert",
         "url": "https://open.spotify.com/album/073hIhdGDDOfOXDiYvO0kC"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 442172,
       "name": "St\u00e4ndchen, S. 560 (Trans. from Schwanengesang No. 4, D. 957)",
       "url": "https://open.spotify.com/track/4b59u2E74KcDuyHCRBkf5v"
+    },
+    {
+      "added_at": "2024-01-26 10:23:36",
+      "album": {
+        "name": "Schumann: Kinderszenen; Kreisleriana",
+        "url": "https://open.spotify.com/album/6sxH5yHob34qbhbYjYWjsX"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "duration_ms": 113240,
+      "name": "Kinderszenen, Op. 15: 1. Von fremden L\u00e4ndern und Menschen",
+      "url": "https://open.spotify.com/track/4pfkZUqRCYG5If39QHFpbQ"
     },
     {
       "added_at": "2024-01-26 10:23:36",
@@ -991,26 +991,6 @@
     {
       "added_at": "2024-01-26 10:23:36",
       "album": {
-        "name": "Takemitsu, Hindemith, Jan\u00e1\u010dek, Silvestrov: Five Pieces",
-        "url": "https://open.spotify.com/album/3NCv2JjqPcJQx1dYcGDPiv"
-      },
-      "artists": [
-        {
-          "name": "Valentin Silvestrov",
-          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
-        },
-        {
-          "name": "Duo Gazzana",
-          "url": "https://open.spotify.com/artist/44yqsYKtToaDXjtyMuVXCj"
-        }
-      ],
-      "duration_ms": 179360,
-      "name": "Five Pieces For Violin And Piano: I. Elegia (Andante Larghetto)",
-      "url": "https://open.spotify.com/track/1d1FNmfO3dFlH8873yNFX3"
-    },
-    {
-      "added_at": "2024-01-26 10:23:36",
-      "album": {
         "name": "Lullabies for Mila",
         "url": "https://open.spotify.com/album/7DfeNcn4aBR5eimaq9imOx"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 220773,
       "name": "Lyric Pieces, Book 5, Op. 54: Nocturne",
       "url": "https://open.spotify.com/track/2GJFu2G9fhaYFrOoX9bejs"
+    },
+    {
+      "added_at": "2024-01-26 10:23:36",
+      "album": {
+        "name": "Takemitsu, Hindemith, Jan\u00e1\u010dek, Silvestrov: Five Pieces",
+        "url": "https://open.spotify.com/album/3NCv2JjqPcJQx1dYcGDPiv"
+      },
+      "artists": [
+        {
+          "name": "Valentin Silvestrov",
+          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
+        },
+        {
+          "name": "Duo Gazzana",
+          "url": "https://open.spotify.com/artist/44yqsYKtToaDXjtyMuVXCj"
+        }
+      ],
+      "duration_ms": 179360,
+      "name": "Five Pieces For Violin And Piano: I. Elegia (Andante Larghetto)",
+      "url": "https://open.spotify.com/track/1d1FNmfO3dFlH8873yNFX3"
     },
     {
       "added_at": "2024-01-26 10:23:36",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-01-26 10:23:36",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/5wXv0fuobRh6ZzrJvuHveh"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        }
+      ],
+      "duration_ms": 188906,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/6k5iJy3uIEhaqZu9MCGCiq"
+    },
+    {
+      "added_at": "2024-01-26 10:23:36",
+      "album": {
         "name": "Mahler: Symphony No. 5",
         "url": "https://open.spotify.com/album/2xhhbZySK489esUAtrs65j"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 583293,
       "name": "Mahler: Symphony No. 5 in C-Sharp Minor: IV. Adagietto. Sehr langsam",
       "url": "https://open.spotify.com/track/0cqcRqZgkNHanWQ8slYA0v"
-    },
-    {
-      "added_at": "2024-01-26 10:23:36",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/5wXv0fuobRh6ZzrJvuHveh"
-      },
-      "artists": [
-        {
-          "name": "Ola Gjeilo",
-          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "Winter",
-      "url": "https://open.spotify.com/track/6k5iJy3uIEhaqZu9MCGCiq"
     },
     {
       "added_at": "2024-01-26 10:23:36",
@@ -1351,30 +1351,6 @@
     {
       "added_at": "2024-01-26 10:23:36",
       "album": {
-        "name": "Schumann & Schubert - Transcriptions for Clarinet & Harp",
-        "url": "https://open.spotify.com/album/2O1MCD0Yt1sh79kNyq3Gxk"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Anneleen Lenaerts",
-          "url": "https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I"
-        },
-        {
-          "name": "Dionysis Grammenos",
-          "url": "https://open.spotify.com/artist/1gyehD73iVuIYqL6Rltepc"
-        }
-      ],
-      "duration_ms": 129919,
-      "name": "Schumann: 12 Gedichte aus Liebesfr\u00fchling, Op. 37: No. 11: Warum willst du andre fragen",
-      "url": "https://open.spotify.com/track/1NechTDnTtSaciAT6gmvJQ"
-    },
-    {
-      "added_at": "2024-01-26 10:23:36",
-      "album": {
         "name": "Elgar: Cello Concerto / Tchaikovsky: Rococo Variations / Dvo\u0159\u00e1k: Silent Woods; Rondo",
         "url": "https://open.spotify.com/album/1CTMjqapaLGF4Qi0fMtfuf"
       },
@@ -1399,6 +1375,30 @@
       "duration_ms": 156573,
       "name": "Variations on a Rococo Theme, Op. 33, TH 57: Var: VI. Andante",
       "url": "https://open.spotify.com/track/123zFAGx0F5ScgrLrCWGDX"
+    },
+    {
+      "added_at": "2024-01-26 10:23:36",
+      "album": {
+        "name": "Schumann & Schubert - Transcriptions for Clarinet & Harp",
+        "url": "https://open.spotify.com/album/2O1MCD0Yt1sh79kNyq3Gxk"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Anneleen Lenaerts",
+          "url": "https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I"
+        },
+        {
+          "name": "Dionysis Grammenos",
+          "url": "https://open.spotify.com/artist/1gyehD73iVuIYqL6Rltepc"
+        }
+      ],
+      "duration_ms": 129919,
+      "name": "Schumann: 12 Gedichte aus Liebesfr\u00fchling, Op. 37: No. 11: Warum willst du andre fragen",
+      "url": "https://open.spotify.com/track/1NechTDnTtSaciAT6gmvJQ"
     },
     {
       "added_at": "2024-01-26 10:23:36",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2024-01-26 10:23:36",
       "album": {
-        "name": "Schubert: Piano Works",
-        "url": "https://open.spotify.com/album/095vJUCcQB9qznxjB9i4ol"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Michael Endres",
-          "url": "https://open.spotify.com/artist/0oaOc1sdr4AeSzqL8w5ndo"
-        }
-      ],
-      "duration_ms": 96253,
-      "name": "Waltz, D. 1/14, \"Kupelwieser-Walzer\"",
-      "url": "https://open.spotify.com/track/0w5HZnzDgV3WgpIRZG1U6U"
-    },
-    {
-      "added_at": "2024-01-26 10:23:36",
-      "album": {
         "name": "Field: Piano Music, Vol. 1",
         "url": "https://open.spotify.com/album/6M8FX7UmvvKWISfxVvxa40"
       },
@@ -1631,18 +1611,22 @@
     {
       "added_at": "2024-01-26 10:23:36",
       "album": {
-        "name": "re:member",
-        "url": "https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG"
+        "name": "Schubert: Piano Works",
+        "url": "https://open.spotify.com/album/095vJUCcQB9qznxjB9i4ol"
       },
       "artists": [
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Michael Endres",
+          "url": "https://open.spotify.com/artist/0oaOc1sdr4AeSzqL8w5ndo"
         }
       ],
-      "duration_ms": 125413,
-      "name": "momentary",
-      "url": "https://open.spotify.com/track/2vD20Aj8Ru9NAmJl1Ca2qS"
+      "duration_ms": 96253,
+      "name": "Waltz, D. 1/14, \"Kupelwieser-Walzer\"",
+      "url": "https://open.spotify.com/track/0w5HZnzDgV3WgpIRZG1U6U"
     },
     {
       "added_at": "2024-01-26 10:23:36",
@@ -1663,6 +1647,22 @@
       "duration_ms": 206162,
       "name": "Memories of a Promenade II",
       "url": "https://open.spotify.com/track/4bFdyisLdkeS7tmbAWpl13"
+    },
+    {
+      "added_at": "2024-01-26 10:23:36",
+      "album": {
+        "name": "re:member",
+        "url": "https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 125413,
+      "name": "momentary",
+      "url": "https://open.spotify.com/track/2vD20Aj8Ru9NAmJl1Ca2qS"
     },
     {
       "added_at": "2024-01-26 10:23:36",
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2024-01-26 10:23:36",
       "album": {
-        "name": "Adagietto (Matthew Herbert Mediterranean Dub)",
-        "url": "https://open.spotify.com/album/4EzUGS9EkHAxmAKhhErNkE"
-      },
-      "artists": [
-        {
-          "name": "Arash Safaian",
-          "url": "https://open.spotify.com/artist/1HJAvrFp5Azmk9LM5VPhme"
-        },
-        {
-          "name": "Sebastian Knauer",
-          "url": "https://open.spotify.com/artist/6hRtFDYbfdrGOgKcIuN7nh"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "Adagietto",
-      "url": "https://open.spotify.com/track/6PBCzLB9IiyA6kM6Q3nO5x"
-    },
-    {
-      "added_at": "2024-01-26 10:23:36",
-      "album": {
         "name": "Debussy: Complete Works for Solo Piano, Vol.1",
         "url": "https://open.spotify.com/album/0cfusqtz8FdhjN03BUAS0l"
       },
@@ -1743,6 +1723,26 @@
       "duration_ms": 257000,
       "name": "R\u00eaverie, L. 68: R\u00eaverie",
       "url": "https://open.spotify.com/track/3YJrnXT1UNpRgnc7lcgXSF"
+    },
+    {
+      "added_at": "2024-01-26 10:23:36",
+      "album": {
+        "name": "Adagietto (Matthew Herbert Mediterranean Dub)",
+        "url": "https://open.spotify.com/album/4EzUGS9EkHAxmAKhhErNkE"
+      },
+      "artists": [
+        {
+          "name": "Arash Safaian",
+          "url": "https://open.spotify.com/artist/1HJAvrFp5Azmk9LM5VPhme"
+        },
+        {
+          "name": "Sebastian Knauer",
+          "url": "https://open.spotify.com/artist/6hRtFDYbfdrGOgKcIuN7nh"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "Adagietto",
+      "url": "https://open.spotify.com/track/6PBCzLB9IiyA6kM6Q3nO5x"
     },
     {
       "added_at": "2024-01-26 10:23:36",
@@ -2127,26 +2127,6 @@
     {
       "added_at": "2024-01-26 10:23:36",
       "album": {
-        "name": "Romance \u2013 The Piano Music of Clara Schumann",
-        "url": "https://open.spotify.com/album/7Jt7TzZQgrMsJgI7CPyApE"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Isata Kanneh-Mason",
-          "url": "https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M"
-        }
-      ],
-      "duration_ms": 182720,
-      "name": "3 Romances, Op. 11: No. 1, Andante",
-      "url": "https://open.spotify.com/track/6VLzm03YUeXVl3GdGyib6J"
-    },
-    {
-      "added_at": "2024-01-26 10:23:36",
-      "album": {
         "name": "Field: Complete Nocturnes",
         "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
       },
@@ -2163,6 +2143,26 @@
       "duration_ms": 221731,
       "name": "Nocturne No. 1 in E Flat Major, H.24",
       "url": "https://open.spotify.com/track/4h4py9AzEuUGBTJZO4ifnm"
+    },
+    {
+      "added_at": "2024-01-26 10:23:36",
+      "album": {
+        "name": "Romance \u2013 The Piano Music of Clara Schumann",
+        "url": "https://open.spotify.com/album/7Jt7TzZQgrMsJgI7CPyApE"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Isata Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M"
+        }
+      ],
+      "duration_ms": 182720,
+      "name": "3 Romances, Op. 11: No. 1, Andante",
+      "url": "https://open.spotify.com/track/6VLzm03YUeXVl3GdGyib6J"
     },
     {
       "added_at": "2024-01-26 10:23:36",
@@ -2447,26 +2447,6 @@
     {
       "added_at": "2024-01-26 10:23:36",
       "album": {
-        "name": "Schumann : Piano works",
-        "url": "https://open.spotify.com/album/6jBpmfj61Fb3gOmpGTcMlv"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Piotr Anderszewski",
-          "url": "https://open.spotify.com/artist/0ndw1tUehEV3tnnYUnqFw9"
-        }
-      ],
-      "duration_ms": 125466,
-      "name": "Schumann: 6 Studien in kanonischer Form, Op. 56: No. 1, Nicht schnell",
-      "url": "https://open.spotify.com/track/1q5ayzgYUD1uL2kI389fV4"
-    },
-    {
-      "added_at": "2024-01-26 10:23:36",
-      "album": {
         "name": "Chopin: The Nocturnes",
         "url": "https://open.spotify.com/album/3E18eNdHxIZ5ri5H8dzbAD"
       },
@@ -2527,6 +2507,26 @@
       "duration_ms": 55213,
       "name": "Pictures at an Exhibition (Orch. M. Ravel): Promenade II",
       "url": "https://open.spotify.com/track/5uONLpSzdrUP6N1rSKRU8o"
+    },
+    {
+      "added_at": "2024-01-26 10:23:36",
+      "album": {
+        "name": "Schumann : Piano works",
+        "url": "https://open.spotify.com/album/6jBpmfj61Fb3gOmpGTcMlv"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Piotr Anderszewski",
+          "url": "https://open.spotify.com/artist/0ndw1tUehEV3tnnYUnqFw9"
+        }
+      ],
+      "duration_ms": 125466,
+      "name": "Schumann: 6 Studien in kanonischer Form, Op. 56: No. 1, Nicht schnell",
+      "url": "https://open.spotify.com/track/1q5ayzgYUD1uL2kI389fV4"
     },
     {
       "added_at": "2024-01-26 10:23:36",

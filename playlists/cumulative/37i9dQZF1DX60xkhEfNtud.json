@@ -682,7 +682,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 196000,
       "name": "Under The Sea (Whales)",
       "url": "https://open.spotify.com/track/5ppHJrFzKI9JzLwjyIdPwF"
@@ -740,6 +740,24 @@
       "duration_ms": 162250,
       "name": "Whale Ambience",
       "url": "https://open.spotify.com/track/5SxLUl5mYk8MYdH71x9Bx1"
+    },
+    {
+      "album": {
+        "name": "Whale Chorus",
+        "url": "https://open.spotify.com/album/0gdAEHCUMn7SGYKD1hhi1f"
+      },
+      "artists": [
+        {
+          "name": "Ocean Roar",
+          "url": "https://open.spotify.com/artist/0o0rFNhdMAzctv0rVhzDlP"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Whale Chorus",
+      "url": "https://open.spotify.com/track/1FqDX8jCdMunaW0sL8C50p"
     },
     {
       "album": {

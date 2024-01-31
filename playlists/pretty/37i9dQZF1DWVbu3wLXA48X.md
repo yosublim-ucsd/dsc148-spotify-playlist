@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: The Smile
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,272 likes - 102 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,274 likes - 102 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 69 | [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 |
 | 70 | [30 Somehow](https://open.spotify.com/track/7kr4xACIU9qq0FXnOFVSTZ) | [Nicotine Dolls](https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM) | [How Do You Love Me](https://open.spotify.com/album/2fOuSjF8vzo5dptyMi8o5s) | 4:41 |
 | 71 | [Black Hole](https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:21 |
-| 72 | [Performance In a Dream \(feat\. Our Shame\)](https://open.spotify.com/track/1MHSNAn5Y3w8BsfNwqKA73) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT), [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5) | [Nightvision \(Love Is God 13/16 Edition\)](https://open.spotify.com/album/4MhBkAPrf0TSioJv7b2Re1) | 4:25 |
+| 72 | [Performance In a Dream \(feat\. Our Shame\)](https://open.spotify.com/track/5dCIeG01S5SNV2kLGrBxwt) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT), [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5) | [Nightvision \(Love Is God Edition\)](https://open.spotify.com/album/5uwlX45meAGA6nbxUwELJw) | 4:25 |
 | 73 | [Heaven \- feat\. Damon Albarn](https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 5:22 |
 | 74 | [Edith](https://open.spotify.com/track/0RLOqj3jq878w5UMg7tjp6) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Hitchhiker](https://open.spotify.com/album/32Srim9ACKmJsJvszNNlTe) | 3:24 |
 | 75 | [Sleeper](https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Sleeper](https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD) | 4:04 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 79 | [Better Than Snow](https://open.spotify.com/track/74H6uHl17HLeYWshgDfMrX) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Christmas With You](https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp) | 2:46 |
 | 80 | [Average Guy \(Blame\)](https://open.spotify.com/track/1ZJaZDD8D9SqmBNAXehB6H) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43) | [Average Guy \(Blame\)](https://open.spotify.com/album/3IDnvOtwynPayvIxyY7Zdo) | 3:00 |
 | 81 | [Sunny](https://open.spotify.com/track/2PQNbNPuSfNa3B3r447fbL) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Sunny](https://open.spotify.com/album/5FyY9wYLHeJoFzPl0tOU5k) | 3:31 |
-| 82 | [Million \- hanbee Remix](https://open.spotify.com/track/4YycpPLZiVfITeG4SQwJn7) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT), [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Nightvision \(Love Is God 11/16 Edition\)](https://open.spotify.com/album/0LlL4HaYQ0HB0Z0D8bU312) | 2:57 |
+| 82 | [Million \- hanbee Remix](https://open.spotify.com/track/7B7jj4RXEvSeH7BF4Eb37f) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT), [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Nightvision \(Love Is God Edition\)](https://open.spotify.com/album/5uwlX45meAGA6nbxUwELJw) | 2:57 |
 | 83 | [Funny](https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Funny](https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2) | 5:02 |
 | 84 | [Humble Pie Tattoo](https://open.spotify.com/track/3b4mQzg1rKjS9MOJEIcxMl) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Humble Pie Tattoo](https://open.spotify.com/album/5jSWI40dDQcw7Z0lQzIJ2z) | 3:32 |
 | 85 | [Closer](https://open.spotify.com/track/24Ai9oaKiidTGV4Keotqml) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [８](https://open.spotify.com/album/18BdJtCTwpeeyRsVEhaT1m) | 3:36 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 101 | [Shadow](https://open.spotify.com/track/4DmvVTpeLgQOhb5RZJOPmj) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Shadow](https://open.spotify.com/album/6uEBSqiCHj0LD3rWb8j0kS) | 3:46 |
 | 102 | [I Feel Something Like That](https://open.spotify.com/track/0JbrWWQiqT0L45zUNM6GYQ) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3), [RUZZY TATTOO COLOUR](https://open.spotify.com/artist/5umzj4PGA5pKpgr40TMbsz) | [Hey Mom,Did You See Me In The Newspaper?](https://open.spotify.com/album/2QGUzPveseqBGL7bptAnkx) | 3:29 |
 
-Snapshot ID: `MCwzMDdlMzc3ZWM1NDYyM2MxNDBkMDE2MzAzMzRkNjc3MTIyNjU3NDAw`
+Snapshot ID: `MCxhMjdjNWM0MzI3MmNjOTk5MDk4NWRmMzU4OTU1NTYxNzQyZDg0M2Zj`

@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 115932,
+  "2024-01-31": 116011,
   "date_first_scraped": "2023-05-19",
   "description": "Hindi hai, Indie hai! Cover- Hansika Pareek",
   "name": "hIndies",
@@ -369,6 +369,24 @@
       "duration_ms": 204238,
       "name": "Chaubaare",
       "url": "https://open.spotify.com/track/4l5Of6D0Gno1dxSFvoiii4"
+    },
+    {
+      "album": {
+        "name": "Chor",
+        "url": "https://open.spotify.com/album/41cYr6R4rPiKExcTvQTnmR"
+      },
+      "artists": [
+        {
+          "name": "Justh",
+          "url": "https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208250,
+      "name": "Chor",
+      "url": "https://open.spotify.com/track/0FCe2NhPWKiSTAipf0lOAT"
     },
     {
       "album": {
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 202105,
       "name": "Khwaab - Reprise",
       "url": "https://open.spotify.com/track/3iAOO4KMNQquv6dbM9UXFP"

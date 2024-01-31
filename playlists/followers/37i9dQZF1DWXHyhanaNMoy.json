@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 319889,
+  "2024-01-31": 319885,
   "date_first_scraped": "2022-07-19",
   "description": "Motion & good vibes! Cover: Tribal Kush & Kalibwoy",
   "name": "La Vida Loca",
@@ -6571,6 +6571,24 @@
       "duration_ms": 184900,
       "name": "Gran Canaria",
       "url": "https://open.spotify.com/track/0hgm955vBh1mR0f8kHzsV2"
+    },
+    {
+      "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu"
+      },
+      "artists": [
+        {
+          "name": "Yung Filly",
+          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169051,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
     },
     {
       "album": {

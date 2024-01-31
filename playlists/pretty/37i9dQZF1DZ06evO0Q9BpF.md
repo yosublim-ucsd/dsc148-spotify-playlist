@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,534 likes - 49 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,551 likes - 49 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 48 | [Corro a Ti](https://open.spotify.com/track/1TWzVI03Z8DIReVDszddt8) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Tu Nos Salvarás](https://open.spotify.com/album/6Y9XV3wB6uILdjHfHy6Aat) | 5:17 |
 | 49 | [Luz del Mundo](https://open.spotify.com/track/0qrFSjXsn1lecSDNQepSnc) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Luz del Mundo](https://open.spotify.com/album/6iLsSwfhvcF8WPu0pfSJeL) | 4:45 |
 
-Snapshot ID: `Mjg0NDIxOTIsMDAwMDAwMDAyYTJiMjVmYWNkYTUwZTM2ZTk4NjFmMzhhYTdlNGNhMQ==`
+Snapshot ID: `Mjg0NDM2MzksMDAwMDAwMDBhZGMyMWU1MmQ2ZTNjYzU0NDhiMTQzODRjMzA5ZTlhOA==`

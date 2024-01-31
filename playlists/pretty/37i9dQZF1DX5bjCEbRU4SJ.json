@@ -1,12 +1,12 @@
 {
   "description": "Calm Down with this chilled out playlist. For when it's time to just sit and bask in the afterglow.",
-  "num_followers": 557088,
+  "num_followers": 557006,
   "original_name": "Calm Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmJjMTVjZmU3NTg5NTdiMWYwNTAwMjFiYjQwZGY2N2E2NGI2MTMw",
+  "snapshot_id": "MCwzNWE4ZmQyYzlmNGIxOWZhNGU3NDczOGQ0OWYzYWU1MzI1Zjk0YThl",
   "tracks": [
     {
       "added_at": "2018-12-11 21:48:39",
@@ -775,6 +775,30 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/2oryf7wi9PMA8BgObK9iqY"
+      },
+      "artists": [
+        {
+          "name": "yiqit",
+          "url": "https://open.spotify.com/artist/6tC54KzFQ30JKxpiBKPrDd"
+        },
+        {
+          "name": "Liwn",
+          "url": "https://open.spotify.com/artist/3UcGRRLC2gosxXDMhXnIal"
+        },
+        {
+          "name": "Arzz",
+          "url": "https://open.spotify.com/artist/5QQsS5bFMV5irKLFceJ9M4"
+        }
+      ],
+      "duration_ms": 230792,
+      "name": "California",
+      "url": "https://open.spotify.com/track/3ixxzeLAqUUsNYBsNh8Dqj"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
         "name": "Sometimes I Wish We Were An Eagle",
         "url": "https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB"
       },
@@ -803,30 +827,6 @@
       "duration_ms": 208160,
       "name": "50 Ways to Leave Your Lover",
       "url": "https://open.spotify.com/track/7bdDULyOUqNyWu6XPeAnSO"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/2oryf7wi9PMA8BgObK9iqY"
-      },
-      "artists": [
-        {
-          "name": "yiqit",
-          "url": "https://open.spotify.com/artist/6tC54KzFQ30JKxpiBKPrDd"
-        },
-        {
-          "name": "Liwn",
-          "url": "https://open.spotify.com/artist/3UcGRRLC2gosxXDMhXnIal"
-        },
-        {
-          "name": "Arzz",
-          "url": "https://open.spotify.com/artist/5QQsS5bFMV5irKLFceJ9M4"
-        }
-      ],
-      "duration_ms": 230792,
-      "name": "California",
-      "url": "https://open.spotify.com/track/3ixxzeLAqUUsNYBsNh8Dqj"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -895,22 +895,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Swing Lo Magellan",
-        "url": "https://open.spotify.com/album/5zQgu9qi6mK8KuleuzM22C"
-      },
-      "artists": [
-        {
-          "name": "Dirty Projectors",
-          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Swing Lo Magellan",
-      "url": "https://open.spotify.com/track/2JtL0a3NHcGkFQ7kfDLKUT"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Big Wheel and Others",
         "url": "https://open.spotify.com/album/4VzHqZqj7qvWcTeic9pB77"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 257453,
       "name": "There Can Be Only One",
       "url": "https://open.spotify.com/track/4YNGgPmj7nkrCKQpaGRxav"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Swing Lo Magellan",
+        "url": "https://open.spotify.com/album/5zQgu9qi6mK8KuleuzM22C"
+      },
+      "artists": [
+        {
+          "name": "Dirty Projectors",
+          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Swing Lo Magellan",
+      "url": "https://open.spotify.com/track/2JtL0a3NHcGkFQ7kfDLKUT"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Blood from a Stone",
-        "url": "https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT"
-      },
-      "artists": [
-        {
-          "name": "Eric Krasno",
-          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
-        }
-      ],
-      "duration_ms": 266804,
-      "name": "When the Day Comes",
-      "url": "https://open.spotify.com/track/1KXwXf9Cr9tixpqXWBMcMu"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Good Grief",
         "url": "https://open.spotify.com/album/2raayEKy9gvlMN6Op4NzMy"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 264040,
       "name": "Dusty Trails",
       "url": "https://open.spotify.com/track/7a3KuESGwpeKOWOGDmuWpX"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Blood from a Stone",
+        "url": "https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT"
+      },
+      "artists": [
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        }
+      ],
+      "duration_ms": 266804,
+      "name": "When the Day Comes",
+      "url": "https://open.spotify.com/track/1KXwXf9Cr9tixpqXWBMcMu"
     },
     {
       "added_at": "2018-12-11 21:48:39",

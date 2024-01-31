@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Sophie Faith",
-  "num_followers": 305913,
+  "num_followers": 305954,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmYxNTVkZTcxZDVmNThhODk5OWUzNzdiYWIwOTMxYzc5MTM1ZDg4",
+  "snapshot_id": "MCxmODM3NzBmNzY2Mjk4OWYwYTU0NDM5OWY1ZDJhMTFmMjliYmQ4YmJl",
   "tracks": [
     {
       "added_at": "2023-12-22 00:00:01",
@@ -43,30 +43,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "The Duke",
-        "url": "https://open.spotify.com/album/6Hew2wHi3fBiGGLaBxYRtu"
-      },
-      "artists": [
-        {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        },
-        {
-          "name": "Moses Boyd",
-          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
-        },
-        {
-          "name": "Simon Dufour",
-          "url": "https://open.spotify.com/artist/3MJwju3XDhIjxT5t9Tq4aw"
-        }
-      ],
-      "duration_ms": 110869,
-      "name": "The Duke",
-      "url": "https://open.spotify.com/track/6Sn8gX7ls3ub1mKEpvBD5S"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Tunnel Vision",
         "url": "https://open.spotify.com/album/5H4AuKv8BhLdZjW8Ra0Ovv"
       },
@@ -87,6 +63,30 @@
       "duration_ms": 69000,
       "name": "Ruby Smiles",
       "url": "https://open.spotify.com/track/5ippVyDzVqQO0NjXGO7Pi2"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "The Duke",
+        "url": "https://open.spotify.com/album/6Hew2wHi3fBiGGLaBxYRtu"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        },
+        {
+          "name": "Moses Boyd",
+          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
+        },
+        {
+          "name": "Simon Dufour",
+          "url": "https://open.spotify.com/artist/3MJwju3XDhIjxT5t9Tq4aw"
+        }
+      ],
+      "duration_ms": 110869,
+      "name": "The Duke",
+      "url": "https://open.spotify.com/track/6Sn8gX7ls3ub1mKEpvBD5S"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "The Way You Look At Me",
-        "url": "https://open.spotify.com/album/0f9Rw9re4jbEx7vhueDfCt"
-      },
-      "artists": [
-        {
-          "name": "Kay Young",
-          "url": "https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK"
-        }
-      ],
-      "duration_ms": 220204,
-      "name": "The Way You Look At Me",
-      "url": "https://open.spotify.com/track/1xnarNBibYchqPjKRuwZzO"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Earth",
         "url": "https://open.spotify.com/album/1L9EOt6qghU2kFVXItfI3S"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 203581,
       "name": "Earth",
       "url": "https://open.spotify.com/track/33SjP7IwTNrPEpZAn16Bzf"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "The Way You Look At Me",
+        "url": "https://open.spotify.com/album/0f9Rw9re4jbEx7vhueDfCt"
+      },
+      "artists": [
+        {
+          "name": "Kay Young",
+          "url": "https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK"
+        }
+      ],
+      "duration_ms": 220204,
+      "name": "The Way You Look At Me",
+      "url": "https://open.spotify.com/track/1xnarNBibYchqPjKRuwZzO"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "HIZUKI // PERFECT DIVIDE",
-        "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Hizuki",
-      "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Variables",
         "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 224322,
       "name": "Next Spring",
       "url": "https://open.spotify.com/track/54ag16aEyB17RWbLWv05KW"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "HIZUKI // PERFECT DIVIDE",
+        "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Hizuki",
+      "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -903,6 +903,26 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Variables",
+        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "duration_ms": 178173,
+      "name": "Apho",
+      "url": "https://open.spotify.com/track/6EMP27Iax2P3LrfFggIt1c"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Temperature High",
         "url": "https://open.spotify.com/album/6KOHE7segw0upBTSCpWELD"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 162307,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/5bHVvFGDTLsUPsgSV8Qi4c"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Variables",
-        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Bongeziwe Mabandla",
-          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
-        }
-      ],
-      "duration_ms": 178173,
-      "name": "Apho",
-      "url": "https://open.spotify.com/track/6EMP27Iax2P3LrfFggIt1c"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Astronaut",
+        "url": "https://open.spotify.com/album/7q8Z5fhvYBhVLFGvv9kif5"
+      },
+      "artists": [
+        {
+          "name": "Ash Walker",
+          "url": "https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F"
+        },
+        {
+          "name": "Kennebec",
+          "url": "https://open.spotify.com/artist/2SF8LSy53kKd82omO2FHNc"
+        }
+      ],
+      "duration_ms": 161283,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/1cDgeJEQvI5PDmWU16R1n5"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor)",
         "url": "https://open.spotify.com/album/2Xk2tl4haAIAl0HPq5LNSN"
       },
@@ -1119,38 +1139,18 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Astronaut",
-        "url": "https://open.spotify.com/album/7q8Z5fhvYBhVLFGvv9kif5"
+        "name": "Lovestruck in London",
+        "url": "https://open.spotify.com/album/5FGBnsHX3HAHOIOsJSOOaK"
       },
       "artists": [
         {
-          "name": "Ash Walker",
-          "url": "https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F"
-        },
-        {
-          "name": "Kennebec",
-          "url": "https://open.spotify.com/artist/2SF8LSy53kKd82omO2FHNc"
+          "name": "Immy",
+          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
         }
       ],
-      "duration_ms": 161283,
-      "name": "Jupiter",
-      "url": "https://open.spotify.com/track/1cDgeJEQvI5PDmWU16R1n5"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Mother Tongue",
-        "url": "https://open.spotify.com/album/2E94ztb8o0S5aHE8kEbS1c"
-      },
-      "artists": [
-        {
-          "name": "Maya Law",
-          "url": "https://open.spotify.com/artist/0Q6WpoERCZSlOanipDVEI6"
-        }
-      ],
-      "duration_ms": 204217,
-      "name": "Mother Tongue",
-      "url": "https://open.spotify.com/track/26nbjJWqDmzzZyMetpzjOP"
+      "duration_ms": 174764,
+      "name": "If You Love The Moon",
+      "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1171,18 +1171,26 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Lovestruck in London",
-        "url": "https://open.spotify.com/album/5FGBnsHX3HAHOIOsJSOOaK"
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/7yw4bZ9kbrQapS8V0Z32Ww"
       },
       "artists": [
         {
-          "name": "Immy",
-          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
+          "name": "Myele Manzanza",
+          "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
+        },
+        {
+          "name": "Matthew Sheens",
+          "url": "https://open.spotify.com/artist/0JPXDx4VWAKMfFCVg2mw5E"
+        },
+        {
+          "name": "Matt Penman",
+          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
         }
       ],
-      "duration_ms": 174764,
-      "name": "If You Love The Moon",
-      "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
+      "duration_ms": 424960,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/1Rd9TkiuqfUXMYNgguXpKY"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1215,26 +1223,18 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/7yw4bZ9kbrQapS8V0Z32Ww"
+        "name": "Mother Tongue",
+        "url": "https://open.spotify.com/album/2E94ztb8o0S5aHE8kEbS1c"
       },
       "artists": [
         {
-          "name": "Myele Manzanza",
-          "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
-        },
-        {
-          "name": "Matthew Sheens",
-          "url": "https://open.spotify.com/artist/0JPXDx4VWAKMfFCVg2mw5E"
-        },
-        {
-          "name": "Matt Penman",
-          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
+          "name": "Maya Law",
+          "url": "https://open.spotify.com/artist/0Q6WpoERCZSlOanipDVEI6"
         }
       ],
-      "duration_ms": 424960,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/1Rd9TkiuqfUXMYNgguXpKY"
+      "duration_ms": 204217,
+      "name": "Mother Tongue",
+      "url": "https://open.spotify.com/track/26nbjJWqDmzzZyMetpzjOP"
     },
     {
       "added_at": "2024-01-12 11:23:55",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Powerful Lady",
-        "url": "https://open.spotify.com/album/5ij9621I1TcRmDvA89336G"
-      },
-      "artists": [
-        {
-          "name": "Alice Markham",
-          "url": "https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o"
-        }
-      ],
-      "duration_ms": 260594,
-      "name": "Powerful Lady",
-      "url": "https://open.spotify.com/track/2O4rnCK71CUylfIGhN5cua"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "The Morning Side of Love",
         "url": "https://open.spotify.com/album/4pK5UBmbIGB03jcNZb4TJf"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 213851,
       "name": "Calling",
       "url": "https://open.spotify.com/track/0SlsuBILHxJwfzboGXIufK"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Powerful Lady",
+        "url": "https://open.spotify.com/album/5ij9621I1TcRmDvA89336G"
+      },
+      "artists": [
+        {
+          "name": "Alice Markham",
+          "url": "https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o"
+        }
+      ],
+      "duration_ms": 260594,
+      "name": "Powerful Lady",
+      "url": "https://open.spotify.com/track/2O4rnCK71CUylfIGhN5cua"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1411,18 +1411,26 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "angel numbers",
-        "url": "https://open.spotify.com/album/3aZYhkmL0GXMeA3mVIGhkK"
+        "name": "Champagne Kisses",
+        "url": "https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU"
       },
       "artists": [
         {
-          "name": "MaZz",
-          "url": "https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7"
+          "name": "Reuben James",
+          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
+        },
+        {
+          "name": "Tom Ford",
+          "url": "https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
         }
       ],
-      "duration_ms": 149968,
-      "name": "angel numbers",
-      "url": "https://open.spotify.com/track/2m20gc2fNcai0gI1uU5YLV"
+      "duration_ms": 235433,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/2n1tmBwwgF0dP0kU9CELhL"
     }
   ],
   "unique_name": "Jazz UK",

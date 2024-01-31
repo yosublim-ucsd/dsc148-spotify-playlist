@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 121469,
+  "2024-01-31": 121566,
   "date_first_scraped": "2022-01-13",
   "description": "The Midwest is always on time. Cover: Skilla Baby",
   "name": "CST",
@@ -2305,7 +2305,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 172115,
       "name": "Candyman",
       "url": "https://open.spotify.com/track/3Zt0VZcBR4DGmuEzpJh7PR"
@@ -12135,6 +12135,24 @@
       "duration_ms": 96093,
       "name": "The Next",
       "url": "https://open.spotify.com/track/7hZfOP3gtRWagxuSwNG7du"
+    },
+    {
+      "album": {
+        "name": "LOS X NUTTY",
+        "url": "https://open.spotify.com/album/6Zs4q98crWtdRkf3E8sAck"
+      },
+      "artists": [
+        {
+          "name": "Los and Nutty",
+          "url": "https://open.spotify.com/artist/1jWzClO5EIz8fpvtl3bno5"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137012,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/4pgtruCqDh9YE3mMyL1KRp"
     },
     {
       "album": {

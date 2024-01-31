@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pYgLUl85GP.md) - [plain]
 
 > El Top 50 de canciones en Instagram Reels, actualizado cada semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,781 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,746 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pYgLUl85GP.md) - [plain]
 | 5 | [Мой мармеладный \(Speed Up\)](https://open.spotify.com/track/6qNHJwdMhNZzyJ7yTDU8zD) | [Katya Lel](https://open.spotify.com/artist/3NguMMTDTItRbe2E2PZrJ2) | [Мой мармеладный \(Speed Up\)](https://open.spotify.com/album/2FNme6NxwflHG6UurhDhlf) | 3:08 |
 | 6 | [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 |
 | 7 | [Twinkling Lights \(Reimagined\)](https://open.spotify.com/track/6CNdCZn45UKso3xrrta7nQ) | [Auni](https://open.spotify.com/artist/2nUvyvqdFqe0pSmCDsoDjw) | [Twinkling Lights \(Reimagined\)](https://open.spotify.com/album/3vfVi6L7yPDeCVAKlEJ6Ts) | 2:01 |
-| 8 | [Otra Vez](https://open.spotify.com/track/5LNf5l8xXqus1s9A43ReEZ) | [ProdMarvin](https://open.spotify.com/artist/0GZZDfmSrMDswOFc9nBWQz) | [Otra Vez](https://open.spotify.com/album/5408habaWK37BE9QUNEstD) | 2:14 |
+| 8 | [Otra Vez](https://open.spotify.com/track/2dz1PWeukbAfsXgJadiaBu) | [ProdMarvin](https://open.spotify.com/artist/0GZZDfmSrMDswOFc9nBWQz) | [Otra Vez](https://open.spotify.com/album/1KLSJkv7h010RmYOVgCSSr) | 2:14 |
 | 9 | [this is what space feels like](https://open.spotify.com/track/6PetYmvjKZBjiUYlnlAcn1) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what space feels like](https://open.spotify.com/album/23Dast9Z49J73VBjh3JulP) | 3:03 |
 | 10 | [Esta Vida Me Encanta](https://open.spotify.com/track/4yteXNA5OLaaHHDdl6KuKU) | [Lea in the Mix](https://open.spotify.com/artist/1r9N4yRWfeyTu4VEWU1yoP) | [Esta Vida Me Encanta](https://open.spotify.com/album/4QX1ofJpRfnQtMgv4S4jRS) | 3:39 |
 | 11 | [Por Dentro](https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Por Dentro](https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4) | 2:45 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pYgLUl85GP.md) - [plain]
 | 30 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 |
 | 31 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
 | 32 | [ANGEL](https://open.spotify.com/track/33pO82v2czlYe19jpx6ENI) | [Toby Mai](https://open.spotify.com/artist/71XRExAcKFmzM0fckCrCvo) | [ANGEL](https://open.spotify.com/album/3kLcgy3mj53vQ284PvX4gV) | 2:30 |
-| 33 | [Montagem Coral](https://open.spotify.com/track/7o5n1CDIYYM3f979LbsMr3) | [loera](https://open.spotify.com/artist/7gSVrCt5LUSUjTRGf2qIlX), [ZETH INC.](https://open.spotify.com/artist/6CH6yCwls8JUmh0J4tKdxj), [Flexyz](https://open.spotify.com/artist/7b1fbUqnT4rGuWLNK8aQDI) | [Montagem Coral](https://open.spotify.com/album/4qYv01PwTelamkcX0aqoYS) | 2:25 |
+| 33 | [Montagem Coral](https://open.spotify.com/track/56nrEf6ozwqRzvxnF3i0fW) | [seyhqnsert](https://open.spotify.com/artist/6HxY3m36GtRhg7v7aFsnPa), [Buserealx](https://open.spotify.com/artist/2FTOriXCdQgd64u939xYuH), [Belaxs](https://open.spotify.com/artist/1GUxcjnzN8wM4MgAE0tE6s) | [Montagem Coral](https://open.spotify.com/album/3pmUloAK5VbWMZ2dffDaJ0) | 2:25 |
 | 34 | [Trendsetter](https://open.spotify.com/track/09VW2o6EHSWwzCdhW4ARU1) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u) | [Trendsetter](https://open.spotify.com/album/1Hxam85Bhf98cIkMRKX9QA) | 2:22 |
 | 35 | [Heartbeat](https://open.spotify.com/track/5y3M0g9NeTe4YKc0uBvVX1) | [Nitecore](https://open.spotify.com/artist/485ejjccNSGYlOTuNc0AN0) | [Heartbeat](https://open.spotify.com/album/5pqtjzO6DNDeDGKFlTUyhW) | 2:27 |
 | 36 | [Out of My League \- Sped Up](https://open.spotify.com/track/4y7SaFjgZMbTOxK833yJKd) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Out of My League Collection](https://open.spotify.com/album/0NeVF3Nalvj9MXdNIlYbjh) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pYgLUl85GP.md) - [plain]
 | 49 | [Tiempo](https://open.spotify.com/track/0roHxvWUsTnrKQDTXKXGwZ) | [Tony Dark Eyes](https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP), [Sofia Rød](https://open.spotify.com/artist/1DKDOfgZ1sBbOQwXfPKOHN) | [Tiempo](https://open.spotify.com/album/67t8LdykkpoG6o7nmjmzuv) | 4:01 |
 | 50 | [Little Life](https://open.spotify.com/track/51WRxaNJVQuXOBYUAmSzbf) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Little Life \(radio edit cos they made me\)](https://open.spotify.com/album/5z0Mu1Ez4F9ijTlpexZ5Rk) | 4:30 |
 
-Snapshot ID: `MCxhZjIxYjNkODZmNmQ4N2MzN2I3MDI3MjBjYzc1ZjcyOTkyYTI1MDgx`
+Snapshot ID: `MCxlZjQ3YWZhYzY5ZjA1N2U4YmY2NTM2MGY0MTg1YzQ5MzJjZjAyMmVh`

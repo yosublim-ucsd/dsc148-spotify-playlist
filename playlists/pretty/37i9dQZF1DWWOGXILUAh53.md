@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Kygo & Ava Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,326 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,432 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 49 | [Run From You](https://open.spotify.com/track/2ouMNYPXQ6P9epCLmiqRSg) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [Run From You](https://open.spotify.com/album/5EY4emNooAmEsHDquKD104) | 2:47 |
 | 50 | [Don't Call Me Up](https://open.spotify.com/track/2fCTMmtNWFPR49sXkzwB4g) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Don't Call Me Up](https://open.spotify.com/album/7x51vYN8rt6vrpIwwQWcU2) | 2:23 |
 
-Snapshot ID: `MCw3Y2Y0NWU5M2YyYjkxZGNhZTdmODllYTE0OWRjMTU0MTgwYjA0MDVi`
+Snapshot ID: `MCxlZmQ1YWU5Mjk1MTE1YTY5NTlmMGMxNTY2NDAxYTU3ZjA1NTM0YTE4`

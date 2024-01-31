@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 1182453,
+  "2024-01-31": 1182595,
   "date_first_scraped": "2021-12-30",
   "description": "We hear you.",
   "name": "idk.",
@@ -5587,7 +5587,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 195467,
       "name": "If I Showed You",
       "url": "https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz"
@@ -5717,6 +5717,24 @@
       "duration_ms": 174198,
       "name": "infinity",
       "url": "https://open.spotify.com/track/6hbSCFjiWeL9vmOvoA7xvp"
+    },
+    {
+      "album": {
+        "name": "infinity",
+        "url": "https://open.spotify.com/album/6Av8IyC0LC2H11oSpvXKRF"
+      },
+      "artists": [
+        {
+          "name": "asumuh",
+          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174208,
+      "name": "infinity",
+      "url": "https://open.spotify.com/track/1LKRq7700oFaulUp6MpIiW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,977 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,976 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 79 | [Christmas Blues](https://open.spotify.com/track/3E9ZTLhHcpn6KJVvSiBf2w) | [Larry Darnell](https://open.spotify.com/artist/1UedlcCVqk3Zjq2UQocScS) | [Christmas Blues](https://open.spotify.com/album/02daPiQEjrb6T9GkU0NVKN) | 2:52 |
 | 80 | [Christmas Morning Blues](https://open.spotify.com/track/7iRsHtzLvEtBlfYLN5BCL1) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [Uncle Mick's Christmas Album](https://open.spotify.com/album/5MlssT9XEHTMve8ztzOAyF) | 3:25 |
 
-Snapshot ID: `MCxlZGU0MmU1ZWE3NGJmYWM0Y2RmZWZiNDAyYjg1NDBmNGMzNGNlMGM4`
+Snapshot ID: `MCxmYWQ4Y2QxNzAyOGQ2MDdkNzQ2MjBlZmNiNDhlZmVmNjE0NTQxMTVk`

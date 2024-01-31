@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock & Alt driving the current, every week\. Cover: Meet Me @ The Altar
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,589 likes - 79 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,600 likes - 79 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 78 | [Chelsea Hotel](https://open.spotify.com/track/3yuUo3VJreRdasr1erzGJM) | [Zhariah](https://open.spotify.com/artist/1acX2jfBZ38KLMwFh3ldm7) | [Chelsea Hotel](https://open.spotify.com/album/3tHJ7OgxXS3OjKmvkwNOGS) | 3:40 |
 | 79 | [sick of all these uglies falling out the sky](https://open.spotify.com/track/588VSkCIXBKt0d7qdhEIuA) | [Zavier O'Keith](https://open.spotify.com/artist/2UVj3KVaby1WqCXPH7cwTR) | [sick of all these uglies falling out the sky](https://open.spotify.com/album/3HIeVaZ8g0siu6WUgd1yL0) | 3:08 |
 
-Snapshot ID: `MCw3N2UyMDIzN2NiNDk5NTM1NDBlOTM4NDQyYWE2NjgyZmViNTNiODll`
+Snapshot ID: `MCwwMGMxZTAwZjk3YTYxNjIwZjQ0OWIwMTRlYzhiZmYxMDJiODY3OGJj`

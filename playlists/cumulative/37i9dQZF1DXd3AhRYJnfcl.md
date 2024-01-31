@@ -2,7 +2,7 @@
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\.  الغلاف: <a href="https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F?si=5FJZTWj0RWicgrqNOvngpg">  تامر عاشور<br/> </a>
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\.  الغلاف: <a href="https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj?si=aixR9sNdTbS4SInFysL33A">  هيفاء وهبي<br/> </a>
 
 255 songs - 14 hr 51 min
 

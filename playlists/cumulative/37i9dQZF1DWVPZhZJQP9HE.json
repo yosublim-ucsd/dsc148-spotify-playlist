@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 213000,
       "name": "Aasaigal",
       "url": "https://open.spotify.com/track/5CV1PudVJ0iNAhSWkl9iKD"
@@ -10478,6 +10478,28 @@
       "duration_ms": 203824,
       "name": "Vettai",
       "url": "https://open.spotify.com/track/4iWIMnU0cu45lsEIsG4wlc"
+    },
+    {
+      "album": {
+        "name": "Vidiyum Oru Naal",
+        "url": "https://open.spotify.com/album/5vRjmk8bycOYOLme9L4p26"
+      },
+      "artists": [
+        {
+          "name": "KUBERAN",
+          "url": "https://open.spotify.com/artist/7f53QAbUla2nuN2oTQYaBh"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229736,
+      "name": "Vidiyum Oru Naal",
+      "url": "https://open.spotify.com/track/0gStpRYPCKaDBstFJUcuxJ"
     },
     {
       "album": {

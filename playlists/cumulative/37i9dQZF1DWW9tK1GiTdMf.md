@@ -4,7 +4,7 @@
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ YUNGBLUD in cover
 
-785 songs - 1 day 12 hr 9 min
+786 songs - 1 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Come l'ultima volta](https://open.spotify.com/track/53HzkJ9DHDA4Ccmc6yJqj1) | [nothx.](https://open.spotify.com/artist/1i8WJECAPI5Je4SgVuQLEX), [Nick Sick](https://open.spotify.com/artist/4OfbG8mT7rOznJ4UDbejLO) | [Come l'ultima volta](https://open.spotify.com/album/0kqJSCn57dgULURyuoVQ2y) | 3:41 | 2022-07-28 | 2022-08-26 |
 | [COME MAI](https://open.spotify.com/track/1pjyswXZMaZ4QmymhMbpXu) | [Knfuzed](https://open.spotify.com/artist/0iLJo0Dem6c216e2jQjQBB) | [COME MAI](https://open.spotify.com/album/1SR9bPAJdnX1CRRw2WTk3y) | 2:15 | 2023-10-19 | 2023-11-17 |
 | [Come me](https://open.spotify.com/track/3JCTbCFttaFBNSUKep3Dph) | [Dirt O'Malley](https://open.spotify.com/artist/6GOd216z5d8f7QrJFermCv) | [Come me](https://open.spotify.com/album/4Ax6Ay5VpKRdTSYKwNVKHD) | 2:41 | 2023-11-02 | 2023-12-08 |
-| [Come Mi Guardi Tu](https://open.spotify.com/track/1Za8L2L6QyV0nFMmoiVSNX) | [Nyno](https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP) | [Come Mi Guardi Tu](https://open.spotify.com/album/5xh6eg5XgDgQsBuh4nCFEf) | 2:17 | 2023-11-30 |  |
+| [Come Mi Guardi Tu](https://open.spotify.com/track/0qi4lVOw82xKTOHAmTH5jC) | [Nyno](https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP) | [LIBERA TUTTI](https://open.spotify.com/album/1A0aFbGWNO932bRBVJkaS6) | 2:17 | 2024-01-30 |  |
+| [Come Mi Guardi Tu](https://open.spotify.com/track/1Za8L2L6QyV0nFMmoiVSNX) | [Nyno](https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP) | [Come Mi Guardi Tu](https://open.spotify.com/album/5xh6eg5XgDgQsBuh4nCFEf) | 2:17 | 2023-11-30 | 2024-01-31 |
 | [COME NOI](https://open.spotify.com/track/1QZyZdurNkP6oI0vTEiYM8) | [Alias De Plume](https://open.spotify.com/artist/5l6Sfr7EEfEDqr3ykwuFpC), [Ladyb](https://open.spotify.com/artist/7AFf4ct0bJervH23P2PoDQ) | [COME NOI](https://open.spotify.com/album/6EIHEZs5kwOea8Vrm0k7Ac) | 2:21 | 2022-05-06 | 2022-05-27 |
 | [Come Quando Piove](https://open.spotify.com/track/1iC7pD4qkhnWX7nhgOufeU) | [Candyvan](https://open.spotify.com/artist/2FdQbKMXV59OJR3YE3KkrN) | [Come Quando Piove](https://open.spotify.com/album/2RazpXsgzAePoyZpFa8zEq) | 2:25 | 2023-04-20 | 2023-10-06 |
 | [COME UN FILM](https://open.spotify.com/track/1jD0MiDMO54bR1cJ15qxNu) | [ELETTRICA](https://open.spotify.com/artist/2ZXPwoWGIuwqjLNLboL3pa) | [COME UN FILM](https://open.spotify.com/album/62Q4gFNLR8MdqW6wnL7lZB) | 2:50 | 2024-01-11 |  |

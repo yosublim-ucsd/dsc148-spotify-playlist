@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا🤩 الغلاف : تامر حسني، زاب ثروت
+> أحدث الأغاني المصرية هنا🤩 الغلاف: نانسي عجرم
 
-786 songs - 1 day 20 hr 26 min
+787 songs - 1 day 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [Khadt Balak](https://open.spotify.com/track/2L1Wfy7eLg9NQ6bFH8T6YM) | [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [Khadt Balak](https://open.spotify.com/album/1kKpnxHTw4uax3rYKxaik1) | 2:33 | 2023-07-13 | 2023-08-16 |
 | [Khaleek Aneed](https://open.spotify.com/track/74LjFQrbHiRiJgXqhOrRn3) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [Khaleek Aneed](https://open.spotify.com/album/1jWBxVRTqIzB7PHhOm7c6n) | 2:45 | 2022-12-12 | 2023-02-10 |
 | [Khaleena A’din](https://open.spotify.com/track/4GRMwobUes0Q9SQOa6C9e3) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Khaleena A’din](https://open.spotify.com/album/6JTpTvLCv2OpZ0peRsu5hQ) | 4:36 | 2022-08-03 | 2022-10-27 |
-| [Khalek Faker](https://open.spotify.com/track/1ZaXSEuvSYL3efvun76PI9) | [Mohammad Abbas](https://open.spotify.com/artist/0mW43GlOSTuunAUgk358Gr) | [Khalek Faker](https://open.spotify.com/album/2VURm1InSHA6VV2C4UAg8k) | 3:18 | 2024-01-18 |  |
+| [Khalek Faker](https://open.spotify.com/track/1ZaXSEuvSYL3efvun76PI9) | [Mohamed Abbas](https://open.spotify.com/artist/5UyouoeMSmJP5YwkeXgiZp) | [Khalek Faker](https://open.spotify.com/album/2VURm1InSHA6VV2C4UAg8k) | 3:18 | 2024-01-18 |  |
 | [Khalena N3esh](https://open.spotify.com/track/367Hh6WH6ljGxLbzwzB0lZ) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo), [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM) | [Khalena N3esh](https://open.spotify.com/album/5Tt18aY93MGcI2F8e1kyDu) | 2:34 | 2023-06-08 | 2023-07-20 |
 | [Khaleny Fe Hodnak](https://open.spotify.com/track/64bw7oItH3tbiWmfhKq4Vg) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Khaleny Fe Hodnak](https://open.spotify.com/album/0Vl0OtSiNJysAHGVrRVlCd) | 3:16 | 2022-01-20 | 2022-04-08 |
 | [Khalik Ma3ana](https://open.spotify.com/track/4BNlYxe0uKK7ilm1Ft4IWo) | [Mostafa Shawky](https://open.spotify.com/artist/69HsaYqqbiG8d3LxNdlvM7) | [Khalik Ma3ana](https://open.spotify.com/album/7bvk6Ma0dtsM1f0HCQZkBV) | 4:17 | 2022-04-07 | 2022-07-31 |
@@ -691,7 +691,7 @@
 | [عالم موازي](https://open.spotify.com/track/3ud4qvqQ6VVPMPMHN52jws) | [Fighter Masr](https://open.spotify.com/artist/4ZtomuPTEWPh1VS1utwwGH) | [عالم موازي](https://open.spotify.com/album/5HEH1pYhUqRVEK5kXszinQ) | 4:00 | 2023-12-14 | 2024-01-24 |
 | [عامل عظمة](https://open.spotify.com/track/7APmQBBjDye9j17JBYmpWx) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [عامل عظمة](https://open.spotify.com/album/67Pgzgoe0jTb96oflA0kRm) | 3:25 | 2023-09-28 | 2024-01-05 |
 | [عاملة ايه ؟؟](https://open.spotify.com/track/5KOrRI5QeDrUEhRdmeijtP) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [عاملة ايه ؟؟](https://open.spotify.com/album/3SGSJ7kYeinqlZMwY2uJu0) | 2:32 | 2023-02-09 | 2023-03-18 |
-| [عاندنا ليه](https://open.spotify.com/track/2Lpw5au48a6bQ2JuEjsTCZ) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [عاندنا ليه](https://open.spotify.com/album/1OpqrZzOrv2aQzTOvcj9u9) | 4:09 | 2024-01-26 |  |
+| [عاندنا ليه](https://open.spotify.com/track/2Lpw5au48a6bQ2JuEjsTCZ) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [عاندنا ليه](https://open.spotify.com/album/1OpqrZzOrv2aQzTOvcj9u9) | 4:07 | 2024-01-26 |  |
 | [عذبني عذب](https://open.spotify.com/track/5DZYT2wKA64KDXins0gTIO) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [عذبني عذب](https://open.spotify.com/album/6DQcUnGijb9dN7d0ehTmOv) | 4:16 | 2023-02-02 | 2023-03-16 |
 | [عز](https://open.spotify.com/track/6RN0ZW0fMbn2aeLzXVtc1S) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [عز](https://open.spotify.com/album/3bOClA68mnBD1lbcyd4XPR) | 3:03 | 2023-07-11 | 2023-08-09 |
 | [عشان ارضيك](https://open.spotify.com/track/6XVMwb57cf90rjTPaWqd94) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [عشان ارضيك](https://open.spotify.com/album/37OnRbBYRcEvKcJBOeZRpG) | 4:27 | 2023-01-24 | 2023-03-04 |
@@ -711,7 +711,7 @@
 | [فقت فوق](https://open.spotify.com/track/0g56eM1URRrtNegnqrZQ9S) | [Maged Mekkawy](https://open.spotify.com/artist/5JErVYs7ZUOTw5bvKgSAl3) | [فقت فوق](https://open.spotify.com/album/1ZWgzIu3Loamci5sdmwmFp) | 3:23 | 2023-05-18 | 2023-07-12 |
 | [فكك \- احلام سعيدة](https://open.spotify.com/track/2mfFZJkSMONc1oDuUth0GN) | [El Madfaagya](https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub) | [فكك \- احلام سعيدة](https://open.spotify.com/album/6G2LTeAHAziLh3CBbBzRqO) | 3:34 | 2022-04-07 | 2022-07-21 |
 | [في خيالي \- Fe Khyaly](https://open.spotify.com/track/3sd5hb1YdmiJvxfrHvFBzr) | [El Megheny](https://open.spotify.com/artist/3mfzJJIc6jzl9FNOaNrGsV) | [في خيالي \- Fe Khyaly](https://open.spotify.com/album/5GN7aPZwB7li3qxOI5dgLe) | 3:19 | 2024-01-05 |  |
-| [قبل ما امشي](https://open.spotify.com/track/5yrNNDJlB5kQw47NXAhTNA) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [قبل ما امشي](https://open.spotify.com/album/0fbjKKgKsYCtJhdhwaZ7YR) | 3:09 | 2023-12-21 |  |
+| [قبل ما امشي](https://open.spotify.com/track/5yrNNDJlB5kQw47NXAhTNA) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [قبل ما امشي](https://open.spotify.com/album/0fbjKKgKsYCtJhdhwaZ7YR) | 3:09 | 2023-12-21 | 2024-01-31 |
 | [قرشين \- من مسلسل الصفارة](https://open.spotify.com/track/1QuYAH5uQbKbgwIIoNAyeY) | [Ahmed Amin](https://open.spotify.com/artist/3ZH8mm61aosyZjnCbkT2r4) | [قرشين \(من مسلسل الصفارة\)](https://open.spotify.com/album/2xQ9rA1RUl12vpUZ6I8IKn) | 2:30 | 2023-04-05 | 2023-05-19 |
 | [قلب إتدفن](https://open.spotify.com/track/6xTx0hhLkZQYIjM1uRnDJf) | [El Megheny](https://open.spotify.com/artist/3mfzJJIc6jzl9FNOaNrGsV) | [قلب إتدفن](https://open.spotify.com/album/7N12eSAx3UgGRPJKon4Kvs) | 3:11 | 2022-02-16 | 2022-05-19 |
 | [قلبك](https://open.spotify.com/track/1XgQfLsakDjS5xJyp2dOJW) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [قلبك](https://open.spotify.com/album/0oFivDs4AJxQ78OQi0HTlv) | 3:26 | 2023-06-22 | 2023-07-21 |
@@ -752,6 +752,7 @@
 | [مصلحتك](https://open.spotify.com/track/3zNFE3WvCQmtIqQYLxBcoH) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [مصلحتك](https://open.spotify.com/album/2n0YMCPqZLwtR3Y4she3fz) | 2:41 | 2023-09-14 | 2023-12-30 |
 | [معلش](https://open.spotify.com/track/0XbZAACv4UZAU5mKOCLa9T) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv) | [معلش](https://open.spotify.com/album/1g4TNTbMuiYAwCngqj36h1) | 3:57 | 2024-01-23 |  |
 | [مفيش فلوس](https://open.spotify.com/track/3oJaOYkZzHG3OTkJUFvhWP) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [مفيش فلوس](https://open.spotify.com/album/2LzNtDlCHJZQqC17EEy0xF) | 4:10 | 2023-05-11 | 2023-06-16 |
+| [مقسوم](https://open.spotify.com/track/3Ma9SyULAULbhUYkg4OCRg) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [مقسوم](https://open.spotify.com/album/2YPUNQgMOlmhaMRdNziZXu) | 3:20 | 2024-01-30 |  |
 | [ملك الفرفشة](https://open.spotify.com/track/1kQRL3taxrcisyzV8IQoj1) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [ملك الفرفشة](https://open.spotify.com/album/45urWO1EZCOYFsWFWQrf4S) | 3:16 | 2023-07-07 | 2023-08-11 |
 | [مملكتي](https://open.spotify.com/track/5NDAoUtv98f3Lc1cWe7fP3) | [Walid Toufic](https://open.spotify.com/artist/3b9dx7eQwwKtA6ctUq8sd2) | [مملكتي](https://open.spotify.com/album/2hXgXmZIh865wdcdXqS1jP) | 2:50 | 2023-12-01 | 2024-01-19 |
 | [من أول يوم](https://open.spotify.com/track/4hqxXL2H3VMVKLSLOsy37c) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [من أول يوم](https://open.spotify.com/album/3hZW9pUEKNNP4eYTwqYGLm) | 2:36 | 2023-07-22 | 2023-08-18 |

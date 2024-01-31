@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 130533,
+  "2024-01-31": 130562,
   "date_first_scraped": "2022-01-21",
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Yuridia en portada.",
   "name": "Reinas del Mariachi",
@@ -1131,7 +1131,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 195466,
       "name": "Fue Tan Poco Tu Cari\u00f1o",
       "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
@@ -1149,7 +1149,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 195520,
       "name": "Fue Tan Poco Tu Cari\u00f1o",
       "url": "https://open.spotify.com/track/3odp8TF0NtxpSWl3ttysZq"
@@ -3644,6 +3644,24 @@
     },
     {
       "album": {
+        "name": "Duelo Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/7p0npRWEOE6S2ZjbEBBRF2"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197080,
+      "name": "Y Volvere",
+      "url": "https://open.spotify.com/track/4Y0ST9NM7qIk4MNqehy5mb"
+    },
+    {
+      "album": {
         "name": "Divas del Mariachi",
         "url": "https://open.spotify.com/album/2dxMFiI5snjmKAZKNC6Nd9"
       },
@@ -3655,7 +3673,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 197080,
       "name": "Y Volvere",
       "url": "https://open.spotify.com/track/5NQD1UTDqELITz9G9ehD6l"

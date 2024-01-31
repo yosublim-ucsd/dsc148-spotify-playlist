@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. Los Fabulosos Cadillacs en portada.",
-  "num_followers": 446108,
+  "num_followers": 446180,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTc5NzNiZTUyNDU2ZWEwODJjNzg3MDhkMTYyMGZkMTllOTBlM2Fj",
+  "snapshot_id": "MCwzNGEzZDgzN2RjMDdlY2Y5YTdiMWU1NjQ5NzlmMzQ4OTEyMGMyMjE3",
   "tracks": [
     {
       "added_at": "2024-01-19 06:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
+        "name": "Serie Verde - El Gran Silencio",
+        "url": "https://open.spotify.com/album/5bDB07KHKtzAS4BADukcjG"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Dormir So\u00f1ando",
+      "url": "https://open.spotify.com/track/2BEUGCeN9FBV3pA06fjLu4"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
         "name": "Estoy aqu\u00ed (feat. La Pegatina)",
         "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 176747,
       "name": "Estoy aqu\u00ed (feat. La Pegatina)",
       "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
-        "name": "Serie Verde - El Gran Silencio",
-        "url": "https://open.spotify.com/album/5bDB07KHKtzAS4BADukcjG"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Dormir So\u00f1ando",
-      "url": "https://open.spotify.com/track/2BEUGCeN9FBV3pA06fjLu4"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Flores para los Muertos",
-        "url": "https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV"
-      },
-      "artists": [
-        {
-          "name": "Nana Pancha",
-          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Nada Que Perder",
-      "url": "https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "The Maskatonians All Stars And Friends",
         "url": "https://open.spotify.com/album/369qblMdVKisn6er3exhcw"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 299253,
       "name": "Solo un Minuto",
       "url": "https://open.spotify.com/track/6rk1UifNJO2oKMajBOdETB"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Flores para los Muertos",
+        "url": "https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV"
+      },
+      "artists": [
+        {
+          "name": "Nana Pancha",
+          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Nada Que Perder",
+      "url": "https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "La Muralla Verde (Live)",
-        "url": "https://open.spotify.com/album/0IUiKA2tZ1heRo8bJZxDpZ"
-      },
-      "artists": [
-        {
-          "name": "Karamelo Santo",
-          "url": "https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "La Muralla Verde - Live",
-      "url": "https://open.spotify.com/track/4BClSUMAudzbtUPIrCBmrE"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Tengo Miedo",
         "url": "https://open.spotify.com/album/4ygDNvIHzZH7Ga0iuAJqa9"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 212845,
       "name": "El asesino del tiempo",
       "url": "https://open.spotify.com/track/4qn2ZtHRDmcfgVPnl38N8p"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "La Muralla Verde (Live)",
+        "url": "https://open.spotify.com/album/0IUiKA2tZ1heRo8bJZxDpZ"
+      },
+      "artists": [
+        {
+          "name": "Karamelo Santo",
+          "url": "https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "La Muralla Verde - Live",
+      "url": "https://open.spotify.com/track/4BClSUMAudzbtUPIrCBmrE"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Invierno, Ayni II",
-        "url": "https://open.spotify.com/album/69TZfUN1aX7nI2ZmsB2Fl6"
-      },
-      "artists": [
-        {
-          "name": "Skaldik",
-          "url": "https://open.spotify.com/artist/1FxkMcxmouciAx4Fb4x3n7"
-        }
-      ],
-      "duration_ms": 198591,
-      "name": "Invierno, Ayni II",
-      "url": "https://open.spotify.com/track/29plloxh2pA8h9D4RlkOfb"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Chupasangre",
         "url": "https://open.spotify.com/album/6QuNQyIrZQGzzzx072piNU"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 196070,
       "name": "Chupasangre",
       "url": "https://open.spotify.com/track/30AQGfDqWCrN6KwHnNIFdv"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Invierno, Ayni II",
+        "url": "https://open.spotify.com/album/69TZfUN1aX7nI2ZmsB2Fl6"
+      },
+      "artists": [
+        {
+          "name": "Skaldik",
+          "url": "https://open.spotify.com/artist/1FxkMcxmouciAx4Fb4x3n7"
+        }
+      ],
+      "duration_ms": 198591,
+      "name": "Invierno, Ayni II",
+      "url": "https://open.spotify.com/track/29plloxh2pA8h9D4RlkOfb"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Antih\u00e9roes",
-        "url": "https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd"
-      },
-      "artists": [
-        {
-          "name": "Los Intocables",
-          "url": "https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD"
-        }
-      ],
-      "duration_ms": 199106,
-      "name": "Criminales Sudamericanos",
-      "url": "https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Este Ritmo",
         "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 167128,
       "name": "Este Ritmo",
       "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Antih\u00e9roes",
+        "url": "https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd"
+      },
+      "artists": [
+        {
+          "name": "Los Intocables",
+          "url": "https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD"
+        }
+      ],
+      "duration_ms": 199106,
+      "name": "Criminales Sudamericanos",
+      "url": "https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Vira-Lata",
-        "url": "https://open.spotify.com/album/4Wy6qLOygnSQ6MGKHqNC0Z"
-      },
-      "artists": [
-        {
-          "name": "Buena Onda Reggae Club",
-          "url": "https://open.spotify.com/artist/2fuv23bY4oSgxNKH7TdUZz"
-        }
-      ],
-      "duration_ms": 210069,
-      "name": "Vira-Lata",
-      "url": "https://open.spotify.com/track/0qrWq5QicfLTefnLMuxUPz"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Somos amigos",
         "url": "https://open.spotify.com/album/1CQJiErOJUYIbdh3ZcHqxJ"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 171693,
       "name": "La Manifestacion",
       "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Vira-Lata",
+        "url": "https://open.spotify.com/album/4Wy6qLOygnSQ6MGKHqNC0Z"
+      },
+      "artists": [
+        {
+          "name": "Buena Onda Reggae Club",
+          "url": "https://open.spotify.com/artist/2fuv23bY4oSgxNKH7TdUZz"
+        }
+      ],
+      "duration_ms": 210069,
+      "name": "Vira-Lata",
+      "url": "https://open.spotify.com/track/0qrWq5QicfLTefnLMuxUPz"
     },
     {
       "added_at": "2024-01-19 06:00:00",

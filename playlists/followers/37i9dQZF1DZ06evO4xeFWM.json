@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 210649,
+  "2024-01-31": 210663,
   "date_first_scraped": "2022-10-27",
   "description": "This is Bastille. The essential tracks, all in one playlist.",
   "name": "This Is Bastille",
@@ -885,7 +885,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 160294,
       "name": "Plug In\u2026",
       "url": "https://open.spotify.com/track/0yoQeKfgQwXg0nbMoYDnJg"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 183406,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/69c48S8phNtQZuM8ksaObz"

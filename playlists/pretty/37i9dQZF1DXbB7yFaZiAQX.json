@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 1014321,
+  "num_followers": 1014572,
   "original_name": "'80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Njg5MWMzNGI4MzViMGE1NTI1MThjNmU1ZGY3MDQxZDY5OWMxNDIz",
+  "snapshot_id": "MCxjNGYxMmIxMTRmNWYxY2UzNGFhNDJiMjMwMDIyOThhMjQ1ZWM3MWQ1",
   "tracks": [
     {
       "added_at": "2023-05-03 07:47:14",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Man-Machine (2009 Remaster)",
-        "url": "https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9"
-      },
-      "artists": [
-        {
-          "name": "Kraftwerk",
-          "url": "https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "The Model - 2009 Remaster",
-      "url": "https://open.spotify.com/track/1FL9DHDSED6lxNMDJUJQvB"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Orchestral Manoeuvres In The Dark (Remastered 2003)",
         "url": "https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 219066,
       "name": "Electricity - Remastered 2003",
       "url": "https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "The Man-Machine (2009 Remaster)",
+        "url": "https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9"
+      },
+      "artists": [
+        {
+          "name": "Kraftwerk",
+          "url": "https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "The Model - 2009 Remaster",
+      "url": "https://open.spotify.com/track/1FL9DHDSED6lxNMDJUJQvB"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Seventeen Seconds (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 354933,
+      "name": "A Forest - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Talk Talk Talk",
         "url": "https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh"
       },
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Seventeen Seconds (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj"
+        "name": "The Bela Session",
+        "url": "https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
         }
       ],
-      "duration_ms": 354933,
-      "name": "A Forest - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH"
+      "duration_ms": 576703,
+      "name": "Bela Lugosi's Dead (Official Version)",
+      "url": "https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Bela Session",
-        "url": "https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1"
+        "name": "Vienna (Remastered Definitive Edition)",
+        "url": "https://open.spotify.com/album/57UuXCYkx1wZW7gfl8hvjB"
       },
       "artists": [
         {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+          "name": "Ultravox",
+          "url": "https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI"
         }
       ],
-      "duration_ms": 576703,
-      "name": "Bela Lugosi's Dead (Official Version)",
-      "url": "https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8"
+      "duration_ms": 296160,
+      "name": "Vienna - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7ioy6ppmN9Rn8Pm5axNzUP"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1143,22 +1159,6 @@
       "duration_ms": 615693,
       "name": "Moments In Love",
       "url": "https://open.spotify.com/track/2bsczk82MWGPmTbe6IWYsa"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Vienna (Remastered Definitive Edition)",
-        "url": "https://open.spotify.com/album/57UuXCYkx1wZW7gfl8hvjB"
-      },
-      "artists": [
-        {
-          "name": "Ultravox",
-          "url": "https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI"
-        }
-      ],
-      "duration_ms": 296160,
-      "name": "Vienna - 2008 Remaster",
-      "url": "https://open.spotify.com/track/7ioy6ppmN9Rn8Pm5axNzUP"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Lion and the Cobra",
-        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 391200,
-      "name": "Troy",
-      "url": "https://open.spotify.com/track/4ZbrvxwWPNX0MgbubsqbZG"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "The Golden Age of Wireless",
         "url": "https://open.spotify.com/album/0MaTs2V3oNCaTVoB7rr6Dj"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 221266,
       "name": "She Blinded Me With Science",
       "url": "https://open.spotify.com/track/4RkKf3UBRxF2kn2Vh0ww8l"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Lion and the Cobra",
+        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 391200,
+      "name": "Troy",
+      "url": "https://open.spotify.com/track/4ZbrvxwWPNX0MgbubsqbZG"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Pelican West Plus",
-        "url": "https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND"
-      },
-      "artists": [
-        {
-          "name": "Haircut 100",
-          "url": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Love Plus One",
-      "url": "https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Some Girls Wander by Mistake",
         "url": "https://open.spotify.com/album/42HVWb7R8TxLHgVjc2OOIV"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 214935,
       "name": "Alice",
       "url": "https://open.spotify.com/track/4PbxSwW7CxxYIFINPjuTnd"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Pelican West Plus",
+        "url": "https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND"
+      },
+      "artists": [
+        {
+          "name": "Haircut 100",
+          "url": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "Love Plus One",
+      "url": "https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Lifes Rich Pageant (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1G95bEVJwyXeqzLdbzkREi"
+        "name": "Porcupine (Expanded; 2004 Remaster)",
+        "url": "https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC"
       },
       "artists": [
         {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+          "name": "Echo & the Bunnymen",
+          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
         }
       ],
-      "duration_ms": 169920,
-      "name": "Fall On Me - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3xPKSMgZl4N3rfTyIgSPfa"
+      "duration_ms": 232746,
+      "name": "The Cutter",
+      "url": "https://open.spotify.com/track/617ahruubznvqzv7Nas3QX"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Porcupine (Expanded; 2004 Remaster)",
-        "url": "https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC"
+        "name": "Lifes Rich Pageant (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1G95bEVJwyXeqzLdbzkREi"
       },
       "artists": [
         {
-          "name": "Echo & the Bunnymen",
-          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
         }
       ],
-      "duration_ms": 232746,
-      "name": "The Cutter",
-      "url": "https://open.spotify.com/track/617ahruubznvqzv7Nas3QX"
+      "duration_ms": 169920,
+      "name": "Fall On Me - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3xPKSMgZl4N3rfTyIgSPfa"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Non-Stop Erotic Cabaret",
-        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
-      },
-      "artists": [
-        {
-          "name": "Soft Cell",
-          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
-        }
-      ],
-      "duration_ms": 323866,
-      "name": "Say Hello, Wave Goodbye - 7\" Single Version",
-      "url": "https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Night And Day",
         "url": "https://open.spotify.com/album/62rwfuO0qI4y6pSz6zwOlS"
       },
@@ -1915,18 +1899,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Closer (Collector's Edition)",
-        "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
+        "name": "Non-Stop Erotic Cabaret",
+        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
       },
       "artists": [
         {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+          "name": "Soft Cell",
+          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
         }
       ],
-      "duration_ms": 175093,
-      "name": "Isolation - 2007 Remaster",
-      "url": "https://open.spotify.com/track/1UWbBFaZNksb3AmgldkprR"
+      "duration_ms": 323866,
+      "name": "Say Hello, Wave Goodbye - 7\" Single Version",
+      "url": "https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1943,6 +1927,22 @@
       "duration_ms": 250800,
       "name": "Pearly-Dewdrops' Drops - 7\" Version",
       "url": "https://open.spotify.com/track/0mxe1uof85IOstFsn2l2da"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Closer (Collector's Edition)",
+        "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "Isolation - 2007 Remaster",
+      "url": "https://open.spotify.com/track/1UWbBFaZNksb3AmgldkprR"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Colour of Spring",
-        "url": "https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE"
-      },
-      "artists": [
-        {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
-        }
-      ],
-      "duration_ms": 418173,
-      "name": "Living in Another World - 1997 Remaster",
-      "url": "https://open.spotify.com/track/03d3DCqwvt65Orfdomjs6e"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "English Settlement",
         "url": "https://open.spotify.com/album/2fDm6GpssR8S6uQnDE4MKM"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 290667,
       "name": "Senses Working Overtime - Remastered 2001",
       "url": "https://open.spotify.com/track/0XDv7SLyMkGcAnb12fMHa1"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "The Colour of Spring",
+        "url": "https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE"
+      },
+      "artists": [
+        {
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+        }
+      ],
+      "duration_ms": 418173,
+      "name": "Living in Another World - 1997 Remaster",
+      "url": "https://open.spotify.com/track/03d3DCqwvt65Orfdomjs6e"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2167,6 +2167,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ"
+      },
+      "artists": [
+        {
+          "name": "Galaxie 500",
+          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Tugboat",
+      "url": "https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "We Are The '80s",
         "url": "https://open.spotify.com/album/48ajNqhmdKrGVwJo0UGMiV"
       },
@@ -2179,22 +2195,6 @@
       "duration_ms": 249106,
       "name": "The More You Live, The More You Love",
       "url": "https://open.spotify.com/track/1lNn0udm3EHKFRCGpNKZxn"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Robbie Robertson",
-        "url": "https://open.spotify.com/album/7uQeo4W4xhKTUtN8Tmo31J"
-      },
-      "artists": [
-        {
-          "name": "Robbie Robertson",
-          "url": "https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf"
-        }
-      ],
-      "duration_ms": 295373,
-      "name": "Somewhere Down The Crazy River",
-      "url": "https://open.spotify.com/track/4RiC0i1VIybdCtTIVhqVVH"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2215,6 +2215,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Robbie Robertson",
+        "url": "https://open.spotify.com/album/7uQeo4W4xhKTUtN8Tmo31J"
+      },
+      "artists": [
+        {
+          "name": "Robbie Robertson",
+          "url": "https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf"
+        }
+      ],
+      "duration_ms": 295373,
+      "name": "Somewhere Down The Crazy River",
+      "url": "https://open.spotify.com/track/4RiC0i1VIybdCtTIVhqVVH"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Soul Mining",
         "url": "https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A"
       },
@@ -2227,22 +2243,6 @@
       "duration_ms": 411973,
       "name": "Uncertain Smile",
       "url": "https://open.spotify.com/track/31alFPGPYXPTGLQfmkp8fh"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ"
-      },
-      "artists": [
-        {
-          "name": "Galaxie 500",
-          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Tugboat",
-      "url": "https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG"
     },
     {
       "added_at": "2023-05-03 07:47:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 
 > Add dramatic flair to your strategy game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,972 likes - 71 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,084 likes - 71 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 | 70 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 |
 | 71 | [Crossroad at Dawn](https://open.spotify.com/track/5rQx4Rhe1gey7FJSO5F4aV) | [Bill Brown](https://open.spotify.com/artist/0hpjPGgPQW9o5veEihASNJ) | [Chaotic Chronicle \(Lineage2 Original Soundtrack\)](https://open.spotify.com/album/04wngi30Qap95fjcdn7SbC) | 2:00 |
 
-Snapshot ID: `MCwwZDM5MzQ4YzAwYWU0YzlmYTA0YjE0NTE1ZGEyMTRiZWRlMTc5ZTk2`
+Snapshot ID: `MCxhMGIyNTQ4MDJiNTAwMjkxYjkzNzdmZTgzY2ViMDg2MzE5MGMwMzc4`

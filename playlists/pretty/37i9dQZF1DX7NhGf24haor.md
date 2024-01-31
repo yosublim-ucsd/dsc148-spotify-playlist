@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Radical Redemption
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,065 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,208 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Love Like Yours](https://open.spotify.com/track/60FjaVoaLYKEZmmYC7Gx5t) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Empyre One](https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22), [Kane Scott](https://open.spotify.com/artist/03Uxnv0S5yon8NjFeBF3Bu) | [Love Like Yours](https://open.spotify.com/album/7LhDrHd7GkACFuhA8muQ5b) | 3:13 |
 | 100 | [MF KING](https://open.spotify.com/track/3UcOEZC3LorrVAq9OiTZHC) | [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [MF KING](https://open.spotify.com/album/0cjV4JAaqhmIih49MA4M6l) | 2:21 |
 
-Snapshot ID: `MCxhYjU3YjRmMmVmYTAxZDc4Yjc3ZDAwNDA5ODBlY2E5ZDExOTU5M2Jj`
+Snapshot ID: `MCw2MzA2YTRkZWM1MGZiNjhhMzZhZTU1OGQ3NTZiMDAxNTBiMjhmYmY1`

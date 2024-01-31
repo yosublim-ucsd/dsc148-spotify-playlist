@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 102645,
+  "num_followers": 102781,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjU0M2Y1YTA5ZDJiMDQ5NzhlNWM4ZmFkMmI5ZWRhMDMwMzVjMjI5",
+  "snapshot_id": "MCxhYWIzMGFiZTFlNWZjYmIwMWM5YzBlNzM4YmQ4MWEyOWJmZmMwNmNm",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -555,18 +555,30 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Thelonious Alone In San Francisco",
-        "url": "https://open.spotify.com/album/5xOjgloikzuQ1mTs2mqedk"
+        "name": "Brilliant Corners",
+        "url": "https://open.spotify.com/album/5gWF47eGSbv4BOfxoFcQtd"
       },
       "artists": [
         {
           "name": "Thelonious Monk",
           "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Ernie Henry",
+          "url": "https://open.spotify.com/artist/1kL3usnF0v21VlGzfY8KxR"
+        },
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
         }
       ],
-      "duration_ms": 217333,
-      "name": "Bluehawk",
-      "url": "https://open.spotify.com/track/1K4d8wa5NanzH425a42DMn"
+      "duration_ms": 787933,
+      "name": "Ba-Lue Bolivar Ba-Lues-Are",
+      "url": "https://open.spotify.com/track/1OjmEyEycmzJK3itBAq8EG"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -667,30 +679,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Brilliant Corners",
-        "url": "https://open.spotify.com/album/5gWF47eGSbv4BOfxoFcQtd"
+        "name": "Thelonious Alone In San Francisco",
+        "url": "https://open.spotify.com/album/5xOjgloikzuQ1mTs2mqedk"
       },
       "artists": [
         {
           "name": "Thelonious Monk",
           "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        },
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        },
-        {
-          "name": "Ernie Henry",
-          "url": "https://open.spotify.com/artist/1kL3usnF0v21VlGzfY8KxR"
-        },
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
         }
       ],
-      "duration_ms": 787933,
-      "name": "Ba-Lue Bolivar Ba-Lues-Are",
-      "url": "https://open.spotify.com/track/1OjmEyEycmzJK3itBAq8EG"
+      "duration_ms": 217333,
+      "name": "Bluehawk",
+      "url": "https://open.spotify.com/track/1K4d8wa5NanzH425a42DMn"
     },
     {
       "added_at": "2020-10-12 18:15:54",

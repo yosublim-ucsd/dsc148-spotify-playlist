@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 85426,
+  "2024-01-31": 85461,
   "date_first_scraped": "2021-12-28",
   "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0634\u0639\u0628\u064a\u0629 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631! \u063a\u0644\u0627\u0641:<a href=\"https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52?si=v7EAopWETMqME3LXKcLsdw\">  \u0645\u0635\u0637\u0641\u0649 \u062d\u062c\u0627\u062c </a>",
   "name": "\u0634\u0639\u0628\u064a \u0645\u0635\u0631\u064a",
@@ -691,6 +691,24 @@
       "duration_ms": 308936,
       "name": "Ashamy Fe Rabena",
       "url": "https://open.spotify.com/track/24cag0e6MUffIW9zTQLnIn"
+    },
+    {
+      "album": {
+        "name": "Bab El Shaareya",
+        "url": "https://open.spotify.com/album/2vSrvBwrfC5yhMR8xyT0eg"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Adaweya",
+          "url": "https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202005,
+      "name": "Bab El Shaareya",
+      "url": "https://open.spotify.com/track/4Hchf0jFsoO9PIKMsu1Lof"
     },
     {
       "album": {
@@ -3251,7 +3269,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 202004,
       "name": "\u0628\u0627\u0628 \u0627\u0644\u0634\u0639\u0631\u064a\u0647",
       "url": "https://open.spotify.com/track/1LvxnrYAgVPrmSl2U8lYqz"

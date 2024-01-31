@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes pop dividindo o mesmo palco!  / Foto: DUDA BEAT",
-  "num_followers": 364409,
+  "num_followers": 364331,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWQ0ODZkODEwNzZjODA5NjBlYTgwYmMyOWRiZDIzYWRiMTQzYjJm",
+  "snapshot_id": "MCxkZmFhY2MwZWE4OTNiNzJmOGI5OGQ0NzI1YjFmZTlhMDAzZDNmZGI1",
   "tracks": [
     {
       "added_at": "2024-01-26 03:00:00",
@@ -471,26 +471,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "QUER DAN\u00c7AR",
-        "url": "https://open.spotify.com/album/0dcppOWM61TlHS4cfaE451"
-      },
-      "artists": [
-        {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        },
-        {
-          "name": "Bonde do Tigr\u00e3o",
-          "url": "https://open.spotify.com/artist/1VQMltQ5m8iFvRCpW2n5HR"
-        }
-      ],
-      "duration_ms": 130729,
-      "name": "QUER DAN\u00c7AR",
-      "url": "https://open.spotify.com/track/1g1elRYAuQ7BHMpeejvvKH"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "REVERSA [in]ato",
         "url": "https://open.spotify.com/album/6N8AgBQAGm79BZLojct5J7"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 220000,
       "name": "real valor",
       "url": "https://open.spotify.com/track/78wYB2vQHXCGW5UwKlFlob"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "QUER DAN\u00c7AR",
+        "url": "https://open.spotify.com/album/0dcppOWM61TlHS4cfaE451"
+      },
+      "artists": [
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        },
+        {
+          "name": "Bonde do Tigr\u00e3o",
+          "url": "https://open.spotify.com/artist/1VQMltQ5m8iFvRCpW2n5HR"
+        }
+      ],
+      "duration_ms": 130729,
+      "name": "QUER DAN\u00c7AR",
+      "url": "https://open.spotify.com/track/1g1elRYAuQ7BHMpeejvvKH"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -627,26 +627,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "C\u00e9u Ros\u00e9",
-        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 164237,
-      "name": "C\u00e9u Ros\u00e9",
-      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "Labirinto",
         "url": "https://open.spotify.com/album/1VqFCDs5i27SB11y6aPs8Y"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 184405,
       "name": "Labirinto",
       "url": "https://open.spotify.com/track/0LJGq2TQMW5WwnD9AuPRuV"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "C\u00e9u Ros\u00e9",
+        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 164237,
+      "name": "C\u00e9u Ros\u00e9",
+      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
+        "name": "Atlanta - Spotify Singles",
+        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 121031,
+      "name": "Atlanta - Spotify Singles",
+      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
         "name": "Falta De Aten\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4Tk9B83h1srd2bSbQnE4lM"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 150142,
       "name": "Falta De Aten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4KPZyTXOMkBxCo2e4KXbDf"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
-        "name": "Atlanta - Spotify Singles",
-        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 121031,
-      "name": "Atlanta - Spotify Singles",
-      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "LADY LESTE (AO VIVO)",
-        "url": "https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 184383,
-      "name": "RADAR - AO VIVO",
-      "url": "https://open.spotify.com/track/4g771Ik6PRt0poI1wXddXb"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "Meu Tom",
         "url": "https://open.spotify.com/album/1scxBLyeF8CmbdErwhZgHj"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 203896,
       "name": "Massagem",
       "url": "https://open.spotify.com/track/0rJvi7IQP6JLO5djPLvaZx"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "LADY LESTE (AO VIVO)",
+        "url": "https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 184383,
+      "name": "RADAR - AO VIVO",
+      "url": "https://open.spotify.com/track/4g771Ik6PRt0poI1wXddXb"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1215,18 +1215,22 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Deixe-me Ir",
-        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
+        "name": "Groove",
+        "url": "https://open.spotify.com/album/77TVmhsrBT7AVvlqEajZrt"
       },
       "artists": [
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
+          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 219534,
-      "name": "Deixe-me Ir",
-      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
+      "duration_ms": 166363,
+      "name": "Dejav\u00fa",
+      "url": "https://open.spotify.com/track/5dPKKScSdOpIQuUHVFU7HG"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1247,22 +1251,18 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Groove",
-        "url": "https://open.spotify.com/album/77TVmhsrBT7AVvlqEajZrt"
+        "name": "Deixe-me Ir",
+        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
       },
       "artists": [
         {
-          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
-          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         }
       ],
-      "duration_ms": 166363,
-      "name": "Dejav\u00fa",
-      "url": "https://open.spotify.com/track/5dPKKScSdOpIQuUHVFU7HG"
+      "duration_ms": 219534,
+      "name": "Deixe-me Ir",
+      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
+        "name": "Deixa Acontecer",
+        "url": "https://open.spotify.com/album/0ptqouE0Ph1o1aqoxz4iiW"
+      },
+      "artists": [
+        {
+          "name": "Julia Smith",
+          "url": "https://open.spotify.com/artist/4DfLXTDD8dF2vGIbff6fzs"
+        }
+      ],
+      "duration_ms": 165883,
+      "name": "Deixa Acontecer",
+      "url": "https://open.spotify.com/track/6UIiNaaOhQ19K2U8Tq61ge"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
         "name": "93",
         "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 146933,
       "name": "Vou Atr\u00e1s",
       "url": "https://open.spotify.com/track/5Q5VE9VJtiroXsLxTQWOGM"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
-        "name": "Deixa Acontecer",
-        "url": "https://open.spotify.com/album/0ptqouE0Ph1o1aqoxz4iiW"
-      },
-      "artists": [
-        {
-          "name": "Julia Smith",
-          "url": "https://open.spotify.com/artist/4DfLXTDD8dF2vGIbff6fzs"
-        }
-      ],
-      "duration_ms": 165883,
-      "name": "Deixa Acontecer",
-      "url": "https://open.spotify.com/track/6UIiNaaOhQ19K2U8Tq61ge"
     },
     {
       "added_at": "2024-01-26 03:00:00",

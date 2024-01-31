@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fwYfqYEDWu9UNfljA4NID">OZ</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-106 songs - 5 hr 54 min
+107 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Life Is Good \(feat\. Drake, DaBaby & Lil Baby\) \- Remix](https://open.spotify.com/track/4Qd0pa3JO76UEwhos9JmN0) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 5:14 | 2024-01-29 |  |
 | [Lil Wayne](https://open.spotify.com/track/6eVBRZLvCzfAzvAi99mz8f) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [!](https://open.spotify.com/album/2trqp8gTJ1MMmY9HoKqO2y) | 1:42 | 2024-01-29 |  |
 | [Losses](https://open.spotify.com/track/6fLVTVaHWaEfVKfEgbkf4D) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 4:31 | 2024-01-29 |  |
-| [Lost Me](https://open.spotify.com/track/5eFKglouI6FpmEtefSrNKq) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lost Me \(Official Music Video\)](https://open.spotify.com/album/4ekNrtt5pNH2bRP1GuP5o7) | 3:08 | 2024-01-29 |  |
+| [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 | 2024-01-30 |  |
+| [Lost Me](https://open.spotify.com/track/5eFKglouI6FpmEtefSrNKq) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lost Me \(Official Music Video\)](https://open.spotify.com/album/4ekNrtt5pNH2bRP1GuP5o7) | 3:08 | 2024-01-29 | 2024-01-31 |
 | [Love & Drugz II \(feat\. Trippie Redd\)](https://open.spotify.com/track/26QVqZltLT8ZlqxdNDc2fA) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Young HeartThrob](https://open.spotify.com/album/7lmS1zDxOuTlJrJ8C1NHEW) | 3:08 | 2024-01-29 |  |
 | [Love All \(with JAY\-Z\)](https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:48 | 2024-01-29 |  |
 | [Love Scars 3](https://open.spotify.com/track/1gAxoOzwsjcxmluS0Fjjd8) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 3](https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna) | 2:09 | 2024-01-29 |  |

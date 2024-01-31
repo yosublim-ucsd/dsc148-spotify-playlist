@@ -1,12 +1,12 @@
 {
   "description": "Meet the future. New artists on the horizon. Cover: Yam\u00ea.",
-  "num_followers": 58762,
+  "num_followers": 58780,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGEyOWE1ZmZjZTdjOWVhYzcwOWZmOWVhNGJmN2ZkYzgyMGVhYTUy",
+  "snapshot_id": "MCw1Yjg0ZDI5MTAzODRlOTJmZjI3NGRiNGFlZTg5YWYyYjc0MmFlYmZm",
   "tracks": [
     {
       "added_at": "2024-01-12 06:00:00",
@@ -345,6 +345,22 @@
       "url": "https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6"
     },
     {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "NE SENLE NE SENS\u0130Z",
+        "url": "https://open.spotify.com/album/67KVsFKWwM07Xeg3WOXFCU"
+      },
+      "artists": [
+        {
+          "name": "Selin",
+          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
+        }
+      ],
+      "duration_ms": 222096,
+      "name": "NE SENLE NE SENS\u0130Z",
+      "url": "https://open.spotify.com/track/5bqI4hBdL3OOW0wMtjA9Fn"
+    },
+    {
       "added_at": "2023-05-30 12:45:30",
       "album": {
         "name": "Get Closer with For Revenge",
@@ -445,22 +461,6 @@
       "url": "https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX"
     },
     {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "NE SENLE NE SENS\u0130Z",
-        "url": "https://open.spotify.com/album/67KVsFKWwM07Xeg3WOXFCU"
-      },
-      "artists": [
-        {
-          "name": "Selin",
-          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
-        }
-      ],
-      "duration_ms": 222096,
-      "name": "NE SENLE NE SENS\u0130Z",
-      "url": "https://open.spotify.com/track/5bqI4hBdL3OOW0wMtjA9Fn"
-    },
-    {
       "added_at": "2023-05-30 12:45:30",
       "album": {
         "name": "GIAYPHUT",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/7ijvSBcVrLn8SiCRGzxKjx"
     },
     {
-      "added_at": "2023-08-18 06:00:00",
-      "album": {
-        "name": "Tic",
-        "url": "https://open.spotify.com/album/5sPX9DRTRsU03utz3IK8vB"
-      },
-      "artists": [
-        {
-          "name": "Maureen",
-          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
-        }
-      ],
-      "duration_ms": 130815,
-      "name": "Tic",
-      "url": "https://open.spotify.com/track/1rO9az1C7u2RXUK0E9YfUi"
-    },
-    {
       "added_at": "2024-01-12 06:00:00",
       "album": {
         "name": "475",
@@ -543,6 +527,22 @@
       "duration_ms": 197942,
       "name": "\u4e0d\u5c48\u306b\u82b1",
       "url": "https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Tic",
+        "url": "https://open.spotify.com/album/5sPX9DRTRsU03utz3IK8vB"
+      },
+      "artists": [
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        }
+      ],
+      "duration_ms": 130815,
+      "name": "Tic",
+      "url": "https://open.spotify.com/track/1rO9az1C7u2RXUK0E9YfUi"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -585,6 +585,22 @@
       "url": "https://open.spotify.com/track/2RjvQychgHPcxpghmP2p9s"
     },
     {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "F\u00fchrerschein",
+        "url": "https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "duration_ms": 242671,
+      "name": "F\u00fchrerschein",
+      "url": "https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV"
+    },
+    {
       "added_at": "2023-05-30 12:45:30",
       "album": {
         "name": "MUSE",
@@ -605,20 +621,20 @@
       "url": "https://open.spotify.com/track/7bRSjYVqEPeAvKG1KrlPtI"
     },
     {
-      "added_at": "2024-01-19 06:00:00",
+      "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "F\u00fchrerschein",
-        "url": "https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp"
+        "name": "Unlucky!!",
+        "url": "https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV"
       },
       "artists": [
         {
-          "name": "Dilla",
-          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
         }
       ],
-      "duration_ms": 242671,
-      "name": "F\u00fchrerschein",
-      "url": "https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV"
+      "duration_ms": 215221,
+      "name": "Unlucky!!",
+      "url": "https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc"
     },
     {
       "added_at": "2023-09-08 07:14:00",
@@ -657,22 +673,6 @@
       "url": "https://open.spotify.com/track/4BEltAGEqpAGiZHakYyRE9"
     },
     {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
-        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
-        "url": "https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 203011,
-      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
-      "url": "https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU"
-    },
-    {
       "added_at": "2023-05-30 12:45:30",
       "album": {
         "name": "If You Said So (feat. Wxrdie & 2Pillz)",
@@ -697,20 +697,36 @@
       "url": "https://open.spotify.com/track/0HoW6vYSTE9eutD16ZpXv0"
     },
     {
-      "added_at": "2024-01-26 06:00:00",
+      "added_at": "2023-10-20 06:00:00",
       "album": {
-        "name": "Unlucky!!",
-        "url": "https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV"
+        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+        "url": "https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw"
       },
       "artists": [
         {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
         }
       ],
-      "duration_ms": 215221,
-      "name": "Unlucky!!",
-      "url": "https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc"
+      "duration_ms": 203011,
+      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+      "url": "https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Rave Angel",
+        "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Rave Angel",
+      "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -745,22 +761,6 @@
       "url": "https://open.spotify.com/track/2NbgiffvZvNdUa9ul5lM9s"
     },
     {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
-        "name": "Rave Angel",
-        "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
-      },
-      "artists": [
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Rave Angel",
-      "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
-    },
-    {
       "added_at": "2023-11-23 06:00:00",
       "album": {
         "name": "VENERE",
@@ -775,22 +775,6 @@
       "duration_ms": 168095,
       "name": "VENERE",
       "url": "https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e"
-    },
-    {
-      "added_at": "2023-12-07 06:00:00",
-      "album": {
-        "name": "WE'LL DIE THIS WAY",
-        "url": "https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34"
-      },
-      "artists": [
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "PRO",
-      "url": "https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -825,20 +809,20 @@
       "url": "https://open.spotify.com/track/1p8XXEIjVHIqS6EKXG5qhb"
     },
     {
-      "added_at": "2023-11-10 06:00:00",
+      "added_at": "2023-12-07 06:00:00",
       "album": {
-        "name": "La loi du papillon",
-        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
+        "name": "WE'LL DIE THIS WAY",
+        "url": "https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34"
       },
       "artists": [
         {
-          "name": "Nuit Incolore",
-          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
         }
       ],
-      "duration_ms": 177266,
-      "name": "La loi du papillon",
-      "url": "https://open.spotify.com/track/15LphkSUL2KESp066yz9T1"
+      "duration_ms": 152000,
+      "name": "PRO",
+      "url": "https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -863,6 +847,22 @@
       "duration_ms": 130039,
       "name": "GENNAIO 24",
       "url": "https://open.spotify.com/track/3wTisd4SJ0raRbJmOuqbXd"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "La loi du papillon",
+        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
+      },
+      "artists": [
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        }
+      ],
+      "duration_ms": 177266,
+      "name": "La loi du papillon",
+      "url": "https://open.spotify.com/track/15LphkSUL2KESp066yz9T1"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -917,6 +917,22 @@
       "url": "https://open.spotify.com/track/7BalknaAGYtzUjIGOSkGBr"
     },
     {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Combo",
+        "url": "https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "duration_ms": 166613,
+      "name": "Combo",
+      "url": "https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl"
+    },
+    {
       "added_at": "2023-12-07 06:00:00",
       "album": {
         "name": "WHERE DOES SASQUATCH LIVE? Pt. 1",
@@ -931,6 +947,38 @@
       "duration_ms": 221040,
       "name": "CHRISTIAN",
       "url": "https://open.spotify.com/track/1FBdX6uTlbunrv0bu3tFnF"
+    },
+    {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
+        "name": "no-vacancy",
+        "url": "https://open.spotify.com/album/5DrKVvCMN1ail6mAmnobXq"
+      },
+      "artists": [
+        {
+          "name": "lost spaces",
+          "url": "https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b"
+        }
+      ],
+      "duration_ms": 204032,
+      "name": "35.mm",
+      "url": "https://open.spotify.com/track/1JjEdM4PzGEUXxttBXsOW1"
+    },
+    {
+      "added_at": "2023-09-01 09:20:13",
+      "album": {
+        "name": "Khamakhaa",
+        "url": "https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        }
+      ],
+      "duration_ms": 179210,
+      "name": "Khamakhaa",
+      "url": "https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -951,38 +999,6 @@
       "duration_ms": 150133,
       "name": "Downgrade",
       "url": "https://open.spotify.com/track/46yBpFu9lmZt2aowHN9oG9"
-    },
-    {
-      "added_at": "2023-09-01 09:20:13",
-      "album": {
-        "name": "Khamakhaa",
-        "url": "https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs"
-      },
-      "artists": [
-        {
-          "name": "Prateeksha Srivastava",
-          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
-        }
-      ],
-      "duration_ms": 179210,
-      "name": "Khamakhaa",
-      "url": "https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq"
-    },
-    {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "no-vacancy",
-        "url": "https://open.spotify.com/album/5DrKVvCMN1ail6mAmnobXq"
-      },
-      "artists": [
-        {
-          "name": "lost spaces",
-          "url": "https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b"
-        }
-      ],
-      "duration_ms": 204032,
-      "name": "35.mm",
-      "url": "https://open.spotify.com/track/1JjEdM4PzGEUXxttBXsOW1"
     },
     {
       "added_at": "2023-12-07 06:00:00",
@@ -1031,22 +1047,6 @@
       "duration_ms": 94925,
       "name": "Potential",
       "url": "https://open.spotify.com/track/7apEq9wOCGf5Jjrad5FLkc"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "Combo",
-        "url": "https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v"
-      },
-      "artists": [
-        {
-          "name": "MFS",
-          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
-        }
-      ],
-      "duration_ms": 166613,
-      "name": "Combo",
-      "url": "https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl"
     },
     {
       "added_at": "2023-12-07 06:00:00",
@@ -1241,22 +1241,6 @@
       "url": "https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q"
     },
     {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "R\u1eebng \u0110om \u0110\u00f3m",
-        "url": "https://open.spotify.com/album/68bMwerbq9axDV5m1wZYAn"
-      },
-      "artists": [
-        {
-          "name": "The Cassette",
-          "url": "https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2"
-        }
-      ],
-      "duration_ms": 282857,
-      "name": "\u00c1nh \u0110\u00e8n Ph\u1ed1",
-      "url": "https://open.spotify.com/track/6waGMOhiJ68iq8gpO3dqib"
-    },
-    {
       "added_at": "2023-06-09 08:10:55",
       "album": {
         "name": "Soul,PRESENT",
@@ -1271,6 +1255,22 @@
       "duration_ms": 183013,
       "name": "NOT ALONE",
       "url": "https://open.spotify.com/track/4GYmqDC7trdgCL6It6oWDd"
+    },
+    {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
+        "name": "R\u1eebng \u0110om \u0110\u00f3m",
+        "url": "https://open.spotify.com/album/68bMwerbq9axDV5m1wZYAn"
+      },
+      "artists": [
+        {
+          "name": "The Cassette",
+          "url": "https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2"
+        }
+      ],
+      "duration_ms": 282857,
+      "name": "\u00c1nh \u0110\u00e8n Ph\u1ed1",
+      "url": "https://open.spotify.com/track/6waGMOhiJ68iq8gpO3dqib"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -1513,6 +1513,22 @@
       "url": "https://open.spotify.com/track/0SUsodImdu1cqFd12GwVcc"
     },
     {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
+        "name": "My best love!",
+        "url": "https://open.spotify.com/album/3yfwQt9HuQunyMnozW7Sim"
+      },
+      "artists": [
+        {
+          "name": "saba sister",
+          "url": "https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "My best love!",
+      "url": "https://open.spotify.com/track/4F7HpyZBYY2NU4YxKaKn3m"
+    },
+    {
       "added_at": "2023-12-15 06:00:00",
       "album": {
         "name": "\u73fe\u5728\u7684\u4e8b\u6211\u8aaa\u4e0d\u51fa\u53e3",
@@ -1543,22 +1559,6 @@
       "duration_ms": 136800,
       "name": "KAWASAKI",
       "url": "https://open.spotify.com/track/1E5gT3cRA3WuH9XDgVIPau"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
-        "name": "My best love!",
-        "url": "https://open.spotify.com/album/3yfwQt9HuQunyMnozW7Sim"
-      },
-      "artists": [
-        {
-          "name": "saba sister",
-          "url": "https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "My best love!",
-      "url": "https://open.spotify.com/track/4F7HpyZBYY2NU4YxKaKn3m"
     },
     {
       "added_at": "2024-01-12 06:00:00",

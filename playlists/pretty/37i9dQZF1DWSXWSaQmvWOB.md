@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: Quantic
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,459 likes - 68 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,490 likes - 68 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 67 | [You Can Count On Me](https://open.spotify.com/track/63zB2o0u28X046oIFO2ou1) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Waiting on the Sidelines](https://open.spotify.com/album/5kABgENIqXOEWtN3o6rcPn) | 4:09 |
 | 68 | [Might Just Make It](https://open.spotify.com/track/0jRcaxm19oxnlKBbEucjZm) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Might Just Make It](https://open.spotify.com/album/74rexr4XjvEjgOVHmFH0ow) | 4:29 |
 
-Snapshot ID: `MCwzODkxNzg4MzQyOGQxYzEzMGZiY2Y4YTkxMTEwYzMwMmY0Zjc4YjUw`
+Snapshot ID: `MCxjOTZkODBkMTMzN2IzMWUxMWUyMGMwZmJiNzc0YjBiNGY3NDJlYTUz`

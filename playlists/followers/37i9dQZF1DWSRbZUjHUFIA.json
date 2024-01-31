@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 83926,
+  "2024-01-31": 83962,
   "date_first_scraped": "2023-04-01",
   "description": "Keep your workout 100 with these Hip-Hop motivators.",
   "name": "Work It: Hip Hop",
@@ -223,6 +223,24 @@
       "duration_ms": 222360,
       "name": "Bounce Back",
       "url": "https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF"
+    },
+    {
+      "album": {
+        "name": "Suga",
+        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176749,
+      "name": "Captain Hook",
+      "url": "https://open.spotify.com/track/1E3VQQWFQAPJkXfYHjqWoI"
     },
     {
       "album": {
@@ -1455,7 +1473,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 212640,
       "name": "Wild for the Night (feat. Skrillex & Birdy Nam Nam)",
       "url": "https://open.spotify.com/track/2rzBvHM9h36Tpdj7Jdajka"

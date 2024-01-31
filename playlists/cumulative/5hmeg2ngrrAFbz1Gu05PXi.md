@@ -4,7 +4,7 @@
 
 > Get into the flow and stay focused while writing code, with music curated by the JetBrains team\. www.jetbrains.com
 
-198 songs - 17 hr 14 min
+199 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Hulahoop](https://open.spotify.com/track/58bK4Vup3cNrabyglcMpvA) | [Tripswitch](https://open.spotify.com/artist/2IqtS42vE5AfagYUt1IjL3) | [Vagabond](https://open.spotify.com/album/1auHG5wRQ9nKtuSb93rGgD) | 7:17 | 2022-10-18 | 2023-12-14 |
 | [Hurly Burly](https://open.spotify.com/track/2zMFxDnoSFTClKrAntW6o3) | [Jabberwocky](https://open.spotify.com/artist/7xfdx6PiB50V9VWI4Mq70R) | [Make Make](https://open.spotify.com/album/1EGipjGSDzNosLRAGJL3Ep) | 6:24 | 2023-12-04 |  |
 | [Hypnosis](https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Float Back To You](https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F) | 3:51 | 2023-11-01 |  |
+| [Illusion Of Seclusion](https://open.spotify.com/track/6gqJJwkvzyXXj8SUEJgP4g) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Photay](https://open.spotify.com/album/18rcvgzvr5DMsPNOBwL5Cz) | 6:30 | 2024-01-30 |  |
 | [Immunity \- Remaster 2023](https://open.spotify.com/track/69TZeRi1BYt4J712MvrIHC) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Immunity](https://open.spotify.com/album/0Dg1KwgmtUzeMQonDCUFhQ) | 9:56 | 2023-10-12 |  |
 | [In Motion](https://open.spotify.com/track/50CgC2wKmbWm4WLQKY87oP) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [The Social Network](https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa) | 4:56 | 2022-10-18 | 2023-12-14 |
 | [Innenin](https://open.spotify.com/track/4POrzS1oGv0s4tjYwAzbOI) | [Blush Response](https://open.spotify.com/artist/04EzrrhYAQ81Go4FJ0prtu) | [Void Out](https://open.spotify.com/album/1FEi38PosqAOnaLZ1IUnsF) | 5:30 | 2022-10-18 |  |
@@ -178,7 +179,7 @@
 | [The Descent](https://open.spotify.com/track/459INdwzvu2vElqbndkD6x) | [CharlestheFirst](https://open.spotify.com/artist/2FTj5ijy8lP59d2V9dHR6I) | [The Descent](https://open.spotify.com/album/3q7VP5N3TDan6MnxHbKhv1) | 4:05 | 2022-10-18 | 2023-12-22 |
 | [The Disappearance of Colonel Mustard](https://open.spotify.com/track/46tzByTTQ9wiv8idc1QgSy) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [The Disappearance of Colonel Mustard](https://open.spotify.com/album/2IiUl6RS2U0IVL8OZGPa2x) | 5:13 | 2023-10-12 |  |
 | [The Distance](https://open.spotify.com/track/0uqwYjMkEcAAiPwSTWxzH7) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [The Distance](https://open.spotify.com/album/1jxF2oJOAr5zR9d1PQnR8Y) | 6:11 | 2022-10-18 | 2023-12-14 |
-| [The Ha Dub Rewerk'd](https://open.spotify.com/track/6CwYUcRRe7URQo1n1bACFw) | [MikeQ](https://open.spotify.com/artist/0H2tgKu7aoe1YVflaRWH6o) | [Let It All Out EP](https://open.spotify.com/album/2n4OhDkh0yjrFimKqX9cFN) | 8:53 | 2024-01-16 |  |
+| [The Ha Dub Rewerk'd](https://open.spotify.com/track/6CwYUcRRe7URQo1n1bACFw) | [MikeQ](https://open.spotify.com/artist/0H2tgKu7aoe1YVflaRWH6o) | [Let It All Out EP](https://open.spotify.com/album/2n4OhDkh0yjrFimKqX9cFN) | 8:53 | 2024-01-16 | 2024-01-31 |
 | [The Look](https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:37 | 2024-01-16 |  |
 | [The Ocean](https://open.spotify.com/track/7dgkpVYzHEnBKnaaMSbE5p) | [Mindseye](https://open.spotify.com/artist/0KnSPZGucOmyk3AnKaUGel) | [The Ocean](https://open.spotify.com/album/5BadXUBRbBS3LL6M76h2GX) | 3:19 | 2022-11-16 | 2023-12-14 |
 | [The Painful Way](https://open.spotify.com/track/6XpA6R9pRVgZcjarViwOm0) | [Darren Korb](https://open.spotify.com/artist/0ZMWrgLff357yxLyEU77a1) | [Hades: Original Soundtrack](https://open.spotify.com/album/5jTYZA6b4VoSRnR5TMldgb) | 6:53 | 2022-10-18 | 2023-12-22 |

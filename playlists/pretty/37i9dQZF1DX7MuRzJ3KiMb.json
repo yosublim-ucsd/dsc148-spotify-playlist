@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 87081,
+  "num_followers": 87119,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTg2MjhhNzAxOGYwODY1YjkwYWI5MzBlZTZmNzA1OTBiMDUwNjMx",
+  "snapshot_id": "MCw2Y2QyOWFmYjRmMzA1M2M4NWRjYjljNjRhY2U2MDljZDE0NjdkYzJi",
   "tracks": [
     {
       "added_at": "2023-06-22 20:49:18",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
-        "name": "Souvenir",
-        "url": "https://open.spotify.com/album/6nva6vnxk725eRidB3AgbC"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 191193,
-      "name": "Ca\u00eda la Noche",
-      "url": "https://open.spotify.com/track/6Xzu0zKKceCVd8uSHJAjgq"
-    },
-    {
-      "added_at": "2023-06-22 20:49:18",
-      "album": {
         "name": "Torpe",
         "url": "https://open.spotify.com/album/0V3VrTi9ioSHgy4kM9aRf4"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 252534,
       "name": "Torpe",
       "url": "https://open.spotify.com/track/7K1fAw9P8R73Sc6CpgIgJH"
+    },
+    {
+      "added_at": "2023-06-22 20:49:18",
+      "album": {
+        "name": "Souvenir",
+        "url": "https://open.spotify.com/album/6nva6vnxk725eRidB3AgbC"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 191193,
+      "name": "Ca\u00eda la Noche",
+      "url": "https://open.spotify.com/track/6Xzu0zKKceCVd8uSHJAjgq"
     },
     {
       "added_at": "2023-06-22 20:49:18",

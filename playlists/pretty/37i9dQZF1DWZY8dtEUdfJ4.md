@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 
 > Tous les plus grands succès de la chanson française des années 60\. Photo : Claude François
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,012 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,019 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 | 14 | [L'Important c'est la rose](https://open.spotify.com/track/1MNnfbQHgjCGLCiZTNGxgM) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [20 chansons d'or](https://open.spotify.com/album/0sLW7R4AIb8Zr0TX8Voe0b) | 3:39 |
 | 15 | [Non, je ne regrette rien](https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Eternelle](https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za) | 2:22 |
 | 16 | [J'entends siffler le train](https://open.spotify.com/track/487LFx8UVLxUsDAdetnCp2) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [les plus belles chansons](https://open.spotify.com/album/0dvnB0KschqGz0ezdnWsmO) | 3:23 |
-| 17 | [La rua Madureira](https://open.spotify.com/track/6Q2emXXZy652fNKkSSfNht) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 3:23 |
+| 17 | [La Rua Madureira](https://open.spotify.com/track/6Q2emXXZy652fNKkSSfNht) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 3:23 |
 | 18 | [La bohème](https://open.spotify.com/track/2o0hVSbnkdvDDKKVNaUxnB) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [La Bohème \(Remastered 2014\)](https://open.spotify.com/album/3e3Nfe6qFPnmfxUtkBfYrj) | 4:05 |
 | 19 | [L'opportuniste](https://open.spotify.com/track/1ltGvFacn7TLMERpzoR5J1) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [L'opportuniste](https://open.spotify.com/album/4P4Iv4XR9uLPSpsXd3Hdna) | 2:42 |
 | 20 | [Toute la pluie tombe sur moi](https://open.spotify.com/track/199J8Nvx5oDmOKwAhtt9f1) | [Sacha Distel](https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz) | [Sacha Distel: Crooner](https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 | 49 | [D'aventures en aventures](https://open.spotify.com/track/5Dy32R8nCKyoPcLlfkwbNW) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [A La Vie, A L'Amour](https://open.spotify.com/album/1ShHXfJDZw4qbbr0t69rvs) | 3:30 |
 | 50 | [Chez Laurette](https://open.spotify.com/track/5wFRjYT36LES0ks92OeXyD) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [Chez Laurette](https://open.spotify.com/album/0Jk7WSIVTnppDevKYjEpOv) | 3:29 |
 
-Snapshot ID: `MCxkMjNhNzkxMjc0ZWQwM2FiZTE2NWQ0ZGRhNDU1OGNmY2NkYTQ2YTBl`
+Snapshot ID: `MCw2OWFmNzM4NTQ4Y2U0YjY1MDQ2YmE4MTU3YjgyZDZkODkwNjYwNTlm`

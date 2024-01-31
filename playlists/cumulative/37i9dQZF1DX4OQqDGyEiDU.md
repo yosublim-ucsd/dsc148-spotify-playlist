@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-559 songs - 1 day 7 hr 45 min
+560 songs - 1 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Jeep!?。](https://open.spotify.com/track/1w3EMbP4AMAbNyKLKCw3yZ) | [A4。](https://open.spotify.com/artist/18pJlMkSYAxCTkpSzGrLR9) | [Jeep!?。](https://open.spotify.com/album/5CdCUPmhFQFkFQK4rfXz2r) | 3:15 | 2023-01-24 | 2023-02-24 |
 | [Journey](https://open.spotify.com/track/3iMc2ekQxOIfSamAkxfiGu) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [Journey](https://open.spotify.com/album/2prhLJdoX7DM6qZtXJETnP) | 2:45 | 2022-10-27 | 2023-02-10 |
 | [Juumensou](https://open.spotify.com/track/7wIKr31uQ5ecXbLMDzYDYK) | [YM](https://open.spotify.com/artist/5X62tnENHL02oDZuZwDDqz) | [Exit Tunes Presents Gumism From Megpoid \(Vocaloid\)](https://open.spotify.com/album/6LRbHwDnHpqcLxGfXR0C5c) | 3:42 | 2022-06-09 | 2022-07-29 |
-| [JUVENILE](https://open.spotify.com/track/44c0Lta1UEQ4gUDGjZaq9T) | [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [じん](https://open.spotify.com/artist/7eBDxrGrA7qOeDjn1HZept) | [JUVENILE](https://open.spotify.com/album/6yOptGxZiGjAYownFPeMV7) | 4:33 | 2024-01-04 |  |
+| [JUVENILE](https://open.spotify.com/track/44c0Lta1UEQ4gUDGjZaq9T) | [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [じん](https://open.spotify.com/artist/7eBDxrGrA7qOeDjn1HZept) | [JUVENILE](https://open.spotify.com/album/6yOptGxZiGjAYownFPeMV7) | 4:33 | 2024-01-04 | 2024-01-31 |
 | [Kagerou Days](https://open.spotify.com/track/6c6fQ8k4yIUnLJEPy7zj3z) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [MEKAKUCITYDAYS](https://open.spotify.com/album/6vQOvCYXDXyeEd3cIsXx05) | 3:54 | 2023-08-24 |  |
 | [Kakikeshite,Quartet](https://open.spotify.com/track/1OWgMtoukPCHTBLXbbGwPC) | [Uka Roku](https://open.spotify.com/artist/7hBob8G136429eesHGCbcH) | [Kakikeshite,Quartet](https://open.spotify.com/album/0CWV5tZ9mz6obaqbIySMHs) | 3:58 | 2022-08-16 | 2022-10-05 |
 | [Kashika](https://open.spotify.com/track/5fB9g1BgUXcmsRFr0YgePK) | [Ryo Haruka](https://open.spotify.com/artist/7kzVP3eplt8khwLbV5BKev), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Kashika](https://open.spotify.com/album/36xYHE6YjoI0klBipjeG44) | 3:58 | 2023-01-03 | 2023-02-17 |
@@ -99,10 +99,11 @@
 | [KING](https://open.spotify.com/track/5vCNAauCaecW0tT2mZDLG9) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [KING](https://open.spotify.com/album/5caSwBLTwvq0mk7cQwtf2O) | 2:15 | 2022-06-09 |  |
 | [KLY](https://open.spotify.com/track/5kU2uwJrjRuADfLltDgLc2) | [Iyowa](https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr) | [KLY](https://open.spotify.com/album/5cZP3s2SdQ8vXKR5yz52SU) | 4:02 | 2023-04-11 | 2023-07-28 |
 | [Koinu no Carnival \-From "Minute Waltz"\-](https://open.spotify.com/track/3OP9la2QTA5artehqjFJCp) | [EHAMIC](https://open.spotify.com/artist/2MyhU8E2SRCcHIN6FtagQR) | ["Classicaloid" Chopin Musik](https://open.spotify.com/album/0Q7zeUnaYrjTi3am2ceK4N) | 3:10 | 2023-05-14 | 2023-11-29 |
+| [Konton Boogie](https://open.spotify.com/track/4wpGyHxFi50PEJL5nxzzHM) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB) | [Konton Boogie](https://open.spotify.com/album/43yQj2CFQmrlhOGOR8dCu7) | 2:34 | 2024-01-30 |  |
 | [Kyoufuu All Back](https://open.spotify.com/track/3rO7YwtuTzCGssxvDS4xK2) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [ALBUM No,1](https://open.spotify.com/album/5J64EHN7hMo5sGTlRfC6bo) | 2:17 | 2023-11-28 |  |
 | [kyu\-kurarin](https://open.spotify.com/track/72wehM3q2RVZb4XLmAkyTr) | [Iyowa](https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr) | [kyu\-kurarin](https://open.spotify.com/album/4f5TDdboXv76t95A48thSs) | 3:37 | 2022-12-13 |  |
 | [Lap Tap Love](https://open.spotify.com/track/7weaxG7FEqDVCyZsLsyaKX) | [koyori](https://open.spotify.com/artist/6gZ9klmJVVAgpXEdL6sZQE), [向日葵](https://open.spotify.com/artist/5fY5L5NPHQRgEhdjgTvoCZ) | [Resonance](https://open.spotify.com/album/4r5hRygA5bz0oDlJoRC7Yy) | 3:22 | 2022-06-09 | 2022-06-11 |
-| [Liar Dancer](https://open.spotify.com/track/1YXuCccqCx4AM1PVekISj8) | [マサラダ](https://open.spotify.com/artist/7samVyTa42GWxA0DedqZL2) | [Liar Dancer](https://open.spotify.com/album/4P5WTqxveCHwel30kXJvoo) | 4:02 | 2023-07-20 | 2023-11-29 |
+| [Liar Dancer](https://open.spotify.com/track/1YXuCccqCx4AM1PVekISj8) | [マサラダ](https://open.spotify.com/artist/7samVyTa42GWxA0DedqZL2) | [Liar Dancer](https://open.spotify.com/album/4P5WTqxveCHwel30kXJvoo) | 4:02 | 2023-07-20 |  |
 | [Little Missing Stars](https://open.spotify.com/track/6kabY8TRpc1B7NA8bSqY0J) | [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ), [ねこぼーろ](https://open.spotify.com/artist/4Mr4f8YE9e2ERokwhi4D96), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Little Missing Stars](https://open.spotify.com/album/5FnbGWTBIkt2AYmLByUcb2) | 4:16 | 2023-08-31 | 2023-09-06 |
 | [Lost Umbrella](https://open.spotify.com/track/2zAi85TQB7mLzl8P1ySAj9) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ANTICYCLONE](https://open.spotify.com/album/0QoalZudcGlnFFoN9Qr8UB) | 3:24 | 2022-07-26 | 2023-01-13 |
 | [Love Trial](https://open.spotify.com/track/7oa18QwhLsV3JfITGDxslD) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [41m](https://open.spotify.com/album/48CT8I4ImScM4TySzxyBUP) | 3:39 | 2022-07-26 |  |
@@ -437,7 +438,7 @@
 | [不埒な喝采](https://open.spotify.com/track/1yALlDzyQ4MbzEtMosEJkk) | [音楽的同位体 可不\(KAFU\)](https://open.spotify.com/artist/4nZ9ZaF0eFDMDQKgrJgsqC) | [KAF+YOU KAFU COMPILATION ALBUM](https://open.spotify.com/album/6ljHb4t09MebY2WYuP8iQ1) | 2:24 | 2022-06-09 | 2022-07-23 |
 | [不完全愛情進行中](https://open.spotify.com/track/1kccUSvGvxEt7tccnrfV4y) | [Misumi](https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA) | [不完全愛情進行中](https://open.spotify.com/album/1FIf5JBEDDWxaqwvtCiRAM) | 2:41 | 2022-10-27 | 2023-01-06 |
 | [不純なベンガラ](https://open.spotify.com/track/3xN6bAYDya63j0tuaTIXXJ) | [REISAI](https://open.spotify.com/artist/43y4C3MKdOnurkfODdJE2P) | [不純なベンガラ](https://open.spotify.com/album/43eiB8sDKy4v5spvmTTZdr) | 2:39 | 2022-06-30 | 2022-07-05 |
-| [乙女解剖](https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:43 | 2022-06-09 |  |
+| [乙女解剖](https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:43 | 2022-06-09 | 2024-01-31 |
 | [人が歌う曲じゃない](https://open.spotify.com/track/4dOWyhJA2QK2JHsTuEzPgz) | [SajEst](https://open.spotify.com/artist/4w5OjwRCUqwdyNT1wFGp03) | [人が歌う曲じゃない](https://open.spotify.com/album/1WCpiyvA0OxQQM9awKLLhS) | 3:37 | 2022-06-30 | 2022-07-13 |
 | [仮定した夏](https://open.spotify.com/track/3sZaa7Ia4pGRtDncfD3deL) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [幻影EP\-Envy Phantom\-](https://open.spotify.com/album/5fzbipqPBcovgsJTdZHs9K) | 3:06 | 2022-06-23 | 2022-07-19 |
 | [僕にはなにができるかな](https://open.spotify.com/track/0ndD4pjPPzvehbz91ZALYU) | [jijil](https://open.spotify.com/artist/6XPjgI4sxBVWt01zOZDQWg) | [僕にはなにができるかな](https://open.spotify.com/album/4dnj0B9INT5Zq1KHO2MAtB) | 3:36 | 2022-06-14 | 2022-06-18 |

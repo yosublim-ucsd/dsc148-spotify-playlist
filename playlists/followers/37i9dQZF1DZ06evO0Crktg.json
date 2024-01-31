@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 188133,
+  "2024-01-31": 188376,
   "date_first_scraped": "2023-12-14",
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
   "name": "This Is Jelly Roll",
@@ -335,7 +335,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 237180,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/51OjUIiXdsPCr52oB5ntX8"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 155795,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/3aohNUmAixSr12gJxaR2wE"

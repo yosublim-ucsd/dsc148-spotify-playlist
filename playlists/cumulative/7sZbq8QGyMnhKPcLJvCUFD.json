@@ -8955,6 +8955,24 @@
     },
     {
       "album": {
+        "name": "The Rocks",
+        "url": "https://open.spotify.com/album/2AIbgGVrYnbOhuYWAUzTiV"
+      },
+      "artists": [
+        {
+          "name": "Maze",
+          "url": "https://open.spotify.com/artist/6lAnJw7YqGPgG1ShMCjcbQ"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241398,
+      "name": "The Rocks",
+      "url": "https://open.spotify.com/track/7fAzUkWPy7LKXNfvZs7W3V"
+    },
+    {
+      "album": {
         "name": "The Time",
         "url": "https://open.spotify.com/album/5c4WYL7FNA1Q5CtkWURneS"
       },

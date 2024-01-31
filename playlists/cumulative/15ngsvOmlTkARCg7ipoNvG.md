@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,209 songs - 1 day 2 hr 51 min
+1,210 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,6 +499,7 @@
 | [Gratitude Revisited](https://open.spotify.com/track/0vhjlzfshrkzl2syNfI82q) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Gratitude Revisited](https://open.spotify.com/album/4i52gyfZVQACdpatjoXgaL) | 2:40 | 2022-01-12 | 2024-01-30 |
 | [Gray Reimagined](https://open.spotify.com/track/1tiTBWOFUVM4kjNbAVhkgg) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Gray Reimagined](https://open.spotify.com/album/14NUtNkSpj80jXQ8LVIaKl) | 1:01 | 2023-04-19 | 2024-01-30 |
 | [Grey Clouds \- Piano Version](https://open.spotify.com/track/7g67iqreB5QMcEqss06Nfm) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Grey Clouds](https://open.spotify.com/album/6GilC9y7sgEg4tQFu8Gag6) | 1:00 | 2022-06-20 | 2024-01-30 |
+| [Growth](https://open.spotify.com/track/1LbKdbtf825ZPB2IjwMttX) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Growth](https://open.spotify.com/album/6pf7cRfAtAy0WcVXmmAEeD) | 1:00 | 2024-01-30 |  |
 | [Guide Me](https://open.spotify.com/track/6Z4Bk4ByJOrDiejt3DdJJV) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Contemplations](https://open.spotify.com/album/1dznYay8D0VTWRGPHTri3S) | 1:23 | 2024-01-29 |  |
 | [Habitual Words](https://open.spotify.com/track/2IB7U1RPRbCuPspDCq1ecj) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Deeb](https://open.spotify.com/artist/1d9MVFeVkGTYnRNMlNe0dz) | [Twin](https://open.spotify.com/album/3UE5nSckTW1SSgepfBbabG) | 4:15 | 2022-01-12 | 2023-04-09 |
 | [Half Moon](https://open.spotify.com/track/3LhIRMMv66OzGEfhLYb47P) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |

@@ -2,7 +2,7 @@
 
 ### [Fresh Arabic Pop](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> Stay up to date with the freshest Arabic Pop Songs\. Cover: Ramy Gamal
+> Stay up to date with the freshest Arabic Pop Songs\. Cover: Elissa
 
 273 songs - 16 hr 27 min
 

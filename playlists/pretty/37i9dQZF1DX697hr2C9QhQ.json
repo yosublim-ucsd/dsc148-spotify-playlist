@@ -1,12 +1,12 @@
 {
   "description": "Rock Legends from Ireland. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 32769,
+  "num_followers": 32814,
   "original_name": "Irish Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGU5NTUzZjk4YWYwZDBiZjhhNjc3ZTNiODgwOTYwMzA1MmNlYmQ2",
+  "snapshot_id": "MCw1YzliNzA3OTg2ZDIzMGFmNDkzZjYzNmIwZTFmM2IzNGMzMjZkNTVk",
   "tracks": [
     {
       "added_at": "2022-03-17 10:54:32",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "Shame About Lucy Moonhead",
-        "url": "https://open.spotify.com/album/0Y3Fv3Cumn9g1GNFwUEMOY"
-      },
-      "artists": [
-        {
-          "name": "Aslan",
-          "url": "https://open.spotify.com/artist/02pGsYqIR3RxXOflYYc4V7"
-        }
-      ],
-      "duration_ms": 231600,
-      "name": "This Is",
-      "url": "https://open.spotify.com/track/01LRmW8mraxDsUdQAihs4P"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
         "name": "Blue Lights on the Runway",
         "url": "https://open.spotify.com/album/4iBvB6NJeMSZ6bgOZC1OCS"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 280400,
       "name": "The Great Defector",
       "url": "https://open.spotify.com/track/5r1y7XYDcTtDLJHzFgODOu"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
+        "name": "Shame About Lucy Moonhead",
+        "url": "https://open.spotify.com/album/0Y3Fv3Cumn9g1GNFwUEMOY"
+      },
+      "artists": [
+        {
+          "name": "Aslan",
+          "url": "https://open.spotify.com/artist/02pGsYqIR3RxXOflYYc4V7"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "This Is",
+      "url": "https://open.spotify.com/track/01LRmW8mraxDsUdQAihs4P"
     },
     {
       "added_at": "2022-03-17 10:54:32",
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "Flock",
-        "url": "https://open.spotify.com/album/0fv20gMlaXlY2CXq7y6lXD"
+        "name": "Skylarkin",
+        "url": "https://open.spotify.com/album/44L1rL0PE0HtRQlRygsR28"
       },
       "artists": [
         {
-          "name": "Bell X1",
-          "url": "https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I"
+          "name": "Mic Christopher",
+          "url": "https://open.spotify.com/artist/1ufuQpaky2uZ7bDvhf6Ujq"
         }
       ],
-      "duration_ms": 250760,
-      "name": "Rocky Took A Lover",
-      "url": "https://open.spotify.com/track/3xyO4UQssQz2lBqv608DiF"
+      "duration_ms": 232413,
+      "name": "Heyday",
+      "url": "https://open.spotify.com/track/7FS1UB8yXnlvq7ICWHPUOi"
     }
   ],
   "unique_name": "Irish Rock Classics",

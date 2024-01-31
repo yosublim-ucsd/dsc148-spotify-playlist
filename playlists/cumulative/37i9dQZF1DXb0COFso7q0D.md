@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb0COFso7q0D.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb0COFso7q0D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb0COFso7q0D)
 
-### [Los Que Mandan](https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D)
+### [Los Que Mandan \- Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D)
 
 > The playlist sin fronteras\. Cover: Peso Pluma, Christian Nodal
 

@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Paris Paloma
 
-2,000 songs - 4 day 22 hr 53 min
+2,001 songs - 4 day 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Air To Your Hidden Lung](https://open.spotify.com/track/4nF8Cd7JAbTEp6829NjY5i) | [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Mr Jukes](https://open.spotify.com/artist/1y71H4hNtnHG7LeU1Y47FO) | [Air To Your Hidden Lung](https://open.spotify.com/album/7nlQ23XKHgPBLucJvQpNsm) | 3:19 | 2022-07-07 | 2022-09-09 |
 | [Airport Dreams \(feat\. Sarah Bonito\)](https://open.spotify.com/track/4WD6nT9bsGqVXlOUbZ4HNy) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11), [Sarah Bonito](https://open.spotify.com/artist/154N9q0T7ZUx3svKaObbps) | [Airport Dreams \(feat\. Sarah Bonito\)](https://open.spotify.com/album/69CnwTzHcwf5j8i0jraAhj) | 2:56 | 2021-10-01 | 2022-01-08 |
 | [Alarms](https://open.spotify.com/track/43cNTR4dG6IbUb0F88pl4T) | [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Alarms](https://open.spotify.com/album/1iIXuLWSglIedAyUFpaN1J) | 3:12 | 2022-01-21 | 2022-03-11 |
-| [Albert Road](https://open.spotify.com/track/4kSN9qlyYPDJrs1MHAHJOo) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [Albert Road](https://open.spotify.com/album/1CJgLeEEIjy0mHLC8Gnmr0) | 4:40 | 2024-01-19 |  |
+| [Albert Road](https://open.spotify.com/track/4kSN9qlyYPDJrs1MHAHJOo) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [Albert Road](https://open.spotify.com/album/1CJgLeEEIjy0mHLC8Gnmr0) | 4:40 | 2024-01-19 | 2024-01-31 |
+| [Albert Road](https://open.spotify.com/track/5I1qPsmbdT63jOHERgcmgZ) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [Albert Road](https://open.spotify.com/album/4akTOl1OPpSTDAsgtns9cX) | 4:40 | 2024-01-26 |  |
 | [alife](https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 4:33 | 2023-09-01 | 2023-11-10 |
 | [Alive](https://open.spotify.com/track/4oaPrrQOmjrJIjBWF5uEyI) | [The Prototypes](https://open.spotify.com/artist/7F6nxkPQrlh4qWDetjgnpX), [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [Alive](https://open.spotify.com/album/5ujTKoXlZ65AumeScUoRUb) | 2:53 | 2021-08-27 | 2021-10-16 |
 | [All About You \(feat\. Foster The People\)](https://open.spotify.com/track/5ug2bpyUHVOR7Y3TUPH3J7) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [All About You \(feat\. Foster The People\)](https://open.spotify.com/album/2pGD0e3QJo37XJpbgHm59q) | 3:36 | 2020-10-30 | 2021-01-29 |

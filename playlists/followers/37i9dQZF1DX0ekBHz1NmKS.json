@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 195845,
+  "2024-01-31": 195831,
   "date_first_scraped": "2021-12-21",
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
   "name": "Made in Sweden",
@@ -4891,7 +4891,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 179555,
       "name": "Finally Home",
       "url": "https://open.spotify.com/track/50b4hGmCcAG4kFboxSEM3j"
@@ -14059,6 +14059,24 @@
       "duration_ms": 260906,
       "name": "Stay Awake",
       "url": "https://open.spotify.com/track/67rLEjVfBaTus10bbL8zLN"
+    },
+    {
+      "album": {
+        "name": "Stay The Same",
+        "url": "https://open.spotify.com/album/74i4fawNhn1B7aXv2s6BSa"
+      },
+      "artists": [
+        {
+          "name": "Vide",
+          "url": "https://open.spotify.com/artist/33DYTSjYcxK2DzjeK7w539"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178541,
+      "name": "Stay The Same",
+      "url": "https://open.spotify.com/track/1x2HCmiEv5CSEltweAkOW8"
     },
     {
       "album": {

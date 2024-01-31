@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 204634,
+  "2024-01-31": 204734,
   "date_first_scraped": "2022-06-09",
   "description": "Cathartic songs for new beginnings.",
   "name": "January Rejuvenation",
@@ -7113,10 +7113,28 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 270315,
       "name": "Little Life",
       "url": "https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM"
+    },
+    {
+      "album": {
+        "name": "Little Life (radio edit cos they made me)",
+        "url": "https://open.spotify.com/album/5z0Mu1Ez4F9ijTlpexZ5Rk"
+      },
+      "artists": [
+        {
+          "name": "Cordelia",
+          "url": "https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270315,
+      "name": "Little Life",
+      "url": "https://open.spotify.com/track/51WRxaNJVQuXOBYUAmSzbf"
     },
     {
       "album": {

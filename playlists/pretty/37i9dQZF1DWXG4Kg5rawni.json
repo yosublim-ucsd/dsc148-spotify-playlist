@@ -1,12 +1,12 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 97370,
+  "num_followers": 97382,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjljYzM2ODMyNWMwZDU3ZDUyNzJiMWY3MmI2NDBjZjNmYThmZDg3",
+  "snapshot_id": "MCwxYTM0M2JiYmQxN2EwMjJlNjBlZGQ3ZjQxZGM3YTRkOWM1NDZjYWY4",
   "tracks": [
     {
       "added_at": "2023-07-14 16:56:11",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Aperfei\u00e7oou",
-        "url": "https://open.spotify.com/album/3G5Gf6znSZ9gdIJBBc2tqD"
-      },
-      "artists": [
-        {
-          "name": "Saulo Vianna",
-          "url": "https://open.spotify.com/artist/758WjLdtMlNGzWtoUaJCHe"
-        }
-      ],
-      "duration_ms": 239933,
-      "name": "Deus, Voc\u00ea e Eu",
-      "url": "https://open.spotify.com/track/0WD0mcZTnBLhdHAvpSNy51"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Meu Bem",
         "url": "https://open.spotify.com/album/5EXAIjwCYVpVZ5xEgWF4Dd"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 230878,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/10xATNb0pIGuxHD31B6EFb"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Aperfei\u00e7oou",
+        "url": "https://open.spotify.com/album/3G5Gf6znSZ9gdIJBBc2tqD"
+      },
+      "artists": [
+        {
+          "name": "Saulo Vianna",
+          "url": "https://open.spotify.com/artist/758WjLdtMlNGzWtoUaJCHe"
+        }
+      ],
+      "duration_ms": 239933,
+      "name": "Deus, Voc\u00ea e Eu",
+      "url": "https://open.spotify.com/track/0WD0mcZTnBLhdHAvpSNy51"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
+        "name": "Somos Iguais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER"
+      },
+      "artists": [
+        {
+          "name": "Thiago Grulha",
+          "url": "https://open.spotify.com/artist/41gACtL0EdNfVnvT71cLRu"
+        }
+      ],
+      "duration_ms": 155106,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/7iKNtzU0VMgqzJRX742e0j"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
         "name": "O Jeito Que Voc\u00ea Me Olha",
         "url": "https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF"
       },
@@ -499,22 +515,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Somos Iguais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER"
-      },
-      "artists": [
-        {
-          "name": "Thiago Grulha",
-          "url": "https://open.spotify.com/artist/41gACtL0EdNfVnvT71cLRu"
-        }
-      ],
-      "duration_ms": 155106,
-      "name": "Pra Sempre",
-      "url": "https://open.spotify.com/track/7iKNtzU0VMgqzJRX742e0j"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Mulher Realizada",
         "url": "https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74"
       },
@@ -527,6 +527,30 @@
       "duration_ms": 257648,
       "name": "Mulher Realizada",
       "url": "https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "M\u00fasica Favorita (\u00c1gua)",
+        "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Jorginho Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
+        }
+      ],
+      "duration_ms": 253636,
+      "name": "M\u00fasica Favorita \u267e",
+      "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -583,30 +607,6 @@
       "duration_ms": 223886,
       "name": "Com Voc\u00ea",
       "url": "https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "M\u00fasica Favorita (\u00c1gua)",
-        "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "Jorginho Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
-        }
-      ],
-      "duration_ms": 253636,
-      "name": "M\u00fasica Favorita \u267e",
-      "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
     },
     {
       "added_at": "2023-07-14 16:56:11",

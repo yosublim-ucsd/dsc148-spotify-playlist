@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Natalia Lafourcade y Kevin Johansen.",
-  "num_followers": 120742,
+  "num_followers": 120766,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjhmMzQ3YzdlNzNkNTAyM2FlMDJmY2QwYTE2MTQ5NzJmYjcyZWUw",
+  "snapshot_id": "MCw3YmU4Y2Q4ZmNlNGYzY2I1MGMzODE4ODM3NTdhMzBhMDU4MTZhMWVj",
   "tracks": [
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "En Las Olas",
+      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "Rumba en Cahuita",
         "url": "https://open.spotify.com/album/6jXK3xOmatH5Eb6fysEwDf"
       },
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+        "name": "Me mudo de casa",
+        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
         }
       ],
-      "duration_ms": 202680,
-      "name": "En Las Olas",
-      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
+      "duration_ms": 244636,
+      "name": "Me mudo de casa",
+      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1283,22 +1299,6 @@
       "duration_ms": 236756,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/3o6rq0a3BsvoIgRvm0Fdcz"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "Me mudo de casa",
-        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 244636,
-      "name": "Me mudo de casa",
-      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "Luna de Xelaj\u00fa",
+        "url": "https://open.spotify.com/album/5jrpGmpfxDgcj6z2BJwJfY"
+      },
+      "artists": [
+        {
+          "name": "Isaac et Nora",
+          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
+        }
+      ],
+      "duration_ms": 240949,
+      "name": "Luna de Xelaj\u00fa",
+      "url": "https://open.spotify.com/track/74h3Z5m48Id4A9ueVx7A3g"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "lo_divino",
         "url": "https://open.spotify.com/album/2g6RJzn4rdlFwB3UgCX63A"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 219681,
       "name": "poquito",
       "url": "https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "Luna de Xelaj\u00fa",
-        "url": "https://open.spotify.com/album/5jrpGmpfxDgcj6z2BJwJfY"
-      },
-      "artists": [
-        {
-          "name": "Isaac et Nora",
-          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
-        }
-      ],
-      "duration_ms": 240949,
-      "name": "Luna de Xelaj\u00fa",
-      "url": "https://open.spotify.com/track/74h3Z5m48Id4A9ueVx7A3g"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "Noviembre",
+        "url": "https://open.spotify.com/album/30vftzA8hNmdZ8ncLZ6mCq"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Ruiz",
+          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 245426,
+      "name": "Noviembre",
+      "url": "https://open.spotify.com/track/5Rns0JAdfVtIVPvBBvPbXF"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
         "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
       },
@@ -1723,26 +1743,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Noviembre",
-        "url": "https://open.spotify.com/album/30vftzA8hNmdZ8ncLZ6mCq"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Ruiz",
-          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
-        },
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 245426,
-      "name": "Noviembre",
-      "url": "https://open.spotify.com/track/5Rns0JAdfVtIVPvBBvPbXF"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Muchacha",
         "url": "https://open.spotify.com/album/3J1lkofDFSYTiIrMUvvvgD"
       },
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "Paraguas",
+        "url": "https://open.spotify.com/album/0GfAxoI33NN4bE8ic0Jyvl"
+      },
+      "artists": [
+        {
+          "name": "Juan Cerro",
+          "url": "https://open.spotify.com/artist/3dMAwDvgNZmLZHiVlFGi6L"
+        },
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "duration_ms": 208262,
+      "name": "Paraguas",
+      "url": "https://open.spotify.com/track/1cNA9ubMLg2L4EFk3GtErb"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "Peque\u00f1as Esperanzas",
         "url": "https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K"
       },
@@ -1787,22 +1807,6 @@
       "duration_ms": 200238,
       "name": "Peque\u00f1as Esperanzas",
       "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "Tab\u00fa",
-        "url": "https://open.spotify.com/album/0vtS3RtK84fPO6U5GV59L5"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Sonrisa Valiente - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/61erUSPD0TaNOQ1P1oWymd"
     }
   ],
   "unique_name": "Cancionistas",

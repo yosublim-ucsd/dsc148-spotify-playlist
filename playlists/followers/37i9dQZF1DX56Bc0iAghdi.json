@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 29107,
+  "2024-01-31": 29133,
   "date_first_scraped": "2022-09-15",
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Hannah Kerr",
   "name": "Spirit",
@@ -1014,6 +1014,24 @@
     },
     {
       "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/5p4J0GlaNKf5Ti8P3YjNYw"
+      },
+      "artists": [
+        {
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178878,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/7qN4u1nehLLf702kG6j1QJ"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/36LOiWPolyaiePKZwj4A5w"
       },
@@ -1243,7 +1261,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 246445,
       "name": "Storehouse",
       "url": "https://open.spotify.com/track/6mRHIxLNUIBz1U6jATBrZa"

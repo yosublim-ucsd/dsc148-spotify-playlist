@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-707 songs - 1 day 7 hr 43 min
+708 songs - 1 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [ginza](https://open.spotify.com/track/7napq1DUIYBfFbOxbtRKUu) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [ginza](https://open.spotify.com/album/6HIANT2xXqqWtThAX1fXdu) | 2:36 | 2022-06-30 | 2022-07-29 |
 | [Glassy Wave](https://open.spotify.com/track/497tQqdZm2EXvOvRim673I) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Glassy Wave](https://open.spotify.com/album/7uwNE4i944rSd3hVlEPUap) | 2:00 | 2023-09-28 |  |
 | [Glassy Wave](https://open.spotify.com/track/5vb6yRMsWYwwggXq6hv2yE) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Glassy Wave](https://open.spotify.com/album/2q2qJglLy235pyi3SuNPOu) | 2:00 | 2023-09-28 | 2023-09-30 |
-| [glow](https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [glow](https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH) | 4:09 | 2022-04-28 | 2024-01-26 |
+| [glow](https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [glow](https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH) | 4:09 | 2022-04-28 |  |
 | [go](https://open.spotify.com/track/6AnnJQNeDbWQmg44wzXCqh) | [Lenn](https://open.spotify.com/artist/6FMwszdpTXml16RrrJyXqh) | [go](https://open.spotify.com/album/0C7u6OZoWYJw583Jho514V) | 1:50 | 2021-12-23 | 2022-07-19 |
 | [Gohongi Blues](https://open.spotify.com/track/50EahQA09yB4uLGJIG4awJ) | [H¥NOK¥](https://open.spotify.com/artist/4hCf7jwZpqSCKNqr8ZjR7k) | [Gohongi Blues](https://open.spotify.com/album/1DJEEa7D4AhbU2PRbbaE3i) | 1:33 | 2021-12-23 | 2022-05-19 |
 | [Goldrush](https://open.spotify.com/track/0tvxDyHSw1Z5Ohd3ZGua19) | [OVERFALL](https://open.spotify.com/artist/3hEh8yUkXDSQwQLd63WRA2), [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY), [ShinyAppLe](https://open.spotify.com/artist/4TSEKs1UaAWhjGiLBekYhC) | [Goldrush](https://open.spotify.com/album/6ut7wZruXbu6NRLBKkh6td) | 2:08 | 2023-08-17 | 2023-08-29 |
@@ -332,7 +332,7 @@
 | [Lamp2](https://open.spotify.com/track/2bcNi4Nwygqo1G9zbSKhTi) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [Lamp2](https://open.spotify.com/album/0Sbup43SbFLVctcQd0L4fi) | 3:18 | 2022-07-28 | 2023-08-28 |
 | [Lamp2](https://open.spotify.com/track/5cT5aaRfRRkF9xPk7LcBt2) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [Lamp2](https://open.spotify.com/album/5qFp5leDuFDeTNplGB7I9L) | 3:18 | 2022-02-03 | 2022-07-29 |
 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 | 2023-01-06 | 2023-11-24 |
-| [Late Night Walk](https://open.spotify.com/track/3G3WYux2jy8Yp0ICjcKpwb) | [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [Late Night Walk](https://open.spotify.com/album/5CQFzGrUqgVH2M37vTx39t) | 2:50 | 2023-11-14 |  |
+| [Late Night Walk](https://open.spotify.com/track/3G3WYux2jy8Yp0ICjcKpwb) | [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [Late Night Walk](https://open.spotify.com/album/5CQFzGrUqgVH2M37vTx39t) | 2:50 | 2023-11-14 | 2024-01-31 |
 | [Late Summer](https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Late Summer](https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF) | 2:34 | 2021-12-23 | 2024-01-22 |
 | [Latitude](https://open.spotify.com/track/5V7ZYaPJlhaVsby0Qev1Kl) | [Dakchi](https://open.spotify.com/artist/1YJAWgwqcfWl06Nyn3Eawa) | [Latitude](https://open.spotify.com/album/4Fj24NC7ybJiVQw7jh4by1) | 2:46 | 2021-12-23 | 2022-07-25 |
 | [Lazy Days](https://open.spotify.com/track/4YHYqslCkAXAe0a8AfEBUc) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Lazy Days](https://open.spotify.com/album/0xVnErhgvvQcM49B27Gccc) | 2:12 | 2023-10-26 | 2024-01-19 |
@@ -359,6 +359,7 @@
 | [Lost in Thought](https://open.spotify.com/track/3vfSOpKk9Hu3bRPuFScjI6) | [Lofi Milk](https://open.spotify.com/artist/19hKMqNrak7eZjlcgnjgtT), [Maho Fukami](https://open.spotify.com/artist/08DCItdr8cA7JdJbjWeCGP) | [Lost in Thought](https://open.spotify.com/album/6AluH8s9TOlpl78dzO2CRz) | 3:02 | 2023-12-05 | 2023-12-27 |
 | [LOST SOULS](https://open.spotify.com/track/1hFa14hm2jsTnCPcOkI8IC) | [Watasino](https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw) | [LOST SOULS](https://open.spotify.com/album/2RxEUgSGEnFhqbGtAuXGyT) | 2:34 | 2022-08-04 | 2022-08-22 |
 | [Lucid Dream](https://open.spotify.com/track/1qOO7ny0TDbJDl8Rh9rkRV) | [Oui Lele](https://open.spotify.com/artist/3tbv8PcwIqfWdsgdGcWgdY), [Ahntow](https://open.spotify.com/artist/4916V2MuzFT62WpTGgm64H), [smile for me.](https://open.spotify.com/artist/2V89TxaFRKg6P252Nj0FPb) | [Lucid Dream](https://open.spotify.com/album/1R1wjANQL3mhWsvC2SuZui) | 2:42 | 2021-12-23 |  |
+| [LUSTER](https://open.spotify.com/track/1aelR3nsm2YnBKkZJ7YAHj) | [SAIRU](https://open.spotify.com/artist/5I3ccYMk8oCQ6ZCfCgWhMw) | [LUSTER](https://open.spotify.com/album/6kR1YcLGdRlB3BFMFfZYhR) | 4:37 | 2024-01-30 |  |
 | [Luv](https://open.spotify.com/track/1tJa54bWcdqb2kawGtd7ZB) | [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [Runnin'](https://open.spotify.com/album/6bd0gJXzXRJxCNaTGAiS8c) | 1:27 | 2021-12-23 | 2022-02-11 |
 | [Lux \- Instrumental](https://open.spotify.com/track/5bHovaMzUQysRb51M6bmdf) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U) | [Lux \(Instrumental\)](https://open.spotify.com/album/7MPY6Cg7sIiQxwwXVEWfh5) | 2:08 | 2022-01-06 | 2022-07-27 |
 | [Magic Hour](https://open.spotify.com/track/2S12YTQaeICYkN1zYWtpgy) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Magic Hour](https://open.spotify.com/album/0VllhhyjlCrweNYZ1o99Q9) | 1:58 | 2023-08-10 | 2023-08-12 |
@@ -383,7 +384,7 @@
 | [meraki](https://open.spotify.com/track/0fStKlyz0WuHcS5Vep3wqZ) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG), [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [meraki / cosmogyral](https://open.spotify.com/album/7jqrFYgVV6klFgnCNNUXb6) | 2:28 | 2021-12-23 |  |
 | [michi](https://open.spotify.com/track/6XrkDfGxdMs1BLBfGALhaF) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [michi](https://open.spotify.com/album/5Oy3je8laT66B2xqOipppP) | 2:38 | 2023-06-08 | 2023-08-03 |
 | [michiru](https://open.spotify.com/track/5VjNGlsBU2wHiVyvX7wJSw) | [chanoma](https://open.spotify.com/artist/3owviMt1gJ0DszBvNjPLyN) | [michiru](https://open.spotify.com/album/6VfbCPphNz57uDjLeZjXYT) | 2:40 | 2024-01-18 | 2024-01-29 |
-| [midnight escape](https://open.spotify.com/track/5QPoT5KpEN9yE83J4QkHKY) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [midnight escape](https://open.spotify.com/album/2PDFaI2eZ5SCNb7vSGgfOV) | 2:34 | 2023-11-09 |  |
+| [midnight escape](https://open.spotify.com/track/5QPoT5KpEN9yE83J4QkHKY) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [midnight escape](https://open.spotify.com/album/2PDFaI2eZ5SCNb7vSGgfOV) | 2:34 | 2023-11-09 | 2024-01-31 |
 | [Midnight Peeps, Pt.2](https://open.spotify.com/track/2WSgwK0GqTZK8yTioy0Cd8) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Midnight Peeps, Pt.2](https://open.spotify.com/album/0yMnyXQqxoFviK7NLjfWPL) | 3:34 | 2022-01-06 | 2022-07-11 |
 | [midnightblue](https://open.spotify.com/track/68vICURdbP4DrFdumsxddr) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [midnightblue](https://open.spotify.com/album/5hWozsqDLkH1M9llIOVqP8) | 2:50 | 2021-12-23 | 2022-07-27 |
 | [MidnightBlue](https://open.spotify.com/track/4BeIZYbemmAQ8azx7Y9Vvr) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Opal](https://open.spotify.com/album/1ltmHOkm08hEvcsoLq4S3Q) | 3:03 | 2022-07-28 | 2022-07-30 |

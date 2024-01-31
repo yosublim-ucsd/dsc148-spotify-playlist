@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 145320,
       "name": "(Remember Me) I'm the One Who Loves You",
       "url": "https://open.spotify.com/track/1q2RbUwPCCvO97Mx0VygiX"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 159400,
       "name": "All In A Night's Work",
       "url": "https://open.spotify.com/track/6o04w9JEOuexVW0LuIs8xK"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 161800,
       "name": "Arrivederci Roma - Remastered 1998",
       "url": "https://open.spotify.com/track/6PHtklwObDCFCY7FDm10Wj"
@@ -160,10 +160,28 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 184453,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/1ccv4yQDq8ouWV3fhwlVIX"
+    },
+    {
+      "album": {
+        "name": "(Remember Me) I'm the One That Loves You",
+        "url": "https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162386,
+      "name": "Bumming Around",
+      "url": "https://open.spotify.com/track/21o6AV95oMjYIBieifMNkN"
     },
     {
       "album": {
@@ -474,7 +492,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 239173,
       "name": "Honey",
       "url": "https://open.spotify.com/track/543fSXt0RwlcmsL8cIKkq4"
@@ -492,7 +510,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 161066,
       "name": "Houston",
       "url": "https://open.spotify.com/track/4CKqqKUKsjNTTNF3veSiWi"
@@ -510,7 +528,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 145800,
       "name": "How Sweet It Is",
       "url": "https://open.spotify.com/track/301RiGPJ5JNg6dEVNP2Stz"
@@ -528,7 +546,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 145346,
       "name": "I Can't Believe That You're In Love With Me - Remastered/1998",
       "url": "https://open.spotify.com/track/6mcDe5GXUZn6eF7mC5l3Hg"
@@ -600,7 +618,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 147200,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/5t784eXSTD20yOLmNcEkAC"
@@ -752,7 +770,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 162866,
       "name": "I've Grown Accustomed To Her Face - Remastered/1998",
       "url": "https://open.spotify.com/track/0BFCbH1cxzeUSJBVwJGRLg"
@@ -788,7 +806,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 176960,
       "name": "In Napoli",
       "url": "https://open.spotify.com/track/6hqopvCkT7JW6sSwMw2tFD"
@@ -957,6 +975,24 @@
     },
     {
       "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 12 (1961)",
+        "url": "https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145266,
+      "name": "Let Me Love You Tonight",
+      "url": "https://open.spotify.com/track/08MGDBwkSopRdXxr5BjeiO"
+    },
+    {
+      "album": {
         "name": "Let There Be Love / You're Nobody Till Somebody Loves You",
         "url": "https://open.spotify.com/album/6JjZnmerwGsfY2bValukHU"
       },
@@ -976,7 +1012,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 135160,
       "name": "Let There Be Love / You're Nobody Till Somebody Loves You",
       "url": "https://open.spotify.com/track/5uhf1e6TB5V8PKcetYmAiP"
@@ -1048,7 +1084,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 130253,
       "name": "Mean To Me - Remastered/1998",
       "url": "https://open.spotify.com/track/4R6rf3KbP45JST6Cr3Enry"
@@ -1160,7 +1196,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 210226,
       "name": "My Woman, My Woman, My Wife",
       "url": "https://open.spotify.com/track/0q90htFRfz13tk1JQ862uP"
@@ -1196,7 +1232,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 185773,
       "name": "Non Dimenticar - Remastered 1998",
       "url": "https://open.spotify.com/track/0M7yY7udI6Cj2RzIXUVNg7"
@@ -1232,7 +1268,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 221413,
       "name": "On The Street Where You Live - Remastered 1998",
       "url": "https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb"
@@ -1412,7 +1448,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 150266,
       "name": "Send Me the Pillow You Dream On",
       "url": "https://open.spotify.com/track/7hyuFoept7slNptV126UwW"
@@ -1484,7 +1520,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 141480,
       "name": "Someday - Remastered/1998",
       "url": "https://open.spotify.com/track/09ImTvqnzd1ukBjcn9iDcP"
@@ -1502,7 +1538,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 134253,
       "name": "Somewhere There's a Someone",
       "url": "https://open.spotify.com/track/6o6SjSnjl1uFjvAMDhmZ3H"
@@ -1520,7 +1556,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 109706,
       "name": "South of the Border",
       "url": "https://open.spotify.com/track/2Q87Wv1UylYPZ1yAH87ddv"
@@ -1538,7 +1574,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 171240,
       "name": "Standing On The Corner",
       "url": "https://open.spotify.com/track/721c6myRkDcRFuPNrbhzXy"
@@ -1596,7 +1632,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 190400,
       "name": "That's Amore",
       "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
@@ -1668,7 +1704,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 175506,
       "name": "The Man Who Plays The Mandolino",
       "url": "https://open.spotify.com/track/4pwqOUmyITGGRjYEnHfxuu"
@@ -1878,7 +1914,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 146360,
       "name": "Vieni Su (Say You Love Me, Too) - Remastered 1998",
       "url": "https://open.spotify.com/track/0jH9nmgFuW8Ga7ewfYQgwX"
@@ -1896,7 +1932,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 181626,
       "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
       "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
@@ -1976,7 +2012,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 183560,
       "name": "When You're Smiling (The Whole World Smiles With You) - Digitally Remastered 97",
       "url": "https://open.spotify.com/track/11tOuFtY7njtSzA5wr07xp"
@@ -2048,7 +2084,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 186466,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/0VrTy4ScuMoVxp26rLgHpd"
@@ -2084,7 +2120,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 166533,
       "name": "You're Breaking My Heart (Mattinata) - Remastered 1998",
       "url": "https://open.spotify.com/track/42SbfN8JAc60JXbRGQ4y32"

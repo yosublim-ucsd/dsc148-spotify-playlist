@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 142885,
+  "num_followers": 142888,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGM3OWM4MTRjZWM4YTFkMGI3MTU2MzNmMmJkOTMxZTBiOTdiN2I4",
+  "snapshot_id": "MCwzYmZiOWJiOTE4MzYwMzdlYzI1NDI3MzI3YjkxYjY3MDVlZmQ2NzM4",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -695,18 +695,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Albi Ya Albi",
-        "url": "https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj"
+        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+        "url": "https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT"
       },
       "artists": [
         {
-          "name": "Nancy Ajram",
-          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        },
+        {
+          "name": "Ashin Chen",
+          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
         }
       ],
-      "duration_ms": 206963,
-      "name": "Albi Ya Albi",
-      "url": "https://open.spotify.com/track/63qG3TrMt8RPXrIPr0qw8Q"
+      "duration_ms": 220693,
+      "name": "\u8aaa\u597d\u4e0d\u54ed",
+      "url": "https://open.spotify.com/track/52yAKumXlqPjUsIBlmiMvo"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -731,22 +735,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
-        "url": "https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT"
+        "name": "Albi Ya Albi",
+        "url": "https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj"
       },
       "artists": [
         {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        },
-        {
-          "name": "Ashin Chen",
-          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
         }
       ],
-      "duration_ms": 220693,
-      "name": "\u8aaa\u597d\u4e0d\u54ed",
-      "url": "https://open.spotify.com/track/52yAKumXlqPjUsIBlmiMvo"
+      "duration_ms": 206963,
+      "name": "Albi Ya Albi",
+      "url": "https://open.spotify.com/track/63qG3TrMt8RPXrIPr0qw8Q"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0vXrZOMW00pJB52Oitkoxi"
+      },
+      "artists": [
+        {
+          "name": "Julie Anne San Jose",
+          "url": "https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Your Song (My One and Only You)",
+      "url": "https://open.spotify.com/track/3vA3D2J5ciFlIjdQ0piQBk"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "The Way I Love You",
         "url": "https://open.spotify.com/album/3K4LPKywpYV44mQtqt5mNH"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 162726,
       "name": "The Way I Love You",
       "url": "https://open.spotify.com/track/3XV5r1cMB2AlD2ir0v6mfm"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/0vXrZOMW00pJB52Oitkoxi"
-      },
-      "artists": [
-        {
-          "name": "Julie Anne San Jose",
-          "url": "https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Your Song (My One and Only You)",
-      "url": "https://open.spotify.com/track/3vA3D2J5ciFlIjdQ0piQBk"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Media Tinta",
+        "url": "https://open.spotify.com/album/76AGXqcL7vYqzkxn7lwfkx"
+      },
+      "artists": [
+        {
+          "name": "Sofia Ellar",
+          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
+        }
+      ],
+      "duration_ms": 234340,
+      "name": "Media Tinta",
+      "url": "https://open.spotify.com/track/28dvkrXcMae3QMOp4UgfrC"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Te quiero (Versi\u00f3n 2019)",
         "url": "https://open.spotify.com/album/1xg3IvcDs8TmF05ZdKyNQJ"
       },
@@ -1851,18 +1867,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Media Tinta",
-        "url": "https://open.spotify.com/album/76AGXqcL7vYqzkxn7lwfkx"
+        "name": "0",
+        "url": "https://open.spotify.com/album/6Oa8tjPIVfB0LgO1hwVw61"
       },
       "artists": [
         {
-          "name": "Sofia Ellar",
-          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
         }
       ],
-      "duration_ms": 234340,
-      "name": "Media Tinta",
-      "url": "https://open.spotify.com/track/28dvkrXcMae3QMOp4UgfrC"
+      "duration_ms": 238386,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4iRgN2h6iRkFVHareKcL14"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1883,22 +1899,6 @@
       "duration_ms": 239330,
       "name": "Benar Cinta",
       "url": "https://open.spotify.com/track/7nG9CHpSwPyONyB8hdlZ5k"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "0",
-        "url": "https://open.spotify.com/album/6Oa8tjPIVfB0LgO1hwVw61"
-      },
-      "artists": [
-        {
-          "name": "Superfly",
-          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
-        }
-      ],
-      "duration_ms": 238386,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/4iRgN2h6iRkFVHareKcL14"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Ana Mesh Magroha",
-        "url": "https://open.spotify.com/album/3hw0hBILtvaXlRWeygmDbI"
-      },
-      "artists": [
-        {
-          "name": "Shaimaa ElShayeb",
-          "url": "https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr"
-        }
-      ],
-      "duration_ms": 155013,
-      "name": "Ana Mesh Magroha",
-      "url": "https://open.spotify.com/track/4vJUFvVTdyLTeA9ANFCF1H"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 230000,
       "name": "111",
       "url": "https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Ana Mesh Magroha",
+        "url": "https://open.spotify.com/album/3hw0hBILtvaXlRWeygmDbI"
+      },
+      "artists": [
+        {
+          "name": "Shaimaa ElShayeb",
+          "url": "https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr"
+        }
+      ],
+      "duration_ms": 155013,
+      "name": "Ana Mesh Magroha",
+      "url": "https://open.spotify.com/track/4vJUFvVTdyLTeA9ANFCF1H"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "I mecht nur wissn wo du bist (I.U.E.)",
-        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
-      },
-      "artists": [
-        {
-          "name": "Popwal",
-          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
-        }
-      ],
-      "duration_ms": 207920,
-      "name": "I mecht nur wissn wo du bist - I.U.E.",
-      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 218501,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "I mecht nur wissn wo du bist (I.U.E.)",
+        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
+      },
+      "artists": [
+        {
+          "name": "Popwal",
+          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
+        }
+      ],
+      "duration_ms": 207920,
+      "name": "I mecht nur wissn wo du bist - I.U.E.",
+      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2319,18 +2319,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Bla Bik",
-        "url": "https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3"
+        "name": "How Is This Love ?",
+        "url": "https://open.spotify.com/album/4aTc14CgoXenF4HPuJzA2T"
       },
       "artists": [
         {
-          "name": "Nada",
-          "url": "https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G"
+          "name": "Djouher",
+          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
+        },
+        {
+          "name": "Dylan Longworth",
+          "url": "https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH"
         }
       ],
-      "duration_ms": 175384,
-      "name": "Bla Bik",
-      "url": "https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs"
+      "duration_ms": 195273,
+      "name": "How Is This Love ?",
+      "url": "https://open.spotify.com/track/2lD4UJXfytonquvY7HQdGO"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2351,6 +2355,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Bla Bik",
+        "url": "https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3"
+      },
+      "artists": [
+        {
+          "name": "Nada",
+          "url": "https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Bla Bik",
+      "url": "https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Cardamom Tea",
         "url": "https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq"
       },
@@ -2363,26 +2383,6 @@
       "duration_ms": 221714,
       "name": "Cardamom Tea",
       "url": "https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "How Is This Love ?",
-        "url": "https://open.spotify.com/album/4aTc14CgoXenF4HPuJzA2T"
-      },
-      "artists": [
-        {
-          "name": "Djouher",
-          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
-        },
-        {
-          "name": "Dylan Longworth",
-          "url": "https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH"
-        }
-      ],
-      "duration_ms": 195273,
-      "name": "How Is This Love ?",
-      "url": "https://open.spotify.com/track/2lD4UJXfytonquvY7HQdGO"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Burnout",
-        "url": "https://open.spotify.com/album/6k47ejXCq00U0GjjDlhBdJ"
-      },
-      "artists": [
-        {
-          "name": "Calby",
-          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
-        }
-      ],
-      "duration_ms": 187535,
-      "name": "The Everyday Bit",
-      "url": "https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Kyle",
         "url": "https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY"
       },
@@ -2455,6 +2439,42 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/2bnab6jju2LE7NyFGjykqI"
+      },
+      "artists": [
+        {
+          "name": "Djouher",
+          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
+        },
+        {
+          "name": "Belfa",
+          "url": "https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L"
+        }
+      ],
+      "duration_ms": 178906,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/5bwb4M1BhqVfjLmR3N1n6B"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Burnout",
+        "url": "https://open.spotify.com/album/6k47ejXCq00U0GjjDlhBdJ"
+      },
+      "artists": [
+        {
+          "name": "Calby",
+          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
+        }
+      ],
+      "duration_ms": 187535,
+      "name": "The Everyday Bit",
+      "url": "https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Tum Jaisi Ho",
         "url": "https://open.spotify.com/album/05vRHIg3ZhYkO8Wlpb5yRk"
       },
@@ -2467,22 +2487,6 @@
       "duration_ms": 145301,
       "name": "Tum Jaisi Ho",
       "url": "https://open.spotify.com/track/2ArTK3KizSrijvTlRzGtSs"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D"
-      },
-      "artists": [
-        {
-          "name": "Malak",
-          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
-        }
-      ],
-      "duration_ms": 228541,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2503,6 +2507,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D"
+      },
+      "artists": [
+        {
+          "name": "Malak",
+          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
+        }
+      ],
+      "duration_ms": 228541,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "\u041c\u0435\u0436\u0434\u0443 \u043d\u0430\u043c\u0438 (Ice Lyrical Version)",
         "url": "https://open.spotify.com/album/0ztRJunw2tGm9inc8zaO1y"
       },
@@ -2519,26 +2539,6 @@
       "duration_ms": 223200,
       "name": "\u041c\u0435\u0436\u0434\u0443 \u043d\u0430\u043c\u0438 - Ice Lyrical Version",
       "url": "https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/2bnab6jju2LE7NyFGjykqI"
-      },
-      "artists": [
-        {
-          "name": "Djouher",
-          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
-        },
-        {
-          "name": "Belfa",
-          "url": "https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L"
-        }
-      ],
-      "duration_ms": 178906,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/5bwb4M1BhqVfjLmR3N1n6B"
     }
   ],
   "unique_name": "Ballads International",

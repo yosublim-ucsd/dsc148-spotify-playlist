@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,846 likes - 47 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,928 likes - 48 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,6 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 44 | [Rainha da Favela](https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Rainha da Favela](https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8) | 2:40 |
 | 45 | [Maria Maria \- Spotify Singles](https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maria Maria \- Spotify Singles](https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi) | 2:23 |
 | 46 | [Bom](https://open.spotify.com/track/25SL3ZSbEGtu4oU14xllMQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [A danada sou eu](https://open.spotify.com/album/4JZQXCD2TwUZmxSLlMDRoX) | 2:52 |
-| 47 | [Vai Sentando](https://open.spotify.com/track/4UlkRoC6xPCDXehTyW21BF) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Vai Sentando \(FAST X Soundtrack\)](https://open.spotify.com/album/08rwl7AoPbs22LGky7hgdu) | 2:14 |
+| 47 | [Ela Terminou No WhatsApp \- Ao Vivo](https://open.spotify.com/track/41YAs2W3C3xPHuDLQIPnvM) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [paGGodin \(Ao Vivo / Parte 1\)](https://open.spotify.com/album/2ryScgu1hScAW4eUnhWS2X) | 3:06 |
+| 48 | [Vai Sentando](https://open.spotify.com/track/4UlkRoC6xPCDXehTyW21BF) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Vai Sentando \(FAST X Soundtrack\)](https://open.spotify.com/album/08rwl7AoPbs22LGky7hgdu) | 2:14 |
 
-Snapshot ID: `Mjg0NDIxOTIsMDAwMDAwMDBhOTlmMmFiYmI2Zjk5NmQyMDVmYWMwYjUwMDFhNjY2ZA==`
+Snapshot ID: `Mjg0NDM2MzgsMDAwMDAwMDA3OTNmNGIwMDc1N2JlMzE4ZjA0OGI1M2E0NGYwNzRmYg==`

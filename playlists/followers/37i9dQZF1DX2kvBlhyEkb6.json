@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 308054,
+  "2024-01-31": 308129,
   "date_first_scraped": "2021-12-21",
   "description": "A thorough introduction to the world of Tchaikovsky, including: dancing swans, brave nutcrackers, enchanted snow maidens and several exploding cannons.",
   "name": "This Is Tchaikovsky",
@@ -1547,10 +1547,44 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 879160,
       "name": "Swan Lake, Op. 20, TH.12 / Act 2: No. 13 Danses des cygnes: a) Valse - b) Moderato assai - c) Valse - d) Allegro moderato - e) Pas d'action (Andante) - f) Valse - g) Coda (Allegro vivace)",
       "url": "https://open.spotify.com/track/2UENiukjq27zuftPdZHUcj"
+    },
+    {
+      "album": {
+        "name": "Favourite Ballet",
+        "url": "https://open.spotify.com/album/5E9jGhiVaEWWxtN4aXzfCi"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Chantal Juillet",
+          "url": "https://open.spotify.com/artist/05QS9GX1jM0XQqGZtxDAzR"
+        },
+        {
+          "name": "Guy Fouquet",
+          "url": "https://open.spotify.com/artist/6O4Ty9M8fj56Mek1ODWNWl"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        },
+        {
+          "name": "Charles Dutoit",
+          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 879160,
+      "name": "Swan Lake, Op. 20, TH.12 / Act 2: No. 13 Danses des cygnes: a) Valse - b) Moderato assai - c) Valse - d) Allegro moderato - e) Pas d'action (Andante) - f) Valse - g) Coda (Allegro vivace)",
+      "url": "https://open.spotify.com/track/30tGGgOrSG98c8nZbI1YEP"
     },
     {
       "album": {
@@ -1573,7 +1607,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 327826,
       "name": "Swan Lake, Op. 20, TH.12 / Act 4: No. 27 Danses des petits cygnes (Moderato)",
       "url": "https://open.spotify.com/track/3eHwqaD8KrfGhaKx1rR9h3"
@@ -2537,6 +2571,32 @@
       "duration_ms": 344893,
       "name": "Tchaikovsky: Swan Lake, Op. 20, Act 1: Introduction - No. 1, Scene. Allegro giusto",
       "url": "https://open.spotify.com/track/5tNUaNoIMdJcdHGj25a7gD"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky",
+        "url": "https://open.spotify.com/album/438o4UfLaxtqzrtZ0H0eKp"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        },
+        {
+          "name": "Charles Dutoit",
+          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327826,
+      "name": "Tchaikovsky: Swan Lake, Op. 20, TH.12 / Act 4 - No. 27 Danses des petits cygnes (Moderato)",
+      "url": "https://open.spotify.com/track/07eTnaYwUhqzkLXy8wgZwX"
     },
     {
       "album": {

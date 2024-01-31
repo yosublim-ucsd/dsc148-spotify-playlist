@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Amble \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,662 likes - 88 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,737 likes - 88 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 87 | [Before I Go](https://open.spotify.com/track/17lfmm3lhdsSb8tIIDHLJg) | [Lucas Stadvec](https://open.spotify.com/artist/4RxBTq3v5mazTgUvlrxWwd) | [Before I Go](https://open.spotify.com/album/31MXnLXafwBpQEkFUJF0Ym) | 2:12 |
 | 88 | [Kale](https://open.spotify.com/track/4YojHiM5K1UKxgDcRjKLvP) | [Sean Heathcliff](https://open.spotify.com/artist/2tYXwM1rLFrTBtYHY8JpnN) | [Within Your Shade](https://open.spotify.com/album/3hR5sZrXHhzK4hSkW1Zifq) | 3:11 |
 
-Snapshot ID: `MCwxOTVkODQxZDk4NmI4ZWRkMzkxODk5MDQxNzA4MjJiMDMyMWVjZTA2`
+Snapshot ID: `MCw4NWIxY2I2OGQyNTFhYWU4MTI3MzgzMzJiNGJiOWM0ODFjODMwZTVi`

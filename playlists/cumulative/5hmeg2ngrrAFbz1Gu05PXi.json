@@ -1581,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "Photay",
+        "url": "https://open.spotify.com/album/18rcvgzvr5DMsPNOBwL5Cz"
+      },
+      "artists": [
+        {
+          "name": "Photay",
+          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390799,
+      "name": "Illusion Of Seclusion",
+      "url": "https://open.spotify.com/track/6gqJJwkvzyXXj8SUEJgP4g"
+    },
+    {
+      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/0Dg1KwgmtUzeMQonDCUFhQ"
       },
@@ -3180,7 +3198,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 533645,
       "name": "The Ha Dub Rewerk'd",
       "url": "https://open.spotify.com/track/6CwYUcRRe7URQo1n1bACFw"

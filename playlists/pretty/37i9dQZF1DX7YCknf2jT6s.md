@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Nubya Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,643 likes - 100 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,728 likes - 100 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [The Junglist \- Bonus Track](https://open.spotify.com/track/0Ew7cCW9CQWEZX8KrOIiFk) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn \(10th Anniversary Remaster\)](https://open.spotify.com/album/6KPAS8bKufxqev7XFgg8ss) | 5:18 |
 | 100 | [Eye Never Knew \[Feat\. Pink Siifu, Keyon Harrold\]](https://open.spotify.com/track/1Z5OAreCNpapmYDkmzbuM5) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Eye Never Knew \[Feat\. Pink Siifu, Keyon Harrold\]](https://open.spotify.com/album/4511OYwmrYTxyIWeN06Pql) | 3:30 |
 
-Snapshot ID: `MCw1OGJmNjM2YWVjY2I0OTgzOWVmMTE4NzQwMTMxYWVlOGEzYzk3ZGVm`
+Snapshot ID: `MCwyOTNkYzc0Y2M3ODdjYWMxOTQ1OGJhNDFjOGM1NTAyZDgxMjczOTgz`

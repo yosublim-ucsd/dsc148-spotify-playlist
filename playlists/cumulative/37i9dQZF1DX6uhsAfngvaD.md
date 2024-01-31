@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-380 songs - 1 day 0 hr 3 min
+381 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Notice Me](https://open.spotify.com/track/0QvmhbIf4rbeRx4DzAbIce) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Notice Me](https://open.spotify.com/album/1kOhuN7E5bWjkfUUu1BDID) | 2:32 | 2023-03-24 | 2023-06-18 |
 | [Now It's Gone](https://open.spotify.com/track/55RPfUUmsyU2Yjx8k4qzp9) | [Maria BC](https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry) | [Now It's Gone](https://open.spotify.com/album/2bH4nIurTWpCkA9vYUwBRr) | 4:05 | 2021-08-01 | 2022-11-29 |
 | [number own](https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [number own](https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c) | 2:39 | 2023-03-24 |  |
+| [obliterate me](https://open.spotify.com/track/7qRMiZxKOdihhkdlJthqxP) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [obliterate me](https://open.spotify.com/album/19oywMyEwcitk495lSqOyM) | 3:53 | 2024-01-26 |  |
 | [Ocho Domingos](https://open.spotify.com/track/4Z3kYIFtzf69vXdRDGTLfP) | [Menta](https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn) | [não não](https://open.spotify.com/album/1YGOwQRrbTILIXICx0KiGz) | 2:34 | 2021-04-30 | 2022-04-18 |
 | [Ohio Blue Tips](https://open.spotify.com/track/3cKzdHoTN1g39ktjm3twCF) | [Terry vs\. Tori](https://open.spotify.com/artist/1UAyQNs2HANU7mGGqtXzJv) | [Heathers](https://open.spotify.com/album/219YBWjZumk7SNvu9Rk86K) | 3:14 | 2020-11-06 | 2022-11-18 |
 | [Old Canvas](https://open.spotify.com/track/5JREM5ZdkL20Yeiv71nssh) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Old Canvas](https://open.spotify.com/album/6ITW1wLstKHkOUMin1G3ew) | 4:30 | 2021-07-19 | 2022-07-29 |
@@ -378,7 +379,7 @@
 | [Wrong At Last](https://open.spotify.com/track/3bseWERc5aydzlM6B9o7bp) | [Melpo Mene](https://open.spotify.com/artist/6Ur5BsJW8sUICtONqIqfwj) | [Wrong At Last](https://open.spotify.com/album/2Ss6Lv2PF0RvhdfJE2PGzC) | 3:28 | 2021-03-29 | 2022-06-19 |
 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 | 2022-07-06 |  |
 | [YKWIM?](https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w) | 3:32 | 2021-03-26 | 2022-06-14 |
-| [You and Me](https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [You and Me](https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ) | 3:45 | 2021-02-26 |  |
+| [You and Me](https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [You and Me](https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ) | 3:45 | 2021-02-26 | 2024-01-31 |
 | [You Were Bored](https://open.spotify.com/track/5BIWF6L3DnPkcuEuZmLHDz) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [You Were Bored](https://open.spotify.com/album/6N35D3J6BIw7ulHo6mrzkj) | 4:23 | 2020-07-31 | 2021-03-06 |
 | [You'd Be Mine](https://open.spotify.com/track/3bcrlAFw712dO397aCAmle) | [Boshe](https://open.spotify.com/artist/2qFtSSi6zc8jGg8P1CXyAl), [Sam Shaw](https://open.spotify.com/artist/0BmKEHacAbCKmzCGvwZ2sw) | [You'd Be Mine](https://open.spotify.com/album/2vrqOyI5qUVebBhVhiajE0) | 2:59 | 2021-02-06 | 2022-07-27 |
 | [You're Lookin' at My Guy](https://open.spotify.com/track/2f2gL9OPgMnW8ogzU3w6xa) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [You're Lookin' at My Guy](https://open.spotify.com/album/0j2euZ9XdjyniLdvaZBuq3) | 2:54 | 2020-08-09 | 2021-02-26 |

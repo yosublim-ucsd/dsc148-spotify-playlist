@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ou vc dança ou o grave t balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 716,418 likes - 71 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 717,346 likes - 71 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 31 | [MONTAGEM ANOS 2000](https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [MC Tigrão](https://open.spotify.com/artist/5ZN9qsKINzpikhHsCBvYpW), [Mc Luan](https://open.spotify.com/artist/1RdD4CJBoJIEo0vOogJCCF), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu), [Karol X](https://open.spotify.com/artist/0ByBhGIqP8T6O0YZWnAMCR) | [A.Mago \- Playlist do Mago](https://open.spotify.com/album/4vhbsr8IwQoKgTiKGlo6So) | 2:58 |
 | 32 | [Iphone Fourteen](https://open.spotify.com/track/0S9JEbBKzkPOqMgEgZxXXh) | [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr) | [Só pra Tu Lembrar de Mim](https://open.spotify.com/album/4mjeyEOzmNpZmNTSDdXOEn) | 2:30 |
 | 33 | [Calma Amor, Calma Bb](https://open.spotify.com/track/4nHN8qxD9UJCSqqvFmRBzq) | [Dj Bruninho Pzs](https://open.spotify.com/artist/5bSWLXu8tYxI5ISra9j6IF), [Dj Mano Lost](https://open.spotify.com/artist/32u1p6WuDcC7EUh7iWQPAg), [MC MENOR KAUAN](https://open.spotify.com/artist/0zi2XpPvQum7s1oIBFmufL) | [Calma Amor, Calma Bb](https://open.spotify.com/album/0KnF9KhEoQSLvtUOXdZixU) | 2:46 |
-| 34 | [Mega Funk Lost](https://open.spotify.com/track/1dNaW9Zy3lSgwylHwR75Ro) | [DJ Maninho](https://open.spotify.com/artist/4XZR4NawJ2XBNzaINpqrI5), [Dj Dudu](https://open.spotify.com/artist/55s1nOqpHGET1gHUReBJZh), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Mega Funk Lost](https://open.spotify.com/album/7z1fRz5wZLxWpxmsFRWa3A) | 2:41 |
+| 34 | [Mega Funk Lost](https://open.spotify.com/track/1xWnRVOZiVLkSIJbNRfiy8) | [DJ Maninho](https://open.spotify.com/artist/4XZR4NawJ2XBNzaINpqrI5), [Dj Dudu](https://open.spotify.com/artist/55s1nOqpHGET1gHUReBJZh), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Mega Funk Lost](https://open.spotify.com/album/42UgjLpkcOAF4emPZMmuw5) | 2:41 |
 | 35 | [Bala Love](https://open.spotify.com/track/48Ll1C6qAnP2UjnopQDh4a) | [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [Dj Lv Mdp](https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW), [DJ PH DA SERRA](https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI) | [Bala Love](https://open.spotify.com/album/1Hr2BJE35v4OYirOAe0hA3) | 3:41 |
 | 36 | [Vem Quebrando](https://open.spotify.com/track/7Iq55toOSSBCEoGuXxQSa1) | [Mc Danone](https://open.spotify.com/artist/5AkhuEE9FYontxsHqqmtNQ), [DJ THG](https://open.spotify.com/artist/2SvKC08nVN1betbwPtr3Lc), [Dj Hm Oliveira](https://open.spotify.com/artist/0XLrjcXTNJmPJTF3ByHJfV) | [Vem Quebrando](https://open.spotify.com/album/0aQOJ7eiOSyP0Yf3mwIEdF) | 2:28 |
 | 37 | [Aquariano Nato](https://open.spotify.com/track/3hfCle1QRfbwIpQ1B746lV) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [Complexo dos Hits](https://open.spotify.com/artist/3ymF57lFWXJswhYvjC9O6G), [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv) | [Funktroit](https://open.spotify.com/album/7LFxfEV4nuomiNyOATUHsU) | 1:56 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 70 | [Tipo Hollywood](https://open.spotify.com/track/6nvbXA95vgyThzj2Tbhank) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [Tipo Holywood](https://open.spotify.com/album/5W7hjyoWwy2KGEUTCN0L6z) | 1:49 |
 | 71 | [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO), [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 |
 
-Snapshot ID: `MCw2MWQ5ZTU4OWJlMmI1NzU3ODc5MmQ3YmMyY2UwMDEzMTFmZDgwNThk`
+Snapshot ID: `MCwwMWI4ZWUwNTMwZjk1ZDJhOGUyZjFiNzliOGQzZDNmOGMwOTQwNWRl`

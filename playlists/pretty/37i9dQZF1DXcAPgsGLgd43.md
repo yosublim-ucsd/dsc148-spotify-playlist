@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > Introducing Alma — a soul born from Latin and house music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,848 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,856 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,14 +62,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 52 | [Serena](https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [PAVE](https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny) | [Serena](https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom) | 2:33 |
 | 53 | [Bim Boom Bam](https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf) | [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7) | [Bim Boom Bam](https://open.spotify.com/album/5jIkBRxJrtk14bkHIGmf1k) | 2:24 |
 | 54 | [CKULO](https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [CKULO](https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW) | 2:32 |
-| 55 | [Balança](https://open.spotify.com/track/3EOVCa2GmmNvVqrmLeCq1F) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [PAVE](https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny) | [Balança](https://open.spotify.com/album/6d97tKqeGjCsKhxfhwJq5X) | 2:25 |
+| 55 | [Gringada](https://open.spotify.com/track/5vnQUEjtukbbnWcrnigfpT) | [Costa Leon](https://open.spotify.com/artist/3vkZeJ4Gkrwmy21vHPrsDh), [DJ Cuervo](https://open.spotify.com/artist/1L1RMOhubngzDWQzrRB9UH) | [Gringada](https://open.spotify.com/album/31IgBVgxGhUfMUGlA6wZAq) | 2:48 |
 | 56 | [Toma Que Toma](https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Toma Que Toma](https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd) | 3:47 |
-| 57 | [Gringada](https://open.spotify.com/track/5vnQUEjtukbbnWcrnigfpT) | [Costa Leon](https://open.spotify.com/artist/3vkZeJ4Gkrwmy21vHPrsDh), [DJ Cuervo](https://open.spotify.com/artist/1L1RMOhubngzDWQzrRB9UH) | [Gringada](https://open.spotify.com/album/31IgBVgxGhUfMUGlA6wZAq) | 2:48 |
+| 57 | [Balança](https://open.spotify.com/track/3EOVCa2GmmNvVqrmLeCq1F) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [PAVE](https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny) | [Balança](https://open.spotify.com/album/6d97tKqeGjCsKhxfhwJq5X) | 2:25 |
 | 58 | [Pa Lante](https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Minow](https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen), [Gabsy](https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc) | [Pa Lante](https://open.spotify.com/album/4c5PIf7olnUOXJPR4nlq22) | 2:59 |
 | 59 | [Toma Dale](https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Toma Dale](https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr) | 5:23 |
-| 60 | [La Fiesta](https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [La Fiesta](https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx) | 3:45 |
-| 61 | [La Gente](https://open.spotify.com/track/4TbPgvEeXo4tLnBS7xpfR2) | [ESSED](https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo) | [La Gente](https://open.spotify.com/album/3uEaV5TBdnuqgvdRky5bRZ) | 3:12 |
-| 62 | [Que Pasa](https://open.spotify.com/track/1VZBZKvJIrmX69vTg9xWyv) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Que Pasa](https://open.spotify.com/album/0m7ydDnuLaqCUAKVZ4iRMi) | 2:48 |
+| 60 | [Que Pasa](https://open.spotify.com/track/1VZBZKvJIrmX69vTg9xWyv) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Que Pasa](https://open.spotify.com/album/0m7ydDnuLaqCUAKVZ4iRMi) | 2:48 |
+| 61 | [La Fiesta](https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [La Fiesta](https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx) | 3:45 |
+| 62 | [La Gente](https://open.spotify.com/track/4TbPgvEeXo4tLnBS7xpfR2) | [ESSED](https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo) | [La Gente](https://open.spotify.com/album/3uEaV5TBdnuqgvdRky5bRZ) | 3:12 |
 | 63 | [La La La](https://open.spotify.com/track/0kZwdBQo5iJfM9DYsFCYSD) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [La La La](https://open.spotify.com/album/1yyYH9ehC041fuy4eujShO) | 2:56 |
 | 64 | [Esta Vaina](https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Esta Vaina](https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq) | 3:35 |
 | 65 | [Wimbo](https://open.spotify.com/track/7iTDDrMZszyVaTowWShuwf) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Wimbo](https://open.spotify.com/album/1g0MngSgjz9ZiPEe8thh87) | 2:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 74 | [Quema Quema](https://open.spotify.com/track/4IQe3wmj64IDRU57zsTdau) | [Mister Pancho](https://open.spotify.com/artist/4NtBRx1ZiUjghjkMEEgRGe) | [Quema Quema](https://open.spotify.com/album/5NRmxv41JcMSN7ZznTEVAZ) | 2:06 |
 | 75 | [Desconocidos](https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Argia](https://open.spotify.com/artist/3K2j2d5WP7SfP06QTV8iz4) | [Desconocidos](https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade) | 5:22 |
 
-Snapshot ID: `MCw4ODNlYzFhZjhhMTc1NWZmNjNjMjY4ZjA1ZWE2MTJkNjk0N2U0NzVi`
+Snapshot ID: `MCw5NTAwZjQ5NTAwZDVhZGFhMmZmOTYzMDI5ZjMxMzZlYzA4ZGZjYTYy`

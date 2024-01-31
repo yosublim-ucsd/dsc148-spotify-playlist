@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 12657,
+  "num_followers": 12667,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmQxMjcxOGJmMWQxZTljYTAwYzg3ZTZkYjhjOGFlNTkxMDJlYjgy",
+  "snapshot_id": "MCw1ZjFhNDY5NTg0OWFhOTMyNDAwNWFkZmY0NTdhYjNhYWY2N2YyOGZl",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "I Am Not Alone",
+        "url": "https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA"
+      },
+      "artists": [
+        {
+          "name": "Jack Greene",
+          "url": "https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "King of Kings",
+      "url": "https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "How Great Thou Art",
         "url": "https://open.spotify.com/album/4Uok3QayvnnQUB8ob4J95S"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 208010,
       "name": "How Great Thou Art",
       "url": "https://open.spotify.com/track/3otLzyxTwe5JoBKFA5K1r3"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "I Am Not Alone",
-        "url": "https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA"
-      },
-      "artists": [
-        {
-          "name": "Jack Greene",
-          "url": "https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "King of Kings",
-      "url": "https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Front Porch Singin'",
+        "url": "https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 108145,
+      "name": "Rock My Soul",
+      "url": "https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "These Are The Days",
         "url": "https://open.spotify.com/album/4NLFC87jCshYTUAz3hbhP6"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 262212,
       "name": "The Lighthouse - 50 Year Celebration",
       "url": "https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Front Porch Singin'",
-        "url": "https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY"
-      },
-      "artists": [
-        {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
-        }
-      ],
-      "duration_ms": 108145,
-      "name": "Rock My Soul",
-      "url": "https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Sings Greatest Country Gospel Hits",
-        "url": "https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db"
-      },
-      "artists": [
-        {
-          "name": "Eddie Bond",
-          "url": "https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Pass Me Not Oh Gentle Saviour",
-      "url": "https://open.spotify.com/track/6vgQpJaxOKsgLgZLzMI3kq"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Good News From Jerusalem (Made Popular by Tribute Quartet) [Performance Track]",
         "url": "https://open.spotify.com/album/1T2TM15utzZjxJxO674Q3H"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 237986,
       "name": "Good News From Jerusalem (Demonstration in C-C#-D)",
       "url": "https://open.spotify.com/track/3KbuCBE1F1dPBEBaLAN6hb"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Sings Greatest Country Gospel Hits",
+        "url": "https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db"
+      },
+      "artists": [
+        {
+          "name": "Eddie Bond",
+          "url": "https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Pass Me Not Oh Gentle Saviour",
+      "url": "https://open.spotify.com/track/6vgQpJaxOKsgLgZLzMI3kq"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "How Good the Good News Feels",
-        "url": "https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq"
-      },
-      "artists": [
-        {
-          "name": "The Old Paths",
-          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
-        },
-        {
-          "name": "Anthem Edition",
-          "url": "https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "How Good the Good News Feels",
-      "url": "https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Every Story Whispers His Name",
         "url": "https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 235000,
       "name": "Every Story Whispers His Name",
       "url": "https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "How Good the Good News Feels",
+        "url": "https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq"
+      },
+      "artists": [
+        {
+          "name": "The Old Paths",
+          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
+        },
+        {
+          "name": "Anthem Edition",
+          "url": "https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "How Good the Good News Feels",
+      "url": "https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY"
     }
   ],
   "unique_name": "Streets Of Gold",

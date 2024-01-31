@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 172996,
+  "2024-01-31": 173045,
   "date_first_scraped": "2021-12-28",
   "description": "Stay focused with a little help from Mozart.",
   "name": "Mozart for Study",
@@ -709,6 +709,50 @@
       "duration_ms": 282493,
       "name": "Mozart: Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romance. Andante cantabile",
       "url": "https://open.spotify.com/track/5fz765COUg9h2zX2g19Nid"
+    },
+    {
+      "album": {
+        "name": "Mozart",
+        "url": "https://open.spotify.com/album/2xetV0B6kIvioqH52Q6JFW"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 581346,
+      "name": "Mozart: Piano Sonata No. 15 in F Major, K. 533/494 - 2. Andante, K. 533",
+      "url": "https://open.spotify.com/track/5GdaeLNJYQU89TtjDUsSU5"
+    },
+    {
+      "album": {
+        "name": "Mozart",
+        "url": "https://open.spotify.com/album/2xetV0B6kIvioqH52Q6JFW"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398160,
+      "name": "Mozart: Piano Sonata No. 15 in F Major, K. 533/494 - 3. Rondo. Allegretto, K. 494",
+      "url": "https://open.spotify.com/track/2bttkDnoNAIWQkaE7OQXS6"
     },
     {
       "album": {
@@ -1507,7 +1551,7 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 580093,
       "name": "Piano Sonata No. 15 in F Major, K. 533/494: 2. Andante, K. 533",
       "url": "https://open.spotify.com/track/5WYQOIMpczR5zkuSECXa4Q"
@@ -1529,7 +1573,7 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 395133,
       "name": "Piano Sonata No. 15 in F Major, K. 533/494: 3. Rondo. Allegretto, K. 494",
       "url": "https://open.spotify.com/track/3uVMWI57CV8LKm0hfsDuX6"

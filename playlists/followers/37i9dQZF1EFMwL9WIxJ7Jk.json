@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 8545,
+  "2024-01-31": 8541,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR\">Meghan Trainor</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Meghan Trainor",
@@ -107,7 +107,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 187920,
       "name": "All About That Bass",
       "url": "https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 189888,
       "name": "All About That Bass",
       "url": "https://open.spotify.com/track/7rOoyuKiHXXGxLuVAvZhet"
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 157461,
       "name": "I Believe In Santa",
       "url": "https://open.spotify.com/track/4D3lztDiYLLp2pf6KdLA1P"
@@ -1243,7 +1243,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 158266,
       "name": "I Believe In Santa",
       "url": "https://open.spotify.com/track/1NgLQouxQqWVA2oQdr0Ze0"
@@ -1337,7 +1337,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 163626,
       "name": "I'm a Lady - from SMURFS: THE LOST VILLAGE",
       "url": "https://open.spotify.com/track/677EggUBJAcombPDoWsIrj"
@@ -1355,7 +1355,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 164586,
       "name": "I'm a Lady - from SMURFS: THE LOST VILLAGE",
       "url": "https://open.spotify.com/track/7MSFoTbgwi5BFpilewAbUo"
@@ -1563,7 +1563,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 179306,
       "name": "LET YOU BE RIGHT",
       "url": "https://open.spotify.com/track/3Pk8g01OL144DW0oY0Lpsv"
@@ -1603,7 +1603,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 227733,
       "name": "Like I'm Gonna Lose You",
       "url": "https://open.spotify.com/track/2EJwxob7gpbWLzr5FhEAk4"
@@ -1625,7 +1625,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 225053,
       "name": "Like I'm Gonna Lose You (feat. John Legend)",
       "url": "https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW"
@@ -1643,7 +1643,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 182666,
       "name": "Lips Are Movin",
       "url": "https://open.spotify.com/track/6gj08XDlv9Duc2fPOxUmVD"
@@ -1661,7 +1661,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 185045,
       "name": "Lips Are Movin",
       "url": "https://open.spotify.com/track/5dbmMcsRYQ7RiKeNzq7oyT"
@@ -1733,7 +1733,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 190613,
       "name": "Make You Dance",
       "url": "https://open.spotify.com/track/7vwfWlKgUWsIiaUaDGCY7b"
@@ -1751,7 +1751,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 191805,
       "name": "Make You Dance",
       "url": "https://open.spotify.com/track/6BzNEYhKszAJ5rkl2xbcMi"
@@ -1987,7 +1987,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 161013,
       "name": "My Kind Of Present",
       "url": "https://open.spotify.com/track/2rkb8ijsPapKDMEh0cSe8I"
@@ -2005,7 +2005,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 162005,
       "name": "My Kind Of Present",
       "url": "https://open.spotify.com/track/2x32vesenRYBI0HbqynTim"
@@ -2121,7 +2121,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 213506,
       "name": "NO",
       "url": "https://open.spotify.com/track/3ge54HUrk1ht3EX5SMhIzZ"
@@ -2139,7 +2139,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 222101,
       "name": "NO",
       "url": "https://open.spotify.com/track/2163jfvW37LJNxprDPmgQp"
@@ -2157,7 +2157,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 152862,
       "name": "No Excuses",
       "url": "https://open.spotify.com/track/13KCcVDJM9rrQlPgGtepK8"
@@ -2175,7 +2175,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 154943,
       "name": "No Excuses",
       "url": "https://open.spotify.com/track/798bkr5n6cLqgfTHQBnzVS"
@@ -2475,7 +2475,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 230906,
       "name": "Sledgehammer",
       "url": "https://open.spotify.com/track/7uoulrMQgFZFAIEpRPvewL"
@@ -2493,7 +2493,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 231168,
       "name": "Sledgehammer",
       "url": "https://open.spotify.com/track/789NtoQKR2Ril6dQgUoXs2"
@@ -2917,7 +2917,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 180840,
       "name": "With You",
       "url": "https://open.spotify.com/track/1xK7enJZVdv37fnnxoZlPq"
@@ -2939,7 +2939,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 181418,
       "name": "With You",
       "url": "https://open.spotify.com/track/4ZUuOeKWRKaKe9inyamD6H"

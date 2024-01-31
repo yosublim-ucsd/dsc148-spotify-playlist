@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > Sovereign Songs\. Curator: Alethea Beetson\. Aboriginal and Torres Strait Islander listeners are advised that the following playlist  contains voices and images of people who have passed away\. Cover: Warumpi Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,930 likes - 70 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,886 likes - 70 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 69 | [Never Be the Same](https://open.spotify.com/track/71RVcxj9HH4r6bkxG7spaQ) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Beautiful](https://open.spotify.com/album/0r5gtFG4UsSkDafxSdRuiL) | 3:52 |
 | 70 | [January 26 \(feat\. Dan Sultan\)](https://open.spotify.com/track/7szgrzgfRnz7MgL0AOe27H) | [A.B\. Original](https://open.spotify.com/artist/6Lgfto5TiWLnHMpERQXlB9), [Dan Sultan](https://open.spotify.com/artist/35l8C1gkJPCOqrVPiCiICR) | [Reclaim Australia](https://open.spotify.com/album/4FgiofF77E2jhlog9M8cec) | 3:17 |
 
-Snapshot ID: `MCw2NzAyMjRhZDYzODI3YTI5NGQwMWMzODkyNzY0MDg0NDkyYjFiYmU1`
+Snapshot ID: `MCxjMzg2Njg0YjYyOTMyMzc2YTUxYjJhYjk0YjVkZjljYmIyYzhhYWQ3`

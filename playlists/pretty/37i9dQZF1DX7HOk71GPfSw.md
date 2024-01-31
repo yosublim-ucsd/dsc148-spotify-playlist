@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > glaivepilled
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,273 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,314 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 13 | [Pas très perspicace](https://open.spotify.com/track/2KfzBQtWlCgDsMiHP4twzK) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [Pas très perspicace](https://open.spotify.com/album/1gw4tw7bxZnVxGlICTOsCi) | 2:34 |
 | 14 | [Führerschein](https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Führerschein](https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp) | 4:02 |
 | 15 | [mercedes benz](https://open.spotify.com/track/5z3y9ugK2MIyKn8KUaQM7h) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [mercedes benz](https://open.spotify.com/album/7EmLeKQWhA6iXRASg4vOhp) | 2:18 |
-| 16 | [summer lungs](https://open.spotify.com/track/6X17PwmGkjJH717hEm9Ea3) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [summer lungs/If you didnt wante me](https://open.spotify.com/album/0oEX5cpLgRMeW49PDi2AgU) | 2:33 |
+| 16 | [summer lungs](https://open.spotify.com/track/6X17PwmGkjJH717hEm9Ea3) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [summer lungs/If you didnt want me](https://open.spotify.com/album/0oEX5cpLgRMeW49PDi2AgU) | 2:33 |
 | 17 | [STARING AT THE SUN](https://open.spotify.com/track/7rtUWgeSs798smh0Z3HAuH) | [monty.pk](https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g) | [STARING AT THE SUN](https://open.spotify.com/album/13hCVNVfws021KSGhxNlFI) | 1:54 |
 | 18 | [AmorFalso](https://open.spotify.com/track/7wG2Fv3w0MIgT9c3yVVyQ3) | [Conico](https://open.spotify.com/artist/585mUNJeJoLyRHXH0E7nX8) | [AmorFalso](https://open.spotify.com/album/3j2ZNwOfghWU8tpKD73pD5) | 2:01 |
 | 19 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [welcome to the plant cell bath](https://open.spotify.com/track/0ZcfKkYG7QcXouXpPNhiDo) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [welcome to the plant cell bath](https://open.spotify.com/album/6e5AMsxeDPv4obos0QpjmT) | 3:00 |
 | 100 | [Perfumed and Glossy](https://open.spotify.com/track/38gu8ZYmqaTP2fJrae4Nax) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Perfumed and Glossy](https://open.spotify.com/album/6HBZrBAM5Gg2tVDPxpj0Q1) | 2:40 |
 
-Snapshot ID: `MCwyZGRlYWY5NTZhMjdiMDIwYjNlOWFhYmExYzRhMTQwYjhhOWRkNDVk`
+Snapshot ID: `MCwxZWE1MzVkZDEwYmFiNTA2YWI0ZDQ5ZjdjOGVjMDUwNzU4ZDQ3OThi`

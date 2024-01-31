@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain](/playlists/plain/1rq5TZtl1Z46v2gRAMtmmW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1rq5TZtl1Z46v2gRAMtmmW)
 
-### [Ninja Tune \- New Releases](https://open.spotify.com/playlist/1rq5TZtl1Z46v2gRAMtmmW)
+### [Ninja Tune // New Releases](https://open.spotify.com/playlist/1rq5TZtl1Z46v2gRAMtmmW)
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 29,131 likes - 40 songs - 2 hr 38 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 29,134 likes - 40 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 39 | [Vast Oceans, Empty Skies](https://open.spotify.com/track/6Vxm5h0BxHdwM5oBMhTi3E) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW) | [Vast Oceans, Empty Skies](https://open.spotify.com/album/5vBh6dcOCsHMs3o7NvbGMI) | 4:20 |
 | 40 | [24 hours](https://open.spotify.com/track/3S8woPykjDBaUhmi2o0Ti0) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [24 hours](https://open.spotify.com/album/6YEXnjflOIF7g0PghPnuAe) | 3:38 |
 
-Snapshot ID: `MzYxMyw2N2QyZjViYmI1ZDQwYjk4NzNiZmE5MDMxODFlYTRkNzUxZDE2ZmVl`
+Snapshot ID: `MzYxNCw3MGMyM2Y3MGNiZjI3MGU2YmZhNzVmMmJkNDJlNjc1ZTJlMWZiNTg0`

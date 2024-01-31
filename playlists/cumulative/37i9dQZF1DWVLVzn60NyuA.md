@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-442 songs - 23 hr 22 min
+443 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Good Good](https://open.spotify.com/track/2AgxNfN57Dzc69VbFwlUJ6) | [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Good Good](https://open.spotify.com/album/2GM76ogRNK5hfjWAL6rEIX) | 3:56 | 2021-12-16 | 2023-04-07 |
 | [Good Place](https://open.spotify.com/track/0xdSZzzOf3e15T4QgfBEI2) | [DJ Moiz](https://open.spotify.com/artist/5cjU6BX3PuLO7f510Fa65P), [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6) | [Good Place](https://open.spotify.com/album/7xLtXYJK4oYUoSsa4a7BSe) | 1:59 | 2021-12-16 | 2022-07-29 |
 | [Gum Body \(feat\. Jorja Smith\)](https://open.spotify.com/track/5nUiz96J8ZSmwoSuL4sGvh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:15 | 2021-12-16 | 2022-01-26 |
-| [Handle It](https://open.spotify.com/track/53MCnnU5XI7Xr1IbaF6KN8) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Handle It](https://open.spotify.com/album/3sROPPitey2yWNNdeQNQEK) | 3:23 | 2021-12-16 |  |
+| [Handle It](https://open.spotify.com/track/53MCnnU5XI7Xr1IbaF6KN8) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Handle It](https://open.spotify.com/album/3sROPPitey2yWNNdeQNQEK) | 3:23 | 2021-12-16 | 2024-01-31 |
 | [Hawái](https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Hawái](https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm) | 3:20 | 2022-03-25 | 2022-10-03 |
 | [Hecha Pa' Mi](https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 3:06 | 2022-03-25 | 2023-03-25 |
 | [Hello](https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob) | 3:18 | 2021-12-16 | 2022-10-05 |
@@ -226,6 +226,7 @@
 | [Likkle Riddim](https://open.spotify.com/track/3weAbRf5cn9SiCYxqZedot) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Likkle Riddim](https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ) | 2:44 | 2022-12-14 |  |
 | [Live It Up](https://open.spotify.com/track/3bUnzltFofxPOlZB3PpA4j) | [jahmiel](https://open.spotify.com/artist/1pcKqVZ7T90mJ2rKo9XWYV) | [Live It Up](https://open.spotify.com/album/5mpcdRMQb57jWEX88aAaHV) | 2:11 | 2021-12-16 | 2022-07-29 |
 | [Lockdown](https://open.spotify.com/track/0izUjTuDrUy2FgQOSRALSU) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Lockdown](https://open.spotify.com/album/0tJs3Wig9YBdDG8jGKeLq6) | 2:59 | 2021-12-16 | 2024-01-29 |
+| [Lockdown](https://open.spotify.com/track/6cy4qUAqBO5F5v5TR4AAIP) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP) | 2:59 | 2024-01-18 |  |
 | [Looking for Somebody](https://open.spotify.com/track/5D6rGaauri3oyZAXM5V2q2) | [Angelo King](https://open.spotify.com/artist/1Q0kuvgP9fC9Y5OCP1mzOV), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Looking for Somebody](https://open.spotify.com/album/3V3asywN4oLR2McSuXD6gk) | 2:49 | 2023-03-01 | 2023-04-07 |
 | [Lot A Lot A](https://open.spotify.com/track/0KLU7YiCi6aZYkYgL1ZuSf) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN) | [Lot A Lot A](https://open.spotify.com/album/604I4i2wI2iQDuGM2qAJMg) | 2:22 | 2023-04-26 | 2023-05-19 |
 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 | 2023-02-23 |  |

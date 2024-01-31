@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 388939,
+  "2024-01-31": 388903,
   "date_first_scraped": "2022-04-19",
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: BAEKHO, Park Ji Won)",
   "name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
@@ -2811,6 +2811,28 @@
     {
       "album": {
         "name": "Querencia",
+        "url": "https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199524,
+      "name": "PLAY (feat. Changmo)",
+      "url": "https://open.spotify.com/track/4gJLkQRcGRJRoHJAavP9iN"
+    },
+    {
+      "album": {
+        "name": "Querencia",
         "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
       },
       "artists": [
@@ -3125,7 +3147,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 208786,
       "name": "She Said (with BIBI)",
       "url": "https://open.spotify.com/track/53ea1y50REK9XOjzEmsm4W"

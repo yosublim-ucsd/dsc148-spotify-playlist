@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "The hottest tracks trending in Pakistan. Cover - ZAYN, AUR",
+  "description": "The hottest tracks trending in Pakistan featuring AUR, Anuv Jain, Shubh and more. Cover - Shubh",
   "name": "Hot Hits Pakistan",
   "tracks": [
     {
@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "4U",
+        "url": "https://open.spotify.com/album/5jCebkfAdctI7zvlgFGv9m"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202473,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/5E17LNMDov8A01xUxK8Xaf"
+    },
+    {
+      "album": {
         "name": "6 Maheenay",
         "url": "https://open.spotify.com/album/5eRdEYyiB5zyE16BiYGgjs"
       },
@@ -100,6 +118,36 @@
       "duration_ms": 194906,
       "name": "6 Maheenay",
       "url": "https://open.spotify.com/track/6y6pBKHe151pglLIiJw6iD"
+    },
+    {
+      "album": {
+        "name": "UNDISPUTED",
+        "url": "https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34"
+      },
+      "artists": [
+        {
+          "name": "Sukha",
+          "url": "https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG"
+        },
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        },
+        {
+          "name": "Prodgk",
+          "url": "https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "8 ASLE",
+      "url": "https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO"
     },
     {
       "album": {
@@ -148,7 +196,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 190392,
       "name": "Aa",
       "url": "https://open.spotify.com/track/476WPJ4GsgLDkJiAFbHJRo"
@@ -409,6 +457,24 @@
     },
     {
       "album": {
+        "name": "Apa Fer Milaange",
+        "url": "https://open.spotify.com/album/62dVx2sHnVaGFP2cuURpL5"
+      },
+      "artists": [
+        {
+          "name": "Savi Kahlon",
+          "url": "https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254142,
+      "name": "Apa Fer Milaange",
+      "url": "https://open.spotify.com/track/6JP8RinqsLkPiBi7B0VLGJ"
+    },
+    {
+      "album": {
         "name": "Apa Fer Milaangey",
         "url": "https://open.spotify.com/album/4DJ0kcXBIrmzbdhoGkwmti"
       },
@@ -446,7 +512,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 261702,
       "name": "Apna Bana Le",
       "url": "https://open.spotify.com/track/1hA697u7e1jX2XM8sWA6Uy"
@@ -2134,7 +2200,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 192866,
       "name": "Hood Anthem",
       "url": "https://open.spotify.com/track/0GlMiCB4JQRIN6n9h7WkNi"
@@ -2592,7 +2658,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 77252,
       "name": "Kali Kali Zulfon Ke (Lo-Fi)",
       "url": "https://open.spotify.com/track/3mUkVsovIuscQlSoMhmAZt"
@@ -3327,6 +3393,36 @@
     },
     {
       "album": {
+        "name": "Qabool Hai (Deluxe)",
+        "url": "https://open.spotify.com/album/17n3KkiGt92tJZW0QkdUiW"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF"
+        },
+        {
+          "name": "Lambo Drive",
+          "url": "https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y"
+        },
+        {
+          "name": "Arpit Bala",
+          "url": "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+        },
+        {
+          "name": "ReVo LEKHAK",
+          "url": "https://open.spotify.com/artist/6WPI5BHCoVymuFbC2p7p4G"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389576,
+      "name": "Maharani",
+      "url": "https://open.spotify.com/track/7CVw4gVPpH1TPQttQGVmhZ"
+    },
+    {
+      "album": {
         "name": "Dard",
         "url": "https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM"
       },
@@ -3386,7 +3482,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 161041,
       "name": "Malang Sajna",
       "url": "https://open.spotify.com/track/73K33p4Vyz9koXGqmL5eFs"
@@ -3834,7 +3930,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 170387,
       "name": "No Love",
       "url": "https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp"
@@ -4548,6 +4644,28 @@
       "duration_ms": 172408,
       "name": "Samjho Na",
       "url": "https://open.spotify.com/track/1d5lpW3gUyq537iuyrb9Lf"
+    },
+    {
+      "album": {
+        "name": "3:00 AM Sessions",
+        "url": "https://open.spotify.com/album/7o9sqNRikTO3eeira2Qlx2"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Lakhwinder Wadali",
+          "url": "https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115636,
+      "name": "Sanak",
+      "url": "https://open.spotify.com/track/3SiQsAVS3CDJQzWPRyX1XP"
     },
     {
       "album": {

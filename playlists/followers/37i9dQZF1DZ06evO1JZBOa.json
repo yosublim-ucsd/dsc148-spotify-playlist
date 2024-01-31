@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 8796,
+  "2024-01-31": 8798,
   "date_first_scraped": "2021-12-29",
   "description": "This is Manu Dibango. The essential tracks, all in one playlist.",
   "name": "This Is Manu Dibango",
@@ -1733,7 +1733,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 231132,
       "name": "Over the rainbow",
       "url": "https://open.spotify.com/track/3TWknpjYfEiYxnI0Ki8bAU"
@@ -2605,7 +2605,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 420893,
       "name": "Tek Time",
       "url": "https://open.spotify.com/track/42yVShsOhzl2gfIyJGVdGE"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Mark Ambor
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,582 likes - 30 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,609 likes - 30 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 29 | [The Other Side](https://open.spotify.com/track/7hVZJGsh5fxFtwaqgJq1nf) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [The Other Side](https://open.spotify.com/album/5hJtcqGwi9lmFElCqPRnlS) | 2:44 |
 | 30 | [Ghetto](https://open.spotify.com/track/0dwT3Ao581GbtLCSzX1zRz) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Ghetto](https://open.spotify.com/album/3Q3X8WomzpzwEWCC8bjoH6) | 2:17 |
 
-Snapshot ID: `MCwyMDNmZWNiZjhkOGNmYjg3NTdiNThiYzg0YmE3OTQ4NDFlMTg3NDBi`
+Snapshot ID: `MCxlNWUyMDM3MDYyNGYxZDNlMDJkNTJhZTE5NGQ2ODI0MDg3NjVmNmNi`

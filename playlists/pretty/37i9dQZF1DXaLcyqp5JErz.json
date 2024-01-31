@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Damares",
-  "num_followers": 542615,
+  "num_followers": 542728,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWQ1MDk0ZTgyOTg5NGFlNTkwZThjOTNlMzVkNTRjY2FmYTIwMzc3",
+  "snapshot_id": "MCwxOGUzOTU0ZDNlOGUzN2M1YzFhMjMyYmY5OWVmZjFhYTRiZWVmN2Iw",
   "tracks": [
     {
       "added_at": "2023-10-13 16:02:51",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Sinais de Deus",
-        "url": "https://open.spotify.com/album/2MgcX0tcdZVRVmko1x4goX"
-      },
-      "artists": [
-        {
-          "name": "Raquel Mello",
-          "url": "https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd"
-        }
-      ],
-      "duration_ms": 288960,
-      "name": "Quero Descer",
-      "url": "https://open.spotify.com/track/1kKh1EbODBQfL9gEjmnSlT"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
         "name": "No Infinito Deste Amor",
         "url": "https://open.spotify.com/album/12MGw5CX1KkoSkDNDi1vVY"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 453106,
       "name": "Grande \u00e9 o Senhor - Ao Vivo",
       "url": "https://open.spotify.com/track/6GeGXOPJFa3pRwrWAnrV7j"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "Sinais de Deus",
+        "url": "https://open.spotify.com/album/2MgcX0tcdZVRVmko1x4goX"
+      },
+      "artists": [
+        {
+          "name": "Raquel Mello",
+          "url": "https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd"
+        }
+      ],
+      "duration_ms": 288960,
+      "name": "Quero Descer",
+      "url": "https://open.spotify.com/track/1kKh1EbODBQfL9gEjmnSlT"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -803,22 +803,18 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Mem\u00f3rias 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1sngh1DpFlv5KdnRch5ECO"
+        "name": "Sele\u00e7\u00e3o De Ouro",
+        "url": "https://open.spotify.com/album/3RKYWZSPtLvwFzYb35dqaZ"
       },
       "artists": [
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        },
-        {
-          "name": "\u00c1lvaro Tito",
-          "url": "https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT"
+          "name": "Jamily",
+          "url": "https://open.spotify.com/artist/1fpS9LTjDGsrgLEk178EQp"
         }
       ],
-      "duration_ms": 264164,
-      "name": "N\u00e3o H\u00e1 Barreiras - Ao Vivo",
-      "url": "https://open.spotify.com/track/2fK7vE5xZRvBAjKOOqkrSe"
+      "duration_ms": 240373,
+      "name": "Tempo de Vencer",
+      "url": "https://open.spotify.com/track/4JJOLKyNrVeJhyDZt0MOSj"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -843,18 +839,22 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Sele\u00e7\u00e3o De Ouro",
-        "url": "https://open.spotify.com/album/3RKYWZSPtLvwFzYb35dqaZ"
+        "name": "Mem\u00f3rias 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1sngh1DpFlv5KdnRch5ECO"
       },
       "artists": [
         {
-          "name": "Jamily",
-          "url": "https://open.spotify.com/artist/1fpS9LTjDGsrgLEk178EQp"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "\u00c1lvaro Tito",
+          "url": "https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT"
         }
       ],
-      "duration_ms": 240373,
-      "name": "Tempo de Vencer",
-      "url": "https://open.spotify.com/track/4JJOLKyNrVeJhyDZt0MOSj"
+      "duration_ms": 264164,
+      "name": "N\u00e3o H\u00e1 Barreiras - Ao Vivo",
+      "url": "https://open.spotify.com/track/2fK7vE5xZRvBAjKOOqkrSe"
     },
     {
       "added_at": "2023-10-13 16:02:51",

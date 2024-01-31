@@ -1,12 +1,12 @@
 {
   "description": "Get ready for the final season, nerds. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix. ",
-  "num_followers": 102129,
+  "num_followers": 102154,
   "original_name": "Never Have I Ever Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTJkN2VkMzY4NzI5MzM2MWY5MzRiYjcwMTgyYjc0MGRkMzA3YTRj",
+  "snapshot_id": "MCxjNDljZTY5YTg4OTYyYmViYjdmNDgxZWU0ZjkyNTc0ZWFlZTZmMmNk",
   "tracks": [
     {
       "added_at": "2023-06-08 07:00:00",
@@ -1786,6 +1786,10 @@
         {
           "name": "Computer Magic",
           "url": "https://open.spotify.com/artist/6vhyWw7hIpvfIY9tE94mzP"
+        },
+        {
+          "name": "Danz CM",
+          "url": "https://open.spotify.com/artist/6p68pkOt9kdwy15072E4dD"
         }
       ],
       "duration_ms": 248347,
@@ -2090,6 +2094,10 @@
         {
           "name": "Computer Magic",
           "url": "https://open.spotify.com/artist/6vhyWw7hIpvfIY9tE94mzP"
+        },
+        {
+          "name": "Danz CM",
+          "url": "https://open.spotify.com/artist/6p68pkOt9kdwy15072E4dD"
         }
       ],
       "duration_ms": 254586,

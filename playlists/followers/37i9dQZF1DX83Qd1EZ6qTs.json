@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 6179,
+  "2024-01-31": 6187,
   "date_first_scraped": "2023-07-08",
   "description": "Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses. Cover : Ishaan Ghosh",
   "name": "ECHO : Tabla Rhythms",
@@ -251,10 +251,28 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 408888,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/3cpUVxVvbZ42OhVC7MF07h"
+    },
+    {
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/4BD93NQSsyizGs0sEIffLy"
+      },
+      "artists": [
+        {
+          "name": "Ishaan Ghosh",
+          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196374,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/25gcjUAUwRC2CH7uLkh9aN"
     },
     {
       "album": {
@@ -585,7 +603,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 299120,
       "name": "Tabla",
       "url": "https://open.spotify.com/track/3H5cOjtgzcmqibnmYxxuIU"
@@ -883,7 +901,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 125465,
       "name": "Tabla Solo Part 02",
       "url": "https://open.spotify.com/track/0R4VRpS9fwAyKP7jKVfvMk"

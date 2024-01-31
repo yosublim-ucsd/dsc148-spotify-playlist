@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-257 songs - 16 hr 15 min
+258 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Around The Sun \(feat\. Brandon Saller of Atreyu\)](https://open.spotify.com/track/5N9yzJL4LpVgnFoUwuagrf) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Chemical Warfare: B\-Sides](https://open.spotify.com/album/1PxVdOGI6SoPDuHmKNLELy) | 2:34 | 2021-09-11 | 2023-01-04 |
 | [Bad Blood](https://open.spotify.com/track/4vxKgrJWqqIJm7XNwjYxZT) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Psycho](https://open.spotify.com/album/1dK86eMRKHfAeN92ZwFaCe) | 3:30 | 2023-06-16 |  |
 | [Bad Friend](https://open.spotify.com/track/304JMEIUEQw4t5MKsY0Ad6) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Bad Friend](https://open.spotify.com/album/3cyXgBvwkhf1rIO5B23H8m) | 3:31 | 2023-07-21 |  |
+| [Barely Breathing](https://open.spotify.com/track/2EIgrHayJ6eJrJVT5ZcwcC) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:08 | 2024-01-30 |  |
 | [Bat Country](https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:11 | 2023-05-17 |  |
 | [BEST TIMES \(feat\. Lacey Sturm\)](https://open.spotify.com/track/1jZosfYphLClzldEiQdRde) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [BEST TIMES \(feat\. Lacey Sturm\)](https://open.spotify.com/album/2mdLMyyP9Qia1BPS7HaafD) | 3:43 | 2023-04-03 |  |
 | [Betray And Degrade](https://open.spotify.com/track/3XHnaUAFX8PfNMW1hHC75N) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Poison The Parish \(Deluxe Edition\)](https://open.spotify.com/album/2CbMgWfTfT4n80PjrDkbbt) | 4:04 | 2021-08-20 | 2023-01-05 |

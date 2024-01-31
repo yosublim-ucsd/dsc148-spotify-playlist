@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 202179,
+  "num_followers": 202256,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjM3MDVjN2VhZTNmNDRkZjc0NTM1YTk2MzhhNDIxNGYwNTRhZGIx",
+  "snapshot_id": "MCw2NWRjMjM1MmI5MTdmMDBhYzZiNjhiMmUzZjE3OTM5Nzg1NTY3NmVj",
   "tracks": [
     {
       "added_at": "2024-01-26 00:00:00",
@@ -659,26 +659,6 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Ikebana - EP",
-        "url": "https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK"
-      },
-      "artists": [
-        {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        },
-        {
-          "name": "Duskee",
-          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
-        }
-      ],
-      "duration_ms": 226896,
-      "name": "Misfit",
-      "url": "https://open.spotify.com/track/4Lnb1dh4iXpuIRCK4fLBHv"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
         "name": "Faith In Chaos",
         "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 231555,
       "name": "Again (feat. Takura)",
       "url": "https://open.spotify.com/track/6b5yDIjAWJlc3KbjKULccB"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
+        "name": "Ikebana - EP",
+        "url": "https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        },
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+        }
+      ],
+      "duration_ms": 226896,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/4Lnb1dh4iXpuIRCK4fLBHv"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -823,18 +823,22 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Faith In Chaos",
-        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2"
       },
       "artists": [
         {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        },
+        {
+          "name": "Deppz",
+          "url": "https://open.spotify.com/artist/7jhS9dwK214Tp1KgEVfyd2"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Acid",
-      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
+      "duration_ms": 198372,
+      "name": "Knock Knock",
+      "url": "https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -859,22 +863,18 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Knock Knock",
-        "url": "https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2"
+        "name": "Faith In Chaos",
+        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
       },
       "artists": [
         {
-          "name": "NuBass",
-          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
-        },
-        {
-          "name": "Deppz",
-          "url": "https://open.spotify.com/artist/7jhS9dwK214Tp1KgEVfyd2"
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
         }
       ],
-      "duration_ms": 198372,
-      "name": "Knock Knock",
-      "url": "https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc"
+      "duration_ms": 225000,
+      "name": "Acid",
+      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1035,22 +1035,18 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Aight Boom (feat. Scrufizzer)",
-        "url": "https://open.spotify.com/album/086oqWH3xfRrtg39eiJGLC"
+        "name": "Easy for them",
+        "url": "https://open.spotify.com/album/7sE9VcKFbYgVa5jG8pdAUS"
       },
       "artists": [
         {
-          "name": "Y U QT",
-          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+          "name": "Rohaan",
+          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
         }
       ],
-      "duration_ms": 166015,
-      "name": "Aight Boom (feat. Scrufizzer)",
-      "url": "https://open.spotify.com/track/75GSsRPXsU16dUd5uVAbHX"
+      "duration_ms": 137142,
+      "name": "Easy for them",
+      "url": "https://open.spotify.com/track/1BVtpveXrAKmxQ3AZ8a1cf"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1071,18 +1067,22 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Easy for them",
-        "url": "https://open.spotify.com/album/7sE9VcKFbYgVa5jG8pdAUS"
+        "name": "Aight Boom (feat. Scrufizzer)",
+        "url": "https://open.spotify.com/album/086oqWH3xfRrtg39eiJGLC"
       },
       "artists": [
         {
-          "name": "Rohaan",
-          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+          "name": "Y U QT",
+          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Easy for them",
-      "url": "https://open.spotify.com/track/1BVtpveXrAKmxQ3AZ8a1cf"
+      "duration_ms": 166015,
+      "name": "Aight Boom (feat. Scrufizzer)",
+      "url": "https://open.spotify.com/track/75GSsRPXsU16dUd5uVAbHX"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Solid Ground",
-        "url": "https://open.spotify.com/album/5fFfvdKjfNsGKeupqwN6be"
-      },
-      "artists": [
-        {
-          "name": "KDYN",
-          "url": "https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N"
-        }
-      ],
-      "duration_ms": 241860,
-      "name": "Solid Ground",
-      "url": "https://open.spotify.com/track/6cvtG4MQU3F9CaQbpnrJdY"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
         "name": "Hard Hitters",
         "url": "https://open.spotify.com/album/10ugYCkUnBCin3OWtGTlMl"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 232602,
       "name": "Hard Hitters",
       "url": "https://open.spotify.com/track/6T4YgCYDVBlzpdtsknFeQ7"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/5fFfvdKjfNsGKeupqwN6be"
+      },
+      "artists": [
+        {
+          "name": "KDYN",
+          "url": "https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N"
+        }
+      ],
+      "duration_ms": 241860,
+      "name": "Solid Ground",
+      "url": "https://open.spotify.com/track/6cvtG4MQU3F9CaQbpnrJdY"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg"
+      },
+      "artists": [
+        {
+          "name": "Jacko",
+          "url": "https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia"
+        }
+      ],
+      "duration_ms": 232888,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
         "name": "Never",
         "url": "https://open.spotify.com/album/1xmjSW9vcDWID0kWHWcZGn"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 206500,
       "name": "Never",
       "url": "https://open.spotify.com/track/4HfPqI7QIU5YzjjxxSMmRo"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
-        "name": "Hold Me Close",
-        "url": "https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg"
-      },
-      "artists": [
-        {
-          "name": "Jacko",
-          "url": "https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia"
-        }
-      ],
-      "duration_ms": 232888,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu"
     },
     {
       "added_at": "2024-01-26 00:00:00",

@@ -1,9 +1,27 @@
 {
-  "2024-01-30": 76738,
+  "2024-01-31": 76769,
   "date_first_scraped": "2023-03-30",
-  "description": "Keep it Punjabi, Keep it Real. Cover: Kaka",
+  "description": "Keep it Punjabi, Keep it Real. Cover: Wazir Patar",
   "name": "Ghaint Flow",
   "tracks": [
+    {
+      "album": {
+        "name": ".45",
+        "url": "https://open.spotify.com/album/6vG52FnBHzc61469A3yiBs"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160529,
+      "name": ".45",
+      "url": "https://open.spotify.com/track/4mym4dNc5XPEAXP7Orzq18"
+    },
     {
       "album": {
         "name": "No Name",
@@ -4251,8 +4269,8 @@
       },
       "artists": [
         {
-          "name": "Dj Flow",
-          "url": "https://open.spotify.com/artist/46ZZ5CWZwIeuBVBKalbpZ4"
+          "name": "DJ Flow",
+          "url": "https://open.spotify.com/artist/3MP2WJg5D3bmH5Mz2scPF8"
         },
         {
           "name": "Pranjal Dahiya",
@@ -4309,7 +4327,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 180033,
       "name": "Navigation",
       "url": "https://open.spotify.com/track/1FEv3Eim0qpTQP5DMLZeXe"

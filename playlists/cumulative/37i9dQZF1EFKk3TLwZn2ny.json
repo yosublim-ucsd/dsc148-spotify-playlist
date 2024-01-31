@@ -451,6 +451,28 @@
     },
     {
       "album": {
+        "name": "Party No Dey Stop",
+        "url": "https://open.spotify.com/album/6dqEsoNlj6Qi5LnuYirXA5"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167410,
+      "name": "Party No Dey Stop",
+      "url": "https://open.spotify.com/track/4xkhgMlowgA7zSSsRryQRQ"
+    },
+    {
+      "album": {
         "name": "Party No Dey Stop (JayO & Byron Messia Remix)",
         "url": "https://open.spotify.com/album/0wg0yuzwpRpdRwKNzDd7Wk"
       },
@@ -492,7 +514,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 168857,
       "name": "Party No Dey Stop (with Zinoleesky)",
       "url": "https://open.spotify.com/track/49ytLGEP5S20N3AhB5YuwJ"

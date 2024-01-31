@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,444 likes - 120 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,552 likes - 120 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 67 | [Hooked Up](https://open.spotify.com/track/1YjgvAwpKSXtdGKdcUkQ16) | [Nander](https://open.spotify.com/artist/5lth5exCCuO17ghh75C5KZ), [Julia Temos](https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac) | [Hooked Up](https://open.spotify.com/album/1EnHuDmsw3ZOePfThjCLYG) | 2:24 |
 | 68 | [LIGHTS OUT!](https://open.spotify.com/track/405zihwiR4kjGMCJjFuybu) | [Yung Zime](https://open.spotify.com/artist/3iG3DOwDRNNcU4SD26P0qp), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [LIGHTS OUT!](https://open.spotify.com/album/70dMAom66IeZUKHVdaSTo8) | 2:05 |
 | 69 | [Vinden](https://open.spotify.com/track/6XUxhqrSiGlL0XRHYdIYlx) | [Tomas Andersson Wij](https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL) | [Sorgsna sånger gör mig glad](https://open.spotify.com/album/2S4PGvE2D6DbBudrGaj3P1) | 3:59 |
-| 70 | [Skuggor av oss](https://open.spotify.com/track/7mLnXV14Oqu0H4Svh1DWvG) | [Dolce](https://open.spotify.com/artist/6wIPycsVyFlJaHYTW8qY0T), [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Skuggor av oss](https://open.spotify.com/album/68Z3DsQCy4w1vTHHCB5E3x) | 3:07 |
+| 70 | [Skuggor av oss](https://open.spotify.com/track/7mLnXV14Oqu0H4Svh1DWvG) | [Dolce](https://open.spotify.com/artist/6wIPycsVyFlJaHYTW8qY0T), [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Skuggor av oss](https://open.spotify.com/album/68Z3DsQCy4w1vTHHCB5E3x) | 3:09 |
 | 71 | [The Irrational](https://open.spotify.com/track/25erUsbrNb31cdP3OqFA3j) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [The Irrational](https://open.spotify.com/album/4ApIXVxkyWR0zidM0T2D10) | 2:30 |
 | 72 | [Wrist On Freeze](https://open.spotify.com/track/0SQhNk3xObQHvq3NFpIbj4) | [Stay Flee Get Lizzy](https://open.spotify.com/artist/2oZq6t5DkE2BdGbD6x8RXh), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Wrist On Freeze](https://open.spotify.com/album/26WFXsghAL2Q78J83hIwjK) | 3:07 |
 | 73 | [No Evil](https://open.spotify.com/track/7JHVXlqkoXViFD4giUlzEs) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [No Evil](https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R) | 2:25 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 119 | [Act A Donkey](https://open.spotify.com/track/25BaRS4eM52MTpYrrtROCz) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Act A Donkey](https://open.spotify.com/album/4LX6VTXQ2g8zGB230yAnPg) | 3:23 |
 | 120 | [Sunglasses at Night](https://open.spotify.com/track/1LiMNzbo4XYzsZ0Odg3OW7) | [Heidi Klum](https://open.spotify.com/artist/7gmNO7Sv6EFNtxJ7JTgeaC) | [Sunglasses at Night](https://open.spotify.com/album/2WL25jOF2CEzuH1D7oJIYM) | 2:50 |
 
-Snapshot ID: `MCw5MDY5ZmIyNmExZmI3OTBiMjFkNDM3YjhlN2Y1ZjhiMTUwNTQ2NzA1`
+Snapshot ID: `MCxkYTZjNTA2MjZhMzZhNjk4ZDJjMGJjNmMyMWJiZjlmMTVlMDRlNDc1`

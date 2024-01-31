@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: James Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,012 likes - 97 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,000 likes - 97 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 96 | [No Doubt](https://open.spotify.com/track/3vMtPTyRz8UKXuGXGmqhHM) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [No Doubt](https://open.spotify.com/album/48UbbOD6O9q4Nc95CIalLR) | 3:46 |
 | 97 | [Don't Let It Break Your Heart](https://open.spotify.com/track/7GN6brQCfYOqHTYJ16ZL1T) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Don't Let It Break Your Heart](https://open.spotify.com/album/0bpcG8lePecCAyQzC85P0G) | 3:26 |
 
-Snapshot ID: `MCwyZTA5MmRmZTUwNGJhNDRmZTQzMGY2ZjIyYTA2OWE3MTViNzY1MzIw`
+Snapshot ID: `MCxiOWM0MWM1NGU2ODRiM2RmMTI4MDE5NzkwMjA2MzI4OTk1MTExZDYw`

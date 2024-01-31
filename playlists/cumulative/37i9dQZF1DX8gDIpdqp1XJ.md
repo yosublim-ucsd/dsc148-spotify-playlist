@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-937 songs - 2 day 13 hr 20 min
+938 songs - 2 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Cowboy Lightning](https://open.spotify.com/track/0rt3sWILxbL2k7OtUS65UA) | [Spaceface](https://open.spotify.com/artist/3rcMe5nRZ2Z6Qbx1OB0vIz) | [Cowboy Lightning](https://open.spotify.com/album/5yTD5iXuXklwMpJ4zpBtid) | 2:33 | 2021-04-02 | 2022-04-18 |
 | [crawling in my skin \- Actress Remix](https://open.spotify.com/track/6o2gZ4wrIQB7DGAaGVxt9S) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q), [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [crawling in my skin / circle the drain \(remixes\)](https://open.spotify.com/album/4uu17h3whkoTUaWIDZiZH6) | 4:28 | 2021-04-02 | 2022-07-26 |
 | [Crew](https://open.spotify.com/track/5ke6QxUNkKCLJuDPRdvJLv) | [Worn\-Tin](https://open.spotify.com/artist/7j8ds7BnqaEKuz1a1GN0J9) | [Cycles](https://open.spotify.com/album/5Ei8BWhqA0t73daae7rHKT) | 6:39 | 2021-04-02 | 2022-04-20 |
-| [Crushxd](https://open.spotify.com/track/3asSrvrWbMpX4v4ilkj5So) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Crushxd](https://open.spotify.com/album/46VsFMbRWN6hXT2J0a8fzo) | 3:06 | 2023-04-12 |  |
+| [Crushxd](https://open.spotify.com/track/3asSrvrWbMpX4v4ilkj5So) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Crushxd](https://open.spotify.com/album/46VsFMbRWN6hXT2J0a8fzo) | 3:06 | 2023-04-12 | 2024-01-31 |
 | [Crystalline](https://open.spotify.com/track/7fqjVY7DlXvxCTXEm7BXrq) | [Sugar Candy Mountain](https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3) | [Crystalline](https://open.spotify.com/album/3lA1XSfescon68eE0ClZFG) | 4:29 | 2021-04-02 | 2022-04-19 |
 | [curl your toes, clench your fists](https://open.spotify.com/track/5Y4QJNJ1Ebr7aCkRuhEUhf) | [Slugabed](https://open.spotify.com/artist/7lGyDgJJYSgOd9R5T4Cwe4), [Miles Spilsbury](https://open.spotify.com/artist/23ZeblILk9U5IlYwQlacaq) | [curl your toes, clench your fists](https://open.spotify.com/album/6sZbrZyD6a9fOyep454rLv) | 7:14 | 2021-06-04 | 2022-07-09 |
 | [D.M.T.](https://open.spotify.com/track/7kausMmJLNEieRLe2WLn84) | [STACEY](https://open.spotify.com/artist/1rfYzEJpmnmhVM1V6LUHTQ) | [D.M.T.](https://open.spotify.com/album/0BEeSBYWiBLAqFMBVOLyUl) | 3:54 | 2021-06-04 | 2022-07-23 |
@@ -715,6 +715,7 @@
 | [Shuggie](https://open.spotify.com/track/6RgrpOgbTI3M2qvA8XIvTb) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf) | 3:21 | 2022-07-22 | 2023-02-25 |
 | [Shy](https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Shy](https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8) | 3:21 | 2022-07-11 | 2023-03-07 |
 | [Sidetracked Soundtrack \- Unreleased Demo](https://open.spotify.com/track/4DLQQb9DTPA04RYuHEn1ru) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism \(10 Year Anniversary Edition / Unreleased Demos\)](https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s) | 4:19 | 2023-05-26 | 2023-08-26 |
+| [silence STArEs me down \(feat\. Cuco\)](https://open.spotify.com/track/7zkBwgnY2OQwufiEsaVObV) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [silence STArEs me down \(feat\. Cuco\)](https://open.spotify.com/album/6baKze14ER8USbSNwPGc4l) | 3:06 | 2024-01-30 |  |
 | [Silent](https://open.spotify.com/track/2S4ktHPpnD2dhC3d2MK1pJ) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Silent](https://open.spotify.com/album/6vDY0kHBfGrhKi6Of9E3EN) | 4:47 | 2023-05-05 |  |
 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/0ZGWe02EtMpw40QAzOVZD1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 4:26 | 2023-01-27 | 2023-07-22 |
 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/5t6VBNWXxcwlrxCjU7ytGg) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/album/5IDEZ1rerrSPTypdQI3od9) | 4:26 | 2023-01-27 | 2023-04-22 |

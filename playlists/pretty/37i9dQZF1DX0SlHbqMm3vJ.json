@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Qing Madi",
-  "num_followers": 222035,
+  "num_followers": 222094,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzI3YTA2MDgwYWYyMDhiMzdkN2VmNjczMjc2NjY0M2FiN2NiMTgy",
+  "snapshot_id": "MCxjMGRhOTZhYjYzNjA0MWU1YTFhYWUxZDdhOWE1MzljNDNmMmFiNjk5",
   "tracks": [
     {
       "added_at": "2024-01-26 00:01:00",
@@ -803,6 +803,30 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
+        "name": "Undress You",
+        "url": "https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO"
+      },
+      "artists": [
+        {
+          "name": "KJ Spio",
+          "url": "https://open.spotify.com/artist/72Rav2u2DeRPJuA44Ng0n0"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 213818,
+      "name": "Undress You",
+      "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
         "name": "Busy Body",
         "url": "https://open.spotify.com/album/6oFUkKyLd51aEtcsFEDBuT"
       },
@@ -863,30 +887,6 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Undress You (feat. Sarkodie)",
-        "url": "https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO"
-      },
-      "artists": [
-        {
-          "name": "KJ Spio",
-          "url": "https://open.spotify.com/artist/72Rav2u2DeRPJuA44Ng0n0"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 213818,
-      "name": "Undress You (feat. Sarkodie)",
-      "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
         "name": "5th Dimension",
         "url": "https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb"
       },
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
+        "name": "Don't Let Me Down",
+        "url": "https://open.spotify.com/album/45ZnWV7qkh537T4XsAjGOh"
+      },
+      "artists": [
+        {
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/2mEnZ17oGA7nPcBTRG2jLG"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
         "name": "Sad Romance (Deluxe)",
         "url": "https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 211293,
       "name": "capture my soul (feat. Joeboy)",
       "url": "https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Don't Let Me Down",
-        "url": "https://open.spotify.com/album/45ZnWV7qkh537T4XsAjGOh"
-      },
-      "artists": [
-        {
-          "name": "Marvel",
-          "url": "https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Don't Let Me Down",
-      "url": "https://open.spotify.com/track/2mEnZ17oGA7nPcBTRG2jLG"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
+        "name": "Manifest (My Prayer)",
+        "url": "https://open.spotify.com/album/6Sx26wth07xY8HhYACRaZu"
+      },
+      "artists": [
+        {
+          "name": "Toby Grey",
+          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Manifest (My Prayer)",
+      "url": "https://open.spotify.com/track/5PQPG6LgvLxDuB02z4zSzY"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
         "name": "TOP BOY",
         "url": "https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Icon",
-        "url": "https://open.spotify.com/album/4FK2UosgBV0LytX5ZPNbEp"
-      },
-      "artists": [
-        {
-          "name": "Salle",
-          "url": "https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf"
-        }
-      ],
-      "duration_ms": 140050,
-      "name": "Icon",
-      "url": "https://open.spotify.com/track/7F1PAapg2rEEHl5SOkOxVZ"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
         "name": "Sweet Life",
         "url": "https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO"
       },
@@ -1139,6 +1139,22 @@
       "duration_ms": 186401,
       "name": "Sweet Life",
       "url": "https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/4FK2UosgBV0LytX5ZPNbEp"
+      },
+      "artists": [
+        {
+          "name": "Salle",
+          "url": "https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf"
+        }
+      ],
+      "duration_ms": 140050,
+      "name": "Icon",
+      "url": "https://open.spotify.com/track/7F1PAapg2rEEHl5SOkOxVZ"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Area Party",
-        "url": "https://open.spotify.com/album/29FyZCVFynYTLUDkMFkEZL"
-      },
-      "artists": [
-        {
-          "name": "Novemba",
-          "url": "https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ"
-        }
-      ],
-      "duration_ms": 122474,
-      "name": "Area Party",
-      "url": "https://open.spotify.com/track/3HhFNwoskRIUdj8nadvmzp"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
         "name": "Body & Soul",
         "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
       },
@@ -1215,22 +1215,18 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Eyes on You",
-        "url": "https://open.spotify.com/album/5YzJpnr4nVbCBwCvcY4Flr"
+        "name": "Area Party",
+        "url": "https://open.spotify.com/album/29FyZCVFynYTLUDkMFkEZL"
       },
       "artists": [
         {
-          "name": "JZyNo",
-          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
-        },
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+          "name": "Novemba",
+          "url": "https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ"
         }
       ],
-      "duration_ms": 182442,
-      "name": "Eyes on You",
-      "url": "https://open.spotify.com/track/2NnqSG568w506fvH0pSTzI"
+      "duration_ms": 122474,
+      "name": "Area Party",
+      "url": "https://open.spotify.com/track/3HhFNwoskRIUdj8nadvmzp"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -1255,6 +1251,26 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
+        "name": "Eyes on You",
+        "url": "https://open.spotify.com/album/5YzJpnr4nVbCBwCvcY4Flr"
+      },
+      "artists": [
+        {
+          "name": "JZyNo",
+          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "duration_ms": 182442,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/2NnqSG568w506fvH0pSTzI"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
         "name": "PrEttY Like",
         "url": "https://open.spotify.com/album/0eYfLrBMobCVn4ZCaGV1GA"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 166950,
       "name": "PrEttY Like",
       "url": "https://open.spotify.com/track/2lgeehwv2ThyBEQ8kHKFCn"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Manifest (My Prayer)",
-        "url": "https://open.spotify.com/album/6Sx26wth07xY8HhYACRaZu"
-      },
-      "artists": [
-        {
-          "name": "Toby Grey",
-          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Manifest (My Prayer)",
-      "url": "https://open.spotify.com/track/5PQPG6LgvLxDuB02z4zSzY"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -1483,22 +1483,18 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Trench to Triumph",
-        "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
+        "name": "Beautiful Lies",
+        "url": "https://open.spotify.com/album/6WlznjoXtwxdJvmTRabNxY"
       },
       "artists": [
         {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+          "name": "Runda",
+          "url": "https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x"
         }
       ],
-      "duration_ms": 178000,
-      "name": "You vs You",
-      "url": "https://open.spotify.com/track/70KVV8GlgZoBSCls2UcdYG"
+      "duration_ms": 174964,
+      "name": "Beautiful Lies",
+      "url": "https://open.spotify.com/track/319NHi9Pdo152nUvVBWlgS"
     }
   ],
   "unique_name": "Ginger Me",

@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 1048555,
+  "2024-01-31": 1048751,
   "date_first_scraped": "2021-12-21",
   "description": "The essential works of Wolfgang Amadeus Mozart, featuring relaxing piano, soulful strings, a few magical operas, and plenty of legendary melodies.",
   "name": "This Is Mozart",
@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 316653,
       "name": "Fantasia in D Minor, K. 397",
       "url": "https://open.spotify.com/track/7IHEJdJhju1F2rhIiwgawx"
@@ -1508,6 +1508,28 @@
     },
     {
       "album": {
+        "name": "Mozart",
+        "url": "https://open.spotify.com/album/2xetV0B6kIvioqH52Q6JFW"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319973,
+      "name": "Mozart: Fantasia in D Minor, K. 397",
+      "url": "https://open.spotify.com/track/1O0XZAJf8fIN7wRgXffL0P"
+    },
+    {
+      "album": {
         "name": "Mozart Horn Concertos",
         "url": "https://open.spotify.com/album/77FzBKOQlfepn2NRCfK0lP"
       },
@@ -1613,6 +1635,28 @@
       "duration_ms": 208820,
       "name": "Mozart: Piano Sonata No. 11 in A Major, K. 331 \"Alla Turca\": III. Alla Turca - Allegretto",
       "url": "https://open.spotify.com/track/78td6Kr0D0DCO6V57U3Oix"
+    },
+    {
+      "album": {
+        "name": "Mozart",
+        "url": "https://open.spotify.com/album/2xetV0B6kIvioqH52Q6JFW"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496400,
+      "name": "Mozart: Piano Sonata No. 15 in F Major, K. 533/494 - 1. Allegro, K. 533",
+      "url": "https://open.spotify.com/track/4cP8xZiJrtdp973auY57Dq"
     },
     {
       "album": {
@@ -1929,7 +1973,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 494000,
       "name": "Piano Sonata No. 15 in F Major, K. 533/494: 1. Allegro, K. 533",
       "url": "https://open.spotify.com/track/58VVEDJ8NK12UqV0bApBzn"

@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 53525,
+  "2024-01-31": 53535,
   "date_first_scraped": "2022-09-15",
   "description": "This is Miel San Marcos. The essential tracks, all in one playlist.",
   "name": "This Is Miel San Marcos",
@@ -25,6 +25,28 @@
       "duration_ms": 291533,
       "name": "Abba Padre (En Vivo)",
       "url": "https://open.spotify.com/track/6ICi7NpKmDPhe1PLEPC2t3"
+    },
+    {
+      "album": {
+        "name": "Pura Sal",
+        "url": "https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246560,
+      "name": "Abre los Cielos",
+      "url": "https://open.spotify.com/track/0V6OZi6A5UuMHnNhORBIAo"
     },
     {
       "album": {
@@ -1309,7 +1331,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 308000,
       "name": "Proverbios 1",
       "url": "https://open.spotify.com/track/60A3y9ISFy58PZVRm6YppC"

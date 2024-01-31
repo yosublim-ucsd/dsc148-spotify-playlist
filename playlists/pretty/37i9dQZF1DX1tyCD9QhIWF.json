@@ -1,12 +1,12 @@
 {
   "description": "Big riffs and pounding drums to help you strut the streets.",
-  "num_followers": 2306327,
+  "num_followers": 2306315,
   "original_name": "Walk Like A Badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTZkNjg5ZDQ0M2UwNGU4ZWI0NjIzZDcxZWYxYzcxMzAwM2FhMDE3",
+  "snapshot_id": "MCwxZTNlODUzZDQzOTkwNjk3MmM2NDA2YWE4YTJjNjE2MzExZjQ0ZjE3",
   "tracks": [
     {
       "added_at": "2023-07-25 00:14:57",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-07-25 00:14:57",
       "album": {
-        "name": "Blow",
-        "url": "https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M"
-      },
-      "artists": [
-        {
-          "name": "KID BRUNSWICK",
-          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
-        }
-      ],
-      "duration_ms": 183211,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF"
-    },
-    {
-      "added_at": "2023-07-25 00:14:57",
-      "album": {
         "name": "Inside Voices / Outside Voices",
         "url": "https://open.spotify.com/album/1Ct0Q2DpQ7TjqdG3Ys453S"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 225033,
       "name": "Weirdo",
       "url": "https://open.spotify.com/track/140FZc81yT89NfXsooPWWW"
+    },
+    {
+      "added_at": "2023-07-25 00:14:57",
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M"
+      },
+      "artists": [
+        {
+          "name": "KID BRUNSWICK",
+          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
+        }
+      ],
+      "duration_ms": 183211,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF"
     },
     {
       "added_at": "2023-07-25 00:14:57",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-07-25 00:14:57",
       "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/1MNI54DBCm3plChv9rY7C3"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 186773,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/5n7yP1qQiXs9uCE3m1eyGB"
+    },
+    {
+      "added_at": "2023-07-25 00:14:57",
+      "album": {
         "name": "The Delicate Nature",
         "url": "https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 182407,
       "name": "The Delicate Nature",
       "url": "https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1"
-    },
-    {
-      "added_at": "2023-07-25 00:14:57",
-      "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/1MNI54DBCm3plChv9rY7C3"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 186773,
-      "name": "Aye",
-      "url": "https://open.spotify.com/track/5n7yP1qQiXs9uCE3m1eyGB"
     },
     {
       "added_at": "2023-07-25 00:14:57",

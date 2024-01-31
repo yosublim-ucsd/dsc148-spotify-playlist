@@ -1,12 +1,12 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Matisse",
-  "num_followers": 282193,
+  "num_followers": 282128,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjhiY2JkNzM2YTViNDU1Y2M3NjBiMTE1ZmQ1NzY5ZThkMWFkZWJi",
+  "snapshot_id": "MCw3ZmM5OGVmZjM1Mjk0NTAwZjIyYTZkZjk2OGY4OGQzYjkxNzgyMGU5",
   "tracks": [
     {
       "added_at": "2023-12-20 18:00:15",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "El Mejor Regalo",
-        "url": "https://open.spotify.com/album/1mEfHecK8f4IttPQqoICQQ"
-      },
-      "artists": [
-        {
-          "name": "Saak",
-          "url": "https://open.spotify.com/artist/6n7rxaNHjaGIkfRmzEVHKU"
-        }
-      ],
-      "duration_ms": 160066,
-      "name": "El Mejor Regalo",
-      "url": "https://open.spotify.com/track/5PNGu7VLAg5cznoJ9trohF"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
         "name": "5 pa las 12",
         "url": "https://open.spotify.com/album/6eVGO1kGK6UvJH59KtF300"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 173586,
       "name": "5 pa las 12",
       "url": "https://open.spotify.com/track/7uwcZL1mOd4u22md6i4tLD"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
+        "name": "El Mejor Regalo",
+        "url": "https://open.spotify.com/album/1mEfHecK8f4IttPQqoICQQ"
+      },
+      "artists": [
+        {
+          "name": "Saak",
+          "url": "https://open.spotify.com/artist/6n7rxaNHjaGIkfRmzEVHKU"
+        }
+      ],
+      "duration_ms": 160066,
+      "name": "El Mejor Regalo",
+      "url": "https://open.spotify.com/track/5PNGu7VLAg5cznoJ9trohF"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "El Mix-Tape De Santa",
-        "url": "https://open.spotify.com/album/7EW5cn81Vhg5bT6pvK0ade"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 145876,
-      "name": "Lleg\u00f3 La Navidad",
-      "url": "https://open.spotify.com/track/701t8Y6RqAj08ge8hEJUdg"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
         "name": "Te Regalo",
         "url": "https://open.spotify.com/album/6WG0yEtxedxIVbpakcqKSl"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 181093,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/2h8ifm4ZdUjRMAMVjYYcQk"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
+        "name": "El Mix-Tape De Santa",
+        "url": "https://open.spotify.com/album/7EW5cn81Vhg5bT6pvK0ade"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 145876,
+      "name": "Lleg\u00f3 La Navidad",
+      "url": "https://open.spotify.com/track/701t8Y6RqAj08ge8hEJUdg"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Dime Navidad",
-        "url": "https://open.spotify.com/album/3c11HITsZe2IyDyb4tUg8K"
-      },
-      "artists": [
-        {
-          "name": "Edurne",
-          "url": "https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Dime Navidad",
-      "url": "https://open.spotify.com/track/3pvbBrh49UPDa4UENRVT9f"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
         "name": "Navisad",
         "url": "https://open.spotify.com/album/4CvfMBqnVE3Hfltq69KDEI"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 186775,
       "name": "Navisad",
       "url": "https://open.spotify.com/track/4DrWtI8bBJ8rHqV2h53T9o"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
+        "name": "Dime Navidad",
+        "url": "https://open.spotify.com/album/3c11HITsZe2IyDyb4tUg8K"
+      },
+      "artists": [
+        {
+          "name": "Edurne",
+          "url": "https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Dime Navidad",
+      "url": "https://open.spotify.com/track/3pvbBrh49UPDa4UENRVT9f"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Una Navidad Sin Nieve",
-        "url": "https://open.spotify.com/album/54ylQUQYODLfUCIZ782l7G"
+        "name": "st. Pedro's Christmas Special",
+        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
       },
       "artists": [
         {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
         }
       ],
-      "duration_ms": 162346,
-      "name": "Una Navidad Sin Nieve",
-      "url": "https://open.spotify.com/track/44icGG2nMxjtgEkwcPKglA"
+      "duration_ms": 195842,
+      "name": "Last Christmas (Spanish Version)",
+      "url": "https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "st. Pedro's Christmas Special",
-        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
+        "name": "Una Navidad Sin Nieve",
+        "url": "https://open.spotify.com/album/54ylQUQYODLfUCIZ782l7G"
       },
       "artists": [
         {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
         }
       ],
-      "duration_ms": 195842,
-      "name": "Last Christmas (Spanish Version)",
-      "url": "https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI"
+      "duration_ms": 162346,
+      "name": "Una Navidad Sin Nieve",
+      "url": "https://open.spotify.com/track/44icGG2nMxjtgEkwcPKglA"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
+        "name": "st. Pedro's Christmas Special",
+        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 187668,
+      "name": "Otra Navidad :(",
+      "url": "https://open.spotify.com/track/0stGjckaqF832pf74QJT0l"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
         "name": "Villancicos",
         "url": "https://open.spotify.com/album/0plHwd26dot1EiYNqE1imb"
       },
@@ -999,18 +1015,18 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "st. Pedro's Christmas Special",
-        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
+        "name": "Llegu\u00e9 a Navidad",
+        "url": "https://open.spotify.com/album/0IHUZrmVQfFWNkZUnWF4c6"
       },
       "artists": [
         {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         }
       ],
-      "duration_ms": 187668,
-      "name": "Otra Navidad :(",
-      "url": "https://open.spotify.com/track/0stGjckaqF832pf74QJT0l"
+      "duration_ms": 161684,
+      "name": "Llegu\u00e9 a Navidad",
+      "url": "https://open.spotify.com/track/4e4wrhbqdj6CKxHEgWjPfw"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -1035,22 +1051,6 @@
       "duration_ms": 167000,
       "name": "Regres\u00e9 Para Navidad",
       "url": "https://open.spotify.com/track/1W8Qjx0T2Rk90sTflWnuiO"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
-        "name": "Llegu\u00e9 a Navidad",
-        "url": "https://open.spotify.com/album/0IHUZrmVQfFWNkZUnWF4c6"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Llegu\u00e9 a Navidad",
-      "url": "https://open.spotify.com/track/4e4wrhbqdj6CKxHEgWjPfw"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Nuestra Navidad (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/5Tx9GpKRgJdWZ1wpGmAuKg"
-      },
-      "artists": [
-        {
-          "name": "Myriam Hernandez",
-          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
-        }
-      ],
-      "duration_ms": 186850,
-      "name": "Mi Burrito Sabanero",
-      "url": "https://open.spotify.com/track/43uJNr6fTmnF0k7wubD6v0"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
         "name": "Diciembre",
         "url": "https://open.spotify.com/album/5CD8YKCvtjjIvdCkpDIUP4"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 215064,
       "name": "Diciembre",
       "url": "https://open.spotify.com/track/78x8wenPIjaph6FFWYiJvM"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
+        "name": "Nuestra Navidad (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/5Tx9GpKRgJdWZ1wpGmAuKg"
+      },
+      "artists": [
+        {
+          "name": "Myriam Hernandez",
+          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
+        }
+      ],
+      "duration_ms": 186850,
+      "name": "Mi Burrito Sabanero",
+      "url": "https://open.spotify.com/track/43uJNr6fTmnF0k7wubD6v0"
     }
   ],
   "unique_name": "Feliz Navidad",

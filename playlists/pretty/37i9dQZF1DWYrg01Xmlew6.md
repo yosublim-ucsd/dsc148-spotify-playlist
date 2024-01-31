@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Nicola Siciliano in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,470 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,542 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MAKAI](https://open.spotify.com/track/7cIQHtaKW3l7OEEtFWm1pc) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:38 |
-| 2 | [Baby U Want Me \(feat\. Geolier & Michelangelo\)](https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 3:43 |
-| 3 | [Colpa Mia](https://open.spotify.com/track/7qFqO4ytYYQCYRO8j13nIG) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [Colpa Mia](https://open.spotify.com/album/0Wp77ioPW3AFkhEEcXKM2P) | 2:54 |
-| 4 | [Napoletano RMX \(feat\. SLF\)](https://open.spotify.com/track/3FDmJlbAtx6u7m0REfhTxQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS) | [Napoletano RMX \(feat\. SLF\)](https://open.spotify.com/album/2vwJ8mtsNwTYCZHxIKHTDl) | 2:56 |
-| 5 | [Campioni In Italia \(Red Bull 64 Bars\)](https://open.spotify.com/track/0lmmsw2Z7uN1e5q93AHXbd) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [Campioni In Italia \(Red Bull 64 Bars\)](https://open.spotify.com/album/4pZLLjPkLo3LXhkxlOU4OX) | 3:54 |
+| 1 | [Baby U Want Me \(feat\. Geolier & Michelangelo\)](https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 3:43 |
+| 2 | [Napoletano RMX \(feat\. SLF\)](https://open.spotify.com/track/3FDmJlbAtx6u7m0REfhTxQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS) | [Napoletano RMX \(feat\. SLF\)](https://open.spotify.com/album/2vwJ8mtsNwTYCZHxIKHTDl) | 2:56 |
+| 3 | [Campioni In Italia \(Red Bull 64 Bars\)](https://open.spotify.com/track/0lmmsw2Z7uN1e5q93AHXbd) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [Campioni In Italia \(Red Bull 64 Bars\)](https://open.spotify.com/album/4pZLLjPkLo3LXhkxlOU4OX) | 3:54 |
+| 4 | [MAKAI](https://open.spotify.com/track/7cIQHtaKW3l7OEEtFWm1pc) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:38 |
+| 5 | [Colpa Mia](https://open.spotify.com/track/7qFqO4ytYYQCYRO8j13nIG) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [Colpa Mia](https://open.spotify.com/album/0Wp77ioPW3AFkhEEcXKM2P) | 2:54 |
 | 6 | [PSG](https://open.spotify.com/track/50sLmAcDOEkiMeTbZnDTLl) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [PSG](https://open.spotify.com/album/2VTHXl42e8utykEVef79Uk) | 2:34 |
 | 7 | [Kiss You \(F\*\*k You\) \[feat\. Geolier\]](https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 3:27 |
 | 8 | [Forever Alone](https://open.spotify.com/track/4Ck5wIeWVH0EbtCsQoZ9sl) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [Forever Alone](https://open.spotify.com/album/2HS0wNjOG8w72WjiMlqFqw) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 49 | [SUD ITALIAN DREAM](https://open.spotify.com/track/35woYksQFAx5OhYKzNXxRy) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3) | [SUD ITALIAN DREAM](https://open.spotify.com/album/4pGk4pX9muBUKwki6JnBut) | 3:06 |
 | 50 | [Leale e Infame](https://open.spotify.com/track/47eglSPfqHvnA4O3L9O5g2) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn) | [Leale e Infame](https://open.spotify.com/album/7ihxGS8fgircOQzGLQvtWV) | 2:24 |
 
-Snapshot ID: `MCw5NWVhMTViMzFhNTZlM2QwYjk2ZGI1N2Q5N2JiZjY5YWQyN2YwZGQw`
+Snapshot ID: `MCw2NWZjODg2MDMxNjRjOWI0Mzg1ZTNlMjhkNWU3Zjg4YTE4ZDcwMjY4`

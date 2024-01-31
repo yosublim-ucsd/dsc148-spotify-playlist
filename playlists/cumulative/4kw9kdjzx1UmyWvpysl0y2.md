@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-646 songs - 1 day 13 hr 26 min
+647 songs - 1 day 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [Power Stone](https://open.spotify.com/track/5FufznQatRZsjumawlLbbo) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Power Stone](https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0) | 2:47 | 2022-07-28 | 2022-10-08 |
 | [Powerplay](https://open.spotify.com/track/7LL3hlhfrumxAS0vOGO2Ia) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Powerplay](https://open.spotify.com/album/3OXUzQBV9M1vssUSPHjVi9) | 3:30 | 2023-02-07 | 2023-04-25 |
 | [Pressure on the Masses](https://open.spotify.com/track/65OZE1cg3ETRiBeu3R5UbT) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Pressure on the Masses](https://open.spotify.com/album/6cv6BsZtHsPreytOE8jN3S) | 3:55 | 2023-10-23 |  |
+| [Prism](https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Prism](https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB) | 3:15 | 2024-01-30 |  |
 | [Prophecy](https://open.spotify.com/track/1YwyNIHtNHaIuvz8ngtx8q) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [AFTERMYFALL](https://open.spotify.com/artist/3bCsC2exlNg7bFRESSXXWK) | [Existentia](https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP) | 3:08 | 2022-11-19 | 2022-11-22 |
 | [Pump](https://open.spotify.com/track/0wdmg7VuwWNWnRkDWOh27n) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Pump](https://open.spotify.com/album/3LocwBHPnRIn9FFkDLMQ9d) | 4:24 | 2023-08-14 | 2023-12-14 |
 | [Purple](https://open.spotify.com/track/4mMYRb2AZyZiI6XiHzqHBo) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Purple](https://open.spotify.com/album/1TYUytf3KP39fBUe4ZS4pl) | 3:09 | 2021-12-03 | 2022-03-10 |

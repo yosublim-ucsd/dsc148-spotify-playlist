@@ -4,7 +4,7 @@
 
 > Morning's silent dew, ambient whispers unfold,<br/>zen echoes on play.
 
-163 songs - 12 hr 26 min
+164 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [1981](https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ) | [Hautefort](https://open.spotify.com/artist/5Loh152dLFcu8etyfQKuCg) | [1981](https://open.spotify.com/album/2sBnGK0TmbE9uSjX8G7bin) | 4:14 | 2022-02-15 | 2022-07-29 |
 | [5:59 PM](https://open.spotify.com/track/02I3OV1GV3SVm4BjtUtvhN) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [5:59 PM](https://open.spotify.com/album/2zVY50djgi3tnZEPjqxNBP) | 3:24 | 2021-09-10 | 2022-07-28 |
 | [8pm Crickets](https://open.spotify.com/track/5XM3Wo4pLH9jrwUu9l4bPw) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [11pm Sudden Thunderstorm](https://open.spotify.com/album/53sR9a0cJYLkTbhRRDS9nY) | 6:22 | 2021-09-10 | 2022-07-29 |
+| [A Mountain is an Ancestor](https://open.spotify.com/track/76ibv2JcIKrKWgMs1vHo1f) | [Pan\-American](https://open.spotify.com/artist/7idm1Z2kk9ffIobkLlZ2Ds), [Kramer](https://open.spotify.com/artist/1jacVtMSOup3dqdSEeegZg) | [A Mountain is an Ancestor](https://open.spotify.com/album/0PryKA5f9QsAc6aoUai98y) | 3:51 | 2024-01-30 |  |
 | [A New Day](https://open.spotify.com/track/7AbrQSJZsLhWOi4zNFIWeb) | [Forest Walks](https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW) | [A New Day](https://open.spotify.com/album/3duG9vrpxecZceRKXBqc7M) | 2:58 | 2021-09-10 | 2023-12-08 |
 | [A Sea Of Love](https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [For Those Of You Who Have Never \(And Also Those Who Have\)](https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9) | 7:17 | 2021-09-10 |  |
 | [acceptances](https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [!](https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U) | 3:18 | 2022-09-30 | 2022-12-22 |
@@ -76,7 +77,7 @@
 | [Forever and Ever](https://open.spotify.com/track/3nd43t4bdWuGgkSAjkXSLB) | [Alice in Freefall](https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX) | [World Breathes](https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj) | 3:16 | 2022-08-03 | 2022-09-15 |
 | [Forevertime Journeys](https://open.spotify.com/track/5hpZxgvARgsbmQjQaGmYIW) | [naran ratan](https://open.spotify.com/artist/2keywPnpoD1RhMrs2Qrrsj) | [Trees etc.](https://open.spotify.com/album/0Hi7a09Vn6FuPZSsADVfsI) | 1:33 | 2021-09-10 |  |
 | [Gradual of Image](https://open.spotify.com/track/23nCdon9t8jCCBFKqZDpXf) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh) | 3:08 | 2021-09-10 | 2022-12-13 |
-| [Gradual of Image](https://open.spotify.com/track/5m2Tets6QqS5IMuL0v8pf4) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka) | 3:08 | 2021-09-10 |  |
+| [Gradual of Image](https://open.spotify.com/track/5m2Tets6QqS5IMuL0v8pf4) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka) | 3:08 | 2021-09-10 | 2024-01-31 |
 | [GREEN](https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:14 | 2021-09-10 |  |
 | [Ho Renomo](https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 5:11 | 2021-09-10 | 2023-03-16 |
 | [If](https://open.spotify.com/track/5nptEUCXW1z3I0Y6F3Wz3r) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Andy Barlow](https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o) | [Svalbard](https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF) | 5:07 | 2022-01-13 | 2022-07-17 |

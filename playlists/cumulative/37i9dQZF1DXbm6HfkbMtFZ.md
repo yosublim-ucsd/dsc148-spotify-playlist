@@ -4,10 +4,11 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-543 songs - 1 day 8 hr 39 min
+544 songs - 1 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(You\) Got What I Need](https://open.spotify.com/track/5NelxeQ8Yd4ytdhdGog8c5) | [Freddie Scott](https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT) | [Cry To Me\-The Best Of Freddie Scott](https://open.spotify.com/album/4RFn1tAt9wBDGxERS38bZK) | 2:59 | 2024-01-31 |  |
 | [100 Yard Dash](https://open.spotify.com/track/2OPANrnimcwWcVQuDk8ibD) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB) | 2:18 | 2022-03-30 | 2022-04-18 |
 | [17](https://open.spotify.com/track/1qeY5OKZvj3kpRCHGHRgFT) | [Bekon](https://open.spotify.com/artist/4VWnuR2hpj6DZNfcpe4e3M) | [Get With The Times](https://open.spotify.com/album/4WPpkvX7xqyRfLlWYUdXok) | 4:10 | 2021-12-16 | 2022-07-29 |
 | [Across the Sea](https://open.spotify.com/track/6NXW1J0rvUBX7JprJg31H3) | [Falqo](https://open.spotify.com/artist/3OvevnaMKTcWEKhxnYPIru) | [Across the Sea](https://open.spotify.com/album/0DLQ1wt7WQaNaP1s132H3z) | 4:33 | 2022-02-04 | 2022-06-23 |
@@ -303,7 +304,7 @@
 | [Make You](https://open.spotify.com/track/1SPUmDMhbzHOsizroAypLi) | [Famous Yesterday](https://open.spotify.com/artist/6SQu8AZw8mjUFT6GFxBJ7h) | [Make You](https://open.spotify.com/album/71K55CCV4inStm0uoLJZF8) | 2:50 | 2021-12-16 | 2022-07-29 |
 | [Make You](https://open.spotify.com/track/7DXQPLHpsoSkDCOmw6jdyf) | [Famous Yesterday](https://open.spotify.com/artist/6SQu8AZw8mjUFT6GFxBJ7h) | [Make You](https://open.spotify.com/album/2R3BPuzo1srqdas4Y60gL7) | 2:50 | 2022-09-08 | 2023-03-25 |
 | [Malibu Man](https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 3:36 | 2022-03-30 | 2023-12-09 |
-| [Mambo Sun \- 2003 Remaster](https://open.spotify.com/track/79dQwpXjJ4t3pILysdqFyB) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 3:40 | 2022-03-30 |  |
+| [Mambo Sun \- 2003 Remaster](https://open.spotify.com/track/79dQwpXjJ4t3pILysdqFyB) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 3:40 | 2022-03-30 | 2024-01-31 |
 | [Marcy Son What](https://open.spotify.com/track/4Sp1D2xf63Y1QR572hW0He) | [Shakarchi & Stranéus](https://open.spotify.com/artist/6j7oCqripDrP3x226wAF5H) | [Steal Chickens From Men And the Future From God](https://open.spotify.com/album/51sbT6gvFD5BnGU8kGpBVw) | 4:55 | 2021-12-16 | 2022-07-27 |
 | [Maybe](https://open.spotify.com/track/5Am6lXmZTztC7YE0VA4p1l) | [Woman Believer](https://open.spotify.com/artist/4Hk4enNrVcLeSMuJahX0Nk) | [Dunzo](https://open.spotify.com/album/3gAkn7srP6kWFHgnApjDxx) | 3:24 | 2021-12-16 | 2022-07-29 |
 | [Melt](https://open.spotify.com/track/3CY9kIRQFXfUqlBrzUgU6T) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [New Skin](https://open.spotify.com/album/3NX6AZtgTNY92MmspNQLiu) | 3:34 | 2021-12-16 | 2022-07-14 |

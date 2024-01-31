@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 944817,
+  "num_followers": 946513,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWExNjcyYTgyZWI1NDMyZWU4ZDFlNjg3MjE1ZWNlYTY3NmRjNDc3",
+  "snapshot_id": "MCwyNWFjNjgxOTYyNzkzMWE0OTk3OGI0Njk1OGU3MzE4OTk2OTcyYzU3",
   "tracks": [
     {
       "added_at": "2024-01-12 18:00:00",
@@ -211,18 +211,22 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "paranoia",
-        "url": "https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx"
+        "name": "WET DREAMS (w/ Nimstarr)",
+        "url": "https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg"
       },
       "artists": [
         {
-          "name": "KENTENSHI",
-          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "Nimstarr",
+          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
         }
       ],
-      "duration_ms": 117408,
-      "name": "paranoia",
-      "url": "https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj"
+      "duration_ms": 124711,
+      "name": "WET DREAMS (w/ Nimstarr)",
+      "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -259,22 +263,18 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "WET DREAMS (w/ Nimstarr)",
-        "url": "https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg"
+        "name": "paranoia",
+        "url": "https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx"
       },
       "artists": [
         {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "Nimstarr",
-          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
+          "name": "KENTENSHI",
+          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
         }
       ],
-      "duration_ms": 124711,
-      "name": "WET DREAMS (w/ Nimstarr)",
-      "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
+      "duration_ms": 117408,
+      "name": "paranoia",
+      "url": "https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "She Bad",
-        "url": "https://open.spotify.com/album/0M6oyngsJDKXdyeuk1kTG7"
-      },
-      "artists": [
-        {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
-        }
-      ],
-      "duration_ms": 105534,
-      "name": "She Bad",
-      "url": "https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "Righteous",
         "url": "https://open.spotify.com/album/3V94UgGEHH6Au9bH1J4MnS"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 163910,
       "name": "Righteous",
       "url": "https://open.spotify.com/track/2zG8L9QM7FnlKkLQYirIxh"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "She Bad",
+        "url": "https://open.spotify.com/album/0M6oyngsJDKXdyeuk1kTG7"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 105534,
+      "name": "She Bad",
+      "url": "https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp"
     },
     {
       "added_at": "2024-01-12 18:00:00",

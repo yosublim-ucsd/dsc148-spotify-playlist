@@ -17581,6 +17581,24 @@
     },
     {
       "album": {
+        "name": "TEMPTATIONS",
+        "url": "https://open.spotify.com/album/46xtqR37R8Ge71o0tQ4peS"
+      },
+      "artists": [
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111047,
+      "name": "TEMPTATIONS",
+      "url": "https://open.spotify.com/track/5Dm92u2aCnl45seE6MCUwU"
+    },
+    {
+      "album": {
         "name": "Tennis Courts",
         "url": "https://open.spotify.com/album/7tKJHyWwrh0KIkTRo2KMOW"
       },
@@ -20074,7 +20092,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 161760,
       "name": "Won One",
       "url": "https://open.spotify.com/track/1Go1t1GBt5XJX75DMoMBoa"

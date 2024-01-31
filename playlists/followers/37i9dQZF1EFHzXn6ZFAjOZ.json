@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 7382,
+  "2024-01-31": 7393,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg\">RAYE</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By RAYE",
@@ -94,6 +94,28 @@
     },
     {
       "album": {
+        "name": "All Cried Out (feat. Alex Newell)",
+        "url": "https://open.spotify.com/album/6mRQ9wHMEVWeen20E2xYNp"
+      },
+      "artists": [
+        {
+          "name": "Blonde",
+          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
+        },
+        {
+          "name": "Alex Newell",
+          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184200,
+      "name": "All Cried Out (feat. Alex Newell)",
+      "url": "https://open.spotify.com/track/4tPqJR8gBkeIav3vkA6G72"
+    },
+    {
+      "album": {
         "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
         "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
       },
@@ -109,7 +131,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 170716,
       "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
       "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
@@ -149,7 +171,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 196853,
       "name": "All Of My Love",
       "url": "https://open.spotify.com/track/1fuOQttSZc7ztlH42OK8VC"
@@ -171,7 +193,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 248800,
       "name": "All Of My Love",
       "url": "https://open.spotify.com/track/65NGL1BaumIDVLpoGyqy26"
@@ -1403,7 +1425,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 148773,
       "name": "Let Them Know",
       "url": "https://open.spotify.com/track/3iEwla99ovgF0Rdla6FZm4"
@@ -1421,7 +1443,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 182850,
       "name": "Let Them Know",
       "url": "https://open.spotify.com/track/3hSe567EWQTIE1FMPhS9HZ"
@@ -1439,7 +1461,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 212986,
       "name": "LOL",
       "url": "https://open.spotify.com/track/4qsrQnTtzIdmTOXFobkkE9"
@@ -1457,7 +1479,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 214890,
       "name": "LOL",
       "url": "https://open.spotify.com/track/5uJlEHIdJ38eXzMOSrRCK3"
@@ -1705,7 +1727,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 194346,
       "name": "Natalie Don't",
       "url": "https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk"
@@ -1723,7 +1745,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 197080,
       "name": "Natalie Don't",
       "url": "https://open.spotify.com/track/3fEtxqmS2R9TRSMr0mRM15"
@@ -2037,7 +2059,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 181248,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/4nCJS7AWhGru24BKIPSIqz"

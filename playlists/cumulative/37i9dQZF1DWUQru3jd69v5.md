@@ -2,7 +2,7 @@
 
 ### [Raptopia](https://open.spotify.com/playlist/37i9dQZF1DWUQru3jd69v5)
 
-> La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Niky Savage
+> La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Gheba
 
 910 songs - 1 day 15 hr 36 min
 
@@ -890,7 +890,7 @@
 | [WAKANDA](https://open.spotify.com/track/4ApTJO5GLmci7uNivte6mE) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [WAKANDA](https://open.spotify.com/album/65snFdLpTuZB0dYzHscNpg) | 2:16 | 2022-05-12 | 2022-07-16 |
 | [Walkie Talkie](https://open.spotify.com/track/34PkzeCZ8fZj9jBMMV1gqa) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Walkie Talkie](https://open.spotify.com/album/02sDUCaTdnQXVqsTwlFA9B) | 2:20 | 2022-09-22 | 2023-01-27 |
 | [WAO](https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [WAO](https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD) | 2:29 | 2023-04-20 | 2023-07-21 |
-| [WARANZA](https://open.spotify.com/track/3vunrjJSbv06Q3WMitJ3Sb) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [WARANZA](https://open.spotify.com/album/7lBViHTFvoLqwWEpLTN3aV) | 1:58 | 2024-01-25 |  |
+| [WARANZA](https://open.spotify.com/track/3vunrjJSbv06Q3WMitJ3Sb) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [WARANZA](https://open.spotify.com/album/7lBViHTFvoLqwWEpLTN3aV) | 1:58 | 2024-01-25 | 2024-01-31 |
 | [Wawa](https://open.spotify.com/track/3OwMlRnyiwe69rAdBSNEOe) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [Wawa](https://open.spotify.com/album/0A3SICVCsWnKv5riQ9PqPv) | 2:33 | 2022-06-16 | 2022-07-22 |
 | [WE MAN](https://open.spotify.com/track/7eEA003LpGnkMz765TtPyn) | [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [WE MAN](https://open.spotify.com/album/39WBRLH8CvDmOV8snicCzk) | 2:25 | 2023-08-10 | 2023-08-25 |
 | [Where U At \(feat\. PRACI, Luchetto, Enomoney & Prisoner\)](https://open.spotify.com/track/7lq6dnZdi45tafw1XSDgwl) | [NUOVA SARDEGNA](https://open.spotify.com/artist/2YU6uz5j6qeLX03j5BoSpG), [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5), [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z), [Enomoney](https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8), [Prisoner](https://open.spotify.com/artist/3Q7xzwhs8hMbxxZzgufR6U) | [4 The Island](https://open.spotify.com/album/74P6rmPp2GlxAgD4qAMeb6) | 2:20 | 2023-06-22 | 2023-07-14 |

@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 1064623,
+  "2024-01-31": 1064492,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Italy.",
   "name": "Top 50 - Italy",
@@ -9542,7 +9542,7 @@
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 211434,
+      "duration_ms": 211321,
       "name": "Due principi (feat. Emis Killa)",
       "url": "https://open.spotify.com/track/5YdpLxge3UzTHymkQ6XCf4"
     },
@@ -13453,7 +13453,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
@@ -16591,6 +16591,24 @@
       "duration_ms": 185031,
       "name": "LA STREGA DEL FRUTTETO (feat. chiello & Madame)",
       "url": "https://open.spotify.com/track/6rJ9urIYzdm6JObJzYTIbL"
+    },
+    {
+      "album": {
+        "name": "\u00c8 sempre bello",
+        "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192040,
+      "name": "La tua canzone",
+      "url": "https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD"
     },
     {
       "album": {
@@ -32278,6 +32296,24 @@
     },
     {
       "album": {
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+    },
+    {
+      "album": {
         "name": "Un\u2019Altra Volta",
         "url": "https://open.spotify.com/album/3Iew1h5VtOr8eiSe3omNjj"
       },
@@ -33901,7 +33937,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"

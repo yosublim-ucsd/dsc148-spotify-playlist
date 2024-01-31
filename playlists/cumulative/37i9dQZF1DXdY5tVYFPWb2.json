@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 169900,
       "name": "CAT'S EYE 2023",
       "url": "https://open.spotify.com/track/0FGWm15bVNXkutFq3tJkGE"
@@ -2558,7 +2558,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 210276,
       "name": "Every One Minute",
       "url": "https://open.spotify.com/track/6O8AqwvJkAbEiZPjWzZBvI"
@@ -3242,6 +3242,24 @@
       "duration_ms": 217706,
       "name": "Goodbye day",
       "url": "https://open.spotify.com/track/0MINGnzug0eQpY7IUxycYe"
+    },
+    {
+      "album": {
+        "name": "Groovy night",
+        "url": "https://open.spotify.com/album/5TaPiVV8ESfPGkTn4gZy7e"
+      },
+      "artists": [
+        {
+          "name": "POP ART TOWN",
+          "url": "https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268821,
+      "name": "Groovy night",
+      "url": "https://open.spotify.com/track/6xj8bD4v3Z4U3SKbCs9Ekx"
     },
     {
       "album": {
@@ -3930,7 +3948,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 183164,
       "name": "I\u2019m falling for you",
       "url": "https://open.spotify.com/track/4pxDypYQKnvqYPpKQYeXUN"
@@ -7069,6 +7087,24 @@
     },
     {
       "album": {
+        "name": "Sanzameku",
+        "url": "https://open.spotify.com/album/6aQcVCTEE1ps7pME44kVpO"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u6771\u4eac",
+          "url": "https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185393,
+      "name": "Sanzameku",
+      "url": "https://open.spotify.com/track/09rGKRSeUIxhbD6AIJoJDK"
+    },
+    {
+      "album": {
         "name": "ANOTHER SUMMER REMIX",
         "url": "https://open.spotify.com/album/2WBgDzIFNojmCZqKgRm3Gy"
       },
@@ -8588,7 +8624,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 217625,
       "name": "Sweet Escape feat. \u3072\u304b\u308a - Jafunk Remix",
       "url": "https://open.spotify.com/track/0rnE60QykoMiOgtmN0OxlN"
@@ -9872,7 +9908,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 241293,
       "name": "Windy Summer",
       "url": "https://open.spotify.com/track/4CxWMGkVGyuMTkl0e9UK6h"
@@ -10315,6 +10351,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3089\u308f\u308c\u306a\u3044\u3067",
+        "url": "https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237122,
+      "name": "\u3042\u3089\u308f\u308c\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa"
+    },
+    {
+      "album": {
         "name": "DREAMIN'",
         "url": "https://open.spotify.com/album/6ycN0LEaNvitT5fHFWopvI"
       },
@@ -10722,6 +10776,24 @@
       "duration_ms": 211746,
       "name": "\u305f\u3076\u3093Maybe\u660e\u6cbb feat. \u3042\u3001\u305f\u304e\u308c\u3093\u305f\u308d\u3046",
       "url": "https://open.spotify.com/track/4XdSe3t6dLv4wm38EzztCc"
+    },
+    {
+      "album": {
+        "name": "\u3060\u3063\u3066",
+        "url": "https://open.spotify.com/album/38IPKWm6SoIzlLTJXxD5p4"
+      },
+      "artists": [
+        {
+          "name": "BELLMAINZ",
+          "url": "https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243896,
+      "name": "\u3060\u3063\u3066",
+      "url": "https://open.spotify.com/track/175C4JA6zfA4kaId3GWmft"
     },
     {
       "album": {
@@ -14220,7 +14292,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 219226,
       "name": "\u785d\u5b50\u7a93",
       "url": "https://open.spotify.com/track/7jCSLx1qIlvj7LHiWe1sBD"

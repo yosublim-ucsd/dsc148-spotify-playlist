@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz?si=K5VklOKLSDOF2V_uTxQZLw\">Priddy Ugly</a>",
-  "num_followers": 81558,
+  "num_followers": 81618,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDBmZTUyMGEwOWM5OTJmNmVjMTExYTFmZWExZDFhN2IwYTZjZTE4",
+  "snapshot_id": "MCxhM2Y5ZThlYzdmN2QwN2ExMjZlNGY2ZGY4NWNjZjFmNTllOWYxNGJh",
   "tracks": [
     {
       "added_at": "2024-01-25 23:00:00",
@@ -803,7 +803,7 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Undress You (feat. Sarkodie)",
+        "name": "Undress You",
         "url": "https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO"
       },
       "artists": [
@@ -821,7 +821,7 @@
         }
       ],
       "duration_ms": 213818,
-      "name": "Undress You (feat. Sarkodie)",
+      "name": "Undress You",
       "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
     },
     {
@@ -1131,7 +1131,7 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Shukela (feat. Vista, Smangori, Prince Chopiro)",
+        "name": "Shukela (feat. Prince Chopiro)",
         "url": "https://open.spotify.com/album/6WPFqdwCpygHAxZrjlYRxj"
       },
       "artists": [
@@ -1140,20 +1140,20 @@
           "url": "https://open.spotify.com/artist/5ky9v1WJk4cS5MHjpc14MK"
         },
         {
-          "name": "Prince Chopiro",
-          "url": "https://open.spotify.com/artist/515017tW7vBVPPwrfLWl4N"
+          "name": "Vista",
+          "url": "https://open.spotify.com/artist/6tEP3lV5Jk2HhFqVr9jmbT"
         },
         {
           "name": "Smangori",
           "url": "https://open.spotify.com/artist/6u9k9K4CcTH7hPKpT1Jy6R"
         },
         {
-          "name": "Vista",
-          "url": "https://open.spotify.com/artist/6tEP3lV5Jk2HhFqVr9jmbT"
+          "name": "Prince Chopiro",
+          "url": "https://open.spotify.com/artist/515017tW7vBVPPwrfLWl4N"
         }
       ],
       "duration_ms": 293571,
-      "name": "Shukela (feat. Vista, Smangori, Prince Chopiro)",
+      "name": "Shukela (feat. Prince Chopiro)",
       "url": "https://open.spotify.com/track/3N71RnM0HtTot80kmSvrDA"
     },
     {

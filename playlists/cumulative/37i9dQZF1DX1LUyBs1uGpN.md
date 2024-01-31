@@ -4,7 +4,7 @@
 
 > ¡Pura Doble P! Chachaaauuuuuu
 
-72 songs - 3 hr 50 min
+73 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Las Morras](https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Morras](https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE) | 2:35 | 2023-06-30 |  |
 | [Les Cuesta](https://open.spotify.com/track/18vLqYV3OtOX84S0IGCHRJ) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Los Del Fl](https://open.spotify.com/artist/3FFQjcpieXBXQwkbUJQpjV) | [Efectos Secundarios](https://open.spotify.com/album/1OFfEo5jIQpvjQXD8OFcsx) | 3:26 | 2023-06-30 | 2023-11-07 |
 | [Lo Que Me Das](https://open.spotify.com/track/5rGJkSCM6ZDi69eZb7qoNx) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Efectos Secundarios](https://open.spotify.com/album/1OFfEo5jIQpvjQXD8OFcsx) | 3:01 | 2023-06-30 |  |
-| [Los Pixeliados](https://open.spotify.com/track/06l90deFB5B3MY8i2Ud6Yo) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Lalo Reyes](https://open.spotify.com/artist/2uXjfliPmAWgaiY2mSAdnj) | [Ah y Que?](https://open.spotify.com/album/4tO6I5yocnvc0sSkyqyE29) | 3:01 | 2023-06-30 |  |
+| [Los Pixeliados](https://open.spotify.com/track/06l90deFB5B3MY8i2Ud6Yo) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Lalo Reyes](https://open.spotify.com/artist/2uXjfliPmAWgaiY2mSAdnj) | [Ah y Que?](https://open.spotify.com/album/4tO6I5yocnvc0sSkyqyE29) | 3:01 | 2023-06-30 | 2024-01-31 |
+| [Los Pixeliados](https://open.spotify.com/track/31mO4i9sNzomO0dXfSRvnm) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Lalo Reyes](https://open.spotify.com/artist/2uXjfliPmAWgaiY2mSAdnj) | [Ah Y Que?](https://open.spotify.com/album/6CH5CWXWN2X09u7iNuMGN0) | 3:01 | 2024-01-26 |  |
 | [LUNA](https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:43 | 2023-06-30 |  |
 | [Me Convertí](https://open.spotify.com/track/3trOWFkmVZzBgAmvzPPXI1) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Sembrando](https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG) | 3:58 | 2023-06-30 |  |
 | [No Está Facil](https://open.spotify.com/track/2BfYlQPq501DdEfc2inL9t) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Efectos Secundarios](https://open.spotify.com/album/1OFfEo5jIQpvjQXD8OFcsx) | 2:46 | 2023-06-30 |  |

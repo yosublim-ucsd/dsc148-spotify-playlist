@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, updated monthly by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 15,415 likes - 115 songs - 6 hr 56 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 15,418 likes - 115 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Read The Room](https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 5:14 |
+| 1 | [Friend Of A Friend](https://open.spotify.com/track/4lTLmo9aTyMJ1SoHa63WA6) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 4:35 |
 | 2 | [Stay With Me Through The Night](https://open.spotify.com/track/60gpPVIPxuB8OLKS3mif0I) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Stay With Me Through The Night](https://open.spotify.com/album/5zXZBEsCxIFSqGwAO1FEOK) | 3:36 |
 | 3 | [Back It Up](https://open.spotify.com/track/4zYVvRX0i7fbyu78AsNPNH) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Back It Up](https://open.spotify.com/album/1f0P6RYU2zRhB4OLQspm5k) | 1:59 |
 | 4 | [Pilot](https://open.spotify.com/track/1FOy1S8YxMHPnGQhPjCjxt) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/6zGhZBWh0K0PolEhjLv1Km) | 4:06 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 114 | [candy reign \(!\)](https://open.spotify.com/track/4fX5F00lmUGW1tnM4DHvzd) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [homeless n\*gga pop music](https://open.spotify.com/album/5j9zothL0paSMkfcdjCdHA) | 2:18 |
 | 115 | [Friendly](https://open.spotify.com/track/4ikACoSiRRLZo6gX5JnRjV) | [Slew](https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3) | [Face Value](https://open.spotify.com/album/3cSSOPFzD1Bo12hWXWjRGf) | 2:11 |
 
-Snapshot ID: `NjIxMSw3Zjg0ODUxODZjMmNmOTM2MjhhNGU5YTFmOWQ5Y2Q3ODlhODdlMzRm`
+Snapshot ID: `NjIxNCw1NzRkNDk4NDVmYWZiMjYxMTc3YTVhZTI3MDk5NDEwNTcxNmZiMTFm`

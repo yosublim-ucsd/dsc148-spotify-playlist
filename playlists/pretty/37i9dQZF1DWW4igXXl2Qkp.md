@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: tg.blk
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,367 likes - 44 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,421 likes - 44 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 43 | [Fallin](https://open.spotify.com/track/7vK3keO8DihcplIp6umDgP) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Fallin](https://open.spotify.com/album/1wt8UJYePXqJkNx2R7R32Q) | 2:21 |
 | 44 | [who?](https://open.spotify.com/track/6GO4Wjcz1yiZHtPBE4DzAJ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [who?](https://open.spotify.com/album/4pGFupinAniBUGQbNEeFuW) | 2:29 |
 
-Snapshot ID: `MCwyOTY0MWY1ODI4MmI4ZjU5N2Q2NjVjNGU0MmU0NDVmNWU5YThlOGFj`
+Snapshot ID: `MCw1ZDE1YTZmNmJiZDY4ZmNkM2I5YjNiNzM2YTI5NTFjMDBlYTc1NTA4`

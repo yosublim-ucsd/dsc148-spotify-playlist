@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 2 | [Xion](https://open.spotify.com/track/5BXGLYOc7VY1YZsrLYDOxZ) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [IMMIGRANT](https://open.spotify.com/album/01OhPa84ZZEYBZl2Lvo4iZ) | 2:14 |
 | 3 | [I'm Ready For You](https://open.spotify.com/track/1zmv0tPVWdbCuvBw90MYwO) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y](https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA) | 2:54 |
 | 4 | [Numeri](https://open.spotify.com/track/7mVV2Rb9IpbsklRP9Mfz11) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [MM Vol\. 3](https://open.spotify.com/album/0XjprOLOCfbY7TWnviw4ft) | 2:12 |
-| 5 | [Flashback](https://open.spotify.com/track/3M6uWThUeXWV1HCYnBz4wI) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Flashback](https://open.spotify.com/album/5l6Vbwho1oOexmkQ5GnBKu) | 4:03 |
+| 5 | [Flashback](https://open.spotify.com/track/5HOkVAzmr3iDjBaIJH3CTb) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 3:37 |
 | 6 | [NEO](https://open.spotify.com/track/7onHzHeOVE3M9p0tNKQbXc) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [TWOPOINTFIVE](https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY) | 2:03 |
-| 7 | [He Say She Say](https://open.spotify.com/track/7uJHdZPYExYDB6c23qjSrL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [He Say She Say \(Official Video\)](https://open.spotify.com/album/7o8mAtcvmvKJwEpZVXJRrB) | 2:26 |
+| 7 | [He Say She Say](https://open.spotify.com/track/2DOwIiI5L9lWsoUnZQlUqr) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 2:24 |
 | 8 | [DWAY!](https://open.spotify.com/track/3IqdWoxvlK7IZNhvy2S5wX) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [MIRRORS](https://open.spotify.com/album/5zHqrXJ3FUiHjs4wQdE7vj) | 2:25 |
 | 9 | [Manta](https://open.spotify.com/track/2ckGH6FtxWeAv0SskcREd1) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [无限意识 Meta Ego](https://open.spotify.com/album/1ON6zUsWnFa7nlo5YbDkoD) | 3:22 |
 | 10 | [Bing James \(ft\. Jay Rock\)](https://open.spotify.com/track/3wGkYZLDYtULqg635DyKw8) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Funeral](https://open.spotify.com/album/2x657XotA7LCsPElXmXX4W) | 3:23 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 89 | [Voices](https://open.spotify.com/track/25ZeuWx1B76UrJyAw1QkFl) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Voices](https://open.spotify.com/album/1JShKB2CB7LY4woAzIznr6) | 1:48 |
 | 90 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `Mjg0NDMwMDAsMDAwMDAwMDA2MDU3OTlkNDcxMjYwMzZiM2E2YjI0MDZjMzIyNzU2Mw==`
+Snapshot ID: `Mjg0NDQ0NDAsMDAwMDAwMDA1ZWFjOWUzYjhkYTU0YTdmZTYwY2E5MDgzZjZhMjAyNQ==`

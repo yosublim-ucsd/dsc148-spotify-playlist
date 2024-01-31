@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 479146,
+  "2024-01-31": 479384,
   "date_first_scraped": "2023-02-11",
   "description": "The genre-bending singer's essential hits.",
   "name": "This Is SZA",
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 199853,
       "name": "What Lovers Do",
       "url": "https://open.spotify.com/track/164FniLcKsL0eigxthKS1T"
@@ -1101,7 +1101,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 199849,
       "name": "What Lovers Do (feat. SZA)",
       "url": "https://open.spotify.com/track/2j5hsQvApottzvTn4pFJWF"

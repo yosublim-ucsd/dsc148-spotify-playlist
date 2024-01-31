@@ -1,12 +1,12 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 530956,
+  "num_followers": 530961,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGUwOWMxMDJjNzRmMWRlNTdhYmM5ZTNjMDQxM2IyYmYyNDQ1OTky",
+  "snapshot_id": "MCxkZjVmNjkwMmMwMmM3ZmY1ZjYwNzk0OTQyZDEzMTNjZGQ2Y2ExYzk3",
   "tracks": [
     {
       "added_at": "2023-10-27 12:44:19",
@@ -963,22 +963,18 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "Ooby Dooby / Go Go Go",
-        "url": "https://open.spotify.com/album/0XoMFggtttMeiJtnBjoijY"
+        "name": "Rockin' the Night Away",
+        "url": "https://open.spotify.com/album/1eWWmQYAkAnthpK6W6VuVZ"
       },
       "artists": [
         {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        },
-        {
-          "name": "The Teen Kings",
-          "url": "https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ"
+          "name": "The Jetaways",
+          "url": "https://open.spotify.com/artist/4d6H6DOyHM4g55AY3fIQxy"
         }
       ],
-      "duration_ms": 126500,
-      "name": "Go Go Go",
-      "url": "https://open.spotify.com/track/6ZKzfBr8vejFODLh8w2wTV"
+      "duration_ms": 173866,
+      "name": "Rockin' the Night Away",
+      "url": "https://open.spotify.com/track/5jt2cfZCz9L0f3LqAgktSs"
     }
   ],
   "unique_name": "Rockabilly Mania",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EDOAw.md) - [plain]
 
 > This is Kierra Sheard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,099 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,100 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EDOAw.md) - [plain]
 | 35 | [Mo' Better](https://open.spotify.com/track/5OblpdryT79xB9YHHu9vnL) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 3:25 |
 | 36 | [You Must Break \- Live](https://open.spotify.com/track/0VKBh0ADbBSiDbvB97NuqK) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 9:07 |
 | 37 | [Somehow \(feat\. Kierra Sheard\)](https://open.spotify.com/track/2TmKgQy6If0wrPHtLKbmWp) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Oil + Water](https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX) | 5:15 |
-| 38 | [Hear This](https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [This Is Me](https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB) | 4:49 |
-| 39 | [My Redeemer \(Live\) \(feat\. Le'Andria Johnson\)](https://open.spotify.com/track/4PTSv8ZP7qStahGRZUw3p2) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 6:42 |
+| 38 | [My Redeemer \(Live\) \(feat\. Le'Andria Johnson\)](https://open.spotify.com/track/4PTSv8ZP7qStahGRZUw3p2) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 6:42 |
+| 39 | [Hear This](https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [This Is Me](https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB) | 4:49 |
 | 40 | [So Glad](https://open.spotify.com/track/51BH2ibqUvomGPYProjKtR) | [Isaac Carree](https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Reset](https://open.spotify.com/album/7zEQOVHHzD8U0YybvF79rS) | 4:42 |
 | 41 | [Victory \- Live](https://open.spotify.com/track/4QZRa08aiH7wgQXAfjOwoL) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [BRL](https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ) | [Free](https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s) | 6:25 |
-| 42 | [Better Than I Found It \(feat\. Kierra Sheard\)](https://open.spotify.com/track/0q7Y6vWAbhqL0SUFfv8aET) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Rise](https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz) | 3:09 |
-| 43 | [Always Win \(Live\)](https://open.spotify.com/track/1Ur4Zqu0VxvkNzFCElyHM2) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 4:25 |
-| 44 | [Grace](https://open.spotify.com/track/5lDoWeZK3ExOS5iwmgeVHR) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA \(Deluxe\)](https://open.spotify.com/album/0MyC3Pbt7pkhDBRXxhBiJy) | 4:46 |
-| 45 | [You](https://open.spotify.com/track/7z6Jurf9Zop6ORA1FGGZPO) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [This Is Me](https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB) | 2:49 |
+| 42 | [Always Win \(Live\)](https://open.spotify.com/track/1Ur4Zqu0VxvkNzFCElyHM2) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 4:25 |
+| 43 | [Better Than I Found It \(feat\. Kierra Sheard\)](https://open.spotify.com/track/0q7Y6vWAbhqL0SUFfv8aET) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Rise](https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz) | 3:09 |
+| 44 | [You](https://open.spotify.com/track/7z6Jurf9Zop6ORA1FGGZPO) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [This Is Me](https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB) | 2:49 |
+| 45 | [Grace](https://open.spotify.com/track/5lDoWeZK3ExOS5iwmgeVHR) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA \(Deluxe\)](https://open.spotify.com/album/0MyC3Pbt7pkhDBRXxhBiJy) | 4:46 |
 | 46 | [Come A Little Closer \- Live](https://open.spotify.com/track/3bA2GURflrfsHv8YtS0Ud6) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Anthems & Glory \(Live\)](https://open.spotify.com/album/55YFp7Q3oXCGDOk5zOXY1N) | 5:10 |
 | 47 | [Grateful](https://open.spotify.com/track/4KRV4TREh5zVsIxrnvA8XL) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 3:29 |
 | 48 | [All I Am](https://open.spotify.com/track/1FZFAtqLVRrB9pWZWoNd3z) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [I Owe You](https://open.spotify.com/album/2xmUC6JDf6PS06lb1ZJffL) | 2:52 |
 | 49 | [Intro \(I Am Free\) \- Live](https://open.spotify.com/track/21e3oY4Oyz7x9E1pV4QpDY) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Free](https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee) | 1:15 |
 | 50 | [Something To Believe In](https://open.spotify.com/track/14wxEVv4BL1iUFSzbEKUkD) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [The Apartment](https://open.spotify.com/artist/69IXR0c07FhGnuP7b3YShP) | [Something To Believe In](https://open.spotify.com/album/0XZIvYGJOZIrnWiKpBb2Pk) | 2:57 |
 
-Snapshot ID: `Mjg0NDIxOTIsMDAwMDAwMDAwNjFlOWIxMjI2OTM2OTViZDk1Nzg3YTYwYzQ5ZjU5Ng==`
+Snapshot ID: `Mjg0NDM2MzgsMDAwMDAwMDA3ZGZkNDQ2YTIyYzgwOGU5Njc5YTA4YmY5MzMyNTA5Mw==`

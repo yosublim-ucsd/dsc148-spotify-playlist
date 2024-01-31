@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,531 likes - 72 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,580 likes - 72 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Binaural Alpha Focus \(104\-112 Hz\)](https://open.spotify.com/track/18kpD95Vf2lIxL2JvLNVx3) | [Sassani](https://open.spotify.com/artist/4pSqmGRy49ZNSXzbOKfXol) | [Binaural Alpha Focus \(104\-112 Hz\)](https://open.spotify.com/album/1qh4A5LJNy6wtGvUlkjDDq) | 2:33 |
 | 2 | [Dust Settle G Alpha \(96\-108hz\)](https://open.spotify.com/track/1qhpoFWll8RJHM8sKla8CA) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Celestial Blink Alpha](https://open.spotify.com/album/2TZ4Ks3FtnQz558iczbZAQ) | 2:10 |
-| 3 | [The Flow \- Alpha Sinus 88Hz \- 96Hz](https://open.spotify.com/track/5Omod9l5W2uYlYsXCGPoil) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [The Flow \- Alpha Sinus 88Hz \- 96Hz](https://open.spotify.com/album/1BP0IKAWzL7pXt76l0g2Du) | 2:10 |
+| 3 | [The Flow](https://open.spotify.com/track/5Omod9l5W2uYlYsXCGPoil) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [The Flow](https://open.spotify.com/album/1BP0IKAWzL7pXt76l0g2Du) | 2:10 |
 | 4 | [Hopeful \- Alpha Sinus 64 \- 65,3 hz](https://open.spotify.com/track/57QUXv3pUENQAK1zXb2BKK) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Binaural Alpha Sinus](https://open.spotify.com/album/1bKv528U0Z6FgdmFtRUrb9) | 3:30 |
 | 5 | [Refreshed \(Binaural Alpha\)](https://open.spotify.com/track/3x5KoeNMu87qI58lciyDRJ) | [Harper Rems](https://open.spotify.com/artist/3veRAXXPy3m69dx4ZtZJCP) | [Revitalizing Mind \(Binaural Alpha\)](https://open.spotify.com/album/3qiExS5HQHUKfER0TqmhSG) | 3:51 |
 | 6 | [Miracle Sky \(Alpha 58.1 Hz \- 70.3 Hz\)](https://open.spotify.com/track/2fKEmLQx6YYL3AlVwl8434) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Miracle Sky](https://open.spotify.com/album/2cXXAAzd7fwpxO1czxwpoq) | 2:40 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 | 23 | [Alpha Sinus \- Greystones \- 146 Hz \-152 Hz](https://open.spotify.com/track/4SnNjDXBetwlS9a1taX1VA) | [Estonian Machine](https://open.spotify.com/artist/3T3PyxVgQxyzalpGZA4Paw) | [Alpha Sinus \- Greystones \- 146 Hz \-152 Hz](https://open.spotify.com/album/17t1Yj8GSchuXY2j5smc8s) | 2:57 |
 | 24 | [Alpha Sinus \- The Shrine \- 146 Hz \-153 Hz](https://open.spotify.com/track/0Z5OXX6LKeN85fm3MyMJiS) | [Delta Hz](https://open.spotify.com/artist/5DeI5zDGqIRRmW5o1TrYD0) | [Alpha Sinus \- The Shrine \- 146 Hz \-153 Hz](https://open.spotify.com/album/4bsjDI58pp3cRNTpdzjBtH) | 2:20 |
 | 25 | [Alpha Relief 94 Hz \- 102 Hz](https://open.spotify.com/track/2X4GzC2AF0Mq46fjE3IFRd) | [Unconscious Mind](https://open.spotify.com/artist/4z2YcYMIwrt57Yr2REOia0) | [Alpha Relief 94 Hz \- 102 Hz](https://open.spotify.com/album/6UG8gpJjygEMaIXIlYyxuR) | 3:08 |
-| 26 | [Water \- Alpha Sinus 97Hz \- 104Hz](https://open.spotify.com/track/7HvwaIF3Ip2ZhkCCbhvSGS) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Water \- Alpha Sinus 97Hz \- 104Hz](https://open.spotify.com/album/0Tfxcfud4NpOIj5oUWqZF9) | 2:10 |
+| 26 | [Water](https://open.spotify.com/track/7HvwaIF3Ip2ZhkCCbhvSGS) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Water](https://open.spotify.com/album/0Tfxcfud4NpOIj5oUWqZF9) | 2:10 |
 | 27 | [Pulses Alpha Sinus 75Hz \- 81Hz](https://open.spotify.com/track/0AuPkEHgfI3HqBGQ1b4pux) | [Theta Time](https://open.spotify.com/artist/036o8KM9eLv1TI1xoclIXw) | [Pulses Alpha Sinus 75Hz \- 81Hz](https://open.spotify.com/album/6RYCb8LkDSREIb4TxunOxT) | 2:22 |
 | 28 | [Alpha Sinus 300 Hz \- L 308 Hz \- Stress reduction](https://open.spotify.com/track/1Rf0PFutLKfaOPVL4RScmH) | [Ivo Phi](https://open.spotify.com/artist/7vvyFnhnPCb0gn7QwDwP0C) | [Alpha Sinus 300 Hz \- L 308 Hz \- Stress reduction](https://open.spotify.com/album/5SkCxTesMMQMOL6A5Geswu) | 3:06 |
 | 29 | [Alpha Sinus \- Ethereal Drift \- 130 Hz \-138 Hz](https://open.spotify.com/track/18dvsvmmW7E6VxiW4VxR97) | [Healing High](https://open.spotify.com/artist/6lwhZbTrZzgQqrChcCF2bd) | [Alpha Sinus \- Ethereal Drift \- 130 Hz \-138 Hz](https://open.spotify.com/album/3dm1bHQaX52B6qhkeb7BWH) | 2:37 |
@@ -75,10 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 | 65 | [Stimulus \- Alpha sinus 95 \- 100hz](https://open.spotify.com/track/1WTzE86eipBlrg5RnzJTm5) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Brain Entrainment](https://open.spotify.com/album/18d1Hr9e7GaU8VEoRK3lkJ) | 4:22 |
 | 66 | [Motion \- Alpha Sinus 55,1 \- 58 hz](https://open.spotify.com/track/5BOp3TczUZugNiC0tl1Cn0) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Binaural Alpha Sinus](https://open.spotify.com/album/1bKv528U0Z6FgdmFtRUrb9) | 3:42 |
 | 67 | [Alpha Meditation](https://open.spotify.com/track/2UITlqXM467haohWgPffAT) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Alpha Meditation](https://open.spotify.com/album/1bPVJAq7CbCRx8pOA16H0y) | 2:36 |
-| 68 | [Moonlight \- Alpha Sinus 70Hz \- 75Hz](https://open.spotify.com/track/4IFiuqNlJQdkdd77b9OKUT) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Moonlight \- Alpha Sinus 70Hz \- 75Hz](https://open.spotify.com/album/3pJ0wf02M8O9GUuxlwiJun) | 2:10 |
+| 68 | [Moonlight](https://open.spotify.com/track/4IFiuqNlJQdkdd77b9OKUT) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Moonlight](https://open.spotify.com/album/3pJ0wf02M8O9GUuxlwiJun) | 2:10 |
 | 69 | [Caeulum Alpha 92Hz \- 100Hz](https://open.spotify.com/track/58hhvVq3ouqe8rURCv66c0) | [Inner Versum](https://open.spotify.com/artist/1DDrPd2XA55nmMZ04syZvY) | [Caeulum Alpha 92Hz \- 100Hz](https://open.spotify.com/album/61fEtFEq96EyZgi9lnS9IW) | 2:32 |
 | 70 | [Alpha Focus Waves 94Hz \- 102Hz](https://open.spotify.com/track/0haaebMQkYlDcfmgYLszaS) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Alpha Focus](https://open.spotify.com/album/0Kv4W0JNSSXCLe2RAPDVcp) | 3:09 |
 | 71 | [Alpha Blanket 85Hz \- 92Hz](https://open.spotify.com/track/69yGC4d8YCc0YdgRndEUha) | [High Lotion](https://open.spotify.com/artist/1ZqOGxgYcd5cYyak3ryY9Q) | [Alpha Blanket](https://open.spotify.com/album/4ytgWTRAzT1OCcfCZefm6J) | 3:57 |
 | 72 | [Eventi Alpha SInus 88\-94 Hz](https://open.spotify.com/track/3fiD14RIJ0BA6IACMli2rW) | [Restful SInus](https://open.spotify.com/artist/6S3sDcK2WIHZ9a2eMLJJYX) | [Attractive Alpha](https://open.spotify.com/album/0xOcPoHBjNrr6fhi31rw3z) | 2:40 |
 
-Snapshot ID: `MCwyYWJjYTc1MzI0ODJkM2E5MWQ5MTYxMTU4NTgzNTdhMTAxODc5Y2Fm`
+Snapshot ID: `MCxiNjk4ZWFhOWY2OWFkOWM2ZWU3NDk5YmExZDJlMjdkMDcwZmMzYmEz`

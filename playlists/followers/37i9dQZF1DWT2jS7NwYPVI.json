@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 439993,
+  "2024-01-31": 439966,
   "date_first_scraped": "2021-12-21",
   "description": "your rock/alt cheat sheet feat. the 2024 Rock Artists to Watch  | Cover: Jhariah",
   "name": "New Noise",
@@ -1834,6 +1834,24 @@
     },
     {
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/4x11dM49Sq4awkswFoJfoR"
+      },
+      "artists": [
+        {
+          "name": "Slow Fiction",
+          "url": "https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199862,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/6NMUkluQ4ZI6XwGuqH2Z2n"
+    },
+    {
+      "album": {
         "name": "Apologies",
         "url": "https://open.spotify.com/album/1nATWShLPekWv0pH4yKrL6"
       },
@@ -3469,10 +3487,28 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 206440,
       "name": "Big Air",
       "url": "https://open.spotify.com/track/33DjR40rZu7Nhr8oQQnl7o"
+    },
+    {
+      "album": {
+        "name": "Spiel",
+        "url": "https://open.spotify.com/album/38uN3ZQLCnEz7LhFq5Y2Qh"
+      },
+      "artists": [
+        {
+          "name": "Office Dog",
+          "url": "https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206440,
+      "name": "Big Air",
+      "url": "https://open.spotify.com/track/4CV3vmoI1mExWRTcGCsKTc"
     },
     {
       "album": {

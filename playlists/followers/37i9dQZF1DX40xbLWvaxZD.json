@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 42658,
+  "2024-01-31": 42688,
   "date_first_scraped": "2022-05-09",
   "description": "Music from the gaming series \"Yakuza: Like a Dragon\" -\u300c\u9f8d\u304c\u5982\u304f8\u300d\u767a\u58f2\u8a18\u5ff5\uff01\u30b7\u30ea\u30fc\u30ba\u6b74\u4ee3\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u3001\u30b5\u30f3\u30c8\u30e9\u697d\u66f2\u3092\u7db2\u7f85\u3057\u305f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u304c\u767b\u5834",
   "name": "\u9f8d\u304c\u5982\u304f -Yakuza: Like a Dragon-",
@@ -699,7 +699,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 270040,
       "name": "GO! SHUSHOU SUMMER - Ichiban Spec Edition",
       "url": "https://open.spotify.com/track/4YABeFYz3IF1y83FHFhoo9"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 270466,
       "name": "GO! SHUSHOU SUMMER\u3010Full Spec Edition\u3011 - Full Spec Edition",
       "url": "https://open.spotify.com/track/62GglBX89CsChiCd2FUdbe"

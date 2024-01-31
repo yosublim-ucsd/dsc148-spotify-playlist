@@ -4,7 +4,7 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-495 songs - 17 hr 43 min
+496 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,8 @@
 | [Her](https://open.spotify.com/track/2koESjC2WBc6qmfg0dmTRt) | [eery](https://open.spotify.com/artist/2nu6ZVLgiNcRcWgDKUjplH) | [Her](https://open.spotify.com/album/3fr8eTKmfc0cjaijl4lduW) | 2:03 | 2022-09-09 | 2023-09-09 |
 | [Here, Now](https://open.spotify.com/track/4YlDsepfJJvIlvf1FfQCpV) | [Ethan Rebel](https://open.spotify.com/artist/2ujbzwJRL1CHvf1njbKMSb), [Wyllem](https://open.spotify.com/artist/5XqbCTNngi95DjrFxl5XfL) | [Tempora](https://open.spotify.com/album/366DGI0rgtKVdx81FfeckP) | 2:31 | 2023-09-08 |  |
 | [Holdin On](https://open.spotify.com/track/42J3inTXbWQBRryGL0b42M) | [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G) | [Holdin On](https://open.spotify.com/album/2eZc83u1ElIyfFN9zhbZxE) | 1:21 | 2023-09-08 |  |
-| [Home](https://open.spotify.com/track/2cJDRyQgGIINE2AVgIsqjj) | [Sky.High](https://open.spotify.com/artist/7sGZqnvQxV7qbqF9xbGxZq), [Nikom](https://open.spotify.com/artist/6UqdTwKS1zBYMghyg9gOXS), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Reflections](https://open.spotify.com/album/5NEXeykYEgxCSqQKeVR6SG) | 2:29 | 2023-09-08 |  |
+| [Home](https://open.spotify.com/track/7kHUBn800C3RJeVEHyEdx7) | [Sky.High](https://open.spotify.com/artist/7sGZqnvQxV7qbqF9xbGxZq) | [Reflections](https://open.spotify.com/album/0DrblGsQkmvLd2wv9xj5sh) | 2:29 | 2024-01-18 |  |
+| [Home](https://open.spotify.com/track/2cJDRyQgGIINE2AVgIsqjj) | [Sky.High](https://open.spotify.com/artist/7sGZqnvQxV7qbqF9xbGxZq), [Nikom](https://open.spotify.com/artist/6UqdTwKS1zBYMghyg9gOXS), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Reflections](https://open.spotify.com/album/5NEXeykYEgxCSqQKeVR6SG) | 2:29 | 2023-09-08 | 2024-01-31 |
 | [Hosanna \- Lofi Flip](https://open.spotify.com/track/7BbhFrLzCP7DdnV69vVbCv) | [Leon D'souza](https://open.spotify.com/artist/71Rv7hyuI5904jgrtT4IN9), [Suzanne D'Mello](https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E), [Jammy Weirdo](https://open.spotify.com/artist/64QCKFA8kD38Waf5EXbSRp), [Mig](https://open.spotify.com/artist/7omB2Vc993xt3mpwAcosYe) | [Hosanna \(Lofi Flip\)](https://open.spotify.com/album/4g9Bvb10Z0SL4PkVLUbBIM) | 4:16 | 2022-09-09 | 2023-09-09 |
 | [Hurt](https://open.spotify.com/track/3th03CnKwtQ2TGdtEkV9TU) | [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G), [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [Hurt](https://open.spotify.com/album/0XBOo71YV7AAR0f7cGwIZ6) | 1:25 | 2023-09-08 |  |
 | [I Don't Sleep](https://open.spotify.com/track/0f0gfm6wHjhqrBMHBn9Ajr) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Don't Sleep](https://open.spotify.com/album/49OHwmq4uGM51itc6QT4tE) | 1:45 | 2022-09-09 | 2023-09-09 |

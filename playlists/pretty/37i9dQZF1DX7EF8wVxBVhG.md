@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,263 likes - 138 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,739 likes - 138 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 12 | [Alpha Relief 94 Hz \- 102 Hz](https://open.spotify.com/track/2X4GzC2AF0Mq46fjE3IFRd) | [Unconscious Mind](https://open.spotify.com/artist/4z2YcYMIwrt57Yr2REOia0) | [Alpha Relief 94 Hz \- 102 Hz](https://open.spotify.com/album/6UG8gpJjygEMaIXIlYyxuR) | 3:08 |
 | 13 | [Alpha Sinus \- The Shrine \- 146 Hz \-153 Hz](https://open.spotify.com/track/0Z5OXX6LKeN85fm3MyMJiS) | [Delta Hz](https://open.spotify.com/artist/5DeI5zDGqIRRmW5o1TrYD0) | [Alpha Sinus \- The Shrine \- 146 Hz \-153 Hz](https://open.spotify.com/album/4bsjDI58pp3cRNTpdzjBtH) | 2:20 |
 | 14 | [Alpha Harmony \(105Hz \- 115Hz\)](https://open.spotify.com/track/3l3JdIcEn1lZ6mwnZSO2BV) | [Binaural Explorer](https://open.spotify.com/artist/2ZhPgXqdfCoEYgtumgaZ5z) | [Harmonic Balance](https://open.spotify.com/album/5EIABDLRDHWgwcIRxcadfc) | 3:45 |
-| 15 | [Conception \- Alpha Sinus 115Hz \- 122Hz](https://open.spotify.com/track/0YZSPagJQcp2t1qlZZoFuW) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B), [The Binaural Girl](https://open.spotify.com/artist/1SZvf7oGMJwvncGXAFMWvs) | [Conception \- Alpha Sinus 115Hz \- 122Hz](https://open.spotify.com/album/4DmBExlFUISgPtR4rxz5ie) | 2:08 |
+| 15 | [Conception](https://open.spotify.com/track/0YZSPagJQcp2t1qlZZoFuW) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B), [The Binaural Girl](https://open.spotify.com/artist/1SZvf7oGMJwvncGXAFMWvs) | [Conception](https://open.spotify.com/album/4DmBExlFUISgPtR4rxz5ie) | 2:08 |
 | 16 | [Fantasia \- Alpha Sinus 95Hz \- 103Hz](https://open.spotify.com/track/6yDMWJ9KFUtFkQndXVVJry) | [Binaural Movements](https://open.spotify.com/artist/7qgmuFa8s0woxvn8Tnl84Q) | [Access to the Subconcious](https://open.spotify.com/album/5Z4FDimtghanNx9Yzuu64m) | 2:41 |
 | 17 | [Alpha Binaural Focus 115Hz \- 123Hz](https://open.spotify.com/track/5TR5odtJghbnXb9bQv6ubl) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Alpha Core](https://open.spotify.com/album/2WPi04z9oNIU0Ewu1siuYL) | 3:35 |
 | 18 | [Alpha Focus Waves 128Hz \- 136Hz](https://open.spotify.com/track/1CoW9K4Sabt7H8bspY6dI1) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Alpha Focus](https://open.spotify.com/album/0Kv4W0JNSSXCLe2RAPDVcp) | 3:13 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 48 | [Sphere of Alpha 10 Hz](https://open.spotify.com/track/2lEDf4AwwqaVYpTftIqcBZ) | [The Inner Circle](https://open.spotify.com/artist/0mRW2BlrPBuwMkmtgZbDIB) | [Binaural Sphere](https://open.spotify.com/album/02tvTtzLWwJkElS8m4diA5) | 2:39 |
 | 49 | [Dreams \- Alpha Sinus 105 Hz \- 107 Hz](https://open.spotify.com/track/7mudqKvibtfNDLwKVs46Wl) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Alpha Sinus Therapy](https://open.spotify.com/album/4bhxlTMGlBXf5W96IEdPl7) | 3:03 |
 | 50 | [Reset of the mind \- Alpha Sinus 88Hz \- 96Hz](https://open.spotify.com/track/1zDzm7luV055pHODOnGjeC) | [The Binaural Mind](https://open.spotify.com/artist/26xtWEL4HqIGvOcVFUyDSI) | [Alpha Focus](https://open.spotify.com/album/6bhMBqNY3GERf2ttWvxT0i) | 2:36 |
-| 51 | [Galaxy \- Alpha Sinus 80Hz \- 85Hz](https://open.spotify.com/track/6ZuUNJiDAEmoDvbvw2B33O) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Galaxy \- Alpha Sinus 80Hz \- 85Hz](https://open.spotify.com/album/5cMuf5i2oCmzHFJF1Mrw5j) | 2:10 |
+| 51 | [Galaxy](https://open.spotify.com/track/6ZuUNJiDAEmoDvbvw2B33O) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Galaxy](https://open.spotify.com/album/5cMuf5i2oCmzHFJF1Mrw5j) | 2:10 |
 | 52 | [Zeit ist Gold \- Alpha Sinus 87Hz \- 94Hz](https://open.spotify.com/track/0pcQFGXlymeolv47TfIzn7) | [Hidden in Sound](https://open.spotify.com/artist/0AYaSjd2bSpMrGJfpLSqMU) | [Alpha Waves for Meditation](https://open.spotify.com/album/4jdJoSIgybWJYhITu6FbiY) | 3:20 |
 | 53 | [Peace \(95.8 Hz \- 90 Hz\)](https://open.spotify.com/track/3GjeiRan0niF5qIOUlDnAC) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Binaural Peace](https://open.spotify.com/album/3QXYTzLcCdQHR8jY581eOw) | 3:32 |
 | 54 | [Binaural Cloud \(Alpha 7 Hz\)](https://open.spotify.com/track/0L8oyEqNesxaRSPExshgfr) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [Binaural Cloud](https://open.spotify.com/album/5S1Qz3lRareeSFN4vi2UeH) | 2:58 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 76 | [emerging roots \- Alpha Sinus 81Hz \- 89Hz](https://open.spotify.com/track/7JwG4QGEMVEJT1yyqLYlmv) | [The Binaural Mind](https://open.spotify.com/artist/26xtWEL4HqIGvOcVFUyDSI) | [Alpha Focus](https://open.spotify.com/album/6bhMBqNY3GERf2ttWvxT0i) | 4:23 |
 | 77 | [Binaural Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/track/1TgKmz3xe3YR39szc6h9mD) | [Binaural Shapers](https://open.spotify.com/artist/3DFcr29ML80ziXXllK7w7N) | [FoCcus](https://open.spotify.com/album/1YD1tFaelD370A42BWvlqR) | 2:12 |
 | 78 | [Alpha Night \(106Hz \- 114Hz\)](https://open.spotify.com/track/749a2IxiF2QIwgSrmbBZ3M) | [Binaural Explorer](https://open.spotify.com/artist/2ZhPgXqdfCoEYgtumgaZ5z) | [Gradual States](https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n) | 3:12 |
-| 79 | [Water \- Alpha Sinus 97Hz \- 104Hz](https://open.spotify.com/track/7HvwaIF3Ip2ZhkCCbhvSGS) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Water \- Alpha Sinus 97Hz \- 104Hz](https://open.spotify.com/album/0Tfxcfud4NpOIj5oUWqZF9) | 2:10 |
+| 79 | [Water](https://open.spotify.com/track/7HvwaIF3Ip2ZhkCCbhvSGS) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Water](https://open.spotify.com/album/0Tfxcfud4NpOIj5oUWqZF9) | 2:10 |
 | 80 | [Binaural Alpha Sinus 142 Hz \- 152 Hz](https://open.spotify.com/track/3zmRndl0TkZRDhdWcYEf7x) | [Mind Mining](https://open.spotify.com/artist/0JM9LBHZ5S6qQMz33Y6NvK) | [Binaural Alpha Sinus 120 Hz \- 128 Hz](https://open.spotify.com/album/4ocuIleKlk4CzPGrzWVqPd) | 2:09 |
 | 81 | [Stingray Alpha Sinus 147Hz \- 159Hz](https://open.spotify.com/track/3XNII7xuI8iShtoFrPAlA8) | [The Sound Around](https://open.spotify.com/artist/27JSYLOZfglXz3hQbeL2Bl) | [Stingray Alpha Sinus 147Hz \- 159Hz](https://open.spotify.com/album/4pBn8DPYc09epRwTuCjYak) | 3:24 |
 | 82 | [Sommernacht \- Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/track/6um6WVJVLw43yxPNtUlsPJ) | [Twinbeet](https://open.spotify.com/artist/5TgC13fERuYwNvHbRSfVGp) | [Morning Binaural](https://open.spotify.com/album/2G0j9ck7PCysNMufYHWCbn) | 2:20 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 137 | [Gamma Waves 89 + 86 hz](https://open.spotify.com/track/1C5ODl6oza5zRbwngivAK8) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Gamma Waves](https://open.spotify.com/album/5Dp0GDyVIllMmM7yys2j3Z) | 3:01 |
 | 138 | [Binaural Gamma Sinus 80 Hz \- 120 Hz](https://open.spotify.com/track/6DLK0gTnZnWa1eh1oiFQri) | [Maroon Skies](https://open.spotify.com/artist/6DbYZxD7WulhTEfLKvm9um) | [Binaural Theta Sinus 95 Hz \- 99 Hz](https://open.spotify.com/album/5kj2Eg808u8lOQiupkWaaU) | 2:24 |
 
-Snapshot ID: `MCxlYmNiOTQyNmE0OTc5YTllNGNlZTJhYWI5OWI0OWU5NzdmM2FkYTUw`
+Snapshot ID: `MCxmOTQ2ZjMxNjhmMTI0YTM3NTBjYTRhODExNWJjMDVmYTFjNTQ3NTlj`

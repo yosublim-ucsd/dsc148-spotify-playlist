@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 188190,
+  "2024-01-31": 188180,
   "date_first_scraped": "2023-07-10",
   "description": "Hora de aumentar o som e cair na \u00e1gua!",
   "name": "Free Surf",
@@ -617,7 +617,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 286950,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/6NTaNlVIeigg3ERXef5wjM"
@@ -1331,7 +1331,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 230250,
       "name": "Surpresa Maior",
       "url": "https://open.spotify.com/track/6YvLJs2eVQMCxBPHAZF7iy"

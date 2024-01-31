@@ -1,12 +1,12 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
-  "num_followers": 544019,
+  "num_followers": 544516,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWY3ODMyM2FkYzNmYjNjOTE1NWQzMjdiOTNhMzA1ZDk1NTQ1Mjdj",
+  "snapshot_id": "MCw0OTA4NGViNmFiZmNlZmJkOWIxYzViOGI5NDM2YjU0ZmUyNGViNDYz",
   "tracks": [
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "JOJO'S BIZARRE ADVENTURE -Golden Wind O.S.T vol.1 Overture",
-        "url": "https://open.spotify.com/album/0SLGYonJPgxa7qRDxqtraX"
-      },
-      "artists": [
-        {
-          "name": "Yugo Kanno",
-          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
-        }
-      ],
-      "duration_ms": 295575,
-      "name": "il vento d'oro",
-      "url": "https://open.spotify.com/track/17VP4tofJ3evJbtY8Tk1Qi"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "Rendezvous",
         "url": "https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 132295,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/7gspVQa13prQbNABCRacwE"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -Golden Wind O.S.T vol.1 Overture",
+        "url": "https://open.spotify.com/album/0SLGYonJPgxa7qRDxqtraX"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "duration_ms": 295575,
+      "name": "il vento d'oro",
+      "url": "https://open.spotify.com/track/17VP4tofJ3evJbtY8Tk1Qi"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "CHAINSAW BLOOD",
-        "url": "https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg"
+        "name": "the WORLD Ruler",
+        "url": "https://open.spotify.com/album/0ckCTCvo6W7poV4HFuUsdU"
       },
       "artists": [
         {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+          "name": "Nightmare",
+          "url": "https://open.spotify.com/artist/11CxpTfZC60MYKjL7HESKR"
         }
       ],
-      "duration_ms": 200997,
-      "name": "CHAINSAW BLOOD",
-      "url": "https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU"
+      "duration_ms": 233200,
+      "name": "the WORLD",
+      "url": "https://open.spotify.com/track/5W53797BOyrbASWrZq24lp"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
+        "name": "CHAINSAW BLOOD",
+        "url": "https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 200997,
+      "name": "CHAINSAW BLOOD",
+      "url": "https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
         "name": "PURE",
         "url": "https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 174893,
       "name": "asphyxia",
       "url": "https://open.spotify.com/track/3f3FDZajRpcLQGln7OZqdi"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
-        "name": "the WORLD Ruler",
-        "url": "https://open.spotify.com/album/0ckCTCvo6W7poV4HFuUsdU"
-      },
-      "artists": [
-        {
-          "name": "Nightmare",
-          "url": "https://open.spotify.com/artist/11CxpTfZC60MYKjL7HESKR"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "the WORLD",
-      "url": "https://open.spotify.com/track/5W53797BOyrbASWrZq24lp"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "\u88f8\u306e\u52c7\u8005",
-        "url": "https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "\u88f8\u306e\u52c7\u8005",
-      "url": "https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "bloom",
         "url": "https://open.spotify.com/album/3M1wHslRzr0CVK4oYyCV0K"
       },
@@ -1295,22 +1279,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "\u708e",
-        "url": "https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY"
-      },
-      "artists": [
-        {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "\u708e",
-      "url": "https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "\u9006\u5149 (\u30a6\u30bf from ONE PIECE FILM RED)",
         "url": "https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564"
       },
@@ -1323,6 +1291,38 @@
       "duration_ms": 237862,
       "name": "\u9006\u5149 - \u30a6\u30bf from ONE PIECE FILM RED",
       "url": "https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "\u88f8\u306e\u52c7\u8005",
+        "url": "https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 201973,
+      "name": "\u88f8\u306e\u52c7\u8005",
+      "url": "https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "\u708e",
+        "url": "https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "\u708e",
+      "url": "https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "\u9320\u5264",
-        "url": "https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH"
-      },
-      "artists": [
-        {
-          "name": "TOOBOE",
-          "url": "https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "\u9320\u5264",
-      "url": "https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "\u6253\u4e0a\u82b1\u706b",
         "url": "https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "BOY",
-        "url": "https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI"
+        "name": "\u9320\u5264",
+        "url": "https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH"
       },
       "artists": [
         {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+          "name": "TOOBOE",
+          "url": "https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN"
         }
       ],
-      "duration_ms": 231385,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID"
+      "duration_ms": 204800,
+      "name": "\u9320\u5264",
+      "url": "https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1591,6 +1575,22 @@
       "duration_ms": 191493,
       "name": "\u30b5\u30e0\u30e9\u30a4\u30cf\u30fc\u30c8(Some Like It Hot!!)",
       "url": "https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 231385,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID"
     },
     {
       "added_at": "2024-01-25 15:00:00",

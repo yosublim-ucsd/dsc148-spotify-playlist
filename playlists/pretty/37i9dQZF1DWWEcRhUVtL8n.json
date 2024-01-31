@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Goth Babe",
-  "num_followers": 1688316,
+  "num_followers": 1688288,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTU0MmYzNzA2MmIwZDZiZjFlMGQ1NzZhNGRiOTJmNThiNGQwMzdh",
+  "snapshot_id": "MCw4NDZlYjFjMDAxODQzYzFmOGY0NWQ3NTU1M2I2ZjQwYzQwYzYxODVh",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1025,6 +1025,22 @@
       "url": "https://open.spotify.com/track/4lSCs7NXjDpMqWiGm4LD0Z"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "It's Ok to Cry",
+        "url": "https://open.spotify.com/album/0xemqy7Lea1gWWxi25Ubzp"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 161726,
+      "name": "It's Ok to Cry",
+      "url": "https://open.spotify.com/track/3LpatCGL0WM7na3JWk1NlY"
+    },
+    {
       "added_at": "2024-01-05 19:31:17",
       "album": {
         "name": "Paint My Bedroom Black",
@@ -1071,6 +1087,26 @@
       "duration_ms": 159477,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI"
+    },
+    {
+      "added_at": "2024-01-29 15:38:21",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/1ZsgV2rrIt0wXzWfaJnMI1"
+      },
+      "artists": [
+        {
+          "name": "Bullion",
+          "url": "https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj"
+        },
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Rare",
+      "url": "https://open.spotify.com/track/41qpL4RAfuPkkQ4bbf7gSu"
     },
     {
       "added_at": "2024-01-05 19:31:17",
@@ -1129,20 +1165,20 @@
       "url": "https://open.spotify.com/track/1Y4TOUS7R9DShEApDbb8Xm"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-01-05 19:31:17",
       "album": {
-        "name": "It's Ok to Cry",
-        "url": "https://open.spotify.com/album/0xemqy7Lea1gWWxi25Ubzp"
+        "name": "Drain Me!",
+        "url": "https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW"
       },
       "artists": [
         {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
         }
       ],
-      "duration_ms": 161726,
-      "name": "It's Ok to Cry",
-      "url": "https://open.spotify.com/track/3LpatCGL0WM7na3JWk1NlY"
+      "duration_ms": 121533,
+      "name": "Drain Me!",
+      "url": "https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL"
     },
     {
       "added_at": "2024-01-05 19:31:17",
@@ -1163,18 +1199,18 @@
     {
       "added_at": "2024-01-05 19:31:17",
       "album": {
-        "name": "Drain Me!",
-        "url": "https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW"
+        "name": "Into Your Room",
+        "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
       },
       "artists": [
         {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 121533,
-      "name": "Drain Me!",
-      "url": "https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL"
+      "duration_ms": 209787,
+      "name": "Into Your Room",
+      "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
     },
     {
       "added_at": "2024-01-05 19:31:17",
@@ -1191,22 +1227,6 @@
       "duration_ms": 148533,
       "name": "i wanna be your right hand",
       "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
-    },
-    {
-      "added_at": "2024-01-05 19:31:17",
-      "album": {
-        "name": "Into Your Room",
-        "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 209787,
-      "name": "Into Your Room",
-      "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
     },
     {
       "added_at": "2024-01-05 19:31:17",
@@ -1257,26 +1277,6 @@
       "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
     },
     {
-      "added_at": "2024-01-29 15:38:21",
-      "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/1ZsgV2rrIt0wXzWfaJnMI1"
-      },
-      "artists": [
-        {
-          "name": "Bullion",
-          "url": "https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj"
-        },
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Rare",
-      "url": "https://open.spotify.com/track/41qpL4RAfuPkkQ4bbf7gSu"
-    },
-    {
       "added_at": "2024-01-05 19:31:17",
       "album": {
         "name": "Lots of Nothing (feat. BENEE)",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-01-05 19:31:17",
       "album": {
+        "name": "Harmony House",
+        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 151266,
+      "name": "Balcony",
+      "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
+    },
+    {
+      "added_at": "2024-01-05 19:31:17",
+      "album": {
         "name": "Backwards",
         "url": "https://open.spotify.com/album/2tB7A3qaM1ld8ZotJnvsAo"
       },
@@ -1335,18 +1351,18 @@
     {
       "added_at": "2024-01-05 19:31:17",
       "album": {
-        "name": "Harmony House",
-        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
+        "name": "I had a beautiful time, now I have to leave",
+        "url": "https://open.spotify.com/album/6uQgWP0yooJzPcr2bYYmrN"
       },
       "artists": [
         {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
         }
       ],
-      "duration_ms": 151266,
-      "name": "Balcony",
-      "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
+      "duration_ms": 149830,
+      "name": "Whatever Comes My Way",
+      "url": "https://open.spotify.com/track/5VjVqlPfslXPqORPGk5HlH"
     },
     {
       "added_at": "2024-01-05 19:31:17",
@@ -1365,20 +1381,20 @@
       "url": "https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz"
     },
     {
-      "added_at": "2024-01-05 19:31:17",
+      "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "I had a beautiful time, now I have to leave",
-        "url": "https://open.spotify.com/album/6uQgWP0yooJzPcr2bYYmrN"
+        "name": "Fred Perry Girl",
+        "url": "https://open.spotify.com/album/29s0Za6wwubjxwHh0PSI4d"
       },
       "artists": [
         {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+          "name": "Andy Goodwin",
+          "url": "https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB"
         }
       ],
-      "duration_ms": 149830,
-      "name": "Whatever Comes My Way",
-      "url": "https://open.spotify.com/track/5VjVqlPfslXPqORPGk5HlH"
+      "duration_ms": 179750,
+      "name": "Fred Perry Girl",
+      "url": "https://open.spotify.com/track/3lcGMZrsd3fqWjcX8Nmkog"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1401,20 +1417,20 @@
       "url": "https://open.spotify.com/track/5X0K7EYfLnoztd4oSwucJv"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2024-01-20 00:58:43",
       "album": {
-        "name": "Fred Perry Girl",
-        "url": "https://open.spotify.com/album/29s0Za6wwubjxwHh0PSI4d"
+        "name": "Rave Angel",
+        "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
       },
       "artists": [
         {
-          "name": "Andy Goodwin",
-          "url": "https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB"
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
         }
       ],
-      "duration_ms": 179750,
-      "name": "Fred Perry Girl",
-      "url": "https://open.spotify.com/track/3lcGMZrsd3fqWjcX8Nmkog"
+      "duration_ms": 199906,
+      "name": "Rave Angel",
+      "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
     },
     {
       "added_at": "2024-01-05 19:31:17",
@@ -1447,22 +1463,6 @@
       "duration_ms": 210306,
       "name": "Un Deux Trois",
       "url": "https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe"
-    },
-    {
-      "added_at": "2024-01-20 00:58:43",
-      "album": {
-        "name": "Rave Angel",
-        "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
-      },
-      "artists": [
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Rave Angel",
-      "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
     },
     {
       "added_at": "2024-01-05 19:31:17",

@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: KALLITECHNIS",
-  "num_followers": 9054,
+  "num_followers": 9065,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTM1MTc4MTRkNGNjMzdmMDRkMzQzZWNhOThkZmQ4MWMzOWNhODAx",
+  "snapshot_id": "MCwxZTM0MjlmNGNiZDYwYTZkZjdmNDY5MTcyZmE3YmI0MjFkZDEzZTlh",
   "tracks": [
     {
       "added_at": "2024-01-26 22:35:23",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-01-26 22:35:23",
       "album": {
-        "name": "Solaris",
-        "url": "https://open.spotify.com/album/2iahJWQ2C6dwPj2oXG37FP"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 169208,
-      "name": "Irrational",
-      "url": "https://open.spotify.com/track/3x0l10FNuvRcdudE36y6XK"
-    },
-    {
-      "added_at": "2024-01-26 22:35:23",
-      "album": {
         "name": "Strange",
         "url": "https://open.spotify.com/album/5wwOyVfErnVEhNXulI4JX3"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 188960,
       "name": "Strange",
       "url": "https://open.spotify.com/track/7Mh8TbrCLjGxkJg5TmlKC3"
+    },
+    {
+      "added_at": "2024-01-26 22:35:23",
+      "album": {
+        "name": "Solaris",
+        "url": "https://open.spotify.com/album/2iahJWQ2C6dwPj2oXG37FP"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 169208,
+      "name": "Irrational",
+      "url": "https://open.spotify.com/track/3x0l10FNuvRcdudE36y6XK"
     },
     {
       "added_at": "2024-01-26 22:35:23",

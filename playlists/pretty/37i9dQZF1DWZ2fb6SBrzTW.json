@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 27230,
+  "num_followers": 27281,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGU2NDBiMjlmYzA1N2U0OWExYzEwZjllODJhMTdmZGYwYTgzODg0",
+  "snapshot_id": "MCxhNzhiMDQ4NTJmM2UxMjgxZjJiY2E5MTc4ZGVhZGFmN2Y2NjQ3MmVm",
   "tracks": [
     {
       "added_at": "2024-01-26 07:51:50",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-01-26 07:51:50",
       "album": {
-        "name": "Gbadun",
-        "url": "https://open.spotify.com/album/0jJ459dzmPpefkVtBf4NNO"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Gbadun",
-      "url": "https://open.spotify.com/track/3MslJj39APOMPzF0ShKa9F"
-    },
-    {
-      "added_at": "2024-01-26 07:51:50",
-      "album": {
         "name": "Colors (My Baby) / Loyal",
         "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 164240,
       "name": "Colors (My Baby)",
       "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
+    },
+    {
+      "added_at": "2024-01-26 07:51:50",
+      "album": {
+        "name": "Gbadun",
+        "url": "https://open.spotify.com/album/0jJ459dzmPpefkVtBf4NNO"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Gbadun",
+      "url": "https://open.spotify.com/track/3MslJj39APOMPzF0ShKa9F"
     },
     {
       "added_at": "2024-01-26 07:51:50",

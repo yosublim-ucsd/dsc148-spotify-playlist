@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 41583,
+  "2024-01-31": 41587,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Iceland.",
   "name": "Top 50 - Iceland",
@@ -1069,7 +1069,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 136346,
       "name": "ALEINN",
       "url": "https://open.spotify.com/track/2EBBCNkrmPM4IagcLa5ysg"
@@ -2035,7 +2035,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 239493,
       "name": "A\u00f0 sumri til",
       "url": "https://open.spotify.com/track/1GixTZnYyMyYe3BSAgfL7l"
@@ -2877,7 +2877,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 244186,
       "name": "Birta",
       "url": "https://open.spotify.com/track/4bmYW9dI5laPfW9sNkiuu9"
@@ -3919,6 +3919,24 @@
       "duration_ms": 146095,
       "name": "B\u00edzt",
       "url": "https://open.spotify.com/track/20ijvajSpMDn6a0ozTdlGu"
+    },
+    {
+      "album": {
+        "name": "S\u00f6ngvakeppnin 2024",
+        "url": "https://open.spotify.com/album/2CpsVSq2J9fxB2drEiBSco"
+      },
+      "artists": [
+        {
+          "name": "V\u00c6B",
+          "url": "https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160858,
+      "name": "B\u00ed\u00f3mynd",
+      "url": "https://open.spotify.com/track/3VL3tWap62d4ZDc1PlQEcI"
     },
     {
       "album": {
@@ -8567,7 +8585,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 135920,
       "name": "Father Stretch My Hands Pt. 1",
       "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
@@ -11623,7 +11641,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
@@ -16152,6 +16170,28 @@
     },
     {
       "album": {
+        "name": "Lied To",
+        "url": "https://open.spotify.com/album/45j2owUeFmOSPMKGI2LQEB"
+      },
+      "artists": [
+        {
+          "name": "One Mojo",
+          "url": "https://open.spotify.com/artist/5nZTxz4JbfIaq4sRMSXaPZ"
+        },
+        {
+          "name": "Sik Jagga",
+          "url": "https://open.spotify.com/artist/5i1fnndn38TVFsoVz4RR8N"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Lied To",
+      "url": "https://open.spotify.com/track/6mC8t1VZq5wyPNRc9Dm2s6"
+    },
+    {
+      "album": {
         "name": "S\u00f6ngvakeppnin 2023",
         "url": "https://open.spotify.com/album/5W1dK6cjGRBQeOF1uQpbMd"
       },
@@ -19015,7 +19055,7 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 185813,
       "name": "My Name",
       "url": "https://open.spotify.com/track/31fpjAsfqRYfvv8rcEelEz"
@@ -26390,6 +26430,24 @@
     },
     {
       "album": {
+        "name": "S\u00f6ngvakeppnin 2024",
+        "url": "https://open.spotify.com/album/2CpsVSq2J9fxB2drEiBSco"
+      },
+      "artists": [
+        {
+          "name": "ANITA",
+          "url": "https://open.spotify.com/artist/6gRZCPQeaEMD0bMJ4BaAkI"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181198,
+      "name": "Stingum af",
+      "url": "https://open.spotify.com/track/5mRekPJH49mEmpgryogt5K"
+    },
+    {
+      "album": {
         "name": "Stj\u00f6rnul\u00edfi\u00f0",
         "url": "https://open.spotify.com/album/0jEfYrVeezQTikNmZTHzQE"
       },
@@ -26419,7 +26477,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
@@ -28071,7 +28129,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -29146,6 +29204,24 @@
     },
     {
       "album": {
+        "name": "S\u00f6ngvakeppnin 2024",
+        "url": "https://open.spotify.com/album/2CpsVSq2J9fxB2drEiBSco"
+      },
+      "artists": [
+        {
+          "name": "Sigga \u00d3zk",
+          "url": "https://open.spotify.com/artist/73J7dlqdZeEGsO1yEU1c47"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163701,
+      "name": "Um allan alheiminn",
+      "url": "https://open.spotify.com/track/4pCEYhbAvqCEgir11nF2HA"
+    },
+    {
+      "album": {
         "name": "Good Girl Gone Bad",
         "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
       },
@@ -29737,6 +29813,24 @@
       "duration_ms": 230899,
       "name": "Vertu ekki a\u00f0 plata mig",
       "url": "https://open.spotify.com/track/79MRngm6Z26a20hEBrJZTP"
+    },
+    {
+      "album": {
+        "name": "S\u00f6ngvakeppnin 2024",
+        "url": "https://open.spotify.com/album/2CpsVSq2J9fxB2drEiBSco"
+      },
+      "artists": [
+        {
+          "name": "Bashar Murad",
+          "url": "https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180813,
+      "name": "Vestri\u00f0 villt",
+      "url": "https://open.spotify.com/track/3onkNwRjtxgTZQ9IIukaEC"
     },
     {
       "album": {
@@ -30944,6 +31038,24 @@
     },
     {
       "album": {
+        "name": "S\u00f6ngvakeppnin 2024",
+        "url": "https://open.spotify.com/album/2CpsVSq2J9fxB2drEiBSco"
+      },
+      "artists": [
+        {
+          "name": "Bashar Murad",
+          "url": "https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180386,
+      "name": "Wild West",
+      "url": "https://open.spotify.com/track/3BK8jSqOlB46o8pP2XYPXh"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -31935,7 +32047,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 257720,
       "name": "\u00c1STIN M\u00cdN REMIX (feat. Floni)",
       "url": "https://open.spotify.com/track/4sI0wnGxTmdQ3DHGqNjfsp"
@@ -32129,7 +32241,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 221600,
       "name": "\u00c6vilangt",
       "url": "https://open.spotify.com/track/4F3R0328kGKMgcYn5SaOAO"

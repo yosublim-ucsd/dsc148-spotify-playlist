@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 663241,
+  "2024-01-31": 663162,
   "date_first_scraped": "2022-05-26",
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
   "name": "chill latino",
@@ -25,6 +25,28 @@
       "duration_ms": 160722,
       "name": "17 (feat. Giulia Be)",
       "url": "https://open.spotify.com/track/6HzoyVSUu5MSYZikhYQ8u7"
+    },
+    {
+      "album": {
+        "name": "1vezmas",
+        "url": "https://open.spotify.com/album/2kHJ8qdYkgRdMJ2uXeQMk1"
+      },
+      "artists": [
+        {
+          "name": "Svarez",
+          "url": "https://open.spotify.com/artist/1CtE7kcqimHMARnwm2Hb23"
+        },
+        {
+          "name": "Choclock",
+          "url": "https://open.spotify.com/artist/1Ixof0imwzqpuV21Ug9pKn"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150717,
+      "name": "1vezmas",
+      "url": "https://open.spotify.com/track/4fyF5S5cnABhKpjycdxGFr"
     },
     {
       "album": {
@@ -875,7 +897,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 260000,
       "name": "Cumbiero",
       "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
@@ -2155,7 +2177,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 170487,
       "name": "Ll\u00e9vate",
       "url": "https://open.spotify.com/track/6cpGWvX109d5I9Cx13sPMy"
@@ -2439,6 +2461,28 @@
       "duration_ms": 261815,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
+    },
+    {
+      "album": {
+        "name": "OCIO",
+        "url": "https://open.spotify.com/album/3v5Dgv8zeXXIX5fRUnC7qV"
+      },
+      "artists": [
+        {
+          "name": "FE7O",
+          "url": "https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL"
+        },
+        {
+          "name": "ONTiNO!",
+          "url": "https://open.spotify.com/artist/1JOzYwryx8bkT2o4RukRJ8"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205773,
+      "name": "MENTE TREN",
+      "url": "https://open.spotify.com/track/6KvP0vPANDvKf9ukERgJI0"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 189692,
+  "num_followers": 189786,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGQzYjVjZmQ4MzA5YTlhOTcyNWFhNGJjNDE3YTYxOGVjYTc1MWY0",
+  "snapshot_id": "MCxhNDE1MjBmMWVkODlhMDgxMGI4NWUwYmZkNDNiMmYzYTI0OWMxYTli",
   "tracks": [
     {
       "added_at": "2023-09-14 10:27:59",
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 189858,
-      "name": "Let Me In (20 CUBE)",
-      "url": "https://open.spotify.com/track/4eOcd47wPU3ixxYw0spREl"
+      "duration_ms": 194220,
+      "name": "10 Months",
+      "url": "https://open.spotify.com/track/3LcFQsZw01tRvjCNLgSmTv"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 194220,
-      "name": "10 Months",
-      "url": "https://open.spotify.com/track/3LcFQsZw01tRvjCNLgSmTv"
+      "duration_ms": 189858,
+      "name": "Let Me In (20 CUBE)",
+      "url": "https://open.spotify.com/track/4eOcd47wPU3ixxYw0spREl"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "WE",
-        "url": "https://open.spotify.com/album/35kSd7Y6cojcwxuW10dOuU"
-      },
-      "artists": [
-        {
-          "name": "WINNER",
-          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
-        }
-      ],
-      "duration_ms": 176906,
-      "name": "AH YEAH",
-      "url": "https://open.spotify.com/track/4Sk31AucPyWuAEztAu2dEA"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "ISLAND",
         "url": "https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 197938,
       "name": "ISLAND",
       "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "WE",
+        "url": "https://open.spotify.com/album/35kSd7Y6cojcwxuW10dOuU"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "duration_ms": 176906,
+      "name": "AH YEAH",
+      "url": "https://open.spotify.com/track/4Sk31AucPyWuAEztAu2dEA"
     },
     {
       "added_at": "2023-09-14 10:27:59",

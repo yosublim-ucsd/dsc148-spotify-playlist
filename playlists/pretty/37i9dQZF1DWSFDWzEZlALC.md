@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: ENNIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,466 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,555 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [BLa\*\_\*](https://open.spotify.com/track/4yzpCGNFvaxrENB5H78uwb) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [BLa\*\_\*](https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK) | 2:27 |
 | 75 | [Es regnet Hirn \(feat\. Paula Carolina\)](https://open.spotify.com/track/02Y7L1qY9Z771QO2w3ubgk) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK), [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Es regnet Hirn \(feat\. Paula Carolina\)](https://open.spotify.com/album/0ip66XV3S8XeOHlqymdX0M) | 3:14 |
 
-Snapshot ID: `MCw2MjllYzI2NmIzZjgzODYyNGQ5MjAzZjE2MTc2MjFlNzIzNDZmYWYz`
+Snapshot ID: `MCxmZGYwNjNkMzA0YjA4NDg1ODA5MGFkMzU1YmEwNTQzNDZhODlmOTFm`

@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 803611,
+  "2024-01-31": 803829,
   "date_first_scraped": "2022-01-09",
   "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Eladio Carri\u00f3n",
   "name": "PEGAO",
@@ -839,6 +839,28 @@
       "duration_ms": 176470,
       "name": "BABY OTAKU",
       "url": "https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ"
+    },
+    {
+      "album": {
+        "name": "La Joia",
+        "url": "https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205706,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/2fgogq2XXlKMm9p6m3akHH"
     },
     {
       "album": {
@@ -6445,7 +6467,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 190496,
       "name": "MODELITO",
       "url": "https://open.spotify.com/track/559YUIWxUc8Mx4lsla13Ff"

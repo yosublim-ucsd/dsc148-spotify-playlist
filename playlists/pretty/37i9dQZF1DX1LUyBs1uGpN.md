@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LUyBs1uGpN.md) - [plain]
 
 > ¡Pura Doble P! Chachaaauuuuuu
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,586 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,187 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LUyBs1uGpN.md) - [plain]
 | 47 | [Con Dinero Baila el Perro](https://open.spotify.com/track/6BLwiPtCG3OxqBpWQitbGR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Efectos Secundarios](https://open.spotify.com/album/1OFfEo5jIQpvjQXD8OFcsx) | 3:45 |
 | 48 | [El Capi](https://open.spotify.com/track/7KHr7EmqGbVIHNhUVogEPw) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Sembrando](https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG) | 3:42 |
 | 49 | [Todo Es Playa](https://open.spotify.com/track/7pnRCKAqERqg6dQRKfZoFm) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Todo Es Playa](https://open.spotify.com/album/3zTdYxlP3AQMBvbLtJQeBE) | 3:48 |
-| 50 | [Los Pixeliados](https://open.spotify.com/track/06l90deFB5B3MY8i2Ud6Yo) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Lalo Reyes](https://open.spotify.com/artist/2uXjfliPmAWgaiY2mSAdnj) | [Ah y Que?](https://open.spotify.com/album/4tO6I5yocnvc0sSkyqyE29) | 3:01 |
+| 50 | [Los Pixeliados](https://open.spotify.com/track/31mO4i9sNzomO0dXfSRvnm) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Lalo Reyes](https://open.spotify.com/artist/2uXjfliPmAWgaiY2mSAdnj) | [Ah Y Que?](https://open.spotify.com/album/6CH5CWXWN2X09u7iNuMGN0) | 3:01 |
 | 51 | [La Pluma de Wax](https://open.spotify.com/track/3df0OA3jp7WbRgbkA4zBN7) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ah y Que?](https://open.spotify.com/album/4tO6I5yocnvc0sSkyqyE29) | 2:14 |
 | 52 | [La Melena](https://open.spotify.com/track/4w5hSBHaXu849xt0g9eeDg) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Efectos Secundarios](https://open.spotify.com/album/1OFfEo5jIQpvjQXD8OFcsx) | 2:55 |
 | 53 | [Un Suspiro \- En Vivo](https://open.spotify.com/track/4E6s2aBCZuoHdo2ADKmX1R) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Disco en Vivo \(En Vivo\)](https://open.spotify.com/album/6GFrP5y4e18yKiRnCnRYom) | 2:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LUyBs1uGpN.md) - [plain]
 | 59 | [El 08 \- En Vivo](https://open.spotify.com/track/4hpYhZhGn6JyUv62qpu2WP) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Disco en Vivo, Vol.2 \(En Vivo\)](https://open.spotify.com/album/38axttNElf1zwOUvInHwpx) | 3:31 |
 | 60 | [Feria en el Sobre](https://open.spotify.com/track/5npAbr2v6wRL75IHWp2Noi) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Feria en el Sobre](https://open.spotify.com/album/23Mm9RJhQPOToWrGdcAmRc) | 3:14 |
 
-Snapshot ID: `MCwwMjA0MTlkYTZiMTg3NTg3MTY3OWVjM2Q2MDJlNjdjOTk2ODY3Njk1`
+Snapshot ID: `MCxmNjM5YmQ0NWZjYzc1NTNjNzZlNzU0M2FmYzQ2ZWZiNTQwY2I4Zjdk`

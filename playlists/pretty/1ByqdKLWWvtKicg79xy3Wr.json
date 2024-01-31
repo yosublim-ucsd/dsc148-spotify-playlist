@@ -6,8 +6,188 @@
     "name": "RDGO",
     "url": "https://open.spotify.com/user/rgonzalez196"
   },
-  "snapshot_id": "MTUyNixhNGQxNGQ5NmU4MTc4YmJmNDBkYmYyNzJmMzFkM2QzN2JkNDg2ODg2",
+  "snapshot_id": "MTUyOCwxNDE2YzI3ZTliOTJiMDhjN2JkNWIxOGRmZjkxYmMzYjExMWE2YjMx",
   "tracks": [
+    {
+      "added_at": "2024-01-30 03:15:41",
+      "album": {
+        "name": "Eyes On Me",
+        "url": "https://open.spotify.com/album/4cwhyVpGVDqVpHrWyWJzbG"
+      },
+      "artists": [
+        {
+          "name": "RDGO",
+          "url": "https://open.spotify.com/artist/6UZEErPAl6SmBfodfX4U8c"
+        }
+      ],
+      "duration_ms": 155098,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/3p4p8CUXlXF0LVbHbpfjgQ"
+    },
+    {
+      "added_at": "2024-01-30 03:15:41",
+      "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        },
+        {
+          "name": "Tom Breu",
+          "url": "https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
+    },
+    {
+      "added_at": "2024-01-30 03:15:41",
+      "album": {
+        "name": "Fakez",
+        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Fakez",
+      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
+    },
+    {
+      "added_at": "2024-01-30 03:15:41",
+      "album": {
+        "name": "BEATS FOR THE UNDERGROUND",
+        "url": "https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 214527,
+      "name": "BEATS FOR THE UNDERGROUND",
+      "url": "https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp"
+    },
+    {
+      "added_at": "2024-01-30 03:15:41",
+      "album": {
+        "name": "ME",
+        "url": "https://open.spotify.com/album/2ABIweWTmeRmUBc73DNiqq"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 214174,
+      "name": "ME",
+      "url": "https://open.spotify.com/track/7dyJugljupi044oQfkrzlc"
+    },
+    {
+      "added_at": "2024-01-30 03:15:41",
+      "album": {
+        "name": "What You Need",
+        "url": "https://open.spotify.com/album/0eL50oLRtvemTHfmruPGCa"
+      },
+      "artists": [
+        {
+          "name": "Duarte",
+          "url": "https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/7FMx7eILF6lnMeyIPLLVlG"
+    },
+    {
+      "added_at": "2024-01-30 03:15:41",
+      "album": {
+        "name": "Felt A Little Like",
+        "url": "https://open.spotify.com/album/0KRqWwLm35hlggcVVUkpu1"
+      },
+      "artists": [
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        },
+        {
+          "name": "Tiffany Aris",
+          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
+        }
+      ],
+      "duration_ms": 217036,
+      "name": "Felt A Little Like",
+      "url": "https://open.spotify.com/track/59UH0rSIE50SCvvj2FNGKv"
+    },
+    {
+      "added_at": "2024-01-30 03:15:41",
+      "album": {
+        "name": "Freak Ya Tail",
+        "url": "https://open.spotify.com/album/1p5aojll9ejIRKVOrs0fYv"
+      },
+      "artists": [
+        {
+          "name": "Rene Amesz",
+          "url": "https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m"
+        },
+        {
+          "name": "Jay Colin",
+          "url": "https://open.spotify.com/artist/3hLsFuuBcVto50AoXympLx"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Freak Ya Tail",
+      "url": "https://open.spotify.com/track/3yEbhEldwdL0jfrqm64x5E"
+    },
+    {
+      "added_at": "2024-01-30 03:15:41",
+      "album": {
+        "name": "Vagabundo EP",
+        "url": "https://open.spotify.com/album/5zkWkBoVykQaHhPlYp4e3B"
+      },
+      "artists": [
+        {
+          "name": "Blackchild (ITA)",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        }
+      ],
+      "duration_ms": 230476,
+      "name": "Vagabundo - Radio Edit",
+      "url": "https://open.spotify.com/track/1qD9iFXixwt9hWz1bxxGVV"
+    },
+    {
+      "added_at": "2024-01-30 03:15:41",
+      "album": {
+        "name": "Shook Pt. 3",
+        "url": "https://open.spotify.com/album/4t1LC2icopXccVIOpSPKZ8"
+      },
+      "artists": [
+        {
+          "name": "Nick Morgan",
+          "url": "https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8"
+        }
+      ],
+      "duration_ms": 422857,
+      "name": "Shook Part 3",
+      "url": "https://open.spotify.com/track/4pMUnltcUJs5tTqkrwuCYE"
+    },
     {
       "added_at": "2024-01-19 17:26:34",
       "album": {

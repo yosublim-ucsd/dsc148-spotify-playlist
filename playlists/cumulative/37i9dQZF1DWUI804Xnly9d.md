@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Anuv Jain
 
-250 songs - 14 hr 6 min
+252 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,8 @@
 | [Ruqsat](https://open.spotify.com/track/3ZSazSSWUTgoPiCtVU9wVz) | [Sanam Malik](https://open.spotify.com/artist/39bDtXEgvPfW2adoyRi4kI) | [Ruqsat](https://open.spotify.com/album/0T6Dy2GvUJFZpOhJ4IxvaE) | 3:39 | 2024-01-08 |  |
 | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/track/7kmKa5Of9dHnCb3zgrUqyA) | [SUKOON](https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe), [Varsha Gaur](https://open.spotify.com/artist/3QQsnfmVSorAOd1njZgys0) | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/album/6sZJobDiQcGBb0iGYsQe5F) | 3:35 | 2023-06-14 | 2023-08-05 |
 | [Saari Umar](https://open.spotify.com/track/2H3Ybag8WuTdoaGVMCDqRl) | [Harish Budhwani](https://open.spotify.com/artist/1Gl7igag9ejxcepMCPDg4H) | [Saari Umar](https://open.spotify.com/album/4CLPALqNL9TZnE3gOIQ3C5) | 4:34 | 2023-05-17 | 2023-06-07 |
+| [Sabse Alag](https://open.spotify.com/track/1E9ePQNracuQS2exzXhFE2) | [Ruhfikra](https://open.spotify.com/artist/0uMRWwTlxDDSK7MAQuKPvY), [Jake Affrunti](https://open.spotify.com/artist/40ND6IHWv2Lm79jvD0envd) | [Sabse Alag](https://open.spotify.com/album/5B8Ej4Lps2p04TwU8nhNFa) | 3:02 | 2024-01-30 |  |
+| [Sach](https://open.spotify.com/track/5W7TjIh32z3p5LpkncXTpb) | [Subhranil Paul](https://open.spotify.com/artist/4EqjmfWeakKJdFZkoZd3vb) | [Sach](https://open.spotify.com/album/2K2cpw3QqOSsf7lDpbbiAz) | 3:59 | 2024-01-30 |  |
 | [SACH HAI NA](https://open.spotify.com/track/2ssugF2K11ALzQ1qMQ5gnC) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Nikhil Shetty](https://open.spotify.com/artist/3C5gNf24feSHYFXXEJWiAJ) | [SACH HAI NA](https://open.spotify.com/album/0u9kVdSsfLepdbAJ0HVaP4) | 4:16 | 2023-07-06 | 2023-09-28 |
 | [Sadgi](https://open.spotify.com/track/0w891ljZDidc50QRARZxL6) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Sadgi](https://open.spotify.com/album/0DfVYUSlcjLDa2eAgJd6RR) | 4:09 | 2023-06-22 | 2023-08-10 |
 | [Sang Tere](https://open.spotify.com/track/5NsEfpHGCMmBS4sANtp5qo) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Rupin Suchak](https://open.spotify.com/artist/1VKnLalQQJZajLYjTyyYnl) | [Sang Tere](https://open.spotify.com/album/1ps7a8LjOyAqQ49OKG46Me) | 2:55 | 2023-11-29 |  |
@@ -213,7 +215,7 @@
 | [Tere Bina](https://open.spotify.com/track/4kJ6jb1QL8vQbkwhNZFsLQ) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Tere Bina](https://open.spotify.com/album/1eZuo2SoysHA1TvBfkRsZA) | 2:49 | 2024-01-19 |  |
 | [Tere Hawaale](https://open.spotify.com/track/1ByVM9F8HeekD3aGXatRWd) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Laal Singh Chaddha](https://open.spotify.com/album/5OLQiL6HaWJl734EqPjoY9) | 5:46 | 2023-05-17 | 2024-01-20 |
 | [Tere Hi Hum](https://open.spotify.com/track/1TkyDEdjiUuYhoMkxdZCiO) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tere Hi Hum](https://open.spotify.com/album/4xOZZmHAlau3WBiH4OPpKD) | 2:57 | 2023-05-17 | 2023-06-20 |
-| [Tere Siva](https://open.spotify.com/track/6z8CuL6ElapwI5zKUFTsj3) | [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z) | [Tere Siva](https://open.spotify.com/album/6ynbNczzqeB7Zf47ghecOJ) | 3:20 | 2023-09-20 |  |
+| [Tere Siva](https://open.spotify.com/track/6z8CuL6ElapwI5zKUFTsj3) | [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z) | [Tere Siva](https://open.spotify.com/album/6ynbNczzqeB7Zf47ghecOJ) | 3:20 | 2023-09-20 | 2024-01-31 |
 | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \- Trending](https://open.spotify.com/track/5nJR43Y1coIT3QPchuCGfw) | [JalRaj](https://open.spotify.com/artist/5fuBZptKdXWB7NLT2eDwaT), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \[Trending\]](https://open.spotify.com/album/2KHpvJmpbbLlWMH1eY1vWh) | 2:56 | 2023-07-14 | 2023-10-05 |
 | [Teri Baaton Mein](https://open.spotify.com/track/5juIfRjWCX15RvLD6AKqWr) | [Praveen Yadav](https://open.spotify.com/artist/0HAgQesj94NOC9MvBrx7zH) | [Teri Baaton Mein](https://open.spotify.com/album/2vd3rMFyrNqTN2cfmHYcAY) | 3:15 | 2023-09-29 |  |
 | [Teri Batein](https://open.spotify.com/track/3u1Tj8Y8W8mNrHnQ85R7C4) | [Karan Thakur](https://open.spotify.com/artist/6BYvKKcLreQSbelHa99O2M) | [Teri Batein](https://open.spotify.com/album/3s4oLqSfB7PwifOkoJ5wpT) | 3:34 | 2024-01-08 |  |
@@ -233,7 +235,7 @@
 | [Tu Jo Paas \(Raw\)](https://open.spotify.com/track/3i8GG9i2cUpNDIitAJ533b) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Tu Jo Paas \(Raw\)](https://open.spotify.com/album/6UUAbYF6ooSr9rqqW7rceU) | 3:34 | 2023-07-07 |  |
 | [Tu Jo Yahan](https://open.spotify.com/track/1fULK4j53eq4WKcf3HM49K) | [Sreejone](https://open.spotify.com/artist/5Gc5Dav4w12nqmXwFce9Ik), [Musiciankur](https://open.spotify.com/artist/7zO6WL2IncO3uF24faEIXo) | [Tu Jo Yahan](https://open.spotify.com/album/3P9fCFad8hbkKU8GXCC4cC) | 3:06 | 2023-07-24 | 2023-12-27 |
 | [Tu Shaam aur Chai](https://open.spotify.com/track/4qpvCNIUdfT2ND2HEisUcZ) | [Shadaab Hashmi](https://open.spotify.com/artist/6yNEY8VOMEzsD2bQZJdqEl) | [Tu Shaam aur Chai](https://open.spotify.com/album/6ozGN0Q1iT85gOGAUw3jQU) | 2:31 | 2023-08-08 | 2023-10-14 |
-| [Tujhsa Koi](https://open.spotify.com/track/6jaqvNjr73noLIQ9kh29uc) | [Tanzeel Khan](https://open.spotify.com/artist/64Bnlany1OG6esdJyOxyey) | [Tujhsa Koi](https://open.spotify.com/album/6lwcv8iowg548rs9MH0v2p) | 2:51 | 2023-09-21 |  |
+| [Tujhsa Koi](https://open.spotify.com/track/6jaqvNjr73noLIQ9kh29uc) | [Tanzeel Khan](https://open.spotify.com/artist/64Bnlany1OG6esdJyOxyey) | [Tujhsa Koi](https://open.spotify.com/album/6lwcv8iowg548rs9MH0v2p) | 2:51 | 2023-09-21 | 2024-01-31 |
 | [Tum Aaye Ho Toh](https://open.spotify.com/track/7d2k1S52ohPqOkw2tcreS4) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rocky Khanna](https://open.spotify.com/artist/706HpBx83UlG2Shf6zTnSC) | [Tum Aaye Ho Toh](https://open.spotify.com/album/0qUCgrLRa9JCNVtxq3frR4) | 4:18 | 2023-12-16 |  |
 | [Tum Aur Main](https://open.spotify.com/track/29O6kviQMumVmWZDO14QSB) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Tum Aur Main](https://open.spotify.com/album/3uP0bCOGPkGSPKzfN3tJyU) | 2:43 | 2023-07-19 | 2023-11-29 |
 | [Tum Jaise Ho](https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tum Jaise Ho](https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0) | 4:10 | 2023-09-22 |  |

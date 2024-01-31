@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Paris Paloma
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,133 likes - 99 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,153 likes - 99 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 19 | [alright \(feat\. The Kid LAROI\)](https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [EKKSTACY](https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC) | 2:09 |
 | 20 | [Untitled](https://open.spotify.com/track/15emae2T8lWbQClJ5m29Nm) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [The Pilgrim, Their God and the King of My Decrepit Mountain](https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb) | 3:33 |
 | 21 | [Football](https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Football](https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h) | 3:24 |
-| 22 | [Albert Road](https://open.spotify.com/track/4kSN9qlyYPDJrs1MHAHJOo) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [Albert Road](https://open.spotify.com/album/1CJgLeEEIjy0mHLC8Gnmr0) | 4:40 |
+| 22 | [Albert Road](https://open.spotify.com/track/5I1qPsmbdT63jOHERgcmgZ) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [Albert Road](https://open.spotify.com/album/4akTOl1OPpSTDAsgtns9cX) | 4:40 |
 | 23 | [Spinning World](https://open.spotify.com/track/5FLBHwlL6VWK6BEQG1RWc2) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Spinning World](https://open.spotify.com/album/29q4TYjLbnSeRbERN3sHeE) | 4:07 |
 | 24 | [That Golden Time](https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6) | 4:50 |
 | 25 | [I Hold Something In My Hand](https://open.spotify.com/track/2BUu1OUVCYGDXyDEF0dQhF) | [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4) | [I Hold Something In My Hand](https://open.spotify.com/album/5kqUxXj0Zwf0V5XIpUEtf6) | 3:04 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 98 | [Dugout](https://open.spotify.com/track/1PIBttOCpRWSYCeJc3cdhc) | [Humane The Moon](https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m) | [Mythomania](https://open.spotify.com/album/3qxzjhDwn0MTFeZmGwjAYV) | 2:00 |
 | 99 | [TREES](https://open.spotify.com/track/1ncnbhT16pKyQV73MK9wHY) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [TREES](https://open.spotify.com/album/6vZAJX21PTGk70FR4IZ7De) | 2:53 |
 
-Snapshot ID: `MCw4YzEzNmNjYTM3ZTA1NWMwNmU3MTc4MTg4OGQ5ZWU0MzNjZDE0NGNh`
+Snapshot ID: `MCw3ZTQxNjViNjZjOGVjNDBlZDVmNWNiZTA3YTgwZjlmYWQ5NzUyMGU3`

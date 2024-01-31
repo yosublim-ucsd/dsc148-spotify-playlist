@@ -1,12 +1,12 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: El Zar ft Zoe Gotusso",
-  "num_followers": 180214,
+  "num_followers": 180236,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2Q5ZWEzYzZiZDVhNmZiMjJlYjNkMjMxMDc5MTZiMjk5NmIwYmQ3",
+  "snapshot_id": "MCxkNmJjM2EzODE4YTNmZGIzMzRmMGMxYTA4NzQ0ZWRmZjJhYjU1NDcx",
   "tracks": [
     {
       "added_at": "2024-01-11 20:32:44",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-01-11 20:32:44",
       "album": {
-        "name": "El Acustico",
-        "url": "https://open.spotify.com/album/2SIzqRpTyyyW61LU3i7WSR"
-      },
-      "artists": [
-        {
-          "name": "Memphis La Blusera",
-          "url": "https://open.spotify.com/artist/55j4xUfI5AATqETp8AnrRp"
-        }
-      ],
-      "duration_ms": 276200,
-      "name": "La \u00daltima L\u00e1grima",
-      "url": "https://open.spotify.com/track/0cHVi2rirbT62DlX3uabke"
-    },
-    {
-      "added_at": "2024-01-11 20:32:44",
-      "album": {
         "name": "Azules Turquesas",
         "url": "https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 183493,
       "name": "Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/3o0XX8BPjhtt1w9rOXhmyN"
+    },
+    {
+      "added_at": "2024-01-11 20:32:44",
+      "album": {
+        "name": "El Acustico",
+        "url": "https://open.spotify.com/album/2SIzqRpTyyyW61LU3i7WSR"
+      },
+      "artists": [
+        {
+          "name": "Memphis La Blusera",
+          "url": "https://open.spotify.com/artist/55j4xUfI5AATqETp8AnrRp"
+        }
+      ],
+      "duration_ms": 276200,
+      "name": "La \u00daltima L\u00e1grima",
+      "url": "https://open.spotify.com/track/0cHVi2rirbT62DlX3uabke"
     },
     {
       "added_at": "2024-01-11 20:32:44",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-01-11 20:32:44",
       "album": {
-        "name": "Amapola del 66",
-        "url": "https://open.spotify.com/album/6folUtOTlV2d6FiczqCGYs"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 160533,
-      "name": "La Flor Azul",
-      "url": "https://open.spotify.com/track/0BRtjY6BHMic4e901yeGil"
-    },
-    {
-      "added_at": "2024-01-11 20:32:44",
-      "album": {
         "name": "Besos, Lim\u00f3n y Miel",
         "url": "https://open.spotify.com/album/7yp09zLBnvbOMaC41E3McT"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 227739,
       "name": "Besos, Lim\u00f3n y Miel",
       "url": "https://open.spotify.com/track/1HKQJgGPPmRYUjMiLyV3Uo"
+    },
+    {
+      "added_at": "2024-01-11 20:32:44",
+      "album": {
+        "name": "Amapola del 66",
+        "url": "https://open.spotify.com/album/6folUtOTlV2d6FiczqCGYs"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 160533,
+      "name": "La Flor Azul",
+      "url": "https://open.spotify.com/track/0BRtjY6BHMic4e901yeGil"
     },
     {
       "added_at": "2024-01-11 20:32:44",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-01-11 20:32:44",
       "album": {
+        "name": "Todas las Flores de Enero",
+        "url": "https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 134888,
+      "name": "Todas las Flores de Enero",
+      "url": "https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x"
+    },
+    {
+      "added_at": "2024-01-11 20:32:44",
+      "album": {
         "name": "Mensajes en el Mar",
         "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 247614,
       "name": "Mensajes en el Mar",
       "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
-    },
-    {
-      "added_at": "2024-01-11 20:32:44",
-      "album": {
-        "name": "Todas las Flores de Enero",
-        "url": "https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 134888,
-      "name": "Todas las Flores de Enero",
-      "url": "https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x"
     },
     {
       "added_at": "2024-01-11 20:32:44",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-01-11 20:32:44",
       "album": {
-        "name": "Nada Tengo",
-        "url": "https://open.spotify.com/album/7i6Tt4suoPjWD8Wb59JdWY"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 272873,
-      "name": "Nada Tengo",
-      "url": "https://open.spotify.com/track/4byXAZwR336SCQ2UfzrNrY"
-    },
-    {
-      "added_at": "2024-01-11 20:32:44",
-      "album": {
         "name": "D\u00e9jame Dejarte Atr\u00e1s",
         "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 204775,
       "name": "D\u00e9jame Dejarte Atr\u00e1s",
       "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
+    },
+    {
+      "added_at": "2024-01-11 20:32:44",
+      "album": {
+        "name": "Nada Tengo",
+        "url": "https://open.spotify.com/album/7i6Tt4suoPjWD8Wb59JdWY"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 272873,
+      "name": "Nada Tengo",
+      "url": "https://open.spotify.com/track/4byXAZwR336SCQ2UfzrNrY"
     },
     {
       "added_at": "2024-01-11 20:32:44",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-01-11 20:32:44",
       "album": {
-        "name": "Las Plantas Crecen",
-        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 115029,
-      "name": "Las Plantas Crecen",
-      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
-    },
-    {
-      "added_at": "2024-01-11 20:32:44",
-      "album": {
         "name": "BIG BANG",
         "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 183131,
       "name": "BIG BANG",
       "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
+    },
+    {
+      "added_at": "2024-01-11 20:32:44",
+      "album": {
+        "name": "Las Plantas Crecen",
+        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 115029,
+      "name": "Las Plantas Crecen",
+      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
     },
     {
       "added_at": "2024-01-11 20:32:44",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-01-11 20:32:44",
       "album": {
-        "name": "AWCH (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 196004,
-      "name": "AWCH - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
-    },
-    {
-      "added_at": "2024-01-11 20:32:44",
-      "album": {
         "name": "Romaphonic Sessions",
         "url": "https://open.spotify.com/album/4WBgkA2GTBT6Vc2Eo7hjpl"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 279994,
       "name": "Paloma - Romaphonic",
       "url": "https://open.spotify.com/track/6zSl32Slcz3R6guCdNIiIF"
+    },
+    {
+      "added_at": "2024-01-11 20:32:44",
+      "album": {
+        "name": "Repuesto de Fe (En Vivo)",
+        "url": "https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Irresponsables - En Vivo",
+      "url": "https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt"
     }
   ],
   "unique_name": "Modo Ac\u00fastico",

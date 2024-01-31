@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 256212,
+  "2024-01-31": 256290,
   "date_first_scraped": "2021-12-21",
   "description": "Buon Appetito!",
   "name": "The Perfect Italian Dinner",
@@ -854,6 +854,40 @@
     },
     {
       "album": {
+        "name": "Luciano Pavarotti - Pavarotti Hits And More",
+        "url": "https://open.spotify.com/album/7B9aczfgqcJ7L7yJX5nvp1"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "David Romano",
+          "url": "https://open.spotify.com/artist/3srYILowq1BvCdlcvuor6x"
+        },
+        {
+          "name": "Orchestra",
+          "url": "https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj"
+        },
+        {
+          "name": "Emerson Buckley",
+          "url": "https://open.spotify.com/artist/12Lx27kM3i0A3gfE9m3Bcc"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89173,
+      "name": "Santa Lucia",
+      "url": "https://open.spotify.com/track/5Aku265rNpCjdDj1bbbHm0"
+    },
+    {
+      "album": {
         "name": "Basta Chiudere Gli Occhi",
         "url": "https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j"
       },
@@ -1231,7 +1265,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 89333,
       "name": "Traditional: Santa Lucia",
       "url": "https://open.spotify.com/track/3uMHUBQ9TyW4QDuTeT7CdR"

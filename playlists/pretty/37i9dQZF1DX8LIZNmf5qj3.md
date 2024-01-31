@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Naomi Sharon
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,909 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,911 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Best Time](https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 1:22 |
 | 50 | [La Perla](https://open.spotify.com/track/3FYDQxyn9OHNAE6CG0iaN2) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [La Perla](https://open.spotify.com/album/6RCfYsD4uwsvyR3NBI80WM) | 2:42 |
 
-Snapshot ID: `MCw0NjgyMjI5MWY4ZDA3ZTg4ZmQwZmFkNmI5MWJiY2ZjZDhiMjU4NWVj`
+Snapshot ID: `MCxkMjI3OWNhMGFmNTE0ODBlMmNkZWYwM2U3YmJlNzViZDEwNGRiNzYx`

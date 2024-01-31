@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Justin Timberlake
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,133 likes - 105 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,139 likes - 105 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Selfish](https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Selfish](https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy) | 3:49 |
 | 2 | [LOCO](https://open.spotify.com/track/1ICsCnsH06jI39jjLQmnxY) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/3kODAAfimujT9QY8PaNgDn) | 2:41 |
-| 3 | [Souvenir](https://open.spotify.com/track/6a20iVTnMEjuLKtOFSUms1) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Unleaded](https://open.spotify.com/artist/3Lfn5Dl1gfkwuLxjVDKaGE) | [Souvenir](https://open.spotify.com/album/6PaR3f33lA3iXdy59U7g2m) | 2:46 |
+| 3 | [Souvenir](https://open.spotify.com/track/6a20iVTnMEjuLKtOFSUms1) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Souvenir](https://open.spotify.com/album/6PaR3f33lA3iXdy59U7g2m) | 2:46 |
 | 4 | [Blue Porsche \(feat\. Niska\)](https://open.spotify.com/track/3gOVMei7c4BD6oIfed24dc) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Blue Porsche \(feat\. Niska\)](https://open.spotify.com/album/3cawKdKtM97thqBmQBuAnN) | 3:06 |
 | 5 | [überall](https://open.spotify.com/track/2xZ6qOGFvlwm4VTlhrErPG) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [überall](https://open.spotify.com/album/4yXkNYJCqvCrtSmcJZunyJ) | 2:30 |
 | 6 | [Beat Of Your Heart](https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Beat Of Your Heart](https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr) | 3:29 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 104 | [Sad Bitch Hotline](https://open.spotify.com/track/5z1NXWneCrAf1bC2PkiKgh) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Sad Bitch Hotline](https://open.spotify.com/album/5IUwOXuaCvYibs2t7S5Ta0) | 2:52 |
 | 105 | [Catching Feelings](https://open.spotify.com/track/6EGAYAiK2k89dKJNKf5avd) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Catching Feelings](https://open.spotify.com/album/2sKFy4cK1BJygH0uFdo92M) | 2:46 |
 
-Snapshot ID: `MCw0ZGNjYmU2MWNhNjhkZDFjODcyZTkwN2VhNjE0OTJlYzQwYWYyNjBj`
+Snapshot ID: `MCxmZTE3NTBlMzc1ZjAwYmRjZjc1MTAzZDBmYjRkMmVkNzg4ZTYzN2Vk`

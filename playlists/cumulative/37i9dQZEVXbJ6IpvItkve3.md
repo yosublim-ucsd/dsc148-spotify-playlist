@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-885 songs - 2 day 1 hr 48 min
+886 songs - 2 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -685,6 +685,7 @@
 | [לשוב הביתה](https://open.spotify.com/track/52n4gF126eIllrGuc9Zus6) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [שטח אפור](https://open.spotify.com/album/6wqHpH5HDBbGleU9BnjFS9) | 3:17 | 2021-03-27\* | 2023-12-25 |
 | [לשטוף את העיניים](https://open.spotify.com/track/17vUXWH5DrZi961ZobcElf) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE), [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 2:24 | 2023-02-23 | 2023-02-26 |
 | [לשטוף את העצב](https://open.spotify.com/track/4cHhUWXkEtSj7kdue9SO5u) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לשטוף את העצב](https://open.spotify.com/album/5FNVYBinYTk1C3HkDkKQb5) | 4:04 | 2024-01-19 |  |
+| [מאושר יותר](https://open.spotify.com/track/7fH0PoOG01JMLKWeHVK9m2) | [שחר סאול](https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE) | [צולל](https://open.spotify.com/album/1EVfOugd52WzgqBmWflmVP) | 2:43 | 2024-01-30 |  |
 | [מאמי](https://open.spotify.com/track/0iTSkLz9biPGVXqTSrkkNd) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [מאמי](https://open.spotify.com/album/75PctryEK8QcxFQyEF37bc) | 2:00 | 2022-12-19 | 2023-04-01 |
 | [מאמי](https://open.spotify.com/track/2gpNRdJs3Sy5GI1G7pTgbZ) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [האמת](https://open.spotify.com/album/2As67LcrZgVdpKqa0YAnSA) | 2:00 | 2023-03-31 | 2023-05-21 |
 | [מבטיח](https://open.spotify.com/track/10Hl2j6T952VAUSQHGLQ04) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 3:06 | 2021-12-07 | 2021-12-11 |
@@ -768,7 +769,7 @@
 | [סטלות](https://open.spotify.com/track/2KBtuxA73fMKyj37wr1XKM) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [סטלות](https://open.spotify.com/album/3zSwmJLTtkEFvtbQP9zeCn) | 3:57 | 2023-08-25 |  |
 | [סיבובים](https://open.spotify.com/track/21qCzrANOK7gB0KPoNE1zP) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [סיבובים](https://open.spotify.com/album/2XvWTVqWWjPXnkAjeH19pK) | 3:05 | 2021-03-27\* | 2021-10-17 |
 | [סיבת הסיבות](https://open.spotify.com/track/6sADtPKtORAMZP3GQhOsHv) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [סיבת הסיבות](https://open.spotify.com/album/7ASExNRuCOLSdRhZukGhl3) | 3:19 | 2021-03-27\* | 2022-10-07 |
-| [סיגליות](https://open.spotify.com/track/3Q6d64XJr20cHQtRd07YGj) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [David Broza](https://open.spotify.com/artist/3BCJyAgxvYyeIjQyoBU8XL) | [סוף העולם](https://open.spotify.com/album/1wkBFAYxB3n1hriR7rAZlT) | 3:34 | 2023-06-15 |  |
+| [סיגליות](https://open.spotify.com/track/3Q6d64XJr20cHQtRd07YGj) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [David Broza](https://open.spotify.com/artist/3BCJyAgxvYyeIjQyoBU8XL) | [סוף העולם](https://open.spotify.com/album/1wkBFAYxB3n1hriR7rAZlT) | 3:34 | 2023-06-15 | 2024-01-31 |
 | [סיוופלה](https://open.spotify.com/track/3xoOOmHo07QA9Q7ng1aplW) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG), [TOX1C](https://open.spotify.com/artist/6Z46xqyaiWM6DMQY3EblAp) | [סיוופלה](https://open.spotify.com/album/7wHnlFe5drIJIPsl9y2qw8) | 2:23 | 2022-11-05 | 2022-12-27 |
 | [סינוס](https://open.spotify.com/track/1iapzOyCCKUSbOnRn92of7) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 0:43 | 2023-12-26 | 2023-12-30 |
 | [סן דייגו](https://open.spotify.com/track/6uWUsqSzbYxGhRJHNI7xPE) | [Elisha Banai](https://open.spotify.com/artist/0Bm0XFIxlatSU7sjwwxrgV) | [Elisha Banai & the Forty Thieves](https://open.spotify.com/album/2Mz2L0lkainrFMsuLlrrxQ) | 3:31 | 2022-09-17 | 2022-09-19 |

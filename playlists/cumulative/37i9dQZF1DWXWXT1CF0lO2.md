@@ -4,7 +4,7 @@
 
 > Ajude seu bebê a adormecer com esta playlist relaxante com as favoritos da Disney.
 
-76 songs - 3 hr 42 min
+77 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Colors Of The Wind](https://open.spotify.com/track/7paiVgZWTXquKHkOAU6mhN) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Princess Lullaby: Soothing Instrumental Lullabies For Little Princesses](https://open.spotify.com/album/3diwNCScanKXsiDgO1Etxn) | 4:48 | 2021-04-26 |  |
 | [Disney Junior Theme Song 2017 Refresh](https://open.spotify.com/track/0W1QZAOadJm7NlEGzFhESf) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:23 | 2021-04-26 |  |
 | [Do You Want to Build a Snowman?](https://open.spotify.com/track/3n1DCR84wibN1QdQ76juzz) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Chill](https://open.spotify.com/album/05m44Fs7YqGLIbsxK3EiqA) | 3:42 | 2021-04-26 |  |
+| [Dos Oruguitas \- Instrumental](https://open.spotify.com/track/0jBBjn0oUN568ohYE3wlLL) | [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:34 | 2024-01-30 |  |
 | [Feed the Birds](https://open.spotify.com/track/6tqTUDiCxsgVENRELmAQQS) | [Robert B\. Sherman](https://open.spotify.com/artist/7n0XJOct9yv45fCWY3t0UJ), [Richard M\. Sherman](https://open.spotify.com/artist/13Namx9iwUl1a57CcELGTb), [Disney String Quartet](https://open.spotify.com/artist/2b602YRyv5MeW9DJPXulEu) | [Classically Disney](https://open.spotify.com/album/0rkBDkzhmUA3CV3DDZuiyN) | 4:21 | 2021-04-26 |  |
 | [Feed the Birds \(Tuppence a Bag\)](https://open.spotify.com/track/3VhOg7rSQkv0VwvX2ZpfDo) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Soothing](https://open.spotify.com/album/1GOlhEiRHg9Y6eL2CKCa5Y) | 5:59 | 2021-04-26 |  |
 | [Going on a Mission](https://open.spotify.com/track/2U40NPBtjoinwsVjoYzRQt) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:24 | 2021-04-26 |  |

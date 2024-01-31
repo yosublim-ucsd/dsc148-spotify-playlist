@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 1238304,
+  "2024-01-31": 1238344,
   "date_first_scraped": "2019-05-26",
   "description": "Relax and unwind with chill, ambient music.",
   "name": "Ambient Relaxation",
@@ -4899,6 +4899,24 @@
       "duration_ms": 109312,
       "name": "Foton",
       "url": "https://open.spotify.com/track/67DTlUlAPqjtNCC7zVdStU"
+    },
+    {
+      "album": {
+        "name": "Foundation",
+        "url": "https://open.spotify.com/album/07XoLy9tPwoHGrweiqjA2Q"
+      },
+      "artists": [
+        {
+          "name": "Matheo Lyon",
+          "url": "https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186387,
+      "name": "Foundation",
+      "url": "https://open.spotify.com/track/15TwhLj4nBzXJ6LNkkMrF2"
     },
     {
       "album": {
@@ -12597,6 +12615,24 @@
       "duration_ms": 231116,
       "name": "Touch of My Soul",
       "url": "https://open.spotify.com/track/7mBZGPbX8nmWRZfhityZda"
+    },
+    {
+      "album": {
+        "name": "Touches",
+        "url": "https://open.spotify.com/album/0gr42nFesHmvHP2rihBldP"
+      },
+      "artists": [
+        {
+          "name": "Somnum Magnam",
+          "url": "https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144750,
+      "name": "Touches",
+      "url": "https://open.spotify.com/track/6KzdWw8Hi1bz1lVw2AXDzb"
     },
     {
       "album": {

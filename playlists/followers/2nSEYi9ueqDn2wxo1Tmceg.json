@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 71250,
+  "2024-01-31": 71192,
   "date_first_scraped": "2022-06-10",
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
   "name": "Domino Sound System",
@@ -9649,6 +9649,32 @@
       "duration_ms": 214575,
       "name": "Palace In My Head",
       "url": "https://open.spotify.com/track/3XXUa6zYeJ7l53goVtH73x"
+    },
+    {
+      "album": {
+        "name": "Palace In My Head (Fred Falke Remix)",
+        "url": "https://open.spotify.com/album/0KmmDNX9lSTwfCoR5ahkvU"
+      },
+      "artists": [
+        {
+          "name": "Jaakko Eino Kalevi",
+          "url": "https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3"
+        },
+        {
+          "name": "Alma Jodorowsky",
+          "url": "https://open.spotify.com/artist/4DBszooKyAkibrGnhMxKqr"
+        },
+        {
+          "name": "Fred Falke",
+          "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310946,
+      "name": "Palace In My Head - Fred Falke Remix",
+      "url": "https://open.spotify.com/track/6NLXQtGnssNEpZMa35juxf"
     },
     {
       "album": {

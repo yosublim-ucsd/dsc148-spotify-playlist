@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:0OQ8y7heASb1vEX5WXvjCr">Aaron Cole</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,671 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,801 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Big Big God \- Extended Version](https://open.spotify.com/track/1z4hjQ1OCC8EaYW1J45LcO) | [Craig Mizell](https://open.spotify.com/artist/1rOY1iw4CvLiLh22QXlO7i), [The Collective](https://open.spotify.com/artist/4VJFjCxnsUyDyHdKGrxJIn), [Detroit Youth Choir](https://open.spotify.com/artist/66FHA5afkqcg2K3Qwd9LaT), [Kevin Stewart](https://open.spotify.com/artist/6NqkRIkLkQMU2ojpWSTBoN), [Leila Taraneh](https://open.spotify.com/artist/7Gv6D9y5s4AaW0thF3f06F) | [Big Big God](https://open.spotify.com/album/1fUMDYlFFUXuBy8BpVwm9D) | 4:52 |
 | 100 | [We Will Sing](https://open.spotify.com/track/1wKpacWkDUIYs3V65A10tQ) | [Chevelle Franklyn](https://open.spotify.com/artist/7mJ39b6DNnEJ263UqTvKmc) | [We Will Sing](https://open.spotify.com/album/2IyqhFOj5Fxhlzb12zXYsD) | 4:51 |
 
-Snapshot ID: `MCw3MzFjNzhlYmQxNmJjMTczZWYxMjg3YjQyNDliYTM4YmU4MWUyZTVl`
+Snapshot ID: `MCw4MTA4NDhlNDZmZDZmZGIwNGFkZDczMjljYTkwY2ZiNTFlMzI2NThl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Marcello Tahitoe
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,694 likes - 102 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,714 likes - 102 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 101 | [Serious](https://open.spotify.com/track/37FxRSxWYJCmuBiF8tOlz4) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Serious](https://open.spotify.com/album/70TgrftyNNx9ksNZp2tGcO) | 3:20 |
 | 102 | [Penantian Panjang](https://open.spotify.com/track/1JMpfWjCxhro8H2nKVrc2z) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c) | [Penantian Panjang](https://open.spotify.com/album/62dDC0wmINdeEJuWE4dHzX) | 4:11 |
 
-Snapshot ID: `MCxhYzY3YjgwZmRiZDYzMzY2NzNjNGZiODRjNjIyZGVjOTE0Mjg5OTVh`
+Snapshot ID: `MCwyOGQxZTc5NTU1Y2QxZWU3YmFiY2MxYzYyMjgzYjA0ZmQwMDYyYmE4`

@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 369432,
+  "2024-01-31": 369456,
   "date_first_scraped": "2023-06-18",
   "description": "The best new songs of the week! Cover: Kobie Dee",
   "name": "New Music Friday AU & NZ",
@@ -19723,10 +19723,32 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 189636,
       "name": "Head Up",
       "url": "https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn"
+    },
+    {
+      "album": {
+        "name": "Head Up",
+        "url": "https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189636,
+      "name": "Head Up",
+      "url": "https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ"
     },
     {
       "album": {
@@ -47405,10 +47427,28 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 141639,
       "name": "Think U The Sh*t (Fart)",
       "url": "https://open.spotify.com/track/5xcj5a0RKC2s5PIs1FcXOu"
+    },
+    {
+      "album": {
+        "name": "Think U The Shit (Fart)",
+        "url": "https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141639,
+      "name": "Think U The Shit (Fart)",
+      "url": "https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR"
     },
     {
       "album": {

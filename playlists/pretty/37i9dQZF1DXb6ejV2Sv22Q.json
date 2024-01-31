@@ -1,12 +1,12 @@
 {
   "description": "\u00bfXD...? \u00bfTe refieres a Magaly Ch\u00e1vez?",
-  "num_followers": 23783,
+  "num_followers": 23830,
   "original_name": "XD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjRjOGRjYmRkMjExNTA3NzdhMTM1ZWEzODE2NTNjYzllZWZlYWVi",
+  "snapshot_id": "MCxkYzQzOThiZDYyZTExOGM0NmRjYzMzZTRkMTdmM2NiOWJhM2EzMGY2",
   "tracks": [
     {
       "added_at": "2024-01-19 06:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
+        "name": "UNDERTALE Soundtrack",
+        "url": "https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z"
+      },
+      "artists": [
+        {
+          "name": "Toby Fox",
+          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
+        }
+      ],
+      "duration_ms": 57818,
+      "name": "Fallen Down",
+      "url": "https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
         "name": "en dormir sin Madrid",
         "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 189901,
       "name": "Milo J: Bzrp Music Sessions, Vol. 57",
       "url": "https://open.spotify.com/track/2QM5gBm9Q8VZ7UamMIMLb1"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
-        "name": "UNDERTALE Soundtrack",
-        "url": "https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z"
-      },
-      "artists": [
-        {
-          "name": "Toby Fox",
-          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
-        }
-      ],
-      "duration_ms": 57818,
-      "name": "Fallen Down",
-      "url": "https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
+        "name": "Kerosene (Slowed)",
+        "url": "https://open.spotify.com/album/1mAU33mqJDs4eekzZAQZvf"
+      },
+      "artists": [
+        {
+          "name": "fam0uz",
+          "url": "https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo"
+        }
+      ],
+      "duration_ms": 142105,
+      "name": "Kerosene - Slowed",
+      "url": "https://open.spotify.com/track/2weO22kObPnyX1jKQStb40"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
         "name": "Inmortales",
         "url": "https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV"
       },
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Kerosene (Slowed)",
-        "url": "https://open.spotify.com/album/1mAU33mqJDs4eekzZAQZvf"
+        "name": "Our Wave Nuestra Ola",
+        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
       },
       "artists": [
         {
-          "name": "fam0uz",
-          "url": "https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo"
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
         }
       ],
-      "duration_ms": 142105,
-      "name": "Kerosene - Slowed",
-      "url": "https://open.spotify.com/track/2weO22kObPnyX1jKQStb40"
+      "duration_ms": 206338,
+      "name": "Que Te Vas",
+      "url": "https://open.spotify.com/track/5YgpBbSqDc50OOVDahLoJZ"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1047,22 +1063,6 @@
       "duration_ms": 148965,
       "name": "Pepper",
       "url": "https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
-        "name": "Our Wave Nuestra Ola",
-        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 206338,
-      "name": "Que Te Vas",
-      "url": "https://open.spotify.com/track/5YgpBbSqDc50OOVDahLoJZ"
     },
     {
       "added_at": "2024-01-19 06:00:00",

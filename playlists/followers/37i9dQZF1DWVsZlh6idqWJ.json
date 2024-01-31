@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 24190,
+  "2024-01-31": 24177,
   "date_first_scraped": "2023-11-27",
   "description": "Holiday bangers + pop bangers = a perfect holiday party!",
   "name": "Holiday Party",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 191937,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
@@ -903,7 +903,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 189753,
       "name": "santa doesn\u2019t know you like i do",
       "url": "https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v"

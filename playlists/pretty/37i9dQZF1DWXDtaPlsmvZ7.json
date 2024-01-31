@@ -1,12 +1,12 @@
 {
   "description": "A mover el cucu con estas cadenciosas versiones cumbiatizadas.",
-  "num_followers": 107748,
+  "num_followers": 107759,
   "original_name": "Cumbia Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTNjOGE3MzAzMzc0NWJjYzE1MDgzYWI1NmM1OTVlODAxMjM4NTZh",
+  "snapshot_id": "MCw4MjA2MDg2YjBlZjg1MjBlZWIxYzQ4MDBkZWQwMWZjODZjZmJhM2Ey",
   "tracks": [
     {
       "added_at": "2023-01-25 00:22:47",
@@ -459,26 +459,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "A2\u00cd 5Uena!, Vol 2",
-        "url": "https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 292338,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/1TyGQ2z0wpmlKybtnTAC4d"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 202226,
       "name": "Dr. Psiquiatra",
       "url": "https://open.spotify.com/track/5XcLKl8fG16ELgk5CpvZLn"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "A2\u00cd 5Uena!, Vol 2",
+        "url": "https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 292338,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/1TyGQ2z0wpmlKybtnTAC4d"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -763,26 +763,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Juntos a la Par",
-        "url": "https://open.spotify.com/album/5BGFvYVx8rdJSAREh6jNCs"
-      },
-      "artists": [
-        {
-          "name": "Daniel Cardozo",
-          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
-        },
-        {
-          "name": "Natalia Corbal\u00e1n",
-          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
-        }
-      ],
-      "duration_ms": 146834,
-      "name": "Juntos a la Par",
-      "url": "https://open.spotify.com/track/259PHSfv5ayeRJNvIjoDr5"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Los Caminos de la Vida",
         "url": "https://open.spotify.com/album/4AOwRkeJSIowptYmRnE3RT"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 221823,
       "name": "Los Caminos de la Vida",
       "url": "https://open.spotify.com/track/7HfBfu8aVH5mz03JPMPpHF"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Juntos a la Par",
+        "url": "https://open.spotify.com/album/5BGFvYVx8rdJSAREh6jNCs"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        },
+        {
+          "name": "Natalia Corbal\u00e1n",
+          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
+        }
+      ],
+      "duration_ms": 146834,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/259PHSfv5ayeRJNvIjoDr5"
     },
     {
       "added_at": "2022-05-06 18:26:25",

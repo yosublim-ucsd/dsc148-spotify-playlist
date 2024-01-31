@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B?si=Mf0WWcWCRnCBrWwOEWZGTQ"> Highlyy </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,017 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,025 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 3 | [Toxic Love Story](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 |
 | 4 | [All In \- Fender Acoustic](https://open.spotify.com/track/0ptUNefO7UXD5tSJv2cjUB) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [All In \(Fender Acoustic\)](https://open.spotify.com/album/28OBI9u2IlOmvZuDU9lNwC) | 3:52 |
 | 5 | [Maria](https://open.spotify.com/track/30nVi5z6ndLqJ8mdw7PX6p) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Maria](https://open.spotify.com/album/28jNjVNo0Sw3D9LWtPwiTF) | 2:59 |
-| 6 | [Undress You \(feat\. Sarkodie\)](https://open.spotify.com/track/6LVuaveD4hazORqbg67C03) | [KJ Spio](https://open.spotify.com/artist/72Rav2u2DeRPJuA44Ng0n0), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Undress You \(feat\. Sarkodie\)](https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO) | 3:33 |
+| 6 | [Undress You](https://open.spotify.com/track/6LVuaveD4hazORqbg67C03) | [KJ Spio](https://open.spotify.com/artist/72Rav2u2DeRPJuA44Ng0n0), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Undress You](https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO) | 3:33 |
 | 7 | [Jara](https://open.spotify.com/track/4Kp8RzMUbGSEkjrElCRgww) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jara](https://open.spotify.com/album/6vda4JDcL24Ango61D6jGU) | 2:40 |
 | 8 | [7 in the Morning](https://open.spotify.com/track/1ECMAbJySsfImTUuDRj9J7) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [7 in the Morning](https://open.spotify.com/album/33HDZIBuxNPHLvSB8Rs9L7) | 3:34 |
 | 9 | [Falling Again](https://open.spotify.com/track/6d6v4qRPqlf3C6yTWLPOCj) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Before the Sun Comes Down](https://open.spotify.com/album/0rLkSDDGpI42RBMc7QaP1I) | 2:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [DIIISAPPEAR](https://open.spotify.com/track/5m6xEduQ35dXndkEnHcneo) | [Joyce Olong](https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj) | [DIIISAPPEAR](https://open.spotify.com/album/4Ykqzp0X4dgI8iGpMUeQAl) | 3:16 |
 | 80 | [Temptation \(Crazy\)](https://open.spotify.com/track/17dakSfRLaNL4T8GbqakLi) | [Di'Ja](https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd), [Lyandra](https://open.spotify.com/artist/5QD1WYJJuEmR4i1zjYeEq2) | [Aphropop Vol.2](https://open.spotify.com/album/6B62GpntVq9fI3EXBd9byX) | 2:36 |
 
-Snapshot ID: `MCwyNjNkNDhmZjFjMWMzZjZlNWFmNDlhMmVjODkzM2ZiOGVjODM5OTkz`
+Snapshot ID: `MCw3YTdhNGY3YjI2NTJkNTYwZGU4ZGIwNDUzMTJhZDllZTY0ZTZjM2M5`

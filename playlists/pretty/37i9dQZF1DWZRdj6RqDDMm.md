@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj?si=UC5GokWQQZObai5SqjeeTA">Sinmidele</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,743 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,785 likes - 70 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 69 | [Your Baby \(Paruto Sessions\)](https://open.spotify.com/track/4WDoX23maQicnPqtkXfDmo) | [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Your Baby \(Paruto Sessions\)](https://open.spotify.com/album/3QBGaUringEPS3uOK6uqwI) | 3:34 |
 | 70 | [Able](https://open.spotify.com/track/6ke0delRcd6LPpRb1yxY3G) | [JhonforChrist](https://open.spotify.com/artist/3nuMqFQqdHeM5cldILRXDR), [HartlhaD](https://open.spotify.com/artist/6Yk7U5v34wKHuGQFdT0aAy) | [Able](https://open.spotify.com/album/1fDflEHY7Tc8MSJClipYmQ) | 2:45 |
 
-Snapshot ID: `MCw3NWY2NWM5OWVhOTA2YWJkMjVjODA5ZTVmMDY2ZDAxODJiNTc1YzQ2`
+Snapshot ID: `MCwyNmM3MGM2MDk2NGViOTJhZjk1MWNiYmIyOGZmYTk5N2JmMWI5YWUz`

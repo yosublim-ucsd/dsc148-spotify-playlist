@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 64729,
+  "num_followers": 64728,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDA5ODUyNTIyZjc4MjQ5YjEyM2VjZmY4ZWY0NmQ3NWM5MDk0MjY3",
+  "snapshot_id": "MCw0YzRjNTIzYTUxYTk2NWI4OWIyZWZkMTlmZDg1YmE1OThjYTEyYTU3",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -715,6 +715,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Odessey and Oracle",
+        "url": "https://open.spotify.com/album/6ToVzL6h7HnatpBcOF0fH5"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "duration_ms": 214040,
+      "name": "Time of the Season - Mono Version",
+      "url": "https://open.spotify.com/track/6ub8sQIKHkyYK4KlB9gbxh"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Zenyatta Mondatta (Remastered 2003)",
         "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 256362,
       "name": "Gostava Tanto De Voc\u00ea",
       "url": "https://open.spotify.com/track/6eDMElxeeKXs4DHTb0dGP0"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Odessey and Oracle",
-        "url": "https://open.spotify.com/album/6ToVzL6h7HnatpBcOF0fH5"
-      },
-      "artists": [
-        {
-          "name": "The Zombies",
-          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
-        }
-      ],
-      "duration_ms": 214040,
-      "name": "Time of the Season - Mono Version",
-      "url": "https://open.spotify.com/track/6ub8sQIKHkyYK4KlB9gbxh"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "No Pagode",
-        "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "Coisinha do Pai",
-      "url": "https://open.spotify.com/track/0QSFBx4LlChEpPlzPLChNJ"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Chico 50 Anos - O Trovador",
         "url": "https://open.spotify.com/album/0D3mPnL97GSsO21X6BD7XV"
       },
@@ -1151,18 +1135,34 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
+        "name": "No Pagode",
+        "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
       },
       "artists": [
         {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
         }
       ],
-      "duration_ms": 270690,
-      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
+      "duration_ms": 174866,
+      "name": "Coisinha do Pai",
+      "url": "https://open.spotify.com/track/0QSFBx4LlChEpPlzPLChNJ"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Abbey Road (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 185706,
+      "name": "Here Comes The Sun - 2019 Mix",
+      "url": "https://open.spotify.com/track/3CPFHaVEHkkH26hAEPgMMp"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Abbey Road (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c"
+        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
         }
       ],
-      "duration_ms": 185706,
-      "name": "Here Comes The Sun - 2019 Mix",
-      "url": "https://open.spotify.com/track/3CPFHaVEHkkH26hAEPgMMp"
+      "duration_ms": 270690,
+      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1461,22 +1461,6 @@
       "url": "https://open.spotify.com/track/0by19mYM0du6rkzugAogN9"
     },
     {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Brazil Classics 4: The Best of Tom Z\u00e9",
-        "url": "https://open.spotify.com/album/5EatIo50si8CoN3ARke59W"
-      },
-      "artists": [
-        {
-          "name": "Tom Z\u00e9",
-          "url": "https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27"
-        }
-      ],
-      "duration_ms": 142640,
-      "name": "Vai (Menina Amanh\u00e3 de Manh\u00e3)",
-      "url": "https://open.spotify.com/track/5tt394udRU89Pn2s3qPGaQ"
-    },
-    {
       "added_at": "2022-06-07 14:45:28",
       "album": {
         "name": "Nossa Hist\u00f3ria (Ao Vivo)",
@@ -1491,6 +1475,22 @@
       "duration_ms": 199754,
       "name": "N\u00e3o D\u00e1 Pra N\u00e3o Pensar - Ao Vivo",
       "url": "https://open.spotify.com/track/1bWJPIOQXBcIl5GKuElFap"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Brazil Classics 4: The Best of Tom Z\u00e9",
+        "url": "https://open.spotify.com/album/5EatIo50si8CoN3ARke59W"
+      },
+      "artists": [
+        {
+          "name": "Tom Z\u00e9",
+          "url": "https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27"
+        }
+      ],
+      "duration_ms": 142640,
+      "name": "Vai (Menina Amanh\u00e3 de Manh\u00e3)",
+      "url": "https://open.spotify.com/track/5tt394udRU89Pn2s3qPGaQ"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1609,22 +1609,6 @@
       "url": "https://open.spotify.com/track/7A8i85wc0cQzbDTHLlkh2O"
     },
     {
-      "added_at": "2022-06-07 14:45:28",
-      "album": {
-        "name": "Nossa Hist\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx"
-      },
-      "artists": [
-        {
-          "name": "Sandy e Junior",
-          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
-        }
-      ],
-      "duration_ms": 222849,
-      "name": "Quando Voc\u00ea Passa (Turu Turu) - Ao Vivo",
-      "url": "https://open.spotify.com/track/59otIBHIQRlIQdo41EwQIi"
-    },
-    {
       "added_at": "2021-08-18 22:14:03",
       "album": {
         "name": "Personalidade",
@@ -1639,6 +1623,22 @@
       "duration_ms": 256626,
       "name": "Aquarela",
       "url": "https://open.spotify.com/track/5iPTYBZyOEleyWkE7NTYCc"
+    },
+    {
+      "added_at": "2022-06-07 14:45:28",
+      "album": {
+        "name": "Nossa Hist\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx"
+      },
+      "artists": [
+        {
+          "name": "Sandy e Junior",
+          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
+        }
+      ],
+      "duration_ms": 222849,
+      "name": "Quando Voc\u00ea Passa (Turu Turu) - Ao Vivo",
+      "url": "https://open.spotify.com/track/59otIBHIQRlIQdo41EwQIi"
     },
     {
       "added_at": "2021-08-18 22:14:03",

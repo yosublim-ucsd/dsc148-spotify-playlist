@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH?si=tvOkEkbvR9O860WtFUOgJQ>Greatman Takit</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,930 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,960 likes - 99 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 90 | [E Don Be](https://open.spotify.com/track/0qdcTI7QFmCyU630Wpifh6) | [Mr\. Chubby](https://open.spotify.com/artist/4Ypg8FneW2SyS16HbnzLXd), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO) | [E Don Be](https://open.spotify.com/album/75odqxGLgWKCz8dRdx1dqy) | 2:44 |
 | 91 | [Holy Spirit](https://open.spotify.com/track/0vdwSEcvTdrbfa58Q9RR7r) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Worship SZN](https://open.spotify.com/album/1SvsQPNDkO6zaFmFrSp6EI) | 7:29 |
 | 92 | [Weminana](https://open.spotify.com/track/3Z6ou6Y57SY3jKtez2A9wP) | [Cleo Arie](https://open.spotify.com/artist/3kPnhC2DzfytfKwustsyqK) | [Weminana](https://open.spotify.com/album/7fXCGlRwI9fzWtmwjQRSwD) | 3:19 |
-| 93 | [Your Mercies](https://open.spotify.com/track/5JUVnZgo4FtVE4C2UlhIAH) | [Nsikan Louis](https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B) | [Your Mercies](https://open.spotify.com/album/2Ml0WKFkZ7TqCW52vDGGzr) | 5:18 |
-| 94 | [Inumidun](https://open.spotify.com/track/4EOl9JwjmLZdoOiG77H44l) | [Marc Odiba](https://open.spotify.com/artist/68Qg2lgmOoVAXCVSrB2H0T), [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [Inumidun](https://open.spotify.com/album/1kSdrPqNHtHiMHd1YrQu1K) | 2:55 |
-| 95 | [Abba](https://open.spotify.com/track/436RUMFlkQJEv9OLRjHs8N) | [OGmusic](https://open.spotify.com/artist/7bkAd1Exm8lAv2ZoiIhxZl) | [Abba](https://open.spotify.com/album/1f85dMqrrsIgStz89lH5tm) | 2:32 |
-| 96 | [Toxic](https://open.spotify.com/track/1aTAnmQGXqz82RXhoLBSsQ) | [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI) | [Toxic](https://open.spotify.com/album/2WGaiKFPFEat303TwLbuUt) | 2:40 |
-| 97 | [Wavy](https://open.spotify.com/track/61hTCLVKXkvxQKRiTFOwd1) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Wavy](https://open.spotify.com/album/6eqCJGPpG3ShFA5WSXQlKg) | 2:44 |
-| 98 | [Adore](https://open.spotify.com/track/41Sx5h2JMBtJCzmVrZa37N) | [Eri Ife](https://open.spotify.com/artist/73HQr5WapR3nN1hP2ZTDJg) | [Adore](https://open.spotify.com/album/6pHfGYatGyommg0aCdM4Vn) | 3:31 |
-| 99 | [2rue love Refix](https://open.spotify.com/track/5kv3dukuvZdnZ7dgF5cM1s) | [Shadrach SBS](https://open.spotify.com/artist/2eKjftX5gKorRAzO2ECBtb) | [2rue love Refix](https://open.spotify.com/album/147BH1EIfsb9OVtu9g3waH) | 1:46 |
-| 100 | [You're Calling](https://open.spotify.com/track/6skQtYU6ybEhlzxAxDtJd2) | [Naje Busia](https://open.spotify.com/artist/4mg6KKHgOCPcHxNCr2CiaE), [Yolanda\-Marie](https://open.spotify.com/artist/30EoQ26SvJIk9hgGSGqVhQ) | [You're Calling](https://open.spotify.com/album/6CZtNsduMqIrS5l7JD59oZ) | 3:17 |
+| 93 | [Inumidun](https://open.spotify.com/track/4EOl9JwjmLZdoOiG77H44l) | [Marc Odiba](https://open.spotify.com/artist/68Qg2lgmOoVAXCVSrB2H0T), [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [Inumidun](https://open.spotify.com/album/1kSdrPqNHtHiMHd1YrQu1K) | 2:55 |
+| 94 | [Abba](https://open.spotify.com/track/436RUMFlkQJEv9OLRjHs8N) | [OGmusic](https://open.spotify.com/artist/7bkAd1Exm8lAv2ZoiIhxZl) | [Abba](https://open.spotify.com/album/1f85dMqrrsIgStz89lH5tm) | 2:32 |
+| 95 | [Toxic](https://open.spotify.com/track/1aTAnmQGXqz82RXhoLBSsQ) | [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI) | [Toxic](https://open.spotify.com/album/2WGaiKFPFEat303TwLbuUt) | 2:40 |
+| 96 | [Wavy](https://open.spotify.com/track/61hTCLVKXkvxQKRiTFOwd1) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Wavy](https://open.spotify.com/album/6eqCJGPpG3ShFA5WSXQlKg) | 2:44 |
+| 97 | [Adore](https://open.spotify.com/track/41Sx5h2JMBtJCzmVrZa37N) | [Eri Ife](https://open.spotify.com/artist/73HQr5WapR3nN1hP2ZTDJg) | [Adore](https://open.spotify.com/album/6pHfGYatGyommg0aCdM4Vn) | 3:31 |
+| 98 | [2rue love Refix](https://open.spotify.com/track/5kv3dukuvZdnZ7dgF5cM1s) | [Shadrach SBS](https://open.spotify.com/artist/2eKjftX5gKorRAzO2ECBtb) | [2rue love Refix](https://open.spotify.com/album/147BH1EIfsb9OVtu9g3waH) | 1:46 |
+| 99 | [You're Calling](https://open.spotify.com/track/6skQtYU6ybEhlzxAxDtJd2) | [Naje Busia](https://open.spotify.com/artist/4mg6KKHgOCPcHxNCr2CiaE), [Yolanda\-Marie](https://open.spotify.com/artist/30EoQ26SvJIk9hgGSGqVhQ) | [You're Calling](https://open.spotify.com/album/6CZtNsduMqIrS5l7JD59oZ) | 3:17 |
 
-Snapshot ID: `MCxlZDk3MmNhOWFlZjdhMjQzN2MyM2RlMmFmOWI4NDhhMmI4ODhkNzli`
+Snapshot ID: `MCw5N2QyZTBhNGIyMWI1YjNjMjE3OWY1Njc2MjE3OWE5ZDk1M2NkNjlj`

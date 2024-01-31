@@ -4,7 +4,7 @@
 
 > Find the path back to an era of enlightenment.
 
-126 songs - 14 hr 44 min
+127 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Ancient Leaves](https://open.spotify.com/track/2DmQQYVJwZl9Bb83bDJIzM) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Collected Ambient & Textural Works 1977\-1987](https://open.spotify.com/album/4ACAUURTiEs4lsnHL3em0x) | 4:35 | 2023-08-18 |  |
 | [Ancient Stars](https://open.spotify.com/track/1k5jE8g4ap9J78p0gH05rL) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D) | [Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961\-88](https://open.spotify.com/album/59fEhSfVSCMoTRMzgxbNZ0) | 6:18 | 2021-10-27 | 2023-04-30 |
 | [Ancient Stars](https://open.spotify.com/track/51FhufhhSOomobcXxra7El) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D) | [Galaxies](https://open.spotify.com/album/5C2KZNpYwgGGUfKqsCxxZ2) | 6:22 | 2022-10-04 | 2024-01-14 |
+| [Ancient Stars](https://open.spotify.com/track/7IzQZHK9TWH9YCE1HY87cX) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D) | [Galaxies](https://open.spotify.com/album/1RD4b4SZU8Zu3dWaP406AJ) | 6:22 | 2023-08-18 |  |
 | [Arrival \- Remastered](https://open.spotify.com/track/3Cl55s20Th5GHbu56Sltz7) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 5:48 | 2021-10-27 |  |
 | [Aurora](https://open.spotify.com/track/21gXtkGSaX27wcqtbams4W) | [Cusco](https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f) | [Cool Islands](https://open.spotify.com/album/5kI360nRgdmq6ZBfZRX945) | 3:13 | 2021-10-27 |  |
 | [Be\-Muse\-Ment](https://open.spotify.com/track/7i0FCzocEPAHLH7SXzsRga) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k), [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Spectrum Suite 45th Anniversary Collector's Edition](https://open.spotify.com/album/72HoejPQ2TFUuqupsbqf21) | 4:33 | 2021-10-27 |  |
@@ -75,7 +76,7 @@
 | [Meditation: I\. Part I](https://open.spotify.com/track/3jmVssDLvTVSRTVZQzCZcW) | [Eberhard Schoener](https://open.spotify.com/artist/4qJqNV3gKCl9cgitoUPujz) | [Schoener, Eberhard: Meditation](https://open.spotify.com/album/3YUWFn0j9YmB8BQjMUvAlb) | 17:29 | 2021-10-27 |  |
 | [Metropolis](https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Ages](https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX) | 11:12 | 2021-10-27 |  |
 | [Midnight On Mars](https://open.spotify.com/track/5rVFG1UpzRO70YGdu634cK) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:56 | 2021-10-27 |  |
-| [Mirador](https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP) | [Bernard Xolotl](https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e) | [Procession](https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3) | 15:36 | 2021-10-27 |  |
+| [Mirador](https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP) | [Bernard Xolotl](https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e) | [Procession](https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3) | 15:36 | 2021-10-27 | 2024-01-31 |
 | [Moments In Love](https://open.spotify.com/track/2bsczk82MWGPmTbe6IWYsa) | [The Art Of Noise](https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU) | [\(Who's Afraid Of\) The Art Of Noise? \[Remastered\]](https://open.spotify.com/album/1l2IntFpOvhD4wdolquWNR) | 10:15 | 2021-10-27 |  |
 | [Movements Of A Visionary \- Remastered 2018](https://open.spotify.com/track/76lbYpKnn31T0nnRs5AZXs) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Phaedra \(Deluxe Version\)](https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n) | 7:57 | 2021-10-27 |  |
 | [Mumtaz Mahal](https://open.spotify.com/track/5B081R4ZB10dcY1w9sGcCq) | [Paul Horn](https://open.spotify.com/artist/1LI9iEq0loU9cdIa1dxVDj) | [Inside The Taj Mahal](https://open.spotify.com/album/5CI3eqdKUPVR2nB32qGgUP) | 3:24 | 2021-10-27 |  |

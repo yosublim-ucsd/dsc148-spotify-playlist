@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 211764,
+  "2024-01-31": 211760,
   "date_first_scraped": "2021-12-21",
   "description": "make it pop! cover: iamnotshane",
   "name": "soda",
@@ -5929,6 +5929,24 @@
       "duration_ms": 124861,
       "name": "Home",
       "url": "https://open.spotify.com/track/1XdZpce5hIRfdh41JGZU7B"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
     },
     {
       "album": {
@@ -13269,7 +13287,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 127204,
       "name": "Sweet Moment",
       "url": "https://open.spotify.com/track/3C29msNvApwxpOxhuqD2rX"

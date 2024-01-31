@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 6388,
+  "2024-01-31": 6420,
   "date_first_scraped": "2023-05-19",
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sanathan Shree Krishnan",
   "name": "RADAR Tamil",
@@ -1765,7 +1765,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 209285,
       "name": "Karupalagi",
       "url": "https://open.spotify.com/track/5WbO7n09uccYyjhF510EKz"
@@ -3053,7 +3053,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 146203,
       "name": "Pozhudhugal",
       "url": "https://open.spotify.com/track/5AzjLBpTMQAVolbzZ5dzJH"
@@ -3141,6 +3141,32 @@
       "duration_ms": 208275,
       "name": "Rain Rain Poi Thola",
       "url": "https://open.spotify.com/track/7Du7gAbZm9g9iyJsFpKLGG"
+    },
+    {
+      "album": {
+        "name": "Ranganaa",
+        "url": "https://open.spotify.com/album/7Abooc4IFECT3bOeejP6eB"
+      },
+      "artists": [
+        {
+          "name": "Jo",
+          "url": "https://open.spotify.com/artist/7rTuLzJBUcmKeqfqxuhv94"
+        },
+        {
+          "name": "Kavindya Adikari",
+          "url": "https://open.spotify.com/artist/7qionbkzGDNdQeqwBExzqB"
+        },
+        {
+          "name": "Cozzy",
+          "url": "https://open.spotify.com/artist/5wbotL8r54GNzca15JjKa5"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202421,
+      "name": "Ranganaa",
+      "url": "https://open.spotify.com/track/43IUMVJK6qYgjq5dPzUO8j"
     },
     {
       "album": {
@@ -4107,7 +4133,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-30",
       "duration_ms": 121874,
       "name": "Valithathey",
       "url": "https://open.spotify.com/track/3sKdK2a0Arlv0KC0BEorQl"
@@ -4371,6 +4397,24 @@
       "duration_ms": 289083,
       "name": "Yendrum",
       "url": "https://open.spotify.com/track/2a7RHJyHZmgarjTvgAW1rQ"
+    },
+    {
+      "album": {
+        "name": "Yugam Thaandi",
+        "url": "https://open.spotify.com/album/2vwEDGIloo1geXcnCBcPbs"
+      },
+      "artists": [
+        {
+          "name": "Stefan Packianathan",
+          "url": "https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242625,
+      "name": "Yugam Thaandi",
+      "url": "https://open.spotify.com/track/1vipkTlGAOLkWzPhjheXFj"
     },
     {
       "album": {

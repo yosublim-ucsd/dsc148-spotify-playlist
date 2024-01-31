@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 1,
+  "2024-01-31": 1,
   "date_first_scraped": "2023-02-09",
   "description": "",
   "name": "main ",
@@ -5886,6 +5886,24 @@
     },
     {
       "album": {
+        "name": "Flygod Is An Awesome God",
+        "url": "https://open.spotify.com/album/2JUpGYRkV6ymlDOX7UFTL7"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211983,
+      "name": "Lunchin",
+      "url": "https://open.spotify.com/track/2jIU2VR6uIKBCJCpFi3aL4"
+    },
+    {
+      "album": {
         "name": "Lunchroom (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/31O75v8ASWvNeUYCMBlYvN"
       },
@@ -10897,6 +10915,24 @@
       "duration_ms": 216884,
       "name": "WHAT A DAY",
       "url": "https://open.spotify.com/track/3v3gyQkwRQGwDUZ7V2q2lF"
+    },
+    {
+      "album": {
+        "name": "What Am I To Do",
+        "url": "https://open.spotify.com/album/3dyRrIw0NzRFi26EwfZo6V"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175609,
+      "name": "What Am I To Do",
+      "url": "https://open.spotify.com/track/4TXPbHOeQE0Az7T71uybPu"
     },
     {
       "album": {

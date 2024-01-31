@@ -4,7 +4,7 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-68 songs - 5 hr 9 min
+69 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [うっせぇわ \- Piano Ver.](https://open.spotify.com/track/2ui683JiJBmZSiZvm0KBZx) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [レディメイド](https://open.spotify.com/album/7hy4zddDO6zOMQxRipqQry) | 3:43 | 2022-10-09 |  |
 | [アタシは問題作](https://open.spotify.com/track/2CzFckH57NqbC4n0VZDLLB) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [アタシは問題作](https://open.spotify.com/album/21iY3NVr5gHtQ3qxLXFWOl) | 3:14 | 2023-02-19 | 2023-02-21 |
 | [コールボーイ](https://open.spotify.com/track/6vdtMuSOG9chmNbGvmkmjz) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado/PARED/まひる/ゆっけ presents PALETTE4](https://open.spotify.com/album/5N3pr0Jv026t7JwI3u86lt) | 3:29 | 2022-10-09 |  |
+| [ショコラカタブラ](https://open.spotify.com/track/5tDluNOXu6r7z7u9NKjPCt) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ショコラカタブラ](https://open.spotify.com/album/0bHJgay2GTCHvSgaq6xtYM) | 3:03 | 2024-01-30 |  |
 | [フールフールフール](https://open.spotify.com/track/7dObELU1sPaGTfbQWZILcR) | [おくのほそみち](https://open.spotify.com/artist/6JGvjK1tVqPt9KrvNuUQLl), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [フールフールフール](https://open.spotify.com/album/3ZxZh1qFViq0igteZ5y7Cb) | 3:13 | 2022-10-09 |  |
 | [会いたくて \- Piano & Strings Ver.](https://open.spotify.com/track/3gd4Ux9wShJxx4EnnnUipR) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [会いたくて \(Piano & Strings Ver.\)](https://open.spotify.com/album/7cdfYFwm3pvb23U6FOOyXM) | 5:24 | 2022-10-09 |  |
 | [唱](https://open.spotify.com/track/2tlOVDJ3lQsUxz22vPJ4c4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [唱](https://open.spotify.com/album/18jn1n7WP5aYQcJORKwTxp) | 3:09 | 2023-09-05 | 2023-09-09 |

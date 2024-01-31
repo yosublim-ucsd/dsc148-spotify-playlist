@@ -185,6 +185,28 @@
     },
     {
       "album": {
+        "name": "A Mountain is an Ancestor",
+        "url": "https://open.spotify.com/album/0PryKA5f9QsAc6aoUai98y"
+      },
+      "artists": [
+        {
+          "name": "Pan-American",
+          "url": "https://open.spotify.com/artist/7idm1Z2kk9ffIobkLlZ2Ds"
+        },
+        {
+          "name": "Kramer",
+          "url": "https://open.spotify.com/artist/1jacVtMSOup3dqdSEeegZg"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231219,
+      "name": "A Mountain is an Ancestor",
+      "url": "https://open.spotify.com/track/76ibv2JcIKrKWgMs1vHo1f"
+    },
+    {
+      "album": {
         "name": "A New Day",
         "url": "https://open.spotify.com/album/3duG9vrpxecZceRKXBqc7M"
       },
@@ -1320,7 +1342,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 188697,
       "name": "Gradual of Image",
       "url": "https://open.spotify.com/track/5m2Tets6QqS5IMuL0v8pf4"

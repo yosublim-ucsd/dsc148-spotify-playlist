@@ -1,5 +1,5 @@
 {
-  "2024-01-30": 48600,
+  "2024-01-31": 48643,
   "date_first_scraped": "2022-08-18",
   "description": "Relax and sleep to the soft, melodic, and rhythmic rumbling of the night train",
   "name": "Train Sounds",
@@ -705,6 +705,24 @@
       "duration_ms": 84542,
       "name": "Next Stop Sleep",
       "url": "https://open.spotify.com/track/4NvPoE32Doo1fDJBuAFwMS"
+    },
+    {
+      "album": {
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/7AeKMRp3pXrLnzhkOAnjkd"
+      },
+      "artists": [
+        {
+          "name": "The American Railway",
+          "url": "https://open.spotify.com/artist/2XvIJQ4i2vTtf5Br94eFb6"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356519,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/56r1nUtDLZcSs8nHfMoNXz"
     },
     {
       "album": {
@@ -1630,6 +1648,24 @@
     },
     {
       "album": {
+        "name": "Steam Train through Tuscany",
+        "url": "https://open.spotify.com/album/1daCgzO8tL7qMqNrtFJa3e"
+      },
+      "artists": [
+        {
+          "name": "Train Travlz",
+          "url": "https://open.spotify.com/artist/1XCfyWOdIZPEFbFsUSGGtC"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398764,
+      "name": "Steam Train through Tuscany",
+      "url": "https://open.spotify.com/track/4ebzxl4kN4CjNaoPUPIF4r"
+    },
+    {
+      "album": {
         "name": "Steel of Wheels",
         "url": "https://open.spotify.com/album/0EDPgMo24oomhLxwlNfthe"
       },
@@ -2175,6 +2211,24 @@
       "duration_ms": 106990,
       "name": "Wagon Dreams",
       "url": "https://open.spotify.com/track/0Eb1UJetNfc5KLFQd0rEtu"
+    },
+    {
+      "album": {
+        "name": "Zermatt Express",
+        "url": "https://open.spotify.com/album/1enQdrcdq5O6BQvycRZ3FC"
+      },
+      "artists": [
+        {
+          "name": "Tray N",
+          "url": "https://open.spotify.com/artist/2bNilsq819ehowEstD1hiE"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252705,
+      "name": "Zermatt Express",
+      "url": "https://open.spotify.com/track/0k8DZ7A5lOQpKt2SODR4Qm"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9mxKt6WorzQ"

@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 875599,
+  "num_followers": 875534,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTEwYThhOGUzZjM0MmJlYTk3YWFlMDdmM2RiNzAzNzQ3OWNlZDQ1",
+  "snapshot_id": "MCxjY2FkODk3YTQ5ZDJlMGMxOWUzZjMyZjk4NmJkZThmNTU5YTkzN2Ew",
   "tracks": [
     {
       "added_at": "2024-01-02 16:16:43",
@@ -27,6 +27,30 @@
       "duration_ms": 165525,
       "name": "A Room Up In The Sky (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/2b6tGpbflP62TnzKx9TSDu"
+    },
+    {
+      "added_at": "2024-01-30 19:05:38",
+      "album": {
+        "name": "silence STArEs me down (feat. Cuco)",
+        "url": "https://open.spotify.com/album/6baKze14ER8USbSNwPGc4l"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 186329,
+      "name": "silence STArEs me down (feat. Cuco)",
+      "url": "https://open.spotify.com/track/7zkBwgnY2OQwufiEsaVObV"
     },
     {
       "added_at": "2023-12-11 14:37:09",
@@ -1675,22 +1699,6 @@
       "duration_ms": 273374,
       "name": "Petroglyph",
       "url": "https://open.spotify.com/track/2bzAmBp07YEFIxoc202Ug9"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "Crushxd",
-        "url": "https://open.spotify.com/album/46VsFMbRWN6hXT2J0a8fzo"
-      },
-      "artists": [
-        {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
-        }
-      ],
-      "duration_ms": 186946,
-      "name": "Crushxd",
-      "url": "https://open.spotify.com/track/3asSrvrWbMpX4v4ilkj5So"
     }
   ],
   "unique_name": "Modern Psychedelia",

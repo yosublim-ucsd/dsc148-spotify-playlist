@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: The Smile
 
-1,329 songs - 3 day 8 hr 22 min
+1,331 songs - 3 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -713,7 +713,8 @@
 | [Midwest](https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Midwest](https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc) | 4:08 | 2023-06-09 | 2023-07-17 |
 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 | 2023-06-01 | 2023-07-01 |
 | [Millennium](https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [The Mattson 2](https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:01 | 2022-04-29 | 2022-07-02 |
-| [Million \- hanbee Remix](https://open.spotify.com/track/4YycpPLZiVfITeG4SQwJn7) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT), [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Nightvision \(Love Is God 11/16 Edition\)](https://open.spotify.com/album/0LlL4HaYQ0HB0Z0D8bU312) | 2:57 | 2023-10-13 |  |
+| [Million \- hanbee Remix](https://open.spotify.com/track/4YycpPLZiVfITeG4SQwJn7) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT), [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Nightvision \(Love Is God 11/16 Edition\)](https://open.spotify.com/album/0LlL4HaYQ0HB0Z0D8bU312) | 2:57 | 2023-10-13 | 2024-01-31 |
+| [Million \- hanbee Remix](https://open.spotify.com/track/7B7jj4RXEvSeH7BF4Eb37f) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT), [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Nightvision \(Love Is God Edition\)](https://open.spotify.com/album/5uwlX45meAGA6nbxUwELJw) | 2:57 | 2024-01-25 |  |
 | [Million Little Problems](https://open.spotify.com/track/1nccRXlgqIuC8WiAuTieBo) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Million Little Problems](https://open.spotify.com/album/3YDmWON2aVb6IayCjQwkj5) | 2:26 | 2022-04-14 | 2022-07-09 |
 | [Mind is Light](https://open.spotify.com/track/4n5G4vTYpVOpgU1lQLnjSi) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Mind is Light](https://open.spotify.com/album/09xrm1F88FL1OI9kJ8pTkk) | 3:35 | 2023-07-06 | 2023-08-26 |
 | [Miracles](https://open.spotify.com/track/6kjo1sI3Vc1Q47Ppm6FYRh) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Miracles](https://open.spotify.com/album/04p480lq0Oye2DUWRg0LHW) | 3:44 | 2022-09-09 | 2022-12-06 |
@@ -862,7 +863,8 @@
 | [Peak Season](https://open.spotify.com/track/2P7RLgJ1c7aJM17RImzE5y) | [Bedchamber](https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0) | [Capa City](https://open.spotify.com/album/2pGFuOxiVWmMeTLAAS5UJX) | 2:23 | 2023-07-06 | 2023-08-12 |
 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 | 2023-05-12 | 2023-08-12 |
 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 | 2022-12-08 | 2023-03-11 |
-| [Performance In a Dream \(feat\. Our Shame\)](https://open.spotify.com/track/1MHSNAn5Y3w8BsfNwqKA73) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT), [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5) | [Nightvision \(Love Is God 13/16 Edition\)](https://open.spotify.com/album/4MhBkAPrf0TSioJv7b2Re1) | 4:25 | 2023-11-13 |  |
+| [Performance In a Dream \(feat\. Our Shame\)](https://open.spotify.com/track/1MHSNAn5Y3w8BsfNwqKA73) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT), [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5) | [Nightvision \(Love Is God 13/16 Edition\)](https://open.spotify.com/album/4MhBkAPrf0TSioJv7b2Re1) | 4:25 | 2023-11-13 | 2024-01-31 |
+| [Performance In a Dream \(feat\. Our Shame\)](https://open.spotify.com/track/5dCIeG01S5SNV2kLGrBxwt) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT), [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5) | [Nightvision \(Love Is God Edition\)](https://open.spotify.com/album/5uwlX45meAGA6nbxUwELJw) | 4:25 | 2024-01-25 |  |
 | [Personality Disorder](https://open.spotify.com/track/7noQsk2Wm00f5HlH2Zmume) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [Autofiction](https://open.spotify.com/album/6yLKyq7x7ZCpL7p99smtsO) | 4:00 | 2022-09-16 | 2022-10-29 |
 | [Pet Rock](https://open.spotify.com/track/3rmTtAIJydBOPohvykKubn) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Pet Rock](https://open.spotify.com/album/6OhhcYS7IB3M7gtNucP8Iz) | 2:45 | 2023-08-25 | 2023-09-16 |
 | [Petals To The Fear](https://open.spotify.com/track/7L4wpYLbqYjZvUx4npN6HB) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF) | [Petals To The Fear](https://open.spotify.com/album/4stsQ2PU1kAx5ySaHk3Fmn) | 2:28 | 2022-12-16 | 2023-01-28 |

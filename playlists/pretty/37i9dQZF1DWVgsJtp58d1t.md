@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\. <br/>Featuring some of our 2024 Artists to Watch across all genres!<br/> Cover: <a href="spotify:artist:01aC2ikO4Xgb2LUpf9JfKp">Gary Clark Jr.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,003,415 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,003,388 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 13 | [Cast](https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Presido La Pluto](https://open.spotify.com/album/14VJEhvxRCOsNtcwjjBxwR) | 2:09 |
 | 14 | [Dip \(feat\. Tommy Lee Sparta\)](https://open.spotify.com/track/35VwdDhUnGuMJt5pdpRBqn) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Dip \(feat\. Tommy Lee Sparta\)](https://open.spotify.com/album/7zyoP8BuPaQpMZRjqYqe62) | 2:54 |
 | 15 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 |
-| 16 | [Undress You \(feat\. Sarkodie\)](https://open.spotify.com/track/6LVuaveD4hazORqbg67C03) | [KJ Spio](https://open.spotify.com/artist/72Rav2u2DeRPJuA44Ng0n0), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Undress You \(feat\. Sarkodie\)](https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO) | 3:33 |
+| 16 | [Undress You](https://open.spotify.com/track/6LVuaveD4hazORqbg67C03) | [KJ Spio](https://open.spotify.com/artist/72Rav2u2DeRPJuA44Ng0n0), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Undress You](https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO) | 3:33 |
 | 17 | [I Pray](https://open.spotify.com/track/0izNEoXVrG6GtLneKnJmWU) | [Leo](https://open.spotify.com/artist/0JGwd3NLTdEaPHWQse8nkx), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [I Pray](https://open.spotify.com/album/2oXzrYopy6GG9TdIperrVC) | 3:32 |
 | 18 | [Matthew 5](https://open.spotify.com/track/4QqzNIYmIKKufCFmPvNlpM) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Give It Time](https://open.spotify.com/album/36TqkiS7AIf2u2dG4fQymd) | 3:02 |
 | 19 | [The Reason Why](https://open.spotify.com/track/29IooXrS45K8B8ZhVu50iA) | [Quail P](https://open.spotify.com/artist/6kOrV7zImC5ky0SwYzfqA3) | [The Reason Why](https://open.spotify.com/album/4vfuVy84G6Gg1V26E6Bvf5) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [MUSTARD \(with 6LACK\)](https://open.spotify.com/track/1vITRP5ITGjLK5v8LjjVo0) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [moreward\(FORWARD\)](https://open.spotify.com/album/4dz4CiyJKCoHWyA7MuHbBx) | 3:21 |
 | 100 | [HEAVEN TO ME](https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:50 |
 
-Snapshot ID: `MCw3MjhmODQ5MTY5MmNjOTkyZjE1MjkxNGU0YTkyYWFjMTc2ZDc4YzU1`
+Snapshot ID: `MCxhYjBkNjhhZGZhMDUwYWVhNzYyOTFlYWU2NWQ5NjNkNzBiZDdmOTM1`

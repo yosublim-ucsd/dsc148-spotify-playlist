@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Anima Contenta",
+        "url": "https://open.spotify.com/album/1J1RsGvDBgbFnuAzQ1GW3E"
+      },
+      "artists": [
+        {
+          "name": "Massimo Karis",
+          "url": "https://open.spotify.com/artist/2ATAMZEqyRkVa3FHAT02CB"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172058,
+      "name": "Anima Contenta",
+      "url": "https://open.spotify.com/track/01ZpLcwXAOcUeoeUqpuPs3"
+    },
+    {
+      "album": {
         "name": "String Theory",
         "url": "https://open.spotify.com/album/4NAAHdaq1RRDCEdsSddHcl"
       },
@@ -524,6 +542,24 @@
       "duration_ms": 144483,
       "name": "Bedtime Roses",
       "url": "https://open.spotify.com/track/78p1VT3WakXX97qnnRqQGD"
+    },
+    {
+      "album": {
+        "name": "Belonging To The Night",
+        "url": "https://open.spotify.com/album/3mr9hQd9X9AGywEZtYXTuO"
+      },
+      "artists": [
+        {
+          "name": "Tone Jacobs",
+          "url": "https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176113,
+      "name": "Belonging To The Night",
+      "url": "https://open.spotify.com/track/2Nlcc2yDO9zur1uPr07VF3"
     },
     {
       "album": {
@@ -6084,6 +6120,24 @@
       "duration_ms": 142063,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV"
+    },
+    {
+      "album": {
+        "name": "Where I Sleep",
+        "url": "https://open.spotify.com/album/0q0sEiRhgNW7iYlnPIcx3B"
+      },
+      "artists": [
+        {
+          "name": "Meodna",
+          "url": "https://open.spotify.com/artist/1acgr2GgwWnpDzCjBF9wsn"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185227,
+      "name": "Where I Sleep",
+      "url": "https://open.spotify.com/track/49Nyt0AqUWPzTrV7R4EmLo"
     },
     {
       "album": {

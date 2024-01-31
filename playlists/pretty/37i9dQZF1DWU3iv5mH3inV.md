@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > El Dembow que está subiendo en RD\. Foto: Rochy RD
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,034 likes - 50 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,067 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 7 | [Tu Vera Lío](https://open.spotify.com/track/0GTJfuNoImFQKTRE5zJkYz) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Tu Vera Lío](https://open.spotify.com/album/5l76qsgKpFbVSbvwLQiOgZ) | 1:52 |
 | 8 | [No Hay Recreo](https://open.spotify.com/track/6soUhucfoNsgxze4fzA24p) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [No Hay Recreo](https://open.spotify.com/album/2YLgkoGF4caij2SujQ94eE) | 1:58 |
 | 9 | [No Somo Hermano](https://open.spotify.com/track/2hvKoCgHW5tZ7QjtK4UqIh) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [No Somo Hermano](https://open.spotify.com/album/3G2TWdoZqeCdfFvpiIsow5) | 2:11 |
-| 10 | [Sangudeo](https://open.spotify.com/track/7jvAjZkb2q0PQmCIZR3Shb) | [Papi Saoco](https://open.spotify.com/artist/2piHFJTtsj8PQge6DH1ODb), [Hansel El De La H](https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG) | [Sangudeo](https://open.spotify.com/album/3qXNTWsmPqdlg3LC2ijARg) | 2:26 |
+| 10 | [Sangundeo](https://open.spotify.com/track/7jvAjZkb2q0PQmCIZR3Shb) | [Papi Saoco](https://open.spotify.com/artist/2piHFJTtsj8PQge6DH1ODb), [Hansel El De La H](https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG) | [Sangundeo](https://open.spotify.com/album/3qXNTWsmPqdlg3LC2ijARg) | 2:26 |
 | 11 | [TATARA \(Doble Tono\)](https://open.spotify.com/track/18KxZxrU3LbCz3Yo9mmlA8) | [Tauro.9](https://open.spotify.com/artist/35yxRc8QZ4fYQdEA7ILeOl), [PAPERA](https://open.spotify.com/artist/7FsGgNxFo8Jgzq1yd8PdCu), [Lomiiel](https://open.spotify.com/artist/4KD723RoA4fqV5unhggGcm), [Alex Rosario](https://open.spotify.com/artist/7i6e0PqugANugfNzT1oco8) | [TATARA \(Doble Tono\)](https://open.spotify.com/album/4ANbbh2p06CrVXJ4aOAeYk) | 2:33 |
 | 12 | [GLOCK CREMA](https://open.spotify.com/track/3dXETJk47wnCwP4Sc43mLP) | [Dilon Baby](https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN) | [GLOCK CREMA](https://open.spotify.com/album/0kQP8WuSA7xIvJVQvCUNd8) | 2:57 |
 | 13 | [Rikiry Goldito](https://open.spotify.com/track/2RROMdodb9DLWy0FuWgVoM) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Rikiry Goldito](https://open.spotify.com/album/4Nnh6el31NKhVp3YaMuLox) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 49 | [Que Pale](https://open.spotify.com/track/5gorLpRstyOJ2Nyy0qYV3g) | [El De La Hache](https://open.spotify.com/artist/6P0DwHB3CeM4Jh14xuJmEA), [Most Wanted La Familia](https://open.spotify.com/artist/57yFqDKqy5QnBIBAjy2qz6) | [Que Pale](https://open.spotify.com/album/1fB6LLqUp9BuNtmavZybqI) | 2:16 |
 | 50 | [Cocotico](https://open.spotify.com/track/1MiX6P0EswKTILtABR0uQI) | [Crazy Design](https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Cocotico](https://open.spotify.com/album/5sTxABf1vVdF4mDOkbb2to) | 2:16 |
 
-Snapshot ID: `MCw5MjE0MWIxNzAzYzBjYTE4NGNhMTM1Y2IxYzIxZjIyOTE3MzY3YmM5`
+Snapshot ID: `MCwzZmU1MjZmYmIzMjg3YzVhYzU1MDA0Y2Q0NzEyMGRkN2FkNGE2MjUx`

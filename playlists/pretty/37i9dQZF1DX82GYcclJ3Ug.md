@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The very best new alternative tracks\. Cover: YUNGBLUD x Lil Yachty
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,112,323 likes - 120 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,112,305 likes - 120 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 119 | [Let Go](https://open.spotify.com/track/4rwIVNZDiswV0wXcLdtceO) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Let Go](https://open.spotify.com/album/195upAWApmh2TbhBjUKlAt) | 4:13 |
 | 120 | [Impressively Average](https://open.spotify.com/track/1sL6n9kMtrlAvPokQKlZGP) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [Impressively Average](https://open.spotify.com/album/0I60bBbjgow9th1gEfPKxv) | 3:18 |
 
-Snapshot ID: `MCwzZmU2N2E2MGMyNGNkMzQyZTEyMjQxYzZiNDUxNTIyOWZmZDBjNGY4`
+Snapshot ID: `MCw5YWU0OTlkMDJhN2UxNTFhNjc4MDZiZTNkMGYzZThmN2JmMGYyODIw`

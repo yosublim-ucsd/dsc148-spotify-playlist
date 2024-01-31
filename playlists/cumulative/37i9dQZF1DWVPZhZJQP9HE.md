@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Ashwin Vinayagamoorthy
 
-493 songs - 1 day 5 hr 18 min
+494 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Aaraadhadhaa](https://open.spotify.com/track/3pSLIUvpIZrhKQgYflJ3F4) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM), [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h), [Sharanya Srinivas](https://open.spotify.com/artist/26tzHBE89rz5MSLeSi3qsB), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Aaraadhadhaa](https://open.spotify.com/album/7LirRg7XRhrm0dA14hBjRC) | 3:54 | 2022-09-15 | 2022-10-18 |
 | [Aarvam](https://open.spotify.com/track/58GfFn95dr8VIj4r8fLD0u) | [Genoey George](https://open.spotify.com/artist/1o2rIH5q3jRJxm1fuOboiK), [Ayraan](https://open.spotify.com/artist/7lXhEJq3n8vGK4M9VJKS29) | [Aarvam](https://open.spotify.com/album/21CEV4KTF95Mpe2hj2prrG) | 3:00 | 2023-01-12 | 2023-12-19 |
 | [Aasai \(feat\. Keerthana Vaidyanathan,EL Fé\)](https://open.spotify.com/track/2JbXWw4Vwp4l7uLgDfZcYX) | [Vinod Krishnan](https://open.spotify.com/artist/2TyxurDE5DjnzVrsKZkRtT), [Keerthana Vaidyanathan](https://open.spotify.com/artist/4L2JVt0fmwYdNB6TsKSyd8), [EL Fé](https://open.spotify.com/artist/74LViySAWlJZmvOT9FTzeZ) | [Aasai](https://open.spotify.com/album/3BXdqVTWAZDy9XoGdOkzko) | 3:23 | 2022-06-30 | 2022-07-15 |
-| [Aasaigal](https://open.spotify.com/track/5CV1PudVJ0iNAhSWkl9iKD) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Aasaigal](https://open.spotify.com/album/4cglbrEgdH16IKpcD2sb2z) | 3:33 | 2023-01-13 |  |
+| [Aasaigal](https://open.spotify.com/track/5CV1PudVJ0iNAhSWkl9iKD) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Aasaigal](https://open.spotify.com/album/4cglbrEgdH16IKpcD2sb2z) | 3:33 | 2023-01-13 | 2024-01-31 |
 | [Aathma Raama](https://open.spotify.com/track/6qJrmD6CXKWkWcsYwu9AV3) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf) | [Aathma Raama](https://open.spotify.com/album/1tAHGYFxm3f3qceniHv1X6) | 3:54 | 2022-08-23 | 2023-01-11 |
 | [Adi Penne](https://open.spotify.com/track/6XmBh5HSdVzEAaqzEftL9t) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Adi Penne](https://open.spotify.com/album/41DFtugomlAL2wB8SgjIyw) | 5:01 | 2021-12-01 | 2023-02-07 |
 | [Adi Penne \- Dad's Love](https://open.spotify.com/track/6OcnzwOfKQc0ZWJoMuFQam) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG) | [Adi Penne \(Dad's Love\)](https://open.spotify.com/album/4LBaj6ZOZCkpEwuGTdT4q2) | 3:11 | 2021-12-01 | 2022-08-12 |
@@ -486,6 +486,7 @@
 | [Vennilavum Ponninadhiyum \(From "Think Specials"\)](https://open.spotify.com/track/6l0zMrCEPTC1tIHRXqjwg2) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Vennilavum Ponninadhiyum \(From "Think Specials"\)](https://open.spotify.com/album/58PYBlSE6mWtDRD5aXPCx8) | 3:13 | 2022-02-03 | 2022-11-17 |
 | [Venum Nee Venum](https://open.spotify.com/track/4XoIPSNiO58XRhBzpH5NCt) | [Keerthanaa Karthikeyan](https://open.spotify.com/artist/7v44e3vQ4VxxsFztCosTMl), [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y) | [Venum Nee Venum](https://open.spotify.com/album/06suDPYhXHCJUhZ0122Wdg) | 3:55 | 2022-12-21 | 2023-01-11 |
 | [Vettai](https://open.spotify.com/track/4iWIMnU0cu45lsEIsG4wlc) | [Shabir](https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Vettai](https://open.spotify.com/album/7hTKG1aNFbQDr6YY7HZnGz) | 3:23 | 2022-04-05 | 2022-06-18 |
+| [Vidiyum Oru Naal](https://open.spotify.com/track/0gStpRYPCKaDBstFJUcuxJ) | [KUBERAN](https://open.spotify.com/artist/7f53QAbUla2nuN2oTQYaBh), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Vidiyum Oru Naal](https://open.spotify.com/album/5vRjmk8bycOYOLme9L4p26) | 3:49 | 2024-01-30 |  |
 | [Vilagaadhey](https://open.spotify.com/track/5V6qDweSwZsUjZJ1OEeIwD) | [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq) | [Vilagaadhey](https://open.spotify.com/album/5dlSNXdJMoIxe9TogHAzR2) | 1:43 | 2022-09-21 | 2023-02-07 |
 | [Vizha](https://open.spotify.com/track/3nhlWORU1Zn9j9rNzFO9e2) | [Rishi K](https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj) | [Vizha](https://open.spotify.com/album/4WnsKl21JeKrzpsnuQCLNV) | 2:50 | 2022-08-09 | 2023-01-28 |
 | [Vizhithiraiyile](https://open.spotify.com/track/5STDPvcvF3dqoKO09DBo2s) | [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq), [Arun VT](https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf), [Chandramouli Sundar](https://open.spotify.com/artist/39x0OeqEJXdSFSsRBvhoHi) | [Vizhithiraiyile](https://open.spotify.com/album/1Q7mzZZFORxNQlKgPmuqA1) | 3:43 | 2022-11-11 | 2023-02-22 |

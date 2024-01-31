@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x0KLud2Zf0.md) - [plain]
 
 > La pluma sensible detrás de tus favoritas de regional mexicano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,950 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,969 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x0KLud2Zf0.md) - [plain]
 | 67 | [Mi Premio O Mi Castigo](https://open.spotify.com/track/79JwazA2pV0ce0T5jx0CpG) | [Manuel Romero](https://open.spotify.com/artist/7Bals6DgKAYnN5PbfJTWss), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Mi Premio O Mi Castigo](https://open.spotify.com/album/5kPLWQQwBmXZbaLb2cF30P) | 2:27 |
 | 68 | [La Vida En Un Trago](https://open.spotify.com/track/2tmLW5HY368hQGkXX9CmeK) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [La Vida En Un Trago](https://open.spotify.com/album/5KseE8Kjoy4IVyS90I2r1C) | 2:37 |
 | 69 | [Tres Canciones](https://open.spotify.com/track/2BRnwjSI28g8ZLbCR5BkTj) | [Reyes](https://open.spotify.com/artist/4GJkKi18z77uo2pfrkEyIr) | [Tres Canciones](https://open.spotify.com/album/5SLRNc3FKQLsPXIUFlKUya) | 3:26 |
-| 70 | [La Historia](https://open.spotify.com/track/7uuqPbZjxfYB6LEi1DmHva) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [¿Y Ahora Qué?](https://open.spotify.com/album/6bns5fDPTdNMXOcRNqPGJv) | 3:35 |
+| 70 | [Como Aquel Primer Amor](https://open.spotify.com/track/6a0AcpN30bqF320WdD5NyE) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Aquí Estamos](https://open.spotify.com/album/6y5Wo2mwF1U5BmmXXONRGh) | 3:11 |
 | 71 | [Bienvenida](https://open.spotify.com/track/2UaiGUbNHC0Yyez98swzkS) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Durmiendo en el Lugar Equivocado](https://open.spotify.com/album/50x6RBfdV0Ao2eX3T2ekty) | 2:39 |
-| 72 | [Como Aquel Primer Amor](https://open.spotify.com/track/6a0AcpN30bqF320WdD5NyE) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Aquí Estamos](https://open.spotify.com/album/6y5Wo2mwF1U5BmmXXONRGh) | 3:11 |
+| 72 | [La Historia](https://open.spotify.com/track/7uuqPbZjxfYB6LEi1DmHva) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [¿Y Ahora Qué?](https://open.spotify.com/album/6bns5fDPTdNMXOcRNqPGJv) | 3:35 |
 | 73 | [Pídeme](https://open.spotify.com/track/0umTpHYLqJuHYndbw057p7) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Aquí Estamos](https://open.spotify.com/album/6y5Wo2mwF1U5BmmXXONRGh) | 3:14 |
 | 74 | [Ya Es Muy Tarde](https://open.spotify.com/track/47ehW8KNY6XhEtwMYAY0br) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Colección Privada "Las 20 Exclusivas"](https://open.spotify.com/album/4hueGGPMBXDsGn9Zjv7uvB) | 3:01 |
 | 75 | [Como Pez En El Agua](https://open.spotify.com/track/2CpfZ5y47gaY5iGFGdIi6a) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x0KLud2Zf0.md) - [plain]
 | 99 | [De Ti Exclusivo](https://open.spotify.com/track/5jTONxXzG2oRzc6gveGELN) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Singles](https://open.spotify.com/album/3XiBZ63yqMHNklPLIiIAMx) | 3:17 |
 | 100 | [Te Prometo](https://open.spotify.com/track/0xdbp4HOKeuVkuTu1WfI41) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 3:42 |
 
-Snapshot ID: `MCxjZTU2MWY2OWY0OTNhNDgyODRmZmM3OGE4OTM1MTA2ZDg3M2NjYTQz`
+Snapshot ID: `MCxjYWRiMjEwOWQ1YTQxMjhiYzE5MDI3NjM2MDRiNjI0ODlhNjUzODQy`

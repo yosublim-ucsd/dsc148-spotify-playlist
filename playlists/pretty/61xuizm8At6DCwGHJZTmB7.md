@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Praise His holy name! Listen to the top Christian and Worship hits of 2024 with songs like Abandoned, Who Else and Glorious Day! Cover: <a href="https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm?si=amZK4beZTje3ttbfv\_B7\-Q">Benjamin William Hastings</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,100 likes - 119 songs - 11 hr 21 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,102 likes - 119 songs - 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 67 | [pure](https://open.spotify.com/track/1poxng9cBRa5CMzyANuhnH) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [pure](https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0) | 5:56 |
 | 68 | [Who Else \- Live](https://open.spotify.com/track/2hUVIsZyLfy4xs35CHTlmN) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Claire Smith](https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50) | [Crowns Down \(Live\)](https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre) | 4:50 |
 | 69 | [Be Glorified \- Live](https://open.spotify.com/track/0WIfQN8w8EZIjbCeJfXBn2) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Be Glorified \(Live\)](https://open.spotify.com/album/59UQIY7Llrc3aZgXNxFEnK) | 7:26 |
-| 70 | [Abide \- Radio Version](https://open.spotify.com/track/4EzabOFNewxBmOUbVSg44o) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Michael Monroe](https://open.spotify.com/artist/5Ul6r5lUSOraWUidNnsILZ) | [Abide \(Radio Version\)](https://open.spotify.com/album/2aKf7zp8X4MZ4Jgq7eg24i) | 3:13 |
+| 70 | [Abide \- Radio Version](https://open.spotify.com/track/4EzabOFNewxBmOUbVSg44o) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Michael Monroe](https://open.spotify.com/artist/6l5l16hjnFQ1b15jB2vmWG) | [Abide \(Radio Version\)](https://open.spotify.com/album/2aKf7zp8X4MZ4Jgq7eg24i) | 3:13 |
 | 71 | [Prince Of Peace \(From Golan Heights Memorial Of War & By The Shining Lights Of The Old City\) \- Live](https://open.spotify.com/track/1D2QEPNeWXY18x0hR73iNT) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Of Dirt And Grace: Live From The Land \(Expanded Edition\)](https://open.spotify.com/album/1GUEempDMheicK14bjCtv0) | 8:11 |
 | 72 | [Live Again](https://open.spotify.com/track/1K2dxpyTXiR5xcwo0ZrjBI) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Kyle McHargh](https://open.spotify.com/artist/6pKGdTf8wPcOSzeNGN1Or3), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Live Again](https://open.spotify.com/album/7N1EAGw0mr5jFoZ1acuPap) | 8:42 |
 | 73 | [We Come Alive](https://open.spotify.com/track/5moU0hlYotRmoULRqb4e0h) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [We Come Alive](https://open.spotify.com/album/73yb9yqfQDuCIo8IfjAIdD) | 3:58 |

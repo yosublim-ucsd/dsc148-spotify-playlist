@@ -1,12 +1,12 @@
 {
   "description": "A selection of the greatest funk & soul records ever made.",
-  "num_followers": 1678727,
+  "num_followers": 1679105,
   "original_name": "Funk & Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTQwZWIzODIxZmU2NTc5OGExNWU5NTdhZWY0Mjg2ZDRlZDVkOTkw",
+  "snapshot_id": "MCw5ZmQxN2IwMGMzMjgyNzI0M2QwYjJiMGM4M2EyNjk5N2QyZDVhM2M5",
   "tracks": [
     {
       "added_at": "2022-09-23 17:06:51",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
+        "name": "The Man In The Street: The Complete Yellow Stax Solo Singles (1968-1974)",
+        "url": "https://open.spotify.com/album/0mRmuRVY94yZmwcItjpg5b"
+      },
+      "artists": [
+        {
+          "name": "William Bell",
+          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
+        }
+      ],
+      "duration_ms": 142746,
+      "name": "I Forgot To Be Your Lover",
+      "url": "https://open.spotify.com/track/3a19dv4IRhGjkyvgdUxEDu"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
         "name": "Strawberry Letter 23: The Very Best Of The Brothers Johnson",
         "url": "https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 247133,
       "name": "Stomp! - Single Version",
       "url": "https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
-        "name": "The 35th Anniversary Collection",
-        "url": "https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "I Second That Emotion",
-      "url": "https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "The Man In The Street: The Complete Yellow Stax Solo Singles (1968-1974)",
-        "url": "https://open.spotify.com/album/0mRmuRVY94yZmwcItjpg5b"
+        "name": "The 35th Anniversary Collection",
+        "url": "https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y"
       },
       "artists": [
         {
-          "name": "William Bell",
-          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
         }
       ],
-      "duration_ms": 142746,
-      "name": "I Forgot To Be Your Lover",
-      "url": "https://open.spotify.com/track/3a19dv4IRhGjkyvgdUxEDu"
+      "duration_ms": 161226,
+      "name": "I Second That Emotion",
+      "url": "https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C"
     },
     {
       "added_at": "2022-09-23 17:06:51",
