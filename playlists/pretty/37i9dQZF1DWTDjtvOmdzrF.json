@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 563599,
+  "num_followers": 563486,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWRmZTk2ZGI2NjNmMzc5MjM0MWQ3MWIwY2RhNzQzNTIxNWUxODVh",
+  "snapshot_id": "MCwzNTI0ZjVhYWZlMGI0NmNmMGUwZGNhMjhjNzI4ZjI2NGMxN2U4NDE4",
   "tracks": [
     {
       "added_at": "2023-12-06 09:41:58",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-12-06 09:41:58",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
-      },
-      "artists": [
-        {
-          "name": "Naif",
-          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Jikalau",
-      "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
-    },
-    {
-      "added_at": "2023-12-06 09:41:58",
-      "album": {
         "name": "Putus Atau Terus",
         "url": "https://open.spotify.com/album/1zqYuKvhLBILR5PZdyAMyW"
       },
@@ -1143,18 +1127,34 @@
     {
       "added_at": "2023-12-06 09:41:58",
       "album": {
-        "name": "Monokrom",
-        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
       },
       "artists": [
         {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+          "name": "Naif",
+          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
         }
       ],
-      "duration_ms": 195914,
-      "name": "Cahaya",
-      "url": "https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj"
+      "duration_ms": 186933,
+      "name": "Jikalau",
+      "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
+    },
+    {
+      "added_at": "2023-12-06 09:41:58",
+      "album": {
+        "name": "I Love You 3000",
+        "url": "https://open.spotify.com/album/44L0CHtegdQ1MauWk0BZ8x"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        }
+      ],
+      "duration_ms": 209734,
+      "name": "I Love You 3000",
+      "url": "https://open.spotify.com/track/20GqLThxIpyo4LBnwoYe9T"
     },
     {
       "added_at": "2023-12-06 09:41:58",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-12-06 09:41:58",
       "album": {
+        "name": "Monokrom",
+        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 195914,
+      "name": "Cahaya",
+      "url": "https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj"
+    },
+    {
+      "added_at": "2023-12-06 09:41:58",
+      "album": {
         "name": "Indah Pada Waktunya",
         "url": "https://open.spotify.com/album/58N9l8IdTOtwOk2C9FEdA4"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 240473,
       "name": "Indah Pada Waktunya",
       "url": "https://open.spotify.com/track/28Gd45dRqr92unRNIOxSWZ"
-    },
-    {
-      "added_at": "2023-12-06 09:41:58",
-      "album": {
-        "name": "I Love You 3000",
-        "url": "https://open.spotify.com/album/44L0CHtegdQ1MauWk0BZ8x"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        }
-      ],
-      "duration_ms": 209734,
-      "name": "I Love You 3000",
-      "url": "https://open.spotify.com/track/20GqLThxIpyo4LBnwoYe9T"
     },
     {
       "added_at": "2023-12-06 09:41:58",

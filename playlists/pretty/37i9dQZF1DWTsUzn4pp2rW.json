@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 146715,
+  "num_followers": 146773,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmY0NDY5ZjlhYmMxZDg2Y2Y4NTc5MTM5MmM0ZTE2Zjg0ZmI0ZGUx",
+  "snapshot_id": "MCxhNTVmZGU0NDI1ZGM0MzA5ODgxMmY2MzMzYmFhZTgzYzU0NGM2MWJi",
   "tracks": [
     {
       "added_at": "2024-01-19 00:01:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Me and My Radio",
-        "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
-      },
-      "artists": [
-        {
-          "name": "Anthony Strong",
-          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
-        }
-      ],
-      "duration_ms": 196185,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/4uTh5Vc918mmvxcFM3qEe8"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "I Need Your Love",
         "url": "https://open.spotify.com/album/7FiZVylKJmgNbDXsz5VBav"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 260377,
       "name": "I Need Your Love",
       "url": "https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Me and My Radio",
+        "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
+      },
+      "artists": [
+        {
+          "name": "Anthony Strong",
+          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
+        }
+      ],
+      "duration_ms": 196185,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/4uTh5Vc918mmvxcFM3qEe8"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "At Last",
-        "url": "https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR"
-      },
-      "artists": [
-        {
-          "name": "Susan Wong",
-          "url": "https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI"
-        }
-      ],
-      "duration_ms": 164652,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Riders on the Storm",
         "url": "https://open.spotify.com/album/4PwN4pAtzT9f0tDskm7Gc9"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 226389,
       "name": "Riders on the Storm",
       "url": "https://open.spotify.com/track/6Q7ELYBAEzPU9jVNauiYMN"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR"
+      },
+      "artists": [
+        {
+          "name": "Susan Wong",
+          "url": "https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI"
+        }
+      ],
+      "duration_ms": 164652,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Bagatelles",
-        "url": "https://open.spotify.com/album/7dEBdUpqe6c6vprtQiEMX1"
-      },
-      "artists": [
-        {
-          "name": "Nellie McKay",
-          "url": "https://open.spotify.com/artist/1GFVkK9DUecapOZv2HzpiN"
-        }
-      ],
-      "duration_ms": 127426,
-      "name": "How About You",
-      "url": "https://open.spotify.com/track/0OotFG4v6vLS0Im8Ny6cpo"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/2dSzJEyeUOzNu19c5s2O0p"
       },
@@ -887,22 +871,18 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Rogue",
-        "url": "https://open.spotify.com/album/51hmnwZrsDwbweZLJ1CbKK"
+        "name": "Bagatelles",
+        "url": "https://open.spotify.com/album/7dEBdUpqe6c6vprtQiEMX1"
       },
       "artists": [
         {
-          "name": "David P Stevens",
-          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
-        },
-        {
-          "name": "Carol Riddick",
-          "url": "https://open.spotify.com/artist/0TXTa4w6P9h0tJ1GFTZIhL"
+          "name": "Nellie McKay",
+          "url": "https://open.spotify.com/artist/1GFVkK9DUecapOZv2HzpiN"
         }
       ],
-      "duration_ms": 231040,
-      "name": "2nite",
-      "url": "https://open.spotify.com/track/2EVvYPOMpYIjP9mxyxmvE4"
+      "duration_ms": 127426,
+      "name": "How About You",
+      "url": "https://open.spotify.com/track/0OotFG4v6vLS0Im8Ny6cpo"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -923,6 +903,26 @@
       "duration_ms": 278239,
       "name": "By the Time I Get to Phoenix",
       "url": "https://open.spotify.com/track/4Ul1vikPHeg19Lqmw6Xbwz"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Rogue",
+        "url": "https://open.spotify.com/album/51hmnwZrsDwbweZLJ1CbKK"
+      },
+      "artists": [
+        {
+          "name": "David P Stevens",
+          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
+        },
+        {
+          "name": "Carol Riddick",
+          "url": "https://open.spotify.com/artist/0TXTa4w6P9h0tJ1GFTZIhL"
+        }
+      ],
+      "duration_ms": 231040,
+      "name": "2nite",
+      "url": "https://open.spotify.com/track/2EVvYPOMpYIjP9mxyxmvE4"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "It's Complicated",
-        "url": "https://open.spotify.com/album/2wakq28QTH960KEygvzPXl"
-      },
-      "artists": [
-        {
-          "name": "Andy Jordan",
-          "url": "https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj"
-        }
-      ],
-      "duration_ms": 208273,
-      "name": "It's Complicated",
-      "url": "https://open.spotify.com/track/6w9GAp3fgHFeDpYHDAaApX"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "I Never Can Say Goodbye",
         "url": "https://open.spotify.com/album/08b0q2JtQvW5xbNSRA2HRU"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 253816,
       "name": "I Never Can Say Goodbye",
       "url": "https://open.spotify.com/track/25JxSiJxTicgJ4JZQSKjHv"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "It's Complicated",
+        "url": "https://open.spotify.com/album/2wakq28QTH960KEygvzPXl"
+      },
+      "artists": [
+        {
+          "name": "Andy Jordan",
+          "url": "https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj"
+        }
+      ],
+      "duration_ms": 208273,
+      "name": "It's Complicated",
+      "url": "https://open.spotify.com/track/6w9GAp3fgHFeDpYHDAaApX"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Taller",
-        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 188413,
-      "name": "You Can't Hide Away From Love",
-      "url": "https://open.spotify.com/track/5wT4caQu7Qdom8A3ADhyYx"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "A Little Love",
         "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 200933,
       "name": "Just A Little Lovin' (Early In The Mornin')",
       "url": "https://open.spotify.com/track/0QLT2yy9khnCVaW1Q2vvmx"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Taller",
+        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 188413,
+      "name": "You Can't Hide Away From Love",
+      "url": "https://open.spotify.com/track/5wT4caQu7Qdom8A3ADhyYx"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "This Too Shall Pass",
-        "url": "https://open.spotify.com/album/4Vouu0GOiGtA7ivgYNZoJV"
-      },
-      "artists": [
-        {
-          "name": "Dennis van Aarssen",
-          "url": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
-        }
-      ],
-      "duration_ms": 201979,
-      "name": "This Too Shall Pass",
-      "url": "https://open.spotify.com/track/0YtEa0cfa0txTHV99HVpNW"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Melodic Canvas",
         "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 207396,
       "name": "Do You Believe",
       "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "This Too Shall Pass",
+        "url": "https://open.spotify.com/album/4Vouu0GOiGtA7ivgYNZoJV"
+      },
+      "artists": [
+        {
+          "name": "Dennis van Aarssen",
+          "url": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
+        }
+      ],
+      "duration_ms": 201979,
+      "name": "This Too Shall Pass",
+      "url": "https://open.spotify.com/track/0YtEa0cfa0txTHV99HVpNW"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Strangers in Disguise",
-        "url": "https://open.spotify.com/album/7p6Fu4k7F97W60BV2Bz4KK"
-      },
-      "artists": [
-        {
-          "name": "Anthony Lazaro",
-          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
-        }
-      ],
-      "duration_ms": 166635,
-      "name": "Strangers in Disguise",
-      "url": "https://open.spotify.com/track/4rIoGSsuUE9KOhYwkhX4Ls"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Luxury and Waste",
         "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 233384,
       "name": "Be That Someone",
       "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Strangers in Disguise",
+        "url": "https://open.spotify.com/album/7p6Fu4k7F97W60BV2Bz4KK"
+      },
+      "artists": [
+        {
+          "name": "Anthony Lazaro",
+          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
+        }
+      ],
+      "duration_ms": 166635,
+      "name": "Strangers in Disguise",
+      "url": "https://open.spotify.com/track/4rIoGSsuUE9KOhYwkhX4Ls"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "You Are My Everything",
-        "url": "https://open.spotify.com/album/3rBbcpcZPUwr3F8yFfT7r4"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nosaczynski Bohovi\u010d",
-          "url": "https://open.spotify.com/artist/2dz544MXV8GuN3lCoeNfum"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "You Are My Everything",
-      "url": "https://open.spotify.com/track/3IDM9IoiIZge85sVvqYG0x"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Break In",
         "url": "https://open.spotify.com/album/5LEZDxOK0FRDjj6DlWtPMO"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 199636,
       "name": "Break In",
       "url": "https://open.spotify.com/track/50T4oNyzIMVM2xoC8kvoLw"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "You Are My Everything",
+        "url": "https://open.spotify.com/album/3rBbcpcZPUwr3F8yFfT7r4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nosaczynski Bohovi\u010d",
+          "url": "https://open.spotify.com/artist/2dz544MXV8GuN3lCoeNfum"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "You Are My Everything",
+      "url": "https://open.spotify.com/track/3IDM9IoiIZge85sVvqYG0x"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
+        "name": "Beautiful Way",
+        "url": "https://open.spotify.com/album/5Upr8xza8nRWoaZWRvwLql"
+      },
+      "artists": [
+        {
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        },
+        {
+          "name": "Jake Sherman",
+          "url": "https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Beautiful Way",
+      "url": "https://open.spotify.com/track/76Y4rH04QPJfFePNLBiLjE"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
         "name": "Thinking of You",
         "url": "https://open.spotify.com/album/2YrxQ8cVq9Rcw0vLOKx2cy"
       },
@@ -1671,38 +1691,18 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Best Time Of The Year",
-        "url": "https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq"
+        "name": "Take Me Off to Dreamland",
+        "url": "https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC"
       },
       "artists": [
         {
-          "name": "Budbud",
-          "url": "https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF"
+          "name": "Imajjine",
+          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
         }
       ],
-      "duration_ms": 189688,
-      "name": "Best Time Of The Year",
-      "url": "https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Beautiful Way",
-        "url": "https://open.spotify.com/album/5Upr8xza8nRWoaZWRvwLql"
-      },
-      "artists": [
-        {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
-        },
-        {
-          "name": "Jake Sherman",
-          "url": "https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "Beautiful Way",
-      "url": "https://open.spotify.com/track/76Y4rH04QPJfFePNLBiLjE"
+      "duration_ms": 288535,
+      "name": "Take Me Off to Dreamland",
+      "url": "https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Take Me Off to Dreamland",
-        "url": "https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC"
+        "name": "Free Afternoon",
+        "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
       },
       "artists": [
         {
-          "name": "Imajjine",
-          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
+          "name": "Guilherme Cunha Ribeiro",
+          "url": "https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5"
         }
       ],
-      "duration_ms": 288535,
-      "name": "Take Me Off to Dreamland",
-      "url": "https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7"
+      "duration_ms": 233013,
+      "name": "A Better One for You",
+      "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
+        "name": "Best Time Of The Year",
+        "url": "https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq"
+      },
+      "artists": [
+        {
+          "name": "Budbud",
+          "url": "https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF"
+        }
+      ],
+      "duration_ms": 189688,
+      "name": "Best Time Of The Year",
+      "url": "https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq"
       },
@@ -1807,22 +1823,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Free Afternoon",
-        "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
-      },
-      "artists": [
-        {
-          "name": "Guilherme Cunha Ribeiro",
-          "url": "https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "A Better One for You",
-      "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Let's Get Lost",
         "url": "https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx"
       },
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Chamomile Tea",
-        "url": "https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr"
-      },
-      "artists": [
-        {
-          "name": "Andrew Farstar",
-          "url": "https://open.spotify.com/artist/4VNIES74VX9mO2lcX0F29z"
-        }
-      ],
-      "duration_ms": 252261,
-      "name": "Chamomile Tea",
-      "url": "https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Back to the Start",
         "url": "https://open.spotify.com/album/0vjT6cQ1x6LoMXidziBoJm"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 196154,
       "name": "Back to the Start",
       "url": "https://open.spotify.com/track/7agNYU4Fce4a529KY5JH4n"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Chamomile Tea",
+        "url": "https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr"
+      },
+      "artists": [
+        {
+          "name": "Andrew Farstar",
+          "url": "https://open.spotify.com/artist/4VNIES74VX9mO2lcX0F29z"
+        }
+      ],
+      "duration_ms": 252261,
+      "name": "Chamomile Tea",
+      "url": "https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "The Road Is Narrow",
-        "url": "https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b"
-      },
-      "artists": [
-        {
-          "name": "Jecca",
-          "url": "https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "the road is narrow",
-      "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Sleepy Time",
         "url": "https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 264000,
       "name": "Kettle",
       "url": "https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "The Road Is Narrow",
+        "url": "https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b"
+      },
+      "artists": [
+        {
+          "name": "Jecca",
+          "url": "https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "the road is narrow",
+      "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -2167,18 +2167,18 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Softly Loudly",
-        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
+        "name": "Sorrows Into Silk",
+        "url": "https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB"
       },
       "artists": [
         {
-          "name": "Emma Nabarro-Steel",
-          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
+          "name": "Ella Frank",
+          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
         }
       ],
-      "duration_ms": 235539,
-      "name": "Love is Easy",
-      "url": "https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI"
+      "duration_ms": 138320,
+      "name": "Lime",
+      "url": "https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -2199,6 +2199,22 @@
       "duration_ms": 178786,
       "name": "Same Way Home",
       "url": "https://open.spotify.com/track/5lYlBcimTYIywerAwZnyi0"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Softly Loudly",
+        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
+      },
+      "artists": [
+        {
+          "name": "Emma Nabarro-Steel",
+          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
+        }
+      ],
+      "duration_ms": 235539,
+      "name": "Love is Easy",
+      "url": "https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -2259,22 +2275,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Sorrows Into Silk",
-        "url": "https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB"
-      },
-      "artists": [
-        {
-          "name": "Ella Frank",
-          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
-        }
-      ],
-      "duration_ms": 138320,
-      "name": "Lime",
-      "url": "https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/2vPNtFnHCKBRIsGPlZL9cd"
       },
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Fly Again",
-        "url": "https://open.spotify.com/album/1eGL7G4KSKQflLp3Ca8xSK"
-      },
-      "artists": [
-        {
-          "name": "Tom Petrone",
-          "url": "https://open.spotify.com/artist/76Y7Pfxut1SGgIEF4RWDsb"
-        }
-      ],
-      "duration_ms": 201101,
-      "name": "Fly Again",
-      "url": "https://open.spotify.com/track/2Cm6dZn5E2iTe0HpkJjfM4"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Wherever You're Going",
         "url": "https://open.spotify.com/album/0F0fb6ytX3wGsmCNKkBOeb"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 247800,
       "name": "Wherever You're Going",
       "url": "https://open.spotify.com/track/2U2CqVG9M78eJM9kLDz1oO"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Fly Again",
+        "url": "https://open.spotify.com/album/1eGL7G4KSKQflLp3Ca8xSK"
+      },
+      "artists": [
+        {
+          "name": "Tom Petrone",
+          "url": "https://open.spotify.com/artist/76Y7Pfxut1SGgIEF4RWDsb"
+        }
+      ],
+      "duration_ms": 201101,
+      "name": "Fly Again",
+      "url": "https://open.spotify.com/track/2Cm6dZn5E2iTe0HpkJjfM4"
     },
     {
       "added_at": "2024-01-19 00:01:00",

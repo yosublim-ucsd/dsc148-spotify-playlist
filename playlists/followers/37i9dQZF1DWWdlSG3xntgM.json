@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 35348,
+  "2024-02-01": 35345,
   "date_first_scraped": "2022-05-30",
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
   "name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
@@ -43,6 +43,24 @@
     {
       "album": {
         "name": "Ph\u01b0\u1ee3ng Y\u00eau",
+        "url": "https://open.spotify.com/album/5yKIn8OkAL3M4MyswLSwTR"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng Th\u00f9y",
+          "url": "https://open.spotify.com/artist/4apZlWGGA1dF1xiOGCbFKJ"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266447,
+      "name": "B\u00e0i Ca T\u1ebft Cho Em",
+      "url": "https://open.spotify.com/track/2MzobamaNs3dRzhEU0A5ab"
+    },
+    {
+      "album": {
+        "name": "Ph\u01b0\u1ee3ng Y\u00eau",
         "url": "https://open.spotify.com/album/5GWvJBCbkinzhbLG9d4Ibj"
       },
       "artists": [
@@ -53,7 +71,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 266447,
       "name": "B\u00e0i Ca T\u1ebft Cho Em",
       "url": "https://open.spotify.com/track/5mtHRKVRdtkW7L4Ne2tnY0"
@@ -1065,7 +1083,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 307200,
       "name": "G\u1eedi T\u00ecnh V\u00e0o Xu\u00e2n",
       "url": "https://open.spotify.com/track/4aWANDSehe5YVbWqwJ1mLe"
@@ -4049,7 +4067,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 247360,
       "name": "Xin g\u1ecdi nhau l\u00e0 c\u1ed1 nh\u00e2n",
       "url": "https://open.spotify.com/track/1PZ8lS5NZC3e6J1grnzfJG"

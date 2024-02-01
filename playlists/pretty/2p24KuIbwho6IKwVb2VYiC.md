@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Kungs, David Guetta, Izzy Bizu
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,240 likes - 86 songs - 4 hr 29 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,241 likes - 86 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 | 4 | [ME](https://open.spotify.com/track/7dyJugljupi044oQfkrzlc) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [ME](https://open.spotify.com/album/2ABIweWTmeRmUBc73DNiqq) | 3:34 |
 | 5 | [Rainy \(with REI AMI\)](https://open.spotify.com/track/4feAKLuq3ShnAA84HcUFvf) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [This Mixtape is Fire TOO](https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD) | 2:44 |
 | 6 | [Rule The World \(Everybody\)](https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Rule The World \(Everybody\)](https://open.spotify.com/album/6Br9xGHQxq9VrTjsiYJ7NJ) | 2:52 |
-| 7 | [Biggest Regret \(feat\. BbyAfricka\)](https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W) | [Biggest Regret \(feat\. BbyAfricka\)](https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI) | 3:50 |
+| 7 | [Biggest Regret \(feat\. Bbyafricka\)](https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W) | [Biggest Regret \(feat\. Bbyafricka\)](https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI) | 3:50 |
 | 8 | [Beso \(Fruta Fresca\)](https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Beso \(Fruta Fresca\)](https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV) | 3:17 |
 | 9 | [Going Out To The Ravers \(feat\. Everyone You Know\)](https://open.spotify.com/track/2VMGrvCgpiTVwnyuIsU9fm) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [London Sound](https://open.spotify.com/album/5jguHiPnYKnCubpuOZskLY) | 3:09 |
 | 10 | [Hungover \(with Camden Cox\)](https://open.spotify.com/track/1HmeANWuuCP6ldvGgKwTLi) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Hungover \(with Camden Cox\)](https://open.spotify.com/album/0zmoJBEhLPoiKBzXMeFjAm) | 3:40 |

@@ -4,13 +4,13 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-59 songs - 3 hr 18 min
+60 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-01-29 |  |
 | [Alucin](https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Alucin](https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB) | 3:17 | 2024-01-29 |  |
-| [Amores Como El Nuestro](https://open.spotify.com/track/58DiRtepEpLtNwYchoazyi) | [Ararya](https://open.spotify.com/artist/512SI8WyY6gMxCu5N6UYgd) | [Amores Como El Nuestro](https://open.spotify.com/album/6eSa8HpdEziR7tGjHEx7iw) | 3:48 | 2024-01-29 |  |
+| [Amores Como El Nuestro](https://open.spotify.com/track/58DiRtepEpLtNwYchoazyi) | [Ararya](https://open.spotify.com/artist/4mdmbYTm07t7WUrsk60aVW) | [Amores Como El Nuestro](https://open.spotify.com/album/6eSa8HpdEziR7tGjHEx7iw) | 3:48 | 2024-01-29 |  |
 | [Ando High](https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Ando High](https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH) | 2:45 | 2024-01-29 |  |
 | [Beso \(Fruta Fresca\)](https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Beso \(Fruta Fresca\)](https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV) | 3:17 | 2024-01-29 |  |
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-29 |  |
@@ -38,8 +38,9 @@
 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 | 2024-01-29 |  |
 | [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 | 2024-01-29 |  |
 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 | 2024-01-29 |  |
-| [LUNA \(Tech House\)](https://open.spotify.com/track/4HVc9Vr4d4CNpoBPAAfaoQ) | [Tomi Reig](https://open.spotify.com/artist/3WVT8Ru2pGghiLHCYBDtmY) | [LUNA \(Tech House\)](https://open.spotify.com/album/19Zsd1tFlrzqS9aGGOuyEo) | 3:18 | 2024-01-30 |  |
+| [LUNA \(Tech House\)](https://open.spotify.com/track/4HVc9Vr4d4CNpoBPAAfaoQ) | [Tomi Reig](https://open.spotify.com/artist/3WVT8Ru2pGghiLHCYBDtmY) | [LUNA \(Tech House\)](https://open.spotify.com/album/19Zsd1tFlrzqS9aGGOuyEo) | 3:18 | 2024-01-30 | 2024-02-01 |
 | [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 | 2024-01-29 |  |
+| [Mil preguntas](https://open.spotify.com/track/78Kl2Yvf2XXEDXGFNXfYIr) | [Marina Reche](https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw) | [Mil preguntas](https://open.spotify.com/album/68TdQaRchrJqDmOO1rizlq) | 3:19 | 2024-01-31 |  |
 | [Municiones Guarachetamix Blaster Dj](https://open.spotify.com/track/5ug5mDxyHaWjViEiDlMPCN) | [Blaster DJ](https://open.spotify.com/artist/04tXa59qDOMrlU6mWs6aqT) | [Municiones Guarachetamix Blaster Dj](https://open.spotify.com/album/2nzIp9cVhwXGnMuapTxzqV) | 3:21 | 2024-01-29 | 2024-01-31 |
 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-01-29 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2024-01-29 | 2024-01-31 |

@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1233032,
+  "num_followers": 1233505,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjY0ZjM5MTkwOGNlODRmZDEyYWRjMmVhYjZhZTM4YTE5Y2Q0NGQ1",
+  "snapshot_id": "MCw5ZjhmNWEyNmRiNDdjYmUwMDE3MmY5ZGU0YTEwNmE1ZDUyZWZlOGJl",
   "tracks": [
     {
       "added_at": "2024-01-24 08:57:25",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
-        "name": "Train Of Thought",
-        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
-      },
-      "artists": [
-        {
-          "name": "Reflection Eternal",
-          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Memories Live",
-      "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
-    },
-    {
-      "added_at": "2024-01-24 08:57:25",
-      "album": {
         "name": "Figure Numatic",
         "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
       },
@@ -1263,22 +1247,6 @@
       "duration_ms": 370610,
       "name": "Figure Numatic",
       "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
-    },
-    {
-      "added_at": "2024-01-24 08:57:25",
-      "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 190116,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
     },
     {
       "added_at": "2024-01-24 08:57:25",
@@ -1299,6 +1267,38 @@
       "duration_ms": 223772,
       "name": "Got Me Thinkin' (feat. Sparkz)",
       "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
+    },
+    {
+      "added_at": "2024-01-24 08:57:25",
+      "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 190116,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
+    },
+    {
+      "added_at": "2024-01-24 08:57:25",
+      "album": {
+        "name": "Train Of Thought",
+        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
+      },
+      "artists": [
+        {
+          "name": "Reflection Eternal",
+          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Memories Live",
+      "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
     },
     {
       "added_at": "2024-01-24 08:57:25",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
-        "name": "Head Highs",
-        "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
-      },
-      "artists": [
-        {
-          "name": "Malaki",
-          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
-        },
-        {
-          "name": "jarjarjr",
-          "url": "https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W"
-        }
-      ],
-      "duration_ms": 155346,
-      "name": "Head Highs",
-      "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
-    },
-    {
-      "added_at": "2024-01-24 08:57:25",
-      "album": {
         "name": "Chicken Wings (Remix)",
         "url": "https://open.spotify.com/album/7MdK6WWMMy9V2w8prCgycb"
       },
@@ -1611,6 +1591,42 @@
       "duration_ms": 165565,
       "name": "Chicken Wings - Remix",
       "url": "https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM"
+    },
+    {
+      "added_at": "2024-01-24 08:57:25",
+      "album": {
+        "name": "Head Highs",
+        "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
+      },
+      "artists": [
+        {
+          "name": "Malaki",
+          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
+        },
+        {
+          "name": "jarjarjr",
+          "url": "https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W"
+        }
+      ],
+      "duration_ms": 155346,
+      "name": "Head Highs",
+      "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
+    },
+    {
+      "added_at": "2024-01-24 08:57:25",
+      "album": {
+        "name": "Do You Want More?!!!??!",
+        "url": "https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Mellow My Man",
+      "url": "https://open.spotify.com/track/0bzFaHiymbvjmIDKf6XAbS"
     },
     {
       "added_at": "2024-01-24 08:57:25",
@@ -1775,38 +1791,6 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
-        "name": "Do You Want More?!!!??!",
-        "url": "https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Mellow My Man",
-      "url": "https://open.spotify.com/track/0bzFaHiymbvjmIDKf6XAbS"
-    },
-    {
-      "added_at": "2024-01-24 08:57:25",
-      "album": {
-        "name": "Elephant in the Room",
-        "url": "https://open.spotify.com/album/5u9fxl08KewKRV27T3nqGN"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 189082,
-      "name": "Gucci Tried to Tell Me",
-      "url": "https://open.spotify.com/track/1ufp82dH3kwlqiPmeKNBVz"
-    },
-    {
-      "added_at": "2024-01-24 08:57:25",
-      "album": {
         "name": "New Day (feat. Illa J)",
         "url": "https://open.spotify.com/album/6LYOnP339GvjeB6imk4q2j"
       },
@@ -1851,6 +1835,22 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
+        "name": "Elephant in the Room",
+        "url": "https://open.spotify.com/album/5u9fxl08KewKRV27T3nqGN"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 189082,
+      "name": "Gucci Tried to Tell Me",
+      "url": "https://open.spotify.com/track/1ufp82dH3kwlqiPmeKNBVz"
+    },
+    {
+      "added_at": "2024-01-24 08:57:25",
+      "album": {
         "name": "Heart Shaped Kisses",
         "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
       },
@@ -1863,22 +1863,6 @@
       "duration_ms": 168000,
       "name": "Heart Shaped Kisses",
       "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
-    },
-    {
-      "added_at": "2024-01-24 08:57:25",
-      "album": {
-        "name": "Call You?",
-        "url": "https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC"
-      },
-      "artists": [
-        {
-          "name": "ArmstrongWW",
-          "url": "https://open.spotify.com/artist/6mlFpVUy70axjkS4iOZlPn"
-        }
-      ],
-      "duration_ms": 205865,
-      "name": "Call You?",
-      "url": "https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl"
     },
     {
       "added_at": "2024-01-24 08:57:25",
@@ -1903,6 +1887,22 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
+        "name": "Call You?",
+        "url": "https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC"
+      },
+      "artists": [
+        {
+          "name": "ArmstrongWW",
+          "url": "https://open.spotify.com/artist/6mlFpVUy70axjkS4iOZlPn"
+        }
+      ],
+      "duration_ms": 205865,
+      "name": "Call You?",
+      "url": "https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl"
+    },
+    {
+      "added_at": "2024-01-24 08:57:25",
+      "album": {
         "name": "Day & Night",
         "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
       },
@@ -1915,6 +1915,26 @@
       "duration_ms": 243711,
       "name": "Wassup",
       "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
+    },
+    {
+      "added_at": "2024-01-24 08:57:25",
+      "album": {
+        "name": "Beloved! Paradise! Jazz!?",
+        "url": "https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW"
+      },
+      "artists": [
+        {
+          "name": "McKinley Dixon",
+          "url": "https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko"
+        },
+        {
+          "name": "Ms. Jaylin Brown",
+          "url": "https://open.spotify.com/artist/1ffnZupAfeFVxIBCtbiy0d"
+        }
+      ],
+      "duration_ms": 247698,
+      "name": "Beloved! Paradise! Jazz!?",
+      "url": "https://open.spotify.com/track/4DoFmJKTQsWqjVgoXC7zOs"
     },
     {
       "added_at": "2024-01-24 08:57:25",
@@ -1963,26 +1983,6 @@
       "duration_ms": 355720,
       "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
       "url": "https://open.spotify.com/track/6i8K68TanxPlhBlRiQIdC3"
-    },
-    {
-      "added_at": "2024-01-24 08:57:25",
-      "album": {
-        "name": "Beloved! Paradise! Jazz!?",
-        "url": "https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW"
-      },
-      "artists": [
-        {
-          "name": "McKinley Dixon",
-          "url": "https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko"
-        },
-        {
-          "name": "Ms. Jaylin Brown",
-          "url": "https://open.spotify.com/artist/1ffnZupAfeFVxIBCtbiy0d"
-        }
-      ],
-      "duration_ms": 247698,
-      "name": "Beloved! Paradise! Jazz!?",
-      "url": "https://open.spotify.com/track/4DoFmJKTQsWqjVgoXC7zOs"
     },
     {
       "added_at": "2024-01-24 08:57:25",

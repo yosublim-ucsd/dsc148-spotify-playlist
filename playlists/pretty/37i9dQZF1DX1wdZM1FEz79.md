@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Espresso\(에스프레소\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,271 likes - 52 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,249 likes - 52 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 48 | [YOUR SONG \(With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/610IckJdwTyY8nez5v64DH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 4:18 |
 | 49 | [A Little Braver](https://open.spotify.com/track/2ekUnvuL7fclPdPK28kwDH) | [New Empire](https://open.spotify.com/artist/5iVjA1Of8CIToe69eg3EUQ) | [Uncontrollably Fond OST Part.14](https://open.spotify.com/album/7x0gVxvOhrQZKTFuWVkAlh) | 3:26 |
 | 50 | [I want to be a pillow](https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_ello?](https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B) | 3:43 |
-| 51 | [Loveless Night](https://open.spotify.com/track/3D51P7X8MO6G6YaynJsprB) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/1uPd7ZyJe84CbFHoNco4ne) | 4:17 |
-| 52 | [Yesterday You Left Me](https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [The 3rd EP](https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi) | 3:42 |
+| 51 | [Yesterday You Left Me](https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [The 3rd EP](https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi) | 3:42 |
+| 52 | [Loveless Night](https://open.spotify.com/track/3D51P7X8MO6G6YaynJsprB) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/1uPd7ZyJe84CbFHoNco4ne) | 4:17 |
 
-Snapshot ID: `MCxkZGRkYmNiYmQwNmFlOTgxZTU1Zjk5ZTIwYjcyNDNhZmFiY2UzN2Jm`
+Snapshot ID: `MCwyM2FiYzk5NGQ0NGU5YWU3MzI2M2JjYmZhNzM0MzI1ODczMjFiMTQ5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with Chikoruss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,595 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,664 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 79 | [BODY CAN'T LIE](https://open.spotify.com/track/5VUU5lyaTnxLbJqSZ4BKiS) | [Joéllen](https://open.spotify.com/artist/2y7cvgbbpRXy36T223ujdf) | [BODY CAN'T LIE](https://open.spotify.com/album/68BwvNBTHqF495u9xfBJkG) | 2:36 |
 | 80 | [Someone Else](https://open.spotify.com/track/2Wotno3Bbbyb1d1pv2SuCm) | [Hunnah](https://open.spotify.com/artist/5ALJQTH4K9eghzib4UhiqV) | [That's All For Now](https://open.spotify.com/album/1VQK4sDYIDVAQ8xyT1zZsH) | 3:44 |
 | 81 | [LIE LIE LIE!](https://open.spotify.com/track/0pAQYA3DItRcxctQCGM2AH) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [LIE LIE LIE!](https://open.spotify.com/album/2NnP52zmXOENLm19DojzmS) | 2:28 |
-| 82 | [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/track/3w7AzChjtAtjLvVQll2Mjf) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/album/2qYeK1QWdV9oMmYSzWzy6v) | 3:20 |
+| 82 | [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/track/4di3AFoecpRWM8m3fHYOm5) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Different Breed](https://open.spotify.com/album/2KVEGCt9y66zw0wA1KLd0o) | 3:20 |
 | 83 | [1 Room](https://open.spotify.com/track/5yHNaGpYlw0DKhd178cHaZ) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [1 Room](https://open.spotify.com/album/7vJxVzSCgWOOH26gwjwrLk) | 2:17 |
 | 84 | [222](https://open.spotify.com/track/0gv0tyqaOONXB6JhZsrXSb) | [pisceze](https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n) | [222](https://open.spotify.com/album/3HUtH5FxyIyU9hGEdV0VpY) | 2:22 |
 | 85 | [JUST LIKE CANDY](https://open.spotify.com/track/6XG3FOWMN4AOvQoxVoLUI7) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [HARTTBREAK / am I enough?](https://open.spotify.com/album/1ROUWJo8rgIAEt6pm34ToK) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 |
 | 100 | [Beach](https://open.spotify.com/track/591OojQCkyOLyMqmJRVyyc) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Risk](https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo) | 2:06 |
 
-Snapshot ID: `MCwzNWYxODljYWU5ZmU4MWNhOGRiMTVlODMzZDYyYjZmMWU5MDgwNjQx`
+Snapshot ID: `MCxhZDk4ZjFiZmNlZmM1MjkyYWFhMzllZDhkZTkxNTUyZTA1YmFmMGM1`

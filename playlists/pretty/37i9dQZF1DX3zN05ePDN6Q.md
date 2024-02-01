@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Parteum
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,962 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,005 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Era uma vez](https://open.spotify.com/track/0XDJWF6ZyERx7lDBQ2ZiFs) | [AFRONASA](https://open.spotify.com/artist/1cIM4auCHPl3RWc7ZvKFYZ), [Guiu](https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [CXLD](https://open.spotify.com/artist/6rPOy8FDvdRxhM575PCNDU), [DROPEreal](https://open.spotify.com/artist/0W4OeSgEAxfqQWFQu6LQ00), [Pokas](https://open.spotify.com/artist/3nHUE5UfHW0QqUlfVUAME4) | [Era uma vez](https://open.spotify.com/album/31ggQN6NLpn6rjKD1XTJCa) | 2:55 |
 | 75 | [Sem Sono](https://open.spotify.com/track/0gjtaNRdXuCAiSvp3OfIOx) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 1:43 |
 
-Snapshot ID: `MCxmYzFkOGE3OGRjMzUwZjQ0N2Q4YTFhMTM2NGRiNDI5MzI0YzViOWY0`
+Snapshot ID: `MCxhNTllYzU1Y2UwMTJjM2MxNzBkZWYwNDEyYzkzOTY5ODc0YTk4OGU2`

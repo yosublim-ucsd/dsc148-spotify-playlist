@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain](/playlists/plain/7EYxnpva8IlIgJ42z96zXH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7EYxnpva8IlIgJ42z96zXH)
 
-### [Morning Workout 2024](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
+### [Morning Workout](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
 
-> Kickstart your morning workout with these upbeat workout tracks, updated weekly!
+> Kickstart your morning workout with these upbeat workout tracks, updated weekly! Featuring Dom Dolla, Kygo, cassö, Calvin Harris and more.
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,983 likes - 100 songs - 5 hr 11 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,982 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 99 | [This Time \(feat\. Tasman Keith\)](https://open.spotify.com/track/7moFboQ0CzOBlWOMgepIIa) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2), [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1) | [Cellophane](https://open.spotify.com/album/3JVHGXV3vmSWZoDRLiEbpw) | 3:22 |
 | 100 | [Hella Good](https://open.spotify.com/track/1ck6fXDzbKiWKCVSfqxsUB) | [Niko The Kid](https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X), [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY) | [Hella Good](https://open.spotify.com/album/7r5MlpWk6gQ2fCRDWjUIzn) | 2:55 |
 
-Snapshot ID: `MzA2MixiZWIwOTQ5ZWI2YjcwNzE5NzY1Y2VlY2EwMWNhOTU0NWUwNmQ1ZTEw`
+Snapshot ID: `MzA2Myw2YzdlMjUzNjM4MGY4Yzc0NDZhMDY0ZWQ4Y2FmMDQ5ZWRmM2Y0NTMw`

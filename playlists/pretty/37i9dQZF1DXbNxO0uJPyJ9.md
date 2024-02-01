@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,493 likes - 80 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,581 likes - 80 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 38 | [Hypnotic Tango \- Original 12" Version](https://open.spotify.com/track/3L1bBpBTa1SmGivOhR6DID) | [My Mine](https://open.spotify.com/artist/6RJSLoaPbwMo58MnK83v8o) | [Hypnotic Tango](https://open.spotify.com/album/7DpHPysI2JkdhVNKFfgU2C) | 6:09 |
 | 39 | [Domino Dancing \- 2018 Remaster](https://open.spotify.com/track/6ZT1v8YUeFN8n587DvzZXl) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Introspective \(2018 Remaster\)](https://open.spotify.com/album/4d0V4C5pHQA5G5PjP1FuNH) | 7:40 |
 | 40 | [La Isla Bonita \- Extended Remix](https://open.spotify.com/track/1jaVdF0FSPTWi8E4MWiLPR) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Chris Lord\-Alge](https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 5:25 |
-| 41 | [Dolce Vita \(Extended Version\)](https://open.spotify.com/track/2eQomd6Smp8EGRjvvkIs56) | [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Dolce Vita](https://open.spotify.com/album/5fqLQ6AOBdz8CaHswljPSe) | 7:32 |
-| 42 | [I Can Lose My Heart Tonight \- Maxi\-Version](https://open.spotify.com/track/1QdAjfmZ41ObR6cnacTIXh) | [C.C\. Catch](https://open.spotify.com/artist/1YtbaDXlnc2YMDeOqO4lmq) | [The 80's Album](https://open.spotify.com/album/0w7QO2jTbvXsNQC18EZLQZ) | 5:52 |
+| 41 | [I Can Lose My Heart Tonight \- Maxi\-Version](https://open.spotify.com/track/1QdAjfmZ41ObR6cnacTIXh) | [C.C\. Catch](https://open.spotify.com/artist/1YtbaDXlnc2YMDeOqO4lmq) | [The 80's Album](https://open.spotify.com/album/0w7QO2jTbvXsNQC18EZLQZ) | 5:52 |
+| 42 | [Dolce Vita \(Extended Version\)](https://open.spotify.com/track/2eQomd6Smp8EGRjvvkIs56) | [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Dolce Vita](https://open.spotify.com/album/5fqLQ6AOBdz8CaHswljPSe) | 7:32 |
 | 43 | [Pump Up The Volume \- UK 12" Remix](https://open.spotify.com/track/6LERtd1yiclxFH8MHAqr0Q) | [M/A/R/R/S](https://open.spotify.com/artist/13jRo2FyagCX9wrKIpOt46) | [Pump Up The Volume](https://open.spotify.com/album/278KsI74WEu4vrwXdjPSyc) | 6:29 |
 | 44 | [Caribbean Queen \(No More Love on the Run\) \- Extended Mix](https://open.spotify.com/track/3pfJpM4ZrTAoFVi0uSnybS) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Suddenly \(Expanded Edition\)](https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo) | 8:14 |
-| 45 | [Tainted Love / Where Did Our Love Go \- Extended Version / Medley](https://open.spotify.com/track/2atm0QTTcVXsN47XSdIY7b) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/1R4TikWrz6Mz53aB66dZRn) | 8:59 |
+| 45 | [Tainted Love / Where Did Our Love Go? \- Extended Version / Medley](https://open.spotify.com/track/2atm0QTTcVXsN47XSdIY7b) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/1R4TikWrz6Mz53aB66dZRn) | 8:59 |
 | 46 | [What Is Love? \- Extended Mix](https://open.spotify.com/track/37Q1Ql8jgueqnmN0D4sFEb) | [Howard Jones](https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY) | [The 12" Album](https://open.spotify.com/album/4Pmb0lbx2GAo6LDl9iyaYI) | 6:36 |
 | 47 | [Voyage voyage \- Maxi](https://open.spotify.com/track/1i8isuRSQWFX9qKnaI5hrt) | [Desireless](https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2) | [François](https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q) | 6:43 |
 | 48 | [Flashback](https://open.spotify.com/track/1EOlxJCq3fXCIvqWJm1xrO) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [Body Talk](https://open.spotify.com/album/10Y664SOGkLTvzcP2xrET6) | 4:35 |
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 54 | [You Spin Me Round \(Like a Record\) \- Murder Mix](https://open.spotify.com/track/6gIBeNdhyrT2nt1zEILoxc) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [That's The Way I Like It: The Best of Dead Or Alive](https://open.spotify.com/album/1FhVoVBXXXJuZr3GwdOgPS) | 8:01 |
 | 55 | [Love](https://open.spotify.com/track/1kSORioLYEnTW7VEuBAoFG) | [The Art Of Noise](https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU) | [Daft](https://open.spotify.com/album/5zPJjpbtL6TGmm0JDlW42R) | 7:01 |
 | 56 | [Baker Street \- Extended Mix](https://open.spotify.com/track/5zQ0hhBlYb23q2XAP6Br70) | [Undercover](https://open.spotify.com/artist/5EQMhqNfNmnIIAgwQX1WZ7) | [Baker Street](https://open.spotify.com/album/719HzJ5wKCbFb5KeU96DhW) | 5:11 |
-| 57 | [I.O.U\. \- 12" Version](https://open.spotify.com/track/2hPg9Ovq5KnchKwmF2O6jI) | [Freeez](https://open.spotify.com/artist/5titkTztShEPJSoCL9TXF2) | [Freeez Frame! \- The Best of Freeez](https://open.spotify.com/album/04S99UxdngAfYMS40yjcld) | 8:45 |
-| 58 | [Paid In Full \- Seven Minutes Of Madness \- The Coldcut Remix](https://open.spotify.com/track/5XQPpKiBjXUI4bIenLBxci) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full \(Deluxe Edition\)](https://open.spotify.com/album/0SHeOTuKXo4cM1CWyAwDcj) | 7:09 |
+| 57 | [Paid In Full \- Seven Minutes Of Madness \- The Coldcut Remix](https://open.spotify.com/track/5XQPpKiBjXUI4bIenLBxci) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full \(Deluxe Edition\)](https://open.spotify.com/album/0SHeOTuKXo4cM1CWyAwDcj) | 7:09 |
+| 58 | [I.O.U\. \- 12" Version](https://open.spotify.com/track/2hPg9Ovq5KnchKwmF2O6jI) | [Freeez](https://open.spotify.com/artist/5titkTztShEPJSoCL9TXF2) | [Freeez Frame! \- The Best of Freeez](https://open.spotify.com/album/04S99UxdngAfYMS40yjcld) | 8:45 |
 | 59 | [Maria Magdalena \- Extended Version](https://open.spotify.com/track/5FZfFEb6seV2NzTF7SVChR) | [Sandra](https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG) | [So80s Presents Sandra \- Curated By Blank & Jones](https://open.spotify.com/album/3AZeLA6zVLTEfUCVG7fdFP) | 7:11 |
-| 60 | [So Many Men, So Little Time](https://open.spotify.com/track/3LyetI45on2w6hV1H3agi9) | [Miquel Brown](https://open.spotify.com/artist/0y6KR72CWZyrsYZr8iAq4G) | [So Many Men](https://open.spotify.com/album/2UiwZJ51AAAmoy9OkBqUoX) | 8:14 |
-| 61 | [Rock Me Amadeus \- 12" American Edit](https://open.spotify.com/track/5SjPfAiNn5rqPkQNcglgVR) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Rock Me Amadeus 30th Anniversary](https://open.spotify.com/album/31VIlWUGdK4a3ZqEC9efJO) | 5:50 |
+| 60 | [Rock Me Amadeus \- 12" American Edit](https://open.spotify.com/track/5SjPfAiNn5rqPkQNcglgVR) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Rock Me Amadeus 30th Anniversary](https://open.spotify.com/album/31VIlWUGdK4a3ZqEC9efJO) | 5:50 |
+| 61 | [So Many Men, So Little Time](https://open.spotify.com/track/3LyetI45on2w6hV1H3agi9) | [Miquel Brown](https://open.spotify.com/artist/0y6KR72CWZyrsYZr8iAq4G) | [So Many Men](https://open.spotify.com/album/2UiwZJ51AAAmoy9OkBqUoX) | 8:14 |
 | 62 | [Forget Me Nots \- 12" Version](https://open.spotify.com/track/2fsTa42UfMdAQjISgmf4ec) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 7:14 |
 | 63 | [I Like Chopin \- Extended Dance Version](https://open.spotify.com/track/3M5cHUiZQy9oIPtNDxBVB5) | [Gazebo](https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1) | [80s: 100 Remixes](https://open.spotify.com/album/3goHSkdSCMhZQPe2zH8x0s) | 7:38 |
 | 64 | [Kiss Me \(1985\)](https://open.spotify.com/track/7s0CqOvyKGkyPLl6N2Bg9I) | [Stephen Duffy](https://open.spotify.com/artist/2G5cWvHkX9WSrGv6OnmpWD) | [They Called Him Tin Tin](https://open.spotify.com/album/1WE9klbrrh3FS7CGkFwkZT) | 3:53 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [Extended Souvenir \- 2003 Digital Remaster](https://open.spotify.com/track/3R14PSng7wtMo81cNG67Q6) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Architecture And Morality](https://open.spotify.com/album/6bR98XzGnklTORDvZ7Oc2i) | 4:16 |
 | 80 | [Theme from S'Express \- 12" Version](https://open.spotify.com/track/6ccIWKEpKvp7YYWLbD3ckK) | [S'Express](https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S) | [Original Soundtrack](https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc) | 5:59 |
 
-Snapshot ID: `MCxhMDA4ZWQ4MTYxNDc5YTA3NTkzYWM5YmZlMzFhZmIxYzg2Zjg4ZGY3`
+Snapshot ID: `MCxkNjJkZWRjOWU3MWZkMTAwNTA0MjY2YjkwNTNlMTJlMDQyODg4NDlm`

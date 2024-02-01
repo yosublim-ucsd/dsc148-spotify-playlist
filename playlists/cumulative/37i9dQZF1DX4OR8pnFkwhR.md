@@ -4,7 +4,7 @@
 
 > Spotifyが2024年に躍進を期待する次世代アーティスト「RADAR: Early Noise 2024」10組のアーティストを発表！！ Cover: 離婚伝説/＊<a href="https://spotify\-earlynoise.jp/">2024.3.15 Early Noise Night\#16開催決定！</a>
 
-1,360 songs - 3 day 10 hr 51 min
+1,361 songs - 3 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,7 +473,8 @@
 | [Neighbor](https://open.spotify.com/track/5Gfd9OVeGAntRYosUS0ZCy) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [Neighbor](https://open.spotify.com/album/4SMsvmN93mpnD23tZXZikV) | 4:32 | 2023-02-21 | 2023-03-22 |
 | [Neko no yume](https://open.spotify.com/track/3GAFxFe3iUzN63c0iYRKun) | [Kibayashi](https://open.spotify.com/artist/4ZgrFapwlfgxKheYw5TGws) | [Seikatsu](https://open.spotify.com/album/3W01XFOYDBF3zi15bmxQpi) | 3:35 | 2022-11-15 | 2023-01-13 |
 | [Nevermore](https://open.spotify.com/track/25McpBGoKrqT8zRgBAoLwU) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Nevermore](https://open.spotify.com/album/5ru7PBhCc7z2n9541AYPyz) | 5:03 | 2022-02-17 | 2022-04-15 |
-| [New World](https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq) | 2:43 | 2024-01-10 |  |
+| [New World](https://open.spotify.com/track/5d0901OV306utjv7ALii1O) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/3gcX6aWX8a6ZDbPtlVYvXA) | 2:43 | 2024-01-30 |  |
+| [New World](https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq) | 2:43 | 2024-01-10 | 2024-02-01 |
 | [Nice na Girl](https://open.spotify.com/track/35BlorQ9VTclZQjJbsRon1) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Saba No Ichi](https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN) | 2:50 | 2024-01-10 |  |
 | [NIGHT DANCER \- BIG Naughty Remix](https://open.spotify.com/track/2QS8VmtgJ40DBQbOfK4W9U) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [NIGHT DANCER \(BIG Naughty Remix\)](https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu) | 3:30 | 2023-05-16 | 2023-05-26 |
 | [Night Out](https://open.spotify.com/track/0qO3nh7giIoryNbhpkA52V) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [Night Out](https://open.spotify.com/album/3M5Zug7kp9osZEXxUBgLix) | 4:24 | 2022-12-06 | 2022-12-21 |

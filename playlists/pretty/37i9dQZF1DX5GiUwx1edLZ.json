@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 276345,
+  "num_followers": 276335,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGM2MjRjMmRlNzNhZjUyOWMwYjA0MTk0ZmVmMGI2NjZlNjI4NjUy",
+  "snapshot_id": "MCwyYjQ3NGEwYTU5MzY3NWIyOTZlMjVlNzdmMGNmZjhiODdiNmM4NGY2",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1415,22 +1415,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Stay The Night (Acoustic)",
-        "url": "https://open.spotify.com/album/723Y2fykArGgggQKPmvW0v"
+        "name": "Recognise (Remixes)",
+        "url": "https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8"
       },
       "artists": [
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         },
         {
-          "name": "Talia Mar",
-          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
+          "name": "Flynn",
+          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
         }
       ],
-      "duration_ms": 171840,
-      "name": "Stay The Night - Acoustic",
-      "url": "https://open.spotify.com/track/4beQ74mY5EVRwXgBJ7wFf6"
+      "duration_ms": 169466,
+      "name": "Recognise - Acoustic Version",
+      "url": "https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1459,22 +1459,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Recognise (Remixes)",
-        "url": "https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8"
+        "name": "Stay The Night (Acoustic)",
+        "url": "https://open.spotify.com/album/723Y2fykArGgggQKPmvW0v"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
-          "name": "Flynn",
-          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
+          "name": "Talia Mar",
+          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
         }
       ],
-      "duration_ms": 169466,
-      "name": "Recognise - Acoustic Version",
-      "url": "https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H"
+      "duration_ms": 171840,
+      "name": "Stay The Night - Acoustic",
+      "url": "https://open.spotify.com/track/4beQ74mY5EVRwXgBJ7wFf6"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Ferrari (Acoustic)",
-        "url": "https://open.spotify.com/album/706d3fxyjF2C03PxtyueQK"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 141890,
-      "name": "Ferrari - Acoustic",
-      "url": "https://open.spotify.com/track/5eaYAQU1cr3M8hLdF71Fg7"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "You Were Loved (with OneRepublic) [Acoustic]",
         "url": "https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 211967,
       "name": "You Were Loved (with OneRepublic) - Acoustic",
       "url": "https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Ferrari (Acoustic)",
+        "url": "https://open.spotify.com/album/706d3fxyjF2C03PxtyueQK"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 141890,
+      "name": "Ferrari - Acoustic",
+      "url": "https://open.spotify.com/track/5eaYAQU1cr3M8hLdF71Fg7"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1607,22 +1607,18 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Mad World (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4Eq4A8AIi4PvXOEqrK2Iaq"
+        "name": "Are You With Me (Remixes)",
+        "url": "https://open.spotify.com/album/5Lg5cLkEmlq2IN0K0u5KeC"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Jake Reese",
-          "url": "https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         }
       ],
-      "duration_ms": 169200,
-      "name": "Mad World - Acoustic Version",
-      "url": "https://open.spotify.com/track/3uXVW7yEmJvVeslQae2dc3"
+      "duration_ms": 176518,
+      "name": "Are You with Me - Harold Van Lennep Piano Edit",
+      "url": "https://open.spotify.com/track/0kcVKQd51mgJdEe3Fgqmas"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1671,38 +1667,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Are You With Me (Remixes)",
-        "url": "https://open.spotify.com/album/5Lg5cLkEmlq2IN0K0u5KeC"
+        "name": "Mad World (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4Eq4A8AIi4PvXOEqrK2Iaq"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 176518,
-      "name": "Are You with Me - Harold Van Lennep Piano Edit",
-      "url": "https://open.spotify.com/track/0kcVKQd51mgJdEe3Fgqmas"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Another Chance (Remixes)",
-        "url": "https://open.spotify.com/album/06RlOKlbMSJajJXRm2qVpt"
-      },
-      "artists": [
-        {
-          "name": "Big Pineapple",
-          "url": "https://open.spotify.com/artist/364ge6OLf1AsRisexSjfJN"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "Jake Reese",
+          "url": "https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ"
         }
       ],
-      "duration_ms": 217043,
-      "name": "Another Chance - Don Diablo Chill Mix",
-      "url": "https://open.spotify.com/track/5bLnab0c8Y9gVLDnLKdsfF"
+      "duration_ms": 169200,
+      "name": "Mad World - Acoustic Version",
+      "url": "https://open.spotify.com/track/3uXVW7yEmJvVeslQae2dc3"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1743,6 +1723,26 @@
       "duration_ms": 181934,
       "name": "Used To Have It All - Acoustic",
       "url": "https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Another Chance (Remixes)",
+        "url": "https://open.spotify.com/album/06RlOKlbMSJajJXRm2qVpt"
+      },
+      "artists": [
+        {
+          "name": "Big Pineapple",
+          "url": "https://open.spotify.com/artist/364ge6OLf1AsRisexSjfJN"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 217043,
+      "name": "Another Chance - Don Diablo Chill Mix",
+      "url": "https://open.spotify.com/track/5bLnab0c8Y9gVLDnLKdsfF"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Hear Me Say (Acoustic)",
-        "url": "https://open.spotify.com/album/3mZ3lgRGgKJ1osqqH39vH0"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 149525,
-      "name": "Hear Me Say - Acoustic",
-      "url": "https://open.spotify.com/track/2lUB3DmQbrQrYeGWc3PfcY"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "My Heart Goes (La Di Da) (Acoustic feat. Topic)",
         "url": "https://open.spotify.com/album/3hKRY4DD8oIvlKOsfaMqcM"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 161146,
       "name": "My Heart Goes (La Di Da) (Acoustic feat. Topic)",
       "url": "https://open.spotify.com/track/5SaWCxHm3nONtaL0pNxiJZ"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Hear Me Say (Acoustic)",
+        "url": "https://open.spotify.com/album/3mZ3lgRGgKJ1osqqH39vH0"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 149525,
+      "name": "Hear Me Say - Acoustic",
+      "url": "https://open.spotify.com/track/2lUB3DmQbrQrYeGWc3PfcY"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Starlight Remixes",
+        "url": "https://open.spotify.com/album/4yrDQAqHKyqRRYOIlc13bo"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 214244,
+      "name": "Starlight (Piano Version)",
+      "url": "https://open.spotify.com/track/0mOvN6JOJcW2Y4PHfIDqYQ"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Acoustic Collection (Vol. 1)",
         "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 181240,
       "name": "Finest Hour (feat. Abir) - Acoustic Version",
       "url": "https://open.spotify.com/track/6ZMTQIeV5IZMTOFmVhDziW"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Starlight Remixes",
-        "url": "https://open.spotify.com/album/4yrDQAqHKyqRRYOIlc13bo"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 214244,
-      "name": "Starlight (Piano Version)",
-      "url": "https://open.spotify.com/track/0mOvN6JOJcW2Y4PHfIDqYQ"
     }
   ],
   "unique_name": "mint Acoustic",

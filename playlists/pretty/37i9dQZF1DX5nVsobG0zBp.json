@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang.  ",
-  "num_followers": 57814,
+  "num_followers": 57849,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmIwYWEzM2MxYmJlZTE3YWE5MjBlN2EwOWUzYWU2ZWQzOTc1Yjg5",
+  "snapshot_id": "MCxhZjUzNWI2ZjA3M2M4ZTIyZmEwNzcwZjk3YTBjOWJmMDEyNDY5NWU4",
   "tracks": [
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
+        "name": "Cool Kid",
+        "url": "https://open.spotify.com/album/4S2BptKqkJtd8cnzk28NlP"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Rdc",
+          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
+        }
+      ],
+      "duration_ms": 207658,
+      "name": "Morte Do Artista",
+      "url": "https://open.spotify.com/track/1MlS996c4ea12zlMhqmW56"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
         "name": "2020 (feat. Slow J)",
         "url": "https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 203812,
       "name": "2020 (feat. Slow J)",
       "url": "https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
-        "name": "Cool Kid",
-        "url": "https://open.spotify.com/album/4S2BptKqkJtd8cnzk28NlP"
-      },
-      "artists": [
-        {
-          "name": "Phoenix Rdc",
-          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
-        }
-      ],
-      "duration_ms": 207658,
-      "name": "Morte Do Artista",
-      "url": "https://open.spotify.com/track/1MlS996c4ea12zlMhqmW56"
     },
     {
       "added_at": "2024-01-26 00:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 934574,
+  "num_followers": 934479,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzlmOTljNzMzYjMzOTNlZDAwMDFkMzdkZWMyZDIwZTQyZGIwN2Rl",
+  "snapshot_id": "MCwzMzU1ODViY2VmZjc2NmEzNjRlYTdlZWE1YjdkMzUzYjhmYjViNDZk",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "2 Things",
+        "url": "https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "2 Things",
+      "url": "https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Make Me Feel",
         "url": "https://open.spotify.com/album/6VGs1p7hG1sRLmToA3Dw9d"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 154838,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/2i6FWcstV4Ct72L4ORnfwZ"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "2 Things",
-        "url": "https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "2 Things",
-      "url": "https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "The Drop (Ownboss Remix)",
         "url": "https://open.spotify.com/album/0xpfN2PvmlHbF5ki5u3RJR"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 176328,
       "name": "The Drop - \u00d6wnboss Remix",
       "url": "https://open.spotify.com/track/0Sqo0vvIRcIQBD1XuTrH69"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Backseat Tape",
-        "url": "https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 169207,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/1TeG6xwHJG8Y6fiw7PebSl"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "All That You Need",
         "url": "https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 160312,
       "name": "All That You Need",
       "url": "https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Backseat Tape",
+        "url": "https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 169207,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/1TeG6xwHJG8Y6fiw7PebSl"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Still Cutting Shapes",
+        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Still Cutting Shapes",
+      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Smack That",
         "url": "https://open.spotify.com/album/6coZsT8OiaHO1a98kJkjVQ"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 160952,
       "name": "Smack That",
       "url": "https://open.spotify.com/track/2ttKP17aZtsb96c6sK1QDK"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Still Cutting Shapes",
-        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Still Cutting Shapes",
-      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "BUBBLEGUM",
+        "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 148538,
+      "name": "BUBBLEGUM",
+      "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Ravers",
         "url": "https://open.spotify.com/album/4JuA2DPEmIV0EUeDikpy2h"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 153749,
       "name": "Ravers",
       "url": "https://open.spotify.com/track/5YWxunBgmnSlEq2xz49FqI"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "BUBBLEGUM",
-        "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 148538,
-      "name": "BUBBLEGUM",
-      "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1943,22 +1943,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Bad Bassline",
-        "url": "https://open.spotify.com/album/4C7PnuA3nd6XXBYfLuWcaH"
+        "name": "2HEARTs dlux",
+        "url": "https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ"
       },
       "artists": [
         {
-          "name": "Jenn Getz & Alfie",
-          "url": "https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH"
-        },
-        {
-          "name": "DJ Luck & MC Neat",
-          "url": "https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF"
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
         }
       ],
-      "duration_ms": 191250,
-      "name": "Bad Bassline",
-      "url": "https://open.spotify.com/track/4d1Z1ydKSxQqk41ABR38Es"
+      "duration_ms": 239047,
+      "name": "my luv - bonus track",
+      "url": "https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP"
     }
   ],
   "unique_name": "Shuffle Syndrome",

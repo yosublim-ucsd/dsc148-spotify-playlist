@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 
 > Un vibe tranqui para que disfrutes de tu espacio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,029 likes - 85 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,028 likes - 85 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 | 84 | [Shoes Off](https://open.spotify.com/track/4sRhJO2jitRW4bKiwxQHrH) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Vinkel](https://open.spotify.com/album/57zyze2b8SjHt20Th7mXHO) | 2:01 |
 | 85 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 |
 
-Snapshot ID: `MCxhZGRjNGU0N2ZiZjY4Yzg2N2QzMDg0ZWMxMWU2NTdjYTRkNjY5OWZl`
+Snapshot ID: `MCwwMTdjZjc1MjYwYTcwZGZiNTZhY2MwNzZjZTgxZDdhZjZiNDc4NTFh`

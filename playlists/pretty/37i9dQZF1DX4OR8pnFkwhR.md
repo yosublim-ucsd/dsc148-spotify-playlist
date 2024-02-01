@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが2024年に躍進を期待する次世代アーティスト「RADAR: Early Noise 2024」10組のアーティストを発表！！ Cover: 離婚伝説/＊<a href="https://spotify\-earlynoise.jp/">2024.3.15 Early Noise Night\#16開催決定！</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,770 likes - 30 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,853 likes - 30 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 12 | [Kick Up](https://open.spotify.com/track/3GEZrXDyJGtcIo4kLLiF67) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Kick Up](https://open.spotify.com/album/6KkikXwQyUw7jtJqrfo35a) | 3:07 |
 | 13 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 |
 | 14 | [BOW](https://open.spotify.com/track/2CrrWAO1SOHP5xw8nACU2o) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [BOW](https://open.spotify.com/album/1oI8nrecGcBbiuHGBTXfA8) | 3:02 |
-| 15 | [New World](https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq) | 2:43 |
+| 15 | [New World](https://open.spotify.com/track/5d0901OV306utjv7ALii1O) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/3gcX6aWX8a6ZDbPtlVYvXA) | 2:43 |
 | 16 | [空とぶ東京](https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:12 |
 | 17 | [花様年華](https://open.spotify.com/track/4LkH4PpFcaTXLVsum4dGPm) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:29 |
 | 18 | [tradition](https://open.spotify.com/track/3jqm9iYwxyYQBM3WLoPiAx) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:27 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 29 | [一輪花](https://open.spotify.com/track/456rgV2smcOpAhhSlQVPK8) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [一輪花](https://open.spotify.com/album/2ozJ1C7HXquEWd8Fv8azgY) | 3:44 |
 | 30 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 |
 
-Snapshot ID: `MCwyNGQ3NzE5YzBjZjYyZGNiYWE3ZmU1Y2Y1ZjViYTBhMzE3MjFhNmM3`
+Snapshot ID: `MCw1NjM0NjRmYmY2OGI1OGY5ZWFjZjY4N2QyNjc1NDEwMzRlNzA5MDlh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,030 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,088 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,15 +35,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 25 | [Chime \- Edit](https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Chime](https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm) | 3:14 |
 | 26 | [Move Your Body](https://open.spotify.com/track/1VLEbclmTbYS9Rdp1b90Yf) | [Xpansions](https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj) | [Move Your Body \(Elevation\) \- EP](https://open.spotify.com/album/1lzDLTMaIPXUVoVfaADink) | 3:51 |
 | 27 | [Playing With Knives \[Quadrant Mix}](https://open.spotify.com/track/3ToxQ1h56CW3lA2zcGtODh) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Playing With Knives \[Quadrant Mix\]](https://open.spotify.com/album/1q4NYQT20Fb9kN16yZ3OHM) | 6:47 |
-| 28 | [Clear \- Jose “Animal” Diaz Remix](https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Clear](https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC) | 4:54 |
-| 29 | [Beep Street](https://open.spotify.com/track/4ogHzwfR0UCxfzGZBYHyV9) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Hard Normal Daddy](https://open.spotify.com/album/08XR1KLcDo49Yay08q7CsE) | 6:37 |
+| 28 | [Beep Street](https://open.spotify.com/track/4ogHzwfR0UCxfzGZBYHyV9) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Hard Normal Daddy](https://open.spotify.com/album/08XR1KLcDo49Yay08q7CsE) | 6:37 |
+| 29 | [Clear \- Jose “Animal” Diaz Remix](https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Clear](https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC) | 4:54 |
 | 30 | [Such A Good Feeling \- Radio Edit](https://open.spotify.com/track/6eKyW6xYhzQQLq1Rff5uh2) | [Brothers In Rhythm](https://open.spotify.com/artist/0f2HTJx4jowMoiHBH4GzdU) | [Such A Good Feeling](https://open.spotify.com/album/76IesqEEpKbaN6zDzJVhXp) | 3:46 |
 | 31 | [Energy Flash](https://open.spotify.com/track/46ddej1ibGIgs58H0wakoK) | [Joey Beltram](https://open.spotify.com/artist/4OW0w5K2UNaWtbpRqzWqI0) | [Classics](https://open.spotify.com/album/28lpBShPdRMmQxT2kEAKMq) | 5:50 |
 | 32 | [Maximum Style \(Lover To Lover\)](https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b) | [Tom & Jerry](https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 4:05 |
 | 33 | [Not over Yet \- Perfecto Edit](https://open.spotify.com/track/5WdcLFYroa1wGlPSaNMQ29) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet \(Remixes\)](https://open.spotify.com/album/4XUF3D8QpVeBGqHrwNcZCw) | 4:21 |
 | 34 | [Your Love \- Remix](https://open.spotify.com/track/0sdml9f4KUs2SiV0hwv5rY) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience: Expanded](https://open.spotify.com/album/4Ch1rT1sIURz12ZVKH0a4p) | 5:31 |
-| 35 | [Injected with a Poison](https://open.spotify.com/track/6pjNPFhhzSho4EYffiV8Pa) | [Praga Khan](https://open.spotify.com/artist/571MZ41OAhLQwOHzW6XfRb) | [Conquers Your Love \(Remastered\)](https://open.spotify.com/album/1TvcBifosVJDio8eHJjuoz) | 5:03 |
-| 36 | [LFO \- Leeds Warehouse Mix](https://open.spotify.com/track/5AMGYRhiqZoCYkJEK3yqgi) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Frequencies](https://open.spotify.com/album/1USvljUnnceyGwsJFf9IR8) | 5:19 |
+| 35 | [LFO \- Leeds Warehouse Mix](https://open.spotify.com/track/5AMGYRhiqZoCYkJEK3yqgi) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Frequencies](https://open.spotify.com/album/1USvljUnnceyGwsJFf9IR8) | 5:19 |
+| 36 | [Injected with a Poison](https://open.spotify.com/track/6pjNPFhhzSho4EYffiV8Pa) | [Praga Khan](https://open.spotify.com/artist/571MZ41OAhLQwOHzW6XfRb) | [Conquers Your Love \(Remastered\)](https://open.spotify.com/album/1TvcBifosVJDio8eHJjuoz) | 5:03 |
 | 37 | [Don't You Want Me \- Edit](https://open.spotify.com/track/5xmZDSLfUKwgTxfEqVv7g0) | [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 3:09 |
 | 38 | [Tell Me Why \- M&M Full Vocal](https://open.spotify.com/track/272RmS2rS59JVBhlSR0cMv) | [Rachel Wallace](https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b) | [Tell Me Why](https://open.spotify.com/album/7nf0pfKVjqF7zAmudyu7JQ) | 4:47 |
 | 39 | [Beat Dis](https://open.spotify.com/track/6L8xB44ZvgAJjQEY9Zx6y6) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [80s 100 Hits \- Volume 2](https://open.spotify.com/album/56QkBFCRUIGCMWnKKKheXC) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 49 | [Acperience 1](https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W) | [Hardfloor](https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk) | [TB Resucitation](https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN) | 9:02 |
 | 50 | [Cübik](https://open.spotify.com/track/5BxETnZ8Dzm86jcuFAozOa) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Utd\. State 90](https://open.spotify.com/album/7DWTuqhMmJIE9Py0e8Wa5C) | 3:41 |
 
-Snapshot ID: `MCw2YTQ3NjFmODE0ZTFjYzgxNmVmN2I2YmViZDdmOGM5ODc2MmQxNjIx`
+Snapshot ID: `MCwzOWE0MmQxYmJlZjBkNWRmODRiYWI5ZTI1ZTExZTRjYzg2YmY4N2Y2`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > Stay up to date with the freshest Arabic Pop Songs\. Cover: Elissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,203 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,251 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kello Waham](https://open.spotify.com/track/1BswE7MEewdixfNF3Vm6dj) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Kello Waham](https://open.spotify.com/album/1Bo8bgAlOE14eEZHeY8RXL) | 3:22 |
+| 1 | [كلو وهم](https://open.spotify.com/track/3XSlbOYVONZWgHUYsyv1kn) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [كلو وهم](https://open.spotify.com/album/0zVuys4kG4cSCH5TXPuv5H) | 3:22 |
 | 2 | [هي حكاية](https://open.spotify.com/track/6xfNtpD91E67pos5nC4YlF) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [هي حكاية](https://open.spotify.com/album/1S0tU3wayCissjqOuroaYF) | 3:03 |
 | 3 | [Woseltelha](https://open.spotify.com/track/1oh3WIRKgoNi60o9SMykwS) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Woseltelha](https://open.spotify.com/album/6RrDEMqADohA3DYvWkulNB) | 4:08 |
 | 4 | [Mawahashtkesh !!? \- From Hormone El Saada Album](https://open.spotify.com/track/1V5nOyehl22kvbNtfR53Qd) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Mawahashtkesh !!?](https://open.spotify.com/album/6lOiphAEqG5GmFhOKtWjJk) | 5:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 49 | [Alnoon Wama Yalamoon](https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tetr Mosalsal Alnoon Wama Yalamoon](https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl) | 2:49 |
 | 50 | [زلزال](https://open.spotify.com/track/7ct7Fb7Z77kDpB1pxL3uLD) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر 2023](https://open.spotify.com/album/1JacTI0m2p7hVvIta6UVpi) | 4:16 |
 
-Snapshot ID: `MCwyMDZkY2MxMDA2NmJlMjU1YzZhYTlmOTRiODY2ODVkMzM5NDhhYzk0`
+Snapshot ID: `MCxmOGYzMmZmZjE0Yzk5OWY3NzU3ZDJmNDUxYWY5ZThkM2JkYzZjNTVk`

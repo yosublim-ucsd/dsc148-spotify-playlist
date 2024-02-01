@@ -2,9 +2,9 @@
 
 ### [Spotify Singles: Covers](https://open.spotify.com/playlist/37i9dQZF1DWZqyWCBK6QTt)
 
-> The songs you love, in ways you’ve never heard before\. Cover: Sabrina Carpenter
+> The songs you love, in ways you’ve never heard before\. Cover: Norah Jones & Remi Wof
 
-415 songs - 1 day 1 hr 39 min
+416 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 | 2022-06-07 |  |
 | [Carrying Your Love With Me \- Spotify Singles](https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Carrying Your Love With Me \(Spotify Singles\)](https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8) | 4:03 | 2022-06-07 |  |
 | [Castle On The Hill \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Spotify Singles](https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3) | 4:15 | 2021-09-24 |  |
+| [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 | 2024-01-31 |  |
 | [Change \(In The House Of Flies\) \- Recorded at Abbey Road Studios, London](https://open.spotify.com/track/0DFMMdvzwHhvTXVQs26mA0) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Spotify Singles](https://open.spotify.com/album/2jPjaTdyhWQ3dEa7NQXJui) | 4:55 | 2022-03-24 | 2022-04-19 |
 | [Changes \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/6cPWdRFnrKtQPzc4h9Olaz) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Spotify Singles](https://open.spotify.com/album/6gj7iXOB1pGIaTASfjZYMT) | 4:45 | 2021-09-24 | 2022-07-27 |
 | [Circles \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS) | 3:52 | 2022-10-03 |  |
@@ -235,7 +236,7 @@
 | [Lost In Japan \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:19 | 2021-09-24 |  |
 | [Love and Happiness](https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 5:08 | 2022-06-07 |  |
 | [Love And Happiness \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1OgjvzxeljGaL4LrZmV1Qj) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Spotify Singles](https://open.spotify.com/album/3DkpSX4WupAad9H3DgdVji) | 5:07 | 2021-09-24 | 2022-05-01 |
-| [Love Is a Stranger \- Spotify Singles](https://open.spotify.com/track/1BSirCglKNnJ39ag8fhiK0) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Spotify Singles](https://open.spotify.com/album/5bbRNKzRs3j44dxQR9SzJ3) | 3:42 | 2023-11-22 |  |
+| [Love Is a Stranger \- Spotify Singles](https://open.spotify.com/track/1BSirCglKNnJ39ag8fhiK0) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Spotify Singles](https://open.spotify.com/album/5bbRNKzRs3j44dxQR9SzJ3) | 3:42 | 2023-11-22 | 2024-02-01 |
 | [lovely \- Spotify Singles](https://open.spotify.com/track/7FHDb1W6EtQq7WnoX73Rpy) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [Spotify Singles](https://open.spotify.com/album/4sajM6GOU3Z1lbsO99C7WD) | 3:18 | 2022-10-12 | 2023-11-09 |
 | [Lover \- Recorded at Air Studios, London](https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Spotify Singles](https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui) | 3:59 | 2021-09-24 |  |
 | [Lovesong \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T) | [Welles](https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l) | [Spotify Singles](https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P) | 4:11 | 2021-09-24 | 2022-07-25 |

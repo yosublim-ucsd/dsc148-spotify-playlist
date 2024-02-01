@@ -1,12 +1,12 @@
 {
   "description": "New song and hits from your favorite Alternative artists. Cover: Jack White",
-  "num_followers": 75100,
+  "num_followers": 75136,
   "original_name": "Your Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGNmODkzYjA1MTQwN2Q2N2ZmOGM2Mjc0ZWQ2MGJkZmNkNGE4NGVj",
+  "snapshot_id": "MCw2ZDYyNWRkOWY3ZDRiZmE0NzEzYWZhODUzMzUwNDk1YTVhMDA5MjIy",
   "tracks": [
     {
       "added_at": "2022-02-04 05:01:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 217633,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/7E6IL7WFO9ozoWramet7PE"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "Jagged Little Pill",
         "url": "https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 249200,
       "name": "You Oughta Know",
       "url": "https://open.spotify.com/track/0Dw9z44gXhplDh5HCWZIxP"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 217633,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/7E6IL7WFO9ozoWramet7PE"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 190447,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "A Light for Attracting Attention",
         "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 168172,
       "name": "You Will Never Work In Television Again",
       "url": "https://open.spotify.com/track/2ownDSIYHvydbtauGZW4ln"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 190447,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G"
     },
     {
       "added_at": "2022-02-04 05:01:00",

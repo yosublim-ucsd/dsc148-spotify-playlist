@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 1393906,
+  "2024-02-01": 1393992,
   "date_first_scraped": "2021-12-21",
   "description": "The rap soundtrack to the internet. Cover: Barretta",
   "name": "Internet People",
@@ -10981,7 +10981,7 @@
     {
       "album": {
         "name": "MOVE YO BODY (sped up)",
-        "url": "https://open.spotify.com/album/0HLkU4vM6OC799fhrQaf3P"
+        "url": "https://open.spotify.com/album/6nS9EjRDVbygYUcBQppALL"
       },
       "artists": [
         {
@@ -10992,6 +10992,24 @@
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 117603,
+      "name": "MOVE YO BODY (sped up)",
+      "url": "https://open.spotify.com/track/062UdtCYGxKMR2ihegtZUU"
+    },
+    {
+      "album": {
+        "name": "MOVE YO BODY (sped up)",
+        "url": "https://open.spotify.com/album/0HLkU4vM6OC799fhrQaf3P"
+      },
+      "artists": [
+        {
+          "name": "Bryansanon",
+          "url": "https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-31",
       "duration_ms": 117603,
       "name": "MOVE YO BODY - sped up",
       "url": "https://open.spotify.com/track/1Z3egeO5qIoHXN5BkZgIlu"

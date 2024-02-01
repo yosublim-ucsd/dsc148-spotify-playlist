@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 55010,
+  "num_followers": 55019,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDM4NmZkMmZiN2QyNTg3ZmEyZmE2MWQxZGQwYTQ0MGJkNWU0NjA5",
+  "snapshot_id": "MCw4ZWM4NTQ2NDhmYzVmYzg2YTE1NmNlMTQ3MDk1YWIyZGVjYjhiMmRh",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -775,26 +775,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Jeannie's Getdown",
-        "url": "https://open.spotify.com/album/0cpAnAv6dKdeFDe6aGR8kg"
-      },
-      "artists": [
-        {
-          "name": "The Sure Fire Soul Ensemble",
-          "url": "https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ"
-        },
-        {
-          "name": "Kelly Finnigan",
-          "url": "https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4"
-        }
-      ],
-      "duration_ms": 186348,
-      "name": "A Message from the Meters",
-      "url": "https://open.spotify.com/track/0M1tkc80T0So48tBpXjhcq"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Real Life .:.High Fidelity",
         "url": "https://open.spotify.com/album/71w5yv26R3yqlxpDs1KqWh"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 251293,
       "name": "Do It Like You Do",
       "url": "https://open.spotify.com/track/7cnWNeQIQutKJmL3MZSfr6"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Jeannie's Getdown",
+        "url": "https://open.spotify.com/album/0cpAnAv6dKdeFDe6aGR8kg"
+      },
+      "artists": [
+        {
+          "name": "The Sure Fire Soul Ensemble",
+          "url": "https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ"
+        },
+        {
+          "name": "Kelly Finnigan",
+          "url": "https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4"
+        }
+      ],
+      "duration_ms": 186348,
+      "name": "A Message from the Meters",
+      "url": "https://open.spotify.com/track/0M1tkc80T0So48tBpXjhcq"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        }
-      ],
-      "duration_ms": 245686,
-      "name": "Ready to Live",
-      "url": "https://open.spotify.com/track/2m0SacHFJuQvyyB2fdNu5s"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Soul Side of Town",
         "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 328479,
       "name": "Hangin' with My Baby",
       "url": "https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 245686,
+      "name": "Ready to Live",
+      "url": "https://open.spotify.com/track/2m0SacHFJuQvyyB2fdNu5s"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Afterlife Vol. 2 - EP",
-        "url": "https://open.spotify.com/album/6fYiUXcG04ykfJcT9X75Al"
-      },
-      "artists": [
-        {
-          "name": "Turkuaz",
-          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
-        }
-      ],
-      "duration_ms": 226345,
-      "name": "Mister Man",
-      "url": "https://open.spotify.com/track/2eoDZsvrMKU7Hh9qZhkpsD"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Gnomes and Badgers",
         "url": "https://open.spotify.com/album/2PtbRSz0TpdN7lQm6vntNr"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 216800,
       "name": "I'm Your Biggest Fan",
       "url": "https://open.spotify.com/track/6UpcqV2QSaMJENWjVkMgAT"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Afterlife Vol. 2 - EP",
+        "url": "https://open.spotify.com/album/6fYiUXcG04ykfJcT9X75Al"
+      },
+      "artists": [
+        {
+          "name": "Turkuaz",
+          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
+        }
+      ],
+      "duration_ms": 226345,
+      "name": "Mister Man",
+      "url": "https://open.spotify.com/track/2eoDZsvrMKU7Hh9qZhkpsD"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Soul Side of Town",
-        "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
+        "name": "Life In The City",
+        "url": "https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio"
       },
       "artists": [
         {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
+          "name": "Turkuaz",
+          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
         }
       ],
-      "duration_ms": 233491,
-      "name": "Do It with Soul",
-      "url": "https://open.spotify.com/track/4U3pzSGJKpi3JwAOZygvwX"
+      "duration_ms": 245413,
+      "name": "Superstatic",
+      "url": "https://open.spotify.com/track/7DmAKZ07s3e2IYrqUVtUWF"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Soul Side of Town",
+        "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
+      },
+      "artists": [
+        {
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
+        }
+      ],
+      "duration_ms": 233491,
+      "name": "Do It with Soul",
+      "url": "https://open.spotify.com/track/4U3pzSGJKpi3JwAOZygvwX"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "St. Ann",
         "url": "https://open.spotify.com/album/3DOaQqmgxasR3CtsJnnynn"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 227348,
       "name": "Pocket (Radio Edit)",
       "url": "https://open.spotify.com/track/4QtS7BCHG2jO3ka89o2eed"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Life In The City",
-        "url": "https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio"
-      },
-      "artists": [
-        {
-          "name": "Turkuaz",
-          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
-        }
-      ],
-      "duration_ms": 245413,
-      "name": "Superstatic",
-      "url": "https://open.spotify.com/track/7DmAKZ07s3e2IYrqUVtUWF"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Amplified Experiment",
-        "url": "https://open.spotify.com/album/4cS75aWftbOa1nTMdkg27E"
-      },
-      "artists": [
-        {
-          "name": "The APX",
-          "url": "https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM"
-        },
-        {
-          "name": "Zapp",
-          "url": "https://open.spotify.com/artist/7hzsuhnzHbNMRW1whCgWVL"
-        }
-      ],
-      "duration_ms": 165450,
-      "name": "F.y.g",
-      "url": "https://open.spotify.com/track/1yvjg39SUCDlSxOYsu8unL"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "In Search Of Better Days",
         "url": "https://open.spotify.com/album/2f83h1GYlE4SrVseNnSvQ4"
       },
@@ -1655,6 +1635,26 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Amplified Experiment",
+        "url": "https://open.spotify.com/album/4cS75aWftbOa1nTMdkg27E"
+      },
+      "artists": [
+        {
+          "name": "The APX",
+          "url": "https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM"
+        },
+        {
+          "name": "Zapp",
+          "url": "https://open.spotify.com/artist/7hzsuhnzHbNMRW1whCgWVL"
+        }
+      ],
+      "duration_ms": 165450,
+      "name": "F.y.g",
+      "url": "https://open.spotify.com/track/1yvjg39SUCDlSxOYsu8unL"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Mindblastin'",
         "url": "https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy"
       },
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Chasing Gold",
-        "url": "https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Wilson",
-          "url": "https://open.spotify.com/artist/7jZXfSHSrqtbEgJsnpPPIk"
-        }
-      ],
-      "duration_ms": 274237,
-      "name": "Word Is Out",
-      "url": "https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Jurassik Funk",
         "url": "https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 259000,
       "name": "Jurassic Funk",
       "url": "https://open.spotify.com/track/2xGCKeFRnbg43fQh7TWzB5"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Chasing Gold",
+        "url": "https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wilson",
+          "url": "https://open.spotify.com/artist/7jZXfSHSrqtbEgJsnpPPIk"
+        }
+      ],
+      "duration_ms": 274237,
+      "name": "Word Is Out",
+      "url": "https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva"
     },
     {
       "added_at": "2019-09-06 07:01:00",

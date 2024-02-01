@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Colorful",
+        "url": "https://open.spotify.com/album/0rYsc8w4eKRKd5wLi72AWT"
+      },
+      "artists": [
+        {
+          "name": "Mundo Suave",
+          "url": "https://open.spotify.com/artist/7mpuCc5RJrH5047X6M7Rcd"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189091,
+      "name": "Colorful",
+      "url": "https://open.spotify.com/track/4d5aVhwr2g0EvqQdZcqk9C"
+    },
+    {
+      "album": {
         "name": "Corinne",
         "url": "https://open.spotify.com/album/1rZC9cRFPOo0ouBM7fVMSR"
       },
@@ -3659,6 +3677,24 @@
     },
     {
       "album": {
+        "name": "Quietude",
+        "url": "https://open.spotify.com/album/62Xuc4vGeWKWxx2Phv60Ld"
+      },
+      "artists": [
+        {
+          "name": "Mind Matters",
+          "url": "https://open.spotify.com/artist/266MOuapHVsPkInxTMC8wO"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228624,
+      "name": "Quietude",
+      "url": "https://open.spotify.com/track/5gHgNdqNDpPWdFnPp5RAdo"
+    },
+    {
+      "album": {
         "name": "Ready (Eventide)",
         "url": "https://open.spotify.com/album/2WwbwLqaikwVbdzthgMYps"
       },
@@ -3890,6 +3926,24 @@
       "duration_ms": 218500,
       "name": "Schwebend",
       "url": "https://open.spotify.com/track/775dmuIRQojrplsns8VKen"
+    },
+    {
+      "album": {
+        "name": "Sea Of Clouds",
+        "url": "https://open.spotify.com/album/5TgbesbRbZR0Y9cHexGQMC"
+      },
+      "artists": [
+        {
+          "name": "Convallaria",
+          "url": "https://open.spotify.com/artist/2LjyHW2buOSieEi3QG4jM4"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179156,
+      "name": "Sea Of Clouds",
+      "url": "https://open.spotify.com/track/5Wz7VYgIV62O8IlKOoOsNT"
     },
     {
       "album": {

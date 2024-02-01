@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Rival Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,273 likes - 150 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,353 likes - 150 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 63 | [Catch Me If You Can \(feat\. Chris Robertson\)](https://open.spotify.com/track/2Q7MG9T0kCEEJmDpaKP4be) | [The Picturebooks](https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo), [Chris Robertson](https://open.spotify.com/artist/1GdMYXxQLiGQCdZZd153HL) | [Catch Me If You Can \(feat\. Chris Robertson\)](https://open.spotify.com/album/52SxUXwHjJNNBLvSlmbBjC) | 3:32 |
 | 64 | [Louder](https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 2:45 |
 | 65 | [Freedom](https://open.spotify.com/track/7c0TwwS3FUInC9pqw7RgVo) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [28 Days In The Valley](https://open.spotify.com/album/3Wl7Bde5TcxZX3ZJweBE9d) | 4:36 |
-| 66 | [Bomb Through the Breeze](https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 2:44 |
+| 66 | [Bomb Through The Breeze](https://open.spotify.com/track/7gLgvdBxycylxnP9iwdvuD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund and the Steppin Stones](https://open.spotify.com/album/6kP0lrd4sA5I698Z6Z5ug1) | 2:44 |
 | 67 | [All Alone](https://open.spotify.com/track/0y4hx5uMm5RYImWtXVl21y) | [John The Conqueror](https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184) | [John The Conqueror](https://open.spotify.com/album/0HCt8hhIqeTaXrGpShR2J4) | 3:49 |
 | 68 | [Open Your Eyes](https://open.spotify.com/track/1HaJ3wcWeA8n7QVdqfagKx) | [Madison Galloway](https://open.spotify.com/artist/50J27BeJLo8Roh6QepeJBR) | [Open Your Eyes](https://open.spotify.com/album/3WxhJW0zQ4HQjqYxerjrmB) | 4:34 |
 | 69 | [Pick Your Poison](https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 3:45 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [Little Thing Gone Wild](https://open.spotify.com/track/3XGCZQTIl2AXccefEuJfeh) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Wrong Creatures](https://open.spotify.com/album/0rqC0UZ8kTGxIEI654LWhj) | 3:19 |
 | 150 | [Lie Lie Lie](https://open.spotify.com/track/6hY92vu9OTD8B7uTJgYsN4) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Lie Lie Lie](https://open.spotify.com/album/5jhdcPvuZkIa24erCZbGUk) | 3:35 |
 
-Snapshot ID: `MCwyYzRlODI4YTcyYjIyYzEzMTdiMjg4NGRmNzg0ODA5Y2QxYzNhOTFj`
+Snapshot ID: `MCw0ZmYxMWVjMmVkNTNlMDM5MDRkODk0NjkyYTZlNTA3OGU2NzgwZTg3`

@@ -1,13 +1,49 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Sabrina Carpenter",
-  "num_followers": 218632,
+  "num_followers": 218637,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2U3YmNjMmFhOTBhMzVkNmJjZWU4MTA0OWZlZjliN2VhMWY4N2Rj",
+  "snapshot_id": "MCw0NGQ2NjFiYmJmYjVmNjYxYTQ5YjY4MWY0NDBlYmY3NzNmNWJmYjRh",
   "tracks": [
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 289964,
+      "name": "Change (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 243450,
+      "name": "Can You Believe",
+      "url": "https://open.spotify.com/track/2DEbufzHZ6fm29NDaRoKKH"
+    },
     {
       "added_at": "2023-12-06 05:00:00",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 
 > This is J Boog\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,441 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,446 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 26 | [Waiting On The Rain](https://open.spotify.com/track/7paHl6UuZR7drEyw8M7gI9) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog \- EP](https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d) | 3:27 |
 | 27 | [Raggamuffin](https://open.spotify.com/track/5fCAt9wpOMHR0NB2WjLjQ5) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [CELEBRATION](https://open.spotify.com/album/4eBp5HfKr28qzlcpmYIdjy) | 3:25 |
 | 28 | [No Pressure \(feat\. Snoop Dogg\) \- Bonus Track](https://open.spotify.com/track/5PAsypzNOpxEOuhgxjqWaI) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Rose Petals](https://open.spotify.com/album/0c5o3uiLOPdmDTjcDOPnnu) | 3:34 |
-| 29 | [Brighter Days](https://open.spotify.com/track/1Wol1mtEGmrb178XVxJdpu) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Wash House Ting](https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK) | 4:36 |
-| 30 | [Replay](https://open.spotify.com/track/5HoQXfTZSnjoXsyJ2HU6Qp) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:17 |
+| 29 | [Replay](https://open.spotify.com/track/5HoQXfTZSnjoXsyJ2HU6Qp) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:17 |
+| 30 | [Brighter Days](https://open.spotify.com/track/1Wol1mtEGmrb178XVxJdpu) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Wash House Ting](https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK) | 4:36 |
 | 31 | [Pennies From Heaven](https://open.spotify.com/track/4HVqLcIwCcmSCprLVPYrqW) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Pennies From Heaven](https://open.spotify.com/album/52UFnh2PI1ZvexfhUu4m9W) | 2:43 |
 | 32 | [Ain't No Love Like](https://open.spotify.com/track/7nuwek79ffqWbe5AtsAuAA) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Ain't No Love Like](https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ) | 4:03 |
 | 33 | [Mama Roots](https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Marching Orders](https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO) | 3:50 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 42 | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/album/0qwr73RDAt6DloQiEuljUS) | 3:14 |
 | 43 | [Coldest Zone](https://open.spotify.com/track/3m5kR0GClMpR7gLc1ZZC2S) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog \- EP](https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d) | 3:12 |
 | 44 | [Live Your Life \(feat\. J Boog & Busy Signal\)](https://open.spotify.com/track/7yZwDw6yHx5PyHXllicStI) | [Raging Fyah](https://open.spotify.com/artist/5FhMGuqdjkRUojGPm8542N), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Everlasting](https://open.spotify.com/album/37HnYAB2wsNldbGHpOGkwi) | 3:33 |
-| 45 | [Cool Down The Pace](https://open.spotify.com/track/48vVcRVvJxD5zB0ODldx2C) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [We Remember Gregory Isaacs](https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu) | 4:11 |
-| 46 | [This Is Love](https://open.spotify.com/track/6kT2DiTbDomd5UJtBJb5Jv) | [Monsta Ganjah](https://open.spotify.com/artist/1S66TJhuIfLtz0yEfpv1BL), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Pacific Coast Highway](https://open.spotify.com/album/2tVLaJCNrTTEWRqGDtxDiH) | 4:03 |
+| 45 | [This Is Love](https://open.spotify.com/track/6kT2DiTbDomd5UJtBJb5Jv) | [Monsta Ganjah](https://open.spotify.com/artist/1S66TJhuIfLtz0yEfpv1BL), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Pacific Coast Highway](https://open.spotify.com/album/2tVLaJCNrTTEWRqGDtxDiH) | 4:03 |
+| 46 | [Cool Down The Pace](https://open.spotify.com/track/48vVcRVvJxD5zB0ODldx2C) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [We Remember Gregory Isaacs](https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu) | 4:11 |
 | 47 | [Danger](https://open.spotify.com/track/3XT9HuM3PYlkGOLKTyeStN) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Tyrone's Jacket](https://open.spotify.com/artist/5dxrfWzDmhPO4LJ3ESS70U) | [Iration](https://open.spotify.com/album/6XBN7JbqWczCIST7mmdkAx) | 3:59 |
 | 48 | [Blaze It for Days \(feat\. Lion Fiyah & Gappy Ranks\)](https://open.spotify.com/track/48Lsxsxa8Z6XIxFK9uImA7) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Lion Fiyah](https://open.spotify.com/artist/4os8LHgkbQYhV5pvJeytcq), [Gappy Ranks](https://open.spotify.com/artist/4rkmaLySgI7sl9cKfJ3tT8) | [Wash House Ting](https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK) | 4:07 |
 | 49 | [Break Us Apart](https://open.spotify.com/track/7o3rG4WBwROoE8USJMS5Xc) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Break Us Apart](https://open.spotify.com/album/36crWYwVp2wVZiP6dB5Kzn) | 3:40 |
 | 50 | [Livity \- Live Good](https://open.spotify.com/track/2a10XM3b3ZWWtqUqIu8pcw) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Heavy Roots](https://open.spotify.com/artist/4fEogLHgLSsp5ETlJCci09) | [Livity \(Live Good\)](https://open.spotify.com/album/4zN0oMDxghQ8yynY9teT8I) | 2:39 |
 
-Snapshot ID: `Mjg0NDM2MzksMDAwMDAwMDAxMjgxYmE5YWYxZWJlZTEyYTM3OGU0NGJjM2I1N2VmOQ==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDBkZGFjNjAzM2UyZTc5ZTkyYjAyOWViY2U4MTYyMGRkYQ==`

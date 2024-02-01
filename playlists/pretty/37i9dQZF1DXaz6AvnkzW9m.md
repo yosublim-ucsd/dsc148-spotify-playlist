@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 
 > El cholo se hizo buchón 😎🤠 Los Del Puerto, Herencia de Patrones en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,428 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,525 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 74 | [En Las Momias](https://open.spotify.com/track/4uCMIjpU1MHiY3rqRm721s) | [Nelson Fernández](https://open.spotify.com/artist/0YWSpMQXpphjWLYt2TOdrs), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Las Momias](https://open.spotify.com/album/5KcydETHDWB2FZYO3LCjLk) | 2:10 |
 | 75 | [El Beisbolero \- En Vivo](https://open.spotify.com/track/54k1cyoG9pOKRQjbE2UKVk) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [El Beisbolero \(En Vivo\)](https://open.spotify.com/album/74pgex0gAHhQhxlYmUZ68l) | 3:27 |
 
-Snapshot ID: `MCw1ZjRmOGMyMThmZmRiMjlhZDQxYjc5NzAxOGMzNDY4YjIxMmYxNzA2`
+Snapshot ID: `MCxiMzkwOWM4YjU4YjdjYTg1MDQyNzFjM2IzMmU1MWU2NTkxYjMwYTky`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 
 > This is Madonna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,916 likes - 54 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,023 likes - 54 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 | 53 | [Ghosttown](https://open.spotify.com/track/4yDLW1kpgN7RGa6wCtxlL8) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 4:09 |
 | 54 | [Hung Up on Tokischa](https://open.spotify.com/track/3oJzE5dSRl51xxzLeih0sy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Hung Up on Tokischa](https://open.spotify.com/album/0lJ8KgNF2nzGoCv2yfrBxQ) | 3:26 |
 
-Snapshot ID: `Mjg0NDM2MzgsMDAwMDAwMDBmOWRiZmM5YjRlMmU3OTcwZDk5ODliNmRkNGEyNjhlNQ==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDA0ZjI4ZjAxNDkxMTJhYzAyODIzOTc3Y2QwNGJkYTcxNw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,107 likes - 45 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,113 likes - 45 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 20 | [Blue Tuesday](https://open.spotify.com/track/2tFz3AlZ1GUacsccZgo2Mt) | [Delphi](https://open.spotify.com/artist/0FxxlEAfGqWZySxlKiEjCe) | [Unleashed Tapes Vol\. 1](https://open.spotify.com/album/5RvIMDFgtLTIGSgGewq4gG) | 6:25 |
 | 21 | [Under Control](https://open.spotify.com/track/2E6G3HkQb3OuEz3JKHaXUK) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Music Made Paradise](https://open.spotify.com/album/3SXL5zoZi1fvPCg1Ia6hRU) | 5:39 |
 | 22 | [80s In My Blood](https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE) | [VIGI](https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o) | [Rhodes Island](https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc) | 4:34 |
-| 23 | [Lemonade \- The Magician Italo '85' remix](https://open.spotify.com/track/6jE1Qo5DBq6ij0eg36top0) | [Mercer](https://open.spotify.com/artist/7aSsnDTH11xS2yIn6cNtsF), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Lemonade \(The Magician Italo '85' Remix\)](https://open.spotify.com/album/5KYMm8CqIacDxfisj3A16B) | 3:15 |
-| 24 | [Groove Society](https://open.spotify.com/track/2nFHaucEPE1dJp6A1AaBgV) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91) | [Groove Society](https://open.spotify.com/album/2Wo73jPoFsRo6LNldU3GnP) | 3:03 |
+| 23 | [Groove Society](https://open.spotify.com/track/2nFHaucEPE1dJp6A1AaBgV) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91) | [Groove Society](https://open.spotify.com/album/2Wo73jPoFsRo6LNldU3GnP) | 3:03 |
+| 24 | [Lemonade \- The Magician Italo '85' remix](https://open.spotify.com/track/6jE1Qo5DBq6ij0eg36top0) | [Mercer](https://open.spotify.com/artist/7aSsnDTH11xS2yIn6cNtsF), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Lemonade \(The Magician Italo '85' Remix\)](https://open.spotify.com/album/5KYMm8CqIacDxfisj3A16B) | 3:15 |
 | 25 | [First Wave](https://open.spotify.com/track/38MZpQ8TQxUPBWgXbgt1wx) | [Roland Tings](https://open.spotify.com/artist/0hTV7lch0OcKcMn6RYgOLR) | [First Wave](https://open.spotify.com/album/3loLbxl5tuqHnYxXx80VQ6) | 4:38 |
 | 26 | [Eyes Wide Strut \- Tunnelvisions Remix](https://open.spotify.com/track/3VEyA2eTsrUylqc1rS3QVR) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ), [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA), [Tunnelvisions](https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x) | [Time Slips Away \- The Remixes](https://open.spotify.com/album/0NdbADVLpkHPdfxlY28oGe) | 5:50 |
 | 27 | [Cocoon \- Maya Jane Coles Remix](https://open.spotify.com/track/3SPaw7nI7gwo95tpPIx7Cm) | [Gold Fields](https://open.spotify.com/artist/3kJeINOSExu0ctySTaMu6Q), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Cocoon \(Maya Jane Coles Remix\)](https://open.spotify.com/album/2WbM2EmjfDhV8TXhtqQt2u) | 4:16 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Hymnotic](https://open.spotify.com/track/2GKICfOOYlFAiwALLEPTJu) | [Future Breeze](https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls) | [Hymnotic](https://open.spotify.com/album/6UlbePpX6dvFF24UfxFEuk) | 4:22 |
 | 45 | [Never Let You Go \- Skream Remix \(Edit\)](https://open.spotify.com/track/4XP3da5XVRN1eoTK91L4T8) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Never Let You Go \(Skream Remix\)](https://open.spotify.com/album/2EcZfAmLrfH8UrVJeh2fxi) | 3:40 |
 
-Snapshot ID: `MCxmODAzYmY3ZDczMGQ3NDZkZjQwYmZkM2FkMjlmMzhlODNhZDk3MWU0`
+Snapshot ID: `MCxiYjA5NjBjYTcxYThjYjUzNjIwNGE5NTQyNDViNjI3ZjU1NmEyYWRl`

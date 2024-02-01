@@ -1,12 +1,12 @@
 {
   "description": "Congratulations to all the nominees for Best New Artist!",
-  "num_followers": 143797,
+  "num_followers": 144535,
   "original_name": "Best New Artist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWJkNGIxMzQyMDhjMWYyZTI1ZWMzODE3Nzg5YWEwYTkxZmExNjgz",
+  "snapshot_id": "MCw4YmMxZTkxYzY0MzljZmM4Njg4OGJlZTU4MzE2ZWQ1OWJlYmU1YmY2",
   "tracks": [
     {
       "added_at": "2024-01-24 18:14:38",
@@ -183,6 +183,22 @@
     {
       "added_at": "2024-01-24 18:14:38",
       "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "Save Me (with Lainey Wilson)",
+      "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
+    },
+    {
+      "added_at": "2024-01-24 18:14:38",
+      "album": {
         "name": "Princess Diana (with Nicki Minaj)",
         "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
-    },
-    {
-      "added_at": "2024-01-24 18:14:38",
-      "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "Save Me (with Lainey Wilson)",
-      "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
     },
     {
       "added_at": "2024-01-24 18:14:38",

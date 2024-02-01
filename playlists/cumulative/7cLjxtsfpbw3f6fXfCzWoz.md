@@ -4,15 +4,17 @@
 
 > For the bisexuals.
 
-33 songs - 1 hr 55 min
+35 songs - 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Big Dater \- 1.0 Version](https://open.spotify.com/track/3yAmfnsYSB8dvTJs2aZti6) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa) | [1.0](https://open.spotify.com/album/20EPvfI2oySEeAmW0IiEaq) | 4:26 | 2024-01-31 |  |
 | [Boys Don’t Cry](https://open.spotify.com/track/2QxUePxZqeoBynXxt093Ts) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ \(Deluxe Edition\)](https://open.spotify.com/album/5ailYYtAaFrrb9TYNlJOri) | 3:15 | 2022-09-07 |  |
 | [Breakthru \- Remastered 2011](https://open.spotify.com/track/2HPvr5vD9rjbc0tejSmkkp) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Deluxe Remastered Version\)](https://open.spotify.com/album/0kCPII9EM5eqHHCRo1EVjs) | 4:08 | 2023-03-21 |  |
 | [Clusterhug](https://open.spotify.com/track/28sSuDmo31aPPDrTBE1N02) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ \(Deluxe Edition\)](https://open.spotify.com/album/5ailYYtAaFrrb9TYNlJOri) | 3:12 | 2022-09-07 |  |
 | [Cold as Ice](https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Foreigner \(Expanded\)](https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M) | 3:20 | 2023-11-20 |  |
 | [Cubs In Five](https://open.spotify.com/track/3eqL5oHLBmtqZYfLENN9GO) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Nine Black Poppies](https://open.spotify.com/album/6M04qhJl6Fx1Vn3QIHbm1A) | 2:05 | 2023-01-07 |  |
+| [Dangerous](https://open.spotify.com/track/2b7hOtMdYJ7QvL6Vd3sk4a) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [1.0](https://open.spotify.com/album/20EPvfI2oySEeAmW0IiEaq) | 4:40 | 2024-01-31 |  |
 | [Distance](https://open.spotify.com/track/5TQ6MARpfdGi3lToty2TH6) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Knife Man](https://open.spotify.com/album/131vOQexOX9KXcOvcK4vM9) | 2:33 | 2023-12-05 |  |
 | [Eyes Don’t Lie](https://open.spotify.com/track/2SoIn6rKqGXFtSmPelBamb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Eyes Don’t Lie \(Acoustic\)](https://open.spotify.com/album/7GhoYUVCNtW9BOgw7YYVHm) | 3:56 | 2022-09-07 |  |
 | [I Don't Love You](https://open.spotify.com/track/0Jli6hojT6aSBcFg4L2P5f) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 3:58 | 2023-01-11 |  |

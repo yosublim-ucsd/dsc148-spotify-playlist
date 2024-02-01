@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Charlotte Sands
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,025 likes - 65 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,066 likes - 65 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 64 | [Pretty Little Addict](https://open.spotify.com/track/5n59pNtDnIQeGj3EgLjqgP) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Pretty Little Addict](https://open.spotify.com/album/2WtrBqmfYs3OJlMnCPjoUS) | 2:47 |
 | 65 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 |
 
-Snapshot ID: `MCw1MjJhNGM5ZDg4ZDhlNzQ2YTlhYjBhZjQ4MmM5YTU1YzZiYTcxNTg2`
+Snapshot ID: `MCw4YjQ5MTUwYTY0NTczOGRiODU0YzJiMmQyMjQ5ZDdhNDUwMDM5M2Q3`

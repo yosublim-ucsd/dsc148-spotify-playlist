@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiLIxWhPONZ.md) - [plain]
 
 > Featuring LIT killah, Bad Bunny, Tego Calderón & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,129 likes - 25 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,133 likes - 25 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiLIxWhPONZ.md) - [plain]
 | 24 | [Mariposa](https://open.spotify.com/track/6I07cCR5AwBnVRmFRhJHGL) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Mariposa](https://open.spotify.com/album/64aNLTvoDd51YloSSJQZ78) | 2:59 |
 | 25 | [Barre con el Pelo \(feat\. Dj Blass\)](https://open.spotify.com/track/0VBbbLKnpayQeBKZdYamhi) | [Tomasa del Real](https://open.spotify.com/artist/3Dz4sliAAIVOlALfHW9TtD), [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Bellaca del Año](https://open.spotify.com/album/5PQkVo8VxFjapE73WjI16a) | 3:18 |
 
-Snapshot ID: `MCw5YzFjODM2MzhjMjRkMDhmMTVlNmYyMGIzMGQ0NTI3ODdkYmFhNmRj`
+Snapshot ID: `MCxlYTIyNDJjNGRhN2M3ZTk5NWIyMjQ5YjhlMWNjMGEzNzYwZGFjYzhj`

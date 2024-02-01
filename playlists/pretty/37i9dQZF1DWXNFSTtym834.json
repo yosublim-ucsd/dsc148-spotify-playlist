@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Slipknot",
-  "num_followers": 1256868,
+  "num_followers": 1257069,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTYwNzMzMWQ5ZDdiZmYzYWE3NjU1OGE4NzcwMDc0NTVhMTJiZjcy",
+  "snapshot_id": "MCxjMWNhZjlmZjI5ZGVkOTcwNWY1MTRiZTdlMjFiNjMxMzkzNjkxYzgx",
   "tracks": [
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Guitar Gangsters & Cadillac Blood",
-        "url": "https://open.spotify.com/album/4BzHvHsnYTIEmrhh6zLDmt"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 188853,
-      "name": "Guitar Gangsters & Cadillac Blood",
-      "url": "https://open.spotify.com/track/5CLQ70QLoefhq3VMfoDl4w"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Take A Look In The Mirror",
         "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 189960,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/19fYhk0wzXqUOoBqkPsYCP"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Guitar Gangsters & Cadillac Blood",
+        "url": "https://open.spotify.com/album/4BzHvHsnYTIEmrhh6zLDmt"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 188853,
+      "name": "Guitar Gangsters & Cadillac Blood",
+      "url": "https://open.spotify.com/track/5CLQ70QLoefhq3VMfoDl4w"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "The Strength / The Sound / The Songs",
+        "url": "https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "I Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "Horizons (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 285962,
       "name": "Omerta",
       "url": "https://open.spotify.com/track/4Vb5Y6RQztThqqqFre24wL"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "The Strength / The Sound / The Songs",
-        "url": "https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "I Only Wanna Be With You",
-      "url": "https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Rock The Rebel / Metal The Devil",
-        "url": "https://open.spotify.com/album/14MqYITYLVQ8LJcWwvJEcy"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "Sad Man's Tongue",
-      "url": "https://open.spotify.com/track/7BbrlQk1YHVjHVyoGEpDV2"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Doomsday Machine",
         "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 252280,
       "name": "Nemesis",
       "url": "https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Rock The Rebel / Metal The Devil",
+        "url": "https://open.spotify.com/album/14MqYITYLVQ8LJcWwvJEcy"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "Sad Man's Tongue",
+      "url": "https://open.spotify.com/track/7BbrlQk1YHVjHVyoGEpDV2"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Rasputin",
-        "url": "https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC"
-      },
-      "artists": [
-        {
-          "name": "Turisas",
-          "url": "https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI"
-        }
-      ],
-      "duration_ms": 233520,
-      "name": "Rasputin",
-      "url": "https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Perseverance",
         "url": "https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 178666,
       "name": "I Will Be Heard",
       "url": "https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC"
+      },
+      "artists": [
+        {
+          "name": "Turisas",
+          "url": "https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI"
+        }
+      ],
+      "duration_ms": 233520,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "Figure Number Five",
+        "url": "https://open.spotify.com/album/6n86brHTe54lipUckY9InO"
+      },
+      "artists": [
+        {
+          "name": "Soilwork",
+          "url": "https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx"
+        }
+      ],
+      "duration_ms": 225933,
+      "name": "Distortion Sleep",
+      "url": "https://open.spotify.com/track/3yPQrLnNIthn4I5wQ51X26"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "The Art Of Breaking",
         "url": "https://open.spotify.com/album/1OfR6MaF4KVFTAe3pMrtYv"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 209066,
       "name": "Destroy Everything",
       "url": "https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "Figure Number Five",
-        "url": "https://open.spotify.com/album/6n86brHTe54lipUckY9InO"
-      },
-      "artists": [
-        {
-          "name": "Soilwork",
-          "url": "https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "Distortion Sleep",
-      "url": "https://open.spotify.com/track/3yPQrLnNIthn4I5wQ51X26"
     },
     {
       "added_at": "2023-02-08 17:32:03",

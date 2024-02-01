@@ -4,7 +4,7 @@
 
 > 綺麗事は聞きたくない。本音でつづられた唄。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-105 songs - 6 hr 23 min
+108 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,8 @@
 | [I'm a mess](https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [告白](https://open.spotify.com/album/4iwt5zps0wDrMuo6wQ95AJ) | 4:09 | 2023-11-23 |  |
 | [Imasaradatte Boku Wa Iukana](https://open.spotify.com/track/3e6cgorRiwMQ17Q5s4stUP) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Take Me](https://open.spotify.com/album/2d4BgT8o5xopdZK7x8eygL) | 4:09 | 2023-11-23 |  |
 | [Killer Word](https://open.spotify.com/track/55YTEATvWRdjUXGkxfdlWB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Killer Word](https://open.spotify.com/album/5nkuYDrndcdN41UN8QKgkP) | 4:01 | 2023-11-30 | 2023-12-20 |
+| [Kimi no Neko ni Naritai](https://open.spotify.com/track/1ampz0kmsFpuyYsBEylgRe) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Kimi no Neko ni Naritai](https://open.spotify.com/album/0VzGAM4b3vKXEt3wmKbSa9) | 4:42 | 2024-01-30 |  |
+| [Kogare](https://open.spotify.com/track/3n3yRUvDTKscIxwnYG7t8S) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [onsei](https://open.spotify.com/album/17JswaRY80Z0aoRiBz3V2N) | 3:49 | 2024-01-30 |  |
 | [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 | 2023-11-23 | 2024-01-17 |
 | [Masquerade](https://open.spotify.com/track/7qHYtDa9P6ebXN5UUXdfiO) | [Awkmiu](https://open.spotify.com/artist/26mj2zXHj76K9paE9J197C) | [Masquerade](https://open.spotify.com/album/6KRqzcHAcOWD4wcUiDs42M) | 3:43 | 2023-11-23 | 2023-12-01 |
 | [Mellow](https://open.spotify.com/track/5ll15QsCP6wVjDipn8FlLo) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 4:00 | 2023-11-23 | 2024-01-17 |
@@ -58,9 +60,10 @@
 | [watermelon \(demo\)](https://open.spotify.com/track/1Pp3YC3HtXjjFDtJedRNj3) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [watermelon \(demo\)](https://open.spotify.com/album/0aTrDi5x5rI4IU7vGW6D6y) | 1:28 | 2023-12-12 | 2024-01-17 |
 | [Window](https://open.spotify.com/track/4ycontXqdHvbzGMc93hkxv) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 4:47 | 2023-11-23 | 2024-01-17 |
 | [yattyattawa](https://open.spotify.com/track/4yHNww1JcnVXjL4OxKwdyr) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [yattyattawa](https://open.spotify.com/album/0BQD8PXJk9cxt2Mzt20iSp) | 2:41 | 2023-11-23 | 2024-01-31 |
+| [Yotei](https://open.spotify.com/track/0sUt0usKLBjhcNjtetMU3g) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [Yotei](https://open.spotify.com/album/2FFYUv7eZ1pGgmwbVAGMFQ) | 4:24 | 2024-01-30 |  |
 | [YOU&愛Heaven](https://open.spotify.com/track/61y30C7o99Zi0uGCyB5vqy) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [YOU&愛Heaven](https://open.spotify.com/album/3rYPFG85zZbBFX77PcdFQ5) | 3:45 | 2024-01-04 | 2024-01-30 |
 | [くすぶってばっかいられない](https://open.spotify.com/track/64AL4hgGyaUofamFJ19Wc4) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [306](https://open.spotify.com/album/4xDPpqsq8PLPtDRXGpKEPF) | 2:40 | 2023-11-23 | 2024-01-17 |
-| [こがれ](https://open.spotify.com/track/1UpRK1N1DGTYSLaLmpdZw2) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [音生 \-onsei\-](https://open.spotify.com/album/684jExc4XxRfjR7na7l7sr) | 3:49 | 2024-01-30 |  |
+| [こがれ](https://open.spotify.com/track/1UpRK1N1DGTYSLaLmpdZw2) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [音生 \-onsei\-](https://open.spotify.com/album/684jExc4XxRfjR7na7l7sr) | 3:49 | 2024-01-30 | 2024-02-01 |
 | [このまま僕らが大人になっても](https://open.spotify.com/track/5jQk8XgAfBHZpczOO5hJyc) | [Blue Mash](https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07) | [大都会に告ぐ](https://open.spotify.com/album/65kozKwrc7PWlfM2ylbdO0) | 1:28 | 2024-01-16 | 2024-01-24 |
 | [しわあわせ](https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:33 | 2024-01-16 |  |
 | [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 | 2023-11-27 |  |
@@ -90,12 +93,12 @@
 | [リインカーネーション](https://open.spotify.com/track/6mdZ2qRHAcdqTUNqGKJ2rw) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [リインカーネーション](https://open.spotify.com/album/5ZGFKaiMwWrIxpj6Za2yU3) | 2:45 | 2023-11-28 | 2023-11-30 |
 | [一輪花](https://open.spotify.com/track/456rgV2smcOpAhhSlQVPK8) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [一輪花](https://open.spotify.com/album/2ozJ1C7HXquEWd8Fv8azgY) | 3:44 | 2023-11-29 |  |
 | [世界の秘密](https://open.spotify.com/track/0bv6tutpCuYApSXTF0AKrP) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:40 | 2023-11-30 |  |
-| [予定](https://open.spotify.com/track/65NJxK0BnrzcxHVOBEkyZN) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [予定](https://open.spotify.com/album/0Nxr5U1Y0MymWhuFY9xTa8) | 4:24 | 2024-01-30 |  |
+| [予定](https://open.spotify.com/track/65NJxK0BnrzcxHVOBEkyZN) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [予定](https://open.spotify.com/album/0Nxr5U1Y0MymWhuFY9xTa8) | 4:24 | 2024-01-30 | 2024-02-01 |
 | [僕だけが愛](https://open.spotify.com/track/586HamUq3n9cH9cDXWRzAb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけが愛](https://open.spotify.com/album/3bdleoxF74CDSzQXLwY8MI) | 5:23 | 2023-12-05 | 2023-12-27 |
 | [冬と春](https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [冬と春](https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN) | 4:16 | 2024-01-23 |  |
 | [分かってないよ](https://open.spotify.com/track/6MrJYU78mz1Vth83LDFRlG) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [ワンス・アポン・ア・リバイバル](https://open.spotify.com/album/3RueJOo83vwTyoKLKL6lT5) | 3:28 | 2024-01-16 |  |
 | [初恋](https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [初恋](https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD) | 3:15 | 2023-11-28 | 2024-01-28 |
-| [君の猫になりたい](https://open.spotify.com/track/1n6kFLCbik9dIseMEayTPh) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [君の猫になりたい](https://open.spotify.com/album/32QeeoKOvcNNJ4dv9EsrSZ) | 4:42 | 2024-01-30 |  |
+| [君の猫になりたい](https://open.spotify.com/track/1n6kFLCbik9dIseMEayTPh) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [君の猫になりたい](https://open.spotify.com/album/32QeeoKOvcNNJ4dv9EsrSZ) | 4:42 | 2024-01-30 | 2024-02-01 |
 | [愛してみてよ減るもんじゃないし](https://open.spotify.com/track/4sCiH4LCVfHsMUmiK6GNGS) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [愛してみてよ減るもんじゃないし](https://open.spotify.com/album/19I3Qy0znrTCbXxoJLGOGH) | 3:18 | 2023-11-23 | 2024-01-31 |
 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 | 2023-11-23 |  |
 | [愛哀](https://open.spotify.com/track/1jNX9JdSdlhqkmiIPBUii4) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [まだらもよう](https://open.spotify.com/album/0bamCeA6hehUk8NqStBL7k) | 3:47 | 2024-01-18 | 2024-01-20 |

@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 158507,
+  "num_followers": 158521,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjg0ZDdiMTgwNGIxMWVlNjVkMWY3Mjc5NTQxMDFmMmRlNzQxNzhh",
+  "snapshot_id": "MCxkM2NkYzY2NjlmNGI2YWE0YzRhZGNkNjUxNDk1NTJjMjZjOWM2YWFl",
   "tracks": [
     {
       "added_at": "2023-12-12 16:46:04",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-12-12 16:46:04",
       "album": {
-        "name": "Shannon In Nashville",
-        "url": "https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt"
-      },
-      "artists": [
-        {
-          "name": "Shannon Shaw",
-          "url": "https://open.spotify.com/artist/4bKniuCGFic42eaNWK34Jq"
-        }
-      ],
-      "duration_ms": 163280,
-      "name": "Goodbye Summer",
-      "url": "https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5"
-    },
-    {
-      "added_at": "2023-12-12 16:46:04",
-      "album": {
         "name": "Mangy Love",
         "url": "https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 254541,
       "name": "Opposite House",
       "url": "https://open.spotify.com/track/2XpsvLcddOSFanKBCZCEBR"
+    },
+    {
+      "added_at": "2023-12-12 16:46:04",
+      "album": {
+        "name": "Shannon In Nashville",
+        "url": "https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt"
+      },
+      "artists": [
+        {
+          "name": "Shannon Shaw",
+          "url": "https://open.spotify.com/artist/4bKniuCGFic42eaNWK34Jq"
+        }
+      ],
+      "duration_ms": 163280,
+      "name": "Goodbye Summer",
+      "url": "https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5"
     },
     {
       "added_at": "2023-12-12 16:46:04",
@@ -649,6 +649,22 @@
       "url": "https://open.spotify.com/track/6oWRYpDQbgl8N6gkb5KSkR"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Hanging On",
+        "url": "https://open.spotify.com/album/7IsQk2aEbE3eFV73Icd7ba"
+      },
+      "artists": [
+        {
+          "name": "Brainstory",
+          "url": "https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j"
+        }
+      ],
+      "duration_ms": 191801,
+      "name": "Hanging On",
+      "url": "https://open.spotify.com/track/6lE1oMX2NaW5sqjXMyIUSk"
+    },
+    {
       "added_at": "2023-12-12 16:46:04",
       "album": {
         "name": "My Morning Jacket",
@@ -679,22 +695,6 @@
       "duration_ms": 228707,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Hanging On",
-        "url": "https://open.spotify.com/album/7IsQk2aEbE3eFV73Icd7ba"
-      },
-      "artists": [
-        {
-          "name": "Brainstory",
-          "url": "https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j"
-        }
-      ],
-      "duration_ms": 191801,
-      "name": "Hanging On",
-      "url": "https://open.spotify.com/track/6lE1oMX2NaW5sqjXMyIUSk"
     },
     {
       "added_at": "2023-12-12 16:46:04",

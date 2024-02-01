@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with \(Hed\) P.E.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,374 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,607 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 49 | [VIOLENT PRINCIPLES](https://open.spotify.com/track/1DIeftYBThGuFnSE0uUv6J) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [VIOLENT PRINCIPLES](https://open.spotify.com/album/7kv5aRv6tltcgjHOmCmUIT) | 3:47 |
 | 50 | [Showdown](https://open.spotify.com/track/0dMlUGAmgBLLLjiufG5R18) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Showdown](https://open.spotify.com/album/0hynTwx1tRcpaCMf2t2YXv) | 4:11 |
 
-Snapshot ID: `MCw5YTY4MWE5Yzg5NzRjMDZkYWVjMWI3NjZlYjAwMzBiNmU1ZWFmZmJm`
+Snapshot ID: `MCxkNmU1MzU2MjIwODVjYTRhYThiOTM2ZmU0ZjhiMTUyNGY2MTY5MTU2`

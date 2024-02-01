@@ -383,6 +383,32 @@
     },
     {
       "album": {
+        "name": "BAHR",
+        "url": "https://open.spotify.com/album/36TQbh25fNwHEi3ScSg2bd"
+      },
+      "artists": [
+        {
+          "name": "MUSLI",
+          "url": "https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO"
+        },
+        {
+          "name": "Vocal Dude",
+          "url": "https://open.spotify.com/artist/6e7toXPTMHFuuQpnQgoHqI"
+        },
+        {
+          "name": "Wyldwolf",
+          "url": "https://open.spotify.com/artist/1xFxbGdI2pZ8CNmQX79rDd"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151267,
+      "name": "BAHR",
+      "url": "https://open.spotify.com/track/6ABVmKvVgTiubIqdMXSRXF"
+    },
+    {
+      "album": {
         "name": "BANDANA",
         "url": "https://open.spotify.com/album/6LnrtNJONoihgwiKbZqJv0"
       },

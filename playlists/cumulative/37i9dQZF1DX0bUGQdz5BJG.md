@@ -2,9 +2,9 @@
 
 ### [Next From Nashville](https://open.spotify.com/playlist/37i9dQZF1DX0bUGQdz5BJG)
 
-> Music City must\-hears\. Cover: Brittney Spencer
+> Music City must\-hears\. Cover: Michael Warren
 
-1,860 songs - 4 day 3 hr 46 min
+1,863 songs - 4 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -609,7 +609,7 @@
 | [Hair Down](https://open.spotify.com/track/0ruHqph0i9np2PCQpMBrgO) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out...Again \- EP](https://open.spotify.com/album/0jVq7ilx3qQ4ci4nHIrAVz) | 3:03 | 2023-06-23 | 2023-09-02 |
 | [Hair Salon](https://open.spotify.com/track/04jS8ttbCZdesbAhbOmMzG) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Hair Salon](https://open.spotify.com/album/3R5YoSrkdqrE5tvYgfKl0E) | 3:44 | 2022-04-22 | 2022-06-04 |
 | [Halfway To Hell](https://open.spotify.com/track/3EON33SUQai62FI5Sv0gPT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 2:58 | 2023-06-02 | 2023-07-01 |
-| [Halloween](https://open.spotify.com/track/5pNFOG7WqeKscjCPm580Nr) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Halloween](https://open.spotify.com/album/3Jr0OZFsUDtFAVAwb79WFR) | 3:25 | 2023-10-20 |  |
+| [Halloween](https://open.spotify.com/track/5pNFOG7WqeKscjCPm580Nr) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Halloween](https://open.spotify.com/album/3Jr0OZFsUDtFAVAwb79WFR) | 3:25 | 2023-10-20 | 2024-02-01 |
 | [Handful \- Acoustic](https://open.spotify.com/track/7pAFcp3k95JFqAYNGQQMC4) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Handful / Already Broke Up](https://open.spotify.com/album/3ef62M5CFUa1tZ9rpKZuDS) | 2:42 | 2023-02-17 | 2023-03-18 |
 | [Hands on the Wheel](https://open.spotify.com/track/0wgpdRjaFPJcMDk4k2inkV) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Hands on the Wheel](https://open.spotify.com/album/77RBLFvpxWT32x78lQ0m14) | 3:21 | 2023-05-05 | 2023-09-30 |
 | [Hands to Myself](https://open.spotify.com/track/1DY3vPRXeUHzCC57WXCjuq) | [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [Hands to Myself](https://open.spotify.com/album/4wvwAOkfyDHyobeEckVkrK) | 2:44 | 2024-01-26 |  |
@@ -875,6 +875,7 @@
 | [K\[no\]w Better](https://open.spotify.com/track/4oPZQzSt5mD8BxV2T9zbzI) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [K\[no\]w Better](https://open.spotify.com/album/4IF6tCmUA0seAPrh4rUABg) | 2:47 | 2022-07-22 | 2022-09-03 |
 | [Karma](https://open.spotify.com/track/70Y4SxunX8iVvBLzjEukyE) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Karma](https://open.spotify.com/album/2uFl4pMQtGIlGN3onYvxfg) | 3:08 | 2022-07-08 | 2022-07-23 |
 | [Karma On The Rocks](https://open.spotify.com/track/0595jMHSKb5tUDqm2UDT14) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Karma On The Rocks](https://open.spotify.com/album/1aMBGVdB90h5TjJetswHic) | 3:04 | 2023-10-13 | 2023-11-11 |
+| [Keep Your Radio On](https://open.spotify.com/track/2nWWKG5Ehmq5txbc5vJUtO) | [Wyatt McCubbin](https://open.spotify.com/artist/4HxnSRFjP0vKzW7z21kuPf) | [Had To Be Wrote](https://open.spotify.com/album/5wKlNknqRlcQzkCpJi0UnY) | 3:03 | 2024-02-01 |  |
 | [Keeping Me Up All Night](https://open.spotify.com/track/3IjDghaXh385kOYVTQJ7rr) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Keeping Me Up All Night](https://open.spotify.com/album/4q3MfAPYMT68yrthrSD68x) | 3:29 | 2022-08-19 | 2022-09-10 |
 | [Keys To The Country](https://open.spotify.com/track/12ZicG8o3Ehwk7NoClvtbp) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Keys To The Country](https://open.spotify.com/album/0RLL5G7u2zY6qFzGnssXwX) | 2:55 | 2022-03-11 | 2022-04-09 |
 | [Kill Me](https://open.spotify.com/track/5pWgfYHRZuNctsKtWGDJ2E) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Kill Me](https://open.spotify.com/album/7iuVd42Ad5GoLpMw3XvwPT) | 2:43 | 2023-07-21 | 2023-10-21 |
@@ -1032,6 +1033,7 @@
 | [Man Made](https://open.spotify.com/track/78W8I06nYAyZtjrlZcPptU) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Man Made](https://open.spotify.com/album/6DIfNNLkwspcD82lM2yaU8) | 3:05 | 2022-04-29 | 2022-05-20 |
 | [Man of Few Words](https://open.spotify.com/track/2CrH8rrMPP7Los4rcQgdmK) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Man of Few Words](https://open.spotify.com/album/0DSD4h4QySpKW9ysyxx8be) | 3:15 | 2023-06-09 | 2023-08-05 |
 | [Marlboro Man](https://open.spotify.com/track/1kxqCDV9KkkuI7cOgBOmkJ) | [Matt Roy](https://open.spotify.com/artist/00hgDE113euRrneQug8LV7) | [Marlboro Man](https://open.spotify.com/album/1NXlQvwy2Tb7H41KyIEeeB) | 3:20 | 2022-11-25 | 2023-02-25 |
+| [Marlboros](https://open.spotify.com/track/15XHOyygvmfWPDNQ9Ee0D2) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [Marlboros](https://open.spotify.com/album/6goYUOqily3a99wWA02fVO) | 3:37 | 2024-02-01 |  |
 | [Married Now](https://open.spotify.com/track/3B1o577h7aTr6RrqRPg9KT) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Married Now](https://open.spotify.com/album/2AHUarSrE2rjQFYZcOzC13) | 3:00 | 2023-11-17 | 2023-12-16 |
 | [Marry That Girl](https://open.spotify.com/track/5fJguEwoiu8bgePqAWMNRm) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Marry That Girl](https://open.spotify.com/album/3cgovdfB1zXhT5OwCTAaCp) | 3:11 | 2022-03-04 | 2022-04-29 |
 | [Marry You](https://open.spotify.com/track/6XMD3tkYTDzdU6FJxlbsVa) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Kat & Alex Side A](https://open.spotify.com/album/0rkSr5p4PVGM4Vss9hrpzY) | 3:19 | 2022-09-16 | 2023-02-04 |
@@ -1135,7 +1137,7 @@
 | [New Year](https://open.spotify.com/track/5qG3C4mBg8JMU48hI8SaOS) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [New Year](https://open.spotify.com/album/6HbHZsTGLfZQNQS2v3Xf7S) | 2:49 | 2021-12-31 | 2022-02-05 |
 | [Next Right Thing](https://open.spotify.com/track/5uCKfQ0fZi3f8YALK0H1jz) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Next Right Thing](https://open.spotify.com/album/2YkzAkw1dEn4T4I0or0Q5O) | 2:46 | 2023-09-15 | 2023-10-21 |
 | [Next to You](https://open.spotify.com/track/6rtVmPpZUFJPbsDxrsVvrJ) | [Kyler Fisher](https://open.spotify.com/artist/3cWV5Q9peiGm9snMvrzDYx) | [Next to You](https://open.spotify.com/album/4CDcShcv2yzTbqORAsMuzI) | 2:17 | 2022-10-28 | 2023-01-28 |
-| [Night In](https://open.spotify.com/track/3Qt9dcvy6bNpbl6nmiioDd) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Night In](https://open.spotify.com/album/5qfu1icLSwAFmYoehJ3kYN) | 3:27 | 2024-01-05 |  |
+| [Night In](https://open.spotify.com/track/3Qt9dcvy6bNpbl6nmiioDd) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Night In](https://open.spotify.com/album/5qfu1icLSwAFmYoehJ3kYN) | 3:27 | 2024-01-05 | 2024-02-01 |
 | [Night Life \- \(Hot Country Artists to Watch\) \- Spotify Singles](https://open.spotify.com/track/6dJlulD7mTkgGyFnKTLM3N) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Spotify Singles](https://open.spotify.com/album/4dIIaejKvQW1sHG2YqlFbm) | 4:29 | 2023-05-26 | 2023-07-01 |
 | [Night Owl](https://open.spotify.com/track/6C098IDVsliiflMe2zTvcM) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Night Owl](https://open.spotify.com/album/5TC8CwmghUxW53H2z1uZAC) | 4:01 | 2023-10-27 | 2023-12-09 |
 | [Night To Go](https://open.spotify.com/track/65JhcwbMrDlQAxrRDi79Ns) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Night To Go](https://open.spotify.com/album/0NmgdVPj95vVLLxDor1R8T) | 2:43 | 2023-08-11 |  |
@@ -1282,6 +1284,7 @@
 | [Ragdoll](https://open.spotify.com/track/5n0uCraD4EIMmRWz2Yr9TA) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Ragdoll](https://open.spotify.com/album/6WjJUeJmOsU4BnkYGRGBSi) | 3:12 | 2022-08-19 | 2022-09-24 |
 | [Rain All Summer](https://open.spotify.com/track/1K854G9ymh1ubdoZLpERVJ) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Rain All Summer](https://open.spotify.com/album/4F58GEAmbiilDf1ofonT33) | 2:58 | 2022-07-15 | 2023-01-06 |
 | [Rain Like This](https://open.spotify.com/track/5UoqxnKXdzJW609IsL0w4G) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Rain Like This](https://open.spotify.com/album/1bFcRbOHgyxTcmlSopHnyo) | 3:17 | 2022-02-04 | 2022-03-05 |
+| [Rainin' in Dallas](https://open.spotify.com/track/5R1VLQaMBkfw9Hc1AANOEw) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Rainin' in Dallas](https://open.spotify.com/album/7vkRag6sGvwVHeNiRihqQs) | 3:17 | 2024-02-01 |  |
 | [Raise My Voice](https://open.spotify.com/track/6ZzMl0gTRQZwbbHqi6IXYh) | [Macy Krew](https://open.spotify.com/artist/2kVn00QTLUfduENEmJAWTG) | [Raise My Voice](https://open.spotify.com/album/6AJBAFd6cYwUgSygsBYTdJ) | 3:04 | 2023-04-21 | 2023-07-29 |
 | [Raised In A Barn](https://open.spotify.com/track/6fIKBEbOLQUEhzc0T4DGbo) | [Erin Kirby](https://open.spotify.com/artist/04VhqLBjrpeyOTrdH1ella) | [Raised In A Barn](https://open.spotify.com/album/3NgIDA6BxAKJ6SP849P3vG) | 3:01 | 2023-09-01 |  |
 | [Raised On Red](https://open.spotify.com/track/32dCfkqcTJTlZ4FkhXY9rq) | [Heath Sanders](https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP), [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Raised On Red](https://open.spotify.com/album/3U7zYR8bDJQgjaQM7Jf3k5) | 3:06 | 2022-04-08 | 2022-07-02 |
@@ -1320,7 +1323,7 @@
 | [River Jordan](https://open.spotify.com/track/1xtEieGrU7T3jtHgqQfWSP) | [Austin Jenckes](https://open.spotify.com/artist/6kzm1s9Z0leq5UTGwouVTA) | [River Jordan](https://open.spotify.com/album/4oTxax02L5oGUREh79Ndjj) | 3:08 | 2022-05-06 | 2022-08-13 |
 | [River Run](https://open.spotify.com/track/5dXlTSS5qfLerFrdR32LXA) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [River Run](https://open.spotify.com/album/3mBdZACUd5ArkYoWDRD2nW) | 3:11 | 2023-01-13 | 2023-03-25 |
 | [Rock And Roll Cowboy](https://open.spotify.com/track/2S64jbKPxABEYsniZYTH6C) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rock And Roll Cowboy](https://open.spotify.com/album/2x3dSlSmRsnITniupc8W8Q) | 3:12 | 2022-02-04 | 2022-02-19 |
-| [Rock Bottom](https://open.spotify.com/track/0nwwcVkIvLXNPwgWro38Cd) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Rock Bottom](https://open.spotify.com/album/43IDZXdU9lmnblSuAm1PXb) | 3:22 | 2023-08-11 |  |
+| [Rock Bottom](https://open.spotify.com/track/0nwwcVkIvLXNPwgWro38Cd) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Rock Bottom](https://open.spotify.com/album/43IDZXdU9lmnblSuAm1PXb) | 3:22 | 2023-08-11 | 2024-02-01 |
 | [Rodeo](https://open.spotify.com/track/1vatH00GQmecBevlKY5ztN) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Rodeo](https://open.spotify.com/album/7onB4ESplhXRNbxMJrg1z1) | 2:25 | 2023-02-10 | 2023-04-15 |
 | [Rodeo Queen](https://open.spotify.com/track/7zLmOXHzhuYlDpez5bAWmm) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Rodeo Queen](https://open.spotify.com/album/16s1YAqpcHWpPurb7T2Wli) | 3:02 | 2023-03-10 | 2023-04-09 |
 | [Rolex® On A Redneck](https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rolex® On A Redneck](https://open.spotify.com/album/5EAoOhSEXjwSmnddEIACbH) | 2:59 | 2022-03-25 | 2022-05-14 |

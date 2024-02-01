@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: TWS\(투어스\)\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
+> Is it your favorite oppa or dongsaeng? \(Cover: VANNER \(배너\)\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-530 songs - 1 day 5 hr 37 min
+531 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [9 and Three Quarters \(Run Away\)](https://open.spotify.com/track/1rqb2FCXVn2HNL1afJEnTr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) | 3:31 | 2022-07-27 | 2023-01-24 |
 | [9 and Three Quarters \(Run Away\)](https://open.spotify.com/track/2MsNSKQNQNRklkKFxxvIav) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv) | 3:31 | 2021-12-08 | 2022-07-29 |
 | [90's Love](https://open.spotify.com/track/0B36SbjfDv15ji1bQEEeTN) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 2 \- The 2nd Album](https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s) | 3:33 | 2021-12-08 | 2022-07-23 |
-| [\_WORLD](https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 2:58 | 2022-07-19 | 2024-01-30 |
+| [\_WORLD](https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 2:58 | 2022-07-19 |  |
 | [A Song Written Easily](https://open.spotify.com/track/5KqOPtE8nhYtgcXzrIt6N0) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [IN ITS TIME](https://open.spotify.com/album/3uMb3hF3aAlK7wPU4w8o9D) | 3:33 | 2021-12-08 | 2022-07-28 |
 | [Adore you](https://open.spotify.com/track/7rrVR9VrztRH93MqvUIUau) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [Adore you](https://open.spotify.com/album/2QFxk3swmGzWN0R2NZ8QNK) | 3:56 | 2022-03-30 | 2022-06-12 |
 | [Adrenaline](https://open.spotify.com/track/5SbVAjEbm6YS9qF8m8EYGD) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [CRAVITY 1ST ALBUM PART 2 \[LIBERTY : IN OUR COSMOS\]](https://open.spotify.com/album/0fQl58pOwJpkTfVUZudzpY) | 3:14 | 2022-03-22 | 2022-04-24 |
@@ -255,6 +255,7 @@
 | [ISTJ](https://open.spotify.com/track/43Pmqpiw4zFY77pT5QdxQ8) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [ISTJ \- The 3rd Album](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 3:05 | 2023-07-19 | 2023-09-11 |
 | [It's fine](https://open.spotify.com/track/6zl8VOP7l8kFd2nLfmJ2Kg) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [It's fine](https://open.spotify.com/album/2DIn3u50PH4rezsVxjH6IT) | 3:13 | 2022-03-31 | 2022-04-14 |
 | [It's Raining](https://open.spotify.com/track/0dpp5l5Mf17gFI8AtahK3h) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [Road to Kingdom \(Your Song\), Pt\. 1](https://open.spotify.com/album/69u5RBm7sL60Y1BK3dtUDH) | 3:33 | 2022-03-22 | 2022-04-10 |
+| [JACKPOT](https://open.spotify.com/track/4e4RlMOWUnoVkIYyjNjN57) | [VANNER](https://open.spotify.com/artist/05pkCt3DQY5ZC41u7WMk5D) | [CAPTURE THE FLAG](https://open.spotify.com/album/2gQepXItf8PffuK3DgEpiY) | 2:38 | 2024-01-31 |  |
 | [JAWS](https://open.spotify.com/track/5BVe5BDEa3JGJnA9IHuBYg) | [BAE173](https://open.spotify.com/artist/60315n11JElel8KhdHg8jM) | [INTERSECTION : BLAZE](https://open.spotify.com/album/7raO8lCDp9amtMVxrE29HM) | 3:28 | 2022-03-30 | 2022-04-13 |
 | [JIKJIN](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:04 | 2022-02-15 | 2024-01-05 |
 | [Jopping](https://open.spotify.com/track/5WrEilrRI5cIW0DxMvQYPZ) | [SuperM](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) | [SuperM \- The 1st Mini Album](https://open.spotify.com/album/1C1qYeSC9RdgbrKXpZCTSJ) | 4:11 | 2022-03-31 | 2022-04-16 |
@@ -357,7 +358,7 @@
 | [Numb](https://open.spotify.com/track/0oiQqWcpJVeMsKQ5E0Cil8) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [HELLO Chapter 2: Hello, Strange Place](https://open.spotify.com/album/470CmgGjcBd9XmDA4jCyAD) | 3:25 | 2022-01-17 | 2022-04-15 |
 | [Obsession](https://open.spotify.com/track/7fK0csBoqbcgUuWGV0cpoD) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [OBSESSION](https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm) | 3:23 | 2022-01-17 | 2022-06-19 |
 | [Oh My!](https://open.spotify.com/track/4JViGq60SvqtQXI3WK0OLS) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5TH MINI ALBUM 'YOU MAKE MY DAY'](https://open.spotify.com/album/7ayq6V3xwXGOScUqhvIyFl) | 3:15 | 2021-12-08 | 2022-07-17 |
-| [Oh Mymy : 7s](https://open.spotify.com/track/0oasRG0i7nOHdj6sIe6B80) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Oh Mymy : 7s](https://open.spotify.com/album/4JxcTD9gDjCRbZPhDVoD40) | 3:09 | 2024-01-03 |  |
+| [Oh Mymy : 7s](https://open.spotify.com/track/0oasRG0i7nOHdj6sIe6B80) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Oh Mymy : 7s](https://open.spotify.com/album/4JxcTD9gDjCRbZPhDVoD40) | 3:09 | 2024-01-03 | 2024-02-01 |
 | [oh yeah](https://open.spotify.com/track/6HcYZ1SlmnmiPJ5oXwoT9y) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:43 | 2023-04-21 | 2023-05-19 |
 | [ON \(Feat\. Sia\)](https://open.spotify.com/track/3IB5qOeMayvpOdHxYCL5tZ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS) | 4:06 | 2022-04-15 | 2022-04-17 |
 | [On And On](https://open.spotify.com/track/2xeVbsz4Ab2cFX9TgOoZA0) | [AMPERS&ONE](https://open.spotify.com/artist/4T0Chh3DGxJrEs3gM0biqg) | [AMPERSAND ONE](https://open.spotify.com/album/1DgPFXEedQx7BmeLpVLcyx) | 3:11 | 2023-11-15 | 2023-12-07 |
@@ -461,7 +462,7 @@
 | [Switch](https://open.spotify.com/track/4e378M6XRmJBW30gNws2TE) | [Gguggugi](https://open.spotify.com/artist/0SLGKxtZbiQFfJGtJ8TDTo) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 2:59 | 2023-04-26 | 2023-06-02 |
 | [Tag Tag Tag](https://open.spotify.com/track/6HMR9w1ORta3CXI9r4ptpE) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [VERI\-CHILL](https://open.spotify.com/album/0SQHVWNdrujtaHAodFG99C) | 3:05 | 2022-03-30 | 2022-04-19 |
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-09 |  |
-| [Talk Saxy](https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Talk Saxy](https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0) | 3:10 | 2023-10-29 |  |
+| [Talk Saxy](https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Talk Saxy](https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0) | 3:10 | 2023-10-29 | 2024-02-01 |
 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 | 2021-12-08 | 2023-10-26 |
 | [Tantara](https://open.spotify.com/track/2zbuoOgDU8rRvCqwJC91n0) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Tantara](https://open.spotify.com/album/5kXppcDQWMMADHJTzE1nOB) | 2:47 | 2023-04-26 | 2023-05-01 |
 | [Tear Drop](https://open.spotify.com/track/5T6UFJ0AtAU7gXGybQ0HH7) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [TURN OVER](https://open.spotify.com/album/5zt8nriwNFRlrZD3Gi4NRI) | 3:17 | 2022-03-22 | 2022-06-21 |

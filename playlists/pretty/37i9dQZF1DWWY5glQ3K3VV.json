@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Rhove, ANNA",
-  "num_followers": 94677,
+  "num_followers": 94726,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzQzMWRmY2VkMTUxMmU1MzQ5YmRlNWJmYjZlYzgyMWYzODBkMTJm",
+  "snapshot_id": "MCw1OTcwMTAyY2Q4NGU2YzhmYjBkZjViOTY1YmJhZjZhMWUxOTMwNDMz",
   "tracks": [
     {
       "added_at": "2024-01-25 23:02:00",
@@ -875,30 +875,6 @@
     {
       "added_at": "2024-01-25 23:02:00",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/2FCnqgKag6FTtXOG2FEl5P"
-      },
-      "artists": [
-        {
-          "name": "Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
-        },
-        {
-          "name": "Don Joe",
-          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
-        },
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        }
-      ],
-      "duration_ms": 162362,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/0iRKVjfQzpr41T3WsU7shl"
-    },
-    {
-      "added_at": "2024-01-25 23:02:00",
-      "album": {
         "name": "Lamborghini a Via Marina",
         "url": "https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp"
       },
@@ -919,6 +895,30 @@
       "duration_ms": 223360,
       "name": "Baby U Want Me (feat. Geolier & Michelangelo)",
       "url": "https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7"
+    },
+    {
+      "added_at": "2024-01-25 23:02:00",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/2FCnqgKag6FTtXOG2FEl5P"
+      },
+      "artists": [
+        {
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        },
+        {
+          "name": "Don Joe",
+          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "duration_ms": 162362,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/0iRKVjfQzpr41T3WsU7shl"
     },
     {
       "added_at": "2024-01-25 23:02:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-01-25 23:02:00",
       "album": {
-        "name": "Madreperla",
-        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 155133,
-      "name": "Mollami Pt.2",
-      "url": "https://open.spotify.com/track/3uQLQ73joqyMYDhI2UaBOq"
-    },
-    {
-      "added_at": "2024-01-25 23:02:00",
-      "album": {
         "name": "Bisous",
         "url": "https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 154960,
       "name": "Bisous",
       "url": "https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn"
+    },
+    {
+      "added_at": "2024-01-25 23:02:00",
+      "album": {
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 155133,
+      "name": "Mollami Pt.2",
+      "url": "https://open.spotify.com/track/3uQLQ73joqyMYDhI2UaBOq"
     },
     {
       "added_at": "2024-01-25 23:02:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-01-25 23:02:00",
       "album": {
-        "name": "FSK TRAPSHIT REVENGE",
-        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
-      },
-      "artists": [
-        {
-          "name": "FSK SATELLITE",
-          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "ANSIA NO",
-      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
-    },
-    {
-      "added_at": "2024-01-25 23:02:00",
-      "album": {
         "name": "Valentino Rossi",
         "url": "https://open.spotify.com/album/6EwyAqpWB0x93nzVeiiqTQ"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 119495,
       "name": "Valentino Rossi",
       "url": "https://open.spotify.com/track/5IjPpqpiQ7C4wOsJFUGhaH"
+    },
+    {
+      "added_at": "2024-01-25 23:02:00",
+      "album": {
+        "name": "FSK TRAPSHIT REVENGE",
+        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
+      },
+      "artists": [
+        {
+          "name": "FSK SATELLITE",
+          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "ANSIA NO",
+      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
     },
     {
       "added_at": "2024-01-25 23:02:00",
@@ -1555,6 +1555,30 @@
     {
       "added_at": "2024-01-25 23:02:00",
       "album": {
+        "name": "HOURS",
+        "url": "https://open.spotify.com/album/6wo9LoC6T6VWdsSR35SXlE"
+      },
+      "artists": [
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Enzo Dong",
+          "url": "https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "SPLASH (feat. Enzo Dong)",
+      "url": "https://open.spotify.com/track/0CjTQ01ADXx3BMO07LxpKx"
+    },
+    {
+      "added_at": "2024-01-25 23:02:00",
+      "album": {
         "name": "X2",
         "url": "https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5"
       },
@@ -1603,30 +1627,6 @@
       "duration_ms": 143641,
       "name": "DIOSA (feat. Peppe Soks) - Remix",
       "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
-    },
-    {
-      "added_at": "2024-01-25 23:02:00",
-      "album": {
-        "name": "HOURS",
-        "url": "https://open.spotify.com/album/6wo9LoC6T6VWdsSR35SXlE"
-      },
-      "artists": [
-        {
-          "name": "MV Killa",
-          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
-        },
-        {
-          "name": "Yung Snapp",
-          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
-        },
-        {
-          "name": "Enzo Dong",
-          "url": "https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "SPLASH (feat. Enzo Dong)",
-      "url": "https://open.spotify.com/track/0CjTQ01ADXx3BMO07LxpKx"
     },
     {
       "added_at": "2024-01-25 23:02:00",

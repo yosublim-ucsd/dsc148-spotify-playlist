@@ -6,6 +6,24 @@
     {
       "album": {
         "name": "1TRAGO",
+        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201106,
+      "name": "1TRAGO",
+      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
+    },
+    {
+      "album": {
+        "name": "1TRAGO",
         "url": "https://open.spotify.com/album/0po5B56fvIwDvS7Nz6ZB6Y"
       },
       "artists": [
@@ -16,7 +34,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 222522,
       "name": "1TRAGO",
       "url": "https://open.spotify.com/track/0zFMR3xLA39o9FyeRrGYhl"
@@ -85,6 +103,28 @@
     },
     {
       "album": {
+        "name": "Arranca (Official Video)",
+        "url": "https://open.spotify.com/album/6VznFbGxdBaHzK54yApLEd"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164202,
+      "name": "Arranca",
+      "url": "https://open.spotify.com/track/3WPqtAxAA8znGqNnxBDOvh"
+    },
+    {
+      "album": {
         "name": "Arranca (feat. Omega)",
         "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
       },
@@ -100,7 +140,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 166529,
       "name": "Arranca (feat. Omega)",
       "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
@@ -864,10 +904,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 158080,
       "name": "Fantasi",
       "url": "https://open.spotify.com/track/0r2PZjzpfFne09oljJZEU8"
+    },
+    {
+      "album": {
+        "name": "Fantasi (Video Oficial)",
+        "url": "https://open.spotify.com/album/60gXILJEkV30pUPZanPUIR"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159509,
+      "name": "Fantasi",
+      "url": "https://open.spotify.com/track/5tEPenW0Q6z2d3W2BXQG8f"
     },
     {
       "album": {
@@ -962,7 +1024,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 231155,
       "name": "fue mejor",
       "url": "https://open.spotify.com/track/7kriE6LR3F4CPm6jS8HxYm"
@@ -1215,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "La Despedida (Video Oficial)",
+        "url": "https://open.spotify.com/album/3JEWDNXRUqNKqrbYYhDTcM"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210005,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/4Rp6i4M1yEYs7H6rHCnOC9"
+    },
+    {
+      "album": {
         "name": "Forajido EP2",
         "url": "https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g"
       },
@@ -1226,7 +1306,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 210688,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/294ae9GSeG6nYVFlCOljJz"
@@ -1642,10 +1722,50 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 194526,
       "name": "Mami",
       "url": "https://open.spotify.com/track/0HTcD1SJ9xLdDHJ1BIr6KS"
+    },
+    {
+      "album": {
+        "name": "Mami (Official Video)",
+        "url": "https://open.spotify.com/album/3sIObCUsYNIp2USoAoXUdj"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198314,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/4FRYHlrIdFDM2C68gxTW3b"
+    },
+    {
+      "album": {
+        "name": "ESQUEMAS",
+        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226093,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O"
     },
     {
       "album": {
@@ -1664,7 +1784,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 273813,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/3UMpdwMNrTOm8z3ldN2I0N"
@@ -2221,6 +2341,28 @@
     },
     {
       "album": {
+        "name": "Por el Resto de Tu Vida",
+        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197476,
+      "name": "Por el Resto de Tu Vida",
+      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
+    },
+    {
+      "album": {
         "name": "Por el Resto de Tu Vida (Video Oficial)",
         "url": "https://open.spotify.com/album/2OWAi3TdZWPE6wl50PlUyB"
       },
@@ -2236,7 +2378,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 198336,
       "name": "Por el Resto de Tu Vida",
       "url": "https://open.spotify.com/track/6zRRZo7nTHYKqexy6IlcqQ"
@@ -2323,6 +2465,28 @@
     },
     {
       "album": {
+        "name": "Quererte Bonito",
+        "url": "https://open.spotify.com/album/4FIVsrPj9FasSMWV4AWRia"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269800,
+      "name": "Quererte Bonito",
+      "url": "https://open.spotify.com/track/65x3nHFf7flZrZTLDA1H7B"
+    },
+    {
+      "album": {
         "name": "Dharma",
         "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
@@ -2338,7 +2502,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 271893,
       "name": "Quererte Bonito",
       "url": "https://open.spotify.com/track/3uUJWiEkIePGTDju0Ff2Qb"
@@ -2658,7 +2822,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 185026,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/1Va8p5BsNByFjzx0cUxj2Q"
@@ -2676,7 +2840,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 186013,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/7gVW4nW63TH4kjCc66j0c2"
@@ -2818,10 +2982,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 149471,
       "name": "Underground",
       "url": "https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ"
+    },
+    {
+      "album": {
+        "name": "Underground (Official Video)",
+        "url": "https://open.spotify.com/album/2AYJeY2krN9JBFYOTf67Db"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169706,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/1kozvQViNoX67Sx3hc1FvR"
     },
     {
       "album": {

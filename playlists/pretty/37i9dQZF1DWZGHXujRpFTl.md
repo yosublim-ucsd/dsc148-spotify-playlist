@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGHXujRpFTl.md) - [plain]
 
 > torturing ourselves by watching them over and over this halloween season
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,908 likes - 40 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,954 likes - 40 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGHXujRpFTl.md) - [plain]
 | 27 | [It Comes At Night](https://open.spotify.com/track/7ByYjU4hBPJeTSj6qtBmpB) | [Brian McOmber](https://open.spotify.com/artist/6SgmJflkwEjvHIpby6qbP1) | [It Comes At Night \(Original Soundtrack Album\)](https://open.spotify.com/album/0KvJ9zoBfrZBbHiQPINul0) | 1:35 |
 | 28 | [Seeing Is Believing](https://open.spotify.com/track/4i7313WGb0hezrvoQwYtQD) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Nathan Matthew David](https://open.spotify.com/artist/306pekW0ihKJVqobzcmBC4) | [Slice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5fc361oxMCoemYqjyQN6A3) | 1:17 |
 | 29 | [The House that Hårga Built](https://open.spotify.com/track/5wIR5lSNZ5Zl2ZD3sc3Xa7) | [Bobby Krlic](https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J) | [Midsommar \(Original Motion Picture Score\)](https://open.spotify.com/album/5HL96qiKDj00wQuVwBKaLZ) | 3:33 |
-| 30 | [Tainted Love / Where Did Our Love Go \- Extended Version / Medley](https://open.spotify.com/track/2atm0QTTcVXsN47XSdIY7b) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/1R4TikWrz6Mz53aB66dZRn) | 8:59 |
+| 30 | [Tainted Love / Where Did Our Love Go? \- Extended Version / Medley](https://open.spotify.com/track/2atm0QTTcVXsN47XSdIY7b) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/1R4TikWrz6Mz53aB66dZRn) | 8:59 |
 | 31 | [Ducks In A Row](https://open.spotify.com/track/2y01FyWDT6qL1wbSZdGNtg) | [Lucianblomkamp](https://open.spotify.com/artist/1SG4PrT6nLKmqDJ7SfKRJV), [IJALE](https://open.spotify.com/artist/0z2CwWat2P7ABje9hBHfoo) | [Where In The World Is LUCIANBLOMKAMP?](https://open.spotify.com/album/4SF5O79oN7Sd23RsWdmLar) | 3:06 |
 | 32 | [The Mighty Rio Grande](https://open.spotify.com/track/37HI0imp0t6a0MBS00lPkS) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 11:16 |
 | 33 | [Ava](https://open.spotify.com/track/4ODKQNq4VcCK7dwz0AU1uO) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Ex Machina \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73JQnkZK21PuqE4qF3TLJE) | 2:22 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGHXujRpFTl.md) - [plain]
 | 39 | [Mannequin Metric](https://open.spotify.com/track/6t45daSIcmRzYeJBB0x3ve) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [In Fabric OST](https://open.spotify.com/album/56h30DA2RokyYVDobT2U5a) | 4:14 |
 | 40 | [All For Us \- from the HBO Original Series Euphoria](https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [All For Us \(from the HBO Original Series Euphoria\)](https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo) | 3:12 |
 
-Snapshot ID: `MCxkMjgzMDhiYzI4NTMxNjVmYmU0MTU5MDY5NjU0OTQyMmRhYjEyNmQ5`
+Snapshot ID: `MCxmNWZkYTY3YWRlNGJjZGUyZGEyNTc1NGZmOTM5OTcxZTEyMjBkMjNj`

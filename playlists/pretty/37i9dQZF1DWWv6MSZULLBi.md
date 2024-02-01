@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Mumford & Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,491 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,497 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Easy Violence](https://open.spotify.com/track/5ej9MfgSDNbc1qiPfrtIP2) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Easy Violence / John Prine](https://open.spotify.com/album/2N8s58tXG6YWPYSDYMyRWM) | 2:21 |
 | 100 | [Wasn’t Easy](https://open.spotify.com/track/4WFgUozeQqYpohlO0T09Av) | [Sorry Girls](https://open.spotify.com/artist/5tMARXM4XOsODrCmJ0zI2M) | [Wasn’t Easy](https://open.spotify.com/album/6MCd261C9Nuk0K3Ckjr6Nv) | 2:19 |
 
-Snapshot ID: `MCw3Yzk2NmIzYzUxY2JjODYwN2Q0OThlZTcyZmQ1ZjZjMjU1NDQ2NjNm`
+Snapshot ID: `MCwzYjlhYTc0NzQzMDBiYzIyM2NhNjUxYjg0Yzc1ZjU0OTQ2ZDEzMzIw`

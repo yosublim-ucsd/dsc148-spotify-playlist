@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-232 songs - 12 hr 47 min
+233 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,8 @@
 | [The Christmas Song](https://open.spotify.com/track/6V3TFkg3aKRSu109j3yxV2) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [The Christmas Song](https://open.spotify.com/album/5afqwKiu72YDroqLPLTEA5) | 1:58 | 2023-11-17 | 2023-12-08 |
 | [The Christmas Song \(Alternative Version\)](https://open.spotify.com/track/5jQrmU5rPtQaaztvCXixje) | [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [The Christmas Song](https://open.spotify.com/album/1M8hInKX0KKrYEH5Bu2fVX) | 2:05 | 2021-11-12 | 2022-07-01 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/5PLycideUdqJhZlNOn7DKh) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/album/2HvjWs3N4yuO6ie8tdGhMC) | 5:17 | 2021-11-12 | 2022-07-27 |
-| [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 | 2022-11-11 |  |
+| [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 | 2022-11-11 | 2024-02-01 |
+| [The Christmas Waltz](https://open.spotify.com/track/4eEdv0ZBTtWh8zS41SeUp8) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:47 | 2023-10-16 |  |
 | [The Little Drummer Boy](https://open.spotify.com/track/3PS3si74boOaOC6zxf858B) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [The Little Drummer Boy](https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF) | 2:56 | 2023-12-08 |  |
 | [The Loneliest Christmas](https://open.spotify.com/track/0GJC2CqdaMPMPxrdATNl65) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ), [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [The Loneliest Christmas](https://open.spotify.com/album/1ehSsoiUERBfN9b2YO5tBv) | 2:08 | 2021-11-12 | 2022-07-28 |
 | [The New Year](https://open.spotify.com/track/4Y2cR1AEADE6FyNVnuaWhZ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 4:06 | 2022-12-23 | 2023-04-29 |

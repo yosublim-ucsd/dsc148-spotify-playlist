@@ -4,7 +4,7 @@
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-146 songs - 8 hr 39 min
+147 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2021-11-12 |  |
 | [The Christmas Waltz](https://open.spotify.com/track/1lz9Zt51FkorcpO9ImTF0v) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn) | [The Christmas Waltz](https://open.spotify.com/album/3AL7JAKqZ8qYkELBarVLjx) | 4:05 | 2022-11-11 |  |
 | [The Christmas Waltz](https://open.spotify.com/track/0NG05wDqGPCQWOkzBErSyn) | [Jaimee Paul](https://open.spotify.com/artist/09VxnBvEC5lDFLmMkEYOmr), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [The Christmas Waltz](https://open.spotify.com/album/41aUgrcnR0L2MYsfTOcpsb) | 3:09 | 2022-11-11 |  |
-| [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 | 2022-11-11 |  |
+| [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 | 2022-11-11 | 2024-02-01 |
+| [The Christmas Waltz](https://open.spotify.com/track/4eEdv0ZBTtWh8zS41SeUp8) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:47 | 2022-11-14 |  |
 | [The Christmas Waltz](https://open.spotify.com/track/4ZgXABJ6WoFupYGzbUziuv) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [Simply Christmas \(Deluxe Edition\)](https://open.spotify.com/album/7joGy5WxBuQpf5XLCFxkC1) | 3:02 | 2021-11-12 |  |
 | [The Christmas Waltz](https://open.spotify.com/track/7J0cerYwEoX1inloapkWBz) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [Simply Christmas \(Deluxe Edition\)](https://open.spotify.com/album/3nMeVjYypmshXLIWEcrvGN) | 3:02 | 2021-11-12 | 2023-11-17 |
 | [The Little Drummer Boy \(feat\. Bill Huntington & Jason Marsalis\)](https://open.spotify.com/track/2ApiBIDqdv5kBukv666Qhf) | [Ellis Marsalis](https://open.spotify.com/artist/6gMW76a7vmuyUuAivTjFGj), [Jason Marsalis](https://open.spotify.com/artist/3kZyLijv2b47kwz0qoRpT6), [Bill Huntington](https://open.spotify.com/artist/6ehjcjYM2hcJO4xLHgv2yU) | [A New Orleans Christmas Carol \(Deluxe Edition\)](https://open.spotify.com/album/5ts9XnU0lMg6SpiCelP0ba) | 4:16 | 2021-11-12 |  |

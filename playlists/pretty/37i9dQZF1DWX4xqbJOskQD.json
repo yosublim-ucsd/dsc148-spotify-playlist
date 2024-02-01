@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjk0NTNhZTE2ZTViNGQzYjM1MTlmYWMyMWI4OGU5YWJlYzIzZjY0",
+  "snapshot_id": "MCxkNmYxMDMxYmQyNjY3MWQ3ZDdjMDc5NzUzYmE0MmQyZjg1YmM5NzY1",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -211,22 +211,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Voices In Modern",
-        "url": "https://open.spotify.com/album/6kckztjIdIEv1gLYa9Wyn8"
-      },
-      "artists": [
-        {
-          "name": "The Four Freshmen",
-          "url": "https://open.spotify.com/artist/7eAF64ZiDwK2rDPSrr97D9"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "It's A Blue World",
-      "url": "https://open.spotify.com/track/2iXNeaqJ1Ef3YZ3iEak8tU"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 178800,
       "name": "Sincerely",
       "url": "https://open.spotify.com/track/50AhgOXYVm9ASB6PlKdKk0"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "Voices In Modern",
+        "url": "https://open.spotify.com/album/6kckztjIdIEv1gLYa9Wyn8"
+      },
+      "artists": [
+        {
+          "name": "The Four Freshmen",
+          "url": "https://open.spotify.com/artist/7eAF64ZiDwK2rDPSrr97D9"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "It's A Blue World",
+      "url": "https://open.spotify.com/track/2iXNeaqJ1Ef3YZ3iEak8tU"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -315,22 +315,18 @@
     {
       "added_at": "2022-03-28 19:29:09",
       "album": {
-        "name": "Tea For Two (with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio)",
-        "url": "https://open.spotify.com/album/4CUEOvIXCBO4r4OZFTPhCv"
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
       },
       "artists": [
         {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Axel Stordahl And His Orchestra",
-          "url": "https://open.spotify.com/artist/2Ixy2lmIGGsrbinhHvnFJl"
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
         }
       ],
-      "duration_ms": 191306,
-      "name": "Tea for Two (with Axel Stordahl & His Orchestra)",
-      "url": "https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml"
+      "duration_ms": 185200,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
     },
     {
       "added_at": "2022-03-28 19:29:09",
@@ -349,6 +345,26 @@
       "url": "https://open.spotify.com/track/3M6vVP9wlbGC10xZ654SDb"
     },
     {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
+        "name": "Tea For Two (with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio)",
+        "url": "https://open.spotify.com/album/4CUEOvIXCBO4r4OZFTPhCv"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Axel Stordahl And His Orchestra",
+          "url": "https://open.spotify.com/artist/2Ixy2lmIGGsrbinhHvnFJl"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "Tea for Two (with Axel Stordahl & His Orchestra)",
+      "url": "https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml"
+    },
+    {
       "added_at": "2020-08-17 22:49:59",
       "album": {
         "name": "The Anthology: 1931 - 1968",
@@ -365,22 +381,6 @@
       "url": "https://open.spotify.com/track/35ZobdJK28ivwmMgyubZak"
     },
     {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
-    },
-    {
       "added_at": "2020-08-17 22:49:59",
       "album": {
         "name": "The Coed Singles",
@@ -395,6 +395,22 @@
       "duration_ms": 151455,
       "name": "Have You Heard",
       "url": "https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+      },
+      "artists": [
+        {
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "May You Always",
+      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -445,6 +461,22 @@
       "url": "https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22"
     },
     {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
+      },
+      "artists": [
+        {
+          "name": "The Four Lads",
+          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "Standing On the Corner",
+      "url": "https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq"
+    },
+    {
       "added_at": "2020-08-17 22:49:59",
       "album": {
         "name": "That's How Rhythm Was Born",
@@ -465,20 +497,36 @@
       "url": "https://open.spotify.com/track/49Xc60AAQc6NIFAa1DikVo"
     },
     {
-      "added_at": "2022-03-28 19:29:09",
+      "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
+        "name": "Teach Me Tonight",
+        "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
       },
       "artists": [
         {
-          "name": "The Four Lads",
-          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
+          "name": "The De Castro Sisters",
+          "url": "https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G"
         }
       ],
-      "duration_ms": 171733,
-      "name": "Standing On the Corner",
-      "url": "https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq"
+      "duration_ms": 170666,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/0JqKK01MXbnDhBKKdcUCnX"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "Blue Velvet / The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3qOZok4QE0NLDJEWNuasPS"
+      },
+      "artists": [
+        {
+          "name": "The Moonglows",
+          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -503,18 +551,34 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Teach Me Tonight",
-        "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz"
       },
       "artists": [
         {
-          "name": "The De Castro Sisters",
-          "url": "https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G"
+          "name": "The Dinning Sisters",
+          "url": "https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h"
         }
       ],
-      "duration_ms": 170666,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/0JqKK01MXbnDhBKKdcUCnX"
+      "duration_ms": 160173,
+      "name": "Fun And Fancy Free",
+      "url": "https://open.spotify.com/track/7AcHnYTB2t17ZWjkgBeQsJ"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Best Of The Ames",
+        "url": "https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0"
+      },
+      "artists": [
+        {
+          "name": "The Ames Brothers",
+          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
+        }
+      ],
+      "duration_ms": 166520,
+      "name": "Rag Mop",
+      "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -531,54 +595,6 @@
       "duration_ms": 156733,
       "name": "I'm Forever Blowing Bubbles",
       "url": "https://open.spotify.com/track/5UhPIWJk8x5YuzoXelnfQi"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "May You Always",
-      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "Blue Velvet / The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3qOZok4QE0NLDJEWNuasPS"
-      },
-      "artists": [
-        {
-          "name": "The Moonglows",
-          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Secret Love",
-      "url": "https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz"
-      },
-      "artists": [
-        {
-          "name": "The Dinning Sisters",
-          "url": "https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Fun And Fancy Free",
-      "url": "https://open.spotify.com/track/7AcHnYTB2t17ZWjkgBeQsJ"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -611,22 +627,6 @@
       "duration_ms": 159173,
       "name": "A G.I. Wish",
       "url": "https://open.spotify.com/track/2TVIvoDLrq3adZBeDyFbl9"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Best Of The Ames",
-        "url": "https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0"
-      },
-      "artists": [
-        {
-          "name": "The Ames Brothers",
-          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
-        }
-      ],
-      "duration_ms": 166520,
-      "name": "Rag Mop",
-      "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -711,22 +711,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Singles Collection 1946-60",
-        "url": "https://open.spotify.com/album/75jzCtbYZGSEJgL7i9MhNN"
-      },
-      "artists": [
-        {
-          "name": "The Fontane Sisters",
-          "url": "https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Underneath The Linden Tree",
-      "url": "https://open.spotify.com/track/2rXUt201xsDplJW2BtBFXU"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The Kirby Stone Touch",
         "url": "https://open.spotify.com/album/2BeXXbbvUL4qzsm8A6W9pA"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 129866,
       "name": "Lullaby of Birdland",
       "url": "https://open.spotify.com/track/4ZQebNut4njSuTIJe7l3UH"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Singles Collection 1946-60",
+        "url": "https://open.spotify.com/album/75jzCtbYZGSEJgL7i9MhNN"
+      },
+      "artists": [
+        {
+          "name": "The Fontane Sisters",
+          "url": "https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Underneath The Linden Tree",
+      "url": "https://open.spotify.com/track/2rXUt201xsDplJW2BtBFXU"
     },
     {
       "added_at": "2020-08-17 22:49:59",

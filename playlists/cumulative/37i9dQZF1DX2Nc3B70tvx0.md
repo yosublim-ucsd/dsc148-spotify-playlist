@@ -4,7 +4,7 @@
 
 > New music from The Smile, Future Islands, Katy Kirby and more..\.  Cover: The Smile
 
-1,988 songs - 4 day 23 hr 26 min
+1,989 songs - 4 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,7 +453,7 @@
 | [don't let me take my time](https://open.spotify.com/track/0d0BCIa1gWViE3jZLNaMmq) | [Indie Anthony](https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM) | [don't let me take my time](https://open.spotify.com/album/6p013AhVt4sEjwz98LA6in) | 2:40 | 2024-01-05 | 2024-01-27 |
 | [Don't Talk About It](https://open.spotify.com/track/5xlJitVKUJbCue34uZD534) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Don't Talk About It](https://open.spotify.com/album/2fKK14lYN56BHfK12Ex7oM) | 3:00 | 2019-05-31 | 2019-10-04 |
 | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw) | 3:10 | 2023-11-06 | 2024-01-06 |
-| [Don't You Want To Sleep With Someone Normal?](https://open.spotify.com/track/0UwDwiamblRdcYyzfDJS4k) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Don't You Want To Sleep With Someone Normal?](https://open.spotify.com/album/3pZbBTlwXWw77Tj5Euwe3s) | 3:48 | 2023-12-10 |  |
+| [Don't You Want To Sleep With Someone Normal?](https://open.spotify.com/track/0UwDwiamblRdcYyzfDJS4k) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Don't You Want To Sleep With Someone Normal?](https://open.spotify.com/album/3pZbBTlwXWw77Tj5Euwe3s) | 3:48 | 2023-12-10 | 2024-02-01 |
 | [Don’t Wanna](https://open.spotify.com/track/1gB2IbSdMot7wOTbizuBuN) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Don't Wanna](https://open.spotify.com/album/4iNDXOLDZma37m0iWPkf0x) | 3:21 | 2020-06-12 | 2020-09-04 |
 | [Door](https://open.spotify.com/track/0x82ZV6zf2o5tOXIbN0aCF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Door](https://open.spotify.com/album/26gPb1EQQFK1Y0ij5E5rAE) | 5:22 | 2019-06-29 | 2019-09-27 |
 | [Down](https://open.spotify.com/track/0ydWtuBJ9G6qoNL28TTdIH) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Down](https://open.spotify.com/album/1vkgdjyXXcmMZ6cmsGxloT) | 3:26 | 2021-05-22 | 2021-10-11 |
@@ -1216,6 +1216,7 @@
 | [Not Strong Enough](https://open.spotify.com/track/72GNW1xKoi5BAhMYAW6e7e) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:54 | 2023-03-01 | 2023-04-04 |
 | [Nothing Else Matters](https://open.spotify.com/track/7HdDZScUII7zKRQKqXKUrH) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/0bztigq9w8sLg2nHdmq4Td) | 4:34 | 2021-08-20 | 2022-02-08 |
 | [Nothing Left To Lose](https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Nothing Left To Lose](https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69) | 3:44 | 2023-01-20 | 2023-05-21 |
+| [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2024-01-31 |  |
 | [Nothing New \(feat\. Phoebe Bridgers\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:18 | 2021-11-19 | 2022-04-02 |
 | [Nothing To Declare](https://open.spotify.com/track/5FbdXtJfcXb2UB8KJNAcQM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Nothing To Declare](https://open.spotify.com/album/7E9wJ7yAAw5UszQT80PuZ8) | 3:33 | 2024-01-19 |  |
 | [nothing to do](https://open.spotify.com/track/4LkMLBc3HDYi7lQsaeq7C7) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [sore thumb](https://open.spotify.com/album/6EjM6iU0bqurQwwSN3Ln0T) | 3:04 | 2022-03-24 | 2022-04-20 |

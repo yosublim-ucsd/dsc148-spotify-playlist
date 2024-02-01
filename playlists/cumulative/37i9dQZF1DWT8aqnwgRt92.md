@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,196 songs - 3 day 3 hr 17 min
+1,199 songs - 3 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [ANSWER](https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ANSWER](https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD) | 3:24 | 2022-12-27 | 2023-02-15 |
 | [Anytime Anywhere](https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Anytime Anywhere](https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X) | 3:50 | 2023-09-28 | 2024-01-19 |
 | [Apocalypse Day](https://open.spotify.com/track/1bOJDSdYDxVvHBwwLhXRGP) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [Apocalypse Day](https://open.spotify.com/album/61yWn0CS4WlG8Rluo8KJz2) | 3:59 | 2023-12-26 | 2024-01-10 |
-| [Arc of The Ashes](https://open.spotify.com/track/377Gdn34pIqXO1m4hWH2EF) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Arc of The Ashes](https://open.spotify.com/album/5kZ9wLvobOB7EqCfhyXwr6) | 4:04 | 2024-01-30 |  |
+| [Arc of The Ashes](https://open.spotify.com/track/377Gdn34pIqXO1m4hWH2EF) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Arc of The Ashes](https://open.spotify.com/album/5kZ9wLvobOB7EqCfhyXwr6) | 4:04 | 2024-01-30 | 2024-02-01 |
+| [Arc of The Ashes](https://open.spotify.com/track/6Ck5eIzNJx0N4jSsC9J99A) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Arc of The Ashes](https://open.spotify.com/album/4b4RsRfyB4sQPigec5YLEa) | 4:04 | 2024-01-30 |  |
 | [As the Gods Say](https://open.spotify.com/track/5x2uYdPrY1z2Ay1ucRKn3m) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [As the Gods Say EP](https://open.spotify.com/album/0LxE26kNQTFVyr08f81Sex) | 2:51 | 2023-01-19 | 2023-02-01 |
 | [As the Gods Say \- Maniac Ver.](https://open.spotify.com/track/1TqPXOmJzhLLwjgB6CVHU6) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [As the Gods Say \(Maniac Ver.\)](https://open.spotify.com/album/02JA34PUXRpX5EOowhGion) | 1:59 | 2022-12-27 | 2023-01-18 |
 | [ASEED](https://open.spotify.com/track/48eYAbFWCsSEs3oKMAlI0h) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [ASEED](https://open.spotify.com/album/7IRJ6a77nAR2jYEg5rDu1K) | 4:49 | 2022-05-28 | 2022-06-09 |
@@ -69,7 +70,8 @@
 | [Be as one!!!](https://open.spotify.com/track/3Cil1Zo5OJ9Oo1MVXxwUgG) | [ダイヤ\(CV.小宮有紗\)](https://open.spotify.com/artist/3uys3CJZKoRxBYyxz5dyV1), [ルビィ\(CV.降幡 愛\)](https://open.spotify.com/artist/7i71Jz4xNyVQ9BELptOa2i), [チカ\(CV.伊波杏樹\)](https://open.spotify.com/artist/3ogujBje6P7bPnrjnLrK8g) | [Be as one!!!](https://open.spotify.com/album/5ecRtDo4wKnugST8C9OKNR) | 4:13 | 2023-07-11 | 2023-07-28 |
 | [BE ME](https://open.spotify.com/track/6YXgarWY2jY2f1F7VVUE0Z) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [BE ME](https://open.spotify.com/album/0nJ24ELPglbislYG5leab8) | 3:31 | 2022-12-06 | 2023-01-13 |
 | [Beautiful Reasoning](https://open.spotify.com/track/6RIbjsbLuqrPAMW0KpcaiQ) | [美少年探偵団](https://open.spotify.com/artist/47jSkvNBCRFipyesRCoq8L) | [Beautiful Reasoning / Welcoming Days](https://open.spotify.com/album/3q3Qf7oNd47DN61ra8rmSJ) | 4:14 | 2022-07-07 | 2022-08-03 |
-| [because](https://open.spotify.com/track/3GI5dJDbotiqkMYpdbYekS) | [丁](https://open.spotify.com/artist/2FBCBROCrxXD4tC6TmA8t4) | [because](https://open.spotify.com/album/4l09EaMZupt9ZUgsCyVtjT) | 4:32 | 2024-01-30 |  |
+| [because](https://open.spotify.com/track/6A7ApLuakiDmKHtVn6Alpi) | [Tei](https://open.spotify.com/artist/3TNWTnnvYHRFd4AwlX44s2) | [because](https://open.spotify.com/album/3X5S24GPW8hFTfmR8QVyRG) | 4:32 | 2024-01-30 |  |
+| [because](https://open.spotify.com/track/3GI5dJDbotiqkMYpdbYekS) | [丁](https://open.spotify.com/artist/2FBCBROCrxXD4tC6TmA8t4) | [because](https://open.spotify.com/album/4l09EaMZupt9ZUgsCyVtjT) | 4:32 | 2024-01-30 | 2024-02-01 |
 | [Before the Nightmare](https://open.spotify.com/track/6yLMicWzVVOvzlkXN9rcPl) | [高槻かなこ](https://open.spotify.com/artist/2do49zyzTTvfteT4XSof5k) | [Before the Nightmare](https://open.spotify.com/album/1nDKk1Ao6Y1UYjYTDndFw9) | 3:33 | 2022-05-28 | 2022-07-06 |
 | [Believe](https://open.spotify.com/track/3ANTsGDjVNRGmoY7mKphgE) | [みさき](https://open.spotify.com/artist/48XWQ7slyWKPTKAHY4qYtU) | [たんぽぽ](https://open.spotify.com/album/2hb6VnBLP6imKcogwVE5G7) | 2:56 | 2022-09-13 | 2022-10-26 |
 | [Believe it leap](https://open.spotify.com/track/6Hfq3RH6KktAHBGzgc1PgV) | [杉本琢弥](https://open.spotify.com/artist/0cskwVqF25J07PVLTB2cuq) | [Believe it leap](https://open.spotify.com/album/2fh8EMh5KQHycf26aeags1) | 4:26 | 2023-10-12 | 2023-10-25 |
@@ -201,7 +203,8 @@
 | [FRIENDS \(from "永久少年 Eternal Boys"\)](https://open.spotify.com/track/0xALdPJdiAiU1JzkPDaG7L) | [Story of Love](https://open.spotify.com/artist/3LVHQwyhX567rGRU09vt6I) | [FRIENDS \(from "永久少年 Eternal Boys"\)](https://open.spotify.com/album/2rcdKb5IEzwFT0BpzzflwZ) | 3:43 | 2022-10-18 | 2022-10-28 |
 | [Friends Are For](https://open.spotify.com/track/0ZyxK0yMUKlUpBXsYg0cmi) | [MOONCHILD](https://open.spotify.com/artist/4wZ56MQgx9kLpOmF3IuJmM) | [Friends Are For](https://open.spotify.com/album/08tOtAc9Wd3ca6vYh5iPVe) | 3:23 | 2023-11-16 | 2024-01-10 |
 | [Friends Are For TV SIZE](https://open.spotify.com/track/19Qk7QLzQlHzKueJ5XWE92) | [MOONCHILD](https://open.spotify.com/artist/4wZ56MQgx9kLpOmF3IuJmM) | [Friends Are For TV SIZE](https://open.spotify.com/album/1YOv5Oyb8M95kTPgSP1cyC) | 1:30 | 2023-10-07 | 2023-10-13 |
-| [From Fate](https://open.spotify.com/track/7umllTuYQqNTB3zwc2Qd5t) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [夢の糸](https://open.spotify.com/album/64CtA7HcKuD9ikMfld6UtP) | 3:20 | 2024-01-30 |  |
+| [From Fate](https://open.spotify.com/track/3H38hshUqjNGMBa1uX5v8H) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dream Thread](https://open.spotify.com/album/4aLypy3XVbwAl5m77cubJL) | 3:20 | 2024-01-30 |  |
+| [From Fate](https://open.spotify.com/track/7umllTuYQqNTB3zwc2Qd5t) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [夢の糸](https://open.spotify.com/album/64CtA7HcKuD9ikMfld6UtP) | 3:20 | 2024-01-30 | 2024-02-01 |
 | [FROZEN MIDNIGHT](https://open.spotify.com/track/3vI81nyW6KM3aFHld1BX6K) | [佐久間貴生](https://open.spotify.com/artist/2xTubMhZT8kMqvVsMEV5Mp) | [FROZEN MIDNIGHT](https://open.spotify.com/album/2W2vsABoSxtStk4BnmHWVL) | 3:36 | 2022-12-22 | 2023-01-18 |
 | [Futari Pinocchio](https://open.spotify.com/track/7x7ca3HLIyu6kGyL6e64mA) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [Futari Pinocchio](https://open.spotify.com/album/6K1Gm6CcYyM2xfnur1gE58) | 3:42 | 2022-07-28 | 2022-08-17 |
 | [Future is Yours](https://open.spotify.com/track/2HPLnsjFWrBe3X2DcUEAVb) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [Future is Yours](https://open.spotify.com/album/0ydm0gjxuNauzHArr4Hztt) | 4:26 | 2023-08-01 | 2023-10-08 |

@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal. Cover: Within Temptation",
-  "num_followers": 760872,
+  "num_followers": 760961,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTFjMDQxZjFhZmU2NGJhNmU5ZmYxODEzNzM2MzExZTk1ODcyNzFk",
+  "snapshot_id": "MCwzNmYxMzA1YzkwMTVhMGIxYTA1OGU3NTQ3NTNiOGU2ZGVhY2IwM2Ix",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -519,22 +519,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Dark Waters",
-        "url": "https://open.spotify.com/album/0aZuBf1mVMdYYZWRxBUZHs"
+        "name": "Glory for Salvation",
+        "url": "https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i"
       },
       "artists": [
         {
-          "name": "Delain",
-          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
-        },
-        {
-          "name": "Paolo Ribaldini",
-          "url": "https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN"
+          "name": "Rhapsody Of Fire",
+          "url": "https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1"
         }
       ],
-      "duration_ms": 299076,
-      "name": "Beneath (feat. Paolo Ribaldini)",
-      "url": "https://open.spotify.com/track/0OjnAYGA3uGCN5XbD53dA5"
+      "duration_ms": 346053,
+      "name": "Son of Vengeance",
+      "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -555,18 +551,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Glory for Salvation",
-        "url": "https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i"
+        "name": "Dark Waters",
+        "url": "https://open.spotify.com/album/0aZuBf1mVMdYYZWRxBUZHs"
       },
       "artists": [
         {
-          "name": "Rhapsody Of Fire",
-          "url": "https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1"
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        },
+        {
+          "name": "Paolo Ribaldini",
+          "url": "https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN"
         }
       ],
-      "duration_ms": 346053,
-      "name": "Son of Vengeance",
-      "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
+      "duration_ms": 299076,
+      "name": "Beneath (feat. Paolo Ribaldini)",
+      "url": "https://open.spotify.com/track/0OjnAYGA3uGCN5XbD53dA5"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Not All Those Who Wander Are Lost",
-        "url": "https://open.spotify.com/album/2Hdnxdxtbgbajj18nZcp65"
-      },
-      "artists": [
-        {
-          "name": "Eklipse",
-          "url": "https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH"
-        },
-        {
-          "name": "Melissa Bonny",
-          "url": "https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb"
-        }
-      ],
-      "duration_ms": 286525,
-      "name": "Not All Those Who Wander Are Lost",
-      "url": "https://open.spotify.com/track/3BllrsBQnKlfb4rNDcllkt"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Coming from the Sky",
         "url": "https://open.spotify.com/album/6tjLmagYorlDipMtYT1bay"
       },
@@ -1123,18 +1103,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Pop Metal",
-        "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
+        "name": "Not All Those Who Wander Are Lost",
+        "url": "https://open.spotify.com/album/2Hdnxdxtbgbajj18nZcp65"
       },
       "artists": [
         {
-          "name": "Memoremains",
-          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
+          "name": "Eklipse",
+          "url": "https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH"
+        },
+        {
+          "name": "Melissa Bonny",
+          "url": "https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb"
         }
       ],
-      "duration_ms": 191999,
-      "name": "Empire",
-      "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
+      "duration_ms": 286525,
+      "name": "Not All Those Who Wander Are Lost",
+      "url": "https://open.spotify.com/track/3BllrsBQnKlfb4rNDcllkt"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1151,6 +1135,22 @@
       "duration_ms": 267240,
       "name": "The Hanging Tree",
       "url": "https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Pop Metal",
+        "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
+      },
+      "artists": [
+        {
+          "name": "Memoremains",
+          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
+        }
+      ],
+      "duration_ms": 191999,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Fears Don't Matter",
-        "url": "https://open.spotify.com/album/0vWuMEMFKAPlkyO27hAV9n"
-      },
-      "artists": [
-        {
-          "name": "Blame Me!",
-          "url": "https://open.spotify.com/artist/5VPpA30LO6fGV6ZYycAn9T"
-        }
-      ],
-      "duration_ms": 224600,
-      "name": "Fears Don't Matter",
-      "url": "https://open.spotify.com/track/6gWMxaJw6PBE1Bw1lud6zm"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Now Is the Time",
         "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 378549,
       "name": "Now Is the Time",
       "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Fears Don't Matter",
+        "url": "https://open.spotify.com/album/0vWuMEMFKAPlkyO27hAV9n"
+      },
+      "artists": [
+        {
+          "name": "Blame Me!",
+          "url": "https://open.spotify.com/artist/5VPpA30LO6fGV6ZYycAn9T"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "Fears Don't Matter",
+      "url": "https://open.spotify.com/track/6gWMxaJw6PBE1Bw1lud6zm"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1267,6 +1267,22 @@
       "duration_ms": 323990,
       "name": "Over the Horizon Radar",
       "url": "https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Elements Of Power",
+        "url": "https://open.spotify.com/album/2xV7ybQdKDyETb6UmWpVg9"
+      },
+      "artists": [
+        {
+          "name": "Veonity",
+          "url": "https://open.spotify.com/artist/3Zero2Ovi9miqMvjcNpobH"
+        }
+      ],
+      "duration_ms": 261933,
+      "name": "Altar Of Power",
+      "url": "https://open.spotify.com/track/01rFkJESDeDWjmxTZvzNRx"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1327,18 +1343,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Elements Of Power",
-        "url": "https://open.spotify.com/album/2xV7ybQdKDyETb6UmWpVg9"
+        "name": "Call of the North",
+        "url": "https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t"
       },
       "artists": [
         {
-          "name": "Veonity",
-          "url": "https://open.spotify.com/artist/3Zero2Ovi9miqMvjcNpobH"
+          "name": "Frozen Crown",
+          "url": "https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E"
         }
       ],
-      "duration_ms": 261933,
-      "name": "Altar Of Power",
-      "url": "https://open.spotify.com/track/01rFkJESDeDWjmxTZvzNRx"
+      "duration_ms": 384066,
+      "name": "Call of the North",
+      "url": "https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1355,22 +1371,6 @@
       "duration_ms": 213473,
       "name": "The Beast Has Awoken",
       "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Call of the North",
-        "url": "https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t"
-      },
-      "artists": [
-        {
-          "name": "Frozen Crown",
-          "url": "https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E"
-        }
-      ],
-      "duration_ms": 384066,
-      "name": "Call of the North",
-      "url": "https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd"
     },
     {
       "added_at": "2023-05-19 04:00:00",

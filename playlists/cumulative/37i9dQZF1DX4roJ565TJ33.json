@@ -694,10 +694,44 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 255253,
       "name": "En S\u00e5ng",
       "url": "https://open.spotify.com/track/0fyB1ggn91AFAvKRgXcwnT"
+    },
+    {
+      "album": {
+        "name": "En r\u00f6d vals",
+        "url": "https://open.spotify.com/album/52iav2PhBawZB5kWix3tuD"
+      },
+      "artists": [
+        {
+          "name": "Ulla Fluur",
+          "url": "https://open.spotify.com/artist/3jLzatCzHIGYop5o0pTbTr"
+        },
+        {
+          "name": "Mikael Augustsson",
+          "url": "https://open.spotify.com/artist/7AvWzDJSurr6NnKK0YKi8W"
+        },
+        {
+          "name": "Martin Hoper",
+          "url": "https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc"
+        },
+        {
+          "name": "Chris Montgomery",
+          "url": "https://open.spotify.com/artist/7B6FpoS1Dk7vKXz3S60HTW"
+        },
+        {
+          "name": "Leo Lindberg",
+          "url": "https://open.spotify.com/artist/77OBGeL75ilbMCJRKxskvI"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255253,
+      "name": "En S\u00e5ng",
+      "url": "https://open.spotify.com/track/3FZJmHE7v3CsmnWEv1e1de"
     },
     {
       "album": {

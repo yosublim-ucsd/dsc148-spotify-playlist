@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,664 likes - 85 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,656 likes - 85 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 2 | [Night Before Christmas](https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Night Before Christmas](https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW) | 3:36 |
 | 3 | [I'll Be Home For Christmas \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4G0YpYB1Ullb5rgJeJoMcP) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Spotify Singles \- Holiday](https://open.spotify.com/album/2kpdorrZmanV015tDKqZY1) | 3:26 |
 | 4 | [Silver Bells \(feat\. Naturally 7\)](https://open.spotify.com/track/2dnNCViz7wU5FclmN5KcT2) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Naturally 7](https://open.spotify.com/artist/769D3IwCDrdPospAd3Hlpi) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 3:09 |
-| 5 | [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 |
+| 5 | [The Christmas Waltz](https://open.spotify.com/track/4eEdv0ZBTtWh8zS41SeUp8) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:47 |
 | 6 | [Home \(with Michael Bublé\)](https://open.spotify.com/track/4nX0jG14mSIi0LcmK3sq0b) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:44 |
 | 7 | [Hard Candy Christmas](https://open.spotify.com/track/5OotiuR5xoCmLqeq1P8PFn) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/29bRAOozywfaeNNM3hQi2r) | 3:28 |
 | 8 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/2AYgvrtpFIbF6Fkb02WVZ6) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Merry Christmas, Y’all](https://open.spotify.com/album/23PILNfWCzNg9M4tSpBoaA) | 2:56 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 84 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 |
 | 85 | [The Lighthouse Keeper](https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Lighthouse Keeper](https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB) | 4:07 |
 
-Snapshot ID: `MCw0MjI2N2Y2YzQzMjVkMzJkNGExMDAwZWQzYzgzNDcxYWUwYjc3ZGQx`
+Snapshot ID: `MCwxNzA2OGQwMDg5ZjI4ODk1YmI1ZjdkNDBkZDA3OTljMWMzMDhlZGUx`

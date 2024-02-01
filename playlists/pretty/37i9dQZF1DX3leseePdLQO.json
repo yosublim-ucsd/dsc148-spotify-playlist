@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring RENEE.",
-  "num_followers": 10038,
+  "num_followers": 10048,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzUwOTgwY2MwZTU3MzUwYWU4MTE1MTRhY2Y1MDc1NTg2ZmM3N2Ey",
+  "snapshot_id": "MCw3ZjlmYzkzY2NkZmJhMWFlMzJhNzkwNzExNWE5ZWYwZDMxNGNmNTFj",
   "tracks": [
     {
       "added_at": "2024-01-25 20:59:18",
@@ -455,42 +455,6 @@
     {
       "added_at": "2024-01-25 20:59:18",
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 158080,
-      "name": "Fantasi",
-      "url": "https://open.spotify.com/track/0r2PZjzpfFne09oljJZEU8"
-    },
-    {
-      "added_at": "2024-01-25 20:59:18",
-      "album": {
-        "name": "ESENCIA",
-        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 180619,
-      "name": "TU VALOR",
-      "url": "https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ"
-    },
-    {
-      "added_at": "2024-01-25 20:59:18",
-      "album": {
         "name": "LAS BURBUJAS DEL JACUZZI",
         "url": "https://open.spotify.com/album/5XrAHXh8BA2Ncvltge5YPk"
       },
@@ -511,6 +475,42 @@
       "duration_ms": 156917,
       "name": "LAS BURBUJAS DEL JACUZZI",
       "url": "https://open.spotify.com/track/1u7m5t7YwN5neo0RtL3oRB"
+    },
+    {
+      "added_at": "2024-01-25 20:59:18",
+      "album": {
+        "name": "ESENCIA",
+        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 180619,
+      "name": "TU VALOR",
+      "url": "https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ"
+    },
+    {
+      "added_at": "2024-01-25 20:59:18",
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 158080,
+      "name": "Fantasi",
+      "url": "https://open.spotify.com/track/0r2PZjzpfFne09oljJZEU8"
     },
     {
       "added_at": "2024-01-25 20:59:18",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-01-25 20:59:18",
       "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 191863,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
-    },
-    {
-      "added_at": "2024-01-25 20:59:18",
-      "album": {
         "name": "Dharma +",
         "url": "https://open.spotify.com/album/2qVMXqCfIupklO1U46SqOX"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 165213,
       "name": "TV",
       "url": "https://open.spotify.com/track/6NIqCQW067X2AEHlz19TEc"
+    },
+    {
+      "added_at": "2024-01-25 20:59:18",
+      "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 191863,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
     },
     {
       "added_at": "2024-01-25 20:59:18",
@@ -979,22 +979,6 @@
       "duration_ms": 145741,
       "name": "Alguien M\u00e1s",
       "url": "https://open.spotify.com/track/2B1wvUhXgpNQEaKrpbz4GB"
-    },
-    {
-      "added_at": "2024-01-25 20:59:18",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 152425,
-      "name": "1Amor",
-      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
     },
     {
       "added_at": "2024-01-25 20:59:18",
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2024-01-25 20:59:18",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 152425,
+      "name": "1Amor",
+      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
+    },
+    {
+      "added_at": "2024-01-25 20:59:18",
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
       },
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-01-25 20:59:18",
       "album": {
+        "name": "quise quererte",
+        "url": "https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 219786,
+      "name": "quise quererte",
+      "url": "https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N"
+    },
+    {
+      "added_at": "2024-01-25 20:59:18",
+      "album": {
         "name": "Puntos Equidistantes",
         "url": "https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 227375,
       "name": "Puntos Equidistantes",
       "url": "https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB"
-    },
-    {
-      "added_at": "2024-01-25 20:59:18",
-      "album": {
-        "name": "quise quererte",
-        "url": "https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 219786,
-      "name": "quise quererte",
-      "url": "https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N"
     },
     {
       "added_at": "2024-01-25 20:59:18",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-01-25 20:59:18",
       "album": {
-        "name": "Me Da Bastante Miedo",
-        "url": "https://open.spotify.com/album/58X5fNDhbOW6WLyaDoBhVK"
-      },
-      "artists": [
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
-        }
-      ],
-      "duration_ms": 186075,
-      "name": "Me Da Bastante Miedo",
-      "url": "https://open.spotify.com/track/4PwI9jIDS9AVwJEkc9kftz"
-    },
-    {
-      "added_at": "2024-01-25 20:59:18",
-      "album": {
         "name": "cielo violeta",
         "url": "https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 160000,
       "name": "cielo violeta",
       "url": "https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW"
+    },
+    {
+      "added_at": "2024-01-25 20:59:18",
+      "album": {
+        "name": "Me Da Bastante Miedo",
+        "url": "https://open.spotify.com/album/58X5fNDhbOW6WLyaDoBhVK"
+      },
+      "artists": [
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        }
+      ],
+      "duration_ms": 186075,
+      "name": "Me Da Bastante Miedo",
+      "url": "https://open.spotify.com/track/4PwI9jIDS9AVwJEkc9kftz"
     },
     {
       "added_at": "2024-01-25 20:59:18",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-01-25 20:59:18",
       "album": {
-        "name": "P.M.",
-        "url": "https://open.spotify.com/album/1OKBqRNyEQQUlkokuXYEFk"
-      },
-      "artists": [
-        {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
-        }
-      ],
-      "duration_ms": 158946,
-      "name": "P.M.",
-      "url": "https://open.spotify.com/track/45QJa6CNZvicAUEVG8qUaa"
-    },
-    {
-      "added_at": "2024-01-25 20:59:18",
-      "album": {
         "name": "DARA",
         "url": "https://open.spotify.com/album/5VGyOaFFu2uXZJybipzjft"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 173893,
       "name": "Aceler\u00e9",
       "url": "https://open.spotify.com/track/0cZhddkRPufZYBkO4GxjZv"
+    },
+    {
+      "added_at": "2024-01-25 20:59:18",
+      "album": {
+        "name": "P.M.",
+        "url": "https://open.spotify.com/album/1OKBqRNyEQQUlkokuXYEFk"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        }
+      ],
+      "duration_ms": 158946,
+      "name": "P.M.",
+      "url": "https://open.spotify.com/track/45QJa6CNZvicAUEVG8qUaa"
     },
     {
       "added_at": "2024-01-25 20:59:18",

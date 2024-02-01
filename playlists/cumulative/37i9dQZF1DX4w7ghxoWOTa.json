@@ -207,6 +207,36 @@
     },
     {
       "album": {
+        "name": "Motteke! Sailor Fuku",
+        "url": "https://open.spotify.com/album/3VEAlxkmR2eYNJsuoB9J1x"
+      },
+      "artists": [
+        {
+          "name": "Konata Izumi (CV: Aya Hirano)",
+          "url": "https://open.spotify.com/artist/6iKqcqxRfV6U2GEUmv8CpO"
+        },
+        {
+          "name": "Kagami Hiiragi (CV: Emiri Kato)",
+          "url": "https://open.spotify.com/artist/5fvbPC8rqrkz1VsqLqRx0D"
+        },
+        {
+          "name": "Tsukasa Hiiragi (CV: Kaori Fukuhara)",
+          "url": "https://open.spotify.com/artist/5J8HJhja1Yop5ZDTQqRafw"
+        },
+        {
+          "name": "Miyuki Takara (CV: Aya Endo)",
+          "url": "https://open.spotify.com/artist/7HNz2eAmvR2X7bGuHrBgpw"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254840,
+      "name": "Motteke! Sailor Fuku",
+      "url": "https://open.spotify.com/track/5Sg6CkwSkxByWyODIw0q5Y"
+    },
+    {
+      "album": {
         "name": "NEO SKY, NEO MAP!",
         "url": "https://open.spotify.com/album/54ABJqkUjleMloogUpIQ0M"
       },

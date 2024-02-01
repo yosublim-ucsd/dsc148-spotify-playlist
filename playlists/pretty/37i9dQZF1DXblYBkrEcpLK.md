@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ヒグチアイ \(Ai Higuchi\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,080 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,152 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 2 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 |
 | 3 | [残響散歌](https://open.spotify.com/track/2cErTn7DU75ZILisPP34TB) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Open α Door](https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy) | 3:04 |
 | 4 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
-| 5 | [From Fate](https://open.spotify.com/track/7umllTuYQqNTB3zwc2Qd5t) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [夢の糸](https://open.spotify.com/album/64CtA7HcKuD9ikMfld6UtP) | 3:20 |
+| 5 | [From Fate](https://open.spotify.com/track/3H38hshUqjNGMBa1uX5v8H) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dream Thread](https://open.spotify.com/album/4aLypy3XVbwAl5m77cubJL) | 3:20 |
 | 6 | [青く、青く](https://open.spotify.com/track/4x8y91an0erARwUUTifXWP) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [青く、青く](https://open.spotify.com/album/0gnXedu8kjG7R8XPdDpREc) | 4:32 |
 | 7 | [request](https://open.spotify.com/track/63MlPFQQ7PNGiiHMnVrfw2) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [request](https://open.spotify.com/album/1f6C0igNf8jtwASukoTF6I) | 3:44 |
 | 8 | [SIGN IS B \- AI SOLO VER.](https://open.spotify.com/track/7382VXbagXQiuxHc7uFZr5) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [アイ\(CV:高橋李依\)](https://open.spotify.com/artist/5TB17Dz2LxzznEW190lYs0) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.1\)](https://open.spotify.com/album/1p6iimUATzHm5X377CBKUZ) | 3:33 |
-| 9 | [memories \- from CrosSing](https://open.spotify.com/track/0vD9j6PakpVJPluXl5Lqow) | [伊藤かな恵](https://open.spotify.com/artist/2KOk4PLK3fQWIjuqEw15ih) | [memories \- from CrosSing](https://open.spotify.com/album/1fj0u0jghJul6YZNoKbSgE) | 4:23 |
+| 9 | [Memories \- From CrosSing](https://open.spotify.com/track/0xnJ9seuo8polxcsURVsYd) | [伊藤かな恵](https://open.spotify.com/artist/2KOk4PLK3fQWIjuqEw15ih) | [Memories \- From CrosSing](https://open.spotify.com/album/7alk8DcgMSlaETvPZSZ9UE) | 4:23 |
 | 10 | [Itterasshai](https://open.spotify.com/track/5qD2Jt4i2btdL1Fg4XOe20) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Miseisenjo](https://open.spotify.com/album/4UMbQQ1A6zjnWzu4Kzr7tl) | 3:57 |
 | 11 | [Y☺u & I](https://open.spotify.com/track/657ejjdXyOZakkC1S1cgKV) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [Y☺u & I](https://open.spotify.com/album/6rTLAKWlNYHIDTdJW7lgdO) | 3:29 |
 | 12 | [Kura Kura](https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kura Kura](https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 49 | [Sincerely](https://open.spotify.com/track/4thBZp9kEDqeSwLtwcAZgk) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Lonely Queen's Liberation Party](https://open.spotify.com/album/4QP8jwitKgzWaNONjLof5h) | 4:35 |
 | 50 | [あのバンド](https://open.spotify.com/track/4Ji17AjAdjf83FsIDcXe0J) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:33 |
 
-Snapshot ID: `MCw1ODliNmI5MzYyMDk4M2JkOTg1ZDFmODlmNzMyMWQzNjAzZGRkMmVm`
+Snapshot ID: `MCxmZWRjMGNkYTU3Yjg2YmQwZGY0ODVkNGQ0NDY5NzJkZjJjYmZlOWZl`

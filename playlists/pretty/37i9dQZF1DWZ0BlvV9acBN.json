@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Thalles Roberto",
-  "num_followers": 134122,
+  "num_followers": 134151,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjU1MGE1ZDdjNmJlMGU1NDUxMjg3ZGZkNmEzMmRiZThkZmI5YTlj",
+  "snapshot_id": "MCxlNjUwYjg3NWNlM2MxNzRhNWEzMzUwNTIwMmVkYmFjNzQzOWVmZTMx",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -479,22 +479,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "O Que Me Espera",
-        "url": "https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs"
+        "name": "Te Seguirei",
+        "url": "https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E"
       },
       "artists": [
         {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        },
-        {
-          "name": "Malta",
-          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
+          "name": "Tarik Mohallem",
+          "url": "https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5"
         }
       ],
-      "duration_ms": 221805,
-      "name": "O Que Me Espera",
-      "url": "https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY"
+      "duration_ms": 290232,
+      "name": "Te Seguirei",
+      "url": "https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -515,18 +511,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Te Seguirei",
-        "url": "https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E"
+        "name": "O Que Me Espera",
+        "url": "https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs"
       },
       "artists": [
         {
-          "name": "Tarik Mohallem",
-          "url": "https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5"
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        },
+        {
+          "name": "Malta",
+          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
         }
       ],
-      "duration_ms": 290232,
-      "name": "Te Seguirei",
-      "url": "https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7"
+      "duration_ms": 221805,
+      "name": "O Que Me Espera",
+      "url": "https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Eu Vou Amanhecer (ao Vivo)",
-        "url": "https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 341789,
-      "name": "Eu Vou Amanhecer - Ao Vivo",
-      "url": "https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Sou Teu",
         "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 350664,
       "name": "Sou Teu",
       "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Eu Vou Amanhecer (ao Vivo)",
+        "url": "https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 341789,
+      "name": "Eu Vou Amanhecer - Ao Vivo",
+      "url": "https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -791,38 +791,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 536192,
-      "name": "Santo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "A Carta",
-        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
-      },
-      "artists": [
-        {
-          "name": "Abel Junho",
-          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
-        }
-      ],
-      "duration_ms": 296500,
-      "name": "A Carta",
-      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Catarse: Lado B",
         "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
       },
@@ -843,6 +811,38 @@
       "duration_ms": 222727,
       "name": "Cora\u00e7\u00e3o de Pedra",
       "url": "https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "A Carta",
+        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
+      },
+      "artists": [
+        {
+          "name": "Abel Junho",
+          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
+        }
+      ],
+      "duration_ms": 296500,
+      "name": "A Carta",
+      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 536192,
+      "name": "Santo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -923,22 +923,6 @@
       "duration_ms": 309383,
       "name": "Louco (feat. PG)",
       "url": "https://open.spotify.com/track/6BFJMuXwEzGLWkjB0pOxDV"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 274005,
-      "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 274005,
+      "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Falhas (Ao Vivo)",
         "url": "https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714"
       },
@@ -1115,8 +1115,8 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Caminho Sem Volta",
-        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
+        "name": "Agora Eu Vivo Teu Amor",
+        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
       },
       "artists": [
         {
@@ -1124,9 +1124,9 @@
           "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
         }
       ],
-      "duration_ms": 215064,
-      "name": "Caminho Sem Volta",
-      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
+      "duration_ms": 190519,
+      "name": "Agora Eu Vivo Teu Amor",
+      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1163,8 +1163,8 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Agora Eu Vivo Teu Amor",
-        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
+        "name": "Caminho Sem Volta",
+        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
       },
       "artists": [
         {
@@ -1172,9 +1172,9 @@
           "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
         }
       ],
-      "duration_ms": 190519,
-      "name": "Agora Eu Vivo Teu Amor",
-      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
+      "duration_ms": 215064,
+      "name": "Caminho Sem Volta",
+      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
     },
     {
       "added_at": "2023-12-22 03:00:00",

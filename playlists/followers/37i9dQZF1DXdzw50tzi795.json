@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 409158,
+  "2024-02-01": 409243,
   "date_first_scraped": "2024-01-30",
   "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Jeff Satur",
   "name": "\u0e09\u0e31\u0e19\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22",
@@ -57,6 +57,24 @@
       "duration_ms": 199145,
       "name": "Fall in Love",
       "url": "https://open.spotify.com/track/45dtFcaOs4lBf8gXAAoN8W"
+    },
+    {
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/4yOyrokpt9SeI9icULlYCB"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244865,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/2kpVbauiG7Tcue6kZPKYNG"
     },
     {
       "album": {
@@ -349,7 +367,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 212380,
       "name": "\u0e15\u0e1a\u0e1b\u0e32\u0e01 (On That Day)",
       "url": "https://open.spotify.com/track/4ctnDQ6saTXYs68AodmBZf"

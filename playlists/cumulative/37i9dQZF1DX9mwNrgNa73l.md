@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-165 songs - 18 hr 44 min
+166 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [Sakal Ban \- Coke Studio Season 8](https://open.spotify.com/track/3R5Isr6sd3mAsXJG3iFS0Z) | [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5), [Muazzam Ali Khan](https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf) | [Sakal Ban \(Coke Studio Season 8\)](https://open.spotify.com/album/622ZfxfKuZ9AUQ0RuhF0Ro) | 6:46 | 2023-11-17 | 2024-01-06 |
 | [Salaam](https://open.spotify.com/track/69gnztZiBrymiPoZmiZf8n) | [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy) | [Salaam](https://open.spotify.com/album/10F3wxfHMiYO6De0UPF3X2) | 4:37 | 2022-06-21 |  |
 | [Saleh Ala Nabi Yena](https://open.spotify.com/track/6ryrT2boTQP2huczlp8LG8) | [Mehak Ali](https://open.spotify.com/artist/6XnTAfn0rCJ6hrABktaOIW) | [Saleh Ala Nabi Yena](https://open.spotify.com/album/4vUkV0onvQs0qqYv53GB8u) | 4:38 | 2022-06-21 | 2024-01-06 |
-| [Sanoon Ek Pal Chain](https://open.spotify.com/track/0GGNrYfrOQHlzmVQn3gsPJ) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Mehfil\-E\-Sama Nusrat Fateh Ali Khan In Concert Vol\. 28](https://open.spotify.com/album/0HqkvHiAEVXknfIbwGWIDZ) | 12:47 | 2022-08-02 |  |
+| [Sanon Ik Pal Chain](https://open.spotify.com/track/6vJ2gB69dmTuZlEeMzWt4s) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Nusrat Fateh Ali Khan No\. 1 Hits](https://open.spotify.com/album/5dZFcWltRWnmi4takYGuij) | 12:43 | 2024-01-26 |  |
+| [Sanoon Ek Pal Chain](https://open.spotify.com/track/0GGNrYfrOQHlzmVQn3gsPJ) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Mehfil\-E\-Sama Nusrat Fateh Ali Khan In Concert Vol\. 28](https://open.spotify.com/album/0HqkvHiAEVXknfIbwGWIDZ) | 12:47 | 2022-08-02 | 2024-02-01 |
 | [Sanu Ek Pal Chain](https://open.spotify.com/track/3KMPY8RvRII2du31Cjl8Jg) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Sanu Ek Pal Chain](https://open.spotify.com/album/37kbj6Vz9DWILQcpAJRwl1) | 9:35 | 2022-08-02 |  |
 | [Sanu Ek Pal Chain Na Aawe](https://open.spotify.com/track/3lLx3MKogTDgjbxi68vBPv) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Heere Ni Ranjha Jogi Ho Gaya, Vol\. 1](https://open.spotify.com/album/6jlTOZE67Rt6jNSglxgv4t) | 12:45 | 2022-11-02 | 2022-11-14 |
 | [Shukran Allah](https://open.spotify.com/track/3nKEiJUeaWn8q2O9I1xwlB) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Kurbaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7gJUjDpRvBRY5oCh4pC9d5) | 4:50 | 2022-06-21 |  |

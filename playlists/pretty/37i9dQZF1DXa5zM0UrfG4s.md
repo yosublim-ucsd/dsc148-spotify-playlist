@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > bøgdebangers du kan spelle i kjerra!
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,117 likes - 70 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,125 likes - 70 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,20 +63,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 53 | [Konge på bøgda](https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Konge på bøgda](https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb) | 3:00 |
 | 54 | [Den Samme Jævla Sangen](https://open.spotify.com/track/5vkNNLnO28ZGA2QryYpXZU) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Den Samme Jævla Sangen](https://open.spotify.com/album/3fXnuFvgiZvjCRef5uPmDt) | 2:20 |
 | 55 | [Lyst på dæ](https://open.spotify.com/track/0pAaQWTrmbKEVPL0mlB9Sx) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Lyst på dæ](https://open.spotify.com/album/04zK7xAmi8Mx3A2OVUtT3i) | 2:41 |
-| 56 | [En Siste Gang](https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Helt Sykt VOL2](https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA) | 3:05 |
-| 57 | [Livet Er Herlig](https://open.spotify.com/track/1cb0J9fgwlnQtESfcRV0XJ) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9), [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Livet Er Herlig](https://open.spotify.com/album/2TWTHZ6Qv0O9UqIqrTn8HG) | 2:23 |
-| 58 | [Hardanger](https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4) | [Gunslingers](https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX) | [Hardanger](https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt) | 3:56 |
-| 59 | [Levva Livet](https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz) | [Levva Livet!](https://open.spotify.com/album/00m8339CymX4adXiATrT7e) | 4:34 |
+| 56 | [Livet Er Herlig](https://open.spotify.com/track/1cb0J9fgwlnQtESfcRV0XJ) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9), [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Livet Er Herlig](https://open.spotify.com/album/2TWTHZ6Qv0O9UqIqrTn8HG) | 2:23 |
+| 57 | [En Siste Gang](https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Helt Sykt VOL2](https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA) | 3:05 |
+| 58 | [Levva Livet](https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz) | [Levva Livet!](https://open.spotify.com/album/00m8339CymX4adXiATrT7e) | 4:34 |
+| 59 | [Hardanger](https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4) | [Gunslingers](https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX) | [Hardanger](https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt) | 3:56 |
 | 60 | [Sånn So Det Va Før](https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Sånn So Det Va Før](https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm) | 4:38 |
 | 61 | [Eventyr](https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Eventyr](https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt) | 2:27 |
 | 62 | [Över gränsen](https://open.spotify.com/track/3MWFPfsyvLWKceLAPx0hHY) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [Över gränsen](https://open.spotify.com/album/5NmNTHYvTGmVOxRmuEr1YA) | 2:18 |
 | 63 | [Splitter Pine](https://open.spotify.com/track/1JLdVHnYAGqr2tUD3LVN2c) | [Dumdum Boys](https://open.spotify.com/artist/4Eqk6wvSaia7pwOzPaqEQv) | [Splitter Pine \(Remastered 2015\)](https://open.spotify.com/album/4VdqkutDQsMtV4S4Jvliee) | 4:27 |
 | 64 | [Hytta Mi](https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Norge rundt med Staysman](https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3) | 2:18 |
-| 65 | [Kompis](https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Kompis](https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE) | 2:41 |
-| 66 | [Mcdonalds](https://open.spotify.com/track/4Uv5nzyKWBAnfiV1WbVFYz) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [ALBUMTRAOZ](https://open.spotify.com/album/0PqZdf0CZbeJM4A8HpC2cC) | 2:07 |
-| 67 | [Nå Koser Vi Oss](https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Nå Koser Vi Oss](https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF) | 2:49 |
+| 65 | [Nå Koser Vi Oss](https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Nå Koser Vi Oss](https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF) | 2:49 |
+| 66 | [Kompis](https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Kompis](https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE) | 2:41 |
+| 67 | [Mcdonalds](https://open.spotify.com/track/4Uv5nzyKWBAnfiV1WbVFYz) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [ALBUMTRAOZ](https://open.spotify.com/album/0PqZdf0CZbeJM4A8HpC2cC) | 2:07 |
 | 68 | [Jag trodde änglarna fanns](https://open.spotify.com/track/64oHVnVsMxtKyhJ8zpj4QU) | [Ole Ivars](https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6) | [Ole Ivars i 2000](https://open.spotify.com/album/4rz3lOFwmGVZuaX7yvOm0s) | 3:22 |
 | 69 | [Kæm Tok Ho Me Sæ](https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Bæst I Test](https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk) | 3:06 |
 | 70 | [Hej skål!](https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Hej skål!](https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS) | 2:09 |
 
-Snapshot ID: `MCwwNjBhYWViNWI3OTFkMmE4YzMwNmQ1NWNmODMyMTE0N2Q4MmU5ZDZk`
+Snapshot ID: `MCxiOTg0ZDBiMmE2MTIyZTA0MWJlMDg4NzUxYmRkZDM1OWUxN2Q4ZTQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 
 > ¡Mi amooorrrrrr! Las canciones escritas por "El Lujo de Sinaloa".
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,214 likes - 150 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,227 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 56 | [Ando Perdido](https://open.spotify.com/track/4yFuLCKjgJJIKEn5DbFlJp) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 2:44 |
 | 57 | [Me Ganan las Ganas \(feat\. Xitali\)](https://open.spotify.com/track/4o7bHAzDl8DMq3cE2ke6mA) | [Hermanos Vega Jr.](https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm), [Xitali](https://open.spotify.com/artist/49CrpCYUW6iefwoiJUj21e) | [El Legado del Shaka](https://open.spotify.com/album/4If5KHmcBD4tADphUifMZp) | 3:27 |
 | 58 | [En Lo Correcto](https://open.spotify.com/track/2ntKQlw7u1UrldD4Y3A9VD) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 2:18 |
-| 59 | [Si Se Me Pone](https://open.spotify.com/track/1J4Qa0MN66tl9U7mJEsiHL) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Sin Presumir](https://open.spotify.com/album/6wlLXm68UHg0WeTzY04BHi) | 3:07 |
-| 60 | [Me Gustaría Creerte](https://open.spotify.com/track/6u9yzekkcjN00Lq3bnq5Tt) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Vivir En Pecado](https://open.spotify.com/album/2o5S0ibYwO7QgrqZ0aevjW) | 3:07 |
+| 59 | [Me Gustaría Creerte](https://open.spotify.com/track/6u9yzekkcjN00Lq3bnq5Tt) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Vivir En Pecado](https://open.spotify.com/album/2o5S0ibYwO7QgrqZ0aevjW) | 3:07 |
+| 60 | [Si Se Me Pone](https://open.spotify.com/track/1J4Qa0MN66tl9U7mJEsiHL) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Sin Presumir](https://open.spotify.com/album/6wlLXm68UHg0WeTzY04BHi) | 3:07 |
 | 61 | [Me Dejaste Acostumbrado](https://open.spotify.com/track/6czsBH3Ewa4LCUt97VzWDm) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Me Dejaste Acostumbrado](https://open.spotify.com/album/3gQYIcZc3ubq5C1g2KTksR) | 2:32 |
 | 62 | [Mientes Muy Bonito](https://open.spotify.com/track/1QTWom4Tzef5oY0cPwABPs) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [El Que a Ti Te Gusta](https://open.spotify.com/album/47wEWNQJIhuqODvvVTUtrl) | 3:07 |
 | 63 | [Por Siempre Y Para Siempre](https://open.spotify.com/track/1tcLbRD7r6lgcKia0yPEbd) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Mi Promesa](https://open.spotify.com/album/0Ez3AihXSg9dVmgQcNnMmw) | 3:18 |
@@ -132,10 +132,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 122 | [No Quieren](https://open.spotify.com/track/5xNdBAnEva5RtzQGwF5Mky) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Con la Misma Sangre](https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO) | 2:18 |
 | 123 | [Me Toca Llorar](https://open.spotify.com/track/6a7E7c016XBapSa7PbN6rq) | [Cheyo Carrillo](https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks) | [Quedamos](https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA) | 2:53 |
 | 124 | [Me Está Gustando](https://open.spotify.com/track/5bgdBDUaIWHabyVJYvJ60G) | [Eduardo Cabral](https://open.spotify.com/artist/5kLm9wfd9SlurOr1INOgFB) | [Me Está Gustando](https://open.spotify.com/album/6ZgG6YA8IDX5cSG2g8J76q) | 2:36 |
-| 125 | [Recomiéndame](https://open.spotify.com/track/5I1ikVYRkrFEFCz6NU58gx) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Ni Juez Ni Parte \(Deluxe Edition\)](https://open.spotify.com/album/6rFanRfPpDoHfhWmHnP6uF) | 3:20 |
-| 126 | [Como un Rosal \(feat\. Joss Favela\)](https://open.spotify.com/track/6PjrQ01Cr3RFaOuzY9t36t) | [Miguel Martinez](https://open.spotify.com/artist/2Uh4Ct7WnBkQRiQHD5pYDl), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [A Lo Que Vengo, Vengo](https://open.spotify.com/album/1aGLWNFvBWtphgc25CIRCd) | 2:44 |
-| 127 | [Chaparrita de Mi Amor](https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc) | [Luis y Julián Jr.](https://open.spotify.com/artist/3vRJzJfiFGtnJQmhmoncMP) | [Homenaje a Nuestros Viejos](https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG) | 3:07 |
-| 128 | [Si Te Animas](https://open.spotify.com/track/74896FSrlV7OkdEZlT0fU6) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Vete Acostumbrando \(Deluxe Edition\)](https://open.spotify.com/album/4PLGITwnM0rWky5uYVflOh) | 2:58 |
+| 125 | [Como un Rosal \(feat\. Joss Favela\)](https://open.spotify.com/track/6PjrQ01Cr3RFaOuzY9t36t) | [Miguel Martinez](https://open.spotify.com/artist/2Uh4Ct7WnBkQRiQHD5pYDl), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [A Lo Que Vengo, Vengo](https://open.spotify.com/album/1aGLWNFvBWtphgc25CIRCd) | 2:44 |
+| 126 | [Recomiéndame](https://open.spotify.com/track/5I1ikVYRkrFEFCz6NU58gx) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Ni Juez Ni Parte \(Deluxe Edition\)](https://open.spotify.com/album/6rFanRfPpDoHfhWmHnP6uF) | 3:20 |
+| 127 | [Si Te Animas](https://open.spotify.com/track/74896FSrlV7OkdEZlT0fU6) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Vete Acostumbrando \(Deluxe Edition\)](https://open.spotify.com/album/4PLGITwnM0rWky5uYVflOh) | 2:58 |
+| 128 | [Chaparrita de Mi Amor](https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc) | [Luis y Julián Jr.](https://open.spotify.com/artist/3vRJzJfiFGtnJQmhmoncMP) | [Homenaje a Nuestros Viejos](https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG) | 3:07 |
 | 129 | [El Shake \(feat\. Las Cumbia Girls\)](https://open.spotify.com/track/0h51QJSvVN3KTEe2SnBCbn) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [Las Cumbia Girls](https://open.spotify.com/artist/62Q3pEV06xLxzApKPoMg0D) | [Globall](https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o) | 3:03 |
 | 130 | [Arrodíllate](https://open.spotify.com/track/3TYD30NcLjgflVL3GNMtek) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [No Me Mires Así](https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a) | 3:05 |
 | 131 | [No Te Quedes Con la Duda](https://open.spotify.com/track/7nDEn4gYqkKBznmC5bstSJ) | [Pablo Montero](https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3) | [No Te Quedes Con la Duda](https://open.spotify.com/album/62c6m1PDu6ZWB1p2XPT9lT) | 2:33 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 149 | [Pude](https://open.spotify.com/track/7xVwmWF7flGqtWyaTOYcdA) | [Gabriel Diaz](https://open.spotify.com/artist/4FqkFAlXmpAJGOsc9k4GBO) | [Prohibido El Amor](https://open.spotify.com/album/4t5EkZNnFsqJLOlETpfgj9) | 3:20 |
 | 150 | [Vas a Recordarme](https://open.spotify.com/track/68sLYh83RjZkPFlNg3cDR9) | [Banda Saucitos](https://open.spotify.com/artist/0N20ZTWNbKIiHIwT4QH9UM) | [Seguimos Firmes](https://open.spotify.com/album/2gtuFY8OsphtndFOjLD0Du) | 3:26 |
 
-Snapshot ID: `MCw5NDExYjdiMGYwZjI1ODcwZTEyNTYwMzVmZDU2N2Y2ZmExOGRlYzI5`
+Snapshot ID: `MCxmMjBjMzRlNjAxMDYyOTc5MzcwN2IzOWRkY2E2OGQyYjVhNDUxOWMx`

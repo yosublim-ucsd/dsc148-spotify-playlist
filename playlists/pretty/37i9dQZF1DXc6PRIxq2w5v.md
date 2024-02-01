@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Brunno Ramos, 2metro, BIG THE KIID
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,084 likes - 85 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,173 likes - 85 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 52 | [Deus é Bom](https://open.spotify.com/track/0SVVp5cSZVZc0EcKr1SzFw) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4) | [Deus é Bom](https://open.spotify.com/album/0TYghw8KxSX2XHTSHRIuBW) | 3:40 |
 | 53 | [A Glória da Segunda Casa](https://open.spotify.com/track/0pkDpDx2338D3SiCfFs6RZ) | [SevenRxni](https://open.spotify.com/artist/62CjcyuCDE2VvpKPS0z9ps), [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [P\. Oliveira](https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd), [Lxlrod](https://open.spotify.com/artist/5H0D7GVFCNJqEW5BdVb82A) | [A Glória da Segunda Casa](https://open.spotify.com/album/2OOHzHaoKmp8KRWOv8sOui) | 2:26 |
 | 54 | [Nome Sobre Todo Nome](https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Nome Sobre Todo Nome](https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj) | 2:13 |
-| 55 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 |
+| 55 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 |
 | 56 | [Amor Ágape](https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Amor Ágape](https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc) | 5:26 |
-| 57 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 |
+| 57 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 |
 | 58 | [Domingão](https://open.spotify.com/track/1HDLBb0pV7Y6INvZKp7Ss1) | [Kael](https://open.spotify.com/artist/2REBelsnF968ZaU1llcjiN), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Domingão](https://open.spotify.com/album/5hIXpAB9pVwGALuLDtqH3v) | 2:23 |
 | 59 | [Com Jesus Eu Ganho](https://open.spotify.com/track/6VFicHR1DPAvOyVBOx29qX) | [SALMAZO](https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB) | [Com Jesus Eu Ganho](https://open.spotify.com/album/5To4bNdV0QW3H6uiXPHo8u) | 2:18 |
 | 60 | [Arca de Noé](https://open.spotify.com/track/6uPp6ZFJI1aMr2DoM5e1JF) | [Lz Lipe](https://open.spotify.com/artist/2ek8GnnKSrYAsKOJvOXzQb), [You Music](https://open.spotify.com/artist/4qrGnlN8hrzJPXh66Qb171) | [Arca de Noé](https://open.spotify.com/album/3C6zDgnNsusSDOHTLJX5oX) | 2:56 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 84 | [Eu Te Amo](https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [Eu Te Amo](https://open.spotify.com/album/5NNPPKsVgkPDKgpB1wWI3N) | 4:04 |
 | 85 | [Filho do Homem](https://open.spotify.com/track/2WQ87ao5uZsRZS0UB8cQQi) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Jesus Invadiu a Cena](https://open.spotify.com/album/6ZYHnkp7z1agh309H04SYA) | 3:15 |
 
-Snapshot ID: `MCxlZGZlMTYwZjk3ZTA0YjVhN2Y4OThkNGYxNjlkYTg1NDVkYWY0MjFh`
+Snapshot ID: `MCwzNGNlNzA5MjlmMzQ4YmNlNzIwNmNjNjBjMjFlMWNhNWIyNTViYWYz`

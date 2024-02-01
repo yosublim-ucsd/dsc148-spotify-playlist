@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Tribal Kush & Kalibwoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,885 likes - 61 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,875 likes - 61 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rare flex](https://open.spotify.com/track/6gIoKG5cvpoQBfdbNToMUQ) | [Cherr](https://open.spotify.com/artist/4zEBX90cszl8dwxFf0sU4R) | [Rare flex](https://open.spotify.com/album/2nZO4WRMXJwmj2vt1roMsj) | 1:48 |
 | 2 | [Up Top](https://open.spotify.com/track/1jNnXObfSpje0D8kckbhIv) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Up Top](https://open.spotify.com/album/3UQUYTAzhQ24ORfvQYDvHI) | 2:48 |
-| 3 | [Seya](https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Seya](https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw) | 3:08 |
-| 4 | [Undress You](https://open.spotify.com/track/6LVuaveD4hazORqbg67C03) | [KJ Spio](https://open.spotify.com/artist/72Rav2u2DeRPJuA44Ng0n0), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Undress You](https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO) | 3:33 |
-| 5 | [Laat](https://open.spotify.com/track/2uZOGsbpfLwCHgBBKycpZx) | [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4) | [Laat](https://open.spotify.com/album/2DWJCCUl66SbxdndoJYc7V) | 2:20 |
-| 6 | [BLEM](https://open.spotify.com/track/6f2YimjXDHyQCQqual85BA) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC), [Berra PK](https://open.spotify.com/artist/72PJTrRxOqJZxptd4OpR3B) | [BLEM](https://open.spotify.com/album/5M3xJ6FI9T93ah3gnvW5VC) | 2:12 |
-| 7 | [Grey](https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Grey](https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu) | 2:49 |
+| 3 | [Grey](https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Grey](https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu) | 2:49 |
+| 4 | [Seya](https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Seya](https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw) | 3:08 |
+| 5 | [Undress You](https://open.spotify.com/track/6LVuaveD4hazORqbg67C03) | [KJ Spio](https://open.spotify.com/artist/72Rav2u2DeRPJuA44Ng0n0), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Undress You](https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO) | 3:33 |
+| 6 | [Laat](https://open.spotify.com/track/2uZOGsbpfLwCHgBBKycpZx) | [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4) | [Laat](https://open.spotify.com/album/2DWJCCUl66SbxdndoJYc7V) | 2:20 |
+| 7 | [BLEM](https://open.spotify.com/track/6f2YimjXDHyQCQqual85BA) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC), [Berra PK](https://open.spotify.com/artist/72PJTrRxOqJZxptd4OpR3B) | [BLEM](https://open.spotify.com/album/5M3xJ6FI9T93ah3gnvW5VC) | 2:12 |
 | 8 | [Tour](https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 2:52 |
 | 9 | [Gafas Negras](https://open.spotify.com/track/4s7hIsoRpnmaSvdETaIOSe) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Gafas Negras](https://open.spotify.com/album/3nfeL4QZ0GZfkJbr8FHyHn) | 3:06 |
 | 10 | [Silence](https://open.spotify.com/track/0Md7RdBvEkiA49Y2MNX8Hq) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN) | [Silence \(feat\. Chavanté\)](https://open.spotify.com/album/32NOf3K2okwcVkBzjjwqqp) | 2:58 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 60 | [Betta Guy](https://open.spotify.com/track/0GoMbFiHdaeI5iHiu2DjaD) | [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk) | [Betta Guy](https://open.spotify.com/album/1Q5PCsixXRAAof0kGQQemA) | 2:18 |
 | 61 | [Wine](https://open.spotify.com/track/7fkcuw6dSm4qj3qpQDcZBk) | [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4) | [Wine](https://open.spotify.com/album/086H49iD9n9AmVmH0S3Gns) | 3:17 |
 
-Snapshot ID: `MCw5MDc0OTMzZTVjOGJjOWUwYWZjZTdhMDQzNzRkZjM4NzJkNDgzMDk5`
+Snapshot ID: `MCw1ODk0YThkZWU0MGZlNjQ4YmRiYTFlZGYyZWIwN2VlMjA5ODg2OGQ5`

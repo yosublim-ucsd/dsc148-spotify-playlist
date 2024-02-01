@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Wall Of Eyes",
+        "url": "https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483973,
+      "name": "Bending Hectic",
+      "url": "https://open.spotify.com/track/1xnVnK5ZHZaGEZ166eFpNJ"
+    },
+    {
+      "album": {
         "name": "Birknbam",
         "url": "https://open.spotify.com/album/70Biibg7TMtxOjIyLvHa0F"
       },
@@ -676,7 +694,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 121500,
       "name": "LET'S GET FKD UP",
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
@@ -824,7 +842,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
@@ -850,7 +868,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 220584,
       "name": "n\u00e9e-nah",
       "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
@@ -1080,7 +1098,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 178330,
       "name": "SET ME FREE",
       "url": "https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB"
@@ -1269,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "Wall Of Eyes",
+        "url": "https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305946,
+      "name": "Wall Of Eyes",
+      "url": "https://open.spotify.com/track/3tP2P4KybC9wYVI8Pe41GT"
+    },
+    {
+      "album": {
         "name": "Wasted Youth",
         "url": "https://open.spotify.com/album/7BXCwPeAm4m1KFabsvCTuy"
       },
@@ -1302,7 +1338,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
@@ -1328,7 +1364,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 208524,
       "name": "You & Me - Rivo Remix",
       "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"

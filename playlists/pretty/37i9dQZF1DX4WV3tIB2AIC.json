@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of the best gaming tracks of the year. Cover: ericdoa",
-  "num_followers": 12281,
+  "num_followers": 12284,
   "original_name": "Top Gaming Tracks of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmZlYzA4NjFmZWM5ZjllZGFmYWU3NTVlMWYxNjdhMzYyNDI3ODM0",
+  "snapshot_id": "MCxlMDU1MmM1YmJkZDUyMGU0YTZjYjQwMmZhMmEzNjI5ZDlhNjFkOTA3",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -667,6 +667,26 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "POPTHATRUNK",
+        "url": "https://open.spotify.com/album/2eFWG2ZnDaiiesSNssfaVc"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "POPTHATRUNK",
+      "url": "https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "Ticking Away",
         "url": "https://open.spotify.com/album/2CNm7QxoOSkqawLMnoepZB"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 205270,
       "name": "Ticking Away",
       "url": "https://open.spotify.com/track/4bdzlt280luOgFi0ZlkTvR"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "POPTHATRUNK",
-        "url": "https://open.spotify.com/album/2eFWG2ZnDaiiesSNssfaVc"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "POPTHATRUNK",
-      "url": "https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -807,6 +807,26 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": ">one (greater than one)",
+        "url": "https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": ">one - greater than one",
+      "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "I GUESS IT'S LOVE?",
         "url": "https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 169073,
       "name": "No Way Jose",
       "url": "https://open.spotify.com/track/1kCXmKWlfc9tZIp3Thumkl"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": ">one (greater than one)",
-        "url": "https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop"
-      },
-      "artists": [
-        {
-          "name": "VALORANT",
-          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
-        },
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": ">one - greater than one",
-      "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
     },
     {
       "added_at": "2023-11-29 12:16:00",

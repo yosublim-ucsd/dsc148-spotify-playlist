@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPcuTtZNPGI.md) - [plain]
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,252 likes - 64 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,428 likes - 64 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ショコラカタブラ](https://open.spotify.com/track/5tDluNOXu6r7z7u9NKjPCt) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ショコラカタブラ](https://open.spotify.com/album/0bHJgay2GTCHvSgaq6xtYM) | 3:03 |
+| 1 | [Chocolat Cadabra](https://open.spotify.com/track/0AKxVjQmNYwYuNY5sCJuPn) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Chocolat Cadabra](https://open.spotify.com/album/2grvAfP3pjbRwkhaTbbNS9) | 3:03 |
 | 2 | [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 |
 | 3 | [unravel](https://open.spotify.com/track/0Cez33GqDU7Pw5rqOVUPpU) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 3:58 |
 | 4 | [Usseewa](https://open.spotify.com/track/61KYsWS25JXUO4fGb1138X) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 3:26 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPcuTtZNPGI.md) - [plain]
 | 63 | [コールボーイ](https://open.spotify.com/track/6vdtMuSOG9chmNbGvmkmjz) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado/PARED/まひる/ゆっけ presents PALETTE4](https://open.spotify.com/album/5N3pr0Jv026t7JwI3u86lt) | 3:29 |
 | 64 | [絶え間なく藍色](https://open.spotify.com/track/45LyS1iWuyYUGBlcFsyqyV) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado/PARED/まひる/ゆっけ presents PALETTE4](https://open.spotify.com/album/5N3pr0Jv026t7JwI3u86lt) | 3:41 |
 
-Snapshot ID: `MCw5NzVjNjdkYjYwYWRjYjg1ODY2MzAzYjdiMTZlNTNiYjUxOTUxZDc1`
+Snapshot ID: `MCxiNjQxNzQ5ZjBlNTdmYTZiMTU2YTQ5NDczOGQxNWJkZjViZGVjOTU2`

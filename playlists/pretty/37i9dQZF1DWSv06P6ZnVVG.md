@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 
 > ¡Pa' toda la raza carnavalera!
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,901 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,975 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 58 | [El Sonao](https://open.spotify.com/track/6dSReOEVUQqBgXGYQyWSZw) | [Banda 466 Paso a Paso](https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm) | [Bailando Ando](https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss) | 4:21 |
 | 59 | [Son de la Raza](https://open.spotify.com/track/099O9iFzWFLKSCMfCETcac) | [Banda La Mera Mera](https://open.spotify.com/artist/2jAGJTtRJxHl5BH1EHZr3c) | [Son de la Raza](https://open.spotify.com/album/6ySJJe2KvD1k31SKZNHsTk) | 3:37 |
 | 60 | [Cinco Trancazos](https://open.spotify.com/track/1MX5rdoOWTuned116iNSIF) | [Banda Trancazo](https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9), [Arturo Camarillo](https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h) | [Para Ti](https://open.spotify.com/album/6Nv7sfvruLGAqTBtnTO0sr) | 2:46 |
-| 61 | [La Mariquita](https://open.spotify.com/track/1YIYdQ8yVTH2ER7Dko6n1j) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9), [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [La Mariquita](https://open.spotify.com/album/0GOqWn6wVT5MgFJtuPMOKZ) | 3:18 |
-| 62 | [Zapateando Con La Banda](https://open.spotify.com/track/6lDjvoyKmgHhmKbLqtqoji) | [El Nono y Su Banda Reina de Jerez](https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG) | [Mas Zacatecano Que Nunca](https://open.spotify.com/album/6zv9F7ORGgSGIP7pC8aNLH) | 2:34 |
+| 61 | [Zapateando Con La Banda](https://open.spotify.com/track/6lDjvoyKmgHhmKbLqtqoji) | [El Nono y Su Banda Reina de Jerez](https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG) | [Mas Zacatecano Que Nunca](https://open.spotify.com/album/6zv9F7ORGgSGIP7pC8aNLH) | 2:34 |
+| 62 | [La Mariquita](https://open.spotify.com/track/1YIYdQ8yVTH2ER7Dko6n1j) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9), [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [La Mariquita](https://open.spotify.com/album/0GOqWn6wVT5MgFJtuPMOKZ) | 3:18 |
 | 63 | [El Pato Asado, El Ahualulco \(En Vivo\)](https://open.spotify.com/track/2Nat0Cc2ddJVkkRqKlRN0M) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento](https://open.spotify.com/album/4i1HRGH3hUbUN80Yj8ACif) | 5:25 |
 | 64 | [El Sinaloense](https://open.spotify.com/track/0b9MLh70Nx7Ix3Nn3Azs0E) | [Banda Ola Azul de Zirahuen](https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR) | [En Vivo](https://open.spotify.com/album/4XNAcJHIkjMeV634pBtTY5) | 4:33 |
 | 65 | [Carnavaleando](https://open.spotify.com/track/2J0zZ1yfeibAX3LCdJe8j9) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy) | [¡La Mera Mera! \(10 Aniversario\) \[La Historia Continúa\]](https://open.spotify.com/album/5rsRnvD5GXtK6IjyaHWexK) | 5:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 74 | [La Chiclanera](https://open.spotify.com/track/5LyKsB6bm885BC0NkddszI) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 2:11 |
 | 75 | [Palillos Chinos \(En Vivo\)](https://open.spotify.com/track/4INNovqJJ4umIRINUqQTRJ) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento](https://open.spotify.com/album/4i1HRGH3hUbUN80Yj8ACif) | 2:32 |
 
-Snapshot ID: `MCw1YmIxMWVhOGY4NGNmM2MwODQxZGVlYWY5ODMyMjNmNzAyYTFlY2Q5`
+Snapshot ID: `MCw1M2Y3NTNjMDdjNDFmN2I2MzgxMzg1NTdiZjRhMjMwZTg3ZWJlYzgw`

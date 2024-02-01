@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. DJ Shocca in cover.",
-  "num_followers": 39077,
+  "num_followers": 39092,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmRlMTAzNGM5NjY4ODk2MmRjYzExNmYzMDBkNmRiZTg5MWM0Njlj",
+  "snapshot_id": "MCxhNGU1NDIzN2I0NzMxZWRkNDRmNTQyZjRiMjVlODdjM2Y3NDkxNjg4",
   "tracks": [
     {
       "added_at": "2024-01-26 07:37:20",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-01-26 07:37:20",
       "album": {
+        "name": "Chi more pe' mme",
+        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "duration_ms": 266933,
+      "name": "Int 'o rione",
+      "url": "https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ"
+    },
+    {
+      "added_at": "2024-01-26 07:37:20",
+      "album": {
         "name": "Entertainer",
         "url": "https://open.spotify.com/album/1xtV3Th16lWgSybfJMdSD6"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 184615,
       "name": "Leggenda da Bar",
       "url": "https://open.spotify.com/track/7b7jcHHVSpzrT38C2rm2PL"
-    },
-    {
-      "added_at": "2024-01-26 07:37:20",
-      "album": {
-        "name": "Chi more pe' mme",
-        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
-      },
-      "artists": [
-        {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
-        }
-      ],
-      "duration_ms": 266933,
-      "name": "Int 'o rione",
-      "url": "https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ"
     },
     {
       "added_at": "2024-01-26 07:37:20",
@@ -987,30 +987,6 @@
       "duration_ms": 189531,
       "name": "Giorni migliori (feat. Mystic One)",
       "url": "https://open.spotify.com/track/3wltO9TZ6j1gfyDsjzH7QY"
-    },
-    {
-      "added_at": "2024-01-26 07:37:20",
-      "album": {
-        "name": "Numero zero ep",
-        "url": "https://open.spotify.com/album/3XDfQm5UcWmaxSvax7r5ha"
-      },
-      "artists": [
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        },
-        {
-          "name": "Biggie Paul",
-          "url": "https://open.spotify.com/artist/1OyAhAPFH8Z4bIJewzy3mE"
-        },
-        {
-          "name": "Nitro",
-          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
-        }
-      ],
-      "duration_ms": 160574,
-      "name": "Lasciami solo",
-      "url": "https://open.spotify.com/track/4neRbVUtymiGGS8rhhofvB"
     },
     {
       "added_at": "2024-01-26 07:37:20",
@@ -1111,6 +1087,30 @@
     {
       "added_at": "2024-01-26 07:37:20",
       "album": {
+        "name": "Numero zero ep",
+        "url": "https://open.spotify.com/album/3XDfQm5UcWmaxSvax7r5ha"
+      },
+      "artists": [
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Biggie Paul",
+          "url": "https://open.spotify.com/artist/1OyAhAPFH8Z4bIJewzy3mE"
+        },
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        }
+      ],
+      "duration_ms": 160574,
+      "name": "Lasciami solo",
+      "url": "https://open.spotify.com/track/4neRbVUtymiGGS8rhhofvB"
+    },
+    {
+      "added_at": "2024-01-26 07:37:20",
+      "album": {
         "name": "Blocknotes",
         "url": "https://open.spotify.com/album/3F57zSmT6EyCVv3kWmqi4p"
       },
@@ -1127,30 +1127,6 @@
     {
       "added_at": "2024-01-26 07:37:20",
       "album": {
-        "name": "Magico (RMX)",
-        "url": "https://open.spotify.com/album/5sLfHeybDeYChi9Kb3qaS5"
-      },
-      "artists": [
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        },
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        },
-        {
-          "name": "Mondo Marcio",
-          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
-        }
-      ],
-      "duration_ms": 166288,
-      "name": "Magico - RMX",
-      "url": "https://open.spotify.com/track/6b8JPs39GF8QFqL7QCpAdv"
-    },
-    {
-      "added_at": "2024-01-26 07:37:20",
-      "album": {
         "name": "SXM",
         "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
       },
@@ -1163,34 +1139,6 @@
       "duration_ms": 295293,
       "name": "Cani sciolti",
       "url": "https://open.spotify.com/track/1gq9ZEr1v4Z9M169qDOUS0"
-    },
-    {
-      "added_at": "2024-01-26 07:37:20",
-      "album": {
-        "name": "CRISTI E DIAVOLI",
-        "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
-      },
-      "artists": [
-        {
-          "name": "Lovegang126",
-          "url": "https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re"
-        },
-        {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
-        },
-        {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
-        },
-        {
-          "name": "Drone126",
-          "url": "https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg"
-        }
-      ],
-      "duration_ms": 168546,
-      "name": "Tinta unita (feat. Danno)",
-      "url": "https://open.spotify.com/track/3jmoC0sFLeBrYbC5NujQK9"
     },
     {
       "added_at": "2024-01-26 07:37:20",
@@ -1219,6 +1167,34 @@
       "duration_ms": 158943,
       "name": "Sembrava Impossibile",
       "url": "https://open.spotify.com/track/4wg7YaPFve0vjqiF0xEbRh"
+    },
+    {
+      "added_at": "2024-01-26 07:37:20",
+      "album": {
+        "name": "CRISTI E DIAVOLI",
+        "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
+      },
+      "artists": [
+        {
+          "name": "Lovegang126",
+          "url": "https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Drone126",
+          "url": "https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg"
+        }
+      ],
+      "duration_ms": 168546,
+      "name": "Tinta unita (feat. Danno)",
+      "url": "https://open.spotify.com/track/3jmoC0sFLeBrYbC5NujQK9"
     },
     {
       "added_at": "2024-01-26 07:37:20",
@@ -1299,6 +1275,30 @@
     {
       "added_at": "2024-01-26 07:37:20",
       "album": {
+        "name": "Magico (RMX)",
+        "url": "https://open.spotify.com/album/5sLfHeybDeYChi9Kb3qaS5"
+      },
+      "artists": [
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        },
+        {
+          "name": "Mondo Marcio",
+          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
+        }
+      ],
+      "duration_ms": 166288,
+      "name": "Magico - RMX",
+      "url": "https://open.spotify.com/track/6b8JPs39GF8QFqL7QCpAdv"
+    },
+    {
+      "added_at": "2024-01-26 07:37:20",
+      "album": {
         "name": "Il Tempo Vola 2002-2020",
         "url": "https://open.spotify.com/album/2t9xl2JQTdrndND3rdwIh6"
       },
@@ -1375,6 +1375,42 @@
     {
       "added_at": "2024-01-26 07:37:20",
       "album": {
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Chiedi Alla Polvere 2008",
+      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
+    },
+    {
+      "added_at": "2024-01-26 07:37:20",
+      "album": {
+        "name": "Riproduzione Vietata",
+        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
+      },
+      "artists": [
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        },
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        }
+      ],
+      "duration_ms": 163750,
+      "name": "Narciso (feat. Murubutu)",
+      "url": "https://open.spotify.com/track/4iKdzpTULRZUTtuyTUpLYP"
+    },
+    {
+      "added_at": "2024-01-26 07:37:20",
+      "album": {
         "name": "SETE",
         "url": "https://open.spotify.com/album/5gENxlnXv9piRcg60MIRsT"
       },
@@ -1419,42 +1455,6 @@
       "duration_ms": 237965,
       "name": "Smackdown",
       "url": "https://open.spotify.com/track/5yLmfZy36qHMJMyuuiSCiJ"
-    },
-    {
-      "added_at": "2024-01-26 07:37:20",
-      "album": {
-        "name": "Riproduzione Vietata",
-        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
-      },
-      "artists": [
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        },
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        }
-      ],
-      "duration_ms": 163750,
-      "name": "Narciso (feat. Murubutu)",
-      "url": "https://open.spotify.com/track/4iKdzpTULRZUTtuyTUpLYP"
-    },
-    {
-      "added_at": "2024-01-26 07:37:20",
-      "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Chiedi Alla Polvere 2008",
-      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
     },
     {
       "added_at": "2024-01-26 07:37:20",
@@ -1535,70 +1535,6 @@
     {
       "added_at": "2024-01-26 07:37:20",
       "album": {
-        "name": "L'avventura di due sposi",
-        "url": "https://open.spotify.com/album/2NGRzTmycSnDlKqTVh4OVd"
-      },
-      "artists": [
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        },
-        {
-          "name": "Carlo Corallo",
-          "url": "https://open.spotify.com/artist/5qkSgK2UUXXa0DDBks4vqt"
-        },
-        {
-          "name": "James Logan",
-          "url": "https://open.spotify.com/artist/0Murtw7qBtLsRqzV6KHtI1"
-        },
-        {
-          "name": "Elisa Aramonte",
-          "url": "https://open.spotify.com/artist/5Efzydj4oroqNB3yAYBObl"
-        }
-      ],
-      "duration_ms": 233760,
-      "name": "L'avventura di due sposi",
-      "url": "https://open.spotify.com/track/5GoPBAe0vccUACENH46cvT"
-    },
-    {
-      "added_at": "2024-01-26 07:37:20",
-      "album": {
-        "name": "Adversus",
-        "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
-      },
-      "artists": [
-        {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        },
-        {
-          "name": "Kaos One",
-          "url": "https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Miglia e promesse",
-      "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
-    },
-    {
-      "added_at": "2024-01-26 07:37:20",
-      "album": {
-        "name": "GARA 7",
-        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
-      },
-      "artists": [
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        }
-      ],
-      "duration_ms": 130373,
-      "name": "Prime",
-      "url": "https://open.spotify.com/track/7JdjeREIOitJyG1Wak6awD"
-    },
-    {
-      "added_at": "2024-01-26 07:37:20",
-      "album": {
         "name": "Dead poets",
         "url": "https://open.spotify.com/album/2u4ck3pMmH9uvBTk98e6XO"
       },
@@ -1631,6 +1567,70 @@
     {
       "added_at": "2024-01-26 07:37:20",
       "album": {
+        "name": "L'avventura di due sposi",
+        "url": "https://open.spotify.com/album/2NGRzTmycSnDlKqTVh4OVd"
+      },
+      "artists": [
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        },
+        {
+          "name": "Carlo Corallo",
+          "url": "https://open.spotify.com/artist/5qkSgK2UUXXa0DDBks4vqt"
+        },
+        {
+          "name": "James Logan",
+          "url": "https://open.spotify.com/artist/0Murtw7qBtLsRqzV6KHtI1"
+        },
+        {
+          "name": "Elisa Aramonte",
+          "url": "https://open.spotify.com/artist/5Efzydj4oroqNB3yAYBObl"
+        }
+      ],
+      "duration_ms": 233760,
+      "name": "L'avventura di due sposi",
+      "url": "https://open.spotify.com/track/5GoPBAe0vccUACENH46cvT"
+    },
+    {
+      "added_at": "2024-01-26 07:37:20",
+      "album": {
+        "name": "GARA 7",
+        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
+      },
+      "artists": [
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        }
+      ],
+      "duration_ms": 130373,
+      "name": "Prime",
+      "url": "https://open.spotify.com/track/7JdjeREIOitJyG1Wak6awD"
+    },
+    {
+      "added_at": "2024-01-26 07:37:20",
+      "album": {
+        "name": "Adversus",
+        "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
+      },
+      "artists": [
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        },
+        {
+          "name": "Kaos One",
+          "url": "https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Miglia e promesse",
+      "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
+    },
+    {
+      "added_at": "2024-01-26 07:37:20",
+      "album": {
         "name": "Volare",
         "url": "https://open.spotify.com/album/49NVOF8cRsKJtl38a9AGo0"
       },
@@ -1647,6 +1647,22 @@
       "duration_ms": 242378,
       "name": "Casse rotte (feat. Brokenspeakers)",
       "url": "https://open.spotify.com/track/27dNFX3mCkv6H1nFP9GiRY"
+    },
+    {
+      "added_at": "2024-01-26 07:37:20",
+      "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/1vw8sbkCqUAyXJfEFSGI6f"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        }
+      ],
+      "duration_ms": 236573,
+      "name": "Un mestiere qualunque",
+      "url": "https://open.spotify.com/track/68OwzL0UGfgIKTpn0p1azy"
     },
     {
       "added_at": "2024-01-26 07:37:20",
@@ -1671,22 +1687,6 @@
       "duration_ms": 165128,
       "name": "Succede",
       "url": "https://open.spotify.com/track/5aW0ugtjwezuweB2HBYzdz"
-    },
-    {
-      "added_at": "2024-01-26 07:37:20",
-      "album": {
-        "name": "Heavy Metal",
-        "url": "https://open.spotify.com/album/1vw8sbkCqUAyXJfEFSGI6f"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        }
-      ],
-      "duration_ms": 236573,
-      "name": "Un mestiere qualunque",
-      "url": "https://open.spotify.com/track/68OwzL0UGfgIKTpn0p1azy"
     },
     {
       "added_at": "2024-01-26 07:37:20",
@@ -1767,6 +1767,46 @@
     {
       "added_at": "2024-01-26 07:37:20",
       "album": {
+        "name": "La volta buona",
+        "url": "https://open.spotify.com/album/5BvBw5pf2YOfXd0BFgu7HP"
+      },
+      "artists": [
+        {
+          "name": "Stokka & Madbuddy",
+          "url": "https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z"
+        },
+        {
+          "name": "Roc Beats",
+          "url": "https://open.spotify.com/artist/4MK15feSVP4y02vfe2SA8d"
+        },
+        {
+          "name": "Frank Siciliano",
+          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
+        }
+      ],
+      "duration_ms": 234525,
+      "name": "La volta buona",
+      "url": "https://open.spotify.com/track/0IUrIEBecV2QRR66eriMmO"
+    },
+    {
+      "added_at": "2024-01-26 07:37:20",
+      "album": {
+        "name": "SPECIALIST",
+        "url": "https://open.spotify.com/album/0ffd8nDXYLBtCWVNOujCQV"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        }
+      ],
+      "duration_ms": 145446,
+      "name": "SPECIALIST",
+      "url": "https://open.spotify.com/track/00ziDepoTjKU8DJ3lXnh4T"
+    },
+    {
+      "added_at": "2024-01-26 07:37:20",
+      "album": {
         "name": "Treddepomeriggio",
         "url": "https://open.spotify.com/album/6zyQlLxLYMpuxYSw4ABYCF"
       },
@@ -1799,30 +1839,6 @@
     {
       "added_at": "2024-01-26 07:37:20",
       "album": {
-        "name": "La volta buona",
-        "url": "https://open.spotify.com/album/5BvBw5pf2YOfXd0BFgu7HP"
-      },
-      "artists": [
-        {
-          "name": "Stokka & Madbuddy",
-          "url": "https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z"
-        },
-        {
-          "name": "Roc Beats",
-          "url": "https://open.spotify.com/artist/4MK15feSVP4y02vfe2SA8d"
-        },
-        {
-          "name": "Frank Siciliano",
-          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
-        }
-      ],
-      "duration_ms": 234525,
-      "name": "La volta buona",
-      "url": "https://open.spotify.com/track/0IUrIEBecV2QRR66eriMmO"
-    },
-    {
-      "added_at": "2024-01-26 07:37:20",
-      "album": {
         "name": "-/-/-/-/-(L'attesa)",
         "url": "https://open.spotify.com/album/2waIIOam7135wbnonjurOS"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 277826,
       "name": "Cose Preziose (Variante Di Lunenberg)",
       "url": "https://open.spotify.com/track/5ZSIWkoUsoBJRBsd4y8bat"
-    },
-    {
-      "added_at": "2024-01-26 07:37:20",
-      "album": {
-        "name": "SPECIALIST",
-        "url": "https://open.spotify.com/album/0ffd8nDXYLBtCWVNOujCQV"
-      },
-      "artists": [
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        }
-      ],
-      "duration_ms": 145446,
-      "name": "SPECIALIST",
-      "url": "https://open.spotify.com/track/00ziDepoTjKU8DJ3lXnh4T"
     },
     {
       "added_at": "2024-01-26 07:37:20",
@@ -1879,30 +1879,30 @@
     {
       "added_at": "2024-01-26 07:37:20",
       "album": {
-        "name": "Guerra fra poveri",
-        "url": "https://open.spotify.com/album/4zOunfgjcbRsITq6aek64C"
+        "name": "Candeline (feat. Ghemon)",
+        "url": "https://open.spotify.com/album/2Fdum39Jz7ypweYX7WbJ09"
       },
       "artists": [
         {
-          "name": "Mr. Phil",
-          "url": "https://open.spotify.com/artist/2mNbwJhZ2OcPkmVC5cq61V"
+          "name": "Ugo Crepa",
+          "url": "https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS"
         },
         {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+          "name": "foolviho",
+          "url": "https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY"
         },
         {
-          "name": "Lord Bean",
-          "url": "https://open.spotify.com/artist/0cGbVTBBkJtorHIizldPZU"
+          "name": "Alessandro Rase",
+          "url": "https://open.spotify.com/artist/5CXKssrGe7iT4wZfge8Vit"
         },
         {
-          "name": "Dj Double S",
-          "url": "https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0"
+          "name": "Ghemon",
+          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
         }
       ],
-      "duration_ms": 309466,
-      "name": "Piombo & fango",
-      "url": "https://open.spotify.com/track/2X6W0Y0FeAhT7HU20iSXwy"
+      "duration_ms": 153028,
+      "name": "Candeline (feat. Ghemon)",
+      "url": "https://open.spotify.com/track/6novc9o6iBbWRCSaU6b1XB"
     },
     {
       "added_at": "2024-01-26 07:37:20",
@@ -1943,30 +1943,46 @@
     {
       "added_at": "2024-01-26 07:37:20",
       "album": {
-        "name": "Candeline (feat. Ghemon)",
-        "url": "https://open.spotify.com/album/2Fdum39Jz7ypweYX7WbJ09"
+        "name": "Guerra fra poveri",
+        "url": "https://open.spotify.com/album/4zOunfgjcbRsITq6aek64C"
       },
       "artists": [
         {
-          "name": "Ugo Crepa",
-          "url": "https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS"
+          "name": "Mr. Phil",
+          "url": "https://open.spotify.com/artist/2mNbwJhZ2OcPkmVC5cq61V"
         },
         {
-          "name": "foolviho",
-          "url": "https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY"
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
         },
         {
-          "name": "Alessandro Rase",
-          "url": "https://open.spotify.com/artist/5CXKssrGe7iT4wZfge8Vit"
+          "name": "Lord Bean",
+          "url": "https://open.spotify.com/artist/0cGbVTBBkJtorHIizldPZU"
         },
         {
-          "name": "Ghemon",
-          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
+          "name": "Dj Double S",
+          "url": "https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0"
         }
       ],
-      "duration_ms": 153028,
-      "name": "Candeline (feat. Ghemon)",
-      "url": "https://open.spotify.com/track/6novc9o6iBbWRCSaU6b1XB"
+      "duration_ms": 309466,
+      "name": "Piombo & fango",
+      "url": "https://open.spotify.com/track/2X6W0Y0FeAhT7HU20iSXwy"
+    },
+    {
+      "added_at": "2024-01-26 07:37:20",
+      "album": {
+        "name": "GARA 7",
+        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
+      },
+      "artists": [
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Dovrei",
+      "url": "https://open.spotify.com/track/3sQwZsAyVW2phsGXzAggg7"
     },
     {
       "added_at": "2024-01-26 07:37:20",
@@ -1987,22 +2003,6 @@
       "duration_ms": 269760,
       "name": "Citt\u00e0 di vetro",
       "url": "https://open.spotify.com/track/3lE6RqZdFuVewUneoTlb5l"
-    },
-    {
-      "added_at": "2024-01-26 07:37:20",
-      "album": {
-        "name": "GARA 7",
-        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
-      },
-      "artists": [
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Dovrei",
-      "url": "https://open.spotify.com/track/3sQwZsAyVW2phsGXzAggg7"
     },
     {
       "added_at": "2024-01-26 07:37:20",
@@ -2359,6 +2359,22 @@
     {
       "added_at": "2024-01-26 07:37:20",
       "album": {
+        "name": "Max",
+        "url": "https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5"
+      },
+      "artists": [
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        }
+      ],
+      "duration_ms": 260800,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l"
+    },
+    {
+      "added_at": "2024-01-26 07:37:20",
+      "album": {
         "name": "One Shot",
         "url": "https://open.spotify.com/album/1RKEPBGYN2Ei1iQcKFdZhm"
       },
@@ -2379,22 +2395,6 @@
       "duration_ms": 208666,
       "name": "One Shot",
       "url": "https://open.spotify.com/track/70GfM5aopAoJ0oc8t4kbNU"
-    },
-    {
-      "added_at": "2024-01-26 07:37:20",
-      "album": {
-        "name": "Max",
-        "url": "https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5"
-      },
-      "artists": [
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        }
-      ],
-      "duration_ms": 260800,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l"
     },
     {
       "added_at": "2024-01-26 07:37:20",
@@ -2431,6 +2431,22 @@
     {
       "added_at": "2024-01-26 07:37:20",
       "album": {
+        "name": "Parole",
+        "url": "https://open.spotify.com/album/53SRzZgaYzxgbTxAz6at37"
+      },
+      "artists": [
+        {
+          "name": "Mistaman",
+          "url": "https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Parole",
+      "url": "https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN"
+    },
+    {
+      "added_at": "2024-01-26 07:37:20",
+      "album": {
         "name": "Still From The '90s (The Manifesto) [Reloaded Version]",
         "url": "https://open.spotify.com/album/4fxxXPJbmqqDc82MZdGHYf"
       },
@@ -2455,22 +2471,6 @@
       "duration_ms": 162151,
       "name": "Still From The '90s (The Manifesto) - Reloaded Version",
       "url": "https://open.spotify.com/track/7M8ITVNCWKcUTGGKvrsFCc"
-    },
-    {
-      "added_at": "2024-01-26 07:37:20",
-      "album": {
-        "name": "Parole",
-        "url": "https://open.spotify.com/album/53SRzZgaYzxgbTxAz6at37"
-      },
-      "artists": [
-        {
-          "name": "Mistaman",
-          "url": "https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Parole",
-      "url": "https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN"
     },
     {
       "added_at": "2024-01-26 07:37:20",

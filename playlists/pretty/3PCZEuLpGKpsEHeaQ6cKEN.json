@@ -1,12 +1,12 @@
 {
   "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and more! | Updated weekly on Friday Cover: ARTY",
-  "num_followers": 277332,
+  "num_followers": 277279,
   "original_name": "Armada Today",
   "owner": {
     "name": "Armada Music",
     "url": "https://open.spotify.com/user/armadamusicofficial"
   },
-  "snapshot_id": "NTMzNDUsMDA3ZTYzZmQ0YzAxZDBmMjQxZGZiZWNkOWUwZDM0OTQyZDJhZTYxYQ==",
+  "snapshot_id": "NTMzNDcsMjE2OTM4YjcyMjgyM2YxYzlmNjMzNTY3YjU5MDdjMzRmN2Y1Mjc5NQ==",
   "tracks": [
     {
       "added_at": "2024-01-26 08:22:59",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-01-26 08:22:59",
       "album": {
+        "name": "The Function",
+        "url": "https://open.spotify.com/album/1dDEeKb8vS0R7AtNA0OAbx"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 192848,
+      "name": "The Function",
+      "url": "https://open.spotify.com/track/34fXpiwE0KrGzirOItUh9m"
+    },
+    {
+      "added_at": "2024-01-26 08:22:59",
+      "album": {
         "name": "Location",
         "url": "https://open.spotify.com/album/6s94PA4PE2tymla2Jr8Q3O"
       },
@@ -255,6 +271,22 @@
       "duration_ms": 156751,
       "name": "Ass To The Back",
       "url": "https://open.spotify.com/track/3KlITvvpOjfOugac2vLfSM"
+    },
+    {
+      "added_at": "2024-01-31 11:24:12",
+      "album": {
+        "name": "Gotta Be Over",
+        "url": "https://open.spotify.com/album/3s58AhtnMqt3UrUUb9uEZC"
+      },
+      "artists": [
+        {
+          "name": "Merlin",
+          "url": "https://open.spotify.com/artist/2MaEWDHjb1owUg3SGhS1vp"
+        }
+      ],
+      "duration_ms": 185590,
+      "name": "Gotta Be Over",
+      "url": "https://open.spotify.com/track/6DgMcNpKVROwwBNfibG4NS"
     },
     {
       "added_at": "2024-01-26 08:22:59",
@@ -1583,22 +1615,6 @@
       "duration_ms": 158781,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/51i2k5wwoVJETU1Ki8Omjp"
-    },
-    {
-      "added_at": "2024-01-26 08:22:59",
-      "album": {
-        "name": "The Function",
-        "url": "https://open.spotify.com/album/1dDEeKb8vS0R7AtNA0OAbx"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 192848,
-      "name": "The Function",
-      "url": "https://open.spotify.com/track/34fXpiwE0KrGzirOItUh9m"
     },
     {
       "added_at": "2024-01-26 08:22:59",

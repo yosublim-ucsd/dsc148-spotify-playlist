@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Jos\u00e9 Manuel en portada. ",
-  "num_followers": 735930,
+  "num_followers": 735879,
   "original_name": "Sierre\u00f1o 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmVkMjVlNzEzYmMyYWM5MjNmMTg1ZDMyY2ViYzg4Yzk4MzNjOWU0",
+  "snapshot_id": "MCw5NjAxMjA2NTBhNWUzYjIzZTEyYmY4NzExNDk5OTI5ZjVmMTZjNDBj",
   "tracks": [
     {
       "added_at": "2024-01-26 06:00:00",
@@ -107,22 +107,22 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Ella Baila Sola",
-        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
+        "name": "Fin de Semana",
+        "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
       },
       "artists": [
         {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 165671,
-      "name": "Ella Baila Sola",
-      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
+      "duration_ms": 224920,
+      "name": "Fin de Semana",
+      "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -143,22 +143,22 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Fin de Semana",
-        "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
+        "name": "Ella Baila Sola",
+        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         },
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 224920,
-      "name": "Fin de Semana",
-      "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -563,26 +563,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Calidad",
-        "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 170053,
-      "name": "Calidad",
-      "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 183890,
       "name": "UNA BALA",
       "url": "https://open.spotify.com/track/6Rz80wUWSUbGGVHvkH7NpU"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Calidad",
+        "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "duration_ms": 170053,
+      "name": "Calidad",
+      "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "En Vivo desde El Foro Lizos Music",
-        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "Es Que Me Gustas - En Vivo",
-      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "No Le Aflojo",
         "url": "https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 202875,
       "name": "No Le Aflojo",
       "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "GPI",
-        "url": "https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9"
-      },
-      "artists": [
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        }
-      ],
-      "duration_ms": 154632,
-      "name": "GPI",
-      "url": "https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Si Me Ven",
         "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 174432,
       "name": "Si Me Ven",
       "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "GPI",
+        "url": "https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "duration_ms": 154632,
+      "name": "GPI",
+      "url": "https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "No Te Detengas (Banda Sonora Original de la serie \"Zorro\")",
+        "url": "https://open.spotify.com/album/0XQA4roB8OS3Z08gs0T1xi"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 133933,
+      "name": "No Te Detengas - Banda Sonora Original de la serie \"Zorro\"",
+      "url": "https://open.spotify.com/track/3qWtrDiFyTCwAJ3aSV4bG9"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "La Bolsa Gucci",
         "url": "https://open.spotify.com/album/1LMGPTkDnylJGOiojhF11C"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 177058,
       "name": "Creo en Ti",
       "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "No Te Detengas (Banda Sonora Original de la serie \"Zorro\")",
-        "url": "https://open.spotify.com/album/0XQA4roB8OS3Z08gs0T1xi"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 133933,
-      "name": "No Te Detengas - Banda Sonora Original de la serie \"Zorro\"",
-      "url": "https://open.spotify.com/track/3qWtrDiFyTCwAJ3aSV4bG9"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Dinero F\u00e1cil",
-        "url": "https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 224442,
-      "name": "Quiero Llorar y No Puedo",
-      "url": "https://open.spotify.com/track/3ezRmGfcXnuEA4ryylr6Jk"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Peonia",
         "url": "https://open.spotify.com/album/4PATQVUcznSUjIJUq0KET5"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 145946,
       "name": "Peonia",
       "url": "https://open.spotify.com/track/7kabKZcIsgr5WS5HU94sif"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Dinero F\u00e1cil",
+        "url": "https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 224442,
+      "name": "Quiero Llorar y No Puedo",
+      "url": "https://open.spotify.com/track/3ezRmGfcXnuEA4ryylr6Jk"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Las Preferidas, Vol. 2 (En vivo)",
-        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 188917,
-      "name": "Yo Te Necesito - En vivo",
-      "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Perro Abandonado",
         "url": "https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 211198,
       "name": "Perro Abandonado",
       "url": "https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Las Preferidas, Vol. 2 (En vivo)",
+        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 188917,
+      "name": "Yo Te Necesito - En vivo",
+      "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "Casino",
+        "url": "https://open.spotify.com/album/7Jl1AjDBzC1aTXpqxeJpwD"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 181033,
+      "name": "Casino",
+      "url": "https://open.spotify.com/track/1BKS0lUJujEuCgaT8Gq74s"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "Tan Solo Morro",
         "url": "https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG"
       },
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Casino",
-        "url": "https://open.spotify.com/album/7Jl1AjDBzC1aTXpqxeJpwD"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 181033,
-      "name": "Casino",
-      "url": "https://open.spotify.com/track/1BKS0lUJujEuCgaT8Gq74s"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Puro Pa' Delante",
         "url": "https://open.spotify.com/album/7LD7kDSXZVmUCEfLwoRh4B"
       },
@@ -1615,26 +1615,6 @@
       "duration_ms": 153679,
       "name": "Puro Pa' Delante",
       "url": "https://open.spotify.com/track/0ARXyftIAFj6BPJCDDEac8"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "De Norte a Sur",
-        "url": "https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 213926,
-      "name": "Tal Vez Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2eVmYcOm2tfW0qsVwiQcDu"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1663,6 +1643,26 @@
       "duration_ms": 218116,
       "name": "El Cisne",
       "url": "https://open.spotify.com/track/7GcGdguq2vkiApAeexirUP"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "De Norte a Sur",
+        "url": "https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 213926,
+      "name": "Tal Vez Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2eVmYcOm2tfW0qsVwiQcDu"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "Cada Momento",
+        "url": "https://open.spotify.com/album/0A6RmcqUuTpPOqBoWfc0ik"
+      },
+      "artists": [
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "duration_ms": 173225,
+      "name": "Cada Momento",
+      "url": "https://open.spotify.com/track/6QKSO8CgXXbKhiF5tXuR7Y"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "Hasta el D\u00eda de Hoy (En Vivo)",
         "url": "https://open.spotify.com/album/4BoACxcvzH7D3wdvuYMWV5"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 208405,
       "name": "Zutano (En Vivo)",
       "url": "https://open.spotify.com/track/4aI8jecrUY2zEbwNHIKmj9"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "Cada Momento",
-        "url": "https://open.spotify.com/album/0A6RmcqUuTpPOqBoWfc0ik"
-      },
-      "artists": [
-        {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        }
-      ],
-      "duration_ms": 173225,
-      "name": "Cada Momento",
-      "url": "https://open.spotify.com/track/6QKSO8CgXXbKhiF5tXuR7Y"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "El 7",
+        "url": "https://open.spotify.com/album/2f9SmGJPGVkdQmq4hbS7rd"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 225142,
+      "name": "El 7",
+      "url": "https://open.spotify.com/track/2CSB2buyBO4fRRNepjHRq5"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "Como Olvidar",
         "url": "https://open.spotify.com/album/68VI31gsdOueIYjSKPwPlx"
       },
@@ -2007,22 +2023,6 @@
       "duration_ms": 204580,
       "name": "Como Olvidar",
       "url": "https://open.spotify.com/track/6yp2M1xFQPOlhWJJ7pfs49"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "Sobran Motivos",
-        "url": "https://open.spotify.com/album/1hMkbq5j73T1z3nfUz4stQ"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 235224,
-      "name": "Sobran Motivos",
-      "url": "https://open.spotify.com/track/7k6ljvd7ny9AUHWEFBrBFa"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -2043,34 +2043,18 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Besito Con Humo",
-        "url": "https://open.spotify.com/album/6RLEUN4DBKqaKJiti4TP0H"
+        "name": "Sobran Motivos",
+        "url": "https://open.spotify.com/album/1hMkbq5j73T1z3nfUz4stQ"
       },
       "artists": [
         {
-          "name": "Los Lara",
-          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
         }
       ],
-      "duration_ms": 145658,
-      "name": "Besito Con Humo",
-      "url": "https://open.spotify.com/track/463TMJNU67VDASLEHRGZmU"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "El 7",
-        "url": "https://open.spotify.com/album/2f9SmGJPGVkdQmq4hbS7rd"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 225142,
-      "name": "El 7",
-      "url": "https://open.spotify.com/track/2CSB2buyBO4fRRNepjHRq5"
+      "duration_ms": 235224,
+      "name": "Sobran Motivos",
+      "url": "https://open.spotify.com/track/7k6ljvd7ny9AUHWEFBrBFa"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -2091,6 +2075,22 @@
       "duration_ms": 145000,
       "name": "Morro Cabr\u00f3n",
       "url": "https://open.spotify.com/track/2iLtkxW5ewRhBStbEGM1nB"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Besito Con Humo",
+        "url": "https://open.spotify.com/album/6RLEUN4DBKqaKJiti4TP0H"
+      },
+      "artists": [
+        {
+          "name": "Los Lara",
+          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+        }
+      ],
+      "duration_ms": 145658,
+      "name": "Besito Con Humo",
+      "url": "https://open.spotify.com/track/463TMJNU67VDASLEHRGZmU"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Nomas La Cara Tienes",
-        "url": "https://open.spotify.com/album/11hxZaPUq1lmZStd6eAsJ7"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 217266,
-      "name": "Nomas La Cara Tienes",
-      "url": "https://open.spotify.com/track/1zq7qEX7okw69ydD9Py2KC"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "NO HAY SE\u00d1AL",
         "url": "https://open.spotify.com/album/35LB7HQ4RWhvJnRdq8Coph"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 161392,
       "name": "NO HAY SE\u00d1AL",
       "url": "https://open.spotify.com/track/7MhNUNjHVMjCK4kzY610Iu"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Nomas La Cara Tienes",
+        "url": "https://open.spotify.com/album/11hxZaPUq1lmZStd6eAsJ7"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 217266,
+      "name": "Nomas La Cara Tienes",
+      "url": "https://open.spotify.com/track/1zq7qEX7okw69ydD9Py2KC"
     },
     {
       "added_at": "2024-01-26 06:00:00",

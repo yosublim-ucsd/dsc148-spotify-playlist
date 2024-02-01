@@ -1,12 +1,12 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 304861,
+  "num_followers": 305083,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTU0ZWU3MTk0Yjc4MGNlNzNhZTJiZTY1Nzc0NGZmMGNmMWU3NWVm",
+  "snapshot_id": "MCw4ZGY5YjQyNmVlODI5NDI1MGExYWUzZGFjNWMxODAyYzVhOGNjMTVj",
   "tracks": [
     {
       "added_at": "2023-09-29 12:43:00",
@@ -467,30 +467,6 @@
     {
       "added_at": "2023-09-29 12:43:00",
       "album": {
-        "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
-        "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
-      },
-      "artists": [
-        {
-          "name": "Carl Philipp Emanuel Bach",
-          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
-        },
-        {
-          "name": "Michael Rische",
-          "url": "https://open.spotify.com/artist/2m1oXzullfjrEtsT2z8Wia"
-        },
-        {
-          "name": "Kammersymphonie Leipzig",
-          "url": "https://open.spotify.com/artist/5HOyATQgfbBibfKpZfsCFa"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
-      "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
-    },
-    {
-      "added_at": "2023-09-29 12:43:00",
-      "album": {
         "name": "Into Silence: P\u00e4rt | Vasks | G\u00f3recki | Pel\u0113cis",
         "url": "https://open.spotify.com/album/7I6GRzGwHByDn59Y9cneeo"
       },
@@ -515,6 +491,30 @@
       "duration_ms": 377560,
       "name": "Concertino bianco: 1. Con intenerimento",
       "url": "https://open.spotify.com/track/4RCllHzuJX9PaV7kNHxmu0"
+    },
+    {
+      "added_at": "2023-09-29 12:43:00",
+      "album": {
+        "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
+        "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
+      },
+      "artists": [
+        {
+          "name": "Carl Philipp Emanuel Bach",
+          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
+        },
+        {
+          "name": "Michael Rische",
+          "url": "https://open.spotify.com/artist/2m1oXzullfjrEtsT2z8Wia"
+        },
+        {
+          "name": "Kammersymphonie Leipzig",
+          "url": "https://open.spotify.com/artist/5HOyATQgfbBibfKpZfsCFa"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
+      "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
     },
     {
       "added_at": "2023-09-29 12:43:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-09-29 12:43:00",
       "album": {
+        "name": "Love Came",
+        "url": "https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "duration_ms": 135800,
+      "name": "Love Came",
+      "url": "https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk"
+    },
+    {
+      "added_at": "2023-09-29 12:43:00",
+      "album": {
         "name": "Lake Reflections - Music for Flute & Harp",
         "url": "https://open.spotify.com/album/0bvSoJHPw1wfCLd2u4L5VV"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 150413,
       "name": "Schwanenlied",
       "url": "https://open.spotify.com/track/58I1vBvQyCzucuxkMl9Pwc"
-    },
-    {
-      "added_at": "2023-09-29 12:43:00",
-      "album": {
-        "name": "Love Came",
-        "url": "https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm"
-      },
-      "artists": [
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        }
-      ],
-      "duration_ms": 135800,
-      "name": "Love Came",
-      "url": "https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk"
     },
     {
       "added_at": "2023-09-29 12:43:00",
@@ -803,30 +803,6 @@
     {
       "added_at": "2023-09-29 12:43:00",
       "album": {
-        "name": "Schubert: Fantasie in F Minor and Other Piano Duets",
-        "url": "https://open.spotify.com/album/2ibKzWy888LJRqRvwpAd1x"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Andreas Staier",
-          "url": "https://open.spotify.com/artist/3IOUX2zimWLnlS0kRyJQJq"
-        },
-        {
-          "name": "Alexander Melnikov",
-          "url": "https://open.spotify.com/artist/7vk7vgVoYDiZ4Kngc3Jgta"
-        }
-      ],
-      "duration_ms": 123906,
-      "name": "Variations on an Original Theme in A-Flat Major, D. 813: VI. Variation V",
-      "url": "https://open.spotify.com/track/2PNQn586IZGtwOAKwtEFBn"
-    },
-    {
-      "added_at": "2023-09-29 12:43:00",
-      "album": {
         "name": "Rodrigo: Concierto de Aranjuez; Fantas\u00eda para un gentilhombre etc.",
         "url": "https://open.spotify.com/album/2B6figtx2ZMK6vsLqdKvHZ"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 172000,
       "name": "Can\u00e7oneta for Violin and Orchestra",
       "url": "https://open.spotify.com/track/4h6KTocEXwAdCJDgGqRFEs"
+    },
+    {
+      "added_at": "2023-09-29 12:43:00",
+      "album": {
+        "name": "Schubert: Fantasie in F Minor and Other Piano Duets",
+        "url": "https://open.spotify.com/album/2ibKzWy888LJRqRvwpAd1x"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Andreas Staier",
+          "url": "https://open.spotify.com/artist/3IOUX2zimWLnlS0kRyJQJq"
+        },
+        {
+          "name": "Alexander Melnikov",
+          "url": "https://open.spotify.com/artist/7vk7vgVoYDiZ4Kngc3Jgta"
+        }
+      ],
+      "duration_ms": 123906,
+      "name": "Variations on an Original Theme in A-Flat Major, D. 813: VI. Variation V",
+      "url": "https://open.spotify.com/track/2PNQn586IZGtwOAKwtEFBn"
     },
     {
       "added_at": "2023-09-29 12:43:00",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2023-09-29 12:43:00",
       "album": {
-        "name": "Christmas Carols",
-        "url": "https://open.spotify.com/album/4xDKiLk0OUJw4QFBWL4L03"
-      },
-      "artists": [
-        {
-          "name": "Marc-Antoine Charpentier",
-          "url": "https://open.spotify.com/artist/5OvQ8g54fWhffM2x8eCc6s"
-        },
-        {
-          "name": "Andrew Parrott",
-          "url": "https://open.spotify.com/artist/3XHSTHtChESFEiOw1LqKuM"
-        }
-      ],
-      "duration_ms": 69693,
-      "name": "Canticum in nativitatem Domini, 'Frigidae noctis umbra': Marche",
-      "url": "https://open.spotify.com/track/1XwYcsWCKFocYLi7n5VJYd"
-    },
-    {
-      "added_at": "2023-09-29 12:43:00",
-      "album": {
         "name": "Bach: Inventions & Sinfonias",
         "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 88573,
       "name": "Invention No. 1 in C Major, BWV 772",
       "url": "https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs"
+    },
+    {
+      "added_at": "2023-09-29 12:43:00",
+      "album": {
+        "name": "Christmas Carols",
+        "url": "https://open.spotify.com/album/4xDKiLk0OUJw4QFBWL4L03"
+      },
+      "artists": [
+        {
+          "name": "Marc-Antoine Charpentier",
+          "url": "https://open.spotify.com/artist/5OvQ8g54fWhffM2x8eCc6s"
+        },
+        {
+          "name": "Andrew Parrott",
+          "url": "https://open.spotify.com/artist/3XHSTHtChESFEiOw1LqKuM"
+        }
+      ],
+      "duration_ms": 69693,
+      "name": "Canticum in nativitatem Domini, 'Frigidae noctis umbra': Marche",
+      "url": "https://open.spotify.com/track/1XwYcsWCKFocYLi7n5VJYd"
     },
     {
       "added_at": "2023-09-29 12:43:00",
@@ -1447,22 +1447,26 @@
     {
       "added_at": "2023-09-29 12:43:00",
       "album": {
-        "name": "Bach: Goldberg Variations (Extended Edt.)",
-        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
+        "name": "Myslive\u010dek: Symphonies",
+        "url": "https://open.spotify.com/album/3YlNBtwjqIqsDxbrLGY5c5"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Josef Myslive\u010dek",
+          "url": "https://open.spotify.com/artist/6wEimu9Okp11rTY8nbbTtR"
         },
         {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+          "name": "Matthias Bamert",
+          "url": "https://open.spotify.com/artist/0GlFlZLYjxYakEMBgiYvu9"
+        },
+        {
+          "name": "London Mozart Players",
+          "url": "https://open.spotify.com/artist/1sylrdKARMDYTJbs8IPWGy"
         }
       ],
-      "duration_ms": 152160,
-      "name": "Goldberg Variations, BWV 988: Variatio 30 Quodlibet. a 1 Clav.",
-      "url": "https://open.spotify.com/track/43kn3bSGdQFhjqyl5bF1EY"
+      "duration_ms": 175320,
+      "name": "Symphony in D Major, F. 29: II. Andante grazioso",
+      "url": "https://open.spotify.com/track/1hfm2e2HgCnaYdYnvasxea"
     },
     {
       "added_at": "2023-09-29 12:43:00",
@@ -1487,26 +1491,22 @@
     {
       "added_at": "2023-09-29 12:43:00",
       "album": {
-        "name": "Myslive\u010dek: Symphonies",
-        "url": "https://open.spotify.com/album/3YlNBtwjqIqsDxbrLGY5c5"
+        "name": "Bach: Goldberg Variations (Extended Edt.)",
+        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
       },
       "artists": [
         {
-          "name": "Josef Myslive\u010dek",
-          "url": "https://open.spotify.com/artist/6wEimu9Okp11rTY8nbbTtR"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Matthias Bamert",
-          "url": "https://open.spotify.com/artist/0GlFlZLYjxYakEMBgiYvu9"
-        },
-        {
-          "name": "London Mozart Players",
-          "url": "https://open.spotify.com/artist/1sylrdKARMDYTJbs8IPWGy"
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 175320,
-      "name": "Symphony in D Major, F. 29: II. Andante grazioso",
-      "url": "https://open.spotify.com/track/1hfm2e2HgCnaYdYnvasxea"
+      "duration_ms": 152160,
+      "name": "Goldberg Variations, BWV 988: Variatio 30 Quodlibet. a 1 Clav.",
+      "url": "https://open.spotify.com/track/43kn3bSGdQFhjqyl5bF1EY"
     },
     {
       "added_at": "2023-09-29 12:43:00",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2023-09-29 12:43:00",
       "album": {
-        "name": "Bach, J.S.: French Suites Nos. 1-6/Italian Concerto etc.",
-        "url": "https://open.spotify.com/album/4L2s1hLPrtrpYFeJ9Kws6R"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Andr\u00e1s Schiff",
-          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
-        }
-      ],
-      "duration_ms": 83960,
-      "name": "French Suite No. 2 in C minor, BWV 813: 5a. Menuet I",
-      "url": "https://open.spotify.com/track/5hVQBGGwTzB6ePIF8RZ0FG"
-    },
-    {
-      "added_at": "2023-09-29 12:43:00",
-      "album": {
         "name": "Zolt\u00e1n Kocsis: A Tribute",
         "url": "https://open.spotify.com/album/7BgQdVLNI9mmO5P1ijJ5wT"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 361493,
       "name": "Piano Concerto No. 6 in B-Flat Major, K. 238: II. Andante un poco adagio",
       "url": "https://open.spotify.com/track/0Bg70fyCFqNJpERbu9UaxJ"
+    },
+    {
+      "added_at": "2023-09-29 12:43:00",
+      "album": {
+        "name": "Bach, J.S.: French Suites Nos. 1-6/Italian Concerto etc.",
+        "url": "https://open.spotify.com/album/4L2s1hLPrtrpYFeJ9Kws6R"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Andr\u00e1s Schiff",
+          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+        }
+      ],
+      "duration_ms": 83960,
+      "name": "French Suite No. 2 in C minor, BWV 813: 5a. Menuet I",
+      "url": "https://open.spotify.com/track/5hVQBGGwTzB6ePIF8RZ0FG"
     },
     {
       "added_at": "2023-09-29 12:43:00",
@@ -1811,22 +1811,66 @@
     {
       "added_at": "2023-09-29 12:43:00",
       "album": {
-        "name": "Wachet auf, ruft uns die Stimme, BWV 645",
-        "url": "https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4"
+        "name": "Mozart: Petite musique de nuit",
+        "url": "https://open.spotify.com/album/3aiuQXwqA9zGr40vsV2w2f"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
         },
         {
-          "name": "Jo\u00e3o Carlos Victor",
-          "url": "https://open.spotify.com/artist/3jYxGu7wJYguUYCfK2sMWb"
+          "name": "La Grande \u00c9curie et la Chambre du Roy",
+          "url": "https://open.spotify.com/artist/0NXpAUHEoJkTDu5YIKHenS"
+        },
+        {
+          "name": "Jean-Claude Malgoire",
+          "url": "https://open.spotify.com/artist/0Dm0OYp3kyz8ML9Pkh4uwu"
         }
       ],
-      "duration_ms": 354560,
-      "name": "Wachet auf, ruft uns die Stimme, BWV 645",
-      "url": "https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv"
+      "duration_ms": 143693,
+      "name": "Les petits riens, K. Anh. 10/299b: Gavotte",
+      "url": "https://open.spotify.com/track/1oINJUWROwSmP7Z3S9056B"
+    },
+    {
+      "added_at": "2023-09-29 12:43:00",
+      "album": {
+        "name": "Ravel: Complete Music for Piano Solo/Piano Concertos",
+        "url": "https://open.spotify.com/album/1fey9cYZHl1RsMMZci7GOw"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Werner Haas",
+          "url": "https://open.spotify.com/artist/4iOVIMcUg6zfAPv2Dz01eq"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "A la mani\u00e8re de. . . Chabrier",
+      "url": "https://open.spotify.com/track/0MvyO1DgIlbK4DPoAs1xlE"
+    },
+    {
+      "added_at": "2023-09-29 12:43:00",
+      "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 161961,
+      "name": "L'Engageante: 13\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/3N19GXXX5JsftHU9q7YOUU"
     },
     {
       "added_at": "2023-09-29 12:43:00",
@@ -1855,66 +1899,22 @@
     {
       "added_at": "2023-09-29 12:43:00",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+        "name": "Wachet auf, ruft uns die Stimme, BWV 645",
+        "url": "https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4"
       },
       "artists": [
         {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+          "name": "Jo\u00e3o Carlos Victor",
+          "url": "https://open.spotify.com/artist/3jYxGu7wJYguUYCfK2sMWb"
         }
       ],
-      "duration_ms": 161961,
-      "name": "L'Engageante: 13\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/3N19GXXX5JsftHU9q7YOUU"
-    },
-    {
-      "added_at": "2023-09-29 12:43:00",
-      "album": {
-        "name": "Ravel: Complete Music for Piano Solo/Piano Concertos",
-        "url": "https://open.spotify.com/album/1fey9cYZHl1RsMMZci7GOw"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Werner Haas",
-          "url": "https://open.spotify.com/artist/4iOVIMcUg6zfAPv2Dz01eq"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "A la mani\u00e8re de. . . Chabrier",
-      "url": "https://open.spotify.com/track/0MvyO1DgIlbK4DPoAs1xlE"
-    },
-    {
-      "added_at": "2023-09-29 12:43:00",
-      "album": {
-        "name": "Mozart: Petite musique de nuit",
-        "url": "https://open.spotify.com/album/3aiuQXwqA9zGr40vsV2w2f"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "La Grande \u00c9curie et la Chambre du Roy",
-          "url": "https://open.spotify.com/artist/0NXpAUHEoJkTDu5YIKHenS"
-        },
-        {
-          "name": "Jean-Claude Malgoire",
-          "url": "https://open.spotify.com/artist/0Dm0OYp3kyz8ML9Pkh4uwu"
-        }
-      ],
-      "duration_ms": 143693,
-      "name": "Les petits riens, K. Anh. 10/299b: Gavotte",
-      "url": "https://open.spotify.com/track/1oINJUWROwSmP7Z3S9056B"
+      "duration_ms": 354560,
+      "name": "Wachet auf, ruft uns die Stimme, BWV 645",
+      "url": "https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv"
     },
     {
       "added_at": "2023-09-29 12:43:00",
@@ -1983,22 +1983,26 @@
     {
       "added_at": "2023-09-29 12:43:00",
       "album": {
-        "name": "Bach: Isabelle Perrin & Shigenori Kudo",
-        "url": "https://open.spotify.com/album/0uXYCRIhNHLApjONURxZC9"
+        "name": "Mozart: Night Music - Serenades Nos. 6 & 13; A Musical Joke; Adagio & Fugue",
+        "url": "https://open.spotify.com/album/4nf4imwG0lfPqhoEGCazGT"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
         },
         {
-          "name": "Isabelle Perrin",
-          "url": "https://open.spotify.com/artist/6I57k3VAHWPm8e7TD7Nxp3"
+          "name": "The English Concert",
+          "url": "https://open.spotify.com/artist/2Oz3z7PPQUMU2KNYgcO1sA"
+        },
+        {
+          "name": "Andrew Manze",
+          "url": "https://open.spotify.com/artist/0MPbAeGQj0YatrUMdY2KEr"
         }
       ],
-      "duration_ms": 147426,
-      "name": "Lute Suite in E Minor, BWV 996: III. Courante - Arr. for Harp",
-      "url": "https://open.spotify.com/track/0DqjFJY7PF2f7lwO4n5pE3"
+      "duration_ms": 144333,
+      "name": "Minuet & Trio in C Major, K. 485a (Compl. Attwood)",
+      "url": "https://open.spotify.com/track/04HFjYp900E9b3Plshyvzo"
     },
     {
       "added_at": "2023-09-29 12:43:00",
@@ -2123,26 +2127,22 @@
     {
       "added_at": "2023-09-29 12:43:00",
       "album": {
-        "name": "Mozart: Night Music - Serenades Nos. 6 & 13; A Musical Joke; Adagio & Fugue",
-        "url": "https://open.spotify.com/album/4nf4imwG0lfPqhoEGCazGT"
+        "name": "Bach: Isabelle Perrin & Shigenori Kudo",
+        "url": "https://open.spotify.com/album/0uXYCRIhNHLApjONURxZC9"
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "The English Concert",
-          "url": "https://open.spotify.com/artist/2Oz3z7PPQUMU2KNYgcO1sA"
-        },
-        {
-          "name": "Andrew Manze",
-          "url": "https://open.spotify.com/artist/0MPbAeGQj0YatrUMdY2KEr"
+          "name": "Isabelle Perrin",
+          "url": "https://open.spotify.com/artist/6I57k3VAHWPm8e7TD7Nxp3"
         }
       ],
-      "duration_ms": 144333,
-      "name": "Minuet & Trio in C Major, K. 485a (Compl. Attwood)",
-      "url": "https://open.spotify.com/track/04HFjYp900E9b3Plshyvzo"
+      "duration_ms": 147426,
+      "name": "Lute Suite in E Minor, BWV 996: III. Courante - Arr. for Harp",
+      "url": "https://open.spotify.com/track/0DqjFJY7PF2f7lwO4n5pE3"
     },
     {
       "added_at": "2023-09-29 12:43:00",

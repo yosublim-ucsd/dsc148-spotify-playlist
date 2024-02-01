@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj?si=UC5GokWQQZObai5SqjeeTA">Sinmidele</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,785 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,844 likes - 70 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 5 | [Holy Spirit](https://open.spotify.com/track/0vdwSEcvTdrbfa58Q9RR7r) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Worship SZN](https://open.spotify.com/album/1SvsQPNDkO6zaFmFrSp6EI) | 7:29 |
 | 6 | [Olorun Agbaye \- You Are Mighty](https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Oba](https://open.spotify.com/artist/1WLvxeydcpCGxEpV9pQCP2) | [Hallelujah Again \(Revelation 19:3\)](https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf) | 7:16 |
 | 7 | [One Name \(Jesus\) \- Live](https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [One Name \(Jesus\) \[Live\]](https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK) | 9:19 |
-| 8 | [Memories](https://open.spotify.com/track/06Aw2mGplT34DH8p685eKc) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Just Derrick](https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd) | [Memories](https://open.spotify.com/album/2OCCvqQ45xZsfqYXCVHFTR) | 3:15 |
+| 8 | [Memories](https://open.spotify.com/track/2cJZ2nyLpIzHSQcZzDmiWL) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Just Derrick](https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd) | [Memories](https://open.spotify.com/album/10LzKOFf7M5m1LVAucGsHM) | 3:15 |
 | 9 | [After All These Years](https://open.spotify.com/track/3ruNtWNKVsgAZ4YF9ybSl6) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [after all these years](https://open.spotify.com/album/3GnDcrTrQitO9vZq62Stcs) | 4:28 |
 | 10 | [Not One Time](https://open.spotify.com/track/6BHr2BD9BAIitzL9fPbZjo) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Not One Time](https://open.spotify.com/album/5pHa72PcJQiwEANhpYYlm0) | 2:50 |
 | 11 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 69 | [Your Baby \(Paruto Sessions\)](https://open.spotify.com/track/4WDoX23maQicnPqtkXfDmo) | [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Your Baby \(Paruto Sessions\)](https://open.spotify.com/album/3QBGaUringEPS3uOK6uqwI) | 3:34 |
 | 70 | [Able](https://open.spotify.com/track/6ke0delRcd6LPpRb1yxY3G) | [JhonforChrist](https://open.spotify.com/artist/3nuMqFQqdHeM5cldILRXDR), [HartlhaD](https://open.spotify.com/artist/6Yk7U5v34wKHuGQFdT0aAy) | [Able](https://open.spotify.com/album/1fDflEHY7Tc8MSJClipYmQ) | 2:45 |
 
-Snapshot ID: `MCwyNmM3MGM2MDk2NGViOTJhZjk1MWNiYmIyOGZmYTk5N2JmMWI5YWUz`
+Snapshot ID: `MCw3NWY2NWM5OWVhOTA2YWJkMjVjODA5ZTVmMDY2ZDAxODJiNTc1YzQ2`

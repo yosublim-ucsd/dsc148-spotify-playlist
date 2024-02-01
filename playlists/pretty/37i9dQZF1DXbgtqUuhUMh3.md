@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 
 > Listen to Arab women, at full volume\. Cover: Dana Salah
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,185 likes - 33 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,202 likes - 33 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rouge](https://open.spotify.com/track/1Xr21ZKogSRHDBFDSyp2YP) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Rouge](https://open.spotify.com/album/1UmSw648elPoRIGpCFv55T) | 2:33 |
-| 2 | [Kello Waham](https://open.spotify.com/track/1BswE7MEewdixfNF3Vm6dj) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Kello Waham](https://open.spotify.com/album/1Bo8bgAlOE14eEZHeY8RXL) | 3:22 |
+| 2 | [كلو وهم](https://open.spotify.com/track/3XSlbOYVONZWgHUYsyv1kn) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [كلو وهم](https://open.spotify.com/album/0zVuys4kG4cSCH5TXPuv5H) | 3:22 |
 | 3 | [Enta Teabal](https://open.spotify.com/track/0MeHEYGoomiMpbF7HdIKJI) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [Enta Teabal](https://open.spotify.com/album/3y2QISOVbahyigZFOKN5XK) | 3:32 |
 | 4 | [Saggan](https://open.spotify.com/track/7yKvi1Ftnda6J3PyqKY139) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Saggan](https://open.spotify.com/album/7FqxSipC4DIQ0IA3RgWqxa) | 2:53 |
 | 5 | [حدوتة منسية \- تتر مسلسل حدوتة منسية](https://open.spotify.com/track/55jdqfy9BOY3MPYPIqCM8X) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [حدوتة منسية \(من مسلسل حدوتة منسية\)](https://open.spotify.com/album/5qoHbZ0DAQn49sesJhAdy1) | 3:57 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 | 32 | [Eshthakarak Biya](https://open.spotify.com/track/5R9ugpDgxc6KKDmDbrl61V) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Eshthakarak Biya](https://open.spotify.com/album/0h3ANZyC0oafJwO3rOfb1N) | 3:28 |
 | 33 | [100 Geneh](https://open.spotify.com/track/2WjcgbgnA3eDfaxEgERwfe) | [Aya Akil](https://open.spotify.com/artist/2VSWDLytEe3joqPsUtk1EA) | [100 Geneh](https://open.spotify.com/album/0429KMwToLr84oS2wzoqUn) | 3:21 |
 
-Snapshot ID: `MCwwNTIwNDk0ZGY5NDg2MmM4N2JmZWRkZWM0N2JmZmY3ZjJkMjUyYmUy`
+Snapshot ID: `MCxiNzU3YzA5OGQ0ZTY3OWQ5YTI1MjQyOTE4MDhjNjI3Nzk3YjRlYWY5`

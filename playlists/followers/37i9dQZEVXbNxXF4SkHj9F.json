@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 110759,
+  "2024-02-01": 110794,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - South Korea.",
   "name": "Top 50 - South Korea",
@@ -8717,7 +8717,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 220878,
       "name": "GODS",
       "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
@@ -9289,7 +9289,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 154236,
       "name": "Hate You",
       "url": "https://open.spotify.com/track/5ONOlTiqymhzwcFjqcIT6E"
@@ -13331,7 +13331,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 215040,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/0yfQBmmOIVqiwhV5u10EhN"
@@ -13989,6 +13989,24 @@
       "duration_ms": 182757,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV"
+    },
+    {
+      "album": {
+        "name": "The 4th Mini Album 'VERSUS'",
+        "url": "https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195520,
+      "name": "MANIAC",
+      "url": "https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE"
     },
     {
       "album": {
@@ -24508,6 +24526,24 @@
     },
     {
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121226,
+      "name": "Wife",
+      "url": "https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ"
+    },
+    {
+      "album": {
         "name": "Wife",
         "url": "https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK"
       },
@@ -24519,7 +24555,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 121226,
       "name": "Wife",
       "url": "https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Ruhaan79, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Alchemy, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -448,6 +448,24 @@
       "duration_ms": 280000,
       "name": "Aao Na",
       "url": "https://open.spotify.com/track/0buVHsFxdatJeBfQWsibFg"
+    },
+    {
+      "album": {
+        "name": "Aao Suno",
+        "url": "https://open.spotify.com/album/7aKkT0Y9d1SfPpAJr90mxE"
+      },
+      "artists": [
+        {
+          "name": "Alchemy",
+          "url": "https://open.spotify.com/artist/3wtbgKMLTqcBw9vDjbyDLP"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229278,
+      "name": "Aao Suno",
+      "url": "https://open.spotify.com/track/4CWTZBG1pCtEelAxhHr8WX"
     },
     {
       "album": {
@@ -3115,6 +3133,24 @@
     },
     {
       "album": {
+        "name": "Chal Saath",
+        "url": "https://open.spotify.com/album/7pH9TJSv0tQN2r0tt9AILR"
+      },
+      "artists": [
+        {
+          "name": "Nishant Thakur",
+          "url": "https://open.spotify.com/artist/2osPZeYHQJtTgSwc7HfUR2"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223900,
+      "name": "Chal Saath",
+      "url": "https://open.spotify.com/track/4nBDMKjKPhma2Wm7WWjyHM"
+    },
+    {
+      "album": {
         "name": "Chala Jaunga",
         "url": "https://open.spotify.com/album/7fHZ3bZ1rd16gEljhTmdLs"
       },
@@ -4717,6 +4753,24 @@
     },
     {
       "album": {
+        "name": "Down The Road",
+        "url": "https://open.spotify.com/album/0mw67old95igd8iocXu2wF"
+      },
+      "artists": [
+        {
+          "name": "Trisha",
+          "url": "https://open.spotify.com/artist/2Z5Y14aAgVmcGt9k9bzyL1"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143999,
+      "name": "Down The Road",
+      "url": "https://open.spotify.com/track/3SLHDttRmcIL5p3lSAmqKz"
+    },
+    {
+      "album": {
         "name": "dream of us",
         "url": "https://open.spotify.com/album/6t6ErqxYEVxfvDKWdGjVJU"
       },
@@ -6272,6 +6326,32 @@
       "duration_ms": 145927,
       "name": "Gumsum",
       "url": "https://open.spotify.com/track/0v20x1Yig5Co1VZOCLJbU7"
+    },
+    {
+      "album": {
+        "name": "Gustakhi",
+        "url": "https://open.spotify.com/album/7eBN9nnwIEhk9TfppbjVIG"
+      },
+      "artists": [
+        {
+          "name": "Kanchan Sen Sharma",
+          "url": "https://open.spotify.com/artist/2VSnLDOguo5jl8JIixsLJO"
+        },
+        {
+          "name": "Piyush Thakur",
+          "url": "https://open.spotify.com/artist/0U2Kk3HCoPMMbdjM9Z6JEP"
+        },
+        {
+          "name": "Anique",
+          "url": "https://open.spotify.com/artist/0RTlYaS7rlNGSc16WACt4w"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210309,
+      "name": "Gustakhi",
+      "url": "https://open.spotify.com/track/5x8jfTxGHhXksJU7FIe1Yj"
     },
     {
       "album": {
@@ -7874,6 +7954,32 @@
       "duration_ms": 175102,
       "name": "Ishaare",
       "url": "https://open.spotify.com/track/1VFIOx2iSJfQqWJPV4tzFv"
+    },
+    {
+      "album": {
+        "name": "Isharon Isharon Mein",
+        "url": "https://open.spotify.com/album/1lYKgVJf8tfM1180eQxoCH"
+      },
+      "artists": [
+        {
+          "name": "Adil Nadaf",
+          "url": "https://open.spotify.com/artist/3vRo2Lnpy1bManEuImUVhq"
+        },
+        {
+          "name": "Madhuri Seshadri",
+          "url": "https://open.spotify.com/artist/4so2LO2B3OqrAlpG9ulXqx"
+        },
+        {
+          "name": "Prajoth D'sa",
+          "url": "https://open.spotify.com/artist/5sxU1v8Sa1pQ0A2lbyRON1"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192991,
+      "name": "Isharon Isharon Mein",
+      "url": "https://open.spotify.com/track/73yD7HDsqBA4bgBbGmPLh0"
     },
     {
       "album": {
@@ -10298,7 +10404,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 207741,
       "name": "Kiran",
       "url": "https://open.spotify.com/track/3cPDGhfU49Q3deykmayjDb"
@@ -12408,7 +12514,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 239508,
       "name": "Midnight Falls",
       "url": "https://open.spotify.com/track/5JoPklL29dDtg7CjwbvKy4"
@@ -16878,7 +16984,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 173990,
       "name": "STAY",
       "url": "https://open.spotify.com/track/58Q8ZgJglsgPHeTTlRd4Uy"
@@ -20630,7 +20736,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 218689,
       "name": "Ye Shaamein",
       "url": "https://open.spotify.com/track/7g4qvUQ4URhFVf5h02RxvS"
@@ -20868,7 +20974,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 183853,
       "name": "You Don't Belong To Me",
       "url": "https://open.spotify.com/track/2fEp2TyUpKWycQCM4yL34D"

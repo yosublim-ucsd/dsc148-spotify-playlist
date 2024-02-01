@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 3763573,
+  "2024-02-01": 3764066,
   "date_first_scraped": "2024-01-21",
   "description": "This is Bruno Mars. The essential tracks, all in one playlist.",
   "name": "This Is Bruno Mars",
@@ -313,7 +313,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 257720,
       "name": "It Will Rain",
       "url": "https://open.spotify.com/track/0M3HkE321xpCbCYqVKzr1q"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 230192,
       "name": "Marry You",
       "url": "https://open.spotify.com/track/6SKwQghsR8AISlxhcwyA9R"
@@ -573,7 +573,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 148448,
       "name": "Runaway Baby",
       "url": "https://open.spotify.com/track/7hCNBVRhHzcsRAv0TQnOzq"

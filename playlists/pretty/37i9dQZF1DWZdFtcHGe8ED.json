@@ -1,12 +1,12 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
-  "num_followers": 535539,
+  "num_followers": 535662,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODE0YmU0Y2M0Yzg4MWVlZGNmZjZhMGQ3NWVmZTg2YjhhMDE1YjM5",
+  "snapshot_id": "MCwxY2RlZTY5NTZlOGViZmRjY2MyOGJlMWNiMGIyMGM5YzY3YmM4MWUz",
   "tracks": [
     {
       "added_at": "2024-01-12 15:30:29",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Suicidal Tendencies",
-        "url": "https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO"
-      },
-      "artists": [
-        {
-          "name": "Suicidal Tendencies",
-          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "Institutionalized",
-      "url": "https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "The Last Rager",
         "url": "https://open.spotify.com/album/4fYFZrF8hQ8z94tQCa3zvU"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 113040,
       "name": "Wave of Death",
       "url": "https://open.spotify.com/track/6egRwYsMJ8DVJQAKOjHWou"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "Suicidal Tendencies",
+        "url": "https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Tendencies",
+          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "Institutionalized",
+      "url": "https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Practice What You Preach",
-        "url": "https://open.spotify.com/album/7lNeBg16EP03ifo5Wutq52"
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
       },
       "artists": [
         {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 297293,
-      "name": "Practice What You Preach",
-      "url": "https://open.spotify.com/track/1KmX2Q8IwwLY2AMIMOmYlw"
+      "duration_ms": 246405,
+      "name": "CH\u00d8KE \u00d8N THE ASHES \u00d8F Y\u00d8UR HATE",
+      "url": "https://open.spotify.com/track/5sykvfEJHupA8mjhhgylVk"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -639,18 +639,18 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
-        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+        "name": "Practice What You Preach",
+        "url": "https://open.spotify.com/album/7lNeBg16EP03ifo5Wutq52"
       },
       "artists": [
         {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
         }
       ],
-      "duration_ms": 246405,
-      "name": "CH\u00d8KE \u00d8N THE ASHES \u00d8F Y\u00d8UR HATE",
-      "url": "https://open.spotify.com/track/5sykvfEJHupA8mjhhgylVk"
+      "duration_ms": 297293,
+      "name": "Practice What You Preach",
+      "url": "https://open.spotify.com/track/1KmX2Q8IwwLY2AMIMOmYlw"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 258465,
+      "name": "N\u00d8 G\u00d8DS, N\u00d8 MASTERS",
+      "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
         "name": "The Evil Divide",
         "url": "https://open.spotify.com/album/37BeDhGFfISfgrWxbv0MtW"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "No Absolution",
-        "url": "https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs"
-      },
-      "artists": [
-        {
-          "name": "Lost Society",
-          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "No Absolution",
-      "url": "https://open.spotify.com/track/7DDtR2AfAcLGtSDJ0BQbhU"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "Bonded by Blood",
         "url": "https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD"
       },
@@ -811,22 +811,6 @@
       "duration_ms": 224066,
       "name": "Bonded by Blood",
       "url": "https://open.spotify.com/track/2riiohLaKgMFlu4RQT1MPV"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
-        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
-        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 258465,
-      "name": "N\u00d8 G\u00d8DS, N\u00d8 MASTERS",
-      "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -847,6 +831,22 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
+        "name": "No Absolution",
+        "url": "https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs"
+      },
+      "artists": [
+        {
+          "name": "Lost Society",
+          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "No Absolution",
+      "url": "https://open.spotify.com/track/7DDtR2AfAcLGtSDJ0BQbhU"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
         "name": "Titans of Creation",
         "url": "https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK"
       },
@@ -859,22 +859,6 @@
       "duration_ms": 392066,
       "name": "Night of the Witch",
       "url": "https://open.spotify.com/track/3orHIz1YV1bmUHsi2fze48"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
-        "name": "Untouchable Glory",
-        "url": "https://open.spotify.com/album/4KHhqOCvMaJ7x3QYQBGRFr"
-      },
-      "artists": [
-        {
-          "name": "Gama Bomb",
-          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
-        }
-      ],
-      "duration_ms": 166929,
-      "name": "Ninja Untouchables/Untouchable Glory",
-      "url": "https://open.spotify.com/track/5epOdgJW9Y2bu61k4dumrY"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -895,18 +879,18 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Nightmare Logic",
-        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
+        "name": "Untouchable Glory",
+        "url": "https://open.spotify.com/album/4KHhqOCvMaJ7x3QYQBGRFr"
       },
       "artists": [
         {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+          "name": "Gama Bomb",
+          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
         }
       ],
-      "duration_ms": 250723,
-      "name": "Soul Sacrifice",
-      "url": "https://open.spotify.com/track/0PiqQvwJA1TiOFIjmG58rS"
+      "duration_ms": 166929,
+      "name": "Ninja Untouchables/Untouchable Glory",
+      "url": "https://open.spotify.com/track/5epOdgJW9Y2bu61k4dumrY"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -927,18 +911,18 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Five Serpent's Teeth",
-        "url": "https://open.spotify.com/album/3VL9IPd5pYeOXJJcRSUXpK"
+        "name": "Nightmare Logic",
+        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
       },
       "artists": [
         {
-          "name": "Evile",
-          "url": "https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo"
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
         }
       ],
-      "duration_ms": 291960,
-      "name": "Cult",
-      "url": "https://open.spotify.com/track/7jkdjLkhSQRcVA3lsnTClQ"
+      "duration_ms": 250723,
+      "name": "Soul Sacrifice",
+      "url": "https://open.spotify.com/track/0PiqQvwJA1TiOFIjmG58rS"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -955,6 +939,22 @@
       "duration_ms": 271373,
       "name": "Trip at the Brain",
       "url": "https://open.spotify.com/track/4nbkJukvqC7ae4kIICjEPi"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "Five Serpent's Teeth",
+        "url": "https://open.spotify.com/album/3VL9IPd5pYeOXJJcRSUXpK"
+      },
+      "artists": [
+        {
+          "name": "Evile",
+          "url": "https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo"
+        }
+      ],
+      "duration_ms": 291960,
+      "name": "Cult",
+      "url": "https://open.spotify.com/track/7jkdjLkhSQRcVA3lsnTClQ"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Nightmare Logic",
-        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 261709,
-      "name": "Nightmare Logic",
-      "url": "https://open.spotify.com/track/127fndSSTEZrx2TV8cd3jM"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "Moments Elsewhere",
         "url": "https://open.spotify.com/album/54jLv7qhitycZp9GiQ3t1C"
       },
@@ -1071,22 +1055,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Speed Between the Lines",
-        "url": "https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA"
-      },
-      "artists": [
-        {
-          "name": "Gama Bomb",
-          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "666Teen",
-      "url": "https://open.spotify.com/track/3FzPWVOfYBi646pFcei6f3"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "Mourn the Southern Skies",
         "url": "https://open.spotify.com/album/6Zv7TZNO5LrJH9dRUjouom"
       },
@@ -1099,6 +1067,38 @@
       "duration_ms": 233145,
       "name": "My Time",
       "url": "https://open.spotify.com/track/7455R3ZkleZUXIl4qUrsEu"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "Nightmare Logic",
+        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        }
+      ],
+      "duration_ms": 261709,
+      "name": "Nightmare Logic",
+      "url": "https://open.spotify.com/track/127fndSSTEZrx2TV8cd3jM"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "Speed Between the Lines",
+        "url": "https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA"
+      },
+      "artists": [
+        {
+          "name": "Gama Bomb",
+          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "666Teen",
+      "url": "https://open.spotify.com/track/3FzPWVOfYBi646pFcei6f3"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Opening Fire: 2008-2014",
-        "url": "https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 257695,
-      "name": "Divine Apprehension",
-      "url": "https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "Thrash Zone",
         "url": "https://open.spotify.com/album/6U2m5pMfP1WvVN7swAIsIC"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Pyh\u00e4 Vitutus",
-        "url": "https://open.spotify.com/album/7l48qUCRcUiNUyOD2zzkDT"
+        "name": "The Man That Never Was",
+        "url": "https://open.spotify.com/album/7hqBWYPGvk8WrGm66UgCJW"
       },
       "artists": [
         {
-          "name": "Mokoma",
-          "url": "https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB"
+          "name": "Exhorder",
+          "url": "https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl"
         }
       ],
-      "duration_ms": 201223,
-      "name": "Pyh\u00e4 Vitutus",
-      "url": "https://open.spotify.com/track/3nn2BBMs1fwcUzvz3SsWBk"
+      "duration_ms": 203000,
+      "name": "The Man That Never Was",
+      "url": "https://open.spotify.com/track/19ZMUBNaw5HopQ5ljdZj8T"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1215,18 +1199,34 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "The Man That Never Was",
-        "url": "https://open.spotify.com/album/7hqBWYPGvk8WrGm66UgCJW"
+        "name": "Pyh\u00e4 Vitutus",
+        "url": "https://open.spotify.com/album/7l48qUCRcUiNUyOD2zzkDT"
       },
       "artists": [
         {
-          "name": "Exhorder",
-          "url": "https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl"
+          "name": "Mokoma",
+          "url": "https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB"
         }
       ],
-      "duration_ms": 203000,
-      "name": "The Man That Never Was",
-      "url": "https://open.spotify.com/track/19ZMUBNaw5HopQ5ljdZj8T"
+      "duration_ms": 201223,
+      "name": "Pyh\u00e4 Vitutus",
+      "url": "https://open.spotify.com/track/3nn2BBMs1fwcUzvz3SsWBk"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "Opening Fire: 2008-2014",
+        "url": "https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        }
+      ],
+      "duration_ms": 257695,
+      "name": "Divine Apprehension",
+      "url": "https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
+        "name": "Forbidden Evil",
+        "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
+      },
+      "artists": [
+        {
+          "name": "Forbidden",
+          "url": "https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN"
+        }
+      ],
+      "duration_ms": 384853,
+      "name": "Through Eyes of Glass",
+      "url": "https://open.spotify.com/track/5Xwn7YmF5BRCWyBYHXqZGL"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
         "name": "Cabaret De La Guillotine",
         "url": "https://open.spotify.com/album/76dTSQmBFHcITyGb89GcfC"
       },
@@ -1631,18 +1647,18 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Forbidden Evil",
-        "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
+        "name": "Eternal Nightmare",
+        "url": "https://open.spotify.com/album/2qB9lQZEfYOHEXGD2HhExH"
       },
       "artists": [
         {
-          "name": "Forbidden",
-          "url": "https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN"
+          "name": "Vio-Lence",
+          "url": "https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df"
         }
       ],
-      "duration_ms": 384853,
-      "name": "Through Eyes of Glass",
-      "url": "https://open.spotify.com/track/5Xwn7YmF5BRCWyBYHXqZGL"
+      "duration_ms": 370400,
+      "name": "Eternal Nightmare",
+      "url": "https://open.spotify.com/track/0kJVVyz73lZau2zbr4kmIX"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1675,22 +1691,6 @@
       "duration_ms": 206653,
       "name": "Year of the Goat",
       "url": "https://open.spotify.com/track/7D0wXdVm5aMwOgArdzBMcQ"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
-        "name": "Eternal Nightmare",
-        "url": "https://open.spotify.com/album/2qB9lQZEfYOHEXGD2HhExH"
-      },
-      "artists": [
-        {
-          "name": "Vio-Lence",
-          "url": "https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df"
-        }
-      ],
-      "duration_ms": 370400,
-      "name": "Eternal Nightmare",
-      "url": "https://open.spotify.com/track/0kJVVyz73lZau2zbr4kmIX"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Taking Over",
-        "url": "https://open.spotify.com/album/5o5qYy6hUQwHP2zSqqRC8N"
-      },
-      "artists": [
-        {
-          "name": "Overkill",
-          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
-        }
-      ],
-      "duration_ms": 272333,
-      "name": "Wrecking Crew",
-      "url": "https://open.spotify.com/track/6fawOM1jHIuzdiMITZAnwG"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "No Place For Disgrace",
         "url": "https://open.spotify.com/album/5Cx6bwvBkfgZfNZbQSnx1e"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 373013,
       "name": "No Place for Disgrace",
       "url": "https://open.spotify.com/track/4JoAPkFkBRnRNLeoUSG89X"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "Taking Over",
+        "url": "https://open.spotify.com/album/5o5qYy6hUQwHP2zSqqRC8N"
+      },
+      "artists": [
+        {
+          "name": "Overkill",
+          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+        }
+      ],
+      "duration_ms": 272333,
+      "name": "Wrecking Crew",
+      "url": "https://open.spotify.com/track/6fawOM1jHIuzdiMITZAnwG"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
+        "name": "Forbidden Evil",
+        "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
+      },
+      "artists": [
+        {
+          "name": "Forbidden",
+          "url": "https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN"
+        }
+      ],
+      "duration_ms": 272853,
+      "name": "Chalice of Blood",
+      "url": "https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
         "name": "Annihilation Principle",
         "url": "https://open.spotify.com/album/6vQJnE6wsh4fc4wvy2fr9O"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 230720,
       "name": "Fire in the Hole",
       "url": "https://open.spotify.com/track/5Sr2sWiF4R8WsL9EiGxW4f"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
-        "name": "Years of Aggression",
-        "url": "https://open.spotify.com/album/6S3yE9xu0weg5pulOBJPs5"
-      },
-      "artists": [
-        {
-          "name": "Suicidal Angels",
-          "url": "https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2"
-        }
-      ],
-      "duration_ms": 257407,
-      "name": "Born of Hate",
-      "url": "https://open.spotify.com/track/0KFBWumneVmEuoIxTbgNrA"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1907,18 +1907,18 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Forbidden Evil",
-        "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
+        "name": "Years of Aggression",
+        "url": "https://open.spotify.com/album/6S3yE9xu0weg5pulOBJPs5"
       },
       "artists": [
         {
-          "name": "Forbidden",
-          "url": "https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN"
+          "name": "Suicidal Angels",
+          "url": "https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2"
         }
       ],
-      "duration_ms": 272853,
-      "name": "Chalice of Blood",
-      "url": "https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0"
+      "duration_ms": 257407,
+      "name": "Born of Hate",
+      "url": "https://open.spotify.com/track/0KFBWumneVmEuoIxTbgNrA"
     },
     {
       "added_at": "2024-01-12 15:30:29",

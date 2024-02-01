@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Justin Timberlake
 
-2,934 songs - 7 day 3 hr 23 min
+2,935 songs - 7 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2317,7 +2317,8 @@
 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 | 2023-06-11 | 2023-06-26 |
 | [Whole Lotta Grey](https://open.spotify.com/track/4s0R9lDVKIchcSlFBPosIN) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [SHAMELESS $UICIDE](https://open.spotify.com/album/2Ogn4iWeeSPzxJJNW1HC6M) | 3:06 | 2023-02-26 | 2023-03-06 |
 | [why dont we go](https://open.spotify.com/track/54PYCknS6lsyUXSkgnj2OM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [why dont we go](https://open.spotify.com/album/5G5Ujsxpgm9F79YNkGfE4q) | 2:46 | 2023-11-05 | 2023-11-13 |
-| [Wife](https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Wife](https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK) | 2:01 | 2024-01-28 |  |
+| [Wife](https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:01 | 2024-01-28 |  |
+| [Wife](https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Wife](https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK) | 2:01 | 2024-01-28 | 2024-02-01 |
 | [WILD & FREE](https://open.spotify.com/track/7sBG3kvJsSJyhJaMO7j7Nx) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw) | [at FIVE](https://open.spotify.com/album/3AlHjPKoS19K8tEGwrR5aS) | 2:57 | 2023-02-26 | 2023-03-06 |
 | [WIN](https://open.spotify.com/track/3TCIqI5kxKr6P5DsKG89Hu) | [KOWICHI](https://open.spotify.com/artist/6CbooCqOA6MI23syacRER2), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR) | [No Limit](https://open.spotify.com/album/4NZpWKym8rt2QtUzjVj4Zm) | 3:24 | 2023-08-27 | 2023-09-04 |
 | [Wind Rise](https://open.spotify.com/track/7ft8cpFbv0E9SOUiUMcPuW) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Speed Tape](https://open.spotify.com/album/0pYpedPWmSW8BABYhG4QDD) | 3:05 | 2023-09-24 | 2023-12-11 |

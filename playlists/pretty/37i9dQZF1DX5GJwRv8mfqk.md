@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 
 > ¡A la antigüita, chiquitita! Las canciones escritas e interpretadas por Edén Muñoz 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,202 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,241 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,15 +54,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 44 | [No Vales Un Peso](https://open.spotify.com/track/6p9m5qQNY8thHEkSZvnTD4) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Tu Amigo Nada Más](https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2) | 2:32 |
 | 45 | [El Anticuado](https://open.spotify.com/track/3GlryytO0TPyxZ6YGESk5W) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 4:04 |
 | 46 | [Creí](https://open.spotify.com/track/4x2bs0JLkuluDZw64K7l2K) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 2](https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR) | 2:52 |
-| 47 | [Como Quiera Sigo Vivo](https://open.spotify.com/track/5tT8TLBdLCdez0matmJWAz) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Con Eso o Más](https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3) | 2:59 |
-| 48 | [Voy A Quererte Tanto](https://open.spotify.com/track/4IMlicXimcHUaJ1M8b3kof) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Voy A Quererte Tanto](https://open.spotify.com/album/0h3TmsfU8ORt3ibAH5T5Wd) | 2:52 |
+| 47 | [Voy A Quererte Tanto](https://open.spotify.com/track/4IMlicXimcHUaJ1M8b3kof) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Voy A Quererte Tanto](https://open.spotify.com/album/0h3TmsfU8ORt3ibAH5T5Wd) | 2:52 |
+| 48 | [Como Quiera Sigo Vivo](https://open.spotify.com/track/5tT8TLBdLCdez0matmJWAz) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Con Eso o Más](https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3) | 2:59 |
 | 49 | [Cómo No Adorarla](https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:41 |
 | 50 | [Después De Ti](https://open.spotify.com/track/1HIK2PxTP1rTQFvCCiZuLk) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Con Toda La Fuerza](https://open.spotify.com/album/3vxjpEj2z0ifn1ibOHAbaZ) | 3:36 |
 | 51 | [Contigo Safo](https://open.spotify.com/track/63DlXPydg4aZqNQ4emXle1) | [La Estructura](https://open.spotify.com/artist/3NKAZv5HQxhNZfDl3VIQpF) | [Un Hombre Nuevo](https://open.spotify.com/album/3bIJjK2zPTcPpi13Gnvs4Z) | 2:20 |
 | 52 | [Bajo La Misma Luna](https://open.spotify.com/track/7tWUtuimvXukaJMeafXcQr) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [En Vida](https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz) | 2:12 |
-| 53 | [El Desayuno](https://open.spotify.com/track/0UN5AItjmIjEMBqsKjdOTh) | [Banda La Misma Tierra](https://open.spotify.com/artist/3qduLYuB55rWHxlQgpLzQA) | [La Moneda Sigue En El Aire](https://open.spotify.com/album/6au0XTsCm7ZzJdpXS6LL6G) | 2:59 |
-| 54 | [Si Te Estoy Rogando](https://open.spotify.com/track/5VcqezOXswsrukgQWbGCyF) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Si Te Estoy Rogando](https://open.spotify.com/album/1OMaLDuQXha2jclqIjaXpc) | 4:07 |
-| 55 | [¿Y Qué Les Vamos A Decir?](https://open.spotify.com/track/6S4KfYtYh4kMMaIrVJ4QLF) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [¿Y Qué Les Vamos A Decir?](https://open.spotify.com/album/6KJ4oNuCLZxZpS5np9RCme) | 3:16 |
+| 53 | [¿Y Qué Les Vamos A Decir?](https://open.spotify.com/track/6S4KfYtYh4kMMaIrVJ4QLF) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [¿Y Qué Les Vamos A Decir?](https://open.spotify.com/album/6KJ4oNuCLZxZpS5np9RCme) | 3:16 |
+| 54 | [El Desayuno](https://open.spotify.com/track/0UN5AItjmIjEMBqsKjdOTh) | [Banda La Misma Tierra](https://open.spotify.com/artist/3qduLYuB55rWHxlQgpLzQA) | [La Moneda Sigue En El Aire](https://open.spotify.com/album/6au0XTsCm7ZzJdpXS6LL6G) | 2:59 |
+| 55 | [Si Te Estoy Rogando](https://open.spotify.com/track/5VcqezOXswsrukgQWbGCyF) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Si Te Estoy Rogando](https://open.spotify.com/album/1OMaLDuQXha2jclqIjaXpc) | 4:07 |
 | 56 | [Listo para Ser Infiel](https://open.spotify.com/track/0Mc2gzI7o9iob0yuKDYogk) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [El Que a Ti Te Gusta](https://open.spotify.com/album/47wEWNQJIhuqODvvVTUtrl) | 3:06 |
 | 57 | [Como Quiera Sigo Vivo](https://open.spotify.com/track/4J6eF2qMnUFg0fgunRFBcC) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Como Quiera Sigo Vivo](https://open.spotify.com/album/0ii8CYwGpHWZOyedXhUuML) | 2:59 |
 | 58 | [Al Cabo Ni Queria](https://open.spotify.com/track/6qplZ4xMEH3aKvSv10TvSf) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Gallo Fino](https://open.spotify.com/album/2IGNjAidWYUPG0w2P6G91c) | 3:13 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 73 | [Al Cabo Ni Queria \(Bonus Track\)](https://open.spotify.com/track/5RLxB5X53TuHRAYLtgNpoU) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Gallo Fino](https://open.spotify.com/album/2IGNjAidWYUPG0w2P6G91c) | 3:04 |
 | 74 | [Ya Estuvo Bueno](https://open.spotify.com/track/7a6ms6F6JzoRYtCQFntLdd) | [Los Del Arroyo](https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4) | [La Casa Invita](https://open.spotify.com/album/7Hf1kRkgZA47DrA0Mimg5W) | 3:19 |
 | 75 | [Y Si Es Posible](https://open.spotify.com/track/5QKBZrSlpwzmLVeec2fdqD) | [Banda Legal](https://open.spotify.com/artist/6qzADkcD6NEhqaYRVfC7Sj) | [Sigo De Pie](https://open.spotify.com/album/23FhyIwGbJXIkPyB8xgQzB) | 3:15 |
-| 76 | [Los Narcoplaticantes](https://open.spotify.com/track/7K1DHCLtIfAnm07wxVnNOI) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Seguimos Sumando](https://open.spotify.com/album/7G8SUIcg4K4Rx55r2fuMGk) | 4:34 |
-| 77 | [También Tú Te Equivocas](https://open.spotify.com/track/1Nk84MlFkQmlri26uc0Tzg) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [El Heredero Mayor](https://open.spotify.com/album/2X1Tw06QtYHmbVPwgvwAok) | 2:59 |
-| 78 | [El Dedo En La Boca](https://open.spotify.com/track/70tZhGsXsfIeJo6vz62Szx) | [Beto Peña](https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl) | [El Quemado](https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i) | 2:56 |
+| 76 | [También Tú Te Equivocas](https://open.spotify.com/track/1Nk84MlFkQmlri26uc0Tzg) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [El Heredero Mayor](https://open.spotify.com/album/2X1Tw06QtYHmbVPwgvwAok) | 2:59 |
+| 77 | [El Dedo En La Boca](https://open.spotify.com/track/70tZhGsXsfIeJo6vz62Szx) | [Beto Peña](https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl) | [El Quemado](https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i) | 2:56 |
+| 78 | [Los Narcoplaticantes](https://open.spotify.com/track/7K1DHCLtIfAnm07wxVnNOI) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Seguimos Sumando](https://open.spotify.com/album/7G8SUIcg4K4Rx55r2fuMGk) | 4:34 |
 | 79 | [Dígale](https://open.spotify.com/track/3VGtALkoQlzgZxiZrN2w01) | [Nano machado y los keridos](https://open.spotify.com/artist/53A1yW7juOFn33hsocW3aL) | [Dígale](https://open.spotify.com/album/6DkKy6yznp7wPb1TeMqNwI) | 3:25 |
 | 80 | [No He Podido Olvidarte](https://open.spotify.com/track/2X2Xh2Cr97Wg0bgs7ZKQpR) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Vida Sinaloense](https://open.spotify.com/album/3vzcZsjleuBE5niZpNrK2e) | 3:02 |
 | 81 | [Estoy Listo](https://open.spotify.com/track/22AOx5ARj7PtFvYGG3OquK) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Estoy Listo](https://open.spotify.com/album/5l0ZVSptrcwNV1AkssAUd7) | 3:09 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 95 | [Frijoles Con Panela](https://open.spotify.com/track/1wxbTlwvzRp3thyCoexuUD) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 3:33 |
 | 96 | [Si Me Hubieras Oido](https://open.spotify.com/track/5LpItlraU0WzZqhH0FCHi5) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 3:50 |
 | 97 | [Se Volvió a Pelar Mi Apá](https://open.spotify.com/track/76wKy6yQjIJiMbuO0EQQsy) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 2:34 |
-| 98 | [Voy A Ser Breve](https://open.spotify.com/track/1NrkTltXfryaM38xymc3tn) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:02 |
-| 99 | [Vamos Bien](https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:20 |
+| 98 | [Vamos Bien](https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:20 |
+| 99 | [Voy A Ser Breve](https://open.spotify.com/track/1NrkTltXfryaM38xymc3tn) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:02 |
 | 100 | [No Me Pidas Un Tiempo](https://open.spotify.com/track/2Pkg9GrTgiMHXNG5oagxze) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 3:40 |
 
-Snapshot ID: `MCxhM2RlNTFmNDkyMDc1YjIwZDc4OTAxOWY1Njg0YmQyZDEwYjRlNzYx`
+Snapshot ID: `MCw4NDRkNGZiMTc4Y2ZhMjA5N2E3MGRhZmE0MGNkN2M0OTI2OTJjZTQ5`

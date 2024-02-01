@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > 😈 turn anywhere into a sexy club 😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,115 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,161 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 35 | [Cunty \- Wave Edit](https://open.spotify.com/track/5Dy9iOGAYzppHgWcLzZSBe) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [Box of Chocolates](https://open.spotify.com/album/1iIC7QKwsTtWNRV7NxfrK5) | 4:17 |
 | 36 | [Horsey](https://open.spotify.com/track/6QK2oI4RCtxzCWzyffwlPP) | [Alex Chapman](https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Horsey](https://open.spotify.com/album/7dlCLHgCNz5vyliNZf8XNv) | 2:17 |
 | 37 | [Comme Des Garçons \(Like The Boys\) \- Pabllo Vittar x Brabo Remix](https://open.spotify.com/track/5fMV4SvvtVNtVWar5qYgOl) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Brabo](https://open.spotify.com/artist/5K5J6RbtOXM5E39QQLhNKT) | [Comme Des Garçons \(Like The Boys\) \[Pabllo Vittar x Brabo Remix\]](https://open.spotify.com/album/0ED2oqDlTgP1bJgFSPaWwn) | 3:42 |
-| 38 | [Microdosing](https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing](https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW) | 3:58 |
-| 39 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 |
+| 38 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 |
+| 39 | [Microdosing](https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing](https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW) | 3:58 |
 | 40 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 |
 | 41 | [Feels Like](https://open.spotify.com/track/4MzOMQEv4DY79F1uKPWRMJ) | [MikeQ](https://open.spotify.com/artist/0H2tgKu7aoe1YVflaRWH6o), [Kevin Jz Prodigy](https://open.spotify.com/artist/6f7VuR9EQ1JqkWXqGwvVH5) | [Let It All Out EP](https://open.spotify.com/album/2n4OhDkh0yjrFimKqX9cFN) | 2:23 |
 | 42 | [Flip Phone](https://open.spotify.com/track/6OXN9vB93VDyD4TYAkbH1U) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Flip Phone](https://open.spotify.com/album/5aDvo88fakKfXfZ42frgX4) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 49 | [Bunny Is A Rider \- Doss Remix](https://open.spotify.com/track/2F869Vx93KD4Mtfnn1nOqH) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Bunny Is A Rider \(Remix\)](https://open.spotify.com/album/2cWjOKPkOxBKrkWeDyuHua) | 3:57 |
 | 50 | [Grab Dat Ass All Night](https://open.spotify.com/track/6SKDs0q95ZpmiVot0UYPVC) | [Kiddy.Wav](https://open.spotify.com/artist/4a0aeeAMBaJthFkE2A5QBW), [YTP](https://open.spotify.com/artist/1Y7DmQJicuaVo1OeQOWn6S) | [Level up My Skills](https://open.spotify.com/album/3hO7708tej9BhxYRzcsj4x) | 4:29 |
 
-Snapshot ID: `MCw0MGU2MmI0NjRiNDQ4ZmFmYmMyNTgxYmQzOGE0MWIxMzA1YTMxZjBh`
+Snapshot ID: `MCxmNjUzNmI4NzI5Y2NjYTM0YTUxNThiNDg0NGQ5MWMzYjI5ZjY1YmI5`

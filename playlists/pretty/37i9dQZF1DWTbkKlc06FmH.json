@@ -1,12 +1,12 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 126383,
+  "num_followers": 126418,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWYzODNhNmExYTZiMDY5MjJkMTIyZDlhZjIwMjFjNDE3ZDU1NjJm",
+  "snapshot_id": "MCwyMzEzMjI5ZDZhY2RkZjNkNzM3OGRlNDc3MjYzYTYxZTcwOWRlZTI4",
   "tracks": [
     {
       "added_at": "2024-01-30 15:00:00",
@@ -855,26 +855,6 @@
     {
       "added_at": "2024-01-30 15:00:00",
       "album": {
-        "name": "Lover/Friend",
-        "url": "https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "Lover/Friend",
-      "url": "https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP"
-    },
-    {
-      "added_at": "2024-01-30 15:00:00",
-      "album": {
         "name": "Two Tens (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 152371,
       "name": "Two Tens (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
+    },
+    {
+      "added_at": "2024-01-30 15:00:00",
+      "album": {
+        "name": "Lover/Friend",
+        "url": "https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Lover/Friend",
+      "url": "https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP"
     },
     {
       "added_at": "2024-01-30 15:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-01-30 15:00:00",
       "album": {
-        "name": "FULLCOLOR",
-        "url": "https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 255408,
-      "name": "Burning Friday Night",
-      "url": "https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V"
-    },
-    {
-      "added_at": "2024-01-30 15:00:00",
-      "album": {
         "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
         "url": "https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw"
       },
@@ -1287,30 +1271,18 @@
     {
       "added_at": "2024-01-30 15:00:00",
       "album": {
-        "name": "4EVA (feat. Pharrell Williams)",
-        "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
+        "name": "FULLCOLOR",
+        "url": "https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd"
       },
       "artists": [
         {
-          "name": "KAYTRAMIN\u00c9",
-          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
         }
       ],
-      "duration_ms": 190373,
-      "name": "4EVA (feat. Pharrell Williams)",
-      "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
+      "duration_ms": 255408,
+      "name": "Burning Friday Night",
+      "url": "https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V"
     },
     {
       "added_at": "2024-01-30 15:00:00",
@@ -1351,6 +1323,34 @@
       "duration_ms": 249946,
       "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
       "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
+    },
+    {
+      "added_at": "2024-01-30 15:00:00",
+      "album": {
+        "name": "4EVA (feat. Pharrell Williams)",
+        "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
+      },
+      "artists": [
+        {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "4EVA (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
     },
     {
       "added_at": "2024-01-30 15:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-01-30 15:00:00",
       "album": {
+        "name": "Marshmallow",
+        "url": "https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "duration_ms": 182321,
+      "name": "Marshmallow",
+      "url": "https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84"
+    },
+    {
+      "added_at": "2024-01-30 15:00:00",
+      "album": {
         "name": "LOVE ALL SERVE ALL",
         "url": "https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD"
       },
@@ -1443,42 +1459,6 @@
     {
       "added_at": "2024-01-30 15:00:00",
       "album": {
-        "name": "Marshmallow",
-        "url": "https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx"
-      },
-      "artists": [
-        {
-          "name": "MISAMO",
-          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
-        }
-      ],
-      "duration_ms": 182321,
-      "name": "Marshmallow",
-      "url": "https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84"
-    },
-    {
-      "added_at": "2024-01-30 15:00:00",
-      "album": {
-        "name": "I'm Sorry (ft. Lous and The Yakuza)",
-        "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Lous and The Yakuza",
-          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
-        }
-      ],
-      "duration_ms": 187282,
-      "name": "I'm Sorry (ft. Lous and The Yakuza)",
-      "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
-    },
-    {
-      "added_at": "2024-01-30 15:00:00",
-      "album": {
         "name": "Good Care",
         "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 194550,
       "name": "Good Care",
       "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
+    },
+    {
+      "added_at": "2024-01-30 15:00:00",
+      "album": {
+        "name": "I'm Sorry (ft. Lous and The Yakuza)",
+        "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        }
+      ],
+      "duration_ms": 187282,
+      "name": "I'm Sorry (ft. Lous and The Yakuza)",
+      "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
     },
     {
       "added_at": "2024-01-30 15:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-01-30 15:00:00",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 194962,
-      "name": "Keep It Rising",
-      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
-    },
-    {
-      "added_at": "2024-01-30 15:00:00",
-      "album": {
         "name": "Petals to Thorns",
         "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 181938,
       "name": "The Bridge",
       "url": "https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD"
+    },
+    {
+      "added_at": "2024-01-30 15:00:00",
+      "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "duration_ms": 194962,
+      "name": "Keep It Rising",
+      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
     },
     {
       "added_at": "2024-01-30 15:00:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2024-01-30 15:00:00",
       "album": {
+        "name": "Thinking of You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 272125,
+      "name": "Thinking of You (Spotify Singles)",
+      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
+    },
+    {
+      "added_at": "2024-01-30 15:00:00",
+      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39"
       },
@@ -1647,18 +1663,18 @@
     {
       "added_at": "2024-01-30 15:00:00",
       "album": {
-        "name": "Thinking of You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
+        "name": "First Love (2022 Mix)",
+        "url": "https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID"
       },
       "artists": [
         {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
         }
       ],
-      "duration_ms": 272125,
-      "name": "Thinking of You (Spotify Singles)",
-      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
+      "duration_ms": 261122,
+      "name": "First Love - 2022 Mix",
+      "url": "https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70"
     },
     {
       "added_at": "2024-01-30 15:00:00",
@@ -1675,22 +1691,6 @@
       "duration_ms": 259200,
       "name": "\u77b3\u60da\u308c",
       "url": "https://open.spotify.com/track/5ZqO8UI3rELw35xCb8oF7c"
-    },
-    {
-      "added_at": "2024-01-30 15:00:00",
-      "album": {
-        "name": "First Love (2022 Mix)",
-        "url": "https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 261122,
-      "name": "First Love - 2022 Mix",
-      "url": "https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70"
     },
     {
       "added_at": "2024-01-30 15:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-01-30 15:00:00",
       "album": {
-        "name": "The Sun Is Up Forever",
-        "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 224739,
-      "name": "The Sun Is Up Forever",
-      "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
-    },
-    {
-      "added_at": "2024-01-30 15:00:00",
-      "album": {
         "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
         "url": "https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk"
       },
@@ -1823,22 +1807,34 @@
     {
       "added_at": "2024-01-30 15:00:00",
       "album": {
-        "name": "Marking My Time (BADBADNOTGOOD Edit)",
-        "url": "https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz"
+        "name": "The Sun Is Up Forever",
+        "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
       },
       "artists": [
         {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
         }
       ],
-      "duration_ms": 252503,
-      "name": "Marking My Time - BADBADNOTGOOD Edit",
-      "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
+      "duration_ms": 224739,
+      "name": "The Sun Is Up Forever",
+      "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
+    },
+    {
+      "added_at": "2024-01-30 15:00:00",
+      "album": {
+        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 254291,
+      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
     }
   ],
   "unique_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",

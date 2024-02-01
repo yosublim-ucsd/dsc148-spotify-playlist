@@ -4,7 +4,7 @@
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-103 songs - 5 hr 28 min
+104 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Back to Hell](https://open.spotify.com/track/6xUF7fIIBlMKTCGu1x5s8p) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY) | 2:54 | 2022-09-16 | 2023-12-14 |
 | [Bad Time](https://open.spotify.com/track/3ybguBEEMkpKz07SBefKW3) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Bad Time](https://open.spotify.com/album/3QgyHF06SLRbdwjk1cBxty) | 2:55 | 2023-12-13 |  |
 | [Blackbird](https://open.spotify.com/track/4xQa40wrBDGrIyt3GpHlU1) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 3:20 | 2022-09-16 |  |
-| [Blood, Hair, And Eyeballs](https://open.spotify.com/track/6dYtCV39bCt10NMfzgOdtA) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Blood, Hair, And Eyeballs](https://open.spotify.com/album/5oXZKwnlG0mYFrjKYzYf92) | 3:00 | 2023-11-10 |  |
+| [Blood, Hair, And Eyeballs](https://open.spotify.com/track/0fYrJmSbKcBgRZAno8Jkns) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Blood, Hair, And Eyeballs](https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs) | 3:00 | 2024-01-31 |  |
+| [Blood, Hair, And Eyeballs](https://open.spotify.com/track/6dYtCV39bCt10NMfzgOdtA) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Blood, Hair, And Eyeballs](https://open.spotify.com/album/5oXZKwnlG0mYFrjKYzYf92) | 3:00 | 2023-11-10 | 2024-02-01 |
 | [Blue in the Face](https://open.spotify.com/track/6eo0pGSL1WVhZQjUfqix5M) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l) | 3:02 | 2022-09-16 | 2023-05-21 |
 | [Break](https://open.spotify.com/track/4447WSwIe8Q9LNKIh7kZDQ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Blood, Hair, And Eyeballs](https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs) | 3:23 | 2024-01-27 |  |
 | [Broken Down In A Time Machine](https://open.spotify.com/track/2eOCC4Dd8kjSoCz9pyDLqZ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Blood, Hair, And Eyeballs](https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs) | 3:03 | 2024-01-27 |  |
@@ -44,7 +45,7 @@
 | [Hell Yes](https://open.spotify.com/track/16dxfNNlbUJnKQdt6uRt8l) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz) | 3:49 | 2023-12-13 |  |
 | [Hell Yes](https://open.spotify.com/track/6J7SJqAZa4eFvoFCsKhsvb) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H) | 3:49 | 2022-09-16 | 2023-12-14 |
 | [Help Me](https://open.spotify.com/track/1Fy9hQQLek2UpOYUEPjiYn) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony](https://open.spotify.com/album/2kmTbt2NyJsx4x0GnZ4uBH) | 3:44 | 2022-09-16 |  |
-| [Hinterlude](https://open.spotify.com/track/0pnjNqxKXy9dn46lac5VnQ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Blood, Hair, And Eyeballs](https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs) | 1:05 | 2024-01-27 |  |
+| [Hinterlude](https://open.spotify.com/track/0pnjNqxKXy9dn46lac5VnQ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Blood, Hair, And Eyeballs](https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs) | 1:05 | 2024-01-27 | 2024-02-01 |
 | [Hot For Preacher](https://open.spotify.com/track/1UcN0LPyGfmprtp5PlivjG) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Blood, Hair, And Eyeballs](https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs) | 3:45 | 2024-01-27 |  |
 | [I Can't Believe](https://open.spotify.com/track/0YqdsM9x9NtKUfwqooo6iV) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 4:01 | 2022-09-16 |  |
 | [I Found a Way](https://open.spotify.com/track/3SW1iJWxeVKTn32gL76srO) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [I Found a Way](https://open.spotify.com/album/5Dv4BNIrxowlDyal7reMwy) | 3:45 | 2022-09-16 |  |
@@ -93,7 +94,7 @@
 | [Take Lots with Alcohol](https://open.spotify.com/track/415ZhkOYcKRuV6SbRmGTnS) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh) | 3:13 | 2023-12-13 |  |
 | [The Poison](https://open.spotify.com/track/2uO0Rd59JF7D1pWBUwEWKg) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F) | 2:04 | 2023-12-13 |  |
 | [The Poison](https://open.spotify.com/track/5QzERXHiIcYXbs3EolGdJF) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY) | 2:04 | 2022-09-16 | 2023-12-14 |
-| [The Torture Doctor](https://open.spotify.com/track/6sEggmTY2zxpmni8QdCYQp) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 3:37 | 2022-11-06 | 2024-01-28 |
+| [The Torture Doctor](https://open.spotify.com/track/6sEggmTY2zxpmni8QdCYQp) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 3:37 | 2022-11-06 |  |
 | [This Addiction](https://open.spotify.com/track/1D7mtUg27dzLEfDH8vDubE) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [This Addiction](https://open.spotify.com/album/4wJjPJqEFDWbEK1UTLP4Da) | 2:34 | 2023-01-19 | 2023-05-08 |
 | [This Addiction](https://open.spotify.com/track/2LI6D6z57Lq2QTQH6Tgsz0) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [This Addiction \(Deluxe Edition\)](https://open.spotify.com/album/4otoRgtApYRPsuxrW3Xaxj) | 2:34 | 2022-09-16 |  |
 | [This Addiction](https://open.spotify.com/track/2sTiGv2fPnxqH3igvfnaVf) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [This Addiction](https://open.spotify.com/album/3CI0i4QZjGBYgA9ZdCunTu) | 2:34 | 2023-01-15 | 2023-02-01 |

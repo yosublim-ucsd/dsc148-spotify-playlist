@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Tizzo, Shreez, Le Ice, Salgrimo, Peeda
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,780 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,773 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Croise les doigts](https://open.spotify.com/track/73YvE9CbBiaagW1480dG1T) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Salgrimo](https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE), [Peeda](https://open.spotify.com/artist/7qz5rVVo7GjgNMUzJRfUy4) | [Croise les doigts](https://open.spotify.com/album/22Fy2sn2vAdr7U2NUsk36t) | 3:30 |
+| 1 | [Croise les doigts](https://open.spotify.com/track/73YvE9CbBiaagW1480dG1T) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Salgrimo](https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE), [Peeda](https://open.spotify.com/artist/5ss8XbfkdgN1sTdgyPp6Ed) | [Croise les doigts](https://open.spotify.com/album/22Fy2sn2vAdr7U2NUsk36t) | 3:30 |
 | 2 | [Prime](https://open.spotify.com/track/7E9hKUhfpbm4CNnlSdP407) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [Prime](https://open.spotify.com/album/2Nd1U9DsZdDmTYbjuQ7ZwP) | 2:58 |
 | 3 | [21 Grammes](https://open.spotify.com/track/7kYuLvNGvmr0epI0sUmVdv) | [Joe Rocca](https://open.spotify.com/artist/02nyUoWQbKuMviHAb3PSmi) | [Focus / 21 Grammes](https://open.spotify.com/album/0bZwYhsQX0JtWp5v3yeW4B) | 2:59 |
 | 4 | [Dégâts](https://open.spotify.com/track/756EjIt63zjvcdx5jH6dKy) | [Trappo officiel](https://open.spotify.com/artist/2qAQAxmoafsvNVp31ROnaE) | [Dégâts](https://open.spotify.com/album/2aOsyHYIRMMhEDwc6mFYbR) | 2:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Tout est bon](https://open.spotify.com/track/3ewz0r9BwB0cbZ4Clleho6) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Tout est bon](https://open.spotify.com/album/2s0srAo1r2xhPVtxbsarKA) | 3:16 |
 | 75 | [Mission Nocturne](https://open.spotify.com/track/7g1sKd5TXXMMVTaBlssG2U) | [Dextee](https://open.spotify.com/artist/2T0593JGcrLxhxTwHXaWiE) | [Mission Nocturne](https://open.spotify.com/album/3tKvDoCb5VgKj7lQZO50Bc) | 2:40 |
 
-Snapshot ID: `MCxkOGNlZGNkMWZmZjYwYmEwMDJhZmMxMDk3YTg1OWM3MDYyZDQzOWRl`
+Snapshot ID: `MCwzMmZkMzVjY2NhYjk1YjI5Y2JjNWIxOThmODUwMzQ1NzNiNjU0YTM1`

@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-165 songs - 8 hr 41 min
+166 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Lumiere](https://open.spotify.com/track/3hwdOeUfiDpXZi7hNzM1Ho) | [Deep Vibrations](https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3) | [Lumiere](https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3) | 2:48 | 2023-05-19 |  |
 | [Luminescent](https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Luminescent](https://open.spotify.com/album/64UGm861qokqOZbmpjR6du) | 4:24 | 2021-12-09 | 2023-10-06 |
 | [Lumineux](https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz) | [Alice Rolande](https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC) | [Lumineux](https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt) | 3:37 | 2021-12-09 |  |
+| [Luna](https://open.spotify.com/track/4WukGsbJZHciloJygVdG63) | [Nicoló Lorenzo](https://open.spotify.com/artist/01xttXNtYB50iJNkglJgXt) | [Tranquillo](https://open.spotify.com/album/6Ii8nqRSP1GXwaYx2Zl1sQ) | 2:11 | 2024-01-31 |  |
 | [Maitri Lake \(432hz\)](https://open.spotify.com/track/5dXCkj7h7B1Hg4MwTHcixd) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Maitri Lake \(432hz\)](https://open.spotify.com/album/71rEntjg6kz31bN6xUrAHe) | 3:43 | 2021-12-09 | 2022-08-18 |
 | [Masandra Turnings](https://open.spotify.com/track/24QVOrVKmWaFGcWKX9zoyI) | [Tribal Tranquility](https://open.spotify.com/artist/3kqCmBNUxv4gydsfojdTgS) | [Masandra Turnings](https://open.spotify.com/album/4qgEEqId4Jt9s8keIpKv26) | 2:46 | 2021-12-09 | 2022-10-08 |
 | [Meditations](https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE) | [Drift Far Away](https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2) | [Open Sky](https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD) | 4:27 | 2021-12-09 |  |
@@ -140,7 +141,7 @@
 | [Stilhed](https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Stilhed](https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk) | 3:19 | 2022-02-03 |  |
 | [Stillness](https://open.spotify.com/track/4gOVrbGk2sgI9PBrdkLrxF) | [SARAB](https://open.spotify.com/artist/6PM7BEoNAzJtH7BRBgagYI) | [Stillness](https://open.spotify.com/album/7j2hlueaoCGNl43jWdtB3c) | 3:00 | 2021-12-09 | 2022-07-29 |
 | [Strings of Light](https://open.spotify.com/track/7pLqzJr6EA7gFm6hAeYxD9) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Rivers of Relief](https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr) | 4:55 | 2021-12-09 |  |
-| [Such Owls As You](https://open.spotify.com/track/3EIrbAYM18GhcimENnuO91) | [Brambles](https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX) | [Charcoal](https://open.spotify.com/album/6wIw0on4JGm2gdtfSs0h9f) | 5:29 | 2022-07-22 |  |
+| [Such Owls As You](https://open.spotify.com/track/3EIrbAYM18GhcimENnuO91) | [Brambles](https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX) | [Charcoal](https://open.spotify.com/album/6wIw0on4JGm2gdtfSs0h9f) | 5:29 | 2022-07-22 | 2024-02-01 |
 | [Such Owls as You](https://open.spotify.com/track/7ElBpYr2PlZv7cNXqTzFlj) | [Brambles](https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX) | [Charcoal: Expanded Edition](https://open.spotify.com/album/7vwa64qkpa87rh4eWSR6Ab) | 5:29 | 2021-12-09 | 2022-07-29 |
 | [Suhpratti](https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J) | [Parazal](https://open.spotify.com/artist/2pzqJbgQgvg3gPscGb6S49) | [Hum](https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK) | 3:06 | 2021-12-09 | 2023-07-01 |
 | [Sunny & Cloudy](https://open.spotify.com/track/26lZ3W0igUyTsLdXVFPcf0) | [Hans Wolfgang Ziegler](https://open.spotify.com/artist/66wCtsoRnWiSmoHSvXPK5m) | [The Seasons](https://open.spotify.com/album/5N9ne8TG9Zi6tTn861vTgF) | 2:17 | 2022-03-25 |  |

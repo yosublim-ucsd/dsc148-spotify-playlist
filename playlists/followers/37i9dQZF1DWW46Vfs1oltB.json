@@ -1,7 +1,7 @@
 {
-  "2024-01-31": 521007,
+  "2024-02-01": 521235,
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover: Dabin(\ud64d\ub2e4\ube48)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ud799\ud569 \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover: Changmo(\ucc3d\ubaa8)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ud799\ud569 \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "KrOWN",
   "tracks": [
     {
@@ -7546,6 +7546,24 @@
     },
     {
       "album": {
+        "name": "Wonderful Days",
+        "url": "https://open.spotify.com/album/2N63pqJIn1Ro8yIbwV54Gh"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217346,
+      "name": "FWB",
+      "url": "https://open.spotify.com/track/5qqWmtBkXylOHp8aUWsTuA"
+    },
+    {
+      "album": {
         "name": "G.O.N.Z.O",
         "url": "https://open.spotify.com/album/0Nn3aam1ECOiNpDdoQvrRI"
       },
@@ -9269,6 +9287,24 @@
       "duration_ms": 229888,
       "name": "Heels",
       "url": "https://open.spotify.com/track/4x6nunPhR0Clk682Vi2N4Y"
+    },
+    {
+      "album": {
+        "name": "Wonderful Days",
+        "url": "https://open.spotify.com/album/2N63pqJIn1Ro8yIbwV54Gh"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138106,
+      "name": "HELIOT EMIL",
+      "url": "https://open.spotify.com/track/2iSkLo11WjyzRVdxeSMkCf"
     },
     {
       "album": {
@@ -17332,6 +17368,32 @@
     },
     {
       "album": {
+        "name": "Wonderful Days",
+        "url": "https://open.spotify.com/album/2N63pqJIn1Ro8yIbwV54Gh"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "Street Baby",
+          "url": "https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim"
+        },
+        {
+          "name": "KOR KASH",
+          "url": "https://open.spotify.com/artist/6opErDv4ZN3ZgbaovBUStM"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "PURE RAGE (Feat. Street Baby, KOR KASH)",
+      "url": "https://open.spotify.com/track/2eBaP0SbVtKAnXvJ56OLZT"
+    },
+    {
+      "album": {
         "name": "pushin B",
         "url": "https://open.spotify.com/album/70NNetvONciMmAevodUUlH"
       },
@@ -20995,6 +21057,104 @@
       "duration_ms": 180000,
       "name": "Talk Money (With. Don Mills) (Prod. Wiz World)",
       "url": "https://open.spotify.com/track/3eMt7gWvfL9XZzc0WMw3qK"
+    },
+    {
+      "album": {
+        "name": "Monthly AP - January, 2024",
+        "url": "https://open.spotify.com/album/76kFD0LSYpBUh19b11X6Iz"
+      },
+      "artists": [
+        {
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+        },
+        {
+          "name": "Nochang",
+          "url": "https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO"
+        },
+        {
+          "name": "CHERRY BOY 17",
+          "url": "https://open.spotify.com/artist/0jxGPRjBD9ofybNRoB14dc"
+        },
+        {
+          "name": "XWALLY",
+          "url": "https://open.spotify.com/artist/00coXuyGdZbUVSCRFaDGbx"
+        },
+        {
+          "name": "Saint Pablo",
+          "url": "https://open.spotify.com/artist/4bQ8TomvPzE2t8taFNpG03"
+        },
+        {
+          "name": "Skyminhyuk",
+          "url": "https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM"
+        },
+        {
+          "name": "Don Mills",
+          "url": "https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn"
+        },
+        {
+          "name": "KIMISWILD",
+          "url": "https://open.spotify.com/artist/0A1Qu1Xa6kgKD1U71jdl7D"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "YLN Foreign",
+          "url": "https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl"
+        },
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "Myundo",
+          "url": "https://open.spotify.com/artist/0SjHcY2YHQyCUCiYSZsPZg"
+        },
+        {
+          "name": "kweeel",
+          "url": "https://open.spotify.com/artist/4W4TBHaPbtdJrXapmnUTdO"
+        },
+        {
+          "name": "M1NU",
+          "url": "https://open.spotify.com/artist/2JDfkwLPoHoH1EKw6Og6uH"
+        },
+        {
+          "name": "44MAGNUMB",
+          "url": "https://open.spotify.com/artist/66u2mp8mtMEOUH2TWWr98O"
+        },
+        {
+          "name": "Vapo",
+          "url": "https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t"
+        },
+        {
+          "name": "DAMINI",
+          "url": "https://open.spotify.com/artist/1yNIinWsNuQUyXJsqnmaLh"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        },
+        {
+          "name": "YS Block",
+          "url": "https://open.spotify.com/artist/2aAPX4v8MAh1oPWiDKfBM2"
+        },
+        {
+          "name": "Huh",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        },
+        {
+          "name": "shinjihang",
+          "url": "https://open.spotify.com/artist/6LGvFSi2nlVrapbgljktyj"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 774613,
+      "name": "Talk Money MEGA Mix (Prod. Wiz World)",
+      "url": "https://open.spotify.com/track/6DJpnE5UQZi7zIZIVYwnMe"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Pressa
 
-1,342 songs - 2 day 14 hr 6 min
+1,343 songs - 2 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,8 @@
 | [Facts](https://open.spotify.com/track/2wdXG86Ikdyau12PPOgvAb) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J), [King Benz](https://open.spotify.com/artist/7rt1yOeiqSCRRPJwmxHRK4) | [Facts](https://open.spotify.com/album/6eIYvJJYTQxcJZzCYz5z6K) | 3:30 | 2023-08-11 | 2023-09-23 |
 | [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 | 2022-01-07 | 2022-02-19 |
 | [Fake Love](https://open.spotify.com/track/33mNDcTmeCtV96Xcc5YUgM) | [K\-Cuzz](https://open.spotify.com/artist/7IS5AUXckTl6AThH10aSR0) | [Eyes On Me](https://open.spotify.com/album/500tV5hhb6NPj6RWq3BxQ8) | 2:25 | 2023-04-21 | 2023-06-17 |
-| [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/track/3w7AzChjtAtjLvVQll2Mjf) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/album/2qYeK1QWdV9oMmYSzWzy6v) | 3:20 | 2023-08-04 |  |
+| [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/track/3w7AzChjtAtjLvVQll2Mjf) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/album/2qYeK1QWdV9oMmYSzWzy6v) | 3:20 | 2023-08-04 | 2024-02-01 |
+| [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/track/4di3AFoecpRWM8m3fHYOm5) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Different Breed](https://open.spotify.com/album/2KVEGCt9y66zw0wA1KLd0o) | 3:20 | 2024-01-26 |  |
 | [Fallen Angel \(Freestyle\)](https://open.spotify.com/track/3CZdE15TmzacnzqcEn2nwG) | [Ashton](https://open.spotify.com/artist/5o6VVK6MYis7rpuHp6xs6A) | [Playboy Sent You Too](https://open.spotify.com/album/5iuBGIw3zOOV4wbJKgrtuA) | 2:35 | 2023-09-08 | 2023-12-02 |
 | [FALLEN STAR \(feat\. Y2K\)](https://open.spotify.com/track/2e3XcLWd1SzB5jlJu53blm) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL), [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx) | [FALLEN STAR \(feat\. Y2K\)](https://open.spotify.com/album/25mw8OfaL2uShDPDb9Oieg) | 2:31 | 2022-04-29 | 2022-09-10 |
 | [False Idols \(with Lil Baby, Suzanna Son\)](https://open.spotify.com/track/6cViXqp01e3FrAaseuiSAV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Suzanna Son](https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A) | [The Idol Episode 5 Part 1 \(Music from the HBO Original Series\)](https://open.spotify.com/album/4q3wUuIReEjGSYzmSsxtl6) | 4:22 | 2023-07-04 |  |

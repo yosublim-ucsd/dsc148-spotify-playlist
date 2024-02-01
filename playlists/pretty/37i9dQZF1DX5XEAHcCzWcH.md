@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,137 likes - 66 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,173 likes - 66 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 27 | [Booker's Boogie](https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [Blues On The Prowl](https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N) | 3:37 |
 | 28 | [None of My Jelly Roll](https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk) | [Sweet Emma Barrett](https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk) | [Her New Orleans Music](https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE) | 3:45 |
 | 29 | [Some Nerve](https://open.spotify.com/track/6VD8KPBkAg3FR4tFjiuuCa) | [Detroit Junior](https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 3:05 |
-| 30 | [One For The Highway](https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Classified \(Remixed & Expanded Edition\)](https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo) | 2:34 |
-| 31 | [Papa's on the House Top](https://open.spotify.com/track/2O36OWzPpO7qg7CxdmPtN3) | [Leroy Carr](https://open.spotify.com/artist/2FtoVJBkfbE89zyZJ0E9eR) | [The Essential Leroy Carr](https://open.spotify.com/album/02k5tV3zpF2khwjxro1oUT) | 2:55 |
-| 32 | [Country Girl](https://open.spotify.com/track/7sZIzMl4D1WUEFjNZA6FJL) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55), [Calvin "fuzz" Jones](https://open.spotify.com/artist/5zQ0mnqRSt39lqzodnSIMb), [Willie "Big Eyes" Smith](https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng) | [Eye to Eye](https://open.spotify.com/album/7j9tdbLMzhbDlo7qA1ZE7q) | 4:48 |
+| 30 | [Country Girl](https://open.spotify.com/track/7sZIzMl4D1WUEFjNZA6FJL) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55), [Calvin "fuzz" Jones](https://open.spotify.com/artist/5zQ0mnqRSt39lqzodnSIMb), [Willie "Big Eyes" Smith](https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng) | [Eye to Eye](https://open.spotify.com/album/7j9tdbLMzhbDlo7qA1ZE7q) | 4:48 |
+| 31 | [One For The Highway](https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Classified \(Remixed & Expanded Edition\)](https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo) | 2:34 |
+| 32 | [Papa's on the House Top](https://open.spotify.com/track/2O36OWzPpO7qg7CxdmPtN3) | [Leroy Carr](https://open.spotify.com/artist/2FtoVJBkfbE89zyZJ0E9eR) | [The Essential Leroy Carr](https://open.spotify.com/album/02k5tV3zpF2khwjxro1oUT) | 2:55 |
 | 33 | [It Hurts Me Too](https://open.spotify.com/track/59OhaqAccfavOAymsUSk4W) | [Bruce Katz](https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57) | [Solo Ride](https://open.spotify.com/album/7jeC6jeaPD5DlVjYkekS29) | 3:45 |
-| 34 | [Key to the Highway](https://open.spotify.com/track/0KmVzmqMXi24EusC3MwlBB) | [Johnnie Johnson](https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY) | [Johnnie B\. Bad](https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD) | 3:22 |
-| 35 | [Ain't Nobody's Business](https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b) | 5:15 |
+| 34 | [Ain't Nobody's Business](https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b) | 5:15 |
+| 35 | [Key to the Highway](https://open.spotify.com/track/0KmVzmqMXi24EusC3MwlBB) | [Johnnie Johnson](https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY) | [Johnnie B\. Bad](https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD) | 3:22 |
 | 36 | [New York City Blues](https://open.spotify.com/track/5dI7AFyk5idEj94ra4F5Y8) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Afterglow](https://open.spotify.com/album/6AWwvurjj21QEBbOucDWUQ) | 4:00 |
 | 37 | [Somebody To Shack](https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN) | [Detroit Junior](https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 5:22 |
 | 38 | [Take It Easy](https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC) | [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Down In Mississippi](https://open.spotify.com/album/0QWm32Qy7kRhGzhms5EtKH) | 3:43 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 52 | [Early in the Morning](https://open.spotify.com/track/6LnP6nCXhVeRtDaKJU1omH) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [Blues Routes: Heroes and Tricksters: Blues and Jazz Work Songs and Street Music](https://open.spotify.com/album/3fJ4RbYBvlLsdSVDnK23Gb) | 3:05 |
 | 53 | [Pinetop](https://open.spotify.com/track/4Nziu79KIsKHe7rkfvcPLn) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Plays Mac Rebennack](https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS) | 3:11 |
 | 54 | [Whistling Alex Moore's Blues](https://open.spotify.com/track/3HMJk1q9EfFSvvDPxqhAte) | [Alex Moore](https://open.spotify.com/artist/7xy38VWf17uAjb1ZOSJGq1) | [From North Dallas to the East Side](https://open.spotify.com/album/0y2COhaSasf9M8hQ0JwKb9) | 3:07 |
-| 55 | [Rockin' with Red \- Remastered 2002](https://open.spotify.com/track/3mowmsy7MT5qN2OQhHlRRp) | [Piano Red](https://open.spotify.com/artist/49vobYCMWUndxJNbtewRsx) | [That's All Right \(When the Sun Goes Down series\)](https://open.spotify.com/album/2Q9GxfO9hi6egkygYvdAX3) | 2:30 |
-| 56 | [Pocketful Of Money](https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY) | [Roosevelt Sykes](https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5) | [The Honeydripper](https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm) | 2:32 |
+| 55 | [Pocketful Of Money](https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY) | [Roosevelt Sykes](https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5) | [The Honeydripper](https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm) | 2:32 |
+| 56 | [Rockin' with Red \- Remastered 2002](https://open.spotify.com/track/3mowmsy7MT5qN2OQhHlRRp) | [Piano Red](https://open.spotify.com/artist/49vobYCMWUndxJNbtewRsx) | [That's All Right \(When the Sun Goes Down series\)](https://open.spotify.com/album/2Q9GxfO9hi6egkygYvdAX3) | 2:30 |
 | 57 | [West Side Woman](https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm) | [Lovie Lee](https://open.spotify.com/artist/6cOz9TMiL8lfsFoWkxvqKM) | [Good Candy](https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea) | 6:32 |
 | 58 | [Boot That Thing](https://open.spotify.com/track/5rwqwMmEWAqwRTDyUKba0u) | [Ken Saydak](https://open.spotify.com/artist/3CbqTmz4MT9cGAUZsGeFbJ) | [Tribute: Delmark's 65th Anniversary](https://open.spotify.com/album/7mtoUrLaCBwUODx3QwqlUi) | 4:00 |
 | 59 | [Dices Blues](https://open.spotify.com/track/1SpInnSzoo1rAKv0BNQyrC) | [Big Chief Ellis](https://open.spotify.com/artist/1wVEYaqTmGsl3i7np7xQjW) | [Classic Piano Blues from Smithsonian Folkways](https://open.spotify.com/album/2v3tVwUhutMHIHeUd8lFaL) | 4:58 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 65 | [I'll Be Right Some Day](https://open.spotify.com/track/3OpoVrckZ1J2IhAri7bWKl) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:26 |
 | 66 | [Train](https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C) | [Victor Wainwright](https://open.spotify.com/artist/5iXJjikLdfxrmqGkdyW5C9) | [Victor Wainwright and the Train](https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p) | 3:35 |
 
-Snapshot ID: `MCwzZDE1ZGM0OTNiOWY5NGMxZjc3ZGY1Y2M3NmViMmM2NmJkMTRmMmVj`
+Snapshot ID: `MCw2OGFmODRjNGUzZmIzNGZiOWRmMTg5MWZkMDUxNjNjYjdkZjc0MjEy`

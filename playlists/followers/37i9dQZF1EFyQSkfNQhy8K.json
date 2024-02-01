@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 3692,
+  "2024-02-01": 3691,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm\">ELENA ROSE</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By ELENA ROSE",
@@ -178,6 +178,28 @@
     },
     {
       "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160212,
+      "name": "Bar",
+      "url": "https://open.spotify.com/track/7cfJzUd54EOFRCw08o0KHp"
+    },
+    {
+      "album": {
         "name": "Bar (Video Oficial)",
         "url": "https://open.spotify.com/album/10umHXGV69rBpH1LidvN9M"
       },
@@ -193,7 +215,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 161088,
       "name": "Bar",
       "url": "https://open.spotify.com/track/4fzovrhJfRdMH8P3WtFuWL"
@@ -1341,10 +1363,36 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 190666,
       "name": "La Loto",
       "url": "https://open.spotify.com/track/4mZc6BrwqprAP2kKWvYovS"
+    },
+    {
+      "album": {
+        "name": "La Loto (Video Oficial)",
+        "url": "https://open.spotify.com/album/6F2fMa2AOUoUXGUgwpJyNd"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191040,
+      "name": "La Loto",
+      "url": "https://open.spotify.com/track/774SI7d64XRYNzpwKf1fds"
     },
     {
       "album": {
@@ -1726,6 +1774,24 @@
     },
     {
       "album": {
+        "name": "My Man",
+        "url": "https://open.spotify.com/album/2ijwTbKXn46QZEfekW01fC"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177424,
+      "name": "My Man",
+      "url": "https://open.spotify.com/track/3jLVBJpnTVkBHMWXHZAa3F"
+    },
+    {
+      "album": {
         "name": "My Man (Official Video)",
         "url": "https://open.spotify.com/album/6OeqW2pvP4fBQOWlrusH8i"
       },
@@ -1737,7 +1803,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 182911,
       "name": "My Man",
       "url": "https://open.spotify.com/track/5XywStajT8EUnJefYwZP6C"
@@ -1993,10 +2059,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 157767,
       "name": "Party En Mi Casa",
       "url": "https://open.spotify.com/track/7CdCBGe3mOkOdbH2qT7EGK"
+    },
+    {
+      "album": {
+        "name": "Party En Mi Casa (Official Video)",
+        "url": "https://open.spotify.com/album/2G0QdYZx8QXxjbWvjsqGss"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Party En Mi Casa",
+      "url": "https://open.spotify.com/track/4zz8TmDnxh74GXdA7oPElH"
     },
     {
       "album": {
@@ -2211,10 +2295,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 165164,
       "name": "QueLoQue",
       "url": "https://open.spotify.com/track/4hGaCU1w2hDNk0rTU7wD9F"
+    },
+    {
+      "album": {
+        "name": "Music Is The Weapon",
+        "url": "https://open.spotify.com/album/5sfr7pnsTBW9wcQPbxuitJ"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165176,
+      "name": "QueLoQue (feat. Paloma Mami)",
+      "url": "https://open.spotify.com/track/7em97lNMDo7LbIZ4Ys5TqV"
     },
     {
       "album": {
@@ -2273,10 +2379,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 200706,
       "name": "Ram Pam Pam",
       "url": "https://open.spotify.com/track/730gfBUwEpyruhbSvDuytR"
+    },
+    {
+      "album": {
+        "name": "Ram Pam Pam (Official Video)",
+        "url": "https://open.spotify.com/album/5fpIZx8Sa7X29adWZPv7IB"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219349,
+      "name": "Ram Pam Pam",
+      "url": "https://open.spotify.com/track/5sXcSQbllmz3lOcNneD1ap"
     },
     {
       "album": {
@@ -2520,6 +2648,24 @@
     },
     {
       "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/5h4uKGYvz5GaiELX8AZLXb"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185026,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/1Va8p5BsNByFjzx0cUxj2Q"
+    },
+    {
+      "album": {
         "name": "Dharma",
         "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
@@ -2531,7 +2677,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 186013,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/7gVW4nW63TH4kjCc66j0c2"

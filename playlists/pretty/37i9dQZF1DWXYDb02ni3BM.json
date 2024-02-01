@@ -1,12 +1,12 @@
 {
   "description": "Las divas del pop latino de ayer y hoy. Foto: Alejandra Guzm\u00e1n",
-  "num_followers": 161040,
+  "num_followers": 161099,
   "original_name": "Mujeres del Pop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDY5NDY5MTcyZjU1M2M4ZTgzYWRhMTk3ZGU3NGQ1Nzk1YzIxOWVi",
+  "snapshot_id": "MCxmZmM5MzJmMzBjN2QwMTMzYWVlM2Q5NjlmZWZlOWI3ZmY5YjU0MGZm",
   "tracks": [
     {
       "added_at": "2024-01-18 22:18:29",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-01-18 22:18:29",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "El Chico Del Apartamento 512",
-      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
-    },
-    {
-      "added_at": "2024-01-18 22:18:29",
-      "album": {
         "name": "Escucha",
         "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
       },
@@ -499,6 +483,22 @@
     {
       "added_at": "2024-01-18 22:18:29",
       "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "El Chico Del Apartamento 512",
+      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
+    },
+    {
+      "added_at": "2024-01-18 22:18:29",
+      "album": {
         "name": "SIE7E +",
         "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },
@@ -511,6 +511,58 @@
       "duration_ms": 182600,
       "name": "Mala Fama",
       "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
+    },
+    {
+      "added_at": "2024-01-18 22:18:29",
+      "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/041Kcvnw8nOdq8xiRibPTG"
+    },
+    {
+      "added_at": "2024-01-18 22:18:29",
+      "album": {
+        "name": "Enferma de Ti",
+        "url": "https://open.spotify.com/album/1npJvvG1jiUHvgGXqUt9ME"
+      },
+      "artists": [
+        {
+          "name": "Valen Madanes",
+          "url": "https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW"
+        }
+      ],
+      "duration_ms": 182250,
+      "name": "Enferma de Ti",
+      "url": "https://open.spotify.com/track/2C0rLDOOXP8Ns54fK5KWBC"
+    },
+    {
+      "added_at": "2024-01-18 22:18:29",
+      "album": {
+        "name": "HA-ASH Primera Fila - Hecho Realidad",
+        "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 247760,
+      "name": "Ex de Verdad - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
+      "url": "https://open.spotify.com/track/40lU8uy8xKKRAP9A1N3BqH"
     },
     {
       "added_at": "2024-01-18 22:18:29",
@@ -551,58 +603,6 @@
       "duration_ms": 219520,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA"
-    },
-    {
-      "added_at": "2024-01-18 22:18:29",
-      "album": {
-        "name": "Enferma de Ti",
-        "url": "https://open.spotify.com/album/1npJvvG1jiUHvgGXqUt9ME"
-      },
-      "artists": [
-        {
-          "name": "Valen Madanes",
-          "url": "https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW"
-        }
-      ],
-      "duration_ms": 182250,
-      "name": "Enferma de Ti",
-      "url": "https://open.spotify.com/track/2C0rLDOOXP8Ns54fK5KWBC"
-    },
-    {
-      "added_at": "2024-01-18 22:18:29",
-      "album": {
-        "name": "HA-ASH Primera Fila - Hecho Realidad",
-        "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 247760,
-      "name": "Ex de Verdad - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
-      "url": "https://open.spotify.com/track/40lU8uy8xKKRAP9A1N3BqH"
-    },
-    {
-      "added_at": "2024-01-18 22:18:29",
-      "album": {
-        "name": "Baila",
-        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Destino",
-      "url": "https://open.spotify.com/track/041Kcvnw8nOdq8xiRibPTG"
     },
     {
       "added_at": "2024-01-18 22:18:29",

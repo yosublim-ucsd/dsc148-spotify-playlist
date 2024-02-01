@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 211522,
+  "2024-02-01": 211512,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Taiwan.",
   "name": "Top 50 - Taiwan",
@@ -7410,6 +7410,24 @@
     },
     {
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152186,
+      "name": "Super Lady",
+      "url": "https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U"
+    },
+    {
+      "album": {
         "name": "NewJeans 'Super Shy'",
         "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
       },
@@ -8468,6 +8486,24 @@
     },
     {
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121226,
+      "name": "Wife",
+      "url": "https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ"
+    },
+    {
+      "album": {
         "name": "Wife",
         "url": "https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK"
       },
@@ -8479,7 +8515,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 121226,
       "name": "Wife",
       "url": "https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj"
@@ -12787,7 +12823,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 215535,
       "name": "\u6bd2\u836f",
       "url": "https://open.spotify.com/track/60PL1vtOCFBXwwZeQlVHN9"

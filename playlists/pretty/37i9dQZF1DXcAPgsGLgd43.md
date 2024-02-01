@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > Introducing Alma — a soul born from Latin and house music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,856 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,859 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 24 | [Asereje](https://open.spotify.com/track/4DrUjTGCmZHbeAnRCFX5QM) | [Jean Massey](https://open.spotify.com/artist/0jxlHo3OVSP5B5u0MsU8rE) | [Asereje](https://open.spotify.com/album/7FH5hS1VYDTy0hE1yni0cV) | 2:48 |
 | 25 | [Dinga](https://open.spotify.com/track/64FRBEzBmSI12EyFY72J02) | [Bezh](https://open.spotify.com/artist/3bUaHi6OSggmW7F34yl3qH) | [Dinga](https://open.spotify.com/album/58Fy2a3VQzlkh9UksCzMuF) | 2:42 |
 | 26 | [Mi Amor](https://open.spotify.com/track/2Suk7DzVMim77YswOSMvJL) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Mi Amor](https://open.spotify.com/album/320kp38VL1lsenxJD9nGBc) | 3:15 |
-| 27 | [Musica](https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Musica](https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc) | 2:57 |
+| 27 | [Magalenha](https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Magalenha](https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e) | 2:54 |
 | 28 | [Levanta](https://open.spotify.com/track/2uitOFTk6M7eI8TB5I3J2B) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Siwell](https://open.spotify.com/artist/3ktDOdSifPv7lXzeyXX1J1), [Vadi](https://open.spotify.com/artist/12HtyTeiwjTUPsnW9xvs1S) | [Levanta](https://open.spotify.com/album/54KFJMJRGpqcaCEQCG2hpm) | 2:28 |
-| 29 | [Magalenha](https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Magalenha](https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e) | 2:54 |
+| 29 | [Musica](https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Musica](https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc) | 2:57 |
 | 30 | [Claro](https://open.spotify.com/track/4KnVflzNO186OAqsc3AbLn) | [Teko](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS), [De Qualite](https://open.spotify.com/artist/1SPYqFTZFY8jLNLRUimSAu) | [Claro](https://open.spotify.com/album/2l44I0N3YeYrsIGzPx1C5Q) | 2:38 |
 | 31 | [Lo Que Soy](https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T) | [Lo Que Soy](https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu) | 2:50 |
 | 32 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 72 | [Dimini](https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [Twolate](https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh) | [Dimini](https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny) | 2:22 |
 | 73 | [Everybody Salsa \- Andruss Remix](https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm) | [Dj Drew](https://open.spotify.com/artist/0UGUHlwgexlzolMHhj9PhD), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Everybody Salsa \(Andruss Remix\)](https://open.spotify.com/album/3rB2Q1jUcu5wgnwbjXxemw) | 2:46 |
 | 74 | [Quema Quema](https://open.spotify.com/track/4IQe3wmj64IDRU57zsTdau) | [Mister Pancho](https://open.spotify.com/artist/4NtBRx1ZiUjghjkMEEgRGe) | [Quema Quema](https://open.spotify.com/album/5NRmxv41JcMSN7ZznTEVAZ) | 2:06 |
-| 75 | [Desconocidos](https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Argia](https://open.spotify.com/artist/3K2j2d5WP7SfP06QTV8iz4) | [Desconocidos](https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade) | 5:22 |
+| 75 | [Jaleo](https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm) | [Kenny Brian](https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Jaleo](https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C) | 3:07 |
 
-Snapshot ID: `MCw5NTAwZjQ5NTAwZDVhZGFhMmZmOTYzMDI5ZjMxMzZlYzA4ZGZjYTYy`
+Snapshot ID: `MCw4ODNlYzFhZjhhMTc1NWZmNjNjMjY4ZjA1ZWE2MTJkNjk0N2U0NzVi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 
 > This is MC Davo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,938 likes - 51 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,954 likes - 51 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 15 | [Mis Defectos](https://open.spotify.com/track/3DSMLWrSbDTQj6k6ZAhJvv) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis 2](https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO) | 3:00 |
 | 16 | [Aunque Ya No Estés](https://open.spotify.com/track/4x5uhfmxxxXlO5LizTFyFm) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 3:22 |
 | 17 | [¿Cómo Se Supera?](https://open.spotify.com/track/3YVgqw3Qw5GZGSiNXw7sd5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [¿Cómo Se Supera?](https://open.spotify.com/album/2y7fMhpx5uexdebjJEuNzF) | 3:23 |
-| 18 | [Llamando A Tu Fon](https://open.spotify.com/track/07lwUBDazPEFw2qvl9pERT) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Llamando A Tu Fon](https://open.spotify.com/album/2oXsW0YViUeRi38nZ41sl7) | 3:27 |
+| 18 | [Round 2](https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Round 2 \(feat\. MC Davo\) \- Single](https://open.spotify.com/album/6gEG4NR9X1VbaSv0lz5ETB) | 3:21 |
 | 19 | [Ella Es Una Amenaza](https://open.spotify.com/track/1lhlIrjvx7855s8JXZg5pF) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis 2](https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO) | 3:25 |
 | 20 | [Modo Bestia](https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 2:21 |
-| 21 | [Round 2](https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Round 2 \(feat\. MC Davo\) \- Single](https://open.spotify.com/album/6gEG4NR9X1VbaSv0lz5ETB) | 3:21 |
+| 21 | [Llamando A Tu Fon](https://open.spotify.com/track/07lwUBDazPEFw2qvl9pERT) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Llamando A Tu Fon](https://open.spotify.com/album/2oXsW0YViUeRi38nZ41sl7) | 3:27 |
 | 22 | [Round 7](https://open.spotify.com/track/32IndMzD07SrdRxWQ7G7Fd) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Round 7](https://open.spotify.com/album/5ynjByApIoTlaO6Hszz59N) | 3:34 |
 | 23 | [Adiós](https://open.spotify.com/track/5Axt9lZg5tqQir8U12ocQU) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis](https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p) | 3:21 |
 | 24 | [Debes de saber](https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:00 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 50 | [Invencible](https://open.spotify.com/track/5pakuQIl6IqFHdh7WgTQx8) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Invencible](https://open.spotify.com/album/1h4Z8hvxf9BIlEysjDv6Bv) | 3:01 |
 | 51 | [La Historia De Un Olvido](https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis](https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p) | 2:59 |
 
-Snapshot ID: `Mjg0NDM2MzksMDAwMDAwMDBhOTU0OTc0OWI3NjZkNzM1MmU1YmJhMjY0NmU1NTgzMQ==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDAwYzA0YWFkMDcxMzQzNWQ1MjI1MTA5ZmIzOGI4NDVmOA==`

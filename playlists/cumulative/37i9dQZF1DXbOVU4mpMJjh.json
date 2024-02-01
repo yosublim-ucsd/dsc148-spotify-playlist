@@ -7219,6 +7219,28 @@
     },
     {
       "album": {
+        "name": "I Still Miss You",
+        "url": "https://open.spotify.com/album/2M6PQhRFWbozUK2Wf7X7uv"
+      },
+      "artists": [
+        {
+          "name": "Ola W Jansson",
+          "url": "https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz"
+        },
+        {
+          "name": "W JAZZ TRIO",
+          "url": "https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130918,
+      "name": "I Still Miss You",
+      "url": "https://open.spotify.com/track/1YxF9KI6orssrJBGxc0l6l"
+    },
+    {
+      "album": {
         "name": "I Thought About Us",
         "url": "https://open.spotify.com/album/0q97p3nKwoNzSsNxtWqFMN"
       },
@@ -14662,7 +14684,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 364626,
       "name": "Soul in Twilight",
       "url": "https://open.spotify.com/track/3ONcanYtZHMVcgqPDAsVHd"

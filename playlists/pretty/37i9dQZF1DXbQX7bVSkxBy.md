@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=yb2B\-KRbSyGfeu2yZVTtDw>Moses Bliss</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,180 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,274 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 49 | [Never](https://open.spotify.com/track/5HGrUHHL9w04CI4FAV0ebl) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Never](https://open.spotify.com/album/1DdKZXJOtsK4N1YKMcGN9f) | 3:34 |
 | 50 | [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 |
 
-Snapshot ID: `MCxjNGMzZWNjMWZkNTFkYTE4ZmI3MzEwZjgyZmJmZjM2ZTM3NGQ1NDUy`
+Snapshot ID: `MCw2NGQwNGQ5ZTA3MmM3YjI2M2Y0MzU4ZWZjN2FkYTUyMzk5NmFjZTYx`

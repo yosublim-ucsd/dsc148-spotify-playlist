@@ -2336,10 +2336,32 @@
       ],
       "date_added": "2021-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 278653,
       "name": "Pour ce que valent tes larmes",
       "url": "https://open.spotify.com/track/3MWmd6jWckpNjW5PjJxHxA"
+    },
+    {
+      "album": {
+        "name": "Politesses",
+        "url": "https://open.spotify.com/album/09Khu4XKff31MN8pauQ08Y"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Dyotte",
+          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
+        },
+        {
+          "name": "Phil\u00e9mon Cimon",
+          "url": "https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h"
+        }
+      ],
+      "date_added": "2021-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278657,
+      "name": "Pour ce que valent tes larmes",
+      "url": "https://open.spotify.com/track/7Hfl43JElWss3izWHvuE4E"
     },
     {
       "album": {

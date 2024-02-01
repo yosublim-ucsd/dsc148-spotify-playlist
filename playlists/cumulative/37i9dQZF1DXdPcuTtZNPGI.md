@@ -4,7 +4,7 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-69 songs - 5 hr 13 min
+70 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [BINKUSUNO SAKE](https://open.spotify.com/track/4oVlD8uK2QioN4iZ1lBL6X) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:26 | 2022-10-09 |  |
 | [Buriki No Dance](https://open.spotify.com/track/5m3EBf4cWHWxzjBTCG1gHx) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 3:18 | 2023-12-12 |  |
 | [Buriki No Dance](https://open.spotify.com/track/1tf23ctEJtmWpCoMwVwFLF) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Buriki No Dance](https://open.spotify.com/album/434XGVb26I50AvHTKdwAYk) | 3:19 | 2023-11-28 | 2023-12-16 |
+| [Chocolat Cadabra](https://open.spotify.com/track/0AKxVjQmNYwYuNY5sCJuPn) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Chocolat Cadabra](https://open.spotify.com/album/2grvAfP3pjbRwkhaTbbNS9) | 3:03 | 2024-01-30 |  |
 | [Crime And Punishment](https://open.spotify.com/track/7r46PpiDGgW7cQwXMHS5lU) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 4:50 | 2023-12-12 |  |
 | [Dawn and Fireflies](https://open.spotify.com/track/3i1dqflrqcLVxZeWi7r0pm) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 5:08 | 2023-12-12 |  |
 | [DIGNITY](https://open.spotify.com/track/1BDCBbdTDQo3JxC0kVDSqP) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [DIGNITY](https://open.spotify.com/album/0yeSKha3HfhzdjVNnrqLks) | 4:12 | 2023-09-18 |  |
@@ -67,7 +68,7 @@
 | [うっせぇわ \- Piano Ver.](https://open.spotify.com/track/2ui683JiJBmZSiZvm0KBZx) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [レディメイド](https://open.spotify.com/album/7hy4zddDO6zOMQxRipqQry) | 3:43 | 2022-10-09 |  |
 | [アタシは問題作](https://open.spotify.com/track/2CzFckH57NqbC4n0VZDLLB) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [アタシは問題作](https://open.spotify.com/album/21iY3NVr5gHtQ3qxLXFWOl) | 3:14 | 2023-02-19 | 2023-02-21 |
 | [コールボーイ](https://open.spotify.com/track/6vdtMuSOG9chmNbGvmkmjz) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado/PARED/まひる/ゆっけ presents PALETTE4](https://open.spotify.com/album/5N3pr0Jv026t7JwI3u86lt) | 3:29 | 2022-10-09 |  |
-| [ショコラカタブラ](https://open.spotify.com/track/5tDluNOXu6r7z7u9NKjPCt) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ショコラカタブラ](https://open.spotify.com/album/0bHJgay2GTCHvSgaq6xtYM) | 3:03 | 2024-01-30 |  |
+| [ショコラカタブラ](https://open.spotify.com/track/5tDluNOXu6r7z7u9NKjPCt) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ショコラカタブラ](https://open.spotify.com/album/0bHJgay2GTCHvSgaq6xtYM) | 3:03 | 2024-01-30 | 2024-02-01 |
 | [フールフールフール](https://open.spotify.com/track/7dObELU1sPaGTfbQWZILcR) | [おくのほそみち](https://open.spotify.com/artist/6JGvjK1tVqPt9KrvNuUQLl), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [フールフールフール](https://open.spotify.com/album/3ZxZh1qFViq0igteZ5y7Cb) | 3:13 | 2022-10-09 |  |
 | [会いたくて \- Piano & Strings Ver.](https://open.spotify.com/track/3gd4Ux9wShJxx4EnnnUipR) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [会いたくて \(Piano & Strings Ver.\)](https://open.spotify.com/album/7cdfYFwm3pvb23U6FOOyXM) | 5:24 | 2022-10-09 |  |
 | [唱](https://open.spotify.com/track/2tlOVDJ3lQsUxz22vPJ4c4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [唱](https://open.spotify.com/album/18jn1n7WP5aYQcJORKwTxp) | 3:09 | 2023-09-05 | 2023-09-09 |

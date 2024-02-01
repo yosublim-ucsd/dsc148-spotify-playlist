@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Daniel Toh
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,906 likes - 106 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,907 likes - 106 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 105 | [三分醉](https://open.spotify.com/track/10dyRZNPSJBLnSgX2rPegm) | [Wolfe](https://open.spotify.com/artist/5BS8OU8Qoy4brGmgm6X2pA), [SoWhat](https://open.spotify.com/artist/2BBk96s2DUCSwIdaANtH9d), [Daishin](https://open.spotify.com/artist/3MZmW9TjNyNLp3NR18pRZh) | [三分醉](https://open.spotify.com/album/3WFNApCRIN4F9pDwI0d0j3) | 3:09 |
 | 106 | [Sorry呢度係香港 \- REMIX](https://open.spotify.com/track/3ht0dlqYLY90PA6mOX1hSE) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw), [The Low Mays](https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O), [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [Sorry呢度係香港 \(REMIX\)](https://open.spotify.com/album/69GXEw42aJdTVL52BgNmiN) | 4:06 |
 
-Snapshot ID: `MCw1ZjJhNTkzNGJkMzcwZjgyYjBkN2EwMWRhMDFmYTUyMzYzMDBmNDQy`
+Snapshot ID: `MCwxNDczYmU5NTk3MWZmN2MwZTUwNTZhZWFlZjRkNDg2MjFlNzkyNzU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Empress Of
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,900 likes - 102 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,881 likes - 102 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 7 | [Instincts](https://open.spotify.com/track/7bA0Di2pbdscrttwpwrTjp) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Instincts](https://open.spotify.com/album/2lQfIDJwaRfrr5Hdty8Yv5) | 3:56 |
 | 8 | [Holier \- JD\. REID Remix feat\. Shygirl](https://open.spotify.com/track/3SAGwjKKitPBNpgdi80ScD) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Holier \(JD\. REID Remix feat\. Shygirl\)](https://open.spotify.com/album/42At6bfdhnCcDuX2d3zhxh) | 3:35 |
 | 9 | [TEMPTATIONS](https://open.spotify.com/track/5Dm92u2aCnl45seE6MCUwU) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [TEMPTATIONS](https://open.spotify.com/album/46xtqR37R8Ge71o0tQ4peS) | 1:51 |
-| 10 | [Accent](https://open.spotify.com/track/4MDwa4SfUr9ATSzYPROjtm) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P), [Saul Williams](https://open.spotify.com/artist/52aqVnvlkWJ7IH8IrBkmic) | [Accent](https://open.spotify.com/album/3ZlOvZjzsj4ylB6y6mARja) | 2:28 |
+| 10 | [Accent](https://open.spotify.com/track/4MDwa4SfUr9ATSzYPROjtm) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P), [Saul Williams](https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm) | [Accent](https://open.spotify.com/album/3ZlOvZjzsj4ylB6y6mARja) | 2:28 |
 | 11 | [Dream police](https://open.spotify.com/track/2fLBrwqNZ2oCZBbSPEX1G3) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Dream police](https://open.spotify.com/album/21IkWTFIWNfa1SCCkk24gw) | 2:49 |
 | 12 | [I Know I Failed You](https://open.spotify.com/track/7ffl6rwOxt5nmJuXXI2qhG) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [I Know I Failed You](https://open.spotify.com/album/3y0ENbAhH5eogxv6teLPGs) | 4:52 |
 | 13 | [A Love International](https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A Love International](https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9) | 4:15 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 101 | [LGOYH \- Let Go Of Your Hurt](https://open.spotify.com/track/6VXaYZdg5lVthukdAx0uBk) | [kwes.](https://open.spotify.com/artist/2vvaBnZLZh65JFyWp67Mhn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Rye Lane \(Original Score\)](https://open.spotify.com/album/2a7sbyp6zoxjTOcTXeg1pi) | 3:26 |
 | 102 | [Don't Touch!](https://open.spotify.com/track/7KJStRowXCMzl0C60m3O4Z) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Don't Touch!](https://open.spotify.com/album/1wEVbOHAk8ah8Dg6NgsAG0) | 2:52 |
 
-Snapshot ID: `MCwyNGFiNDdlYmE4NGMzYzJmNTk2ZjZlM2IyNmI0M2FiZTk4ODgyZmRk`
+Snapshot ID: `MCxjZmEyNWQwMzA2OTVhNDlhYzYxZWNmYjU5NjZhMjBlODI1ODI0ZjI3`

@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-273 songs - 19 hr 54 min
+274 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Qué Bonito](https://open.spotify.com/track/6oxVrlxeTwhmOroYJkrAad) | [Primo Son](https://open.spotify.com/artist/4hhlnDWkZV8hvYWiHyS7kb) | [Qué Bonito](https://open.spotify.com/album/14OCSNKGtGObRtdf7OKidp) | 3:46 | 2022-04-15 | 2022-04-21 |
 | [Reasons to Fight \(feat\. Ziggy Marley\)](https://open.spotify.com/track/1828klsRwI6LODnQ7dg5jG) | [Trending Tropics](https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Trending Tropics](https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V) | 5:13 | 2021-11-26 | 2022-07-29 |
 | [Resiliencia](https://open.spotify.com/track/1sYbjIz5jBAqE8n9nbdDDI) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Resiliencia](https://open.spotify.com/album/6WiwJthVBqLR7rd5tQ4jzz) | 4:49 | 2021-11-26 | 2022-07-28 |
-| [Resiliencia](https://open.spotify.com/track/1wMRZU1sk3wiwsfb7oCCpd) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Ramas](https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx) | 4:49 | 2023-02-13 |  |
+| [Resiliencia](https://open.spotify.com/track/1wMRZU1sk3wiwsfb7oCCpd) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Ramas](https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx) | 4:49 | 2023-02-13 | 2024-02-01 |
 | [Resiliencia](https://open.spotify.com/track/590gL4Fk4eHhLazuvVefLn) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Ramas](https://open.spotify.com/album/2s61LZqkxTwh3PNMxO6mYX) | 4:49 | 2023-02-13 | 2023-04-30 |
 | [Resistencia](https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Recuerdos de Expiación](https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN) | 3:12 | 2021-11-26 | 2023-06-11 |
 | [Roma \- En Vivo](https://open.spotify.com/track/4eqttIGVlY0K0ZHM2ktQqM) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [En Vivo Desde Acosmo Sound \- Malmö, Suecia](https://open.spotify.com/album/3znRk8OoMxqCjJX6AMhsHw) | 6:25 | 2021-11-26 | 2022-02-10 |
@@ -233,6 +233,7 @@
 | [Solo Quiero](https://open.spotify.com/track/17KTRLb9qJRYSSckf0xYBD) | [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Solo Quiero](https://open.spotify.com/album/3dm2o7RYfKTdLdFZzouNYr) | 4:23 | 2021-11-26 | 2022-07-29 |
 | [Solo Quiero \(feat\. Pedrina\)](https://open.spotify.com/track/4JP3yoybj8GVDVBKrdmkFx) | [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Otun](https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv) | 4:23 | 2022-04-15 |  |
 | [Soma](https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Kuru Kuru](https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP) | 5:11 | 2021-11-26 | 2023-11-06 |
+| [Soma](https://open.spotify.com/track/2m84UV92ba26JYwue9yVUH) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Kuru Kuru](https://open.spotify.com/album/2dJ5sy2pN5ch1gRyJX6Ozq) | 5:11 | 2023-11-24 |  |
 | [Sondiramá](https://open.spotify.com/track/3NEVeetLmkytUgwca0pwi3) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Padremontes](https://open.spotify.com/album/0jSebDCVektiSoY7gkapr7) | 3:23 | 2021-11-26 | 2022-07-29 |
 | [Sondiramá](https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Padremontes](https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn) | 3:23 | 2022-04-15 |  |
 | [Sonic Forest \(Déjame Respirar\)](https://open.spotify.com/track/6hreQzJujmQLr88N0fTLO3) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Sonic Forest](https://open.spotify.com/album/0ImFvq53ujOAdclMey4dd6) | 2:49 | 2021-11-26 |  |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea2M7iVhM3V.md) - [plain]
 
 > Kill it today with this awesome Hip Hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146 likes - 31 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 148 likes - 31 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heartbeat](https://open.spotify.com/track/0zo4aX57COch7Wh3NRImTM) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Camp](https://open.spotify.com/album/2nkHPk6e7TgemWh07yFHxh) | 4:29 |
-| 2 | [I Mean It \(feat\. Remo\)](https://open.spotify.com/track/6jmTHeoWvBaSrwWttr8Xvu) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Remo](https://open.spotify.com/artist/7rVA45AaxEEetdqc9NngiJ) | [These Things Happen](https://open.spotify.com/album/6wDc63NhKy2PyXdbhkRmrl) | 3:56 |
+| 2 | [I Mean It \(feat\. Remo\)](https://open.spotify.com/track/6jmTHeoWvBaSrwWttr8Xvu) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Remo the Hitmaker](https://open.spotify.com/artist/253mZZhgkLOjbAuogZiNbc) | [These Things Happen](https://open.spotify.com/album/6wDc63NhKy2PyXdbhkRmrl) | 3:56 |
 | 3 | [Guts Over Fear](https://open.spotify.com/track/0VZs2OQq4axr8GFRdC9nyD) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Guts Over Fear](https://open.spotify.com/album/1x8e6xbrhtLgipVKFXhGdm) | 5:00 |
 | 4 | [Both of Us \(feat\. Taylor Swift\)](https://open.spotify.com/track/3r9bgSJlJz2zlevcBRYXko) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Strange Clouds](https://open.spotify.com/album/7qqCw47pAWFzhwTpVRd0zE) | 3:36 |
 | 5 | [Paper Trail$](https://open.spotify.com/track/23bOfmnZiN42pB1frXNyak) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [B4.DA.$$](https://open.spotify.com/album/2NTIYavFZmU1PCvJvn2USJ) | 3:14 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea2M7iVhM3V.md) - [plain]
 | 30 | [Close Your Eyes \(And Count to Fuck\)](https://open.spotify.com/track/3RlurnnuVkVbaN6lul4136) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Run the Jewels 2](https://open.spotify.com/album/6WBUyDe1Xy8QRwF6wzhJsY) | 3:54 |
 | 31 | [Wop \(Official Version\)](https://open.spotify.com/track/3zbnvxvqV5lL4Vq0FznWsX) | [J\. Dash](https://open.spotify.com/artist/6bsEozzA1CHU0TIq2DXDxq) | [Wop \(Official Version\)](https://open.spotify.com/album/6GDAhfB43sXcVMPUT3jxaA) | 3:50 |
 
-Snapshot ID: `MCxlYjk2NDdjYjJlY2YwYjk5MzkyMTg2MTg5NzljODk2M2E2NDM0ZWFh`
+Snapshot ID: `MCw4M2EyYWUwZjMxNjNhYzZhZjczMjIyOTFkY2NjMDI0ZWUwZTM1MTYw`

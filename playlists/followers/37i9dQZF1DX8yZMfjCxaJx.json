@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 208646,
+  "2024-02-01": 208990,
   "date_first_scraped": "2024-01-30",
   "description": "Las favoritas de los patrones. Markitos Toys, Pantera de Culiac\u00e1n en portada.",
   "name": "Corridos Chakalosos",
@@ -953,7 +953,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 171519,
       "name": "Estilo Guzm\u00e1n",
       "url": "https://open.spotify.com/track/1JGy92ftziV5hdHP0rwOwh"
@@ -1355,6 +1355,28 @@
       "duration_ms": 123013,
       "name": "Nene Zambada",
       "url": "https://open.spotify.com/track/3IVFOkEMepCHIAGnUjvWJg"
+    },
+    {
+      "album": {
+        "name": "Nuevo Mando",
+        "url": "https://open.spotify.com/album/4sTQdTXhs18gLhJxZOnYk2"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156650,
+      "name": "Nuevo Mando",
+      "url": "https://open.spotify.com/track/6jbk8wBRezS07OWr9IYjpv"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 6897,
+  "2024-02-01": 6895,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Bulgaria.",
   "name": "Viral 50 - Bulgaria",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 306847,
       "name": "Angel Numbers / Ten Toes",
       "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
@@ -75,7 +75,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 197333,
       "name": "BELLAKEO",
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 182440,
       "name": "B\u00e9cane - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
@@ -158,6 +158,24 @@
     },
     {
       "album": {
+        "name": "CHERNI KUCHKI",
+        "url": "https://open.spotify.com/album/6ZFbDkIZj5mesGyAxnI0La"
+      },
+      "artists": [
+        {
+          "name": "NSG1",
+          "url": "https://open.spotify.com/artist/0nsbUh9q9N6VMqHRZgImZl"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136414,
+      "name": "CHERNI KUCHKI",
+      "url": "https://open.spotify.com/track/38lIf0HJRIMCaWPsFEJaXy"
+    },
+    {
+      "album": {
         "name": "Meet The Lilithz",
         "url": "https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5"
       },
@@ -173,6 +191,28 @@
       "duration_ms": 126481,
       "name": "CLEARED - Remix",
       "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
+    },
+    {
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295072,
+      "name": "dark days",
+      "url": "https://open.spotify.com/track/02Cp3VTUWNed8hr69BhKz6"
     },
     {
       "album": {
@@ -195,10 +235,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 124075,
       "name": "Died Once",
       "url": "https://open.spotify.com/track/2lMjlRPaKOeJU5P8rvyD3Z"
+    },
+    {
+      "album": {
+        "name": "DO\u011eU\u015eTAN BER\u0130 HAKLIYIM (tmm)",
+        "url": "https://open.spotify.com/album/46Lu9sb5R04T208BLZ5kRm"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133755,
+      "name": "DO\u011eU\u015eTAN BER\u0130 HAKLIYIM (tmm)",
+      "url": "https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF"
     },
     {
       "album": {
@@ -311,7 +369,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 228470,
       "name": "Kool-Aid",
       "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
@@ -387,7 +445,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 100465,
       "name": "MANDA BALA",
       "url": "https://open.spotify.com/track/1lS2qOUk6GA20XvjjrWc25"
@@ -514,6 +572,28 @@
     },
     {
       "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143718,
+      "name": "n.h.i.e.",
+      "url": "https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W"
+    },
+    {
+      "album": {
         "name": "Ne znaesh koya sam",
         "url": "https://open.spotify.com/album/5Z5kepFgoYaMUlvBgrwSO0"
       },
@@ -572,6 +652,84 @@
     },
     {
       "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220584,
+      "name": "n\u00e9e-nah",
+      "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
+    },
+    {
+      "album": {
+        "name": "OAED (Remix)",
+        "url": "https://open.spotify.com/album/2Xn4WHhSkE5tPHePPzlxvL"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "Voyage",
+          "url": "https://open.spotify.com/artist/7aASXckUdNXJ5X338n8C1D"
+        },
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195668,
+      "name": "OAED - Remix",
+      "url": "https://open.spotify.com/track/0DRBuH0O3Uh6YqJWMAjHLl"
+    },
+    {
+      "album": {
         "name": "3/3 Vol. 2",
         "url": "https://open.spotify.com/album/7ekqcWSZeMaJ28SZrIzXzB"
       },
@@ -587,7 +745,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 207404,
       "name": "OBESHTANIQ",
       "url": "https://open.spotify.com/track/21prcHeCfQlZZ43nSmrQR4"
@@ -605,7 +763,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 236928,
       "name": "OBOROTI - Remix",
       "url": "https://open.spotify.com/track/3yFZYGXF2Ta6DgaP6kaV28"
@@ -645,7 +803,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 161250,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
@@ -696,6 +854,24 @@
     },
     {
       "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "album": {
         "name": "SONY",
         "url": "https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp"
       },
@@ -740,6 +916,42 @@
     },
     {
       "album": {
+        "name": "Soaked",
+        "url": "https://open.spotify.com/album/3KlEcBtJhRhsqC13wbASjd"
+      },
+      "artists": [
+        {
+          "name": "Shy Smith",
+          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179449,
+      "name": "Soaked",
+      "url": "https://open.spotify.com/track/3nGIGnJd7jFZaPFdfyQLF2"
+    },
+    {
+      "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "album": {
         "name": "Unreleased",
         "url": "https://open.spotify.com/album/0EGUqke4RK9j2X5dQZcC8o"
       },
@@ -769,7 +981,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 183448,
       "name": "Svekarvishte",
       "url": "https://open.spotify.com/track/0F2jva2ZcSCOO2vSua8XH4"
@@ -825,7 +1037,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
@@ -883,6 +1095,24 @@
       "duration_ms": 177426,
       "name": "Voil\u00e0",
       "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w"
+    },
+    {
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "album": {

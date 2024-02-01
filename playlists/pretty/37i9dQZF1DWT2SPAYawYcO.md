@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Kobie Dee
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,456 likes - 79 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,419 likes - 79 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 60 | [Under One Roof](https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Under One Roof](https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3) | 4:14 |
 | 61 | [Stay Cool](https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Stay Cool](https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo) | 3:27 |
 | 62 | [Journey](https://open.spotify.com/track/5Nw5ZEOlYFW1kfDUtrVsw5) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Journey](https://open.spotify.com/album/1YAyFsUzLmsHuVXoxavUYB) | 3:40 |
-| 63 | [Miasma](https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9), [Winston McCall](https://open.spotify.com/artist/5SbE63j8ykElvWk3EZEmrx) | [Miasma](https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL) | 4:18 |
+| 63 | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL) | 4:18 |
 | 64 | [Medicinals](https://open.spotify.com/track/3jFnRUNB3MJX9pb6iqC65X) | [atkins](https://open.spotify.com/artist/3v744e1xfczA6Yim7gkFmI) | [Medicinals](https://open.spotify.com/album/6SLtznnTHl8xCAKIqIbfGd) | 3:02 |
 | 65 | [DADDY \- Fatherly Advice Mix](https://open.spotify.com/track/0jJ12tEGBLoBkPDn9zxhGJ) | [DeepFaith](https://open.spotify.com/artist/0b6qpgf9acyHi3PwV18Dyc) | [DADDY \(Fatherly Advice Mix\)](https://open.spotify.com/album/66qD15ysjRJNnMXs7wIlOi) | 3:25 |
 | 66 | [Day Before](https://open.spotify.com/track/4gLTnWr9KFDPccZb8eCeKF) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Day Before](https://open.spotify.com/album/2iOlzIluzf1lvCY03MTpXV) | 2:55 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 78 | [Bring That Back](https://open.spotify.com/track/0zoSIutqFnFhDuUVrkIG7X) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Bring That Back](https://open.spotify.com/album/4mdooGwGTnkUJT01QY5K8L) | 3:08 |
 | 79 | [Paradise](https://open.spotify.com/track/21S1YmXsz3OUVclC7cFf8C) | [DARTZ](https://open.spotify.com/artist/0ekrcj2YAoYh52dJzcvKJi) | [Paradise](https://open.spotify.com/album/3EgAfBMX6F9XRbrUdQz6m8) | 3:35 |
 
-Snapshot ID: `MCxkOGUwM2U5YTUxYzY2N2EzZmRhZWEyMDA3OGQwZTFkOWQ0MDI2NzA0`
+Snapshot ID: `MCw2NjM2OWM2NTJlMDcxMzdhZjM3NTUzNTNlYzllNjcyZjY0YzA3ZjEz`

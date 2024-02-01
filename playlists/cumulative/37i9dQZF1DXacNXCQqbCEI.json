@@ -3972,7 +3972,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 289502,
       "name": "Resiliencia",
       "url": "https://open.spotify.com/track/1wMRZU1sk3wiwsfb7oCCpd"
@@ -4564,6 +4564,24 @@
       "duration_ms": 311141,
       "name": "Soma",
       "url": "https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88"
+    },
+    {
+      "album": {
+        "name": "Kuru Kuru",
+        "url": "https://open.spotify.com/album/2dJ5sy2pN5ch1gRyJX6Ozq"
+      },
+      "artists": [
+        {
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311141,
+      "name": "Soma",
+      "url": "https://open.spotify.com/track/2m84UV92ba26JYwue9yVUH"
     },
     {
       "album": {

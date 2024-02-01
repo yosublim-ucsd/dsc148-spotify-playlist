@@ -2,9 +2,9 @@
 
 ### [Rancho Viral](https://open.spotify.com/playlist/37i9dQZF1DX7aCIGeSe3p4)
 
-> yo ya no estoy dolido lido, quizá un poquito arrepentido 👿 ✨ Cosechando los éxitos del internet 🤠
+> 🌵💔 Cosechando los éxitos del internet 🤠
 
-145 songs - 7 hr 37 min
+146 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bling Bling](https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Bling Bling](https://open.spotify.com/album/4LxiVBlQPYvmhx6UR4CIWy) | 2:42 | 2023-12-04 |  |
 | [Bélica Como Ninguna](https://open.spotify.com/track/1yP0mfJpgXkpwJygR7owzD) | [Los Ejemplares del Rancho](https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY) | [Bélica Como Ninguna](https://open.spotify.com/album/07eczfKQengmSJcbBhUM14) | 2:21 | 2023-06-15 |  |
 | [Cabron Yo Puedo](https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx) | [Grupo Origen](https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7) | [Cabron Yo Puedo](https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x) | 3:15 | 2022-12-08 |  |
+| [Cactus](https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cactus](https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1) | 3:03 | 2024-02-01 |  |
 | [Casi Completa](https://open.spotify.com/track/5BTibB0lM8fExn033QebZJ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 3:10 | 2023-12-08 |  |
 | [CCC](https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [CCC](https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll) | 2:06 | 2023-05-12 | 2023-09-22 |
 | [CCC \- Remix](https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CCC \(Remix\)](https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo) | 2:27 | 2023-09-21 |  |
@@ -123,7 +124,7 @@
 | [Punto y Aparte](https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto y Aparte](https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0) | 2:38 | 2023-06-06 | 2023-12-16 |
 | [Que Chulada \- En Vivo](https://open.spotify.com/track/4hSmILVc3ULKtA0wMI2rkp) | [Alexis Garcilazo](https://open.spotify.com/artist/5tHu8TW9KdNoJPvltlE8uo) | [Que Chulada \(En Vivo\)](https://open.spotify.com/album/6fercnkG4J7fLRlMKQYJ9H) | 2:16 | 2023-05-12 |  |
 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 | 2022-12-16 | 2023-09-22 |
-| [Quemando Papel](https://open.spotify.com/track/3tiaqn4MVRX9prDxiBNgHA) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [Quemando Papel](https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9) | 3:14 | 2023-12-08 |  |
+| [Quemando Papel](https://open.spotify.com/track/3tiaqn4MVRX9prDxiBNgHA) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [Quemando Papel](https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9) | 3:14 | 2023-12-08 | 2024-02-01 |
 | [Qué Onda Perdida](https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15) | 3:59 | 2023-04-05 | 2023-12-09 |
 | [Rafa Caro](https://open.spotify.com/track/2ESHwuLxQwjSrL1ukzVHVq) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Rafa Caro](https://open.spotify.com/album/0QJmewY9aX1Ab61tOtZsGx) | 4:13 | 2022-07-18 | 2023-12-09 |
 | [Ramo Buchón](https://open.spotify.com/track/4Td2A1bW1NP1Utc9WZDfWr) | [Montana](https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Ramo Buchón](https://open.spotify.com/album/3XszKeKNdXtEMRKBhThpi8) | 3:33 | 2023-09-21 |  |

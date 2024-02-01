@@ -1,12 +1,12 @@
 {
   "description": "The essential recordings from the beginning of the Post Bop era. Cover: Freddie Hubbard",
-  "num_followers": 27240,
+  "num_followers": 27271,
   "original_name": "Post Bop Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmQ3MDlmYjJjNjE1N2M1ZDcwOWM2MjU2MDY0YjU0ZGQ2YjNjYzJj",
+  "snapshot_id": "MCw2ZjRmZDAxNDFlY2ViYzA3Nzk1MmQ3ODMyOTY5ZTFiNjI5YzQ3MWQ2",
   "tracks": [
     {
       "added_at": "2024-01-18 14:03:29",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
-        "name": "Explorations [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 371333,
-      "name": "Israel",
-      "url": "https://open.spotify.com/track/6l3Qttv1rOdLxnACYm3fRJ"
-    },
-    {
-      "added_at": "2024-01-18 14:03:29",
-      "album": {
         "name": "Mode For Joe (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/5HC9Uo9bCl8uiWuSN3MfbD"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 480933,
       "name": "Mode For Joe - Remastered",
       "url": "https://open.spotify.com/track/3kltDmshkHJ924f2ZL2Qsy"
+    },
+    {
+      "added_at": "2024-01-18 14:03:29",
+      "album": {
+        "name": "Explorations [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 371333,
+      "name": "Israel",
+      "url": "https://open.spotify.com/track/6l3Qttv1rOdLxnACYm3fRJ"
     },
     {
       "added_at": "2024-01-18 14:03:29",
@@ -663,6 +663,54 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
+        "name": "Miles Smiles",
+        "url": "https://open.spotify.com/album/7buEUXT132AA4FPswvh9tV"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 464000,
+      "name": "Gingerbread Boy",
+      "url": "https://open.spotify.com/track/3Gi69Wjht0q3AZQu6tQwxi"
+    },
+    {
+      "added_at": "2024-01-18 14:03:29",
+      "album": {
+        "name": "Red Clay",
+        "url": "https://open.spotify.com/album/1EKOKpUcbqvwxFcmek60Za"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 524546,
+      "name": "Suite Sioux",
+      "url": "https://open.spotify.com/track/64rHDxDhz71GtHxs5QBsQ5"
+    },
+    {
+      "added_at": "2024-01-18 14:03:29",
+      "album": {
+        "name": "In 'N Out (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4KI0kC5rANmc5YeXyNshDr"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 547666,
+      "name": "Punjab - Remastered 2003 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/64EpFQnk4OlbMl3fitdrp6"
+    },
+    {
+      "added_at": "2024-01-18 14:03:29",
+      "album": {
         "name": "Astigmatic (Polish Jazz)",
         "url": "https://open.spotify.com/album/5AHmsOtE3kyBWr0TRqHyzD"
       },
@@ -687,38 +735,6 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
-        "name": "Red Clay",
-        "url": "https://open.spotify.com/album/1EKOKpUcbqvwxFcmek60Za"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 524546,
-      "name": "Suite Sioux",
-      "url": "https://open.spotify.com/track/64rHDxDhz71GtHxs5QBsQ5"
-    },
-    {
-      "added_at": "2024-01-18 14:03:29",
-      "album": {
-        "name": "Miles Smiles",
-        "url": "https://open.spotify.com/album/7buEUXT132AA4FPswvh9tV"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 464000,
-      "name": "Gingerbread Boy",
-      "url": "https://open.spotify.com/track/3Gi69Wjht0q3AZQu6tQwxi"
-    },
-    {
-      "added_at": "2024-01-18 14:03:29",
-      "album": {
         "name": "Speak Like A Child (Expanded Edition)",
         "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 361626,
       "name": "First Trip - Remastered",
       "url": "https://open.spotify.com/track/1OYzVFN2Ydp3nywDL6RPe4"
-    },
-    {
-      "added_at": "2024-01-18 14:03:29",
-      "album": {
-        "name": "In 'N Out (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4KI0kC5rANmc5YeXyNshDr"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 547666,
-      "name": "Punjab - Remastered 2003 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/64EpFQnk4OlbMl3fitdrp6"
     },
     {
       "added_at": "2024-01-18 14:03:29",
@@ -791,18 +791,18 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
-        "name": "Adam's Apple (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z"
+        "name": "E.S.P. (2022 Remaster)",
+        "url": "https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs"
       },
       "artists": [
         {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 414493,
-      "name": "The Collector - Remastered",
-      "url": "https://open.spotify.com/track/7DWiFL8ynmBx6kaU0gLQcT"
+      "duration_ms": 243013,
+      "name": "R.J. (2022 Remaster)",
+      "url": "https://open.spotify.com/track/3rBVE16rpR9d9KivCflGON"
     },
     {
       "added_at": "2024-01-18 14:03:29",
@@ -839,18 +839,18 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
-        "name": "E.S.P. (2022 Remaster)",
-        "url": "https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs"
+        "name": "Adam's Apple (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
         }
       ],
-      "duration_ms": 243013,
-      "name": "R.J. (2022 Remaster)",
-      "url": "https://open.spotify.com/track/3rBVE16rpR9d9KivCflGON"
+      "duration_ms": 414493,
+      "name": "The Collector - Remastered",
+      "url": "https://open.spotify.com/track/7DWiFL8ynmBx6kaU0gLQcT"
     },
     {
       "added_at": "2024-01-18 14:03:29",
@@ -951,18 +951,18 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/4qMDshn0sMrt3bf7C0mmCx"
+        "name": "Nefertiti (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY"
       },
       "artists": [
         {
-          "name": "Art Blakey",
-          "url": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 424733,
-      "name": "Mr. Jin - Remastered",
-      "url": "https://open.spotify.com/track/4LH1EhRiBEDeb7TtMpNKAJ"
+      "duration_ms": 534573,
+      "name": "Hand Jive",
+      "url": "https://open.spotify.com/track/31W4cIsWpn6zubliC06BsN"
     },
     {
       "added_at": "2024-01-18 14:03:29",
@@ -983,34 +983,18 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
-        "name": "Out Of The Afternoon",
-        "url": "https://open.spotify.com/album/3zH8JfREa9pne9mPeqptfu"
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/4qMDshn0sMrt3bf7C0mmCx"
       },
       "artists": [
         {
-          "name": "Roy Haynes Quartet",
-          "url": "https://open.spotify.com/artist/4Gtcxqk0DjMyqqvYBr1RWX"
+          "name": "Art Blakey",
+          "url": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
         }
       ],
-      "duration_ms": 282440,
-      "name": "Long Wharf",
-      "url": "https://open.spotify.com/track/6PzBd5u8T312lggGnoeRGp"
-    },
-    {
-      "added_at": "2024-01-18 14:03:29",
-      "album": {
-        "name": "Nefertiti (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 534573,
-      "name": "Hand Jive",
-      "url": "https://open.spotify.com/track/31W4cIsWpn6zubliC06BsN"
+      "duration_ms": 424733,
+      "name": "Mr. Jin - Remastered",
+      "url": "https://open.spotify.com/track/4LH1EhRiBEDeb7TtMpNKAJ"
     },
     {
       "added_at": "2024-01-18 14:03:29",
@@ -1043,6 +1027,22 @@
       "duration_ms": 314026,
       "name": "Head Start - Rudy Van Gelder Edition / 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/0knaLLhdMU69U4byKTIeim"
+    },
+    {
+      "added_at": "2024-01-18 14:03:29",
+      "album": {
+        "name": "Out Of The Afternoon",
+        "url": "https://open.spotify.com/album/3zH8JfREa9pne9mPeqptfu"
+      },
+      "artists": [
+        {
+          "name": "Roy Haynes Quartet",
+          "url": "https://open.spotify.com/artist/4Gtcxqk0DjMyqqvYBr1RWX"
+        }
+      ],
+      "duration_ms": 282440,
+      "name": "Long Wharf",
+      "url": "https://open.spotify.com/track/6PzBd5u8T312lggGnoeRGp"
     },
     {
       "added_at": "2024-01-18 14:03:29",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
-        "name": "Spring (Remastered)",
-        "url": "https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10"
-      },
-      "artists": [
-        {
-          "name": "Anthony Williams",
-          "url": "https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6"
-        }
-      ],
-      "duration_ms": 629053,
-      "name": "Tee - Remastered 2009/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/4Jfk9tUIZOmwmNb86Qd9uu"
-    },
-    {
-      "added_at": "2024-01-18 14:03:29",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 569453,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi"
+    },
+    {
+      "added_at": "2024-01-18 14:03:29",
+      "album": {
+        "name": "Spring (Remastered)",
+        "url": "https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10"
+      },
+      "artists": [
+        {
+          "name": "Anthony Williams",
+          "url": "https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6"
+        }
+      ],
+      "duration_ms": 629053,
+      "name": "Tee - Remastered 2009/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/4Jfk9tUIZOmwmNb86Qd9uu"
     },
     {
       "added_at": "2024-01-18 14:03:29",

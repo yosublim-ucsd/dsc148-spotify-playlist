@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > where folk flowers bloom\.  cover: Briston Maroney 🦋
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,701 likes - 150 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,773 likes - 150 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 149 | [Allergy Season](https://open.spotify.com/track/7iABcQjrZuN8bZaQyYLJcf) | [Levi Turner](https://open.spotify.com/artist/0QwS0oC5xcBWPmWfjGAhH6) | [Allergy Season](https://open.spotify.com/album/4Mz9ZrzR4jm3wwsbIXArvp) | 3:33 |
 | 150 | [silence,](https://open.spotify.com/track/6gIXFyfeHXanwtC5w6Ooz5) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [silence,](https://open.spotify.com/album/251r2PWSCJrFdZDmgxUuA1) | 2:47 |
 
-Snapshot ID: `MCwwYTI0MzlmM2EwNTBmYTI1YTc3NzIzNDY4NDk5MmYwMGQ4OTIxZjA1`
+Snapshot ID: `MCwwNWY5NTI0ODA2YzJlYWEwNjgzOTI0YjQ1ZDJhMjgwMGQ4NTM5ZjI2`

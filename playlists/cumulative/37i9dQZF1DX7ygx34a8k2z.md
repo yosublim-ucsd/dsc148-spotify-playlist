@@ -4,7 +4,7 @@
 
 > dig through the record bin w/ tour mates <a href="https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74?si=c1be7e2940d844f0">Liz Phair</a> and <a href="https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij?si=YxaujGp8SUiTnZgRi5epLw">Blondshell</a>, who highlight some of their favorites.
 
-242 songs - 15 hr 49 min
+243 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Metronomic Underground](https://open.spotify.com/track/5C69YlbofWRKFo6DRyXFrl) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Emperor Tomato Ketchup \(Expanded Edition\)](https://open.spotify.com/album/6SI4L8ARoPuOCGcnBrnIkn) | 7:54 | 2022-02-25 | 2022-11-13 |
 | [Movin' on Up](https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 3:50 | 2022-02-25 |  |
 | [Moving](https://open.spotify.com/track/1Xo5IcDLNOEpcB1RM4mBNF) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [Supergrass](https://open.spotify.com/album/7jSxr2MDcrNoOQOxWYg8zr) | 4:26 | 2022-03-25 | 2022-07-29 |
+| [Moving](https://open.spotify.com/track/5lkCsbgamJJF2APdUVf27A) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [Supergrass](https://open.spotify.com/album/3XNEqXHHt9KIT2vOPfwx5m) | 4:26 | 2023-11-27 |  |
 | [Music When The Lights Go Out](https://open.spotify.com/track/3cU9b4vb5yzyM12RXJ1k3s) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j) | 3:02 | 2023-11-27 |  |
 | [My Favourite Game](https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:40 | 2022-03-25 |  |
 | [Nearly Lost You](https://open.spotify.com/track/7qzFXUvBk7lELXuxVREypV) | [Screaming Trees](https://open.spotify.com/artist/3Ukr3Ufjg8ygRJv7Ww887f) | [Sweet Oblivion](https://open.spotify.com/album/3SOcm48I0DOX1KEHF2IEVY) | 4:07 | 2022-02-25 |  |
@@ -202,7 +203,7 @@
 | [Son Of Sam](https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 3:04 | 2022-02-25 |  |
 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 | 2022-03-25 |  |
 | [Song for the Dumped](https://open.spotify.com/track/3u13MyusqSsMVegpADUHHP) | [Ben Folds Five](https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk) | [Whatever And Ever Amen \(Remastered Edition\)](https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ) | 3:51 | 2022-03-25 | 2022-04-02 |
-| [Soul And Fire](https://open.spotify.com/track/72WzLBoSQggMZ0S5hm95VH) | [Sebadoh](https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6) | [Bubble & Scrape](https://open.spotify.com/album/541PK5WDS4QQL2yqT1ic6H) | 3:46 | 2022-02-25 |  |
+| [Soul And Fire](https://open.spotify.com/track/72WzLBoSQggMZ0S5hm95VH) | [Sebadoh](https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6) | [Bubble & Scrape](https://open.spotify.com/album/541PK5WDS4QQL2yqT1ic6H) | 3:46 | 2022-02-25 | 2024-02-01 |
 | [Sour Girl](https://open.spotify.com/track/6wNwHBUjsessjRioNVFbaO) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [No\. 4](https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV) | 4:16 | 2023-11-27 |  |
 | [Star Me Kitten](https://open.spotify.com/track/1DT8eLo3WOJ2cCDfYWMU2G) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 3:16 | 2023-11-27 |  |
 | [Staring at the Sun](https://open.spotify.com/track/0tHRJGyVYXgZpeNlon6Zkl) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Desperate Youth, Blood Thirsty Babes](https://open.spotify.com/album/3a7OlM2onuyfcI0ldtbBSx) | 3:26 | 2023-11-27 |  |

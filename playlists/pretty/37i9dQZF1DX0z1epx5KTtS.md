@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Dydy Yeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,316 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,375 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Ça'a te dégoûter](https://open.spotify.com/track/02DUGJxrCBUh7fUNBPad59) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [Ça'a te dégoûter](https://open.spotify.com/album/2lRHcHdMLLaGeKjVx8HFcI) | 3:25 |
 | 40 | [petite position](https://open.spotify.com/track/1QbjKkAwxDQ49KtplR54Gz) | [Molare](https://open.spotify.com/artist/4RVinIIKSvO4mc0DGj8FW1), [zagpa le requin](https://open.spotify.com/artist/2a77lQyTgbEF3iGy1Dl8V9) | [petite position](https://open.spotify.com/album/6sqTDg1fnpCzNcC1zryqsM) | 3:27 |
 
-Snapshot ID: `MCwzMTZhYjEwMTQ5NzEyMWI1NzMwMzNjNWYzN2E5MDc3NmIzZTE2MTEw`
+Snapshot ID: `MCw2MGE0Y2VlMzc3OWZjZmVjYzUwYjAwODY2NGI3MDU2ZjNlYmY1ZDQ3`

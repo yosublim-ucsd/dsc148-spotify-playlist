@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:0OQ8y7heASb1vEX5WXvjCr">Aaron Cole</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,801 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,884 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 46 | [Symphony \- Acoustic Version](https://open.spotify.com/track/09oUgdS418oeiPDMWE2bkg) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Symphony \(Acoustic Version\)](https://open.spotify.com/album/3KmzJRszOlFuP6T4wgU9pR) | 4:01 |
 | 47 | [Your Love is Strong](https://open.spotify.com/track/3is6LfFLkhw3ZIkLEyIEDH) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Your Love is Strong](https://open.spotify.com/album/3lhZ8dlJLA6Z2U5iQ8BjWk) | 5:17 |
 | 48 | [KMFTF](https://open.spotify.com/track/2A6tZQNqhjNXu6adGokOut) | [Austin Koukal](https://open.spotify.com/artist/47e5G9UHhlQ2O39lG7aBJy), [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1) | [KMFTF](https://open.spotify.com/album/0shzlmMAakU3u2PBfJkCVX) | 4:40 |
-| 49 | [Clean Heart](https://open.spotify.com/track/3fKcD1dDzd3azzuLii8Foj) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Spencer Boliou](https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx), [Derek Ryan](https://open.spotify.com/artist/3LuGac8r7uXKcZ5zTMtCkl), [UPSIDE DOWN KINGDOMS](https://open.spotify.com/artist/77vVxW0MA0FCKCnZHFAQGq) | [Clean Heart](https://open.spotify.com/album/2LxvrWt7TfbOPhJkwsNwXP) | 3:43 |
+| 49 | [Clean Heart](https://open.spotify.com/track/3fKcD1dDzd3azzuLii8Foj) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Spencer Boliou](https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx), [Derek Ryan](https://open.spotify.com/artist/73082XnqLoO2xyCv8vzEed), [UPSIDE DOWN KINGDOMS](https://open.spotify.com/artist/77vVxW0MA0FCKCnZHFAQGq) | [Clean Heart](https://open.spotify.com/album/2LxvrWt7TfbOPhJkwsNwXP) | 3:43 |
 | 50 | [Not Alright](https://open.spotify.com/track/0yRgc23Rc6Z8T0SVWWYqQe) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Not Alright](https://open.spotify.com/album/55jmKriqVEwbL72s4FCieo) | 3:14 |
 | 51 | [Overflow](https://open.spotify.com/track/3LDLmsUD3ixbH5fH6gKRkR) | [Trampolines](https://open.spotify.com/artist/6aldh6681sMUSZe2CETBh2) | [Overflow](https://open.spotify.com/album/4p3JjHEOssGpZisGX6Omsi) | 3:29 |
 | 52 | [Omnipresence](https://open.spotify.com/track/0vXIpFhfl41Gyzpwvx6zgE) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c) | [Omnipresence](https://open.spotify.com/album/6mmVvJIsDmygSZ5RMzJdjX) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Big Big God \- Extended Version](https://open.spotify.com/track/1z4hjQ1OCC8EaYW1J45LcO) | [Craig Mizell](https://open.spotify.com/artist/1rOY1iw4CvLiLh22QXlO7i), [The Collective](https://open.spotify.com/artist/4VJFjCxnsUyDyHdKGrxJIn), [Detroit Youth Choir](https://open.spotify.com/artist/66FHA5afkqcg2K3Qwd9LaT), [Kevin Stewart](https://open.spotify.com/artist/6NqkRIkLkQMU2ojpWSTBoN), [Leila Taraneh](https://open.spotify.com/artist/7Gv6D9y5s4AaW0thF3f06F) | [Big Big God](https://open.spotify.com/album/1fUMDYlFFUXuBy8BpVwm9D) | 4:52 |
 | 100 | [We Will Sing](https://open.spotify.com/track/1wKpacWkDUIYs3V65A10tQ) | [Chevelle Franklyn](https://open.spotify.com/artist/7mJ39b6DNnEJ263UqTvKmc) | [We Will Sing](https://open.spotify.com/album/2IyqhFOj5Fxhlzb12zXYsD) | 4:51 |
 
-Snapshot ID: `MCw4MTA4NDhlNDZmZDZmZGIwNGFkZDczMjljYTkwY2ZiNTFlMzI2NThl`
+Snapshot ID: `MCw3MzFjNzhlYmQxNmJjMTczZWYxMjg3YjQyNDliYTM4YmU4MWUyZTVl`

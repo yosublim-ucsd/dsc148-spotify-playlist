@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 259077,
+  "num_followers": 259074,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjYxZTQyMDM4MmNiODcyZmUwYjJhOGYzYTdiYzFiMGUxYzUxOTUx",
+  "snapshot_id": "MCwwMzM4MzNhN2RiZWY2MDgyYTdhYThjMWQ0ODBhNTE3ODE0OTU3Mzgx",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -467,30 +467,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "I would",
-        "url": "https://open.spotify.com/album/6xndm8lDtaY2xEGP3Ue0wv"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        },
-        {
-          "name": "Harris Cole",
-          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
-        },
-        {
-          "name": "Aso",
-          "url": "https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8"
-        }
-      ],
-      "duration_ms": 205564,
-      "name": "I would",
-      "url": "https://open.spotify.com/track/3UBm5xTWE95rigyzgRq4iT"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
         "url": "https://open.spotify.com/album/21iBuI7GQwUDkBPErWjPi0"
       },
@@ -511,6 +487,30 @@
       "duration_ms": 200504,
       "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
       "url": "https://open.spotify.com/track/28atUbzCFihH4GA3dU1gVM"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "I would",
+        "url": "https://open.spotify.com/album/6xndm8lDtaY2xEGP3Ue0wv"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        },
+        {
+          "name": "Harris Cole",
+          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
+        },
+        {
+          "name": "Aso",
+          "url": "https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8"
+        }
+      ],
+      "duration_ms": 205564,
+      "name": "I would",
+      "url": "https://open.spotify.com/track/3UBm5xTWE95rigyzgRq4iT"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -571,6 +571,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Naps",
+        "url": "https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl"
+      },
+      "artists": [
+        {
+          "name": "Joey Pecoraro",
+          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
+        }
+      ],
+      "duration_ms": 238148,
+      "name": "Naps",
+      "url": "https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Homegrown (Remixes)",
         "url": "https://open.spotify.com/album/1I1hFpUraLXdCtDnMXSh6N"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 245000,
       "name": "Homegrown - Empty Woods Remix",
       "url": "https://open.spotify.com/track/6hBLjkIOP23jWYcPsrJM43"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Naps",
-        "url": "https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl"
-      },
-      "artists": [
-        {
-          "name": "Joey Pecoraro",
-          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
-        }
-      ],
-      "duration_ms": 238148,
-      "name": "Naps",
-      "url": "https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy"
     },
     {
-      "added_at": "2019-09-16 15:44:25",
-      "album": {
-        "name": "Baby You Can Free Your Mind",
-        "url": "https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2"
-      },
-      "artists": [
-        {
-          "name": "Mind Bath",
-          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
-        }
-      ],
-      "duration_ms": 335180,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "I've Always Been",
@@ -681,20 +665,20 @@
       "url": "https://open.spotify.com/track/0Uxmhbm1sUiyh6geMnwzG4"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
+      "added_at": "2019-09-16 15:44:25",
       "album": {
-        "name": "Island -EP",
-        "url": "https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W"
+        "name": "Baby You Can Free Your Mind",
+        "url": "https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2"
       },
       "artists": [
         {
-          "name": "Nuit Oce\u0101n",
-          "url": "https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4"
+          "name": "Mind Bath",
+          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
         }
       ],
-      "duration_ms": 185758,
-      "name": "Together Alone",
-      "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
+      "duration_ms": 335180,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
     },
     {
       "added_at": "2019-06-07 08:01:00",
@@ -711,6 +695,22 @@
       "duration_ms": 210745,
       "name": "Pinch",
       "url": "https://open.spotify.com/track/4aBSowf9IG9wauVq8tddRz"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Island -EP",
+        "url": "https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W"
+      },
+      "artists": [
+        {
+          "name": "Nuit Oce\u0101n",
+          "url": "https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4"
+        }
+      ],
+      "duration_ms": 185758,
+      "name": "Together Alone",
+      "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -797,6 +797,26 @@
       "url": "https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t"
     },
     {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "Holiday (Kyson Remix)",
+        "url": "https://open.spotify.com/album/47zoz7TyC4OsXUTOSZiMRx"
+      },
+      "artists": [
+        {
+          "name": "Drinker",
+          "url": "https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur"
+        },
+        {
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+        }
+      ],
+      "duration_ms": 281727,
+      "name": "Holiday - Kyson Remix",
+      "url": "https://open.spotify.com/track/4k9izZqQMgE5nSGYFXQSHZ"
+    },
+    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Fleur",
@@ -833,24 +853,20 @@
       "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
     },
     {
-      "added_at": "2019-05-24 08:01:00",
+      "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Holiday (Kyson Remix)",
-        "url": "https://open.spotify.com/album/47zoz7TyC4OsXUTOSZiMRx"
+        "name": "Small Clan",
+        "url": "https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J"
       },
       "artists": [
         {
-          "name": "Drinker",
-          "url": "https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur"
-        },
-        {
-          "name": "Kyson",
-          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+          "name": "Miink",
+          "url": "https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg"
         }
       ],
-      "duration_ms": 281727,
-      "name": "Holiday - Kyson Remix",
-      "url": "https://open.spotify.com/track/4k9izZqQMgE5nSGYFXQSHZ"
+      "duration_ms": 232312,
+      "name": "Yellow Dust",
+      "url": "https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -871,22 +887,6 @@
       "duration_ms": 198776,
       "name": "Home (feat. LEES)",
       "url": "https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Small Clan",
-        "url": "https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J"
-      },
-      "artists": [
-        {
-          "name": "Miink",
-          "url": "https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg"
-        }
-      ],
-      "duration_ms": 232312,
-      "name": "Yellow Dust",
-      "url": "https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -953,20 +953,20 @@
       "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
     },
     {
-      "added_at": "2019-05-24 08:01:00",
+      "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "VALIS",
-        "url": "https://open.spotify.com/album/5JhPxcOnJBO2tnypyuellA"
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/0id4OAtEVPbvZHLuTErrF0"
       },
       "artists": [
         {
-          "name": "Reptaliens",
-          "url": "https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1"
+          "name": "Hazey Eyes",
+          "url": "https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR"
         }
       ],
-      "duration_ms": 198958,
-      "name": "Echo Park",
-      "url": "https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0"
+      "duration_ms": 145174,
+      "name": "Our Story",
+      "url": "https://open.spotify.com/track/3Q2L3ElOwMYki1aEV5kBQw"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -985,20 +985,20 @@
       "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
+      "added_at": "2019-05-24 08:01:00",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/0id4OAtEVPbvZHLuTErrF0"
+        "name": "VALIS",
+        "url": "https://open.spotify.com/album/5JhPxcOnJBO2tnypyuellA"
       },
       "artists": [
         {
-          "name": "Hazey Eyes",
-          "url": "https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR"
+          "name": "Reptaliens",
+          "url": "https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1"
         }
       ],
-      "duration_ms": 145174,
-      "name": "Our Story",
-      "url": "https://open.spotify.com/track/3Q2L3ElOwMYki1aEV5kBQw"
+      "duration_ms": 198958,
+      "name": "Echo Park",
+      "url": "https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0"
     },
     {
       "added_at": "2019-05-24 08:01:00",

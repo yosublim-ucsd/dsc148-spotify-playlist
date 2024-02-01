@@ -1488,10 +1488,32 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 195000,
       "name": "Memories",
       "url": "https://open.spotify.com/track/06Aw2mGplT34DH8p685eKc"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/10LzKOFf7M5m1LVAucGsHM"
+      },
+      "artists": [
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Just Derrick",
+          "url": "https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2cJZ2nyLpIzHSQcZzDmiWL"
     },
     {
       "album": {

@@ -64,7 +64,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 223815,
       "name": "ADULTHOOD",
       "url": "https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko"
@@ -180,6 +180,24 @@
       "duration_ms": 207306,
       "name": "Bad Bad News",
       "url": "https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg"
+    },
+    {
+      "album": {
+        "name": "Beacon",
+        "url": "https://open.spotify.com/album/4LM0yqf8JFZM0znpmZ3N2x"
+      },
+      "artists": [
+        {
+          "name": "Matt Duncan",
+          "url": "https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214360,
+      "name": "Beacon",
+      "url": "https://open.spotify.com/track/4BzL0gi5iQAEoXvISn95Md"
     },
     {
       "album": {
@@ -1650,7 +1668,7 @@
       ],
       "date_added": "2021-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 334477,
       "name": "Side by Side",
       "url": "https://open.spotify.com/track/5RABWGh9kQl6I3WFaGOKje"
@@ -1918,6 +1936,24 @@
       "duration_ms": 245080,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS"
+    },
+    {
+      "album": {
+        "name": "Soft Times",
+        "url": "https://open.spotify.com/album/2uYzXe3PhOs9p7jW3jDZue"
+      },
+      "artists": [
+        {
+          "name": "Matt Duncan",
+          "url": "https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217058,
+      "name": "The Keys",
+      "url": "https://open.spotify.com/track/3IKEgC5BTp0hzQxl5GTujD"
     },
     {
       "album": {

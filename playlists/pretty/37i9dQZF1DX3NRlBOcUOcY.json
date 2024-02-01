@@ -1,12 +1,12 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 447509,
+  "num_followers": 447419,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDkxNTBjMmRkZWUxODJjMDMzZWU0ZWRjNzRmMGE5YzA5MTEzZDBk",
+  "snapshot_id": "MCxmOTJjMjY5ZDJlMTEzNjhjMGVmM2JhMWNlMDEyOGEwOTdjMTcwMmFi",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Junio",
-        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "Junio",
-      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "ser humano",
         "url": "https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 199384,
       "name": "plan",
       "url": "https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Junio",
+        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "Junio",
+      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
     },
     {
       "added_at": "2024-01-19 05:00:00",

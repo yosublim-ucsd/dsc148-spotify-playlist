@@ -1,15 +1,15 @@
 {
   "description": "Country music's 50 most played songs in the world. Updated weekly. Cover: Morgan Wallen",
-  "num_followers": 1183219,
+  "num_followers": 1184703,
   "original_name": "Country Top 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGUzNTA3YjViNDgwZjJjODgzOTEyYzQ3YmU4MjcyOGI1YmQyOTk1",
+  "snapshot_id": "MCw1MDNiNzkyZjIxODEzMzQ4NDg4MzM1Mzg4NTYyZmVkMWU3OTdmMDVj",
   "tracks": [
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Something in the Orange",
         "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "3 Songs At A Time Sampler",
         "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
@@ -61,23 +61,7 @@
       "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
-      "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 265493,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
-    },
-    {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "One Thing At A Time",
         "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
@@ -93,7 +77,23 @@
       "url": "https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 265493,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Heading South",
         "url": "https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "You Proof",
         "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
@@ -125,7 +125,39 @@
       "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 178520,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 293293,
+      "name": "Tennessee Whiskey",
+      "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
@@ -145,55 +177,7 @@
       "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
-      "album": {
-        "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 178520,
-      "name": "Wasted On You",
-      "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
-    },
-    {
-      "added_at": "2024-01-25 22:13:17",
-      "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 293293,
-      "name": "Tennessee Whiskey",
-      "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
-    },
-    {
-      "added_at": "2024-01-25 22:13:17",
-      "album": {
-        "name": "White Horse",
-        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "White Horse",
-      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
-    },
-    {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
@@ -209,7 +193,23 @@
       "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Moment of Truth",
         "url": "https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI"
@@ -225,7 +225,23 @@
       "url": "https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "Coal",
+        "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "Coal",
+      "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Wild Ones (feat. Jelly Roll)",
         "url": "https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g"
@@ -245,39 +261,7 @@
       "url": "https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
-      "album": {
-        "name": "Coal",
-        "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
-      },
-      "artists": [
-        {
-          "name": "Dylan Gossett",
-          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "Coal",
-      "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
-    },
-    {
-      "added_at": "2024-01-25 22:13:17",
-      "album": {
-        "name": "Scared To Start",
-        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 159636,
-      "name": "Scared To Start",
-      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
-    },
-    {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Religiously. The Album.",
         "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
@@ -293,7 +277,7 @@
       "url": "https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "The Kind of Love We Make",
         "url": "https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu"
@@ -309,7 +293,23 @@
       "url": "https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "Poets & Old Souls",
+        "url": "https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss"
+      },
+      "artists": [
+        {
+          "name": "Bryan Martin",
+          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
+        }
+      ],
+      "duration_ms": 188482,
+      "name": "We Ride",
+      "url": "https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Religiously. The Album.",
         "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
@@ -325,7 +325,23 @@
       "url": "https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "No Caller ID",
+        "url": "https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 208759,
+      "name": "No Caller ID",
+      "url": "https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "This One's for You Too (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
@@ -341,7 +357,39 @@
       "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "White Horse",
+        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 267893,
+      "name": "White Horse",
+      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "Porch Light",
+        "url": "https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "duration_ms": 184949,
+      "name": "Porch Light",
+      "url": "https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Buy Dirt",
         "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
@@ -361,7 +409,7 @@
       "url": "https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Rich Men North of Richmond",
         "url": "https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI"
@@ -377,23 +425,7 @@
       "url": "https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
-      "album": {
-        "name": "Poets & Old Souls",
-        "url": "https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss"
-      },
-      "artists": [
-        {
-          "name": "Bryan Martin",
-          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
-        }
-      ],
-      "duration_ms": 188482,
-      "name": "We Ride",
-      "url": "https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO"
-    },
-    {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "This One's for You",
         "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
@@ -409,7 +441,7 @@
       "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "TRUCK BED",
         "url": "https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq"
@@ -425,7 +457,7 @@
       "url": "https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Country Squire",
         "url": "https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb"
@@ -441,7 +473,7 @@
       "url": "https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
@@ -457,7 +489,7 @@
       "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Cars (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
@@ -473,7 +505,7 @@
       "url": "https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Pretty Little Poison",
         "url": "https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M"
@@ -489,7 +521,7 @@
       "url": "https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Million Eyes",
         "url": "https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY"
@@ -505,7 +537,7 @@
       "url": "https://open.spotify.com/track/3fonAuTvuI5KMcmnueLAPq"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Some Hearts",
         "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
@@ -521,23 +553,7 @@
       "url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
-      "album": {
-        "name": "Porch Light",
-        "url": "https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA"
-      },
-      "artists": [
-        {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
-        }
-      ],
-      "duration_ms": 184949,
-      "name": "Porch Light",
-      "url": "https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU"
-    },
-    {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Purgatory",
         "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "The Painter",
         "url": "https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu"
@@ -569,7 +585,7 @@
       "url": "https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Religiously. The Album.",
         "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Next Thing You Know",
         "url": "https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Please Don't Go",
         "url": "https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "True Believers",
         "url": "https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8"
@@ -633,7 +649,7 @@
       "url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
@@ -681,27 +697,7 @@
       "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
-      "album": {
-        "name": "10,000 Hours (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 167693,
-      "name": "10,000 Hours (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
-    },
-    {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Religiously. The Album.",
         "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
@@ -717,7 +713,7 @@
       "url": "https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "NATE SMITH (DELUXE)",
         "url": "https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz"
@@ -733,7 +729,7 @@
       "url": "https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/4AOloVYcXn1aa4p4IhwhRM"
@@ -749,7 +745,7 @@
       "url": "https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Bell Bottom Country",
         "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
@@ -765,7 +761,7 @@
       "url": "https://open.spotify.com/track/3sYBFUXTv0STUoUINx9Qe8"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "The Foundation",
         "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
@@ -781,7 +777,7 @@
       "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "What My World Spins Around",
         "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
@@ -797,7 +793,7 @@
       "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Purgatory",
         "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
@@ -813,7 +809,7 @@
       "url": "https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv"
     },
     {
-      "added_at": "2024-01-25 22:13:17",
+      "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "This Town's Been Too Good To Us",
         "url": "https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol"

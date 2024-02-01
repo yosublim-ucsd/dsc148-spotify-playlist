@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most viral tracks right now - Argentina.",
-  "num_followers": 128145,
+  "num_followers": 128124,
   "original_name": "Viral 50 - Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzU5OTc5MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzYwMDY1NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
+      "album": {
+        "name": "Praise Jah In The Moonlight",
+        "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
+      },
+      "artists": [
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "duration_ms": 263040,
+      "name": "Praise Jah In The Moonlight",
+      "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
+    },
+    {
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "Buscando Money",
         "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
@@ -29,23 +45,23 @@
       "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
-        "name": "Praise Jah In The Moonlight",
-        "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
+        "name": "Bling-Bang-Bang-Born",
+        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
       },
       "artists": [
         {
-          "name": "YG Marley",
-          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
         }
       ],
-      "duration_ms": 263040,
-      "name": "Praise Jah In The Moonlight",
-      "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
+      "duration_ms": 168135,
+      "name": "Bling-Bang-Bang-Born",
+      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "Felicidad (De la serie 'Berl\u00edn' de Netflix)",
         "url": "https://open.spotify.com/album/5YeZ6BoqHtO60NLH1R1pkQ"
@@ -65,23 +81,7 @@
       "url": "https://open.spotify.com/track/1oANTqqfbOVwOX59aAeQOO"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
-      "album": {
-        "name": "Bling-Bang-Bang-Born",
-        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
-      },
-      "artists": [
-        {
-          "name": "Creepy Nuts",
-          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
-        }
-      ],
-      "duration_ms": 168135,
-      "name": "Bling-Bang-Bang-Born",
-      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
-    },
-    {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "HOLA PERDIDA",
         "url": "https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "FIRST LOVE",
         "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
@@ -137,7 +137,23 @@
       "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
+      "album": {
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+    },
+    {
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "Sin Querer",
         "url": "https://open.spotify.com/album/5crzwGAdOnMyylNrwt8fWx"
@@ -157,23 +173,7 @@
       "url": "https://open.spotify.com/track/0kVpyCPMT52a05026zHGiq"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
-      "album": {
-        "name": "Unwritten",
-        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Unwritten",
-      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
-    },
-    {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "Christell",
         "url": "https://open.spotify.com/album/3akGM9qVRzmn3WIDKc2xiz"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "Casi Angeles",
         "url": "https://open.spotify.com/album/6q1HM0kjnKUsyvEzSfrDsw"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/1tMG67mMQCsculYUqJR5RC"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "Una Foto Remix (feat. Emilia)",
         "url": "https://open.spotify.com/album/4f47mbk3DOWJ16DXLnviMw"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "B\u00e9cane - A COLORS SHOW",
         "url": "https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB"
@@ -281,23 +281,7 @@
       "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
-      "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
-    },
-    {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "Tal Para Cual",
         "url": "https://open.spotify.com/album/2rqHSa1Lohs3fTDDFeFnBy"
@@ -317,47 +301,7 @@
       "url": "https://open.spotify.com/track/0mJRX0WnqWlu8Boe7gpQ1P"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
-      "album": {
-        "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
-        "url": "https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 187172,
-      "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
-      "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
-    },
-    {
-      "added_at": "2024-01-30 14:25:52",
-      "album": {
-        "name": "Hombres y Mujeres",
-        "url": "https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 148644,
-      "name": "Hombres y Mujeres",
-      "url": "https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW"
-    },
-    {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "Ya no me duele :,)",
         "url": "https://open.spotify.com/album/0jJ0wlC1Or8aSdURo1TBWp"
@@ -377,7 +321,27 @@
       "url": "https://open.spotify.com/track/6gT5ISEKzUVT8eTy0f3GvU"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
+      "album": {
+        "name": "Hombres y Mujeres",
+        "url": "https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 148644,
+      "name": "Hombres y Mujeres",
+      "url": "https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW"
+    },
+    {
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
@@ -393,7 +357,43 @@
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
+      "album": {
+        "name": "La Diabla",
+        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 172264,
+      "name": "La Diabla",
+      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
+    },
+    {
+      "added_at": "2024-01-31 14:44:47",
+      "album": {
+        "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
+        "url": "https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 187172,
+      "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
+      "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
+    },
+    {
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "FERXXOCALIPSIS",
         "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
@@ -413,55 +413,23 @@
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
-        "name": "La Diabla",
-        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
       },
       "artists": [
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 172264,
-      "name": "La Diabla",
-      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
-      "album": {
-        "name": "Amores Como El Nuestro",
-        "url": "https://open.spotify.com/album/6eSa8HpdEziR7tGjHEx7iw"
-      },
-      "artists": [
-        {
-          "name": "Ararya",
-          "url": "https://open.spotify.com/artist/512SI8WyY6gMxCu5N6UYgd"
-        }
-      ],
-      "duration_ms": 228182,
-      "name": "Amores Como El Nuestro",
-      "url": "https://open.spotify.com/track/58DiRtepEpLtNwYchoazyi"
-    },
-    {
-      "added_at": "2024-01-30 14:25:52",
-      "album": {
-        "name": "Read My Lips",
-        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "Murder On The Dancefloor",
-      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
-    },
-    {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "Beso (Fruta Fresca)",
         "url": "https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV"
@@ -481,7 +449,39 @@
       "url": "https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
+      "album": {
+        "name": "Amores Como El Nuestro",
+        "url": "https://open.spotify.com/album/6eSa8HpdEziR7tGjHEx7iw"
+      },
+      "artists": [
+        {
+          "name": "Ararya",
+          "url": "https://open.spotify.com/artist/4mdmbYTm07t7WUrsk60aVW"
+        }
+      ],
+      "duration_ms": 228182,
+      "name": "Amores Como El Nuestro",
+      "url": "https://open.spotify.com/track/58DiRtepEpLtNwYchoazyi"
+    },
+    {
+      "added_at": "2024-01-31 14:44:47",
+      "album": {
+        "name": "Read My Lips",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
+    },
+    {
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "No Te Quieren Conmigo",
         "url": "https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP"
@@ -505,27 +505,43 @@
       "url": "https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
-        "name": "Buscando Money (Guaracha)",
-        "url": "https://open.spotify.com/album/2xvodqMvboFwvIdQfaTH4f"
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
       },
       "artists": [
         {
-          "name": "Jere Gines",
-          "url": "https://open.spotify.com/artist/4KudhfBdxMCzOUCmUjYmAz"
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
         },
         {
-          "name": "Dj Luciano Troncoso",
-          "url": "https://open.spotify.com/artist/10q5bnnlpwVGc2Lea4KaSh"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 160151,
-      "name": "Buscando Money (Guaracha)",
-      "url": "https://open.spotify.com/track/5cNzJJMnnvxIEAKjTIRomy"
+      "duration_ms": 170528,
+      "name": "Not My Fault (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
+      "album": {
+        "name": "Cuarteto Sessions #3",
+        "url": "https://open.spotify.com/album/2iDxLzsD09N23JARBiIGPA"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "duration_ms": 500989,
+      "name": "Cuarteto Sessions #3",
+      "url": "https://open.spotify.com/track/28v5fIoIa2Y07nqAXgBcXC"
+    },
+    {
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "Buscando Money",
         "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/4lHnvThqH1OC6AIh5MFOF4"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "Terer\u00e9",
         "url": "https://open.spotify.com/album/0rym8NaYG0cPQiiZUSa6kY"
@@ -569,7 +585,23 @@
       "url": "https://open.spotify.com/track/2oO5vunT8dcjevXXLTlWcW"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
+      "album": {
+        "name": "Never Lose Me",
+        "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 125901,
+      "name": "Never Lose Me",
+      "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
+    },
+    {
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "Inocente",
         "url": "https://open.spotify.com/album/1IwuM5jEXE9v58NVKUyrwk"
@@ -589,43 +621,59 @@
       "url": "https://open.spotify.com/track/6gV8ALkSHfJi7Bprabr1FC"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
-        "name": "Mean Girls (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+        "name": "Mil preguntas",
+        "url": "https://open.spotify.com/album/68TdQaRchrJqDmOO1rizlq"
       },
       "artists": [
         {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+          "name": "Marina Reche",
+          "url": "https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw"
+        }
+      ],
+      "duration_ms": 199701,
+      "name": "Mil preguntas",
+      "url": "https://open.spotify.com/track/78Kl2Yvf2XXEDXGFNXfYIr"
+    },
+    {
+      "added_at": "2024-01-31 14:44:47",
+      "album": {
+        "name": "Buscando Money (Guaracha)",
+        "url": "https://open.spotify.com/album/2xvodqMvboFwvIdQfaTH4f"
+      },
+      "artists": [
+        {
+          "name": "Jere Gines",
+          "url": "https://open.spotify.com/artist/4KudhfBdxMCzOUCmUjYmAz"
         },
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Dj Luciano Troncoso",
+          "url": "https://open.spotify.com/artist/10q5bnnlpwVGc2Lea4KaSh"
         }
       ],
-      "duration_ms": 170528,
-      "name": "Not My Fault (with Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
+      "duration_ms": 160151,
+      "name": "Buscando Money (Guaracha)",
+      "url": "https://open.spotify.com/track/5cNzJJMnnvxIEAKjTIRomy"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
-        "name": "Never Lose Me",
-        "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
       },
       "artists": [
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
         }
       ],
-      "duration_ms": 125901,
-      "name": "Never Lose Me",
-      "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
+      "duration_ms": 188742,
+      "name": "DOM1NGO",
+      "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "Alucin",
         "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
@@ -649,39 +697,7 @@
       "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
-      "album": {
-        "name": "Cuarteto Sessions #3",
-        "url": "https://open.spotify.com/album/2iDxLzsD09N23JARBiIGPA"
-      },
-      "artists": [
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        }
-      ],
-      "duration_ms": 500989,
-      "name": "Cuarteto Sessions #3",
-      "url": "https://open.spotify.com/track/28v5fIoIa2Y07nqAXgBcXC"
-    },
-    {
-      "added_at": "2024-01-30 14:25:52",
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 188742,
-      "name": "DOM1NGO",
-      "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
-    },
-    {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "Ando High",
         "url": "https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH"
@@ -701,7 +717,7 @@
       "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "SINVERG\u00dcENZA - con Angela Torres",
         "url": "https://open.spotify.com/album/2j4yf0X00zieL424k90UVn"
@@ -729,59 +745,7 @@
       "url": "https://open.spotify.com/track/2xbH0CuDbid800YW5nMPzR"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
-      "album": {
-        "name": "X'CLUSIVO",
-        "url": "https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "X'CLUSIVO",
-      "url": "https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm"
-    },
-    {
-      "added_at": "2024-01-30 14:25:52",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2024-01-30 14:25:52",
-      "album": {
-        "name": "ROZE | DJ TAO Turreo Sessions #22",
-        "url": "https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 155291,
-      "name": "ROZE | DJ TAO Turreo Sessions #22",
-      "url": "https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns"
-    },
-    {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "act ii: date @ 8",
         "url": "https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA"
@@ -797,27 +761,7 @@
       "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
-      "album": {
-        "name": "Vida y Tiempo",
-        "url": "https://open.spotify.com/album/7N1SCQo1RKfeToXAinEkgr"
-      },
-      "artists": [
-        {
-          "name": "Cach House",
-          "url": "https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc"
-        },
-        {
-          "name": "Conrado",
-          "url": "https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "Vida y Tiempo",
-      "url": "https://open.spotify.com/track/1pLgwnyBgi68NKZNsVYs56"
-    },
-    {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj"
@@ -837,23 +781,79 @@
       "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
-        "name": "Donde Te Pillemos Tarara Tarara Rkt",
-        "url": "https://open.spotify.com/album/1YjrqGTdjvrobcwxv89Ggo"
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
       "artists": [
         {
-          "name": "FACUU DJ",
-          "url": "https://open.spotify.com/artist/6IvYk2Vx3G6VY6AXBqDudt"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 145658,
-      "name": "Donde Te Pillemos Tarara Tarara Rkt",
-      "url": "https://open.spotify.com/track/4zYWtqpOzMlBeyyIvD9IIF"
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
+      "album": {
+        "name": "Vida y Tiempo",
+        "url": "https://open.spotify.com/album/7N1SCQo1RKfeToXAinEkgr"
+      },
+      "artists": [
+        {
+          "name": "Cach House",
+          "url": "https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc"
+        },
+        {
+          "name": "Conrado",
+          "url": "https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Vida y Tiempo",
+      "url": "https://open.spotify.com/track/1pLgwnyBgi68NKZNsVYs56"
+    },
+    {
+      "added_at": "2024-01-31 14:44:47",
+      "album": {
+        "name": "ROZE | DJ TAO Turreo Sessions #22",
+        "url": "https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 155291,
+      "name": "ROZE | DJ TAO Turreo Sessions #22",
+      "url": "https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns"
+    },
+    {
+      "added_at": "2024-01-31 14:44:47",
+      "album": {
+        "name": "X'CLUSIVO",
+        "url": "https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 175586,
+      "name": "X'CLUSIVO",
+      "url": "https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm"
+    },
+    {
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "PONTE SATA",
         "url": "https://open.spotify.com/album/0i4KtfYghWTAvi9VYmqXXJ"
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/305U3q7GpuywzXIUrSGHqC"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "CONTENT EXPLICIT",
         "url": "https://open.spotify.com/album/2gIIBLpo4Ut2kFqRttmm1X"
@@ -897,27 +897,23 @@
       "url": "https://open.spotify.com/track/0slrMPh8Cyu2oMU30OZL34"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
-        "name": "QUE ME FALTE TODO",
-        "url": "https://open.spotify.com/album/10O0BuUEtx9Rs3S9pgUBKd"
+        "name": "Donde Te Pillemos Tarara Tarara Rkt",
+        "url": "https://open.spotify.com/album/1YjrqGTdjvrobcwxv89Ggo"
       },
       "artists": [
         {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+          "name": "FACUU DJ",
+          "url": "https://open.spotify.com/artist/6IvYk2Vx3G6VY6AXBqDudt"
         }
       ],
-      "duration_ms": 165918,
-      "name": "QUE ME FALTE TODO",
-      "url": "https://open.spotify.com/track/1NMbORRsowjN8q000xlJ8l"
+      "duration_ms": 145658,
+      "name": "Donde Te Pillemos Tarara Tarara Rkt",
+      "url": "https://open.spotify.com/track/4zYWtqpOzMlBeyyIvD9IIF"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "Bzrp #58 Young Miko Techengue",
         "url": "https://open.spotify.com/album/2jXD7bC1znmfDzDVfQYUx4"
@@ -933,7 +929,7 @@
       "url": "https://open.spotify.com/track/1vgUIfjzRou1mXfjMnGoqf"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
         "name": "Patadas de Ahogado",
         "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
@@ -953,20 +949,24 @@
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
     },
     {
-      "added_at": "2024-01-30 14:25:52",
+      "added_at": "2024-01-31 14:44:47",
       "album": {
-        "name": "LUNA (Tech House)",
-        "url": "https://open.spotify.com/album/19Zsd1tFlrzqS9aGGOuyEo"
+        "name": "QUE ME FALTE TODO",
+        "url": "https://open.spotify.com/album/10O0BuUEtx9Rs3S9pgUBKd"
       },
       "artists": [
         {
-          "name": "Tomi Reig",
-          "url": "https://open.spotify.com/artist/3WVT8Ru2pGghiLHCYBDtmY"
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 198095,
-      "name": "LUNA (Tech House)",
-      "url": "https://open.spotify.com/track/4HVc9Vr4d4CNpoBPAAfaoQ"
+      "duration_ms": 165918,
+      "name": "QUE ME FALTE TODO",
+      "url": "https://open.spotify.com/track/1NMbORRsowjN8q000xlJ8l"
     }
   ],
   "unique_name": "Viral 50 - Argentina",

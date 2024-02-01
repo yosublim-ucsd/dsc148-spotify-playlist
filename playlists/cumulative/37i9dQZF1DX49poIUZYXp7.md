@@ -2,7 +2,7 @@
 
 ### [Women of Country](https://open.spotify.com/playlist/37i9dQZF1DX49poIUZYXp7)
 
-> The extraordinary women making great country music today\. Cover: Hannah Ellis
+> The extraordinary women making great country music today\. Cover: Mickey Guyton
 
 357 songs - 19 hr 32 min
 
@@ -215,7 +215,7 @@
 | [Never Been in Love](https://open.spotify.com/track/3gq98hzXfMGQ5VFIGJ1DoB) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Never Been in Love](https://open.spotify.com/album/6cps0yIKzYYVyHTW0TsEvN) | 2:59 | 2022-07-22 | 2023-02-15 |
 | [Never Been in Love](https://open.spotify.com/track/4SACHtzLlcNaUKGYC9oX30) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Never Been in Love](https://open.spotify.com/album/25xDXodLiZRjEve55T9A8G) | 2:59 | 2021-12-01 | 2022-04-15 |
 | [Never Til Now](https://open.spotify.com/track/2t6lQWC69f2ybmd6VTO2vU) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer \- Side A](https://open.spotify.com/album/1gH6cnZFuxGpRqv7R1da7r) | 2:53 | 2021-12-01 | 2022-07-29 |
-| [Never Til Now](https://open.spotify.com/track/6gCrHBlDZw3UkLSjzkLlGF) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer](https://open.spotify.com/album/38kLDWmm1uaKAtvYTT3ZAI) | 2:53 | 2022-07-22 |  |
+| [Never Til Now](https://open.spotify.com/track/6gCrHBlDZw3UkLSjzkLlGF) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer](https://open.spotify.com/album/38kLDWmm1uaKAtvYTT3ZAI) | 2:53 | 2022-07-22 | 2024-02-01 |
 | [Never Wanted To Be That Girl](https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl](https://open.spotify.com/album/3dmVohUADaRH81z0AETGev) | 3:34 | 2021-12-01 |  |
 | [Next Girl](https://open.spotify.com/track/2nkKBegmLjGjCZ0cP9xA09) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29](https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn) | 2:44 | 2021-12-01 |  |
 | [Not My Business](https://open.spotify.com/track/7rc8zMNiVa7gFs5BHN4RNy) | [Brittany Brodie](https://open.spotify.com/artist/2SCMzOSOfJt3GwROmroua5) | [Not My Business](https://open.spotify.com/album/1AXvisFBjFJWEsbbDEKaa4) | 3:10 | 2022-03-25 | 2022-04-21 |
@@ -236,7 +236,7 @@
 | [Raised Right](https://open.spotify.com/track/2TPhxHTLZA7Rncf2NZFQho) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Raised Right](https://open.spotify.com/album/46DaRD6UeqBpfhlULp0Zdy) | 3:11 | 2022-03-25 | 2022-04-21 |
 | [Record High](https://open.spotify.com/track/1eBEN4J2bVttJ62z2xIwua) | [Sykamore](https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI) | [California King](https://open.spotify.com/album/43shEMnLcqUq8ATewOTw4v) | 3:00 | 2022-02-04 | 2022-05-15 |
 | [Red Roses & Red Flags](https://open.spotify.com/track/3w1FQLKbeoZ5FD3Y4B5RJF) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Greatest Show On Dirt](https://open.spotify.com/album/54phHp2BG1tg3SuLdiWqio) | 4:24 | 2023-09-15 | 2023-12-02 |
-| [Remember Her Name](https://open.spotify.com/track/6YMnz4CTX2NSg2JtXiSFJU) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/2rAvDy2nHanof8iWkFUWKg) | 2:58 | 2021-12-01 | 2022-07-29 |
+| [Remember Her Name](https://open.spotify.com/track/6YMnz4CTX2NSg2JtXiSFJU) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/2rAvDy2nHanof8iWkFUWKg) | 2:58 | 2021-12-01 |  |
 | [Rhinestone Ring](https://open.spotify.com/track/2j4ap81Wqs3VmNWBg3tAt8) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Rhinestone Ring](https://open.spotify.com/album/17oU8IlYEwDF946GBffGp1) | 3:25 | 2022-02-04 | 2022-07-19 |
 | [Right On Time](https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Right On Time](https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh) | 3:06 | 2022-04-29 | 2023-11-04 |
 | [Right On Time](https://open.spotify.com/track/7bSx9PJnGPWb8PEkcdWB7z) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Right On Time](https://open.spotify.com/album/2C8RegZMCc1WLc3tQgjRUW) | 3:06 | 2023-10-27 | 2023-12-02 |

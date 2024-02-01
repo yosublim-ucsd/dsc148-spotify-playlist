@@ -4,7 +4,7 @@
 
 > Las favoritas de los patrones\. Markitos Toys, Pantera de Culiacán en portada.
 
-76 songs - 4 hr 4 min
+77 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,12 +39,13 @@
 | [El Gori](https://open.spotify.com/track/1HKCPYUanIF67N6vWknABj) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [El Gori](https://open.spotify.com/album/22J5eVxDiCkMMalHqT2jzK) | 2:17 | 2024-01-26 |  |
 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 | 2024-01-26 |  |
 | [El Jelty](https://open.spotify.com/track/0hXOh8C8Yz6Ok0yMXqdgnO) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Jelty](https://open.spotify.com/album/0HnwPMtwdE6iRhv8vRaulE) | 3:09 | 2024-01-26 |  |
+| [El Jessy](https://open.spotify.com/track/7KQXu5evPXvbP2zFITKsLx) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [El Jessy](https://open.spotify.com/album/71461Ih39CjzfdzTu0lVkY) | 3:19 | 2024-01-26 |  |
 | [El Mago](https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:57 | 2024-01-26 |  |
 | [El Mago Merlín](https://open.spotify.com/track/4dbH1Md7KseiHuzWAyE3Y3) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Mago Merlín](https://open.spotify.com/album/2tkBG4kM8b2punqvupfFSm) | 2:41 | 2024-01-26 |  |
 | [El Motor \(En Vivo\)](https://open.spotify.com/track/2qtvTiP5aVa9NK3FVIPiEm) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [Última Línea](https://open.spotify.com/artist/46jiFyo74WRds15c8wTofT) | [VETERANOS DE GUERRA \(En vivo\)](https://open.spotify.com/album/5hxtunkNAttTEZtXHbja9H) | 3:10 | 2024-01-26 |  |
 | [El Nini](https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Nini](https://open.spotify.com/album/4t9ykJcRqh40msncpBbLF0) | 4:31 | 2024-01-26 |  |
 | [El Panu \(En Vivo\)](https://open.spotify.com/track/0W1ifaL01aXznVi6ZhMWir) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [La Cruda Deluxe \(En Vivo\)](https://open.spotify.com/album/7FULQRQbO2j0c3uqpr4N5u) | 2:37 | 2024-01-26 |  |
-| [El Primito \- En Vivo](https://open.spotify.com/track/6mzbBunUF1aQI4U3hhf3qh) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq), [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Primito \(En Vivo\)](https://open.spotify.com/album/49i61oL9VS1ISxh4Zsn8NW) | 4:19 | 2024-01-26 |  |
+| [El Primito \- En Vivo](https://open.spotify.com/track/6mzbBunUF1aQI4U3hhf3qh) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq), [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Primito \(En Vivo\)](https://open.spotify.com/album/49i61oL9VS1ISxh4Zsn8NW) | 4:19 | 2024-01-26 | 2024-02-01 |
 | [EL RELOJITO](https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [EL RELOJITO](https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h) | 3:09 | 2024-01-26 |  |
 | [El Rápido](https://open.spotify.com/track/130anijBVOTasF32ZHwuJi) | [Gordo Arce](https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [KC Music](https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0) | [El Rápido](https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef) | 3:28 | 2024-01-26 |  |
 | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C) | 2:57 | 2024-01-26 |  |

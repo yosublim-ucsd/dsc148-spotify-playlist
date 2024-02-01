@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,210 songs - 1 day 2 hr 52 min
+1,211 songs - 1 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Early March](https://open.spotify.com/track/6uKEHH5DvA6jzujTsu2GmX) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Reflections](https://open.spotify.com/album/5Eh7lUr6T3rJo5C8naqOC2) | 1:31 | 2022-01-12 | 2024-01-30 |
 | [Early Spring](https://open.spotify.com/track/0ILfnjTqTwHXC0rfecKDyz) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Modern Piano Lullabies](https://open.spotify.com/album/66iwgells6KAwWRuCmUS1M) | 1:03 | 2022-08-25 | 2024-01-30 |
 | [Earth](https://open.spotify.com/track/5vjl5rgnadDrEvsetPc3Cl) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [The Planets](https://open.spotify.com/album/7ljRCBTVAkXyyDmZ2qNOgT) | 1:15 | 2022-01-12 |  |
+| [Echo](https://open.spotify.com/track/0KUT40vT9YNqjoorlPUnmz) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Echo](https://open.spotify.com/album/0Lp7QMGuTiUGtnCVZ1uyUP) | 1:00 | 2024-01-31 |  |
 | [Echoes](https://open.spotify.com/track/4kx6sM6M0y4diavB8rCEEm) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Daydream](https://open.spotify.com/album/2wsQBSfWogyFPyoVKhaGLv) | 1:58 | 2022-01-12 | 2023-08-01 |
 | [Echoes](https://open.spotify.com/track/5ThqnGDxSFMKedfDCksPA4) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Lost in Dreams](https://open.spotify.com/album/1KSrjyIcjFmL5JQO8yousZ) | 1:51 | 2024-01-29 |  |
 | [Echoes and Silence](https://open.spotify.com/track/4MwRGXpisETha7WpCYY2KR) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Ambient Strings](https://open.spotify.com/album/4V4CPYWrLhhCCkAbX6B2sy) | 1:30 | 2024-01-29 |  |

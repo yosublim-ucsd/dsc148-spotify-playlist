@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Omar Montes, Abraham Mateo
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,325 likes - 59 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,173 likes - 59 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,19 +42,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 32 | [Sobreviviste](https://open.spotify.com/track/3CGPWcU0S3tnb1hSvtyBmj) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobreviviste](https://open.spotify.com/album/1TpmuLGyFw9tVtuBIt7t6u) | 3:06 |
 | 33 | [Olvidé Olvidarte](https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Olvidé Olvidarte](https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P) | 3:01 |
 | 34 | [Palabra Prohibida](https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Palabra Prohibida](https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ) | 2:56 |
-| 35 | [RED FLAGS](https://open.spotify.com/track/4ihlB1pDXbQEtaDoMfyaYs) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [RED FLAGS](https://open.spotify.com/album/3xmrtrlaAAjBX7kVcAMB8G) | 3:10 |
+| 35 | [amor de verano](https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [amor de verano](https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG) | 2:56 |
 | 36 | [Física o Química \(feat\. Enol, Hens, Walls\)](https://open.spotify.com/track/4dqrBXSWOaaEI1jlPegcQz) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Física o Química \(feat\. Enol, Hens, Walls\)](https://open.spotify.com/album/1U0tpWjhDwrh09V9UnQtaU) | 3:35 |
 | 37 | [Mía](https://open.spotify.com/track/4iVvZOJiBmQXZHKTdLTh7C) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [Como Ves, No Siempre He Sido Mía...](https://open.spotify.com/album/6xRDlcSpp3keEbXgRtFiPa) | 3:27 |
 | 38 | [LUCES DE CIUDAD \(feat\. Álvaro De Luna, Dani Fernández\)](https://open.spotify.com/track/4GrbQq8TcYoUd4s5YmzydE) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [LUCES DE CIUDAD \(feat\. Álvaro De Luna, Dani Fernández\)](https://open.spotify.com/album/3EBBkRkTqYd59GNwxUH3ar) | 2:43 |
 | 39 | [ALICANTINA](https://open.spotify.com/track/13BMKkLZZj9wD7rCnrKHMn) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [ALICANTINA](https://open.spotify.com/album/2J18PEqkyz32M2ZzM6CS8p) | 2:38 |
 | 40 | [A Oscuras](https://open.spotify.com/track/0sf46dgA1e5uPj0uzwKCVn) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [A Oscuras](https://open.spotify.com/album/0z89TxA81wiOwBEyr6l7vN) | 2:39 |
 | 41 | [Puerta del Sol](https://open.spotify.com/track/13Cpy3Cl5f1K0VlNw0xPaT) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Puerta del Sol](https://open.spotify.com/album/0Feep6LUA5614f0kBIgLtU) | 3:13 |
-| 42 | [amor de verano](https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [amor de verano](https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG) | 2:56 |
+| 42 | [RED FLAGS](https://open.spotify.com/track/4ihlB1pDXbQEtaDoMfyaYs) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [RED FLAGS](https://open.spotify.com/album/3xmrtrlaAAjBX7kVcAMB8G) | 3:10 |
 | 43 | [Me Enamoro](https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 2:44 |
-| 44 | [Sé lo Que Hicisteis](https://open.spotify.com/track/7HZBJjlhBVSjHMm5YMMcNd) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Sé lo Que Hicisteis](https://open.spotify.com/album/4R6Bw8W5WPocIjynDm7BsL) | 3:29 |
-| 45 | [Derecho a No Declarar](https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Derecho a No Declarar](https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B) | 2:26 |
-| 46 | [Astronauta](https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Astronauta](https://open.spotify.com/album/5gHA0EkrBT7yANOSd9AFL6) | 2:49 |
-| 47 | [LOLITA](https://open.spotify.com/track/5i1FOXsvB6ITPZZm4dyLgq) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [LOLITA](https://open.spotify.com/album/0EO1dyAqWVpuhUtvwvXdpm) | 2:57 |
+| 44 | [Derecho a No Declarar](https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Derecho a No Declarar](https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B) | 2:26 |
+| 45 | [Sé lo Que Hicisteis](https://open.spotify.com/track/7HZBJjlhBVSjHMm5YMMcNd) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Sé lo Que Hicisteis](https://open.spotify.com/album/4R6Bw8W5WPocIjynDm7BsL) | 3:29 |
+| 46 | [LOLITA](https://open.spotify.com/track/5i1FOXsvB6ITPZZm4dyLgq) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [LOLITA](https://open.spotify.com/album/0EO1dyAqWVpuhUtvwvXdpm) | 2:57 |
+| 47 | [Astronauta](https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Astronauta](https://open.spotify.com/album/5gHA0EkrBT7yANOSd9AFL6) | 2:49 |
 | 48 | [PORTARSE MAL](https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [PORTARSE MAL](https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe) | 3:12 |
 | 49 | [MI BANDERA](https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Lugar Paraíso](https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5) | 3:21 |
 | 50 | [COMO TE QUIERO YO](https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [TE TRAJE FLORES](https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA) | 2:57 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 58 | [Frenesí](https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex) | [Danny Romero](https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM), [Fabbio](https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Frenesí](https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ) | 3:24 |
 | 59 | [No Te Conozco](https://open.spotify.com/track/7uWpQKO15DghiCLafPYRdU) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [No Te Conozco](https://open.spotify.com/album/6RVTyVzPCbZv17ByqITGr7) | 3:00 |
 
-Snapshot ID: `MCxkZDZmODg4NjIwNWI1ZTRmNjgxNTk3NWUyZjQxNDAzMjE5MWU1YmZh`
+Snapshot ID: `MCwzMzFkNDZjNTAxMzNlMjA4NTc3ZTcxM2Q4NGJmMDkzN2NkZDJmNDFh`

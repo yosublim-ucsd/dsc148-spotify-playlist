@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,559 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,586 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,21 +35,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 25 | [Bright Green Vibrant Gray](https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Bright Green Vibrant Gray](https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO) | 3:39 |
 | 26 | [Old Love](https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Old Love](https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg) | 3:25 |
 | 27 | [Du temps](https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Du temps](https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno) | 3:42 |
-| 28 | [Wolves Don't Live by the Rules \(feat Joe Grass\)](https://open.spotify.com/track/79r3EaZ8M7kEGPy7Tc1KxA) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3), [Joe Grass](https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 2:38 |
-| 29 | [Nous après nous](https://open.spotify.com/track/5gKETtS1wc1OGaucMkGQLg) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5) | 3:53 |
+| 28 | [Nous après nous](https://open.spotify.com/track/5gKETtS1wc1OGaucMkGQLg) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5) | 3:53 |
+| 29 | [Wolves Don't Live by the Rules \(feat Joe Grass\)](https://open.spotify.com/track/79r3EaZ8M7kEGPy7Tc1KxA) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3), [Joe Grass](https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 2:38 |
 | 30 | [Même les loups versent des larmes de joie](https://open.spotify.com/track/0CwmdepOxdzJuRwtRVbmVi) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 4:11 |
 | 31 | [Rosier\-douleur](https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [L'étrange pays](https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp) | 2:18 |
 | 32 | [C'est tout, c'est rien](https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [C'est tout, c'est rien](https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7) | 2:53 |
 | 33 | [Feeling Like A Plant](https://open.spotify.com/track/3oabWSuwImdNajR9s46Sdu) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Feeling Like A Plant](https://open.spotify.com/album/02KDbCTfvENyYrGJxOFyK5) | 2:59 |
 | 34 | [Tu trembleras encore](https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Tu ne mourras pas](https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1) | 3:21 |
 | 35 | [Colors](https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Colors](https://open.spotify.com/album/2lecuAW041jFGznJIATbhz) | 4:08 |
-| 36 | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/track/2lC31Spot6dK5hrdlGRYbe) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 4:13 |
+| 36 | [Les épousailles](https://open.spotify.com/track/6t5R6YTK8d6n7wxjZI3JLp) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Petite plage](https://open.spotify.com/album/6GjRQbVrTgjbdNlSs7Plor) | 2:38 |
 | 37 | [Ma chanson Natashquan](https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Ma chanson Natashquan](https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6) | 3:18 |
-| 38 | [Les épousailles](https://open.spotify.com/track/6t5R6YTK8d6n7wxjZI3JLp) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Petite plage](https://open.spotify.com/album/6GjRQbVrTgjbdNlSs7Plor) | 2:38 |
+| 38 | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/track/2lC31Spot6dK5hrdlGRYbe) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 4:13 |
 | 39 | [Cold World](https://open.spotify.com/track/6vrfAwiU7e7pM8GSa3A75S) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 3:44 |
 | 40 | [Maison\-monde](https://open.spotify.com/track/5RBF1WP8lY0OtzVOoYnPFN) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Maison\-monde](https://open.spotify.com/album/1gtEMwLBQYFoScnowHICsK) | 3:32 |
-| 41 | [La mort des étoiles](https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5) | 4:19 |
-| 42 | [Parmi les autres](https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Parmi les autres](https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw) | 3:39 |
+| 41 | [Parmi les autres](https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Parmi les autres](https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw) | 3:39 |
+| 42 | [La mort des étoiles](https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5) | 4:19 |
 | 43 | [Le bois](https://open.spotify.com/track/48rln9BcoGPT5WlLzns2FP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Le bois](https://open.spotify.com/album/485Zc5MM4peA0rQQzLCAiC) | 2:59 |
 | 44 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2lVAxivFrLs61yVFAlnqSb) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 4:33 |
 | 45 | [Horoscope](https://open.spotify.com/track/0EIiyuu3CJsaxDQa7ErM1w) | [Jeremy Lachance](https://open.spotify.com/artist/5Xl6EtM9an6yOUSkRaJlfX) | [Dear Vancouver / Cher Montréal](https://open.spotify.com/album/2H4s2ePccwQL6sj6oT5XaT) | 4:02 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 76 | [1000 Bornes](https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [The Paradise Club](https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7) | 3:04 |
 | 77 | [Morceaux](https://open.spotify.com/track/5cEjAzmvWIQYF54kUTdRKY) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Ceci est une espèce aimée](https://open.spotify.com/album/1EFz0WbdlqvV50NkSxJoWq) | 4:59 |
 | 78 | [Dormir dans l'auto](https://open.spotify.com/track/6YeU90UGMd5pOapVHBXF1Q) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Dormir dans l'auto](https://open.spotify.com/album/38XYlSUWPXP5g0YiFqnsEl) | 3:28 |
-| 79 | [L'eau vive](https://open.spotify.com/track/5TIBLZ1wnbx0msA94PLSrb) | [Coco Méliès](https://open.spotify.com/artist/6zjvUH1H89kLUdrSWCUEPX) | [L'eau vive](https://open.spotify.com/album/5j81vIkGAdMDg52RLtf5P0) | 4:01 |
-| 80 | [Elle vit dans les bois](https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Elle vit dans les bois](https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I) | 3:29 |
+| 79 | [Elle vit dans les bois](https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Elle vit dans les bois](https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I) | 3:29 |
+| 80 | [L'eau vive](https://open.spotify.com/track/5TIBLZ1wnbx0msA94PLSrb) | [Coco Méliès](https://open.spotify.com/artist/6zjvUH1H89kLUdrSWCUEPX) | [L'eau vive](https://open.spotify.com/album/5j81vIkGAdMDg52RLtf5P0) | 4:01 |
 | 81 | [Valhalla Dancer](https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Valhalla Dancer](https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da) | 3:43 |
 | 82 | [Passe ton chemin](https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [L'étrange pays](https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp) | 3:20 |
 | 83 | [Fables \- The Garden Version](https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Fables \(The Garden Version\)](https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s) | 2:56 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 97 | [Me semble que c'est facile](https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Me semble que c'est facile](https://open.spotify.com/album/79oVShReMrIa4ACzMTX990) | 3:23 |
 | 98 | [Derrière le bruit](https://open.spotify.com/track/124cRsjCieRBFKiwr0yPqV) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ) | 4:05 |
 | 99 | [Call Me](https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Call Me](https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg) | 2:59 |
-| 100 | [Prendre soin du beau](https://open.spotify.com/track/6cqT1guXExDBibebscbGqg) | [Jessica Charlie](https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op) | [Prendre soin du beau](https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY) | 3:15 |
+| 100 | [Elle danse](https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN) | [Mimi O'Bonsawin](https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt) | [Elle danse](https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy) | 2:29 |
 
-Snapshot ID: `MCwzYWEzZTdlNTQxYmFiYzYwYWFmYmE5M2ZkNzZhZDkwNmM5ZmEzZDBi`
+Snapshot ID: `MCw2OGRmNDUzMWJjNmNkMWJhN2I1ZTY2YmI0NTc5NWE3Nzk1YzFkMjhk`

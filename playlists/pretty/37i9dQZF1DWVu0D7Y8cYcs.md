@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 
 > Come on, man\. Just smile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,751 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,773 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 | 11 | [You Can Get It If You Really Want](https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7) | 2:38 |
 | 12 | [Blessed \(feat\. Damian Marley\)](https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:22 |
 | 13 | [Pressure Drop \- Single Version](https://open.spotify.com/track/2GImcOxFZ0GP49rmPnPOjT) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/5KcovfuEj1xrN4CHvWpcuM) | 2:53 |
-| 14 | [One Love / People Get Ready \- Medley](https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 2:52 |
+| 14 | [One Love / People Get Ready](https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 2:52 |
 | 15 | [Higher Place](https://open.spotify.com/track/6jQB97LaIftgb81KhkisXl) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:23 |
 | 16 | [Love I](https://open.spotify.com/track/4H1aZMAqnzICsnFVDf6Lxc) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh) | [The Green](https://open.spotify.com/album/37Qr8WHL9Pa1BYEeKDxaJ6) | 3:38 |
 | 17 | [Beach In Hawaii](https://open.spotify.com/track/4jKapTvg2oCpikdt0oFqf6) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 3:44 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 | 43 | [Sunday Morning](https://open.spotify.com/track/69DIpPwfHaO4mwHfn0oNTd) | [Morgan Heritage](https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1) | [Strictly Roots](https://open.spotify.com/album/7mWbD91KCO9KGGygDMuBpX) | 3:56 |
 | 44 | [Wonderful World, Beautiful People \- Single Version](https://open.spotify.com/track/4GEz5ZGMPcX9OZ5ta0v85e) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Best Of / 20th Century Masters](https://open.spotify.com/album/1HkG5JC2RNtrBl4Zq97qgA) | 3:13 |
 | 45 | [Woii](https://open.spotify.com/track/10J8eHB9Yajz8NODmjpjvt) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:28 |
-| 46 | [Jah Is There](https://open.spotify.com/track/05aGKJ2UcIjF9DetAnU0qF) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Dread & Terrible Project \- 5th Anniversary \(Deluxe Edition\)](https://open.spotify.com/album/3T5KaIlXqSnWUlnM99mOjv) | 4:17 |
-| 47 | [Well Excellent](https://open.spotify.com/track/2Hx9cYkT5WGVEwx0CgZluk) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Junior Demus](https://open.spotify.com/artist/5IFrtFQVF41xZVKgfCtnlj) | [Soundkilla Mindset](https://open.spotify.com/album/43b7p4ETTf4892gZ3UmO8K) | 3:36 |
-| 48 | [Push Time](https://open.spotify.com/track/4qeMtlPANjhEHKWm3VhmyK) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Super Cat](https://open.spotify.com/artist/7hHDN8REbPLpv46ROortOM) | [Push Time](https://open.spotify.com/album/0hG4yN1bfY9KhQcnUTQSDG) | 3:01 |
-| 49 | [Fix It](https://open.spotify.com/track/2FmD1oi2Wna2jcQcYEEYn5) | [Clinton Fearon](https://open.spotify.com/artist/2mSiPzmzBCGS7p6tEuRuTd) | [Fix It](https://open.spotify.com/album/0UIcpuZ7MGsGOSzv5RFB2p) | 3:02 |
-| 50 | [Warm & Easy](https://open.spotify.com/track/2K02J8shfay33u49WhlaZg) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Warm & Easy](https://open.spotify.com/album/3IkZdCpD7KXA0gMA0REKLl) | 4:55 |
+| 46 | [Burning](https://open.spotify.com/track/4y6JNAtj1M3pEScdp3II5n) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Burning](https://open.spotify.com/album/5HuUgDJo1huBlghzPrKRyO) | 3:01 |
+| 47 | [Jah Is There](https://open.spotify.com/track/05aGKJ2UcIjF9DetAnU0qF) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Dread & Terrible Project \- 5th Anniversary \(Deluxe Edition\)](https://open.spotify.com/album/3T5KaIlXqSnWUlnM99mOjv) | 4:17 |
+| 48 | [Well Excellent](https://open.spotify.com/track/2Hx9cYkT5WGVEwx0CgZluk) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Junior Demus](https://open.spotify.com/artist/5IFrtFQVF41xZVKgfCtnlj) | [Soundkilla Mindset](https://open.spotify.com/album/43b7p4ETTf4892gZ3UmO8K) | 3:36 |
+| 49 | [Push Time](https://open.spotify.com/track/4qeMtlPANjhEHKWm3VhmyK) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Super Cat](https://open.spotify.com/artist/7hHDN8REbPLpv46ROortOM) | [Push Time](https://open.spotify.com/album/0hG4yN1bfY9KhQcnUTQSDG) | 3:01 |
+| 50 | [Fix It](https://open.spotify.com/track/2FmD1oi2Wna2jcQcYEEYn5) | [Clinton Fearon](https://open.spotify.com/artist/2mSiPzmzBCGS7p6tEuRuTd) | [Fix It](https://open.spotify.com/album/0UIcpuZ7MGsGOSzv5RFB2p) | 3:02 |
 
-Snapshot ID: `MCxlZjM0YjFkYWRkZGIwYWU3ZmY4MGM5MDBjM2JjMzQxZTVlYmQ2OWNl`
+Snapshot ID: `MCw3YjJiM2M1ODc0ZmU4NTI4ZDA4YzVkN2Q2MjQ3OGU4YjA4NmNmOGE2`

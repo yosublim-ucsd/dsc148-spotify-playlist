@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrln2UyZD7F.md) - [plain]
 
 > Le meilleur de la musique d'hier et d'aujourd'hui pour une journée parfaite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,068 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,166 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrln2UyZD7F.md) - [plain]
 | 59 | [Firework](https://open.spotify.com/track/3lXbHd0EoryoQh3vpevNEP) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM) | 3:47 |
 | 60 | [Don't Forget Me](https://open.spotify.com/track/7173t6WyjOaVya4lPFY00a) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:10 |
 
-Snapshot ID: `MCxlNGFkODljYzIzMjE0MDdmYjUxZTJkZTY3NTIxY2I3NWU3ZGVkNTM2`
+Snapshot ID: `MCwzYzVlZDYyZjg2YzA2MThkYjRmODkwYWEyMDY3NmM3Zjg5N2QzYjFm`

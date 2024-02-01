@@ -8715,6 +8715,24 @@
     },
     {
       "album": {
+        "name": "LA SOL MI",
+        "url": "https://open.spotify.com/album/04TnvhobYIlwA9SOIFMyGY"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172306,
+      "name": "LA SOL MI",
+      "url": "https://open.spotify.com/track/6h1laUrcyGZAwSj2k1KTRY"
+    },
+    {
+      "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d"
       },

@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: Alisha Dira",
-  "num_followers": 18916,
+  "num_followers": 18927,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGE0OTI4MmZhNmEwN2I0YmM3Y2I3YjE1YmEzYmQyNmIwMjEyZDA4",
+  "snapshot_id": "MCw4OGI5OTY1ZWM1Y2YyMjk4NGQzMjlhMTU3M2RjNDQ0ZmY2NThmYTg4",
   "tracks": [
     {
       "added_at": "2024-01-19 16:43:20",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-01-19 16:43:20",
       "album": {
+        "name": "Cukup",
+        "url": "https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr"
+      },
+      "artists": [
+        {
+          "name": "Ziva Magnolya",
+          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
+        }
+      ],
+      "duration_ms": 220230,
+      "name": "Cukup",
+      "url": "https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V"
+    },
+    {
+      "added_at": "2024-01-19 16:43:20",
+      "album": {
         "name": "when it all ends HERE",
         "url": "https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 285810,
       "name": "perayaan mati rasa",
       "url": "https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f"
-    },
-    {
-      "added_at": "2024-01-19 16:43:20",
-      "album": {
-        "name": "Cukup",
-        "url": "https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr"
-      },
-      "artists": [
-        {
-          "name": "Ziva Magnolya",
-          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
-        }
-      ],
-      "duration_ms": 220230,
-      "name": "Cukup",
-      "url": "https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V"
     },
     {
       "added_at": "2024-01-19 16:43:20",

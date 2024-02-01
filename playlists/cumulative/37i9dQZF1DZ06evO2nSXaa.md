@@ -4,7 +4,7 @@
 
 > This is Tate McRae\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 38 min
+55 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [cut my hair](https://open.spotify.com/track/2byJqu4cw657Y7G6nFogkG) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:55 | 2023-12-18 |  |
 | [Distant](https://open.spotify.com/track/2fHttjIlcNo8rGCUZVMY1B) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Sean Lew](https://open.spotify.com/artist/4lK930E2d4x8tjAgFhjJBP) | [Distant](https://open.spotify.com/album/5rmvHHk9FIMWIrGcOBHXHA) | 3:19 | 2023-12-18 |  |
 | [don't be sad](https://open.spotify.com/track/02iW5boMzeBDVRI0dRE1Yw) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [don't be sad](https://open.spotify.com/album/08Usy71SUwQRT09A7LTTgg) | 2:23 | 2023-12-18 |  |
-| [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 | 2023-12-18 | 2024-01-29 |
+| [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 | 2023-12-18 |  |
 | [Drown](https://open.spotify.com/track/7zmGroa83F8IqoGdN36Anr) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Drown](https://open.spotify.com/album/7jSZ6v4skvnBDh2ezEjPk3) | 3:36 | 2023-12-18 |  |
 | [exes](https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [exes](https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH) | 2:39 | 2023-12-18 | 2024-01-25 |
 | [exes](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:39 | 2024-01-24 |  |
@@ -36,11 +36,12 @@
 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 | 2023-12-18 |  |
 | [Hung up on You](https://open.spotify.com/track/3r2FIyRibvMaevfGdOGLQ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Hung up on You](https://open.spotify.com/album/1frUP08YTarlaENaJb9bpC) | 3:21 | 2023-12-18 |  |
 | [hurt my feelings](https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:02 | 2023-12-18 |  |
-| [i'm so gone](https://open.spotify.com/track/6uNv4npQ8FZLsH7naE9GK4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:26 | 2023-12-18 |  |
+| [i'm so gone](https://open.spotify.com/track/6uNv4npQ8FZLsH7naE9GK4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:26 | 2023-12-18 | 2024-02-01 |
 | [Kids Are Alright](https://open.spotify.com/track/3OXjT67T0GiQk2IcVbsmgE) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Kids Are Alright](https://open.spotify.com/album/0B0bBMpNLNOkYoznDluiL6) | 2:56 | 2023-12-18 | 2024-01-16 |
 | [lie to me](https://open.spotify.com/track/4f9IfFvBFm7Gsf1IVEudyf) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [lie to me](https://open.spotify.com/album/4BAEubwvC2r7bPRKlmRxUO) | 2:57 | 2023-12-18 |  |
 | [One Day](https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [One Day](https://open.spotify.com/album/5dcblm6CNsl9cCiQ6CsKjr) | 3:22 | 2023-12-18 |  |
-| [r u ok](https://open.spotify.com/track/7rq1zCf90CnU7OalBLIgNp) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [r u ok](https://open.spotify.com/album/4xhldRhsJY00rIkBFMe5yC) | 3:05 | 2023-12-18 |  |
+| [r u ok](https://open.spotify.com/track/7rq1zCf90CnU7OalBLIgNp) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [r u ok](https://open.spotify.com/album/4xhldRhsJY00rIkBFMe5yC) | 3:05 | 2023-12-18 | 2024-02-01 |
+| [r u ok](https://open.spotify.com/track/2ng0NW0HhJK0KTNZzZajRv) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 3:07 | 2024-01-31 |  |
 | [rubberband](https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [rubberband](https://open.spotify.com/album/3CWYvhScPEskXPOYiXG8SH) | 2:27 | 2023-12-18 |  |
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2023-12-18 | 2024-01-11 |
 | [run for the hills \(Spotify OUTSIDE Version\) \- Live from Malibu](https://open.spotify.com/track/1gMv5QSRDJ6SwcQGbTtAtB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify OUTSIDE](https://open.spotify.com/album/6iAheP6Xd45D2CocnMGMmE) | 2:44 | 2024-01-10 |  |

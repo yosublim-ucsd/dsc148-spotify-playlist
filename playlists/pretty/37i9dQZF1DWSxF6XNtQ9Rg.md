@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 
 > Solo hit rap da ascoltare in loop\. Cover: Sfera Ebbasta
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,518 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,577 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 44 | [2% \(feat\. Frah Quintale\)](https://open.spotify.com/track/5ODlTG5qxhCsC05E36Rv25) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Sinatra](https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R) | 3:31 |
 | 45 | [Pleasantville](https://open.spotify.com/track/4T7nI6RllPyFPXJtIAtC7l) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [Suicidol](https://open.spotify.com/album/2eLcG0rEYCIvG9yKdE18e6) | 5:49 |
 | 46 | [Soldi in Nero \- feat\. Sfera Ebbasta](https://open.spotify.com/track/1Xm2e1vDwOMeJJioWuG1s7) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Soldi in Nero \(feat\. Sfera Ebbasta\)](https://open.spotify.com/album/6FQX7kuSlqfWWCPv24HPaH) | 3:03 |
-| 47 | [Shakerando](https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Shakerando](https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ) | 3:15 |
-| 48 | [Stamm Fort \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/7iTTQvztpfrDneVSX9IGBD) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Potere](https://open.spotify.com/album/5euEUUI8h8f2lWE5GMi2T1) | 2:51 |
+| 47 | [Stamm Fort \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/7iTTQvztpfrDneVSX9IGBD) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Potere](https://open.spotify.com/album/5euEUUI8h8f2lWE5GMi2T1) | 2:51 |
+| 48 | [Shakerando](https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Shakerando](https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ) | 3:15 |
 | 49 | [CRUDELIA \- I nervi](https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:50 |
 | 50 | [Chico \(feat\. Rose Villain & Luchè\)](https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mr\. Fini](https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf) | 3:21 |
 | 51 | [Note killer](https://open.spotify.com/track/0QTPU4o8visZ7pz55n8Mco) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Mi fist \(Remastered version\)](https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8) | 4:24 |
@@ -69,16 +69,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 59 | [Toradol](https://open.spotify.com/track/3Rmv3h4ovgt9xVgWOfMlLx) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [QVC8 – Singles](https://open.spotify.com/album/53pRU3cH2Xsk7L9j6MFFcj) | 2:16 |
 | 60 | [TU MI HAI CAPITO \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2tIyoiGw4F82z2C8zb7eZB) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MADAME](https://open.spotify.com/album/7oF6ed3aSHU6aDD4MD3LIr) | 3:31 |
 | 61 | [Bisous](https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Bisous](https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP) | 2:34 |
-| 62 | [Bossoli](https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Bossoli](https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq) | 2:58 |
-| 63 | [Nulla Accade](https://open.spotify.com/track/6uqeN1m6DXG0yOQ4WMNndB) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Santeria](https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV) | 3:52 |
+| 62 | [Nulla Accade](https://open.spotify.com/track/6uqeN1m6DXG0yOQ4WMNndB) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Santeria](https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV) | 3:52 |
+| 63 | [Bossoli](https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Bossoli](https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq) | 2:58 |
 | 64 | [fuck 3x](https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [23 6451](https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO) | 2:41 |
 | 65 | [Bottiglie Privè](https://open.spotify.com/track/3E2KP5AWn6Wx0NcPstzKeo) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Bottiglie Privè](https://open.spotify.com/album/0vu1M0rGdZ7yR34KwyEmrj) | 3:09 |
 | 66 | [Davide \(feat\. Coez\)](https://open.spotify.com/track/1Lq5ApqhIWUXzlryFX2K6J) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Davide](https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8) | 3:26 |
 | 67 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 |
-| 68 | [Apnea](https://open.spotify.com/track/3lZfZpZmxkafEMi9doo7Of) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Io In Terra](https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc) | 3:31 |
-| 69 | [Stavo Pensando A Te](https://open.spotify.com/track/3UPigmZoN3ahvBgQdU9VK5) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Fenomeno](https://open.spotify.com/album/4ADdQgtvkvsnxYlg850nGA) | 4:24 |
-| 70 | [Malibu](https://open.spotify.com/track/08AN0HMXNr3DGGDCOWsTAw) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Bellaria](https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD) | 3:31 |
-| 71 | [Dende](https://open.spotify.com/track/2JeocKJi1eXYfLYxN4sdxJ) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Lunga Vita a Sto](https://open.spotify.com/album/4yx0csnN5jtVjPXwHTI626) | 3:29 |
+| 68 | [Stavo Pensando A Te](https://open.spotify.com/track/3UPigmZoN3ahvBgQdU9VK5) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Fenomeno](https://open.spotify.com/album/4ADdQgtvkvsnxYlg850nGA) | 4:24 |
+| 69 | [Apnea](https://open.spotify.com/track/3lZfZpZmxkafEMi9doo7Of) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Io In Terra](https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc) | 3:31 |
+| 70 | [Dende](https://open.spotify.com/track/2JeocKJi1eXYfLYxN4sdxJ) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Lunga Vita a Sto](https://open.spotify.com/album/4yx0csnN5jtVjPXwHTI626) | 3:29 |
+| 71 | [Malibu](https://open.spotify.com/track/08AN0HMXNr3DGGDCOWsTAw) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Bellaria](https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD) | 3:31 |
 | 72 | [Bella](https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Come Uccidere Un Usignolo](https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp) | 3:26 |
 | 73 | [Mon Fre \- feat\. Emis Killa](https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Mon Fre \(feat\. Emis Killa\)](https://open.spotify.com/album/77lRpzVsAaD51GUhOpQd3K) | 3:44 |
 | 74 | [Blue Sky](https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [Kepler](https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 99 | [Gli occhi della tigre](https://open.spotify.com/track/5pL8J6weoydzXglhsoJ6Vw) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [Raptus 3](https://open.spotify.com/album/04gdaRtg56whGgaaPnUsr4) | 2:46 |
 | 100 | [10 RAGAZZE \(con ERNIA\)](https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:54 |
 
-Snapshot ID: `MCwwOWMxZjk5OGM1MDM3NWY2NWQzODVlOWU3MWRiMWRmNmIxOWFkMmQ5`
+Snapshot ID: `MCwzYWJjMGMzYjIzYWQzODliM2NiNjVkNjcxYTRiZDljOTg4Njc3MTU3`

@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover :Rahul Dit-O",
-  "num_followers": 23109,
+  "num_followers": 23111,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Zjk1ZDUwOGU0Njg2ZTA5YTY2YTBmMmE5YThjOWI5ZDBkMzEzN2Q2",
+  "snapshot_id": "MCxiY2E0MWE4MDRlODc1YTc5Y2U0OGJhZGE4YTA2N2E0ZmFjM2I5YjVj",
   "tracks": [
     {
       "added_at": "2024-01-29 06:26:14",
@@ -25,6 +25,26 @@
       "url": "https://open.spotify.com/track/4bJCeVoQH0g0IVtZT1Mw1D"
     },
     {
+      "added_at": "2024-01-31 11:14:32",
+      "album": {
+        "name": "MADE IN KARNATAKA",
+        "url": "https://open.spotify.com/album/19gnp7j1D1BKrNMXzfNw91"
+      },
+      "artists": [
+        {
+          "name": "YASHICA RAJ",
+          "url": "https://open.spotify.com/artist/0mlHmQy2Zursbiill6EeXd"
+        },
+        {
+          "name": "MC Bijju",
+          "url": "https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp"
+        }
+      ],
+      "duration_ms": 96018,
+      "name": "MADE IN KARNATAKA",
+      "url": "https://open.spotify.com/track/02Zr33EJNBLMJOUgLxWBwb"
+    },
+    {
       "added_at": "2024-01-11 09:51:31",
       "album": {
         "name": "Rocky Bhai 2.0",
@@ -39,6 +59,22 @@
       "duration_ms": 138947,
       "name": "Rocky Bhai 2.0",
       "url": "https://open.spotify.com/track/2HHM1OusTbVkYoN3Zu8x8T"
+    },
+    {
+      "added_at": "2024-01-31 11:21:05",
+      "album": {
+        "name": "Full Charge",
+        "url": "https://open.spotify.com/album/6beHIG9uQMKnBduxEM9kO1"
+      },
+      "artists": [
+        {
+          "name": "H18",
+          "url": "https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3"
+        }
+      ],
+      "duration_ms": 146230,
+      "name": "Full Charge",
+      "url": "https://open.spotify.com/track/3uArz7gKhSuwSkTzFUlKBo"
     },
     {
       "added_at": "2023-10-25 08:03:09",
@@ -99,6 +135,26 @@
       "duration_ms": 249219,
       "name": "Nanomme Ninnodane",
       "url": "https://open.spotify.com/track/1nXe2tZgYkFYAQiwYrc605"
+    },
+    {
+      "added_at": "2024-01-31 11:22:04",
+      "album": {
+        "name": "E Antara",
+        "url": "https://open.spotify.com/album/5yFyCO1TBQ8drF3u8kOQW5"
+      },
+      "artists": [
+        {
+          "name": "Puornausri D",
+          "url": "https://open.spotify.com/artist/4CmS8ZU3EGQDw0dJ7APSsy"
+        },
+        {
+          "name": "Kishore Vishwakarma",
+          "url": "https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ"
+        }
+      ],
+      "duration_ms": 156201,
+      "name": "E Antara",
+      "url": "https://open.spotify.com/track/06B2qEW26f8HGryps3zjp6"
     },
     {
       "added_at": "2023-11-14 04:19:34",
@@ -1701,26 +1757,6 @@
       "url": "https://open.spotify.com/track/1dpbtaXrFGTlXL2HVxAFWz"
     },
     {
-      "added_at": "2023-07-24 11:52:54",
-      "album": {
-        "name": "Money In The World",
-        "url": "https://open.spotify.com/album/1cGiCtgfbtXuda2WIO41jj"
-      },
-      "artists": [
-        {
-          "name": "Paluz45",
-          "url": "https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04"
-        },
-        {
-          "name": "Manu Rao",
-          "url": "https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ"
-        }
-      ],
-      "duration_ms": 90918,
-      "name": "Money In The World",
-      "url": "https://open.spotify.com/track/3mb6cmdGfriBt5WHamvtdo"
-    },
-    {
       "added_at": "2023-07-28 12:59:32",
       "album": {
         "name": "Freedom",
@@ -1741,26 +1777,6 @@
       "url": "https://open.spotify.com/track/09ECyJMbdmo1i1Lq7yxArW"
     },
     {
-      "added_at": "2023-08-05 17:44:16",
-      "album": {
-        "name": "Kanmaniye",
-        "url": "https://open.spotify.com/album/40I6bsgUWOe19iiJkNDlbL"
-      },
-      "artists": [
-        {
-          "name": "K P Milan Kumar",
-          "url": "https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ"
-        },
-        {
-          "name": "Chaithra Ganiga",
-          "url": "https://open.spotify.com/artist/19MiECEeL27gGfhbyxRfEK"
-        }
-      ],
-      "duration_ms": 269489,
-      "name": "Kanmaniye",
-      "url": "https://open.spotify.com/track/3qm6n1CpNTb3OllQZpI2db"
-    },
-    {
       "added_at": "2023-08-09 11:31:08",
       "album": {
         "name": "Neeli Modagalu",
@@ -1775,26 +1791,6 @@
       "duration_ms": 262381,
       "name": "Neeli Modagalu",
       "url": "https://open.spotify.com/track/2685mgG3FA17n55sR9p59k"
-    },
-    {
-      "added_at": "2023-07-24 06:32:12",
-      "album": {
-        "name": "Omme Nee Nanage",
-        "url": "https://open.spotify.com/album/5QnUKIJmZmwHT7gfqRIFSp"
-      },
-      "artists": [
-        {
-          "name": "Swaroop Ramesh",
-          "url": "https://open.spotify.com/artist/6d0aG9002M0Y7me7eBWL0y"
-        },
-        {
-          "name": "Bats Creations",
-          "url": "https://open.spotify.com/artist/2kRPjoyqvRX2t4J3WvDwHp"
-        }
-      ],
-      "duration_ms": 317449,
-      "name": "Omme Nee Nanage",
-      "url": "https://open.spotify.com/track/3E2XCnmVjZdpisYfHL1Ewf"
     },
     {
       "added_at": "2023-07-17 06:13:51",
@@ -1835,30 +1831,6 @@
       "duration_ms": 177534,
       "name": "Pakshi",
       "url": "https://open.spotify.com/track/0fszASeFYOvRttPCKxTaYm"
-    },
-    {
-      "added_at": "2023-07-25 11:21:12",
-      "album": {
-        "name": "Baare Banake",
-        "url": "https://open.spotify.com/album/1PcxPwTbGTjdaBPcsfEYNJ"
-      },
-      "artists": [
-        {
-          "name": "Sunitha Ananthaswamy",
-          "url": "https://open.spotify.com/artist/08gkxhUNRG3oLI20fDL0ON"
-        },
-        {
-          "name": "Kalashree Dr.Jayashree Aravind",
-          "url": "https://open.spotify.com/artist/597E5ncWmDZhEkPzePD5tJ"
-        },
-        {
-          "name": "Anitha Ananthaswamy",
-          "url": "https://open.spotify.com/artist/45DEqOuTvLi5bEXHFwTyEv"
-        }
-      ],
-      "duration_ms": 438967,
-      "name": "Baare Banake",
-      "url": "https://open.spotify.com/track/77YIyUafNBzKHEY8Mn5OAT"
     },
     {
       "added_at": "2023-06-29 11:31:15",
@@ -1931,26 +1903,6 @@
       "duration_ms": 186229,
       "name": "Neene Nanna Dilruba",
       "url": "https://open.spotify.com/track/30TLwuKugPfrnMGJUyOpCX"
-    },
-    {
-      "added_at": "2022-10-25 07:43:45",
-      "album": {
-        "name": "Yaake Ni Heege?",
-        "url": "https://open.spotify.com/album/55RCaTpiNeCcpcGk6CwQRG"
-      },
-      "artists": [
-        {
-          "name": "Dheemusix",
-          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
-        },
-        {
-          "name": "Asher Mendonca",
-          "url": "https://open.spotify.com/artist/7vT1RnB74vnPFxhjnPC4Rr"
-        }
-      ],
-      "duration_ms": 179258,
-      "name": "Yaake Ni Heege?",
-      "url": "https://open.spotify.com/track/4OeTmbpN23HcBQUxk8CBAX"
     },
     {
       "added_at": "2022-12-09 12:52:23",

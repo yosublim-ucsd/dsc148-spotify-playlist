@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 547977,
+  "num_followers": 548225,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjMxMjlmZTA4NWRhMDA2NzUxNzNhYzlhZGI2YWMxNGMwMzUzN2Jj",
+  "snapshot_id": "MCw0Njk2NTI0ZDZhZDcxMWMyN2UxYzgxMGRmYmViNmI5YjUyZmU2NTkx",
   "tracks": [
     {
       "added_at": "2022-09-23 05:26:33",
@@ -345,7 +345,7 @@
         }
       ],
       "duration_ms": 172933,
-      "name": "One Love / People Get Ready - Medley",
+      "name": "One Love / People Get Ready",
       "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
     },
     {
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Gets Next to You",
-        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Tired of Being Alone",
-      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Back Home Again",
         "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 180693,
       "name": "Annie's Song",
       "url": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Gets Next to You",
+        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Tired of Being Alone",
+      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "360 Degrees of Billy Paul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Me and Mrs. Jones",
-      "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "I Got a Name",
         "url": "https://open.spotify.com/album/64dufEP8npd2jYoPfdzWPJ"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 154626,
       "name": "I\u2019ll Have to Say I Love You in a Song",
       "url": "https://open.spotify.com/track/7kWPh7dvoyJ0frnnZzxZPj"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "360 Degrees of Billy Paul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Me and Mrs. Jones",
+      "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "It Never Rains In Southern California",
-        "url": "https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM"
-      },
-      "artists": [
-        {
-          "name": "Albert Hammond",
-          "url": "https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g"
-        }
-      ],
-      "duration_ms": 233506,
-      "name": "It Never Rains in Southern California",
-      "url": "https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Verities & Balderdash",
         "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+        "name": "It Never Rains In Southern California",
+        "url": "https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM"
       },
       "artists": [
         {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+          "name": "Albert Hammond",
+          "url": "https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g"
         }
       ],
-      "duration_ms": 257786,
-      "name": "Jealous Guy - Remastered 2010",
-      "url": "https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE"
+      "duration_ms": 233506,
+      "name": "It Never Rains in Southern California",
+      "url": "https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1099,6 +1083,22 @@
       "duration_ms": 170066,
       "name": "Laughter In The Rain",
       "url": "https://open.spotify.com/track/2ozTcQyZQmm9tSmc4VZfwU"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 257786,
+      "name": "Jealous Guy - Remastered 2010",
+      "url": "https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Rose",
-        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "The Rose",
-      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Eric Carmen",
         "url": "https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 157653,
       "name": "Don't It Make My Brown Eyes Blue",
       "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Rose",
+        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "The Rose",
+      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Starland Vocal Band",
+        "url": "https://open.spotify.com/album/0SIkfBz37ZXzxXOZCi4JNk"
+      },
+      "artists": [
+        {
+          "name": "Starland Vocal Band",
+          "url": "https://open.spotify.com/artist/66QeIFuFJDNCImNHlFzrY1"
+        }
+      ],
+      "duration_ms": 193040,
+      "name": "Afternoon Delight",
+      "url": "https://open.spotify.com/track/1pBAsoHy7eN9aeVCTAiKua"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 205906,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Starland Vocal Band",
-        "url": "https://open.spotify.com/album/0SIkfBz37ZXzxXOZCi4JNk"
-      },
-      "artists": [
-        {
-          "name": "Starland Vocal Band",
-          "url": "https://open.spotify.com/artist/66QeIFuFJDNCImNHlFzrY1"
-        }
-      ],
-      "duration_ms": 193040,
-      "name": "Afternoon Delight",
-      "url": "https://open.spotify.com/track/1pBAsoHy7eN9aeVCTAiKua"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "First Under The Wire (Remastered 2022)",
-        "url": "https://open.spotify.com/album/1pPsslUdE1HeBxdlgXJ7Yp"
-      },
-      "artists": [
-        {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
-        }
-      ],
-      "duration_ms": 316218,
-      "name": "Cool Change - Remastered 2022",
-      "url": "https://open.spotify.com/track/2SEGYVnWImKLUOkU3Qa8sX"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Brother To Brother",
         "url": "https://open.spotify.com/album/4ohvIC6DYCyY1uyPcvXAFc"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 218306,
       "name": "I Just Wanna Stop",
       "url": "https://open.spotify.com/track/5ljGmNLjvQZm2hw8cDJXNJ"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "First Under The Wire (Remastered 2022)",
+        "url": "https://open.spotify.com/album/1pPsslUdE1HeBxdlgXJ7Yp"
+      },
+      "artists": [
+        {
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+        }
+      ],
+      "duration_ms": 316218,
+      "name": "Cool Change - Remastered 2022",
+      "url": "https://open.spotify.com/track/2SEGYVnWImKLUOkU3Qa8sX"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "JT",
-        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Handy Man",
-      "url": "https://open.spotify.com/track/70aUjWZmd9F3bRSsR4DwAJ"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "2 Hot!",
         "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 345240,
       "name": "Reunited",
       "url": "https://open.spotify.com/track/7wbPfd2mXbStoZZSnHNd2V"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "JT",
+        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Handy Man",
+      "url": "https://open.spotify.com/track/70aUjWZmd9F3bRSsR4DwAJ"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Neither One Of Us",
-        "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
-        }
-      ],
-      "duration_ms": 264266,
-      "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
-      "url": "https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/6sdXGlrywMohGMVg5gIqwp"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 185653,
       "name": "Song Sung Blue",
       "url": "https://open.spotify.com/track/57KfogSy3eKuk5JHLKwCJv"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Neither One Of Us",
+        "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "duration_ms": 264266,
+      "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
+      "url": "https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "September Morn",
-        "url": "https://open.spotify.com/album/6TGyHFvMMeLaKWPYTcRQU4"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "September Morn",
-      "url": "https://open.spotify.com/track/2CXkN6UAb3jAFwz4VbsDq0"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Gather Me",
         "url": "https://open.spotify.com/album/5THcElsOkPsIopiOQj18An"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 147040,
       "name": "Brand New Key",
       "url": "https://open.spotify.com/track/7da5B9d2oVV16YSzXVxmrR"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 168106,
+      "name": "Oh My Love - Remastered 2010",
+      "url": "https://open.spotify.com/track/0gDyuX5rdHulQTUyrIdSR1"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2399,18 +2399,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+        "name": "September Morn",
+        "url": "https://open.spotify.com/album/6TGyHFvMMeLaKWPYTcRQU4"
       },
       "artists": [
         {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
         }
       ],
-      "duration_ms": 168106,
-      "name": "Oh My Love - Remastered 2010",
-      "url": "https://open.spotify.com/track/0gDyuX5rdHulQTUyrIdSR1"
+      "duration_ms": 232000,
+      "name": "September Morn",
+      "url": "https://open.spotify.com/track/2CXkN6UAb3jAFwz4VbsDq0"
     },
     {
       "added_at": "2022-09-23 05:26:33",

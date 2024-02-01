@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Creepy Nuts
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,801 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,143 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 65 | [Ikiru](https://open.spotify.com/track/5ZlpDMIyUb6JRUlhYWsKIp) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:01 |
 | 66 | [tsuijuku](https://open.spotify.com/track/7dX6LTJkMZo65x1gURALEa) | [Rene Ryugasaki](https://open.spotify.com/artist/7iwHh2Rf3Sm4hiC4Ds8g6I), [azami](https://open.spotify.com/artist/6kmpJx7mGUinlMlN9O0ROz) | [tsuijuku](https://open.spotify.com/album/5SUUcgxWq0gFDI9kFgaWWV) | 3:48 |
 | 67 | [エンパシア](https://open.spotify.com/track/2UBdcJC3Ln67ne7cb7hrR3) | [CHiCO](https://open.spotify.com/artist/7IV8K4vnEgJDGkfeyjjbWL) | [エンパシア](https://open.spotify.com/album/5e0FBUwr1TNLyA2CyKQQzx) | 4:27 |
-| 68 | [＆疾走\(Reverse\) ft.花譜](https://open.spotify.com/track/0G2X34hx1ks0LRf2Zwa9NT) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [＆疾走 \(Deluxe ver.\)](https://open.spotify.com/album/4VQgTffnaflvIgx2jFz0IE) | 3:29 |
+| 68 | [＆SPRINT\(Reverse\) ft.KAF](https://open.spotify.com/track/0FC5xVOB5k7D7oP1mi8VzN) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [&SPRINT \(Deluxe ver.\)](https://open.spotify.com/album/77StVOdnNzsN4BAU98cuir) | 3:29 |
 | 69 | [センチメンタリズム \- feat\. 芹澤 優](https://open.spotify.com/track/7BIFJ3tHxrU28sBICphJQY) | [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC), [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP), [FUTUREmode](https://open.spotify.com/artist/6Vd60p0nesFh1BT0cSJERo) | [センチメンタリズム \(feat\. 芹澤 優\)](https://open.spotify.com/album/3zNOIekTZH9wpKrqdfsKW9) | 3:45 |
 | 70 | [Dodonpa](https://open.spotify.com/track/2AndL1gnrkjtzoxIy2AG8Y) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Candy Racer](https://open.spotify.com/album/1i5J264nc9xYsroDS3FTHx) | 4:37 |
 | 71 | [GOAT](https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO) | 2:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [スキスキ星人](https://open.spotify.com/track/217opy2ZZMNRyJauNHk3rH) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Strawberry Prince](https://open.spotify.com/album/1GzvzuViPqRHELbMtkY9JM) | 3:56 |
 | 75 | [ブライダルドリーム](https://open.spotify.com/track/6gtqm6Hpuyq133BvPG4oBu) | [兎田ぺこら](https://open.spotify.com/artist/4JlcSp9i5LcilRSMqaVimt), [宝鐘マリン](https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk) | [ブライダルドリーム](https://open.spotify.com/album/3fkZh6fm03KR3njtLJNG4T) | 3:11 |
 
-Snapshot ID: `MCxjMjg1ZjRlZTE0MmQ3NDM0MGE3ZTU1ODQ1MjgwMGJjOTI0MzAzZDMw`
+Snapshot ID: `MCwxOWI1OTgyNDY0MTJhZmQ4YjJmOTJiY2Q2OTc2ODVjYTJjYjMzZmIz`

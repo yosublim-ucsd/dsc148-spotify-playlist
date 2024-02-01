@@ -4,7 +4,7 @@
 
 > This is Dharius\. The essential tracks, all in one playlist.
 
-48 songs - 3 hr 11 min
+49 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Retumbando en la Ciudad](https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Retumbando en la Ciudad](https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J) | 3:34 | 2023-11-10 |  |
 | [Seguimos Controlando](https://open.spotify.com/track/3E1WD6DTUTgIn5Tfpgg6Zz) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 2:55 | 2023-11-10 |  |
 | [Serenata Rap](https://open.spotify.com/track/2RhZI0Ljg8nnouhwPIOHWc) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:27 | 2023-11-10 |  |
-| [Sin Dormir \(Ya Se Armó\)](https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Sin Dormir \(Ya Se Armó\)](https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A) | 2:40 | 2023-11-10 |  |
+| [Sin Dormir \(Ya Se Armó\)](https://open.spotify.com/track/1HfHDbNHzafjjxnLoAobRA) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Estrafalario](https://open.spotify.com/album/7lO0gX1rSWXYO9gnUqpY1p) | 2:40 | 2024-01-31 |  |
+| [Sin Dormir \(Ya Se Armó\)](https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Sin Dormir \(Ya Se Armó\)](https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A) | 2:40 | 2023-11-10 | 2024-02-01 |
 | [Solita](https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Solita](https://open.spotify.com/album/4jnbjRmfIxT6M5ECYpXizH) | 3:22 | 2023-11-10 |  |
 | [Te Enganchaste Mal \- Radio Edit](https://open.spotify.com/track/0LU0C4fZDavfWtUN4PhRr9) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Bakles](https://open.spotify.com/artist/1pJjYafqmpogl5o0OzkaP4), [Sebastian Llapur](https://open.spotify.com/artist/1TELtuCpDL3sbZnxXQApD0) | [Te Enganchaste Mal \(Radio Edit\)](https://open.spotify.com/album/2Ig1ZdiAEwjyubp9YBWiqZ) | 3:28 | 2023-11-10 |  |
 | [Te Gustan Malos](https://open.spotify.com/track/6VexUh4HjrQOBEGhLKspoS) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:06 | 2023-11-10 |  |

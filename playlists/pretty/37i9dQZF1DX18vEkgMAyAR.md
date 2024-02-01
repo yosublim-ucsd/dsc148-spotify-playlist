@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,572 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,608 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 59 | [Taking It Easy](https://open.spotify.com/track/3TxzxETVzNxcVgyH046azF) | [GoodLuck](https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3) | [Taking It Easy](https://open.spotify.com/album/7tpKCYCD9014y6vclyHMaG) | 4:04 |
 | 60 | [Say You Will Remember Me](https://open.spotify.com/track/3cVbwXyr9oZdeNfISdeS7F) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Say You Will Remember Me](https://open.spotify.com/album/39wcKYCki3w61JhTzUM8be) | 3:22 |
 
-Snapshot ID: `MCw0Y2Y3M2JlNDk2ZjVmNGU5MWE1NGJjNDEzOTZjMjBkNTBjMjYyMjJj`
+Snapshot ID: `MCwzNjA5ZmZjNjVmZDAwYjcwNmIyZGMxNWNhOWZlYWM2MmVlNjYyNTQ4`

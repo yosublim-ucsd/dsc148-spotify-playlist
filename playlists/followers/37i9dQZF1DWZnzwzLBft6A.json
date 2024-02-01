@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 652096,
+  "2024-02-01": 652196,
   "date_first_scraped": "2021-12-21",
   "description": "He perfected counterpoint, set the bar for cello suites, and absolutely loved a curly white wig: JS Bach played a huge part in shaping all the classical music we enjoy today. Discover why, right here.",
   "name": "This Is Bach",
@@ -2430,6 +2430,36 @@
     },
     {
       "album": {
+        "name": "Bach, J.S. St. Matthew Passion - Arias & Choruses",
+        "url": "https://open.spotify.com/album/1KtqRUSVnbGFvmYFuAqlGT"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Chicago Symphony Chorus",
+          "url": "https://open.spotify.com/artist/18PZhbpywoKUnS1nCmXIPK"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478666,
+      "name": "St. Matthew Passion, BWV 244 - Part One: 1. Kommt, ihr T\u00f6chter, helft mir klagen",
+      "url": "https://open.spotify.com/track/07DRcu05thgme0H5QVLpIN"
+    },
+    {
+      "album": {
         "name": "Bach, J.S.: St. Matthew Passion BWV 244",
         "url": "https://open.spotify.com/album/2mU3d149oeckX42YYrYJ0e"
       },
@@ -2453,7 +2483,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 480093,
       "name": "St. Matthew Passion, BWV 244 - Part One: 1. Kommt, ihr T\u00f6chter, helft mir klagen",
       "url": "https://open.spotify.com/track/3KEWaqqdnB05DTOjgdQFwD"

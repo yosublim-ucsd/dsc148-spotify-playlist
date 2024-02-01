@@ -4,7 +4,7 @@
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-186 songs - 12 hr 43 min
+187 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Fuego](https://open.spotify.com/track/3tMvpeEncl1c4yhdGTnPqP) | [Frater](https://open.spotify.com/artist/5DwwjAmvqk6NZMyeTaOzum) | [Pulso en Eclipse](https://open.spotify.com/album/3Q0BvJmPVqT378gTRij1W3) | 4:54 | 2020-10-24 | 2022-07-17 |
 | [Furia y Metal](https://open.spotify.com/track/5OPI8gQOq0YHQFbgOhsTWw) | [Sobibor](https://open.spotify.com/artist/7xkvIDeTigyhEcWNg318Nj) | [Furia y Metal](https://open.spotify.com/album/1IXEJ0TXKpUODirto0rHcF) | 4:38 | 2020-10-24 | 2022-07-27 |
 | [Grito Insurgente](https://open.spotify.com/track/3o9SkLJYSQsrMGZQsqgcRl) | [Egregor](https://open.spotify.com/artist/0Lsrmln7HOkfKVuGye7eQh) | [Pachakuti](https://open.spotify.com/album/3h7UUJSgd2fIOYIJ5nrBVO) | 4:20 | 2020-10-24 | 2022-07-22 |
-| [Guerrero Del Arco Iris](https://open.spotify.com/track/46zHDwJufMThLYhzX8QTGg) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris](https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn) | 5:04 | 2020-10-24 |  |
+| [Guerrero Del Arco Iris](https://open.spotify.com/track/46zHDwJufMThLYhzX8QTGg) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris](https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn) | 5:04 | 2020-10-24 | 2024-02-01 |
+| [Guerrero Del Arco Iris](https://open.spotify.com/track/4YEm3ymGOfxZxk5Uubvxu9) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Guerrero Del Arco Iris](https://open.spotify.com/album/5Hm2xAdcU8UALsIUsVgYH6) | 5:04 | 2023-04-28 |  |
 | [Guerrero del Arco Iris](https://open.spotify.com/track/69Sf6oHKKmQNOYYvaw2Pfb) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Guerrero del Arco Iris](https://open.spotify.com/album/2kmJS5Hd1QqI9ZyTYe4Z6U) | 5:04 | 2020-10-24 | 2022-07-29 |
 | [Heavy Drinker](https://open.spotify.com/track/1OCNIGeQ6cI6OM9RlLx7fm) | [Witchtrap](https://open.spotify.com/artist/0eFHyxbByjkMEBK3uumeaW) | [No Anesthesia](https://open.spotify.com/album/192pvxTpcceDYvSMwgOJV6) | 4:35 | 2020-10-24 | 2023-08-10 |
 | [Hijo de Puta](https://open.spotify.com/track/2GEzC3xMzHAJHXTDgMC8Ov) | [Asspera](https://open.spotify.com/artist/0iy7QDMTG00FqTFtlnImPO) | [Hijo de Puta](https://open.spotify.com/album/41LThpy6UEts4rovGtg4gl) | 2:59 | 2020-10-24 |  |

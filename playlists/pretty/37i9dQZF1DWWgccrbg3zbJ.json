@@ -1,12 +1,12 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 211288,
+  "num_followers": 211795,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTgxNWI2YWJkNzdmZjBmYTNlNWNlNDcwYWEyMTY5NDUwMDU5YTVh",
+  "snapshot_id": "MCxiYTc1ZGY3OWQ5ZWM5YjQzNjM1ODQzMjNkYWMxODI4OTBjZDYwZmQz",
   "tracks": [
     {
       "added_at": "2024-01-30 14:57:27",
@@ -491,22 +491,18 @@
     {
       "added_at": "2024-01-30 14:57:27",
       "album": {
-        "name": "O Melhor da Parceria",
-        "url": "https://open.spotify.com/album/15gm0vAtfWhgwIYQYTHcpz"
+        "name": "Nara Dez Anos Depois",
+        "url": "https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd"
       },
       "artists": [
         {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Vin\u00edcius de Moraes",
-          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
+          "name": "Nara Le\u00e3o",
+          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
         }
       ],
-      "duration_ms": 160080,
-      "name": "Insensatez",
-      "url": "https://open.spotify.com/track/6NAsiy8bVS2hx95ofthfSV"
+      "duration_ms": 152933,
+      "name": "Este Seu Olhar",
+      "url": "https://open.spotify.com/track/7ws9U1clOAmsZmc0LAQxFt"
     },
     {
       "added_at": "2024-01-30 14:57:27",
@@ -527,18 +523,22 @@
     {
       "added_at": "2024-01-30 14:57:27",
       "album": {
-        "name": "Nara Dez Anos Depois",
-        "url": "https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd"
+        "name": "O Melhor da Parceria",
+        "url": "https://open.spotify.com/album/15gm0vAtfWhgwIYQYTHcpz"
       },
       "artists": [
         {
-          "name": "Nara Le\u00e3o",
-          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Vin\u00edcius de Moraes",
+          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
         }
       ],
-      "duration_ms": 152933,
-      "name": "Este Seu Olhar",
-      "url": "https://open.spotify.com/track/7ws9U1clOAmsZmc0LAQxFt"
+      "duration_ms": 160080,
+      "name": "Insensatez",
+      "url": "https://open.spotify.com/track/6NAsiy8bVS2hx95ofthfSV"
     },
     {
       "added_at": "2024-01-30 14:57:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Lendakaris Muertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,715 likes - 90 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,742 likes - 90 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 64 | [La Bandera de la Libertad](https://open.spotify.com/track/2CIt4yfEZhOdPszvm2DjpW) | [Banda Jachís](https://open.spotify.com/artist/4SmWLsvGKAetIfP8PgKrPc) | [Intereses Creados](https://open.spotify.com/album/3BLJYjL2IK4xCrvdHS1rsY) | 2:22 |
 | 65 | [Ja, Ja, Ja](https://open.spotify.com/track/0QVrkmPehChchi52biyo8w) | [The Meas](https://open.spotify.com/artist/3r5PC1XHrMZP8h4thSBP3c) | [Buscándose la Vida](https://open.spotify.com/album/50X2yfnVjoqHP9jpj5Hztj) | 2:48 |
 | 66 | [Escupe](https://open.spotify.com/track/0OJWKkFRxkWYU8Ml5e7DA3) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [Inadaptados](https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV) | 2:27 |
-| 67 | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL) | 0:57 |
-| 68 | [Prefiero Caminar](https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B) | [Disidencia](https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht) | [Bienvenidos a Occidente](https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY) | 4:14 |
+| 67 | [Prefiero Caminar](https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B) | [Disidencia](https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht) | [Bienvenidos a Occidente](https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY) | 4:14 |
+| 68 | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL) | 0:57 |
 | 69 | [La Historia se Repite](https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S), [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX) | [La Historia se Repite](https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg) | 2:10 |
 | 70 | [Anda y Que Te Den](https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Anda y Que Te Den](https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2) | 3:44 |
 | 71 | [Kaña](https://open.spotify.com/track/71fXglmSTgkzXe3h8PHuFK) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Kaña a los Que Nos Quieren Pisar](https://open.spotify.com/album/1K7K7dy09VWhi9nKlsIkGx) | 4:36 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 89 | [All Cayetanos Are Bastards](https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj) | [Lo Blanco Del Jamón](https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR) | [All Cayetanos Are Bastards](https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t) | 2:40 |
 | 90 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
 
-Snapshot ID: `MCw4MzlkODUxYjljOWI1MTlmNTdhYzFiNzJlZTM4NDM2YjFkZjY0Yzk4`
+Snapshot ID: `MCxlNTMxZTYzZmI0ODRhNzhjOWRjMWY3M2M0OTE4YWNmNzY2MDQ1NTJm`

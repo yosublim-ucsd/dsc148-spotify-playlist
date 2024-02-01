@@ -1,12 +1,12 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 171265,
+  "num_followers": 171373,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGNlNmJiOTdhMjcxZmQ4OWY2N2E0M2M5ODRhYmNkMDRmZjQ4ODg5",
+  "snapshot_id": "MCwxYTlmZGI3ODFlNDZkMWEwOWE2NmViNDA2MjY3Y2U4M2M5MzllMDhk",
   "tracks": [
     {
       "added_at": "2021-10-20 20:05:06",
@@ -535,22 +535,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Dos Uvas",
-        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Dos Uvas",
-      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "World Music",
         "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 142480,
       "name": "Run To Your Mama",
       "url": "https://open.spotify.com/track/6iKRB4SGZp57HsrMLVovL8"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Dos Uvas",
+        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Dos Uvas",
+      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
     },
     {
       "added_at": "2022-04-22 19:20:43",
@@ -905,22 +905,6 @@
       "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Aman Iman: Water Is Life",
-        "url": "https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 267533,
-      "name": "Cler Achel",
-      "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
-    },
-    {
       "added_at": "2022-02-03 23:38:31",
       "album": {
         "name": "Aboogi",
@@ -951,6 +935,22 @@
       "duration_ms": 168097,
       "name": "Tayyara Warak",
       "url": "https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Aman Iman: Water Is Life",
+        "url": "https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 267533,
+      "name": "Cler Achel",
+      "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
+        "name": "Zerzura (Original Soundtrack Recording)",
+        "url": "https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt"
+      },
+      "artists": [
+        {
+          "name": "Ahmoudou Madassane",
+          "url": "https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm"
+        }
+      ],
+      "duration_ms": 263524,
+      "name": "Zerzura Theme II",
+      "url": "https://open.spotify.com/track/4I7WbrlfomZlIv4mveJ76x"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
         "name": "Nuova Napoli",
         "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
       },
@@ -1017,20 +1033,20 @@
       "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
+      "added_at": "2022-02-03 23:38:31",
       "album": {
-        "name": "Zerzura (Original Soundtrack Recording)",
-        "url": "https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt"
+        "name": "Let the Festivities Begin!",
+        "url": "https://open.spotify.com/album/4R3BesBG4MgLth7TwqzHmO"
       },
       "artists": [
         {
-          "name": "Ahmoudou Madassane",
-          "url": "https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm"
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
         }
       ],
-      "duration_ms": 263524,
-      "name": "Zerzura Theme II",
-      "url": "https://open.spotify.com/track/4I7WbrlfomZlIv4mveJ76x"
+      "duration_ms": 228360,
+      "name": "The Link Is About to Die",
+      "url": "https://open.spotify.com/track/4IZYR8grCH5snauh6rQFbV"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1051,22 +1067,6 @@
       "duration_ms": 158714,
       "name": "Clandestino (feat. Calypso Rose)",
       "url": "https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT"
-    },
-    {
-      "added_at": "2022-02-03 23:38:31",
-      "album": {
-        "name": "Let the Festivities Begin!",
-        "url": "https://open.spotify.com/album/4R3BesBG4MgLth7TwqzHmO"
-      },
-      "artists": [
-        {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
-        }
-      ],
-      "duration_ms": 228360,
-      "name": "The Link Is About to Die",
-      "url": "https://open.spotify.com/track/4IZYR8grCH5snauh6rQFbV"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/6uO8my6yaAbNVXxJNQ48rH"
     },
     {
-      "added_at": "2023-11-23 03:57:46",
-      "album": {
-        "name": "\u00caCCLAB\u00d4 DE LIBERT\u00c1",
-        "url": "https://open.spotify.com/album/6fmWNDGvFdcuCamPr4v5Rb"
-      },
-      "artists": [
-        {
-          "name": "Califato \u00be",
-          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
-        }
-      ],
-      "duration_ms": 216443,
-      "name": "\u00caCCLAB\u00d4 DE LIBERT\u00c1",
-      "url": "https://open.spotify.com/track/1LAFKxWo13OB3gt67wkQpR"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Ilana (The Creator)",
@@ -1151,6 +1135,22 @@
       "duration_ms": 447083,
       "name": "Tarhatazed",
       "url": "https://open.spotify.com/track/7uY3z3xwpGM2sOdiElpQAU"
+    },
+    {
+      "added_at": "2023-11-23 03:57:46",
+      "album": {
+        "name": "\u00caCCLAB\u00d4 DE LIBERT\u00c1",
+        "url": "https://open.spotify.com/album/6fmWNDGvFdcuCamPr4v5Rb"
+      },
+      "artists": [
+        {
+          "name": "Califato \u00be",
+          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
+        }
+      ],
+      "duration_ms": 216443,
+      "name": "\u00caCCLAB\u00d4 DE LIBERT\u00c1",
+      "url": "https://open.spotify.com/track/1LAFKxWo13OB3gt67wkQpR"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1257,22 +1257,6 @@
       "url": "https://open.spotify.com/track/1vwV3npaZiyJCkTQe16Gzv"
     },
     {
-      "added_at": "2022-02-23 18:02:26",
-      "album": {
-        "name": "No. 1",
-        "url": "https://open.spotify.com/album/4wpPZZoZk7tIm2pdiKEEWC"
-      },
-      "artists": [
-        {
-          "name": "Etran de L'A\u00cfr",
-          "url": "https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg"
-        }
-      ],
-      "duration_ms": 351374,
-      "name": "Agrim Agadez",
-      "url": "https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Safe Passage",
@@ -1287,6 +1271,22 @@
       "duration_ms": 206684,
       "name": "Nosotros Tambi\u00e9n",
       "url": "https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I"
+    },
+    {
+      "added_at": "2022-02-23 18:02:26",
+      "album": {
+        "name": "No. 1",
+        "url": "https://open.spotify.com/album/4wpPZZoZk7tIm2pdiKEEWC"
+      },
+      "artists": [
+        {
+          "name": "Etran de L'A\u00cfr",
+          "url": "https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg"
+        }
+      ],
+      "duration_ms": 351374,
+      "name": "Agrim Agadez",
+      "url": "https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Cera Perdida",
-        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 189892,
-      "name": "Jaley Jaley",
-      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "The Trip",
         "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 257972,
       "name": "The Trip",
       "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Cera Perdida",
+        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 189892,
+      "name": "Jaley Jaley",
+      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1469,22 +1469,6 @@
       "url": "https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa"
     },
     {
-      "added_at": "2022-08-31 05:11:30",
-      "album": {
-        "name": "Enter J's Chamber",
-        "url": "https://open.spotify.com/album/0SYCOHLxNJksWTbAtP9PYo"
-      },
-      "artists": [
-        {
-          "name": "Takeshi's Cashew",
-          "url": "https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA"
-        }
-      ],
-      "duration_ms": 287026,
-      "name": "Serpentines (to Nik\u0161i\u0107)",
-      "url": "https://open.spotify.com/track/3qOF9KosQNYRlyoWQF5eAY"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Black To The Future",
@@ -1503,6 +1487,22 @@
       "duration_ms": 318226,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/2pKdE8YhzKRshWuQkolWlV"
+    },
+    {
+      "added_at": "2022-08-31 05:11:30",
+      "album": {
+        "name": "Enter J's Chamber",
+        "url": "https://open.spotify.com/album/0SYCOHLxNJksWTbAtP9PYo"
+      },
+      "artists": [
+        {
+          "name": "Takeshi's Cashew",
+          "url": "https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA"
+        }
+      ],
+      "duration_ms": 287026,
+      "name": "Serpentines (to Nik\u0161i\u0107)",
+      "url": "https://open.spotify.com/track/3qOF9KosQNYRlyoWQF5eAY"
     },
     {
       "added_at": "2022-02-18 03:47:28",
@@ -1557,22 +1557,6 @@
       "url": "https://open.spotify.com/track/2cghTeF3VBx6aDDrFZO3si"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Afrique Victime",
-        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
-      },
-      "artists": [
-        {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
-        }
-      ],
-      "duration_ms": 445816,
-      "name": "Afrique Victime",
-      "url": "https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm"
-    },
-    {
       "added_at": "2022-03-04 21:17:03",
       "album": {
         "name": "The Age of Aquarius",
@@ -1587,6 +1571,22 @@
       "duration_ms": 241157,
       "name": "Nautilus",
       "url": "https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Afrique Victime",
+        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "duration_ms": 445816,
+      "name": "Afrique Victime",
+      "url": "https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm"
     },
     {
       "added_at": "2022-03-28 18:17:41",
@@ -1609,22 +1609,6 @@
       "url": "https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m"
     },
     {
-      "added_at": "2023-09-25 02:44:41",
-      "album": {
-        "name": "Ting Mong",
-        "url": "https://open.spotify.com/album/2km8A0QjXH4vXxYek57n7E"
-      },
-      "artists": [
-        {
-          "name": "Dengue Fever",
-          "url": "https://open.spotify.com/artist/3wFHDAXLsjvclEtifEV7F5"
-        }
-      ],
-      "duration_ms": 262589,
-      "name": "Touch Me Not",
-      "url": "https://open.spotify.com/track/1hY1xVHfG9wHrkF26mIYoT"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Natura Morta",
@@ -1639,6 +1623,22 @@
       "duration_ms": 191963,
       "name": "Impasto",
       "url": "https://open.spotify.com/track/1z7SGD6F6OYGinYGyym9uC"
+    },
+    {
+      "added_at": "2023-09-25 02:44:41",
+      "album": {
+        "name": "Ting Mong",
+        "url": "https://open.spotify.com/album/2km8A0QjXH4vXxYek57n7E"
+      },
+      "artists": [
+        {
+          "name": "Dengue Fever",
+          "url": "https://open.spotify.com/artist/3wFHDAXLsjvclEtifEV7F5"
+        }
+      ],
+      "duration_ms": 262589,
+      "name": "Touch Me Not",
+      "url": "https://open.spotify.com/track/1hY1xVHfG9wHrkF26mIYoT"
     },
     {
       "added_at": "2021-10-20 20:05:06",

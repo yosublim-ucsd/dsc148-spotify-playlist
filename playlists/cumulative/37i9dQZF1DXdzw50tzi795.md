@@ -4,12 +4,12 @@
 
 > เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: Jeff Satur
 
-51 songs - 3 hr 26 min
+53 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [ALICE](https://open.spotify.com/track/4nimbIVI2u2XUD70c1dOBu) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ALICE](https://open.spotify.com/album/51qkvedWZpnjihzV2WqrqX) | 3:42 | 2024-01-26 |  |
-| [Because of You, I Shine](https://open.spotify.com/track/4Apva8F7YKYyqwOCGfCnK6) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [Because of You, I Shine](https://open.spotify.com/album/6P3OmaQZLb1uJ052ol2424) | 3:48 | 2024-01-26 |  |
+| [Because of You, I Shine](https://open.spotify.com/track/4Apva8F7YKYyqwOCGfCnK6) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [Because of You, I Shine](https://open.spotify.com/album/6P3OmaQZLb1uJ052ol2424) | 3:48 | 2024-01-26 | 2024-02-01 |
 | [Fall in Love](https://open.spotify.com/track/45dtFcaOs4lBf8gXAAoN8W) | [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD) | [Fall in Love](https://open.spotify.com/album/2GuhTPysxjc8C0wkMJKPCX) | 3:19 | 2024-01-26 |  |
 | [Goodbye](https://open.spotify.com/track/2kpVbauiG7Tcue6kZPKYNG) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Goodbye](https://open.spotify.com/album/4yOyrokpt9SeI9icULlYCB) | 4:04 | 2024-01-30 |  |
 | [Luxury](https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [Luxury](https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk) | 4:06 | 2024-01-26 |  |
@@ -20,9 +20,10 @@
 | [กลิ่นดอกไม้](https://open.spotify.com/track/5OaXaynJZgklXEwzhouey5) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [กลิ่นดอกไม้](https://open.spotify.com/album/1ipMHOoVycUlbnkNMBuWvl) | 3:52 | 2024-01-26 |  |
 | [กำแพงหัวใจ](https://open.spotify.com/track/5BmF05GWZpmm5JZ5p3yMJr) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [กำแพงหัวใจ](https://open.spotify.com/album/4Mqmd8JPbyBmSW7cWsSkUT) | 4:37 | 2024-01-26 |  |
 | [ขอให้เธอใจดี](https://open.spotify.com/track/3y5HhSSAyYGtOkP6mhKs6z) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ขอให้เธอใจดี](https://open.spotify.com/album/0M0ul20pgcYfWCooWsh9Sb) | 4:55 | 2024-01-26 |  |
+| [ขาด \(Without me\)](https://open.spotify.com/track/0gfaovbqUD9axcb1O2eNha) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl) | [ขาด \(Without me\)](https://open.spotify.com/album/4iIfTRJHHBOj0oUkRA62Rs) | 3:38 | 2024-01-31 |  |
 | [ความรู้สึกของตัวฉัน](https://open.spotify.com/track/13fTUwOsAtNtZtxAcBOtWy) | [มนัสวีร์](https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS) | [ความรู้สึกของตัวฉัน](https://open.spotify.com/album/7fEgczgGKUhPrL0see7eiH) | 4:13 | 2024-01-26 |  |
 | [จดจำ](https://open.spotify.com/track/2CjNvED1BSLPG1jYENA0QS) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [จดจำ \- Single](https://open.spotify.com/album/60XMexQBFQjM99UfV0QdoR) | 5:34 | 2024-01-26 |  |
-| [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 | 2024-01-26 |  |
+| [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 | 2024-01-26 | 2024-02-01 |
 | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/track/4fwPmzupzsPEzwquuuVaiw) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/album/1XgD84QIPjOXQps6PisWMM) | 4:48 | 2024-01-26 |  |
 | [ชอบไปหมด \(Way Too Cute\)](https://open.spotify.com/track/73rLFde6eQ2Xzg4cF5ilHs) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:39 | 2024-01-26 |  |
 | [ซ่อน\(ไม่\)หา](https://open.spotify.com/track/759xYXTgNDGU6i6FH4kruy) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ซ่อน\(ไม่\)หา](https://open.spotify.com/album/31dukmU9drXyFzMiyK4eq4) | 3:54 | 2024-01-26 |  |
@@ -37,6 +38,7 @@
 | [พี่คงไม่ชอบผมหรอก](https://open.spotify.com/track/3t1Ex6dp0O7tUP3NLyjAY8) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ) | [พี่คงไม่ชอบผมหรอก](https://open.spotify.com/album/6dOWpIUDYJSmJJia9G8nfB) | 3:14 | 2024-01-26 |  |
 | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/track/7mVobUmGP12Y5SQJgBice3) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ) | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/album/69ybwJj0gIujut2fiIMQLY) | 3:06 | 2024-01-26 |  |
 | [ฟ้ารักพ่อ \(DILF\)](https://open.spotify.com/track/45eQSbdATZGC5lowyWUbfH) | [BADMIXY](https://open.spotify.com/artist/1TNuSqU0unzV0VcUxoQBZ1), [ยุ้ย ญาติเยอะ](https://open.spotify.com/artist/4abxoWkXUq5R49gYTvAeLz) | [BAD STORY](https://open.spotify.com/album/2PQ53PXkBduUnWQWG26vYe) | 4:01 | 2024-01-26 |  |
+| [ยอม \(White Flag\)](https://open.spotify.com/track/1VfxBuhaRC8rnE4VAPQ4Qk) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [All My Purple Feelings](https://open.spotify.com/album/697YQLmLHyLPeO73NGvVqs) | 3:31 | 2024-01-31 |  |
 | [ยินดี \- เพลงประกอบละครมาตาลดา ช่อง 3](https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ยินดี \(เพลงประกอบละครมาตาลดา ช่อง 3\)](https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK) | 3:17 | 2024-01-26 |  |
 | [รถไฟบนฟ้า](https://open.spotify.com/track/6BqnE3hiqtywrLMJ3ulYDp) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [รถไฟบนฟ้า](https://open.spotify.com/album/5boT1tGdFqjrzzDSqLrrsC) | 4:16 | 2024-01-26 |  |
 | [รสหวาน](https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ท้องฟ้าจำลอง](https://open.spotify.com/album/5x8QUkAqNR1sV93J3XdVPr) | 4:53 | 2024-01-26 |  |

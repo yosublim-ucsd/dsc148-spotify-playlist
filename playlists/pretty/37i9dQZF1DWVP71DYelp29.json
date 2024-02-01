@@ -1,12 +1,12 @@
 {
   "description": "The hits you know like you\u2019ve never heard before. Cover: Madison Rose ",
-  "num_followers": 739667,
+  "num_followers": 739609,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmExZDcyY2U1ZGQ4NzY5YzY1MWRlN2Q1ZjQ2NjFjNzYxZTIxMGVj",
+  "snapshot_id": "MCxhMTE5M2VkZWY0OGFjMzVhYWI2ZGRkNmFiZDM1NTA1ZGRlZTJjOWMx",
   "tracks": [
     {
       "added_at": "2023-01-11 19:54:48",
@@ -384,22 +384,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 273506,
-      "name": "Don't Dream It's Over - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
       },
       "artists": [
@@ -411,6 +395,22 @@
       "duration_ms": 243053,
       "name": "Say It Ain't So - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 273506,
+      "name": "Don't Dream It's Over - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -764,17 +764,21 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
+        "url": "https://open.spotify.com/album/1Lfr02RCVj36QJzjVfEEi9"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Rae Morris",
+          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
         }
       ],
-      "duration_ms": 157499,
-      "name": "D\u00c1KITI \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik"
+      "duration_ms": 235264,
+      "name": "Lose You To Love Me",
+      "url": "https://open.spotify.com/track/4Nh0VN6kYKzcZHBwXWtZDD"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -796,37 +800,17 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1Lfr02RCVj36QJzjVfEEi9"
+        "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
       },
       "artists": [
         {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        },
-        {
-          "name": "Rae Morris",
-          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 235264,
-      "name": "Lose You To Love Me",
-      "url": "https://open.spotify.com/track/4Nh0VN6kYKzcZHBwXWtZDD"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 261893,
-      "name": "The Best - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/7cBAltYsu55X4BgiOUjaSY"
+      "duration_ms": 157499,
+      "name": "D\u00c1KITI \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -843,6 +827,22 @@
       "duration_ms": 215281,
       "name": "Not Over You - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 261893,
+      "name": "The Best - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/7cBAltYsu55X4BgiOUjaSY"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-01-11 19:54:48",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 189056,
+      "name": "Sexual - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7zqLBFKCBkk5IfbgKgH4VZ"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
         "name": "Life is Like a Dice Game - Spotify Singles",
         "url": "https://open.spotify.com/album/07XItOn4L2uyxBeZBOAwVt"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 284093,
       "name": "Life is Like a Dice Game - Spotify Singles",
       "url": "https://open.spotify.com/track/5iBEUyRJL5fV0Hl5L5AqoR"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 189056,
-      "name": "Sexual - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7zqLBFKCBkk5IfbgKgH4VZ"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1121,6 +1121,22 @@
       "url": "https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR"
     },
     {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5WSVBLmTp6Fgjm2Dwyu3vr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 258862,
+      "name": "Day \u2018n\u2019 Nite - Spotify Singles",
+      "url": "https://open.spotify.com/track/6M0tj2hONdMEveSWg3JdQG"
+    },
+    {
       "added_at": "2023-11-07 18:53:41",
       "album": {
         "name": "Spotify Singles",
@@ -1139,22 +1155,6 @@
       "duration_ms": 270264,
       "name": "Take Me To Church - Spotify Singles",
       "url": "https://open.spotify.com/track/0fVQEAJzB0WDLgS28zbECm"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5WSVBLmTp6Fgjm2Dwyu3vr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 258862,
-      "name": "Day \u2018n\u2019 Nite - Spotify Singles",
-      "url": "https://open.spotify.com/track/6M0tj2hONdMEveSWg3JdQG"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-01-11 19:54:48",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2"
-      },
-      "artists": [
-        {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
-        }
-      ],
-      "duration_ms": 173206,
-      "name": "Sending My Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
         "name": "Creep (mint Singles)",
         "url": "https://open.spotify.com/album/2JDxkewW94MQj5GUi5Efvo"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 161190,
       "name": "Creep",
       "url": "https://open.spotify.com/track/44wMXyr2IbVa1e2t1XeSvI"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        }
+      ],
+      "duration_ms": 173206,
+      "name": "Sending My Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1680,22 +1680,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2GRYkXH7qkg1X0hOkrZdXZ"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 177161,
-      "name": "There She Goes - Spotify Singles",
-      "url": "https://open.spotify.com/track/0bq8ODkNZMTm2B5WGpYjo4"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6bcZYFHfdRSeiHxYlKGUOa"
       },
       "artists": [
@@ -1707,6 +1691,22 @@
       "duration_ms": 240522,
       "name": "No One - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2slPSwOa6A605bhQkrcSdi"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2GRYkXH7qkg1X0hOkrZdXZ"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "duration_ms": 177161,
+      "name": "There She Goes - Spotify Singles",
+      "url": "https://open.spotify.com/track/0bq8ODkNZMTm2B5WGpYjo4"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1792,22 +1792,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6FOhbAW6X74onlLJOTNIjD"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 204255,
-      "name": "cool girl - Recorded at Spotify Studios, NYC / 2016",
-      "url": "https://open.spotify.com/track/6Cpcf5MKT7O04wlSJ7EixQ"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/67heSgreFffe8zNCXhTAII"
       },
       "artists": [
@@ -1819,6 +1803,22 @@
       "duration_ms": 209490,
       "name": "Drama (Recorded at Spotify Studios NYC)",
       "url": "https://open.spotify.com/track/0O5M9CwSpYH0SfqGuwP9kO"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6FOhbAW6X74onlLJOTNIjD"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 204255,
+      "name": "cool girl - Recorded at Spotify Studios, NYC / 2016",
+      "url": "https://open.spotify.com/track/6Cpcf5MKT7O04wlSJ7EixQ"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1856,22 +1856,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 337837,
-      "name": "Everything Now - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4pwnweaF5EFhy5Lfvg67f4"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh"
       },
       "artists": [
@@ -1883,6 +1867,22 @@
       "duration_ms": 167050,
       "name": "High Hopes - Live Session from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/73Hs5c2DJAavtKFZ28v1FM"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 337837,
+      "name": "Everything Now - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4pwnweaF5EFhy5Lfvg67f4"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1984,22 +1984,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "No Ordinary Love \u2013 Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/1tuaLgIQPnPmwOiniFGNK9"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6qw9KkJXWqVlQFTQwZdo5P"
       },
       "artists": [
@@ -2011,6 +1995,22 @@
       "duration_ms": 181954,
       "name": "Cry For You - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0w1Dln7VMjPDCNIIQLidgg"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "No Ordinary Love \u2013 Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/1tuaLgIQPnPmwOiniFGNK9"
     },
     {
       "added_at": "2023-01-11 19:54:48",

@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.",
-  "num_followers": 61696,
+  "num_followers": 61685,
   "original_name": "Gospel Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWEyNmM1NjM2ZTMxMjFiNDBiZTk5MWU3ODRjYzc0ODNlOGZmMzc4",
+  "snapshot_id": "MCwyNTc1MTE3NzE2Mjc2YzE2YmZkNTA3MDQ4NjExNDYzYWI2N2Q2ZGI3",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -395,6 +395,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "He Shall Reign",
+        "url": "https://open.spotify.com/album/4TTqJzfb7GKJy9VOz4GqpB"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        },
+        {
+          "name": "HFP Music",
+          "url": "https://open.spotify.com/artist/71dt6PR3b37mOndsKQ8TPG"
+        }
+      ],
+      "duration_ms": 146613,
+      "name": "He Shall Reign",
+      "url": "https://open.spotify.com/track/1RV5mHAAko9d2oM7sAkjuf"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "A Very Maverick Christmas",
         "url": "https://open.spotify.com/album/6Z3lZl48YoYESThd0iKkyQ"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 379055,
       "name": "O Holy Night (feat. Melvin Crispell III & Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/0vuR826xMexFpO8pPJOmc0"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "He Shall Reign",
-        "url": "https://open.spotify.com/album/4TTqJzfb7GKJy9VOz4GqpB"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        },
-        {
-          "name": "HFP Music",
-          "url": "https://open.spotify.com/artist/71dt6PR3b37mOndsKQ8TPG"
-        }
-      ],
-      "duration_ms": 146613,
-      "name": "He Shall Reign",
-      "url": "https://open.spotify.com/track/1RV5mHAAko9d2oM7sAkjuf"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "His Gift",
-        "url": "https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Away In A Manger - His Gift Version",
-      "url": "https://open.spotify.com/track/00RtAVdwxMbzkGAClFmZpo"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Warm",
         "url": "https://open.spotify.com/album/3OuRCknIWadGRarsOyhdgC"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 176000,
       "name": "Warm",
       "url": "https://open.spotify.com/track/5spzlJAr9QnRzkF0kJhGhv"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "His Gift",
+        "url": "https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Away In A Manger - His Gift Version",
+      "url": "https://open.spotify.com/track/00RtAVdwxMbzkGAClFmZpo"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/0rYGez2vLeVnJGrWDu80yy"
-      },
-      "artists": [
-        {
-          "name": "Titus Showers",
-          "url": "https://open.spotify.com/artist/6XBycjw3xsUgrPyah0XZsc"
-        }
-      ],
-      "duration_ms": 160055,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/0kMkVBWiiErubE4fqUwZBF"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "I'll Be Thinking of You",
         "url": "https://open.spotify.com/album/1aabBowSBelQ7nPqOSbCe5"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 285069,
       "name": "I'll Be Thinking of You",
       "url": "https://open.spotify.com/track/0qRAekAEOE5cW0EdXKfOYz"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/0rYGez2vLeVnJGrWDu80yy"
+      },
+      "artists": [
+        {
+          "name": "Titus Showers",
+          "url": "https://open.spotify.com/artist/6XBycjw3xsUgrPyah0XZsc"
+        }
+      ],
+      "duration_ms": 160055,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/0kMkVBWiiErubE4fqUwZBF"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "R&B Christmas Songs",
-        "url": "https://open.spotify.com/album/5ij3UzfTQaLv6etmkHNjaU"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 158700,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/6JPIOL1YBQxaorbxA9MyN6"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Home With You (feat. Chant\u00e9 Moore)",
         "url": "https://open.spotify.com/album/4SP3l1UjxAcb1Tj7NmqCdu"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 245110,
       "name": "Home With You (feat. Chant\u00e9 Moore)",
       "url": "https://open.spotify.com/track/6vXINx2IM1WpPYMm3xb816"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "R&B Christmas Songs",
+        "url": "https://open.spotify.com/album/5ij3UzfTQaLv6etmkHNjaU"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 158700,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/6JPIOL1YBQxaorbxA9MyN6"
     },
     {
       "added_at": "2023-12-15 05:00:00",

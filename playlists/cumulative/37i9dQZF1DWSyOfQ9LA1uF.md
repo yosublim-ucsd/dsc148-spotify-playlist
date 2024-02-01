@@ -4,7 +4,7 @@
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-167 songs - 12 hr 51 min
+168 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Kilometer \(A\-Trak Remix\)](https://open.spotify.com/track/46pQz9p5adUEFH4GhH4JsF) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Kilometer \- EP](https://open.spotify.com/album/4MEA17aQtLt8qEn9qKap0W) | 4:10 | 2022-02-03 | 2022-07-29 |
 | [Knobbers](https://open.spotify.com/track/0JEQRhFh3VzBdFAYcua4yk) | [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Knobbers EP](https://open.spotify.com/album/6EWNPR0D1aTkNdw5o86QWU) | 5:07 | 2022-02-03 | 2022-06-26 |
 | [Krack](https://open.spotify.com/track/6QKfQbFqvUwzOHpwFwCaJ6) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions](https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI) | 5:23 | 2021-01-12 | 2024-01-30 |
+| [Krack](https://open.spotify.com/track/4PsymYKD8pwAiLh9Fqw6kl) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions \(15 Year Anniversary Edition\)](https://open.spotify.com/album/4cGFG2xWOqE09EmRMUMd6t) | 5:26 | 2022-08-24 |  |
 | [La musique \(JBAG's Boomboxed Re\-Edit\) \- Mixed](https://open.spotify.com/track/6jwcG2bkn6adlKtlkSrEmf) | [Riot In Belgium](https://open.spotify.com/artist/5TqQmM5hvTvm1nIbiSRw7G), [JBAG](https://open.spotify.com/artist/3bkVz70Wb5WN0PKbT70o7R) | [Kitsuné Boombox Mixed by Jerry Bouthier](https://open.spotify.com/album/7mdUhfsfAXgtxS0x5jAnh7) | 4:11 | 2021-01-12 |  |
 | [La musique \- Jbag's Boomboxed Re\-Edit](https://open.spotify.com/track/4liFNYs483mktjqTor6k6x) | [Riot In Belgium](https://open.spotify.com/artist/5TqQmM5hvTvm1nIbiSRw7G), [JBAG](https://open.spotify.com/artist/3bkVz70Wb5WN0PKbT70o7R) | [Kitsuné Boombox Mixed by Jerry Bouthier](https://open.spotify.com/album/3p5mmApQ404cvVnwJj24M8) | 4:11 | 2021-01-12 | 2022-07-26 |
 | [Let Me Back Up \- Crookers Tetsujin Remix](https://open.spotify.com/track/2UKJQ77iYBntfaiuIdIcUF) | [Don Rimini](https://open.spotify.com/artist/2IA2rAfPyDDhqqcu6UaSOM), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [From Then Until Now](https://open.spotify.com/album/23hTRQVUECDeCdPKDP1qHF) | 5:51 | 2021-01-12 |  |
@@ -139,7 +140,7 @@
 | [Someone Great](https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 6:30 | 2021-01-12 |  |
 | [Standing in the Way of Control \- Soulwax Nite Version](https://open.spotify.com/track/7mEGPyPVnNFwmzMLhp0Ghe) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Rework it](https://open.spotify.com/album/2hqzFCbCIBYSEiUJa3APBn) | 6:52 | 2021-01-12 | 2022-07-29 |
 | [Standing in the Way of Control \- Soulwax Nite Version](https://open.spotify.com/track/7rES7qCxzFEDUV2L5eejTD) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Kitsuné Maison Compilation 3](https://open.spotify.com/album/7wWViw6BLh7Z5BC3zssa35) | 6:55 | 2021-01-12 |  |
-| [Stuck On Repeat \- Fake Blood Mix](https://open.spotify.com/track/24y567q7DSKBwTPIkooH2K) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30), [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Hands: Bonus Disc](https://open.spotify.com/album/7yxVBOqeXa8cIFwPLsxS7c) | 6:26 | 2021-01-12 |  |
+| [Stuck On Repeat \- Fake Blood Mix](https://open.spotify.com/track/24y567q7DSKBwTPIkooH2K) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30), [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Hands: Bonus Disc](https://open.spotify.com/album/7yxVBOqeXa8cIFwPLsxS7c) | 6:26 | 2021-01-12 | 2024-02-01 |
 | [Superman \- Lorenz Rhode Remix](https://open.spotify.com/track/4Dxnw7V3QB9hNUeUizkNYN) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Superman EP](https://open.spotify.com/album/1h1fu1p8xHwT8aacReegPi) | 5:11 | 2022-02-03 | 2022-07-05 |
 | [Suspense Is Killing Me](https://open.spotify.com/track/3so9K62SVDzEpIw5zE9kju) | [Boy 8\-Bit](https://open.spotify.com/artist/5HfRYTHODGPIbWxYeNTsam) | [Suspense Is Killing Me EP](https://open.spotify.com/album/0NLguEzq237Uukt4kmaqZR) | 4:53 | 2021-01-12 | 2022-07-29 |
 | [Technologic](https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Human After All](https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo) | 4:44 | 2021-01-12 |  |

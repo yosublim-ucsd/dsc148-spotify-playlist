@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,529 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,512 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 30 | [Voici le père Noël](https://open.spotify.com/track/7xndwWf5CYFfC3cN4KMhlV) | [Renée Martel](https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis) | [Chantons Noël!](https://open.spotify.com/album/2Vx0bvyrpOixovVt0Jiyds) | 2:20 |
 | 31 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq) | 3:42 |
 | 32 | [Le bonhomme de neige](https://open.spotify.com/track/1RotaRDMB06sEMMv1iwtmU) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn) | [It's Magic !](https://open.spotify.com/album/6hoZGBlQ2bsYaP9AfhZ4za) | 2:38 |
-| 33 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 |
+| 33 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 |
 | 34 | [Noël mille feux](https://open.spotify.com/track/3mrKQpSSvyg9uvr3LRWs9k) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Noël mille feux](https://open.spotify.com/album/1CDPIsDorKUmv1vavzAFAT) | 2:42 |
-| 35 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 |
+| 35 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 |
 | 36 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 |
 | 37 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:26 |
 | 38 | [Mon premier sapin blanc](https://open.spotify.com/track/7lLFdYWyb3s9OHmnMhH03s) | [Roch Voisine](https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY) | [L'album de Noël \(Édition anniversaire\)](https://open.spotify.com/album/3QIAgDDcFJM1Yleb149KnA) | 3:19 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 73 | [Voilà le Père Noël Boogie](https://open.spotify.com/track/3u2cX2OGfAmLVT5UI2TqD5) | [Gregory Charles](https://open.spotify.com/artist/5oZRVKPoEK2rVLYDv3ohoi) | [Voilà le Père Noël Boogie](https://open.spotify.com/album/3PBEWDjry4JccomCBvAO1S) | 3:11 |
 | 74 | [The Christmas Song](https://open.spotify.com/track/73Hn7c2f0IzvcxmpqswGFa) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 3:00 |
 | 75 | [Winter Song](https://open.spotify.com/track/1KDkSCXJIR4CJaVUK9qP7O) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM), [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [The Hotel Café presents..\. Winter Songs](https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad) | 4:26 |
-| 76 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Holidays](https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK) | 1:44 |
-| 77 | [Christmas Day](https://open.spotify.com/track/15Du9zZKEO923xPiJqj35d) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Greatest Hits](https://open.spotify.com/album/3sHCnKzDBCJrAwdYw0nfvB) | 4:02 |
+| 76 | [Christmas Day](https://open.spotify.com/track/15Du9zZKEO923xPiJqj35d) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Greatest Hits](https://open.spotify.com/album/3sHCnKzDBCJrAwdYw0nfvB) | 4:02 |
+| 77 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Holidays](https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK) | 1:44 |
 | 78 | [Another Year Has Gone By](https://open.spotify.com/track/014An8mZt6hTR6bsN9fo2u) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 3:24 |
 | 79 | [I'll Be Home for Christmas](https://open.spotify.com/track/0tXPhc8LvM4dPvoRwI66XQ) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 4:24 |
 | 80 | [Have Yourself a Merry Little Christmas \(feat\. Esperanza Spalding\)](https://open.spotify.com/track/67XXGKQrlBLCAg3gmHkamP) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Have Yourself a Merry Little Christmas / Bring Me Love](https://open.spotify.com/album/32m4D8KcGLcqAvTVIi90P1) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 99 | [J'ai vu maman](https://open.spotify.com/track/7C2rBix360wLA61Al61APh) | [Ginette Reno](https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon) | [Joyeux Noël](https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT) | 3:13 |
 | 100 | [Angel](https://open.spotify.com/track/4K9fBu5r5xPHc90WXbRiyW) | [Adrien de la Salle](https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN) | [Angel](https://open.spotify.com/album/0qc2lqhJAhnoCFoLJ70YaK) | 2:31 |
 
-Snapshot ID: `MCw0YzE1YzFmZDE1ZDdlN2IyNTQxNDkyMWNkMjcyNzFmOTM3OTFmMzc4`
+Snapshot ID: `MCw0ZDNkNWE1OGE2MjViZmUyMmVjYzU5NjZiZDA0YTMwZGNlNmVkNDM3`

@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 381,
+  "2024-02-01": 381,
   "date_first_scraped": "2023-12-14",
   "description": "This is Marco Polo. The essential tracks, all in one playlist.",
   "name": "This Is Marco Polo",
@@ -245,7 +245,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 232439,
       "name": "Certified",
       "url": "https://open.spotify.com/track/0l6pd92PEvsz42gUIKint0"

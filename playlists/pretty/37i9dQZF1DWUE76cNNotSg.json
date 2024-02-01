@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 507038,
+  "num_followers": 507288,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzI2ZTE4MDIwYzYwMjlhNDA5M2ViOWYzNjI4MDQwOGJmMGU1YzNh",
+  "snapshot_id": "MCw1ZjZlNzMxMDdiOTllNDNiNTNhOTA4ZDZmMDM4MTIxYjc0MzFlOGEw",
   "tracks": [
     {
       "added_at": "2024-01-26 05:04:07",
@@ -583,18 +583,22 @@
     {
       "added_at": "2024-01-26 05:04:07",
       "album": {
-        "name": "Odyss\u00e9e - EP",
-        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
+        "name": "One On One",
+        "url": "https://open.spotify.com/album/2yYylDKJUY5NCfv4YsZpZW"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         }
       ],
-      "duration_ms": 248892,
-      "name": "Agitations tropicales",
-      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+      "duration_ms": 212252,
+      "name": "One On One",
+      "url": "https://open.spotify.com/track/2xmlpRPQUA3lR6HYaeYv7g"
     },
     {
       "added_at": "2024-01-26 05:04:07",
@@ -699,22 +703,18 @@
     {
       "added_at": "2024-01-26 05:04:07",
       "album": {
-        "name": "One On One",
-        "url": "https://open.spotify.com/album/2yYylDKJUY5NCfv4YsZpZW"
+        "name": "Odyss\u00e9e - EP",
+        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
       },
       "artists": [
         {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         }
       ],
-      "duration_ms": 212252,
-      "name": "One On One",
-      "url": "https://open.spotify.com/track/2xmlpRPQUA3lR6HYaeYv7g"
+      "duration_ms": 248892,
+      "name": "Agitations tropicales",
+      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
     },
     {
       "added_at": "2024-01-26 05:04:07",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-01-26 05:04:07",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 194962,
-      "name": "Keep It Rising",
-      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
-    },
-    {
-      "added_at": "2024-01-26 05:04:07",
-      "album": {
         "name": "If This Is House I Want My Money Back 3",
         "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 285440,
       "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
       "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
+    },
+    {
+      "added_at": "2024-01-26 05:04:07",
+      "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "duration_ms": 194962,
+      "name": "Keep It Rising",
+      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
     },
     {
       "added_at": "2024-01-26 05:04:07",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-01-26 05:04:07",
       "album": {
-        "name": "Collage 1",
-        "url": "https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs"
-      },
-      "artists": [
-        {
-          "name": "Conor Albert",
-          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
-        }
-      ],
-      "duration_ms": 200200,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to"
-    },
-    {
-      "added_at": "2024-01-26 05:04:07",
-      "album": {
         "name": "About A Feeling",
         "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 247572,
       "name": "I Wanna Go",
       "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
+    },
+    {
+      "added_at": "2024-01-26 05:04:07",
+      "album": {
+        "name": "Collage 1",
+        "url": "https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs"
+      },
+      "artists": [
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        }
+      ],
+      "duration_ms": 200200,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to"
     },
     {
       "added_at": "2024-01-26 05:04:07",

@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 26872,
+  "2024-02-01": 26883,
   "date_first_scraped": "2023-03-25",
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: bohemianvoodoo",
   "name": "Jazz Fusion Japan",
@@ -580,6 +580,24 @@
     },
     {
       "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/4QdhwNxSlMYIqp74Y27pLO"
+      },
+      "artists": [
+        {
+          "name": "Still Caravan",
+          "url": "https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/4zlvcUDuabGMdvzElQjRWO"
+    },
+    {
+      "album": {
         "name": "Moment of Clarity",
         "url": "https://open.spotify.com/album/3DfsBjwKqAYJCC24LsQfbL"
       },
@@ -747,6 +765,24 @@
       "duration_ms": 276206,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/7L3UIvtatUeSRI3Ith7VFF"
+    },
+    {
+      "album": {
+        "name": "Purple",
+        "url": "https://open.spotify.com/album/3M1sVKiqJFIzCjkuqYNeJP"
+      },
+      "artists": [
+        {
+          "name": "stim",
+          "url": "https://open.spotify.com/artist/0waPc4GXTg5faPNYSD4l1g"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311000,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/6nCe4faA9KsbypblyqcApZ"
     },
     {
       "album": {
@@ -1118,6 +1154,24 @@
     },
     {
       "album": {
+        "name": "The Phantom",
+        "url": "https://open.spotify.com/album/2nnPtT6aqhtDWN9ha0QNI5"
+      },
+      "artists": [
+        {
+          "name": "Apneumo",
+          "url": "https://open.spotify.com/artist/4pd2vMniXFGmAXS3NQxIaR"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "The Phantom",
+      "url": "https://open.spotify.com/track/0Z0RilPDrVIAa9SwDWAQNK"
+    },
+    {
+      "album": {
         "name": "NEW TOPICS",
         "url": "https://open.spotify.com/album/63FjEmZkfAhJzNTh4hS1EG"
       },
@@ -1225,7 +1279,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 302573,
       "name": "Vanish, Memoria",
       "url": "https://open.spotify.com/track/0aEiY6DWhcVpj4dLtR8GJq"
@@ -1279,7 +1333,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 290741,
       "name": "\u307f\u305a\u3044\u308d\u306e\u96e8",
       "url": "https://open.spotify.com/track/75iEGWh5t7ZyqYKuvns6Ma"
@@ -1387,7 +1441,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 277840,
       "name": "\u77f3\u306e\u6559\u4f1a",
       "url": "https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK"

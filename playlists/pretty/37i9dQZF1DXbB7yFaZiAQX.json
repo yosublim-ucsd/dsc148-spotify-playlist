@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 1014572,
+  "num_followers": 1014775,
   "original_name": "'80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGYxMmIxMTRmNWYxY2UzNGFhNDJiMjMwMDIyOThhMjQ1ZWM3MWQ1",
+  "snapshot_id": "MCw0Njg5MWMzNGI4MzViMGE1NTI1MThjNmU1ZGY3MDQxZDY5OWMxNDIz",
   "tracks": [
     {
       "added_at": "2023-05-03 07:47:14",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 288339,
-      "name": "Modern Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Unknown Pleasures (Collector's Edition)",
         "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 209039,
       "name": "Disorder - 2007 Remaster",
       "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 288339,
+      "name": "Modern Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Lion and the Cobra",
-        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 227653,
-      "name": "Mandinka",
-      "url": "https://open.spotify.com/track/4x4e63yL8r7tOFcZ0n6KHe"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Boy (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 217386,
       "name": "I Will Follow - Remastered 2008",
       "url": "https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Lion and the Cobra",
+        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 227653,
+      "name": "Mandinka",
+      "url": "https://open.spotify.com/track/4x4e63yL8r7tOFcZ0n6KHe"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Hurting",
-        "url": "https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/2JhIaeltCDCcp02K936tgx"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Treasure",
         "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 223266,
       "name": "Lorelei",
       "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "The Hurting",
+        "url": "https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/2JhIaeltCDCcp02K936tgx"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Fine Young Cannibals",
-        "url": "https://open.spotify.com/album/7KQgihtbLnpyr3KVk9OqYB"
-      },
-      "artists": [
-        {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
-        }
-      ],
-      "duration_ms": 215733,
-      "name": "Johnny Come Home",
-      "url": "https://open.spotify.com/track/4fFxkU9C7prSviiYtvlV8V"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Little Creatures",
         "url": "https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 259106,
       "name": "Road to Nowhere",
       "url": "https://open.spotify.com/track/5gS8whHdcpbkdz0qonQZF8"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Fine Young Cannibals",
+        "url": "https://open.spotify.com/album/7KQgihtbLnpyr3KVk9OqYB"
+      },
+      "artists": [
+        {
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+        }
+      ],
+      "duration_ms": 215733,
+      "name": "Johnny Come Home",
+      "url": "https://open.spotify.com/track/4fFxkU9C7prSviiYtvlV8V"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Dirty Blvd.",
-      "url": "https://open.spotify.com/track/4TDLfAmx45EpSiQYG6hCzT"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "London Town 1983-1993",
         "url": "https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 297066,
       "name": "This Is the Day",
       "url": "https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Dirty Blvd.",
+      "url": "https://open.spotify.com/track/4TDLfAmx45EpSiQYG6hCzT"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ"
+      },
+      "artists": [
+        {
+          "name": "Galaxie 500",
+          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Tugboat",
+      "url": "https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Joined Up Writing/The Sitting Room",
         "url": "https://open.spotify.com/album/15eoAwjHark9zAPE5z2GKJ"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 243800,
       "name": "Cities In Dust - Single Version",
       "url": "https://open.spotify.com/track/0LvH53IYMdkQ2VHanpCiBi"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ"
-      },
-      "artists": [
-        {
-          "name": "Galaxie 500",
-          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Tugboat",
-      "url": "https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Soul Mining",
-        "url": "https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A"
-      },
-      "artists": [
-        {
-          "name": "The The",
-          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
-        }
-      ],
-      "duration_ms": 411973,
-      "name": "Uncertain Smile",
-      "url": "https://open.spotify.com/track/31alFPGPYXPTGLQfmkp8fh"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "A Way of Life (35th Anniversary Edition; 2023 Remaster)",
         "url": "https://open.spotify.com/album/7B7zUoZNVdYgqzrGpxTJ0t"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 227240,
       "name": "Surrender ('88 Version) (2023 Remaster)",
       "url": "https://open.spotify.com/track/784ypNcE0CXkfUxUiu0U9n"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Soul Mining",
+        "url": "https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A"
+      },
+      "artists": [
+        {
+          "name": "The The",
+          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+        }
+      ],
+      "duration_ms": 411973,
+      "name": "Uncertain Smile",
+      "url": "https://open.spotify.com/track/31alFPGPYXPTGLQfmkp8fh"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Dig That Groove Baby",
-        "url": "https://open.spotify.com/album/2OwyqJHrZxmSoH05gG2X7Z"
-      },
-      "artists": [
-        {
-          "name": "The Toy Dolls",
-          "url": "https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv"
-        }
-      ],
-      "duration_ms": 207480,
-      "name": "Nellie the Elephant",
-      "url": "https://open.spotify.com/track/38XNqOJLqiJXcummwwJx4u"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Playlist: The Very Best of A Flock of Seagulls",
         "url": "https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 289080,
       "name": "Quiet Life",
       "url": "https://open.spotify.com/track/7GTcfdzY73zsDINXbBzV7B"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Dig That Groove Baby",
+        "url": "https://open.spotify.com/album/2OwyqJHrZxmSoH05gG2X7Z"
+      },
+      "artists": [
+        {
+          "name": "The Toy Dolls",
+          "url": "https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv"
+        }
+      ],
+      "duration_ms": 207480,
+      "name": "Nellie the Elephant",
+      "url": "https://open.spotify.com/track/38XNqOJLqiJXcummwwJx4u"
     },
     {
       "added_at": "2023-05-03 07:47:14",

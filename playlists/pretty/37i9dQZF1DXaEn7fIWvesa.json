@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con El Chacal en portada.",
-  "num_followers": 6160,
+  "num_followers": 6181,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzBkZGNkYTgwYWI3NTc4ZmIyZTZjMjY5Mjk0YzAwYWM5MjgyMjQ2",
+  "snapshot_id": "MCw1MTI4MmYxZmFiZDYyYjhjYmFkMDdlOTNjOGFlZjE1MTNjOTdkZTZk",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -471,6 +471,30 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Funimate",
+        "url": "https://open.spotify.com/album/2dgkWbSbEGmiOERvceGOu9"
+      },
+      "artists": [
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        },
+        {
+          "name": "Pokercito",
+          "url": "https://open.spotify.com/artist/0HEBlBt0wpPln5krAyG0B4"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        }
+      ],
+      "duration_ms": 195918,
+      "name": "Funimate - Prod. by Ernesto Losa",
+      "url": "https://open.spotify.com/track/3yGujUHHB1n3ZZw0VuERiL"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Agua Noche Remix",
         "url": "https://open.spotify.com/album/0eohrQWmqahDa30v94E0TM"
       },
@@ -499,26 +523,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Funimate",
-        "url": "https://open.spotify.com/album/2dgkWbSbEGmiOERvceGOu9"
+        "name": "The Hits Kings",
+        "url": "https://open.spotify.com/album/3bmjwMBcBOPkQgr01HYLRH"
       },
       "artists": [
         {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
         },
         {
-          "name": "Pokercito",
-          "url": "https://open.spotify.com/artist/0HEBlBt0wpPln5krAyG0B4"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
         }
       ],
-      "duration_ms": 195918,
-      "name": "Funimate - Prod. by Ernesto Losa",
-      "url": "https://open.spotify.com/track/3yGujUHHB1n3ZZw0VuERiL"
+      "duration_ms": 183131,
+      "name": "Ganas de Ti",
+      "url": "https://open.spotify.com/track/6mzR2nbLrfzNw3BQ3puq4D"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -551,26 +571,6 @@
       "duration_ms": 124589,
       "name": "NO ES LO QUE PARECE",
       "url": "https://open.spotify.com/track/1WrTj4KU7QNgm6qS3lSocA"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "The Hits Kings",
-        "url": "https://open.spotify.com/album/3bmjwMBcBOPkQgr01HYLRH"
-      },
-      "artists": [
-        {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
-        },
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 183131,
-      "name": "Ganas de Ti",
-      "url": "https://open.spotify.com/track/6mzR2nbLrfzNw3BQ3puq4D"
     },
     {
       "added_at": "2024-01-26 05:00:00",

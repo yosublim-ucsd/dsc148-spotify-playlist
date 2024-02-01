@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,348 likes - 51 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,325 likes - 51 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 50 | [Mi Religión](https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [\#Update](https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq) | 3:57 |
 | 51 | [Ginza \- Remix](https://open.spotify.com/track/1tJw60G9KHl7fYVdQ2JDgo) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Alejandro "Mosty" Patiño](https://open.spotify.com/artist/4iDI9qh9SzcTm6vZeTT258) | [Ginza \(Remix\)](https://open.spotify.com/album/3O2EaZnLoktLEnBqiMcOEJ) | 6:13 |
 
-Snapshot ID: `Mjg0NDM2MzgsMDAwMDAwMDBjMWRkM2MyODk1YTRkYzE1NGQyNGI0Y2VhNDBhNzQ1Mw==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDA3ZjE0OTgyYjliYzE5NGFiYTQ0NDNlYmQ0NDBlZjY1Zg==`

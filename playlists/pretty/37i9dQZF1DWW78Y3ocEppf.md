@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 
 > Let the songs speak\. Cover: VEDO
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,250 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,249 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 35 | [Outside Freestyle](https://open.spotify.com/track/6TKOariWgppe0f6JcXMMCo) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 2:50 |
 | 36 | [143](https://open.spotify.com/track/3923eUQ7hXHpceXtoqJVRO) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [it's not you, it's me](https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j) | 2:12 |
 | 37 | [Crazy Down](https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Um, Hello](https://open.spotify.com/album/6WtGNBLv5568Clwzd8u4vj) | 3:04 |
-| 38 | [Used To Me \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Used To Me \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/1lPazDBnJg0TB7bR6qYpqf) | 2:47 |
-| 39 | [Nuclear Reactor](https://open.spotify.com/track/12P1Scb3vywGXUU5LdJIxi) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Nuclear Reactor](https://open.spotify.com/album/0PIMYn5bA5pRN6vNfpezm6) | 3:15 |
+| 38 | [Nuclear Reactor](https://open.spotify.com/track/12P1Scb3vywGXUU5LdJIxi) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Nuclear Reactor](https://open.spotify.com/album/0PIMYn5bA5pRN6vNfpezm6) | 3:15 |
+| 39 | [Used To Me \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Used To Me \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/1lPazDBnJg0TB7bR6qYpqf) | 2:47 |
 | 40 | [LMK](https://open.spotify.com/track/3NaYHkZmo48PEkbRQMyXAT) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:33 |
 | 41 | [How Does It Feel](https://open.spotify.com/track/1LADKWKeq6I21w6j9wDSad) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 2:42 |
 | 42 | [Don’t Mind Me](https://open.spotify.com/track/1ZsNLqqBzUbDG9LDosVk2p) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Don't Mind Me](https://open.spotify.com/album/5h64dBlmKAOEMMU4OCfWWo) | 3:09 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 66 | [How Many](https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI) | [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [How Many](https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm) | 3:18 |
 | 67 | [Somebody](https://open.spotify.com/track/1HWiS9m9JP4WrVycahNud7) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [Somebody](https://open.spotify.com/album/0cqTDTmlTuapHUJZHBknfw) | 3:38 |
 | 68 | [Just Like Me](https://open.spotify.com/track/43dG0O6NZ3NAcAupkxpQn3) | [Ivory Scott](https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Just Like Me](https://open.spotify.com/album/4GwFV6yUGdX5sJBJILATNZ) | 2:30 |
-| 69 | [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 |
-| 70 | [Swerve](https://open.spotify.com/track/1szukOBC3EGeotj9HEVbjS) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Eimaral Sol](https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH) | ['95 Civic](https://open.spotify.com/album/4UoHIrUDmQa9WTLsKg7q6T) | 3:19 |
+| 69 | [Swerve](https://open.spotify.com/track/1szukOBC3EGeotj9HEVbjS) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Eimaral Sol](https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH) | ['95 Civic](https://open.spotify.com/album/4UoHIrUDmQa9WTLsKg7q6T) | 3:19 |
+| 70 | [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 |
 | 71 | [Satisfied](https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Satisfied](https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn) | 2:38 |
 | 72 | [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 |
 | 73 | [Kissing On Your Tattoos](https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Kissing On Your Tattoos](https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN) | 2:33 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 87 | [five more](https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [five more](https://open.spotify.com/album/2M30ZRiU7qF7fGDUimJI2m) | 2:45 |
 | 88 | [Blame Yourself](https://open.spotify.com/track/6tgy8rVvOzWDQxPxq3HwIu) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [I'M THE PROBLEM](https://open.spotify.com/album/66rXlzSwEMZzBBQKoa4Oyr) | 4:09 |
 | 89 | [Bad Decisions](https://open.spotify.com/track/6NtlgDpSBBWWmY51DWcTfp) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [Bad Decisions](https://open.spotify.com/album/6fBKjA7GfxT6PoEsT3zIHe) | 2:48 |
-| 90 | [For The Girls](https://open.spotify.com/track/0qgoLkX5xaPFimxtXYNJ1e) | [Amari Noelle](https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7), [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Take II](https://open.spotify.com/album/5k2IeNsyEskyhJMbN5CAYf) | 2:08 |
-| 91 | [Ultimatum](https://open.spotify.com/track/5zk66vnFAMoc75yRYDfOiQ) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | ['95 Civic](https://open.spotify.com/album/4UoHIrUDmQa9WTLsKg7q6T) | 2:34 |
+| 90 | [Ultimatum](https://open.spotify.com/track/5zk66vnFAMoc75yRYDfOiQ) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | ['95 Civic](https://open.spotify.com/album/4UoHIrUDmQa9WTLsKg7q6T) | 2:34 |
+| 91 | [For The Girls](https://open.spotify.com/track/0qgoLkX5xaPFimxtXYNJ1e) | [Amari Noelle](https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7), [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Take II](https://open.spotify.com/album/5k2IeNsyEskyhJMbN5CAYf) | 2:08 |
 | 92 | [Riptide](https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Riptide](https://open.spotify.com/album/2X6hFgJeoj4kOeSRaz731u) | 3:14 |
 | 93 | [Care](https://open.spotify.com/track/1SGEUpFPiZJZLGPrEkxD0R) | [Lehla Samia](https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb) | [LOVERS WAVE VOL\. 1](https://open.spotify.com/album/7sxvlwZt8v20dIbwxBVj1B) | 1:48 |
 | 94 | [Alone](https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs for Women, Free Game for Niggas \- EP](https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 99 | [212](https://open.spotify.com/track/3onifXN13iI8OG6PblmC3m) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [212](https://open.spotify.com/album/1m33fAX1CPDc9hydoXaVDV) | 2:26 |
 | 100 | [Life](https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Life](https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi) | 2:55 |
 
-Snapshot ID: `MCw5NzRjZGQ0YWU0NDc2MjE4ZDc4YzRlMjA5ZDM2ZWM0YzE4NjBhZDYz`
+Snapshot ID: `MCw3MjA4ODhmZjA2ZmU0YjA0YWI0M2UzYjM1YjcyZjFkYzNjYzhhYjYz`

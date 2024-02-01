@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,888 likes - 150 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,897 likes - 150 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 136 | [Sikasih](https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2) | [Abam](https://open.spotify.com/artist/3P0M8eyVyFJQBOStOpSdBL) | [Sikasih](https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq) | 3:06 |
 | 137 | [Forever & Always](https://open.spotify.com/track/4KquFfHpi3VsdMxr5uBfXa) | [Abe](https://open.spotify.com/artist/2Bv3me5y2XnscjPGreroh4) | [Forever & Always](https://open.spotify.com/album/7L3zuixj5Tq29IwlZZ7hgq) | 3:42 |
 | 138 | [How Is This Love ?](https://open.spotify.com/track/2lD4UJXfytonquvY7HQdGO) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Dylan Longworth](https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH) | [How Is This Love ?](https://open.spotify.com/album/4aTc14CgoXenF4HPuJzA2T) | 3:15 |
-| 139 | [Sick](https://open.spotify.com/track/0L64qnkA34iMwIrvnogryR) | [Adam Hender](https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB) | [SICK](https://open.spotify.com/album/7lJZL31xBXwCa4VEAscyn3) | 3:59 |
-| 140 | [Bla Bik](https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Bla Bik](https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3) | 2:55 |
+| 139 | [Bla Bik](https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Bla Bik](https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3) | 2:55 |
+| 140 | [Sick](https://open.spotify.com/track/0L64qnkA34iMwIrvnogryR) | [Adam Hender](https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB) | [SICK](https://open.spotify.com/album/7lJZL31xBXwCa4VEAscyn3) | 3:59 |
 | 141 | [Cardamom Tea](https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh) | [Dania](https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx) | [Cardamom Tea](https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq) | 3:41 |
 | 142 | [I Miss You](https://open.spotify.com/track/7AiZFV9YQFHGNXhajy0eFB) | [Hansol](https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek) | [I Miss You](https://open.spotify.com/album/5tnHRJxTgH9mPdCThZFF5P) | 4:11 |
 | 143 | [Farewell](https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Obscured star](https://open.spotify.com/album/4gcScVi7ImZr4RtmyUu8DV) | 4:28 |
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 145 | [Stories](https://open.spotify.com/track/5bwb4M1BhqVfjLmR3N1n6B) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Belfa](https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L) | [Stories](https://open.spotify.com/album/2bnab6jju2LE7NyFGjykqI) | 2:58 |
 | 146 | [The Everyday Bit](https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp) | [Calby](https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa) | [Burnout](https://open.spotify.com/album/6k47ejXCq00U0GjjDlhBdJ) | 3:07 |
 | 147 | [Tum Jaisi Ho](https://open.spotify.com/track/2ArTK3KizSrijvTlRzGtSs) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv) | [Tum Jaisi Ho](https://open.spotify.com/album/05vRHIg3ZhYkO8Wlpb5yRk) | 2:25 |
-| 148 | [How We Love](https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [How We Love](https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd) | 3:50 |
-| 149 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 |
-| 150 | [Между нами \- Ice Lyrical Version](https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9) | [Nyusha](https://open.spotify.com/artist/4GieO2JjiJOxc7m53YFjza), [Artem Kacher](https://open.spotify.com/artist/2XaHngr3ql0L2nrJC8PSwY) | [Между нами \(Ice Lyrical Version\)](https://open.spotify.com/album/0ztRJunw2tGm9inc8zaO1y) | 3:43 |
+| 148 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 |
+| 149 | [How We Love](https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [How We Love](https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd) | 3:50 |
+| 150 | [17h](https://open.spotify.com/track/24SBLKhtIv7wEAlXct7mNu) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [17h](https://open.spotify.com/album/0groCpwC87L58ocN0SsLh9) | 3:38 |
 
-Snapshot ID: `MCwzYmZiOWJiOTE4MzYwMzdlYzI1NDI3MzI3YjkxYjY3MDVlZmQ2NzM4`
+Snapshot ID: `MCxjNGM3OWM4MTRjZWM4YTFkMGI3MTU2MzNmMmJkOTMxZTBiOTdiN2I4`

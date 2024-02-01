@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,182 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,203 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 75 | [Sex Trip](https://open.spotify.com/track/6dJ4jLQMM8SXGYrM0eRCNm) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [MOMMAE](https://open.spotify.com/album/1kgzGqeJbY7gwiheabVk1L) | 3:46 |
 | 76 | [My Last \(Feat\. Loco & GRAY\)](https://open.spotify.com/track/2LTLUWY6bTkBZD5OAqhkuI) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [WORLDWIDE](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 3:57 |
 | 77 | [Sunday Night Drive](https://open.spotify.com/track/4L4Kbg3jAEPJZbEovRyKeH) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Sunday Night Drive](https://open.spotify.com/album/31J8jhJwqaeOS3ZJUOkg6t) | 2:09 |
-| 78 | [AQUAMAN](https://open.spotify.com/track/39L0cwuHe0RIgOehPJuQu0) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:12 |
-| 79 | [SUMMERIDE](https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SUMMERIDE](https://open.spotify.com/album/5mZSzANMkDsJlbTTxugNNo) | 3:38 |
+| 78 | [SUMMERIDE](https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SUMMERIDE](https://open.spotify.com/album/5mZSzANMkDsJlbTTxugNNo) | 3:38 |
+| 79 | [AQUAMAN](https://open.spotify.com/track/39L0cwuHe0RIgOehPJuQu0) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:12 |
 | 80 | [MOMMAE \(Feat\. Crush, Simon Dominic & Honey Cocaine\) \- Remix](https://open.spotify.com/track/4D7itKLDptW3QjL32Uaa6F) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Honey C](https://open.spotify.com/artist/7C4fslVznRj1BAu6A0iQ5L) | [WORLDWIDE](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 4:18 |
 | 81 | [곁에 있어주길](https://open.spotify.com/track/0nHB8bNZtg3BuAkWr7uJNc) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:29 |
 | 82 | [K\-TOWN](https://open.spotify.com/track/4PBYhNbFFXPcwXYUCMUTeF) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [K\-TOWN](https://open.spotify.com/album/0djg1pfwluHDX41m0NLmdF) | 2:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 99 | [I Got This](https://open.spotify.com/track/5IQhpdzUUxk3WngtnrXv2P) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:46 |
 | 100 | [ALL IN \(Prod\. GroovyRoom\)](https://open.spotify.com/track/586VUZmfGAEjeHkIPHwy3p) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB) | [ALL IN](https://open.spotify.com/album/4Pe85vc4NSIC9Y9adjmNA5) | 3:45 |
 
-Snapshot ID: `MCwyNGFkNjdlNDAwNjc0MGFjZGQwNmUyMTU0ZjRhZDYxMjVjZTI4ZDVi`
+Snapshot ID: `MCxmMjA5ODg5ZDY5YTlhZjI5ZTU4NDMwMmNmN2NjZDk5MmY0MjdlYWFl`

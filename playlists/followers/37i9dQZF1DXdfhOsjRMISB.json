@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 352898,
+  "2024-02-01": 352870,
   "date_first_scraped": "2021-12-21",
   "description": "Country music to accompany you on the open road. Cover: Lainey Wilson",
   "name": "Country Drive",
@@ -255,7 +255,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 200426,
       "name": "Angels (Don\u2019t Always Have Wings)",
       "url": "https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg"
@@ -5623,7 +5623,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 218946,
       "name": "Think of You",
       "url": "https://open.spotify.com/track/6W9W8dSswA8KNegvl3W97V"

@@ -46,7 +46,6 @@
 | [Kyo181](https://open.spotify.com/track/0jqrftVPDJaSWpa31kgDrf) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Kyo181](https://open.spotify.com/album/3N0IUl4bbHeBmLFaMAVgCW) | 4:13 | 2023-09-04 | 2023-12-22 |
 | [Kyo181](https://open.spotify.com/track/520WqSVz1lyOWz3WUjVX4U) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Kyo181](https://open.spotify.com/album/1EeGRwwj6UuAzdHmPBAsfg) | 4:13 | 2023-09-04 |  |
 | [Let's Do Well](https://open.spotify.com/track/3LC2XvIgfPpJChlceA82qU) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [사랑의 단상 Chapter 5 : The Letter From Nowhere](https://open.spotify.com/album/28KClRRM4IQB7QN204Xkym) | 4:23 | 2023-09-04 |  |
-| [Like We Turn the Pages](https://open.spotify.com/track/4TlOsdI9nScXp9drxUOZVk) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Like We Turn the Pages](https://open.spotify.com/album/10TE6ow8ZCGrO0mTe0tWbE) | 3:12 | 2023-09-04 |  |
 | [LOST](https://open.spotify.com/track/3t8nzuzkwU6URJqdtmhg83) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [FRAME](https://open.spotify.com/album/2R7autQAAltvOsyFuTYLUy) | 4:56 | 2023-09-04 | 2023-12-13 |
 | [LOST](https://open.spotify.com/track/4kMLshVJfNm7pOBX6Eh0Yb) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [FRAME](https://open.spotify.com/album/4g5IaIy258fL8jCAt6WM1K) | 4:56 | 2023-09-04 |  |
 | [Love and Peace](https://open.spotify.com/track/2T5YVtQspCHTAgk392GHNS) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [Beginner's Luck](https://open.spotify.com/album/0rwMYpbxg4Iaw2RbCG07xv) | 5:33 | 2023-09-04 |  |
@@ -138,6 +137,7 @@
 | [유채꽃](https://open.spotify.com/track/3cqqOeRvKwfjcXzgBEtEQa) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [유실물 보관소](https://open.spotify.com/album/4Locv1kDPE8beo4cRDPogA) | 3:18 | 2023-09-04 |  |
 | [있지](https://open.spotify.com/track/0K2guQ8Z2I3PfrkiRnfew5) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [자우림](https://open.spotify.com/album/3IF1jhSCab7fmxdx6kSZRl) | 3:38 | 2023-09-04 | 2023-12-13 |
 | [있지](https://open.spotify.com/track/6r0hfhaITECuZrEQTfrTLT) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [자우림](https://open.spotify.com/album/2v4ebwS0Pd1CPMyGT2UDTs) | 3:38 | 2023-09-04 |  |
+| [책을 넘기는 듯한 마음으로](https://open.spotify.com/track/4TlOsdI9nScXp9drxUOZVk) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [책을 넘기는 듯한 마음으로](https://open.spotify.com/album/10TE6ow8ZCGrO0mTe0tWbE) | 3:12 | 2023-09-04 |  |
 | [첫사랑](https://open.spotify.com/track/46Ve6ogw5551H07RkP1gpE) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [Words in the mind](https://open.spotify.com/album/6t3ExmPeNU5M1LimWIG2r9) | 4:15 | 2023-09-04 |  |
 | [파이트 클럽](https://open.spotify.com/track/1BdEXKnVTQfReB1DZEbmsH) | [Romantic Punch](https://open.spotify.com/artist/5AwL954EM1Rkus1lsy8JmU) | [파이트 클럽](https://open.spotify.com/album/17NHwoDpaaNetHG36nx8JT) | 3:42 | 2023-09-04 |  |
 

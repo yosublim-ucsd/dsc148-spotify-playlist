@@ -1801,6 +1801,24 @@
     },
     {
       "album": {
+        "name": "Do It Well (Official Video)",
+        "url": "https://open.spotify.com/album/11YYXtLUPokG0f9nUnvSAk"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197930,
+      "name": "Do It Well",
+      "url": "https://open.spotify.com/track/4jDiw06shcqwNM7Gn1TAqJ"
+    },
+    {
+      "album": {
         "name": "Do You Think Of Me? (From \"Songland\")",
         "url": "https://open.spotify.com/album/5wDKKvmNdFliTIglx6APzc"
       },
@@ -1830,7 +1848,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 226026,
       "name": "Doing It for the Money",
       "url": "https://open.spotify.com/track/6APnYxfLzIg2cejA3v2ljy"
@@ -1848,7 +1866,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 255936,
       "name": "Doing It for the Money",
       "url": "https://open.spotify.com/track/1kThoMSZoqRxb8aI7a9f7u"
@@ -2580,7 +2598,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 237248,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/4O9bzeRoxVpoVY22EQ3MPH"
@@ -2772,7 +2790,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -2790,7 +2808,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 154133,
       "name": "greedy",
       "url": "https://open.spotify.com/track/2hBbSTlbdMHeb9fOvyGRy1"
@@ -2916,10 +2934,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 237440,
       "name": "Happy",
       "url": "https://open.spotify.com/track/6VWrzY9iVC8LzHgzz7g1XS"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3KMc2Ey1t8gv4r9VfYgqbH"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242093,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/55whSVkLeOcEhLaU91DQ8Q"
     },
     {
       "album": {
@@ -3140,7 +3176,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 185388,
       "name": "Higher",
       "url": "https://open.spotify.com/track/4bEpL49l4f0r8GtsjUFUqL"
@@ -3158,7 +3194,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 192150,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7q28ELkHmbl1nddyRhUnLK"
@@ -3324,7 +3360,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 148120,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
@@ -3342,7 +3378,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 154287,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/1bNapzbrWh3wI8gqd06ejG"
@@ -3462,6 +3498,24 @@
     {
       "album": {
         "name": "I Want Love",
+        "url": "https://open.spotify.com/album/0UoYRs1WP7625dmeOsY3Zn"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "I Want Love",
+      "url": "https://open.spotify.com/track/4DqXhYryASlQ2W6IAZF8Un"
+    },
+    {
+      "album": {
+        "name": "I Want Love",
         "url": "https://open.spotify.com/album/4i2aEVzX2FhYuG4cAxixLD"
       },
       "artists": [
@@ -3472,7 +3526,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 216966,
       "name": "I Want Love",
       "url": "https://open.spotify.com/track/67XZt147Xt7f21cFpSddqN"
@@ -4280,7 +4334,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 222293,
       "name": "Love Like This (feat. Sean Kingston)",
       "url": "https://open.spotify.com/track/49ppqF73rOz5Nyt1paRxIF"
@@ -4302,10 +4356,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 234048,
       "name": "Love Like This (feat. Sean Kingston)",
       "url": "https://open.spotify.com/track/7Km9aEjz9EctUT4o3WayCe"
+    },
+    {
+      "album": {
+        "name": "ALICIA",
+        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203320,
+      "name": "Love Looks Better",
+      "url": "https://open.spotify.com/track/0HL5XOeVxgX1cEPY2KgRRa"
     },
     {
       "album": {
@@ -4320,7 +4392,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 230293,
       "name": "Love Looks Better",
       "url": "https://open.spotify.com/track/4L5KZNybVabAoB8waldDbw"
@@ -4634,7 +4706,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 188771,
       "name": "Me Gusta (with Cardi B & Myke Towers)",
       "url": "https://open.spotify.com/track/0fU5WXDANKCzcLC3n0nk7F"
@@ -4902,7 +4974,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 233173,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT"
@@ -4920,7 +4992,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 239405,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/7gJRbWCTtFc6ijYBjRx6aV"
@@ -5036,7 +5108,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 197494,
       "name": "Nights With You",
       "url": "https://open.spotify.com/track/5q5gzmbBS5yQzos2BvVr1t"
@@ -5054,7 +5126,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 197760,
       "name": "Nights With You",
       "url": "https://open.spotify.com/track/1m1IL33LEp61DGGqXL3wBr"
@@ -5228,7 +5300,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 164396,
       "name": "Older",
       "url": "https://open.spotify.com/track/7JSSJf4TcJDv8KL6UO8FGH"
@@ -5246,7 +5318,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 194152,
       "name": "Older",
       "url": "https://open.spotify.com/track/4DsOhl0XLVUUkehUNIjVD0"
@@ -5632,7 +5704,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 183406,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/6LbAhaBQ5yAifQuNIPlQsR"
@@ -5650,7 +5722,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 183530,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/78BT9bXdqEV2EqpmDkLm0m"
@@ -5828,6 +5900,24 @@
     {
       "album": {
         "name": "RUNAWAY",
+        "url": "https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143264,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
+    },
+    {
+      "album": {
+        "name": "RUNAWAY",
         "url": "https://open.spotify.com/album/4Lz2PWcpIOgjHv9Ckyfdex"
       },
       "artists": [
@@ -5838,7 +5928,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 208508,
       "name": "RUNAWAY",
       "url": "https://open.spotify.com/track/3C5AsFcPYH5XbcssxenJkS"
@@ -6008,7 +6098,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 215530,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/17Mrpdv01Bp7H0YTnGeqRH"
@@ -6026,7 +6116,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 217258,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/6TW2OHata91dIc99MZehcT"
@@ -6291,6 +6381,24 @@
     },
     {
       "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/59gdVdSQs1BXEMDmqlOBYG"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214080,
+      "name": "So Far Gone",
+      "url": "https://open.spotify.com/track/2HZC51gX9Ml1IT2rIbaCxD"
+    },
+    {
+      "album": {
         "name": "Some Kind of Trouble (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5b6T7m3DbNlWTwnaiuic2W"
       },
@@ -6302,7 +6410,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 214133,
       "name": "So Far Gone",
       "url": "https://open.spotify.com/track/1XCWRPypSirT0WiXQGDcAl"
@@ -6634,10 +6742,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 222570,
       "name": "Stranger Things",
       "url": "https://open.spotify.com/track/2c4voUCNC12xUtXDyYQslM"
+    },
+    {
+      "album": {
+        "name": "Kids in Love",
+        "url": "https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221440,
+      "name": "Stranger Things (feat. OneRepublic)",
+      "url": "https://open.spotify.com/track/4sJqSKPc5fZ5OZ8JiVI44N"
     },
     {
       "album": {
@@ -6768,10 +6898,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 181026,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
+    },
+    {
+      "album": {
+        "name": "Sucker",
+        "url": "https://open.spotify.com/album/0OdxktEA1HNjzg4V3d7SdS"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199741,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/7Mv9xyVPvrnoV3fKIWYoyo"
     },
     {
       "album": {
@@ -6829,6 +6977,24 @@
     },
     {
       "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203650,
+      "name": "Super Far",
+      "url": "https://open.spotify.com/track/15ahYSiHAIMxAnujlXVtta"
+    },
+    {
+      "album": {
         "name": "Super Far",
         "url": "https://open.spotify.com/album/5gUEDGhVVRvagCT5QjknQS"
       },
@@ -6840,7 +7006,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 219260,
       "name": "Super Far",
       "url": "https://open.spotify.com/track/3zkfKCuKFRVVwe3FJOlWq0"
@@ -7989,6 +8155,24 @@
     },
     {
       "album": {
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/0UkABhrJ1PM3iQ1NxAxDsq"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171908,
+      "name": "Why Do You Love Me",
+      "url": "https://open.spotify.com/track/09rBX6mQFN1GFJgfqUQak5"
+    },
+    {
+      "album": {
         "name": "Why Do You Love Me",
         "url": "https://open.spotify.com/album/0lLBM6I1Fx0EBgfobLWS7h"
       },
@@ -8000,7 +8184,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 221000,
       "name": "Why Do You Love Me",
       "url": "https://open.spotify.com/track/6po9mcIat5INH4PnJE7fmF"

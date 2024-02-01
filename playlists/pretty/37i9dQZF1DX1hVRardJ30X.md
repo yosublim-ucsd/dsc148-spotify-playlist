@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Bad Gyal
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,081 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,050 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [niño](https://open.spotify.com/track/74ELOQx5W7ApUY81hFrVVE) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [niño](https://open.spotify.com/album/4yUa8STeGGk1eOrZNcOtnN) | 3:26 |
 | 50 | [Atrapada](https://open.spotify.com/track/7c0EhjQTq7i4W7eHHFQyXR) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Atrapada](https://open.spotify.com/album/5MIfFyJ75UraxeBT9MV3us) | 4:06 |
 
-Snapshot ID: `MCxkMjUwNDIyMzAxMzdlYmQ5NTJjMWVhNTYxYjFmYjgwZWVlMjU3OGQ0`
+Snapshot ID: `MCw0Nzk2NTk3MzgxZDBiMzRlN2Q0NjNhNWIyNGI1MzBjMjhhOGJiZGJl`

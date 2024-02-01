@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Skepta",
-  "num_followers": 24191,
+  "num_followers": 24218,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmEwMDgzNjRiY2QwNTZiNTVmNmQzZjBiZjljMDc2ODMyOTAxMWJi",
+  "snapshot_id": "MCw2MzJlZjZkMTUwZmU0MmI1NDNmMWRhYTA5YTUwMDI2ZmJkNjQ2OTk1",
   "tracks": [
     {
       "added_at": "2024-01-26 00:01:00",
@@ -499,62 +499,6 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 309327,
-      "name": "Churchill Downs (feat. Drake)",
-      "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Split Decision",
-        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "UK Rap",
-      "url": "https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 177789,
-      "name": "California Breeze",
-      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
         "name": "All Is Yellow",
         "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
       },
@@ -579,6 +523,62 @@
       "duration_ms": 169014,
       "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
       "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Split Decision",
+        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "UK Rap",
+      "url": "https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 309327,
+      "name": "Churchill Downs (feat. Drake)",
+      "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
+        "name": "Adrenalean",
+        "url": "https://open.spotify.com/album/6UQtl3xS1bK5lpotk4p9xn"
+      },
+      "artists": [
+        {
+          "name": "menace Santana",
+          "url": "https://open.spotify.com/artist/5Y5EJ20jDQkkB213zwuDXR"
+        }
+      ],
+      "duration_ms": 132743,
+      "name": "Adrenalean",
+      "url": "https://open.spotify.com/track/0klIln517VMntb0BAesVuR"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
         "name": "FAN",
         "url": "https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Adrenalean",
-        "url": "https://open.spotify.com/album/6UQtl3xS1bK5lpotk4p9xn"
+        "name": "Greatness",
+        "url": "https://open.spotify.com/album/4y4p9wI8BXL9sRKToCNA7p"
       },
       "artists": [
         {
-          "name": "menace Santana",
-          "url": "https://open.spotify.com/artist/5Y5EJ20jDQkkB213zwuDXR"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
-      "duration_ms": 132743,
-      "name": "Adrenalean",
-      "url": "https://open.spotify.com/track/0klIln517VMntb0BAesVuR"
+      "duration_ms": 185000,
+      "name": "Greatness",
+      "url": "https://open.spotify.com/track/2eN0rxTtgxKkmVCNgizayr"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -803,22 +819,6 @@
       "duration_ms": 264179,
       "name": "All My Life (Burna Boy Remix)",
       "url": "https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Greatness",
-        "url": "https://open.spotify.com/album/4y4p9wI8BXL9sRKToCNA7p"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Greatness",
-      "url": "https://open.spotify.com/track/2eN0rxTtgxKkmVCNgizayr"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -867,42 +867,6 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 187368,
-      "name": "NO SLEEP $$$ (feat. Young Jonn)",
-      "url": "https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "The Villain I Never Was",
-        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 161699,
-      "name": "Konongo Zongo",
-      "url": "https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
         "name": "Blood Diamond",
         "url": "https://open.spotify.com/album/0z3bbwLzSFO7ObKjmaI7TY"
       },
@@ -919,6 +883,22 @@
       "duration_ms": 202886,
       "name": "Hocus Pocus",
       "url": "https://open.spotify.com/track/3gtbkrjOmjgLqznoV4PQS5"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 161699,
+      "name": "Konongo Zongo",
+      "url": "https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -967,6 +947,26 @@
       "duration_ms": 268092,
       "name": "JEEZU (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/3MlgALPoRA3SidqSRtQ6z9"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 187368,
+      "name": "NO SLEEP $$$ (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -1035,22 +1035,18 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+        "name": "DECLAN RICE",
+        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 146000,
-      "name": "ROAD RUNNERS (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
+      "duration_ms": 124000,
+      "name": "DECLAN RICE",
+      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -1071,18 +1067,22 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "DECLAN RICE",
-        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 124000,
-      "name": "DECLAN RICE",
-      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
+      "duration_ms": 146000,
+      "name": "ROAD RUNNERS (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
     },
     {
       "added_at": "2024-01-26 00:01:00",

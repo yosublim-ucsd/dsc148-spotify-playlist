@@ -1,12 +1,12 @@
 {
   "description": "Your personalized GTA radio station. ",
-  "num_followers": 526734,
+  "num_followers": 527022,
   "original_name": "Grand Theft Auto Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTA1MmQ3NWU0YzA4ZmRlNGUzMTE1YTFlZDhmYWU0YjA2OWY5NGZm",
+  "snapshot_id": "MCw5MGJhZjc1ZmNhYjcwMDI2MWZhZWQ2OTRiZTBiNjMwZjA4NzFiODhm",
   "tracks": [
     {
       "added_at": "2023-12-15 05:01:00",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
+        "name": "Swimming Pools (Drank)",
+        "url": "https://open.spotify.com/album/2XPrwlaAHHXnJzP9tBcIzH"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 247800,
+      "name": "Swimming Pools (Drank)",
+      "url": "https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 270586,
       "name": "Still D.R.E.",
       "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
-        "name": "Swimming Pools (Drank)",
-        "url": "https://open.spotify.com/album/2XPrwlaAHHXnJzP9tBcIzH"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 247800,
-      "name": "Swimming Pools (Drank)",
-      "url": "https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -271,18 +271,22 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "No More Drama",
-        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
       "artists": [
         {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 265866,
-      "name": "Family Affair",
-      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
+      "duration_ms": 161506,
+      "name": "The Next Episode",
+      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -303,22 +307,18 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+        "name": "No More Drama",
+        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
       },
       "artists": [
         {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         }
       ],
-      "duration_ms": 161506,
-      "name": "The Next Episode",
-      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
+      "duration_ms": 265866,
+      "name": "Family Affair",
+      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Self Control",
-        "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
-      },
-      "artists": [
-        {
-          "name": "Laura Branigan",
-          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "Culture II",
         "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 190288,
       "name": "Stir Fry",
       "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
+      },
+      "artists": [
+        {
+          "name": "Laura Branigan",
+          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Welcome To The Pleasuredome",
-        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
-      },
-      "artists": [
-        {
-          "name": "Frankie Goes To Hollywood",
-          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "Still Striving",
         "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 173600,
       "name": "Plain Jane",
       "url": "https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Welcome To The Pleasuredome",
+        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
+      },
+      "artists": [
+        {
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
+        "name": "ICY",
+        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 126446,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
         "name": "Con Altura",
         "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 161626,
       "name": "Con Altura",
       "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
-        "name": "ICY",
-        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 126446,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Alannah Myles",
-        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
-      },
-      "artists": [
-        {
-          "name": "Alannah Myles",
-          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "Eazy-Duz-It",
         "url": "https://open.spotify.com/album/2glPhGd3WXbnNttSdOOr2e"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 234360,
       "name": "No More ?'s",
       "url": "https://open.spotify.com/track/7y9yjpRtZajYzVpXHRjwGz"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Alannah Myles",
+        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
+      },
+      "artists": [
+        {
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
     },
     {
       "added_at": "2023-12-15 05:01:00",

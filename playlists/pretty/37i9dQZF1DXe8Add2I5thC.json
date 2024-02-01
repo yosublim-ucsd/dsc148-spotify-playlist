@@ -1,12 +1,12 @@
 {
   "description": "the golden era of the \ud835\ude92\ud835\ude97\ud835\ude9d\ud835\ude8e\ud835\ude9b\ud835\ude97\ud835\ude8e\ud835\ude9d",
-  "num_followers": 25595,
+  "num_followers": 25619,
   "original_name": "the blog era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWQ0ZWJlYzEzNTE0ZjY1ODllNTc0YWYyYjU2YzQ4ZTQwYWMwZDVh",
+  "snapshot_id": "MCxjZjJkZmZjZmExZWU2YjI4MDllYWZmZjJhNzFlNzFlZTliYjdlNzIz",
   "tracks": [
     {
       "added_at": "2023-10-22 00:51:07",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
-        "name": "Walking On A Dream (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
-      },
-      "artists": [
-        {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Walking On A Dream",
-      "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
-    },
-    {
-      "added_at": "2023-10-22 00:51:07",
-      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 261000,
       "name": "Time to Pretend",
       "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+    },
+    {
+      "added_at": "2023-10-22 00:51:07",
+      "album": {
+        "name": "Walking On A Dream (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
+      },
+      "artists": [
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
     },
     {
       "added_at": "2023-10-22 00:51:07",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 193106,
-      "name": "1901",
-      "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
-    },
-    {
-      "added_at": "2023-10-22 00:51:07",
-      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 302840,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
+    },
+    {
+      "added_at": "2023-10-22 00:51:07",
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 193106,
+      "name": "1901",
+      "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
     },
     {
       "added_at": "2023-10-22 00:51:07",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
-        "name": "Women in Technology",
-        "url": "https://open.spotify.com/album/6z6qZbY7mDuyzstPSCy5Xq"
-      },
-      "artists": [
-        {
-          "name": "White Town",
-          "url": "https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM"
-        }
-      ],
-      "duration_ms": 259893,
-      "name": "Your Woman",
-      "url": "https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr"
-    },
-    {
-      "added_at": "2023-10-22 00:51:07",
-      "album": {
         "name": "Pure Heroine",
         "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 198907,
       "name": "Tennis Court",
       "url": "https://open.spotify.com/track/74fpNVAJrKGQuqHETi4WSt"
+    },
+    {
+      "added_at": "2023-10-22 00:51:07",
+      "album": {
+        "name": "Women in Technology",
+        "url": "https://open.spotify.com/album/6z6qZbY7mDuyzstPSCy5Xq"
+      },
+      "artists": [
+        {
+          "name": "White Town",
+          "url": "https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM"
+        }
+      ],
+      "duration_ms": 259893,
+      "name": "Your Woman",
+      "url": "https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr"
     },
     {
       "added_at": "2023-10-22 00:51:07",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 278080,
-      "name": "Dancing On My Own - Radio Edit",
-      "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
-    },
-    {
-      "added_at": "2023-10-22 00:51:07",
-      "album": {
         "name": "Nighttiming",
         "url": "https://open.spotify.com/album/4FeD2BdcaGX75b5X1gvvsg"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 210106,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/2nvZv4qatgsDIbEqqbQLUT"
+    },
+    {
+      "added_at": "2023-10-22 00:51:07",
+      "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 278080,
+      "name": "Dancing On My Own - Radio Edit",
+      "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
     },
     {
       "added_at": "2023-10-22 00:51:07",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
-        "name": "The Warning",
-        "url": "https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 347880,
-      "name": "Over And Over",
-      "url": "https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA"
-    },
-    {
-      "added_at": "2023-10-22 00:51:07",
-      "album": {
         "name": "The Suburbs",
         "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 235866,
       "name": "Solitude Is Bliss",
       "url": "https://open.spotify.com/track/2a2MbiJN2skOxohykOVcss"
+    },
+    {
+      "added_at": "2023-10-22 00:51:07",
+      "album": {
+        "name": "The Warning",
+        "url": "https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 347880,
+      "name": "Over And Over",
+      "url": "https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA"
     },
     {
       "added_at": "2023-10-22 00:51:07",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
-        "name": "D.A.N.C.E",
-        "url": "https://open.spotify.com/album/6cg0y0EJpRzfVbKGCgVMf7"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "D.A.N.C.E - Radio Edit",
-      "url": "https://open.spotify.com/track/3gcmn2CtOE9SjBevmvGVEk"
-    },
-    {
-      "added_at": "2023-10-22 00:51:07",
-      "album": {
         "name": "Cupid Deluxe",
         "url": "https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 261360,
       "name": "You're Not Good Enough",
       "url": "https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps"
+    },
+    {
+      "added_at": "2023-10-22 00:51:07",
+      "album": {
+        "name": "D.A.N.C.E",
+        "url": "https://open.spotify.com/album/6cg0y0EJpRzfVbKGCgVMf7"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "D.A.N.C.E - Radio Edit",
+      "url": "https://open.spotify.com/track/3gcmn2CtOE9SjBevmvGVEk"
     },
     {
       "added_at": "2023-10-22 00:51:07",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
-        "name": "See Mystery Lights: Remixes & B-Sides",
-        "url": "https://open.spotify.com/album/7JNgMsuPDrqguKEh5rGaFb"
-      },
-      "artists": [
-        {
-          "name": "YACHT",
-          "url": "https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr"
-        },
-        {
-          "name": "Classixx",
-          "url": "https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ"
-        }
-      ],
-      "duration_ms": 251380,
-      "name": "Psychic City - Classixx Remix",
-      "url": "https://open.spotify.com/track/4NWpGwfkWMlA7G2ZpFKDXZ"
-    },
-    {
-      "added_at": "2023-10-22 00:51:07",
-      "album": {
         "name": "Free The Universe (Extended Version)",
         "url": "https://open.spotify.com/album/5QhUiW8r836IZ7avv9A5L8"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 289973,
       "name": "Get Free",
       "url": "https://open.spotify.com/track/56hYeuutlZO5Pkm99FzLCW"
+    },
+    {
+      "added_at": "2023-10-22 00:51:07",
+      "album": {
+        "name": "See Mystery Lights: Remixes & B-Sides",
+        "url": "https://open.spotify.com/album/7JNgMsuPDrqguKEh5rGaFb"
+      },
+      "artists": [
+        {
+          "name": "YACHT",
+          "url": "https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr"
+        },
+        {
+          "name": "Classixx",
+          "url": "https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ"
+        }
+      ],
+      "duration_ms": 251380,
+      "name": "Psychic City - Classixx Remix",
+      "url": "https://open.spotify.com/track/4NWpGwfkWMlA7G2ZpFKDXZ"
     },
     {
       "added_at": "2023-10-22 00:51:07",

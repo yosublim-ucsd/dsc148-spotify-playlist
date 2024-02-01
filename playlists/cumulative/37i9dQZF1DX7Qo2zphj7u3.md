@@ -4,7 +4,7 @@
 
 > Las románticas de hoy y de siempre\. Foto: Luis Fonsi
 
-466 songs - 1 day 7 hr 12 min
+467 songs - 1 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Cuando nadie me ve](https://open.spotify.com/track/5PczsbMK39oiVxkh8akIdC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Coleccion definitiva \(Deluxe\)](https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX) | 5:08 | 2022-01-25 | 2022-07-29 |
 | [Cuando quieras, donde quieras \(Così era e così sia\)](https://open.spotify.com/track/3akNntAza319MgjivWphIH) | [Dyango](https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb) | [Alma, Corazón Y Vida](https://open.spotify.com/album/7AyiKOqr5X1l1qRXQlUMAP) | 3:26 | 2022-01-25 |  |
 | [Culpable](https://open.spotify.com/track/0SdmqDCyKpv5rnEcX53hCB) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Tú Y Yo](https://open.spotify.com/album/35uqGSXgZlJHsgbfRg7Fiq) | 3:51 | 2022-01-25 | 2022-06-14 |
-| [Culpable O No \- Miénteme Como Siempre](https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 3:57 | 2022-01-25 |  |
+| [Culpable O No \- Miénteme Como Siempre](https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 3:57 | 2022-01-25 | 2024-02-01 |
 | [Culpable Soy Yo](https://open.spotify.com/track/0FigZsXkqqKIcpUZTCeWqs) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [La Historia del Puma](https://open.spotify.com/album/0a7n1tbZkr87slBdcFPFkY) | 3:21 | 2022-01-25 |  |
 | [Cómo Dejarte Ir](https://open.spotify.com/track/3CkBFksybBFWifrXYMwI54) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [El Pacto](https://open.spotify.com/album/5Dt2lnQ9Q7sBV6AZzky5SY) | 3:23 | 2023-09-15 |  |
 | [Cómo Dueles En Los Labios](https://open.spotify.com/track/3sV0UAcGK16bqHXPpPgPy2) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 4:07 | 2022-01-25 | 2022-07-29 |
@@ -136,6 +136,7 @@
 | [En El Muelle de San Blas](https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:52 | 2022-01-25 |  |
 | [En Tus Planes](https://open.spotify.com/track/5fmXWEFh8vMXzKTHN9ezKV) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [En Tus Planes](https://open.spotify.com/album/63cRlzjRihSdheA6lKonRy) | 2:52 | 2022-01-25 | 2022-11-13 |
 | [Enamorado de Ti](https://open.spotify.com/track/3pY68z0dH4i4gF1zzONS0q) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Tu Última Canción](https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa) | 4:09 | 2022-08-05 | 2023-01-07 |
+| [Energía Bacana](https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Energía Bacana](https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq) | 2:27 | 2024-02-01 |  |
 | [Entrégate](https://open.spotify.com/track/4F4iZn4IqiP7fhsNzyDUlw) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Grandes Éxitos](https://open.spotify.com/album/0NwQIWxyE13WaqiiHC9kIA) | 4:23 | 2022-01-25 | 2022-07-29 |
 | [Entrégate](https://open.spotify.com/track/5fj3zNkXfOlrJGVcZBId6D) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:23 | 2022-01-25 | 2023-10-13 |
 | [Eres Mi Religión](https://open.spotify.com/track/4I3liLHdMIHqI4VsyMzJiH) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Exiliados en la Bahia: Lo mejor de Mana \(Correcta\)](https://open.spotify.com/album/1OZeDqa64PvbEHTBeKgF1k) | 5:28 | 2022-01-25 | 2022-07-29 |

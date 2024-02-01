@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: Elmiene
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,120 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,169 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Marking My Time \- BADBADNOTGOOD Edit](https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Marking My Time \(BADBADNOTGOOD Edit\)](https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz) | 4:12 |
 | 2 | [Nothing Sweeter](https://open.spotify.com/track/7gHhebSuMPZrHaFU830ly5) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Nothing Sweeter](https://open.spotify.com/album/0lCIshkOsKjTmEUSYi2ADc) | 4:25 |
 | 3 | [Don’t Count Me In](https://open.spotify.com/track/2k8tbt4jY1Nl5nY5CL7Heg) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Don’t Count Me In](https://open.spotify.com/album/38nOb3gb5ohG3WtRMZ32ZW) | 3:18 |
-| 4 | [Crazy \(DuDuDu\)](https://open.spotify.com/track/3vPku6d0AIu3U2b4HOcKjd) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [KAEDI](https://open.spotify.com/artist/0HNQ9Df6RUMiQHIq7KxLf1) | [Crazy \(DuDuDu\)](https://open.spotify.com/album/4lUDOpOQpworctVvTKS0Vn) | 3:24 |
-| 5 | [Eating out](https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Eating out](https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys) | 2:53 |
-| 6 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 |
-| 7 | [U & I](https://open.spotify.com/track/4jBSQcXXIgmJF0ngkSbPCH) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [The NightBirds](https://open.spotify.com/artist/5y3PKV2Jacq5FBub8joiNJ) | [HOUSE OF GROOVE](https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo) | 3:36 |
+| 4 | [U & I](https://open.spotify.com/track/4jBSQcXXIgmJF0ngkSbPCH) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [The NightBirds](https://open.spotify.com/artist/5y3PKV2Jacq5FBub8joiNJ) | [HOUSE OF GROOVE](https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo) | 3:36 |
+| 5 | [Crazy \(DuDuDu\)](https://open.spotify.com/track/3vPku6d0AIu3U2b4HOcKjd) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [KAEDI](https://open.spotify.com/artist/0HNQ9Df6RUMiQHIq7KxLf1) | [Crazy \(DuDuDu\)](https://open.spotify.com/album/4lUDOpOQpworctVvTKS0Vn) | 3:24 |
+| 6 | [Eating out](https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Eating out](https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys) | 2:53 |
+| 7 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 |
 | 8 | [6 Feet Down](https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP) | 2:48 |
 | 9 | [CHANTE'S GROOVE](https://open.spotify.com/track/2qMKGSiQvgJAT7J94kloTB) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [CHANTE'S GROOVE](https://open.spotify.com/album/1TV2Jx7E5y7Yg9jul0CP3X) | 3:15 |
 | 10 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 79 | [Bad Company](https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Bad Company](https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230) | 3:38 |
 | 80 | [Sweet Distraction](https://open.spotify.com/track/6YaQQnajGqFsly2ckrZmw7) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [Sweet Distraction](https://open.spotify.com/album/05EE5Cuom9zgpxbs07xeRE) | 2:51 |
 
-Snapshot ID: `MCxlOGY5YzFjOTc0ZWM0YzJhMjE4ZGJhYzJjM2Q1YjcwMTk2ZmNhNDhm`
+Snapshot ID: `MCxjMGYzNDQxZjFkZjY4YTllNzlmNzM0MzU4YzJhNzYzNzdmZjRjNTQ4`

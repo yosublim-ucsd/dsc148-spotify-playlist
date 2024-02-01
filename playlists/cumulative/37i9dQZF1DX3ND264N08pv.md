@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-227 songs - 12 hr 50 min
+228 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Lean](https://open.spotify.com/track/6z8GZkL7C6So1NcWzXYI19) | [Mzperx](https://open.spotify.com/artist/3HjkRObWfRu6OtnIH2CGg8) | [Lean](https://open.spotify.com/album/6CbjGw3CBsjUu7s9tvswXF) | 4:53 | 2022-12-22 | 2023-01-13 |
 | [Like An Animal \- Jur Terreur Remix](https://open.spotify.com/track/2Ja6dTeqsDx8YFAR1ojmpx) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [Jur Terreur](https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u) | [We Roar Special](https://open.spotify.com/album/0K9Jpxbt3Er6NMwMkEFR0r) | 2:44 | 2023-10-25 |  |
 | [Locked Up](https://open.spotify.com/track/434lnuoFk5IA3xJnnF3esF) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [LXCPR](https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0) | [Locked Up](https://open.spotify.com/album/76rwBzfgCJLi9bwg1WGFla) | 3:53 | 2022-12-08 | 2024-01-18 |
+| [Locked Up](https://open.spotify.com/track/6NURhpGBxcPREjrtBdfWeL) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [LXCPR](https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0) | [The Keymaker](https://open.spotify.com/album/5STLj7Mkx2nwrCKdrSOnoR) | 3:53 | 2024-01-24 |  |
 | [Loco](https://open.spotify.com/track/3ths0qezzeNfMDErMUDCwx) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Loco](https://open.spotify.com/album/1GcwL1qhxuTpZP405t9s2g) | 3:33 | 2022-12-08 | 2023-10-26 |
 | [LOSE IT](https://open.spotify.com/track/4jF9Df8yhktHGaRV4UwQ8r) | [Crypton](https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2) | [LOSE IT](https://open.spotify.com/album/03UYxj7j9zacRjwwEbExV5) | 2:43 | 2023-11-17 |  |
 | [LOSE STRESS](https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [LOSE STRESS](https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ) | 2:48 | 2022-12-08 | 2023-12-22 |
@@ -228,7 +229,7 @@
 | [Warriors Of Valhalla](https://open.spotify.com/track/1uRTpjcx6qdbo9NPWosv8H) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7) | [Warriors Of Valhalla](https://open.spotify.com/album/4TQLZCdkZ4VRMy8U31vfMw) | 2:39 | 2023-06-22 |  |
 | [Wave of Destruction](https://open.spotify.com/track/2mTSCJKqM5TaZXxPdWALaP) | [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s), [Runeforce](https://open.spotify.com/artist/7fzicDRhTE3rhGdO4ssCcH) | [Wave Of Destruction](https://open.spotify.com/album/7J4zZlQKZlAohMDKkGMwJ5) | 4:25 | 2023-09-01 | 2023-11-03 |
 | [We are Frenchcore](https://open.spotify.com/track/2m2R5CO0YORG5OWchqgjgf) | [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [We are Frenchcore](https://open.spotify.com/album/5RYJtjJ2BCCWg5SwMSbQkz) | 3:24 | 2023-05-15 | 2023-06-30 |
-| [We are One \(Official Leaderz 2023 Anthem\)](https://open.spotify.com/track/2wVnIK8OHuNAvmvq30EsSt) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [Broken Brains](https://open.spotify.com/artist/5pgM0qfyjqqr1lMQCLxtL8), [Mc Braincase](https://open.spotify.com/artist/51itOrfxQckDhcRHOB1Fve) | [We are One \(Official Leaderz 2023 Anthem\)](https://open.spotify.com/album/3HeTRsYD6njlshBXB6097j) | 4:01 | 2023-10-06 |  |
+| [We are One \(Official Leaderz 2023 Anthem\)](https://open.spotify.com/track/2wVnIK8OHuNAvmvq30EsSt) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [Broken Brains](https://open.spotify.com/artist/5pgM0qfyjqqr1lMQCLxtL8), [Mc Braincase](https://open.spotify.com/artist/51itOrfxQckDhcRHOB1Fve) | [We are One \(Official Leaderz 2023 Anthem\)](https://open.spotify.com/album/3HeTRsYD6njlshBXB6097j) | 4:01 | 2023-10-06 | 2024-02-01 |
 | [Welcome To My Nightmare](https://open.spotify.com/track/7mXYCi1wA8n8zBN0ud211g) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Welcome To My Nightmare](https://open.spotify.com/album/7x2ImrxaXBL79nq6WaK0Ui) | 3:27 | 2023-09-21 |  |
 | [Without Respect](https://open.spotify.com/track/4jnzaXsBg7Y938Q7Po9LFd) | [System of Fury](https://open.spotify.com/artist/6Qzf4osFUb1YZBMynU2FmN) | [Without Respect](https://open.spotify.com/album/1HchmgP9OViO0fwt5IJGhw) | 3:25 | 2023-06-26 |  |
 | [Woo](https://open.spotify.com/track/0EpqkTQgogq6iHpeOwEoGh) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [Woo](https://open.spotify.com/album/3Zf6HFquFGMyFJrVCvp2bB) | 3:37 | 2023-08-24 |  |

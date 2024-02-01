@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 325763,
+  "num_followers": 326110,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmIxNGIzYjNiYzczNTRhMTdjMzNjMDU1OWYyZGFkZjEzN2IwMmM5",
+  "snapshot_id": "MCwyYmY1NmRlZTM3ZWI1YTQyYTc5YWFlZjljYWNiNjFhYmE5ZWFhMmMz",
   "tracks": [
     {
       "added_at": "2024-01-29 16:20:38",
@@ -435,6 +435,26 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
+        "name": "V.A.N",
+        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 274098,
+      "name": "V.A.N",
+      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
+    },
+    {
+      "added_at": "2024-01-29 16:20:38",
+      "album": {
         "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
         "url": "https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 189552,
       "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
       "url": "https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN"
-    },
-    {
-      "added_at": "2024-01-29 16:20:38",
-      "album": {
-        "name": "V.A.N",
-        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        },
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 274098,
-      "name": "V.A.N",
-      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
     },
     {
       "added_at": "2024-01-29 16:20:38",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
-        "name": "Doom (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp"
-      },
-      "artists": [
-        {
-          "name": "Mick Gordon",
-          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
-        }
-      ],
-      "duration_ms": 257734,
-      "name": "Rip & Tear",
-      "url": "https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P"
-    },
-    {
-      "added_at": "2024-01-29 16:20:38",
-      "album": {
         "name": "Wisconsin Death Trip",
         "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 154906,
       "name": "Push It",
       "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
+    },
+    {
+      "added_at": "2024-01-29 16:20:38",
+      "album": {
+        "name": "Doom (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp"
+      },
+      "artists": [
+        {
+          "name": "Mick Gordon",
+          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
+        }
+      ],
+      "duration_ms": 257734,
+      "name": "Rip & Tear",
+      "url": "https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P"
     },
     {
       "added_at": "2024-01-29 16:20:38",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
-        "name": "Repentless",
-        "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
-      },
-      "artists": [
-        {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Repentless",
-      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
-    },
-    {
-      "added_at": "2024-01-29 16:20:38",
-      "album": {
         "name": "Shaped by Fire",
         "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 202158,
       "name": "Blinded",
       "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
+    },
+    {
+      "added_at": "2024-01-29 16:20:38",
+      "album": {
+        "name": "Repentless",
+        "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Repentless",
+      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
     },
     {
       "added_at": "2024-01-29 16:20:38",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
-        "name": "Shaped by Fire",
-        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 253317,
-      "name": "My Own Grave",
-      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
-    },
-    {
-      "added_at": "2024-01-29 16:20:38",
-      "album": {
         "name": "Venom (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1YjxZhd158jSm2906JqzXF"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 254613,
       "name": "You Want a Battle? (Here's a War)",
       "url": "https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk"
+    },
+    {
+      "added_at": "2024-01-29 16:20:38",
+      "album": {
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 253317,
+      "name": "My Own Grave",
+      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
     },
     {
       "added_at": "2024-01-29 16:20:38",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
-        "name": "War Eternal",
-        "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 256053,
-      "name": "War Eternal",
-      "url": "https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq"
-    },
-    {
-      "added_at": "2024-01-29 16:20:38",
-      "album": {
         "name": "Upon Loss Singles",
         "url": "https://open.spotify.com/album/75ineHmMUJPWsM7H8gwKFZ"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 211573,
       "name": "Deep in the Willow",
       "url": "https://open.spotify.com/track/7KbfKTMX3wbQW5OJvIGRdg"
+    },
+    {
+      "added_at": "2024-01-29 16:20:38",
+      "album": {
+        "name": "War Eternal",
+        "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 256053,
+      "name": "War Eternal",
+      "url": "https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq"
     },
     {
       "added_at": "2024-01-29 16:20:38",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
-        "name": "Dance Devil Dance",
-        "url": "https://open.spotify.com/album/5GH4bz50nqlXUm4xyK4tC2"
-      },
-      "artists": [
-        {
-          "name": "Avatar",
-          "url": "https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs"
-        }
-      ],
-      "duration_ms": 244597,
-      "name": "The Dirt I'm Buried In",
-      "url": "https://open.spotify.com/track/4OjAxkNVwleUdCUS098eBw"
-    },
-    {
-      "added_at": "2024-01-29 16:20:38",
-      "album": {
         "name": "Berserker",
         "url": "https://open.spotify.com/album/499iZ0iesrciB5jO9jSOWx"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 304596,
       "name": "Blind And Frozen",
       "url": "https://open.spotify.com/track/7iOSeHfKU2EhSKcX7TbjKG"
+    },
+    {
+      "added_at": "2024-01-29 16:20:38",
+      "album": {
+        "name": "Dance Devil Dance",
+        "url": "https://open.spotify.com/album/5GH4bz50nqlXUm4xyK4tC2"
+      },
+      "artists": [
+        {
+          "name": "Avatar",
+          "url": "https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs"
+        }
+      ],
+      "duration_ms": 244597,
+      "name": "The Dirt I'm Buried In",
+      "url": "https://open.spotify.com/track/4OjAxkNVwleUdCUS098eBw"
     },
     {
       "added_at": "2024-01-29 16:20:38",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
+        "name": "Antimatter",
+        "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
+      },
+      "artists": [
+        {
+          "name": "Silent Planet",
+          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
+        }
+      ],
+      "duration_ms": 221340,
+      "name": "Antimatter",
+      "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
+    },
+    {
+      "added_at": "2024-01-29 16:20:38",
+      "album": {
         "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
         "url": "https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 246209,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/0kojHHbvGRsukpU78OBfQY"
-    },
-    {
-      "added_at": "2024-01-29 16:20:38",
-      "album": {
-        "name": "Antimatter",
-        "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
-      },
-      "artists": [
-        {
-          "name": "Silent Planet",
-          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
-        }
-      ],
-      "duration_ms": 221340,
-      "name": "Antimatter",
-      "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
     },
     {
       "added_at": "2024-01-29 16:20:38",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
+        "name": "Silence in the Snow (Special Edition)",
+        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 321161,
+      "name": "Until the World Goes Cold",
+      "url": "https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf"
+    },
+    {
+      "added_at": "2024-01-29 16:20:38",
+      "album": {
         "name": "Sunset on the Golden Age",
         "url": "https://open.spotify.com/album/72D0zzcevLTiS9XSEJ1hg7"
       },
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
-        "name": "Silence in the Snow (Special Edition)",
-        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
+        "name": "Sleepless Deathbed",
+        "url": "https://open.spotify.com/album/4NNQqKSzqvqqGBVMkh2yeJ"
       },
       "artists": [
         {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+          "name": "Invent Animate",
+          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
         }
       ],
-      "duration_ms": 321161,
-      "name": "Until the World Goes Cold",
-      "url": "https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf"
+      "duration_ms": 238000,
+      "name": "Sleepless Deathbed",
+      "url": "https://open.spotify.com/track/1ZAFLRxIurbkvn5xrs4soC"
     },
     {
       "added_at": "2024-01-29 16:20:38",
@@ -1559,22 +1575,6 @@
       "duration_ms": 223653,
       "name": "Letting You Go",
       "url": "https://open.spotify.com/track/4h7Sc2UWOxz07UmQ60kQNQ"
-    },
-    {
-      "added_at": "2024-01-29 16:20:38",
-      "album": {
-        "name": "Sleepless Deathbed",
-        "url": "https://open.spotify.com/album/4NNQqKSzqvqqGBVMkh2yeJ"
-      },
-      "artists": [
-        {
-          "name": "Invent Animate",
-          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Sleepless Deathbed",
-      "url": "https://open.spotify.com/track/1ZAFLRxIurbkvn5xrs4soC"
     },
     {
       "added_at": "2024-01-29 16:20:38",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
-        "name": "Servant Of The Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 253346,
-      "name": "Becoming",
-      "url": "https://open.spotify.com/track/0t7DV1EAMVC6y3LpW6IuLk"
-    },
-    {
-      "added_at": "2024-01-29 16:20:38",
-      "album": {
         "name": "Hardwired\u2026To Self-Destruct",
         "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 191331,
       "name": "Hardwired",
       "url": "https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF"
+    },
+    {
+      "added_at": "2024-01-29 16:20:38",
+      "album": {
+        "name": "Servant Of The Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 253346,
+      "name": "Becoming",
+      "url": "https://open.spotify.com/track/0t7DV1EAMVC6y3LpW6IuLk"
     }
   ],
   "unique_name": "Energy Booster: Metal",

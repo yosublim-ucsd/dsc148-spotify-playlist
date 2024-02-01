@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Dana Salah
 
-620 songs - 1 day 11 hr 44 min
+621 songs - 1 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [kawabes](https://open.spotify.com/track/1cJ8RNwEcWs2XgN9RNgHgg) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj), [S13](https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC), [uncl](https://open.spotify.com/artist/1MXxWX8lps82eJc3w1L7Q6) | [Kawabes](https://open.spotify.com/album/4vZdWRsfMefNuI1YPGsyEW) | 2:43 | 2023-09-28 | 2023-12-09 |
 | [Keda Wala Keda](https://open.spotify.com/track/5jpNJTb9XKt6WVxEQfKLYK) | [Jori Kattan](https://open.spotify.com/artist/3auQGROryTRCO2rgjeyGHD) | [Keda Wala Keda](https://open.spotify.com/album/3tr3MAqqpmGfYA69xfVIRb) | 2:39 | 2022-01-12 | 2023-02-20 |
 | [Keef Bensa](https://open.spotify.com/track/0uwOOnge02dhkX4kPl7Kkk) | [Nour Helou](https://open.spotify.com/artist/2XBpyKrz8Ys34tU7baEoxO) | [Keef Bensa](https://open.spotify.com/album/3hFV4MTmLw5Np8xwGLgqx4) | 2:58 | 2022-06-02 | 2023-05-13 |
-| [Kello Waham](https://open.spotify.com/track/1BswE7MEewdixfNF3Vm6dj) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Kello Waham](https://open.spotify.com/album/1Bo8bgAlOE14eEZHeY8RXL) | 3:22 | 2024-01-29 |  |
+| [Kello Waham](https://open.spotify.com/track/1BswE7MEewdixfNF3Vm6dj) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Kello Waham](https://open.spotify.com/album/1Bo8bgAlOE14eEZHeY8RXL) | 3:22 | 2024-01-29 | 2024-02-01 |
 | [Kelma Akhera](https://open.spotify.com/track/2A2NV6TRVGHV9Ggxb3Glmb) | [Laila Ahmed Zaher](https://open.spotify.com/artist/49HSYiVEi1YkIzR3jtiJxy) | [Kelma Akhera](https://open.spotify.com/album/1Pr1IhoF1383C9ZIbwO3Jb) | 5:12 | 2023-02-16 | 2024-01-30 |
 | [Khaleh Ala Halah](https://open.spotify.com/track/6o0aWKaBbVDPhcvsO4tgg6) | [Waham](https://open.spotify.com/artist/6xXZ8rexkcFBhqiQriNwc2) | [Khaleh Ala Halah](https://open.spotify.com/album/3eS0m5NofSBF8k9FcFiGZE) | 3:23 | 2021-12-23 | 2022-03-02 |
 | [Khalleena](https://open.spotify.com/track/5c1fYVYWBs0vEdEnzcRikY) | [Rula Zaki](https://open.spotify.com/artist/1f5tpK7TPfwv7DoqhDu6bX) | [Khalleena](https://open.spotify.com/album/0gE4qgQVgcofnNP2JQmLPf) | 4:14 | 2021-12-23 | 2022-03-02 |
@@ -587,6 +587,7 @@
 | [قيود](https://open.spotify.com/track/3jaY0nkYO9qFBjA4XNEZtI) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [قيود](https://open.spotify.com/album/3ipg4bP7o5IWZP44gtWX0W) | 2:56 | 2022-03-01 | 2022-08-29 |
 | [كانت بتسهر](https://open.spotify.com/track/6i2yw9dhF9GPevIJxD3ewR) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [كانت بتسهر](https://open.spotify.com/album/33Rdd2BXryUUBUrrcAcJMY) | 3:30 | 2022-03-11 | 2023-03-13 |
 | [كل شيء](https://open.spotify.com/track/73B6xswAy0QNy2XpsZvnqP) | [Cheen](https://open.spotify.com/artist/29Es5aQwN2V7y4kn4GZrIp), [La Machine à Mixer](https://open.spotify.com/artist/4Kb5gZjkvWvWfwAFhYoaZf) | [كل شيء](https://open.spotify.com/album/1rJKJgls6GoCHnE2IGpdPb) | 3:29 | 2021-12-23 | 2022-02-26 |
+| [كلو وهم](https://open.spotify.com/track/3XSlbOYVONZWgHUYsyv1kn) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [كلو وهم](https://open.spotify.com/album/0zVuys4kG4cSCH5TXPuv5H) | 3:22 | 2024-01-29 |  |
 | [لا لا يالخيزرانه](https://open.spotify.com/track/4ZBUuvMtpGqiqF18lqeeIB) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [لا لا يالخيزرانه](https://open.spotify.com/album/5kfATHTrJ77l3NVCQPqK8q) | 3:36 | 2023-02-28 | 2023-05-14 |
 | [لبعيد](https://open.spotify.com/track/7cdQhv0e9U3fbTDI9BnEQr) | [Shorouk Elzoghbi](https://open.spotify.com/artist/0AXjHmRRafr9T8nhnwQimT) | [لبعيد](https://open.spotify.com/album/3O1waFE3PifaE9D0385wFY) | 3:39 | 2023-08-01 | 2023-08-11 |
 | [لسه شوفتوا حاجه](https://open.spotify.com/track/0V6UZDdkqatuBp96nyyUew) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [لسه شوفتوا حاجه](https://open.spotify.com/album/03XpqW1KW0zGsVovuosHNk) | 3:35 | 2024-01-10 | 2024-01-23 |

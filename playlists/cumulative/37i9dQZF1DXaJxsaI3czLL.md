@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-414 songs - 1 day 5 hr 13 min
+415 songs - 1 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [MY夢中](https://open.spotify.com/track/02EC8p59zsfwJmyHzXXDGw) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [MY夢中](https://open.spotify.com/album/4aDn3y7PU3lAMdGE9C62Ka) | 4:09 | 2023-11-16 | 2023-11-18 |
 | [Natsu no Yoru ni Hibiku Melody](https://open.spotify.com/track/32JDuLlXMmWWXLFiHaiK2G) | [Sou Yamasaki](https://open.spotify.com/artist/0ZVL58XQLY5kUCSKRIVhOs) | [Natsu no Yoru ni Hibiku Melody](https://open.spotify.com/album/48E8ijxYmqGN5S5pQcIiIx) | 5:19 | 2023-06-27 | 2023-07-19 |
 | [Natsumoyo no Neko](https://open.spotify.com/track/2jtPfFJBSkpMPKeLOyalbp) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Hello EP](https://open.spotify.com/album/5rvHzkXSu2JBL1wT6nem2h) | 2:12 | 2023-05-30 | 2023-09-06 |
+| [Nausicaä of the Valley of the Wind \- 2024 ver.](https://open.spotify.com/track/3OwTCA0MIrO6EvQJOUar32) | [Narumi Yasuda](https://open.spotify.com/artist/38fnw8iZ8LYt1Es6gIId0I) | [Nausicaä of the Valley of the Wind \(2024 ver.\)](https://open.spotify.com/album/4mDDWOT4vrlUJ9ZE8hopTf) | 5:25 | 2024-01-30 |  |
 | [NAVY](https://open.spotify.com/track/5JAgoN0ZK8uIZXtFj1pxrR) | [上野大樹](https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF) | [NAVY](https://open.spotify.com/album/0lHJa75DcFWZSb0UAdRrDc) | 2:24 | 2023-01-14 | 2023-03-23 |
 | [NEVER FALL IN LOVE AGAIN](https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 3:53 | 2022-10-20 |  |
 | [Neverland](https://open.spotify.com/track/1BxnL3aEItRwwdclyksOpQ) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [Neverland](https://open.spotify.com/album/0yJdJurfPk87zYjirjJvRx) | 3:10 | 2023-02-22 | 2023-04-06 |
@@ -421,6 +422,6 @@
 | [雪解](https://open.spotify.com/track/6wYQ2o2ayXPpwHmhUiz5p9) | [湊大瀬](https://open.spotify.com/artist/0gbV5LrMApRAILxgr3gfFB), [カリスマ](https://open.spotify.com/artist/68k1h6racwqpRSnc29J4RM) | [雪解](https://open.spotify.com/album/3lTSCj370LfP4sca6gOCr5) | 4:10 | 2023-12-12 |  |
 | [青月浮く海](https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [This is music too](https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z) | 4:24 | 2022-10-20 |  |
 | [頬杖](https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [頬杖](https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X) | 3:40 | 2023-04-06 | 2023-04-09 |
-| [風の谷のナウシカ \- 2024 ver.](https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [風の谷のナウシカ \(2024 ver.\)](https://open.spotify.com/album/5V2JKwezZvZsyfLjmMlKjH) | 5:25 | 2024-01-30 |  |
+| [風の谷のナウシカ \- 2024 ver.](https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [風の谷のナウシカ \(2024 ver.\)](https://open.spotify.com/album/5V2JKwezZvZsyfLjmMlKjH) | 5:25 | 2024-01-30 | 2024-02-01 |
 
 \*This playlist was first scraped on 2022-10-24. Prior content cannot be recovered.

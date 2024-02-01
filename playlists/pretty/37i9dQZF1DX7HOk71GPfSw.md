@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > glaivepilled
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,314 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,357 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 6 | [Rave Angel](https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Rave Angel](https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3) | 3:19 |
 | 7 | [Conspiracy](https://open.spotify.com/track/50Sj6rnSai38ca3ZKLHvPL) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Conspiracy](https://open.spotify.com/album/2M0pUtW7UgbfsWnzxAsBIJ) | 2:54 |
 | 8 | [FIRESTARTER](https://open.spotify.com/track/0oya2EOVDxNkHldoTwoaL6) | [CONNIE](https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe), [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P) | [FIRESTARTER](https://open.spotify.com/album/2YP0iMxce0NzYuF5VcFJx6) | 4:26 |
-| 9 | [hi nice to meet ya](https://open.spotify.com/track/2281dtl2dD4FYjnOf13dwc) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34), [Xhulooo](https://open.spotify.com/artist/7Lg7lDO4P5HMTJljr0MV83) | [hi nice to meet ya](https://open.spotify.com/album/6bPN3UG1Ey3LXPyh8Tj3Fi) | 2:20 |
+| 9 | [hi nice to meet ya](https://open.spotify.com/track/2281dtl2dD4FYjnOf13dwc) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34), [Iankon](https://open.spotify.com/artist/2mpu6oG30YDtaWYiCjStuZ), [Xhulooo](https://open.spotify.com/artist/7Lg7lDO4P5HMTJljr0MV83) | [hi nice to meet ya](https://open.spotify.com/album/6bPN3UG1Ey3LXPyh8Tj3Fi) | 2:20 |
 | 10 | [Silver](https://open.spotify.com/track/7jckam3u2rKAPqwscTcBY1) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [7G](https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB) | 2:02 |
 | 11 | [bad things](https://open.spotify.com/track/4ZHGSEQltvWiEbFFBIL6hE) | [Mitaya](https://open.spotify.com/artist/04payxLjRndgbmR2lv97S1), [C2d](https://open.spotify.com/artist/2KewEocognk3bL1lQZe45G) | [bad things](https://open.spotify.com/album/6p3ongjYRe3PY7oBoPmi3b) | 2:58 |
 | 12 | [Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Icedancer](https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse) | 2:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [welcome to the plant cell bath](https://open.spotify.com/track/0ZcfKkYG7QcXouXpPNhiDo) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [welcome to the plant cell bath](https://open.spotify.com/album/6e5AMsxeDPv4obos0QpjmT) | 3:00 |
 | 100 | [Perfumed and Glossy](https://open.spotify.com/track/38gu8ZYmqaTP2fJrae4Nax) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Perfumed and Glossy](https://open.spotify.com/album/6HBZrBAM5Gg2tVDPxpj0Q1) | 2:40 |
 
-Snapshot ID: `MCwxZWE1MzVkZDEwYmFiNTA2YWI0ZDQ5ZjdjOGVjMDUwNzU4ZDQ3OThi`
+Snapshot ID: `MCwyZGRlYWY5NTZhMjdiMDIwYjNlOWFhYmExYzRhMTQwYjhhOWRkNDVk`

@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 30731,
+  "2024-02-01": 30731,
   "date_first_scraped": "2023-02-25",
   "description": "FEEL GOOD ALERT \ud83c\udf3c\ud83c\udf3b Beetje indie, beetje alternative en alles wat nog meer goed voelt.",
   "name": "EXTASE",
@@ -331,7 +331,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 167312,
       "name": "Beautiful People (Stay High)",
       "url": "https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh"
@@ -1825,6 +1825,24 @@
       "duration_ms": 186066,
       "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
       "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
+    },
+    {
+      "album": {
+        "name": "Move Like This",
+        "url": "https://open.spotify.com/album/4vzfbvmvHbKWMWdfzPpWoq"
+      },
+      "artists": [
+        {
+          "name": "Gold Fang",
+          "url": "https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186285,
+      "name": "Move Like This",
+      "url": "https://open.spotify.com/track/6KVB05dmCaZcrPyKwyvA8P"
     },
     {
       "album": {

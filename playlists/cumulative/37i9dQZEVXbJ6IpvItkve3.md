@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-886 songs - 2 day 1 hr 50 min
+887 songs - 2 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -815,6 +815,7 @@
 | [פרי גנך](https://open.spotify.com/track/5NtnjAmjgrQnpaIDBLtVZ8) | [Aviva Avidan](https://open.spotify.com/artist/02lzslgWuwHAt9319f49Tc) | [יהיה בסדר](https://open.spotify.com/album/1uaPbHeFNFNSlKjzz4UL9Q) | 5:22 | 2022-05-05 | 2023-04-28 |
 | [פרימיטיבי](https://open.spotify.com/track/3yrRbZeS9ZKLRi2QDRXyrc) | [Inbal Bibi](https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc) | [פרימיטיבי](https://open.spotify.com/album/6OLfMd1jTe6EbfWoknNPzt) | 3:25 | 2022-08-03 | 2022-08-21 |
 | [פרצופים](https://open.spotify.com/track/09PZuKctf7D3RAdaegN7zu) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [פרצופים](https://open.spotify.com/album/4AQtxbh9BLct9Al6PotQlw) | 2:46 | 2021-04-24 | 2021-10-12 |
+| [צוחקת ובוכה](https://open.spotify.com/track/2fewVF6oOGKux69rHGbPMq) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [צוחקת ובוכה](https://open.spotify.com/album/7qXbCrX1yBx5FvlchNFCGx) | 3:56 | 2024-01-31 |  |
 | [צונאמי](https://open.spotify.com/track/7i6VueVUsYdjpEp3aMUgnw) | [hamza7](https://open.spotify.com/artist/7541kRGbFjmVsqPV4CMVzp), [h$lil](https://open.spotify.com/artist/1CFViPIECHw3a7XOvcAB5H) | [צונאמי](https://open.spotify.com/album/7GmEmj5wDbqUD7k1XjSi7A) | 2:47 | 2023-12-10 | 2023-12-17 |
 | [צונאמי](https://open.spotify.com/track/6W6ssWo1mqA9bLTo47Alsz) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr), [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [אין עולם](https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc) | 2:47 | 2023-06-02 | 2024-01-14 |
 | [צליל מכוון](https://open.spotify.com/track/1T7TSRc6saBgcJmoalNVAu) | [Itzhak Klepter](https://open.spotify.com/artist/5RgilsTbpogtECkhDgcOZh) | [צליל מכוון](https://open.spotify.com/album/7Cv88GLXI7C2VM5nvh4LtN) | 4:14 | 2022-12-10 | 2022-12-12 |
@@ -830,7 +831,7 @@
 | [קוקוריקו \(אל תדליקו אותי\)](https://open.spotify.com/track/4NBMvQX5yM05Mgznqw0zXR) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 3:32 | 2021-09-26 | 2021-11-10 |
 | [קקטוס](https://open.spotify.com/track/2wat3H3CqHWxEU2oKZUnaM) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) | [קקטוס](https://open.spotify.com/album/4YlNTVvcJXztwR2ZWCpCg9) | 2:32 | 2021-03-27\* | 2021-04-03 |
 | [קריוקי](https://open.spotify.com/track/6xhxulJ4BXNlnDmw3KpDP0) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 4:00 | 2021-12-18 | 2022-01-01 |
-| [קרן שמש](https://open.spotify.com/track/3zhFqDzJZfnc8L5QkGWWG6) | [Benaia Barabi](https://open.spotify.com/artist/0WjQnf1rQ0tY84gGgjrQQ9) | [קרן שמש](https://open.spotify.com/album/78H1vv98dzzXHPeMeDV5J3) | 3:47 | 2022-08-10 |  |
+| [קרן שמש](https://open.spotify.com/track/3zhFqDzJZfnc8L5QkGWWG6) | [Benaia Barabi](https://open.spotify.com/artist/0WjQnf1rQ0tY84gGgjrQQ9) | [קרן שמש](https://open.spotify.com/album/78H1vv98dzzXHPeMeDV5J3) | 3:47 | 2022-08-10 | 2024-02-01 |
 | [קרן שמש](https://open.spotify.com/track/7qbXsnOZagWxv6QQzMKdDN) | [Benaia Barabi](https://open.spotify.com/artist/0WjQnf1rQ0tY84gGgjrQQ9) | [קרן שמש](https://open.spotify.com/album/3zDRtCOpwik5Z4yLfg2XoZ) | 3:47 | 2022-08-03 | 2022-08-11 |
 | [ראשון בבוקר](https://open.spotify.com/track/3xtK7rFrJvL5hrBu4vFgf7) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo), [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt), [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [ראשון בבוקר](https://open.spotify.com/album/4yXN6hkRfpYm4AshupuLn4) | 2:49 | 2022-12-12 | 2023-02-15 |
 | [רובינזון קרוזו](https://open.spotify.com/track/7GzjoBxxDIiBx6JFFHY9x5) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g), [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [שבעה ירחים](https://open.spotify.com/album/0dT7h6FQ94qYgUqgaC2eQY) | 2:28 | 2021-07-10 | 2021-09-01 |

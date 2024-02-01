@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-324 songs - 1 day 0 hr 14 min
+325 songs - 1 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [The Man That Got Away](https://open.spotify.com/track/0cweXV4g3behXK3wXGgk37) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Come What May](https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ) | 5:29 | 2021-12-17 |  |
 | [The Moon and the Sky](https://open.spotify.com/track/3QDJUXE2dOArmBxRs5fOxf) | [Marína Ósk](https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8) | [The Moon and the Sky](https://open.spotify.com/album/0wkPvLKjh3RW3UGCVkvpYk) | 3:22 | 2023-06-01 |  |
 | [The Nearness of You](https://open.spotify.com/track/1XF80YjwjuzuIfLzIfbqkt) | [Camille Harris](https://open.spotify.com/artist/245uCozaIRf8nxTWhQ09rL), [David Linard](https://open.spotify.com/artist/3dcJT8sUQjH1UPor3vDh6l) | [The Nearness of You](https://open.spotify.com/album/1m52IEUS08ohNLcVyxdyqu) | 5:03 | 2022-02-18 | 2023-09-14 |
+| [The Nearness of You](https://open.spotify.com/track/2XTmKUTBP5L8YhHbGM7vw3) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Isn't It Romantic?](https://open.spotify.com/album/7lgznc93SEj6gYWbO9MOmi) | 5:33 | 2024-01-19 |  |
 | [The Nearness of You](https://open.spotify.com/track/3jriW0LRM69w3dW7TK3TtS) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Isn't It Romantic?](https://open.spotify.com/album/3pizrquomee0WmQEuksn08) | 5:33 | 2022-09-27 | 2023-12-24 |
 | [The Nearness Of You](https://open.spotify.com/track/03gk2zRwm8uUZDbyZJtPgh) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:07 | 2021-12-17 | 2022-07-29 |
 | [The Nearness Of You](https://open.spotify.com/track/3HuLpW8NmFFO5GKY8andY2) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:07 | 2022-07-28 | 2022-09-15 |
@@ -320,7 +321,7 @@
 | [Where Are You?](https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:10 | 2023-09-15 |  |
 | [Where or When](https://open.spotify.com/track/1rHik9ppPQRXSSu1oUr4bR) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 3:50 | 2022-09-27 |  |
 | [While My Lady Sleeps \(take 10\) \- Alternate Take](https://open.spotify.com/track/2ISbOB1Xu6F3YlyP5n6J9d) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 4:22 | 2021-12-17 |  |
-| [Will I Find](https://open.spotify.com/track/34Qfsdz0oLWpI0E9Z64Ps1) | [Carmen Quill](https://open.spotify.com/artist/2dScqoyglnFy1sPO8L0fCF) | [Don't Get Comfy / Nowhere](https://open.spotify.com/album/6OY9cmz2EmT35b9LwkdJ4S) | 4:10 | 2021-12-17 |  |
+| [Will I Find](https://open.spotify.com/track/34Qfsdz0oLWpI0E9Z64Ps1) | [Carmen Quill](https://open.spotify.com/artist/2dScqoyglnFy1sPO8L0fCF) | [Don't Get Comfy / Nowhere](https://open.spotify.com/album/6OY9cmz2EmT35b9LwkdJ4S) | 4:10 | 2021-12-17 | 2024-02-01 |
 | [Willow Weep For Me](https://open.spotify.com/track/4gzBrWc5wahvkagtUfQnCE) | [Lizzie Thomas](https://open.spotify.com/artist/7qj1hYL7SUX4oMFV31OJNA), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP) | [Willow Weep For Me](https://open.spotify.com/album/4aHsGp7HdVDoG0efsFgP7q) | 5:05 | 2023-05-30 | 2024-01-07 |
 | [With You](https://open.spotify.com/track/1dfNHO9qYZWCHJTg3MHRfD) | [Rebekka Blöndal](https://open.spotify.com/artist/1xdFWOYUpVYbPU1s3VRs5I), [Asgeir Asgeirsson](https://open.spotify.com/artist/6GBsjZ8qGJpZuuVlsurdku), [Sigmar Matthiasson](https://open.spotify.com/artist/7KTpau3S6cd2QmC4s3UtdO), [Matthias Hemstock](https://open.spotify.com/artist/4gkcifXmpsFYaKUGedJBuv) | [Ljóð](https://open.spotify.com/album/73DjaiUmsULgS6pnWX5Bh0) | 4:31 | 2023-05-09 |  |
 | [With You](https://open.spotify.com/track/2ZKc7hQb9ZmC1N44viyo1J) | [Rebekka Blöndal](https://open.spotify.com/artist/1xdFWOYUpVYbPU1s3VRs5I), [Sigmar Matthiasson](https://open.spotify.com/artist/7KTpau3S6cd2QmC4s3UtdO), [Asgeir Asgeirsson](https://open.spotify.com/artist/6GBsjZ8qGJpZuuVlsurdku), [Matthias Hemstock](https://open.spotify.com/artist/4gkcifXmpsFYaKUGedJBuv) | [With You](https://open.spotify.com/album/7JD5AJgOju0DTV3F1hrSjd) | 4:30 | 2022-02-18 | 2023-04-27 |

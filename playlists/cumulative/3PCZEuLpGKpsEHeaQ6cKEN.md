@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and more! \| Updated weekly on Friday Cover: ARTY
 
-910 songs - 2 day 0 hr 40 min
+911 songs - 2 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Good Life \- Remastered](https://open.spotify.com/track/00wt3lu6MmnEoCsMOCIUpP) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [The Best Of Inner City](https://open.spotify.com/album/1MhjZLn5ZKLok20AJq0YAB) | 3:16 | 2023-12-15 |  |
 | [Good4U](https://open.spotify.com/track/5ieRbdUGx3R1LX7MSbyFK8) | [Deeperlove](https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm), [LEØN](https://open.spotify.com/artist/6WZbz166GpLmnIRWrQxGYB), [SYNGA](https://open.spotify.com/artist/1ceK58kt6VUiqWfYwQ15aU) | [Good4U](https://open.spotify.com/album/0yly88bOai4MF3kmFTkrdx) | 2:42 | 2023-05-05 | 2023-09-01 |
 | [Got a Friend](https://open.spotify.com/track/0fdpoQFH8s3viiqy42p1f5) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Guillaume Gordon](https://open.spotify.com/artist/3TfKErb0eKYPcZbuA32oPj) | [Currents](https://open.spotify.com/album/2rfaWwbzTb380DNEpLWQRy) | 2:42 | 2023-09-21 |  |
+| [Gotta Be Over](https://open.spotify.com/track/6DgMcNpKVROwwBNfibG4NS) | [Merlin](https://open.spotify.com/artist/2MaEWDHjb1owUg3SGhS1vp) | [Gotta Be Over](https://open.spotify.com/album/3s58AhtnMqt3UrUUb9uEZC) | 3:05 | 2024-01-31 |  |
 | [Gravity](https://open.spotify.com/track/2jizN8ZAjiV4IBjn6z42r7) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB) | [Gravity](https://open.spotify.com/album/0wVpaYo5BOsTdWRJMal5gR) | 3:20 | 2023-01-05 | 2023-02-24 |
 | [Gravity \- Adam Sellouk Remix](https://open.spotify.com/track/1fAEgL0FxWfNqxVZRHsm20) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB), [Ayla](https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Gravity \(Adam Sellouk Remix\)](https://open.spotify.com/album/1bC33zJHkHTeifvIWwBS5m) | 3:14 | 2023-06-15 | 2023-08-01 |
 | [Gravity \- Adam Sellouk Remix](https://open.spotify.com/track/49dR7eiWxTuOsoLNOvW4Xs) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB), [Ayla](https://open.spotify.com/artist/37Cx3aSscKs8FbUoGuFPaa), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Ibiza 2023 \- Armada Music](https://open.spotify.com/album/08t2nRgDFFGc8qZq3NntAg) | 3:14 | 2023-07-31 | 2023-12-14 |

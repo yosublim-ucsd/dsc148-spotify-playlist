@@ -4,7 +4,7 @@
 
 > La playlist au\-delà des genres\. Photo : KAYTRANADA
 
-62 songs - 3 hr 46 min
+63 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Holier \- JD\. REID Remix feat\. Shygirl](https://open.spotify.com/track/3SAGwjKKitPBNpgdi80ScD) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Holier \(JD\. REID Remix feat\. Shygirl\)](https://open.spotify.com/album/42At6bfdhnCcDuX2d3zhxh) | 3:35 | 2024-01-26 |  |
 | [Honey Be](https://open.spotify.com/track/37JkdQKpoNj9zA13MhfTZT) | [Micah Jey](https://open.spotify.com/artist/59PdCvofSytil6D084I4Bw) | [Honey Be](https://open.spotify.com/album/36wFtXuS8kLlysKaAlteSg) | 3:26 | 2023-12-07 |  |
 | [I Don't Care](https://open.spotify.com/track/0PxkzyyPCZq0OLQzdkVjun) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18) | [I Don't Care](https://open.spotify.com/album/0rP986AfVgDq1KDRHoSnXK) | 3:09 | 2023-12-07 | 2024-01-27 |
-| [Jamais Vu Le Jour](https://open.spotify.com/track/47rWS9nS6QNjBtjsjfEoyV) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18) | [Jamais Vu Le Jour](https://open.spotify.com/album/2yE9so7yFDcCAWG7vuMVxM) | 3:03 | 2024-01-26 |  |
+| [Jamais Vu Le Jour](https://open.spotify.com/track/0mfnpM7sfNqmmPlHUC0RAg) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18) | [Way Back Home](https://open.spotify.com/album/5AKKlCP3dxZP9AAZTiE1R2) | 3:03 | 2024-01-26 |  |
+| [Jamais Vu Le Jour](https://open.spotify.com/track/47rWS9nS6QNjBtjsjfEoyV) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18) | [Jamais Vu Le Jour](https://open.spotify.com/album/2yE9so7yFDcCAWG7vuMVxM) | 3:03 | 2024-01-26 | 2024-02-01 |
 | [KASSESSA](https://open.spotify.com/track/4RBwf8OYCEpQZBBd2UzDDS) | [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [KASSESSA](https://open.spotify.com/album/57NpDY78jxfdTb3vUdy8rW) | 4:45 | 2023-12-07 |  |
 | [Lego Ring](https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lego Ring](https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz) | 2:43 | 2024-01-12 |  |
 | [Losing it](https://open.spotify.com/track/6gOJzpZxbYtp5tt5OrlRrJ) | [Clement Bazin](https://open.spotify.com/artist/5CM5PpBzdFwgJmlafK2AEy), [TŌNI](https://open.spotify.com/artist/51mhkfeJi7daEcKbNmKhHM) | [Losing it](https://open.spotify.com/album/3K0hH2KSnhugNfQv7n7uC1) | 3:28 | 2023-12-07 | 2023-12-23 |

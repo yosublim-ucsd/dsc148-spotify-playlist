@@ -4,7 +4,7 @@
 
 > Get your gaming session going with this rap mix.
 
-407 songs - 22 hr 21 min
+408 songs - 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 | 2022-04-08 | 2022-10-29 |
 | [Look Alive \(feat\. Drake\)](https://open.spotify.com/track/4qKcDkK6siZ7Jp1Jb4m0aL) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Look Alive \(feat\. Drake\)](https://open.spotify.com/album/7GGoJfKFOwDNuiLjjfzyCS) | 3:01 | 2022-10-28 | 2023-01-01 |
 | [Look Alive \(feat\. Drake\)](https://open.spotify.com/track/6HJ34Zyw6bg8yGm28AxLXf) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Simi](https://open.spotify.com/album/6NrsgXTJ3x2RRR8b0v2M7S) | 3:01 | 2022-10-28 | 2024-01-12 |
-| [Lord Pretty Flacko Jodye 2 \(LPFJ2\)](https://open.spotify.com/track/1j6kDJttn6wbVyMaM42Nxm) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 2:06 | 2022-10-28 |  |
+| [Lord Pretty Flacko Jodye 2 \(LPFJ2\)](https://open.spotify.com/track/1j6kDJttn6wbVyMaM42Nxm) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 2:06 | 2022-10-28 | 2024-02-01 |
 | [LOT OF ME](https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:03 | 2024-01-11 |  |
 | [Love Scars](https://open.spotify.com/track/0AICBlLzFCTpUqmAbtzB2z) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You](https://open.spotify.com/album/7ae73nWyKrrH9wwGm97RIA) | 2:23 | 2022-10-28 | 2023-10-25 |
 | [Love Scars](https://open.spotify.com/track/4w552MI4k7dwPHLjI8YOBy) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You](https://open.spotify.com/album/4bJCgEvJNMhIxmufeJlFB9) | 2:23 | 2022-10-28 | 2024-01-12 |
@@ -374,6 +374,7 @@
 | [Trap Queen](https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 3:42 | 2022-03-25 | 2022-10-29 |
 | [Trophies](https://open.spotify.com/track/1nFgXsg2CUbyK0BJX9cmfj) | [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Rise Of An Empire \(Deluxe Edition\)](https://open.spotify.com/album/7DkzymHZTu4YgXRexqzuGe) | 3:08 | 2021-12-15 | 2022-07-18 |
 | [Trophies](https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk) | [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Rise Of An Empire \(Deluxe Edition\)](https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF) | 3:08 | 2022-04-29 | 2022-10-29 |
+| [Tunnel Vision](https://open.spotify.com/track/4Q3N4Ct4zCuIHuZ65E3BD4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 4:28 | 2024-01-11 |  |
 | [Turks \(feat\. Travis Scott\)](https://open.spotify.com/track/0lSZh5W0wDeurkGzLYY6hf) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Turks](https://open.spotify.com/album/2nfOFXxNyf61geA17cW6e6) | 2:41 | 2021-09-03 | 2022-07-29 |
 | [Tyler Herro](https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tyler Herro](https://open.spotify.com/album/4Vd7lpztpJdmMt9hrLfXWe) | 2:36 | 2021-09-03 | 2022-10-29 |
 | [Unbothered](https://open.spotify.com/track/5hwUsRKvnO5yThjVrxHQVt) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:18 | 2024-01-11 |  |

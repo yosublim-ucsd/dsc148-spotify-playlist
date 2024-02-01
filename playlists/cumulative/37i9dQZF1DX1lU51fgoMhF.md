@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-319 songs - 17 hr 35 min
+320 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Patbingsu](https://open.spotify.com/track/3B6t6zKMa959qbWvLUWxxl) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0), [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [track by YOON: Patbingsu](https://open.spotify.com/album/6c6wbjLgOX3crURuTPfaL8) | 3:29 | 2022-07-27 | 2023-07-14 |
 | [Permission to Dance](https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:07 | 2023-07-20 |  |
 | [PLAY](https://open.spotify.com/track/1SdLedoEjrMRu5AnvK2EYk) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [PLAY](https://open.spotify.com/album/7tzaUrzvzQGfqvzsYzSODr) | 3:19 | 2021-11-17 | 2022-07-29 |
+| [PLAY \(feat\. Changmo\)](https://open.spotify.com/track/4gJLkQRcGRJRoHJAavP9iN) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 3:19 | 2023-09-14 |  |
 | [PLAY \(feat\. Changmo\)](https://open.spotify.com/track/6UM5HKVVm1cjOQhUJB4Ft3) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:19 | 2022-07-27 | 2024-01-24 |
 | [PLAY DUMB](https://open.spotify.com/track/3GJSLbB36rXHI2WmXxW91m) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [Story Written in Music](https://open.spotify.com/album/6ZpvLJfgF2S4NlUbrh0TIo) | 3:25 | 2022-06-18 | 2022-07-26 |
 | [PLAYING WITH FIRE](https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) | 3:17 | 2022-07-27 |  |
@@ -317,7 +318,7 @@
 | [Whistle](https://open.spotify.com/track/7iKbV28gTF43LAeovwznXT) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 3:43 | 2022-06-08 | 2022-08-13 |
 | [Who Am I](https://open.spotify.com/track/05FIKEv2c1TiKGzx6uK37S) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [MOMENT](https://open.spotify.com/album/5Lfy8FTaRJzo7vMgnwyuOD) | 3:26 | 2021-11-17 | 2022-07-23 |
 | [Why](https://open.spotify.com/track/4eiPbjcTEJDQcsv7WV0vfD) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Why \- The 2nd Mini Album](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) | 3:27 | 2021-11-17 |  |
-| [Why Don’t You Know](https://open.spotify.com/track/3L6OalQDbdCS0Tg1kFccYn) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Hands on Me](https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83) | 3:18 | 2021-11-17 |  |
+| [Why Don’t You Know](https://open.spotify.com/track/3L6OalQDbdCS0Tg1kFccYn) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Hands on Me](https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83) | 3:18 | 2021-11-17 | 2024-02-01 |
 | [Why Don’t You Know](https://open.spotify.com/track/7BiaLnXa10sBpBEcFfm4PP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Hands on Me](https://open.spotify.com/album/6RK3Y2SOZef8WWvopYB6Dn) | 3:18 | 2021-11-17 | 2022-07-21 |
 | [Wind And Wish](https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [WIND AND WISH](https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs) | 3:41 | 2023-05-16 |  |
 | [Wish](https://open.spotify.com/track/3yVpizetPa3ufcGFvbUi2L) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:16 | 2022-04-04 | 2022-04-20 |

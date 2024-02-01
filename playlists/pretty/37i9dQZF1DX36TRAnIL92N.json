@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 277504,
+  "num_followers": 278090,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjBiZTA5MDdmOWFkYzhhZDU3Yjk5M2FmYzRmYjllZWQxMDJiNGM0",
+  "snapshot_id": "MCxiNjczYzI4M2Y5MmNkY2IyMDFiMDNiOGRkMTZhMWI2NDdlM2QyODJk",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -263,38 +263,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "We Control",
-        "url": "https://open.spotify.com/album/60rhOCClApo0duvJbe2A18"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 206625,
-      "name": "We Control",
-      "url": "https://open.spotify.com/track/1dzvje2q7KX8k1U9eOT6Pv"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/2kORg46W2CuossZxEm5qOO"
-      },
-      "artists": [
-        {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
-        }
-      ],
-      "duration_ms": 203738,
-      "name": "Intuition",
-      "url": "https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/5PrEi7aLxDosgWfIa3eegg"
       },
@@ -315,6 +283,38 @@
       "duration_ms": 225346,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/3NWMxXgzWvtO3j8o9eFkOi"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/2kORg46W2CuossZxEm5qOO"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "duration_ms": 203738,
+      "name": "Intuition",
+      "url": "https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "We Control",
+        "url": "https://open.spotify.com/album/60rhOCClApo0duvJbe2A18"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 206625,
+      "name": "We Control",
+      "url": "https://open.spotify.com/track/1dzvje2q7KX8k1U9eOT6Pv"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -483,18 +483,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3CBJ2fnrJfyp5UnrIt6Wvw"
+        "name": "When I Push (Edit)",
+        "url": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy"
       },
       "artists": [
         {
           "name": "Eli Brown",
           "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
         }
       ],
-      "duration_ms": 408669,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/1STyRAWBlr18jm9aRBVrqE"
+      "duration_ms": 213582,
+      "name": "When I Push - Edit",
+      "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -575,50 +583,38 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "WANNA GO BANG",
-        "url": "https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG"
+        "name": "Choir Of Spirits",
+        "url": "https://open.spotify.com/album/2lC45D73TicbOMEI1a8Fk7"
       },
       "artists": [
         {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
         },
         {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "DJ Deeon",
-          "url": "https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH"
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
         }
       ],
-      "duration_ms": 237157,
-      "name": "WANNA GO BANG",
-      "url": "https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs"
+      "duration_ms": 405439,
+      "name": "Choir Of Spirits",
+      "url": "https://open.spotify.com/track/6BqmhyqTFbAXD5M8WnqhIM"
     },
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "When I Push (Edit)",
-        "url": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3CBJ2fnrJfyp5UnrIt6Wvw"
       },
       "artists": [
         {
           "name": "Eli Brown",
           "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "OFFAIAH",
-          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
         }
       ],
-      "duration_ms": 213582,
-      "name": "When I Push - Edit",
-      "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
+      "duration_ms": 408669,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/1STyRAWBlr18jm9aRBVrqE"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -643,22 +639,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Choir Of Spirits",
-        "url": "https://open.spotify.com/album/2lC45D73TicbOMEI1a8Fk7"
+        "name": "WANNA GO BANG",
+        "url": "https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG"
       },
       "artists": [
         {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
         },
         {
-          "name": "Joyhauser",
-          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "DJ Deeon",
+          "url": "https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH"
         }
       ],
-      "duration_ms": 405439,
-      "name": "Choir Of Spirits",
-      "url": "https://open.spotify.com/track/6BqmhyqTFbAXD5M8WnqhIM"
+      "duration_ms": 237157,
+      "name": "WANNA GO BANG",
+      "url": "https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs"
     },
     {
       "added_at": "2024-01-26 05:00:00",

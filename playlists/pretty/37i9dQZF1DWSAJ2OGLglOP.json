@@ -1,12 +1,12 @@
 {
   "description": "\u30c9\u30e9\u30a4\u30d6\u7528\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u6e0b\u6ede\u3082\u6c17\u306b\u305b\u305a\u3001\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u697d\u66f2\u3092\u6bce\u9031\u30bb\u30ec\u30af\u30c8\uff01",
-  "num_followers": 98291,
+  "num_followers": 98303,
   "original_name": "Drive Loud!: \u30c9\u30e9\u30a4\u30d6\u30fb\u30e9\u30a6\u30c9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTM4ZjRlNzk0ZjY4NGM3MmYxOTlhODQ4Njc2MzI1OWM2ZjFlZGJm",
+  "snapshot_id": "MCw5MmM5YWI0Yzg3NTU4ODQ4N2UyNDRkMDcxNTQ0YWNjYWE1ZjgxMmEw",
   "tracks": [
     {
       "added_at": "2024-01-25 15:34:33",
@@ -139,18 +139,18 @@
     {
       "added_at": "2024-01-25 15:34:33",
       "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 184013,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
       "added_at": "2024-01-25 15:34:33",
@@ -171,18 +171,18 @@
     {
       "added_at": "2024-01-25 15:34:33",
       "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
     },
     {
       "added_at": "2024-01-25 15:34:33",
@@ -851,18 +851,22 @@
     {
       "added_at": "2024-01-25 15:34:33",
       "album": {
-        "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08"
+        "name": "Better Place (From TROLLS Band Together)",
+        "url": "https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8"
       },
       "artists": [
         {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 203149,
-      "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz"
+      "duration_ms": 216666,
+      "name": "Better Place (From TROLLS Band Together)",
+      "url": "https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK"
     }
   ],
   "unique_name": "Drive Loud!: \u30c9\u30e9\u30a4\u30d6\u30fb\u30e9\u30a6\u30c9",

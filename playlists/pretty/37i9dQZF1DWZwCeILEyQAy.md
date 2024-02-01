@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: ScarLip
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,716 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,642 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 33 | [Last Laugh](https://open.spotify.com/track/5xZuFADmP2SXXQUJEJL7Tv) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Last Laugh](https://open.spotify.com/album/6saP11UTdkJ9SaIS2125Ng) | 2:55 |
 | 34 | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/album/4vzW9xfVkh6dOKxuGI66pD) | 3:34 |
 | 35 | [No Hesitation](https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Hesitation](https://open.spotify.com/album/0rIPAeXpkVqMVzoOCf5H5W) | 2:13 |
-| 36 | [The Grinch Freestyle \(feat\. Latto\)](https://open.spotify.com/track/2ZV5AvOBqnNjGa5pgLmSOl) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [The Grinch Freestyle \(feat\. Latto\)](https://open.spotify.com/album/0KhgQpucTFLcuiIWxdGLS1) | 2:26 |
-| 37 | [FINE AS CAN BE \(feat\. Latto\)](https://open.spotify.com/track/4HOHEBhH4uUkEGbR1WzlPf) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:32 |
+| 36 | [FINE AS CAN BE \(feat\. Latto\)](https://open.spotify.com/track/4HOHEBhH4uUkEGbR1WzlPf) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:32 |
+| 37 | [The Grinch Freestyle \(feat\. Latto\)](https://open.spotify.com/track/2ZV5AvOBqnNjGa5pgLmSOl) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [The Grinch Freestyle \(feat\. Latto\)](https://open.spotify.com/album/0KhgQpucTFLcuiIWxdGLS1) | 2:26 |
 | 38 | [BING BONG \(Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [BING BONG \(Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur) | 2:46 |
 | 39 | [N.A.L.B\. \(feat\. chriseanrock\)](https://open.spotify.com/track/73Sv0RLGr1MsFEykKcIvVR) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [chriseanrock](https://open.spotify.com/artist/3Idu5nTg2S3wrYwVkPqiwa) | [N.A.L.B\. \(feat\. chriseanrock\)](https://open.spotify.com/album/5G4HL8phOrQCQjEvnYYqsI) | 2:30 |
 | 40 | [Throw Dat](https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Throw Dat](https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 49 | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/track/53acd3PVcgGCux58YABBr5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/album/1RJ4oGkndLQuhu4EfVTKk5) | 3:15 |
 | 50 | [This Is New York](https://open.spotify.com/track/1sn4GarhOWPEWaFRBMtaSt) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [This Is New York](https://open.spotify.com/album/3eugYbmPxCM1oGbDTXXkMX) | 2:17 |
 
-Snapshot ID: `MCxjZGE4MDUyODVhY2Q5MzcyMGQ5OTFjMmE5YjA2NGVlYjMzOTlkNWQz`
+Snapshot ID: `MCwyNDIyOTZhZTAxMmE4YmNhMjI1MzUzNDgxMTMzMTdjN2RjNTkxOTUy`

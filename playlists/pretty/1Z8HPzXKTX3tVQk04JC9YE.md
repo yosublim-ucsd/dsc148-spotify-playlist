@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1Z8HPzXKTX3tVQk04JC9YE.md) - [plain]
 
 > All your favorite tracks from the hottest TV shows, commercials, and movies! Cover: Sofia Carson
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 29,227 likes - 52 songs - 3 hr 17 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 29,221 likes - 52 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/1Z8HPzXKTX3tVQk04JC9YE.md) - [plain]
 | 51 | [R.O.C.K\. In The U.S.A\. \(A Salute To 60's Rock\)](https://open.spotify.com/track/0lqfBvf1Gqmmt3l5Qeirlm) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Scarecrow](https://open.spotify.com/album/1BYEhfr8qQGNhbqPAbfnxk) | 2:54 |
 | 52 | [That Smell](https://open.spotify.com/track/2mWHtCdn8AO4bSA1TTHSVw) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Street Survivors \(Expanded Edition\)](https://open.spotify.com/album/5ADDIz16lkYbhXA1b8cGhr) | 5:48 |
 
-Snapshot ID: `MTExOCxjNTI3MzJiYWM5ODhhMDgwOTQ2ODgwNjhjM2E5ZGI4YTcyNDQxNTM5`
+Snapshot ID: `MTExOSw5ZWJmNjkzMmMyOTc0NDhlZTcxY2QzZjk0OTEyZmNkYjc0NzMwNTAw`

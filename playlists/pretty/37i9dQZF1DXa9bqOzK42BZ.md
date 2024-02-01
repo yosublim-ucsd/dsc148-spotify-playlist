@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl?si=HadD\_XhBS2mDgi67XVbyhA">Phina</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,756 likes - 89 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,816 likes - 89 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 88 | [Nikumbushe Yehova](https://open.spotify.com/track/2YTmZTaHazQYsOfC7UqWtO) | [Kurasini SDA Choir](https://open.spotify.com/artist/6iEYr3D5bI9cIgJWSYN0tM) | [Mtanitafuta Pande Zote](https://open.spotify.com/album/70wLfW5cfXi1h1JfIITRUp) | 2:45 |
 | 89 | [Action](https://open.spotify.com/track/3Kw2ogHWEVOln1I0COwKpx) | [BeeJay](https://open.spotify.com/artist/0Cwe5u9RvI668c5MXkzqyQ) | [Action](https://open.spotify.com/album/3di0qx12IxzIgc0uFuRSbI) | 5:30 |
 
-Snapshot ID: `MCxmYjkxZjcxZTRkY2UxYTViODdlNzIyZmVjNGMzNTdmYTc3NTE4MDNk`
+Snapshot ID: `MCwwZjczYjE4NDY0N2VmOTUwYzk3NjliYTk2ZWQ1NWUzZjVlYzJhZmQ2`

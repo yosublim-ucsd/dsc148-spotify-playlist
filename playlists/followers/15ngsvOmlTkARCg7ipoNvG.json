@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 18983,
+  "2024-02-01": 18981,
   "date_first_scraped": "2022-10-03",
   "description": "Beautiful instrumental music to keep you in the flow as you code or study. An ideal playlist for programming during stressful times --- | program | programmer | software | software engineer | computer science | concentrate | concentration | focusing |",
   "name": "CODING FOCUS",
@@ -8881,6 +8881,24 @@
       "duration_ms": 60263,
       "name": "Grey Clouds - Piano Version",
       "url": "https://open.spotify.com/track/7g67iqreB5QMcEqss06Nfm"
+    },
+    {
+      "album": {
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/6pf7cRfAtAy0WcVXmmAEeD"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60487,
+      "name": "Growth",
+      "url": "https://open.spotify.com/track/1LbKdbtf825ZPB2IjwMttX"
     },
     {
       "album": {

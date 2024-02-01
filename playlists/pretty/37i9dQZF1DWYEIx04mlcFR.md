@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Nicole Horts en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,576 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,590 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 33 | [Gitana \(feat\. Jeis, Pao Alvarado & Charly Romero\)](https://open.spotify.com/track/36sCyXGpgGVkiPaTObxvVT) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Yung Dupe](https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3), [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0), [Charly Romero](https://open.spotify.com/artist/6fnfIkbG8zBq4ZKKnvHGhx), [Jeis](https://open.spotify.com/artist/48AZRfn6TdspMxXToat0WB), [Pao Alvarado](https://open.spotify.com/artist/0fDaJzTT0WTIYVyIkjqpB4) | [El Morro Que Hace Música](https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3) | 3:57 |
 | 34 | [El Cable](https://open.spotify.com/track/1UZQtIbMg0jxgiulIadYpU) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [El Cable](https://open.spotify.com/album/0sxMSSA5KNAIpwGN1UJI3j) | 2:57 |
 | 35 | [Me Caga Tu Novia](https://open.spotify.com/track/1xBFsxUw84BMgEClaw09z4) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Me Caga Tu Novia](https://open.spotify.com/album/2uPxcGS41IV2ZH9ie4JWov) | 2:50 |
-| 36 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 |
-| 37 | [Un Ratito](https://open.spotify.com/track/6B5qbGyX9UPkdWJIkJlfnP) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Medianoche](https://open.spotify.com/album/3XCI5ZjZMArpKdOcyqVFZL) | 3:00 |
+| 36 | [Un Ratito](https://open.spotify.com/track/6B5qbGyX9UPkdWJIkJlfnP) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Medianoche](https://open.spotify.com/album/3XCI5ZjZMArpKdOcyqVFZL) | 3:00 |
+| 37 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 |
 | 38 | [SUFICIENTEPUNTOWAV](https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [1UNAMORSUPREMO](https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP) | 4:00 |
 | 39 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 |
 | 40 | [Rosa Pastel](https://open.spotify.com/track/5JAQUTIpKkbccoFiJlYrV0) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Rosa Pastel](https://open.spotify.com/album/3iwukaTIs0irnTqui1vtnk) | 2:56 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 63 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
 | 64 | [Palabras De Papel \(Veneno\)](https://open.spotify.com/track/37nE3DnKSFMyYIsUngPjjI) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Felicidad y Otros Mitos](https://open.spotify.com/album/5sNU3aUBHNEo1Y1pjHOdFI) | 3:21 |
 | 65 | [cartulinas de colores](https://open.spotify.com/track/2wEfLzvEWrSWmi63CeNDSO) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [cartulinas de colores](https://open.spotify.com/album/62r1JOXim0HDI909Vl0QiC) | 2:39 |
-| 66 | [Agua Caliente](https://open.spotify.com/track/1iUIeyrLRtHXc1K1Xjzxvf) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Agua Caliente](https://open.spotify.com/album/2weNbDp2J841mrVkjJF0YL) | 3:20 |
-| 67 | [Como las Aves](https://open.spotify.com/track/27bBykUqwr8sdKtXfVQqGY) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Como las Aves](https://open.spotify.com/album/44uhTcHqT2A2ksmAIl0hWY) | 2:18 |
-| 68 | [BITCH3](https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [BITCH3](https://open.spotify.com/album/5KYA9DUntV71ML54hncirY) | 2:24 |
+| 66 | [Como las Aves](https://open.spotify.com/track/27bBykUqwr8sdKtXfVQqGY) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Como las Aves](https://open.spotify.com/album/44uhTcHqT2A2ksmAIl0hWY) | 2:18 |
+| 67 | [BITCH3](https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [BITCH3](https://open.spotify.com/album/5KYA9DUntV71ML54hncirY) | 2:24 |
+| 68 | [Agua Caliente](https://open.spotify.com/track/1iUIeyrLRtHXc1K1Xjzxvf) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Agua Caliente](https://open.spotify.com/album/2weNbDp2J841mrVkjJF0YL) | 3:20 |
 | 69 | [Llamadas Vacías](https://open.spotify.com/track/1yL2B3kWqmpC5cDISZB5EO) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Llamadas Vacías](https://open.spotify.com/album/1q7GW6BI9MzTLjwQbtje3n) | 2:23 |
 | 70 | [Yo Sé \(Aceptación\)](https://open.spotify.com/track/0P0WYN6UXKIKs3JRidiXEW) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Yo Sé \(Aceptación\)](https://open.spotify.com/album/0bIoDg1vbxAO6MqGKcbbmV) | 3:02 |
 | 71 | [nikes azules](https://open.spotify.com/track/4dhUtf8F9cIynSoavVG6u7) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [nikes azules](https://open.spotify.com/album/3DggDzjA8fjU3sEuys7NqG) | 2:53 |
 | 72 | [A TI](https://open.spotify.com/track/7BvX8hQxTizTNxsZhx9VIs) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [A TI](https://open.spotify.com/album/36InzgYAARL1G0fiqy0Uza) | 2:18 |
 | 73 | [Tele](https://open.spotify.com/track/5eagnWmjBiNdLovonN1gI4) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Tele](https://open.spotify.com/album/1WGSsdUHw9DETdCD9VDqzZ) | 2:06 |
-| 74 | [lalalala](https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ) | [Masta Roi](https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [lalalala](https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex) | 4:04 |
-| 75 | [Inhabitable](https://open.spotify.com/track/3n5RLxFo7FMPJN4AcF6oEz) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [Inhabitable](https://open.spotify.com/album/3YjjoBMjNDO9yxYjrSciXo) | 2:47 |
+| 74 | [Inhabitable](https://open.spotify.com/track/3n5RLxFo7FMPJN4AcF6oEz) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [Inhabitable](https://open.spotify.com/album/3YjjoBMjNDO9yxYjrSciXo) | 2:47 |
+| 75 | [lalalala](https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ) | [Masta Roi](https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [lalalala](https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex) | 4:04 |
 
-Snapshot ID: `MCw3NjhhMjhjM2IyOGJjY2JjOTg0NTI0ZGQ2ZjUxOTJkYWEyNjljOTk2`
+Snapshot ID: `MCxhZmQwZjYyYmU5MGQ2MDA1N2NiNzcyMjgwNzM3ZGYwZjQyOGUxYjgy`

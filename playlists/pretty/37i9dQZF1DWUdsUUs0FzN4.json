@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Bellakath en portada ",
-  "num_followers": 17343,
+  "num_followers": 17370,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2E3MWMyOGZlMjAzZDQ4NGU5MTIzZjg4Y2Y5ZTcyODk5YWUwOTQx",
+  "snapshot_id": "MCxhOTY2NTJlZTZmNjRjNjcyNDczYTZhZDRiNjNmMmU5MjdjY2I3NmE4",
   "tracks": [
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "Helicoptero",
+        "url": "https://open.spotify.com/album/3XmNrq8rYZX54P2WGd1pQ7"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 137014,
+      "name": "Helicoptero",
+      "url": "https://open.spotify.com/track/2Gt9PTqiQdE4ZGbsBwssqJ"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "La Gata de la Agr\u00edcola Oriental (feat. Kery)",
         "url": "https://open.spotify.com/album/717P5W2rhbmKgikLXjWsKG"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 191026,
       "name": "La Gata de la Agr\u00edcola Oriental (feat. Kery)",
       "url": "https://open.spotify.com/track/6ldT8rxnVimIKIJJLAcKq7"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "Helicoptero",
-        "url": "https://open.spotify.com/album/3XmNrq8rYZX54P2WGd1pQ7"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 137014,
-      "name": "Helicoptero",
-      "url": "https://open.spotify.com/track/2Gt9PTqiQdE4ZGbsBwssqJ"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1303,18 +1303,22 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Boricua Reggaeton Clasicos de Barrio, Vol. 1",
-        "url": "https://open.spotify.com/album/6bUq5lb8Dgl3whC2xgrXCl"
+        "name": "Tu Pones la Hora y Yo Le Caigo",
+        "url": "https://open.spotify.com/album/6rEBOWQp5hYX9KfNKxiB9q"
       },
       "artists": [
         {
-          "name": "Don Chezina",
-          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
+          "name": "DJ Cobra Monterrey",
+          "url": "https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p"
+        },
+        {
+          "name": "Nyel",
+          "url": "https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5"
         }
       ],
-      "duration_ms": 150418,
-      "name": "Vacilon",
-      "url": "https://open.spotify.com/track/4RSoYhMvBaQkxCXfq0kvjj"
+      "duration_ms": 227608,
+      "name": "Tu Pones La Hora y Yo le Caigo",
+      "url": "https://open.spotify.com/track/24gG1Loc0WhJK9plg8MIUO"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1339,22 +1343,18 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Tu Pones la Hora y Yo Le Caigo",
-        "url": "https://open.spotify.com/album/6rEBOWQp5hYX9KfNKxiB9q"
+        "name": "Boricua Reggaeton Clasicos de Barrio, Vol. 1",
+        "url": "https://open.spotify.com/album/6bUq5lb8Dgl3whC2xgrXCl"
       },
       "artists": [
         {
-          "name": "DJ Cobra Monterrey",
-          "url": "https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p"
-        },
-        {
-          "name": "Nyel",
-          "url": "https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5"
+          "name": "Don Chezina",
+          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
         }
       ],
-      "duration_ms": 227608,
-      "name": "Tu Pones La Hora y Yo le Caigo",
-      "url": "https://open.spotify.com/track/24gG1Loc0WhJK9plg8MIUO"
+      "duration_ms": 150418,
+      "name": "Vacilon",
+      "url": "https://open.spotify.com/track/4RSoYhMvBaQkxCXfq0kvjj"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "3ple X (Radio Edit)",
-        "url": "https://open.spotify.com/album/1Ah1jnwVoENBApJqSargQd"
-      },
-      "artists": [
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        }
-      ],
-      "duration_ms": 211084,
-      "name": "3ple X - Radio Edit",
-      "url": "https://open.spotify.com/track/2lDi1sm9zSkmBwkuLUjZND"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Karol G",
         "url": "https://open.spotify.com/album/6q7tig0nfFlh7kkjmdO3jA"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 192253,
       "name": "Karol G",
       "url": "https://open.spotify.com/track/5wuLG283T9YyQeNwDJfXm0"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "3ple X (Radio Edit)",
+        "url": "https://open.spotify.com/album/1Ah1jnwVoENBApJqSargQd"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 211084,
+      "name": "3ple X - Radio Edit",
+      "url": "https://open.spotify.com/track/2lDi1sm9zSkmBwkuLUjZND"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "L-GANTE | Mission 19",
-        "url": "https://open.spotify.com/album/5moYjalNC0bbzVArARZog3"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 170568,
-      "name": "L-GANTE | Mission 19",
-      "url": "https://open.spotify.com/track/0DI87pDl42R0tPsCrR1rYd"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Bellakita",
         "url": "https://open.spotify.com/album/0oV153ZO9LCnIVzXNOh7CF"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 175737,
       "name": "Bellakita",
       "url": "https://open.spotify.com/track/1W4KsFR7GDrLztA25T3eKT"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "L-GANTE | Mission 19",
+        "url": "https://open.spotify.com/album/5moYjalNC0bbzVArARZog3"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 170568,
+      "name": "L-GANTE | Mission 19",
+      "url": "https://open.spotify.com/track/0DI87pDl42R0tPsCrR1rYd"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -2055,6 +2055,26 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "El Bellako",
+        "url": "https://open.spotify.com/album/1jTPG5Ta9ynl446ZzOhuEq"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "A la pared",
+      "url": "https://open.spotify.com/track/0RXGUnF9cCVn4w6n9lc6rP"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "Paleta",
         "url": "https://open.spotify.com/album/2DZ3uDCcvlRMclDxa7XZV1"
       },
@@ -2075,26 +2095,6 @@
       "duration_ms": 161216,
       "name": "Paleta",
       "url": "https://open.spotify.com/track/625y4TWL5q781xk7LOBTkv"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "El Bellako",
-        "url": "https://open.spotify.com/album/1jTPG5Ta9ynl446ZzOhuEq"
-      },
-      "artists": [
-        {
-          "name": "Dan Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "A la pared",
-      "url": "https://open.spotify.com/track/0RXGUnF9cCVn4w6n9lc6rP"
     },
     {
       "added_at": "2024-01-26 06:00:00",

@@ -1885,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "Dream Thread",
+        "url": "https://open.spotify.com/album/4aLypy3XVbwAl5m77cubJL"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200933,
+      "name": "From Fate",
+      "url": "https://open.spotify.com/track/3H38hshUqjNGMBa1uX5v8H"
+    },
+    {
+      "album": {
         "name": "\u5922\u306e\u7cf8",
         "url": "https://open.spotify.com/album/64CtA7HcKuD9ikMfld6UtP"
       },
@@ -1896,7 +1914,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 200933,
       "name": "From Fate",
       "url": "https://open.spotify.com/track/7umllTuYQqNTB3zwc2Qd5t"
@@ -3456,10 +3474,28 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 263960,
       "name": "memories - from CrosSing",
       "url": "https://open.spotify.com/track/0vD9j6PakpVJPluXl5Lqow"
+    },
+    {
+      "album": {
+        "name": "Memories - From CrosSing",
+        "url": "https://open.spotify.com/album/7alk8DcgMSlaETvPZSZ9UE"
+      },
+      "artists": [
+        {
+          "name": "\u4f0a\u85e4\u304b\u306a\u6075",
+          "url": "https://open.spotify.com/artist/2KOk4PLK3fQWIjuqEw15ih"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263960,
+      "name": "Memories - From CrosSing",
+      "url": "https://open.spotify.com/track/0xnJ9seuo8polxcsURVsYd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 8,401 likes - 46 songs - 2 hr 26 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 8,431 likes - 46 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 8 | [Bills, Bills \(feat\. MRYN\) \- Radio Edit](https://open.spotify.com/track/1bIOPOZlC6SQtyP1gRFZHD) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS), [MRYN](https://open.spotify.com/artist/6nvB3AlAAvRl4OGvPOPsMR) | [Bills, Bills \(feat\. MRYN\)](https://open.spotify.com/album/05lKjlzT4gUEMsfNwXrzlF) | 3:03 |
 | 9 | [No Reason \- Chris Lake Remix](https://open.spotify.com/track/2SUKj6aVC879FqCSfVoQPR) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [No Reason \(Chris Lake Remix\)](https://open.spotify.com/album/3TEApFY0nZSH1JTceGBK53) | 4:17 |
 | 10 | [I Don't Remember](https://open.spotify.com/track/0hi0udQ5ZXTKRcZ9t0e4TF) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [I Don't Remember](https://open.spotify.com/album/0J7RfuS72drryFxcc3SvD8) | 3:15 |
-| 11 | [Biggest Regret \(feat\. BbyAfricka\)](https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W) | [Biggest Regret \(feat\. BbyAfricka\)](https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI) | 3:50 |
+| 11 | [Biggest Regret \(feat\. Bbyafricka\)](https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W) | [Biggest Regret \(feat\. Bbyafricka\)](https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI) | 3:50 |
 | 12 | [When I Push \- Edit](https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [When I Push \(Edit\)](https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy) | 3:33 |
 | 13 | [Body Moving \- Riordan Remix](https://open.spotify.com/track/1j1gU6llk8Nqv3Kga9WBi7) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Body Moving \(Riordan Remix\)](https://open.spotify.com/album/6VN62DL9qSYG53VGXfohOn) | 3:06 |
 | 14 | [Show Me Love](https://open.spotify.com/track/6CzeYbEfvZb76PlsOVgGxR) | [HELLMATE](https://open.spotify.com/artist/5UU04gvXBWysJhWxvFGilD), [Santiago & Carlitos](https://open.spotify.com/artist/6f4x8vaGbIIm70Fg6wi6CO), [Chantal Lewis Brown](https://open.spotify.com/artist/0hEVrtPQzlVt1Rilq8A4nA) | [Show Me Love](https://open.spotify.com/album/7wluquB3THjFZ9yqXAu01I) | 2:01 |

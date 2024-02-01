@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU?si=0oRxTVcjTp6yilot\-NnRLQ">Beatenberg</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,997 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,003 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 49 | [Friends](https://open.spotify.com/track/6652ZJ7gXOKZtXTTgUDYFs) | [Mtwana](https://open.spotify.com/artist/70ewNHz36HOPCyctw0oUnt) | [Friends](https://open.spotify.com/album/3sSpQCJ1P8uowaX1jbXghS) | 2:49 |
 | 50 | [Harder](https://open.spotify.com/track/4NzCbEX3oR76un4r4wMdEG) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU), [Mandi Lizamore](https://open.spotify.com/artist/6uuRwrri5kOGdGkOlU9WHX) | [Harder](https://open.spotify.com/album/2TGbLlyaXASwBMX1LswYU2) | 6:06 |
 
-Snapshot ID: `MCxmOGFhMzBlZTk3YTAzYjg1MWJjZTNmNDU4M2UzNTNhN2YwYTI5MWQ3`
+Snapshot ID: `MCw5NTlhOWQyYmFjZGJiMWE3YmZkZjQ3NGUwMDViZGEzMGI5N2NiZjhi`

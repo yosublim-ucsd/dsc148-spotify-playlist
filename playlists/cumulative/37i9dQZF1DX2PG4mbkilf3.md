@@ -4,7 +4,7 @@
 
 > This is R&B in Canada\. Elevate your aura with Chikoruss.
 
-913 songs - 2 day 0 hr 7 min
+914 songs - 2 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,8 @@
 | [Fairy Tales](https://open.spotify.com/track/60FrGlqLx8PVlJKMnJzbPV) | [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL), [Mileena](https://open.spotify.com/artist/3zMmBYE6UVHfnURPeagEZu) | [Fairy Tales](https://open.spotify.com/album/6E6z4ShjrNh5ko5f9gGltf) | 2:14 | 2022-03-25 | 2022-06-11 |
 | [fairytales](https://open.spotify.com/track/2X1BrCQpbBlvczxml8jbEd) | [STORRY](https://open.spotify.com/artist/2B3DdwYxUSSrYdda9V2UL0) | [fairytales](https://open.spotify.com/album/5VX5yWc9NI6ytjUvx41k6c) | 3:58 | 2024-01-26 |  |
 | [Fall Over Me](https://open.spotify.com/track/3S6qc4YfeUI7fLTo7Vr1HT) | [Very Very](https://open.spotify.com/artist/0javh7fJTS6ShdIos7i9Lu) | [Strange Occasion](https://open.spotify.com/album/025BBaVNHim0G4CnvZWDqB) | 2:04 | 2024-01-12 |  |
-| [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/track/3w7AzChjtAtjLvVQll2Mjf) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/album/2qYeK1QWdV9oMmYSzWzy6v) | 3:20 | 2023-08-04 |  |
+| [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/track/3w7AzChjtAtjLvVQll2Mjf) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/album/2qYeK1QWdV9oMmYSzWzy6v) | 3:20 | 2023-08-04 | 2024-02-01 |
+| [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/track/4di3AFoecpRWM8m3fHYOm5) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Different Breed](https://open.spotify.com/album/2KVEGCt9y66zw0wA1KLd0o) | 3:20 | 2024-01-26 |  |
 | [Fallin](https://open.spotify.com/track/4vrng88ZcFQjykEpHnDKgm) | [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [Fallin](https://open.spotify.com/album/1EeN2rhse9oPfLZMJTBr4r) | 2:32 | 2023-12-01 |  |
 | [Famous \(Lost to LA\)](https://open.spotify.com/track/1wE6Shwlye4gEdUaq6Cg3H) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Famous \(Lost to LA\)](https://open.spotify.com/album/7j0IT1ckuBJcBT01axVkNA) | 2:34 | 2023-07-21 | 2023-10-28 |
 | [Fantasy](https://open.spotify.com/track/2Q30c5x8tsY9s0gG0OSbPn) | [Mannie](https://open.spotify.com/artist/0zgAhjlUqDIcAm9hwZmiFw) | [Bad Intentions](https://open.spotify.com/album/14N7swOX8NoBVtZ2jSUHSV) | 2:56 | 2022-12-16 | 2023-02-25 |

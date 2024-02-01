@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,411,457 likes - 85 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,412,011 likes - 85 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 40 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
 | 41 | [request](https://open.spotify.com/track/63MlPFQQ7PNGiiHMnVrfw2) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [request](https://open.spotify.com/album/1f6C0igNf8jtwASukoTF6I) | 3:44 |
 | 42 | [Cure](https://open.spotify.com/track/4WP75fmmfAP4lPEC6eCFJB) | [waterweed](https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ) | [Cure](https://open.spotify.com/album/1HwSii3IuxWnn2X3TgEPYg) | 2:50 |
-| 43 | [Arc of The Ashes](https://open.spotify.com/track/377Gdn34pIqXO1m4hWH2EF) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Arc of The Ashes](https://open.spotify.com/album/5kZ9wLvobOB7EqCfhyXwr6) | 4:04 |
+| 43 | [Arc of The Ashes](https://open.spotify.com/track/6Ck5eIzNJx0N4jSsC9J99A) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Arc of The Ashes](https://open.spotify.com/album/4b4RsRfyB4sQPigec5YLEa) | 4:04 |
 | 44 | [衝天](https://open.spotify.com/track/2q8MqgPevufTYXjFamHIuw) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [衝天](https://open.spotify.com/album/42tl64WVINS2Gj6bHBMMIc) | 4:17 |
 | 45 | [nitari](https://open.spotify.com/track/1ZKoFnft58Ak3jujRlUGJQ) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [nitari](https://open.spotify.com/album/17ecQayWxTwcz9o25u8HHE) | 2:43 |
 | 46 | [恋してる自分すら愛せるんだ](https://open.spotify.com/track/62dL2rUkI4T7mAgwCVclJi) | [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw) | [恋してる自分すら愛せるんだ](https://open.spotify.com/album/5c8jlwAovhxg04NiOVotCb) | 3:32 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 49 | [スーパーウルトラ I LOVE YOU](https://open.spotify.com/track/1rMbW3ri5rFPwIaWXjeOi6) | [Centimillimental](https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw) | [スーパーウルトラ I LOVE YOU](https://open.spotify.com/album/659ErKMuWO7zJkEkjbjxkW) | 3:16 |
 | 50 | [未完成](https://open.spotify.com/track/1qNjiTuVvUrdbOzvfH3yzM) | [ざきのすけ。](https://open.spotify.com/artist/2QydRp0HEq0iP0W3XPHZKm) | [未完成](https://open.spotify.com/album/6w8g1J2foak2DLjRQe2Ax5) | 3:25 |
 | 51 | [青く、青く](https://open.spotify.com/track/4x8y91an0erARwUUTifXWP) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [青く、青く](https://open.spotify.com/album/0gnXedu8kjG7R8XPdDpREc) | 4:32 |
-| 52 | [because](https://open.spotify.com/track/3GI5dJDbotiqkMYpdbYekS) | [丁](https://open.spotify.com/artist/2FBCBROCrxXD4tC6TmA8t4) | [because](https://open.spotify.com/album/4l09EaMZupt9ZUgsCyVtjT) | 4:32 |
+| 52 | [because](https://open.spotify.com/track/6A7ApLuakiDmKHtVn6Alpi) | [Tei](https://open.spotify.com/artist/3TNWTnnvYHRFd4AwlX44s2) | [because](https://open.spotify.com/album/3X5S24GPW8hFTfmR8QVyRG) | 4:32 |
 | 53 | [ロマンティーク feat\. 内田也哉子, ハナレグミ, OLAibi](https://open.spotify.com/track/4hjBVqWFuvHkjc94ivtORf) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued), [内⽥也哉⼦](https://open.spotify.com/artist/13Oi414iF5amNALfIYZJFO), [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte), [OLAibi](https://open.spotify.com/artist/0fHhiltRvM9Fj6KGRqxv8w) | [ロマンティーク feat\. 内田也哉子, ハナレグミ, OLAibi](https://open.spotify.com/album/26KHmcPVRZL3MpIBgaGHXT) | 4:37 |
 | 54 | [Why](https://open.spotify.com/track/4rRjyhJb6dysfPM8QYsct0) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Why / Life](https://open.spotify.com/album/59uiaEUK0EFBw2NeepYpLz) | 4:10 |
 | 55 | [Kokoro no Naka](https://open.spotify.com/track/6J5Y0T35JVtOpQLVcOvvCa) | [AliA](https://open.spotify.com/artist/4Lmo7h2Ik12QI3Ik0BvGbB) | [Kokoro no Naka](https://open.spotify.com/album/1McLOtVpjTGSkeccdBQz2N) | 4:02 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 69 | [Kienai](https://open.spotify.com/track/3PSp3yra8DpUdQDPT9ZRj0) | [THE BINARY](https://open.spotify.com/artist/60X2RP6vK5pB964r0LyK5X) | [Kienai](https://open.spotify.com/album/6quUpgSDL82oAvsGw0gpT0) | 3:31 |
 | 70 | [Cotton Days](https://open.spotify.com/track/41hNGkweGxQFmbJlaDv1jR) | [Sizuk](https://open.spotify.com/artist/5UNvWvt9sIB2DmhHzpkwBM), [Kotoha](https://open.spotify.com/artist/76pJHTMyTukyWJNR6yRrZS) | [Cotton Days](https://open.spotify.com/album/2TUj2JtNyWd0tBwR3pw6K5) | 3:46 |
 | 71 | [HAKKA](https://open.spotify.com/track/5UZmTPGkbToC1IwGrQpivM) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [HAKKA ENDING SONG FROM TV SERIES ”ISHURA”](https://open.spotify.com/album/2o75VUqpKWrakvfO4hNVTy) | 3:50 |
-| 72 | [From Fate](https://open.spotify.com/track/7umllTuYQqNTB3zwc2Qd5t) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [夢の糸](https://open.spotify.com/album/64CtA7HcKuD9ikMfld6UtP) | 3:20 |
+| 72 | [From Fate](https://open.spotify.com/track/3H38hshUqjNGMBa1uX5v8H) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dream Thread](https://open.spotify.com/album/4aLypy3XVbwAl5m77cubJL) | 3:20 |
 | 73 | [Day Off](https://open.spotify.com/track/51qR61A8e4sBvNBSnMI9QO) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [Day Off](https://open.spotify.com/album/4PGkGGLBfmgOJ7E1m46Vga) | 3:28 |
 | 74 | [果てのない旅](https://open.spotify.com/track/558Rz2INvrgzVBEBdUFLZk) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [果てのない旅](https://open.spotify.com/album/4HaR7cxuaOgD7hnst95Wgw) | 2:41 |
 | 75 | [夕闇のうた](https://open.spotify.com/track/2AouDtmgOitOt02WJrRvzX) | [KEIKO](https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe) | [夕闇のうた](https://open.spotify.com/album/3ohQfs9Gur1zL9kL2KHBip) | 4:03 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Otowa](https://open.spotify.com/track/1zSDvAdbpQoSuVJ9jLHGJD) | [太陽と踊れ月夜に唄え](https://open.spotify.com/artist/6FD9cAv3nEw3sK6mSmIAjV) | [Otowa](https://open.spotify.com/album/2nYVX9H4mPqz2a8A9efxzW) | 3:56 |
 | 85 | [Easy? Hard? Shikashite Susume!](https://open.spotify.com/track/2rugT3UVSZsmmmat3ElLqP) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [Easy? Hard? Shikashite Susume!](https://open.spotify.com/album/46OnDsJZsnWOArf7ZoDUsI) | 4:08 |
 
-Snapshot ID: `MCxhZDhlMjRlODQyZDVhMDM0ZjcwZDcwNjI1NDFhNjRlNGQxMjc1M2Mx`
+Snapshot ID: `MCw1ZTQ3ZGFiNjQ4ZjJiNTFlY2QyMGM2YWU3ODM2YzA5Y2M0YzY4OWMx`

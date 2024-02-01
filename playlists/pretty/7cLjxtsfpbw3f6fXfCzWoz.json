@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "MzcsM2ViNWIzMmEwYjA4NGVjYzIwOWQ3YWQ3OGU4YzJiZjM5OGRmMzhmYw==",
+  "snapshot_id": "MzksMTg0ZDVjNGI1YjNkYWQwOTE0MjMzOTQ4NjkwNTY2YzI1Y2IxOWI2Ng==",
   "tracks": [
     {
       "added_at": "2022-09-07 19:01:08",
@@ -535,6 +535,42 @@
       "duration_ms": 269960,
       "name": "Last Train to London",
       "url": "https://open.spotify.com/track/7kE0JjBurV144cuDOb55aB"
+    },
+    {
+      "added_at": "2024-01-31 08:48:35",
+      "album": {
+        "name": "1.0",
+        "url": "https://open.spotify.com/album/20EPvfI2oySEeAmW0IiEaq"
+      },
+      "artists": [
+        {
+          "name": "Big Data",
+          "url": "https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa"
+        },
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        }
+      ],
+      "duration_ms": 280426,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/2b7hOtMdYJ7QvL6Vd3sk4a"
+    },
+    {
+      "added_at": "2024-01-31 08:50:35",
+      "album": {
+        "name": "1.0",
+        "url": "https://open.spotify.com/album/20EPvfI2oySEeAmW0IiEaq"
+      },
+      "artists": [
+        {
+          "name": "Big Data",
+          "url": "https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa"
+        }
+      ],
+      "duration_ms": 266320,
+      "name": "Big Dater - 1.0 Version",
+      "url": "https://open.spotify.com/track/3yAmfnsYSB8dvTJs2aZti6"
     }
   ],
   "unique_name": "Gender Neutral Love and Hate",

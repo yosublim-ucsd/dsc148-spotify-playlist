@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Static\-X
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,776 likes - 57 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,814 likes - 57 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 2 | [Black Star](https://open.spotify.com/track/5Fbdx8HTneMfmLHoDwU8dz) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 2](https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk) | 4:00 |
 | 3 | [Knife](https://open.spotify.com/track/4EziK2zE4fTvXi4obtunZh) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Knife](https://open.spotify.com/album/0w4KpUcSpjvxkiccChtB2C) | 3:38 |
 | 4 | [B.D.E.](https://open.spotify.com/track/2BRWzdsVX8CSDM9fGyMu2V) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [B.D.E.](https://open.spotify.com/album/3PAug8cbRYpww9PMjA29IK) | 4:27 |
-| 5 | [Miasma](https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9), [Winston McCall](https://open.spotify.com/artist/5SbE63j8ykElvWk3EZEmrx) | [Miasma](https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL) | 4:18 |
+| 5 | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL) | 4:18 |
 | 6 | [Sucks 2 Suck](https://open.spotify.com/track/256sFTOD01wutUbC7omH17) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Sucks 2 Suck](https://open.spotify.com/album/4vApNOb7B86XOY1DdLcs7w) | 3:53 |
 | 7 | [Outcome](https://open.spotify.com/track/54Mdl7oXai0VZ3usuCxIPb) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [The Affliction](https://open.spotify.com/album/1Sggf1c9AVCvAEAGaC9v6K) | 3:25 |
 | 8 | [Best Time](https://open.spotify.com/track/1wfXm0e3Un8DfIxWgQ6MER) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Limitless](https://open.spotify.com/album/15TD3hgcILW2sfZjQnBBbS) | 3:12 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 56 | [Concrete Spine](https://open.spotify.com/track/5yCKh0u40rC0gZfk1l7Upt) | [Beyond Thy Sight](https://open.spotify.com/artist/43Ag99L1ZBjV460Z8vKai8) | [Concrete Spine](https://open.spotify.com/album/4yqqtbMRznWLQeEToa3jf0) | 3:22 |
 | 57 | [ALPINA](https://open.spotify.com/track/1dNkg3YNIu6GfXXPKLaZ1n) | [Uz:ME](https://open.spotify.com/artist/4qg2BxtKMMtm10kaCj6bNt) | [ALPINA](https://open.spotify.com/album/5wHjh13gAnG0GNRQBMxZ6N) | 4:06 |
 
-Snapshot ID: `MCw5OWJkYmZkMDhiZTU0OGUzNzQxOGVjMGQ3YjM4OGY5YTY4ZGRkZTE5`
+Snapshot ID: `MCxiNGE0MzQ3NmM0MDk3N2VlNDZhZjgzMTM2NDhiNzliYWViYWJiZjRk`

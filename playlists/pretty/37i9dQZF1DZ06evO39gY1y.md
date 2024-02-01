@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 
 > This is Charles Ans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,413 likes - 51 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,499 likes - 51 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 31 | [No Hay Palabras Bonitas](https://open.spotify.com/track/3XGPIhoTG09ItjxNtdtEnE) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gordo Fu](https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 3:20 |
 | 32 | [En Lo Malo Me Va Bien](https://open.spotify.com/track/6JP2x0Rvwq7LZ8goXDGAIL) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [¿Cómo Terminamos Aquí?](https://open.spotify.com/album/5ODmbI1fYx0NajM6mo6Dpe) | 4:01 |
 | 33 | [La Que Se Fue](https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [La Que Se Fue](https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26) | 2:46 |
-| 34 | [Naranja a Morado](https://open.spotify.com/track/3CcUQabK3Vn0RUjZI7lfPz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Buen Pez](https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV) | 4:16 |
-| 35 | [Lumbre](https://open.spotify.com/track/4grtH2EEl14ZJL0fry7Zcg) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Inmensidades](https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY) | 3:51 |
+| 34 | [Lumbre](https://open.spotify.com/track/4grtH2EEl14ZJL0fry7Zcg) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Inmensidades](https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY) | 3:51 |
+| 35 | [Naranja a Morado](https://open.spotify.com/track/3CcUQabK3Vn0RUjZI7lfPz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Buen Pez](https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV) | 4:16 |
 | 36 | [Tú Tienes el Son](https://open.spotify.com/track/5UBSfqsnxc2GW86eHEsuA2) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Tú Tienes el Son](https://open.spotify.com/album/0YVNvh5zedGZ2cOmC6tD3E) | 3:01 |
 | 37 | [Mañana Vas a Estar Ausente](https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Órbitas](https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4) | 3:29 |
 | 38 | [400 Estrellas](https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [400 Estrellas](https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr) | 3:43 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 50 | [Mil Escalas](https://open.spotify.com/track/6NjRybxD0tZ90fLwnPCkkp) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Mil Escalas](https://open.spotify.com/album/0vM7MIZddwc4AskM0iaid6) | 2:24 |
 | 51 | [Desde Que Te Bese](https://open.spotify.com/track/52yiGPq2rumA8stMa345dJ) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Desde Que Te Bese](https://open.spotify.com/album/269AgD2kvSnseu3eFYSq17) | 3:02 |
 
-Snapshot ID: `Mjg0NDM2MzgsMDAwMDAwMDBjNWFhMWU0MWM0NzMzZjI1ODg2ODYwOTZiMjA2Y2FkYQ==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDA3ODVjYWY3Yzg2ZDdjZmQ3YTEwMDRjN2E1NGU2MDQ5OA==`

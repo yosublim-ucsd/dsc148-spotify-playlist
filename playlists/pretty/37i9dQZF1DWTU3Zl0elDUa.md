@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,424 likes - 60 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,599 likes - 60 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 36 | [You Don't Know Me \(feat\. Duane Harden\)](https://open.spotify.com/track/6j7Fdvi61J0qwjqh1OPeFM) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0) | [You Don't Know Me \(feat\. Duane Harden\)](https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb) | 8:13 |
 | 37 | [I Can't Kick This Feeling When It Hits](https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Silentintroduction](https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss) | 8:05 |
 | 38 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4PxoDlPrwGtmWqFA4pm57U) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [The Best Of Crystal Waters](https://open.spotify.com/album/3u9FnafwttOYXAz9fznSAg) | 3:47 |
-| 39 | [David Morales \- Needin U \- Radio Edit](https://open.spotify.com/track/4lgDZcisljVlutaku19eqV) | [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts), [The Face](https://open.spotify.com/artist/0c3f0X32um603awrTfc3mD) | [Needin' U \(Radio Edit\)](https://open.spotify.com/album/6ROOnXW9kJNHnSzaRuiXnW) | 3:49 |
-| 40 | [Pasilda \- Knee Deep Club Mix](https://open.spotify.com/track/2vhLsN2p6FHPPm4LfEBB3N) | [Afro Medusa](https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI), [Knee Deep](https://open.spotify.com/artist/51iQEVj0SBCQZJVrNli23R) | [Pasilda \(Extended Versions\)](https://open.spotify.com/album/7qCEf8CrHVD4C5uyPsTFT2) | 7:06 |
+| 39 | [Pasilda \- Knee Deep Club Mix](https://open.spotify.com/track/2vhLsN2p6FHPPm4LfEBB3N) | [Afro Medusa](https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI), [Knee Deep](https://open.spotify.com/artist/51iQEVj0SBCQZJVrNli23R) | [Pasilda \(Extended Versions\)](https://open.spotify.com/album/7qCEf8CrHVD4C5uyPsTFT2) | 7:06 |
+| 40 | [David Morales \- Needin U \- Radio Edit](https://open.spotify.com/track/4lgDZcisljVlutaku19eqV) | [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts), [The Face](https://open.spotify.com/artist/0c3f0X32um603awrTfc3mD) | [Needin' U \(Radio Edit\)](https://open.spotify.com/album/6ROOnXW9kJNHnSzaRuiXnW) | 3:49 |
 | 41 | [Can You Feel It \- Instrumental](https://open.spotify.com/track/4b5QHhUld8ba26ZJEHawFW) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Can You Feel It](https://open.spotify.com/album/7q5nYnbxfVVTsmyW5ZB8KX) | 5:40 |
 | 42 | [Jack Your Body \- 1986 Club Mix](https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6) | [Steve "Silk" Hurley](https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP) | [Jack Your Body \(S&S Reloaded\)](https://open.spotify.com/album/3UAvNbsdCDrUKyhp8YGfJT) | 5:06 |
 | 43 | [Feels Like Heaven](https://open.spotify.com/track/7HlxqDDzdWE3gK0i6fS6Bt) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 59 | [Ebeneezar Goode \- Beatmasters Mix](https://open.spotify.com/track/2w6c7A9bfstvqCVOCF6UmV) | [The Shamen](https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3) | [Boss Drum](https://open.spotify.com/album/0F9CFeVQEAcmbYNqZzWt9W) | 6:15 |
 | 60 | [Mushrooms \- Salt City Orchestra Out There Mix](https://open.spotify.com/track/2vRbn7ZmxrkEO2SBfxJe3V) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Noosa Heads](https://open.spotify.com/artist/4qZL2VAnbz5esT94wlilZp), [Salt City Orchestra](https://open.spotify.com/artist/6nHCRufVUGt9HmvAOZXhOi) | [Mushrooms](https://open.spotify.com/album/4UqQPjkCRNr1VDqqHnMTQ5) | 8:12 |
 
-Snapshot ID: `MCw0MDllZDdhYjgwNzNiM2M2MjAxNjY5YmQwMGE1ZGIzZWZiNjkyYTQ0`
+Snapshot ID: `MCw4MGU2ZGJjMTQ4YjUxMmY1ODdmZGQyNGJhYTgwZmU3YjAwMjdkYjMz`

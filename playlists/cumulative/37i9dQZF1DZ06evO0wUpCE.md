@@ -4,7 +4,7 @@
 
 > This is Intocable\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 29 min
+60 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,11 +42,12 @@
 | [No Me Hablen de Amor](https://open.spotify.com/track/03zaQokPmEiYjrLFl9NAK6) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [A la Medida](https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4) | 3:09 | 2023-08-08 | 2024-01-04 |
 | [No Me Hablen de Amor](https://open.spotify.com/track/2FHW0H29DDCTWYLXwpAwpu) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 3:09 | 2024-01-03 |  |
 | [No Se Vuelve A Repetir](https://open.spotify.com/track/5S8bGN62F8XQfZo26caGjv) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [No Se Vuelve A Repetir](https://open.spotify.com/album/1LwEYfRvKkCQY1KojHlRYE) | 3:14 | 2023-08-08 |  |
-| [No Te Vayas](https://open.spotify.com/track/7AM7gEehnVqElO1BD9h8dC) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:26 | 2023-08-08 |  |
+| [No Te Vayas](https://open.spotify.com/track/7AM7gEehnVqElO1BD9h8dC) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:26 | 2023-08-08 | 2024-02-01 |
 | [Obsesión](https://open.spotify.com/track/2xOshxJiidlSqyjS3H7LKN) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Obsesión](https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY) | 2:32 | 2023-09-09 |  |
 | [Perdedor](https://open.spotify.com/track/1VTmlCO0jODdzh0m9i1Q0d) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Intocable](https://open.spotify.com/album/5Gr3x3xc7fYz6SALeFK7BH) | 4:20 | 2023-08-08 |  |
 | [Por Ella \(Poco A Poco\)](https://open.spotify.com/track/4WWITxzEgGZJcB1JyzPvbc) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Crossroads: Cruce De Caminos](https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf) | 4:03 | 2023-08-08 |  |
 | [Por Un Beso](https://open.spotify.com/track/7b6HqGIszgwGinMRtY4d1U) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:29 | 2023-08-08 |  |
+| [Que Facil Es Amarte](https://open.spotify.com/track/3dYQuYpu94qxIjrTFJ3L7G) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [2C](https://open.spotify.com/album/3IjzhpUUoLW0VFp4agHElm) | 4:06 | 2024-01-31 |  |
 | [Robarte un Beso](https://open.spotify.com/track/2I8JurbSZR2wjQnP4T87SO) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [2011](https://open.spotify.com/album/0iKVh2YiP0Ah83V4T2U1Lr) | 3:13 | 2023-08-08 |  |
 | [Si Me Duele Que Duela](https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Si Me Duele Que Duela](https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY) | 2:51 | 2023-08-08 |  |
 | [Si Se Acabó El Amor](https://open.spotify.com/track/6Q81FQKs8frictojPGC91p) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 3:53 | 2023-08-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Justin Timberlake
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,139 likes - 105 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,136 likes - 105 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 104 | [Sad Bitch Hotline](https://open.spotify.com/track/5z1NXWneCrAf1bC2PkiKgh) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Sad Bitch Hotline](https://open.spotify.com/album/5IUwOXuaCvYibs2t7S5Ta0) | 2:52 |
 | 105 | [Catching Feelings](https://open.spotify.com/track/6EGAYAiK2k89dKJNKf5avd) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Catching Feelings](https://open.spotify.com/album/2sKFy4cK1BJygH0uFdo92M) | 2:46 |
 
-Snapshot ID: `MCxmZTE3NTBlMzc1ZjAwYmRjZjc1MTAzZDBmYjRkMmVkNzg4ZTYzN2Vk`
+Snapshot ID: `MCw0ZGNjYmU2MWNhNjhkZDFjODcyZTkwN2VhNjE0OTJlYzQwYWYyNjBj`

@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 46090,
+  "2024-02-01": 46090,
   "date_first_scraped": "2023-08-09",
   "description": "M\u00fasica para ver llover, con buen cobijo y una taza de t\u00e9 entre las manos.",
   "name": "D\u00edas Lluviosos",
@@ -147,7 +147,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 216920,
       "name": "Better in the Shade",
       "url": "https://open.spotify.com/track/3A9xFLSTS6K9dII3fbDr4O"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 203685,
       "name": "Doesn't Matter",
       "url": "https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r"

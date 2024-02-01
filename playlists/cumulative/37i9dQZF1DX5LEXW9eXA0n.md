@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover:Jhnovr\(존오버\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,143 songs - 3 day 1 hr 59 min
+1,144 songs - 3 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -861,6 +861,7 @@
 | [Still You](https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Romantic Doctor 3 OST Part.4](https://open.spotify.com/album/76EcPCpVlaS2IJWTuQgGmf) | 3:49 | 2023-07-17 | 2023-11-16 |
 | [Stranger](https://open.spotify.com/track/3lWNov4VlzcBZPLRgYFcHZ) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Stranger](https://open.spotify.com/album/1XOdt7of67I6i0m3UNHaEF) | 2:49 | 2024-01-25 |  |
 | [Stranger \(Feat\. 10cm\)](https://open.spotify.com/track/0HrV0lDKAI2TGSpJNX358K) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Last Winter](https://open.spotify.com/album/41vj1sO4NJFriquGszDSh5) | 3:21 | 2023-12-08 |  |
+| [Stuck In The Middle](https://open.spotify.com/track/1Ad4anaX6hJyfZvVDkrKQg) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER Pre\-Release Single \[Stuck In The Middle\]](https://open.spotify.com/album/7anlDz5EpVJ4aXmWvaSbzM) | 4:06 | 2024-01-31 |  |
 | [Stupid Love](https://open.spotify.com/track/3GpaewakLswMXhewU2sSxp) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Stupid Love](https://open.spotify.com/album/4xrlOySL3LbQROUb760PDJ) | 4:25 | 2022-10-13 | 2023-01-21 |
 | [such a man](https://open.spotify.com/track/3W1gtxKzKQR4fufWXZ670j) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [such a man](https://open.spotify.com/album/1WbRJyCcnFkHAVCj2hOnUW) | 4:23 | 2022-07-07 | 2022-09-30 |
 | [Such a thing](https://open.spotify.com/track/1YR0ivxbjdQBzp3eYP3p3z) | [Park Min Hye](https://open.spotify.com/artist/0rFLNocK3XicCj7JZs63h4) | [Such a thing](https://open.spotify.com/album/4l29ZCHanvEhGA5xZdPZDK) | 4:26 | 2022-07-07 | 2022-08-13 |

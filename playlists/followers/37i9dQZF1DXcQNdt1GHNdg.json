@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 115338,
+  "2024-02-01": 115463,
   "date_first_scraped": "2023-07-25",
   "description": "Pump up your adrenaline with Punjabi hits!",
   "name": "Punjabi Pump",
@@ -61,6 +61,36 @@
       "duration_ms": 270000,
       "name": "295",
       "url": "https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT"
+    },
+    {
+      "album": {
+        "name": "UNDISPUTED",
+        "url": "https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34"
+      },
+      "artists": [
+        {
+          "name": "Sukha",
+          "url": "https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG"
+        },
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        },
+        {
+          "name": "Prodgk",
+          "url": "https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "8 ASLE",
+      "url": "https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO"
     },
     {
       "album": {
@@ -167,7 +197,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 147692,
       "name": "Behja Behja",
       "url": "https://open.spotify.com/track/0uBZBeRrBsUuJTepslamCJ"
@@ -558,6 +588,28 @@
     },
     {
       "album": {
+        "name": "UNDISPUTED",
+        "url": "https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34"
+      },
+      "artists": [
+        {
+          "name": "Sukha",
+          "url": "https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG"
+        },
+        {
+          "name": "Prodgk",
+          "url": "https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120251,
+      "name": "GODFATHER",
+      "url": "https://open.spotify.com/track/4bY7k88P0CiTKSh8E0Qlzi"
+    },
+    {
+      "album": {
         "name": "Hathyar (From \"Sikander 2\")",
         "url": "https://open.spotify.com/album/1eRa0g0SMEr9yfDzdnWQ93"
       },
@@ -665,7 +717,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 157875,
       "name": "Jigra",
       "url": "https://open.spotify.com/track/4PlWvbhxBHxUbeAKyX5rVh"

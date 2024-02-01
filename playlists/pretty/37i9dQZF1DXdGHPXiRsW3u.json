@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 2000s.",
-  "num_followers": 531685,
+  "num_followers": 531955,
   "original_name": "Soft 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjgzOWU0MzQ4MGM1NTIxMDIzNzVmZmYxMzRlNGZmMDEwNmIzMzA5",
+  "snapshot_id": "MCwxMzE2NzhmMjY5NzUyYWQxNjNjYzY1MGY3ODA2NmM1NzY2YzQzYjVj",
   "tracks": [
     {
       "added_at": "2023-01-28 00:00:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "We Sing. We Dance. We Steal Things. (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/3S0OXQeoh0w6AY8WQVckRW"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "Drops Of Jupiter",
         "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 259933,
       "name": "Drops of Jupiter (Tell Me)",
       "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "We Sing. We Dance. We Steal Things. (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/3S0OXQeoh0w6AY8WQVckRW"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
+        "name": "The Reason (20th Anniversary)",
+        "url": "https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8"
+      },
+      "artists": [
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
         "name": "Escapology",
         "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
       },
@@ -419,22 +435,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Songs In A Minor",
-        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Fallin'",
-      "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "Lifehouse",
         "url": "https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz"
       },
@@ -447,6 +447,22 @@
       "duration_ms": 195493,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "Songs In A Minor",
+        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -543,22 +559,6 @@
       "duration_ms": 202066,
       "name": "Patience",
       "url": "https://open.spotify.com/track/4DxybsoSiMUW0JI2oM0SSN"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
-        "name": "The Reason (20th Anniversary)",
-        "url": "https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8"
-      },
-      "artists": [
-        {
-          "name": "Hoobastank",
-          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "The Reason",
-      "url": "https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Whoa, Nelly! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "I'm Like A Bird",
-      "url": "https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "FutureSex/LoveSounds",
         "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 448573,
       "name": "What Goes Around.../...Comes Around (Interlude)",
       "url": "https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "Whoa, Nelly! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "I'm Like A Bird",
+      "url": "https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -907,18 +907,22 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "A Day Without Rain",
-        "url": "https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5"
+        "name": "Jordin Sparks",
+        "url": "https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6"
       },
       "artists": [
         {
-          "name": "Enya",
-          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 218546,
-      "name": "Only Time",
-      "url": "https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO"
+      "duration_ms": 264373,
+      "name": "No Air (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/1jUA4rb6ZCv4gby4YU53xq"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -939,22 +943,18 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Jordin Sparks",
-        "url": "https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6"
+        "name": "A Day Without Rain",
+        "url": "https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5"
       },
       "artists": [
         {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
         }
       ],
-      "duration_ms": 264373,
-      "name": "No Air (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/1jUA4rb6ZCv4gby4YU53xq"
+      "duration_ms": 218546,
+      "name": "Only Time",
+      "url": "https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
+        "name": "Never Gone",
+        "url": "https://open.spotify.com/album/1Wz9PANLXjaOskUv575hRV"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 239586,
+      "name": "Incomplete",
+      "url": "https://open.spotify.com/track/0CnD7Hiw6pae6rLsZw5q5W"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
         "name": "Get Lifted",
         "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 311186,
       "name": "All Good Things (Come To An End)",
       "url": "https://open.spotify.com/track/6kEpjptnAwt11Atr4cEMe1"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
-        "name": "Never Gone",
-        "url": "https://open.spotify.com/album/1Wz9PANLXjaOskUv575hRV"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 239586,
-      "name": "Incomplete",
-      "url": "https://open.spotify.com/track/0CnD7Hiw6pae6rLsZw5q5W"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
+        "name": "PCD",
+        "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        }
+      ],
+      "duration_ms": 207506,
+      "name": "Stickwitu",
+      "url": "https://open.spotify.com/track/4NjR63Up0uMkQBlKvlZd1l"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
         "name": "All Rise",
         "url": "https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 204866,
       "name": "Walking Away",
       "url": "https://open.spotify.com/track/3R7fjB38qajI6JR69y5k4e"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
-        "name": "PCD",
-        "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
-      },
-      "artists": [
-        {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
-        }
-      ],
-      "duration_ms": 207506,
-      "name": "Stickwitu",
-      "url": "https://open.spotify.com/track/4NjR63Up0uMkQBlKvlZd1l"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -2147,26 +2147,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Best Of Blue",
-        "url": "https://open.spotify.com/album/7kPVKSy6zNK1PnvylEqTpL"
-      },
-      "artists": [
-        {
-          "name": "Blue",
-          "url": "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
-        },
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 210066,
-      "name": "Sorry Seems To Be The Hardest Word",
-      "url": "https://open.spotify.com/track/6F9jdzX7CfixvCsCkW7zw9"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "Pocketful Of Sunshine",
         "url": "https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw"
       },
@@ -2187,18 +2167,22 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "In Blue",
-        "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
+        "name": "Best Of Blue",
+        "url": "https://open.spotify.com/album/7kPVKSy6zNK1PnvylEqTpL"
       },
       "artists": [
         {
-          "name": "The Corrs",
-          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
+          "name": "Blue",
+          "url": "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 240679,
-      "name": "All the Love in the World",
-      "url": "https://open.spotify.com/track/1kDWRREI28eCvDpJvSRd9b"
+      "duration_ms": 210066,
+      "name": "Sorry Seems To Be The Hardest Word",
+      "url": "https://open.spotify.com/track/6F9jdzX7CfixvCsCkW7zw9"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -2215,6 +2199,22 @@
       "duration_ms": 236400,
       "name": "Emotion",
       "url": "https://open.spotify.com/track/01Aj44KIjCrPmZeXq4UOky"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "In Blue",
+        "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
+      },
+      "artists": [
+        {
+          "name": "The Corrs",
+          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
+        }
+      ],
+      "duration_ms": 240679,
+      "name": "All the Love in the World",
+      "url": "https://open.spotify.com/track/1kDWRREI28eCvDpJvSRd9b"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 220506,
-      "name": "Daydreamer",
-      "url": "https://open.spotify.com/track/1JZkTZEXkLvkR2oQ9PSKuO"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "Westlife",
         "url": "https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 248040,
       "name": "Seasons in the Sun",
       "url": "https://open.spotify.com/track/523WUV77jFBx3fbeJTOWZ6"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 220506,
+      "name": "Daydreamer",
+      "url": "https://open.spotify.com/track/1JZkTZEXkLvkR2oQ9PSKuO"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -2431,6 +2431,26 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
+        "name": "Face To Face",
+        "url": "https://open.spotify.com/album/07sBktUc2CbnzPd8ecePWk"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        },
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 236240,
+      "name": "When You Tell Me That You Love Me (with Diana Ross)",
+      "url": "https://open.spotify.com/track/0Yg9xipP8POqZetnhGh8x6"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
         "name": "Intensive Care",
         "url": "https://open.spotify.com/album/14cUCy4aMykhZbIFTw7dtW"
       },
@@ -2459,26 +2479,6 @@
       "duration_ms": 289000,
       "name": "Spanish Guitar",
       "url": "https://open.spotify.com/track/1ieouFxB2A3JjKEt1OoEiB"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
-        "name": "Face To Face",
-        "url": "https://open.spotify.com/album/07sBktUc2CbnzPd8ecePWk"
-      },
-      "artists": [
-        {
-          "name": "Westlife",
-          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
-        },
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 236240,
-      "name": "When You Tell Me That You Love Me (with Diana Ross)",
-      "url": "https://open.spotify.com/track/0Yg9xipP8POqZetnhGh8x6"
     }
   ],
   "unique_name": "Soft 00s",

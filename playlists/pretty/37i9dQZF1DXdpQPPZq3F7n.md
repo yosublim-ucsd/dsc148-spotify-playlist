@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\. Cover \- Bhediya
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,214,867 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215,967 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 42 | [Mehrama](https://open.spotify.com/track/6cUOiOY5qh2FpIQWIYAd2h) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6IXfWhC7omotM4lt0ROmEr) | 4:09 |
 | 43 | [Dil Diyan Gallan](https://open.spotify.com/track/5MnAi6ZF7cE8pAz7wYr9Ta) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Tiger Zinda Hai](https://open.spotify.com/album/2q00VQKBQu6ZUesFREPFWc) | 4:20 |
 | 44 | [Duniyaa](https://open.spotify.com/track/14cceH4q4ME5ywqe2DbFGs) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk) | [Luka Chuppi](https://open.spotify.com/album/2PG8bWWdY7tlig5N178jfB) | 3:42 |
-| 45 | [Pehla Pyaar](https://open.spotify.com/track/0ojpEubhy4JNeVftmVuiN7) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 4:32 |
+| 45 | [Pehla Pyaar](https://open.spotify.com/track/0ojpEubhy4JNeVftmVuiN7) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 4:32 |
 | 46 | [Tere Hawaale \(From "Laal Singh Chaddha"\)](https://open.spotify.com/track/4blqlsA1uf2d2I40E90EUC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Tere Hawaale \(From "Laal Singh Chaddha"\)](https://open.spotify.com/album/1lZk7TnMgvS3mSlfeWW1b3) | 5:46 |
 | 47 | [Chale Aana](https://open.spotify.com/track/4clW7QGXTCYU5F5dTyfFJ2) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [De De Pyaar De](https://open.spotify.com/album/31lh22jsvWDf5ffgRAXaMs) | 4:31 |
 | 48 | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS) | 4:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 74 | [Tu Har Lamha \(From "Khamoshiyan"\)](https://open.spotify.com/track/13tg1zpSfWyFQbv09a9LPD) | [Bobby\-Imran](https://open.spotify.com/artist/5HgB3r11CTMckYeopesztP), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tu Har Lamha \(From "Khamoshiyan"\)](https://open.spotify.com/album/376E0BuJNLEggasPjj2MST) | 4:32 |
 | 75 | [Bekhayali](https://open.spotify.com/track/4yMbbysldl7E3WgiaugnwM) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 6:11 |
 
-Snapshot ID: `MCw5NTA3ZWU1MGM1ZTkzYWFlNGY1ZDRkNDc1ZDFlNzg1M2JhYWVkZjcy`
+Snapshot ID: `MCw4MjUyNzZiZGQ5ZDQwZTJlNDU0MzYzMmJjOTg2MTBhZGI0MDk1ZTRh`

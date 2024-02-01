@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Jooyoung\(주영\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: YUGYEOM\(유겸\)\)
 
-291 songs - 16 hr 16 min
+292 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Jimmy Choo](https://open.spotify.com/track/3gut085BLA8hSaWQU6UTaP) | [nynas](https://open.spotify.com/artist/27hEewoah5kfsSOotYHJG6) | [Jimmy Choo](https://open.spotify.com/album/4ykEEw06qDPMb6Tdsu1w2Z) | 3:17 | 2023-10-27 |  |
 | [karaoke love \(Feat\. Ugly Duck\)](https://open.spotify.com/track/6xAB0AmhaIfeGkSkVXGpJ9) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [karaoke love](https://open.spotify.com/album/1VaTPAvkL829cceEPOOrUM) | 3:33 | 2023-07-14 | 2023-11-03 |
 | [Knot](https://open.spotify.com/track/0abcdEtyIbdQGNMP9cNmPh) | [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [Knot](https://open.spotify.com/album/2kgNRya8F4X05PgYdL34o6) | 3:22 | 2022-06-09 | 2022-09-06 |
+| [LA SOL MI](https://open.spotify.com/track/6h1laUrcyGZAwSj2k1KTRY) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [LA SOL MI](https://open.spotify.com/album/04TnvhobYIlwA9SOIFMyGY) | 2:52 | 2024-02-01 |  |
 | [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 | 2022-10-05 | 2023-01-11 |
 | [LAGUNA](https://open.spotify.com/track/22owQfiAnHK01fMQ6LoIxg) | [SINDOSI:22](https://open.spotify.com/artist/7vevYh1lSMFrRhH72kFtpY) | [LAGUNA](https://open.spotify.com/album/4RlL2z1IYi7sQdFVNAiKLy) | 1:26 | 2023-10-20 |  |
 | [Last Pure Luv](https://open.spotify.com/track/6URA9fyuaEgiVyC706jElA) | [GYU HYUK](https://open.spotify.com/artist/4CR6l2Eylrakt5FBP6I7hr) | [Last Pure Luv](https://open.spotify.com/album/2W4sJVKg3dAA7DbffsoFFh) | 3:06 | 2023-01-13 | 2023-04-28 |

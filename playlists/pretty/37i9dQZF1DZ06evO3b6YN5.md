@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3b6YN5.md) - [plain]
 
 > This is Little Jesus\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,953 likes - 44 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,965 likes - 44 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3b6YN5.md) - [plain]
 | 14 | [Norte \- Bonus](https://open.spotify.com/track/0q78AOChXaZc2esoLmhSiW) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo) | 5:03 |
 | 15 | [Cine Permanencia Voluntaria](https://open.spotify.com/track/5gPXLYNb9XRFHgRfcUKiHA) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 1:34 |
 | 16 | [Mi Droga Favorita](https://open.spotify.com/track/0xVdc0ZjwBJRP3AY4ytaBP) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 2:55 |
-| 17 | [Fútbol Rock](https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Fútbol Rock](https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR) | 4:13 |
-| 18 | [Los Esclavos](https://open.spotify.com/track/3rEwX4Ag28iVs3rcp5o952) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Redes Sociales](https://open.spotify.com/album/1dTlq4zPoV7Lv2Q5ZcTKNE) | 3:10 |
+| 17 | [Los Esclavos](https://open.spotify.com/track/3rEwX4Ag28iVs3rcp5o952) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Redes Sociales](https://open.spotify.com/album/1dTlq4zPoV7Lv2Q5ZcTKNE) | 3:10 |
+| 18 | [Fútbol Rock](https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Fútbol Rock](https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR) | 4:13 |
 | 19 | [Los Años Maravillosos](https://open.spotify.com/track/1996GjeJ5X2eekrXatFiYF) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:23 |
 | 20 | [Copa del Mundo](https://open.spotify.com/track/63pqKVbcr55rwQ8QZ0NyQJ) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Copa del Mundo](https://open.spotify.com/album/1SU5CtGk3nZPssEAXHRDXr) | 4:25 |
 | 21 | [Hermoso](https://open.spotify.com/track/5PLzR95zxVYpOlpWKtaygC) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Hermoso](https://open.spotify.com/album/3sv2FSWLRDPt9xM2yw78aA) | 3:27 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3b6YN5.md) - [plain]
 | 30 | [Nuevo México](https://open.spotify.com/track/0PBHDqIm5rrlC4iln6pWsY) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 3:35 |
 | 31 | [Fatal](https://open.spotify.com/track/6I8thLNz0QxMK0pklaL6Av) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Tiene que haber algo más](https://open.spotify.com/album/5ZqvS6ksJXcWljAPsp9Slt) | 3:08 |
 | 32 | [Solo](https://open.spotify.com/track/6fsiu35EUhFHqKUP32ZMMf) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Solo](https://open.spotify.com/album/1Eq3jsx4ZmnlEmLCGZQJXm) | 4:48 |
-| 33 | [Los Ángeles, California](https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:45 |
+| 33 | [Lo que necesitas es amor](https://open.spotify.com/track/1uFjS7vaCWrw9I3CiXOMdY) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Lo que necesitas es amor](https://open.spotify.com/album/3gAOmfXsDikOZCbqIpKKIe) | 5:03 |
 | 34 | [Niña Bien](https://open.spotify.com/track/05cP5FGnPjJZ1FkrGyTOkf) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 2:01 |
-| 35 | [Lo que necesitas es amor](https://open.spotify.com/track/1uFjS7vaCWrw9I3CiXOMdY) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Lo que necesitas es amor](https://open.spotify.com/album/3gAOmfXsDikOZCbqIpKKIe) | 5:03 |
+| 35 | [Los Ángeles, California](https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:45 |
 | 36 | [Primavera 2020 \(feat\. Zoe Gotusso\)](https://open.spotify.com/track/4vCD9Xe8QYIm2Aqp1xGbbP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Primavera 2020 \(feat\. Zoe Gotusso\)](https://open.spotify.com/album/5X9qkepq82FqhDuve2Jmsp) | 4:49 |
 | 37 | [Color](https://open.spotify.com/track/515zwoNCwMBalcn4041HkQ) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:18 |
 | 38 | [Trágame Tierra](https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:26 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3b6YN5.md) - [plain]
 | 43 | [Jóvenes \- Bonus](https://open.spotify.com/track/1Del9GKHyafG0uliX83jY2) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo) | 4:21 |
 | 44 | [Tiempo \- Bonus](https://open.spotify.com/track/5gJHkrpUYFrdu59P7XCv9e) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo) | 5:30 |
 
-Snapshot ID: `Mjg0NDM2MzgsMDAwMDAwMDBhNzgyM2Q0NTFmOTRkNWU5YTA4MmI2OWFmZGI0YTE4Zg==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDBmZmY2ZDEwYzcwM2ZhNWQ1MzdiNzdiYjY5M2UyM2M4OA==`

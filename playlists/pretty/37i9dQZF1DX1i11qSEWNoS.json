@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 552057,
+  "num_followers": 552258,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjVlMWZkNzdhYzQyMWZiMzk5NmE3MjBmNzllOWRhZDM5YzExNmE1",
+  "snapshot_id": "MCw4NGVkM2Q5MGU0MTFkYzU5NTJkZTU0ZmVmMzYzZmE0MDViZDJlMWM2",
   "tracks": [
     {
       "added_at": "2024-01-26 13:05:54",
@@ -555,26 +555,6 @@
     {
       "added_at": "2024-01-26 13:05:54",
       "album": {
-        "name": "Liebe Gr\u00fcsse",
-        "url": "https://open.spotify.com/album/795oJD0ZgKdDjbKojgmswf"
-      },
-      "artists": [
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        }
-      ],
-      "duration_ms": 136988,
-      "name": "Liebe Gr\u00fcsse",
-      "url": "https://open.spotify.com/track/5qQLBOEAelSN7JWqX3RIIv"
-    },
-    {
-      "added_at": "2024-01-26 13:05:54",
-      "album": {
         "name": "Praise The Lord (Da Shine) (feat. Skepta) [Durdenhauer Edit]",
         "url": "https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 163515,
       "name": "Praise The Lord (Da Shine) (feat. Skepta) - Durdenhauer Edit",
       "url": "https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo"
+    },
+    {
+      "added_at": "2024-01-26 13:05:54",
+      "album": {
+        "name": "Liebe Gr\u00fcsse",
+        "url": "https://open.spotify.com/album/795oJD0ZgKdDjbKojgmswf"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "duration_ms": 136988,
+      "name": "Liebe Gr\u00fcsse",
+      "url": "https://open.spotify.com/track/5qQLBOEAelSN7JWqX3RIIv"
     },
     {
       "added_at": "2024-01-26 13:05:54",
@@ -639,26 +639,6 @@
     {
       "added_at": "2024-01-26 13:05:54",
       "album": {
-        "name": "TABU.",
-        "url": "https://open.spotify.com/album/6RfzTgu36z9KsBvxPKoMom"
-      },
-      "artists": [
-        {
-          "name": "Yung Yury",
-          "url": "https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz"
-        },
-        {
-          "name": "Damn Yury",
-          "url": "https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ"
-        }
-      ],
-      "duration_ms": 135302,
-      "name": "TABU.",
-      "url": "https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I"
-    },
-    {
-      "added_at": "2024-01-26 13:05:54",
-      "album": {
         "name": "I Can Feel",
         "url": "https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 173360,
       "name": "I Can Feel",
       "url": "https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR"
+    },
+    {
+      "added_at": "2024-01-26 13:05:54",
+      "album": {
+        "name": "TABU.",
+        "url": "https://open.spotify.com/album/6RfzTgu36z9KsBvxPKoMom"
+      },
+      "artists": [
+        {
+          "name": "Yung Yury",
+          "url": "https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz"
+        },
+        {
+          "name": "Damn Yury",
+          "url": "https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ"
+        }
+      ],
+      "duration_ms": 135302,
+      "name": "TABU.",
+      "url": "https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I"
     },
     {
       "added_at": "2024-01-26 13:05:54",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2024-01-26 13:05:54",
       "album": {
+        "name": "Ich nehm dich bei der Hand (SimsalaGrimm)",
+        "url": "https://open.spotify.com/album/2nP38OhbFaK5iCeGV8gEbP"
+      },
+      "artists": [
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "Beats by Luca",
+          "url": "https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs"
+        }
+      ],
+      "duration_ms": 125032,
+      "name": "Ich nehm dich bei der Hand (SimsalaGrimm)",
+      "url": "https://open.spotify.com/track/14iwJXnTuI9qdcosMEB73h"
+    },
+    {
+      "added_at": "2024-01-26 13:05:54",
+      "album": {
         "name": "LEBENSLANG (HBz Remix)",
         "url": "https://open.spotify.com/album/6tk8ZgyU3O0JpBIpqphJpq"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 112551,
       "name": "How I Fell in Love",
       "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
-    },
-    {
-      "added_at": "2024-01-26 13:05:54",
-      "album": {
-        "name": "Ich nehm dich bei der Hand (SimsalaGrimm)",
-        "url": "https://open.spotify.com/album/2nP38OhbFaK5iCeGV8gEbP"
-      },
-      "artists": [
-        {
-          "name": "Luca-Dante Spadafora",
-          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
-        },
-        {
-          "name": "Beats by Luca",
-          "url": "https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs"
-        }
-      ],
-      "duration_ms": 125032,
-      "name": "Ich nehm dich bei der Hand (SimsalaGrimm)",
-      "url": "https://open.spotify.com/track/14iwJXnTuI9qdcosMEB73h"
     },
     {
       "added_at": "2024-01-26 13:05:54",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2024-01-26 13:05:54",
       "album": {
-        "name": "Zelten auf Kies",
-        "url": "https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY"
-      },
-      "artists": [
-        {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        },
-        {
-          "name": "treamiboii",
-          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
-        }
-      ],
-      "duration_ms": 137837,
-      "name": "Zelten auf Kies",
-      "url": "https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr"
-    },
-    {
-      "added_at": "2024-01-26 13:05:54",
-      "album": {
         "name": "Unendlichkeit (Remix)",
         "url": "https://open.spotify.com/album/0YbUsjOo1ElaU4MmKpzN9o"
       },
@@ -1219,22 +1199,6 @@
     {
       "added_at": "2024-01-26 13:05:54",
       "album": {
-        "name": "denk mal dr\u00fcber nach...",
-        "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
-      },
-      "artists": [
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        }
-      ],
-      "duration_ms": 147960,
-      "name": "MAXIMUM RIZZ",
-      "url": "https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW"
-    },
-    {
-      "added_at": "2024-01-26 13:05:54",
-      "album": {
         "name": "The Way I Are (Techno Remix)",
         "url": "https://open.spotify.com/album/0fPS05JQwPESOcZGcS0Qqk"
       },
@@ -1251,6 +1215,42 @@
       "duration_ms": 146000,
       "name": "The Way I Are - Techno Remix",
       "url": "https://open.spotify.com/track/2HaHE0atvHTRKvIzrAnUCD"
+    },
+    {
+      "added_at": "2024-01-26 13:05:54",
+      "album": {
+        "name": "Zelten auf Kies",
+        "url": "https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "duration_ms": 137837,
+      "name": "Zelten auf Kies",
+      "url": "https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr"
+    },
+    {
+      "added_at": "2024-01-26 13:05:54",
+      "album": {
+        "name": "denk mal dr\u00fcber nach...",
+        "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "duration_ms": 147960,
+      "name": "MAXIMUM RIZZ",
+      "url": "https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW"
     },
     {
       "added_at": "2024-01-26 13:05:54",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-01-26 13:05:54",
       "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 147680,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz"
+    },
+    {
+      "added_at": "2024-01-26 13:05:54",
+      "album": {
         "name": "Anders",
         "url": "https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 155020,
       "name": "Anders",
       "url": "https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5"
-    },
-    {
-      "added_at": "2024-01-26 13:05:54",
-      "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 147680,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz"
     },
     {
       "added_at": "2024-01-26 13:05:54",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2024-01-26 13:05:54",
       "album": {
-        "name": "Thank You (Not So Bad)",
-        "url": "https://open.spotify.com/album/3SmoOc6Jcej35ioy9xpB7j"
-      },
-      "artists": [
-        {
-          "name": "RobxDan",
-          "url": "https://open.spotify.com/artist/3LCCYKMCRF8ckGSHbhVS01"
-        },
-        {
-          "name": "Consilium",
-          "url": "https://open.spotify.com/artist/6qNTW3XIYFh6xV9V6Ymcgo"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Thank You (Not So Bad)",
-      "url": "https://open.spotify.com/track/6a39HPcHKbPD536syYsRra"
-    },
-    {
-      "added_at": "2024-01-26 13:05:54",
-      "album": {
         "name": "KETA UND KRAWALL",
         "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
       },
@@ -1663,22 +1643,6 @@
       "duration_ms": 125492,
       "name": "KETA UND KRAWALL",
       "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
-    },
-    {
-      "added_at": "2024-01-26 13:05:54",
-      "album": {
-        "name": "Another Love",
-        "url": "https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt"
-      },
-      "artists": [
-        {
-          "name": "OsTEKKe",
-          "url": "https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA"
-        }
-      ],
-      "duration_ms": 145676,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2"
     },
     {
       "added_at": "2024-01-26 13:05:54",
@@ -1703,6 +1667,22 @@
     {
       "added_at": "2024-01-26 13:05:54",
       "album": {
+        "name": "Another Love",
+        "url": "https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt"
+      },
+      "artists": [
+        {
+          "name": "OsTEKKe",
+          "url": "https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA"
+        }
+      ],
+      "duration_ms": 145676,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2"
+    },
+    {
+      "added_at": "2024-01-26 13:05:54",
+      "album": {
         "name": "VAMOS",
         "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
       },
@@ -1723,6 +1703,22 @@
     {
       "added_at": "2024-01-26 13:05:54",
       "album": {
+        "name": "All The Things She Said (Teaboy Flip)",
+        "url": "https://open.spotify.com/album/69vWxMtXxJsbB4AXP4NFEe"
+      },
+      "artists": [
+        {
+          "name": "TEABOY",
+          "url": "https://open.spotify.com/artist/5iGDVVnLBTuVlgZRQd7L1x"
+        }
+      ],
+      "duration_ms": 164327,
+      "name": "All The Things She Said - Teaboy Flip",
+      "url": "https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J"
+    },
+    {
+      "added_at": "2024-01-26 13:05:54",
+      "album": {
         "name": "Schmetterling",
         "url": "https://open.spotify.com/album/18LPHcIbr5G6oFx9Mf3lU3"
       },
@@ -1739,18 +1735,22 @@
     {
       "added_at": "2024-01-26 13:05:54",
       "album": {
-        "name": "All The Things She Said (Teaboy Flip)",
-        "url": "https://open.spotify.com/album/69vWxMtXxJsbB4AXP4NFEe"
+        "name": "Thank You (Not So Bad)",
+        "url": "https://open.spotify.com/album/3SmoOc6Jcej35ioy9xpB7j"
       },
       "artists": [
         {
-          "name": "TEABOY",
-          "url": "https://open.spotify.com/artist/5iGDVVnLBTuVlgZRQd7L1x"
+          "name": "RobxDan",
+          "url": "https://open.spotify.com/artist/3LCCYKMCRF8ckGSHbhVS01"
+        },
+        {
+          "name": "Consilium",
+          "url": "https://open.spotify.com/artist/6qNTW3XIYFh6xV9V6Ymcgo"
         }
       ],
-      "duration_ms": 164327,
-      "name": "All The Things She Said - Teaboy Flip",
-      "url": "https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J"
+      "duration_ms": 148965,
+      "name": "Thank You (Not So Bad)",
+      "url": "https://open.spotify.com/track/6a39HPcHKbPD536syYsRra"
     },
     {
       "added_at": "2024-01-26 13:05:54",

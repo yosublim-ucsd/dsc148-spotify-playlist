@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-112 songs - 7 hr 58 min
+113 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Lion](https://open.spotify.com/track/1ux8Y96cV5Qs0kdOCq4cZ2) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6), [Megumi Nakajima](https://open.spotify.com/artist/26ZuiIbHV0OGNX3EYsYeES) | [MACROSS FRONTIER Opening Theme Lion](https://open.spotify.com/album/36hcAxhOV7yBUdRquz4hj0) | 5:03 | 2022-07-06 |  |
 | [Love Destiny](https://open.spotify.com/track/14GCPjb7YH4BDvhF0DrvV5) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [Love Destiny](https://open.spotify.com/album/09wFdGA9QATYbr1yBH7YEL) | 4:33 | 2021-09-14 |  |
 | [MAJI DE KANSHA!](https://open.spotify.com/track/7fNIWITkFbwDZXLJsvlMcK) | [T\-Pistonz+KMC](https://open.spotify.com/artist/49bcuetvIVHNo5ARCZmR2k) | [GANBARIYO!](https://open.spotify.com/album/0Fw8zPzz10quVBw8tL2oZq) | 5:25 | 2023-09-29 |  |
+| [Motteke! Sailor Fuku](https://open.spotify.com/track/5Sg6CkwSkxByWyODIw0q5Y) | [Konata Izumi \(CV: Aya Hirano\)](https://open.spotify.com/artist/6iKqcqxRfV6U2GEUmv8CpO), [Kagami Hiiragi \(CV: Emiri Kato\)](https://open.spotify.com/artist/5fvbPC8rqrkz1VsqLqRx0D), [Tsukasa Hiiragi \(CV: Kaori Fukuhara\)](https://open.spotify.com/artist/5J8HJhja1Yop5ZDTQqRafw), [Miyuki Takara \(CV: Aya Endo\)](https://open.spotify.com/artist/7HNz2eAmvR2X7bGuHrBgpw) | [Motteke! Sailor Fuku](https://open.spotify.com/album/3VEAlxkmR2eYNJsuoB9J1x) | 4:14 | 2024-01-31 |  |
 | [Mysterious Eyes](https://open.spotify.com/track/3xtFrBrX6yuS1pNPVGufwO) | [GARNET CROW](https://open.spotify.com/artist/6vJEQqtEx2VB8clDzhyhvC) | [THE BEST History of GARNET CROW at the crest...](https://open.spotify.com/album/3e3NS2L4bziOWpIMvnRE3R) | 4:28 | 2021-09-14 |  |
 | [only my railgun](https://open.spotify.com/track/0djCH6HbCN3cFzNkKd46yv) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [only my railgun](https://open.spotify.com/album/6oxGBR7M0cQ3IhQMJrMRVl) | 4:17 | 2021-09-14 |  |
 | [Over Soul](https://open.spotify.com/track/3uIdLQXUeYAPI1DMQXbdpk) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [Over Soul](https://open.spotify.com/album/1pZ7Ubh11m5xzgXIP6ZrWk) | 3:53 | 2021-09-14 |  |
@@ -80,7 +81,7 @@
 | [ブルーバード](https://open.spotify.com/track/5XKMGlkK6Rvro9sinQpxxZ) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [いきものばかり〜メンバーズBESTセレクション〜](https://open.spotify.com/album/4cmwCfGQ5SMNJnEL4dKB2B) | 3:35 | 2022-07-06 | 2022-11-13 |
 | [ブルーバード](https://open.spotify.com/track/7LY0Mdsj2esWkuO98LEAPl) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [My song Your song](https://open.spotify.com/album/2AOTzestyJAx9xheLCrGnm) | 3:38 | 2021-09-14 | 2022-07-29 |
 | [プリズム](https://open.spotify.com/track/4U3iM1vDPsfBsp7W0vMpmM) | [Ayako Ikeda](https://open.spotify.com/artist/5JNDexaGyXylLDla0vmbtf) | [プリズム / 空の欠片](https://open.spotify.com/album/6E6Dm5STitfxwFnXnSEjoB) | 4:04 | 2021-09-14 | 2022-07-29 |
-| [プリズム](https://open.spotify.com/track/7IMoiKwhGgECXyV9DvHImQ) | [Ayako Ikeda](https://open.spotify.com/artist/5JNDexaGyXylLDla0vmbtf) | [プリズム / 空の欠片](https://open.spotify.com/album/7796xTdWXoOllKCZagQZPV) | 4:04 | 2022-07-06 |  |
+| [プリズム](https://open.spotify.com/track/7IMoiKwhGgECXyV9DvHImQ) | [Ayako Ikeda](https://open.spotify.com/artist/5JNDexaGyXylLDla0vmbtf) | [プリズム / 空の欠片](https://open.spotify.com/album/7796xTdWXoOllKCZagQZPV) | 4:04 | 2022-07-06 | 2024-02-01 |
 | [プレパレード](https://open.spotify.com/track/0XT65K4AnBTrjq9x32aj8v) | [逢坂大河\(釘宮理恵\)](https://open.spotify.com/artist/4i10xM25xPTHoaXMfVhZLh), [櫛枝実乃梨\(堀江由衣\)](https://open.spotify.com/artist/77Qvx17FzuZhak8dkrLoFb), [川嶋亜美\(喜多村英梨\)](https://open.spotify.com/artist/6aUvRGqbBNYkURzbYpvqI4) | [プレパレード](https://open.spotify.com/album/6FxxSB5XVY3I4JAtWllal3) | 3:24 | 2021-09-14 | 2022-07-07 |
 | [メリッサ](https://open.spotify.com/track/7J9QfNrQayqF0BAb7qn1oi) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [メリッサ](https://open.spotify.com/album/2mKcF7RxgHJxxhGorRNF6t) | 4:33 | 2021-09-14 | 2022-07-29 |
 | [メリッサ](https://open.spotify.com/track/7E79sVpzdsrrRNcofN0rmK) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [PORNOGRAFFITTI 15th Anniversary “ALL TIME SINGLES”](https://open.spotify.com/album/6Xp9KpYyts9Oowyyu7YVVj) | 4:34 | 2022-07-06 | 2022-11-14 |

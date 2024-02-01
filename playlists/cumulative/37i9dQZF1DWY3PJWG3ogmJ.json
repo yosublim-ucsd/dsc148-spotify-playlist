@@ -2814,7 +2814,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 249901,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6II9b4hQFTqgtUXR7eYCt9"
@@ -4376,6 +4376,24 @@
       "duration_ms": 141431,
       "name": "Ultimate Annihilation",
       "url": "https://open.spotify.com/track/3JzGKp1MT4d72Q2S7S9Udz"
+    },
+    {
+      "album": {
+        "name": "Ultimate Annihilation",
+        "url": "https://open.spotify.com/album/0c52tQwYwDQh3dbmx4teFV"
+      },
+      "artists": [
+        {
+          "name": "Suburban Scum",
+          "url": "https://open.spotify.com/artist/4PX5P76qLDOsy7XcouV7gy"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141431,
+      "name": "Ultimate Annihilation",
+      "url": "https://open.spotify.com/track/6BLUdAwlEmU5sfwfacFtYr"
     },
     {
       "album": {

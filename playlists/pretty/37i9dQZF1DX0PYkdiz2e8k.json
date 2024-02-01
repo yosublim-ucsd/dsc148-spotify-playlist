@@ -1,12 +1,12 @@
 {
   "description": "Hated is out! Foto: YUNGBLUD",
-  "num_followers": 68366,
+  "num_followers": 68371,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGYxY2IzNTIwMjA4OTI5YzllNGIzZGMyZGEwZDQ2YzM4ZTA3YTVm",
+  "snapshot_id": "MCxlMDlmMTg3M2Y5NGQ3NTc2NTcwMzZlYjRmYWU2NDMzODUzNDM5YTUx",
   "tracks": [
     {
       "added_at": "2024-01-26 03:01:00",
@@ -303,18 +303,22 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Lowlife",
-        "url": "https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E"
+        "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A"
       },
       "artists": [
         {
           "name": "YUNGBLUD",
           "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         }
       ],
-      "duration_ms": 233626,
-      "name": "Lowlife",
-      "url": "https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z"
+      "duration_ms": 300213,
+      "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -387,22 +391,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Take Me With You",
-        "url": "https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 197320,
-      "name": "Take Me With You",
-      "url": "https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "BLINK AND YOU'LL MISS IT//",
         "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
       },
@@ -423,22 +411,34 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
-        "url": "https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A"
+        "name": "Take Me With You",
+        "url": "https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 197320,
+      "name": "Take Me With You",
+      "url": "https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "Lowlife",
+        "url": "https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E"
       },
       "artists": [
         {
           "name": "YUNGBLUD",
           "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         }
       ],
-      "duration_ms": 300213,
-      "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH"
+      "duration_ms": 233626,
+      "name": "Lowlife",
+      "url": "https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
+        "name": "SANCTUARY",
+        "url": "https://open.spotify.com/album/2puYP5GNAu26hWrgPXLfIl"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "duration_ms": 174852,
+      "name": "SANCTUARY",
+      "url": "https://open.spotify.com/track/0af0p0VLe82vqCVC8YFCMk"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
         "name": "under (feat. phem)",
         "url": "https://open.spotify.com/album/2zt2K0CSSWvSRAwVod6nHM"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 137926,
       "name": "under (feat. phem)",
       "url": "https://open.spotify.com/track/3DJ0kDrc9nE4cy92xx0cxD"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
-        "name": "SANCTUARY",
-        "url": "https://open.spotify.com/album/2puYP5GNAu26hWrgPXLfIl"
-      },
-      "artists": [
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        }
-      ],
-      "duration_ms": 174852,
-      "name": "SANCTUARY",
-      "url": "https://open.spotify.com/track/0af0p0VLe82vqCVC8YFCMk"
     },
     {
       "added_at": "2024-01-26 03:01:00",

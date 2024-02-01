@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": ".45",
+        "url": "https://open.spotify.com/album/6vG52FnBHzc61469A3yiBs"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160529,
+      "name": ".45",
+      "url": "https://open.spotify.com/track/4mym4dNc5XPEAXP7Orzq18"
+    },
+    {
+      "album": {
         "name": "100 Million",
         "url": "https://open.spotify.com/album/0DRD7GdJQNalHpKaLhM871"
       },
@@ -2276,7 +2294,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 140069,
       "name": "Hussan Illahi",
       "url": "https://open.spotify.com/track/3yIRuz28iurD1uJ2ND1R8S"

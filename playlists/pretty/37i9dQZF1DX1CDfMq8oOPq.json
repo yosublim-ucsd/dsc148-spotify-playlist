@@ -1,12 +1,12 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: LAI$ROSA",
-  "num_followers": 47262,
+  "num_followers": 47284,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWNhMmVhZTVjYzA5ZGUyMjc5OTgzZWQ2MDEwYzk1NzExNDQwYjc0",
+  "snapshot_id": "MCwxNTI0MTY3ZGRlYmNiNmIyNDljYzBiNzliYmRkMmJhMzYzMDEzZWRm",
   "tracks": [
     {
       "added_at": "2024-01-26 19:08:59",
@@ -51,22 +51,6 @@
     {
       "added_at": "2024-01-26 19:08:59",
       "album": {
-        "name": "Atlanta - Spotify Singles",
-        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 121031,
-      "name": "Atlanta - Spotify Singles",
-      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
-    },
-    {
-      "added_at": "2024-01-26 19:08:59",
-      "album": {
         "name": "Para Todos os Garotos que j\u00e1 Mamei",
         "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 177230,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
+    },
+    {
+      "added_at": "2024-01-26 19:08:59",
+      "album": {
+        "name": "Atlanta - Spotify Singles",
+        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 121031,
+      "name": "Atlanta - Spotify Singles",
+      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
     },
     {
       "added_at": "2024-01-26 19:08:59",
@@ -231,22 +231,22 @@
     {
       "added_at": "2024-01-26 19:08:59",
       "album": {
-        "name": "AJU",
-        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
+        "name": "Primeiro de Maio (Gostosas Inteligentes)",
+        "url": "https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt"
       },
       "artists": [
         {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
         },
         {
-          "name": "Dj Victor",
-          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
+          "name": "THS",
+          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
         }
       ],
-      "duration_ms": 190722,
-      "name": "Homens Como Voc\u00ea",
-      "url": "https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj"
+      "duration_ms": 130369,
+      "name": "Primeiro de Maio (Gostosas Inteligentes)",
+      "url": "https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny"
     },
     {
       "added_at": "2024-01-26 19:08:59",
@@ -271,22 +271,22 @@
     {
       "added_at": "2024-01-26 19:08:59",
       "album": {
-        "name": "Primeiro de Maio (Gostosas Inteligentes)",
-        "url": "https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt"
+        "name": "AJU",
+        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
       },
       "artists": [
         {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
-          "name": "THS",
-          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
+          "name": "Dj Victor",
+          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
         }
       ],
-      "duration_ms": 130369,
-      "name": "Primeiro de Maio (Gostosas Inteligentes)",
-      "url": "https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny"
+      "duration_ms": 190722,
+      "name": "Homens Como Voc\u00ea",
+      "url": "https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj"
     },
     {
       "added_at": "2024-01-26 19:08:59",
@@ -447,6 +447,26 @@
     {
       "added_at": "2024-01-26 19:08:59",
       "album": {
+        "name": "TAURUS/ \u00daNICA",
+        "url": "https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "THS",
+          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
+        }
+      ],
+      "duration_ms": 126226,
+      "name": "Taurus",
+      "url": "https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX"
+    },
+    {
+      "added_at": "2024-01-26 19:08:59",
+      "album": {
         "name": "ELAS PINTAM",
         "url": "https://open.spotify.com/album/7ehwNnbvptTziab8QZkXV7"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 194020,
       "name": "ELAS PINTAM",
       "url": "https://open.spotify.com/track/3HzDmhzi7LNVSb0VjTi0il"
-    },
-    {
-      "added_at": "2024-01-26 19:08:59",
-      "album": {
-        "name": "TAURUS/ \u00daNICA",
-        "url": "https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "THS",
-          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
-        }
-      ],
-      "duration_ms": 126226,
-      "name": "Taurus",
-      "url": "https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX"
     },
     {
       "added_at": "2024-01-26 19:08:59",

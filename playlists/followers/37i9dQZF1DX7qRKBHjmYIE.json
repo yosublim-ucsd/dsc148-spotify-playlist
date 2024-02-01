@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 752839,
+  "2024-02-01": 752711,
   "date_first_scraped": "2021-12-30",
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Junior Zamora.",
   "name": "Mixto",
@@ -937,7 +937,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 202359,
       "name": "Barbed Wire",
       "url": "https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm"
@@ -9805,6 +9805,28 @@
       "duration_ms": 247196,
       "name": "San Lucas",
       "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
+    },
+    {
+      "album": {
+        "name": "Saturno",
+        "url": "https://open.spotify.com/album/5r0C5WR4fPFwF7vo2sSmp6"
+      },
+      "artists": [
+        {
+          "name": "Bumont",
+          "url": "https://open.spotify.com/artist/2EYra2dvqBI9KNMQsb0RTa"
+        },
+        {
+          "name": "Tita",
+          "url": "https://open.spotify.com/artist/5VUc3B1hoBWWwodjRD8JHp"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220327,
+      "name": "Saturno",
+      "url": "https://open.spotify.com/track/6WVyM0YxzmCKcsd5I0yXqV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Andr
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,043 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,046 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 49 | [Right Here Right Now](https://open.spotify.com/track/7mHahJViSbDSyj2UcxvNFl) | [Lukas MAX](https://open.spotify.com/artist/4wT5Qb0wFcb2G0K0iQUnHG), [PuFFcorn](https://open.spotify.com/artist/75AWJxPcyXS5Qu2gjcbcLE) | [Right Here Right Now](https://open.spotify.com/album/6BVySNnOxduh2tm6DQwe2i) | 2:46 |
 | 50 | [To The Beat](https://open.spotify.com/track/1VdJthDXiTGmex8NA0SUtX) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [To The Beat](https://open.spotify.com/album/2ytVZwLicJi3ZudO9FYPYJ) | 2:34 |
 
-Snapshot ID: `MCwzYjE3ZGZlN2Q1YzIyNWM3NTJlNjdkNGRkMTlmMTRkN2JlNTJlMTM2`
+Snapshot ID: `MCxjMDkwODAyNjQ3Yjg3NmNjYTRkM2I5NzgzZTNhNWE1Mzc0ZDhlODI4`

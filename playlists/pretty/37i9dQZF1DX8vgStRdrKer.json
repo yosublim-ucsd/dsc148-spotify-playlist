@@ -1,12 +1,12 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s?si=BWbKg03qSfmmppEGaW-ArQ\">Joepraize</a>",
-  "num_followers": 4494,
+  "num_followers": 4535,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjU1MDdmNDYyNDhkMzk5YjI5OWEzYzY5ZmEwOWM5NDZjZmJiMDMx",
+  "snapshot_id": "MCxlNzViMTJlZjg0NWJjMDRhNGJkNDdkNzg3MTYyODBkMTcyOTQ0ZmQx",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -543,26 +543,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "HALLELUJAH LIVE",
-        "url": "https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "VICTORIA ORENZE",
-          "url": "https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w"
-        }
-      ],
-      "duration_ms": 511197,
-      "name": "Ebenezer - Live",
-      "url": "https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Cornerstone (Live)",
         "url": "https://open.spotify.com/album/6dG4VcAdbKyhBmfunMitx8"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 346346,
       "name": "I Surrender - Live",
       "url": "https://open.spotify.com/track/1urrG04mC0IopJD7vpKiiW"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "HALLELUJAH LIVE",
+        "url": "https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "VICTORIA ORENZE",
+          "url": "https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w"
+        }
+      ],
+      "duration_ms": 511197,
+      "name": "Ebenezer - Live",
+      "url": "https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -691,22 +691,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "This God Is Too Good",
-        "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
+        "name": "Fragrance (feat. GGTQ All Stars)",
+        "url": "https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p"
       },
       "artists": [
         {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+          "name": "Esther Oji",
+          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
         },
         {
-          "name": "Chigozie Achugo",
-          "url": "https://open.spotify.com/artist/40u8FYYf1XkK3LZQaIe9ko"
+          "name": "GGTQ All Stars",
+          "url": "https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS"
         }
       ],
-      "duration_ms": 271438,
-      "name": "You Are God (feat. Chigozie Achugo)",
-      "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"
+      "duration_ms": 267337,
+      "name": "Fragrance (feat. GGTQ All Stars)",
+      "url": "https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -727,22 +727,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Fragrance (feat. GGTQ All Stars)",
-        "url": "https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p"
+        "name": "This God Is Too Good",
+        "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
       },
       "artists": [
         {
-          "name": "Esther Oji",
-          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
         },
         {
-          "name": "GGTQ All Stars",
-          "url": "https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS"
+          "name": "Chigozie Achugo",
+          "url": "https://open.spotify.com/artist/40u8FYYf1XkK3LZQaIe9ko"
         }
       ],
-      "duration_ms": 267337,
-      "name": "Fragrance (feat. GGTQ All Stars)",
-      "url": "https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO"
+      "duration_ms": 271438,
+      "name": "You Are God (feat. Chigozie Achugo)",
+      "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -791,30 +791,6 @@
       "duration_ms": 192029,
       "name": "Carry me like Baby",
       "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Iba",
-        "url": "https://open.spotify.com/album/3bdmsRx4jXf9I2w4x5lY3d"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
-        {
-          "name": "Dasola Akinbule",
-          "url": "https://open.spotify.com/artist/5HCuA4YozzSyHhEPmbYoy6"
-        }
-      ],
-      "duration_ms": 625166,
-      "name": "Iba",
-      "url": "https://open.spotify.com/track/0EWnPlQCVV2fTp0EGvLnjY"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -875,6 +851,30 @@
       "duration_ms": 252048,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/3RWGw0Q3JA9gYtBcor4UQy"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Iba",
+        "url": "https://open.spotify.com/album/3bdmsRx4jXf9I2w4x5lY3d"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Dasola Akinbule",
+          "url": "https://open.spotify.com/artist/5HCuA4YozzSyHhEPmbYoy6"
+        }
+      ],
+      "duration_ms": 625166,
+      "name": "Iba",
+      "url": "https://open.spotify.com/track/0EWnPlQCVV2fTp0EGvLnjY"
     },
     {
       "added_at": "2023-12-01 00:01:00",

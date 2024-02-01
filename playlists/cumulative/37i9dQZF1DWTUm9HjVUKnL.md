@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-1,153 songs - 2 day 22 hr 15 min
+1,155 songs - 2 day 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [C'est La Vie No.2 \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0XrjzAczxJw7MnEsJ0jIUI) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Spotify Singles](https://open.spotify.com/album/3Frbqi5ATPYTb4Kh7UBDn4) | 3:34 | 2022-07-05 |  |
 | [C'est La Vie No.2 \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7DRaGgNHhD9ajdYtZ7Muxp) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Spotify Singles](https://open.spotify.com/album/26f6iHa9lvKe4T2VqvFyzo) | 3:34 | 2022-01-19 | 2022-07-29 |
 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 | 2022-01-19 |  |
+| [Can You Believe](https://open.spotify.com/track/2DEbufzHZ6fm29NDaRoKKH) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:03 | 2024-01-31 |  |
 | [Candlelight \- Spotify Singles](https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Spotify Singles](https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df) | 3:21 | 2023-07-25 |  |
 | [Cantaloupe Island \- Spotify Singles](https://open.spotify.com/track/35Up1VtzDnwdBleWKlDKxO) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Spotify Singles](https://open.spotify.com/album/1EdtxyWMoFkoWAE2g7gd5T) | 2:01 | 2022-05-04 |  |
 | [Can’t Let Go, Juno \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0JCAkoJtmFbZFhtBoFj5SL) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Spotify Singles](https://open.spotify.com/album/6dapn7qrubEtLbB8ZnU6Xw) | 4:21 | 2022-01-19 | 2022-07-29 |
@@ -166,6 +167,7 @@
 | [Castle On The Hill \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Spotify Singles](https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3) | 4:15 | 2022-01-19 |  |
 | [Castle on the Hill \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 3:45 | 2022-01-19 |  |
 | [ceilings \- Spotify Singles](https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 2:44 | 2023-04-21 |  |
+| [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 | 2024-01-31 |  |
 | [Change \(In The House Of Flies\) \- Recorded at Abbey Road Studios, London](https://open.spotify.com/track/0DFMMdvzwHhvTXVQs26mA0) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Spotify Singles](https://open.spotify.com/album/2jPjaTdyhWQ3dEa7NQXJui) | 4:55 | 2022-01-19 |  |
 | [Changes \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/6cPWdRFnrKtQPzc4h9Olaz) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Spotify Singles](https://open.spotify.com/album/6gj7iXOB1pGIaTASfjZYMT) | 4:45 | 2022-01-19 |  |
 | [Charity \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5tKnchisFlUbdp033DgS6K) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS) | 4:01 | 2022-01-19 |  |

@@ -4,7 +4,7 @@
 
 > This is yama\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 15 min
+54 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [a.m.3:21 \-the meaning of life TOUR 2022 Live at Zepp DiverCity\-](https://open.spotify.com/track/7tdW9EEgXjfhA4b7G7p2LR) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life TOUR 2022 Live at Zepp DiverCity](https://open.spotify.com/album/6ocPyc0EaM7FvPnWxm192L) | 3:31 | 2023-12-26 |  |
 | [D\(evil\) feat\. yama](https://open.spotify.com/track/64taNX9xrRu6cYf0a0v72w) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [25](https://open.spotify.com/album/2XskQcykcw8kEH6xkDjUkO) | 2:41 | 2023-12-26 |  |
 | [Downtown](https://open.spotify.com/track/3nQ0KEIfiXpO7CaawPcMrL) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Downtown](https://open.spotify.com/album/2rbYW032hNHIaUuVfMSnMD) | 3:28 | 2023-12-26 |  |
-| [Grown](https://open.spotify.com/track/31c9Tq85Z69RuBp7RSYBgy) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [空音](https://open.spotify.com/artist/3rTxb36W3M1BCxx00iiwMU), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Reconnect / Grown](https://open.spotify.com/album/1ClCtBUepPqdue5we1Mrnj) | 2:55 | 2023-12-26 |  |
+| [Grown](https://open.spotify.com/track/31c9Tq85Z69RuBp7RSYBgy) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [空音](https://open.spotify.com/artist/3rTxb36W3M1BCxx00iiwMU), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Reconnect / Grown](https://open.spotify.com/album/1ClCtBUepPqdue5we1Mrnj) | 2:55 | 2023-12-26 | 2024-02-01 |
 | [Lost](https://open.spotify.com/track/3sz0hi6mkqq0hfRMN8RGrs) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 4:05 | 2023-12-26 |  |
 | [MoonWalker](https://open.spotify.com/track/6pjEIAEvpZ9nl6Hjuyv3Mv) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 3:34 | 2023-12-26 |  |
 | [MoonWalker \-the meaning of life TOUR 2022 Live at Zepp DiverCity\-](https://open.spotify.com/track/4gA7UFHiZXdM7J8puV75NR) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life TOUR 2022 Live at Zepp DiverCity](https://open.spotify.com/album/6ocPyc0EaM7FvPnWxm192L) | 3:27 | 2023-12-26 | 2024-01-28 |
@@ -50,6 +50,7 @@
 | [愛を解く](https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9) | 3:01 | 2023-12-26 |  |
 | [憧れのままに](https://open.spotify.com/track/7LXjgEPK0QDh2yAZDRwVTs) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [憧れのままに](https://open.spotify.com/album/7xaN3BvO06dYFJywAwgZDe) | 3:24 | 2023-12-26 |  |
 | [新星](https://open.spotify.com/track/4dwRjaD0ttkelpv5eoE6RT) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9) | 3:16 | 2023-12-26 |  |
+| [日々](https://open.spotify.com/track/6jyICrPc6z8U3boQyQdPoE) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:21 | 2024-01-31 |  |
 | [春を告げる](https://open.spotify.com/track/2Gmyw5Vg2X5YW2lM3OC7nD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる](https://open.spotify.com/album/1B4Ka4FOargLNxmbNch7xv) | 3:16 | 2023-12-26 |  |
 | [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/track/0QDjYBER1ZqISxA2Gc0cJe) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/album/61OTGf8KiylPy39lihGoUs) | 5:00 | 2023-12-26 |  |
 | [桃源郷](https://open.spotify.com/track/3XpV0yCZRizTsCMEIkxZVm) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [桃源郷](https://open.spotify.com/album/6aO1Ot1JoA9TPH73qX7ejE) | 3:48 | 2023-12-26 |  |

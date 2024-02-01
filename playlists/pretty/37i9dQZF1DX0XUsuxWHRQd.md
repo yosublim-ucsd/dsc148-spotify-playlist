@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > Music from Drake, 21 Savage, Kid Cudi and Travis Scott.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,623,371 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,626,942 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 |
 | 50 | [Guitar In My Room \(with Lil Durk & Kid Cudi\)](https://open.spotify.com/track/4LPIwB4gtPzuB0YKHjOldj) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Guitar In My Room](https://open.spotify.com/album/2BgCZFN0tmSrb2deTawr5h) | 3:47 |
 
-Snapshot ID: `MCwzNjg4ZWVmZDg0ZDZiNjBiYWFmMmQyY2U3ZTQ2YTEwODlhN2VkZTQ4`
+Snapshot ID: `MCw4YjNiMDBjNzFkMWQ5MTA4OTMyMTlkYTE5MjQxMTRiNjZiZDlmMzdi`

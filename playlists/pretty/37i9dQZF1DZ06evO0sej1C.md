@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,526 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,544 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 49 | [Lo Que Quedó](https://open.spotify.com/track/30Sn828wzCRX4ateJdo8hS) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Lo Que Quedó](https://open.spotify.com/album/4h69km8MmjfhpDEBXRnxhc) | 3:27 |
 | 50 | [Vas a Volver](https://open.spotify.com/track/5A6ALVribfvYq8yUv97mlp) | [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Vas a Volver](https://open.spotify.com/album/7Dc3OsO2OyxVWcG0G6YdQF) | 3:23 |
 
-Snapshot ID: `Mjg0NDM2MzgsMDAwMDAwMDBmZjEzNzBkOGMzYTNhMTUyNzc3MTMxMjdjZTA2YjYyOQ==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDAxYzIxN2U2ZGIxZDc2NGY1ZDg1Y2JhNWNmM2VlMzMxMg==`

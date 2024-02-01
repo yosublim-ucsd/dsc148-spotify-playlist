@@ -4,7 +4,7 @@
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Hozier
 
-356 songs - 21 hr 40 min
+357 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,8 @@
 | [Might Be Right](https://open.spotify.com/track/5YTDnlr6qzl0XIGCqHP7sx) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [You Deserve Love](https://open.spotify.com/album/2hzRKcoWZUPY5M1qMrgtmR) | 3:57 | 2021-01-29 | 2022-04-23 |
 | [Miles And Miles \- Single Version](https://open.spotify.com/track/6xG16hC00oaRLRIY28PnGr) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 3:40 | 2022-07-01 |  |
 | [Minotaur](https://open.spotify.com/track/0JPVY47L4Dwi0kjbVbEO6a) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Minotaur](https://open.spotify.com/album/7dHYk2N7AgCFh1eAfHpGlz) | 4:38 | 2022-01-14 | 2022-02-12 |
-| [Mint Julep](https://open.spotify.com/track/3FN1OsdkfS1ruQrgAWMnOK) | [Mac Saturn](https://open.spotify.com/artist/1mhQaaVp2t1WobfIADrcd2) | [Sleep](https://open.spotify.com/album/0pTEROc8U5z9tUn2UvRnuv) | 3:29 | 2023-12-08 |  |
+| [Mint Julep](https://open.spotify.com/track/0izRR8T2RxE2BVyqcgv94U) | [Mac Saturn](https://open.spotify.com/artist/1mhQaaVp2t1WobfIADrcd2) | [Hard to Sell](https://open.spotify.com/album/59NwDI1b2txt6J8EQHlNR0) | 3:29 | 2024-01-12 |  |
+| [Mint Julep](https://open.spotify.com/track/3FN1OsdkfS1ruQrgAWMnOK) | [Mac Saturn](https://open.spotify.com/artist/1mhQaaVp2t1WobfIADrcd2) | [Sleep](https://open.spotify.com/album/0pTEROc8U5z9tUn2UvRnuv) | 3:29 | 2023-12-08 | 2024-02-01 |
 | [Missed Connection](https://open.spotify.com/track/6cG99KcHVOlmQOiYcu6cjb) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Missed Connection](https://open.spotify.com/album/0loOZXQoeYJ1IF7sjMCv56) | 3:15 | 2021-01-29 | 2022-01-22 |
 | [Mistakes](https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [We've Been Going About This All Wrong](https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr) | 3:59 | 2022-05-25 |  |
 | [Monsters](https://open.spotify.com/track/09rfu2MDFDESVeAMlKMaCf) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM) | 3:33 | 2023-06-09 |  |

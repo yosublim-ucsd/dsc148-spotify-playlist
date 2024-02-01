@@ -1,12 +1,12 @@
 {
   "description": "Calm Down with this chilled out playlist. For when it's time to just sit and bask in the afterglow.",
-  "num_followers": 557006,
+  "num_followers": 556935,
   "original_name": "Calm Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWE4ZmQyYzlmNGIxOWZhNGU3NDczOGQ0OWYzYWU1MzI1Zjk0YThl",
+  "snapshot_id": "MCxhMmJjMTVjZmU3NTg5NTdiMWYwNTAwMjFiYjQwZGY2N2E2NGI2MTMw",
   "tracks": [
     {
       "added_at": "2018-12-11 21:48:39",
@@ -647,22 +647,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Are We There",
-        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "Our Love",
-      "url": "https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Wildewoman",
         "url": "https://open.spotify.com/album/5zts6zQSKFKcko1WRdBAez"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 275628,
       "name": "Two of Us On the Run",
       "url": "https://open.spotify.com/track/64xZhGwmnwFyeYWZ4l4wSm"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Are We There",
+        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -727,22 +727,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Ashes & Fire",
-        "url": "https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 172186,
-      "name": "Lucky Now",
-      "url": "https://open.spotify.com/track/1xLiOXTkAetjRqmPQwELn4"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Knock Knock",
         "url": "https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Helplessness Blues",
-        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
+        "name": "Ashes & Fire",
+        "url": "https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6"
       },
       "artists": [
         {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 185293,
-      "name": "Blue Spotted Tail",
-      "url": "https://open.spotify.com/track/7DVVuEwuBOx7fcUvYwqngv"
+      "duration_ms": 172186,
+      "name": "Lucky Now",
+      "url": "https://open.spotify.com/track/1xLiOXTkAetjRqmPQwELn4"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -795,6 +779,22 @@
       "duration_ms": 230792,
       "name": "California",
       "url": "https://open.spotify.com/track/3ixxzeLAqUUsNYBsNh8Dqj"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Blue Spotted Tail",
+      "url": "https://open.spotify.com/track/7DVVuEwuBOx7fcUvYwqngv"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -863,6 +863,22 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 203866,
+      "name": "Oliver James",
+      "url": "https://open.spotify.com/track/0ksHQqgNvM8IBmOfXOh5qt"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
         "name": "Hello Starling",
         "url": "https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 157800,
       "name": "Swing Lo Magellan",
       "url": "https://open.spotify.com/track/2JtL0a3NHcGkFQ7kfDLKUT"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Fleet Foxes",
-        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 203866,
-      "name": "Oliver James",
-      "url": "https://open.spotify.com/track/0ksHQqgNvM8IBmOfXOh5qt"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "In The Ever",
-        "url": "https://open.spotify.com/album/1yb3U8bjeyWWhpZBP3eka2"
-      },
-      "artists": [
-        {
-          "name": "Mason Jennings",
-          "url": "https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo"
-        }
-      ],
-      "duration_ms": 270546,
-      "name": "Something About Your Love",
-      "url": "https://open.spotify.com/track/1ZVaf194CeE7eBItAVEUCj"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Bahamas Is Afie",
         "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 190826,
       "name": "Can't Take You With Me",
       "url": "https://open.spotify.com/track/0sWuU0uDypaZ5rwUGqSKtS"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "In The Ever",
+        "url": "https://open.spotify.com/album/1yb3U8bjeyWWhpZBP3eka2"
+      },
+      "artists": [
+        {
+          "name": "Mason Jennings",
+          "url": "https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo"
+        }
+      ],
+      "duration_ms": 270546,
+      "name": "Something About Your Love",
+      "url": "https://open.spotify.com/track/1ZVaf194CeE7eBItAVEUCj"
     },
     {
       "added_at": "2018-12-11 21:48:39",

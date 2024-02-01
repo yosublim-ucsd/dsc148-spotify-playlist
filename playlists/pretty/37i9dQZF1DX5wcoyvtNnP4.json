@@ -1,12 +1,12 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 493109,
+  "num_followers": 493071,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjQ5NjFjOGUzMzc1MjM2NGNmMzMzYjNjZWNiYTlmODA5Y2U2N2Qw",
+  "snapshot_id": "MCwzZDRhYTdiZjRkMjAzMjdkYjRmZDRjZDZkNzJkNDMwNTU0Y2JhMmZm",
   "tracks": [
     {
       "added_at": "2024-01-26 07:48:12",
@@ -195,30 +195,18 @@
     {
       "added_at": "2024-01-26 07:48:12",
       "album": {
-        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
-        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
         }
       ],
-      "duration_ms": 148629,
-      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
-      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
       "added_at": "2024-01-26 07:48:12",
@@ -243,18 +231,30 @@
     {
       "added_at": "2024-01-26 07:48:12",
       "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
       },
       "artists": [
         {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
         }
       ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+      "duration_ms": 148629,
+      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
     },
     {
       "added_at": "2024-01-26 07:48:12",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-01-26 07:48:12",
       "album": {
-        "name": "Lose It All (I Don't Wanna)",
-        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 139071,
-      "name": "Lose It All (I Don't Wanna)",
-      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
-    },
-    {
-      "added_at": "2024-01-26 07:48:12",
-      "album": {
         "name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
         "url": "https://open.spotify.com/album/1oIy8CYApH9VUB73DqUvPT"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 175150,
       "name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
       "url": "https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM"
+    },
+    {
+      "added_at": "2024-01-26 07:48:12",
+      "album": {
+        "name": "Lose It All (I Don't Wanna)",
+        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 139071,
+      "name": "Lose It All (I Don't Wanna)",
+      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
     },
     {
       "added_at": "2024-01-26 07:48:12",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2024-01-26 07:48:12",
       "album": {
+        "name": "Levi Don't Do It",
+        "url": "https://open.spotify.com/album/3hXx9qkxsHdQ1oyeqOvUAJ"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t"
+    },
+    {
+      "added_at": "2024-01-26 07:48:12",
+      "album": {
         "name": "Where You Are",
         "url": "https://open.spotify.com/album/25Bk5lhRcppzuyAqaqXuws"
       },
@@ -1215,6 +1235,26 @@
       "duration_ms": 148885,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/4XFJmvM7x2Wkz6kXJr5LmO"
+    },
+    {
+      "added_at": "2024-01-26 07:48:12",
+      "album": {
+        "name": "Mess It Up (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/0L6IypGWr61krz90boqPDD"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 215370,
+      "name": "Mess It Up - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc"
     },
     {
       "added_at": "2024-01-26 07:48:12",
@@ -1295,46 +1335,6 @@
       "duration_ms": 195446,
       "name": "AEIOU",
       "url": "https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC"
-    },
-    {
-      "added_at": "2024-01-26 07:48:12",
-      "album": {
-        "name": "Mess It Up (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/0L6IypGWr61krz90boqPDD"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 215370,
-      "name": "Mess It Up - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc"
-    },
-    {
-      "added_at": "2024-01-26 07:48:12",
-      "album": {
-        "name": "Levi Don't Do It",
-        "url": "https://open.spotify.com/album/3hXx9qkxsHdQ1oyeqOvUAJ"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t"
     },
     {
       "added_at": "2024-01-26 07:48:12",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. \nCover: Jason Dhakal",
+  "description": "Mga nangunguna sa mundo ng OPM. \nCover: Kristina Dawn, Hev Abi",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 227250,
       "name": "Ano Ba Meron Tayong Dalawa",
       "url": "https://open.spotify.com/track/1mTSYTbKMn0tYqO17KlEfn"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 244890,
       "name": "Autumn",
       "url": "https://open.spotify.com/track/6opdgT1roU2ztb2WmXQG1U"
@@ -350,7 +350,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 260000,
       "name": "Gusto feat. Al James",
       "url": "https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL"
@@ -416,6 +416,24 @@
       "duration_ms": 261281,
       "name": "Hoy!",
       "url": "https://open.spotify.com/track/7kTlnlBIKQvt2dQD1f58kE"
+    },
+    {
+      "album": {
+        "name": "Hulaan",
+        "url": "https://open.spotify.com/album/2jvtYVPReKC4CCQVNEYQOS"
+      },
+      "artists": [
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218335,
+      "name": "Hulaan",
+      "url": "https://open.spotify.com/track/2i75Hz2OpChywxnUguC3Kw"
     },
     {
       "album": {
@@ -488,6 +506,28 @@
       "duration_ms": 234666,
       "name": "Kailan?",
       "url": "https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg"
+    },
+    {
+      "album": {
+        "name": "Kasing Kasing (feat. Kyle Echarri)",
+        "url": "https://open.spotify.com/album/0eX3ksx0PK4SyQnlNOuUwH"
+      },
+      "artists": [
+        {
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
+        },
+        {
+          "name": "Kyle Echarri",
+          "url": "https://open.spotify.com/artist/53qa1XIZ6pZuhrGDetCGew"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295553,
+      "name": "Kasing Kasing (feat. Kyle Echarri)",
+      "url": "https://open.spotify.com/track/13OhgUF9wgvG30aRARfgrR"
     },
     {
       "album": {
@@ -817,6 +857,28 @@
     },
     {
       "album": {
+        "name": "Sa Kahapon",
+        "url": "https://open.spotify.com/album/1WaMsAatHluQ0sf7f4fVd4"
+      },
+      "artists": [
+        {
+          "name": "Dilaw",
+          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
+        },
+        {
+          "name": "Janine Berdin",
+          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250250,
+      "name": "Sa Kahapon",
+      "url": "https://open.spotify.com/track/13MbhFKhfggZCUxZcJjB3b"
+    },
+    {
+      "album": {
         "name": "sa'yong sa'yo lang ako",
         "url": "https://open.spotify.com/album/6yR5iL6lTsSnvrpcxwrRAP"
       },
@@ -944,7 +1006,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 218000,
       "name": "Walang Kapalit (AM VER.)",
       "url": "https://open.spotify.com/track/4HxaLxk986KQdqNIyI4KUb"

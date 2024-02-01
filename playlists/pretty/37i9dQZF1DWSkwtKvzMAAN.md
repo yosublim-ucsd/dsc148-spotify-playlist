@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 
 > Funky blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,790 likes - 50 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,801 likes - 50 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 49 | [Let The Music Play](https://open.spotify.com/track/4d8Bqtm7ODdQLFXxPSuK64) | [Shannon](https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB) | [The Best Is Yet To Come](https://open.spotify.com/album/4cj641XM0e3LcGSTWr2oEV) | 3:36 |
 | 50 | [Wildstyle](https://open.spotify.com/track/0N5nQNz1qpi9b9OypLB1rj) | [Time Zone](https://open.spotify.com/artist/1LueZf9jSHrdmMJjZTLowI) | [Change The Beat \- The Celluloid Records Story 1979 \- 1987](https://open.spotify.com/album/25Kag9cU21zj5HtxLfDVyF) | 8:18 |
 
-Snapshot ID: `MCxjYmIzODNjNWUyOTFiZDFlMjYzNGVkZDk5ZTA5NzQ0MmQxNGY3NDY2`
+Snapshot ID: `MCw1Y2ZmM2ViYzRjNDliMmI3NjNiMjQwNjA0ODk3ODhjMjdlZWViMjgx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 
 > An essential list of recent hits of SoGo\.  Cover:  <a href="https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA">The Browns</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,667 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,681 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,15 +56,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 46 | [Overcome \- Radio Edit](https://open.spotify.com/track/0VAnfdHYy86E0TWJBfN6JP) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [Overcome \(Radio Edit\)](https://open.spotify.com/album/6HYHgxwMcknXcdvWHCojqM) | 4:07 |
 | 47 | [Future Glory](https://open.spotify.com/track/7GQc1aEfq2S1OLeDKsUPKr) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [2: 22](https://open.spotify.com/album/1ZNaOaKQont8Mh7nIZlDN7) | 3:14 |
 | 48 | [Lift up His Name](https://open.spotify.com/track/23a025gnBl8S0b7Cb9Bz0S) | [The Browders](https://open.spotify.com/artist/4Ug1lA45bfmGwUx76BWWfW) | [Time Machine](https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP) | 3:25 |
-| 49 | [Shut Him Up](https://open.spotify.com/track/0aOUfA7at6UetkDDn75fdz) | [Lauren Talley](https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg) | [Shut Him Up](https://open.spotify.com/album/5jGJlGqQP8CNZhzx4ddMqU) | 3:10 |
-| 50 | [Grace Ain't Fair \- Acoustic Version](https://open.spotify.com/track/2CEBwToSll6HnKr0op8WQH) | [The Nelons](https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn) | [Grace Ain't Fair \(Acoustic Version\)](https://open.spotify.com/album/45ijAsVgyLl4kDnTAUeh17) | 3:34 |
+| 49 | [Grace Ain't Fair \- Acoustic Version](https://open.spotify.com/track/2CEBwToSll6HnKr0op8WQH) | [The Nelons](https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn) | [Grace Ain't Fair \(Acoustic Version\)](https://open.spotify.com/album/45ijAsVgyLl4kDnTAUeh17) | 3:34 |
+| 50 | [Shut Him Up](https://open.spotify.com/track/0aOUfA7at6UetkDDn75fdz) | [Lauren Talley](https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg) | [Shut Him Up](https://open.spotify.com/album/5jGJlGqQP8CNZhzx4ddMqU) | 3:10 |
 | 51 | [Thief in the Night](https://open.spotify.com/track/4oScvPoK3ryJ1uzpt4Giw7) | [Joseph Habedank](https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be) | [Thief In The Night](https://open.spotify.com/album/7AfTSlpi35PwEvxGY0otef) | 4:07 |
 | 52 | [Favorite Song of All](https://open.spotify.com/track/1jqCZajfj6hAU1RHixoxbd) | [The Erwins](https://open.spotify.com/artist/6fP0zhB7y3p0SKO513H9DD) | [Favorites: On Repeat](https://open.spotify.com/album/7GnVw92Aav72gGVMpG0aXM) | 4:30 |
 | 53 | [I Have God to Thank for Everything](https://open.spotify.com/track/0ecJwqxF2KxcYHiwzi23Tk) | [The Inspirations](https://open.spotify.com/artist/5r3AH74NQJVPeRGmBfnNf3) | [I Have God to Thank for Everything](https://open.spotify.com/album/2GCDQ5nQ3FIhaQnGfzlpgJ) | 2:48 |
 | 54 | [He Touched Me](https://open.spotify.com/track/7cLgjwoaU3R56Y6xGBCJok) | [The Singing Contractors](https://open.spotify.com/artist/4hmbdZT6ZOW75JtSd2Cz6u) | [He Touched Me](https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo) | 3:27 |
 | 55 | [King of Kings](https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU) | [Jack Greene](https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ) | [I Am Not Alone](https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA) | 2:58 |
-| 56 | [How Great Thou Art](https://open.spotify.com/track/3otLzyxTwe5JoBKFA5K1r3) | [Kendra Kay](https://open.spotify.com/artist/55wvuImkFMHjZ1nYmhdXYJ), [Jason Benoit](https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w) | [How Great Thou Art](https://open.spotify.com/album/4Uok3QayvnnQUB8ob4J95S) | 3:28 |
-| 57 | [Praise Medley](https://open.spotify.com/track/01BfVuMUiP1df06GCvRb82) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [Heritage, Vol\. 3](https://open.spotify.com/album/4QmFZIOMbWcg6YEUGKjuQy) | 2:34 |
+| 56 | [Praise Medley](https://open.spotify.com/track/01BfVuMUiP1df06GCvRb82) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [Heritage, Vol\. 3](https://open.spotify.com/album/4QmFZIOMbWcg6YEUGKjuQy) | 2:34 |
+| 57 | [How Great Thou Art](https://open.spotify.com/track/3otLzyxTwe5JoBKFA5K1r3) | [Kendra Kay](https://open.spotify.com/artist/55wvuImkFMHjZ1nYmhdXYJ), [Jason Benoit](https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w) | [How Great Thou Art](https://open.spotify.com/album/4Uok3QayvnnQUB8ob4J95S) | 3:28 |
 | 58 | [Bring That Giant Down](https://open.spotify.com/track/1yQKThtFLWSoDv902wHktC) | [11th Hour](https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY) | [Bring That Giant Down](https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE) | 3:28 |
 | 59 | [Glorious Appearing](https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Glorious Appearing](https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W) | 3:48 |
 | 60 | [The Spirit and the Bride](https://open.spotify.com/track/6QVdPyhG84xBkum4UOUy7M) | [The Wilbanks](https://open.spotify.com/artist/59iNl6j8dYKneqZ1U4012r) | [My Name Is Victory](https://open.spotify.com/album/5mOIV9KyRZNFEHi3Hi4Ftl) | 3:22 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 76 | [I Bring You Jesus](https://open.spotify.com/track/6hOlJaU7E3SycdVXQN2taI) | [The Lore Family](https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94) | [The World Needs a Song](https://open.spotify.com/album/0GdNxipb3VVA8WDXQ3QMLb) | 3:42 |
 | 77 | [I Don't Belong](https://open.spotify.com/track/2b83n18SCOfBVHSAXUdFr7) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [I Don't Belong](https://open.spotify.com/album/2HNsusLhbziwmwMfBMI6tC) | 4:51 |
 | 78 | [In Your Hands](https://open.spotify.com/track/5jv8q8RMsCZLsLoughuYcK) | [Zane & Donna King](https://open.spotify.com/artist/49ez4RKPnnHvNyLPfIgcer) | [In Your Hands](https://open.spotify.com/album/6XEgkVMyUuHhAgs3Z9wh5d) | 3:19 |
-| 79 | [Every Story Whispers His Name](https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [Every Story Whispers His Name](https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl) | 3:55 |
-| 80 | [How Good the Good News Feels](https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [How Good the Good News Feels](https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq) | 3:22 |
+| 79 | [How Good the Good News Feels](https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [How Good the Good News Feels](https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq) | 3:22 |
+| 80 | [Every Story Whispers His Name](https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [Every Story Whispers His Name](https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl) | 3:55 |
 
-Snapshot ID: `MCw1ZjFhNDY5NTg0OWFhOTMyNDAwNWFkZmY0NTdhYjNhYWY2N2YyOGZl`
+Snapshot ID: `MCxjYmQxMjcxOGJmMWQxZTljYTAwYzg3ZTZkYjhjOGFlNTkxMDJlYjgy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,017 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,031 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 28 | [El Doble M](https://open.spotify.com/track/41NPmOc9fdROE5o1BpCn2w) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Doble M](https://open.spotify.com/album/63LuzfHyA0yV3RH4ZvEHL9) | 2:26 |
 | 29 | [Pancho Conos](https://open.spotify.com/track/5NNu8DfB4Db1cbr4BSeUsu) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo con Tololoche Vol\. 1](https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg) | 2:54 |
 | 30 | [El Amor No Va Conmigo](https://open.spotify.com/track/5BC3WcsvtWm3d7nVuyAGMe) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Un Chamaco Sin Futuro](https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI) | 2:21 |
-| 31 | [Barrios Bajos](https://open.spotify.com/track/7J0m55VDv0mSLAtVB8IoQ6) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Duetos Con La Clika](https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq) | 2:25 |
-| 32 | [El Jeffrey](https://open.spotify.com/track/6KKseqrcB5I4IeGB0pEBcV) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [L.A\. Lumbre](https://open.spotify.com/album/7iZ9VeN3GuIQrA0wFnXrDb) | 2:33 |
+| 31 | [El Jeffrey](https://open.spotify.com/track/6KKseqrcB5I4IeGB0pEBcV) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [L.A\. Lumbre](https://open.spotify.com/album/7iZ9VeN3GuIQrA0wFnXrDb) | 2:33 |
+| 32 | [Barrios Bajos](https://open.spotify.com/track/7J0m55VDv0mSLAtVB8IoQ6) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Duetos Con La Clika](https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq) | 2:25 |
 | 33 | [La Pantera \(En Vivo\)](https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Legado 7 En Vivo Desde OK Corral](https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP) | 3:11 |
 | 34 | [Las Caravanas](https://open.spotify.com/track/3geTjtaleLUKu8yIkj3A14) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Las Caravanas](https://open.spotify.com/album/2nYuw5IYnD73NmPzjL0vjP) | 3:17 |
 | 35 | [Al César Lo Que Es Del César](https://open.spotify.com/track/4Lj5mqggPrFWifyfL4iFvG) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Al César Lo Que Es Del César](https://open.spotify.com/album/4WxxnnMwaYjTZnjdxOCnnZ) | 3:43 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 45 | [El Señoron](https://open.spotify.com/track/38vFTLhNQ2Yp3IbNFLSvO8) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo con Tololoche Vol\. 1](https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg) | 2:10 |
 | 46 | [Bienvenidos a Mazatlán](https://open.spotify.com/track/0OudDZ8yAnA3jVpqidvQfM) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Bienvenidos a Mazatlán](https://open.spotify.com/album/6mhhkzqhbG4jOBZQxARqOH) | 3:07 |
 | 47 | [Los Recuerdos \(feat\. Arsenal Efectivo\)](https://open.spotify.com/track/7kunViZSovu0ZkOcgg9LS8) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 3:49 |
-| 48 | [En El Calorón](https://open.spotify.com/track/6N7TWCgpK7kRfpnyQ6yt5B) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [En El Calorón](https://open.spotify.com/album/7gPpeOQQNtZn90O5YvA7Ai) | 2:39 |
-| 49 | [Sigo en la mia](https://open.spotify.com/track/2yPbt23ToMNy7uG1OoVFJ5) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Sigo en la mía](https://open.spotify.com/album/36VsQrd5sP46avPx5v1idi) | 2:32 |
+| 48 | [Sigo en la mia](https://open.spotify.com/track/2yPbt23ToMNy7uG1OoVFJ5) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Sigo en la mía](https://open.spotify.com/album/36VsQrd5sP46avPx5v1idi) | 2:32 |
+| 49 | [En El Calorón](https://open.spotify.com/track/6N7TWCgpK7kRfpnyQ6yt5B) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [En El Calorón](https://open.spotify.com/album/7gPpeOQQNtZn90O5YvA7Ai) | 2:39 |
 | 50 | [El Baja](https://open.spotify.com/track/7hse5f1liZTWhrwBhPDkQ9) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [El Baja](https://open.spotify.com/album/2inidiXYQC6mt5XVFMV4GP) | 2:27 |
 
-Snapshot ID: `Mjg0NDM2MzksMDAwMDAwMDBlMDg5YWI3ZjE4OTM1YTYyNmQ0MTA5M2MwYzE5YmRmNw==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDBkMmIxMjVhMmJkMTEwY2M1MDQ1ZGNlZmFhZDRmOTk0Ng==`

@@ -1,12 +1,12 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 28500,
+  "num_followers": 28508,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWY1OGE0Zjg1OGJhZWQ2OTYzZmMyZjFiNWM4Y2QxZTdlMGM1YTI3",
+  "snapshot_id": "MCwzNjIzY2NiYjQ1MTNkNDU3YWNmYTZiODI2MmUzNjg4OTU4MzZjNjJl",
   "tracks": [
     {
       "added_at": "2024-01-29 19:08:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-01-29 19:08:00",
       "album": {
+        "name": "simbiosis",
+        "url": "https://open.spotify.com/album/1ojXjQt8i318N8LL4lskZK"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        }
+      ],
+      "duration_ms": 216282,
+      "name": "simbiosis",
+      "url": "https://open.spotify.com/track/4jhLp2tTaDgPTpUL0EyNjp"
+    },
+    {
+      "added_at": "2024-01-29 19:08:00",
+      "album": {
         "name": "Canciones para Escuchar Frente a la Ventana",
         "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 96300,
       "name": "abduccion (bonus andromeda)",
       "url": "https://open.spotify.com/track/7lDTPjWoIT68uiiQ8v4KLS"
-    },
-    {
-      "added_at": "2024-01-29 19:08:00",
-      "album": {
-        "name": "simbiosis",
-        "url": "https://open.spotify.com/album/1ojXjQt8i318N8LL4lskZK"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        }
-      ],
-      "duration_ms": 216282,
-      "name": "simbiosis",
-      "url": "https://open.spotify.com/track/4jhLp2tTaDgPTpUL0EyNjp"
     },
     {
       "added_at": "2024-01-29 19:08:00",
@@ -567,42 +567,6 @@
     {
       "added_at": "2024-01-29 19:08:00",
       "album": {
-        "name": "Lofi En La Mamalona",
-        "url": "https://open.spotify.com/album/41685iR0qvhsPhQZuuNMCL"
-      },
-      "artists": [
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 116666,
-      "name": "Lofi En La Mamalona",
-      "url": "https://open.spotify.com/track/3A9LDHqyjxxeKpR4RXze5n"
-    },
-    {
-      "added_at": "2024-01-29 19:08:00",
-      "album": {
-        "name": "Saguaro",
-        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 132631,
-      "name": "Saguaro",
-      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
-    },
-    {
-      "added_at": "2024-01-29 19:08:00",
-      "album": {
         "name": "Areca",
         "url": "https://open.spotify.com/album/39i5NpLsjgm59O39sy0iks"
       },
@@ -623,22 +587,38 @@
     {
       "added_at": "2024-01-29 19:08:00",
       "album": {
-        "name": "Bluewerks Vol 13: Midnight Melodies",
-        "url": "https://open.spotify.com/album/0eRRiHH6MXmSycTtKocj2o"
+        "name": "Saguaro",
+        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
       },
       "artists": [
         {
-          "name": "Bluewerks",
-          "url": "https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn"
-        },
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
         }
       ],
-      "duration_ms": 153658,
-      "name": "Looking for the Stars",
-      "url": "https://open.spotify.com/track/3LdqQUBvbg614Z1kj9ZsT5"
+      "duration_ms": 132631,
+      "name": "Saguaro",
+      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
+    },
+    {
+      "added_at": "2024-01-29 19:08:00",
+      "album": {
+        "name": "Lofi En La Mamalona",
+        "url": "https://open.spotify.com/album/41685iR0qvhsPhQZuuNMCL"
+      },
+      "artists": [
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 116666,
+      "name": "Lofi En La Mamalona",
+      "url": "https://open.spotify.com/track/3A9LDHqyjxxeKpR4RXze5n"
     },
     {
       "added_at": "2024-01-29 19:08:00",
@@ -655,6 +635,26 @@
       "duration_ms": 97931,
       "name": "Ay Cabr\u00f3n",
       "url": "https://open.spotify.com/track/07MId57g9gjI1XrPZGfZaN"
+    },
+    {
+      "added_at": "2024-01-29 19:08:00",
+      "album": {
+        "name": "Bluewerks Vol 13: Midnight Melodies",
+        "url": "https://open.spotify.com/album/0eRRiHH6MXmSycTtKocj2o"
+      },
+      "artists": [
+        {
+          "name": "Bluewerks",
+          "url": "https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn"
+        },
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        }
+      ],
+      "duration_ms": 153658,
+      "name": "Looking for the Stars",
+      "url": "https://open.spotify.com/track/3LdqQUBvbg614Z1kj9ZsT5"
     },
     {
       "added_at": "2024-01-29 19:08:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-01-29 19:08:00",
       "album": {
-        "name": "being honest",
-        "url": "https://open.spotify.com/album/6gUJp3K6E84oj4GxS1U43n"
+        "name": "como los ni\u00f1os",
+        "url": "https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz"
       },
       "artists": [
         {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
         }
       ],
-      "duration_ms": 163200,
-      "name": "being honest",
-      "url": "https://open.spotify.com/track/5K4GGvQAgG8vNM0UNCWVBI"
+      "duration_ms": 150956,
+      "name": "como los ni\u00f1os",
+      "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
     },
     {
       "added_at": "2024-01-29 19:08:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-01-29 19:08:00",
       "album": {
-        "name": "Erick",
-        "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
+        "name": "being honest",
+        "url": "https://open.spotify.com/album/6gUJp3K6E84oj4GxS1U43n"
       },
       "artists": [
         {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
         }
       ],
-      "duration_ms": 172528,
-      "name": "Erick",
-      "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
+      "duration_ms": 163200,
+      "name": "being honest",
+      "url": "https://open.spotify.com/track/5K4GGvQAgG8vNM0UNCWVBI"
     },
     {
       "added_at": "2024-01-29 19:08:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-01-29 19:08:00",
       "album": {
+        "name": "Erick",
+        "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 172528,
+      "name": "Erick",
+      "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
+    },
+    {
+      "added_at": "2024-01-29 19:08:00",
+      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/07bZkVxKUmei2L3lRXKKls"
       },
@@ -927,38 +943,6 @@
     {
       "added_at": "2024-01-29 19:08:00",
       "album": {
-        "name": "como los ni\u00f1os",
-        "url": "https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 150956,
-      "name": "como los ni\u00f1os",
-      "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
-    },
-    {
-      "added_at": "2024-01-29 19:08:00",
-      "album": {
-        "name": "Dreaming of summer",
-        "url": "https://open.spotify.com/album/6MvTkD17pTjv8eJ3RHXzu0"
-      },
-      "artists": [
-        {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
-        }
-      ],
-      "duration_ms": 95040,
-      "name": "Dreaming of summer",
-      "url": "https://open.spotify.com/track/12NdC7ZrZqYjCa3HLQh5dX"
-    },
-    {
-      "added_at": "2024-01-29 19:08:00",
-      "album": {
         "name": "Mexico City, Mexico",
         "url": "https://open.spotify.com/album/0Wit1dwhIc0TreRS59vlDd"
       },
@@ -979,34 +963,18 @@
     {
       "added_at": "2024-01-29 19:08:00",
       "album": {
-        "name": "Call me",
-        "url": "https://open.spotify.com/album/0i3ISvXZYcqhu29ofcnVJI"
+        "name": "Dreaming of summer",
+        "url": "https://open.spotify.com/album/6MvTkD17pTjv8eJ3RHXzu0"
       },
       "artists": [
         {
-          "name": "Muerto A Puntapi\u00e9s",
-          "url": "https://open.spotify.com/artist/4d8Fcih9xLX58y7r7LAPKV"
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
         }
       ],
-      "duration_ms": 118166,
-      "name": "Call me",
-      "url": "https://open.spotify.com/track/0uphcJxEE2Slw2kg2Zo1PC"
-    },
-    {
-      "added_at": "2024-01-29 19:08:00",
-      "album": {
-        "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
-        "url": "https://open.spotify.com/album/3fBNcy44LTMVJGhPfMTMYZ"
-      },
-      "artists": [
-        {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        }
-      ],
-      "duration_ms": 141742,
-      "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
-      "url": "https://open.spotify.com/track/7GJ7ZLLSHmEiveKIGKc5BQ"
+      "duration_ms": 95040,
+      "name": "Dreaming of summer",
+      "url": "https://open.spotify.com/track/12NdC7ZrZqYjCa3HLQh5dX"
     },
     {
       "added_at": "2024-01-29 19:08:00",
@@ -1027,18 +995,34 @@
     {
       "added_at": "2024-01-29 19:08:00",
       "album": {
-        "name": "Duerme",
-        "url": "https://open.spotify.com/album/3lSsZLGP5WLfjoGM5n9xF6"
+        "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
+        "url": "https://open.spotify.com/album/3fBNcy44LTMVJGhPfMTMYZ"
       },
       "artists": [
         {
-          "name": "Mariana Red",
-          "url": "https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ"
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
         }
       ],
-      "duration_ms": 126004,
-      "name": "Duerme",
-      "url": "https://open.spotify.com/track/1b7XK2lhy8hy9HAK4pFOpC"
+      "duration_ms": 141742,
+      "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
+      "url": "https://open.spotify.com/track/7GJ7ZLLSHmEiveKIGKc5BQ"
+    },
+    {
+      "added_at": "2024-01-29 19:08:00",
+      "album": {
+        "name": "Call me",
+        "url": "https://open.spotify.com/album/0i3ISvXZYcqhu29ofcnVJI"
+      },
+      "artists": [
+        {
+          "name": "Muerto A Puntapi\u00e9s",
+          "url": "https://open.spotify.com/artist/4d8Fcih9xLX58y7r7LAPKV"
+        }
+      ],
+      "duration_ms": 118166,
+      "name": "Call me",
+      "url": "https://open.spotify.com/track/0uphcJxEE2Slw2kg2Zo1PC"
     },
     {
       "added_at": "2024-01-29 19:08:00",
@@ -1055,6 +1039,22 @@
       "duration_ms": 179000,
       "name": "22 Hrs.",
       "url": "https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg"
+    },
+    {
+      "added_at": "2024-01-29 19:08:00",
+      "album": {
+        "name": "Duerme",
+        "url": "https://open.spotify.com/album/3lSsZLGP5WLfjoGM5n9xF6"
+      },
+      "artists": [
+        {
+          "name": "Mariana Red",
+          "url": "https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ"
+        }
+      ],
+      "duration_ms": 126004,
+      "name": "Duerme",
+      "url": "https://open.spotify.com/track/1b7XK2lhy8hy9HAK4pFOpC"
     },
     {
       "added_at": "2024-01-29 19:08:00",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2024-01-29 19:08:00",
       "album": {
+        "name": "van life",
+        "url": "https://open.spotify.com/album/0av05fGMfHMS5X62fW4Nzt"
+      },
+      "artists": [
+        {
+          "name": "Jose Bautista",
+          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
+        },
+        {
+          "name": "Acrylic Sleep",
+          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
+        }
+      ],
+      "duration_ms": 135714,
+      "name": "van life",
+      "url": "https://open.spotify.com/track/4FZJDWZTLQkHzoWHKT5bRY"
+    },
+    {
+      "added_at": "2024-01-29 19:08:00",
+      "album": {
         "name": "Timeless Era",
         "url": "https://open.spotify.com/album/1povYT4DUpB41SrrLCCKQP"
       },
@@ -1115,22 +1135,18 @@
     {
       "added_at": "2024-01-29 19:08:00",
       "album": {
-        "name": "van life",
-        "url": "https://open.spotify.com/album/0av05fGMfHMS5X62fW4Nzt"
+        "name": "Dark Thoughts",
+        "url": "https://open.spotify.com/album/4lhacPMyXoQTyXFLtC0I5E"
       },
       "artists": [
         {
-          "name": "Jose Bautista",
-          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
-        },
-        {
-          "name": "Acrylic Sleep",
-          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
+          "name": "Andros",
+          "url": "https://open.spotify.com/artist/6xF1vJVs8eJ04wVjW8zEa7"
         }
       ],
-      "duration_ms": 135714,
-      "name": "van life",
-      "url": "https://open.spotify.com/track/4FZJDWZTLQkHzoWHKT5bRY"
+      "duration_ms": 74347,
+      "name": "Dark Thoughts",
+      "url": "https://open.spotify.com/track/6YnukfWzdA6GnBzWgY4Had"
     },
     {
       "added_at": "2024-01-29 19:08:00",
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2024-01-29 19:08:00",
       "album": {
-        "name": "Dark Thoughts",
-        "url": "https://open.spotify.com/album/4lhacPMyXoQTyXFLtC0I5E"
-      },
-      "artists": [
-        {
-          "name": "Andros",
-          "url": "https://open.spotify.com/artist/6xF1vJVs8eJ04wVjW8zEa7"
-        }
-      ],
-      "duration_ms": 74347,
-      "name": "Dark Thoughts",
-      "url": "https://open.spotify.com/track/6YnukfWzdA6GnBzWgY4Had"
-    },
-    {
-      "added_at": "2024-01-29 19:08:00",
-      "album": {
         "name": "jazz y cdmx",
         "url": "https://open.spotify.com/album/17tlWeBFchVYB4AykvA21z"
       },
@@ -1179,26 +1179,6 @@
       "duration_ms": 121213,
       "name": "jazz y cdmx",
       "url": "https://open.spotify.com/track/4OGnyi9O4uc5zrTNyLgGrY"
-    },
-    {
-      "added_at": "2024-01-29 19:08:00",
-      "album": {
-        "name": "Rossa Nova",
-        "url": "https://open.spotify.com/album/4tboziMwqukmTcb6UeUb5H"
-      },
-      "artists": [
-        {
-          "name": "Ozymandias' Dream",
-          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
-        },
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Rossa Nova",
-      "url": "https://open.spotify.com/track/7JJuPb0RhWRZvZK2q6m9BQ"
     },
     {
       "added_at": "2024-01-29 19:08:00",
@@ -1227,6 +1207,26 @@
     {
       "added_at": "2024-01-29 19:08:00",
       "album": {
+        "name": "Rossa Nova",
+        "url": "https://open.spotify.com/album/4tboziMwqukmTcb6UeUb5H"
+      },
+      "artists": [
+        {
+          "name": "Ozymandias' Dream",
+          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
+        },
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Rossa Nova",
+      "url": "https://open.spotify.com/track/7JJuPb0RhWRZvZK2q6m9BQ"
+    },
+    {
+      "added_at": "2024-01-29 19:08:00",
+      "album": {
         "name": "Ocaso Sin Fin",
         "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
       },
@@ -1247,22 +1247,18 @@
     {
       "added_at": "2024-01-29 19:08:00",
       "album": {
-        "name": "Dale Dale",
-        "url": "https://open.spotify.com/album/1lhBqlw0v8TsrjXdKBOC7x"
+        "name": "I See Us",
+        "url": "https://open.spotify.com/album/0zB0QKnVSVEeFjYHjrUmfh"
       },
       "artists": [
         {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Dale Dale",
-      "url": "https://open.spotify.com/track/5dzMrLVdPiXKTt6r3MMwnL"
+      "duration_ms": 137196,
+      "name": "loving",
+      "url": "https://open.spotify.com/track/3ARGtxntpoIsQfZdnBHZC6"
     },
     {
       "added_at": "2024-01-29 19:08:00",
@@ -1287,34 +1283,22 @@
     {
       "added_at": "2024-01-29 19:08:00",
       "album": {
-        "name": "I See Us",
-        "url": "https://open.spotify.com/album/0zB0QKnVSVEeFjYHjrUmfh"
+        "name": "Dale Dale",
+        "url": "https://open.spotify.com/album/1lhBqlw0v8TsrjXdKBOC7x"
       },
       "artists": [
         {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        }
-      ],
-      "duration_ms": 137196,
-      "name": "loving",
-      "url": "https://open.spotify.com/track/3ARGtxntpoIsQfZdnBHZC6"
-    },
-    {
-      "added_at": "2024-01-29 19:08:00",
-      "album": {
-        "name": "Shiny",
-        "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
-      },
-      "artists": [
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
         {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
         }
       ],
-      "duration_ms": 129975,
-      "name": "Shiny",
-      "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
+      "duration_ms": 148000,
+      "name": "Dale Dale",
+      "url": "https://open.spotify.com/track/5dzMrLVdPiXKTt6r3MMwnL"
     },
     {
       "added_at": "2024-01-29 19:08:00",
@@ -1335,22 +1319,18 @@
     {
       "added_at": "2024-01-29 19:08:00",
       "album": {
-        "name": "Oda a la Infancia",
-        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
+        "name": "Shiny",
+        "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
       },
       "artists": [
         {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
         }
       ],
-      "duration_ms": 104013,
-      "name": "La Feria",
-      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
+      "duration_ms": 129975,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
     },
     {
       "added_at": "2024-01-29 19:08:00",
@@ -1387,6 +1367,26 @@
       "duration_ms": 164117,
       "name": "Canci\u00f3n en Forma de Elefante",
       "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
+    },
+    {
+      "added_at": "2024-01-29 19:08:00",
+      "album": {
+        "name": "Oda a la Infancia",
+        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 104013,
+      "name": "La Feria",
+      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
     },
     {
       "added_at": "2024-01-29 19:08:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-01-29 19:08:00",
       "album": {
-        "name": "Sayulita Vibes",
-        "url": "https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz"
-      },
-      "artists": [
-        {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
-        }
-      ],
-      "duration_ms": 118588,
-      "name": "Sayulita Vibes",
-      "url": "https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A"
-    },
-    {
-      "added_at": "2024-01-29 19:08:00",
-      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/3RbrgYXo7GUFlswEjTIE0k"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 111303,
       "name": "Habits",
       "url": "https://open.spotify.com/track/4OVsPzhFDQExjFCc0UneHt"
+    },
+    {
+      "added_at": "2024-01-29 19:08:00",
+      "album": {
+        "name": "Sayulita Vibes",
+        "url": "https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+        }
+      ],
+      "duration_ms": 118588,
+      "name": "Sayulita Vibes",
+      "url": "https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A"
     },
     {
       "added_at": "2024-01-29 19:08:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-01-29 19:08:00",
       "album": {
-        "name": "Viernes Azul",
-        "url": "https://open.spotify.com/album/3nsTP9n9ikz64G5fpDZvnz"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Viernes Azul",
-      "url": "https://open.spotify.com/track/15jXUrt4BqPPqsp2Z7QO1M"
-    },
-    {
-      "added_at": "2024-01-29 19:08:00",
-      "album": {
         "name": "Efecto Foehn",
         "url": "https://open.spotify.com/album/5yFtvEfmWF2dLlTqQUdjcF"
       },
@@ -1595,18 +1579,34 @@
     {
       "added_at": "2024-01-29 19:08:00",
       "album": {
-        "name": "Not Fun",
-        "url": "https://open.spotify.com/album/2cZcbkeegNG4Jc0RdXEpdh"
+        "name": "Viernes Azul",
+        "url": "https://open.spotify.com/album/3nsTP9n9ikz64G5fpDZvnz"
       },
       "artists": [
         {
-          "name": "Chili Dog",
-          "url": "https://open.spotify.com/artist/514loz93308G5SYu5YPG6a"
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
         }
       ],
-      "duration_ms": 146406,
-      "name": "Not Fun",
-      "url": "https://open.spotify.com/track/37bHCkrekBrZIXbqtRoGwD"
+      "duration_ms": 214000,
+      "name": "Viernes Azul",
+      "url": "https://open.spotify.com/track/15jXUrt4BqPPqsp2Z7QO1M"
+    },
+    {
+      "added_at": "2024-01-29 19:08:00",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6DNFbu726NR7u4pWdZoAjf"
+      },
+      "artists": [
+        {
+          "name": "Adbeel",
+          "url": "https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7nVf8L0WkgqecsJ0BcEj0a"
     },
     {
       "added_at": "2024-01-29 19:08:00",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-01-29 19:08:00",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/6DNFbu726NR7u4pWdZoAjf"
+        "name": "Not Fun",
+        "url": "https://open.spotify.com/album/2cZcbkeegNG4Jc0RdXEpdh"
       },
       "artists": [
         {
-          "name": "Adbeel",
-          "url": "https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj"
+          "name": "Chili Dog",
+          "url": "https://open.spotify.com/artist/514loz93308G5SYu5YPG6a"
         }
       ],
-      "duration_ms": 135000,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7nVf8L0WkgqecsJ0BcEj0a"
+      "duration_ms": 146406,
+      "name": "Not Fun",
+      "url": "https://open.spotify.com/track/37bHCkrekBrZIXbqtRoGwD"
     },
     {
       "added_at": "2024-01-29 19:08:00",

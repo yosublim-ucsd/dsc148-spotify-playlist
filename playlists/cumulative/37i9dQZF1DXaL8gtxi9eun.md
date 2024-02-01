@@ -4,7 +4,7 @@
 
 > Stay up to date with the freshest Arabic Pop Songs\. Cover: Elissa
 
-273 songs - 16 hr 27 min
+274 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Howa Nafs El Shouk](https://open.spotify.com/track/6T2rewl8ekzcdP5KQGW5K1) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Howa Nafs El Shouk](https://open.spotify.com/album/6wWHzbMgBnZoZAPsGUlAiM) | 5:17 | 2022-05-04 | 2022-07-14 |
 | [Jannat Al Hob](https://open.spotify.com/track/2mrgVjT6BNT46MFwhLmFO7) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Jannat Al Hob](https://open.spotify.com/album/7mKEvo2ScRVTcOvgfezrkR) | 3:56 | 2024-01-02 |  |
 | [Jayeb Khbari](https://open.spotify.com/track/7g6MW822UoLSQCFrSXUZCI) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Jayeb Khbari](https://open.spotify.com/album/0RFcMf8UFXmaltJ8mk2oV6) | 3:08 | 2023-07-11 | 2023-08-21 |
-| [Kello Waham](https://open.spotify.com/track/1BswE7MEewdixfNF3Vm6dj) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Kello Waham](https://open.spotify.com/album/1Bo8bgAlOE14eEZHeY8RXL) | 3:22 | 2024-01-29 |  |
+| [Kello Waham](https://open.spotify.com/track/1BswE7MEewdixfNF3Vm6dj) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Kello Waham](https://open.spotify.com/album/1Bo8bgAlOE14eEZHeY8RXL) | 3:22 | 2024-01-29 | 2024-02-01 |
 | [khateera](https://open.spotify.com/track/3y1tMUZAy2v5LMyKo7Ko8J) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [khateera](https://open.spotify.com/album/3t3U7jth4HV9tx11NMwC0N) | 3:24 | 2022-05-04 | 2022-07-15 |
 | [Khayef](https://open.spotify.com/track/2ExMyvTPD9nsEBgq80zQQB) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Khayef](https://open.spotify.com/album/0ZU2uWc2wZiYb5lMzufWA3) | 3:15 | 2022-05-04 | 2022-06-04 |
 | [Kollou Bel Hob](https://open.spotify.com/track/0Xc1IryxstydDJ3lsrAAJL) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Kollou Bel Hob](https://open.spotify.com/album/1ZQ9tCItxkzmfiZ2UTLeYv) | 2:56 | 2022-05-04 | 2022-07-15 |
@@ -259,6 +259,7 @@
 | [كل ليل](https://open.spotify.com/track/3FmjlI2P0aYuVbSo5fzSZs) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [كل ليل](https://open.spotify.com/album/67ZFyMPeTn5L5FAZC94WAY) | 4:02 | 2023-07-11 | 2023-08-19 |
 | [كلمة سلام](https://open.spotify.com/track/6Uf9GESDYUb6PaFKb0X6b7) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [كلمة سلام](https://open.spotify.com/album/0i5uZH5qa0vmNWlzFymn9c) | 3:52 | 2023-05-17 | 2023-06-09 |
 | [كلها غيرانة](https://open.spotify.com/track/1lMG528rnjzks0oJEDmL5J) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [كلها غيرانة](https://open.spotify.com/album/3rfKqkKlOZcPAYqZN4rfkM) | 3:36 | 2023-01-10 | 2023-07-12 |
+| [كلو وهم](https://open.spotify.com/track/3XSlbOYVONZWgHUYsyv1kn) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [كلو وهم](https://open.spotify.com/album/0zVuys4kG4cSCH5TXPuv5H) | 3:22 | 2024-01-30 |  |
 | [لحظة بعادك](https://open.spotify.com/track/7bsE3mQpFJPdIFXLmlJxRt) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [لحظة بعادك](https://open.spotify.com/album/5ZzAowICKjKwUrWMz8nxPd) | 3:41 | 2023-05-17 | 2023-07-21 |
 | [لمون نعناع](https://open.spotify.com/track/0MTRIhdVLqOy0mnTXtM5jM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [لمون نعناع](https://open.spotify.com/album/5IJllrLdWkmEYDJ6N4tw1Y) | 3:26 | 2023-07-20 | 2023-08-05 |
 | [ليه طله](https://open.spotify.com/track/0VFtgOhZaR1btlkiOXgqM0) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [عشأنجي](https://open.spotify.com/album/0aAeot09E8YZwHc7rsg90Y) | 3:13 | 2023-01-10 | 2023-07-12 |

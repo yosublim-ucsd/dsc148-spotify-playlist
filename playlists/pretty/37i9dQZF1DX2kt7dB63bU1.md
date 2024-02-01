@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,240 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,270 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 3 | [Everything’s Not Lost](https://open.spotify.com/track/2pqHAFERxzagkJu9qzzWI3) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Everything’s Not Lost](https://open.spotify.com/album/49WaKMcrbMJt3tqkLXnpVO) | 4:08 |
 | 4 | [Embraceable You](https://open.spotify.com/track/50xfb5jlP00Jv6xMhcpik9) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9) | [Embraceable You](https://open.spotify.com/album/0wEQI7wwW5WTh1WaD09fr6) | 4:48 |
 | 5 | [Tight](https://open.spotify.com/track/5NPn66iyEdsWoqqgSuMa0K) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Tight](https://open.spotify.com/album/5C4eWuaz4LcapndxmN3f0X) | 1:55 |
-| 6 | [Stuck In London](https://open.spotify.com/track/2FXL8Xr4WaXwroKIRU90SU) | [Casey Abrams](https://open.spotify.com/artist/1UxNUybRFdtksz3l5HtCEG), [Haus Music](https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6), [Jesse Elder](https://open.spotify.com/artist/5UmUEjkHl71LqO86BUSS3S), [Dave Tedeschi](https://open.spotify.com/artist/5OwYNOuH4Cg597HGC7tFW5), [Kyle Morgan](https://open.spotify.com/artist/73TllQfqNxBh5xit8niVyo) | [East Coast Jazz](https://open.spotify.com/album/4EbfwbnUU2NIipF7e33KXP) | 4:10 |
+| 6 | [Stuck In London](https://open.spotify.com/track/3I8NvMvtbI4DiwL8ATz89i) | [Casey Abrams](https://open.spotify.com/artist/1UxNUybRFdtksz3l5HtCEG), [Haus Music](https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6), [Jesse Elder](https://open.spotify.com/artist/5UmUEjkHl71LqO86BUSS3S), [Dave Tedeschi](https://open.spotify.com/artist/5OwYNOuH4Cg597HGC7tFW5), [Kyle Morgan](https://open.spotify.com/artist/73TllQfqNxBh5xit8niVyo) | [East Coast Jazz](https://open.spotify.com/album/3gpYeykiZOtEvdteBn1zse) | 4:10 |
 | 7 | [Moonlight Saving Time](https://open.spotify.com/track/0PTJWngEh1q5CXeNUduXjU) | [Kelly Green](https://open.spotify.com/artist/6MGNhzLevHtkeVTcwNpTmZ) | [Moonlight Saving Time](https://open.spotify.com/album/7iaBrbkEsbv9OKNCzgxvai) | 3:48 |
 | 8 | [Almost Like Being in Love](https://open.spotify.com/track/3qizV4OtxenPpgi4GIGR2U) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Almost Like Being in Love](https://open.spotify.com/album/0Nh59ZpVKxw8TM7nHNEOYk) | 2:39 |
 | 9 | [Lift Up](https://open.spotify.com/track/1tJZ9m3sh63N6A1FVrFogr) | [Afra Kane](https://open.spotify.com/artist/1RhC0s2ubtgnMLr7UxwWwr) | [Lift Up](https://open.spotify.com/album/2SWKzOtvhfK9tYwmwTvwk3) | 4:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [But Not for Me](https://open.spotify.com/track/1RFcW32md4A4JxrSLzSBjK) | [Laila Biali](https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I), [Anat Cohen](https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH) | [But Not for Me](https://open.spotify.com/album/2vkGc6locFx5ukMogc8u5r) | 2:57 |
 | 100 | [Waiting for the Sun to Rise](https://open.spotify.com/track/7ghUJN5yFKgcuSsY0TxRT1) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [Waiting For The Sun To Rise](https://open.spotify.com/album/5E0CarVimmc8TWcIgcqZ4f) | 4:38 |
 
-Snapshot ID: `MCw3OTI5MzIyMmZkN2Q5ZjE1N2U1NWRmNGU4MDEwMGQ5ZmY2OTI0MmFi`
+Snapshot ID: `MCw1Y2MxMDU0MjM0ZjZjNzMwMTU4ZDg1MWY5ZTQ3OGFhY2M0ODg0M2U4`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! De todas, Norte\u00f1as, Sonideras, con Banda y mas! Cover: Grupo Frontera & Bad Bunny",
-  "num_followers": 270817,
+  "num_followers": 270846,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmJmMTAzYjRhNTJmMjIyNzQwOGYxODk5NzBmNmRkYzAzYjViYzcy",
+  "snapshot_id": "MCw1YmQzNDk0MzcwZTdkYjQ2ZmEzMTZlY2Y5MTM1OGNiZjQxNDViOTU5",
   "tracks": [
     {
       "added_at": "2023-05-01 18:15:14",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-05-01 18:15:14",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 175471,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS"
-    },
-    {
-      "added_at": "2023-05-01 18:15:14",
-      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. 3",
         "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 238236,
       "name": "Tiene Espinas El Rosal",
       "url": "https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H"
+    },
+    {
+      "added_at": "2023-05-01 18:15:14",
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 175471,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS"
     },
     {
       "added_at": "2023-05-01 18:15:14",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-05-01 18:15:14",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6"
+        "name": "Con la Fuerza de un Volc\u00e1n",
+        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
       },
       "artists": [
         {
-          "name": "Laura Leon",
-          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
         }
       ],
-      "duration_ms": 225720,
-      "name": "Suavecito Suavecito",
-      "url": "https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU"
+      "duration_ms": 228266,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
     },
     {
       "added_at": "2023-05-01 18:15:14",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-05-01 18:15:14",
       "album": {
-        "name": "Con la Fuerza de un Volc\u00e1n",
-        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6"
       },
       "artists": [
         {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+          "name": "Laura Leon",
+          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
         }
       ],
-      "duration_ms": 228266,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
+      "duration_ms": 225720,
+      "name": "Suavecito Suavecito",
+      "url": "https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU"
     },
     {
       "added_at": "2023-05-01 18:15:14",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-05-01 18:15:14",
       "album": {
-        "name": "S\u00f3lo \u00c9xitos",
-        "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Saya",
-          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Cumbia Francesa",
-      "url": "https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo"
-    },
-    {
-      "added_at": "2023-05-01 18:15:14",
-      "album": {
         "name": "Cumbias con Garra Vol. IV *",
         "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 202253,
       "name": "Mira oye",
       "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
+    },
+    {
+      "added_at": "2023-05-01 18:15:14",
+      "album": {
+        "name": "S\u00f3lo \u00c9xitos",
+        "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saya",
+          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Cumbia Francesa",
+      "url": "https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo"
     },
     {
       "added_at": "2023-05-01 18:15:14",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-05-01 18:15:14",
       "album": {
-        "name": "Tu Regalo",
-        "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 204640,
-      "name": "La Peinada (La Peinadita)",
-      "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
-    },
-    {
-      "added_at": "2023-05-01 18:15:14",
-      "album": {
         "name": "Org\u00e1nico",
         "url": "https://open.spotify.com/album/5JzUIBngiv4yCq8MfYMH74"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 205818,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/4HjIiXDTRKEVXL6Jov3kCY"
+    },
+    {
+      "added_at": "2023-05-01 18:15:14",
+      "album": {
+        "name": "Tu Regalo",
+        "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 204640,
+      "name": "La Peinada (La Peinadita)",
+      "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
     },
     {
       "added_at": "2023-05-01 18:15:14",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-05-01 18:15:14",
       "album": {
-        "name": "Jugo A La Vida",
-        "url": "https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "La Chica Sexy",
-      "url": "https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW"
-    },
-    {
-      "added_at": "2023-05-01 18:15:14",
-      "album": {
         "name": "Oro Puro: \u00c9xitos",
         "url": "https://open.spotify.com/album/21g7e1NwMiTJMr6G38h0hA"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 211760,
       "name": "Int\u00e9ntalo T\u00fa",
       "url": "https://open.spotify.com/track/7tc8n0EmYbjoiouaxYTlyV"
+    },
+    {
+      "added_at": "2023-05-01 18:15:14",
+      "album": {
+        "name": "Jugo A La Vida",
+        "url": "https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "La Chica Sexy",
+      "url": "https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW"
     },
     {
       "added_at": "2023-05-01 18:15:14",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-05-01 18:15:14",
       "album": {
+        "name": "La Monjita Voladora - Cumbia Sonidera",
+        "url": "https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V"
+      },
+      "artists": [
+        {
+          "name": "Grupo Toca Recio",
+          "url": "https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u"
+        }
+      ],
+      "duration_ms": 249768,
+      "name": "La Monjita Voladora - Cumbia Sonidera",
+      "url": "https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3"
+    },
+    {
+      "added_at": "2023-05-01 18:15:14",
+      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/24sGCfEJfvqNhHKIJhecsD"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 218453,
       "name": "Llorar",
       "url": "https://open.spotify.com/track/7JIVOkgktlJWxzzq5ANpN6"
-    },
-    {
-      "added_at": "2023-05-01 18:15:14",
-      "album": {
-        "name": "La Monjita Voladora - Cumbia Sonidera",
-        "url": "https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V"
-      },
-      "artists": [
-        {
-          "name": "Grupo Toca Recio",
-          "url": "https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u"
-        }
-      ],
-      "duration_ms": 249768,
-      "name": "La Monjita Voladora - Cumbia Sonidera",
-      "url": "https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3"
     },
     {
       "added_at": "2023-05-01 18:15:14",

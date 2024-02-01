@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Steve Aoki and Yellowcard \\m/",
-  "num_followers": 322427,
+  "num_followers": 322443,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjE2ZGVkNjlmMjk5YTJjNGI5YWMxNDQzODg2NDJmMzQxZmZlZWIw",
+  "snapshot_id": "MCw3OTI5YmM0NGE5NTgyYTQyYmFiZTljNTQ3N2U2MmY2ZTE2NDlhMjk3",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Thrones of Blood",
-        "url": "https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        }
-      ],
-      "duration_ms": 165857,
-      "name": "Riot",
-      "url": "https://open.spotify.com/track/2npMfTDQAwY1Jga13HS01O"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Story Of My Life (feat. Trippie Redd) [Heavy Edit]",
         "url": "https://open.spotify.com/album/4Wzad6zTcqutg65d090DL2"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 240608,
       "name": "Story Of My Life (feat. Trippie Redd) - Heavy Edit",
       "url": "https://open.spotify.com/track/7vBwenmGPD2h0DSbljoZym"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Thrones of Blood",
+        "url": "https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        }
+      ],
+      "duration_ms": 165857,
+      "name": "Riot",
+      "url": "https://open.spotify.com/track/2npMfTDQAwY1Jga13HS01O"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1583,30 +1583,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "HELLRAISERS, Part 2",
-        "url": "https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Oli Sykes",
-          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 142065,
-      "name": "Dummy (with Oli Sykes of Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/3JwkRRgHtBI8RlM5hUSH28"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Light Up The Sky (feat. Scott Stapp)",
         "url": "https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw"
       },
@@ -1627,6 +1603,30 @@
       "duration_ms": 284425,
       "name": "Light Up The Sky (feat. Scott Stapp)",
       "url": "https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "HELLRAISERS, Part 2",
+        "url": "https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Oli Sykes",
+          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 142065,
+      "name": "Dummy (with Oli Sykes of Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/3JwkRRgHtBI8RlM5hUSH28"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "A Change of Perspective (Deluxe)",
-        "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
-      },
-      "artists": [
-        {
-          "name": "Covex",
-          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Regret - Remix",
-      "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Throne",
         "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
       },
@@ -1847,6 +1827,26 @@
       "duration_ms": 220000,
       "name": "Throne",
       "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "A Change of Perspective (Deluxe)",
+        "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
+      },
+      "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Regret - Remix",
+      "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "BURNING RUBBER",
+        "url": "https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "duration_ms": 133888,
+      "name": "BURNING RUBBER",
+      "url": "https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Angst",
         "url": "https://open.spotify.com/album/7shS9BkAsDD0jVjWnc7iQn"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 240000,
       "name": "Angst - RMX by twocolors",
       "url": "https://open.spotify.com/track/1kqx2Z9AXjbUCbPkUVbIRM"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "BURNING RUBBER",
-        "url": "https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e"
-      },
-      "artists": [
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 133888,
-      "name": "BURNING RUBBER",
-      "url": "https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2083,26 +2083,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Black Velvet",
-        "url": "https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i"
-      },
-      "artists": [
-        {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
-        },
-        {
-          "name": "Ninet Tayeb",
-          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "SKINS",
         "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
       },
@@ -2119,6 +2099,26 @@
       "duration_ms": 310607,
       "name": "Skins",
       "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Black Velvet",
+        "url": "https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        },
+        {
+          "name": "Ninet Tayeb",
+          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2391,26 +2391,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/3YlsIOcaWk0GUhmcb9RE6W"
-      },
-      "artists": [
-        {
-          "name": "MitiS",
-          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
-        },
-        {
-          "name": "Beauty School Dropout",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/3E0vyXi0sg1Kegs7lGgjDc"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
       },
@@ -2427,6 +2407,26 @@
       "duration_ms": 240044,
       "name": "Superhuman (with K.Flay)",
       "url": "https://open.spotify.com/track/64moA9zwEfhBADmxLZvVhH"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/3YlsIOcaWk0GUhmcb9RE6W"
+      },
+      "artists": [
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        {
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/3E0vyXi0sg1Kegs7lGgjDc"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2475,6 +2475,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/0ZaiDvYtUSXN9AFFQnAeHj"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        }
+      ],
+      "duration_ms": 195254,
+      "name": "War",
+      "url": "https://open.spotify.com/track/65NKOYrzh6Gz7rtiLmMMek"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "you\u2019ve changed, i\u2019ve changed",
         "url": "https://open.spotify.com/album/0yQkeAjjUjK8RXDgnzLkOu"
       },
@@ -2507,22 +2523,6 @@
       "duration_ms": 176008,
       "name": "Get To U",
       "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Dead Man Walking Pt. 1",
-        "url": "https://open.spotify.com/album/5Rulijsb8lWwqPSFbzEHgD"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/1BocvYKP6Khn2AXOLqNmUS"
     }
   ],
   "unique_name": "Rocktronic",

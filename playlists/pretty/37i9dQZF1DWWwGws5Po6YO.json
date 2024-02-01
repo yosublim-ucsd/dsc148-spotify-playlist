@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 33693,
+  "num_followers": 33705,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjg1N2VkZTI1Mzk4Mzk0MThjYTFhNTk3MDFlZjYyN2E1OGJiODEx",
+  "snapshot_id": "MCxkN2M0ZDM4ZDhlNjU2MDBjOGIwYjk5ZWRjMmY4ZTg3ZWFlMDhkZmFk",
   "tracks": [
     {
       "added_at": "2023-09-08 14:04:07",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Night Journeys",
-        "url": "https://open.spotify.com/album/3re0yXQcWx7n6FOZbmSgcY"
-      },
-      "artists": [
-        {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
-        }
-      ],
-      "duration_ms": 186600,
-      "name": "Night Journeys I",
-      "url": "https://open.spotify.com/track/3FCmel7RBlvT01EJGA4QEq"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Under the Lilac Sky",
         "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 240000,
       "name": "My People Have Deep Roots",
       "url": "https://open.spotify.com/track/0Xkmp9DkqHvz5EnA7VZPD0"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Night Journeys",
+        "url": "https://open.spotify.com/album/3re0yXQcWx7n6FOZbmSgcY"
+      },
+      "artists": [
+        {
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
+        }
+      ],
+      "duration_ms": 186600,
+      "name": "Night Journeys I",
+      "url": "https://open.spotify.com/track/3FCmel7RBlvT01EJGA4QEq"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -631,22 +631,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
-        "url": "https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3"
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
       },
       "artists": [
         {
-          "name": "Anna Phoebe",
-          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
-        },
-        {
-          "name": "Alexandra Hamilton-Ayres",
-          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
         }
       ],
-      "duration_ms": 288693,
-      "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
-      "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
+      "duration_ms": 144500,
+      "name": "Absolution",
+      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -667,8 +663,8 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Silver Ladders",
-        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
+        "name": "Collected Pieces",
+        "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
       },
       "artists": [
         {
@@ -676,9 +672,29 @@
           "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
         }
       ],
-      "duration_ms": 225934,
-      "name": "Silver Ladders",
-      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
+      "duration_ms": 628736,
+      "name": "Wawa by the Ocean",
+      "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
+        "url": "https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3"
+      },
+      "artists": [
+        {
+          "name": "Anna Phoebe",
+          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
+        },
+        {
+          "name": "Alexandra Hamilton-Ayres",
+          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
+        }
+      ],
+      "duration_ms": 288693,
+      "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
+      "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -695,22 +711,6 @@
       "duration_ms": 1351601,
       "name": "Grafts",
       "url": "https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
-      },
-      "artists": [
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Absolution",
-      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -775,8 +775,8 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Collected Pieces",
-        "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
+        "name": "Silver Ladders",
+        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
         }
       ],
-      "duration_ms": 628736,
-      "name": "Wawa by the Ocean",
-      "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
+      "duration_ms": 225934,
+      "name": "Silver Ladders",
+      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Antiphonals",
-        "url": "https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 394863,
-      "name": "Rushes Recede",
-      "url": "https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Deep Listening",
         "url": "https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 359398,
       "name": "Bassin Bleu",
       "url": "https://open.spotify.com/track/6O6L2WaSYRsehdwvqf5N63"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Antiphonals",
+        "url": "https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 394863,
+      "name": "Rushes Recede",
+      "url": "https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -927,22 +927,6 @@
       "duration_ms": 468000,
       "name": "Long Dizzying Air Through A Balcony Door",
       "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Selected Works Preview",
-        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 381496,
-      "name": "Composition Of Flowers (Excerpt)",
-      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1011,6 +995,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "a journey...",
+        "url": "https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M"
+      },
+      "artists": [
+        {
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+        }
+      ],
+      "duration_ms": 256146,
+      "name": "A Journey",
+      "url": "https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "For Organ and Brass",
         "url": "https://open.spotify.com/album/1CYC6me7uYzEHT5klCLQpL"
       },
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "a journey...",
-        "url": "https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M"
+        "name": "Selected Works Preview",
+        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
       },
       "artists": [
         {
-          "name": "Hinako Omori",
-          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
         }
       ],
-      "duration_ms": 256146,
-      "name": "A Journey",
-      "url": "https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz"
+      "duration_ms": 381496,
+      "name": "Composition Of Flowers (Excerpt)",
+      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Springtime in Croatia",
-        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Springtime in Croatia",
-      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Hill, Flower, Fog",
         "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 347680,
       "name": "Moon View",
       "url": "https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Springtime in Croatia",
+        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Springtime in Croatia",
+      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Collagen",
+        "url": "https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lerkenfeldt",
+          "url": "https://open.spotify.com/artist/3famB97koyRfo502IWQjFL"
+        }
+      ],
+      "duration_ms": 321693,
+      "name": "In Her Hair",
+      "url": "https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "Possessed (Original Score)",
         "url": "https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY"
       },
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Collagen",
-        "url": "https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx"
+        "name": "Penelope Three",
+        "url": "https://open.spotify.com/album/7sXPjvU04sPL4TA7m40wUM"
       },
       "artists": [
         {
-          "name": "Lisa Lerkenfeldt",
-          "url": "https://open.spotify.com/artist/3famB97koyRfo502IWQjFL"
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
         }
       ],
-      "duration_ms": 321693,
-      "name": "In Her Hair",
-      "url": "https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV"
+      "duration_ms": 184973,
+      "name": "Fur & Feather",
+      "url": "https://open.spotify.com/track/70QhYy1IM2lzMfsprIQ8nJ"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1275,22 +1291,6 @@
       "duration_ms": 209160,
       "name": "Cry Me A Blizzard - AFRODEUTSCHE I'm Here Remix",
       "url": "https://open.spotify.com/track/3Oi3oW4U2QRnc7Gt0VNnQB"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Penelope Three",
-        "url": "https://open.spotify.com/album/7sXPjvU04sPL4TA7m40wUM"
-      },
-      "artists": [
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Fur & Feather",
-      "url": "https://open.spotify.com/track/70QhYy1IM2lzMfsprIQ8nJ"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Hope Dealers",
-        "url": "https://open.spotify.com/album/71cZVBxEtdDgJDRXipmtlZ"
+        "name": "Arrow",
+        "url": "https://open.spotify.com/album/23XR5sJhFLxezpchTPf54S"
       },
       "artists": [
         {
-          "name": "Klein",
-          "url": "https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct"
+          "name": "Noveller",
+          "url": "https://open.spotify.com/artist/3MqYHtX48uiYNf0gPaNBW2"
         }
       ],
-      "duration_ms": 352000,
-      "name": "Hope Dealers",
-      "url": "https://open.spotify.com/track/4V6Y9lCX3xnSoa11nN2S02"
+      "duration_ms": 227748,
+      "name": "Effektology",
+      "url": "https://open.spotify.com/track/2R7ow3ycyaJZe13AvKdLQc"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Arrow",
-        "url": "https://open.spotify.com/album/23XR5sJhFLxezpchTPf54S"
+        "name": "Hope Dealers",
+        "url": "https://open.spotify.com/album/71cZVBxEtdDgJDRXipmtlZ"
       },
       "artists": [
         {
-          "name": "Noveller",
-          "url": "https://open.spotify.com/artist/3MqYHtX48uiYNf0gPaNBW2"
+          "name": "Klein",
+          "url": "https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct"
         }
       ],
-      "duration_ms": 227748,
-      "name": "Effektology",
-      "url": "https://open.spotify.com/track/2R7ow3ycyaJZe13AvKdLQc"
+      "duration_ms": 352000,
+      "name": "Hope Dealers",
+      "url": "https://open.spotify.com/track/4V6Y9lCX3xnSoa11nN2S02"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1647,6 +1647,26 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "\u00bfY Qu\u00e9 Es el Sol para Ellos Sino Algo Que Produce Sombras?",
+        "url": "https://open.spotify.com/album/1SnoM9AauiiroErXXLuZnz"
+      },
+      "artists": [
+        {
+          "name": "Hannah Lee",
+          "url": "https://open.spotify.com/artist/3bUs5Fz4GknxKlVALu9Aoy"
+        },
+        {
+          "name": "El Le\u00f3n Pardo",
+          "url": "https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu"
+        }
+      ],
+      "duration_ms": 1792000,
+      "name": "Sino Algo Que Produce Sombras?",
+      "url": "https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "When This World Sleeps",
         "url": "https://open.spotify.com/album/10ejf7X34wj0usEtGA65cQ"
       },
@@ -1659,22 +1679,6 @@
       "duration_ms": 194004,
       "name": "Dark green",
       "url": "https://open.spotify.com/track/1T9URTwhBOEiQM5atg0jbz"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Laurus",
-        "url": "https://open.spotify.com/album/002PfB3V3MwL05lAvCTC6l"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 245296,
-      "name": "Laurus I",
-      "url": "https://open.spotify.com/track/2Ghsr0ema2mSWWAFitSttM"
     }
   ],
   "unique_name": "EQUAL Ambient",

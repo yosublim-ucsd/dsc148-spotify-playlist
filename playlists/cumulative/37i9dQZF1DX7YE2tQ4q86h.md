@@ -2,7 +2,7 @@
 
 ### [OBSESSED](https://open.spotify.com/playlist/37i9dQZF1DX7YE2tQ4q86h)
 
-> It's an main improv pop girl emergency 🆘  Cover: Ariana Grande
+> It's a main improv pop girl emergency 🆘  Cover: Ariana Grande
 
 778 songs - 1 day 15 hr 13 min
 

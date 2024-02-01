@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: BENNETT, Indila
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,084 likes - 76 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,202 likes - 76 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 28 | [Never Be Alone](https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Never Be Alone](https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM) | 3:09 |
 | 29 | [Sail Away \(feat\. Laura Brehm\)](https://open.spotify.com/track/5nZ3fj5icOnJhmVsvGSqVL) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Sail Away \(feat\. Laura Brehm\)](https://open.spotify.com/album/0ePoBRHuZ055Sy40GNgE6i) | 2:36 |
 | 30 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 |
-| 31 | [Ameno](https://open.spotify.com/track/4Bak56MdceMpCkR4LcPdD9) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Ameno](https://open.spotify.com/album/2gu56SoG1tKlPq30FoPoc3) | 2:12 |
+| 31 | [Ameno](https://open.spotify.com/track/4Bak56MdceMpCkR4LcPdD9) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [Maoam](https://open.spotify.com/artist/7IuCvuIcTx2Rp05kwHuvSv) | [Ameno](https://open.spotify.com/album/2gu56SoG1tKlPq30FoPoc3) | 2:12 |
 | 32 | [Deep In Your Love](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Deep In Your Love](https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs) | 2:24 |
 | 33 | [Forever \(Stay Like This\)](https://open.spotify.com/track/7pUtuvFh9SMtFozqwsPHnl) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Forever \(Stay Like This\)](https://open.spotify.com/album/1HyxYCoQk0T8iIHKE5fkEm) | 2:32 |
 | 34 | [Sugar Pie Honey Bunch](https://open.spotify.com/track/2chkrQeCVft2c9Lcz9Vf0T) | [STRINGS](https://open.spotify.com/artist/2miDdmDaU90uQwrBIFj9Cs), [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Sugar Pie Honey Bunch](https://open.spotify.com/album/6gA1FTkOKQviWLIa5eie3O) | 2:55 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 75 | [Hollaback Girl](https://open.spotify.com/track/1qJZihOgYTM56ux1cTpH0O) | [TRFN](https://open.spotify.com/artist/5Wj4v7ri4aDONkGEIuo0zp) | [Hollaback Girl](https://open.spotify.com/album/6Q2jMQGNSwbrGrZMQEqs0e) | 2:02 |
 | 76 | [Time Machine](https://open.spotify.com/track/6qnXktpP5svTuwJJbpn5Rd) | [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r) | [Time Machine](https://open.spotify.com/album/29Pf1a2PvWoghSr9YsbCsM) | 2:31 |
 
-Snapshot ID: `MCwwNDBmN2Q1YzBjOGQ5ZGIzN2FhMDkwNTdmNWUwZjZmMDBjYzg0OTll`
+Snapshot ID: `MCwzMGNlNWU4N2RjYjBmYjJiMzc3MDIwYWEyYjNjNTRkYmVmYzQzZGJj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 
 > This is Megan Moroney\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,521 likes - 18 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,551 likes - 18 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 | 17 | [Lucky](https://open.spotify.com/track/4KdvlmutAtM0FF8mCXXhQt) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:41 |
 | 18 | ['Til It All Goes South](https://open.spotify.com/track/2Ks3jo0IfcK280NRyd4wfR) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:53 |
 
-Snapshot ID: `Mjg0NDM2MzksMDAwMDAwMDAxZjBiYmI5M2U5YjRiMWQwNDVkMDFkMDMxYjZlYTFhMg==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDA5NmQ3MDk0YTczNzRlNjU4Zjk4MWQ3MjdhNzViYTkwNQ==`

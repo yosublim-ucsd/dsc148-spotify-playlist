@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 23555,
+  "2024-02-01": 23600,
   "date_first_scraped": "2020-10-16",
   "description": "With FKA twigs, Crystal Castles, Purity Ring and more",
   "name": "Grimes Radio",
@@ -311,7 +311,7 @@
       ],
       "date_added": "2020-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 270982,
       "name": "4\u00c6M",
       "url": "https://open.spotify.com/track/4keclC0eBhQm8lFtYmX01K"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 157973,
       "name": "Advice",
       "url": "https://open.spotify.com/track/3poJLRLGViMX3gicX9UYtD"
@@ -4499,7 +4499,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 154666,
       "name": "Bubblegum Bitch",
       "url": "https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F"
@@ -7755,7 +7755,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 258186,
       "name": "Don't Move",
       "url": "https://open.spotify.com/track/1BeNZQORyV0jEF2toAmrsA"
@@ -10405,7 +10405,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 292600,
       "name": "Gallowdance",
       "url": "https://open.spotify.com/track/74SUn8w4lYSwgOGPvVZiEo"
@@ -10441,7 +10441,7 @@
       ],
       "date_added": "2020-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 255320,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
@@ -10769,7 +10769,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 134693,
       "name": "Girls Just Want to Have Fun",
       "url": "https://open.spotify.com/track/7hvwgwbZCCGZaNRQSf8bin"
@@ -11921,7 +11921,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "Heads Will Roll",
       "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
@@ -13845,7 +13845,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 249208,
       "name": "Illest Alive",
       "url": "https://open.spotify.com/track/6OsAdrgNaI7yeXVccv0Cq3"
@@ -16059,7 +16059,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 207986,
       "name": "Lithium",
       "url": "https://open.spotify.com/track/3ofiQMPt5OZZTzzsCewZBU"
@@ -17865,7 +17865,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 233639,
       "name": "Money",
       "url": "https://open.spotify.com/track/3VIJBrMpvimHEw5wtPh2wB"
@@ -18529,7 +18529,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 216146,
       "name": "Neglect",
       "url": "https://open.spotify.com/track/53MLlxLRavqZnoOfzzaVI0"
@@ -23173,7 +23173,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 189040,
       "name": "Sea, Swallow Me",
       "url": "https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS"
@@ -25155,7 +25155,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
@@ -26729,7 +26729,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 227760,
       "name": "The Blonde",
       "url": "https://open.spotify.com/track/72cGBEqu7RitIOoACXYjfR"
@@ -27029,7 +27029,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 194423,
       "name": "The Perfect Girl",
       "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
@@ -27195,7 +27195,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 120403,
       "name": "This Could Build Us a Home",
       "url": "https://open.spotify.com/track/7Cp2PE6Id35QlK1pIpu7X9"
@@ -30809,7 +30809,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 189003,
       "name": "\u0422\u043e\u0441\u043a\u0430",
       "url": "https://open.spotify.com/track/0sMra9TqwOskuvn4eR11n3"

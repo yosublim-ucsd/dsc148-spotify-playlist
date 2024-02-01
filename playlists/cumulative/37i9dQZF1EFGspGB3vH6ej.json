@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 187773,
       "name": "A No No",
       "url": "https://open.spotify.com/track/2Q0JkTzFXrU2BbnQT7tzIR"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 192063,
       "name": "A No No",
       "url": "https://open.spotify.com/track/7EK3YFQ4lhucpRvpsGLuUU"
@@ -1397,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "Caution",
+        "url": "https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207120,
+      "name": "GTFO",
+      "url": "https://open.spotify.com/track/5GjXMhZsT6cdfRB7nurGu2"
+    },
+    {
+      "album": {
         "name": "GTFO",
         "url": "https://open.spotify.com/album/0jqiSbKHyINB0igOXvWhbn"
       },
@@ -1408,7 +1426,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 212970,
       "name": "GTFO",
       "url": "https://open.spotify.com/track/3xGvObSNX7MTyG5KEHIdBG"
@@ -2258,7 +2276,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 239800,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/7IzurnmQLvZmMDJcpITUyt"
@@ -2276,7 +2294,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 244671,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/6Dus3vfzEG6AJMsPpcuSp3"
@@ -3300,7 +3318,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 266933,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT"
@@ -3318,7 +3336,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 288213,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/5azkZMilI4gbDfVTLEH2qS"
@@ -4257,6 +4275,24 @@
     },
     {
       "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314040,
+      "name": "The Roof (Back In Time)",
+      "url": "https://open.spotify.com/track/4gNeiiz86Y5wekGwfIybXW"
+    },
+    {
+      "album": {
         "name": "The Roof (Back In Time) [Official 4K Video]",
         "url": "https://open.spotify.com/album/4a12JmbIOANEB2TCxf85ZY"
       },
@@ -4268,10 +4304,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 331605,
       "name": "The Roof (Back In Time)",
       "url": "https://open.spotify.com/track/7HZh69AQx1UNiOG4otT1IT"
+    },
+    {
+      "album": {
+        "name": "The Star (Official Video)",
+        "url": "https://open.spotify.com/album/3GQ7UiU66r93Dr6pXKOCHC"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241301,
+      "name": "The Star",
+      "url": "https://open.spotify.com/track/6OiMtQTim2beBZamDHybJL"
     },
     {
       "album": {
@@ -4286,7 +4340,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 241453,
       "name": "The Star",
       "url": "https://open.spotify.com/track/0hLwOAorcYaNTrFLQtw69C"
@@ -4322,10 +4376,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 292533,
       "name": "There's Got to Be a Way",
       "url": "https://open.spotify.com/track/4nrGqAXIwimqVx0T1ejUyP"
+    },
+    {
+      "album": {
+        "name": "There's Got To Be A Way (Official HD Video)",
+        "url": "https://open.spotify.com/album/0HA57Oi0aZHBv3lPfYZWHk"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297600,
+      "name": "There's Got to Be a Way",
+      "url": "https://open.spotify.com/track/2gkfRN2oSvjrueTbHQgQq0"
     },
     {
       "album": {
@@ -4831,6 +4903,24 @@
     },
     {
       "album": {
+        "name": "Caution",
+        "url": "https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227586,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/5F13RMbVzqCHUQSo5KL3Ci"
+    },
+    {
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/6npiZFL3shh7GfqqhWimid"
       },
@@ -4842,7 +4932,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 230336,
       "name": "With You",
       "url": "https://open.spotify.com/track/3tpOgbBnx1NTui7LSuf68K"

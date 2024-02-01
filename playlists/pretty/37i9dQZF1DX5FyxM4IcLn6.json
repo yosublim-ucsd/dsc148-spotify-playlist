@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64th GRAMMY Awards.",
-  "num_followers": 125640,
+  "num_followers": 125668,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjJiYmYzNzJiOWVlNmE3MDkxZWYxMDk5OTgwY2FhYTZmMGUxNzY0",
+  "snapshot_id": "MCwyNmM2ZjRmODQ1ODkxNmZiZjc2ZDE2NDg0YjE1YzNmNTZkOTBkODFh",
   "tracks": [
     {
       "added_at": "2023-11-10 16:50:05",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "White Horse",
-        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "White Horse",
-      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "minor",
         "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
@@ -519,6 +503,22 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
+        "name": "White Horse",
+        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 267893,
+      "name": "White Horse",
+      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
       },
@@ -531,22 +531,6 @@
       "duration_ms": 153346,
       "name": "City Boys",
       "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -579,22 +563,18 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 169911,
-      "name": "UNAVAILABLE (feat. Musa Keys)",
-      "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -615,6 +595,26 @@
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        }
+      ],
+      "duration_ms": 169911,
+      "name": "UNAVAILABLE (feat. Musa Keys)",
+      "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -859,26 +859,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Baby Rasta",
-          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
-        }
-      ],
-      "duration_ms": 190654,
-      "name": "PUNTO 40",
-      "url": "https://open.spotify.com/track/4UGqAW9i7NtE5mW9xzm6yk"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "We Don't Fight Anymore",
         "url": "https://open.spotify.com/album/1goHGZOsPNmzsJTxOIa62m"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 220145,
       "name": "We Don't Fight Anymore",
       "url": "https://open.spotify.com/track/2dPwBKr5uJeCeyd5IoWi8W"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        }
+      ],
+      "duration_ms": 190654,
+      "name": "PUNTO 40",
+      "url": "https://open.spotify.com/track/4UGqAW9i7NtE5mW9xzm6yk"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Sittin' On Top Of The World",
-        "url": "https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 159372,
-      "name": "Sittin' On Top Of The World",
-      "url": "https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "Jaded",
         "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 262631,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "Sittin' On Top Of The World",
+        "url": "https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 159372,
+      "name": "Sittin' On Top Of The World",
+      "url": "https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Phantom Of The Opera",
-        "url": "https://open.spotify.com/album/3LZ9bieXF4luLjfeIE9zqb"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 443386,
-      "name": "Phantom Of The Opera",
-      "url": "https://open.spotify.com/track/4KNuTxGlUSb9hFm8asqWuZ"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "Actual Life 3 (January 1 - September 9 2022)",
         "url": "https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 250702,
       "name": "Delilah (pull me out of this)",
       "url": "https://open.spotify.com/track/3wJrBiiTIRRfKSL2TQWR60"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "Phantom Of The Opera",
+        "url": "https://open.spotify.com/album/3LZ9bieXF4luLjfeIE9zqb"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 443386,
+      "name": "Phantom Of The Opera",
+      "url": "https://open.spotify.com/track/4KNuTxGlUSb9hFm8asqWuZ"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
+        "name": "Brothers Osborne",
+        "url": "https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "Nobody's Nobody",
+      "url": "https://open.spotify.com/track/0WT1ILuFrh8reQUmPwmhMo"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
         "name": "JAGUAR II",
         "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 217632,
       "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
       "url": "https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
-        "name": "Brothers Osborne",
-        "url": "https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "Nobody's Nobody",
-      "url": "https://open.spotify.com/track/0WT1ILuFrh8reQUmPwmhMo"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Only the Strong Survive",
-        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 296906,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "Firm Foundation (Live)",
         "url": "https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 380666,
       "name": "Firm Foundation (He Won\u2019t) - Live",
       "url": "https://open.spotify.com/track/2HdibfM50khhtRTeKI0FkK"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 296906,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "The Age of Pleasure",
-        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 169386,
-      "name": "Lipstick Lover",
-      "url": "https://open.spotify.com/track/0zBVnui5j6g5lDEfPpbobx"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "For That Beautiful Feeling",
         "url": "https://open.spotify.com/album/5cLkbqs0qo552lJvXH1JTH"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 283093,
       "name": "Skipping Like A Stone (feat. Beck)",
       "url": "https://open.spotify.com/track/6yjhWDg1b5YW3Vkr52Mf4L"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "Lipstick Lover",
+      "url": "https://open.spotify.com/track/0zBVnui5j6g5lDEfPpbobx"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "The Returner",
-        "url": "https://open.spotify.com/album/2rzetXorcdU2BH86aoqHmw"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 364240,
-      "name": "Eve Was Black",
-      "url": "https://open.spotify.com/track/2qk8MrOzi5enT9CzMZRoX4"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "Lover's Game",
         "url": "https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W"
       },
@@ -2219,18 +2203,18 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Milagro y Desastre",
-        "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
+        "name": "The Returner",
+        "url": "https://open.spotify.com/album/2rzetXorcdU2BH86aoqHmw"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
         }
       ],
-      "duration_ms": 245672,
-      "name": "Milagro y Desastre",
-      "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
+      "duration_ms": 364240,
+      "name": "Eve Was Black",
+      "url": "https://open.spotify.com/track/2qk8MrOzi5enT9CzMZRoX4"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -2251,6 +2235,22 @@
       "duration_ms": 198430,
       "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
       "url": "https://open.spotify.com/track/4oXSMpRHeGANQzmzcOsRjq"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "Milagro y Desastre",
+        "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 245672,
+      "name": "Milagro y Desastre",
+      "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
     },
     {
       "added_at": "2023-11-10 16:50:05",

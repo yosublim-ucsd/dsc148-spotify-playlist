@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ou vc dança ou o grave t balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 717,346 likes - 71 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,255 likes - 71 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vem de flecha](https://open.spotify.com/track/7rII7hWYrJwU4MoVHmRsdY) | [DJ DIDI](https://open.spotify.com/artist/1cLuhjj5kHz8fabsZllDWJ) | [Vem de flecha](https://open.spotify.com/album/2NrcAgJjWRyBEN5oLbWrCQ) | 2:59 |
+| 1 | [Vem de flecha](https://open.spotify.com/track/7rII7hWYrJwU4MoVHmRsdY) | [DJ DIDI](https://open.spotify.com/artist/1cLuhjj5kHz8fabsZllDWJ), [Dj Rayan](https://open.spotify.com/artist/2SN0sv6jL9pWPYIgcWgb2a), [Mc Fopi](https://open.spotify.com/artist/07BaHE7dzguDOawZRVWCsR) | [Vem de flecha](https://open.spotify.com/album/2NrcAgJjWRyBEN5oLbWrCQ) | 2:59 |
 | 2 | [Baby Eu Tava na Rua da Água](https://open.spotify.com/track/4sAoshwHCmh4IHMQxZHwRD) | [TR](https://open.spotify.com/artist/2CotyFTVKWR1jJLPTrrjdu), [Mc Menor RV](https://open.spotify.com/artist/5MH9v8KacsyTetJmnrAO1W), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Baby Eu Tava na Rua da Água](https://open.spotify.com/album/6HIPvZhnf9Pb6rFLQb7vmD) | 1:56 |
 | 3 | [MAGRÃO SUPREMO](https://open.spotify.com/track/7eZE5ob4uWJkAZYQyAIFdP) | [DJ Idk](https://open.spotify.com/artist/5zKrn256dtGXDCpOVlr22G), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI), [Mc Pikachu](https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5) | [MAGRÃO SUPREMO](https://open.spotify.com/album/6QxXpdAJWcNjwyFi9Xbewi) | 3:21 |
 | 4 | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/track/6zdL0aLZs6g61SPGrlMvrM) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [MC Koringa](https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt) | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/album/5LjiaU620s0bLVN0zf57O5) | 2:37 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 70 | [Tipo Hollywood](https://open.spotify.com/track/6nvbXA95vgyThzj2Tbhank) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [Tipo Holywood](https://open.spotify.com/album/5W7hjyoWwy2KGEUTCN0L6z) | 1:49 |
 | 71 | [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO), [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 |
 
-Snapshot ID: `MCwwMWI4ZWUwNTMwZjk1ZDJhOGUyZjFiNzliOGQzZDNmOGMwOTQwNWRl`
+Snapshot ID: `MCw2MWQ5ZTU4OWJlMmI1NzU3ODc5MmQ3YmMyY2UwMDEzMTFmZDgwNThk`

@@ -2,7 +2,7 @@
 
 ### [Aperitivo Time](https://open.spotify.com/playlist/37i9dQZF1DWZLhUfNQOQ1p)
 
-> Musica da ascoltare con un Negroni in mano\. 🍹
+> Musica da ascoltare con un drink in mano\. 🍹
 
 303 songs - 19 hr 59 min
 
@@ -188,7 +188,7 @@
 | [My Friend](https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Goodbye Country \(Hello Nightclub\)](https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6) | 5:00 | 2023-05-30 |  |
 | [My Love](https://open.spotify.com/track/0I2qVDrbiihbxLDL6Grm1G) | [Tom Tones](https://open.spotify.com/artist/0f8fXBvUv6C4gDkTqwMvpB) | [My Love](https://open.spotify.com/album/7t7R7UUCmEWhDR6mhjGgBf) | 3:23 | 2021-08-05 | 2022-07-29 |
 | [Mystery Lady \- Scorpion Kings Remix](https://open.spotify.com/track/0nx8uE4jpVqMF2kIRWW98W) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Mystery Lady \(Scorpion Kings Remix\)](https://open.spotify.com/album/4VGeapArZuyjTw7rcIXjmi) | 7:30 | 2023-05-30 | 2023-11-29 |
-| [Need a Hit](https://open.spotify.com/track/7vUzucnemSOROrnuPRyUzh) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Gero](https://open.spotify.com/artist/0qVlTFcbWu2eNXGdHrp0g1) | [Need a Hit](https://open.spotify.com/album/3rvmNL5HkzmKWkHrS9nUyY) | 3:53 | 2023-11-24 |  |
+| [Need a Hit](https://open.spotify.com/track/7vUzucnemSOROrnuPRyUzh) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Gero](https://open.spotify.com/artist/0qVlTFcbWu2eNXGdHrp0g1), [Club Azur](https://open.spotify.com/artist/7HjhcFRLzzNysy05pyufdh) | [Need a Hit](https://open.spotify.com/album/3rvmNL5HkzmKWkHrS9nUyY) | 3:53 | 2023-11-24 |  |
 | [Never Be the Same](https://open.spotify.com/track/2oIFFx2csg2lxgOhLDrd70) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU), [Agatha Saron](https://open.spotify.com/artist/7w6sRUIg45gPBfa6d2vvYO) | [Never Be the Same \(Sons Of Maria vs\. Agatha Saron\)](https://open.spotify.com/album/2a6WTjGTEKetqEjGUkRk4U) | 3:20 | 2021-08-05 | 2023-05-31 |
 | [Never Come Back](https://open.spotify.com/track/2xxKJgIpgiancRpSup5dHU) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 5:05 | 2023-05-30 |  |
 | [Never Gonna Give You Up](https://open.spotify.com/track/5fnDDcjcXKUvJ6iSnpiU0v) | [Mac Beez](https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds) | [Never Gonna Give You Up](https://open.spotify.com/album/1fWMQOAKIqdgzQgE311HK8) | 3:32 | 2021-08-05 | 2023-05-31 |

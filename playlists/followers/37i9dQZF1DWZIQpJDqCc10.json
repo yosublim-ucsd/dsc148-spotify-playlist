@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 618269,
+  "2024-02-01": 618502,
   "date_first_scraped": "2022-01-21",
   "description": "The greatest indie love songs of all time. ",
   "name": "Indie Love Songs",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 181746,
       "name": "1st Time",
       "url": "https://open.spotify.com/track/4udjo5nLK61pKajakfrndc"
@@ -197,10 +197,28 @@
       ],
       "date_added": "2021-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 180093,
       "name": "Anyone Else But You",
       "url": "https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy"
+    },
+    {
+      "album": {
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202047,
+      "name": "anything",
+      "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
     },
     {
       "album": {
@@ -547,6 +565,24 @@
       "duration_ms": 238693,
       "name": "California Daze",
       "url": "https://open.spotify.com/track/3Oa4HmaT53IzzyZDbqmT2b"
+    },
+    {
+      "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190546,
+      "name": "Can I Call You Rose?",
+      "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
     },
     {
       "album": {
@@ -1018,6 +1054,24 @@
     },
     {
       "album": {
+        "name": "Antisocialites",
+        "url": "https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196026,
+      "name": "Dreams Tonite",
+      "url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD"
+    },
+    {
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/1CiO0EwK73UWXiAflI5ZSs"
       },
@@ -1281,7 +1335,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 220812,
       "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
@@ -1321,6 +1375,24 @@
       "duration_ms": 222426,
       "name": "From Eden",
       "url": "https://open.spotify.com/track/2tKOIBLJ2j384tnunmmKi7"
+    },
+    {
+      "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218287,
+      "name": "Fuck it I love you",
+      "url": "https://open.spotify.com/track/7MtVPRGtZl6rPjMfLoI3Lh"
     },
     {
       "album": {
@@ -1371,7 +1443,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 133200,
       "name": "girlfriend",
       "url": "https://open.spotify.com/track/7qkNf6D661jZI9yNqw27LA"
@@ -1598,6 +1670,24 @@
     },
     {
       "album": {
+        "name": "I Love You So",
+        "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160239,
+      "name": "I Love You So",
+      "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
+    },
+    {
+      "album": {
         "name": "After the Snow",
         "url": "https://open.spotify.com/album/5npj803fI6x0fYa4sPavvL"
       },
@@ -1681,7 +1771,7 @@
       ],
       "date_added": "2021-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 214080,
       "name": "I Would Do Anything for You",
       "url": "https://open.spotify.com/track/5fgb3Md1xjt3mxeBqguiIA"
@@ -2604,6 +2694,24 @@
     },
     {
       "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
+      "album": {
         "name": "EP I.",
         "url": "https://open.spotify.com/album/5fzwP4FRJjFQBBmhKJwpWn"
       },
@@ -3443,7 +3551,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 255400,
       "name": "Simple Song",
       "url": "https://open.spotify.com/track/48bo7uexDvAThcRDvEB2W7"
@@ -3501,6 +3609,24 @@
       "duration_ms": 392306,
       "name": "Slide Away - Remastered",
       "url": "https://open.spotify.com/track/2cFXybEXggFTpPeIzWWHpk"
+    },
+    {
+      "album": {
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209273,
+      "name": "SLOW DANCING IN THE DARK",
+      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
     },
     {
       "album": {
@@ -3605,7 +3731,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 127600,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/2tBxJ43XiwEzhf7Xalc5UG"
@@ -4214,6 +4340,24 @@
     },
     {
       "album": {
+        "name": "Vampire Empire",
+        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192127,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
+    },
+    {
+      "album": {
         "name": "xx",
         "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
       },
@@ -4363,7 +4507,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 294626,
       "name": "We're In Love",
       "url": "https://open.spotify.com/track/5eoy62yFNJAli6AyKK5qnH"

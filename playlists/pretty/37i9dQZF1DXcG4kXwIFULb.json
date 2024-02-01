@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 147532,
+  "num_followers": 147608,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGNlNjNjMjNmMTU3YTRjNDk2YjVlMjgwMmIyNDMxYWRkZDQ5YmVk",
+  "snapshot_id": "MCxhMzQwM2Q4ZGNiYmIyY2UzNzQyZTNlOTZlNTcyYzM0MjFlNWNmZjJi",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -763,6 +763,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Deadringer: Deluxe",
+        "url": "https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj"
+      },
+      "artists": [
+        {
+          "name": "RJD2",
+          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "Smoke & Mirrors",
+      "url": "https://open.spotify.com/track/2C1nOw1nRxJaBWb9I1x05A"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "The Garden",
         "url": "https://open.spotify.com/album/5eqHucyy09GuijWam8RAja"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 233226,
       "name": "Futures",
       "url": "https://open.spotify.com/track/7m3Tbsn12hbBnsFHR6O4U7"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Deadringer: Deluxe",
-        "url": "https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj"
-      },
-      "artists": [
-        {
-          "name": "RJD2",
-          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "Smoke & Mirrors",
-      "url": "https://open.spotify.com/track/2C1nOw1nRxJaBWb9I1x05A"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -947,22 +947,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Felt Mountain",
-        "url": "https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed"
-      },
-      "artists": [
-        {
-          "name": "Goldfrapp",
-          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
-        }
-      ],
-      "duration_ms": 258026,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/1dToJK56u2pOVA3S66OgPB"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Permutation",
         "url": "https://open.spotify.com/album/7jxs0XY2yJS36PZCjUv4Hp"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 282573,
       "name": "Nova",
       "url": "https://open.spotify.com/track/0lcfJc4pG6xnNmrUlZ9232"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Felt Mountain",
+        "url": "https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed"
+      },
+      "artists": [
+        {
+          "name": "Goldfrapp",
+          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/1dToJK56u2pOVA3S66OgPB"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Gran Hotel Buenos Aires",
-        "url": "https://open.spotify.com/album/7wKtsnojLMwpoq8U5tf567"
+        "name": "Long Distance",
+        "url": "https://open.spotify.com/album/2R6MZANJIreWzTd7kjtpa2"
       },
       "artists": [
         {
-          "name": "Federico Aubele",
-          "url": "https://open.spotify.com/artist/3FIFlkBCqeOewVa9hiNgwq"
+          "name": "Ivy",
+          "url": "https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA"
         }
       ],
-      "duration_ms": 247040,
-      "name": "Postales",
-      "url": "https://open.spotify.com/track/4OSCQAeVcuANZNzL9220ye"
+      "duration_ms": 265626,
+      "name": "Edge Of The Ocean",
+      "url": "https://open.spotify.com/track/5zjQ3gF7xeNhMh0Is6wX0b"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Long Distance",
-        "url": "https://open.spotify.com/album/2R6MZANJIreWzTd7kjtpa2"
+        "name": "Gran Hotel Buenos Aires",
+        "url": "https://open.spotify.com/album/7wKtsnojLMwpoq8U5tf567"
       },
       "artists": [
         {
-          "name": "Ivy",
-          "url": "https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA"
+          "name": "Federico Aubele",
+          "url": "https://open.spotify.com/artist/3FIFlkBCqeOewVa9hiNgwq"
         }
       ],
-      "duration_ms": 265626,
-      "name": "Edge Of The Ocean",
-      "url": "https://open.spotify.com/track/5zjQ3gF7xeNhMh0Is6wX0b"
+      "duration_ms": 247040,
+      "name": "Postales",
+      "url": "https://open.spotify.com/track/4OSCQAeVcuANZNzL9220ye"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Music By Cavelight",
-        "url": "https://open.spotify.com/album/5kEQ9AhNjGvjvplVU3dEkj"
-      },
-      "artists": [
-        {
-          "name": "Blockhead",
-          "url": "https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b"
-        }
-      ],
-      "duration_ms": 306586,
-      "name": "Insomniac Olympics",
-      "url": "https://open.spotify.com/track/7IuxuJBP6kwOOu1ShFzmR1"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Supermodified",
         "url": "https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 337506,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/15J6PrzKaLtvw0dBr9sq72"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Music By Cavelight",
+        "url": "https://open.spotify.com/album/5kEQ9AhNjGvjvplVU3dEkj"
+      },
+      "artists": [
+        {
+          "name": "Blockhead",
+          "url": "https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b"
+        }
+      ],
+      "duration_ms": 306586,
+      "name": "Insomniac Olympics",
+      "url": "https://open.spotify.com/track/7IuxuJBP6kwOOu1ShFzmR1"
     },
     {
       "added_at": "2020-09-04 01:12:56",

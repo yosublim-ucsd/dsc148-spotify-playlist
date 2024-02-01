@@ -870,10 +870,28 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 363120,
       "name": "Mujer Amante",
       "url": "https://open.spotify.com/track/0zLv81RNFByXTZ3wu91y1R"
+    },
+    {
+      "album": {
+        "name": "Magos, Espadas Y Rosas",
+        "url": "https://open.spotify.com/album/3wNTH6hg5KKjRtLJZHxhB9"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363120,
+      "name": "Mujer Amante",
+      "url": "https://open.spotify.com/track/4eCrF1FgVL4se3AkHOnLDL"
     },
     {
       "album": {

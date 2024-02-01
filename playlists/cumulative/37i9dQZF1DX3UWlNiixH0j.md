@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Age Factory
 
-1,288 songs - 3 day 8 hr 3 min
+1,289 songs - 3 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -773,7 +773,7 @@
 | [Touching](https://open.spotify.com/track/2uDkbhdKNmlmTTzYJGvqoi) | [Boyish](https://open.spotify.com/artist/4zOMFblFUbK27Smau7ABhD) | [FIELDS](https://open.spotify.com/album/6csud901rv0tlVffyKpOy5) | 3:58 | 2023-08-12 | 2023-08-23 |
 | [Toumei na Nukumori](https://open.spotify.com/track/76QXx63Sqbf4WvyS0QtaM4) | [Tico Moon](https://open.spotify.com/artist/0VHY3elnwBIM0w4VxT7NPz), [Risa Nakagawa](https://open.spotify.com/artist/35TXIIWvd5KWK5Y13cF8Hf) | [Toumei na Nukumori](https://open.spotify.com/album/7eElRimtFlrVjEx2a5ufXS) | 3:17 | 2023-06-21 | 2023-07-05 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-19 | 2023-09-27 |
-| [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-09-14 |  |
+| [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-09-14 | 2024-02-01 |
 | [trust none](https://open.spotify.com/track/1OO9p0vTUo9Ecd4aiWTXz6) | [くだらない1日](https://open.spotify.com/artist/0e11UZEaAK9dntRu5NAc6f) | [trust none](https://open.spotify.com/album/2zZeIRHjF2wITdR4lOtVLZ) | 3:45 | 2023-12-07 | 2023-12-13 |
 | [Try it](https://open.spotify.com/track/6uiJDc0yjQ9hBVIpQ0ZZw2) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [Try it](https://open.spotify.com/album/3acGxNAVqRP0UCLT0rQpuR) | 3:41 | 2023-01-12 | 2023-02-15 |
 | [Tuesday Butterfly \- feat\. Misi Ke](https://open.spotify.com/track/0ezYoov46hgipHPUtk7Pm5) | [Fake Creators](https://open.spotify.com/artist/61QSgy6VGii6CLMcAGJ685), [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [Tuesday Butterfly \(feat\. Misi Ke\)](https://open.spotify.com/album/3EmYHtnxH9f46MdkoRcSvQ) | 3:09 | 2023-08-30 | 2023-09-21 |
@@ -836,6 +836,7 @@
 | [yasumon](https://open.spotify.com/track/0AAjbsUNnuEACRKI93isbg) | [SATTU CREW](https://open.spotify.com/artist/60OqpOuH9PILCjKoEwIXjj), [COCOLO BLAND](https://open.spotify.com/artist/3qYpP7aCDOYMIFf8FloJ18) | [Early in the Morning](https://open.spotify.com/album/2wI2aMVP6dB8i2498AYRpd) | 2:58 | 2023-08-15 | 2023-08-23 |
 | [YE](https://open.spotify.com/track/4sRaUXv7tUbO9h2zwMq9SB) | [POOLS](https://open.spotify.com/artist/12vqf5QMISRc8umYNvqFw8) | [YE](https://open.spotify.com/album/2dpoesUiLN9IoxCktVYOzt) | 2:47 | 2023-10-24 | 2023-11-01 |
 | [yoru](https://open.spotify.com/track/2WeKnXuEF5TWJqsMJSimLG) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [yoru](https://open.spotify.com/album/78VeUYC6QBWZ9AR59PDWx4) | 4:05 | 2023-07-11 | 2023-07-26 |
+| [Yotei](https://open.spotify.com/track/0sUt0usKLBjhcNjtetMU3g) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [Yotei](https://open.spotify.com/album/2FFYUv7eZ1pGgmwbVAGMFQ) | 4:24 | 2024-01-31 |  |
 | [You & I](https://open.spotify.com/track/72ssNVSfuvYH39CLVDGh3F) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [You & I](https://open.spotify.com/album/45N5Sz0eCAuU90MYKF61Xl) | 4:30 | 2023-11-07 | 2023-12-06 |
 | [You can't turn back time](https://open.spotify.com/track/65oMR06aRT1Yv4ssgJY123) | [WANG GUNG BAND](https://open.spotify.com/artist/7yHwDGb1SxYEJGjqnjTNtP) | [You can't turn back time](https://open.spotify.com/album/2Z6By4lg64njKYzE6hgprg) | 4:39 | 2023-09-20 | 2023-09-27 |
 | [You're Young](https://open.spotify.com/track/3g18LxsivreftG2yU39qCg) | [YOUR SONG IS GOOD](https://open.spotify.com/artist/4Yt6N4u5vIpjRhT2O7zsLk), [Joelene](https://open.spotify.com/artist/7mKMhWh1Ujzds93YSodcnE) | [You're Young](https://open.spotify.com/album/6z6MALYTU7My2psRJwgUZf) | 4:14 | 2023-10-22 | 2023-11-16 |

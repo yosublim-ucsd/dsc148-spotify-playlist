@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 64198,
+  "num_followers": 64228,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTMxZTdiMjFmZDhiNzhkY2Q4ZTE3YjVmY2MwYWJkNGEzMDE4Zjc4",
+  "snapshot_id": "MCxiNTNmOGI4NzcwNDk2NTY1MTliMjY2NjY4MWY2YjRiMTE4NmRkMjNl",
   "tracks": [
     {
       "added_at": "2023-10-05 22:49:47",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Yo Lo Canto y Tu Lo Bailas",
-        "url": "https://open.spotify.com/album/3UW6tbYhtJYrYVGR0U85W1"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres de Parral",
-          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
-        }
-      ],
-      "duration_ms": 231393,
-      "name": "Matalas",
-      "url": "https://open.spotify.com/track/7pSYLS1okWaevRLU2oXCqa"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Aqu\u00ed Abajo",
         "url": "https://open.spotify.com/album/71XQDA4LaqPNmzY7uIJNxz"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 231906,
       "name": "Aqu\u00ed Abajo",
       "url": "https://open.spotify.com/track/6w7qbaCzJAihXY09kHx6iU"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Yo Lo Canto y Tu Lo Bailas",
+        "url": "https://open.spotify.com/album/3UW6tbYhtJYrYVGR0U85W1"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres de Parral",
+          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
+        }
+      ],
+      "duration_ms": 231393,
+      "name": "Matalas",
+      "url": "https://open.spotify.com/track/7pSYLS1okWaevRLU2oXCqa"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Descaderando Viejos por Todo Chile",
-        "url": "https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q"
-      },
-      "artists": [
-        {
-          "name": "Banda Salvaje",
-          "url": "https://open.spotify.com/artist/6QO04IJTCHf4iedGSa7iqg"
-        }
-      ],
-      "duration_ms": 287040,
-      "name": "Me Vas a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "De Fiesta Con los Braos",
         "url": "https://open.spotify.com/album/2VeiRxdUOwogVqJJ35yMzX"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 267335,
       "name": "Abrazado de un Poste",
       "url": "https://open.spotify.com/track/1XruxMWn7b7WjTiw6ItLDG"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Descaderando Viejos por Todo Chile",
+        "url": "https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q"
+      },
+      "artists": [
+        {
+          "name": "Banda Salvaje",
+          "url": "https://open.spotify.com/artist/6QO04IJTCHf4iedGSa7iqg"
+        }
+      ],
+      "duration_ms": 287040,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Voy a Ser",
-        "url": "https://open.spotify.com/album/1l8VoUVZi4Zg44PETgtyrD"
-      },
-      "artists": [
-        {
-          "name": "Talismanes del Ritmo y del amor",
-          "url": "https://open.spotify.com/artist/7FUvwgQOS0JMHnlm08PlQd"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "Voy a Ser",
-      "url": "https://open.spotify.com/track/7pCYJjG0r8reKopUPzy99z"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "La Chupilca",
         "url": "https://open.spotify.com/album/5bpY8kbK4mZiosA1UKI8x2"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 175205,
       "name": "La Chupilca",
       "url": "https://open.spotify.com/track/75N9uODWcbYhwYoayo7879"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Voy a Ser",
+        "url": "https://open.spotify.com/album/1l8VoUVZi4Zg44PETgtyrD"
+      },
+      "artists": [
+        {
+          "name": "Talismanes del Ritmo y del amor",
+          "url": "https://open.spotify.com/artist/7FUvwgQOS0JMHnlm08PlQd"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "Voy a Ser",
+      "url": "https://open.spotify.com/track/7pCYJjG0r8reKopUPzy99z"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Una D\u00e9cada de \u00c9xitos",
-        "url": "https://open.spotify.com/album/0JnWNO7tFztY1PMVHtnFZl"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros del Sur",
-          "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
-        }
-      ],
-      "duration_ms": 264672,
-      "name": "Como Te Va Mi Amor",
-      "url": "https://open.spotify.com/track/3wUzYtWsQCFhsMAyVFOhrY"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Nacieron para Triunfar, Vol. 1",
         "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
       },
@@ -999,18 +983,18 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Puro Sur Puro Chile",
-        "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
+        "name": "Una D\u00e9cada de \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JnWNO7tFztY1PMVHtnFZl"
       },
       "artists": [
         {
-          "name": "Los Pincheira del sur Oficial",
-          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
+          "name": "Los Prisioneros del Sur",
+          "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
         }
       ],
-      "duration_ms": 210693,
-      "name": "Mil Cantinas",
-      "url": "https://open.spotify.com/track/4RqPXmm4yUUgDxSIbu4nOf"
+      "duration_ms": 264672,
+      "name": "Como Te Va Mi Amor",
+      "url": "https://open.spotify.com/track/3wUzYtWsQCFhsMAyVFOhrY"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1027,6 +1011,22 @@
       "duration_ms": 174033,
       "name": "La Puntada",
       "url": "https://open.spotify.com/track/494ZDmO4zk9knBfI0o3Wn8"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Puro Sur Puro Chile",
+        "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
+      },
+      "artists": [
+        {
+          "name": "Los Pincheira del sur Oficial",
+          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
+        }
+      ],
+      "duration_ms": 210693,
+      "name": "Mil Cantinas",
+      "url": "https://open.spotify.com/track/4RqPXmm4yUUgDxSIbu4nOf"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Siempre en Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59vA22sZsQ0exXTI07xc3R"
-      },
-      "artists": [
-        {
-          "name": "Los Villanos de Coltauco",
-          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
-        }
-      ],
-      "duration_ms": 311016,
-      "name": "No Te Creas Tan Importante",
-      "url": "https://open.spotify.com/track/1xew4s5581HZOaES46OSTN"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Nacieron para Triunfar, Vol. 1",
         "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 169466,
       "name": "Sombrero Vaquero",
       "url": "https://open.spotify.com/track/3dNAZRp5BnwVuKa7NDjGfE"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Siempre en Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59vA22sZsQ0exXTI07xc3R"
+      },
+      "artists": [
+        {
+          "name": "Los Villanos de Coltauco",
+          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
+        }
+      ],
+      "duration_ms": 311016,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/1xew4s5581HZOaES46OSTN"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Cumbia y Sabor",
-        "url": "https://open.spotify.com/album/4ZaMrAKkh4civl4b99P2r9"
-      },
-      "artists": [
-        {
-          "name": "Los Lumaquinos Alegres",
-          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
-        }
-      ],
-      "duration_ms": 245769,
-      "name": "Ay Soledad",
-      "url": "https://open.spotify.com/track/1CfiOn7odAU1FSpaPX3gPi"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Para Ti Solita / Matame A Besos (En Vivo)",
         "url": "https://open.spotify.com/album/2CTeAoEp6OOoWpWInsmHGu"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 456000,
       "name": "Para Ti Solita / Matame A Besos (En Vivo)",
       "url": "https://open.spotify.com/track/6VHJsTRTZ5LUT7G6ZX9gku"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Cumbia y Sabor",
+        "url": "https://open.spotify.com/album/4ZaMrAKkh4civl4b99P2r9"
+      },
+      "artists": [
+        {
+          "name": "Los Lumaquinos Alegres",
+          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
+        }
+      ],
+      "duration_ms": 245769,
+      "name": "Ay Soledad",
+      "url": "https://open.spotify.com/track/1CfiOn7odAU1FSpaPX3gPi"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Tornado Ranchero",
-        "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
-      },
-      "artists": [
-        {
-          "name": "Tornado Ranchero",
-          "url": "https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl"
-        }
-      ],
-      "duration_ms": 267859,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "La Pagar\u00e1s",
         "url": "https://open.spotify.com/album/4A20U2NzYqyWFwsmdubrcz"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 232190,
       "name": "La Pagar\u00e1s",
       "url": "https://open.spotify.com/track/6e3m4DljhPz53HKhaFqsky"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Tornado Ranchero",
+        "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
+      },
+      "artists": [
+        {
+          "name": "Tornado Ranchero",
+          "url": "https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl"
+        }
+      ],
+      "duration_ms": 267859,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Siempre Villanos",
-        "url": "https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E"
-      },
-      "artists": [
-        {
-          "name": "Los Villanos de Coltauco",
-          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
-        }
-      ],
-      "duration_ms": 220203,
-      "name": "Maldita Sea la Primera Vez",
-      "url": "https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Relatos de Mi Vida",
         "url": "https://open.spotify.com/album/1GnYrWZ2wYT2ud9NjYfD3g"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 264448,
       "name": "Cantina de Mi Barrio",
       "url": "https://open.spotify.com/track/2DvRbLLYXSNuzwdwr0Ymi3"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Siempre Villanos",
+        "url": "https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E"
+      },
+      "artists": [
+        {
+          "name": "Los Villanos de Coltauco",
+          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
+        }
+      ],
+      "duration_ms": 220203,
+      "name": "Maldita Sea la Primera Vez",
+      "url": "https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Nuestra M\u00fasica Suena Mas Fuerte Que Tus Problemas",
-        "url": "https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf"
+        "name": "Entre el Amor y el Odio",
+        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
       },
       "artists": [
         {
-          "name": "Los Diamantes de Purapel",
-          "url": "https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U"
+          "name": "Lupita Aguilar",
+          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
         }
       ],
-      "duration_ms": 211866,
-      "name": "Ojitos Verdes",
-      "url": "https://open.spotify.com/track/1NMPgg0S88HdOkrdCxjucv"
+      "duration_ms": 194481,
+      "name": "Como T\u00fa Decidas",
+      "url": "https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7"
     }
   ],
   "unique_name": "Ranchera Chilena",

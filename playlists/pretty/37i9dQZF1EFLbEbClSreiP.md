@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [House On Fire](https://open.spotify.com/track/0Le4FRrPfbFzpyy8SsaCLf) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:19 |
+| 1 | [House On Fire](https://open.spotify.com/track/3oy1jvGbUDdYPyQRSfSCdJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire \(Official Music Video\)](https://open.spotify.com/album/5qG3zaKFxgQXjgUD2SiU36) | 2:38 |
 | 2 | [Walk](https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:32 |
 | 3 | [Not Another Rockstar](https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Not Another Rockstar](https://open.spotify.com/album/1kiowmIzvFyO1hXi1Wyqkn) | 2:29 |
 | 4 | [Freezing](https://open.spotify.com/track/61ypmrpI4Duo6Sn2Tbr3jo) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Freezing \(Official Music Video\)](https://open.spotify.com/album/13xmSqE74BOPfYj6VEAdPg) | 2:57 |
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 | 14 | [Stormy Skies \(Diamonds\)](https://open.spotify.com/track/2PqUSyjbjVugUa9Duifn69) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Stormy Skies \(Diamonds\)](https://open.spotify.com/album/54Tp5WzymT6Nwh6Qd7gmZ2) | 3:33 |
 | 15 | [Truth Is](https://open.spotify.com/track/25JGrdT3bi62ZzPeNxZiBu) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch \(Deluxe\)](https://open.spotify.com/album/0YniOccoeVuymVK8Lpb7VR) | 3:17 |
 | 16 | [Get Better](https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Get Better](https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU) | 2:51 |
-| 17 | [Meri Jaan](https://open.spotify.com/track/390f3txdKIeV7cCv0thgOB) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Breadcrumbs](https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc) | 2:01 |
-| 18 | [Two Hands](https://open.spotify.com/track/523F1pQJh1P4JKvbVOgDU7) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Two Hands](https://open.spotify.com/album/14ISDS5Xh5QsS8NZN6H20l) | 3:02 |
+| 17 | [Two Hands](https://open.spotify.com/track/523F1pQJh1P4JKvbVOgDU7) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Two Hands](https://open.spotify.com/album/14ISDS5Xh5QsS8NZN6H20l) | 3:02 |
+| 18 | [Meri Jaan](https://open.spotify.com/track/390f3txdKIeV7cCv0thgOB) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Breadcrumbs](https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc) | 2:01 |
 | 19 | [Think Like a Man](https://open.spotify.com/track/2B8mUd56xLH7vGmKbiwnee) | [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Think Like a Man](https://open.spotify.com/album/4pNE931yJKwQvvJw0JJRzj) | 2:23 |
 | 20 | [by the end of the night](https://open.spotify.com/track/6DFch1r1JwISZRgkqR7NQs) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [by the end of the night](https://open.spotify.com/album/3c7NyXa96w0Ei3HmjXyzVC) | 2:58 |
 | 21 | [Back In Love](https://open.spotify.com/track/4up9NcBZM7WhYik9jYtQU1) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA), [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Back In Love](https://open.spotify.com/album/5ZHvtBvK20KcEayo2MDQTQ) | 3:15 |
 | 22 | [PSYCHO \(NAH NAH\)](https://open.spotify.com/track/4PxdYBm1nzW9dDZpFlpQl0) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [METTENARRATIVE](https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM) | 2:30 |
 
-Snapshot ID: `Mjg0NDQ0NDAsMDAwMDAwMDBlY2U3NzNiNWZmM2ZjZjE4MjgwYTBiODRkZGVjZGZkZA==`
+Snapshot ID: `Mjg0NDU4ODAsMDAwMDAwMDAzMDNhYWM5NDI0YzVkYjFlZDU4OWRiZjg4OThjYzU3OA==`

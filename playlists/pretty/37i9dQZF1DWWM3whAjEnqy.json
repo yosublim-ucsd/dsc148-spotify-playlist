@@ -1,12 +1,12 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 42325,
+  "num_followers": 42387,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGNlMTQ4ODdlYTZjOWQ1ZDZhNThmYmY2YWVhMzFmNTgxMWExYWI4",
+  "snapshot_id": "MCxmM2Y2MzZkZmEzOTQ2ODVmMWQ4MTY1ZjA5MWM3YjQ1NzViZTBhNjU4",
   "tracks": [
     {
       "added_at": "2023-11-15 02:04:48",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Angus & Julia Stone (Deluxe)",
-        "url": "https://open.spotify.com/album/4DnMkBr1AH6IMP5wORp7Ag"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 248520,
-      "name": "Grizzly Bear",
-      "url": "https://open.spotify.com/track/0IJ1ijo3uoJzy6ZE5wxJio"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "The Recordings of the Middle East",
         "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 326920,
       "name": "Blood",
       "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Angus & Julia Stone (Deluxe)",
+        "url": "https://open.spotify.com/album/4DnMkBr1AH6IMP5wORp7Ag"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 248520,
+      "name": "Grizzly Bear",
+      "url": "https://open.spotify.com/track/0IJ1ijo3uoJzy6ZE5wxJio"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Waking Up Easy",
-        "url": "https://open.spotify.com/album/34D40eqFx2RdCWi54tlKFx"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 236808,
-      "name": "Waking Up Easy",
-      "url": "https://open.spotify.com/track/1mupwOlwPPnX76edNnu2H1"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 255520,
       "name": "We Will Run",
       "url": "https://open.spotify.com/track/75jqKUwTZo2UtqW7xAzIni"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Waking Up Easy",
+        "url": "https://open.spotify.com/album/34D40eqFx2RdCWi54tlKFx"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 236808,
+      "name": "Waking Up Easy",
+      "url": "https://open.spotify.com/track/1mupwOlwPPnX76edNnu2H1"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Celeste EP",
-        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
-      },
-      "artists": [
-        {
-          "name": "Ezra Vine",
-          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
-        }
-      ],
-      "duration_ms": 203309,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Harlequin Dream",
         "url": "https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 281133,
       "name": "Southern Sun",
       "url": "https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Celeste EP",
+        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
+      },
+      "artists": [
+        {
+          "name": "Ezra Vine",
+          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
+        }
+      ],
+      "duration_ms": 203309,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Believe (Triple J Like A Version)",
+        "url": "https://open.spotify.com/album/3RNhkVTNmEXUSNeVt5S2AJ"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 197594,
+      "name": "Believe (Triple J Like A Version)",
+      "url": "https://open.spotify.com/track/24oDOsC6NhYkgKQUcpLBIm"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Thick Skin",
         "url": "https://open.spotify.com/album/0mlELU0kLfrlVZDtMRVHIO"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 182000,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/1LG0NlZUludshTbX5iE8Bo"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Believe (Triple J Like A Version)",
-        "url": "https://open.spotify.com/album/3RNhkVTNmEXUSNeVt5S2AJ"
-      },
-      "artists": [
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 197594,
-      "name": "Believe (Triple J Like A Version)",
-      "url": "https://open.spotify.com/track/24oDOsC6NhYkgKQUcpLBIm"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1067,6 +1067,38 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Venus Ate Mars",
+        "url": "https://open.spotify.com/album/1jL5TTiuaTf52bwC3PLSrt"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "duration_ms": 285003,
+      "name": "Left Me Like Summer",
+      "url": "https://open.spotify.com/track/0YVyOLWIh5pe9DEJJjjKKH"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/0sY90YfWxpjWpnNHV6WxH4"
+      },
+      "artists": [
+        {
+          "name": "Pacific Avenue",
+          "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
+        }
+      ],
+      "duration_ms": 187228,
+      "name": "Strawberry Daydream",
+      "url": "https://open.spotify.com/track/2I5jfuDTkiWOEFu66lUrgv"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Moonfire",
         "url": "https://open.spotify.com/album/3UsAObHERCrshH20RiicHG"
       },
@@ -1099,50 +1131,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/0sY90YfWxpjWpnNHV6WxH4"
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/6sbermgqUPrKm7TmrOrefv"
       },
       "artists": [
         {
-          "name": "Pacific Avenue",
-          "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 187228,
-      "name": "Strawberry Daydream",
-      "url": "https://open.spotify.com/track/2I5jfuDTkiWOEFu66lUrgv"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Venus Ate Mars",
-        "url": "https://open.spotify.com/album/1jL5TTiuaTf52bwC3PLSrt"
-      },
-      "artists": [
-        {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
-        }
-      ],
-      "duration_ms": 285003,
-      "name": "Left Me Like Summer",
-      "url": "https://open.spotify.com/track/0YVyOLWIh5pe9DEJJjjKKH"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Food In The Belly",
-        "url": "https://open.spotify.com/album/0Pp0Rf05GuUQfeksQnVV0G"
-      },
-      "artists": [
-        {
-          "name": "Xavier Rudd",
-          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
-        }
-      ],
-      "duration_ms": 242426,
-      "name": "Messages",
-      "url": "https://open.spotify.com/track/2hXgZdNNnIOOfXmWDzF05n"
+      "duration_ms": 276196,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/64bEffum8UMASd4IscbCVk"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/6sbermgqUPrKm7TmrOrefv"
+        "name": "Food In The Belly",
+        "url": "https://open.spotify.com/album/0Pp0Rf05GuUQfeksQnVV0G"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "Xavier Rudd",
+          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
         }
       ],
-      "duration_ms": 276196,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/64bEffum8UMASd4IscbCVk"
+      "duration_ms": 242426,
+      "name": "Messages",
+      "url": "https://open.spotify.com/track/2hXgZdNNnIOOfXmWDzF05n"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Keepsake",
-        "url": "https://open.spotify.com/album/4NnnY09KEF7Gnw2rXIb0lU"
-      },
-      "artists": [
-        {
-          "name": "The Dreggs",
-          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
-        }
-      ],
-      "duration_ms": 226999,
-      "name": "Keepsake",
-      "url": "https://open.spotify.com/track/4OAcOb2uobXd9Zu1X9BnEE"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 228440,
       "name": "Good Grief",
       "url": "https://open.spotify.com/track/3DasFU2wqxdxyV6Wbm8SHI"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Keepsake",
+        "url": "https://open.spotify.com/album/4NnnY09KEF7Gnw2rXIb0lU"
+      },
+      "artists": [
+        {
+          "name": "The Dreggs",
+          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+        }
+      ],
+      "duration_ms": 226999,
+      "name": "Keepsake",
+      "url": "https://open.spotify.com/track/4OAcOb2uobXd9Zu1X9BnEE"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Blue Eyes",
-        "url": "https://open.spotify.com/album/5P5fEwWvPO5aAFggmkaCvG"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 237377,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/0JIGBObzd2N4gv8xDeJIQz"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Vantage Point",
         "url": "https://open.spotify.com/album/0brAypU3M5W90PnDBs0aGH"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 179642,
       "name": "Drift Away",
       "url": "https://open.spotify.com/track/2XXWxbULM7crzDMiXgcw4Q"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Blue Eyes",
+        "url": "https://open.spotify.com/album/5P5fEwWvPO5aAFggmkaCvG"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 237377,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/0JIGBObzd2N4gv8xDeJIQz"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
-      },
-      "artists": [
-        {
-          "name": "The Waifs",
-          "url": "https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz"
-        }
-      ],
-      "duration_ms": 226733,
-      "name": "London Still",
-      "url": "https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "The Art of Escape",
         "url": "https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 198582,
       "name": "Rusty",
       "url": "https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
+      },
+      "artists": [
+        {
+          "name": "The Waifs",
+          "url": "https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz"
+        }
+      ],
+      "duration_ms": 226733,
+      "name": "London Still",
+      "url": "https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi"
     }
   ],
   "unique_name": "Coast to Coast",

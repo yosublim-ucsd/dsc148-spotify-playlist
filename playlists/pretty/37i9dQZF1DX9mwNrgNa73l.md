@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,439 likes - 74 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,562 likes - 74 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 31 | [Sanu Ek Pal Chain](https://open.spotify.com/track/3KMPY8RvRII2du31Cjl8Jg) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Sanu Ek Pal Chain](https://open.spotify.com/album/37kbj6Vz9DWILQcpAJRwl1) | 9:35 |
 | 32 | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/album/6A5WZRxOF5DGX7RRWADhYl) | 8:27 |
 | 33 | [Pardadari](https://open.spotify.com/track/0avkBFSFOWyZVfccT2u3Ag) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Pardadari](https://open.spotify.com/album/2bfwHKbSwfUFeMVGY1Fb4n) | 6:01 |
-| 34 | [Sanoon Ek Pal Chain](https://open.spotify.com/track/0GGNrYfrOQHlzmVQn3gsPJ) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Mehfil\-E\-Sama Nusrat Fateh Ali Khan In Concert Vol\. 28](https://open.spotify.com/album/0HqkvHiAEVXknfIbwGWIDZ) | 12:47 |
+| 34 | [Sanon Ik Pal Chain](https://open.spotify.com/track/6vJ2gB69dmTuZlEeMzWt4s) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Nusrat Fateh Ali Khan No\. 1 Hits](https://open.spotify.com/album/5dZFcWltRWnmi4takYGuij) | 12:43 |
 | 35 | [Maikada 2](https://open.spotify.com/track/6IH1DsmUezNkZIxW1SM95q) | [Muhammad Samie](https://open.spotify.com/artist/6G5nbVLqZWNNT37I5icSVs) | [Maikada 2](https://open.spotify.com/album/60EYSdCM5BQDajqMyG0xz0) | 9:10 |
 | 36 | [Duma Dum Mast Qalandar](https://open.spotify.com/track/5Fu9Axrk4D9tJ72VDqtAOi) | [Ustad Piyare Lal Wadali](https://open.spotify.com/artist/4vChFUCHDKK5t1n77dSv22), [Ustad Puran Chand Wadali](https://open.spotify.com/artist/4qNSZtDZHirQzZAziL9OZ9) | [The Best of Wadali Brothers](https://open.spotify.com/album/6t70d2Plw6ILCHLZ6mCBQe) | 7:51 |
 | 37 | [Rangrez](https://open.spotify.com/track/0H4PTVPxjECFxFNCXp8UIK) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio Season 10: Episode 5](https://open.spotify.com/album/4izJPNm3wIRssSy6DyxAx0) | 8:57 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 73 | [Wah Jo Kalaam](https://open.spotify.com/track/7B4rv8RrlWr5qTIQ5UCrQk) | [Asrar](https://open.spotify.com/artist/2pLpp8LjPF5qJAj8T3zzPn), [Vishnu](https://open.spotify.com/artist/3C6fEluNfcYDBAy6nBQpdS), [Shamu Bai](https://open.spotify.com/artist/6ImUiMuTiMjlhRKfMCXe8Q) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 5:20 |
 | 74 | [Manzil\-e\-Sufi](https://open.spotify.com/track/44Az6YaqJlqzt5CtW3OcJH) | [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 5:52 |
 
-Snapshot ID: `MCxmMmUzMDQ4Yjk2ZjU4NThhM2ZmOTBlMmMxMTkwNzM1NTlhNzY5M2Fj`
+Snapshot ID: `MCw0MzdkOWNjNGZkZTUwMThhMTNiZTU2ODFkMDkyY2M4NWZmYzVlNmE1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 
 > We hear you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,182,595 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,182,735 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 24 | [Somewhere in the Universe](https://open.spotify.com/track/2sLAKUdiwa7Ik8XY2ow3DE) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I'm Sorry I'm Like This](https://open.spotify.com/album/1nOZaGSuVtIR43XewW6nEU) | 1:40 |
 | 25 | [Trauma](https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Trauma](https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56) | 2:43 |
 | 26 | [minor](https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:40 |
-| 27 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 |
-| 28 | [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 |
+| 27 | [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 |
+| 28 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 |
 | 29 | [Forever & Always](https://open.spotify.com/track/3aI4n3KHtrQ2MDeGmXhgWt) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Forever & Always](https://open.spotify.com/album/5aHk92PHl9hDm2TEZMdfdB) | 4:09 |
 | 30 | [Hard Times](https://open.spotify.com/track/7JPmhsHbjaDGmTCKBZxVVU) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 5:03 |
 | 31 | [Silly Girl](https://open.spotify.com/track/0ZP3E9L1I0C6rmD0CAKqDc) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Rabbit Hearted.](https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz) | 3:18 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 75 | [whore](https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [whore](https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM) | 2:43 |
 | 76 | [Baby](https://open.spotify.com/track/5jI88gmbKnva1Pak0ZZo1M) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Coming Clean](https://open.spotify.com/album/3HYuk6rTzUcO1ZGya3vHwu) | 1:51 |
 | 77 | [Tired](https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Tired](https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c) | 2:58 |
-| 78 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 |
-| 79 | [If I Really Love You](https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [If I Really Love You](https://open.spotify.com/album/0xl7rnqJd8DHmZqZLrgx3u) | 3:14 |
+| 78 | [If I Really Love You](https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [If I Really Love You](https://open.spotify.com/album/0xl7rnqJd8DHmZqZLrgx3u) | 3:14 |
+| 79 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 |
 | 80 | [The Long Breath](https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [The Long Breath / The Willows](https://open.spotify.com/album/0phsQExgJ5IKweBTgJNdp3) | 4:48 |
 | 81 | [Happen To Me](https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:51 |
 | 82 | [Feel Again \(Feat\. Au/Ra\)](https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Things I Wanted To Tell You](https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0) | 2:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 99 | [infinity](https://open.spotify.com/track/1LKRq7700oFaulUp6MpIiW) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO) | [infinity](https://open.spotify.com/album/6Av8IyC0LC2H11oSpvXKRF) | 2:54 |
 | 100 | [Wavvy](https://open.spotify.com/track/7qHus80qoEHRDq8MYJjaNm) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Wavvy](https://open.spotify.com/album/7A3NVckB7uKzaRkoASyapo) | 3:07 |
 
-Snapshot ID: `MCw1M2NjMTIwNGE2OGEzODExNmVjMzU2NzFkMzA2ZDAyZDFjYzgwNmIz`
+Snapshot ID: `MCw4MDBiNzQ2MzI2OTNjNWEwZmRjYmE0YjRlZjI1NTEzOWM5NGM0MzU4`

@@ -4,7 +4,7 @@
 
 > 100% Pinoy hits from your favorite artists! Cover: Yeng Constantino
 
-137 songs - 9 hr 57 min
+139 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Demonyo](https://open.spotify.com/track/1WXs4O7mBxXglHJPwYweHq) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [JKL](https://open.spotify.com/album/67vvDiZLNyjNQ1gU6El7GC) | 3:38 | 2022-04-19 |  |
 | [Di Na Muli](https://open.spotify.com/track/6JYIB3AEh1VtcqVcDDLC7p) | [The Itchyworms](https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO) | [Sid & Aya \(Not a Love Story\) \[Original Movie Soundtrack\]](https://open.spotify.com/album/3ZHDOgwnd6f26MyLuXCS3U) | 4:20 | 2022-06-13 | 2024-01-10 |
 | [Give Me Your Forever](https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 4:04 | 2022-04-19 |  |
+| [Gusto](https://open.spotify.com/track/0uemlnPoeZOYIDaMFZ7lvi) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [3rd Time’s A Charm](https://open.spotify.com/album/5bWsdwr9OileEY1gHx1Do3) | 4:20 | 2024-01-31 |  |
 | [Gusto Ko Nang Bumitaw \- From "The Broken Marriage Vow"](https://open.spotify.com/track/1FxGqFnJkRgJ5LG2NBRTh3) | [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [Gusto Ko Nang Bumitaw \(From "The Broken Marriage Vow"\)](https://open.spotify.com/album/05RICu0AxsqrqoiSzzxeyG) | 4:31 | 2023-01-18 | 2023-03-23 |
 | [Halaga](https://open.spotify.com/track/6pz4tdLoIDJdnpXnisSDCK) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Gulong Itlog Gulong](https://open.spotify.com/album/58vdgBfvgzQFZ2VreSPGmU) | 5:52 | 2022-06-13 | 2022-06-20 |
 | [Hanggang Kailan \- Umuwi Ka Na Baby](https://open.spotify.com/track/5UhpceEr5XmbVwyoIUIRnh) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [Strike Whilst the Iron Is Hot](https://open.spotify.com/album/0S0yaR1MiuHfyAZPAtChVc) | 4:21 | 2022-04-19 | 2023-01-07 |
@@ -66,7 +67,7 @@
 | [Kiss \(Never Let Me Go\)](https://open.spotify.com/track/4r3wYgrJ3Q30ldSk05e6KP) | [Thyro & Yumi](https://open.spotify.com/artist/0001ZVMPt41Vwzt1zsmuzp) | [Kiss \(Never Let Me Go\)](https://open.spotify.com/album/0tSrGWDVpvBzlD8OWSRmg6) | 4:19 | 2022-04-19 | 2022-07-29 |
 | [Kiss \- Never Let Me Go](https://open.spotify.com/track/1oHVl77komlcWVa5XzJ1rU) | [Thyro](https://open.spotify.com/artist/4VkqlQl3hGhxjchI34xp2V), [Yumi](https://open.spotify.com/artist/1O5apWv8xRb6YbHu7E0Tu6) | [Thyro & Yumi](https://open.spotify.com/album/6g8gpmN97Swzy56xwfrFrZ) | 4:19 | 2022-06-13 | 2023-03-07 |
 | [KLWKN](https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN) | [Music Hero](https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq) | [KLWKN](https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV) | 4:16 | 2022-04-19 | 2023-12-22 |
-| [Kung Alam Mo Lang](https://open.spotify.com/track/2OwTNSBOspDlAWDcv37GIW) | [Bandang Lapis](https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx) | [Kung Alam Mo Lang](https://open.spotify.com/album/54hm1RYQZwy4tZokG4YhGf) | 4:16 | 2023-01-04 |  |
+| [Kung Alam Mo Lang](https://open.spotify.com/track/2OwTNSBOspDlAWDcv37GIW) | [Bandang Lapis](https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx) | [Kung Alam Mo Lang](https://open.spotify.com/album/54hm1RYQZwy4tZokG4YhGf) | 4:16 | 2023-01-04 | 2024-02-01 |
 | [Kung Wala Ka](https://open.spotify.com/track/4JSDhJVmo2UqdF7nxbyenn) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Kung Wala Ka](https://open.spotify.com/album/4iaCi771IT9I2xwtnXnjlx) | 4:02 | 2022-04-19 | 2022-07-29 |
 | [Kung Wala Ka](https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Hale](https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk) | 4:02 | 2023-09-13 |  |
 | [Leaves](https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Leaves](https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y) | 5:10 | 2022-04-19 |  |
@@ -93,7 +94,7 @@
 | [Nobela](https://open.spotify.com/track/3vGkyQlCw8LklNip0ZUELC) | [Join The Club](https://open.spotify.com/artist/70ljCILl0aVXitf3K39YvT) | [Nobela](https://open.spotify.com/album/7kzETZloUVbyQLuqDnLPVV) | 4:51 | 2022-04-19 |  |
 | [Nothing's Gonna Stop Us Now \(Theme from Crazy Beautiful You\)](https://open.spotify.com/track/0bN5xQD1krvZNn8bsiWfVb) | [Daniel Padilla](https://open.spotify.com/artist/5yVM85m9yNcHO6o0vaaVxW), [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [Nothing's Gonna Stop Us Now \(Theme from Crazy Beautiful You\) \- Single](https://open.spotify.com/album/3lfOcun9UzVA8x0JLrOicl) | 4:19 | 2022-04-19 | 2022-07-29 |
 | [Pa\-umaga](https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Pa\-umaga](https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE) | 3:09 | 2022-06-13 |  |
-| [Padaba Taka](https://open.spotify.com/track/07gUvSU765VtVbSoHPMHHO) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Padaba Taka](https://open.spotify.com/album/0Vl0nkEU0moIeAlY3gbYjZ) | 4:37 | 2024-01-10 |  |
+| [Padaba Taka](https://open.spotify.com/track/07gUvSU765VtVbSoHPMHHO) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Padaba Taka](https://open.spotify.com/album/0Vl0nkEU0moIeAlY3gbYjZ) | 4:37 | 2024-01-10 | 2024-02-01 |
 | [Pagsamo](https://open.spotify.com/track/0WZqHCoOBXqgCCIsUZLC2a) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pagsamo](https://open.spotify.com/album/668hRB0T4LU6a7HVspAMKy) | 4:57 | 2022-04-19 | 2022-06-14 |
 | [panaginip](https://open.spotify.com/track/1AuxZd50Dpaz0cCWphYryh) | [iluna](https://open.spotify.com/artist/1CFjJMSXKmctvTXBA6uQkE) | [panaginip](https://open.spotify.com/album/1nDqiuWaIdg3553bRee5bA) | 5:32 | 2023-09-13 |  |
 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 | 2023-04-03 |  |
@@ -140,6 +141,7 @@
 | [Tulad Mo](https://open.spotify.com/track/1YDHJAVkG1Z6mnzu1Orpap) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Tulad Mo](https://open.spotify.com/album/4Rl0tuXTg3rfQJyMf2Ufa1) | 3:40 | 2022-04-19 | 2022-07-29 |
 | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD) | 4:01 | 2024-01-10 |  |
 | [Unang Sayaw](https://open.spotify.com/track/4iRRAvxPPWXQp3mV1rAbPF) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Unang Sayaw](https://open.spotify.com/album/05VgPoz2XrqlgnnOYBaPsk) | 4:38 | 2022-04-19 |  |
+| [Walang Kapalit \(AM VER.\)](https://open.spotify.com/track/4HxaLxk986KQdqNIyI4KUb) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/album/6SgJspX5hiL8lPcd6shyAs) | 3:38 | 2024-01-31 |  |
 | [Why Can't It Be](https://open.spotify.com/track/0zFYa7NIpKhmom8zrZx7Ga) | [Kaye Cal](https://open.spotify.com/artist/0xNog7ZdcTq9sJFiIXJJTH) | [Kaye Cal](https://open.spotify.com/album/77ZkVwowfs27AEXl6GHiET) | 4:08 | 2022-04-19 | 2022-07-26 |
 | [With a Smile \(feat\. Kelly Badon\)](https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv), [Kelly Badon](https://open.spotify.com/artist/32pTJUDIqu5vvX5McsyU26) | [Ultraelectromagnetic Jam](https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o) | 4:24 | 2022-04-19 | 2022-07-28 |
 | [Yakap](https://open.spotify.com/track/3h8uWt8HNyDNubPSEBgTPG) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Yakap](https://open.spotify.com/album/0HNCZzy2tqjuLZJuTDGdAW) | 2:58 | 2023-04-03 | 2023-12-19 |

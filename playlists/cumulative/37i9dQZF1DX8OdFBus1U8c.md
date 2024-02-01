@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : KSHMR, Dabzee, Vedan
 
-135 songs - 7 hr 17 min
+136 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Arpo](https://open.spotify.com/track/2biQljjf8AuYx5u8Se6clY) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Arpo](https://open.spotify.com/album/3MaGl3zOrZrEEqUMoXpN1d) | 2:46 | 2023-07-23 |  |
 | [Avastha](https://open.spotify.com/track/34xTAbD9NbfABNGwoAkfUH) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Avastha](https://open.spotify.com/album/4Tpv8xA81bbsYKm3bI2YMT) | 3:44 | 2022-04-18 |  |
 | [Ayyayyo](https://open.spotify.com/track/5yX1n7GniBnjMlrS5GairC) | [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Ayyayyo](https://open.spotify.com/album/4AUgdGeQBTqfPpPfbvaDJf) | 3:40 | 2023-09-14 |  |
+| [BAHR](https://open.spotify.com/track/6ABVmKvVgTiubIqdMXSRXF) | [MUSLI](https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO), [Vocal Dude](https://open.spotify.com/artist/6e7toXPTMHFuuQpnQgoHqI), [Wyldwolf](https://open.spotify.com/artist/1xFxbGdI2pZ8CNmQX79rDd) | [BAHR](https://open.spotify.com/album/36TQbh25fNwHEi3ScSg2bd) | 2:31 | 2024-01-31 |  |
 | [BANDANA](https://open.spotify.com/track/2o7dxduoe3YXvuSyOFjROL) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [BANDANA](https://open.spotify.com/album/6LnrtNJONoihgwiKbZqJv0) | 2:13 | 2023-07-23 |  |
 | [BANDANA](https://open.spotify.com/track/5n0H86Axz5rqTyv8ljXZ8X) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [BANDANA](https://open.spotify.com/album/4UiGCvmgCLtDvrCBheMLNR) | 2:13 | 2023-07-23 | 2023-11-01 |
 | [Blue Bucket Rebirth](https://open.spotify.com/track/6J77IL7C21HvGmMe6XHzWH) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Blue Bucket Rebirth](https://open.spotify.com/album/4ZEGMUyGGImpKOaTxWIQ29) | 3:46 | 2022-06-23 |  |

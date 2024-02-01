@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Ice Spice, Justin Timberlake, MacKenzie Porter, Tom Odell and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,078 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,077 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 65 | [Rich N Pretty](https://open.spotify.com/track/4QEPzal4aQA3vAHvbxy8u4) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Rich N Pretty](https://open.spotify.com/album/66SWnN4IVVXeR8ybjgkA1i) | 3:11 |
 | 66 | [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 |
 | 67 | [Mami Chota](https://open.spotify.com/track/7gHO9902nXNaoU48h8twI3) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Mami Chota](https://open.spotify.com/album/2aVbO5vigwRXW0oJZycri4) | 3:53 |
-| 68 | [girls at the bar \(ft\. Alli Walker\)](https://open.spotify.com/track/0R0YOsO3yxQuWkVPwz1Wd8) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW), [Alli Walker](https://open.spotify.com/artist/0Nxzbyp5zDObdMurJZ7g5C) | [girls at the bar \(ft\. Alli Walker\)](https://open.spotify.com/album/0stqXK145N4g9pdxrOiUyx) | 3:33 |
+| 68 | [girls at the bar \(ft\. Alli Walker\)](https://open.spotify.com/track/0R0YOsO3yxQuWkVPwz1Wd8) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW), [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [girls at the bar \(ft\. Alli Walker\)](https://open.spotify.com/album/0stqXK145N4g9pdxrOiUyx) | 3:33 |
 | 69 | [my mind \(now\)](https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [my mind \(now\)](https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg) | 2:56 |
 | 70 | [Playground](https://open.spotify.com/track/0CHxU4Tu8pYaqbIcBMMKov) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock, Knock](https://open.spotify.com/album/7gUgtgNsrdWEwSzZzRntXC) | 2:45 |
 | 71 | [TEMPTATIONS](https://open.spotify.com/track/5Dm92u2aCnl45seE6MCUwU) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [TEMPTATIONS](https://open.spotify.com/album/46xtqR37R8Ge71o0tQ4peS) | 1:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Motions](https://open.spotify.com/track/0HHdg7nNpJwQ5cQKA6gZlC) | [LUM](https://open.spotify.com/artist/1bY66d1Rv5q5KMJYP1lIQd) | [Motions](https://open.spotify.com/album/264dMKFNvBRA7Y2rxpBWTk) | 2:48 |
 | 100 | [LUCKY MERMAID](https://open.spotify.com/track/5tqT2MifFVEO0PnPs8UHfq) | [Milkshakes In The Valley](https://open.spotify.com/artist/3AdVyuXU8TnsPXgAv68icd), [KULTARGOTBOUNCE](https://open.spotify.com/artist/4AVBIZZuqtat8RReyNdqck) | [LUCKY MERMAID](https://open.spotify.com/album/70wcB6uF1kI6uvkVlUOQWv) | 3:03 |
 
-Snapshot ID: `MCwyYTNiNDBmM2UzZGE2NDU3MmIxN2QwZjI2NTQ5OTkxZDE4N2JjYmVk`
+Snapshot ID: `MCw4NjYwYjIzMWNiYTdiZmVkYmNkZDYwNTZkNzA0NWEyOTM0Y2VhMTFj`

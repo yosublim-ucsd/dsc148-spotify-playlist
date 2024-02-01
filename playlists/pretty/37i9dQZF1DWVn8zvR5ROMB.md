@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring MacKenzie Porter, Morgan Wallen, Tyler Hubbard and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,307 likes - 73 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,469 likes - 73 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 63 | [YODEL\-AY\-HE\-HOE](https://open.spotify.com/track/0HbPvSphXPFS4Ic69GPYVp) | [Gracee Shriver](https://open.spotify.com/artist/2dn03VbHARxzUqbTrx0Rw1) | [YODEL\-AY\-HE\-HOE](https://open.spotify.com/album/7pbvLzQioRDEXE8cSO3KQ4) | 2:50 |
 | 64 | [Talladega 10](https://open.spotify.com/track/7AwDJQbflfk0eHwC5cuDJg) | [The Chattahoochies](https://open.spotify.com/artist/47AfOSxR8ab6QrEEabLZOs) | [Talladega 10](https://open.spotify.com/album/4j4MtlQiFk5RfrKvGBipON) | 3:17 |
 | 65 | [Possibly Alaska](https://open.spotify.com/track/19bsT8H336P233OI5XF4Do) | [Maddison Krebs](https://open.spotify.com/artist/1c2r71uOTJ3QDVdd5oZIKF) | [Possibly Alaska](https://open.spotify.com/album/49wcI9B6Iarko0kcdyJC4B) | 4:15 |
-| 66 | [girls at the bar \(ft\. Alli Walker\)](https://open.spotify.com/track/0R0YOsO3yxQuWkVPwz1Wd8) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW), [Alli Walker](https://open.spotify.com/artist/0Nxzbyp5zDObdMurJZ7g5C) | [girls at the bar \(ft\. Alli Walker\)](https://open.spotify.com/album/0stqXK145N4g9pdxrOiUyx) | 3:33 |
+| 66 | [girls at the bar \(ft\. Alli Walker\)](https://open.spotify.com/track/0R0YOsO3yxQuWkVPwz1Wd8) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW), [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [girls at the bar \(ft\. Alli Walker\)](https://open.spotify.com/album/0stqXK145N4g9pdxrOiUyx) | 3:33 |
 | 67 | [Wish I Had](https://open.spotify.com/track/787oRKZHWl3jAbHPiiqX7e) | [Ian Harrison](https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG) | [Wish I Had](https://open.spotify.com/album/7dNbbQOuVstsVQxg3FqLxd) | 3:13 |
 | 68 | [It Ain’t Come to That](https://open.spotify.com/track/5RjWRoYPA0pFmWlF2yhHpx) | [Gregg Bolger](https://open.spotify.com/artist/4pBwwseMhGLh8ojidW8tC9) | [It Ain’t Come to That](https://open.spotify.com/album/5cnGQUp6sqGMf9f4oZ7UOe) | 3:28 |
 | 69 | [Alameda](https://open.spotify.com/track/0DI3F4HZuX9urOsOye3hAp) | [Dan Harrison](https://open.spotify.com/artist/6XjWiZt6HhKkLYkez143Zm) | [Alameda](https://open.spotify.com/album/1fz4m8pJy7QQihspgXKFqe) | 3:36 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 72 | [Devil's Money](https://open.spotify.com/track/50YJ1k4Xi4b4DmzQhyKlPL) | [Mary Kutter](https://open.spotify.com/artist/0rTX0ieS2m0gUGLlLe4kQP) | [Devil's Money](https://open.spotify.com/album/2Vnruy8SLnV6iHlrgDDQSb) | 2:32 |
 | 73 | [Cowboy Ride Home](https://open.spotify.com/track/0iefRDcGLzHz0mZ9u3YoGk) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Cowboy Ride Home](https://open.spotify.com/album/1zn48xh3hEzwOPlD7B0pTc) | 3:45 |
 
-Snapshot ID: `MCw1NDdmMDFlMTdhZWNkMmQ4YzViMzY4OTdlNmFmMjkwNDJlNmNjYzM0`
+Snapshot ID: `MCwxYzZhMzk4OTBiNDY0NmExMTE3NDUwNWFiMTFjZjNhZjcyNmI5MTY1`

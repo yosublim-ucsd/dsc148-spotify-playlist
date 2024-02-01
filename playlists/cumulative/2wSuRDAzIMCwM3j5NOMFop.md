@@ -4,7 +4,7 @@
 
 > Fucked up and evil\. What an absolute bop.
 
-31 songs - 1 hr 34 min
+32 songs - 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [An Unhealthy Obsession](https://open.spotify.com/track/43FkY9svV70r8PmBL7ypUh) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy) | [An Unhealthy Obsession](https://open.spotify.com/album/4mK2uqTY0iz0rNYebd4EDd) | 2:58 | 2023-03-23 |  |
 | [Blood and Bones](https://open.spotify.com/track/3zTgL5xA9C02l65VR0XqaN) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy) | [Blood and Bones](https://open.spotify.com/album/5QCjqY1hcyAKWeWFduVtEs) | 2:10 | 2023-03-23 |  |
 | [Business Man](https://open.spotify.com/track/0Ugvi8H89YmbBkSOx9VgUj) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Artificial Intelligence](https://open.spotify.com/album/0p3PojNPjYC8LHkJCwinTd) | 3:02 | 2023-03-25 |  |
+| [Clean](https://open.spotify.com/track/6jcHx4jket9IUINO1lzhvQ) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Jamie Lidell](https://open.spotify.com/artist/6ASGmWCYupa0CXGtsDdYSI) | [2.0](https://open.spotify.com/album/3a8kwdfe4ctEfqe1vXGiBP) | 3:21 | 2024-01-31 |  |
 | [Collapsing Stars](https://open.spotify.com/track/1vpVrdNn76ngdvRVeHkq1J) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Dilaudid](https://open.spotify.com/album/4GNwzGVBNay2j9eLsGks00) | 2:29 | 2023-11-21 |  |
 | [Feed the Machine](https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Feed the Machine](https://open.spotify.com/album/0lKGADKI9s71jBqJe5xYhn) | 3:03 | 2023-10-30 |  |
 | [Ferryman](https://open.spotify.com/track/492qQwagrn1noBTHRYKsvJ) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G), [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [Ferryman](https://open.spotify.com/album/1dDe20iAvQfwOMbvLfXetm) | 3:04 | 2023-03-23 |  |

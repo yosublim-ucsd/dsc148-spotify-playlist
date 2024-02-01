@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-756 songs - 1 day 19 hr 51 min
+757 songs - 1 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,7 +482,7 @@
 | [New Slang \- 2021 Remaster](https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World \(20th Anniversary Remaster\)](https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE) | 3:50 | 2021-08-04 | 2022-08-13 |
 | [No California](https://open.spotify.com/track/1w21mLzlkcpKReMjbbUwpa) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [No California](https://open.spotify.com/album/3MTWOgFgOmAQbqw49MKbaq) | 3:35 | 2023-06-23 |  |
 | [No Reservations](https://open.spotify.com/track/60DFlM3IXtn4y1yvbbGbfO) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l) | [No Reservations](https://open.spotify.com/album/0eG3xAfpbnkfytXoElMF8b) | 3:03 | 2023-02-03 | 2023-06-03 |
-| [No Rewrites](https://open.spotify.com/track/04TArnJgprxiEqS8d1vzea) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [No Rewrites](https://open.spotify.com/album/1Ki19KBc90IVKValgb33aD) | 2:19 | 2023-06-09 |  |
+| [No Rewrites](https://open.spotify.com/track/04TArnJgprxiEqS8d1vzea) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [No Rewrites](https://open.spotify.com/album/1Ki19KBc90IVKValgb33aD) | 2:19 | 2023-06-09 | 2024-02-01 |
 | [No Sleep](https://open.spotify.com/track/2pfAvgMoHLfialvMYn337d) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 3:57 | 2021-08-04 | 2022-08-06 |
 | [No Wonder](https://open.spotify.com/track/26E7c125wkzIcTSBdC8th3) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [No Wonder](https://open.spotify.com/album/6RJuDAODnxAKIkXTxNhKHx) | 3:21 | 2022-11-25 | 2023-08-12 |
 | [Normal](https://open.spotify.com/track/0HVcO5RvFcXCqQDWrh1zL2) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Normal](https://open.spotify.com/album/4sAJ0GqWDbEVemJSjE1PZc) | 3:51 | 2023-03-10 | 2023-04-23 |
@@ -646,6 +646,7 @@
 | [superhuman](https://open.spotify.com/track/7BTNd80NiL6anY2mnSYkgQ) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [superhuman](https://open.spotify.com/album/0johO4xlYDXem8iYmjKoha) | 2:50 | 2022-10-21 | 2023-07-08 |
 | [Superspreader](https://open.spotify.com/track/6q0RXGkwh6qH9aeAezNA68) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Superspreader](https://open.spotify.com/album/2CAFyzuSiSSe6CEU2UUm7j) | 3:20 | 2022-08-12 | 2022-08-27 |
 | [Takin' All My Lovin'](https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7) | [Mikey Jimenez](https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Takin' All My Lovin'](https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC) | 3:27 | 2023-03-17 |  |
+| [Talk About Love](https://open.spotify.com/track/2xc5PUIG6lJVvn3yr96n1r) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Talk About Love](https://open.spotify.com/album/5i6UvFvn2My0AZCwyDIXGN) | 3:48 | 2024-01-31 |  |
 | [Tangerine](https://open.spotify.com/track/2JSwrpnYbxzKJVmc69cGZ9) | [Anthony Watts](https://open.spotify.com/artist/52S7chJRLMM0ueWjN6hhn1), [Anthony Russo](https://open.spotify.com/artist/6PFcrRZezCL5p9A0nwb7ki) | [Tangerine](https://open.spotify.com/album/61vdGknCYTjcsJFBc6KYcq) | 3:07 | 2022-05-20 | 2022-06-18 |
 | [Taxi Driver](https://open.spotify.com/track/7vAlIaKmcTYB1BqFcTuQmW) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Taxi Driver / 7711](https://open.spotify.com/album/64Mcx8MEsX8PDEEMfI4ixU) | 2:56 | 2023-08-18 | 2024-01-27 |
 | [Tears Hit The Ground](https://open.spotify.com/track/2ajCIDxKQ5x7nBCvepBDx4) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Love Cycle](https://open.spotify.com/album/5331y9QfIpABo07fzyWtZt) | 3:21 | 2022-02-18 | 2022-04-20 |

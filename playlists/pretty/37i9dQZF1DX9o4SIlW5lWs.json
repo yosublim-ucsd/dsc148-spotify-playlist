@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n! Foto: Emanero, Angela Torres, Karina & j mena.",
-  "num_followers": 208190,
+  "num_followers": 208348,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWFlNzE1NzNmZjNjMDlhOGYyNmE5Zjc1ZGI3YzYxNjAyNTBiODU0",
+  "snapshot_id": "MCw2ZWU2OGQzZjljN2QwNmYzMDViNDllM2Y0ZTIyZjQ4YWMzMjAxYmFh",
   "tracks": [
     {
       "added_at": "2024-01-26 03:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "No Me Arrepiento De Este Amor",
-        "url": "https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "No Me Arrepiento de Este Amor",
-      "url": "https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "VAS A VOLVER",
         "url": "https://open.spotify.com/album/0UkOCzJaNwtVwF0T1Txfh9"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 144666,
       "name": "VAS A VOLVER",
       "url": "https://open.spotify.com/track/2GI51zBcXdoEFW0mOg1pkZ"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "No Me Arrepiento De Este Amor",
+        "url": "https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "No Me Arrepiento de Este Amor",
+      "url": "https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -455,18 +455,22 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Alg\u00fan D\u00eda Volver\u00e1s",
-        "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
+        "name": "Con Vos",
+        "url": "https://open.spotify.com/album/4lN4nVXWJYtFecrKIflo7N"
       },
       "artists": [
         {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
         }
       ],
-      "duration_ms": 253822,
-      "name": "Alg\u00fan D\u00eda Volver\u00e1s",
-      "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
+      "duration_ms": 176658,
+      "name": "Con Vos",
+      "url": "https://open.spotify.com/track/2aEwfuFWFF7Va5fEccGs3x"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -487,22 +491,18 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Con Vos",
-        "url": "https://open.spotify.com/album/4lN4nVXWJYtFecrKIflo7N"
+        "name": "Alg\u00fan D\u00eda Volver\u00e1s",
+        "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
       },
       "artists": [
         {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
         }
       ],
-      "duration_ms": 176658,
-      "name": "Con Vos",
-      "url": "https://open.spotify.com/track/2aEwfuFWFF7Va5fEccGs3x"
+      "duration_ms": 253822,
+      "name": "Alg\u00fan D\u00eda Volver\u00e1s",
+      "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "El Polvito Del Amor",
-      "url": "https://open.spotify.com/track/2mzncewLAIAvfFeJ01Ukhg"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "Boquita de Caramelo",
         "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 243920,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "El Polvito Del Amor",
+      "url": "https://open.spotify.com/track/2mzncewLAIAvfFeJ01Ukhg"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Muero por Ti",
-        "url": "https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 236840,
-      "name": "Muero por T\u00ed",
-      "url": "https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "Solo Para Entendidos",
         "url": "https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 182466,
       "name": "Ella",
       "url": "https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "Muero por Ti",
+        "url": "https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 236840,
+      "name": "Muero por T\u00ed",
+      "url": "https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
+        "name": "Si Te Vas (Vivo)",
+        "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "El Mago Y La Nueva",
+          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
+        }
+      ],
+      "duration_ms": 275375,
+      "name": "Si Te Vas - Vivo",
+      "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
         "name": "Creciendo",
         "url": "https://open.spotify.com/album/6JrMR7QudBMGYJ0zIrSFB6"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 234736,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/1cP3sQJ4cBGUy3mzMHXH96"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
-        "name": "Si Te Vas (Vivo)",
-        "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "El Mago Y La Nueva",
-          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
-        }
-      ],
-      "duration_ms": 275375,
-      "name": "Si Te Vas - Vivo",
-      "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Un Homenaje al Cielo",
-        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 240720,
-      "name": "Con \u00c9l No Soportas",
-      "url": "https://open.spotify.com/track/0qgR6e8ot4sJ9RTIyKg3d8"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "DIOS ME PERDONE",
         "url": "https://open.spotify.com/album/3FthtqxiqcpsNiypZhUtRY"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
+        "name": "Un Homenaje al Cielo",
+        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 240720,
+      "name": "Con \u00c9l No Soportas",
+      "url": "https://open.spotify.com/track/0qgR6e8ot4sJ9RTIyKg3d8"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
         "name": "Sa, Za...Sabor",
         "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
       },
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Boquita de Caramelo",
-        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sombras",
-          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "Pega la Vuelta",
-      "url": "https://open.spotify.com/track/51seuwibGTQsUod6oScKtR"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "Renovado",
         "url": "https://open.spotify.com/album/5N6QaxcMze5HSGfMzhWASC"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 258293,
       "name": "La Cita",
       "url": "https://open.spotify.com/track/7xPoGT10C2Heeu5RKvBgzn"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "Boquita de Caramelo",
+        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sombras",
+          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "Pega la Vuelta",
+      "url": "https://open.spotify.com/track/51seuwibGTQsUod6oScKtR"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Olv\u00eddame Si Puedes",
-        "url": "https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H"
-      },
-      "artists": [
-        {
-          "name": "Noa - Noa",
-          "url": "https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7"
-        }
-      ],
-      "duration_ms": 231880,
-      "name": "Me Extra\u00f1ar\u00e1s",
-      "url": "https://open.spotify.com/track/4s0uLfMAgXbPgmPgOVG7qe"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "Lo Mejor del Amor",
         "url": "https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 167600,
       "name": "Lo Mejor del Amor",
       "url": "https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "Olv\u00eddame Si Puedes",
+        "url": "https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H"
+      },
+      "artists": [
+        {
+          "name": "Noa - Noa",
+          "url": "https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7"
+        }
+      ],
+      "duration_ms": 231880,
+      "name": "Me Extra\u00f1ar\u00e1s",
+      "url": "https://open.spotify.com/track/4s0uLfMAgXbPgmPgOVG7qe"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
+        "name": "Qu\u00e9 Agon\u00eda",
+        "url": "https://open.spotify.com/album/74lyeT4vwsCCOiScrFz5xy"
       },
       "artists": [
         {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
         }
       ],
-      "duration_ms": 207957,
-      "name": "Que Ser\u00e1 de Ti",
-      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
+      "duration_ms": 217094,
+      "name": "Qu\u00e9 Agon\u00eda",
+      "url": "https://open.spotify.com/track/5opUwRIhCuOG0AA8H3gFQL"
     },
     {
       "added_at": "2024-01-26 03:00:00",

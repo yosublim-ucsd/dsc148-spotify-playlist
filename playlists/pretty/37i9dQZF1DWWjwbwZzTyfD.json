@@ -1,12 +1,12 @@
 {
   "description": "The official soundtrack of Nike's NYvsNY, curated by the players. We Outside!",
-  "num_followers": 11629,
+  "num_followers": 11626,
   "original_name": "NYvsNY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTY0NzMxZGI1OGM3NjViZTM4YzNmOWQ0OTY4MDIzNWQ2YjkwNzM0",
+  "snapshot_id": "MCw0NDU2Njg2NmVjNzZhZjg4N2JjYjhjMTkzZDgwMjMyZDc1OGZkNTg3",
   "tracks": [
     {
       "added_at": "2023-06-27 06:48:40",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 255377,
-      "name": "United In Grief",
-      "url": "https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "AI YoungBoy 2",
         "url": "https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 148629,
       "name": "Make No Sense",
       "url": "https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 255377,
+      "name": "United In Grief",
+      "url": "https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 196204,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "Drama (feat. Drake) [Sped Up]",
         "url": "https://open.spotify.com/album/5e31w2HtxpJeqO16YCDviv"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 251859,
       "name": "Drama (feat. Drake)",
       "url": "https://open.spotify.com/track/232jKM7OzWMfuwHyf9r3dX"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 196204,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
     },
     {
       "added_at": "2023-07-10 21:55:04",
@@ -1261,24 +1261,20 @@
       "url": "https://open.spotify.com/track/2cEnKRR4dYBB2VA1mjlb1z"
     },
     {
-      "added_at": "2023-07-10 21:55:04",
+      "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Who Told You (feat. Drake)",
-        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
       },
       "artists": [
         {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
         }
       ],
-      "duration_ms": 208917,
-      "name": "Who Told You (feat. Drake)",
-      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
+      "duration_ms": 217346,
+      "name": "When I See U",
+      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1305,20 +1301,24 @@
       "url": "https://open.spotify.com/track/6fwdbPMwP1zVStm8FybmkO"
     },
     {
-      "added_at": "2023-06-27 06:48:40",
+      "added_at": "2023-07-10 21:55:04",
       "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
+        "name": "Who Told You (feat. Drake)",
+        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
       },
       "artists": [
         {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 217346,
-      "name": "When I See U",
-      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
+      "duration_ms": 208917,
+      "name": "Who Told You (feat. Drake)",
+      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1505,24 +1505,24 @@
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
     },
     {
-      "added_at": "2023-06-27 06:48:40",
+      "added_at": "2023-07-10 21:55:04",
       "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+        "name": "GREECE (feat. Drake)",
+        "url": "https://open.spotify.com/album/3O6ywzP5LE5msmuBBTpaIN"
       },
       "artists": [
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 193026,
-      "name": "Hot (feat. Gunna)",
-      "url": "https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9"
+      "duration_ms": 218901,
+      "name": "GREECE (feat. Drake)",
+      "url": "https://open.spotify.com/track/35RJhm1pEovTBwnNR0zWad"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1545,24 +1545,24 @@
       "url": "https://open.spotify.com/track/6K2anECyrckidwf5wxS78Q"
     },
     {
-      "added_at": "2023-07-10 21:55:04",
+      "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "GREECE (feat. Drake)",
-        "url": "https://open.spotify.com/album/3O6ywzP5LE5msmuBBTpaIN"
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 218901,
-      "name": "GREECE (feat. Drake)",
-      "url": "https://open.spotify.com/track/35RJhm1pEovTBwnNR0zWad"
+      "duration_ms": 193026,
+      "name": "Hot (feat. Gunna)",
+      "url": "https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9"
     },
     {
       "added_at": "2023-06-27 06:48:40",

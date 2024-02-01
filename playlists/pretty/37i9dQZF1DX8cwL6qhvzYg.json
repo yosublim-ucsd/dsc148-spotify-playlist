@@ -1,12 +1,12 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 401864,
+  "num_followers": 401868,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjIxMzRjNDY3NzJhYTA1N2IyZmE2OGY4NDIzYjY5YWY4ZmUxODg2",
+  "snapshot_id": "MCxiOGEzYWM3YWVjNmZiMmYxNWZlZDdkM2I5YjZiNTNlYmE3MmVmZDMz",
   "tracks": [
     {
       "added_at": "2023-11-10 18:23:57",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-11-10 18:23:57",
       "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
-    },
-    {
-      "added_at": "2023-11-10 18:23:57",
-      "album": {
         "name": "As\u00ed Soy Yo",
         "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 289013,
       "name": "\u00c9xtasis",
       "url": "https://open.spotify.com/track/3NqbKUOgaU2LgIFRbu4B12"
+    },
+    {
+      "added_at": "2023-11-10 18:23:57",
+      "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
     },
     {
       "added_at": "2023-11-10 18:23:57",
@@ -847,22 +847,18 @@
     {
       "added_at": "2023-11-10 18:23:57",
       "album": {
-        "name": "LA CHAMBA",
-        "url": "https://open.spotify.com/album/3ZXdnHFjtmYBMSMogYTvVK"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 173617,
-      "name": "LA CHAMBA",
-      "url": "https://open.spotify.com/track/1gjAVqB8sPT5i96wXUWcJR"
+      "duration_ms": 267333,
+      "name": "Fuerte No Soy",
+      "url": "https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs"
     },
     {
       "added_at": "2023-11-10 18:23:57",
@@ -883,18 +879,22 @@
     {
       "added_at": "2023-11-10 18:23:57",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+        "name": "LA CHAMBA",
+        "url": "https://open.spotify.com/album/3ZXdnHFjtmYBMSMogYTvVK"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 267333,
-      "name": "Fuerte No Soy",
-      "url": "https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs"
+      "duration_ms": 173617,
+      "name": "LA CHAMBA",
+      "url": "https://open.spotify.com/track/1gjAVqB8sPT5i96wXUWcJR"
     },
     {
       "added_at": "2023-11-10 18:23:57",
@@ -967,38 +967,6 @@
     {
       "added_at": "2023-11-10 18:23:57",
       "album": {
-        "name": "Tirando Flow Sesh #11",
-        "url": "https://open.spotify.com/album/1gXMqRDlkeBJ4SOUVWPUM5"
-      },
-      "artists": [
-        {
-          "name": "Dan Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Ritorukai",
-          "url": "https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Tirando Flow Sesh #11",
-      "url": "https://open.spotify.com/track/7C6eIDPQQftKLrf4ojWORt"
-    },
-    {
-      "added_at": "2023-11-10 18:23:57",
-      "album": {
         "name": "El Ahijado Consentido",
         "url": "https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP"
       },
@@ -1027,6 +995,38 @@
       "duration_ms": 237093,
       "name": "Me Volv\u00ed A Acordar De Ti",
       "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
+    },
+    {
+      "added_at": "2023-11-10 18:23:57",
+      "album": {
+        "name": "Tirando Flow Sesh #11",
+        "url": "https://open.spotify.com/album/1gXMqRDlkeBJ4SOUVWPUM5"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Ritorukai",
+          "url": "https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Tirando Flow Sesh #11",
+      "url": "https://open.spotify.com/track/7C6eIDPQQftKLrf4ojWORt"
     },
     {
       "added_at": "2023-11-10 18:23:57",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-11-10 18:23:57",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
-        }
-      ],
-      "duration_ms": 201084,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
-    },
-    {
-      "added_at": "2023-11-10 18:23:57",
-      "album": {
         "name": "El Poder De La Cumbia",
         "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 283240,
       "name": "Rumba Cha-Cha-Cha",
       "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
+    },
+    {
+      "added_at": "2023-11-10 18:23:57",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
     },
     {
       "added_at": "2023-11-10 18:23:57",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2023-11-10 18:23:57",
       "album": {
-        "name": "Reggaeton Hall of Fame, Vol. 1",
-        "url": "https://open.spotify.com/album/7z9bNKljyF4BCVf6srNhN0"
-      },
-      "artists": [
-        {
-          "name": "Trebol Clan",
-          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
-        }
-      ],
-      "duration_ms": 157701,
-      "name": "Agarrala",
-      "url": "https://open.spotify.com/track/50K0GKbudptd9wZwQlQWdj"
-    },
-    {
-      "added_at": "2023-11-10 18:23:57",
-      "album": {
         "name": "Dile, Cuentale",
         "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 250541,
       "name": "Dile, Cuentale",
       "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
+    },
+    {
+      "added_at": "2023-11-10 18:23:57",
+      "album": {
+        "name": "Reggaeton Hall of Fame, Vol. 1",
+        "url": "https://open.spotify.com/album/7z9bNKljyF4BCVf6srNhN0"
+      },
+      "artists": [
+        {
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        }
+      ],
+      "duration_ms": 157701,
+      "name": "Agarrala",
+      "url": "https://open.spotify.com/track/50K0GKbudptd9wZwQlQWdj"
     },
     {
       "added_at": "2023-11-10 18:23:57",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2023-11-10 18:23:57",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
-        "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 235240,
-      "name": "Cari\u00f1ito Sin MI",
-      "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
-    },
-    {
-      "added_at": "2023-11-10 18:23:57",
-      "album": {
         "name": "Los Del Garrote",
         "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 197786,
       "name": "La Cumbia Del Garrote",
       "url": "https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY"
+    },
+    {
+      "added_at": "2023-11-10 18:23:57",
+      "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
+        "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 235240,
+      "name": "Cari\u00f1ito Sin MI",
+      "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
     },
     {
       "added_at": "2023-11-10 18:23:57",

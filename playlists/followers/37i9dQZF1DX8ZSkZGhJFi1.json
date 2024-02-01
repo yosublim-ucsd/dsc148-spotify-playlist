@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 48292,
+  "2024-02-01": 48310,
   "date_first_scraped": "2022-03-02",
   "description": "Beats instrumentais para te ajudar a focar mantendo o \u00e2nimo.",
   "name": "Foco com Energia",
@@ -5067,6 +5067,24 @@
       "duration_ms": 159000,
       "name": "Jay",
       "url": "https://open.spotify.com/track/5GEJovN72R9nDWb4xUXk9o"
+    },
+    {
+      "album": {
+        "name": "Jay",
+        "url": "https://open.spotify.com/album/1dBMEDqwRc1QhvtQmUe1r2"
+      },
+      "artists": [
+        {
+          "name": "Lukrembo",
+          "url": "https://open.spotify.com/artist/2mvFGnu3tPO49WSrFZ4zVR"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Jay",
+      "url": "https://open.spotify.com/track/5v6yu1b18jUZDuvVJBCtAs"
     },
     {
       "album": {
@@ -12129,7 +12147,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 140000,
       "name": "weatherlight",
       "url": "https://open.spotify.com/track/0pcf1rZgUG5lb6WBwbzX56"

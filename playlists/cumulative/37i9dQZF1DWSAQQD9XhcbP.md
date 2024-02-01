@@ -4,7 +4,7 @@
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-130 songs - 7 hr 14 min
+131 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\) \(duet with John Legend\)](https://open.spotify.com/track/1O9ML3Bv8XvQ3xWUVL0jj7) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [The Christmas Song \(Chestnuts Roasting On An Open Fire\) \(duet with John Legend\)](https://open.spotify.com/album/6qSiSv2qh4fTiqjvmSQLCy) | 3:30 | 2021-12-23 | 2022-11-12 |
 | [The Christmas Waltz](https://open.spotify.com/track/0Q7iUK8jHVcKu8dW1s0VFm) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4NVnwX1oas9B9zHSX8xwfD) | 2:44 | 2021-12-23 |  |
 | [The Christmas Waltz](https://open.spotify.com/track/4xUGCtXFmj6ClTAewhg6CS) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4Z0E2zhE6qdsKdrUTKffXn) | 2:44 | 2021-12-23 | 2022-07-29 |
-| [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 | 2022-11-12 |  |
+| [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 | 2022-11-12 | 2024-02-01 |
+| [The Christmas Waltz](https://open.spotify.com/track/4eEdv0ZBTtWh8zS41SeUp8) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:47 | 2023-12-13 |  |
 | [The First Noel](https://open.spotify.com/track/7AI7NTvw4BlVnQBSfLDD1q) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [The First Noel](https://open.spotify.com/album/7iZnMSmamUsrqZqYKBVPBW) | 3:33 | 2022-11-12 |  |
 | [The Holidays With You](https://open.spotify.com/track/3JMZ5QcFKxGpnMuqOWGvmU) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [The Holidays With You](https://open.spotify.com/album/02dmqljeCWllbNuP5BVbUg) | 2:05 | 2021-12-23 |  |
 | [The Light Of Christmas Day \- From "Love The Coopers" Soundtrack](https://open.spotify.com/track/0bJ8bS3aRtsA3zIIjr7Ool) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [The Light Of Christmas Day \(From "Love The Coopers" Soundtrack\)](https://open.spotify.com/album/5rp19EkSJSBvezc0b0Z2an) | 3:26 | 2021-12-23 | 2022-07-29 |

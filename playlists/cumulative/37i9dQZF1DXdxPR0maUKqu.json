@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "PHANTOM MOMENT",
+        "url": "https://open.spotify.com/album/75hPtw9b1dzHh7LBJprWWI"
+      },
+      "artists": [
+        {
+          "name": "Nekoze no Navysaison",
+          "url": "https://open.spotify.com/artist/4V8r1M7rNsde2hKEbE94ZJ"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249068,
+      "name": "Itsuwarisetsunaina",
+      "url": "https://open.spotify.com/track/6EzXmInCWy9ccCJmemvgIk"
+    },
+    {
+      "album": {
         "name": "Saba No Ichi",
         "url": "https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN"
       },
@@ -668,6 +686,24 @@
       "duration_ms": 188000,
       "name": "kirakirayou",
       "url": "https://open.spotify.com/track/1r6QqsG9RXtpemNUt7DY5R"
+    },
+    {
+      "album": {
+        "name": "onsei",
+        "url": "https://open.spotify.com/album/17JswaRY80Z0aoRiBz3V2N"
+      },
+      "artists": [
+        {
+          "name": "Mr.\u3075\u3049\u308b\u3066",
+          "url": "https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229480,
+      "name": "Kogare",
+      "url": "https://open.spotify.com/track/3n3yRUvDTKscIxwnYG7t8S"
     },
     {
       "album": {
@@ -1042,7 +1078,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 149562,
       "name": "OUR-AWA-HOUR!!",
       "url": "https://open.spotify.com/track/3pzF6qBlLfGG2rk8QIQ8xH"
@@ -1748,7 +1784,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 229480,
       "name": "\u3053\u304c\u308c",
       "url": "https://open.spotify.com/track/1UpRK1N1DGTYSLaLmpdZw2"

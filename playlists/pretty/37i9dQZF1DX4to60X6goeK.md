@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Skepsis
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,048 likes - 55 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,090 likes - 55 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 26 | [Complicated](https://open.spotify.com/track/4waq3ATMeZmOaHxHf9vLpp) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Complicated](https://open.spotify.com/album/5zwbiBQP3sm4kqV1I1ThVM) | 4:26 |
 | 27 | [Sundown](https://open.spotify.com/track/5IiAyeg16Rk5holAyjwpLO) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Sundown](https://open.spotify.com/album/1XevLzt5Tds3Cjbuz1oz0g) | 4:28 |
 | 28 | [Spartanz \- Bou Remix](https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Spartanz \(Bou Remix\)](https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI) | 3:42 |
-| 29 | [Come Around](https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j), [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC) | [Come Around](https://open.spotify.com/album/2B81YZsWzPSLdgzSR3gF8O) | 3:48 |
-| 30 | [Bass](https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5) | [CJDJ](https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS) | [Bass](https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu) | 2:05 |
+| 29 | [Bass](https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5) | [CJDJ](https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS) | [Bass](https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu) | 2:05 |
+| 30 | [Come Around](https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j), [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC) | [Come Around](https://open.spotify.com/album/2B81YZsWzPSLdgzSR3gF8O) | 3:48 |
 | 31 | [Are You Ready](https://open.spotify.com/track/3lsohFPyLkdGHhXhl0rPMR) | [René LaVice](https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v) | [Are You Ready](https://open.spotify.com/album/0wEVV704o69cgtCpz9fP9l) | 3:26 |
 | 32 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 |
 | 33 | [looking 4 me](https://open.spotify.com/track/5z0pJkbsGf6f95dKzd5OOk) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [looking 4 me](https://open.spotify.com/album/0KQfZKiNtU7gMdX9txha8j) | 2:27 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Transcend](https://open.spotify.com/track/5XuOY9OxZCI8lqlgzGbpoX) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Transcend](https://open.spotify.com/album/1Jzm2Nbc65Ti5k4bddNOn8) | 4:52 |
 | 55 | [Dancing in the Dark](https://open.spotify.com/track/3DZExPtWIJE8LPMCLpHGxK) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Buunshin](https://open.spotify.com/artist/5ucX3eT8wlEQGRVwUyeqBj) | [Dancing in the Dark](https://open.spotify.com/album/35bk4rPp9c8t7wEmXgrBFU) | 2:47 |
 
-Snapshot ID: `MCxkNWYyYjlmOTE5MjAzMWQ1MGM0MTM3ZTAwYzVmZDljOWNmOTU5YmUw`
+Snapshot ID: `MCxkYTU2YTljYzJmNjkwNTIxNWYwMzE0NTc3ZmE1NzlmNmM0ZjMxOTg4`

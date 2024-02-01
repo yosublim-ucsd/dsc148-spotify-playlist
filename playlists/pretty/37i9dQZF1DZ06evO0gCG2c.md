@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,104 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,173 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 39 | [I Just Had Sex](https://open.spotify.com/track/5PEleSkK4p4E1sx3x7cOLt) | [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Turtleneck & Chain \(Explicit Version\)](https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP) | 2:46 |
 | 40 | [Gangsta Bop](https://open.spotify.com/track/3nfVBXYJtRWeNxHMSMvIsE) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 4:06 |
 | 41 | [Dangerous](https://open.spotify.com/track/0b0jmVQZ0rxs69RGq2WCu2) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Dangerous](https://open.spotify.com/album/09hwTvcIp4AK8nKDDHZppF) | 3:53 |
-| 42 | [Boss' Life](https://open.spotify.com/track/4UprL40OVADveANAtCNrIa) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI) | 3:22 |
-| 43 | [Snitch](https://open.spotify.com/track/02rlDATSROFtjqmvs1dBKr) | [Obie Trice](https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Second Rounds On Me](https://open.spotify.com/album/7liAJFeMLT5QihsB9MhAh5) | 4:01 |
+| 42 | [Snitch](https://open.spotify.com/track/02rlDATSROFtjqmvs1dBKr) | [Obie Trice](https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Second Rounds On Me](https://open.spotify.com/album/7liAJFeMLT5QihsB9MhAh5) | 4:01 |
+| 43 | [Boss' Life](https://open.spotify.com/track/4UprL40OVADveANAtCNrIa) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI) | 3:22 |
 | 44 | [Sexy Chick \(feat\. Akon\)](https://open.spotify.com/track/4MKzCHlZvkwJOQRNkdw4zq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [One More Love](https://open.spotify.com/album/5bRrEsH3Mjl8O0lpUgdIHI) | 3:14 |
 | 45 | [Came To Do \(feat\. Akon\)](https://open.spotify.com/track/3fLXPbXiezgmbJEEOkT8ve) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 3:48 |
 | 46 | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/track/2ttfqpA40dpzzz9QhxnFCv) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/album/2g64ICU2z18zpnuS5rQbM9) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 49 | [Angel](https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Angel](https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP) | 3:35 |
 | 50 | [Enjoy That](https://open.spotify.com/track/0vzRLVEArgzEl2FUHj9xYA) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Enjoy That](https://open.spotify.com/album/1QOorpfl2WDbirKrMsXG5D) | 3:03 |
 
-Snapshot ID: `Mjg0NDM2MzgsMDAwMDAwMDBjOWNhMDEwY2JkYWNmYzZiM2UzYmNkZDI2YTI2MmEyYw==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDA4MzAyODQwZWVmZGEwOGE0YmZiODJjZjRkOTcyMmNlZQ==`

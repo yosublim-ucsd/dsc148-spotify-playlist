@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 88701,
+  "2024-02-01": 88773,
   "date_first_scraped": "2023-10-07",
   "description": "where folk flowers bloom.  cover: Briston Maroney \ud83e\udd8b",
   "name": "juniper",
@@ -1035,10 +1035,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 159423,
       "name": "Good Morning, Al",
       "url": "https://open.spotify.com/track/0rNWtiBcJh8T6gXtIAIJIJ"
+    },
+    {
+      "album": {
+        "name": "Good Morning, Al",
+        "url": "https://open.spotify.com/album/2NVDouAIm2kUdWCBhbssCf"
+      },
+      "artists": [
+        {
+          "name": "Ally Evenson",
+          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159423,
+      "name": "Good Morning, Al",
+      "url": "https://open.spotify.com/track/1jhoJAOa3oqBMffgbRaEiO"
     },
     {
       "album": {

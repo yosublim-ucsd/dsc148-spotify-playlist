@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 96493,
+  "num_followers": 96514,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTg5MWM2OTNmMjFmYjFjYTM0YzhmNGM4N2ZmOGZhZDBhNGM2MDg4",
+  "snapshot_id": "MCwzZTk5NjkxMTExZDkyNzIwYTVlNDk1MDY4Y2ZlMDNiNzlhNGIwZmZi",
   "tracks": [
     {
       "added_at": "2022-06-28 08:58:25",
@@ -443,6 +443,30 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner, R.: Orchestral Highlights From Operas",
+        "url": "https://open.spotify.com/album/5oMBGw62FJtjdU2fwnyAO9"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Johannes Wildner",
+          "url": "https://open.spotify.com/artist/3QEztQUVjL5FGxXuP70mJQ"
+        }
+      ],
+      "duration_ms": 624653,
+      "name": "Parsifal: Prelude to Act I",
+      "url": "https://open.spotify.com/track/67JXD5szpPe6dGyQMR3tmE"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner: Overtures",
         "url": "https://open.spotify.com/album/4tpRDswjJDyUMCqXkwrHAM"
       },
@@ -487,30 +511,6 @@
       "duration_ms": 167560,
       "name": "G\u00f6tterd\u00e4mmerung, WWV 86D, Act III: Vorspiel",
       "url": "https://open.spotify.com/track/1h1ypKTi53NeU94O8xdBzI"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner, R.: Orchestral Highlights From Operas",
-        "url": "https://open.spotify.com/album/5oMBGw62FJtjdU2fwnyAO9"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Polish National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
-        },
-        {
-          "name": "Johannes Wildner",
-          "url": "https://open.spotify.com/artist/3QEztQUVjL5FGxXuP70mJQ"
-        }
-      ],
-      "duration_ms": 624653,
-      "name": "Parsifal: Prelude to Act I",
-      "url": "https://open.spotify.com/track/67JXD5szpPe6dGyQMR3tmE"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -863,30 +863,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Symphonies In E Major & C Major",
-        "url": "https://open.spotify.com/album/5IgdBVEXXfuHleOBxnte8o"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Tokyo Metropolitan Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/7sZ6l5rUEtMpeqNRPtSM38"
-        },
-        {
-          "name": "Hiroshi Wakasugi",
-          "url": "https://open.spotify.com/artist/4d9YDMvrULZ7CQrONKAs5N"
-        }
-      ],
-      "duration_ms": 864060,
-      "name": "Symphony In E Major, WWV 35: I. Allegro Con Spirito",
-      "url": "https://open.spotify.com/track/27DC12Py5Cs6oJnkA8v2Yb"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Siegfried, WWV 86C",
         "url": "https://open.spotify.com/album/1KWsANADSRtAhadD5UfEA5"
       },
@@ -915,6 +891,30 @@
       "duration_ms": 406773,
       "name": "Siegfried, WWV 86C, Act III: Siegfried! Siegfried! Seliger Held!",
       "url": "https://open.spotify.com/track/2kcP9HDR2cvVZ8VpM87oW8"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Symphonies In E Major & C Major",
+        "url": "https://open.spotify.com/album/5IgdBVEXXfuHleOBxnte8o"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Tokyo Metropolitan Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7sZ6l5rUEtMpeqNRPtSM38"
+        },
+        {
+          "name": "Hiroshi Wakasugi",
+          "url": "https://open.spotify.com/artist/4d9YDMvrULZ7CQrONKAs5N"
+        }
+      ],
+      "duration_ms": 864060,
+      "name": "Symphony In E Major, WWV 35: I. Allegro Con Spirito",
+      "url": "https://open.spotify.com/track/27DC12Py5Cs6oJnkA8v2Yb"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1543,38 +1543,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Best of Opera with Metropolitan Opera Orchestra",
-        "url": "https://open.spotify.com/album/5IcmxPTkDuNOM3wmeHXXZp"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
-        },
-        {
-          "name": "Kurt Moll",
-          "url": "https://open.spotify.com/artist/63jASK5GkDHb5f9zCsOyem"
-        },
-        {
-          "name": "Metropolitan Opera Orchestra",
-          "url": "https://open.spotify.com/artist/5wn7ofJrDNHlKovbljawzS"
-        },
-        {
-          "name": "James Levine",
-          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "Parsifal / Act 3: \"Wie d\u00fcnkt mich doch die Aue heut so sch\u00f6n\" - Karfreitagszauber",
-      "url": "https://open.spotify.com/track/0K3gfWWq17A9DQiy1NhIx3"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Solti - Wagner - The Operas",
         "url": "https://open.spotify.com/album/0gwWHAzKo3OPiWMnb6HOei"
       },
@@ -1603,6 +1571,38 @@
       "duration_ms": 242306,
       "name": "Die Walk\u00fcre / Erster Aufzug: \"Wes Herd dies auch, hier mu\u00df ich rasten\"",
       "url": "https://open.spotify.com/track/4IdGIE4dqgJYisbTek67Nb"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Best of Opera with Metropolitan Opera Orchestra",
+        "url": "https://open.spotify.com/album/5IcmxPTkDuNOM3wmeHXXZp"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Kurt Moll",
+          "url": "https://open.spotify.com/artist/63jASK5GkDHb5f9zCsOyem"
+        },
+        {
+          "name": "Metropolitan Opera Orchestra",
+          "url": "https://open.spotify.com/artist/5wn7ofJrDNHlKovbljawzS"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "Parsifal / Act 3: \"Wie d\u00fcnkt mich doch die Aue heut so sch\u00f6n\" - Karfreitagszauber",
+      "url": "https://open.spotify.com/track/0K3gfWWq17A9DQiy1NhIx3"
     },
     {
       "added_at": "2022-06-28 08:58:25",

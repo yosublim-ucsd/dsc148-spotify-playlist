@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > coquette ou cocota?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,400,613 likes - 65 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,400,873 likes - 65 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/track/6zdL0aLZs6g61SPGrlMvrM) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [MC Koringa](https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt) | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/album/5LjiaU620s0bLVN0zf57O5) | 2:37 |
-| 2 | [Vem de flecha](https://open.spotify.com/track/7rII7hWYrJwU4MoVHmRsdY) | [DJ DIDI](https://open.spotify.com/artist/1cLuhjj5kHz8fabsZllDWJ) | [Vem de flecha](https://open.spotify.com/album/2NrcAgJjWRyBEN5oLbWrCQ) | 2:59 |
+| 2 | [Vem de flecha](https://open.spotify.com/track/7rII7hWYrJwU4MoVHmRsdY) | [DJ DIDI](https://open.spotify.com/artist/1cLuhjj5kHz8fabsZllDWJ), [Dj Rayan](https://open.spotify.com/artist/2SN0sv6jL9pWPYIgcWgb2a), [Mc Fopi](https://open.spotify.com/artist/07BaHE7dzguDOawZRVWCsR) | [Vem de flecha](https://open.spotify.com/album/2NrcAgJjWRyBEN5oLbWrCQ) | 2:59 |
 | 3 | [Perna Bamba](https://open.spotify.com/track/6fcQIY5VSFNrK4YzDoljPQ) | [Parangolé](https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Diferentão](https://open.spotify.com/album/4GEKE1p87kk2tSgMAvubVl) | 2:07 |
 | 4 | [Subindo e Descendo](https://open.spotify.com/track/4F3XVx6fmZvWLBqmBG1gxg) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy) | [Alcateia](https://open.spotify.com/album/5ds061BRZCKGmFLpq1Cwok) | 3:12 |
 | 5 | [Tipo Hollywood](https://open.spotify.com/track/6nvbXA95vgyThzj2Tbhank) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [Tipo Holywood](https://open.spotify.com/album/5W7hjyoWwy2KGEUTCN0L6z) | 1:49 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 64 | [Toma Tapa](https://open.spotify.com/track/2Vl7x4BkNhhJkEmQQMcV0V) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Toma Tapa](https://open.spotify.com/album/3BugC52pXA7PFqUqMjJmXV) | 2:02 |
 | 65 | [Vem Morenin](https://open.spotify.com/track/0j4YUzROiF5YFR8kkrysFx) | [Neno No beat](https://open.spotify.com/artist/6wPdYcqH47pTiPqsN7SImJ), [MC Rica](https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u) | [Vem Morenin](https://open.spotify.com/album/5xPNbtDedrWFO60aZpsBfK) | 2:39 |
 
-Snapshot ID: `MCwzMjE2NjZkMTY1MjZhMDFmZjcxNDAzNDdhYjA2M2U2YjQzMzQ5OTY2`
+Snapshot ID: `MCxmMzAxYzUxMWI0NDI0Zjg5MmM0YmVlZGM2MWEzYmEyOGQyNDQyZTdl`

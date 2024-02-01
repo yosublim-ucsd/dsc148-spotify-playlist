@@ -174,7 +174,7 @@
     {
       "album": {
         "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/1Xsr63cgvaQgL66jfAHiy4"
+        "url": "https://open.spotify.com/album/4SZS9RZ90ANoMUCMUcuICm"
       },
       "artists": [
         {
@@ -189,6 +189,28 @@
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 131351,
+      "name": "9",
+      "url": "https://open.spotify.com/track/6pY42vhU4JWOkBTJvpndrY"
+    },
+    {
+      "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/1Xsr63cgvaQgL66jfAHiy4"
+      },
+      "artists": [
+        {
+          "name": "IR",
+          "url": "https://open.spotify.com/artist/0rGVRHYxdlIBwdcrHLusJ1"
+        },
+        {
+          "name": "Foux",
+          "url": "https://open.spotify.com/artist/4z8fe4lPDIMVz7vzLRjmZl"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-01",
       "duration_ms": 131351,
       "name": "9",
       "url": "https://open.spotify.com/track/7LMhHAP4lFEOWYQEjVdpDj"
@@ -2664,7 +2686,7 @@
     {
       "album": {
         "name": "New",
-        "url": "https://open.spotify.com/album/32JAOiXDhNpimgyjJv4fA8"
+        "url": "https://open.spotify.com/album/2uCilGcs4sSm99a3QUXNjO"
       },
       "artists": [
         {
@@ -2675,6 +2697,24 @@
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 133500,
+      "name": "New",
+      "url": "https://open.spotify.com/track/2GhyoDmyAJrrxAczVaBNYz"
+    },
+    {
+      "album": {
+        "name": "New",
+        "url": "https://open.spotify.com/album/32JAOiXDhNpimgyjJv4fA8"
+      },
+      "artists": [
+        {
+          "name": "OSAMI",
+          "url": "https://open.spotify.com/artist/5wKEj2ICoq0Va6spZNvfTr"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-01",
       "duration_ms": 133500,
       "name": "New",
       "url": "https://open.spotify.com/track/7yn7n43wCQbbZnTsaQ1IqM"
@@ -2700,6 +2740,24 @@
     {
       "album": {
         "name": "New World",
+        "url": "https://open.spotify.com/album/3gcX6aWX8a6ZDbPtlVYvXA"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163013,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/5d0901OV306utjv7ALii1O"
+    },
+    {
+      "album": {
+        "name": "New World",
         "url": "https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq"
       },
       "artists": [
@@ -2710,7 +2768,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 163013,
       "name": "New World",
       "url": "https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J"
@@ -3508,7 +3566,7 @@
     {
       "album": {
         "name": "VS ME",
-        "url": "https://open.spotify.com/album/6QMPdzLL2CyKHVoFzRPVLD"
+        "url": "https://open.spotify.com/album/3NJj1qqpb7E9n1r04OAr9k"
       },
       "artists": [
         {
@@ -3519,6 +3577,24 @@
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 168287,
+      "name": "Struggle",
+      "url": "https://open.spotify.com/track/2uorqw0spilyM6eFRq0RFE"
+    },
+    {
+      "album": {
+        "name": "VS ME",
+        "url": "https://open.spotify.com/album/6QMPdzLL2CyKHVoFzRPVLD"
+      },
+      "artists": [
+        {
+          "name": "HOWL",
+          "url": "https://open.spotify.com/artist/2r3dR8TwsBkYYUfNomo7um"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-01",
       "duration_ms": 168287,
       "name": "Struggle",
       "url": "https://open.spotify.com/track/6Sz1KD1qr9fPc87o7VlzeU"

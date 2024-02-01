@@ -1,12 +1,12 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Cody Johnson",
-  "num_followers": 252149,
+  "num_followers": 252252,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTU4ZjJkMzlkM2M0Y2VhZTg1NDVkOGZlNTFiYTIyYzFlZDdkZGRl",
+  "snapshot_id": "MCw2MjJhYWNiZGViNmEyZDcxNjEwNTY5YzdjNTIzMjRiYmQwNDY4NDE2",
   "tracks": [
     {
       "added_at": "2024-01-19 17:31:05",
@@ -531,18 +531,18 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Harold Saul High",
-        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
+        "name": "Lifers",
+        "url": "https://open.spotify.com/album/0Y28vln6HsP0J2lS2MDTdP"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
         }
       ],
-      "duration_ms": 177866,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv"
+      "duration_ms": 205337,
+      "name": "Must Be the Whiskey",
+      "url": "https://open.spotify.com/track/324iakwekGIBGV93syJsVe"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -563,18 +563,18 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Lifers",
-        "url": "https://open.spotify.com/album/0Y28vln6HsP0J2lS2MDTdP"
+        "name": "Harold Saul High",
+        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
       },
       "artists": [
         {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 205337,
-      "name": "Must Be the Whiskey",
-      "url": "https://open.spotify.com/track/324iakwekGIBGV93syJsVe"
+      "duration_ms": 177866,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -627,26 +627,6 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        },
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 223062,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG"
-    },
-    {
-      "added_at": "2024-01-19 17:31:05",
-      "album": {
         "name": "Medicine Man",
         "url": "https://open.spotify.com/album/5SqBAJno2evV4WNNlBYZOY"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 188610,
       "name": "West Texas in My Eye",
       "url": "https://open.spotify.com/track/7rr2MisgPp9gRn1ydcwpe7"
+    },
+    {
+      "added_at": "2024-01-19 17:31:05",
+      "album": {
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 223062,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 233685,
-      "name": "February 28, 2016",
-      "url": "https://open.spotify.com/track/2WZTzjYMHYmadyQjSZ6Vj4"
-    },
-    {
-      "added_at": "2024-01-19 17:31:05",
-      "album": {
         "name": "Blink You'll Miss It",
         "url": "https://open.spotify.com/album/3fWz8gQUrBBsf7y7q1znTq"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 212819,
       "name": "Damn Good Goodbye",
       "url": "https://open.spotify.com/track/1tPAhtdVRtRexRdH9QXOSP"
+    },
+    {
+      "added_at": "2024-01-19 17:31:05",
+      "album": {
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 233685,
+      "name": "February 28, 2016",
+      "url": "https://open.spotify.com/track/2WZTzjYMHYmadyQjSZ6Vj4"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Drowning In Dreams",
-        "url": "https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS"
-      },
-      "artists": [
-        {
-          "name": "Kat Hasty",
-          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
-        }
-      ],
-      "duration_ms": 268968,
-      "name": "Pretty Things",
-      "url": "https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy"
-    },
-    {
-      "added_at": "2024-01-19 17:31:05",
-      "album": {
         "name": "Austin",
         "url": "https://open.spotify.com/album/2VdUBCAnlhj9MijNsGZag5"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
+        "name": "Drowning In Dreams",
+        "url": "https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS"
+      },
+      "artists": [
+        {
+          "name": "Kat Hasty",
+          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
+        }
+      ],
+      "duration_ms": 268968,
+      "name": "Pretty Things",
+      "url": "https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy"
+    },
+    {
+      "added_at": "2024-01-19 17:31:05",
+      "album": {
         "name": "Vol. 1- EP",
         "url": "https://open.spotify.com/album/5syk2daTo1YtSBRRjuyCjS"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 206210,
       "name": "Every Single Kiss",
       "url": "https://open.spotify.com/track/7vw8wZXoY5kVIT30tF6k15"
+    },
+    {
+      "added_at": "2024-01-19 17:31:05",
+      "album": {
+        "name": "Humble Folks",
+        "url": "https://open.spotify.com/album/0uoIEPON8NkkkCjhpXJ9g8"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 231146,
+      "name": "One I Want",
+      "url": "https://open.spotify.com/track/2GVKDSFwVWCbygrZQvB5ed"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Live at Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/6csMrzyN5ZpLcwxBWH9XeQ"
-      },
-      "artists": [
-        {
-          "name": "Stoney LaRue",
-          "url": "https://open.spotify.com/artist/0T7J61YgErxSH8yuyggHJO"
-        }
-      ],
-      "duration_ms": 248586,
-      "name": "Feet Don't Touch the Ground",
-      "url": "https://open.spotify.com/track/5jlKg466AQEoBSPJ8y8wyY"
-    },
-    {
-      "added_at": "2024-01-19 17:31:05",
-      "album": {
         "name": "How Lucky Am I",
         "url": "https://open.spotify.com/album/5FvWijatd6SksRLCD0TpER"
       },
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Lovin' Where It's Goin'",
-        "url": "https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA"
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/6csMrzyN5ZpLcwxBWH9XeQ"
       },
       "artists": [
         {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+          "name": "Stoney LaRue",
+          "url": "https://open.spotify.com/artist/0T7J61YgErxSH8yuyggHJO"
         }
       ],
-      "duration_ms": 179691,
-      "name": "Lovin' Where It's Goin'",
-      "url": "https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ"
+      "duration_ms": 248586,
+      "name": "Feet Don't Touch the Ground",
+      "url": "https://open.spotify.com/track/5jlKg466AQEoBSPJ8y8wyY"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Humble Folks",
-        "url": "https://open.spotify.com/album/0uoIEPON8NkkkCjhpXJ9g8"
+        "name": "Lovin' Where It's Goin'",
+        "url": "https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA"
       },
       "artists": [
         {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
         }
       ],
-      "duration_ms": 231146,
-      "name": "One I Want",
-      "url": "https://open.spotify.com/track/2GVKDSFwVWCbygrZQvB5ed"
+      "duration_ms": 179691,
+      "name": "Lovin' Where It's Goin'",
+      "url": "https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "The Essential Kris Kristofferson",
-        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 270800,
-      "name": "Sunday Mornin' Comin' Down",
-      "url": "https://open.spotify.com/track/4mLo5ouQ9giUdWSAOtn5TK"
-    },
-    {
-      "added_at": "2024-01-19 17:31:05",
-      "album": {
         "name": "West Textures",
         "url": "https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 303000,
       "name": "The Road Goes On Forever",
       "url": "https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj"
+    },
+    {
+      "added_at": "2024-01-19 17:31:05",
+      "album": {
+        "name": "The Essential Kris Kristofferson",
+        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 270800,
+      "name": "Sunday Mornin' Comin' Down",
+      "url": "https://open.spotify.com/track/4mLo5ouQ9giUdWSAOtn5TK"
     },
     {
       "added_at": "2024-01-19 17:31:05",

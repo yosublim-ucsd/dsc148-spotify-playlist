@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-249 songs - 15 hr 21 min
+250 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Creatures of Havoc](https://open.spotify.com/track/7koZ2Ddvfzr5AXMmWRLkL2) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Shadowgrass](https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1) | 4:52 | 2022-04-29 |  |
 | [Cripple Creek](https://open.spotify.com/track/7fqY4vS7K3kxbQLNmmyt8Y) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Just Around the Bend: Survival and Revival in Southern Banjo Sounds \- Mike Seeger's Last Documentary](https://open.spotify.com/album/7yBEb8FGqXKtzLzsCf93gg) | 1:26 | 2022-12-03 |  |
 | [Crooked Mind](https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g) | [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh) | [Black Banjo](https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2) | 3:18 | 2022-05-13 |  |
-| [Crossing the Junction / Deer River](https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL) | [Lonesome Ace Stringband](https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb) | [Crossing the Junction / Deer River](https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj) | 3:38 | 2023-08-11 |  |
+| [Crossing the Junction / Deer River](https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL) | [Lonesome Ace Stringband](https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb) | [Crossing the Junction / Deer River](https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj) | 3:38 | 2023-08-11 | 2024-02-01 |
 | [Cumberland Gap](https://open.spotify.com/track/3ZIl7Lmby6zGV9iAC4ZXMp) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF) | 1:08 | 2023-11-24 |  |
 | [Cumberland Gap](https://open.spotify.com/track/6422IVV0bPOMsvTEIyW2cs) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Cumberland Gap](https://open.spotify.com/album/2kJ2mebmHglVZxIRfrOJGq) | 1:08 | 2022-07-15 | 2023-12-24 |
 | [Cup & Porch](https://open.spotify.com/track/69IcY4RMhhYtxDv6JTP66k) | [Ethan Sherman](https://open.spotify.com/artist/4A9CvXWfWvRnIoLhOMRxse), [Thomas Cassell](https://open.spotify.com/artist/7g2xzGFWspvuNWyd7Raepa), [Matthew Davis](https://open.spotify.com/artist/1GM51GqX3LgTP0uHq6Od26), [Avery Merritt](https://open.spotify.com/artist/4VQPvJjZ1eeFtIXSDNb4Ku), [Tim McNalley](https://open.spotify.com/artist/4Ia7vccNwNdMBDyBNAajLD) | [Cup & Porch](https://open.spotify.com/album/789jVdxAQoRSbUG29YCr2A) | 3:38 | 2022-01-21 | 2022-11-01 |
@@ -107,6 +107,7 @@
 | [Foggy Mountain Chimes](https://open.spotify.com/track/1g5DnrFCr1Qc4aqAT4JdaE) | [The Bluegrass Album Band](https://open.spotify.com/artist/0n0pcmxYdOHk1fl5gvWGiU) | [The Bluegrass Album, Vol\. 6: Bluegrass Instrumentals](https://open.spotify.com/album/6n0tC8JJxY5xK3ewJf07ZD) | 2:52 | 2021-12-03 | 2022-07-17 |
 | [From Sea To Sky](https://open.spotify.com/track/0p1v3xx5pzRiUKUersdDtR) | [Jake Soffer](https://open.spotify.com/artist/7JV0AfdtfA325ka6q3pRsX) | [From Sea To Sky](https://open.spotify.com/album/1xbIYXMSBnzghgRlDeVzkp) | 2:39 | 2021-12-03 |  |
 | [Future Man](https://open.spotify.com/track/0wCxFPw156RcqRyZeo96NB) | [Strength In Numbers](https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ) | [Telluride Sessions](https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM) | 5:09 | 2021-12-03 | 2022-07-23 |
+| [Get Lost](https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF) | [Wyatt Ellis](https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB), [Jake Workman](https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx) | [Get Lost](https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM) | 4:27 | 2024-01-26 |  |
 | [Going Out…](https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Celebrants](https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq) | 3:04 | 2023-03-24 |  |
 | [Golden](https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8) | [Ethan Setiawan](https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn) | [Golden](https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv) | 6:12 | 2023-04-07 |  |
 | [Golden Pond](https://open.spotify.com/track/2T0FSlZIf2IYtbH1y2DEvJ) | [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Stealing Second](https://open.spotify.com/album/63sHuqQ8uMSC6BTuOIp39I) | 3:12 | 2021-12-03 |  |

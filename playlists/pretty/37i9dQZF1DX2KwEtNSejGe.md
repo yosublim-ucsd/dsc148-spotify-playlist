@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KwEtNSejGe.md) - [plain]
 
 > songs you can't help but scream along to
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,601 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,546 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KwEtNSejGe.md) - [plain]
 | 99 | [How We Do \(Party\)](https://open.spotify.com/track/5zBDg6Pp5LFyhaSCqm3p5d) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [ORA](https://open.spotify.com/album/3wVudWLcF1D7jK5kTj6hlA) | 4:07 |
 | 100 | [All About Tonight](https://open.spotify.com/track/1Fx9aiORwv0cx5mFEBasHo) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:06 |
 
-Snapshot ID: `MCxkOTU5NTQ0ZDhlMjY3MmQ4YmMzNTU0ZjQzYzE2MWZkM2IwOTRkZTE1`
+Snapshot ID: `MCxhZDI2MTE2ZWVlOTA2NzdlZGViZGJlMjk4YTc2OTUyZmI5ZmIzZjBk`

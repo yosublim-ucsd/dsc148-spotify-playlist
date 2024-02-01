@@ -1,12 +1,12 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1187334,
+  "num_followers": 1187033,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWM1MDNlYTZhYzM2ZjZhMzc4NDRlY2ZjNTg1ZDhlNTM1YzViMTAz",
+  "snapshot_id": "MCwzZmZlZmIyODc5OGE1NDkzMWM5M2I3OWY0YTJlOWI1NTk5YTM3YzZj",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Woodgate, NY",
         "url": "https://open.spotify.com/album/4HCiNoFBb2vFvySaSW2JBs"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 214335,
       "name": "From Gold",
       "url": "https://open.spotify.com/track/3ePd4K8tcdfr7KmbuOTrKK"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Lonelier Together",
-        "url": "https://open.spotify.com/album/3DpUSzJn3TcSDBGyTHxnoW"
-      },
-      "artists": [
-        {
-          "name": "Paper Planes",
-          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
-        }
-      ],
-      "duration_ms": 105300,
-      "name": "Lonelier Together",
-      "url": "https://open.spotify.com/track/3fAWcqhon7NaKQc7f7bl4V"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Colder Heavens - EP",
         "url": "https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 273893,
       "name": "Colder Heavens",
       "url": "https://open.spotify.com/track/6Z2pu5Gq0uWJoaYWeWbQpX"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Lonelier Together",
+        "url": "https://open.spotify.com/album/3DpUSzJn3TcSDBGyTHxnoW"
+      },
+      "artists": [
+        {
+          "name": "Paper Planes",
+          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
+        }
+      ],
+      "duration_ms": 105300,
+      "name": "Lonelier Together",
+      "url": "https://open.spotify.com/track/3fAWcqhon7NaKQc7f7bl4V"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 307172,
-      "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 189506,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 307172,
+      "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Dead Leaves",
-        "url": "https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ"
-      },
-      "artists": [
-        {
-          "name": "Luis Trindade",
-          "url": "https://open.spotify.com/artist/2g84j7g5nypsaX8wm1BgMk"
-        }
-      ],
-      "duration_ms": 187036,
-      "name": "Old Town",
-      "url": "https://open.spotify.com/track/62wUcF268nKH9HcMaY247d"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Loving Everywhere I Go",
         "url": "https://open.spotify.com/album/2ZCIrBYU8EDHgySjPO5O7c"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 282521,
       "name": "Old Soul (acoustic)",
       "url": "https://open.spotify.com/track/6qPdMSH6y9b7khSM3oQJLB"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Dead Leaves",
+        "url": "https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ"
+      },
+      "artists": [
+        {
+          "name": "Luis Trindade",
+          "url": "https://open.spotify.com/artist/2g84j7g5nypsaX8wm1BgMk"
+        }
+      ],
+      "duration_ms": 187036,
+      "name": "Old Town",
+      "url": "https://open.spotify.com/track/62wUcF268nKH9HcMaY247d"
     },
     {
       "added_at": "2023-10-27 04:00:00",

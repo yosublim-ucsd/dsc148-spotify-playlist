@@ -4,7 +4,7 @@
 
 > new gems by artists carving their own lane\. cover: Moonshine
 
-1,075 songs - 2 day 11 hr 3 min
+1,076 songs - 2 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -876,7 +876,8 @@
 | [Star Swing](https://open.spotify.com/track/5jbuRwBHBOgbAYOwL2V1Ib) | [Astrocolor](https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD) | [Star Swing](https://open.spotify.com/album/6akt3uS0ITQwGtYITcSQ7Q) | 3:35 | 2023-01-20 | 2023-03-05 |
 | [Stay Blessed](https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Stay Blessed](https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5) | 2:57 | 2023-08-18 | 2024-01-27 |
 | [Stay With Me](https://open.spotify.com/track/0d4u84lrM6TxT7jv3Z8PEk) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Stay With Me](https://open.spotify.com/album/5IPdAqVvH4FPji2tEw9gu0) | 2:31 | 2022-10-28 | 2022-12-03 |
-| [Staying here](https://open.spotify.com/track/0P2ag2qoPv05wKjJrncp2v) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Staying here](https://open.spotify.com/album/4DDUVn5H8hF2uf070myTWS) | 2:27 | 2024-01-19 |  |
+| [Staying here](https://open.spotify.com/track/0P2ag2qoPv05wKjJrncp2v) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Staying here](https://open.spotify.com/album/4DDUVn5H8hF2uf070myTWS) | 2:27 | 2024-01-19 | 2024-02-01 |
+| [Staying here](https://open.spotify.com/track/4gdM3XzcjeJQZPpMvuf9VF) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Great Doubt](https://open.spotify.com/album/0X5xnCnMafZT1sRIHnzAwP) | 2:27 | 2024-01-26 |  |
 | [STEPMOM](https://open.spotify.com/track/7DTuaFl2xYmGUgBKLXiOg5) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [STEPMOM](https://open.spotify.com/album/1qanV3YgwzGcpQxAfAaTrZ) | 3:04 | 2022-07-29 | 2022-11-19 |
 | [Sticky \(feat\. Childish Gambino & KIRBY\)](https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs) | [Ni'jah](https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Swarm](https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX) | 2:51 | 2023-03-17 | 2023-05-27 |
 | [Still Not a Playa](https://open.spotify.com/track/0kTwzUwyXHngN2VIahINF8) | [Luu Breeze](https://open.spotify.com/artist/5B3Lma67FBdWs1R8m3BKUP) | [Still Not a Playa](https://open.spotify.com/album/7jsd5RS2LEKjhX4Ur7qAum) | 3:04 | 2022-05-27 | 2022-06-25 |

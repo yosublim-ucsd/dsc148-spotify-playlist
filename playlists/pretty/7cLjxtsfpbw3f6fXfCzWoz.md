@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7cLjxtsfpbw3f6fXfCzWoz.md) - [plain]
 
 > For the bisexuals.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 33 songs - 1 hr 55 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 35 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,5 +41,7 @@ pretty - [cumulative](/playlists/cumulative/7cLjxtsfpbw3f6fXfCzWoz.md) - [plain]
 | 31 | [Distance](https://open.spotify.com/track/5TQ6MARpfdGi3lToty2TH6) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Knife Man](https://open.spotify.com/album/131vOQexOX9KXcOvcK4vM9) | 2:33 |
 | 32 | [So Serious](https://open.spotify.com/track/2jo3bwXAGhVPL1Uh3dBWiB) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [ELO 50th Anniversary Vol\. 2](https://open.spotify.com/album/6U9L0ZDsCgNFTW7H7NPizN) | 2:41 |
 | 33 | [Last Train to London](https://open.spotify.com/track/7kE0JjBurV144cuDOb55aB) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [ELO 50th Anniversary Vol\. 2](https://open.spotify.com/album/6U9L0ZDsCgNFTW7H7NPizN) | 4:29 |
+| 34 | [Dangerous](https://open.spotify.com/track/2b7hOtMdYJ7QvL6Vd3sk4a) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [1.0](https://open.spotify.com/album/20EPvfI2oySEeAmW0IiEaq) | 4:40 |
+| 35 | [Big Dater \- 1.0 Version](https://open.spotify.com/track/3yAmfnsYSB8dvTJs2aZti6) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa) | [1.0](https://open.spotify.com/album/20EPvfI2oySEeAmW0IiEaq) | 4:26 |
 
-Snapshot ID: `MzcsM2ViNWIzMmEwYjA4NGVjYzIwOWQ3YWQ3OGU4YzJiZjM5OGRmMzhmYw==`
+Snapshot ID: `MzksMTg0ZDVjNGI1YjNkYWQwOTE0MjMzOTQ4NjkwNTY2YzI1Y2IxOWI2Ng==`

@@ -1,12 +1,12 @@
 {
   "description": "New music from popular Hindi artists. Cover- Lisa Mishra",
-  "num_followers": 48740,
+  "num_followers": 48785,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGYwYzEwMzcxNDU0ZGRiZjJmZDY5M2YxM2Q1MjA5MmM4NDQ1M2I1",
+  "snapshot_id": "MCw2YzJhNDFiYjhiMjBkZTRkOGFmNGVmYzBkM2FhN2I1MWVlNjhiZTMx",
   "tracks": [
     {
       "added_at": "2024-01-26 08:45:00",
@@ -390,6 +390,10 @@
         {
           "name": "Rubai",
           "url": "https://open.spotify.com/artist/6tBTqKtxRUei3EWE8sl10r"
+        },
+        {
+          "name": "Sanjeev Chaturvedi",
+          "url": "https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA"
         }
       ],
       "duration_ms": 205945,

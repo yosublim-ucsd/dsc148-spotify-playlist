@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 132205,
+  "num_followers": 132211,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjgwMzk5MWY2MjMzNzY0YTQyYmMyNGVlY2Y2ZWYzYmZmYWFiMDE5",
+  "snapshot_id": "MCwzOTNmY2ZlNzE5N2E2NjVjNjc0YjIyZmEzM2ViNzdjMWM5MDZhNTc1",
   "tracks": [
     {
       "added_at": "2023-08-14 14:58:41",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Italian Classics: Pino D'Angi\u00f2 Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp"
-      },
-      "artists": [
-        {
-          "name": "Pino D'Angi\u00f2",
-          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
-        }
-      ],
-      "duration_ms": 258399,
-      "name": "Okay Okay",
-      "url": "https://open.spotify.com/track/6W0PqAtbW7fkTRBtmwOwfM"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 255826,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Italian Classics: Pino D'Angi\u00f2 Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp"
+      },
+      "artists": [
+        {
+          "name": "Pino D'Angi\u00f2",
+          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Okay Okay",
+      "url": "https://open.spotify.com/track/6W0PqAtbW7fkTRBtmwOwfM"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 367362,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Profite (Remixes)",
         "url": "https://open.spotify.com/album/0r4TXEu7Lhl09VNfxThdC6"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 198688,
       "name": "Profite - Kazy Lambist Remix",
       "url": "https://open.spotify.com/track/7fbdTbr12vcmJhWgp58dvO"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 367362,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -779,18 +779,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Cabrioli",
-        "url": "https://open.spotify.com/album/4FoTTiKaTZXbweALMqZoBK"
+        "name": "Remix Crusades (2007-2013)",
+        "url": "https://open.spotify.com/album/3ebvYDbbG9vfNFpyPlCf1A"
       },
       "artists": [
         {
-          "name": "Moussa",
-          "url": "https://open.spotify.com/artist/5szBKM0Zc5bKmQvkiO1NDS"
+          "name": "Kasper Bj\u00f8rke",
+          "url": "https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp"
+        },
+        {
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
         }
       ],
-      "duration_ms": 152631,
-      "name": "Cabrioli",
-      "url": "https://open.spotify.com/track/1wQdNXLp8XhQ0p0uG5ZRDD"
+      "duration_ms": 317066,
+      "name": "Heaven - Nicolas Jaar Remix",
+      "url": "https://open.spotify.com/track/4WXIcBXdNAvsFKSMMqettI"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -811,22 +815,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Remix Crusades (2007-2013)",
-        "url": "https://open.spotify.com/album/3ebvYDbbG9vfNFpyPlCf1A"
+        "name": "Cabrioli",
+        "url": "https://open.spotify.com/album/4FoTTiKaTZXbweALMqZoBK"
       },
       "artists": [
         {
-          "name": "Kasper Bj\u00f8rke",
-          "url": "https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp"
-        },
-        {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+          "name": "Moussa",
+          "url": "https://open.spotify.com/artist/5szBKM0Zc5bKmQvkiO1NDS"
         }
       ],
-      "duration_ms": 317066,
-      "name": "Heaven - Nicolas Jaar Remix",
-      "url": "https://open.spotify.com/track/4WXIcBXdNAvsFKSMMqettI"
+      "duration_ms": 152631,
+      "name": "Cabrioli",
+      "url": "https://open.spotify.com/track/1wQdNXLp8XhQ0p0uG5ZRDD"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Illumination (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6xPginu4nk1mvQAAjRDPWE"
-      },
-      "artists": [
-        {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        }
-      ],
-      "duration_ms": 303406,
-      "name": "Emagination - B-Side",
-      "url": "https://open.spotify.com/track/5GsJF8HZsWlcLEkjEzVzLX"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Akousmatikous",
         "url": "https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD"
       },
@@ -971,6 +955,38 @@
       "duration_ms": 152691,
       "name": "Propaganda",
       "url": "https://open.spotify.com/track/5h2Ixexi6IEhlogUtfzD5P"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Illumination (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6xPginu4nk1mvQAAjRDPWE"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        }
+      ],
+      "duration_ms": 303406,
+      "name": "Emagination - B-Side",
+      "url": "https://open.spotify.com/track/5GsJF8HZsWlcLEkjEzVzLX"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "All Access",
+        "url": "https://open.spotify.com/album/2yghC1izlXbRMLXAvuZnPg"
+      },
+      "artists": [
+        {
+          "name": "Ben Eggs",
+          "url": "https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd"
+        }
+      ],
+      "duration_ms": 186888,
+      "name": "All Access",
+      "url": "https://open.spotify.com/track/47lv0fs01NLcygKcnD9PFX"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "All Access",
-        "url": "https://open.spotify.com/album/2yghC1izlXbRMLXAvuZnPg"
+        "name": "Moment EP",
+        "url": "https://open.spotify.com/album/13ANf72KYKBlFSwGgiC1Y1"
       },
       "artists": [
         {
-          "name": "Ben Eggs",
-          "url": "https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd"
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 186888,
-      "name": "All Access",
-      "url": "https://open.spotify.com/track/47lv0fs01NLcygKcnD9PFX"
+      "duration_ms": 401695,
+      "name": "Han Pan",
+      "url": "https://open.spotify.com/track/3KAMgcLxqce9PRkwzbYkHa"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1095,22 +1111,6 @@
       "duration_ms": 205948,
       "name": "Restless",
       "url": "https://open.spotify.com/track/4IFRlX2QFsEYC3mxrZECUd"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Moment EP",
-        "url": "https://open.spotify.com/album/13ANf72KYKBlFSwGgiC1Y1"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 401695,
-      "name": "Han Pan",
-      "url": "https://open.spotify.com/track/3KAMgcLxqce9PRkwzbYkHa"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "DJ-Kicks EP",
-        "url": "https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 275533,
-      "name": "Hungboo - DJ-Kicks",
-      "url": "https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Laberinto (Bosq Remix)",
         "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
       },
@@ -1235,6 +1219,38 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Chronologic",
+        "url": "https://open.spotify.com/album/3YtyKfYxHzyzYhw4yoQ6Hw"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "duration_ms": 216213,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/3Pjj0X0F6TVP6RaQTRX8rR"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "DJ-Kicks EP",
+        "url": "https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 275533,
+      "name": "Hungboo - DJ-Kicks",
+      "url": "https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Burnt Orange",
         "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
       },
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Chronologic",
-        "url": "https://open.spotify.com/album/3YtyKfYxHzyzYhw4yoQ6Hw"
+        "name": "Power of Two / Echo Arms",
+        "url": "https://open.spotify.com/album/0u8kiGzYokhOupZ5AXXdJN"
       },
       "artists": [
         {
-          "name": "Caravan Palace",
-          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+          "name": "Mr Twin Sister",
+          "url": "https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz"
         }
       ],
-      "duration_ms": 216213,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/3Pjj0X0F6TVP6RaQTRX8rR"
+      "duration_ms": 267604,
+      "name": "Echo Arms",
+      "url": "https://open.spotify.com/track/44SXQFU3DfXDTm60NXyN9x"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1303,22 +1319,6 @@
       "duration_ms": 262019,
       "name": "Beige 70 - Domenique Dumont Bilingual Remix",
       "url": "https://open.spotify.com/track/1mslMFJL31XTXZG92ip11I"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Power of Two / Echo Arms",
-        "url": "https://open.spotify.com/album/0u8kiGzYokhOupZ5AXXdJN"
-      },
-      "artists": [
-        {
-          "name": "Mr Twin Sister",
-          "url": "https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz"
-        }
-      ],
-      "duration_ms": 267604,
-      "name": "Echo Arms",
-      "url": "https://open.spotify.com/track/44SXQFU3DfXDTm60NXyN9x"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "\u00c7a fait 2x plus de bien",
-        "url": "https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE"
-      },
-      "artists": [
-        {
-          "name": "Antonin",
-          "url": "https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC"
-        },
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "\u00c7a fait du bien - Polo & Pan Remix",
-      "url": "https://open.spotify.com/track/4UPNrU3SCxNxa4qXcM3oOs"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Lindstrom & Prins Thomas",
         "url": "https://open.spotify.com/album/0wjx77A92ow66hxXmwapcM"
       },
@@ -1443,22 +1423,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "We Love Dogs!",
-        "url": "https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7"
+        "name": "\u00c7a fait 2x plus de bien",
+        "url": "https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE"
       },
       "artists": [
         {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Antonin",
+          "url": "https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC"
         },
         {
           "name": "Polo & Pan",
           "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
         }
       ],
-      "duration_ms": 236082,
-      "name": "Hello Hello Hello - Polo & Pan Remix",
-      "url": "https://open.spotify.com/track/4L42hh6L8tpg1KPVwGkUja"
+      "duration_ms": 181106,
+      "name": "\u00c7a fait du bien - Polo & Pan Remix",
+      "url": "https://open.spotify.com/track/4UPNrU3SCxNxa4qXcM3oOs"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1475,6 +1455,26 @@
       "duration_ms": 171775,
       "name": "I Wanna Know What Love Is",
       "url": "https://open.spotify.com/track/1oG64RG7TgBHV3jxo0xenp"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "We Love Dogs!",
+        "url": "https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        },
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 236082,
+      "name": "Hello Hello Hello - Polo & Pan Remix",
+      "url": "https://open.spotify.com/track/4L42hh6L8tpg1KPVwGkUja"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Kitsun\u00e9 Parisien 4",
-        "url": "https://open.spotify.com/album/7nISG7pGcQAY46v9GiEfjT"
-      },
-      "artists": [
-        {
-          "name": "MonteRosso",
-          "url": "https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1"
-        }
-      ],
-      "duration_ms": 213864,
-      "name": "Huacachina",
-      "url": "https://open.spotify.com/track/4ZZ592cEhEAwwcqlix5fQO"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Hustler's Lullaby",
         "url": "https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 314181,
       "name": "Shinjuku Strut",
       "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Kitsun\u00e9 Parisien 4",
+        "url": "https://open.spotify.com/album/7nISG7pGcQAY46v9GiEfjT"
+      },
+      "artists": [
+        {
+          "name": "MonteRosso",
+          "url": "https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1"
+        }
+      ],
+      "duration_ms": 213864,
+      "name": "Huacachina",
+      "url": "https://open.spotify.com/track/4ZZ592cEhEAwwcqlix5fQO"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Mopedbart",
-        "url": "https://open.spotify.com/album/1fFDgy6E12ZwqgIa8tgtQh"
-      },
-      "artists": [
-        {
-          "name": "Hubbabubbaklubb",
-          "url": "https://open.spotify.com/artist/7HgA0wYq2OBe9ac7awv1Jq"
-        }
-      ],
-      "duration_ms": 312200,
-      "name": "Mopedbart",
-      "url": "https://open.spotify.com/track/4jnguj9VPJuGRfFJyAKUZS"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/0cvFQyuT54tOUaVJVSTB5y"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 261224,
       "name": "How Long",
       "url": "https://open.spotify.com/track/1uOtAQ7g9zVKf8vh0dcO4d"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Mopedbart",
+        "url": "https://open.spotify.com/album/1fFDgy6E12ZwqgIa8tgtQh"
+      },
+      "artists": [
+        {
+          "name": "Hubbabubbaklubb",
+          "url": "https://open.spotify.com/artist/7HgA0wYq2OBe9ac7awv1Jq"
+        }
+      ],
+      "duration_ms": 312200,
+      "name": "Mopedbart",
+      "url": "https://open.spotify.com/track/4jnguj9VPJuGRfFJyAKUZS"
     },
     {
       "added_at": "2023-08-14 14:58:41",

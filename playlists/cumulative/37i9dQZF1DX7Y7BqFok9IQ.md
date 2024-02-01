@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Rival Sons
 
-265 songs - 16 hr 45 min
+266 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Black Speakers](https://open.spotify.com/track/33ybiYIMl7PwGLZz0bETGy) | [Datura4](https://open.spotify.com/artist/3mA3sO1zseVtFQ56oqlJYk) | [Black Speakers](https://open.spotify.com/album/3qFMig0PZVFxzrh9z6M8hm) | 4:24 | 2022-08-26 | 2023-04-30 |
 | [Blinded](https://open.spotify.com/track/027LnYtc3AvNAtEPVljiRB) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [Blinded](https://open.spotify.com/album/5UR9aMOqwtsE6usHfRxMsW) | 2:50 | 2021-10-08 | 2022-07-27 |
 | [Blue Sky](https://open.spotify.com/track/0hYTpOC7TJOZXbwB6ICKw3) | [Aranda](https://open.spotify.com/artist/6l0DPGloCYFvs6dM7Y8Wmw) | [Blue Sky](https://open.spotify.com/album/2KUwhFMUmvRLG1muibvI4r) | 3:31 | 2021-10-22 |  |
-| [Bomb Through the Breeze](https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 2:44 | 2020-10-16 |  |
+| [Bomb Through the Breeze](https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 2:44 | 2020-10-16 | 2024-02-01 |
+| [Bomb Through The Breeze](https://open.spotify.com/track/7gLgvdBxycylxnP9iwdvuD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund and the Steppin Stones](https://open.spotify.com/album/6kP0lrd4sA5I698Z6Z5ug1) | 2:44 | 2020-10-16 |  |
 | [Boom Boom Boom](https://open.spotify.com/track/0ATlimBBLb05G6wiPOGwaw) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Chasing Lights](https://open.spotify.com/album/2r4tgvfY6ypsADN4Ptu5Fw) | 3:10 | 2020-10-16 | 2022-07-28 |
 | [Bright Lights](https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu \(Deluxe Edition\)](https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv) | 5:24 | 2022-10-28 | 2023-03-04 |
 | [Broken Bones](https://open.spotify.com/track/2ZTXDpAna2oX7SmxctOjmi) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Broken Bones](https://open.spotify.com/album/7Bo93WOR189AwOAt6RUvAD) | 3:25 | 2023-06-30 |  |

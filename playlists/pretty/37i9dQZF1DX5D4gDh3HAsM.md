@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,708 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,584 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 12 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1jNPo7xE3lf5kEamRmQemB) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/5b8kLtDCLWYKyJFemtmu73) | 3:45 |
 | 13 | [The Little Things](https://open.spotify.com/track/5iSVLB0MDNoeXXfi5hs9T8) | [Jeremy Lister](https://open.spotify.com/artist/5ChUwGNEwjVk3L7Wa7nmvJ) | [Happy Holidays, Everyone](https://open.spotify.com/album/1zBD9yzF3OzQExEKxMeuOh) | 3:43 |
 | 14 | [Skating \(From "A Charlie Brown Christmas"\)](https://open.spotify.com/track/5KWaPLKMq7KIeuBwCw6WUu) | [Luke Pickman](https://open.spotify.com/artist/2eRZreWzshEqtyBvlqmE93), [Moisés Nieto](https://open.spotify.com/artist/6i5jeqNyrzyfDwIiAfNdyF) | [Skating \(From "A Charlie Brown Christmas"\)](https://open.spotify.com/album/3mVdS138yyCiejNGfKiuuY) | 2:47 |
-| 15 | [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 |
+| 15 | [The Christmas Waltz](https://open.spotify.com/track/4eEdv0ZBTtWh8zS41SeUp8) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:47 |
 | 16 | [Let It Snow! \- 10th Anniversary](https://open.spotify.com/track/5YBmVtkeoRdxU1GhRDrxuz) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Let It Snow! \(10th Anniversary\)](https://open.spotify.com/album/17Qr6J860gp3HrESuJ5D2M) | 2:39 |
 | 17 | [God Rest Ye Merry Gentlemen \(Spotify Singles Holiday\)](https://open.spotify.com/track/5U1edKpf8zZ04KtkvBOvbu) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [God Rest Ye Merry Gentlemen \(Spotify Singles Holiday\)](https://open.spotify.com/album/6gwykwTqf7AToBqlTgYSbJ) | 3:35 |
 | 18 | [Warm In December \- Edit](https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Warm In December \(Edit\)](https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 99 | [O Little Town Of Bethlehem](https://open.spotify.com/track/7lFGTWPpGaBMxX8vjHLmLT) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/4lkW34BvnZk0RBZLlvDddC) | 3:16 |
 | 100 | [Mistletoe And Holly \- Remastered 1999](https://open.spotify.com/track/7faDzZnZYqTyYThx2sbHVQ) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:16 |
 
-Snapshot ID: `MCxjMzA0YzFkNjdjNWM4NTc1MTQwYTAzYmYzMjQ3ZWVkOGQ2MWRjNjJi`
+Snapshot ID: `MCw3ZWY3ZTMxNTNjZmU1OGI3ZWE2Zjc3ZmNhMjllM2U3YThhMTc2YTBj`

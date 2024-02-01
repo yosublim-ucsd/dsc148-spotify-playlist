@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ePRxHPWPfx.md) - [plain]
 
 > Warm tunes to get you in the snuggle spirit, la fogata y el chocolate caliente son opcionales.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,587 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,593 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ePRxHPWPfx.md) - [plain]
 | 44 | [WCID?](https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX) | [SUPERNOVA](https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117) | 3:23 |
 | 45 | [Chilango Blues](https://open.spotify.com/track/15GJ5u94ls3eciXNh6YDER) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Chilango Blues](https://open.spotify.com/album/1XqryMmgsJxFIfUHu8E2VQ) | 3:47 |
 | 46 | [Los mismos](https://open.spotify.com/track/6LnWzTjHrsrv57lVATmnZR) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Los mismos](https://open.spotify.com/album/5FOyz0vBUeOoj49M9loFTg) | 2:54 |
-| 47 | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/track/6mYn2tAQD0LmwqplaMbXhg) | [Voz Veis](https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw), [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Todos A Belen](https://open.spotify.com/album/54YLqTx1NcuQUkVARYdIBQ) | 3:41 |
-| 48 | [La Luna y Tú](https://open.spotify.com/track/4hHvdHXszAHLPrisD96BDq) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Canciones Chiquitas](https://open.spotify.com/album/2E2800vbcd00dx5rVBGsw0) | 1:12 |
+| 47 | [La Luna y Tú](https://open.spotify.com/track/4hHvdHXszAHLPrisD96BDq) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Canciones Chiquitas](https://open.spotify.com/album/2E2800vbcd00dx5rVBGsw0) | 1:12 |
+| 48 | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/track/6mYn2tAQD0LmwqplaMbXhg) | [Voz Veis](https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw), [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Todos A Belen](https://open.spotify.com/album/54YLqTx1NcuQUkVARYdIBQ) | 3:41 |
 | 49 | [Tu Canción](https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Tu Canción](https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2) | 3:11 |
 | 50 | [Blanco y Negro](https://open.spotify.com/track/7M8i0g4Ls8w3JCOwTChnkD) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [los mejores años](https://open.spotify.com/album/5sQ55TNYqcvtk4VMpx91Kl) | 3:41 |
 
-Snapshot ID: `MCwxZTc0MjI1YjQ0OTY3ZDcwZDQyMDBiZjQxM2I0YTM5NzgxZWRhZWU1`
+Snapshot ID: `MCw4ZTdmNjEzOTJiM2Q5YjliOThlNTYyYWU2OWFjMGRmY2E0YjNiZDA2`

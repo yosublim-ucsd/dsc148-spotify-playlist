@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 187166,
+  "num_followers": 187214,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODllZGRhMzE4ODEzYWM0NzdiYzAxM2FlOGNkMWE2M2E2Y2Q0Mjdm",
+  "snapshot_id": "MCwyM2UwOWZkOTcxMWVmYjhmYjQxNzA5NTU3NGZkNTg3N2RmODdlZDA2",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Mercedes Sosa En Argentina (En Directo)",
-        "url": "https://open.spotify.com/album/799FvskSrVFc7ZHv8fYfMC"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 161026,
-      "name": "Como La Cigarra - En Directo",
-      "url": "https://open.spotify.com/track/17QskQeUQ8Pskjgv5tThIw"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Salvavidas de hielo",
         "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
@@ -507,54 +491,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Desenchufado",
-        "url": "https://open.spotify.com/album/3W3DmtCc6eaMAliyd4PmTI"
+        "name": "Mercedes Sosa En Argentina (En Directo)",
+        "url": "https://open.spotify.com/album/799FvskSrVFc7ZHv8fYfMC"
       },
       "artists": [
         {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
         }
       ],
-      "duration_ms": 248466,
-      "name": "S\u00f3lo Le Pido A Dios",
-      "url": "https://open.spotify.com/track/5XxFB1oX6QvX5hrWESHIa5"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Casa Babylon",
-        "url": "https://open.spotify.com/album/0DzXs04hKcMYg7D2JSLptk"
-      },
-      "artists": [
-        {
-          "name": "Mano Negra",
-          "url": "https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2"
-        }
-      ],
-      "duration_ms": 237640,
-      "name": "Senor Matanza",
-      "url": "https://open.spotify.com/track/2uR6DAqwZCfDeD6jFrD5zA"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Escribo Rap Con R De Revolucion",
-        "url": "https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7"
-      },
-      "artists": [
-        {
-          "name": "Portavoz",
-          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
-        },
-        {
-          "name": "Cidtronyck",
-          "url": "https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS"
-        }
-      ],
-      "duration_ms": 257181,
-      "name": "Escribo Rap Con R De Revolucio\u0301n",
-      "url": "https://open.spotify.com/track/6vmrsiaeNq7LpiGdvB2bJT"
+      "duration_ms": 161026,
+      "name": "Como La Cigarra - En Directo",
+      "url": "https://open.spotify.com/track/17QskQeUQ8Pskjgv5tThIw"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -579,6 +527,58 @@
       "duration_ms": 376451,
       "name": "La Rebelion",
       "url": "https://open.spotify.com/track/6gecMuiiRAhutKqrYc9WDq"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Desenchufado",
+        "url": "https://open.spotify.com/album/3W3DmtCc6eaMAliyd4PmTI"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "duration_ms": 248466,
+      "name": "S\u00f3lo Le Pido A Dios",
+      "url": "https://open.spotify.com/track/5XxFB1oX6QvX5hrWESHIa5"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Escribo Rap Con R De Revolucion",
+        "url": "https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7"
+      },
+      "artists": [
+        {
+          "name": "Portavoz",
+          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
+        },
+        {
+          "name": "Cidtronyck",
+          "url": "https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS"
+        }
+      ],
+      "duration_ms": 257181,
+      "name": "Escribo Rap Con R De Revolucio\u0301n",
+      "url": "https://open.spotify.com/track/6vmrsiaeNq7LpiGdvB2bJT"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Casa Babylon",
+        "url": "https://open.spotify.com/album/0DzXs04hKcMYg7D2JSLptk"
+      },
+      "artists": [
+        {
+          "name": "Mano Negra",
+          "url": "https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2"
+        }
+      ],
+      "duration_ms": 237640,
+      "name": "Senor Matanza",
+      "url": "https://open.spotify.com/track/2uR6DAqwZCfDeD6jFrD5zA"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Viva Italia",
-        "url": "https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb"
-      },
-      "artists": [
-        {
-          "name": "Inti-Illimani",
-          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido",
-      "url": "https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Antolog\u00eda del Canto Nuevo Vol. 2",
         "url": "https://open.spotify.com/album/6ABGUSzgpN1gX8vIW4abGu"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 147520,
       "name": "Para Que Nunca Mas",
       "url": "https://open.spotify.com/track/3hucW9oJIdJkxjaNxAc6wd"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Viva Italia",
+        "url": "https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb"
+      },
+      "artists": [
+        {
+          "name": "Inti-Illimani",
+          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido",
+      "url": "https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Funkybar\u00edtico Hed\u00f3nico Fant\u00e1stico",
-        "url": "https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL"
-      },
-      "artists": [
-        {
-          "name": "Chancho En Piedra",
-          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
-        }
-      ],
-      "duration_ms": 240716,
-      "name": "El Mundo Que Nos Toc\u00f3 Vivir",
-      "url": "https://open.spotify.com/track/1KEi9GBOe3bXTj1WGM282v"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Ej\u00e9rcito de Paz",
         "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 225053,
       "name": "Abajo y a la Izquierda",
       "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Funkybar\u00edtico Hed\u00f3nico Fant\u00e1stico",
+        "url": "https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL"
+      },
+      "artists": [
+        {
+          "name": "Chancho En Piedra",
+          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
+        }
+      ],
+      "duration_ms": 240716,
+      "name": "El Mundo Que Nos Toc\u00f3 Vivir",
+      "url": "https://open.spotify.com/track/1KEi9GBOe3bXTj1WGM282v"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Buscando Chilenos Vol. 1",
-        "url": "https://open.spotify.com/album/7uuF0krsc2ZPkKyc1q26ax"
-      },
-      "artists": [
-        {
-          "name": "Sexual Democracia",
-          "url": "https://open.spotify.com/artist/3m2dBZiLPZUffYga9ocES7"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Cancion Pacifico-Violenta",
-      "url": "https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Mujeres",
         "url": "https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 215579,
       "name": "Mujeres",
       "url": "https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Buscando Chilenos Vol. 1",
+        "url": "https://open.spotify.com/album/7uuF0krsc2ZPkKyc1q26ax"
+      },
+      "artists": [
+        {
+          "name": "Sexual Democracia",
+          "url": "https://open.spotify.com/artist/3m2dBZiLPZUffYga9ocES7"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Cancion Pacifico-Violenta",
+      "url": "https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Abrazo",
+        "url": "https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 242306,
+      "name": "Se Me Ocurre",
+      "url": "https://open.spotify.com/track/2D153hv0xak4aPbNqNBq89"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "La Venganza de los Brujos",
         "url": "https://open.spotify.com/album/2dujTRtUMm8HuUWfoLfpRK"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 308732,
       "name": "Prende la Mecha",
       "url": "https://open.spotify.com/track/1iMVWpvtyXZArqtWA6osQ8"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Abrazo",
-        "url": "https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "Se Me Ocurre",
-      "url": "https://open.spotify.com/track/2D153hv0xak4aPbNqNBq89"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Souvenir (Deluxe)",
-        "url": "https://open.spotify.com/album/2J73BmU7DnY2iCCXzrRls8"
-      },
-      "artists": [
-        {
-          "name": "LosPetitFellas",
-          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "El Club de la Resistencia",
-      "url": "https://open.spotify.com/track/3TYSlb2zMxnnhPEyhdl3QK"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Abrazo",
         "url": "https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 250706,
       "name": "Si Me Matan",
       "url": "https://open.spotify.com/track/5L9OruCuqnA9PGGh1VkXcm"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Souvenir (Deluxe)",
+        "url": "https://open.spotify.com/album/2J73BmU7DnY2iCCXzrRls8"
+      },
+      "artists": [
+        {
+          "name": "LosPetitFellas",
+          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "El Club de la Resistencia",
+      "url": "https://open.spotify.com/track/3TYSlb2zMxnnhPEyhdl3QK"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Formas para Perderse o I.D.E.A.S",
+        "url": "https://open.spotify.com/album/5hVZa47W1Zil7bIDRgGWjT"
+      },
+      "artists": [
+        {
+          "name": "LosPetitFellas",
+          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
+        }
+      ],
+      "duration_ms": 301560,
+      "name": "Polyrics",
+      "url": "https://open.spotify.com/track/6XKoyd0TlK3i0aS7CEiGVX"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "El Objeto Antes Llamado Disco",
         "url": "https://open.spotify.com/album/2qbDaaW7eJ42FByw7pQkZQ"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 284413,
       "name": "Ellas",
       "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Formas para Perderse o I.D.E.A.S",
-        "url": "https://open.spotify.com/album/5hVZa47W1Zil7bIDRgGWjT"
-      },
-      "artists": [
-        {
-          "name": "LosPetitFellas",
-          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
-        }
-      ],
-      "duration_ms": 301560,
-      "name": "Polyrics",
-      "url": "https://open.spotify.com/track/6XKoyd0TlK3i0aS7CEiGVX"
     },
     {
       "added_at": "2023-10-13 03:00:00",

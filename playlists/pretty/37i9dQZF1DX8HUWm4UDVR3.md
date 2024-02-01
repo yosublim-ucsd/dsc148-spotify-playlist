@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Eddy de Pretto
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,520 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,544 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 49 | [Albert](https://open.spotify.com/track/2cFoPkVgux9RqiqLV23yu2) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Albert](https://open.spotify.com/album/6Acj3MqHBGWSc9BtNgTGyN) | 2:50 |
 | 50 | [Toi et moi](https://open.spotify.com/track/3FaInds8Srk4PVpqCSuH9p) | [Mauvais Œil](https://open.spotify.com/artist/3Y9K5UfReurp9VFJmOcrjj) | [Toi et moi](https://open.spotify.com/album/5ZNrFN5vkaWMdqZK4SAmFq) | 2:55 |
 
-Snapshot ID: `MCxkZTg4NjVjOGJiYzA5MDNiZGJmNWM1NDRmMGQ0OTVhZGY3OGQ1ZTM2`
+Snapshot ID: `MCxmNTYyOWRjYjdlOGVlN2VlNWFlZTI1MzdjNjk1Mjg4NzNjYjkyMTNk`

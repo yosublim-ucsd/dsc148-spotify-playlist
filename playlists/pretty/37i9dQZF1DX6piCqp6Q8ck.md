@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,515 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,500 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 55 | [We Three Kings](https://open.spotify.com/track/6Z2g3GpvZOGBzWIJw4gVNz) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E), [Dan Brubeck](https://open.spotify.com/artist/5oNGGsBfgmOvE1chDG7d7l), [Bill Smith](https://open.spotify.com/artist/4Omy5P9r7PiXYje9h4jMkz), [Jack Six](https://open.spotify.com/artist/1U4WRe8pBbGcOghtCrcstX), [Randy Jones](https://open.spotify.com/artist/4kOaMV5TNik6XpIE0med9d) | [Hot Jazz for a Cool Night: a Jazz Christmas](https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS) | 3:00 |
 | 56 | [Dig That Crazy Santa Claus](https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k) | [Ralph Marterie](https://open.spotify.com/artist/6RMVDGTwRURNgXI8gjgi38), [Ralph Marterie and His Orchestra](https://open.spotify.com/artist/44LkEyiTIZeDfX8ZPbtZfg) | [Merry Christmas](https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx) | 2:32 |
 | 57 | [Mele Kalikimaka](https://open.spotify.com/track/0UqkDwuC21kH8aBghYK5gd) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Holiday For Swing!](https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4) | 2:33 |
-| 58 | [O Tannenbaum](https://open.spotify.com/track/3CJ2KbL3dQ3UBlcOwvrBw4) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Ida Sand](https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c), [Clas Lassbo](https://open.spotify.com/artist/23eGVdEKiBmGYKEvFVlyzP), [Johan Norberg](https://open.spotify.com/artist/2awA1B7HXmbpuyMEJQkEyr), [Jonas Knutsson](https://open.spotify.com/artist/4epZWwhakogZTfyKbGpvQa) | [Christmas with My Friends VIII](https://open.spotify.com/album/3FozTn1Z7wjqbIz0TUa9aw) | 3:16 |
-| 59 | [Little Saint Nick](https://open.spotify.com/track/3P6tmwGm7rkztBLjgQ6A7F) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Little Saint Nick](https://open.spotify.com/album/2O4ORdButEzDMcODSjzCJw) | 3:35 |
+| 58 | [Little Saint Nick](https://open.spotify.com/track/3P6tmwGm7rkztBLjgQ6A7F) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Little Saint Nick](https://open.spotify.com/album/2O4ORdButEzDMcODSjzCJw) | 3:35 |
+| 59 | [O Tannenbaum](https://open.spotify.com/track/3CJ2KbL3dQ3UBlcOwvrBw4) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Ida Sand](https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c), [Clas Lassbo](https://open.spotify.com/artist/23eGVdEKiBmGYKEvFVlyzP), [Johan Norberg](https://open.spotify.com/artist/2awA1B7HXmbpuyMEJQkEyr), [Jonas Knutsson](https://open.spotify.com/artist/4epZWwhakogZTfyKbGpvQa) | [Christmas with My Friends VIII](https://open.spotify.com/album/3FozTn1Z7wjqbIz0TUa9aw) | 3:16 |
 | 60 | [Little Jack Frost Get Lost \(with Marjorie Hughes\) \- 78rpm Version](https://open.spotify.com/track/2VOdqW6WMnCGeJRQDE4rR1) | [Frankie Carle](https://open.spotify.com/artist/40SRPccslwLmXEIf9hZUJu), [Marjorie Hughes](https://open.spotify.com/artist/0uLyz5wCWsQt9C96NkQhiO) | [A Big Band Christmas](https://open.spotify.com/album/10jafPwL637Df1uCD6Hxkt) | 2:43 |
 | 61 | [Jingle Bell Rock](https://open.spotify.com/track/76zNFKrXOPYwHoiYGZ4xmV) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Claudia Zannoni](https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Roberto Bobo Facchinetti](https://open.spotify.com/artist/5s1zZW6PDPTqwtBRXCKAIz) | [My Christmas Night](https://open.spotify.com/album/5D7pny6WmrExJWAjRkF6lo) | 2:55 |
 | 62 | [Carol Of The Bells](https://open.spotify.com/track/5YmJtoST7bbcxCycpyw2yL) | [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [Christmas Time Is Here](https://open.spotify.com/album/2I3uMBceHIZ4NXGM2HMl3Y) | 3:57 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 69 | [The Last Day of the Year](https://open.spotify.com/track/7IDmQ3XLrh6y3oauET1dWp) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Margareta Bengtson](https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 5:05 |
 | 70 | [Christmas Never Gets Old](https://open.spotify.com/track/6o6DStpgZIzSyfpz0tRu8M) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 2:42 |
 
-Snapshot ID: `MCxlYzk2YTc5OTQ0NjMwODdjMThjNzZjOWNmZDcyOWQ4YzIyNDhjOTU3`
+Snapshot ID: `MCxmODU1MDIwZGRhMmNiYzlmNGEyMGQ2MDBmMGMxZjhiZTg1NGU4MTc3`

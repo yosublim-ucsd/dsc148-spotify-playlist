@@ -1,12 +1,12 @@
 {
   "description": "Deja que el sentimiento de los boleros te enamore a la antigua.",
-  "num_followers": 74195,
+  "num_followers": 74246,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzk1NjBhMmFkMmVjYTJjZTEzMDU4OGFkODljODNjYjY5ZDNlYjk4",
+  "snapshot_id": "MCwyOWI3ZDY3NTAzYjQ5ZDhiZGY2N2QzMmQxZTQ2ZmJkMjMyZDg3Yjcx",
   "tracks": [
     {
       "added_at": "2021-12-26 12:28:38",
@@ -467,22 +467,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "\u00c9xitos",
-        "url": "https://open.spotify.com/album/54BYhUZE62cpwfBlcIYAWs"
+        "name": "Los Tres Ases - Serenata de Amor",
+        "url": "https://open.spotify.com/album/1Ne7t2hsWhafB18i5QCUoI"
       },
       "artists": [
         {
-          "name": "Daniel Santos",
-          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
         }
       ],
-      "duration_ms": 183182,
-      "name": "Dos Gardenias",
-      "url": "https://open.spotify.com/track/4faOsdm3wPyhqSgkM9jZ9D"
+      "duration_ms": 192888,
+      "name": "Sabor a mi",
+      "url": "https://open.spotify.com/track/3qbYOwAWwcvMUx6KPmWFKJ"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -503,18 +499,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Los Tres Ases - Serenata de Amor",
-        "url": "https://open.spotify.com/album/1Ne7t2hsWhafB18i5QCUoI"
+        "name": "\u00c9xitos",
+        "url": "https://open.spotify.com/album/54BYhUZE62cpwfBlcIYAWs"
       },
       "artists": [
         {
-          "name": "Los Tres Ases",
-          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
+          "name": "Daniel Santos",
+          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         }
       ],
-      "duration_ms": 192888,
-      "name": "Sabor a mi",
-      "url": "https://open.spotify.com/track/3qbYOwAWwcvMUx6KPmWFKJ"
+      "duration_ms": 183182,
+      "name": "Dos Gardenias",
+      "url": "https://open.spotify.com/track/4faOsdm3wPyhqSgkM9jZ9D"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "El Trovador Solitario",
-        "url": "https://open.spotify.com/album/21bapb0tcYyoqzZuXP9Xze"
-      },
-      "artists": [
-        {
-          "name": "Pepe Jara",
-          "url": "https://open.spotify.com/artist/6OgrmJe15LhZrdbRQxE2Bl"
-        }
-      ],
-      "duration_ms": 166306,
-      "name": "El Andariego",
-      "url": "https://open.spotify.com/track/4ioxu5idXBbD7HOr5129Al"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "16 Exitos De Oro",
         "url": "https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 231493,
       "name": "Veronica",
       "url": "https://open.spotify.com/track/4rEybMVb5H7glCSbezlEAL"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "El Trovador Solitario",
+        "url": "https://open.spotify.com/album/21bapb0tcYyoqzZuXP9Xze"
+      },
+      "artists": [
+        {
+          "name": "Pepe Jara",
+          "url": "https://open.spotify.com/artist/6OgrmJe15LhZrdbRQxE2Bl"
+        }
+      ],
+      "duration_ms": 166306,
+      "name": "El Andariego",
+      "url": "https://open.spotify.com/track/4ioxu5idXBbD7HOr5129Al"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -975,6 +975,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Los Tres Ases",
+        "url": "https://open.spotify.com/album/0Qsqqs8HWEjVSXfoHhlIkp"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
+        }
+      ],
+      "duration_ms": 182532,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/4pZEUFPChCHLkJJ78hkwvh"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Las 2 Grandes Orquestas de Venezuela",
         "url": "https://open.spotify.com/album/3onbCnIGyRWV1BLNgtxiR0"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 247906,
       "name": "Flores Negras - Fichas Negras",
       "url": "https://open.spotify.com/track/3ci6RAlkx0Z6V2AGB3BC9A"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Los Tres Ases",
-        "url": "https://open.spotify.com/album/0Qsqqs8HWEjVSXfoHhlIkp"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Ases",
-          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
-        }
-      ],
-      "duration_ms": 182532,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/4pZEUFPChCHLkJJ78hkwvh"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "16 Exitos De Oro",
-        "url": "https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk"
-      },
-      "artists": [
-        {
-          "name": "Victor Yturbe \"El Piruli\"",
-          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
-        }
-      ],
-      "duration_ms": 186200,
-      "name": "Soy Lo Prohibido",
-      "url": "https://open.spotify.com/track/3NNehXVkdD040tJURh6Foc"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Los 100 Mejores Boleros, Vol. 3",
         "url": "https://open.spotify.com/album/77nPejHN04qkgkISjyX8Nf"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 167293,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/0qfpxZwicnDx86tuuWxyNX"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "16 Exitos De Oro",
+        "url": "https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk"
+      },
+      "artists": [
+        {
+          "name": "Victor Yturbe \"El Piruli\"",
+          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
+        }
+      ],
+      "duration_ms": 186200,
+      "name": "Soy Lo Prohibido",
+      "url": "https://open.spotify.com/track/3NNehXVkdD040tJURh6Foc"
     },
     {
       "added_at": "2021-12-26 12:28:38",

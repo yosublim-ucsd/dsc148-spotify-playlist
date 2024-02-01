@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 2024年5月18日\(土\), 19日\(日\)に幕張メッセで開催！国内最大規模のヒップホップフェスティバル<a href="https://popyours.jp/">『POP YOURS』</a>のラインナップをチェック。
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,617 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,675 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 18 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 |
 | 19 | [Acrophobia \- Remix](https://open.spotify.com/track/7Ab7SCSg5STG7pnz1wVA3Y) | [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [LOYALTY](https://open.spotify.com/album/5uG6tQHwmirEfkBqiRvqYM) | 3:24 |
 | 20 | [100](https://open.spotify.com/track/60O04sMkcnKyi1JoxWGBwP) | [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M) | [ZERO](https://open.spotify.com/album/60dCVLjTeclKXRE1A8VRXj) | 2:56 |
-| 21 | [New World](https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq) | 2:43 |
+| 21 | [New World](https://open.spotify.com/track/5d0901OV306utjv7ALii1O) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/3gcX6aWX8a6ZDbPtlVYvXA) | 2:43 |
 | 22 | [BOW](https://open.spotify.com/track/2CrrWAO1SOHP5xw8nACU2o) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [BOW](https://open.spotify.com/album/1oI8nrecGcBbiuHGBTXfA8) | 3:02 |
 | 23 | [Gear 5](https://open.spotify.com/track/3a3IzXws4QWyMJjpalutIi) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [SUN NO KUNI](https://open.spotify.com/album/36kBvq8ThgFCCIHuJfoPfu) | 3:46 |
 | 24 | [NINOKUNI](https://open.spotify.com/track/3saHHIRmfTrRAIXmApBvQx) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1) | [Ozworld](https://open.spotify.com/album/5RjB5gcM6kIvS7X9ZJEn9w) | 4:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 59 | [Moonlight](https://open.spotify.com/track/7gMxXLjM6RvQuNeMxTFf8H) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Sea of Love](https://open.spotify.com/album/6X7MO86uhjtTrUI4HbwYHA) | 3:29 |
 | 60 | [Inori](https://open.spotify.com/track/2q8CAa5H8Bih1zWvwzAglO) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [Sea of Love](https://open.spotify.com/album/6X7MO86uhjtTrUI4HbwYHA) | 3:30 |
 
-Snapshot ID: `MCw3ZWFlZGU5NWQ3MDA4ZjQ0MTFiMmFhMzAwNTFmZmU5N2NkMjQ3MjA5`
+Snapshot ID: `MCwwMzIxMGM4OGZkZDY0NWQwZmIzYzk0MGY4OTNkZmNjMjg2ZWYzMmUz`

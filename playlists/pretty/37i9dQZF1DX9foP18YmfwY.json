@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Davidson Silva, Dan\u00fabia M.J",
-  "num_followers": 320188,
+  "num_followers": 320170,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDliNmRhZjU2MzE2ZTk2Zjg5MzY0YTY4MzlkYWZmMGZmODdiMTdj",
+  "snapshot_id": "MCxjNzRlYzRkOTBhNTRhZTU4NmU3NDY3MTlhMDQ1ZmM1OTU1OGU3YjVj",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -443,26 +443,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Gba Stage, Vol. 5",
-        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Gil Monteiro",
-          "url": "https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy"
-        }
-      ],
-      "duration_ms": 173272,
-      "name": "Como \u00c9s Lindo",
-      "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Estou Orando por Voc\u00ea",
         "url": "https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 337168,
       "name": "Estou Orando por Voc\u00ea",
       "url": "https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Gba Stage, Vol. 5",
+        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Gil Monteiro",
+          "url": "https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy"
+        }
+      ],
+      "duration_ms": 173272,
+      "name": "Como \u00c9s Lindo",
+      "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Yeshua (feat. Eliana Ribeiro)",
-        "url": "https://open.spotify.com/album/6kb2Z7f0oZtl7TDrfhTN3j"
-      },
-      "artists": [
-        {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
-        },
-        {
-          "name": "Eliana Ribeiro",
-          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
-        }
-      ],
-      "duration_ms": 287562,
-      "name": "Yeshua (feat. Eliana Ribeiro)",
-      "url": "https://open.spotify.com/track/2K3QKrBAZBdRdABzOmQ1TL"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "A Tua Ternura",
         "url": "https://open.spotify.com/album/5QslSAQyAZKQXVjIeVtdjF"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 198992,
       "name": "A Tua Ternura",
       "url": "https://open.spotify.com/track/4hvjddkw3ZP1Icx9D0wZOE"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Yeshua (feat. Eliana Ribeiro)",
+        "url": "https://open.spotify.com/album/6kb2Z7f0oZtl7TDrfhTN3j"
+      },
+      "artists": [
+        {
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+        },
+        {
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
+        }
+      ],
+      "duration_ms": 287562,
+      "name": "Yeshua (feat. Eliana Ribeiro)",
+      "url": "https://open.spotify.com/track/2K3QKrBAZBdRdABzOmQ1TL"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -663,6 +663,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Divino Esposo",
+        "url": "https://open.spotify.com/album/1UH1xNf23o2u24v42G5nYj"
+      },
+      "artists": [
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        },
+        {
+          "name": "Irm\u00e3 Kelly Patr\u00edcia",
+          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
+        }
+      ],
+      "duration_ms": 218105,
+      "name": "Divino Esposo",
+      "url": "https://open.spotify.com/track/2vcDp4l6tl3dvQaStYu5Ps"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Gba Stage, Vol. 4",
         "url": "https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f"
       },
@@ -735,26 +755,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Divino Esposo",
-        "url": "https://open.spotify.com/album/1UH1xNf23o2u24v42G5nYj"
-      },
-      "artists": [
-        {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
-        },
-        {
-          "name": "Irm\u00e3 Kelly Patr\u00edcia",
-          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
-        }
-      ],
-      "duration_ms": 218105,
-      "name": "Divino Esposo",
-      "url": "https://open.spotify.com/track/2vcDp4l6tl3dvQaStYu5Ps"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Romaria (Ao Vivo)",
         "url": "https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U"
       },
@@ -787,26 +787,6 @@
       "duration_ms": 308875,
       "name": "Louvor dos Pequenos",
       "url": "https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Acalma o Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Adriana Arydes",
-          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Acalma o Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -863,6 +843,46 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Maria, M\u00e3e e Rainha",
+        "url": "https://open.spotify.com/album/1IJ7RefzvJFgJO7NREVLtX"
+      },
+      "artists": [
+        {
+          "name": "Padre Alexandre Spena",
+          "url": "https://open.spotify.com/artist/5TQRT5gGmuqswBjVBIrtMl"
+        },
+        {
+          "name": "Alvaro & Daniel",
+          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
+        }
+      ],
+      "duration_ms": 225152,
+      "name": "Maria, M\u00e3e e Rainha",
+      "url": "https://open.spotify.com/track/14GmPiDPsP4WMmeorXYDdX"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Acalma o Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Adriana Arydes",
+          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Acalma o Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Inflama-Me",
         "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
       },
@@ -879,22 +899,6 @@
       "duration_ms": 401500,
       "name": "Inflama-Me",
       "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Esp\u00edrito da Verdade",
-        "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
-      },
-      "artists": [
-        {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
-        }
-      ],
-      "duration_ms": 287303,
-      "name": "Se Eu Tocar",
-      "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -919,22 +923,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Maria, M\u00e3e e Rainha",
-        "url": "https://open.spotify.com/album/1IJ7RefzvJFgJO7NREVLtX"
+        "name": "Esp\u00edrito da Verdade",
+        "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
       },
       "artists": [
         {
-          "name": "Padre Alexandre Spena",
-          "url": "https://open.spotify.com/artist/5TQRT5gGmuqswBjVBIrtMl"
-        },
-        {
-          "name": "Alvaro & Daniel",
-          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
         }
       ],
-      "duration_ms": 225152,
-      "name": "Maria, M\u00e3e e Rainha",
-      "url": "https://open.spotify.com/track/14GmPiDPsP4WMmeorXYDdX"
+      "duration_ms": 287303,
+      "name": "Se Eu Tocar",
+      "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -971,26 +971,6 @@
       "duration_ms": 264891,
       "name": "Quero Ouvir Tua Voz",
       "url": "https://open.spotify.com/track/74uwms1hqk7HUMPYrtTrgO"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "M\u00e3e, Me Defende do Mal",
-        "url": "https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Irm\u00e3 Kelly Patr\u00edcia",
-          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
-        }
-      ],
-      "duration_ms": 300184,
-      "name": "M\u00e3e, Me Defende do Mal",
-      "url": "https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1055,22 +1035,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
-        "url": "https://open.spotify.com/album/75LxVcoWjfJ0kSuTBMZA8F"
-      },
-      "artists": [
-        {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
-        }
-      ],
-      "duration_ms": 281739,
-      "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
-      "url": "https://open.spotify.com/track/4lwl2jjSyJi29f781kSKzW"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Maria Vem",
         "url": "https://open.spotify.com/album/2mvaM4CyYE0oWzUu1a7VNK"
       },
@@ -1083,6 +1047,42 @@
       "duration_ms": 240513,
       "name": "Maria Vem",
       "url": "https://open.spotify.com/track/0AlGx8Q5pUvpt8Z4NcrA8L"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "M\u00e3e, Me Defende do Mal",
+        "url": "https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Irm\u00e3 Kelly Patr\u00edcia",
+          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
+        }
+      ],
+      "duration_ms": 300184,
+      "name": "M\u00e3e, Me Defende do Mal",
+      "url": "https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
+        "url": "https://open.spotify.com/album/75LxVcoWjfJ0kSuTBMZA8F"
+      },
+      "artists": [
+        {
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+        }
+      ],
+      "duration_ms": 281739,
+      "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
+      "url": "https://open.spotify.com/track/4lwl2jjSyJi29f781kSKzW"
     },
     {
       "added_at": "2023-12-22 03:00:00",

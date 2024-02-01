@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-1,090 songs - 2 day 12 hr 32 min
+1,091 songs - 2 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-12-24 | 2022-12-28 |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-08-23 | 2022-10-23 |
 | [Fica](https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Fica](https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr) | 4:20 | 2021-03-27\* | 2021-07-01 |
+| [Filho](https://open.spotify.com/track/4zesPnw5FVtT3baj6N5DtY) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch) | [Filho](https://open.spotify.com/album/3t3LAyu0btZc3nO4XnZHav) | 2:42 | 2024-01-31 |  |
 | [Fim de Semana no Rio](https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Fim de Semana no Rio](https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S) | 2:45 | 2022-04-01 | 2022-09-19 |
 | [FIM do NADA](https://open.spotify.com/track/4QTYp7oIjHLyRNVjyIPTFQ) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk), [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb) | [FIM do NADA](https://open.spotify.com/album/6IIAlFbQI78vlC9ynutpTM) | 4:06 | 2023-07-01 | 2023-07-30 |
 | [FINA](https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:36 | 2023-10-14 | 2023-10-16 |
@@ -365,7 +366,7 @@
 | [Formosa](https://open.spotify.com/track/1QmupixsVNc0osesKXraZC) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [MC CJ](https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp) | [Formosa](https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI) | 3:05 | 2022-01-02 | 2022-04-05 |
 | [Forte Forte de Lacoste \- Pra Começar o Final de Semana](https://open.spotify.com/track/5vdQUAFncALEH9EQvyAqIX) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [MC LCKaiique](https://open.spotify.com/artist/74rzyUJxQzZ7YoSdsuzXvS), [MC Celo BK](https://open.spotify.com/artist/0nppFBXdpNggDY3LdjX29c), [DJ Menezes](https://open.spotify.com/artist/12ayBbABWnctytOKqQwMyr), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [Forte Forte de Lacoste \- Pra Começar o Final de Semana](https://open.spotify.com/album/3cMus2DPrc3370m8whkCul) | 3:02 | 2023-07-09 | 2023-08-29 |
 | [Fountains \(with Tems\)](https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:12 | 2021-09-05 | 2021-09-07 |
-| [Frevo em Prelúdio](https://open.spotify.com/track/6JXzku1W9NP02jXNqvY8Hh) | [GBoss](https://open.spotify.com/artist/5VLQYGZE248YiJXNuA9BC8) | [Frevo em Prelúdio](https://open.spotify.com/album/07zIJRA5L1y5x4O2xuLqQA) | 2:30 | 2024-01-06 |  |
+| [Frevo em Prelúdio](https://open.spotify.com/track/6JXzku1W9NP02jXNqvY8Hh) | [GBoss](https://open.spotify.com/artist/5VLQYGZE248YiJXNuA9BC8) | [Frevo em Prelúdio](https://open.spotify.com/album/07zIJRA5L1y5x4O2xuLqQA) | 2:30 | 2024-01-06 | 2024-02-01 |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU), [Hypeman](https://open.spotify.com/artist/0SSgGgCftrslhyAEDEDdim), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2021-03-27 | 2022-01-04 |
 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-08-29 | 2023-09-06 |
 | [Funk Rave](https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Rave](https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu) | 2:27 | 2023-06-24 | 2023-09-25 |

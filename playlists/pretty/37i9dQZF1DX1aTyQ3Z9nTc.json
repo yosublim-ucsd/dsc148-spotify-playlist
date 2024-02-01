@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 132337,
+  "num_followers": 132356,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzFkM2NkNTgwZDdmZThkYzYwMzVhYmFmMDhhZTk4ZGQwNWMzZDk1",
+  "snapshot_id": "MCw5ZWU2MzEzMzJhNjg3MTZiNjE4YjQ0Y2NjYTBhMzU4YWZkNDNmOTky",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "BB/ANG3L",
+        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 186094,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/2ovaClouYyCligGAi5CzGX"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Can't Fake What You Feel",
         "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 171052,
       "name": "Can't Fake What You Feel",
       "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "BB/ANG3L",
-        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 186094,
-      "name": "Tightrope",
-      "url": "https://open.spotify.com/track/2ovaClouYyCligGAi5CzGX"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 255401,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Chrome Bull",
         "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 187938,
       "name": "Sneaky",
       "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 255401,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1151,22 +1151,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "The Lion King: The Gift [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ"
+        "name": "There Is A Light",
+        "url": "https://open.spotify.com/album/0auzANiBBPA11WMLoLbl81"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
         },
         {
-          "name": "Melo-X",
-          "url": "https://open.spotify.com/artist/6AxHPycFTjxDROqK1pzsAE"
+          "name": "Zak Leever",
+          "url": "https://open.spotify.com/artist/52YFhvzbffRkaVJQCjFlpU"
         }
       ],
-      "duration_ms": 216339,
-      "name": "FIND YOUR WAY BACK - MELO-X Remix",
-      "url": "https://open.spotify.com/track/1g0k1bFcLKyIrdsdUkF3eW"
+      "duration_ms": 181875,
+      "name": "There Is A Light",
+      "url": "https://open.spotify.com/track/1oGX6s0SjBSMz1Z4I9a8zN"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1191,22 +1191,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "There Is A Light",
-        "url": "https://open.spotify.com/album/0auzANiBBPA11WMLoLbl81"
+        "name": "The Lion King: The Gift [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ"
       },
       "artists": [
         {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         },
         {
-          "name": "Zak Leever",
-          "url": "https://open.spotify.com/artist/52YFhvzbffRkaVJQCjFlpU"
+          "name": "Melo-X",
+          "url": "https://open.spotify.com/artist/6AxHPycFTjxDROqK1pzsAE"
         }
       ],
-      "duration_ms": 181875,
-      "name": "There Is A Light",
-      "url": "https://open.spotify.com/track/1oGX6s0SjBSMz1Z4I9a8zN"
+      "duration_ms": 216339,
+      "name": "FIND YOUR WAY BACK - MELO-X Remix",
+      "url": "https://open.spotify.com/track/1g0k1bFcLKyIrdsdUkF3eW"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "SOBER",
-        "url": "https://open.spotify.com/album/5nS6v4qdEL2h9lTasRmziy"
-      },
-      "artists": [
-        {
-          "name": "SIPHO.",
-          "url": "https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ"
-        }
-      ],
-      "duration_ms": 155906,
-      "name": "SOBER",
-      "url": "https://open.spotify.com/track/5sFZ7F3b7LDdQTwt7UnNvZ"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Interstellar.",
         "url": "https://open.spotify.com/album/09q6uMoetRAZ4ESnPaEM1F"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 162222,
       "name": "Ce Soir",
       "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "SOBER",
+        "url": "https://open.spotify.com/album/5nS6v4qdEL2h9lTasRmziy"
+      },
+      "artists": [
+        {
+          "name": "SIPHO.",
+          "url": "https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ"
+        }
+      ],
+      "duration_ms": 155906,
+      "name": "SOBER",
+      "url": "https://open.spotify.com/track/5sFZ7F3b7LDdQTwt7UnNvZ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        }
-      ],
-      "duration_ms": 121532,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Homegrown (Deluxe)",
         "url": "https://open.spotify.com/album/1g8c7UXl9odDwOpdoPJsWa"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 233653,
       "name": "Say Yes (feat. TOKiMONSTA)",
       "url": "https://open.spotify.com/track/2pBVR6cD0ClaSNByNKeN8T"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "duration_ms": 121532,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Boundaries (DRAMA Remix)",
-        "url": "https://open.spotify.com/album/0KFOUugVRJwr9pnevuIrtl"
-      },
-      "artists": [
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 220411,
-      "name": "Boundaries - DRAMA Remix",
-      "url": "https://open.spotify.com/track/7olP7S3e0XDQ08eisCHVgp"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "All Along (Kaytranada Remix)",
         "url": "https://open.spotify.com/album/1SFh4fpWMEThFiNnSAXLsg"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 284606,
       "name": "All Along - Kaytranada Remix",
       "url": "https://open.spotify.com/track/7wFcrixaohlV2kn5iDGORv"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Boundaries (DRAMA Remix)",
+        "url": "https://open.spotify.com/album/0KFOUugVRJwr9pnevuIrtl"
+      },
+      "artists": [
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 220411,
+      "name": "Boundaries - DRAMA Remix",
+      "url": "https://open.spotify.com/track/7olP7S3e0XDQ08eisCHVgp"
     },
     {
       "added_at": "2023-12-08 05:00:00",

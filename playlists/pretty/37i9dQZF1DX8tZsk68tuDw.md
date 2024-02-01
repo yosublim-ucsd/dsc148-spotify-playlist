@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Disco Lines, Anabel Englund & J\. Worra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,979,152 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,978,558 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 13 | [When I Push \- Edit](https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [When I Push \(Edit\)](https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy) | 3:33 |
 | 14 | [I Don't Remember](https://open.spotify.com/track/0hi0udQ5ZXTKRcZ9t0e4TF) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [I Don't Remember](https://open.spotify.com/album/0J7RfuS72drryFxcc3SvD8) | 3:15 |
 | 15 | [Make U Sweat](https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Make U Sweat](https://open.spotify.com/album/2eynmd9669ddVP7QTuj66o) | 2:28 |
-| 16 | [Biggest Regret \(feat\. BbyAfricka\)](https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W) | [Biggest Regret \(feat\. BbyAfricka\)](https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI) | 3:50 |
+| 16 | [Biggest Regret \(feat\. Bbyafricka\)](https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W) | [Biggest Regret \(feat\. Bbyafricka\)](https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI) | 3:50 |
 | 17 | [Waiting](https://open.spotify.com/track/7EVHULTsnqPHH2kvCQ1r8j) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Redfield](https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Waiting](https://open.spotify.com/album/0ZkZ1UQ7SPAhM0E6RrPRMZ) | 2:53 |
 | 18 | [Lifetime](https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Lifetime](https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H) | 2:38 |
 | 19 | [SET ME FREE](https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [SET ME FREE](https://open.spotify.com/album/1y5ZBGShGAM5JxDOE1LNrW) | 2:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 74 | [I Could Be \(feat\. valentina cy\)](https://open.spotify.com/track/19yCgFt2hIHCqLyfsAQPTA) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI), [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [I Could Be \(feat\. valentina cy\)](https://open.spotify.com/album/6tDdVYFLF6PqcnkcLwKrQ0) | 3:26 |
 | 75 | [Look At Me Dance](https://open.spotify.com/track/2ByH7zQsZ5ZGjbWRZpFoRI) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Look At Me Dance](https://open.spotify.com/album/4GQVZQ4Bc70JB8tU8z8XML) | 3:05 |
 
-Snapshot ID: `MCxlYjAyNjljMzk1OWFkYjg1OTk0YmUzOTdlZjllYzIwMmVmM2YxNGRj`
+Snapshot ID: `MCw1ZWUwNGNmNmFkMjA0MmQyNThkZGIxZDljYTgxNzU0MzE1ZjU2MDIy`

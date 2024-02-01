@@ -4,7 +4,7 @@
 
 > 2024年5月18日\(土\), 19日\(日\)に幕張メッセで開催！国内最大規模のヒップホップフェスティバル<a href="https://popyours.jp/">『POP YOURS』</a>のラインナップをチェック。
 
-312 songs - 17 hr 6 min
+313 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,8 @@
 | [Nectar.](https://open.spotify.com/track/5YamNEPEtoovtVgLWPZThg) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Nectar.](https://open.spotify.com/album/1InAJl1AGu9H9hjt1lOtGe) | 3:00 | 2023-06-07 | 2024-01-25 |
 | [Neo Gal Wop](https://open.spotify.com/track/4NcTyBmgDNwwVctpBTXsaq) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [LIFE IS WAVY](https://open.spotify.com/album/1k9xsl6ERasBsfFDK7UJbQ) | 2:00 | 2023-06-07 | 2024-01-25 |
 | [Never Get It](https://open.spotify.com/track/1KL87XeNAfA4ittn3yFL13) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [XLARGE](https://open.spotify.com/artist/6J2XZJTbKOXfS2UJKjy3Hv), [Henny K](https://open.spotify.com/artist/5kHlhiDhgmsqZldMC6hPoL), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Never Get It](https://open.spotify.com/album/4SdEQPJbOScadpRfI6xaXh) | 2:59 | 2023-06-07 | 2024-01-25 |
-| [New World](https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq) | 2:43 | 2024-01-24 |  |
+| [New World](https://open.spotify.com/track/5d0901OV306utjv7ALii1O) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/3gcX6aWX8a6ZDbPtlVYvXA) | 2:43 | 2024-01-24 |  |
+| [New World](https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq) | 2:43 | 2024-01-24 | 2024-02-01 |
 | [New York New York](https://open.spotify.com/track/3xjEeItySzJHcBrjMXnuDM) | [TOKONA\-X](https://open.spotify.com/artist/2bkeiir345k380JCph94Zn) | [トウカイXテイオー](https://open.spotify.com/album/68q3gNrw9PRQVZS5ACTaeQ) | 4:01 | 2023-06-07 | 2024-01-25 |
 | [Night Rider](https://open.spotify.com/track/0FnJ2EWTyl7QUQcDEbpN16) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Boyhood](https://open.spotify.com/album/6yhxG10zFkBXMIRfvveRE6) | 3:19 | 2023-06-07 | 2024-01-25 |
 | [NINOKUNI](https://open.spotify.com/track/3saHHIRmfTrRAIXmApBvQx) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1) | [Ozworld](https://open.spotify.com/album/5RjB5gcM6kIvS7X9ZJEn9w) | 4:17 | 2023-06-07 |  |

@@ -4,7 +4,7 @@
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 雨宮天 \(Sora Amamiya\)
 
-315 songs - 21 hr 2 min
+316 songs - 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Kabaneri of the Iron Fortress \- From CrosSing](https://open.spotify.com/track/5lpuUXJrebI7zTMCJvkw2c) | [Isobe Karin](https://open.spotify.com/artist/12H5I8U8pbnUVkfjW5yGLE) | [Kabaneri of the Iron Fortress \- From CrosSing](https://open.spotify.com/album/7dNZvllHiZ4x3z89gM9JoJ) | 4:49 | 2023-09-22 |  |
 | [Kanaeru](https://open.spotify.com/track/3v2ukwtudAPcAbK3aH3lcO) | [諸星すみれ](https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP) | [Kanaeru](https://open.spotify.com/album/5NToVrhF1pEWvV3BU3W1Yn) | 3:55 | 2023-02-14 | 2023-07-27 |
 | [Kasuka de Tashika](https://open.spotify.com/track/6Bx2R4IgTs5BUoFblQGSE7) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [Kasuka de Tashika](https://open.spotify.com/album/3KAKSIP686ycCtJEVLdTGs) | 4:26 | 2023-01-13 | 2023-04-26 |
+| [Kasumi no mukoue](https://open.spotify.com/track/3ydPLIviKq9rIhTMUXjbHn) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [Kasumi no mukoue](https://open.spotify.com/album/5MRKnrbfhY9ptviXEHXCtt) | 4:08 | 2024-01-16 |  |
 | [Kataomoi \- From CrosSing](https://open.spotify.com/track/5ZZrQwgtdm0pGC8YA3qO50) | [Hasegawa Ikumi](https://open.spotify.com/artist/2ry3SeF9037A5uPeb8FaYx) | [Kataomoi \- From CrosSing](https://open.spotify.com/album/42oVq6U7nskgpDQNdjCGga) | 3:25 | 2023-11-04 |  |
 | [Key to My Heart](https://open.spotify.com/track/1NmvymljWwjFk64R6N24So) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [Key to My Heart](https://open.spotify.com/album/63H4TPHDzaIKYtcIGxTDzM) | 3:50 | 2023-02-03 | 2023-06-01 |
 | [Kikoeru?](https://open.spotify.com/track/5JTk3c6TnCYTiVOueXSxKJ) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Kikoeru?](https://open.spotify.com/album/2KGp1amvwo7jNaozKVL4bj) | 4:05 | 2022-07-13 | 2022-09-23 |
@@ -319,7 +320,7 @@
 | [遣らずの雨](https://open.spotify.com/track/6vQ8WVHugsqwRYxU68mdu8) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [遣らずの雨](https://open.spotify.com/album/4y7XFPKaws67aaYusg0md8) | 4:10 | 2022-06-23 | 2022-08-06 |
 | [閃 \-Sen\-](https://open.spotify.com/track/6UjRCdLRF9uBgELHiPOdu4) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [閃 \-Sen\-](https://open.spotify.com/album/7CJlc9nZISFfXwRBWieQrt) | 4:16 | 2023-10-12 |  |
 | [集結の果てに](https://open.spotify.com/track/41ChAWF2xtTY27QzeLVpns) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [集結の果てに](https://open.spotify.com/album/7f3CzXWceuQ4UEoEmXE1Xa) | 3:58 | 2022-12-21 | 2023-04-26 |
-| [霞の向こうへ](https://open.spotify.com/track/5W4Jz81qUijp9EoC6vJYPJ) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [霞の向こうへ\(TVアニメ｢ゴブリンスレイヤーⅡ｣エンディングテーマ\)](https://open.spotify.com/album/60Is723U0djCaYTjIJdTnr) | 4:08 | 2023-09-22 |  |
+| [霞の向こうへ](https://open.spotify.com/track/5W4Jz81qUijp9EoC6vJYPJ) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [霞の向こうへ\(TVアニメ｢ゴブリンスレイヤーⅡ｣エンディングテーマ\)](https://open.spotify.com/album/60Is723U0djCaYTjIJdTnr) | 4:08 | 2023-09-22 | 2024-02-01 |
 | [青100色](https://open.spotify.com/track/6tP2bYIUMcDFn9Zfs9ZAE4) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD) | [青100色 \(TVアニメ「古見さんは、コミュ症です。」オープニング・テーマ\)](https://open.spotify.com/album/3SpGjj6yNjbv5OvObTrPNy) | 3:56 | 2022-05-31 | 2022-08-31 |
 | [青天の霹靂](https://open.spotify.com/track/3EesqOwvaAzaefNb6lwTM5) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [PRESENCE](https://open.spotify.com/album/3677faNhVxL4oQAWrLYgjA) | 2:45 | 2023-05-31 | 2023-12-26 |
 | [駆け引きはポーカーフェイス](https://open.spotify.com/track/2rndtIOj7hxQ5Mhv2s5CqP) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [駆け引きはポーカーフェイス](https://open.spotify.com/album/1yy1XesRCfw0BGJRM4Gky6) | 3:55 | 2022-07-13 | 2022-07-29 |

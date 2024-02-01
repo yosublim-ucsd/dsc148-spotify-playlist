@@ -2,7 +2,7 @@
 
 ### [In The K\-Indie](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: OKDAL\(옥상달빛\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: AQUINAS\(강민수\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
 623 songs - 1 day 14 hr 10 min
 

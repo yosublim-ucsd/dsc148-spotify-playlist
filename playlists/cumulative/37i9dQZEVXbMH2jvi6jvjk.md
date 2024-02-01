@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Africa.
 
-1,739 songs - 5 day 0 hr 31 min
+1,740 songs - 5 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -880,6 +880,7 @@
 | [LOOSE CHANGE](https://open.spotify.com/track/00imgaPlYRrMGn9o83hfmk) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:46 | 2022-07-09 | 2022-07-22 |
 | [Lord I Need You](https://open.spotify.com/track/5YRFttxjAEgm2nq5Z2tlqK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:42 | 2021-08-31 | 2021-09-05 |
 | [Lose](https://open.spotify.com/track/7nVERWQXlgZRQsYw4fHf3b) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Lose](https://open.spotify.com/album/2KiivxtQQDKP8TfdXEfECf) | 3:25 | 2021-08-08 | 2021-08-14 |
+| [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 | 2024-01-31 |  |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-05 | 2021-06-18 |
 | [Lost Cause](https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:32 | 2021-08-01 | 2021-08-02 |
 | [LOST FOREVER \(feat\. Westside Gunn\)](https://open.spotify.com/track/7EiUtdeoWcKqLi5ELZCjYf) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 2:43 | 2023-07-29 | 2023-08-03 |
@@ -912,7 +913,7 @@
 | [MaGear](https://open.spotify.com/track/4DRoBeOfWYPxEAQl3qjXx3) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Mr Brown](https://open.spotify.com/artist/6zfdfAQ735KFzpBLkEJxhr) | [African Queen 2.0](https://open.spotify.com/album/57d2o9ABnFTKWX3xuYGFe9) | 4:50 | 2023-01-01 | 2023-01-03 |
 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 | 2022-11-05 | 2022-12-03 |
 | [Make You Mine](https://open.spotify.com/track/7r1MqPAD09w24mCUUbxiCI) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:20 | 2022-06-25 | 2022-06-27 |
-| [Makhelwane \(feat\. Casswell P\)](https://open.spotify.com/track/3BraTCQg9APnWRC7HQZyOJ) | [Wanitwa Mos](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Casswell P](https://open.spotify.com/artist/13TUuvzi6FAkiA5F9MiYF8) | [Makhelwane](https://open.spotify.com/album/28kb1LVlnyB0BkollLoCi1) | 4:45 | 2023-11-23 |  |
+| [Makhelwane \(feat\. Casswell P\)](https://open.spotify.com/track/3BraTCQg9APnWRC7HQZyOJ) | [Wanitwa Mos](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Casswell P](https://open.spotify.com/artist/13TUuvzi6FAkiA5F9MiYF8) | [Makhelwane](https://open.spotify.com/album/28kb1LVlnyB0BkollLoCi1) | 4:45 | 2023-11-23 | 2024-02-01 |
 | [Malibu \(feat\. Polo G\)](https://open.spotify.com/track/3v1zVVdzNVNt7vmI9VG2gq) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:08 | 2021-06-13 | 2021-06-16 |
 | [Malo We](https://open.spotify.com/track/3iBYAtES80y9eyhs2bzsrp) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Malo We](https://open.spotify.com/album/6GOuQjroRW0vd0kAR8Dfhx) | 5:52 | 2022-10-22 | 2022-10-25 |
 | [Malume \(Nta Swi Byela Mani Revisit\)](https://open.spotify.com/track/0Wa6EyiyMpByx1vmufeSc0) | [Elvirgo](https://open.spotify.com/artist/1gj73tTSgIEMqveg9QsO4c), [Chicco](https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f), [TallexQ](https://open.spotify.com/artist/7dlrsjt50VftIVkYahlIio) | [Malume \(Nta Swi Byela Mani Revisit\)](https://open.spotify.com/album/6lmPvjVFVe9K1Q3NMTNHkz) | 4:33 | 2023-07-02 | 2023-08-29 |

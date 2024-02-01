@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWZjN2FlNDU5ZjkyY2VjNGYyN2I4MTUxNDRiMzYzNDMzZjA1YzVm",
+  "snapshot_id": "MCw1N2JkOTAyNWFmMzRiZDI5Y2UwMzUyNDFjNDc3ZjczYzMzYjE2NGVl",
   "tracks": [
     {
       "added_at": "2024-01-26 00:01:00",
@@ -871,17 +871,13 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "En S\u00e5ng",
-        "url": "https://open.spotify.com/album/6WEPyeBKl5XrbXvB7K1Q7s"
+        "name": "En r\u00f6d vals",
+        "url": "https://open.spotify.com/album/52iav2PhBawZB5kWix3tuD"
       },
       "artists": [
         {
           "name": "Ulla Fluur",
           "url": "https://open.spotify.com/artist/3jLzatCzHIGYop5o0pTbTr"
-        },
-        {
-          "name": "Leo Lindberg",
-          "url": "https://open.spotify.com/artist/77OBGeL75ilbMCJRKxskvI"
         },
         {
           "name": "Mikael Augustsson",
@@ -894,11 +890,15 @@
         {
           "name": "Chris Montgomery",
           "url": "https://open.spotify.com/artist/7B6FpoS1Dk7vKXz3S60HTW"
+        },
+        {
+          "name": "Leo Lindberg",
+          "url": "https://open.spotify.com/artist/77OBGeL75ilbMCJRKxskvI"
         }
       ],
       "duration_ms": 255253,
       "name": "En S\u00e5ng",
-      "url": "https://open.spotify.com/track/0fyB1ggn91AFAvKRgXcwnT"
+      "url": "https://open.spotify.com/track/3FZJmHE7v3CsmnWEv1e1de"
     },
     {
       "added_at": "2024-01-26 00:01:00",

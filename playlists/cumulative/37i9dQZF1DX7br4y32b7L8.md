@@ -4,7 +4,7 @@
 
 > songs voor je playlist!
 
-328 songs - 16 hr 28 min
+330 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Lavender Haze \- Acoustic Version](https://open.spotify.com/track/0O2yLXhJtcp69Ll233Q6xS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lavender Haze \(Acoustic Version\)](https://open.spotify.com/album/54F0VYmKpYQok1ydOZhsYC) | 2:54 | 2023-04-05 | 2023-04-19 |
 | [Layla](https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl) | 2:43 | 2023-04-11 | 2023-09-01 |
 | [Leidseplein](https://open.spotify.com/track/0Hi3vw8XJ14gs9zE721zmN) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Leidseplein](https://open.spotify.com/album/3qrxL8lc4PrftAnuTvxpgC) | 2:41 | 2023-03-24 | 2023-07-11 |
+| [Liegen Voor De Rechter](https://open.spotify.com/track/2bicgbzwgGJerEkAPv8D3s) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Liegen Voor De Rechter](https://open.spotify.com/album/4rYCqwqNchRfLJevz3Rw9W) | 3:27 | 2024-01-31 |  |
 | [life gets hard](https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F) | [life gets hard](https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj) | 2:05 | 2023-11-27 |  |
 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 | 2023-07-15 |  |
 | [Loco Loco \(feat\. Sluwe Ollie\)](https://open.spotify.com/track/78dZXRH9JBXITQsS9Mlnsl) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [Loco Loco \(feat\. Sluwe Ollie\)](https://open.spotify.com/album/3v4lZJxJps8UEnZ8UVEIAy) | 2:45 | 2023-10-04 |  |
@@ -304,6 +305,7 @@
 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 | 2023-02-23 | 2023-04-12 |
 | [Thrill](https://open.spotify.com/track/2Nr0XHZuIGd9EwhdM3FojG) | [Dide](https://open.spotify.com/artist/29ifbSKLZbyWgfRoduS7S4) | [Thrill](https://open.spotify.com/album/6ZYo0HNaQFPlFGLZacnOXD) | 3:32 | 2023-04-20 | 2023-05-02 |
 | [Toverdrank](https://open.spotify.com/track/4qidbujyhAzF3C3GdxjeN5) | [BIBI](https://open.spotify.com/artist/6vT2DqeCXrQd10M8xSyfoi) | [Toverdrank](https://open.spotify.com/album/1vPQRObyL3AFozBuHiUggb) | 2:20 | 2023-09-04 | 2023-09-14 |
+| [Tragedy](https://open.spotify.com/track/6UXXeFqMBGiqjkzQzkMT3E) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Spirits Having Flown](https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm) | 5:03 | 2024-01-31 |  |
 | [Trainingspak](https://open.spotify.com/track/62bNZie9JmywI2z8AAEHeL) | [Chardy](https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa) | [Trainingspak](https://open.spotify.com/album/5BillhOrRDiEiHDA9LIQrS) | 2:17 | 2023-05-24 | 2024-01-07 |
 | [Twee Motten](https://open.spotify.com/track/5ttRhxHIw2xddeqtlcwWzs) | [Dorus](https://open.spotify.com/artist/1pXwedNJp8Le9pKUCzr9pA) | [De singles: A & B Kanten 1956\-1969](https://open.spotify.com/album/3HrjrKXZQ8L9w42lQomn3C) | 3:06 | 2023-11-29 | 2024-01-04 |
 | [Twee Motten](https://open.spotify.com/track/4pAFPSD6s1QkrZJaQlTzpX) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Twee Motten](https://open.spotify.com/album/6AzX47mpTO8YUaZ7PHt98y) | 2:17 | 2023-12-25 |  |

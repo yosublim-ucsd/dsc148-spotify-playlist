@@ -1,12 +1,12 @@
 {
   "description": "1-2-3, 5-6-7, now you're dancing salsa!",
-  "num_followers": 67870,
+  "num_followers": 67958,
   "original_name": "Salsa Lessons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzI0YjAzM2QwNTNiM2E1ZWI4MGRmMjhhYTlkM2IwYzQ3MDE2NGJl",
+  "snapshot_id": "MCxmNWQ3ZGQxNzIwNDk5NDIzYmY3ZWU0ZjBiZTgxNjFjOTY5MWJjZWEx",
   "tracks": [
     {
       "added_at": "2021-11-25 14:50:11",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-11-25 14:50:11",
       "album": {
-        "name": "Comedia",
-        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 626880,
-      "name": "El Cantante",
-      "url": "https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO"
-    },
-    {
-      "added_at": "2021-11-25 14:50:11",
-      "album": {
         "name": "Puro Coraz\u00f3n",
         "url": "https://open.spotify.com/album/39gzi20j94Xta3yLFG5wtR"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 255213,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/5WyX397vZTvYQwSrylCka0"
+    },
+    {
+      "added_at": "2021-11-25 14:50:11",
+      "album": {
+        "name": "Comedia",
+        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 626880,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO"
     },
     {
       "added_at": "2021-11-25 14:50:11",

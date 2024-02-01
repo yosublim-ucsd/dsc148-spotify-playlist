@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Hansika Pareek
 
-166 songs - 9 hr 13 min
+167 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Heer Ranjha](https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Heer Ranjha](https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63) | 3:43 | 2023-05-02 |  |
 | [Heera Ranjha](https://open.spotify.com/track/4X6IOxtvss2IVzLRz0zxeA) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Shefali Alvares](https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn) | [Heera Ranjha](https://open.spotify.com/album/5ib7pTJDafkQ9zAjjhe6Wp) | 2:16 | 2023-11-23 |  |
 | [Heeriye](https://open.spotify.com/track/2n81wfUPrLqem735iUKmCD) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX), [Arooh](https://open.spotify.com/artist/3E9wPDeQ4FoB8okbcGF0Q7) | [Heeriye](https://open.spotify.com/album/3pEMuO0AYxhN9Y7dfV6oZo) | 3:15 | 2023-05-02 | 2023-07-21 |
-| [Ho Jaane Do](https://open.spotify.com/track/3ioJJykMxfcoj0qOmf1QPj) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Ho Jaane Do](https://open.spotify.com/album/5BDwUl97v4DscgoMnuhL1C) | 2:58 | 2023-05-02 |  |
+| [Ho Jaane Do](https://open.spotify.com/track/3ioJJykMxfcoj0qOmf1QPj) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Ho Jaane Do](https://open.spotify.com/album/5BDwUl97v4DscgoMnuhL1C) | 2:58 | 2023-05-02 | 2024-02-01 |
 | [Humara Ho Gaya](https://open.spotify.com/track/7qMCYAkTTbFOw1hUXvAAje) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Saar](https://open.spotify.com/album/2leNjXvtxbHDUFiltWZtbQ) | 2:37 | 2023-05-02 |  |
 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 | 2023-12-01 |  |
 | [Intezaar](https://open.spotify.com/track/6AlW2ZNQlzIKReQ1CS8J9r) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Intezaar](https://open.spotify.com/album/6Z4DXqYqQJc6XLzvPaSynt) | 3:55 | 2023-05-02 | 2023-12-20 |
@@ -120,6 +120,7 @@
 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 | 2023-05-02 |  |
 | [Pahadon Mein](https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shaan](https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W) | 3:45 | 2023-05-02 |  |
 | [Parda](https://open.spotify.com/track/09FfppwkzTccGQFWcglxGD) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Parda](https://open.spotify.com/album/5ZxjM0OML0g3RVv3utPfA6) | 3:12 | 2023-05-02 |  |
+| [Pareshaan](https://open.spotify.com/track/5Infc095QF0BDwCF9rMyxD) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Pareshaan](https://open.spotify.com/album/45CSYEp4RHs2bNSiUUdfMb) | 4:04 | 2024-01-09 |  |
 | [Parwaana](https://open.spotify.com/track/1plViHUxnafeKCFKV6Tegs) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 4:11 | 2023-08-04 | 2023-08-10 |
 | [Pehli Baar](https://open.spotify.com/track/27XgpNt1YAhNoOOjxf6sND) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Namit Das](https://open.spotify.com/artist/5hRlXrAjvQ7HEa3CSRYaSK) | [Pehli Baar](https://open.spotify.com/album/1aKx5Sx4JrTG1YIZKCc8AM) | 2:57 | 2023-12-15 |  |
 | [Piya Se Mila De](https://open.spotify.com/track/4Z2MfpavuPU4dNJUohBGRo) | [Ujwal Nagar](https://open.spotify.com/artist/09GQxWaCQICsreFokLcbzc), [Anindo Bose](https://open.spotify.com/artist/1G2v9z0cxtBy5FMHvZB5Hr) | [Piya Se Mila De](https://open.spotify.com/album/6Kr7joSInnPV3gWBRj5xN2) | 4:26 | 2024-01-09 |  |

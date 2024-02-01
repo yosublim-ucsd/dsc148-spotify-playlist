@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 32366,
+  "num_followers": 32390,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmEyMTg5NzMxMGZhNDIzZGJlNzhiNjk1M2MzMjYwMmM0ZTViODZk",
+  "snapshot_id": "MCxlOGRhM2RiOWUwZWRmZWU0NzZkMzY3NTY1NGI3N2ExNjMzZGE3NTQx",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Dusty Showbiz",
-        "url": "https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 178040,
-      "name": "Dusty Showbiz",
-      "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "The Attention Deficit Track",
         "url": "https://open.spotify.com/album/45KWFCVez0XRbv74zCYSTc"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 228420,
       "name": "The Attention Deficit Track - Edit",
       "url": "https://open.spotify.com/track/7AKaUvMxAw88jMdy9wXYFW"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Dusty Showbiz",
+        "url": "https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 178040,
+      "name": "Dusty Showbiz",
+      "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Broke Man",
-        "url": "https://open.spotify.com/album/1jp9pH3J4AD661hsZXudd7"
-      },
-      "artists": [
-        {
-          "name": "Thomas Newson",
-          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
-        }
-      ],
-      "duration_ms": 342717,
-      "name": "Broke Man",
-      "url": "https://open.spotify.com/track/3WyFv142ucafFuRqJAcogS"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/12quZo2PlX4wa0k6S1NveB"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Sublime Tech House, Vol. 20",
-        "url": "https://open.spotify.com/album/1JftMTvxojkM6pe9C1yFAk"
+        "name": "Broke Man",
+        "url": "https://open.spotify.com/album/1jp9pH3J4AD661hsZXudd7"
       },
       "artists": [
         {
-          "name": "Reblok",
-          "url": "https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn"
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
         }
       ],
-      "duration_ms": 176264,
-      "name": "Slim Shady",
-      "url": "https://open.spotify.com/track/4SWHIURgjr6c3B7J7TxorD"
+      "duration_ms": 342717,
+      "name": "Broke Man",
+      "url": "https://open.spotify.com/track/3WyFv142ucafFuRqJAcogS"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1099,6 +1083,22 @@
       "duration_ms": 190200,
       "name": "Running from the Noise - Edit",
       "url": "https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Sublime Tech House, Vol. 20",
+        "url": "https://open.spotify.com/album/1JftMTvxojkM6pe9C1yFAk"
+      },
+      "artists": [
+        {
+          "name": "Reblok",
+          "url": "https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn"
+        }
+      ],
+      "duration_ms": 176264,
+      "name": "Slim Shady",
+      "url": "https://open.spotify.com/track/4SWHIURgjr6c3B7J7TxorD"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Playing With Foc...",
+        "url": "https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7"
+      },
+      "artists": [
+        {
+          "name": "Paco Osuna",
+          "url": "https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3"
+        },
+        {
+          "name": "Iglesias",
+          "url": "https://open.spotify.com/artist/3urGFEv1zqwK24gupip690"
+        }
+      ],
+      "duration_ms": 390000,
+      "name": "Playing With Foc...",
+      "url": "https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Stutter EP",
         "url": "https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV"
       },
@@ -1267,6 +1287,38 @@
       "duration_ms": 233333,
       "name": "Stutter",
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "No Bueno (Extended Mix)",
+        "url": "https://open.spotify.com/album/6z3pZ6w15ymHLm4dyOHo6u"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 350125,
+      "name": "No Bueno (Extended Mix)",
+      "url": "https://open.spotify.com/track/3Ayzf6IFTLutVUf9Hyxx2d"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "This Energy EP",
+        "url": "https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "This Energy",
+      "url": "https://open.spotify.com/track/0FAIsPkDqH7IYxVtetwvrU"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1291,22 +1343,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "No Bueno (Extended Mix)",
-        "url": "https://open.spotify.com/album/6z3pZ6w15ymHLm4dyOHo6u"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 350125,
-      "name": "No Bueno (Extended Mix)",
-      "url": "https://open.spotify.com/track/3Ayzf6IFTLutVUf9Hyxx2d"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Single Kiss",
         "url": "https://open.spotify.com/album/4la24fDXi6Mvc0HMmHijhf"
       },
@@ -1319,22 +1355,6 @@
       "duration_ms": 232000,
       "name": "Single Kiss",
       "url": "https://open.spotify.com/track/1mSQFLT4CEEdJdtby96FUL"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "This Energy EP",
-        "url": "https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "This Energy",
-      "url": "https://open.spotify.com/track/0FAIsPkDqH7IYxVtetwvrU"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1355,26 +1375,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "World Is Empty",
-        "url": "https://open.spotify.com/album/6XEry2Mab6D2CmMJMSQdNl"
-      },
-      "artists": [
-        {
-          "name": "Jansons",
-          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
-        },
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
-        }
-      ],
-      "duration_ms": 196030,
-      "name": "World Is Empty",
-      "url": "https://open.spotify.com/track/2nXrGRA0qLwXtZ4QtQD6Jg"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "What's Your Name",
         "url": "https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59"
       },
@@ -1391,22 +1391,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Playing With Foc...",
-        "url": "https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7"
+        "name": "World Is Empty",
+        "url": "https://open.spotify.com/album/6XEry2Mab6D2CmMJMSQdNl"
       },
       "artists": [
         {
-          "name": "Paco Osuna",
-          "url": "https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3"
+          "name": "Jansons",
+          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
         },
         {
-          "name": "Iglesias",
-          "url": "https://open.spotify.com/artist/3urGFEv1zqwK24gupip690"
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
         }
       ],
-      "duration_ms": 390000,
-      "name": "Playing With Foc...",
-      "url": "https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB"
+      "duration_ms": 196030,
+      "name": "World Is Empty",
+      "url": "https://open.spotify.com/track/2nXrGRA0qLwXtZ4QtQD6Jg"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "What We Got",
-        "url": "https://open.spotify.com/album/2gydMIjZO5J7bqjNaYC8xy"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "What We Got",
-      "url": "https://open.spotify.com/track/0VSqvYrv6dK7W6oCBmNDWQ"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "N NIGHT",
         "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 454000,
       "name": "N NIGHT",
       "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "What We Got",
+        "url": "https://open.spotify.com/album/2gydMIjZO5J7bqjNaYC8xy"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "What We Got",
+      "url": "https://open.spotify.com/track/0VSqvYrv6dK7W6oCBmNDWQ"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Lucky Bastard",
-        "url": "https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ"
-      },
-      "artists": [
-        {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
-        }
-      ],
-      "duration_ms": 185759,
-      "name": "Lucky Bastard",
-      "url": "https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "YAP EP",
         "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
       },
@@ -1539,22 +1523,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Thrill Me (LO'99 Remix)",
-        "url": "https://open.spotify.com/album/3EK4iKouxMfsNlD8EXAUGj"
+        "name": "Lucky Bastard",
+        "url": "https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ"
       },
       "artists": [
         {
-          "name": "Junior Jack",
-          "url": "https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k"
-        },
-        {
-          "name": "LO'99",
-          "url": "https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy"
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
         }
       ],
-      "duration_ms": 186018,
-      "name": "Thrill Me - LO'99 Remix",
-      "url": "https://open.spotify.com/track/0AiLHyJny7YiQ0GT8jCbdR"
+      "duration_ms": 185759,
+      "name": "Lucky Bastard",
+      "url": "https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1579,6 +1559,26 @@
       "duration_ms": 215642,
       "name": "Targa - Logic1000 Remix",
       "url": "https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Thrill Me (LO'99 Remix)",
+        "url": "https://open.spotify.com/album/3EK4iKouxMfsNlD8EXAUGj"
+      },
+      "artists": [
+        {
+          "name": "Junior Jack",
+          "url": "https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k"
+        },
+        {
+          "name": "LO'99",
+          "url": "https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy"
+        }
+      ],
+      "duration_ms": 186018,
+      "name": "Thrill Me - LO'99 Remix",
+      "url": "https://open.spotify.com/track/0AiLHyJny7YiQ0GT8jCbdR"
     },
     {
       "added_at": "2024-01-26 05:00:00",

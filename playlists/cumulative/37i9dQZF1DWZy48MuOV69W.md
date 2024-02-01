@@ -4,7 +4,7 @@
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-107 songs - 5 hr 46 min
+108 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/0n4aPxuxJ9QojwjNpVD4yT) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Christmas With Sinatra And Friends](https://open.spotify.com/album/6llYu8gxmvS2WrbVdGmoti) | 3:17 | 2021-12-21 | 2022-07-29 |
 | [The Christmas Song \(Chestnuts Roasting on an Open Fire\)](https://open.spotify.com/track/7o6agk7Uy395tk8ZYM5MEi) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Christmas Songs](https://open.spotify.com/album/3m5GSvrmG2wnDiiJsMm6Om) | 3:18 | 2021-12-21 | 2022-11-25 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2022-11-24 | 2023-11-11 |
-| [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 | 2022-11-10 |  |
+| [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 | 2022-11-10 | 2024-02-01 |
+| [The Christmas Waltz](https://open.spotify.com/track/4eEdv0ZBTtWh8zS41SeUp8) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:47 | 2023-12-19 |  |
 | [The Christmas Waltz](https://open.spotify.com/track/4DV9KToOaC0khx2MqOZstE) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Christmas Carousel](https://open.spotify.com/album/0IbfiaKXOENE7Wn3SzLZFd) | 2:53 | 2021-12-21 | 2022-11-11 |
 | [The Christmas Waltz](https://open.spotify.com/track/34Ri3Om2B8uVwtH0nINZKh) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 2:53 | 2021-12-21 | 2022-07-29 |
 | [The First Snowfall](https://open.spotify.com/track/5RIh3Tsq9U7CAvivB2iB7q) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [The Voice Of Christmas \- The Complete Decca Christmas Songbook](https://open.spotify.com/album/2FQOz20SAkrmTXtce20DFA) | 3:08 | 2022-12-22 |  |

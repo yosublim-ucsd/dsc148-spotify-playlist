@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 
 > This is Heroes Del Silencio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,235 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,298 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 | 49 | [Días De Borrasca \(Víspera De Resplandores\) \(Direct](https://open.spotify.com/track/0UtqkyNb7h29EvFyYxgG3R) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Parasiempre](https://open.spotify.com/album/3hLMxN4If95jDUnv4ebMxI) | 5:57 |
 | 50 | [Medicina húmeda](https://open.spotify.com/track/6MnOGlJkoOKRrkVnzw2dcE) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Rarezas](https://open.spotify.com/album/40IpNBUT1eth8c6UTOrBxh) | 3:01 |
 
-Snapshot ID: `Mjg0NDM2MzksMDAwMDAwMDAyNjVlYTVmMGY5ZWFiYTEwNDhiNThlY2MyMzlkZjI1NQ==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDA0OTVhOWY2YTlmYjQ3MWY1YmE2MGMyZmYwOTYzNWZlOA==`

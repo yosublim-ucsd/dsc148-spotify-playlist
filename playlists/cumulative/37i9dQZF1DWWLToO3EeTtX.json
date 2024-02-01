@@ -60,7 +60,7 @@
     {
       "album": {
         "name": "Anybody",
-        "url": "https://open.spotify.com/album/4IVX8QJBWkhdLJwrluCxb5"
+        "url": "https://open.spotify.com/album/3lUK0JjHjl73ZUqqTurIgx"
       },
       "artists": [
         {
@@ -75,6 +75,28 @@
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 197595,
+      "name": "Anybody",
+      "url": "https://open.spotify.com/track/5FXDvdRm7BSkPERrUAMZEh"
+    },
+    {
+      "album": {
+        "name": "Anybody",
+        "url": "https://open.spotify.com/album/4IVX8QJBWkhdLJwrluCxb5"
+      },
+      "artists": [
+        {
+          "name": "shae",
+          "url": "https://open.spotify.com/artist/0IBc6Ac1cKD2yP84TTmJij"
+        },
+        {
+          "name": "WIMY",
+          "url": "https://open.spotify.com/artist/5KOmVrCheNYiqcB974SI3Z"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-01",
       "duration_ms": 197595,
       "name": "Anybody",
       "url": "https://open.spotify.com/track/6D7ub5xZYc7oLq6JDFIm8c"

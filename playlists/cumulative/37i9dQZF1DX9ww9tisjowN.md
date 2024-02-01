@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Creepy Nuts
 
-345 songs - 20 hr 1 min
+346 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-07-06 |  |
 | [飛天](https://open.spotify.com/track/6MId4xKGdUNhndCtpZC4Bl) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [飛天](https://open.spotify.com/album/2zSKObXruYrvHWrAN8UOgD) | 3:03 | 2023-07-06 | 2023-12-08 |
 | [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 | 2023-10-12 | 2023-11-17 |
-| [＆疾走\(Reverse\) ft.花譜](https://open.spotify.com/track/0G2X34hx1ks0LRf2Zwa9NT) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [＆疾走 \(Deluxe ver.\)](https://open.spotify.com/album/4VQgTffnaflvIgx2jFz0IE) | 3:29 | 2024-01-30 |  |
+| [＆SPRINT\(Reverse\) ft.KAF](https://open.spotify.com/track/0FC5xVOB5k7D7oP1mi8VzN) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [&SPRINT \(Deluxe ver.\)](https://open.spotify.com/album/77StVOdnNzsN4BAU98cuir) | 3:29 | 2024-01-30 |  |
+| [＆疾走\(Reverse\) ft.花譜](https://open.spotify.com/track/0G2X34hx1ks0LRf2Zwa9NT) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [＆疾走 \(Deluxe ver.\)](https://open.spotify.com/album/4VQgTffnaflvIgx2jFz0IE) | 3:29 | 2024-01-30 | 2024-02-01 |
 
 \*This playlist was first scraped on 2023-05-09. Prior content cannot be recovered.

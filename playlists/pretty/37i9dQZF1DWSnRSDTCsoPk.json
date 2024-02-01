@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 625682,
+  "num_followers": 625914,
   "original_name": "Energy Booster: K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjVmMjM1MDYwMzljNGFmOTAzMTQwNWRhYjk1OWFiNjAyODQ0Mjky",
+  "snapshot_id": "MCxmMjM4OGQzNjM2MmE5NzQ3OWU0ZTkyMTA0ZDJjMmY2ZTM0ODFkYzgy",
   "tracks": [
     {
       "added_at": "2023-10-18 07:32:49",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-10-18 07:32:49",
       "album": {
-        "name": "THE WORLD EP.2 : OUTLAW",
-        "url": "https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 187310,
-      "name": "BOUNCY (K-HOT CHILLI PEPPERS)",
-      "url": "https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX"
-    },
-    {
-      "added_at": "2023-10-18 07:32:49",
-      "album": {
         "name": "BSS 1st Single Album 'SECOND WIND'",
         "url": "https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 204466,
       "name": "Fighting (Feat. Lee Young Ji)",
       "url": "https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS"
+    },
+    {
+      "added_at": "2023-10-18 07:32:49",
+      "album": {
+        "name": "THE WORLD EP.2 : OUTLAW",
+        "url": "https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 187310,
+      "name": "BOUNCY (K-HOT CHILLI PEPPERS)",
+      "url": "https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX"
     },
     {
       "added_at": "2023-10-18 07:32:49",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-10-18 07:32:49",
       "album": {
-        "name": "HEAT",
-        "url": "https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "I Want That",
-      "url": "https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L"
-    },
-    {
-      "added_at": "2023-10-18 07:32:49",
-      "album": {
         "name": "THE SECOND STEP : CHAPTER ONE",
         "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 184117,
       "name": "JIKJIN",
       "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
+    },
+    {
+      "added_at": "2023-10-18 07:32:49",
+      "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "I Want That",
+      "url": "https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L"
     },
     {
       "added_at": "2023-10-18 07:32:49",

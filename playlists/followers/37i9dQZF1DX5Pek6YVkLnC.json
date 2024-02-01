@@ -1,7 +1,7 @@
 {
-  "2024-01-31": 230837,
+  "2024-02-01": 230837,
   "date_first_scraped": "2022-05-26",
-  "description": "P fkn R. Esto llega al choliiiii. Cover: Eladio Carrion",
+  "description": "P fkn R. Esto llega al choliiiii. Cover: ROA",
   "name": "Rompiendo: Puerto Rico",
   "tracks": [
     {
@@ -923,6 +923,24 @@
       "duration_ms": 148965,
       "name": "BBY BOO",
       "url": "https://open.spotify.com/track/1yDJAXPuXbyhU5tNGGXlPh"
+    },
+    {
+      "album": {
+        "name": "Bellakita",
+        "url": "https://open.spotify.com/album/0xnUNAewtVl83rVHz9b8RS"
+      },
+      "artists": [
+        {
+          "name": "C Dobleta",
+          "url": "https://open.spotify.com/artist/6dq4QvdkdTQzUKQxB3G5SE"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182474,
+      "name": "Bellakita",
+      "url": "https://open.spotify.com/track/2HaBrXZV3i5AiUDzuZaQbJ"
     },
     {
       "album": {
@@ -2495,7 +2513,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 127659,
       "name": "Ella Mata",
       "url": "https://open.spotify.com/track/7JqgPZVfpwFVPDhb4mSjOJ"
@@ -2627,7 +2645,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 196488,
       "name": "en mis senti",
       "url": "https://open.spotify.com/track/6ISpA3TnDKUT7DrZniNDSi"
@@ -2671,6 +2689,24 @@
       "duration_ms": 179032,
       "name": "Estamos Arriba",
       "url": "https://open.spotify.com/track/4K5cnD7P21Ny0hvbFKXIBc"
+    },
+    {
+      "album": {
+        "name": "estrella$ en el techo",
+        "url": "https://open.spotify.com/album/77BE6SvUOdy6ICjDpBKGqK"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140916,
+      "name": "estrella$ en el techo",
+      "url": "https://open.spotify.com/track/09RdJb9LlrVyNDyaSr2yF8"
     },
     {
       "album": {
@@ -2939,7 +2975,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 149032,
       "name": "Fria",
       "url": "https://open.spotify.com/track/7iIREj4nlpvuDQqhj1DB4e"
@@ -7727,6 +7763,24 @@
       "duration_ms": 148143,
       "name": "Un Verano Sin Ti",
       "url": "https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS"
+    },
+    {
+      "album": {
+        "name": "UNA NOTi",
+        "url": "https://open.spotify.com/album/3lxVIFq3Bv8oMoLwyFKbwG"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "UNA NOTi",
+      "url": "https://open.spotify.com/track/3siASmLFyTye8QbGkZQOlz"
     },
     {
       "album": {

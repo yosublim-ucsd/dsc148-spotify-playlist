@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 131149,
+  "2024-02-01": 131224,
   "date_first_scraped": "2021-12-28",
   "description": "Music to encourage emotional and physical healing through Reiki. ",
   "name": "Reiki Healing",
@@ -1202,6 +1202,24 @@
     },
     {
       "album": {
+        "name": "Jerome Dreams",
+        "url": "https://open.spotify.com/album/5IqUyi9v65q2HqrDzO4a19"
+      },
+      "artists": [
+        {
+          "name": "Vera Eikon",
+          "url": "https://open.spotify.com/artist/5GWPPcK9rmFZvw8Gy4TQOj"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189095,
+      "name": "Jerome Dreams",
+      "url": "https://open.spotify.com/track/4Gkf9SHCO3PvlLhjOTGU0W"
+    },
+    {
+      "album": {
         "name": "Kalmte",
         "url": "https://open.spotify.com/album/1m6lov2C97FP0NesObnEeG"
       },
@@ -1325,6 +1343,24 @@
       "duration_ms": 188000,
       "name": "Mystique Garden",
       "url": "https://open.spotify.com/track/1kqdfOEMGEtjMoPnD69JKn"
+    },
+    {
+      "album": {
+        "name": "Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/7sGTpsv4C3LsSFrPk8LiY2"
+      },
+      "artists": [
+        {
+          "name": "Abel de Paula",
+          "url": "https://open.spotify.com/artist/0D7gbspnUTEMXhKGUz6jJ7"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163750,
+      "name": "Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/7w9Lh7UjwwcF5H3lkIEQg0"
     },
     {
       "album": {
@@ -1963,6 +1999,24 @@
       "duration_ms": 302386,
       "name": "Root Chakra - Evolution - regular",
       "url": "https://open.spotify.com/track/5YGKEzAvgp7CrbDR7ocU5B"
+    },
+    {
+      "album": {
+        "name": "Roseate",
+        "url": "https://open.spotify.com/album/7oizxw0sAy3QqDUYaJPmKD"
+      },
+      "artists": [
+        {
+          "name": "Zane Cassidy",
+          "url": "https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176350,
+      "name": "Roseate",
+      "url": "https://open.spotify.com/track/1j3Hp5CmwqH5uKTi6fVJ6t"
     },
     {
       "album": {

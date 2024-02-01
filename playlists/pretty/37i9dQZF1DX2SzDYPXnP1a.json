@@ -1,12 +1,12 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 53619,
+  "num_followers": 53742,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzBiZGJjYjdiOTYyYjQyNDhkYTQ4ZDk4ZmVjNTA5MmYxNjY5NmM0",
+  "snapshot_id": "MCxmNTkwOWM5ZWVlNGFlMzcxMGEyODRlMjUzYjFmNjJhYzllYjI0YzFh",
   "tracks": [
     {
       "added_at": "2024-01-12 05:01:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "Miss Me More",
+      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
         "name": "Cowboy Killer",
         "url": "https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf"
       },
@@ -271,22 +287,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Greenbroke",
-        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
-      },
-      "artists": [
-        {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
-        }
-      ],
-      "duration_ms": 187957,
-      "name": "Don't Come Lookin'",
-      "url": "https://open.spotify.com/track/3CdUlano6ybGrlycGfEVgt"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "Crashlanded",
         "url": "https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4"
       },
@@ -303,18 +303,18 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+        "name": "Greenbroke",
+        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
         }
       ],
-      "duration_ms": 192840,
-      "name": "Miss Me More",
-      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
+      "duration_ms": 187957,
+      "name": "Don't Come Lookin'",
+      "url": "https://open.spotify.com/track/3CdUlano6ybGrlycGfEVgt"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -803,18 +803,22 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Tornillo",
-        "url": "https://open.spotify.com/album/4U5NlmzgbAlqmHIEq8L8nT"
+        "name": "High Heels",
+        "url": "https://open.spotify.com/album/4V5e2pi3YLuG477lhSbTCI"
       },
       "artists": [
         {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
         }
       ],
-      "duration_ms": 295776,
-      "name": "John Wayne",
-      "url": "https://open.spotify.com/track/2fMFGxKTLDYroA9v6eKv9N"
+      "duration_ms": 155032,
+      "name": "High Heels",
+      "url": "https://open.spotify.com/track/00200QXpcqpq9eOm2AYXIL"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -839,22 +843,18 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "High Heels",
-        "url": "https://open.spotify.com/album/4V5e2pi3YLuG477lhSbTCI"
+        "name": "Tornillo",
+        "url": "https://open.spotify.com/album/4U5NlmzgbAlqmHIEq8L8nT"
       },
       "artists": [
         {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Walker Hayes",
-          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
         }
       ],
-      "duration_ms": 155032,
-      "name": "High Heels",
-      "url": "https://open.spotify.com/track/00200QXpcqpq9eOm2AYXIL"
+      "duration_ms": 295776,
+      "name": "John Wayne",
+      "url": "https://open.spotify.com/track/2fMFGxKTLDYroA9v6eKv9N"
     },
     {
       "added_at": "2024-01-12 05:01:00",

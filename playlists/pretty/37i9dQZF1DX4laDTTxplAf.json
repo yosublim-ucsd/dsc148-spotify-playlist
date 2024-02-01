@@ -1,12 +1,12 @@
 {
   "description": "All 00s, all ballads. Cover: Norah Jones",
-  "num_followers": 266102,
+  "num_followers": 266180,
   "original_name": "00s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWUyZDhlM2M4Y2E1NWE5ODZjNzQ1ODMyZWY3ZjAwMjNhNzBmNzU3",
+  "snapshot_id": "MCxmYjMyMmNhMzZmN2IwY2ExNDhmNGM2MDU1NDc3NTViMzIxN2FiNTY3",
   "tracks": [
     {
       "added_at": "2023-11-21 05:15:50",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-11-21 05:15:50",
       "album": {
-        "name": "Songs In A Minor",
-        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Fallin'",
-      "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
-    },
-    {
-      "added_at": "2023-11-21 05:15:50",
-      "album": {
         "name": "Lifehouse",
         "url": "https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 195493,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"
+    },
+    {
+      "added_at": "2023-11-21 05:15:50",
+      "album": {
+        "name": "Songs In A Minor",
+        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
     },
     {
       "added_at": "2023-11-21 05:15:50",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-11-21 05:15:50",
       "album": {
-        "name": "Get Lifted",
-        "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
+        "name": "Never Gone",
+        "url": "https://open.spotify.com/album/1Wz9PANLXjaOskUv575hRV"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
         }
       ],
-      "duration_ms": 281466,
-      "name": "Ordinary People",
-      "url": "https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI"
+      "duration_ms": 239586,
+      "name": "Incomplete",
+      "url": "https://open.spotify.com/track/0CnD7Hiw6pae6rLsZw5q5W"
     },
     {
       "added_at": "2023-11-21 05:15:50",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-11-21 05:15:50",
       "album": {
-        "name": "Never Gone",
-        "url": "https://open.spotify.com/album/1Wz9PANLXjaOskUv575hRV"
+        "name": "Get Lifted",
+        "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
       },
       "artists": [
         {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 239586,
-      "name": "Incomplete",
-      "url": "https://open.spotify.com/track/0CnD7Hiw6pae6rLsZw5q5W"
+      "duration_ms": 281466,
+      "name": "Ordinary People",
+      "url": "https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI"
     },
     {
       "added_at": "2023-11-21 05:15:50",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-11-21 05:15:50",
       "album": {
-        "name": "Oops!... I Did It Again",
-        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
       },
       "artists": [
         {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
         }
       ],
-      "duration_ms": 230933,
-      "name": "Don't Let Me Be the Last to Know",
-      "url": "https://open.spotify.com/track/3OitWDgR4SzAUOm3TBmvhw"
+      "duration_ms": 244106,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/5OGkKx8jP0A5KSULEc6XYZ"
     }
   ],
   "unique_name": "00s Ballads",

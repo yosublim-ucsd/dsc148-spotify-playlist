@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Do you remember when you fell in love with emo and post\-hardcore? Cover: Weezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,800 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,796 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 37 | [Cut Your Ribbon](https://open.spotify.com/track/1DYud4lcStjYxJ8JBBva6g) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Wiretap Scars](https://open.spotify.com/album/2Lg6QTklBKk6eIJs5onQQl) | 3:04 |
 | 38 | [Liberation Frequency](https://open.spotify.com/track/6aM4iOuWyRQShk8uRaLNqN) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [The Shape Of Punk To Come \(Deluxe Edition\)](https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2) | 4:10 |
 | 39 | [Tip Your Bartender](https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 2:59 |
-| 40 | [Napoleon Solo](https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 4:48 |
-| 41 | [Killing A Camera](https://open.spotify.com/track/4pXESY1mSf9tXH6ODOw8PV) | [Braid](https://open.spotify.com/artist/36gdsrHzKZ0Wyb3uH7ZbEv) | [Frame & Canvas](https://open.spotify.com/album/4WBDw3hnJTvWXXDaCNKVqJ) | 2:33 |
+| 40 | [Killing A Camera](https://open.spotify.com/track/4pXESY1mSf9tXH6ODOw8PV) | [Braid](https://open.spotify.com/artist/36gdsrHzKZ0Wyb3uH7ZbEv) | [Frame & Canvas](https://open.spotify.com/album/4WBDw3hnJTvWXXDaCNKVqJ) | 2:33 |
+| 41 | [Napoleon Solo](https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 4:48 |
 | 42 | [Undone](https://open.spotify.com/track/6k7TQSB0vW7EuSJs9vEvNl) | [Failure](https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j) | [Magnified](https://open.spotify.com/album/5LTiLtGa8g0TWWcjL2ymnR) | 4:27 |
 | 43 | [Red & Blue Jeans](https://open.spotify.com/track/0j3m9AfsZfanscT1uLrVk1) | [The Promise Ring](https://open.spotify.com/artist/5li5GfWFVl73vu7r2bGitu) | [Nothing Feels Good](https://open.spotify.com/album/3jnvo99sNDXcVdlJmrDXOO) | 2:55 |
 | 44 | [Back And To The Left](https://open.spotify.com/track/7f3tPmsyBQc0sua0SAINlZ) | [Texas Is The Reason](https://open.spotify.com/artist/7rXo5QTwwFBYZ5Z3veUVg8) | [Do You Know Who You Are?: The Complete Collection](https://open.spotify.com/album/3NXykL2XzIRmMEiMKjTkN7) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 49 | [Travel By Telephone](https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 2:47 |
 | 50 | [A Life of Possibilities](https://open.spotify.com/track/3TKWCQMU7xYEEslFXsj51i) | [Dismemberment Plan](https://open.spotify.com/artist/2JpHk8yju1DH1l3c9sXzOS) | [Emergency & I](https://open.spotify.com/album/0Y0V072vxDWEvCelPBaWAO) | 4:34 |
 
-Snapshot ID: `MCxhMmQ5NDI4Y2IxN2M1ZDAxZjAzYmIxNzI0NzFmNGUwM2E0NWIzYWFh`
+Snapshot ID: `MCxiZTNjMzc2OGVjNTgwZjYyYWQ2YTIxZjcyMzhjM2I4NDYzYTg4Mzg1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Christone "Kingfish" Ingram
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,212 likes - 100 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,242 likes - 100 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 99 | [Keep On Growing \- Live](https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Live From The Fox Oakland](https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0) | 10:50 |
 | 100 | [Can't Let Go \- Live \(Remastered\)](https://open.spotify.com/track/4CCWEuncGYBFd46UOk3FHO) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [I’m A Woman \[Live \(Remastered\)\]](https://open.spotify.com/album/2lz9vEEJCu5ucaaxWtNSr0) | 5:52 |
 
-Snapshot ID: `MCw1YTg0MzQ0ZTJlNzgwMDA4NTk4OTJkOTY4ZGRmZmUwY2VkZmYxYmRh`
+Snapshot ID: `MCwzYjg1YzJkNGI3YmVmZDZjYTIzMmNlNTcxMGJlNmYyMmU3ZDMwN2Rm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Andree Right Hand
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,312 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,366 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 13 | [Chơi Như Tụi Mỹ](https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh) | [Chơi Như Tụi Mỹ](https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A) | 2:40 |
 | 14 | [Chỉ Một Đêm Nữa Thôi](https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:21 |
 | 15 | [Chìm Sâu](https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Chìm Sâu](https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs) | 2:36 |
-| 16 | [Dám Rực Rỡ](https://open.spotify.com/track/4R7UV2BCJ2bt9hh6jFOgId) | [WeChoice](https://open.spotify.com/artist/083jWNEVYIU5VwPTPaER5D), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Kai Dinh](https://open.spotify.com/artist/4apziP0xAn2FvX7brihATE), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Dám Rực Rỡ](https://open.spotify.com/album/6wTRYzuUxJw4XOsHpzkYo0) | 3:48 |
+| 16 | [Dám Rực Rỡ](https://open.spotify.com/track/4R7UV2BCJ2bt9hh6jFOgId) | [WeChoice](https://open.spotify.com/artist/083jWNEVYIU5VwPTPaER5D), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Kai Đinh](https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Dám Rực Rỡ](https://open.spotify.com/album/6wTRYzuUxJw4XOsHpzkYo0) | 3:48 |
 | 17 | [Hà Nội \(ft\. VSTRA\)](https://open.spotify.com/track/0SLhB9JLM4Ksz1XdwK3aQD) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 2:45 |
 | 18 | [Exit Sign](https://open.spotify.com/track/3UX7FjJDl6RodnWekzFwEB) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [marzuz](https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/3Im5W6U3uL6A5fzahEG05u) | 3:21 |
 | 19 | [An Thần](https://open.spotify.com/track/5T6j0rfpCDBzAxC8Fpd0N7) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [An Thần](https://open.spotify.com/album/1GZA9k0UojVkU7KFoVVRlC) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [Cypher Mashup \(Onionn\. Remix\) \(live from GENfest 23\)](https://open.spotify.com/track/4Kz929bdICFzsdlY8m8Vn5) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Onionn.](https://open.spotify.com/artist/25M5YMbLCbYDSFPhQXYE8c) | [Low G \(live from GENfest 23\)](https://open.spotify.com/album/3fcl86ADbtIA0u9GPPX9kr) | 2:58 |
 | 50 | [Chim Sẻ & Dâu Tây \- Stage Version](https://open.spotify.com/track/6WACMD2SUMiLK5dHRXlm2s) | [Dế Choắt \(DC\)](https://open.spotify.com/artist/1KLRO4UHKmiwS0grGzFdgT) | [1St.](https://open.spotify.com/album/5xQZPhFLzj9o3iplCfMMH7) | 2:05 |
 
-Snapshot ID: `MCxkMmI2NmE3NzBlOTUwZDkxY2Y1NzkyMTA2OWFmOWQwMWQzMDg4MmU1`
+Snapshot ID: `MCw3ODNiY2Y3YTdlYWVlZTRkNTM3MzdiZDg0MGE0ZDMzYzVjNzY2M2U4`

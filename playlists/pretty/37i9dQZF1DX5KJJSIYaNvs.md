@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to women at full volume\. Cover \- Shipra Goyal
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,747 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,755 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shart Lagake](https://open.spotify.com/track/1IffRKiB73SXuSIY216UXK) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Shart Lagake](https://open.spotify.com/album/6WYypqpmi4WzMEhecA7NPX) | 2:31 |
 | 2 | [Love Like That \(feat\. Ali Sethi\)](https://open.spotify.com/track/6vBuBiZkJDabpSEZqZFYNS) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Love Like That \(feat\. Ali Sethi\)](https://open.spotify.com/album/370o1v7cPpNPuFnOGEgVCN) | 2:40 |
-| 3 | [Meri Zindagi](https://open.spotify.com/track/3GHA1aRyoCsYlp30fW1Pi6) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8) | [Meri Zindagi](https://open.spotify.com/album/4YhhbB6N1Lyw44XnYD7KMV) | 3:40 |
+| 3 | [Meri Zindagi](https://open.spotify.com/track/3GHA1aRyoCsYlp30fW1Pi6) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Meri Zindagi](https://open.spotify.com/album/4YhhbB6N1Lyw44XnYD7KMV) | 3:40 |
 | 4 | [Besharam Rang \(From "Pathaan"\)](https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Besharam Rang \(From "Pathaan"\)](https://open.spotify.com/album/5CvI5ppsG522pV554VLezD) | 4:18 |
 | 5 | [Hold On](https://open.spotify.com/track/3TgC7pFFpyzq0OK0M7bJ6y) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um), [Youngveer](https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI) | [Hold On](https://open.spotify.com/album/5HQX1XxtrTDVMUnf9okqVt) | 3:06 |
 | 6 | [Aadat](https://open.spotify.com/track/5tqjJD5fD85iNMFxuLTaoN) | [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl) | [Aadat](https://open.spotify.com/album/2QGgqhrl1kWtxhkqYN0BaJ) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 49 | [Mehabooba](https://open.spotify.com/track/4hcIkSjuNMYd2bREG38xgH) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [KGF Chapter 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qOmNuXm9SoGIaTb6px0j1) | 3:33 |
 | 50 | [Kabhii Tumhhe \- Female Version](https://open.spotify.com/track/330joCgJHJGHFLOgJCvNEM) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Shershaah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5BLwx5IlfoWOrjJJ3i7gbK) | 3:38 |
 
-Snapshot ID: `MCw2NjdmOTNiNjA2ZjVjMDljYjVjOTM2M2MzMDRkMDNlYjc1ZDhiOWY2`
+Snapshot ID: `MCwwNWUxNTE3OTNhNmM2MzAxYTk0MzgzMjQyNmMwNmIzYmFmMGUxMTU0`

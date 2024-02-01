@@ -4,7 +4,7 @@
 
 > The biggest Japanese rock hits right now\.  Cover: SUPER BEAVER　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-1,248 songs - 3 day 6 hr 16 min
+1,249 songs - 3 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Kitai to Yokan](https://open.spotify.com/track/3uXhwYBekTnCBSw1EOqPTr) | [Skirt](https://open.spotify.com/artist/3PVdr6pwvDMZ9UKTCb1Tkd) | [Kitai to Yokan](https://open.spotify.com/album/4e1KSg9V4VqHn87Q9eBLOv) | 3:36 | 2023-09-12 | 2023-10-11 |
 | [Knock Out\(Album Mix\)](https://open.spotify.com/track/3J6zAKrJoz24YsoEYtWLSh) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [OT WORKS Ⅲ \(Selected ver.\)](https://open.spotify.com/album/5SCmQmrYIKFsnBA5Ml2kCZ) | 3:45 | 2023-10-03 | 2023-10-18 |
 | [Koewo](https://open.spotify.com/track/0VkBmuJMv574JUlQC0gDot) | [kariyushi58](https://open.spotify.com/artist/0JUEsKG18QuDt6SmyHDrnL) | [Koewo](https://open.spotify.com/album/56RUz6PPkjaW0iJTsrujXC) | 3:59 | 2023-05-09 | 2023-06-14 |
+| [Kogare](https://open.spotify.com/track/3n3yRUvDTKscIxwnYG7t8S) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [onsei](https://open.spotify.com/album/17JswaRY80Z0aoRiBz3V2N) | 3:49 | 2024-01-30 |  |
 | [Kohaku](https://open.spotify.com/track/16OedAwrCLAUctyBCgO45o) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Kohaku](https://open.spotify.com/album/2ISxhwPjPjLKNyow9Eg5dU) | 4:03 | 2023-06-06 | 2023-07-19 |
 | [Koiwamoumoku](https://open.spotify.com/track/01cPDnLoiWyCl0Sj9G5xjd) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Koiwamoumoku](https://open.spotify.com/album/14Ef8OVGMVRFNsBdeCmRxi) | 3:29 | 2024-01-23 |  |
 | [Koiwoshite](https://open.spotify.com/track/3hvEYruyX0x0zZXoTZ5RgE) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Koiwoshite](https://open.spotify.com/album/6x0T33qsWWfVD24C6Lji91) | 3:59 | 2023-11-14 | 2024-01-10 |
@@ -707,7 +708,7 @@
 | [きらめくきもち](https://open.spotify.com/track/1il4JWtRPTqenADdwd1nxw) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [きらめくきもち](https://open.spotify.com/album/3T3gQxuV6JwbF7aBfyjnIv) | 3:47 | 2023-09-12 | 2023-10-11 |
 | [くそったれ人生最悪の](https://open.spotify.com/track/2qty9Rb1JDsE0rFm07PDa8) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [くそったれ人生最悪の](https://open.spotify.com/album/6QNYEdBLvhpKEJEozaRH8M) | 4:24 | 2023-02-14 | 2023-04-10 |
 | [くそったれ人生最悪の](https://open.spotify.com/track/6io2UWI9uzsPdDK8FHtN6a) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [くそったれ人生最悪の](https://open.spotify.com/album/7nQ435Y6QnPyoigXh3CJx4) | 4:24 | 2023-02-14 | 2023-02-16 |
-| [こがれ](https://open.spotify.com/track/1UpRK1N1DGTYSLaLmpdZw2) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [音生 \-onsei\-](https://open.spotify.com/album/684jExc4XxRfjR7na7l7sr) | 3:49 | 2024-01-30 |  |
+| [こがれ](https://open.spotify.com/track/1UpRK1N1DGTYSLaLmpdZw2) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [音生 \-onsei\-](https://open.spotify.com/album/684jExc4XxRfjR7na7l7sr) | 3:49 | 2024-01-30 | 2024-02-01 |
 | [ここいちばんの恋](https://open.spotify.com/track/1yzzXOgg9wowxAO9BHYIFd) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [ここいちばんの恋](https://open.spotify.com/album/5KKwbzCsLuaImEEijykKAw) | 4:08 | 2023-02-28 | 2023-03-15 |
 | [ことほぎ](https://open.spotify.com/track/5bNzSOlYpTNdTm5aZMgi8F) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ことほぎ](https://open.spotify.com/album/04muYXXquLz6xuOgh89zZv) | 3:21 | 2023-04-25 | 2023-06-30 |
 | [このままじゃ](https://open.spotify.com/track/2HIp2q3CAjJTxSsVfEKlni) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [SPIRAL](https://open.spotify.com/album/3YS2w784zqJBCAVGbsubJW) | 4:33 | 2023-03-14 | 2023-03-25 |

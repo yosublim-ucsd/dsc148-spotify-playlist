@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Letter",
+        "url": "https://open.spotify.com/album/5XOHCaEeZyiKWDMZ3h2zbZ"
+      },
+      "artists": [
+        {
+          "name": "BUMJIN",
+          "url": "https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215760,
+      "name": "A Letter",
+      "url": "https://open.spotify.com/track/0VdwOoAKPe9aGahkpllfkH"
+    },
+    {
+      "album": {
         "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 5",
         "url": "https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq"
       },
@@ -88,7 +106,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 218306,
       "name": "All About You",
       "url": "https://open.spotify.com/track/5MCARv92OMtNgUufLR3W4r"
@@ -132,7 +150,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 225120,
       "name": "Back In Time (The Moon during the Day X K.will)",
       "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
@@ -324,7 +342,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 196793,
       "name": "COVID-19 (feat. SUPERBEE)",
       "url": "https://open.spotify.com/track/32qLwcEpoKeutWxwrJM4FX"
@@ -364,7 +382,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 200933,
       "name": "Dear My Winter",
       "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
@@ -541,6 +559,24 @@
     },
     {
       "album": {
+        "name": "Fox Rain (The Moon during the Day)",
+        "url": "https://open.spotify.com/album/5RwN6UVJ0GaiOs92avu3hM"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241586,
+      "name": "Fox Rain (The Moon during the Day)",
+      "url": "https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz"
+    },
+    {
+      "album": {
         "name": "Fxxxnds",
         "url": "https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH"
       },
@@ -646,7 +682,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 238454,
       "name": "Hangang Gongwon",
       "url": "https://open.spotify.com/track/58DPUgbOVwsLfAOs2oQBk9"
@@ -909,6 +945,24 @@
     },
     {
       "album": {
+        "name": "If you change your mind",
+        "url": "https://open.spotify.com/album/3weNRiyxsmegdxmYnH458o"
+      },
+      "artists": [
+        {
+          "name": "2AM",
+          "url": "https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219746,
+      "name": "If you change your mind",
+      "url": "https://open.spotify.com/track/3j0gucP19lYwU0sSFezYFp"
+    },
+    {
+      "album": {
         "name": "If you lovingly call my name (GyeongseoYeji x Jeon Gunho)",
         "url": "https://open.spotify.com/album/1QD2UJupusQ9zBsldpvS3d"
       },
@@ -1086,7 +1140,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 236000,
       "name": "Like Yesterday",
       "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
@@ -1108,6 +1162,24 @@
       "duration_ms": 197930,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4oZfm9BPohSYNM3dMpV2KQ"
+    },
+    {
+      "album": {
+        "name": "Solar Gamsung Part.7",
+        "url": "https://open.spotify.com/album/7yswxvToOpvR5Xgrqa9uKx"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240640,
+      "name": "Love Has Gone",
+      "url": "https://open.spotify.com/track/1wosDePUhVsLYB3MMdyX20"
     },
     {
       "album": {
@@ -1371,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "Rhapsody of Sadness",
+        "url": "https://open.spotify.com/album/2tu5FWMandguGnkiPxVOvV"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Hyun",
+          "url": "https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235120,
+      "name": "Rhapsody of Sadness",
+      "url": "https://open.spotify.com/track/3HIDWyZGwSe5MhrSP890nc"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
       },
@@ -1523,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/1XOdt7of67I6i0m3UNHaEF"
+      },
+      "artists": [
+        {
+          "name": "Weeekly",
+          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169080,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/3lWNov4VlzcBZPLRgYFcHZ"
+    },
+    {
+      "album": {
         "name": "Destined with You (Original Television Soundtrack), Pt.6",
         "url": "https://open.spotify.com/album/37BzsG0I20mbX2CFipkt3A"
       },
@@ -1538,6 +1646,24 @@
       "duration_ms": 231759,
       "name": "That's You",
       "url": "https://open.spotify.com/track/2UysjEVKnL55ywc6TuvcQI"
+    },
+    {
+      "album": {
+        "name": "Tell Me That You Love Me, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3c6lzwgHhaIDSjPRz9zjCq"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250440,
+      "name": "The Moment You Arrive",
+      "url": "https://open.spotify.com/track/74jC2OHiPnRCCCSdBGXHVo"
     },
     {
       "album": {
@@ -1574,7 +1700,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 243321,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ"
@@ -1596,7 +1722,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 204000,
       "name": "wandering (feat. george)",
       "url": "https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2"
@@ -1734,6 +1860,24 @@
       "duration_ms": 179826,
       "name": "With UNIVERSE",
       "url": "https://open.spotify.com/track/1GCYF6dKEpdC7GFn4Kmrd8"
+    },
+    {
+      "album": {
+        "name": "WINTER of aespa X MY DEMON",
+        "url": "https://open.spotify.com/album/7EXrNMKKkkE3hRBpeZcT6y"
+      },
+      "artists": [
+        {
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254960,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/4yZAAPTLlEb60Ny7bhepqx"
     },
     {
       "album": {

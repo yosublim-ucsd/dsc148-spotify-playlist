@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,552 likes - 120 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,642 likes - 120 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 119 | [Act A Donkey](https://open.spotify.com/track/25BaRS4eM52MTpYrrtROCz) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Act A Donkey](https://open.spotify.com/album/4LX6VTXQ2g8zGB230yAnPg) | 3:23 |
 | 120 | [Sunglasses at Night](https://open.spotify.com/track/1LiMNzbo4XYzsZ0Odg3OW7) | [Heidi Klum](https://open.spotify.com/artist/7gmNO7Sv6EFNtxJ7JTgeaC) | [Sunglasses at Night](https://open.spotify.com/album/2WL25jOF2CEzuH1D7oJIYM) | 2:50 |
 
-Snapshot ID: `MCxkYTZjNTA2MjZhMzZhNjk4ZDJjMGJjNmMyMWJiZjlmMTVlMDRlNDc1`
+Snapshot ID: `MCw5MDY5ZmIyNmExZmI3OTBiMjFkNDM3YjhlN2Y1ZjhiMTUwNTQ2NzA1`

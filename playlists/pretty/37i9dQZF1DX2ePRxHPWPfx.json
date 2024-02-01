@@ -1,12 +1,12 @@
 {
   "description": "Warm tunes to get you in the snuggle spirit, la fogata y el chocolate caliente son opcionales.",
-  "num_followers": 5587,
+  "num_followers": 5593,
   "original_name": "cozied up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTc0MjI1YjQ0OTY3ZDcwZDQyMDBiZjQxM2I0YTM5NzgxZWRhZWU1",
+  "snapshot_id": "MCw4ZTdmNjEzOTJiM2Q5YjliOThlNTYyYWU2OWFjMGRmY2E0YjNiZDA2",
   "tracks": [
     {
       "added_at": "2023-12-15 19:29:49",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-12-15 19:29:49",
       "album": {
+        "name": "Canciones Chiquitas",
+        "url": "https://open.spotify.com/album/2E2800vbcd00dx5rVBGsw0"
+      },
+      "artists": [
+        {
+          "name": "Laura P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
+        }
+      ],
+      "duration_ms": 72874,
+      "name": "La Luna y T\u00fa",
+      "url": "https://open.spotify.com/track/4hHvdHXszAHLPrisD96BDq"
+    },
+    {
+      "added_at": "2023-12-15 19:29:49",
+      "album": {
         "name": "Todos A Belen",
         "url": "https://open.spotify.com/album/54YLqTx1NcuQUkVARYdIBQ"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 221960,
       "name": "Ven A Mi Casa Esta Navidad",
       "url": "https://open.spotify.com/track/6mYn2tAQD0LmwqplaMbXhg"
-    },
-    {
-      "added_at": "2023-12-15 19:29:49",
-      "album": {
-        "name": "Canciones Chiquitas",
-        "url": "https://open.spotify.com/album/2E2800vbcd00dx5rVBGsw0"
-      },
-      "artists": [
-        {
-          "name": "Laura P\u00e9rez",
-          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
-        }
-      ],
-      "duration_ms": 72874,
-      "name": "La Luna y T\u00fa",
-      "url": "https://open.spotify.com/track/4hHvdHXszAHLPrisD96BDq"
     },
     {
       "added_at": "2023-12-15 19:29:49",

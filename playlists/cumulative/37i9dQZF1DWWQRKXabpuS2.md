@@ -2,9 +2,9 @@
 
 ### [خليجي جديد](https://open.spotify.com/playlist/37i9dQZF1DWWQRKXabpuS2)
 
-> كل شي خليجي جديد\. الغلاف: أحلام
+> كل شي خليجي جديد\. الغلاف:حسين الجسمي
 
-302 songs - 20 hr 46 min
+303 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Mani Qader](https://open.spotify.com/track/1lJhnoFUqtSkK2BkrxrDVE) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Mani Qader](https://open.spotify.com/album/70j5jro09TU8NtTscyxEyY) | 3:32 | 2022-11-07 | 2023-04-05 |
 | [Mara Aan Malioun \(feat\. Daffy\)](https://open.spotify.com/track/3qCKXqyJjrc2qWVITysP6i) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD), [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC) | [Mara Aan Malioun \(feat\. Daffy\)](https://open.spotify.com/album/0pTDbXQGqK3li48QMqAoFr) | 2:20 | 2023-07-17 |  |
 | [Marhala Saabah](https://open.spotify.com/track/628nfgHGoVc07pntPz7agZ) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Marhala Saabah](https://open.spotify.com/album/6GKyZvh1SLeX5B4QyOfbjX) | 3:04 | 2023-07-01 | 2024-01-12 |
+| [Marrah Shukran](https://open.spotify.com/track/15nHtBKqeXFoMgZWk9jOAL) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Marrah Shukran](https://open.spotify.com/album/1HSVMXgW4TD6T0WOSKDLje) | 6:04 | 2024-01-31 |  |
 | [Maskeen](https://open.spotify.com/track/6y8LpdByQROHKQMTNv7pPe) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Maskeen](https://open.spotify.com/album/6fn1Xqlur9ssQxrfSQKRdv) | 4:11 | 2022-10-10 | 2023-05-03 |
 | [Mawed Eyonk](https://open.spotify.com/track/7aq0vVJxIfEJBl0Nca2Yfq) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Mawed Eyonk](https://open.spotify.com/album/2f6Pbb9qmPx9PEkOULDmOn) | 5:21 | 2022-08-24 | 2023-03-15 |
 | [Mawsem Maha](https://open.spotify.com/track/45IA9bg8QtbaqL6m7oaKAp) | [Abass Ibrahim](https://open.spotify.com/artist/24GgPBu7p3GhaMVvIMAk8T) | [Mawsem Maha](https://open.spotify.com/album/4eeA89peS2KWfn7zJqe4O3) | 8:25 | 2022-06-02 | 2022-11-08 |
@@ -287,7 +288,7 @@
 | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/track/4ElrjJKCDraFudqQMqG5Jj) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/album/5lA5PY1w6TGLqYZySPiZaA) | 3:57 | 2022-11-06 | 2023-05-11 |
 | [قلب ناسيني](https://open.spotify.com/track/6Z4kadPlbhC6nE5MxP8C81) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [الأرض](https://open.spotify.com/album/3qtM8m7WDIl4lhrmKjCMTp) | 4:48 | 2023-09-30 | 2023-10-09 |
 | [قلب ناسيني](https://open.spotify.com/track/3JyFw5gHP8pxsudyl1kltg) | [نوال الكويتية](https://open.spotify.com/artist/0KpzW2tcVs0tfnTFn6ZPys) | [الأرض](https://open.spotify.com/album/0S1DgCMQc8vbiPA210cc8X) | 4:48 | 2023-09-30 |  |
-| [لبيه](https://open.spotify.com/track/0CZtin5PSGzCCHp0cxjHTT) | [Hala Al Turk](https://open.spotify.com/artist/08XpoQUQ8CrwDVMo1BOEpj) | [لبيه](https://open.spotify.com/album/2julMTVNHEdU3D0vHOpyAd) | 3:47 | 2023-06-30 |  |
+| [لبيه](https://open.spotify.com/track/0CZtin5PSGzCCHp0cxjHTT) | [Hala Al Turk](https://open.spotify.com/artist/08XpoQUQ8CrwDVMo1BOEpj) | [لبيه](https://open.spotify.com/album/2julMTVNHEdU3D0vHOpyAd) | 3:47 | 2023-06-30 | 2024-02-01 |
 | [ما عرفتك](https://open.spotify.com/track/7HOuUa0bFPdJ4nFoIdK3PH) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [ما عرفتك](https://open.spotify.com/album/4rUz9KqZFlohSdai1fLvu7) | 5:39 | 2023-03-01 | 2023-09-30 |
 | [مجنون](https://open.spotify.com/track/74poQorNZ3f9iXMolw7gQx) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [مجنون](https://open.spotify.com/album/1ivQ3SBQ6eWl7NqG3QMyYT) | 3:33 | 2023-04-26 | 2023-11-16 |
 | [مرتاح](https://open.spotify.com/track/1eTt5Z7Yhxx0RABA3BLlgQ) | [Essa Almarzoug](https://open.spotify.com/artist/5F0AQAjsHjjT67OBz9GLuz) | [مرتاح](https://open.spotify.com/album/3AjExjqj8TnRdLrmW9RvZT) | 3:29 | 2021-12-23 | 2022-03-12 |

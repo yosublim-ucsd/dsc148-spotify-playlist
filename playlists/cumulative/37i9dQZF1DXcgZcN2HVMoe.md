@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-727 songs - 1 day 19 hr 26 min
+728 songs - 1 day 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [afterthoughts](https://open.spotify.com/track/2UmyGp3esNouKw42vwG6b8) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [afterthoughts](https://open.spotify.com/album/1qj06N4aOhTq5HmcHxbb27) | 2:55 | 2021-12-17 | 2022-05-08 |
 | [Alabama Haint](https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Alabama Haint](https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg) | 3:02 | 2021-12-17 | 2024-01-28 |
 | [Alaska](https://open.spotify.com/track/3NPkwNFvfOoski2eJj89cL) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Alaska](https://open.spotify.com/album/3Z2DqgBQQhR0ZBufsf5cqo) | 3:45 | 2021-12-17 | 2022-07-29 |
+| [Alaska](https://open.spotify.com/track/58Jt8MKkvodjpQ4EQBXQ79) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/17sBr3OmJz1lzH20ckwyIB) | 3:45 | 2023-10-06 |  |
 | [Alaska](https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh) | 3:45 | 2022-07-29 | 2024-01-27 |
 | [All at Once](https://open.spotify.com/track/7uNCJCxszDNp2ydwme7pTU) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [All at Once](https://open.spotify.com/album/3ILSC3ncFp5h5C6CZXQp40) | 3:36 | 2021-12-17 | 2022-04-21 |
 | [All for Nothing](https://open.spotify.com/track/5bT97xrfeGFJ9CY3AJc6IH) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | [All for Nothing](https://open.spotify.com/album/4S0FRGEs0XxpCsWRYh8zgZ) | 3:19 | 2022-01-24 | 2022-04-20 |
@@ -556,7 +557,7 @@
 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 | 2023-10-06 |  |
 | [She's Not Like That](https://open.spotify.com/track/3wsddzf4BEH997R6eX7YhD) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [12 Views Of Beatenberg](https://open.spotify.com/album/5qcY0XOZ3hk9iLOvACULpi) | 3:12 | 2021-12-17 | 2022-07-29 |
 | [Shower With My Clothes On](https://open.spotify.com/track/1EuCRi6fJpJykEzdpgpXVH) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Shower With My Clothes On](https://open.spotify.com/album/64E4Io1p1VcLemBmVGwFYA) | 3:04 | 2022-07-29 | 2022-11-14 |
-| [Side Effects](https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:43 | 2021-12-17 |  |
+| [Side Effects](https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:43 | 2021-12-17 | 2024-02-01 |
 | [Silence \- Acoustic](https://open.spotify.com/track/3AweMMF3G598hMsjto9Vtg) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Silence \(Acoustic\)](https://open.spotify.com/album/3GCiwl66wCiCt68MVCBp65) | 3:41 | 2022-07-22 | 2023-08-06 |
 | [Silence \- Acoustic](https://open.spotify.com/track/55284O777DNiEDa9X1B6Tb) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Silence \(Acoustic\)](https://open.spotify.com/album/2JAEZaBeklU4xM4FqEFb00) | 3:41 | 2022-01-24 | 2022-04-21 |
 | [Simple Song](https://open.spotify.com/track/70HWRkitkAKfos500LBk0T) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [The Boy Who Cried Wolf](https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV) | 3:48 | 2022-01-24 | 2023-03-29 |

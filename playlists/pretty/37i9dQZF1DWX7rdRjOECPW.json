@@ -1,12 +1,12 @@
 {
   "description": "Sommer, Sonne, Lieblingshits  \u2600\ufe0f",
-  "num_followers": 1516226,
+  "num_followers": 1516047,
   "original_name": "Sommerhits 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2Y4Y2NhZjM5NjhkZGYzODZmNmEwZTA1OGE3ZWVjZjkxN2UxNjZl",
+  "snapshot_id": "MCxjMTQ4ODk4MTI4ZjYxMjYzMzU3N2M4MWE2NWE5ZDYxNmEyYzFmZTc0",
   "tracks": [
     {
       "added_at": "2023-09-13 13:59:55",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "Feel Alive",
-        "url": "https://open.spotify.com/album/3zNr5IOpeOlfhpAHYz4ihP"
-      },
-      "artists": [
-        {
-          "name": "KAMRAD",
-          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
-        }
-      ],
-      "duration_ms": 148116,
-      "name": "Feel Alive",
-      "url": "https://open.spotify.com/track/0tb0RHrF4IpwPJOKYxnxxe"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
         "name": "Good Times Go",
         "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 177371,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
+        "name": "Feel Alive",
+        "url": "https://open.spotify.com/album/3zNr5IOpeOlfhpAHYz4ihP"
+      },
+      "artists": [
+        {
+          "name": "KAMRAD",
+          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
+        }
+      ],
+      "duration_ms": 148116,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/0tb0RHrF4IpwPJOKYxnxxe"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "Somewhere in Between",
-        "url": "https://open.spotify.com/album/1Dxfq2WMWe48f7YSO5DzSp"
-      },
-      "artists": [
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        }
-      ],
-      "duration_ms": 156475,
-      "name": "Somewhere in Between",
-      "url": "https://open.spotify.com/track/28Md4QAt1UceyovDOLe1GG"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/3jMmPvArFAhJbdKcFwCazV"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 136000,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/60DGBqku2Iq7m2xrpJEcOp"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
+        "name": "Somewhere in Between",
+        "url": "https://open.spotify.com/album/1Dxfq2WMWe48f7YSO5DzSp"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 156475,
+      "name": "Somewhere in Between",
+      "url": "https://open.spotify.com/track/28Md4QAt1UceyovDOLe1GG"
     }
   ],
   "unique_name": "Sommerhits 2023",

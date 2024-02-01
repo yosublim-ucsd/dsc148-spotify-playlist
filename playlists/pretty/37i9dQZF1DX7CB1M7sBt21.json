@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 8891,
+  "num_followers": 8958,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjdjNjc2ZjNhYzU0NTQyNWU1ZGQ1NDZmNjc0MzI0NTIzNWQwYTEy",
+  "snapshot_id": "MCxmY2RjNTk5YWE5NzNiNTgyNTI0NWI4NzQ4YWNmMTg3NTdiMzJlMjU5",
   "tracks": [
     {
       "added_at": "2024-01-18 23:00:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Me Provocas",
-        "url": "https://open.spotify.com/album/7nTh2NTu702X1jGG4Ew02x"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        },
-        {
-          "name": "Fumaratto",
-          "url": "https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw"
-        }
-      ],
-      "duration_ms": 147255,
-      "name": "Me Provocas",
-      "url": "https://open.spotify.com/track/7sEwsJK7Ol0J6PFV9nioxu"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "The Other Side (from Trolls World Tour)",
         "url": "https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 188186,
       "name": "The Other Side (from Trolls World Tour)",
       "url": "https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Me Provocas",
+        "url": "https://open.spotify.com/album/7nTh2NTu702X1jGG4Ew02x"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "Fumaratto",
+          "url": "https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw"
+        }
+      ],
+      "duration_ms": 147255,
+      "name": "Me Provocas",
+      "url": "https://open.spotify.com/track/7sEwsJK7Ol0J6PFV9nioxu"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -995,26 +995,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "All We Got (feat. KIDDO)",
-        "url": "https://open.spotify.com/album/7wzcIKvtXDWs1VA2BMHuaY"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
-        }
-      ],
-      "duration_ms": 190218,
-      "name": "All We Got (feat. KIDDO)",
-      "url": "https://open.spotify.com/track/1FP9s72rDYty6mfoOEYKnE"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 145174,
       "name": "Only You",
       "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "All We Got (feat. KIDDO)",
+        "url": "https://open.spotify.com/album/7wzcIKvtXDWs1VA2BMHuaY"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "duration_ms": 190218,
+      "name": "All We Got (feat. KIDDO)",
+      "url": "https://open.spotify.com/track/1FP9s72rDYty6mfoOEYKnE"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Hollywood",
-        "url": "https://open.spotify.com/album/5SQuqccOnKASxj94o2C5ro"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
-        }
-      ],
-      "duration_ms": 145591,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/1n2zcm9jlZA5g82K6rE9cB"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "Don't Cry For Me (with Jason Derulo)",
         "url": "https://open.spotify.com/album/6ZPH8jjxr3QtODz3bXX4kP"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 155769,
       "name": "Don't Cry For Me (with Jason Derulo)",
       "url": "https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/5SQuqccOnKASxj94o2C5ro"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        }
+      ],
+      "duration_ms": 145591,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/1n2zcm9jlZA5g82K6rE9cB"
     },
     {
       "added_at": "2024-01-18 23:00:00",

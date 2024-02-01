@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits \| 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \| Cover: Diamond Pistols
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 105,704 likes - 139 songs - 7 hr 7 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 105,618 likes - 139 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 35 | [Good Energy \- Remix](https://open.spotify.com/track/37sgLcobfnLtle8H17N0H1) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Yung Wylin'](https://open.spotify.com/artist/0m4kaX5bs4Jp3rCsRuLjA9), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Good Energy \(Remix\)](https://open.spotify.com/album/1PihY5yy5PX8kW2jGonJW1) | 3:34 |
 | 36 | [Still Got It Bad](https://open.spotify.com/track/3sBekLF0BJII3VhcmqzMHg) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Still Got It Bad](https://open.spotify.com/album/6XqCdGxjzalzwAWE3ekh68) | 2:21 |
 | 37 | [Out of Love](https://open.spotify.com/track/2a7tWwfJeOmiQB0AryaKB3) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [Out of Love](https://open.spotify.com/album/6iyHxcHCZ1LoNMhxz95a2s) | 2:18 |
-| 38 | [Need a Hit](https://open.spotify.com/track/7vUzucnemSOROrnuPRyUzh) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Gero](https://open.spotify.com/artist/0qVlTFcbWu2eNXGdHrp0g1) | [Need a Hit](https://open.spotify.com/album/3rvmNL5HkzmKWkHrS9nUyY) | 3:53 |
+| 38 | [Need a Hit](https://open.spotify.com/track/7vUzucnemSOROrnuPRyUzh) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Gero](https://open.spotify.com/artist/0qVlTFcbWu2eNXGdHrp0g1), [Club Azur](https://open.spotify.com/artist/7HjhcFRLzzNysy05pyufdh) | [Need a Hit](https://open.spotify.com/album/3rvmNL5HkzmKWkHrS9nUyY) | 3:53 |
 | 39 | [Meet Her \- Tiësto vs\. Da Hool](https://open.spotify.com/track/2ObP6OLXWzrmdVvgIFjjc2) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW) | [Meet Her \(Tiësto vs\. Da Hool\)](https://open.spotify.com/album/3FkgnEt5ecJiAGlFvPNZQT) | 2:12 |
 | 40 | [Crab Noodling](https://open.spotify.com/track/3dGoWp0RewrQpwAJDHuV4C) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [In Sri Lanka](https://open.spotify.com/album/2sIpOaUihE0eLxmYWkAbOD) | 1:52 |
 | 41 | [Forever Mine](https://open.spotify.com/track/7pgxqOMCY2hNwTnFnVngXu) | [Thomas Jack](https://open.spotify.com/artist/6JmzdIDSQdeHg0pocIascm) | [Forever Mine](https://open.spotify.com/album/00UgMF275ZQ6cfUyoxXmVt) | 3:35 |

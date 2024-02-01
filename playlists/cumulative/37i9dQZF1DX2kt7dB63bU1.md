@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-689 songs - 2 day 0 hr 14 min
+690 songs - 2 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,7 +538,8 @@
 | [Strange Fruit](https://open.spotify.com/track/52l6GPIMJWIZhW2a2JRpDX) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Strange Fruit](https://open.spotify.com/album/03eO08yzfWAMWFtiNZtI6Z) | 4:14 | 2020-10-09 | 2022-02-19 |
 | [Strange Harbors](https://open.spotify.com/track/5B3pTFpdqvMwku6ysdXGJp) | [Matt Block](https://open.spotify.com/artist/31EDi81KvwkmTqd0H4VxpP), [Morton Block](https://open.spotify.com/artist/4K6CAt40h6SerzZCE1oeBZ), [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Strange Harbors](https://open.spotify.com/album/3kQVjBANhSLpIWnQr7SuKN) | 4:58 | 2022-06-10 | 2023-01-14 |
 | [Streets Of Philadelphia](https://open.spotify.com/track/3sFuasoQLakdxnTh3vJ5ix) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Streets Of Philadelphia](https://open.spotify.com/album/1aU3vWkTS7Ej9VEtueevrV) | 5:20 | 2023-08-25 | 2023-09-16 |
-| [Stuck In London](https://open.spotify.com/track/2FXL8Xr4WaXwroKIRU90SU) | [Casey Abrams](https://open.spotify.com/artist/1UxNUybRFdtksz3l5HtCEG), [Haus Music](https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6), [Jesse Elder](https://open.spotify.com/artist/5UmUEjkHl71LqO86BUSS3S), [Dave Tedeschi](https://open.spotify.com/artist/5OwYNOuH4Cg597HGC7tFW5), [Kyle Morgan](https://open.spotify.com/artist/73TllQfqNxBh5xit8niVyo) | [East Coast Jazz](https://open.spotify.com/album/4EbfwbnUU2NIipF7e33KXP) | 4:10 | 2024-01-26 |  |
+| [Stuck In London](https://open.spotify.com/track/2FXL8Xr4WaXwroKIRU90SU) | [Casey Abrams](https://open.spotify.com/artist/1UxNUybRFdtksz3l5HtCEG), [Haus Music](https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6), [Jesse Elder](https://open.spotify.com/artist/5UmUEjkHl71LqO86BUSS3S), [Dave Tedeschi](https://open.spotify.com/artist/5OwYNOuH4Cg597HGC7tFW5), [Kyle Morgan](https://open.spotify.com/artist/73TllQfqNxBh5xit8niVyo) | [East Coast Jazz](https://open.spotify.com/album/4EbfwbnUU2NIipF7e33KXP) | 4:10 | 2024-01-26 | 2024-02-01 |
+| [Stuck In London](https://open.spotify.com/track/3I8NvMvtbI4DiwL8ATz89i) | [Casey Abrams](https://open.spotify.com/artist/1UxNUybRFdtksz3l5HtCEG), [Haus Music](https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6), [Jesse Elder](https://open.spotify.com/artist/5UmUEjkHl71LqO86BUSS3S), [Dave Tedeschi](https://open.spotify.com/artist/5OwYNOuH4Cg597HGC7tFW5), [Kyle Morgan](https://open.spotify.com/artist/73TllQfqNxBh5xit8niVyo) | [East Coast Jazz](https://open.spotify.com/album/3gpYeykiZOtEvdteBn1zse) | 4:10 | 2024-01-26 |  |
 | [Suddenly Lovers](https://open.spotify.com/track/5EBcZJPbv1hSlkvpy9fruG) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Suddenly Lovers](https://open.spotify.com/album/2emVZPJIwGzDKzCHtnAgnW) | 3:38 | 2023-08-18 | 2023-09-02 |
 | [Summer Me, Winter Me](https://open.spotify.com/track/4Kx1kfAPsEM6Mw2cow70ez) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Summer Me, Winter Me](https://open.spotify.com/album/0D3n8O8ZQt08vx4SesLIaj) | 5:05 | 2023-11-10 |  |
 | [Summer of '70](https://open.spotify.com/track/1XpAdi2kxOX2Gd8DfhIVR4) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [Earthenya](https://open.spotify.com/album/7nZZUnGI8D3Db6q5GwCJk5) | 4:56 | 2022-10-07 | 2022-10-15 |

@@ -497,6 +497,24 @@
     },
     {
       "album": {
+        "name": "Forest of Sin",
+        "url": "https://open.spotify.com/album/4dPY93ianmoQkWkNDjeZq8"
+      },
+      "artists": [
+        {
+          "name": "Hephisto",
+          "url": "https://open.spotify.com/artist/7cVzcIvDfTLpcf7yso5xZQ"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158823,
+      "name": "Forest of Sin",
+      "url": "https://open.spotify.com/track/7irQGbq5KxxRpSWQn07YNp"
+    },
+    {
+      "album": {
         "name": "My Religion EP",
         "url": "https://open.spotify.com/album/3IynPUiKNPQ6SeEJ3Uze8x"
       },

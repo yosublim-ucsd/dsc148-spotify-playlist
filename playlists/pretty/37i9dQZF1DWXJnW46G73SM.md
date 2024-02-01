@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: نانسي عجرم
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,358 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,457 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [غيرك حاول](https://open.spotify.com/track/5R5ijj7vBugTf5Lnp0qbWk) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha) | [غيرك حاول](https://open.spotify.com/album/4OTUDz9Mm3VtTbNHg8eoss) | 3:15 |
 | 75 | [Da Kan Naseeb](https://open.spotify.com/track/26WuTSrvHJ31ucIbRLJAkj) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Fat Sam](https://open.spotify.com/artist/2nhUtgfFgXCQjEXXVmdxxU) | [Red Bull Sika](https://open.spotify.com/album/6DQhRP3LacBWt8T53Bbg3l) | 3:17 |
 
-Snapshot ID: `MCxiMDk1MDA5OTZjNzI2N2ZhMmNkYmQyZGNmNGFjOTdjYTdjYWM2MjM0`
+Snapshot ID: `MCwxMDgyZTJiNTkxYzMwZjIzOGYwYjFmNTlmZjQ3MThkMDAxYjFkMjIx`

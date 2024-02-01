@@ -11659,6 +11659,28 @@
     },
     {
       "album": {
+        "name": "Koi Si",
+        "url": "https://open.spotify.com/album/4HYXhgflBVtGl3cYL2eJIm"
+      },
+      "artists": [
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        },
+        {
+          "name": "Nirmaan",
+          "url": "https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199998,
+      "name": "Koi Si",
+      "url": "https://open.spotify.com/track/0rY5TEzbVFwphIzMhMh7hX"
+    },
+    {
+      "album": {
         "name": "KU LO SA - A COLORS SHOW",
         "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
       },
@@ -14934,7 +14956,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 58181,
       "name": "Naina Tere Kajrare Hain",
       "url": "https://open.spotify.com/track/22uZMEL9lqcffwmHGd2xdP"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Lisa Mishra
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,740 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,785 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 15 | [Ruki Ruki Si](https://open.spotify.com/track/5heQAgYkqdLwDS5uDbtoXB) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Jeet Gannguli](https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl) | [Ruki Ruki Si](https://open.spotify.com/album/6QGePohRZFlxfnk7Vg2fd3) | 3:46 |
 | 16 | [Jaadu Tone](https://open.spotify.com/track/1YCT4RaXdXtqqb4AjBZOc2) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Jaadu Tone](https://open.spotify.com/album/14pKF36OH8TQpzRAi6HhRi) | 3:26 |
 | 17 | [Dard](https://open.spotify.com/track/0vNVyixuvuK6HuAwQ0WeSO) | [Mohammed Irfan](https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY), [Shilpa Aggarwal](https://open.spotify.com/artist/68Ei7hl4pXB8M4PxV7XYu9), [Rick Royce](https://open.spotify.com/artist/6rxGrNJFiFTtVFnOar7UaL) | [Dard](https://open.spotify.com/album/5dy9VUaaAui1NDXKBeG5EY) | 3:38 |
-| 18 | [Sukoon Mil Gaya](https://open.spotify.com/track/6FcnFOJncVlRdOa0OyGYUT) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Rubai](https://open.spotify.com/artist/6tBTqKtxRUei3EWE8sl10r) | [Sukoon Mil Gaya](https://open.spotify.com/album/7wquPYrojRxPbPXtVzvhBh) | 3:25 |
+| 18 | [Sukoon Mil Gaya](https://open.spotify.com/track/6FcnFOJncVlRdOa0OyGYUT) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Rubai](https://open.spotify.com/artist/6tBTqKtxRUei3EWE8sl10r), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA) | [Sukoon Mil Gaya](https://open.spotify.com/album/7wquPYrojRxPbPXtVzvhBh) | 3:25 |
 | 19 | [Zindagi Tu Aana](https://open.spotify.com/track/3CDe31HlQM0rJbrd8VKUoZ) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv) | [Unloved](https://open.spotify.com/album/3k7rIfqINxLdULuJiQQF8i) | 2:33 |
 | 20 | [Jiya Jaise](https://open.spotify.com/track/0HN9mR6ajzVOnJcD4L0R8Z) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Jiya Jaise](https://open.spotify.com/album/7cOkHnDXeP1bZYiscIIMcj) | 3:30 |
 | 21 | [Sukoon](https://open.spotify.com/track/4k5iSIwG2halVz8FHTaDsQ) | [Sayuj Jain](https://open.spotify.com/artist/2Bcqwyd8GPNHyeqo3EbtDO), [Reverse Prodigy](https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Sukoon](https://open.spotify.com/album/33ojFXiYyocQVSRHkQBar9) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Baarish Ke Aane Se](https://open.spotify.com/track/7zkdhpXOGATPZDelzXE7ae) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Prince Dubey](https://open.spotify.com/artist/3bs0mT7GMaduAPHu1oWJwq) | [Baarish Ke Aane Se](https://open.spotify.com/album/5Qjv9KUc0QP4HwCtie4oc7) | 4:00 |
 | 50 | [Meri Ho Ja](https://open.spotify.com/track/7z3e5trtKbiILn2bcxqKpr) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Meri Ho Ja](https://open.spotify.com/album/4zy8E2oRVyGJseIcHk2hAQ) | 2:59 |
 
-Snapshot ID: `MCw5MGYwYzEwMzcxNDU0ZGRiZjJmZDY5M2YxM2Q1MjA5MmM4NDQ1M2I1`
+Snapshot ID: `MCw2YzJhNDFiYjhiMjBkZTRkOGFmNGVmYzBkM2FhN2I1MWVlNjhiZTMx`

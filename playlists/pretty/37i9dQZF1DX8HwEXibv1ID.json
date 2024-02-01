@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 36940,
+  "num_followers": 36981,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjViYzk2YThkNDg0YjNiNTlkY2ZhZjVhYTQyMTE3MWMyMmMwZDI3",
+  "snapshot_id": "MCwyOTYyNzc5MzU5ZTRkOWU4YTQ0ZDhkZjNmNmQwMmU1MjcyNDNkNDdm",
   "tracks": [
     {
       "added_at": "2024-01-18 13:55:00",
@@ -355,6 +355,38 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 177866,
+      "name": "Night and Day - Take 1",
+      "url": "https://open.spotify.com/track/0tFX3mUraX85YPzTwEHWs4"
+    },
+    {
+      "added_at": "2024-01-18 13:55:00",
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 411866,
+      "name": "You Do Something to Me - Remastered",
+      "url": "https://open.spotify.com/track/0HQWwFTh58MJ7DHKaD4DZO"
+    },
+    {
+      "added_at": "2024-01-18 13:55:00",
+      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/502uTcoHcwKPVIGREXz9pi"
       },
@@ -387,38 +419,6 @@
       "duration_ms": 205666,
       "name": "Its Delovely",
       "url": "https://open.spotify.com/track/7iPqb64Shlib9ta9ouKyTC"
-    },
-    {
-      "added_at": "2024-01-18 13:55:00",
-      "album": {
-        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
-        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "Night and Day - Take 1",
-      "url": "https://open.spotify.com/track/0tFX3mUraX85YPzTwEHWs4"
-    },
-    {
-      "added_at": "2024-01-18 13:55:00",
-      "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 411866,
-      "name": "You Do Something to Me - Remastered",
-      "url": "https://open.spotify.com/track/0HQWwFTh58MJ7DHKaD4DZO"
     },
     {
       "added_at": "2024-01-18 13:55:00",
@@ -459,18 +459,18 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
-        "name": "You 'N Me",
-        "url": "https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G"
+        "name": "Charlie Parker With Strings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
       },
       "artists": [
         {
-          "name": "The Al Cohn - Zoot Sims Quintet",
-          "url": "https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM"
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
         }
       ],
-      "duration_ms": 291693,
-      "name": "You'd Be So Nice To Come Home To",
-      "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"
+      "duration_ms": 212386,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B"
     },
     {
       "added_at": "2024-01-18 13:55:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
-        "name": "Charlie Parker With Strings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
+        "name": "You 'N Me",
+        "url": "https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G"
       },
       "artists": [
         {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+          "name": "The Al Cohn - Zoot Sims Quintet",
+          "url": "https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM"
         }
       ],
-      "duration_ms": 212386,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B"
+      "duration_ms": 291693,
+      "name": "You'd Be So Nice To Come Home To",
+      "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"
     },
     {
       "added_at": "2024-01-18 13:55:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
-        "name": "Plays Cole Porter Love Songs",
-        "url": "https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q"
+        "name": "Latin Kick",
+        "url": "https://open.spotify.com/album/6XxDxfs4XBAjRv3dgOSoE2"
       },
       "artists": [
         {
-          "name": "Jan Lundgren Trio",
-          "url": "https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy"
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
         }
       ],
-      "duration_ms": 203386,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/5oFEPYz8XBXD0hfe5ZuCIy"
+      "duration_ms": 353200,
+      "name": "I Love Paris",
+      "url": "https://open.spotify.com/track/62UVjAjo8ra1PVSeHfnxk3"
     },
     {
       "added_at": "2024-01-18 13:55:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
-        "name": "Latin Kick",
-        "url": "https://open.spotify.com/album/6XxDxfs4XBAjRv3dgOSoE2"
+        "name": "Plays Cole Porter Love Songs",
+        "url": "https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q"
       },
       "artists": [
         {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+          "name": "Jan Lundgren Trio",
+          "url": "https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy"
         }
       ],
-      "duration_ms": 353200,
-      "name": "I Love Paris",
-      "url": "https://open.spotify.com/track/62UVjAjo8ra1PVSeHfnxk3"
+      "duration_ms": 203386,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/5oFEPYz8XBXD0hfe5ZuCIy"
     },
     {
       "added_at": "2024-01-18 13:55:00",
@@ -771,18 +771,22 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
-        "name": "Plays Cole Porter Love Songs",
-        "url": "https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q"
+        "name": "High Society (O.S.T - 1956)",
+        "url": "https://open.spotify.com/album/4oqjQquUSco98dlsNLZRFq"
       },
       "artists": [
         {
-          "name": "Jan Lundgren Trio",
-          "url": "https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Johnny Green & His Orchestra",
+          "url": "https://open.spotify.com/artist/2Edo6eXjeCmuIFAfksW3Z6"
         }
       ],
-      "duration_ms": 315373,
-      "name": "When Love Comes Around",
-      "url": "https://open.spotify.com/track/1BQBbjtCNK1z7ejXRYASii"
+      "duration_ms": 252818,
+      "name": "I Love You Samantha",
+      "url": "https://open.spotify.com/track/2IVRYGcgELRGEUldowroST"
     },
     {
       "added_at": "2024-01-18 13:55:00",
@@ -803,22 +807,18 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
-        "name": "High Society (O.S.T - 1956)",
-        "url": "https://open.spotify.com/album/4oqjQquUSco98dlsNLZRFq"
+        "name": "Plays Cole Porter Love Songs",
+        "url": "https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "Johnny Green & His Orchestra",
-          "url": "https://open.spotify.com/artist/2Edo6eXjeCmuIFAfksW3Z6"
+          "name": "Jan Lundgren Trio",
+          "url": "https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy"
         }
       ],
-      "duration_ms": 252818,
-      "name": "I Love You Samantha",
-      "url": "https://open.spotify.com/track/2IVRYGcgELRGEUldowroST"
+      "duration_ms": 315373,
+      "name": "When Love Comes Around",
+      "url": "https://open.spotify.com/track/1BQBbjtCNK1z7ejXRYASii"
     },
     {
       "added_at": "2024-01-18 13:55:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/5OBKP6D1MyMdnnB0RZ3PL7"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 165893,
+      "name": "In the Still of the Night",
+      "url": "https://open.spotify.com/track/62SGxkOggmrZblQ6prK5AI"
+    },
+    {
+      "added_at": "2024-01-18 13:55:00",
+      "album": {
         "name": "John Barrowman Swings Cole Porter",
         "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 143066,
       "name": "\u00c7a, C'est l'Amour",
       "url": "https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0"
-    },
-    {
-      "added_at": "2024-01-18 13:55:00",
-      "album": {
-        "name": "Worktime (RVG)",
-        "url": "https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 369053,
-      "name": "It's All Right With Me",
-      "url": "https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp"
     },
     {
       "added_at": "2024-01-18 13:55:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/5OBKP6D1MyMdnnB0RZ3PL7"
+        "name": "Worktime (RVG)",
+        "url": "https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC"
       },
       "artists": [
         {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 165893,
-      "name": "In the Still of the Night",
-      "url": "https://open.spotify.com/track/62SGxkOggmrZblQ6prK5AI"
+      "duration_ms": 369053,
+      "name": "It's All Right With Me",
+      "url": "https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp"
     },
     {
       "added_at": "2024-01-18 13:55:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-01-18 13:55:00",
       "album": {
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+      },
+      "artists": [
+        {
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+        }
+      ],
+      "duration_ms": 131173,
+      "name": "Where Oh Where",
+      "url": "https://open.spotify.com/track/5pbYO3CUlg89OiQajBRShr"
+    },
+    {
+      "added_at": "2024-01-18 13:55:00",
+      "album": {
         "name": "Night and Day With Cole Porter",
         "url": "https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 234840,
       "name": "Conversation Blues",
       "url": "https://open.spotify.com/track/1ZKkiLSA1f4oC0igz3kTvR"
-    },
-    {
-      "added_at": "2024-01-18 13:55:00",
-      "album": {
-        "name": "Mabel Mercer Sings Cole Porter",
-        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
-      },
-      "artists": [
-        {
-          "name": "Mabel Mercer",
-          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
-        }
-      ],
-      "duration_ms": 131173,
-      "name": "Where Oh Where",
-      "url": "https://open.spotify.com/track/5pbYO3CUlg89OiQajBRShr"
     },
     {
       "added_at": "2024-01-18 13:55:00",

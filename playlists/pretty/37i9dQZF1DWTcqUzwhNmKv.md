@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Bad Omens x Poppy on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,472,249 likes - 76 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,472,452 likes - 76 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 12 | [Evidence](https://open.spotify.com/track/0J9nusuXGmNTOWJuGoEUHx) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Evidence](https://open.spotify.com/album/3mL6qoKcWmnbwNP3ycAqEG) | 3:50 |
 | 13 | [Sign Of Life](https://open.spotify.com/track/5MCUpUfWI7r0v931vSiWul) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World \(Deluxe Edition\)](https://open.spotify.com/album/3FtJCmMzsgTWZOi931Vqxy) | 3:40 |
 | 14 | [Dark Void](https://open.spotify.com/track/76DODhl0vwR4CpWKexVF4U) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Where Do We Go From Here?](https://open.spotify.com/album/0KxKNeKIuo4QUcsNVNge5M) | 3:52 |
-| 15 | [Miasma](https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9), [Winston McCall](https://open.spotify.com/artist/5SbE63j8ykElvWk3EZEmrx) | [Miasma](https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL) | 4:18 |
+| 15 | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL) | 4:18 |
 | 16 | [Heaven Shall Burn](https://open.spotify.com/track/0C8mZZLRaf2X8MKCVkbMbC) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Heaven Shall Burn](https://open.spotify.com/album/7nJzHteWK38ha0G1J8i57V) | 4:07 |
 | 17 | [Death Grip](https://open.spotify.com/track/3ctWOjhZJkxbeXSA5yJFCa) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Death Grip](https://open.spotify.com/album/5249LvmZyy2ZIwFQG4bwx0) | 3:00 |
 | 18 | [Forgotten](https://open.spotify.com/track/0ZZCltcOacjI1kY4BnVDjt) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Vol\. 1](https://open.spotify.com/album/6wurDqEmcCcIoria5SRmom) | 2:55 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 75 | [Faking It](https://open.spotify.com/track/4yRqoKU4KlQIYlVFP4MiuJ) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [The Weight Of The Mask](https://open.spotify.com/album/70UeEiNvvXyBNF9QMQnZre) | 5:28 |
 | 76 | [Perpetual Terminal](https://open.spotify.com/track/0fcEV5CPc7QFD50pY4JhAs) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Perpetual Terminal](https://open.spotify.com/album/4CPpslrtV51rQzvjGG98fd) | 5:47 |
 
-Snapshot ID: `MCxmN2YzMTlhNzNhNjgxYzkwOTg4YzAwNThhOWU3ZWI5ZTdiZTVjNjU0`
+Snapshot ID: `MCwxNmY3ZjM0YWFmZDJhY2EwODEwNjVlYTdkNWU2NTA3NTg0YTdlZDhm`

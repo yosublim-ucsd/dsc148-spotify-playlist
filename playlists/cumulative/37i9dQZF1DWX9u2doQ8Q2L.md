@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,285 songs - 3 day 6 hr 56 min
+1,286 songs - 3 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,6 +567,7 @@
 | [N](https://open.spotify.com/track/3YoXxt7W9LTefFCUx8wSbS) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [N](https://open.spotify.com/album/62Uf86QDEeOJR3fsOBF1Xr) | 2:50 | 2023-04-18 | 2023-05-17 |
 | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/album/3GPIrOmn7HCQp52OD6Gnhf) | 3:57 | 2023-04-25 | 2023-09-06 |
 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 | 2023-05-25 | 2023-08-16 |
+| [Namida no kuni](https://open.spotify.com/track/4CEiimOyFU2W6oo0m1R7ge) | [Kayoko Yoshizawa](https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0) | [Namida no kuni](https://open.spotify.com/album/2Wv8DIQeQQy8ri7NosTaRN) | 3:54 | 2024-01-30 |  |
 | [Natural Sense](https://open.spotify.com/track/0vMiyLLjZvXFYlCaREHPKD) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Natural Sense](https://open.spotify.com/album/25lgonaEBfB4QRKzwH80bF) | 2:46 | 2024-01-30 |  |
 | [Nectar\. \- uin Remix](https://open.spotify.com/track/0lOKFVFJDrueXNPWcXAXI5) | [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Nectar\. \(uin Remix\)](https://open.spotify.com/album/1HEmSU08rWCzt867p5uOYo) | 3:06 | 2022-06-21 | 2022-07-20 |
 | [Nemuranaideyo feat\. Ikuko Harada](https://open.spotify.com/track/0BWxTiFYuAoJSxDnHUs4UZ) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR), [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [Nemuranaideyo feat\. Ikuko Harada](https://open.spotify.com/album/21wUhU2axAMTJWEaREHo1g) | 4:17 | 2023-04-05 | 2023-04-12 |
@@ -1233,7 +1234,7 @@
 | [流星群](https://open.spotify.com/track/4G1Kk1S5y5SKFFJ9Bwn35U) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [流星群](https://open.spotify.com/album/1NVfNGKoeTlThe7SMCooXT) | 3:09 | 2022-05-26 | 2022-06-22 |
 | [海へ海へ海へ](https://open.spotify.com/track/3EnTDoXpd45Y96q9NeSbsT) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [海へ海へ海へ](https://open.spotify.com/album/6BNiu85dNukURB7kx4N5LN) | 4:10 | 2023-07-18 | 2023-08-02 |
 | [涙](https://open.spotify.com/track/1HaBsSHSuY94emnUEuLDot) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN), [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi) | [涙](https://open.spotify.com/album/1kzUbAwv2BjK5ucekGZqmZ) | 3:22 | 2023-05-04 | 2023-05-10 |
-| [涙の国](https://open.spotify.com/track/3pI3svihigv3zIZpNhc5OD) | [Kayoko Yoshizawa](https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0) | [涙の国](https://open.spotify.com/album/1hmZIuYyoOFnfUA253cx1N) | 3:54 | 2024-01-30 |  |
+| [涙の国](https://open.spotify.com/track/3pI3svihigv3zIZpNhc5OD) | [Kayoko Yoshizawa](https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0) | [涙の国](https://open.spotify.com/album/1hmZIuYyoOFnfUA253cx1N) | 3:54 | 2024-01-30 | 2024-02-01 |
 | [火をつけて feat\. 松尾レミ \(GLIM SPANKY\)](https://open.spotify.com/track/0C2S3sEvaNfulnSRNF2E1j) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [Remi Matsuo](https://open.spotify.com/artist/5KRGr2Dbq35ycjbyRpKoc7) | [火をつけて feat\. 松尾レミ \(GLIM SPANKY\)](https://open.spotify.com/album/5Hd2WIPcnkSNh2nAUxt2b2) | 4:59 | 2023-04-11 | 2023-06-09 |
 | [火花](https://open.spotify.com/track/05WKrnPYwjdG0Mj9kcoMe3) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [火花](https://open.spotify.com/album/34vNCbkf9QMHciPKAbTN7s) | 4:23 | 2023-05-16 | 2023-05-26 |
 | [灯台](https://open.spotify.com/track/0rWizJ6KV5Wna8dPdXB5CU) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [灯台](https://open.spotify.com/album/7HkIv5XkyvMwR3DXz5mmwk) | 2:57 | 2022-09-01 | 2022-09-03 |

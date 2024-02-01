@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Herencia de Patrones en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,107 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,214 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,12 +75,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 65 | [EL RELOJITO](https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [EL RELOJITO](https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h) | 3:09 |
 | 66 | [En Blindadas](https://open.spotify.com/track/5SnT0c4vYrR93Zb7wqEAqo) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [En Blindadas](https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY) | 3:10 |
 | 67 | [No Hay Manera](https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Proyecto Akwid](https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM) | 4:03 |
-| 68 | [JURE VENGANZA](https://open.spotify.com/track/4t2fkh1jfaEuZz9t3o05bG) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [JURE VENGANZA](https://open.spotify.com/album/01hQzuRutKQ10AmhqyWHAl) | 2:12 |
-| 69 | [PLAYBOY](https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:23 |
+| 68 | [PLAYBOY](https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:23 |
+| 69 | [JURE VENGANZA](https://open.spotify.com/track/4t2fkh1jfaEuZz9t3o05bG) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [JURE VENGANZA](https://open.spotify.com/album/01hQzuRutKQ10AmhqyWHAl) | 2:12 |
 | 70 | [Aventador](https://open.spotify.com/track/2SRCfCdP87iGCMaujggKMY) | [Tyan G](https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C), [Galvancillo](https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV) | [Aventador](https://open.spotify.com/album/2oJmzxo3F84tztXqVBBGFH) | 3:25 |
 | 71 | [Te Lo Dije](https://open.spotify.com/track/6ZRMDvbAqmkngX6M7EnfjY) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 3:29 |
-| 72 | [3 de la Mañana](https://open.spotify.com/track/24cS53gOoCh9grgAj8Cfig) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [3 de la Mañana](https://open.spotify.com/album/1LxvD7UdloYCTIamKIPlNm) | 3:02 |
-| 73 | [CINTO ARMANI CON LOS TENIS TOMMY \- SOY BELICON](https://open.spotify.com/track/1PnWmxB0G5TRQOkbUFQfSY) | [Jared Flórez](https://open.spotify.com/artist/5YeLPRA72cFvDkXHrbXQS7) | [CINTO ARMANI CON LOS TENIS TOMMY \- SOY BELICON](https://open.spotify.com/album/00hVxqkDVSfuBwE7Lvvz6v) | 2:41 |
+| 72 | [CINTO ARMANI CON LOS TENIS TOMMY \- SOY BELICON](https://open.spotify.com/track/1PnWmxB0G5TRQOkbUFQfSY) | [Jared Flórez](https://open.spotify.com/artist/5YeLPRA72cFvDkXHrbXQS7) | [CINTO ARMANI CON LOS TENIS TOMMY \- SOY BELICON](https://open.spotify.com/album/00hVxqkDVSfuBwE7Lvvz6v) | 2:41 |
+| 73 | [3 de la Mañana](https://open.spotify.com/track/24cS53gOoCh9grgAj8Cfig) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [3 de la Mañana](https://open.spotify.com/album/1LxvD7UdloYCTIamKIPlNm) | 3:02 |
 | 74 | [Bélico y Cholo](https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Bélico y Cholo](https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2) | 3:22 |
 | 75 | [Al Estilo Charleston](https://open.spotify.com/track/5QKn5nIu6pRrQWH6G68jKW) | [DanyAraujo](https://open.spotify.com/artist/6nwG1sN2MjVkjGBKTFONyq) | [Al Estilo Charleston](https://open.spotify.com/album/05m5xLX6qpwdMqIXj2LgGJ) | 2:56 |
 | 76 | [El Rayo](https://open.spotify.com/track/0ev44APmsOEmBdbmQqzafj) | [Asael gonzález](https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7) | [El Rayo](https://open.spotify.com/album/0e17jJlx78tIV0p45nYJCE) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 99 | [Sentosa](https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt) | [Sentosa](https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc) | 2:31 |
 | 100 | [Mi Kryptonita](https://open.spotify.com/track/1UL2Sn9KX8StSDOp8ZEAOC) | [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [Talento de Vida](https://open.spotify.com/album/6qxrH0TOwnCuxvj4pvmImH) | 3:08 |
 
-Snapshot ID: `MCw1ZDJhNmFjZGFhNDBjNTA0MzQ2NmE1YzgyYzFkMzI2YjhhODhkZmMy`
+Snapshot ID: `MCxmNWY0NGVhNDQ5NGU2ZTIxZDRmMWY4ZmM5M2FjYjE3Y2JhMTM1NGY3`

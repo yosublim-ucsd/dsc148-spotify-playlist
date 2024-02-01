@@ -2893,6 +2893,32 @@
     },
     {
       "album": {
+        "name": "Liegen Voor De Rechter",
+        "url": "https://open.spotify.com/album/4rYCqwqNchRfLJevz3Rw9W"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207157,
+      "name": "Liegen Voor De Rechter",
+      "url": "https://open.spotify.com/track/2bicgbzwgGJerEkAPv8D3s"
+    },
+    {
+      "album": {
         "name": "life gets hard",
         "url": "https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj"
       },
@@ -5938,6 +5964,24 @@
       "duration_ms": 140931,
       "name": "Toverdrank",
       "url": "https://open.spotify.com/track/4qidbujyhAzF3C3GdxjeN5"
+    },
+    {
+      "album": {
+        "name": "Spirits Having Flown",
+        "url": "https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303333,
+      "name": "Tragedy",
+      "url": "https://open.spotify.com/track/6UXXeFqMBGiqjkzQzkMT3E"
     },
     {
       "album": {

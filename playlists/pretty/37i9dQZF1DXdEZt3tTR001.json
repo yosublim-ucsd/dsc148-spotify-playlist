@@ -1,12 +1,12 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 158056,
+  "num_followers": 158122,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWUzOTE5MDZiZmQwZTA3YzRmY2ZmYTE1MzQ4YjMzZDA4NzliNDI1",
+  "snapshot_id": "MCw2ZDhiNDUzMjI5ZDJjZmMwYzczZjQyNjMwODNhMzUyN2JmOTNkMzU1",
   "tracks": [
     {
       "added_at": "2024-01-29 23:44:02",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-01-29 23:44:02",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 293979,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
-    },
-    {
-      "added_at": "2024-01-29 23:44:02",
-      "album": {
         "name": "Janet",
         "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 428200,
       "name": "Any Time, Any Place",
       "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
+    },
+    {
+      "added_at": "2024-01-29 23:44:02",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 293979,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
     },
     {
       "added_at": "2024-01-29 23:44:02",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-01-29 23:44:02",
       "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 262266,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
-    },
-    {
-      "added_at": "2024-01-29 23:44:02",
-      "album": {
         "name": "Even Closer",
         "url": "https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 229693,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2UXEwIOtNGUUgGdXnds8V7"
+    },
+    {
+      "added_at": "2024-01-29 23:44:02",
+      "album": {
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 262266,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
     },
     {
       "added_at": "2024-01-29 23:44:02",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2024-01-29 23:44:02",
       "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2024-01-29 23:44:02",
-      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 214600,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz"
+    },
+    {
+      "added_at": "2024-01-29 23:44:02",
+      "album": {
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 203036,
+      "name": "Out Loud (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
       "added_at": "2024-01-29 23:44:02",

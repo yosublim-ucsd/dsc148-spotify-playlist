@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Knocked Loose",
-  "num_followers": 476976,
+  "num_followers": 477039,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2Y2ODY4MzhjNWIyY2M2OTVlMDIyMmJiYWZmN2QwZGZiOWZmNjhk",
+  "snapshot_id": "MCw5MzUyNDI2NDNkOTExYzMwMTcwM2JhZThmNWM3YWE0MGIxODk4MDQz",
   "tracks": [
     {
       "added_at": "2023-06-20 21:21:38",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "LIVING PROOF",
+        "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
+      },
+      "artists": [
+        {
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+        }
+      ],
+      "duration_ms": 127933,
+      "name": "Evil Finds Light",
+      "url": "https://open.spotify.com/track/51ktvRKdU2hi52Ra9Q8rFF"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 227265,
       "name": "medicine",
       "url": "https://open.spotify.com/track/03CbQgFxnBFoaaVJTfEqMD"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "LIVING PROOF",
-        "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
-      },
-      "artists": [
-        {
-          "name": "DRAIN",
-          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
-        }
-      ],
-      "duration_ms": 127933,
-      "name": "Evil Finds Light",
-      "url": "https://open.spotify.com/track/51ktvRKdU2hi52Ra9Q8rFF"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "wonderful life (feat. Dani Filth)",
-        "url": "https://open.spotify.com/album/1uunFc8ZPthd7kFXaf393T"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Dani Filth",
-          "url": "https://open.spotify.com/artist/76qhZXwfMnhJPXacLwGcNK"
-        }
-      ],
-      "duration_ms": 274403,
-      "name": "wonderful life (feat. Dani Filth)",
-      "url": "https://open.spotify.com/track/1kq5dLuzkRLgemasnkUg9G"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Anon.",
         "url": "https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 216693,
       "name": "Guillotine",
       "url": "https://open.spotify.com/track/0Qv6SQFLzg3KGBlOgOEBJK"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "wonderful life (feat. Dani Filth)",
+        "url": "https://open.spotify.com/album/1uunFc8ZPthd7kFXaf393T"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Dani Filth",
+          "url": "https://open.spotify.com/artist/76qhZXwfMnhJPXacLwGcNK"
+        }
+      ],
+      "duration_ms": 274403,
+      "name": "wonderful life (feat. Dani Filth)",
+      "url": "https://open.spotify.com/track/1kq5dLuzkRLgemasnkUg9G"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Nothing is True & Everything is Possible",
+        "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
+      },
+      "artists": [
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        }
+      ],
+      "duration_ms": 226900,
+      "name": "satellites* *",
+      "url": "https://open.spotify.com/track/4MJcimcruJ4GkDsmVaHR3V"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Baptize",
         "url": "https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 185502,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/4I5QCNEbMbeRusKosXgZtK"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Nothing is True & Everything is Possible",
-        "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
-      },
-      "artists": [
-        {
-          "name": "Enter Shikari",
-          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
-        }
-      ],
-      "duration_ms": 226900,
-      "name": "satellites* *",
-      "url": "https://open.spotify.com/track/4MJcimcruJ4GkDsmVaHR3V"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "DEATH (Ever Colder)",
-        "url": "https://open.spotify.com/album/312yRj61uGSmld6RIl9zl4"
-      },
-      "artists": [
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 287692,
-      "name": "DEATH (Ever Colder)",
-      "url": "https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "wet milk",
         "url": "https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 136666,
       "name": "myfeelingshavefeelings",
       "url": "https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "DEATH (Ever Colder)",
+        "url": "https://open.spotify.com/album/312yRj61uGSmld6RIl9zl4"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 287692,
+      "name": "DEATH (Ever Colder)",
+      "url": "https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "In Our Wake",
-        "url": "https://open.spotify.com/album/1DXYDky3yWmlZyfknW5UT8"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 193196,
-      "name": "In Our Wake",
-      "url": "https://open.spotify.com/track/5CSBjkNvlyaDcYlbTuHZHP"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "It's Over",
         "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 203800,
       "name": "It's Over",
       "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "In Our Wake",
+        "url": "https://open.spotify.com/album/1DXYDky3yWmlZyfknW5UT8"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 193196,
+      "name": "In Our Wake",
+      "url": "https://open.spotify.com/track/5CSBjkNvlyaDcYlbTuHZHP"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Misery Made Me",
-        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
+        "name": "LIVING PROOF",
+        "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
       },
       "artists": [
         {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Our Song",
-      "url": "https://open.spotify.com/track/4TbQTssne2OMNMureg9Qtt"
+      "duration_ms": 139000,
+      "name": "FTS (KYS)",
+      "url": "https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "LIVING PROOF",
-        "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
+        "name": "Misery Made Me",
+        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
       },
       "artists": [
         {
-          "name": "DRAIN",
-          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
         }
       ],
-      "duration_ms": 139000,
-      "name": "FTS (KYS)",
-      "url": "https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR"
+      "duration_ms": 191000,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/4TbQTssne2OMNMureg9Qtt"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Familiar Drugs",
-        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
+        "name": "EGGY POCKET",
+        "url": "https://open.spotify.com/album/4R8AnjaHbyk7p8ugGF1Wbo"
       },
       "artists": [
         {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
         }
       ],
-      "duration_ms": 258718,
-      "name": "Familiar Drugs",
-      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
+      "duration_ms": 160982,
+      "name": "ISERIOUSLYDISLIKEMOSTOTHERHUMANS",
+      "url": "https://open.spotify.com/track/67BZCSAtonrsgtacsscLYG"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1511,34 +1511,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Misery Made Me",
-        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
+        "name": "Familiar Drugs",
+        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
       },
       "artists": [
         {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Bankrupt",
-      "url": "https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "EGGY POCKET",
-        "url": "https://open.spotify.com/album/4R8AnjaHbyk7p8ugGF1Wbo"
-      },
-      "artists": [
-        {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
-        }
-      ],
-      "duration_ms": 160982,
-      "name": "ISERIOUSLYDISLIKEMOSTOTHERHUMANS",
-      "url": "https://open.spotify.com/track/67BZCSAtonrsgtacsscLYG"
+      "duration_ms": 258718,
+      "name": "Familiar Drugs",
+      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5SyXDNKtQTzNiJ2aDQBPKA"
+      },
+      "artists": [
+        {
+          "name": "Boys of Fall",
+          "url": "https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/0wb8L0gFCKBnPHeG8Aw9OX"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Sudden Sky",
         "url": "https://open.spotify.com/album/7f8faOO0gxuG26Qo7GIlkr"
       },
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5SyXDNKtQTzNiJ2aDQBPKA"
+        "name": "Misery Made Me",
+        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
       },
       "artists": [
         {
-          "name": "Boys of Fall",
-          "url": "https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5"
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
         }
       ],
-      "duration_ms": 179600,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/0wb8L0gFCKBnPHeG8Aw9OX"
+      "duration_ms": 201600,
+      "name": "Bankrupt",
+      "url": "https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1"
     },
     {
       "added_at": "2023-06-20 21:21:38",

@@ -4,7 +4,7 @@
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Izzy Heltai
 
-174 songs - 10 hr 56 min
+175 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Just A Woman](https://open.spotify.com/track/6CwZv215C5uYwW277JsrLu) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U), [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [Just A Woman](https://open.spotify.com/album/5qPSuH0qcPnDv2q7HfDM5I) | 4:16 | 2021-06-01 |  |
 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2022-06-01 | 2023-06-02 |
 | [Keeping The Light On](https://open.spotify.com/track/4BXnNaxLDGU1i3PK3iaWns) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:43 | 2023-06-01 |  |
-| [letters to the hospital](https://open.spotify.com/track/22Pipp3pEZF2mRv5UHerSd) | [Mae Krell](https://open.spotify.com/artist/5OJHIYwDJ1TfeaFLYMSqqe) | [anabasis](https://open.spotify.com/album/4jK4azaPNIe9YHSsFxVU0C) | 3:23 | 2022-06-10 |  |
+| [letters to the hospital](https://open.spotify.com/track/1HT8TwJr3Mzu5SdBSGHNW9) | [Mae Krell](https://open.spotify.com/artist/5OJHIYwDJ1TfeaFLYMSqqe) | [anabasis](https://open.spotify.com/album/6QE83dueAkEJjuvrY1h62j) | 3:23 | 2023-09-29 |  |
+| [letters to the hospital](https://open.spotify.com/track/22Pipp3pEZF2mRv5UHerSd) | [Mae Krell](https://open.spotify.com/artist/5OJHIYwDJ1TfeaFLYMSqqe) | [anabasis](https://open.spotify.com/album/4jK4azaPNIe9YHSsFxVU0C) | 3:23 | 2022-06-10 | 2024-02-01 |
 | [Letters to the Hospital](https://open.spotify.com/track/14dXFfJPwnud9G3P4aiEtD) | [Mae Krell](https://open.spotify.com/artist/5OJHIYwDJ1TfeaFLYMSqqe) | [Anabasis](https://open.spotify.com/album/1z6RhPdfOzaBRFmjttqMUJ) | 3:23 | 2021-06-01 | 2022-07-29 |
 | [Lewis Takes Off His Shirt](https://open.spotify.com/track/03zkV1n3YFxKdSN4DxuOjy) | [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Heartland](https://open.spotify.com/album/10CBKFjUjk1VxnY304125O) | 5:08 | 2021-06-01 | 2022-07-29 |
 | [Lewis Takes Off His Shirt](https://open.spotify.com/track/5myPHd5YdYEu8z2SlDrAO9) | [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Heartland](https://open.spotify.com/album/3pWe8tdmIR4MfE5C4v5vg9) | 5:08 | 2022-06-10 |  |

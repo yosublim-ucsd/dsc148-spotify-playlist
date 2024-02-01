@@ -1,12 +1,12 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 559028,
+  "num_followers": 558960,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjVmNTkzYTZiNDc2NzRhMTBjYTYyNDNhNTFlZWQ0NzNmNjZhZDJi",
+  "snapshot_id": "MCw3MmI5NTIzNmYyYWRmODhhZWY5ZDg5NmE0YzQ5NGVhYTA1Yzk1YzVi",
   "tracks": [
     {
       "added_at": "2022-09-12 17:32:54",
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
+        "name": "Silvestre Vargas El Mejor Mariachi del Mundo, Vol. 1",
+        "url": "https://open.spotify.com/album/4cFIvxQiviu9sv1iuz8vhL"
       },
       "artists": [
         {
-          "name": "Luis Aguilar",
-          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
+          "name": "Mariachi Silvestre Vargas",
+          "url": "https://open.spotify.com/artist/16RPDOVQlVowqfNnRuRlRG"
         }
       ],
-      "duration_ms": 105293,
-      "name": "El Sinaloense",
-      "url": "https://open.spotify.com/track/0bxa8kZpLhhxg9ATooV3yQ"
+      "duration_ms": 189257,
+      "name": "Pelea de Gallos",
+      "url": "https://open.spotify.com/track/6InNhQw4WFyEZh1NeIAfwF"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -331,18 +331,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Silvestre Vargas El Mejor Mariachi del Mundo, Vol. 1",
-        "url": "https://open.spotify.com/album/4cFIvxQiviu9sv1iuz8vhL"
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
       },
       "artists": [
         {
-          "name": "Mariachi Silvestre Vargas",
-          "url": "https://open.spotify.com/artist/16RPDOVQlVowqfNnRuRlRG"
+          "name": "Luis Aguilar",
+          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
         }
       ],
-      "duration_ms": 189257,
-      "name": "Pelea de Gallos",
-      "url": "https://open.spotify.com/track/6InNhQw4WFyEZh1NeIAfwF"
+      "duration_ms": 105293,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/0bxa8kZpLhhxg9ATooV3yQ"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Ayer, Hoy y Siempre",
-        "url": "https://open.spotify.com/album/394u6nlGrWXFGQQYZV1h66"
+        "name": "Mariachi",
+        "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
       },
       "artists": [
         {
-          "name": "Mariachi Nuevo Ordaz de Pur\u00e9pero",
-          "url": "https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs"
+          "name": "Mariachi Arriba Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy"
         }
       ],
-      "duration_ms": 169760,
-      "name": "Un canto a Michoac\u00e1n",
-      "url": "https://open.spotify.com/track/4CDPllMl3h3eseqNJscV4o"
+      "duration_ms": 163346,
+      "name": "La Charreada",
+      "url": "https://open.spotify.com/track/7BZr4iXCUXHLvIOcu2PvYv"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Mariachi",
-        "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
+        "name": "Ayer, Hoy y Siempre",
+        "url": "https://open.spotify.com/album/394u6nlGrWXFGQQYZV1h66"
       },
       "artists": [
         {
-          "name": "Mariachi Arriba Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy"
+          "name": "Mariachi Nuevo Ordaz de Pur\u00e9pero",
+          "url": "https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs"
         }
       ],
-      "duration_ms": 163346,
-      "name": "La Charreada",
-      "url": "https://open.spotify.com/track/7BZr4iXCUXHLvIOcu2PvYv"
+      "duration_ms": 169760,
+      "name": "Un canto a Michoac\u00e1n",
+      "url": "https://open.spotify.com/track/4CDPllMl3h3eseqNJscV4o"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Cuando M\u00e9xico Canta",
-        "url": "https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW"
+        "name": "Mariachi",
+        "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
       },
       "artists": [
         {
-          "name": "Mariachi Nuevo Ordaz de Pur\u00e9pero",
-          "url": "https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs"
+          "name": "Mariachi Arriba Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy"
         }
       ],
-      "duration_ms": 322168,
-      "name": "Popurr\u00ed de Sones",
-      "url": "https://open.spotify.com/track/3M3fXgsaeOLSSq3lBq4ABT"
+      "duration_ms": 178386,
+      "name": "Juan Colorado",
+      "url": "https://open.spotify.com/track/2qqdRSEgnCaxg3gXnCQGJC"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Mariachi",
-        "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
+        "name": "Cuando M\u00e9xico Canta",
+        "url": "https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW"
       },
       "artists": [
         {
-          "name": "Mariachi Arriba Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy"
+          "name": "Mariachi Nuevo Ordaz de Pur\u00e9pero",
+          "url": "https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs"
         }
       ],
-      "duration_ms": 178386,
-      "name": "Juan Colorado",
-      "url": "https://open.spotify.com/track/2qqdRSEgnCaxg3gXnCQGJC"
+      "duration_ms": 322168,
+      "name": "Popurr\u00ed de Sones",
+      "url": "https://open.spotify.com/track/3M3fXgsaeOLSSq3lBq4ABT"
     },
     {
       "added_at": "2022-09-12 17:32:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH?si=tvOkEkbvR9O860WtFUOgJQ>Greatman Takit</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,960 likes - 99 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,994 likes - 99 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 45 | [Story \(Sped Up\)](https://open.spotify.com/track/5LreRdWti88nzH1KdqIesO) | [Mikeprince](https://open.spotify.com/artist/1Th4VZ8M5qpSQUoy8Hnus1) | [Story \(Sped Up\)](https://open.spotify.com/album/5qGnMC2LsIcEaFJ2507b2a) | 2:15 |
 | 46 | [Have Your Will](https://open.spotify.com/track/2x11OKWn8k842gIeOpkLW7) | [K Praise](https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV), [T.Rose](https://open.spotify.com/artist/6FNNw25VPuFm9p28Y0Kz2M) | [Have Your Will](https://open.spotify.com/album/1s7EDxuSOFWIN4fuO9CeMW) | 4:32 |
 | 47 | [You big](https://open.spotify.com/track/509QO1fqiniFmArhyY5EkK) | [Major Lex](https://open.spotify.com/artist/4XklwMcuRSKqJiIRTKncII) | [You big](https://open.spotify.com/album/3e0FzwNERMW73lWFzmyGf1) | 3:04 |
-| 48 | [Be Like \- Speed\-Up](https://open.spotify.com/track/7wbAjqXfek6A80TxfBO5Gd) | [Eriko NWA](https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1) | [Be Like \(Speed\-Up\)](https://open.spotify.com/album/5pTtBDEyLPi8tCFf8ViJBk) | 2:05 |
+| 48 | [Be Like \- Speed\-Up](https://open.spotify.com/track/7wbAjqXfek6A80TxfBO5Gd) | [Eriko NWA](https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1), [GIDYON](https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2) | [Be Like \(Speed\-Up\)](https://open.spotify.com/album/5pTtBDEyLPi8tCFf8ViJBk) | 2:05 |
 | 49 | [Fix My Eyes On You](https://open.spotify.com/track/5d2idhtzWLZsFgY4ZNgjGd) | [Mr\. DDavid](https://open.spotify.com/artist/7KIz93vDXB1hM19nB5vEvC) | [Fix My Eyes On You](https://open.spotify.com/album/5arR3bWcw9BxdRpKGpVvWU) | 4:21 |
 | 50 | [Praise Combo](https://open.spotify.com/track/5qpAVwV8wgR0P7YIGnKCff) | [Minister Exalted](https://open.spotify.com/artist/2x9ZDrAnr2ZN46X0Gl6vqH) | [Praise Combo](https://open.spotify.com/album/6pYXsuzai6a8iuGzCWZ3EP) | 2:47 |
 | 51 | [Rising Of The Sun](https://open.spotify.com/track/7q71yxHXlwib5UIV24rTXd) | [Minister Exalted](https://open.spotify.com/artist/2x9ZDrAnr2ZN46X0Gl6vqH) | [Rising Of The Sun](https://open.spotify.com/album/3fCiw2zPGzcKpELbxIb8BV) | 3:49 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 98 | [2rue love Refix](https://open.spotify.com/track/5kv3dukuvZdnZ7dgF5cM1s) | [Shadrach SBS](https://open.spotify.com/artist/2eKjftX5gKorRAzO2ECBtb) | [2rue love Refix](https://open.spotify.com/album/147BH1EIfsb9OVtu9g3waH) | 1:46 |
 | 99 | [You're Calling](https://open.spotify.com/track/6skQtYU6ybEhlzxAxDtJd2) | [Naje Busia](https://open.spotify.com/artist/4mg6KKHgOCPcHxNCr2CiaE), [Yolanda\-Marie](https://open.spotify.com/artist/30EoQ26SvJIk9hgGSGqVhQ) | [You're Calling](https://open.spotify.com/album/6CZtNsduMqIrS5l7JD59oZ) | 3:17 |
 
-Snapshot ID: `MCw5N2QyZTBhNGIyMWI1YjNjMjE3OWY1Njc2MjE3OWE5ZDk1M2NkNjlj`
+Snapshot ID: `MCw4YjNjMWQ2NTkwOTdhOTkxYjU5NjY1ZjdhMDg0YjM0ZWUxMjE0ZTNj`

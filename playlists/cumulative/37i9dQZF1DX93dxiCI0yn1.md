@@ -4,7 +4,7 @@
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組<a href="https://rapstar2023.jp/">「ラップスタア誕生」</a>歴代出場者、審査員の楽曲を特集。 Cover: ShowyVICTOR
 
-118 songs - 5 hr 47 min
+119 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Cryin'](https://open.spotify.com/track/5b0COot77QSL9vJsq0Ff0C) | [Joseph Blackwell](https://open.spotify.com/artist/5kTZuRiFilAylcSITvVHSL) | [Paranoid Grapes](https://open.spotify.com/album/1wAU5ZWBv2Oru9rlT42iWu) | 4:29 | 2023-10-24 |  |
 | [DAISOUSA](https://open.spotify.com/track/6f7YVYvULG8tqxuHsyX1fn) | [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R), [Xansei](https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [XEONWORLDVIEW DELUXE](https://open.spotify.com/album/4STcpyi6XeFKNhYoDPXVVz) | 3:06 | 2023-10-24 |  |
 | [Do u remember me](https://open.spotify.com/track/3M8hUUiLXqKkk4PCh1KZJN) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [Mall Tape 2](https://open.spotify.com/album/0f5URCBlzbh7u7TuSduM6n) | 3:28 | 2023-10-24 |  |
-| [Dojo](https://open.spotify.com/track/6jTJ2td7rnayXgtQ31QrQo) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [Dojo](https://open.spotify.com/album/4MbUwhqauyjV9V6lKJ4eSq) | 2:19 | 2024-01-30 |  |
+| [Dojo](https://open.spotify.com/track/1I9Q59UZaSNWA2DeWdDh4c) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [Dojo](https://open.spotify.com/album/6O1Iz6hmm73qvBjFoBYZZw) | 2:19 | 2024-01-30 |  |
+| [Dojo](https://open.spotify.com/track/6jTJ2td7rnayXgtQ31QrQo) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [Dojo](https://open.spotify.com/album/4MbUwhqauyjV9V6lKJ4eSq) | 2:19 | 2024-01-30 | 2024-02-01 |
 | [Don't like summer](https://open.spotify.com/track/7uSk16r78Ejl0f7ZxqJzdH) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Don't like summer](https://open.spotify.com/album/3apAwF4afRBWwmRJtpVGYU) | 2:33 | 2023-10-24 |  |
 | [febris](https://open.spotify.com/track/5Cz3D5zAzQa2ZrFnhc3q0s) | [JIROW WONDA](https://open.spotify.com/artist/12203Jb7IJuZD6yj6bgVi5) | [febris](https://open.spotify.com/album/2qHVJRyuzYcLRUJ7ippENn) | 2:21 | 2023-10-24 |  |
 | [FEEL THE RAIN](https://open.spotify.com/track/5S4qnop8G4JOMquKu8Hdd5) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/0WIVj9OTSnoe28qTwAjgyN) | 3:27 | 2023-10-24 |  |

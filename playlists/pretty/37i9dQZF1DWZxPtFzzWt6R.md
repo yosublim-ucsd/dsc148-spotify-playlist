@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Canção & Louvor
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,881 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,937 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,14 +35,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 25 | [Foi Deus](https://open.spotify.com/track/6meRPiVc7RBKznQxMqUxE2) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Foi Deus](https://open.spotify.com/album/5840Tg0AbhEkFn1srM1kd5) | 3:35 |
 | 26 | [Deus Proverá](https://open.spotify.com/track/217cgpXoXtpJTPa2YgfLAX) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Deus Proverá](https://open.spotify.com/album/01dSM55NXgqYhG6SP9rXxN) | 4:33 |
 | 27 | [Joelho no Chão e Boca no Pó \- Ao Vivo](https://open.spotify.com/track/6OeUDN3izttOU1LvvJ81DX) | [Ednan Rufino](https://open.spotify.com/artist/6bPFEqEJbkXhyDL5ycfR0a) | [Joelho no Chão e Boca no Pó \(Ao Vivo\)](https://open.spotify.com/album/1BwmmrxuyF1PP5qybeklH7) | 6:11 |
-| 28 | [Jesus É o Amor \(Piseiro Gospel\)](https://open.spotify.com/track/4w6hJmtwg800XyGi7SJvwf) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DD Junior](https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0) | [Jesus É o Amor \(Piseiro Gospel\)](https://open.spotify.com/album/1gb6JsVjlb64kMbGjMP6JS) | 3:07 |
-| 29 | [A Terra e o Lavrador](https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [A Terra e o Lavrador](https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb) | 3:20 |
+| 28 | [A Terra e o Lavrador](https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [A Terra e o Lavrador](https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb) | 3:20 |
+| 29 | [Jesus É o Amor \(Piseiro Gospel\)](https://open.spotify.com/track/4w6hJmtwg800XyGi7SJvwf) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DD Junior](https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0) | [Jesus É o Amor \(Piseiro Gospel\)](https://open.spotify.com/album/1gb6JsVjlb64kMbGjMP6JS) | 3:07 |
 | 30 | [O Crente e a Palmeira](https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Viola e Adoração](https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l) | 2:38 |
-| 31 | [Valor de uma Alma](https://open.spotify.com/track/5PNYvfnUi604xMYaFLw8pK) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV) | [Valor de uma Alma](https://open.spotify.com/album/0hECyVX0jpTJ1IWj3RgAMs) | 4:26 |
-| 32 | [Esperança](https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Esperança](https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg) | 4:32 |
+| 31 | [Esperança](https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Esperança](https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg) | 4:32 |
+| 32 | [Valor de uma Alma](https://open.spotify.com/track/5PNYvfnUi604xMYaFLw8pK) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV) | [Valor de uma Alma](https://open.spotify.com/album/0hECyVX0jpTJ1IWj3RgAMs) | 4:26 |
 | 33 | [Tudo](https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Tudo](https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK) | 4:31 |
-| 34 | [Lugar Secreto](https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT) | [Lucélia Santos](https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV) | [Lugar Secreto](https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk) | 3:46 |
-| 35 | [Ovelha Rebelde](https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [O Meu Clamor, Vol\. 2](https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e) | 3:14 |
+| 34 | [Ovelha Rebelde](https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [O Meu Clamor, Vol\. 2](https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e) | 3:14 |
+| 35 | [Lugar Secreto](https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT) | [Lucélia Santos](https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV) | [Lugar Secreto](https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk) | 3:46 |
 | 36 | [A Esperança Que Restou](https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM) | [Rayssa e Ravel](https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT) | [A Esperança Que Restou](https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I) | 4:41 |
 | 37 | [Estou de Volta](https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Estou de Volta](https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf) | 4:05 |
 | 38 | [Chuva de Poder](https://open.spotify.com/track/3MEgEIhFanSXp7dxmb7fmb) | [Gabriela Rodrigues](https://open.spotify.com/artist/3dCQ53bhVYWtm6VDtEMRqb) | [Chuva de Poder](https://open.spotify.com/album/0RpR497V9U9U6sPsEhITGr) | 3:16 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 59 | [Além da Medicina](https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Além da Medicina](https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED) | 4:46 |
 | 60 | [Refém do Caminhão](https://open.spotify.com/track/3DHX5Ca4Vzest42XWIMhrc) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Refém do Caminhão](https://open.spotify.com/album/0TPZmILuwLS8LvijT4cLKy) | 4:36 |
 
-Snapshot ID: `MCwyNTFkNzk0YmIxOTVjOGQwNjdiZmIyODRiOWRlMmViMjZmNmZlYWJh`
+Snapshot ID: `MCwyNTEyMjU1YTQ0Y2MzMGU4NGNmNTc1NTE5MzIzOGFiOWI1MDE1MTIy`

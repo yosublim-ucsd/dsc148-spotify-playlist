@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 
 > This is Panic! At The Disco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,876 likes - 46 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,877 likes - 46 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 | 17 | [Nine in the Afternoon \- Single Mix](https://open.spotify.com/track/1S30kHvkkdMkcuCTGSgS41) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 3:11 |
 | 18 | [Girls / Girls / Boys](https://open.spotify.com/track/2wEjPgOCEczmjlvq60LyQi) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Too Weird to Live, Too Rare to Die!](https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge) | 3:26 |
 | 19 | [LA Devotee](https://open.spotify.com/track/2fmCA13dwQQOGBIbIOWRiJ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:16 |
-| 20 | [Build God, Then We'll Talk](https://open.spotify.com/track/4rstj4vgkFq49R2VV0fbxX) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:40 |
-| 21 | [New Perspective](https://open.spotify.com/track/5psEUJWeJU2BiOYyWdjgxZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Jennifer's Body Music From The Original Motion Picture Soundtrack](https://open.spotify.com/album/6Fv4th1zIsXMvXDR5nvoox) | 3:47 |
+| 20 | [New Perspective](https://open.spotify.com/track/5psEUJWeJU2BiOYyWdjgxZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Jennifer's Body Music From The Original Motion Picture Soundtrack](https://open.spotify.com/album/6Fv4th1zIsXMvXDR5nvoox) | 3:47 |
+| 21 | [Build God, Then We'll Talk](https://open.spotify.com/track/4rstj4vgkFq49R2VV0fbxX) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:40 |
 | 22 | [Nicotine](https://open.spotify.com/track/5Q4H1XkVHxQjnrHCUpS61d) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Too Weird to Live, Too Rare to Die!](https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge) | 3:06 |
 | 23 | [Death of a Bachelor](https://open.spotify.com/track/1BECwm5qkaBwlbfo4kpYx8) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:23 |
 | 24 | [Let's Kill Tonight](https://open.spotify.com/track/14uvyd51Ha7FihKHlOtUig) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:33 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 | 45 | [She Had the World](https://open.spotify.com/track/673WCjn0SxKJD4qRKczaCk) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 3:47 |
 | 46 | [Local God](https://open.spotify.com/track/2RQ0D9N823H0WT1vSy74RM) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:00 |
 
-Snapshot ID: `Mjg0NDM2MzgsMDAwMDAwMDAwMzQyZjBlNGJlYWM2ODkwOGJjZTc3ZjJjNDgyZWE1Mw==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDA4NmY2ODE5NTg1MmM4YmM3MjlkMWJjNmU2MGQzNjA5OA==`

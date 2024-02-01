@@ -2447,6 +2447,28 @@
     },
     {
       "album": {
+        "name": "The Keymaker",
+        "url": "https://open.spotify.com/album/5STLj7Mkx2nwrCKdrSOnoR"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        },
+        {
+          "name": "LXCPR",
+          "url": "https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233806,
+      "name": "Locked Up",
+      "url": "https://open.spotify.com/track/6NURhpGBxcPREjrtBdfWeL"
+    },
+    {
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/1GcwL1qhxuTpZP405t9s2g"
       },
@@ -4584,7 +4606,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 241500,
       "name": "We are One (Official Leaderz 2023 Anthem)",
       "url": "https://open.spotify.com/track/2wVnIK8OHuNAvmvq30EsSt"

@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 119852,
+  "num_followers": 119893,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTQzZDc3MDMyMzY1Y2Q3MWY2ZDViYjY0ZWVlZGUxYThlZGUyMjE3",
+  "snapshot_id": "MCwwZTg3Y2Q3NzgyYzkyM2Y4NWUzNWE1ZGJhMDJjNWU3ZmIyYThlZDBl",
   "tracks": [
     {
       "added_at": "2022-06-28 08:56:25",
@@ -775,6 +775,30 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Handel: Organ Concertos, Op. 4",
+        "url": "https://open.spotify.com/album/2pflqKce344roWZ9shdTiC"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Richard Egarr",
+          "url": "https://open.spotify.com/artist/0wIAnpAug0yADcWCSB4jKq"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        }
+      ],
+      "duration_ms": 434333,
+      "name": "Organ Concertos, Op. 4, Concerto No. 6 in B-Flat Major, HWV 294: I. Andante allegro",
+      "url": "https://open.spotify.com/track/2hRO0WN2Goxy4NWaQW58XB"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Baroque Duet",
         "url": "https://open.spotify.com/album/1Qhu4B7qy5Ut1E8iUSt2Qx"
       },
@@ -803,30 +827,6 @@
       "duration_ms": 332026,
       "name": "Let the Bright Seraphim from Samson, HWV 57 - Voice",
       "url": "https://open.spotify.com/track/1GpGul0ESFCDuaaL0ccSFt"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Organ Concertos, Op. 4",
-        "url": "https://open.spotify.com/album/2pflqKce344roWZ9shdTiC"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Richard Egarr",
-          "url": "https://open.spotify.com/artist/0wIAnpAug0yADcWCSB4jKq"
-        },
-        {
-          "name": "Academy of Ancient Music",
-          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
-        }
-      ],
-      "duration_ms": 434333,
-      "name": "Organ Concertos, Op. 4, Concerto No. 6 in B-Flat Major, HWV 294: I. Andante allegro",
-      "url": "https://open.spotify.com/track/2hRO0WN2Goxy4NWaQW58XB"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -951,6 +951,30 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "John Eliot Gardiner Conducts Handel",
+        "url": "https://open.spotify.com/album/5c1KNy2PXJttM46NhAq3hN"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        }
+      ],
+      "duration_ms": 131479,
+      "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
+      "url": "https://open.spotify.com/track/6cWPW3Z6t4ECwzYVybTA6T"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Royal Fireworks",
         "url": "https://open.spotify.com/album/5VBPDKdQ3UDSf3jXvOiIcr"
       },
@@ -975,30 +999,6 @@
       "duration_ms": 133106,
       "name": "Handel: Music for the Royal Fireworks, HWV 351: I. Overture (Adagio)",
       "url": "https://open.spotify.com/track/3rUZoFYbTiFJc4gxQDz3Hg"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "John Eliot Gardiner Conducts Handel",
-        "url": "https://open.spotify.com/album/5c1KNy2PXJttM46NhAq3hN"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        }
-      ],
-      "duration_ms": 131479,
-      "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
-      "url": "https://open.spotify.com/track/6cWPW3Z6t4ECwzYVybTA6T"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "H\u00e4ndel: Water Works",
-        "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Syr\u00e8ne Saxophone Quartet",
-          "url": "https://open.spotify.com/artist/42zAZXwDwnuYmn4RmEZxWo"
-        }
-      ],
-      "duration_ms": 64773,
-      "name": "Water Music: Suite No. 2 in D, HWV 349: XIII. Minuet",
-      "url": "https://open.spotify.com/track/7CM56fEgOdGeq9w7e6bSsd"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Best of Handel",
         "url": "https://open.spotify.com/album/2kvMgK5fsB3TGdvYROToy2"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 233760,
       "name": "Eternal Source Of Light Divine (Ode For The Birthday Of Queen Anne), HWV 74",
       "url": "https://open.spotify.com/track/301GhrxRRyQ0h8NP6NQQxc"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "H\u00e4ndel: Water Works",
+        "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Syr\u00e8ne Saxophone Quartet",
+          "url": "https://open.spotify.com/artist/42zAZXwDwnuYmn4RmEZxWo"
+        }
+      ],
+      "duration_ms": 64773,
+      "name": "Water Music: Suite No. 2 in D, HWV 349: XIII. Minuet",
+      "url": "https://open.spotify.com/track/7CM56fEgOdGeq9w7e6bSsd"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1299,30 +1299,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
-        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
-        },
-        {
-          "name": "New York Philharmonic",
-          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
-        }
-      ],
-      "duration_ms": 142133,
-      "name": "Water Music: Suite No. 2 in D Major, HWV 349, I. Allegro",
-      "url": "https://open.spotify.com/track/1aK44lWlnmXhfWNbOzhZn5"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "HANDEL: Recorder Sonatas, Op. 1, Nos. 2, 4, 7 and 11",
         "url": "https://open.spotify.com/album/1vaSnKicMO4nHHMY77vAlv"
       },
@@ -1347,6 +1323,30 @@
       "duration_ms": 134800,
       "name": "Recorder Sonata in F Major, Op. 1 No. 11, HWV 369: I. Larghetto",
       "url": "https://open.spotify.com/track/0RH8m7C8hHdOZip0Oml7vp"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
+        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "duration_ms": 142133,
+      "name": "Water Music: Suite No. 2 in D Major, HWV 349, I. Allegro",
+      "url": "https://open.spotify.com/track/1aK44lWlnmXhfWNbOzhZn5"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1475,34 +1475,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Ren\u00e9e Fleming - Handel Arias",
-        "url": "https://open.spotify.com/album/53QDC8TNL7CEHRhbwpuudB"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Ren\u00e9e Fleming",
-          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
-        },
-        {
-          "name": "Orchestra of the Age of Enlightenment",
-          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
-        },
-        {
-          "name": "Harry Bicket",
-          "url": "https://open.spotify.com/artist/634i1ptyc5dA18xYg9hHL9"
-        }
-      ],
-      "duration_ms": 292373,
-      "name": "Giulio Cesare / Act 2: \"V'adoro, pupille\"",
-      "url": "https://open.spotify.com/track/1WlUctCmXbyC5eKbJZ8Un0"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Athalia",
         "url": "https://open.spotify.com/album/6tiExi2Ol2HpGMPTtBvAcU"
       },
@@ -1555,6 +1527,58 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Ren\u00e9e Fleming - Handel Arias",
+        "url": "https://open.spotify.com/album/53QDC8TNL7CEHRhbwpuudB"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "Orchestra of the Age of Enlightenment",
+          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
+        },
+        {
+          "name": "Harry Bicket",
+          "url": "https://open.spotify.com/artist/634i1ptyc5dA18xYg9hHL9"
+        }
+      ],
+      "duration_ms": 292373,
+      "name": "Giulio Cesare / Act 2: \"V'adoro, pupille\"",
+      "url": "https://open.spotify.com/track/1WlUctCmXbyC5eKbJZ8Un0"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Water Music; Music For The Royal Fireworks",
+        "url": "https://open.spotify.com/album/21EO8CCwxMvVpIPvhHP6Q4"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Concertgebouw Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/254914edb11tMrw8vCDjut"
+        },
+        {
+          "name": "Simon Preston",
+          "url": "https://open.spotify.com/artist/2w0dRPpzDTNYZmV9AplCD0"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "Water Music Suite No. 1 in F, HWV 348: 3a. Allegro",
+      "url": "https://open.spotify.com/track/7tn0NUPLTxnpLQBqblZDzI"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Handel: Rodelinda",
         "url": "https://open.spotify.com/album/5XShHnZAUtGkczKq62J2o1"
       },
@@ -1603,30 +1627,6 @@
       "duration_ms": 203066,
       "name": "Laudate Pueri (Psalm 112): Laudate Pueri Dominum",
       "url": "https://open.spotify.com/track/2iypBiPebvQux3ZyZY5Sbe"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Water Music; Music For The Royal Fireworks",
-        "url": "https://open.spotify.com/album/21EO8CCwxMvVpIPvhHP6Q4"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Concertgebouw Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/254914edb11tMrw8vCDjut"
-        },
-        {
-          "name": "Simon Preston",
-          "url": "https://open.spotify.com/artist/2w0dRPpzDTNYZmV9AplCD0"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Water Music Suite No. 1 in F, HWV 348: 3a. Allegro",
-      "url": "https://open.spotify.com/track/7tn0NUPLTxnpLQBqblZDzI"
     },
     {
       "added_at": "2022-06-28 08:56:25",

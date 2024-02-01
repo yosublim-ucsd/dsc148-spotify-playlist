@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,348 songs - 2 day 22 hr 7 min
+1,349 songs - 2 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,6 +471,7 @@
 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 | 2023-06-06 | 2023-06-09 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2021-05-23 | 2021-12-05 |
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2021-05-18 | 2021-05-23 |
+| [Good To Be](https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be](https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW) | 2:27 | 2024-01-31 |  |
 | [Good Without](https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Good Without](https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4) | 3:02 | 2021-04-26 | 2021-06-20 |
 | [Goosebumps](https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps](https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS) | 2:43 | 2021-03-27\* | 2021-04-14 |
 | [Goud](https://open.spotify.com/track/3aViSiRTiK1e5OqJtUk3MS) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Goud](https://open.spotify.com/album/4BqgPdobyinht8gNWxcVE2) | 3:22 | 2021-03-27\* | 2021-08-31 |
@@ -977,7 +978,7 @@
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2021-04-11 | 2021-05-16 |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-04-18 | 2021-08-15 |
 | [Raw](https://open.spotify.com/track/1ybV1AbXbPL21txRsQzUyl) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Raw](https://open.spotify.com/album/4aqHG3fkEnqZ1lFT0YQNSn) | 2:38 | 2021-10-03 | 2021-10-10 |
-| [Ready 4 War](https://open.spotify.com/track/4ZT0SLVKbIL3M5HreJTyLI) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8) | [Ready 4 War](https://open.spotify.com/album/4Jyi5of9SsyQmpXmhF6z3S) | 2:25 | 2024-01-27 |  |
+| [Ready 4 War](https://open.spotify.com/track/4ZT0SLVKbIL3M5HreJTyLI) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8) | [Ready 4 War](https://open.spotify.com/album/4Jyi5of9SsyQmpXmhF6z3S) | 2:25 | 2024-01-27 | 2024-02-01 |
 | [Red Notice](https://open.spotify.com/track/5DyJwD2nGIgfCICFyT8rM4) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Fatah](https://open.spotify.com/artist/5tzrNHhl5pR4ljkkaz4DHN) | [Winter Jacka](https://open.spotify.com/album/3bXmKey4T43fbWkK1ofddv) | 2:35 | 2024-01-06 | 2024-01-19 |
 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-01-15 |  |
 | [Regen](https://open.spotify.com/track/2nEQ9bdrr2W7uiCx7hJeCS) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [KLEINE](https://open.spotify.com/album/31p2Uf2DdQfS2o9vcs9wEx) | 2:25 | 2021-04-29 | 2021-06-13 |

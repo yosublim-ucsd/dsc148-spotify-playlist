@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 750838,
+  "num_followers": 750934,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGVlOTM2MjVlODM0MjIyYTAwMWQ3M2U5ZGYwMzdlNTgzOTJhZmI0",
+  "snapshot_id": "MCw5MGQ5M2RmN2QzNmMwMDI2YzdkMTZkNGQ1MGY5ZGJlNTI4Y2EzNGZl",
   "tracks": [
     {
       "added_at": "2023-11-14 12:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
+        "name": "Aguacero",
+        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
+      },
+      "artists": [
+        {
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+        }
+      ],
+      "duration_ms": 402545,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
         "name": "Experiencing a Significant Gravitas Shortfall",
         "url": "https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 292000,
       "name": "Experiencing a Significant Gravitas Shortfall - TACHES Remix",
       "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Aguacero",
-        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
-      },
-      "artists": [
-        {
-          "name": "Sebjak",
-          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
-        }
-      ],
-      "duration_ms": 402545,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
+        "name": "Ancestry",
+        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
+      },
+      "artists": [
+        {
+          "name": "Mux",
+          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
+        }
+      ],
+      "duration_ms": 294661,
+      "name": "El Dolor",
+      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
         "name": "Eternal Road",
         "url": "https://open.spotify.com/album/47ux4aY4iFXBN6XwwNtSkc"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 185739,
       "name": "Eternal Road - Edit",
       "url": "https://open.spotify.com/track/0xYVFbpiJ4wl9lGPzvgEie"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Ancestry",
-        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
-      },
-      "artists": [
-        {
-          "name": "Mux",
-          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
-        }
-      ],
-      "duration_ms": 294661,
-      "name": "El Dolor",
-      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Jendayi EP",
-        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
-      },
-      "artists": [
-        {
-          "name": "Anber",
-          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
-        }
-      ],
-      "duration_ms": 391511,
-      "name": "Jendayi",
-      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
         "name": "Into Your Tribe (Bedouin Remix)",
         "url": "https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Se Va, Se Va",
-        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
+        "name": "Jendayi EP",
+        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
       },
       "artists": [
         {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+          "name": "Anber",
+          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
         }
       ],
-      "duration_ms": 449509,
-      "name": "Se Va, Se Va",
-      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
+      "duration_ms": 391511,
+      "name": "Jendayi",
+      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -795,6 +779,22 @@
       "duration_ms": 482715,
       "name": "Entrecote",
       "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Se Va, Se Va",
+        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 449509,
+      "name": "Se Va, Se Va",
+      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -975,22 +975,18 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "La Isla",
-        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
+        "name": "Patika",
+        "url": "https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ"
       },
       "artists": [
         {
-          "name": "Megablast",
-          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
-        },
-        {
-          "name": "Eribertho Cruz",
-          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
+          "name": "Hezarfen",
+          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
         }
       ],
-      "duration_ms": 193306,
-      "name": "La Isla - Radio Version",
-      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
+      "duration_ms": 333818,
+      "name": "Patika",
+      "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -1011,18 +1007,22 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Patika",
-        "url": "https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ"
+        "name": "La Isla",
+        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
       },
       "artists": [
         {
-          "name": "Hezarfen",
-          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
+          "name": "Megablast",
+          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
+        },
+        {
+          "name": "Eribertho Cruz",
+          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
         }
       ],
-      "duration_ms": 333818,
-      "name": "Patika",
-      "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
+      "duration_ms": 193306,
+      "name": "La Isla - Radio Version",
+      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/5LlS93cEkVy5VermCbVEp4"
+      },
+      "artists": [
+        {
+          "name": "Antaares",
+          "url": "https://open.spotify.com/artist/4a6SWpboKXeExMh2XbSHC3"
+        }
+      ],
+      "duration_ms": 396960,
+      "name": "Ciclos",
+      "url": "https://open.spotify.com/track/6G6SAy7BwNGKttAFGjADmQ"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
         "name": "REKERE",
         "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 465502,
       "name": "Kwenzenjani",
       "url": "https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/5LlS93cEkVy5VermCbVEp4"
-      },
-      "artists": [
-        {
-          "name": "Antaares",
-          "url": "https://open.spotify.com/artist/4a6SWpboKXeExMh2XbSHC3"
-        }
-      ],
-      "duration_ms": 396960,
-      "name": "Ciclos",
-      "url": "https://open.spotify.com/track/6G6SAy7BwNGKttAFGjADmQ"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        },
-        {
-          "name": "Arya Noble",
-          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
         "name": "Parivartan",
         "url": "https://open.spotify.com/album/5DOEiK1Wt4SDsXmKWBYVPp"
       },
@@ -1243,6 +1223,26 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        },
+        {
+          "name": "Arya Noble",
+          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
         "name": "Time & Space",
         "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
       },
@@ -1259,6 +1259,30 @@
       "duration_ms": 381176,
       "name": "Time",
       "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Bem a Tempo (Yemanjo Remix)",
+        "url": "https://open.spotify.com/album/4hAhIqwRzsd1KLMcHYOlN2"
+      },
+      "artists": [
+        {
+          "name": "Mose",
+          "url": "https://open.spotify.com/artist/29osCpAsrEiHxE8t6khiJr"
+        },
+        {
+          "name": "Castello Branco",
+          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
+        },
+        {
+          "name": "Yemanjo",
+          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
+        }
+      ],
+      "duration_ms": 337714,
+      "name": "Bem a Tempo - Yemanjo Remix",
+      "url": "https://open.spotify.com/track/5HSSXa50YSC7TUC32IjwVD"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -1295,30 +1319,6 @@
       "duration_ms": 304418,
       "name": "Samra Samra",
       "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Bem a Tempo (Yemanjo Remix)",
-        "url": "https://open.spotify.com/album/4hAhIqwRzsd1KLMcHYOlN2"
-      },
-      "artists": [
-        {
-          "name": "Mose",
-          "url": "https://open.spotify.com/artist/29osCpAsrEiHxE8t6khiJr"
-        },
-        {
-          "name": "Castello Branco",
-          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
-        },
-        {
-          "name": "Yemanjo",
-          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
-        }
-      ],
-      "duration_ms": 337714,
-      "name": "Bem a Tempo - Yemanjo Remix",
-      "url": "https://open.spotify.com/track/5HSSXa50YSC7TUC32IjwVD"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Beat Cari",
-        "url": "https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B"
+        "name": "RAI",
+        "url": "https://open.spotify.com/album/3ydSWrutw1Q9JMXkTnFBUW"
       },
       "artists": [
         {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+          "name": "Sound Quelle",
+          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
         }
       ],
-      "duration_ms": 332142,
-      "name": "Beat Cari",
-      "url": "https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B"
+      "duration_ms": 238168,
+      "name": "RAI",
+      "url": "https://open.spotify.com/track/2aEugZjPLE6nDImluCkcS1"
     }
   ],
   "unique_name": "Org\u00e1nica",

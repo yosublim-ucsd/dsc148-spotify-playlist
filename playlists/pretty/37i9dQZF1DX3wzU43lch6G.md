@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,062 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,054 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 7 | [Şanıma İnanma](https://open.spotify.com/track/6dDHqJjTWOmWaAutbEpiwT) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Bahane](https://open.spotify.com/album/1smWtLb75FHp95xJgBA5sa) | 3:55 |
 | 8 | [Bodrum](https://open.spotify.com/track/7DarbtpxRUG5POF3ifwu61) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Akustik Travma](https://open.spotify.com/album/0Erg7yjR99NFQcdh9rYMZU) | 3:55 |
 | 9 | [Cesaretsizce Olmuyor](https://open.spotify.com/track/3GXkYMKJ443tsH5KmOABnw) | [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd) | [Yineleme](https://open.spotify.com/album/0BWmz7idU4DyD2MENZiwB3) | 3:12 |
-| 10 | [Bu Böyle](https://open.spotify.com/track/5pTksaP35b9wuqxKtDtSsi) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Rengarenk](https://open.spotify.com/album/2Olkwck5v3eQcUxFfSV6AI) | 4:48 |
-| 11 | [Sakın Gelme](https://open.spotify.com/track/0Wtrou4tplwRr2ZHN9SG96) | [MFÖ](https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND) | [M.V.A.B](https://open.spotify.com/album/6A2kt6EmZI2L6UV2dZak7W) | 2:49 |
+| 10 | [Sakın Gelme](https://open.spotify.com/track/0Wtrou4tplwRr2ZHN9SG96) | [MFÖ](https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND) | [M.V.A.B](https://open.spotify.com/album/6A2kt6EmZI2L6UV2dZak7W) | 2:49 |
+| 11 | [Bu Böyle](https://open.spotify.com/track/5pTksaP35b9wuqxKtDtSsi) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Rengarenk](https://open.spotify.com/album/2Olkwck5v3eQcUxFfSV6AI) | 4:48 |
 | 12 | [Yana Yana](https://open.spotify.com/track/372o63OFKXAni65PUS3IOu) | [Polen](https://open.spotify.com/artist/3l78tHbr4raiOhKaZffRyl) | [Yana Yana](https://open.spotify.com/album/1Yng9AITulVtHIUTNFDoRW) | 2:27 |
 | 13 | [Gül Döktüm Yollarına](https://open.spotify.com/track/2v57dbjigdKRh7MY6ME3WB) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Aacayipsin](https://open.spotify.com/album/06EBiLh3V0q2dOUdXnic7e) | 4:09 |
 | 14 | [Tac Mahal](https://open.spotify.com/track/26uHtSrQXUad9uCqxPiIXJ) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Kehanet](https://open.spotify.com/album/54fUFXduCOTJEksa3bUU89) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 49 | [Nereye Böyle](https://open.spotify.com/track/55TrAm9okj6Kwj9KOvRHAL) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Yan Yana Fotoğraf Çektirelim](https://open.spotify.com/album/3L6OlTkIhVflGPFy2Tzl6A) | 4:37 |
 | 50 | [Aşk Yeniden](https://open.spotify.com/track/7lQpqtDVqsl6go3XrmfQBR) | [Yeni Türkü](https://open.spotify.com/artist/5Oo6D3FLRpWjgBn0mqfiA3) | [Her Dem Yeni \(Yirmi Seçilmiş Şarkı\)](https://open.spotify.com/album/3lReGFhnQrP7bqnVTRjEfX) | 2:49 |
 
-Snapshot ID: `MCwwYWYwYWUwNGY4MmI2YzQyMDkyNjVkNWYxM2JkY2YxZTNjYWVlYTBk`
+Snapshot ID: `MCwwODU0MzY0OGRmNzg4NmZkYzY3NWMzMzJjNDVkMDJlNzBlNWU5Yjll`

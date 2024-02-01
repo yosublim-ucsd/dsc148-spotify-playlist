@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,973 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,033 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 10 | [Green Silk](https://open.spotify.com/track/28bxBvsA2B8685eMYNFCIP) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [Green Silk](https://open.spotify.com/album/5RUyn4ntv0Mb3zygj1BjDa) | 4:06 |
 | 11 | [Smashed Lies](https://open.spotify.com/track/6S5XgvlxcMQtZj1xFQVdc8) | [Mitekiss](https://open.spotify.com/artist/1yOKWVERbo2WSQb9kcsNbH) | [Love Me, Haunt Me / Smashed Lies](https://open.spotify.com/album/58TNPOAoE9KZ5XJPISGKPq) | 4:08 |
 | 12 | [In The Likeness Of You](https://open.spotify.com/track/4s7YxlWYJePQVsPxLNMIfa) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ) | [In The Likeness Of You](https://open.spotify.com/album/1IibxYjh02gKOc3VjFGV71) | 4:04 |
-| 13 | [Do U?](https://open.spotify.com/track/0KnMV02q60Kkq05xp5ljlS) | [Ownglow](https://open.spotify.com/artist/5y0Z76say1n6Vj2mQnUHNj) | [Do U?](https://open.spotify.com/album/4G5Z1F5ktgxy9HsokUjd5G) | 4:42 |
+| 13 | [Done With You \(feat\. Mila Falls\)](https://open.spotify.com/track/4RcdOaS9En9fVFkeTBhXZm) | [Waypoint](https://open.spotify.com/artist/2cYKwh8BgTHvonjchKOIqn), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Done With You \(feat\. Mila Falls\)](https://open.spotify.com/album/75XO9NnxwyhtacWrsBBBqC) | 2:22 |
 | 14 | [Was It Enough](https://open.spotify.com/track/7ftbGeJEZCJTuLEpoeZl9m) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Was It Enough](https://open.spotify.com/album/7gghxoaleNauVod7MSNq1P) | 2:20 |
 | 15 | [Afterthought](https://open.spotify.com/track/1SMORwVIMmVDIFXfgUSmsE) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Afterthought](https://open.spotify.com/album/5yBSqRAxEt5eRFzPSQDxVh) | 4:22 |
 | 16 | [Malkia](https://open.spotify.com/track/45n3JtqEm1v2j6bmG77ywg) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9) | [Malkia](https://open.spotify.com/album/1MEdQSsJgrmaVsiNQcQCoU) | 3:01 |
-| 17 | [Done With You \(feat\. Mila Falls\)](https://open.spotify.com/track/4RcdOaS9En9fVFkeTBhXZm) | [Waypoint](https://open.spotify.com/artist/2cYKwh8BgTHvonjchKOIqn), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Done With You \(feat\. Mila Falls\)](https://open.spotify.com/album/75XO9NnxwyhtacWrsBBBqC) | 2:22 |
+| 17 | [Do U?](https://open.spotify.com/track/0KnMV02q60Kkq05xp5ljlS) | [Ownglow](https://open.spotify.com/artist/5y0Z76say1n6Vj2mQnUHNj) | [Do U?](https://open.spotify.com/album/4G5Z1F5ktgxy9HsokUjd5G) | 4:42 |
 | 18 | [Overthinking](https://open.spotify.com/track/7K7ZOgAQ6DaW5764wIzNsB) | [Fullalove](https://open.spotify.com/artist/11yEK822VdsSbd2JgnrLKh) | [Overthinking](https://open.spotify.com/album/6B6MUnF4XUazXHUgZu4Hu2) | 3:58 |
 | 19 | [Dreaming Of You](https://open.spotify.com/track/7iSNRfFHvHeYL3fq4Njqd9) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Dreaming Of You](https://open.spotify.com/album/3qYlIJsZmQyM9K9CfSv9Ri) | 3:24 |
 | 20 | [Sugar](https://open.spotify.com/track/6OPZYgkL3w7R0ndqRiOmUm) | [Zar](https://open.spotify.com/artist/3JQUhdIaezcwwJ6SqRPNY2), [Motiv](https://open.spotify.com/artist/1hpBWbyRpkKGeNF5W3a7vp), [Anya Asia](https://open.spotify.com/artist/3e3CvN6gZzgDSMTmdicIde) | [Sugar](https://open.spotify.com/album/5vbBGdOMXNrtPG3gzjGHD1) | 4:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 49 | [Something Good](https://open.spotify.com/track/6baWEskdN5ZKy6TyA2fm5Z) | [GLXY](https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7), [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC) | [Something Good](https://open.spotify.com/album/2xRGteG3RlpT2IGXTHZF0h) | 3:32 |
 | 50 | [Diamonds](https://open.spotify.com/track/4Rarf4MYN0YdFhNKuAMfTp) | [Seba](https://open.spotify.com/artist/3ac1UBV3aHTPZ94T0PhfvS), [Samuel Lancine](https://open.spotify.com/artist/2R1Th5MYsqcss3rJXVyJmN), [Björn Berglund](https://open.spotify.com/artist/3TDlbePC2ZlRn1OcCWnnfi) | [Ingaro](https://open.spotify.com/album/5PdipBlyX6oMt1UrjbQi9u) | 4:36 |
 
-Snapshot ID: `MCxkYWM0MWE1Y2Q0ZTFiN2NmNjU0YmM4ZDAzZThlNGM3NjA1MzQ5MDI5`
+Snapshot ID: `MCw4ZmYzMmQzYTBlZDM4YjUxZDIwYTIzMGQzODc0MWE2MDJjYTMxMTU1`

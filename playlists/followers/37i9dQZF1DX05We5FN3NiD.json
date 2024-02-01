@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 42303,
+  "2024-02-01": 42316,
   "date_first_scraped": "2022-09-17",
   "description": "2019 highlights from the home of indie music.",
   "name": "Best of Indie 2019",
@@ -1786,6 +1786,28 @@
     },
     {
       "album": {
+        "name": "Rushing Back (feat. Vera Blue)",
+        "url": "https://open.spotify.com/album/29OgoLRPAWEYSWgwkemiHT"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231663,
+      "name": "Rushing Back (feat. Vera Blue)",
+      "url": "https://open.spotify.com/track/4uyYsLMnxzzIB6LE81g4OF"
+    },
+    {
+      "album": {
         "name": "I Am Easy to Find",
         "url": "https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h"
       },
@@ -2335,7 +2357,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 280200,
       "name": "Unbearably White",
       "url": "https://open.spotify.com/track/2FjoCQaBoiEKs3FCvD0HkR"

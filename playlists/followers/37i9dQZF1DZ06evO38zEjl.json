@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 2927,
+  "2024-02-01": 2927,
   "date_first_scraped": "2022-05-30",
   "description": "This is Jon Hassell. The essential tracks, all in one playlist.",
   "name": "This Is Jon Hassell",
@@ -1221,7 +1221,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 174533,
       "name": "Kaboo (Play)",
       "url": "https://open.spotify.com/track/2TdwrQYsa1eTOH1R5NeZHX"
@@ -1329,7 +1329,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 429160,
       "name": "Maarifa Street",
       "url": "https://open.spotify.com/track/6jAmLyyGnms8l7crD3QTmn"
@@ -1565,7 +1565,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 270040,
       "name": "Ondas Do Mar De Vigo",
       "url": "https://open.spotify.com/track/79JXjJ4YPgLlgJEJ9BJ9Wd"
@@ -1705,6 +1705,36 @@
       "duration_ms": 213253,
       "name": "Parasol Blanc, pt. 2",
       "url": "https://open.spotify.com/track/1VeMQPvEgDpbmszWba9vIR"
+    },
+    {
+      "album": {
+        "name": "The Surgeon of the Nightsky Restores Dead Things by the Power of Sound",
+        "url": "https://open.spotify.com/album/74g7seSo0zRdbrTYee6CnF"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "J.A. Deane",
+          "url": "https://open.spotify.com/artist/1mhS5UKsgRzY9KffORVlQ3"
+        },
+        {
+          "name": "Jean-Philippe Rykiel",
+          "url": "https://open.spotify.com/artist/1a3YO3CW9t7nyNUUkYNzVn"
+        },
+        {
+          "name": "Michael Brook",
+          "url": "https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348172,
+      "name": "Paris I",
+      "url": "https://open.spotify.com/track/4aEYTBCoBR8j2rqoMDsM30"
     },
     {
       "album": {
@@ -2407,7 +2437,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 263306,
       "name": "Warm Shift",
       "url": "https://open.spotify.com/track/7gGjI3K2oHJb3tZKbCuX4l"
@@ -2443,7 +2473,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 453120,
       "name": "Wing Melodies",
       "url": "https://open.spotify.com/track/3nWWMBKHbfhQGZOYHKynKb"

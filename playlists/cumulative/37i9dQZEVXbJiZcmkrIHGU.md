@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-2,323 songs - 4 day 17 hr 45 min
+2,324 songs - 4 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [August](https://open.spotify.com/track/6SYISkUBtn8rUrQuuQezl7) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [August](https://open.spotify.com/album/02JVkteRkb998atUxfw0Xo) | 2:48 | 2023-03-04 | 2023-03-09 |
 | [AUSMACHT](https://open.spotify.com/track/5EqNQy5SQgXIRQ86oYvUlf) | [Emilio](https://open.spotify.com/artist/1HFnM3rs2ZJWVL9q273DYF) | [AUSMACHT](https://open.spotify.com/album/1l35wpORDxzKGwnsfWQnWv) | 2:28 | 2022-06-04 | 2022-07-03 |
 | [AUSMACHT](https://open.spotify.com/track/6sDfeHgrQvvBFdg88Qq8TM) | [Emilio](https://open.spotify.com/artist/1HFnM3rs2ZJWVL9q273DYF) | [1996](https://open.spotify.com/album/1uJ0u1MAN1yfCnc2O7edPO) | 2:28 | 2022-07-02 | 2022-08-14 |
-| [Ausreden](https://open.spotify.com/track/6ocEdv3r2yASPGP7moFUeZ) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Ausreden](https://open.spotify.com/album/68bqFhNUUavffB9OpTP065) | 2:13 | 2024-01-27 |  |
+| [Ausreden](https://open.spotify.com/track/6ocEdv3r2yASPGP7moFUeZ) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Ausreden](https://open.spotify.com/album/68bqFhNUUavffB9OpTP065) | 2:13 | 2024-01-27 | 2024-02-01 |
 | [Autotür](https://open.spotify.com/track/6w3L8n7b9Y1dZ8JU1tHdzu) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Afterhour](https://open.spotify.com/album/0ZEko4S82xOiMwebpkqloK) | 2:57 | 2021-06-20 | 2021-06-28 |
 | [AVA](https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [AVA](https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1) | 2:39 | 2022-11-19 | 2022-12-04 |
 | [AVANTGARDE](https://open.spotify.com/track/32YPSMGg2VthSByh7kdRfq) | [Brudi030](https://open.spotify.com/artist/7J0LWYD28ay7XQBjlWL9jM), [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [AVANTGARDE](https://open.spotify.com/album/73HRzVbYKMEGJgcnIQX6SM) | 3:01 | 2022-01-12 | 2022-01-14 |
@@ -1399,6 +1399,7 @@
 | [Money kommt](https://open.spotify.com/track/4WxKHrjcR6uENiJFmLmMEE) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Quada](https://open.spotify.com/artist/0eAqhr1BfTzJEfOEn0Ad19) | [Grosse Freiheit](https://open.spotify.com/album/2B32xvwpxNlIPwhQGGnT8S) | 2:38 | 2022-01-15 | 2022-01-17 |
 | [Money Movez](https://open.spotify.com/track/2JAaVRBZRAXBzHTIMgR436) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Money Movez](https://open.spotify.com/album/3HbQCPOdP5gSI22Xif6XU8) | 2:47 | 2021-08-29 | 2021-09-05 |
 | [MONEY ON MY MIND](https://open.spotify.com/track/0aHVSPzc2fjN8iWXNCZhrg) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Anonym](https://open.spotify.com/artist/5Azjcil94cSjssZgE0IKDe), [BOJAN](https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U) | [MONEY ON MY MIND](https://open.spotify.com/album/0b58shbjrQkWqAkmWayNez) | 3:39 | 2022-03-20 | 2022-03-22 |
+| [MONEY ON THE DASH \- SPED UP](https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 1:56 | 2024-01-31 |  |
 | [Monsta](https://open.spotify.com/track/3RM5RpRDDdST1njqOMG141) | [Culcha Candela](https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL) | [Schöne Neue Welt](https://open.spotify.com/album/1Le69ZubCAoCHM4Boohkr1) | 3:16 | 2022-01-01 | 2022-01-03 |
 | [Monster Mash](https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC) | [Bobby "Boris" Pickett](https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX), [The Crypt\-Kickers](https://open.spotify.com/artist/4frDtYgwXXKkbyQzjOmJG5) | [The Original Monster Mash](https://open.spotify.com/album/1yW6XU0pw5ZqDeu81OAaCr) | 3:12 | 2023-11-01 | 2023-11-03 |
 | [Montag](https://open.spotify.com/track/6S9XrKThnJRGSI09L6xx4t) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Grosse Freiheit](https://open.spotify.com/album/2B32xvwpxNlIPwhQGGnT8S) | 2:23 | 2022-01-15 | 2022-01-21 |

@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 69414,
+  "num_followers": 69488,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTA0ZmE0MDE2NjgwMTMxN2U0MTY3NWQ0MGRhYTcwMmIyMjRlNmIz",
+  "snapshot_id": "MCwwNWM0ZTBkNWMxNDk4ZGVlOWI4ZmYxNjZhZDZhZThjMzYxYzM3NmYw",
   "tracks": [
     {
       "added_at": "2024-01-18 10:00:45",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-01-18 10:00:45",
       "album": {
-        "name": "In Person",
-        "url": "https://open.spotify.com/album/3aq7Ksf1WJgawkDn362L07"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi",
-          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
-        }
-      ],
-      "duration_ms": 353600,
-      "name": "On Green Dolphin Street",
-      "url": "https://open.spotify.com/track/7LjmOCCTbi0sIofmYzo9vK"
-    },
-    {
-      "added_at": "2024-01-18 10:00:45",
-      "album": {
         "name": "Django (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 179240,
       "name": "One Bass Hit",
       "url": "https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y"
+    },
+    {
+      "added_at": "2024-01-18 10:00:45",
+      "album": {
+        "name": "In Person",
+        "url": "https://open.spotify.com/album/3aq7Ksf1WJgawkDn362L07"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi",
+          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
+        }
+      ],
+      "duration_ms": 353600,
+      "name": "On Green Dolphin Street",
+      "url": "https://open.spotify.com/track/7LjmOCCTbi0sIofmYzo9vK"
     },
     {
       "added_at": "2024-01-18 10:00:45",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-01-18 10:00:45",
       "album": {
+        "name": "Jazz Moments",
+        "url": "https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK"
+      },
+      "artists": [
+        {
+          "name": "George Shearing Trio",
+          "url": "https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Makin' Whoopee",
+      "url": "https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY"
+    },
+    {
+      "added_at": "2024-01-18 10:00:45",
+      "album": {
         "name": "Two Of A Mind",
         "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 385666,
       "name": "For Miles And Miles",
       "url": "https://open.spotify.com/track/3xHZQmEwgrLTQv2b6vTYPC"
-    },
-    {
-      "added_at": "2024-01-18 10:00:45",
-      "album": {
-        "name": "Jazz Moments",
-        "url": "https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK"
-      },
-      "artists": [
-        {
-          "name": "George Shearing Trio",
-          "url": "https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Makin' Whoopee",
-      "url": "https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY"
     },
     {
       "added_at": "2024-01-18 10:00:45",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-01-18 10:00:45",
       "album": {
+        "name": "Chet Baker Sextet",
+        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "I'm Glad There Is You - Remaster/2004",
+      "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
+    },
+    {
+      "added_at": "2024-01-18 10:00:45",
+      "album": {
         "name": "The Jazz Giants '56",
         "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 225160,
       "name": "Just In Time",
       "url": "https://open.spotify.com/track/7mzzu8v59N90qkl9sRk1eF"
-    },
-    {
-      "added_at": "2024-01-18 10:00:45",
-      "album": {
-        "name": "Chet Baker Sextet",
-        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "I'm Glad There Is You - Remaster/2004",
-      "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
     },
     {
       "added_at": "2024-01-18 10:00:45",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-01-18 10:00:45",
       "album": {
-        "name": "Django (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "The Queen's Fancy",
-      "url": "https://open.spotify.com/track/0jKWfUHO1Zy4wPPiRZLT9F"
-    },
-    {
-      "added_at": "2024-01-18 10:00:45",
-      "album": {
         "name": "The Complete 'Round About Midnight At The Cafe Bohemia (Live)",
         "url": "https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2024-01-18 10:00:45",
       "album": {
-        "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
-        "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
+        "name": "Django (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
         }
       ],
-      "duration_ms": 191906,
-      "name": "Ergo - Remastered 2004",
-      "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
+      "duration_ms": 192800,
+      "name": "The Queen's Fancy",
+      "url": "https://open.spotify.com/track/0jKWfUHO1Zy4wPPiRZLT9F"
     },
     {
       "added_at": "2024-01-18 10:00:45",
@@ -835,6 +819,22 @@
       "duration_ms": 221693,
       "name": "Show Me - Instrumental",
       "url": "https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E"
+    },
+    {
+      "added_at": "2024-01-18 10:00:45",
+      "album": {
+        "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
+        "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Ergo - Remastered 2004",
+      "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
     },
     {
       "added_at": "2024-01-18 10:00:45",
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-01-18 10:00:45",
       "album": {
-        "name": "The Wonderful World Of Jazz",
-        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
+        "name": "West Coast Jazz (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
       },
       "artists": [
         {
-          "name": "John Lewis",
-          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 598026,
-      "name": "Afternoon in Paris",
-      "url": "https://open.spotify.com/track/6Us9O1Mb4fpOnvhjPovtwV"
+      "duration_ms": 203826,
+      "name": "A Handful Of Stars",
+      "url": "https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc"
     },
     {
       "added_at": "2024-01-18 10:00:45",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-01-18 10:00:45",
       "album": {
-        "name": "West Coast Jazz (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "A Handful Of Stars",
-      "url": "https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc"
-    },
-    {
-      "added_at": "2024-01-18 10:00:45",
-      "album": {
         "name": "Take Ten",
         "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 366173,
       "name": "Nancy",
       "url": "https://open.spotify.com/track/2J5Q8XYnCwDVyTazuCu9VG"
+    },
+    {
+      "added_at": "2024-01-18 10:00:45",
+      "album": {
+        "name": "The Wonderful World Of Jazz",
+        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
+      },
+      "artists": [
+        {
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+        }
+      ],
+      "duration_ms": 598026,
+      "name": "Afternoon in Paris",
+      "url": "https://open.spotify.com/track/6Us9O1Mb4fpOnvhjPovtwV"
     },
     {
       "added_at": "2024-01-18 10:00:45",

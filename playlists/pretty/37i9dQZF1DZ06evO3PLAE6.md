@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 
 > This is Kasey Chambers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,887 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,889 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 44 | [Hollywood](https://open.spotify.com/track/7KlvXLOb3z0UFX0uBHG0x6) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 3:29 |
 | 45 | [Black Bess](https://open.spotify.com/track/73X9kXbVeHzKtWnWLaGSHI) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [Cannot Buy My Soul: The Songs Of Kev Carmody \(2020 Edition\)](https://open.spotify.com/album/4dN2UoUgVj9oIq0VSFkHEZ) | 3:49 |
 | 46 | [Someone Like Me](https://open.spotify.com/track/3xwhLeG9Nuz8qAha6v91m8) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Little Bird](https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU) | 4:09 |
-| 47 | [Freight Train](https://open.spotify.com/track/1ejDgThqS6BLWTVMKPahmX) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/7DFWFL8pqjsBdQiHlAtyvU) | 2:46 |
+| 47 | [Wreck and Ruin](https://open.spotify.com/track/5slMiUJ1oGDynQsTr0P05f) | [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wreck & Ruin](https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ) | 2:28 |
 | 48 | [Wayward Angel](https://open.spotify.com/track/0cfzJyWKIa9bYdkeTSHaH1) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 5:00 |
-| 49 | [Wreck and Ruin](https://open.spotify.com/track/5slMiUJ1oGDynQsTr0P05f) | [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wreck & Ruin](https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ) | 2:28 |
+| 49 | [Freight Train](https://open.spotify.com/track/1ejDgThqS6BLWTVMKPahmX) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/7DFWFL8pqjsBdQiHlAtyvU) | 2:46 |
 
-Snapshot ID: `Mjg0NDM2MzgsMDAwMDAwMDA1NTYwNzFmMTYwNjg4YTUxNjlmMGJmNTFjNzkzMWExOA==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDBhZWI4ZTNjYTZiZjdiNGU4ODVkNmJlYzMwMzg2MjNmYw==`

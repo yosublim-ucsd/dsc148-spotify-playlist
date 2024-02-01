@@ -4,7 +4,7 @@
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-88 songs - 4 hr 35 min
+89 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [24/7 Dolido](https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [24/7 Dolido](https://open.spotify.com/album/6Fyxi6oD8SD1lK35bKPyqA) | 2:55 | 2022-10-09 | 2023-04-16 |
 | [24/7 Dolido](https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 2:55 | 2023-04-15 |  |
 | [A Lo Que Sigue](https://open.spotify.com/track/0Ndnbc16qPg2CO34a8Z65Q) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [A Lo Que Sigue](https://open.spotify.com/album/6yntzdnPB5ZYQQUp8OJnoE) | 3:22 | 2023-06-25 |  |
+| [A Que Sabes](https://open.spotify.com/track/6gw5op96WEbp8y4nT19Mdg) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Bien Positivo](https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv) | 2:40 | 2024-01-31 |  |
 | [Aquiles el de Tijuana \(En Vivo\)](https://open.spotify.com/track/2Cv7yRcIgMP53Hv7AuDLt4) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 3:08 | 2022-06-01 |  |
 | [Avión Arriba](https://open.spotify.com/track/4OsQBV6PjhJkY8Ld9tLlwa) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Clave Doble L](https://open.spotify.com/artist/3FI7OHP038BGJwg2fMaPeI) | [Seguimos Adelante](https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt) | 3:49 | 2022-06-01 | 2022-10-06 |
 | [Ay Amigo \(En Vivo\)](https://open.spotify.com/track/3KeK6yOzzaJS9Mi0Bj9hxw) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi) | [Yakifest, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/5HzuEx7noOD6D71uw7WoBk) | 2:17 | 2022-10-12 |  |
@@ -29,7 +30,7 @@
 | [El Blue](https://open.spotify.com/track/3CfSS20rhCGYdjJSbt5qCz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 3:18 | 2022-06-02 | 2022-10-13 |
 | [El Cabe \(En Vivo\)](https://open.spotify.com/track/1A6CTHoF8kNPPmT5uRZqTJ) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Cabe \(En Vivo\)](https://open.spotify.com/album/7rYPaiJkjB2BHt6k9THWXD) | 2:56 | 2023-03-06 | 2023-06-17 |
 | [El Camaron](https://open.spotify.com/track/0QEu2G3MytoxkCjQgDqeth) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Album De Mi Puno Y Letra](https://open.spotify.com/album/2OXmlL4OKCcZOLddvPTxai) | 3:37 | 2022-06-01 | 2022-10-13 |
-| [El Centenario \(En Vivo\)](https://open.spotify.com/track/0eUb4yGTMT4WFiElWuTH5N) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 2:08 | 2022-06-01 |  |
+| [El Centenario \(En Vivo\)](https://open.spotify.com/track/0eUb4yGTMT4WFiElWuTH5N) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 2:08 | 2022-06-01 | 2024-02-01 |
 | [El Chino](https://open.spotify.com/track/268zPLDFKoXULAX7aFqcE7) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Chino](https://open.spotify.com/album/6cIC7nXT8crS5Q7XaPPZdo) | 2:47 | 2022-06-01 |  |
 | [El Cl\-1](https://open.spotify.com/track/3YSTO30NZkuyPhQFkzAdbW) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 2:47 | 2022-06-01 | 2022-10-13 |
 | [El de la Ciudad del Sol \(En Vivo\)](https://open.spotify.com/track/1v90F4FNxt3nb3v5ahWVnU) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 2:23 | 2022-06-03 | 2022-06-14 |

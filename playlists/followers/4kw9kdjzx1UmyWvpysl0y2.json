@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 126488,
+  "2024-02-01": 126484,
   "date_first_scraped": "2022-01-22",
   "description": "Brand new music from Monstercat, all in one place.",
   "name": "New Music Weekly | Monstercat",
@@ -8907,6 +8907,24 @@
       "duration_ms": 235885,
       "name": "Pressure on the Masses",
       "url": "https://open.spotify.com/track/65OZE1cg3ETRiBeu3R5UbT"
+    },
+    {
+      "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195250,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz"
     },
     {
       "album": {

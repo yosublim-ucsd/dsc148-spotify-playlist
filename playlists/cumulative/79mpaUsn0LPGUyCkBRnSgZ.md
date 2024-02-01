@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-544 songs - 1 day 11 hr 29 min
+545 songs - 1 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Disorder \- 2019 Digital Master](https://open.spotify.com/track/2OPmhk5vO4qiYE4LEAC9hs) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures](https://open.spotify.com/album/5Dgqy4bBg09Rdw7CQM545s) | 3:32 | 2022-04-04 |  |
 | [DO IT](https://open.spotify.com/track/73IdeGI8Gt1XxcaQ6vBsyD) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 2:12 | 2024-01-08 |  |
 | [Dodecahedron](https://open.spotify.com/track/0rbBNWwPxwXUSlqUmlh4JK) | [$ilkMoney](https://open.spotify.com/artist/6hj2p7pzusn5Fcdi35Yedr) | [I Don't Give a Fuck About This Rap Shit, Imma Just Drop Until I Don't Feel Like It Anymore](https://open.spotify.com/album/1JfbPIbBc0wMHgl5zmwm9x) | 2:42 | 2022-11-24 |  |
-| [Dolphin](https://open.spotify.com/track/10n7ftA9Y0hAdaFMWDYsk2) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Buoys](https://open.spotify.com/album/3vnTHiTvlOcNFg2wCK0Uyl) | 3:41 | 2024-01-31 |  |
+| [Dolphin](https://open.spotify.com/track/10n7ftA9Y0hAdaFMWDYsk2) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Buoys](https://open.spotify.com/album/3vnTHiTvlOcNFg2wCK0Uyl) | 3:41 | 2024-01-31 | 2024-02-01 |
 | [Don't Break The Silence](https://open.spotify.com/track/7fTEiF3rNCc8TDagCAXjhd) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 1:44 | 2023-04-24 |  |
 | [Don't Go Near The Water \- Remastered 2009](https://open.spotify.com/track/1bqc35qbUzNP7kH19ql8PF) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 2:41 | 2023-08-04 |  |
 | [Don't Stop Believin' \(2022 Remaster\)](https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 4:09 | 2024-01-18 |  |
@@ -502,6 +502,7 @@
 | [Time Back](https://open.spotify.com/track/1gvNe9yDWcTZ4B3LlcrkSV) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [All of This Will End](https://open.spotify.com/album/15eosxhQvPKQ1g0tfrnAt2) | 2:11 | 2023-04-30 | 2023-05-03 |
 | [Time Travelin' \(A Tribute To Fela\)](https://open.spotify.com/track/2AaB2ZDeJXu6j4Csos4gZH) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Vinia Mojica](https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC), [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs), [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Like Water For Chocolate](https://open.spotify.com/album/0ZSwTSaR9VUe3uYsXNQgub) | 6:37 | 2022-01-06 |  |
 | [Tiny Little Bows](https://open.spotify.com/track/7GZh8jsIqDIVat6dY45uGw) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:21 | 2023-10-18 |  |
+| [TNT](https://open.spotify.com/track/7noqdg2Oc77zl0lZsOsioI) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 7:33 | 2024-01-31 |  |
 | [To All The Girls](https://open.spotify.com/track/7JSHs5GH7pq5moVo8wu1I6) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Paul's Boutique \(20th Anniversary Edition / Remastered\)](https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05) | 1:29 | 2024-01-03 |  |
 | [TRACK UNO](https://open.spotify.com/track/05gZLyOQphrQN86Jn2urCP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 5:44 | 2023-05-19 | 2024-01-09 |
 | [Turkish Cotton](https://open.spotify.com/track/31rbQLmAii7Ah0XeRpbXo0) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 2:46 | 2023-04-25 |  |

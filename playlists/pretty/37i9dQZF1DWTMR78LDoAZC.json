@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: The Japanese House",
-  "num_followers": 148683,
+  "num_followers": 148724,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmYzNTUxY2RhNDJhMTAxNTYzNTllMDhlMjFlOTRlNWM2Y2EzN2U3",
+  "snapshot_id": "MCwwNjRkMjFjNjJhYjk5YzU1YmM3ZjM5Y2RkMWFkZTUzYTVkZGFhYTBh",
   "tracks": [
     {
       "added_at": "2023-06-01 04:00:00",
@@ -201,22 +201,6 @@
       "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Permanent Damage",
-        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 221873,
-      "name": "It's Been a Little Heavy Lately",
-      "url": "https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "She Plays Bass",
@@ -231,6 +215,22 @@
       "duration_ms": 207106,
       "name": "She Plays Bass",
       "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Permanent Damage",
+        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 221873,
+      "name": "It's Been a Little Heavy Lately",
+      "url": "https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -449,22 +449,6 @@
       "url": "https://open.spotify.com/track/46Boh7rtDSxoEDZ52Qowcc"
     },
     {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "Holdly",
-        "url": "https://open.spotify.com/album/5480CSqv3NyAGV8zZzT0RF"
-      },
-      "artists": [
-        {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
-        }
-      ],
-      "duration_ms": 227139,
-      "name": "Vacation",
-      "url": "https://open.spotify.com/track/5M14yMoGygqBtJCRYmrYSY"
-    },
-    {
       "added_at": "2023-06-01 04:00:00",
       "album": {
         "name": "Be Your Man",
@@ -483,18 +467,18 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
+        "name": "Holdly",
+        "url": "https://open.spotify.com/album/5480CSqv3NyAGV8zZzT0RF"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
         }
       ],
-      "duration_ms": 173641,
-      "name": "California Dreamin' - Spotify Singles",
-      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
+      "duration_ms": 227139,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/5M14yMoGygqBtJCRYmrYSY"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -511,6 +495,22 @@
       "duration_ms": 186786,
       "name": "Fuck Me (I Didn\u2019t Know How To Say)",
       "url": "https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 173641,
+      "name": "California Dreamin' - Spotify Singles",
+      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
+        "name": "Wild Heart",
+        "url": "https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Wild Heart",
+      "url": "https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
         "name": "like everyone else",
         "url": "https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 278998,
       "name": "sulky baby",
       "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Wild Heart",
-        "url": "https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI"
-      },
-      "artists": [
-        {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Wild Heart",
-      "url": "https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu"
     },
     {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "Daddy's Home",
-        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 257519,
-      "name": "The Melting Of The Sun",
-      "url": "https://open.spotify.com/track/3WD3w5uSzAGJWrNFnHhi1a"
-    },
-    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "Bishoun\u00e9: Alma del Huila",
@@ -895,6 +879,22 @@
       "duration_ms": 298906,
       "name": "6 8",
       "url": "https://open.spotify.com/track/1y9kfM2QNDQQ9plksXc44Y"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Daddy's Home",
+        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "The Melting Of The Sun",
+      "url": "https://open.spotify.com/track/3WD3w5uSzAGJWrNFnHhi1a"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -1041,22 +1041,6 @@
       "url": "https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Tears can be so soft",
-        "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 311928,
-      "name": "Tears can be so soft",
-      "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Pretty Lady",
@@ -1071,6 +1055,22 @@
       "duration_ms": 277908,
       "name": "Pretty Lady",
       "url": "https://open.spotify.com/track/4o21k4S4YoueaUfiKkImea"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Tears can be so soft",
+        "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 311928,
+      "name": "Tears can be so soft",
+      "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
     },
     {
       "added_at": "2023-06-01 04:00:00",

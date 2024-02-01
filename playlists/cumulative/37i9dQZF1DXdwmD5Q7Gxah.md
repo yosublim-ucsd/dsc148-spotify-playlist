@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> songs you'll fall in love with\. Medium Build on the cover.
+> it's covers season\. Medium Build on the cover.
 
-2,586 songs - 5 day 19 hr 16 min
+2,588 songs - 5 day 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Bunny Is A Rider](https://open.spotify.com/track/40tRJ8bMkIkXh8vhHKQsoX) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:13 | 2023-07-31 | 2023-08-12 |
 | [Burial](https://open.spotify.com/track/3hAISHuncayUMztDDvkwmS) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow \(Deluxe Edition\)](https://open.spotify.com/album/60qoUhwjHanuH4uO7ik4r5) | 4:21 | 2021-12-22 | 2022-01-08 |
 | [burn](https://open.spotify.com/track/6oIVco9En9luNfR022zc4c) | [diet lemon](https://open.spotify.com/artist/4w4tyhOTLrFjXwPzuUmT3U) | [burn](https://open.spotify.com/album/28h3m5usHx9gXw9qytKy3J) | 3:34 | 2023-07-14 | 2023-08-16 |
+| [Burning Down the House](https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Burning Down the House](https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek) | 3:38 | 2024-01-31 |  |
 | [burning love letters](https://open.spotify.com/track/5s3AtbTWwXzd2x5hLnNm6I) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [burning love letters](https://open.spotify.com/album/3JJQviIafzIDT9KKGu2End) | 2:34 | 2023-01-27 | 2023-03-11 |
 | [Busy](https://open.spotify.com/track/1ZOvGngH4YojNtbhtzJCZs) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Busy](https://open.spotify.com/album/3bvUadr6ldYuCapGdpOjC9) | 2:23 | 2020-12-18 | 2021-02-02 |
 | [But Not Kiss](https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [But Not Kiss](https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh) | 3:42 | 2023-06-21 |  |
@@ -422,6 +423,7 @@
 | [Chamber Of Reflection \- live stream 5/19/23](https://open.spotify.com/track/3gNmgzx1vOFcsA5UmIULgn) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [Chamber Of Reflection \(live stream 5/19/23\)](https://open.spotify.com/album/6mJyi0LV45BfhPWrguFDu9) | 2:33 | 2023-11-15 | 2024-01-11 |
 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 | 2019-11-07 | 2020-05-28 |
 | [Change](https://open.spotify.com/track/1D7sWofAbWelYs35iRM08U) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Change](https://open.spotify.com/album/5fjPFnPn0paRfom3TawNE6) | 2:57 | 2022-06-22 | 2022-10-13 |
+| [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 | 2024-01-31 |  |
 | [CHANGE THE CHANNEL](https://open.spotify.com/track/7jCwlREfUpw0NCIU23hMhx) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [CHANGE THE CHANNEL](https://open.spotify.com/album/2Gl4wXz0O0MOGAAWyEHfs6) | 2:35 | 2020-10-20 | 2021-01-12 |
 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 | 2021-01-29 | 2021-03-06 |
 | [Channel Orange In Your Living Room](https://open.spotify.com/track/27AJf1VXuh3h6QsqQBOLxf) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Channel Orange In Your Living Room](https://open.spotify.com/album/66JX3vC2VqYoDKXGMuokvd) | 2:38 | 2020-04-22 | 2020-09-15 |

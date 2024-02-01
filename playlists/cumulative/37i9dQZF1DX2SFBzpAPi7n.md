@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: aespa\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: BIGONE\(빅원\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-561 songs - 1 day 10 hr 29 min
+563 songs - 1 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Classic \(feat\. MRCH\)](https://open.spotify.com/track/04nm6ulhFSxi1xejIFWsmW) | [moneto](https://open.spotify.com/artist/2fDgVWeIDSt1EOqFbPRXu7), [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Classic](https://open.spotify.com/album/7mN3JTbV6i4xL2LpM8K3g8) | 3:40 | 2022-08-01 | 2022-08-13 |
 | [coii \- Single Version](https://open.spotify.com/track/1f7c2QDWM7KWVQMXmarNbF) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [co\-isolation](https://open.spotify.com/album/4Dayk4y6uYUwI5Ok1Hfxa5) | 5:02 | 2023-10-27 | 2023-11-10 |
 | [Color It](https://open.spotify.com/track/5kFDEZPQLyyt7bvaiqPyRc) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Color It](https://open.spotify.com/album/5b4eIlmtGlTHfY6yPTjD75) | 3:19 | 2022-09-30 | 2022-10-08 |
+| [COLORFUL ZEBRA](https://open.spotify.com/track/0IlkOqIA3SNgO2zETgFuz5) | [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [COLORFUL ZEBRA](https://open.spotify.com/album/1iQg4tgsJJ2Jbl5GguMgM6) | 2:17 | 2024-01-31 |  |
 | [Colors of](https://open.spotify.com/track/4mGo0G3WCny26CJRiCyXUU) | [Doorlesshouse](https://open.spotify.com/artist/0SxSWgWdwhijvB7pMMRdKy) | [Colors of](https://open.spotify.com/album/6a3yd7PCqC4GYDJQlAWPb3) | 3:29 | 2022-08-01 | 2022-08-13 |
 | [Colors of You](https://open.spotify.com/track/35nhfxiAlFeNvKWTQUR5kp) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [In Dreams, In Dreams](https://open.spotify.com/album/4gqNvoIBouPkzQAAusZb6f) | 4:30 | 2022-07-08 | 2022-07-16 |
 | [Comes and Goes](https://open.spotify.com/track/0Nld5ohgWfoPueMEtYNbgE) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [22](https://open.spotify.com/album/5JMSzU0FPsOut85jmhHbfw) | 3:48 | 2022-07-22 | 2023-04-06 |
@@ -217,7 +218,7 @@
 | [I.L.Y.](https://open.spotify.com/track/3XE1R53gdbfHjLNa8hJ8hr) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc) | 3:33 | 2022-07-22 | 2023-01-04 |
 | [I.L.Y.](https://open.spotify.com/track/5MkZkFLnUrsMrVKQwqv5zV) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/0HIDsIWC43WiecL3qO7IUP) | 3:33 | 2022-04-21 | 2022-07-29 |
 | [I.L.Y.](https://open.spotify.com/track/6dS9qNHAeugVQ8noOOExWW) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk) | 3:42 | 2023-01-10 | 2023-07-25 |
-| [ICN > YVR](https://open.spotify.com/track/3SJuomeDUOX6OAWwhH973s) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [ICN > YVR](https://open.spotify.com/album/4bp6czKexS1MZ5wwKJ27yi) | 2:25 | 2023-11-23 |  |
+| [ICN > YVR](https://open.spotify.com/track/3SJuomeDUOX6OAWwhH973s) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [ICN > YVR](https://open.spotify.com/album/4bp6czKexS1MZ5wwKJ27yi) | 2:25 | 2023-11-23 | 2024-02-01 |
 | [If I were rich](https://open.spotify.com/track/6jHc4ETMA0MVnwwaFkt2zp) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK), [Ravi](https://open.spotify.com/artist/33Cti7pK8o3exjycH47Xk5) | [If I were rich](https://open.spotify.com/album/36uTV3j8uvWe4aRbdDBDQH) | 3:19 | 2022-04-12 | 2022-07-26 |
 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 | 2022-10-02 | 2022-10-19 |
 | [In the Dark](https://open.spotify.com/track/3mBxoop5ai4eTBV9nL5Y2J) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [24 PART 2](https://open.spotify.com/album/43xZhTwfBW3tsmtjTuT3XM) | 3:29 | 2022-04-12 | 2022-07-27 |
@@ -311,6 +312,7 @@
 | [NOIZY](https://open.spotify.com/track/7Achen2ErZs7RQxd32oP20) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [FL1P](https://open.spotify.com/album/743UGdLJrUkteIeP1un8X2) | 3:23 | 2022-05-11 | 2022-05-17 |
 | [not even close](https://open.spotify.com/track/1jITrOKQdU6LbaosTXCt0i) | [isnotequalto](https://open.spotify.com/artist/2wDEeSb27uMLqlT8Bx9TuF) | [not even close](https://open.spotify.com/album/6udZp5kz6Qs86hCjjRy1zN) | 2:53 | 2022-06-18 | 2022-06-21 |
 | [not gonna love](https://open.spotify.com/track/0scY0FycWIn2ut429xuMja) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:12 | 2022-06-23 | 2022-06-26 |
+| [not me not mine](https://open.spotify.com/track/0q7lWRi07OMLWSwm0vHIwJ) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [not me not mine](https://open.spotify.com/album/09VUrzSER2CE0geP6odR1y) | 5:16 | 2024-01-31 |  |
 | [nothing but](https://open.spotify.com/track/4tVxP9VLIgzD9oRLmzioQT) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Letters with notes](https://open.spotify.com/album/5eOVVp7IQsGYgYQsVKn74P) | 3:21 | 2023-09-04 | 2023-11-10 |
 | [Now \(Feat\. THAMA\)](https://open.spotify.com/track/3VAD6IG91tzUaSlPeei63M) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:55 | 2022-04-22 | 2022-07-27 |
 | [O2](https://open.spotify.com/track/3gE6fZuOsBCOoIWONBtd2T) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:48 | 2022-04-22 | 2022-07-23 |
@@ -478,7 +480,7 @@
 | [Through the Tunnel](https://open.spotify.com/track/0yuCGyf9UYFjoxQuJqJTm3) | [The Yangbans](https://open.spotify.com/artist/2YnwThp48Nrhtf7JIBCpbu) | [Through the Tunnel](https://open.spotify.com/album/1AGVQTchxNPR1BCLzK83CI) | 4:48 | 2022-04-22 | 2022-07-29 |
 | [Till The End](https://open.spotify.com/track/6346CzN9QIthoAXNlhmDw4) | [U Sung Eun](https://open.spotify.com/artist/15UyjlO0ZuDaSjXUGytDbI) | [Again my life, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/4F5qcsJk3zyB3PsPVebMV7) | 4:00 | 2022-05-03 | 2022-05-22 |
 | [TIME MACHINE \(2100\)](https://open.spotify.com/track/0YdTWKY4AOJjoFRzvCv8w5) | [GIUK](https://open.spotify.com/artist/4kuX4KeHgnN8ifEGHHUd0x) | [Psycho Xybernetics : TURN OVER](https://open.spotify.com/album/6Aj2dwrucXX7G1021mfyOQ) | 3:17 | 2023-04-20 | 2023-04-27 |
-| [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 | 2022-07-22 |  |
+| [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 | 2022-07-22 | 2024-02-01 |
 | [TOMBOY](https://open.spotify.com/track/6DywghQdi3HQwC8eZkEkfa) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/0P77m9Pm6OWT3gNogzFGJr) | 4:01 | 2022-04-22 | 2022-07-29 |
 | [Tomorrow, Today](https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10) | [JJ Project](https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW) | [Verse 2](https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN) | 3:55 | 2022-04-21 | 2023-08-07 |
 | [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 | 2022-04-22 |  |

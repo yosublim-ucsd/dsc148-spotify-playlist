@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z">&ME</a>'s favorite tracks\. Updated regularly\. Curated by &ME\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,020 likes - 70 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,040 likes - 70 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 | 69 | [Wake And Return \- Acoustic Version](https://open.spotify.com/track/76uZO2ZHQcWvjsQOd5T8Hd) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra: Acoustic](https://open.spotify.com/album/6WP5Ho3PWAMUkiJLdb6OGb) | 2:57 |
 | 70 | [Fade Into Black \(Acoustic Version\)](https://open.spotify.com/track/6LIkCbYCsPO1mfrmn4DXDQ) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/4kadAWFA2FHerIIjVhybE0) | 4:01 |
 
-Snapshot ID: `MCxkOThlNWQ3YzVkMDYwNjMzZWQ5ODQ2NTc4OGEzZDIzODZjM2NjNjYy`
+Snapshot ID: `MCw4MGQxNjUzOThjOWI4NDAwMDJlZmNkNDdhNjY1MGE2NTEzYWU1ZmU0`

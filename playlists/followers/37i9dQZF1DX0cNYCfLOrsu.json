@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 310125,
+  "2024-02-01": 310191,
   "date_first_scraped": "2021-12-29",
   "description": "The best in Dancehall for the gyaldem. Cover: Tina (Hoodcelebrityy)",
   "name": "Dancehall Queen",
@@ -2076,6 +2076,24 @@
     },
     {
       "album": {
+        "name": "Gifted",
+        "url": "https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179737,
+      "name": "Lockdown",
+      "url": "https://open.spotify.com/track/6cy4qUAqBO5F5v5TR4AAIP"
+    },
+    {
+      "album": {
         "name": "Love Situations",
         "url": "https://open.spotify.com/album/3AYh9Cgmai1t6Aw6jvrQTe"
       },
@@ -3919,7 +3937,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 154282,
       "name": "Young",
       "url": "https://open.spotify.com/track/6vuPtRQKVMAz7N2Lvrf2lX"

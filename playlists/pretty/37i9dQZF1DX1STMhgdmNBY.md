@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 
 > For body and mind, blues straight from the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,627 likes - 70 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,693 likes - 70 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 24 | [Barefoot In Heaven](https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:30 |
 | 25 | [I Ain't Blue \- 2008 Remaster](https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 3:36 |
 | 26 | [Ball N' Chain](https://open.spotify.com/track/0D1S1rK4M8D3kJDFN50u0G) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 4:31 |
-| 27 | [Friendship](https://open.spotify.com/track/364TGoiK2nPK0YYa4Z4p2Y) | [Pops Staples](https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3) | [Don't Lose This](https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1) | 4:06 |
-| 28 | [A Man And The Blues](https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 6:23 |
+| 27 | [A Man And The Blues](https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 6:23 |
+| 28 | [Friendship](https://open.spotify.com/track/364TGoiK2nPK0YYa4Z4p2Y) | [Pops Staples](https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3) | [Don't Lose This](https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1) | 4:06 |
 | 29 | [Three O'clock Blues](https://open.spotify.com/track/1WeX8wcU8FDEZxWurJLU0r) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Singin' The Blues](https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun) | 3:03 |
 | 30 | [Get Back To The Land](https://open.spotify.com/track/1oBCIuFxyHqutsnQhSuqlk) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh), [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs) | [Get Back To The Land](https://open.spotify.com/album/7oj7EsiZB17a22MqGmWO0W) | 4:26 |
 | 31 | [Long Way Home](https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Long Way Home](https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha) | 5:38 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 69 | [Today I Sing the Blues](https://open.spotify.com/track/6NxdgHR3lebLG7CyZ9EtK5) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Delta Meets Detroit: Aretha's Blues](https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9) | 4:25 |
 | 70 | [Anyhow](https://open.spotify.com/track/13SV6q70zRxTJR3yEAqh2C) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 6:54 |
 
-Snapshot ID: `MCxkNDRkYTNmOGI3NmJkM2ZhMjg0NDRlOGFhYmY0Mzc2NjEwYmRiZWRk`
+Snapshot ID: `MCwxNDBkYWZlMWU4NmUyOTJiZWM3NmQxMzRkMTQ1NzYyMzEzMmNhOTZl`

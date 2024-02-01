@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 194,
+  "2024-02-01": 195,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn\">Ollie Green</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Ollie Green",
@@ -1191,10 +1191,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 181414,
       "name": "If Love Could Have Saved You",
       "url": "https://open.spotify.com/track/7D5vd0DZ2zR0NoIeaX0stb"
+    },
+    {
+      "album": {
+        "name": "If Love Could Have Saved You (Official Video)",
+        "url": "https://open.spotify.com/album/0s9AFxpwLeoEcguq5pMgQO"
+      },
+      "artists": [
+        {
+          "name": "Hybrid Minds",
+          "url": "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        },
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241088,
+      "name": "If Love Could Have Saved You",
+      "url": "https://open.spotify.com/track/1gsUJcO7LQ1MqC1gYeFjmp"
     },
     {
       "album": {

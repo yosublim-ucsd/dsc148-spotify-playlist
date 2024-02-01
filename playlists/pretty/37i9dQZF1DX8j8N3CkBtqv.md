@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Prateek Kuhad
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,749 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,747 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 8 | [Jaadu Tone](https://open.spotify.com/track/1YCT4RaXdXtqqb4AjBZOc2) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Jaadu Tone](https://open.spotify.com/album/14pKF36OH8TQpzRAi6HhRi) | 3:26 |
 | 9 | [Tere Bina](https://open.spotify.com/track/4kJ6jb1QL8vQbkwhNZFsLQ) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Tere Bina](https://open.spotify.com/album/1eZuo2SoysHA1TvBfkRsZA) | 2:49 |
 | 10 | [Khul Ja](https://open.spotify.com/track/4wLE1GQIGPBZh9HRdJ1RZI) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1) | [Khul Ja](https://open.spotify.com/album/445KmsOofBfkjw2qO3FJQq) | 2:50 |
-| 11 | [Tham Zaraa](https://open.spotify.com/track/1PGQdySI0Jk7kDtxaRdaIK) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Siddharth Pandit](https://open.spotify.com/artist/4lG93AH2UqEYBZKlpxkZAG), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep), [Hrishi Giridhar](https://open.spotify.com/artist/2LX2ca4llDo1CckEcTl2Nc), [The Rajasthani Choro](https://open.spotify.com/artist/4VjWbWfTifUdOCkNYuCzOR) | [Rang](https://open.spotify.com/album/0Wtz85mMIqtoh68iQWZdRo) | 4:35 |
+| 11 | [Tham Zaraa](https://open.spotify.com/track/1PGQdySI0Jk7kDtxaRdaIK) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Siddharth Pandit](https://open.spotify.com/artist/4lG93AH2UqEYBZKlpxkZAG) | [Rang](https://open.spotify.com/album/0Wtz85mMIqtoh68iQWZdRo) | 4:35 |
 | 12 | [Cross The Line](https://open.spotify.com/track/1yOqAssdmviFjeKPv0BDRO) | [Chirag Todi](https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE), [Chezin](https://open.spotify.com/artist/46zvagZgUEnyRmaXbVkKwi), [Divyang Arora](https://open.spotify.com/artist/4w6eeBoQaF9NVK0CP6owzS) | [Cross The Line](https://open.spotify.com/album/5jTO8Eb7W6O4hUAY8CLwRJ) | 3:35 |
 | 13 | [Jaane Kyu Diya](https://open.spotify.com/track/1bP6nyNtpIx4VuEEiAPQJM) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [A$AD](https://open.spotify.com/artist/1iWxOoFaMdE2nyGG4oqcdL) | [Jaane Kyu Diya](https://open.spotify.com/album/7bFjkNxfriKVb0WUZRPx3P) | 3:04 |
 | 14 | [Jiya Jaise](https://open.spotify.com/track/0HN9mR6ajzVOnJcD4L0R8Z) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Jiya Jaise](https://open.spotify.com/album/7cOkHnDXeP1bZYiscIIMcj) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Khoya](https://open.spotify.com/track/1PTX1futeTG5wTrMNPrSRH) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Khoya](https://open.spotify.com/album/6iVv6eBhwiX9qBJMkWbNtG) | 3:01 |
 | 50 | [Baatein](https://open.spotify.com/track/0YDu2KNs4JEk21cuO538hE) | [Dhrriti Saharan](https://open.spotify.com/artist/3CfM61zeuztKppkmj0CggJ) | [Baatein](https://open.spotify.com/album/2CIEW2qLACFHpPdrLU66Kh) | 3:05 |
 
-Snapshot ID: `MCwyZGZkMTE4ZmYyMTZmMzdkZTk3ZjE5NGVjNmVmMmJmZmVjODQzNTJk`
+Snapshot ID: `MCxmMGJmYzJhMjRlMWZhN2ZiZGI3M2Q1MDgyYTJkY2E4ZWVmMTdjMThh`

@@ -6267,6 +6267,28 @@
     },
     {
       "album": {
+        "name": "Leave The World Behind",
+        "url": "https://open.spotify.com/album/5o3db722bxyOZJzdTxEiPL"
+      },
+      "artists": [
+        {
+          "name": "nuphory",
+          "url": "https://open.spotify.com/artist/2K0uRwlc2VKeRoWS8Iuija"
+        },
+        {
+          "name": "Luna Lenta",
+          "url": "https://open.spotify.com/artist/36un9X6TbRfeYAMadbI2SN"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217389,
+      "name": "Leave The World Behind",
+      "url": "https://open.spotify.com/track/5sbsBKsvwpQdSMZzge0Fy6"
+    },
+    {
+      "album": {
         "name": "Let It Bloom",
         "url": "https://open.spotify.com/album/5QItpT8Xs57eUsrDi5Spae"
       },

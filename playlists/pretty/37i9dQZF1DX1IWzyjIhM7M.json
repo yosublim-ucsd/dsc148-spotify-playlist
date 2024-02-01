@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of best tracks of 2023 by independent, developing artists from around the world. Cover: Searows\n",
-  "num_followers": 900,
+  "num_followers": 946,
   "original_name": "Fresh Finds: Class of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzZhMTdiMmQyOTM5NGUxYWYxYjczNjc4OTI0OGZiNjdiZjAzNjQ2",
+  "snapshot_id": "MCw4NDllMWY2NzQ5ZTMyOGEyMTcyOTc3OTc3NTUzNTI4MDQ4MWYxNmY0",
   "tracks": [
     {
       "added_at": "2024-01-10 16:06:35",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "only u",
-        "url": "https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ"
-      },
-      "artists": [
-        {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
-        }
-      ],
-      "duration_ms": 146127,
-      "name": "only u",
-      "url": "https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/6L1ekY8aBACrSliErW0bB3"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 203637,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "only u",
+        "url": "https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "duration_ms": 146127,
+      "name": "only u",
+      "url": "https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
+        "name": "Weird",
+        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
+      },
+      "artists": [
+        {
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+        }
+      ],
+      "duration_ms": 216234,
+      "name": "Weird",
+      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
         "name": "HAMMS IN A GLASS",
         "url": "https://open.spotify.com/album/2vaTsjE2QylWhDHZs6nTuM"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 182307,
       "name": "Since September",
       "url": "https://open.spotify.com/track/5SjNIwfjW1Yw0dURGbnrRL"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
-        "name": "Weird",
-        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
-      },
-      "artists": [
-        {
-          "name": "Hana Eid",
-          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
-        }
-      ],
-      "duration_ms": 216234,
-      "name": "Weird",
-      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Flow State",
-        "url": "https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP"
-      },
-      "artists": [
-        {
-          "name": "Casper Sage",
-          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
-        }
-      ],
-      "duration_ms": 242580,
-      "name": "Flow State",
-      "url": "https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Tinka",
         "url": "https://open.spotify.com/album/6nklrGCdQRC5NUuYoM9DMP"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 199500,
       "name": "Tinka",
       "url": "https://open.spotify.com/track/3qaRvg6ycuTAQKgTnlhpjn"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP"
+      },
+      "artists": [
+        {
+          "name": "Casper Sage",
+          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
+        }
+      ],
+      "duration_ms": 242580,
+      "name": "Flow State",
+      "url": "https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "My Future",
-        "url": "https://open.spotify.com/album/4BKCOeBgzagiMFZxYA5buw"
-      },
-      "artists": [
-        {
-          "name": "Greylan James",
-          "url": "https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra"
-        }
-      ],
-      "duration_ms": 155468,
-      "name": "My Future",
-      "url": "https://open.spotify.com/track/0RRxs3flR3IsEYcaqXXpoe"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Emerald Year",
         "url": "https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 275277,
       "name": "Penthouse in The Sky",
       "url": "https://open.spotify.com/track/5UC5kPr4qlY0PDrGwE31zA"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "My Future",
+        "url": "https://open.spotify.com/album/4BKCOeBgzagiMFZxYA5buw"
+      },
+      "artists": [
+        {
+          "name": "Greylan James",
+          "url": "https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra"
+        }
+      ],
+      "duration_ms": 155468,
+      "name": "My Future",
+      "url": "https://open.spotify.com/track/0RRxs3flR3IsEYcaqXXpoe"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Advantage",
-        "url": "https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb"
-      },
-      "artists": [
-        {
-          "name": "MiLES.",
-          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Advantage",
-      "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Cheapshot",
         "url": "https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Why Does the Earth Give Us People to Love?",
-        "url": "https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO"
+        "name": "Advantage",
+        "url": "https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb"
       },
       "artists": [
         {
-          "name": "Kara Jackson",
-          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
         }
       ],
-      "duration_ms": 325204,
-      "name": "dickhead blues",
-      "url": "https://open.spotify.com/track/0MjjrdCKDu19Z1obkdkULO"
+      "duration_ms": 205813,
+      "name": "Advantage",
+      "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1127,6 +1111,22 @@
       "duration_ms": 205743,
       "name": "Times It By Two",
       "url": "https://open.spotify.com/track/2PG64K0mmStEaVEARRurQm"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Why Does the Earth Give Us People to Love?",
+        "url": "https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO"
+      },
+      "artists": [
+        {
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+        }
+      ],
+      "duration_ms": 325204,
+      "name": "dickhead blues",
+      "url": "https://open.spotify.com/track/0MjjrdCKDu19Z1obkdkULO"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Blak Britney",
-        "url": "https://open.spotify.com/album/53qFc9lbBsEXdSdMbcxQsc"
-      },
-      "artists": [
-        {
-          "name": "Miss Kaninna",
-          "url": "https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz"
-        }
-      ],
-      "duration_ms": 153636,
-      "name": "Blak Britney",
-      "url": "https://open.spotify.com/track/2rg7VE22RwEfvFkLYJwfeY"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Glowin 4 Me",
         "url": "https://open.spotify.com/album/6aziyhUkY3zHrW8ZVL9uds"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 145609,
       "name": "Glowin 4 Me",
       "url": "https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Blak Britney",
+        "url": "https://open.spotify.com/album/53qFc9lbBsEXdSdMbcxQsc"
+      },
+      "artists": [
+        {
+          "name": "Miss Kaninna",
+          "url": "https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz"
+        }
+      ],
+      "duration_ms": 153636,
+      "name": "Blak Britney",
+      "url": "https://open.spotify.com/track/2rg7VE22RwEfvFkLYJwfeY"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Talk of the Town (acoustic)",
-        "url": "https://open.spotify.com/album/3fdQxtSJHCwmliupnLFNlG"
-      },
-      "artists": [
-        {
-          "name": "Abbey Cone",
-          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
-        }
-      ],
-      "duration_ms": 210877,
-      "name": "Talk of the Town - acoustic",
-      "url": "https://open.spotify.com/track/15XKG1dgXflgyD5QhgX8XU"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "time waits",
         "url": "https://open.spotify.com/album/5jkLcQSR8L15cf53wi5bfY"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 199760,
       "name": "time waits",
       "url": "https://open.spotify.com/track/4wkwlPgwsQPr1Gcl2IB1Zz"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Talk of the Town (acoustic)",
+        "url": "https://open.spotify.com/album/3fdQxtSJHCwmliupnLFNlG"
+      },
+      "artists": [
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        }
+      ],
+      "duration_ms": 210877,
+      "name": "Talk of the Town - acoustic",
+      "url": "https://open.spotify.com/track/15XKG1dgXflgyD5QhgX8XU"
     },
     {
       "added_at": "2024-01-10 16:06:35",

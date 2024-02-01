@@ -1,12 +1,12 @@
 {
   "description": "Canciones tropicales que te transportan a Caleta y Caletilla.",
-  "num_followers": 74760,
+  "num_followers": 74811,
   "original_name": "Acapulco en la Azotea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjY3MGJjYzY3ZWI5ZTNlZGRlOWM3ZTMxOGJhODI1NmQ0YTllMWVh",
+  "snapshot_id": "MCxiYWRjYTNjMDc5MGY3OTRmMWMyZmEzMjM5Mzc3NDExNzBlYWM0N2Fh",
   "tracks": [
     {
       "added_at": "2024-01-04 23:44:23",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Mi Fantasia",
-        "url": "https://open.spotify.com/album/1adsPQiPWD6KU41u114eii"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Viva El Amor",
-      "url": "https://open.spotify.com/track/588ZtSf0EGxZoMF4AIEtoL"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "Lo Maximo De Los Sonideros, Vol. 1",
         "url": "https://open.spotify.com/album/3Cdt3zjueq3lkq5dXNDFBX"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 221622,
       "name": "Cumbia De Los Patos",
       "url": "https://open.spotify.com/track/2XpSj3HHl5GjYkQBhtxQxb"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "Mi Fantasia",
+        "url": "https://open.spotify.com/album/1adsPQiPWD6KU41u114eii"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 226160,
+      "name": "Viva El Amor",
+      "url": "https://open.spotify.com/track/588ZtSf0EGxZoMF4AIEtoL"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
+        "name": "12 Super Exitos",
+        "url": "https://open.spotify.com/album/5W827hvHWk2pL0gP0xzixG"
+      },
+      "artists": [
+        {
+          "name": "Renacimiento 74",
+          "url": "https://open.spotify.com/artist/6qioLW4OC3ZBqwH93xATgU"
+        }
+      ],
+      "duration_ms": 179762,
+      "name": "El Viajecito",
+      "url": "https://open.spotify.com/track/5JqBZgb6jGf3QONcEn40bZ"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
         "name": "Disco De Oro - Cumbia",
         "url": "https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 180012,
       "name": "Cumbia Barulera",
       "url": "https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
-        "name": "12 Super Exitos",
-        "url": "https://open.spotify.com/album/5W827hvHWk2pL0gP0xzixG"
-      },
-      "artists": [
-        {
-          "name": "Renacimiento 74",
-          "url": "https://open.spotify.com/artist/6qioLW4OC3ZBqwH93xATgU"
-        }
-      ],
-      "duration_ms": 179762,
-      "name": "El Viajecito",
-      "url": "https://open.spotify.com/track/5JqBZgb6jGf3QONcEn40bZ"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Viva el Amor",
-        "url": "https://open.spotify.com/album/1o5ZMdsdZIjhjCRV54BDlF"
-      },
-      "artists": [
-        {
-          "name": "Su Majestad La Brissa",
-          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
-        }
-      ],
-      "duration_ms": 208882,
-      "name": "Viva el Amor",
-      "url": "https://open.spotify.com/track/0dPW1gm93Ls6VVdNDuxbGw"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
         "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 190426,
       "name": "Se Le Ve",
       "url": "https://open.spotify.com/track/3iL9tmKDG1vgSvuALf9miJ"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "Viva el Amor",
+        "url": "https://open.spotify.com/album/1o5ZMdsdZIjhjCRV54BDlF"
+      },
+      "artists": [
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+        }
+      ],
+      "duration_ms": 208882,
+      "name": "Viva el Amor",
+      "url": "https://open.spotify.com/track/0dPW1gm93Ls6VVdNDuxbGw"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2J4Fyd4BjurZ1SQZPcQAVS"
-      },
-      "artists": [
-        {
-          "name": "J.L.B. Y C\u00eda",
-          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "La Cumbia Del Lazo",
-      "url": "https://open.spotify.com/track/7tTuLRjVBfIyiwW5yZiCUM"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "Los Nenes con Los Nenes",
         "url": "https://open.spotify.com/album/3N8uklKicclGP85lgxYmDw"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 161985,
       "name": "Los Nenes Con los Nenes",
       "url": "https://open.spotify.com/track/6naFSjDQESFuw9Hv7v2ZOd"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2J4Fyd4BjurZ1SQZPcQAVS"
+      },
+      "artists": [
+        {
+          "name": "J.L.B. Y C\u00eda",
+          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "La Cumbia Del Lazo",
+      "url": "https://open.spotify.com/track/7tTuLRjVBfIyiwW5yZiCUM"
     },
     {
       "added_at": "2024-01-04 23:44:23",

@@ -2,9 +2,9 @@
 
 ### [Yalla ](https://open.spotify.com/playlist/37i9dQZF1DX5cO1uP1XC1g)
 
-> The biggest Arabic hits all in one place\. Cover:  DYSTINCT
+> The biggest Arabic hits all in one place\. Cover:  Tamer Ashour
 
-358 songs - 21 hr 35 min
+359 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Lewjah Tani](https://open.spotify.com/track/2YwzYRcRIJLMPq4TBTBQgd) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY), [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Lewjah Tani](https://open.spotify.com/album/2iObUozOdxAw1Dag3mHssf) | 3:30 | 2021-12-12 | 2022-09-19 |
 | [love nwantiti \(feat\. ElGrande Toto\) \- North African Remix](https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [love nwantiti \(feat\. ElGrande Toto\) \[North African Remix\]](https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg) | 2:15 | 2021-12-12 | 2022-06-03 |
 | [Lw](https://open.spotify.com/track/21pRBYqcpAHzzyrSrX2HCb) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Lw](https://open.spotify.com/album/1zHi1zlyhdrFkM00DoDNVL) | 3:21 | 2023-04-19 | 2023-05-18 |
-| [Ma Byetkarar](https://open.spotify.com/track/4BZl8mgWXlv6v6RsQNaABx) | [Wadih El Cheikh](https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl) | [Ma Byetkarar](https://open.spotify.com/album/3xH3ywXsLQAQUOTk4nt5dJ) | 3:36 | 2023-06-20 |  |
+| [Ma Byetkarar](https://open.spotify.com/track/4BZl8mgWXlv6v6RsQNaABx) | [Wadih El Cheikh](https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl) | [Ma Byetkarar](https://open.spotify.com/album/3xH3ywXsLQAQUOTk4nt5dJ) | 3:36 | 2023-06-20 | 2024-02-01 |
 | [MAAK](https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAAK](https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y) | 3:24 | 2022-03-22 | 2022-11-02 |
 | [Machafouhach](https://open.spotify.com/track/24jg1DbZgIwIBwascANUo0) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Machafouhach](https://open.spotify.com/album/2hyi1YaEv0A9LEA1HUEJ6S) | 4:54 | 2021-12-12 | 2022-09-19 |
 | [Magic](https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA) | 3:04 | 2022-07-22 | 2023-01-12 |
@@ -342,6 +342,7 @@
 | [قدام الكل](https://open.spotify.com/track/2KTUVGrszTvLJa6zgWLmyL) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [قدام الكل](https://open.spotify.com/album/2wJA7q1P2mraW3kA51V2Rn) | 3:04 | 2022-07-22 | 2022-11-02 |
 | [كداب](https://open.spotify.com/track/64HC3afpYKfxi58vHDbBTQ) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [كداب](https://open.spotify.com/album/1Vsm85YDjibZavRcqLPadK) | 3:03 | 2021-12-12 | 2022-07-27 |
 | [كده كده بايظه](https://open.spotify.com/track/6JIL1FI26WjTEnHZbOHXzZ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [كده كده بايظه](https://open.spotify.com/album/78eJSdtqKHJJdYKhPCm6Wn) | 3:09 | 2023-11-30 |  |
+| [كلو وهم](https://open.spotify.com/track/3XSlbOYVONZWgHUYsyv1kn) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [كلو وهم](https://open.spotify.com/album/0zVuys4kG4cSCH5TXPuv5H) | 3:22 | 2024-01-31 |  |
 | [كيفاش نخليك](https://open.spotify.com/track/0oaCbb3lplo9YIjdlwLspn) | [Mohamed Rifai](https://open.spotify.com/artist/4wc2KdcoFnLiGN9dJgu89W), [Hind Sdassi](https://open.spotify.com/artist/2P8fLcz5pRfOH5gb6oYLSm) | [كيفاش نخليك](https://open.spotify.com/album/3gcdxxzWkBdzLL7fxkXopA) | 3:59 | 2021-12-12 | 2023-01-24 |
 | [لمون نعناع](https://open.spotify.com/track/0MTRIhdVLqOy0mnTXtM5jM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [لمون نعناع](https://open.spotify.com/album/5IJllrLdWkmEYDJ6N4tw1Y) | 3:26 | 2023-07-31 |  |
 | [لو التقينا](https://open.spotify.com/track/4vlYaiaaw0htdoI3HXVP0P) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [بركان](https://open.spotify.com/album/5KkRsB4FGEuV82TSWWfIen) | 4:10 | 2023-07-01 | 2023-07-12 |

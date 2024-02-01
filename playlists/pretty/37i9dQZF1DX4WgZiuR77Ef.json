@@ -1,12 +1,12 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 394029,
+  "num_followers": 393992,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGY2ZGIyOGQzYmY2NDk0MmYwMDk1MTRiMjZiNDg0Yzc2N2Q1MjQw",
+  "snapshot_id": "MCxhMjg1ODVlYTZjNjg1ZDE5MWQ1ZWQxNzkzMjc5MDkwNTEyM2UwOThk",
   "tracks": [
     {
       "added_at": "2024-01-26 05:01:00",
@@ -295,7 +295,7 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Up Is Just A Place (Xtended Mix feat. Fred Wesley)",
+        "name": "Up Is Just A Place (Richie Stevens Xtended Mix feat. Fred Wesley)",
         "url": "https://open.spotify.com/album/0e8IootF0vFHJzuOszLEot"
       },
       "artists": [
@@ -330,10 +330,14 @@
         {
           "name": "Fred Wesley",
           "url": "https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam"
+        },
+        {
+          "name": "Richie Stevens",
+          "url": "https://open.spotify.com/artist/0EZnKWoAW1x51x8STsHhsl"
         }
       ],
       "duration_ms": 305454,
-      "name": "Up Is Just A Place (Xtended Mix feat. Fred Wesley)",
+      "name": "Up Is Just A Place (Richie Stevens Xtended Mix feat. Fred Wesley)",
       "url": "https://open.spotify.com/track/2X1jifAuCUkeIiidlRDxFl"
     },
     {

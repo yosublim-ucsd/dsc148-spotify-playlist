@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ["Filthy"](https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | ["Filthy"](https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5) | 3:01 | 2022-08-26 | 2024-01-12 |
+| ["Filthy"](https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | ["Filthy"](https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5) | 3:01 | 2022-08-26 |  |
 | [.CoDA.](https://open.spotify.com/track/1PlzMAYlt0Qziq9Q1AOcv7) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [\-!\- \(Deluxe\)](https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek) | 3:44 | 2022-10-07 |  |
 | [.CoDA.](https://open.spotify.com/track/5Key8WcA9y3rW9BC9ZrGME) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [.getawayfortheweekend.](https://open.spotify.com/album/46mMja473feJC3459xFEUi) | 3:44 | 2021-03-11 | 2023-05-04 |
 | [A Taste of Silver](https://open.spotify.com/track/3q0tvLJLDdm0HkUDwOOvoM) | [Until The Ribbon Breaks](https://open.spotify.com/artist/0PFM64sKw3GG4Sk8kqNIcp) | [A Taste of Silver](https://open.spotify.com/album/5VcTTlkBQvgYZRgXOsQC06) | 3:02 | 2022-10-07 | 2022-11-13 |
@@ -37,7 +37,7 @@
 | [Black Sun](https://open.spotify.com/track/2qXa0A4hhNZABcv3w82yAJ) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Kadavar](https://open.spotify.com/album/3HGjRwVnuaYYOlMzT1eq0X) | 6:13 | 2022-06-17 | 2022-11-20 |
 | [Black Sun](https://open.spotify.com/track/55kiPvtypgGabvBYq53O8E) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Kadavar](https://open.spotify.com/album/6RECe1GHKyEJa07bp6ciYm) | 6:13 | 2022-10-07 | 2023-06-10 |
 | [Black Sun](https://open.spotify.com/track/3T246PZYf5qMcBKFcjnfKx) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Kadavar](https://open.spotify.com/album/4f00FpOFJG65WQKlBVlEHC) | 6:14 | 2020-12-11 | 2022-07-29 |
-| [Bomb Through the Breeze](https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 2:44 | 2020-12-11 |  |
+| [Bomb Through the Breeze](https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 2:44 | 2020-12-11 | 2024-02-01 |
 | [Boys From The Puget Sound](https://open.spotify.com/track/30MX7YQUfhQRzEEP8icha8) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Boys From The Puget Sound](https://open.spotify.com/album/6IBtL4j3T8LrREXlCAZCDf) | 3:33 | 2020-12-11 | 2022-06-14 |
 | [Brave New World \- Edit](https://open.spotify.com/track/3qaKW3PamENC3cfNy1qthd) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Brave New World \(Edit\)](https://open.spotify.com/album/2ciVpjZQk4aS4g7dtCBznU) | 2:40 | 2022-06-17 | 2022-11-09 |
 | [Brave New World \- Edit](https://open.spotify.com/track/4k5L5CO5mTIVwdsu6vsIFl) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Brave New World \(Edit\)](https://open.spotify.com/album/4Z0hfRDndGL0bGFnuK9BsZ) | 2:40 | 2022-10-07 | 2023-06-10 |

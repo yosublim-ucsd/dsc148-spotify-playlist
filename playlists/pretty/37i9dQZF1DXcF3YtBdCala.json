@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Adri\u00e1n Barraza en portada. ",
-  "num_followers": 131246,
+  "num_followers": 131232,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTlmYmIxZDg3MGJlNWJkZGRjZjM1ZjJiNjMyMThlN2RhYjU1ZDUx",
+  "snapshot_id": "MCwyODIyZjFlN2VmMTM5MGFjZGU4ZWE0ZTM2OWNhY2M2ZTNkZDg4OGNj",
   "tracks": [
     {
       "added_at": "2024-01-19 06:00:00",
@@ -875,18 +875,22 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Una Vida",
-        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR"
       },
       "artists": [
         {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+          "name": "El Bala",
+          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
+        },
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
         }
       ],
-      "duration_ms": 177893,
-      "name": "Una Vida",
-      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
+      "duration_ms": 157280,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -927,22 +931,18 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Te Vas",
-        "url": "https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR"
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
       },
       "artists": [
         {
-          "name": "El Bala",
-          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
-        },
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 157280,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v"
+      "duration_ms": 177893,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Carne Y Hueso",
-        "url": "https://open.spotify.com/album/6SKLvaEw9kdK7jrGnQC0qV"
-      },
-      "artists": [
-        {
-          "name": "Fatima Campo",
-          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
-        }
-      ],
-      "duration_ms": 200533,
-      "name": "Carne Y Hueso",
-      "url": "https://open.spotify.com/track/79RBnNPr10KCaIHrQcREaZ"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Ya Lleg\u00f3 la Echeverr\u00eda...",
         "url": "https://open.spotify.com/album/6ZNXIAbNoxtVkMuHUbXrfJ"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 206666,
       "name": "Cosi\u00e9ndome el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2QInqAwobGfKsrKbJnVf1y"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Carne Y Hueso",
+        "url": "https://open.spotify.com/album/6SKLvaEw9kdK7jrGnQC0qV"
+      },
+      "artists": [
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        }
+      ],
+      "duration_ms": 200533,
+      "name": "Carne Y Hueso",
+      "url": "https://open.spotify.com/track/79RBnNPr10KCaIHrQcREaZ"
     },
     {
       "added_at": "2024-01-19 06:00:00",

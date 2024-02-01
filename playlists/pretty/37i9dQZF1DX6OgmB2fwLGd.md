@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The rap soundtrack to the internet\. Cover: Barretta
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,393,906 likes - 100 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,393,992 likes - 100 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [SINS](https://open.spotify.com/track/32mXd7wU5DXzI3NwxOjeLT) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MANIC MAN](https://open.spotify.com/album/0jqwLKjpjN4ikAbIi7bAHT) | 2:17 |
 | 100 | [SEEN](https://open.spotify.com/track/0IrecfudrvKZUjLdPgEu7W) | [Unghetto](https://open.spotify.com/artist/4a0UMM2QrKP5ESk1P8373s) | [UNGHETTO WORLD](https://open.spotify.com/album/6jHh5VXQZmkIPJ2p5VNmuk) | 2:30 |
 
-Snapshot ID: `MCxlNDhhNjg5MmRkNzY1MTQ3MTliNmExM2Q5MTdhNjJiMThiOTllMTQy`
+Snapshot ID: `MCw0ZDJlMjIwNDc3OWFlNjdkZjdmZGNiNjk1YTcyMmUyOGU4MWE4MmEz`

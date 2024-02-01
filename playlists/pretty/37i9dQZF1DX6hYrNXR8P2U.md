@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Más música, menos etiquetas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,154 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,160 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 99 | [Atormentada](https://open.spotify.com/track/0KHFf9RtpZyRlcJDHL4AKR) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Vida Real](https://open.spotify.com/album/4LzdHfWwKopzSuUichGbgm) | 3:19 |
 | 100 | [mutar la piel](https://open.spotify.com/track/3c6htQWeWgxzXYVrqg2ABk) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum), [Aluhé](https://open.spotify.com/artist/5reGHhq0cPEOW5nYDj1Dge) | [mutar la piel](https://open.spotify.com/album/3FpUrtVBDvGQKwzvFqOkMd) | 2:53 |
 
-Snapshot ID: `MCw3NWU4ZTZjYTViMjMwMjMzMTJmNWU1OTE0YjUyY2JkMjBiZjZkN2Q0`
+Snapshot ID: `MCwwZDgzMjNiODhlYmYxYmYxMGEyZjU4ZTU3YzRmY2IwZTNiODUyZjcw`

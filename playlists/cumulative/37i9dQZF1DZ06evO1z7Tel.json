@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Es Imposible",
+        "url": "https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129080,
+      "name": "Betillo Araujo",
+      "url": "https://open.spotify.com/track/3JrJ5eReaNEUrhdNLC7KAk"
+    },
+    {
+      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -808,7 +826,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 207673,
       "name": "Gabino Barrera",
       "url": "https://open.spotify.com/track/3FJjpxv95LLjQPIVrPhntF"

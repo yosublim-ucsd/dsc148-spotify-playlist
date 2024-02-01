@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 293830,
+  "2024-02-01": 293855,
   "date_first_scraped": "2021-12-21",
   "description": "Underground indie rock gems. Cover: Katy Kirby",
   "name": "undercurrents",
@@ -2397,6 +2397,24 @@
       "duration_ms": 185236,
       "name": "BLUE",
       "url": "https://open.spotify.com/track/5ogl7JWflmR7b0fedAgQOI"
+    },
+    {
+      "album": {
+        "name": "Blue Tuesday",
+        "url": "https://open.spotify.com/album/43f2MIFJtD0hEWs1KQkvnw"
+      },
+      "artists": [
+        {
+          "name": "Francis of Delirium",
+          "url": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158626,
+      "name": "Blue Tuesday",
+      "url": "https://open.spotify.com/track/37pvGnY30NAi7FdtB2HhJL"
     },
     {
       "album": {

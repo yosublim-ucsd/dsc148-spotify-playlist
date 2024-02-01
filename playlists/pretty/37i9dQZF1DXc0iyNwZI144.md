@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 
 > A melhor trilha sonora pra se preparar pros dias mais quentes do ano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,070,774 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,070,632 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 | 60 | [Back & Forth](https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Back & Forth](https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0) | 3:16 |
 | 61 | [Sun Goes Down](https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [ADORA](https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW) | [Sun Goes Down](https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8) | 3:23 |
 | 62 | [Right Now](https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Right Now](https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P) | 3:21 |
-| 63 | [Old Town Road \- Diplo Remix](https://open.spotify.com/track/3kgKVcBpBGuSeaEC0AZGlb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Old Town Road \(Diplo Remix\)](https://open.spotify.com/album/66FxETmTBazRMZNbvGtGQl) | 3:24 |
-| 64 | [Sun Comes Up \(feat\. James Arthur\)](https://open.spotify.com/track/6SUocL0caib4mLHe8ZrZzi) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Sun Comes Up \(feat\. James Arthur\)](https://open.spotify.com/album/5UGyzp6HT8oy0eTkBfxtQ8) | 3:52 |
+| 63 | [Sun Comes Up \(feat\. James Arthur\)](https://open.spotify.com/track/6SUocL0caib4mLHe8ZrZzi) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Sun Comes Up \(feat\. James Arthur\)](https://open.spotify.com/album/5UGyzp6HT8oy0eTkBfxtQ8) | 3:52 |
+| 64 | [Old Town Road \- Diplo Remix](https://open.spotify.com/track/3kgKVcBpBGuSeaEC0AZGlb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Old Town Road \(Diplo Remix\)](https://open.spotify.com/album/66FxETmTBazRMZNbvGtGQl) | 3:24 |
 | 65 | [Machika](https://open.spotify.com/track/7FnHUsFRTMg8VYteFKj3xL) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | 3:09 |
 | 66 | [Human \(Remix\)](https://open.spotify.com/track/0bVp6yZEUrJzOm2agoFYZm) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [Manimal](https://open.spotify.com/artist/1u5OwFCI26TQzGWf3F9iX9) | [Human \(Remix\)](https://open.spotify.com/album/5gV5YLk7ehBmnLzoj1ftOo) | 3:31 |
 | 67 | [Burn Out \(feat\. Dewain Whitmore\)](https://open.spotify.com/track/7IWTIkiWGWNQyYfOLdMrGD) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [Dewain Whitmore](https://open.spotify.com/artist/1E1W3to8HhGSkkIEUMwEjd) | [Burn Out \(feat\. Dewain Whitmore\)](https://open.spotify.com/album/3feYPmyPH7tqh1ZfsU0D0i) | 3:20 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 | 69 | [Alien](https://open.spotify.com/track/1Tqshmc0rnQPaIGJfRp2Da) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Alien](https://open.spotify.com/album/490i1hn8BjKIiUbaolvRdS) | 2:18 |
 | 70 | [Tough Love \(feat\. Agnes, Vargas & Lagola\)](https://open.spotify.com/track/1yfyIdEw5U2bD5I6gxQCxW) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu), [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 3:11 |
 
-Snapshot ID: `MCxjYTdiZDY4NDZlMTBhNjdjMzQwZTFlZDVkNjYxYzEzMWYzMTQ2OGU2`
+Snapshot ID: `MCwyZjQ0MjViNjgzOTM1NjNkNWMxNGFjZWE1YjE2MTVmMjZmNWUzNjg3`

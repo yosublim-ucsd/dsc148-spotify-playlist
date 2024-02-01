@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 19321,
+  "num_followers": 19348,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Zjc5ZmNlZjVlZGZhZTVmM2NiNGM3NDFmY2UzZTQyNDg1NjU0NDlj",
+  "snapshot_id": "MCw0N2U4YWUwMDNlODljODExNTMwMDQ1YWE4ZThlNWVjYmY2YmZkNzRk",
   "tracks": [
     {
       "added_at": "2024-01-26 00:01:00",
@@ -323,22 +323,26 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+        "name": "PICANTO",
+        "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         },
         {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "ECko Miles",
+          "url": "https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD"
         }
       ],
-      "duration_ms": 211050,
-      "name": "Cloak & Dagger (feat. J Hus)",
-      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
+      "duration_ms": 184077,
+      "name": "PICANTO",
+      "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -379,6 +383,26 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "duration_ms": 211050,
+      "name": "Cloak & Dagger (feat. J Hus)",
+      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
         "name": "Always (feat. Black Sherif)",
         "url": "https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH"
       },
@@ -395,26 +419,6 @@
       "duration_ms": 154957,
       "name": "Always (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 239893,
-      "name": "Longtime (feat. Skepta)",
-      "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -439,22 +443,22 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Want It All (feat. Polo G)",
-        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 232500,
-      "name": "Want It All (feat. Polo G)",
-      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
+      "duration_ms": 239893,
+      "name": "Longtime (feat. Skepta)",
+      "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -551,26 +555,26 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "PICANTO",
-        "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
+        "name": "SCAR",
+        "url": "https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Song bird",
+          "url": "https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt"
         },
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         },
         {
-          "name": "ECko Miles",
-          "url": "https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD"
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
         }
       ],
-      "duration_ms": 184077,
-      "name": "PICANTO",
-      "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
+      "duration_ms": 203333,
+      "name": "SCAR",
+      "url": "https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -595,26 +599,22 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "SCAR",
-        "url": "https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5"
+        "name": "Want It All (feat. Polo G)",
+        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
       },
       "artists": [
         {
-          "name": "Song bird",
-          "url": "https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         },
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        },
-        {
-          "name": "JBEE",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 203333,
-      "name": "SCAR",
-      "url": "https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy"
+      "duration_ms": 232500,
+      "name": "Want It All (feat. Polo G)",
+      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -651,30 +651,6 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Green With Envy",
-        "url": "https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc"
-      },
-      "artists": [
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "Who's True",
-      "url": "https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
         "name": "Evil Twin",
         "url": "https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo"
       },
@@ -695,6 +671,30 @@
       "duration_ms": 152558,
       "name": "Breaking News",
       "url": "https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Green With Envy",
+        "url": "https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "Who's True",
+      "url": "https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -823,6 +823,26 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
+        "name": "BILLION DOLLAR DREAM (Deluxe Version)",
+        "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
+      },
+      "artists": [
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "My Bro",
+      "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
         "name": "Young Preacher",
         "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 181250,
       "name": "FAKE NIKES (feat. Blxckie & Cheque)",
       "url": "https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "BILLION DOLLAR DREAM (Deluxe Version)",
-        "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
-      },
-      "artists": [
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "My Bro",
-      "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -979,26 +979,6 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "BAD TILL ETERNITY (feat. Zlatan)",
-        "url": "https://open.spotify.com/album/4REcDrYHUkwAsyFH51SbOi"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "BAD TILL ETERNITY (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/2iJxQENVp6qHhHv1rdoPtX"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
         "name": "Bando Diaries",
         "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 158298,
       "name": "Bando Diaries",
       "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "BAD TILL ETERNITY (feat. Zlatan)",
+        "url": "https://open.spotify.com/album/4REcDrYHUkwAsyFH51SbOi"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "BAD TILL ETERNITY (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/2iJxQENVp6qHhHv1rdoPtX"
     }
   ],
   "unique_name": "Pump it Up ",

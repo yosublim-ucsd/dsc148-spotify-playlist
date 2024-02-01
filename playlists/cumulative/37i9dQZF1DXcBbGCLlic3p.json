@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "A Mind At Ease",
+        "url": "https://open.spotify.com/album/2XLBcAnu85g3GLcGKWziDr"
+      },
+      "artists": [
+        {
+          "name": "Allard Sidonia",
+          "url": "https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198646,
+      "name": "A Mind At Ease",
+      "url": "https://open.spotify.com/track/5d8AXz3Mu8pAsDbriJ2eDQ"
+    },
+    {
+      "album": {
         "name": "A Mind At Peace",
         "url": "https://open.spotify.com/album/3Uh5lwdmIItGFysG7thSkz"
       },
@@ -1103,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/4bGgp7QmOlvxRK6VTXRREm"
+      },
+      "artists": [
+        {
+          "name": "Dr\u00f6mlandskap",
+          "url": "https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188670,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/3QM5SPPuB35zKVbG3d1Pj8"
+    },
+    {
+      "album": {
         "name": "Grande",
         "url": "https://open.spotify.com/album/3c8RWTE6C8Ok6yAxfeQkYZ"
       },
@@ -1190,6 +1226,24 @@
       "duration_ms": 206124,
       "name": "Dr\u017ei me",
       "url": "https://open.spotify.com/track/2y5P7MecKp333IMNuKeOP7"
+    },
+    {
+      "album": {
+        "name": "Dunes",
+        "url": "https://open.spotify.com/album/6MGGyFGLMM2JqgSonui7Pw"
+      },
+      "artists": [
+        {
+          "name": "Echo River",
+          "url": "https://open.spotify.com/artist/1ytRxYe87vfftgDbZ9kGw8"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211397,
+      "name": "Dunes",
+      "url": "https://open.spotify.com/track/2BbegPQGNccK4UiK4PCRRm"
     },
     {
       "album": {
@@ -4600,6 +4654,24 @@
       "duration_ms": 181379,
       "name": "The Seeds I\u2019ve Sown",
       "url": "https://open.spotify.com/track/3OLr0gzUC0zLlWmpE6L0Ay"
+    },
+    {
+      "album": {
+        "name": "The Untold",
+        "url": "https://open.spotify.com/album/4MOcrDJxyQxNOLJw400w1X"
+      },
+      "artists": [
+        {
+          "name": "Lilja H\u00e4m\u00e4l\u00e4inen",
+          "url": "https://open.spotify.com/artist/6RzoXHrF9hdbfkPq4vQF3X"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179626,
+      "name": "The Untold",
+      "url": "https://open.spotify.com/track/1oh1PVrZMctltPzCuwYMMP"
     },
     {
       "album": {

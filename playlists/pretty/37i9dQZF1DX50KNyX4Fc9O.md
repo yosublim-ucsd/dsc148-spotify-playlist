@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Kaylee Bell, Navvy
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,592 likes - 103 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,579 likes - 103 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 102 | [Astronaut](https://open.spotify.com/track/7nku4ywsysUidKcPiS4hIQ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Astronaut](https://open.spotify.com/album/3kEiyT5GXTX6jFK92h6qL9) | 3:35 |
 | 103 | [Forget Me](https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:23 |
 
-Snapshot ID: `MCw3YmM2MWZiMTZjY2U4YzdjYjVlZDZjZWMwYzcwZWE0NWNmYTdjMzg3`
+Snapshot ID: `MCwyZTIxY2ZiYjIyZTYxZjc4NzdlODQyYmVkNDJlNTQ0NTZkNjRiZmEx`

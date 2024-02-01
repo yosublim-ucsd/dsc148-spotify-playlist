@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Hanifah, Doug O.",
-  "num_followers": 166168,
+  "num_followers": 166188,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTFmYWE0MjI2YTg2YTkxYzkwMTkzYjFmNjJiZjczZWU0Y2UzMzA5",
+  "snapshot_id": "MCw1NWUxNjMwNDA4ODBiZjdmMWQ4MzhlNzEwOTA0Y2MwZDU5NjY2MWRj",
   "tracks": [
     {
       "added_at": "2024-01-26 03:01:00",
@@ -83,22 +83,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Sintomas de Prazer - Live",
-        "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 151103,
-      "name": "Sintomas de Prazer - Live",
-      "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "Peito Aberto",
         "url": "https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 156363,
       "name": "Peito Aberto",
       "url": "https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "Sintomas de Prazer - Live",
+        "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 151103,
+      "name": "Sintomas de Prazer - Live",
+      "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -563,26 +563,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Faz Arrepiar",
-        "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
-      },
-      "artists": [
-        {
-          "name": "Fashion Piva",
-          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
-        },
-        {
-          "name": "Ane",
-          "url": "https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG"
-        }
-      ],
-      "duration_ms": 140832,
-      "name": "Faz Arrepiar",
-      "url": "https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "Teu Sinal",
         "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 189230,
       "name": "Teu Sinal",
       "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "Faz Arrepiar",
+        "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
+      },
+      "artists": [
+        {
+          "name": "Fashion Piva",
+          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
+        },
+        {
+          "name": "Ane",
+          "url": "https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG"
+        }
+      ],
+      "duration_ms": 140832,
+      "name": "Faz Arrepiar",
+      "url": "https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Pode Ir",
-        "url": "https://open.spotify.com/album/2ZnCFXgpCWI1AVuPySlRk2"
-      },
-      "artists": [
-        {
-          "name": "Ikinya",
-          "url": "https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU"
-        },
-        {
-          "name": "Grito Filmes",
-          "url": "https://open.spotify.com/artist/6JGgc0QXvUeYUqhoX88133"
-        }
-      ],
-      "duration_ms": 153371,
-      "name": "Pode Ir",
-      "url": "https://open.spotify.com/track/1dHm9SJdbZ9YrlnqgsPnHF"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 204937,
       "name": "Volta",
       "url": "https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "Pode Ir",
+        "url": "https://open.spotify.com/album/2ZnCFXgpCWI1AVuPySlRk2"
+      },
+      "artists": [
+        {
+          "name": "Ikinya",
+          "url": "https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU"
+        },
+        {
+          "name": "Grito Filmes",
+          "url": "https://open.spotify.com/artist/6JGgc0QXvUeYUqhoX88133"
+        }
+      ],
+      "duration_ms": 153371,
+      "name": "Pode Ir",
+      "url": "https://open.spotify.com/track/1dHm9SJdbZ9YrlnqgsPnHF"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -819,30 +819,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Mais Um Pouco",
-        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
-      },
-      "artists": [
-        {
-          "name": "Murilo Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
-        },
-        {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        }
-      ],
-      "duration_ms": 185263,
-      "name": "Mais Um Pouco",
-      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "Tempo pra Perder",
         "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
       },
@@ -911,6 +887,30 @@
       "duration_ms": 115306,
       "name": "A Nossa Brisa",
       "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "Mais Um Pouco",
+        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
+      },
+      "artists": [
+        {
+          "name": "Murilo Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
+        },
+        {
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        }
+      ],
+      "duration_ms": 185263,
+      "name": "Mais Um Pouco",
+      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
+        "name": "Lingerie Branca",
+        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
+      },
+      "artists": [
+        {
+          "name": "MOTICO MONEY",
+          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
+        }
+      ],
+      "duration_ms": 239029,
+      "name": "Lingerie Branca",
+      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
         "name": "Respostas",
         "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 194000,
       "name": "Respostas",
       "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
-        "name": "Caixa Postal",
-        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Caixa Postal",
-      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Lingerie Branca",
-        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
+        "name": "Caixa Postal",
+        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
       },
       "artists": [
         {
-          "name": "MOTICO MONEY",
-          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
         }
       ],
-      "duration_ms": 239029,
-      "name": "Lingerie Branca",
-      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
+      "duration_ms": 183529,
+      "name": "Caixa Postal",
+      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
+        "name": "Roupa de Ontem",
+        "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
+      },
+      "artists": [
+        {
+          "name": "Krupinsk",
+          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Roupa de Ontem",
+      "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
         "name": "Imaturos",
         "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 168247,
       "name": "Abstin\u00eancia",
       "url": "https://open.spotify.com/track/04Zcj7MnHdpx5LVNa6qFQs"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
-        "name": "Roupa de Ontem",
-        "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
-      },
-      "artists": [
-        {
-          "name": "Krupinsk",
-          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Roupa de Ontem",
-      "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Santa Melanina",
-        "url": "https://open.spotify.com/album/0sqwjwOQEBlX0qs2oQizgT"
-      },
-      "artists": [
-        {
-          "name": "Binho Salles",
-          "url": "https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB"
-        }
-      ],
-      "duration_ms": 141714,
-      "name": "Santa Melanina",
-      "url": "https://open.spotify.com/track/3ztQ8cprZjCh4UhtAKY5Be"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "Pra Ningu\u00e9m",
         "url": "https://open.spotify.com/album/4tZ6QIEkiD1aEjzx6XJK8f"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 229586,
       "name": "Pra Ningu\u00e9m",
       "url": "https://open.spotify.com/track/355a1BU5F1BSofA99ZNejR"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "Santa Melanina",
+        "url": "https://open.spotify.com/album/0sqwjwOQEBlX0qs2oQizgT"
+      },
+      "artists": [
+        {
+          "name": "Binho Salles",
+          "url": "https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB"
+        }
+      ],
+      "duration_ms": 141714,
+      "name": "Santa Melanina",
+      "url": "https://open.spotify.com/track/3ztQ8cprZjCh4UhtAKY5Be"
     },
     {
       "added_at": "2024-01-26 03:01:00",

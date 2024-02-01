@@ -188,7 +188,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 162352,
       "name": "About You Now (How I Feel)",
       "url": "https://open.spotify.com/track/3Ipu6e4dwxdt8lmSI27ZFx"
@@ -2375,6 +2375,28 @@
     },
     {
       "album": {
+        "name": "Derni\u00e8re danse (Techno Mix)",
+        "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
+      },
+      "artists": [
+        {
+          "name": "Indila",
+          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+        },
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Derni\u00e8re danse - Techno Mix",
+      "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
+    },
+    {
+      "album": {
         "name": "Desire (with Sam Smith)",
         "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
       },
@@ -4110,6 +4132,28 @@
       "duration_ms": 160625,
       "name": "Havana",
       "url": "https://open.spotify.com/track/2cMH4ENPzIeKqXS0PbKLoY"
+    },
+    {
+      "album": {
+        "name": "Head Up",
+        "url": "https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189636,
+      "name": "Head Up",
+      "url": "https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ"
     },
     {
       "album": {
@@ -10428,7 +10472,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"

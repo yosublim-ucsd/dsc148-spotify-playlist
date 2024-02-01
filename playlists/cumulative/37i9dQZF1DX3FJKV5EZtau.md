@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-413 songs - 23 hr 45 min
+414 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Bloom](https://open.spotify.com/track/2Xdl6VLO40M9eM30HRq8Yr) | [Thomas Bergersen](https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq) | [Bloom](https://open.spotify.com/album/5PenbQsxKoTkKqLxsVMkwO) | 4:28 | 2023-11-10 |  |
 | [Blur \(feat\. Dacy\)](https://open.spotify.com/track/0ZttcfFpXraHVv00visCOK) | [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f), [Dacy](https://open.spotify.com/artist/7fgYuoYmdlHrGWM3mRZJMp) | [Blur \(feat\. Dacy\)](https://open.spotify.com/album/1v68aSVcFu6CvRz7P8dhnk) | 4:15 | 2022-01-21 | 2022-07-29 |
 | [break // 1k](https://open.spotify.com/track/6mjveDmSzr5kAjwsC2KdYK) | [mykel online](https://open.spotify.com/artist/4bXXeAmSSTlMcSI0pJXDQ6) | [break // 1k](https://open.spotify.com/album/5K6ufDR0JQUq9ezOsRkzAr) | 1:37 | 2023-02-17 |  |
+| [Bubble Tea](https://open.spotify.com/track/5xaFYSG9oSO9vHV23t281o) | [dark cat](https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI) | [Bubble Tea](https://open.spotify.com/album/5nenT3DUd3kZ2CQNLI0Uha) | 4:03 | 2024-01-05 |  |
 | [BUBBLE TEA](https://open.spotify.com/track/4YMvlMYV3hD8emKCprfb4N) | [dark cat](https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI), [juu](https://open.spotify.com/artist/6YDsIjHPnVrYoZRbqlbxAw), [Cinders](https://open.spotify.com/artist/0S6MfM6u0vKuZl0Tjmp89A) | [BUBBLE TEA](https://open.spotify.com/album/4eG4nUx7xChZ6ushsNcd6J) | 4:03 | 2022-03-11 | 2022-12-15 |
 | [BUBBLE TEA](https://open.spotify.com/track/2uxIsWUeOnHY5KmuE4zOyY) | [dark cat](https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI), [juu](https://open.spotify.com/artist/6YDsIjHPnVrYoZRbqlbxAw), [Cinders](https://open.spotify.com/artist/0S6MfM6u0vKuZl0Tjmp89A) | [BUBBLE TEA](https://open.spotify.com/album/6chjt5FQOpKOWxLvIvuMok) | 4:03 | 2022-12-16 | 2024-01-30 |
 | [Bury Me](https://open.spotify.com/track/3RUrrtlLLxaB5Tny3VwBZd) | [SFINX](https://open.spotify.com/artist/4FsI6tQLAQqw5cZEa2xLlS), [Rainych](https://open.spotify.com/artist/3dTzeO0QCd86cXSgQ04Y3r) | [Bury Me](https://open.spotify.com/album/3x50qCtW8ywyUzJgMolMX1) | 3:42 | 2022-01-07 | 2024-01-20 |
@@ -168,7 +169,7 @@
 | [Good Enough](https://open.spotify.com/track/7bT32pu1rHEiS6OGvbZwNV) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Good Enough / For Me \(BCee Remix\)](https://open.spotify.com/album/1HdBgugWBSkwqTfuJ4gn5I) | 4:20 | 2022-01-07 |  |
 | [GRANEW](https://open.spotify.com/track/2c0pZXVTxTHJVagqDQdFoG) | [Kabanagu](https://open.spotify.com/artist/5za1QX51X1jaDRmPL7Um7P) | [OYOGUMANE](https://open.spotify.com/album/4pNyP4fAlZihVZ3uAY1UOB) | 2:02 | 2022-07-14 | 2022-08-06 |
 | [grayscale](https://open.spotify.com/track/7bDVv5WI1ZPJOVNtJvqmYb) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt), [やぎぬまかな](https://open.spotify.com/artist/0hvNcP9hMHLy8Mz7cX6AsI) | [grayscale](https://open.spotify.com/album/6cdgPkXMC2CcgkNjEQ1VfN) | 5:26 | 2022-01-07 | 2023-05-16 |
-| [Green Hill Zone](https://open.spotify.com/track/0XjZFdCbGKM2OHecJa1185) | [Sprightly](https://open.spotify.com/artist/4kMqA4BxUx49x0FB8Ujtgc), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8) | [Green Hill Zone](https://open.spotify.com/album/5IhsVRMo999J5TNdgrYPDP) | 2:55 | 2022-01-07 |  |
+| [Green Hill Zone](https://open.spotify.com/track/0XjZFdCbGKM2OHecJa1185) | [Sprightly](https://open.spotify.com/artist/4kMqA4BxUx49x0FB8Ujtgc), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8) | [Green Hill Zone](https://open.spotify.com/album/5IhsVRMo999J5TNdgrYPDP) | 2:55 | 2022-01-07 | 2024-02-01 |
 | [Gum Gum Girl](https://open.spotify.com/track/4xrz4aF606oQ8xqlaoS3ZK) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Gum Gum Girl](https://open.spotify.com/album/67O2yBZLKwAThCY5K3frvS) | 3:39 | 2022-03-11 | 2022-04-21 |
 | [Gurenge](https://open.spotify.com/track/5CPb3hIAHW1YAJsy5n2DQj) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Gurenge](https://open.spotify.com/album/4f6elU39RiUgIztaePyNff) | 3:24 | 2022-01-07 | 2023-02-17 |
 | [Gurenge](https://open.spotify.com/track/6kBaORe8Y7pJh00892d94Q) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Gurenge](https://open.spotify.com/album/0EH5DTITXNnjcVxlgUfQCX) | 3:24 | 2023-02-17 |  |

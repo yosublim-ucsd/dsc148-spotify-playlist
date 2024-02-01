@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Cavetown
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,534 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,545 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [limbo](https://open.spotify.com/track/0JFUAuI5jrh7xHaY0kRFW1) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [the star factory](https://open.spotify.com/album/3uOmDnsAd5bFVaOx6nsUTB) | 3:02 |
 | 100 | [Jump The Fences](https://open.spotify.com/track/6ijYdp16OS5L6SIQ7D9hmO) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [Jump The Fences](https://open.spotify.com/album/36Fr7LONw4pmUoalQen5Ua) | 3:29 |
 
-Snapshot ID: `MCxhYWQxZTQ3NzQ3ZDVmOGQxZTJiNjIwNGU5OTg0Y2ZjZjgxN2MxYjE0`
+Snapshot ID: `MCw1NjhmODU1NTFhNDNiZTI5YWQ4N2RiMTI0M2YxYTRiZmIyMWU3ZDA4`

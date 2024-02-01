@@ -4,7 +4,7 @@
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-75 songs - 5 hr 35 min
+76 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,9 +13,10 @@
 | [All I Do Is Think of You](https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3) | [Troop](https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI) | [Attitude](https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr) | 3:49 | 2021-01-15 |  |
 | [All of Me \(Music from the Motion Picture "The United States vs\. Billie Holiday"\)](https://open.spotify.com/track/4vYc0t7Ymz1LQoN7X3okfX) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [All of Me \(Music from the Motion Picture "The United States vs\. Billie Holiday"\)](https://open.spotify.com/album/7rhO7zOEFdz8v5tdSC6JZA) | 3:35 | 2021-01-15 | 2023-02-14 |
 | [Angel](https://open.spotify.com/track/5zsqV7VwDz2gRnALIpTaP1) | [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [BEcoming](https://open.spotify.com/album/49eOVYOGoUjNjgyplB6JJF) | 3:05 | 2021-01-15 | 2022-11-29 |
-| [As](https://open.spotify.com/track/750vuAyjSZGt53r570s8ML) | [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [The Best Man Holiday: Original Motion Picture Soundtrack](https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt) | 5:31 | 2021-01-15 |  |
+| [As](https://open.spotify.com/track/750vuAyjSZGt53r570s8ML) | [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [The Best Man Holiday: Original Motion Picture Soundtrack](https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt) | 5:31 | 2021-01-15 | 2024-02-01 |
 | [Bag Lady / Split \- Live](https://open.spotify.com/track/6V3J9NK2BK2KbwmkGgTjip) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW: Live At Electric Lady](https://open.spotify.com/album/2yaCKbj7pFFEkXn3ixVr7w) | 2:03 | 2023-04-07 |  |
 | [Can't Hide Love \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/3o9PU86yJAeojzW69KdLh6) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Ultimate D'Angelo](https://open.spotify.com/album/6kdaBN7lOYDLZfCAGiSecr) | 3:56 | 2021-01-15 | 2022-07-29 |
+| [Can't Hide Love \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/2gpTbzVPDMtxsDjLn2FrII) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 4:06 | 2021-01-15 |  |
 | [Didn't Cha Know \- Live At Electric Lady](https://open.spotify.com/track/7dmgo44DhX2MOtaFV5a0HQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Live At Electric Lady](https://open.spotify.com/album/29C15dlrrccQP32Cl60kjl) | 4:23 | 2023-05-05 |  |
 | [Didn't Cha Know \[Feat\. Bilal\] \- Live At Electric Lady](https://open.spotify.com/track/33VfEqHmo459jipU1W7it1) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Live At Electric Lady](https://open.spotify.com/album/1ZJIrjZ6OVtVC2TMAVlEQ4) | 4:23 | 2023-05-05 | 2023-05-20 |
 | [Don't Disturb This Groove](https://open.spotify.com/track/7iAkNtFdZ07C7a7gFVDbRz) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Ventriloquism](https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG) | 4:37 | 2021-01-15 | 2023-04-23 |

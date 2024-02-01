@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 11933,
+  "2024-02-01": 11937,
   "date_first_scraped": "2022-05-26",
   "description": "This is Harold Melvin & The Blue Notes. The essential tracks, all in one playlist.",
   "name": "This Is Harold Melvin & The Blue Notes",
@@ -407,7 +407,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 220360,
       "name": "Ebony Woman (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/7wIxRXBNX0FbcG3AaXkr0b"
@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 212240,
       "name": "Let It Be You (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/1H90T1SzYHLRqNZZ0y7dhC"
@@ -1691,7 +1691,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 492796,
       "name": "Tonight's the Night",
       "url": "https://open.spotify.com/track/6Ib3CF2lnbq3mozpq4petK"
@@ -1775,7 +1775,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 155103,
       "name": "We'll Be United - Live",
       "url": "https://open.spotify.com/track/4kvvs2AAAdkRHzAyUR0cSc"

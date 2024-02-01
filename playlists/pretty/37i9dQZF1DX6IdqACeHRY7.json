@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 152430,
+  "num_followers": 152435,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Zjc2OWU2NWVhMjU4ZjM0OGQ4MWJmYjc3MjAzMmE3YzQ2MTBhNjc4",
+  "snapshot_id": "MCwwNjcxOWUxNTE1OGRkN2RiYzVmMGFhNTU0ZDhlNzM2YTFiNDAzN2Mw",
   "tracks": [
     {
       "added_at": "2024-01-12 09:52:44",
@@ -851,18 +851,22 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/4AgPd1f3cOa9fmTdPGW7UR"
+        "name": "Unbreakable Smile",
+        "url": "https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS"
       },
       "artists": [
         {
-          "name": "K E M A L",
-          "url": "https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo"
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 138546,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/51tjPYPw6eYxlsqRxjLJaH"
+      "duration_ms": 188946,
+      "name": "I Was Made For Loving You",
+      "url": "https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -887,22 +891,18 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Unbreakable Smile",
-        "url": "https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS"
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/4AgPd1f3cOa9fmTdPGW7UR"
       },
       "artists": [
         {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "K E M A L",
+          "url": "https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo"
         }
       ],
-      "duration_ms": 188946,
-      "name": "I Was Made For Loving You",
-      "url": "https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123"
+      "duration_ms": 138546,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/51tjPYPw6eYxlsqRxjLJaH"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
-      },
-      "artists": [
-        {
-          "name": "HAEVN",
-          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Back in the Water",
-      "url": "https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Rhythm Inside (Acoustic)",
         "url": "https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 212171,
       "name": "Rhythm Inside - Acoustic",
       "url": "https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Back in the Water",
+      "url": "https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "[\u03b2]",
-        "url": "https://open.spotify.com/album/6z0zPy2FVo3zhpcFoVwuWF"
-      },
-      "artists": [
-        {
-          "name": "Hans Philip",
-          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
-        }
-      ],
-      "duration_ms": 253011,
-      "name": "Rose",
-      "url": "https://open.spotify.com/track/5UDkdxN87TOPiL7cTNkh7l"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "ii",
         "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 178476,
       "name": "Thin",
       "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "[\u03b2]",
+        "url": "https://open.spotify.com/album/6z0zPy2FVo3zhpcFoVwuWF"
+      },
+      "artists": [
+        {
+          "name": "Hans Philip",
+          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
+        }
+      ],
+      "duration_ms": 253011,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/5UDkdxN87TOPiL7cTNkh7l"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "Where the Heart Is",
+      "url": "https://open.spotify.com/track/2cUQTQkvnpObuwX8VJEq9w"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/5zA6sCY6TFsPBi2ZdMy58w"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 200347,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/66JzG73Z9KwNNjm5kVlnqI"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
-      },
-      "artists": [
-        {
-          "name": "HAEVN",
-          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "Where the Heart Is",
-      "url": "https://open.spotify.com/track/2cUQTQkvnpObuwX8VJEq9w"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "isaac gracie (extended edition)",
-        "url": "https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD"
-      },
-      "artists": [
-        {
-          "name": "isaac gracie",
-          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
-        }
-      ],
-      "duration_ms": 343249,
-      "name": "reverie",
-      "url": "https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Chapters",
         "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 215320,
       "name": "Suitcase",
       "url": "https://open.spotify.com/track/6dQ1FEt4FByE6tU0dvQNmr"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "isaac gracie (extended edition)",
+        "url": "https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD"
+      },
+      "artists": [
+        {
+          "name": "isaac gracie",
+          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
+        }
+      ],
+      "duration_ms": 343249,
+      "name": "reverie",
+      "url": "https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH"
     },
     {
       "added_at": "2024-01-12 09:52:44",

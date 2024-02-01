@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Natalia Lafourcade y Kevin Johansen.",
-  "num_followers": 120766,
+  "num_followers": 120795,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmU4Y2Q4ZmNlNGYzY2I1MGMzODE4ODM3NTdhMzBhMDU4MTZhMWVj",
+  "snapshot_id": "MCw4MjhmMzQ3YzdlNzNkNTAyM2FlMDJmY2QwYTE2MTQ5NzJmYjcyZWUw",
   "tracks": [
     {
       "added_at": "2024-01-26 06:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Las Plantas Crecen",
-        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 115029,
-      "name": "Las Plantas Crecen",
-      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "El Perro Feroz",
         "url": "https://open.spotify.com/album/7IZ6Ez4uj3Vo0WPQrrGXlp"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 140928,
       "name": "Diente de Le\u00f3n",
       "url": "https://open.spotify.com/track/2gdBOt1AKjkoZyO7C3MUFy"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Las Plantas Crecen",
+        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 115029,
+      "name": "Las Plantas Crecen",
+      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Vals de la Luna",
-        "url": "https://open.spotify.com/album/3T43guJr3czyoPy0eEvjHh"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 190416,
-      "name": "Vals de la Luna",
-      "url": "https://open.spotify.com/track/1aqAIRbnsmLY4scIFT9m1t"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Brindo",
         "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 198293,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Vals de la Luna",
+        "url": "https://open.spotify.com/album/3T43guJr3czyoPy0eEvjHh"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 190416,
+      "name": "Vals de la Luna",
+      "url": "https://open.spotify.com/track/1aqAIRbnsmLY4scIFT9m1t"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Algo Ritmos",
-        "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
+        "name": "Inmensamente Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
       },
       "artists": [
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
         }
       ],
-      "duration_ms": 236361,
-      "name": "Solo Le Dije",
-      "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
+      "duration_ms": 219967,
+      "name": "Inmensamente Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Inmensamente Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
-      },
-      "artists": [
-        {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
-        }
-      ],
-      "duration_ms": 219967,
-      "name": "Inmensamente Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Milonga de Ojos Dorados (Alfredo Zitarrosa) [Live on Pardelion Music]",
         "url": "https://open.spotify.com/album/3ArBdhbnE1kVG9BpqUA6af"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Qu\u00e9 Problema",
-        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
+        "name": "Algo Ritmos",
+        "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
         }
       ],
-      "duration_ms": 204735,
-      "name": "Qu\u00e9 Problema",
-      "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
+      "duration_ms": 236361,
+      "name": "Solo Le Dije",
+      "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Rumba en Cahuita",
-        "url": "https://open.spotify.com/album/6jXK3xOmatH5Eb6fysEwDf"
+        "name": "Qu\u00e9 Problema",
+        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
       },
       "artists": [
         {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 167752,
-      "name": "Rumba en Cahuita",
-      "url": "https://open.spotify.com/track/0weanLGPZzqdbznu0iklgW"
+      "duration_ms": 204735,
+      "name": "Qu\u00e9 Problema",
+      "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1263,6 +1247,22 @@
       "duration_ms": 244636,
       "name": "Me mudo de casa",
       "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Rumba en Cahuita",
+        "url": "https://open.spotify.com/album/6jXK3xOmatH5Eb6fysEwDf"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 167752,
+      "name": "Rumba en Cahuita",
+      "url": "https://open.spotify.com/track/0weanLGPZzqdbznu0iklgW"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Mundo Nuevo",
-        "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "Mundo Nuevo",
-      "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Limoneros",
         "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
       },
@@ -1411,6 +1391,46 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "Soy lo que Doy",
+        "url": "https://open.spotify.com/album/7mBvWresKJvNwLWP10yW7X"
+      },
+      "artists": [
+        {
+          "name": "El \u00c1rbol de Diego",
+          "url": "https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW"
+        },
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+        }
+      ],
+      "duration_ms": 217728,
+      "name": "Soy lo que Doy",
+      "url": "https://open.spotify.com/track/4Sq2A3LUiytnHVO4WWVAtH"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Mundo Nuevo",
+        "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "Mundo Nuevo",
+      "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "Carta Aberta",
         "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 245593,
       "name": "Fui y Volv\u00ed",
       "url": "https://open.spotify.com/track/4tPCZE71EqxyNnuqcf5WD8"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "Soy lo que Doy",
-        "url": "https://open.spotify.com/album/7mBvWresKJvNwLWP10yW7X"
-      },
-      "artists": [
-        {
-          "name": "El \u00c1rbol de Diego",
-          "url": "https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW"
-        },
-        {
-          "name": "Nano Stern",
-          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
-        }
-      ],
-      "duration_ms": 217728,
-      "name": "Soy lo que Doy",
-      "url": "https://open.spotify.com/track/4Sq2A3LUiytnHVO4WWVAtH"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "El Talante de la Noche",
-        "url": "https://open.spotify.com/album/7rX3h3nG1B4fvR0XVnwSCs"
-      },
-      "artists": [
-        {
-          "name": "Gato e' Monte",
-          "url": "https://open.spotify.com/artist/25lIeZ7Kyh0meagwUiGyTf"
-        }
-      ],
-      "duration_ms": 148560,
-      "name": "Cumbia Fumanchera",
-      "url": "https://open.spotify.com/track/18u5XojrnJH8CpZC3SQ3ck"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Luna de Xelaj\u00fa",
         "url": "https://open.spotify.com/album/5jrpGmpfxDgcj6z2BJwJfY"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 240949,
       "name": "Luna de Xelaj\u00fa",
       "url": "https://open.spotify.com/track/74h3Z5m48Id4A9ueVx7A3g"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "El Talante de la Noche",
+        "url": "https://open.spotify.com/album/7rX3h3nG1B4fvR0XVnwSCs"
+      },
+      "artists": [
+        {
+          "name": "Gato e' Monte",
+          "url": "https://open.spotify.com/artist/25lIeZ7Kyh0meagwUiGyTf"
+        }
+      ],
+      "duration_ms": 148560,
+      "name": "Cumbia Fumanchera",
+      "url": "https://open.spotify.com/track/18u5XojrnJH8CpZC3SQ3ck"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1687,6 +1687,42 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "Paraguas",
+        "url": "https://open.spotify.com/album/0GfAxoI33NN4bE8ic0Jyvl"
+      },
+      "artists": [
+        {
+          "name": "Juan Cerro",
+          "url": "https://open.spotify.com/artist/3dMAwDvgNZmLZHiVlFGi6L"
+        },
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "duration_ms": 208262,
+      "name": "Paraguas",
+      "url": "https://open.spotify.com/track/1cNA9ubMLg2L4EFk3GtErb"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Sana sana",
+        "url": "https://open.spotify.com/album/1piUtiyESANVRuWdVNSoZJ"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 302976,
+      "name": "Sana sana",
+      "url": "https://open.spotify.com/track/3tpwqGiVb86UmDj5TA86mV"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
         "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
       },
@@ -1707,22 +1743,6 @@
       "duration_ms": 175905,
       "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
       "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "Sana sana",
-        "url": "https://open.spotify.com/album/1piUtiyESANVRuWdVNSoZJ"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 302976,
-      "name": "Sana sana",
-      "url": "https://open.spotify.com/track/3tpwqGiVb86UmDj5TA86mV"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1759,6 +1779,22 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "Tab\u00fa",
+        "url": "https://open.spotify.com/album/0vtS3RtK84fPO6U5GV59L5"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Sonrisa Valiente - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/61erUSPD0TaNOQ1P1oWymd"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "Claroscuro",
         "url": "https://open.spotify.com/album/4RLLGLmJOwqsrq2H4DLUfo"
       },
@@ -1771,42 +1807,6 @@
       "duration_ms": 270049,
       "name": "Claroscuro",
       "url": "https://open.spotify.com/track/4NsXyQdZ80dXlGwLMyzUEz"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "Paraguas",
-        "url": "https://open.spotify.com/album/0GfAxoI33NN4bE8ic0Jyvl"
-      },
-      "artists": [
-        {
-          "name": "Juan Cerro",
-          "url": "https://open.spotify.com/artist/3dMAwDvgNZmLZHiVlFGi6L"
-        },
-        {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
-        }
-      ],
-      "duration_ms": 208262,
-      "name": "Paraguas",
-      "url": "https://open.spotify.com/track/1cNA9ubMLg2L4EFk3GtErb"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "Peque\u00f1as Esperanzas",
-        "url": "https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 200238,
-      "name": "Peque\u00f1as Esperanzas",
-      "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
     }
   ],
   "unique_name": "Cancionistas",

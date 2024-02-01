@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-1,031 songs - 2 day 22 hr 36 min
+1,032 songs - 2 day 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [I Remember Clifford](https://open.spotify.com/track/5LaTsDrhrpXwLniidLpnF7) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Best Of Lee Morgan](https://open.spotify.com/album/3ckt1jRTh6Q08fUvEePI7B) | 7:08 | 2022-04-14 | 2022-10-08 |
 | [I Saw The Sun](https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [I Saw The Sun](https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM) | 4:20 | 2022-12-01 |  |
 | [I Should Care](https://open.spotify.com/track/0uCk5mVLsnjndhPl7sXMCe) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [I Should Care](https://open.spotify.com/album/00pfFfQ3l1A9dZItYypDcg) | 3:27 | 2023-04-27 |  |
+| [I Still Miss You](https://open.spotify.com/track/1YxF9KI6orssrJBGxc0l6l) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [I Still Miss You](https://open.spotify.com/album/2M6PQhRFWbozUK2Wf7X7uv) | 2:10 | 2024-01-26 |  |
 | [I Thought About Us](https://open.spotify.com/track/3WuYbFjNzxV1iHsopkRE5v) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [I Thought About Us](https://open.spotify.com/album/0q97p3nKwoNzSsNxtWqFMN) | 3:57 | 2022-06-30 |  |
 | [I Waited For You](https://open.spotify.com/track/4j58MWVz5BW6Z4b3x01EEG) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [I Waited For You](https://open.spotify.com/album/4gtku4tyuo8XFZC72MPAS8) | 3:24 | 2024-01-19 |  |
 | [I Was So Young, And You Were So Beautiful](https://open.spotify.com/track/4N7iWwgqcWr3p5JzngOSEF) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Plays George Gershwin: The American Soul](https://open.spotify.com/album/7LZCmy2ZlEGnnYBxnvmCdo) | 3:54 | 2022-04-14 |  |
@@ -793,7 +794,7 @@
 | [Somewhere](https://open.spotify.com/track/48jwFktr6tdnaArJjhwyhO) | [Cara Myers Trio](https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV) | [Somewhere](https://open.spotify.com/album/2l8FcbyvaEO4Z6PWnJE5Fo) | 3:39 | 2024-01-19 |  |
 | [Song for Peace](https://open.spotify.com/track/1Zmt1jvtaBJmMeDTKNiLzT) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [Song for Peace](https://open.spotify.com/album/1BQv10hYaemrbRMpXtbst1) | 4:30 | 2023-10-20 |  |
 | [Soul Eyes](https://open.spotify.com/track/5fhLDCuNimt2zvkiFxOAbU) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Daniel Franck](https://open.spotify.com/artist/3xN9MVxmlCH7RwHKViDgPb), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [European Quartet](https://open.spotify.com/album/1aeuJphtfTGTAjnW5oX5Fu) | 8:18 | 2022-04-14 |  |
-| [Soul in Twilight](https://open.spotify.com/track/3ONcanYtZHMVcgqPDAsVHd) | [John Moulder](https://open.spotify.com/artist/0RAj4cXWietdNzd94osANm) | [Earthborn Tales of Soul and Spirit](https://open.spotify.com/album/5lRB2C08DEFUAU9zOS9Hnp) | 6:04 | 2022-04-14 |  |
+| [Soul in Twilight](https://open.spotify.com/track/3ONcanYtZHMVcgqPDAsVHd) | [John Moulder](https://open.spotify.com/artist/0RAj4cXWietdNzd94osANm) | [Earthborn Tales of Soul and Spirit](https://open.spotify.com/album/5lRB2C08DEFUAU9zOS9Hnp) | 6:04 | 2022-04-14 | 2024-02-01 |
 | [Soulful Serenade](https://open.spotify.com/track/01h2N3MrwVDnvKHJV1eHiA) | [Anthony Hide Trio](https://open.spotify.com/artist/0vF49H73xGuKS1vRSNN3av) | [Soulful Serenade](https://open.spotify.com/album/3L9yVSvfZjMNBhnKp0L35S) | 3:50 | 2024-01-19 |  |
 | [Soulful Serenade](https://open.spotify.com/track/45FLYbhZeKWABexWqBo5Un) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Soulful Serenade](https://open.spotify.com/album/04M2iGk6Rwm8qLa2OMQSVZ) | 3:21 | 2023-05-11 |  |
 | [Soulful Stroll](https://open.spotify.com/track/5p5ia2SufA5Tl9FUjHDUky) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Soulful Stroll](https://open.spotify.com/album/2HAfP5HvWcL2pByucZhUZL) | 3:50 | 2023-08-18 |  |

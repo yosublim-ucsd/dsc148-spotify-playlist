@@ -789,6 +789,28 @@
     },
     {
       "album": {
+        "name": "Que Me Entierren Cantando",
+        "url": "https://open.spotify.com/album/4hjDQbHAwRClqICJ95ynKC"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224533,
+      "name": "Que Me Entierren Cantando",
+      "url": "https://open.spotify.com/track/2Ua5F25WKWQlBvn5TJ16zH"
+    },
+    {
+      "album": {
         "name": "Borracho de Primera",
         "url": "https://open.spotify.com/album/1cjt1zBdNmoD4qi3s2meCy"
       },

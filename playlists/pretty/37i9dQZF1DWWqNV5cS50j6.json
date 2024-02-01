@@ -1,12 +1,12 @@
 {
   "description": "The anti pop archive: tracks added by our editors over the last year. Cover: Gorillaz",
-  "num_followers": 699788,
+  "num_followers": 699918,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDk4NmI0YjNjN2UxODExYjQ5NzM5NzRiZWZjNzg4YTM2NDVhYTI4",
+  "snapshot_id": "MCxlYTEzNTZmZGYzN2I3ZDZjNGQyZGM1Yzc0ZjBkYjliZTBkNGEzYjUx",
   "tracks": [
     {
       "added_at": "2024-01-09 14:46:15",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 214557,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "HIT EM WHERE IT HURTS",
         "url": "https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij"
       },
@@ -411,18 +427,18 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE"
+        "name": "DOA",
+        "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
         }
       ],
-      "duration_ms": 214557,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
+      "duration_ms": 143319,
+      "name": "dancinwithsomebawdy",
+      "url": "https://open.spotify.com/track/5v7oj9PosKdE39x9uwDs6C"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -447,22 +463,6 @@
       "duration_ms": 127000,
       "name": "12:34 AM",
       "url": "https://open.spotify.com/track/16iNVfWKKZPDjctIcd0KMn"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "DOA",
-        "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 143319,
-      "name": "dancinwithsomebawdy",
-      "url": "https://open.spotify.com/track/5v7oj9PosKdE39x9uwDs6C"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "fantasize",
+        "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 150612,
+      "name": "fantasize",
+      "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "I'm Allergic To Dogs!",
         "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
       },
@@ -567,22 +583,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "fantasize",
-        "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 150612,
-      "name": "fantasize",
-      "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "How Do You Sleep At Night?",
         "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 94857,
       "name": "Fairweather Friends",
       "url": "https://open.spotify.com/track/05tQzyLaod9RqjabafQYKv"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "DOA",
+        "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 130207,
+      "name": "kickstand",
+      "url": "https://open.spotify.com/track/0lDT25U4Jxr2joTulE7ao8"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -667,22 +683,6 @@
       "duration_ms": 147025,
       "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
       "url": "https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "DOA",
-        "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 130207,
-      "name": "kickstand",
-      "url": "https://open.spotify.com/track/0lDT25U4Jxr2joTulE7ao8"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "DOA",
+        "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 148468,
+      "name": "sweet tooth",
+      "url": "https://open.spotify.com/track/3EGa3eOp7SFocMhRuiltEz"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "SCRAPYARD I",
         "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 181915,
       "name": "A LA CARTE (feat. brakence)",
       "url": "https://open.spotify.com/track/5L6F6siaHwwpuR1exuZPnH"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "DOA",
-        "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 148468,
-      "name": "sweet tooth",
-      "url": "https://open.spotify.com/track/3EGa3eOp7SFocMhRuiltEz"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "Where Are You Going?",
+        "url": "https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 212985,
+      "name": "Now I Know You",
+      "url": "https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "'Decent",
         "url": "https://open.spotify.com/album/1WoPO9sVvJXy0MktOhBiIU"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "Where Are You Going?",
-        "url": "https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp"
-      },
-      "artists": [
-        {
-          "name": "Bennett Coast",
-          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
-        }
-      ],
-      "duration_ms": 212985,
-      "name": "Now I Know You",
-      "url": "https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "I Just Wanna",
         "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
       },
@@ -1139,58 +1139,6 @@
       "duration_ms": 254399,
       "name": "I Just Wanna",
       "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "Erotic Probiotic 2",
-        "url": "https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI"
-      },
-      "artists": [
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        }
-      ],
-      "duration_ms": 246626,
-      "name": "Daddy",
-      "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "UGLY",
-        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
-      },
-      "artists": [
-        {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
-        }
-      ],
-      "duration_ms": 174648,
-      "name": "Sooner",
-      "url": "https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "Can't Fake What You Feel",
-        "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
-      },
-      "artists": [
-        {
-          "name": "Jordan Hawkins",
-          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
-        },
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 171052,
-      "name": "Can't Fake What You Feel",
-      "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1215,6 +1163,58 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "UGLY",
+        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
+      },
+      "artists": [
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        }
+      ],
+      "duration_ms": 174648,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "Erotic Probiotic 2",
+        "url": "https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI"
+      },
+      "artists": [
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "duration_ms": 246626,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "Can't Fake What You Feel",
+        "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Hawkins",
+          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 171052,
+      "name": "Can't Fake What You Feel",
+      "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "stuck.",
         "url": "https://open.spotify.com/album/7dBT7hYdoqjKmge72tftyR"
       },
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "SCRAPYARD I",
-        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
-      },
-      "artists": [
-        {
-          "name": "Quadeca",
-          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
-        }
-      ],
-      "duration_ms": 209289,
-      "name": "U DON'T KNOW ME LIKE THAT",
-      "url": "https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "are you sleeping alone again?",
         "url": "https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 126857,
       "name": "are you sleeping alone again?",
       "url": "https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "SCRAPYARD I",
+        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "duration_ms": 209289,
+      "name": "U DON'T KNOW ME LIKE THAT",
+      "url": "https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "MOVIES! WORLDWIDE: PART I",
-        "url": "https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md"
-      },
-      "artists": [
-        {
-          "name": "Johnny Yukon",
-          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
-        }
-      ],
-      "duration_ms": 124917,
-      "name": "Gloria !",
-      "url": "https://open.spotify.com/track/6sEKSKRnCCsl20GRPNlAQj"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "Princess Forever",
         "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 211875,
       "name": "Gimme A Chance",
       "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "MOVIES! WORLDWIDE: PART I",
+        "url": "https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md"
+      },
+      "artists": [
+        {
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+        }
+      ],
+      "duration_ms": 124917,
+      "name": "Gloria !",
+      "url": "https://open.spotify.com/track/6sEKSKRnCCsl20GRPNlAQj"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "www she hot",
-        "url": "https://open.spotify.com/album/1gOGatI2LhhVtiMpAspFFm"
-      },
-      "artists": [
-        {
-          "name": "UCHE YARA",
-          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
-        }
-      ],
-      "duration_ms": 254500,
-      "name": "www she hot",
-      "url": "https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "ROMCOM",
         "url": "https://open.spotify.com/album/5vKdHtnPF6EJZcoGZYN83I"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 185233,
       "name": "TOMMY HANKS",
       "url": "https://open.spotify.com/track/0ehhyO5zJtMcgiLM2lSjpx"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "www she hot",
+        "url": "https://open.spotify.com/album/1gOGatI2LhhVtiMpAspFFm"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "duration_ms": 254500,
+      "name": "www she hot",
+      "url": "https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "Stay Blessed",
+        "url": "https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 177731,
+      "name": "Stay Blessed",
+      "url": "https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "white ceilings",
         "url": "https://open.spotify.com/album/1qjit4AnftNlPkptTe1ne9"
       },
@@ -1695,34 +1711,18 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "Stay Blessed",
-        "url": "https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5"
+        "name": "California Dream Girl",
+        "url": "https://open.spotify.com/album/7Mu6gL29rc1hiFuVtYFvVs"
       },
       "artists": [
         {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+          "name": "The Hellp",
+          "url": "https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4"
         }
       ],
-      "duration_ms": 177731,
-      "name": "Stay Blessed",
-      "url": "https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "I feel like doing candy flips and riding elephants",
-        "url": "https://open.spotify.com/album/5I2FczytVYgNEy9MZnW7V8"
-      },
-      "artists": [
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
-        }
-      ],
-      "duration_ms": 148330,
-      "name": "candyflips!",
-      "url": "https://open.spotify.com/track/2ciSvEYA4En6vwZpG2cuJn"
+      "duration_ms": 180000,
+      "name": "California Dream Girl",
+      "url": "https://open.spotify.com/track/4luiQl18IztB9tmtn0ACV0"
     },
     {
       "added_at": "2024-01-09 14:46:15",

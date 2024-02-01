@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,759 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,760 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 24 | [Big Bad John](https://open.spotify.com/track/61uAY9xdzYiIbYJ07XvKso) | [Jimmy Dean](https://open.spotify.com/artist/1RaDKTFXuy0qA8YV1h9SwC) | [The Best Of Jimmy Dean](https://open.spotify.com/album/2vCenQXDX4DqtRShqJzCci) | 3:02 |
 | 25 | [I'll Be Here in the Morning](https://open.spotify.com/track/0HLBLRkkTOlAmjonShicD0) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Townes Van Zandt](https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue) | 3:00 |
 | 26 | [Why Do I Love You So](https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb) | 2:07 |
-| 27 | [Harper Valley P.T.A.](https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK) | [Jeannie C\. Riley](https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2) | [Harper Valley P.T.A\. \(The Plantation Recordings 1968\-70\)](https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg) | 3:14 |
-| 28 | [Okie From Muskogee](https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Down Every Road 1962\-1994](https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI) | 2:44 |
+| 27 | [Okie From Muskogee](https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Down Every Road 1962\-1994](https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI) | 2:44 |
+| 28 | [Harper Valley P.T.A.](https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK) | [Jeannie C\. Riley](https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2) | [Harper Valley P.T.A\. \(The Plantation Recordings 1968\-70\)](https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg) | 3:14 |
 | 29 | [She Thinks I Still Care](https://open.spotify.com/track/42mWEvGlwKGhVQs8XkvQKP) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [The New Favorites Of George Jones](https://open.spotify.com/album/73xcCIpGvz7aqMjuFfPqsR) | 2:34 |
 | 30 | [Flowers On the Wall](https://open.spotify.com/track/7ledv9CTjqdwnvHgRmETyZ) | [The Statler Brothers](https://open.spotify.com/artist/5PSWc8Y94zFsAtZlTe7ipI) | [Flowers On The Wall: The Essential Statler Brothers 1964\-1969](https://open.spotify.com/album/0OrV6t1YYdWXmiOD4ot2iD) | 2:18 |
 | 31 | [Daddy Sang Bass](https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Essential Johnny Cash](https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF) | 2:20 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 90 | [Chug\-A\-Lug](https://open.spotify.com/track/3vMwtAfDNM8dDBWMvS78pn) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [The Very Best of…](https://open.spotify.com/album/6MiwWDa3FIyIS71Ety7vAE) | 2:03 |
 | 91 | [Send Me The Pillow You Dream On](https://open.spotify.com/track/3EeF3uTDVQLaEzoFLF3orm) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [It Keeps Right On A\-Hurtin'](https://open.spotify.com/album/59Q8d7s1dohWqRUMFusy2T) | 2:53 |
 | 92 | [Green Green Grass Of Home](https://open.spotify.com/track/6Ss6vCdWHgCuiB3icgBAwY) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [Super Hits](https://open.spotify.com/album/2up4ZFkepH2jR7Ltnd2LiJ) | 2:59 |
-| 93 | [Wings Of A Dove](https://open.spotify.com/track/2DD8OhehvkzSFeoRW0u7Gb) | [Ferlin Husky](https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB) | [Capitol Collectors Series](https://open.spotify.com/album/6HMxJGDVtEsqpeOJlJHNhH) | 2:19 |
-| 94 | [\(That's What You Get\) For Lovin' Me](https://open.spotify.com/track/1FrG5yYxDbusk4dK3pQ9le) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Essential Waylon Jennings](https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox) | 2:26 |
-| 95 | [Make the World Go Away](https://open.spotify.com/track/7GafJyGdVj7ahXo96LwFM4) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15) | 2:37 |
-| 96 | [Yesterday When I Was Young](https://open.spotify.com/track/6xr3k8GwHlYr8ckHPf8cJE) | [Roy Clark](https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS) | [Great Picks & New Traditions](https://open.spotify.com/album/5YReC2frzihcP8epJuWWqs) | 3:21 |
+| 93 | [\(That's What You Get\) For Lovin' Me](https://open.spotify.com/track/1FrG5yYxDbusk4dK3pQ9le) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Essential Waylon Jennings](https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox) | 2:26 |
+| 94 | [Wings Of A Dove](https://open.spotify.com/track/2DD8OhehvkzSFeoRW0u7Gb) | [Ferlin Husky](https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB) | [Capitol Collectors Series](https://open.spotify.com/album/6HMxJGDVtEsqpeOJlJHNhH) | 2:19 |
+| 95 | [Yesterday When I Was Young](https://open.spotify.com/track/6xr3k8GwHlYr8ckHPf8cJE) | [Roy Clark](https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS) | [Great Picks & New Traditions](https://open.spotify.com/album/5YReC2frzihcP8epJuWWqs) | 3:21 |
+| 96 | [Make the World Go Away](https://open.spotify.com/track/7GafJyGdVj7ahXo96LwFM4) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15) | 2:37 |
 | 97 | [I've Been Everywhere \- Remastered](https://open.spotify.com/track/1rFGwz7rswOuW2IdXPd0fv) | [Hank Snow](https://open.spotify.com/artist/3fq6r0bSIm4McymHKNMk4S) | [The Essential Hank Snow](https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR) | 2:44 |
-| 98 | [Timber I'm Falling](https://open.spotify.com/track/6tYRg3XkDpjlST4XBMcnjX) | [Ferlin Husky](https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB) | [Super Hits](https://open.spotify.com/album/0olpLTTyf5mFEpgNcdJzJ9) | 2:32 |
-| 99 | [Don't Touch Me](https://open.spotify.com/track/1Y2G8nl3CGR3qMPDDBuDhb) | [Jeannie Seely](https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY) | [The Seely Style](https://open.spotify.com/album/5dx7Vs0d283fuSeaYpvSsw) | 3:12 |
-| 100 | [Saginaw, Michigan](https://open.spotify.com/track/0ulPILleWfE1NBzUWIiNi9) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [Saginaw, Michigan](https://open.spotify.com/album/2ldbI4zj8GXoN8rJL5V6bX) | 3:02 |
+| 98 | [Don't Touch Me](https://open.spotify.com/track/1Y2G8nl3CGR3qMPDDBuDhb) | [Jeannie Seely](https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY) | [The Seely Style](https://open.spotify.com/album/5dx7Vs0d283fuSeaYpvSsw) | 3:12 |
+| 99 | [Saginaw, Michigan](https://open.spotify.com/track/0ulPILleWfE1NBzUWIiNi9) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [Saginaw, Michigan](https://open.spotify.com/album/2ldbI4zj8GXoN8rJL5V6bX) | 3:02 |
+| 100 | [Misery Loves Company](https://open.spotify.com/track/3svC90yBSf9R7aMvrn3mzz) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [Viva](https://open.spotify.com/album/5srw9Y2VmTNHwUVziaibEk) | 2:33 |
 
-Snapshot ID: `MCxhNDFhN2VjZGQ4ZTIxZDNlM2I2ODA1YzRmODdkMmEyNzVkNGI3M2Jl`
+Snapshot ID: `MCw0ZTE1Mzg1NjVmMWFlMWIxYTg4YTYyODI5MmNhYTc4MjVkYzczZGQ0`

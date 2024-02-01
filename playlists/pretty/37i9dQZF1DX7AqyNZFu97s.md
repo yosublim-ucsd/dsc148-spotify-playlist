@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Trooh Hippi
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,281 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,380 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I See Things](https://open.spotify.com/track/5yhLLb2RAS7s2QawBnGyfh) | [Trooh Hippi](https://open.spotify.com/artist/62XEUcqnIRwA2y2PeRLRMC) | [I See Things](https://open.spotify.com/album/6Ouqs9XZG11LOFEooIVps2) | 2:21 |
 | 2 | [I Kind Of Liked It](https://open.spotify.com/track/0qIPT5pPXs2jKQ6wVbwv2U) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx) | [I Kind Of Liked It](https://open.spotify.com/album/3hi5FcU8vnXf0QzYeinjTo) | 2:48 |
-| 3 | [Back to it](https://open.spotify.com/track/3PrCtfA4DL44AxoNcIWRkt) | [Trtl](https://open.spotify.com/artist/5hl4Ds8m0VaToEbZOQDE32) | [Back to it](https://open.spotify.com/album/5M8XmkeVSc7A3rCEOgvwyz) | 1:19 |
+| 3 | [back to it](https://open.spotify.com/track/3PrCtfA4DL44AxoNcIWRkt) | [Trtl](https://open.spotify.com/artist/5hl4Ds8m0VaToEbZOQDE32) | [back to it](https://open.spotify.com/album/5M8XmkeVSc7A3rCEOgvwyz) | 1:19 |
 | 4 | [in love](https://open.spotify.com/track/17Sk50YIfZzAIsEYkYfOj5) | [REYA](https://open.spotify.com/artist/5UZpstjG63lGYQLT8qXPyE) | [in love](https://open.spotify.com/album/6ecZOkLla5joV3LCqaQKFT) | 2:00 |
 | 5 | [Trippin](https://open.spotify.com/track/03gJdgsgS4K2VtjpcwCESf) | [purpl](https://open.spotify.com/artist/0qLq938YLoXapahHpnzVSO) | [Trippin](https://open.spotify.com/album/0SJdxVrhL2OEPBS9iZkC4E) | 2:38 |
 | 6 | [Fred Perry Girl](https://open.spotify.com/track/3lcGMZrsd3fqWjcX8Nmkog) | [Andy Goodwin](https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB) | [Fred Perry Girl](https://open.spotify.com/album/29s0Za6wwubjxwHh0PSI4d) | 2:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [The Chase](https://open.spotify.com/track/0hX1Sc2QkcVHzvgy1kMaAD) | [Tamara Dos Santos](https://open.spotify.com/artist/1GhWD01U6kf5djUGOD523H) | [The Chase](https://open.spotify.com/album/17F03Nv5crXD0S8grbmNYB) | 3:05 |
 | 80 | [“gaslighting isn’t real, you’re just mental”](https://open.spotify.com/track/7DyGyXWXKbr2yeSc5JNr6k) | [ZELA](https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg) | [“gaslighting isn’t real, you’re just mental”](https://open.spotify.com/album/7ttWuNfN7myZ4tT5Kwxx34) | 2:26 |
 
-Snapshot ID: `MCw2ODY1NWJmZDdkNTgxMmU2MDBiZDM2OWU5NzM5YjkwMDIxMjg2OGUy`
+Snapshot ID: `MCxiNzgwODA1ODM0ZjdhM2Y1MDIxMzQ5YjQ2NTZkYjhkOTk3Y2UwZTU5`

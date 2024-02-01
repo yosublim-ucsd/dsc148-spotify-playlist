@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 145815,
+  "num_followers": 145865,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2U5ODAwYzRiNjczZjc3NjVlZjc0ZjNkZWQ3Y2FhOGE1YmFkYTQ3",
+  "snapshot_id": "MCxkMzA4MmIwNjkwM2Y2ZDk3NjkwZWI1NDgzNzRhNTlmODYzMDRiODYw",
   "tracks": [
     {
       "added_at": "2024-01-05 14:21:14",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "De l'autre c\u00f4t\u00e9 de mon r\u00eave (Remasteris\u00e9 en 2008)",
-        "url": "https://open.spotify.com/album/0Q9C21oNmR48rRuFKf5t4b"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9ronique Sanson",
-          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
-        }
-      ],
-      "duration_ms": 161080,
-      "name": "Chanson sur ma dr\u00f4le de vie - Remasteris\u00e9 en 2008",
-      "url": "https://open.spotify.com/track/4lJKn6cDD3vpZrcg6oVTr1"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Aller-retour",
         "url": "https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 203160,
       "name": "Le temps est bon",
       "url": "https://open.spotify.com/track/2U5kSevItDmL0XzSDyemRp"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "De l'autre c\u00f4t\u00e9 de mon r\u00eave (Remasteris\u00e9 en 2008)",
+        "url": "https://open.spotify.com/album/0Q9C21oNmR48rRuFKf5t4b"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9ronique Sanson",
+          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
+        }
+      ],
+      "duration_ms": 161080,
+      "name": "Chanson sur ma dr\u00f4le de vie - Remasteris\u00e9 en 2008",
+      "url": "https://open.spotify.com/track/4lJKn6cDD3vpZrcg6oVTr1"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1"
-      },
-      "artists": [
-        {
-          "name": "Tom Frager",
-          "url": "https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq"
-        }
-      ],
-      "duration_ms": 191659,
-      "name": "Lady M\u00e9lody",
-      "url": "https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "La loi du papillon",
         "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 173266,
       "name": "D\u00e9pass\u00e9",
       "url": "https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1"
+      },
+      "artists": [
+        {
+          "name": "Tom Frager",
+          "url": "https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq"
+        }
+      ],
+      "duration_ms": 191659,
+      "name": "Lady M\u00e9lody",
+      "url": "https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "caravane",
-        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
-      },
-      "artists": [
-        {
-          "name": "Rapha\u00ebl",
-          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Ne partons pas f\u00e2ch\u00e9s",
-      "url": "https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "D\u00e9cembre en \u00e9t\u00e9",
         "url": "https://open.spotify.com/album/34FJDy2QrV2gMESfcL2Kxf"
       },
@@ -591,18 +575,18 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
-        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
+        "name": "caravane",
+        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
       },
       "artists": [
         {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+          "name": "Rapha\u00ebl",
+          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
         }
       ],
-      "duration_ms": 184077,
-      "name": "Nue",
-      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
+      "duration_ms": 193000,
+      "name": "Ne partons pas f\u00e2ch\u00e9s",
+      "url": "https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -619,6 +603,22 @@
       "duration_ms": 219933,
       "name": "Ding Dang Dong (Ringing at Your Bell)",
       "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 184077,
+      "name": "Nue",
+      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "C\u0153ur",
-        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "Le reste",
-      "url": "https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Cach\u00e9 derri\u00e8re",
         "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 219333,
       "name": "Ulysse",
       "url": "https://open.spotify.com/track/6OPNvqvtQf9QT5zPh8wDk7"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "C\u0153ur",
+        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "Le reste",
+      "url": "https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Camelia Jordana",
-        "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
-      },
-      "artists": [
-        {
-          "name": "Cam\u00e9lia Jordana",
-          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
-        }
-      ],
-      "duration_ms": 166493,
-      "name": "Non non non (Ecouter Barbara)",
-      "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Je sais pas si \u00e7a va",
         "url": "https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 166293,
       "name": "Mal barr\u00e9",
       "url": "https://open.spotify.com/track/4c3sC3cX8RFwKz9KMUNxt9"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Camelia Jordana",
+        "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
+      },
+      "artists": [
+        {
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+        }
+      ],
+      "duration_ms": 166493,
+      "name": "Non non non (Ecouter Barbara)",
+      "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
     },
     {
       "added_at": "2024-01-05 14:21:14",

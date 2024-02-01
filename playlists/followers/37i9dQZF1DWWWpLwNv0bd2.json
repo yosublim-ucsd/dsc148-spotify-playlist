@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 86282,
+  "2024-02-01": 86340,
   "date_first_scraped": "2022-05-30",
   "description": "Check out the Latest Romance Tracks.\nCover : Captain Miller",
   "name": "Latest Love Tamil",
@@ -371,6 +371,32 @@
       "duration_ms": 275716,
       "name": "Annapoorani",
       "url": "https://open.spotify.com/track/3siHw6IyoSjclNZXdbttCQ"
+    },
+    {
+      "album": {
+        "name": "Apple Crumble (From \"Lover\")",
+        "url": "https://open.spotify.com/album/79jy6DKrtjmzdXMboUKRR4"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Siddharth",
+          "url": "https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P"
+        },
+        {
+          "name": "Prabhuram Vyas",
+          "url": "https://open.spotify.com/artist/09ZJzgDPQbZSWDR6jB3S4a"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177567,
+      "name": "Apple Crumble - From \"Lover\"",
+      "url": "https://open.spotify.com/track/1C72T6JjexqbzIVrpIdIXi"
     },
     {
       "album": {
@@ -2834,6 +2860,28 @@
     },
     {
       "album": {
+        "name": "Netru Varai (From \"Siren\")",
+        "url": "https://open.spotify.com/album/2GFJJ9mTZq2SmIxUTcGLlC"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274871,
+      "name": "Netru Varai (From \"Siren\")",
+      "url": "https://open.spotify.com/track/7DfmRbjVcjgHP6e5HViYXD"
+    },
+    {
+      "album": {
         "name": "Nila Mugam (Original Soundtrack)",
         "url": "https://open.spotify.com/album/38CANBgULMTQb6XwT4wUCL"
       },
@@ -3757,7 +3805,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 232191,
       "name": "Suro Suro",
       "url": "https://open.spotify.com/track/2cWZSy1oeDB4F1QYRKjMg9"

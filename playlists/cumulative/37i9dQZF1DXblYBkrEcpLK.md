@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ヒグチアイ \(Ai Higuchi\)
 
-588 songs - 1 day 15 hr 34 min
+590 songs - 1 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [for...](https://open.spotify.com/track/1VF7SGJTafH27FNW2WJcJB) | [逢田梨香子](https://open.spotify.com/artist/7L3LvUmPSjYVIStpUxBsUu) | [Curtain raise](https://open.spotify.com/album/5jgPJpy4bePdsCkfLpQzip) | 3:31 | 2022-06-09 | 2022-07-28 |
 | [Forever U & I](https://open.spotify.com/track/3v0TLKy8v5Jr8wRbitWpzV) | [ヨハネ\(CV.小林愛香\)](https://open.spotify.com/artist/0Mhc2SHyQr07pN53aQ7txf) | [Forever U & I](https://open.spotify.com/album/4dpWX71NcDsWinA5NF9KrA) | 4:01 | 2023-09-12 | 2023-09-27 |
 | [Friends Are For](https://open.spotify.com/track/0ZyxK0yMUKlUpBXsYg0cmi) | [MOONCHILD](https://open.spotify.com/artist/4wZ56MQgx9kLpOmF3IuJmM) | [Friends Are For](https://open.spotify.com/album/08tOtAc9Wd3ca6vYh5iPVe) | 3:23 | 2023-11-16 | 2023-11-23 |
-| [From Fate](https://open.spotify.com/track/7umllTuYQqNTB3zwc2Qd5t) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [夢の糸](https://open.spotify.com/album/64CtA7HcKuD9ikMfld6UtP) | 3:20 | 2024-01-30 |  |
+| [From Fate](https://open.spotify.com/track/3H38hshUqjNGMBa1uX5v8H) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dream Thread](https://open.spotify.com/album/4aLypy3XVbwAl5m77cubJL) | 3:20 | 2024-01-30 |  |
+| [From Fate](https://open.spotify.com/track/7umllTuYQqNTB3zwc2Qd5t) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [夢の糸](https://open.spotify.com/album/64CtA7HcKuD9ikMfld6UtP) | 3:20 | 2024-01-30 | 2024-02-01 |
 | [Full moon…!](https://open.spotify.com/track/2ZQaCiKPUz3gKtmhj3A57l) | [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.3\)](https://open.spotify.com/album/67zSBhEfFjdI0xRa8hR3ew) | 3:38 | 2023-07-04 | 2023-07-06 |
 | [FULL MOON…!](https://open.spotify.com/track/7K1tMixfZFxdUh8wjj8aha) | [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.3\)](https://open.spotify.com/album/2Fj6DhkX6JQFEAcay7jzAc) | 3:38 | 2023-07-04 | 2023-07-26 |
 | [Future Wing](https://open.spotify.com/track/5d58rXWjgbHQJFlo9ph4yD) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [Future Wing](https://open.spotify.com/album/69idlSBWg7B1dGiVqJ7S8D) | 4:12 | 2023-10-03 | 2023-10-18 |
@@ -190,7 +191,8 @@
 | [Maybeヒロイン](https://open.spotify.com/track/6JALjkUbQZuNvJZqDGjIoH) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [Maybeヒロイン](https://open.spotify.com/album/53ryySnyfGj7pMl5mKRTeF) | 4:11 | 2023-06-29 | 2023-07-05 |
 | [melt](https://open.spotify.com/track/0LaHn8f2BDJtQ3O3hrYrmC) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [melt](https://open.spotify.com/album/2hwDhUqpdpOgeF6peGy3O8) | 4:50 | 2022-06-14 | 2022-07-29 |
 | [Memento](https://open.spotify.com/track/5OJ0kXGbl2ZMmjbVZVhmrI) | [nonoc](https://open.spotify.com/artist/1QduecpnkRXRXtbFdEYZRC) | [TVアニメ「Re:ゼロから始める異世界生活」2nd seasonエンディングテーマ「Memento」](https://open.spotify.com/album/2zSO9g5QFpENCG5u11WaOF) | 5:04 | 2022-06-24 | 2022-07-03 |
-| [memories \- from CrosSing](https://open.spotify.com/track/0vD9j6PakpVJPluXl5Lqow) | [伊藤かな恵](https://open.spotify.com/artist/2KOk4PLK3fQWIjuqEw15ih) | [memories \- from CrosSing](https://open.spotify.com/album/1fj0u0jghJul6YZNoKbSgE) | 4:23 | 2024-01-30 |  |
+| [memories \- from CrosSing](https://open.spotify.com/track/0vD9j6PakpVJPluXl5Lqow) | [伊藤かな恵](https://open.spotify.com/artist/2KOk4PLK3fQWIjuqEw15ih) | [memories \- from CrosSing](https://open.spotify.com/album/1fj0u0jghJul6YZNoKbSgE) | 4:23 | 2024-01-30 | 2024-02-01 |
+| [Memories \- From CrosSing](https://open.spotify.com/track/0xnJ9seuo8polxcsURVsYd) | [伊藤かな恵](https://open.spotify.com/artist/2KOk4PLK3fQWIjuqEw15ih) | [Memories \- From CrosSing](https://open.spotify.com/album/7alk8DcgMSlaETvPZSZ9UE) | 4:23 | 2024-01-30 |  |
 | [Momoiro Kataomoi \- From CrosSing](https://open.spotify.com/track/3w9Y16TCQvLe3HXc1b3whd) | [Tachibana Hina](https://open.spotify.com/artist/3A6gmtAT07cw8v4QP25sCo) | [Momoiro Kataomoi \- From CrosSing](https://open.spotify.com/album/5vAJTeQLsiaYLWCzaoVW1D) | 4:18 | 2023-11-16 | 2023-12-20 |
 | [Moonlight Magic](https://open.spotify.com/track/71OPYknlGaRHqKrgIrLLwt) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [blossom](https://open.spotify.com/album/57CWfsD6tG1RFbYPIslgxT) | 4:09 | 2022-06-09 | 2022-07-25 |
 | [MY VOICE](https://open.spotify.com/track/7hP8TRaqvJd4nwGmz9mGme) | [工藤晴香](https://open.spotify.com/artist/0U9bZHBbrFVL4T4NShSvdc) | [MY VOICE](https://open.spotify.com/album/1bRoDKeDqu1o1KPWhH1yLH) | 3:41 | 2022-06-24 | 2022-07-06 |

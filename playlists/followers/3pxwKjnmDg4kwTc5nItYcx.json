@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 5767,
+  "2024-02-01": 5765,
   "date_first_scraped": "2019-08-27",
   "description": "Down-tempo and easy listening music. Cover: Budjerah",
   "name": "Low Key Pop",
@@ -13323,6 +13323,24 @@
       "duration_ms": 130680,
       "name": "Wake Me When It's Over",
       "url": "https://open.spotify.com/track/3uUuMn3IsBKJaOochRe8UR"
+    },
+    {
+      "album": {
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "album": {

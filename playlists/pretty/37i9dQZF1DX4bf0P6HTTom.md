@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 
 > Eagles, The Byrds and all your favorite country rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,378 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,417 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,14 +36,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 26 | [Sutter's Mill](https://open.spotify.com/track/3fRwEtPmL2hFClf6Ph6l4O) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [High Country Snows](https://open.spotify.com/album/04iFpIf2KbXuxpy6uRlTfO) | 6:31 |
 | 27 | [Morning Sun](https://open.spotify.com/track/2XI5jIhGo6Mx455FUGm8Sb) | [Jesse Colin Young](https://open.spotify.com/artist/2pJn4djuWrNQbNfrxHB13M) | [Song for Juli](https://open.spotify.com/album/16oYFyuJ9DClLnPsH4I5qW) | 4:04 |
 | 28 | [Colorado](https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX) | [Manassas](https://open.spotify.com/album/427BvOYZQRjTHODnreiZCo) | 2:52 |
-| 29 | [New Kid in Town \- 2013 Remaster](https://open.spotify.com/track/3T0HWZFYwE5iPXTIHJ1MMS) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn) | 5:04 |
+| 29 | [Cadillac Ranch](https://open.spotify.com/track/0wS4sl5pEkqINDgFJ39qcH) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Plain Dirt Fashion](https://open.spotify.com/album/41ckoI2wpAGGSBvPlvOd0e) | 3:42 |
 | 30 | [Ooh Las Vegas \(feat\. Emmylou Harris\) \- 2007 Remaster](https://open.spotify.com/track/7kJpAkJSFMCkM6T4plsRLd) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:32 |
-| 31 | [Cadillac Ranch](https://open.spotify.com/track/0wS4sl5pEkqINDgFJ39qcH) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Plain Dirt Fashion](https://open.spotify.com/album/41ckoI2wpAGGSBvPlvOd0e) | 3:42 |
+| 31 | [New Kid in Town \- 2013 Remaster](https://open.spotify.com/track/3T0HWZFYwE5iPXTIHJ1MMS) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn) | 5:04 |
 | 32 | [Still Right Here In My Heart](https://open.spotify.com/track/5HZchgrpAreegk6UGs0zHr) | [Pure Prairie League](https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s) | [Something In The Night](https://open.spotify.com/album/1TqLFWSHFnAZq5I7Xg0tti) | 2:56 |
 | 33 | [Morning Sky](https://open.spotify.com/track/0DrhNB3j0VKTBPoN2J5jbT) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Souvenirs](https://open.spotify.com/album/3rER5EzMnSZT75KT1UDHyq) | 2:49 |
 | 34 | [One Hundred Years from Now](https://open.spotify.com/track/7FeLo6k5fhgXyGTPaK6VLi) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Sweetheart Of The Rodeo](https://open.spotify.com/album/02XyFDfvHfIwtqOC3o0PcK) | 2:40 |
-| 35 | [Silver Threads And Golden Needles](https://open.spotify.com/track/4FLUda3tCvPWBCvUeyiivd) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Hand Sown...Home Grown](https://open.spotify.com/album/3a7qArnirRgatBiSlc2k3W) | 2:21 |
-| 36 | [Strength of Strings](https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other](https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY) | 6:31 |
+| 35 | [Strength of Strings](https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other](https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY) | 6:31 |
+| 36 | [Silver Threads And Golden Needles](https://open.spotify.com/track/4FLUda3tCvPWBCvUeyiivd) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Hand Sown...Home Grown](https://open.spotify.com/album/3a7qArnirRgatBiSlc2k3W) | 2:21 |
 | 37 | [Tried So Hard](https://open.spotify.com/track/4v4ssibf1FAkxisrqeMPhh) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Flying Burrito Brothers](https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1) | 3:08 |
 | 38 | [Feelin' Single \- Seein' Double \- 2003 Remaster](https://open.spotify.com/track/65J216Pxb4JOdiYVFIpLx7) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Elite Hotel \(Expanded & Remastered\)](https://open.spotify.com/album/312OEZO2boUMqdNMuuip6h) | 2:26 |
 | 39 | [Mama Nantucket](https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq) | [Michael Nesmith](https://open.spotify.com/artist/5Tic1bWAbmRoLrqaJ5SxU2), [The First National Band](https://open.spotify.com/artist/08xBftDfAD7CMC51uxUuZF) | [Magnetic South \(Expanded Edition\)](https://open.spotify.com/album/2JdE6W8pxUtwNET1xI3OZ7) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 49 | [Ten More Miles to Louisiana](https://open.spotify.com/track/1E252QgKGNYBXfwaiXZtZy) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Black & White](https://open.spotify.com/album/71upkCAZBdlRRxoSbG8wvQ) | 2:24 |
 | 50 | [Miller's Cave](https://open.spotify.com/track/3tS8Gv5lYu5gIzHUPnwipm) | [The International Submarine Band](https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF) | [Safe at Home](https://open.spotify.com/album/1ijz3Aok4jyARLKu6Eaph9) | 2:48 |
 
-Snapshot ID: `MCwzZWRmMGI5MmEwZmNjZWU5NDY1MDMxYmEzOTVmOWE2ZjNkYmEzYzBk`
+Snapshot ID: `MCxhZmUzYmYwZmJhNWJkYjk3NGMwNzc2MmE4Nzg2NjY5MDJkMzEwODY1`

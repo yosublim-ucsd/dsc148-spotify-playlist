@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your rock/alt cheat sheet feat\. the 2024 Rock Artists to Watch  \| Cover: Jhariah
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,966 likes - 102 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,959 likes - 102 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 101 | [Big Air](https://open.spotify.com/track/4CV3vmoI1mExWRTcGCsKTc) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Spiel](https://open.spotify.com/album/38uN3ZQLCnEz7LhFq5Y2Qh) | 3:26 |
 | 102 | [BACKSTABBER](https://open.spotify.com/track/4pYiIZn2DKrK8MBYuS946R) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [BACKSTABBER](https://open.spotify.com/album/1RFijpHOUqGPZ3hdvcm8IM) | 3:08 |
 
-Snapshot ID: `MCwyMGVjNGRiNzJjNTJhMGI2MzZkZGZhZDg5OGYyMTgxNDRhYWQ3NzA5`
+Snapshot ID: `MCwwY2MzN2UxN2U1OTEyYTk1ZWQyMmVlNDNmODA0YmM5ZjBmZGYyNmY1`

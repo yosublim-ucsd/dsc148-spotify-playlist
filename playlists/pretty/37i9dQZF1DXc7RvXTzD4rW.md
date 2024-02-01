@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 雨宮天 \(Sora Amamiya\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,896 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,905 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 28 | [ものたんない](https://open.spotify.com/track/2Cm59feNSyFniTp93vhY4M) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [ものたんない](https://open.spotify.com/album/6W497iLP0CdHyn1tVILV1F) | 3:41 |
 | 29 | [Sequel](https://open.spotify.com/track/2fodS2u01KCFoPknzkJGcN) | [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py) | [Sequel](https://open.spotify.com/album/3cgQcgyVE0xXR1wZUNjafw) | 4:15 |
 | 30 | [Prism](https://open.spotify.com/track/2n7NzI9OC4Pguo510E3VMY) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Act 2](https://open.spotify.com/album/3EKlyqIFT3uFzIobG7lIEq) | 3:40 |
-| 31 | [霞の向こうへ](https://open.spotify.com/track/5W4Jz81qUijp9EoC6vJYPJ) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [霞の向こうへ\(TVアニメ｢ゴブリンスレイヤーⅡ｣エンディングテーマ\)](https://open.spotify.com/album/60Is723U0djCaYTjIJdTnr) | 4:08 |
+| 31 | [Kasumi no mukoue](https://open.spotify.com/track/3ydPLIviKq9rIhTMUXjbHn) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [Kasumi no mukoue](https://open.spotify.com/album/5MRKnrbfhY9ptviXEHXCtt) | 4:08 |
 | 32 | [Tawagoto](https://open.spotify.com/track/1qFtgtem9RyXomqc7eRfj0) | [Kent Ito](https://open.spotify.com/artist/3UQapJyENH6KwfJbjA0krM) | [Tawagoto](https://open.spotify.com/album/40Gj5UM6eqSlyjNIVJ1cFL) | 4:12 |
 | 33 | [スクラップアート](https://open.spotify.com/track/4aH955P1E3svLs4NPNAewA) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [スクラップアート](https://open.spotify.com/album/42jpClLjVy7znnAmzNUJfI) | 3:33 |
 | 34 | [Idol \- From CrosSing](https://open.spotify.com/track/47SH9AhPRfXut0zz7FFSge) | [Hieda nene](https://open.spotify.com/artist/1DrjXiDjn5lAuZJl2Ps7XN), [Moriya kyoka](https://open.spotify.com/artist/65FpAJlB759YnVNjiIHOUR) | [Idol \- From CrosSing](https://open.spotify.com/album/06jodqy5myoAZg3qozTyIS) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [Emerald](https://open.spotify.com/track/5rQwo1SwmsvhZbLWB2SH7u) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiroto Hanataba](https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R) | 3:40 |
 | 50 | [PIZZA SUSHI planet walking](https://open.spotify.com/track/5lJHS8EfRTYSgw46g3YmV6) | [江口拓也](https://open.spotify.com/artist/7M4999xcRPjRunHN5lu9Oj) | [PIZZA SUSHI planet walking](https://open.spotify.com/album/7aigCG5fTuzU3uLCestYbj) | 3:16 |
 
-Snapshot ID: `MCxjNDQzN2IyZjE4MDVhYTM1NDI2MTEzYzA0MDIzMWI5ZjllMjZiZjc2`
+Snapshot ID: `MCxhYzlmMjY1ZjMyMzU1MDg1YmRiNzk5ZjU0YzQwZjQ2NjI4NDE2MDI5`

@@ -4,7 +4,7 @@
 
 > Música para insubordinados\. Sum 41 en portada.
 
-143 songs - 7 hr 41 min
+145 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Niebla](https://open.spotify.com/track/6yWpmaYnTJYeRfnrwb0OCQ) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Niebla](https://open.spotify.com/album/0zh9o0s4qA7kfE7O2AEmMr) | 2:43 | 2022-03-25 |  |
 | [NO ESTOY](https://open.spotify.com/track/1kP5YGbeWnYLVlWbuX6rLG) | [Kinder Malo](https://open.spotify.com/artist/1Aoj8qX6kPfLTagb7qbKg0) | [NO ESTOY](https://open.spotify.com/album/1O776s0DpVKXrEvv2k5MVg) | 2:33 | 2023-05-19 |  |
 | [No Lo Tomes a Mal \- No Me Toques, Ando Chido](https://open.spotify.com/track/5msSzMdmacwuVhribYz5nG) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [No Lo Tomes a Mal \(No Me Toques, Ando Chido\)](https://open.spotify.com/album/2zVGlxmvIeDr4Ob8qItIQn) | 3:31 | 2022-03-25 |  |
+| [No Thank You For The Music](https://open.spotify.com/track/02KgdbM5JkhtBUBIkjFaaA) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [No Thank You For The Music](https://open.spotify.com/album/5BtpS9O9Z6wGYb8RKMime5) | 3:49 | 2024-01-31 |  |
 | [OLA DE SUICIDIOS](https://open.spotify.com/track/0v2ESDRpC6X8k82tOnY91N) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [OLA DE SUICIDIOS](https://open.spotify.com/album/5cslTHbdAe79CyaKfAzYdM) | 2:34 | 2023-04-14 |  |
 | [Otro Verano Campeón](https://open.spotify.com/track/7A1SZwl3Mu3bHsLZS8TAKX) | [Mantarrayas](https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1) | [Otro Verano Campeón](https://open.spotify.com/album/4bKaJz4t3GkWjC6s2fOpBt) | 3:06 | 2023-09-23 |  |
 | [Outro](https://open.spotify.com/track/0t1neSZWSIqtVHRxyYLWTO) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [Outro](https://open.spotify.com/album/6bIYRN7ORcgvVf1CZ4BMmt) | 3:08 | 2022-03-25 | 2023-08-20 |
@@ -119,6 +120,7 @@
 | [Rest Assured](https://open.spotify.com/track/0EWhAlXHKrwWIJjX9Gg56R) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Come on Feel The Lemonheads](https://open.spotify.com/album/1mA5CUUztAKf53GDuypfAT) | 2:28 | 2023-09-23 |  |
 | [Retrofuturo](https://open.spotify.com/track/77KgPizQ8zRT0GSe8AfG61) | [Thermo](https://open.spotify.com/artist/3HA7l0ZFLSMYWHCVuUZjT7) | [Retrofuturo](https://open.spotify.com/album/2b2G2zi3bSi3qw0fBkP2DL) | 3:23 | 2023-09-29 |  |
 | [Revolución en 32 versos](https://open.spotify.com/track/2IpIhUpVuQTsIseaQ4z7G0) | [Chico Jorge](https://open.spotify.com/artist/5RlSgVslS8qQuHh3a1GQNd) | [Revolución en 32 versos](https://open.spotify.com/album/6hIwZvUQkppY4xBoxjwXWs) | 2:47 | 2022-03-25 | 2023-11-25 |
+| [Rise Up](https://open.spotify.com/track/3wEKXWiYq3h4MCDJZiny0S) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Rise Up](https://open.spotify.com/album/6eDKKi7HgzlGQQM8F67og7) | 3:16 | 2024-01-31 |  |
 | [Rotura](https://open.spotify.com/track/4MNwrAigvEocVgWDGxkS10) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Rotura](https://open.spotify.com/album/7hBTPDVJPbi2Igtfv9dphz) | 3:36 | 2023-06-23 |  |
 | [Sabinal](https://open.spotify.com/track/6GdjcejLIYstjDTS111tKR) | [The Shelter](https://open.spotify.com/artist/0s4gHJntOTkBezUfGz1oRa), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Sabinal](https://open.spotify.com/album/2VW2Arzox2JddtDvguuUU1) | 2:16 | 2023-06-23 |  |
 | [Say It If You Mean It](https://open.spotify.com/track/3291tPBAOx7pH5rcP9Adoj) | [Tsunami Bomb](https://open.spotify.com/artist/5oNVC8oAZ9Tmhnx5kLihgC) | [The Ultimate Escape](https://open.spotify.com/album/3qsUeo8pudOL4jri4YSzET) | 3:18 | 2023-09-23 |  |

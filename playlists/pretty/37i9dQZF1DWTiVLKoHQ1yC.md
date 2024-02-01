@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,296 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,353 likes - 60 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Hope In Balance](https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o) | [São Miguel](https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq), [Sebastian Reynoso](https://open.spotify.com/artist/4TYYLNG592TpKs4mfyQCFX) | [Hope In Balance](https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO) | 4:38 |
 | 60 | [Influence \- Edit](https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Influence](https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o) | 4:19 |
 
-Snapshot ID: `MCw0NWQ0NTdmNzVlMDY5ZDIxNGNjYTBmOGQyMzUyZjI5MmUxNDFiYjg0`
+Snapshot ID: `MCwzOWU1MzQ2MmQwZDhmOWE5ZWZhOWMzYzBhMWQ1Nzg1NmJlNmQxMGEw`

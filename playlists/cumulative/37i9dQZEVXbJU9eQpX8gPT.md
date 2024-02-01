@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,308 songs - 2 day 23 hr 58 min
+1,309 songs - 3 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -978,7 +978,7 @@
 | [RAZONES \(feat\. Morad\)](https://open.spotify.com/track/62OmBF30kfTb0XLbGZPeTS) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:04 | 2023-11-24 |  |
 | [Rebirth](https://open.spotify.com/track/7LHcVG6sqmKMFK5WAV2ON5) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [Cnebce](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Temporis](https://open.spotify.com/album/0uEoafTA875Dqw6hJDlrJ5) | 3:29 | 2021-05-30 | 2021-05-31 |
 | [RED PILL](https://open.spotify.com/track/6JQSu378WGUyaIdRC83UzY) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [METAMORPHOSE](https://open.spotify.com/album/7vef7odtEo16WahTWsZSeY) | 2:45 | 2023-02-22 | 2023-03-08 |
-| [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-01-15 |  |
+| [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-01-15 | 2024-02-01 |
 | [Remote Control](https://open.spotify.com/track/3SYLoL8KHxdQPYIkfwmUjN) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:18 | 2021-08-31 | 2021-09-02 |
 | [RENCONTRE](https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 3:18 | 2022-04-04 | 2022-05-03 |
 | [RER D](https://open.spotify.com/track/4HvjAQ0ODJVwutBx08bGhG) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:43 | 2021-12-05 | 2021-12-06 |
@@ -991,6 +991,7 @@
 | [Rmadi](https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Rmadi](https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P) | 3:48 | 2023-07-05 |  |
 | [Roi 2 cœur \(feat\. Indila\)](https://open.spotify.com/track/6nYW5D9TyWomuS9hW6wDuY) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:29 | 2023-03-02 | 2023-04-05 |
 | [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-07-16 | 2023-04-27 |
+| [Rouhi](https://open.spotify.com/track/2qxPBeL2Q8jRnDv6EPK18A) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Rouhi](https://open.spotify.com/album/7yfYEHSOufXZcpYcBfD0VS) | 3:01 | 2024-01-31 |  |
 | [Routini \(feat\. Lferda\)](https://open.spotify.com/track/3CFv7rsTbKuJ2j3pDbebYe) | [Tflow](https://open.spotify.com/artist/1gEQbGxdBq1vvCskS9qQBI), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Jenna](https://open.spotify.com/album/6LG7p8zCkqWALWyhpTvCMw) | 2:54 | 2021-07-18 | 2021-07-21 |
 | [RS3](https://open.spotify.com/track/2fe4vq7z5vXpZoFBPtlDaU) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [RS3](https://open.spotify.com/album/2OsLIuY9JqqkpI0f9KTflW) | 3:52 | 2021-09-27 | 2022-05-05 |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-11 | 2022-07-08 |

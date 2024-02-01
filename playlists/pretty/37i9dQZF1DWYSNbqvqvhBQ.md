@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: FRIDAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,263 likes - 90 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,262 likes - 90 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 89 | [Love Song](https://open.spotify.com/track/5DJeMovbaAfGWcxkN2TVaM) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL) | 2:40 |
 | 90 | [The Show](https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:11 |
 
-Snapshot ID: `MCxhMjQ2ODVhZmRiN2Y3YjQ5ZWI1MmJlZmY1MGQ5ODJkZDJlNzI4N2Yx`
+Snapshot ID: `MCw0Njg2ZDU1MTEzNmQ2MGQxMGIyMzQyMDNjMmIyNTVmNGNiNGQ0MWNi`

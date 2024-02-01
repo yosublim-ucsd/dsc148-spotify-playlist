@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,409 songs - 3 day 3 hr 5 min
+1,410 songs - 3 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,7 +395,7 @@
 | [Erastes](https://open.spotify.com/track/4p90sFRZyV7IPnuvaU1pp1) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Only 4 The Slimes](https://open.spotify.com/album/3XWnL4yDFbjKAQNIeDzlKW) | 2:08 | 2022-10-29 | 2022-11-16 |
 | [ERIMO](https://open.spotify.com/track/2cXQUlkrLVrfxOJe6wjhJb) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp) | [IPIZME](https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR) | 3:37 | 2022-11-12 | 2023-06-11 |
 | [ERIMO](https://open.spotify.com/track/2wuJWqcn6bJWIJCmb83Yeu) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp) | [ERIMO](https://open.spotify.com/album/4CWvmTA99vjhd3sq0dpeEG) | 3:37 | 2022-09-23 | 2022-11-13 |
-| [Erotas](https://open.spotify.com/track/1O4LjNjQxnzqECfTKGkko6) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl) | [Erotas](https://open.spotify.com/album/20dFOE5kiBCmzEf0GXrXqu) | 2:24 | 2022-07-29 |  |
+| [Erotas](https://open.spotify.com/track/1O4LjNjQxnzqECfTKGkko6) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl) | [Erotas](https://open.spotify.com/album/20dFOE5kiBCmzEf0GXrXqu) | 2:24 | 2022-07-29 | 2024-02-01 |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-14 |
 | [Escapism.](https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 4:32 | 2022-12-13 | 2023-02-05 |
 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 | 2023-02-04 | 2023-02-14 |
@@ -1376,6 +1376,7 @@
 | [Woo Walk](https://open.spotify.com/track/7zWzNwjF8nsGnQq3mJiG13) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Immortale](https://open.spotify.com/album/7eypibdDfmkcSp62ElEv1G) | 2:44 | 2021-06-05 | 2022-02-16 |
 | [Work Out](https://open.spotify.com/track/1ABRIGG2YqY5uLDLLfIBgx) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Work Out](https://open.spotify.com/album/7iC4EGxvV937UOLMODZnTy) | 2:35 | 2022-09-09 | 2022-10-21 |
 | [Workaholic](https://open.spotify.com/track/1sZDCdJHc2RdIpGE2fF5sg) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Green Goblin](https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh) | 2:59 | 2022-02-26 | 2022-02-28 |
+| [WORLD STAR](https://open.spotify.com/track/1D4zwAUvIfvBVH9y2DPaJ3) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX) | [WORLD STAR](https://open.spotify.com/album/7nAvU3QXLm8YzUnlNyQMvN) | 3:12 | 2024-01-31 |  |
 | [Worldwide Steppers](https://open.spotify.com/track/5p56JT5F9a1z9pwXnqTg7d) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:23 | 2022-05-14 | 2022-05-16 |
 | [X\-RATED](https://open.spotify.com/track/47oIBbFCqMVRD7r7fQdhvg) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [Th Mark](https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm) | [Saskepticism Vol\. 2](https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP) | 2:58 | 2022-04-23 | 2022-04-30 |
 | [Xadia](https://open.spotify.com/track/69nHKmTVC5lflFCOlpH42T) | [Yolte](https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm) | [Xadia](https://open.spotify.com/album/5sXta99fwVczuHessCxrfv) | 2:17 | 2023-12-16 | 2024-01-13 |

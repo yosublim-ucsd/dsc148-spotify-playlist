@@ -1,12 +1,12 @@
 {
   "description": "The best in modern punk rock music. Cover: SOAPBOX",
-  "num_followers": 53140,
+  "num_followers": 53141,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTAyZThlODBiMDVmMjc4YTE5YzJjY2ZiMjJiNWYxNzU1NzhiNWFj",
+  "snapshot_id": "MCwwOTYyNTAxNjg0NWNlMTVkYTAyOGM1ZWQwY2VmMGI0ODY1ZDRiMzJj",
   "tracks": [
     {
       "added_at": "2024-01-19 00:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "3 Days Sober",
-        "url": "https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop"
-      },
-      "artists": [
-        {
-          "name": "WSTR",
-          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
-        }
-      ],
-      "duration_ms": 177209,
-      "name": "3 Days Sober",
-      "url": "https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "The Four Before",
         "url": "https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 227309,
       "name": "Toneblerone",
       "url": "https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "3 Days Sober",
+        "url": "https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop"
+      },
+      "artists": [
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "duration_ms": 177209,
+      "name": "3 Days Sober",
+      "url": "https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "MORE UK GRIM",
-        "url": "https://open.spotify.com/album/2AQNQR9GwxxByoFeXHPH3F"
-      },
-      "artists": [
-        {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
-        }
-      ],
-      "duration_ms": 213402,
-      "name": "Under The Rules",
-      "url": "https://open.spotify.com/track/3HgZwGpYYI6jKcW3UsDC49"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "Sink Or Swim",
         "url": "https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 192080,
       "name": "Sink Or Swim",
       "url": "https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "MORE UK GRIM",
+        "url": "https://open.spotify.com/album/2AQNQR9GwxxByoFeXHPH3F"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "duration_ms": 213402,
+      "name": "Under The Rules",
+      "url": "https://open.spotify.com/track/3HgZwGpYYI6jKcW3UsDC49"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Daylight Robbery",
-        "url": "https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM"
-      },
-      "artists": [
-        {
-          "name": "Boy Bleach",
-          "url": "https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V"
-        }
-      ],
-      "duration_ms": 170200,
-      "name": "Daylight Robbery",
-      "url": "https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "'Til the Wheels Fall Off",
         "url": "https://open.spotify.com/album/02gGvRHn6goKCYrRv7xp1Y"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 213435,
       "name": "Bricks",
       "url": "https://open.spotify.com/track/5FJ3tMyMQ1VeRINR2DUIsY"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "Daylight Robbery",
+        "url": "https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM"
+      },
+      "artists": [
+        {
+          "name": "Boy Bleach",
+          "url": "https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V"
+        }
+      ],
+      "duration_ms": 170200,
+      "name": "Daylight Robbery",
+      "url": "https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT"
     },
     {
       "added_at": "2024-01-19 00:00:00",

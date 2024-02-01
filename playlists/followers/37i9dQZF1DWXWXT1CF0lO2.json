@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 39861,
+  "2024-02-01": 39927,
   "date_first_scraped": "2023-10-23",
   "description": "Ajude seu beb\u00ea a adormecer com esta playlist relaxante com as favoritos da Disney.",
   "name": "Disney Para Dormir",
@@ -509,6 +509,24 @@
       "duration_ms": 222004,
       "name": "Do You Want to Build a Snowman?",
       "url": "https://open.spotify.com/track/3n1DCR84wibN1QdQ76juzz"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214760,
+      "name": "Dos Oruguitas - Instrumental",
+      "url": "https://open.spotify.com/track/0jBBjn0oUN568ohYE3wlLL"
     },
     {
       "album": {

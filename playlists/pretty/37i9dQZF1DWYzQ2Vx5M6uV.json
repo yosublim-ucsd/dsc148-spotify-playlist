@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Rawayana, Mr Eazi & Micro TDH",
-  "num_followers": 114616,
+  "num_followers": 114608,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjA1YWM5YjU1ZjBhZWViOTk1ZjUyNGRiM2ZmMWI2ZWU5MTNjZDQ0",
+  "snapshot_id": "MCwwMjBkMmQzMDUwNGFlZmNjMmZhYmY2M2JkMjEyYTU2NTQ0NWI4YTE4",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -855,6 +855,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Don't Rush (Remix)",
+        "url": "https://open.spotify.com/album/7F360hzRX7Ig1r5sQPc3db"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 201013,
+      "name": "Don't Rush - Remix",
+      "url": "https://open.spotify.com/track/4ltz90zE6hPqE12EGHDMDu"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Party Nice",
         "url": "https://open.spotify.com/album/5FVpig8lHGMmY6B8u0HHSS"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 175389,
       "name": "Party Nice",
       "url": "https://open.spotify.com/track/6FxdBhDsFr5LT7xEdXMh3U"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Don't Rush (Remix)",
-        "url": "https://open.spotify.com/album/7F360hzRX7Ig1r5sQPc3db"
-      },
-      "artists": [
-        {
-          "name": "Young T & Bugsey",
-          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 201013,
-      "name": "Don't Rush - Remix",
-      "url": "https://open.spotify.com/track/4ltz90zE6hPqE12EGHDMDu"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "WONDALAND",
-        "url": "https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "MOSLADO",
-      "url": "https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Guava Rose",
         "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 192108,
       "name": "Guava Rose",
       "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "WONDALAND",
+        "url": "https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "MOSLADO",
+      "url": "https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "V\u00e1monos",
-        "url": "https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz"
-      },
-      "artists": [
-        {
-          "name": "Oliver Kid",
-          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
-        }
-      ],
-      "duration_ms": 121142,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Toko Challenge",
         "url": "https://open.spotify.com/album/6mupZJ1WPJMhR2BPJo0kRN"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 98772,
       "name": "Toko Challenge",
       "url": "https://open.spotify.com/track/4AkvzAhFnq7IDTHn5SXQY0"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "V\u00e1monos",
+        "url": "https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz"
+      },
+      "artists": [
+        {
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+        }
+      ],
+      "duration_ms": 121142,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO"
     },
     {
       "added_at": "2023-12-08 05:00:00",

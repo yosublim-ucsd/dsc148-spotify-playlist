@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 110274,
+  "2024-02-01": 110274,
   "date_first_scraped": "2021-12-21",
   "description": "Current indie tunes from Asia and around the world. Cover: The Smile",
   "name": "Indie Shuffle",
@@ -13239,10 +13239,32 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 177042,
       "name": "Million - hanbee Remix",
       "url": "https://open.spotify.com/track/4YycpPLZiVfITeG4SQwJn7"
+    },
+    {
+      "album": {
+        "name": "Nightvision (Love Is God Edition)",
+        "url": "https://open.spotify.com/album/5uwlX45meAGA6nbxUwELJw"
+      },
+      "artists": [
+        {
+          "name": "Matter Halo",
+          "url": "https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT"
+        },
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177042,
+      "name": "Million - hanbee Remix",
+      "url": "https://open.spotify.com/track/7B7jj4RXEvSeH7BF4Eb37f"
     },
     {
       "album": {
@@ -16105,10 +16127,32 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 265902,
       "name": "Performance In a Dream (feat. Our Shame)",
       "url": "https://open.spotify.com/track/1MHSNAn5Y3w8BsfNwqKA73"
+    },
+    {
+      "album": {
+        "name": "Nightvision (Love Is God Edition)",
+        "url": "https://open.spotify.com/album/5uwlX45meAGA6nbxUwELJw"
+      },
+      "artists": [
+        {
+          "name": "Matter Halo",
+          "url": "https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT"
+        },
+        {
+          "name": "Our Shame",
+          "url": "https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265902,
+      "name": "Performance In a Dream (feat. Our Shame)",
+      "url": "https://open.spotify.com/track/5dCIeG01S5SNV2kLGrBxwt"
     },
     {
       "album": {

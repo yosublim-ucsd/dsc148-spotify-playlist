@@ -4,7 +4,7 @@
 
 > The best in Dancehall for the gyaldem\. Cover: Tina \(Hoodcelebrityy\)
 
-197 songs - 10 hr 7 min
+198 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Hands Up](https://open.spotify.com/track/2DqiAl1qCPnOkx6EHDt12R) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Hands Up](https://open.spotify.com/album/2ddLiPnq33pYj3V7Kfmo9u) | 2:17 | 2023-05-15 | 2023-07-16 |
 | [Hard & Done](https://open.spotify.com/track/50ZQ13cDPuFaSXfWdPwa5n) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [Nyla](https://open.spotify.com/artist/4VZY0nxYMSNotbS7WjNVQy), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Hard & Done](https://open.spotify.com/album/2mdQ5xNL2QOBniNeHrhIDY) | 2:40 | 2021-10-24 | 2022-08-19 |
 | [Hard Drive](https://open.spotify.com/track/4tw57jakL7TFEdZ4bUohP1) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Hard Drive](https://open.spotify.com/album/4y2mW0Vpyc897XhWl8K6B9) | 2:48 | 2021-10-24 |  |
-| [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 | 2021-10-24 |  |
+| [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 | 2021-10-24 | 2024-02-01 |
 | [Heavy! \(Vybz Kartel Remix\)](https://open.spotify.com/track/07XcuVPoyMogdiV4nBeCPt) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Dj Papis](https://open.spotify.com/artist/3a2dlVcm5z0ha2j9ihlQmP) | [Heavy! \(Vybz Kartel Remix\)](https://open.spotify.com/album/3pjBdUQ3B9zLWc4y7GmDSE) | 2:45 | 2021-10-24 | 2022-06-22 |
 | [Heels On](https://open.spotify.com/track/0NWgQIhsa5Jn9OtmMq56zm) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Heels On \- Single](https://open.spotify.com/album/32QwqUCDMihv6W0jcts4oo) | 3:50 | 2023-05-15 |  |
 | [Hold You \- Hold Yuh](https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Hold You](https://open.spotify.com/album/3Oi5j0kqicMfqW51jqrsfe) | 3:53 | 2023-05-15 |  |
@@ -143,6 +143,7 @@
 | [Pull up to Mi Bumper](https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20) | [Pull up to Mi Bumper](https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS) | 2:30 | 2022-06-20 |  |
 | [Put It On You](https://open.spotify.com/track/7h4h6wl9unB1dIoRsxA1Yw) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:05 | 2021-10-24 |  |
 | [Rapture](https://open.spotify.com/track/0PtDNK2Q49fAM4ZbKtN0mz) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:01 | 2021-10-24 | 2024-01-30 |
+| [Rapture](https://open.spotify.com/track/6tz8hU4xMhnvC7duzGjCSX) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture](https://open.spotify.com/album/2DlocpnzvkFXxV7iBy3wbZ) | 3:01 | 2023-05-15 |  |
 | [Rebel](https://open.spotify.com/track/36t9rgshEge4LCzhHKioFQ) | [Zum](https://open.spotify.com/artist/0Uxj1Nl8AeAN7g7iALqh9U), [Shenseea](https://open.spotify.com/artist/7FBUsBZPO9VB6wDXY4fv5Q) | [Liquid Sunshine Riddim](https://open.spotify.com/album/0szSNcsmxpS4FhwVuuJkf8) | 2:15 | 2023-05-15 |  |
 | [Ride \- Remix](https://open.spotify.com/track/3SEfX0PJAkE9mqFVMSO4QO) | [Kash PM](https://open.spotify.com/artist/4OVY7okNqdbMxHQIaadGJc), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Ride \(Remix\)](https://open.spotify.com/album/5ksTZQyb1EcTen6NYlEgL5) | 3:05 | 2022-08-18 | 2023-05-16 |
 | [Romping Shop](https://open.spotify.com/track/6qd2ehzEHv1Tl5pJ3itpKx) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [World of Reggae Music \(Edited\)](https://open.spotify.com/album/6qLRxF0gy9GFyoRMCKlJr7) | 3:32 | 2022-06-20 | 2022-08-19 |

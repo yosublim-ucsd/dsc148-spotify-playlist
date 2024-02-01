@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 28272,
+  "num_followers": 28275,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTI4ZTg4NmMwNDdjMTQzZTU5MmNmZmI4YWE3NzNjYThhODRhNzQ1",
+  "snapshot_id": "MCwxNTIxMjhkYWU0YjFlMjgzOTBiZTdkOTc1NjI4MzhlNmE4NDc4MzI0",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -367,22 +367,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Julie Masse",
-        "url": "https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE"
-      },
-      "artists": [
-        {
-          "name": "Julie Masse",
-          "url": "https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC"
-        }
-      ],
-      "duration_ms": 242466,
-      "name": "C'est z\u00e9ro",
-      "url": "https://open.spotify.com/track/36eHvuluPjSm7HNRLqng7R"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Aime-moi",
         "url": "https://open.spotify.com/album/3x5aI6oO3eoUSVzi9XsjMT"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 250973,
       "name": "Aime moi",
       "url": "https://open.spotify.com/track/2EUITdSOgkQvddobT5veE6"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Julie Masse",
+        "url": "https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE"
+      },
+      "artists": [
+        {
+          "name": "Julie Masse",
+          "url": "https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC"
+        }
+      ],
+      "duration_ms": 242466,
+      "name": "C'est z\u00e9ro",
+      "url": "https://open.spotify.com/track/36eHvuluPjSm7HNRLqng7R"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -447,18 +447,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Parlez-moi de lui - Single",
-        "url": "https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq"
+        "name": "Notre Dame de Paris - Version int\u00e9grale, acte 1",
+        "url": "https://open.spotify.com/album/0rfs8rhKsVsnKnwscx9cdY"
       },
       "artists": [
         {
-          "name": "Nicole Croisille",
-          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
+          "name": "Bruno Pelletier",
+          "url": "https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2"
         }
       ],
-      "duration_ms": 200760,
-      "name": "Parlez-moi de lui",
-      "url": "https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW"
+      "duration_ms": 202733,
+      "name": "Le temps des cath\u00e9drales",
+      "url": "https://open.spotify.com/track/6KoolqHOo79c4lTmAko7NQ"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -483,18 +483,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Notre Dame de Paris - Version int\u00e9grale, acte 1",
-        "url": "https://open.spotify.com/album/0rfs8rhKsVsnKnwscx9cdY"
+        "name": "Parlez-moi de lui - Single",
+        "url": "https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq"
       },
       "artists": [
         {
-          "name": "Bruno Pelletier",
-          "url": "https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2"
+          "name": "Nicole Croisille",
+          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
         }
       ],
-      "duration_ms": 202733,
-      "name": "Le temps des cath\u00e9drales",
-      "url": "https://open.spotify.com/track/6KoolqHOo79c4lTmAko7NQ"
+      "duration_ms": 200760,
+      "name": "Parlez-moi de lui",
+      "url": "https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -579,22 +579,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Ce soir l'amour est dans tes yeux",
-        "url": "https://open.spotify.com/album/7HZfX5GAbCjWiJf1L1AJjQ"
-      },
-      "artists": [
-        {
-          "name": "Martine St Clair",
-          "url": "https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq"
-        }
-      ],
-      "duration_ms": 393013,
-      "name": "L'amour est dans tes yeux",
-      "url": "https://open.spotify.com/track/3UBrZaRETY6l2xfCsik4NL"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Une femme avec toi - Single",
         "url": "https://open.spotify.com/album/76bKZd3b4fuLRTY446i1lc"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 237173,
       "name": "Que je t'aime",
       "url": "https://open.spotify.com/track/0ui0AsKMbOntbzq6j2SN9a"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Ce soir l'amour est dans tes yeux",
+        "url": "https://open.spotify.com/album/7HZfX5GAbCjWiJf1L1AJjQ"
+      },
+      "artists": [
+        {
+          "name": "Martine St Clair",
+          "url": "https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq"
+        }
+      ],
+      "duration_ms": 393013,
+      "name": "L'amour est dans tes yeux",
+      "url": "https://open.spotify.com/track/3UBrZaRETY6l2xfCsik4NL"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -787,22 +787,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Les introuvables",
-        "url": "https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo"
-      },
-      "artists": [
-        {
-          "name": "Marie Denise Pelletier",
-          "url": "https://open.spotify.com/artist/1Uxer84r7rkh5OFQKMXd1l"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "Pour une histoire d'un soir",
-      "url": "https://open.spotify.com/track/0oXqAQBT0KE2IzBgFivcnW"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Don Juan (Les plus grands succ\u00e8s du spectacle musical de F\u00e9lix Gray)",
         "url": "https://open.spotify.com/album/6zCqUEDoZRN92o7vtddpV5"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 246480,
       "name": "Changer",
       "url": "https://open.spotify.com/track/59DiAbELxjxnY5fcgQRTI9"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Les introuvables",
+        "url": "https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo"
+      },
+      "artists": [
+        {
+          "name": "Marie Denise Pelletier",
+          "url": "https://open.spotify.com/artist/1Uxer84r7rkh5OFQKMXd1l"
+        }
+      ],
+      "duration_ms": 219160,
+      "name": "Pour une histoire d'un soir",
+      "url": "https://open.spotify.com/track/0oXqAQBT0KE2IzBgFivcnW"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -999,6 +999,22 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "Volume un",
+        "url": "https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd"
+      },
+      "artists": [
+        {
+          "name": "Robert Charlebois",
+          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "Je reviendrai \u00e0 montr\u00e9al",
+      "url": "https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "Vivre dans la nuit",
         "url": "https://open.spotify.com/album/3AqKphs5MQe12H6EHj4lC4"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 173080,
       "name": "Un souvenir heureux",
       "url": "https://open.spotify.com/track/0uenXaHPfVWwcKHEpLz6kn"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Volume un",
-        "url": "https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd"
-      },
-      "artists": [
-        {
-          "name": "Robert Charlebois",
-          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "Je reviendrai \u00e0 montr\u00e9al",
-      "url": "https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Double",
-        "url": "https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL"
-      },
-      "artists": [
-        {
-          "name": "Roch Voisine",
-          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
-        }
-      ],
-      "duration_ms": 244933,
-      "name": "La berceuse du petit diable",
-      "url": "https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Les grands succ\u00e8s de Marie Carmen",
         "url": "https://open.spotify.com/album/3Jc4kN9R3qYadp7QSxNc8j"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 269493,
       "name": "Entre l'ombre et la lumi\u00e8re",
       "url": "https://open.spotify.com/track/4uv1DUeE3qQWDaj0HC9V6b"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Double",
+        "url": "https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL"
+      },
+      "artists": [
+        {
+          "name": "Roch Voisine",
+          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "La berceuse du petit diable",
+      "url": "https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Incognito",
-        "url": "https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Incognito",
-      "url": "https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Marie-\u00c9laine Thibert",
         "url": "https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 275266,
       "name": "Le ciel est \u00e0 moi",
       "url": "https://open.spotify.com/track/7rei6qkJoTI00AaYWB7a0k"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Incognito",
+        "url": "https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Incognito",
+      "url": "https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ"
     }
   ],
   "unique_name": "Fromage",

@@ -1,12 +1,12 @@
 {
   "description": "Home is where the main stage is. \ud83d\udc97",
-  "num_followers": 217129,
+  "num_followers": 217482,
   "original_name": "EDM 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWVkYzU2Yjk0ZjQ1OGQ0M2ZiMTVkYzMyODM3N2IyNWQzZjE4MDQy",
+  "snapshot_id": "MCxmNTE1YzhkM2ZiODQyMzJjYzJiYWNmNWRjYWQ5MjAyNzA5ODE1ZGY2",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "A Milli (SIDEPIECE Remix)",
+        "url": "https://open.spotify.com/album/2CElE4zRNvhLHuRSqdB1pS"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "A Milli - SIDEPIECE Remix",
+      "url": "https://open.spotify.com/track/7nDxeN6NDc7v3v774IXiC5"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 198867,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "A Milli (SIDEPIECE Remix)",
-        "url": "https://open.spotify.com/album/2CElE4zRNvhLHuRSqdB1pS"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "A Milli - SIDEPIECE Remix",
-      "url": "https://open.spotify.com/track/7nDxeN6NDc7v3v774IXiC5"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1579,30 +1579,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Secrets (feat. Jazz Montell)",
-        "url": "https://open.spotify.com/album/0lMVfNvXYGaa5iFS4NU39o"
-      },
-      "artists": [
-        {
-          "name": "Glockenbach",
-          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Jazz Montell",
-          "url": "https://open.spotify.com/artist/5HVnBG4feWijxr9j531PFs"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Secrets (feat. Jazz Montell)",
-      "url": "https://open.spotify.com/track/3SdpHyWPOlTBn6ZWB9XwWZ"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Starlight (Keep Me Afloat)",
         "url": "https://open.spotify.com/album/7eIDupqYq3dYiaLPmv71bY"
       },
@@ -1623,6 +1599,30 @@
       "duration_ms": 202670,
       "name": "Starlight (Keep Me Afloat)",
       "url": "https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Secrets (feat. Jazz Montell)",
+        "url": "https://open.spotify.com/album/0lMVfNvXYGaa5iFS4NU39o"
+      },
+      "artists": [
+        {
+          "name": "Glockenbach",
+          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Jazz Montell",
+          "url": "https://open.spotify.com/artist/5HVnBG4feWijxr9j531PFs"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Secrets (feat. Jazz Montell)",
+      "url": "https://open.spotify.com/track/3SdpHyWPOlTBn6ZWB9XwWZ"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Self Destruction Mode",
-        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 147836,
-      "name": "Self Destruction Mode",
-      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "RATATA",
         "url": "https://open.spotify.com/album/1Gjfloocho6vjWqkxhW6L4"
       },
@@ -1839,6 +1819,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Self Destruction Mode",
+        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 147836,
+      "name": "Self Destruction Mode",
+      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Musica",
         "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
       },
@@ -1851,6 +1851,26 @@
       "duration_ms": 177142,
       "name": "Musica",
       "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Ray Of Solar (Mau P Remix)",
+        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "Ray Of Solar - Mau P Remix",
+      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1879,26 +1899,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Ray Of Solar (Mau P Remix)",
-        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Ray Of Solar - Mau P Remix",
-      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Lucid Dream",
         "url": "https://open.spotify.com/album/2KTqJJVzXUalakSm6HcTdA"
       },
@@ -1911,6 +1911,22 @@
       "duration_ms": 193235,
       "name": "Lucid Dream",
       "url": "https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "ME",
+        "url": "https://open.spotify.com/album/2ABIweWTmeRmUBc73DNiqq"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 214174,
+      "name": "ME",
+      "url": "https://open.spotify.com/track/7dyJugljupi044oQfkrzlc"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1935,22 +1951,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "ME",
-        "url": "https://open.spotify.com/album/2ABIweWTmeRmUBc73DNiqq"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 214174,
-      "name": "ME",
-      "url": "https://open.spotify.com/track/7dyJugljupi044oQfkrzlc"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "The Chant (For Club Play Only, Pt. 8)",
         "url": "https://open.spotify.com/album/4l12XOrKoqpy2skRc8Zi6Q"
       },
@@ -1963,30 +1963,6 @@
       "duration_ms": 190104,
       "name": "The Chant - For Club Play Only, Pt. 8",
       "url": "https://open.spotify.com/track/7xy9K0gpqzgUGGuxG5ZfuN"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "See You Again",
-        "url": "https://open.spotify.com/album/5YD0kqXIXIg5GqSHiX7pJ4"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Carlie Hanson",
-          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
-        }
-      ],
-      "duration_ms": 163451,
-      "name": "See You Again",
-      "url": "https://open.spotify.com/track/1wYTR3Hg5rBQcdfxGEdsx0"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2019,26 +1995,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Push It",
-        "url": "https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL"
+        "name": "See You Again",
+        "url": "https://open.spotify.com/album/5YD0kqXIXIg5GqSHiX7pJ4"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
         },
         {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
         }
       ],
-      "duration_ms": 248571,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"
+      "duration_ms": 163451,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/1wYTR3Hg5rBQcdfxGEdsx0"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2063,6 +2039,30 @@
       "duration_ms": 202204,
       "name": "Cocoon - Martin Garrix & Space Ducks Remix",
       "url": "https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Push It",
+        "url": "https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 248571,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2155,22 +2155,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/27gie4flupqJ5Ht5Y5KzNZ"
+        "name": "My Bad",
+        "url": "https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b"
       },
       "artists": [
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "name": "Paolo Pellegrino",
-          "url": "https://open.spotify.com/artist/3ewQZ4iDkC9CQzceitueXe"
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 160320,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/0IPyz9vpoyTB8LfECAasI5"
+      "duration_ms": 147180,
+      "name": "My Bad",
+      "url": "https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs"
     }
   ],
   "unique_name": "EDM 2024",

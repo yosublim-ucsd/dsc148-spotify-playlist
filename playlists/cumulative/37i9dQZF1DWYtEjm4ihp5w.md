@@ -4,7 +4,7 @@
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Figoshin
 
-203 songs - 10 hr 47 min
+204 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [B2](https://open.spotify.com/track/3ydwQgmwcfaRrCtUChh581) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [B2](https://open.spotify.com/album/3DVy3TLaPqGLAZOehbbgXD) | 3:50 | 2022-11-14 | 2022-12-16 |
 | [Badi 7efyan](https://open.spotify.com/track/0jCo4rohuFfNSXSluXaw8i) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Badi 7efyan](https://open.spotify.com/album/3t1nl0L9oxhZwm12EQijip) | 2:39 | 2022-11-14 | 2023-10-27 |
 | [Baghi Ntoub](https://open.spotify.com/track/4ZqfS1PEQlNmfKNUqPXmYr) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1), [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Baghi Ntoub](https://open.spotify.com/album/4Qy0HAqDOh20b7ss1YWbJI) | 2:42 | 2023-09-29 | 2023-12-08 |
+| [Bassel](https://open.spotify.com/track/6uhfmvc5GPRVL4IHx1bAGh) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [Bassel](https://open.spotify.com/album/4rNeIggHAWNZ7djqC5N8wr) | 2:36 | 2024-01-31 |  |
 | [BASSIR](https://open.spotify.com/track/4hRA3vfdnueQ1jUtzXVyKX) | [LMEHDI](https://open.spotify.com/artist/0harAEshGekJSaQaEXI8D9) | [BASSIR](https://open.spotify.com/album/5TE2KUnFdyyiSua2e5Z3hC) | 2:12 | 2022-12-29 | 2023-03-03 |
 | [Bdaya](https://open.spotify.com/track/5blyt2tipjAs66kMpbftDH) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [JOM3A](https://open.spotify.com/album/56xy5BFJX3K1mlQJQ2zWHq) | 3:00 | 2023-03-11 | 2023-03-16 |
 | [BEAST MODE](https://open.spotify.com/track/0SQPT4wCGUqS2xecqBSwjl) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [VENOM](https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe) | 3:26 | 2022-11-14 | 2022-12-30 |
@@ -43,7 +44,7 @@
 | [Chill](https://open.spotify.com/track/5NwA0hLKYsFcU3FVD5hD03) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Chill](https://open.spotify.com/album/6Nsop9onhJBLRsoQShepX8) | 2:57 | 2022-11-14 | 2022-12-13 |
 | [Chno Raytra](https://open.spotify.com/track/3rXQbN6yonMWT3jdwULWPB) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Caprice](https://open.spotify.com/artist/2lNwwXvAzZbmhmXReW27Sr) | [X TAPE CHROMOSOME](https://open.spotify.com/album/5ISYnbsE4c9II6aRyfbkNF) | 4:03 | 2023-07-27 | 2023-10-01 |
 | [CHOUHA](https://open.spotify.com/track/2T8BFVrjpTuZgsp1nudcw9) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF), [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4) | [CHOUHA](https://open.spotify.com/album/21OeFv2xCNILgZWPJYJ4We) | 3:12 | 2023-12-28 | 2024-01-04 |
-| [Committed \(feat\. Snor\)](https://open.spotify.com/track/73IXYvDB27EDIh3LtbDG2g) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 2:01 | 2023-06-22 |  |
+| [Committed \(feat\. Snor\)](https://open.spotify.com/track/73IXYvDB27EDIh3LtbDG2g) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 2:01 | 2023-06-22 | 2024-02-01 |
 | [COUNT ON ME](https://open.spotify.com/track/1kHEexeZFetNsQ2fIJbFKL) | [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [COUNT ON ME](https://open.spotify.com/album/5hhvWbwoZc4k3S4V8K54ig) | 2:47 | 2024-01-13 |  |
 | [Courir](https://open.spotify.com/track/5ayUHqkpxxyBOWelJjnaTD) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 2\)](https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1) | 3:28 | 2022-11-14 | 2022-11-26 |
 | [Dawk Lya](https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Dawk Lya](https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP) | 2:28 | 2022-11-14 | 2024-01-05 |

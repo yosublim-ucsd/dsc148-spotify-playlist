@@ -210,7 +210,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 170322,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/32tHrjigGTtQ5pRsUb2Sbv"
@@ -11054,6 +11054,24 @@
       "duration_ms": 243460,
       "name": "New Skies",
       "url": "https://open.spotify.com/track/7dhzAFqDTOTUNVnb7rkygk"
+    },
+    {
+      "album": {
+        "name": "Nicely",
+        "url": "https://open.spotify.com/album/56KdLLhVf6YC3YyMz6ArmC"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170859,
+      "name": "Nicely",
+      "url": "https://open.spotify.com/track/4cBCYWUCQ6DKyfWINpQuOz"
     },
     {
       "album": {

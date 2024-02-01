@@ -1,12 +1,12 @@
 {
   "description": "remember when we were dark and brooding. Cover: CHVRCHES\n",
-  "num_followers": 28580,
+  "num_followers": 28604,
   "original_name": "bitter/sweet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDYyMGJlNzBhZWFlY2M2MDk0YzdmNmFmYjMxM2UyOGYwYjIyOTYx",
+  "snapshot_id": "MCw4ZjAwNDE2ZTZjMTBkMmIzN2EzZDQ4ODE3ODI3MGZkMGFmMWUxMjlm",
   "tracks": [
     {
       "added_at": "2023-11-15 01:22:48",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-11-15 01:22:48",
       "album": {
-        "name": "Verde",
-        "url": "https://open.spotify.com/album/6sUm1weVRMmT05silXrYzR"
-      },
-      "artists": [
-        {
-          "name": "Tei Shi",
-          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
-        }
-      ],
-      "duration_ms": 291222,
-      "name": "Bassically",
-      "url": "https://open.spotify.com/track/0jGayco2vDiq3kMpPFN2bI"
-    },
-    {
-      "added_at": "2023-11-15 01:22:48",
-      "album": {
         "name": "The Fool",
         "url": "https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 204306,
       "name": "OctaHate",
       "url": "https://open.spotify.com/track/7JVfDagtyWy9bYsaf37H9K"
+    },
+    {
+      "added_at": "2023-11-15 01:22:48",
+      "album": {
+        "name": "Verde",
+        "url": "https://open.spotify.com/album/6sUm1weVRMmT05silXrYzR"
+      },
+      "artists": [
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        }
+      ],
+      "duration_ms": 291222,
+      "name": "Bassically",
+      "url": "https://open.spotify.com/track/0jGayco2vDiq3kMpPFN2bI"
     },
     {
       "added_at": "2023-11-15 01:22:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,677 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,707 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 49 | [What Love \(feat\. Calboy\)](https://open.spotify.com/track/5jMFydUe95EhbZ6lP0Xfww) | [Laney Keyz](https://open.spotify.com/artist/2MNOwWX8xpY7yqZezNVdMC), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [What Love \(feat\. Calboy\)](https://open.spotify.com/album/4oomgcSMVy7zPCwnZmPQJY) | 3:10 |
 | 50 | [Bounty](https://open.spotify.com/track/1q8rLyDciaRexy0AzNF0Eg) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ) | [Bounty](https://open.spotify.com/album/6jiBo4BcX2JkH8SPGEmrrS) | 3:46 |
 
-Snapshot ID: `MCwyMWZlODA4MjIzYTQ0Yjc2MTFlNGUyY2Q3OTdiOThiNmRmNDVhY2M4`
+Snapshot ID: `MCxkNzA3YzQ5NWQxZmM3ZjVjZGE3ZWMwZjNjYzg1MTdlZTgyZDcwNzI4`

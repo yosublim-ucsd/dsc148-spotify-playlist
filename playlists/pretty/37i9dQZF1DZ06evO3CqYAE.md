@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,794 likes - 47 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,810 likes - 47 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 31 | [Good Father](https://open.spotify.com/track/0yJHx5EKGIoJ7E5fJjyvWQ) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Good Father](https://open.spotify.com/album/5k84qngUSbyctnYupuRAyI) | 5:31 |
 | 32 | [Igwe](https://open.spotify.com/track/0bmIKllyl9bZhNxt2jgvzA) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 5:27 |
 | 33 | [Oyoyo Chukwu](https://open.spotify.com/track/5WR1mNYq5TZ91wLUFdcRXZ) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Israel Dammy](https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a), [EeZee Tee](https://open.spotify.com/artist/25LbjRDnpYV85ipbuIV5s7) | [Oyoyo Chukwu](https://open.spotify.com/album/6LPvDzMH8QOzboO3gmm69l) | 5:17 |
-| 34 | [Trust](https://open.spotify.com/track/3RZoiOu3Pae30Cm11y4hwt) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Trust](https://open.spotify.com/album/0yedzr4B8mZkmcsugAuv2u) | 2:53 |
-| 35 | [Power Belongs To Jesus](https://open.spotify.com/track/5fqI7ZiaxhNAGDD2rO0v9R) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Power Belongs To Jesus](https://open.spotify.com/album/4XDq3mAaDCBSBJzRGszNoN) | 4:16 |
+| 34 | [Power Belongs To Jesus](https://open.spotify.com/track/5fqI7ZiaxhNAGDD2rO0v9R) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Power Belongs To Jesus](https://open.spotify.com/album/4XDq3mAaDCBSBJzRGszNoN) | 4:16 |
+| 35 | [Trust](https://open.spotify.com/track/3RZoiOu3Pae30Cm11y4hwt) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Trust](https://open.spotify.com/album/0yedzr4B8mZkmcsugAuv2u) | 2:53 |
 | 36 | [Bor Ekom](https://open.spotify.com/track/6seV1XGapGdXZ4jn7VNHAe) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:07 |
 | 37 | [Imela](https://open.spotify.com/track/2CtReCMMQ7C7FiN1hbFWQ3) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 4:11 |
 | 38 | [Jesus Never Fails](https://open.spotify.com/track/14l8WcALXlYW0wmLn27M8I) | [MaryJane Nweke](https://open.spotify.com/artist/7GcL0el74n5UvZY4mtyhaW), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Jesus Never Fails](https://open.spotify.com/album/0n1dN2pZ24kVPBoADqICfj) | 5:28 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 46 | [How great You are](https://open.spotify.com/track/6PAzJWolKN6mcZrZvqu26j) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Most High](https://open.spotify.com/album/4DmICvVxirmdQzjbuXEfzS) | 5:19 |
 | 47 | [NaNa Owei \(feat\. Mercy Chinwo\)](https://open.spotify.com/track/1st08MRE0BCD7CwwlEL8oi) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Ready](https://open.spotify.com/album/3ZDKzS3dLFIo0UErHknL2A) | 4:08 |
 
-Snapshot ID: `Mjg0NDM2MzksMDAwMDAwMDA3OGVhM2YyOTUxNGE3Nzk0YTMyYjVmNTFmMjg4NjJiZg==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDAzYWYxMTU2ZTVmMGJlMWY1ZTgyMzUwYWIxNjJhODEzNw==`

@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 129492,
+  "num_followers": 129538,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjI2YTk4ZmE0ODNjYzUwNWMwZGIxYjMwMjVjMTIzYjZjOWYzZjYx",
+  "snapshot_id": "MCxkNzJiMDdhZGExMmQ2NDgxOWU3MzgzYjQzNmM2NDczMmVmY2QwYmY1",
   "tracks": [
     {
       "added_at": "2024-01-29 16:43:24",
@@ -587,6 +587,30 @@
     {
       "added_at": "2024-01-29 16:43:24",
       "album": {
+        "name": "Lista De Contato",
+        "url": "https://open.spotify.com/album/03uQr7q1MyOiW7qOQ1atNG"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 122826,
+      "name": "Lista De Contato",
+      "url": "https://open.spotify.com/track/6HQG4Qek65p5TwbMalqN1M"
+    },
+    {
+      "added_at": "2024-01-29 16:43:24",
+      "album": {
         "name": "THE BOX MEDLEY 5",
         "url": "https://open.spotify.com/album/6qqxoTPnsQM5yHapA7WF6u"
       },
@@ -615,30 +639,6 @@
       "duration_ms": 189658,
       "name": "THE BOX MEDLEY 5",
       "url": "https://open.spotify.com/track/35djHlD5VERjzdKzFknuUs"
-    },
-    {
-      "added_at": "2024-01-29 16:43:24",
-      "album": {
-        "name": "Lista De Contato",
-        "url": "https://open.spotify.com/album/03uQr7q1MyOiW7qOQ1atNG"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Ryu, the Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 122826,
-      "name": "Lista De Contato",
-      "url": "https://open.spotify.com/track/6HQG4Qek65p5TwbMalqN1M"
     },
     {
       "added_at": "2024-01-29 16:43:24",
@@ -803,6 +803,50 @@
     {
       "added_at": "2024-01-29 16:43:24",
       "album": {
+        "name": "PERSONNALITE",
+        "url": "https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj"
+      },
+      "artists": [
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        }
+      ],
+      "duration_ms": 208910,
+      "name": "PERSONNALITE",
+      "url": "https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6"
+    },
+    {
+      "added_at": "2024-01-29 16:43:24",
+      "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "777-666",
+      "url": "https://open.spotify.com/track/3sGcETRMuAgcPgjDpIkgMn"
+    },
+    {
+      "added_at": "2024-01-29 16:43:24",
+      "album": {
         "name": "THE BOX MEDLEY 6",
         "url": "https://open.spotify.com/album/2PmiISLrQtoayEgazfOEXQ"
       },
@@ -831,50 +875,6 @@
       "duration_ms": 241799,
       "name": "THE BOX MEDLEY 6",
       "url": "https://open.spotify.com/track/507tluWzOtxx58Kb13L9qu"
-    },
-    {
-      "added_at": "2024-01-29 16:43:24",
-      "album": {
-        "name": "M\u00e1quina do Tempo",
-        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "777-666",
-      "url": "https://open.spotify.com/track/3sGcETRMuAgcPgjDpIkgMn"
-    },
-    {
-      "added_at": "2024-01-29 16:43:24",
-      "album": {
-        "name": "PERSONNALITE",
-        "url": "https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj"
-      },
-      "artists": [
-        {
-          "name": "Kant",
-          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
-        },
-        {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
-        },
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        },
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        }
-      ],
-      "duration_ms": 208910,
-      "name": "PERSONNALITE",
-      "url": "https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6"
     },
     {
       "added_at": "2024-01-29 16:43:24",
@@ -1647,26 +1647,26 @@
     {
       "added_at": "2024-01-29 16:43:24",
       "album": {
-        "name": "Maleta",
-        "url": "https://open.spotify.com/album/24blqOj4cEuM66nAcemOHD"
+        "name": "\u00c9TPM?!",
+        "url": "https://open.spotify.com/album/2LT3aMTtIP0KMyKlMLNkXV"
       },
       "artists": [
         {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
         },
         {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
         },
         {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         }
       ],
-      "duration_ms": 247680,
-      "name": "Maleta",
-      "url": "https://open.spotify.com/track/4PZ3p6D3GQcpiaFirr3VNW"
+      "duration_ms": 159010,
+      "name": "Tapa",
+      "url": "https://open.spotify.com/track/3IlV0oQTh8DrBp38CVJ91p"
     },
     {
       "added_at": "2024-01-29 16:43:24",
@@ -1695,26 +1695,26 @@
     {
       "added_at": "2024-01-29 16:43:24",
       "album": {
-        "name": "\u00c9TPM?!",
-        "url": "https://open.spotify.com/album/2LT3aMTtIP0KMyKlMLNkXV"
+        "name": "Maleta",
+        "url": "https://open.spotify.com/album/24blqOj4cEuM66nAcemOHD"
       },
       "artists": [
         {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
         },
         {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
         }
       ],
-      "duration_ms": 159010,
-      "name": "Tapa",
-      "url": "https://open.spotify.com/track/3IlV0oQTh8DrBp38CVJ91p"
+      "duration_ms": 247680,
+      "name": "Maleta",
+      "url": "https://open.spotify.com/track/4PZ3p6D3GQcpiaFirr3VNW"
     },
     {
       "added_at": "2024-01-29 16:43:24",
@@ -2035,6 +2035,34 @@
     {
       "added_at": "2024-01-29 16:43:24",
       "album": {
+        "name": "Xeque-Mate (feat. Paiva Prod)",
+        "url": "https://open.spotify.com/album/5z6BDql4k4zPWOAUjI73Ns"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Xeque-Mate (feat. Paiva Prod)",
+      "url": "https://open.spotify.com/track/3grsMTKtSZt93yuC76W2U9"
+    },
+    {
+      "added_at": "2024-01-29 16:43:24",
+      "album": {
         "name": "Reuni\u00e3o Dos Cria",
         "url": "https://open.spotify.com/album/1isnAVgrx4jWF2O66HzDl5"
       },
@@ -2067,34 +2095,6 @@
       "duration_ms": 228283,
       "name": "Reuni\u00e3o Dos Cria",
       "url": "https://open.spotify.com/track/3Kk5YDf8pTK4TwQyWkBex5"
-    },
-    {
-      "added_at": "2024-01-29 16:43:24",
-      "album": {
-        "name": "Xeque-Mate (feat. Paiva Prod)",
-        "url": "https://open.spotify.com/album/5z6BDql4k4zPWOAUjI73Ns"
-      },
-      "artists": [
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Xeque-Mate (feat. Paiva Prod)",
-      "url": "https://open.spotify.com/track/3grsMTKtSZt93yuC76W2U9"
     },
     {
       "added_at": "2024-01-29 16:43:24",

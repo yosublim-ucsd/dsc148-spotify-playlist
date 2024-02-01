@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,865 likes - 331 songs - 20 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,954 likes - 331 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 118 | [Christian](https://open.spotify.com/track/4YycfOjf69dXYs4hy4Qeqr) | [China Crisis](https://open.spotify.com/artist/0WUphJOGHE5i95IeR87hsO) | [Singing The Praises Of Finer Things](https://open.spotify.com/album/79stlPh6R05UMR98gZ1Le1) | 4:53 |
 | 119 | [Body Was Made](https://open.spotify.com/track/4ESJ2wfMbkX5nGzHfBfGR6) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Sex Education Original Soundtrack](https://open.spotify.com/album/0d5VbUpz8dcGC17Jkm3og4) | 3:34 |
 | 120 | [Infected](https://open.spotify.com/track/7mqRfGV4RarfX8Pgl5BIqT) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Infected](https://open.spotify.com/album/13uzNaVoUa39KlxEtE8Fo6) | 4:48 |
-| 121 | [Pumping On Your Stereo](https://open.spotify.com/track/55QdsyZaO7av9MaA8seJoT) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [Supergrass](https://open.spotify.com/album/7jSxr2MDcrNoOQOxWYg8zr) | 3:20 |
+| 121 | [Pumping on Your Stereo](https://open.spotify.com/track/5cSXn9ozPu3jNT2lxWLOCT) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [Supergrass](https://open.spotify.com/album/3XNEqXHHt9KIT2vOPfwx5m) | 3:20 |
 | 122 | [Lo Stregone \(Witch Doctor\)](https://open.spotify.com/track/2OVXXzyXBnqbbPD0bO5K5o) | [Fred Buscaglione](https://open.spotify.com/artist/2OZgYaqlFRoRyycKkIvkSa) | [Fred Buscaglione \- Italian Classics](https://open.spotify.com/album/6TYuXnPSzkkeUkawygbegs) | 2:45 |
 | 123 | [Witness \(1 Hope\)](https://open.spotify.com/track/5KLcIahbdBJeZ8tHAyYMpN) | [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY) | [Run Come Save Me](https://open.spotify.com/album/5U7ovzAy1H5vydRxNNuSl1) | 4:14 |
 | 124 | [Ave Maria](https://open.spotify.com/track/6zKMoFn8gTrtjhRy0qS0mU) | [Vladimir Vavilov](https://open.spotify.com/artist/4jgVsrBg6BsOhfNUc5k0O6), [Cyndia Quinn](https://open.spotify.com/artist/5e7IqF9Uj2EppnSjwPJfnZ) | [Ave Maria](https://open.spotify.com/album/1jIdqcjBFbb7xJhTxA9Iy7) | 2:57 |
@@ -340,4 +340,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 330 | [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 |
 | 331 | [Crimson & Clover](https://open.spotify.com/track/6FEKEO3y7QFcMwoGeR0GtU) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Tommy James and The Shondells: Anthology](https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN) | 3:29 |
 
-Snapshot ID: `MCwyMDc3OTIyNTRmMTllOTY0ODY3MjEwZGRlZThiMDNjZjY4MDkxZTg4`
+Snapshot ID: `MCxiYzU4NjM4YjlhOTY0OGFiOWY0YjA2MjcyMjI4NDE5NmQ3YzNkZGI2`

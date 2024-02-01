@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 335173,
+  "2024-02-01": 335313,
   "date_first_scraped": "2022-09-15",
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
   "name": "Louvando no Tr\u00e2nsito",
@@ -687,6 +687,24 @@
       "duration_ms": 289772,
       "name": "Comigo Est\u00e1s - Ao Vivo",
       "url": "https://open.spotify.com/track/2eDcy7W8SCXkfe8IxdNu28"
+    },
+    {
+      "album": {
+        "name": "Momentos (Vol. 2)",
+        "url": "https://open.spotify.com/album/4JcaJ35kjjVoOb3vmlLb3S"
+      },
+      "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321774,
+      "name": "Como Na Primeira Vez",
+      "url": "https://open.spotify.com/track/15fLtBpGonhnP1Lxd6fq6v"
     },
     {
       "album": {
@@ -3909,7 +3927,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 193000,
       "name": "Quem Te Guarda \u00c9 Deus",
       "url": "https://open.spotify.com/track/2jK5rOxNUXibAJrHaFVDak"

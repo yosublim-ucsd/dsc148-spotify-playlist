@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,151 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,160 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 45 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 |
 | 46 | [Cow Palace](https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Haunted House of House](https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n) | 5:46 |
 | 47 | [Lotus Bass](https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4) | [Aroma Pitch](https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC) | [Interlife](https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1) | 4:41 |
-| 48 | [Dubmission \- Original](https://open.spotify.com/track/23AKDhAiWJSyLOdn5AB9Gs) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Dubmission \(Original Edit\)](https://open.spotify.com/album/3gMvOnZHnahNKmw1k5MqJ4) | 6:35 |
-| 49 | [The Ganga river unpolluted once more](https://open.spotify.com/track/0JWrWRvxPc86sLSfnyhCBv) | [Aron Estocolmo](https://open.spotify.com/artist/2QU3bcawUYfHbcPmWPHtra) | [In search of Moksha..\. Or something of the kind](https://open.spotify.com/album/3CtCE0cNY4AQZTr1Jdyos2) | 6:37 |
+| 48 | [The Ganga river unpolluted once more](https://open.spotify.com/track/0JWrWRvxPc86sLSfnyhCBv) | [Aron Estocolmo](https://open.spotify.com/artist/2QU3bcawUYfHbcPmWPHtra) | [In search of Moksha..\. Or something of the kind](https://open.spotify.com/album/3CtCE0cNY4AQZTr1Jdyos2) | 6:37 |
+| 49 | [Dubmission \- Original](https://open.spotify.com/track/23AKDhAiWJSyLOdn5AB9Gs) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Dubmission \(Original Edit\)](https://open.spotify.com/album/3gMvOnZHnahNKmw1k5MqJ4) | 6:35 |
 | 50 | [Simple Child](https://open.spotify.com/track/091XExKLCNuX2sIJ3UvP1X) | [Meloko](https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg), [LKF Project](https://open.spotify.com/artist/2RuOG1js6Y29wWnyN7xx2d), [Selim Sivade](https://open.spotify.com/artist/6zQCqwr5oCLdfbvY3n3LIn), [Rondo Mo](https://open.spotify.com/artist/0irPzWV6n0kStz8rffpERG) | [Simple Child](https://open.spotify.com/album/3YRYyLIIgyWaCZ5okstYIi) | 6:16 |
 
-Snapshot ID: `MCw2MDhhNjVkZDVhYmE2NjM0NjJkMWRkOWIyNTZiNTZhNzFjN2RlYzc2`
+Snapshot ID: `MCw3OGNkMjk0ZGM5YTVkZjQ5ZmI0OGFlNjMyYzEyNzA4YjhiNzIyOWE4`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-243 songs - 16 hr 29 min
+244 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Beat Of Your Heart](https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Beat Of Your Heart](https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr) | 3:29 | 2024-01-26 |  |
 | [Beggin' You \(Leftwing : Kody Remix\)](https://open.spotify.com/track/4ZpFJCzEFnXRtxRW4FBB5R) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR) | [Beggin' You \(Leftwing : Kody Remix\)](https://open.spotify.com/album/1TtWMY6skAo4XVB6Jf6LAf) | 3:36 | 2023-12-01 |  |
 | [Believe Me \- Disco Radio Mix](https://open.spotify.com/track/0c4SSUBtJeaBVxFE3Gtusr) | [Discotron](https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf), [Sandy's Groove](https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd), [The Backup Plan](https://open.spotify.com/artist/2OHdFbFCCK7cuJS02RHbwh) | [Believe Me](https://open.spotify.com/album/0gvA9sEQqxehD0m0BHHEPm) | 3:07 | 2023-05-19 | 2023-07-29 |
+| [Best Of My Love](https://open.spotify.com/track/6xUNDUAOBovyRz1MnvMKAU) | [Revival](https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk), [Imaani](https://open.spotify.com/artist/0dQzwkQ8ESNa3Uz9NIWEEi) | [Best Of My Love](https://open.spotify.com/album/5MmHGtK6mKVpyVNYVdXf48) | 3:07 | 2024-01-26 |  |
 | [Better Times](https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Better Times](https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T) | 3:19 | 2023-06-09 |  |
 | [Bless Me \(with Discrete\)](https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov) | [Bless Me \(with Discrete\)](https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq) | 3:10 | 2023-06-16 |  |
 | [Boogie Woogie](https://open.spotify.com/track/71rTjuTsuh03etRwpIOPRj) | [Shaqdi](https://open.spotify.com/artist/4dpL6PzaCCpEekHtTHu3CN), [David Blazer](https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6), [Birocratic](https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB) | [Boogie Woogie](https://open.spotify.com/album/7hRR0f0wMiV0Th2fceOHxn) | 2:53 | 2023-05-19 | 2023-07-29 |
@@ -103,7 +104,7 @@
 | [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 | 2023-05-19 |  |
 | [I Want You](https://open.spotify.com/track/2oUhuL5XRBFeEUTHTS9WWJ) | [YNOT](https://open.spotify.com/artist/58ieJio1kM9TQ1DhJyA1Al) | [I Want You](https://open.spotify.com/album/07K8rq5ZC7Ux7p0ZDJpMQ1) | 2:54 | 2021-07-24 | 2023-03-15 |
 | [I Want You](https://open.spotify.com/track/3qZ5l212uLlZ2rRSa44K1h) | [YNOT](https://open.spotify.com/artist/58ieJio1kM9TQ1DhJyA1Al) | [I Want You](https://open.spotify.com/album/0WvHI2AeQ1CXfVeUYKRXj4) | 2:54 | 2022-06-20 | 2023-06-18 |
-| [I'm A Woman](https://open.spotify.com/track/5dcpLmwjST0jOLvl7S9eRW) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [I'm A Woman](https://open.spotify.com/album/6qbRtaziTqzvpykUlOczqL) | 2:27 | 2023-07-14 |  |
+| [I'm A Woman](https://open.spotify.com/track/5dcpLmwjST0jOLvl7S9eRW) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [I'm A Woman](https://open.spotify.com/album/6qbRtaziTqzvpykUlOczqL) | 2:27 | 2023-07-14 | 2024-02-01 |
 | [I've Been In Love](https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [I've Been In Love](https://open.spotify.com/album/0F3os1tiKfDFdJLUo2K1DQ) | 2:49 | 2023-06-23 | 2023-08-14 |
 | [I've Been In Love](https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:49 | 2023-08-11 |  |
 | [If You Want It](https://open.spotify.com/track/5rFEAVDRVOBZFATcZzmOLF) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [If You Want It](https://open.spotify.com/album/7J2SojuAJUqJWQg9828Equ) | 3:24 | 2023-06-30 | 2023-09-16 |

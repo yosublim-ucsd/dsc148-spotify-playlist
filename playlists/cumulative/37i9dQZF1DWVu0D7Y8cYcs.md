@@ -4,7 +4,7 @@
 
 > Come on, man\. Just smile!
 
-91 songs - 5 hr 19 min
+92 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Blessed \(feat\. Damian Marley\)](https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:22 | 2021-10-24 |  |
 | [Blessings](https://open.spotify.com/track/28XBIzpPzfgXwrno4B8U1f) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Blessings](https://open.spotify.com/album/6YvdsRy3lNHkjwK7L4ojMi) | 3:08 | 2021-10-24 |  |
 | [Burning](https://open.spotify.com/track/2ur8F1rb1lsxpZA9UJEDfl) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Burning](https://open.spotify.com/album/1gCBAfrnTTAFRthxRqp0Rj) | 3:01 | 2021-10-24 | 2024-01-29 |
+| [Burning](https://open.spotify.com/track/4y6JNAtj1M3pEScdp3II5n) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Burning](https://open.spotify.com/album/5HuUgDJo1huBlghzPrKRyO) | 3:01 | 2022-10-13 |  |
 | [Chance](https://open.spotify.com/track/5rCFLQB74RmHwiDe6YL7qx) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:45 | 2022-06-20 | 2023-11-08 |
 | [Chance](https://open.spotify.com/track/6RdojpAhP5ch1SznHxVyjC) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Chance](https://open.spotify.com/album/2JU83LnIrQS9kb3YS1B1ns) | 3:45 | 2021-10-24 | 2022-07-29 |
 | [Come Around](https://open.spotify.com/track/1a64u7QtJ9yDwpNyfDrZTj) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Collie Buddz](https://open.spotify.com/album/2BGWnHTib774X9f7RPoato) | 3:41 | 2021-10-24 |  |
@@ -59,7 +60,7 @@
 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 | 2021-10-24 |  |
 | [One Love](https://open.spotify.com/track/7cRTzS9N5Mn25ZZkzmp6Uy) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Marley OST](https://open.spotify.com/album/3GNhjIdkd87lLc19w2L1jS) | 2:52 | 2021-10-24 | 2022-07-29 |
 | [One Love \- Medley](https://open.spotify.com/track/2V2by56rK60UxMHPtG02OJ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Marley \(The Original Soundtrack\)](https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx) | 2:52 | 2022-10-13 | 2022-11-13 |
-| [One Love / People Get Ready \- Medley](https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 2:52 | 2022-06-20 |  |
+| [One Love / People Get Ready](https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 2:52 | 2022-06-20 |  |
 | [Pressure Drop](https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 2:57 | 2022-06-20 | 2023-11-05 |
 | [Pressure Drop](https://open.spotify.com/track/65712VnJQ2jx2MrmIZzfhN) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [The Best of The Maytals](https://open.spotify.com/album/1B30XX0WLRtky9va3mGmiE) | 3:00 | 2022-10-13 | 2022-11-12 |
 | [Pressure Drop](https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj) | 2:54 | 2021-10-24 | 2022-07-29 |
@@ -85,7 +86,7 @@
 | [True Love](https://open.spotify.com/track/2Y9WfjpGt3kzv7cbRl3s3O) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE) | [Peace in a Time of War](https://open.spotify.com/album/4Wps42vdfVXj2aJW4mf2yn) | 4:16 | 2022-06-20 | 2022-11-11 |
 | [True To Myself](https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:45 | 2021-10-24 |  |
 | [Ups And Downs](https://open.spotify.com/track/50XYu0huetyDixA0Nvv6S9) | [Hector Roots Lewis](https://open.spotify.com/artist/3SavOzufIaXEFhSy4MofAw) | [Ups And Downs](https://open.spotify.com/album/11wUMGuN8BrCaeAdjbriic) | 3:34 | 2022-06-20 | 2022-12-06 |
-| [Warm & Easy](https://open.spotify.com/track/2K02J8shfay33u49WhlaZg) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Warm & Easy](https://open.spotify.com/album/3IkZdCpD7KXA0gMA0REKLl) | 4:55 | 2021-10-24 |  |
+| [Warm & Easy](https://open.spotify.com/track/2K02J8shfay33u49WhlaZg) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Warm & Easy](https://open.spotify.com/album/3IkZdCpD7KXA0gMA0REKLl) | 4:55 | 2021-10-24 | 2024-02-01 |
 | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t) | 4:13 | 2022-06-20 |  |
 | [Well Excellent](https://open.spotify.com/track/7uX7niEFrJFmj3SFHsnwkL) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Jr\. Demus](https://open.spotify.com/artist/2P7kXO4UzC2NHSHRmtdWlb) | [Well Excellent](https://open.spotify.com/album/4of34K5GjdYXRcfLKwjHKG) | 3:36 | 2021-10-24 | 2022-09-05 |
 | [Well Excellent](https://open.spotify.com/track/2Hx9cYkT5WGVEwx0CgZluk) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Junior Demus](https://open.spotify.com/artist/5IFrtFQVF41xZVKgfCtnlj) | [Soundkilla Mindset](https://open.spotify.com/album/43b7p4ETTf4892gZ3UmO8K) | 3:36 | 2022-10-13 |  |

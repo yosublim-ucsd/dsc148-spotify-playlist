@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: dadá Joãozinho / Arte: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,097 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,104 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 21 | [tudo que eu faço](https://open.spotify.com/track/4RDOaLRGMorHJpAndOgWo3) | [Rô](https://open.spotify.com/artist/0DuebGyOlpHONL8lMizMGQ) | [tudo que eu faço](https://open.spotify.com/album/5fj9SAx9TZ6CwSSc8Tg219) | 2:23 |
 | 22 | [Corro Atrás](https://open.spotify.com/track/3VJUR4rLMi2THddhBG5oiU) | [Laura Padaratz](https://open.spotify.com/artist/1CX0AnKbxgsOWp2bqVydqk) | [Corro Atrás](https://open.spotify.com/album/50Rhfq6iyQcPjIJMiOXLgp) | 3:45 |
 | 23 | [Embalo](https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c) | [TIRI](https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab) | [Embalo](https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ) | 3:21 |
-| 24 | [Bate Coração](https://open.spotify.com/track/3cKNmRGrd77JZ0PQVXPUhN) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk), [Lucas Sfair](https://open.spotify.com/artist/7shKx1EfxkHU1nDqBzQQaq) | [Bate Coração](https://open.spotify.com/album/59fy8PyhcS41SP2Go7xLEE) | 2:57 |
-| 25 | [Lágrima na Língua](https://open.spotify.com/track/1LpASqV05cNKzVc2wSrFBc) | [Pedro Fonte](https://open.spotify.com/artist/6ANqnotPsCkBCoo4lqXNpm), [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Luz Na Madrugada / Late Night Light](https://open.spotify.com/album/5SPqZ8SevS2ZEbgP7T1Haq) | 3:35 |
+| 24 | [Medo de Mim](https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0) | [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Futurea](https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K) | 2:46 |
+| 25 | [Bate Coração](https://open.spotify.com/track/3cKNmRGrd77JZ0PQVXPUhN) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk), [Lucas Sfair](https://open.spotify.com/artist/7shKx1EfxkHU1nDqBzQQaq) | [Bate Coração](https://open.spotify.com/album/59fy8PyhcS41SP2Go7xLEE) | 2:57 |
 | 26 | [Repara](https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC) | [Maielle](https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX) | [Repara](https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk) | 2:34 |
-| 27 | [Medo de Mim](https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0) | [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Futurea](https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K) | 2:46 |
+| 27 | [Lágrima na Língua](https://open.spotify.com/track/1LpASqV05cNKzVc2wSrFBc) | [Pedro Fonte](https://open.spotify.com/artist/6ANqnotPsCkBCoo4lqXNpm), [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Luz Na Madrugada / Late Night Light](https://open.spotify.com/album/5SPqZ8SevS2ZEbgP7T1Haq) | 3:35 |
 | 28 | [Mete o Pé](https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Mete o Pé](https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n) | 2:22 |
 | 29 | [Oxi \(Dio Mio!\)](https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX) | [Belita](https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR) | [Oxi \(Dio Mio!\)](https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6) | 2:40 |
 | 30 | [Talante](https://open.spotify.com/track/5P1WNHW4nUcBDFQPXHbSfR) | [Dani\-Vie](https://open.spotify.com/artist/2RrEvDsnA3z244bN2Z32iM), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Minha Cara](https://open.spotify.com/album/7asVGLUfBi2Fxwb818FCzs) | 3:19 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 33 | [Noite Passada](https://open.spotify.com/track/5mfIhpw2TWDFaHdZ1GKo3J) | [THAIS](https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29) | [Noite Passada](https://open.spotify.com/album/44XRxT09VtGgaBQcIBHMiU) | 2:45 |
 | 34 | [Beija e Arranha](https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv) | [Beija e Arranha](https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3) | 2:52 |
 | 35 | [Peço Pra Você](https://open.spotify.com/track/2gHdwywG9tXQrb06feK7NP) | [Camilla Leonel](https://open.spotify.com/artist/7gOLPtcQXX082ZRRur3sZx), [SCALON](https://open.spotify.com/artist/1C71ve72DbTuQNcyH8cV0N) | [Peço Pra Você](https://open.spotify.com/album/2r1KTbIu4SQDhlYX2jKSwS) | 3:00 |
-| 36 | [Palavra de Amor](https://open.spotify.com/track/7z8gTjbcWPazkxjybrwV3K) | [Ítallo](https://open.spotify.com/artist/3Z8iiGCNdH9SM2dxr0WZp9) | [Tarde no Walkiria](https://open.spotify.com/album/3d9WQ7ir8GSaHmMMog7qfr) | 3:59 |
-| 37 | [Quando Eu Falei Pra Ela](https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh) | [Dani Bessa](https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29) | [Quando Eu Falei Pra Ela](https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY) | 3:03 |
+| 36 | [Quando Eu Falei Pra Ela](https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh) | [Dani Bessa](https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29) | [Quando Eu Falei Pra Ela](https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY) | 3:03 |
+| 37 | [Palavra de Amor](https://open.spotify.com/track/7z8gTjbcWPazkxjybrwV3K) | [Ítallo](https://open.spotify.com/artist/3Z8iiGCNdH9SM2dxr0WZp9) | [Tarde no Walkiria](https://open.spotify.com/album/3d9WQ7ir8GSaHmMMog7qfr) | 3:59 |
 | 38 | [Febre](https://open.spotify.com/track/5JpVjKEfkd2xPc4pkiMqaG) | [Turmallina](https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd) | [Febre](https://open.spotify.com/album/6HEzMbPopwfY36iXBtVxzi) | 2:54 |
 | 39 | [Eclipse](https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr) | [vicro](https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF) | [Eclipse](https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv) | 3:50 |
 | 40 | [4 Da Tarde](https://open.spotify.com/track/4qnnh8MopXJCqj8doN5dok) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [4 Da Tarde](https://open.spotify.com/album/3f8B8HAmQquLVXVkKuMms0) | 2:48 |
@@ -57,14 +57,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 47 | [GELO DE COCO](https://open.spotify.com/track/6BnwuIoxNjTJWjlzOcr7uu) | [Verdan](https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y) | [GELO DE COCO](https://open.spotify.com/album/5a145zRGOMbgM7HUVnr0eK) | 2:46 |
 | 48 | [Como É Que Faz](https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx) | [Dogge](https://open.spotify.com/artist/7J39epHKObBDnn6fWcDHSF) | [Como É Que Faz](https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e) | 2:40 |
 | 49 | [reluz](https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu) | [Asú](https://open.spotify.com/artist/33niI54BdTNsMN18d5lLM0) | [reluz](https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM) | 3:13 |
-| 50 | [Ilusão](https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG) | [Malu Azevedo](https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R) | [Ilusão](https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm) | 3:21 |
-| 51 | [Fora de Série](https://open.spotify.com/track/321nrfz5F0VEjBhgo2mB8R) | [Mari Blue](https://open.spotify.com/artist/7aBl5vxlbA4Nr4A1pGZgbb) | [Fora de Série](https://open.spotify.com/album/0VtGpgS7R3h1miGNzGap30) | 3:18 |
+| 50 | [Fora de Série](https://open.spotify.com/track/321nrfz5F0VEjBhgo2mB8R) | [Mari Blue](https://open.spotify.com/artist/7aBl5vxlbA4Nr4A1pGZgbb) | [Fora de Série](https://open.spotify.com/album/0VtGpgS7R3h1miGNzGap30) | 3:18 |
+| 51 | [Ilusão](https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG) | [Malu Azevedo](https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R) | [Ilusão](https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm) | 3:21 |
 | 52 | [Fica Comigo](https://open.spotify.com/track/0ydIAs5h5yOkavyEf9Ewk0) | [Ana Lélia](https://open.spotify.com/artist/450LxlI65tn8OqyNr3XmOm) | [Fica Comigo](https://open.spotify.com/album/6rLTqTd9CpYuWxbVZRGPwS) | 3:38 |
 | 53 | [Você Chegou na Hora Certa](https://open.spotify.com/track/7DgVZXIT4FxG49oHTGNTen) | [Kélanie](https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c) | [Você Chegou na Hora Certa](https://open.spotify.com/album/2S6JVRCJQ4Jlg7kesk8cln) | 2:28 |
-| 54 | [Madá \- Remix](https://open.spotify.com/track/38E1DpBkqxCtyQvUxRDjLX) | [Davi Cartaxo](https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm) | [Madá \(Remix\)](https://open.spotify.com/album/4QZBoZNRwjoBlNmzmFoSS0) | 3:25 |
-| 55 | [Ideia Errada](https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ) | [Cigana](https://open.spotify.com/artist/5tV6Fk6pRBJIEi232T3IOL) | [Ideia Errada](https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR) | 3:59 |
-| 56 | [Brisa](https://open.spotify.com/track/4ylDsu5lFUMKtI675fAd3x) | [Nevilton](https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM) | [Brisa](https://open.spotify.com/album/7nzIvpG7y3ZK197oCc8RME) | 3:31 |
-| 57 | [Devaneios](https://open.spotify.com/track/1plbDctYNoH59WBmSxgLtL) | [Fraterna Trip](https://open.spotify.com/artist/2qJbdrwX5dlARkvyea6FfL), [John](https://open.spotify.com/artist/5ZKMbk9PmY14dHKhIViFlF) | [Devaneios](https://open.spotify.com/album/0phS3hYLWXplAnJ6iEqTJh) | 3:21 |
+| 54 | [Ideia Errada](https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ) | [Cigana](https://open.spotify.com/artist/5tV6Fk6pRBJIEi232T3IOL) | [Ideia Errada](https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR) | 3:59 |
+| 55 | [Madá \- Remix](https://open.spotify.com/track/38E1DpBkqxCtyQvUxRDjLX) | [Davi Cartaxo](https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm) | [Madá \(Remix\)](https://open.spotify.com/album/4QZBoZNRwjoBlNmzmFoSS0) | 3:25 |
+| 56 | [Devaneios](https://open.spotify.com/track/1plbDctYNoH59WBmSxgLtL) | [Fraterna Trip](https://open.spotify.com/artist/2qJbdrwX5dlARkvyea6FfL), [John](https://open.spotify.com/artist/5ZKMbk9PmY14dHKhIViFlF) | [Devaneios](https://open.spotify.com/album/0phS3hYLWXplAnJ6iEqTJh) | 3:21 |
+| 57 | [Brisa](https://open.spotify.com/track/4ylDsu5lFUMKtI675fAd3x) | [Nevilton](https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM) | [Brisa](https://open.spotify.com/album/7nzIvpG7y3ZK197oCc8RME) | 3:31 |
 | 58 | [ALÔ](https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a) | [YASSIQ](https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr) | [YASSIQ](https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl) | 2:08 |
 | 59 | [Surrender!](https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ) | [Bemti](https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW) | [Surrender!](https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x) | 3:09 |
 | 60 | [Jacquemus](https://open.spotify.com/track/3tWYqTOPHZjOdj2BBJjVR6) | [TOLENTINO](https://open.spotify.com/artist/3PMuzPH1ybLdzHnZFumKLZ) | [Jacquemus](https://open.spotify.com/album/7pL7EHos5wHLJPChNacH45) | 2:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 79 | [perigo !!!](https://open.spotify.com/track/20I1YGkQ5DSBrPK2Xlgkb1) | [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [Felipe Phyre](https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc) | [facetime](https://open.spotify.com/album/6kZxUbWswaoQjvBevsLaTN) | 3:01 |
 | 80 | [Fugitivos](https://open.spotify.com/track/0GiAndY0CP81poxiLL1Zwk) | [Taigo](https://open.spotify.com/artist/0mS8emPKSszolKVZVR9fO8) | [Fugitivos](https://open.spotify.com/album/5LuN9WfkZsmzL98d9XVgn9) | 3:29 |
 
-Snapshot ID: `MCxkYTJjZjEyN2MwYjAyOTc0ZjA1MDU0MjM0YWVhYjUzMTY1NjRjNDA0`
+Snapshot ID: `MCw1OWQzMDYwNjQ3NjY2OTg1ODYxMWUyMTQxM2I0OGI1OTVmNjc4ZWVm`

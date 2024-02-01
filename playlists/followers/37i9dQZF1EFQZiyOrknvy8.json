@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 260,
+  "2024-02-01": 260,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS\">Kalli</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Kalli",
@@ -132,6 +132,24 @@
     },
     {
       "album": {
+        "name": "verlierer",
+        "url": "https://open.spotify.com/album/0q8XIgIhKo2O2oukgDsy2s"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187583,
+      "name": "arschloch",
+      "url": "https://open.spotify.com/track/0DNAisWcJwei0pu3t8TyMM"
+    },
+    {
+      "album": {
         "name": "arschloch (Official Video)",
         "url": "https://open.spotify.com/album/6JDusFxoytR9E7WxnQMWSH"
       },
@@ -143,7 +161,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 188010,
       "name": "arschloch",
       "url": "https://open.spotify.com/track/6DhuhDzwe6Xk0YK2oEohWf"
@@ -882,6 +900,28 @@
     },
     {
       "album": {
+        "name": "Drei Uhr Nachts (Official Video)",
+        "url": "https://open.spotify.com/album/1mPqRAFIZ5fj7NlZxaPADh"
+      },
+      "artists": [
+        {
+          "name": "Mark Forster",
+          "url": "https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG"
+        },
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160170,
+      "name": "Drei Uhr Nachts",
+      "url": "https://open.spotify.com/track/4lWV6MBFNz9B9ZgNuC4bPC"
+    },
+    {
+      "album": {
         "name": "MUSKETIERE",
         "url": "https://open.spotify.com/album/0EbLUbzQzBFpAbyGjfDnAE"
       },
@@ -897,7 +937,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 160587,
       "name": "Drei Uhr Nachts",
       "url": "https://open.spotify.com/track/6NMA5MsBDOqwQuVT3IbwNj"
@@ -2309,10 +2349,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 173423,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/6kvW6EI5UuqCmlp7L7HD9O"
+    },
+    {
+      "album": {
+        "name": "Someone Else",
+        "url": "https://open.spotify.com/album/6a3ErDVndeddJ2kkLxvuIp"
+      },
+      "artists": [
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175810,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/1JyeQZWo7nL7L6oyay2DXe"
     },
     {
       "album": {
@@ -2557,10 +2615,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 138080,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/5PzUONSwD68RiyBA66A6DO"
+    },
+    {
+      "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/2VYn7cSOxVkl8MwEJr7UCF"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139826,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/09EhgVA4blwhSic4hF2TFZ"
     },
     {
       "album": {

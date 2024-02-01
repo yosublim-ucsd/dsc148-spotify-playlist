@@ -1,12 +1,12 @@
 {
   "description": "Music that created modern indie as we know it. Cover: Yeah Yeah Yeahs",
-  "num_followers": 456689,
+  "num_followers": 456958,
   "original_name": "The 2000s Indie Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGEwMTk3MzU1NDE0Yjc1MTRlNWIzMjU3MmU5NzA5MTA4M2ZmZmNl",
+  "snapshot_id": "MCw4NTliYzI0NTRlYzQ5YTk4NGEwNWNlZjY4NTRmNjdkZDM4YmM2OTQ2",
   "tracks": [
     {
       "added_at": "2023-10-19 19:07:56",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "Myths Of The Near Future",
-        "url": "https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg"
-      },
-      "artists": [
-        {
-          "name": "Klaxons",
-          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Golden Skans",
-      "url": "https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
         "name": "Manners",
         "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 174760,
       "name": "Sleepyhead",
       "url": "https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
+        "name": "Myths Of The Near Future",
+        "url": "https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg"
+      },
+      "artists": [
+        {
+          "name": "Klaxons",
+          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Golden Skans",
+      "url": "https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG"
     },
     {
       "added_at": "2023-01-18 01:04:44",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "Fantasies",
-        "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 286013,
-      "name": "Help I'm Alive",
-      "url": "https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
         "name": "Illinois",
         "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 364613,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
+        "name": "Fantasies",
+        "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 286013,
+      "name": "Help I'm Alive",
+      "url": "https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi"
     },
     {
       "added_at": "2023-01-18 01:04:44",

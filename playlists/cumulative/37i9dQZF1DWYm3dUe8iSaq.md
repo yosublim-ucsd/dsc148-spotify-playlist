@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-227 songs - 13 hr 2 min
+228 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Emily](https://open.spotify.com/track/11URTkaQsMiX3EM0X6G05s) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Big Town](https://open.spotify.com/album/1wd2T40dHkTMouyq9SddCd) | 3:54 | 2022-07-01 | 2022-11-18 |
 | [Emily](https://open.spotify.com/track/2BlOhlnL1ckQVDp61Oo4Ho) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Big Town](https://open.spotify.com/album/1TmAoz87UCoGVvrYtAkoJF) | 3:54 | 2022-04-08 | 2022-07-29 |
 | [Emily](https://open.spotify.com/track/3T7Iwy8nVLgYZWrVxPWq3h) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Big Town](https://open.spotify.com/album/1Tc9JzhgHsSVDduIkoHIgZ) | 3:54 | 2022-10-07 | 2023-01-14 |
-| [Everybody Lets You Down](https://open.spotify.com/track/3tliQO1g9DSsEHJziifqEO) | [Euan Blackman](https://open.spotify.com/artist/3OnnLtFCGyi9C8an2obEz1) | [Everybody Lets You Down](https://open.spotify.com/album/22691Ekpew0aRVYenq16dD) | 3:32 | 2023-02-24 |  |
+| [Everybody Lets You Down](https://open.spotify.com/track/3tliQO1g9DSsEHJziifqEO) | [Euan Blackman](https://open.spotify.com/artist/3OnnLtFCGyi9C8an2obEz1) | [Everybody Lets You Down](https://open.spotify.com/album/22691Ekpew0aRVYenq16dD) | 3:32 | 2023-02-24 | 2024-02-01 |
 | [Fever Dream](https://open.spotify.com/track/4m25RlfLwq6cNsdovfAAFG) | [Adam Youngman](https://open.spotify.com/artist/3K8XkFDgyQhbHQGzD0xz8Y) | [Fever Dream](https://open.spotify.com/album/0wh19fdjJXbt1tynRG0aS2) | 1:42 | 2023-02-24 | 2023-05-20 |
 | [Floorboards](https://open.spotify.com/track/3DZKzoLMmAXIEH0vIDILjk) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Floorboards](https://open.spotify.com/album/5wQ3lBKKZtiZt1D2WO83si) | 2:47 | 2023-01-13 |  |
 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 | 2022-04-08 |  |
@@ -222,6 +222,7 @@
 | [Twin](https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Twin](https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq) | 5:17 | 2022-07-01 |  |
 | [Unconditional](https://open.spotify.com/track/4OrLA7boWjy9X7fnWLxjld) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Unconditional](https://open.spotify.com/album/3UXXSXnc0znyU0ywfw0Nqb) | 4:20 | 2022-04-08 | 2022-07-29 |
 | [Unconditional](https://open.spotify.com/track/4s3G9Ifc1dp8xEksZxNe8P) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Devon or Las Vegas](https://open.spotify.com/album/2iBH65jlLWmkzAAkqu0Ade) | 4:20 | 2022-07-01 |  |
+| [Untitled](https://open.spotify.com/track/15emae2T8lWbQClJ5m29Nm) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [The Pilgrim, Their God and the King of My Decrepit Mountain](https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb) | 3:33 | 2024-01-26 |  |
 | [Venus](https://open.spotify.com/track/1Q58zWJH3V8v9dVWRO4K8d) | [Bekah Bossard](https://open.spotify.com/artist/76Xmq6oQ26hyBCPsZ6kNg4) | [Alone With My Own Thoughts EP](https://open.spotify.com/album/4EsukUGx6EJ9wXgNVdU3DK) | 3:39 | 2023-10-06 |  |
 | [Venus](https://open.spotify.com/track/4eXqmQuV9KVmTWIgSODV4R) | [Bekah Bossard](https://open.spotify.com/artist/76Xmq6oQ26hyBCPsZ6kNg4) | [Venus](https://open.spotify.com/album/3B9v1QLSiQIDxV9vcb7L1R) | 3:39 | 2023-06-30 | 2023-11-17 |
 | [Way Again](https://open.spotify.com/track/2bXHgXfMFF67xirAn2dsLA) | [Eloise Kate](https://open.spotify.com/artist/5o8uKmI1GJP1DVCnt73oKE) | [Each Memory and Every Fall](https://open.spotify.com/album/2YOx7Bj4WBtWPMw8JwGm4s) | 4:48 | 2022-04-08 | 2023-10-07 |

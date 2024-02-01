@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: I.M
 
-972 songs - 2 day 5 hr 26 min
+973 songs - 2 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [KNOCK](https://open.spotify.com/track/6KiEF5zqzHiFjzdm8gChz7) | [LEE CHAE YEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [Over The Moon](https://open.spotify.com/album/0WGMSrfOSPh1vctL94IWD3) | 2:53 | 2023-04-13 | 2023-12-02 |
 | [LA DI DA](https://open.spotify.com/track/60M8FSYZP8MA0Wy2huOADL) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/1F2CtDmTEiyJRv2bCf6989) | 3:30 | 2020-10-13\* | 2021-03-18 |
 | [La Luna](https://open.spotify.com/track/211bSRBUn8BeVFjWCd1H0o) | [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF) | [La Luna](https://open.spotify.com/album/7CQBxDLDkce9zO68YmcVGg) | 3:26 | 2020-10-13\* | 2021-01-11 |
+| [LA SOL MI](https://open.spotify.com/track/6h1laUrcyGZAwSj2k1KTRY) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [LA SOL MI](https://open.spotify.com/album/04TnvhobYIlwA9SOIFMyGY) | 2:52 | 2024-01-31 |  |
 | [LALISA](https://open.spotify.com/track/10BfqdiV5PhV1UYsMEyou1) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d) | 3:20 | 2021-09-11 | 2021-12-02 |
 | [LAST PIECE](https://open.spotify.com/track/6xrjIHbm6ga5J8HhOS2Rmn) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath of Love: Last Piece](https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H) | 3:42 | 2020-12-01 | 2021-03-25 |
 | [Last Scene](https://open.spotify.com/track/72b8XXM0GEo1TtJ2aPe79R) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Last Scene \- The 3rd Mini Album](https://open.spotify.com/album/1qEyXADkIHSmaCZuHnQPb7) | 4:22 | 2022-11-18 | 2023-02-01 |

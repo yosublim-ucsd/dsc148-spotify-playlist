@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 12223,
+  "num_followers": 12253,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2ZhNDEyODQ2MzZlOWY3MTRkZTQxZGRkMmI5MzYzMjM4NDI2NzU3",
+  "snapshot_id": "MCwyNWNiY2Q1OGYwMTEwNmUwMDkxMjM4ZTg0NWNlNGJmMGFhYTA1NmE5",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -71,18 +71,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Malaika",
-        "url": "https://open.spotify.com/album/7gxJJvnaREpG5vxTkVnPIV"
+        "name": "You Do This One",
+        "url": "https://open.spotify.com/album/2xzpQ4JMvJOjh8WintsJ6o"
       },
       "artists": [
         {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 203889,
-      "name": "Malaika",
-      "url": "https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar"
+      "duration_ms": 226649,
+      "name": "You Do This One",
+      "url": "https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -99,6 +99,22 @@
       "duration_ms": 234667,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/7gxJJvnaREpG5vxTkVnPIV"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 203889,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -175,22 +191,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "You Do This One",
-        "url": "https://open.spotify.com/album/2xzpQ4JMvJOjh8WintsJ6o"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 226649,
-      "name": "You Do This One",
-      "url": "https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Joy in Chaos (Extended)",
         "url": "https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv"
       },
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Truth in Sounds",
-        "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
+        "name": "The Glory Experience (Live In Houston)",
+        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
       },
       "artists": [
         {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
         }
       ],
-      "duration_ms": 546156,
-      "name": "I Get Backing",
-      "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
+      "duration_ms": 148146,
+      "name": "My God Is Good - Double Double Remix/Live",
+      "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Glory Experience (Live In Houston)",
-        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
-      },
-      "artists": [
-        {
-          "name": "Uche Agu",
-          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
-        }
-      ],
-      "duration_ms": 148146,
-      "name": "My God Is Good - Double Double Remix/Live",
-      "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 168000,
       "name": "Over",
       "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Truth in Sounds",
+        "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 546156,
+      "name": "I Get Backing",
+      "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -395,6 +395,26 @@
       "duration_ms": 372035,
       "name": "Bigger Everyday",
       "url": "https://open.spotify.com/track/4VGnb9i2pDrPhppHLmfVHb"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Desire Pt. 2",
+        "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 160308,
+      "name": "Desire Pt. 2",
+      "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -493,70 +513,6 @@
       "url": "https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Big God",
-        "url": "https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP"
-      },
-      "artists": [
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        },
-        {
-          "name": "Buchi",
-          "url": "https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Big God",
-      "url": "https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Desire Pt. 2",
-        "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 160308,
-      "name": "Desire Pt. 2",
-      "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Daddy Wey Dey Pamper (Gbedu Version)",
-        "url": "https://open.spotify.com/album/2vFfnAxG1DEPzxRxakdE5r"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        },
-        {
-          "name": "Greatman Takit",
-          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
-        }
-      ],
-      "duration_ms": 208575,
-      "name": "Daddy Wey Dey Pamper - Gbedu Version",
-      "url": "https://open.spotify.com/track/1TL5gkcrDrX5sOdNOzmCQ6"
-    },
-    {
       "added_at": "2024-01-26 00:01:00",
       "album": {
         "name": "Altar (Hosanna)",
@@ -583,54 +539,46 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Hallelujah (feat. Dunsin Oyekan) [Live]",
-        "url": "https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV"
+        "name": "Daddy Wey Dey Pamper (Gbedu Version)",
+        "url": "https://open.spotify.com/album/2vFfnAxG1DEPzxRxakdE5r"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         },
         {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
         }
       ],
-      "duration_ms": 320902,
-      "name": "Hallelujah (feat. Dunsin Oyekan) - Live",
-      "url": "https://open.spotify.com/track/3OwXa5v85UzgmQBieUscvu"
+      "duration_ms": 208575,
+      "name": "Daddy Wey Dey Pamper - Gbedu Version",
+      "url": "https://open.spotify.com/track/1TL5gkcrDrX5sOdNOzmCQ6"
     },
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Mo",
-        "url": "https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK"
+        "name": "Big God",
+        "url": "https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP"
       },
       "artists": [
         {
-          "name": "Piesie Esther",
-          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Mo",
-      "url": "https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
-      },
-      "artists": [
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        },
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Buchi",
+          "url": "https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS"
         }
       ],
-      "duration_ms": 267572,
-      "name": "Na You Dey Reign",
-      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
+      "duration_ms": 150000,
+      "name": "Big God",
+      "url": "https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -693,22 +641,6 @@
       "url": "https://open.spotify.com/track/3cGdGKVJX3iO9bEahsdGqh"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ"
-      },
-      "artists": [
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 187428,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv"
-    },
-    {
       "added_at": "2024-01-26 00:01:00",
       "album": {
         "name": "Blast (tongues)",
@@ -723,6 +655,78 @@
       "duration_ms": 204841,
       "name": "Blast - tongues",
       "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 267572,
+      "name": "Na You Dey Reign",
+      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Hallelujah (feat. Dunsin Oyekan) [Live]",
+        "url": "https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 320902,
+      "name": "Hallelujah (feat. Dunsin Oyekan) - Live",
+      "url": "https://open.spotify.com/track/3OwXa5v85UzgmQBieUscvu"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Mo",
+        "url": "https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK"
+      },
+      "artists": [
+        {
+          "name": "Piesie Esther",
+          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "Mo",
+      "url": "https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Halle",
+        "url": "https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub"
+      },
+      "artists": [
+        {
+          "name": "Ko'rale",
+          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
+        },
+        {
+          "name": "yoyo michael",
+          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
+        }
+      ],
+      "duration_ms": 140198,
+      "name": "Halle",
+      "url": "https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -763,22 +767,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Halle",
-        "url": "https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub"
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ"
       },
       "artists": [
         {
-          "name": "Ko'rale",
-          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
-        },
-        {
-          "name": "yoyo michael",
-          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
         }
       ],
-      "duration_ms": 140198,
-      "name": "Halle",
-      "url": "https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad"
+      "duration_ms": 187428,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv"
     },
     {
       "added_at": "2023-12-15 00:01:00",

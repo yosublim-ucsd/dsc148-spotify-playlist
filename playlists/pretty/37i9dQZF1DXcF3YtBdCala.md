@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 
 > Jóvenes y renovadas expresiones de la bella tradición mexicana\. Adrián Barraza en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,246 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,232 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 46 | [Como Si No Se Hubiera Ido](https://open.spotify.com/track/70PSXz2LwViugV9ZPBlZlZ) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Y Lo Volví a Hacer](https://open.spotify.com/album/1mTNZKeVd4sbVAh6VhV2YB) | 2:45 |
 | 47 | [Se Solicita](https://open.spotify.com/track/2uVlMbVtRgeHBaCCn1LhXb) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Solicita](https://open.spotify.com/album/24Y0xsPo84ooFzYeZKLoWR) | 3:04 |
 | 48 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
-| 49 | [Una Vida](https://open.spotify.com/track/760FIaj8goTswBMMzezp2n) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Una Vida](https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI) | 2:57 |
+| 49 | [Te Vas](https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Te Vas](https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR) | 2:37 |
 | 50 | [Para No Pensar en Ti](https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Para No Pensar en Ti](https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw) | 3:29 |
 | 51 | [A Mi Me Respetas](https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [A Mi Me Respetas](https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS) | 2:30 |
-| 52 | [Te Vas](https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Te Vas](https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR) | 2:37 |
+| 52 | [Una Vida](https://open.spotify.com/track/760FIaj8goTswBMMzezp2n) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Una Vida](https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI) | 2:57 |
 | 53 | [No Te Apartes De Mí](https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Te Apartes De Mí](https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ) | 3:59 |
 | 54 | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO) | 3:00 |
 | 55 | [Magia](https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Magia](https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB) | 2:37 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 79 | [La Muerte No Es el Olvido](https://open.spotify.com/track/7h62f2DDObGo0B7FOoyAan) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi), [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [La Muerte No Es el Olvido](https://open.spotify.com/album/2Naj6u36xiUj5BPqSuM7Ip) | 3:40 |
 | 80 | [MALAMANTE \(en carne viva\)](https://open.spotify.com/track/4YQ4KZT0CvKbFJFYPZZedi) | [Veronica Orozco](https://open.spotify.com/artist/1Te0peWkDd6h5Rnd0qjaKm), [Diana Hoyos](https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn) | [MALAMANTE \(en carne viva\)](https://open.spotify.com/album/12YgmMbN5H0v4ZXhxrSwpQ) | 3:20 |
 | 81 | [Prohibido Llorar](https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Prohibido Llorar](https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1) | 4:13 |
-| 82 | [Carne Y Hueso](https://open.spotify.com/track/79RBnNPr10KCaIHrQcREaZ) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Carne Y Hueso](https://open.spotify.com/album/6SKLvaEw9kdK7jrGnQC0qV) | 3:20 |
-| 83 | [Cosiéndome el Corazón](https://open.spotify.com/track/2QInqAwobGfKsrKbJnVf1y) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Ya Llegó la Echeverría...](https://open.spotify.com/album/6ZNXIAbNoxtVkMuHUbXrfJ) | 3:26 |
+| 82 | [Cosiéndome el Corazón](https://open.spotify.com/track/2QInqAwobGfKsrKbJnVf1y) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Ya Llegó la Echeverría...](https://open.spotify.com/album/6ZNXIAbNoxtVkMuHUbXrfJ) | 3:26 |
+| 83 | [Carne Y Hueso](https://open.spotify.com/track/79RBnNPr10KCaIHrQcREaZ) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Carne Y Hueso](https://open.spotify.com/album/6SKLvaEw9kdK7jrGnQC0qV) | 3:20 |
 | 84 | [No Me Rebajo](https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [No Me Rebajo](https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU) | 3:23 |
 | 85 | [Te Llegará Mi Olvido](https://open.spotify.com/track/2gVFqyEuY89biuosNL6Y43) | [Sandra Padilla](https://open.spotify.com/artist/3hht892mum9HGzHHclNtXz) | [Chuladas Del Alma](https://open.spotify.com/album/3PfxvQzZa81oXmrceghQTr) | 2:16 |
 | 86 | [Ven Porque Te Necesito](https://open.spotify.com/track/6pcm2wQRgnXeRUQWT0KPfM) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Ven Porque Te Necesito](https://open.spotify.com/album/4S0KgxfZKGheQqeV11vkqX) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 99 | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE) | 2:58 |
 | 100 | [El que Quiero que Me Quiera](https://open.spotify.com/track/0U3ByQq0hGY3gdmBphT8oe) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Asi Suena con Tequila](https://open.spotify.com/album/6wQ8UntXURhCMqbXqdPKEW) | 2:44 |
 
-Snapshot ID: `MCxiMTlmYmIxZDg3MGJlNWJkZGRjZjM1ZjJiNjMyMThlN2RhYjU1ZDUx`
+Snapshot ID: `MCwyODIyZjFlN2VmMTM5MGFjZGU4ZWE0ZTM2OWNhY2M2ZTNkZDg4OGNj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 
 > This is Los Hijos De Garcia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,328 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,333 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 | 38 | [Willy Checks](https://open.spotify.com/track/6I6HAGDrih43MD4CyTPNhr) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos y Libras](https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R) | 3:07 |
 | 39 | [Mi Gusto Es \- En Vivo](https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Con Tololoche](https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9) | 3:46 |
 | 40 | [Por Buen Camino](https://open.spotify.com/track/7s3erZkEkuTJ29qB2d0MDX) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Nuestro Estilo](https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r) | 3:15 |
-| 41 | [Classroom Love](https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Classroom Love](https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o) | 4:16 |
+| 41 | [El Fracasado](https://open.spotify.com/track/4VZmwLWmUsw81pkzDekhxT) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [El Fracasado](https://open.spotify.com/album/6RaNwXyfahQ2r4tVVMFwNm) | 2:45 |
 | 42 | [Soy Rencoroso](https://open.spotify.com/track/50ocU9plfD2wa1j6NmClEj) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Lujos y Libras](https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R) | 3:15 |
-| 43 | [El Fracasado](https://open.spotify.com/track/4VZmwLWmUsw81pkzDekhxT) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [El Fracasado](https://open.spotify.com/album/6RaNwXyfahQ2r4tVVMFwNm) | 2:45 |
-| 44 | [18 Libras \(En Vivo\)](https://open.spotify.com/track/4LllVWdo8dth4v3wZTwh1X) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Pisteando Con Larry Hernández, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/2NBIYoC2EnQndQkfIHffQf) | 2:57 |
-| 45 | [Historia Personal](https://open.spotify.com/track/0LjJoRueKZJCdz31eZCVnI) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Historia Personal](https://open.spotify.com/album/4L6pnNGvsAOaku8qqJaIlA) | 4:21 |
+| 43 | [Classroom Love](https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Classroom Love](https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o) | 4:16 |
+| 44 | [Historia Personal](https://open.spotify.com/track/0LjJoRueKZJCdz31eZCVnI) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Historia Personal](https://open.spotify.com/album/4L6pnNGvsAOaku8qqJaIlA) | 4:21 |
+| 45 | [18 Libras \(En Vivo\)](https://open.spotify.com/track/4LllVWdo8dth4v3wZTwh1X) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Pisteando Con Larry Hernández, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/2NBIYoC2EnQndQkfIHffQf) | 2:57 |
 | 46 | [El Recio](https://open.spotify.com/track/2KLUdYgj4FDAMjznuqCJyn) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Nuestro Estilo](https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r) | 3:10 |
 | 47 | [Recordando La Sierra](https://open.spotify.com/track/0dMeXStZXBSurWBhZlZtTV) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 3:02 |
 | 48 | [Blanca Nieves](https://open.spotify.com/track/0cIjGS69xkKGavLQG8n0YK) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Blanca Nieves](https://open.spotify.com/album/70riXpr57NKCdX0b6h2siw) | 4:17 |
 | 49 | [Quisiste Tú Volver](https://open.spotify.com/track/6sXr9EGXkIkWtSMU74VBDM) | [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Quisiste Tú Volver](https://open.spotify.com/album/4wBviDB8A3WuLU9PRFNDSR) | 3:16 |
 | 50 | [Le Pegue a lo Grande](https://open.spotify.com/track/0JMNj5ZXQK74Nyfq05O88Y) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Nuestro Estilo](https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r) | 3:57 |
 
-Snapshot ID: `Mjg0NDM2MzksMDAwMDAwMDAzNzYyZDEyYTIxNWUxMzk2YzM2MDE3YTRlM2RiNzc5ZQ==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDBkOWNlMGY2YzEwMzM4NGZjMjc5MWYxMGUzN2MwODI0ZQ==`

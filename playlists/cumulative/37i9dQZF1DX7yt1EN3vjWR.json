@@ -3968,7 +3968,7 @@
     {
       "album": {
         "name": "New World",
-        "url": "https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq"
+        "url": "https://open.spotify.com/album/3gcX6aWX8a6ZDbPtlVYvXA"
       },
       "artists": [
         {
@@ -3979,6 +3979,24 @@
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 163013,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/5d0901OV306utjv7ALii1O"
+    },
+    {
+      "album": {
+        "name": "New World",
+        "url": "https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-01",
       "duration_ms": 163013,
       "name": "New World",
       "url": "https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J"

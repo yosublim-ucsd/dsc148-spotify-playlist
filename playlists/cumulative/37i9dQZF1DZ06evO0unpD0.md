@@ -4,7 +4,7 @@
 
 > This is Salif Keita\. The essential tracks, all in one playlist.
 
-81 songs - 7 hr 41 min
+82 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Here](https://open.spotify.com/track/6tDcRsyVpTsUvPlHOfq1Qw) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 9:04 | 2022-03-18 | 2022-03-27 |
 | [I djo famâ](https://open.spotify.com/track/7Ck4d4Psna1z2jEXoPtYEd) | [Kante Manfila](https://open.spotify.com/artist/5jV3QFs1sz5YntY03TOzw9), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Dans l'authenticité \(Mandingue\)](https://open.spotify.com/album/0jJKQyNqelrtVHaaACY7qR) | 9:58 | 2022-08-27 | 2022-09-10 |
 | [Ignadjidje](https://open.spotify.com/track/5fhNHOjj1ewYB52gFsvlLP) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [The Mansa Of Mali ..\. A Retrospective](https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a) | 6:04 | 2021-12-28 |  |
-| [Iniagige](https://open.spotify.com/track/32pS0vZAnmWe6iYPjaJ0Af) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 4:33 | 2021-12-28 |  |
+| [Iniagige](https://open.spotify.com/track/285LCwb8xwnPfNlidUuJGI) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou \(20th Anniversary Edition\)](https://open.spotify.com/album/08WWdjuCR4ZMhV3ZeUAEI7) | 4:33 | 2024-01-31 |  |
+| [Iniagige](https://open.spotify.com/track/32pS0vZAnmWe6iYPjaJ0Af) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 4:33 | 2021-12-28 | 2024-02-01 |
 | [Intro Mansa](https://open.spotify.com/track/3LvMNf57Nob6B9fzqQUmoT) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [19](https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw) | 1:55 | 2021-12-28 |  |
 | [Itarafo](https://open.spotify.com/track/1OgQX533cNtEUObx36QkUq) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Un autre blanc](https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7) | 4:45 | 2022-01-01 | 2022-06-20 |
 | [Kalabancoro](https://open.spotify.com/track/0nj4U1atLpsFiimJSZu7Qq) | [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Munia \(The Tale\)](https://open.spotify.com/album/3xx2olJMUd5uONMZxPhFWZ) | 4:05 | 2021-12-28 |  |

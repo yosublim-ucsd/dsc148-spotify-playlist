@@ -1,12 +1,12 @@
 {
   "description": "Y es que cuando nos comemo' hacemo' unas pose que los do' desconocemo' ",
-  "num_followers": 15035,
+  "num_followers": 15046,
   "original_name": "Perreo de Dos ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzJlNmMwYjY3OWEzODlhNzFjNTdlMmVmM2E0ODBkY2E5NzE5OGRm",
+  "snapshot_id": "MCw2Nzk0NzQ2ZTNmNTRjZDg0NmVkYmZkNzdjMDI1MmU0NjBiMTFhZjg3",
   "tracks": [
     {
       "added_at": "2023-11-24 06:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "PUNTO G",
-        "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 151324,
-      "name": "PUNTO G",
-      "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Darte Remix",
         "url": "https://open.spotify.com/album/0Rg4l9kXJQyl04Oz4XyMWB"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 512060,
       "name": "Darte Remix",
       "url": "https://open.spotify.com/track/6wxZq37sANWYDJiDN5khyL"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "PUNTO G",
+        "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 151324,
+      "name": "PUNTO G",
+      "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -619,42 +619,34 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Climaxxx",
-        "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
+        "name": "Toda Remix",
+        "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
       },
       "artists": [
         {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
         },
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
           "name": "Lenny Tav\u00e1rez",
           "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         },
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         },
         {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
         }
       ],
-      "duration_ms": 286506,
-      "name": "Cuaderno",
-      "url": "https://open.spotify.com/track/7anSoGdgtmJTAPZBzcPhO6"
+      "duration_ms": 367680,
+      "name": "Toda Remix - Remix",
+      "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -711,6 +703,46 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Climaxxx",
+        "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        }
+      ],
+      "duration_ms": 286506,
+      "name": "Cuaderno",
+      "url": "https://open.spotify.com/track/7anSoGdgtmJTAPZBzcPhO6"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Un Polvo (feat. Bad Bunny, Arc\u00e1ngel, \u00d1engo Flow & De La Ghetto)",
         "url": "https://open.spotify.com/album/4TxYVUplaWuhJrVmW1O5Zt"
       },
@@ -739,38 +771,6 @@
       "duration_ms": 306373,
       "name": "Un Polvo (feat. Bad Bunny, Arc\u00e1ngel, \u00d1engo Flow & De La Ghetto)",
       "url": "https://open.spotify.com/track/01vHGJRvJ6EZW9KO8NtZpi"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Toda Remix",
-        "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        }
-      ],
-      "duration_ms": 367680,
-      "name": "Toda Remix - Remix",
-      "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1456,8 +1456,8 @@
       },
       "artists": [
         {
-          "name": "Sky",
-          "url": "https://open.spotify.com/artist/0JWemE0N1N3nwrtMNg2eMO"
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
         },
         {
           "name": "Jhayco",
@@ -1719,22 +1719,34 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Apaga la Luz",
-        "url": "https://open.spotify.com/album/2JZwRGuhbOpwcCF1NRt25s"
+        "name": "Privado",
+        "url": "https://open.spotify.com/album/4mPO7JkT8H5B71Ij05x4mb"
       },
       "artists": [
         {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         },
         {
-          "name": "Naked Geometry",
-          "url": "https://open.spotify.com/artist/6cuFN9smGJryZNaZU9QtWl"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 169684,
-      "name": "Apaga la Luz",
-      "url": "https://open.spotify.com/track/2WdcWFEry1P3or789QBwHY"
+      "duration_ms": 260000,
+      "name": "Privado",
+      "url": "https://open.spotify.com/track/4Nu07kdmj2GDenygAFmuT8"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1783,34 +1795,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Privado",
-        "url": "https://open.spotify.com/album/4mPO7JkT8H5B71Ij05x4mb"
+        "name": "Apaga la Luz",
+        "url": "https://open.spotify.com/album/2JZwRGuhbOpwcCF1NRt25s"
       },
       "artists": [
         {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
         },
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Naked Geometry",
+          "url": "https://open.spotify.com/artist/6cuFN9smGJryZNaZU9QtWl"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Privado",
-      "url": "https://open.spotify.com/track/4Nu07kdmj2GDenygAFmuT8"
+      "duration_ms": 169684,
+      "name": "Apaga la Luz",
+      "url": "https://open.spotify.com/track/2WdcWFEry1P3or789QBwHY"
     },
     {
       "added_at": "2023-11-24 06:00:00",

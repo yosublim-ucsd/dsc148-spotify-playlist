@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: MudBaby Ru
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,189,461 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,189,412 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [Bubba Man](https://open.spotify.com/track/03Z1yhSewsReSk6a5GBZOh) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Welcome To Bubba Land](https://open.spotify.com/album/2gxWI53PddwWddJQyrII3h) | 2:28 |
 | 100 | [Get Lucki](https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger \(Deluxe Edition\)](https://open.spotify.com/album/1VzWsyBJ8FdJwoMlpm7tDn) | 2:59 |
 
-Snapshot ID: `MCw5NzIxMzM4ODE1NmFjZWM4Yjg3MmUyNzY5ZmYxZWVlMGQ2NjUyZmM4`
+Snapshot ID: `MCxiNmYxOTU1ZDI5ZjQ3YmFmNGY2ZDA4ZTMyODRlMTM2ZDQzNzAyNmQ3`

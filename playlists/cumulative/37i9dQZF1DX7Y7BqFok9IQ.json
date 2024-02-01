@@ -574,10 +574,28 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 164645,
       "name": "Bomb Through the Breeze",
       "url": "https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD"
+    },
+    {
+      "album": {
+        "name": "Hannah Wicklund and the Steppin Stones",
+        "url": "https://open.spotify.com/album/6kP0lrd4sA5I698Z6Z5ug1"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wicklund",
+          "url": "https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164645,
+      "name": "Bomb Through The Breeze",
+      "url": "https://open.spotify.com/track/7gLgvdBxycylxnP9iwdvuD"
     },
     {
       "album": {

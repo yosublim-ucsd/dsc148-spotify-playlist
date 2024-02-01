@@ -4,7 +4,7 @@
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-478 songs - 1 day 15 hr 26 min
+479 songs - 1 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Resurrection Day](https://open.spotify.com/track/36AKA4ge37GanDDTYKFg2g) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News \(Deluxe Edition\)](https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg) | 3:43 | 2021-04-04 |  |
 | [Resurrection Power](https://open.spotify.com/track/20bD4lkiXkxl5VVg0Y7Tjz) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Resurrection Power](https://open.spotify.com/album/2YhFqn45YFhsEup9Av0lrh) | 4:11 | 2021-04-04 | 2022-07-25 |
 | [Revelation Song](https://open.spotify.com/track/2XepClIODhr4ayomYZoy8G) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [iWorship Hymns The Essential Collection](https://open.spotify.com/album/7jPjMvU2pkrdJv8rnJZa9F) | 4:36 | 2022-04-02 | 2022-04-18 |
+| [Revelation Song](https://open.spotify.com/track/086YlKy50RFarVYtRFFTGJ) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Just As I Am \(A Legacy Of Hymns And Worship\)](https://open.spotify.com/album/5Wm8dbKLD7ermzHvC9hIRv) | 5:56 | 2023-04-09 |  |
 | [Revelation Song](https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Kari Jobe](https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb) | 6:01 | 2023-04-09 | 2024-01-29 |
 | [Revival](https://open.spotify.com/track/2YpVLVAC2R2NQK63rB7naY) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Chain Breaker](https://open.spotify.com/album/7yfDHNzZryigytcfhRrExR) | 3:24 | 2021-04-04 | 2022-07-29 |
 | [Rise](https://open.spotify.com/track/05CyBzeNDePgDP2LhCDGwu) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [Housefires](https://open.spotify.com/album/2BjUIAvKH6u72UcYoX4FmY) | 5:12 | 2022-04-02 | 2022-04-21 |
@@ -459,7 +460,7 @@
 | [Wonderful, Merciful Savior](https://open.spotify.com/track/1GfXRWcCxijFPbR5hYNh5q) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Greatest Hymns, Vol\. 2](https://open.spotify.com/album/1JmmM3kMCKzYbuBHphQMFP) | 3:51 | 2021-04-04 |  |
 | [Worthy Is The Lamb \- Live / The Very Best Of Hillsong Live Album Version](https://open.spotify.com/track/13UEvo5GzRpjLWxq949anQ) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [The Very Best Of Hillsong Live](https://open.spotify.com/album/7q1lO2aZ4AJaUJlhljUfst) | 6:00 | 2021-04-04 | 2022-07-28 |
 | [Worthy Of Your Name \- Live](https://open.spotify.com/track/1hQEZ8Bm6cXO1mZ7fXZqkU) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 7:00 | 2022-04-02 | 2022-06-10 |
-| [Worthy One](https://open.spotify.com/track/7DnsLjXPTPq0Sy24k6LPIR) | [CLINE](https://open.spotify.com/artist/1r5nbIz4NV4qjHiHA16FZj), [Mo Pitney](https://open.spotify.com/artist/7r9M6ptJz7XnQp2RVFArb4) | [Worthy One](https://open.spotify.com/album/0SLLkcMA1BbhmhSlhg091R) | 3:56 | 2023-04-09 |  |
+| [Worthy One](https://open.spotify.com/track/7DnsLjXPTPq0Sy24k6LPIR) | [CLINE](https://open.spotify.com/artist/1r5nbIz4NV4qjHiHA16FZj), [Mo Pitney](https://open.spotify.com/artist/7r9M6ptJz7XnQp2RVFArb4) | [Worthy One](https://open.spotify.com/album/0SLLkcMA1BbhmhSlhg091R) | 3:56 | 2023-04-09 | 2024-02-01 |
 | [Yahweh](https://open.spotify.com/track/2aPHnQcCooRazk1LZbjiRt) | [MacKenzie Phillips](https://open.spotify.com/artist/0Sw7CtJQ5uo1DL8XgQChLY) | [Yahweh](https://open.spotify.com/album/0qgLs2a94cwlRSoKZaSa9q) | 4:15 | 2022-04-02 | 2022-07-28 |
 | [Yahweh \(feat\. Matthew Stevenson & Chandler Moore\)](https://open.spotify.com/track/5iz2oJe4z1MMv7tbx5cBhF) | [All Nations Music](https://open.spotify.com/artist/4nSvPl0CuFE4fE6H4zXRsU), [Matthew Stevenson](https://open.spotify.com/artist/1rUprF6B19ELkhEBR0Nqf2), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Come Alive](https://open.spotify.com/album/2gMrHKIYTOToJEKDzDTg5t) | 9:30 | 2023-04-09 |  |
 | [Yes He Can](https://open.spotify.com/track/5QJRT6u1hJuHSE0BeuEEud) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [CAIN \- EP](https://open.spotify.com/album/3CniQsVV0nPx2OoUQh0CfZ) | 3:18 | 2021-04-04 | 2023-12-26 |

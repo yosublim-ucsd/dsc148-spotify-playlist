@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 188486,
+  "num_followers": 188562,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTEzMzA1ZjQ3YTVkZjZjNTBhNmMzZDkwOTRjOWQxYmVjYThhZTcw",
+  "snapshot_id": "MCw3ODllOTE2YTQ3NjFjYzNjNDM0ODljZGM3MGI2MGUxZjg4NGIyNmMw",
   "tracks": [
     {
       "added_at": "2023-02-09 09:05:31",
@@ -587,30 +587,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
-        "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
-      },
-      "artists": [
-        {
-          "name": "Carl Philipp Emanuel Bach",
-          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
-        },
-        {
-          "name": "Michael Rische",
-          "url": "https://open.spotify.com/artist/2m1oXzullfjrEtsT2z8Wia"
-        },
-        {
-          "name": "Kammersymphonie Leipzig",
-          "url": "https://open.spotify.com/artist/5HOyATQgfbBibfKpZfsCFa"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
-      "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Into Silence: P\u00e4rt | Vasks | G\u00f3recki | Pel\u0113cis",
         "url": "https://open.spotify.com/album/7I6GRzGwHByDn59Y9cneeo"
       },
@@ -635,6 +611,30 @@
       "duration_ms": 377560,
       "name": "Concertino bianco: 1. Con intenerimento",
       "url": "https://open.spotify.com/track/4RCllHzuJX9PaV7kNHxmu0"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
+        "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
+      },
+      "artists": [
+        {
+          "name": "Carl Philipp Emanuel Bach",
+          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
+        },
+        {
+          "name": "Michael Rische",
+          "url": "https://open.spotify.com/artist/2m1oXzullfjrEtsT2z8Wia"
+        },
+        {
+          "name": "Kammersymphonie Leipzig",
+          "url": "https://open.spotify.com/artist/5HOyATQgfbBibfKpZfsCFa"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
+      "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -863,30 +863,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Schubert: Fantasie in F Minor and Other Piano Duets",
-        "url": "https://open.spotify.com/album/2ibKzWy888LJRqRvwpAd1x"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Andreas Staier",
-          "url": "https://open.spotify.com/artist/3IOUX2zimWLnlS0kRyJQJq"
-        },
-        {
-          "name": "Alexander Melnikov",
-          "url": "https://open.spotify.com/artist/7vk7vgVoYDiZ4Kngc3Jgta"
-        }
-      ],
-      "duration_ms": 123906,
-      "name": "Variations on an Original Theme in A-Flat Major, D. 813: VI. Variation V",
-      "url": "https://open.spotify.com/track/2PNQn586IZGtwOAKwtEFBn"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Rodrigo: Concierto de Aranjuez; Fantas\u00eda para un gentilhombre etc.",
         "url": "https://open.spotify.com/album/2B6figtx2ZMK6vsLqdKvHZ"
       },
@@ -911,6 +887,30 @@
       "duration_ms": 172000,
       "name": "Can\u00e7oneta for Violin and Orchestra",
       "url": "https://open.spotify.com/track/4h6KTocEXwAdCJDgGqRFEs"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Schubert: Fantasie in F Minor and Other Piano Duets",
+        "url": "https://open.spotify.com/album/2ibKzWy888LJRqRvwpAd1x"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Andreas Staier",
+          "url": "https://open.spotify.com/artist/3IOUX2zimWLnlS0kRyJQJq"
+        },
+        {
+          "name": "Alexander Melnikov",
+          "url": "https://open.spotify.com/artist/7vk7vgVoYDiZ4Kngc3Jgta"
+        }
+      ],
+      "duration_ms": 123906,
+      "name": "Variations on an Original Theme in A-Flat Major, D. 813: VI. Variation V",
+      "url": "https://open.spotify.com/track/2PNQn586IZGtwOAKwtEFBn"
     },
     {
       "added_at": "2023-02-09 09:05:31",

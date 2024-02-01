@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 603142,
+  "num_followers": 603329,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjJhNDI5NjhjZWFiNzZkOTgxMDE4OWE4MDEyZmY2MzQyNWQyMjlm",
+  "snapshot_id": "MCw5MTA4ODI1Y2I2NTM1MzUxZjk0NzA5M2ZmNmI5YWI3ODZjNDQ5ZmZl",
   "tracks": [
     {
       "added_at": "2023-08-21 19:29:52",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Coal Miner's Daughter",
-        "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "Coal Miner's Daughter - Single Version",
-      "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Does Fort Worth Ever Cross Your Mind",
         "url": "https://open.spotify.com/album/40FQbBUr9JVZ5pWIQMG9JF"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 154360,
       "name": "The Fireman",
       "url": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Coal Miner's Daughter",
+        "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "Coal Miner's Daughter - Single Version",
+      "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "Ocean Front Property",
+        "url": "https://open.spotify.com/album/7AwvNqwI3PS9zJ8NFgIAWB"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 188533,
+      "name": "Ocean Front Property",
+      "url": "https://open.spotify.com/track/4G9eIyEcVwLoG7kYNFpSII"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "Guitars, Cadillacs, Etc., Etc.",
         "url": "https://open.spotify.com/album/5AlW0VTEaK7DuekbCSOhdm"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Storms of Life",
-        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "On the Other Hand",
-      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Why Not Me",
         "url": "https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA"
       },
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Ocean Front Property",
-        "url": "https://open.spotify.com/album/7AwvNqwI3PS9zJ8NFgIAWB"
+        "name": "Storms of Life",
+        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 188533,
-      "name": "Ocean Front Property",
-      "url": "https://open.spotify.com/track/4G9eIyEcVwLoG7kYNFpSII"
+      "duration_ms": 186346,
+      "name": "On the Other Hand",
+      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
         }
       ],
-      "duration_ms": 199680,
-      "name": "(There's) No Gettin' Over Me",
-      "url": "https://open.spotify.com/track/2bRnP6FjtlASGsDtcgRVuI"
+      "duration_ms": 217826,
+      "name": "I Wouldn't Have Missed It For The World",
+      "url": "https://open.spotify.com/track/7sNKhnl4MZnHdMzvmC4jG5"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
         }
       ],
-      "duration_ms": 217826,
-      "name": "I Wouldn't Have Missed It For The World",
-      "url": "https://open.spotify.com/track/7sNKhnl4MZnHdMzvmC4jG5"
+      "duration_ms": 199680,
+      "name": "(There's) No Gettin' Over Me",
+      "url": "https://open.spotify.com/track/2bRnP6FjtlASGsDtcgRVuI"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Roll On",
-        "url": "https://open.spotify.com/album/2wxMN8hgpUMTLpD8CilSPb"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        }
-      ],
-      "duration_ms": 262626,
-      "name": "Roll On (Eighteen Wheeler)",
-      "url": "https://open.spotify.com/track/31LOzuiEqzfMZ6f8nujDVd"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs"
       },
@@ -1591,22 +1575,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
-        "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 170266,
-      "name": "Tight Fittin' Jeans",
-      "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Whoever's In New England",
         "url": "https://open.spotify.com/album/2wy4nL2f1eoBni0YFTcetr"
       },
@@ -1619,6 +1587,38 @@
       "duration_ms": 187066,
       "name": "Little Rock",
       "url": "https://open.spotify.com/track/4kGwf8ArBjC8AZRNbahDxk"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Roll On",
+        "url": "https://open.spotify.com/album/2wxMN8hgpUMTLpD8CilSPb"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        }
+      ],
+      "duration_ms": 262626,
+      "name": "Roll On (Eighteen Wheeler)",
+      "url": "https://open.spotify.com/track/31LOzuiEqzfMZ6f8nujDVd"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
+        "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 170266,
+      "name": "Tight Fittin' Jeans",
+      "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "I Love 'Em All",
-        "url": "https://open.spotify.com/album/4gkofMfdkx3zQAJUv1iz6c"
-      },
-      "artists": [
-        {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
-        }
-      ],
-      "duration_ms": 221280,
-      "name": "I Loved 'Em Every One",
-      "url": "https://open.spotify.com/track/4vRwErUg8XwxZnMsAp5ozS"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "The Essential Merle Haggard: The Epic Years",
         "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
@@ -1703,18 +1687,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/0bP76IDtXusEmR3b1MG3ao"
+        "name": "I Love 'Em All",
+        "url": "https://open.spotify.com/album/4gkofMfdkx3zQAJUv1iz6c"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
         }
       ],
-      "duration_ms": 199600,
-      "name": "I'd Love To Lay You Down",
-      "url": "https://open.spotify.com/track/4VF5XIZ7EiMfLElRzYG2E8"
+      "duration_ms": 221280,
+      "name": "I Loved 'Em Every One",
+      "url": "https://open.spotify.com/track/4vRwErUg8XwxZnMsAp5ozS"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1747,6 +1731,22 @@
       "duration_ms": 178840,
       "name": "All My Rowdy Friends Are Coming Over Tonight",
       "url": "https://open.spotify.com/track/1yzyhrCfdwPgfWixsCELlH"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/0bP76IDtXusEmR3b1MG3ao"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "I'd Love To Lay You Down",
+      "url": "https://open.spotify.com/track/4VF5XIZ7EiMfLElRzYG2E8"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "35 Biggest Hits",
-        "url": "https://open.spotify.com/album/1b20X9PDCrKCDlFA6mpiF5"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        }
-      ],
-      "duration_ms": 164653,
-      "name": "Born To Boogie",
-      "url": "https://open.spotify.com/track/6ORuFMNsVti1by7vkgDdVK"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Number One Hits",
         "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
       },
@@ -1875,6 +1859,38 @@
       "duration_ms": 197026,
       "name": "Drivin' My Life Away - 2009 Remaster",
       "url": "https://open.spotify.com/track/7ITL5IjLVR683ZDNGpDqek"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Big Dreams In A Small Town",
+        "url": "https://open.spotify.com/album/5gY4mK9vwSYGcouC8u6oIz"
+      },
+      "artists": [
+        {
+          "name": "Restless Heart",
+          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "The Bluest Eyes In Texas",
+      "url": "https://open.spotify.com/track/1XUiXn0r5o9EDS6BhAYdIA"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "35 Biggest Hits",
+        "url": "https://open.spotify.com/album/1b20X9PDCrKCDlFA6mpiF5"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 164653,
+      "name": "Born To Boogie",
+      "url": "https://open.spotify.com/track/6ORuFMNsVti1by7vkgDdVK"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1915,18 +1931,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Big Dreams In A Small Town",
-        "url": "https://open.spotify.com/album/5gY4mK9vwSYGcouC8u6oIz"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8"
       },
       "artists": [
         {
-          "name": "Restless Heart",
-          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
+          "name": "T. Graham Brown",
+          "url": "https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik"
         }
       ],
-      "duration_ms": 287000,
-      "name": "The Bluest Eyes In Texas",
-      "url": "https://open.spotify.com/track/1XUiXn0r5o9EDS6BhAYdIA"
+      "duration_ms": 180866,
+      "name": "I Tell It Like It Used To Be",
+      "url": "https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1943,22 +1959,6 @@
       "duration_ms": 232773,
       "name": "What I'd Say",
       "url": "https://open.spotify.com/track/6qdaMyeAxixEtIiI1Wqr4l"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8"
-      },
-      "artists": [
-        {
-          "name": "T. Graham Brown",
-          "url": "https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "I Tell It Like It Used To Be",
-      "url": "https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Still The Same Ole Me",
-        "url": "https://open.spotify.com/album/37SDFDUGI4DBZt1YssNSNE"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 170733,
-      "name": "Same Ole Me",
-      "url": "https://open.spotify.com/track/4yXvztnOOlSspO4W3MIsdd"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Wheels",
         "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 258799,
       "name": "I'll Still Be Loving You",
       "url": "https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Still The Same Ole Me",
+        "url": "https://open.spotify.com/album/37SDFDUGI4DBZt1YssNSNE"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 170733,
+      "name": "Same Ole Me",
+      "url": "https://open.spotify.com/track/4yXvztnOOlSspO4W3MIsdd"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "The Forester Sisters",
-        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
-      },
-      "artists": [
-        {
-          "name": "The Forester Sisters",
-          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
-        }
-      ],
-      "duration_ms": 170146,
-      "name": "Mama's Never Seen Those Eyes",
-      "url": "https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Cheat the Night",
         "url": "https://open.spotify.com/album/6ZMLxQUzTCjKYB1IVhAgLM"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 250120,
       "name": "Baby I Lied",
       "url": "https://open.spotify.com/track/5KqGrafc3paz7bNPju5Ne9"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "The Forester Sisters",
+        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
+      },
+      "artists": [
+        {
+          "name": "The Forester Sisters",
+          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "Mama's Never Seen Those Eyes",
+      "url": "https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP"
     },
     {
       "added_at": "2023-08-21 19:29:52",

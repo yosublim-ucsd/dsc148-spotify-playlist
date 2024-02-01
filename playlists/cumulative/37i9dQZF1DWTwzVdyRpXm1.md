@@ -4,7 +4,7 @@
 
 > Best of South Asian Music\. Cover: Shubh
 
-276 songs - 15 hr 45 min
+277 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Pehle Bhi Main](https://open.spotify.com/track/7yDHHVKLbvDmVw1XXhDDIO) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK) | [ANIMAL](https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO) | 4:10 | 2024-01-05 |  |
 | [Pem Kekula](https://open.spotify.com/track/6NWjTke7IJDThX8ze3DUJN) | [DJ Mass](https://open.spotify.com/artist/7DDdKIvTMJoVym9n4UOKYA), [Romaine Willis](https://open.spotify.com/artist/5KW7Z7pvvXDPbig7Dlt4Rp), [Apzi](https://open.spotify.com/artist/12xBvaWtsb3RT5WPljGy2o) | [Pem Kekula](https://open.spotify.com/album/1mIVw6IZ0jqXKtDbeMWR42) | 2:38 | 2021-12-06 | 2023-01-13 |
 | [Phir Aur Kya Chahiye \(From "Zara Hatke Zara Bachke"\)](https://open.spotify.com/track/7Ky9U9iHjGBiRax3joCRDS) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabha Bhattacharya](https://open.spotify.com/artist/7uw9rkZ9mxuSBuURy86ERR) | [Phir Aur Kya Chahiye \(From "Zara Hatke Zara Bachke"\) \- Single](https://open.spotify.com/album/1skD49xUwXnHLMrlEKTo6j) | 4:26 | 2023-07-31 | 2023-11-30 |
+| [Players](https://open.spotify.com/track/0MbOLfDcGk8ROHJYXJHu5c) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Devika Badyal](https://open.spotify.com/artist/0V8aeNb0fnR2P8eZVrx3lI) | [3:00 AM Sessions](https://open.spotify.com/album/7o9sqNRikTO3eeira2Qlx2) | 2:51 | 2024-01-31 |  |
 | [Promises](https://open.spotify.com/track/5Y3OxkwWPuFZc5rRoJE45A) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Scars & Screws](https://open.spotify.com/album/0dNZ3ypCu19FqmRxB1ezBc) | 3:15 | 2021-12-06 | 2022-01-14 |
 | [Psycho Saiyaan \(From "Saaho"\)](https://open.spotify.com/track/3ZjMdVOWxQ53FKrmkgCv95) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Psycho Saiyaan \(From "Saaho"\)](https://open.spotify.com/album/1sywArD1z0FvcfsN1MK9GE) | 2:46 | 2024-01-05 |  |
 | [Pyaar Hota Kayi Baar Hai \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/track/2vPrBucKCfKmafHhSfJ2pt) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Pyaar Hota Kayi Baar Hai \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/album/1cttjZoENYipDCPgISthpY) | 3:36 | 2024-01-05 |  |

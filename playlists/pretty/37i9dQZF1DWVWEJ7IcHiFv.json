@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 80s! Cover: Gloria Estefan",
-  "num_followers": 116730,
+  "num_followers": 116761,
   "original_name": "80s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzJiZmQ0ZTFjZTZlMzZkNGQ2OWEwYjFjYjdkMGZlZmRmYWM3OWQ2",
+  "snapshot_id": "MCwyYzQ3NzQxMGI0NjFjZDZjZmNkZTFmMmRhODJmNzYzYTYyODMwZDRm",
   "tracks": [
     {
       "added_at": "2023-02-17 21:03:29",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-02-17 21:03:29",
       "album": {
-        "name": "The Reventon: 30 Pegaditas",
-        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "El Baile del Perrito",
-      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
-    },
-    {
-      "added_at": "2023-02-17 21:03:29",
-      "album": {
         "name": "Contrareloj",
         "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 232080,
       "name": "Cada Vez Que Digo Adi\u00f3s",
       "url": "https://open.spotify.com/track/2WKWskcwqz0KKFRDkQleda"
+    },
+    {
+      "added_at": "2023-02-17 21:03:29",
+      "album": {
+        "name": "The Reventon: 30 Pegaditas",
+        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "El Baile del Perrito",
+      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
     },
     {
       "added_at": "2023-02-17 21:03:29",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-02-17 21:03:29",
       "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "El Extra\u00f1o del Pelo Largo",
+      "url": "https://open.spotify.com/track/4BlMZN5TUA3O1NbtnMZOEh"
+    },
+    {
+      "added_at": "2023-02-17 21:03:29",
+      "album": {
         "name": "Gipsy Kings",
         "url": "https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 250560,
       "name": "Claridad",
       "url": "https://open.spotify.com/track/2Rh8bcrw6tt8wrRM8NljN0"
-    },
-    {
-      "added_at": "2023-02-17 21:03:29",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "El Extra\u00f1o del Pelo Largo",
-      "url": "https://open.spotify.com/track/4BlMZN5TUA3O1NbtnMZOEh"
     },
     {
       "added_at": "2023-02-17 21:03:29",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-02-17 21:03:29",
       "album": {
-        "name": "15 A\u00f1os De Historia",
-        "url": "https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp"
-      },
-      "artists": [
-        {
-          "name": "Menudo",
-          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "S\u00fabete a Mi Moto",
-      "url": "https://open.spotify.com/track/1zHmnDfyTpYvu7KkCeqntZ"
-    },
-    {
-      "added_at": "2023-02-17 21:03:29",
-      "album": {
         "name": "Escape From Havana",
         "url": "https://open.spotify.com/album/3jZUAzlDcrJMaL9EXK51aP"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 218133,
       "name": "Get on Your Feet",
       "url": "https://open.spotify.com/track/7awBgmQ3B0YscMXPBwE1gQ"
+    },
+    {
+      "added_at": "2023-02-17 21:03:29",
+      "album": {
+        "name": "15 A\u00f1os De Historia",
+        "url": "https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp"
+      },
+      "artists": [
+        {
+          "name": "Menudo",
+          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
+        }
+      ],
+      "duration_ms": 210893,
+      "name": "S\u00fabete a Mi Moto",
+      "url": "https://open.spotify.com/track/1zHmnDfyTpYvu7KkCeqntZ"
     },
     {
       "added_at": "2023-02-17 21:03:29",

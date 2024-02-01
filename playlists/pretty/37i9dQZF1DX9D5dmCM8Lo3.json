@@ -1,12 +1,12 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 214665,
+  "num_followers": 214812,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzgyYTU3NzA5Nzk3NWViNGY4MzRlMzZkMGRmYjY1ZTFiZmE3Mjk5",
+  "snapshot_id": "MCxlNWMyZWZlZDkwY2RkOWMxYjZjOTZjODZjN2RmNTRkNGE5MTRkNTg0",
   "tracks": [
     {
       "added_at": "2023-07-18 20:06:10",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
+        "name": "Crystal Castles",
+        "url": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        }
+      ],
+      "duration_ms": 186920,
+      "name": "Through The Hosiery",
+      "url": "https://open.spotify.com/track/76Sl8UKNB6ACcrg6pjOopx"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
         "name": "About You Now",
         "url": "https://open.spotify.com/album/02zc2IIraWCKNpizpKdvKD"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 218786,
       "name": "About You Now",
       "url": "https://open.spotify.com/track/4Fpgcj55igVn9pOJeZKFZ8"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
-        "name": "Crystal Castles",
-        "url": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
-      },
-      "artists": [
-        {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        }
-      ],
-      "duration_ms": 186920,
-      "name": "Through The Hosiery",
-      "url": "https://open.spotify.com/track/76Sl8UKNB6ACcrg6pjOopx"
     }
   ],
   "unique_name": "webcore",

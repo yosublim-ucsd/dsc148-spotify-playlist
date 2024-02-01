@@ -4,7 +4,7 @@
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: waterweed
 
-249 songs - 14 hr 18 min
+251 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [All We Need Is Summer Day](https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [TIGHTROPE](https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc) | 2:42 | 2023-07-20 | 2024-01-12 |
 | [ALVA](https://open.spotify.com/track/1WsN1q1NTWYEJbw81KWsws) | [a crowd of rebellion](https://open.spotify.com/artist/3gy7nxZ3l2Q0Xz9sXAXrVX) | [ALVA](https://open.spotify.com/album/14gl92ZGLwr2pEJvhsMenp) | 4:00 | 2023-07-20 | 2023-10-04 |
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-07-20 | 2024-01-30 |
-| [APEX](https://open.spotify.com/track/7CTA1vdVYwHsIwOMvOkEhE) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [APEX](https://open.spotify.com/album/14H4061l4bvaxzT8EcMVP2) | 3:47 | 2023-11-21 |  |
+| [APEX](https://open.spotify.com/track/7CTA1vdVYwHsIwOMvOkEhE) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [APEX](https://open.spotify.com/album/14H4061l4bvaxzT8EcMVP2) | 3:47 | 2023-11-21 | 2024-02-01 |
 | [Appetite](https://open.spotify.com/track/0LPIIylUH5sd4dmV2RgoVT) | [ulma sound junction](https://open.spotify.com/artist/3h5skAdoPngCgx42LEYnse) | [INVISIBRUISE](https://open.spotify.com/album/3GdBp0u3VxTTbGPvaAF7Q4) | 5:37 | 2023-11-28 | 2023-12-20 |
 | [AREA PD](https://open.spotify.com/track/2vdO4HCh3Ya4B6U044UdCh) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [AREA PD](https://open.spotify.com/album/4QC4o5bDLPMDLPk4Hs2M22) | 2:57 | 2023-07-20 | 2023-11-22 |
 | [BANG!!!](https://open.spotify.com/track/0GbTk360zzHOkQqyS6hvUz) | [Are Square](https://open.spotify.com/artist/57YbNDKxQBIRzIjsLSfhCY) | [BANG!!!](https://open.spotify.com/album/6QMQPmyX3VFs6SLhEFA7JU) | 3:39 | 2023-10-05 | 2023-11-16 |
@@ -127,7 +127,7 @@
 | [New Shit](https://open.spotify.com/track/6YKn5ACbOOiZ1sm6qQoT7O) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [A YEAR OF STRENGTH](https://open.spotify.com/album/1uorBMQ4jsjiHv4sqdSUTp) | 3:02 | 2023-09-19 | 2023-10-02 |
 | [NIGHTHAWK](https://open.spotify.com/track/3EB0lCeiWNLJkeCt8odiVw) | [Nicotine](https://open.spotify.com/artist/0p3U0uLx2oSf0yn8i5XZki) | [NIGHTHAWK](https://open.spotify.com/album/5xLNwCgJn1qytXRoedTLTG) | 2:24 | 2023-11-16 | 2023-12-13 |
 | [Nostalgia](https://open.spotify.com/track/52nVvFvwMUrX88UpFcZcl4) | [kNeon](https://open.spotify.com/artist/0gfsANzNcCtUvcUKnBcqDy) | [Cyber World](https://open.spotify.com/album/23diSjDIoPdPyrnhKJo4MK) | 3:49 | 2023-10-31 | 2023-11-08 |
-| [Odyssey](https://open.spotify.com/track/1im85tqQBpvHhbcwsI8zRa) | [Sable Hills](https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn) | [Odyssey](https://open.spotify.com/album/11SCmdVqCUfuFF5DlvJ20K) | 4:04 | 2024-01-11 |  |
+| [Odyssey](https://open.spotify.com/track/1im85tqQBpvHhbcwsI8zRa) | [Sable Hills](https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn) | [Odyssey](https://open.spotify.com/album/11SCmdVqCUfuFF5DlvJ20K) | 4:04 | 2024-01-11 | 2024-02-01 |
 | [of course](https://open.spotify.com/track/2FFf4WFv4oj0R8yenXXaNF) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [of course](https://open.spotify.com/album/68hagxENiIaUNAprO75WGC) | 2:55 | 2023-08-24 |  |
 | [Oiran Drill Spin](https://open.spotify.com/track/0i96NUfw2ntJWoga92xhLT) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [Happy Heads NANIYORI 4](https://open.spotify.com/album/57ecVNWyYkE470Oz3T4QQJ) | 3:41 | 2024-01-23 |  |
 | [One More Time](https://open.spotify.com/track/40ScGVclGVcxNVDnZTaOs6) | [WHISPER OUT LOUD](https://open.spotify.com/artist/7594VeFTC59RzlfoXUq8VP) | [One More Time](https://open.spotify.com/album/0m1gOpBNelReGcRVwEn31d) | 3:13 | 2023-09-05 | 2023-11-22 |
@@ -143,6 +143,7 @@
 | [Party night in summer dream](https://open.spotify.com/track/02GDiKZ3QPc8vsCxQgX2Op) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Party night in summer dream](https://open.spotify.com/album/2qbXXPqL8VMNpVJYkUXEVS) | 3:05 | 2023-07-20 | 2023-08-16 |
 | [PLAYDEAD](https://open.spotify.com/track/1c4hhwfHiqpjYXDO9tLXOf) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 2:00 | 2023-09-26 | 2023-11-22 |
 | [PLAYDEAD](https://open.spotify.com/track/6xI23gJ23oTq2EAwjE3gjb) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E) | 2:00 | 2023-09-26 | 2023-09-28 |
+| [Player](https://open.spotify.com/track/7pCPywA8iN4WVJdNcPXOSL) | [Bubble Baby](https://open.spotify.com/artist/4g3C4VejuB09XqHyNhs1AC) | [Player](https://open.spotify.com/album/21XW1pX2rCszRc5YRrQloP) | 3:11 | 2024-01-31 |  |
 | [PSYCHO SISTER!!!!!](https://open.spotify.com/track/7KOEnaAtgweLXXtwlLNJT8) | [首振りDolls](https://open.spotify.com/artist/5YkHlLjqjiBcL9Jv5PImcE) | [PSYCHO SISTER!!!!!](https://open.spotify.com/album/2vG6YILPwBSvmytTQPvki1) | 4:07 | 2023-10-24 | 2023-11-01 |
 | [Pushing My Back](https://open.spotify.com/track/0s7J452ViFJuFjbQW4wOpB) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [GOLD IMPRINTS](https://open.spotify.com/album/0eDi7dISTenhez8VO3Ndqp) | 3:34 | 2023-08-01 | 2023-09-27 |
 | [Pushing My Back](https://open.spotify.com/track/553wRdV1xctce0VRF3WSC1) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [GOLD IMPRINTS](https://open.spotify.com/album/4AErChQhfmBOvOpIfOldWe) | 3:34 | 2023-08-01 | 2023-08-03 |
@@ -214,6 +215,7 @@
 | [Your Head](https://open.spotify.com/track/3B4WNqMYRAfGmxlVMoilyh) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Inside Your Head](https://open.spotify.com/album/7fS687f0QR3bCyjMgDATWd) | 3:34 | 2023-07-20 |  |
 | [あつまれ！パーティーピーポー](https://open.spotify.com/track/1dIvfhOBd3UpHfuaQnFlhr) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [BEST of the Tank\-top](https://open.spotify.com/album/0Ng4VLkEM5p6YLXmqJi5Gf) | 3:14 | 2023-11-14 | 2023-11-22 |
 | [かわE](https://open.spotify.com/track/4EjGcScTz7Uy1ISJfeeeEd) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [BEST of the Tank\-top](https://open.spotify.com/album/0Ng4VLkEM5p6YLXmqJi5Gf) | 3:24 | 2023-11-14 | 2023-12-22 |
+| [ゆらめき \(YURAMEKI\)](https://open.spotify.com/track/3wfpG43c7wdb0LofeE0NlM) | [DIR EN GREY](https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA) | [19990120](https://open.spotify.com/album/5xkvN0sLl4iaokgZixvhvz) | 5:09 | 2024-01-31 |  |
 | [アンセム](https://open.spotify.com/track/5ZMS3dRr2INkP6r2TZnU6m) | [LINK](https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ) | [太陽と月のビートニクス](https://open.spotify.com/album/06dTtsuu4ZddnDTW7mIUpa) | 2:48 | 2023-12-05 | 2023-12-20 |
 | [アンビシャス](https://open.spotify.com/track/7svD5Sa5WNmvEpflWbUkhR) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [アンビシャス](https://open.spotify.com/album/7IUZ67rVQ6jOffOzVjrMTr) | 3:06 | 2023-07-20 | 2023-09-01 |
 | [オリジナルスクープ](https://open.spotify.com/track/4XFDyEOJLCDYstSNPDqLnS) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [オリジナルスクープ](https://open.spotify.com/album/0Hh76GBDwAZUUiaNHTPUKZ) | 3:43 | 2023-10-10 | 2023-10-18 |

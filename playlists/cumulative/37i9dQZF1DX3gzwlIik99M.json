@@ -1572,10 +1572,28 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 304586,
       "name": "Guerrero Del Arco Iris",
       "url": "https://open.spotify.com/track/46zHDwJufMThLYhzX8QTGg"
+    },
+    {
+      "album": {
+        "name": "Guerrero Del Arco Iris",
+        "url": "https://open.spotify.com/album/5Hm2xAdcU8UALsIUsVgYH6"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304586,
+      "name": "Guerrero Del Arco Iris",
+      "url": "https://open.spotify.com/track/4YEm3ymGOfxZxk5Uubvxu9"
     },
     {
       "album": {

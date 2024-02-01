@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,356 likes - 90 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,437 likes - 90 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 28 | [I Want'a Do Something Freaky To You](https://open.spotify.com/track/4ijuSvn7dE8i9o8Ori6QmC) | [Leon Haywood](https://open.spotify.com/artist/4r2UnA39uIXexqO1mABayb) | [Funked! : Volume 2 1973\-1977](https://open.spotify.com/album/5uorwHhjLzAiFsw1eL0lMn) | 5:03 |
 | 29 | [My Queen Is Albertina Sisulu](https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Your Queen Is A Reptile](https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5) | 5:14 |
 | 30 | [Alright \- Remastered](https://open.spotify.com/track/6Fsme6JdS9n1apzVi800jL) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Driving Songs](https://open.spotify.com/album/0PZ6p6h37zPRCskVNqBRbw) | 3:42 |
-| 31 | [The Creator Has A Master Plan \- Original Album Version](https://open.spotify.com/track/2YxwTmbJP4oBy4W7DJ6hsq) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA) | [Cool And Steady And Easy](https://open.spotify.com/album/4MTudI2qwuB2eV3tbVvwBA) | 5:50 |
-| 32 | [Love Will Bring Us Back Together](https://open.spotify.com/track/2LCsNgUX2qsEbKZ9yLRUJq) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 5:55 |
-| 33 | [Mellow My Man](https://open.spotify.com/track/0bzFaHiymbvjmIDKf6XAbS) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g) | 4:41 |
+| 31 | [Mellow My Man](https://open.spotify.com/track/0bzFaHiymbvjmIDKf6XAbS) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g) | 4:41 |
+| 32 | [The Creator Has A Master Plan \- Original Album Version](https://open.spotify.com/track/2YxwTmbJP4oBy4W7DJ6hsq) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA) | [Cool And Steady And Easy](https://open.spotify.com/album/4MTudI2qwuB2eV3tbVvwBA) | 5:50 |
+| 33 | [Love Will Bring Us Back Together](https://open.spotify.com/track/2LCsNgUX2qsEbKZ9yLRUJq) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 5:55 |
 | 34 | [TIBBE](https://open.spotify.com/track/604GSvawPBPTa36Bw2pifE) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [GISEKE](https://open.spotify.com/album/3EVhMsdzVzTUe1I67viGDv) | 2:25 |
 | 35 | [Lord Jazz Hit Me One Time \(Make It Funky\)](https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N) | [Lords Of The Underground](https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4) | [Here Come The Lords](https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI) | 2:46 |
 | 36 | [Web of Deception](https://open.spotify.com/track/3n6SFPAFoF0YyBcMEk1zYc) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Culture Of Fear](https://open.spotify.com/album/06CDsx2HDFn57Y66uNI7Iz) | 4:32 |
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 66 | [Girl Overboard](https://open.spotify.com/track/2DEtevLNfY859UWgk9TVqG) | [Snowboy](https://open.spotify.com/artist/6e6FiOOuM4VotvYcIdAtXn), [Anna Ross](https://open.spotify.com/artist/0mC0yKMC54Vo9HUuGouIE2) | [Girl Overboard](https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan) | 7:24 |
 | 67 | [It's A Vanity](https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh) | [T\. P\. Orchestre Poly\-Rythmo](https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb), [Gabo Brown](https://open.spotify.com/artist/4611pTtcuyslFogumDsWzP) | [Afro\-Funk](https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k) | 4:22 |
 | 68 | [Block Episode](https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Punch&Words](https://open.spotify.com/artist/61FbYXEKKxS7MHKzXM9Ej7) | [Disposable Arts](https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN) | 3:48 |
-| 69 | [Nothing Has Changed](https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [In Pursuit Of The 13th Note](https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S) | 4:46 |
-| 70 | [Good Luck Shore](https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9) | [United Future Organization](https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh) | [Bon Voyage](https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh) | 5:27 |
-| 71 | [Stomp And Buck Dance](https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp) | [The Crusaders](https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b) | [Southern Comfort](https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD) | 5:48 |
-| 72 | [I Am The Black Gold Of The Sun](https://open.spotify.com/track/54xrXbM3vHE6JkVqkorRdG) | [Nuyorican Soul](https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Nuyorican Soul](https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L) | 5:19 |
+| 69 | [Good Luck Shore](https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9) | [United Future Organization](https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh) | [Bon Voyage](https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh) | 5:27 |
+| 70 | [Nothing Has Changed](https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [In Pursuit Of The 13th Note](https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S) | 4:46 |
+| 71 | [I Am The Black Gold Of The Sun](https://open.spotify.com/track/54xrXbM3vHE6JkVqkorRdG) | [Nuyorican Soul](https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Nuyorican Soul](https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L) | 5:19 |
+| 72 | [Stomp And Buck Dance](https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp) | [The Crusaders](https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b) | [Southern Comfort](https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD) | 5:48 |
 | 73 | [Theme from Riot on 103rd Street](https://open.spotify.com/track/38bCAubLkKJjbzZwKegxfn) | [Mother Earth](https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw) | [Stoned Woman](https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe) | 2:45 |
 | 74 | [Pushin' On](https://open.spotify.com/track/7LiC67aNpgqxkZJPC49UjM) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin' On](https://open.spotify.com/album/1uYaIjqXcqrCLIeA0syxar) | 3:19 |
 | 75 | [Homecoming](https://open.spotify.com/track/1mlwFuFOjVsKrYCCct8JQX) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 4:16 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 89 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 |
 | 90 | [The Final Comedown](https://open.spotify.com/track/6z0FN1nu2aWhtK2Zp8iOqO) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Blue Break Beats](https://open.spotify.com/album/2KbHNB4R33UuA09rleUrcp) | 3:27 |
 
-Snapshot ID: `MCwzN2FjNjY5ODcxYzNhZDkyMDY5NTEwYjBmNmQwZjg3OWFiNmQyY2Fi`
+Snapshot ID: `MCxhY2EyNGIwMzE0ODJlMmEzY2JkNjJiMGNlYjBhZGMxOTM4MmExOGFj`

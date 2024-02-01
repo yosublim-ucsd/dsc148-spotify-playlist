@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 315106,
+  "num_followers": 315251,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWQ4ZTRmMzUwYjMwM2UwYzYyYzNlMDMzNGFkNWE4NWU3ZTlhYTcw",
+  "snapshot_id": "MCw2YTRiZTk3YTA3NjAzNjU1ZGJjNzBjZTM1YzViODlhNjdjM2U5MDlm",
   "tracks": [
     {
       "added_at": "2024-01-30 16:12:12",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
-        "name": "TILL THE END",
-        "url": "https://open.spotify.com/album/38KsykfZ2memylz4uwThC6"
-      },
-      "artists": [
-        {
-          "name": "NA CHUI",
-          "url": "https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh"
-        }
-      ],
-      "duration_ms": 314000,
-      "name": "TILL THE END",
-      "url": "https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
         "name": "HY\u00cbNA",
         "url": "https://open.spotify.com/album/3S4k4I4hvcCiLExpGaSPUa"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 302940,
       "name": "HY\u00cbNA",
       "url": "https://open.spotify.com/track/2mPYdoSr3T9VLi94oV7ob5"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
+        "name": "TILL THE END",
+        "url": "https://open.spotify.com/album/38KsykfZ2memylz4uwThC6"
+      },
+      "artists": [
+        {
+          "name": "NA CHUI",
+          "url": "https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh"
+        }
+      ],
+      "duration_ms": 314000,
+      "name": "TILL THE END",
+      "url": "https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
-        "name": "The War Of Art",
-        "url": "https://open.spotify.com/album/5dBhZn63iuwNTQ9JnDktsl"
-      },
-      "artists": [
-        {
-          "name": "American Head Charge",
-          "url": "https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau"
-        }
-      ],
-      "duration_ms": 252200,
-      "name": "A Violent Reaction",
-      "url": "https://open.spotify.com/track/00YeAWckFwAyrvzvHlYMOk"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
         "name": "Confessions of a Knife",
         "url": "https://open.spotify.com/album/07qAwgxJzZYQCPTQc157eT"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 331437,
       "name": "A Daisy Chain 4 Satan - Acid & Flowers Mix",
       "url": "https://open.spotify.com/track/5FwLDsdAgRVc3lZjam3euf"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
+        "name": "The War Of Art",
+        "url": "https://open.spotify.com/album/5dBhZn63iuwNTQ9JnDktsl"
+      },
+      "artists": [
+        {
+          "name": "American Head Charge",
+          "url": "https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau"
+        }
+      ],
+      "duration_ms": 252200,
+      "name": "A Violent Reaction",
+      "url": "https://open.spotify.com/track/00YeAWckFwAyrvzvHlYMOk"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
+        "name": "Project Regeneration, Vol. 1",
+        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Bring You Down (Project Regeneration)",
+      "url": "https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
         "name": "Majesty",
         "url": "https://open.spotify.com/album/0S0OF6IQa0Tr0lWivkrUD2"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 201293,
       "name": "Verr\u00fcckt - Original Version",
       "url": "https://open.spotify.com/track/6gHB5QPToHSrbWA2Vy5LON"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
-        "name": "Project Regeneration, Vol. 1",
-        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Bring You Down (Project Regeneration)",
-      "url": "https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
+        "name": "Rock Ain't Dead",
+        "url": "https://open.spotify.com/album/3UQ9ITynmUFwFbbptocuNz"
+      },
+      "artists": [
+        {
+          "name": "Davey Suicide",
+          "url": "https://open.spotify.com/artist/0JX3GwUe9y5BS2WuQ3qxsV"
+        },
+        {
+          "name": "Telle Smith",
+          "url": "https://open.spotify.com/artist/3DefX0fquR1S2twqp0ui84"
+        }
+      ],
+      "duration_ms": 229512,
+      "name": "Medicate Me",
+      "url": "https://open.spotify.com/track/5y2aBi3vXTCH482nH6Aq58"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
         "name": "Supernaut",
         "url": "https://open.spotify.com/album/59or2rVv97PQ4dS45ohNlQ"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 266000,
       "name": "Shut Me Down",
       "url": "https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
-        "name": "Rock Ain't Dead",
-        "url": "https://open.spotify.com/album/3UQ9ITynmUFwFbbptocuNz"
-      },
-      "artists": [
-        {
-          "name": "Davey Suicide",
-          "url": "https://open.spotify.com/artist/0JX3GwUe9y5BS2WuQ3qxsV"
-        },
-        {
-          "name": "Telle Smith",
-          "url": "https://open.spotify.com/artist/3DefX0fquR1S2twqp0ui84"
-        }
-      ],
-      "duration_ms": 229512,
-      "name": "Medicate Me",
-      "url": "https://open.spotify.com/track/5y2aBi3vXTCH482nH6Aq58"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
-        "name": "Satellites",
-        "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
-      },
-      "artists": [
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        }
-      ],
-      "duration_ms": 380885,
-      "name": "My Disintegration",
-      "url": "https://open.spotify.com/track/3oCfEnZRME0pGNUyzzhkeM"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
         "name": "Hengit\u00e4",
         "url": "https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 190327,
       "name": "Hengit\u00e4",
       "url": "https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "duration_ms": 380885,
+      "name": "My Disintegration",
+      "url": "https://open.spotify.com/track/3oCfEnZRME0pGNUyzzhkeM"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
+        "name": "Echogenetic",
+        "url": "https://open.spotify.com/album/0f45KbfktTH1dpYgApp979"
+      },
+      "artists": [
+        {
+          "name": "Front Line Assembly",
+          "url": "https://open.spotify.com/artist/5QYAExYvxixCVwX70SRf7F"
+        }
+      ],
+      "duration_ms": 358520,
+      "name": "Killing Grounds",
+      "url": "https://open.spotify.com/track/0HCxCQXakzMJfjcek0Qn7E"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
         "name": "Chasing Ghosts",
         "url": "https://open.spotify.com/album/0xUiYomjFBfg1qbOuSn37E"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 362482,
       "name": "A Matter of Time",
       "url": "https://open.spotify.com/track/524Hl6lEjcLUGbBYiRzh6q"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
-        "name": "Echogenetic",
-        "url": "https://open.spotify.com/album/0f45KbfktTH1dpYgApp979"
-      },
-      "artists": [
-        {
-          "name": "Front Line Assembly",
-          "url": "https://open.spotify.com/artist/5QYAExYvxixCVwX70SRf7F"
-        }
-      ],
-      "duration_ms": 358520,
-      "name": "Killing Grounds",
-      "url": "https://open.spotify.com/track/0HCxCQXakzMJfjcek0Qn7E"
     },
     {
       "added_at": "2024-01-30 16:12:12",

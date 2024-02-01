@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Smoke DZA",
-  "num_followers": 1604084,
+  "num_followers": 1603889,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjE1ZWVjOGUxMzI0MTU4MDczYjA5YjU2OGRkYTRjNTExZmE1N2Vh",
+  "snapshot_id": "MCwwNzAxMjVjMmU2OTM2MDdkZTViNDJlNzQ1ODM4NmU0YTZiMDIwYjM3",
   "tracks": [
     {
       "added_at": "2024-01-26 04:00:00",
@@ -543,26 +543,22 @@
     {
       "added_at": "2024-01-26 04:00:00",
       "album": {
-        "name": "Welcome 2 Collegrove",
-        "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
+        "name": "Instincts",
+        "url": "https://open.spotify.com/album/2lQfIDJwaRfrr5Hdty8Yv5"
       },
       "artists": [
         {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
         },
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Fabolous",
-          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
         }
       ],
-      "duration_ms": 220586,
-      "name": "P.P.A. (feat. Fabolous)",
-      "url": "https://open.spotify.com/track/7pmkOYSaUvaA39nWnHcqmj"
+      "duration_ms": 236199,
+      "name": "Instincts",
+      "url": "https://open.spotify.com/track/7bA0Di2pbdscrttwpwrTjp"
     },
     {
       "added_at": "2024-01-26 04:00:00",
@@ -587,6 +583,30 @@
     {
       "added_at": "2024-01-26 04:00:00",
       "album": {
+        "name": "Welcome 2 Collegrove",
+        "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "duration_ms": 220586,
+      "name": "P.P.A. (feat. Fabolous)",
+      "url": "https://open.spotify.com/track/7pmkOYSaUvaA39nWnHcqmj"
+    },
+    {
+      "added_at": "2024-01-26 04:00:00",
+      "album": {
         "name": "One Foot In",
         "url": "https://open.spotify.com/album/6lngN4MM1P71ocrwive5Cg"
       },
@@ -603,30 +623,6 @@
       "duration_ms": 164501,
       "name": "One Foot In (with Stove God Cooks)",
       "url": "https://open.spotify.com/track/5t8cjiKVfQeNUgrGIaRUBy"
-    },
-    {
-      "added_at": "2024-01-26 04:00:00",
-      "album": {
-        "name": "Sundial",
-        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        },
-        {
-          "name": "Jay Electronica",
-          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
-        },
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 224586,
-      "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
-      "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
     },
     {
       "added_at": "2024-01-26 04:00:00",
@@ -651,22 +647,26 @@
     {
       "added_at": "2024-01-26 04:00:00",
       "album": {
-        "name": "Instincts",
-        "url": "https://open.spotify.com/album/2lQfIDJwaRfrr5Hdty8Yv5"
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
       },
       "artists": [
         {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
         },
         {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+          "name": "Jay Electronica",
+          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
         }
       ],
-      "duration_ms": 236199,
-      "name": "Instincts",
-      "url": "https://open.spotify.com/track/7bA0Di2pbdscrttwpwrTjp"
+      "duration_ms": 224586,
+      "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
+      "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
     },
     {
       "added_at": "2024-01-26 04:00:00",
@@ -955,38 +955,6 @@
     {
       "added_at": "2024-01-26 04:00:00",
       "album": {
-        "name": "Flying Objects (Extended Version)",
-        "url": "https://open.spotify.com/album/5dZKoTH8rRl5DDqU5lmn3a"
-      },
-      "artists": [
-        {
-          "name": "Smoke DZA",
-          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
-        },
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Big K.R.I.T.",
-          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
-        },
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        }
-      ],
-      "duration_ms": 341233,
-      "name": "Beyond Spiritual (feat. Wiz Khalifa, Big K.R.I.T. & Curren$y)",
-      "url": "https://open.spotify.com/track/2Fy4jOsRb58vn9bgJw1TxA"
-    },
-    {
-      "added_at": "2024-01-26 04:00:00",
-      "album": {
         "name": "Penalty of Leadership",
         "url": "https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL"
       },
@@ -1019,6 +987,38 @@
       "duration_ms": 193973,
       "name": "beauty supply",
       "url": "https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF"
+    },
+    {
+      "added_at": "2024-01-26 04:00:00",
+      "album": {
+        "name": "Flying Objects (Extended Version)",
+        "url": "https://open.spotify.com/album/5dZKoTH8rRl5DDqU5lmn3a"
+      },
+      "artists": [
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        }
+      ],
+      "duration_ms": 341233,
+      "name": "Beyond Spiritual (feat. Wiz Khalifa, Big K.R.I.T. & Curren$y)",
+      "url": "https://open.spotify.com/track/2Fy4jOsRb58vn9bgJw1TxA"
     },
     {
       "added_at": "2024-01-26 04:00:00",

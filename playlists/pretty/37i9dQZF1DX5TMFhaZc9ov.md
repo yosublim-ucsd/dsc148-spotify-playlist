@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Izzy Heltai
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,246 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,279 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 84 | [Holding On](https://open.spotify.com/track/4L1mk9pkD00CPiDsDSVJZp) | [Ella Hunt](https://open.spotify.com/artist/2UfYkwgDo1abQS1U4pO2bT) | [Triptych](https://open.spotify.com/album/01N959BoJNKJyXS7ML7465) | 3:38 |
 | 85 | [Departures](https://open.spotify.com/track/3pkyGQVfdP0xI1evK7Efq6) | [Grace Petrie](https://open.spotify.com/artist/4bFdVUzXSr2unwjEoOe5dY) | [Queer As Folk](https://open.spotify.com/album/3m2LYhF9CGykcn6akFTPJH) | 5:39 |
 | 86 | [The Rose Gardener](https://open.spotify.com/track/2AOREe0skCzK3eN7uBBr3q) | [Bellows](https://open.spotify.com/artist/6UkJGwmg0AXAbGBNtzs7My) | [The Rose Gardener](https://open.spotify.com/album/7Ee56Uw8pfwPWSej8GGGpL) | 3:44 |
-| 87 | [letters to the hospital](https://open.spotify.com/track/22Pipp3pEZF2mRv5UHerSd) | [Mae Krell](https://open.spotify.com/artist/5OJHIYwDJ1TfeaFLYMSqqe) | [anabasis](https://open.spotify.com/album/4jK4azaPNIe9YHSsFxVU0C) | 3:23 |
+| 87 | [letters to the hospital](https://open.spotify.com/track/1HT8TwJr3Mzu5SdBSGHNW9) | [Mae Krell](https://open.spotify.com/artist/5OJHIYwDJ1TfeaFLYMSqqe) | [anabasis](https://open.spotify.com/album/6QE83dueAkEJjuvrY1h62j) | 3:23 |
 | 88 | [Proud Crowd, Pride Cried](https://open.spotify.com/track/01zVQMb2ywEfghDbi4oIKa) | [Ferron](https://open.spotify.com/artist/4Uwxc9WlgyTxlP4iG8rdjb) | [Shadows On A Dime](https://open.spotify.com/album/6pWEVRecWVxW9GuOBQ4P5P) | 6:03 |
 | 89 | [Marjorie](https://open.spotify.com/track/5px0q4BOJoL26xBxeZCqoz) | [Namoli Brennet](https://open.spotify.com/artist/6HhuWH5wX8XGIOYCgsFsdJ) | [Ditch Lilies](https://open.spotify.com/album/2BwDEMJIAwvFw9JzsSnga4) | 2:55 |
 | 90 | [Olivia](https://open.spotify.com/track/3OByrxVpeHjxxc0HX9bRIT) | [Rachael Sage](https://open.spotify.com/artist/7EedWEoxpzbiPNkqkDp3Vw) | [Olivia](https://open.spotify.com/album/3kmkC2FDsfV2wImqY5hYi0) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 99 | [Illuminate the Dark](https://open.spotify.com/track/2hgw4ZGGLwObz7a89jnyhZ) | [Tom Goss](https://open.spotify.com/artist/1zLAXcROEhMZL9IhVu5Vvh) | [Wait](https://open.spotify.com/album/5BqkJ6970fStH2JCAzKcnf) | 2:43 |
 | 100 | [All\-American Boy](https://open.spotify.com/track/7i2xzOJU1O7hrP8kqqBchZ) | [Steve Grand](https://open.spotify.com/artist/0oqk73d6vKVx8Ekz4onThW) | [All American Boy](https://open.spotify.com/album/40nTEfg3tTj1bptrG7IQU0) | 4:57 |
 
-Snapshot ID: `MCwxZDdkYmY5ZGM3YTZiY2Y3OWUxMzNjNzI2NDczMzc3YWFkZjRlODAz`
+Snapshot ID: `MCw2MTVlZDkxMTc1NTdiN2MzMDhhNDU3OWQyNDZjNTE4NjcxMWE2NTBh`

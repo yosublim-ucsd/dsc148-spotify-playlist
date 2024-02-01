@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > พบคนคลั่งรักหลายอัตราในเพลย์ลิสต์นี้ \#คลั่งรัก
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,356 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,415 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 17 | [แค่คุณ](https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9) | [Uprising](https://open.spotify.com/album/4HusBQo7V60wRjyJelOr7X) | 3:58 |
 | 18 | [สถานีดวงจันทร์](https://open.spotify.com/track/6PM9OBzgQbY7wAkPWBTl2V) | [Whatcharawalee](https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM) | [สถานีดวงจันทร์](https://open.spotify.com/album/4FYcFwKKQhx95m6lUaDXfd) | 3:51 |
 | 19 | [Extraordinary](https://open.spotify.com/track/79yQQnouyRz6n9TEKxbHM5) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [Extraordinary](https://open.spotify.com/album/26PnWTLOFIDBLUJpFKSmaz) | 4:01 |
-| 20 | [เเฟนผมน่ารัก](https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5) | [Bow Maylada](https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [เเฟนผมน่ารัก](https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj) | 3:20 |
-| 21 | [เป็นได้ทุกอย่าง](https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [เป็นได้ทุกอย่าง](https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy) | 3:11 |
+| 20 | [เป็นได้ทุกอย่าง](https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [เป็นได้ทุกอย่าง](https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy) | 3:11 |
+| 21 | [เเฟนผมน่ารัก](https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5) | [Bow Maylada](https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [เเฟนผมน่ารัก](https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj) | 3:20 |
 | 22 | [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/track/7C4tRbJ0J24NaftPTMU1Fd) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/album/2s1HioFvteCgNIQIQrf2hV) | 4:13 |
 | 23 | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/track/4rDCI4NQEBQrfTFN5epRYU) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/album/5HoeLBMTFqR6M7IJgCfvnC) | 2:58 |
 | 24 | [พิง \(เพลงประกอบละคร กระเช้าสีดา\)](https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [เพลงประกอบละคร กระเช้าสีดา](https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV) | 4:02 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 54 | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/track/4okZRD6ad0o8kxzrkvYFLP) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/album/2hrDOy5wsZ6kKJ3LLNU4LB) | 3:12 |
 | 55 | [โคตรพิเศษ \- From แปลรักฉันด้วยใจเธอ](https://open.spotify.com/track/4oQTocMZdjXkVz6GaPw7Gz) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [แปลรักฉันด้วยใจเธอ \(The Original Soundtrack\)](https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh) | 3:57 |
 | 56 | [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/track/7J2AM0bPIKlaBotMTzl5zx) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [Are You Serious?](https://open.spotify.com/album/7G2HL8Yihb7XPEXrm3TzDR) | 3:39 |
-| 57 | [มีเธอทุกวันก็โอนิ](https://open.spotify.com/track/3seGmbdxubyOV7rAnUYAWh) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8), [DJ ONO](https://open.spotify.com/artist/5y5uIxi74ZKx7GvuevA7CU), [Pimtha](https://open.spotify.com/artist/4aK59Ov4CA7YAnuKHKsnSu) | [มีเธอทุกวันก็โอนิ](https://open.spotify.com/album/30NpS3bdoQuLb6zhSuTC4H) | 3:04 |
-| 58 | [เธอทั้งนั้น](https://open.spotify.com/track/5sQYDe2qBnPQpCmN5UWki9) | [Groove Riders](https://open.spotify.com/artist/2HVtGhO88wYqktLxpDIUI3) | [The Lift](https://open.spotify.com/album/3J11fMgaKmVR0lOODC8tqV) | 4:04 |
+| 57 | [เธอทั้งนั้น](https://open.spotify.com/track/5sQYDe2qBnPQpCmN5UWki9) | [Groove Riders](https://open.spotify.com/artist/2HVtGhO88wYqktLxpDIUI3) | [The Lift](https://open.spotify.com/album/3J11fMgaKmVR0lOODC8tqV) | 4:04 |
+| 58 | [มีเธอทุกวันก็โอนิ](https://open.spotify.com/track/3seGmbdxubyOV7rAnUYAWh) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8), [DJ ONO](https://open.spotify.com/artist/5y5uIxi74ZKx7GvuevA7CU), [Pimtha](https://open.spotify.com/artist/4aK59Ov4CA7YAnuKHKsnSu) | [มีเธอทุกวันก็โอนิ](https://open.spotify.com/album/30NpS3bdoQuLb6zhSuTC4H) | 3:04 |
 | 59 | [เพื่อนเล่น ไม่เล่นเพื่อน \(Just Being Friendly\)](https://open.spotify.com/track/3YN1Qgpgt5xVurl2mUFA4y) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [MILLI](https://open.spotify.com/artist/15D6XEjr6LVGGc6dNmS2yz) | [It's Gonna Be OK](https://open.spotify.com/album/37wolAPWNOJfdRRwW1N6gL) | 3:37 |
 | 60 | [เหตุผลของการมีชีวิตอยู่ คือการได้พบกับเธอ](https://open.spotify.com/track/54LxQgugCAhs7ob7tXcefp) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [TWO OF A KIND](https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv) | 3:58 |
 | 61 | [ตกหลุมรักรอบที่ล้าน](https://open.spotify.com/track/0h5J891lpMTlU4o6oPg3VJ) | [Kinkaworn](https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg), [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [ตกหลุมรักรอบที่ล้าน](https://open.spotify.com/album/1J4dG82e0Pln7i5PxodQuV) | 3:18 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 88 | [แค่นี้...พอ](https://open.spotify.com/track/5A2X5yMrNmVZmB9fAR8IcJ) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [แรก](https://open.spotify.com/album/7hz79oAxXtyE7TeziE5lbh) | 3:49 |
 | 89 | [ใจเดียว](https://open.spotify.com/track/4OZjDh3pxthm3Ig9Fs7C7N) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ใจเดียว](https://open.spotify.com/album/6aC3OBM7rpD1gAzF4oZfxl) | 3:49 |
 | 90 | [เธอไม่ต้องน่ารักทุกวันก็ได้นะ](https://open.spotify.com/track/0WF0gPr8uLyWwPhmOiNYm4) | [ROOFTOP](https://open.spotify.com/artist/3wzGjN26jzqLY2Gc836sjC) | [เธอไม่ต้องน่ารักทุกวันก็ได้นะ](https://open.spotify.com/album/62ZE1G620BMjMxBoI3jBRw) | 3:13 |
-| 91 | [ความรักกำลังก่อตัว](https://open.spotify.com/track/0Xo1zj7ol0WMN3VltQxhRW) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [รวมเพลงมีผลต่อหัวใจ](https://open.spotify.com/album/3iAjy7MQQBhsWQrEuoGWwm) | 5:21 |
-| 92 | [เรา](https://open.spotify.com/track/3CCcOP9IQHVQoYIFKuS5BP) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [เรา \- Single](https://open.spotify.com/album/1DdTVigUvEMwqK6r710cZ8) | 5:06 |
+| 91 | [เรา](https://open.spotify.com/track/3CCcOP9IQHVQoYIFKuS5BP) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [เรา \- Single](https://open.spotify.com/album/1DdTVigUvEMwqK6r710cZ8) | 5:06 |
+| 92 | [ความรักกำลังก่อตัว](https://open.spotify.com/track/0Xo1zj7ol0WMN3VltQxhRW) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [รวมเพลงมีผลต่อหัวใจ](https://open.spotify.com/album/3iAjy7MQQBhsWQrEuoGWwm) | 5:21 |
 | 93 | [หากเธอเคยรักใคร \(IF YOU LOVE\)](https://open.spotify.com/track/08OtCoRVu0sHp8dmCddtvg) | [Waii](https://open.spotify.com/artist/2RMcYn32IFfN1FQdpUArrC), [Koen](https://open.spotify.com/artist/0Uz2jjlCiSOpsxSD7qOEB0) | [หากเธอเคยรักใคร \(IF YOU LOVE\)](https://open.spotify.com/album/49h8RHuCZSrOZKqsE9q8JM) | 3:35 |
 | 94 | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF) | 4:06 |
 | 95 | [บังเอิญเจอแต่ตั้งใจรัก](https://open.spotify.com/track/6bm7Zdq8xy3LGBNua0jqjL) | [wish.](https://open.spotify.com/artist/6GZyaaDSiWwDYjBySZh3rR) | [บังเอิญเจอแต่ตั้งใจรัก](https://open.spotify.com/album/49Qf1EQQSsZ0QqDQCji7on) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 99 | [ดูดฝุ่น \(home.\)](https://open.spotify.com/track/74H9bBeNa5SMITV645EYJs) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ดูดฝุ่น \(home.\)](https://open.spotify.com/album/1qbmY8Bpi6BStFmenXfGum) | 2:55 |
 | 100 | [YOU YOU YOU](https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV), [Ammy The Bottom Blues](https://open.spotify.com/artist/4mNN31oshOzZr3yx4aXI3n) | [เอิ๊ต ภัทรวี \(New Single 2014\)](https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx) | 3:40 |
 
-Snapshot ID: `MCw1YTk1YzY0MjBjYjVmYjY5MGExNjNmYzczOGU5ODVjM2IxMGNkZjkx`
+Snapshot ID: `MCxlNWEzOTFkYmIzM2E1YTlkNDQ1MzQ1MzE3NjQwNTQ1OTVjYTAyMGJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 
 > All the best soul disco sounds for getting down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,903 likes - 62 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,943 likes - 62 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 13 | [I Love to Love](https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L) | [Tina Charles](https://open.spotify.com/artist/7Jbs4wPCLaKXPxrTxZ2zaa) | [I Love To Love \- The Best Of](https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647) | 3:03 |
 | 14 | [Now That We Found Love](https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 4:41 |
 | 15 | [Can You Feel It](https://open.spotify.com/track/0RAiBUgOC5pgFUHsldtix3) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Triumph](https://open.spotify.com/album/5YhOA7OGN6xFPwQznkfe69) | 5:59 |
-| 16 | [Ain't No Stoppin' Us Now \- Single Version](https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [The Best Of Philadelphia International Records](https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ) | 3:37 |
-| 17 | [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 3:11 |
+| 16 | [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 3:11 |
+| 17 | [Ain't No Stoppin' Us Now \- Single Version](https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [The Best Of Philadelphia International Records](https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ) | 3:37 |
 | 18 | [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 |
 | 19 | [Best of My Love](https://open.spotify.com/track/6UjlpJhUqOQqv0hrb38IDI) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [The Best Of The Emotions: Best Of My Love](https://open.spotify.com/album/30OwtFBugzMGsAYhXzEBEP) | 3:39 |
 | 20 | [Everlasting Love](https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 2:33 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 28 | [It's Raining Men](https://open.spotify.com/track/7iFwfXNYy0goAL54aupC7Q) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [Super Hits](https://open.spotify.com/album/31eNtoMOM0eUpPwJKtAxTL) | 5:26 |
 | 29 | [Lost in Music \- 1995 Remaster](https://open.spotify.com/track/7zpm7lTY2EZn7AfFm3mGg2) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [The Best of Sister Sledge \(1973\-1985\)](https://open.spotify.com/album/4L1Astvd0LwOkF49jQ2Uyt) | 4:47 |
 | 30 | [I Was Made for Dancin'](https://open.spotify.com/track/3kovBaZ1LGLH1PL31qG7cL) | [Leif Garrett](https://open.spotify.com/artist/2MyNAoQL07EABerr6yhoT4) | [The Leif Garrett Collection](https://open.spotify.com/album/1FWTjROros7lbWXXmHKqJc) | 3:16 |
-| 31 | [Only the Strong Survive](https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 5:35 |
-| 32 | [Native New Yorker \- 12" Disco Mix](https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [Odyssey \(Expanded Edition\)](https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6) | 5:36 |
+| 31 | [Native New Yorker \- 12" Disco Mix](https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [Odyssey \(Expanded Edition\)](https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6) | 5:36 |
+| 32 | [Only the Strong Survive](https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 5:35 |
 | 33 | [Love Really Hurts Without You](https://open.spotify.com/track/1wZAaGMT6gnaCqck7dwjKv) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [The Very Best of Billy Ocean](https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi) | 2:59 |
 | 34 | [Call Me](https://open.spotify.com/track/68M9HBtwqarUhBrQ6zn3zy) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyy Line](https://open.spotify.com/album/5YNJQp00hB4tUznV7zrAV2) | 6:22 |
 | 35 | [Bad Luck \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [To Be True \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3) | 6:26 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 49 | [Running Away](https://open.spotify.com/track/3KLYkhq8QGEuKRkKj6E694) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 4:00 |
 | 50 | [Disco Nights \(Rock Freak\) \- Single Remix](https://open.spotify.com/track/2dZVfFCuI0PGE6jYF4pfHo) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [More Monty](https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh) | 3:53 |
 | 51 | [T.S.O.P\. \(The Sound of Philadelphia\) \(feat\. The Three Degrees\) \- "A Tom Moulton Mix"](https://open.spotify.com/track/5WYFSYfwfUH7pv2fs6BbDD) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of MFSB: Love Is The Message](https://open.spotify.com/album/5zeco1PwkqbFAWd9yNpz6S) | 5:48 |
-| 52 | [Stop and Think](https://open.spotify.com/track/4QyFXKzo9k8tivQiFgQ36J) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Disco Champs](https://open.spotify.com/album/6IBI01gmj7d5BpfiaD9cGh) | 5:03 |
-| 53 | [Best Love](https://open.spotify.com/track/4pJCC6lAVFM1ApmZcjTqxZ) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Stronger Than Ever \(Expanded Edition\)](https://open.spotify.com/album/1KpU7ibCL9fRpFlFBAujxy) | 3:53 |
+| 52 | [Best Love](https://open.spotify.com/track/4pJCC6lAVFM1ApmZcjTqxZ) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Stronger Than Ever \(Expanded Edition\)](https://open.spotify.com/album/1KpU7ibCL9fRpFlFBAujxy) | 3:53 |
+| 53 | [Stop and Think](https://open.spotify.com/track/4QyFXKzo9k8tivQiFgQ36J) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Disco Champs](https://open.spotify.com/album/6IBI01gmj7d5BpfiaD9cGh) | 5:03 |
 | 54 | [A Simple Game](https://open.spotify.com/track/6xvDMk1KQE1ZaMZg4ZSEdn) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Here You Are: The Best of Billy Ocean](https://open.spotify.com/album/40xWoQoVhjcXS9h7LFcjjz) | 5:03 |
 | 55 | [Take Good Care of Yourself](https://open.spotify.com/track/5fVF22MwGwAiRBbuMDJf1u) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:25 |
 | 56 | [Funkin' for Jamaica](https://open.spotify.com/track/1es1B258zAVeXx6uzksrJd) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [The Best Year Of My Life: 1981G010004775674D](https://open.spotify.com/album/34psLr9vLAgw49ehAgo6SJ) | 3:53 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 61 | [You Little Trustmaker](https://open.spotify.com/track/0oBGKZP0d982ct1ZZeX6Uq) | [The Tymes](https://open.spotify.com/artist/0a1BmEq1mZ5ufKMC2fsziR) | [Disco Party](https://open.spotify.com/album/7Kneel529obA7Qd9glamb4) | 2:49 |
 | 62 | [Pipeline](https://open.spotify.com/track/50nRo6MZZE81IxYWNaUiQd) | [Bruce Johnston](https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:57 |
 
-Snapshot ID: `MCwzNTFhODBjMjE5ZDA5MDU4MTg4NTJlMmRhNjdiODViMjNiYzE2ZGYx`
+Snapshot ID: `MCw3OGFiNjk3OTAwZWZmOTYxMjZkNTVmNjYyY2UzZjU1NTUwZjIwZmVh`

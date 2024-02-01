@@ -1,12 +1,12 @@
 {
   "description": "monochrome bliss. Cover: Matty Healy in the \"Robbers\" music video from The 1975.\n",
-  "num_followers": 144408,
+  "num_followers": 144687,
   "original_name": "reblog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDNlNWFhYzIxYTVjODNmMjk2NmQxZDdlMDQ1NDYyMTk1NWE0N2Fi",
+  "snapshot_id": "MCw0MGEyM2JkZWU2MGVkZDJmMDlmMjczMzE0MTQxNjgwYWFiNTgwYmU0",
   "tracks": [
     {
       "added_at": "2024-01-22 23:30:40",
@@ -531,18 +531,18 @@
     {
       "added_at": "2024-01-22 23:30:40",
       "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+        "name": "FOUR (Deluxe)",
+        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
         }
       ],
-      "duration_ms": 193058,
-      "name": "Team",
-      "url": "https://open.spotify.com/track/3G6hD9B2ZHOsgf4WfNu7X1"
+      "duration_ms": 228133,
+      "name": "Steal My Girl",
+      "url": "https://open.spotify.com/track/2Bs4jQEGMycglOfWPBqrVG"
     },
     {
       "added_at": "2024-01-22 23:30:40",
@@ -563,18 +563,18 @@
     {
       "added_at": "2024-01-22 23:30:40",
       "album": {
-        "name": "FOUR (Deluxe)",
-        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
       },
       "artists": [
         {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 228133,
-      "name": "Steal My Girl",
-      "url": "https://open.spotify.com/track/2Bs4jQEGMycglOfWPBqrVG"
+      "duration_ms": 193058,
+      "name": "Team",
+      "url": "https://open.spotify.com/track/3G6hD9B2ZHOsgf4WfNu7X1"
     },
     {
       "added_at": "2024-01-22 23:30:40",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-01-22 23:30:40",
       "album": {
+        "name": "Surfer Rosa",
+        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 234973,
+      "name": "Where Is My Mind? - Remastered",
+      "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
+    },
+    {
+      "added_at": "2024-01-22 23:30:40",
+      "album": {
         "name": "Believe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
-    },
-    {
-      "added_at": "2024-01-22 23:30:40",
-      "album": {
-        "name": "Surfer Rosa",
-        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "Where Is My Mind? - Remastered",
-      "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
     },
     {
       "added_at": "2024-01-22 23:30:40",
@@ -811,18 +811,22 @@
     {
       "added_at": "2024-01-22 23:30:40",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+        "name": "Journals",
+        "url": "https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 257563,
-      "name": "Knee Socks",
-      "url": "https://open.spotify.com/track/2LGdO5MtFdyphi2EihANZG"
+      "duration_ms": 248133,
+      "name": "Confident",
+      "url": "https://open.spotify.com/track/3JsydWaf2Ev4ehaLUjj3SY"
     },
     {
       "added_at": "2024-01-22 23:30:40",
@@ -843,22 +847,18 @@
     {
       "added_at": "2024-01-22 23:30:40",
       "album": {
-        "name": "Journals",
-        "url": "https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA"
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 248133,
-      "name": "Confident",
-      "url": "https://open.spotify.com/track/3JsydWaf2Ev4ehaLUjj3SY"
+      "duration_ms": 257563,
+      "name": "Knee Socks",
+      "url": "https://open.spotify.com/track/2LGdO5MtFdyphi2EihANZG"
     },
     {
       "added_at": "2024-01-22 23:30:40",
@@ -1085,22 +1085,6 @@
       "url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0"
     },
     {
-      "added_at": "2024-01-22 23:30:40",
-      "album": {
-        "name": "Good News For People Who Love Bad News",
-        "url": "https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0"
-      },
-      "artists": [
-        {
-          "name": "Modest Mouse",
-          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Float On",
-      "url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
-    },
-    {
       "added_at": "2024-01-24 21:22:39",
       "album": {
         "name": "+",
@@ -1115,6 +1099,22 @@
       "duration_ms": 258373,
       "name": "The A Team",
       "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
+    },
+    {
+      "added_at": "2024-01-22 23:30:40",
+      "album": {
+        "name": "Good News For People Who Love Bad News",
+        "url": "https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Float On",
+      "url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
     },
     {
       "added_at": "2024-01-22 23:30:40",

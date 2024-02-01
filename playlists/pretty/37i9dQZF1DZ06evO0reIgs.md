@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,293 likes - 51 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,289 likes - 51 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 35 | [O Que Você Faz](https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [O Que Você Faz](https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd) | 3:01 |
 | 36 | [Beira Mar](https://open.spotify.com/track/0WIcuCP4r3jBup7JRk7yRO) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Beira Mar](https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX) | 3:00 |
 | 37 | [Te Ver Sorrindo](https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:37 |
-| 38 | [Me Negaram Amor \- Ao Vivo](https://open.spotify.com/track/5jIA3vKNB2oVYk2BO4QRQD) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Guias e Ondas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72) | 5:22 |
-| 39 | [Efeito Violeta](https://open.spotify.com/track/2bSyfmK45fx7zNbVLR5Wpj) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Efeito Violeta](https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx) | 3:59 |
+| 38 | [Efeito Violeta](https://open.spotify.com/track/2bSyfmK45fx7zNbVLR5Wpj) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Efeito Violeta](https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx) | 3:59 |
+| 39 | [Me Negaram Amor \- Ao Vivo](https://open.spotify.com/track/5jIA3vKNB2oVYk2BO4QRQD) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Guias e Ondas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72) | 5:22 |
 | 40 | [Alaska, Pt\. 2](https://open.spotify.com/track/4GX3rgGpnofCyMdLzILs09) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Teoria do Ciclo da Água](https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5) | 3:52 |
 | 41 | [Fé](https://open.spotify.com/track/2cAsgavVid3IoFYfiUgHzi) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Do Caos ao Nirvana](https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43) | 3:45 |
 | 42 | [Sol \- Ao Vivo](https://open.spotify.com/track/4O8gYGa5prhNlI2xmNJvgc) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Alaska](https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [O Florista \(Ao Vivo\)](https://open.spotify.com/album/6Je8cRaW3ftIYD4O7ZfwaC) | 3:41 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 50 | [Me Deixa](https://open.spotify.com/track/7nmPP9MYKOhDZa8eQP4pMY) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Me Deixa](https://open.spotify.com/album/1rnBqFFqGQz5rJn0sIGDPk) | 3:56 |
 | 51 | [Anjos E Ancestrais](https://open.spotify.com/track/125ytOCb7oOEy9KAyDqXYD) | [Urbanamente](https://open.spotify.com/artist/49rYuhLNSc8WNdIw5CV0kT), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB), [Billy Billy](https://open.spotify.com/artist/1uUyWteV2hZskmno7GVARe), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Anjos E Ancestrais](https://open.spotify.com/album/7hIG0UDU2dWiObYml5ZNxz) | 3:33 |
 
-Snapshot ID: `Mjg0NDM2MzgsMDAwMDAwMDA0YmU2MTYyMTdmMjgxYTQzZTUzNDVhOTI1OTU3ODkyYQ==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDBiZTQ4MGQzOTUxMDc4ZmMzMWM2ZWY3OWRlMmJmNjAwZg==`

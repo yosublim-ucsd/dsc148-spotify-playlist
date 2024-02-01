@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-120 songs - 6 hr 35 min
+121 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Faces](https://open.spotify.com/track/32eAYk36CwX2cP81zfRl4M) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:22 | 2024-01-29 |  |
 | [Fall](https://open.spotify.com/track/2BEXL3mUgofqfZ4OyxWfHQ) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Fall](https://open.spotify.com/album/0ZL2T8qNUEbBf6pzg8IGin) | 2:54 | 2024-01-29 |  |
 | [Finding Our Way](https://open.spotify.com/track/0Uc2Bg05ybIP7eMu2U73O5) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd), [Steve James](https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY) | [Finding Our Way](https://open.spotify.com/album/0uHc8tnBZlYglLFzVHyfUT) | 2:53 | 2024-01-29 |  |
-| [Follow Me](https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Follow Me](https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK) | 2:49 | 2024-01-29 |  |
+| [Follow Me](https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Follow Me](https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK) | 2:49 | 2024-01-29 | 2024-02-01 |
+| [Follow Me](https://open.spotify.com/track/1cxzQfvZrPP1vm8U1BlTyM) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Follow Me \(Official Video\)](https://open.spotify.com/album/2VxvQNDuUZF2wqpBiq60r3) | 3:01 | 2024-01-31 |  |
 | [Foolish](https://open.spotify.com/track/1vf2fGxOHfMF1N4DdYLezO) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Foolish](https://open.spotify.com/album/460TrK0D9edU86CAKWJu3x) | 3:32 | 2024-01-29 |  |
 | [Friend Of Mine](https://open.spotify.com/track/6amr2Sdv9yw7Y917GZToj9) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Friend Of Mine](https://open.spotify.com/album/26EjAdOrdU9jo56sG11uy9) | 3:14 | 2024-01-29 |  |
 | [Glow](https://open.spotify.com/track/3mwiwIozeFMcyayHReAXyE) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:50 | 2024-01-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Il meglio della musica indipendente italiana, aggiornata il terzo mercoledì di ogni mese\. Cover: <a href="spotify:artist:0PvxzN9MSvVMYj0b0fuwzA">Arianna Pasini</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,931 likes - 49 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,933 likes - 49 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 48 | [Participio presente](https://open.spotify.com/track/3CDsLDD6NEPXMmQueo0igD) | [Anna Castiglia](https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV) | [Participio presente](https://open.spotify.com/album/4YViPL4lZonhU6aGSRTJfU) | 2:58 |
 | 49 | [Buio \(al sicuro\)](https://open.spotify.com/track/4l0x8auMApmHiMNyNBNVFr) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr), [Maëlys](https://open.spotify.com/artist/4fuZBTq8KLPsKbYPQl0bZZ) | [Buio \(al sicuro\)](https://open.spotify.com/album/5e0vV5aXeDX55cMrwSXoA5) | 2:12 |
 
-Snapshot ID: `MCw4Mjg3ZDdhZTU4NGU3NDUwYjliZTExMGY0MzNlYWMxNzdkYzM4YWI1`
+Snapshot ID: `MCxlNTBkZTVkMTVjYzI5MGRjN2I4ZmQzZTY4YTI5N2E1YTcwN2JmMDk3`

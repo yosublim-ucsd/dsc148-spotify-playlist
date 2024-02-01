@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 
 > Get ready, to do, do rocksteady
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,374 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,434 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 17 | [Save A Bread](https://open.spotify.com/track/5G0P8RIKWn9jVLiBWi9ViH) | [Justin Hinds](https://open.spotify.com/artist/485PbpVEwbo7jAYs8Z3v9J), [The Dominoes](https://open.spotify.com/artist/3zdYjbgCIa2XJWb6Yc325v) | [Early Recordings](https://open.spotify.com/album/0Daz83iFRx526smzsDFbFL) | 2:40 |
 | 18 | [I Wish It Would Rain](https://open.spotify.com/track/4njWxfEHksGVwsDyWfrDLh) | [The Techniques](https://open.spotify.com/artist/7aSGHNg5TRgbrzaUclcNAK) | [Little Did You Know](https://open.spotify.com/album/2H0aBHRwn49rCmpupyMTuz) | 2:22 |
 | 19 | [Everything Crash](https://open.spotify.com/track/5zmWqhwriJRLBRDEKBAk8t) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Dis One A Scorcher! Absolutely The Best Of Roots and Culture Vol\. 1](https://open.spotify.com/album/0c1hEokDa1kA83dV2qFHoE) | 2:37 |
-| 20 | [I Want to Go Home](https://open.spotify.com/track/3Os9iWjdMkVVu4VxCE8tl7) | [Derrick Morgan](https://open.spotify.com/artist/2RM3xqQNdhZknQBsyQl3ZM) | [Joe Gibbs Presents the Big Take Over](https://open.spotify.com/album/2IT1Ynodi5qTV3E2ZTrEI1) | 2:21 |
-| 21 | [Judge Dread](https://open.spotify.com/track/0XmbuWZ2vn1i8bim4Ug6BL) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Prince Buster \- Fabulous Greatest Hits \[Diamond Range\]](https://open.spotify.com/album/3pLpyasCCfOs6mG4FylfVc) | 3:38 |
+| 20 | [Judge Dread](https://open.spotify.com/track/0XmbuWZ2vn1i8bim4Ug6BL) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Prince Buster \- Fabulous Greatest Hits \[Diamond Range\]](https://open.spotify.com/album/3pLpyasCCfOs6mG4FylfVc) | 3:38 |
+| 21 | [I Want to Go Home](https://open.spotify.com/track/3Os9iWjdMkVVu4VxCE8tl7) | [Derrick Morgan](https://open.spotify.com/artist/2RM3xqQNdhZknQBsyQl3ZM) | [Joe Gibbs Presents the Big Take Over](https://open.spotify.com/album/2IT1Ynodi5qTV3E2ZTrEI1) | 2:21 |
 | 22 | [Blow Roland Blow](https://open.spotify.com/track/3HWPrduj1Nv7woSyLV3lDy) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb), [Roland Alphonso](https://open.spotify.com/artist/3AxcTqkr4hkBaUEU7J4mSn) | [Skatalites & Friends At Randy's](https://open.spotify.com/album/0xXoIWRmo6jchM2Tf1AjDF) | 2:29 |
 | 23 | [Little Boy Blue](https://open.spotify.com/track/4M8o993Gt5U6mSogtuviYn) | [Pat Kelly](https://open.spotify.com/artist/5mLxA9ySBmpMnMNvx1bEUi) | [The Vintage Series](https://open.spotify.com/album/79trt5vU4vqyna7znhWjqD) | 2:46 |
 | 24 | [Freedom Street](https://open.spotify.com/track/5gmPvjSX3PyYClSYx5a4ym) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [The Ken Boothe Collection: Eighteen Classic Songs](https://open.spotify.com/album/6cSDnbzwTqmz3h9v38qMuA) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 49 | [Never Found a Girl](https://open.spotify.com/track/7JeKEYyHe1D7IseeOrPSeH) | [Cornell Campbell](https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi) | [Trojan Lovers Collection](https://open.spotify.com/album/0dqxC81crojSFb0MHjagaQ) | 3:53 |
 | 50 | [Lost Without You](https://open.spotify.com/track/6vGhyZvt0jbLb06wrFnB3K) | [Lloyd Charmers](https://open.spotify.com/artist/3mSM2ALYf2unI6Hk6NGBmD) | [Jamaican Rock Steady Party](https://open.spotify.com/album/3b5MkzDcKc935xC3JR1aVI) | 2:02 |
 
-Snapshot ID: `MCw4YjE0NjQwYjY3YTVlNzAyNGNkMWVhNzBiNGEzNjNhOTJmNDE1Zjll`
+Snapshot ID: `MCwzNThiNjI3ODU1YmZkM2NkMWY0NmFiZjM3YWFjMGFmZDJhZDNiYTQ1`

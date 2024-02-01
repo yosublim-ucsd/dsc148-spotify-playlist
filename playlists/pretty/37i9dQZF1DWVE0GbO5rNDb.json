@@ -1,12 +1,12 @@
 {
   "description": "Hit dance per l'estate 2023, anche in autunno \ud83d\udc40",
-  "num_followers": 102707,
+  "num_followers": 102703,
   "original_name": "Estate Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODViZWE5Y2EyYzYyOWJmMGYzNzlhMzM0OWYyNDU1OWRlODMyM2Mw",
+  "snapshot_id": "MCwxOTU0ZTA1YzM0ZWZlYThhNDhlYWVmYTE5Mjg2ODJlNWQyMzUxNTkw",
   "tracks": [
     {
       "added_at": "2023-11-10 00:01:00",
@@ -827,22 +827,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
+        "name": "Some Say (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr"
       },
       "artists": [
         {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
         },
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         }
       ],
-      "duration_ms": 197640,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
+      "duration_ms": 186878,
+      "name": "Some Say - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -867,6 +867,26 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
+      },
+      "artists": [
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Easy On My Heart",
         "url": "https://open.spotify.com/album/4HW5Zf1o0eOxIfQETZFqab"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 178593,
       "name": "Easy On My Heart",
       "url": "https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Some Say (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr"
-      },
-      "artists": [
-        {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 186878,
-      "name": "Some Say - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 193018,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "World, Hold On (FISHER Rework)",
         "url": "https://open.spotify.com/album/5a5yqCyb7xF3Hklvlwc3t3"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 178304,
       "name": "World, Hold On - FISHER Rework",
       "url": "https://open.spotify.com/track/6quGF3Kvzd5WYEEuCmvCe1"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 193018,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Stop This Flame (Celeste x MK)",
+        "url": "https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "duration_ms": 203946,
+      "name": "Stop This Flame - Celeste x MK",
+      "url": "https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Coming Home (feat. Norma Jean Martine)",
         "url": "https://open.spotify.com/album/3NVn8xsuoWREk1RCnNNHGo"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 136866,
       "name": "Coming Home (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/4idV4UhKatC5h4Na8dhBQo"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Stop This Flame (Celeste x MK)",
-        "url": "https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        }
-      ],
-      "duration_ms": 203946,
-      "name": "Stop This Flame - Celeste x MK",
-      "url": "https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Tears In Ibiza (feat. AR/CO)",
-        "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
-      },
-      "artists": [
-        {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 143579,
-      "name": "Tears In Ibiza (feat. AR/CO)",
-      "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Do You Dance?",
         "url": "https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0"
       },
@@ -1535,22 +1515,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Hit 'Em Up Style (Oops!)",
-        "url": "https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk"
+        "name": "Tears In Ibiza (feat. AR/CO)",
+        "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
       },
       "artists": [
         {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
         },
         {
-          "name": "James Hurr",
-          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
         }
       ],
-      "duration_ms": 159840,
-      "name": "Hit 'Em Up Style (Oops!)",
-      "url": "https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR"
+      "duration_ms": 143579,
+      "name": "Tears In Ibiza (feat. AR/CO)",
+      "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1575,26 +1555,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Anywhere With You",
-        "url": "https://open.spotify.com/album/6kLYOTLTjIjADp2VfU9qGQ"
+        "name": "Hit 'Em Up Style (Oops!)",
+        "url": "https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk"
       },
       "artists": [
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
         },
         {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
         }
       ],
-      "duration_ms": 158807,
-      "name": "Anywhere With You",
-      "url": "https://open.spotify.com/track/3wfNiPBrzDwuanE75Ar6pS"
+      "duration_ms": 159840,
+      "name": "Hit 'Em Up Style (Oops!)",
+      "url": "https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1615,6 +1591,30 @@
       "duration_ms": 201700,
       "name": "Sun Will Shine",
       "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Anywhere With You",
+        "url": "https://open.spotify.com/album/6kLYOTLTjIjADp2VfU9qGQ"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 158807,
+      "name": "Anywhere With You",
+      "url": "https://open.spotify.com/track/3wfNiPBrzDwuanE75Ar6pS"
     },
     {
       "added_at": "2023-11-10 00:01:00",

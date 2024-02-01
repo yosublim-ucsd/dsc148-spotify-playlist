@@ -10283,6 +10283,24 @@
     },
     {
       "album": {
+        "name": "Sick of Love",
+        "url": "https://open.spotify.com/album/3G1eFv8dHnjuXXTT1sMqIs"
+      },
+      "artists": [
+        {
+          "name": "BOYCOLD",
+          "url": "https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "I can\u2019t be cool (with Leellamarz)",
+      "url": "https://open.spotify.com/track/1GnC5Vv0iJ3eTnsWtMFG4X"
+    },
+    {
+      "album": {
         "name": "I Don't Love You",
         "url": "https://open.spotify.com/album/1WHtJ18aMLsWdxak99t7Bh"
       },

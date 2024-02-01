@@ -1,12 +1,12 @@
 {
   "description": "in our emo cowgirl era",
-  "num_followers": 138681,
+  "num_followers": 138820,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjlmMDk1YTRkMjRkNmEwZWMxY2JkODhiMjVjNGZlNTkwYWQ2NTkx",
+  "snapshot_id": "MCwyNWEzNzY2N2I5NmZmZDVjMDc5MGNkOTk2NmJlOGU4NWFjNGY3ZjU0",
   "tracks": [
     {
       "added_at": "2024-01-24 20:57:31",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-01-24 20:57:31",
       "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Weak-End",
+      "url": "https://open.spotify.com/track/56lYNZIKYuWDjYkfvJao2e"
+    },
+    {
+      "added_at": "2024-01-24 20:57:31",
+      "album": {
         "name": "when was it over? (feat. Sam Hunt)",
         "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 218093,
       "name": "when was it over? (feat. Sam Hunt)",
       "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
-    },
-    {
-      "added_at": "2024-01-24 20:57:31",
-      "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Weak-End",
-      "url": "https://open.spotify.com/track/56lYNZIKYuWDjYkfvJao2e"
     },
     {
       "added_at": "2024-01-24 20:57:31",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-01-24 20:57:31",
       "album": {
-        "name": "WildHorse",
-        "url": "https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4"
+        "name": "Welcome To The Block Party (Deluxe)",
+        "url": "https://open.spotify.com/album/4kFbZ2kjG26kkUifzKfy7L"
       },
       "artists": [
         {
-          "name": "RaeLynn",
-          "url": "https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n"
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
         }
       ],
-      "duration_ms": 225626,
-      "name": "Love Triangle",
-      "url": "https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu"
+      "duration_ms": 179213,
+      "name": "Just About Over You",
+      "url": "https://open.spotify.com/track/7AoU7WDzb1zr2p4ldkOokr"
     }
   ],
   "unique_name": "sad girl country",

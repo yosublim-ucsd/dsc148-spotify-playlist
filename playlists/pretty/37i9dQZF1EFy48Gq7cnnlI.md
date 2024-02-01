@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1St9w8DIFsyXLZAnjNUpZ1">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 735 likes - 99 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 737 likes - 99 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 15 | [Say](https://open.spotify.com/track/5VjTlCuX8C11QDunDwvyNh) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Ready](https://open.spotify.com/album/4iosTZ1wD4C0psaI0E2pS5) | 3:47 |
 | 16 | [11 Blocks](https://open.spotify.com/track/7nZBRPj89rgeZ5eBLp2J7P) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [11 Blocks](https://open.spotify.com/album/57rHDJLhLfj9IrMxzaj8UX) | 3:42 |
 | 17 | [Put It on Me](https://open.spotify.com/track/7tySfDFfBiCjraLdoy6In5) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [The Hearse](https://open.spotify.com/album/0CibAyYN112OULmO1Rhpsv) | 3:22 |
-| 18 | [Real Thing](https://open.spotify.com/track/24KD18eYQQQWaSW9Von1vA) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 3:12 |
+| 18 | [Real Thing](https://open.spotify.com/track/3xy59RTqh0ifZnYo7OadAE) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Real Thing \(Official Video\)](https://open.spotify.com/album/4NSFlacwk090x7LoWaMVBP) | 3:44 |
 | 19 | [I Believe You](https://open.spotify.com/track/4GUXTRTjQ4voLzwLw9qbPx) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [I Believe You](https://open.spotify.com/album/7c6s5q0fbvQF5wFQAsmzo7) | 3:12 |
-| 20 | [HEAVEN](https://open.spotify.com/track/3UY0uh3yv7dnqqxXiYxdoO) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [HEAVEN](https://open.spotify.com/album/1TeNMlkjnyOCYbSJ0hlDA7) | 4:22 |
+| 20 | [HEAVEN](https://open.spotify.com/track/5VrgqxF4HM4NgCboCTbMnL) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 4:21 |
 | 21 | [The Book of You & I](https://open.spotify.com/track/2CSrG5fnBpcdfPXg7sJUBi) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [These Two Windows](https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP) | 3:27 |
 | 22 | [Thing for You \(with Martin Solveig\)](https://open.spotify.com/track/0IhTEIjFaRt3B2NQYf9azQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl) | [Thing For You \(With Martin Solveig\)](https://open.spotify.com/album/1cbCgek1ORPGZFKlBIhBmH) | 3:11 |
 | 23 | [Love Runs Out \(feat\. G\-Eazy & Sasha Alex Sloan\)](https://open.spotify.com/track/3jbAzLVcHiI5hYSkcKe1Ty) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Love Runs Out \(feat\. G\-Eazy & Sasha Alex Sloan\)](https://open.spotify.com/album/0Lwms3Z89fmqqyVWPkZUCY) | 2:44 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 98 | [Last Girl on Earth](https://open.spotify.com/track/6PPxnLwM1Bzyyo0K2Kf5zK) | [Tristan](https://open.spotify.com/artist/0dxAnY1JAcSuYnBckIDhRv) | [Last Girl on Earth](https://open.spotify.com/album/6MUJP0mwWCuUeG9TgAMm2M) | 3:21 |
 | 99 | [Lose Myself](https://open.spotify.com/track/5GiQpCHV469WHEbhef3EVB) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:50 |
 
-Snapshot ID: `Mjg0NDQ0NjAsMDAwMDAwMDBmMTEzZTFmMzU4NWIyYTk4MDI4YmYzN2U1ZTgxNTc5Yg==`
+Snapshot ID: `Mjg0NDU5MDAsMDAwMDAwMDAyZWI3ZTNiZjc3Y2NiMzIxYTJiNDI4MzdkNGU0MGYzZQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,354 likes - 100 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,435 likes - 100 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 42 | [Tan Solo Cree](https://open.spotify.com/track/52UBY1QBlCTRAyWa6GO0mZ) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [Algo Grande Viene](https://open.spotify.com/album/72sKgqdTMvoBgWyVo6ZzXX) | 4:12 |
 | 43 | [Llevame Al Lugar Santísimo](https://open.spotify.com/track/68ejKEwjnLJrJgu2ozQdJQ) | [Palabra en Acción](https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw), [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Glorificad a Jehová](https://open.spotify.com/album/4lUhv9nQbzpz4fU8WEuGLd) | 5:13 |
 | 44 | [Lo Unico Que Quiero](https://open.spotify.com/track/10TpHf2j6C6RTRQnYtFPsp) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J) | 7:27 |
-| 45 | [Toda la Gloria](https://open.spotify.com/track/3lTjQX4rSNfLhXrqyNM8nn) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Fuego](https://open.spotify.com/album/3cDznNz3cXNQql9O9KTAvi) | 6:00 |
-| 46 | [El Gran Yo Soy](https://open.spotify.com/track/16YdGLnlR0Tj71dsVvNNGE) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Metamorfosis](https://open.spotify.com/album/03uDbnflTv0xXsuzFujD04) | 5:24 |
+| 45 | [El Gran Yo Soy](https://open.spotify.com/track/16YdGLnlR0Tj71dsVvNNGE) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Metamorfosis](https://open.spotify.com/album/03uDbnflTv0xXsuzFujD04) | 5:24 |
+| 46 | [Toda la Gloria](https://open.spotify.com/track/3lTjQX4rSNfLhXrqyNM8nn) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Fuego](https://open.spotify.com/album/3cDznNz3cXNQql9O9KTAvi) | 6:00 |
 | 47 | [Jehová Es Mi Guerrero/Le Llaman \(Reprise\)](https://open.spotify.com/track/5IsqUSeMnxmoEdX9Ooot0r) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Fuego](https://open.spotify.com/album/1IIvk8o6xJnkPmzo8eSqXR) | 2:16 |
 | 48 | [Viviré](https://open.spotify.com/track/7DWyJ2oYpAGq5B9qSc1jEx) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Pura Sal](https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV) | 3:58 |
 | 49 | [Iglesia](https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [La Compilación](https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe) | 4:05 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 86 | [Cree Solamente](https://open.spotify.com/track/6cLuBLskbkBxJrb0evIlNJ) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Encuentros](https://open.spotify.com/album/4oUfJWOg2hDqi8wjqgshPU) | 4:38 |
 | 87 | [Mi Pastor](https://open.spotify.com/track/0MIYKvXKwR7FuMBoQYgZoi) | [Jésed](https://open.spotify.com/artist/3TXp4wMgvRheVQPf1PEV2P), [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [Renacer](https://open.spotify.com/album/13M8kgTgN9up2JtRwFgBy4) | 4:12 |
 | 88 | [¿De Quién Temeré? \(Dios De Ejércitos\)](https://open.spotify.com/track/60J9n7mYcPsunOxSJGjSqW) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Me Vistió De Promesas](https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp) | 4:19 |
-| 89 | [Asi Porque Si](https://open.spotify.com/track/3s1s6qKRUTx4inaKh32he7) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Motivos Para Amarte](https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL) | 4:51 |
-| 90 | [Padre Nuestro](https://open.spotify.com/track/3Askzcj7HSPFNv5T32Vh3E) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Padre Nuestro](https://open.spotify.com/album/2gPeuoMs6OLrrS66wEhXCh) | 6:11 |
+| 89 | [Padre Nuestro](https://open.spotify.com/track/3Askzcj7HSPFNv5T32Vh3E) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Padre Nuestro](https://open.spotify.com/album/2gPeuoMs6OLrrS66wEhXCh) | 6:11 |
+| 90 | [Asi Porque Si](https://open.spotify.com/track/3s1s6qKRUTx4inaKh32he7) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Motivos Para Amarte](https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL) | 4:51 |
 | 91 | [Haz Llover](https://open.spotify.com/track/3O51YNgaVGHrrFLXLVJxNO) | [Jose Luis Reyes](https://open.spotify.com/artist/5hijN7Isgf4lf43c50XwOp) | [Se Abren Los Cielos \( Pistas\)](https://open.spotify.com/album/6lW1vofyUsYzC7QvktsrpU) | 4:36 |
 | 92 | [Gloria al Rey](https://open.spotify.com/track/6SnHXX14msb6bqMfyi90vP) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko) | [Gloria al Rey](https://open.spotify.com/album/15HKsmmPyBtoy9D1I4oziz) | 4:24 |
 | 93 | [Anciano de Días \- Live](https://open.spotify.com/track/4QNG4X8Kph67GRGZC5TnAu) | [Luigi Castro](https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9) | [Anhelo Conocerte](https://open.spotify.com/album/0N3Fy6ufUY6nS0q82SpDFu) | 6:37 |
 | 94 | [Abro Mis Brazos](https://open.spotify.com/track/5nkdEfOSuBaHmSeDCPgw5e) | [Lenny Salcedo](https://open.spotify.com/artist/3SAz8B6xf4eS1TuWnBppf8) | [Acústico](https://open.spotify.com/album/6xnrqwm4OHFjNJ7ScJut1V) | 3:49 |
 | 95 | [Llena Este Lugar](https://open.spotify.com/track/2mOaRojOOLqKh4nnpcE6qL) | [Joan Sanchez](https://open.spotify.com/artist/5iWIrC7cCdB1YEfIn15ONZ), [RPBand](https://open.spotify.com/artist/2iF6pJUq2ukNP5AP2YfAY3) | [Llena Este Lugar](https://open.spotify.com/album/6LYfjLkiy8qNTibTf4klao) | 6:10 |
-| 96 | [Pedir Perdon](https://open.spotify.com/track/25rQ4tq18dcdSoabIPCLgR) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Motivos Para Amarte](https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL) | 5:23 |
-| 97 | [Tengo Sed De Ti](https://open.spotify.com/track/40cVQj7FN9WmRCcNGcetZn) | [Tony Pérez](https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ) | [He Visto Su Gloria](https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6) | 7:27 |
-| 98 | [Tu Voluntad](https://open.spotify.com/track/1bkekelOajuDH9SxvazW6G) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Tu Voluntad](https://open.spotify.com/album/5K6pp3sMIXMxkzYcQDJ6yU) | 6:27 |
+| 96 | [Tengo Sed De Ti](https://open.spotify.com/track/40cVQj7FN9WmRCcNGcetZn) | [Tony Pérez](https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ) | [He Visto Su Gloria](https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6) | 7:27 |
+| 97 | [Tu Voluntad](https://open.spotify.com/track/1bkekelOajuDH9SxvazW6G) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Tu Voluntad](https://open.spotify.com/album/5K6pp3sMIXMxkzYcQDJ6yU) | 6:27 |
+| 98 | [Pedir Perdon](https://open.spotify.com/track/25rQ4tq18dcdSoabIPCLgR) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Motivos Para Amarte](https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL) | 5:23 |
 | 99 | [Mi confianza está en ti \(remix\)](https://open.spotify.com/track/1Qn5cNivk7VRHKFgDAOBsN) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Mi confianza está en ti \(remix\)](https://open.spotify.com/album/4P70uBMLI7M22FKLIVZU96) | 5:33 |
 | 100 | [Hijo Pródigo](https://open.spotify.com/track/3nnICl5SaGPht8Ndnq1IDM) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1) | 4:47 |
 
-Snapshot ID: `MCxiYzMyZmMzNGUxZjdkMmNmMWQwYjEzN2I1Mjg3N2Y4ZDgyNTE5NWJm`
+Snapshot ID: `MCxjNzAxZDQzNTQyODhmNTI5ZGQ2MTMxN2RjZTFmMDU1ZjIzMDcxMzI0`

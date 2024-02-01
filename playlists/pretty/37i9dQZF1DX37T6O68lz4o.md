@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 
 > New England music breaking waves\. Cover: <a href="spotify:artist:1DN9Pgv4fiAaRSSgiisj5G">Felix!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,470 likes - 49 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,484 likes - 49 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 38 | [DONE BEING BROKE](https://open.spotify.com/track/2ZFTzop62lkocOJ1nCkKiH) | [WHYTRI](https://open.spotify.com/artist/4z1mmeq6Dsr43uwzLiTXys), [Malik Elijah](https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh) | [DONE BEING BROKE](https://open.spotify.com/album/0X9xx1cnBVkqdGFwpz9Yu3) | 3:38 |
 | 39 | [Yeah Yeah](https://open.spotify.com/track/3FScVu3qZNU2isUYNvCwh4) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Angels Never Die](https://open.spotify.com/album/5jjL60rm8RzpoEQ3vs7lDf) | 2:46 |
 | 40 | [Ain't Trippin](https://open.spotify.com/track/2ztRHARBf4Mp13vbNRkEFS) | [Lee Bezel](https://open.spotify.com/artist/73lsSnZSw4FUrXyCtlKS1G) | [Ain't Trippin](https://open.spotify.com/album/45H9VeEuVkoZZMSRuVH4Zo) | 1:51 |
-| 41 | [Wave Affair](https://open.spotify.com/track/2gC3jb2rkTpLwt3fuKb7Bt) | [Grubby Pawz](https://open.spotify.com/artist/4kmovQMQ9hZIvJSyivXQAP), [BoriRock](https://open.spotify.com/artist/3KlJV8iotDsiPz2UGGHXeL), [al.divino](https://open.spotify.com/artist/5jyagx5BZME4APq93Q1HwZ), [Shaykh Hanif](https://open.spotify.com/artist/6EqAIMZx0lEotAZ7tDQvTg), [Hidden Character](https://open.spotify.com/artist/5XCmdhAHqNwTcRpg6Clnmz), [Estee Nack](https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd) | [WAVY BULLET](https://open.spotify.com/album/4cT5zvT4mBLlWOLIuy2vAX) | 4:43 |
+| 41 | [Wave Affair](https://open.spotify.com/track/2gC3jb2rkTpLwt3fuKb7Bt) | [Grubby Pawz](https://open.spotify.com/artist/4kmovQMQ9hZIvJSyivXQAP), [BoriRock](https://open.spotify.com/artist/3KlJV8iotDsiPz2UGGHXeL), [al.divino](https://open.spotify.com/artist/5jyagx5BZME4APq93Q1HwZ), [Shaykh Hanif](https://open.spotify.com/artist/6EqAIMZx0lEotAZ7tDQvTg), [The Hidden Character](https://open.spotify.com/artist/1ADhnoBdMpGX3rE2nh4tcY), [Estee Nack](https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd) | [WAVY BULLET](https://open.spotify.com/album/4cT5zvT4mBLlWOLIuy2vAX) | 4:43 |
 | 42 | [DEMNUHWANT](https://open.spotify.com/track/73Bq6FQ3FrlIxaPXL3WIiF) | [Kadeem](https://open.spotify.com/artist/6tvhrOPkBOrTrzpfOB5n4R), [Loman](https://open.spotify.com/artist/3Dub887prH9nL1AFHcXE5g) | [PEACE OF HOME](https://open.spotify.com/album/5OYghbL3835zfXgoBk8VzN) | 3:02 |
 | 43 | [Wilderness Of North America](https://open.spotify.com/track/0IevlrsvzOjnBXHgCZndWb) | [Shaykh Hanif](https://open.spotify.com/artist/6EqAIMZx0lEotAZ7tDQvTg), [Michaelangelo](https://open.spotify.com/artist/3aYQXcymMDktzapDd73jeE) | [Wilderness of North America](https://open.spotify.com/album/7lggioJ5UOxTHzoakQFlwG) | 2:23 |
 | 44 | [NASTY](https://open.spotify.com/track/42olN3GovhKfxvKCPoFloS) | [Big Super](https://open.spotify.com/artist/4BgZiBtnUFKNx62M3YIIqh), [Ken Frank](https://open.spotify.com/artist/36A8ykIWSdqME291FZKke6) | [It's Nothin.](https://open.spotify.com/album/0Wb43WKS2wZl0GKP39s9NS) | 2:15 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 48 | [3 Am](https://open.spotify.com/track/7s2akMKHmx4C283JgZVYTN) | [C\. Wells](https://open.spotify.com/artist/4gfQutFlhH2GGtixg1ItOw), [Deon Chase](https://open.spotify.com/artist/0cAaXrP84y4CSfmJ5A7oKU) | [Keisha Blue](https://open.spotify.com/album/2EG5F7Cx65j5BXgVjim7QH) | 4:13 |
 | 49 | [Tex Winter](https://open.spotify.com/track/1OThgI6OIvuSR69zloLAvV) | [Sensei Sol](https://open.spotify.com/artist/1ZLJtRLhwdamkS2UddAexN), [T Clipse](https://open.spotify.com/artist/2VUOGUpWy8Ckg92h8EjBIW) | [Tex Winter](https://open.spotify.com/album/5Y2cAh4NajtDUXCJnrBtJE) | 2:54 |
 
-Snapshot ID: `MCwxMDA3NDk0OTk5ZGZkNGU1ZGIyNWNiOGU5MDAxYWE5N2M4OWUxYWNh`
+Snapshot ID: `MCxiMjQ2M2EyOWQzOTJhODRhZDMyMDU1NzFlOWY2ZmM5ZDczNmI4Yjk0`

@@ -803,6 +803,36 @@
     },
     {
       "album": {
+        "name": "Motteke! Sailor Fuku",
+        "url": "https://open.spotify.com/album/3VEAlxkmR2eYNJsuoB9J1x"
+      },
+      "artists": [
+        {
+          "name": "Konata Izumi (CV: Aya Hirano)",
+          "url": "https://open.spotify.com/artist/6iKqcqxRfV6U2GEUmv8CpO"
+        },
+        {
+          "name": "Kagami Hiiragi (CV: Emiri Kato)",
+          "url": "https://open.spotify.com/artist/5fvbPC8rqrkz1VsqLqRx0D"
+        },
+        {
+          "name": "Tsukasa Hiiragi (CV: Kaori Fukuhara)",
+          "url": "https://open.spotify.com/artist/5J8HJhja1Yop5ZDTQqRafw"
+        },
+        {
+          "name": "Miyuki Takara (CV: Aya Endo)",
+          "url": "https://open.spotify.com/artist/7HNz2eAmvR2X7bGuHrBgpw"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254840,
+      "name": "Motteke! Sailor Fuku",
+      "url": "https://open.spotify.com/track/5Sg6CkwSkxByWyODIw0q5Y"
+    },
+    {
+      "album": {
         "name": "THE BEST History of GARNET CROW at the crest...",
         "url": "https://open.spotify.com/album/3e3NS2L4bziOWpIMvnRE3R"
       },
@@ -1348,7 +1378,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 244333,
       "name": "\u30d7\u30ea\u30ba\u30e0",
       "url": "https://open.spotify.com/track/7IMoiKwhGgECXyV9DvHImQ"

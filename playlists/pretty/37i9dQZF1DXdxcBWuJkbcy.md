@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > All the dance tracks that make you run fast and lift heavy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,040,216 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,040,111 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 79 | [Wrong or Right \(The Riddle\)](https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Wrong or Right \(The Riddle\)](https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm) | 2:34 |
 | 80 | [Let Me Think About It Again](https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh) | [Let Me Think About It Again](https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz) | 3:15 |
 
-Snapshot ID: `MCxiNDM1YTM1NGRlNDk5MmMxMDcxNTdkZjU3MzRiYzUxYjZhMWE0NzA5`
+Snapshot ID: `MCw3NTAxZWM2NTI5Y2VlOWJmZmQ5YWNjZjIwMjUyNmEwYmVjYzg2ZDQ3`

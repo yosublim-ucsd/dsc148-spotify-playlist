@@ -108,7 +108,7 @@
       ],
       "date_added": "2019-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 74285,
       "name": "3rd Times a Charm",
       "url": "https://open.spotify.com/track/1IE1sTE0Lbpz63ZMGTqMiH"
@@ -1544,6 +1544,28 @@
       "duration_ms": 132411,
       "name": "Coastal Drift",
       "url": "https://open.spotify.com/track/2VBmbnFWjxMsjHA4QTeU6o"
+    },
+    {
+      "album": {
+        "name": "Old School",
+        "url": "https://open.spotify.com/album/61kntO8ai8PRanFmxbto1m"
+      },
+      "artists": [
+        {
+          "name": "DOWORK",
+          "url": "https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe"
+        },
+        {
+          "name": "Spinal Twist",
+          "url": "https://open.spotify.com/artist/6BpctUJp2F1LbpUAFrhG4R"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108292,
+      "name": "Coffee Nap",
+      "url": "https://open.spotify.com/track/2LZJaynuXZL9YWrsNkq1Yg"
     },
     {
       "album": {

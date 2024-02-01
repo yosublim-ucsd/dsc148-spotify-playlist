@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: \(G\)I\-DLE
 
-894 songs - 2 day 0 hr 46 min
+895 songs - 2 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -838,7 +838,8 @@
 | [WHO](https://open.spotify.com/track/1RU1ry7qZofRufTO3YZN0Y) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [REFUGE](https://open.spotify.com/album/3GVcAqBdESv9QSCfYOreJ9) | 2:54 | 2022-03-15 | 2022-06-08 |
 | [WHO WE ARE](https://open.spotify.com/track/1pffMzj3YtanzjAJrlrKym) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [WHO WE ARE](https://open.spotify.com/album/6MPzEK36QIcH3bVcko4Lf4) | 3:03 | 2022-05-10 | 2022-06-29 |
 | [Who’s Next \- Japanese Ver.](https://open.spotify.com/track/5SHAUAk5YAygByFKuNFiGg) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [Who’s Next \(Japanese Ver.; Selected Edition\)](https://open.spotify.com/album/7j3rYTbmLqSiNzyuArdu87) | 3:12 | 2023-08-01 | 2023-08-17 |
-| [Wife](https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Wife](https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK) | 2:01 | 2024-01-25 |  |
+| [Wife](https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:01 | 2024-01-30 |  |
+| [Wife](https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Wife](https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK) | 2:01 | 2024-01-25 | 2024-02-01 |
 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 | 2022-12-02 | 2022-12-19 |
 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Youjeen](https://open.spotify.com/artist/4wVcCedmr7FHtUlFnIeJIG) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 4:33 | 2022-12-16 | 2023-07-14 |
 | [WILDSIDE](https://open.spotify.com/track/4RmEqYXrb89Mlwzm2p6Wyd) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Bloom](https://open.spotify.com/album/4ualu7nMAcmoAqp47YaA95) | 3:49 | 2022-03-29 | 2022-07-23 |

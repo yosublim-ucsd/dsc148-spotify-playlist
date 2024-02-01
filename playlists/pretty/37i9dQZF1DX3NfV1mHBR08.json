@@ -1,29 +1,13 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 15052,
+  "num_followers": 15056,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjYyMTRjOTE4ZDUxMmE5YjAxZjczMDIxMmY2N2YxYWZlM2QyNWI3",
+  "snapshot_id": "MCw0Mjk3ZDRhY2Y4MWIwNTljNGI5MTI4ZmFhZWUyMmVlNWY2MTU4MjA5",
   "tracks": [
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
-        "name": "Either Way",
-        "url": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 166946,
-      "name": "Either Way",
-      "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
-    },
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 264480,
       "name": "For Youth",
       "url": "https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
+        "name": "Either Way",
+        "url": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 166946,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/2RhEisiqycAq2YrXJcUL4r"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 241676,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/3bHE2Q0boauLBF8iJLUIga"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
         "name": "Red Moon: To You My Light",
         "url": "https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 265586,
       "name": "To You My Light (feat. LEE RAON)",
       "url": "https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/2RhEisiqycAq2YrXJcUL4r"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 241676,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/3bHE2Q0boauLBF8iJLUIga"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "Red Diary Page.1",
-        "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 186173,
-      "name": "Fix me",
-      "url": "https://open.spotify.com/track/6bSkF997fC5HQz6BuEZkXV"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
         "name": "how i remember",
         "url": "https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS"
       },
@@ -471,18 +455,18 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "Webtoon YEONNOM OST Part.1",
-        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
+        "name": "Red Diary Page.1",
+        "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
       },
       "artists": [
         {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
         }
       ],
-      "duration_ms": 220996,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
+      "duration_ms": 186173,
+      "name": "Fix me",
+      "url": "https://open.spotify.com/track/6bSkF997fC5HQz6BuEZkXV"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -499,6 +483,22 @@
       "duration_ms": 229066,
       "name": "be",
       "url": "https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
+        "name": "Webtoon YEONNOM OST Part.1",
+        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 220996,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "28",
-        "url": "https://open.spotify.com/album/4zNdM3E1IkGKMHObzUCull"
-      },
-      "artists": [
-        {
-          "name": "OKDAL",
-          "url": "https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE"
-        }
-      ],
-      "duration_ms": 179026,
-      "name": "\uc218\uace0\ud588\uc5b4, \uc624\ub298\ub3c4 Cheer Up",
-      "url": "https://open.spotify.com/track/74S870utHcrils7QiOw0Jh"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
         "name": "be by my side",
         "url": "https://open.spotify.com/album/6Fhp3DHf8QeJ77Buf1KLjA"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 213320,
       "name": "be by my side",
       "url": "https://open.spotify.com/track/1K3N3pF1uu1WPRD2QFEz06"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
+        "name": "28",
+        "url": "https://open.spotify.com/album/4zNdM3E1IkGKMHObzUCull"
+      },
+      "artists": [
+        {
+          "name": "OKDAL",
+          "url": "https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE"
+        }
+      ],
+      "duration_ms": 179026,
+      "name": "\uc218\uace0\ud588\uc5b4, \uc624\ub298\ub3c4 Cheer Up",
+      "url": "https://open.spotify.com/track/74S870utHcrils7QiOw0Jh"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "Girls Planet 999 - Completion Mission",
-        "url": "https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU"
-      },
-      "artists": [
-        {
-          "name": "Girls Planet 999",
-          "url": "https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "Another Dream",
-      "url": "https://open.spotify.com/track/1UUJwdNBSVQAQMZYHfkIa5"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
         "name": "Extraordinary Attorney Woo (Original Television SoundTrack) Pt. 1",
         "url": "https://open.spotify.com/album/1JNQlhazNG0N5gK1NoLAuK"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 262143,
       "name": "Brave",
       "url": "https://open.spotify.com/track/30g5E9MteFxeG9pDvRKJNl"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
+        "name": "Girls Planet 999 - Completion Mission",
+        "url": "https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU"
+      },
+      "artists": [
+        {
+          "name": "Girls Planet 999",
+          "url": "https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "Another Dream",
+      "url": "https://open.spotify.com/track/1UUJwdNBSVQAQMZYHfkIa5"
     }
   ],
   "unique_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",

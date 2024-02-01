@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 148578,
+  "2024-02-01": 148983,
   "date_first_scraped": "2022-12-22",
   "description": "Calming green frequencies and nature sounds to help you relax and sleep.",
   "name": "Green Noise",
@@ -273,6 +273,24 @@
       "duration_ms": 152325,
       "name": "Calming Green Noise",
       "url": "https://open.spotify.com/track/0QT7Dck1QWqG0NQGJKR7Ou"
+    },
+    {
+      "album": {
+        "name": "Chilled River Green Noise",
+        "url": "https://open.spotify.com/album/7IwRJAsn5nU3zFtailEEgN"
+      },
+      "artists": [
+        {
+          "name": "EXOA",
+          "url": "https://open.spotify.com/artist/16fII77WGyUG8E5DTIW4EU"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291397,
+      "name": "Chilled River Green Noise",
+      "url": "https://open.spotify.com/track/1UpiQ7Z6bnoBFbJKXcgZ2s"
     },
     {
       "album": {
@@ -1015,6 +1033,24 @@
       "duration_ms": 188000,
       "name": "Green Evening Ocean",
       "url": "https://open.spotify.com/track/2VP7RtSDwj76BLDYGQiwvX"
+    },
+    {
+      "album": {
+        "name": "Green Noise for Enhanced Focus",
+        "url": "https://open.spotify.com/album/1oYGouMScArBt0krAIxZtI"
+      },
+      "artists": [
+        {
+          "name": "Traumknaster",
+          "url": "https://open.spotify.com/artist/1JRRm7saRlAnaZ9AcWM8Oc"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138286,
+      "name": "Green Lean Restore Machine",
+      "url": "https://open.spotify.com/track/77rVezumBupVO5JRPKwFQU"
     },
     {
       "album": {
@@ -2278,6 +2314,24 @@
     },
     {
       "album": {
+        "name": "Green Noise for Enhanced Focus",
+        "url": "https://open.spotify.com/album/1oYGouMScArBt0krAIxZtI"
+      },
+      "artists": [
+        {
+          "name": "Traumknaster",
+          "url": "https://open.spotify.com/artist/1JRRm7saRlAnaZ9AcWM8Oc"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144288,
+      "name": "Green Noise for Enhanced Focus",
+      "url": "https://open.spotify.com/track/6GVhirfXv9tjaHwk2Jr3L3"
+    },
+    {
+      "album": {
         "name": "Green Noise for the Sleep Deprived",
         "url": "https://open.spotify.com/album/3S1v3gV0hrrysV9A7Lu88Y"
       },
@@ -2404,6 +2458,24 @@
     },
     {
       "album": {
+        "name": "Green Noise is Life",
+        "url": "https://open.spotify.com/album/0mL0y3qFGLTlaQ6Vkwgc0x"
+      },
+      "artists": [
+        {
+          "name": "Brightlo",
+          "url": "https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300802,
+      "name": "Green Noise is Life",
+      "url": "https://open.spotify.com/track/5ivZ5WTf84iuIAjTt7KqUe"
+    },
+    {
+      "album": {
         "name": "Green Noise Journeys",
         "url": "https://open.spotify.com/album/3i7VNGNsXlXPj1GrT2hdy6"
       },
@@ -2459,6 +2531,24 @@
       "duration_ms": 291234,
       "name": "Green Noise Magic",
       "url": "https://open.spotify.com/track/3oK6kZ95Uvo3VK9E2yytE5"
+    },
+    {
+      "album": {
+        "name": "Green Noise Mind",
+        "url": "https://open.spotify.com/album/0BJh3mKhK5Bsmz4elpkisa"
+      },
+      "artists": [
+        {
+          "name": "Lavia 6",
+          "url": "https://open.spotify.com/artist/1TaKbrkFRAq5YJoMieIMPR"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310891,
+      "name": "Green Noise Mind",
+      "url": "https://open.spotify.com/track/03n4WeRbseuCnBcwrcoAw4"
     },
     {
       "album": {
@@ -4579,7 +4669,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 209632,
       "name": "River of Green Noise",
       "url": "https://open.spotify.com/track/0wwrXUgjEnoLbABJti20z8"

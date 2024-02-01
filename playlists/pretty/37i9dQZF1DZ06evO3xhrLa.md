@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 
 > This is Jhené Aiko\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,290 likes - 52 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,350 likes - 52 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 | 51 | [you vs them](https://open.spotify.com/track/68s7fE0r719vZa7E1OqNaR) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 3:24 |
 | 52 | [Wasted Love Freestyle](https://open.spotify.com/track/1zsxlqBfktCpTXK9CjUpyW) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Wasted Love Freestyle](https://open.spotify.com/album/2zMEyUCS2gU5Igc5A6dhaU) | 3:47 |
 
-Snapshot ID: `Mjg0NDM2MzksMDAwMDAwMDAxNTI3MjhhNWQyYzE3YTk3ZTNmZTFmZjYyNDQzN2Q1ZQ==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDAwMDljN2E2OGZhNTUxOTFhNDQ2MjkxNzVjZWNkMDUzYw==`

@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 1,
+  "2024-02-01": 1,
   "date_first_scraped": "2023-03-31",
   "description": "albums i plan to listen to eventually",
   "name": "Zacklog",
@@ -2527,6 +2527,24 @@
       "duration_ms": 162764,
       "name": "Dodecahedron",
       "url": "https://open.spotify.com/track/0rbBNWwPxwXUSlqUmlh4JK"
+    },
+    {
+      "album": {
+        "name": "Buoys",
+        "url": "https://open.spotify.com/album/3vnTHiTvlOcNFg2wCK0Uyl"
+      },
+      "artists": [
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221586,
+      "name": "Dolphin",
+      "url": "https://open.spotify.com/track/10n7ftA9Y0hAdaFMWDYsk2"
     },
     {
       "album": {

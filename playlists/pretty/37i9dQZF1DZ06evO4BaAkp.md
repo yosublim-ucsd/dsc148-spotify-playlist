@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BaAkp.md) - [plain]
 
 > This is Arctic Monkeys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,616,123 likes - 55 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,616,397 likes - 55 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BaAkp.md) - [plain]
 | 42 | [She's Thunderstorms](https://open.spotify.com/track/5xw2cHVLw1rlDPp3cL9Zuv) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:54 |
 | 43 | [You're So Dark](https://open.spotify.com/track/40DwUg5zPX8H23WpTdD2iW) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [One For The Road](https://open.spotify.com/album/7FwV5ibe9JVQZvnR9brOz2) | 3:02 |
 | 44 | [One Point Perspective](https://open.spotify.com/track/1t67WYNfUxfOiwaz7SJ66b) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe) | 3:28 |
-| 45 | [Jet Skis On The Moat](https://open.spotify.com/track/2HReNSxrMRcJ0cYMzKAJK6) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:17 |
-| 46 | [Leave Before The Lights Come On](https://open.spotify.com/track/4Du0BRUJvKybzxcRplp7HF) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw) | 3:53 |
+| 45 | [Leave Before The Lights Come On](https://open.spotify.com/track/4Du0BRUJvKybzxcRplp7HF) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw) | 3:53 |
+| 46 | [Jet Skis On The Moat](https://open.spotify.com/track/2HReNSxrMRcJ0cYMzKAJK6) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:17 |
 | 47 | [Black Treacle](https://open.spotify.com/track/7EUcOIbJSePmXGvAe7G79C) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:37 |
 | 48 | [Tranquility Base Hotel & Casino](https://open.spotify.com/track/2URDbWGmPz3vhagl25p8OC) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe) | 3:31 |
 | 49 | [The Bakery](https://open.spotify.com/track/2amJsWuU8ohAth78f2QOLD) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Fluorescent Adolescent](https://open.spotify.com/album/5SkPWtT5QFPsV2ix1J5Lnm) | 2:56 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BaAkp.md) - [plain]
 | 54 | [Mr Schwartz](https://open.spotify.com/track/5fClRRa7P9nPIpstj50veV) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:30 |
 | 55 | [Despair In The Departure Lounge](https://open.spotify.com/track/605E2oDpy3uSIhbRFcrQyn) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Who The F\*\*\* Are Arctic Monkeys?](https://open.spotify.com/album/3tEGBDGnejHf4mx1YSqKnb) | 3:22 |
 
-Snapshot ID: `Mjg0NDM2MzgsMDAwMDAwMDBiYWIzM2EzYzhlZTM1ZmIzZTMxODc5NDk1NDMxOWM1NA==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDA1MWQ5NGI4NTdlMTgxMWQ0N2IzZGM4OGFhYjc5NTA5OA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,354 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,336 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 72 | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU) | 2:44 |
 | 73 | [Deep End](https://open.spotify.com/track/3Ez1aIT6ljEWE0W3qNhl62) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Deep End](https://open.spotify.com/album/3tUqZawXHgIOYvRgrvpa9n) | 2:36 |
 | 74 | [Ladybug](https://open.spotify.com/track/2VWs3tTCpvPIPwwgpG68Gj) | [Düzer](https://open.spotify.com/artist/6CCZHHwdSXxweCgJmcf3DJ) | [Ladybug](https://open.spotify.com/album/1VZQh9Bo7jrxRrXTkxJN2R) | 2:06 |
-| 75 | [Here To Party \- Shaun Dean Remix](https://open.spotify.com/track/7aUSQFp0twv9wpborjXV0V) | [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38), [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC) | [Here To Party \(Shaun Dean Remix\)](https://open.spotify.com/album/33REBrf4zWzcTBuCfZX0Tt) | 3:29 |
-| 76 | [Asking \(feat\. Clementine Douglas\) \- Joshwa Remix](https://open.spotify.com/track/3ouJdNXRk1JFjXGu11Q5BR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Asking \(feat\. Clementine Douglas\) \[Joshwa Remix\]](https://open.spotify.com/album/1RotBVyL3ROSBdHQ5soI2L) | 3:01 |
+| 75 | [Asking \(feat\. Clementine Douglas\) \- Joshwa Remix](https://open.spotify.com/track/3ouJdNXRk1JFjXGu11Q5BR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Asking \(feat\. Clementine Douglas\) \[Joshwa Remix\]](https://open.spotify.com/album/1RotBVyL3ROSBdHQ5soI2L) | 3:01 |
+| 76 | [Here To Party \- Shaun Dean Remix](https://open.spotify.com/track/7aUSQFp0twv9wpborjXV0V) | [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38), [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC) | [Here To Party \(Shaun Dean Remix\)](https://open.spotify.com/album/33REBrf4zWzcTBuCfZX0Tt) | 3:29 |
 | 77 | [Want You To Want Me](https://open.spotify.com/track/3k1L3RdcNeZaL82al94JpC) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Want You To Want Me](https://open.spotify.com/album/1hX3AjSsrrWoxJQgMXPVpu) | 3:07 |
 | 78 | [Bionic Boy](https://open.spotify.com/track/0CtMpuQoedYSaVBVni2rtE) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Bionic Boy](https://open.spotify.com/album/4up90bXZVvpCwtYljSiI16) | 3:26 |
 | 79 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 99 | [You and I Are Equal](https://open.spotify.com/track/6BIweFOFIRXXDLc67A0Spf) | [BluePrint](https://open.spotify.com/artist/0oV5K4BDmoENgjwB8lvDmT) | [You and I Are Equal](https://open.spotify.com/album/1pCPI9WdnyBJ7AR9HTdu4U) | 4:14 |
 | 100 | [Never Let Me Down](https://open.spotify.com/track/3AjzBL7fuEdboRnleIlPIw) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Never Let Me Down](https://open.spotify.com/album/7KCiIL4GO5P7gINLSF5fUF) | 3:05 |
 
-Snapshot ID: `MCw3ODZjNjE2YmRmYzEzYzFkNzIzNGEwYTAzMDg2YTk1NjYxYmZiYzkz`
+Snapshot ID: `MCw1MmVhYWJlYjI3MjQ4YWU1OTNjNDBkNGY5YjRjY2I2YzJjNjk4MGI5`

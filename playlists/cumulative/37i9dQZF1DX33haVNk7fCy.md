@@ -4,7 +4,7 @@
 
 > When everything around you is falling apart.
 
-94 songs - 6 hr 15 min
+95 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Haaye Dard](https://open.spotify.com/track/5Guwp446UExa6M5SIibjfC) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:56 | 2023-08-09 |  |
 | [Hazir Main Rahun](https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Hazir Main Rahun](https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr) | 4:07 | 2023-05-15 |  |
 | [Hum Kya Karein](https://open.spotify.com/track/19KiIzkn7AT9bpgt5KnijH) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Hum Kya Karein](https://open.spotify.com/album/5bh4Z98L2sKtU5lxl9dEJt) | 3:11 | 2023-05-15 |  |
+| [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 | 2024-01-31 |  |
 | [Iktara \- Male Version](https://open.spotify.com/track/37QFYtNOmvmXrgesLTRhMq) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Raman Mahadevan](https://open.spotify.com/artist/5jbcmPkWWDvnHws3S60EVd) | [Javeda Sufiaana](https://open.spotify.com/album/4veoDRq0o3nLw4lqVKU4Pl) | 3:44 | 2023-05-15 |  |
 | [Jaana Zaroori Tha](https://open.spotify.com/track/5pF2tGP1msn2oawd3IMk4F) | [Tejas Gambhir](https://open.spotify.com/artist/1UqE4RqotpyP2zsInnqpYw) | [Jaana Zaroori Tha](https://open.spotify.com/album/2cG4mqO5hv5tLDrm2LLDYY) | 3:27 | 2023-05-15 |  |
 | [Jiyein Kyun](https://open.spotify.com/track/0up9rhm9qt2LW7cnoDFCMk) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Dum Maaro Dum](https://open.spotify.com/album/5RM8pIBX8zU9g8U5WG4zfZ) | 4:24 | 2023-05-15 |  |

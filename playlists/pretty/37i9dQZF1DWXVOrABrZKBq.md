@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Le rap francophone est en forme\. Photo: Loud, EDGE 👔
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,108 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,119 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 14 | [BALLE DANS LE COEUR](https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D) | [Ikaz Boi](https://open.spotify.com/artist/1h0vYLWMAElSWYCjm6RBpe), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BRUT4L](https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC) | 2:40 |
 | 15 | [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 |
 | 16 | [Dans le noir](https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [TRAP$TAR 3](https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5) | 2:40 |
-| 17 | [Croise les doigts](https://open.spotify.com/track/73YvE9CbBiaagW1480dG1T) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Salgrimo](https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE), [Peeda](https://open.spotify.com/artist/7qz5rVVo7GjgNMUzJRfUy4) | [Croise les doigts](https://open.spotify.com/album/22Fy2sn2vAdr7U2NUsk36t) | 3:30 |
+| 17 | [Croise les doigts](https://open.spotify.com/track/73YvE9CbBiaagW1480dG1T) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Salgrimo](https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE), [Peeda](https://open.spotify.com/artist/5ss8XbfkdgN1sTdgyPp6Ed) | [Croise les doigts](https://open.spotify.com/album/22Fy2sn2vAdr7U2NUsk36t) | 3:30 |
 | 18 | [Gaza](https://open.spotify.com/track/2e6LkWTmEDqlUmODfIpZsb) | [Un jour de paix](https://open.spotify.com/artist/4ClHj8bEVJatxqxBqY7SHA), [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Gaza](https://open.spotify.com/album/2wP3iEGhtn0HkcCrX44GhP) | 4:33 |
 | 19 | [100K](https://open.spotify.com/track/0RXp3LrNZo89KjmfUJS0UO) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 1:56 |
 | 20 | [MAGHRIBI](https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 49 | [Sosa](https://open.spotify.com/track/7rM7aSrcKeChtJA3Y6YFp4) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sosa](https://open.spotify.com/album/0zIgRy3ocqZBUl2C6b2625) | 2:37 |
 | 50 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr) | 3:10 |
 
-Snapshot ID: `MCxiZjE5OGRlYzgyZjg1MjdiZDhjOWFlYjhmZjhiY2E3MmE4ODVkOTZl`
+Snapshot ID: `MCw5NWM3NmJjYTI0MzE0OTliY2IzNjdiNjE1OTRhOTE5NmFmYzI0NDk3`

@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 61 | [Kilimanjaro](https://open.spotify.com/track/2sEZK5zMHECzHqd0TwpusQ) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Kilimanjaro](https://open.spotify.com/album/5HvTQ7QabtScNHn8jAJCZk) | 3:27 |
 | 62 | [Tiger Style](https://open.spotify.com/track/2vDpTwmngMfXaLIbDFtNfi) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [Tiger Style](https://open.spotify.com/album/2XV8XjeCKE2aMXKBeTRhHJ) | 2:13 |
 | 63 | [De l'or entre tes mains](https://open.spotify.com/track/0j7uxGJ7Epf7GhoZrbc4aH) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg) | [Danser sur tes mots \(Version deluxe\)](https://open.spotify.com/album/4scYOlTVlXQvNWxqGX6TOk) | 3:17 |
-| 64 | [All I Know](https://open.spotify.com/track/39xqdpzfthBNsFT7SIFCld) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Lovers & Losers](https://open.spotify.com/album/79iONglltoQBuvFp8O4C1r) | 3:11 |
-| 65 | [Just Because I'm Okay](https://open.spotify.com/track/6L4wVtBG339qIHtNOBFHs2) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Because I'm Okay](https://open.spotify.com/album/0vNn3cUzx5e8QtzAr1YYlB) | 3:17 |
+| 64 | [Just Because I'm Okay](https://open.spotify.com/track/6L4wVtBG339qIHtNOBFHs2) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Because I'm Okay](https://open.spotify.com/album/0vNn3cUzx5e8QtzAr1YYlB) | 3:17 |
+| 65 | [All I Know](https://open.spotify.com/track/39xqdpzfthBNsFT7SIFCld) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Lovers & Losers](https://open.spotify.com/album/79iONglltoQBuvFp8O4C1r) | 3:11 |
 | 66 | [Party In My Mind](https://open.spotify.com/track/6AyYs7KHYGCnb1262KBKoq) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Party In My Mind](https://open.spotify.com/album/32935YTcbtHICTMQAzpYdv) | 2:39 |
 | 67 | [Why Are You Not Scared Yet?](https://open.spotify.com/track/7lrPrS3dXaTAWsp3dtJJqg) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Why Are You Not Scared Yet?](https://open.spotify.com/album/3wbB2j0gMejNrkXvg3VVxY) | 2:34 |
 | 68 | [Fever](https://open.spotify.com/track/3QlC75jqpGZSpIi2xM0mfl) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Fever](https://open.spotify.com/album/2HEnmzQD2rjlbGzFnMhbxO) | 2:09 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 92 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 93 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `Mjg0NDQ0NjAsMDAwMDAwMDBkYTRhYzdkOTc0MmY3YThmYmU1NGI3YmM2NzI0MmM5Mw==`
+Snapshot ID: `Mjg0NDU5MDAsMDAwMDAwMDA4NDlkODYxY2EzMzgwMjZhZTBmMjNjMGM0ZWFjYWM1Mw==`

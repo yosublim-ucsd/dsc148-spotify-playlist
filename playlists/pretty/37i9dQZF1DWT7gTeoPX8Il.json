@@ -1,12 +1,12 @@
 {
   "description": "layan je",
-  "num_followers": 104194,
+  "num_followers": 104312,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGU0MDNhZDVkMjI5MzgzMDk1NDc2YjZkMzFhMzM0NTYxYjdkNWQ1",
+  "snapshot_id": "MCxhNWZhNjE3NWI0Njk4MmFlMmI3YmNhM2U1MTI5NmZlYTI3N2ZlNDY1",
   "tracks": [
     {
       "added_at": "2024-01-25 16:06:15",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-01-25 16:06:15",
       "album": {
+        "name": "Mengapa",
+        "url": "https://open.spotify.com/album/52r9TATqxdVDU43VOS8n82"
+      },
+      "artists": [
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "duration_ms": 263800,
+      "name": "Mengapa",
+      "url": "https://open.spotify.com/track/1QgYZyDzY22JkXbAuoYZBe"
+    },
+    {
+      "added_at": "2024-01-25 16:06:15",
+      "album": {
         "name": "Tak Kan Hilang",
         "url": "https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 264939,
       "name": "Muak",
       "url": "https://open.spotify.com/track/3N2WeXxSjngB1DSi8vrI8C"
-    },
-    {
-      "added_at": "2024-01-25 16:06:15",
-      "album": {
-        "name": "Mengapa",
-        "url": "https://open.spotify.com/album/52r9TATqxdVDU43VOS8n82"
-      },
-      "artists": [
-        {
-          "name": "Rony Parulian",
-          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
-        }
-      ],
-      "duration_ms": 263800,
-      "name": "Mengapa",
-      "url": "https://open.spotify.com/track/1QgYZyDzY22JkXbAuoYZBe"
     },
     {
       "added_at": "2024-01-25 16:06:15",

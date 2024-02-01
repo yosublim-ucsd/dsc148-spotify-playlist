@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,264 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,263 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 37 | [Dai Louvores ao Rei](https://open.spotify.com/track/68f92k1JBf9Aq8n69M10Pw) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 3:30 |
 | 38 | [Noite Santa \(Cantique de Noel\)](https://open.spotify.com/track/6keWbatyTby28odg835j18) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 6:36 |
 | 39 | [Por Amor a Nós](https://open.spotify.com/track/5gvwPdd3q0sw1yKmUNEHTw) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:43 |
-| 40 | [Natal Real](https://open.spotify.com/track/7gx0SQWgU3PoLNPW02oRzW) | [Novo Tom](https://open.spotify.com/artist/45y2879LBmuzrx4krY6vQh), [Vitrine UNASP](https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK) | [Natal Real](https://open.spotify.com/album/2m49nalJlB2nQHMjZaeIDK) | 4:16 |
-| 41 | [Busquem a Jesus](https://open.spotify.com/track/6Dhjqku6LpMOMzYJHMiwkl) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [Busquem a Jesus](https://open.spotify.com/album/3X38B5YfsA0lGcY4BEOj3i) | 5:22 |
+| 40 | [Busquem a Jesus](https://open.spotify.com/track/6Dhjqku6LpMOMzYJHMiwkl) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [Busquem a Jesus](https://open.spotify.com/album/3X38B5YfsA0lGcY4BEOj3i) | 5:22 |
+| 41 | [Natal Real](https://open.spotify.com/track/7gx0SQWgU3PoLNPW02oRzW) | [Novo Tom](https://open.spotify.com/artist/45y2879LBmuzrx4krY6vQh), [Vitrine UNASP](https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK) | [Natal Real](https://open.spotify.com/album/2m49nalJlB2nQHMjZaeIDK) | 4:16 |
 | 42 | [Primeiro Natal \(The First Noel\)](https://open.spotify.com/track/2GANoSBnjKrVaJuCX4QXZa) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 3:31 |
 | 43 | [Como Um de Nós \- Ao Vivo](https://open.spotify.com/track/1ALCSur6iFfGd1UuVoF0Td) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Outra Vez, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3RZA19AblrMjpYWIVzPU59) | 4:42 |
 | 44 | [É meia\-noite \(Ó, Noite Santa\)](https://open.spotify.com/track/3Eozx9uSt4NhxmdBonTIFE) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Zoe Lilly](https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp) | [Nasceu o Redentor](https://open.spotify.com/album/6UWRRZufr3qRffAOkIfTfW) | 5:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 49 | [No Humilde Presépio \(Away In a Manger\)](https://open.spotify.com/track/6FW7SRtspdfCTaTv4GM5j3) | [Trio Nascimento](https://open.spotify.com/artist/0nmfUUkYqGngUmVhJfGAFw) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 3:31 |
 | 50 | [Noite Feliz \(Stille Nacht\)](https://open.spotify.com/track/51CfgUkv6ZVK5MMtsuBgWT) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 4:44 |
 
-Snapshot ID: `MCwxNjFiMjY3NjUxODRkNzMwMTcyNTdlNmQ1ODliODA0NGVkMjkwNjY0`
+Snapshot ID: `MCxmYTAwMjYxYzQ1NTA1NTViNDcxN2E3NjBmNzQ1ZDVjNjc4MWY5MDEw`

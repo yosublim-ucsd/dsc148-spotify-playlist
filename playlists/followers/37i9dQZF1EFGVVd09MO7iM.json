@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 3015,
+  "2024-02-01": 3015,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp\">Pharrell Williams</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Pharrell Williams",
@@ -539,6 +539,28 @@
       "duration_ms": 229413,
       "name": "Bad Girl (feat. Trey Songz & Robin Thicke)",
       "url": "https://open.spotify.com/track/3KIPN9BE8rh6ueIFYZHrIZ"
+    },
+    {
+      "album": {
+        "name": "Pretty Girls Like Trap Music",
+        "url": "https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230989,
+      "name": "Bailan",
+      "url": "https://open.spotify.com/track/20hJHh3rZS3qharPd6jAKj"
     },
     {
       "album": {
@@ -1259,10 +1281,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 146597,
       "name": "CAN'T TOUCH THIS",
       "url": "https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ"
+    },
+    {
+      "album": {
+        "name": "CAN'T TOUCH THIS (Official Music Video)",
+        "url": "https://open.spotify.com/album/1WlrXPE879adrcANbXR8lP"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152917,
+      "name": "CAN'T TOUCH THIS",
+      "url": "https://open.spotify.com/track/1pNvU3x12sBnp9MNh2lZyF"
     },
     {
       "album": {
@@ -1592,6 +1632,24 @@
     },
     {
       "album": {
+        "name": "G I R L",
+        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201933,
+      "name": "Come Get It Bae",
+      "url": "https://open.spotify.com/track/24MSdaNRlLgjp8xYeJeXwZ"
+    },
+    {
+      "album": {
         "name": "Come Get It Bae (Video)",
         "url": "https://open.spotify.com/album/4qHzO2ecLAwMgPJFelcBaf"
       },
@@ -1603,7 +1661,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 208725,
       "name": "Come Get It Bae",
       "url": "https://open.spotify.com/track/3FGRLdKEnQStgnG6mnO8gV"
@@ -1846,6 +1904,24 @@
     },
     {
       "album": {
+        "name": "She Wolf (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192706,
+      "name": "Did It Again",
+      "url": "https://open.spotify.com/track/3RaqIAipLoQLVVNm41IMnJ"
+    },
+    {
+      "album": {
         "name": "Did It Again (Official HD Video)",
         "url": "https://open.spotify.com/album/2sXSAK3tbezbUHRLRP706Z"
       },
@@ -1857,7 +1933,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 209642,
       "name": "Did It Again",
       "url": "https://open.spotify.com/track/4XCtvcjGAx8N2LyewQQ6Fu"
@@ -2028,6 +2104,28 @@
     },
     {
       "album": {
+        "name": "Drop It Like It's Hot",
+        "url": "https://open.spotify.com/album/3gt1sMw4q43ZjGULHNGi12"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263187,
+      "name": "Drop It Like It's Hot",
+      "url": "https://open.spotify.com/track/6KGK1lHWnQdOIep0R73XZf"
+    },
+    {
+      "album": {
         "name": "R&G (Rhythm & Gangsta): The Masterpiece",
         "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
       },
@@ -2043,7 +2141,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 266066,
       "name": "Drop It Like It's Hot",
       "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
@@ -2087,10 +2185,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 230080,
       "name": "Ego",
       "url": "https://open.spotify.com/track/3mDB1D92HySxK5NrI7vGqf"
+    },
+    {
+      "album": {
+        "name": "I AM...SASHA FIERCE - Platinum Edition",
+        "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235680,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/5iaVupGhrGVtwBvmGxxYih"
     },
     {
       "album": {
@@ -2714,6 +2830,28 @@
     },
     {
       "album": {
+        "name": "Art And Life",
+        "url": "https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257893,
+      "name": "Girls Dem Sugar",
+      "url": "https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ"
+    },
+    {
+      "album": {
         "name": "Girls Dem Sugar",
         "url": "https://open.spotify.com/album/1vGz6OGCj8RAxyTm84kmPb"
       },
@@ -2729,7 +2867,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 261269,
       "name": "Girls Dem Sugar",
       "url": "https://open.spotify.com/track/73KQfdFwDCmHnhxuCSLo5p"
@@ -2817,6 +2955,32 @@
       "duration_ms": 304453,
       "name": "Go Head",
       "url": "https://open.spotify.com/track/3WDS4uYoR0rOsdtxFCWl1P"
+    },
+    {
+      "album": {
+        "name": "Ibifornia (Deluxe)",
+        "url": "https://open.spotify.com/album/3pz8g0tnXoFdFldlItvxxD"
+      },
+      "artists": [
+        {
+          "name": "Cassius",
+          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
+        },
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332546,
+      "name": "Go Up",
+      "url": "https://open.spotify.com/track/76e4nwnkyaFp4y0T2g01dg"
     },
     {
       "album": {
@@ -2995,10 +3159,36 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 216511,
       "name": "Green Juice",
       "url": "https://open.spotify.com/track/464KhJzB4hUzjwLUDIVqPJ"
+    },
+    {
+      "album": {
+        "name": "Green Juice (feat. Pharrell Williams)",
+        "url": "https://open.spotify.com/album/0VZNwfArwS5haypFDKiXZO"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "The Neptunes",
+          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174136,
+      "name": "Green Juice (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/0VPir804AaU2Iw1ardsDLS"
     },
     {
       "album": {
@@ -3103,10 +3293,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 285626,
       "name": "Gust of Wind",
       "url": "https://open.spotify.com/track/5m6F6glTwHhsolaKD0gGu0"
+    },
+    {
+      "album": {
+        "name": "Gust of Wind (Video)",
+        "url": "https://open.spotify.com/album/4l8l2v3TIwkK56xOwhJySj"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298538,
+      "name": "Gust of Wind",
+      "url": "https://open.spotify.com/track/4IOTUYFspkScbYuIO6meff"
     },
     {
       "album": {
@@ -3296,6 +3504,24 @@
     },
     {
       "album": {
+        "name": "Rock Steady (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242586,
+      "name": "Hella Good",
+      "url": "https://open.spotify.com/track/6AfLmKXzhEZjwiVPs5jhdV"
+    },
+    {
+      "album": {
         "name": "Hella Good",
         "url": "https://open.spotify.com/album/0Qt3CY5x8LgN7beyLPu5OY"
       },
@@ -3307,7 +3533,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 250675,
       "name": "Hella Good",
       "url": "https://open.spotify.com/track/6ejFENGrBGdr40yPgJYRUl"
@@ -4020,6 +4246,24 @@
     },
     {
       "album": {
+        "name": "Cottonwood 2 (Deluxe 2.0)",
+        "url": "https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134424,
+      "name": "IT'S GETTING HOT",
+      "url": "https://open.spotify.com/track/7o9NyyroX5a9Hp0NKMnrYa"
+    },
+    {
+      "album": {
         "name": "IT'S GETTING HOT",
         "url": "https://open.spotify.com/album/483F7Wy5uAfDHB84Tohvfo"
       },
@@ -4031,10 +4275,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 145687,
       "name": "IT'S GETTING HOT",
       "url": "https://open.spotify.com/track/4qDmKSu3dZnyMsphUpKFd7"
+    },
+    {
+      "album": {
+        "name": "It's On Again (The Amazing Spider-Man 2 - Official Video)",
+        "url": "https://open.spotify.com/album/7DtIDOjNVrV4JuENn0L4Sr"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230591,
+      "name": "It's On Again",
+      "url": "https://open.spotify.com/track/25iwSdBP7aQW8XnNPd8EHc"
     },
     {
       "album": {
@@ -4053,7 +4319,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 229827,
       "name": "It's On Again (feat. Kendrick Lamar) - From The Amazing Spider-Man 2 Soundtrack",
       "url": "https://open.spotify.com/track/44EkzAU92xwm30YpD4p31i"
@@ -4633,10 +4899,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 283626,
       "name": "Like I Love You",
       "url": "https://open.spotify.com/track/6W2Ef5Ph6ILTUAedoQ3QIv"
+    },
+    {
+      "album": {
+        "name": "Like I Love You (Official Video)",
+        "url": "https://open.spotify.com/album/5pZjXsf32wcgB6XViXMUjf"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284949,
+      "name": "Like I Love You",
+      "url": "https://open.spotify.com/track/5WBT8hjs92lQvzynqB2UfF"
     },
     {
       "album": {
@@ -4709,7 +4993,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 210965,
       "name": "Lo Hecho Est\u00e1 Hecho",
       "url": "https://open.spotify.com/track/0aKGuqllb0aqMg0xXXSaL2"
@@ -5081,6 +5365,24 @@
       "duration_ms": 173760,
       "name": "Momma I Hit A Lick (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7jKUnzzOGhAlPjr7LkIUlE"
+    },
+    {
+      "album": {
+        "name": "MONEY",
+        "url": "https://open.spotify.com/album/0ZMZvxj46DfhG7uO9Sv3lG"
+      },
+      "artists": [
+        {
+          "name": "MALARKEY",
+          "url": "https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207106,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/5yGSjQrpkqeayvLVywdQtG"
     },
     {
       "album": {
@@ -5995,7 +6297,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 217684,
       "name": "Rock Star",
       "url": "https://open.spotify.com/track/5cHIvFvgLyJH0vvJ2DfixF"
@@ -6176,6 +6478,36 @@
     },
     {
       "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/64L6cAerSIxMVlWeHBegoD"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Sky",
+          "url": "https://open.spotify.com/artist/0JWemE0N1N3nwrtMNg2eMO"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207081,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/6xDj31GhqwGyj6X8f3UbWC"
+    },
+    {
+      "album": {
         "name": "Energ\u00eda",
         "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
       },
@@ -6199,7 +6531,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 205600,
       "name": "Safari",
       "url": "https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge"
@@ -6395,10 +6727,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 210301,
       "name": "She Wants To Move",
       "url": "https://open.spotify.com/track/1TDcDHph0SeDIj02kdg3FT"
+    },
+    {
+      "album": {
+        "name": "Fly Or Die",
+        "url": "https://open.spotify.com/album/1DDsclE9PANAkXHyNjlDI4"
+      },
+      "artists": [
+        {
+          "name": "N.E.R.D",
+          "url": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213786,
+      "name": "She Wants To Move",
+      "url": "https://open.spotify.com/track/4Vqd7MuPVrciqRS3EzhKWb"
     },
     {
       "album": {
@@ -6613,10 +6963,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 246520,
       "name": "So Many Pros",
       "url": "https://open.spotify.com/track/1cnbQIZmuKlMQLENaGl6Bo"
+    },
+    {
+      "album": {
+        "name": "So Many Pros (Video)",
+        "url": "https://open.spotify.com/album/2Qq5zptRXJcjlvG9YwyCMi"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272576,
+      "name": "So Many Pros",
+      "url": "https://open.spotify.com/track/4IKe8LUX0pIre0iE86X7yb"
     },
     {
       "album": {
@@ -6785,7 +7153,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 310186,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/6KNm2BprYhvTXG6i5iW9eY"
@@ -7338,6 +7706,24 @@
     },
     {
       "album": {
+        "name": "There's Something Special [(Despicable Me 3 Original Motion Picture Soundtrack) - Video]",
+        "url": "https://open.spotify.com/album/6QUWA9UCQLLKNFduT7g8fL"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153130,
+      "name": "There's Something Special",
+      "url": "https://open.spotify.com/track/3yzut0D9lkugZZvqzEHIXC"
+    },
+    {
+      "album": {
         "name": "There's Something Special (Despicable Me 3 Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6fJWsCGWz7lIbXvB2aypxQ"
       },
@@ -7349,7 +7735,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 224506,
       "name": "There's Something Special - Despicable Me 3 Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/6aVot93S2TjvQeaWnyKju4"
@@ -7589,10 +7975,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 269400,
       "name": "U Don't Have to Call",
       "url": "https://open.spotify.com/track/5PCJldueshnwqQVjS16543"
+    },
+    {
+      "album": {
+        "name": "U Don't Have To Call (Official Music Video)",
+        "url": "https://open.spotify.com/album/4aZ5Wkyzhhx4MPzqZM9u1V"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302400,
+      "name": "U Don't Have To Call",
+      "url": "https://open.spotify.com/track/5Ug91lMiLo20uV16z3x4Co"
     },
     {
       "album": {

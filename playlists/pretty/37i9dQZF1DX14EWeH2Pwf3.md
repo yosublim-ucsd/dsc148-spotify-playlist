@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: ANNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,732 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,895 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Emotions \(feat\. Tony Boy\)](https://open.spotify.com/track/61hq3p5SiEuYUxNgKF93zq) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Emotions \(feat\. Tony Boy\)](https://open.spotify.com/album/5W4SVDrLe6pUIznOOxVTAb) | 2:46 |
 | 50 | [Cocaina](https://open.spotify.com/track/64qsPgi3QCzSSLz0lMxCn7) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Bendicion](https://open.spotify.com/album/6VTLsm4M3WA9YTf3RNWMnz) | 2:40 |
 
-Snapshot ID: `MCxhM2I2MjY3MjIxM2RjNjJjMTI0NmI2MmIzMjNkNmE2NTBhZTc2ZmMw`
+Snapshot ID: `MCwzNTNmNTBjNzNkZWJiMjBkYmQ3NDA0MDNlMWE4YWY5OWY2NTliMjYx`

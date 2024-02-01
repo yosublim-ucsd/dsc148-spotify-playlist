@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 33397,
+  "num_followers": 33408,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjUyNzE5NTQyNmU4MDEyMzk4NTdiYjAzYWVkMGZlMDJiNTBlZThm",
+  "snapshot_id": "MCxlNTQ4ODEwNWFhZjBkN2E1ZGQ4MjUwOGY5NjEzYWFiODgzN2VmM2Y1",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -447,22 +447,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Small Moments",
-        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
-      },
-      "artists": [
-        {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
-        }
-      ],
-      "duration_ms": 327231,
-      "name": "Rainbow Road",
-      "url": "https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 298208,
       "name": "Puppets",
       "url": "https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Small Moments",
+        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+      },
+      "artists": [
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "duration_ms": 327231,
+      "name": "Rainbow Road",
+      "url": "https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -647,6 +647,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "The Return",
+        "url": "https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N"
+      },
+      "artists": [
+        {
+          "name": "Kamaal Williams",
+          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+        }
+      ],
+      "duration_ms": 513226,
+      "name": "Salaam",
+      "url": "https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "See-Line Woman",
         "url": "https://open.spotify.com/album/1tFCA00rZrSeGHA208PfVY"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 226000,
       "name": "See-Line Woman - Main Mix",
       "url": "https://open.spotify.com/track/7hbcgPOAPdrub7ht2quP04"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "The Return",
-        "url": "https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N"
-      },
-      "artists": [
-        {
-          "name": "Kamaal Williams",
-          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
-        }
-      ],
-      "duration_ms": 513226,
-      "name": "Salaam",
-      "url": "https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -847,6 +847,26 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Straight Line (Remixed)",
+        "url": "https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE"
+      },
+      "artists": [
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+        },
+        {
+          "name": "Neil Cowley",
+          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+        }
+      ],
+      "duration_ms": 376489,
+      "name": "Straight Line - Neil Cowley Remix",
+      "url": "https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Boro",
         "url": "https://open.spotify.com/album/6UZ3r4ENHQYVFeMhBKBuSB"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 352909,
       "name": "Golden Gai",
       "url": "https://open.spotify.com/track/4czb2atdxzqXMe1inOZA7p"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Straight Line (Remixed)",
-        "url": "https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE"
-      },
-      "artists": [
-        {
-          "name": "Holly Walker",
-          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
-        },
-        {
-          "name": "Neil Cowley",
-          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
-        }
-      ],
-      "duration_ms": 376489,
-      "name": "Straight Line - Neil Cowley Remix",
-      "url": "https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU"
     },
     {
       "added_at": "2021-10-08 17:36:35",

@@ -4,7 +4,7 @@
 
 > These songs rocked the 10s\. Cover: Arctic Monkeys
 
-169 songs - 10 hr 27 min
+172 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Black Honey](https://open.spotify.com/track/4FX7dhugVxsKsyC4DgwJyM) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Black Honey](https://open.spotify.com/album/72NG7Su9csuE3s1T7YurnM) | 3:59 | 2023-09-07 | 2023-11-05 |
 | [Black Honey](https://open.spotify.com/track/5EYNb41E5pDliUhP4oMyRx) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Black Honey](https://open.spotify.com/album/7tHrM5fGVhgkRzHWKoUp6j) | 3:59 | 2023-09-07 | 2023-11-06 |
 | [Black Honey](https://open.spotify.com/track/5OeY5LebIOzD9Zvat1Dikf) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [To Be Everywhere Is To Be Nowhere](https://open.spotify.com/album/4hFDcpvIU9F4OleRAR9nNZ) | 3:59 | 2021-12-17 | 2023-11-03 |
-| [Blame It On My Youth](https://open.spotify.com/track/5vGtrfeMjb03aDHGDaIakG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:05 | 2024-01-18 |  |
+| [Blame It On My Youth](https://open.spotify.com/track/5vGtrfeMjb03aDHGDaIakG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:05 | 2024-01-18 | 2024-02-01 |
 | [Blood // Water](https://open.spotify.com/track/0p2IkjLztsjp6OKu4twrGJ) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Dance Monkey \- 10's All Out](https://open.spotify.com/album/4mLKJKA718bklMVI91jQJq) | 3:34 | 2022-11-05 | 2022-11-14 |
 | [Blood // Water](https://open.spotify.com/track/7clyJIrLkEbXUDwj1tC9zz) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:34 | 2022-03-09 |  |
 | [Blood // Water](https://open.spotify.com/track/0AUyNF6iFxMNQsNx2nhtrw) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Blood // Water](https://open.spotify.com/album/2ih65NyzXsPwEsI1sMdyIy) | 3:36 | 2021-12-17 | 2022-07-29 |
@@ -44,13 +44,14 @@
 | [Centuries](https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:48 | 2021-12-17 |  |
 | [Chlorine](https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 5:24 | 2021-12-17 | 2022-02-15 |
 | [Coming For You](https://open.spotify.com/track/0FLmCEO4OccwwiHxveEpt1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:48 | 2023-01-28 |  |
+| [Covered In Chrome](https://open.spotify.com/track/56ElZaTQde4TbRLZ7gn1vw) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost \(10 Year Anniversary Edition\)](https://open.spotify.com/album/5TOhNGKg7g4jiVcWYvI7JQ) | 3:32 | 2024-01-31 |  |
 | [Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 3:47 | 2023-03-13 |  |
 | [Dark Necessities](https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Getaway](https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6) | 5:02 | 2021-12-17 |  |
 | [Daylily](https://open.spotify.com/track/6AgtouHw1KrKy1PsoLjY3o) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:28 | 2023-07-20 |  |
 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2021-12-17 |  |
 | [Do Your Worst](https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 3:30 | 2021-12-17 |  |
 | [Everybody](https://open.spotify.com/track/4yR1YTsrs38dHP6fzcXM93) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Technology](https://open.spotify.com/album/0R3iUk31drnPKGCdb35Cbw) | 3:20 | 2023-03-13 |  |
-| [Feels Like Summer](https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pacific Daydream](https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP) | 3:15 | 2023-03-13 |  |
+| [Feels Like Summer](https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pacific Daydream](https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP) | 3:15 | 2023-03-13 | 2024-02-01 |
 | [Figure It Out](https://open.spotify.com/track/3MjrueDQKVr6xDDseZwhEd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 3:03 | 2021-12-17 | 2022-07-29 |
 | [Figure It Out](https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:03 | 2022-03-09 |  |
 | [Figure It Out](https://open.spotify.com/track/0QdNZ4eqC6FMa7xZ7rYplc) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [So F\*\*kInG cOoL \- Alternative Hits](https://open.spotify.com/album/3W8va9bsPnWq2Ohph6Nqs8) | 3:04 | 2022-11-05 | 2022-11-13 |
@@ -91,6 +92,7 @@
 | [Lights Out](https://open.spotify.com/track/1060gzllf4b0UETAXisR5l) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [How Did We Get So Dark?](https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj) | 3:56 | 2021-12-17 | 2024-01-01 |
 | [Little Monster](https://open.spotify.com/track/2jJj97TVaKnVADqSQ12jAS) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [00s Rock Hits](https://open.spotify.com/album/0fD0l461uWJxxW1eed5A5T) | 3:32 | 2022-11-05 | 2022-11-13 |
 | [Little Monster](https://open.spotify.com/track/3cuxZTcxBj7AL3bgSCIuWL) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:32 | 2022-11-05 | 2023-03-15 |
+| [Live to Rise](https://open.spotify.com/track/0zjTLZdBM5jHXsqP3uJ8sq) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Echo Of Miles: Scattered Tracks Across The Path](https://open.spotify.com/album/0Cpmgfv2YLtBN368ZbBxGY) | 4:40 | 2024-01-31 |  |
 | [Longshot](https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balance](https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r) | 3:52 | 2024-01-18 |  |
 | [Lydia](https://open.spotify.com/track/3pUTJPIxhaMMFKhiMnfi1R) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/3vqHU45940CTywg4uPCE27) | 4:02 | 2021-12-17 | 2022-07-29 |
 | [Lydia](https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 4:02 | 2022-03-09 |  |
@@ -127,6 +129,7 @@
 | [Sail](https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:19 | 2022-03-09 |  |
 | [Satellite](https://open.spotify.com/track/5sG3G54H21hNfd5etlheoe) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Endgame](https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD) | 3:58 | 2023-03-13 |  |
 | [Sextape](https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 4:01 | 2023-03-13 |  |
+| [Silvery Sometimes \(Ghosts\)](https://open.spotify.com/track/3U8JO4cwSGD5wNSsbzbr63) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [SHINY AND OH SO BRIGHT, VOL\. 1 / LP: NO PAST\. NO FUTURE\. NO SUN.](https://open.spotify.com/album/20tssRttKLtNfZBlLXzrSs) | 3:31 | 2024-01-31 |  |
 | [Sirens](https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 5:40 | 2022-02-14 |  |
 | [Something from Nothing](https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Sonic Highways](https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9) | 4:48 | 2023-03-13 | 2023-03-15 |
 | [Something's Gotta Give](https://open.spotify.com/track/0ezRIpvr6J0OlGgg7pCHYt) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Something's Gotta Give](https://open.spotify.com/album/2c853c6qTRPsbTCdjSOv8L) | 3:09 | 2022-11-05 | 2022-11-13 |
@@ -176,6 +179,6 @@
 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 | 2023-07-20 |  |
 | [You’re The Best Thing About Me](https://open.spotify.com/track/2dhJM2skHC9D41gHj34Kgw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:45 | 2023-01-28 |  |
 | [Zombie](https://open.spotify.com/track/1eadPrzB2P0ikQcqhKSAtv) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Disobey](https://open.spotify.com/album/5hDwXxawZfYuNxylzGXcqt) | 4:14 | 2021-12-17 | 2023-08-31 |
-| [Zombie](https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Disobey](https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe) | 4:14 | 2023-07-26 |  |
+| [Zombie](https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Disobey](https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe) | 4:14 | 2023-07-26 | 2024-02-01 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

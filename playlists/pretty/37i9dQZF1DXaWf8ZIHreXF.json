@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 179607,
+  "num_followers": 179654,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTE1NzMwZDBmNGZhZmZmMjhjNmIxYmZmOGNlNmE1MmUwODNhYmFh",
+  "snapshot_id": "MCwwZjNhNTgxZjk3ODBlNGUwYTY5NDY0YzM4ODc2ZDM1ZGIxZDQyMzgz",
   "tracks": [
     {
       "added_at": "2023-08-25 09:30:35",
@@ -523,26 +523,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "ily (i love you baby) (feat. Emilee)",
-        "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
-      },
-      "artists": [
-        {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        },
-        {
-          "name": "Emilee",
-          "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE"
-        }
-      ],
-      "duration_ms": 176546,
-      "name": "ily (i love you baby) (feat. Emilee)",
-      "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/4ZD1KnBqghtSAEyqrZAkU4"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 259933,
       "name": "My Love",
       "url": "https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "ily (i love you baby) (feat. Emilee)",
+        "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        },
+        {
+          "name": "Emilee",
+          "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "ily (i love you baby) (feat. Emilee)",
+      "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/7ePC9qS9mSOTY9E0YPP6yg"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        }
-      ],
-      "duration_ms": 273802,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/3MEYFivt6bilQ9q9mFWZ4g"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Be Mine",
         "url": "https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 161322,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/7ePC9qS9mSOTY9E0YPP6yg"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 273802,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3MEYFivt6bilQ9q9mFWZ4g"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Cooler Than Me",
-        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
-      },
-      "artists": [
-        {
-          "name": "Lucky Luke",
-          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Cooler Than Me",
-      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "This One's for You (feat. Zara Larsson) [Official Song UEFA EURO 2016]",
         "url": "https://open.spotify.com/album/7EvlnQaVuUuFLIeSuE6nRq"
       },
@@ -1259,6 +1243,38 @@
       "duration_ms": 207272,
       "name": "This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016)",
       "url": "https://open.spotify.com/track/46NBoIAHrmR7qcUGCIFEjR"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Cooler Than Me",
+        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
+      },
+      "artists": [
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "Cooler Than Me",
+      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Million Voices",
+        "url": "https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4"
+      },
+      "artists": [
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Million Voices - Radio Edit",
+      "url": "https://open.spotify.com/track/0MOiv7WTXCqvm89lVCf9C8"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1315,22 +1331,6 @@
       "duration_ms": 179960,
       "name": "Sun Goes Down (feat. Jasmine Thompson) - Radio Mix",
       "url": "https://open.spotify.com/track/4zLBcDtvYNVtF9fnG6lme3"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Million Voices",
-        "url": "https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4"
-      },
-      "artists": [
-        {
-          "name": "Otto Knows",
-          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Million Voices - Radio Edit",
-      "url": "https://open.spotify.com/track/0MOiv7WTXCqvm89lVCf9C8"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 229813,
+      "name": "Easy Love",
+      "url": "https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Tsunami",
         "url": "https://open.spotify.com/album/7p38vlEZaMNySKQVSSWUm8"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 236706,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/0vZCG0H9KhtU7K8MEUVAoV"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 229813,
-      "name": "Easy Love",
-      "url": "https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Wounded Rhymes (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/19ms2xSmphDqfhx2dp11Tl"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        },
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        }
-      ],
-      "duration_ms": 279635,
-      "name": "I Follow Rivers - The Magician Remix",
-      "url": "https://open.spotify.com/track/3zNNXjjjeLrzIXSJZKalDi"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "While The World Was Burning",
         "url": "https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 176218,
       "name": "Roses - Imanbek Remix",
       "url": "https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Wounded Rhymes (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/19ms2xSmphDqfhx2dp11Tl"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        },
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        }
+      ],
+      "duration_ms": 279635,
+      "name": "I Follow Rivers - The Magician Remix",
+      "url": "https://open.spotify.com/track/3zNNXjjjeLrzIXSJZKalDi"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "All Around The World (La La La)",
-        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "A Touch Of Class",
-          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "All Around The World (La La La)",
-      "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "I Wanna Know (feat. Bea Miller)",
         "url": "https://open.spotify.com/album/2xqSl9X8ulJayI0KxABaLV"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 197938,
       "name": "I Wanna Know (feat. Bea Miller)",
       "url": "https://open.spotify.com/track/18W92Zm1KjLCbUIszOhpkD"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "All Around The World (La La La)",
+        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "A Touch Of Class",
+          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "All Around The World (La La La)",
+      "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1963,18 +1963,18 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Different World",
-        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
+        "name": "Communion (Deluxe)",
+        "url": "https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
         }
       ],
-      "duration_ms": 187800,
-      "name": "Sing Me to Sleep",
-      "url": "https://open.spotify.com/track/1tfVpMI8G6EakZU4rEja4w"
+      "duration_ms": 215360,
+      "name": "King",
+      "url": "https://open.spotify.com/track/5Z3zRrMIJk7CVpfcLsM9wD"
     }
   ],
   "unique_name": "Dance Hits 2010s",

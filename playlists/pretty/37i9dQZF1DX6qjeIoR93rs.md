@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 
 > The sweet sounds of Palestine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,270 likes - 70 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,331 likes - 70 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 67 | [From Here](https://open.spotify.com/track/2gU3bW5VlHffe9V3VD89EM) | [Akram Abdulfattah](https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG) | [From Here](https://open.spotify.com/album/5D4XlS9tDo1ZdYvas3kqXX) | 2:32 |
 | 68 | [Al Rozana](https://open.spotify.com/track/1fRjUEHNqMTt2zhgbvQGno) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Na'na' Ya Na'na'](https://open.spotify.com/album/4QMcZUOEFAaFKH1XSjDkQI) | 4:15 |
 | 69 | [Abu 3ntr \(feat\. Lina Makoul\)](https://open.spotify.com/track/68DqedAzUtn8RsX7hFRQGy) | [ŁOAY](https://open.spotify.com/artist/3MIKkLGqd0EYSxHHbUK0Fz), [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Abu 3ntr \(feat\. Lina Makoul\)](https://open.spotify.com/album/0RZwnKlm8Oo2EtqcjrDQz3) | 3:33 |
-| 70 | [Room](https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7) | [Fadi Ammous](https://open.spotify.com/artist/1jDVc6g1Qkiwxnbjz02Gpi) | [Room](https://open.spotify.com/album/6lAmjHAwltL9jRp1GAGCEX) | 2:37 |
+| 70 | [Bala Reash](https://open.spotify.com/track/58CDHApdREBXJYqrSoXmJy) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [Bala Reash](https://open.spotify.com/album/4A7wmvJgmesQ09AXQMfB0W) | 3:46 |
 
-Snapshot ID: `MCw0YjhkYjhhNGZjNDg3OWU5MGVlODY4YjM4MzFiZWI4NDdmNDkzNjI5`
+Snapshot ID: `MCw2YzUxODZjNmQ4ZGQwNjkyZmMyZTMyZDY3MGUwZDQ0MmMzYmIxMzUy`

@@ -4,7 +4,7 @@
 
 > A sonic wonderland of mesmerizing tunes...
 
-263 songs - 17 hr 0 min
+264 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Cap.4: El Sabbath de las Brujas](https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ) | [Yo Diablo](https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W) | [Häxan](https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW) | 4:07 | 2023-01-07 | 2023-03-25 |
 | [Cat and Mouse With the Light](https://open.spotify.com/track/1MHEC9hJ7lIHSQfyrHLHtt) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Continue as a Guest](https://open.spotify.com/album/4W7yoLgWewZv3rdhGjLB3B) | 3:59 | 2023-12-20 |  |
 | [Caña Brava](https://open.spotify.com/track/0hy6YsimguNescPjjijro0) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [Caña Brava](https://open.spotify.com/album/02aqlW1aBYEyhEC4I6lW42) | 3:01 | 2023-03-24 | 2023-05-24 |
+| [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 | 2024-02-01 |  |
 | [Charmed](https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 2:38 | 2023-07-17 | 2023-08-05 |
 | [Cielo Falso](https://open.spotify.com/track/4zGWX3Jx6vCQ4EHVe6Gnn2) | [Titanic](https://open.spotify.com/artist/0R4GqPzobzIMpRgEKJ4c5i), [I la Católica](https://open.spotify.com/artist/2rCybFFmfZAOrBwGA8L7Nu), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Cielo Falso](https://open.spotify.com/album/4aM0Ml1phdinOWzNxWxZQ9) | 7:36 | 2023-10-28 | 2024-01-12 |
 | [Clandestino](https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Clandestino](https://open.spotify.com/album/6w0NI3nCd8tlgsrtF4Vd5u) | 3:01 | 2023-04-07 | 2023-05-09 |
@@ -187,7 +188,7 @@
 | [Portraits](https://open.spotify.com/track/1n2POqjfHTnCt3bxaa1vCX) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Portraits](https://open.spotify.com/album/28cCm9j1feLv2jdqCdLmby) | 3:42 | 2023-04-13 | 2023-05-11 |
 | [Portraits](https://open.spotify.com/track/6PypMXsV8zmifuFPMnWE4W) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr) | 3:42 | 2023-04-13 | 2023-05-24 |
 | [Pretty In Possible](https://open.spotify.com/track/4Q5LWPIKCuV6LRdDeqOYM7) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:36 | 2023-02-17 | 2023-04-09 |
-| [Propaganda](https://open.spotify.com/track/5h2Ixexi6IEhlogUtfzD5P) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Akousmatikous](https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD) | 2:32 | 2023-05-24 |  |
+| [Propaganda](https://open.spotify.com/track/5h2Ixexi6IEhlogUtfzD5P) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Akousmatikous](https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD) | 2:32 | 2023-05-24 | 2024-02-01 |
 | [Que He Sacado Con Quererte](https://open.spotify.com/track/4WkJ0HrLkijOsZnBQRiBKZ) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Que He Sacado Con Quererte](https://open.spotify.com/album/7pVH2fQ4wvqXIVI06gbgrW) | 3:56 | 2023-05-09 | 2024-01-12 |
 | [Rabbit](https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 3:36 | 2023-06-14 | 2023-10-28 |
 | [Rah \(feat\. Zoë Modiga\)](https://open.spotify.com/track/3CPcUIvlezozJDzmolebuT) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C), [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [Rah](https://open.spotify.com/album/4mycV2gcEOnp7q3LWYTMrw) | 8:55 | 2023-03-23 | 2023-04-10 |

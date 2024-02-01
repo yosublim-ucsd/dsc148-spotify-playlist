@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 4288,
+  "2024-02-01": 4290,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/3Ds9IjnaNOAcEIWURkzJqs\">Mark Ronson</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Mark Ronson",
@@ -1468,6 +1468,24 @@
     },
     {
       "album": {
+        "name": "Father of the Bride",
+        "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268600,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG"
+    },
+    {
+      "album": {
         "name": "This Life (Official Video)",
         "url": "https://open.spotify.com/album/41k5TAl2HuhL57fzfK9EeJ"
       },
@@ -1479,7 +1497,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 323008,
       "name": "This Life",
       "url": "https://open.spotify.com/track/41qbVfZP6xEsxq5aecxmIX"
@@ -1556,6 +1574,28 @@
     },
     {
       "album": {
+        "name": "Uptown Special",
+        "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269666,
+      "name": "Uptown Funk (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
+    },
+    {
+      "album": {
         "name": "Uptown Funk (feat. Bruno Mars) [Official Video]",
         "url": "https://open.spotify.com/album/0F0EymuZpPSen0TvGONo06"
       },
@@ -1571,7 +1611,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 270357,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/4Wxt9tSXHxnb6Tu592w4EK"

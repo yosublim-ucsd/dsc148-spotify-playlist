@@ -4,7 +4,7 @@
 
 > Les plus grands tubes français des années 70\. Photo : Dalida
 
-58 songs - 3 hr 34 min
+59 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Mamy Blue](https://open.spotify.com/track/66GLDVt5iyBBGfoWQ2WmbC) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [30 Ans De Passion](https://open.spotify.com/album/089iJNvU6GBmyfSmwsReZy) | 3:51 | 2022-06-01 |  |
 | [Mon vieux](https://open.spotify.com/track/0BRnXs3uLJF2YVt3giM3S7) | [Daniel Guichard](https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs) | [CD Story](https://open.spotify.com/album/46GKFEQCo19hb1wwEXuZXT) | 3:28 | 2022-06-01 |  |
 | [On ira tous au paradis](https://open.spotify.com/track/58bRgUVRgeHrrGfqR7v96k) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Best Of 2003](https://open.spotify.com/album/6uoHpvJlZvaREOR1Z3Lu8i) | 4:33 | 2022-06-01 |  |
-| [Oxygene, Pt\. 4](https://open.spotify.com/track/0Tt2jli0yAD1MKSTb5MvS2) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 4:06 | 2022-06-01 |  |
+| [Oxygene, Pt\. 4](https://open.spotify.com/track/2t9r7v0StZZraI1l6wgTgw) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygene Trilogy](https://open.spotify.com/album/469JDZgyHrDdZT25FeLKgT) | 4:06 | 2022-06-01 |  |
+| [Oxygene, Pt\. 4](https://open.spotify.com/track/0Tt2jli0yAD1MKSTb5MvS2) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 4:06 | 2022-06-01 | 2024-02-01 |
 | [Paroles paroles](https://open.spotify.com/track/4VvTGipG8YaF09z0kfGqaD) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 4:05 | 2022-06-01 |  |
 | [Prendre un enfant](https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw) | [Yves Duteil](https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl) | [La tarentelle](https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu) | 4:18 | 2022-06-01 |  |
 | [Quand on arrive en ville \- Remastered](https://open.spotify.com/track/62QQEK5BZPtOw0CvrBe9ho) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7), [Nanette Workman](https://open.spotify.com/artist/4KM2fWVoNDDdgrKmk41Ygy), [Starmania](https://open.spotify.com/artist/4VOX5R6FyddOOtzKgY8OGv) | [Starmania \(2009 Remaster\)](https://open.spotify.com/album/1KfEKYPClCYGHtJWTi6PCQ) | 3:37 | 2022-06-01 |  |

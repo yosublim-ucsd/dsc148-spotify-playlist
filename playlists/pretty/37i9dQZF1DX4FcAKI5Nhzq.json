@@ -1,29 +1,13 @@
 {
   "description": "Future K-Pop hits! Cover: I.M",
-  "num_followers": 796036,
+  "num_followers": 796152,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWUwMDRhNmY0MmM5M2Y2NDQ0NTk1YzZlMDlhYTkwMWNiZTgxNGM4",
+  "snapshot_id": "MCw2Mzc3YjczNDIyMWEyMGZiNDRlMTBmNzQ4ZWYwMDA3ZmZhZjg3MzBj",
   "tracks": [
-    {
-      "added_at": "2024-01-29 08:37:42",
-      "album": {
-        "name": "Girls of the Year",
-        "url": "https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG"
-      },
-      "artists": [
-        {
-          "name": "VCHA",
-          "url": "https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s"
-        }
-      ],
-      "duration_ms": 178253,
-      "name": "Girls of the Year",
-      "url": "https://open.spotify.com/track/03grA043a1uECo5Kyw28a0"
-    },
     {
       "added_at": "2024-01-23 09:51:23",
       "album": {
@@ -45,6 +29,62 @@
       "url": "https://open.spotify.com/track/4Ugf1uFzQx3RT7X0UgZjQv"
     },
     {
+      "added_at": "2024-01-23 09:51:23",
+      "album": {
+        "name": "TWS 1st Mini Album 'Sparkling Blue'",
+        "url": "https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "plot twist",
+      "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
+    },
+    {
+      "added_at": "2024-01-31 10:06:09",
+      "album": {
+        "name": "LA SOL MI",
+        "url": "https://open.spotify.com/album/04TnvhobYIlwA9SOIFMyGY"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        }
+      ],
+      "duration_ms": 172306,
+      "name": "LA SOL MI",
+      "url": "https://open.spotify.com/track/6h1laUrcyGZAwSj2k1KTRY"
+    },
+    {
+      "added_at": "2024-01-23 09:51:23",
+      "album": {
+        "name": "Yes or No",
+        "url": "https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF"
+      },
+      "artists": [
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 179146,
+      "name": "Yes or No (Feat. HUH YUNJIN of LE SSERAFIM, Crush)",
+      "url": "https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq"
+    },
+    {
       "added_at": "2024-01-29 08:37:42",
       "album": {
         "name": "What kind of future",
@@ -61,20 +101,20 @@
       "url": "https://open.spotify.com/track/1DXomndYd10iSX9uZSPv6e"
     },
     {
-      "added_at": "2024-01-23 09:51:23",
+      "added_at": "2024-01-29 08:37:42",
       "album": {
-        "name": "TWS 1st Mini Album 'Sparkling Blue'",
-        "url": "https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG"
+        "name": "Girls of the Year",
+        "url": "https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG"
       },
       "artists": [
         {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+          "name": "VCHA",
+          "url": "https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s"
         }
       ],
-      "duration_ms": 152400,
-      "name": "plot twist",
-      "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
+      "duration_ms": 178253,
+      "name": "Girls of the Year",
+      "url": "https://open.spotify.com/track/03grA043a1uECo5Kyw28a0"
     },
     {
       "added_at": "2024-01-29 03:17:41",
@@ -155,30 +195,6 @@
       "duration_ms": 164133,
       "name": "I WANNA KNOW",
       "url": "https://open.spotify.com/track/4ki0EcH3qL0DEbXqZIz1GI"
-    },
-    {
-      "added_at": "2024-01-23 09:51:23",
-      "album": {
-        "name": "Yes or No",
-        "url": "https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF"
-      },
-      "artists": [
-        {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        },
-        {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 179146,
-      "name": "Yes or No (Feat. HUH YUNJIN of LE SSERAFIM, Crush)",
-      "url": "https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq"
     },
     {
       "added_at": "2024-01-23 09:51:23",

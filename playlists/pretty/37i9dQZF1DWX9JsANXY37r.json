@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWZlM2M4ZGIxMjQxZWVmM2NkZDQ4ODg1MGQ3ODZiOTIwNjM5YzI4",
+  "snapshot_id": "MCwzNzE3ZGIwMmNjOTkyYmI3N2JmNGFjNTRlMGZiODA0ODE0NmE3ODg3",
   "tracks": [
     {
       "added_at": "2023-12-08 03:00:00",
@@ -579,26 +579,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
-      },
-      "artists": [
-        {
-          "name": "M\u00f8me",
-          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
-        },
-        {
-          "name": "Merryn Jeann",
-          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
-        }
-      ],
-      "duration_ms": 218480,
-      "name": "Aloha",
-      "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/5cAJxOFxRwXkCihLMQJYtl"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 253800,
       "name": "9",
       "url": "https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+        },
+        {
+          "name": "Merryn Jeann",
+          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
+        }
+      ],
+      "duration_ms": 218480,
+      "name": "Aloha",
+      "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
     },
     {
       "added_at": "2023-12-08 03:00:00",

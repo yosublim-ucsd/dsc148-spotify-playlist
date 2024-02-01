@@ -389,6 +389,24 @@
     },
     {
       "album": {
+        "name": "Clairvoyant",
+        "url": "https://open.spotify.com/album/03oox32OCziCwqYqMejYXg"
+      },
+      "artists": [
+        {
+          "name": "Crossbow",
+          "url": "https://open.spotify.com/artist/7w9hUQDypmlktoxpMa12dV"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Clairvoyant",
+      "url": "https://open.spotify.com/track/7sP4lDPMVGVrp5qSVjqXPD"
+    },
+    {
+      "album": {
         "name": "Claptrap",
         "url": "https://open.spotify.com/album/1w2LMklzYKEjJYT5yCqvyc"
       },
@@ -2053,6 +2071,24 @@
     },
     {
       "album": {
+        "name": "Out of Touch",
+        "url": "https://open.spotify.com/album/1ekPNCDuFxEhC7GKGgahqy"
+      },
+      "artists": [
+        {
+          "name": "Bolster",
+          "url": "https://open.spotify.com/artist/534DhQnkivsYnHW478ZhLb"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213822,
+      "name": "Out of Touch",
+      "url": "https://open.spotify.com/track/6SIepMjl42q78LP2utY9IH"
+    },
+    {
+      "album": {
         "name": "Outface (30 Yrs Jubilee Edition)",
         "url": "https://open.spotify.com/album/3RQBzD4YJS8scE9rgPHLVH"
       },
@@ -3195,6 +3231,24 @@
     },
     {
       "album": {
+        "name": "Clairvoyant",
+        "url": "https://open.spotify.com/album/03oox32OCziCwqYqMejYXg"
+      },
+      "artists": [
+        {
+          "name": "Crossbow",
+          "url": "https://open.spotify.com/artist/7w9hUQDypmlktoxpMa12dV"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241777,
+      "name": "Time Slip",
+      "url": "https://open.spotify.com/track/6TdvPhVuRv3wti78X8TRR0"
+    },
+    {
+      "album": {
         "name": "Touch The Darkness",
         "url": "https://open.spotify.com/album/4RJKnty59mAjgmslaWAGkm"
       },
@@ -3380,6 +3434,24 @@
       "duration_ms": 259130,
       "name": "When I Rock - A.D.H.S. Remix",
       "url": "https://open.spotify.com/track/2RZUzI8KssitQ4SYPr1xUd"
+    },
+    {
+      "album": {
+        "name": "Out of Touch",
+        "url": "https://open.spotify.com/album/1ekPNCDuFxEhC7GKGgahqy"
+      },
+      "artists": [
+        {
+          "name": "Bolster",
+          "url": "https://open.spotify.com/artist/534DhQnkivsYnHW478ZhLb"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206214,
+      "name": "Wings of Imagination",
+      "url": "https://open.spotify.com/track/5pIpMTv5tPeqp2HZhSXbzA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Classic and new soul music for the perfect dinner.
 
-365 songs - 23 hr 37 min
+366 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 | 2023-06-27 |  |
 | [Close the Door](https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 5:25 | 2023-01-09 | 2023-06-28 |
 | [Come into My Life \(Radio Mix\)](https://open.spotify.com/track/0cpTfK32V7XdCoOkPJI2kO) | [Joyce Sims](https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ) | [Come into My Life: The Very Best of Joyce Sims](https://open.spotify.com/album/73n6TRu2pLwThwpXZiIxdP) | 3:47 | 2023-01-09 | 2023-06-28 |
-| [Come On Train \- Original Mix](https://open.spotify.com/track/7sa9QlfY9MUYT2ysod85Rz) | [Don Thomas](https://open.spotify.com/artist/2P9UdbP8tHeUrz9gKuGu2y) | [Come On Train](https://open.spotify.com/album/1nEliK62SZTygH2Nm3bryF) | 3:16 | 2023-01-09 |  |
+| [Come On Train \- Original Mix](https://open.spotify.com/track/7sa9QlfY9MUYT2ysod85Rz) | [Don Thomas](https://open.spotify.com/artist/2P9UdbP8tHeUrz9gKuGu2y) | [Come On Train](https://open.spotify.com/album/1nEliK62SZTygH2Nm3bryF) | 3:16 | 2023-01-09 | 2024-02-01 |
 | [Come to Mama](https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [Tellin' It](https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ) | 2:58 | 2023-06-27 |  |
 | [Come To My Door \- Acoustic Version](https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [No Beginning No End](https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW) | 4:38 | 2023-08-15 | 2023-11-06 |
 | [Comin' Home Baby](https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:45 | 2023-06-27 |  |
@@ -205,7 +205,7 @@
 | [Love, Love, Love](https://open.spotify.com/track/53ZRlP6Vv96bG0mc25DW2u) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Smooth Soul](https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD) | 3:24 | 2023-01-09 | 2023-06-28 |
 | [Love, Need And Want You](https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [The Essential Patti LaBelle](https://open.spotify.com/album/2BTLvBugU9bxzrXZtnFjn3) | 5:00 | 2023-01-09 |  |
 | [Lovely Day](https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Lean on Me: The Best of Bill Withers](https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C) | 4:15 | 2023-01-09 | 2023-06-28 |
-| [Lovestreet 55](https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Lovestreet 55](https://open.spotify.com/album/2OkeAHspKici6uEPr28cNH) | 3:58 | 2023-08-15 |  |
+| [Lovestreet 55](https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Lovestreet 55](https://open.spotify.com/album/2OkeAHspKici6uEPr28cNH) | 3:58 | 2023-08-15 | 2024-02-01 |
 | [Lovin' You](https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Let Me Touch You](https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j) | 5:18 | 2023-01-09 | 2023-10-12 |
 | [Lowdown](https://open.spotify.com/track/20MxJN12WEqU5eWsuCrwM5) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [My Time: A Boz Scaggs Anthology \(1969\-1997\)](https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo) | 5:16 | 2023-06-27 |  |
 | [Lucky Man](https://open.spotify.com/track/4XBN0BNKaePeANSEcrs8vw) | [Courtney John](https://open.spotify.com/artist/53uGQ1amGHHb0Tzn2A6Oc0) | [Made In Jamaica](https://open.spotify.com/album/02a2wsjmtlcOn3mLbJuHb4) | 3:14 | 2023-06-27 |  |
@@ -282,7 +282,7 @@
 | [Some Type of Love](https://open.spotify.com/track/2nI6aT3cnPFoXQ1L705wcY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Some Type of Love](https://open.spotify.com/album/5t4A7Loq1pKRFlkBOs1O2O) | 3:05 | 2023-01-09 | 2023-06-28 |
 | [Something](https://open.spotify.com/track/2U52Hp8zYnG2kvt2de0M2L) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Family Dinner \- Vol\. 1](https://open.spotify.com/album/7uveEcuLgfEecFLxABRKnO) | 7:35 | 2023-06-27 |  |
 | [Something He Can Feel](https://open.spotify.com/track/4IOtu2nO8Us3kPtEZmUr0k) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Sparkle](https://open.spotify.com/album/0SKeM61sUnpAIRUPH4Tzk3) | 6:21 | 2023-01-09 | 2023-06-28 |
-| [Space of You](https://open.spotify.com/track/3gkYWg3IFAWmRrXVr0kMh0) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Elle](https://open.spotify.com/album/2J3eJIHwv0u4SkFO81F3Gf) | 3:50 | 2023-06-27 | 2024-01-15 |
+| [Space of You](https://open.spotify.com/track/3gkYWg3IFAWmRrXVr0kMh0) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Elle](https://open.spotify.com/album/2J3eJIHwv0u4SkFO81F3Gf) | 3:50 | 2023-06-27 |  |
 | [Spanish Harlem](https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Very Best of Aretha Franklin \- The 70's](https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn) | 3:33 | 2023-01-09 |  |
 | [Spirit in the Dark](https://open.spotify.com/track/1wGvueGYFPUmQUtVglgcPt) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Spirit in the Dark](https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO) | 4:03 | 2023-06-27 |  |
 | [Spooky \(Single Version\)](https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Love Songs](https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA) | 2:44 | 2023-06-27 |  |
@@ -309,6 +309,7 @@
 | [Tell It Like It Is](https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Tell It Like It Is \- The Par Lo Years](https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g) | 2:45 | 2023-01-09 |  |
 | [Tell Me A Tale](https://open.spotify.com/track/3ZRvYw3UuvHemty0UHKRSI) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 4:12 | 2023-06-27 |  |
 | [The Dark End of the Street](https://open.spotify.com/track/1dDKfo8La1mM5xpLK3Rqcv) | [James Carr](https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS) | [A Man Needs a Woman](https://open.spotify.com/album/6JpD37NS5oX9Db7m51Hj8s) | 2:34 | 2023-01-09 | 2023-06-28 |
+| [The Family](https://open.spotify.com/track/14wpG5eRZwU73l6TYrvgkT) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Baltimore](https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS) | 4:58 | 2023-08-15 |  |
 | [The Ghetto](https://open.spotify.com/track/1yeIxOEFmpQ3qlOb2R3g2m) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Everything Is Everything](https://open.spotify.com/album/7k89fD1BB2xQCibsPtSYyh) | 6:53 | 2023-06-27 |  |
 | [The Good Life](https://open.spotify.com/track/61sH4Kpbpz9arNiudx07Sf) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Under My Skin](https://open.spotify.com/album/3Y2oCc3jdG6ad114eUc8Ev) | 4:11 | 2023-08-15 |  |
 | [The Morning Song](https://open.spotify.com/track/6BSECshmR4kqWDnd0hI9Ox) | [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Another Beginning](https://open.spotify.com/album/4yuryhhwDSU0DVnJyLfe8q) | 3:40 | 2023-01-09 | 2023-06-28 |

@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 130246,
+  "2024-02-01": 130272,
   "date_first_scraped": "2023-05-19",
   "description": "Magic of acoustic poured into your Chai. Cover - Anuv Jain",
   "name": "Chai & Acoustic",
@@ -3852,6 +3852,46 @@
     },
     {
       "album": {
+        "name": "Sabse Alag",
+        "url": "https://open.spotify.com/album/5B8Ej4Lps2p04TwU8nhNFa"
+      },
+      "artists": [
+        {
+          "name": "Ruhfikra",
+          "url": "https://open.spotify.com/artist/0uMRWwTlxDDSK7MAQuKPvY"
+        },
+        {
+          "name": "Jake Affrunti",
+          "url": "https://open.spotify.com/artist/40ND6IHWv2Lm79jvD0envd"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182444,
+      "name": "Sabse Alag",
+      "url": "https://open.spotify.com/track/1E9ePQNracuQS2exzXhFE2"
+    },
+    {
+      "album": {
+        "name": "Sach",
+        "url": "https://open.spotify.com/album/2K2cpw3QqOSsf7lDpbbiAz"
+      },
+      "artists": [
+        {
+          "name": "Subhranil Paul",
+          "url": "https://open.spotify.com/artist/4EqjmfWeakKJdFZkoZd3vb"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239018,
+      "name": "Sach",
+      "url": "https://open.spotify.com/track/5W7TjIh32z3p5LpkncXTpb"
+    },
+    {
+      "album": {
         "name": "SACH HAI NA",
         "url": "https://open.spotify.com/album/0u9kVdSsfLepdbAJ0HVaP4"
       },
@@ -4207,7 +4247,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 200833,
       "name": "Tere Siva",
       "url": "https://open.spotify.com/track/6z8CuL6ElapwI5zKUFTsj3"
@@ -4643,7 +4683,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 171988,
       "name": "Tujhsa Koi",
       "url": "https://open.spotify.com/track/6jaqvNjr73noLIQ9kh29uc"

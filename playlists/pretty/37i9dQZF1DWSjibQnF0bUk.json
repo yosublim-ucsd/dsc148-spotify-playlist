@@ -1,12 +1,12 @@
 {
   "description": "Definitive African party starters, perfect for any jollof jam or braai! \"Spray\" money to these hits!",
-  "num_followers": 445658,
+  "num_followers": 445859,
   "original_name": "Afro Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmIwNTgyNzIyYmU2NzQ4YzNmYjFiMGQzYjQ1MDllNjhiZjUxOGRj",
+  "snapshot_id": "MCwwOWI4ZmRkYzI1ZWQxMjIyODIyMDA2OTg1ZmQ3NjUzNjdkMWZiYzQ0",
   "tracks": [
     {
       "added_at": "2024-01-12 05:57:06",
@@ -269,6 +269,22 @@
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
     },
     {
+      "added_at": "2024-01-19 07:34:08",
+      "album": {
+        "name": "RU The World",
+        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Asiwaju",
+      "url": "https://open.spotify.com/track/6z5y2kdxF4XrEVRFVqdGVL"
+    },
+    {
       "added_at": "2024-01-12 05:57:06",
       "album": {
         "name": "Xtra Cool",
@@ -299,22 +315,6 @@
       "duration_ms": 234024,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
-    },
-    {
-      "added_at": "2024-01-19 07:34:08",
-      "album": {
-        "name": "RU The World",
-        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Asiwaju",
-      "url": "https://open.spotify.com/track/6z5y2kdxF4XrEVRFVqdGVL"
     },
     {
       "added_at": "2024-01-12 05:57:06",
@@ -351,38 +351,6 @@
     {
       "added_at": "2024-01-12 05:57:06",
       "album": {
-        "name": "Sability",
-        "url": "https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 166558,
-      "name": "Sability",
-      "url": "https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF"
-    },
-    {
-      "added_at": "2024-01-12 05:57:06",
-      "album": {
-        "name": "Aquafina",
-        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 168103,
-      "name": "Aquafina",
-      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
-    },
-    {
-      "added_at": "2024-01-12 05:57:06",
-      "album": {
         "name": "Baby Riddim",
         "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
       },
@@ -395,6 +363,22 @@
       "duration_ms": 190677,
       "name": "Baby Riddim",
       "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
+    },
+    {
+      "added_at": "2024-01-12 05:57:06",
+      "album": {
+        "name": "Sability",
+        "url": "https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 166558,
+      "name": "Sability",
+      "url": "https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF"
     },
     {
       "added_at": "2024-01-12 05:57:06",
@@ -459,6 +443,22 @@
     {
       "added_at": "2024-01-12 05:57:06",
       "album": {
+        "name": "Aquafina",
+        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 168103,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
+    },
+    {
+      "added_at": "2024-01-12 05:57:06",
+      "album": {
         "name": "GWAGWALADA",
         "url": "https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc"
       },
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-01-12 05:57:06",
       "album": {
-        "name": "Sharpally",
-        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 163361,
-      "name": "Sharpally",
-      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
-    },
-    {
-      "added_at": "2024-01-12 05:57:06",
-      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
@@ -551,6 +535,22 @@
     {
       "added_at": "2024-01-12 05:57:06",
       "album": {
+        "name": "Sharpally",
+        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 163361,
+      "name": "Sharpally",
+      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
+    },
+    {
+      "added_at": "2024-01-12 05:57:06",
+      "album": {
         "name": "Carry Me Go",
         "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-01-12 05:57:06",
       "album": {
-        "name": "Sip (Alcohol)",
-        "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Sip (Alcohol)",
-      "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
-    },
-    {
-      "added_at": "2024-01-12 05:57:06",
-      "album": {
         "name": "Boy Alone (Deluxe)",
         "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 147363,
       "name": "reason",
       "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
+    },
+    {
+      "added_at": "2024-01-12 05:57:06",
+      "album": {
+        "name": "Sip (Alcohol)",
+        "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Sip (Alcohol)",
+      "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
     },
     {
       "added_at": "2024-01-12 05:57:06",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-01-12 05:57:06",
       "album": {
-        "name": "Away",
-        "url": "https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 137885,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx"
-    },
-    {
-      "added_at": "2024-01-12 05:57:06",
-      "album": {
         "name": "Do I",
         "url": "https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 155044,
       "name": "Do I",
       "url": "https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD"
+    },
+    {
+      "added_at": "2024-01-12 05:57:06",
+      "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 137885,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx"
     },
     {
       "added_at": "2024-01-12 05:57:06",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-01-12 05:57:06",
       "album": {
-        "name": "Hamba Wena",
-        "url": "https://open.spotify.com/album/4vwKHSXGmqA0Fe9u9NLt51"
-      },
-      "artists": [
-        {
-          "name": "Deep London",
-          "url": "https://open.spotify.com/artist/4WcuDDFGfo4j6VHqkGmjZ8"
-        },
-        {
-          "name": "Boohle",
-          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
-        }
-      ],
-      "duration_ms": 374848,
-      "name": "Hamba Wena",
-      "url": "https://open.spotify.com/track/1hsFJ92y0FU2cFOOLkEFVr"
-    },
-    {
-      "added_at": "2024-01-12 05:57:06",
-      "album": {
         "name": "Enjoy",
         "url": "https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 216724,
       "name": "Enjoy",
       "url": "https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT"
+    },
+    {
+      "added_at": "2024-01-12 05:57:06",
+      "album": {
+        "name": "Hamba Wena",
+        "url": "https://open.spotify.com/album/4vwKHSXGmqA0Fe9u9NLt51"
+      },
+      "artists": [
+        {
+          "name": "Deep London",
+          "url": "https://open.spotify.com/artist/4WcuDDFGfo4j6VHqkGmjZ8"
+        },
+        {
+          "name": "Boohle",
+          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
+        }
+      ],
+      "duration_ms": 374848,
+      "name": "Hamba Wena",
+      "url": "https://open.spotify.com/track/1hsFJ92y0FU2cFOOLkEFVr"
     },
     {
       "added_at": "2024-01-12 05:57:06",

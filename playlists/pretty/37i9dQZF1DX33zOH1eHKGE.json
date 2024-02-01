@@ -1,12 +1,12 @@
 {
   "description": "Move your way through the day with the dance tracks you love.",
-  "num_followers": 58437,
+  "num_followers": 58455,
   "original_name": "Dance All Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjA1NWY4YjZlNWRjODQyNGZjNWM4ZmUwMDFmY2QwNGJlMWMwYTU0",
+  "snapshot_id": "MCxjOWVlMzBjNGJlYmVhYmZiM2IyOWY3YWMyMmQ1NGZkNjEzZWJkZmJh",
   "tracks": [
     {
       "added_at": "2023-12-04 19:34:02",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-12-04 19:34:02",
       "album": {
+        "name": "Jet Plane",
+        "url": "https://open.spotify.com/album/0hax7oeHg8KrpWqwEsJayV"
+      },
+      "artists": [
+        {
+          "name": "Gusted",
+          "url": "https://open.spotify.com/artist/2BRM24K0fU89hsKIZZXeuZ"
+        }
+      ],
+      "duration_ms": 182409,
+      "name": "Jet Plane",
+      "url": "https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j"
+    },
+    {
+      "added_at": "2023-12-04 19:34:02",
+      "album": {
         "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
         "url": "https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 229282,
       "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
       "url": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
-    },
-    {
-      "added_at": "2023-12-04 19:34:02",
-      "album": {
-        "name": "Jet Plane",
-        "url": "https://open.spotify.com/album/0hax7oeHg8KrpWqwEsJayV"
-      },
-      "artists": [
-        {
-          "name": "Gusted",
-          "url": "https://open.spotify.com/artist/2BRM24K0fU89hsKIZZXeuZ"
-        }
-      ],
-      "duration_ms": 182409,
-      "name": "Jet Plane",
-      "url": "https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j"
     },
     {
       "added_at": "2023-12-04 19:34:02",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2023-12-04 19:34:02",
       "album": {
-        "name": "Billie (loving arms)",
-        "url": "https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 217265,
-      "name": "Billie (loving arms)",
-      "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
-    },
-    {
-      "added_at": "2023-12-04 19:34:02",
-      "album": {
         "name": "Stop This Flame (Celeste x MK)",
         "url": "https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK"
       },
@@ -1919,18 +1903,18 @@
     {
       "added_at": "2023-12-04 19:34:02",
       "album": {
-        "name": "Tell Me Something Good",
-        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
+        "name": "Billie (loving arms)",
+        "url": "https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1"
       },
       "artists": [
         {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 249678,
-      "name": "Tell Me Something Good",
-      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
+      "duration_ms": 217265,
+      "name": "Billie (loving arms)",
+      "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
     },
     {
       "added_at": "2023-12-04 19:34:02",
@@ -1947,6 +1931,22 @@
       "duration_ms": 156948,
       "name": "Get Hard (You In The Lobby)",
       "url": "https://open.spotify.com/track/3tUtwmznpPiEu8AkqX3Xom"
+    },
+    {
+      "added_at": "2023-12-04 19:34:02",
+      "album": {
+        "name": "Tell Me Something Good",
+        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 249678,
+      "name": "Tell Me Something Good",
+      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
     },
     {
       "added_at": "2023-12-04 19:34:02",

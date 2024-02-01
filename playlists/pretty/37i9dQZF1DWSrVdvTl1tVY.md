@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Vintage Culture, Maverick Sabre
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,678 likes - 130 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,608 likes - 130 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Say Goodbye \(feat\. Billy Raffoul\)](https://open.spotify.com/track/3IkdjPFThBcKciyAV94dYp) | [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL), [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Say Goodbye \(feat\. Billy Raffoul\)](https://open.spotify.com/album/1oXAFYj4N52dFrMcOAKfQk) | 2:06 |
 | 2 | [DON’T KNOW WHERE I’M GOING](https://open.spotify.com/track/314xWohgRBDE8tjVFc2dmv) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [DON’T KNOW WHERE I’M GOING](https://open.spotify.com/album/1dmZt5XUmpZsWeesKtwY8I) | 3:06 |
 | 3 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 |
-| 4 | [Biggest Regret \(feat\. BbyAfricka\)](https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W) | [Biggest Regret \(feat\. BbyAfricka\)](https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI) | 3:50 |
+| 4 | [Biggest Regret \(feat\. Bbyafricka\)](https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W) | [Biggest Regret \(feat\. Bbyafricka\)](https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI) | 3:50 |
 | 5 | [Cruel Intentions](https://open.spotify.com/track/6UF4Bj3prR1bNu8IW8zpzh) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Cruel Intentions](https://open.spotify.com/album/6jNQGxYOPEJTUaL3BA8Vro) | 3:42 |
 | 6 | [Take U](https://open.spotify.com/track/1YwWHm6Ad1fizVPaQ8nrco) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Take U](https://open.spotify.com/album/1BsEalQCwpuAbqQloCDY9u) | 2:42 |
 | 7 | [Need To Know](https://open.spotify.com/track/3Kco472VXRNtElMsDj7u4k) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Need To Know](https://open.spotify.com/album/5v72zB4P7defUzWE8W0Vp4) | 2:28 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 129 | [Waves](https://open.spotify.com/track/2q8EmGuKx14Ihp3sjaLuu1) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Waves](https://open.spotify.com/album/27sIExXAxl4haMaaAye4wE) | 2:39 |
 | 130 | [Move \- Punctual Remix](https://open.spotify.com/track/384UShG9e4mFJTEO6f69wX) | [RUG](https://open.spotify.com/artist/01QFGC1QsaQBzXOzthLN0g), [TSB](https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Move \(Punctual Remix\)](https://open.spotify.com/album/5HHFUGoFIqMkUyxNur7IJQ) | 2:59 |
 
-Snapshot ID: `MCxmYTgxYjAyN2RlODc2ZmFhNzlhMzY3Y2YyMDgxYzEyZjMxZGNjNmNm`
+Snapshot ID: `MCw1YjY5MmU1ZmQzODdjMTg3ZjVkZjA3NGNhYTUxY2M4MGRjYmRkNDRj`

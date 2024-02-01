@@ -1,13 +1,45 @@
 {
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Amble | Visual Artist: Bailey Elder",
-  "num_followers": 59737,
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Sarah Julia | Visual Artist: Bailey Elder",
+  "num_followers": 60090,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWIxY2I2OGQyNTFhYWU4MTI3MzgzMzJiNGJiOWM0ODFjODMwZTVi",
+  "snapshot_id": "MCw3ZGRjMDBlZmQ2YWQ3YmE1OTkxOTgyMDU0MzVjNmI0NTgwNmM5MWJh",
   "tracks": [
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "Let Your Love Run Cold",
+        "url": "https://open.spotify.com/album/02qqL9B8uYPcrA7yCmMjdS"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reid",
+          "url": "https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV"
+        }
+      ],
+      "duration_ms": 223942,
+      "name": "Let Your Love Run Cold",
+      "url": "https://open.spotify.com/track/4lDviyx50ZMALSovCHFo61"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "Do You Feel Free Now?",
+        "url": "https://open.spotify.com/album/52ih5KkcgK2DUjvb2E5Q2k"
+      },
+      "artists": [
+        {
+          "name": "Sam Tudor",
+          "url": "https://open.spotify.com/artist/4s7wRrRsAQMuLQlkRo2Khk"
+        }
+      ],
+      "duration_ms": 199765,
+      "name": "Do You Feel Free Now?",
+      "url": "https://open.spotify.com/track/1G5Q59cV1UNU0AOiWtODGS"
+    },
     {
       "added_at": "2024-01-24 05:00:00",
       "album": {
@@ -23,6 +55,102 @@
       "duration_ms": 252878,
       "name": "Cairngorms",
       "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
+    },
+    {
+      "added_at": "2024-01-11 21:07:41",
+      "album": {
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/21uNaBlOGtnuuZT219MsY7"
+      },
+      "artists": [
+        {
+          "name": "Cameron Sonnier",
+          "url": "https://open.spotify.com/artist/2pTieEpWjwvRiaR3ZI9sDw"
+        }
+      ],
+      "duration_ms": 292786,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/52yPZ3t6X2ZbY8m818Roxe"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "Stones & Waves",
+        "url": "https://open.spotify.com/album/6GXgoZCLZA8FVakysuTHkZ"
+      },
+      "artists": [
+        {
+          "name": "Elias Hix",
+          "url": "https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV"
+        }
+      ],
+      "duration_ms": 190714,
+      "name": "Stones & Waves",
+      "url": "https://open.spotify.com/track/634FnvBHSfPkHbG5ovee8Y"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "Corduroy",
+        "url": "https://open.spotify.com/album/499Z1f8EJDdAsABRtIEigH"
+      },
+      "artists": [
+        {
+          "name": "Memorial",
+          "url": "https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc"
+        }
+      ],
+      "duration_ms": 195940,
+      "name": "Corduroy",
+      "url": "https://open.spotify.com/track/2qwMUXVtNkvvtyR0QVVuGg"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "The Pilgrim, Their God and the King of My Decrepit Mountain",
+        "url": "https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb"
+      },
+      "artists": [
+        {
+          "name": "Tapir!",
+          "url": "https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd"
+        }
+      ],
+      "duration_ms": 259959,
+      "name": "On A Grassy Knoll (We'll Bow Together)",
+      "url": "https://open.spotify.com/track/2w7ytZGD2i3xHXFpy5sJye"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "Possibly Alaska",
+        "url": "https://open.spotify.com/album/49wcI9B6Iarko0kcdyJC4B"
+      },
+      "artists": [
+        {
+          "name": "Maddison Krebs",
+          "url": "https://open.spotify.com/artist/1c2r71uOTJ3QDVdd5oZIKF"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Possibly Alaska",
+      "url": "https://open.spotify.com/track/19bsT8H336P233OI5XF4Do"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "The Ghost",
+        "url": "https://open.spotify.com/album/2SBH48KmA57UY44dBQXxAG"
+      },
+      "artists": [
+        {
+          "name": "Ella Tobin",
+          "url": "https://open.spotify.com/artist/1hdEBuPH4q1u687ZLNF1eb"
+        }
+      ],
+      "duration_ms": 217415,
+      "name": "The Ghost",
+      "url": "https://open.spotify.com/track/3xdtzvDUIhWYbkb15SbKsc"
     },
     {
       "added_at": "2024-01-24 05:00:00",
@@ -43,6 +171,102 @@
     {
       "added_at": "2024-01-24 05:00:00",
       "album": {
+        "name": "don't look down",
+        "url": "https://open.spotify.com/album/1q1TdlpfyojD5MuWrY8IX4"
+      },
+      "artists": [
+        {
+          "name": "tarnisher",
+          "url": "https://open.spotify.com/artist/3FocGF7xpQdjpjBTra4w1c"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "don't look down",
+      "url": "https://open.spotify.com/track/1P5da0FlIWDvtMhwBArzRR"
+    },
+    {
+      "added_at": "2024-01-10 17:00:00",
+      "album": {
+        "name": "Half of forever",
+        "url": "https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Half of forever",
+      "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "what happens if I cross the line",
+        "url": "https://open.spotify.com/album/3RTKYrNMmAKYrAU7SdBB04"
+      },
+      "artists": [
+        {
+          "name": "Celine Hess",
+          "url": "https://open.spotify.com/artist/7ArYmzvy6W6KwBxnJ1IqEv"
+        }
+      ],
+      "duration_ms": 196271,
+      "name": "what happens if I cross the line",
+      "url": "https://open.spotify.com/track/71IrFbRpoTRQSCAoSOfjV9"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "Save Your Tears",
+        "url": "https://open.spotify.com/album/2idf6N6kQ05QLFeu1w91C9"
+      },
+      "artists": [
+        {
+          "name": "Asia Chow",
+          "url": "https://open.spotify.com/artist/5psfiJzM6PZbUzfah6tgqT"
+        }
+      ],
+      "duration_ms": 251308,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/7qGZkoqhgYvWREitCJhsKU"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "A Little Light in the Room",
+        "url": "https://open.spotify.com/album/5GVud36SI92iah5YFmXNcU"
+      },
+      "artists": [
+        {
+          "name": "Julian Spector",
+          "url": "https://open.spotify.com/artist/0Cd6wbzFm53orgr0tNXNXC"
+        }
+      ],
+      "duration_ms": 94103,
+      "name": "A Little Light in the Room",
+      "url": "https://open.spotify.com/track/4uo1N30D3Z2OAdgFrV63Gh"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "Wandering Souls",
+        "url": "https://open.spotify.com/album/3ypI1dsbQu9TLlTaJHGYZ2"
+      },
+      "artists": [
+        {
+          "name": "Essence Martins",
+          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
+        }
+      ],
+      "duration_ms": 215593,
+      "name": "Wandering Souls",
+      "url": "https://open.spotify.com/track/2V3Ru7gXqHTskwvV281kzy"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
         "name": "Texas Wide",
         "url": "https://open.spotify.com/album/2qqtJeHMwiB9sWFV9ugdHk"
       },
@@ -55,6 +279,54 @@
       "duration_ms": 148714,
       "name": "Texas Wide",
       "url": "https://open.spotify.com/track/7flgkD4d50MhuipLRe6HFL"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "Thank God",
+        "url": "https://open.spotify.com/album/18dUuN21ynvDoXmZPxb8ZH"
+      },
+      "artists": [
+        {
+          "name": "Hanna Emilie",
+          "url": "https://open.spotify.com/artist/2JQwvgLu8J0FgSMWVhVySb"
+        }
+      ],
+      "duration_ms": 153828,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/1GN5whVD9c2EuFdZurHwVb"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "On and On",
+        "url": "https://open.spotify.com/album/6nZICK71SyALCOPEockVyn"
+      },
+      "artists": [
+        {
+          "name": "Grace Cummings",
+          "url": "https://open.spotify.com/artist/3uAWPonHw80gRQRUjhdW5a"
+        }
+      ],
+      "duration_ms": 232932,
+      "name": "On and On",
+      "url": "https://open.spotify.com/track/33JEKyGrO3x2EObzwXMS54"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "The Weather",
+        "url": "https://open.spotify.com/album/25qUBBcHwugdN7lBr5GeIk"
+      },
+      "artists": [
+        {
+          "name": "JEMS",
+          "url": "https://open.spotify.com/artist/7A2LiVSPjG69nzTzssU1Y8"
+        }
+      ],
+      "duration_ms": 196704,
+      "name": "The Weather",
+      "url": "https://open.spotify.com/track/6uCSNdetzxuxuCFZl6ZT25"
     },
     {
       "added_at": "2024-01-24 05:00:00",
@@ -87,38 +359,6 @@
       "duration_ms": 224337,
       "name": "Point of View",
       "url": "https://open.spotify.com/track/3ltHC2cPucDcc9NKbupJsC"
-    },
-    {
-      "added_at": "2024-01-11 21:07:41",
-      "album": {
-        "name": "Anytime",
-        "url": "https://open.spotify.com/album/21uNaBlOGtnuuZT219MsY7"
-      },
-      "artists": [
-        {
-          "name": "Cameron Sonnier",
-          "url": "https://open.spotify.com/artist/2pTieEpWjwvRiaR3ZI9sDw"
-        }
-      ],
-      "duration_ms": 292786,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/52yPZ3t6X2ZbY8m818Roxe"
-    },
-    {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
-        "name": "don't look down",
-        "url": "https://open.spotify.com/album/1q1TdlpfyojD5MuWrY8IX4"
-      },
-      "artists": [
-        {
-          "name": "tarnisher",
-          "url": "https://open.spotify.com/artist/3FocGF7xpQdjpjBTra4w1c"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "don't look down",
-      "url": "https://open.spotify.com/track/1P5da0FlIWDvtMhwBArzRR"
     },
     {
       "added_at": "2024-01-24 05:00:00",
@@ -215,22 +455,6 @@
       "duration_ms": 288826,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/4cE5VRcJURYP6hIyFF29N4"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Half of forever",
-        "url": "https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc"
-      },
-      "artists": [
-        {
-          "name": "Henrik",
-          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Half of forever",
-      "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
     },
     {
       "added_at": "2024-01-17 05:00:00",
@@ -1399,38 +1623,6 @@
       "duration_ms": 165000,
       "name": "Camping in Canada",
       "url": "https://open.spotify.com/track/1xQ8CMtomK5r8KpqfzvFRi"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Before I Go",
-        "url": "https://open.spotify.com/album/31MXnLXafwBpQEkFUJF0Ym"
-      },
-      "artists": [
-        {
-          "name": "Lucas Stadvec",
-          "url": "https://open.spotify.com/artist/4RxBTq3v5mazTgUvlrxWwd"
-        }
-      ],
-      "duration_ms": 132923,
-      "name": "Before I Go",
-      "url": "https://open.spotify.com/track/17lfmm3lhdsSb8tIIDHLJg"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Within Your Shade",
-        "url": "https://open.spotify.com/album/3hR5sZrXHhzK4hSkW1Zifq"
-      },
-      "artists": [
-        {
-          "name": "Sean Heathcliff",
-          "url": "https://open.spotify.com/artist/2tYXwM1rLFrTBtYHY8JpnN"
-        }
-      ],
-      "duration_ms": 191538,
-      "name": "Kale",
-      "url": "https://open.spotify.com/track/4YojHiM5K1UKxgDcRjKLvP"
     }
   ],
   "unique_name": "Fresh Finds Folk ",

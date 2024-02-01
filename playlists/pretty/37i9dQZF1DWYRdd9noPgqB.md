@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,489 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,481 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 43 | [West Side Jet](https://open.spotify.com/track/0m2Zkf8hxe53ixSJJaVMXy) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La](https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx) | 4:06 |
 | 44 | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw) | 3:10 |
 | 45 | [Things I Thought Were Mine](https://open.spotify.com/track/0Y8OIyvMvyTpEUhfLupDoh) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG) | 3:13 |
-| 46 | [Diamond](https://open.spotify.com/track/5IZNEUIwLYzxZWOKwkv688) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Anna](https://open.spotify.com/album/5YQToGEsFBM6QxkX75FMH7) | 3:19 |
+| 46 | [Diamond](https://open.spotify.com/track/5utqrfDA2ve8iICTFyr9ZR) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Magic](https://open.spotify.com/album/0vianSZIqgQJmYZJBHMwLt) | 3:19 |
 | 47 | [Nothing Left Behind](https://open.spotify.com/track/5oesdtnfEkDdImVtwngODg) | [Sage](https://open.spotify.com/artist/5dDQASlR9FyeP4VO0jw35F) | [Paint Myself](https://open.spotify.com/album/4BhK7NpYuRvOVfbDIxpDZp) | 3:01 |
 | 48 | [Sun In Her Eyes](https://open.spotify.com/track/1xFmJ7p9z7p0QTG58NFclN) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Sun In Her Eyes](https://open.spotify.com/album/36RYVATZF9So7O4BLoNeQj) | 3:20 |
 | 49 | [bye bye again \- Bob Sinclar Remix](https://open.spotify.com/track/7uGd2sO212d36Ja4wMlTdJ) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [bye bye again \(Bob Sinclar Remix\)](https://open.spotify.com/album/2QROzydHnLXAaKhAEVLVqn) | 2:40 |
 | 50 | [More Than a Friend](https://open.spotify.com/track/0LZ0gm2rOvGTPnvmHg92aL) | [Please](https://open.spotify.com/artist/07xx8lFWESVjZnqCpm43ku) | [More Than a Friend](https://open.spotify.com/album/0UGe2LoLG5ecv0CZLy1QLf) | 3:40 |
 
-Snapshot ID: `MCw1YjMwNjRmNGI2YzRmY2RjYTY5NTBiZDc1YzJlZDgwNDRkZTE3ZGVk`
+Snapshot ID: `MCw0NmJjZDQyMTVhZGIyNzZjN2E3Y2VjODFlODkxMjU0ZmUwYTM1MzAx`

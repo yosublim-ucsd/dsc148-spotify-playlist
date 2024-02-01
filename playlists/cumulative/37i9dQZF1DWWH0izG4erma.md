@@ -2,7 +2,7 @@
 
 ### [Country Rocks](https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma)
 
-> Country Music that rocks\. Cover: HARDY
+> Country Music that rocks\. Cover: Warren Zeiders
 
 334 songs - 19 hr 8 min
 

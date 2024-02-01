@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover: Dot.
 
-281 songs - 16 hr 25 min
+282 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,8 @@
 | [Won't Back Down](https://open.spotify.com/track/14tpQ2ToEOMT3doUxpCPca) | [Samantha Noella](https://open.spotify.com/artist/0ISd1Q32dp6LK0uQgni1ZO) | [Won't Back Down](https://open.spotify.com/album/0zlUQwuiqfLZPYWcNXfCyE) | 3:59 | 2021-12-06 | 2022-01-11 |
 | [Yaadein](https://open.spotify.com/track/559lQBU46ePjxVXS9cNsmW) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Yaadein](https://open.spotify.com/album/2G5NDAUQru6BAMBN8s1eGG) | 4:41 | 2022-04-10 | 2023-08-30 |
 | [Yahan](https://open.spotify.com/track/4yq61v0vaI2MpifznBCpBh) | [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Yahan](https://open.spotify.com/album/4NVB7RqJMhWow5gY1oBCdd) | 4:02 | 2022-03-16 | 2023-02-04 |
-| [Ye Teri Meri Kahani](https://open.spotify.com/track/1IsMTMT8ASvZqApzGKkAG9) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Sumedha Karmahe](https://open.spotify.com/artist/4MEdY6uFLSNWHq4kKrDx4j) | [Ye Teri Meri Kahani](https://open.spotify.com/album/0iW00NWqfNMXBxfAfJ9TDg) | 3:21 | 2022-08-08 |  |
+| [Ye Teri Meri Kahani](https://open.spotify.com/track/1IsMTMT8ASvZqApzGKkAG9) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Sumedha Karmahe](https://open.spotify.com/artist/4MEdY6uFLSNWHq4kKrDx4j) | [Ye Teri Meri Kahani](https://open.spotify.com/album/0iW00NWqfNMXBxfAfJ9TDg) | 3:21 | 2022-08-08 | 2024-02-01 |
+| [Ye Teri Meri Kahani](https://open.spotify.com/track/5c8xIMIlYXLQSDe9d6mspG) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Sumedha Karmahe](https://open.spotify.com/artist/4MEdY6uFLSNWHq4kKrDx4j) | [Ye Teri Meri Kahani](https://open.spotify.com/album/0gtYx8U7lO414NoJPk70aQ) | 3:21 | 2024-01-24 |  |
 | [Ye Zindagi](https://open.spotify.com/track/76WGQlitFCuX9m4IsChzsq) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Ye Zindagi](https://open.spotify.com/album/1Tib7ORYuc7K9nEMADj6ME) | 2:47 | 2024-01-10 |  |
 | [Yeah Yeah](https://open.spotify.com/track/2HbzLM4zea2POE8Zd1mSNq) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Yeah Yeah](https://open.spotify.com/album/6fikjsCSauJ6iiz0mqXdwm) | 2:41 | 2023-04-10 |  |
 | [Yeh Shaam](https://open.spotify.com/track/44e6LWMz011gq6QU45nw2P) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Yeh Shaam](https://open.spotify.com/album/1OsdoncZf5VeLCSw1tOF7w) | 3:54 | 2021-12-06 | 2023-01-11 |

@@ -3662,7 +3662,7 @@
       ],
       "date_added": "2023-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 257720,
       "name": "It Will Rain",
       "url": "https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C"
@@ -4356,6 +4356,24 @@
     {
       "album": {
         "name": "Pilot",
+        "url": "https://open.spotify.com/album/2Ykep6jay9dIiAB9eJq7vo"
+      },
+      "artists": [
+        {
+          "name": "The Lantis",
+          "url": "https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "Lampu Merah",
+      "url": "https://open.spotify.com/track/6E7DsxwI4eOcMHLYRUDCaw"
+    },
+    {
+      "album": {
+        "name": "Pilot",
         "url": "https://open.spotify.com/album/2fm5dfglCcyJ4yVxjIP0qU"
       },
       "artists": [
@@ -4366,7 +4384,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 298000,
       "name": "Lampu Merah",
       "url": "https://open.spotify.com/track/7uwo3VQxUlRtKudAjluuTr"
@@ -8370,7 +8388,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 218073,
       "name": "Trauma",
       "url": "https://open.spotify.com/track/6SITe0StjnWHjyNOVzyJTX"

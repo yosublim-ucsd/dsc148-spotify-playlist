@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 102184,
+  "2024-02-01": 102197,
   "date_first_scraped": "2023-11-24",
   "description": "\u30db\u30fc\u30e0\u30d1\u30fc\u30c6\u30a3\u30fc\u3092\u697d\u3057\u3080\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002\u5973\u5b50\u4f1a\u3001\u30ac\u30fc\u30eb\u30ba\u30ca\u30a4\u30c8\u306e\u304a\u4f9b\u306b\u3002\n\n",
   "name": "\u30ac\u30fc\u30eb\u30ba\u30fb\u30ca\u30a4\u30c8",
@@ -432,6 +432,24 @@
     },
     {
       "album": {
+        "name": "bugs",
+        "url": "https://open.spotify.com/album/4ARUfp2z7XyXChD9fUVdR7"
+      },
+      "artists": [
+        {
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239320,
+      "name": "bugs",
+      "url": "https://open.spotify.com/track/7dWR8gcf2kS2iQJB0NNV7v"
+    },
+    {
+      "album": {
         "name": "FULLCOLOR",
         "url": "https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd"
       },
@@ -696,6 +714,24 @@
     },
     {
       "album": {
+        "name": "ex-Doll",
+        "url": "https://open.spotify.com/album/1VAnMqqIkM1oR6StowV5Hq"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u91ce\u6d38",
+          "url": "https://open.spotify.com/artist/0YoM457Ezhgb89to2bHsSi"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204400,
+      "name": "ex-Doll",
+      "url": "https://open.spotify.com/track/0TU1Nb3hB9kbEocPI5XFfu"
+    },
+    {
+      "album": {
         "name": "Feels",
         "url": "https://open.spotify.com/album/7KkdRBQs12lylKXSrWHbx8"
       },
@@ -751,6 +787,24 @@
       "duration_ms": 205133,
       "name": "God of Music",
       "url": "https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa"
+    },
+    {
+      "album": {
+        "name": "Groovy night",
+        "url": "https://open.spotify.com/album/5TaPiVV8ESfPGkTn4gZy7e"
+      },
+      "artists": [
+        {
+          "name": "POP ART TOWN",
+          "url": "https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268821,
+      "name": "Groovy night",
+      "url": "https://open.spotify.com/track/6xj8bD4v3Z4U3SKbCs9Ekx"
     },
     {
       "album": {
@@ -841,7 +895,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 183853,
       "name": "I AM",
       "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
@@ -1349,7 +1403,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 239213,
       "name": "Questions",
       "url": "https://open.spotify.com/track/2g37Oi6GLhqoa2Z2NjrUe7"
@@ -1541,7 +1595,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 200386,
       "name": "Super",
       "url": "https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96"
@@ -1563,6 +1617,24 @@
       "duration_ms": 203700,
       "name": "Super Ball",
       "url": "https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ"
+    },
+    {
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152186,
+      "name": "Super Lady",
+      "url": "https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U"
     },
     {
       "album": {
@@ -1751,7 +1823,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 194093,
       "name": "UNTOUCHABLE",
       "url": "https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w"
@@ -1816,6 +1888,24 @@
     },
     {
       "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/0w9NEJmBHrCvWewrujlOgt"
+      },
+      "artists": [
+        {
+          "name": "MAZZEL",
+          "url": "https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173200,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/180UE30SYVQfYU02UzcyHT"
+    },
+    {
+      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
       },
@@ -1849,7 +1939,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 185000,
       "name": "When You Were Mine - Cheat Codes Remix",
       "url": "https://open.spotify.com/track/3HB9Sw7w421fyf8AMzgZbV"

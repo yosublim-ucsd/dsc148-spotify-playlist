@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,099 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,104 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 37 | [Maranata / Lágrimas de fogo \(Remix\) \(feat\. VITOHRIA SOUNDS & Amanda Loyola\)](https://open.spotify.com/track/4JMlGTQnS06HAayUWFkVFm) | [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo), [VITOHRIA SOUNDS](https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN), [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [Maranata / Lágrimas de fogo \(Remix\) \(feat\. VITOHRIA SOUNDS & Amanda Loyola\)](https://open.spotify.com/album/5o6IMMj4gBCKlXVFI128Il) | 3:15 |
 | 38 | [Tomado](https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Tomado](https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j) | 3:56 |
 | 39 | [Encontrei o Meu Lugar \- Remix](https://open.spotify.com/track/3G9aCmxxZcbvLQL6G3cOko) | [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2), [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH), [Gabriell Júnior](https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH) | [Encontrei o Meu Lugar \(Remix\)](https://open.spotify.com/album/4hgCaDOMhntpliryE9N84R) | 2:45 |
-| 40 | [Não Sou Merecedor](https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Não Sou Merecedor](https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89) | 2:27 |
-| 41 | [Alvo Mais Que a Neve](https://open.spotify.com/track/3vQkRTXwLjgpHE83LN8Eaf) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Alvo Mais Que a Neve](https://open.spotify.com/album/6wQNtx1uUcjWfXl1oIZCAp) | 3:37 |
+| 40 | [Alvo Mais Que a Neve](https://open.spotify.com/track/3vQkRTXwLjgpHE83LN8Eaf) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Alvo Mais Que a Neve](https://open.spotify.com/album/6wQNtx1uUcjWfXl1oIZCAp) | 3:37 |
+| 41 | [Não Sou Merecedor](https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Não Sou Merecedor](https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89) | 2:27 |
 | 42 | [A Sua Chance](https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1) | [Dj Roony Moura](https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL), [Diego Tiguez](https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP) | [A Sua Chance](https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY) | 4:01 |
 | 43 | [Você Me Amou](https://open.spotify.com/track/3Qgh8ad1gvpCMUCmimytUQ) | [Débora Ulhoa](https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr) | [Você Me Amou](https://open.spotify.com/album/4h29dNFAppnSIFqZ83P5ZK) | 2:59 |
 | 44 | [Vamo Com Tudo](https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm) | [Kennto](https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3), [YoungJhow](https://open.spotify.com/artist/594qTcHwWxBHZAy6NSRGko), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5) | [Vamo Com Tudo](https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG) | 2:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 74 | [Eu Te Vejo Em Tudo \(Remix\)](https://open.spotify.com/track/1XkwuabxLXwd8KJhegVn8n) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Helena Albernaz](https://open.spotify.com/artist/0aULAu6t778NjHU24DfCc7) | [Eu Te Vejo Em Tudo \(Remix\)](https://open.spotify.com/album/1ZJlMeuK3YnxzFgVbDktxJ) | 2:46 |
 | 75 | [Direção](https://open.spotify.com/track/18iieT0WuYbFskBwZ3FLyx) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Patrick Felix](https://open.spotify.com/artist/0eCHrizrfyIEVK6wiyUYWf), [BR7](https://open.spotify.com/artist/1p80BrxoS9dat7F4S6UlWv) | [Direção](https://open.spotify.com/album/1zIQAyYF6GXKQnrCYy1U25) | 2:32 |
 
-Snapshot ID: `MCwyZGJkZjY4YzA2Y2U5ZTk3NzZhM2VkNWVlZTFlZjE1YjE5NTIxNzI5`
+Snapshot ID: `MCxlOTQwMDgzYTNhYjE0NzhlZDcyMmJkYjIxNGE3ZDIyNzY4ZjljZjk2`

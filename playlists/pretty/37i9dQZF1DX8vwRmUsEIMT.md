@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Justin Timberlake
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,939 likes - 81 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,934 likes - 81 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,11 +83,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 73 | [Wifey Riddim 4](https://open.spotify.com/track/6tbHckupN0s7pM7w2ifq12) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Wifey Riddim 4](https://open.spotify.com/album/6DYAAqIERXoKZxUymEq1S3) | 3:03 |
 | 74 | [Nothing To Declare](https://open.spotify.com/track/5FbdXtJfcXb2UB8KJNAcQM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Nothing To Declare](https://open.spotify.com/album/7E9wJ7yAAw5UszQT80PuZ8) | 3:33 |
 | 75 | [JOY \(Push The Button\)](https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [JOY \(Push The Button\)](https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2) | 3:55 |
-| 76 | [Biggest Regret \(feat\. BbyAfricka\)](https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W) | [Biggest Regret \(feat\. BbyAfricka\)](https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI) | 3:50 |
+| 76 | [Biggest Regret \(feat\. Bbyafricka\)](https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W) | [Biggest Regret \(feat\. Bbyafricka\)](https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI) | 3:50 |
 | 77 | [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 |
 | 78 | [Forever](https://open.spotify.com/track/52Y1NDCiTeWECwQSeUdAaA) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RobbieG](https://open.spotify.com/artist/2NWRfNAjBd2cUOKbE9Isda) | [Forever](https://open.spotify.com/album/6B5LA5m4bNlH1lTI91biWb) | 3:01 |
 | 79 | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/track/4qmG24ebshLXtKu9HIShBP) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/album/5nOfPCLpHGpayGrUNHAPLt) | 3:37 |
 | 80 | [Closer Than This](https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Closer Than This](https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4) | 3:43 |
 | 81 | [f@k€](https://open.spotify.com/track/25dihw6b05yrnLyqxs3IDO) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj) | [f@k€](https://open.spotify.com/album/1o8jGQjvhRvE3ecv4KSlS4) | 1:47 |
 
-Snapshot ID: `MCw2OTc2MTk4ZTJkMGU0ZjViOWU3ZWM0NTA4ZWNhMjRlYjBjMTEyYjcw`
+Snapshot ID: `MCwzYmYzZGJmN2M2MjUzNDBmOThiZjQ1NWUxYzIyN2ZjNjNiNzg0YzVj`

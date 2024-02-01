@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,030 likes - 80 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,056 likes - 80 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 25 | [Tribal Dance](https://open.spotify.com/track/0bQRtVWacZ4g0usBHrqkl6) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/6t9AXiAHR0S6BFKzVYNTQB) | 4:28 |
 | 26 | [Spann's Stomp](https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT) | [Otis Spann's South Side Piano](https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2) | [Chicago/The Blues/Today!](https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T) | 2:21 |
 | 27 | [Blue Guitar](https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Blue Guitar](https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP) | 2:41 |
-| 28 | [Sunfall Blues](https://open.spotify.com/track/6QxcurDWPr29J2c26aF70s) | [Sarah Rogo](https://open.spotify.com/artist/6iS4moKRkWko7okWLeqisy), [Haus Music](https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6) | [Sunfall](https://open.spotify.com/album/31IQCVhObypc1oxn2Zw4e5) | 4:00 |
+| 28 | [Okie Dokie Stomp](https://open.spotify.com/track/0lKllvUnZSEhUZJscwF0X6) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [The Peacock Recordings: 1949\-1959](https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV) | 2:34 |
 | 29 | [Blues for Nothing](https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b) | [Mike Bloomfield](https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH), [Al Kooper](https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv) | [Super Session \(with Al Kooper & Stephen Stills\)](https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj) | 4:15 |
-| 30 | [Okie Dokie Stomp](https://open.spotify.com/track/0lKllvUnZSEhUZJscwF0X6) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [The Peacock Recordings: 1949\-1959](https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV) | 2:34 |
+| 30 | [Sunfall Blues](https://open.spotify.com/track/6QxcurDWPr29J2c26aF70s) | [Sarah Rogo](https://open.spotify.com/artist/6iS4moKRkWko7okWLeqisy), [Haus Music](https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6) | [Sunfall](https://open.spotify.com/album/31IQCVhObypc1oxn2Zw4e5) | 4:00 |
 | 31 | [Aurora](https://open.spotify.com/track/3SjpJJDdlE4HDbKzPzJXQw) | [Daniel Arena](https://open.spotify.com/artist/1YP7BAcfpCRnxermSsAXEA) | [Io](https://open.spotify.com/album/5ughw0JaRjOMakLyA0kw20) | 4:44 |
 | 32 | [Mr\. B.](https://open.spotify.com/track/3AuSpsrM5g5XHqC8LTIMuE) | [Tomislav Goluban](https://open.spotify.com/artist/6q3mDdArQz0RwXGYZPRJJN), [Boško Petrović](https://open.spotify.com/artist/2GGvRFBST0G71PsDnFNOrA) | [Mr\. B.](https://open.spotify.com/album/02dBZeFlgUrHhUNNZMSCOs) | 6:45 |
 | 33 | [Jam On A Monday Morning](https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 2:52 |
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 54 | [The Stumble](https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Sensation](https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA) | 3:14 |
 | 55 | [The Sulfur Blues](https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf) | [Andrea Chiarini](https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3) | [The Sulfur Blues](https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF) | 3:26 |
 | 56 | [La Llorona](https://open.spotify.com/track/6gLPSVs7lhIxm6HNsrjMkn) | [Tim "Too Slim" Langford](https://open.spotify.com/artist/2kx2O6JbEPkAS2bfaVXswy) | [Broken Halo](https://open.spotify.com/album/0Dpk0b9BcgKUFaYYSgVh3S) | 2:58 |
-| 57 | [Easy Does It Blues](https://open.spotify.com/track/4bnVziTbh15r5zkVQlaA12) | [Ross Hammond](https://open.spotify.com/artist/4Nyl11mo7720s5gSGyQocj) | [Roll Forward](https://open.spotify.com/album/4TVOI2Frx5uP40oJvE2Ewp) | 6:01 |
-| 58 | [If You're Not Mine](https://open.spotify.com/track/4cPfagXa1RWHPx6rZcIdgS) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD), [Stephan Holstein](https://open.spotify.com/artist/4x0LaGxB5v6maICwQPwlIA) | [The Spiekeroog Sessions](https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ) | 4:23 |
+| 57 | [If You're Not Mine](https://open.spotify.com/track/4cPfagXa1RWHPx6rZcIdgS) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD), [Stephan Holstein](https://open.spotify.com/artist/4x0LaGxB5v6maICwQPwlIA) | [The Spiekeroog Sessions](https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ) | 4:23 |
+| 58 | [Gotta Move](https://open.spotify.com/track/7CBgw5vnA4TWHmtWyoy6ll) | [Alexis Korner's Blues Incorporated](https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN) | [R&B from the Marquee / At the Cavern \(Remastered\)](https://open.spotify.com/album/435zTVZqyNJba4YteDro9M) | 2:30 |
 | 59 | [Side Tracked](https://open.spotify.com/track/7qB9g4tusEHV5HGPzZejGj) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Sensation](https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA) | 3:05 |
-| 60 | [Gotta Move](https://open.spotify.com/track/7CBgw5vnA4TWHmtWyoy6ll) | [Alexis Korner's Blues Incorporated](https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN) | [R&B from the Marquee / At the Cavern \(Remastered\)](https://open.spotify.com/album/435zTVZqyNJba4YteDro9M) | 2:30 |
+| 60 | [Easy Does It Blues](https://open.spotify.com/track/4bnVziTbh15r5zkVQlaA12) | [Ross Hammond](https://open.spotify.com/artist/4Nyl11mo7720s5gSGyQocj) | [Roll Forward](https://open.spotify.com/album/4TVOI2Frx5uP40oJvE2Ewp) | 6:01 |
 | 61 | [Blues After Hours](https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Blues On Blues](https://open.spotify.com/album/1XHnDSzTvbGK4oJkOtzC7V) | 3:03 |
 | 62 | [Sweet Ginny](https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [Screamin' the Blues](https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY) | 3:08 |
 | 63 | [The Screwdriver](https://open.spotify.com/track/2qB2d4QdB5CpbQVAlbeM0A) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Theresa Fungus Amung Us](https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY) | 3:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 79 | [Long gone](https://open.spotify.com/track/6iC677ZnjXAa2ixQ3hIf6z) | [Sonny Thompson](https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR) | [Mellow Blues](https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq) | 5:44 |
 | 80 | [Blind Willie](https://open.spotify.com/track/7Dc0GqiXeIqiQaTngeBcod) | [Ruth Wyand](https://open.spotify.com/artist/6DeVlBIJsrUt0kvPFkUYBh) | [Blind Willie](https://open.spotify.com/album/4lDz2uL6kTVYjSQKwGQVd3) | 2:55 |
 
-Snapshot ID: `MCxhODEyZWE0MzgzNDQyYzc5NjJjODZkOTZiMjA0MmY4MTUyZjBhOGFh`
+Snapshot ID: `MCw3MDBlYjYxODhlYmVjZWI3YjI0MDRhMWZkNmJkNWZiZGMwMzI3ODg1`

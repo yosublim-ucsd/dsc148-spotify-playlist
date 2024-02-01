@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Melody's Echo Chamber on cover.",
-  "num_followers": 405148,
+  "num_followers": 405286,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmNiNjg0ODY5NmJiMjFmZDU0M2U1NTk5MzJkZDE0MThlODc5MmFj",
+  "snapshot_id": "MCw3OTlmYWEwZTY3NDIyZmMyNmEyMmUyNjNmNjc4NzQzNTA1OGU2YWZm",
   "tracks": [
     {
       "added_at": "2023-11-24 01:15:27",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Good Bad Not Evil",
-        "url": "https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A"
+        "name": "Butterfly 3000",
+        "url": "https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy"
       },
       "artists": [
         {
-          "name": "Black Lips",
-          "url": "https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG"
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 148306,
-      "name": "Veni Vidi Vici",
-      "url": "https://open.spotify.com/track/5BQ7Txrx41vbbUvQBuKNuP"
+      "duration_ms": 315133,
+      "name": "Interior People",
+      "url": "https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30"
     },
     {
       "added_at": "2024-01-30 05:11:10",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Butterfly 3000",
-        "url": "https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy"
+        "name": "Good Bad Not Evil",
+        "url": "https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "Black Lips",
+          "url": "https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG"
         }
       ],
-      "duration_ms": 315133,
-      "name": "Interior People",
-      "url": "https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30"
+      "duration_ms": 148306,
+      "name": "Veni Vidi Vici",
+      "url": "https://open.spotify.com/track/5BQ7Txrx41vbbUvQBuKNuP"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -247,6 +247,22 @@
       "duration_ms": 196053,
       "name": "Roky Said",
       "url": "https://open.spotify.com/track/2VDxMrYLnQy8NdsKCzbdnO"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "L.W.",
+        "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 220216,
+      "name": "O.N.E.",
+      "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -347,6 +363,38 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 271880,
+      "name": "Mind Mischief",
+      "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Ice, Death, Planets, Lungs, Mushrooms And Lava",
+        "url": "https://open.spotify.com/album/2nPbslvl01lfELsFHTKp0s"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 615939,
+      "name": "Ice V",
+      "url": "https://open.spotify.com/track/36XAknfUMQYgAPfIJkTed0"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
         "name": "Bacchanal",
         "url": "https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF"
       },
@@ -379,34 +427,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+        "name": "Moonlust",
+        "url": "https://open.spotify.com/album/5dsTu76YBUMKIvgjrswqpF"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "The Holydrug Couple",
+          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
         }
       ],
-      "duration_ms": 271880,
-      "name": "Mind Mischief",
-      "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "L.W.",
-        "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 220216,
-      "name": "O.N.E.",
-      "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
+      "duration_ms": 205010,
+      "name": "Concorde",
+      "url": "https://open.spotify.com/track/5ULB93v4tHdKtXC4LTa3k1"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -427,22 +459,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Moonlust",
-        "url": "https://open.spotify.com/album/5dsTu76YBUMKIvgjrswqpF"
-      },
-      "artists": [
-        {
-          "name": "The Holydrug Couple",
-          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
-        }
-      ],
-      "duration_ms": 205010,
-      "name": "Concorde",
-      "url": "https://open.spotify.com/track/5ULB93v4tHdKtXC4LTa3k1"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Naxatras",
         "url": "https://open.spotify.com/album/4T297zbG0nk3U7ODkvYAuv"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 440014,
       "name": "Waves",
       "url": "https://open.spotify.com/track/038gKq7MYQFa20Q7MdHySX"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "Ananda Shankar (US Internet Release)",
-        "url": "https://open.spotify.com/album/24R9CyPLFa0CJrSZ9whlT3"
-      },
-      "artists": [
-        {
-          "name": "Ananda Shankar",
-          "url": "https://open.spotify.com/artist/5eNWwEF0woj5E5Fnu9qXaQ"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Jumpin' Jack Flash",
-      "url": "https://open.spotify.com/track/6BkeuHmO4P69Ln2BSonrXi"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -491,6 +491,38 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
+        "name": "Ananda Shankar (US Internet Release)",
+        "url": "https://open.spotify.com/album/24R9CyPLFa0CJrSZ9whlT3"
+      },
+      "artists": [
+        {
+          "name": "Ananda Shankar",
+          "url": "https://open.spotify.com/artist/5eNWwEF0woj5E5Fnu9qXaQ"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Jumpin' Jack Flash",
+      "url": "https://open.spotify.com/track/6BkeuHmO4P69Ln2BSonrXi"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "K.G.",
+        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 273854,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/0nObOnIxnz6PlPf04tZh1g"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
         "name": "Stars Are the Light",
         "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
       },
@@ -503,22 +535,6 @@
       "duration_ms": 386966,
       "name": "Lost Heads",
       "url": "https://open.spotify.com/track/6f8wIpMdNnL7CZ8zsfmh6v"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "Ice, Death, Planets, Lungs, Mushrooms And Lava",
-        "url": "https://open.spotify.com/album/2nPbslvl01lfELsFHTKp0s"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 615939,
-      "name": "Ice V",
-      "url": "https://open.spotify.com/track/36XAknfUMQYgAPfIJkTed0"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -623,22 +639,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "K.G.",
-        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 273854,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/0nObOnIxnz6PlPf04tZh1g"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "A Song For Paul",
         "url": "https://open.spotify.com/album/0w6knr7boQarN35qErXXeu"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Don't Delay, Join Today!",
-        "url": "https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi"
-      },
-      "artists": [
-        {
-          "name": "Improvement Movement",
-          "url": "https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ"
-        }
-      ],
-      "duration_ms": 128917,
-      "name": "Strange Secrets Worth Knowing",
-      "url": "https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "The Underdog",
         "url": "https://open.spotify.com/album/3t24SFsyPmgC5K20d3aOof"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 285643,
       "name": "The Blue Marble",
       "url": "https://open.spotify.com/track/4qvPp0Lt3MWWwHVb72Taox"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Don't Delay, Join Today!",
+        "url": "https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi"
+      },
+      "artists": [
+        {
+          "name": "Improvement Movement",
+          "url": "https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ"
+        }
+      ],
+      "duration_ms": 128917,
+      "name": "Strange Secrets Worth Knowing",
+      "url": "https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "No Way In",
-        "url": "https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2"
-      },
-      "artists": [
-        {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
-        }
-      ],
-      "duration_ms": 246125,
-      "name": "No Way In",
-      "url": "https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Sleeping Through The War",
         "url": "https://open.spotify.com/album/6Yse0GPuOHRksNWmrEZQSw"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 400853,
       "name": "Bulls",
       "url": "https://open.spotify.com/track/5pbFvRZ7uS8hkkAtbj5bvX"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "No Way In",
+        "url": "https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2"
+      },
+      "artists": [
+        {
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+        }
+      ],
+      "duration_ms": 246125,
+      "name": "No Way In",
+      "url": "https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Spin",
-        "url": "https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf"
-      },
-      "artists": [
-        {
-          "name": "Triathalon",
-          "url": "https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3"
-        }
-      ],
-      "duration_ms": 212203,
-      "name": "Spin",
-      "url": "https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Egypt",
         "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 261634,
       "name": "Egypt",
       "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Spin",
+        "url": "https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf"
+      },
+      "artists": [
+        {
+          "name": "Triathalon",
+          "url": "https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3"
+        }
+      ],
+      "duration_ms": 212203,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Fuckin Whatever",
-        "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
-      },
-      "artists": [
-        {
-          "name": "Fuckin Whatever",
-          "url": "https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe"
-        }
-      ],
-      "duration_ms": 213211,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Sacred Drugs",
         "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 321906,
       "name": "Black Kite",
       "url": "https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Fuckin Whatever",
+        "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
+      },
+      "artists": [
+        {
+          "name": "Fuckin Whatever",
+          "url": "https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe"
+        }
+      ],
+      "duration_ms": 213211,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "EL ELIXIR DE TUS LABIOS",
-        "url": "https://open.spotify.com/album/3IoZMNSHUsK6kSE80DLOZ4"
+        "name": "Hologram",
+        "url": "https://open.spotify.com/album/3TAM2d6u89SFo3WCGTC1Yo"
       },
       "artists": [
         {
-          "name": "Daniel Qui\u00e9n",
-          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+          "name": "A Place To Bury Strangers",
+          "url": "https://open.spotify.com/artist/3kx1S2P2Qq3a9bG4DGsAjR"
         }
       ],
-      "duration_ms": 242000,
-      "name": "EL ELIXIR DE TUS LABIOS",
-      "url": "https://open.spotify.com/track/6F1bYqnUYqkPEozNbERZQf"
+      "duration_ms": 326694,
+      "name": "End of the Night",
+      "url": "https://open.spotify.com/track/7CWh8Z5lxzAji5F1CPr3mD"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1419,6 +1419,38 @@
       "duration_ms": 425036,
       "name": "attention",
       "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "EL ELIXIR DE TUS LABIOS",
+        "url": "https://open.spotify.com/album/3IoZMNSHUsK6kSE80DLOZ4"
+      },
+      "artists": [
+        {
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "EL ELIXIR DE TUS LABIOS",
+      "url": "https://open.spotify.com/track/6F1bYqnUYqkPEozNbERZQf"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Bud Spencer Blues Explosion",
+        "url": "https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL"
+      },
+      "artists": [
+        {
+          "name": "Bud Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Hey Boy Hey Girl - Cover Version",
+      "url": "https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1455,38 +1487,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Bud Spencer Blues Explosion",
-        "url": "https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL"
-      },
-      "artists": [
-        {
-          "name": "Bud Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Hey Boy Hey Girl - Cover Version",
-      "url": "https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "Hologram",
-        "url": "https://open.spotify.com/album/3TAM2d6u89SFo3WCGTC1Yo"
-      },
-      "artists": [
-        {
-          "name": "A Place To Bury Strangers",
-          "url": "https://open.spotify.com/artist/3kx1S2P2Qq3a9bG4DGsAjR"
-        }
-      ],
-      "duration_ms": 326694,
-      "name": "End of the Night",
-      "url": "https://open.spotify.com/track/7CWh8Z5lxzAji5F1CPr3mD"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Fudge Sandwich",
         "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
       },
@@ -1499,22 +1499,6 @@
       "duration_ms": 240320,
       "name": "Hit It and Quit It",
       "url": "https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
-      },
-      "artists": [
-        {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
-        }
-      ],
-      "duration_ms": 221701,
-      "name": "Asteroid Witch",
-      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
-        "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
       },
       "artists": [
         {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
         }
       ],
-      "duration_ms": 250214,
-      "name": "Meme City",
-      "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
+      "duration_ms": 221701,
+      "name": "Asteroid Witch",
+      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1563,6 +1547,22 @@
       "duration_ms": 310144,
       "name": "Lady Rachel",
       "url": "https://open.spotify.com/track/0Sx7vYgpMShPW7obwHjt1a"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
+        "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "duration_ms": 250214,
+      "name": "Meme City",
+      "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
     },
     {
       "added_at": "2023-11-24 01:15:27",

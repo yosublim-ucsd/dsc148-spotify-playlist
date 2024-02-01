@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 10,081 likes - 41 songs - 2 hr 30 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 10,082 likes - 41 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 8 | [Novum Vetus](https://open.spotify.com/track/1OlbUQSGl2vsB1S7CaprIw) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Novum Vetus](https://open.spotify.com/album/4N2GpoFW3zt6YEyxyblsNZ) | 7:29 |
 | 9 | [Younger](https://open.spotify.com/track/5l9LWuf4z6i9ElDqxU5mmf) | [GEMZ](https://open.spotify.com/artist/4lCETmVZPECMVkJ3cJhdT6), [Jen Wood](https://open.spotify.com/artist/3Fxe3qewY3qi31rrmyoJfs), [Ted Chen](https://open.spotify.com/artist/57AM5MUdnRfdzxFX3lxITE) | [Younger](https://open.spotify.com/album/7xoIgsCStoQdHM8znvfTXa) | 4:47 |
 | 10 | [Landslide](https://open.spotify.com/track/4UnezplnQOoiNCRxYfveZR) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [Landslide](https://open.spotify.com/album/6Jca9m0heHbc7wu44GZs0A) | 1:36 |
-| 11 | [Accent](https://open.spotify.com/track/4MDwa4SfUr9ATSzYPROjtm) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P), [Saul Williams](https://open.spotify.com/artist/52aqVnvlkWJ7IH8IrBkmic) | [Accent](https://open.spotify.com/album/3ZlOvZjzsj4ylB6y6mARja) | 2:28 |
+| 11 | [Accent](https://open.spotify.com/track/4MDwa4SfUr9ATSzYPROjtm) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P), [Saul Williams](https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm) | [Accent](https://open.spotify.com/album/3ZlOvZjzsj4ylB6y6mARja) | 2:28 |
 | 12 | [Bang The Bus](https://open.spotify.com/track/3HJ8qcX2TGkpZB2hE2oxhr) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Bang The Bus](https://open.spotify.com/album/5hMTZQ9sh9Zuc7rq5GO4PE) | 2:56 |
 | 13 | [Fortify](https://open.spotify.com/track/0oD4SYLAvCK5PI38bUK2jc) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Fortify](https://open.spotify.com/album/74mZzqkL5nvDDyBGbyMX0g) | 5:49 |
 | 14 | [SHOWER SONG](https://open.spotify.com/track/4mD2clo4xlw6aCk5LC7dsi) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [SHOWER SONG](https://open.spotify.com/album/7zJhaYDSEPb6mybiV8sdl5) | 2:43 |

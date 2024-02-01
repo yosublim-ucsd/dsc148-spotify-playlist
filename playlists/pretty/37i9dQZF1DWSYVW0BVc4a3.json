@@ -1,12 +1,12 @@
 {
   "description": "The stomping ground.",
-  "num_followers": 120025,
+  "num_followers": 120278,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmIwNmM0MTU1ZTQyZjBiNDI2OWU1YTg1NWI5N2RjYzYwMGEyMDQz",
+  "snapshot_id": "MCwzM2JlNWMyMDdhY2ExNGJmMmI2ZWZhNWE4ZDc0Nzk3Zjk4ZmRmMjRm",
   "tracks": [
     {
       "added_at": "2024-01-25 23:00:00",
@@ -683,26 +683,18 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Miracle - R\u00dcF\u00dcS DU SOL Remix",
-        "url": "https://open.spotify.com/album/0YrIrVXVrpZZM7cjxF8erW"
+        "name": "Get Hard (You In The Lobby)",
+        "url": "https://open.spotify.com/album/3Py5hR3sTJG5PqCxw6TqYn"
       },
       "artists": [
         {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
         }
       ],
-      "duration_ms": 503475,
-      "name": "Miracle - R\u00dcF\u00dcS DU SOL Remix",
-      "url": "https://open.spotify.com/track/2yTjbIZDwHO41HIwDNPB8K"
+      "duration_ms": 156948,
+      "name": "Get Hard (You In The Lobby)",
+      "url": "https://open.spotify.com/track/3tUtwmznpPiEu8AkqX3Xom"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -731,18 +723,26 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Get Hard (You In The Lobby)",
-        "url": "https://open.spotify.com/album/3Py5hR3sTJG5PqCxw6TqYn"
+        "name": "Miracle - R\u00dcF\u00dcS DU SOL Remix",
+        "url": "https://open.spotify.com/album/0YrIrVXVrpZZM7cjxF8erW"
       },
       "artists": [
         {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 156948,
-      "name": "Get Hard (You In The Lobby)",
-      "url": "https://open.spotify.com/track/3tUtwmznpPiEu8AkqX3Xom"
+      "duration_ms": 503475,
+      "name": "Miracle - R\u00dcF\u00dcS DU SOL Remix",
+      "url": "https://open.spotify.com/track/2yTjbIZDwHO41HIwDNPB8K"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -767,7 +767,7 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Biggest Regret (feat. BbyAfricka)",
+        "name": "Biggest Regret (feat. Bbyafricka)",
         "url": "https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI"
       },
       "artists": [
@@ -781,28 +781,8 @@
         }
       ],
       "duration_ms": 230613,
-      "name": "Biggest Regret (feat. BbyAfricka)",
+      "name": "Biggest Regret (feat. Bbyafricka)",
       "url": "https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "Banho de Folhas (Maz Remix)",
-        "url": "https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Maz (BR)",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "Banho de Folhas - Maz Remix",
-      "url": "https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -827,6 +807,26 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
+        "name": "Banho de Folhas (Maz Remix)",
+        "url": "https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Maz (BR)",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "Banho de Folhas - Maz Remix",
+      "url": "https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
         "name": "Danielle (smile on my face)",
         "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
       },
@@ -839,26 +839,6 @@
       "duration_ms": 201230,
       "name": "Danielle (smile on my face)",
       "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/2ctujff7VotoPkcd4AXXT8"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        }
-      ],
-      "duration_ms": 302740,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -887,6 +867,22 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
+        "name": "KILL DEM",
+        "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 223536,
+      "name": "KILL DEM",
+      "url": "https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
         "name": "Simulation",
         "url": "https://open.spotify.com/album/08D0nW5tIE8sRDIZruTU2V"
       },
@@ -907,18 +903,22 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "KILL DEM",
-        "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/2ctujff7VotoPkcd4AXXT8"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
         }
       ],
-      "duration_ms": 223536,
-      "name": "KILL DEM",
-      "url": "https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP"
+      "duration_ms": 302740,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Calling",
-        "url": "https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r"
-      },
-      "artists": [
-        {
-          "name": "Ellis Moss",
-          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
-        }
-      ],
-      "duration_ms": 196615,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "Point Of No Return",
         "url": "https://open.spotify.com/album/3rtikOpy9VLFHFv79b2ZzQ"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 283902,
       "name": "Point Of No Return",
       "url": "https://open.spotify.com/track/2xsIBTddzLEnXCFsxPHBn0"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r"
+      },
+      "artists": [
+        {
+          "name": "Ellis Moss",
+          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
+        }
+      ],
+      "duration_ms": 196615,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Better Recognize",
-        "url": "https://open.spotify.com/album/3E3fHTWpI3VSYUZpVO1Eag"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 211586,
-      "name": "Better Recognize",
-      "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "Spring Girl (Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/5b704SG8QwJJhRVDzDk4yv"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 228779,
       "name": "Spring Girl - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/2SCkpXTuQOvXySjlz9O1JH"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Better Recognize",
+        "url": "https://open.spotify.com/album/3E3fHTWpI3VSYUZpVO1Eag"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 211586,
+      "name": "Better Recognize",
+      "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -1891,6 +1891,26 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
+        "name": "Welcome The Night",
+        "url": "https://open.spotify.com/album/1hlK3J8IC3ZiyRj1ujVD82"
+      },
+      "artists": [
+        {
+          "name": "Silver Panda",
+          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        }
+      ],
+      "duration_ms": 198407,
+      "name": "Welcome The Night",
+      "url": "https://open.spotify.com/track/4OlnouGKBwHSBt61wlFMcK"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/0ZkZ1UQ7SPAhM0E6RrPRMZ"
       },
@@ -1911,26 +1931,6 @@
       "duration_ms": 173601,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/7EVHULTsnqPHH2kvCQ1r8j"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "Welcome The Night",
-        "url": "https://open.spotify.com/album/1hlK3J8IC3ZiyRj1ujVD82"
-      },
-      "artists": [
-        {
-          "name": "Silver Panda",
-          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
-        },
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        }
-      ],
-      "duration_ms": 198407,
-      "name": "Welcome The Night",
-      "url": "https://open.spotify.com/track/4OlnouGKBwHSBt61wlFMcK"
     },
     {
       "added_at": "2024-01-25 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a>",
-  "num_followers": 229380,
+  "num_followers": 229528,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjUzZmZjYjRiZjYyOGE3MTc3MGNmMDA5MTNiNTFhYjNiOTM4OWUy",
+  "snapshot_id": "MCwzMDBiYzIyYzJjYmUwMDU3ZGY3YzRiNzhkNmU0NjdkNjA0YmM3ODFl",
   "tracks": [
     {
       "added_at": "2024-01-12 07:49:20",
@@ -563,26 +563,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "So Much To Say (Pt. III)",
-        "url": "https://open.spotify.com/album/6HaymVQhgMhb6UyFqk3VHY"
-      },
-      "artists": [
-        {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
-        },
-        {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        }
-      ],
-      "duration_ms": 164542,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/6wU5FbAJrRcZUvDfpP0XxR"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "A Good Thing",
         "url": "https://open.spotify.com/album/7FUZ0Z40BXZMDDSNMbpeYS"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 172940,
       "name": "A Good Thing",
       "url": "https://open.spotify.com/track/5TgtiD1sCDSvlD6KjqrsJz"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "So Much To Say (Pt. III)",
+        "url": "https://open.spotify.com/album/6HaymVQhgMhb6UyFqk3VHY"
+      },
+      "artists": [
+        {
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        }
+      ],
+      "duration_ms": 164542,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/6wU5FbAJrRcZUvDfpP0XxR"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Your Love Will Never Change",
-        "url": "https://open.spotify.com/album/2Yq6QxSZAv7e48JOYpMsVu"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Your Love Will Never Change",
-      "url": "https://open.spotify.com/track/0rfx6Og7mSGN57kMJKoCnQ"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Pray For Me",
         "url": "https://open.spotify.com/album/7MVBNLbOp2MyvWRbbPvkNZ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 257896,
       "name": "Nothing To Something",
       "url": "https://open.spotify.com/track/4IE9nQZmfNXVJCRau4PzTz"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Your Love Will Never Change",
+        "url": "https://open.spotify.com/album/2Yq6QxSZAv7e48JOYpMsVu"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Your Love Will Never Change",
+      "url": "https://open.spotify.com/track/0rfx6Og7mSGN57kMJKoCnQ"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1063,38 +1063,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "My Worship",
-        "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
-      },
-      "artists": [
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 201938,
-      "name": "My Worship",
-      "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Wilder Wonderland",
-        "url": "https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF"
-      },
-      "artists": [
-        {
-          "name": "V. Rose",
-          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
-        }
-      ],
-      "duration_ms": 220684,
-      "name": "Just Wondering",
-      "url": "https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "polaroids.",
         "url": "https://open.spotify.com/album/5Prj7tghns9XY626lMR3LL"
       },
@@ -1115,6 +1083,38 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Wilder Wonderland",
+        "url": "https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF"
+      },
+      "artists": [
+        {
+          "name": "V. Rose",
+          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
+        }
+      ],
+      "duration_ms": 220684,
+      "name": "Just Wondering",
+      "url": "https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "My Worship",
+        "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 201938,
+      "name": "My Worship",
+      "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "Greater Is He",
         "url": "https://open.spotify.com/album/3Ah5hEwBGRZy0uBfzm5jMv"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 180292,
       "name": "ALL MY LIFE",
       "url": "https://open.spotify.com/track/44HijDTWOym4XWqEFQD28Y"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "More In Seconds",
-        "url": "https://open.spotify.com/album/6D8jfseyzo6aID0WbA5pgj"
-      },
-      "artists": [
-        {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
-        }
-      ],
-      "duration_ms": 244493,
-      "name": "More In Seconds",
-      "url": "https://open.spotify.com/track/6Jiyh1uhwo7q2I8Yx9vgsT"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1163,6 +1147,22 @@
       "duration_ms": 192968,
       "name": "I Surrender All (Allt till Jesus)",
       "url": "https://open.spotify.com/track/0YbNff7JhsieHxmHFgEuzX"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "More In Seconds",
+        "url": "https://open.spotify.com/album/6D8jfseyzo6aID0WbA5pgj"
+      },
+      "artists": [
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        }
+      ],
+      "duration_ms": 244493,
+      "name": "More In Seconds",
+      "url": "https://open.spotify.com/track/6Jiyh1uhwo7q2I8Yx9vgsT"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "With Him",
+        "url": "https://open.spotify.com/album/6U0fKpZM5MAnmN6QAgRftH"
+      },
+      "artists": [
+        {
+          "name": "Kaye-Marie",
+          "url": "https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "With Him",
+      "url": "https://open.spotify.com/track/7s7wag1cue3SVabZAQjVwh"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "Simple Ways",
         "url": "https://open.spotify.com/album/7vs8N6AbGXg8i0K4y6aEpc"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 177214,
       "name": "Simple Ways",
       "url": "https://open.spotify.com/track/4pRmJstStQ4d23TUhjDj6a"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "With Him",
-        "url": "https://open.spotify.com/album/6U0fKpZM5MAnmN6QAgRftH"
-      },
-      "artists": [
-        {
-          "name": "Kaye-Marie",
-          "url": "https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "With Him",
-      "url": "https://open.spotify.com/track/7s7wag1cue3SVabZAQjVwh"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "For Your Grace",
-        "url": "https://open.spotify.com/album/7D8B8My0dXsIoviSbw4Ej2"
-      },
-      "artists": [
-        {
-          "name": "Jaicko Lawrence",
-          "url": "https://open.spotify.com/artist/3RYC1U7EqTX1ykWAY28QXn"
-        }
-      ],
-      "duration_ms": 200605,
-      "name": "For Your Grace",
-      "url": "https://open.spotify.com/track/5iZP8YJeKHZticyPAbJjyW"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Breathe Again",
         "url": "https://open.spotify.com/album/2WafA0UdtpMFMbZvBUrSww"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 186000,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/5GNdJOo73mL3T4OpqWDKja"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "For Your Grace",
+        "url": "https://open.spotify.com/album/7D8B8My0dXsIoviSbw4Ej2"
+      },
+      "artists": [
+        {
+          "name": "Jaicko Lawrence",
+          "url": "https://open.spotify.com/artist/3RYC1U7EqTX1ykWAY28QXn"
+        }
+      ],
+      "duration_ms": 200605,
+      "name": "For Your Grace",
+      "url": "https://open.spotify.com/track/5iZP8YJeKHZticyPAbJjyW"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "WORTHY",
-        "url": "https://open.spotify.com/album/0rSrNBf65mgV4DHXb73Kbp"
-      },
-      "artists": [
-        {
-          "name": "Paulade",
-          "url": "https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK"
-        }
-      ],
-      "duration_ms": 175020,
-      "name": "WORTHY",
-      "url": "https://open.spotify.com/track/4rrfTx3W7ro82OvV0R6Uiy"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Like Yours",
         "url": "https://open.spotify.com/album/5azmENYG8KnyBBhX2zGADH"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 207529,
       "name": "Like Yours",
       "url": "https://open.spotify.com/track/2GxOocpI0dqAdjbqQUkb4l"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "WORTHY",
+        "url": "https://open.spotify.com/album/0rSrNBf65mgV4DHXb73Kbp"
+      },
+      "artists": [
+        {
+          "name": "Paulade",
+          "url": "https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK"
+        }
+      ],
+      "duration_ms": 175020,
+      "name": "WORTHY",
+      "url": "https://open.spotify.com/track/4rrfTx3W7ro82OvV0R6Uiy"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Awesome",
-        "url": "https://open.spotify.com/album/0uWIKYtMsCNMlYMNyCcvBt"
-      },
-      "artists": [
-        {
-          "name": "Melissa Bethea",
-          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
-        }
-      ],
-      "duration_ms": 218948,
-      "name": "Awesome",
-      "url": "https://open.spotify.com/track/1CCi2rldOo75tHL5kau6WA"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "SURREAL",
         "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 174409,
       "name": "SURREAL",
       "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Awesome",
+        "url": "https://open.spotify.com/album/0uWIKYtMsCNMlYMNyCcvBt"
+      },
+      "artists": [
+        {
+          "name": "Melissa Bethea",
+          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
+        }
+      ],
+      "duration_ms": 218948,
+      "name": "Awesome",
+      "url": "https://open.spotify.com/track/1CCi2rldOo75tHL5kau6WA"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Let It Be Your Will",
-        "url": "https://open.spotify.com/album/0MK1wRUYjX4kp0MwDOnFJs"
-      },
-      "artists": [
-        {
-          "name": "Dwan Hill",
-          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
-        }
-      ],
-      "duration_ms": 250295,
-      "name": "Let It Be Your Will",
-      "url": "https://open.spotify.com/track/4c6cmc4E57dKujV20KAa4I"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/4YXNOs51XA1tTdcMoJg7kk"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 161697,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7fn9wyVJvDOVkOI1UpU20x"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Let It Be Your Will",
+        "url": "https://open.spotify.com/album/0MK1wRUYjX4kp0MwDOnFJs"
+      },
+      "artists": [
+        {
+          "name": "Dwan Hill",
+          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
+        }
+      ],
+      "duration_ms": 250295,
+      "name": "Let It Be Your Will",
+      "url": "https://open.spotify.com/track/4c6cmc4E57dKujV20KAa4I"
     },
     {
       "added_at": "2024-01-12 07:49:20",

@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-584 songs - 2 day 1 hr 53 min
+585 songs - 2 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Cosmic Keys To My Creations](https://open.spotify.com/track/2PCkhY491TTMh6huRR0sVP) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [Emperor / Wrath Of The Tyrant](https://open.spotify.com/album/5xlWZg5A1euPjkSDUxCaLL) | 6:22 | 2023-09-01 |  |
 | [Cosmic Keys to My Creations and Times \- Emperor EP](https://open.spotify.com/track/2Dm4omgxnNrLchOhyVriSC) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [Emperor / Wrath of the Tyrant](https://open.spotify.com/album/6oF6z5RZWANz1V2q0qQp2L) | 6:22 | 2022-07-13 | 2022-07-28 |
 | [Cradle of Insanity](https://open.spotify.com/track/0yZtGvT7RgxjncYE0Pg9fV) | [Veiled in Scarlet](https://open.spotify.com/artist/6umv4rFJkPXQG4PQQ6MwIQ) | [Cradle of Insanity](https://open.spotify.com/album/39Vuf7tc9kQQWreq0m3kyp) | 5:15 | 2022-05-13 | 2022-07-29 |
+| [Crime & Castigo](https://open.spotify.com/track/5zWrHra7s2PdCD3diJsQ2U) | [Hatefulmurder](https://open.spotify.com/artist/6gzTPz8NipWH2EBUPw1CPy) | [Crime & Castigo](https://open.spotify.com/album/0ZHPGYQJGwJo1amjYy3h2T) | 3:09 | 2024-01-26 |  |
 | [Cruelty Brought Thee Orchids](https://open.spotify.com/track/4G5P8iFosipk75ka1Zi4ob) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Cruelty & The Beast](https://open.spotify.com/album/1mANCcmAMRlnFIBM7SHBg7) | 7:18 | 2022-07-13 |  |
 | [Cryptic Hatred](https://open.spotify.com/track/34emkkUGkQ0TNhklAMpeG8) | [Bekor Qilish](https://open.spotify.com/artist/3XFes9KaDdpuRTaiPrHCXR) | [Throes of Death from the Dreamed Nihilism](https://open.spotify.com/album/0gck1FDA4mOauf4e6BSbjV) | 4:32 | 2023-02-15 | 2023-04-01 |
 | [Cult of Shaad'oah](https://open.spotify.com/track/1G2gIvViMPVHsjHQ9Cqxkq) | [Horrendous](https://open.spotify.com/artist/1Na6P4MqOassrZtvT9Z12s) | [Cult of Shaad'oah](https://open.spotify.com/album/3TgbVo0JRtM8sXTVtPWxb6) | 5:23 | 2023-06-23 | 2023-07-19 |
@@ -546,7 +547,7 @@
 | [Unstern](https://open.spotify.com/track/309A8NlAFgdMAWo2qeMFIG) | [Aara](https://open.spotify.com/artist/3UpDjZ41s0rOQsDKSECKmt) | [Unstern](https://open.spotify.com/album/1jb95cQtwpDGUCuyra2FLO) | 6:10 | 2023-03-03 | 2023-04-09 |
 | [Unveiling the Palest Truth](https://open.spotify.com/track/3lm1VP0tsGhjKNPsTAlFXE) | [Deadspace](https://open.spotify.com/artist/6Pil7ytDWKgjHf1mXQe4Q8) | [Unveiling the Palest Truth](https://open.spotify.com/album/2IwkBnUQiR0SYF6mo1eIeU) | 5:42 | 2023-09-22 | 2023-12-11 |
 | [Urkraft](https://open.spotify.com/track/4bRajxPpQhnHYrNFFyHkyw) | [Kampfar](https://open.spotify.com/artist/35nZyw3d7OIbhGeqBEPIYQ) | [Urkraft](https://open.spotify.com/album/5sf63KzWDQWmHYt8uulINM) | 7:35 | 2022-04-01 | 2022-07-25 |
-| [Valkyriernes Sang](https://open.spotify.com/track/7KEeACpTUmbfSmBowFgmnK) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Valkyriernes Sang](https://open.spotify.com/album/2dc2XVdO6Vb3zfZEjuw24y) | 3:55 | 2023-10-06 |  |
+| [Valkyriernes Sang](https://open.spotify.com/track/7KEeACpTUmbfSmBowFgmnK) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Valkyriernes Sang](https://open.spotify.com/album/2dc2XVdO6Vb3zfZEjuw24y) | 3:55 | 2023-10-06 | 2024-02-01 |
 | [Valley of Sacrifice, Pt\. 1 \- Re\-Recorded 2022](https://open.spotify.com/track/4QlVvuOvnk2W51tsSUfnih) | [Mors Principium Est](https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi) | [Valley of Sacrifice, Pt\. 1 \(Re\-Recorded 2022\)](https://open.spotify.com/album/1K2swvwHtTu41RtcVHxevL) | 6:09 | 2022-01-07 | 2022-04-09 |
 | [Vargtimman](https://open.spotify.com/track/5bMmrsetYnEO89tBG05ljx) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Vargtimman](https://open.spotify.com/album/2TQ3R02Fi7ZgFEzegs4QsK) | 5:07 | 2021-12-17 | 2022-05-14 |
 | [Vestige](https://open.spotify.com/track/7jLhFXdVjjGzKvsWyGravP) | [MØL](https://open.spotify.com/artist/10AROE3jG5grMdhlNyZiWo) | [Vestige](https://open.spotify.com/album/4MOWsVTLtxMOgztD0lRM7o) | 5:38 | 2021-12-17 | 2022-01-15 |

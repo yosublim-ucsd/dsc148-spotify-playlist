@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume una selezione di spettacolari artiste italiane! Cover: Camilla Magli
 
-864 songs - 1 day 19 hr 21 min
+865 songs - 1 day 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,8 @@
 | [Figli del deserto](https://open.spotify.com/track/7KD2GB046PewY5Nvqsbaq0) | [Chadia](https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6) | [Figli del deserto](https://open.spotify.com/album/56JPIb7GyWkjLqjkTbe2tG) | 2:07 | 2024-01-09 |  |
 | [Figlie della Luna](https://open.spotify.com/track/2e0EbWEyOvWaeoopakkZWn) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Figlie della Luna](https://open.spotify.com/album/1giRCe6gmKUv65zEkREofg) | 2:48 | 2023-11-29 | 2024-01-10 |
 | [Figlie della Luna](https://open.spotify.com/track/4SceTQLARIDQbsI5AT25iu) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Gipsy chic // ɔıɥɔ ʎsdıƃ](https://open.spotify.com/album/67SNETlm4OzX9tryXgu3bi) | 2:48 | 2023-08-01 | 2023-10-04 |
-| [Fila indiana](https://open.spotify.com/track/2WTgfEZW6gYWhHCMkn4lMc) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Fila indiana](https://open.spotify.com/album/2Dy8cBZkLwkAQJGUls25Hb) | 3:13 | 2024-01-09 |  |
+| [Fila indiana](https://open.spotify.com/track/1H36kJUqLOHLSL98XQBRFU) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Fila indiana](https://open.spotify.com/album/68GC0n66xwvHhuAL8aJ9rM) | 3:13 | 2024-01-11 |  |
+| [Fila indiana](https://open.spotify.com/track/2WTgfEZW6gYWhHCMkn4lMc) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Fila indiana](https://open.spotify.com/album/2Dy8cBZkLwkAQJGUls25Hb) | 3:13 | 2024-01-09 | 2024-02-01 |
 | [FILM](https://open.spotify.com/track/2R2v127dl4wjkbIVbmYg5p) | [Daria Huber](https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw) | [FILM](https://open.spotify.com/album/2faTekagaBBlJxmQq1LKRp) | 2:26 | 2022-07-05 | 2022-09-07 |
 | [Filo bianco](https://open.spotify.com/track/6QIqP5we0rYdgxP1ctVnke) | [Giulia Malavasi](https://open.spotify.com/artist/0Hx96SC5Ez0TKdTJy5WT5L) | [Filo bianco](https://open.spotify.com/album/4HfG4XCrClCR7CRvT1U6O0) | 2:25 | 2023-01-03 | 2023-02-09 |
 | [FINIMONDO](https://open.spotify.com/track/0JbzHTWp24Fe1l7NBzzp4p) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [FINIMONDO](https://open.spotify.com/album/5v0DjHceNOVZGIqtNzR8i2) | 2:51 | 2022-09-06 | 2023-01-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ YUNGBLUD in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,463 likes - 93 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,457 likes - 93 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 92 | [Blondie](https://open.spotify.com/track/2GgxYlSLifYY64m0wM05un) | [Veronica+](https://open.spotify.com/artist/4mdUjVc6TvMQqIpMe8HaBo) | [Blondie](https://open.spotify.com/album/18blAWeu1dFxh1G3TEum84) | 2:39 |
 | 93 | [DAG](https://open.spotify.com/track/67kIdMby8nlaFAWMpiYoEz) | [Silly Sam](https://open.spotify.com/artist/2Xt16y9iLI16gSYQ0yhkHm), [Charlie Amendola](https://open.spotify.com/artist/4EvzRasrLVWFgXQkWbqLYG), [ZEEGO](https://open.spotify.com/artist/0PLjcUmz6lzISMUChTBMhy) | [DAG](https://open.spotify.com/album/2V9yHswrCXhEPchn0pxYul) | 2:55 |
 
-Snapshot ID: `MCw2Y2M3NjI2YmM2Mjg1ZGMxNzM3ZGZlZTM3ZTU5ZmI2ODI5N2Y3NjZh`
+Snapshot ID: `MCwyMTkzZTNmMDM3Njk0YzgxNzkwOTc0OTUzOWMzNTE0M2YwZGI4MTU5`

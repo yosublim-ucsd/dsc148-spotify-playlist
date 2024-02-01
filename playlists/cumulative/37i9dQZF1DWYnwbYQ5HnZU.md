@@ -2,7 +2,7 @@
 
 ### [Country Gold](https://open.spotify.com/playlist/37i9dQZF1DWYnwbYQ5HnZU)
 
-> Spotify country fan favorites\. Cover: Eric Church
+> Spotify country fan favorites\. Cover: Darius Rucker
 
 221 songs - 12 hr 38 min
 

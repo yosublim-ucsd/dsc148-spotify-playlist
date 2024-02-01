@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 
 > Toutes les nouveautés préférées de vos enfants\. Découvrez les nouvelles chansons favorites de la famille!
 
-[Spotify](https://open.spotify.com/user/spotify) - 569 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 570 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 13 | [Toujours là pour toi](https://open.spotify.com/track/0gJ1YOvvD5OIF8uG5G3Q7M) | [Les Enfantastiques](https://open.spotify.com/artist/0ON4LlfWkxxkwP73WYmDBo) | [Demain](https://open.spotify.com/album/0buU8ofbPSLAUHWd73Gdrn) | 3:30 |
 | 14 | [Les poissons panés](https://open.spotify.com/track/1OF1i7TZnKq96uL3GjXkI7) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 2:51 |
 | 15 | [Les jalousies](https://open.spotify.com/track/5nu3wQwlF5c7p7euAXMBd9) | [Sarah Donna](https://open.spotify.com/artist/3FLl0HVVuKbEZZytvxBOZx) | [Les arcs\-en\-ciel](https://open.spotify.com/album/2ifcwNKrmNqelFXwC2cF4b) | 2:46 |
-| 16 | [Ecrans, rendez\-nous nos parents !](https://open.spotify.com/track/3Lg9P0bFpgMcS12fcuQz78) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Enfantillages 4 \(nouvelle édition\)](https://open.spotify.com/album/1ZWPMvFYSX5OPAuo06Sn0u) | 3:41 |
+| 16 | [L'arnaque](https://open.spotify.com/track/7gIFfEThnRAIkXUU1uPqCz) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Oxmo Puccino](https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O), [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Enfantillages 4 \(nouvelle édition\)](https://open.spotify.com/album/1ZWPMvFYSX5OPAuo06Sn0u) | 3:56 |
 | 17 | [La journée des bisous](https://open.spotify.com/track/2jdi2xNuC8lSFQ7CM89ROa) | [Nicolas Berton](https://open.spotify.com/artist/7I0x0YDBHmRV0BnND5S3Hr) | [Les comptines de Kikobert, Vol\. 3](https://open.spotify.com/album/0F9PNnmf8ZTNXzBZATF5z6) | 1:25 |
 | 18 | [Scottiche de la brosse à dents](https://open.spotify.com/track/0idgLta3sJYwx1wyEZUuWT) | [Les Déménageurs](https://open.spotify.com/artist/5LXF4uYZowOh8m8pUW46Xf) | [Le patamodd](https://open.spotify.com/album/02hqji8pH8CAhLxNGOZCk2) | 4:01 |
 | 19 | [Privé de dessert](https://open.spotify.com/track/7lPjxfmUBLFCloGAP4uIli) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 1:28 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 22 | [15,18](https://open.spotify.com/track/2YKXr6iN5TGDVmJTmuIm8X) | [Grand Môme](https://open.spotify.com/artist/0MZLuC0D6sHIGwj7uDmtJs) | [15,18](https://open.spotify.com/album/7p0Lq0RpwXxxu662tj0ACk) | 2:33 |
 | 23 | [Allez on fait la paix](https://open.spotify.com/track/1WKkhJXBgtWyX5x1f8nPTX) | [Les Déménageurs](https://open.spotify.com/artist/5LXF4uYZowOh8m8pUW46Xf) | [Le patamodd](https://open.spotify.com/album/02hqji8pH8CAhLxNGOZCk2) | 3:28 |
 | 24 | [Une colombe](https://open.spotify.com/track/5vVAWiCQWmdwMBpO3nkOCQ) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h), [L'école des fables](https://open.spotify.com/artist/6VqB8qao04IRzpAn8U8sLf) | [Une colombe](https://open.spotify.com/album/392eSZskLbb3cUW5ybv6ls) | 3:26 |
-| 25 | [L'arnaque](https://open.spotify.com/track/7gIFfEThnRAIkXUU1uPqCz) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Oxmo Puccino](https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O), [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Enfantillages 4 \(nouvelle édition\)](https://open.spotify.com/album/1ZWPMvFYSX5OPAuo06Sn0u) | 3:56 |
+| 25 | [Ecrans, rendez\-nous nos parents !](https://open.spotify.com/track/3Lg9P0bFpgMcS12fcuQz78) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Enfantillages 4 \(nouvelle édition\)](https://open.spotify.com/album/1ZWPMvFYSX5OPAuo06Sn0u) | 3:41 |
 | 26 | [A quoi rêve t'il ?](https://open.spotify.com/track/5R9PGIMpm2ZsLDY7Z5FfLV) | [Nicolas Berton](https://open.spotify.com/artist/7I0x0YDBHmRV0BnND5S3Hr) | [Les comptines de Kikobert, vol\. 1](https://open.spotify.com/album/3WB5YjKoohtEqv62CfE2jr) | 1:35 |
 | 27 | [Thomas Pesquet](https://open.spotify.com/track/50YeLRN6WuokVA4am51idF) | [Les Enfantastiques](https://open.spotify.com/artist/0ON4LlfWkxxkwP73WYmDBo) | [Demain](https://open.spotify.com/album/0buU8ofbPSLAUHWd73Gdrn) | 4:28 |
 | 28 | [Emoi et moi](https://open.spotify.com/track/4STLNBoqrN6MiJyMqJuwIX) | [Méli Mômes](https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs) | [Même pas !](https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH) | 3:45 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 35 | [Behhh !](https://open.spotify.com/track/0mIDfkO3ECnK3Hb7kDoFZl) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 2:44 |
 | 36 | [C'est bon mais c'est pas bon](https://open.spotify.com/track/3mICivmX1jTJczvkBzMA4E) | [Zut](https://open.spotify.com/artist/6co5KIJVQRz4rE3MICmM1O) | [J'aime quand tu souris](https://open.spotify.com/album/0wxpkwIYmNr7G2JGMqBeBk) | 3:03 |
 | 37 | [Même pas mal](https://open.spotify.com/track/3eQ7o1gJqfTkd6GgrlX0Kw) | [Méli Mômes](https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs) | [Même pas !](https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH) | 3:20 |
-| 38 | [Etre tous différents](https://open.spotify.com/track/2DboRq9RJUUKVRIHgZsFXT) | [2Lmusique](https://open.spotify.com/artist/4i6RVJT4zA5mD0yQLstATx), [Lyly and co](https://open.spotify.com/artist/4fYCzO3Bkci6TG2cG1EtNZ) | [Etre tous différents](https://open.spotify.com/album/5BQWigU2ysC5t0LKL0wD7E) | 1:36 |
-| 39 | [C'est qui qui ?](https://open.spotify.com/track/17KU29ddpFt7Pz9ptp9KAD) | [Ego le cachalot](https://open.spotify.com/artist/1NUbfVDGaCGn7076nftqsX), [David Delabrosse](https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs) | [Super ego](https://open.spotify.com/album/4W0zJt6SU9faWpR7wB4UT2) | 3:27 |
+| 38 | [C'est qui qui ?](https://open.spotify.com/track/17KU29ddpFt7Pz9ptp9KAD) | [Ego le cachalot](https://open.spotify.com/artist/1NUbfVDGaCGn7076nftqsX), [David Delabrosse](https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs) | [Super ego](https://open.spotify.com/album/4W0zJt6SU9faWpR7wB4UT2) | 3:27 |
+| 39 | [Etre tous différents](https://open.spotify.com/track/2DboRq9RJUUKVRIHgZsFXT) | [2Lmusique](https://open.spotify.com/artist/4i6RVJT4zA5mD0yQLstATx), [Lyly and co](https://open.spotify.com/artist/4fYCzO3Bkci6TG2cG1EtNZ) | [Etre tous différents](https://open.spotify.com/album/5BQWigU2ysC5t0LKL0wD7E) | 1:36 |
 | 40 | [Bienvenue à toi](https://open.spotify.com/track/6awvphIFrbxUEKPtF4CyzL) | [Mélyne](https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg) | [Au fil des émotions](https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn) | 2:25 |
 | 41 | [Oui, tu peux tout](https://open.spotify.com/track/1t6UqYDgZ2cbQK2JAfY0sr) | [Alain Schneider](https://open.spotify.com/artist/4EIBpXAtyE9RuhNRUfnzN6) | [Mundo Pataques](https://open.spotify.com/album/3yo0Q9fgzmyIrQTR3QO8x6) | 3:09 |
 | 42 | [Une petite plume](https://open.spotify.com/track/3Gw3S9cYcRDREwTB92dzcp) | [Steve Waring](https://open.spotify.com/artist/5iVY7nE6VJGAnwNkseXhGg), [Alice Waring](https://open.spotify.com/artist/17tO4qjjnXSGNyLibLh0hV) | [Une petite plume](https://open.spotify.com/album/3GaZBE7p1MuNQTnfgwtwdy) | 1:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 49 | [J'ai trop la honte](https://open.spotify.com/track/2rWVBC9PyK87FScIXkVfWj) | [Mélyne](https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg) | [Au fil des émotions](https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn) | 2:15 |
 | 50 | [J'm'aime pas comme papa](https://open.spotify.com/track/2I7yUaYJjpwLbuCzCwCsf6) | [David Delabrosse](https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs) | [Le modèle réduit de nos pensées](https://open.spotify.com/album/4uGe4qThtLqR6IZ3BYZKW3) | 3:09 |
 
-Snapshot ID: `MCw3YWI1MTQ3N2IzMTNlZmZhYTg4MTNlNzU3NmY1Y2FmYWY1NThlM2I4`
+Snapshot ID: `MCxjODUzMDAyNDdmNDFjZTkwMGRlZjExYzNlNjRmOTZiZGZmMTRjNDI4`

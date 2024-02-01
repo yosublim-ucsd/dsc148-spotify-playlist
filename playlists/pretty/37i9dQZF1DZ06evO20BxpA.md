@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,216 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 | 39 | [The Whole of Humanity](https://open.spotify.com/track/701G9IaOwPcxA4mQgL7UJ7) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:27 |
 | 40 | [A Different Set of Rules](https://open.spotify.com/track/6ZC7UEMGHQdZFNrOoP6Kef) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 2:21 |
 | 41 | [Italian Marble](https://open.spotify.com/track/0dF8fMC85sOBo3uMUe6pWH) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl) | 1:28 |
-| 42 | [Remember When We Said Goodbye \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/track/3ZTy9uTIcCgld86aVuuHe4) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Remember When We Said Goodbye \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/album/07eHCynOTkf1K3FocJLxP2) | 3:27 |
-| 43 | [Who Are You Greeting My Love?](https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 1:42 |
+| 42 | [Who Are You Greeting My Love?](https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 1:42 |
+| 43 | [Remember When We Said Goodbye \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/track/3ZTy9uTIcCgld86aVuuHe4) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Remember When We Said Goodbye \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/album/07eHCynOTkf1K3FocJLxP2) | 3:27 |
 | 44 | [I Would Feel Guilty](https://open.spotify.com/track/2WAI12Sw4YxSicr8nZweyN) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 1:18 |
 | 45 | [All at Sea](https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:49 |
-| 46 | [Redwoods](https://open.spotify.com/track/5K9oe9w0aNLoQebWVBR8vt) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Forests \(Episode 8 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4tR3mJ1sBhvn2SvSOuQ3fW) | 1:22 |
-| 47 | [Beauty Turns Men to Beasts](https://open.spotify.com/track/26iEiBk4vHSnGGqL0KiuBu) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 1:06 |
-| 48 | [Echo Fires Up Another](https://open.spotify.com/track/3HEWJvTzezpFpIAzqOqmuE) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 2:50 |
+| 46 | [You Cannot Imagine His Anguish](https://open.spotify.com/track/4ks8TXjj8gOqX4PC6WoFZT) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 2:25 |
+| 47 | [Echo Fires Up Another](https://open.spotify.com/track/3HEWJvTzezpFpIAzqOqmuE) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 2:50 |
+| 48 | [Redwoods](https://open.spotify.com/track/5K9oe9w0aNLoQebWVBR8vt) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Forests \(Episode 8 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4tR3mJ1sBhvn2SvSOuQ3fW) | 1:22 |
 | 49 | [Nothing To Stop Us](https://open.spotify.com/track/6OBrG19AuVOmrFonog79re) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:12 |
-| 50 | [Finding the Lost Population](https://open.spotify.com/track/1sOhyJhdaqy7J9fIfmsmJz) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 2:48 |
+| 50 | [Beauty Turns Men to Beasts](https://open.spotify.com/track/26iEiBk4vHSnGGqL0KiuBu) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 1:06 |
 
-Snapshot ID: `Mjg0NDM2MzgsMDAwMDAwMDA2MmMxNjA5NjAwNDNhN2UxNDUwNzY3MjA3MWI5MTBmZg==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDBjYWZlNTZiZTMwMDYyZDdkYjI0MmIxMDI4YzM4MTdkYQ==`

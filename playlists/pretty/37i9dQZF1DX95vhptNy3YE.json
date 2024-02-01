@@ -1,12 +1,12 @@
 {
   "description": "Budah, Sotam, Aka Rasta e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 225526,
+  "num_followers": 225540,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGM0OWFlOWVmMjcwMjNiZDg3ZWZhMDFlYmM1NWJkZTNhZjg4ZjNi",
+  "snapshot_id": "MCwyMDdjODZlNTk2YjY3ZjhlNWE5YjIzNmUzMjNiYWU3YWU3NjRkZGIw",
   "tracks": [
     {
       "added_at": "2024-01-26 03:01:00",
@@ -1143,30 +1143,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "O Bagulho \u00c9 Trap II",
-        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9",
-          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
-        },
-        {
-          "name": "TrapHits",
-          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
-        },
-        {
-          "name": "Rare Kidd",
-          "url": "https://open.spotify.com/artist/3JXoHpIoacDkGxh8rlMlBd"
-        }
-      ],
-      "duration_ms": 178728,
-      "name": "Camuflado De BAPE - Feat. Rare Kidd",
-      "url": "https://open.spotify.com/track/6ZZUdr6fEEyWKqTxXIPaek"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -1191,6 +1167,30 @@
       "duration_ms": 168205,
       "name": "Jogo",
       "url": "https://open.spotify.com/track/6Lhi35u2exuihYYNa69l4l"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "O Bagulho \u00c9 Trap II",
+        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "TrapHits",
+          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
+        },
+        {
+          "name": "Rare Kidd",
+          "url": "https://open.spotify.com/artist/3JXoHpIoacDkGxh8rlMlBd"
+        }
+      ],
+      "duration_ms": 178728,
+      "name": "Camuflado De BAPE - Feat. Rare Kidd",
+      "url": "https://open.spotify.com/track/6ZZUdr6fEEyWKqTxXIPaek"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -1391,26 +1391,30 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "O Bagulho \u00c9 Trap II",
-        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
+        "name": "N\u00e3o Tenho Tempo",
+        "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
       },
       "artists": [
         {
-          "name": "J\u00e9",
-          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         },
         {
-          "name": "TrapHits",
-          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
         },
         {
-          "name": "RT Mallone",
-          "url": "https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k"
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
         }
       ],
-      "duration_ms": 178909,
-      "name": "Hitchcock - Feat. RT Mallone",
-      "url": "https://open.spotify.com/track/0w6uGMrOOUTH1nxk0d8Uez"
+      "duration_ms": 125624,
+      "name": "N\u00e3o Tenho Tempo",
+      "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
     }
   ],
   "unique_name": "AMPLIFIKA",

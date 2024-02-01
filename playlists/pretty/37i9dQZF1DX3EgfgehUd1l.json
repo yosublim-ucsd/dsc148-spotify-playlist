@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 164351,
+  "num_followers": 164363,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2FmZWJmODFmZDFmMjY5MzdlNzQ2ODMzNThmODgyNThkYzEwNTQ3",
+  "snapshot_id": "MCxmOGMxODg2MzY1NDliOTRlMTA1MzA0MWY4OTI4OWQwOWNhMGJiOWFh",
   "tracks": [
     {
       "added_at": "2023-10-17 16:18:55",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "It\u2019s All In The Game",
-        "url": "https://open.spotify.com/album/5Pm6JmFRagCaNbD5OLlG3d"
-      },
-      "artists": [
-        {
-          "name": "Tommy Edwards",
-          "url": "https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD"
-        }
-      ],
-      "duration_ms": 158520,
-      "name": "It's All In The Game",
-      "url": "https://open.spotify.com/track/2tvt5K7y1gndmCgtIoLo1f"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Cadence Years, Vol. 1",
         "url": "https://open.spotify.com/album/22LRrDUzfy8sPMb9HiUWrx"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 144333,
       "name": "Bye Bye Love",
       "url": "https://open.spotify.com/track/2gPdx3Yugv715fTJeCS9Mf"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "It\u2019s All In The Game",
+        "url": "https://open.spotify.com/album/5Pm6JmFRagCaNbD5OLlG3d"
+      },
+      "artists": [
+        {
+          "name": "Tommy Edwards",
+          "url": "https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD"
+        }
+      ],
+      "duration_ms": 158520,
+      "name": "It's All In The Game",
+      "url": "https://open.spotify.com/track/2tvt5K7y1gndmCgtIoLo1f"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Bobby Vee",
-        "url": "https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vee",
-          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
-        }
-      ],
-      "duration_ms": 144106,
-      "name": "Rubber Ball",
-      "url": "https://open.spotify.com/track/35gkASz2Cb1VryMGIuEPjX"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Kalin Twins",
         "url": "https://open.spotify.com/album/5WkD0eKAUCTokdWVobgyWE"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 146573,
       "name": "When",
       "url": "https://open.spotify.com/track/3HZJ9BLBpDya4p71VfXSWp"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Bobby Vee",
+        "url": "https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vee",
+          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
+        }
+      ],
+      "duration_ms": 144106,
+      "name": "Rubber Ball",
+      "url": "https://open.spotify.com/track/35gkASz2Cb1VryMGIuEPjX"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "What Do You Want to Make Those Eyes At Me For?",
+        "url": "https://open.spotify.com/album/3JEmxhsvpLlmfHQnrQmyqy"
+      },
+      "artists": [
+        {
+          "name": "Emile Ford & The Checkmates",
+          "url": "https://open.spotify.com/artist/2qyvlQ4Ku5zc2mk4pYamzC"
+        }
+      ],
+      "duration_ms": 124200,
+      "name": "What Do You Want to Make Those Eyes at Me for",
+      "url": "https://open.spotify.com/track/6xrw30tunsi9SPHksNv4Ex"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Takes Two to Tango (Duets for Him and Her - Music for Valentine's Day)",
         "url": "https://open.spotify.com/album/6Ez1BPJcARYJTDdPlsCE8O"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 185051,
       "name": "True Love",
       "url": "https://open.spotify.com/track/7fFBLMq8tiwawU2vtJwrVb"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "What Do You Want to Make Those Eyes At Me For?",
-        "url": "https://open.spotify.com/album/3JEmxhsvpLlmfHQnrQmyqy"
-      },
-      "artists": [
-        {
-          "name": "Emile Ford & The Checkmates",
-          "url": "https://open.spotify.com/artist/2qyvlQ4Ku5zc2mk4pYamzC"
-        }
-      ],
-      "duration_ms": 124200,
-      "name": "What Do You Want to Make Those Eyes at Me for",
-      "url": "https://open.spotify.com/track/6xrw30tunsi9SPHksNv4Ex"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Magic Of Ruby Murray",
-        "url": "https://open.spotify.com/album/4XYAC3gtaaKrfO6LJtwkue"
-      },
-      "artists": [
-        {
-          "name": "Ruby Murray",
-          "url": "https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Softly Softly",
-      "url": "https://open.spotify.com/track/2qLFfXmrhJJME5mfjCVuNG"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Golden Girl (The Columbia Recordings 1944-1966)",
         "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 179373,
       "name": "The Black Hills of Dakota (with Paul Weston & His Orchestra) - Version 1",
       "url": "https://open.spotify.com/track/5BWhyqnBtuh67TGr9TJpi7"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Magic Of Ruby Murray",
+        "url": "https://open.spotify.com/album/4XYAC3gtaaKrfO6LJtwkue"
+      },
+      "artists": [
+        {
+          "name": "Ruby Murray",
+          "url": "https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Softly Softly",
+      "url": "https://open.spotify.com/track/2qLFfXmrhJJME5mfjCVuNG"
     },
     {
       "added_at": "2023-10-17 16:18:55",

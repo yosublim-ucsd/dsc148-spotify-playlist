@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,125 likes - 360 songs - 15 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,226 likes - 360 songs - 15 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -324,7 +324,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 314 | [I Was Made](https://open.spotify.com/track/0ieEZjHQO5eq9Uad7opItK) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Le Pedre](https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE) | [I Was Made](https://open.spotify.com/album/3zHqo2ygJlcfOyzxLyLevV) | 2:35 |
 | 315 | [Ride Wit Me](https://open.spotify.com/track/0mQ9GpGFJY5PlXOl0eyaHz) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Ride Wit Me](https://open.spotify.com/album/48vUwCY4pCIeMeqXyAzOss) | 3:04 |
 | 316 | [Every Breath](https://open.spotify.com/track/4DmWlH9odBJzBEdhrqOcFn) | [Gino Manzotti & Maxx](https://open.spotify.com/artist/0TBbNuZHUk7EvTFycBycOS), [KARLA](https://open.spotify.com/artist/4D1GCQEpfnzrR8NLpE9FZ3) | [Every Breath](https://open.spotify.com/album/1HSYAu12jEJ9PvQxOqM71i) | 2:49 |
-| 317 | [Apologize](https://open.spotify.com/track/0l1E291U7ZCyuDa2C3HVTX) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN) | [Apologize](https://open.spotify.com/album/4Ip6BPr0KtnxAl5z6R98tG) | 2:26 |
+| 317 | [Apologize](https://open.spotify.com/track/0Uo43DNldd7aNxizhKgowg) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN) | [Apologize](https://open.spotify.com/album/6vJNBwBTkIuRRPIdbyJCH2) | 2:26 |
 | 318 | [Say It Right \- ILURO Remix](https://open.spotify.com/track/5ofHoV0ywhsZUOArK1Oa1h) | [Mangoo](https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN), [ILURO](https://open.spotify.com/artist/73BWaJ2QBzDrBjeCnhBzE1) | [Say It Right \(ILURO Remix\)](https://open.spotify.com/album/6ZEaJiDo55GwRWxtkbG00a) | 2:13 |
 | 319 | [Ride It](https://open.spotify.com/track/3RRBRj9Pvpa3YlCGw0dVM7) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Ride It](https://open.spotify.com/album/0ms02BuoqLoDcsCeEd51NG) | 2:41 |
 | 320 | [Wellerman \- Sea Shanty / 220 KID x Billen Ted Remix](https://open.spotify.com/track/3iw6V4LH7yPj1ESORX9RIN) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Wellerman \(Sea Shanty / 220 KID x Billen Ted Remix\)](https://open.spotify.com/album/1zEBi4O4AaY5M55dUcUp3z) | 1:56 |
@@ -369,4 +369,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 359 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 360 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MCw0NDE4YjVmZTU2MWVlNGQzNDQ0YTZlMDAyYTA5NzM1M2MyZGUzZTBh`
+Snapshot ID: `MCxmODJiN2Y1OWY4MGIwY2E0YTg3NWMxNTZlNjc4YjU2NjZlNmNmYTVh`

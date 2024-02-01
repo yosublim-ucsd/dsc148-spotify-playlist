@@ -1,12 +1,12 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 27228,
+  "num_followers": 27238,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmJjODZlZTAzMTcyNDUyMWU5OWE2N2UyZGI3OGU2MzY3YWRjMzll",
+  "snapshot_id": "MCwyYThiYjc2MTMwZTRiZDU0YThkZTk3OWZmYWQ3YzFkNGJlOGRjNWM3",
   "tracks": [
     {
       "added_at": "2024-01-25 23:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Egoland",
-        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 135346,
-      "name": "Lenge Leve",
-      "url": "https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "M.O.B",
         "url": "https://open.spotify.com/album/3gfzgUuXhBJC2KMjvWgGQ7"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 108000,
       "name": "M.O.B",
       "url": "https://open.spotify.com/track/7scyrGYhNkIz5t4U630EmD"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Egoland",
+        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 135346,
+      "name": "Lenge Leve",
+      "url": "https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -543,6 +543,26 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
+        "name": "Kod R\u00f6d",
+        "url": "https://open.spotify.com/album/6ghcTg1cb6We9GWZGOWOgH"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "Shenzi Beats",
+          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "We Lit",
+      "url": "https://open.spotify.com/track/48Cgrs2KhleyXMRtoOSbK5"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
         "name": "YOUNG THUG P\u00c5 1M",
         "url": "https://open.spotify.com/album/4ZjRNNwA1ldmgFausc2oby"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 322431,
       "name": "2X SPEKTRUM FREESTYLE",
       "url": "https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "Kod R\u00f6d",
-        "url": "https://open.spotify.com/album/6ghcTg1cb6We9GWZGOWOgH"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        },
-        {
-          "name": "Shenzi Beats",
-          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "We Lit",
-      "url": "https://open.spotify.com/track/48Cgrs2KhleyXMRtoOSbK5"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Gata",
-        "url": "https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 155825,
-      "name": "Gata",
-      "url": "https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "K\u00e4nslokall",
         "url": "https://open.spotify.com/album/0by3vmltZZetCzPLg90D1p"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 166216,
       "name": "WAKA WAKA",
       "url": "https://open.spotify.com/track/2g6O4J9ktUjorMkgyhglYP"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Gata",
+        "url": "https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "duration_ms": 155825,
+      "name": "Gata",
+      "url": "https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -891,18 +891,26 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "1,2 & Mer",
-        "url": "https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF"
+        "name": "Dyra notor",
+        "url": "https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL"
       },
       "artists": [
         {
-          "name": "BABY MALA",
-          "url": "https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl"
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        },
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+        },
+        {
+          "name": "Noxious",
+          "url": "https://open.spotify.com/artist/3Kuu3eReA1kOwMTk1WUGOR"
         }
       ],
-      "duration_ms": 157080,
-      "name": "1,2 & Mer",
-      "url": "https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk"
+      "duration_ms": 142291,
+      "name": "Dyra notor",
+      "url": "https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -959,26 +967,18 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Dyra notor",
-        "url": "https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL"
+        "name": "1,2 & Mer",
+        "url": "https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF"
       },
       "artists": [
         {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
-        },
-        {
-          "name": "Shiro",
-          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
-        },
-        {
-          "name": "Noxious",
-          "url": "https://open.spotify.com/artist/3Kuu3eReA1kOwMTk1WUGOR"
+          "name": "BABY MALA",
+          "url": "https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl"
         }
       ],
-      "duration_ms": 142291,
-      "name": "Dyra notor",
-      "url": "https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1"
+      "duration_ms": 157080,
+      "name": "1,2 & Mer",
+      "url": "https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk"
     },
     {
       "added_at": "2024-01-25 23:00:00",

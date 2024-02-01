@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 221976,
       "name": "Agrade\u00e7o",
       "url": "https://open.spotify.com/track/6XFZxwJ5TNZY4TdAfx1v55"
@@ -22060,7 +22060,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 195520,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE"
@@ -30860,7 +30860,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 127384,
       "name": "POCPOC",
       "url": "https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3"
@@ -39835,6 +39835,32 @@
     },
     {
       "album": {
+        "name": "Tropa Do Pisa",
+        "url": "https://open.spotify.com/album/55rdHEbpvgrl0ghYgRY4ZS"
+      },
+      "artists": [
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Tropa Do Pisa",
+      "url": "https://open.spotify.com/track/1mH3uSZus9IiMagMCJa4vB"
+    },
+    {
+      "album": {
         "name": "Tropa dos Covardes",
         "url": "https://open.spotify.com/album/1Bhv4t6oi6TmXViyO9ZvIR"
       },
@@ -41364,6 +41390,14 @@
         {
           "name": "DJ DIDI",
           "url": "https://open.spotify.com/artist/1cLuhjj5kHz8fabsZllDWJ"
+        },
+        {
+          "name": "Dj Rayan",
+          "url": "https://open.spotify.com/artist/2SN0sv6jL9pWPYIgcWgb2a"
+        },
+        {
+          "name": "Mc Fopi",
+          "url": "https://open.spotify.com/artist/07BaHE7dzguDOawZRVWCsR"
         }
       ],
       "date_added": "2023-12-21",

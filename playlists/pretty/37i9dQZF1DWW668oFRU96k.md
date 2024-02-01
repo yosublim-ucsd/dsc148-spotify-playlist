@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Cheat Codes x Birdy
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,513 likes - 77 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,501 likes - 77 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 76 | [Let Me Down](https://open.spotify.com/track/2Oym2G1O4BIbcNit9eW1iY) | [Motion Sickness](https://open.spotify.com/artist/3OV00ilPMGavSrdm3VApf8) | [Let Me Down](https://open.spotify.com/album/0gAy0zwmX5Vt1fllRuUX99) | 2:23 |
 | 77 | [Hold You](https://open.spotify.com/track/19DjnoLxpF2Nly502nDPGG) | [Chill Satellite](https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA), [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj) | [Hold You](https://open.spotify.com/album/2jNiU6yeQ3Lj8R2uj2fuXw) | 2:48 |
 
-Snapshot ID: `MCxhNDlkMWM2OTBmNzA1ZDQ5ZDViMDFmZmE5YTIwYzFkZjc4MmMxOTJi`
+Snapshot ID: `MCxlNzU2MDQ4MTg4YzgwY2Y0YjcxMmEwODQwMThmMWJlNzVmYmFmNGUy`

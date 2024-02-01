@@ -1499,6 +1499,24 @@
     },
     {
       "album": {
+        "name": "Mountain Stream",
+        "url": "https://open.spotify.com/album/7vuVs4njRZ5xjBQDHnvgYE"
+      },
+      "artists": [
+        {
+          "name": "Altum Somnum",
+          "url": "https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Mountain Stream",
+      "url": "https://open.spotify.com/track/0ypPaUQRnH5rPoPW9RCoDn"
+    },
+    {
+      "album": {
         "name": "Nature of Illusion",
         "url": "https://open.spotify.com/album/58fIvjE46TGrQ6GiF97Vrp"
       },
@@ -1895,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "Retrograde",
+        "url": "https://open.spotify.com/album/4tqFubjBcNsN4EL8EgaZE4"
+      },
+      "artists": [
+        {
+          "name": "Abyss\u00e9",
+          "url": "https://open.spotify.com/artist/4ZSC7QqnOxFeyGaAb2pKnQ"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168349,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/545OJfzJ8JSXsp9maoiuIB"
+    },
+    {
+      "album": {
         "name": "Infinite",
         "url": "https://open.spotify.com/album/50DJ6XR4dN48VOyFkn1QP1"
       },
@@ -2180,6 +2216,24 @@
       "duration_ms": 179565,
       "name": "Still",
       "url": "https://open.spotify.com/track/0SHHwOs6JezA4WRfRveIYw"
+    },
+    {
+      "album": {
+        "name": "Stillness",
+        "url": "https://open.spotify.com/album/5mkclihPsbGFJBCEHWdU3K"
+      },
+      "artists": [
+        {
+          "name": "Pouring Voices",
+          "url": "https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188660,
+      "name": "Stillness",
+      "url": "https://open.spotify.com/track/1x4OI6ufrImrBlO3DlEXWF"
     },
     {
       "album": {

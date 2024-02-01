@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Junior Zamora.",
-  "num_followers": 752839,
+  "num_followers": 752711,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWZlZDAyNTM2MDFiYmQ2YjdmNWEzM2YxZjRhYjdlYzhjNDdhOGNk",
+  "snapshot_id": "MCw1OGViMjgyZTcyMjQyOTY4OTM2Yjk4NDk4NDM3Yjg0ZGM1MDFjYmQ5",
   "tracks": [
     {
       "added_at": "2024-01-31 01:03:15",
@@ -247,26 +247,6 @@
     {
       "added_at": "2024-01-31 01:03:15",
       "album": {
-        "name": "Lluvia: Rain City Vol.2",
-        "url": "https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        },
-        {
-          "name": "Babi",
-          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
-        }
-      ],
-      "duration_ms": 205027,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/1RexoAXAuSgstu2LRsLuh8"
-    },
-    {
-      "added_at": "2024-01-31 01:03:15",
-      "album": {
         "name": "escribiendo TKM",
         "url": "https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO"
       },
@@ -287,18 +267,22 @@
     {
       "added_at": "2024-01-31 01:03:15",
       "album": {
-        "name": "Gualero REFF12.31",
-        "url": "https://open.spotify.com/album/17FImqLfr4kV6VhWh5fXdH"
+        "name": "Lluvia: Rain City Vol.2",
+        "url": "https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr"
       },
       "artists": [
         {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        },
+        {
+          "name": "Babi",
+          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
         }
       ],
-      "duration_ms": 201626,
-      "name": "Gualero REFF12.31",
-      "url": "https://open.spotify.com/track/2gKLtFP8HSTPfPshO0GsuM"
+      "duration_ms": 205027,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/1RexoAXAuSgstu2LRsLuh8"
     },
     {
       "added_at": "2024-01-31 01:03:15",
@@ -315,6 +299,22 @@
       "duration_ms": 178630,
       "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
       "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
+    },
+    {
+      "added_at": "2024-01-31 01:03:15",
+      "album": {
+        "name": "Gualero REFF12.31",
+        "url": "https://open.spotify.com/album/17FImqLfr4kV6VhWh5fXdH"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Gualero REFF12.31",
+      "url": "https://open.spotify.com/track/2gKLtFP8HSTPfPshO0GsuM"
     },
     {
       "added_at": "2024-01-31 01:03:15",
@@ -519,26 +519,6 @@
     {
       "added_at": "2024-01-31 01:03:15",
       "album": {
-        "name": "Pure Intentions",
-        "url": "https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP"
-      },
-      "artists": [
-        {
-          "name": "Baby Bash",
-          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
-        },
-        {
-          "name": "Gabriella",
-          "url": "https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7"
-        }
-      ],
-      "duration_ms": 176879,
-      "name": "Pure Intentions (feat. Gabriella)",
-      "url": "https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd"
-    },
-    {
-      "added_at": "2024-01-31 01:03:15",
-      "album": {
         "name": "La Dosis",
         "url": "https://open.spotify.com/album/6REG6XsOTiPC2c7h7LfWVq"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 175282,
       "name": "La Dosis",
       "url": "https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD"
+    },
+    {
+      "added_at": "2024-01-31 01:03:15",
+      "album": {
+        "name": "Pure Intentions",
+        "url": "https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7"
+        }
+      ],
+      "duration_ms": 176879,
+      "name": "Pure Intentions (feat. Gabriella)",
+      "url": "https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd"
     },
     {
       "added_at": "2024-01-31 01:03:15",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-01-31 01:03:15",
       "album": {
+        "name": "la calle",
+        "url": "https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 243999,
+      "name": "la calle",
+      "url": "https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc"
+    },
+    {
+      "added_at": "2024-01-31 01:03:15",
+      "album": {
         "name": "\u00bfQui\u00e9n trae las cornetas?",
         "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 177021,
       "name": "Woke Up Dis Morning",
       "url": "https://open.spotify.com/track/312ixrbrcnAF8Mn0XeDOlX"
-    },
-    {
-      "added_at": "2024-01-31 01:03:15",
-      "album": {
-        "name": "la calle",
-        "url": "https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 243999,
-      "name": "la calle",
-      "url": "https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc"
     },
     {
       "added_at": "2024-01-31 01:03:15",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-01-31 01:03:15",
       "album": {
-        "name": "Venus & Blue",
-        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 190679,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI"
-    },
-    {
-      "added_at": "2024-01-31 01:03:15",
-      "album": {
         "name": "Caballo De Troya",
         "url": "https://open.spotify.com/album/2ktrvCJRAq4Fb65XXmaQmL"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 121000,
       "name": "Caballo De Troya",
       "url": "https://open.spotify.com/track/5pDGdSmydVnl11KBsPmNXs"
+    },
+    {
+      "added_at": "2024-01-31 01:03:15",
+      "album": {
+        "name": "Venus & Blue",
+        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 190679,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI"
     },
     {
       "added_at": "2024-01-31 01:03:15",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-01-31 01:03:15",
       "album": {
-        "name": "La Casa De Las Flores",
-        "url": "https://open.spotify.com/album/207GF4xh9pWBVhiALKyxSe"
-      },
-      "artists": [
-        {
-          "name": "Bad Milk",
-          "url": "https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR"
-        }
-      ],
-      "duration_ms": 150236,
-      "name": "La Casa De Las Flores",
-      "url": "https://open.spotify.com/track/3ivUzc6yLzHuXbS0TBSGC5"
-    },
-    {
-      "added_at": "2024-01-31 01:03:15",
-      "album": {
         "name": "BF",
         "url": "https://open.spotify.com/album/7blDathKAvoJoCVZFTUQLg"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2024-01-31 01:03:15",
       "album": {
+        "name": "La Casa De Las Flores",
+        "url": "https://open.spotify.com/album/207GF4xh9pWBVhiALKyxSe"
+      },
+      "artists": [
+        {
+          "name": "Bad Milk",
+          "url": "https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR"
+        }
+      ],
+      "duration_ms": 150236,
+      "name": "La Casa De Las Flores",
+      "url": "https://open.spotify.com/track/3ivUzc6yLzHuXbS0TBSGC5"
+    },
+    {
+      "added_at": "2024-01-31 01:03:15",
+      "album": {
         "name": "Una Vida",
         "url": "https://open.spotify.com/album/3adxFEMsq25Adf8bHWX4rL"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 244856,
       "name": "Una Vida",
       "url": "https://open.spotify.com/track/1Q4kVMA8OnbVVuq0kQMYRv"
-    },
-    {
-      "added_at": "2024-01-31 01:03:15",
-      "album": {
-        "name": "aqu\u00ed andamos",
-        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "aqu\u00ed andamos",
-      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
     },
     {
       "added_at": "2024-01-31 01:03:15",
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2024-01-31 01:03:15",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/1LVpA6huMFTyjyplx8tQgD"
+        "name": "aqu\u00ed andamos",
+        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
       },
       "artists": [
         {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
         }
       ],
-      "duration_ms": 158643,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/2Ach6TMHHih48PYNszSQzP"
+      "duration_ms": 135133,
+      "name": "aqu\u00ed andamos",
+      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
     },
     {
       "added_at": "2024-01-31 01:03:15",
@@ -1111,6 +1095,22 @@
       "duration_ms": 254369,
       "name": "low key",
       "url": "https://open.spotify.com/track/3bCRdEmYFPFQXQuw4kVKab"
+    },
+    {
+      "added_at": "2024-01-31 01:03:15",
+      "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/1LVpA6huMFTyjyplx8tQgD"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 158643,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/2Ach6TMHHih48PYNszSQzP"
     },
     {
       "added_at": "2024-01-31 01:03:15",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-01-31 01:03:15",
       "album": {
+        "name": "Kafka",
+        "url": "https://open.spotify.com/album/0gptfIY6g3e1xTrb9019J7"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Kafka",
+      "url": "https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf"
+    },
+    {
+      "added_at": "2024-01-31 01:03:15",
+      "album": {
         "name": "Bolero Apocal\u00edptico (Deluxe Version)",
         "url": "https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 167272,
       "name": "Me Gusta Ese Lokito",
       "url": "https://open.spotify.com/track/0nArt1Dx0sI8WnBmXuh8FR"
-    },
-    {
-      "added_at": "2024-01-31 01:03:15",
-      "album": {
-        "name": "Kafka",
-        "url": "https://open.spotify.com/album/0gptfIY6g3e1xTrb9019J7"
-      },
-      "artists": [
-        {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Kafka",
-      "url": "https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf"
     },
     {
       "added_at": "2024-01-31 01:03:15",

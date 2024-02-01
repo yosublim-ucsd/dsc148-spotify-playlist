@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 153378,
+  "num_followers": 153417,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWRmMGI5MmEwZmNjZWU5NDY1MDMxYmEzOTVmOWE2ZjNkYmEzYzBk",
+  "snapshot_id": "MCxhZmUzYmYwZmJhNWJkYjk3NGMwNzc2MmE4Nzg2NjY5MDJkMzEwODY1",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -461,20 +461,20 @@
       "url": "https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT"
     },
     {
-      "added_at": "2020-08-05 15:52:11",
+      "added_at": "2022-06-01 14:18:36",
       "album": {
-        "name": "Hotel California (40th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn"
+        "name": "Plain Dirt Fashion",
+        "url": "https://open.spotify.com/album/41ckoI2wpAGGSBvPlvOd0e"
       },
       "artists": [
         {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
         }
       ],
-      "duration_ms": 304925,
-      "name": "New Kid in Town - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3T0HWZFYwE5iPXTIHJ1MMS"
+      "duration_ms": 222773,
+      "name": "Cadillac Ranch",
+      "url": "https://open.spotify.com/track/0wS4sl5pEkqINDgFJ39qcH"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -497,20 +497,20 @@
       "url": "https://open.spotify.com/track/7kJpAkJSFMCkM6T4plsRLd"
     },
     {
-      "added_at": "2022-06-01 14:18:36",
+      "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Plain Dirt Fashion",
-        "url": "https://open.spotify.com/album/41ckoI2wpAGGSBvPlvOd0e"
+        "name": "Hotel California (40th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn"
       },
       "artists": [
         {
-          "name": "Nitty Gritty Dirt Band",
-          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 222773,
-      "name": "Cadillac Ranch",
-      "url": "https://open.spotify.com/track/0wS4sl5pEkqINDgFJ39qcH"
+      "duration_ms": 304925,
+      "name": "New Kid in Town - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3T0HWZFYwE5iPXTIHJ1MMS"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -563,22 +563,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Hand Sown...Home Grown",
-        "url": "https://open.spotify.com/album/3a7qArnirRgatBiSlc2k3W"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        }
-      ],
-      "duration_ms": 141160,
-      "name": "Silver Threads And Golden Needles",
-      "url": "https://open.spotify.com/track/4FLUda3tCvPWBCvUeyiivd"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "No Other",
         "url": "https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 391773,
       "name": "Strength of Strings",
       "url": "https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Hand Sown...Home Grown",
+        "url": "https://open.spotify.com/album/3a7qArnirRgatBiSlc2k3W"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "Silver Threads And Golden Needles",
+      "url": "https://open.spotify.com/track/4FLUda3tCvPWBCvUeyiivd"
     },
     {
       "added_at": "2022-06-01 14:18:36",

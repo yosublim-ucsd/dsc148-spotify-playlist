@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Abyusif
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,417 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,441 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Baby](https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Nemshy Men Hena](https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK) | 3:06 |
+| 1 | [Begad \(Freestyle\)](https://open.spotify.com/track/1qw39Q27vwFzpdic1nQubA) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Nemshy Men Hena](https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK) | 2:20 |
 | 2 | [London](https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 2:40 |
 | 3 | [SWEETCHY](https://open.spotify.com/track/0c3oj5HJnYj2bbMEoabmiY) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [M.I.M](https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8) | 2:31 |
 | 4 | [Howa Enta Ahbal?](https://open.spotify.com/track/4B1qzWpCaah3EQPYS8ZuJF) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [7abba Fo2 // 7abba Ta7t](https://open.spotify.com/album/1o6axxoJca4D2hO5l288gi) | 2:29 |
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 34 | [SOMNIFERE](https://open.spotify.com/track/6tVgDhCCD1IVzsb7CH3FXv) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [I HATE SUMMER](https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt) | 3:08 |
 | 35 | [Gezira](https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Gezira](https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk) | 3:13 |
 | 36 | [SLOWLY](https://open.spotify.com/track/65SmL7YPV13heKT147Fosp) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SBITAR](https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp) | 2:49 |
-| 37 | [Alatif](https://open.spotify.com/track/5EziL9bwKacAPWAQSkl8Wh) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alatif](https://open.spotify.com/album/12PmJ95M7wML8ievJRi0zx) | 3:16 |
-| 38 | [Saye2 Souq](https://open.spotify.com/track/3qtXvNZ8bNIRfN6aYamUor) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [3awdet Eldab3](https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv) | 2:14 |
-| 39 | [Klashat](https://open.spotify.com/track/1gk3xYnAX39GZp6pKJYCgb) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Doppler](https://open.spotify.com/album/04m1uvsNNz7rofzN2SE37N) | 2:25 |
+| 37 | [Baby](https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Nemshy Men Hena](https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK) | 3:06 |
+| 38 | [Alatif](https://open.spotify.com/track/5EziL9bwKacAPWAQSkl8Wh) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alatif](https://open.spotify.com/album/12PmJ95M7wML8ievJRi0zx) | 3:16 |
+| 39 | [Saye2 Souq](https://open.spotify.com/track/3qtXvNZ8bNIRfN6aYamUor) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [3awdet Eldab3](https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv) | 2:14 |
 | 40 | [W Bashot](https://open.spotify.com/track/3bhQZfZf8NEiZDkwAafdpe) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [7abba Fo2 // 7abba Ta7t](https://open.spotify.com/album/1o6axxoJca4D2hO5l288gi) | 2:34 |
-| 41 | [Begad \(Freestyle\)](https://open.spotify.com/track/1qw39Q27vwFzpdic1nQubA) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Nemshy Men Hena](https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK) | 2:20 |
+| 41 | [Klashat](https://open.spotify.com/track/1gk3xYnAX39GZp6pKJYCgb) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Doppler](https://open.spotify.com/album/04m1uvsNNz7rofzN2SE37N) | 2:25 |
 | 42 | [Talkie](https://open.spotify.com/track/0HZIFkazJb3MzdJ2G7FSIB) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Talkie](https://open.spotify.com/album/3pBrKbB4kPkqRfut3NY44Z) | 3:29 |
 | 43 | [KALBI](https://open.spotify.com/track/5hUJkjeGR4CCyMmMLt9iLx) | [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95) | [KALBI](https://open.spotify.com/album/52C44WKKnzqgzbnTb5J5pt) | 2:45 |
 | 44 | [Seven Bullets](https://open.spotify.com/track/5dU7mZmnQyaUxHlEQwtWM9) | [Moudy Al Arabe](https://open.spotify.com/artist/68KKIaozjXuxJyAWs2nDhz) | [Seven Bullets](https://open.spotify.com/album/4OErllJqRh7wBvsIzqQmjg) | 8:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 49 | [7ABBA \(BONUS\)](https://open.spotify.com/track/41VVamZ33DPHpMKv7CoJM8) | [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD), [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [ZEKRAYAT ELMOSTABAL](https://open.spotify.com/album/61Ojlc71E1GLoE36DmzgdR) | 2:05 |
 | 50 | [Influenza](https://open.spotify.com/track/2UMihK8hP5rBZjw4iXDrvi) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Influenza](https://open.spotify.com/album/0cfaz8h3V5bYOFcvFYaY7M) | 3:34 |
 
-Snapshot ID: `MCxmZWE5YmYyYzExMjM0MWVjNWFlYTliMjc0YmFmMzA4YjU1MmFhMTYx`
+Snapshot ID: `MCwxZmU2M2JmOTE4Mjk3MTdmMmRjOTk3MTRkMWYxNDM5NWI2NmNhN2Vk`

@@ -4,7 +4,7 @@
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Lana Del Rey
 
-455 songs - 1 day 3 hr 45 min
+456 songs - 1 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Beautiful Women](https://open.spotify.com/track/6GgJgMasppfEm55mqVw4bh) | [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [SARM](https://open.spotify.com/artist/53pyDdbX1I71Wcyr8ZPJAP) | [The Light, The Water](https://open.spotify.com/album/2jMhmotXWNRgU8MQHD8tZL) | 3:57 | 2022-03-08 | 2022-04-21 |
 | [Becoming All Alone](https://open.spotify.com/track/5j5pE7RwYw7Au1UeHpYpqS) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Becoming All Alone](https://open.spotify.com/album/4tJzSc9zVi8PVjS50Yrq9n) | 4:18 | 2022-03-08 | 2022-07-29 |
 | [Before You Gotta Go](https://open.spotify.com/track/0KzBGWNhCWXU2PTG0LP5if) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Before You Gotta Go](https://open.spotify.com/album/2Ezwhfk2dT0ZDfFzqThwV1) | 3:45 | 2022-02-11 | 2022-07-29 |
-| [Beggin For Thread](https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:09 | 2022-03-08 |  |
+| [Beggin For Thread](https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:09 | 2022-03-08 | 2024-02-01 |
 | [Bertaut](https://open.spotify.com/track/630DpnzdfjdVqv2yLfPbAX) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Selamat Ulang Tahun](https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG) | 5:15 | 2022-03-08 |  |
 | [Best I Ever Had](https://open.spotify.com/track/4yYixO4SqiqqWqWA9uSXDq) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Best I Ever Had](https://open.spotify.com/album/0sGQtJGb7Sz4AbsSvUYmcW) | 4:03 | 2021-09-03 | 2022-07-29 |
 | [Better Distractions](https://open.spotify.com/track/3CmcswzHOACDjooV1KLULN) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 4:09 | 2023-03-08 |  |
@@ -163,6 +163,7 @@
 | [GO](https://open.spotify.com/track/6W8XOCAudICxfCjiNgH35p) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [CYCLE/S](https://open.spotify.com/album/10O6gdA0uhYKbwW7F7BuAG) | 3:26 | 2021-09-03 | 2022-07-19 |
 | [Good Girls \(Don't Get Used\)](https://open.spotify.com/track/4ASZdm6CLLu0BnId42l5Gz) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Good Girls \(Don't Get Used\)](https://open.spotify.com/album/44vdfxCENptd63pAiHVAe5) | 3:35 | 2021-09-03 | 2022-07-26 |
 | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/track/0jvtOoxOKJvAjveBSmffHL) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Blame Game](https://open.spotify.com/album/5R5BvDeXiNyqhrimsTsRXN) | 3:35 | 2023-01-12 | 2023-12-11 |
+| [Good Girls \(Don’t Get Used\)](https://open.spotify.com/track/2FnrUcdLWId0F13GT32ugT) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/album/0f4hb7W851uRRZ1GJDlGGN) | 3:35 | 2023-03-08 |  |
 | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/track/2yKNCN7jsi5XtwJL5jBG1z) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/album/0fhPAKZGUPYLnK5gyoZB2G) | 3:35 | 2022-03-08 | 2023-01-20 |
 | [Groceries](https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix) | 3:37 | 2022-03-08 | 2023-03-03 |
 | [Groceries](https://open.spotify.com/track/706J9prVXY8vZHhp9VGiBE) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/7oH5TTCFxugLk2JZIUReR2) | 3:37 | 2021-09-03 | 2022-04-21 |

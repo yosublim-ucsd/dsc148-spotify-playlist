@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-647 songs - 1 day 13 hr 30 min
+648 songs - 1 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Landslide \- BOTCASH Remix](https://open.spotify.com/track/605ohRZDdw3UEzalXZWrM6) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [BOTCASH](https://open.spotify.com/artist/2ohZgLU6lCv55yV3d05nMv) | [Landslide \(BOTCASH Remix\)](https://open.spotify.com/album/2mS5bt6HNrbxWKOBhAvR7i) | 3:22 | 2023-12-14 |  |
 | [Lastecostra](https://open.spotify.com/track/2bwAt55jyN5QGQhWFkwvez) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [Lastecostra](https://open.spotify.com/album/1fwfYJCgNpfuYAq0FR0HC5) | 3:21 | 2023-10-03 | 2024-01-17 |
 | [Leap Of Faith](https://open.spotify.com/track/3hxpfTyfr2dU55eVGheeDp) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Leap Of Faith](https://open.spotify.com/album/696TSD9rzaKK6hJbSgEPnN) | 3:13 | 2023-08-22 | 2023-12-14 |
+| [Leave The World Behind](https://open.spotify.com/track/5sbsBKsvwpQdSMZzge0Fy6) | [nuphory](https://open.spotify.com/artist/2K0uRwlc2VKeRoWS8Iuija), [Luna Lenta](https://open.spotify.com/artist/36un9X6TbRfeYAMadbI2SN) | [Leave The World Behind](https://open.spotify.com/album/5o3db722bxyOZJzdTxEiPL) | 3:37 | 2024-01-31 |  |
 | [Let It Bloom](https://open.spotify.com/track/0c4m3t9QKH4PXXYbYX2GBu) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Let It Bloom](https://open.spotify.com/album/5QItpT8Xs57eUsrDi5Spae) | 4:00 | 2023-07-27 | 2023-12-14 |
 | [Let Me Go](https://open.spotify.com/track/0pqu2PSOGfcV2CFqhHUBOL) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Let Me Go](https://open.spotify.com/album/1j8piDAV1NouzoGo3Z7S0n) | 3:44 | 2023-02-16 | 2023-05-04 |
 | [Let Me Go](https://open.spotify.com/track/6gySerfKKZpMZb1t8gz2HR) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Let Me Go](https://open.spotify.com/album/5esvwj2Syivbs8bE6j4yus) | 3:42 | 2022-11-21 | 2023-02-17 |

@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 472351,
+  "2024-02-01": 472314,
   "date_first_scraped": "2021-12-21",
   "description": "The very best of the alternative rock scene. Cover: Teenage Wrist",
   "name": "New  Alt-Rock Mixtape",
@@ -2582,6 +2582,24 @@
     },
     {
       "album": {
+        "name": "A New Breed",
+        "url": "https://open.spotify.com/album/5wvYWow2IFdXSdXQty500e"
+      },
+      "artists": [
+        {
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243947,
+      "name": "How Far Can You Push A Man?",
+      "url": "https://open.spotify.com/track/0hwI2AEiMQV4M9oy99cvFa"
+    },
+    {
+      "album": {
         "name": "Taste The Sun",
         "url": "https://open.spotify.com/album/4GWmCsQY6CQnw5Xf3sbxl7"
       },
@@ -4607,7 +4625,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 203064,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/0yVDMgFk4GzxDW7d1kuQBm"

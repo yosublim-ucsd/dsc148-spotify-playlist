@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 216098,
+  "num_followers": 216053,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGVkZDUwNjU5OWUxODg1Y2MzYjc4ZjVlM2U0ODAwNGVlZDM2NDhh",
+  "snapshot_id": "MCxmYTI1YmQxZWM4YjUwMmJkNWZjNzZiOGY5ZDcyM2UxNjIyZTk4ZTMy",
   "tracks": [
     {
       "added_at": "2023-11-08 15:57:38",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Las 30 grandes de Chavela Vargas",
-        "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
-      },
-      "artists": [
-        {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
-        }
-      ],
-      "duration_ms": 511333,
-      "name": "La llorona",
-      "url": "https://open.spotify.com/track/21VxAmhZn3p0kdb0jXu4Ry"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "\"Miguel\"",
         "url": "https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 227466,
       "name": "Don Diablo",
       "url": "https://open.spotify.com/track/0imrhMFOWQ9XYDCnLfecYV"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "Las 30 grandes de Chavela Vargas",
+        "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "duration_ms": 511333,
+      "name": "La llorona",
+      "url": "https://open.spotify.com/track/21VxAmhZn3p0kdb0jXu4Ry"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
+        "name": "Mexicano Hasta los Huesos",
+        "url": "https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 175896,
+      "name": "Nadie Es Eterno",
+      "url": "https://open.spotify.com/track/4CpP8xMTH6vrlMkfCryXvM"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
         "name": "Payaso",
         "url": "https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 166933,
       "name": "Cuatro Cirios",
       "url": "https://open.spotify.com/track/3hShdCOJ49ylBCCjkN0hv1"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
-        "name": "Inmortales de Pedro Infante (USA)",
-        "url": "https://open.spotify.com/album/4ZMUQuAe77nOQXZ6aIoMg8"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 165306,
-      "name": "Dios nunca muere",
-      "url": "https://open.spotify.com/track/6mIjLHD3t1bcsUwQjyh4wn"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Mexicano Hasta los Huesos",
-        "url": "https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w"
+        "name": "Inmortales de Pedro Infante (USA)",
+        "url": "https://open.spotify.com/album/4ZMUQuAe77nOQXZ6aIoMg8"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
         }
       ],
-      "duration_ms": 175896,
-      "name": "Nadie Es Eterno",
-      "url": "https://open.spotify.com/track/4CpP8xMTH6vrlMkfCryXvM"
+      "duration_ms": 165306,
+      "name": "Dios nunca muere",
+      "url": "https://open.spotify.com/track/6mIjLHD3t1bcsUwQjyh4wn"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Pedro Infante interpreta a Jos\u00e9 Alfredo Jim\u00e9nez Vol. 2",
-        "url": "https://open.spotify.com/album/6IXzOZdEJfqgoLtrpGEEVe"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "La vida es un sue\u00f1o",
-      "url": "https://open.spotify.com/track/3jiw1dB4dz2AeyTAINvBQA"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "Alfonsina Y El Mar (Remasterizado 1983)",
         "url": "https://open.spotify.com/album/4n8smL6EFarc0we2I7trAP"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 245644,
       "name": "Gracias A La Vida - Remasterizado 1983",
       "url": "https://open.spotify.com/track/0lq5LDe4TgtZX3BQUwtYVD"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "El Mexico Que Se Nos Fue",
+        "url": "https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Muerto en Vida",
+      "url": "https://open.spotify.com/track/5ZWMkJaf6f52V1UecbNjOP"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "El Mexico Que Se Nos Fue",
-        "url": "https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q"
+        "name": "Pedro Infante interpreta a Jos\u00e9 Alfredo Jim\u00e9nez Vol. 2",
+        "url": "https://open.spotify.com/album/6IXzOZdEJfqgoLtrpGEEVe"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
         }
       ],
-      "duration_ms": 211933,
-      "name": "Muerto en Vida",
-      "url": "https://open.spotify.com/track/5ZWMkJaf6f52V1UecbNjOP"
+      "duration_ms": 190200,
+      "name": "La vida es un sue\u00f1o",
+      "url": "https://open.spotify.com/track/3jiw1dB4dz2AeyTAINvBQA"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -795,26 +795,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Un Canto por M\u00e9xico, Vol. II",
-        "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 264533,
-      "name": "Recu\u00e9rdame",
-      "url": "https://open.spotify.com/track/4zw8KSRiHzzaF9QHwzpXqo"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "Mexicano Hasta los Huesos",
         "url": "https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w"
       },
@@ -831,18 +811,22 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Balas y Chocolate",
-        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+        "name": "Un Canto por M\u00e9xico, Vol. II",
+        "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
       "artists": [
         {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Son de Difuntos",
-      "url": "https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg"
+      "duration_ms": 264533,
+      "name": "Recu\u00e9rdame",
+      "url": "https://open.spotify.com/track/4zw8KSRiHzzaF9QHwzpXqo"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -879,6 +863,22 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
+        "name": "Balas y Chocolate",
+        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Son de Difuntos",
+      "url": "https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
         "name": "Caja de M\u00fasica (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/75lParfrGxiexJOFlDh94X"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "\"Por Siempre\"",
-        "url": "https://open.spotify.com/album/1H9VCendIQLE3QFcKDwQ5Q"
-      },
-      "artists": [
-        {
-          "name": "Amparo Ochoa",
-          "url": "https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8"
-        }
-      ],
-      "duration_ms": 310013,
-      "name": "La Calaca",
-      "url": "https://open.spotify.com/track/7hmDplqSftS7uQMxsEY9BU"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
         "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
       },
@@ -943,6 +927,22 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
+        "name": "\"Por Siempre\"",
+        "url": "https://open.spotify.com/album/1H9VCendIQLE3QFcKDwQ5Q"
+      },
+      "artists": [
+        {
+          "name": "Amparo Ochoa",
+          "url": "https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8"
+        }
+      ],
+      "duration_ms": 310013,
+      "name": "La Calaca",
+      "url": "https://open.spotify.com/track/7hmDplqSftS7uQMxsEY9BU"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
         "name": "Suite Mexicana de Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 236346,
       "name": "Janitzio",
       "url": "https://open.spotify.com/track/2ViwuwrjUKpop2PxROUJP5"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "Flor de Biznaga",
+        "url": "https://open.spotify.com/album/4LWaaqC9aAr5OhNsWqOZ3J"
+      },
+      "artists": [
+        {
+          "name": "Ampersan",
+          "url": "https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW"
+        }
+      ],
+      "duration_ms": 370120,
+      "name": "Colores",
+      "url": "https://open.spotify.com/track/5dLoAn6kUOAlO6Aolf9rey"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -979,22 +995,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Flor de Biznaga",
-        "url": "https://open.spotify.com/album/4LWaaqC9aAr5OhNsWqOZ3J"
-      },
-      "artists": [
-        {
-          "name": "Ampersan",
-          "url": "https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW"
-        }
-      ],
-      "duration_ms": 370120,
-      "name": "Colores",
-      "url": "https://open.spotify.com/track/5dLoAn6kUOAlO6Aolf9rey"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "Ajenos / El D\u00eda de tu Muerte",
         "url": "https://open.spotify.com/album/7k2cOeyxBoImq2kEmwRYxR"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 163815,
       "name": "El D\u00eda de Tu Muerte",
       "url": "https://open.spotify.com/track/5SzKwKMc5CzPNE8FMCrhrP"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "Buenaventura",
+        "url": "https://open.spotify.com/album/1hEVnJ09psV81C2PBGEjCk"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Calaverita",
+      "url": "https://open.spotify.com/track/47NMBNmAQhLuyVSEI9IKBN"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -1039,22 +1055,6 @@
       "duration_ms": 157675,
       "name": "La Muerte",
       "url": "https://open.spotify.com/track/4t2qP9p4TLBEA0fcBCel2o"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
-        "name": "Buenaventura",
-        "url": "https://open.spotify.com/album/1hEVnJ09psV81C2PBGEjCk"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Calaverita",
-      "url": "https://open.spotify.com/track/47NMBNmAQhLuyVSEI9IKBN"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 226640,
-      "name": "Sus Ojos Se Cerraron",
-      "url": "https://open.spotify.com/track/18u7VFcTzUIm86HJ1oo3UZ"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "Quema Quema Quema",
         "url": "https://open.spotify.com/album/6jegEIB9gDoeF6BaAqrZfw"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 232386,
       "name": "Si Te Mueres Ma\u00f1ana",
       "url": "https://open.spotify.com/track/46zIvpt8U9JcwsDmfcXn5y"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 226640,
+      "name": "Sus Ojos Se Cerraron",
+      "url": "https://open.spotify.com/track/18u7VFcTzUIm86HJ1oo3UZ"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
+        "name": "Caracoles",
+        "url": "https://open.spotify.com/album/4Q9zv0BFqFTDb3KF3ZrwJv"
+      },
+      "artists": [
+        {
+          "name": "Kanaku y El Tigre",
+          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
+        }
+      ],
+      "duration_ms": 145484,
+      "name": "El Funeral",
+      "url": "https://open.spotify.com/track/61IjyAktalOHr6HpPkutRI"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
         "name": "Contestadas Y Rancheras",
         "url": "https://open.spotify.com/album/4IKibIvIpvYbcibKsxnv7t"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 207280,
       "name": "La Catrina",
       "url": "https://open.spotify.com/track/3UPnYhcztFLQ1snJlB0CYt"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
-        "name": "Caracoles",
-        "url": "https://open.spotify.com/album/4Q9zv0BFqFTDb3KF3ZrwJv"
-      },
-      "artists": [
-        {
-          "name": "Kanaku y El Tigre",
-          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
-        }
-      ],
-      "duration_ms": 145484,
-      "name": "El Funeral",
-      "url": "https://open.spotify.com/track/61IjyAktalOHr6HpPkutRI"
     },
     {
       "added_at": "2023-11-08 15:57:38",

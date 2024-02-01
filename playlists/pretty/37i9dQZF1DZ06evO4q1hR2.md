@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,110 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,133 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 40 | [Amargo Dolor](https://open.spotify.com/track/40Xi96Q11Z05FmQJCLqH2G) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Concedeme](https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY) | 2:26 |
 | 41 | [Fue Un Placer](https://open.spotify.com/track/1xbJgNrATP9zyCKiM3o6NW) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT), [Los Plebes del Rancho del Rancho de Ariel Camacho](https://open.spotify.com/artist/1C73c6IIUrIhfwPU8YGoBq), [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Fue Un Placer](https://open.spotify.com/album/39dU0zdn3mhDzE8O3mhzqZ) | 4:27 |
 | 42 | [El Borrego](https://open.spotify.com/track/7pdDsYNYQPf50Bwza8ErYm) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Soñé](https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY) | 3:01 |
-| 43 | [El Amo](https://open.spotify.com/track/1W3lwaQRhmT3LQW2xKQuqp) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Amo](https://open.spotify.com/album/4YblOZueMvUtw52G7DETSj) | 3:21 |
-| 44 | [Pase Y Pase](https://open.spotify.com/track/5sK1Tz6eqakvg6qpOtJxMg) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 2:29 |
+| 43 | [Pase Y Pase](https://open.spotify.com/track/5sK1Tz6eqakvg6qpOtJxMg) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 2:29 |
+| 44 | [El Amo](https://open.spotify.com/track/1W3lwaQRhmT3LQW2xKQuqp) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Amo](https://open.spotify.com/album/4YblOZueMvUtw52G7DETSj) | 3:21 |
 | 45 | [Quiero Charlar Con La Muerte](https://open.spotify.com/track/5P1Fm2SSTWfcRmpCCjxwHd) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puros Corridos Y Rancheras](https://open.spotify.com/album/6jWO1gpaKRmFOkankuNGqK) | 2:43 |
 | 46 | [Pedro Avilés](https://open.spotify.com/track/2O5PXvFcz0MrjLYdcDmyJS) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Amor No Tiene Edad](https://open.spotify.com/album/5ld9ikvXhVrDJ0D3OwPY5K) | 3:09 |
 | 47 | [Mi Casa Nueva](https://open.spotify.com/track/2L2hf0hRTCJZRSHsxNtw5P) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Rancho Grande](https://open.spotify.com/album/2EsT6h6uz0AUyozpqoJh7e) | 1:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 49 | [Lamberto Quintero](https://open.spotify.com/track/2shyIItJyRX7iEQ8dOqLkk) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Polo Norte](https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy) | 2:37 |
 | 50 | [Esperanza Valero](https://open.spotify.com/track/6YERvxBDNRxomS8A4YYR8i) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Profundamente](https://open.spotify.com/album/78HIF5oTYm7ouvaMvFyz7i) | 2:16 |
 
-Snapshot ID: `Mjg0NDM2MzksMDAwMDAwMDAxNjY4NTMwMjJlMDJmNmU1YjA4NWY4ODcwYzI3ZWE4MQ==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDA4ZjBhMGVlMzM2YzhhMDRiNmVlZmI5MGMxMDU4ZDJjMQ==`

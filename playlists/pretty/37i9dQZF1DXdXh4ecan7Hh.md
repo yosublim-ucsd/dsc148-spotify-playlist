@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 
 > County's best like you've never heard before\. Cover: Jackson Dean, Josh Ross, ERNEST and 49 Winchester
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,806 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,801 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 58 | [Never Comin Down \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/3tucKgFqK4GbUCmQtHxnhA) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Spotify Singles](https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz) | 3:21 |
 | 59 | [Psycho \- Recorded at Sound Stage Studios, Nashville](https://open.spotify.com/track/33aoxwQiePZVRQtYuJz6IR) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Spotify Singles](https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi) | 4:07 |
 | 60 | [Attention \- Recorded at Woodshed Recording Malibu](https://open.spotify.com/track/1FldaNEv6PQQetkRwB9DLR) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Spotify Singles](https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy) | 3:27 |
-| 61 | [Doing It to Country Songs \(feat\. The Oak Ridge Boys\) \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/5PoxKc3OfdHr2uQEnIRRyw) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Spotify Singles](https://open.spotify.com/album/3G8anIKFdjaKHRGKUWESgY) | 2:58 |
-| 62 | [Burn Out \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/0wFyhPrMt4maLtWmLeG7lq) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Spotify Singles](https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt) | 3:04 |
+| 61 | [Burn Out \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/0wFyhPrMt4maLtWmLeG7lq) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Spotify Singles](https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt) | 3:04 |
+| 62 | [Doing It to Country Songs \(feat\. The Oak Ridge Boys\) \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/5PoxKc3OfdHr2uQEnIRRyw) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Spotify Singles](https://open.spotify.com/album/3G8anIKFdjaKHRGKUWESgY) | 2:58 |
 | 63 | [Better Place \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/61YvXZaJ3r5P0ZLSmSjQjU) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:15 |
 | 64 | [Best Shot \(Spotify Singles\)](https://open.spotify.com/track/2WfVAdZp1iQ0OqwnNyKzlU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/7MLuSEV3k7u4rAHq3L8z8h) | 4:10 |
 | 65 | [Yours If You Want It \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7IEKsQr25onXLLYaOyD27n) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Spotify Singles](https://open.spotify.com/album/45zKHbhnFK7yWhr3PvCwlC) | 3:25 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 69 | [Dear God \- Recorded at Woodshed Recording Malibu](https://open.spotify.com/track/78GAT649ad19quwcuiuMQs) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Spotify Singles](https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy) | 3:02 |
 | 70 | [Get to You \- Recorded at Sound Stage Studios, Nashville](https://open.spotify.com/track/5NwafdEg2onbbPGugB0ZRS) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Spotify Singles](https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi) | 3:04 |
 
-Snapshot ID: `MCxjYTNkMTIyYjlkYjI5MTg2YjBjYTVmYTBkYWFkN2FhOTcyYjdjZGFl`
+Snapshot ID: `MCxmZDVhZGU3MTNlOGMxNTkwMDY2YzExNzZmM2M2YWI4NWU3YTVlYWRl`

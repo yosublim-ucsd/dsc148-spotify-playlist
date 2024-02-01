@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 
 > as novas de pop rock br / Foto: TINN
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,604 likes - 85 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,626 likes - 85 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 40 | [sempre estrago tudo](https://open.spotify.com/track/1We5W9pJwrKFmFfI0c0v2y) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [SEMPRE ESTRAGO TUDO + CARENTE PRA SEMPRE](https://open.spotify.com/album/3ZMnjFJjAodqKyzFzn55kK) | 3:08 |
 | 41 | [Caso Perdido](https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Caso Perdido](https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv) | 3:19 |
 | 42 | [NUNCA VOU TE PERDOAR](https://open.spotify.com/track/375FOAahZKZhCvBAGnEb7t) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [NUNCA VOU TE PERDOAR](https://open.spotify.com/album/0HFNiOy2tabQwDMTqRxmOD) | 2:36 |
-| 43 | [não me importo mais](https://open.spotify.com/track/2bYdCw0rlPBI404BQXTXUn) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [não me importo mais](https://open.spotify.com/album/741ZgcZ2POqxmqoHYAUxYG) | 2:36 |
-| 44 | [Dona da Minha Cabeça](https://open.spotify.com/track/0a5bmaUCdiDzYMlebzehDV) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj), [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj) | [Dona da Minha Cabeça](https://open.spotify.com/album/1yFXVOVzl7frsvybze8Zil) | 3:55 |
+| 43 | [Dona da Minha Cabeça](https://open.spotify.com/track/0a5bmaUCdiDzYMlebzehDV) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj), [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj) | [Dona da Minha Cabeça](https://open.spotify.com/album/1yFXVOVzl7frsvybze8Zil) | 3:55 |
+| 44 | [não me importo mais](https://open.spotify.com/track/2bYdCw0rlPBI404BQXTXUn) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [não me importo mais](https://open.spotify.com/album/741ZgcZ2POqxmqoHYAUxYG) | 2:36 |
 | 45 | [Obscuro](https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [Obscuro](https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6) | 3:38 |
 | 46 | [Muito Além](https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [Muito Além](https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo) | 2:48 |
 | 47 | [lentamente](https://open.spotify.com/track/4ve8c7k1gugrh7cdY0TNQo) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [lentamente](https://open.spotify.com/album/4zThV7FqLkxpvXMCwd7e2r) | 3:19 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 51 | [TÁ TODO MUNDO MAL](https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [TÁ TODO MUNDO MAL](https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR) | 3:21 |
 | 52 | [Castelo De Areia](https://open.spotify.com/track/3KqYVVEQL5g5bhIV1rr8vV) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Bullet Bane](https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0) | [Castelo De Areia](https://open.spotify.com/album/4cH0cWRb9RsTZWO7v7gu1S) | 2:56 |
 | 53 | [MENTIRA FAVORITA](https://open.spotify.com/track/2tnAEKbdnPds84REPr5S73) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [MENTIRA FAVORITA](https://open.spotify.com/album/5S0rzOgakJueLdblfzAjwf) | 2:53 |
-| 54 | [Vampira \- Remix](https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3), [FUSO!](https://open.spotify.com/artist/2nVbDbaNm0KhD8zfkTk6pq) | [Vampira \(Remix\)](https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B) | 2:58 |
+| 54 | [Vampira \- Remix](https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Vampira \(Remix\)](https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B) | 2:58 |
 | 55 | [CORPO FECHADO](https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [:\( UMA BAD UMA FARRA :\) \[Deluxe\]](https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom) | 3:27 |
 | 56 | [DUBLÊ](https://open.spotify.com/track/2P4Nbb8Gf5TX2JyBu0kuIY) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [DUBLÊ](https://open.spotify.com/album/21nz8HbPqUOCkPRXbpH5jJ) | 2:58 |
 | 57 | [Emocionado](https://open.spotify.com/track/0cSQ6uPHR8IHL3QfYe7n8j) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Emocionado](https://open.spotify.com/album/4EsncwoboDBXFxpFKG8Khj) | 2:47 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 84 | [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 |
 | 85 | [Legado](https://open.spotify.com/track/22hTtzEc2038qqwCuiZ687) | [Floco](https://open.spotify.com/artist/3Dlxw7x1H8jzflD6DBqljc), [amanda muraro](https://open.spotify.com/artist/0H3Ar9Em4fxqO0NYLTs7vJ) | [Legado](https://open.spotify.com/album/7qk4AUAt8F9m508h7HV8sj) | 2:14 |
 
-Snapshot ID: `MCw1NzczNGUyNzI2MTIwNjY4MzU2YWJkY2FjOTg0NjA0YTMzY2JhNmNi`
+Snapshot ID: `MCxiNmQwMzNkZjc1MzE1Y2ZlYTkyOWUzZjA5NGE5ZTAwNDk3N2UwZmQx`

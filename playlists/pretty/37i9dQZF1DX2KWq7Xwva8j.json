@@ -1,12 +1,12 @@
 {
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: Yarea",
-  "num_followers": 25523,
+  "num_followers": 25534,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2FkMTZlYmYxNzQwMjU3OTJjODJkY2I0MDc2MDAzYWE4MWQ1YTVm",
+  "snapshot_id": "MCw0NDY3ZjJjMTIwYzA5MmJjODkzOGVkYzk3MTNjN2YwZDViNGM2M2I1",
   "tracks": [
     {
       "added_at": "2023-10-13 09:57:11",
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "En Otro Lugar",
-        "url": "https://open.spotify.com/album/7yUGYSIUFrE4u335WYpXgx"
+        "name": "Roma No Es Amor",
+        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
       },
       "artists": [
         {
-          "name": "Queralt Lahoz",
-          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
         }
       ],
-      "duration_ms": 178326,
-      "name": "En Otro Lugar",
-      "url": "https://open.spotify.com/track/4cbYLSExjhetFfq2WHGYhR"
+      "duration_ms": 193243,
+      "name": "Roma No Es Amor",
+      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "Roma No Es Amor",
-        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
+        "name": "En Otro Lugar",
+        "url": "https://open.spotify.com/album/7yUGYSIUFrE4u335WYpXgx"
       },
       "artists": [
         {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+          "name": "Queralt Lahoz",
+          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
         }
       ],
-      "duration_ms": 193243,
-      "name": "Roma No Es Amor",
-      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
+      "duration_ms": 178326,
+      "name": "En Otro Lugar",
+      "url": "https://open.spotify.com/track/4cbYLSExjhetFfq2WHGYhR"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -387,18 +387,22 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "Alto Cielo",
-        "url": "https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V"
+        "name": "Desastre de persona",
+        "url": "https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo"
       },
       "artists": [
         {
-          "name": "Queralt Lahoz",
-          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        },
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
         }
       ],
-      "duration_ms": 291873,
-      "name": "Con Miedo a Ti",
-      "url": "https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl"
+      "duration_ms": 173721,
+      "name": "Desastre de persona",
+      "url": "https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -455,22 +459,18 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "Desastre de persona",
-        "url": "https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo"
+        "name": "Alto Cielo",
+        "url": "https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V"
       },
       "artists": [
         {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        },
-        {
-          "name": "Dani Mart\u00edn",
-          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+          "name": "Queralt Lahoz",
+          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
         }
       ],
-      "duration_ms": 173721,
-      "name": "Desastre de persona",
-      "url": "https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b"
+      "duration_ms": 291873,
+      "name": "Con Miedo a Ti",
+      "url": "https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "No Me Salves",
-        "url": "https://open.spotify.com/album/3fFodInCmkqeErsA3w551s"
-      },
-      "artists": [
-        {
-          "name": "Queralt Lahoz",
-          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
-        }
-      ],
-      "duration_ms": 232855,
-      "name": "No Me Salves",
-      "url": "https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
         "name": "favorita",
         "url": "https://open.spotify.com/album/1S7trDsVlwschptph947TY"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 127634,
       "name": "favorita",
       "url": "https://open.spotify.com/track/1GD7Rao8kRvGAoXBI8Aott"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
+        "name": "No Me Salves",
+        "url": "https://open.spotify.com/album/3fFodInCmkqeErsA3w551s"
+      },
+      "artists": [
+        {
+          "name": "Queralt Lahoz",
+          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+        }
+      ],
+      "duration_ms": 232855,
+      "name": "No Me Salves",
+      "url": "https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "Porque t\u00fa lo sabr\u00edas",
-        "url": "https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0"
-      },
-      "artists": [
-        {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        }
-      ],
-      "duration_ms": 191806,
-      "name": "Porque t\u00fa lo sabr\u00edas",
-      "url": "https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
         "name": "La\u00e9ne",
         "url": "https://open.spotify.com/album/5sJ83xFmp0TskXRrnetqI3"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 170322,
       "name": "Iniciales",
       "url": "https://open.spotify.com/track/7ix08YDpUCLEirQoyoU843"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
+        "name": "Porque t\u00fa lo sabr\u00edas",
+        "url": "https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "duration_ms": 191806,
+      "name": "Porque t\u00fa lo sabr\u00edas",
+      "url": "https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3"
     },
     {
       "added_at": "2023-10-13 09:57:11",

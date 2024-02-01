@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 12129,
+  "num_followers": 12141,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWQ4NGJlYTlhYTgyZDJhNzUzZmY1ODliZGYzMjRiZTY1NDhjM2Ix",
+  "snapshot_id": "MCwwZGI4OWVmNDRlZjA2YWEyZGE2MzhjNDA3OTljNzg1Njk2MDY0ZmEx",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 381560,
+      "name": "Is It a Crime",
+      "url": "https://open.spotify.com/track/1SvET7grrtsHT0CkyJjJcZ"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Chant Down Babylon",
         "url": "https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 346333,
       "name": "Turn Your Lights Down Low",
       "url": "https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 381560,
-      "name": "Is It a Crime",
-      "url": "https://open.spotify.com/track/1SvET7grrtsHT0CkyJjJcZ"
     },
     {
       "added_at": "2022-10-01 16:57:49",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Liberian Girl - 2012 Remastered Version",
-      "url": "https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
         "name": "Ayo",
         "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 216242,
       "name": "Ojuelegba",
       "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Liberian Girl - 2012 Remastered Version",
+      "url": "https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE"
     },
     {
       "added_at": "2022-10-01 16:57:49",

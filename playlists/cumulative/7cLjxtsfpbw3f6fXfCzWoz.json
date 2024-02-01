@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1.0",
+        "url": "https://open.spotify.com/album/20EPvfI2oySEeAmW0IiEaq"
+      },
+      "artists": [
+        {
+          "name": "Big Data",
+          "url": "https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266320,
+      "name": "Big Dater - 1.0 Version",
+      "url": "https://open.spotify.com/track/3yAmfnsYSB8dvTJs2aZti6"
+    },
+    {
+      "album": {
         "name": "RAZZMATAZZ (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5ailYYtAaFrrb9TYNlJOri"
       },
@@ -92,6 +110,28 @@
       "duration_ms": 125000,
       "name": "Cubs In Five",
       "url": "https://open.spotify.com/track/3eqL5oHLBmtqZYfLENN9GO"
+    },
+    {
+      "album": {
+        "name": "1.0",
+        "url": "https://open.spotify.com/album/20EPvfI2oySEeAmW0IiEaq"
+      },
+      "artists": [
+        {
+          "name": "Big Data",
+          "url": "https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa"
+        },
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280426,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/2b7hOtMdYJ7QvL6Vd3sk4a"
     },
     {
       "album": {

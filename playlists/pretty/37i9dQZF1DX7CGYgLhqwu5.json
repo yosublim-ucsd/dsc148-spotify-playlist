@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 374759,
+  "num_followers": 374760,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDFhN2VjZGQ4ZTIxZDNlM2I2ODA1YzRmODdkMmEyNzVkNGI3M2Jl",
+  "snapshot_id": "MCw0ZTE1Mzg1NjVmMWFlMWIxYTg4YTYyODI5MmNhYTc4MjVkYzczZGQ0",
   "tracks": [
     {
       "added_at": "2023-11-21 21:06:39",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Harper Valley P.T.A. (The Plantation Recordings 1968-70)",
-        "url": "https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg"
-      },
-      "artists": [
-        {
-          "name": "Jeannie C. Riley",
-          "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Harper Valley P.T.A.",
-      "url": "https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Down Every Road 1962-1994",
         "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 164106,
       "name": "Okie From Muskogee",
       "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "Harper Valley P.T.A. (The Plantation Recordings 1968-70)",
+        "url": "https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg"
+      },
+      "artists": [
+        {
+          "name": "Jeannie C. Riley",
+          "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Harper Valley P.T.A.",
+      "url": "https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/6HMxJGDVtEsqpeOJlJHNhH"
-      },
-      "artists": [
-        {
-          "name": "Ferlin Husky",
-          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
-        }
-      ],
-      "duration_ms": 139093,
-      "name": "Wings Of A Dove",
-      "url": "https://open.spotify.com/track/2DD8OhehvkzSFeoRW0u7Gb"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "The Essential Waylon Jennings",
         "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
       },
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "The Essential Eddy Arnold",
-        "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/6HMxJGDVtEsqpeOJlJHNhH"
       },
       "artists": [
         {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+          "name": "Ferlin Husky",
+          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
         }
       ],
-      "duration_ms": 157826,
-      "name": "Make the World Go Away",
-      "url": "https://open.spotify.com/track/7GafJyGdVj7ahXo96LwFM4"
+      "duration_ms": 139093,
+      "name": "Wings Of A Dove",
+      "url": "https://open.spotify.com/track/2DD8OhehvkzSFeoRW0u7Gb"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
+        "name": "The Essential Eddy Arnold",
+        "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Make the World Go Away",
+      "url": "https://open.spotify.com/track/7GafJyGdVj7ahXo96LwFM4"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
         "name": "The Essential Hank Snow",
         "url": "https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR"
       },
@@ -1583,22 +1583,6 @@
       "duration_ms": 164640,
       "name": "I've Been Everywhere - Remastered",
       "url": "https://open.spotify.com/track/1rFGwz7rswOuW2IdXPd0fv"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0olpLTTyf5mFEpgNcdJzJ9"
-      },
-      "artists": [
-        {
-          "name": "Ferlin Husky",
-          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
-        }
-      ],
-      "duration_ms": 152800,
-      "name": "Timber I'm Falling",
-      "url": "https://open.spotify.com/track/6tYRg3XkDpjlST4XBMcnjX"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1631,6 +1615,22 @@
       "duration_ms": 182573,
       "name": "Saginaw, Michigan",
       "url": "https://open.spotify.com/track/0ulPILleWfE1NBzUWIiNi9"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "Viva",
+        "url": "https://open.spotify.com/album/5srw9Y2VmTNHwUVziaibEk"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        }
+      ],
+      "duration_ms": 153266,
+      "name": "Misery Loves Company",
+      "url": "https://open.spotify.com/track/3svC90yBSf9R7aMvrn3mzz"
     }
   ],
   "unique_name": "60s Country",

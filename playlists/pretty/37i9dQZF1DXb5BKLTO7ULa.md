@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: RONDÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,818 likes - 102 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,799 likes - 102 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 101 | [No Evil](https://open.spotify.com/track/7JHVXlqkoXViFD4giUlzEs) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [No Evil](https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R) | 2:25 |
 | 102 | [Because of Time](https://open.spotify.com/track/1DbBwYO45JkraXVHX7aHTW) | [NORE](https://open.spotify.com/artist/1TY6Dy5en43uAZPIcXql0Q) | [Because of Time](https://open.spotify.com/album/6r70FuRYrX28vRJmaa6d50) | 3:35 |
 
-Snapshot ID: `MCwzNzg5Y2YyNjZhYTBjMjhkNGQxMTE5ZDUwNmY4ZjA5YzQwMDE0ZDIz`
+Snapshot ID: `MCxhODcxZTNhNjUwY2MzMzk5MzIyYjE1OTE4N2Q2YWU1ZjBlMDY1Y2U4`

@@ -1,12 +1,12 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 83542,
+  "num_followers": 83559,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTQ4NTZkMTkwOWMzZWVjNzk5NjkyY2QzMzBiNjM2NDBiOTJkMTRl",
+  "snapshot_id": "MCwwNDgwZjZmMGNkYTliYjVkOGRmZTk4OTYwNTA4MTE2MDdlNjI5MGY0",
   "tracks": [
     {
       "added_at": "2024-01-25 20:25:36",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1p57rF4jF9evU5rrmpzSaG"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 202405,
+      "name": "Pana",
+      "url": "https://open.spotify.com/track/3y8hTrsyarUNzZhgZlwG84"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
         "name": "El Encuentro",
         "url": "https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 178392,
       "name": "El Encuentro",
       "url": "https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1p57rF4jF9evU5rrmpzSaG"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 202405,
-      "name": "Pana",
-      "url": "https://open.spotify.com/track/3y8hTrsyarUNzZhgZlwG84"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "La Mexicana - Single",
-        "url": "https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 206738,
-      "name": "La Mexicana",
-      "url": "https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
         "name": "Todo Estaba Bien",
         "url": "https://open.spotify.com/album/7KPVPMG8NmmqMsuPlQDl8P"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 188222,
       "name": "Todo Estaba Bien",
       "url": "https://open.spotify.com/track/72m6x9D3NCMs2MsE4wHMIC"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
+        "name": "La Mexicana - Single",
+        "url": "https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 206738,
+      "name": "La Mexicana",
+      "url": "https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
+        "name": "La Danza del Espacio Tiempo",
+        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 128981,
+      "name": "La Danza del Espacio Tiempo",
+      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 197506,
       "name": "Cuando Estamos los Dos",
       "url": "https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
-        "name": "La Danza del Espacio Tiempo",
-        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 128981,
-      "name": "La Danza del Espacio Tiempo",
-      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "yen3",
-        "url": "https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy"
-      },
-      "artists": [
-        {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
-        }
-      ],
-      "duration_ms": 186625,
-      "name": "yen3",
-      "url": "https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
         "name": "Radar",
         "url": "https://open.spotify.com/album/3CiE56hBxIZtHpAWZHScv5"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 162288,
       "name": "Radar",
       "url": "https://open.spotify.com/track/4nW9jVbdboPpVCFJ8UWeKX"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
+        "name": "yen3",
+        "url": "https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "duration_ms": 186625,
+      "name": "yen3",
+      "url": "https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -1063,22 +1063,18 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "TE QUIERO",
-        "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/0y6hqnWI5Yf6tJishhKjW0"
       },
       "artists": [
         {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        },
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 185432,
-      "name": "INFINITO",
-      "url": "https://open.spotify.com/track/04tnLrQaFpuV9KMgnxbuCt"
+      "duration_ms": 200040,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/5OKRA5qN6pPxDKW2xis3ic"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -1103,18 +1099,22 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/0y6hqnWI5Yf6tJishhKjW0"
+        "name": "TE QUIERO",
+        "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        },
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         }
       ],
-      "duration_ms": 200040,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/5OKRA5qN6pPxDKW2xis3ic"
+      "duration_ms": 185432,
+      "name": "INFINITO",
+      "url": "https://open.spotify.com/track/04tnLrQaFpuV9KMgnxbuCt"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "MILLONES",
-        "url": "https://open.spotify.com/album/0LuHp5vuF8zABveZHjoGgH"
-      },
-      "artists": [
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 243893,
-      "name": "Maremagnum",
-      "url": "https://open.spotify.com/track/23UsCEUhomO3e0bqOkJwa1"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
@@ -1659,18 +1643,18 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "Me Siento en Primavera",
-        "url": "https://open.spotify.com/album/6ZNgkv0SXGV0xnSIBEUypz"
+        "name": "MILLONES",
+        "url": "https://open.spotify.com/album/0LuHp5vuF8zABveZHjoGgH"
       },
       "artists": [
         {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
         }
       ],
-      "duration_ms": 162539,
-      "name": "Me Siento en Primavera",
-      "url": "https://open.spotify.com/track/6Jnj7W0neqd2vF5FBzU81P"
+      "duration_ms": 243893,
+      "name": "Maremagnum",
+      "url": "https://open.spotify.com/track/23UsCEUhomO3e0bqOkJwa1"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -1695,22 +1679,18 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "m\u00e9todos.",
-        "url": "https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y"
+        "name": "Me Siento en Primavera",
+        "url": "https://open.spotify.com/album/6ZNgkv0SXGV0xnSIBEUypz"
       },
       "artists": [
         {
-          "name": "Carlos Unger",
-          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
-        },
-        {
-          "name": "Absa G.",
-          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 207659,
-      "name": "ando chiple <\\3",
-      "url": "https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw"
+      "duration_ms": 162539,
+      "name": "Me Siento en Primavera",
+      "url": "https://open.spotify.com/track/6Jnj7W0neqd2vF5FBzU81P"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -1727,6 +1707,26 @@
       "duration_ms": 155675,
       "name": "Todo Lamento",
       "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
+        "name": "m\u00e9todos.",
+        "url": "https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y"
+      },
+      "artists": [
+        {
+          "name": "Carlos Unger",
+          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
+        },
+        {
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+        }
+      ],
+      "duration_ms": 207659,
+      "name": "ando chiple <\\3",
+      "url": "https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw"
     },
     {
       "added_at": "2024-01-25 20:25:36",

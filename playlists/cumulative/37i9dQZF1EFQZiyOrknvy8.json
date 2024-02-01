@@ -914,7 +914,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 160170,
       "name": "Drei Uhr Nachts",
       "url": "https://open.spotify.com/track/4lWV6MBFNz9B9ZgNuC4bPC"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 160587,
       "name": "Drei Uhr Nachts",
       "url": "https://open.spotify.com/track/6NMA5MsBDOqwQuVT3IbwNj"
@@ -1984,10 +1984,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 179493,
       "name": "Number 1",
       "url": "https://open.spotify.com/track/6LIIaryqrCv8eP2vQ8aQlr"
+    },
+    {
+      "album": {
+        "name": "Number 1",
+        "url": "https://open.spotify.com/album/0wAoLenALbubIQsMsFVU8V"
+      },
+      "artists": [
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183930,
+      "name": "Number 1",
+      "url": "https://open.spotify.com/track/7M7e0bENQ0mVB3e9NmUnaq"
     },
     {
       "album": {
@@ -2348,7 +2366,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 173423,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/6kvW6EI5UuqCmlp7L7HD9O"
@@ -2366,7 +2384,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 175810,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/1JyeQZWo7nL7L6oyay2DXe"
@@ -2680,6 +2698,24 @@
     {
       "album": {
         "name": "What I Want",
+        "url": "https://open.spotify.com/album/6vDRxpxvwxb2HHFsc1TM36"
+      },
+      "artists": [
+        {
+          "name": "Lena",
+          "url": "https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170146,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/3vXjK5wWAK9sbKsl9OkbuH"
+    },
+    {
+      "album": {
+        "name": "What I Want",
         "url": "https://open.spotify.com/album/5EleSz4c26Lq9NneJABLgn"
       },
       "artists": [
@@ -2690,7 +2726,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 174930,
       "name": "What I Want",
       "url": "https://open.spotify.com/track/4wkJyqVVMqbqukgBbnrxOJ"

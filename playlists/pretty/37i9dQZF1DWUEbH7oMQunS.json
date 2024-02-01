@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 59168,
+  "num_followers": 59197,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTI3NjA3NTAwMjM1NDZkN2Y2YTA5Y2FkNTc5ZjVjOWY3NTAyNzUx",
+  "snapshot_id": "MCwzYTcwZDk0NTdiNmRkMDNhZTcwMDNjZjRhMmY0Nzk0YzNmN2IwNWY4",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Holy, Holy, Holy",
-        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
-      },
-      "artists": [
-        {
-          "name": "John Tibbs",
-          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Holy, Holy, Holy",
-      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Always Will Be",
         "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 230000,
       "name": "Always Will Be",
       "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Holy, Holy, Holy",
+        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
+      },
+      "artists": [
+        {
+          "name": "John Tibbs",
+          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "At the Table",
-        "url": "https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB"
-      },
-      "artists": [
-        {
-          "name": "Creative Culture Co.",
-          "url": "https://open.spotify.com/artist/7EhN5XvPZsonZTmF3KGZLi"
-        },
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 217088,
-      "name": "Just Come",
-      "url": "https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "features",
         "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 172000,
       "name": "wearing thin (alt. version)",
       "url": "https://open.spotify.com/track/1vZQZrT8BHfBZUMElDaSyv"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "At the Table",
+        "url": "https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB"
+      },
+      "artists": [
+        {
+          "name": "Creative Culture Co.",
+          "url": "https://open.spotify.com/artist/7EhN5XvPZsonZTmF3KGZLi"
+        },
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 217088,
+      "name": "Just Come",
+      "url": "https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Psalm 68",
+        "url": "https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g"
+      },
+      "artists": [
+        {
+          "name": "Poor Bishop Hooper",
+          "url": "https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Psalm 68",
+      "url": "https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "features",
         "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 216366,
       "name": "hold on (alt. version)",
       "url": "https://open.spotify.com/track/6OXaUmzgo2kjXK1Aa6Qza2"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Psalm 68",
-        "url": "https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g"
-      },
-      "artists": [
-        {
-          "name": "Poor Bishop Hooper",
-          "url": "https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Psalm 68",
-      "url": "https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "The Spacies",
+        "url": "https://open.spotify.com/album/4mDTFF0tmIpDbW92F9FzJp"
+      },
+      "artists": [
+        {
+          "name": "The Spacies",
+          "url": "https://open.spotify.com/artist/3YpKkSd9uluZRtrh2oUsVn"
+        }
+      ],
+      "duration_ms": 261500,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/6JSyLsZlKdtyN39cbMnwXO"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Spirit Of God",
         "url": "https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 290813,
       "name": "Something About The Name - Live",
       "url": "https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "The Spacies",
-        "url": "https://open.spotify.com/album/4mDTFF0tmIpDbW92F9FzJp"
-      },
-      "artists": [
-        {
-          "name": "The Spacies",
-          "url": "https://open.spotify.com/artist/3YpKkSd9uluZRtrh2oUsVn"
-        }
-      ],
-      "duration_ms": 261500,
-      "name": "To The Sky",
-      "url": "https://open.spotify.com/track/6JSyLsZlKdtyN39cbMnwXO"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Mother's Love",
-        "url": "https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0"
-      },
-      "artists": [
-        {
-          "name": "Antonious",
-          "url": "https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ"
-        }
-      ],
-      "duration_ms": 60944,
-      "name": "Mother's Love",
-      "url": "https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "an ep of some songs u can read ur bible + journal to",
         "url": "https://open.spotify.com/album/0FjqdsNhcipVrps8W4qBra"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 241442,
       "name": "kindling.mp3",
       "url": "https://open.spotify.com/track/3ajOQsKvV2LeVZhqYMLnaK"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Mother's Love",
+        "url": "https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0"
+      },
+      "artists": [
+        {
+          "name": "Antonious",
+          "url": "https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ"
+        }
+      ],
+      "duration_ms": 60944,
+      "name": "Mother's Love",
+      "url": "https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Echoes Of Wonder",
-        "url": "https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd"
-      },
-      "artists": [
-        {
-          "name": "Salt Of The Sound",
-          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
-        }
-      ],
-      "duration_ms": 150612,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/3oBZhDhGuOfhrKjOEwgfWF"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Survive These Seas",
         "url": "https://open.spotify.com/album/3tgGcSo8MQa4ONqhNbXPmc"
       },
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "All the Bright Lights",
-        "url": "https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7"
+        "name": "Echoes Of Wonder",
+        "url": "https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd"
       },
       "artists": [
         {
-          "name": "All The Bright Lights",
-          "url": "https://open.spotify.com/artist/1jcBaDji032lL60oRtCSKj"
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
         }
       ],
-      "duration_ms": 330226,
-      "name": "Wilora Lake",
-      "url": "https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI"
+      "duration_ms": 150612,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/3oBZhDhGuOfhrKjOEwgfWF"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1399,6 +1383,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "All the Bright Lights",
+        "url": "https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7"
+      },
+      "artists": [
+        {
+          "name": "All The Bright Lights",
+          "url": "https://open.spotify.com/artist/1jcBaDji032lL60oRtCSKj"
+        }
+      ],
+      "duration_ms": 330226,
+      "name": "Wilora Lake",
+      "url": "https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Fantasize",
         "url": "https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3"
       },
@@ -1411,6 +1411,22 @@
       "duration_ms": 224173,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Spirit Stretch (For Christian Yoga, Relaxation and Massage)",
+        "url": "https://open.spotify.com/album/0Rz24y1BSFrHxE5VvXQKj4"
+      },
+      "artists": [
+        {
+          "name": "SpiritFit Music",
+          "url": "https://open.spotify.com/artist/0Ogq9gIMIesIEd65hhYuew"
+        }
+      ],
+      "duration_ms": 346773,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/4FEo0LfhMnTF3XxRFeHEvK"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1431,22 +1447,6 @@
       "duration_ms": 210461,
       "name": "Freedom Fighter (Jimmy James Remix)",
       "url": "https://open.spotify.com/track/1xSVf7fLxIf6rcDD0haXIb"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Spirit Stretch (For Christian Yoga, Relaxation and Massage)",
-        "url": "https://open.spotify.com/album/0Rz24y1BSFrHxE5VvXQKj4"
-      },
-      "artists": [
-        {
-          "name": "SpiritFit Music",
-          "url": "https://open.spotify.com/artist/0Ogq9gIMIesIEd65hhYuew"
-        }
-      ],
-      "duration_ms": 346773,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/4FEo0LfhMnTF3XxRFeHEvK"
     },
     {
       "added_at": "2023-07-28 04:02:00",

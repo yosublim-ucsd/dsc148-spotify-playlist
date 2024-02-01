@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in modern punk rock music\. Cover: SOAPBOX
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,140 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,141 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 36 | [All The Problems](https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [All The Problems](https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2) | 2:56 |
 | 37 | [Six\-Pack](https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 3:51 |
 | 38 | [Kids Wanna Dance](https://open.spotify.com/track/3elBHbeIPKuWTuflsA8tFw) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Kids Wanna Dance](https://open.spotify.com/album/4yh3NxpgLVxDac62H6sGDS) | 3:24 |
-| 39 | [3 Days Sober](https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [3 Days Sober](https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop) | 2:57 |
-| 40 | [Toneblerone](https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw) | [Jetski](https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI), [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [The Four Before](https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi) | 3:47 |
+| 39 | [Toneblerone](https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw) | [Jetski](https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI), [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [The Four Before](https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi) | 3:47 |
+| 40 | [3 Days Sober](https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [3 Days Sober](https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop) | 2:57 |
 | 41 | [Make Way](https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Formal Growth In The Desert](https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB) | 2:57 |
 | 42 | [Erasure](https://open.spotify.com/track/5pfc8Q86sfgziVm8jSIdar) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 2:46 |
 | 43 | [I Gotta Feeling](https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [I Gotta Feeling](https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ) | 3:17 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 52 | [Lads Lads Lads](https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Lads Lads Lads](https://open.spotify.com/album/5OM5zbbebLrPQpr3JC1b7o) | 3:11 |
 | 53 | [my little tony](https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [my little tony](https://open.spotify.com/album/0KFnuSRyar4w08X7ZJYOGX) | 2:59 |
 | 54 | [Phone Lines Down](https://open.spotify.com/track/3TpY23G5tVTl1DHZJJ86Qi) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Nah, That Ain't It / Phone Lines Down](https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P) | 2:03 |
-| 55 | [Under The Rules](https://open.spotify.com/track/3HgZwGpYYI6jKcW3UsDC49) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [MORE UK GRIM](https://open.spotify.com/album/2AQNQR9GwxxByoFeXHPH3F) | 3:33 |
-| 56 | [Sink Or Swim](https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [Sink Or Swim](https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx) | 3:12 |
+| 55 | [Sink Or Swim](https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [Sink Or Swim](https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx) | 3:12 |
+| 56 | [Under The Rules](https://open.spotify.com/track/3HgZwGpYYI6jKcW3UsDC49) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [MORE UK GRIM](https://open.spotify.com/album/2AQNQR9GwxxByoFeXHPH3F) | 3:33 |
 | 57 | [Treasure](https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Treasure](https://open.spotify.com/album/0V99dg4bfGbJV0s3giFxlO) | 3:11 |
 | 58 | [Cry Your Eyes Out](https://open.spotify.com/track/6RJPfekYTed0sA5NOPAVGk) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [Cry Your Eyes Out](https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti) | 2:27 |
 | 59 | [No Guilt](https://open.spotify.com/track/6YzPDlOHBdZfQRZ3KskqSS) | [PROJECTOR](https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9) | [No Guilt](https://open.spotify.com/album/5EnI5i4Sv9XJUvypda5Gz9) | 2:04 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 72 | [Unlike Me](https://open.spotify.com/track/20u6KgvQdfV3gnQDJ8ilMw) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [Unlike Me](https://open.spotify.com/album/1LALYYvk8uXVpWZiDMz1kT) | 3:08 |
 | 73 | [Left Right Forward](https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Left Right Forward](https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE) | 2:55 |
 | 74 | [Tom in 03](https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu), [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Tom in 03](https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w) | 2:21 |
-| 75 | [Daylight Robbery](https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [Daylight Robbery](https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM) | 2:50 |
-| 76 | [Bricks](https://open.spotify.com/track/5FJ3tMyMQ1VeRINR2DUIsY) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | ['Til the Wheels Fall Off](https://open.spotify.com/album/02gGvRHn6goKCYrRv7xp1Y) | 3:33 |
+| 75 | [Bricks](https://open.spotify.com/track/5FJ3tMyMQ1VeRINR2DUIsY) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | ['Til the Wheels Fall Off](https://open.spotify.com/album/02gGvRHn6goKCYrRv7xp1Y) | 3:33 |
+| 76 | [Daylight Robbery](https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [Daylight Robbery](https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM) | 2:50 |
 | 77 | [Fast Pace](https://open.spotify.com/track/1qXR66ok1P7wsTKsLwdf9b) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Grade 2](https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe) | 3:02 |
 | 78 | [Thameslink](https://open.spotify.com/track/2HghPvscCDfcGWp56y6SRP) | [PLAY DEAD](https://open.spotify.com/artist/2XQ4KK7Ol8gTUBBLAkIF2j) | [Thameslink](https://open.spotify.com/album/5GYdpToNRvYnXG3ob4aGEn) | 2:58 |
 | 79 | [Nausea](https://open.spotify.com/track/6pGgfqZndbyUbVFHTCn9SO) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Nausea](https://open.spotify.com/album/6Kuo3MOAM3eOdSttY25Op3) | 3:21 |
 | 80 | [BIG HIT SINGLE](https://open.spotify.com/track/3reN0NjIAde5yu4xhCo6fD) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [BIG HIT SINGLE](https://open.spotify.com/album/63heAOtxjx6cQtNnRPKR5D) | 3:09 |
 
-Snapshot ID: `MCxlNTAyZThlODBiMDVmMjc4YTE5YzJjY2ZiMjJiNWYxNzU1NzhiNWFj`
+Snapshot ID: `MCwwOTYyNTAxNjg0NWNlMTVkYTAyOGM1ZWQwY2VmMGI0ODY1ZDRiMzJj`

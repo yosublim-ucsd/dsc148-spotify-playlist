@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 20197,
+  "num_followers": 20243,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmI0YjNmNzFjMzBlZGI5ODYzZDdlZDExYWQwMjJlYzIwNjljNmIx",
+  "snapshot_id": "MCxkZmVkN2YyYjA0ZjhmMjAwYjY1YzI4Yzg1MWRkN2ZlNjBlMTNjM2Rh",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Songs for the Broken Hearted",
-        "url": "https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC"
-      },
-      "artists": [
-        {
-          "name": "Windy & Carl",
-          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
-        }
-      ],
-      "duration_ms": 140840,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/7wVgBj00m1I8W8AVYi9F8n"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "October Language",
         "url": "https://open.spotify.com/album/46wQzr2LD5SXpMY38a3e0r"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 313866,
       "name": "I'm Too Sleepy...Shall We Swim?",
       "url": "https://open.spotify.com/track/6bSDsTjVh6RIfYqHDxUyD3"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Songs for the Broken Hearted",
+        "url": "https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC"
+      },
+      "artists": [
+        {
+          "name": "Windy & Carl",
+          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
+        }
+      ],
+      "duration_ms": 140840,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/7wVgBj00m1I8W8AVYi9F8n"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Geisterfaust",
-        "url": "https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 486506,
-      "name": "Daumen",
-      "url": "https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Streichelfisch (Remastered)",
         "url": "https://open.spotify.com/album/0Z6y85kr5QPTXVxNcyxJ54"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 74246,
       "name": "Anfangtastisch (Remastered)",
       "url": "https://open.spotify.com/track/4Nal4GnS7niDUpjRXOAH4w"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Geisterfaust",
+        "url": "https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 486506,
+      "name": "Daumen",
+      "url": "https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Variations: A Movement In Chrome Primitive",
-        "url": "https://open.spotify.com/album/5lVFG1wgbDKhM7CQ7stlfd"
-      },
-      "artists": [
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 558800,
-      "name": "Variation IV",
-      "url": "https://open.spotify.com/track/6mnkCIZgqXidyl56nDGP5p"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Chessa",
         "url": "https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 418880,
       "name": "chessa",
       "url": "https://open.spotify.com/track/4pMa9p52gN1IcHtCltDbs3"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Variations: A Movement In Chrome Primitive",
+        "url": "https://open.spotify.com/album/5lVFG1wgbDKhM7CQ7stlfd"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "duration_ms": 558800,
+      "name": "Variation IV",
+      "url": "https://open.spotify.com/track/6mnkCIZgqXidyl56nDGP5p"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Mist",
-        "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
-      },
-      "artists": [
-        {
-          "name": "Tor Lundvall",
-          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "The Mist",
-      "url": "https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/6WKXCjXWZlK1SmJYUXnMO3"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 506760,
       "name": "Wholesome",
       "url": "https://open.spotify.com/track/30n6bv7fnQYIK3CvaFibT7"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "The Mist",
+        "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
+      },
+      "artists": [
+        {
+          "name": "Tor Lundvall",
+          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
+        }
+      ],
+      "duration_ms": 231240,
+      "name": "The Mist",
+      "url": "https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Von Schn\u00e4beln",
-      "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Imperial",
         "url": "https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 236333,
       "name": "Into Stressa",
       "url": "https://open.spotify.com/track/4Ppfmstq72I7BBMG1uncin"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Von Schn\u00e4beln",
+      "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Betrayed in the Octagon",
-        "url": "https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE"
-      },
-      "artists": [
-        {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        }
-      ],
-      "duration_ms": 524468,
-      "name": "Woe Is the Transgression I",
-      "url": "https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "M\u00f8rketid",
         "url": "https://open.spotify.com/album/0ZaEbfmPAuH2JRTGCUMiDp"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 563720,
       "name": "New Horizons",
       "url": "https://open.spotify.com/track/5bUqKbPcmA88YyT07rACBp"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Betrayed in the Octagon",
+        "url": "https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 524468,
+      "name": "Woe Is the Transgression I",
+      "url": "https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr"
     },
     {
       "added_at": "2023-08-04 12:53:28",

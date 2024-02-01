@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,491 likes - 173 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,556 likes - 173 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 12 | [Monsieur](https://open.spotify.com/track/1PJkjjYVNjO64a88U65x6m) | [Túnn](https://open.spotify.com/artist/7hfCTHwFBHdujO41a9RPXv) | [Monsieur](https://open.spotify.com/album/0YeuJQDS0j7EBNgrtNsSBr) | 2:58 |
 | 13 | [Counting Hours](https://open.spotify.com/track/5a7UqQzTOUoflrTummczHT) | [Kilada](https://open.spotify.com/artist/1zxOsfjnUEcVAKdPp5oKjw) | [Counting Hours](https://open.spotify.com/album/77KSkLXXhg0zzvSXSIqfQ7) | 2:20 |
 | 14 | [Propellers On](https://open.spotify.com/track/6KtJEgSP4XPtxUsSbDCCx8) | [Co Kluin](https://open.spotify.com/artist/5KHUSgxUWMd7zD4rFtr7h5) | [Propellers On](https://open.spotify.com/album/3hG9LbCQja8rDuC68SjTgT) | 2:51 |
-| 15 | [HEALING](https://open.spotify.com/track/6OjGH6sqM6q8MGnrZTk0c9) | [Carinth](https://open.spotify.com/artist/330FPb6pKzidkaSS968Ezm) | [HEALING](https://open.spotify.com/album/7EQcniYCOpy5esxmUCO8pI) | 2:14 |
+| 15 | [Healing](https://open.spotify.com/track/6OjGH6sqM6q8MGnrZTk0c9) | [Carinth](https://open.spotify.com/artist/330FPb6pKzidkaSS968Ezm) | [Healing](https://open.spotify.com/album/7EQcniYCOpy5esxmUCO8pI) | 2:14 |
 | 16 | [New Angeles](https://open.spotify.com/track/5y0tN7T4fu7fNnHp4RYcpH) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [New Angeles](https://open.spotify.com/album/4cSf0FF9F9yqMVwmV9vY1A) | 2:21 |
 | 17 | [Round and Round](https://open.spotify.com/track/7EHLrtHzrjLyEYbXj3FKoR) | [Mosho](https://open.spotify.com/artist/6Dn9b7oA0Vj4Df5qiCCmOk) | [Round and Round](https://open.spotify.com/album/72TbtayF4KCChsoPDFEXFJ) | 2:26 |
 | 18 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 172 | [Together Forever](https://open.spotify.com/track/3zfzHaKtAAey6JIzkDZZwS) | [Alba Petersen](https://open.spotify.com/artist/7iAYNShn0GIFTAUqxabBWb) | [Together Forever](https://open.spotify.com/album/3wRz3weljJwo7QnC9CK0Cy) | 2:12 |
 | 173 | [Beach & Towel](https://open.spotify.com/track/0S2WwkBNYpiXWssKc6Nwrf) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Beach & Towel](https://open.spotify.com/album/19IWLkyd4dr67RCRMbIyGG) | 2:40 |
 
-Snapshot ID: `MCxiMzdiMDZlMGNmZTI0OGI3ZTdiM2QwZGYzMDY1M2NkYjYxZjAxNTVi`
+Snapshot ID: `MCxjOTc4ODY5OTU5NGNhMDY0MWFlNzVjMmQ3MmQ3OGI2NjhhMGMwZmY3`

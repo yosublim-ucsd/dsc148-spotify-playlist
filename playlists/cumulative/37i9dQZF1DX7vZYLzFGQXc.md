@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> Fresh new Korean independent & rising talents are here\. \(Cover: Rosy Barbie\(로지바비\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
+> Fresh new Korean independent & rising talents are here\. \(Cover: Soombee\(숨비\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-1,233 songs - 2 day 21 hr 46 min
+1,234 songs - 2 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1235,6 +1235,7 @@
 | [제임스 James](https://open.spotify.com/track/00z57vfBeddIIVavotQUJj) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [제임스 James](https://open.spotify.com/album/4b2YL2tZKKcrYJigF1KyIw) | 4:58 | 2023-03-31 | 2024-01-03 |
 | [제자리 \(loop\)](https://open.spotify.com/track/2tnKd2R6zWHXL65EkruiZM) | [Kim Jeong\_uk](https://open.spotify.com/artist/1BqP8ZPk9adgbcmkoW7dP4) | [제자리 \(loop\)](https://open.spotify.com/album/5AMPNy9dnzhc3vKyYWqrSh) | 3:20 | 2022-01-27 | 2022-03-03 |
 | [주인공](https://open.spotify.com/track/1qOcEC2RSSzTLyamrKAtQg) | [수정](https://open.spotify.com/artist/0qUoJSaKxbbI2XvjU8usDf) | [Miracle](https://open.spotify.com/album/5mzpPcrg6Uzxtz2J6mBzr7) | 3:32 | 2022-01-10 | 2022-01-25 |
+| [중간에서 in the middle](https://open.spotify.com/track/3GxIRtoTYOqojn2iNOaJLL) | [Soombee](https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga) | [중간에서 in the middle](https://open.spotify.com/album/70xAyiMkKkHKdFhqqyU60D) | 2:56 | 2024-02-01 |  |
 | [척 X pretend to](https://open.spotify.com/track/759NDy2g8IKBHpS5ULPb6n) | [Hongbi](https://open.spotify.com/artist/7C016qCdmnw6SsBk0D6MlD) | [나는야 찌질이 I'm a Loser](https://open.spotify.com/album/0syKC4hO6yzxl66JrS5hgD) | 4:07 | 2022-11-30 | 2023-01-12 |
 | [천년지애 Everlasting Love](https://open.spotify.com/track/1ueWBHHclILiJ2loAoqDxI) | [LEEHEESANG](https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz) | [HOWEVER](https://open.spotify.com/album/6BgXAolghhnPuDIqCsTlmx) | 5:32 | 2023-02-21 | 2023-05-02 |
 | [칫챗 chit\-chat](https://open.spotify.com/track/1utBMrImtsgShJ6HpkUl5E) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [칫챗 chit\-chat](https://open.spotify.com/album/6oYxwXE8cigILBPADV34G3) | 2:47 | 2023-10-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,306 likes - 105 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,301 likes - 105 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 104 | [何必 \- 《前任4：英年早婚》電影主題曲](https://open.spotify.com/track/0Sh3GH2mqipOARvZ9qqABo) | [Kelly Yu](https://open.spotify.com/artist/5R56NYbLCC2HpOwlYBnmeN) | [何必 \(《前任4：英年早婚》電影主題曲\)](https://open.spotify.com/album/5wuFaQ0LWK15tqI9BMpXcr) | 4:58 |
 | 105 | [Seize the day \(feat\. Nine One One\)](https://open.spotify.com/track/0QjgDkxr8YkibQKfNCb7AT) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy), [Nine One One](https://open.spotify.com/artist/0g3drvUd9hMx7PKYN4OQWy) | [Seize the day](https://open.spotify.com/album/3StIWnLLmJfunGKH0QWy7a) | 4:23 |
 
-Snapshot ID: `MCw1ZjU5MjAyNmVmYjBjZWNjMGYwNGM1NTM2OTM3OTI2OGVkOWZlNzA2`
+Snapshot ID: `MCxiYTFhNDY1ZGNjMTMwNTZkNzYzMmYzZjA1N2Q0MmQ4MjkwMTA2ODJk`

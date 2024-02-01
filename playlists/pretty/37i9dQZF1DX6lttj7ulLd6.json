@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 177431,
+  "num_followers": 177655,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTA3MjEyYTM4MTkyYmRiNjE1OTk2NDIzMDdkY2E1YjFkODQ1ZTZi",
+  "snapshot_id": "MCxiNTAwZDQxM2IwN2QzODkzMjJkNzZmNGIwMTBhNzkxOTQ1OTFmOThm",
   "tracks": [
     {
       "added_at": "2024-01-19 00:01:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Working Buttons",
-        "url": "https://open.spotify.com/album/1mVGzvC6G2EyX4uVMFuUfe"
-      },
-      "artists": [
-        {
-          "name": "Martin Landstr\u00f6m",
-          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
-        }
-      ],
-      "duration_ms": 270025,
-      "name": "Working Buttons",
-      "url": "https://open.spotify.com/track/2KVOhGRZ4TjY3cXnnt40nn"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "It's On Tonight",
         "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 339826,
       "name": "Secret Affair",
       "url": "https://open.spotify.com/track/06gw3rpzTWZjqe0ff8y2kN"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Working Buttons",
+        "url": "https://open.spotify.com/album/1mVGzvC6G2EyX4uVMFuUfe"
+      },
+      "artists": [
+        {
+          "name": "Martin Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+        }
+      ],
+      "duration_ms": 270025,
+      "name": "Working Buttons",
+      "url": "https://open.spotify.com/track/2KVOhGRZ4TjY3cXnnt40nn"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Emily",
-        "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Everett",
-          "url": "https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI"
-        }
-      ],
-      "duration_ms": 244874,
-      "name": "The Last Kiss",
-      "url": "https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/5OUAQeFRS7Rg73FogwB0df"
       },
@@ -547,6 +531,22 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Everett",
+          "url": "https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI"
+        }
+      ],
+      "duration_ms": 244874,
+      "name": "The Last Kiss",
+      "url": "https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
         "name": "On Top Of Your Game",
         "url": "https://open.spotify.com/album/5h0gY72fOLWScMTejDedln"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 166377,
       "name": "On Top Of Your Game",
       "url": "https://open.spotify.com/track/4vFLPCdcUNBoh0gNRreIhU"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Melrose Avenue",
-        "url": "https://open.spotify.com/album/5E4dQbOoOdl3LQIKFWbuT0"
-      },
-      "artists": [
-        {
-          "name": "Melrose Avenue",
-          "url": "https://open.spotify.com/artist/6tbVfkdVtrSqHtNdgEjMc1"
-        }
-      ],
-      "duration_ms": 175930,
-      "name": "Melrose Avenue",
-      "url": "https://open.spotify.com/track/4uWBdsYOAqJhkfzpLWbEsA"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -599,6 +583,22 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
+        "name": "Melrose Avenue",
+        "url": "https://open.spotify.com/album/5E4dQbOoOdl3LQIKFWbuT0"
+      },
+      "artists": [
+        {
+          "name": "Melrose Avenue",
+          "url": "https://open.spotify.com/artist/6tbVfkdVtrSqHtNdgEjMc1"
+        }
+      ],
+      "duration_ms": 175930,
+      "name": "Melrose Avenue",
+      "url": "https://open.spotify.com/track/4uWBdsYOAqJhkfzpLWbEsA"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
         "name": "Perfect Moment",
         "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 274466,
       "name": "Autumn Day",
       "url": "https://open.spotify.com/track/2w3XMjQfcfO2cS1T0xXcDu"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Love's Melody",
+        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 320733,
+      "name": "Midnight At The Oasis",
+      "url": "https://open.spotify.com/track/3R2KtkNnblbd9icRjH04d8"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -647,22 +663,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Love's Melody",
-        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 320733,
-      "name": "Midnight At The Oasis",
-      "url": "https://open.spotify.com/track/3R2KtkNnblbd9icRjH04d8"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Can't Stop Now",
         "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Melody Drive",
-        "url": "https://open.spotify.com/album/7L9rZoOFPlkKy4g9Jclwft"
-      },
-      "artists": [
-        {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5QKxN2fua4X7t8QfyojijI"
-        }
-      ],
-      "duration_ms": 168811,
-      "name": "Melody Drive",
-      "url": "https://open.spotify.com/track/5WHfvETetU0Tu9DQ4iIwfq"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Born 2 Groove",
         "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 301240,
       "name": "Mr. Groove",
       "url": "https://open.spotify.com/track/16hiBwYiCd0crSiBtCXsMN"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Melody Drive",
+        "url": "https://open.spotify.com/album/7L9rZoOFPlkKy4g9Jclwft"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5QKxN2fua4X7t8QfyojijI"
+        }
+      ],
+      "duration_ms": 168811,
+      "name": "Melody Drive",
+      "url": "https://open.spotify.com/track/5WHfvETetU0Tu9DQ4iIwfq"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g"
+      },
+      "artists": [
+        {
+          "name": "Marion Meadows",
+          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
+        }
+      ],
+      "duration_ms": 256295,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
         "name": "Le Tour d'Amour",
         "url": "https://open.spotify.com/album/0bT3CNQPw1ZjiTbC4cWlo8"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 219752,
       "name": "Emily",
       "url": "https://open.spotify.com/track/1THYlGUnGESGfmZWLW11C6"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Whisper",
-        "url": "https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g"
-      },
-      "artists": [
-        {
-          "name": "Marion Meadows",
-          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
-        }
-      ],
-      "duration_ms": 256295,
-      "name": "Whisper",
-      "url": "https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
+        "name": "Dressed To Chill",
+        "url": "https://open.spotify.com/album/19oObbehmZIBxRB0lxfxXg"
+      },
+      "artists": [
+        {
+          "name": "Marion Meadows",
+          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
+        }
+      ],
+      "duration_ms": 241386,
+      "name": "Dressed To Chill",
+      "url": "https://open.spotify.com/track/5yEoj9jfZcq2i31RfGIGUk"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
         "name": "Force Field",
         "url": "https://open.spotify.com/album/3jjkcG2HphY52n82XNUsTc"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 233666,
       "name": "Straight to the Heart",
       "url": "https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Dressed To Chill",
-        "url": "https://open.spotify.com/album/19oObbehmZIBxRB0lxfxXg"
-      },
-      "artists": [
-        {
-          "name": "Marion Meadows",
-          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
-        }
-      ],
-      "duration_ms": 241386,
-      "name": "Dressed To Chill",
-      "url": "https://open.spotify.com/track/5yEoj9jfZcq2i31RfGIGUk"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Ready to Play",
-        "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
-      },
-      "artists": [
-        {
-          "name": "Nils",
-          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
-        }
-      ],
-      "duration_ms": 303973,
-      "name": "Catnap",
-      "url": "https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 308346,
       "name": "Love To All",
       "url": "https://open.spotify.com/track/3JixMzROP010wvqclHnxr2"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Ready to Play",
+        "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
+      },
+      "artists": [
+        {
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
+        }
+      ],
+      "duration_ms": 303973,
+      "name": "Catnap",
+      "url": "https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ"
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
       },
       "artists": [
         {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+          "name": "Kim Pensyl",
+          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
         }
       ],
-      "duration_ms": 280866,
-      "name": "Lover For Life",
-      "url": "https://open.spotify.com/track/16FwzfpZJii63cnol8sDcA"
+      "duration_ms": 305026,
+      "name": "A Short Walk From Home",
+      "url": "https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1343,42 +1343,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Out Of A Dream",
-        "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        },
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 253815,
-      "name": "Just One Wish",
-      "url": "https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Under The Influence",
-        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
-      },
-      "artists": [
-        {
-          "name": "Kim Pensyl",
-          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
-        }
-      ],
-      "duration_ms": 305026,
-      "name": "A Short Walk From Home",
-      "url": "https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
       },
@@ -1395,6 +1359,42 @@
       "duration_ms": 236960,
       "name": "Two of a Kind (feat. Chuck Loeb)",
       "url": "https://open.spotify.com/track/0rG2XJ2nMojj2dFMkpfSJ7"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 280866,
+      "name": "Lover For Life",
+      "url": "https://open.spotify.com/track/16FwzfpZJii63cnol8sDcA"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Out Of A Dream",
+        "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        },
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 253815,
+      "name": "Just One Wish",
+      "url": "https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Smooth Creations the Album, Pt. 1",
-        "url": "https://open.spotify.com/album/5NRxQH0cNTSE9JsssWVYDI"
-      },
-      "artists": [
-        {
-          "name": "Jeffery Smith",
-          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
-        }
-      ],
-      "duration_ms": 376000,
-      "name": "Let's Get It Started",
-      "url": "https://open.spotify.com/track/27ALXHt5hgiu3iAUyStMcx"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "It's Love",
         "url": "https://open.spotify.com/album/3wQ4KYqdrJHqPq2yuuYVC9"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 318053,
       "name": "Costa del Soul",
       "url": "https://open.spotify.com/track/0pfYPKBNCIu7WPq293pRqG"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Smooth Creations the Album, Pt. 1",
+        "url": "https://open.spotify.com/album/5NRxQH0cNTSE9JsssWVYDI"
+      },
+      "artists": [
+        {
+          "name": "Jeffery Smith",
+          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
+        }
+      ],
+      "duration_ms": 376000,
+      "name": "Let's Get It Started",
+      "url": "https://open.spotify.com/track/27ALXHt5hgiu3iAUyStMcx"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Can You Feel It",
-        "url": "https://open.spotify.com/album/77ELqjPSPIZRplbz2T2IGs"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 247746,
-      "name": "Mallorca",
-      "url": "https://open.spotify.com/track/5AJjIjpa2eFM7HH1IAlDoN"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Soul To Souls",
         "url": "https://open.spotify.com/album/7mIp9ANntd1SpsOEzT0yUM"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 333880,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/6Idc9PDrhpxmiCB9Juescw"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/77ELqjPSPIZRplbz2T2IGs"
+      },
+      "artists": [
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        }
+      ],
+      "duration_ms": 247746,
+      "name": "Mallorca",
+      "url": "https://open.spotify.com/track/5AJjIjpa2eFM7HH1IAlDoN"
     },
     {
       "added_at": "2024-01-19 00:01:00",

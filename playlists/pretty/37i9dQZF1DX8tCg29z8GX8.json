@@ -1,12 +1,12 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 13339,
+  "num_followers": 13352,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDUwZTA2ZjZlMTdlZGFhOWVkOGJiZjA1ZGU3OTdjMjIyNTMwMDhh",
+  "snapshot_id": "MCwxZTVhY2MxZjIxZjM3YThiYjZjNGU1MTdlNzA0NGY3NWE5NWYwNTA0",
   "tracks": [
     {
       "added_at": "2024-01-26 00:01:00",
@@ -1331,26 +1331,18 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Denge II",
-        "url": "https://open.spotify.com/album/7K9VJX2ZO6rtj4jW9zqY8t"
+        "name": "Contour",
+        "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
       },
       "artists": [
         {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        },
-        {
-          "name": "Runtown",
-          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
-        },
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 158771,
-      "name": "Denge II",
-      "url": "https://open.spotify.com/track/4BoTvPsNH6ijLrdlIV1kbA"
+      "duration_ms": 189014,
+      "name": "Contour",
+      "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -1375,18 +1367,26 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Contour",
-        "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
+        "name": "Denge II",
+        "url": "https://open.spotify.com/album/7K9VJX2ZO6rtj4jW9zqY8t"
       },
       "artists": [
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
         }
       ],
-      "duration_ms": 189014,
-      "name": "Contour",
-      "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
+      "duration_ms": 158771,
+      "name": "Denge II",
+      "url": "https://open.spotify.com/track/4BoTvPsNH6ijLrdlIV1kbA"
     },
     {
       "added_at": "2024-01-26 00:01:00",

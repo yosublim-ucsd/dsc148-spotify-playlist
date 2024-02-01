@@ -1,12 +1,12 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 633487,
+  "num_followers": 633711,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjU5NWY3YzAwM2IxMjI5NDliYzIxNWUwOGMzOGQwM2MyNWFhNzA1",
+  "snapshot_id": "MCw5NDVlYzBhMDA4Mzg2ZjNmYzMxOGUzMzg5ZDNhNWE1Yjk2NzY0MWEz",
   "tracks": [
     {
       "added_at": "2023-01-18 15:54:17",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "The Violent Sleep of Reason",
-        "url": "https://open.spotify.com/album/7iqG1CTQwnil3TQ0Tiq9DD"
-      },
-      "artists": [
-        {
-          "name": "Meshuggah",
-          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
-        }
-      ],
-      "duration_ms": 274586,
-      "name": "Born in Dissonance",
-      "url": "https://open.spotify.com/track/6GYyGwbJeHyFj9po98ZGpS"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Absolute",
         "url": "https://open.spotify.com/album/38mLnAiZLCLqUjs4DzOZdG"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 157770,
       "name": "Us & Them",
       "url": "https://open.spotify.com/track/22NW0Xa8BNrjm7oAvOVpvL"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "The Violent Sleep of Reason",
+        "url": "https://open.spotify.com/album/7iqG1CTQwnil3TQ0Tiq9DD"
+      },
+      "artists": [
+        {
+          "name": "Meshuggah",
+          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+        }
+      ],
+      "duration_ms": 274586,
+      "name": "Born in Dissonance",
+      "url": "https://open.spotify.com/track/6GYyGwbJeHyFj9po98ZGpS"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Absolute",
-        "url": "https://open.spotify.com/album/38mLnAiZLCLqUjs4DzOZdG"
-      },
-      "artists": [
-        {
-          "name": "Kublai Khan TX",
-          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
-        }
-      ],
-      "duration_ms": 231625,
-      "name": "The Truest Love",
-      "url": "https://open.spotify.com/track/0bQQFw0ODv0XVqrquk0CDQ"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "A Different Shade of Blue",
         "url": "https://open.spotify.com/album/0H8pB7p68Ynf3w9AxjQW9H"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 182530,
       "name": "A Serpent's Touch",
       "url": "https://open.spotify.com/track/0mFaWgcWph8oldTKMnWeQW"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Absolute",
+        "url": "https://open.spotify.com/album/38mLnAiZLCLqUjs4DzOZdG"
+      },
+      "artists": [
+        {
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        }
+      ],
+      "duration_ms": 231625,
+      "name": "The Truest Love",
+      "url": "https://open.spotify.com/track/0bQQFw0ODv0XVqrquk0CDQ"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Firsthand Accounts",
-        "url": "https://open.spotify.com/album/2hSmn7TSh7erJZw8IcmNsA"
-      },
-      "artists": [
-        {
-          "name": "Johnny Booth",
-          "url": "https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Thief",
-      "url": "https://open.spotify.com/track/5y8nTCIANwdeLQ8yRtlGdn"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Bleed-Abide",
         "url": "https://open.spotify.com/album/1PcvrxS7q5g9n1MxC7BOo4"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 194208,
       "name": "Behind the Crowd",
       "url": "https://open.spotify.com/track/0RaMMxG2LIexxGz4a3fEZt"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Firsthand Accounts",
+        "url": "https://open.spotify.com/album/2hSmn7TSh7erJZw8IcmNsA"
+      },
+      "artists": [
+        {
+          "name": "Johnny Booth",
+          "url": "https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Thief",
+      "url": "https://open.spotify.com/track/5y8nTCIANwdeLQ8yRtlGdn"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Fortune Teller",
-        "url": "https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp"
+        "name": "Ultimate Annihilation",
+        "url": "https://open.spotify.com/album/0c52tQwYwDQh3dbmx4teFV"
       },
       "artists": [
         {
-          "name": "Stray From The Path",
-          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
+          "name": "Suburban Scum",
+          "url": "https://open.spotify.com/artist/4PX5P76qLDOsy7XcouV7gy"
         }
       ],
-      "duration_ms": 162439,
-      "name": "Fortune Teller",
-      "url": "https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi"
+      "duration_ms": 141431,
+      "name": "Ultimate Annihilation",
+      "url": "https://open.spotify.com/track/6BLUdAwlEmU5sfwfacFtYr"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1851,6 +1851,22 @@
       "duration_ms": 205669,
       "name": "Poverty of Self",
       "url": "https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Fortune Teller",
+        "url": "https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp"
+      },
+      "artists": [
+        {
+          "name": "Stray From The Path",
+          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
+        }
+      ],
+      "duration_ms": 162439,
+      "name": "Fortune Teller",
+      "url": "https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1903,22 +1919,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7"
-      },
-      "artists": [
-        {
-          "name": "Angelmaker",
-          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
-        }
-      ],
-      "duration_ms": 212480,
-      "name": "Exit Signs",
-      "url": "https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi"
       },
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7"
+      },
+      "artists": [
+        {
+          "name": "Angelmaker",
+          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
+        }
+      ],
+      "duration_ms": 212480,
+      "name": "Exit Signs",
+      "url": "https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Title Fight",
         "url": "https://open.spotify.com/album/5CwESEfRDJ2i8J9qOEKKEg"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 236142,
       "name": "Title Fight",
       "url": "https://open.spotify.com/track/5ElkyDeYRYEfTIXYW8DMUA"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/1dci829PPCM5M3cj7OqU6X"
-      },
-      "artists": [
-        {
-          "name": "Decayer",
-          "url": "https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i"
-        }
-      ],
-      "duration_ms": 249901,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6II9b4hQFTqgtUXR7eYCt9"
     }
   ],
   "unique_name": "Extreme Metal Workout",

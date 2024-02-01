@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 
 > This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 705 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 706 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,16 +36,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 26 | [It'll All Work Out](https://open.spotify.com/track/18N4jiKRHtC5v5bgMtFeUF) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Let Me Up \(I've Had Enough\)](https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ) | 3:11 |
 | 27 | [Call Me the Breeze \- Live at the Fillmore, 1997](https://open.spotify.com/track/1OGCx6z4xbV7oPryuLx8mP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Call Me the Breeze \(Live at the Fillmore, 1997\)](https://open.spotify.com/album/3N2lkbS3TAAhdplbHvTJv3) | 5:58 |
 | 28 | [The Last DJ](https://open.spotify.com/track/0uUy3WK0JtTqhSFikqprgz) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Last DJ](https://open.spotify.com/album/3lS4vVIHslBZgLituEQz5i) | 3:47 |
-| 29 | [Southern Accents](https://open.spotify.com/track/6QUppE7S4HgcfC3jZIcYlV) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 4:44 |
-| 30 | [Two Gunslingers](https://open.spotify.com/track/46kCzTrwMMjUh4By11wvxc) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:09 |
+| 29 | [Two Gunslingers](https://open.spotify.com/track/46kCzTrwMMjUh4By11wvxc) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:09 |
+| 30 | [Rebels](https://open.spotify.com/track/1QN5cKoYlEkJ4aMBfqDqXe) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 5:21 |
 | 31 | [I Should Have Known It](https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo](https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ) | 3:35 |
 | 32 | [Insider](https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 4:20 |
-| 33 | [Rebels](https://open.spotify.com/track/1QN5cKoYlEkJ4aMBfqDqXe) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 5:21 |
-| 34 | [The Dark Of The Sun](https://open.spotify.com/track/0QXX3wBM2quMca45ptpjfZ) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:22 |
+| 33 | [The Dark Of The Sun](https://open.spotify.com/track/0QXX3wBM2quMca45ptpjfZ) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:22 |
+| 34 | [Southern Accents](https://open.spotify.com/track/6QUppE7S4HgcfC3jZIcYlV) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 4:44 |
 | 35 | [Something Good Coming](https://open.spotify.com/track/53DoKGKHCae8SekXxqUqys) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo](https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ) | 4:10 |
 | 36 | [Louisiana Rain](https://open.spotify.com/track/5dfg1Piej2rQ0jwmwxo3kF) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 5:52 |
-| 37 | [Room at the Top](https://open.spotify.com/track/7By7UYWA21PcKoKCl8ZaI7) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Echo](https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW) | 5:00 |
-| 38 | [All The Wrong Reasons](https://open.spotify.com/track/0l1P0R2Pzbq8OmUTD0Btsj) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:45 |
+| 37 | [All The Wrong Reasons](https://open.spotify.com/track/0l1P0R2Pzbq8OmUTD0Btsj) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:45 |
+| 38 | [Room at the Top](https://open.spotify.com/track/7By7UYWA21PcKoKCl8ZaI7) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Echo](https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW) | 5:00 |
 | 39 | [Needles And Pins \- Live At The The Forum/1981](https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Pack Up The Plantation: Live!](https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0) | 2:25 |
 | 40 | [Casa Dega](https://open.spotify.com/track/1foblVZ1Kr2vz7212SMNZB) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 3:35 |
 | 41 | [Alright for Now \- Live](https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Live Anthology](https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 49 | [Mystery Man](https://open.spotify.com/track/5ReNpU1vhwaC4P2EWQ2SWy) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:03 |
 | 50 | [Mystery of Love](https://open.spotify.com/track/3Q3a1YNSrQCUvAxnzUJWp3) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo \(Extra Mojo Version\)](https://open.spotify.com/album/5Vd6FI8d0ZMXyrJUdCsCSP) | 4:05 |
 
-Snapshot ID: `Mjg0NDM2MzgsMDAwMDAwMDAxMTlhMWEzYTMxODk2OTczOWMyMTUwZmFmZDUwNzZmZg==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDBiZTBhOTkyMGMzYmEzNWZkOTRlMmFhMWIzZTEwMjI0NQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Valerio Mazzei
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,815 likes - 61 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,769 likes - 61 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 5 | [Guagliò](https://open.spotify.com/track/3XUBw8wZ3lyokCTYjVa6pH) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [Guagliò](https://open.spotify.com/album/3dAu3bFbyABqhGonrsIJcS) | 2:42 |
 | 6 | [RED](https://open.spotify.com/track/0jwm30oXN08kVO9JwqrCPL) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [RED](https://open.spotify.com/album/2Ddi22NvLWIP9MUAYqEil5) | 2:14 |
 | 7 | [MI ODIERAI](https://open.spotify.com/track/6eumBM7ThMaSPPGRlWZfWM) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [MI ODIERAI](https://open.spotify.com/album/7rUUGvVIkru8hoJYd21OlT) | 3:27 |
-| 8 | [Fila indiana](https://open.spotify.com/track/2WTgfEZW6gYWhHCMkn4lMc) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Fila indiana](https://open.spotify.com/album/2Dy8cBZkLwkAQJGUls25Hb) | 3:13 |
+| 8 | [Fila indiana](https://open.spotify.com/track/1H36kJUqLOHLSL98XQBRFU) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Fila indiana](https://open.spotify.com/album/68GC0n66xwvHhuAL8aJ9rM) | 3:13 |
 | 9 | [Bella](https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Bella](https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP) | 3:01 |
 | 10 | [MERCOLEDÌ MAI](https://open.spotify.com/track/6QxdN1k7aMhkFiTmuFRUPs) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [MERCOLEDÌ MAI](https://open.spotify.com/album/7Ib2YfkSm802GqCNw5RNnk) | 2:54 |
 | 11 | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs) | 3:10 |
@@ -68,6 +68,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 58 | [Soraya](https://open.spotify.com/track/0xDhwzzCx7eamMB11VBgOo) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Soraya](https://open.spotify.com/album/2y65ScAlc5MUfUa72fQcdo) | 3:00 |
 | 59 | [Piango In Discoteca](https://open.spotify.com/track/3Pc1M4PKxL8LhZ6nDMLAWJ) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Piango In Discoteca](https://open.spotify.com/album/1anbRiJBO8gwQigkTZrtQD) | 3:19 |
 | 60 | [Ciò che amo scompare](https://open.spotify.com/track/4LuNkSBfFtBeTIxTm5K574) | [Rayan Seventeen17](https://open.spotify.com/artist/3nao1CmUhdK0OZ8XvT0X1S) | [Ciò che amo scompare](https://open.spotify.com/album/0GiTA6omGkGDWyEvuLyw9r) | 3:03 |
-| 61 | [sofia </3](https://open.spotify.com/track/5GiNMKuih6zryMHANHrS4U) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [sofia </3](https://open.spotify.com/album/1o4hP3VBIoS2OwvIIrw2xz) | 2:55 |
+| 61 | [Sofia </3](https://open.spotify.com/track/5GiNMKuih6zryMHANHrS4U) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Sofia </3](https://open.spotify.com/album/1o4hP3VBIoS2OwvIIrw2xz) | 2:55 |
 
-Snapshot ID: `MCxhNzFiMzI0NjU3ZDhlNGQ0OTg4OTVkNDZmODQ0MGM5YmMwZjcwYzM3`
+Snapshot ID: `MCw3MDU5ZmQ4YmRkMWU0N2MzODY1YzAzMzgxMzUxMzVhYjJmMTc2MWNh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 
 > Come for the stew stay for the craic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,799 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,871 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 49 | [The Cliffs of Dooneen](https://open.spotify.com/track/68MgzkKuWdBRsfXHWPiY2Z) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Noel McLoughlin Group](https://open.spotify.com/artist/3X06t2DWR44EmCpR0AX8gx) | [20 Best of Ireland](https://open.spotify.com/album/4NHRHesF4AR2P6qU7sjBL1) | 3:33 |
 | 50 | [The Tailor by Trade](https://open.spotify.com/track/1cUjrjR8WCq3NOlAcZdVUH) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Tara](https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8) | [Tara: Irish Songs \(Paddy Dreaming\)](https://open.spotify.com/album/7juXwdQ8v2YpsAOjaQxoLb) | 3:25 |
 
-Snapshot ID: `MCxlZTc3ODMzODg5NjUyMjc1OTkwMjBjZmI4NTFkZjcxOTQ4ZTJhZmZh`
+Snapshot ID: `MCw4YWJjZjRjYTBmNTYwYTQ1MmY0MGE3MjdmYzM5MDBiNTM2NmU2MGVh`

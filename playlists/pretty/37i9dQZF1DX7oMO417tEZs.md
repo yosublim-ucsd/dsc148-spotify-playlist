@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > new gems by artists carving their own lane\. cover: Moonshine
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,747 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,767 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 12 | [TEMPTATIONS](https://open.spotify.com/track/5Dm92u2aCnl45seE6MCUwU) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [TEMPTATIONS](https://open.spotify.com/album/46xtqR37R8Ge71o0tQ4peS) | 1:51 |
 | 13 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 |
 | 14 | [Lucky](https://open.spotify.com/track/0MuGa3SwwVYIeOpOzTOxzj) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lucky](https://open.spotify.com/album/58UHfHzT9zqjvSWbC06Bcn) | 3:24 |
-| 15 | [Staying here](https://open.spotify.com/track/0P2ag2qoPv05wKjJrncp2v) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Staying here](https://open.spotify.com/album/4DDUVn5H8hF2uf070myTWS) | 2:27 |
+| 15 | [Staying here](https://open.spotify.com/track/4gdM3XzcjeJQZPpMvuf9VF) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Great Doubt](https://open.spotify.com/album/0X5xnCnMafZT1sRIHnzAwP) | 2:27 |
 | 16 | [It's So Good](https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [It's So Good](https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij) | 4:38 |
 | 17 | [blueprints of us](https://open.spotify.com/track/165ZtkfUdMu36Wqw7YiyGW) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [blueprints of us](https://open.spotify.com/album/3Z4RwK6UvR99QdiDlA3zuF) | 3:18 |
 | 18 | [Up And Down](https://open.spotify.com/track/35AVujsErg1f4OoqPwDPzJ) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [How Do You Sleep At Night? With You](https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Alien Love Call](https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 3:42 |
 | 100 | [Boom Boom](https://open.spotify.com/track/4BID2xH9ckVVKRNTtcVluE) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ), [SKY LEON](https://open.spotify.com/artist/1ry1IbtMEE1MfHZJoDnaVT) | [Boom Boom](https://open.spotify.com/album/1b4ffSO1YHIGBhrlG5j6Ny) | 3:55 |
 
-Snapshot ID: `MCxkNTQzMmIyYWEzOTcyNGI0NTQ1NGQwMjdmMzk0NTg3NmNmODAxZTk4`
+Snapshot ID: `MCxjNjA2OTU3M2YyNzUxYTQzYjgwMjA5OGQ1Y2ZlMGY2MTAwZTAyY2Qw`

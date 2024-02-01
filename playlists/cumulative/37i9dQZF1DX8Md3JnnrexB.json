@@ -728,7 +728,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 233853,
       "name": "bend yr ear",
       "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
@@ -878,6 +878,24 @@
       "duration_ms": 201600,
       "name": "Bring it on Home to Me (feat. Charlie Bereal)",
       "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
+    },
+    {
+      "album": {
+        "name": "Bring You A Ring",
+        "url": "https://open.spotify.com/album/5BsO8y5Kd9RfIRRpCY8OhZ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186710,
+      "name": "Bring You A Ring",
+      "url": "https://open.spotify.com/track/66ELEVRlZzcOx3V55qYY5F"
     },
     {
       "album": {
@@ -1658,7 +1676,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 259665,
       "name": "Endless Love (with Mariah Carey)",
       "url": "https://open.spotify.com/track/7IljDTNkQEyy77CcaRbiAj"
@@ -1818,7 +1836,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 332866,
       "name": "Feel the Fire",
       "url": "https://open.spotify.com/track/2Dlo3MHqNxgRKOX6KAmWWO"
@@ -2056,7 +2074,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 177706,
       "name": "Groovin'",
       "url": "https://open.spotify.com/track/1FjyfUBL7Dj1GpSxL1XLCQ"
@@ -2164,7 +2182,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 200174,
       "name": "Heaven Help",
       "url": "https://open.spotify.com/track/4X574HplOe89kLaj4a4Cnq"
@@ -2280,7 +2298,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 246040,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
@@ -4482,7 +4500,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 238466,
       "name": "Saving All My Love for You",
       "url": "https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG"
@@ -4518,7 +4536,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 168235,
       "name": "Scene 1",
       "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"
@@ -4770,7 +4788,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 233846,
       "name": "Some Of Us Are Brave",
       "url": "https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94"

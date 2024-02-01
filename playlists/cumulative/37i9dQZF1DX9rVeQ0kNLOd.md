@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-272 songs - 16 hr 36 min
+273 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 | 2023-03-25 |  |
 | [I am here](https://open.spotify.com/track/3oY94FnUoK5sSVyExSFZDa) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [I am here](https://open.spotify.com/album/2T7x92ijvQLOaK7IUeP6Ar) | 3:23 | 2023-05-31 | 2023-09-01 |
 | [idoshiyo](https://open.spotify.com/track/4HXOB4iLo2O86YNzp7ksH1) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ), [SARA\-J](https://open.spotify.com/artist/5o11pS7iIyQ2H4Uw587jyL) | [idoshiyo](https://open.spotify.com/album/4SW8buxuzDa9pc1Pv3fGfk) | 2:18 | 2022-10-20 | 2022-11-11 |
-| [iris](https://open.spotify.com/track/7JO1DK6KectzNNWGbZPBNW) | [Ami Kusakari](https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn), [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [iris / pray for peace](https://open.spotify.com/album/78Hkgus8PNLbBePiCRJtyA) | 3:27 | 2024-01-30 |  |
+| [iris](https://open.spotify.com/track/63mR8YjEoMajP2hlQMgCUu) | [Ami Kusakari](https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn), [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [iris / pray for peace](https://open.spotify.com/album/4SxRwAlnfZVpPF7DEVrvtZ) | 3:27 | 2024-01-30 |  |
+| [iris](https://open.spotify.com/track/7JO1DK6KectzNNWGbZPBNW) | [Ami Kusakari](https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn), [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [iris / pray for peace](https://open.spotify.com/album/78Hkgus8PNLbBePiCRJtyA) | 3:27 | 2024-01-30 | 2024-02-01 |
 | [kani](https://open.spotify.com/track/6rpWwwoKYA0uX6uUqq2MbB) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [kani](https://open.spotify.com/album/45Y1Qc7rbtc6dYevjRTg28) | 1:49 | 2023-12-19 | 2024-01-10 |
 | [karakara](https://open.spotify.com/track/7e4omddqowij2xnoY7k6E0) | [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [karakara](https://open.spotify.com/album/0At5gcOBR68qZAMin5jINu) | 3:10 | 2024-01-17 |  |
 | [kid feat\. Yuga](https://open.spotify.com/track/4Br3h8cIKVoXrm7EXqXv27) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf), [優河](https://open.spotify.com/artist/4Oy3S7MObkSt60p6D1qrua) | [kid feat\. Yuga](https://open.spotify.com/album/7uuWGVNmdf8O9FhnKW9XF4) | 4:13 | 2022-11-10 | 2022-11-14 |

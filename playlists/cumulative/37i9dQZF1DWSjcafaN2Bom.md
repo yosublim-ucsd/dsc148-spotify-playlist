@@ -4,7 +4,7 @@
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-364 songs - 22 hr 39 min
+365 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,8 @@
 | [Praise You](https://open.spotify.com/track/3yGy1JYz3zQKlxSgjgpQqX) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L) | 5:23 | 2021-10-26 |  |
 | [Prove It](https://open.spotify.com/track/4WOQGKUKdXkxJlhiTjO3H6) | [Lee Jones](https://open.spotify.com/artist/0QgdNN2RLEkqIBoQ3uMxbq) | [Eccentric Soul: The Kris Label](https://open.spotify.com/album/77CnvuNs785w7rqDyCMOaa) | 2:33 | 2023-08-22 |  |
 | [Pump Up The Jam](https://open.spotify.com/track/21qnJAMtzC6S5SESuqQLEK) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB) | [Pump Up The Jam](https://open.spotify.com/album/1fqUZTGqbB0o0hIFhCbAg4) | 5:20 | 2023-08-22 |  |
-| [Pumping On Your Stereo](https://open.spotify.com/track/55QdsyZaO7av9MaA8seJoT) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [Supergrass](https://open.spotify.com/album/7jSxr2MDcrNoOQOxWYg8zr) | 3:20 | 2023-08-22 |  |
+| [Pumping On Your Stereo](https://open.spotify.com/track/55QdsyZaO7av9MaA8seJoT) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [Supergrass](https://open.spotify.com/album/7jSxr2MDcrNoOQOxWYg8zr) | 3:20 | 2023-08-22 | 2024-02-01 |
+| [Pumping on Your Stereo](https://open.spotify.com/track/5cSXn9ozPu3jNT2lxWLOCT) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [Supergrass](https://open.spotify.com/album/3XNEqXHHt9KIT2vOPfwx5m) | 3:20 | 2023-09-25 |  |
 | [Push](https://open.spotify.com/track/37yFl9R1N6EK4CS80nEi1I) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Desire](https://open.spotify.com/album/0XxYd2lssGlf1jzO77HPcY) | 2:52 | 2023-09-21 |  |
 | [Push It](https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Hot, Cool & Vicious](https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d) | 4:32 | 2023-08-22 |  |
 | [Rain or Shine](https://open.spotify.com/track/02IhK8HPAI8Cc6T4KN32if) | [Five Star](https://open.spotify.com/artist/4toJT7YydhWcrYNgWJK4hW) | [The Greatest Hits](https://open.spotify.com/album/2aOTyHK8aDNzfh5gQbPlOC) | 3:58 | 2023-09-21 |  |

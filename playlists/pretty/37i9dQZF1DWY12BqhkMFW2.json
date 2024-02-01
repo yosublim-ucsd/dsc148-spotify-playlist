@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 360130,
+  "num_followers": 360214,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjg3OTY5YWI0NDYwNzlmOTZkNWYxY2E5MTc3OWMzZDNiZmE4YzIx",
+  "snapshot_id": "MCw4YmJiYWRhMTBiMTMyZTFkOTFkZmU0OGNkZDU2NmFjMmUyODUwNWJk",
   "tracks": [
     {
       "added_at": "2023-03-31 04:11:02",
@@ -607,22 +607,18 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
       },
       "artists": [
         {
-          "name": "Marsha Ambrosius",
-          "url": "https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM"
-        },
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 331133,
-      "name": "As",
-      "url": "https://open.spotify.com/track/750vuAyjSZGt53r570s8ML"
+      "duration_ms": 246560,
+      "name": "Can't Hide Love - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/2gpTbzVPDMtxsDjLn2FrII"
     }
   ],
   "unique_name": "Soul Revived",

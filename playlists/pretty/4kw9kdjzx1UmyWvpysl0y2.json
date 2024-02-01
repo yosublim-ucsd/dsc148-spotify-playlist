@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126488,
+  "num_followers": 126484,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDUzNixhYWY4NjUxZDE3NWQwYzk5MzBkMTAxYzcyMjFmMThhMjUxYmRhYzJk",
+  "snapshot_id": "NDUzNyw0OGFiOWRhZjI4NmFjNjE4ZmE0ZjNkOTA2YzVmN2M1YWI1ODljYWRm",
   "tracks": [
+    {
+      "added_at": "2024-01-31 18:04:41",
+      "album": {
+        "name": "Leave The World Behind",
+        "url": "https://open.spotify.com/album/5o3db722bxyOZJzdTxEiPL"
+      },
+      "artists": [
+        {
+          "name": "nuphory",
+          "url": "https://open.spotify.com/artist/2K0uRwlc2VKeRoWS8Iuija"
+        },
+        {
+          "name": "Luna Lenta",
+          "url": "https://open.spotify.com/artist/36un9X6TbRfeYAMadbI2SN"
+        }
+      ],
+      "duration_ms": 217389,
+      "name": "Leave The World Behind",
+      "url": "https://open.spotify.com/track/5sbsBKsvwpQdSMZzge0Fy6"
+    },
     {
       "added_at": "2024-01-30 17:55:01",
       "album": {

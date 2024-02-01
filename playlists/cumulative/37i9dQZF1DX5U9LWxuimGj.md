@@ -2,7 +2,7 @@
 
 ### [Country Latino](https://open.spotify.com/playlist/37i9dQZF1DX5U9LWxuimGj)
 
-> Country music with a Latin flair\. Cover: Angie K
+> Country music with a Latin flair\. Cover: Louie Thesinger
 
 152 songs - 8 hr 23 min
 

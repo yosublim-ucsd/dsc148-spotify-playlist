@@ -1,8 +1,8 @@
 {
-  "2024-01-31": 180490,
+  "2024-02-01": 180546,
   "date_first_scraped": "2022-05-30",
-  "description": "Time to mend your broken heart with beautiful melodies! #SpotifyWrapped",
-  "name": "What the soup boys heard in 2023",
+  "description": "Time to mend your broken heart with beautiful melodies!",
+  "name": "Kaadhal Vali",
   "tracks": [
     {
       "album": {
@@ -65,7 +65,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 370613,
       "name": "Aaruyire",
       "url": "https://open.spotify.com/track/1kEBn42BGm8y3nQUjQvUve"
@@ -87,7 +87,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 287272,
       "name": "Adiyae Ivalaey",
       "url": "https://open.spotify.com/track/2qWtVodJgQ6HtLgNuAK8Nb"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 169193,
       "name": "Breakup Song - From \"Naan Sirithal\"",
       "url": "https://open.spotify.com/track/7wXCinXw50iT5VdReFalv2"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 249076,
       "name": "Edharkadi - Male",
       "url": "https://open.spotify.com/track/4Jx9JX7oeFCUQ63tGLHI7n"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 260812,
       "name": "Enakenna Yaarum Illaye (From \"Aakko\")",
       "url": "https://open.spotify.com/track/6sAdmaffuMijDszeFrGF1H"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 324000,
       "name": "Ennai Kollathey",
       "url": "https://open.spotify.com/track/6I1nER2VxG6uyodGFnVswe"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 291121,
       "name": "Idhayam Love (Megamo Aval)",
       "url": "https://open.spotify.com/track/1t99uhmctVeG4FbC5giRCM"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 272093,
       "name": "Indha Ponnungalae",
       "url": "https://open.spotify.com/track/2wl41MwsymrIt2oceqdFgP"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 178481,
       "name": "Jodi Nilave - The Pain of Tamizh",
       "url": "https://open.spotify.com/track/55OWBVrrcsWEqs56IG8YIw"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 165374,
       "name": "Kaalangal Thaandi",
       "url": "https://open.spotify.com/track/24m8okuomXGJJbYFAEWnHM"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 449663,
       "name": "Kadhal Valarthen",
       "url": "https://open.spotify.com/track/6Vh2jKgWsmqeJMNOQ8MoRi"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 350333,
       "name": "Kan Pesum Varthaigal",
       "url": "https://open.spotify.com/track/17s6cxExOAK4nooqHPmvDC"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 364786,
       "name": "Kannai Vittu",
       "url": "https://open.spotify.com/track/6cxo3Hsiy17OYbRaIoZeCG"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 298733,
       "name": "Kulirudha Pulla",
       "url": "https://open.spotify.com/track/5JUHicYaUIOopZr7RKucnn"
@@ -1155,7 +1155,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 299305,
       "name": "Marandhaye - From \"Teddy\"",
       "url": "https://open.spotify.com/track/7lBWLsnWYvQOT95UhN7D46"
@@ -1457,7 +1457,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 96360,
       "name": "Nenjam Ennum",
       "url": "https://open.spotify.com/track/58tNyPo2g4WsQBTXA9kEg2"
@@ -1695,7 +1695,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 261813,
       "name": "Paakatha",
       "url": "https://open.spotify.com/track/7leZvkSK0HCGJAFSOaaqpA"
@@ -2069,7 +2069,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 291612,
       "name": "Thoovaanam - Reprise",
       "url": "https://open.spotify.com/track/5zlnj81hq0LuJHIPUkJO6q"
@@ -2135,7 +2135,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 224386,
       "name": "Vaa Rayil Vida Polaama",
       "url": "https://open.spotify.com/track/1guYBJjVCPeY21S9Zs6Bpj"
@@ -2175,7 +2175,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 295500,
       "name": "Vasantha Kaalangal",
       "url": "https://open.spotify.com/track/6dqcGrdePY7RlV2gm7hTtN"
@@ -2201,7 +2201,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 314360,
       "name": "Venaam Machan",
       "url": "https://open.spotify.com/track/1Xy7rlgMjkoWlwUSEk5sA4"
@@ -2263,7 +2263,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 259293,
       "name": "Why This Kolaveri Di? - The Soup of Love",
       "url": "https://open.spotify.com/track/2VGs7EmaIxq96Wcog6DQOc"
@@ -2289,7 +2289,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 335786,
       "name": "Yaaro Yaaro",
       "url": "https://open.spotify.com/track/1lqdPJz24AiFWeo3arwPXR"
@@ -2399,7 +2399,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 224560,
       "name": "Yenga Pona Raasa",
       "url": "https://open.spotify.com/track/5v5g63WRf632vG45fCErpW"

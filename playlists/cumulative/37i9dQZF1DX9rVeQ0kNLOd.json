@@ -1238,7 +1238,7 @@
     {
       "album": {
         "name": "iris / pray for peace",
-        "url": "https://open.spotify.com/album/78Hkgus8PNLbBePiCRJtyA"
+        "url": "https://open.spotify.com/album/4SxRwAlnfZVpPF7DEVrvtZ"
       },
       "artists": [
         {
@@ -1257,6 +1257,32 @@
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 207967,
+      "name": "iris",
+      "url": "https://open.spotify.com/track/63mR8YjEoMajP2hlQMgCUu"
+    },
+    {
+      "album": {
+        "name": "iris / pray for peace",
+        "url": "https://open.spotify.com/album/78Hkgus8PNLbBePiCRJtyA"
+      },
+      "artists": [
+        {
+          "name": "Ami Kusakari",
+          "url": "https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn"
+        },
+        {
+          "name": "mabanua",
+          "url": "https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP"
+        },
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-01",
       "duration_ms": 207967,
       "name": "iris",
       "url": "https://open.spotify.com/track/7JO1DK6KectzNNWGbZPBNW"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f2x5zbH0oM.md) - [plain]
 
 > La playlist au\-delà des genres\. Photo : KAYTRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,509 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,513 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f2x5zbH0oM.md) - [plain]
 | 11 | [Holier \- JD\. REID Remix feat\. Shygirl](https://open.spotify.com/track/3SAGwjKKitPBNpgdi80ScD) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Holier \(JD\. REID Remix feat\. Shygirl\)](https://open.spotify.com/album/42At6bfdhnCcDuX2d3zhxh) | 3:35 |
 | 12 | [Nostalgia](https://open.spotify.com/track/47WQYrjHBPnCsb0qqA8zEC) | [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [Nostalgia](https://open.spotify.com/album/6ZYF3zoIVATxocIczONTG5) | 4:14 |
 | 13 | [The Shoe Fits](https://open.spotify.com/track/2Mph2Rvl5kVg0MYtfV60wZ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 6:14 |
-| 14 | [Jamais Vu Le Jour](https://open.spotify.com/track/47rWS9nS6QNjBtjsjfEoyV) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18) | [Jamais Vu Le Jour](https://open.spotify.com/album/2yE9so7yFDcCAWG7vuMVxM) | 3:03 |
+| 14 | [Jamais Vu Le Jour](https://open.spotify.com/track/0mfnpM7sfNqmmPlHUC0RAg) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18) | [Way Back Home](https://open.spotify.com/album/5AKKlCP3dxZP9AAZTiE1R2) | 3:03 |
 | 15 | [Anyone But You](https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Anyone But You](https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav) | 2:56 |
 | 16 | [The Parting Glass](https://open.spotify.com/track/0bbZ3J2KdCT92SlBFORNNU) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Ye Vagabonds](https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO) | [The Parting Glass](https://open.spotify.com/album/3hapDRjTtKNAQOuavK6vgO) | 4:11 |
 | 17 | [Lego Ring](https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lego Ring](https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f2x5zbH0oM.md) - [plain]
 | 49 | [Pixie Dust](https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Pixie Dust](https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8) | 3:03 |
 | 50 | [Paradisio](https://open.spotify.com/track/3EO5VAVMkKCDHW31QHd1P9) | [15 15](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Ataheva](https://open.spotify.com/album/7361gJ17DZkovNEBrUGUM6) | 4:17 |
 
-Snapshot ID: `MCwzZmUxNjAyOTllNzgxNThmODdkNDcxYTBiYTE0N2ZmNGU5NDJkMGVk`
+Snapshot ID: `MCxjNjE2OWYxNmVkNmVkZGI3MzkzMzhkMGFlMWI0ODIyZDMwMTRkODI2`

@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 3787279,
+  "2024-02-01": 3789266,
   "date_first_scraped": "2022-02-06",
   "description": "iykyk",
   "name": "big on the internet",
@@ -16469,6 +16469,24 @@
     {
       "album": {
         "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/1KLSJkv7h010RmYOVgCSSr"
+      },
+      "artists": [
+        {
+          "name": "ProdMarvin",
+          "url": "https://open.spotify.com/artist/0GZZDfmSrMDswOFc9nBWQz"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134328,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/2dz1PWeukbAfsXgJadiaBu"
+    },
+    {
+      "album": {
+        "name": "Otra Vez",
         "url": "https://open.spotify.com/album/5408habaWK37BE9QUNEstD"
       },
       "artists": [
@@ -16479,7 +16497,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 134328,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/5LNf5l8xXqus1s9A43ReEZ"

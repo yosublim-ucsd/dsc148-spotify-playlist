@@ -4,7 +4,7 @@
 
 > アニソン界を代表する作詞家として、様々な作品のファンを魅了してきた畑 亜貴。多彩な作風でシンガーソングライター、作曲家、プロデュースチーム「Q\-MHz」メンバーとしても活躍中。
 
-62 songs - 4 hr 25 min
+63 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Future Stream](https://open.spotify.com/track/7qpd7gpBM11o7fRSmJ1i4y) | [Sphere](https://open.spotify.com/artist/7qAl67yej6N3CHV5XJShP7) | [Future Stream](https://open.spotify.com/album/2oPq8FUYfqFdjsJ295oc5T) | 4:22 | 2022-04-08 | 2022-07-29 |
 | [God knows...](https://open.spotify.com/track/71ccYxWvQJ66ebPUZScJzn) | [涼宮ハルヒ \(CV.平野 綾\)](https://open.spotify.com/artist/4eWMhmDkvSkgeHo0D2RT31) | [涼宮ハルヒの完奏〜コンプリートサウンドトラック〜](https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI) | 4:38 | 2022-04-08 |  |
 | [Love marginal](https://open.spotify.com/track/69oopEcHr93WjL84ZGg0oS) | [Printemps](https://open.spotify.com/artist/5UDdlpW0SOJwKm8ZkSbO30) | [μ's Complete BEST BOX \(Chapter.07\)](https://open.spotify.com/album/7nNBandGoFJqSVTHCVlt8F) | 4:32 | 2022-04-08 |  |
+| [Motteke! Sailor Fuku](https://open.spotify.com/track/5Sg6CkwSkxByWyODIw0q5Y) | [Konata Izumi \(CV: Aya Hirano\)](https://open.spotify.com/artist/6iKqcqxRfV6U2GEUmv8CpO), [Kagami Hiiragi \(CV: Emiri Kato\)](https://open.spotify.com/artist/5fvbPC8rqrkz1VsqLqRx0D), [Tsukasa Hiiragi \(CV: Kaori Fukuhara\)](https://open.spotify.com/artist/5J8HJhja1Yop5ZDTQqRafw), [Miyuki Takara \(CV: Aya Endo\)](https://open.spotify.com/artist/7HNz2eAmvR2X7bGuHrBgpw) | [Motteke! Sailor Fuku](https://open.spotify.com/album/3VEAlxkmR2eYNJsuoB9J1x) | 4:14 | 2024-01-31 |  |
 | [NEO SKY, NEO MAP!](https://open.spotify.com/track/4AMtutbqOdlw9ybtWSE1et) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [NEO SKY, NEO MAP!](https://open.spotify.com/album/54ABJqkUjleMloogUpIQ0M) | 4:37 | 2022-04-08 |  |
 | [ONE NATION UNDER THE DEMPA](https://open.spotify.com/track/0FxCG96wD3X8Jqnsx7Dm3v) | [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [ONE NATION UNDER THE DEMPA](https://open.spotify.com/album/3XzW2qsELrkEAj6qLNkrEW) | 3:18 | 2023-06-20 |  |
 | [Paradise Lost](https://open.spotify.com/track/2bwOFXhpw67kglSOTO9Q2i) | [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ) | [Paradise Lost](https://open.spotify.com/album/5i7vFlY7TmEJLTIIaWmIDP) | 4:43 | 2022-04-08 |  |

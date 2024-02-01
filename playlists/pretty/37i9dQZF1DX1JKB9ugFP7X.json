@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjcwYmU0MTNjNjZhMWE5YWM4NjA3ZWI0NTlkYmRjOGQ0N2NlM2Nh",
+  "snapshot_id": "MCwzY2JmZDUyY2VmMzFhN2RlZGM4NzcyOGE3YTcwM2UwZmY2YzFiNTg5",
   "tracks": [
     {
       "added_at": "2024-01-19 03:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Latinoamericana",
-        "url": "https://open.spotify.com/album/0rJcvw5YO9a1QpktRZESAv"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Locura",
-      "url": "https://open.spotify.com/track/79NtEgOBdPsUCwynkb9sHK"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "Fotonovela",
         "url": "https://open.spotify.com/album/04vG2wy1arlZRS1QmhIxUQ"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 282020,
       "name": "Fotonovela",
       "url": "https://open.spotify.com/track/1SoR39CY4CbGknDHwqxAvV"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "Latinoamericana",
+        "url": "https://open.spotify.com/album/0rJcvw5YO9a1QpktRZESAv"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Locura",
+      "url": "https://open.spotify.com/track/79NtEgOBdPsUCwynkb9sHK"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Por Si Acaso Se Acaba El Mundo",
-        "url": "https://open.spotify.com/album/4I1OiCznYVs09RpmTSIUm8"
-      },
-      "artists": [
-        {
-          "name": "Ibiza Pareo",
-          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
-        }
-      ],
-      "duration_ms": 183663,
-      "name": "Lunes Por La Madrugada",
-      "url": "https://open.spotify.com/track/7pEdDV1Izn1DgGhgTmhMM5"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "la noche de ayer",
         "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 154893,
       "name": "PARACETAMOL (perd\u00f3n x ser bella)",
       "url": "https://open.spotify.com/track/0xu7SDYSQimMbBZ5dadrad"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "Por Si Acaso Se Acaba El Mundo",
+        "url": "https://open.spotify.com/album/4I1OiCznYVs09RpmTSIUm8"
+      },
+      "artists": [
+        {
+          "name": "Ibiza Pareo",
+          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
+        }
+      ],
+      "duration_ms": 183663,
+      "name": "Lunes Por La Madrugada",
+      "url": "https://open.spotify.com/track/7pEdDV1Izn1DgGhgTmhMM5"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Hay que venir al Sur",
-        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
-      },
-      "artists": [
-        {
-          "name": "Ibiza Pareo",
-          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Hay que venir al Sur",
-      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "El Im\u00e1n (Remix)",
         "url": "https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 134425,
       "name": "PURA",
       "url": "https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "Hay que venir al Sur",
+        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
+      },
+      "artists": [
+        {
+          "name": "Ibiza Pareo",
+          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Hay que venir al Sur",
+      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Delight",
-        "url": "https://open.spotify.com/album/1DNqh53UJJWkRg5Tk9ysWc"
-      },
-      "artists": [
-        {
-          "name": "Gor2",
-          "url": "https://open.spotify.com/artist/0HaKpLgYbvjuZWzAvc39ME"
-        }
-      ],
-      "duration_ms": 309014,
-      "name": "Delight",
-      "url": "https://open.spotify.com/track/2h4yMcOkn6n62XBYhtgQl4"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "Formas",
         "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 213018,
       "name": "Housie",
       "url": "https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "Delight",
+        "url": "https://open.spotify.com/album/1DNqh53UJJWkRg5Tk9ysWc"
+      },
+      "artists": [
+        {
+          "name": "Gor2",
+          "url": "https://open.spotify.com/artist/0HaKpLgYbvjuZWzAvc39ME"
+        }
+      ],
+      "duration_ms": 309014,
+      "name": "Delight",
+      "url": "https://open.spotify.com/track/2h4yMcOkn6n62XBYhtgQl4"
     },
     {
       "added_at": "2024-01-19 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIXPHRZ4SKc.md) - [plain]
 
 > It's how you wear the mask that matters\. Music from and inspired by Spider\-Man: Into the Spider\-Verse and Spider\-Man: Across the Spider\-Verse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,378 likes - 76 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,461 likes - 76 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIXPHRZ4SKc.md) - [plain]
 | 75 | [Miles Morales Returns](https://open.spotify.com/track/3Wzq5unv57NmMS0S6fj5MH) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Spider\-Man: Into the Spider\-Verse \(Original Score\)](https://open.spotify.com/album/5KP2NReDL2Bv0QLzHSvUwM) | 3:45 |
 | 76 | [Spider\-Man Loves You](https://open.spotify.com/track/7xDVDHawfjHNoKjzzQsbTQ) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Spider\-Man: Into the Spider\-Verse \(Original Score\)](https://open.spotify.com/album/5KP2NReDL2Bv0QLzHSvUwM) | 1:51 |
 
-Snapshot ID: `MCxlNTAyZTFhNDFjOTczNmFjMDc5ZGM5MTIyYmFjYjc3Mjg5OGI4NWYz`
+Snapshot ID: `MCwyNGU2M2Y3MTUxN2VmYTZhMzJjMTJkYjEzNjY2NDRkMWY0NzUzODQ4`

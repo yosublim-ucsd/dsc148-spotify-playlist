@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 64929,
+  "2024-02-01": 64954,
   "date_first_scraped": "2021-12-28",
   "description": "Trending dance hits in India. Cover: Karan Aujla & Tiesto",
   "name": "mint India",
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 168000,
       "name": "Balenciaga",
       "url": "https://open.spotify.com/track/0eGXtYsvQlUqP5btDyOx17"
@@ -1860,6 +1860,32 @@
     },
     {
       "album": {
+        "name": "Kho Gaye Hum Kahan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3S4aagneprm7Dlvzf4Nu0O"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Saba Azad",
+          "url": "https://open.spotify.com/artist/3e0EOxOZYDZX87m6oTOXOt"
+        },
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162473,
+      "name": "I Wanna See You Dance - From \"Kho Gaye Hum Kahan\"",
+      "url": "https://open.spotify.com/track/1n4sbdd6MHD7mIByj2HI0Q"
+    },
+    {
+      "album": {
         "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
         "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
       },
@@ -2349,7 +2375,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 146430,
       "name": "Kyun",
       "url": "https://open.spotify.com/track/5FsqQpWVPzhDfnyNqU2Og7"
@@ -2523,6 +2549,24 @@
       "duration_ms": 186947,
       "name": "Lion Heart (feat. Jeremy Oceans & KARRA)",
       "url": "https://open.spotify.com/track/4EZDJ5FMTj5pCJe2HBmd21"
+    },
+    {
+      "album": {
+        "name": "Love & Lies",
+        "url": "https://open.spotify.com/album/245Za82H4W7H9sUKPMSwjC"
+      },
+      "artists": [
+        {
+          "name": "Jass Manak",
+          "url": "https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Love & Lies",
+      "url": "https://open.spotify.com/track/7y0hZYQN2xad34bW9tIVsc"
     },
     {
       "album": {
@@ -3349,6 +3393,24 @@
       "duration_ms": 190866,
       "name": "One Kiss (with Dua Lipa) - R3HAB Remix",
       "url": "https://open.spotify.com/track/5tsZgJv9QqdrIqxU9piCku"
+    },
+    {
+      "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159222,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t"
     },
     {
       "album": {
@@ -4333,7 +4395,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 265997,
       "name": "Summertime - Imanbek Remix",
       "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"

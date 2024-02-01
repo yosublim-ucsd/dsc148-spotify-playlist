@@ -4,7 +4,7 @@
 
 > Ambient and percussion to move the body and heal the soul.
 
-125 songs - 7 hr 4 min
+128 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Beatful Akasha](https://open.spotify.com/track/1JvHBofBIxiF05bjiG4cVl) | [Maximikiz](https://open.spotify.com/artist/0YlEZ0L8FwH6HMXW5jf4JC) | [Beatful Akasha](https://open.spotify.com/album/7bKoWBR8MXpoUFWo3aALtk) | 4:04 | 2022-05-26 |  |
 | [Behold](https://open.spotify.com/track/6c7p0UwA6FXYsWPHFCpuYR) | [Rand Obaso](https://open.spotify.com/artist/4llVuklNBhZLZsMwifLrIb) | [Behold](https://open.spotify.com/album/0vUNNOlGYoXYkXvkMdeUai) | 2:42 | 2022-05-26 |  |
 | [Blue Reef](https://open.spotify.com/track/5yBb7oxuiAdSsNZE0khsWi) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Beneath The Waves](https://open.spotify.com/album/1q3YBwjO55Cwlx5oRZnT17) | 3:06 | 2022-12-30 |  |
+| [Blue River](https://open.spotify.com/track/6b7xHgmSvw1LpisTjsKftM) | [The Sky](https://open.spotify.com/artist/0vOYkwa573vQ2BHbYGri2m) | [Blue River](https://open.spotify.com/album/29NmAv6BOvTbD0r7HxmSzf) | 2:37 | 2024-01-31 |  |
 | [Bryophyta](https://open.spotify.com/track/0RsowQU2tkZoqlMK5fAU3Z) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Tranquility](https://open.spotify.com/album/3u2rJW0pTLPOvX9GgwjaOL) | 3:30 | 2022-05-26 |  |
 | [Cajamarca](https://open.spotify.com/track/4Pv28BGAxtynbsqOV2jFzy) | [Apuna](https://open.spotify.com/artist/6aQnkgpCB0Zq7GjONZyd4g) | [Tilcara](https://open.spotify.com/album/5nCu0disdQEhv74qkksFIg) | 3:22 | 2022-05-26 | 2023-11-17 |
 | [Calm Night](https://open.spotify.com/track/72JSniZSFFQry3AQVYa8tB) | [Dumana](https://open.spotify.com/artist/0iy3C2nhr2vwG93xt0VIDn) | [Calm Night](https://open.spotify.com/album/3lx9UDC30ijqxQpYWtBF2I) | 2:48 | 2022-12-02 |  |
@@ -90,6 +91,7 @@
 | [Ramadu Meditation](https://open.spotify.com/track/30bl33zjZCyeueDwytjKy5) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [Worship African Experience: Shamanic Serenity, Relaxing Drums, Tribal Meditation](https://open.spotify.com/album/1YasVpcLqeQPWSFDsHHOOt) | 4:35 | 2022-05-26 | 2023-01-28 |
 | [Remote](https://open.spotify.com/track/5SE61fGjPXdEdl7osG2a2O) | [Saphileaum](https://open.spotify.com/artist/0DGuM1iZlGWfdDqAIrQCfU) | [Intrapersonal Experience](https://open.spotify.com/album/7Lwmz636F3Oa6ezXspUzBg) | 5:33 | 2023-06-09 |  |
 | [Returning It All](https://open.spotify.com/track/3vYXmN6uvbcVXwWdxG145s) | [Corrid](https://open.spotify.com/artist/14g5wTyk0UJsn5aB0zT8Gy) | [Returning It All](https://open.spotify.com/album/2oryCbHtb3HeSPbzg0G9D7) | 2:28 | 2022-05-26 |  |
+| [Ruby's Dance](https://open.spotify.com/track/0NXGeUwHAHttzLNhbv4oHB) | [Rah Moon](https://open.spotify.com/artist/2ZTWRQ0L4s7UuB55QBxOfN) | [Ruby's Dance](https://open.spotify.com/album/6fc6QjKd0j2ZkMp3wdbJPK) | 2:39 | 2024-01-31 |  |
 | [Sacred Experience](https://open.spotify.com/track/3MrasYrJku7i1nteS1tJaD) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [Shades of Percussion and Drums: Ethnic Instrumental Fantasies](https://open.spotify.com/album/6mYSCjqocuBK0qz28UoxGt) | 3:23 | 2022-05-26 | 2023-02-25 |
 | [Sacred Mountain](https://open.spotify.com/track/6T8WTmpbCkzJVhR3ut2aCq) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [Bless The Rains In India](https://open.spotify.com/album/7ztQjntjsQwv8BnmwH2SqU) | 2:21 | 2022-05-26 |  |
 | [Sand of the Desert](https://open.spotify.com/track/3vvRalqHBwE90YlukV71Qm) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Dances: Shamanic Meditation Journey, Indian Spirit, Ethnic Drums, African Relaxation](https://open.spotify.com/album/3R2yCJSvzc8BREIV3e0ym0) | 3:34 | 2022-05-26 |  |
@@ -108,6 +110,7 @@
 | [Sundran Outdoor](https://open.spotify.com/track/5Mm6wKongnMc6ruflc3KyB) | [Maximikiz](https://open.spotify.com/artist/0YlEZ0L8FwH6HMXW5jf4JC) | [Sundran Outdoor](https://open.spotify.com/album/5zqIbFcQtKwaiZCGaZMqWD) | 2:58 | 2022-05-26 |  |
 | [Swahili](https://open.spotify.com/track/03ZYpkbpDoUJproBs64vli) | [Hank Drum](https://open.spotify.com/artist/7kpwgkybkjrBOQybEwDpWI) | [Healing My Soul](https://open.spotify.com/album/0QgeFx2lRMC9OpgeOS7cmo) | 2:31 | 2022-05-26 |  |
 | [Sweet Existence](https://open.spotify.com/track/5jG0XIjT3KzT7SnJLI3rPA) | [I Haga Xela](https://open.spotify.com/artist/14l8W9RkIRqaYt89jWg6tT) | [Sweet Existence](https://open.spotify.com/album/2KGGTWJXwVPPFN2ndHUPp0) | 3:04 | 2022-11-11 |  |
+| [Tabla Journey](https://open.spotify.com/track/0yU7xhca2umDHpLpVuGKQX) | [Dumana](https://open.spotify.com/artist/0iy3C2nhr2vwG93xt0VIDn) | [Tabla Journey](https://open.spotify.com/album/0Z0xbFPij5lnivzRj8daSF) | 2:39 | 2024-01-31 |  |
 | [The Escape](https://open.spotify.com/track/0VJ0mF41QVvhfRSYDHcJTg) | [Shaban Hashmi](https://open.spotify.com/artist/7DNrBvOfstbGggvLlBql7k) | [The Escape](https://open.spotify.com/album/4s1SFohbC9Zw7BYXCC8L3e) | 2:57 | 2022-05-26 |  |
 | [The Ocean Of Night](https://open.spotify.com/track/3PZpaI1cvrnVJsWVFH05Dr) | [John Serrie](https://open.spotify.com/artist/0wa407BBItqXt1SqfyhMEc), [Gary Stroutsos](https://open.spotify.com/artist/6koxUF41S16a1rmvjG44re) | [Hidden World](https://open.spotify.com/album/32RJs9ul4l3ZrfCNKvU8Hl) | 7:01 | 2022-05-26 | 2023-09-16 |
 | [The Sacred Drum](https://open.spotify.com/track/1aS6pp7K04yYflSXXt54Qf) | [The Shaman Drum of Umbra](https://open.spotify.com/artist/56FYWoT0TLsZJaS2zsQMNI) | [The Sacred Drum](https://open.spotify.com/album/6yvTVO5f7ioMEx2TzbdrAl) | 2:14 | 2023-01-20 | 2023-10-03 |

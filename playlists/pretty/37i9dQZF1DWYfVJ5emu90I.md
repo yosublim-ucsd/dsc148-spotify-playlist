@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,614 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,626 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 27 | [MAKE IT BOUNCE](https://open.spotify.com/track/3rsReqvpwIyP9P8p8vHwPz) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit vol.2](https://open.spotify.com/album/59UZbS9Ux4SiENv7foGH5w) | 3:33 |
 | 28 | [Selfish](https://open.spotify.com/track/1hwqsjPVA3p4KZ09yTglg6) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Selfish](https://open.spotify.com/album/2qyP7Wson4vojQNDQqzXD7) | 3:44 |
 | 29 | [ASOBI \(feat\. Candee & MonyHorse\) \- Remix](https://open.spotify.com/track/7C5OicvHguY1bVUF7lSuFq) | [YUTO](https://open.spotify.com/artist/0TAfkV5380gOIJjxMtU8dA), [DopeOnigiri](https://open.spotify.com/artist/3K2Hmv1k0CJjuSRk8NXluO), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR) | [ASOBI \(feat\. Candee & MonyHorse\) \[Remix\]](https://open.spotify.com/album/5d8OTVYyV8DMAXQyge7q45) | 3:16 |
-| 30 | [Kick Up](https://open.spotify.com/track/3GEZrXDyJGtcIo4kLLiF67) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Kick Up](https://open.spotify.com/album/6KkikXwQyUw7jtJqrfo35a) | 3:07 |
-| 31 | [Best Way 2 Die](https://open.spotify.com/track/1ZLqz5HjWXvx5Tjq8z8DZB) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [YOUNGBONG](https://open.spotify.com/artist/1hvu40N8E6jm8OtwgCo6q1) | [Best Way 2 Die](https://open.spotify.com/album/0IPHOMKradmfeCU67d5pSZ) | 3:34 |
+| 30 | [Best Way 2 Die](https://open.spotify.com/track/1ZLqz5HjWXvx5Tjq8z8DZB) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [YOUNGBONG](https://open.spotify.com/artist/1hvu40N8E6jm8OtwgCo6q1) | [Best Way 2 Die](https://open.spotify.com/album/0IPHOMKradmfeCU67d5pSZ) | 3:34 |
+| 31 | [Kick Up](https://open.spotify.com/track/3GEZrXDyJGtcIo4kLLiF67) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Kick Up](https://open.spotify.com/album/6KkikXwQyUw7jtJqrfo35a) | 3:07 |
 | 32 | [Suckerzzz](https://open.spotify.com/track/4BCiSi8MZuNBqKUGuaE6TW) | [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU) | [PARALYZD](https://open.spotify.com/album/6Rjx1Cz64BL0DC6kSsgMqk) | 3:33 |
 | 33 | [NIKE DRIP \- REMIX](https://open.spotify.com/track/7g9zIRbdPvfiPrDOlL3RFP) | [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h), [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4) | [NIKE DRIP \(REMIX\)](https://open.spotify.com/album/2PDJLYDBWmDqtyQMJaO7mF) | 2:30 |
 | 34 | [TOKYO MANJI REVENGERS](https://open.spotify.com/track/3BEp9EL26N87bu5fzwjO0W) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [GNB AAlucarD](https://open.spotify.com/artist/1xfVkn8HjymKn0leFMPWxK), [HAKU FiFTY](https://open.spotify.com/artist/6fJgIprinfVAfMtLuF1OX8) | [TOKYO MANJI REVENGERS](https://open.spotify.com/album/5w4JHnj6JTqB3lefOFJxOU) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 49 | [BRAND NEW](https://open.spotify.com/track/1BVsrwJGA5Uf1DNiHKWPCW) | [Won](https://open.spotify.com/artist/5cNZg8qn03Tuqe9xfLbeN5), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [YamieZimmer](https://open.spotify.com/artist/7aqyXIegZ72uUh7d1AXR3z) | [BRAND NEW](https://open.spotify.com/album/4QPBhQbCWxO3uvPbi4v5w3) | 2:50 |
 | 50 | [ARIGATO](https://open.spotify.com/track/6vCmFt6aTwiJxEqZ2GRohr) | [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY) | [ARIGATO](https://open.spotify.com/album/4WQkEorxDBgURiS5LlZXV2) | 2:36 |
 
-Snapshot ID: `MCw0ZmVlNjdlODFkYjk1ZmU4Njc0OTI2OWE2NGVhNDVkYTRmZTE0N2Ni`
+Snapshot ID: `MCwxYWZlZjZjOGZmNDczNjYwYTg1YjRjYmVhODBhZmM5ZGI3NjkxYjA5`

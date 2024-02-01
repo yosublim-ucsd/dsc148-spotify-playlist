@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,000 songs - 2 day 9 hr 2 min
+1,003 songs - 2 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [CH4NGE](https://open.spotify.com/track/0tZNBm62R9dr5xCHONe4r0) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [CH4NGE](https://open.spotify.com/album/01RDfYld8bmfLUyxx2nqm4) | 2:13 | 2023-10-05 | 2023-10-11 |
 | [Character](https://open.spotify.com/track/0eurhU5ak9lXwhOFgmo42M) | [ACAね](https://open.spotify.com/artist/7tCgZB3cHou13zCzimxILs), [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [Character](https://open.spotify.com/album/2V2kyrZQe0YXQ1LCr8zNDa) | 4:44 | 2022-06-23 | 2022-07-13 |
 | [Chewinggum](https://open.spotify.com/track/0MAV5mwsbDdiAKetZciXta) | [cyberMINK](https://open.spotify.com/artist/6HIQj3zppWYAxrSCKt5hPk), [響木アオ](https://open.spotify.com/artist/7JbBmfOwEH5JnrcLI5pXlg) | [Chewinggum](https://open.spotify.com/album/3MeAFXpDUwGd0OoDGDCpaM) | 3:49 | 2022-07-14 | 2022-07-20 |
+| [Chocolat Cadabra](https://open.spotify.com/track/0AKxVjQmNYwYuNY5sCJuPn) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Chocolat Cadabra](https://open.spotify.com/album/2grvAfP3pjbRwkhaTbbNS9) | 3:03 | 2024-01-30 |  |
 | [Choju Giga](https://open.spotify.com/track/6hmR1ka2ZUG9w6rniXE3De) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Choju Giga](https://open.spotify.com/album/0Rsq4VHL8OXmZUlrLM6toB) | 2:51 | 2023-11-29 | 2023-12-20 |
 | [CHRONOISE](https://open.spotify.com/track/5D8E7sLUDoeyDoZQj9jQ4i) | [Tyga Ichinose](https://open.spotify.com/artist/0q3ojxiFcPDSS5p9GQaePK), [Seisui P](https://open.spotify.com/artist/4aktWUBKZzULDPUasRxwvd), [Nurse Robot Type T](https://open.spotify.com/artist/0IHI6TRUokPUyQBOJG5vHq), [Merrow](https://open.spotify.com/artist/5pvGRFxql8KZG1vP79ghqk) | [CHRONOISE](https://open.spotify.com/album/45jr3f10o8ewvQyGxFN8iK) | 2:56 | 2023-11-29 | 2023-12-20 |
 | [CHRONOISE](https://open.spotify.com/track/270vsnUS7qfUa4pQuJZ4cP) | [Tyga Ichinose](https://open.spotify.com/artist/0q3ojxiFcPDSS5p9GQaePK), [聖水P](https://open.spotify.com/artist/3ZjvFryI2uos9kzRK0d4om), [ナースロボ\_タイプT](https://open.spotify.com/artist/2tBiWeBIqmI92xVwKWt7qt), [Merrow](https://open.spotify.com/artist/5pvGRFxql8KZG1vP79ghqk) | [CHRONOISE](https://open.spotify.com/album/2PdEwAIdZPgmxZU6vvafQV) | 2:56 | 2023-11-28 | 2023-11-30 |
@@ -334,7 +335,8 @@
 | [TIME](https://open.spotify.com/track/0GTySo21x7dLGpap452q6p) | [幸祜](https://open.spotify.com/artist/1oM8EdalXNF4uSK5k2dzLh) | [TIME](https://open.spotify.com/album/5S7wZwPwCXWEFsSxQdhvFF) | 3:55 | 2022-09-14 | 2022-09-28 |
 | [Tot Musica](https://open.spotify.com/track/5hL1l3xsH0ZyKl8yUI6woj) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:15 | 2022-08-09 | 2022-08-17 |
 | [Touhikou](https://open.spotify.com/track/5Xg3ixE8imcxa3QKnH8ldi) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Touhikou](https://open.spotify.com/album/6AU5EVaR9fZQpJL3aB0VK6) | 2:56 | 2023-12-26 | 2024-01-19 |
-| [TOXY!](https://open.spotify.com/track/0E4SYZUiq9VZW0xX1sYUNH) | [KUJIRAGI](https://open.spotify.com/artist/4rG3x6s38W3SI4aS80gjnj) | [TOXY!](https://open.spotify.com/album/64djpRL2QlWt4txOotuoRC) | 3:35 | 2024-01-30 |  |
+| [TOXY!](https://open.spotify.com/track/0E4SYZUiq9VZW0xX1sYUNH) | [KUJIRAGI](https://open.spotify.com/artist/4rG3x6s38W3SI4aS80gjnj) | [TOXY!](https://open.spotify.com/album/64djpRL2QlWt4txOotuoRC) | 3:35 | 2024-01-30 | 2024-02-01 |
+| [Toxy!](https://open.spotify.com/track/75e9UjBVkiH4xqsoA8Hzmz) | [KUJIRAGI](https://open.spotify.com/artist/4rG3x6s38W3SI4aS80gjnj) | [Toxy!](https://open.spotify.com/album/20wzGDktj5fJJA7xo8sPhf) | 3:35 | 2024-01-30 |  |
 | [Travelers](https://open.spotify.com/track/174Nite6TiCK2GgiGlCXz9) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [Travelers](https://open.spotify.com/album/4skbYCCX3tI970lb4nbsVc) | 5:22 | 2023-03-23 | 2023-03-31 |
 | [Trigger](https://open.spotify.com/track/03ES1FQGdmpTBYF2f96gPF) | [七海うらら](https://open.spotify.com/artist/2ozm6qPMgXtjAPowvV1621) | [Trigger](https://open.spotify.com/album/2MUpHK1HzSjVfwfjL5oW5h) | 3:32 | 2023-06-22 | 2023-06-28 |
 | [tsuijuku](https://open.spotify.com/track/7dX6LTJkMZo65x1gURALEa) | [Rene Ryugasaki](https://open.spotify.com/artist/7iwHh2Rf3Sm4hiC4Ds8g6I), [azami](https://open.spotify.com/artist/6kmpJx7mGUinlMlN9O0ROz) | [tsuijuku](https://open.spotify.com/album/5SUUcgxWq0gFDI9kFgaWWV) | 3:48 | 2024-01-04 |  |
@@ -537,7 +539,7 @@
 | [シュガーグライダー](https://open.spotify.com/track/6d6aofOPPbvQQyHrEkzkbb) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [シュガーグライダー](https://open.spotify.com/album/1TXGEVdb72WeN7DY37oMCh) | 3:10 | 2023-05-09 | 2023-06-28 |
 | [シュガーロス](https://open.spotify.com/track/1BIg3o88H8OSPkQuEY4F1v) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [シュガーロス](https://open.spotify.com/album/6mh1S2u14AIxqfUvIha9Jj) | 3:20 | 2022-06-21 | 2022-07-25 |
 | [シューティングスター](https://open.spotify.com/track/4ZBlNa1XnHrawhS2dTf2Qq) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [朝昼晩](https://open.spotify.com/album/6FbpxhT8gawpWlZXWPjHJJ) | 3:56 | 2022-07-04 | 2022-07-08 |
-| [ショコラカタブラ](https://open.spotify.com/track/5tDluNOXu6r7z7u9NKjPCt) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ショコラカタブラ](https://open.spotify.com/album/0bHJgay2GTCHvSgaq6xtYM) | 3:03 | 2024-01-30 |  |
+| [ショコラカタブラ](https://open.spotify.com/track/5tDluNOXu6r7z7u9NKjPCt) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ショコラカタブラ](https://open.spotify.com/album/0bHJgay2GTCHvSgaq6xtYM) | 3:03 | 2024-01-30 | 2024-02-01 |
 | [シル・ヴ・プレジデント](https://open.spotify.com/track/0nW1Aes1arNyR1fzEKXS2m) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [Sunny!!](https://open.spotify.com/album/6YpoVnWQUIvMLFAeg1lCKU) | 3:10 | 2022-07-28 | 2022-09-15 |
 | [シンフォニア](https://open.spotify.com/track/4BI7QHY481QCAYgLemJxNh) | [Keichan](https://open.spotify.com/artist/63sjExP5Hu9osGe05tfgTG) | [シンフォニア](https://open.spotify.com/album/3zyEtqwolzpnKjEOvkAt0G) | 3:32 | 2023-06-01 | 2023-06-03 |
 | [シンフォニア](https://open.spotify.com/track/7jZ9GZQnHTNn4kySCCNbQd) | [Keichan](https://open.spotify.com/artist/63sjExP5Hu9osGe05tfgTG) | [シンフォニア](https://open.spotify.com/album/6vubk9sWvB3vEo7As5hSQt) | 3:32 | 2023-06-01 | 2023-06-09 |
@@ -1007,6 +1009,7 @@
 | [魔崇華麗奴](https://open.spotify.com/track/46G5u4FtuJbfyvkM7fOiAE) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ) | [魔崇華麗奴](https://open.spotify.com/album/2y0BPmfeO2tju6aY35jF7W) | 3:05 | 2023-04-13 | 2023-05-24 |
 | [魔法の歌](https://open.spotify.com/track/1ahSmZww75M4DOKibyaYYp) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [PEOPLE](https://open.spotify.com/album/4YPqs1YcZZmjKTU7afRK1f) | 3:51 | 2022-06-09 | 2022-07-29 |
 | [魔法ぽい](https://open.spotify.com/track/5vH8x36LbDLLxNJDzPiKsf) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [魔法ぽい](https://open.spotify.com/album/2hK3WbkvJyqgGSU4IodTai) | 3:17 | 2024-01-25 | 2024-01-31 |
-| [＆疾走\(Reverse\) ft.花譜](https://open.spotify.com/track/0G2X34hx1ks0LRf2Zwa9NT) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [＆疾走 \(Deluxe ver.\)](https://open.spotify.com/album/4VQgTffnaflvIgx2jFz0IE) | 3:29 | 2024-01-30 |  |
+| [＆SPRINT\(Reverse\) ft.KAF](https://open.spotify.com/track/0FC5xVOB5k7D7oP1mi8VzN) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [&SPRINT \(Deluxe ver.\)](https://open.spotify.com/album/77StVOdnNzsN4BAU98cuir) | 3:29 | 2024-01-30 |  |
+| [＆疾走\(Reverse\) ft.花譜](https://open.spotify.com/track/0G2X34hx1ks0LRf2Zwa9NT) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [＆疾走 \(Deluxe ver.\)](https://open.spotify.com/album/4VQgTffnaflvIgx2jFz0IE) | 3:29 | 2024-01-30 | 2024-02-01 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,768 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,792 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 24 | [Dil Chori](https://open.spotify.com/track/6zojSFiUNySBy3Kd1JVCXb) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Ishers](https://open.spotify.com/artist/1UHgzvQ7MJB9U2qlRtUJGo) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 3:46 |
 | 25 | [Ainvayi Ainvayi](https://open.spotify.com/track/74AqVxZ3oXwJ8olHssBUG3) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Band Baaja Baaraat](https://open.spotify.com/album/7AYweNv9TK4bWe1zP2rcRU) | 4:27 |
 | 26 | [Kukkad](https://open.spotify.com/track/7DbE178OOsJfJKyiNObOsw) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Nisha Mascarenhas](https://open.spotify.com/artist/06rb04GGkUUP0nZMWEs0P6), [Marianne D'Cruz Aiman](https://open.spotify.com/artist/5kXfKycKZbS90vKTz62joF) | [Student of the Year \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy) | 4:22 |
-| 27 | [Jawan Title Track](https://open.spotify.com/track/0lZhDg6xVjHLwL5zYd6nkL) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Jawan](https://open.spotify.com/album/3WLJmMZUeDOuERFAk1Mxs6) | 3:08 |
-| 28 | [Zinda](https://open.spotify.com/track/7vZz8oJ5qAqB9MghufRK5k) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW) | [Bhaag Milkha Bhaag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4) | 3:31 |
+| 27 | [Zinda](https://open.spotify.com/track/7vZz8oJ5qAqB9MghufRK5k) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW) | [Bhaag Milkha Bhaag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4) | 3:31 |
+| 28 | [Jawan Title Track](https://open.spotify.com/track/0lZhDg6xVjHLwL5zYd6nkL) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Jawan](https://open.spotify.com/album/3WLJmMZUeDOuERFAk1Mxs6) | 3:08 |
 | 29 | [Mauja Hi Mauja](https://open.spotify.com/track/2iXVckhPy7tP0wV9DvlrjZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13) | [Jab We Met](https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO) | 4:05 |
 | 30 | [Bom Diggy Diggy](https://open.spotify.com/track/1OACsTiYokI4NUgnMonSmt) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Jasmin Walia](https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 3:58 |
 | 31 | [She Move It Like](https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [ONE \(Original Never Ends\)](https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 49 | [Bhaag D.K\. Bose, Aandhi Aayi](https://open.spotify.com/track/1sxh0eqIb8ulYypPuq6ZRu) | [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Delhi Belly \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5InIzc3p2f9FRErhzNUPTi) | 4:01 |
 | 50 | [Khalibali](https://open.spotify.com/track/3JT0mVof65rIHpRZITwRx1) | [Shivam Pathak](https://open.spotify.com/artist/39nPl2OnVXyxuBApjXkGmj), [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC) | [Padmaavat](https://open.spotify.com/album/7mZB5aUcjoHfDKSQtDRXrf) | 4:18 |
 
-Snapshot ID: `MCw0MzE4ZWJhMDQ5NjRjNzUwOWRmZjgyNzM2NTYwNTIyODljODhkYWU3`
+Snapshot ID: `MCwyN2RkYjU5YmMxNDFkY2U5ZTY4NzQzMmQ5MDg0OTI3OTVmMzg2YWNj`

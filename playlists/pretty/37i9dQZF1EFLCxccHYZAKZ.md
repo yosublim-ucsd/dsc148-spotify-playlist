@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1fdoOFDGMefVqwAm1QFj8D">Natali Noor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315 likes - 34 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 316 likes - 34 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Places We Don't Know](https://open.spotify.com/track/3JrMXGfyYUlBNKrHe99Csy) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 3:24 |
 | 2 | [Lost & Found](https://open.spotify.com/track/5QyY3GbsJAJZrZlVLTQpay) | [Erlando](https://open.spotify.com/artist/5cuIDrzlgb5jGwLlRWYnAc), [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Lost & Found](https://open.spotify.com/album/5k8zsDqh0j89tukIFccej6) | 3:02 |
 | 3 | [Lightweight](https://open.spotify.com/track/2JXm9aNPEjD3AIyFf30tN9) | [Galavant](https://open.spotify.com/artist/7CsSec3NzFx2UipwF1APhu) | [Lightweight](https://open.spotify.com/album/0bP954c3tUo8kH4c3dpg0f) | 3:02 |
-| 4 | [Bother Me](https://open.spotify.com/track/08vsue6MN8pSTrroi4IhFx) | [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Bother Me](https://open.spotify.com/album/1iNpleGrkaShoSW2VLJt7C) | 3:03 |
-| 5 | [Juice](https://open.spotify.com/track/6y13QPTkGol87GyA7PpCWj) | [NO SIGNE](https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX) | [Juice](https://open.spotify.com/album/4xRTNQq8Liur3aYrGNnh4B) | 2:18 |
+| 4 | [Juice](https://open.spotify.com/track/6y13QPTkGol87GyA7PpCWj) | [NO SIGNE](https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX) | [Juice](https://open.spotify.com/album/4xRTNQq8Liur3aYrGNnh4B) | 2:18 |
+| 5 | [Bother Me](https://open.spotify.com/track/08vsue6MN8pSTrroi4IhFx) | [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Bother Me](https://open.spotify.com/album/1iNpleGrkaShoSW2VLJt7C) | 3:03 |
 | 6 | [Golden](https://open.spotify.com/track/4uIvIbeGjaLRVjGtxbIUUL) | [IZKO](https://open.spotify.com/artist/1BgmLUmytJuDy5CEzP7SL6), [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Golden](https://open.spotify.com/album/6uNPQgkGoW0XMZ55YFU0FO) | 2:16 |
 | 7 | [Policeman](https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Policeman](https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft) | 3:33 |
 | 8 | [Sundown](https://open.spotify.com/track/2GcFA2lRvsiq83UnWMGGeB) | [EAUXMAR](https://open.spotify.com/artist/6jjKAAi2ahf5gQ37k7rJya) | [Sundown](https://open.spotify.com/album/68gDsH0JmcQJhzu7cTaLZf) | 2:33 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 | 33 | [Avalanche](https://open.spotify.com/track/4GavDWsnBIP0Q9GfQkhvyD) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:08 |
 | 34 | [Cold Rush](https://open.spotify.com/track/0sfbJ6Eeq70PNGk4Rm8ns7) | [GOLDZBROUGH](https://open.spotify.com/artist/6vEDfcV5oesdmJzfTlidkz), [Bahareh](https://open.spotify.com/artist/3RbRHpD8ELMTsuEWGsUbiy) | [Cold Rush](https://open.spotify.com/album/2AVOS3JCamykZmbs5uQTUF) | 2:57 |
 
-Snapshot ID: `Mjg0NDQ0NjAsMDAwMDAwMDBkMDk5YjY2NjZmYjA4ODc4NjU5MTcxYjkyZWRkYjFiZg==`
+Snapshot ID: `Mjg0NDU5MDAsMDAwMDAwMDBkMjljN2Q5MTczYjEyMmZkOTFjZmYwM2I4MTYxNWI3Mw==`

@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 83074,
+  "num_followers": 83114,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGZiN2FkMzI0MjYyOTA3NDA5YjIzYzViOGRmNjFjN2VkNTdkZTkw",
+  "snapshot_id": "MCw5MjcyYTdkM2UyZTExYWVlZjJjOGYzMTYxNTZhY2I4ZDBiZGIyZTY3",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Couldn't Stand The Weather (Legacy Edition)",
-        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 478746,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/1kY6OOTBmRNzhYmu9xSH3a"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Kingfish",
         "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 248035,
       "name": "Outside Of This Town",
       "url": "https://open.spotify.com/track/1huWqmpiYksaPppQHLDhZP"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Couldn't Stand The Weather (Legacy Edition)",
+        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 478746,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/1kY6OOTBmRNzhYmu9xSH3a"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Suitcase",
-        "url": "https://open.spotify.com/album/39Sd7IZSx6vUejzS14bLV7"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 256493,
-      "name": "Life Is Beautiful",
-      "url": "https://open.spotify.com/track/3mtUR8aNUoMblqX49YzVF3"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "I'm Glad Trouble Don't Last Always",
         "url": "https://open.spotify.com/album/3Aa82CRCPN2MqLm0mMb41T"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 257586,
       "name": "I'm Glad Trouble Don't Last Always",
       "url": "https://open.spotify.com/track/3vV8nrwMDQQl5KIEQeEq9O"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Suitcase",
+        "url": "https://open.spotify.com/album/39Sd7IZSx6vUejzS14bLV7"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 256493,
+      "name": "Life Is Beautiful",
+      "url": "https://open.spotify.com/track/3mtUR8aNUoMblqX49YzVF3"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Please Don't Be Dead",
+        "url": "https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 217451,
+      "name": "Plastic Hamburgers",
+      "url": "https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Born To Play Guitar",
         "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 240493,
       "name": "Flesh & Bone (Dedicated to B.B. King) (with Van Morrison)",
       "url": "https://open.spotify.com/track/37mWDk2nTyx0eon0AkdOKQ"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Please Don't Be Dead",
-        "url": "https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 217451,
-      "name": "Plastic Hamburgers",
-      "url": "https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1375,22 +1375,6 @@
       "duration_ms": 316666,
       "name": "You Don't Want Me",
       "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Bring 'Em In",
-        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 317320,
-      "name": "What Kind Of Woman Is This?",
-      "url": "https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r"
     },
     {
       "added_at": "2022-11-03 15:55:35",
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Bring 'Em In",
+        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 317320,
+      "name": "What Kind Of Woman Is This?",
+      "url": "https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Power Of The Pontchartrain",
         "url": "https://open.spotify.com/album/0jfaR6Gbk36L1UF8ba8ufm"
       },
@@ -1545,6 +1545,22 @@
       "url": "https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke"
     },
     {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Kill Or Be Kind",
+        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 319253,
+      "name": "Bulletproof - Tangle Eye Mix",
+      "url": "https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs"
+    },
+    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Push The Blues Away",
@@ -1565,22 +1581,6 @@
       "url": "https://open.spotify.com/track/3cOKBor2QHIg1V9n7Mue5Q"
     },
     {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Kill Or Be Kind",
-        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 319253,
-      "name": "Bulletproof - Tangle Eye Mix",
-      "url": "https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs"
-    },
-    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Self Made Man",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2022-02-25 05:02:00",
       "album": {
-        "name": "That's What I Heard",
-        "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/2SWcIu27vvZHPxEHU3FDck"
       },
       "artists": [
         {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
         }
       ],
-      "duration_ms": 306533,
-      "name": "This Man",
-      "url": "https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg"
+      "duration_ms": 231880,
+      "name": "Signs, High Times",
+      "url": "https://open.spotify.com/track/2ugzSmr5FKy9AwBmTUkEiT"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2022-02-25 05:02:00",
       "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/2SWcIu27vvZHPxEHU3FDck"
+        "name": "That's What I Heard",
+        "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
       },
       "artists": [
         {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
         }
       ],
-      "duration_ms": 231880,
-      "name": "Signs, High Times",
-      "url": "https://open.spotify.com/track/2ugzSmr5FKy9AwBmTUkEiT"
+      "duration_ms": 306533,
+      "name": "This Man",
+      "url": "https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg"
     }
   ],
   "unique_name": "Blues Drive",

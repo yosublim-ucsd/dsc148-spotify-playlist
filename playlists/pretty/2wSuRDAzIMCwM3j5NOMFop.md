@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2wSuRDAzIMCwM3j5NOMFop.md) - [plain]
 
 > Fucked up and evil\. What an absolute bop.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 31 songs - 1 hr 34 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 32 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,5 +39,6 @@ pretty - [cumulative](/playlists/cumulative/2wSuRDAzIMCwM3j5NOMFop.md) - [plain]
 | 29 | [Collapsing Stars](https://open.spotify.com/track/1vpVrdNn76ngdvRVeHkq1J) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Dilaudid](https://open.spotify.com/album/4GNwzGVBNay2j9eLsGks00) | 2:29 |
 | 30 | [Rejoice](https://open.spotify.com/track/3oIQfBgaruqihkCHokRQZ0) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [People Who Can Eat People Are the Luckiest People in the World](https://open.spotify.com/album/2jRdTNGZzb3drtFRYaUpFE) | 3:15 |
 | 31 | [Kokopelli Face Tattoo](https://open.spotify.com/track/0buoU0wlD10RS9cyCv77WQ) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Christmas Island](https://open.spotify.com/album/6U05Hnv3V8sm93lErI9rNA) | 3:19 |
+| 32 | [Clean](https://open.spotify.com/track/6jcHx4jket9IUINO1lzhvQ) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Jamie Lidell](https://open.spotify.com/artist/6ASGmWCYupa0CXGtsDdYSI) | [2.0](https://open.spotify.com/album/3a8kwdfe4ctEfqe1vXGiBP) | 3:21 |
 
-Snapshot ID: `MzcsNTExMDYzMzNhYjBhZjRmMzk0NTc0OWNlZDlhNDgzMmRkMTgyYjdiMQ==`
+Snapshot ID: `MzgsNzdhMTEwZWVhMDUxNGZmMGQ4NzhhZjU4NzczNjE2YjEzNDcxY2Y4NQ==`

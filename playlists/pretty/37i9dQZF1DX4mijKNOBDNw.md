@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 
 > Si tocan a una respondemos todas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,893 likes - 65 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,898 likes - 65 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 9 | [Antipatriarca](https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vengo](https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua) | 3:04 |
 | 10 | [Flower Power](https://open.spotify.com/track/321lmohAdDLovCHMWxwKWU) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Ayo](https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB) | 3:18 |
 | 11 | [Llora Llora](https://open.spotify.com/track/19i39fA9niRDjcAs3Gf5VO) | [La Catrina Son System](https://open.spotify.com/artist/2b4o3i2FEUYEVFmi72Jxnh), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [Llora Llora](https://open.spotify.com/album/7HVuTWgBKBnJqLTskIrcxQ) | 4:13 |
-| 12 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 |
-| 13 | [Ni Una Menos](https://open.spotify.com/track/11UL8736NPiJSdCiezulQp) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Ni Una Menos](https://open.spotify.com/album/2Ad42MuUjsRZFpIsPnGCkC) | 2:34 |
+| 12 | [Ni Una Menos](https://open.spotify.com/track/11UL8736NPiJSdCiezulQp) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Ni Una Menos](https://open.spotify.com/album/2Ad42MuUjsRZFpIsPnGCkC) | 2:34 |
+| 13 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 |
 | 14 | [Faroles](https://open.spotify.com/track/4eh4Et24YVZ97mCumJe0IK) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Faroles](https://open.spotify.com/album/6E2eSxShTgMRZi3WKjJev0) | 2:58 |
 | 15 | [La Fortaleza](https://open.spotify.com/track/1VXPKfgMIAn95PFK4TlyDD) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [La Fortaleza](https://open.spotify.com/album/73V6n1hTD93z5VVOm8eRb9) | 3:55 |
 | 16 | [Lisístrata](https://open.spotify.com/track/0zU49ugNNhip8mmrleoOzQ) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Anclas](https://open.spotify.com/album/7qaPfXArvKUdTbC2qCwIgG) | 3:57 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 64 | [La Manada](https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [La Manada](https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK) | 2:44 |
 | 65 | [Tenemos Voz](https://open.spotify.com/track/6f8kxxFWgxesyVsrbHn0Sh) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7), [Soom T](https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu) | [SUELTA](https://open.spotify.com/album/4gya2mygWkDnmtzHDaWKlP) | 3:43 |
 
-Snapshot ID: `MCwyMTJjNjE1Njk2ZjFmNDE3MjQwMGNlZGUyZjczMTljZDBhNjc2YTRm`
+Snapshot ID: `MCwwMzUzN2QyNGE5MmFiYjg4Mzc4MzQ1ZGQ0NmQ1M2I1ZWYzZjBjNTQ2`

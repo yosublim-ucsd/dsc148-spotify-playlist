@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,015 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,081 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 40 | [Ma Jo Lo](https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Ma Jo Lo](https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk) | 2:27 |
 | 41 | [Not Today Mate](https://open.spotify.com/track/5UQhTk7Pn3ZpXrqnYgJpPm) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Not Today Mate](https://open.spotify.com/album/7K0pacPIm9EqjXkX5NUhMQ) | 3:37 |
 | 42 | [Passion Controller](https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Passion Controller](https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL) | 2:52 |
-| 43 | [Swimming](https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Swimming](https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD) | 4:02 |
-| 44 | [fuego \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [i can't go outside](https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU) | 4:08 |
+| 43 | [fuego \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [i can't go outside](https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU) | 4:08 |
+| 44 | [Swimming](https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Swimming](https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD) | 4:02 |
 | 45 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 |
 | 46 | [Nightrider](https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Nightrider](https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l) | 5:00 |
 | 47 | [Watch Your Step \(Harvey Sutherland Remix\)](https://open.spotify.com/track/7G24eVWGQFcDP5DxXGgCSj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [ENERGY \(Special Edition\)](https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz) | 3:50 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [I Don't Wanna Lose You \- Edit](https://open.spotify.com/track/182XaJsxNfIeVXPAvBxHPp) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Olivia Louise](https://open.spotify.com/artist/6E1v7RmEYvZIvhauy9v0sd) | [Girls FM](https://open.spotify.com/album/7clnPpJ3KkLh5GWwzNNWF8) | 3:14 |
 | 70 | [FVR105 \- p\-rallel Remix](https://open.spotify.com/track/5F4jNQAtcorOBctGgpcjNh) | [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Bone Slim](https://open.spotify.com/artist/5VoreVetRqMEFui6KpGdt2), [Lorenzorsv](https://open.spotify.com/artist/6ikQz0CCwjFMtT7Hzxn9mY), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [FVR105 \(p\-rallel Remix\)](https://open.spotify.com/album/6LMCxZc1m2uTJ1ZSNwgjYz) | 3:13 |
 
-Snapshot ID: `MCwwNGVlODg1ZDIxMDQ4ZjdlNTkxNmJkMzEwOThjNGY0MjFiYjhkYzgx`
+Snapshot ID: `MCw5YjM2Y2QzOGNhZmI3OWU1OGMzZWIxODI2NDc0ZDk0NjZlMWVhMjY3`

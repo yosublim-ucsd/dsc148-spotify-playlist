@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-117 songs - 6 hr 42 min
+118 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Dancing In The Moonlight](https://open.spotify.com/track/2Sgpc25tD8P8ms8ObMpMNb) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Dancing In The Moonlight](https://open.spotify.com/album/1kdFElDomJapvUpjvpwo5c) | 2:55 | 2024-01-11 |  |
 | [Day & Night](https://open.spotify.com/track/7B2RswVcMbBs70dFyxVGak) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Opening Soon](https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb) | 4:03 | 2023-09-28 | 2024-01-19 |
 | [Diamond](https://open.spotify.com/track/172M4kIkFD7k0B3Q8DH35U) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Diamond](https://open.spotify.com/album/3o28lmmD2GQZDR2hPECUD5) | 3:19 | 2023-10-05 | 2023-11-19 |
-| [Diamond](https://open.spotify.com/track/5IZNEUIwLYzxZWOKwkv688) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Anna](https://open.spotify.com/album/5YQToGEsFBM6QxkX75FMH7) | 3:19 | 2023-11-16 |  |
+| [Diamond](https://open.spotify.com/track/5IZNEUIwLYzxZWOKwkv688) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Anna](https://open.spotify.com/album/5YQToGEsFBM6QxkX75FMH7) | 3:19 | 2023-11-16 | 2024-02-01 |
+| [Diamond](https://open.spotify.com/track/5utqrfDA2ve8iICTFyr9ZR) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Magic](https://open.spotify.com/album/0vianSZIqgQJmYZJBHMwLt) | 3:19 | 2024-01-25 |  |
 | [Diamond Eyes](https://open.spotify.com/track/3n6kchzbZ6rjTknNRKLm13) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Diamond Eyes](https://open.spotify.com/album/7vYrePyfcghvrclajq3l4O) | 3:37 | 2023-09-28 | 2023-10-27 |
 | [Discoproof](https://open.spotify.com/track/0CQcUsyDEfKsHWDDF3h2C1) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Discoproof](https://open.spotify.com/album/3uMU0ZiDp3MDBypUiVKGYh) | 3:52 | 2023-09-28 | 2024-01-05 |
 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 | 2023-09-28 | 2024-01-12 |

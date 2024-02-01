@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 2812,
+  "2024-02-01": 2814,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6\">Mariah Carey</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Mariah Carey",
@@ -68,6 +68,24 @@
     },
     {
       "album": {
+        "name": "Caution",
+        "url": "https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187773,
+      "name": "A No No",
+      "url": "https://open.spotify.com/track/2Q0JkTzFXrU2BbnQT7tzIR"
+    },
+    {
+      "album": {
         "name": "A No No",
         "url": "https://open.spotify.com/album/1BGhU5g6fD3rEwtkdmyJWn"
       },
@@ -79,7 +97,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 192063,
       "name": "A No No",
       "url": "https://open.spotify.com/track/7EK3YFQ4lhucpRvpsGLuUU"
@@ -241,10 +259,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 257109,
       "name": "Always Be My Baby",
       "url": "https://open.spotify.com/track/3nbePk0F2PopsHoEWyCLm8"
+    },
+    {
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258133,
+      "name": "Always Be My Baby",
+      "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
     },
     {
       "album": {
@@ -365,10 +401,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 255914,
       "name": "Anytime You Need a Friend",
       "url": "https://open.spotify.com/track/0HT91QiVF0qfadJnUvEftC"
+    },
+    {
+      "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265424,
+      "name": "Anytime You Need a Friend",
+      "url": "https://open.spotify.com/track/6tsBYvprVAntHx8rQLedqn"
     },
     {
       "album": {
@@ -561,10 +615,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 273933,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/3hp4ojt7tHLWwz6SaR7vkw"
+    },
+    {
+      "album": {
+        "name": "Butterfly (Official Video)",
+        "url": "https://open.spotify.com/album/0gYyiLi8z3airVpcs4ZRwX"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274880,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/2kIWQj4Z1pfxc8FFsEitRt"
     },
     {
       "album": {
@@ -1901,10 +1973,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 257514,
       "name": "I Don't Wanna Cry",
       "url": "https://open.spotify.com/track/2zaCH0OEf16SamTp7mjkNK"
+    },
+    {
+      "album": {
+        "name": "Mariah Carey",
+        "url": "https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288826,
+      "name": "I Don't Wanna Cry",
+      "url": "https://open.spotify.com/track/1hFtJ5rV3aAm58ErijHdFO"
     },
     {
       "album": {
@@ -2169,10 +2259,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 239800,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/7IzurnmQLvZmMDJcpITUyt"
+    },
+    {
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/25IaDozrD9sZqL8e6NJcvO"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244671,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/6Dus3vfzEG6AJMsPpcuSp3"
     },
     {
       "album": {
@@ -3182,6 +3290,24 @@
     },
     {
       "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266933,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT"
+    },
+    {
+      "album": {
         "name": "O Holy Night (Official Video)",
         "url": "https://open.spotify.com/album/3X702aiXdEAc4GZdAlTFOi"
       },
@@ -3193,7 +3319,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 288213,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/5azkZMilI4gbDfVTLEH2qS"
@@ -4467,10 +4593,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 213226,
       "name": "Underneath the Stars",
       "url": "https://open.spotify.com/track/1kkbUvmqZiNmWCR9TLd4tO"
+    },
+    {
+      "album": {
+        "name": "Underneath the Stars (Official Music Video)",
+        "url": "https://open.spotify.com/album/2ftg393rr5MLAuBo7jTCQY"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213653,
+      "name": "Underneath the Stars",
+      "url": "https://open.spotify.com/track/1yH40h8bVmlsAvy6dRW4uF"
     },
     {
       "album": {

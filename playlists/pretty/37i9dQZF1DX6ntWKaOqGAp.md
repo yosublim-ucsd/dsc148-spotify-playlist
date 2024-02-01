@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > The biggest Japanese rock hits right now\.  Cover: SUPER BEAVER　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,983 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,103 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 73 | [インビジブル](https://open.spotify.com/track/2Vn3cY3C0kv40G0jqnwknc) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [インビジブル](https://open.spotify.com/album/2OH56POP2QHcbk6mJfnvvy) | 5:01 |
 | 74 | [今世紀最大の夢](https://open.spotify.com/track/7LoraRHT6Un4WbAoiBVtYV) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [今世紀最大の夢](https://open.spotify.com/album/1kpFuWgqpwrpXOXaDxVyua) | 5:10 |
 | 75 | [Love Song ga Iranai Kimi e](https://open.spotify.com/track/1JckJKUfnd4Xbkh7xfAk8c) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Love Song ga Iranai Kimi e](https://open.spotify.com/album/4jnUmf2eZu1fO3Pel9LwhN) | 3:43 |
-| 76 | [こがれ](https://open.spotify.com/track/1UpRK1N1DGTYSLaLmpdZw2) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [音生 \-onsei\-](https://open.spotify.com/album/684jExc4XxRfjR7na7l7sr) | 3:49 |
+| 76 | [Kogare](https://open.spotify.com/track/3n3yRUvDTKscIxwnYG7t8S) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [onsei](https://open.spotify.com/album/17JswaRY80Z0aoRiBz3V2N) | 3:49 |
 | 77 | [Love melts into the marble ocean](https://open.spotify.com/track/2XHZBO4WZFfPiy4tpeOndd) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [A melody that flies beyond time](https://open.spotify.com/album/5jxccF7FKF9shTKQAd5MdI) | 3:02 |
 | 78 | [Them Us You Me](https://open.spotify.com/track/3KHBNhUmAoyb3AEbWgVYjd) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Them Us You Me](https://open.spotify.com/album/2Hvm2ruIBqU7Hkc6NANCkC) | 2:43 |
 | 79 | [SONG](https://open.spotify.com/track/2ymS78X5VTuW7aWlULYn6C) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [be with you](https://open.spotify.com/album/6A2VRRwE1H5yEykoN8T1Zs) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [ハイウェイ](https://open.spotify.com/track/5wHYhnEjPyqlsHuzW6vCeK) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [ハイウェイ](https://open.spotify.com/album/1uG3yhVOQ21x9wAqBuPR9d) | 4:00 |
 | 100 | [烏托邦](https://open.spotify.com/track/5TfKLAw45SuHeCTN6weP3M) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [烏托邦](https://open.spotify.com/album/3NMi4NhUlJtSnbS7krwvAg) | 5:14 |
 
-Snapshot ID: `MCw1YzZlMzVhZWUxOTVkY2ViYTAzMTU4YTM3N2UwZjdmM2ViYzliNDhi`
+Snapshot ID: `MCw3YmE1YzkxYjhhMGI1ZWZjYWQ5OTM2NzI4NWU4ZmVjMjcwOWY1ZTBj`

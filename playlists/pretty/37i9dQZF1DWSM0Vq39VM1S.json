@@ -1,12 +1,12 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e.",
-  "num_followers": 161323,
+  "num_followers": 161388,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmMyYTFiODlhNDYzYWRjOWIzZjAyN2I0YzI5MTUzNmFkNzJjZWEx",
+  "snapshot_id": "MCwyOWMzOGU2YzI2ZGMzMzQ0MTBjMWZjZDNhOWI3Mjc1YTFjZWZjMzRm",
   "tracks": [
     {
       "added_at": "2023-12-13 12:56:56",
@@ -191,6 +191,22 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 216560,
+      "name": "When You Love Someone",
+      "url": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
         "name": "folklore (deluxe version)",
         "url": "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 285640,
       "name": "exile (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/5S4aYQAJOwJMAamANWlICO"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "When You Love Someone",
-      "url": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp"
     },
     {
       "added_at": "2023-12-13 12:56:56",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
-        "name": "Everglow",
-        "url": "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 227506,
-      "name": "Everglow - Edit",
-      "url": "https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
         "name": "Carrie & Lowell",
         "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 284130,
       "name": "The Only Thing",
       "url": "https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
+        "name": "Everglow",
+        "url": "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 227506,
+      "name": "Everglow - Edit",
+      "url": "https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE"
     },
     {
       "added_at": "2023-12-13 12:56:56",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
-        "name": "Home Again",
-        "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "Home Again",
-      "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
         "name": "Going To Where The Tea Trees Are",
         "url": "https://open.spotify.com/album/3O7eRQC2IlamsrPm9oFKFU"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 217640,
       "name": "The Story of the Impossible",
       "url": "https://open.spotify.com/track/17mmpDTAuG6DLzqmUKl8w6"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
+        "name": "Home Again",
+        "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
     },
     {
       "added_at": "2023-12-13 12:56:56",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
-        "name": "Fly Like an Eagle",
-        "url": "https://open.spotify.com/album/3YJD5f1gXAZo08syETdfmq"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 272586,
-      "name": "Fly Like an Eagle",
-      "url": "https://open.spotify.com/track/0SiS1Iud2fNazdtccUxE7m"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
         "name": "Winter",
         "url": "https://open.spotify.com/album/1qqUyfL75uIRPAzziRaLFe"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 199400,
       "name": "Flaws",
       "url": "https://open.spotify.com/track/7kGSlff8LYntGZQVk65liB"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
+        "name": "Fly Like an Eagle",
+        "url": "https://open.spotify.com/album/3YJD5f1gXAZo08syETdfmq"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 272586,
+      "name": "Fly Like an Eagle",
+      "url": "https://open.spotify.com/track/0SiS1Iud2fNazdtccUxE7m"
     },
     {
       "added_at": "2023-12-13 12:56:56",

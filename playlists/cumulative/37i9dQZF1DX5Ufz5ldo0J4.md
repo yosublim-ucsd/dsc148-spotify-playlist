@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-296 songs - 13 hr 52 min
+299 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [climbing](https://open.spotify.com/track/05bXLSRcvUBWiHS5nw6MPj) | [Cosy Kittens](https://open.spotify.com/artist/3Qhm77fx1BlSuwusIYpYxY) | [climbing](https://open.spotify.com/album/1MvnFkJitq1T7Tgnihwagq) | 2:05 | 2023-11-24 |  |
 | [Close your eyes](https://open.spotify.com/track/53Mz4V3XL02YupbVnJKfMl) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Close your eyes](https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0) | 3:12 | 2021-12-10 | 2022-08-13 |
 | [Clouds](https://open.spotify.com/track/6za1vOLEcxfVRs9xFTNGfS) | [Vista Hierro](https://open.spotify.com/artist/0CALPbZtkitbpbqDjU6Ddp) | [An Evening Sky](https://open.spotify.com/album/3au3MZf62Yy8cm4OknYbWh) | 2:32 | 2022-12-02 |  |
+| [Colorful](https://open.spotify.com/track/4d5aVhwr2g0EvqQdZcqk9C) | [Mundo Suave](https://open.spotify.com/artist/7mpuCc5RJrH5047X6M7Rcd) | [Colorful](https://open.spotify.com/album/0rYsc8w4eKRKd5wLi72AWT) | 3:09 | 2024-01-31 |  |
 | [Corinne](https://open.spotify.com/track/5C7NbwyZvvGVu8wTxzgg8p) | [Free Arrows](https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK) | [Corinne](https://open.spotify.com/album/1rZC9cRFPOo0ouBM7fVMSR) | 2:37 | 2022-02-25 |  |
 | [Cosa Succede Se](https://open.spotify.com/track/00Z7iLsR10x9y00gAZ2Nx3) | [Lucio Francesco](https://open.spotify.com/artist/6SmEyMlUWcw5nzD9YmCCRN) | [Pensieri](https://open.spotify.com/album/12vugt6x4fyG5Uz1enF7zP) | 3:03 | 2021-12-10 |  |
 | [Counting Days](https://open.spotify.com/track/6ICbjz9nRT7tRGDrkabqc6) | [Twilight Time](https://open.spotify.com/artist/3TMpH9YDPUAnGeC5oEtq21) | [Counting Days](https://open.spotify.com/album/6XuscYT9AD9Q45AbvswZVA) | 2:37 | 2022-11-11 |  |
@@ -211,6 +212,7 @@
 | [Qhov Cua](https://open.spotify.com/track/4dvLRtGX5cGeBjVQE8CGvu) | [Rufus Odobata](https://open.spotify.com/artist/5x7BmkqNC3iDXqN4PvDwdK) | [Qhov Cua](https://open.spotify.com/album/3as6EwVglrYWsSbXDYr8wE) | 3:21 | 2023-10-06 |  |
 | [Quartz](https://open.spotify.com/track/6fEgQLmEhvE5Y04aldWGyd) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Gemstones, Vol\. 6](https://open.spotify.com/album/4ca7z1pgOg98DEiailChTn) | 2:36 | 2021-12-10 |  |
 | [Quietism](https://open.spotify.com/track/2elxb3dMZkZPtS6jqE6nRP) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Quietism](https://open.spotify.com/album/74n9JKT7nUeShC9rJWKaoM) | 2:43 | 2023-04-28 |  |
+| [Quietude](https://open.spotify.com/track/5gHgNdqNDpPWdFnPp5RAdo) | [Mind Matters](https://open.spotify.com/artist/266MOuapHVsPkInxTMC8wO) | [Quietude](https://open.spotify.com/album/62Xuc4vGeWKWxx2Phv60Ld) | 3:48 | 2024-01-31 |  |
 | [Ready \(Eventide\)](https://open.spotify.com/track/3TkZqdoFUtauvCxBsgNglY) | [Adrian Disch](https://open.spotify.com/artist/48EcVRzDBk0MSyRat8Blte) | [Ready \(Eventide\)](https://open.spotify.com/album/2WwbwLqaikwVbdzthgMYps) | 4:51 | 2021-12-10 | 2022-12-03 |
 | [Reflection of the Unknown](https://open.spotify.com/track/3ju7ioziNTBPy8TvY31Jqb) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Reflection of the Unknown](https://open.spotify.com/album/2sEt3v9MeWzhFfQR0Qy8yD) | 3:03 | 2021-12-10 |  |
 | [Relief](https://open.spotify.com/track/0tCTXGCsD8wgeLtYQ1b5H1) | [Florian Beck](https://open.spotify.com/artist/7niY9S79C2uZMphA38wXl9) | [Relief](https://open.spotify.com/album/5Gk1eWQHJU6mJEuwGADs2f) | 1:44 | 2021-12-10 | 2023-07-29 |
@@ -224,6 +226,7 @@
 | [Scared To Lose Someone](https://open.spotify.com/track/5BRBfTf0rRIfJgXVacS6cL) | [Bryn Williams](https://open.spotify.com/artist/2EYQUBVJqp5CH3lOSj5FLJ) | [Scared To Lose Someone](https://open.spotify.com/album/3jrXoHU10DsH3EFAuIK9Bo) | 2:13 | 2021-12-10 | 2022-08-13 |
 | [Scarlet](https://open.spotify.com/track/2cIZnj2au400srT96TbOUO) | [Antonella Schiavone](https://open.spotify.com/artist/66UPdA7Hmxuf3JpXWWxh4s) | [Scarlet](https://open.spotify.com/album/5xlxpmwsMshrHl8BP5gYDe) | 1:42 | 2021-12-10 | 2023-07-29 |
 | [Schwebend](https://open.spotify.com/track/775dmuIRQojrplsns8VKen) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Schwebend](https://open.spotify.com/album/6vkRKQjpupuv2XcEREDuLM) | 3:38 | 2021-12-10 |  |
+| [Sea Of Clouds](https://open.spotify.com/track/5Wz7VYgIV62O8IlKOoOsNT) | [Convallaria](https://open.spotify.com/artist/2LjyHW2buOSieEi3QG4jM4) | [Sea Of Clouds](https://open.spotify.com/album/5TgbesbRbZR0Y9cHexGQMC) | 2:59 | 2024-01-31 |  |
 | [Serenity](https://open.spotify.com/track/0Tan0vrdENegJ15DutFCxT) | [Songs Of](https://open.spotify.com/artist/5RPFxr1DcmfenWIysgm1gl) | [Symmetry](https://open.spotify.com/album/39yRp0HHmALRLzIN8nJNl5) | 2:45 | 2021-12-10 | 2023-02-18 |
 | [Serenity](https://open.spotify.com/track/3hRHtzo5i6J7rKK0g6iite) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Serenity](https://open.spotify.com/album/3PzVxjrkJDlSO4t9OXMhw2) | 2:47 | 2021-12-10 | 2022-08-13 |
 | [Shapeless](https://open.spotify.com/track/4vJz9yMS7APKcXLtTVEJDE) | [Delawares](https://open.spotify.com/artist/3gvjsh2EulaYf5hIlS7Lk1) | [Shapeless](https://open.spotify.com/album/4rXz811jiNhlyTQKJRi5kE) | 2:43 | 2021-12-10 |  |

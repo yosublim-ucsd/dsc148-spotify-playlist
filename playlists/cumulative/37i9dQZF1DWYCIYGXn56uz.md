@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Valerio Mazzei
 
-327 songs - 15 hr 3 min
+328 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Favole all'alba](https://open.spotify.com/track/643Xnq3NRexYXtXdlFeiBf) | [Coron](https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax) | [Favole all'alba](https://open.spotify.com/album/1Ibtmefy3hsMJYJjB9jiOE) | 2:50 | 2023-04-27 | 2023-05-19 |
 | [Felicemente Triste](https://open.spotify.com/track/4rPqz2otjZ7RMfKAGBTtCB) | [Crytical](https://open.spotify.com/artist/1zcq8tjytfCbpj2VHmGfck) | [Felicemente Triste](https://open.spotify.com/album/3CwgGP5ayBvWOhw7irCh6s) | 2:56 | 2023-07-13 | 2023-07-28 |
 | [Fermarmi](https://open.spotify.com/track/7eW2y4eObpVw8WPvB3ioRb) | [Diego Lazzari](https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH), [Natasha](https://open.spotify.com/artist/2pxZIannUq9lCH9ZEQoZZy) | [Fermarmi](https://open.spotify.com/album/3pt3ZOOOEkkIl711tXiYwQ) | 2:26 | 2023-11-16 | 2023-12-08 |
-| [Fila indiana](https://open.spotify.com/track/2WTgfEZW6gYWhHCMkn4lMc) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Fila indiana](https://open.spotify.com/album/2Dy8cBZkLwkAQJGUls25Hb) | 3:13 | 2023-11-30 |  |
+| [Fila indiana](https://open.spotify.com/track/1H36kJUqLOHLSL98XQBRFU) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Fila indiana](https://open.spotify.com/album/68GC0n66xwvHhuAL8aJ9rM) | 3:13 | 2024-01-26 |  |
+| [Fila indiana](https://open.spotify.com/track/2WTgfEZW6gYWhHCMkn4lMc) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Fila indiana](https://open.spotify.com/album/2Dy8cBZkLwkAQJGUls25Hb) | 3:13 | 2023-11-30 | 2024-02-01 |
 | [Finale Aperto \(feat\. Albe\)](https://open.spotify.com/track/5rPGJdfVxKCcVCjhZYeWQb) | [Crytical](https://open.spotify.com/artist/1zcq8tjytfCbpj2VHmGfck), [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Finale Aperto \(feat\. Albe\)](https://open.spotify.com/album/19bX6D0fiIYm01QxeNPehJ) | 3:01 | 2024-01-04 | 2024-01-19 |
 | [Fine Settembre](https://open.spotify.com/track/6hzdvxKpOM6Ot7CEPvfa9a) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza \(Deluxe\)](https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q) | 3:31 | 2023-09-28 | 2023-11-17 |
 | [FINO ALLE 6](https://open.spotify.com/track/3tXM57Khcgj7Az8sW7pWnA) | [Astol](https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy) | [FINO ALLE 6](https://open.spotify.com/album/4xQGwlG5pBrTxg3gsRglDX) | 2:50 | 2023-12-15 |  |
@@ -274,7 +275,7 @@
 | [SISSI](https://open.spotify.com/track/64Rux1qrtoeSTrRxa0mzcI) | [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u) | [SISSI](https://open.spotify.com/album/2g0DfpvEt5BOEUb7aCl4Vo) | 2:17 | 2023-06-29 | 2023-07-21 |
 | [SOBRIO](https://open.spotify.com/track/1eFWY1K9xr166GR7BZeJnp) | [Benji](https://open.spotify.com/artist/1TUO8DpCpHhmB4gYdLqLOF) | [SOBRIO](https://open.spotify.com/album/4mY1mXs3WPhQFlUuBuKvw6) | 2:15 | 2023-10-12 | 2023-10-27 |
 | [Sofia](https://open.spotify.com/track/3wrqXvJRtMVG37enN2Z7D1) | [Valerio Mazzei](https://open.spotify.com/artist/2gjd7UN8wYnqF8ZBKqxffi) | [Sofia](https://open.spotify.com/album/0vCpD8rDYx21pokKpP74L0) | 2:16 | 2023-09-21 | 2023-11-10 |
-| [sofia </3](https://open.spotify.com/track/5GiNMKuih6zryMHANHrS4U) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [sofia </3](https://open.spotify.com/album/1o4hP3VBIoS2OwvIIrw2xz) | 2:55 | 2023-09-28 |  |
+| [Sofia </3](https://open.spotify.com/track/5GiNMKuih6zryMHANHrS4U) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Sofia </3](https://open.spotify.com/album/1o4hP3VBIoS2OwvIIrw2xz) | 2:55 | 2023-09-28 |  |
 | [sogni \- remix](https://open.spotify.com/track/0qXWvDBV3UvsPZsICdYG9S) | [ALCHIMIA](https://open.spotify.com/artist/3AWIge7kWrUwlEsJcejeg4), [MARTE](https://open.spotify.com/artist/38bhsPsHWvbUdlMjnBnuJi), [ICARO](https://open.spotify.com/artist/3ZafdwEd4DFmPKwGpUOtgS), [DANDY TURNER](https://open.spotify.com/artist/3PEzbnNp2kOuNcL0Z19o0w) | [equilibrio \(deluxe\)](https://open.spotify.com/album/3ZNhQlkrhbw7aHLp9qA0pV) | 2:52 | 2023-10-12 | 2023-11-10 |
 | [Sogni più grandi](https://open.spotify.com/track/66iaIDwL6Ud7g30xcdjGcY) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Sitcom triste](https://open.spotify.com/album/4s536NBIBRn8q829pTkzn6) | 2:43 | 2023-10-19 | 2023-11-10 |
 | [SOGNO](https://open.spotify.com/track/3nYJsu8sOEhD0PWJPDttWn) | [Lil Zeff](https://open.spotify.com/artist/3NA2FHw8ieXbg4FHvShWL0), [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [SOGNO](https://open.spotify.com/album/1sqrJ50Bu6DKuuRNQE7pk7) | 2:40 | 2023-06-01 | 2023-06-30 |

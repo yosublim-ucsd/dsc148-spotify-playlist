@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 
 > Música groovera, for the true Funk Soldiers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,927 likes - 94 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,934 likes - 94 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,18 +48,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 38 | [Pick Up On Your Line](https://open.spotify.com/track/2dM7ASP6qqUlDvAKnQSEgr) | [Jurassik Funk](https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0) | [Jurassik Funk](https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8) | 4:46 |
 | 39 | [Por el Funk](https://open.spotify.com/track/2cpDLDHAaFOwQ4tjI9BN9l) | [Dostrescinco](https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO) | [Por el Funk](https://open.spotify.com/album/1E5ueH8XpK3HUUoAwxHlnf) | 3:45 |
 | 40 | [Bienvenidos al Presente](https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ) | [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL) | [Bienvenidos al Presente](https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS) | 4:19 |
-| 41 | [Bésala](https://open.spotify.com/track/3IPmxzelbMUy6kdhfhSueF) | [De La Rivera](https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b) | [Family Game](https://open.spotify.com/album/5ERVTaDTdK8gCSMGH0K0s3) | 3:38 |
-| 42 | [Resistencia](https://open.spotify.com/track/0ZF0cMx6gnYIdRkNEZ4Kdn) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Resistencia](https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY) | 3:38 |
+| 41 | [Resistencia](https://open.spotify.com/track/0ZF0cMx6gnYIdRkNEZ4Kdn) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Resistencia](https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY) | 3:38 |
+| 42 | [Bésala](https://open.spotify.com/track/3IPmxzelbMUy6kdhfhSueF) | [De La Rivera](https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b) | [Family Game](https://open.spotify.com/album/5ERVTaDTdK8gCSMGH0K0s3) | 3:38 |
 | 43 | [Papi ¿Dónde Está El Funk?](https://open.spotify.com/track/2xsAvvob9qFtBiEI1SK76p) | [Los Tetas](https://open.spotify.com/artist/4yjiCh3gayolGLTCVpHojS) | [Latin Funk All\-Stars](https://open.spotify.com/album/1O5LoF8u5HvjPf54M9RS6A) | 5:50 |
 | 44 | [Baila el Funk](https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0) | [Kiddo Toto](https://open.spotify.com/artist/1Mj0XQhXbzIXfoWTN391N6), [Wirchi](https://open.spotify.com/artist/7xfNmsjjymUmtxwxATAIT1) | [RE$FRIADO](https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5) | 3:23 |
 | 45 | [El Cocinero](https://open.spotify.com/track/6herLkW2vgVBvtGXlGcAEG) | [Tapones de Punta](https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH) | [Metamorfosis](https://open.spotify.com/album/6fsrEl3P1Fj8ehM4XYkyiC) | 4:56 |
 | 46 | [Poppin](https://open.spotify.com/track/4y0BxbN4myQ0ty0mu0ZVty) | [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO), [Josefina Fiebelkorn](https://open.spotify.com/artist/5cTcXQ78LkQxxXNZcYyIiC), [Rojai](https://open.spotify.com/artist/2j6f7lxXOFnCcHVPcv9osR) | [Poppin](https://open.spotify.com/album/6NFHjrAmxBu1h3wqrZglVE) | 4:56 |
 | 47 | [Can't Fight The Funk](https://open.spotify.com/track/2osjZyMaTnWXNs8bp0qhkr) | [Doctorfunk](https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L) | [Prescription For Soul](https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE) | 4:01 |
-| 48 | [Sinestesia](https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a) | [Antes de Nacer](https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo) | [Sinestesia](https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT) | 4:27 |
-| 49 | [Lightning](https://open.spotify.com/track/3LBvCd7GSvDJYxeJpgcuAu) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Guacamole](https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl) | 4:39 |
+| 48 | [Lightning](https://open.spotify.com/track/3LBvCd7GSvDJYxeJpgcuAu) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Guacamole](https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl) | 4:39 |
+| 49 | [Sinestesia](https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a) | [Antes de Nacer](https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo) | [Sinestesia](https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT) | 4:27 |
 | 50 | [Sr\. A](https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr) | [Tapones de Punta](https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH) | [Sr\. A](https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok) | 3:33 |
-| 51 | [Ameba](https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe) | [Groovin' Bohemia](https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1) | [Groovin' Bohemia](https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI) | 7:25 |
-| 52 | [Hotel Boston](https://open.spotify.com/track/1xrDy9mzkA8D60wsQa2d9k) | [Funk´chula](https://open.spotify.com/artist/4sxtKd1hXg0d3VUWSux1Gq) | [Hotel Boston](https://open.spotify.com/album/6s2x7pj3jSr4q2CtVIlPg1) | 3:14 |
+| 51 | [Hotel Boston](https://open.spotify.com/track/1xrDy9mzkA8D60wsQa2d9k) | [Funk´chula](https://open.spotify.com/artist/4sxtKd1hXg0d3VUWSux1Gq) | [Hotel Boston](https://open.spotify.com/album/6s2x7pj3jSr4q2CtVIlPg1) | 3:14 |
+| 52 | [Ameba](https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe) | [Groovin' Bohemia](https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1) | [Groovin' Bohemia](https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI) | 7:25 |
 | 53 | [One Night](https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby) | [Núkuma](https://open.spotify.com/artist/52HtCVkBSfLDGRHlugmOlg) | [One Night](https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P) | 4:34 |
 | 54 | [Liviano Como el Viento](https://open.spotify.com/track/3rtUCQlFu2MUoiqiLB4tGR) | [De Kiruza](https://open.spotify.com/artist/4xH9kppPFTwGTtty82ZDfX) | [Musica Pa'l Mundo](https://open.spotify.com/album/1fFE1eKtIxh4ILklmzLoiv) | 4:53 |
 | 55 | [Flecha Verde](https://open.spotify.com/track/2qOap48YXxJbXkUBBTtg2p) | [Tapones de Punta](https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [Flecha Verde](https://open.spotify.com/album/3c1p52P7u2HB76AMZSVgE2) | 3:03 |
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 72 | [Pretérito Mujer](https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi) | [Warlock ARG](https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV) | [De Reviente](https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS) | 3:25 |
 | 73 | [Chicas on Fire](https://open.spotify.com/track/1OJTHnR95k4N0mNfYYkoFB) | [Shocklenders](https://open.spotify.com/artist/45F0w3u4aSG89gClIx4QIR) | [Chicas on Fire \- Single](https://open.spotify.com/album/19hyihRj65Z9jPhBAXaErH) | 4:00 |
 | 74 | [Maybe I'm Leo](https://open.spotify.com/track/7gqKNXv1P6oN0KAXnjxsLW) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Envés](https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK) | 6:18 |
-| 75 | [Asterisco](https://open.spotify.com/track/2jfEG3HUT7tCsmQGRzBxL2) | [La Negra Nieves](https://open.spotify.com/artist/0RL00Y8FR6izezA58JczU8) | [La Negra Nieves](https://open.spotify.com/album/6sPBV1t4LgqATxFjb6VPpj) | 4:19 |
-| 76 | [Solo por Hoy](https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn) | [Flor Lovaglio](https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU) | [Solo por Hoy](https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS) | 3:30 |
-| 77 | [Libre](https://open.spotify.com/track/2ithPgILb0VqnA8N944jHg) | [Spaghetti Western](https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc) | [Pangea](https://open.spotify.com/album/6atAn3qbgkoDZqeJW7qbj2) | 3:16 |
+| 75 | [Libre](https://open.spotify.com/track/2ithPgILb0VqnA8N944jHg) | [Spaghetti Western](https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc) | [Pangea](https://open.spotify.com/album/6atAn3qbgkoDZqeJW7qbj2) | 3:16 |
+| 76 | [Asterisco](https://open.spotify.com/track/2jfEG3HUT7tCsmQGRzBxL2) | [La Negra Nieves](https://open.spotify.com/artist/0RL00Y8FR6izezA58JczU8) | [La Negra Nieves](https://open.spotify.com/album/6sPBV1t4LgqATxFjb6VPpj) | 4:19 |
+| 77 | [Solo por Hoy](https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn) | [Flor Lovaglio](https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU) | [Solo por Hoy](https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS) | 3:30 |
 | 78 | [Acércame a Tu Piel](https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv) | [Santiago Soul](https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9) | [Acércame a Tu Piel](https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o) | 4:08 |
 | 79 | [Insomnia](https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN) | [Tony 70](https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv) | [Sudamericano](https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt) | 4:12 |
 | 80 | [Ahora](https://open.spotify.com/track/5fJf0XNVVyCXZDkkIhTkfI) | [Florencia Andrada](https://open.spotify.com/artist/3Yn6NUVSA13dcEZpw79Vd2) | [A Pesar de la Tormenta](https://open.spotify.com/album/4CMImKp9OiSozGXqoN6EdW) | 2:55 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 93 | [Twice](https://open.spotify.com/track/3VKdesoESiJOCohefJctj3) | [Willy Crook](https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD), [Funky Torinos](https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5) | [Twice](https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527) | 3:36 |
 | 94 | [Traffic \(Groovin' de bondi\)](https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP) | [Goro Wins](https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG) | [Super 8](https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw) | 4:30 |
 
-Snapshot ID: `MCw2MWU4NzY2MjJjODdkODMzOGFmZTkxZjkxZjQ1ZTA4Mzg0YTU0OGFl`
+Snapshot ID: `MCwxMGZiOTBkOTVkMzc1YzVjNTFkOWMzNDVmMzVkYzY4MmZmNzJmMDM4`

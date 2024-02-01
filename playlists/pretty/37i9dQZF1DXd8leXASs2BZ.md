@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 炒炒
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,785 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,799 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jimmy Choo](https://open.spotify.com/track/7sjMVTwRPodZm1uBmGDp5f) | [chao chao](https://open.spotify.com/artist/4MT9OmyrjZzGG7TZTd9yQ0) | [Back To The Past](https://open.spotify.com/album/6NR7ADnnNsu63b6pRYYpmB) | 2:51 |
 | 2 | [Hot Rodder](https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Hot Rodder](https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85) | 2:57 |
 | 3 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 |
-| 4 | [New](https://open.spotify.com/track/7yn7n43wCQbbZnTsaQ1IqM) | [OSAMI](https://open.spotify.com/artist/5wKEj2ICoq0Va6spZNvfTr) | [New](https://open.spotify.com/album/32JAOiXDhNpimgyjJv4fA8) | 2:13 |
+| 4 | [New](https://open.spotify.com/track/2GhyoDmyAJrrxAczVaBNYz) | [OSAMI](https://open.spotify.com/artist/5wKEj2ICoq0Va6spZNvfTr) | [New](https://open.spotify.com/album/2uCilGcs4sSm99a3QUXNjO) | 2:13 |
 | 5 | [CLOVER](https://open.spotify.com/track/3tEPX2fSLx5ugdhl0QpKng) | [Sound's Deli](https://open.spotify.com/artist/7dd46Nuonbm2HO2pZ8bdgB) | [CLOVER](https://open.spotify.com/album/1AKbPWDyGF2nTwVWuOsz7D) | 3:59 |
 | 6 | [Ourback$](https://open.spotify.com/track/6s5xRQwx0QEQ25VelBIeg7) | [Flat Line Classics](https://open.spotify.com/artist/1KHsC5YEyWGgskwjU4tVHa), [Ramza](https://open.spotify.com/artist/1Trmp5nqg46a1InSpynV72) | [Ourback$](https://open.spotify.com/album/7Cm4kX5BQgtG4MR6eIwueO) | 2:23 |
 | 7 | [Lake side city](https://open.spotify.com/track/3s3XTwWO1rNfvNBMoqVzMS) | [Lil Bell Dice](https://open.spotify.com/artist/30RS2ps9J6Z9rifPSY7vO1) | [Lake side city](https://open.spotify.com/album/5QPihqwlZNWDJ8qULCAFrZ) | 3:24 |
 | 8 | [Wasurenaide](https://open.spotify.com/track/3belJRGyvPLYgiCSXSpqO8) | [Shootz](https://open.spotify.com/artist/0gSHX4GAlRtZJ1tJhBv0SD), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [Wasurenaide](https://open.spotify.com/album/6hHfnpyuiYY1ZiP48U6HwI) | 4:13 |
 | 9 | [4 season](https://open.spotify.com/track/4MOMvm7jaxomexOj6GsUep) | [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG), [Campanella](https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ) | [4 season](https://open.spotify.com/album/5yV9fUvWMOgnjlEwyzOZeR) | 4:27 |
 | 10 | [Roar system](https://open.spotify.com/track/69ELkRb5OY5eIOrLqkQQWn) | [L.O.S.T](https://open.spotify.com/artist/1myOg2DWby1xHMKHDKRFPV) | [Youth After The Loss I](https://open.spotify.com/album/5HZQ3QkoyiroMYeWxYXpoy) | 2:39 |
-| 11 | [9](https://open.spotify.com/track/7LMhHAP4lFEOWYQEjVdpDj) | [IR](https://open.spotify.com/artist/0rGVRHYxdlIBwdcrHLusJ1), [Foux](https://open.spotify.com/artist/4z8fe4lPDIMVz7vzLRjmZl) | [NEVER ENOUGH](https://open.spotify.com/album/1Xsr63cgvaQgL66jfAHiy4) | 2:11 |
+| 11 | [9](https://open.spotify.com/track/6pY42vhU4JWOkBTJvpndrY) | [IR](https://open.spotify.com/artist/0rGVRHYxdlIBwdcrHLusJ1), [Foux](https://open.spotify.com/artist/4z8fe4lPDIMVz7vzLRjmZl) | [NEVER ENOUGH](https://open.spotify.com/album/4SZS9RZ90ANoMUCMUcuICm) | 2:11 |
 | 12 | [YOUNG STAR](https://open.spotify.com/track/3nEqGsw6zXb8v0SG2sdqMA) | [STACK THE PINK](https://open.spotify.com/artist/3NoSLTyqIc9Zonh4V7JtXt), [JETG](https://open.spotify.com/artist/6FaSoiqFCltldCA2mhk5cr) | [YOUNG STAR](https://open.spotify.com/album/78Xf36i1GMgGGw3sBgGNA4) | 2:31 |
 | 13 | [Scarlet](https://open.spotify.com/track/7tb84qAWR15yAfVAyvCZRJ) | [AssToro](https://open.spotify.com/artist/1XVnuN1WPe1VMw78MuYeic), [Cheshire Yums](https://open.spotify.com/artist/5s0GruaCwZPkYWVQQH2DrD) | [DuskAlwaysWithU](https://open.spotify.com/album/6ViwVwDlteRNlk7tnkz3QV) | 2:24 |
 | 14 | [Lovers & Friends](https://open.spotify.com/track/6YghSDBOpbzqFj7PymW93D) | [Ym3boi](https://open.spotify.com/artist/200hgruptiem9UnOCoU2fg) | [Lovers & Friends](https://open.spotify.com/album/2DD1Xy3CjEcsepJEBStfGg) | 2:33 |
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 27 | [Skrrrby Doo \- Delux](https://open.spotify.com/track/2Q8i83kzoXTCNPqx4DBcuu) | [Playsson](https://open.spotify.com/artist/53zqQpFYtM8Z0N1KYdNjmp), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [Real Trap 2 \(Delux\)](https://open.spotify.com/album/5pqqxStYqI2WwipOMtt0xe) | 2:12 |
 | 28 | [牛久](https://open.spotify.com/track/5hvbfRmhcKVB2iwgktJx8y) | [OGGYWEST](https://open.spotify.com/artist/5e9rwyw6ZPV26OvEy34xTA) | [牛久](https://open.spotify.com/album/5HCH5FD6Yg1vFhPuwNAmOM) | 3:05 |
 | 29 | [NARI\-A\-GARI](https://open.spotify.com/track/1qu08a7i7udyKuzl1vN8tY) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [NARI\-A\-GARI](https://open.spotify.com/album/62chPPgbtNWbyCoaU4AsyR) | 2:45 |
-| 30 | [New World](https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq) | 2:43 |
+| 30 | [New World](https://open.spotify.com/track/5d0901OV306utjv7ALii1O) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/3gcX6aWX8a6ZDbPtlVYvXA) | 2:43 |
 | 31 | [Depressed & Pills](https://open.spotify.com/track/4FStzexb85m932TwWU9KQl) | [Bardin Beatz](https://open.spotify.com/artist/0s2BMtj4o4ywNR9w5y58RA), [Nia Varan](https://open.spotify.com/artist/2cA365KqADueskrjJqSeBS) | [Depressed & Pills](https://open.spotify.com/album/3fqPHtHoAbYJSPWcrISn2a) | 2:20 |
 | 32 | [東京無宿](https://open.spotify.com/track/1jYypP5U3UPsDDNdOdDvrM) | [BLYY](https://open.spotify.com/artist/6yX4DVkXlVVzckdFcqer1p) | [東京無宿](https://open.spotify.com/album/4TyEPsSOhakTnVobdu9cb5) | 3:43 |
 | 33 | [SHUTTER](https://open.spotify.com/track/4nwjIQDGpH4NvPFo3GKCc3) | [HAEIN](https://open.spotify.com/artist/0J6VFsexG9sZcwf0Puvk6b), [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO) | [SHUTTER](https://open.spotify.com/album/0USRpNnbYKdqhqP1JSfXZt) | 2:57 |
 | 34 | [Seasons](https://open.spotify.com/track/6EXuxQV8wJVvIohejXwbPD) | [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Seasons](https://open.spotify.com/album/4B0qLdyNSpZc9lK7CsMdTn) | 1:10 |
 | 35 | [junkie](https://open.spotify.com/track/0w9YAJAe83rOwK8yKCURqN) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [junkie](https://open.spotify.com/album/1O51SwMFrdxhjgsSzC9Fsw) | 2:28 |
 | 36 | [TANSAN](https://open.spotify.com/track/5il0S6qRr96qEOBXEAQpGC) | [hyunis1000](https://open.spotify.com/artist/5kg1VfX43k7uJ1mLHXmkRF) | [TANSAN](https://open.spotify.com/album/6R4BuIHSxxbXtngI530fmy) | 3:06 |
-| 37 | [Struggle](https://open.spotify.com/track/6Sz1KD1qr9fPc87o7VlzeU) | [HOWL](https://open.spotify.com/artist/2r3dR8TwsBkYYUfNomo7um) | [VS ME](https://open.spotify.com/album/6QMPdzLL2CyKHVoFzRPVLD) | 2:48 |
+| 37 | [Struggle](https://open.spotify.com/track/2uorqw0spilyM6eFRq0RFE) | [HOWL](https://open.spotify.com/artist/2r3dR8TwsBkYYUfNomo7um) | [VS ME](https://open.spotify.com/album/3NJj1qqpb7E9n1r04OAr9k) | 2:48 |
 | 38 | [Xchain](https://open.spotify.com/track/6BNrTHvibxIU6rbx3mypMJ) | [Leisu](https://open.spotify.com/artist/2mGiNGTMNfU16D4PbtWFOj), [yamadagalzing](https://open.spotify.com/artist/5e1LtaEddZkGx57OPtYON5), [izolma](https://open.spotify.com/artist/5Cjc9g0qHNWfuQJlpCpAKM) | [Revive](https://open.spotify.com/album/1p5xD637v6Q6NEXSrXoL1B) | 2:54 |
 | 39 | [Shawty](https://open.spotify.com/track/2nJBguvAzTjPVzetzb0Tdw) | [NAZAL](https://open.spotify.com/artist/1YbyCB84VLDKqvPZrXb77l), [Pool](https://open.spotify.com/artist/682zJPYEeAySHdPs9uSV5E) | [Set up](https://open.spotify.com/album/3tv0jQBCjhFIJ8kxaAi7HR) | 3:03 |
 | 40 | [HACKER](https://open.spotify.com/track/3KrpwhS3sq0qQsRsFBpKnx) | [Kampf](https://open.spotify.com/artist/3Sg7AKFRL72rX0OXRfSrGK), [XAN](https://open.spotify.com/artist/604ByWe9PBAjkIyEarEz60) | [The Diary](https://open.spotify.com/album/0lWIcfSd06NzJ7e8qiY4fS) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [YAKINIKU, SUSHI](https://open.spotify.com/track/0HKwHQxyzVL3IWmn9reSgw) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [18stop](https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF) | [PLAY PURE 3](https://open.spotify.com/album/0Ae1o6q05ZzP47z7bW2UXZ) | 3:02 |
 | 100 | [Care free](https://open.spotify.com/track/7fAg5vKDq5jBOBpAoYExV6) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [XF MENEW](https://open.spotify.com/artist/3YF6gmNp1tjvTJp4MkLoWH) | [Care free](https://open.spotify.com/album/0DsApSEvCkKXGQom5mqKJ0) | 2:44 |
 
-Snapshot ID: `MCxjOGM2NGYyN2YyN2VjZTlhZjlkN2Q1Y2FiZmM5OWU0ZjYwNjg0NThk`
+Snapshot ID: `MCw0Zjc3NTc3MDViNzg5YjExMzVhNTMwMDhlMTc1NjljNjk3ZWU0MGZl`

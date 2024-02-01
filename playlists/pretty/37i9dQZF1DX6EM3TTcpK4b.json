@@ -1,12 +1,12 @@
 {
   "description": "Pa' cantar, bailar y pistear. \u00a1Qu\u00e9 suene el mariachi! En portada: Javier Sol\u00eds",
-  "num_followers": 298731,
+  "num_followers": 298874,
   "original_name": "Cl\u00e1sicas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGNjMWZiNzYwODU2NmQxZWMyYWM3MjVkMWI3OWUwZTBiYTQwM2Yz",
+  "snapshot_id": "MCwwMWFlN2E0OTdiYjM5YzFlNmI4NTUzNTFlOTZkOGRmOGQ2NTRhZTY4",
   "tracks": [
     {
       "added_at": "2022-08-31 15:59:33",
@@ -374,15 +374,11 @@
         {
           "name": "Roc\u00edo D\u00farcal",
           "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        },
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 222760,
-      "name": "D\u00e9jame Vivir (with Juan Gabriel)",
-      "url": "https://open.spotify.com/track/3ic95qCcp0njJNb3mJTZaP"
+      "duration_ms": 272866,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -490,11 +486,15 @@
         {
           "name": "Roc\u00edo D\u00farcal",
           "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        },
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 272866,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302"
+      "duration_ms": 222760,
+      "name": "D\u00e9jame Vivir (with Juan Gabriel)",
+      "url": "https://open.spotify.com/track/3ic95qCcp0njJNb3mJTZaP"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -743,18 +743,18 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
-        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
       },
       "artists": [
         {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 226324,
-      "name": "Fallaste Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO"
+      "duration_ms": 490762,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -839,18 +839,18 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
+        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
         }
       ],
-      "duration_ms": 490762,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om"
+      "duration_ms": 226324,
+      "name": "Fallaste Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "60 Rancheras Inmortales",
-        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Cu\u00e1ndo sale la luna",
-      "url": "https://open.spotify.com/track/7CLge2qFvAzm9hvgSlKd1z"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
         "name": "La M\u00e1s Completa Colecci\u00f3n",
         "url": "https://open.spotify.com/album/3Jtuf52P0Xo8JaE7oCMAdA"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 179266,
       "name": "Yo...El Aventurero",
       "url": "https://open.spotify.com/track/5k4oS18NesIeSpnZEDnh6p"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
+        "name": "60 Rancheras Inmortales",
+        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Cu\u00e1ndo sale la luna",
+      "url": "https://open.spotify.com/track/7CLge2qFvAzm9hvgSlKd1z"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Grandes Exitos A La Manera De Alejandro Fernandez",
-        "url": "https://open.spotify.com/album/3PEIsRKWPx5w1RSoOnrOoh"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 195266,
-      "name": "No",
-      "url": "https://open.spotify.com/track/60tK9PZkMuCb5Uwv28oIJM"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
         "name": "No Pongan Esas Canciones",
         "url": "https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 199653,
       "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
       "url": "https://open.spotify.com/track/1gthSsDhrDJ1MvAa8Vc71I"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
+        "name": "Grandes Exitos A La Manera De Alejandro Fernandez",
+        "url": "https://open.spotify.com/album/3PEIsRKWPx5w1RSoOnrOoh"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 195266,
+      "name": "No",
+      "url": "https://open.spotify.com/track/60tK9PZkMuCb5Uwv28oIJM"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Un Hombre Derecho",
-        "url": "https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 188604,
-      "name": "Nadie Es Eterno",
-      "url": "https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
         "name": "Serie De Coleccion 15 Autenticos",
         "url": "https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 131066,
       "name": "Cama de Piedra",
       "url": "https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
+        "name": "Un Hombre Derecho",
+        "url": "https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 188604,
+      "name": "Nadie Es Eterno",
+      "url": "https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
+        "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 231418,
+      "name": "Cucurrucucu Paloma",
+      "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
         "name": "Por Amor A Mi Pueblo",
         "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 188453,
       "name": "Un Pu\u00f1o De Tierra",
       "url": "https://open.spotify.com/track/7EGYbyTTEmmdqUu4MV6eHD"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
-        "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 231418,
-      "name": "Cucurrucucu Paloma",
-      "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
     },
     {
       "added_at": "2022-08-31 15:59:33",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGE0YWE2ODU0ZGUxZmI4MDIwOGFlYzFkYTZhOWZlMTA4ZjZmNTYw",
+  "snapshot_id": "MCwyZGE3ZDg3ZGRmMGExNjA3NmMwZWEyMmUwNDI1NTZkMzM0M2E5MmFh",
   "tracks": [
     {
       "added_at": "2023-11-29 12:17:00",
@@ -679,7 +679,7 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Up Is Just A Place (Xtended Mix feat. Fred Wesley)",
+        "name": "Up Is Just A Place (Richie Stevens Xtended Mix feat. Fred Wesley)",
         "url": "https://open.spotify.com/album/0e8IootF0vFHJzuOszLEot"
       },
       "artists": [
@@ -714,10 +714,14 @@
         {
           "name": "Fred Wesley",
           "url": "https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam"
+        },
+        {
+          "name": "Richie Stevens",
+          "url": "https://open.spotify.com/artist/0EZnKWoAW1x51x8STsHhsl"
         }
       ],
       "duration_ms": 305454,
-      "name": "Up Is Just A Place (Xtended Mix feat. Fred Wesley)",
+      "name": "Up Is Just A Place (Richie Stevens Xtended Mix feat. Fred Wesley)",
       "url": "https://open.spotify.com/track/2X1jifAuCUkeIiidlRDxFl"
     },
     {

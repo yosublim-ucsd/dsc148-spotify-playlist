@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,899 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,037 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 60 | [Malunguinho](https://open.spotify.com/track/6s15msjreg2553uO47iWz2) | [Abayomy Afrobeat Orquestra](https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv) | [Daora: Underground Sounds of Urban Brasil\- Hip\-Hop, Beats, Afro & Dub](https://open.spotify.com/album/56rh3ctrUlzggBkhccz2s2) | 7:37 |
 | 61 | [Pueblo](https://open.spotify.com/track/6pR0LSU0EAwvfEa9ocQ1aV) | [HUGØ](https://open.spotify.com/artist/17DJNYAUPmyxap4CY4hCDK), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/5s0xBuS6BCFEyJwLrLRJWZ) | 1:43 |
 | 62 | [Un Canto](https://open.spotify.com/track/3SKSAX5IZZzCwbMZRsodvs) | [MUTA](https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9) | [Un Canto](https://open.spotify.com/album/40Rjb6ttHVFGY3mUCYxZ5B) | 4:44 |
-| 63 | [satsuma](https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 2:58 |
-| 64 | [The Ocean](https://open.spotify.com/track/11ZEPoLOymnDqXoc1e98FO) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Bookend](https://open.spotify.com/artist/25Fdr64rur2zWVMYSnit4i) | [Mirage](https://open.spotify.com/album/2KgYOIJ18OiPAMH9KRf1Ff) | 4:02 |
+| 63 | [The Ocean](https://open.spotify.com/track/11ZEPoLOymnDqXoc1e98FO) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Bookend](https://open.spotify.com/artist/25Fdr64rur2zWVMYSnit4i) | [Mirage](https://open.spotify.com/album/2KgYOIJ18OiPAMH9KRf1Ff) | 4:02 |
+| 64 | [satsuma](https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 2:58 |
 | 65 | [Samba del Arenal](https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Cinemar](https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37) | [Samba del Arenal](https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk) | 4:13 |
 | 66 | [Na Procura](https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg) | [Yemanjo](https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N) | [Na Procura](https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA) | 6:30 |
 | 67 | [Tropical Gypsy](https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Tropical Gypsy](https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA) | 3:01 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 69 | [El Plan \- Cyma Remix](https://open.spotify.com/track/3DE5UpRmIHUtQFqvpqKAZg) | [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn), [Cyma](https://open.spotify.com/artist/33Hfr8ZfUeyyZWdpsEtisn) | [El Plan \(Cyma Remix\)](https://open.spotify.com/album/5FVy4b9t6CmmErI8kpFqmG) | 3:57 |
 | 70 | [Selva y mar](https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Selva y mar](https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG) | 4:08 |
 
-Snapshot ID: `MCxhNjEzMWRkYjE4ZGY1NjUzNGU1OTJlNDNkNDU4ZjU0ZDIzNzk2YmU4`
+Snapshot ID: `MCwxNTIyMGViMDY2N2E4MGVjZjM5NDA3YWI3NjAwNDNjMDBmY2QzMGU2`

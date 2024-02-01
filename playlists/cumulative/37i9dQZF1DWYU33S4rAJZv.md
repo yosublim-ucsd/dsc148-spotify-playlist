@@ -4,7 +4,7 @@
 
 > Warm and cozy Christmas Jazz to your hot cup of coffee.
 
-110 songs - 5 hr 40 min
+111 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [That's What I Want For Christmas \- Remastered 1992](https://open.spotify.com/track/0jgVkOMLMRZTgx06ddo4DQ) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [The Ultimate Jazz Christmas](https://open.spotify.com/album/2zn5A07eHENpWATjtscdRL) | 2:17 | 2023-11-28 |  |
 | [The Chipmunk Song](https://open.spotify.com/track/0fQOIeqzT092q2p8wDDBYl) | [Sonny Magic Trio](https://open.spotify.com/artist/5UBpgvMO0TGIUiuD69RAP3) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/3owNP9iL5Db7iKu7JEyWEg) | 2:43 | 2023-11-28 |  |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2023-11-28 |  |
-| [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 | 2023-11-28 |  |
+| [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 | 2023-11-28 | 2024-02-01 |
+| [The Christmas Waltz](https://open.spotify.com/track/4eEdv0ZBTtWh8zS41SeUp8) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:47 | 2023-12-19 |  |
 | [The First Noel](https://open.spotify.com/track/6xCvcfr2buDicGuUszI4an) | [Tiny Stills Quartet](https://open.spotify.com/artist/5YxesetSDEooEMdNHKKDFk) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/05PvwbGSgcL5vwB7vOkYVd) | 3:04 | 2023-11-28 |  |
 | [The Holidays Are Here](https://open.spotify.com/track/1sxZxwg3pn1SOPaUhZK846) | [Jay Jennings](https://open.spotify.com/artist/6nxw7WTVkgzfF8PbpuV9ye), [Sonny Rhodes](https://open.spotify.com/artist/5Uo1FOafMxjai5OwykDT84) | [Big Band Christmas](https://open.spotify.com/album/2fgg15krhY2gYYmGSULfLE) | 3:16 | 2023-11-28 |  |
 | [The Little Drummer Boy](https://open.spotify.com/track/4rJLWRjJvtMlXatjjzaEAr) | [Rudy Snow](https://open.spotify.com/artist/3bBZZ3bsQwZ6DmUH51cabg) | [Feliz Navidad](https://open.spotify.com/album/0OYWQmZW2kvyBeQ5ANypyK) | 2:38 | 2023-11-28 |  |

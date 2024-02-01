@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Majo Aguilar ",
-  "num_followers": 72134,
+  "num_followers": 72140,
   "original_name": "Mariachi 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTEwYmYyOTlhNzAzZTMwMmNkMDgyMjY0ZGNhYjdhZjVjMGRiODQ1",
+  "snapshot_id": "MCwzZjllZjA3MzRkNjExY2QyMDc4MzBiYmUxZGJhMTVjNTg1NWM4OGQy",
   "tracks": [
     {
       "added_at": "2024-01-12 05:26:06",
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-01-12 05:26:06",
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 244642,
-      "name": "Ah\u00ed Donde Me Ven",
-      "url": "https://open.spotify.com/track/2HsN4JUcjkdVKyafNlu7pL"
+      "duration_ms": 176431,
+      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
+      "url": "https://open.spotify.com/track/5VGpOXAaau0DdzzOzhApPh"
     },
     {
       "added_at": "2024-01-12 05:26:06",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-01-12 05:26:06",
       "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 244642,
+      "name": "Ah\u00ed Donde Me Ven",
+      "url": "https://open.spotify.com/track/2HsN4JUcjkdVKyafNlu7pL"
+    },
+    {
+      "added_at": "2024-01-12 05:26:06",
+      "album": {
         "name": "Brindo",
         "url": "https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 185460,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL"
-    },
-    {
-      "added_at": "2024-01-12 05:26:06",
-      "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 176431,
-      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
-      "url": "https://open.spotify.com/track/5VGpOXAaau0DdzzOzhApPh"
     },
     {
       "added_at": "2024-01-12 05:26:06",
@@ -699,26 +699,6 @@
     {
       "added_at": "2024-01-12 05:26:06",
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 228989,
-      "name": "Ella Qu\u00e9 Te Dio",
-      "url": "https://open.spotify.com/track/24wYpTB7F9gqHfmAJxj6Mb"
-    },
-    {
-      "added_at": "2024-01-12 05:26:06",
-      "album": {
         "name": "Deb\u00ed Suponerlo (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/21ENHysoKWXYrrp9jvDJgM"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 160367,
       "name": "Deb\u00ed Suponerlo - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/6NyJ0XuEuryK0kpxgv0flT"
+    },
+    {
+      "added_at": "2024-01-12 05:26:06",
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 228989,
+      "name": "Ella Qu\u00e9 Te Dio",
+      "url": "https://open.spotify.com/track/24wYpTB7F9gqHfmAJxj6Mb"
     },
     {
       "added_at": "2024-01-12 05:26:06",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-01-12 05:26:06",
       "album": {
-        "name": "Si Ya Me Enamor\u00e9",
-        "url": "https://open.spotify.com/album/2Owva7mSM0Si15iD6rhRDM"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Esparza",
-          "url": "https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS"
-        }
-      ],
-      "duration_ms": 167801,
-      "name": "Si Ya Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/4zdcnQA7D2xbvZ1bym7jou"
-    },
-    {
-      "added_at": "2024-01-12 05:26:06",
-      "album": {
         "name": "Casi Algo (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/6z6XxuId7yju4sXvtkez0d"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 132986,
       "name": "Casi Algo - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/5zwhq3lsGiks3Uffseze9o"
+    },
+    {
+      "added_at": "2024-01-12 05:26:06",
+      "album": {
+        "name": "Si Ya Me Enamor\u00e9",
+        "url": "https://open.spotify.com/album/2Owva7mSM0Si15iD6rhRDM"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Esparza",
+          "url": "https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS"
+        }
+      ],
+      "duration_ms": 167801,
+      "name": "Si Ya Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/4zdcnQA7D2xbvZ1bym7jou"
     },
     {
       "added_at": "2024-01-12 05:26:06",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-01-12 05:26:06",
       "album": {
+        "name": "El Tenampa",
+        "url": "https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        }
+      ],
+      "duration_ms": 134954,
+      "name": "El Tenampa",
+      "url": "https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici"
+    },
+    {
+      "added_at": "2024-01-12 05:26:06",
+      "album": {
         "name": "Todo Me Recuerda A Ti",
         "url": "https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 208106,
       "name": "Todo Me Recuerda A Ti",
       "url": "https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De"
-    },
-    {
-      "added_at": "2024-01-12 05:26:06",
-      "album": {
-        "name": "El Tenampa",
-        "url": "https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
-        }
-      ],
-      "duration_ms": 134954,
-      "name": "El Tenampa",
-      "url": "https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici"
     },
     {
       "added_at": "2024-01-12 05:26:06",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2024-01-12 05:26:06",
       "album": {
-        "name": "Valiente",
-        "url": "https://open.spotify.com/album/4wiJhoRjHVd2OcoQTCvfMf"
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
       "artists": [
         {
-          "name": "Rafael Kelly",
-          "url": "https://open.spotify.com/artist/60D1b0MRQPmAL5TSV7e4PY"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 151555,
-      "name": "Valiente",
-      "url": "https://open.spotify.com/track/56aRk2RiNCBtX7M2k0QZAL"
+      "duration_ms": 186628,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
     },
     {
       "added_at": "2024-01-12 05:26:06",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2024-01-12 05:26:06",
       "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+        "name": "Valiente",
+        "url": "https://open.spotify.com/album/4wiJhoRjHVd2OcoQTCvfMf"
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+          "name": "Rafael Kelly",
+          "url": "https://open.spotify.com/artist/60D1b0MRQPmAL5TSV7e4PY"
         }
       ],
-      "duration_ms": 186628,
-      "name": "La Loter\u00eda",
-      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
+      "duration_ms": 151555,
+      "name": "Valiente",
+      "url": "https://open.spotify.com/track/56aRk2RiNCBtX7M2k0QZAL"
     },
     {
       "added_at": "2024-01-12 05:26:06",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2024-01-12 05:26:06",
       "album": {
-        "name": "Yo No Creo En Los Hombres",
-        "url": "https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9"
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
       "artists": [
         {
-          "name": "Sherlyn S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 215893,
-      "name": "Yo No Creo En Los Hombres",
-      "url": "https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J"
+      "duration_ms": 140662,
+      "name": "Pinocho",
+      "url": "https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L"
     }
   ],
   "unique_name": "Mariachi 2024",

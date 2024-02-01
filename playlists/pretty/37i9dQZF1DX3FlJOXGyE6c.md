@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FlJOXGyE6c.md) - [plain]
 
 > The world of”TOUKEN RANBU”! PCブラウザ・スマホアプリゲーム「刀剣乱舞\-ONLINE\-」。<br/>Musical、Animation、Movieと広がる革命的な世界を彩る楽曲を一つのプレイリストで！ \(C\)2015 EXNOA LLC/Nitroplus
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,890 likes - 97 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,906 likes - 97 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [始まりの風](https://open.spotify.com/track/5SvoIIAy2YDd6kOyr44vdU) | [刀剣男士 大編成 ㊇2023](https://open.spotify.com/artist/14Y4OeBrrSf4Jluu5u1Z3V), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [始まりの風／Wassa! Wassa!](https://open.spotify.com/album/65mSHunlLRiWgsELVQAQ3O) | 4:03 |
-| 2 | [Wassa! Wassa!](https://open.spotify.com/track/2BW0sckEZFZ5VjrrtD6N1q) | [刀剣男士 大編成 ㊇2023](https://open.spotify.com/artist/14Y4OeBrrSf4Jluu5u1Z3V), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [始まりの風／Wassa! Wassa!](https://open.spotify.com/album/65mSHunlLRiWgsELVQAQ3O) | 4:04 |
+| 1 | [Hajimari No Kaze](https://open.spotify.com/track/7hmQfg6CZO0Q7mWWsptOQH) | [刀剣男士 大編成 ㊇2023](https://open.spotify.com/artist/1jST4s63a57gPA2fQeeFTX), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [Hajimari No Kaze／Wassa! Wassa!](https://open.spotify.com/album/6ebj5liWbt8fz7i9VNJDe3) | 4:03 |
+| 2 | [Wassa! Wassa!](https://open.spotify.com/track/2qqXlGwrqmjKtDM6ZuOWxI) | [刀剣男士 大編成 ㊇2023](https://open.spotify.com/artist/1jST4s63a57gPA2fQeeFTX), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [Hajimari No Kaze／Wassa! Wassa!](https://open.spotify.com/album/6ebj5liWbt8fz7i9VNJDe3) | 4:04 |
 | 3 | [REASON　song by Ookurikara](https://open.spotify.com/track/4Xh4oCGr4ye4f2TUBg40pv) | [刀剣男士 鶴丸国永 大倶利伽羅](https://open.spotify.com/artist/18XCGhSbxFkyC7JuzN6eLg), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [Touken Ranbu：The Musical TSURUMARU KUNINAGA OOKURIKARA DUO PERFORMANCE 〜Shunpu Touri no Sakazuki〜 \(Tsujoban\)](https://open.spotify.com/album/4Z9ebLw7LTUHZX2ccj73Jp) | 3:49 |
 | 4 | [Zanzou　song by Tsurumaru Kuninaga](https://open.spotify.com/track/5eitqCfIugK63QNXzMIEC0) | [刀剣男士 鶴丸国永 大倶利伽羅](https://open.spotify.com/artist/18XCGhSbxFkyC7JuzN6eLg), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [Touken Ranbu：The Musical TSURUMARU KUNINAGA OOKURIKARA DUO PERFORMANCE 〜Shunpu Touri no Sakazuki〜 \(Tsujoban\)](https://open.spotify.com/album/4Z9ebLw7LTUHZX2ccj73Jp) | 3:16 |
 | 5 | [希望の灯](https://open.spotify.com/track/7wOS2WUls4cMZq84NZIJKx) | [篭手切江\(CV:広瀬裕也\)](https://open.spotify.com/artist/115BIEA328byOypbI6OKgi), [豊前江\(CV:八代 拓\)](https://open.spotify.com/artist/5AtjDGX0Rr0I1dKCgBTrAj), [桑名江\(CV:伊東健人\)](https://open.spotify.com/artist/5Egef4yElwDggJ5CZzIs4g), [松井江\(CV:土岐隼一\)](https://open.spotify.com/artist/4UvMb1xm0aRLJGuO8fFBfb), [刀剣乱舞\-花丸\-](https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116) | [希望の灯](https://open.spotify.com/album/7HOa41pJQoVeu2byCMTsWf) | 4:30 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FlJOXGyE6c.md) - [plain]
 | 96 | [心魂の在処](https://open.spotify.com/track/5GjmkFhEjtY1MF5IGDyz9f) | [へし切長谷部\(CV:新垣樽助\)](https://open.spotify.com/artist/7rNYTxMPMCkqDQU6rXvLEM), [宗三左文字\(CV:泰勇気\)](https://open.spotify.com/artist/02PmNSUpGAJ2h0r8kRlOAo), [薬研藤四郎\(CV:山下誠一郎\)](https://open.spotify.com/artist/4cGZ8RazSokp3IiVGR96aF), [刀剣乱舞\-花丸\-](https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116) | [TVアニメ「刀剣乱舞\-花丸\-」歌詠集 \(其の二\)](https://open.spotify.com/album/7ExK4q11IO8UUVxHLn66q7) | 3:32 |
 | 97 | [UNBROKEN](https://open.spotify.com/track/2CZoAt0yAQbKtgPfEDGdHO) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz), [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [SINGularity](https://open.spotify.com/album/0z6d7zSYf9ZFkQA9kFsmEe) | 4:35 |
 
-Snapshot ID: `MCxiMWRlNThhZmNhNjNmY2ZkOGRmZGFiN2FhMGRjNjI3NGRjZWYxYWZi`
+Snapshot ID: `MCw0NTcyMTZmYWU1ODFkMGI1OTI0Yzg2M2I3ODM3NDM5MGE4MTcxNDlm`

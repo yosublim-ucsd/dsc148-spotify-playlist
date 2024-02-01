@@ -1,12 +1,12 @@
 {
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
-  "num_followers": 107117,
+  "num_followers": 107125,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjBhYWViNWI3OTFkMmE4YzMwNmQ1NWNmODMyMTE0N2Q4MmU5ZDZk",
+  "snapshot_id": "MCxiOTg0ZDBiMmE2MTIyZTA0MWJlMDg4NzUxYmRkZDM1OWUxN2Q4ZTQ3",
   "tracks": [
     {
       "added_at": "2024-01-25 23:00:00",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
+        "name": "Livet Er Herlig",
+        "url": "https://open.spotify.com/album/2TWTHZ6Qv0O9UqIqrTn8HG"
+      },
+      "artists": [
+        {
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+        },
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "duration_ms": 143261,
+      "name": "Livet Er Herlig",
+      "url": "https://open.spotify.com/track/1cb0J9fgwlnQtESfcRV0XJ"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
         "name": "Helt Sykt VOL2",
         "url": "https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA"
       },
@@ -1027,22 +1047,18 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Livet Er Herlig",
-        "url": "https://open.spotify.com/album/2TWTHZ6Qv0O9UqIqrTn8HG"
+        "name": "Levva Livet!",
+        "url": "https://open.spotify.com/album/00m8339CymX4adXiATrT7e"
       },
       "artists": [
         {
-          "name": "TIX",
-          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
-        },
-        {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+          "name": "\u00c5ge Aleksandersen",
+          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
         }
       ],
-      "duration_ms": 143261,
-      "name": "Livet Er Herlig",
-      "url": "https://open.spotify.com/track/1cb0J9fgwlnQtESfcRV0XJ"
+      "duration_ms": 274053,
+      "name": "Levva Livet",
+      "url": "https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -1059,22 +1075,6 @@
       "duration_ms": 236387,
       "name": "Hardanger",
       "url": "https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "Levva Livet!",
-        "url": "https://open.spotify.com/album/00m8339CymX4adXiATrT7e"
-      },
-      "artists": [
-        {
-          "name": "\u00c5ge Aleksandersen",
-          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
-        }
-      ],
-      "duration_ms": 274053,
-      "name": "Levva Livet",
-      "url": "https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
+        "name": "N\u00e5 Koser Vi Oss",
+        "url": "https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF"
+      },
+      "artists": [
+        {
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "N\u00e5 Koser Vi Oss",
+      "url": "https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
         "name": "Kompis",
         "url": "https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 127058,
       "name": "Mcdonalds",
       "url": "https://open.spotify.com/track/4Uv5nzyKWBAnfiV1WbVFYz"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "N\u00e5 Koser Vi Oss",
-        "url": "https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF"
-      },
-      "artists": [
-        {
-          "name": "TIX",
-          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "N\u00e5 Koser Vi Oss",
-      "url": "https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf"
     },
     {
       "added_at": "2024-01-25 23:00:00",

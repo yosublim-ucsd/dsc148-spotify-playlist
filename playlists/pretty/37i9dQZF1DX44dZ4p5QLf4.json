@@ -1,12 +1,12 @@
 {
   "description": "A blend of new songs and artists in the soul space. Cover: Elmiene",
-  "num_followers": 478120,
+  "num_followers": 478169,
   "original_name": "Next Wave Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGY5YzFjOTc0ZWM0YzJhMjE4ZGJhYzJjM2Q1YjcwMTk2ZmNhNDhm",
+  "snapshot_id": "MCxjMGYzNDQxZjFkZjY4YTllNzlmNzM0MzU4YzJhNzYzNzdmZjRjNTQ4",
   "tracks": [
     {
       "added_at": "2024-01-19 12:48:37",
@@ -67,6 +67,38 @@
     {
       "added_at": "2024-01-19 12:48:37",
       "album": {
+        "name": "HOUSE OF GROOVE",
+        "url": "https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Darius",
+          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
+        },
+        {
+          "name": "WAYNE SNOW",
+          "url": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh"
+        },
+        {
+          "name": "The NightBirds",
+          "url": "https://open.spotify.com/artist/5y3PKV2Jacq5FBub8joiNJ"
+        }
+      ],
+      "duration_ms": 216154,
+      "name": "U & I",
+      "url": "https://open.spotify.com/track/4jBSQcXXIgmJF0ngkSbPCH"
+    },
+    {
+      "added_at": "2024-01-19 12:48:37",
+      "album": {
         "name": "Crazy (DuDuDu)",
         "url": "https://open.spotify.com/album/4lUDOpOQpworctVvTKS0Vn"
       },
@@ -119,38 +151,6 @@
       "duration_ms": 171218,
       "name": "Get Close",
       "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
-    },
-    {
-      "added_at": "2024-01-19 12:48:37",
-      "album": {
-        "name": "HOUSE OF GROOVE",
-        "url": "https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        },
-        {
-          "name": "Darius",
-          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
-        },
-        {
-          "name": "WAYNE SNOW",
-          "url": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
-        },
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh"
-        },
-        {
-          "name": "The NightBirds",
-          "url": "https://open.spotify.com/artist/5y3PKV2Jacq5FBub8joiNJ"
-        }
-      ],
-      "duration_ms": 216154,
-      "name": "U & I",
-      "url": "https://open.spotify.com/track/4jBSQcXXIgmJF0ngkSbPCH"
     },
     {
       "added_at": "2024-01-19 12:48:37",

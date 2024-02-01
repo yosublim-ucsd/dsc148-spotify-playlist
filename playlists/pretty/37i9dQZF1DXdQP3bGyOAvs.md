@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 
 > Great chilled house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,219 likes - 240 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,251 likes - 240 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Asking Around](https://open.spotify.com/track/1LW6U5lSdxQDjyhVXLfBYL) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Asking Around](https://open.spotify.com/album/47KjiJLkUMPapJksgxKSkN) | 2:45 |
 | 2 | [Inside The Walls](https://open.spotify.com/track/4lzAEIuCA5m5DntCzecz58) | [Marin Lavelle](https://open.spotify.com/artist/5PeNOtLcCVzXgn5g3joShS) | [Inside The Walls](https://open.spotify.com/album/5ZlPeuSsF78MIic2yIxYF8) | 2:09 |
-| 3 | [GRAVITY](https://open.spotify.com/track/1J2RdNPqkbzHOUEqfZHgXM) | [Costavibe](https://open.spotify.com/artist/4HLlUXwO3kK48kH2iDfPpA) | [GRAVITY](https://open.spotify.com/album/1wJw8FNsIr2pEyAvSamIdc) | 2:07 |
+| 3 | [Gravity](https://open.spotify.com/track/1J2RdNPqkbzHOUEqfZHgXM) | [Costavibe](https://open.spotify.com/artist/4HLlUXwO3kK48kH2iDfPpA) | [Gravity](https://open.spotify.com/album/1wJw8FNsIr2pEyAvSamIdc) | 2:07 |
 | 4 | [Sunday Things](https://open.spotify.com/track/6LJG84ULDJA9Q1bwEKzkTT) | [Leon FM](https://open.spotify.com/artist/4Yc8THLLISQc6PwYxM1yu1) | [Sunday Things](https://open.spotify.com/album/10k3XBRyUNgr2if36KYXgB) | 2:19 |
 | 5 | [Always Around](https://open.spotify.com/track/5vB3Npt7DkxuKAa0D2qorr) | [Robinson Roe](https://open.spotify.com/artist/5IjUr7lUdZ1mOUluaYpKZE) | [Always Around](https://open.spotify.com/album/6ptzaQpfSxeRsNDkGuOvoT) | 2:56 |
 | 6 | [Butterfly](https://open.spotify.com/track/3rp3tNPhOHySBqHbawolKh) | [Pat Jr](https://open.spotify.com/artist/7F6eGe9WVjyshqDIdZo4KJ) | [Butterfly](https://open.spotify.com/album/5H9k158ooh71IQmt6WL5iR) | 2:39 |
@@ -249,4 +249,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 | 239 | [Velvet Skies](https://open.spotify.com/track/0HBQ7cU8gPitLvHX8nQ3DH) | [VILT](https://open.spotify.com/artist/4VzZG2yIlxLmbilBTDlEb0) | [Velvet Skies](https://open.spotify.com/album/3LAJb6QHo5QkgoW0T2vJNT) | 3:05 |
 | 240 | [Growing](https://open.spotify.com/track/6rCkaw89aoGhunEMTXpSiN) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Growing](https://open.spotify.com/album/7HTo42U44LHzt3eVfKCh0w) | 2:40 |
 
-Snapshot ID: `MCw2ZjQ0ZjFjZDUxMmE0YjE4NTlmMTY5MzhkM2YzNzE2YjgzY2UzNDIz`
+Snapshot ID: `MCwyZjI4YTdkYzMxNDQ4MzdmOTI4ZmRmMzgwZTM1Yzk1ZTIzZDZmODUy`

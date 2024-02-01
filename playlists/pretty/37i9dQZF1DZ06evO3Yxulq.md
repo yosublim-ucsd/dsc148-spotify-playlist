@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,707 likes - 50 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,718 likes - 50 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 43 | [Eterno \(Con Cuando Los Santos Marchan Ya\)](https://open.spotify.com/track/1D7gcN6H8n0hdxr1osOd6N) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 6:02 |
 | 44 | [Seguirte](https://open.spotify.com/track/6X2bymkSxVkhegf4Ozhz0k) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo) | 5:38 |
 | 45 | [Bello eres tú](https://open.spotify.com/track/55DNwNrsS9IE4WTDlIu1su) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Bello eres tú](https://open.spotify.com/album/4WklYaOuYePHVlPn1jJcQ4) | 6:50 |
-| 46 | [Me Rindo \(feat\. Karen Espinosa & Christine D'Clario\)](https://open.spotify.com/track/2qs43wB0Gts37Kg53TZAot) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Venga Tu Reino](https://open.spotify.com/album/7HfjVzPW3EPDhbXA8jKPp4) | 7:33 |
-| 47 | [Yo Te Busco](https://open.spotify.com/track/0uYyXqF4CdeQFDEx73sc64) | [Adoración](https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Adoración Vol\. 1](https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8) | 5:51 |
+| 46 | [Yo Te Busco](https://open.spotify.com/track/0uYyXqF4CdeQFDEx73sc64) | [Adoración](https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Adoración Vol\. 1](https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8) | 5:51 |
+| 47 | [Me Rindo \(feat\. Karen Espinosa & Christine D'Clario\)](https://open.spotify.com/track/2qs43wB0Gts37Kg53TZAot) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Venga Tu Reino](https://open.spotify.com/album/7HfjVzPW3EPDhbXA8jKPp4) | 7:33 |
 | 48 | [Esa Es La Razón \- Live](https://open.spotify.com/track/3lwiyQh8K7qWumYTiheXlq) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Esa Es La Razón \(Live\)](https://open.spotify.com/album/5HTaOwYUl701aYLyxYlezf) | 6:35 |
 | 49 | [La Batalla](https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Batalla](https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF) | 4:47 |
 | 50 | [Famous For \(I Believe\) \[Spanish/English Version\]](https://open.spotify.com/track/5ZO6LwgpjWDqLjK54kO4EB) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Famous For \(I Believe\) \- Collection](https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu) | 4:02 |
 
-Snapshot ID: `Mjg0NDM2MzgsMDAwMDAwMDAxN2UyYjZkMTkwZjg3MTdhYTg2MDhiNDAwNzdkMWQ1OQ==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDAwMzkzYjhkMGQyMjQ1NTVmY2Y0MDM0YmU2YjZhZDc0Zg==`

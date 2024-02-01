@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,901 likes - 65 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,965 likes - 65 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 53 | [Hallelujah Here Below](https://open.spotify.com/track/5PY5NbWxkAUkVQuvIuTHkz) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Hallelujah Here Below](https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC) | 7:03 |
 | 54 | [Good Good Father](https://open.spotify.com/track/2tMjhETPLkWILXN3NnmDt3) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Good Good Father](https://open.spotify.com/album/5CHkSTtxezt4A1bqDnzoJW) | 4:57 |
 | 55 | [You Are Loved](https://open.spotify.com/track/7M7eanIuxFd9IgaB8rAP7b) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Stars Go Dim](https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr) | 3:26 |
-| 56 | [Seasons](https://open.spotify.com/track/6dQAlNaiqvRFb3fCyn8Qf2) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Christmas: The Peace Project](https://open.spotify.com/album/6f6C3n1O2O6z5wDvwVBG2o) | 4:34 |
-| 57 | [Scars \(Come With Livin'\)](https://open.spotify.com/track/5CYMOjWrVWZqHGv2ObF5mr) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Elements](https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM) | 4:21 |
+| 56 | [Scars \(Come With Livin'\)](https://open.spotify.com/track/5CYMOjWrVWZqHGv2ObF5mr) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Elements](https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM) | 4:21 |
+| 57 | [Seasons](https://open.spotify.com/track/6dQAlNaiqvRFb3fCyn8Qf2) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Christmas: The Peace Project](https://open.spotify.com/album/6f6C3n1O2O6z5wDvwVBG2o) | 4:34 |
 | 58 | [We Won't Be Shaken](https://open.spotify.com/track/1B4L5VRP5fALiYJpHUHhZd) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [We Won't Be Shaken](https://open.spotify.com/album/236Dq5eabm2vaUU2pImQPX) | 3:56 |
 | 59 | [That Was Then, This Is Now](https://open.spotify.com/track/3ji2WLLlpJmvvSOlAyqB6p) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [That Was Then, This Is Now](https://open.spotify.com/album/1a2cVtWsamtbng2W0mgLPq) | 3:17 |
 | 60 | [My Hope Is in You](https://open.spotify.com/track/3IuTraprrDiCiGJ7tiGpGu) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [This Is What We Believe \(Deluxe Edition\)](https://open.spotify.com/album/2Q9Y71ZXBPOChjYYckaAmD) | 4:14 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 64 | [WALKING ON WATER](https://open.spotify.com/track/0WWUC8RjWvuBTkiiFDxyQf) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [HARD CUTS: Songs from the H A R D L O V E Sessions](https://open.spotify.com/album/4sZaQapzbeoaQalmxymSrd) | 4:06 |
 | 65 | [Rise](https://open.spotify.com/track/7E081VjB8ih6c6AElqlQiN) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz) | 3:39 |
 
-Snapshot ID: `MCw3MzQ0ZjVkN2Q2NTEzNjcwZjRkM2U2ZWU1NWIzNjg0N2U3ZjBhMGNk`
+Snapshot ID: `MCw1MDdlYjY1OGJhN2ViYzI2ZTU5OTIxODVmYzFlZTVmZDMyZjg2NDJl`

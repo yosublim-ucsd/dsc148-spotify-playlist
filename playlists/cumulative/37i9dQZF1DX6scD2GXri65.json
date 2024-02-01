@@ -298,7 +298,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 154400,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/1cV1UP1QRnCOZcAlRTPJxM"
@@ -2886,6 +2886,24 @@
       "duration_ms": 179612,
       "name": "Talk About Love",
       "url": "https://open.spotify.com/track/2xt0pHaU80RC2Bl4MOHu9F"
+    },
+    {
+      "album": {
+        "name": "Team No Sleep",
+        "url": "https://open.spotify.com/album/2e7vCfR5fupyZR9REwk00X"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168800,
+      "name": "Team No Sleep",
+      "url": "https://open.spotify.com/track/3khsjS0d0qOwB3x8k5gVca"
     },
     {
       "album": {

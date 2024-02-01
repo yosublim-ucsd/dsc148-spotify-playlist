@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 
 > The sound and soul that keeps Mauritius jamming
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,442 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,444 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 27 | [Sega Ar Pwa](https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2) | [Sky to Be](https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch) | [Sega Ar Pwa](https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn) | 4:47 |
 | 28 | [Bhai Aboo](https://open.spotify.com/track/2M6DNq1HqzEOTtLRENGrTw) | [Claudio](https://open.spotify.com/artist/53dJpxJvzAbr4hntW9gfAT) | [Soul Sok Séga](https://open.spotify.com/album/05QHCNR4jFKJJ2rwsJrT5f) | 4:21 |
 | 29 | [Atrap Mo lame](https://open.spotify.com/track/1s2wYId2KCCnytXzgDMVWS) | [MR LOVE](https://open.spotify.com/artist/2vQzCnVISITDwQgyIsg6RL), [Désiré François](https://open.spotify.com/artist/5mIOt0E1ya9g3Veq3VU0S8) | [Love Ambassador](https://open.spotify.com/album/6n5gNprPy0D1rHWbWWeq0b) | 4:43 |
-| 30 | [Sa Pa Zot Traka](https://open.spotify.com/track/3h9cg05iOZh0OxygaQysSL) | [Lin](https://open.spotify.com/artist/1T6UhDmdCVCPG1qtswbRTN) | [Sa Pa Zot Traka](https://open.spotify.com/album/0TmbeFuM2ZKDuAnKFF7Y0H) | 4:45 |
-| 31 | [Mario](https://open.spotify.com/track/74beHnWiIdINBtXaqU5sSJ) | [IVANN](https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm), [Bomboclak](https://open.spotify.com/artist/3XttXqwftYJosFdH5pNcVf), [Frank J](https://open.spotify.com/artist/7vf2a26PIY6jHSkriioJrT) | [Mario](https://open.spotify.com/album/3ddiv84hCD2DU3RWhHTczv) | 3:50 |
+| 30 | [Mario](https://open.spotify.com/track/74beHnWiIdINBtXaqU5sSJ) | [IVANN](https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm), [Bomboclak](https://open.spotify.com/artist/3XttXqwftYJosFdH5pNcVf), [Frank J](https://open.spotify.com/artist/7vf2a26PIY6jHSkriioJrT) | [Mario](https://open.spotify.com/album/3ddiv84hCD2DU3RWhHTczv) | 3:50 |
+| 31 | [Sa Pa Zot Traka](https://open.spotify.com/track/3h9cg05iOZh0OxygaQysSL) | [Lin](https://open.spotify.com/artist/1T6UhDmdCVCPG1qtswbRTN) | [Sa Pa Zot Traka](https://open.spotify.com/album/0TmbeFuM2ZKDuAnKFF7Y0H) | 4:45 |
 | 32 | [La Route Karanbol](https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2) | [Jason Lejuste](https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7) | [La Route Karanbol](https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6) | 4:47 |
 | 33 | [Ti lipié fer rozet](https://open.spotify.com/track/31pGdVTn8adJ9FV2515Lkd) | [JSB Morning Game](https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7), [Julien Verloppe](https://open.spotify.com/artist/40ld1lEZz0y0r3cHngak60) | [Zalouzi](https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK) | 4:10 |
 | 34 | [Fiesta Ravanna](https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn) | [Alain Ramanisum](https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1) | [Fiesta Ravanna](https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 49 | [Pop Soul Sega](https://open.spotify.com/track/7CTdKdYu5sGpzmKBl2Ixdj) | [Ti L'Afrique](https://open.spotify.com/artist/7psU4qxB98jFalXz3seXsX) | [Moris Zekler: Fuzz & Soul Sega from 70's Mauritius](https://open.spotify.com/album/5jSShrhgr5xkYNsXJMxOx9) | 4:12 |
 | 50 | [Medley: créole comme l'espagnol / Séga charlot](https://open.spotify.com/track/2DwjoEPD7o6fibRYnd4Zyd) | [Narmine Ducap](https://open.spotify.com/artist/5Y9cLaiuHNHVI6cXDcBpbC) | [Crazé salle verte](https://open.spotify.com/album/3u7u5R4RCYrLbQSmUuoFKK) | 3:35 |
 
-Snapshot ID: `MCwyNjE4OTc0ZGM5ZGUyMzlkMTBlMDcwMDQwNTI1OGQyN2Q0YjRkNTA5`
+Snapshot ID: `MCw5YWE4YzU1YjNiMzI3ZTA0NDIwZTFmZjNhYTU3MDZhYTJkMjg0NTZi`

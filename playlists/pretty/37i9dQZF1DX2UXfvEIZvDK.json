@@ -1,12 +1,12 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 725911,
+  "num_followers": 725989,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWI3MTMwN2MyMjg2Mjc1OWIwZjQ0OTBhODM5ZDE4ZGRlMjVjZmFj",
+  "snapshot_id": "MCxmYzc5ZmVjNmY5ODVjNGNlY2JmYTExNzM1YWJmYTEzYjEzMmVhYzBi",
   "tracks": [
     {
       "added_at": "2023-09-24 19:18:19",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-09-24 19:18:19",
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 153466,
-      "name": "Good Riddance (Time of Your Life)",
-      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
-    },
-    {
-      "added_at": "2023-09-24 19:18:19",
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 200306,
       "name": "Island In The Sun",
       "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
+    },
+    {
+      "added_at": "2023-09-24 19:18:19",
+      "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 153466,
+      "name": "Good Riddance (Time of Your Life)",
+      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
     },
     {
       "added_at": "2023-09-24 19:18:19",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-09-24 19:18:19",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 250293,
-      "name": "Thirty-Three - Remastered 2012",
-      "url": "https://open.spotify.com/track/1fPKWu8NKS1ZGHjFZ5QCAs"
-    },
-    {
-      "added_at": "2023-09-24 19:18:19",
-      "album": {
         "name": "14 Shades of Grey",
         "url": "https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 276840,
       "name": "Zoe Jane",
       "url": "https://open.spotify.com/track/6WrOZ59ScdQXE24zcYNyyA"
+    },
+    {
+      "added_at": "2023-09-24 19:18:19",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 250293,
+      "name": "Thirty-Three - Remastered 2012",
+      "url": "https://open.spotify.com/track/1fPKWu8NKS1ZGHjFZ5QCAs"
     },
     {
       "added_at": "2023-09-24 19:18:19",

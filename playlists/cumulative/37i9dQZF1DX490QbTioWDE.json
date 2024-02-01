@@ -816,7 +816,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 178816,
       "name": "Castillo de Arena / Me Quieres Olvidar - En Vivo",
       "url": "https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4"
@@ -1268,6 +1268,24 @@
       "duration_ms": 392476,
       "name": "Cuarte Party 2",
       "url": "https://open.spotify.com/track/20zrnW7QYFyc6ZtSpK6os2"
+    },
+    {
+      "album": {
+        "name": "Cuarteto Sessions #3",
+        "url": "https://open.spotify.com/album/2iDxLzsD09N23JARBiIGPA"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500989,
+      "name": "Cuarteto Sessions #3",
+      "url": "https://open.spotify.com/track/28v5fIoIa2Y07nqAXgBcXC"
     },
     {
       "album": {
@@ -1864,7 +1882,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 174292,
       "name": "El Pa\u00f1uelo",
       "url": "https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA"
@@ -3430,7 +3448,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 258821,
       "name": "Manos de Tijera - En Vivo",
       "url": "https://open.spotify.com/track/3p1VmY21fzMIYq29YVsjWo"

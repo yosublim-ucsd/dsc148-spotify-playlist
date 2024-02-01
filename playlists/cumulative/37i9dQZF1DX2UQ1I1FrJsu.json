@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Best For You and Me",
+        "url": "https://open.spotify.com/album/2d9jANKXcVUhKC3NKmqC6G"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185263,
+      "name": "Best For You and Me",
+      "url": "https://open.spotify.com/track/5ivI4ndsDzRgUpxfTlziPZ"
+    },
+    {
+      "album": {
         "name": "Blood Milk Moon",
         "url": "https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3"
       },
@@ -1774,7 +1792,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 344893,
       "name": "When We Get By",
       "url": "https://open.spotify.com/track/1DNkxLaGqAIU43kHQkunoE"

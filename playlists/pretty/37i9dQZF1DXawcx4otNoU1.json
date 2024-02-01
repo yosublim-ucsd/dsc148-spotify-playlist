@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 500135,
+  "num_followers": 500100,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTQwN2ZlODVmM2RiZDQ4ZTFjNWQyNTE3ZTVhMjM1MDU1OTkzZTFl",
+  "snapshot_id": "MCwyMDNlYTkxOGVkNmVlODJlNGYxMmQxM2NhOTQ1ZTFkNWI3ZTA1MzFi",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Your Body Is a Wonderland",
+      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "E=MC2",
         "url": "https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX"
       },
@@ -473,20 +489,20 @@
       "url": "https://open.spotify.com/track/2aEuXA1KswHlCGPOuPmCOW"
     },
     {
-      "added_at": "2023-02-10 11:00:00",
+      "added_at": "2023-11-08 15:18:46",
       "album": {
-        "name": "Room For Squares",
-        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 249626,
-      "name": "Your Body Is a Wonderland",
-      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
+      "duration_ms": 209273,
+      "name": "SLOW DANCING IN THE DARK",
+      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -535,22 +551,6 @@
       "duration_ms": 206421,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/4Yw8TyBm9J8cpy2guHUYog"
-    },
-    {
-      "added_at": "2023-11-08 15:18:46",
-      "album": {
-        "name": "BALLADS 1",
-        "url": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 209273,
-      "name": "SLOW DANCING IN THE DARK",
-      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1273,22 +1273,6 @@
       "url": "https://open.spotify.com/track/3KcDfeZ1UAMtun8TuvG1kT"
     },
     {
-      "added_at": "2023-11-08 15:18:46",
-      "album": {
-        "name": "Temperature Rising",
-        "url": "https://open.spotify.com/album/3lalGt6k7JM3tIji1Xbgmk"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 136333,
-      "name": "Temperature Rising",
-      "url": "https://open.spotify.com/track/1FKFLWFa7fVoftc7UmYhDC"
-    },
-    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "ANTI (Deluxe)",
@@ -1303,6 +1287,22 @@
       "duration_ms": 223213,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH"
+    },
+    {
+      "added_at": "2023-11-08 15:18:46",
+      "album": {
+        "name": "Temperature Rising",
+        "url": "https://open.spotify.com/album/3lalGt6k7JM3tIji1Xbgmk"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 136333,
+      "name": "Temperature Rising",
+      "url": "https://open.spotify.com/track/1FKFLWFa7fVoftc7UmYhDC"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/5SIe3gy33G2i0oMexandjR"
     },
     {
-      "added_at": "2023-11-08 15:18:46",
-      "album": {
-        "name": "Life On Earth - EP",
-        "url": "https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 178026,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/7uwpgQQufpSsFIhhGJDHQF"
-    },
-    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "Unbreakable Smile",
@@ -1519,6 +1503,22 @@
       "duration_ms": 188946,
       "name": "I Was Made For Loving You",
       "url": "https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123"
+    },
+    {
+      "added_at": "2023-11-08 15:18:46",
+      "album": {
+        "name": "Life On Earth - EP",
+        "url": "https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 178026,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/7uwpgQQufpSsFIhhGJDHQF"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1749,22 +1749,6 @@
       "url": "https://open.spotify.com/track/7Gq4tfeuWPjr6WQiB7aBXz"
     },
     {
-      "added_at": "2023-11-08 15:18:46",
-      "album": {
-        "name": "Full Circle : Sonic Book One",
-        "url": "https://open.spotify.com/album/0ZTwFe2keKG5kkROe5Unf7"
-      },
-      "artists": [
-        {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
-        }
-      ],
-      "duration_ms": 173604,
-      "name": "Serious",
-      "url": "https://open.spotify.com/track/4FFbsUwwKfRjqVg3xJlhxS"
-    },
-    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "Same Kind Of Different (Acoustic)",
@@ -1795,6 +1779,22 @@
       "duration_ms": 205029,
       "name": "Just The Same",
       "url": "https://open.spotify.com/track/593gJ3mb44oBLSAezl2UkQ"
+    },
+    {
+      "added_at": "2023-11-08 15:18:46",
+      "album": {
+        "name": "Full Circle : Sonic Book One",
+        "url": "https://open.spotify.com/album/0ZTwFe2keKG5kkROe5Unf7"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        }
+      ],
+      "duration_ms": 173604,
+      "name": "Serious",
+      "url": "https://open.spotify.com/track/4FFbsUwwKfRjqVg3xJlhxS"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Max Jury",
+        "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
+      },
+      "artists": [
+        {
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
+        }
+      ],
+      "duration_ms": 235936,
+      "name": "Great American Novel",
+      "url": "https://open.spotify.com/track/1x8huXwyN6cqXVBcUt5fQR"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Greatest Covers Ever",
         "url": "https://open.spotify.com/album/4Q95NiPxJUIr8sT7qRlZts"
       },
@@ -2115,22 +2131,6 @@
       "duration_ms": 217864,
       "name": "Fast Car - Acoustic",
       "url": "https://open.spotify.com/track/6pZZ4FUkivhTGlVR8FZXE6"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Max Jury",
-        "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
-      },
-      "artists": [
-        {
-          "name": "Max Jury",
-          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
-        }
-      ],
-      "duration_ms": 235936,
-      "name": "Great American Novel",
-      "url": "https://open.spotify.com/track/1x8huXwyN6cqXVBcUt5fQR"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2199,6 +2199,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Eternally Even",
+        "url": "https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL"
+      },
+      "artists": [
+        {
+          "name": "Jim James",
+          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        }
+      ],
+      "duration_ms": 293413,
+      "name": "The World's Smiling Now",
+      "url": "https://open.spotify.com/track/6KrDF0sid0jwhbVIT0tatx"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Heaven on Earth",
         "url": "https://open.spotify.com/album/08R8TFMIdn2IwhDOmfKmqA"
       },
@@ -2215,22 +2231,6 @@
       "duration_ms": 192000,
       "name": "Heaven on Earth",
       "url": "https://open.spotify.com/track/3FTpb7bVZEK503Ldoiewm1"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Eternally Even",
-        "url": "https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL"
-      },
-      "artists": [
-        {
-          "name": "Jim James",
-          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
-        }
-      ],
-      "duration_ms": 293413,
-      "name": "The World's Smiling Now",
-      "url": "https://open.spotify.com/track/6KrDF0sid0jwhbVIT0tatx"
     },
     {
       "added_at": "2023-02-13 10:37:00",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Can't Help Falling in Love",
-        "url": "https://open.spotify.com/album/3uaM6qXgjvt808QQElryLw"
-      },
-      "artists": [
-        {
-          "name": "Jessie Kol",
-          "url": "https://open.spotify.com/artist/601HEblLzICOmtxDLs0XAf"
-        }
-      ],
-      "duration_ms": 178246,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/76uvt4jX5MgSaOa2XahlaC"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Night",
         "url": "https://open.spotify.com/album/3F1hX3PSva5Juqmgq1chey"
       },
@@ -2511,6 +2495,22 @@
       "duration_ms": 201010,
       "name": "Night",
       "url": "https://open.spotify.com/track/7jTiglRi4jwmq5Juixsk7G"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Can't Help Falling in Love",
+        "url": "https://open.spotify.com/album/3uaM6qXgjvt808QQElryLw"
+      },
+      "artists": [
+        {
+          "name": "Jessie Kol",
+          "url": "https://open.spotify.com/artist/601HEblLzICOmtxDLs0XAf"
+        }
+      ],
+      "duration_ms": 178246,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/76uvt4jX5MgSaOa2XahlaC"
     },
     {
       "added_at": "2023-02-10 11:00:00",

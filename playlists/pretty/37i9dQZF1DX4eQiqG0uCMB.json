@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 27497,
+  "num_followers": 27529,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjgwMjcxMWQ0YmE2MWQ3YjYyMzI0NjcyNjY5ODNkOTM1NGY1OTA0",
+  "snapshot_id": "MCwyOTE3NDYyMDMwNzUxZDBmMmRiYzVhYjZmZGE5MTAyZjNkZTJkMzdh",
   "tracks": [
     {
       "added_at": "2024-01-26 00:01:00",
@@ -279,18 +279,22 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+        "name": "Be Easy",
+        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
         }
       ],
-      "duration_ms": 153946,
-      "name": "i'm a mess",
-      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
+      "duration_ms": 132052,
+      "name": "Be Easy",
+      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -315,22 +319,18 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Be Easy",
-        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 132052,
-      "name": "Be Easy",
-      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
+      "duration_ms": 153946,
+      "name": "i'm a mess",
+      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
+        "name": "Proof Of Life (Deluxe)",
+        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 171700,
+      "name": "Black Car",
+      "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 208500,
       "name": "Beggie Beggie",
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Proof Of Life (Deluxe)",
-        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 171700,
-      "name": "Black Car",
-      "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
     },
     {
       "added_at": "2024-01-26 00:01:00",

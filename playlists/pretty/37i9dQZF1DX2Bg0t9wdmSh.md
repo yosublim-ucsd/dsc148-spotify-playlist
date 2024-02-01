@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/justinlaboy/">Justin LaBoy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,505 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,536 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 | 49 | [Black Men Don't Cheat \(feat\. Charlamagne tha God\)](https://open.spotify.com/track/07qrV60yRqp8ckQaI1jKfp) | [Lil Duval](https://open.spotify.com/artist/6YiHht3u7FFszle72kpbdQ), [Charlamagne Tha God](https://open.spotify.com/artist/6xWbtkHMXCQkmvYqSK8TZv) | [Black Men Don't Cheat \(feat\. Charlamagne tha God\)](https://open.spotify.com/album/71HFkoLVwaoO8eFaf0t7UG) | 2:51 |
 | 50 | [Stay Down \(with 6LACK & Young Thug\)](https://open.spotify.com/track/5PrUgp50eMSlL8oCF1tkQX) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Stay Down \(with 6LACK & Young Thug\)](https://open.spotify.com/album/6sj2rIjEotPclHMD1w3pZU) | 2:49 |
 
-Snapshot ID: `MCxkMGJiOWVlM2MzYzZiNTNlMWE0YjgyOWYwMWM3NDBlMDE0MjUxZGNk`
+Snapshot ID: `MCxlOTIwY2EzNTIwOGY3YTNiMjA0N2U0MWYwYjI2OTNhMDRmNmY3Zjdh`

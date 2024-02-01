@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 
 > Son jóvenes, guerreras y cool\. Foto: Kirnbauer, Joaquina Mertz, María Centeno & Noa Sainz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,393 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,358 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 43 | [Cero](https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 2:36 |
 | 44 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 |
 | 45 | [A TI](https://open.spotify.com/track/2vTR8PFCIyxM4kQHQdJVUB) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [me da miedo que escuches esto](https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw) | 2:18 |
-| 46 | [Todo Va A Cambiar](https://open.spotify.com/track/6HpkUsBtHe3qd8QO0s9XZj) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Karma C](https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh) | [Todo Va A Cambiar](https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg) | 2:27 |
-| 47 | [La Mariposa](https://open.spotify.com/track/56Q5cYrFTvaHbHmApsLdgI) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Sopita de pan](https://open.spotify.com/album/3XqCraq3luG498wyPggqup) | 4:24 |
+| 46 | [La Mariposa](https://open.spotify.com/track/56Q5cYrFTvaHbHmApsLdgI) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Sopita de pan](https://open.spotify.com/album/3XqCraq3luG498wyPggqup) | 4:24 |
+| 47 | [Todo Va A Cambiar](https://open.spotify.com/track/6HpkUsBtHe3qd8QO0s9XZj) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Karma C](https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh) | [Todo Va A Cambiar](https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg) | 2:27 |
 | 48 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 |
 | 49 | [La Experiencia](https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 4:20 |
 | 50 | [Cursi](https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG) | [Yamila Ruiz](https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl) | [Cursi](https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M) | 3:13 |
@@ -75,18 +75,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 65 | [El Imán](https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 4:03 |
 | 66 | [Y vos decís que me gustás](https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Y vos decís que me gustás](https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q) | 2:33 |
 | 67 | [Llorando Por Ti \(Banda Sonora Original "Todo Lo Otro"\)](https://open.spotify.com/track/2zsSYgjdUGMT5u1TlIlr85) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Llorando Por Ti \(Banda Sonora Original "Todo Lo Otro"\)](https://open.spotify.com/album/7eoFeduvdejcB9j28FL0fh) | 4:25 |
-| 68 | [Aguatera](https://open.spotify.com/track/7FR26rQuikSbhhNHf3HhX3) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Valle Encantado](https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S) | 3:23 |
-| 69 | [DNI](https://open.spotify.com/track/6XbgaRsf6hnl4dQJOtktrU) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [UN NÚMERO](https://open.spotify.com/album/2zh0d8IFJfVvUTWnGlW1up) | 1:43 |
+| 68 | [DNI](https://open.spotify.com/track/6XbgaRsf6hnl4dQJOtktrU) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [UN NÚMERO](https://open.spotify.com/album/2zh0d8IFJfVvUTWnGlW1up) | 1:43 |
+| 69 | [Aguatera](https://open.spotify.com/track/7FR26rQuikSbhhNHf3HhX3) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Valle Encantado](https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S) | 3:23 |
 | 70 | [AZÚCAR](https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [AZÚCAR](https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG) | 3:25 |
 | 71 | [Dwele](https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Dwele](https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz) | 3:12 |
 | 72 | [Con Mi Amiga](https://open.spotify.com/track/4BKlOSA4wnaqaqcGDrHucE) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg), [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 3:04 |
 | 73 | [Pisteando](https://open.spotify.com/track/0kRDY2gDmv3aCKd7AuLNnt) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [OSADÍA](https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa) | 2:13 |
 | 74 | [Detonación \- Remix](https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Detonación \(Remix\)](https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx) | 3:52 |
-| 75 | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 |
-| 76 | [Ninja](https://open.spotify.com/track/7lS3pVH9RCXIkUqV81IXMl) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Ninja](https://open.spotify.com/album/5Q0pxcgF1MirneMBhcfRff) | 2:56 |
-| 77 | [llorando en la luna](https://open.spotify.com/track/35uMVgoVbnzg4Dn3PfUNLO) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [llorando en la luna](https://open.spotify.com/album/4HMsUrIj0suIB94rokDgcj) | 2:57 |
-| 78 | [Suspiros](https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 2:35 |
-| 79 | [Nuestros Besos](https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Nuestros Besos](https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J) | 4:07 |
-| 80 | [Muy tarde](https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Muy tarde](https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X) | 3:15 |
+| 75 | [Ninja](https://open.spotify.com/track/7lS3pVH9RCXIkUqV81IXMl) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Ninja](https://open.spotify.com/album/5Q0pxcgF1MirneMBhcfRff) | 2:56 |
+| 76 | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 |
+| 77 | [Suspiros](https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 2:35 |
+| 78 | [Muy tarde](https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Muy tarde](https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X) | 3:15 |
+| 79 | [llorando en la luna](https://open.spotify.com/track/35uMVgoVbnzg4Dn3PfUNLO) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [llorando en la luna](https://open.spotify.com/album/4HMsUrIj0suIB94rokDgcj) | 2:57 |
+| 80 | [Nuestros Besos](https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Nuestros Besos](https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J) | 4:07 |
 
-Snapshot ID: `MCxhMjA2MTZmMzQyMmEwMzBiYWZlNDg1MzVhNzAyYzc3NDM4ZjQ0MDcw`
+Snapshot ID: `MCxhZGZkNTJlZTEwYWFkYjczMjNkMDdjOTJhNWM2Mjk1YzVmMGM3OGQ1`

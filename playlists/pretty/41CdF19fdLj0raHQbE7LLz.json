@@ -6,8 +6,24 @@
     "name": "spektrelive",
     "url": "https://open.spotify.com/user/spektrelive"
   },
-  "snapshot_id": "MTgyMyxmZWY4OGU0NzM1OWM5MjdjMDZkYTdkODE4M2UxMzE5YTBjOGJhZTY4",
+  "snapshot_id": "MTgyOSxjYjI5ZDg1NTI5ZWY5NzliNTBjODFjM2JhMmNiOWVlMThkNTQxN2Rh",
   "tracks": [
+    {
+      "added_at": "2024-01-31 18:52:22",
+      "album": {
+        "name": "Out of Touch",
+        "url": "https://open.spotify.com/album/1ekPNCDuFxEhC7GKGgahqy"
+      },
+      "artists": [
+        {
+          "name": "Bolster",
+          "url": "https://open.spotify.com/artist/534DhQnkivsYnHW478ZhLb"
+        }
+      ],
+      "duration_ms": 213822,
+      "name": "Out of Touch",
+      "url": "https://open.spotify.com/track/6SIepMjl42q78LP2utY9IH"
+    },
     {
       "added_at": "2023-11-15 15:16:02",
       "album": {
@@ -111,6 +127,22 @@
       "duration_ms": 201333,
       "name": "Nine Lives",
       "url": "https://open.spotify.com/track/17g4kXpTAARFVT5PujBvN8"
+    },
+    {
+      "added_at": "2024-01-31 18:52:26",
+      "album": {
+        "name": "Out of Touch",
+        "url": "https://open.spotify.com/album/1ekPNCDuFxEhC7GKGgahqy"
+      },
+      "artists": [
+        {
+          "name": "Bolster",
+          "url": "https://open.spotify.com/artist/534DhQnkivsYnHW478ZhLb"
+        }
+      ],
+      "duration_ms": 206214,
+      "name": "Wings of Imagination",
+      "url": "https://open.spotify.com/track/5pIpMTv5tPeqp2HZhSXbzA"
     },
     {
       "added_at": "2023-09-29 20:03:13",
@@ -2095,6 +2127,38 @@
       "duration_ms": 398175,
       "name": "Styx",
       "url": "https://open.spotify.com/track/6BGLpHleabwEG5V1xEcuVc"
+    },
+    {
+      "added_at": "2024-01-31 18:54:18",
+      "album": {
+        "name": "Clairvoyant",
+        "url": "https://open.spotify.com/album/03oox32OCziCwqYqMejYXg"
+      },
+      "artists": [
+        {
+          "name": "Crossbow",
+          "url": "https://open.spotify.com/artist/7w9hUQDypmlktoxpMa12dV"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Clairvoyant",
+      "url": "https://open.spotify.com/track/7sP4lDPMVGVrp5qSVjqXPD"
+    },
+    {
+      "added_at": "2024-01-31 18:54:22",
+      "album": {
+        "name": "Clairvoyant",
+        "url": "https://open.spotify.com/album/03oox32OCziCwqYqMejYXg"
+      },
+      "artists": [
+        {
+          "name": "Crossbow",
+          "url": "https://open.spotify.com/artist/7w9hUQDypmlktoxpMa12dV"
+        }
+      ],
+      "duration_ms": 241777,
+      "name": "Time Slip",
+      "url": "https://open.spotify.com/track/6TdvPhVuRv3wti78X8TRR0"
     }
   ],
   "unique_name": "Spektre's Selection",

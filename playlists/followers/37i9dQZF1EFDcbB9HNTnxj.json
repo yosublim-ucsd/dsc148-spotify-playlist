@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 1296,
+  "2024-02-01": 1296,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5T3bEdkDNnvnAjPdA5dH6M\">ROSAL\u00cdA</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By ROSAL\u00cdA",
@@ -35,10 +35,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 142314,
       "name": "A Pal\u00e9",
       "url": "https://open.spotify.com/track/5FEd9zRYUaAAguvCGsqZnm"
+    },
+    {
+      "album": {
+        "name": "A Pal\u00e9",
+        "url": "https://open.spotify.com/album/6B2RRiDJFXHojfPxKja5Mx"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143773,
+      "name": "A Pal\u00e9",
+      "url": "https://open.spotify.com/track/23zJcKwLf5CeaKVbFhrWgF"
     },
     {
       "album": {
@@ -100,6 +118,24 @@
     },
     {
       "album": {
+        "name": "Aute Cuture",
+        "url": "https://open.spotify.com/album/23irnvaijPHVE7682D4G3f"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147626,
+      "name": "Aute Cuture",
+      "url": "https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf"
+    },
+    {
+      "album": {
         "name": "Aute Cuture (Official Video)",
         "url": "https://open.spotify.com/album/3K4kOdeA53aOnW4TvxtRq4"
       },
@@ -111,7 +147,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 174954,
       "name": "Aute Cuture",
       "url": "https://open.spotify.com/track/05JK6YNdS8uP637A07aLom"
@@ -238,6 +274,24 @@
     },
     {
       "album": {
+        "name": "CANDY (Official Video)",
+        "url": "https://open.spotify.com/album/0jt5jPQAFA0c25EWHsNEzA"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161450,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/5TbybBJ0kD7c9ktScfrHrZ"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -249,7 +303,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 193480,
       "name": "CANDY",
       "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
@@ -278,6 +332,24 @@
     },
     {
       "album": {
+        "name": "TRAP CAKE VOL. 2",
+        "url": "https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167619,
+      "name": "CAPRICHOSO",
+      "url": "https://open.spotify.com/track/3Fm7EFSuLlW8KqWTPIYLZH"
+    },
+    {
+      "album": {
         "name": "CAPRICHOSO (Official Video)",
         "url": "https://open.spotify.com/album/0dWVx3sVZ1Jfa7DAlGGwcX"
       },
@@ -289,7 +361,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 173503,
       "name": "CAPRICHOSO",
       "url": "https://open.spotify.com/track/4xt815mtcGe2A1zXMvpKyD"
@@ -387,10 +459,36 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 161626,
       "name": "Con Altura",
       "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
+    },
+    {
+      "album": {
+        "name": "Con Altura (feat. El Guincho) [Official Video]",
+        "url": "https://open.spotify.com/album/6iJgawfPLgoO7oFRJwg3DX"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "El Guincho",
+          "url": "https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164458,
+      "name": "Con Altura (feat. El Guincho)",
+      "url": "https://open.spotify.com/track/4RkZZylpOWuHIw6UHOLxhk"
     },
     {
       "album": {
@@ -650,6 +748,24 @@
     },
     {
       "album": {
+        "name": "Sue\u00f1os de Dal\u00ed",
+        "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159132,
+      "name": "Goteo",
+      "url": "https://open.spotify.com/track/610ZRu7Iz5qbH4lZJ6e4Sx"
+    },
+    {
+      "album": {
         "name": "Goteo (Official Video)",
         "url": "https://open.spotify.com/album/1WycGJw3mkIK5mdzbsVrOd"
       },
@@ -661,7 +777,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 166442,
       "name": "Goteo",
       "url": "https://open.spotify.com/track/0Ul9yVtvQqoqYSpTQeyfS9"
@@ -679,10 +795,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 162906,
       "name": "HENTAI",
       "url": "https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh"
+    },
+    {
+      "album": {
+        "name": "HENTAI (Official Video)",
+        "url": "https://open.spotify.com/album/0cPMXthsSXoOqdvV0Jl3Yd"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173226,
+      "name": "HENTAI",
+      "url": "https://open.spotify.com/track/0sWNkba1kMWrW5oJYRTWCd"
     },
     {
       "album": {
@@ -789,10 +923,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 188106,
       "name": "LA FAMA",
       "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
+    },
+    {
+      "album": {
+        "name": "LA FAMA (Official Video)",
+        "url": "https://open.spotify.com/album/2JwZ7m43eu1r3xc8fHjGwU"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251370,
+      "name": "LA FAMA",
+      "url": "https://open.spotify.com/track/1tEITcLlQjfvudvEiI3OtO"
     },
     {
       "album": {

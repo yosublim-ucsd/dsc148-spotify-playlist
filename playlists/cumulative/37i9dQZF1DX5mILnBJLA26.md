@@ -2,7 +2,7 @@
 
 ### [AMAPIANO grooves](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
 
-> The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb?si=Jfag9go1TViPYcDj5HT0wg">Major League Djz</a>
+> The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV?si=wWs8MCk2TIa6Gbm27wSltA">Felo Le Tee</a>, <a href="https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju?si=bM2Y8krKTh2zgUo1GnAckw">Focalistic</a>
 
 1,170 songs - 5 day 1 hr 26 min
 

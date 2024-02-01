@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 176260,
+  "2024-02-01": 176339,
   "date_first_scraped": "2022-05-11",
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
   "name": "Oblique",
@@ -927,7 +927,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 166406,
       "name": "coma",
       "url": "https://open.spotify.com/track/5gpEgBBVfRQRJCC7qfC0bu"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 283026,
       "name": "Crash",
       "url": "https://open.spotify.com/track/2k1fCkx6hJ0o0yuXyyKeY8"
@@ -1809,6 +1809,24 @@
       "duration_ms": 186580,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/2y2lOdAh8e336PbTKw0pJV"
+    },
+    {
+      "album": {
+        "name": "Fix Me",
+        "url": "https://open.spotify.com/album/5PFGLj8Y6EoBePtUmWMAuI"
+      },
+      "artists": [
+        {
+          "name": "Mary Jane Dunphe",
+          "url": "https://open.spotify.com/artist/3nHn9XdKWpfNmG7JWm1ous"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241644,
+      "name": "Fix Me",
+      "url": "https://open.spotify.com/track/350Zs0oV6JzBYOg2ZpVpwy"
     },
     {
       "album": {
@@ -3248,6 +3266,24 @@
     },
     {
       "album": {
+        "name": "Life Drummer",
+        "url": "https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ"
+      },
+      "artists": [
+        {
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158638,
+      "name": "Life Drummer",
+      "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
+    },
+    {
+      "album": {
         "name": "Living Other Lives",
         "url": "https://open.spotify.com/album/1XuWrakQS8eSMygwDoM2XL"
       },
@@ -3387,6 +3423,24 @@
       "duration_ms": 167066,
       "name": "Lonely One",
       "url": "https://open.spotify.com/track/7dW6aiHZG0A8xApW0Xg40G"
+    },
+    {
+      "album": {
+        "name": "Lose",
+        "url": "https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP"
+      },
+      "artists": [
+        {
+          "name": "Boeckner",
+          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291037,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/729EJVbWkITU4vAc690cFE"
     },
     {
       "album": {
@@ -3829,7 +3883,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 196583,
       "name": "New Joy",
       "url": "https://open.spotify.com/track/2XWMDcbMGRypWYc58lOeTI"

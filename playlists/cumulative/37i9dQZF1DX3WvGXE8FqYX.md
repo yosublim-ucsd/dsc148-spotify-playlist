@@ -4,7 +4,7 @@
 
 > Celebrating all the great women of pop music\. Cover: Sophie Ellis Bextor
 
-552 songs - 1 day 9 hr 5 min
+553 songs - 1 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Genie In A Bottle \(Album Version\)](https://open.spotify.com/track/4gW7mm93XKmqdPduQ3bpqS) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Come On Over Baby/Genie In A Bottle](https://open.spotify.com/album/10uyvuWsvX8SSREpMrMYiJ) | 3:37 | 2021-03-09 | 2022-04-18 |
 | [Get on Your Feet](https://open.spotify.com/track/7awBgmQ3B0YscMXPBwE1gQ) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Cuts Both Ways](https://open.spotify.com/album/4rPsV2qfjewaH9tAidFVv9) | 3:38 | 2021-03-08 | 2022-04-19 |
 | [Ghost](https://open.spotify.com/track/4XPWKmy05Rcff6TLHNoNF8) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One \(Deluxe Version\)](https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8) | 3:33 | 2021-03-10 | 2022-04-19 |
-| [Girl on Fire](https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl on Fire \(Remixes\) \- EP](https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN) | 3:44 | 2019-09-05 |  |
+| [Girl on Fire](https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl on Fire \(Remixes\) \- EP](https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN) | 3:44 | 2019-09-05 | 2024-02-01 |
 | [Girls \(feat\. Cardi B, Bebe Rexha & Charli XCX\)](https://open.spotify.com/track/1YNQscOx6OqBQjxgJVhEeW) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Girls \(feat\. Cardi B, Bebe Rexha & Charli XCX\)](https://open.spotify.com/album/0TITR3yePyzJvlnQk61AWP) | 3:41 | 2019-05-26\* | 2019-08-29 |
 | [Give 'n' Take](https://open.spotify.com/track/72D5vQFXnIOqvBhnFfmyQE) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Give 'n' Take](https://open.spotify.com/album/1zYTI82P3qHJbL2rvilyDh) | 3:03 | 2020-06-12 | 2022-04-20 |
 | [Give A Little](https://open.spotify.com/track/4za2QYGfHlYml23pChrpXO) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Give A Little](https://open.spotify.com/album/6ZjnIplQKKNGlbGX589VG6) | 3:45 | 2019-06-21 | 2022-04-19 |
@@ -550,6 +550,7 @@
 | [Wrecking Ball](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:41 | 2020-06-12 |  |
 | [Ya Es Hora](https://open.spotify.com/track/7EhLfrKAUXOjVGkfVyXMdK) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Ya Es Hora](https://open.spotify.com/album/1Bn9Mqj0HHHfGQyOA66Nou) | 3:26 | 2021-03-08 | 2022-04-09 |
 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2021-03-01 | 2024-01-21 |
+| [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 | 2024-01-18 |  |
 | [You Need To Calm Down](https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:51 | 2020-03-09 | 2022-08-13 |
 | [You Need To Calm Down](https://open.spotify.com/track/29fRTIKsJhLUJoldM89GZS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You Need To Calm Down](https://open.spotify.com/album/21dd5QyItuoqvPkViQXlKf) | 2:51 | 2019-08-29 | 2022-07-29 |
 | [You should be sad](https://open.spotify.com/track/4ncDAlyP3gmCWefTlj27zp) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [You should be sad](https://open.spotify.com/album/0hXbi1NMz8paMkILeQEWW8) | 3:25 | 2020-03-08 | 2022-02-25 |

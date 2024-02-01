@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,035 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,427 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 42 | [Follow](https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Follow](https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ) | 3:41 |
 | 43 | [Low](https://open.spotify.com/track/4bAzLbJOkwkZEakSiKd3sZ) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Low](https://open.spotify.com/album/56aYNth1A4q02fd3cUn3QQ) | 2:15 |
 | 44 | [Blow It Up](https://open.spotify.com/track/7EXennxBRtugSuQX13uLSu) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb) | [Blow It Up](https://open.spotify.com/album/6nHzBvtQQsdGWXrLvZyMU9) | 3:01 |
-| 45 | [Bad Day](https://open.spotify.com/track/5qncWTWI5o2a4iKfDnzXDO) | [Agent Zed](https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc), [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Bad Day](https://open.spotify.com/album/17PiY34CSqVPtrgUNaKhet) | 2:15 |
-| 46 | [Not Fair](https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Not Fair](https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ) | 2:43 |
+| 45 | [Not Fair](https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Not Fair](https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ) | 2:43 |
+| 46 | [Bad Day](https://open.spotify.com/track/5qncWTWI5o2a4iKfDnzXDO) | [Agent Zed](https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc), [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Bad Day](https://open.spotify.com/album/17PiY34CSqVPtrgUNaKhet) | 2:15 |
 | 47 | [Shockwave \(with Afrojack\)](https://open.spotify.com/track/4bOVDHj19JdKriaDQu41wD) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Shockwave \(with Afrojack\)](https://open.spotify.com/album/7opy4llJFLXtwbqcPfpDZZ) | 2:02 |
 | 48 | [Anybody Out There](https://open.spotify.com/track/1RNVJLDH2ZtLIkUqQd9QxI) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [Anybody Out There](https://open.spotify.com/album/5SRLMR7GftfOdciVf9DjKM) | 3:08 |
 | 49 | [Tokyo Drift](https://open.spotify.com/track/2pnv23jwKKBqqlZuNjharT) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Tokyo Drift](https://open.spotify.com/album/0kxFjzNvxor4j4WuehCa7j) | 2:43 |
 | 50 | [What's Up](https://open.spotify.com/track/12yj178KaJo8PrddT0StaL) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [What's Up](https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd) | 2:27 |
 
-Snapshot ID: `MCwxMmJmMGJiNDlhNTJkOTk5MTlkMDQ2NjRjMDlkNjEyNjNiMzQwMzBm`
+Snapshot ID: `MCw3YTY0NGYyZWM0NTkwYWU5ZWZhYzc0ZWY5OGRiY2YyMmYyMzc3MmFk`

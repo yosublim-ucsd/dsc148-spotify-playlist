@@ -1,12 +1,12 @@
 {
   "description": "Bring the festival vibes to wherever you are with these dance bangers. ",
-  "num_followers": 68768,
+  "num_followers": 68785,
   "original_name": "The Dance Tent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzEzNjE1N2VjYTg4Yzk0MmUyODAzMjQ0NmQ3MzNjN2RiMWViODA5",
+  "snapshot_id": "MCw3MjhmYTk4MDNmYjI0MGNjMzMzN2VhYTg0MzQwNDJjM2YwNWZjZjY0",
   "tracks": [
     {
       "added_at": "2023-12-04 19:48:33",
@@ -779,18 +779,22 @@
     {
       "added_at": "2023-12-04 19:48:33",
       "album": {
-        "name": "Be The One",
-        "url": "https://open.spotify.com/album/5XtT7YyAjN783nSW9ZtNBo"
+        "name": "Fingerprints",
+        "url": "https://open.spotify.com/album/4ABIVST2di5nUzxsT0EZtb"
       },
       "artists": [
         {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+          "name": "Hybrid Minds",
+          "url": "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        },
+        {
+          "name": "Grace Grundy",
+          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Be The One",
-      "url": "https://open.spotify.com/track/63MBVrJ8nADdP4AXbBGlOj"
+      "duration_ms": 228965,
+      "name": "Fingerprints",
+      "url": "https://open.spotify.com/track/15oT4PGAtcWflYCVUCtkug"
     }
   ],
   "unique_name": "The Dance Tent",

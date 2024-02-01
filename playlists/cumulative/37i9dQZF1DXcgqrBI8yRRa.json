@@ -701,6 +701,24 @@
     },
     {
       "album": {
+        "name": "Babypiano",
+        "url": "https://open.spotify.com/album/2iga02bWi3unnuNY5J3nTa"
+      },
+      "artists": [
+        {
+          "name": "Carterefe",
+          "url": "https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151048,
+      "name": "Babypiano",
+      "url": "https://open.spotify.com/track/1Ohnxph900OeLlXj78mNwh"
+    },
+    {
+      "album": {
         "name": "Bad Habit",
         "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
       },
@@ -2494,7 +2512,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 204839,
       "name": "Finders Keepers (feat. Kojo Funds) - Jaydon Lewis Remix",
       "url": "https://open.spotify.com/track/2OCsSsNyMfY4NV1d0y1PVC"
@@ -2999,6 +3017,32 @@
     },
     {
       "album": {
+        "name": "Hade Boss",
+        "url": "https://open.spotify.com/album/1p1GcNM063zEJBu0NsM4DO"
+      },
+      "artists": [
+        {
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        },
+        {
+          "name": "Mr Nation Thingz",
+          "url": "https://open.spotify.com/artist/5N1to90ym4E3lzJg0CyEGH"
+        },
+        {
+          "name": "K.C Driller",
+          "url": "https://open.spotify.com/artist/4q9iK3DBv5DqV3Pn49ynXp"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382334,
+      "name": "Hade Boss",
+      "url": "https://open.spotify.com/track/2ee1Pa7Gs7lIGRXrl217IG"
+    },
+    {
+      "album": {
         "name": "Happiness (feat. Asake & Gunna)",
         "url": "https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf"
       },
@@ -3282,7 +3326,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 169273,
       "name": "Id.Me",
       "url": "https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl"
@@ -4253,6 +4297,24 @@
     },
     {
       "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
+    },
+    {
+      "album": {
         "name": "Majo (feat. Wizkid, Alpha P & Tay Iwar)",
         "url": "https://open.spotify.com/album/3Rz3SAnhOnXaf2llHOBDCo"
       },
@@ -4294,7 +4356,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 203889,
       "name": "Malaika",
       "url": "https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar"
@@ -4651,6 +4713,24 @@
     },
     {
       "album": {
+        "name": "Never Lose Me",
+        "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125901,
+      "name": "Never Lose Me",
+      "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
+    },
+    {
+      "album": {
         "name": "Trench to Triumph",
         "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
       },
@@ -4932,7 +5012,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 210194,
       "name": "Ololufe (feat. Wande Coal)",
       "url": "https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v"

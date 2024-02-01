@@ -1,12 +1,12 @@
 {
   "description": "La banda de sonido de tu d\u00eda.",
-  "num_followers": 167955,
+  "num_followers": 168010,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWFlZDYwMWRkNmU3ODA5ODFkNjY2NmEzMGI0YWNmNDQ4ZGNmZTc1",
+  "snapshot_id": "MCxhYjA5N2Q1MmQyMzk3NjRmZmM0YWY3ZmVlNWMxMjY5MzhkYWI3MTQz",
   "tracks": [
     {
       "added_at": "2024-01-26 03:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 289760,
-      "name": "Creo",
-      "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "La Mosca y la Sopa",
         "url": "https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 206200,
       "name": "Un Poco de Amor Franc\u00e9s",
       "url": "https://open.spotify.com/track/14rcLGX83RpsORAIzC4U4g"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 289760,
+      "name": "Creo",
+      "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 281920,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "Lobo Suelto",
         "url": "https://open.spotify.com/album/1cvN5QA28nC5QYpjoksMGe"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 231533,
       "name": "Un \u00c1ngel para Tu Soledad",
       "url": "https://open.spotify.com/track/6kUopck7LHVadAjAFcXiTj"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 281920,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Toro Rojo",
-        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
+        "name": "La Mosca y la Sopa",
+        "url": "https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 250173,
-      "name": "Reyes de la Noche",
-      "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
+      "duration_ms": 223040,
+      "name": "Tarea Fina",
+      "url": "https://open.spotify.com/track/4mZHvbJWkK9uVmD9SvHKao"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
+        "name": "Toro Rojo",
+        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 250173,
+      "name": "Reyes de la Noche",
+      "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
         "name": "Vicio",
         "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 174626,
       "name": "Descontrolado",
       "url": "https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Tarea Fina",
-      "url": "https://open.spotify.com/track/4mZHvbJWkK9uVmD9SvHKao"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Al Parecer Todo Ha Sido una Trampa",
-        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 233839,
-      "name": "Pensamientos",
-      "url": "https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "Gulp!",
         "url": "https://open.spotify.com/album/1yfbnWxr2stypbpB3K0547"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 247066,
       "name": "La Bestia Pop",
       "url": "https://open.spotify.com/track/6BHlafXY1L2eetDCwict05"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "Al Parecer Todo Ha Sido una Trampa",
+        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 233839,
+      "name": "Pensamientos",
+      "url": "https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
+        "name": "Oktubre",
+        "url": "https://open.spotify.com/album/0TmPRZoau8M0QIfnMgwrlI"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 334600,
+      "name": "Ji Ji Ji",
+      "url": "https://open.spotify.com/track/0VWBsKl936U9OO0zypvRCZ"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
         "name": "DESCARTABLE",
         "url": "https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 211653,
       "name": "Como Al\u00ed",
       "url": "https://open.spotify.com/track/3yJKzKUDLo65qDDBDZm9im"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
-        "name": "Oktubre",
-        "url": "https://open.spotify.com/album/0TmPRZoau8M0QIfnMgwrlI"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 334600,
-      "name": "Ji Ji Ji",
-      "url": "https://open.spotify.com/track/0VWBsKl936U9OO0zypvRCZ"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Divididos Por La Felicidad",
-        "url": "https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR"
-      },
-      "artists": [
-        {
-          "name": "Sumo",
-          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "La Rubia Tarada",
-      "url": "https://open.spotify.com/track/0RaRyvHA4z1VWq9BJhA65s"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "Pajaritos, Bravos Muchachitos",
         "url": "https://open.spotify.com/album/751S3DWTtH4C5Pfpk4KJ6d"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+        "name": "Divididos Por La Felicidad",
+        "url": "https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR"
       },
       "artists": [
         {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
         }
       ],
-      "duration_ms": 209893,
-      "name": "Mi Caramelo - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/2pC6LUWFEf2S6BIuBjrWWF"
+      "duration_ms": 222533,
+      "name": "La Rubia Tarada",
+      "url": "https://open.spotify.com/track/0RaRyvHA4z1VWq9BJhA65s"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1191,6 +1175,22 @@
       "duration_ms": 337538,
       "name": "DOCTORA II",
       "url": "https://open.spotify.com/track/0ei64Ivi3kxqHaQuYByc79"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 209893,
+      "name": "Mi Caramelo - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/2pC6LUWFEf2S6BIuBjrWWF"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 321640,
+      "name": "El Tiempo No Para - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/1PBFuWxDnAj0iRkPaePboA"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
         "name": "Tu Encanto",
         "url": "https://open.spotify.com/album/5sNubtE2kol6DLs6o9y0K0"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 211992,
       "name": "Tu Encanto",
       "url": "https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 321640,
-      "name": "El Tiempo No Para - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/1PBFuWxDnAj0iRkPaePboA"
     },
     {
       "added_at": "2024-01-26 03:00:00",

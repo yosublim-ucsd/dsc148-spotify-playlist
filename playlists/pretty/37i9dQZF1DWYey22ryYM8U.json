@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Juan Luis Guerra",
-  "num_followers": 601337,
+  "num_followers": 601282,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDk3ZmJhZDY1ZDU0OTk4YTY1ZTk4YmU1ZjkxYmJkMjY5NzcxYmQ2",
+  "snapshot_id": "MCxkMjk0NjUwZTVjMWJhMTUwNTRhZTUyNDc3ZDVlYmVhMTA5YmNlZWNi",
   "tracks": [
     {
       "added_at": "2024-01-25 23:14:25",
@@ -151,6 +151,22 @@
     {
       "added_at": "2024-01-25 23:14:25",
       "album": {
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "LA CAPI",
+      "url": "https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw"
+    },
+    {
+      "added_at": "2024-01-25 23:14:25",
+      "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 230125,
       "name": "Volv\u00ed",
       "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
-    },
-    {
-      "added_at": "2024-01-25 23:14:25",
-      "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "LA CAPI",
-      "url": "https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw"
     },
     {
       "added_at": "2024-01-25 23:14:25",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2024-01-25 23:14:25",
       "album": {
-        "name": "Fe",
-        "url": "https://open.spotify.com/album/3nv7KZA7usN15q1m5Xbjzw"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 213316,
-      "name": "Dios Asi Lo Quiso",
-      "url": "https://open.spotify.com/track/48WszbQrrjEnouJmKzNDba"
-    },
-    {
-      "added_at": "2024-01-25 23:14:25",
-      "album": {
         "name": "H\u00e1blame de Miami",
         "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 158773,
       "name": "H\u00e1blame de Miami",
       "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
+    },
+    {
+      "added_at": "2024-01-25 23:14:25",
+      "album": {
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/3nv7KZA7usN15q1m5Xbjzw"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 213316,
+      "name": "Dios Asi Lo Quiso",
+      "url": "https://open.spotify.com/track/48WszbQrrjEnouJmKzNDba"
     },
     {
       "added_at": "2024-01-25 23:14:25",

@@ -1,12 +1,12 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Jarina De Marco en portada.",
-  "num_followers": 36354,
+  "num_followers": 36361,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODg0Y2ViYzg2OTk2MmNlYjM2MTQ4NDc3ZTkxNGNiYWQ0ODUyNWM5",
+  "snapshot_id": "MCwzNjQyOTQ1NjJkYjZjNGYwMjNlYTRmNTYzOTc1ZWUxYWJiNDJlZmIw",
   "tracks": [
     {
       "added_at": "2023-12-07 01:08:32",
@@ -949,42 +949,6 @@
       "url": "https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi"
     },
     {
-      "added_at": "2023-12-07 01:08:32",
-      "album": {
-        "name": "Amores Pasajeros",
-        "url": "https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        },
-        {
-          "name": "Nino Augustine",
-          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
-        }
-      ],
-      "duration_ms": 145062,
-      "name": "Real Luv",
-      "url": "https://open.spotify.com/track/33cDr0F2NZHw0HonZ24aZh"
-    },
-    {
-      "added_at": "2023-12-07 01:08:32",
-      "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 187430,
-      "name": "\u00d1e \u00d1e \u00d1\u00e9",
-      "url": "https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea"
-    },
-    {
       "added_at": "2023-05-05 23:46:53",
       "album": {
         "name": "Canoas",
@@ -1001,20 +965,20 @@
       "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
     },
     {
-      "added_at": "2023-10-12 02:18:45",
+      "added_at": "2023-12-07 01:08:32",
       "album": {
-        "name": "Switched-On",
-        "url": "https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD"
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
       },
       "artists": [
         {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 213541,
-      "name": "Sale el Sol",
-      "url": "https://open.spotify.com/track/1YKNaQqLDMVNDULbyOHGqK"
+      "duration_ms": 187430,
+      "name": "\u00d1e \u00d1e \u00d1\u00e9",
+      "url": "https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea"
     },
     {
       "added_at": "2023-06-01 16:51:17",
@@ -1037,6 +1001,22 @@
       "url": "https://open.spotify.com/track/40Qrc6OlhCPokKfigR987S"
     },
     {
+      "added_at": "2023-10-12 02:18:45",
+      "album": {
+        "name": "Switched-On",
+        "url": "https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 213541,
+      "name": "Sale el Sol",
+      "url": "https://open.spotify.com/track/1YKNaQqLDMVNDULbyOHGqK"
+    },
+    {
       "added_at": "2023-05-05 23:46:53",
       "album": {
         "name": "Piedras del Sol",
@@ -1055,6 +1035,26 @@
       "duration_ms": 222426,
       "name": "Piedras del Sol",
       "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
+    },
+    {
+      "added_at": "2023-12-07 01:08:32",
+      "album": {
+        "name": "Amores Pasajeros",
+        "url": "https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        },
+        {
+          "name": "Nino Augustine",
+          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
+        }
+      ],
+      "duration_ms": 145062,
+      "name": "Real Luv",
+      "url": "https://open.spotify.com/track/33cDr0F2NZHw0HonZ24aZh"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1145,26 +1145,6 @@
       "url": "https://open.spotify.com/track/35dti3qmFz9CoPueVni1iW"
     },
     {
-      "added_at": "2023-11-23 02:53:45",
-      "album": {
-        "name": "Monumento",
-        "url": "https://open.spotify.com/album/0KCzvW9btMbZpM2JVPZj4s"
-      },
-      "artists": [
-        {
-          "name": "Jarina De Marco",
-          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
-        },
-        {
-          "name": "Calacote",
-          "url": "https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO"
-        }
-      ],
-      "duration_ms": 162120,
-      "name": "Monumento",
-      "url": "https://open.spotify.com/track/1Lb0j0vG9oNCvZYqhXLa4s"
-    },
-    {
       "added_at": "2023-05-05 23:46:53",
       "album": {
         "name": "Sagitario",
@@ -1183,6 +1163,26 @@
       "duration_ms": 265187,
       "name": "Sagitario",
       "url": "https://open.spotify.com/track/47o3EFBMHF6d7HgKbmA0oo"
+    },
+    {
+      "added_at": "2023-11-23 02:53:45",
+      "album": {
+        "name": "Monumento",
+        "url": "https://open.spotify.com/album/0KCzvW9btMbZpM2JVPZj4s"
+      },
+      "artists": [
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        },
+        {
+          "name": "Calacote",
+          "url": "https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO"
+        }
+      ],
+      "duration_ms": 162120,
+      "name": "Monumento",
+      "url": "https://open.spotify.com/track/1Lb0j0vG9oNCvZYqhXLa4s"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -1277,6 +1277,30 @@
       "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
     },
     {
+      "added_at": "2023-09-25 00:03:53",
+      "album": {
+        "name": "Caribbean All-Inclusive Luxury",
+        "url": "https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl"
+      },
+      "artists": [
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        },
+        {
+          "name": "Calacote",
+          "url": "https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO"
+        },
+        {
+          "name": "mediopicky",
+          "url": "https://open.spotify.com/artist/6vOfSVXZAWvuZliupPw4Wm"
+        }
+      ],
+      "duration_ms": 182001,
+      "name": "Masa",
+      "url": "https://open.spotify.com/track/3f1sD5hO3N1loYO79wX27L"
+    },
+    {
       "added_at": "2023-05-05 23:46:53",
       "album": {
         "name": "Manifest Tone EP",
@@ -1323,30 +1347,6 @@
       "duration_ms": 228793,
       "name": "Sabe a Tu Nombre",
       "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
-    },
-    {
-      "added_at": "2023-09-25 00:03:53",
-      "album": {
-        "name": "Caribbean All-Inclusive Luxury",
-        "url": "https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl"
-      },
-      "artists": [
-        {
-          "name": "Jarina De Marco",
-          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
-        },
-        {
-          "name": "Calacote",
-          "url": "https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO"
-        },
-        {
-          "name": "mediopicky",
-          "url": "https://open.spotify.com/artist/6vOfSVXZAWvuZliupPw4Wm"
-        }
-      ],
-      "duration_ms": 182001,
-      "name": "Masa",
-      "url": "https://open.spotify.com/track/3f1sD5hO3N1loYO79wX27L"
     },
     {
       "added_at": "2023-05-05 23:46:53",

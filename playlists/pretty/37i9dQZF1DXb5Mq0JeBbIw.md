@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 
 > Soft songs that gives you a gentle start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,877 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,916 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,18 +62,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 52 | [Sunflower](https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Sunflower](https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw) | 3:01 |
 | 53 | [Rosie](https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sometimes It's Something, Sometimes It's Nothing at All](https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR) | 1:58 |
 | 54 | [Fill Me Up](https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Fill Me Up](https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14) | 2:34 |
-| 55 | [Sweet Dream](https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao) | [Greg Laswell](https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC) | [Three Flights From Alto Nido](https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH) | 1:07 |
-| 56 | [Free](https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Free](https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB) | 3:19 |
-| 57 | [Sorrow](https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Mystery](https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe) | 3:12 |
-| 58 | [see u tomorrow \- stripped](https://open.spotify.com/track/2yey1giM7ReLBWsGnlGqR1) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [see u tomorrow \(stripped\)](https://open.spotify.com/album/5vZlS7f7ZH0HJLdKgG9bJH) | 3:17 |
+| 55 | [Free](https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Free](https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB) | 3:19 |
+| 56 | [Sweet Dream](https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao) | [Greg Laswell](https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC) | [Three Flights From Alto Nido](https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH) | 1:07 |
+| 57 | [see u tomorrow \- stripped](https://open.spotify.com/track/2yey1giM7ReLBWsGnlGqR1) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [see u tomorrow \(stripped\)](https://open.spotify.com/album/5vZlS7f7ZH0HJLdKgG9bJH) | 3:17 |
+| 58 | [Sorrow](https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Mystery](https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe) | 3:12 |
 | 59 | [Meltdown \- Acoustic](https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown \(Acoustic\)](https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK) | 3:44 |
 | 60 | [No Right To Love You \- Acoustic](https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF) | 3:49 |
 | 61 | [This Is What It Takes](https://open.spotify.com/track/0vW819CC45qQzi1lM9PaAg) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:50 |
 | 62 | [10 Summers](https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [10 Summers](https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx) | 2:40 |
-| 63 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 |
-| 64 | [T\-Shirts \- Acoustic](https://open.spotify.com/track/4TuldNZ6ojVCsvVh0yJyrw) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/6hqV9kF9ktgt9BFWz8oQTG) | 3:15 |
-| 65 | [So Sick \- Acoustic](https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words \(Deluxe 15th Anniversary Edition\)](https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1) | 3:02 |
-| 66 | [Mirage](https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Mirage](https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D) | 2:44 |
+| 63 | [T\-Shirts \- Acoustic](https://open.spotify.com/track/4TuldNZ6ojVCsvVh0yJyrw) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/6hqV9kF9ktgt9BFWz8oQTG) | 3:15 |
+| 64 | [Mirage](https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Mirage](https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D) | 2:44 |
+| 65 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 |
+| 66 | [So Sick \- Acoustic](https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words \(Deluxe 15th Anniversary Edition\)](https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1) | 3:02 |
 | 67 | [Hold On \(From "Dear Edward"\)](https://open.spotify.com/track/1eAXHyBCQijbrNhePcFXGK) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Hold On \(From "Dear Edward"\)](https://open.spotify.com/album/1bknYvQti8ecOKjWl7qEsm) | 2:36 |
 | 68 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
 | 69 | [First Time](https://open.spotify.com/track/39gE6tDHRL072PInfAabLi) | [Brimsley](https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd) | [First Time](https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz) | 3:13 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 81 | [1979](https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [1979](https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg) | 4:50 |
 | 82 | [Wonderwall](https://open.spotify.com/track/4b6ru8IDPaVNw4ccHjYOSg) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Wonderwall](https://open.spotify.com/album/5dqiCzCXC1zrV6H6RDoLKe) | 3:56 |
 | 83 | [Malibu Nights](https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR) | [Cole Norton](https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy) | [Malibu Nights](https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW) | 3:36 |
-| 84 | [Without You](https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Without You](https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc) | 4:32 |
-| 85 | [Chasing After the Moon](https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Chasing After the Moon](https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u) | 3:58 |
+| 84 | [Chasing After the Moon](https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Chasing After the Moon](https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u) | 3:58 |
+| 85 | [Without You](https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Without You](https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc) | 4:32 |
 | 86 | [Sometimes I Feel](https://open.spotify.com/track/3EYPZf77N4PKCYbKpJAK7A) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [Sometimes I Feel](https://open.spotify.com/album/6lCLB2OMj5ypVqKthI4E6r) | 2:27 |
 | 87 | [Hailey \- Acoustic](https://open.spotify.com/track/5q529aJou2KbRCzDj5TYtI) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Hailey \(Acoustic\)](https://open.spotify.com/album/4xEYNfrEr2Jz9e52KevWRm) | 3:28 |
 | 88 | [Breathe \- Acoustic](https://open.spotify.com/track/0XjVo7NzYlgQDgMt4s3IqX) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Neev](https://open.spotify.com/artist/4Ww02MqPOCYw0CufxePGkC) | [Breathe \(Acoustic\)](https://open.spotify.com/album/0sGeMxvcV4ggQUdSimDSe5) | 4:05 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 96 | [Find You \- Acoustic](https://open.spotify.com/track/7xN977RNEqdvirU4OqBa10) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Find You \(Acoustic\)](https://open.spotify.com/album/19QixZrqTEYcOQCB5F88jJ) | 3:15 |
 | 97 | [I'm Not The Only One \- Acoustic Version](https://open.spotify.com/track/4CtKNyoQqS7Tm2fsftrNy9) | [Hamilton](https://open.spotify.com/artist/0djOiFh4VBdH2zXqJOvEnn) | [I'm Not The Only One \(Acoustic Version\)](https://open.spotify.com/album/6QDUsAAMMBkqX8y2S5N884) | 3:33 |
 | 98 | [Used To Be Friends](https://open.spotify.com/track/4fbeu4wV0MOBukfwLpj9gB) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Used To Be Friends](https://open.spotify.com/album/79akwCBsh45bYm4j5Gumix) | 5:35 |
-| 99 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3pAsI7X41AWYTeH50ryxAs) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/2hfiqE3A9MDiS0VbGhWLYr) | 2:43 |
-| 100 | [Heaven Knows, Right?](https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 4:20 |
+| 99 | [Heaven Knows, Right?](https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 4:20 |
+| 100 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3pAsI7X41AWYTeH50ryxAs) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/2hfiqE3A9MDiS0VbGhWLYr) | 2:43 |
 
-Snapshot ID: `MCw0MWY1YjA0MTY4YzRiMGM0ZDgzNDNjOTU0ZDc2ZDM1NDlkZDBlYWRk`
+Snapshot ID: `MCw0NjMzMGYzYjg5ZTA1YjQxZjkwMzU2YjI0OWU5MzE1YjQ1NDVkNjQw`

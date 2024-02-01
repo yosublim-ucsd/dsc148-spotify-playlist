@@ -7453,6 +7453,24 @@
     },
     {
       "album": {
+        "name": "#WhatWeDoAtNight 4 EP 2",
+        "url": "https://open.spotify.com/album/2SZVCA4Thr4q78S1zMj0zM"
+      },
+      "artists": [
+        {
+          "name": "Blank & Jones",
+          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343236,
+      "name": "Nightrider",
+      "url": "https://open.spotify.com/track/5p2QAe34bA2pXVD875jfBu"
+    },
+    {
+      "album": {
         "name": "Niteroi",
         "url": "https://open.spotify.com/album/0jq9PRK0SmS4otBgG5bGnt"
       },
@@ -8824,7 +8842,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 226347,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/54PCyKj5lICOgjk5WaC0li"

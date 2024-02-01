@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,752 likes - 151 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,776 likes - 151 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 135 | [Lazy Me](https://open.spotify.com/track/7IKiYUKvU394eoRD9TYDfJ) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Lazy Me](https://open.spotify.com/album/6zvdQKxr377crdbVupq7I7) | 3:07 |
 | 136 | [Idle Idle](https://open.spotify.com/track/17I6f6dlUmBQxHCBTWPBxT) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Idle Idle](https://open.spotify.com/album/5oJiWLZ8JGsYPh9Pdq9D2s) | 3:38 |
 | 137 | [Peach](https://open.spotify.com/track/3hbi6hayJ6OibzGe3fWLwf) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Spring of Twenty](https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb) | 3:10 |
-| 138 | [Like We Turn the Pages](https://open.spotify.com/track/4TlOsdI9nScXp9drxUOZVk) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Like We Turn the Pages](https://open.spotify.com/album/10TE6ow8ZCGrO0mTe0tWbE) | 3:12 |
+| 138 | [책을 넘기는 듯한 마음으로](https://open.spotify.com/track/4TlOsdI9nScXp9drxUOZVk) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [책을 넘기는 듯한 마음으로](https://open.spotify.com/album/10TE6ow8ZCGrO0mTe0tWbE) | 3:12 |
 | 139 | [A little more](https://open.spotify.com/track/5JXZEz2nO23mXsYY4nNREW) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [A little more \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/0FW5ce3s0jz6k4RJfoBBhd) | 3:32 |
 | 140 | [Gold Dust](https://open.spotify.com/track/0Hj4YtlD0Q5O0srdZxJUtl) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 4:09 |
 | 141 | [Love](https://open.spotify.com/track/5VeXj6AN1SDRfvcjafPKCc) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Love](https://open.spotify.com/album/2lyGDRXefXaQLpkO9LFchu) | 3:43 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 150 | [Why Not?](https://open.spotify.com/track/7zdzUXDmFWX2fU0lRRjwBS) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [Why Not?](https://open.spotify.com/album/5BPXrF9UC8cckWFWNMcdO6) | 3:28 |
 | 151 | [Beginning of Love](https://open.spotify.com/track/1X4dEyCWKnHS6cMA1n02n7) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [As A Man Rather Than A Friend](https://open.spotify.com/album/1jnSwvqHYKcsx57mOxXt25) | 3:28 |
 
-Snapshot ID: `MCwxNzhlN2FkOTgxNmIyMGJlMDE5MzdkNGVlNGJmYTg2NmNkNTllNDk4`
+Snapshot ID: `MCw4YTA4ZjE5ZTE5ZDBjMjc3MGM5YjM4MTg1ZDU4NDBlZWM1YmJhMjM3`

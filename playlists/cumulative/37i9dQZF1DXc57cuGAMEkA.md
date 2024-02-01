@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。Justice & TAME IMPALA, Justin Timberlake, James Arthur, 緑黄色社会 and more! Cover: Justice & TAME IMPALA
 
-3,920 songs - 9 day 6 hr 22 min
+3,921 songs - 9 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3498,7 +3498,8 @@
 | [Why](https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Why](https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w) | 3:28 | 2023-11-16 | 2023-12-09 |
 | [Why Would I?](https://open.spotify.com/track/5IN2qvFpISNge4Bed3fJz4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Why Would I?](https://open.spotify.com/album/2lAvIgCeAzIgdjJHLjuBt5) | 1:59 | 2023-10-05 | 2023-10-13 |
 | [Widows](https://open.spotify.com/track/7uekrO5T87CllybcQdhRVd) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Driving Just To Drive](https://open.spotify.com/album/28DLjjQKZ9qRvKFSu5Y7QM) | 3:48 | 2023-04-27 | 2023-05-05 |
-| [Wife](https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Wife](https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK) | 2:01 | 2024-01-25 |  |
+| [Wife](https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:01 | 2024-01-25 |  |
+| [Wife](https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Wife](https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK) | 2:01 | 2024-01-25 | 2024-02-01 |
 | [Wild](https://open.spotify.com/track/6HziIqUKIzfSAHOpVtALrL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [Wild](https://open.spotify.com/album/2nYb1jBuzoEsHYIrh7ueL9) | 2:15 | 2023-03-24 | 2023-03-31 |
 | [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/track/3jK53bWJDGzbTbqaBayfBB) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/album/6AxPMn4e6dETGN7PNvH3xM) | 3:30 | 2023-03-17 | 2023-03-25 |
 | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g) | 2:21 | 2023-10-05 | 2023-10-13 |

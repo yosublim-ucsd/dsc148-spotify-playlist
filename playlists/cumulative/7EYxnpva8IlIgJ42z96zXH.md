@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/7EYxnpva8IlIgJ42z96zXH.md) - cumulative - [plain](/playlists/plain/7EYxnpva8IlIgJ42z96zXH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7EYxnpva8IlIgJ42z96zXH)
 
-### [Morning Workout 2024](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
+### [Morning Workout](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
 
-> Kickstart your morning workout with these upbeat workout tracks, updated weekly!
+> Kickstart your morning workout with these upbeat workout tracks, updated weekly! Featuring Dom Dolla, Kygo, cassö, Calvin Harris and more.
 
 799 songs - 1 day 18 hr 14 min
 

@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 214212,
+  "2024-02-01": 214569,
   "date_first_scraped": "2023-03-14",
   "description": "love peace techno",
   "name": "rave",
@@ -549,6 +549,24 @@
       "duration_ms": 280208,
       "name": "Chaotic NRG",
       "url": "https://open.spotify.com/track/5FKmQG3seap8bwPjbmQc5a"
+    },
+    {
+      "album": {
+        "name": "Close Your Eyes EP",
+        "url": "https://open.spotify.com/album/6hHi4OlpNnto3GNoLQyUG9"
+      },
+      "artists": [
+        {
+          "name": "Alignment",
+          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301080,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/1Hll6B9gqsOFi2Bln02laD"
     },
     {
       "album": {
@@ -3451,7 +3469,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 415522,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/24ODAgW6PvaHTl7QUgaoqk"

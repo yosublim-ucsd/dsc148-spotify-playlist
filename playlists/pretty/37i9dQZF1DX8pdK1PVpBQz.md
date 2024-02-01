@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover:Donny Benét\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,035 likes - 101 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,036 likes - 101 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 100 | [How I'd Kill](https://open.spotify.com/track/44zcMuVzpIb0RnzuxipJOn) | [Cowboy Malfoy](https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH) | [How I'd Kill](https://open.spotify.com/album/30m9Iow7aDLodvubk5eg4b) | 2:23 |
 | 101 | [exactly the same](https://open.spotify.com/track/7KAFWdeDgkekYrjFomiXkB) | [yergurl](https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo) | [exactly the same](https://open.spotify.com/album/6QWdwdcEsYCXHmvp9GVzAx) | 2:31 |
 
-Snapshot ID: `MCxlNmY4ZWZhZDdjNjA1ODJmNDVjNTE2NDhhYjk3NjI3MTdlMGY0MjJj`
+Snapshot ID: `MCxhMTQ0YWM3YjcyNDk0OTZiYzczZjhlNTI5OTRjYmVkNjg4MWFjYjIz`

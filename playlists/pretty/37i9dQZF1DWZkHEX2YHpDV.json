@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt, & more. Cover: Neck Deep",
-  "num_followers": 453305,
+  "num_followers": 453272,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MThhMWRlZGYzNmU4ZmViMzA1OTI0MjFlMWI1ZWY0OTM1YjE3Nzk1",
+  "snapshot_id": "MCxmMWQ5OTE4MzNkMDI0NmQ0Yzk4MDIxYjVmM2Y4NTM4ZGRkNGNkMDBm",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "ONE MORE TIME...",
-        "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
+        "name": "The Jaws Of Life",
+        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
       },
       "artists": [
         {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         }
       ],
-      "duration_ms": 213191,
-      "name": "ANTHEM PART 3",
-      "url": "https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG"
+      "duration_ms": 240000,
+      "name": "Emergency Contact",
+      "url": "https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "The Jaws Of Life",
-        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
+        "name": "ONE MORE TIME...",
+        "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
       },
       "artists": [
         {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Emergency Contact",
-      "url": "https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO"
+      "duration_ms": 213191,
+      "name": "ANTHEM PART 3",
+      "url": "https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "3 DAY HEADACHE",
-        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        }
-      ],
-      "duration_ms": 114284,
-      "name": "3 DAY HEADACHE",
-      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Harder Than It Looks",
         "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 216474,
       "name": "Wake Me Up (When This Nightmare\u2019s Over)",
       "url": "https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "3 DAY HEADACHE",
+        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 114284,
+      "name": "3 DAY HEADACHE",
+      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -911,6 +911,26 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Kings of the New Age",
+        "url": "https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        },
+        {
+          "name": "Ben Barlow",
+          "url": "https://open.spotify.com/artist/79SZgK0iRDlLJpsH7mSvNC"
+        }
+      ],
+      "duration_ms": 227393,
+      "name": "Everybody but You",
+      "url": "https://open.spotify.com/track/40FJkZzaY8DWGtYoCB63EE"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Friends With Benefits",
         "url": "https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 155919,
       "name": "Memories (with WILLOW)",
       "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Kings of the New Age",
-        "url": "https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9"
-      },
-      "artists": [
-        {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
-        },
-        {
-          "name": "Ben Barlow",
-          "url": "https://open.spotify.com/artist/79SZgK0iRDlLJpsH7mSvNC"
-        }
-      ],
-      "duration_ms": 227393,
-      "name": "Everybody but You",
-      "url": "https://open.spotify.com/track/40FJkZzaY8DWGtYoCB63EE"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "BRAIN DEAD",
-        "url": "https://open.spotify.com/album/6ucZ6HFBtixqCOcZyQE57t"
-      },
-      "artists": [
-        {
-          "name": "People R Ugly",
-          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
-        }
-      ],
-      "duration_ms": 121071,
-      "name": "BRAIN DEAD",
-      "url": "https://open.spotify.com/track/2X7V0ZwyT6NDn3yBxNz54H"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "RUCKUS!",
         "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 199196,
       "name": "I Hope You Choke!",
       "url": "https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "BRAIN DEAD",
+        "url": "https://open.spotify.com/album/6ucZ6HFBtixqCOcZyQE57t"
+      },
+      "artists": [
+        {
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+        }
+      ],
+      "duration_ms": 121071,
+      "name": "BRAIN DEAD",
+      "url": "https://open.spotify.com/track/2X7V0ZwyT6NDn3yBxNz54H"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/5AbO9dSzvvUI7OX8ttuuIC"
+      },
+      "artists": [
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "duration_ms": 230976,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/5betEwymOveIl6bzmtFLle"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Retrovision",
         "url": "https://open.spotify.com/album/4IiWkF0yCGFHGudJ98hV7f"
       },
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/5AbO9dSzvvUI7OX8ttuuIC"
+        "name": "The Fullness of My Being",
+        "url": "https://open.spotify.com/album/5O5I2tWrenrKwPBkC0yhA3"
       },
       "artists": [
         {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+          "name": "Being As An Ocean",
+          "url": "https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP"
         }
       ],
-      "duration_ms": 230976,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/5betEwymOveIl6bzmtFLle"
+      "duration_ms": 218311,
+      "name": "The Fullness of My Being",
+      "url": "https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1219,22 +1235,6 @@
       "duration_ms": 198226,
       "name": "Not Joking",
       "url": "https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "The Fullness of My Being",
-        "url": "https://open.spotify.com/album/5O5I2tWrenrKwPBkC0yhA3"
-      },
-      "artists": [
-        {
-          "name": "Being As An Ocean",
-          "url": "https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP"
-        }
-      ],
-      "duration_ms": 218311,
-      "name": "The Fullness of My Being",
-      "url": "https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "When You Were Here",
-        "url": "https://open.spotify.com/album/7GZBTgJndaIafQWJaXGZw0"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 173152,
-      "name": "When You Were Here",
-      "url": "https://open.spotify.com/track/6BU5oDOs3thj5f88a37lPS"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Under the Influence(r)",
         "url": "https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 195012,
       "name": "Under the Influence(r)",
       "url": "https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "When You Were Here",
+        "url": "https://open.spotify.com/album/7GZBTgJndaIafQWJaXGZw0"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 173152,
+      "name": "When You Were Here",
+      "url": "https://open.spotify.com/track/6BU5oDOs3thj5f88a37lPS"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Circling the Drain",
+        "url": "https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g"
+      },
+      "artists": [
+        {
+          "name": "Microwave",
+          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
+        }
+      ],
+      "duration_ms": 229192,
+      "name": "Circling the Drain",
+      "url": "https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Don't Tempt Me Baby...",
         "url": "https://open.spotify.com/album/6y5G5DVYchSEwlFui34a4N"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 156395,
       "name": "Don't Tempt Me Baby...",
       "url": "https://open.spotify.com/track/1qWdq5lpytNveivQlgs1fq"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Circling the Drain",
-        "url": "https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g"
-      },
-      "artists": [
-        {
-          "name": "Microwave",
-          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
-        }
-      ],
-      "duration_ms": 229192,
-      "name": "Circling the Drain",
-      "url": "https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Head in The Clouds",
-        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
-      },
-      "artists": [
-        {
-          "name": "Arrows in Action",
-          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
-        }
-      ],
-      "duration_ms": 175937,
-      "name": "Head in the Clouds",
-      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "WE MADE PLANS & GOD LAUGHED",
         "url": "https://open.spotify.com/album/5FgNuzx7UBEvxlsCj9alLs"
       },
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "How To Disappear",
-        "url": "https://open.spotify.com/album/677t2DpQNOqCZN6PFzPgJr"
+        "name": "Head in The Clouds",
+        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
       },
       "artists": [
         {
-          "name": "Casey",
-          "url": "https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck"
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
         }
       ],
-      "duration_ms": 236181,
-      "name": "For Katie",
-      "url": "https://open.spotify.com/track/26icQ3gcv38DZXWX8euZYj"
+      "duration_ms": 175937,
+      "name": "Head in the Clouds",
+      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1675,6 +1659,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "How To Disappear",
+        "url": "https://open.spotify.com/album/677t2DpQNOqCZN6PFzPgJr"
+      },
+      "artists": [
+        {
+          "name": "Casey",
+          "url": "https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck"
+        }
+      ],
+      "duration_ms": 236181,
+      "name": "For Katie",
+      "url": "https://open.spotify.com/track/26icQ3gcv38DZXWX8euZYj"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Hey Ben",
         "url": "https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M"
       },
@@ -1691,6 +1691,22 @@
       "duration_ms": 200165,
       "name": "Hey Ben",
       "url": "https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "sleepwalking",
+        "url": "https://open.spotify.com/album/1sjiQ0Im0VKvv2SxvjoLwt"
+      },
+      "artists": [
+        {
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+        }
+      ],
+      "duration_ms": 120855,
+      "name": "sleepwalking",
+      "url": "https://open.spotify.com/track/4lcDnsR71jJ09R2SZAegws"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1743,22 +1759,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "sleepwalking",
-        "url": "https://open.spotify.com/album/1sjiQ0Im0VKvv2SxvjoLwt"
-      },
-      "artists": [
-        {
-          "name": "senses",
-          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
-        }
-      ],
-      "duration_ms": 120855,
-      "name": "sleepwalking",
-      "url": "https://open.spotify.com/track/4lcDnsR71jJ09R2SZAegws"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "SELF-SABOTAGE (MC4D Remix)",
         "url": "https://open.spotify.com/album/6yefd6WEMrUmBuvAMl8Dd8"
       },
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Got It Bad",
-        "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
-      },
-      "artists": [
-        {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
-        }
-      ],
-      "duration_ms": 178804,
-      "name": "Got It Bad",
-      "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Six Feet Under",
         "url": "https://open.spotify.com/album/5ouxbPTfPDOnC70GIkZ27F"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 191976,
       "name": "Six Feet Under",
       "url": "https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Got It Bad",
+        "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "duration_ms": 178804,
+      "name": "Got It Bad",
+      "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Arm's Length",
-        "url": "https://open.spotify.com/album/2QnjmgW00UvoUemLxN6LeA"
-      },
-      "artists": [
-        {
-          "name": "Arm's Length",
-          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "Arm's Length",
-      "url": "https://open.spotify.com/track/6fWAXy4IHbjUWhpgkN2dD3"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "This Won't Go Over Well",
         "url": "https://open.spotify.com/album/4Nxlb1mo54gPu2bXibj259"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 204197,
       "name": "This Won't Go Over Well",
       "url": "https://open.spotify.com/track/4WNJmm4Xv8d0ELJgowypjT"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Arm's Length",
+        "url": "https://open.spotify.com/album/2QnjmgW00UvoUemLxN6LeA"
+      },
+      "artists": [
+        {
+          "name": "Arm's Length",
+          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/6fWAXy4IHbjUWhpgkN2dD3"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "SSX Trickmont",
-        "url": "https://open.spotify.com/album/1x3UEx1oKZ17ICrVAuC6Wn"
-      },
-      "artists": [
-        {
-          "name": "Belmont",
-          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
-        }
-      ],
-      "duration_ms": 198566,
-      "name": "SSX Trickmont",
-      "url": "https://open.spotify.com/track/7w13KZUxGmrPACC4s7NFRf"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Foxglove",
         "url": "https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 218552,
       "name": "Foxglove",
       "url": "https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "SSX Trickmont",
+        "url": "https://open.spotify.com/album/1x3UEx1oKZ17ICrVAuC6Wn"
+      },
+      "artists": [
+        {
+          "name": "Belmont",
+          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
+        }
+      ],
+      "duration_ms": 198566,
+      "name": "SSX Trickmont",
+      "url": "https://open.spotify.com/track/7w13KZUxGmrPACC4s7NFRf"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "YEAH!",
-        "url": "https://open.spotify.com/album/46ot2yrvPoFe2I8i6AsRXc"
-      },
-      "artists": [
-        {
-          "name": "Between You & Me",
-          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
-        }
-      ],
-      "duration_ms": 182911,
-      "name": "YEAH!",
-      "url": "https://open.spotify.com/track/2bgJCXFcRZkedHVpjOZO52"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "When We Were Young",
         "url": "https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 243329,
       "name": "to me",
       "url": "https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "YEAH!",
+        "url": "https://open.spotify.com/album/46ot2yrvPoFe2I8i6AsRXc"
+      },
+      "artists": [
+        {
+          "name": "Between You & Me",
+          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
+        }
+      ],
+      "duration_ms": 182911,
+      "name": "YEAH!",
+      "url": "https://open.spotify.com/track/2bgJCXFcRZkedHVpjOZO52"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -2231,6 +2231,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "The Rot That Grows Inside My Chest",
+        "url": "https://open.spotify.com/album/6Y0Gh7nGWrVw1CfA4fDWIV"
+      },
+      "artists": [
+        {
+          "name": "Teenage Joans",
+          "url": "https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE"
+        }
+      ],
+      "duration_ms": 204360,
+      "name": "Superglue",
+      "url": "https://open.spotify.com/track/6shhkpASLVaTUs5Gnuf5mX"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Jesus",
         "url": "https://open.spotify.com/album/6tVYzz3VmqLcRSGGZu14pB"
       },
@@ -2247,22 +2263,6 @@
       "duration_ms": 150857,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/4ELaNiaXfb6V8RtGnPEjOv"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "The Rot That Grows Inside My Chest",
-        "url": "https://open.spotify.com/album/6Y0Gh7nGWrVw1CfA4fDWIV"
-      },
-      "artists": [
-        {
-          "name": "Teenage Joans",
-          "url": "https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "Superglue",
-      "url": "https://open.spotify.com/track/6shhkpASLVaTUs5Gnuf5mX"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -2415,6 +2415,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/0pMPESagsPgcSkGrFtIIvI"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 174350,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Do You Like Me Now (feat. Kellin Quinn of Sleeping With Sirens)",
         "url": "https://open.spotify.com/album/4wFUDCIQM4X7OAKQc2KaJv"
       },
@@ -2431,22 +2447,6 @@
       "duration_ms": 217417,
       "name": "Do You Like Me Now (feat. Kellin Quinn of Sleeping With Sirens)",
       "url": "https://open.spotify.com/track/7Fjr0lI9QUhW31LKMVOba9"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/0pMPESagsPgcSkGrFtIIvI"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 174350,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -2471,22 +2471,6 @@
       "duration_ms": 192371,
       "name": "My Friends",
       "url": "https://open.spotify.com/track/2xqvthP2FrDdUpa37fxNyB"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Waiting On Better Days",
-        "url": "https://open.spotify.com/album/0CmILxmHqhW8JdP6Re77Ze"
-      },
-      "artists": [
-        {
-          "name": "Wither Away",
-          "url": "https://open.spotify.com/artist/5qMmv2bWNnZOP0RLAzaHvM"
-        }
-      ],
-      "duration_ms": 214523,
-      "name": "Waiting On Better Days",
-      "url": "https://open.spotify.com/track/2wRaYER3ClLlHCRcq8FD7j"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -2519,6 +2503,22 @@
       "duration_ms": 212034,
       "name": "Slow Dance",
       "url": "https://open.spotify.com/track/1cIXPzl0Bg3hGcsuoKcLPV"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Waiting On Better Days",
+        "url": "https://open.spotify.com/album/0CmILxmHqhW8JdP6Re77Ze"
+      },
+      "artists": [
+        {
+          "name": "Wither Away",
+          "url": "https://open.spotify.com/artist/5qMmv2bWNnZOP0RLAzaHvM"
+        }
+      ],
+      "duration_ms": 214523,
+      "name": "Waiting On Better Days",
+      "url": "https://open.spotify.com/track/2wRaYER3ClLlHCRcq8FD7j"
     },
     {
       "added_at": "2024-01-19 05:00:00",

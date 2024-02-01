@@ -1,12 +1,12 @@
 {
   "description": "All the indelible tunes from the other side of the 00s. Cover: Santigold",
-  "num_followers": 696550,
+  "num_followers": 696605,
   "original_name": "Alternative 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTNmNTQwMTc2ZmUzMDU5OGI5OGM1OTRmZGEyOGM2NjUyM2U1ODJh",
+  "snapshot_id": "MCxhNjRkZWNmODlhNGM5MDAxNmM4YjhlOGEwZDBmYjBjOGNkMWQwYmM3",
   "tracks": [
     {
       "added_at": "2022-11-17 20:15:32",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Give Up (Deluxe 10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
-      },
-      "artists": [
-        {
-          "name": "The Postal Service",
-          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
-        }
-      ],
-      "duration_ms": 266506,
-      "name": "Such Great Heights - Remastered",
-      "url": "https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 242266,
       "name": "D.A.N.C.E",
       "url": "https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Give Up (Deluxe 10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
+      },
+      "artists": [
+        {
+          "name": "The Postal Service",
+          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
+        }
+      ],
+      "duration_ms": 266506,
+      "name": "Such Great Heights - Remastered",
+      "url": "https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Myths Of The Near Future",
-        "url": "https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg"
-      },
-      "artists": [
-        {
-          "name": "Klaxons",
-          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Golden Skans",
-      "url": "https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "Manners",
         "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 174760,
       "name": "Sleepyhead",
       "url": "https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Myths Of The Near Future",
+        "url": "https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg"
+      },
+      "artists": [
+        {
+          "name": "Klaxons",
+          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Golden Skans",
+      "url": "https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Fantasies",
-        "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 286013,
-      "name": "Help I'm Alive",
-      "url": "https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "Illinois",
         "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 364613,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Fantasies",
+        "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 286013,
+      "name": "Help I'm Alive",
+      "url": "https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi"
     },
     {
       "added_at": "2022-11-17 20:15:32",

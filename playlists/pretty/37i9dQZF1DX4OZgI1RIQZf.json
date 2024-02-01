@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 81760,
+  "num_followers": 81800,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjgzZGIyOGYxYWYzOGZhZmZhZTlhN2ZkODlmNTE4Mjk5NjZlOWJm",
+  "snapshot_id": "MCwyYzhjNTM1NzcwYjBkODMyODA2MWU3NmFkNzMxYTZiMmFjMWNlYjk0",
   "tracks": [
     {
       "added_at": "2023-10-27 07:45:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Get Behind Me Satan",
-        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 138893,
-      "name": "Little Ghost",
-      "url": "https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Illinois",
         "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 309786,
       "name": "They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!",
       "url": "https://open.spotify.com/track/6pvwYMVs13EJ8jj4LMX0aV"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 138893,
+      "name": "Little Ghost",
+      "url": "https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "GHOSTS ON TAPE",
-        "url": "https://open.spotify.com/album/6sQQwUqr31xeKtBq9mht08"
-      },
-      "artists": [
-        {
-          "name": "Blood Red Shoes",
-          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
-        }
-      ],
-      "duration_ms": 226622,
-      "name": "MORBID FASCINATION",
-      "url": "https://open.spotify.com/track/2Jp4ipY7AfFJGFUxGtT92M"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Made of Bricks",
         "url": "https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 307453,
       "name": "Skeleton Song",
       "url": "https://open.spotify.com/track/6gYzY4CIR667rZxQ6bfYTz"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "GHOSTS ON TAPE",
+        "url": "https://open.spotify.com/album/6sQQwUqr31xeKtBq9mht08"
+      },
+      "artists": [
+        {
+          "name": "Blood Red Shoes",
+          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
+        }
+      ],
+      "duration_ms": 226622,
+      "name": "MORBID FASCINATION",
+      "url": "https://open.spotify.com/track/2Jp4ipY7AfFJGFUxGtT92M"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Veronica Falls",
-        "url": "https://open.spotify.com/album/14vFC84BzjOc8Ud9ga0vFi"
-      },
-      "artists": [
-        {
-          "name": "Veronica Falls",
-          "url": "https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV"
-        }
-      ],
-      "duration_ms": 239066,
-      "name": "Found Love in a Graveyard",
-      "url": "https://open.spotify.com/track/6o1oknbpGILs6eG8q3j8vV"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Head of the Love Club",
         "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 175500,
       "name": "Little Vampire",
       "url": "https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Veronica Falls",
+        "url": "https://open.spotify.com/album/14vFC84BzjOc8Ud9ga0vFi"
+      },
+      "artists": [
+        {
+          "name": "Veronica Falls",
+          "url": "https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV"
+        }
+      ],
+      "duration_ms": 239066,
+      "name": "Found Love in a Graveyard",
+      "url": "https://open.spotify.com/track/6o1oknbpGILs6eG8q3j8vV"
     },
     {
       "added_at": "2023-10-27 07:45:00",

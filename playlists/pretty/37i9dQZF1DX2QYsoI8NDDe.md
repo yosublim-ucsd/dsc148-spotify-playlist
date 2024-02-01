@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Thalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,932 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,835 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 23 | [Cambiaste](https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Cambiaste](https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj) | 2:54 |
 | 24 | [Aquí Lo Siento](https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 3:41 |
 | 25 | [Al No Tenerte](https://open.spotify.com/track/5TOSj4RD0DP9ntUD4ng3p1) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Al No Tenerte](https://open.spotify.com/album/4eQvcIFA0g1LN7lGWm4JgH) | 3:14 |
-| 26 | [Como Te Quiero Yo A Ti \- Regional Mexican Version](https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Como Te Quiero Yo A Ti \(Regional Mexican Version\)](https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H) | 3:09 |
-| 27 | [Esto Es Lo Mío](https://open.spotify.com/track/3QPtJy4luaQEW2BhhAhv5i) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [Esto Es Lo Mío](https://open.spotify.com/album/2LiyZ5nz5himXbdbSVJUl9) | 2:01 |
+| 26 | [Esto Es Lo Mío](https://open.spotify.com/track/3QPtJy4luaQEW2BhhAhv5i) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [Esto Es Lo Mío](https://open.spotify.com/album/2LiyZ5nz5himXbdbSVJUl9) | 2:01 |
+| 27 | [Como Te Quiero Yo A Ti \- Regional Mexican Version](https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Como Te Quiero Yo A Ti \(Regional Mexican Version\)](https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H) | 3:09 |
 | 28 | [No Me Deja De Doler](https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [No Me Deja De Doler](https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ) | 2:37 |
 | 29 | [A Mi Me Respetas](https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [A Mi Me Respetas](https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS) | 2:30 |
 | 30 | [Reza y Reza](https://open.spotify.com/track/5E6xWFQoze67ByZgxsuNoM) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Reza y Reza](https://open.spotify.com/album/1Yw0c3gRC5VgTo6Qylq824) | 2:52 |
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 56 | [Voy A Quedarte Mal](https://open.spotify.com/track/0AMcdHtKAFDBtEtDb1JNl2) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Voy A Quedarte Mal](https://open.spotify.com/album/6hpTo2yzqSjV7ZORP6LW0r) | 3:43 |
 | 57 | [No Me Pregunten Por Él](https://open.spotify.com/track/5N3UilPh2Nsk5tx1VeotXs) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [No Me Pregunten Por Él](https://open.spotify.com/album/3tF7QyTPnYypPP9LXAG5cm) | 3:11 |
 | 58 | [Empoderada](https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Empoderada](https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD) | 2:44 |
-| 59 | [Le Cale A Quien Le Cale](https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Le Cale A Quien Le Cale](https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn) | 2:32 |
+| 59 | [Uno de los Buenos](https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Uno de los Buenos](https://open.spotify.com/album/2AvHahqBPECo32t4COxfak) | 2:56 |
 | 60 | [En Carne Viva](https://open.spotify.com/track/0576T1N3lsfD2ImwFrW1tO) | [Paola Preciado](https://open.spotify.com/artist/1zG5D5npyMFrKi3TQRXaNP), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [En Carne Viva](https://open.spotify.com/album/2MOtc63fVOckXi8FrW19Di) | 3:23 |
 | 61 | [Lento](https://open.spotify.com/track/24ntAnWA1WbHGsGvKmHho8) | [Katia Morales](https://open.spotify.com/artist/5vvGAPzhwxeJzYaNwARBXg) | [Lento](https://open.spotify.com/album/7tw3cUyAi4VH9lg7Zl3Cru) | 3:00 |
 | 62 | [Se Acabo \- En Vivo](https://open.spotify.com/track/34Z1nXTwSX6AF6soXdRHmb) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Se Acabo \(En Vivo\)](https://open.spotify.com/album/2zFaRfokK5hhre6SV3EQEq) | 2:38 |
 | 63 | [Dije](https://open.spotify.com/track/2iaa3qdsbNieKVdcQRNb1P) | [Natalia Corona](https://open.spotify.com/artist/7G79nlCDum3JjrXUIVvxDa) | [Dije](https://open.spotify.com/album/7p720aufoYrD4YoC0oh6m3) | 2:48 |
 | 64 | [En Mil Cosas \- En Vivo](https://open.spotify.com/track/048c1vHlRPl2mD86C4fx3m) | [Lili Zetina](https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j) | [En Mil Cosas \(En Vivo\)](https://open.spotify.com/album/3ubgBWnTXQHbo9pGYvqyaL) | 3:14 |
-| 65 | [Uno de los Buenos](https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Uno de los Buenos](https://open.spotify.com/album/2AvHahqBPECo32t4COxfak) | 2:56 |
+| 65 | [Le Cale A Quien Le Cale](https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Le Cale A Quien Le Cale](https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn) | 2:32 |
 
-Snapshot ID: `MCw0Zjg1ZmRmNDFmYjZkNzE2MWM0MDAyN2NhZDQ1MWYzMTc4ZGVmYTIx`
+Snapshot ID: `MCw0ZTM0YTcyNDlkNGJlMjkzMjZlZGU0ZDMxMjMzNjZmMTdmNjc1M2Rj`

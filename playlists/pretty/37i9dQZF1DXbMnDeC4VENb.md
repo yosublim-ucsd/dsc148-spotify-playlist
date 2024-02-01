@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > Una eufórica dosis de urbano romántico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,587 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,628 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 95 | [Nuestro Silencio](https://open.spotify.com/track/1zraV8Jxi9Srk1VN0rcPTn) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Nuestro Silencio](https://open.spotify.com/album/7zNgzMXxxXMfhMjBkUUnhq) | 3:20 |
 | 96 | [No te puedo olvidar](https://open.spotify.com/track/2AmhsW7krdAbX1jtN3azTP) | [Nuco](https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS), [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb) | [No te puedo olvidar](https://open.spotify.com/album/0SbmPCnt3bejnNrWaKqDtW) | 3:09 |
 | 97 | [Cada Quien](https://open.spotify.com/track/4ayJaxA5MjPEopjWYNMAbr) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP), [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Cada Quien](https://open.spotify.com/album/4QS3kIW0YTZAMZMkaJ1mLH) | 3:04 |
-| 98 | [Borracho](https://open.spotify.com/track/3Q1vXXDsg2k6cgEbE18UuT) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [Borracho](https://open.spotify.com/album/6VW9tAwq1pWd9V18jfKs8i) | 3:39 |
-| 99 | [Afrodisiaco](https://open.spotify.com/track/5NvQOunxpblReuGZ0W46DY) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Fotos de Familia Vol\. 1](https://open.spotify.com/album/5RBqbnvXtExFiBUDnmwxhS) | 2:48 |
+| 98 | [Afrodisiaco](https://open.spotify.com/track/5NvQOunxpblReuGZ0W46DY) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Fotos de Familia Vol\. 1](https://open.spotify.com/album/5RBqbnvXtExFiBUDnmwxhS) | 2:48 |
+| 99 | [Borracho](https://open.spotify.com/track/3Q1vXXDsg2k6cgEbE18UuT) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [Borracho](https://open.spotify.com/album/6VW9tAwq1pWd9V18jfKs8i) | 3:39 |
 | 100 | [Que Mal Me Hacías](https://open.spotify.com/track/0pgXLwDXcq2hVxIlUD9XWU) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Que Mal Me Hacías](https://open.spotify.com/album/6as8gFrgGgyEPuu4PLR41M) | 2:20 |
 
-Snapshot ID: `MCxhYjhjZjNlZjAxZjk5ZTQ4MjA2OGYxNDExNDUwN2FiNGVlZTQ3OGI0`
+Snapshot ID: `MCxjZmZmN2NlZTE1YzBmZmRjODQ2MTYyZGUyYzBiZTQ2NjZmZTZiNmI0`

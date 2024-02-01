@@ -1,12 +1,12 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 61288,
+  "num_followers": 61352,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmZiMmYzMTNhMjU0ZGM4NTA4ZjVlZDRjMmM0Y2M3Mjk4Y2FjMTE4",
+  "snapshot_id": "MCxkNWFiZDVjMDAyYjQ2N2M1MmFhYjU2MmE2MzE0MTQ2OGI0MzNhNmYx",
   "tracks": [
     {
       "added_at": "2024-01-25 23:01:00",
@@ -231,6 +231,26 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
+        "name": "Ka Valungu",
+        "url": "https://open.spotify.com/album/34z8LKlCdoWpkwKLJK5XZU"
+      },
+      "artists": [
+        {
+          "name": "Tebza De DJ",
+          "url": "https://open.spotify.com/artist/6sPahgGNaNy7ZR6cGsdMez"
+        },
+        {
+          "name": "DJ Nomza The King",
+          "url": "https://open.spotify.com/artist/0MyssvvIeY27nMCrwnMmie"
+        }
+      ],
+      "duration_ms": 300302,
+      "name": "Ka Valungu",
+      "url": "https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
         "name": "Sgudi Snyc",
         "url": "https://open.spotify.com/album/3MOD8aita13JIDWrLsqQoe"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 331377,
       "name": "Sgudi Snyc",
       "url": "https://open.spotify.com/track/0XSYoJ0MJpMB2tddyRcBEC"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "Ka Valungu",
-        "url": "https://open.spotify.com/album/34z8LKlCdoWpkwKLJK5XZU"
-      },
-      "artists": [
-        {
-          "name": "Tebza De DJ",
-          "url": "https://open.spotify.com/artist/6sPahgGNaNy7ZR6cGsdMez"
-        },
-        {
-          "name": "DJ Nomza The King",
-          "url": "https://open.spotify.com/artist/0MyssvvIeY27nMCrwnMmie"
-        }
-      ],
-      "duration_ms": 300302,
-      "name": "Ka Valungu",
-      "url": "https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT"
     },
     {
       "added_at": "2024-01-25 23:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 9390,
+  "num_followers": 9381,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjg0NzU2NTQ0YWQ5MGE0ZjI1NTA3ZDdiYTczZTZlODM1NWFmMDE5",
+  "snapshot_id": "MCwwOWFlZWIzZmZiNTk1YzNjMjI3ODk0ZTA2MzU3ZjA5YWVlOGEzMWRm",
   "tracks": [
     {
       "added_at": "2024-01-08 08:25:31",
@@ -395,6 +395,30 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
+        "name": "Show Me the Money 5 Episode 2",
+        "url": "https://open.spotify.com/album/0s95KHiY498Xv52w9ybV7t"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "ONE",
+          "url": "https://open.spotify.com/artist/36Hd8M3GV2FLpHUEDH6bCz"
+        }
+      ],
+      "duration_ms": 252258,
+      "name": "Comfortable",
+      "url": "https://open.spotify.com/track/2lEzKOtt7q64jQZ5meZsY8"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
         "name": "Dingo X DAMOIM Pt. 2",
         "url": "https://open.spotify.com/album/7u4kbKGYSYvRcdfSlkHPAB"
       },
@@ -443,46 +467,22 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
-        "name": "Show Me the Money 5 Episode 2",
-        "url": "https://open.spotify.com/album/0s95KHiY498Xv52w9ybV7t"
+        "name": "She Gonna Stop",
+        "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
       },
       "artists": [
         {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
         },
         {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        },
-        {
-          "name": "ONE",
-          "url": "https://open.spotify.com/artist/36Hd8M3GV2FLpHUEDH6bCz"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
         }
       ],
-      "duration_ms": 252258,
-      "name": "Comfortable",
-      "url": "https://open.spotify.com/track/2lEzKOtt7q64jQZ5meZsY8"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k"
-      },
-      "artists": [
-        {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
-        },
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "23 (Feat. SAM KIM)",
-      "url": "https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK"
+      "duration_ms": 209813,
+      "name": "She Gonna Stop (Feat. Leellamarz) (Prod. TOIL)",
+      "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"
     },
     {
       "added_at": "2024-01-08 08:25:31",
@@ -535,22 +535,22 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
-        "name": "She Gonna Stop",
-        "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
+        "name": "23",
+        "url": "https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k"
       },
       "artists": [
         {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
         },
         {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
         }
       ],
-      "duration_ms": 209813,
-      "name": "She Gonna Stop (Feat. Leellamarz) (Prod. TOIL)",
-      "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"
+      "duration_ms": 212200,
+      "name": "23 (Feat. SAM KIM)",
+      "url": "https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK"
     },
     {
       "added_at": "2024-01-08 08:25:31",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
+        "name": "2 4 : 2 6",
+        "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 257919,
+      "name": "If I Die Tomorrow",
+      "url": "https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
         "name": "Lonely Night",
         "url": "https://open.spotify.com/album/1pLKSCkBrzd8Cwh2vK0DTf"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
-        "name": "2 4 : 2 6",
-        "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
+        "name": "t 3 YOONMIRAE",
+        "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
       },
       "artists": [
         {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
         }
       ],
-      "duration_ms": 257919,
-      "name": "If I Die Tomorrow",
-      "url": "https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH"
+      "duration_ms": 244584,
+      "name": "Black Happiness",
+      "url": "https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz"
     },
     {
       "added_at": "2024-01-08 08:25:31",
@@ -747,22 +763,6 @@
       "duration_ms": 225280,
       "name": "See you ! (Feat. SOLE) (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/0XVzQQ8m7CHmc58TDMJuRj"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
-        "name": "t 3 YOONMIRAE",
-        "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
-      },
-      "artists": [
-        {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 244584,
-      "name": "Black Happiness",
-      "url": "https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz"
     },
     {
       "added_at": "2024-01-08 08:25:31",
@@ -855,38 +855,6 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
-        "name": "Future Boy",
-        "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
-      },
-      "artists": [
-        {
-          "name": "Juju B. Goode",
-          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
-        }
-      ],
-      "duration_ms": 124263,
-      "name": "Future Boy",
-      "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
         "name": "School Rapper2 Team-battle Pt. 2",
         "url": "https://open.spotify.com/album/47coyu6GWT5dclpds2Znj2"
       },
@@ -907,6 +875,38 @@
       "duration_ms": 164035,
       "name": "The Little Prince (Prod. Godic)",
       "url": "https://open.spotify.com/track/7rJaRkfLLhOBkdyJ8OCPSq"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
+        "name": "Future Boy",
+        "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
+      },
+      "artists": [
+        {
+          "name": "Juju B. Goode",
+          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+        }
+      ],
+      "duration_ms": 124263,
+      "name": "Future Boy",
+      "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
     },
     {
       "added_at": "2024-01-08 08:25:31",

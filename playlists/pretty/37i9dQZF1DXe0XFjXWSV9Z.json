@@ -1,12 +1,12 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 42087,
+  "num_followers": 42094,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODExYjE3NTJlOWFkMzY4OWViNjkwMjdhNmFlOTJkMTQ2YzQ4MTFk",
+  "snapshot_id": "MCwwOTM1Nzg4MDkyYjIzNTc5NzgxNDNmNTdjZGY5MWI1YTllNmVmOGJj",
   "tracks": [
     {
       "added_at": "2023-12-12 18:56:56",
@@ -629,6 +629,26 @@
       "url": "https://open.spotify.com/track/4D4k64jUrH85Iy6liEuQsi"
     },
     {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "1000 Watts",
+        "url": "https://open.spotify.com/album/3QACddw0pDDAnuIgZ8ZlUf"
+      },
+      "artists": [
+        {
+          "name": "Flowering Inferno",
+          "url": "https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p"
+        },
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 201080,
+      "name": "Chambac\u00fa",
+      "url": "https://open.spotify.com/track/6HbA8iSCI32WJtG1hYvTLs"
+    },
+    {
       "added_at": "2023-03-23 22:10:50",
       "album": {
         "name": "Agujas en el pecho",
@@ -651,22 +671,22 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "1000 Watts",
-        "url": "https://open.spotify.com/album/3QACddw0pDDAnuIgZ8ZlUf"
+        "name": "Hotline Bling",
+        "url": "https://open.spotify.com/album/3wIfrWCteaifdw84a9ckUi"
       },
       "artists": [
         {
-          "name": "Flowering Inferno",
-          "url": "https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p"
-        },
-        {
           "name": "Quantic",
           "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Los Miticos Del Ritmo",
+          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
         }
       ],
-      "duration_ms": 201080,
-      "name": "Chambac\u00fa",
-      "url": "https://open.spotify.com/track/6HbA8iSCI32WJtG1hYvTLs"
+      "duration_ms": 203059,
+      "name": "Hotline Bling",
+      "url": "https://open.spotify.com/track/6q3HqeduJaaZvoGkxcJEOb"
     },
     {
       "added_at": "2022-06-02 20:16:05",
@@ -687,26 +707,6 @@
       "duration_ms": 231840,
       "name": "Cumbia Triste",
       "url": "https://open.spotify.com/track/2NagSRAuRKhczwC1hUhtB1"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Hotline Bling",
-        "url": "https://open.spotify.com/album/3wIfrWCteaifdw84a9ckUi"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Los Miticos Del Ritmo",
-          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
-        }
-      ],
-      "duration_ms": 203059,
-      "name": "Hotline Bling",
-      "url": "https://open.spotify.com/track/6q3HqeduJaaZvoGkxcJEOb"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/4cu1KDI2JSaf6lQbUlzDlX"
     },
     {
-      "added_at": "2021-11-12 02:33:27",
-      "album": {
-        "name": "Aguaepanela Fant\u00e1stica",
-        "url": "https://open.spotify.com/album/0d8PDpbw3nQBRgLcs2VD5j"
-      },
-      "artists": [
-        {
-          "name": "Masilva",
-          "url": "https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK"
-        }
-      ],
-      "duration_ms": 255227,
-      "name": "Aguaepanela Fant\u00e1stica",
-      "url": "https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Los Charapas de Oro",
@@ -787,6 +771,22 @@
       "duration_ms": 221393,
       "name": "La Danza del Petrolero",
       "url": "https://open.spotify.com/track/6wYvtOi8fqJfC2vLNncDnL"
+    },
+    {
+      "added_at": "2021-11-12 02:33:27",
+      "album": {
+        "name": "Aguaepanela Fant\u00e1stica",
+        "url": "https://open.spotify.com/album/0d8PDpbw3nQBRgLcs2VD5j"
+      },
+      "artists": [
+        {
+          "name": "Masilva",
+          "url": "https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK"
+        }
+      ],
+      "duration_ms": 255227,
+      "name": "Aguaepanela Fant\u00e1stica",
+      "url": "https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -931,6 +931,22 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
+        "name": "Coraz\u00f3n Amaz\u00f3nico",
+        "url": "https://open.spotify.com/album/3ori0IxuTDxzwk9tkKmh4A"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Un Traguito de Ayahuasca",
+      "url": "https://open.spotify.com/track/4trma9OFFdZn6Er56CiVfN"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
         "name": "Batuco",
         "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 192893,
       "name": "Los Chucos Suaves (featuring Macha)",
       "url": "https://open.spotify.com/track/71JT61x0b1jpIdjMG2B7u7"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Coraz\u00f3n Amaz\u00f3nico",
-        "url": "https://open.spotify.com/album/3ori0IxuTDxzwk9tkKmh4A"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Un Traguito de Ayahuasca",
-      "url": "https://open.spotify.com/track/4trma9OFFdZn6Er56CiVfN"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -999,22 +999,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "5 Star Motel",
-        "url": "https://open.spotify.com/album/3H6GQSl4t96oYi50JQAr90"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 200858,
-      "name": "Canci\u00f3n del Rey",
-      "url": "https://open.spotify.com/track/0PNi7Zc85t4fwPvhgegc3Y"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Desesperanza",
         "url": "https://open.spotify.com/album/00F2FhpcLejOuh1nDnfnRm"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 283106,
       "name": "Salsa Caliente - Versi\u00f3n Aumentada",
       "url": "https://open.spotify.com/track/0BSUr05Fnpjian9GvLfwgJ"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "5 Star Motel",
+        "url": "https://open.spotify.com/album/3H6GQSl4t96oYi50JQAr90"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 200858,
+      "name": "Canci\u00f3n del Rey",
+      "url": "https://open.spotify.com/track/0PNi7Zc85t4fwPvhgegc3Y"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Contra La Corriente",
-        "url": "https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c"
-      },
-      "artists": [
-        {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
-        }
-      ],
-      "duration_ms": 263096,
-      "name": "Contra La Corriente",
-      "url": "https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO"
-    },
-    {
       "added_at": "2022-06-22 16:48:57",
       "album": {
         "name": "Historias de amor y otras mierdas",
@@ -1231,6 +1215,22 @@
       "duration_ms": 179029,
       "name": "\u00c1ngeles y Demonios",
       "url": "https://open.spotify.com/track/2Yr9mWZoQDSjINYpEsoXgA"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Contra La Corriente",
+        "url": "https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+        }
+      ],
+      "duration_ms": 263096,
+      "name": "Contra La Corriente",
+      "url": "https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO"
     },
     {
       "added_at": "2023-03-10 22:34:25",
@@ -1281,22 +1281,6 @@
       "url": "https://open.spotify.com/track/5oRqpLr600Qy8rMypM7foD"
     },
     {
-      "added_at": "2023-02-28 04:34:35",
-      "album": {
-        "name": "Shake & Bake",
-        "url": "https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu"
-      },
-      "artists": [
-        {
-          "name": "King Edi K",
-          "url": "https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO"
-        }
-      ],
-      "duration_ms": 280822,
-      "name": "Shake & Bake",
-      "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
-    },
-    {
       "added_at": "2022-04-09 05:03:37",
       "album": {
         "name": "Diablo",
@@ -1317,20 +1301,20 @@
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
+      "added_at": "2023-02-28 04:34:35",
       "album": {
-        "name": "Corriente EP",
-        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
+        "name": "Shake & Bake",
+        "url": "https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu"
       },
       "artists": [
         {
-          "name": "Terror/Cactus",
-          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
+          "name": "King Edi K",
+          "url": "https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO"
         }
       ],
-      "duration_ms": 231875,
-      "name": "Tambor Del Monte",
-      "url": "https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5"
+      "duration_ms": 280822,
+      "name": "Shake & Bake",
+      "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
     },
     {
       "added_at": "2022-11-18 17:45:57",
@@ -1347,6 +1331,22 @@
       "duration_ms": 173148,
       "name": "Chichala",
       "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Corriente EP",
+        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
+      },
+      "artists": [
+        {
+          "name": "Terror/Cactus",
+          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
+        }
+      ],
+      "duration_ms": 231875,
+      "name": "Tambor Del Monte",
+      "url": "https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1589,22 +1589,6 @@
       "url": "https://open.spotify.com/track/0rxjDRE2wot2sAiilVDiZt"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "De La Canci\u00f3n",
-        "url": "https://open.spotify.com/album/34uQVGKZI1DNPvBYiwHbch"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 186675,
-      "name": "Canci\u00f3n De Aplauso",
-      "url": "https://open.spotify.com/track/2w0cKLP7robukceZPSV2Ji"
-    },
-    {
       "added_at": "2022-09-30 03:44:30",
       "album": {
         "name": "Formose\u00f1a",
@@ -1619,6 +1603,22 @@
       "duration_ms": 246440,
       "name": "Ag\u00fcita de Manantial",
       "url": "https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "De La Canci\u00f3n",
+        "url": "https://open.spotify.com/album/34uQVGKZI1DNPvBYiwHbch"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 186675,
+      "name": "Canci\u00f3n De Aplauso",
+      "url": "https://open.spotify.com/track/2w0cKLP7robukceZPSV2Ji"
     },
     {
       "added_at": "2023-05-25 19:15:17",

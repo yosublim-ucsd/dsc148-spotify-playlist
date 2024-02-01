@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:6CQGrt3AJ2gx5oMSR0mwbl">1K Phew</a>
 
-902 songs - 1 day 20 hr 46 min
+903 songs - 1 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [2:30](https://open.spotify.com/track/0Y11DN73FpoOS8EfFrt2Kw) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [L's](https://open.spotify.com/artist/7cUbRxCpEq5eKtdRJJHFtj) | [2:30](https://open.spotify.com/album/4Z9wieJQuJmOtaN0mjSeRG) | 3:59 | 2021-12-11 | 2022-04-26 |
 | [3PM](https://open.spotify.com/track/5TIMRMZz1BMkv3Gfvbu5qM) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV), [Mission](https://open.spotify.com/artist/156BcMQsGhVCchyqBlo3Iy), [Muhanjii](https://open.spotify.com/artist/5aZiJHoMX722eBfLFnOwGm) | [Wish I Knew You](https://open.spotify.com/album/5qjFzWRElBEiP2NgRm35OA) | 3:43 | 2022-02-27 | 2022-04-29 |
 | [40](https://open.spotify.com/track/5qEj6mzlC6st46bNxmX5LI) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [40](https://open.spotify.com/album/46DsVm72pfz9nLW3BgCUqF) | 2:44 | 2023-12-15 |  |
-| [9 to 5](https://open.spotify.com/track/32tHrjigGTtQ5pRsUb2Sbv) | [Ace Clark](https://open.spotify.com/artist/58wHxcTku7Rc4e4DGfT99h), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [9 to 5](https://open.spotify.com/album/6IU0brW3oS3zYwrUUruFIC) | 2:50 | 2024-01-05 |  |
+| [9 to 5](https://open.spotify.com/track/32tHrjigGTtQ5pRsUb2Sbv) | [Ace Clark](https://open.spotify.com/artist/58wHxcTku7Rc4e4DGfT99h), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [9 to 5](https://open.spotify.com/album/6IU0brW3oS3zYwrUUruFIC) | 2:50 | 2024-01-05 | 2024-02-01 |
 | [97](https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [97](https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM) | 2:55 | 2022-02-04 | 2022-08-07 |
 | [A Painting Of Peace \(feat\. Mariah Anae\)](https://open.spotify.com/track/1CnBGNdzEq6lgyfLOoKyd3) | [Caleb McCoy](https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi), [Mariah Anae](https://open.spotify.com/artist/25hDGQnara5RgwMDnUPJA1) | [A Painting Of Peace \(feat\. Mariah Anae\)](https://open.spotify.com/album/646wnZPifL8XNKL13YV3vy) | 4:01 | 2021-12-11 | 2022-04-29 |
 | [Abide](https://open.spotify.com/track/4dZTZ3GsxQ2d3RZs07Yjyj) | [Mystro Productions](https://open.spotify.com/artist/3xPvqSwcmpA8ytvPa9oskQ), [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [Abide](https://open.spotify.com/album/7GQqvnCTxwbBLAvImtplIX) | 4:27 | 2022-04-29 | 2022-08-07 |
@@ -532,6 +532,7 @@
 | [New Day](https://open.spotify.com/track/5DPZx70S847lrn640OizK3) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [New Day](https://open.spotify.com/album/03BX2eYHXIAC0MfXdK943H) | 3:01 | 2022-07-17 | 2023-08-26 |
 | [New Level](https://open.spotify.com/track/28YWHjBQY8Thn65P7wnF4O) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj) | [New Level](https://open.spotify.com/album/4aA8CI2CJv5gffAePjQAOe) | 2:36 | 2022-02-04 | 2022-03-13 |
 | [New Skies](https://open.spotify.com/track/7dhzAFqDTOTUNVnb7rkygk) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [Kiddy Bizness](https://open.spotify.com/artist/4mbZEgNMKmtyxZlVjZacVV) | [Soul Therapy](https://open.spotify.com/album/0cegkmOz0rgVbpQYtmcETo) | 4:03 | 2021-12-11 | 2022-04-29 |
+| [Nicely](https://open.spotify.com/track/4cBCYWUCQ6DKyfWINpQuOz) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Nicely](https://open.spotify.com/album/56KdLLhVf6YC3YyMz6ArmC) | 2:50 | 2024-01-19 |  |
 | [Night Club](https://open.spotify.com/track/2ie1cOWQet91iWwmAQVkWB) | [DaShawn Shauntá](https://open.spotify.com/artist/5c0sCqEmXd6T0uWWcAyis9) | [Night Club](https://open.spotify.com/album/1KS3JLb1BNIQbAITY60fZr) | 3:22 | 2022-09-11 | 2022-10-30 |
 | [Night Owl \(feat\. EmanuelDaProphet\)](https://open.spotify.com/track/7427pV9FeySxcylAzIjYW1) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7), [EmanuelDaProphet](https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC) | [Night Owl \(feat\. EmanuelDaProphet\)](https://open.spotify.com/album/3JKe0MAkNTUH7bbsk2CjEP) | 2:47 | 2022-06-25 | 2022-07-06 |
 | [Nights In Atlanta](https://open.spotify.com/track/3IX5wVQbXOLLlUcItVnb2i) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Nights In Atlanta](https://open.spotify.com/album/1OlLegTQGhMbpOtCtWekkE) | 2:25 | 2022-11-25 | 2023-06-09 |

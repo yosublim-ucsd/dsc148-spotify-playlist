@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 44574,
+  "2024-02-01": 44593,
   "date_first_scraped": "2022-08-06",
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
   "name": "This Is John Lee Hooker",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 150269,
       "name": "A New Leaf",
       "url": "https://open.spotify.com/track/6EdBagK4kqITdw34mBzTof"
@@ -75,7 +75,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 319693,
       "name": "Annie Mae",
       "url": "https://open.spotify.com/track/2zpDRicyt7YqxFVJ2S3uc7"
@@ -97,7 +97,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 225906,
       "name": "Baby Lee",
       "url": "https://open.spotify.com/track/1WvDNX2WrUppAFBKO7aYA5"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 152350,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 181946,
       "name": "Hobo Blues",
       "url": "https://open.spotify.com/track/6SVdBlIXlYwqcbYZSfjJjy"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 198040,
       "name": "I Didn't Know - Live",
       "url": "https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 212120,
       "name": "It Serves Me Right",
       "url": "https://open.spotify.com/track/4a0RlE6Mde0N59OLuBQn42"
@@ -1015,7 +1015,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 130288,
       "name": "Keep Your Hands To Yourself (She's Mine)",
       "url": "https://open.spotify.com/track/0QwrOUaXvquj1IM8oqiBIo"
@@ -1359,7 +1359,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 164933,
       "name": "No More Doggin'",
       "url": "https://open.spotify.com/track/1zLunDGKySWa7Gwsif5Ckc"
@@ -1377,7 +1377,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 147066,
       "name": "No Shoes",
       "url": "https://open.spotify.com/track/5Zcg5ltKPWOaxvwtRTBk4S"
@@ -1395,7 +1395,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 184960,
       "name": "One Bourbon, One Scotch, One Beer",
       "url": "https://open.spotify.com/track/2dp14VWbIxOVNmaWKkVB1r"
@@ -1489,7 +1489,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 198773,
       "name": "Sally Mae",
       "url": "https://open.spotify.com/track/4A7MBEV1l48gijjNN5IdIM"
@@ -1995,7 +1995,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 238160,
       "name": "Tupelo",
       "url": "https://open.spotify.com/track/1hR7F9GFvDAD57EnuKhdM9"
@@ -2031,7 +2031,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 174066,
       "name": "Unfriendly Woman",
       "url": "https://open.spotify.com/track/2FwMyaKaq5V8NLIvfWR0Ft"

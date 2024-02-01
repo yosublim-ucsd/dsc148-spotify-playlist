@@ -1,12 +1,12 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 730675,
+  "num_followers": 730647,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGZiNGYxMDA2ZjY1NTM0MWJkM2IzNWMwNjdkMmRhY2M4ZjczMWNh",
+  "snapshot_id": "MCxiMDMxYjU5ZjRhNDc4YWJkMGNhNzZkMjRiZTgxNWYyZGI4OWEzMDYy",
   "tracks": [
     {
       "added_at": "2024-01-19 10:31:56",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-01-19 10:31:56",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 308520,
-      "name": "The Boxer",
-      "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
-    },
-    {
-      "added_at": "2024-01-19 10:31:56",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 249173,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
+    },
+    {
+      "added_at": "2024-01-19 10:31:56",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 308520,
+      "name": "The Boxer",
+      "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
     },
     {
       "added_at": "2024-01-19 10:31:56",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-01-19 10:31:56",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 269893,
-      "name": "All the Pretty Girls",
-      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
-    },
-    {
-      "added_at": "2024-01-19 10:31:56",
-      "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 229706,
       "name": "Operator (That's Not the Way It Feels)",
       "url": "https://open.spotify.com/track/4mQtXW0vrHC3oTkA1mQsb0"
+    },
+    {
+      "added_at": "2024-01-19 10:31:56",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 269893,
+      "name": "All the Pretty Girls",
+      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
     },
     {
       "added_at": "2024-01-19 10:31:56",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-01-19 10:31:56",
       "album": {
-        "name": "That Sea, The Gambler",
-        "url": "https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 360933,
-      "name": "The Stable Song",
-      "url": "https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU"
-    },
-    {
-      "added_at": "2024-01-19 10:31:56",
-      "album": {
         "name": "Old Sea Brigade",
         "url": "https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 185746,
       "name": "Love Brought Weight",
       "url": "https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe"
+    },
+    {
+      "added_at": "2024-01-19 10:31:56",
+      "album": {
+        "name": "That Sea, The Gambler",
+        "url": "https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 360933,
+      "name": "The Stable Song",
+      "url": "https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU"
     },
     {
       "added_at": "2024-01-19 10:31:56",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-01-19 10:31:56",
       "album": {
-        "name": "Making All Things New",
-        "url": "https://open.spotify.com/album/6Ng0ObItoKjeUL0POlI4FU"
-      },
-      "artists": [
-        {
-          "name": "Aaron Espe",
-          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
-        }
-      ],
-      "duration_ms": 159600,
-      "name": "Making All Things New",
-      "url": "https://open.spotify.com/track/6VwAh8Z1d5YKoSWoEaV4db"
-    },
-    {
-      "added_at": "2024-01-19 10:31:56",
-      "album": {
         "name": "Bathing Beach",
         "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 228164,
       "name": "Colourway",
       "url": "https://open.spotify.com/track/2oa53bhiNPCz2CGh26AYxi"
+    },
+    {
+      "added_at": "2024-01-19 10:31:56",
+      "album": {
+        "name": "Making All Things New",
+        "url": "https://open.spotify.com/album/6Ng0ObItoKjeUL0POlI4FU"
+      },
+      "artists": [
+        {
+          "name": "Aaron Espe",
+          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "Making All Things New",
+      "url": "https://open.spotify.com/track/6VwAh8Z1d5YKoSWoEaV4db"
     },
     {
       "added_at": "2024-01-19 10:31:56",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-01-19 10:31:56",
       "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 178826,
-      "name": "You Sigh",
-      "url": "https://open.spotify.com/track/38vsMOGABG97FQGRN2Yc4z"
-    },
-    {
-      "added_at": "2024-01-19 10:31:56",
-      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2024-01-19 10:31:56",
       "album": {
-        "name": "A Few More Hours at YYZ",
-        "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
       },
       "artists": [
         {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
         }
       ],
-      "duration_ms": 172202,
-      "name": "Acoustic",
-      "url": "https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp"
+      "duration_ms": 178826,
+      "name": "You Sigh",
+      "url": "https://open.spotify.com/track/38vsMOGABG97FQGRN2Yc4z"
     },
     {
       "added_at": "2024-01-19 10:31:56",
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2024-01-19 10:31:56",
       "album": {
-        "name": "Four Songs",
-        "url": "https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW"
+        "name": "A Few More Hours at YYZ",
+        "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
       },
       "artists": [
         {
-          "name": "Alexi Murdoch",
-          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
         }
       ],
-      "duration_ms": 379520,
-      "name": "Orange Sky",
-      "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
+      "duration_ms": 172202,
+      "name": "Acoustic",
+      "url": "https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp"
     },
     {
       "added_at": "2024-01-19 10:31:56",
@@ -1475,6 +1459,22 @@
       "duration_ms": 250760,
       "name": "About Today - 2021 Remaster",
       "url": "https://open.spotify.com/track/2w55zgyrG40D5ppKj4XxdK"
+    },
+    {
+      "added_at": "2024-01-19 10:31:56",
+      "album": {
+        "name": "Four Songs",
+        "url": "https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW"
+      },
+      "artists": [
+        {
+          "name": "Alexi Murdoch",
+          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
+        }
+      ],
+      "duration_ms": 379520,
+      "name": "Orange Sky",
+      "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
     },
     {
       "added_at": "2024-01-19 10:31:56",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-01-19 10:31:56",
       "album": {
-        "name": "Crack-Up",
-        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "If You Need To, Keep Time on Me",
-      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
-    },
-    {
-      "added_at": "2024-01-19 10:31:56",
-      "album": {
         "name": "Sense of Home",
         "url": "https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 265840,
       "name": "Sense of Home",
       "url": "https://open.spotify.com/track/6oImxt6z8HDS56epRgOi0I"
+    },
+    {
+      "added_at": "2024-01-19 10:31:56",
+      "album": {
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "If You Need To, Keep Time on Me",
+      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
     },
     {
       "added_at": "2024-01-19 10:31:56",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-01-19 10:31:56",
       "album": {
-        "name": "69 Love Songs",
-        "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
-      },
-      "artists": [
-        {
-          "name": "The Magnetic Fields",
-          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
-        }
-      ],
-      "duration_ms": 162413,
-      "name": "The Book of Love",
-      "url": "https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu"
-    },
-    {
-      "added_at": "2024-01-19 10:31:56",
-      "album": {
         "name": "Magnolia (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 274493,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/0EqtsCvcDjEz6svFsaV5HN"
+    },
+    {
+      "added_at": "2024-01-19 10:31:56",
+      "album": {
+        "name": "69 Love Songs",
+        "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
+      },
+      "artists": [
+        {
+          "name": "The Magnetic Fields",
+          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+        }
+      ],
+      "duration_ms": 162413,
+      "name": "The Book of Love",
+      "url": "https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu"
     },
     {
       "added_at": "2024-01-19 10:31:56",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2024-01-19 10:31:56",
       "album": {
+        "name": "Ancient Transition",
+        "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "duration_ms": 244120,
+      "name": "Our Remains",
+      "url": "https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv"
+    },
+    {
+      "added_at": "2024-01-19 10:31:56",
+      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -1791,18 +1807,18 @@
     {
       "added_at": "2024-01-19 10:31:56",
       "album": {
-        "name": "Ancient Transition",
-        "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
+        "name": "The Recordings of the Middle East",
+        "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
       },
       "artists": [
         {
-          "name": "Beta Radio",
-          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+          "name": "The Middle East",
+          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
         }
       ],
-      "duration_ms": 244120,
-      "name": "Our Remains",
-      "url": "https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv"
+      "duration_ms": 326920,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
     },
     {
       "added_at": "2024-01-19 10:31:56",
@@ -1835,22 +1851,6 @@
       "duration_ms": 251440,
       "name": "Arms Of A Woman",
       "url": "https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk"
-    },
-    {
-      "added_at": "2024-01-19 10:31:56",
-      "album": {
-        "name": "The Recordings of the Middle East",
-        "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
-      },
-      "artists": [
-        {
-          "name": "The Middle East",
-          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
-        }
-      ],
-      "duration_ms": 326920,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
     },
     {
       "added_at": "2024-01-19 10:31:56",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2024-01-19 10:31:56",
       "album": {
-        "name": "Welcome To The Cruel World",
-        "url": "https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM"
-    },
-    {
-      "added_at": "2024-01-19 10:31:56",
-      "album": {
         "name": "Change It All",
         "url": "https://open.spotify.com/album/0dkUKtlAdUxzlhmvS4BVmU"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 247413,
       "name": "Change It All",
       "url": "https://open.spotify.com/track/7lWKpA4JZrGVqYURuz7cnu"
+    },
+    {
+      "added_at": "2024-01-19 10:31:56",
+      "album": {
+        "name": "Welcome To The Cruel World",
+        "url": "https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 204360,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM"
     },
     {
       "added_at": "2024-01-19 10:31:56",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2024-01-19 10:31:56",
       "album": {
-        "name": "All We've Known",
-        "url": "https://open.spotify.com/album/70ZgNr9ZbfPqaOn0gfA50A"
-      },
-      "artists": [
-        {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
-        }
-      ],
-      "duration_ms": 133600,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/0HFBVwKtD5kBrQQseDwagJ"
-    },
-    {
-      "added_at": "2024-01-19 10:31:56",
-      "album": {
         "name": "In Deepest Blue (Bonus Track Version)",
         "url": "https://open.spotify.com/album/6xWGNnipxLJCfRPPB9e9Iy"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 261640,
       "name": "The Flood",
       "url": "https://open.spotify.com/track/5wQci5VCUjdbKnRD61XYwu"
+    },
+    {
+      "added_at": "2024-01-19 10:31:56",
+      "album": {
+        "name": "All We've Known",
+        "url": "https://open.spotify.com/album/70ZgNr9ZbfPqaOn0gfA50A"
+      },
+      "artists": [
+        {
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+        }
+      ],
+      "duration_ms": 133600,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/0HFBVwKtD5kBrQQseDwagJ"
     },
     {
       "added_at": "2024-01-19 10:31:56",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2024-01-19 10:31:56",
       "album": {
-        "name": "Alas I Cannot Swim",
-        "url": "https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 179960,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR"
-    },
-    {
-      "added_at": "2024-01-19 10:31:56",
-      "album": {
         "name": "Vacancy",
         "url": "https://open.spotify.com/album/3HTmh4jyCRfi8wjlxmm8uL"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 152960,
       "name": "Waiting Around - Acoustic",
       "url": "https://open.spotify.com/track/6fWBQnyz8GrH0neN1IsBRc"
+    },
+    {
+      "added_at": "2024-01-19 10:31:56",
+      "album": {
+        "name": "Alas I Cannot Swim",
+        "url": "https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 179960,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR"
     },
     {
       "added_at": "2024-01-19 10:31:56",

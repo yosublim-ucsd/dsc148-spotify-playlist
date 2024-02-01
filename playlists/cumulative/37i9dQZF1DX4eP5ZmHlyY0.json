@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "God Mode",
+        "url": "https://open.spotify.com/album/3j6i1vKHTjehKad1kwqdJV"
+      },
+      "artists": [
+        {
+          "name": "BALLISTIK BOYZ from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214600,
+      "name": "God Mode",
+      "url": "https://open.spotify.com/track/02bRlgNPp9ctqByOhAMs9d"
+    },
+    {
+      "album": {
         "name": "TAG ME",
         "url": "https://open.spotify.com/album/0uZD2qIc7Y9UsXFModWKau"
       },
@@ -640,6 +658,28 @@
       "duration_ms": 200824,
       "name": "I Got It",
       "url": "https://open.spotify.com/track/5yHvX9AFnONMXwBhDGwJ5R"
+    },
+    {
+      "album": {
+        "name": "INFERNO",
+        "url": "https://open.spotify.com/album/4NqvSNYyzoeddxkQgSdTvX"
+      },
+      "artists": [
+        {
+          "name": "RIKU",
+          "url": "https://open.spotify.com/artist/5nnTRY8f0Gi8rIC9bgrnZG"
+        },
+        {
+          "name": "MA55IVE THE RAMPAGE",
+          "url": "https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221600,
+      "name": "INFERNO",
+      "url": "https://open.spotify.com/track/212BPxhwlB49xBb19xrEoh"
     },
     {
       "album": {
@@ -791,6 +831,24 @@
     },
     {
       "album": {
+        "name": "love you",
+        "url": "https://open.spotify.com/album/1Lz2m18o2oaR5gIzU8Fe2H"
+      },
+      "artists": [
+        {
+          "name": "North Sound Signal",
+          "url": "https://open.spotify.com/artist/3jNomgceQXS8NawlT2aDcn"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "love you",
+      "url": "https://open.spotify.com/track/1aDjxcXgU3B85P04KBttwL"
+    },
+    {
+      "album": {
         "name": "Mainstream",
         "url": "https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j"
       },
@@ -820,7 +878,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 194752,
       "name": "Melody",
       "url": "https://open.spotify.com/track/495GBEvMX06OrwhCCZ7H0y"
@@ -910,7 +968,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 287033,
       "name": "N.E.X.T.",
       "url": "https://open.spotify.com/track/345qiMdQHKT6V4S0AKK1TW"
@@ -946,7 +1004,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 217213,
       "name": "NEW KIDZ",
       "url": "https://open.spotify.com/track/2aMr20hmw6g8dbvNtzpbot"
@@ -964,7 +1022,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 208626,
       "name": "NEW ROAD",
       "url": "https://open.spotify.com/track/6SV2IgRFdjK4I2BLT8dOkt"
@@ -1036,10 +1094,32 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 213866,
       "name": "Next",
       "url": "https://open.spotify.com/track/69u9PoISpJxSfL2bMkmyWA"
+    },
+    {
+      "album": {
+        "name": "NO FEAR NO MORE",
+        "url": "https://open.spotify.com/album/02nzdH6EXpFF1ggzmylOHA"
+      },
+      "artists": [
+        {
+          "name": "\u7247\u5bc4\u6dbc\u592a",
+          "url": "https://open.spotify.com/artist/6RexcbImnLm1O83WNPzZV2"
+        },
+        {
+          "name": "DOBERMAN INFINITY",
+          "url": "https://open.spotify.com/artist/25X0RB2EWCmj9u0Pnj1uW5"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185033,
+      "name": "NO FEAR NO MORE",
+      "url": "https://open.spotify.com/track/3xeisaUnuXnMr6jFrFmzCu"
     },
     {
       "album": {
@@ -1094,10 +1174,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 222224,
       "name": "PHOTOGENIC",
       "url": "https://open.spotify.com/track/1KZZGKxtges95QLiiCQ1pU"
+    },
+    {
+      "album": {
+        "name": "PHOTOGENIC",
+        "url": "https://open.spotify.com/album/2wZeycukWcubBPrRLKsO3G"
+      },
+      "artists": [
+        {
+          "name": "THE JET BOY BANGERZ from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223840,
+      "name": "PHOTOGENIC",
+      "url": "https://open.spotify.com/track/7mvliituEQSOeGnbE3BPla"
     },
     {
       "album": {
@@ -1238,7 +1336,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 187600,
       "name": "Rocketeer",
       "url": "https://open.spotify.com/track/5ONAE8kbnpU9roroXScbcm"
@@ -1346,7 +1444,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 205373,
       "name": "Snowin'",
       "url": "https://open.spotify.com/track/6gsWfx1d3KtV4Y8ecsLVfx"
@@ -1466,6 +1564,24 @@
       "duration_ms": 306466,
       "name": "STARRY LOVE",
       "url": "https://open.spotify.com/track/6meVZwlQ5LdOCjxUy0ipQq"
+    },
+    {
+      "album": {
+        "name": "Snowin\u2019 (Special Edition)",
+        "url": "https://open.spotify.com/album/3UKyosnPDUiTp3mj9bMCLM"
+      },
+      "artists": [
+        {
+          "name": "DXTEEN",
+          "url": "https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200906,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/1L9ON381JuyfpFmrrsSpt6"
     },
     {
       "album": {
@@ -1606,10 +1722,28 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 204400,
       "name": "Vivid",
       "url": "https://open.spotify.com/track/3nXzWBaH6lhOksp1wu8hnL"
+    },
+    {
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/0w9NEJmBHrCvWewrujlOgt"
+      },
+      "artists": [
+        {
+          "name": "MAZZEL",
+          "url": "https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173200,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/180UE30SYVQfYU02UzcyHT"
     },
     {
       "album": {
@@ -1682,7 +1816,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 200626,
       "name": "Winter Land",
       "url": "https://open.spotify.com/track/2gYrufmaPpk9M3kR1uctuK"
@@ -1862,7 +1996,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 183966,
       "name": "\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30ea\u30ea\u30fc",
       "url": "https://open.spotify.com/track/676LDL3TVRJ4UrHQlQmUEi"
@@ -1941,6 +2075,24 @@
     },
     {
       "album": {
+        "name": "\u7523\u307e\u308c\u305f\u9803\u306e\u81ea\u5206\u306b\u623b\u3063\u3066",
+        "url": "https://open.spotify.com/album/1S87TvVflyxo4odBE0V7bx"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u91ce\u96c4\u5927 (from Da-iCE)",
+          "url": "https://open.spotify.com/artist/4YX4877oTbkuhiKnanhWux"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259230,
+      "name": "\u7523\u307e\u308c\u305f\u9803\u306e\u81ea\u5206\u306b\u623b\u3063\u3066",
+      "url": "https://open.spotify.com/track/3V6hdL8IDDBeyDD2V5mKa8"
+    },
+    {
+      "album": {
         "name": "DOZEN ROSES",
         "url": "https://open.spotify.com/album/0ySLEnWBafEqbFuXaAwYTs"
       },
@@ -1960,6 +2112,24 @@
       "duration_ms": 227500,
       "name": "\u7a7a\u3001\u51ac\u306e\u66d9 - feat. B.I.G.JOE",
       "url": "https://open.spotify.com/track/5u24JFPjw0JruDhYOj0NwG"
+    },
+    {
+      "album": {
+        "name": "Bull's Eye",
+        "url": "https://open.spotify.com/album/3mCD8c66aHjHCgfQpJToGu"
+      },
+      "artists": [
+        {
+          "name": "OR\u03b2IT",
+          "url": "https://open.spotify.com/artist/5nIjW1OJiqkhJsdHWBfKrN"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219173,
+      "name": "\u971c\u82b1",
+      "url": "https://open.spotify.com/track/2DLEAYyePjxHjF1b2fhWqm"
     },
     {
       "album": {

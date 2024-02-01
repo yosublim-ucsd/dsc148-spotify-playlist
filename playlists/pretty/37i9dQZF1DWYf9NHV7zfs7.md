@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷 Miranda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,871 likes - 85 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,921 likes - 85 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,12 +86,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 76 | [Borracha en un Baño Ajeno](https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Borracha en un Baño Ajeno](https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG) | 4:00 |
 | 77 | [A Escondidas](https://open.spotify.com/track/4qURp3b9IvKvtcv5ZQahmG) | [Emanuel Ortega](https://open.spotify.com/artist/1DbNO9pwS4AzYbWX367Pvg) | [Momentos](https://open.spotify.com/album/0Hj4TxCCSedmboBADrHDSV) | 3:51 |
 | 78 | [Ya Borré Tu Número del Celular](https://open.spotify.com/track/1XLnF48KJykKU2yMN5miJl) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Ya Borré Tu Número del Celular](https://open.spotify.com/album/2Ce8ExX8V8f5OTLdgKUak8) | 3:31 |
-| 79 | [Esperanza \(feat\. Agarrate Catalina\)](https://open.spotify.com/track/3yUylEQIeozYWNXv8MIGqJ) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:46 |
-| 80 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG) | 4:10 |
+| 79 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG) | 4:10 |
+| 80 | [Esperanza \(feat\. Agarrate Catalina\)](https://open.spotify.com/track/3yUylEQIeozYWNXv8MIGqJ) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:46 |
 | 81 | [100PRE](https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [100PRE](https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS) | 3:25 |
 | 82 | [Maldita Noche](https://open.spotify.com/track/4hG3BN5iiURXPGDUQxfJ8b) | [Bandana](https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k) | [Bandana](https://open.spotify.com/album/1kzE1CE66xMmJyh6rzWJzj) | 3:25 |
 | 83 | [Hablo Con Vos \(feat\. Nahuel Barbero\)](https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Nahuel Barbero](https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I) | [Otro Lado](https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN) | 3:51 |
 | 84 | [El Nuevo Amor](https://open.spotify.com/track/4ewO4CRFVkcD0IcTvGCSGc) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Desandando Mis Pasos](https://open.spotify.com/album/2Murx2ffqeCVKyJhnVHjpC) | 2:27 |
 | 85 | [Una Lágrima y Un Beso](https://open.spotify.com/track/1WKQltJAgWGgBi038RjysV) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Una Lágrima y Un Beso](https://open.spotify.com/album/5rnUwBTdluUlt8sJIxyRCS) | 3:20 |
 
-Snapshot ID: `MCw2ZjBmNTZiNTQ3NTc2YzZmNWU3MGNkYzIwMWIxNTUzMWY2ZWEyZDIz`
+Snapshot ID: `MCw1ZjNjZTUxNWZlZDgzMGZjNDlkMmJkYmE4ZTY4MTA4OTNkOWYwNWM1`

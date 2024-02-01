@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 1126800,
+  "2024-02-01": 1126997,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Japan.",
   "name": "Top 50 - Japan",
@@ -235,13 +235,13 @@
       },
       "artists": [
         {
-          "name": "noa",
-          "url": "https://open.spotify.com/artist/3YFWyQgtNl7SbZVu26hCRY"
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
         }
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 127925,
       "name": "Any angle",
       "url": "https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg"
@@ -3305,7 +3305,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 288099,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/6wffxmLgeZTbvS1hYvLkht"

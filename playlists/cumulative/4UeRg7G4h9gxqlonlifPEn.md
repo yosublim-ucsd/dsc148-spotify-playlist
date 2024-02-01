@@ -4,7 +4,7 @@
 
 > Turnt mode means bangers only – Featuring Nardo Wick, Lil Tjay, Polo G &amp; more\. \| Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame HipHop \| Cover: 21 Lil Harold
 
-344 songs - 16 hr 5 min
+345 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [FU](https://open.spotify.com/track/1YBBKNODINXewbFOTyTDGd) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [FU](https://open.spotify.com/album/0fxV0telSv7hzJxOoluSGZ) | 2:16 | 2023-12-08 |  |
 | [G Nikes \(feat\. Polo G\)](https://open.spotify.com/track/1YZkTazuoK1cHt4cLPrgRO) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [G Nikes \(feat\. Polo G\)](https://open.spotify.com/album/63SZDWNflSp5XfQNduQuyK) | 3:14 | 2022-10-14 |  |
 | [Get Deady](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 | 2023-12-15 |  |
+| [Get In With Me](https://open.spotify.com/track/4iEoDBAgMJIzest7VsDgmT) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Get In With Me](https://open.spotify.com/album/5OOVp8NFXAklfbzh5BcLzx) | 2:00 | 2024-01-31 |  |
 | [Glitch](https://open.spotify.com/track/69pRzSXB0Lc0kkD1kRezQm) | [Guapo](https://open.spotify.com/artist/1KWQVpABJxgYvLY5pNNZV6) | [Glitch](https://open.spotify.com/album/1MlzLQq5J4BXonkjFxidye) | 1:22 | 2022-11-18 | 2023-04-01 |
 | [Go DJ](https://open.spotify.com/track/5goFCtUGQHU4kQuwIupc5D) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 2:36 | 2023-02-03 |  |
 | [Gone On Tour](https://open.spotify.com/track/36ZAeH9kyuXHYGqzYKRqiB) | [Baby Jamo](https://open.spotify.com/artist/6zFixzuUUZYLye59Ajwfb0) | [Gone On Tour](https://open.spotify.com/album/1Pof9UfN6OxFioVWla1OcG) | 2:21 | 2023-12-08 |  |

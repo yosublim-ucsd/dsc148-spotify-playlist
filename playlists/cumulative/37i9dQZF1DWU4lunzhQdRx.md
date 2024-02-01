@@ -4,7 +4,7 @@
 
 > in our emo cowgirl era
 
-137 songs - 8 hr 26 min
+138 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,13 +68,14 @@
 | [Just a Dream](https://open.spotify.com/track/7g8OpS827dAYU067lZaR0L) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:44 | 2022-05-05 | 2022-05-11 |
 | [Just About Over You](https://open.spotify.com/track/4Ec0q0j8hRTCX4QQ5MiHSX) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You](https://open.spotify.com/album/6re9IhLwe8c8pauqj1Fgma) | 2:59 | 2022-07-25 | 2023-02-14 |
 | [Just About Over You](https://open.spotify.com/track/6VzJCMOzVbvb25LPYQviM5) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You](https://open.spotify.com/album/22riN0U2QIHFdqKv9uzBK0) | 2:59 | 2022-04-26 | 2022-07-29 |
+| [Just About Over You](https://open.spotify.com/track/7AoU7WDzb1zr2p4ldkOokr) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Welcome To The Block Party \(Deluxe\)](https://open.spotify.com/album/4kFbZ2kjG26kkUifzKfy7L) | 2:59 | 2024-01-24 |  |
 | [Just Married](https://open.spotify.com/track/3jwLmTcTwuE0xLR3sm6SqI) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 3:18 | 2023-02-15 |  |
 | [Keep It To Yourself](https://open.spotify.com/track/2fG23IIy7rYN8eMNbAHcS2) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:16 | 2022-04-26 | 2024-01-09 |
 | [Landslide](https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) | 3:50 | 2022-05-13 |  |
 | [Let It Rain](https://open.spotify.com/track/0DAjiINHQTnPnnY939Qyhw) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6), [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Let It Rain](https://open.spotify.com/album/0sHqVmVxBi8pF8k3OhqQfp) | 3:42 | 2023-05-05 | 2023-06-03 |
 | [Let Me Get Over Her](https://open.spotify.com/track/2YAEntcShBOrHi2wSKTOZA) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 3:02 | 2022-05-20 | 2022-07-17 |
 | [Loom](https://open.spotify.com/track/46dUiDTF3xDchz5lZ3T36s) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 2:43 | 2023-05-05 |  |
-| [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 | 2022-05-05 |  |
+| [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 | 2022-05-05 | 2024-02-01 |
 | [Make You Miss Me](https://open.spotify.com/track/0xwPzLmBAYro8BUz7MrtAo) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:45 | 2022-07-25 |  |
 | [Marry Me](https://open.spotify.com/track/0OWZFobGSIW9GrSlQ9C5pc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 3:25 | 2022-04-26 |  |
 | [Maybe Someday You’ll Have A Daughter](https://open.spotify.com/track/5aAxEw0OECrXeGQqcyPxNV) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Primrose](https://open.spotify.com/album/651HDTxsDlfqeeK7oHWXum) | 3:28 | 2023-05-19 | 2023-06-03 |

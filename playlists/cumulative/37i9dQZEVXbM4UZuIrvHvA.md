@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- UAE.
 
-1,257 songs - 2 day 23 hr 31 min
+1,258 songs - 2 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,6 +587,7 @@
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-11 | 2021-06-27 |
 | [Knife Talk \(with 21 Savage ft\. Project Pat\)](https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:02 | 2021-09-05 | 2021-10-18 |
 | [Knock Knock](https://open.spotify.com/track/6aHoPULNO7pSL2ZfUY0bU8) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Angelic 7](https://open.spotify.com/album/0VqPgJ14lyu0JlERRgqgUw) | 2:19 | 2021-06-05 | 2021-08-26 |
+| [Koi Si](https://open.spotify.com/track/0rY5TEzbVFwphIzMhMh7hX) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Koi Si](https://open.spotify.com/album/4HYXhgflBVtGl3cYL2eJIm) | 3:19 | 2024-01-31 |  |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-09-01 | 2023-01-12 |
 | [l e t \. g o \. m y \. h a n d \(with Bas & 6LACK\)](https://open.spotify.com/track/0GAyuCo975IHGxxiLKDufB) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 4:26 | 2021-05-16 | 2021-05-23 |
 | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/track/6dmXZ9B5HdFAyzHeTneYBK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/album/39LyZrNGkbc2IUeVOhwmGU) | 3:08 | 2021-11-16 | 2021-11-20 |
@@ -751,7 +752,7 @@
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-14 | 2022-06-08 |
 | [Naa Ready](https://open.spotify.com/track/13ZISM2bmrMBCRlMzl669x) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Leo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2nZKDF0ZFy0Pv7uMakAwZh) | 4:08 | 2023-10-21 | 2023-10-31 |
 | [Naa Ready \(From "Leo"\)](https://open.spotify.com/track/1B02UI29t3PTh3m98absaP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Naa Ready \(From "Leo"\)](https://open.spotify.com/album/7qRoSVSyHeA9qtOXUpBwRI) | 4:08 | 2023-06-24 | 2023-10-22 |
-| [Naina Tere Kajrare Hain](https://open.spotify.com/track/22uZMEL9lqcffwmHGd2xdP) | [Vivek Verma](https://open.spotify.com/artist/3ts5nTrpQTTjBgSUUzlhQk) | [Naina Tere Kajrare Hain](https://open.spotify.com/album/6oAK14M09paXNmfzSKlPup) | 0:58 | 2024-01-30 |  |
+| [Naina Tere Kajrare Hain](https://open.spotify.com/track/22uZMEL9lqcffwmHGd2xdP) | [Vivek Verma](https://open.spotify.com/artist/3ts5nTrpQTTjBgSUUzlhQk) | [Naina Tere Kajrare Hain](https://open.spotify.com/album/6oAK14M09paXNmfzSKlPup) | 0:58 | 2024-01-30 | 2024-02-01 |
 | [NDA](https://open.spotify.com/track/38GBNKZUhfBkk3oNlWzRYd) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:15 | 2021-08-01 | 2021-08-07 |
 | [NDA](https://open.spotify.com/track/6uqyE384HDSsuwpoF4mjrL) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [NDA](https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29) | 3:15 | 2021-07-11 | 2021-07-28 |
 | [Need to Know](https://open.spotify.com/track/10hcDov7xmcRviA8jLwEaI) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Need to Know](https://open.spotify.com/album/7N3SiwnBMR1C8hcA4W1GtH) | 3:30 | 2021-06-13 | 2021-06-20 |

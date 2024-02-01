@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Ton Carfi
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,097 likes - 80 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,203 likes - 80 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 37 | [Oração De Gratidão](https://open.spotify.com/track/2BrZxM2Acd5g3iESZMV37m) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Oração De Gratidão](https://open.spotify.com/album/0zyRK8liOTanEtFqhQTnI5) | 3:56 |
 | 38 | [Troco](https://open.spotify.com/track/0eC7kRIfqQdJfh8A07PUwv) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Troco](https://open.spotify.com/album/0iXI8HqnYqnKJpfe6EpRcA) | 4:00 |
 | 39 | [Eu e o Rei \- Ao Vivo](https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Eu e o Rei \(Ao Vivo\)](https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ) | 5:37 |
-| 40 | [Nada vai me separar \(Acústico\)](https://open.spotify.com/track/3lvW6YlRwTIhRkrFsqpXyD) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Nada vai me separar \(Acústico\)](https://open.spotify.com/album/2LEQUVyuNA0EveW6JSeIGw) | 4:38 |
-| 41 | [Quero Mais \- Acústico](https://open.spotify.com/track/7gC2JG5pQNF2YJg0cFWlPC) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Histórias Vol\. 1 \(Acústico\)](https://open.spotify.com/album/2zSnQpQr9HxRWCz4OaUPSx) | 4:08 |
+| 40 | [Quero Mais \- Acústico](https://open.spotify.com/track/7gC2JG5pQNF2YJg0cFWlPC) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Histórias Vol\. 1 \(Acústico\)](https://open.spotify.com/album/2zSnQpQr9HxRWCz4OaUPSx) | 4:08 |
+| 41 | [Nada vai me separar \(Acústico\)](https://open.spotify.com/track/3lvW6YlRwTIhRkrFsqpXyD) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Nada vai me separar \(Acústico\)](https://open.spotify.com/album/2LEQUVyuNA0EveW6JSeIGw) | 4:38 |
 | 42 | [Confiar em Deus \- Spotify Singles](https://open.spotify.com/track/1C9SmYGyTZdb3xCR1SQ9xR) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Confiar em Deus \- Spotify Singles](https://open.spotify.com/album/44LijlMAyaGINUQkTYg5xs) | 3:43 |
 | 43 | [Encaixe](https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Encaixe](https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5) | 3:42 |
 | 44 | [De Dentro Pra Fora \- Acústico](https://open.spotify.com/track/5SstyI2yTMKPkGHRcLjsmO) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [De Dentro Pra Fora \(Acústico\)](https://open.spotify.com/album/3yvcoy8mYfNGb6Q9WdUd70) | 4:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 79 | [Quem Sou](https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK) | [PEDRAZUL](https://open.spotify.com/artist/5A2Slemy1IuX9KdV8xjCfA), [Antônio](https://open.spotify.com/artist/3XlPRhG9w1NMCPvS1f4dW5), [Jaqueline Nobre](https://open.spotify.com/artist/4Ho1MOw0lfdAfXvH4DVJXd) | [Quem Sou](https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj) | 4:30 |
 | 80 | [Ele É Exaltado \- Acústico](https://open.spotify.com/track/7dZ19T2Sn5ZRUKeIqRakF1) | [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs), [Tavinho](https://open.spotify.com/artist/036P0vXkdyvd37jZ7FbpZW) | [Ele É Exaltado \(Acústico\)](https://open.spotify.com/album/5IDjJqDcj4Xr5r56HXBYWI) | 2:15 |
 
-Snapshot ID: `MCw1Njk5N2EyMzBkZWI3ZTkzM2E2MzY5NTMzZTY5MmNlNmFlMDBmZjZh`
+Snapshot ID: `MCxlNjY2NjRmZjk0MjU3ODRlZjkxM2RlOTg1YTU2ODMwOGVlZjM2MWE4`

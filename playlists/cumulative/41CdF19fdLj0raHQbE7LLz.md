@@ -4,7 +4,7 @@
 
 > &\#x27;Spektre&\#x27;s Selection&\#x27; is a weekly updated playlist of the freshest techno straight from their crate! Get following! \#respekt
 
-181 songs - 15 hr 52 min
+185 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Catalyst](https://open.spotify.com/track/0NKy73GIkZmlpPQzTuExnV) | [Alessandro D'Avenia](https://open.spotify.com/artist/6cgN3FkBzzZnNiHmTXejz5) | [Connection](https://open.spotify.com/album/7bkflTRV13PDtvSQnQlGE1) | 6:03 | 2023-03-09 |  |
 | [Choir Of Spirits](https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Choir Of Spirits](https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd) | 6:45 | 2022-05-17 |  |
 | [Circles](https://open.spotify.com/track/2xU4Ejdq5h5EE7YcIbjnZe) | [Nicolas Taboada](https://open.spotify.com/artist/6dcbo1dJld5wdwLeno5MBE) | [A\-Sides, Vol\. 11](https://open.spotify.com/album/3uDzg42dI0fxJUojkmN1aY) | 6:23 | 2022-11-25 |  |
+| [Clairvoyant](https://open.spotify.com/track/7sP4lDPMVGVrp5qSVjqXPD) | [Crossbow](https://open.spotify.com/artist/7w9hUQDypmlktoxpMa12dV) | [Clairvoyant](https://open.spotify.com/album/03oox32OCziCwqYqMejYXg) | 4:00 | 2024-01-31 |  |
 | [Claptrap](https://open.spotify.com/track/1wxgrpzFQPePRLW4YKYvJN) | [Crossbow](https://open.spotify.com/artist/7w9hUQDypmlktoxpMa12dV) | [Claptrap](https://open.spotify.com/album/1w2LMklzYKEjJYT5yCqvyc) | 4:36 | 2023-03-09 |  |
 | [Clarity](https://open.spotify.com/track/0YTa8TqgoTRjPznEJYNDDW) | [A.S.H](https://open.spotify.com/artist/2ES9p7AUwZWCR0xfGsCKTC) | [Obsession](https://open.spotify.com/album/5fzpNfrjHhr7z3fk3jEnYn) | 7:15 | 2022-02-03 | 2023-04-24 |
 | [Come With Me](https://open.spotify.com/track/1kNsgWpbSPHtGZC5cdHm5R) | [Jo Poole](https://open.spotify.com/artist/3d8oVrrMiYpjm8iHGj7CYF) | [In Control](https://open.spotify.com/album/34ButLQg3S3CugEn6CPQ9s) | 3:28 | 2023-08-15 |  |
@@ -116,6 +117,7 @@
 | [Obsession](https://open.spotify.com/track/0ED6TY7mO6EhZtrMvi1PNO) | [A.S.H](https://open.spotify.com/artist/2ES9p7AUwZWCR0xfGsCKTC) | [Obsession](https://open.spotify.com/album/5fzpNfrjHhr7z3fk3jEnYn) | 6:35 | 2022-02-03 | 2023-04-24 |
 | [On A Level](https://open.spotify.com/track/5Pnl8HKqN7rbxx229sS1v4) | [Modeā](https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ) | [Era Of Rave](https://open.spotify.com/album/1JtN79zoxzHQDWpHk7znrK) | 5:25 | 2022-05-17 | 2023-09-26 |
 | [Once Again](https://open.spotify.com/track/3j6MGO2YuxQBcunfo2tbmG) | [Jay Lumen](https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV) | [Ode to Earth](https://open.spotify.com/album/4YoytsW6fOAn8AeZkmrhzk) | 5:24 | 2023-09-29 |  |
+| [Out of Touch](https://open.spotify.com/track/6SIepMjl42q78LP2utY9IH) | [Bolster](https://open.spotify.com/artist/534DhQnkivsYnHW478ZhLb) | [Out of Touch](https://open.spotify.com/album/1ekPNCDuFxEhC7GKGgahqy) | 3:33 | 2024-01-31 |  |
 | [Outface \- Egbert Rework](https://open.spotify.com/track/2LzgFHHOcrJ32Gy3qCzFxl) | [Komakino](https://open.spotify.com/artist/7kXKgvvRpzUfLrNlsgeQRF), [Egbert](https://open.spotify.com/artist/2XDYCsSrSPH37AtnRvCkIx) | [Outface \(30 Yrs Jubilee Edition\)](https://open.spotify.com/album/3RQBzD4YJS8scE9rgPHLVH) | 6:06 | 2023-04-23 |  |
 | [Overspeed](https://open.spotify.com/track/5kV5o0VJq2DMxiJw4HcK2W) | [Chicago Loop](https://open.spotify.com/artist/4j8GdWeeg7TuzGy9JUjtMQ), [Jack Smooth](https://open.spotify.com/artist/7z27C5h6MayB4vVg6rugX5) | [Respekt Rebels, Vol\. 5](https://open.spotify.com/album/3TENZK2vFLimFVPjwWqn2x) | 3:54 | 2023-09-15 |  |
 | [Phantom](https://open.spotify.com/track/4kh3BO905A2aAY17lug2eV) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Phantom](https://open.spotify.com/album/53kkvZnrWCe8HOFQGr7o3h) | 3:42 | 2023-06-28 |  |
@@ -175,6 +177,7 @@
 | [Thorium \- Rebel Boy Remix](https://open.spotify.com/track/1fRNJGkTe8ynSXgKtaqPjD) | [A.S.H](https://open.spotify.com/artist/2ES9p7AUwZWCR0xfGsCKTC), [Rebel Boy](https://open.spotify.com/artist/3pY489HHP3Em5RAy63Vmf9) | [Respekt Reworks Vol.2](https://open.spotify.com/album/3Rq3N3SFhlSRMcFbfa0kVg) | 4:31 | 2022-03-19 | 2023-04-24 |
 | [Time & Place \- Spencer Dunning Remix](https://open.spotify.com/track/47yWDDVJWtMZ9S67WhhokF) | [Tom Laws](https://open.spotify.com/artist/4TjUC7PDFfMhDvv9NqWd2Z), [Fay Andrews](https://open.spotify.com/artist/1QKPEJqcJPn4g3HfdFIweS), [Spencer Dunning](https://open.spotify.com/artist/0AH3Il5r52nyRQHQspuDSa) | [Respekt Reworks Vol.2](https://open.spotify.com/album/3Rq3N3SFhlSRMcFbfa0kVg) | 3:05 | 2022-03-19 | 2023-06-29 |
 | [Time Of Time](https://open.spotify.com/track/2wqqmfrG9QyA7r5TSlXRTL) | [Exos](https://open.spotify.com/artist/4RiS9upIWfYxyu1HqjMWt6) | [Time To Time](https://open.spotify.com/album/0vQimUFsy02jI5ucAlVxVV) | 5:43 | 2022-04-18 | 2023-06-29 |
+| [Time Slip](https://open.spotify.com/track/6TdvPhVuRv3wti78X8TRR0) | [Crossbow](https://open.spotify.com/artist/7w9hUQDypmlktoxpMa12dV) | [Clairvoyant](https://open.spotify.com/album/03oox32OCziCwqYqMejYXg) | 4:01 | 2024-01-31 |  |
 | [Touch The Darkness](https://open.spotify.com/track/6BaQEqUuo6R1RISio9U5T3) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Touch The Darkness](https://open.spotify.com/album/4RJKnty59mAjgmslaWAGkm) | 7:33 | 2023-04-23 |  |
 | [Tropospheric \- Original Mix](https://open.spotify.com/track/2ONRJbdsHxl2ZdMQs7XxBC) | [Alex Lentini](https://open.spotify.com/artist/4p8IldEUZ3hx6mfDuHVzCX), [STOMP BOXX](https://open.spotify.com/artist/2JiR7cmdczSUV1QFwWXhrZ) | [Tropospheric](https://open.spotify.com/album/2LamuX3kaZlpWJLRHmpDUP) | 6:43 | 2022-05-17 |  |
 | [Unconscious Spirit](https://open.spotify.com/track/3o6hkK5B7OUNwEpIbY4Wjm) | [Jo Poole](https://open.spotify.com/artist/3d8oVrrMiYpjm8iHGj7CYF) | [Unconscious Spirit](https://open.spotify.com/album/3VCX2w8izEMQqMMZTQrc9K) | 3:32 | 2022-07-01 |  |
@@ -185,6 +188,7 @@
 | [Wasted](https://open.spotify.com/track/3WaBT0YVA8akM8nMLqpQ39) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [In Memoro](https://open.spotify.com/album/4JCLZDz9EdRh48aRjDSNLm) | 4:52 | 2023-06-28 |  |
 | [What's That Called?](https://open.spotify.com/track/7wkXDxQyx86qpvpxD6GZH5) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Pura Vida](https://open.spotify.com/album/6kZN30YG45TPTCe9IVt95T) | 4:17 | 2022-11-25 | 2023-04-24 |
 | [When I Rock \- A.D.H.S\. Remix](https://open.spotify.com/track/2RZUzI8KssitQ4SYPr1xUd) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [When I Rock \(A.D.H.S\. Remix\)](https://open.spotify.com/album/3AUUUXLVRCj3nHbGHPT0ic) | 4:19 | 2023-09-29 |  |
+| [Wings of Imagination](https://open.spotify.com/track/5pIpMTv5tPeqp2HZhSXbzA) | [Bolster](https://open.spotify.com/artist/534DhQnkivsYnHW478ZhLb) | [Out of Touch](https://open.spotify.com/album/1ekPNCDuFxEhC7GKGgahqy) | 3:26 | 2024-01-31 |  |
 | [With The Rhythm](https://open.spotify.com/track/5TAIQ9hjW7il1wSMXRxsdb) | [Mark Porter](https://open.spotify.com/artist/78ZSf9GUQWY0G0wxF710fo) | [Respekt Rebels, Vol\. 5](https://open.spotify.com/album/3TENZK2vFLimFVPjwWqn2x) | 4:08 | 2023-09-15 |  |
 | [Yeke Yeke \- Hardfloor Edit](https://open.spotify.com/track/3P2CTYznZuBgFHCPXqISDG) | [Mory Kanté](https://open.spotify.com/artist/0roLSs1WqlurDniSZ1pttN) | [Rave Classics](https://open.spotify.com/album/5RxPozvp4dooX36BFRIUMT) | 3:56 | 2023-04-24 |  |
 | [You Are Mine \- Original Mix](https://open.spotify.com/track/3P1U26uNScZlDt2QD02YS5) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [You Are Mine EP](https://open.spotify.com/album/7FpzZ4YR2MyNwcN8uQYaX8) | 6:54 | 2022-11-25 | 2023-04-24 |

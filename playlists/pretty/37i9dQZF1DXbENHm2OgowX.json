@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 162792,
+  "num_followers": 163084,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWY3NWI2OWQ0NmIzMjQyOGQzNjMwMjI0ZjBmZjdlZGM5ZjA4ODg2",
+  "snapshot_id": "MCwxNjRmMDdjMWEwYmJlMzUxMTE3N2YyNjZmZDg0NTI0N2M5MTVkMzcx",
   "tracks": [
     {
       "added_at": "2023-09-22 12:14:33",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
+        "name": "Dead Magic",
+        "url": "https://open.spotify.com/album/6TwIgTmp0ntCzuc846KoXB"
+      },
+      "artists": [
+        {
+          "name": "Anna von Hausswolff",
+          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
+        }
+      ],
+      "duration_ms": 318786,
+      "name": "The Marble Eye",
+      "url": "https://open.spotify.com/track/5tWSQ1cXoMBafYnEwmSVkS"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
         "name": "Vintage Well",
         "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
       },
@@ -959,22 +975,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "hexa",
-        "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
-      },
-      "artists": [
-        {
-          "name": "Maxx",
-          "url": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "hexa",
-      "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "Radio Amor",
         "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Dead Magic",
-        "url": "https://open.spotify.com/album/6TwIgTmp0ntCzuc846KoXB"
+        "name": "hexa",
+        "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
       },
       "artists": [
         {
-          "name": "Anna von Hausswolff",
-          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
+          "name": "Maxx",
+          "url": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
         }
       ],
-      "duration_ms": 318786,
-      "name": "The Marble Eye",
-      "url": "https://open.spotify.com/track/5tWSQ1cXoMBafYnEwmSVkS"
+      "duration_ms": 149333,
+      "name": "hexa",
+      "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
     },
     {
       "added_at": "2023-09-22 12:14:33",

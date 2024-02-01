@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-353 songs - 23 hr 41 min
+354 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Carry You](https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:33 | 2023-01-17 |  |
 | [Cattails](https://open.spotify.com/track/1zNLILPGGfMdEnifTrnY3z) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 4:05 | 2023-01-17 |  |
 | [Century](https://open.spotify.com/track/5VgHyTScSLqpTai6oQjird) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:07 | 2023-01-17 |  |
+| [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 | 2024-02-01 |  |
 | [Chariot](https://open.spotify.com/track/12kZPPg7Ve9Br7mEtmVY1h) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [B\-Sides and Rarities](https://open.spotify.com/album/2K3XaSsGQ9Bxxr7byYAcrO) | 5:16 | 2023-01-17 | 2023-11-01 |
 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 | 2023-01-17 |  |
 | [Colourblind](https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:54 | 2023-01-17 |  |
@@ -106,7 +107,7 @@
 | [Feels Like We're Dying](https://open.spotify.com/track/0IvaKmBYBLVcdP0Ft8Dwik) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Far Away](https://open.spotify.com/album/00Yc9nnL6ODCkfqC7iV9lq) | 3:05 | 2023-01-17 |  |
 | [Fell Apart](https://open.spotify.com/track/3hGS9sZkMm1yalQr76gcKd) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Fell Apart](https://open.spotify.com/album/6aUSwIj7mR3Z58gKG7rzHn) | 2:19 | 2023-01-17 | 2023-11-12 |
 | [Felt](https://open.spotify.com/track/4ZYMSm3o3AO9U2fUPfrU6f) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Cloth](https://open.spotify.com/album/1wjACzJBtfygdPfQbTAwQi) | 3:58 | 2023-06-27 |  |
-| [Find Home](https://open.spotify.com/track/4banQY1CyLUSeq3xF6kiJd) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Music for Living Spaces](https://open.spotify.com/album/121kVK7CLFqJ3i1kPcSmYm) | 3:13 | 2023-01-17 |  |
+| [Find Home](https://open.spotify.com/track/4banQY1CyLUSeq3xF6kiJd) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Music for Living Spaces](https://open.spotify.com/album/121kVK7CLFqJ3i1kPcSmYm) | 3:13 | 2023-01-17 | 2024-02-01 |
 | [Fire in Cairo](https://open.spotify.com/track/71Znjl8mUrHfSg38OQU8bb) | [Luna](https://open.spotify.com/artist/2AACqFGo8offvHCKGvrWxq) | [A Sentimental Education](https://open.spotify.com/album/4jviCKhoJB3Y2F3MA6vLoD) | 3:29 | 2023-01-17 | 2024-01-31 |
 | [Fireworks](https://open.spotify.com/track/3qJImzh896FdKl5mJfpFaC) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 4:14 | 2023-01-17 |  |
 | [Fisher Island Sound](https://open.spotify.com/track/3XHtGQBlfMHfKcXdTX7Mt0) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Artifacts](https://open.spotify.com/album/26G7PfSLTyLiIcITVl7GAK) | 2:44 | 2023-01-17 |  |

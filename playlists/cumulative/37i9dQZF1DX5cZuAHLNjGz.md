@@ -4,10 +4,11 @@
 
 > Ultimate 101 Punjabi Hits with Shubh
 
-298 songs - 15 hr 25 min
+299 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [.45](https://open.spotify.com/track/4mym4dNc5XPEAXP7Orzq18) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [.45](https://open.spotify.com/album/6vG52FnBHzc61469A3yiBs) | 2:40 | 2024-01-31 |  |
 | [100 Million](https://open.spotify.com/track/3EJslhR33350RLGMb6eOAg) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [100 Million](https://open.spotify.com/album/0DRD7GdJQNalHpKaLhM871) | 3:12 | 2024-01-18 |  |
 | [12 Bande](https://open.spotify.com/track/6dgYHmc5yBnQFI4FSCbp6y) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [12 Bande](https://open.spotify.com/album/77Yf6yctxLgelDYlLk9k1u) | 3:24 | 2022-12-10 |  |
 | [2 Kamm](https://open.spotify.com/track/7sWYLvZXs3XIl9eFKBFEp0) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura) | [2 Kamm](https://open.spotify.com/album/5ocXx8clrayri1HefLYhv0) | 2:26 | 2022-12-10 | 2023-01-19 |
@@ -114,7 +115,7 @@
 | [Here & There](https://open.spotify.com/track/1TLNrPm7U8V8kRF17SlsAe) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Bacthafu\*up](https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u) | 4:05 | 2022-05-29 | 2022-07-29 |
 | [Here & There](https://open.spotify.com/track/3PwXLluXDnmTTaUiG5NXOW) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [B.T.F.U](https://open.spotify.com/album/1qH7e7TaKxpHxu4mGxofDs) | 4:05 | 2022-07-28 | 2023-05-20 |
 | [Hood Famous](https://open.spotify.com/track/5iVYMQKl3OZi0ULxeKAkho) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Relentless](https://open.spotify.com/album/5RUFZa2yj47Co6rMWEJzwQ) | 2:56 | 2023-01-31 | 2023-05-20 |
-| [Hussan Illahi](https://open.spotify.com/track/3yIRuz28iurD1uJ2ND1R8S) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Back To Skool](https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG) | 2:20 | 2023-05-26 |  |
+| [Hussan Illahi](https://open.spotify.com/track/3yIRuz28iurD1uJ2ND1R8S) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Back To Skool](https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG) | 2:20 | 2023-05-26 | 2024-02-01 |
 | [Ice](https://open.spotify.com/track/5bnfUWFS4sVeWx1JLA3K9Z) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 | 2023-05-19 |  |
 | [Ilzaam](https://open.spotify.com/track/0orOI8nTid7fxPvWIx1tKP) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:07 | 2023-07-07 |  |
 | [Info](https://open.spotify.com/track/2txEM0LayfSv1AOB3M1Z8R) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Info](https://open.spotify.com/album/6VdOWF7fv6BBeR7ePttQ5M) | 3:20 | 2022-05-29 | 2022-11-09 |

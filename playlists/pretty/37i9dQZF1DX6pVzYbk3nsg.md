@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 
 > Los sonidos tradicionales de la Isla del Encanto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,955 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,965 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,16 +20,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 10 | [Medley De La Calle San Sebastian](https://open.spotify.com/track/2TuyfsOZ7hwxI2Hfv84MPz) | [Plena Libre](https://open.spotify.com/artist/7jZRvnCRPh2cJZ4DW5WrD9) | [Estamos Gozando](https://open.spotify.com/album/3U8wcmgDMXJeLGiu6ikRsZ) | 6:21 |
 | 11 | [El Conde De Loiza](https://open.spotify.com/track/6pxmZBFQntoPBGc7CV0Nxv) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:15 |
 | 12 | [Mamá, cuídame a Belén](https://open.spotify.com/track/6xCD7qeWUZU21W6FkpqOJV) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:11 |
-| 13 | [Candela](https://open.spotify.com/track/7MSYsu14IUjgJ555rKPoTv) | [Zona de Bomba](https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm) | [Zona de Bomba](https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw) | 2:43 |
+| 13 | [Bámbula](https://open.spotify.com/track/4BAc85WLOWaIczCy3xT6HP) | [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO) | [Otro Formato de Música](https://open.spotify.com/album/28rqtvA0NaHV51I81DIsvD) | 4:56 |
 | 14 | [Soy Plenero Soy](https://open.spotify.com/track/772ixwOJU2N1x4IMJBxnIa) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/0F2xRnz22VLCLXbUevZtaX) | 3:59 |
 | 15 | [El Conde De Loiza](https://open.spotify.com/track/5Pt8ozofQZg1dVdLSvWO4R) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 2:15 |
-| 16 | [Bámbula](https://open.spotify.com/track/4BAc85WLOWaIczCy3xT6HP) | [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO) | [Otro Formato de Música](https://open.spotify.com/album/28rqtvA0NaHV51I81DIsvD) | 4:56 |
+| 16 | [Candela](https://open.spotify.com/track/7MSYsu14IUjgJ555rKPoTv) | [Zona de Bomba](https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm) | [Zona de Bomba](https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw) | 2:43 |
 | 17 | [Plenazo Callejero 2](https://open.spotify.com/track/5WIC5dyHF3rJwsa2UhdElr) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [Distinto Y Diferente](https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W) | 7:31 |
 | 18 | [El Tumbe](https://open.spotify.com/track/0sq6x0JCaqJylE0yGQXCoH) | [Plena Combativa](https://open.spotify.com/artist/3JBCcEZu6NeT0CxMAiBG4d) | [Plena Combativa](https://open.spotify.com/album/0hueG0Ly9bLV4qkJQ43iuD) | 4:59 |
 | 19 | [Rule Sonda](https://open.spotify.com/track/5VcZnqmPU8KetpEi0ypoH3) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:05 |
 | 20 | [El Galo Canta](https://open.spotify.com/track/6hEwsZGS0656EENLI1LTU5) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 4:30 |
-| 21 | [Bomba y Plena](https://open.spotify.com/track/2yyFQflmCZXog3ZDJ33hNc) | [Zona de Bomba](https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm) | [Zona de Bomba](https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw) | 3:56 |
-| 22 | [Inyere](https://open.spotify.com/track/09WBf9td049VNUcah8Xgbe) | [Yuba Ire](https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr) | [¡Ya está! ¡Se formó!](https://open.spotify.com/album/0smxpFHmwxzz9hWmn0yvTR) | 3:09 |
+| 21 | [Inyere](https://open.spotify.com/track/09WBf9td049VNUcah8Xgbe) | [Yuba Ire](https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr) | [¡Ya está! ¡Se formó!](https://open.spotify.com/album/0smxpFHmwxzz9hWmn0yvTR) | 3:09 |
+| 22 | [Bomba y Plena](https://open.spotify.com/track/2yyFQflmCZXog3ZDJ33hNc) | [Zona de Bomba](https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm) | [Zona de Bomba](https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw) | 3:56 |
 | 23 | [Yerba Bruja](https://open.spotify.com/track/5FssMqu4T5DOip6W4kdUWS) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/0F2xRnz22VLCLXbUevZtaX) | 4:17 |
 | 24 | [Bomba para Afincar](https://open.spotify.com/track/3QyIqnidIGIQYUatcIZ7Or) | [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO) | [Otro Formato de Música](https://open.spotify.com/album/28rqtvA0NaHV51I81DIsvD) | 3:34 |
 | 25 | [Bombero Eh](https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 49 | [Candela \(Seis Corrido\) \[Live\]](https://open.spotify.com/track/1WQayDc6Nia3dIBRJ4qINW) | [Buya](https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna) | [Buya \(Live\)](https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq) | 3:12 |
 | 50 | [Si te preguntaran](https://open.spotify.com/track/4NbNwSJakq5ArlNsQwdqZQ) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:45 |
 
-Snapshot ID: `MCxmNWFiMTk2MTQ3NzJkMGY3MTRiNjlkZmQyZTRiODUzMDM0OTVkMWU4`
+Snapshot ID: `MCxlYmIzYTVhOTViZWMzYTgxODAzZGE5M2M0NmQyZTJmNDg4ODAxZGYz`

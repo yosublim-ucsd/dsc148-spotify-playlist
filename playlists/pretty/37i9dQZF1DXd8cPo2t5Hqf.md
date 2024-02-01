@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 
 > Enjoy 10 years of music from HATSUNE MIKU "Project DIVA" series/ 初音ミク"Project DIVA"シリーズをひとつのプレイリストに。 © SEGA / © Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,556 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,671 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 28 | [Yumeyume](https://open.spotify.com/track/3pndrtylrcdsJkFhY5eqTX) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [DECO\*27 VOCALOID COLLECTION 2008\~2012](https://open.spotify.com/album/4iIqFpozjKLiWzHCtNsDY3) | 3:36 |
 | 29 | [裏表ラバーズ \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/2IB3U5cktSu6ERw7nVIEzO) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:34 |
 | 30 | [初音ミクの消失 \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/5pgVqrcW9CkzDE0ToQmnI3) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:19 |
-| 31 | [Nyanyanyanyanyanyanya!](https://open.spotify.com/track/12dIZe3xCPeetNkdovFxxk) | [daniwellP](https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe) | [Nyanyanyanyanyanyanya!](https://open.spotify.com/album/7JRhwPHdxrzyRuKfGVlR51) | 3:46 |
+| 31 | [Just Be Friends](https://open.spotify.com/track/7qdIR2jTfgOvsQSWHPjjIJ) | [Dixie Flatline](https://open.spotify.com/artist/4MHlylTNjedvcP4Hyroy80) | [Just Be Friends](https://open.spotify.com/album/7at2OSOEKvg5sUdnRFS2Sv) | 5:01 |
 | 32 | [Negaposi\*Continues](https://open.spotify.com/track/3cSNJSsLzGC5J5xlpl96Hj) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [The Fantastic Diagram of Futuristic Playdreams](https://open.spotify.com/album/5LNJMGII3AZ67FeTJzZfQa) | 3:07 |
-| 33 | [Just Be Friends](https://open.spotify.com/track/7qdIR2jTfgOvsQSWHPjjIJ) | [Dixie Flatline](https://open.spotify.com/artist/4MHlylTNjedvcP4Hyroy80) | [Just Be Friends](https://open.spotify.com/album/7at2OSOEKvg5sUdnRFS2Sv) | 5:01 |
+| 33 | [Nyanyanyanyanyanyanya!](https://open.spotify.com/track/12dIZe3xCPeetNkdovFxxk) | [daniwellP](https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe) | [Nyanyanyanyanyanyanya!](https://open.spotify.com/album/7JRhwPHdxrzyRuKfGVlR51) | 3:46 |
 | 34 | [からくりピエロ \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/0f6Z1Kbo3PzA1sTtoaBbqK) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:15 |
 | 35 | [DECORATOR](https://open.spotify.com/track/68cGngZvXl6qKGLH3joVpZ) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [DECORATOR EP](https://open.spotify.com/album/5LkJe8cxJuHd0akGg5SaTV) | 3:25 |
 | 36 | [FREELY TOMORROW](https://open.spotify.com/track/2JgyM0s5hTINiVaqJNMkVq) | [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [グレイテスト・アイドル](https://open.spotify.com/album/0Pj2RT0PsvryvBrC8B0tS4) | 4:00 |
@@ -83,13 +83,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 73 | [SPiCa](https://open.spotify.com/track/0zRJAU4bV3GYa5CVxAKokG) | [tokuP](https://open.spotify.com/artist/4hSzJm2YTXFH8VRgPX2IkU) | [SPiCa](https://open.spotify.com/album/7CoAfW1ZHIfjN4RHdVcrxm) | 3:39 |
 | 74 | [Hello, Planet](https://open.spotify.com/track/4HV2zdfNV6hxc9f97jtDh5) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [Do Vocaloids Dream of Doomsday Bird?](https://open.spotify.com/album/1olwRiTXgJqGJL5ASMLJaP) | 5:01 |
 | 75 | [メテオ](https://open.spotify.com/track/0kvl0X7t4s9bh4U1Cczx5s) | [John Zeroness](https://open.spotify.com/artist/1mDPqAhutuBAYXTlH0hEMg) | [メテオ](https://open.spotify.com/album/14CNuo5mSe1uMav9NMVzmr) | 8:36 |
-| 76 | [アドレサンス](https://open.spotify.com/track/0ckDfdfwk3CRAtWN2bRSze) | [Dios/signalP](https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1) | [ReRections](https://open.spotify.com/album/55df1Sydx1sZxEbLQY2G1t) | 4:37 |
-| 77 | [WORLD'S END UMBRELLA \- ORIGINAL](https://open.spotify.com/track/4WnNJCPzJYzOvM8gLdFcs9) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [花束と水葬](https://open.spotify.com/album/28uForAlijhQ8ISFZOZfFw) | 5:28 |
+| 76 | [WORLD'S END UMBRELLA \- ORIGINAL](https://open.spotify.com/track/4WnNJCPzJYzOvM8gLdFcs9) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [花束と水葬](https://open.spotify.com/album/28uForAlijhQ8ISFZOZfFw) | 5:28 |
+| 77 | [アドレサンス](https://open.spotify.com/track/0ckDfdfwk3CRAtWN2bRSze) | [Dios/signalP](https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1) | [ReRections](https://open.spotify.com/album/55df1Sydx1sZxEbLQY2G1t) | 4:37 |
 | 78 | [深海シティアンダーグラウンド](https://open.spotify.com/track/0ErUwH3IBAKt1612x1vixS) | [tanaka B](https://open.spotify.com/artist/2MR6ONgJ014Kr3X5VUOPyO) | [深海シティアンダーグラウンド](https://open.spotify.com/album/3wax4DbbZb6N4SfK9dgSkc) | 4:37 |
 | 79 | [Ai Kotoba](https://open.spotify.com/track/5w8RYioPTG1IARJ35ka1MM) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [Sou Ai Sei Ri Ron](https://open.spotify.com/album/3sWLH9nyphF2oJqTTeE6GT) | 4:24 |
 | 80 | [erase or zero](https://open.spotify.com/track/396tVnKqmG32TeMtSBvUS2) | [HzEdge\(crystal P\)](https://open.spotify.com/artist/0idqlrYbdTP772SjNOX18T) | [crystaL](https://open.spotify.com/album/5KbkciUfwXhdcicglLMQDu) | 3:50 |
-| 81 | [スキキライ](https://open.spotify.com/track/43571bfzMoPeXhUCVWayue) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 4:45 |
-| 82 | [shake it! \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/6qWYz8lpmQfqAbdrVWcd2G) | [Emon](https://open.spotify.com/artist/3eISwXCy8xsH790miZ2t3j) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:45 |
+| 81 | [shake it! \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/6qWYz8lpmQfqAbdrVWcd2G) | [Emon](https://open.spotify.com/artist/3eISwXCy8xsH790miZ2t3j) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:45 |
+| 82 | [スキキライ](https://open.spotify.com/track/43571bfzMoPeXhUCVWayue) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 4:45 |
 | 83 | [Last Night, Good Night](https://open.spotify.com/track/3rYSsIpkwI11kkBhAYvDSO) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Re:Package](https://open.spotify.com/album/6r0fa0rS05G0y0IQqYXxIu) | 6:20 |
 | 84 | [紅一葉](https://open.spotify.com/track/1rnEmMcOAdQckPj3mRDkmH) | [KuroUsa](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [紅一葉](https://open.spotify.com/album/5iUqJLkuT2hV1xcWswJi7d) | 4:12 |
 | 85 | [ねこみみスイッチ](https://open.spotify.com/track/53FFoxXnk2eWxvSiywyVFw) | [daniwellP](https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe) | [Neko seT](https://open.spotify.com/album/4ukngdwnH2UhFiCLi42c2y) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 99 | [Lol \(Lots of Laugh\)](https://open.spotify.com/track/2sigTDjOwoSnwJ9PAXOgwj) | [Mikumix](https://open.spotify.com/artist/7FBbBNwWOBvGBh4RT3kyHH) | [Lots of Love \(feat\. 初音ミク\)](https://open.spotify.com/album/3ZhfLBpwToW4bUQP28LCUn) | 3:35 |
 | 100 | [1/6 \-out of the gravity\- \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/7aO5JsjJXsmVbmCqrrPZgS) | [vocaliod\-P\(noa\)](https://open.spotify.com/artist/7sSRpSgATx1LST4S5zy7Ca) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:20 |
 
-Snapshot ID: `MCxlZTFhM2Y5YmY0YTRiMTUxYzBjMTM3NWY4ODRkY2QwNWJmMTU1NGQ5`
+Snapshot ID: `MCwwN2ViZWFmZjJmNDViNWU3YzU4NTk4ZWE5ZTkxYWVjMWNmMTU3NTJk`

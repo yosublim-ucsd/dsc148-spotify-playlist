@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Skepta
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,349,499 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,349,633 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 69 | [Police](https://open.spotify.com/track/2EYhnG7o3vlTqo1Cy2D1iz) | [Yung Fume](https://open.spotify.com/artist/1h5mZb0u9bcFGeViohj87o) | [The Fumiverse](https://open.spotify.com/album/7wCYWIwsCKoxtB4bsVZiwx) | 3:05 |
 | 70 | [We Made It](https://open.spotify.com/track/5vuMXy5DUyOY5kOvaiOrN1) | [Maino](https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [We Made It](https://open.spotify.com/album/73ssqyLwb9cht2Y4GaOY11) | 3:06 |
 
-Snapshot ID: `MCwzMDk1NzJmMzBhNmQ0YzM3NzBjMmI4ZTEyOGM2MTEwNTMzMTRmNWNm`
+Snapshot ID: `MCw4ZjkxYjM4Y2VlMDU1ZWNlMmZlNTBiZDQxYzkzMzExNjEyN2MxNmU3`

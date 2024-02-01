@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,097 likes - 125 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,160 likes - 125 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,11 +106,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 96 | [One \(Your Name\) \- Radio Edit](https://open.spotify.com/track/6iznpTNBnljkbP0WtAfn50) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [One \(Your Name\)](https://open.spotify.com/album/5aLY2ivPGXvFX770ihBnmd) | 2:43 |
 | 97 | [Raise Your Weapon](https://open.spotify.com/track/7E1b1A3lGsw4ElaeUmDOJn) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Greta Svabo Bech](https://open.spotify.com/artist/3roqeGESPvLgyx6ZmHQTXY) | [5 Years of mau5](https://open.spotify.com/album/0PManGPRcHlL7fZBoQStK2) | 8:22 |
 | 98 | [How You Love Me](https://open.spotify.com/track/1nas007nDbzLwDGwvMdz79) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Bright Lights](https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou) | [How You Love Me](https://open.spotify.com/album/0IsgaoqRfJAJ6wojxWDZ7C) | 3:30 |
-| 99 | [When A Fire Starts To Burn](https://open.spotify.com/track/7qVLZuvzNjyiy3TVtEBwBE) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:44 |
-| 100 | [Revolution \(feat\. Faustix & Imanos and Kai\)](https://open.spotify.com/track/7aaeZpSr54XQKSwMYO5JeH) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Random White Dude Be Everywhere](https://open.spotify.com/album/4c7lxBZCbR8SQsoVvO2lCb) | 4:23 |
-| 101 | [Off The Hook](https://open.spotify.com/track/6jmTQwFzejCurofZDz7x9k) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Off The Hook](https://open.spotify.com/album/4xFL1dccvsB3Hc5OqB7LmW) | 2:57 |
+| 99 | [Revolution \(feat\. Faustix & Imanos and Kai\)](https://open.spotify.com/track/7aaeZpSr54XQKSwMYO5JeH) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Random White Dude Be Everywhere](https://open.spotify.com/album/4c7lxBZCbR8SQsoVvO2lCb) | 4:23 |
+| 100 | [When A Fire Starts To Burn](https://open.spotify.com/track/7qVLZuvzNjyiy3TVtEBwBE) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:44 |
+| 101 | [Leaving You](https://open.spotify.com/track/22qUyTlEvJf6DAlyQjMADe) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [M.BRONX](https://open.spotify.com/artist/3jbqK4VihAncvAJWgcidZG) | [Leaving You](https://open.spotify.com/album/1QkRNSPk2pDxzILcU14yBG) | 3:32 |
 | 102 | [Gold \(feat\. Yuna\)](https://open.spotify.com/track/31cX56mMJcLXaTJljNxsu7) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Calling All Heroes](https://open.spotify.com/album/3Wi7Mwc31hrN7WZCxKM9Ke) | 4:17 |
-| 103 | [Leaving You](https://open.spotify.com/track/22qUyTlEvJf6DAlyQjMADe) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [M.BRONX](https://open.spotify.com/artist/3jbqK4VihAncvAJWgcidZG) | [Leaving You](https://open.spotify.com/album/1QkRNSPk2pDxzILcU14yBG) | 3:32 |
+| 103 | [Off The Hook](https://open.spotify.com/track/6jmTQwFzejCurofZDz7x9k) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Off The Hook](https://open.spotify.com/album/4xFL1dccvsB3Hc5OqB7LmW) | 2:57 |
 | 104 | [Beam Me Up \- Radio Edit](https://open.spotify.com/track/64y85LeHY8Z6OlTOM9cpKD) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS) | [Eject](https://open.spotify.com/album/5cYW3ILGflf28W2vkkCvgs) | 3:23 |
 | 105 | [Bass Cannon](https://open.spotify.com/track/4u3a1nylBxY8siO7Os4t22) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Bass Cannon](https://open.spotify.com/album/2cmBRFSeVDZVTSPyQG9AoF) | 5:09 |
 | 106 | [Turbulence \- Radio Edit](https://open.spotify.com/track/1QHGUbaQ6nYmVom7Kykge3) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Turbulence](https://open.spotify.com/album/3rdGp0Ba0xlLylMECnr4rS) | 3:48 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 124 | [Illmerica](https://open.spotify.com/track/4XXdQctUlL1FOmHBbdLkIp) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Weekend In America](https://open.spotify.com/album/2nwLEAdZJCiAbCWMKVcbe7) | 5:37 |
 | 125 | [Go Bang](https://open.spotify.com/track/15Xt2CmLqrLJ0uBlDEEimX) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Go Bang](https://open.spotify.com/album/2Lo0bnJPGE0rS3vuq6PjSD) | 3:09 |
 
-Snapshot ID: `MCxkYzk0ZTNlZDZjYTY5YjkyZTc0ZjczZDg4NDBlZDFiYzlmOWFiNTc2`
+Snapshot ID: `MCw3NzdhNDFiYTc0MmQwMTkyZmQ3OWYyMTE1NTA2OTU4NTc0YWVlMGJi`

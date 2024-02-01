@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 
 > This is El Tri\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,934 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,965 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 | 49 | [Niño sin amor \- Live](https://open.spotify.com/track/0BiGmkT2G6B1L35BTnnDQc) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [MTV Unplugged](https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE) | 5:36 |
 | 50 | [No hay pedo](https://open.spotify.com/track/3QmdK0SjnJLCXno7J3nzTO) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Fin de siglo](https://open.spotify.com/album/3IM9oL8HMiQ3DzL0YKqKSD) | 2:31 |
 
-Snapshot ID: `Mjg0NDM2MzksMDAwMDAwMDA5ODU0MmI0NzE1YmJlMTM2MjA2ZTg3NWQ2NjgzOTZiYQ==`
+Snapshot ID: `Mjg0NDUwNTQsMDAwMDAwMDA2OGMzY2I1NWZkNjFkZDIzODVhNmRmYTAwMDQzMmZhZg==`

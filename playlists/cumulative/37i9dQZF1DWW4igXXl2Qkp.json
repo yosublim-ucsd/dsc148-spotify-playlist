@@ -1223,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "McFly",
+        "url": "https://open.spotify.com/album/0XJmiZcpd4c5zUmgrJYvmQ"
+      },
+      "artists": [
+        {
+          "name": "Futurewave",
+          "url": "https://open.spotify.com/artist/4i9PacC5mAjVi8DzWcpmxz"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104687,
+      "name": "Another Exciting Adventure",
+      "url": "https://open.spotify.com/track/0BgCT9RhDcgIFHk3EhkEwx"
+    },
+    {
+      "album": {
         "name": "ANYCIA",
         "url": "https://open.spotify.com/album/6okuA3J3nELszcvyGYJxC9"
       },
@@ -4171,6 +4189,24 @@
     },
     {
       "album": {
+        "name": "Orda.",
+        "url": "https://open.spotify.com/album/2A8GfdnvC4FmECcGIfwZ64"
+      },
+      "artists": [
+        {
+          "name": "Namani",
+          "url": "https://open.spotify.com/artist/6AVWyEvyKJJwQjDHU8Eqaj"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194805,
+      "name": "Cru",
+      "url": "https://open.spotify.com/track/1TLAsyzgnb7la3SkWOMmiG"
+    },
+    {
+      "album": {
         "name": "BLACK WALL STREET",
         "url": "https://open.spotify.com/album/0hNK1V7xzigl41liZTk4XU"
       },
@@ -5195,6 +5231,28 @@
     },
     {
       "album": {
+        "name": "Door Dash",
+        "url": "https://open.spotify.com/album/0BYj8oqEiJqKoYneDJmUbh"
+      },
+      "artists": [
+        {
+          "name": "GMF Fatboy",
+          "url": "https://open.spotify.com/artist/7B8T3S0UZQCAwqqFOQYOrM"
+        },
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Door Dash",
+      "url": "https://open.spotify.com/track/14NjvajwODFtcJXpkylDlK"
+    },
+    {
+      "album": {
         "name": "Down",
         "url": "https://open.spotify.com/album/2lAQg7KKgCMXFOJr18bPIh"
       },
@@ -5754,6 +5812,28 @@
       "duration_ms": 116470,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/50xNbQVtCz0GY10WBlc45l"
+    },
+    {
+      "album": {
+        "name": "EVERYBODY TAKING",
+        "url": "https://open.spotify.com/album/6z68xcn5tbWUeMQIfAT68k"
+      },
+      "artists": [
+        {
+          "name": "Caal Vo",
+          "url": "https://open.spotify.com/artist/4pmLIukbwngJ18fxeI3HLx"
+        },
+        {
+          "name": "Binkboys",
+          "url": "https://open.spotify.com/artist/3i2LbkDFjwmJFAftrFauXI"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144657,
+      "name": "EVERYBODY TAKING",
+      "url": "https://open.spotify.com/track/4kPyzUVrLYwPdindeSOOse"
     },
     {
       "album": {
@@ -6361,6 +6441,24 @@
     },
     {
       "album": {
+        "name": "BRUNETTE",
+        "url": "https://open.spotify.com/album/1lZSkt24W0uYaL1uHn8E7D"
+      },
+      "artists": [
+        {
+          "name": "Biking With Francis",
+          "url": "https://open.spotify.com/artist/07F5Y7TLkmvth3M1bXyVIi"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184620,
+      "name": "FLOAT",
+      "url": "https://open.spotify.com/track/3jPt1XDNNZjvLlTTQtXCnE"
+    },
+    {
+      "album": {
         "name": "FLOWERS",
         "url": "https://open.spotify.com/album/7qwlKXw58FZK4SuVvGeHWm"
       },
@@ -6392,6 +6490,24 @@
       "duration_ms": 214017,
       "name": "FLOWERS",
       "url": "https://open.spotify.com/track/2LRyHmhUWF9fBcvX07d0SY"
+    },
+    {
+      "album": {
+        "name": "FLU GAME",
+        "url": "https://open.spotify.com/album/5YZyhuui2Cd6fQRKlZ1feY"
+      },
+      "artists": [
+        {
+          "name": "Rome HSB",
+          "url": "https://open.spotify.com/artist/5cJixE9JvtFOwilPT0Soro"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130403,
+      "name": "FLU GAME",
+      "url": "https://open.spotify.com/track/3M9RsAQWcVAR8UN6FYFDD1"
     },
     {
       "album": {
@@ -8796,7 +8912,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 231090,
       "name": "jersey luv",
       "url": "https://open.spotify.com/track/50kWigrg0O9DFUzzbgJMZO"
@@ -11934,7 +12050,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 100122,
       "name": "Na Na Na",
       "url": "https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N"
@@ -14122,6 +14238,28 @@
       "duration_ms": 164746,
       "name": "Rap Niggas",
       "url": "https://open.spotify.com/track/4LutKtVnLcOiZHO3SWaYZr"
+    },
+    {
+      "album": {
+        "name": "CYCLEBREAKER",
+        "url": "https://open.spotify.com/album/1MMtCurSQD7Y40aIowGWum"
+      },
+      "artists": [
+        {
+          "name": "klwn cat",
+          "url": "https://open.spotify.com/artist/7GirYFMX5YRAyglHNq0odD"
+        },
+        {
+          "name": "tau",
+          "url": "https://open.spotify.com/artist/0GsrRbr8atYjWLBELcVSus"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124947,
+      "name": "Ray Cast",
+      "url": "https://open.spotify.com/track/6fS2yJFvDHUansld0Un2qD"
     },
     {
       "album": {
@@ -17177,6 +17315,24 @@
     },
     {
       "album": {
+        "name": "THE LIGHT",
+        "url": "https://open.spotify.com/album/4zYRoOlbbGsVmhvNzSSjxd"
+      },
+      "artists": [
+        {
+          "name": "LANDEL",
+          "url": "https://open.spotify.com/artist/6tvOxTM1eMfN1Cbpunm5Yp"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192004,
+      "name": "THE LIGHT",
+      "url": "https://open.spotify.com/track/1Juvhc9cSve7gugQVY6KXL"
+    },
+    {
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/0vdxQXOTw5nxaSZxad64jY"
       },
@@ -18037,6 +18193,24 @@
     },
     {
       "album": {
+        "name": "trymemr",
+        "url": "https://open.spotify.com/album/6cdrLjBBbYZXXbZNRiBaxy"
+      },
+      "artists": [
+        {
+          "name": "demahjiae",
+          "url": "https://open.spotify.com/artist/0BajT9ZXitGajSuc16Rass"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "trymemr",
+      "url": "https://open.spotify.com/track/0vLCG8bUpjKrXkZcsHW2rO"
+    },
+    {
+      "album": {
         "name": "Without Hesitation",
         "url": "https://open.spotify.com/album/1s58HQjiD6rGtErrNrJCVI"
       },
@@ -18642,7 +18816,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 144961,
       "name": "Wassup Gway",
       "url": "https://open.spotify.com/track/0CtuA9sDnOAU3NM8bHIMyu"

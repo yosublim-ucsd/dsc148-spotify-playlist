@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Goth Babe",
-  "num_followers": 1688288,
+  "num_followers": 1688248,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDZlYjFjMDAxODQzYzFmOGY0NWQ3NTU1M2I2ZjQwYzQwYzYxODVh",
+  "snapshot_id": "MCw5ZTU0MmYzNzA2MmIwZDZiZjFlMGQ1NzZhNGRiOTJmNThiNGQwMzdh",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-01-05 19:31:17",
       "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 190933,
-      "name": "Designer",
-      "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
-    },
-    {
-      "added_at": "2024-01-05 19:31:17",
-      "album": {
         "name": "Hot in NY",
         "url": "https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 118787,
       "name": "Hot in NY",
       "url": "https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm"
+    },
+    {
+      "added_at": "2024-01-05 19:31:17",
+      "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 190933,
+      "name": "Designer",
+      "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
     },
     {
       "added_at": "2024-01-05 19:31:17",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-01-05 19:31:17",
       "album": {
-        "name": "HATELOVE",
-        "url": "https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R"
-      },
-      "artists": [
-        {
-          "name": "Alex Porat",
-          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
-        }
-      ],
-      "duration_ms": 171925,
-      "name": "HATELOVE",
-      "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
-    },
-    {
-      "added_at": "2024-01-05 19:31:17",
-      "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 270314,
       "name": "Metamorphosis",
       "url": "https://open.spotify.com/track/205Dyp6IqtOcYRX72QvbB7"
+    },
+    {
+      "added_at": "2024-01-05 19:31:17",
+      "album": {
+        "name": "HATELOVE",
+        "url": "https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R"
+      },
+      "artists": [
+        {
+          "name": "Alex Porat",
+          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
+        }
+      ],
+      "duration_ms": 171925,
+      "name": "HATELOVE",
+      "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
     },
     {
       "added_at": "2024-01-05 19:31:17",
@@ -1041,6 +1041,26 @@
       "url": "https://open.spotify.com/track/3LpatCGL0WM7na3JWk1NlY"
     },
     {
+      "added_at": "2024-01-29 15:38:21",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/1ZsgV2rrIt0wXzWfaJnMI1"
+      },
+      "artists": [
+        {
+          "name": "Bullion",
+          "url": "https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj"
+        },
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Rare",
+      "url": "https://open.spotify.com/track/41qpL4RAfuPkkQ4bbf7gSu"
+    },
+    {
       "added_at": "2024-01-05 19:31:17",
       "album": {
         "name": "Paint My Bedroom Black",
@@ -1089,26 +1109,6 @@
       "url": "https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI"
     },
     {
-      "added_at": "2024-01-29 15:38:21",
-      "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/1ZsgV2rrIt0wXzWfaJnMI1"
-      },
-      "artists": [
-        {
-          "name": "Bullion",
-          "url": "https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj"
-        },
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Rare",
-      "url": "https://open.spotify.com/track/41qpL4RAfuPkkQ4bbf7gSu"
-    },
-    {
       "added_at": "2024-01-05 19:31:17",
       "album": {
         "name": "I Love My Girl, She's My Boy",
@@ -1123,6 +1123,22 @@
       "duration_ms": 173800,
       "name": "Self destruct",
       "url": "https://open.spotify.com/track/2ROJw0Y9Ypl79RYsYuqT3w"
+    },
+    {
+      "added_at": "2024-01-05 19:31:17",
+      "album": {
+        "name": "Drain Me!",
+        "url": "https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "duration_ms": 121533,
+      "name": "Drain Me!",
+      "url": "https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL"
     },
     {
       "added_at": "2024-01-05 19:31:17",
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2024-01-05 19:31:17",
       "album": {
-        "name": "Drain Me!",
-        "url": "https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW"
-      },
-      "artists": [
-        {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
-        }
-      ],
-      "duration_ms": 121533,
-      "name": "Drain Me!",
-      "url": "https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL"
-    },
-    {
-      "added_at": "2024-01-05 19:31:17",
-      "album": {
         "name": "We Can Be Anything",
         "url": "https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-01-05 19:31:17",
       "album": {
-        "name": "Into Your Room",
-        "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 209787,
-      "name": "Into Your Room",
-      "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
-    },
-    {
-      "added_at": "2024-01-05 19:31:17",
-      "album": {
         "name": "i wanna be your right hand",
         "url": "https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 148533,
       "name": "i wanna be your right hand",
       "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
+    },
+    {
+      "added_at": "2024-01-05 19:31:17",
+      "album": {
+        "name": "Into Your Room",
+        "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 209787,
+      "name": "Into Your Room",
+      "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
     },
     {
       "added_at": "2024-01-05 19:31:17",
@@ -1329,6 +1329,38 @@
       "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
     },
     {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Fred Perry Girl",
+        "url": "https://open.spotify.com/album/29s0Za6wwubjxwHh0PSI4d"
+      },
+      "artists": [
+        {
+          "name": "Andy Goodwin",
+          "url": "https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB"
+        }
+      ],
+      "duration_ms": 179750,
+      "name": "Fred Perry Girl",
+      "url": "https://open.spotify.com/track/3lcGMZrsd3fqWjcX8Nmkog"
+    },
+    {
+      "added_at": "2024-01-05 19:31:17",
+      "album": {
+        "name": "I had a beautiful time, now I have to leave",
+        "url": "https://open.spotify.com/album/6uQgWP0yooJzPcr2bYYmrN"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 149830,
+      "name": "Whatever Comes My Way",
+      "url": "https://open.spotify.com/track/5VjVqlPfslXPqORPGk5HlH"
+    },
+    {
       "added_at": "2024-01-05 19:31:17",
       "album": {
         "name": "Backwards",
@@ -1351,22 +1383,6 @@
     {
       "added_at": "2024-01-05 19:31:17",
       "album": {
-        "name": "I had a beautiful time, now I have to leave",
-        "url": "https://open.spotify.com/album/6uQgWP0yooJzPcr2bYYmrN"
-      },
-      "artists": [
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 149830,
-      "name": "Whatever Comes My Way",
-      "url": "https://open.spotify.com/track/5VjVqlPfslXPqORPGk5HlH"
-    },
-    {
-      "added_at": "2024-01-05 19:31:17",
-      "album": {
         "name": "James Dean",
         "url": "https://open.spotify.com/album/61YMV5YCWzd4FmQAeBmraP"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 266400,
       "name": "James Dean",
       "url": "https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Fred Perry Girl",
-        "url": "https://open.spotify.com/album/29s0Za6wwubjxwHh0PSI4d"
-      },
-      "artists": [
-        {
-          "name": "Andy Goodwin",
-          "url": "https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB"
-        }
-      ],
-      "duration_ms": 179750,
-      "name": "Fred Perry Girl",
-      "url": "https://open.spotify.com/track/3lcGMZrsd3fqWjcX8Nmkog"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-01-05 19:31:17",
       "album": {
-        "name": "Jardin",
-        "url": "https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky"
-      },
-      "artists": [
-        {
-          "name": "MUNYA",
-          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
-        }
-      ],
-      "duration_ms": 210306,
-      "name": "Un Deux Trois",
-      "url": "https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe"
-    },
-    {
-      "added_at": "2024-01-05 19:31:17",
-      "album": {
         "name": "living in the 90s",
         "url": "https://open.spotify.com/album/0bGxn1bHAb5ivzLyK9OjpD"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 191213,
       "name": "living in the 90s",
       "url": "https://open.spotify.com/track/1tc5LvUV85Pcc5zxaZUjER"
+    },
+    {
+      "added_at": "2024-01-05 19:31:17",
+      "album": {
+        "name": "Jardin",
+        "url": "https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky"
+      },
+      "artists": [
+        {
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+        }
+      ],
+      "duration_ms": 210306,
+      "name": "Un Deux Trois",
+      "url": "https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe"
     },
     {
       "added_at": "2024-01-05 19:31:17",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2024-01-05 19:31:17",
       "album": {
-        "name": "Pollen",
-        "url": "https://open.spotify.com/album/4Fk0oNk3vdmFjuTlpmKIQU"
+        "name": "Drop Cherries",
+        "url": "https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL"
       },
       "artists": [
         {
-          "name": "Tennis",
-          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 254133,
-      "name": "Let's Make a Mistake Tonight",
-      "url": "https://open.spotify.com/track/00wi8vEbJgzq62wfz1UMkX"
+      "duration_ms": 206427,
+      "name": "I Can't Get My Head Around You",
+      "url": "https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts"
     }
   ],
   "unique_name": "Indie Pop",

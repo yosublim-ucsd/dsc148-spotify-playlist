@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Changmo\(창모\)\) \(가장 핫한 최신 국내 힙합 음악을 만나보세요!\)
 
-1,086 songs - 2 day 11 hr 41 min
+1,087 songs - 2 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [I AM \(feat\. PALOALTO\)](https://open.spotify.com/track/1iPSMuKBFoKwtXDCT3tyHf) | [Untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8), [Paloalto](https://open.spotify.com/artist/5pvgbizg8R3nhrmefYQu2A) | [HUMAN, the album](https://open.spotify.com/album/1QcboLvSvaTm6f8kjT6d21) | 3:00 | 2022-11-07 | 2022-11-17 |
 | [I BE LIKE \(Feat\. SOLE\)](https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [UNSTEADY](https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz) | 3:04 | 2023-03-27 | 2023-07-19 |
 | [I can do it too! \(feat\. Don Mills\)](https://open.spotify.com/track/5bAHegvxvk1w2MDI0fxEpa) | [HWANG JI SANG](https://open.spotify.com/artist/3dQdwIvG10kKFroCxUjcp8), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [I can do it too! \(feat\. Don Mills\)](https://open.spotify.com/album/3Jvm7AGzDclwJDo8W9WeQ3) | 2:48 | 2022-03-03 | 2022-07-06 |
+| [I can’t be cool \(with Leellamarz\)](https://open.spotify.com/track/1GnC5Vv0iJ3eTnsWtMFG4X) | [BOYCOLD](https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22) | [Sick of Love](https://open.spotify.com/album/3G1eFv8dHnjuXXTT1sMqIs) | 2:54 | 2024-01-31 |  |
 | [I Don't Love You \(Feat\. Coogie\)](https://open.spotify.com/track/3U7bYD9n4QP0P3LITLgLkc) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [I Don't Love You](https://open.spotify.com/album/1WHtJ18aMLsWdxak99t7Bh) | 3:17 | 2021-12-18 | 2022-07-08 |
 | [I Feel It So Close \(Feat\. VEKOEL\)](https://open.spotify.com/track/5ViNfkZnAbHKUv1uD7aCJ2) | [V1VA](https://open.spotify.com/artist/04rkE835YxRm7UtD4ksItR), [VEKOEL](https://open.spotify.com/artist/6c1sIisEY5HNqkjgEhgbEo) | [I Feel It So Close](https://open.spotify.com/album/34w34asHyQFbCZJqyD492S) | 2:18 | 2023-02-28 | 2023-04-19 |
 | [I Know \(feat\. Rakon\)](https://open.spotify.com/track/6WdU3dMaD7OUPLjbNeQHB7) | [RAUDI](https://open.spotify.com/artist/1Tf52Yc65Ghgb3DDBRBL1K), [Rakon](https://open.spotify.com/artist/2RLCgVKRIUWY5Dz5azW6Tk) | [HOMESICK](https://open.spotify.com/album/1N9N45rliehKL52ZGAdFZm) | 2:12 | 2022-02-17 | 2022-04-21 |

@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-220 songs - 13 hr 30 min
+221 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Be for Me](https://open.spotify.com/track/5QNR5H81d2G2BZk4uDdaR7) | [Diunna Greenleaf](https://open.spotify.com/artist/22laryZFr71CbB5WtXIMzb) | [Trying to Hold On](https://open.spotify.com/album/4eYqi12IL2UvjNbnrZYP5s) | 4:09 | 2023-04-14 |  |
 | [Been Here Before](https://open.spotify.com/track/1R95piP4AI1kIzq9PRJfyF) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:54 | 2022-05-25 |  |
 | [Been Worryin'](https://open.spotify.com/track/088kWm2bfPw22I3jIa6Yll) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk), [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Been Worryin'](https://open.spotify.com/album/0wqmYZL5CugLyro5p73EtD) | 3:02 | 2022-05-25 |  |
-| [Black Leathered Lungs](https://open.spotify.com/track/69xgeczPfVE0Ongs7q8mYU) | [Jesse Walton](https://open.spotify.com/artist/4eC7zpBCLhukFXCHFTpS20) | [Black Leathered Lungs](https://open.spotify.com/album/2wsM9EQx9vp1yETxx8j0Dl) | 4:06 | 2023-09-15 |  |
+| [Black Leathered Lungs](https://open.spotify.com/track/69xgeczPfVE0Ongs7q8mYU) | [Jesse Walton](https://open.spotify.com/artist/4eC7zpBCLhukFXCHFTpS20) | [Black Leathered Lungs](https://open.spotify.com/album/2wsM9EQx9vp1yETxx8j0Dl) | 4:06 | 2023-09-15 | 2024-02-01 |
 | [Blues Before Sunrise](https://open.spotify.com/track/27gKtPpGT849HU3g2J6omx) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/5lc2xbWv8d8jLBUnjuwfH5) | 3:49 | 2022-05-27 | 2022-07-28 |
 | [Blues Before Sunrise](https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 3:49 | 2022-09-20 |  |
 | [Blues Funky Like Dat](https://open.spotify.com/track/6ZRUSMo4fKCk7bLKhE31lJ) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 3:25 | 2023-03-24 | 2023-08-25 |
@@ -160,6 +160,7 @@
 | [Only Porter at the Station](https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 4:27 | 2022-10-10 |  |
 | [Ooh Baby](https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [His Best](https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU) | 3:49 | 2022-05-25 |  |
 | [Painting the Clouds with Sunshine](https://open.spotify.com/track/2S1zh33AX8zXEplNpwvMPI) | [Blind Boy Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2) | [Jalopy Records 7" Series: Jerron Paxton](https://open.spotify.com/album/24kpVLAlAEbbxExLG0Z9D5) | 2:24 | 2023-08-18 | 2023-12-24 |
+| [Painting the Clouds with Sunshine](https://open.spotify.com/track/3iJ7zN5gMrIoL5Q3oVpe5g) | [Blind Boy Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2) | [Jalopy Records 7" Series: Jerron Paxton](https://open.spotify.com/album/50LQ4ShQydsjdlZq46tEUT) | 2:24 | 2023-09-15 |  |
 | [Passing Through](https://open.spotify.com/track/6IHuZvXDvMgk0D15P08FPj) | [Mark Harrison](https://open.spotify.com/artist/14CtALWVNL2IsuvjO27qBd) | [The Road to Liberty, Pt\. 1](https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk) | 3:24 | 2023-03-03 |  |
 | [Pay Day](https://open.spotify.com/track/29Q6NQ4WsPYTsZ8nhdAhfo) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 4:21 | 2022-05-27 |  |
 | [Pick a Bale of Cotton](https://open.spotify.com/track/1ykJT3sdoMmPzGpy9MjpR4) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Pick a Bale of Cotton](https://open.spotify.com/album/1mZYq4U5sZgmdpjLup46FC) | 3:02 | 2022-05-25 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 
 > A playlist of spooky songs to get you ready for fright night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,339 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,317 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 31 | [Ghost](https://open.spotify.com/track/2FiceoWDJ67rrmb5tGBpgE) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Ghost](https://open.spotify.com/album/6MAEuDumUgxsWaEWA6lddg) | 3:36 |
 | 32 | [Black Magic Woman \- 2018 Master](https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 2:52 |
 | 33 | [Feed My Frankenstein](https://open.spotify.com/track/7LDTB4kVmrLCU5TqKjZnzm) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Hey Stoopid](https://open.spotify.com/album/0lhICEAy0rRGbhvWzlP0Ke) | 4:44 |
-| 34 | [Jack's Lament](https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:14 |
-| 35 | [Blood of Bannockburn](https://open.spotify.com/track/34YTjOjyJOg8e0HyIHHKpw) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Last Stand](https://open.spotify.com/album/14OgR04PHXULz1svvsol8L) | 2:54 |
+| 34 | [Blood of Bannockburn](https://open.spotify.com/track/34YTjOjyJOg8e0HyIHHKpw) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Last Stand](https://open.spotify.com/album/14OgR04PHXULz1svvsol8L) | 2:54 |
+| 35 | [Jack's Lament](https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:14 |
 | 36 | [Hungry Like the Wolf](https://open.spotify.com/track/2qeESyQyH7MRHCBotCQsNq) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Greatest](https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0) | 3:29 |
 | 37 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 |
 | 38 | [Scary Monsters \(And Super Creeps\) \- 2017 Remaster](https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 5:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 59 | [Halloween](https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Bad Moon Rising](https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6) | 5:11 |
 | 60 | [Killing Game](https://open.spotify.com/track/2QNSNBUgAlzdkMpyC7nuuJ) | [Skinny Puppy](https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns) | [Last Rights](https://open.spotify.com/album/0yAWNOIBiT5FqzEwnePtsq) | 3:48 |
 
-Snapshot ID: `MCw1M2YwNzhmNDU2MTQ0NWQwNTUzZjQyYzU0ODhjNTJkNWU5NzMwYzQ2`
+Snapshot ID: `MCxlOGFkYmEyMDBhZTQ4NzU3NDAwNDE2MWQ1MGZlZDc2ZmVlMDhiYmEx`

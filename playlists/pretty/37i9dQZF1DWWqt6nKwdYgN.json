@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Fntxy en portada. ",
-  "num_followers": 12804,
+  "num_followers": 12809,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjZiZDM3YjFlYzhhNWM1ZjA1YzQ5YTlkMGMyNGM5YjUyZGNiZGU2",
+  "snapshot_id": "MCwyZTIzNjkxMTVlY2RjNzZjZGFiMDNlYTBlN2FkMzhiZWNjZDI2Y2Jm",
   "tracks": [
     {
       "added_at": "2024-01-26 06:00:00",
@@ -811,6 +811,26 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "La Gangsta",
+        "url": "https://open.spotify.com/album/5LinuS1Upb1B51fuUm3v8l"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        },
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "duration_ms": 312703,
+      "name": "La Gangsta",
+      "url": "https://open.spotify.com/track/60ptar7MA911kEF6s5AEha"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "ANBU",
         "url": "https://open.spotify.com/album/5ANllXrlPvSfmcWW8oTkyw"
       },
@@ -839,42 +859,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "La Gangsta",
-        "url": "https://open.spotify.com/album/5LinuS1Upb1B51fuUm3v8l"
-      },
-      "artists": [
-        {
-          "name": "Under Side 821",
-          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
-        },
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        }
-      ],
-      "duration_ms": 312703,
-      "name": "La Gangsta",
-      "url": "https://open.spotify.com/track/60ptar7MA911kEF6s5AEha"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "Una Carta para Ti",
-        "url": "https://open.spotify.com/album/3WCytJW9xN79jmV1D07Ytb"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Una Carta para Ti",
-      "url": "https://open.spotify.com/track/7IO8017LlzTcVu8K5EeNnP"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Barrio (with Lefty Sm)",
         "url": "https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "From Cavernas",
-        "url": "https://open.spotify.com/album/64LAL4F1Jr5xC7esPgqDEF"
+        "name": "Una Carta para Ti",
+        "url": "https://open.spotify.com/album/3WCytJW9xN79jmV1D07Ytb"
       },
       "artists": [
         {
-          "name": "Chystemc",
-          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
         }
       ],
-      "duration_ms": 218487,
-      "name": "From Cavernas",
-      "url": "https://open.spotify.com/track/2HvbmNespiZlOgsIJd6ETu"
+      "duration_ms": 208000,
+      "name": "Una Carta para Ti",
+      "url": "https://open.spotify.com/track/7IO8017LlzTcVu8K5EeNnP"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -931,6 +915,22 @@
       "duration_ms": 183947,
       "name": "MAMITA",
       "url": "https://open.spotify.com/track/0k7K5AQ6mn6JeRDFmYlhZQ"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "From Cavernas",
+        "url": "https://open.spotify.com/album/64LAL4F1Jr5xC7esPgqDEF"
+      },
+      "artists": [
+        {
+          "name": "Chystemc",
+          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
+        }
+      ],
+      "duration_ms": 218487,
+      "name": "From Cavernas",
+      "url": "https://open.spotify.com/track/2HvbmNespiZlOgsIJd6ETu"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "SUCIO",
-        "url": "https://open.spotify.com/album/79koG2MiYXk3fsceB8Oh0W"
-      },
-      "artists": [
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        },
-        {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
-        }
-      ],
-      "duration_ms": 261677,
-      "name": "SUCIO",
-      "url": "https://open.spotify.com/track/5BPZWT8tc9KTIbyPF4CJ98"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/24ttO41p2XG2NO5LH6sSGy"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 179142,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/089EXhoDJmwSAJFfel3Lwd"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "SUCIO",
+        "url": "https://open.spotify.com/album/79koG2MiYXk3fsceB8Oh0W"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "duration_ms": 261677,
+      "name": "SUCIO",
+      "url": "https://open.spotify.com/track/5BPZWT8tc9KTIbyPF4CJ98"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Pasta Pesto",
-        "url": "https://open.spotify.com/album/6PypAIwniXvOrXFlZts9c2"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 188100,
-      "name": "Pasta Pesto",
-      "url": "https://open.spotify.com/track/25T4fyLC8RRMvDfn2uMAux"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Mexicanos Bravos",
         "url": "https://open.spotify.com/album/16wHA51T97ptp4kIVLSPdW"
       },
@@ -1311,6 +1295,46 @@
       "duration_ms": 257491,
       "name": "Corridos Prohibidos",
       "url": "https://open.spotify.com/track/3MDF1F1duEFpI3zGj7lRMa"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "El G.O.A.T. (Deluxe)",
+        "url": "https://open.spotify.com/album/7dlzGElxjGae4YC49CsLcE"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 237453,
+      "name": "La Hora Es\u2026",
+      "url": "https://open.spotify.com/track/31to9V2JYareFfkoLQsEd6"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Pasta Pesto",
+        "url": "https://open.spotify.com/album/6PypAIwniXvOrXFlZts9c2"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 188100,
+      "name": "Pasta Pesto",
+      "url": "https://open.spotify.com/track/25T4fyLC8RRMvDfn2uMAux"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1343,30 +1367,6 @@
       "duration_ms": 157241,
       "name": "1000 KM",
       "url": "https://open.spotify.com/track/5VlVGHwqLnT6JbYbayUdE3"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "El G.O.A.T. (Deluxe)",
-        "url": "https://open.spotify.com/album/7dlzGElxjGae4YC49CsLcE"
-      },
-      "artists": [
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 237453,
-      "name": "La Hora Es\u2026",
-      "url": "https://open.spotify.com/track/31to9V2JYareFfkoLQsEd6"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1471,6 +1471,30 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "Gloriax",
+        "url": "https://open.spotify.com/album/6T6V6xEQwiN7G2CoJchfi7"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        },
+        {
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        },
+        {
+          "name": "Tadu V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Gloriax",
+      "url": "https://open.spotify.com/track/7IYjpcFbkycuU16e7dXT4V"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "Nacimos pa' Ganar",
         "url": "https://open.spotify.com/album/6EIHEX7mSbyfvemYyLBJEQ"
       },
@@ -1515,26 +1539,38 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Gloriax",
-        "url": "https://open.spotify.com/album/6T6V6xEQwiN7G2CoJchfi7"
+        "name": "Si La Ven",
+        "url": "https://open.spotify.com/album/6OLFc5kzAcbi6QhzzUCyzk"
       },
       "artists": [
         {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
         },
         {
-          "name": "Knak",
-          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
-        },
-        {
-          "name": "Tadu V\u00e1zquez",
-          "url": "https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk"
+          "name": "Radio MC",
+          "url": "https://open.spotify.com/artist/1T4LhoAQYA8Wqy9VdwX4gg"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Gloriax",
-      "url": "https://open.spotify.com/track/7IYjpcFbkycuU16e7dXT4V"
+      "duration_ms": 160941,
+      "name": "Si La Ven",
+      "url": "https://open.spotify.com/track/15IyQ1s3AMYpEFyYKjqzko"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Primero Lo Primero",
+        "url": "https://open.spotify.com/album/0ntC5RLzimcgYTPq0YavWM"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        }
+      ],
+      "duration_ms": 169280,
+      "name": "Primero Lo Primero",
+      "url": "https://open.spotify.com/track/4XyqGyQSLmBjmWgI2q8wFn"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1555,22 +1591,6 @@
       "duration_ms": 274311,
       "name": "Entrevisi\u00f3n",
       "url": "https://open.spotify.com/track/43IwgGI2OQzvELeFa0j1JQ"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "Primero Lo Primero",
-        "url": "https://open.spotify.com/album/0ntC5RLzimcgYTPq0YavWM"
-      },
-      "artists": [
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        }
-      ],
-      "duration_ms": 169280,
-      "name": "Primero Lo Primero",
-      "url": "https://open.spotify.com/track/4XyqGyQSLmBjmWgI2q8wFn"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1607,26 +1627,6 @@
       "duration_ms": 160000,
       "name": "Ajena",
       "url": "https://open.spotify.com/track/5dpCjFHmVk4iuIDHGW7Cv7"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "Si La Ven",
-        "url": "https://open.spotify.com/album/6OLFc5kzAcbi6QhzzUCyzk"
-      },
-      "artists": [
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
-        {
-          "name": "Radio MC",
-          "url": "https://open.spotify.com/artist/1T4LhoAQYA8Wqy9VdwX4gg"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Si La Ven",
-      "url": "https://open.spotify.com/track/15IyQ1s3AMYpEFyYKjqzko"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "Perdido",
+        "url": "https://open.spotify.com/album/3I207OzgRnwZmAmFVlY20X"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 242419,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/4DXh3aQUOuhe98Ya2sYgUh"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "antes que sea tarde",
         "url": "https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 196000,
       "name": "Lounge",
       "url": "https://open.spotify.com/track/0JKhjlnxU2YFkwBW3YSWSv"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "Perdido",
-        "url": "https://open.spotify.com/album/3I207OzgRnwZmAmFVlY20X"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 242419,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/4DXh3aQUOuhe98Ya2sYgUh"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "BAJO PRESI\u00d3N",
+        "url": "https://open.spotify.com/album/7pqOiwVjdbibxeQnzAMC0v"
+      },
+      "artists": [
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        }
+      ],
+      "duration_ms": 130289,
+      "name": "BAJO PRESI\u00d3N",
+      "url": "https://open.spotify.com/track/1HYBEi7PYzjEg7JSm0xzbQ"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/70zZ6rm69iuY1UK7RDMuLG"
       },
@@ -2023,22 +2039,6 @@
       "duration_ms": 178314,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/1Htp7oEYtmf3Ot5z8zryf5"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "BAJO PRESI\u00d3N",
-        "url": "https://open.spotify.com/album/7pqOiwVjdbibxeQnzAMC0v"
-      },
-      "artists": [
-        {
-          "name": "Soui Uno",
-          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
-        }
-      ],
-      "duration_ms": 130289,
-      "name": "BAJO PRESI\u00d3N",
-      "url": "https://open.spotify.com/track/1HYBEi7PYzjEg7JSm0xzbQ"
     },
     {
       "added_at": "2024-01-26 06:00:00",

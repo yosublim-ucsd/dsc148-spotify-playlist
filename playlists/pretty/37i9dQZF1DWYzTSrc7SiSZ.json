@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 663162,
+  "num_followers": 663063,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDI4ZWVmMDBhMTZkNTU2NzRiNzIyODMwZGNlYjA0MmQzZWE2YjZh",
+  "snapshot_id": "MCw2NGVhNTM4ZGFiMjRmMjQ1ZjY1YjcyZjI5MTBiMmZiOTY0MzNkZjM4",
   "tracks": [
     {
       "added_at": "2024-01-29 16:50:48",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-01-29 16:50:48",
       "album": {
-        "name": "Cardenal Cisneros",
-        "url": "https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 252973,
-      "name": "Cardenal Cisneros",
-      "url": "https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE"
-    },
-    {
-      "added_at": "2024-01-29 16:50:48",
-      "album": {
         "name": "Marea (feat. legallyrxx)",
         "url": "https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 166036,
       "name": "Marea (feat. legallyrxx)",
       "url": "https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1"
+    },
+    {
+      "added_at": "2024-01-29 16:50:48",
+      "album": {
+        "name": "Cardenal Cisneros",
+        "url": "https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 252973,
+      "name": "Cardenal Cisneros",
+      "url": "https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE"
     },
     {
       "added_at": "2024-01-29 16:50:48",
@@ -987,26 +987,6 @@
     {
       "added_at": "2024-01-29 16:50:48",
       "album": {
-        "name": "Quieres de mi",
-        "url": "https://open.spotify.com/album/6HiLVwSJMQG4UacfTsAotq"
-      },
-      "artists": [
-        {
-          "name": "Anna Zarate",
-          "url": "https://open.spotify.com/artist/0lV6MyEOCG0JjI1HCWjeX2"
-        },
-        {
-          "name": "Gamboa",
-          "url": "https://open.spotify.com/artist/2F3Cv7KfrxibMyE8NO7VCu"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Quieres de mi",
-      "url": "https://open.spotify.com/track/2cJCPpy5Iwgon0wORjxJan"
-    },
-    {
-      "added_at": "2024-01-29 16:50:48",
-      "album": {
         "name": "cuarto pa' las doce",
         "url": "https://open.spotify.com/album/2ReN9ssYYTNOW3irKf5XB1"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 144255,
       "name": "cuarto pa' las doce",
       "url": "https://open.spotify.com/track/7ueobUrOSSrdjS8Jdjx5rx"
+    },
+    {
+      "added_at": "2024-01-29 16:50:48",
+      "album": {
+        "name": "Quieres de mi",
+        "url": "https://open.spotify.com/album/6HiLVwSJMQG4UacfTsAotq"
+      },
+      "artists": [
+        {
+          "name": "Anna Zarate",
+          "url": "https://open.spotify.com/artist/0lV6MyEOCG0JjI1HCWjeX2"
+        },
+        {
+          "name": "Gamboa",
+          "url": "https://open.spotify.com/artist/2F3Cv7KfrxibMyE8NO7VCu"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Quieres de mi",
+      "url": "https://open.spotify.com/track/2cJCPpy5Iwgon0wORjxJan"
     },
     {
       "added_at": "2024-01-29 16:50:48",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2024-01-29 16:50:48",
       "album": {
+        "name": "Astra",
+        "url": "https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        },
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 313198,
+      "name": "Sin Freno",
+      "url": "https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb"
+    },
+    {
+      "added_at": "2024-01-29 16:50:48",
+      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -1159,22 +1179,22 @@
     {
       "added_at": "2024-01-29 16:50:48",
       "album": {
-        "name": "Astra",
-        "url": "https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx"
+        "name": "1vezmas",
+        "url": "https://open.spotify.com/album/2kHJ8qdYkgRdMJ2uXeQMk1"
       },
       "artists": [
         {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+          "name": "Svarez",
+          "url": "https://open.spotify.com/artist/1CtE7kcqimHMARnwm2Hb23"
         },
         {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+          "name": "Choclock",
+          "url": "https://open.spotify.com/artist/1Ixof0imwzqpuV21Ug9pKn"
         }
       ],
-      "duration_ms": 313198,
-      "name": "Sin Freno",
-      "url": "https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb"
+      "duration_ms": 150717,
+      "name": "1vezmas",
+      "url": "https://open.spotify.com/track/4fyF5S5cnABhKpjycdxGFr"
     },
     {
       "added_at": "2024-01-29 16:50:48",
@@ -1299,26 +1319,6 @@
     {
       "added_at": "2024-01-29 16:50:48",
       "album": {
-        "name": "1vezmas",
-        "url": "https://open.spotify.com/album/2kHJ8qdYkgRdMJ2uXeQMk1"
-      },
-      "artists": [
-        {
-          "name": "Svarez",
-          "url": "https://open.spotify.com/artist/1CtE7kcqimHMARnwm2Hb23"
-        },
-        {
-          "name": "Choclock",
-          "url": "https://open.spotify.com/artist/1Ixof0imwzqpuV21Ug9pKn"
-        }
-      ],
-      "duration_ms": 150717,
-      "name": "1vezmas",
-      "url": "https://open.spotify.com/track/4fyF5S5cnABhKpjycdxGFr"
-    },
-    {
-      "added_at": "2024-01-29 16:50:48",
-      "album": {
         "name": "GOTEO",
         "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
       },
@@ -1331,6 +1331,22 @@
       "duration_ms": 230540,
       "name": "MI TODO",
       "url": "https://open.spotify.com/track/7tpc8frJ3Kcm5Epq6VHeeP"
+    },
+    {
+      "added_at": "2024-01-29 16:50:48",
+      "album": {
+        "name": "Bolitas",
+        "url": "https://open.spotify.com/album/3BNA0RribroeshLDr3PTWB"
+      },
+      "artists": [
+        {
+          "name": "Colectivo Da Silva",
+          "url": "https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY"
+        }
+      ],
+      "duration_ms": 221322,
+      "name": "Bolitas",
+      "url": "https://open.spotify.com/track/16FVdADW8lXAqGCDqausYB"
     },
     {
       "added_at": "2024-01-29 16:50:48",
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2024-01-29 16:50:48",
       "album": {
-        "name": "Bolitas",
-        "url": "https://open.spotify.com/album/3BNA0RribroeshLDr3PTWB"
-      },
-      "artists": [
-        {
-          "name": "Colectivo Da Silva",
-          "url": "https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY"
-        }
-      ],
-      "duration_ms": 221322,
-      "name": "Bolitas",
-      "url": "https://open.spotify.com/track/16FVdADW8lXAqGCDqausYB"
-    },
-    {
-      "added_at": "2024-01-29 16:50:48",
-      "album": {
         "name": "Roxanne",
         "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
       },
@@ -1399,6 +1399,22 @@
       "duration_ms": 213993,
       "name": "A la Mitad (Suceso 1)",
       "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
+    },
+    {
+      "added_at": "2024-01-29 16:50:48",
+      "album": {
+        "name": "malapami",
+        "url": "https://open.spotify.com/album/7z2LQKDsR3ZSyIVrvEf9Y2"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 178673,
+      "name": "malapami",
+      "url": "https://open.spotify.com/track/3R5rnDwx3JYk2xRp7cAMnO"
     },
     {
       "added_at": "2024-01-29 16:50:48",
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2024-01-29 16:50:48",
       "album": {
-        "name": "Reconciliados",
-        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
-      },
-      "artists": [
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Reconciliados",
-      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
-    },
-    {
-      "added_at": "2024-01-29 16:50:48",
-      "album": {
         "name": "Dicen",
         "url": "https://open.spotify.com/album/61GgJ9H3X3kdJCQhbrNYQ6"
       },
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-01-29 16:50:48",
       "album": {
-        "name": "malapami",
-        "url": "https://open.spotify.com/album/7z2LQKDsR3ZSyIVrvEf9Y2"
+        "name": "Reconciliados",
+        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
       },
       "artists": [
         {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
         }
       ],
-      "duration_ms": 178673,
-      "name": "malapami",
-      "url": "https://open.spotify.com/track/3R5rnDwx3JYk2xRp7cAMnO"
+      "duration_ms": 169400,
+      "name": "Reconciliados",
+      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
     },
     {
       "added_at": "2024-01-29 16:50:48",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-01-29 16:50:48",
       "album": {
-        "name": "The Process 2",
-        "url": "https://open.spotify.com/album/7eWz5te5PJL41BdYN4CehQ"
-      },
-      "artists": [
-        {
-          "name": "Fer",
-          "url": "https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "The Process 2",
-      "url": "https://open.spotify.com/track/5qR47w2aiijdN7EUCnqCeM"
-    },
-    {
-      "added_at": "2024-01-29 16:50:48",
-      "album": {
         "name": "RIO",
         "url": "https://open.spotify.com/album/0qoMSm1kpFmBKiUfNRwcZ7"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 215687,
       "name": "RIO",
       "url": "https://open.spotify.com/track/0OF8EmVU6D8bEdSS0eJtCB"
+    },
+    {
+      "added_at": "2024-01-29 16:50:48",
+      "album": {
+        "name": "The Process 2",
+        "url": "https://open.spotify.com/album/7eWz5te5PJL41BdYN4CehQ"
+      },
+      "artists": [
+        {
+          "name": "Fer",
+          "url": "https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "The Process 2",
+      "url": "https://open.spotify.com/track/5qR47w2aiijdN7EUCnqCeM"
     },
     {
       "added_at": "2024-01-29 16:50:48",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2024-01-29 16:50:48",
       "album": {
+        "name": "no est\u00e1s",
+        "url": "https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 164369,
+      "name": "no est\u00e1s",
+      "url": "https://open.spotify.com/track/7itgLKp7i4CmGi0FglXcbP"
+    },
+    {
+      "added_at": "2024-01-29 16:50:48",
+      "album": {
         "name": "YNQNP",
         "url": "https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 150186,
       "name": "YNQNP",
       "url": "https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD"
-    },
-    {
-      "added_at": "2024-01-29 16:50:48",
-      "album": {
-        "name": "no est\u00e1s",
-        "url": "https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 164369,
-      "name": "no est\u00e1s",
-      "url": "https://open.spotify.com/track/7itgLKp7i4CmGi0FglXcbP"
     },
     {
       "added_at": "2024-01-29 16:50:48",

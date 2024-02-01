@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Taylor Swift",
-  "num_followers": 68394,
+  "num_followers": 68423,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWRmNDBkYzdhNzdjY2Q4OTMwNmExYmEyOTkwMGY0Y2U4Nzc4YzBl",
+  "snapshot_id": "MCw2NGRmZDRmNzg3YjBjZjM3MTFlYmQ4OWQ4YzVkZDI0YjRiMWM5ZThl",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "ATTENTION: MILEY LIVE",
-        "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 181093,
-      "name": "You - Live",
-      "url": "https://open.spotify.com/track/2E5avcbynGtL6rVHQihEdR"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "You Need To Calm Down (Live From Paris)",
         "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 203960,
       "name": "You Need To Calm Down - Live From Paris",
       "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "ATTENTION: MILEY LIVE",
+        "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 181093,
+      "name": "You - Live",
+      "url": "https://open.spotify.com/track/2E5avcbynGtL6rVHQihEdR"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "In The Stars (Live Version)",
-        "url": "https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 255139,
-      "name": "In The Stars - Live Version",
-      "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "ME! (Live From Paris)",
         "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 213026,
       "name": "ME! - Live From Paris",
       "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "In The Stars (Live Version)",
+        "url": "https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 255139,
+      "name": "In The Stars - Live Version",
+      "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "MTV Unplugged EP",
-        "url": "https://open.spotify.com/album/0jpGebANqbNNKbWHq2XhEM"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 239733,
-      "name": "Emotions - Live at MTV Unplugged, Kaufman Astoria Studios, New York - March 1992",
-      "url": "https://open.spotify.com/track/5a7ftvz1gh9lbxGmLCCzz1"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "betty (Live from the 2020 Academy of Country Music Awards)",
         "url": "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 312138,
       "name": "betty - Live from the 2020 Academy of Country Music Awards",
       "url": "https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "MTV Unplugged EP",
+        "url": "https://open.spotify.com/album/0jpGebANqbNNKbWHq2XhEM"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 239733,
+      "name": "Emotions - Live at MTV Unplugged, Kaufman Astoria Studios, New York - March 1992",
+      "url": "https://open.spotify.com/track/5a7ftvz1gh9lbxGmLCCzz1"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Live 2013 at The O2 Arena, London",
-        "url": "https://open.spotify.com/album/05qBbGGNvgkIfOuyDt1jFl"
-      },
-      "artists": [
-        {
-          "name": "Ronan Keating",
-          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
-        }
-      ],
-      "duration_ms": 299159,
-      "name": "When You Say Nothing At All - Live",
-      "url": "https://open.spotify.com/track/5B5X7IDKH9Aeb7NcLdErG7"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Lovers Live",
         "url": "https://open.spotify.com/album/5g8gop9VnKLxoXePOoVVAF"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 256800,
       "name": "Smooth Operator - Live",
       "url": "https://open.spotify.com/track/5nHNgVNXzsZLLBz29tfjkB"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Live 2013 at The O2 Arena, London",
+        "url": "https://open.spotify.com/album/05qBbGGNvgkIfOuyDt1jFl"
+      },
+      "artists": [
+        {
+          "name": "Ronan Keating",
+          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
+        }
+      ],
+      "duration_ms": 299159,
+      "name": "When You Say Nothing At All - Live",
+      "url": "https://open.spotify.com/track/5B5X7IDKH9Aeb7NcLdErG7"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Havana (Live)",
-        "url": "https://open.spotify.com/album/3wvFkCzNFudTm0GvT0rNH6"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 248572,
-      "name": "Havana - Live",
-      "url": "https://open.spotify.com/track/6JPUEloc0qDkustwyWHEpN"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Live and in Session",
         "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 319401,
       "name": "Sing - Live and in Session",
       "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Havana (Live)",
+        "url": "https://open.spotify.com/album/3wvFkCzNFudTm0GvT0rNH6"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 248572,
+      "name": "Havana - Live",
+      "url": "https://open.spotify.com/track/6JPUEloc0qDkustwyWHEpN"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "New Rules (Live)",
-        "url": "https://open.spotify.com/album/6pobOtMOg9Fa4gqwIcZulc"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 275101,
-      "name": "New Rules - Live",
-      "url": "https://open.spotify.com/track/2NPqVa1uGpeplqt60ISgr9"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Whitney Houston Live: Her Greatest Performances",
         "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 240813,
       "name": "How Will I Know - Live from The Brit Awards",
       "url": "https://open.spotify.com/track/0B71GPn23vB1BapkFfYlEp"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "New Rules (Live)",
+        "url": "https://open.spotify.com/album/6pobOtMOg9Fa4gqwIcZulc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 275101,
+      "name": "New Rules - Live",
+      "url": "https://open.spotify.com/track/2NPqVa1uGpeplqt60ISgr9"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1459,6 +1459,22 @@
       "duration_ms": 197996,
       "name": "Roman Holiday - Live From Webster Hall",
       "url": "https://open.spotify.com/track/0r0yp1OGfO4VOgUY6u3eV0"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Whitney Houston Live: Her Greatest Performances",
+        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 226226,
+      "name": "My Love Is Your Love - Live from Late Show with David Letterman",
+      "url": "https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1515,22 +1531,6 @@
       "duration_ms": 251378,
       "name": "Woman Like Me (feat. Ms Banks) - Live from the BRITs 2019",
       "url": "https://open.spotify.com/track/1uPPsGRjwqyWGTZ7TDy674"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Whitney Houston Live: Her Greatest Performances",
-        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 226226,
-      "name": "My Love Is Your Love - Live from Late Show with David Letterman",
-      "url": "https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd"
     },
     {
       "added_at": "2023-11-03 04:00:00",

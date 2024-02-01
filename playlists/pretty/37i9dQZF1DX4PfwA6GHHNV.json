@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 15395,
+  "num_followers": 15413,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWE1ZTQ0ZDRmYWM2N2FmZTg2ZjcxZjEyYThlYTdmNjVjYjc1NmJj",
+  "snapshot_id": "MCw1YTI2NjNkYWI0OWIyMTQ3YmExNzE2OTVkODc5NDM0MzAwOWRmZGU1",
   "tracks": [
     {
       "added_at": "2024-01-26 03:01:00",
@@ -83,26 +83,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Tudo \u00c9 Pra Sempre Agora",
-        "url": "https://open.spotify.com/album/7rKUa1ln9WBcyjY0N7v7m1"
-      },
-      "artists": [
-        {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
-        },
-        {
-          "name": "Luiza De Alexandre",
-          "url": "https://open.spotify.com/artist/1LIAMLWV3frQDDLETfApOS"
-        }
-      ],
-      "duration_ms": 185328,
-      "name": "Tudo \u00c9 Pra Sempre Agora",
-      "url": "https://open.spotify.com/track/3E1D41LubUTY33kldnIKbB"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "Medida Certa",
         "url": "https://open.spotify.com/album/4QptkBkKgK640CMy4kaivu"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 244571,
       "name": "Medida Certa",
       "url": "https://open.spotify.com/track/0j6vQv5SiLZOficlBiFWnT"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "Tudo \u00c9 Pra Sempre Agora",
+        "url": "https://open.spotify.com/album/7rKUa1ln9WBcyjY0N7v7m1"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Luiza De Alexandre",
+          "url": "https://open.spotify.com/artist/1LIAMLWV3frQDDLETfApOS"
+        }
+      ],
+      "duration_ms": 185328,
+      "name": "Tudo \u00c9 Pra Sempre Agora",
+      "url": "https://open.spotify.com/track/3E1D41LubUTY33kldnIKbB"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -275,6 +275,26 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
+        "name": "Mano Brown",
+        "url": "https://open.spotify.com/album/3h5F25cpPZx9zLu9Rlw2X3"
+      },
+      "artists": [
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Mano Brown",
+      "url": "https://open.spotify.com/track/14I2fRIAoRQRWK5AA07N4C"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
         "name": "COLADINHO",
         "url": "https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj"
       },
@@ -311,26 +331,6 @@
       "duration_ms": 112000,
       "name": "Oh N\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/4OjfLZXliygHX2OeXKmc9i"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
-        "name": "Mano Brown",
-        "url": "https://open.spotify.com/album/3h5F25cpPZx9zLu9Rlw2X3"
-      },
-      "artists": [
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Babidi",
-          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Mano Brown",
-      "url": "https://open.spotify.com/track/14I2fRIAoRQRWK5AA07N4C"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -383,6 +383,26 @@
       "duration_ms": 90618,
       "name": "Andarilho",
       "url": "https://open.spotify.com/track/7C50cr8Jasct0C4cRdNacH"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "Meio",
+        "url": "https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7"
+      },
+      "artists": [
+        {
+          "name": "Kult",
+          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Meio",
+      "url": "https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -443,26 +463,6 @@
       "duration_ms": 155512,
       "name": "Ch\u00e1",
       "url": "https://open.spotify.com/track/4KwJUsJQgsQiDMNqrVsO5K"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
-        "name": "Meio",
-        "url": "https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7"
-      },
-      "artists": [
-        {
-          "name": "Kult",
-          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Meio",
-      "url": "https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -715,26 +715,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "S\u00f3 Minha",
-        "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00e1",
-          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 149433,
-      "name": "S\u00f3 Minha",
-      "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "Perigo",
         "url": "https://open.spotify.com/album/1oFEEJiCKaUPk8h4yqVwvT"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 160000,
       "name": "Perigo",
       "url": "https://open.spotify.com/track/5hFhHT6WwgT6u7uiX3zlFQ"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "S\u00f3 Minha",
+        "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00e1",
+          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "S\u00f3 Minha",
+      "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Arrepios",
-        "url": "https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg"
-      },
-      "artists": [
-        {
-          "name": "Salah",
-          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
-        },
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Arrepios",
-      "url": "https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "Desacelera",
         "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 164007,
       "name": "Desacelera",
       "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "Arrepios",
+        "url": "https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg"
+      },
+      "artists": [
+        {
+          "name": "Salah",
+          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
+        },
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Arrepios",
+      "url": "https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53"
     },
     {
       "added_at": "2024-01-26 03:01:00",

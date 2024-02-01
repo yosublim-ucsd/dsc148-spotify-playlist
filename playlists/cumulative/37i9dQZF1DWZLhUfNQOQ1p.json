@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "Musica da ascoltare con un Negroni in mano. \ud83c\udf79",
+  "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
   "name": "Aperitivo Time",
   "tracks": [
     {
@@ -3484,6 +3484,10 @@
         {
           "name": "Gero",
           "url": "https://open.spotify.com/artist/0qVlTFcbWu2eNXGdHrp0g1"
+        },
+        {
+          "name": "Club Azur",
+          "url": "https://open.spotify.com/artist/7HjhcFRLzzNysy05pyufdh"
         }
       ],
       "date_added": "2023-11-24",

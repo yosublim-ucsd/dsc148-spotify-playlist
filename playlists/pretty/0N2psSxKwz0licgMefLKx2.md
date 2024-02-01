@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 
 > From Toronto to Nashville\- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Conner Smith
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 10,435 likes - 80 songs - 4 hr 24 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 10,434 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 | 9 | [Home Less](https://open.spotify.com/track/4E6QysmamTqsumshjlibem) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Home Less](https://open.spotify.com/album/3hVyB0AKhws3fOuDa1o3z6) | 3:27 |
 | 10 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 |
 | 11 | [Mamaw's House](https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Mamaw's House](https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa) | 3:07 |
-| 12 | [girls at the bar \(ft\. Alli Walker\)](https://open.spotify.com/track/0R0YOsO3yxQuWkVPwz1Wd8) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW), [Alli Walker](https://open.spotify.com/artist/0Nxzbyp5zDObdMurJZ7g5C) | [girls at the bar \(ft\. Alli Walker\)](https://open.spotify.com/album/0stqXK145N4g9pdxrOiUyx) | 3:33 |
+| 12 | [girls at the bar \(ft\. Alli Walker\)](https://open.spotify.com/track/0R0YOsO3yxQuWkVPwz1Wd8) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW), [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [girls at the bar \(ft\. Alli Walker\)](https://open.spotify.com/album/0stqXK145N4g9pdxrOiUyx) | 3:33 |
 | 13 | [Outskirts](https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Outskirts](https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh) | 3:02 |
 | 14 | [Trucks, Ducks, Bucks & Beer](https://open.spotify.com/track/57cI63EBY6FqAhgzQxMSCT) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Trucks, Ducks, Bucks & Beer](https://open.spotify.com/album/0ZUnvfZAa49HJeEZOX58vw) | 3:13 |
 | 15 | [World on Fire](https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:09 |

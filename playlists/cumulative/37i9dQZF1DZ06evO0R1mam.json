@@ -995,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/5L9oitZv1Rk4kGsO01dU1P"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243760,
+      "name": "Taste 'N' See",
+      "url": "https://open.spotify.com/track/62NfErhx30BxdqNQaJEePf"
+    },
+    {
+      "album": {
         "name": "Greater Than (Live)",
         "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
       },

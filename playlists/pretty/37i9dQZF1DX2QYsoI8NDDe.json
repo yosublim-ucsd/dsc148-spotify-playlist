@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Thalia ",
-  "num_followers": 493932,
+  "num_followers": 493835,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Zjg1ZmRmNDFmYjZkNzE2MWM0MDAyN2NhZDQ1MWYzMTc4ZGVmYTIx",
+  "snapshot_id": "MCw0ZTM0YTcyNDlkNGJlMjkzMjZlZGU0ZDMxMjMzNjZmMTdmNjc1M2Rj",
   "tracks": [
     {
       "added_at": "2023-12-08 17:59:24",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Como Te Quiero Yo A Ti (Regional Mexican Version)",
-        "url": "https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 189200,
-      "name": "Como Te Quiero Yo A Ti - Regional Mexican Version",
-      "url": "https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O"
-    },
-    {
-      "added_at": "2023-12-08 17:59:24",
-      "album": {
         "name": "Esto Es Lo M\u00edo",
         "url": "https://open.spotify.com/album/2LiyZ5nz5himXbdbSVJUl9"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 121141,
       "name": "Esto Es Lo M\u00edo",
       "url": "https://open.spotify.com/track/3QPtJy4luaQEW2BhhAhv5i"
+    },
+    {
+      "added_at": "2023-12-08 17:59:24",
+      "album": {
+        "name": "Como Te Quiero Yo A Ti (Regional Mexican Version)",
+        "url": "https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "Como Te Quiero Yo A Ti - Regional Mexican Version",
+      "url": "https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -1003,8 +1003,8 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Le Cale A Quien Le Cale",
-        "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
+        "name": "Uno de los Buenos",
+        "url": "https://open.spotify.com/album/2AvHahqBPECo32t4COxfak"
       },
       "artists": [
         {
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 152768,
-      "name": "Le Cale A Quien Le Cale",
-      "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
+      "duration_ms": 176768,
+      "name": "Uno de los Buenos",
+      "url": "https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -1107,8 +1107,8 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Uno de los Buenos",
-        "url": "https://open.spotify.com/album/2AvHahqBPECo32t4COxfak"
+        "name": "Le Cale A Quien Le Cale",
+        "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
       },
       "artists": [
         {
@@ -1116,9 +1116,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 176768,
-      "name": "Uno de los Buenos",
-      "url": "https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b"
+      "duration_ms": 152768,
+      "name": "Le Cale A Quien Le Cale",
+      "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
     }
   ],
   "unique_name": "Las Chacalosas",

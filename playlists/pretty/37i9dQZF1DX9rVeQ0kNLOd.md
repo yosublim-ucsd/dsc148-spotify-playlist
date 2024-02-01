@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,888 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,901 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 20 | [Bouquet \(Prod\. GeG\)](https://open.spotify.com/track/7eRyundmTGwr8QvrCkmzYo) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs), [Rinne](https://open.spotify.com/artist/4ETsbj1XzA5v886JMNDgdA) | [Bouquet \(Prod\. GeG\)](https://open.spotify.com/album/7kXxeoKSVQFeYCt6v8WnnC) | 3:20 |
 | 21 | [karakara](https://open.spotify.com/track/7e4omddqowij2xnoY7k6E0) | [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [karakara](https://open.spotify.com/album/0At5gcOBR68qZAMin5jINu) | 3:10 |
 | 22 | [Moon Dance](https://open.spotify.com/track/2mMZ6RsGVCUJwNuJekjlAx) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 2:47 |
-| 23 | [iris](https://open.spotify.com/track/7JO1DK6KectzNNWGbZPBNW) | [Ami Kusakari](https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn), [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [iris / pray for peace](https://open.spotify.com/album/78Hkgus8PNLbBePiCRJtyA) | 3:27 |
+| 23 | [iris](https://open.spotify.com/track/63mR8YjEoMajP2hlQMgCUu) | [Ami Kusakari](https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn), [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [iris / pray for peace](https://open.spotify.com/album/4SxRwAlnfZVpPF7DEVrvtZ) | 3:27 |
 | 24 | [浮かばれたいねサタデー](https://open.spotify.com/track/0wzfMN8h09YxxyGm8g50yL) | [Ryo Yoshinaga](https://open.spotify.com/artist/1q2tledGNGBATHvZ3zecQI) | [浮かばれたいねサタデー](https://open.spotify.com/album/79pFA5rz9iYrP5VgyTveOE) | 3:47 |
 | 25 | [スパークル](https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スパークル](https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv) | 3:33 |
 | 26 | [where everything flows](https://open.spotify.com/track/538R9PAQnL8X0HYXI5qkwL) | [soma](https://open.spotify.com/artist/6dNAZOcDVPSzljRFMIwwE0) | [where everything flows](https://open.spotify.com/album/5yRbFKcUudsp4arLIbwlfP) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 49 | [夏風に溶ける](https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS), [南雲ゆうき](https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk) | [夏風に溶ける](https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG) | 3:44 |
 | 50 | [今世紀最大の夢](https://open.spotify.com/track/7LoraRHT6Un4WbAoiBVtYV) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [今世紀最大の夢](https://open.spotify.com/album/1kpFuWgqpwrpXOXaDxVyua) | 5:10 |
 
-Snapshot ID: `MCwzMWY0NTcyZGVlNWI2OTg3MGExOTI0OWQ5MzYzNmQ2ZmVjODhhNGEw`
+Snapshot ID: `MCwxNmQyZjBjMzYyMWQ4OWQzYjI4NmEzN2M0NWYzYTdkNmZkNTY5MWNk`

@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 22888,
+  "2024-02-01": 22901,
   "date_first_scraped": "2022-10-24",
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
   "name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
@@ -1238,6 +1238,32 @@
     },
     {
       "album": {
+        "name": "iris / pray for peace",
+        "url": "https://open.spotify.com/album/78Hkgus8PNLbBePiCRJtyA"
+      },
+      "artists": [
+        {
+          "name": "Ami Kusakari",
+          "url": "https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn"
+        },
+        {
+          "name": "mabanua",
+          "url": "https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP"
+        },
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207967,
+      "name": "iris",
+      "url": "https://open.spotify.com/track/7JO1DK6KectzNNWGbZPBNW"
+    },
+    {
+      "album": {
         "name": "kani",
         "url": "https://open.spotify.com/album/45Y1Qc7rbtc6dYevjRTg28"
       },
@@ -2289,7 +2315,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 185378,
       "name": "snow jam",
       "url": "https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG"
@@ -2435,7 +2461,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 325000,
       "name": "Stay With Me ~Mayonakano Doa~ - Cover",
       "url": "https://open.spotify.com/track/0Qd8QRXaHGnsicwlUMoUWW"
@@ -2605,6 +2631,28 @@
       "duration_ms": 162253,
       "name": "Tada de Futotta Jinsei",
       "url": "https://open.spotify.com/track/2Qb4apNFWlRnZNfTtLGL4F"
+    },
+    {
+      "album": {
+        "name": "Tangerine (feat. Shimon Hoshino)",
+        "url": "https://open.spotify.com/album/0Kkoh2Q9eWOrVE3MnRLDxB"
+      },
+      "artists": [
+        {
+          "name": "leift",
+          "url": "https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3"
+        },
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182858,
+      "name": "Tangerine (feat. Shimon Hoshino)",
+      "url": "https://open.spotify.com/track/4DP3TNJnaZlo6WdITqvwk4"
     },
     {
       "album": {

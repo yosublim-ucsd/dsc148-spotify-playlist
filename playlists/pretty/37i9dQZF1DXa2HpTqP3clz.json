@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Sister Sadie",
-  "num_followers": 131329,
+  "num_followers": 131350,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTliNTdhMGY3NWI1OGE0YmIyNmVlYzM3MGYxZTQ0ZDhjOThiNTAy",
+  "snapshot_id": "MCxkODZkMmM2MzY1NDAxYjlhMTE1ZWM5ODVmOGI2Y2ZiMDc0MmYyYTgx",
   "tracks": [
     {
       "added_at": "2024-01-26 05:13:37",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-01-26 05:13:37",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 153327,
-      "name": "Church Street Blues",
-      "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
-    },
-    {
-      "added_at": "2024-01-26 05:13:37",
-      "album": {
         "name": "Mount Royal",
         "url": "https://open.spotify.com/album/10dyZoegG6vH1VMjWkb7Ji"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 182293,
       "name": "Greener Grass",
       "url": "https://open.spotify.com/track/0gIqzwso96i6SafJqcbgxO"
+    },
+    {
+      "added_at": "2024-01-26 05:13:37",
+      "album": {
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 153327,
+      "name": "Church Street Blues",
+      "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
     },
     {
       "added_at": "2024-01-26 05:13:37",
@@ -811,6 +811,26 @@
     {
       "added_at": "2024-01-26 05:13:37",
       "album": {
+        "name": "The IPA Song",
+        "url": "https://open.spotify.com/album/33mgkE8sPRpwhExMMJFGHr"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+        },
+        {
+          "name": "Ronnie McCoury",
+          "url": "https://open.spotify.com/artist/4xLzU33GmHeP6nGcYEIKdh"
+        }
+      ],
+      "duration_ms": 174381,
+      "name": "The IPA Song",
+      "url": "https://open.spotify.com/track/23lIjqZvmcRcc7hIMldCh1"
+    },
+    {
+      "added_at": "2024-01-26 05:13:37",
+      "album": {
         "name": "For Your Love",
         "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
       },
@@ -835,22 +855,18 @@
     {
       "added_at": "2024-01-26 05:13:37",
       "album": {
-        "name": "The IPA Song",
-        "url": "https://open.spotify.com/album/33mgkE8sPRpwhExMMJFGHr"
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
       },
       "artists": [
         {
-          "name": "The Brothers Comatose",
-          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
-        },
-        {
-          "name": "Ronnie McCoury",
-          "url": "https://open.spotify.com/artist/4xLzU33GmHeP6nGcYEIKdh"
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
         }
       ],
-      "duration_ms": 174381,
-      "name": "The IPA Song",
-      "url": "https://open.spotify.com/track/23lIjqZvmcRcc7hIMldCh1"
+      "duration_ms": 481641,
+      "name": "Stress Dreams",
+      "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
     },
     {
       "added_at": "2024-01-26 05:13:37",
@@ -891,18 +907,18 @@
     {
       "added_at": "2024-01-26 05:13:37",
       "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+        "name": "Sidetrack My Engine",
+        "url": "https://open.spotify.com/album/00D7oBqFifBPZidNTzzkWY"
       },
       "artists": [
         {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
         }
       ],
-      "duration_ms": 481641,
-      "name": "Stress Dreams",
-      "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
+      "duration_ms": 165213,
+      "name": "Wedding Dress",
+      "url": "https://open.spotify.com/track/4TpYKbhwT9sgVptLBGqHkc"
     },
     {
       "added_at": "2024-01-26 05:13:37",
@@ -919,22 +935,6 @@
       "duration_ms": 178973,
       "name": "Any Old Time",
       "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
-    },
-    {
-      "added_at": "2024-01-26 05:13:37",
-      "album": {
-        "name": "Sidetrack My Engine",
-        "url": "https://open.spotify.com/album/00D7oBqFifBPZidNTzzkWY"
-      },
-      "artists": [
-        {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
-        }
-      ],
-      "duration_ms": 165213,
-      "name": "Wedding Dress",
-      "url": "https://open.spotify.com/track/4TpYKbhwT9sgVptLBGqHkc"
     },
     {
       "added_at": "2024-01-26 05:13:37",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-01-26 05:13:37",
       "album": {
-        "name": "Squareneck Soul",
-        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
-      },
-      "artists": [
-        {
-          "name": "Andy Hall",
-          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
-        }
-      ],
-      "duration_ms": 149346,
-      "name": "Squareneck Soul",
-      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
-    },
-    {
-      "added_at": "2024-01-26 05:13:37",
-      "album": {
         "name": "My Bluegrass Heart",
         "url": "https://open.spotify.com/album/1vO0hRLuOKXKHrMbDBlJjc"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 255369,
       "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
       "url": "https://open.spotify.com/track/6Ws3pJjE9MeiR8WYEC4hPw"
+    },
+    {
+      "added_at": "2024-01-26 05:13:37",
+      "album": {
+        "name": "Squareneck Soul",
+        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
+      },
+      "artists": [
+        {
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
+        }
+      ],
+      "duration_ms": 149346,
+      "name": "Squareneck Soul",
+      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
     },
     {
       "added_at": "2024-01-26 05:13:37",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-01-26 05:13:37",
       "album": {
-        "name": "Jubilation",
-        "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
-      },
-      "artists": [
-        {
-          "name": "Appalachian Road Show",
-          "url": "https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM"
-        }
-      ],
-      "duration_ms": 179140,
-      "name": "Graveyard Fields",
-      "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
-    },
-    {
-      "added_at": "2024-01-26 05:13:37",
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1kFrfbpzO4oDKzLMhLtxHN"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 225941,
       "name": "Smoky Mountain Girl",
       "url": "https://open.spotify.com/track/0m3U6lCkhaJr5OCK7RSkFP"
+    },
+    {
+      "added_at": "2024-01-26 05:13:37",
+      "album": {
+        "name": "Jubilation",
+        "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
+      },
+      "artists": [
+        {
+          "name": "Appalachian Road Show",
+          "url": "https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM"
+        }
+      ],
+      "duration_ms": 179140,
+      "name": "Graveyard Fields",
+      "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
     },
     {
       "added_at": "2024-01-26 05:13:37",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-01-26 05:13:37",
       "album": {
-        "name": "The Light We Bring",
-        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
-      },
-      "artists": [
-        {
-          "name": "Trout Steak Revival",
-          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
-        }
-      ],
-      "duration_ms": 207319,
-      "name": "The Heart Wants",
-      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
-    },
-    {
-      "added_at": "2024-01-26 05:13:37",
-      "album": {
         "name": "In The Ground",
         "url": "https://open.spotify.com/album/6Ag5zf5U06icw6B6pEEAuC"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 191918,
       "name": "Homemade Wine",
       "url": "https://open.spotify.com/track/6SKFHKROdE9wfAWlpdAD4j"
+    },
+    {
+      "added_at": "2024-01-26 05:13:37",
+      "album": {
+        "name": "The Light We Bring",
+        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
+      },
+      "artists": [
+        {
+          "name": "Trout Steak Revival",
+          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
+        }
+      ],
+      "duration_ms": 207319,
+      "name": "The Heart Wants",
+      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
     },
     {
       "added_at": "2024-01-26 05:13:37",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-01-26 05:13:37",
       "album": {
-        "name": "Well",
-        "url": "https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Well",
-      "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
-    },
-    {
-      "added_at": "2024-01-26 05:13:37",
-      "album": {
         "name": "Sweet Spot",
         "url": "https://open.spotify.com/album/6Nt0b4ON7Q9AO9C4T8m4lV"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2024-01-26 05:13:37",
       "album": {
-        "name": "Heartbreak Train",
-        "url": "https://open.spotify.com/album/3eUKVLMOhOOLvyvffz7vY0"
+        "name": "Well",
+        "url": "https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS"
       },
       "artists": [
         {
-          "name": "Caroline Owens",
-          "url": "https://open.spotify.com/artist/5cz6yza4UO8jUweDYxKakE"
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
         }
       ],
-      "duration_ms": 160471,
-      "name": "Heartbreak Train",
-      "url": "https://open.spotify.com/track/205hhygYfVJ4gUXu54lUyQ"
+      "duration_ms": 176000,
+      "name": "Well",
+      "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
     },
     {
       "added_at": "2024-01-26 05:13:37",
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2024-01-26 05:13:37",
       "album": {
-        "name": "Ain\u2019t Through Honky Tonkin\u2019 Yet",
-        "url": "https://open.spotify.com/album/3sSHGWiYpEhC0W2MvWISop"
+        "name": "Heartbreak Train",
+        "url": "https://open.spotify.com/album/3eUKVLMOhOOLvyvffz7vY0"
       },
       "artists": [
         {
-          "name": "Brennen Leigh",
-          "url": "https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW"
+          "name": "Caroline Owens",
+          "url": "https://open.spotify.com/artist/5cz6yza4UO8jUweDYxKakE"
         }
       ],
-      "duration_ms": 165600,
-      "name": "Running Out Of Hope, Arkansas",
-      "url": "https://open.spotify.com/track/36I4TdV7yZNZJVOz1WQZpf"
+      "duration_ms": 160471,
+      "name": "Heartbreak Train",
+      "url": "https://open.spotify.com/track/205hhygYfVJ4gUXu54lUyQ"
     },
     {
       "added_at": "2024-01-26 05:13:37",
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2024-01-26 05:13:37",
       "album": {
+        "name": "Ain\u2019t Through Honky Tonkin\u2019 Yet",
+        "url": "https://open.spotify.com/album/3sSHGWiYpEhC0W2MvWISop"
+      },
+      "artists": [
+        {
+          "name": "Brennen Leigh",
+          "url": "https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Running Out Of Hope, Arkansas",
+      "url": "https://open.spotify.com/track/36I4TdV7yZNZJVOz1WQZpf"
+    },
+    {
+      "added_at": "2024-01-26 05:13:37",
+      "album": {
         "name": "Down the Road",
         "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
       },
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-01-26 05:13:37",
       "album": {
-        "name": "Live At The CMA Theater In The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/2mzSAxDSMwyWtrH1MisKT5"
-      },
-      "artists": [
-        {
-          "name": "The Earls Of Leicester",
-          "url": "https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm"
-        }
-      ],
-      "duration_ms": 152440,
-      "name": "Salty Dog Blues - Live",
-      "url": "https://open.spotify.com/track/34HGrU0mKfR4dEJW0kydUh"
-    },
-    {
-      "added_at": "2024-01-26 05:13:37",
-      "album": {
         "name": "Fall Like Rain",
         "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 262640,
       "name": "Fall Like Rain",
       "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
+    },
+    {
+      "added_at": "2024-01-26 05:13:37",
+      "album": {
+        "name": "Live At The CMA Theater In The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/2mzSAxDSMwyWtrH1MisKT5"
+      },
+      "artists": [
+        {
+          "name": "The Earls Of Leicester",
+          "url": "https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm"
+        }
+      ],
+      "duration_ms": 152440,
+      "name": "Salty Dog Blues - Live",
+      "url": "https://open.spotify.com/track/34HGrU0mKfR4dEJW0kydUh"
     },
     {
       "added_at": "2024-01-26 05:13:37",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-01-26 05:13:37",
       "album": {
-        "name": "Travelers Rest",
-        "url": "https://open.spotify.com/album/0nx6Drh6lFh27sZ5uNQwRy"
-      },
-      "artists": [
-        {
-          "name": "The Foreign Landers",
-          "url": "https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Traveler",
-      "url": "https://open.spotify.com/track/5ytipdvaQRgOQvRARYQD4z"
-    },
-    {
-      "added_at": "2024-01-26 05:13:37",
-      "album": {
         "name": "Old Gods",
         "url": "https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 226466,
       "name": "Old Gods",
       "url": "https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD"
+    },
+    {
+      "added_at": "2024-01-26 05:13:37",
+      "album": {
+        "name": "Travelers Rest",
+        "url": "https://open.spotify.com/album/0nx6Drh6lFh27sZ5uNQwRy"
+      },
+      "artists": [
+        {
+          "name": "The Foreign Landers",
+          "url": "https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Traveler",
+      "url": "https://open.spotify.com/track/5ytipdvaQRgOQvRARYQD4z"
     },
     {
       "added_at": "2024-01-26 05:13:37",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-01-26 05:13:37",
       "album": {
+        "name": "Blues Are Close at Hand",
+        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
+      },
+      "artists": [
+        {
+          "name": "The Po' Ramblin' Boys",
+          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
+        }
+      ],
+      "duration_ms": 159427,
+      "name": "Blues Are Close at Hand",
+      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
+    },
+    {
+      "added_at": "2024-01-26 05:13:37",
+      "album": {
         "name": "These Ole Blues",
         "url": "https://open.spotify.com/album/7pOUqo4VhWgWlHCGCzGoaS"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 255178,
       "name": "These Ole Blues",
       "url": "https://open.spotify.com/track/7v773znNvjE1Gx6cIgcmYA"
-    },
-    {
-      "added_at": "2024-01-26 05:13:37",
-      "album": {
-        "name": "Blues Are Close at Hand",
-        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
-      },
-      "artists": [
-        {
-          "name": "The Po' Ramblin' Boys",
-          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
-        }
-      ],
-      "duration_ms": 159427,
-      "name": "Blues Are Close at Hand",
-      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
     },
     {
       "added_at": "2024-01-26 05:13:37",
@@ -1679,18 +1679,22 @@
     {
       "added_at": "2024-01-26 05:13:37",
       "album": {
-        "name": "Bridge You're Gonna Burn",
-        "url": "https://open.spotify.com/album/2jhtDobqNHp2sEPSiEJran"
+        "name": "Old Cane Back Rocker",
+        "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
       "artists": [
         {
-          "name": "Tina Adair",
-          "url": "https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS"
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+        },
+        {
+          "name": "Darrell Scott String Band",
+          "url": "https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh"
         }
       ],
-      "duration_ms": 135746,
-      "name": "Bridge You're Gonna Burn",
-      "url": "https://open.spotify.com/track/1JNopLLdrPqDljHPtAcwuj"
+      "duration_ms": 231269,
+      "name": "Kentucky Morning",
+      "url": "https://open.spotify.com/track/16f8ddX6OESa2a0FXTtJzb"
     },
     {
       "added_at": "2024-01-26 05:13:37",
@@ -1711,22 +1715,18 @@
     {
       "added_at": "2024-01-26 05:13:37",
       "album": {
-        "name": "Old Cane Back Rocker",
-        "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
+        "name": "Bridge You're Gonna Burn",
+        "url": "https://open.spotify.com/album/2jhtDobqNHp2sEPSiEJran"
       },
       "artists": [
         {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
-        },
-        {
-          "name": "Darrell Scott String Band",
-          "url": "https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh"
+          "name": "Tina Adair",
+          "url": "https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS"
         }
       ],
-      "duration_ms": 231269,
-      "name": "Kentucky Morning",
-      "url": "https://open.spotify.com/track/16f8ddX6OESa2a0FXTtJzb"
+      "duration_ms": 135746,
+      "name": "Bridge You're Gonna Burn",
+      "url": "https://open.spotify.com/track/1JNopLLdrPqDljHPtAcwuj"
     },
     {
       "added_at": "2024-01-26 05:13:37",

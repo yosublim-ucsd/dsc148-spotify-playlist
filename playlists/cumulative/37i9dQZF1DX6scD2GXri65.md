@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-174 songs - 9 hr 40 min
+175 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Break Free \(Official Decibel Outdoor 2022 Anthem\)](https://open.spotify.com/track/1VtGStey2iPgtZSLHU6sf0) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [ATILAX](https://open.spotify.com/artist/1DLc4wnbKa3RWJsqwPehbk) | [Break Free \(Official Decibel Outdoor 2022 Anthem\)](https://open.spotify.com/album/0YzBhIvuaOqtdBsVjmNnDq) | 4:48 | 2022-12-08 |  |
 | [Breaking Boundaries \(The Qontinent Anthem 2022\)](https://open.spotify.com/track/6aQ1baorPslq7nNhyIFsKY) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Breaking Boundaries \(The Qontinent Anthem 2022\)](https://open.spotify.com/album/1K4tPe5ZzHev2av0X3kJ1c) | 4:54 | 2022-12-08 | 2023-02-10 |
 | [Burning Love](https://open.spotify.com/track/4mhuBO0VjqcJ3OSgc6Mv33) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM), [Critical Mass](https://open.spotify.com/artist/5anwTbhEWgbOnZUs2GbuB9) | [Burning Love](https://open.spotify.com/album/4QtKtnuiJlNiChWgdam1gP) | 3:39 | 2023-02-09 | 2023-04-07 |
-| [Carry On](https://open.spotify.com/track/1cV1UP1QRnCOZcAlRTPJxM) | [Influencerz](https://open.spotify.com/artist/163A7vg111FgP21NQSD6dN), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai), [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT) | [Carry On](https://open.spotify.com/album/24KSJMqOVqscu18lS9KB4o) | 2:34 | 2023-12-04 |  |
+| [Carry On](https://open.spotify.com/track/1cV1UP1QRnCOZcAlRTPJxM) | [Influencerz](https://open.spotify.com/artist/163A7vg111FgP21NQSD6dN), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai), [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT) | [Carry On](https://open.spotify.com/album/24KSJMqOVqscu18lS9KB4o) | 2:34 | 2023-12-04 | 2024-02-01 |
 | [Castle In The Sky](https://open.spotify.com/track/2BtbpG4B4cK72uiMbr9Dti) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Castle In The Sky](https://open.spotify.com/album/4sSxfWYlXONGkSBkfrR7Qt) | 2:20 | 2023-02-28 |  |
 | [Catch Me If You Can](https://open.spotify.com/track/1HNFlssmxq6pvQKsJbOJhT) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Catch Me If You Can](https://open.spotify.com/album/1cXegml0Di3ZWtZn13OaBt) | 2:25 | 2023-04-20 | 2023-08-24 |
 | [Catch Me If You Can](https://open.spotify.com/track/4JPo4J1xN78RG0Ggxet8hg) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Catch Me If You Can](https://open.spotify.com/album/50zQ5S9Ss52dc5iVW3fGIh) | 2:25 | 2023-09-28 |  |
@@ -140,6 +140,7 @@
 | [Stop the Time](https://open.spotify.com/track/2c5R73DJKgNZNACGnhlsQU) | [Steve Modana](https://open.spotify.com/artist/2RibwN2CQvXRHdfxap3KWh), [Rocco](https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP) | [Stop the Time](https://open.spotify.com/album/7MEWDIupZlzznyiH3aMH7L) | 2:19 | 2023-01-26 |  |
 | [Supa Dupa Fly](https://open.spotify.com/track/1f1oSxTFtI9WN7X6GvzMtF) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Supa Dupa Fly](https://open.spotify.com/album/6AsthfXuyR0Ue12N7iFLCR) | 3:11 | 2022-12-08 |  |
 | [Talk About Love](https://open.spotify.com/track/2xt0pHaU80RC2Bl4MOHu9F) | [MYST](https://open.spotify.com/artist/18UStRMkfnMhX5Qxzhylej) | [Talk About Love](https://open.spotify.com/album/0hsdvnqphHGsU502IjypgO) | 2:59 | 2023-02-28 | 2023-06-02 |
+| [Team No Sleep](https://open.spotify.com/track/3khsjS0d0qOwB3x8k5gVca) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Team No Sleep](https://open.spotify.com/album/2e7vCfR5fupyZR9REwk00X) | 2:48 | 2024-01-31 |  |
 | [The Gambling Zone](https://open.spotify.com/track/3CdD2Hqu1JrwonhkYr8fiv) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [The Gambling Zone](https://open.spotify.com/album/3jWZ3na0qjuAGh54DK809V) | 4:12 | 2022-12-08 | 2023-04-07 |
 | [The Get Back](https://open.spotify.com/track/22wegVv3MYQOu4WgVbhaXp) | [The Prophet](https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz), [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa) | [The Get Back](https://open.spotify.com/album/408QsFdYz9ZT0jq9uqAyOY) | 2:10 | 2023-06-01 | 2024-01-22 |
 | [The Hoover](https://open.spotify.com/track/0QssNmq5FzUv2GMBmeEcX1) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [The Hoover](https://open.spotify.com/album/5jsHwT2aE5EhLyz69txG1R) | 3:39 | 2023-11-17 | 2023-12-30 |

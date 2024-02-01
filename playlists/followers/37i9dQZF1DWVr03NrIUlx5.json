@@ -1,5 +1,5 @@
 {
-  "2024-01-31": 110578,
+  "2024-02-01": 110648,
   "date_first_scraped": "2021-10-26",
   "description": "8 bit bangers.",
   "name": "8 Bit Hits",
@@ -965,7 +965,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 230479,
       "name": "Daddy (8 Bit Version)",
       "url": "https://open.spotify.com/track/1Ufv5r4wrDzQp4axftrIbD"
@@ -1127,7 +1127,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 190886,
       "name": "Drag Me Down (8 Bit)",
       "url": "https://open.spotify.com/track/4nanieJKGPcyUWgTwCGwk5"
@@ -1325,7 +1325,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 294453,
       "name": "Fake Plastic Trees",
       "url": "https://open.spotify.com/track/5bN43arFW3dZ7pzlNOGAmj"
@@ -3029,7 +3029,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-31",
       "duration_ms": 231998,
       "name": "Shape of You (8 Bit Version)",
       "url": "https://open.spotify.com/track/2ei8b1huBEgIRVZCFEjpBj"

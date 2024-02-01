@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 
 > Official Roadrunner Records Playlist \- This week's DEADNOISE.FM playlist is curated by Billy Hamilton from Silverstein
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,719 likes - 30 songs - 2 hr 2 min
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,717 likes - 30 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

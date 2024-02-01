@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-231 songs - 20 hr 49 min
+232 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [ISOLATED \(Part 2\)](https://open.spotify.com/track/37rIyfXlSeU4pALUVZ0XDO) | [Priyakshi Pachani](https://open.spotify.com/artist/5Mm8IaGkfrjF4ZF6eIjj1P), [Arghadeep Barua](https://open.spotify.com/artist/76zwIgoC4iyxTnLTeGiwUv), [Arnab Bashistha](https://open.spotify.com/artist/0nLfD8OW4b380nSxUKB12t) | [ISOLATED \(Part 2\)](https://open.spotify.com/album/5gMeHUxcnHEpR87wyWAJBD) | 3:47 | 2022-05-17 | 2023-05-24 |
 | [Ja Ja Re Apne](https://open.spotify.com/track/3COq2ajX5JKwferXjUWWLz) | [RaagNRocks](https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY), [Nabanita Goswami](https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB) | [Ja Ja Re Apne](https://open.spotify.com/album/4ho7R4LOcEWXen96udRpTr) | 4:54 | 2023-03-10 | 2023-12-02 |
 | [Jaa Kaga](https://open.spotify.com/track/33mqdecKrXjGk1JZQGuQ5f) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Jaa Kaga](https://open.spotify.com/album/6Rw6ZLW1qBJczNKuJu18E1) | 5:10 | 2023-10-20 |  |
+| [JAANE KAHAAN GAYE](https://open.spotify.com/track/51qf0g2vbsCJGNUZAjNv8w) | [Manasi Shah](https://open.spotify.com/artist/6NtTwYPmadVqUOjyIjcdLs) | [JAANE KAHAAN GAYE](https://open.spotify.com/album/7zXAqO3eIMbvy6owIXe1PD) | 2:55 | 2024-01-31 |  |
 | [Jaanu Na \- Jodi Tare](https://open.spotify.com/track/1VRrV5xVD5iuI38NQSdwg1) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3) | [Tagore Songs \- Hindi Adaptations](https://open.spotify.com/album/4QuenfmhzueuIbon28NOiR) | 4:45 | 2022-05-17 | 2023-05-24 |
 | [Jabse Tum Sana Lag Li \- Bhoopali](https://open.spotify.com/track/6zFQPuWAkXBEN2h3ytYJLx) | [DEW](https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s), [Sanchari Nag](https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE) | [Jabse Tum Sana Lag Li \(Bhoopali\)](https://open.spotify.com/album/6Bm1pY8Lg5vDmRzxOjC22l) | 3:03 | 2023-12-15 |  |
 | [Jagaave Saari Raina](https://open.spotify.com/track/7CQ0O1bdOHZINqyOf1W3kz) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Dedh Ishqiya](https://open.spotify.com/album/0x33kdKVOuPpUNyuQdX1LR) | 5:38 | 2023-03-02 |  |
@@ -143,7 +144,7 @@
 | [Naina Morey \- Redefined](https://open.spotify.com/track/4oZINaDR2CFCkacgsv0G5f) | [Umashankar Kathak](https://open.spotify.com/artist/0gn4c6YbczAGbmASu6EAor), [Jayesh Kathak](https://open.spotify.com/artist/1fyiw6fCA8sUoUQkainmWB), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Naina Morey \(Redefined\)](https://open.spotify.com/album/0uli1eOLGrt76V11eFtity) | 3:22 | 2022-05-17 |  |
 | [Naino Ke Ishaare](https://open.spotify.com/track/64lm0UUw3NLTWUBYogM27P) | [Nilotpal Sinha](https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV), [Shruti Dhasmana](https://open.spotify.com/artist/6IWgkz5oMp5pJwM7T3drvr) | [Naino Ke Ishaare](https://open.spotify.com/album/418atTbf5RwSqpLNpMVTBB) | 4:37 | 2022-05-17 | 2023-07-06 |
 | [Naked](https://open.spotify.com/track/7KoXzM3IboDJxRl7DXIT7y) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Rise](https://open.spotify.com/album/5v2AgCxdfQlVcoXQ0QQEoP) | 4:16 | 2022-05-17 | 2023-05-24 |
-| [Nayanwa](https://open.spotify.com/track/10HB2JI0mlzXgKmbLsXzZj) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Nayanwa](https://open.spotify.com/album/6p1zL5oFJhgfjALKfeCJXb) | 3:30 | 2022-05-17 |  |
+| [Nayanwa](https://open.spotify.com/track/10HB2JI0mlzXgKmbLsXzZj) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Nayanwa](https://open.spotify.com/album/6p1zL5oFJhgfjALKfeCJXb) | 3:30 | 2022-05-17 | 2024-02-01 |
 | [Neeli Neeli Khili Khili Si Duniya](https://open.spotify.com/track/1XoofvsgeNTx1kt0FdeVAF) | [Azam Ali](https://open.spotify.com/artist/5FjTtbpfWj8SBN3SGjkY0W), [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Jalpari \- The Desert Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ygwH3yJqtGFDozsANxJoF) | 5:53 | 2023-02-01 | 2024-01-02 |
 | [Neeli Neeli Khili Khili Si Duniya](https://open.spotify.com/track/3nL8aPsY0Fs13IJfio7qFi) | [Azam Ali](https://open.spotify.com/artist/5FjTtbpfWj8SBN3SGjkY0W), [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Jalpari \- The Desert Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79vebYWRKA2lr194JCz7Yf) | 5:53 | 2023-12-15 |  |
 | [Night](https://open.spotify.com/track/4N3vw766peEDGWJEnSC7cL) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY) | [MidIval Punditz](https://open.spotify.com/album/3Gt2rSnTmlwjowHKV5vsIX) | 5:54 | 2022-05-17 | 2022-07-29 |

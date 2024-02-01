@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,874,660 likes - 281 songs - 13 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,874,970 likes - 281 songs - 13 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -290,4 +290,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 280 | [Cosmogonie](https://open.spotify.com/track/6dCO7VelwRbF5m4RhimWSg) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Cosmogonie](https://open.spotify.com/album/25wiFsSWwhcLjb3fj3OCQm) | 2:51 |
 | 281 | [Profetia](https://open.spotify.com/track/3DjhYKmRHk0fq0fpb103nY) | [Mellow Dreamer](https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj) | [Profetia](https://open.spotify.com/album/6iUHb3XJ0K7hxJ4grACdPV) | 2:55 |
 
-Snapshot ID: `MCxhN2IzYTAxYmNhMzZhMjg5ZDZmOTA1OTRjYzM1ZWI1ZjkyZDczMjE2`
+Snapshot ID: `MCw1ZTFmMTVmNjFjN2U5ZTYwN2RkZTIyYTNhMTM3Y2UxYmU2OTg4MWE1`

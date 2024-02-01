@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 
 > Punjabi superstar’s biggest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,196 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,271 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 | 49 | [El Sueño \(feat\. Tru\-Skool\)](https://open.spotify.com/track/4xxLLbEcA3mMwpzvBWjVTR) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [El Sueño \(feat\. Tru\-Skool\)](https://open.spotify.com/album/0O6WVv0kgaPZdKTMap1DhY) | 3:54 |
 | 50 | [Taare](https://open.spotify.com/track/2Xr84waT2lRMqjdkjmTYfW) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:23 |
 
-Snapshot ID: `MCxmMjE5OTY4MGQzNDM3ZGQ5Y2U3N2NhMjU4N2Y4ZmI2MWU3YzM1YjI0`
+Snapshot ID: `MCxiY2U0ZTMwZjk2ZmNmZTVlNzYxYjVjZTM2OGRjYjY1YjAzNzQ2Zjcy`

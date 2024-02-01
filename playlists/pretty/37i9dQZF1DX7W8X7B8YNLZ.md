@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 
 > Les plus grands tubes français des années 70\. Photo : Dalida
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,625 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,676 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 19 | [Quand on arrive en ville \- Remastered](https://open.spotify.com/track/62QQEK5BZPtOw0CvrBe9ho) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7), [Nanette Workman](https://open.spotify.com/artist/4KM2fWVoNDDdgrKmk41Ygy), [Starmania](https://open.spotify.com/artist/4VOX5R6FyddOOtzKgY8OGv) | [Starmania \(2009 Remaster\)](https://open.spotify.com/album/1KfEKYPClCYGHtJWTi6PCQ) | 3:37 |
 | 20 | [Rockollection](https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Belle Ile En Mer](https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl) | 4:10 |
 | 21 | [L'aigle noir](https://open.spotify.com/track/2rvuhf0UzKgVuhDaLc6r7y) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw) | [L'Aigle Noir](https://open.spotify.com/album/15Su2kfGKwzGE00aPHcgMp) | 4:54 |
-| 22 | [Oxygene, Pt\. 4](https://open.spotify.com/track/0Tt2jli0yAD1MKSTb5MvS2) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 4:06 |
+| 22 | [Oxygene, Pt\. 4](https://open.spotify.com/track/2t9r7v0StZZraI1l6wgTgw) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygene Trilogy](https://open.spotify.com/album/469JDZgyHrDdZT25FeLKgT) | 4:06 |
 | 23 | [Du côte de chez Swann](https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH) | [Dave](https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg) | [Dave](https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o) | 3:00 |
 | 24 | [Sur la route de Memphis](https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK) | [Eddy Mitchell](https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ) | [Sur La Route De Memphis](https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ) | 2:53 |
 | 25 | [J'ai dix ans](https://open.spotify.com/track/3lv2AEpXas2CfZM3zC2Gru) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [La Belle Epoque \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6LXIynDAfzuLUwGz5gis6b) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 49 | [Lily](https://open.spotify.com/track/1vVqeVk2xv1NClP8Q1w4ol) | [Pierre Perret](https://open.spotify.com/artist/3IZrUS6JZOX0mULDy0QPra) | [L'âge de pierre](https://open.spotify.com/album/7wnjaC11wm2UDP3H17A8Qp) | 3:01 |
 | 50 | [Hexagone](https://open.spotify.com/track/1kctI6izBtrYuGvNsUUA3B) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Renaud CD Story](https://open.spotify.com/album/1QuRVhgQ3UM7N9dz0O1s0z) | 5:30 |
 
-Snapshot ID: `MCwxODYzZjM1MDFjNzM1ZGQyYjUyNzA3YzJjZjdmNzg1NTEyNTBmNjZm`
+Snapshot ID: `MCw1NDg3ZjNlN2E4MmI0ZGVkZDlmMDhkOWIwNDEwNzQxODYwMTM2YTE2`

@@ -1,12 +1,12 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 340133,
+  "num_followers": 340052,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTFmMTA4ODVhYmQyMGZkYjYxMDFkY2EyZTM2MGE0MWQwYTM5MGY3",
+  "snapshot_id": "MCwyYmE0ZmE4NTRlYWE3NjlhOGU5YmRiNTIxZmE3MmQzMGE1Y2ExODg1",
   "tracks": [
     {
       "added_at": "2024-01-19 14:53:58",
@@ -787,26 +787,6 @@
     {
       "added_at": "2024-01-19 14:53:58",
       "album": {
-        "name": "Meridian & Special",
-        "url": "https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Meridian",
-      "url": "https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5"
-    },
-    {
-      "added_at": "2024-01-19 14:53:58",
-      "album": {
         "name": "Culture II",
         "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 276147,
       "name": "Walk It Talk It",
       "url": "https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP"
+    },
+    {
+      "added_at": "2024-01-19 14:53:58",
+      "album": {
+        "name": "Meridian & Special",
+        "url": "https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Meridian",
+      "url": "https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5"
     },
     {
       "added_at": "2024-01-19 14:53:58",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-01-19 14:53:58",
       "album": {
+        "name": "The Definition Of X: Pick Of The Litter",
+        "url": "https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "X Gon' Give It To Ya",
+      "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb"
+    },
+    {
+      "added_at": "2024-01-19 14:53:58",
+      "album": {
         "name": "For All The Dogs Scary Hours Edition",
         "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 227692,
       "name": "Evil Ways (feat. J. Cole)",
       "url": "https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa"
-    },
-    {
-      "added_at": "2024-01-19 14:53:58",
-      "album": {
-        "name": "The Definition Of X: Pick Of The Litter",
-        "url": "https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "X Gon' Give It To Ya",
-      "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb"
     },
     {
       "added_at": "2024-01-19 14:53:58",
@@ -999,18 +999,18 @@
     {
       "added_at": "2024-01-19 14:53:58",
       "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2NmIkHfuMdIdqJlu3LtxwU"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 214445,
-      "name": "Red Ruby Da Sleeze",
-      "url": "https://open.spotify.com/track/3fhvnn5xALwA2htzljsU1v"
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/3OQrbQGIHe3Q0nKN4ricz2"
     },
     {
       "added_at": "2024-01-19 14:53:58",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-01-19 14:53:58",
       "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2NmIkHfuMdIdqJlu3LtxwU"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 270697,
-      "name": "redrum",
-      "url": "https://open.spotify.com/track/3OQrbQGIHe3Q0nKN4ricz2"
-    },
-    {
-      "added_at": "2024-01-19 14:53:58",
-      "album": {
         "name": "M\u00e1quina do Tempo",
         "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
       },
@@ -1063,26 +1047,18 @@
     {
       "added_at": "2024-01-19 14:53:58",
       "album": {
-        "name": "REALLY HER (INTL DELUXE)",
-        "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
       "artists": [
         {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 194675,
-      "name": "MILANO",
-      "url": "https://open.spotify.com/track/79gZiOMkdqpBquK2tClkbn"
+      "duration_ms": 214445,
+      "name": "Red Ruby Da Sleeze",
+      "url": "https://open.spotify.com/track/3fhvnn5xALwA2htzljsU1v"
     },
     {
       "added_at": "2024-01-19 14:53:58",
@@ -1123,6 +1099,30 @@
     {
       "added_at": "2024-01-19 14:53:58",
       "album": {
+        "name": "REALLY HER (INTL DELUXE)",
+        "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "duration_ms": 194675,
+      "name": "MILANO",
+      "url": "https://open.spotify.com/track/79gZiOMkdqpBquK2tClkbn"
+    },
+    {
+      "added_at": "2024-01-19 14:53:58",
+      "album": {
         "name": "Beg For Mercy",
         "url": "https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy"
       },
@@ -1155,6 +1155,22 @@
       "duration_ms": 193026,
       "name": "Hot (feat. Gunna)",
       "url": "https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9"
+    },
+    {
+      "added_at": "2024-01-19 14:53:58",
+      "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "M\u00e1quina do Tempo",
+      "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
     },
     {
       "added_at": "2024-01-19 14:53:58",
@@ -1244,9 +1260,9 @@
           "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
         }
       ],
-      "duration_ms": 230400,
-      "name": "M\u00e1quina do Tempo",
-      "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
+      "duration_ms": 164000,
+      "name": "777-666",
+      "url": "https://open.spotify.com/track/3sGcETRMuAgcPgjDpIkgMn"
     },
     {
       "added_at": "2024-01-19 14:53:58",
@@ -1283,26 +1299,6 @@
     {
       "added_at": "2024-01-19 14:53:58",
       "album": {
-        "name": "Collision Course (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Numb / Encore",
-      "url": "https://open.spotify.com/track/7dyluIqv7QYVTXXZiMWPHW"
-    },
-    {
-      "added_at": "2024-01-19 14:53:58",
-      "album": {
         "name": "The London (feat. J. Cole & Travis Scott)",
         "url": "https://open.spotify.com/album/6p9Y1K9yu3ojyS8fBJXUnp"
       },
@@ -1327,6 +1323,26 @@
     {
       "added_at": "2024-01-19 14:53:58",
       "album": {
+        "name": "Collision Course (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Numb / Encore",
+      "url": "https://open.spotify.com/track/7dyluIqv7QYVTXXZiMWPHW"
+    },
+    {
+      "added_at": "2024-01-19 14:53:58",
+      "album": {
         "name": "That's My N**** (with Meek Mill, YG & Snoop Dogg) [From Bright: The Album]",
         "url": "https://open.spotify.com/album/3wDMK9yGHVUEweHksZmGTU"
       },
@@ -1347,46 +1363,6 @@
       "duration_ms": 199746,
       "name": "That's My N**** (with Meek Mill, YG & Snoop Dogg)",
       "url": "https://open.spotify.com/track/3i1B1PnsfnOQPGVIzhf1lr"
-    },
-    {
-      "added_at": "2024-01-19 14:53:58",
-      "album": {
-        "name": "KIRK",
-        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 136366,
-      "name": "TOES (feat. Lil Baby & Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/2FvD20Z8aoWIePi7PoN8sG"
-    },
-    {
-      "added_at": "2024-01-19 14:53:58",
-      "album": {
-        "name": "M\u00e1quina do Tempo",
-        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "777-666",
-      "url": "https://open.spotify.com/track/3sGcETRMuAgcPgjDpIkgMn"
     },
     {
       "added_at": "2024-01-19 14:53:58",
@@ -1451,6 +1427,30 @@
       "duration_ms": 302117,
       "name": "A Cara do Crime (N\u00f3s Incomoda)",
       "url": "https://open.spotify.com/track/0wRn3ggAY1fIupTaVigdza"
+    },
+    {
+      "added_at": "2024-01-19 14:53:58",
+      "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 136366,
+      "name": "TOES (feat. Lil Baby & Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/2FvD20Z8aoWIePi7PoN8sG"
     },
     {
       "added_at": "2024-01-19 14:53:58",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-01-19 14:53:58",
       "album": {
-        "name": "Babushka Boi",
-        "url": "https://open.spotify.com/album/3zOkSAbg9o7gQ3yXtZhx5v"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 187105,
-      "name": "Babushka Boi",
-      "url": "https://open.spotify.com/track/643PW82aBMUa1FiWi5VQY7"
-    },
-    {
-      "added_at": "2024-01-19 14:53:58",
-      "album": {
         "name": "Internal Affairs",
         "url": "https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 173373,
       "name": "Simon Says",
       "url": "https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6"
+    },
+    {
+      "added_at": "2024-01-19 14:53:58",
+      "album": {
+        "name": "Babushka Boi",
+        "url": "https://open.spotify.com/album/3zOkSAbg9o7gQ3yXtZhx5v"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 187105,
+      "name": "Babushka Boi",
+      "url": "https://open.spotify.com/track/643PW82aBMUa1FiWi5VQY7"
     },
     {
       "added_at": "2024-01-19 14:53:58",
@@ -1811,6 +1811,30 @@
     {
       "added_at": "2024-01-19 14:53:58",
       "album": {
+        "name": "4REAL 4REAL",
+        "url": "https://open.spotify.com/album/5zuM1EG06X1J7VsIF1omRm"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        }
+      ],
+      "duration_ms": 299226,
+      "name": "Go Loko (feat. Tyga, Jon Z)",
+      "url": "https://open.spotify.com/track/1kK6DwzyXJSp58u5HYWwuD"
+    },
+    {
+      "added_at": "2024-01-19 14:53:58",
+      "album": {
         "name": "INEF\u00c1VEL",
         "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
       },
@@ -1835,30 +1859,6 @@
       "duration_ms": 245987,
       "name": "INEF\u00c1VEL (feat. Leviano)",
       "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
-    },
-    {
-      "added_at": "2024-01-19 14:53:58",
-      "album": {
-        "name": "4REAL 4REAL",
-        "url": "https://open.spotify.com/album/5zuM1EG06X1J7VsIF1omRm"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        }
-      ],
-      "duration_ms": 299226,
-      "name": "Go Loko (feat. Tyga, Jon Z)",
-      "url": "https://open.spotify.com/track/1kK6DwzyXJSp58u5HYWwuD"
     },
     {
       "added_at": "2024-01-19 14:53:58",

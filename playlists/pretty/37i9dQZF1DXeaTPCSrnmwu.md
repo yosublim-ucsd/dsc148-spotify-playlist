@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 
 > Disfruta de tu velada en la sedosa compañía de las 88 teclas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,946 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,954 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 46 | [Mambo Cantabile](https://open.spotify.com/track/2gAj421uW6j8YYXlfmoEu4) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Havana All\-Stars](https://open.spotify.com/artist/0nBotB1mcxkmT0PRFLNLTf) | [Descarga Caliente](https://open.spotify.com/album/0KJoSsENtZqiYu0oJvfqgy) | 2:35 |
 | 47 | [La mariposa](https://open.spotify.com/track/7hnHIeg2UVBYmxkvhmaOts) | [Carmín Aponte](https://open.spotify.com/artist/0xh9QyZHWTadoIZx6A20h9) | [La mariposa](https://open.spotify.com/album/7L1I2d8HsB8J9RmphxKlUj) | 2:14 |
 | 48 | [One Note Samba](https://open.spotify.com/track/5faeLcLFmircGhMFbzUzL7) | [Joe Harnell His Piano And Orchestra](https://open.spotify.com/artist/3WhRGRPieFbdf9HKgyVHaM) | [Fly Me to the Moon and the Bossa Nova Pops](https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm) | 2:52 |
-| 49 | [Y Se Enamoró La Luna](https://open.spotify.com/track/1L1622NXu08mj8wNhuMoDW) | [Sergio Monroy](https://open.spotify.com/artist/0d5ZCkfHIwK6lWcSjvOO4f) | [Como Un Juego](https://open.spotify.com/album/1D5XMlM3oXIkuTnA5aWjEF) | 4:39 |
-| 50 | [Bossa Nova Piano Jazz](https://open.spotify.com/track/2FszWCVt8Vk5gZfC5et22N) | [The Jazz Restaurant](https://open.spotify.com/artist/52gDZW5cytu21bwzOEaLy4) | [Classic Jazz on the Piano](https://open.spotify.com/album/3e8JN35km7noyKQSFK8GkF) | 2:17 |
+| 49 | [Bossa Nova Piano Jazz](https://open.spotify.com/track/2FszWCVt8Vk5gZfC5et22N) | [The Jazz Restaurant](https://open.spotify.com/artist/52gDZW5cytu21bwzOEaLy4) | [Classic Jazz on the Piano](https://open.spotify.com/album/3e8JN35km7noyKQSFK8GkF) | 2:17 |
+| 50 | [Ponce: Balada Mexicana](https://open.spotify.com/track/4yzZhD5t7imXg9rYdEr6Vh) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Daniela Liebman](https://open.spotify.com/artist/7MQNyVvd2ZSOEqPNlSgAJ3) | [Daniela Liebman](https://open.spotify.com/album/2eIQ6eOiV3gdXHLiyXIjMl) | 6:58 |
 
-Snapshot ID: `MCxlMjlmNGM0NzI5YzUyZWI2N2M4NjA3ZGU3MmRlZGIwZmQwM2Y1YzMx`
+Snapshot ID: `MCwwMzYzMWUwZTVjYmYzMjJjZmU5YmU3OWJiNDM4ZGM1N2U5ZGRkMDk4`

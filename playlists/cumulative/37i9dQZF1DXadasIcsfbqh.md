@@ -4,7 +4,7 @@
 
 > Pop country hits of today and tomorrow\. Cover: Ashley Cooke
 
-271 songs - 14 hr 12 min
+272 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Drive](https://open.spotify.com/track/4aRAElCM6ve3OISZnU7adb) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Drive](https://open.spotify.com/album/3G0NpRAD2eF80q7FWkiQ6Y) | 3:35 | 2021-12-17 | 2022-07-29 |
 | [Drive](https://open.spotify.com/track/6bBsaqsxVchRk0jCM5BAoe) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/23nMKl9EaTuOsQYX5ljJgs) | 3:35 | 2022-07-22 | 2022-09-12 |
 | [Drunk & I Miss You](https://open.spotify.com/track/7DoUCGBFzVTVfl4Nhl5BZE) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 2:47 | 2021-12-17 | 2022-06-22 |
+| [Easy To Miss](https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody’s Born With A Broken Heart \(the first few\)](https://open.spotify.com/album/10ttWGowlB9os9gWQzSwkT) | 2:49 | 2024-01-26 |  |
 | [Elephant in the Room \(feat\. Teddy Swims\)](https://open.spotify.com/track/66c9N3zuJe0mpC1JrJc1u1) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Elephant in the Room \(feat\. Teddy Swims\)](https://open.spotify.com/album/26WmAEmGUvMtHOd1emDVgG) | 2:43 | 2022-04-29 | 2022-09-22 |
 | [Enchanted \(Taylor's Version\)](https://open.spotify.com/track/3sW3oSbzsfecv9XoUdGs7h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 5:53 | 2023-07-07 |  |
 | [Fancy Like \(feat\. Kesha\)](https://open.spotify.com/track/2GgqnsIe9oNOfXN4YCI2eo) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Fancy Like \(feat\. Kesha\)](https://open.spotify.com/album/2Z6lVnDJpJPmFro7dOziHA) | 2:41 | 2021-12-17 |  |
@@ -262,7 +263,7 @@
 | [What My World Spins Around](https://open.spotify.com/track/6vjZxvzdAeHp7jv3R398Xm) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 3:06 | 2023-05-03 |  |
 | [What's It Gonna Take](https://open.spotify.com/track/4lfWuvMmfoONgwFH3jpN73) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [What's It Gonna Take](https://open.spotify.com/album/1p2FLEALTHFqwBM1t98LCS) | 2:57 | 2023-04-28 | 2023-05-19 |
 | [When Emma Falls in Love \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/0zo975x58DlXbZllWvfYhg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:12 | 2023-07-07 |  |
-| [When I Go](https://open.spotify.com/track/3f14ZwIm04kRnPiqBBIcui) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [When I Go](https://open.spotify.com/album/4c8ZAnCNfoJQN0BxloIgbS) | 3:19 | 2023-09-30 |  |
+| [When I Go](https://open.spotify.com/track/3f14ZwIm04kRnPiqBBIcui) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [When I Go](https://open.spotify.com/album/4c8ZAnCNfoJQN0BxloIgbS) | 3:19 | 2023-09-30 | 2024-02-01 |
 | [When the Whiskey Runs Out](https://open.spotify.com/track/4KqsYfPTKNhRqbNgx0izdi) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gone Too Soon \- EP](https://open.spotify.com/album/5WxxP29OW04oLYjFycOMqU) | 3:02 | 2021-12-17 | 2022-06-22 |
 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 | 2021-12-17 |  |
 | [When You Don't](https://open.spotify.com/track/7EXcUNcsRgWUPvujp1uDI3) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [When You Don't](https://open.spotify.com/album/3mArQu301uZWkNwfGJ51sE) | 3:33 | 2022-01-07 | 2022-07-26 |

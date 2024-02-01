@@ -4,7 +4,7 @@
 
 > Chill tunes to soundtrack your gaming session.
 
-234 songs - 13 hr 54 min
+235 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [The Beach](https://open.spotify.com/track/41CMzNSRuMlxCxBiFMJhpC) | [hélix](https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj) | [The Beach](https://open.spotify.com/album/0b7YKgSQgWkVxpYsbd4oBQ) | 2:36 | 2023-09-08 |  |
 | [The Choice](https://open.spotify.com/track/2IXJyG1DX93g2EhFXghz37) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Alan Umstead](https://open.spotify.com/artist/6dwp73sWeoHMobWygzWYDP) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 1:42 | 2019-12-16 | 2022-09-01 |
 | [The hall is dancing](https://open.spotify.com/track/6UnSlwVAEPblKJING6FH5Z) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [Transitions](https://open.spotify.com/album/7dopFnnInju2yjJe127paH) | 1:03 | 2023-09-08 |  |
-| [the lonely tree \(slowed\)](https://open.spotify.com/track/4Jjsn1g5vJJPdbPuJD2XBM) | [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x) | [the lonely tree](https://open.spotify.com/album/6RPBdWsjsNsJWN9i2M3tDe) | 2:45 | 2023-11-29 |  |
+| [the lonely tree \(slowed\)](https://open.spotify.com/track/4Jjsn1g5vJJPdbPuJD2XBM) | [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x) | [the lonely tree](https://open.spotify.com/album/6RPBdWsjsNsJWN9i2M3tDe) | 2:45 | 2023-11-29 | 2024-02-01 |
 | [The Lonely Tree Corecore Depressed](https://open.spotify.com/track/6op1kH6zHU9JJu7vRZwrap) | [Leox](https://open.spotify.com/artist/7c4E98MuM8NBQGrSDC2n9r) | [The Lonely Tree Corecore Depressed](https://open.spotify.com/album/5MS01aBztEzPQLUN5OZhpd) | 1:22 | 2023-11-29 |  |
 | [The Long Spring](https://open.spotify.com/track/1pRSp8bfk0kruIwrINVZ3u) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Thank You \(Anniversary Compilation\)](https://open.spotify.com/album/5sVNhFHuw3979uDE6QHBXS) | 5:34 | 2019-12-16 | 2022-07-29 |
 | [The Long Spring](https://open.spotify.com/track/5IXJMEnetYlvXhCykA4SHk) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Thank You](https://open.spotify.com/album/0lsemTnF3BwhU1ISBeyrOc) | 5:34 | 2019-12-16 | 2022-09-01 |
@@ -229,6 +229,7 @@
 | [Underwater](https://open.spotify.com/track/5TNDBtPIkduKFGdMSkOPQG) | [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Cold Thoughts](https://open.spotify.com/album/6j9efsz6v7I0WkDaHDrWfW) | 2:26 | 2022-08-31 | 2023-09-09 |
 | [Unravel \(From "Tokyo Ghoul"\)](https://open.spotify.com/track/5QOEvQ6z99KqGKGxz1yk6B) | [Palademix](https://open.spotify.com/artist/1M0ElT5wAoUe4uiNkp9BUh), [Nostalgic](https://open.spotify.com/artist/3V3FLYaI3cvXailPZOtcnl) | [Anime Lofi Beats](https://open.spotify.com/album/7xB0XmIJQxRoxK9mfLOgH6) | 2:48 | 2022-08-31 | 2022-10-06 |
 | [Until We Meet Again](https://open.spotify.com/track/78CpmGK47wePWOuKZhnus1) | [Peak Twilight](https://open.spotify.com/artist/25qDYhjZHVzZS6sOVzAVAx), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Departure](https://open.spotify.com/album/18OPZkuFLk129TscAuoDN7) | 3:09 | 2022-08-31 | 2023-09-09 |
+| [Vacations, Telephones \(slowed reverb\)](https://open.spotify.com/track/4WnfN86nnSxLlJtfp0ePTz) | [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x), [fedo DJ](https://open.spotify.com/artist/0sfCfF62IjeupwxdvH7KM3), [Sinom](https://open.spotify.com/artist/5M4Z9UYuF8o4fSrhnL6S5C) | [Vacations, Telephones \(slowed reverb\)](https://open.spotify.com/album/4xqBduFTqWrAPHE9iU2Vaw) | 5:12 | 2023-11-29 |  |
 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 | 2022-09-21 |  |
 | [walk](https://open.spotify.com/track/1qCgW8pAIIiDuoN1slJCd9) | [james king](https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli) | [hollow](https://open.spotify.com/album/7IFoewD0yAxNyLHHVqALoG) | 1:54 | 2023-09-08 |  |
 | [We Can Be Ghosts Now](https://open.spotify.com/track/4buZVQ9wDGXk8AbVeGM5E6) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Parklands](https://open.spotify.com/album/1NhIMd6O3u6F9Opm7skw9N) | 4:18 | 2019-12-16 | 2022-09-01 |

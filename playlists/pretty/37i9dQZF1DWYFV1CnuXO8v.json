@@ -1,12 +1,12 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 116560,
+  "num_followers": 116721,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTVhNWMwNzYyYmI4MzU0ZGRlYmFmODAyM2Y1OTRjMTgzN2Q2Mzcz",
+  "snapshot_id": "MCwzNTRmNjdiZWZhMjAwZjM4NmYyODRlNjlhYjIxZGUwMjgwZDJkYjlh",
   "tracks": [
     {
       "added_at": "2024-01-29 12:26:41",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-01-29 12:26:41",
       "album": {
+        "name": "\u0628\u0637\u0645\u0646\u0643",
+        "url": "https://open.spotify.com/album/1gq4RDcXHPenXBMl2tdmLM"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "duration_ms": 257278,
+      "name": "\u0628\u0643\u0644\u0645\u0647 \u0645\u0646\u0643",
+      "url": "https://open.spotify.com/track/3uuHB0RCzRGtja8A6YciOB"
+    },
+    {
+      "added_at": "2024-01-29 12:26:41",
+      "album": {
         "name": "Aamel Eh Fe Hayatak",
         "url": "https://open.spotify.com/album/3pwX3CktXBbpAiQuerfZUK"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 198422,
       "name": "Aamel Eh Fe Hayatak",
       "url": "https://open.spotify.com/track/0a25CdetJLml52JdQ1ravw"
-    },
-    {
-      "added_at": "2024-01-29 12:26:41",
-      "album": {
-        "name": "\u0628\u0637\u0645\u0646\u0643",
-        "url": "https://open.spotify.com/album/1gq4RDcXHPenXBMl2tdmLM"
-      },
-      "artists": [
-        {
-          "name": "Sherine",
-          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
-        }
-      ],
-      "duration_ms": 257278,
-      "name": "\u0628\u0643\u0644\u0645\u0647 \u0645\u0646\u0643",
-      "url": "https://open.spotify.com/track/3uuHB0RCzRGtja8A6YciOB"
     },
     {
       "added_at": "2024-01-29 12:26:41",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-01-29 12:26:41",
       "album": {
-        "name": "Hala Beek Ya Medala3",
-        "url": "https://open.spotify.com/album/1aawCrlstBcEGwCpWIaXS6"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Saad",
-          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
-        }
-      ],
-      "duration_ms": 167873,
-      "name": "Hala Beek Ya Medala3",
-      "url": "https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu"
-    },
-    {
-      "added_at": "2024-01-29 12:26:41",
-      "album": {
         "name": "Ahla Wahda",
         "url": "https://open.spotify.com/album/2NVcbbexvP2V3pDBtvXI6K"
       },
@@ -407,18 +391,18 @@
     {
       "added_at": "2024-01-29 12:26:41",
       "album": {
-        "name": "\u0623\u064a\u0627\u0645\u064a",
-        "url": "https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY"
+        "name": "Hala Beek Ya Medala3",
+        "url": "https://open.spotify.com/album/1aawCrlstBcEGwCpWIaXS6"
       },
       "artists": [
         {
-          "name": "Amr Mostafa",
-          "url": "https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg"
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
         }
       ],
-      "duration_ms": 233221,
-      "name": "\u0644\u0645\u0633\u062a\u0643",
-      "url": "https://open.spotify.com/track/4Wq3uwziBYLuc609Xzf8eS"
+      "duration_ms": 167873,
+      "name": "Hala Beek Ya Medala3",
+      "url": "https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu"
     },
     {
       "added_at": "2024-01-29 12:26:41",
@@ -435,6 +419,22 @@
       "duration_ms": 189176,
       "name": "Piece Of My Heart",
       "url": "https://open.spotify.com/track/0ifZ1W4CLyLdFzI29hmQFM"
+    },
+    {
+      "added_at": "2024-01-29 12:26:41",
+      "album": {
+        "name": "\u0623\u064a\u0627\u0645\u064a",
+        "url": "https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY"
+      },
+      "artists": [
+        {
+          "name": "Amr Mostafa",
+          "url": "https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg"
+        }
+      ],
+      "duration_ms": 233221,
+      "name": "\u0644\u0645\u0633\u062a\u0643",
+      "url": "https://open.spotify.com/track/4Wq3uwziBYLuc609Xzf8eS"
     },
     {
       "added_at": "2024-01-29 12:26:41",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-01-29 12:26:41",
       "album": {
-        "name": "Lehqt Nafsy",
-        "url": "https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq"
-      },
-      "artists": [
-        {
-          "name": "Assala Nasri",
-          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
-        }
-      ],
-      "duration_ms": 272628,
-      "name": "Ragel Mesaly",
-      "url": "https://open.spotify.com/track/4Wxp3iwiT4XJZ3lEA9A7Ok"
-    },
-    {
-      "added_at": "2024-01-29 12:26:41",
-      "album": {
         "name": "\u0644\u064a\u0644\u0649 \u0646\u0647\u0627\u0631\u0649",
         "url": "https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 237296,
       "name": "\u0648\u062d\u0634\u062a\u064a\u0646\u0649",
       "url": "https://open.spotify.com/track/3Fqohea4ItnRfb8uNdD4XZ"
+    },
+    {
+      "added_at": "2024-01-29 12:26:41",
+      "album": {
+        "name": "Lehqt Nafsy",
+        "url": "https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "duration_ms": 272628,
+      "name": "Ragel Mesaly",
+      "url": "https://open.spotify.com/track/4Wxp3iwiT4XJZ3lEA9A7Ok"
     },
     {
       "added_at": "2024-01-29 12:26:41",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-01-29 12:26:41",
       "album": {
-        "name": "Ya Bakhty Beh",
-        "url": "https://open.spotify.com/album/0tFBtGwjlCel82hP0xN1hy"
-      },
-      "artists": [
-        {
-          "name": "Jannat",
-          "url": "https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch"
-        }
-      ],
-      "duration_ms": 195535,
-      "name": "Ya Bakhty Beh",
-      "url": "https://open.spotify.com/track/1CEYTW1P2mKpZgxouGDw8f"
-    },
-    {
-      "added_at": "2024-01-29 12:26:41",
-      "album": {
         "name": "\u0642\u0644\u0628\u064a \u0648\u0631\u0648\u062d\u064a \u0648\u0639\u0645\u0631\u064a",
         "url": "https://open.spotify.com/album/7kHuWSyD2vpXBgsgqSfG6H"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 288232,
       "name": "\u0642\u0644\u0628\u0649 \u0648 \u0631\u0648\u062d\u0649 \u0648 \u0639\u0645\u0631\u0649",
       "url": "https://open.spotify.com/track/5R0OJb3fdLxz4lOEJ3RAOj"
+    },
+    {
+      "added_at": "2024-01-29 12:26:41",
+      "album": {
+        "name": "Ya Bakhty Beh",
+        "url": "https://open.spotify.com/album/0tFBtGwjlCel82hP0xN1hy"
+      },
+      "artists": [
+        {
+          "name": "Jannat",
+          "url": "https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch"
+        }
+      ],
+      "duration_ms": 195535,
+      "name": "Ya Bakhty Beh",
+      "url": "https://open.spotify.com/track/1CEYTW1P2mKpZgxouGDw8f"
     },
     {
       "added_at": "2024-01-29 12:26:41",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-01-29 12:26:41",
       "album": {
-        "name": "\u0628\u0637\u0645\u0646\u0643",
-        "url": "https://open.spotify.com/album/1gq4RDcXHPenXBMl2tdmLM"
-      },
-      "artists": [
-        {
-          "name": "Sherine",
-          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
-        }
-      ],
-      "duration_ms": 289123,
-      "name": "\u0628\u0637\u0645\u0646\u0643",
-      "url": "https://open.spotify.com/track/4AqmPix9i32pQb33bsSWYG"
-    },
-    {
-      "added_at": "2024-01-29 12:26:41",
-      "album": {
         "name": "\u062d\u0627\u0644\u0629 \u062e\u0627\u0635\u0629 \u062c\u062f\u0627",
         "url": "https://open.spotify.com/album/7KDHyEqL0S7dfX6sDVFZ5E"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 332531,
       "name": "\u064a\u0627\u0631\u064a\u062a\u0643 \u0641\u0627\u0647\u0645\u0646\u064a",
       "url": "https://open.spotify.com/track/5bnenicPtS79VtpSNqcw1F"
+    },
+    {
+      "added_at": "2024-01-29 12:26:41",
+      "album": {
+        "name": "\u0628\u0637\u0645\u0646\u0643",
+        "url": "https://open.spotify.com/album/1gq4RDcXHPenXBMl2tdmLM"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "duration_ms": 289123,
+      "name": "\u0628\u0637\u0645\u0646\u0643",
+      "url": "https://open.spotify.com/track/4AqmPix9i32pQb33bsSWYG"
     },
     {
       "added_at": "2024-01-29 12:26:41",

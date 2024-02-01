@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Lukas Agustinho, Gabriela Rocha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,020,400 likes - 100 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,020,559 likes - 100 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 62 | [Nem Um Segundo](https://open.spotify.com/track/7epXtZHT9aSqU4WRpbNrBA) | [Gabriel Pompeo](https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Nem Um Segundo](https://open.spotify.com/album/1L0d5ejVgEd1og01wwET1u) | 5:49 |
 | 63 | [Dependente](https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9) | 5:54 |
 | 64 | [Ele Vem / A Cidade Santa \- Ao Vivo](https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Ele Vem / A Cidade Santa \(Ao Vivo\)](https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ) | 5:29 |
-| 65 | [O Amor Tem Um Nome \- Ao Vivo](https://open.spotify.com/track/6iNLDkJjEGaqguwPWwfrXx) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [O Amor Tem Um Nome \(Ao Vivo\)](https://open.spotify.com/album/1pYPXvssuXozUQKxQu5xt2) | 7:07 |
-| 66 | [Você Não Imagina](https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Você Não Imagina](https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu) | 5:18 |
+| 65 | [Você Não Imagina](https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Você Não Imagina](https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu) | 5:18 |
+| 66 | [O Amor Tem Um Nome \- Ao Vivo](https://open.spotify.com/track/6iNLDkJjEGaqguwPWwfrXx) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [O Amor Tem Um Nome \(Ao Vivo\)](https://open.spotify.com/album/1pYPXvssuXozUQKxQu5xt2) | 7:07 |
 | 67 | [Senhor dos Exércitos \- Ao Vivo](https://open.spotify.com/track/6zeA7gTkx0Cttexj4XOiHr) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Senhor dos Exércitos \(Ao Vivo\)](https://open.spotify.com/album/3A18e58JoJ0SItSd62SVoG) | 4:41 |
 | 68 | [Foi Deus](https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Foi Deus](https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo) | 7:33 |
 | 69 | [Todos Os Meus Dias \- Ao Vivo](https://open.spotify.com/track/6x5Q9YWT21xuqYU4odl6XA) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Gabriel Guedes \(Ao Vivo\)](https://open.spotify.com/album/4BrsoV9CkEuZsHN0LssDZs) | 3:24 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 85 | [Nós Te Adoramos \- Ao Vivo](https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Nós Te Adoramos \(Ao Vivo\)](https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76) | 7:18 |
 | 86 | [Deus Cuida De Mim \- Ao Vivo](https://open.spotify.com/track/4C3JM08kRIAowxZJHuZ6Mk) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memórias 3 \- Lado A \(Ao Vivo\)](https://open.spotify.com/album/6YyvuTGa4V9R37qFNXQ0tI) | 4:28 |
 | 87 | [Aviva\-nos \(Ao Vivo\)](https://open.spotify.com/track/03mpdr8HJfKqihrPDl9F14) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Aviva\-nos \(Ao Vivo\)](https://open.spotify.com/album/0WvYxMgrxjbcpSlLexrjRT) | 6:02 |
-| 88 | [Primeira Essência](https://open.spotify.com/track/2E5vUmPIQLIuqV0gE67bWy) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Canta, Vol\. 2](https://open.spotify.com/album/6CuBKE2wSnkXV8FVyRql8X) | 4:40 |
+| 88 | [De Ti Preciso \- Ao Vivo](https://open.spotify.com/track/3AbOa504l9MHWKjeUkiITQ) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [De Ti Preciso \(Ao Vivo\)](https://open.spotify.com/album/6hwTDPKPjPBcgKfOkCZ2F0) | 5:13 |
 | 89 | [Rei da Glória \- Ao Vivo](https://open.spotify.com/track/5bkQg34pw8HgHEWIHVrR9a) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Noite de Adoração II \(Ao Vivo\)](https://open.spotify.com/album/2CeWFrnYgd41qj5qf7TXnp) | 8:33 |
-| 90 | [De Ti Preciso \- Ao Vivo](https://open.spotify.com/track/3AbOa504l9MHWKjeUkiITQ) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [De Ti Preciso \(Ao Vivo\)](https://open.spotify.com/album/6hwTDPKPjPBcgKfOkCZ2F0) | 5:13 |
+| 90 | [Primeira Essência](https://open.spotify.com/track/2E5vUmPIQLIuqV0gE67bWy) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Canta, Vol\. 2](https://open.spotify.com/album/6CuBKE2wSnkXV8FVyRql8X) | 4:40 |
 | 91 | [Quem é Como Nosso Deus \(Ao Vivo\)](https://open.spotify.com/track/4oRVmlLVrRaQcsce0od2Q0) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Felippe Valadão](https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05) | [Quem é Como Nosso Deus \(Ao Vivo\)](https://open.spotify.com/album/6VYnO45xAXEfO3w3JT5zpp) | 6:30 |
 | 92 | [El Shaday \(Ao Vivo\)](https://open.spotify.com/track/2kuSwazCXbTJO52vH4Yrfu) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [El Shaday \(Ao Vivo\)](https://open.spotify.com/album/2DchFCysxlnI0flscFLnEB) | 5:23 |
 | 93 | [Uma Hora é Pouco \- Ao Vivo](https://open.spotify.com/track/2wqR00j3EwhCORlq8sHYgp) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Presença \(Ao Vivo\)](https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT) | 10:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 99 | [Tua Presença \- Ao Vivo](https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV) | 5:20 |
 | 100 | [O Grande Eu Sou](https://open.spotify.com/track/4bvgiKYPehGp4OUSflTPTt) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [O Grande Eu Sou](https://open.spotify.com/album/62QQniKZ3Sw4SAR2s6Er89) | 6:28 |
 
-Snapshot ID: `MCw4YzYwNWZmYzAwOTUyZjAyNzJlMzFlNzg0MWYyMmQyNmEzY2JmNTUy`
+Snapshot ID: `MCw0ODVhODVjN2M2N2JlNTY2YTZiZGMwZDNjN2RjZjgxZjVkYjhmZjIw`

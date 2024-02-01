@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj?si=UC5GokWQQZObai5SqjeeTA">Sinmidele</a>
 
-140 songs - 8 hr 58 min
+141 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Love Me So](https://open.spotify.com/track/71JY98oO0Tf3J7AIi1zYne) | [Naomee](https://open.spotify.com/artist/3No8oTslmtUkR63cY6gWp0) | [Love Me So](https://open.spotify.com/album/3Eil8mJ7L80ULdDnRVU9Hp) | 3:26 | 2023-11-17 | 2024-01-26 |
 | [Loved](https://open.spotify.com/track/6MG67vKhgT79hSKS9PHPuY) | [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv) | [Loved](https://open.spotify.com/album/7HYm3t0UoKBFI2n0xRIrUE) | 3:08 | 2024-01-19 |  |
 | [Melody](https://open.spotify.com/track/34JlSUIdXJXQiJ1YFbDUIQ) | [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v) | [Melody](https://open.spotify.com/album/1UcN3GPJM2je32M74xq0R3) | 2:01 | 2023-10-20 | 2024-01-26 |
-| [Memories](https://open.spotify.com/track/06Aw2mGplT34DH8p685eKc) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Just Derrick](https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd) | [Memories](https://open.spotify.com/album/2OCCvqQ45xZsfqYXCVHFTR) | 3:15 | 2024-01-26 |  |
+| [Memories](https://open.spotify.com/track/06Aw2mGplT34DH8p685eKc) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Just Derrick](https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd) | [Memories](https://open.spotify.com/album/2OCCvqQ45xZsfqYXCVHFTR) | 3:15 | 2024-01-26 | 2024-02-01 |
+| [Memories](https://open.spotify.com/track/2cJZ2nyLpIzHSQcZzDmiWL) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Just Derrick](https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd) | [Memories](https://open.spotify.com/album/10LzKOFf7M5m1LVAucGsHM) | 3:15 | 2024-01-26 |  |
 | [Mighty](https://open.spotify.com/track/6CpeBLNw7lzMnokEYgUjzf) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Mighty](https://open.spotify.com/album/6HJ0pySgPrueCDO3RAakuQ) | 3:16 | 2023-11-10 | 2023-12-15 |
 | [Mood](https://open.spotify.com/track/02hayZnsBdxsXdY1SZH1Ve) | [Izee Smith](https://open.spotify.com/artist/6GyPcrxlrvHEre7Rb63RHt) | [Mood](https://open.spotify.com/album/0BKHdObJ1b5mQqs207vJRn) | 2:49 | 2024-01-26 |  |
 | [Morning](https://open.spotify.com/track/4CePds7i6rqVBH0bD1vTIz) | [Lofi Prxxchr](https://open.spotify.com/artist/7KFHENWIur94kSsTfOndSJ), [King Davo](https://open.spotify.com/artist/6xevTwlQT0l6n96JSpjmTl), [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq) | [Morning](https://open.spotify.com/album/2saEGhtWVOFaOGYtQr0ly4) | 2:33 | 2023-10-20 | 2023-12-15 |

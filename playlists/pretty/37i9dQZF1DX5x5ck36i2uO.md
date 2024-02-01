@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,208 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,215 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 39 | [0&4](https://open.spotify.com/track/3cxyod10j12ByJjRoWAAUo) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA) | 3:30 |
 | 40 | [SOAP](https://open.spotify.com/track/1mI5Nfw6iStTmKyhnJVi6k) | [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [My Original Sound Track](https://open.spotify.com/album/4M7LxD3dkMj4O6NCddBQKm) | 3:11 |
 | 41 | [I Get Lifted X Beenzino](https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY) | [WALKIN', Vol\. 1](https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E) | 4:17 |
-| 42 | [변하지 않아 \(Feat\. HAON, CHANGMO\)](https://open.spotify.com/track/02gmOrzbDgLmxo2gNlux6x) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [김하온\(HAON\)](https://open.spotify.com/artist/4LglziYr7z4b0eBuPqpOtu), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [NEVERLAND](https://open.spotify.com/album/6A5LxMYSz3SmP2FffRc2wB) | 4:03 |
-| 43 | [SS \(Prod\. by KHYO\)](https://open.spotify.com/track/7GltFE6DxuGvPH0mQ9Snlj) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [SS](https://open.spotify.com/album/009trYzXkJyK7YSoXpHOyR) | 3:25 |
+| 42 | [SS \(Prod\. by KHYO\)](https://open.spotify.com/track/7GltFE6DxuGvPH0mQ9Snlj) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [SS](https://open.spotify.com/album/009trYzXkJyK7YSoXpHOyR) | 3:25 |
+| 43 | [변하지 않아 \(Feat\. HAON, CHANGMO\)](https://open.spotify.com/track/02gmOrzbDgLmxo2gNlux6x) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [김하온\(HAON\)](https://open.spotify.com/artist/4LglziYr7z4b0eBuPqpOtu), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [NEVERLAND](https://open.spotify.com/album/6A5LxMYSz3SmP2FffRc2wB) | 4:03 |
 | 44 | [been](https://open.spotify.com/track/2MDyIYGyysalcAUI6hObMn) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u, Pt\. 1](https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq) | 3:13 |
 | 45 | [Girl in New York \(jazz\)](https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 4:00 |
 | 46 | [INSTANT \(feat\. SUMIN\)](https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [INSTANT \(feat\. SUMIN\)](https://open.spotify.com/album/6L6muVWjU1eq1StwzmNkV0) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 49 | [Room Service](https://open.spotify.com/track/2T3ghpZrxmbrn9ukDmrc9W) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 2:35 |
 | 50 | [Price Tag \(feat\. Jessi, Ja Mezz\)](https://open.spotify.com/track/3bOJ2oxgtl5XikXtdGVxUv) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [Ja Mezz](https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi) | [Summer Grooves](https://open.spotify.com/album/5I13UDFjkrH0U9btBd4Mey) | 3:41 |
 
-Snapshot ID: `MCw0NmIxNWM3MzFhODRhZDc2MTU0M2Y5YzA1YmJjYTZkYjgxYjg2Yzg2`
+Snapshot ID: `MCw3ZDE5ZTdmM2QxZjMwNzM1ODA0NTFiMDRmYWIyYzQ5MmMwZTQ0NDE1`

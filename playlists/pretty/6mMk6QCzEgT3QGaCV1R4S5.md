@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 
 > Get moving on the dancefloor with some big room beats! Cover: Frank Walker &amp; Nate Smith
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 37,031 likes - 60 songs - 3 hr 2 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 37,022 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 | 27 | [Saving Up \- Loods Remix](https://open.spotify.com/track/16BIjTqG2R5PV2BrMOjU3y) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Saving Up \(Loods Remix\)](https://open.spotify.com/album/4dQRmXBtksya2s35MxRxNF) | 3:30 |
 | 28 | [Strangers \(feat\. Linney\) \- Chill Mix](https://open.spotify.com/track/2RPBL5Qhg0WQL1Rd8drHyl) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Strangers \(feat Linney\) \(Chill Mix\)](https://open.spotify.com/album/4IoB6UPCaBNrnbeIE6Mhb8) | 2:45 |
 | 29 | [Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/1R0KvMBXz6qzjAEIS57Sz8) | 3:24 |
-| 30 | [Need a Hit](https://open.spotify.com/track/7vUzucnemSOROrnuPRyUzh) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Gero](https://open.spotify.com/artist/0qVlTFcbWu2eNXGdHrp0g1) | [Need a Hit](https://open.spotify.com/album/3rvmNL5HkzmKWkHrS9nUyY) | 3:53 |
+| 30 | [Need a Hit](https://open.spotify.com/track/7vUzucnemSOROrnuPRyUzh) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Gero](https://open.spotify.com/artist/0qVlTFcbWu2eNXGdHrp0g1), [Club Azur](https://open.spotify.com/artist/7HjhcFRLzzNysy05pyufdh) | [Need a Hit](https://open.spotify.com/album/3rvmNL5HkzmKWkHrS9nUyY) | 3:53 |
 | 31 | [Keys Of Life \- The Hacker Remix](https://open.spotify.com/track/2i1kVh7GW4VTwIjHhj1YnM) | [Klaus Nomi](https://open.spotify.com/artist/1uFG5Tg7iA7wd56RchxvWw), [The Hacker](https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp) | [Remixes](https://open.spotify.com/album/2MY0HHDmXKaWglkNUqT19i) | 6:06 |
 | 32 | [Front To Back](https://open.spotify.com/track/1gslLpyXjUJ42G8us7B2xm) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Electric Polar Bears](https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI) | [Front To Back](https://open.spotify.com/album/2pCuVHIlb6NnyC9PrXt9z8) | 2:27 |
 | 33 | [Think Of Us](https://open.spotify.com/track/4jpNmNXMzO3aVgJhy8sdxL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Summertime Friends](https://open.spotify.com/album/06NJ4sxQJg1BiSGH9WkzRE) | 2:50 |
