@@ -1,7 +1,7 @@
 {
-  "2024-02-01": 167672,
+  "2024-02-02": 167782,
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance & electronic by independent artists and labels. Cover: Ninajirachi. Artwork by Rewina Beshue.",
+  "description": "The best new dance & electronic by independent artists and labels. Cover: Nikita, the Wicked. Artwork by Rewina Beshue.",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -589,6 +589,28 @@
       "duration_ms": 197647,
       "name": "A Bit Too Much",
       "url": "https://open.spotify.com/track/1ECYQUZqeB5Dn8kiJPTLcZ"
+    },
+    {
+      "album": {
+        "name": "A Bun Dance",
+        "url": "https://open.spotify.com/album/28CrxGTKfGvQ7mZClO12de"
+      },
+      "artists": [
+        {
+          "name": "Stump Valley",
+          "url": "https://open.spotify.com/artist/3r4s2LNC0447RF4m953o95"
+        },
+        {
+          "name": "lRenee",
+          "url": "https://open.spotify.com/artist/3TSNwu6eMQQTMShWRvgJR4"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231585,
+      "name": "A Bun Dance",
+      "url": "https://open.spotify.com/track/4MYwGX9KS0EfzCvqCFpiaR"
     },
     {
       "album": {
@@ -2853,7 +2875,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 210232,
       "name": "Bassline Pumping",
       "url": "https://open.spotify.com/track/4M11hrPXG4kOKGJoStB0QA"
@@ -3149,7 +3171,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 333023,
       "name": "Beijo",
       "url": "https://open.spotify.com/track/4JakQvlYL2KmvZGYGOqOb9"
@@ -8026,6 +8048,28 @@
     },
     {
       "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/3v991d9HB0a1CMHmFgSu7q"
+      },
+      "artists": [
+        {
+          "name": "Cent",
+          "url": "https://open.spotify.com/artist/19k9TrKzU0Jq8UF5ROVK7d"
+        },
+        {
+          "name": "Katia B",
+          "url": "https://open.spotify.com/artist/4WmvFchREyHZdwvDlffQaU"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/6kgVM1XFTsKsGvyzaMgIi2"
+    },
+    {
+      "album": {
         "name": "Deux",
         "url": "https://open.spotify.com/album/0VTJgFKpAoGJYVYcu4LtM0"
       },
@@ -9315,7 +9359,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 189699,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2uXRD5GktE9KnEY3C7m1m4"
@@ -10497,6 +10541,24 @@
       "duration_ms": 316194,
       "name": "Every Day the Sun Comes Up",
       "url": "https://open.spotify.com/track/6IgxlOpJ1o16NqJtNQwAUo"
+    },
+    {
+      "album": {
+        "name": "Every Step Of The Way",
+        "url": "https://open.spotify.com/album/7ezlRiF9sl5i7aS3tDl0mW"
+      },
+      "artists": [
+        {
+          "name": "Villager",
+          "url": "https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256647,
+      "name": "Every Step Of The Way",
+      "url": "https://open.spotify.com/track/3xjEIfMPjo33jeA5wMkIQq"
     },
     {
       "album": {
@@ -11818,6 +11880,24 @@
     },
     {
       "album": {
+        "name": "Fly Day Chinatown",
+        "url": "https://open.spotify.com/album/3lxHfNxN40eJTVYtqcB2ak"
+      },
+      "artists": [
+        {
+          "name": "Stonsterr",
+          "url": "https://open.spotify.com/artist/7Lb9TlN4fxCIbc0HwrYLWP"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172928,
+      "name": "Fly Day Chinatown",
+      "url": "https://open.spotify.com/track/0aEl0TBH9Lq1NOBJm9DPV7"
+    },
+    {
+      "album": {
         "name": "Flying High",
         "url": "https://open.spotify.com/album/6kh10pfqwMB1FNmFNvOa9n"
       },
@@ -12067,6 +12147,24 @@
       "duration_ms": 198525,
       "name": "Forget U",
       "url": "https://open.spotify.com/track/4Z8KaWhkLADieRBTDLJxkD"
+    },
+    {
+      "album": {
+        "name": "forget you",
+        "url": "https://open.spotify.com/album/5QquIokU1OAyf4HD0EuxsJ"
+      },
+      "artists": [
+        {
+          "name": "devin",
+          "url": "https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130616,
+      "name": "forget you",
+      "url": "https://open.spotify.com/track/4vi667XVbRUTchDlwk2fA7"
     },
     {
       "album": {
@@ -15700,6 +15798,24 @@
     },
     {
       "album": {
+        "name": "I Am Ready",
+        "url": "https://open.spotify.com/album/6Qgi8fVSP4w4Dhexq7Fes3"
+      },
+      "artists": [
+        {
+          "name": "Upper90",
+          "url": "https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190031,
+      "name": "I Am Ready",
+      "url": "https://open.spotify.com/track/4CH9G8YVkKukHd2pDXUOS0"
+    },
+    {
+      "album": {
         "name": "I can share my love with you",
         "url": "https://open.spotify.com/album/6FRBIhuZHyt4YF2eFAACiX"
       },
@@ -15715,6 +15831,28 @@
       "duration_ms": 216204,
       "name": "I can share my love with you",
       "url": "https://open.spotify.com/track/0QAanF5Xa61yfG3ShSJRMl"
+    },
+    {
+      "album": {
+        "name": "Past Life",
+        "url": "https://open.spotify.com/album/3ChUtFrg7ZdQ1YjhnrOs6M"
+      },
+      "artists": [
+        {
+          "name": "Latas",
+          "url": "https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb"
+        },
+        {
+          "name": "Ak\u0131n Paksoy",
+          "url": "https://open.spotify.com/artist/3CeeyVbfjyxwIWmH5us6vZ"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "I Didn't Know I Could Fly",
+      "url": "https://open.spotify.com/track/2VdFZZtTKxcBWPFct0WxiX"
     },
     {
       "album": {
@@ -15747,7 +15885,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 325714,
       "name": "I Don't Want To Feel This Way!",
       "url": "https://open.spotify.com/track/777ytpf2uFPQZFgT1iGc7O"
@@ -15921,7 +16059,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 285882,
       "name": "I LOVED U",
       "url": "https://open.spotify.com/track/7ssTepSLTb1XPn73YkVm0q"
@@ -16469,6 +16607,24 @@
       "duration_ms": 260540,
       "name": "Immunity",
       "url": "https://open.spotify.com/track/4RVcOvimtLKS94rEEzxYtB"
+    },
+    {
+      "album": {
+        "name": "In Another Life",
+        "url": "https://open.spotify.com/album/3kA0474i8lXVPAHi2w9awS"
+      },
+      "artists": [
+        {
+          "name": "Strath",
+          "url": "https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321238,
+      "name": "In Another Life",
+      "url": "https://open.spotify.com/track/66hwliyazffboYVlZHX0Cl"
     },
     {
       "album": {
@@ -17233,6 +17389,24 @@
       "duration_ms": 224004,
       "name": "It\u2019s Not You, It\u2019s Me - Club Mix",
       "url": "https://open.spotify.com/track/2CKrEKGMFoPzagBkhocFKW"
+    },
+    {
+      "album": {
+        "name": "echoes of haart",
+        "url": "https://open.spotify.com/album/2IuqyGTpodcwzvUW8NZFke"
+      },
+      "artists": [
+        {
+          "name": "heartaake",
+          "url": "https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204923,
+      "name": "ive been thinking",
+      "url": "https://open.spotify.com/track/5j8YGb3u5uoryswPIpgT7v"
     },
     {
       "album": {
@@ -20362,6 +20536,24 @@
     },
     {
       "album": {
+        "name": "Cool Down Cowboy",
+        "url": "https://open.spotify.com/album/46tVUkJXJkgQsgPXGQSsUF"
+      },
+      "artists": [
+        {
+          "name": "Scarlett O'Malley",
+          "url": "https://open.spotify.com/artist/3M9nSw4sBZae8JV6uEefMq"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324964,
+      "name": "Manifest",
+      "url": "https://open.spotify.com/track/17SKTO5gc305T80NjT0YjW"
+    },
+    {
+      "album": {
         "name": "Manizer",
         "url": "https://open.spotify.com/album/0OY87u7mQKYk8nJ96Br0QM"
       },
@@ -23123,7 +23315,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 174444,
       "name": "oh honey",
       "url": "https://open.spotify.com/track/5N0SB5O8pStkjfVk4Zm1Un"
@@ -26919,7 +27111,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 162613,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/0GABupLNci24O3frjBJaBo"
@@ -28197,7 +28389,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 225454,
       "name": "Skin to Skin",
       "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
@@ -29315,6 +29507,32 @@
       "duration_ms": 256006,
       "name": "Spring Heat",
       "url": "https://open.spotify.com/track/2AhPUft88a5JcO0BqXqPE0"
+    },
+    {
+      "album": {
+        "name": "Squad Up",
+        "url": "https://open.spotify.com/album/1S2JXFkTAuO1OYBF1uvwvj"
+      },
+      "artists": [
+        {
+          "name": "Thys",
+          "url": "https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR"
+        },
+        {
+          "name": "Big Dope P",
+          "url": "https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe"
+        },
+        {
+          "name": "TT The Artist",
+          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Squad Up",
+      "url": "https://open.spotify.com/track/1MNSnH2vMRV12gDZTGwFNN"
     },
     {
       "album": {
@@ -31403,6 +31621,24 @@
       "duration_ms": 176267,
       "name": "That's How I Know",
       "url": "https://open.spotify.com/track/483llvndLWRuF9WoDxO2Ol"
+    },
+    {
+      "album": {
+        "name": "That's My Shit",
+        "url": "https://open.spotify.com/album/15C7YUmMrXy00kJB4Rlp5V"
+      },
+      "artists": [
+        {
+          "name": "Biicla",
+          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115963,
+      "name": "That's My Shit",
+      "url": "https://open.spotify.com/track/0V3mQisaCvNV2EOxn1N29C"
     },
     {
       "album": {
@@ -33705,6 +33941,24 @@
       "duration_ms": 184835,
       "name": "Undo U - 4x4 Mix",
       "url": "https://open.spotify.com/track/4Jwmw6mn6D3oUPfptF7Ng7"
+    },
+    {
+      "album": {
+        "name": "undrcut",
+        "url": "https://open.spotify.com/album/1tiiz9aRA7aRkDMc5NJ0WR"
+      },
+      "artists": [
+        {
+          "name": "Juno Mamba",
+          "url": "https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242277,
+      "name": "undrcut",
+      "url": "https://open.spotify.com/track/1Q6aZrlfWlLCNs7BMDLhej"
     },
     {
       "album": {

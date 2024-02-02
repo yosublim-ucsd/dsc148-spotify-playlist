@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 66962,
+  "2024-02-02": 66990,
   "date_first_scraped": "2022-05-26",
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
   "name": "Morning Blues",
@@ -437,7 +437,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 246909,
       "name": "Black Leathered Lungs",
       "url": "https://open.spotify.com/track/69xgeczPfVE0Ongs7q8mYU"
@@ -2875,6 +2875,24 @@
       "duration_ms": 144763,
       "name": "Painting the Clouds with Sunshine",
       "url": "https://open.spotify.com/track/2S1zh33AX8zXEplNpwvMPI"
+    },
+    {
+      "album": {
+        "name": "Jalopy Records 7\" Series: Jerron Paxton",
+        "url": "https://open.spotify.com/album/50LQ4ShQydsjdlZq46tEUT"
+      },
+      "artists": [
+        {
+          "name": "Blind Boy Paxton",
+          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144763,
+      "name": "Painting the Clouds with Sunshine",
+      "url": "https://open.spotify.com/track/3iJ7zN5gMrIoL5Q3oVpe5g"
     },
     {
       "album": {

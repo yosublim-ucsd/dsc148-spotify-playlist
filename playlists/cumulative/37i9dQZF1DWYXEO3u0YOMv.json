@@ -706,6 +706,28 @@
     {
       "album": {
         "name": "HHOOWWLL",
+        "url": "https://open.spotify.com/album/5iBBLdfvYDytrlaRUXQLVC"
+      },
+      "artists": [
+        {
+          "name": "Gero",
+          "url": "https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK"
+        },
+        {
+          "name": "Araki",
+          "url": "https://open.spotify.com/artist/09ONFXQOVjyy3AhFlBsZx8"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245946,
+      "name": "HHOOWWLL",
+      "url": "https://open.spotify.com/track/6GIg2usZhIVmRx9VeNS8YV"
+    },
+    {
+      "album": {
+        "name": "HHOOWWLL",
         "url": "https://open.spotify.com/album/5ELxBrDn6T7zqxiifb1X4V"
       },
       "artists": [
@@ -716,7 +738,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 245946,
       "name": "HHOOWWLL",
       "url": "https://open.spotify.com/track/4RCqYqtn5WTmb2J5SfWp91"

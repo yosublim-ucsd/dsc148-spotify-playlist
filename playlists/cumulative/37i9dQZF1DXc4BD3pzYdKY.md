@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:6CQGrt3AJ2gx5oMSR0mwbl">1K Phew</a>
 
-903 songs - 1 day 20 hr 49 min
+904 songs - 1 day 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [Ghost](https://open.spotify.com/track/2rFrZFNFg76l1TCHCU0WqQ) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Ghost](https://open.spotify.com/album/244PN0XvpKImjCg50MkQbq) | 2:25 | 2022-10-29 | 2022-12-04 |
 | [Giants](https://open.spotify.com/track/0N8R08onW7h8ghBhns9TqV) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Giants](https://open.spotify.com/album/0spOTYRQFWRbNwapBauYmg) | 2:43 | 2023-08-25 |  |
 | [GIRLGANG Freestyle](https://open.spotify.com/track/2MV1HLZpmWM6GNGIvX38Ki) | [Relena\-Rochelle](https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Mykiiie](https://open.spotify.com/artist/4JSnrso8KwkOdVhYh7iFTE) | [GIRLGANG Freestyle](https://open.spotify.com/album/47ak5YwAJltPiEntEH2CNt) | 2:46 | 2022-06-25 | 2022-08-09 |
-| [Girls Don't Cry \(Gibberish\)](https://open.spotify.com/track/4slzYQ2rU6lcPqBETDLY9y) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [Girls Don't Cry \(Gibberish\)](https://open.spotify.com/album/6ZHLFeiaJgY4lRLWGdE1pj) | 2:55 | 2023-12-15 |  |
+| [Girls Don't Cry \(Gibberish\)](https://open.spotify.com/track/4slzYQ2rU6lcPqBETDLY9y) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [Girls Don't Cry \(Gibberish\)](https://open.spotify.com/album/6ZHLFeiaJgY4lRLWGdE1pj) | 2:55 | 2023-12-15 | 2024-02-02 |
 | [Give You My Last](https://open.spotify.com/track/7BaTq18k26aXmT0FJMCudt) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Give You My Last](https://open.spotify.com/album/5JrgdyLCtCwoNmVCFkiOZC) | 2:52 | 2022-06-25 | 2022-07-18 |
 | [Glory](https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Glory](https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC) | 2:30 | 2022-05-28 | 2023-12-16 |
 | [Glory](https://open.spotify.com/track/1wj7byFCa1wtrOyLJagRoM) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ), [Disciple Theory](https://open.spotify.com/artist/7963a7BIGR9VOUXhGQrC2p) | [Built Different](https://open.spotify.com/album/1LgsK7B03yMxBfSfPfXtOy) | 3:42 | 2023-03-25 | 2023-04-11 |
@@ -747,6 +747,7 @@
 | [Stop Us?](https://open.spotify.com/track/7dXuzF4pxww77NnQX9CEy0) | [Cephas](https://open.spotify.com/artist/6ullBRZTTK0lT7fUqbgbKD), [Datin](https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4) | [Stop Us?](https://open.spotify.com/album/5O2sv74gCLTALr7Afn6xp1) | 3:41 | 2021-12-11 | 2022-01-23 |
 | [Store Run](https://open.spotify.com/track/6YG19lUmx3VD0Bb9ZhqqNI) | [Th3 Saga](https://open.spotify.com/artist/7jLwldFATvydUsOIiJV2Lp) | [Store Run](https://open.spotify.com/album/7eJz9GFM9ESswFwfklwOTH) | 1:56 | 2022-06-25 | 2022-09-12 |
 | [Strange Things](https://open.spotify.com/track/7m2mxtPYJV3O7JNcH9Oi2J) | [Thi'sl](https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp) | [Strange Things](https://open.spotify.com/album/5xVRkKMnWJcA8y5NSJhZs1) | 4:06 | 2021-12-11 | 2022-02-28 |
+| [STRAPPED](https://open.spotify.com/track/5DznFcDLV51dLDVaMnn52j) | [Linga TheBoss](https://open.spotify.com/artist/5jCTpUeZQ61zaoSYgYV2cY) | [ONE OF THE FEW](https://open.spotify.com/album/3ZQR5JU6dLNAvYdG3dO4N9) | 2:12 | 2024-01-19 |  |
 | [Striking Matches \(feat\. 1K Phew & TNED\)](https://open.spotify.com/track/59kiSVJTiUYXJxpyModhI5) | [theBeatbreaker](https://open.spotify.com/artist/6QJCYAKI6fPSDmXHeliNNu), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [TNED](https://open.spotify.com/artist/1wG3mhMC241gq1jwwRsBHT) | [Heard Not Seen III](https://open.spotify.com/album/5RHrcFrhFu7rz2QSGiMiBk) | 3:15 | 2021-12-11 | 2022-05-25 |
 | [Stripes](https://open.spotify.com/track/21PO2UTiAZkedJLJBVT6Hy) | [Dennis Gorcea](https://open.spotify.com/artist/2BlEK9X2tdzVcnjbPIpAW6), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [Stripes](https://open.spotify.com/album/7nGxvnvZIlfnYud14AqEwE) | 3:46 | 2021-12-11 | 2022-02-04 |
 | [Stuck On You](https://open.spotify.com/track/7LAlNgKirDEsFESE0v3FAK) | [BrvndonP](https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy) | [Stuck On You](https://open.spotify.com/album/0frXypUJCEh6qkSGjeps7L) | 2:48 | 2021-12-11 | 2022-02-05 |

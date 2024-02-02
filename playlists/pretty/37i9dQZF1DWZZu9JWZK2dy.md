@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,495 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,600 likes - 60 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 49 | [アンインストール](https://open.spotify.com/track/72ghOwtaZ0vggvWspdJiE9) | [Chiaki Ishikawa](https://open.spotify.com/artist/4S7mAJFFsYYZE3gTYuf254) | [「ぼくらの」オープニングテーマ アンインストール](https://open.spotify.com/album/3pDK2zBTymHAafUL9oNbuD) | 4:41 |
 | 50 | [恋せよ女の子](https://open.spotify.com/track/6MaE2CKZdGoWNQXHJOMshd) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [銀の旋律、記憶の水音。](https://open.spotify.com/album/0eDR8cIsVOjK8GjL2dGJjT) | 4:20 |
 | 51 | [空色デイズ](https://open.spotify.com/track/4EkbGJChszyxhEP0bIwBSZ) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [しょこたん☆べすと――\(°∀°\)――!!](https://open.spotify.com/album/5kgH0okVwbTC2dfpyCtnOA) | 4:12 |
-| 52 | [only my railgun](https://open.spotify.com/track/0djCH6HbCN3cFzNkKd46yv) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [only my railgun](https://open.spotify.com/album/6oxGBR7M0cQ3IhQMJrMRVl) | 4:17 |
-| 53 | [JOINT](https://open.spotify.com/track/0VRn529V2PuyZ9HTbd5sy9) | [川田まみ](https://open.spotify.com/artist/5MqHx3rECV1BvBBFG3L508) | [SAVIA](https://open.spotify.com/album/2jOgLqERn9TY3dHpTPBpmP) | 4:01 |
+| 52 | [only my railgun](https://open.spotify.com/track/27jIhWkbbjRBaLKeFF5vHN) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [infinite synthesis](https://open.spotify.com/album/5f2knLyWyxEl9wtnVNZe8X) | 4:14 |
+| 53 | [JOINT](https://open.spotify.com/track/4Tfao8rUHTsmE1chDISzk9) | [川田まみ](https://open.spotify.com/artist/5MqHx3rECV1BvBBFG3L508) | [SAVIA](https://open.spotify.com/album/7fIMsVvuT3qjRVLOwG4izc) | 4:01 |
 | 54 | [DAYS](https://open.spotify.com/track/49g1yJUzm4VbQUrKTIcQIa) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 4:15 |
 | 55 | [CLOSER](https://open.spotify.com/track/2Kld61w2NR7zPPXtaHeIii) | [Joe Inoue](https://open.spotify.com/artist/04q6GxPQU1OTqHGrUxeufd) | [CLOSER](https://open.spotify.com/album/6S6fn5MUmZdzlKrrdr2XcB) | 3:28 |
 | 56 | [DISCOTHEQUE](https://open.spotify.com/track/4i9D1GN4xtGXiYRgx7mfl9) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 3:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 59 | [Gamble Rumble](https://open.spotify.com/track/7wug8q76QHsvCKWEZW1nVq) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [Gamble Rumble](https://open.spotify.com/album/4S7MWhlljXKdr5IBI94kQU) | 4:27 |
 | 60 | [Agapē](https://open.spotify.com/track/31EVU4Hqjnz3DqH2zdpWZE) | [メロキュア](https://open.spotify.com/artist/7sW7rerkVb9XV7vgsVuMHq) | [メロディック・スーパー・ハード・キュア](https://open.spotify.com/album/1c0wPUwhC8meB2YnOVpVOT) | 4:41 |
 
-Snapshot ID: `MCw0NDQ0NDVmNDQwYjIyNzA4NDNkY2ZjMGMxZjgxN2RhZjg0NTE3OTc1`
+Snapshot ID: `MCxlMzY2M2M2OTZhZjQ5YmJjNGI4ODhiMGZmZDljNzY2ODZjOTRlNGVl`

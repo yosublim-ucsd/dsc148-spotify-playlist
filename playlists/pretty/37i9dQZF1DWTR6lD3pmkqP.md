@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,669 likes - 250 songs - 20 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,732 likes - 250 songs - 20 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 249 | [Seti Khola](https://open.spotify.com/track/6JOQnzP9uxrYBEPN6Ex6kv) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Still Flute](https://open.spotify.com/album/5YzXAdttew3nRAc1YPzP9t) | 5:39 |
 | 250 | [Special Blend](https://open.spotify.com/track/3z0rugDkzlyoF2cIj8x9mu) | [Max I Million](https://open.spotify.com/artist/3E8ESEdLCBN9GiSZCUXgdf), [John Culbreth](https://open.spotify.com/artist/1KfQchWVE79W6evo9dDBUN) | [Special Blend](https://open.spotify.com/album/2SdR7nobB9gFriz8AWGblO) | 2:44 |
 
-Snapshot ID: `MCwwMWFmYTQyNTRjZmEwMDg3MmM5MmIzNzY2MjlhOGZmOWY2MDkzODEz`
+Snapshot ID: `MCw4ZWVjN2MwOGMxZTMwNWJhZmYzMTExZDExZWM2YmIyZGI2M2Y1MWRm`

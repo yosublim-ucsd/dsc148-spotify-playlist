@@ -1,12 +1,12 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1270826,
+  "num_followers": 1271079,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODJhYTQ0ZmU4YTVkMzJhMTBjOTliYzUwOTVjZTEzZmY1MTAzNDZm",
+  "snapshot_id": "MCw4MDg2NDUzODM5YTUzMGYzZWU4NmI3ZGQ3MWJhNjFkNTU0MjEwMWY1",
   "tracks": [
     {
       "added_at": "2024-01-31 14:06:39",
@@ -927,30 +927,6 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
-        "name": "Run For Cover (feat. Maikki)",
-        "url": "https://open.spotify.com/album/0o4HJX5cqF12QlPQsuyqXn"
-      },
-      "artists": [
-        {
-          "name": "Wildstylez",
-          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
-        },
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        },
-        {
-          "name": "Maikki",
-          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
-        }
-      ],
-      "duration_ms": 274901,
-      "name": "Run For Cover",
-      "url": "https://open.spotify.com/track/0sH9yijfwa77I4EwUFueFK"
-    },
-    {
-      "added_at": "2024-01-31 14:06:39",
-      "album": {
         "name": "Summer Secrets",
         "url": "https://open.spotify.com/album/3dJXsDviKg5vCw87ovcji6"
       },
@@ -991,6 +967,30 @@
       "duration_ms": 268800,
       "name": "Judgement Day",
       "url": "https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY"
+    },
+    {
+      "added_at": "2024-01-31 14:06:39",
+      "album": {
+        "name": "Run For Cover (feat. Maikki)",
+        "url": "https://open.spotify.com/album/0o4HJX5cqF12QlPQsuyqXn"
+      },
+      "artists": [
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "Maikki",
+          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
+        }
+      ],
+      "duration_ms": 274901,
+      "name": "Run For Cover",
+      "url": "https://open.spotify.com/track/0sH9yijfwa77I4EwUFueFK"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -1247,30 +1247,6 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
-        "name": "Rave Love",
-        "url": "https://open.spotify.com/album/2OHcuJm8NlukM33GBSQUke"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "AXMO",
-          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
-        },
-        {
-          "name": "SONJA",
-          "url": "https://open.spotify.com/artist/7rEAvtkj6sNUlQXlYRldrs"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Rave Love",
-      "url": "https://open.spotify.com/track/0YHL0wDP6b7ov6h0yEhorO"
-    },
-    {
-      "added_at": "2024-01-31 14:06:39",
-      "album": {
         "name": "Surrender (The Remixes)",
         "url": "https://open.spotify.com/album/3vZnfxMSVRnfrRoBmGfA1W"
       },
@@ -1295,6 +1271,30 @@
       "duration_ms": 204906,
       "name": "Surrender - Hixxy Remix",
       "url": "https://open.spotify.com/track/7qK0mNHVdVbnqt3Prd26Vs"
+    },
+    {
+      "added_at": "2024-01-31 14:06:39",
+      "album": {
+        "name": "Rave Love",
+        "url": "https://open.spotify.com/album/2OHcuJm8NlukM33GBSQUke"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "AXMO",
+          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
+        },
+        {
+          "name": "SONJA",
+          "url": "https://open.spotify.com/artist/7rEAvtkj6sNUlQXlYRldrs"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Rave Love",
+      "url": "https://open.spotify.com/track/0YHL0wDP6b7ov6h0yEhorO"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -1451,30 +1451,6 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
-        "name": "The Kids Aren't Alright",
-        "url": "https://open.spotify.com/album/2FGSO5RaolhLysdhphlgLr"
-      },
-      "artists": [
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "GPF",
-          "url": "https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4"
-        },
-        {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
-        }
-      ],
-      "duration_ms": 222408,
-      "name": "The Kids Aren't Alright",
-      "url": "https://open.spotify.com/track/6bRBZE3BXUZ6QNdpKuMGop"
-    },
-    {
-      "added_at": "2024-01-31 14:06:39",
-      "album": {
         "name": "Mellow",
         "url": "https://open.spotify.com/album/2uM2YRfQXxpsCjDxuZdqiY"
       },
@@ -1515,6 +1491,30 @@
       "duration_ms": 166400,
       "name": "Through The Night",
       "url": "https://open.spotify.com/track/667VsfRZBPcI42mfFvgYpl"
+    },
+    {
+      "added_at": "2024-01-31 14:06:39",
+      "album": {
+        "name": "The Kids Aren't Alright",
+        "url": "https://open.spotify.com/album/2FGSO5RaolhLysdhphlgLr"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "GPF",
+          "url": "https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4"
+        },
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        }
+      ],
+      "duration_ms": 222408,
+      "name": "The Kids Aren't Alright",
+      "url": "https://open.spotify.com/track/6bRBZE3BXUZ6QNdpKuMGop"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
-        "name": "Blow Up The Speakers (Again)",
-        "url": "https://open.spotify.com/album/7mzcAAE2fCST82z8NGVrY4"
-      },
-      "artists": [
-        {
-          "name": "MANDY",
-          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
-        },
-        {
-          "name": "The Moon",
-          "url": "https://open.spotify.com/artist/3V0QXa0lUPw2C8uOv8nInC"
-        }
-      ],
-      "duration_ms": 208657,
-      "name": "Blow Up The Speakers (Again)",
-      "url": "https://open.spotify.com/track/4TMKgsfeO2pH5jNSJtwUKK"
-    },
-    {
-      "added_at": "2024-01-31 14:06:39",
-      "album": {
         "name": "Feel So Good",
         "url": "https://open.spotify.com/album/1JuieeW86pG1yMTvmis54g"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 215225,
       "name": "Feel So Good",
       "url": "https://open.spotify.com/track/0fnrHmbApoVm9Zt8jIwKsi"
+    },
+    {
+      "added_at": "2024-01-31 14:06:39",
+      "album": {
+        "name": "Orange Heart (feat. Sian Evans)",
+        "url": "https://open.spotify.com/album/1AjWr3eqVWrYD0cUB9buhr"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        },
+        {
+          "name": "Sian Evans",
+          "url": "https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw"
+        }
+      ],
+      "duration_ms": 230321,
+      "name": "Orange Heart",
+      "url": "https://open.spotify.com/track/5pwVSplL0EaOyuTphPipJX"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -1927,22 +1927,22 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
-        "name": "Orange Heart (feat. Sian Evans)",
-        "url": "https://open.spotify.com/album/1AjWr3eqVWrYD0cUB9buhr"
+        "name": "Blow Up The Speakers (Again)",
+        "url": "https://open.spotify.com/album/7mzcAAE2fCST82z8NGVrY4"
       },
       "artists": [
         {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+          "name": "MANDY",
+          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
         },
         {
-          "name": "Sian Evans",
-          "url": "https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw"
+          "name": "The Moon",
+          "url": "https://open.spotify.com/artist/3V0QXa0lUPw2C8uOv8nInC"
         }
       ],
-      "duration_ms": 230321,
-      "name": "Orange Heart",
-      "url": "https://open.spotify.com/track/5pwVSplL0EaOyuTphPipJX"
+      "duration_ms": 208657,
+      "name": "Blow Up The Speakers (Again)",
+      "url": "https://open.spotify.com/track/4TMKgsfeO2pH5jNSJtwUKK"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
+        "name": "Rise Again (Defqon.1 2022 Closing Theme)",
+        "url": "https://open.spotify.com/album/1eO3xCCiCtzPmeuEwJUTbH"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "duration_ms": 237057,
+      "name": "Rise Again (Defqon.1 2022 Closing Theme)",
+      "url": "https://open.spotify.com/track/5U8ciuvj0LDMk9h66NhwzR"
+    },
+    {
+      "added_at": "2024-01-31 14:06:39",
+      "album": {
         "name": "Everything is a Lie",
         "url": "https://open.spotify.com/album/3m1kM1GIcyoOFXDmHCrAa0"
       },
@@ -1995,38 +2011,6 @@
       "duration_ms": 242400,
       "name": "Everything is a Lie",
       "url": "https://open.spotify.com/track/5wnp6uV25Z92zoQh8NuMKj"
-    },
-    {
-      "added_at": "2024-01-31 14:06:39",
-      "album": {
-        "name": "Euphoria (Hardstyle Edit)",
-        "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
-      },
-      "artists": [
-        {
-          "name": "Julian Brandts",
-          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "Euphoria - Hardstyle Edit",
-      "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
-    },
-    {
-      "added_at": "2024-01-31 14:06:39",
-      "album": {
-        "name": "Rise Again (Defqon.1 2022 Closing Theme)",
-        "url": "https://open.spotify.com/album/1eO3xCCiCtzPmeuEwJUTbH"
-      },
-      "artists": [
-        {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
-        }
-      ],
-      "duration_ms": 237057,
-      "name": "Rise Again (Defqon.1 2022 Closing Theme)",
-      "url": "https://open.spotify.com/track/5U8ciuvj0LDMk9h66NhwzR"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -2051,6 +2035,22 @@
       "duration_ms": 263453,
       "name": "Silence - Brennan Heart Remix",
       "url": "https://open.spotify.com/track/0cfxGRaCEFKwz66bURIYz5"
+    },
+    {
+      "added_at": "2024-01-31 14:06:39",
+      "album": {
+        "name": "Euphoria (Hardstyle Edit)",
+        "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
+      },
+      "artists": [
+        {
+          "name": "Julian Brandts",
+          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Euphoria - Hardstyle Edit",
+      "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -2219,30 +2219,6 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
-        "name": "Into the Night",
-        "url": "https://open.spotify.com/album/0LL0D6ryvVY1qF5lh98Tuo"
-      },
-      "artists": [
-        {
-          "name": "Neptunica",
-          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
-        },
-        {
-          "name": "Jerome",
-          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
-        },
-        {
-          "name": "Marc Blou",
-          "url": "https://open.spotify.com/artist/3NqSZ6T8QqQLyA5baayI19"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Into the Night",
-      "url": "https://open.spotify.com/track/2EPHUV16WoWXHVxxoJzvi2"
-    },
-    {
-      "added_at": "2024-01-31 14:06:39",
-      "album": {
         "name": "HALO",
         "url": "https://open.spotify.com/album/0CdsPSUAFyI58HXxgQFLax"
       },
@@ -2263,6 +2239,30 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
+        "name": "We Rule The Night",
+        "url": "https://open.spotify.com/album/76rEqqgGwIXDjRoHcWKIbG"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "Endymion",
+          "url": "https://open.spotify.com/artist/1dWCpNKvuNDv2rE4gCVNwj"
+        },
+        {
+          "name": "LePrince",
+          "url": "https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO"
+        }
+      ],
+      "duration_ms": 241531,
+      "name": "Run From Reality",
+      "url": "https://open.spotify.com/track/5dANIPp7WUavWBIUjg0e5d"
+    },
+    {
+      "added_at": "2024-01-31 14:06:39",
+      "album": {
         "name": "Dragonborn part 3 (Oceans Apart) [feat. Sian Evans]",
         "url": "https://open.spotify.com/album/2l97HApmO6hOSm2bTQTnks"
       },
@@ -2279,6 +2279,30 @@
       "duration_ms": 210163,
       "name": "Dragonborn part 3 (Oceans Apart)",
       "url": "https://open.spotify.com/track/6c0vdY5EZOx8g95uWcp3uI"
+    },
+    {
+      "added_at": "2024-01-31 14:06:39",
+      "album": {
+        "name": "Into the Night",
+        "url": "https://open.spotify.com/album/0LL0D6ryvVY1qF5lh98Tuo"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "Marc Blou",
+          "url": "https://open.spotify.com/artist/3NqSZ6T8QqQLyA5baayI19"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Into the Night",
+      "url": "https://open.spotify.com/track/2EPHUV16WoWXHVxxoJzvi2"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -2335,30 +2359,6 @@
       "duration_ms": 176051,
       "name": "DYSYLM",
       "url": "https://open.spotify.com/track/4tV6ku4jEYw9L5gZuNpCbP"
-    },
-    {
-      "added_at": "2024-01-31 14:06:39",
-      "album": {
-        "name": "We Rule The Night",
-        "url": "https://open.spotify.com/album/76rEqqgGwIXDjRoHcWKIbG"
-      },
-      "artists": [
-        {
-          "name": "Ran-D",
-          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
-        },
-        {
-          "name": "Endymion",
-          "url": "https://open.spotify.com/artist/1dWCpNKvuNDv2rE4gCVNwj"
-        },
-        {
-          "name": "LePrince",
-          "url": "https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO"
-        }
-      ],
-      "duration_ms": 241531,
-      "name": "Run From Reality",
-      "url": "https://open.spotify.com/track/5dANIPp7WUavWBIUjg0e5d"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -2655,6 +2655,26 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/1hbNdwhhlWA1Pbb56nWoK0"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "Maikki",
+          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
+        }
+      ],
+      "duration_ms": 221439,
+      "name": "Destination",
+      "url": "https://open.spotify.com/track/18oM3wT3P9tFxWC3Opzs18"
+    },
+    {
+      "added_at": "2024-01-31 14:06:39",
+      "album": {
         "name": "Broken Dreams",
         "url": "https://open.spotify.com/album/6IR0IsypKtxWm2UKyFXimX"
       },
@@ -2675,22 +2695,18 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
-        "name": "Destination",
-        "url": "https://open.spotify.com/album/1hbNdwhhlWA1Pbb56nWoK0"
+        "name": "Silver Bullet",
+        "url": "https://open.spotify.com/album/3RB9nd2moNxaA2Wi3WQcOZ"
       },
       "artists": [
         {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        },
-        {
-          "name": "Maikki",
-          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
+          "name": "Phuture Noize",
+          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
         }
       ],
-      "duration_ms": 221439,
-      "name": "Destination",
-      "url": "https://open.spotify.com/track/18oM3wT3P9tFxWC3Opzs18"
+      "duration_ms": 182709,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/3MBP4fVf4bkD4HH7M4oA7f"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -2715,22 +2731,6 @@
       "duration_ms": 195200,
       "name": "Call Me A Spaceman - Dr Phunk Remix",
       "url": "https://open.spotify.com/track/01s9faleC0omVs2oEFzCyp"
-    },
-    {
-      "added_at": "2024-01-31 14:06:39",
-      "album": {
-        "name": "Silver Bullet",
-        "url": "https://open.spotify.com/album/3RB9nd2moNxaA2Wi3WQcOZ"
-      },
-      "artists": [
-        {
-          "name": "Phuture Noize",
-          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
-        }
-      ],
-      "duration_ms": 182709,
-      "name": "Masquerade",
-      "url": "https://open.spotify.com/track/3MBP4fVf4bkD4HH7M4oA7f"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -2799,6 +2799,26 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
+        "name": "Turn The Tide Revisited",
+        "url": "https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz"
+      },
+      "artists": [
+        {
+          "name": "Lowriderz",
+          "url": "https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6"
+        },
+        {
+          "name": "Sylver",
+          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Turn The Tide Revisited",
+      "url": "https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh"
+    },
+    {
+      "added_at": "2024-01-31 14:06:39",
+      "album": {
         "name": "Tunnel Of Vision",
         "url": "https://open.spotify.com/album/3fTAYHGpZP7jduLaMy12ie"
       },
@@ -2819,22 +2839,22 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
-        "name": "Turn The Tide Revisited",
-        "url": "https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz"
+        "name": "Garden Of Magic",
+        "url": "https://open.spotify.com/album/5h0gbPjUfmsOdrwKyV6EoI"
       },
       "artists": [
         {
-          "name": "Lowriderz",
-          "url": "https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6"
+          "name": "Psyko Punkz",
+          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
         },
         {
-          "name": "Sylver",
-          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
+          "name": "Zac Aynsley",
+          "url": "https://open.spotify.com/artist/4n6xUSrgVHhTJoc8JTcrIK"
         }
       ],
-      "duration_ms": 188800,
-      "name": "Turn The Tide Revisited",
-      "url": "https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh"
+      "duration_ms": 177387,
+      "name": "Garden Of Magic",
+      "url": "https://open.spotify.com/track/4SadIiJGMYMFltjEbqG3Ik"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -2867,26 +2887,6 @@
       "duration_ms": 182000,
       "name": "Hero",
       "url": "https://open.spotify.com/track/1bc1ykb05EfBvnzjOmqvmi"
-    },
-    {
-      "added_at": "2024-01-31 14:06:39",
-      "album": {
-        "name": "Garden Of Magic",
-        "url": "https://open.spotify.com/album/5h0gbPjUfmsOdrwKyV6EoI"
-      },
-      "artists": [
-        {
-          "name": "Psyko Punkz",
-          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
-        },
-        {
-          "name": "Zac Aynsley",
-          "url": "https://open.spotify.com/artist/4n6xUSrgVHhTJoc8JTcrIK"
-        }
-      ],
-      "duration_ms": 177387,
-      "name": "Garden Of Magic",
-      "url": "https://open.spotify.com/track/4SadIiJGMYMFltjEbqG3Ik"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -3035,22 +3035,6 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
-        "name": "Rave To The Grave (feat. Sabacca)",
-        "url": "https://open.spotify.com/album/228rg4PX0wSypnYnz5Q6p8"
-      },
-      "artists": [
-        {
-          "name": "Toneshifterz",
-          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
-        }
-      ],
-      "duration_ms": 159483,
-      "name": "Rave To The Grave",
-      "url": "https://open.spotify.com/track/7uh0BfYbLFLc32RSyE3eEz"
-    },
-    {
-      "added_at": "2024-01-31 14:06:39",
-      "album": {
         "name": "Awaken",
         "url": "https://open.spotify.com/album/5FkHkDHeCqICjB1yv1COHA"
       },
@@ -3063,6 +3047,22 @@
       "duration_ms": 292553,
       "name": "Awaken",
       "url": "https://open.spotify.com/track/1BRMT9ruyij1tKK1YqAf4S"
+    },
+    {
+      "added_at": "2024-01-31 14:06:39",
+      "album": {
+        "name": "Rave To The Grave (feat. Sabacca)",
+        "url": "https://open.spotify.com/album/228rg4PX0wSypnYnz5Q6p8"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        }
+      ],
+      "duration_ms": 159483,
+      "name": "Rave To The Grave",
+      "url": "https://open.spotify.com/track/7uh0BfYbLFLc32RSyE3eEz"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -3083,42 +3083,6 @@
       "duration_ms": 216004,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/39vX6ttgqvy1NOo6DrMMa1"
-    },
-    {
-      "added_at": "2024-01-31 14:06:39",
-      "album": {
-        "name": "Rest In Pieces",
-        "url": "https://open.spotify.com/album/4TvaNm9rb4wZAwOtE4wF1T"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        },
-        {
-          "name": "Iris Goes",
-          "url": "https://open.spotify.com/artist/5UpRlAIULn04YlwQPwpKj2"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Rest In Pieces",
-      "url": "https://open.spotify.com/track/7iaHUmMUyXUHfVVJrOKyLC"
-    },
-    {
-      "added_at": "2024-01-31 14:06:39",
-      "album": {
-        "name": "Impact",
-        "url": "https://open.spotify.com/album/7pAC6BK4KbA21ffLsT99jY"
-      },
-      "artists": [
-        {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
-        }
-      ],
-      "duration_ms": 219870,
-      "name": "Impact",
-      "url": "https://open.spotify.com/track/33yP87JuBfAhwuZplkysHH"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -3147,22 +3111,22 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
-        "name": "Rooftop (Jordiz Remix)",
-        "url": "https://open.spotify.com/album/2aoSEx5cv3XNolGmCvskbv"
+        "name": "Rest In Pieces",
+        "url": "https://open.spotify.com/album/4TvaNm9rb4wZAwOtE4wF1T"
       },
       "artists": [
         {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
         },
         {
-          "name": "Jordiz",
-          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
+          "name": "Iris Goes",
+          "url": "https://open.spotify.com/artist/5UpRlAIULn04YlwQPwpKj2"
         }
       ],
-      "duration_ms": 217841,
-      "name": "Rooftop - Jordiz Remix",
-      "url": "https://open.spotify.com/track/6HbyNftAudWl9wILXAN3DZ"
+      "duration_ms": 192000,
+      "name": "Rest In Pieces",
+      "url": "https://open.spotify.com/track/7iaHUmMUyXUHfVVJrOKyLC"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -3187,22 +3151,38 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
-        "name": "I'm Sorry",
-        "url": "https://open.spotify.com/album/0T8KGYGLlDmCtAtUjAdIKc"
+        "name": "Impact",
+        "url": "https://open.spotify.com/album/7pAC6BK4KbA21ffLsT99jY"
       },
       "artists": [
         {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "The Partysquad",
-          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
         }
       ],
-      "duration_ms": 204387,
-      "name": "I'm Sorry",
-      "url": "https://open.spotify.com/track/2zXZRMT3mmi0ALGX6WXKw3"
+      "duration_ms": 219870,
+      "name": "Impact",
+      "url": "https://open.spotify.com/track/33yP87JuBfAhwuZplkysHH"
+    },
+    {
+      "added_at": "2024-01-31 14:06:39",
+      "album": {
+        "name": "Rooftop (Jordiz Remix)",
+        "url": "https://open.spotify.com/album/2aoSEx5cv3XNolGmCvskbv"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Jordiz",
+          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
+        }
+      ],
+      "duration_ms": 217841,
+      "name": "Rooftop - Jordiz Remix",
+      "url": "https://open.spotify.com/track/6HbyNftAudWl9wILXAN3DZ"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -3251,6 +3231,26 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
+        "name": "I'm Sorry",
+        "url": "https://open.spotify.com/album/0T8KGYGLlDmCtAtUjAdIKc"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        }
+      ],
+      "duration_ms": 204387,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/2zXZRMT3mmi0ALGX6WXKw3"
+    },
+    {
+      "added_at": "2024-01-31 14:06:39",
+      "album": {
         "name": "In Hardstyle We Trust (Melody Mix)",
         "url": "https://open.spotify.com/album/0cUZwW0wPp3HDebw6fZosP"
       },
@@ -3267,6 +3267,42 @@
       "duration_ms": 235009,
       "name": "In Hardstyle We Trust - Melody Mix",
       "url": "https://open.spotify.com/track/694DLdlWtk26a6pyaf1vMi"
+    },
+    {
+      "added_at": "2024-01-31 14:06:39",
+      "album": {
+        "name": "Break Free (Official Decibel Outdoor 2022 Anthem)",
+        "url": "https://open.spotify.com/album/0YzBhIvuaOqtdBsVjmNnDq"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        {
+          "name": "ATILAX",
+          "url": "https://open.spotify.com/artist/1DLc4wnbKa3RWJsqwPehbk"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Break Free (Official Decibel Outdoor 2022 Anthem)",
+      "url": "https://open.spotify.com/track/1VtGStey2iPgtZSLHU6sf0"
+    },
+    {
+      "added_at": "2024-01-31 14:06:39",
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/5mMboiKqmM2zFrAjX65pRv"
+      },
+      "artists": [
+        {
+          "name": "Gammer",
+          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/1P1s5YNLlNuCoDHzCMYRAm"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -3295,42 +3331,6 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
-        "name": "Believer",
-        "url": "https://open.spotify.com/album/5mMboiKqmM2zFrAjX65pRv"
-      },
-      "artists": [
-        {
-          "name": "Gammer",
-          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/1P1s5YNLlNuCoDHzCMYRAm"
-    },
-    {
-      "added_at": "2024-01-31 14:06:39",
-      "album": {
-        "name": "Break Free (Official Decibel Outdoor 2022 Anthem)",
-        "url": "https://open.spotify.com/album/0YzBhIvuaOqtdBsVjmNnDq"
-      },
-      "artists": [
-        {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
-        },
-        {
-          "name": "ATILAX",
-          "url": "https://open.spotify.com/artist/1DLc4wnbKa3RWJsqwPehbk"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Break Free (Official Decibel Outdoor 2022 Anthem)",
-      "url": "https://open.spotify.com/track/1VtGStey2iPgtZSLHU6sf0"
-    },
-    {
-      "added_at": "2024-01-31 14:06:39",
-      "album": {
         "name": "Moonlight Shadow (Stereo Faces Remix)",
         "url": "https://open.spotify.com/album/1fFhG0MqQUxtnBHUr2N1tt"
       },
@@ -3347,6 +3347,30 @@
       "duration_ms": 177656,
       "name": "Moonlight Shadow - Stereo Faces Remix",
       "url": "https://open.spotify.com/track/4tjJ8HNYrI3msWoD9ZCIa3"
+    },
+    {
+      "added_at": "2024-01-31 14:06:39",
+      "album": {
+        "name": "Das Boot",
+        "url": "https://open.spotify.com/album/0xzYXSeSEz4FMJ7uz2Qbnc"
+      },
+      "artists": [
+        {
+          "name": "Noisecontrollers",
+          "url": "https://open.spotify.com/artist/6qJ61DomA73g7jQEKESw9Z"
+        },
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "B-Front",
+          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Das Boot",
+      "url": "https://open.spotify.com/track/5qhB24xr7TbpHmpNXOAeMC"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -3411,22 +3435,6 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
-        "name": "Mr Brightside",
-        "url": "https://open.spotify.com/album/2bgIA2bqZ61g9VLf1sOSCR"
-      },
-      "artists": [
-        {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
-        }
-      ],
-      "duration_ms": 230412,
-      "name": "Mr Brightside",
-      "url": "https://open.spotify.com/track/6x19X5cibbIjsCtlzsgZEY"
-    },
-    {
-      "added_at": "2024-01-31 14:06:39",
-      "album": {
         "name": "Sun Comes Up",
         "url": "https://open.spotify.com/album/7sBdYRoRxO2kSHsGIKcaV9"
       },
@@ -3447,38 +3455,18 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
-        "name": "Brutal X",
-        "url": "https://open.spotify.com/album/4rsB0wKx8FDBW9Fdgsu9Bq"
+        "name": "Mr Brightside",
+        "url": "https://open.spotify.com/album/2bgIA2bqZ61g9VLf1sOSCR"
       },
       "artists": [
         {
-          "name": "Radical Redemption",
-          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
         }
       ],
-      "duration_ms": 268000,
-      "name": "Brutal X",
-      "url": "https://open.spotify.com/track/1eRkCRej0qKa0z4gHxMc3R"
-    },
-    {
-      "added_at": "2024-01-31 14:06:39",
-      "album": {
-        "name": "Children Of Drums (Headhunterz Remix)",
-        "url": "https://open.spotify.com/album/2xTalVoSbGKciNMHDwmMG5"
-      },
-      "artists": [
-        {
-          "name": "Wildstylez",
-          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
-        },
-        {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "Children Of Drums - Headhunterz Remix",
-      "url": "https://open.spotify.com/track/35Z0mpi564mEOdEBJc0Kqc"
+      "duration_ms": 230412,
+      "name": "Mr Brightside",
+      "url": "https://open.spotify.com/track/6x19X5cibbIjsCtlzsgZEY"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -3503,42 +3491,22 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
-        "name": "Das Boot",
-        "url": "https://open.spotify.com/album/0xzYXSeSEz4FMJ7uz2Qbnc"
+        "name": "Children Of Drums (Headhunterz Remix)",
+        "url": "https://open.spotify.com/album/2xTalVoSbGKciNMHDwmMG5"
       },
       "artists": [
         {
-          "name": "Noisecontrollers",
-          "url": "https://open.spotify.com/artist/6qJ61DomA73g7jQEKESw9Z"
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
         },
         {
-          "name": "Atmozfears",
-          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
-        },
-        {
-          "name": "B-Front",
-          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
         }
       ],
-      "duration_ms": 233600,
-      "name": "Das Boot",
-      "url": "https://open.spotify.com/track/5qhB24xr7TbpHmpNXOAeMC"
-    },
-    {
-      "added_at": "2024-01-31 14:06:39",
-      "album": {
-        "name": "The Rave Dome",
-        "url": "https://open.spotify.com/album/2NNtdRHLtQSRJSIDySbTnS"
-      },
-      "artists": [
-        {
-          "name": "Aftershock",
-          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
-        }
-      ],
-      "duration_ms": 205940,
-      "name": "The Rave Dome",
-      "url": "https://open.spotify.com/track/4Srdf7olznuLK2qC67Zjbp"
+      "duration_ms": 235200,
+      "name": "Children Of Drums - Headhunterz Remix",
+      "url": "https://open.spotify.com/track/35Z0mpi564mEOdEBJc0Kqc"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -3559,6 +3527,38 @@
       "duration_ms": 183993,
       "name": "Jupiter - Brennan Heart Remix",
       "url": "https://open.spotify.com/track/6m04xxSJv2P5VfNbuhsdEy"
+    },
+    {
+      "added_at": "2024-01-31 14:06:39",
+      "album": {
+        "name": "Brutal X",
+        "url": "https://open.spotify.com/album/4rsB0wKx8FDBW9Fdgsu9Bq"
+      },
+      "artists": [
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Brutal X",
+      "url": "https://open.spotify.com/track/1eRkCRej0qKa0z4gHxMc3R"
+    },
+    {
+      "added_at": "2024-01-31 14:06:39",
+      "album": {
+        "name": "The Rave Dome",
+        "url": "https://open.spotify.com/album/2NNtdRHLtQSRJSIDySbTnS"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        }
+      ],
+      "duration_ms": 205940,
+      "name": "The Rave Dome",
+      "url": "https://open.spotify.com/track/4Srdf7olznuLK2qC67Zjbp"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -3587,6 +3587,22 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
+        "name": "Fire And Ice (Radio Edit)",
+        "url": "https://open.spotify.com/album/2ondbr9eOLVOgfyENFNE1x"
+      },
+      "artists": [
+        {
+          "name": "MYST",
+          "url": "https://open.spotify.com/artist/18UStRMkfnMhX5Qxzhylej"
+        }
+      ],
+      "duration_ms": 182727,
+      "name": "Fire And Ice - Radio Edit",
+      "url": "https://open.spotify.com/track/4tQOschUTYTa8jWH6iFWhd"
+    },
+    {
+      "added_at": "2024-01-31 14:06:39",
+      "album": {
         "name": "Wrong or Right (The Riddle) [Revelation Remix]",
         "url": "https://open.spotify.com/album/1nkvxZnYm7VzhmJGS7OqL9"
       },
@@ -3603,22 +3619,6 @@
       "duration_ms": 188253,
       "name": "Wrong or Right (The Riddle) [Revelation Remix]",
       "url": "https://open.spotify.com/track/4xUjGco1qY0RW3B7DYstgA"
-    },
-    {
-      "added_at": "2024-01-31 14:06:39",
-      "album": {
-        "name": "Fire And Ice (Radio Edit)",
-        "url": "https://open.spotify.com/album/2ondbr9eOLVOgfyENFNE1x"
-      },
-      "artists": [
-        {
-          "name": "MYST",
-          "url": "https://open.spotify.com/artist/18UStRMkfnMhX5Qxzhylej"
-        }
-      ],
-      "duration_ms": 182727,
-      "name": "Fire And Ice - Radio Edit",
-      "url": "https://open.spotify.com/track/4tQOschUTYTa8jWH6iFWhd"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -3703,26 +3703,6 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
-        "name": "Reach For The Sky",
-        "url": "https://open.spotify.com/album/2kQNfDNKvA4aRSUvxIkgdU"
-      },
-      "artists": [
-        {
-          "name": "Adaro",
-          "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
-        },
-        {
-          "name": "Digital Punk",
-          "url": "https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv"
-        }
-      ],
-      "duration_ms": 167612,
-      "name": "Reach For The Sky",
-      "url": "https://open.spotify.com/track/3XyMLRRZvxj3dhHdgVoTyv"
-    },
-    {
-      "added_at": "2024-01-31 14:06:39",
-      "album": {
         "name": "Step Into The Game (Official Intents Festival 2020 Anthem)",
         "url": "https://open.spotify.com/album/6Ab1ZrMluyA1HCaDuOW9ey"
       },
@@ -3755,6 +3735,26 @@
       "duration_ms": 174603,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/3FNx300XZ4FRDRYO7KlxNH"
+    },
+    {
+      "added_at": "2024-01-31 14:06:39",
+      "album": {
+        "name": "Reach For The Sky",
+        "url": "https://open.spotify.com/album/2kQNfDNKvA4aRSUvxIkgdU"
+      },
+      "artists": [
+        {
+          "name": "Adaro",
+          "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
+        },
+        {
+          "name": "Digital Punk",
+          "url": "https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv"
+        }
+      ],
+      "duration_ms": 167612,
+      "name": "Reach For The Sky",
+      "url": "https://open.spotify.com/track/3XyMLRRZvxj3dhHdgVoTyv"
     },
     {
       "added_at": "2024-01-31 14:06:39",
@@ -3863,30 +3863,6 @@
     {
       "added_at": "2024-01-31 14:06:39",
       "album": {
-        "name": "Close To You (Audiotricz Remix)",
-        "url": "https://open.spotify.com/album/4f6hP9KBR7Sm6ACbWTYQGc"
-      },
-      "artists": [
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "Audiotricz",
-          "url": "https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Close To You (Audiotricz Remix)",
-      "url": "https://open.spotify.com/track/6TqKy9halHx61AFUlwiDDZ"
-    },
-    {
-      "added_at": "2024-01-31 14:06:39",
-      "album": {
         "name": "Lighthouse",
         "url": "https://open.spotify.com/album/5UlHGUtiVjjAayzuQwRf4C"
       },
@@ -3919,6 +3895,30 @@
       "duration_ms": 270000,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/0dbttB5xr4M0Q1lQQXfAwI"
+    },
+    {
+      "added_at": "2024-01-31 14:06:39",
+      "album": {
+        "name": "Close To You (Audiotricz Remix)",
+        "url": "https://open.spotify.com/album/4f6hP9KBR7Sm6ACbWTYQGc"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Audiotricz",
+          "url": "https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Close To You (Audiotricz Remix)",
+      "url": "https://open.spotify.com/track/6TqKy9halHx61AFUlwiDDZ"
     },
     {
       "added_at": "2024-01-31 14:06:39",

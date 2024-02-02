@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Audrey Vanessa
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,890 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,883 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 74 | [Dimiliki Dia](https://open.spotify.com/track/4oYO0bHAPtZFDhgnBBZuKQ) | [Allan Andersn](https://open.spotify.com/artist/4zcXAnIxQ6UDXSu8qDZbsk) | [Dimiliki Dia](https://open.spotify.com/album/5ZMba9BNuaqMcnNjoAhDqo) | 3:48 |
 | 75 | [MENYESAL NGAMBEK](https://open.spotify.com/track/0VtOLdcGcGH4LUnoTDKXhk) | [Rhe M.A.C](https://open.spotify.com/artist/1UrjhXG4lWzzAYx8ZFjj7B), [Riona](https://open.spotify.com/artist/4ij7a0X8hRM1i69zefyKdL), [Rikz](https://open.spotify.com/artist/78esRdh0HtG5vv9HZrJ0RT), [Pet M.A.C](https://open.spotify.com/artist/4hCvwvsqYBqkEfIlyjPIJL) | [MENYESAL NGAMBEK](https://open.spotify.com/album/64I5RfwjVz6FdzjtKOfHTu) | 3:48 |
 
-Snapshot ID: `MCxkOGMyZGM4YmQ1YWI4YmVmYzJmNGNkZTEzZWU4MmYwODViZDg2ZDA5`
+Snapshot ID: `MCxkMTk1NTVmNGY0YzE3Zjk1YzIzNGQ1NzczNmMzYTE4ZmRiYTY0N2Ux`

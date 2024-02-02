@@ -1331,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Me Va Extra\u00f1ar",
+        "url": "https://open.spotify.com/album/5DVKe6Y4oarrvfKhB7tnfh"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278593,
+      "name": "Me Va Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/6zWisP0flLDhx1LsRt9zjB"
+    },
+    {
+      "album": {
         "name": "Que Bendici\u00f3n",
         "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
       },
@@ -2630,7 +2648,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 206928,
       "name": "Vas a Recordarme",
       "url": "https://open.spotify.com/track/68sLYh83RjZkPFlNg3cDR9"

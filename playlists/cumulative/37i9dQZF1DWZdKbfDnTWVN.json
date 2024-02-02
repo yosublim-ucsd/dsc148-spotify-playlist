@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=7rQMXJ0eSw2EU8Wr5nSsXw\"> Nyashinski</a>",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=7rQMXJ0eSw2EU8Wr5nSsXw\"> Boutross</a> and <a href=\"https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=7rQMXJ0eSw2EU8Wr5nSsXw\"> Jovie Jovv</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 175647,
       "name": "Gloom",
       "url": "https://open.spotify.com/track/6rjLmkmMl0yBmJdUWdvleg"
@@ -1808,7 +1808,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 70452,
       "name": "Made For This",
       "url": "https://open.spotify.com/track/5Gr47d1ThvLMeJR8ueVd2W"
@@ -2225,6 +2225,28 @@
     },
     {
       "album": {
+        "name": "Next",
+        "url": "https://open.spotify.com/album/0aYga2tetl8BcfUbava1LM"
+      },
+      "artists": [
+        {
+          "name": "Boutross",
+          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
+        },
+        {
+          "name": "Jovie Jovv",
+          "url": "https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188326,
+      "name": "Next",
+      "url": "https://open.spotify.com/track/1MwtufHfFLYQPCw1e9i0Yn"
+    },
+    {
+      "album": {
         "name": "No Hook",
         "url": "https://open.spotify.com/album/48audShqxj5ypmHoLSuTmH"
       },
@@ -2600,6 +2622,36 @@
       "duration_ms": 157360,
       "name": "Pretty Overload",
       "url": "https://open.spotify.com/track/6a2WQeQHhW1xUiIjskV672"
+    },
+    {
+      "album": {
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/5uXduFpRFnUKAFs0QtXS1q"
+      },
+      "artists": [
+        {
+          "name": "Anweezy",
+          "url": "https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom"
+        },
+        {
+          "name": "Moeazy",
+          "url": "https://open.spotify.com/artist/7JYVVIJHFX48ERG4Wt6HJz"
+        },
+        {
+          "name": "djprodluigi",
+          "url": "https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI"
+        },
+        {
+          "name": "Lil Reamy",
+          "url": "https://open.spotify.com/artist/1nmSigiY3nL3Zx8N9dbMVe"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131016,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/11JTSUxWm8c8tFywaTEboq"
     },
     {
       "album": {

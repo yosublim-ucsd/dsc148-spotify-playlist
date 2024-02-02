@@ -2181,6 +2181,24 @@
     },
     {
       "album": {
+        "name": "Los Seres Queridos",
+        "url": "https://open.spotify.com/album/0sWMpkiKdKyCnl01yxWfh0"
+      },
+      "artists": [
+        {
+          "name": "La Habitaci\u00f3n Roja",
+          "url": "https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239034,
+      "name": "Los Seres Queridos",
+      "url": "https://open.spotify.com/track/6yrqeQ1YDhzhuJFOd1uphJ"
+    },
+    {
+      "album": {
         "name": "LOTO",
         "url": "https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg"
       },

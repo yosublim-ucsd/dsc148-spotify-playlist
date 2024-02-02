@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 305813,
       "name": "Caoineadh An Spailp\u00edn (The Spalpeen's Lament)",
       "url": "https://open.spotify.com/track/2VoNApWzE4XWtE90e4BFJw"
@@ -272,6 +272,24 @@
       "duration_ms": 305813,
       "name": "Caoineadh An Spailp\u00edn (The Spalpeen's Lament)",
       "url": "https://open.spotify.com/track/3sQcd81KocTl0ZVQvcqh2n"
+    },
+    {
+      "album": {
+        "name": "The Minstrel from Clare",
+        "url": "https://open.spotify.com/album/28yU8lLKGeuRzcAIDh8zcI"
+      },
+      "artists": [
+        {
+          "name": "Willie Clancy",
+          "url": "https://open.spotify.com/artist/4KK08Oc4Xupje3eUyq8SJS"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305813,
+      "name": "Caoineadh an Spailp\u00edn (The Spalpeen's Lament)",
+      "url": "https://open.spotify.com/track/4khMiX5zYEhiUgTWbe81x5"
     },
     {
       "album": {
@@ -1770,10 +1788,28 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 137093,
       "name": "Roaring Mary / Stormy Weather",
       "url": "https://open.spotify.com/track/2dmoX3HaohxkJ6ubNJAkAP"
+    },
+    {
+      "album": {
+        "name": "Bundle and Go",
+        "url": "https://open.spotify.com/album/7A4cq0Om2zpnFJDBq34itt"
+      },
+      "artists": [
+        {
+          "name": "John Doherty",
+          "url": "https://open.spotify.com/artist/6qN1MlgBXAnLRxGALRVevQ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137093,
+      "name": "Roaring Mary / Stormy Weather",
+      "url": "https://open.spotify.com/track/6tOmAVnVKch0LXgJyttaja"
     },
     {
       "album": {

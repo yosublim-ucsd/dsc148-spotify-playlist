@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 
 > Kick back to the soothing sounds of the Ukulele...
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,241 likes - 56 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,252 likes - 56 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 | 35 | [Rainbow](https://open.spotify.com/track/6nme9J097udbUDmHp7sDAl) | [Farah Sumners](https://open.spotify.com/artist/3fn8yofOvpgD2AKNTkbcuz) | [Rainbow](https://open.spotify.com/album/0xk2K2WET3c855QLiDQ8fC) | 3:27 |
 | 36 | [Waika](https://open.spotify.com/track/78QjXJtLWu99p3ieLnVnln) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7) | [Ukulele Therapy: Soothing Instrumentals for Relaxing](https://open.spotify.com/album/0fJsCkPyFZ9IcHaIV140e8) | 3:45 |
 | 37 | [Three Little Birds \- Ukulele](https://open.spotify.com/track/6ASMHSe9stzXM020tKThqg) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ukulele Covers](https://open.spotify.com/album/00QZQbLEZASvyeiOLzE0ky) | 3:21 |
-| 38 | [Paka Ua](https://open.spotify.com/track/7tGs3qEdxRPpu6EXahlICf) | [Ozzie Kotani](https://open.spotify.com/artist/142rlGd3piCJQf1OWRkywk), [Daniel Ho](https://open.spotify.com/artist/17SbhL3sy2cOMZ4sMvVFlI) | [The Descendants](https://open.spotify.com/album/6VodWMKGJ6HgcaHqftYngq) | 3:50 |
+| 38 | [Paka Ua](https://open.spotify.com/track/1hHGhu5Ly4MtctPrshrAb5) | [Ozzie Kotani](https://open.spotify.com/artist/142rlGd3piCJQf1OWRkywk), [Daniel Ho](https://open.spotify.com/artist/17SbhL3sy2cOMZ4sMvVFlI) | [The Descendants](https://open.spotify.com/album/15YakA5L7dr86I60h4zKMy) | 3:50 |
 | 39 | [Nearness Of You](https://open.spotify.com/track/7sSKDW4DGrp41vYsyv8FqN) | [Bill Tapia](https://open.spotify.com/artist/3ULZcv5WLuwSd83derlQhR) | [Livin' It Live](https://open.spotify.com/album/0snKiBMX04C2TSc4qu9wT7) | 4:35 |
 | 40 | [Blue Hawaii](https://open.spotify.com/track/70AO25Ab46E7Mu1Z8TDGQU) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Eddie Bush](https://open.spotify.com/artist/0tuRmjt5kv75nedebw4kFo) | [A Visit To Hawaii](https://open.spotify.com/album/7A3uJ8GLgKe2QXyGWxQevm) | 1:59 |
 | 41 | [Fly Me To The Moon](https://open.spotify.com/track/3WtHeD1MkPYh1o5Bta94uL) | [Kaikane](https://open.spotify.com/artist/23f4uXdf9I7nMXo3Aaxsp7) | [What a Wonderfull World](https://open.spotify.com/album/3ObzhmOpdnOQzm5O6mreAl) | 2:11 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 | 55 | [Over the Rainbow \- What a Wonderful World: Instrumental Guitar & Hawaiian Ukelele](https://open.spotify.com/track/5yFEuHawcsewDx3aSYFJss) | [Relaxation Guitar Maestro](https://open.spotify.com/artist/6B5MoYNLUzzteweIhTxIaC) | [Over the Rainbow \- What a Wonderful World: Instrumental Guitar & Hawaiian Ukelele](https://open.spotify.com/album/3axtiXVPio96WlTBczCKKG) | 4:47 |
 | 56 | [Yesterday](https://open.spotify.com/track/3SdPIwKA7dmxrYJIs63KCj) | [Winton Pearl](https://open.spotify.com/artist/5eM9121fISPjCeJjixEnqZ) | [You Are The Sunshine Of My Life](https://open.spotify.com/album/5gCYcWDJ34dH9oV2zWeaKi) | 2:35 |
 
-Snapshot ID: `MCwxYTgyMTBjY2ZiN2EyM2Q4NDI5MTc3ZDk0OWI2ZWNlNjMyODhlZTNk`
+Snapshot ID: `MCw0OTA4OGQwZDEyM2M4MzIwNDBmY2IzODE3ZTc2NTM1MTg3MzIwODVm`

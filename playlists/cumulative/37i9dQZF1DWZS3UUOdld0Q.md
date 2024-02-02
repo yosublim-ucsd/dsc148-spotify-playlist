@@ -4,7 +4,7 @@
 
 > Their time will come\. Eventually\. Probably\. Listen to the music from and inspired by Neon, now streaming on Netflix.
 
-69 songs - 3 hr 37 min
+70 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Corillo \- Santiago Quinones](https://open.spotify.com/track/16YUR5N0poJdlIUGZhBoYa) | [Santiago Quinones](https://open.spotify.com/artist/3MzGy58YBArTs8nukPxfkB) | [Neon \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1wFF4MVqEAANiK6iNI4hoT) | 2:31 | 2023-10-19 |  |
 | [Cuando Llego](https://open.spotify.com/track/6lvgxOCr8YpaL9dSgDTF1U) | [Javier Luna](https://open.spotify.com/artist/4FD5eJwBkv5Sf5egFdC04Y) | [Neon \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1wFF4MVqEAANiK6iNI4hoT) | 2:52 | 2023-10-19 |  |
 | [Demasiado Hot](https://open.spotify.com/track/6tHgUg7GaHqG9kyesXbclG) | [Andrei Mihai](https://open.spotify.com/artist/4eDIrn2NEJGrVqRrP2Xjgq), [Faride Blanco](https://open.spotify.com/artist/5hL0rT2bo7n2d8R1w1y8ko) | [Reggaeton](https://open.spotify.com/album/5vR4PN1vMiw0DnGVPoRo0u) | 1:49 | 2023-10-19 |  |
-| [DiaboliK](https://open.spotify.com/track/1a5vynFVWTlCCOsKZ4ehTR) | [LuisOn](https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs) | [MuLTIFlOw](https://open.spotify.com/album/58T9N9fdZIPynQ3wfVsSe4) | 2:37 | 2023-08-31 |  |
+| [DiaboliK](https://open.spotify.com/track/1a5vynFVWTlCCOsKZ4ehTR) | [LuisOn](https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs) | [MuLTIFlOw](https://open.spotify.com/album/58T9N9fdZIPynQ3wfVsSe4) | 2:37 | 2023-08-31 | 2024-02-02 |
+| [DiaboliK](https://open.spotify.com/track/4jVQYe8UC9bG0z4QM9N8yp) | [LuisOn](https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs) | [MuLTIFlOw](https://open.spotify.com/album/7mjVOO0xlXhILrEGgSzMPv) | 2:37 | 2023-10-19 |  |
 | [Dura](https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Dura](https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7) | 3:20 | 2023-08-31 |  |
 | [En Alta](https://open.spotify.com/track/5QX43W0c6X53arJNNtDV8U) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [En Alta \(Quevedo\)](https://open.spotify.com/album/2GVUHI3j9T7FUHToqFulkv) | 4:10 | 2023-08-31 |  |
 | [Es Tuyo](https://open.spotify.com/track/3i4qGP6VJyiDph0gUJmTKu) | [Santiago Quinones](https://open.spotify.com/artist/3MzGy58YBArTs8nukPxfkB) | [Neon \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1wFF4MVqEAANiK6iNI4hoT) | 2:35 | 2023-10-19 |  |

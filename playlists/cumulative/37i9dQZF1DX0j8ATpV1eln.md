@@ -4,13 +4,14 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-150 songs - 9 hr 48 min
+153 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5 soul MATE"S"](https://open.spotify.com/track/4kxvOwxbHfOvghNYlawlEX) | [アイベヤ](https://open.spotify.com/artist/2K7SRRLUrYmq4tXW1vjQjP), [倉持洋一](https://open.spotify.com/artist/0JHqdvw8kzQJ1GM2ZkmdoX), [増子透](https://open.spotify.com/artist/5GWTevJFZlrS9I3PLjA5iY) | [TVアニメ「ダイヤのA」青心寮へようこそ!\~生ってこーぜ\~テーマソング 5 soul MATE"S"](https://open.spotify.com/album/40ndBfEupKF1OCrqdIspyS) | 3:54 | 2022-04-26 |  |
 | [Ahatte Teppen'](https://open.spotify.com/track/1Ahd8RIuzNBZFwkH2AhYlR) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [Ahatte Teppen’](https://open.spotify.com/album/44dpI1riKMZ1mSMFS8RWAA) | 3:29 | 2022-08-16 |  |
-| [ARK](https://open.spotify.com/track/0zAgwBgOPAgMqVvRbCukEP) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [＄ＨＵＦＦＬＥ](https://open.spotify.com/album/7LT9tCh3HhrcOWzK9j62l4) | 4:11 | 2022-04-26 |  |
+| [ARK](https://open.spotify.com/track/0zAgwBgOPAgMqVvRbCukEP) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [＄ＨＵＦＦＬＥ](https://open.spotify.com/album/7LT9tCh3HhrcOWzK9j62l4) | 4:11 | 2022-04-26 | 2024-02-02 |
+| [ARK](https://open.spotify.com/track/3OX7w9gvjZ9Z3h7T3xCyqv) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [$HUFFLE](https://open.spotify.com/album/3yE9VJKvfnDCKs0xzNRHlq) | 4:11 | 2024-01-16 |  |
 | [Ashita Tenki ni Naare](https://open.spotify.com/track/2gX9TP8JzHjgHFMbk0yI6O) | [Daisy×Daisy](https://open.spotify.com/artist/5wYga8lT3TNapDC8ciqarN) | [Dangerous x Dizzy x Daisy](https://open.spotify.com/album/1qm8lz6DgikAsbAOlNRYCn) | 4:51 | 2022-07-26 |  |
 | [BLOOM OF YOUTH](https://open.spotify.com/track/49TxIwkNXmuWcAL0jM4zG1) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [BLOOM OF YOUTH](https://open.spotify.com/album/0jkBha31CnbIjWKQidhzlH) | 4:19 | 2022-04-26 | 2022-07-29 |
 | [Bloom of Youth](https://open.spotify.com/track/3wOFa4aCmZ1eijDOf3ETJv) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [O×T Complete Songs TV Anime "Ace of Diamond"](https://open.spotify.com/album/31MVKQ2l23p7ffFgLuWKao) | 4:19 | 2022-07-26 |  |
@@ -18,6 +19,7 @@
 | [BRAND NEW BLUE \(feat.オーイシマサヨシ\)](https://open.spotify.com/track/3WFmQpUgqoG9fKJQvyTIS2) | [沢村栄純\(CV:逢坂良太\)](https://open.spotify.com/artist/3B9T7Svm2a76E6NpvQPyKx), [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [BRAND NEW BLUE](https://open.spotify.com/album/2b3sq1TGI2I6xOFTBdmPN1) | 3:59 | 2022-04-26 |  |
 | [Chance!](https://open.spotify.com/track/5VfBsV4CGXTEoXcpKCYlbJ) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [R](https://open.spotify.com/album/4EickkApFQdwrGpgR8a7Q7) | 3:35 | 2023-04-06 |  |
 | [Chance!](https://open.spotify.com/track/0qsCl2VGBKUq50K1gT184f) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Chance!/Yugata](https://open.spotify.com/album/7h83mVTDGHwtGOli9lYNZg) | 3:36 | 2022-07-26 | 2023-04-09 |
+| [Cinderella Step](https://open.spotify.com/track/21oAFnYh1lT63gk8U5f4Ig) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [L∞VE](https://open.spotify.com/album/02RTnk3gvHrtNVYxefeqSb) | 3:40 | 2024-01-16 |  |
 | [Circle of Seasons](https://open.spotify.com/track/0INHmCFlkg3oI1vSlonQ0C) | [A3ders!](https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv) | [Circle of Seasons](https://open.spotify.com/album/4wfAkeE04rz5KflrwYW75N) | 3:27 | 2022-04-26 | 2022-07-29 |
 | [Circle of Seasons](https://open.spotify.com/track/6ykOsKAoSXcxywikdIY1zt) | [A3ders!](https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv) | [Circle of Seasons](https://open.spotify.com/album/5ha7l4jh7vHgOrVRFGwpvz) | 3:27 | 2022-07-26 |  |
 | [Eiyu no Uta](https://open.spotify.com/track/3V3r7CtwCmrnRCeGa4V1rw) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 4:03 | 2022-07-26 |  |
@@ -108,7 +110,7 @@
 | [ゴールデンアフタースクール](https://open.spotify.com/track/5CoX3aCqEvdgYGUWHoui00) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [ゴールデンアフタースクール](https://open.spotify.com/album/3qahXN726D4jABWgdbVfId) | 3:48 | 2022-04-26 | 2022-07-29 |
 | [サヨナラから始まる物語](https://open.spotify.com/track/0v4aUn7ToZ3Wx9QTOqYyHr) | [星見プロダクション](https://open.spotify.com/artist/1qu8WIATG5KzozEzjmDkx7) | [サヨナラから始まる物語](https://open.spotify.com/album/4vqT0FUhwmuiFVMXwjNvxl) | 3:37 | 2022-04-26 |  |
 | [シンガロン進化論](https://open.spotify.com/track/47kJGOXCJZqgJhHhfpfODn) | [大橋彩香](https://open.spotify.com/artist/74VIJfMSLnKe5eU3yvv2RT) | [PROGRESS](https://open.spotify.com/album/6zLtC2ZFNrCvsEkq4VEdsX) | 3:24 | 2022-04-26 |  |
-| [シンデレラステップ](https://open.spotify.com/track/6kBW41TUekIPyVkfMhYLSw) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [L∞VE](https://open.spotify.com/album/4qKM6NdUMTNFFTPPvOFhvp) | 3:40 | 2022-04-26 |  |
+| [シンデレラステップ](https://open.spotify.com/track/6kBW41TUekIPyVkfMhYLSw) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [L∞VE](https://open.spotify.com/album/4qKM6NdUMTNFFTPPvOFhvp) | 3:40 | 2022-04-26 | 2024-02-02 |
 | [スーパーヒーロー](https://open.spotify.com/track/1CF2fTdiBSR6teCFkz58rh) | [となりの坂田。](https://open.spotify.com/artist/39hHIBvCe897cm5gTUp3cc) | [CRUISE TICKET](https://open.spotify.com/album/3TzgqnTRe1DcS9GOsMHgmc) | 3:52 | 2022-04-26 |  |
 | [チャンス!](https://open.spotify.com/track/7EBWdb33mVVGm5FcLRHWgU) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [チャンス!/ゆうがた](https://open.spotify.com/album/1EA5ra1En6tsLU0jGnc5SR) | 3:36 | 2022-04-26 | 2022-07-29 |
 | [パラレルワールド](https://open.spotify.com/track/2cykeuXxbCeS8zLskO8AeG) | [大石昌良](https://open.spotify.com/artist/2DCpkbmYB8FVjI0n15MdSR) | [パラレルワールド](https://open.spotify.com/album/12YSKaIVTlWhjaIW2Il2a3) | 5:01 | 2022-04-26 | 2022-07-29 |
@@ -122,7 +124,8 @@
 | [フィッシュストーリー](https://open.spotify.com/track/3J2Sm65u3cDERWIJoKUTHi) | [Soma Saito](https://open.spotify.com/artist/1O2VCqaEfk91iBO0Sgchvb) | [フィッシュストーリー](https://open.spotify.com/album/4GBQaDl8PQfmS1tkZi9xDB) | 4:22 | 2022-04-26 |  |
 | [フレ!フレ!ベストフレンズ](https://open.spotify.com/track/54URYrsQij0Qn2rULJRtdU) | [Doubutsu Biscuits](https://open.spotify.com/artist/5S7SMGimbPWuPh2F0urDgE), [PPP](https://open.spotify.com/artist/2V17fC0iAXQ2MpOw4DPvBV) | [フレ!フレ!ベストフレンズ](https://open.spotify.com/album/7qS0pR835gt1LcgFAd1dgG) | 3:32 | 2022-04-26 |  |
 | [ブラッドタイプ☆ハートビート](https://open.spotify.com/track/3o4rU7AfHNzh1kAVq1VyYk) | [アース・スター ドリーム](https://open.spotify.com/artist/4qYsIXYEJ4RdMzHsgDLs7q), [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7), [斎藤愛永](https://open.spotify.com/artist/2d1N6ULMhAM6HJtzlkSEgN), [谷尻まりあ](https://open.spotify.com/artist/360PQ5XwSNHRNwLzVWc001), [村北沙織](https://open.spotify.com/artist/61VQpMQQxHwZtsR4uXKnFx) | [ブラッドタイプ☆ハートビート](https://open.spotify.com/album/3A0LuuqrBaK5RWneq9ojv0) | 4:02 | 2022-04-26 |  |
-| [ベイビーミュージックライダー](https://open.spotify.com/track/6w4h0SHsBqhl3mX9gRUvhc) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK) | [EGOIST](https://open.spotify.com/album/0ipn4KbD0P64UOX7FfG97T) | 3:48 | 2022-04-26 |  |
+| [ベイビーミュージックライダー](https://open.spotify.com/track/6w4h0SHsBqhl3mX9gRUvhc) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK) | [EGOIST](https://open.spotify.com/album/0ipn4KbD0P64UOX7FfG97T) | 3:48 | 2022-04-26 | 2024-02-02 |
+| [ベイビーミュージックライダー](https://open.spotify.com/track/7uPjB9ThvZqgx3jNlFYXIf) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK) | [EGOIST](https://open.spotify.com/album/54mnSCoA0f1XncPdV8ZWI6) | 3:48 | 2024-01-16 |  |
 | [ペテン師の憂鬱](https://open.spotify.com/track/7a7EQgcJT9sJkRuKgQXDXf) | [卯木千景\(CV:羽多野渉\)](https://open.spotify.com/artist/2q1iYBonWHVaAKjA7RgzYO) | [A3! VIVID SPRING EP](https://open.spotify.com/album/4c25HmOFJqSRpmD9sBbKJC) | 3:07 | 2022-04-26 | 2022-07-29 |
 | [ボーダーライン](https://open.spotify.com/track/23tAqSb0rt35fs2afloqwH) | [大石昌良](https://open.spotify.com/artist/2DCpkbmYB8FVjI0n15MdSR) | [ボーダーライン](https://open.spotify.com/album/0Dgj7OW90dReXbfCDFW3Cq) | 4:48 | 2022-07-26 |  |
 | [ボーダーライン](https://open.spotify.com/track/5bIcSgd7sI0neUMLgZO34D) | [大石昌良](https://open.spotify.com/artist/2DCpkbmYB8FVjI0n15MdSR) | [ボーダーライン](https://open.spotify.com/album/2KMmaGFcOPptu0BJFSTO3I) | 4:48 | 2022-04-26 | 2022-07-29 |

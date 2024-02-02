@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,507 likes - 30 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,514 likes - 30 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 29 | [8ミリフィルム](https://open.spotify.com/track/2bKrbzyQRDIMcF1FIsHzAU) | [Akasick](https://open.spotify.com/artist/2P2L4d4iTJgApjJrawjPVT) | [凛々フルーツ](https://open.spotify.com/album/1ScYIF6UWATdkXpa3ld4Ih) | 4:30 |
 | 30 | [恋心納品日](https://open.spotify.com/track/0yEqyEohkI8vNoHfUmXr8y) | [ペルシカリア](https://open.spotify.com/artist/4FdJpSAmMOX4yoYTAzjLKB) | [優しさとは未来への種まきです](https://open.spotify.com/album/5Cwxy98wlqckyxa82gjjnY) | 2:30 |
 
-Snapshot ID: `MCwxNjAzYjkxMjNlYWQyMDY5M2NhNmI0YjJlOTQwZDFhMzUzMzIwMWI4`
+Snapshot ID: `MCxiMjg5YzRmMDdmNmE5NDJlODIyMzExNjE3NWQ5YjFlOGZmYzJjNjc1`

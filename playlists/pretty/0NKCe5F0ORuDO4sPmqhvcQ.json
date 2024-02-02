@@ -6,8 +6,52 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA1NzUsNjdmNjkwNGMwY2M4MDBiNTU3YTVkM2U1YjQ5ZGM4ZDExMWYxYzFjMQ==",
+  "snapshot_id": "MTA1NzksNzkzNjRkZWRlZDcyYzllNTU0MTk1ZDA4NDQyYjQ1NmQ2NjhiMDQyOQ==",
   "tracks": [
+    {
+      "added_at": "2024-02-01 17:47:45",
+      "album": {
+        "name": "All Ur Luv",
+        "url": "https://open.spotify.com/album/1KrS7daFwtHSyT5aPsI0so"
+      },
+      "artists": [
+        {
+          "name": "Wavedash",
+          "url": "https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE"
+        },
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 161771,
+      "name": "All Ur Luv",
+      "url": "https://open.spotify.com/track/3K1RnBxBkrMwoBE8gC63eY"
+    },
+    {
+      "added_at": "2024-02-01 17:48:18",
+      "album": {
+        "name": "Stay (feat. Lyrah)",
+        "url": "https://open.spotify.com/album/3weaHHvf6IcRNNYO9O9Tff"
+      },
+      "artists": [
+        {
+          "name": "CHROMEBODIES",
+          "url": "https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI"
+        },
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Stay (feat. Lyrah)",
+      "url": "https://open.spotify.com/track/7JCUET0Po7EzBz7PwlQf2J"
+    },
     {
       "added_at": "2023-11-24 18:25:16",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Warfaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,493 likes - 95 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,551 likes - 95 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 61 | [Confusion](https://open.spotify.com/track/6NUIyfilS2SAUK5yvWx1DG) | [Bangla Five](https://open.spotify.com/artist/2mt61gxTSTC56E4wgosOIj) | [Confusion](https://open.spotify.com/album/2c2xtzOyPOkEoou45o1tYc) | 4:53 |
 | 62 | [Eden](https://open.spotify.com/track/53NYK7ZRLBErAMdJNBJEoo) | [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Eden](https://open.spotify.com/album/5LtAT3Wo7DQ8dDCiR0bN1T) | 4:18 |
 | 63 | [Hariye Jao](https://open.spotify.com/track/6yMqALZcV8hTlcM3ahWizp) | [Arbovirus](https://open.spotify.com/artist/6SAIBTqNQJDC2kzZDPLKle) | [Montobbo Nishproyojon](https://open.spotify.com/album/1zUU2VDyuRFqyQEryaKnPi) | 5:51 |
-| 64 | [Opekkha, Pt\. 1](https://open.spotify.com/track/0YMbrZvSCvoZ8KLlvqgoE2) | [Vikings](https://open.spotify.com/artist/5lrrdRfiO5RHTTJW4CAq35) | [Run Out](https://open.spotify.com/album/0jRNMjnYRx3lhoIGmUbBtO) | 5:49 |
+| 64 | [Opekkha, Pt\. 1](https://open.spotify.com/track/0YMbrZvSCvoZ8KLlvqgoE2) | [Vikings](https://open.spotify.com/artist/7dFuvAESogEqVv0vz1kTJl) | [Run Out](https://open.spotify.com/album/0jRNMjnYRx3lhoIGmUbBtO) | 5:49 |
 | 65 | [Neelanjana](https://open.spotify.com/track/1lIPZOelxV3RAIXAu9Rxkb) | [Encore](https://open.spotify.com/artist/3HFhu4Eq2qOPEnISUen3M7) | [Neelanjana](https://open.spotify.com/album/0IO21cidAdKjoGgc6BBmYl) | 6:00 |
 | 66 | [Ami Bodle Jabo](https://open.spotify.com/track/70I6M0XVW11XCLh4UR0jMY) | [Ashes Bangladesh](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Ami Bodle Jabo](https://open.spotify.com/album/7JdEnsEJrrrtGLbL2N4n6B) | 5:20 |
 | 67 | [Chaite Paro 2](https://open.spotify.com/track/2VpwAV3gsadE2zV2JpkoWI) | [Aurthohin](https://open.spotify.com/artist/2W4I7PFzMsSXVpNNhvGF3A) | [Aushomapto 1](https://open.spotify.com/album/7whmpn7eMWOJjZUaYd2AIS) | 4:05 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 94 | [Ondho Deyal](https://open.spotify.com/track/3t5RiZ8gNRK41NJucuL3ju) | [Shonar Bangla Circus](https://open.spotify.com/artist/0VunpVWO2MCBMR1qwGRWzh) | [Hyena Express](https://open.spotify.com/album/1y3dEPRfsbLgGelBKtXyuq) | 5:37 |
 | 95 | [Chaya](https://open.spotify.com/track/6YdezeXuIAkGaLRgbC08Ny) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [Chaya](https://open.spotify.com/album/5DHclWpAoKJglHp93WrQ2F) | 6:25 |
 
-Snapshot ID: `MCw2NzNkMDBhMmI1ZTVkZWU3NGEyMjMzYzJkZjVlMGViYmEyNzg4NWJj`
+Snapshot ID: `MCwxOTZiMDRjZjZhNDRhY2E3YTAzMjRhNTk0YzE0ZTcyNzdmMzRhYTU3`

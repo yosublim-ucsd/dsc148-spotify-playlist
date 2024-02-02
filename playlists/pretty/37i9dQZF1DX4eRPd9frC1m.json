@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2583681,
+  "num_followers": 2583690,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzQ4MzQwNGEyYzUzMzZmOTQxYWRkNTVjNGFmOTE3ODNlOWY2ZWE0",
+  "snapshot_id": "MCwwMzAwNGU0YmI2MGZmNjM0MTk5YzliY2YzODJlNThiZTlhMWIxZjIz",
   "tracks": [
     {
       "added_at": "2024-01-12 05:29:15",
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-01-12 05:29:15",
       "album": {
-        "name": "Into the Sun",
-        "url": "https://open.spotify.com/album/4o64zqena2YeCi6q687ekv"
-      },
-      "artists": [
-        {
-          "name": "Bassnectar",
-          "url": "https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i"
-        },
-        {
-          "name": "Lafa Taylor",
-          "url": "https://open.spotify.com/artist/0j0HBDnIuT6rsn840ec18A"
-        }
-      ],
-      "duration_ms": 282272,
-      "name": "Speakerbox (feat. Lafa Taylor)",
-      "url": "https://open.spotify.com/track/3NPYT4nilQ6YW1uA8I7orI"
-    },
-    {
-      "added_at": "2024-01-12 05:29:15",
-      "album": {
         "name": "dashstar* (Yellow Claw Trap Edit)",
         "url": "https://open.spotify.com/album/2WGGdPokwClK08HMWXgh62"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 152776,
       "name": "dashstar* - Yellow Claw Trap Edit",
       "url": "https://open.spotify.com/track/0fQlqbTeuXiUZnkmqTurOc"
+    },
+    {
+      "added_at": "2024-01-12 05:29:15",
+      "album": {
+        "name": "Into the Sun",
+        "url": "https://open.spotify.com/album/4o64zqena2YeCi6q687ekv"
+      },
+      "artists": [
+        {
+          "name": "Bassnectar",
+          "url": "https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i"
+        },
+        {
+          "name": "Lafa Taylor",
+          "url": "https://open.spotify.com/artist/0j0HBDnIuT6rsn840ec18A"
+        }
+      ],
+      "duration_ms": 282272,
+      "name": "Speakerbox (feat. Lafa Taylor)",
+      "url": "https://open.spotify.com/track/3NPYT4nilQ6YW1uA8I7orI"
     },
     {
       "added_at": "2024-01-12 05:29:15",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2024-01-12 05:29:15",
       "album": {
+        "name": "2 MUCH (feat. 24hrs)",
+        "url": "https://open.spotify.com/album/01xr9so8umOVL5bwL82noG"
+      },
+      "artists": [
+        {
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "24hrs",
+          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "2 MUCH (feat. 24hrs)",
+      "url": "https://open.spotify.com/track/5YRmvwA6P4fABxRhc61iH9"
+    },
+    {
+      "added_at": "2024-01-12 05:29:15",
+      "album": {
         "name": "Burial (feat. Pusha T, Moody Good, TrollPhace)",
         "url": "https://open.spotify.com/album/3rOzXYxXqBUcw3u131mrjE"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 194248,
       "name": "Suffer In Silence",
       "url": "https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS"
-    },
-    {
-      "added_at": "2024-01-12 05:29:15",
-      "album": {
-        "name": "2 MUCH (feat. 24hrs)",
-        "url": "https://open.spotify.com/album/01xr9so8umOVL5bwL82noG"
-      },
-      "artists": [
-        {
-          "name": "Flosstradamus",
-          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
-        },
-        {
-          "name": "24hrs",
-          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "2 MUCH (feat. 24hrs)",
-      "url": "https://open.spotify.com/track/5YRmvwA6P4fABxRhc61iH9"
     },
     {
       "added_at": "2024-01-12 05:29:15",
@@ -1215,42 +1215,6 @@
     {
       "added_at": "2024-01-12 05:29:15",
       "album": {
-        "name": "damn Right Pt. 2",
-        "url": "https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "damn Right Pt. 2",
-      "url": "https://open.spotify.com/track/3syIqcdNRjbFcWkEMRRT1d"
-    },
-    {
-      "added_at": "2024-01-12 05:29:15",
-      "album": {
-        "name": "Vibe Check",
-        "url": "https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Vibe Check",
-      "url": "https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF"
-    },
-    {
-      "added_at": "2024-01-12 05:29:15",
-      "album": {
         "name": "Silo (feat. fknsyd)",
         "url": "https://open.spotify.com/album/2e6ev74vWl4wuJXuxpDjf8"
       },
@@ -1271,6 +1235,42 @@
       "duration_ms": 247500,
       "name": "Silo (feat. fknsyd)",
       "url": "https://open.spotify.com/track/6F3eFeqRMgjnPrFJGiosdd"
+    },
+    {
+      "added_at": "2024-01-12 05:29:15",
+      "album": {
+        "name": "Vibe Check",
+        "url": "https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Vibe Check",
+      "url": "https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF"
+    },
+    {
+      "added_at": "2024-01-12 05:29:15",
+      "album": {
+        "name": "damn Right Pt. 2",
+        "url": "https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "damn Right Pt. 2",
+      "url": "https://open.spotify.com/track/3syIqcdNRjbFcWkEMRRT1d"
     },
     {
       "added_at": "2024-01-12 05:29:15",

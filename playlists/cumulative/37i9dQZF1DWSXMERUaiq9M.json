@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "4Ever",
+        "url": "https://open.spotify.com/album/3fJ1EFpVELMmCNZ4QbKmo5"
+      },
+      "artists": [
+        {
+          "name": "Zorza",
+          "url": "https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165530,
+      "name": "4Ever",
+      "url": "https://open.spotify.com/track/3CdW8qNnxEtnn3yy3SkHFb"
+    },
+    {
+      "album": {
         "name": "Maktub",
         "url": "https://open.spotify.com/album/0UOf5Q11t1MGQ0TA0yIbfh"
       },
@@ -562,7 +580,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 301080,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/1Hll6B9gqsOFi2Bln02laD"
@@ -1570,7 +1588,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 170096,
       "name": "Heartbreak Repair System",
       "url": "https://open.spotify.com/track/2Vl7tpgcrVNT2FlAFs9oPm"
@@ -2450,6 +2468,24 @@
       "duration_ms": 204000,
       "name": "Moment",
       "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
+    },
+    {
+      "album": {
+        "name": "Moonlight (Rave Edit)",
+        "url": "https://open.spotify.com/album/2efgNZbcsAf9eYJ8hwXSJM"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153304,
+      "name": "Moonlight - Rave Edit",
+      "url": "https://open.spotify.com/track/2CpRpE4bXlpT1B7vwKsxKa"
     },
     {
       "album": {

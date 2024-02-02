@@ -1,12 +1,12 @@
 {
   "description": "Ya Wailee! Get ready for some serious 90s nostalgia. Cover : Amr Diab",
-  "num_followers": 100977,
+  "num_followers": 101009,
   "original_name": "90s Arabic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGY3NTYwYTJhZjkwNjdlM2Q1M2U0MGRkMTkzMzAwZDdlMDNjZWEz",
+  "snapshot_id": "MCwwYjBlNjIwY2VjYzI3YTRjNzE1ZTJhMzQzYjQwMmY3MjYwZjQ1MjI2",
   "tracks": [
     {
       "added_at": "2023-09-15 13:43:10",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-09-15 13:43:10",
       "album": {
-        "name": "Ba'Ad Al Hob",
-        "url": "https://open.spotify.com/album/2Ro807NACs4StaffbQUd8A"
-      },
-      "artists": [
-        {
-          "name": "Kadim Al Sahir",
-          "url": "https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK"
-        }
-      ],
-      "duration_ms": 349333,
-      "name": "Kolak Ala Badhak - Remastered 2000",
-      "url": "https://open.spotify.com/track/2sFFcde1ToI6DVCzvWwePM"
-    },
-    {
-      "added_at": "2023-09-15 13:43:10",
-      "album": {
         "name": "\u0637\u0628\u064a\u0628 \u062c\u0631\u0627\u062d",
         "url": "https://open.spotify.com/album/36uGSGjHobfqKqsFpTHvlA"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 381200,
       "name": "\u0637\u0628\u064a\u0628 \u062c\u0631\u0627\u062d",
       "url": "https://open.spotify.com/track/73Qln2DC1UheLEv1b08Fd7"
+    },
+    {
+      "added_at": "2023-09-15 13:43:10",
+      "album": {
+        "name": "Ba'Ad Al Hob",
+        "url": "https://open.spotify.com/album/2Ro807NACs4StaffbQUd8A"
+      },
+      "artists": [
+        {
+          "name": "Kadim Al Sahir",
+          "url": "https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK"
+        }
+      ],
+      "duration_ms": 349333,
+      "name": "Kolak Ala Badhak - Remastered 2000",
+      "url": "https://open.spotify.com/track/2sFFcde1ToI6DVCzvWwePM"
     },
     {
       "added_at": "2023-09-15 13:43:10",

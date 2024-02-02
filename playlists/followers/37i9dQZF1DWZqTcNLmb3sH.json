@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 56960,
+  "2024-02-02": 56969,
   "date_first_scraped": "2021-12-28",
   "description": "Check out the latest hits from Sandalwood!\nCover : Karnataka Damanaka\n",
   "name": "Latest Kannada",
@@ -6861,7 +6861,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 142040,
       "name": "Eradu Gundege Katttaaalu",
       "url": "https://open.spotify.com/track/14JoAupAAEqIZ5AkyOUqNa"
@@ -9121,6 +9121,32 @@
       "duration_ms": 234932,
       "name": "Honganase Honganase (from \"Moorane Krishnappa\" )",
       "url": "https://open.spotify.com/track/1VU80KXpq64qJpEv1EiTaP"
+    },
+    {
+      "album": {
+        "name": "Hoovamma Hoove (From \"HanuMan\") [Kannada]",
+        "url": "https://open.spotify.com/album/74CPgh3JLyhykLSjkeClS3"
+      },
+      "artists": [
+        {
+          "name": "GowraHari",
+          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
+        },
+        {
+          "name": "Yogi Sekar",
+          "url": "https://open.spotify.com/artist/4n32jWbOVtfNDsOJAGQJcs"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267682,
+      "name": "Hoovamma Hoove (From \"HanuMan\") [Kannada]",
+      "url": "https://open.spotify.com/track/5gwAYXSVryzQcDyH0NGPJu"
     },
     {
       "album": {
@@ -13780,6 +13806,40 @@
     },
     {
       "album": {
+        "name": "Manegondu Maalige (From \"Appa I Love You\")",
+        "url": "https://open.spotify.com/album/3AW8D4Hs4oBnbHNYL2q1wc"
+      },
+      "artists": [
+        {
+          "name": "Akash Parva",
+          "url": "https://open.spotify.com/artist/2LyrhBPTEuifocZjRarMW6"
+        },
+        {
+          "name": "Kinnal Raj",
+          "url": "https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Tabla Nani",
+          "url": "https://open.spotify.com/artist/1yA8wjWut0EjIUL1TFIGex"
+        },
+        {
+          "name": "Lovely Star Prem",
+          "url": "https://open.spotify.com/artist/6LRwLkHxRjZWtBHdYUMtLP"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Manegondu Maalige (From \"Appa I Love You\")",
+      "url": "https://open.spotify.com/track/04FxjbgwogKiMyVzgkOjDt"
+    },
+    {
+      "album": {
         "name": "Mannali Jeeva Untu [From \"Jai Bhim (Kannada)\"]",
         "url": "https://open.spotify.com/album/31VP1vkZjip85597tyBmGR"
       },
@@ -17779,7 +17839,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 195129,
       "name": "Odiyamma (From \"Hi Nanna\") [KANNADA]",
       "url": "https://open.spotify.com/track/60228WOjks3tGgzGoSOu0O"
@@ -18011,6 +18071,10 @@
         {
           "name": "Deepak Venugopal",
           "url": "https://open.spotify.com/artist/3jtUn32g8azXv3aOygJIWv"
+        },
+        {
+          "name": "Sreejith Edavana",
+          "url": "https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg"
         }
       ],
       "date_added": "2023-12-29",
@@ -19603,6 +19667,10 @@
         {
           "name": "Anila Rajeev",
           "url": "https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6"
+        },
+        {
+          "name": "Sreejith Edavana",
+          "url": "https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg"
         }
       ],
       "date_added": "2024-01-22",
@@ -21893,7 +21961,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 230149,
       "name": "Sona Baby (From \"Gana\")",
       "url": "https://open.spotify.com/track/1qFicoMiAL9RZA3K9IJLZZ"
@@ -23493,7 +23561,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 259411,
       "name": "Vajrakaaya Anjaneya (From \"HanuMan\") [Kannada]",
       "url": "https://open.spotify.com/track/4bn3L8VtLXt6iw2CqO8HLQ"

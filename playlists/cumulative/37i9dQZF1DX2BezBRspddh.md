@@ -4,7 +4,7 @@
 
 > True blue poetry\. Let these Bollywood Ghazals take over your day.
 
-51 songs - 4 hr 36 min
+52 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Tumhari Nazron Mein Humne Dekha](https://open.spotify.com/track/0iUDvymkkkYeThlW9bvVPy) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Kal Ki Awaz \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1A4CmSAU3csXMpzhQlxWtN) | 5:03 | 2023-07-13 |  |
 | [Yeh Raat Khushnaseeb Hai](https://open.spotify.com/track/4KlZYoWM2d2xubN8ZHjseR) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Aaina \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5D3yhDwUoMpj4dVHqw07VL) | 4:49 | 2023-07-13 |  |
 | [Yun Zindagi Ki](https://open.spotify.com/track/46xLESZaIBrvUqZYgXN4hb) | [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [Saath Saath](https://open.spotify.com/album/7esH45JgwUTlmi1wgK5y1b) | 4:48 | 2023-07-13 |  |
-| [Zabaan Jale Hai](https://open.spotify.com/track/0OxEBpr2GQcvjHbKzWNpWK) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Dedh Ishqiya](https://open.spotify.com/album/0x33kdKVOuPpUNyuQdX1LR) | 5:23 | 2023-07-13 |  |
+| [Zabaan Jale Hai](https://open.spotify.com/track/0OxEBpr2GQcvjHbKzWNpWK) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Dedh Ishqiya](https://open.spotify.com/album/0x33kdKVOuPpUNyuQdX1LR) | 5:23 | 2023-07-13 | 2024-02-02 |
+| [Zabaan Jale Hai](https://open.spotify.com/track/7EoVFJC88anCO86Ih3YDX7) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Dedh Ishqiya](https://open.spotify.com/album/23R1Rdt3MDu5aHYh9FFGBp) | 5:23 | 2023-11-27 |  |
 | [Zindagi Jab Bhi](https://open.spotify.com/track/0y3b4ssMVGVAYnVd231Tff) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Umrao Jaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qavq5Ue68nUxUK5VLRnNe) | 4:56 | 2023-07-13 |  |
 
 \*This playlist was first scraped on 2023-08-27. Prior content cannot be recovered.

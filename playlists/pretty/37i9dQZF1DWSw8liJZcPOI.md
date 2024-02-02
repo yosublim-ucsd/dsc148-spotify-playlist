@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,328 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,450 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 99 | [Sweet Coast](https://open.spotify.com/track/1ptDyLtS6vdBzy3yLhqGzI) | [Ann Annie](https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG) | [Sweet Coast](https://open.spotify.com/album/6X9fEBlxhE5PWZfrTx4jX6) | 2:33 |
 | 100 | [Tramlines](https://open.spotify.com/track/10BepUUYRLzp0QV2NoEDAB) | [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [Tramlines](https://open.spotify.com/album/0ktupZczFTrZjn4FJGu14r) | 3:46 |
 
-Snapshot ID: `MCwxZWNhNjQxN2QwOTRlMDllOGE4NDQ0ZGEyYmYwMTY0NjdjZDFiZjg0`
+Snapshot ID: `MCw3M2UwZDVkZmZhZGRmMWVhYzA3M2YzOTVlNzA4ZWQ5MTkwOTYzY2E1`

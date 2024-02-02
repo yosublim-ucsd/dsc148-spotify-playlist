@@ -2281,6 +2281,24 @@
     },
     {
       "album": {
+        "name": "I Hope to Be Around",
+        "url": "https://open.spotify.com/album/34ozWQHlJCvhXmjBp7Db4M"
+      },
+      "artists": [
+        {
+          "name": "Erica Sears",
+          "url": "https://open.spotify.com/artist/4Eom6otLBfeYp8vTs4vwhz"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226363,
+      "name": "I Hope to Be Around",
+      "url": "https://open.spotify.com/track/2nHgTV1nLGIjqlLxABJTHa"
+    },
+    {
+      "album": {
         "name": "Forever Live Sessions",
         "url": "https://open.spotify.com/album/4p73PcjJvWer7WDYXcGetn"
       },
@@ -2310,7 +2328,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 226522,
       "name": "I Hope To Be Around - (live)",
       "url": "https://open.spotify.com/track/5gnRon2NpsDVEeivCh6EGq"

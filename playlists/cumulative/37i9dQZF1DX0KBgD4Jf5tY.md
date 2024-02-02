@@ -4,7 +4,7 @@
 
 > Il meglio della musica indipendente italiana, aggiornata il terzo mercoledì di ogni mese\. Cover: <a href="spotify:artist:0PvxzN9MSvVMYj0b0fuwzA">Arianna Pasini</a>
 
-1,069 songs - 2 day 5 hr 5 min
+1,070 songs - 2 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [i wish i was here first](https://open.spotify.com/track/0gGC5ImVLnfwwaZIzh6ooe) | [Blue Alaska](https://open.spotify.com/artist/6IZCiqTePdDDwTzm25rSKN) | [i wish i was here first](https://open.spotify.com/album/0mBwWspqqTgpK65iwSnM0t) | 3:40 | 2023-10-03 | 2023-11-01 |
 | [Icaro](https://open.spotify.com/track/6pgsGlnlF8qF2OIH6WN2zW) | [Alec Temple](https://open.spotify.com/artist/0vRy2jN13Cf9RzO9yt5p4k), [VAGO XVII](https://open.spotify.com/artist/0WJZ557GAEx6zv9e21A6QG) | [Icaro](https://open.spotify.com/album/4ogUI4J0TwUg4SuoRH6mzn) | 2:43 | 2022-11-10 | 2022-11-25 |
 | [Idealise](https://open.spotify.com/track/2dDmsyN5lwWbutebg0LPjn) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Idealise](https://open.spotify.com/album/1JDUUXNXcW06SFKqKj1lXY) | 3:27 | 2022-10-20 | 2022-12-01 |
+| [IL CIELO SOPRA BERLINO](https://open.spotify.com/track/35qn0z2w10fNbQCGEBgnh3) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [IL CIELO SOPRA BERLINO](https://open.spotify.com/album/305uGvWZt5p4kLoPD4rP5n) | 3:40 | 2024-02-01 |  |
 | [Il mare in una scatola](https://open.spotify.com/track/6eQIPKnlI2i6JXwm43wn9v) | [NYX](https://open.spotify.com/artist/1RzE3e8u66CAb4tAyhqK6i) | [Il mare in una scatola](https://open.spotify.com/album/0dbU6qmukidqNuLqkyOY5x) | 2:49 | 2023-01-19 | 2023-02-17 |
 | [il mio lato migliore](https://open.spotify.com/track/6lU5Q0dWDQ2GJjg8dUqA3s) | [d/rose](https://open.spotify.com/artist/6h0OZeWlXrzF2akE3yNBta), [ggiovanni](https://open.spotify.com/artist/1oT8K7RFmacAPafRlcdnw9), [Luke Lecomte](https://open.spotify.com/artist/0R9RQ7VasOltY6d8I5g2Mc), [fenoaltea](https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L) | [il mio lato migliore](https://open.spotify.com/album/4XRZozYeqW4hjVzh7p2nfN) | 2:21 | 2023-08-29 | 2023-10-19 |
 | [il mio sole \(sei tu\)](https://open.spotify.com/track/0U57nIxmj5WuoKI8B6883w) | [giulybee](https://open.spotify.com/artist/2qy6kkG36fX0G2tYQa4vik), [gatomato](https://open.spotify.com/artist/1MqEPXCa6xq5YcFeArFnG4) | [il mio sole \(sei tu\)](https://open.spotify.com/album/37bVWsKCvQG1AytQXF2YaV) | 3:34 | 2022-06-23 | 2022-07-23 |

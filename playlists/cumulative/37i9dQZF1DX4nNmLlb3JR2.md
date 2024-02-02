@@ -4,7 +4,7 @@
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-224 songs - 8 hr 58 min
+226 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Hotel California \(Lofi Tune\)](https://open.spotify.com/track/2MsYbvZ0XqSeYLcMHg1gHr) | [vort vort](https://open.spotify.com/artist/46mWoMwui62bv2s52HiSO8) | [Hotel California \(Lofi Tune\)](https://open.spotify.com/album/0noN2xiFTC2PjMWejNHV41) | 2:44 | 2022-12-09 |  |
 | [Hotline Bling](https://open.spotify.com/track/4ZVanZJ1HJdxYd8ABLXGUM) | [Miro Mas](https://open.spotify.com/artist/4Nh6HRskIln2gWtk2KB0fL) | [I've Seen You Somewhere Before](https://open.spotify.com/album/68dG80XL5iTYGxjlfmG8tx) | 3:09 | 2022-09-16 |  |
 | [Hotline Bling \- Lofi Version](https://open.spotify.com/track/650A1oSiTx0BIVJD5eQglO) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Lo\-Fi Jams Vol\. 14](https://open.spotify.com/album/1IwWjovnVG3Ni1pr58JZkS) | 2:06 | 2022-09-02 | 2022-09-30 |
+| [how deep is your love](https://open.spotify.com/track/55cUQwQw1BW6K3VrzCpvvY) | [Jack All](https://open.spotify.com/artist/4rtQc0T0U3nCqAV6BwmOO4) | [how deep is your love](https://open.spotify.com/album/5bCb8dgtLFkMOlpmVP0lfZ) | 3:09 | 2024-02-02 |  |
 | [I Ain't Worried](https://open.spotify.com/track/1HWA6RZvFTxsJbV2SBW8vN) | [Thermousse](https://open.spotify.com/artist/0Ykwhkr1nxyYh2O3h2U0IK) | [I Ain't Worried](https://open.spotify.com/album/6X3oVvm0vfJMZF3H37vhDh) | 2:33 | 2022-11-11 |  |
 | [I Can't Make You Love Me](https://open.spotify.com/track/4O05P9QSQb6sgwegrxBX08) | [Ingelwood Syndicate](https://open.spotify.com/artist/3Mvlf7TqfvwKklBsRxezJ7) | [I Can't Make You Love Me](https://open.spotify.com/album/4BHFTYuEAqj9jK2p5o3Lxq) | 1:38 | 2022-10-28 |  |
 | [I Don't Care](https://open.spotify.com/track/4qXdMHTVfXC3JQzhhoDese) | [Peaceful Melody](https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [I Don't Care](https://open.spotify.com/album/7tn0sLHdTn8aNgex5QjBrS) | 2:14 | 2022-11-11 |  |
@@ -138,7 +139,7 @@
 | [Nothing Else Matters](https://open.spotify.com/track/43iChjuuKFSZw3LMLnrs2i) | [Oliver Kruz](https://open.spotify.com/artist/4dJvVbTz4n1WbqCH6XKDCm) | [Nothing Else Matters](https://open.spotify.com/album/5AUFhByOltEqxUA41CcZ9l) | 3:30 | 2023-06-09 | 2024-01-12 |
 | [Nothing´s Gonna Stop Us Now](https://open.spotify.com/track/5kDdYabORKt6kskxz1sd1S) | [the beats of...](https://open.spotify.com/artist/6xI7tRm64d9dwDuXrSv1Kr) | [Nothing´s Gonna Stop Us Now](https://open.spotify.com/album/3jtPNM44kEtKnG2CxSeixS) | 2:40 | 2022-11-11 |  |
 | [Numb](https://open.spotify.com/track/3RLTOAqa72Kn7gh6NzaRot) | [Miro Mas](https://open.spotify.com/artist/4Nh6HRskIln2gWtk2KB0fL) | [I've Seen You Somewhere Before](https://open.spotify.com/album/68dG80XL5iTYGxjlfmG8tx) | 2:55 | 2022-09-02 | 2022-11-12 |
-| [Numb](https://open.spotify.com/track/2XBFv43iLJAgc0tFLwpvSB) | [Mount Eminest](https://open.spotify.com/artist/4oUcWvCNxqNZv4l7BXlE0y), [holydope](https://open.spotify.com/artist/0xxzcwAkvq75H2kNaZVLxD), [Gletscher](https://open.spotify.com/artist/2XvOqRc89ghu9XuYotuqDj) | [Numb](https://open.spotify.com/album/7zSYpDlrN7u5RYDSkDcHpz) | 2:06 | 2022-09-02 |  |
+| [Numb](https://open.spotify.com/track/2XBFv43iLJAgc0tFLwpvSB) | [Mount Eminest](https://open.spotify.com/artist/4oUcWvCNxqNZv4l7BXlE0y), [holydope](https://open.spotify.com/artist/0xxzcwAkvq75H2kNaZVLxD), [Gletscher](https://open.spotify.com/artist/2XvOqRc89ghu9XuYotuqDj) | [Numb](https://open.spotify.com/album/7zSYpDlrN7u5RYDSkDcHpz) | 2:06 | 2022-09-02 | 2024-02-02 |
 | [Over the Rainbow](https://open.spotify.com/track/2IUPDUYvCheRPFysucHbly) | [Gal Dahan](https://open.spotify.com/artist/21x9QjLzTIpMonjnMzVvQB), [Ezraz](https://open.spotify.com/artist/63DrGLldYLdFyqmDsy1m2S) | [Over the Rainbow](https://open.spotify.com/album/235KsaDxGDS2kDLYak6Ihu) | 1:33 | 2022-09-02 |  |
 | [Passionfruit](https://open.spotify.com/track/0lGVhF1yGIMzOYYanlfSQo) | [DJ Garlik](https://open.spotify.com/artist/0N2on1pgu8mv01ch9Cs9XF), [Noomz](https://open.spotify.com/artist/2W85Y3jKObrtjjsa2o7dg6) | [Passionfruit](https://open.spotify.com/album/0ro0b0rRbVi7FwtURUcT9Y) | 2:35 | 2022-09-30 |  |
 | [Peaches](https://open.spotify.com/track/2qNufl6qhnYfzWxLmMaCNy) | [connectEcut](https://open.spotify.com/artist/2TQBOHcwPCSpMwkwIBTcgs) | [Peaches](https://open.spotify.com/album/6ere9gKBqXlOjP8kUvAFGc) | 2:21 | 2022-10-28 |  |
@@ -163,7 +164,7 @@
 | [Running Up That Hill](https://open.spotify.com/track/2eITMwB0fhcCw9fs5gjLrO) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [Running Up That Hill](https://open.spotify.com/album/2URVfdDGrqYbepIWjHHjIh) | 2:09 | 2022-11-11 |  |
 | [Running Up That Hill \(A Deal with God\) \- slowed + reverb](https://open.spotify.com/track/3AGfLfYdodmxje6MYI3n31) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Slowed and Reverbed Vol\. 5](https://open.spotify.com/album/7hx6Ds4IfqcWYV5dIqqfRQ) | 1:55 | 2022-09-16 | 2022-11-12 |
 | [Running Up That Hill \(Stranger Things Lofi\)](https://open.spotify.com/track/5dDs4tMasCeg1bsN1zxlOe) | [Chill Astronaut](https://open.spotify.com/artist/6QjN6GM0FYKcviJrQoAsbD) | [Running Up That Hill \(Stranger Things Lofi\)](https://open.spotify.com/album/1ynYbSsyT9TeywWt4Oh80E) | 2:09 | 2022-09-02 | 2023-10-19 |
-| [Savage Love](https://open.spotify.com/track/49tiZj04if4awJE2vjJo6z) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Intentions](https://open.spotify.com/album/3rThcXs5nBUVBeA3yiAg2x) | 2:51 | 2022-11-11 |  |
+| [Savage Love](https://open.spotify.com/track/49tiZj04if4awJE2vjJo6z) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Intentions](https://open.spotify.com/album/3rThcXs5nBUVBeA3yiAg2x) | 2:51 | 2022-11-11 | 2024-02-02 |
 | [Save Your Tears](https://open.spotify.com/track/5Hn992puLQFGQVrPQiFypz) | [Ingelwood Syndicate](https://open.spotify.com/artist/3Mvlf7TqfvwKklBsRxezJ7) | [Save Your Tears](https://open.spotify.com/album/22pdGXHvnPyLMvd6ZnMWNP) | 1:58 | 2022-11-11 |  |
 | [Save Your Tears](https://open.spotify.com/track/2yoNY32JruGk2kCx04GZo3) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Save Your Tears](https://open.spotify.com/album/6tPYTNx6QpdWg8ytSlDEe0) | 5:20 | 2023-08-21 |  |
 | [Say You Won't Let Go](https://open.spotify.com/track/4fB0z2PbEvhlElpRnJhPLn) | [Pacific](https://open.spotify.com/artist/5WLsGgfxV206tL7KD41Ft1) | [Say You Won't Let Go](https://open.spotify.com/album/5a9FR1GRQ9AkNDVxafIOIq) | 2:08 | 2022-10-14 |  |
@@ -213,6 +214,7 @@
 | [We Are Family](https://open.spotify.com/track/42XobImnQvdX9GUHqxnoPN) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [We Are Family](https://open.spotify.com/album/55G8HFz2yu9OoTavSMgRYj) | 1:48 | 2024-01-12 |  |
 | [weak](https://open.spotify.com/track/1fDXEyf7ljEsUN3iAPzyNd) | [phonadium](https://open.spotify.com/artist/1EbUbtNohBB2nDSZVdb0P8) | [weak](https://open.spotify.com/album/3Wfzenh9G4maSH1Hh3BP9i) | 2:55 | 2023-01-06 |  |
 | [wefoundlove](https://open.spotify.com/track/23kBxBCU9ey05l98Okzm1O) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [wefoundlove](https://open.spotify.com/album/6whfxObR17uLrOUpNpqzEP) | 2:01 | 2023-12-08 |  |
+| [what was i made for](https://open.spotify.com/track/7ztVb1wBTjjkSJSg8cgmMA) | [Archipelia](https://open.spotify.com/artist/1wOpgYj0lsgHUCXDTAGzmH) | [what was i made for](https://open.spotify.com/album/3KhgQIQDqinlfOFK3ruHa8) | 3:34 | 2024-02-02 |  |
 | [when i was your man](https://open.spotify.com/track/75z7lw3D0bIqla7vXKbaK7) | [haki donzo](https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b) | [when i was your man](https://open.spotify.com/album/1ORHp2iPLW0OjhWH7gw4O1) | 2:18 | 2023-12-08 |  |
 | [When Luv Takes Over](https://open.spotify.com/track/3FQWEdPPACJWoPwLcLVbaZ) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [When Luv Takes Over](https://open.spotify.com/album/5oOQw8yGLUvKgxcc6C6qw7) | 2:00 | 2022-12-09 |  |
 | [when the party's over](https://open.spotify.com/track/0gL7REEt5oI4DfvP8dJnUO) | [lokash](https://open.spotify.com/artist/3TenU6iPLdqp8732iFSVQj) | [when the party's over](https://open.spotify.com/album/1pq4TXmaQPGCmApo1HiZsT) | 2:49 | 2022-09-02 | 2024-01-19 |

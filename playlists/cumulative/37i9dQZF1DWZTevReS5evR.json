@@ -1331,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Live in Peter's Attic",
+        "url": "https://open.spotify.com/album/0jGd0wCQBaOe5IPeIn43H5"
+      },
+      "artists": [
+        {
+          "name": "Charlie Burg",
+          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243796,
+      "name": "I Don't Wanna Be Okay Without You",
+      "url": "https://open.spotify.com/track/5cJZPy9Tad2aT3ZMnN6yvd"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },

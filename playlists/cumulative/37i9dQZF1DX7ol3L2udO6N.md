@@ -4,7 +4,7 @@
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 久保田利伸 ■ アムラー出現 ■たまごっちヒット ■女子高生の援助交際が社会問題化 ■「自分で自分をほめたい」（有森裕子）■「メークドラマ」（長嶋茂雄）■「チョベリバ / チョベリグ」■渡辺淳一『失楽園』ベストセラー
 
-99 songs - 7 hr 36 min
+100 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [How Do U Want It \(ft\. K\-Ci & JoJo\)](https://open.spotify.com/track/2S2x5N5VJNn7vqYukvoFFC) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:47 | 2023-07-22 |  |
 | [I Believe I Can Fly](https://open.spotify.com/track/2RzJwBCXsS1VnjDm2jKKAa) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ) | [R.](https://open.spotify.com/album/4yRYsQZfQpzkoVWH2XCX66) | 5:20 | 2023-11-15 | 2023-11-29 |
 | [I Need To Be In Love \- 1990 Remix](https://open.spotify.com/track/1tCok3BIvahyl6P9LC7WHh) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304), [Richard Carpenter](https://open.spotify.com/artist/7slnlqXyKCLVEirP005Q2n), [Roger Young](https://open.spotify.com/artist/40q96OkRdRijCuHML34zey) | [Singles 1969\-1981](https://open.spotify.com/album/6Gi9Dl7TxRxC1rtmFHexOI) | 3:49 | 2023-07-22 |  |
-| [I'm proud \(Radio Edit\)](https://open.spotify.com/track/6yxwKzzNE07zmGSuEWEexc) | [Tomomi Kahara](https://open.spotify.com/artist/44ABnS2hBJ3womOeTqx5jp) | [I'm proud](https://open.spotify.com/album/35hQ5CEQGk2RMTzWKDlhEA) | 4:33 | 2023-07-22 |  |
+| [I'm proud \(Radio Edit\)](https://open.spotify.com/track/6yxwKzzNE07zmGSuEWEexc) | [Tomomi Kahara](https://open.spotify.com/artist/44ABnS2hBJ3womOeTqx5jp) | [I'm proud](https://open.spotify.com/album/35hQ5CEQGk2RMTzWKDlhEA) | 4:33 | 2023-07-22 | 2024-02-02 |
+| [I'm proud \- Radio Edit](https://open.spotify.com/track/4h63N7AkekowRMrXFEcS9e) | [Tomomi Kahara](https://open.spotify.com/artist/44ABnS2hBJ3womOeTqx5jp) | [BEST SELECTION:KAHALA TOMOMI](https://open.spotify.com/album/0XKUyqrf2Tvbs4SJRPiQJe) | 4:32 | 2023-11-15 |  |
 | [If It Makes You Happy](https://open.spotify.com/track/5XrfFo0JFOnWD9ZMNXGkQh) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb) | 5:23 | 2023-07-22 |  |
 | [Ironic \- 2015 Remaster](https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:50 | 2023-07-22 |  |
 | [Jam \- Remastered](https://open.spotify.com/track/1q5tEL2YtCjEar9LfwYBRC) | [THE YELLOW MONKEY](https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg) | [Single Collection \(Remastered\)](https://open.spotify.com/album/1avJGtKZStCiLApBcCSLuG) | 5:18 | 2023-07-22 |  |

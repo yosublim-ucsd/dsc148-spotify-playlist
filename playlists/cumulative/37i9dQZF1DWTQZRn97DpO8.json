@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : Ocevne",
+  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : Yam\u00ea",
   "name": "le miel",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 180000,
       "name": "Avec Toi",
       "url": "https://open.spotify.com/track/0X2jgXzlIaYfEvBze5h2vC"
+    },
+    {
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/23lGhqrRevarvQiffZW90G"
+      },
+      "artists": [
+        {
+          "name": "Jadana\u00eb",
+          "url": "https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182292,
+      "name": "BAD GIRLS",
+      "url": "https://open.spotify.com/track/1TtlUZyjlDxAU1bJUw7TuX"
     },
     {
       "album": {
@@ -360,7 +378,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 200000,
       "name": "Corps Accord",
       "url": "https://open.spotify.com/track/76Fx5ruanK52uVQVTYtVlM"
@@ -513,6 +531,24 @@
     },
     {
       "album": {
+        "name": "SOLSTICE",
+        "url": "https://open.spotify.com/album/0SIPEk9qH6s7WMN1jkymKB"
+      },
+      "artists": [
+        {
+          "name": "Lala &ce",
+          "url": "https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197840,
+      "name": "D\u00e9ranger",
+      "url": "https://open.spotify.com/track/7gyKui5nepxMoJoRr0937W"
+    },
+    {
+      "album": {
         "name": "E.M.I",
         "url": "https://open.spotify.com/album/0Pq1bF9Gi48aSXrsrpp2fu"
       },
@@ -643,6 +679,24 @@
     },
     {
       "album": {
+        "name": "Henny n Shit",
+        "url": "https://open.spotify.com/album/3d53OX8mso58CDSjaWHMv3"
+      },
+      "artists": [
+        {
+          "name": "KOKE\u00cfNEJTD",
+          "url": "https://open.spotify.com/artist/1QiNcFh9MLHHNvKxjntbsP"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Henny n Shit",
+      "url": "https://open.spotify.com/track/4nZeTqowlfbouZYxPvLpDZ"
+    },
+    {
+      "album": {
         "name": "HOLD-UP",
         "url": "https://open.spotify.com/album/7LW1aet43rMDNm9E96Jotx"
       },
@@ -658,6 +712,28 @@
       "duration_ms": 153488,
       "name": "HOLD-UP",
       "url": "https://open.spotify.com/track/2Kgoo8Ft3XBBKbuS0qI7cH"
+    },
+    {
+      "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/1A01LPGJusfzxrhuJ3JhC2"
+      },
+      "artists": [
+        {
+          "name": "Myra",
+          "url": "https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE"
+        },
+        {
+          "name": "rad cartier",
+          "url": "https://open.spotify.com/artist/37060l8iXQAWuFo1g3RCQ6"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142267,
+      "name": "Honeymoon",
+      "url": "https://open.spotify.com/track/5TkJeNwPnc46axqIAmjI5k"
     },
     {
       "album": {
@@ -1072,7 +1148,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 203200,
       "name": "Nous Deux",
       "url": "https://open.spotify.com/track/1Vr26bojJG8VZzg7JYql03"
@@ -1180,7 +1256,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 153846,
       "name": "Pansement",
       "url": "https://open.spotify.com/track/1eNFHLLofgZl9Lb3JA7jik"
@@ -1582,7 +1658,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 159200,
       "name": "S\u00e9r\u00e9nade",
       "url": "https://open.spotify.com/track/11gx5jgG7Pm6Y5R2Ba6RDB"
@@ -1733,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Tu sais que",
+        "url": "https://open.spotify.com/album/1N6CR2fwPgQ4Yco4002iJN"
+      },
+      "artists": [
+        {
+          "name": "Arma Jackson",
+          "url": "https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160186,
+      "name": "Tu sais que",
+      "url": "https://open.spotify.com/track/5CvsjxPwSteTgzyuPaCHs7"
+    },
+    {
+      "album": {
         "name": "Blessing",
         "url": "https://open.spotify.com/album/1EqLDQ1zxS2Sz5eCcGIRbJ"
       },
@@ -1816,7 +1910,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 188973,
       "name": "Violence",
       "url": "https://open.spotify.com/track/5B6u3uSnl7aBwOrwpLxsMJ"

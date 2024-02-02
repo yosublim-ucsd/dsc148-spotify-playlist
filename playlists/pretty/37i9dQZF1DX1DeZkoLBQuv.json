@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 8263,
+  "num_followers": 8262,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTAwMjYxYzQ1NTA1NTViNDcxN2E3NjBmNzQ1ZDVjNjc4MWY5MDEw",
+  "snapshot_id": "MCwxNjFiMjY3NjUxODRkNzMwMTcyNTdlNmQ1ODliODA0NGVkMjkwNjY0",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Louvor VII",
-        "url": "https://open.spotify.com/album/78tY0SGJ9jUGHVjsCfLjpX"
-      },
-      "artists": [
-        {
-          "name": "Vencedores por Cristo",
-          "url": "https://open.spotify.com/artist/0IDEJU0SdlmJOMtybtEoiT"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "Brilha, Jesus (Shine, Jesus, Shine)",
-      "url": "https://open.spotify.com/track/2fwlsdMG2VbFa9K7Vg8MAP"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Natal em Fam\u00edlia",
         "url": "https://open.spotify.com/album/4QDBdfwMYCdnme9obNYOy5"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 287499,
       "name": "Natal em Fam\u00edlia",
       "url": "https://open.spotify.com/track/3aPIxvuSiITws5DPY1via8"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Louvor VII",
+        "url": "https://open.spotify.com/album/78tY0SGJ9jUGHVjsCfLjpX"
+      },
+      "artists": [
+        {
+          "name": "Vencedores por Cristo",
+          "url": "https://open.spotify.com/artist/0IDEJU0SdlmJOMtybtEoiT"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "Brilha, Jesus (Shine, Jesus, Shine)",
+      "url": "https://open.spotify.com/track/2fwlsdMG2VbFa9K7Vg8MAP"
     },
     {
       "added_at": "2023-12-22 03:00:00",

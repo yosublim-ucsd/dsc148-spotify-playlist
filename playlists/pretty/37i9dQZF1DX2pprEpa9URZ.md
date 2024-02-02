@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,934 likes - 75 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,036 likes - 75 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 67 | [Sand](https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Sand](https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl) | 3:07 |
 | 68 | [Time](https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU), [Yusuf Lemone](https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M) | [Time & Space](https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy) | 6:21 |
 | 69 | [Bem a Tempo \- Yemanjo Remix](https://open.spotify.com/track/5HSSXa50YSC7TUC32IjwVD) | [Mose](https://open.spotify.com/artist/29osCpAsrEiHxE8t6khiJr), [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90), [Yemanjo](https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N) | [Bem a Tempo \(Yemanjo Remix\)](https://open.spotify.com/album/4hAhIqwRzsd1KLMcHYOlN2) | 5:37 |
-| 70 | [Beyond Strings](https://open.spotify.com/track/0X0nx6xOexUGeR5lGfqXCE) | [Ghenwa Nemnom](https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp), [Mohab Sammy](https://open.spotify.com/artist/223p44YDBTVmvgi2NeHC5j) | [Beyond Strings](https://open.spotify.com/album/4O3CN6cMyHP95IpF7QcPJa) | 7:31 |
-| 71 | [Samra Samra](https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS) | [Karmakind](https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3) | [Samra Samra](https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB) | 5:04 |
+| 70 | [Samra Samra](https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS) | [Karmakind](https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3) | [Samra Samra](https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB) | 5:04 |
+| 71 | [Beyond Strings](https://open.spotify.com/track/0X0nx6xOexUGeR5lGfqXCE) | [Ghenwa Nemnom](https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp), [Mohab Sammy](https://open.spotify.com/artist/223p44YDBTVmvgi2NeHC5j) | [Beyond Strings](https://open.spotify.com/album/4O3CN6cMyHP95IpF7QcPJa) | 7:31 |
 | 72 | [Soul](https://open.spotify.com/track/5qFCeotddc68VUOEQ8jaur) | [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0), [Aitor González](https://open.spotify.com/artist/2n5l3m6thhRJvYEpn99r3a), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Soul](https://open.spotify.com/album/5Lkjqkn8LFTfpo2o9kbqJP) | 7:29 |
 | 73 | [Ummo](https://open.spotify.com/track/4MKb3ULfmzOcPpoho89AaJ) | [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp) | [Doors To Shambhala](https://open.spotify.com/album/3P7aWuNA3Sk4BkBztpr8Yr) | 4:31 |
 | 74 | [Earth](https://open.spotify.com/track/18Vds2ehiWC09W390vcptq) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Tripoli](https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46) | [Plutón](https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW) | 6:22 |
 | 75 | [RAI](https://open.spotify.com/track/2aEugZjPLE6nDImluCkcS1) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [RAI](https://open.spotify.com/album/3ydSWrutw1Q9JMXkTnFBUW) | 3:58 |
 
-Snapshot ID: `MCw5MGQ5M2RmN2QzNmMwMDI2YzdkMTZkNGQ1MGY5ZGJlNTI4Y2EzNGZl`
+Snapshot ID: `MCxmZGVlOTM2MjVlODM0MjIyYTAwMWQ3M2U5ZGYwMzdlNTgzOTJhZmI0`

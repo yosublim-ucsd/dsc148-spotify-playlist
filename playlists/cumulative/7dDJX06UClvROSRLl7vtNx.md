@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-230 songs - 10 hr 8 min
+231 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Control](https://open.spotify.com/track/2kylyEHdOEwsvWzm3PnQIQ) | [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto), [Honas](https://open.spotify.com/artist/6NqnUmcBfI4tWK56ZC1Nkw) | [Control](https://open.spotify.com/album/2gOoME3JTw3QxNsRo257pG) | 2:49 | 2023-09-22 |  |
 | [Could You Be Loved](https://open.spotify.com/track/4iEmc19nHE8qXEbugWZDNv) | [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT) | [Could You Be Loved](https://open.spotify.com/album/7yZKEcKiKlXWXvA0ZOT5bW) | 2:33 | 2023-12-27 | 2024-01-15 |
 | [Could've Been Us](https://open.spotify.com/track/1oNFTQO0z6PuRH1wOOQXPe) | [ItsLee](https://open.spotify.com/artist/1dq0GAzGi7vIwvcREuVKiZ), [Dom Fricot](https://open.spotify.com/artist/4O4jSSDSarGDFwSNdq83Nr) | [Could've Been Us](https://open.spotify.com/album/2LLSwLZdGO0ADN1RlpVccS) | 2:12 | 2023-09-22 |  |
+| [crazy about you](https://open.spotify.com/track/22Kg9zkWePQpMdAAY3gplQ) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [crazy about you](https://open.spotify.com/album/795sLNiCOS6x2NJrmgT5BE) | 2:00 | 2024-02-01 |  |
 | [Cruel Summer \(Marcus Layton Edit\)](https://open.spotify.com/track/4yg4e6LkbEzc3sA0bE0GYg) | [LAUWE](https://open.spotify.com/artist/1pEZZUBRto2Tid1aaFOzQK), [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz) | [Cruel Summer \(Marcus Layton Edit\)](https://open.spotify.com/album/7t4AA6GFMkLfrGlrzcyy4U) | 2:24 | 2023-09-22 |  |
 | [Crush](https://open.spotify.com/track/0Nk0W9t2beuJfh97HFHr3F) | [Gorgon Breath](https://open.spotify.com/artist/3NNV3EiqQ63gCWXGt5jMCO), [Eliina](https://open.spotify.com/artist/4ADWPR3fMKJw6tymbyz19H) | [Crush](https://open.spotify.com/album/3oSqHVv8Mi9RJRqyjqqbC4) | 3:02 | 2023-09-22 | 2024-01-28 |
 | [Cry Me A River](https://open.spotify.com/track/10QBJFEgjnKx6YvqPjQsTo) | [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [Raphael DeLove](https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA) | [Cry Me A River](https://open.spotify.com/album/4CdKOVHBBJBBuMoL1w0npR) | 2:43 | 2023-10-24 | 2024-01-28 |

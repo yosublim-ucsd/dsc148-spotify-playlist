@@ -478,7 +478,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 165180,
       "name": "All About You",
       "url": "https://open.spotify.com/track/0Lc22wJyPHTKF8mEoOOGzT"
@@ -2597,6 +2597,28 @@
     },
     {
       "album": {
+        "name": "Digital Friends",
+        "url": "https://open.spotify.com/album/5BssQ7HjIK7tyeiKLBVWPs"
+      },
+      "artists": [
+        {
+          "name": "No Mana",
+          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
+        },
+        {
+          "name": "SOFI",
+          "url": "https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221679,
+      "name": "Digital Friends",
+      "url": "https://open.spotify.com/track/0ygnGDRZjKhO9nOXo2WlLI"
+    },
+    {
+      "album": {
         "name": "Dilemma",
         "url": "https://open.spotify.com/album/1LEREp3j92WCGRMt93W3GD"
       },
@@ -3008,7 +3030,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 99310,
       "name": "DRIFTER",
       "url": "https://open.spotify.com/track/0X0YaxmMX1foUMubg0X6YR"
@@ -3394,7 +3416,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 200000,
       "name": "Equinox",
       "url": "https://open.spotify.com/track/3i2kegGxj12kAXephAgZ8C"
@@ -3968,7 +3990,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 231724,
       "name": "Fight Me",
       "url": "https://open.spotify.com/track/2VMjr4nR9QptTiGOabyeFt"

@@ -4,7 +4,7 @@
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x?si=fKODYe\_8T1yTmzhm70J3Cw">Fokofpolisiekar</a>
 
-443 songs - 1 day 2 hr 28 min
+444 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Goue Lokke](https://open.spotify.com/track/1cgeBbPkPmJNMzvwg6nCQL) | [Skelm](https://open.spotify.com/artist/0lWcirgozFoMaWPo9jZXHD) | [Vreemd](https://open.spotify.com/album/3QhqEsWuvMdvBEcVXWb5UM) | 3:42 | 2023-07-06 | 2023-11-25 |
 | [Greetings from The Room](https://open.spotify.com/track/4AOimaZwuTMPO6PFYCZ0VE) | [Drumfish](https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s) | [Eating Dirt](https://open.spotify.com/album/43wjvldlI53z3hfRxRX4rO) | 3:16 | 2023-06-01 | 2023-07-07 |
 | [H.F.A.Y\. \(How Fake Are You\)](https://open.spotify.com/track/6jszxDsTnpI6xOeBuJ3l8K) | [Lincoln Hunter](https://open.spotify.com/artist/1pDMcSajVybIxvEbeazPG1) | [H.F.A.Y\. \(How Fake Are You\)](https://open.spotify.com/album/5qZCP7F4qZ7jNEWzbrANTK) | 3:19 | 2023-05-11 | 2023-07-29 |
+| [Hard As A Rock](https://open.spotify.com/track/2WC1YAcc7PW6N9pT8Z286K) | [MUSTANG](https://open.spotify.com/artist/0hjSbjmm1Tj4P26gF0wLgv) | [Hard As A Rock](https://open.spotify.com/album/2UpFL7l7YVexFHlTBPBKn4) | 3:15 | 2024-02-01 |  |
 | [Hartseer Freaks](https://open.spotify.com/track/0QkQXlKStGokMoWhngW99p) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 3:25 | 2022-12-01 | 2022-12-09 |
 | [Haunting You](https://open.spotify.com/track/0lIUqLV6zqnyRl7cPPhj9u) | [Oceans of Angels](https://open.spotify.com/artist/043vNvW2Jlt2J03d0tJJPY) | [Haunting You](https://open.spotify.com/album/2Qf78FHmRbc3Qf34eTMPXY) | 3:52 | 2023-07-28 | 2023-12-08 |
 | [Heaving](https://open.spotify.com/track/0sYJEJYGBKaiTcHdAcMAUP) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Heaving](https://open.spotify.com/album/4vVdnV7qeVHfw6eXvsuAHj) | 3:26 | 2023-02-16 | 2023-03-31 |
@@ -446,7 +447,7 @@
 | [Wolves](https://open.spotify.com/track/0eK0J5fikmB5TiCY932gtQ) | [Kat](https://open.spotify.com/artist/4rB9lKJyTJ6LI6mccmA5EW), [Mark Haze](https://open.spotify.com/artist/6f10Qwvg9bkTGVMRKLF1tO) | [Wolves](https://open.spotify.com/album/1f98ilxMIzaqHosQXwiZY3) | 3:35 | 2022-01-21 | 2022-11-25 |
 | [Woman of My Own Damn Mind](https://open.spotify.com/track/6F6gMyGT1L3uCEgaIIT8Nl) | [Cindy\-Louise](https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD) | [Woman of My Own Damn Mind](https://open.spotify.com/album/6SMEvTVAfvoQNTnRdJA2Bp) | 3:13 | 2022-08-04 | 2023-01-27 |
 | [Worst Human Alive](https://open.spotify.com/track/3sSwKeQK3yImeS9GYtCLHu) | [New Volume](https://open.spotify.com/artist/386eyNcHwUJ0u3awsMi88Q) | [Generation Bored](https://open.spotify.com/album/62qllVlsSubfxk690MmXGG) | 3:07 | 2023-12-14 | 2024-01-05 |
-| [Would Smoke](https://open.spotify.com/track/5EJBMWsBSMQ5raU42n6mVZ) | [New Academics](https://open.spotify.com/artist/5j84y9wbtG7km3AtTQoOVG) | [City of Strange](https://open.spotify.com/album/0YLT05e6qyAlB2UVItDyuf) | 3:51 | 2024-01-04 |  |
+| [Would Smoke](https://open.spotify.com/track/5EJBMWsBSMQ5raU42n6mVZ) | [New Academics](https://open.spotify.com/artist/5j84y9wbtG7km3AtTQoOVG) | [City of Strange](https://open.spotify.com/album/0YLT05e6qyAlB2UVItDyuf) | 3:51 | 2024-01-04 | 2024-02-02 |
 | [Would you ring me](https://open.spotify.com/track/67u6GPGmrgkn6J6lRGb3PB) | [Gangsterdam](https://open.spotify.com/artist/63fJ4ckrhwwtDX31WrhqfS) | [Would you ring me](https://open.spotify.com/album/1Mp1dAxbCYUoRVmoHAHbbd) | 2:45 | 2023-03-02 | 2023-04-15 |
 | [Yo Yo](https://open.spotify.com/track/2jxyMRUWl5unzLhU2d0uts) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Yo Yo](https://open.spotify.com/album/33mO5GqcxB34k3bZ2zU9yf) | 6:18 | 2023-09-07 |  |
 | [YOU2ME](https://open.spotify.com/track/6BeR3yIHr9O6ZjQzmpXN2Z) | [Lokaly](https://open.spotify.com/artist/2xMgbeCaxqn40elRsuLMf4) | [YOU2ME](https://open.spotify.com/album/5Y98Ocf2q2Y3i4Lkw1ap3x) | 2:51 | 2022-08-25 | 2023-01-20 |

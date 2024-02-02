@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-500 songs - 1 day 15 hr 21 min
+501 songs - 1 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [a beautiful day](https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [heavenly tone](https://open.spotify.com/album/3gobeqbi2tgEkElXQ77c9k) | 4:56 | 2022-04-07 | 2024-01-30 |
 | [A Bound in Morning Sun](https://open.spotify.com/track/4MnGv2cAVpMIGa5MlozHbb) | [Classy Moon](https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI) | [A Blessing in Nature](https://open.spotify.com/album/1azcXBhpdjoalgJRu2Xw23) | 3:08 | 2024-01-25 |  |
 | [A Change of a Cityscape](https://open.spotify.com/track/2bQAefezv7y3MI6YumnjMc) | [Motoro Faam](https://open.spotify.com/artist/56TgrV3HK0Dt21DsSTMd92) | [Fragments](https://open.spotify.com/album/3j4kFmNhEp4kNZdltepUbT) | 7:56 | 2022-03-31 | 2022-07-02 |
+| [A faint color](https://open.spotify.com/track/0gwLBeMeifJYrkjMNOhXKi) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [A faint color](https://open.spotify.com/album/1NUV8WXaE85gVFzHNJmr5N) | 4:20 | 2024-02-01 |  |
 | [a few walks](https://open.spotify.com/track/3E5fgDgI17xqZzP1GNGxym) | [Ryoichi Kurokawa](https://open.spotify.com/artist/6ZWwBZl0boEJ7SOZFOlZNv) | [copynature](https://open.spotify.com/album/02WVXDLRKCh4gvuWRn8XyI) | 6:39 | 2022-03-31 | 2022-04-21 |
 | [A graca economica de Deus](https://open.spotify.com/track/1CFsbOndaV2w76Ikg1xGun) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [Janis Crunch](https://open.spotify.com/artist/57E9fnySsCbg4lFkU8msYJ) | [12 & 1 SONG \(Remastered 2022\)](https://open.spotify.com/album/2DJ7kqNTU47JKFoflue4H7) | 3:58 | 2022-12-22 | 2023-12-22 |
 | [a guide](https://open.spotify.com/track/6wS9O7pM9gtigUXLHzk242) | [sugar plant](https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o) | [after after hours](https://open.spotify.com/album/6srXbTqiImAu5zPZqbMcy6) | 2:43 | 2022-03-31 | 2022-07-13 |
@@ -447,7 +448,7 @@
 | [Urum](https://open.spotify.com/track/2rK4ihoZVNocsmizPBNUmi) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [Light in August, Later](https://open.spotify.com/album/5DC0TO8peA6IGhux6OMyCz) | 6:42 | 2022-04-07 | 2022-04-20 |
 | [Utai IV: Reawakening](https://open.spotify.com/track/18EMYXJEhYZbXyBL5lOXR1) | [Kenji Kawai](https://open.spotify.com/artist/0lzVrkjlIZJH18hk2Gcjkp) | [Ghost in the Shell \(Music Inspired by the Motion Picture\)](https://open.spotify.com/album/2ebMxOVmA8iHaCdpV2FSoL) | 2:37 | 2022-03-30 | 2022-10-13 |
 | [Utai IV: Reawakening](https://open.spotify.com/track/2aOT7WhCfzhQmoTCH3R3Fq) | [Kenji Kawai](https://open.spotify.com/artist/0lzVrkjlIZJH18hk2Gcjkp) | [Ghost in the Shell \(Music Inspired by the Motion Picture\)](https://open.spotify.com/album/7mA7Z5oy212NMRL8lqFzhO) | 2:37 | 2022-10-13 |  |
-| [Utano](https://open.spotify.com/track/0h7IkhjykGhsXardJtErat) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 4:15 | 2022-07-28 |  |
+| [Utano](https://open.spotify.com/track/0h7IkhjykGhsXardJtErat) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 4:15 | 2022-07-28 | 2024-02-02 |
 | [Utano](https://open.spotify.com/track/3ybZjIcq1JIYLoc88xEfDe) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/3QfrNNsvv0GxBSQvrwwfZQ) | 4:15 | 2022-03-31 | 2022-07-29 |
 | [Vanished Garden](https://open.spotify.com/track/3iScMPhH2AjZ0YwFpyUx3z) | [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [Invisible Island](https://open.spotify.com/album/2AoNiTLj9aTVAn7FU0VQ8P) | 3:13 | 2022-04-07 | 2022-06-28 |
 | [Variation・III](https://open.spotify.com/track/0dDeU6XmLrWgqsLqZU3lpZ) | [Masashi Kitamura + Phonogenix](https://open.spotify.com/artist/55aj1GWBgBPNoVICgtbl7s) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:35 | 2022-04-16 | 2022-04-18 |

@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-699 songs - 1 day 3 hr 21 min
+703 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [Out For a Walk](https://open.spotify.com/track/7An9ystJ5VTcPIsTO7x4tb) | [Same as Different](https://open.spotify.com/artist/48fJqNap8T1GWpKx9iNd1F) | [Lofi Jazzy Vibes](https://open.spotify.com/album/6xSoyzpvxutyNhe9gHUjdv) | 1:49 | 2023-01-13 |  |
 | [Outer Space](https://open.spotify.com/track/59Rha4bZILoIIz3RZiBoKM) | [BiRdy SanJazz](https://open.spotify.com/artist/1VnKyzdYClAVXSfEuRhUZh) | [Outer Space](https://open.spotify.com/album/6RmwmQHwwQ6ivbCQ6XWXdv) | 2:12 | 2023-09-08 | 2023-09-16 |
 | [palm](https://open.spotify.com/track/2Hwwu9plR7Y0lBxByDiaYS) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [palm](https://open.spotify.com/album/4bFFUeBi8kPYsZl5g0XdqR) | 2:05 | 2023-12-08 |  |
+| [Papa Knows Best](https://open.spotify.com/track/2TLIc551287wxILT6GOeou) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [Papa Knows Best](https://open.spotify.com/album/3aSXNNj8XoYJZ5tOPPsH2w) | 2:12 | 2024-02-02 |  |
 | [Paper Plane](https://open.spotify.com/track/7C3jWjgrThp6qP0KS6zZwy) | [Kid Kio](https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE) | [Paper Plane](https://open.spotify.com/album/4MAjQfYWQYYzkFaVrt7jGD) | 2:08 | 2023-01-13 |  |
 | [Parallel](https://open.spotify.com/track/22tdFCCzGNvmSB5lBc7FU0) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [Parallel // Goodbye, Shadow](https://open.spotify.com/album/7hw9iK6rCSOLqMSyiA6q4i) | 2:04 | 2023-01-13 | 2023-07-20 |
 | [Paris Coffee Shop](https://open.spotify.com/track/36ncHJiM2riHWO2SFNJG3N) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [Paris Coffee Shop](https://open.spotify.com/album/5fQJFzw3FV0I40rFw5ylb5) | 1:45 | 2023-01-13 | 2023-09-29 |
@@ -466,6 +467,7 @@
 | [Plum Tea](https://open.spotify.com/track/1AEwoOf4Fv8R7RneJsa1i7) | [Bace](https://open.spotify.com/artist/47O6yNspcql1nYBI3nTdyf) | [Plum Tea](https://open.spotify.com/album/2bVqZKLoO4uhzMnOWibCHQ) | 2:26 | 2023-01-13 | 2023-09-22 |
 | [Pool of Swim](https://open.spotify.com/track/3xK38Jy0gEs7yprInWoFZQ) | [Papi Pier](https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe) | [Pool of Swim](https://open.spotify.com/album/0GPUOPd04HhfgvCmWWtEGb) | 2:34 | 2023-01-13 |  |
 | [Portra](https://open.spotify.com/track/0w2DwiZ8BEdqNoxZgoCIAS) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h) | [Portra](https://open.spotify.com/album/1bg66tYiYsQycYn5VKD9GB) | 1:54 | 2023-01-13 |  |
+| [poseidon](https://open.spotify.com/track/6MpZRAlMbG1PvjuMNtzp9t) | [low&slow](https://open.spotify.com/artist/5nRIouNA5T37sVSDEjbhAL) | [poseidon](https://open.spotify.com/album/63BcmPVShgWasXts8qMikS) | 2:01 | 2024-02-02 |  |
 | [Postcard](https://open.spotify.com/track/6igKvLcWShsDL1ZRhUMTcM) | [Luc Delvaux](https://open.spotify.com/artist/0TtVPA9JL5p8Yqr7guSEn0) | [Postcard](https://open.spotify.com/album/4a1dWfgc8gKIrnJ7fTQRQ4) | 2:22 | 2023-01-13 |  |
 | [Pour Another](https://open.spotify.com/track/1ix0xKaCXRfIVxc3Jk5tOf) | [Omista](https://open.spotify.com/artist/6IDvHhAPWuZ0OjQWw0Op4e) | [Pour Another](https://open.spotify.com/album/4Vkvbv4hO8l0oqCLJ3Urk1) | 2:24 | 2023-01-13 |  |
 | [Pristine](https://open.spotify.com/track/5hU6UR3JAmobbRF8in1hpN) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Pristine](https://open.spotify.com/album/68CF9yX62mUPcoJbyVcJD4) | 2:44 | 2023-01-13 | 2023-09-29 |
@@ -631,7 +633,7 @@
 | [traffic](https://open.spotify.com/track/7rfwtpxQF4UBT7cQMslOb6) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [traffic](https://open.spotify.com/album/5ako2aURhgoMoVeh9XZSn3) | 1:39 | 2023-09-29 |  |
 | [Travel by Night](https://open.spotify.com/track/0csl0mkkpaPCtMhvm54f4a) | [Itsuju](https://open.spotify.com/artist/3PUVlFHrSamIkjf9UWphev) | [Travel By Night](https://open.spotify.com/album/2caQtRv2tcZTD7fv7P38PA) | 2:20 | 2023-01-13 |  |
 | [Travellers](https://open.spotify.com/track/1ZXtKzULVti9F95g9HlyWJ) | [Tree60](https://open.spotify.com/artist/4NEA8zkFgdVHYWZXANEHA7) | [The Endless Resource](https://open.spotify.com/album/1LOIXvD97QSJ8CHDuQprdn) | 2:15 | 2023-09-04 | 2023-09-16 |
-| [Treetop Sailing](https://open.spotify.com/track/6FuMCYsA26hstQJohldRQa) | [Fluurish\_ish](https://open.spotify.com/artist/2uHiTGGGiEJEA3dgYeLlH8) | [Treetop Sailing](https://open.spotify.com/album/79DKmURpkKUELitlP23E8m) | 2:38 | 2023-01-13 |  |
+| [Treetop Sailing](https://open.spotify.com/track/6FuMCYsA26hstQJohldRQa) | [Fluurish\_ish](https://open.spotify.com/artist/2uHiTGGGiEJEA3dgYeLlH8) | [Treetop Sailing](https://open.spotify.com/album/79DKmURpkKUELitlP23E8m) | 2:38 | 2023-01-13 | 2024-02-02 |
 | [trifle optimistic](https://open.spotify.com/track/3oya5xURIfyO6OoGZOHmxj) | [You're Good](https://open.spotify.com/artist/1fSUA9tPyGkQ2QLYCowDbR) | [trifle optimistic](https://open.spotify.com/album/5vCNQOUR4qQliiYvSgekiK) | 2:12 | 2023-07-19 |  |
 | [Trindade](https://open.spotify.com/track/2f3mg1MdowuLKUTs90FFyB) | [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv), [Gabriel Cavalcanti](https://open.spotify.com/artist/2CLLtlHM5RuNUdDe7b7YwL) | [Trindade](https://open.spotify.com/album/6N5IxHlkl1fwWHxawmgCC0) | 2:31 | 2023-01-13 | 2023-09-29 |
 | [Try Again](https://open.spotify.com/track/1rVmk8oSQNPor1w1M0RIh9) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Try Again](https://open.spotify.com/album/4JzjXnumWReclbjE75OBhr) | 2:58 | 2023-01-13 |  |
@@ -691,12 +693,14 @@
 | [Who's Driving?](https://open.spotify.com/track/6ilctnbVwEWTURCfY6kCWH) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Who's Driving?](https://open.spotify.com/album/1ftpbsY9HCoSpUOq7RVUEs) | 2:19 | 2023-10-06 |  |
 | [who's the boss?](https://open.spotify.com/track/4y1dRudyvMyqkq56Ummb3R) | [Cotton Candy Boulevard](https://open.spotify.com/artist/0y8PqsGy2nL9LqwL709086) | [who's the boss?](https://open.spotify.com/album/1rfJTW8R2u6yiyjVmVz1so) | 2:04 | 2024-01-12 |  |
 | [whoops i'm napping](https://open.spotify.com/track/5Wxany1ffEA1DxkRBvnLJ0) | [Pistachio](https://open.spotify.com/artist/1zj6sjoit7AFmmBfozJX1H) | [whoops i'm napping](https://open.spotify.com/album/7rqTIV0hWHwjxCchxWWlg6) | 2:54 | 2023-09-04 | 2023-10-06 |
+| [wicked](https://open.spotify.com/track/0Li6Y0Noq9THd4sTR7e5wq) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [wicked](https://open.spotify.com/album/08xWG2vUxhVXsjPFo9yajA) | 2:26 | 2024-02-02 |  |
 | [Windmills](https://open.spotify.com/track/2f4mTu5Y6I3wVApqhy5wbV) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657), [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV) | [Windmills](https://open.spotify.com/album/5r14wdtlT9PPWfuE34Y3Rl) | 1:58 | 2023-01-13 | 2023-09-22 |
 | [Windowsills](https://open.spotify.com/track/6flksSGb0Z9WZYXzaRIQaM) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [Windowsills & Green Falls](https://open.spotify.com/album/5eAKZzEsLhsiekgFbwONAW) | 2:35 | 2023-01-13 |  |
 | [Winter Keys](https://open.spotify.com/track/6NT3drJc597TCEIK8LMFka) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Winter Keys](https://open.spotify.com/album/1PFHDWjFCyXHVI867KFcoy) | 2:36 | 2023-01-13 |  |
 | [wishful moments](https://open.spotify.com/track/0JSrPZlMHGevb1IMTMLC4G) | [shapeofbeatz](https://open.spotify.com/artist/4FsGtMHS0hniDPi7GjMvj5) | [wishful moments](https://open.spotify.com/album/01BKGCjqbTPmSadUghY0Nl) | 2:37 | 2023-01-13 |  |
 | [Wistful Silhouettes](https://open.spotify.com/track/5Ltgq6XMTilOXhNiSQZrVT) | [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41), [alt.bin.beats](https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos) | [Wistful Silhouettes](https://open.spotify.com/album/7bnbpre7jCyEwHu1hT9ngt) | 2:16 | 2023-10-13 |  |
 | [Wonderful Things](https://open.spotify.com/track/5AwHynTdA6YsnjbPvsw6P2) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Hirokee](https://open.spotify.com/artist/65Tgs3GmQLXn1Snl8Wge6b) | [Wonderful Things](https://open.spotify.com/album/23ABqlxRxBWYjaypXEF1Fn) | 2:23 | 2023-07-19 | 2023-10-06 |
+| [wondering why](https://open.spotify.com/track/1vbi7y9KK9tfOKNP5pmc2Q) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [wondering why](https://open.spotify.com/album/2hay8mrICqXjK0ZOps3bjC) | 2:04 | 2024-02-02 |  |
 | [Woollen Potato](https://open.spotify.com/track/5WSBqCeXfUE6A7siQZewYK) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Woollen Potato](https://open.spotify.com/album/0Hp5rOXs5sNNdgYmUVdsu2) | 2:30 | 2023-09-22 |  |
 | [Woula](https://open.spotify.com/track/6PIWM7JvAifZM8aunm73NA) | [Hammocks & Lime](https://open.spotify.com/artist/3sHx5xJC4akld5WXlIis2Y) | [Woula](https://open.spotify.com/album/1Qt5xDPOZT8keXpZ7qRMYb) | 2:49 | 2024-01-12 |  |
 | [x\-mas ham](https://open.spotify.com/track/2GqQyRsB7IBvLpnVwI2h2i) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [x\-mas ham](https://open.spotify.com/album/70k2nvYZKzl9UXw7Gyw2Pf) | 2:05 | 2023-01-13 |  |

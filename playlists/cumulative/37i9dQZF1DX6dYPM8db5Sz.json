@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU?si=0oRxTVcjTp6yilot-NnRLQ\">Beatenberg</a> ",
+  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/4NJbKjkR9DcoyVT4ZXgAkv?si=Wh2Epm11RL6HFz7jB5DQ0A\">Stereo Club</a> ",
   "name": "Indie GO",
   "tracks": [
     {
@@ -1093,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/7LybIlEOpQcJMuytdP4PCX"
+      },
+      "artists": [
+        {
+          "name": "Lost//Youth",
+          "url": "https://open.spotify.com/artist/4BdFQrwkW4xye28RMbrfOo"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260928,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/6kd4DVDTqrdT9LMVWeAiI4"
+    },
+    {
+      "album": {
         "name": "Bizarre",
         "url": "https://open.spotify.com/album/4xx7g07nLqQEVr2WZ23W0K"
       },
@@ -1800,6 +1818,24 @@
       "duration_ms": 200693,
       "name": "Chariot",
       "url": "https://open.spotify.com/track/1ZHboJHdP97xyCaQWuP9h6"
+    },
+    {
+      "album": {
+        "name": "Charlie Boy",
+        "url": "https://open.spotify.com/album/1hSQRlQqHR9SwIkKhhuQT4"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Fisher",
+          "url": "https://open.spotify.com/artist/6FT60wBgd1m4UGh219yV3Y"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257193,
+      "name": "Charlie Boy",
+      "url": "https://open.spotify.com/track/5Wa2JVfqjLOvy3AqcgAyB0"
     },
     {
       "album": {
@@ -3670,7 +3706,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 202302,
       "name": "Girls That Play",
       "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
@@ -6490,7 +6526,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -9241,6 +9277,24 @@
     },
     {
       "album": {
+        "name": "Goodbye to the Valley Low",
+        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181130,
+      "name": "Stolen Seasons",
+      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
+    },
+    {
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/7a3hMYwWTJRxnvw3JLrBAK"
       },
@@ -10036,7 +10090,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 214080,
       "name": "The Woods",
       "url": "https://open.spotify.com/track/2sS8cVwz9TmUsREMLBzLcq"
@@ -10635,6 +10689,24 @@
     },
     {
       "album": {
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/67EkGON97rQstf3pGJJdvG"
+      },
+      "artists": [
+        {
+          "name": "From East",
+          "url": "https://open.spotify.com/artist/5WPRnxQehw3OGUBUiSegT0"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384000,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/3JIyX72qvZaQG6ZUZRYzlA"
+    },
+    {
+      "album": {
         "name": "Vertical Desire",
         "url": "https://open.spotify.com/album/4sI3ArQA04AgCOHi7FFcOq"
       },
@@ -11152,7 +11224,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 147026,
       "name": "White Winter Hymnal",
       "url": "https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx"
@@ -11462,7 +11534,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 166071,
       "name": "Worth More",
       "url": "https://open.spotify.com/track/3CI8lCa26dBqaS2xO8SNOK"

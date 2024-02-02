@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 
 > Música eletrônica para aquele treino de peso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,698 likes - 66 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,721 likes - 66 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Last One](https://open.spotify.com/track/61yMjxM2ratUj6mZZ9S7WM) | [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb), [Douth!](https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz) | [Last One](https://open.spotify.com/album/0hu6xWo3nW9dveTBMeDKDE) | 2:31 |
+| 1 | [Last One](https://open.spotify.com/track/00qWdSDe3TW81D10dsTLuY) | [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb), [Douth!](https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz) | [Last One](https://open.spotify.com/album/6r8PAYLclHHtGO99XwILvJ) | 2:31 |
 | 2 | [Get Down](https://open.spotify.com/track/3H2I7X7POFyU5vUudT9Zxx) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Get Down](https://open.spotify.com/album/3gt7gWjurvDydPSUNdirlA) | 3:46 |
 | 3 | [Habanera](https://open.spotify.com/track/4EMv0ZrcBx2GnLfUz9o4kb) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Habanera](https://open.spotify.com/album/7fc95MhJV8ddQjnRbV31xh) | 2:23 |
 | 4 | [Like This](https://open.spotify.com/track/4EMS6Lj2BL9KhXYQqb8i2t) | [Gabzy](https://open.spotify.com/artist/0CB9F6M0fhV0xiSzkNHnvB), [Carlos Colleen](https://open.spotify.com/artist/6lunp2L5KJDCGpSt8Gvpx8) | [Like This](https://open.spotify.com/album/07fHGsN9a1FMdtTJMSF43S) | 4:05 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 43 | [SONG SIX \- CloZee Remix](https://open.spotify.com/track/39Ve9SKesVMbaI5q4JblmH) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [SPLIT // PERSONALITY REMIXES PT\. 01](https://open.spotify.com/album/3rFWKe8BWWdcXfCGFbjsf1) | 3:39 |
 | 44 | [McLovin](https://open.spotify.com/track/1oSSriyVC0PHUNcfkoSMyK) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro) | [McLovin](https://open.spotify.com/album/2cwAoPtumKl03bx9q6y26a) | 3:29 |
 | 45 | [Stamina](https://open.spotify.com/track/2WV4LZpp6Tvr8wbUyLzKAX) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Ez Quew](https://open.spotify.com/artist/2nePbyJjPQUSF4QNLaFLRb), [Caneschi](https://open.spotify.com/artist/6ZW993YptuBv90KlnaIhTx) | [Stamina](https://open.spotify.com/album/4zwqa6cRtehpTGXk8FNji0) | 3:26 |
-| 46 | [Quarentoxic](https://open.spotify.com/track/1kbA0ogOM9fWT4dDHMsa8y) | [Kzn](https://open.spotify.com/artist/5EZHJyeAbl8WK8PdMRR2eh) | [Quarentoxic](https://open.spotify.com/album/3JZ8UlANPOiKPRXDub8In1) | 3:13 |
+| 46 | [Quarentoxic](https://open.spotify.com/track/6FqIzYdOJD29Xf3y7cOyWF) | [Kzn](https://open.spotify.com/artist/5EZHJyeAbl8WK8PdMRR2eh) | [Quarentoxic](https://open.spotify.com/album/2WKsLQG7CwLheg60Gal0HC) | 3:13 |
 | 47 | [We Forgive Them](https://open.spotify.com/track/4xOD6UtpDhIIgqv3sECby2) | [EME](https://open.spotify.com/artist/004h2uqVUpmOuz4oY6aTqw) | [We Forgive Them](https://open.spotify.com/album/7HAnr5IFFcHTj4RLZnNGq4) | 2:44 |
 | 48 | [Astronauta](https://open.spotify.com/track/7pJJrnSCxd0et4zhHFsJiJ) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH) | [Astronauta](https://open.spotify.com/album/23j75jqckSwFHI3qKYiE83) | 5:44 |
 | 49 | [Sitar \- Radio Edit](https://open.spotify.com/track/0XtXW7RwXBlcLV64XqW03S) | [DRIIIFT](https://open.spotify.com/artist/5oTgiVsk5wT8LOZqdBDlk8), [Kazden & Wigerz](https://open.spotify.com/artist/65XLkBrxFGMoU19T4h0hCY) | [Sitar](https://open.spotify.com/album/0GvIBnvwfJHT6k8J70rGrX) | 2:30 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 65 | [Who Knows](https://open.spotify.com/track/6kLwtwP6LFgkT5AuH6Ke8v) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT) | [Who Knows](https://open.spotify.com/album/2aHDpFLOosTIylUlwg7Uft) | 3:16 |
 | 66 | [Future](https://open.spotify.com/track/32VQjdJsS3EPF9fmIUAIPl) | [Dualmind](https://open.spotify.com/artist/2gNRZGT58XSTrInywjcgil), [Gandolfi B.](https://open.spotify.com/artist/0Js4sdeapMvJ4hB3KDq58J) | [Future](https://open.spotify.com/album/5pVzwUaHFDj7fi0bN3l3Uq) | 1:24 |
 
-Snapshot ID: `MCxmMGY4M2MyMzAwZmE0NGQwMmUxMWY0ZmEzMDVmMDE2YzFkNDFkNjkx`
+Snapshot ID: `MCwwOWEyMjYwODJjZDQ4NTQyMDdlYTM4NmVkYWI2ZDI5ZmQxZWIxMTM2`

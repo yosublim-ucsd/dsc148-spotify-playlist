@@ -2259,6 +2259,28 @@
     },
     {
       "album": {
+        "name": "\u3042\u3089\u3044\u3056\u3089\u3044",
+        "url": "https://open.spotify.com/album/7GrJT4y3UHgNNoaBeqe7YU"
+      },
+      "artists": [
+        {
+          "name": "Anonymouz",
+          "url": "https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X"
+        },
+        {
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170145,
+      "name": "\u3042\u3089\u3044\u3056\u3089\u3044",
+      "url": "https://open.spotify.com/track/0U51gf1Xl1SgbP2loe2E0C"
+    },
+    {
+      "album": {
         "name": "\u50d5\u3060\u3063\u3066\u3061\u3083\u3093\u3068\u3057\u305f\u304b\u3063\u305f\u4eba\u9054\u3078",
         "url": "https://open.spotify.com/album/0hgZdoLUczPKcovcXYXqhu"
       },
@@ -2866,7 +2888,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 213600,
       "name": "\u30b9\u30d1\u30fc\u30af\u30eb",
       "url": "https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ"

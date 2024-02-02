@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 161200,
+  "2024-02-02": 161184,
   "date_first_scraped": "2021-12-21",
   "description": "Get ready for good feels and fireworks!",
   "name": "4th of July Party",
@@ -221,7 +221,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 182960,
       "name": "American Kids",
       "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 201693,
       "name": "Any Way You Want It",
       "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"

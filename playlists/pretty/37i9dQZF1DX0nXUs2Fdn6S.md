@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,475 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,485 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 | 24 | [Noor](https://open.spotify.com/track/5B5mUnRDq9AGMGD8RdTjLL) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Noor](https://open.spotify.com/album/6lMrZq8CQ1Ew02OXQ7vmkt) | 2:38 |
 | 25 | [Turiya Turiya](https://open.spotify.com/track/1F6QRDyVmsTu3rBdeo78mY) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Kahani](https://open.spotify.com/album/1WqUCvqJAnYhFOVoRl9zXO) | 2:46 |
 | 26 | [HOP](https://open.spotify.com/track/2WSzafKM01pHgIoEyxEiwm) | [Argenil](https://open.spotify.com/artist/2A6Fi9fm0poTuwBWpIzVw2) | [HOP](https://open.spotify.com/album/6Dq97FD6m3ScPDeMKvXE5E) | 2:51 |
-| 27 | [Desire](https://open.spotify.com/track/3ksugse2MMQvb5RwILo8gL) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Ampresi](https://open.spotify.com/artist/5Fn1hBOpMl6EGasVkGAZ1P) | [Desire](https://open.spotify.com/album/2ZUXqOCce6uUxWYD7ZTfiU) | 3:50 |
+| 27 | [Desire](https://open.spotify.com/track/5jxoaTAMBZvZpN547gsF0e) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Ampresi](https://open.spotify.com/artist/5Fn1hBOpMl6EGasVkGAZ1P) | [Desire](https://open.spotify.com/album/6BGrMSEHdcrc8tvs5BVqW7) | 3:50 |
 | 28 | [Never Let You Go](https://open.spotify.com/track/7xyXsSD7ruRBvbeRqCcJzz) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Nina & Malika](https://open.spotify.com/artist/4PJCaRYDmLzu4kxHUeUAbq) | [Never Let You Go](https://open.spotify.com/album/6n7Kf2MbyZrkSyIIMMEx8K) | 3:06 |
 | 29 | [Beatific \- Original Mix](https://open.spotify.com/track/6tuz521mMSxRvj1vGDq3GS) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Vizdumb](https://open.spotify.com/album/0vOQdORQ04T2GAVPfYoj61) | 4:00 |
 | 30 | [Samhaar](https://open.spotify.com/track/2TY1R9ntXEF772pSGlRthG) | [Gurnani](https://open.spotify.com/artist/3K748gear2PIQP1M8o7gkN) | [Samhaar](https://open.spotify.com/album/5MUztf6w3dVz2uA9B55mC7) | 3:23 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 | 59 | [Uncomplicated](https://open.spotify.com/track/1xn3ESNRR5wbpZwEU3xlBv) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Matthew Steeper](https://open.spotify.com/artist/5BCqO5LyLTOvo7etwfgQ7b) | [Uncomplicated](https://open.spotify.com/album/0vZhZVruxqC8HEGc1Wdwtr) | 3:25 |
 | 60 | [Roshni](https://open.spotify.com/track/0MZ6NFEV7oQSDMzuXBVS5E) | [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ), [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Roshni](https://open.spotify.com/album/27KyEgaluOMGNdtKud8Axt) | 2:54 |
 
-Snapshot ID: `MCw0ZTE5NGExNGJjNDQ2MjIyZWY4NDJjZmQ4MTEzMTNhOWNmZDNkMTg5`
+Snapshot ID: `MCwyNzM0YzNkNDY1YWZmM2IxYzAwNmI0OWNhNjZlYzMyNTc2MDlhNDhl`

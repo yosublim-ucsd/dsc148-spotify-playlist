@@ -1241,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "AWAKENING",
+        "url": "https://open.spotify.com/album/0mdrZ04JRhto7XX1HYmCwU"
+      },
+      "artists": [
+        {
+          "name": "Tony Ann",
+          "url": "https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199467,
+      "name": "ICARUS",
+      "url": "https://open.spotify.com/track/7aTuZWl7qYNYBAHDOurXOx"
+    },
+    {
+      "album": {
         "name": "You Finally Knew",
         "url": "https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K"
       },

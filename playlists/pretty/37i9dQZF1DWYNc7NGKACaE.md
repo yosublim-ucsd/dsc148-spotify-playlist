@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,682 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,729 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 4 | [Imprevisto – Speed](https://open.spotify.com/track/2mgnSTCwWvi61c12eYVGdy) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B) | [Imprevisto – Speed](https://open.spotify.com/album/7iU3KlCks9lXfrbTUu36ot) | 1:58 |
 | 5 | [Ultimamente Speed](https://open.spotify.com/track/5ghSPv2tPkGZN8DESSvKZl) | [dreko](https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy) | [Ultimamente Speed](https://open.spotify.com/album/3JOo0DgxsnC7TK0TaJ4Um4) | 2:10 |
 | 6 | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/track/1qfezHfM1Fvuu9KCZ72NB7) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/album/2sLiC8147QVvg2iOgxPz1u) | 2:46 |
-| 7 | [Até o Amanhecer \- Speed](https://open.spotify.com/track/1GgcLnBZt7nIWCQPORuJTa) | [MARINA NA VOZ](https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G) | [Até o Amanhecer \(Speed\)](https://open.spotify.com/album/02763dYG02KeQw7xfNMs9w) | 2:50 |
-| 8 | [O QUE ADIANTA BÊ SER TÃO GOSTOSA SE ELA É DA FARRA](https://open.spotify.com/track/0ztwjRobHt6HUncGW9N2ni) | [PL JUNIOR](https://open.spotify.com/artist/6eaC0vXLPMW095XtIGwD67) | [O QUE ADIANTA BÊ SER TÃO GOSTOSA SE ELA É DA FARRA](https://open.spotify.com/album/5GUVCqmrD82qhBss7iDv2B) | 2:01 |
+| 7 | [O QUE ADIANTA BÊ SER TÃO GOSTOSA SE ELA É DA FARRA](https://open.spotify.com/track/0ztwjRobHt6HUncGW9N2ni) | [PL JUNIOR](https://open.spotify.com/artist/6eaC0vXLPMW095XtIGwD67) | [O QUE ADIANTA BÊ SER TÃO GOSTOSA SE ELA É DA FARRA](https://open.spotify.com/album/5GUVCqmrD82qhBss7iDv2B) | 2:01 |
+| 8 | [Até o Amanhecer \- Speed](https://open.spotify.com/track/1GgcLnBZt7nIWCQPORuJTa) | [MARINA NA VOZ](https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G) | [Até o Amanhecer \(Speed\)](https://open.spotify.com/album/02763dYG02KeQw7xfNMs9w) | 2:50 |
 | 9 | [Baile da Serra Speed](https://open.spotify.com/track/0B1HaiQaUUeFgqbC2ayvTG) | [Braão](https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd), [LIT UP](https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE) | [Baile da Serra Speed](https://open.spotify.com/album/0ufzRGXXtSZZM8HhsXHcRs) | 2:50 |
 | 10 | [Ta Tudo Bem Speedplug \- Versão Alternativa](https://open.spotify.com/track/50nCM4Diua1enzBmN8i11A) | [luqeta](https://open.spotify.com/artist/5yBdprfbFGKUg6ckI8gtSZ), [deadpeace](https://open.spotify.com/artist/5GtEbRUFQN7CXSH9yZWfgA) | [Luq Speed Vision](https://open.spotify.com/album/4i2Yfw0gb4BwMPgrA6sG9J) | 1:42 |
 | 11 | [Boa Noite, DEUS \(Sped Up\)](https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl) | [Nick Die](https://open.spotify.com/artist/1neKlb3mSCsIqqlEF4hesS), [WMBR](https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28) | [Boa Noite, DEUS \(Sped Up\)](https://open.spotify.com/album/6vDMX7sjhMLyG4Bp2NTVyj) | 2:48 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 65 | [Peça \- Speed](https://open.spotify.com/track/5IpBsqWPLu7PEeT2nwc8gV) | [soiff](https://open.spotify.com/artist/1WDWki77tJepD82NpS4xIk), [uhENZX](https://open.spotify.com/artist/52fAfxMuT0da9zgXHlixmz) | [Peça](https://open.spotify.com/album/7E3g8qsgfOfCeLkipm0PSt) | 2:15 |
 | 66 | [Tipo Naldo \- Speed Up](https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh) | [tiaresz](https://open.spotify.com/artist/4v6LpdfGfBSAdeVdBgUasP), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Tipo Naldo](https://open.spotify.com/album/02ZI31XkyjAi7w9zANAUMQ) | 2:18 |
 
-Snapshot ID: `MCw1ZGE5Y2U1YTk1YzQzNzg1ZWQ0ZmI2NjBlZmE0MjhkODAxMWYxNTEy`
+Snapshot ID: `MCwyMmZjOGI4N2I2YzczZTFlN2JkNmVhZWEwM2I5MzdjM2I3ZmQ3Y2M4`

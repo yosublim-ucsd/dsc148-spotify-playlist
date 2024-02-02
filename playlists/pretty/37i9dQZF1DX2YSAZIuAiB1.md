@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > Good Vibes only mit Latin, Afrobeats, Hip\-Hop und mehr 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,253 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,282 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 69 | [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 |
 | 70 | [Légende](https://open.spotify.com/track/0emGnnTL0TQrGY5r6Agbhj) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Légende](https://open.spotify.com/album/6PXVs8Ap2JMUWn2znMlcF7) | 2:45 |
 
-Snapshot ID: `MCwwMjQyY2JlZTkyM2VmNzEyZjZhMWM1NGEyMDUwOTQ3YzRkMzNkYmZl`
+Snapshot ID: `MCw4YTMwYjUyMjg1NzA4MzlkYjQ5M2UyMTc5MzI1OGNkODBhODJiYjI3`

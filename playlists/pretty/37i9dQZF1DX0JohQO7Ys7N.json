@@ -1,31 +1,15 @@
 {
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Caleb Awiti",
-  "num_followers": 26800,
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Bridget Blue",
+  "num_followers": 26811,
   "original_name": "NairoBae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjBlZGQ3YjFjOGQ3OWFjMTE3NTJhMDlhYTFkMjUxMDBmZjQxZTlm",
+  "snapshot_id": "MCw1YzE0ZjcwZGIyOGQxN2ViN2FjN2QxZmIxZDFkYmIwYjg5MWE4OWUy",
   "tracks": [
     {
-      "added_at": "2024-01-19 17:53:19",
-      "album": {
-        "name": "Kesho",
-        "url": "https://open.spotify.com/album/5Fpjo8qf72pfBNEy80XpNK"
-      },
-      "artists": [
-        {
-          "name": "Bridget Blue",
-          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Kesho",
-      "url": "https://open.spotify.com/track/3DnDhuYVRRGWTT9rYvCKNW"
-    },
-    {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Nitangoja",
         "url": "https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex"
@@ -41,39 +25,23 @@
       "url": "https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
-        "name": "Qwarantunes",
-        "url": "https://open.spotify.com/album/3cg69VcGmpzSHxSV1OA1E5"
+        "name": "Crocodile Tears",
+        "url": "https://open.spotify.com/album/4B4v4DnQU4B8USw8a3SomR"
       },
       "artists": [
         {
-          "name": "Bensoul",
-          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+          "name": "Bridget Blue",
+          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
         }
       ],
-      "duration_ms": 262798,
-      "name": "Forget You",
-      "url": "https://open.spotify.com/track/0xXSC3gjbYZUpOFsXVtp0Y"
+      "duration_ms": 190000,
+      "name": "Crocodile Tears",
+      "url": "https://open.spotify.com/track/4vCYRoGObAKP9KN8ZYr4ng"
     },
     {
-      "added_at": "2024-01-26 04:17:28",
-      "album": {
-        "name": "Closer To Me",
-        "url": "https://open.spotify.com/album/3CRiDFu1JxHKZ9bij10BoA"
-      },
-      "artists": [
-        {
-          "name": "Caleb Awiti",
-          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
-        }
-      ],
-      "duration_ms": 164663,
-      "name": "Closer To Me",
-      "url": "https://open.spotify.com/track/7mWYPdQS1MBEtWMHqAHjUa"
-    },
-    {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Kesho Kutwa",
         "url": "https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt"
@@ -89,7 +57,39 @@
       "url": "https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
+      "album": {
+        "name": "Qwarantunes",
+        "url": "https://open.spotify.com/album/3cg69VcGmpzSHxSV1OA1E5"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "duration_ms": 262798,
+      "name": "Forget You",
+      "url": "https://open.spotify.com/track/0xXSC3gjbYZUpOFsXVtp0Y"
+    },
+    {
+      "added_at": "2024-02-01 23:59:00",
+      "album": {
+        "name": "Closer To Me",
+        "url": "https://open.spotify.com/album/3CRiDFu1JxHKZ9bij10BoA"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "duration_ms": 164663,
+      "name": "Closer To Me",
+      "url": "https://open.spotify.com/track/7mWYPdQS1MBEtWMHqAHjUa"
+    },
+    {
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Aki Wewe",
         "url": "https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Last Name",
         "url": "https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/1hKcd4AYQQDRlR9GpLxgaQ"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/4gKQ9XVPxtUx2sGuwSMPso"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Feelings Station",
         "url": "https://open.spotify.com/album/6JQB8PzILyZHsYEMLejthu"
@@ -153,7 +153,23 @@
       "url": "https://open.spotify.com/track/4Tpa5kZ5rxalVF04xvThOo"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
+      "album": {
+        "name": "Kesho",
+        "url": "https://open.spotify.com/album/5Fpjo8qf72pfBNEy80XpNK"
+      },
+      "artists": [
+        {
+          "name": "Bridget Blue",
+          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Kesho",
+      "url": "https://open.spotify.com/track/3DnDhuYVRRGWTT9rYvCKNW"
+    },
+    {
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Where Ya Been? - A COLORS SHOW",
         "url": "https://open.spotify.com/album/0oqzFS1ec6worWKBAzgolc"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/6am2YNS3MTz3SbWkBUY234"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Something Is You",
         "url": "https://open.spotify.com/album/6zNhbmvLEE12cGS1c53VL0"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/1KQfpF8EmbF8oP1YwpwJ0O"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "What I See",
         "url": "https://open.spotify.com/album/1GeUTD1xqgMWH0qzOffTMX"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/7jDkmNjxPQ0F2b7D4agmTG"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Wild Ride - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Time Allows",
         "url": "https://open.spotify.com/album/5OaWBtvTwoJk01EuaIabeV"
@@ -241,7 +257,27 @@
       "url": "https://open.spotify.com/track/6Ge3IsYVNrekRzc9fiLtlb"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
+      "album": {
+        "name": "Let You Down",
+        "url": "https://open.spotify.com/album/6Up0QUA4FZV8K4xXvtzDom"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        },
+        {
+          "name": "Kemena",
+          "url": "https://open.spotify.com/artist/0SGTAjot9GShYwCQ69DfG2"
+        }
+      ],
+      "duration_ms": 205575,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/3apziXJWNWQPmpTceYJSZZ"
+    },
+    {
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Diani",
         "url": "https://open.spotify.com/album/40CC1N5WnbICW35CqdTEuu"
@@ -265,7 +301,7 @@
       "url": "https://open.spotify.com/track/18toFZCoROJwVUj9MJ1xnd"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "project - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC"
@@ -281,7 +317,7 @@
       "url": "https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Only You - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1Aye02nOiEjJ5LMtvjaHRk"
@@ -297,7 +333,7 @@
       "url": "https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Secret Lover",
         "url": "https://open.spotify.com/album/0aZpLxujAEhkWnYT9yeZe1"
@@ -317,7 +353,7 @@
       "url": "https://open.spotify.com/track/5wTCpN911fjwZYhnCYzX7k"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Wendo Mwaki - From Un-Adult-Erated",
         "url": "https://open.spotify.com/album/2mkFVIgMDrSG6BaHVQdFiM"
@@ -333,7 +369,7 @@
       "url": "https://open.spotify.com/track/4FQ7pGtcUpFVMGLxDHij79"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "For Keeps - A COLORS SHOW",
         "url": "https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3"
@@ -349,7 +385,7 @@
       "url": "https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Presha",
         "url": "https://open.spotify.com/album/5QlAwtL0kaP0JPEe93PN4A"
@@ -369,7 +405,7 @@
       "url": "https://open.spotify.com/track/1OelLLNoOJNYnukzOPYSct"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Niko Majuu",
         "url": "https://open.spotify.com/album/33YGxj8PKaXbKMsESxHiFn"
@@ -385,7 +421,23 @@
       "url": "https://open.spotify.com/track/07QYwSudjP24RbXeuug0Gk"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
+      "album": {
+        "name": "Dark brown eyes",
+        "url": "https://open.spotify.com/album/5WtE9QFgyUpyviMoDpod8J"
+      },
+      "artists": [
+        {
+          "name": "Manasseh Shalom",
+          "url": "https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7"
+        }
+      ],
+      "duration_ms": 228969,
+      "name": "Dark brown eyes",
+      "url": "https://open.spotify.com/track/7JO63lzm9CxlxKR26j0Vog"
+    },
+    {
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Jioni",
         "url": "https://open.spotify.com/album/2KLjotalInooY3FMPxYnFD"
@@ -405,39 +457,7 @@
       "url": "https://open.spotify.com/track/5QSs2eM32gab8J9yjp2O8w"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
-      "album": {
-        "name": "Asali (Sweeter)",
-        "url": "https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R"
-      },
-      "artists": [
-        {
-          "name": "Maya Amolo",
-          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
-        }
-      ],
-      "duration_ms": 181903,
-      "name": "Wildin'",
-      "url": "https://open.spotify.com/track/5laEZ8aZUdmjqw41FwvNHa"
-    },
-    {
-      "added_at": "2024-01-19 17:53:19",
-      "album": {
-        "name": "LOVE / HATE Pt. 1",
-        "url": "https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 163014,
-      "name": "Love/Hate",
-      "url": "https://open.spotify.com/track/2ehiR88HYzb7QuO2bh3rKL"
-    },
-    {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Pen & Paper",
         "url": "https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl"
@@ -457,23 +477,7 @@
       "url": "https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
-      "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/6nii6T6T0MseXxmH0NjCCW"
-      },
-      "artists": [
-        {
-          "name": "Emmie Muthiga",
-          "url": "https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/74JVJp8ChK3rHbtY5dity4"
-    },
-    {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Love Letters II",
         "url": "https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY"
@@ -489,7 +493,55 @@
       "url": "https://open.spotify.com/track/2G5EyrYbvXoUIpwqzGLgK1"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
+      "album": {
+        "name": "Asali (Sweeter)",
+        "url": "https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R"
+      },
+      "artists": [
+        {
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+        }
+      ],
+      "duration_ms": 181903,
+      "name": "Wildin'",
+      "url": "https://open.spotify.com/track/5laEZ8aZUdmjqw41FwvNHa"
+    },
+    {
+      "added_at": "2024-02-01 23:59:00",
+      "album": {
+        "name": "LOVE / HATE Pt. 1",
+        "url": "https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 163014,
+      "name": "Love/Hate",
+      "url": "https://open.spotify.com/track/2ehiR88HYzb7QuO2bh3rKL"
+    },
+    {
+      "added_at": "2024-02-01 23:59:00",
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/6nii6T6T0MseXxmH0NjCCW"
+      },
+      "artists": [
+        {
+          "name": "Emmie Muthiga",
+          "url": "https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/74JVJp8ChK3rHbtY5dity4"
+    },
+    {
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Anticipate",
         "url": "https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD"
@@ -509,7 +561,7 @@
       "url": "https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6"
@@ -525,7 +577,7 @@
       "url": "https://open.spotify.com/track/0lZxPIkeXHFYsMousts9TZ"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "little messages",
         "url": "https://open.spotify.com/album/7hDzyjqHrig751Igo5ebvN"
@@ -541,7 +593,7 @@
       "url": "https://open.spotify.com/track/2ZVOWgbP2Nj76kctTF1jjX"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Relieve Pressure",
         "url": "https://open.spotify.com/album/6ePMowPW0VwXDvMNZsfniV"
@@ -561,7 +613,7 @@
       "url": "https://open.spotify.com/track/6j0KqhTRDYjJVqy6q80PvR"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "NDIWE",
         "url": "https://open.spotify.com/album/4pcyFiJmHvc7cU18toF49w"
@@ -581,7 +633,7 @@
       "url": "https://open.spotify.com/track/1Tn2bby1wMZ7jkmEQod5dL"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "M\u00far\u00edo Wa Wendo",
         "url": "https://open.spotify.com/album/7jvjDcIvXw9OKlkpBNCL7n"
@@ -597,7 +649,7 @@
       "url": "https://open.spotify.com/track/5x8jnFUwTWTcB6uNwp3ZVo"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Cotton Candy",
         "url": "https://open.spotify.com/album/0CKwnv5z8fLTM3trd704Gr"
@@ -613,7 +665,7 @@
       "url": "https://open.spotify.com/track/1StTldm9Adge3KhJf1hjOh"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Songa",
         "url": "https://open.spotify.com/album/2W1aQvUtiMpWTkqV48dcIl"
@@ -629,7 +681,7 @@
       "url": "https://open.spotify.com/track/3VhO6BOBUVXj7kf7dFJEkA"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "You Never Learn",
         "url": "https://open.spotify.com/album/53p5igeY5gYg2TDXVKDeVd"
@@ -645,23 +697,7 @@
       "url": "https://open.spotify.com/track/1j6AwoqDeTLmfvBeY281CN"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
-      "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 156213,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
-    },
-    {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "WARNING",
         "url": "https://open.spotify.com/album/4HYPMdHDoTzGLCeB9nVxxZ"
@@ -681,7 +717,7 @@
       "url": "https://open.spotify.com/track/6HOOJ2LbasnZqxuqlaNSfk"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Hello Sadness",
         "url": "https://open.spotify.com/album/7JxP2gswniXKC54kESMAX8"
@@ -709,7 +745,7 @@
       "url": "https://open.spotify.com/track/7vmwfBkvRtJ6ncov0ClTpp"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Wimbo Wetu",
         "url": "https://open.spotify.com/album/3XbVKuy8YmoHYwqXoVRvBr"
@@ -725,7 +761,7 @@
       "url": "https://open.spotify.com/track/0zOV2YLP3cSpknApGiIo4H"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/0YT2PJ2AbXqRbz4Oj3ew0Z"
@@ -745,7 +781,7 @@
       "url": "https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Colours",
         "url": "https://open.spotify.com/album/3clJXsKbeadJqCZoURhp5R"
@@ -765,7 +801,7 @@
       "url": "https://open.spotify.com/track/7iB7aG563XdqyqGLpb1BYj"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "NIGHTS WITHOUT YOU",
         "url": "https://open.spotify.com/album/6uqyYLRgrlKjlIIfz3Hoid"
@@ -793,23 +829,7 @@
       "url": "https://open.spotify.com/track/0NCrt951A09LYmxbGdqW8N"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
-      "album": {
-        "name": "Dark brown eyes",
-        "url": "https://open.spotify.com/album/5WtE9QFgyUpyviMoDpod8J"
-      },
-      "artists": [
-        {
-          "name": "Manasseh Shalom",
-          "url": "https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7"
-        }
-      ],
-      "duration_ms": 228969,
-      "name": "Dark brown eyes",
-      "url": "https://open.spotify.com/track/7JO63lzm9CxlxKR26j0Vog"
-    },
-    {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Nipende",
         "url": "https://open.spotify.com/album/06DbgiBmUM7eSQiAk2cx55"
@@ -825,7 +845,7 @@
       "url": "https://open.spotify.com/track/6DgMQzle107AN4oBX5Uhcz"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/4Hu3aPRRM4bVU3kujeUT8H"
@@ -845,27 +865,7 @@
       "url": "https://open.spotify.com/track/3w0UpkLT8xMKX0HqBkLUQV"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
-      "album": {
-        "name": "DEDICATED",
-        "url": "https://open.spotify.com/album/2INHWNycenPaECsaTPKnbJ"
-      },
-      "artists": [
-        {
-          "name": "Meryl Paige",
-          "url": "https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg"
-        },
-        {
-          "name": "Colossal Music",
-          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "My Love Awaits",
-      "url": "https://open.spotify.com/track/24hszCuRcxdPIfKf1tiD27"
-    },
-    {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Aibu",
         "url": "https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC"
@@ -885,7 +885,7 @@
       "url": "https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Enough",
         "url": "https://open.spotify.com/album/5GvLqmGHBeQ82Yo4TQ6Sgc"
@@ -901,7 +901,7 @@
       "url": "https://open.spotify.com/track/604EBEcVgETlw2yG0qH4Sr"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29"
@@ -917,7 +917,7 @@
       "url": "https://open.spotify.com/track/47jeYgNLyaN1pBLQrVE6x0"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Loverman (Acoustic)",
         "url": "https://open.spotify.com/album/5Ajbk0U4jDQRtqLDg9OZoB"
@@ -937,7 +937,7 @@
       "url": "https://open.spotify.com/track/6vxwG8RWDOOlyCyxU4l0qP"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Barua ya Dunia",
         "url": "https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z"
@@ -953,7 +953,7 @@
       "url": "https://open.spotify.com/track/4j46yRxfE9nGMwL1JSKNNc"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Ambia",
         "url": "https://open.spotify.com/album/6Wg6JpSlFn2VdeFFQj5xzn"
@@ -969,7 +969,7 @@
       "url": "https://open.spotify.com/track/5DTLXU7HQ9PhNm6w7l8eZa"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "NYUMBANI",
         "url": "https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s"
@@ -989,7 +989,7 @@
       "url": "https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "MY WAY:VOLUME II",
         "url": "https://open.spotify.com/album/2UX55Fw5fkscU7xWo5wvvK"
@@ -1009,7 +1009,7 @@
       "url": "https://open.spotify.com/track/12QXwJTH3XlsNXG7nKbxil"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Coka Mucie",
         "url": "https://open.spotify.com/album/77IgdQQfnJkNuRtjSN3DtP"
@@ -1025,7 +1025,7 @@
       "url": "https://open.spotify.com/track/4WUB5yrRvObEzUIld8zRm8"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "A Side Of Me",
         "url": "https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em"
@@ -1041,7 +1041,7 @@
       "url": "https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW"
@@ -1061,20 +1061,24 @@
       "url": "https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED"
     },
     {
-      "added_at": "2024-01-19 17:53:19",
+      "added_at": "2024-02-01 23:59:00",
       "album": {
-        "name": "Colours",
-        "url": "https://open.spotify.com/album/4EoFzMW7gtpxK27BjkKoOd"
+        "name": "DEDICATED",
+        "url": "https://open.spotify.com/album/2INHWNycenPaECsaTPKnbJ"
       },
       "artists": [
         {
-          "name": "Bridget Blue",
-          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
+          "name": "Meryl Paige",
+          "url": "https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg"
+        },
+        {
+          "name": "Colossal Music",
+          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Window (Red)",
-      "url": "https://open.spotify.com/track/53UTnaVi48tv6mv0DoLm4A"
+      "duration_ms": 224000,
+      "name": "My Love Awaits",
+      "url": "https://open.spotify.com/track/24hszCuRcxdPIfKf1tiD27"
     }
   ],
   "unique_name": "NairoBae",

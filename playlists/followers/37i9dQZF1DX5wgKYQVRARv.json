@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 527700,
+  "2024-02-02": 527793,
   "date_first_scraped": "2021-12-21",
   "description": "New and recent favorites of Prog Metal. Cover: TesseracT",
   "name": "Progressive Metal",
@@ -6300,24 +6300,20 @@
     },
     {
       "album": {
-        "name": "Miasma",
+        "name": "Miasma (feat. Winston McCall)",
         "url": "https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL"
       },
       "artists": [
         {
           "name": "Northlane",
           "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
-        },
-        {
-          "name": "Winston McCall",
-          "url": "https://open.spotify.com/artist/5SbE63j8ykElvWk3EZEmrx"
         }
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 258153,
-      "name": "Miasma",
+      "name": "Miasma (feat. Winston McCall)",
       "url": "https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG"
     },
     {

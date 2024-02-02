@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKfYX5JxehQ.md) - [plain]
 
 > Se você cheirou a suco em 2023, essa playlist é pros seus treinos, não é mesmo?
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,804 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,837 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKfYX5JxehQ.md) - [plain]
 | 22 | [Mind Control](https://open.spotify.com/track/2omGDi7r9x4nMMYMdDTu5j) | [Guzz](https://open.spotify.com/artist/2M23z6FczyKLQFTTvB3EI8) | [Mind Control](https://open.spotify.com/album/1RVUXJWDqtxbGwXlhPiOrU) | 4:00 |
 | 23 | [Wash Bass](https://open.spotify.com/track/2r7hmPkON1r2KSdqgYXeFe) | [Sterium](https://open.spotify.com/artist/6mZFMQ4sBi39W9dXCLH77s) | [Wash Bass](https://open.spotify.com/album/3QyqHmtONP5GONspwJThQq) | 3:23 |
 | 24 | [Highest In The Room](https://open.spotify.com/track/2h3t3Foxd1VrOMEM7smWZM) | [SCNDL](https://open.spotify.com/artist/3Y7sK4nACC8R7WwAUUumCL) | [Highest In The Room](https://open.spotify.com/album/1sSGaUZ48mi8qd0KR21RZo) | 2:26 |
-| 25 | [Quarentoxic](https://open.spotify.com/track/1kbA0ogOM9fWT4dDHMsa8y) | [Kzn](https://open.spotify.com/artist/5EZHJyeAbl8WK8PdMRR2eh) | [Quarentoxic](https://open.spotify.com/album/3JZ8UlANPOiKPRXDub8In1) | 3:13 |
+| 25 | [Quarentoxic](https://open.spotify.com/track/6FqIzYdOJD29Xf3y7cOyWF) | [Kzn](https://open.spotify.com/artist/5EZHJyeAbl8WK8PdMRR2eh) | [Quarentoxic](https://open.spotify.com/album/2WKsLQG7CwLheg60Gal0HC) | 3:13 |
 | 26 | [Future](https://open.spotify.com/track/32VQjdJsS3EPF9fmIUAIPl) | [Dualmind](https://open.spotify.com/artist/2gNRZGT58XSTrInywjcgil), [Gandolfi B.](https://open.spotify.com/artist/0Js4sdeapMvJ4hB3KDq58J) | [Future](https://open.spotify.com/album/5pVzwUaHFDj7fi0bN3l3Uq) | 1:24 |
 | 27 | [Kiss Kiss](https://open.spotify.com/track/1fjuQCG1Lt8QeUrAFSD2sX) | [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv), [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa), [Edie](https://open.spotify.com/artist/1IkKFD4QqHiqTM0aGzx8Mu) | [Kiss Kiss](https://open.spotify.com/album/0PswQikMXxZ6NNQOhIrMMC) | 2:43 |
 | 28 | [Rapture](https://open.spotify.com/track/0CIohDBYA8xKM5VQwi0LtS) | [Hugo Doche](https://open.spotify.com/artist/2JejalV9S2tSy4uk3o3aiv) | [Rapture](https://open.spotify.com/album/3BOMBE4SXoFJyvE7yW4qX2) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKfYX5JxehQ.md) - [plain]
 | 49 | [That's Why 2k19 \(Vintage Culture & Dashdot 2k19\)](https://open.spotify.com/track/12mUCDvHU5jtJpnQJd4fKj) | [Dashdot](https://open.spotify.com/artist/0dDnvI6TCQslhEBYCA4DPU), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [That's Why \(Vintage Culture & Dashdot 2k19\)](https://open.spotify.com/album/2J1TdyQQ88VUupk1YinEGC) | 3:17 |
 | 50 | [So Tell Me \- Radio Edit](https://open.spotify.com/track/0WbYSr9vGI33xEH8xLb7vo) | [Malifoo](https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5) | [So Tell Me \(Radio Edit\)](https://open.spotify.com/album/0TvZI457Iot4mtGRlMDSeN) | 3:09 |
 
-Snapshot ID: `MCw2YjJlNzM5OTg1OTkzMDFhY2Y2YzM1MzdiNGRmOTlkZDE5ZjcwOTBl`
+Snapshot ID: `MCxiMDFjM2RlYzc1YTY3MmQ0NTNlOWJkYjRiMWRiOTZhY2I3MDg3YmM0`

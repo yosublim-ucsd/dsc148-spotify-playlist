@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 10417,
+  "num_followers": 10421,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjRjMzcxYzViMTQ5ZGFlOWI3YjEzOTM2OTYzNjRmYmU3Mjk1Nzk1",
+  "snapshot_id": "MCxjYTZkYjllYjViNzhjN2JjNzFmMDNmMmFlNjg2MmM2YTJmM2M4MzE2",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -75,22 +75,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Live In Dublin",
-        "url": "https://open.spotify.com/album/4CKs4nbhva7asiYqsZpMOi"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 249055,
-      "name": "Save the Last Dance for Me - Live in Dublin",
-      "url": "https://open.spotify.com/track/4gF4435jcJGLXvQe7hovtp"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "This Empty Northern Hemisphere",
         "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 295280,
       "name": "One of Us Cannot Be Wrong",
       "url": "https://open.spotify.com/track/2fmeEE8cOgVqUDU9foMVTj"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Live In Dublin",
+        "url": "https://open.spotify.com/album/4CKs4nbhva7asiYqsZpMOi"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 249055,
+      "name": "Save the Last Dance for Me - Live in Dublin",
+      "url": "https://open.spotify.com/track/4gF4435jcJGLXvQe7hovtp"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -619,22 +619,18 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Everybody Knows",
-        "url": "https://open.spotify.com/album/6pEDpmpeGLfIX8fGi4OzOo"
+        "name": "Chelsea Hotel #2",
+        "url": "https://open.spotify.com/album/74kCTmJ9MUmJWRZifk69Bi"
       },
       "artists": [
         {
-          "name": "Stephen Stills",
-          "url": "https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX"
-        },
-        {
-          "name": "Judy Collins",
-          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+          "name": "Kyle Craft",
+          "url": "https://open.spotify.com/artist/29kOS7p4N9JeqoRgA2PCsr"
         }
       ],
-      "duration_ms": 326684,
-      "name": "Everybody Knows",
-      "url": "https://open.spotify.com/track/7arMFVCLQ4h0B3lIZITEdY"
+      "duration_ms": 215137,
+      "name": "Chelsea Hotel #2",
+      "url": "https://open.spotify.com/track/0wWuIseAsESzPDFPBYwkRs"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -659,18 +655,18 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Chelsea Hotel #2",
-        "url": "https://open.spotify.com/album/74kCTmJ9MUmJWRZifk69Bi"
+        "name": "Bird on the Wire: The Songs of Leonard Cohen",
+        "url": "https://open.spotify.com/album/6YlhxSzPNNYIlErdM55joz"
       },
       "artists": [
         {
-          "name": "Kyle Craft",
-          "url": "https://open.spotify.com/artist/29kOS7p4N9JeqoRgA2PCsr"
+          "name": "Perla Batalla",
+          "url": "https://open.spotify.com/artist/4WbqfrEOTC6kNYOeDMDVOd"
         }
       ],
-      "duration_ms": 215137,
-      "name": "Chelsea Hotel #2",
-      "url": "https://open.spotify.com/track/0wWuIseAsESzPDFPBYwkRs"
+      "duration_ms": 376946,
+      "name": "Ballad of the Absent Mare",
+      "url": "https://open.spotify.com/track/7j82hjfoBR7CB8WlxpZxTC"
     }
   ],
   "unique_name": "Leonard Cohen: Covered",

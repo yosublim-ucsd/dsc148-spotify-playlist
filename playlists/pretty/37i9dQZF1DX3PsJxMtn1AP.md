@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,323 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,324 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 49 | [Crash](https://open.spotify.com/track/2k1fCkx6hJ0o0yuXyyKeY8) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56), [Izzy Glaudini](https://open.spotify.com/artist/1VqGiwhaU2Djzx8UYFKr2x) | [Push](https://open.spotify.com/album/094LVoZpuHpU0QwZQNmqAc) | 4:43 |
 | 50 | [Une Autre Attente](https://open.spotify.com/track/6EKW2yTzyZWBdDK7DEVPhx) | [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb) | [Une Autre Attente](https://open.spotify.com/album/3txRsK90V4IwObiif90nJx) | 2:42 |
 
-Snapshot ID: `MCxhMjdjMzk3NmQ4NTljODgwMmVjMGMzMzYzNDIzZTMxNGVkYTNlMjNj`
+Snapshot ID: `MCxlOTllOWIxMGNjYjU3NzQ5MjUxYzUxOTk5YWFiM2JkYjBhMDFlYTdh`

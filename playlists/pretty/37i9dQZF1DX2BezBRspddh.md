@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BezBRspddh.md) - [plain]
 
 > True blue poetry\. Let these Bollywood Ghazals take over your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,379 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,406 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BezBRspddh.md) - [plain]
 | 22 | [Phir Chiddi Raat](https://open.spotify.com/track/0bdlGyCdA6DDg5wd5QfvQx) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Bazaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1avIfZTPBNVgxgbBSaNLnX) | 5:08 |
 | 23 | [Zindagi Jab Bhi](https://open.spotify.com/track/0y3b4ssMVGVAYnVd231Tff) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Umrao Jaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qavq5Ue68nUxUK5VLRnNe) | 4:56 |
 | 24 | [Dikhai Diye Yun, Pt\. 1](https://open.spotify.com/track/3WWMn45qlTEzei4DuoawAY) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Bazaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1avIfZTPBNVgxgbBSaNLnX) | 4:20 |
-| 25 | [Zabaan Jale Hai](https://open.spotify.com/track/0OxEBpr2GQcvjHbKzWNpWK) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Dedh Ishqiya](https://open.spotify.com/album/0x33kdKVOuPpUNyuQdX1LR) | 5:23 |
+| 25 | [Zabaan Jale Hai](https://open.spotify.com/track/7EoVFJC88anCO86Ih3YDX7) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Dedh Ishqiya](https://open.spotify.com/album/23R1Rdt3MDu5aHYh9FFGBp) | 5:23 |
 | 26 | [Ek Akela Is Shaher Mein](https://open.spotify.com/track/7HDeW8Bq6kv9L7b6KSHKTl) | [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Gharaonda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39phHUxlqMu1jWsaAbc60b) | 5:02 |
 | 27 | [Yeh Raat Khushnaseeb Hai](https://open.spotify.com/track/4KlZYoWM2d2xubN8ZHjseR) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Aaina \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5D3yhDwUoMpj4dVHqw07VL) | 4:49 |
 | 28 | [Mujhse Naaraz Hoto Ho](https://open.spotify.com/track/39XIJsPjWJfOc4sfmbl7F4) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Papa Kehte Hain](https://open.spotify.com/album/2JiWVIMiWoVqntP8yffFXU) | 5:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BezBRspddh.md) - [plain]
 | 49 | [Aankhon Se Khwab Rooth Kar](https://open.spotify.com/track/5vr2S5WX7N1zbXAHWsuXFH) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Super Star](https://open.spotify.com/album/0wswgvh5SqzIbPPimeNuTu) | 8:05 |
 | 50 | [Yun Zindagi Ki](https://open.spotify.com/track/46xLESZaIBrvUqZYgXN4hb) | [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [Saath Saath](https://open.spotify.com/album/7esH45JgwUTlmi1wgK5y1b) | 4:48 |
 
-Snapshot ID: `MCw1MzQ4YWM2ZjFmNzM5MjZlNzY3OGQ5ODljYWIwNDQ1YTNjZjU1N2E1`
+Snapshot ID: `MCw5OTQ3NGE0MTU1YmIxYzA2Y2E3ZTQ0NGVmODU0YWM4N2NlMjBlZTlk`

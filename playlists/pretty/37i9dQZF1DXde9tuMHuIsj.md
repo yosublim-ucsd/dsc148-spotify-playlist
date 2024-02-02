@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Lyanno, Anubiis & Hades66
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,496,874 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,496,573 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 57 | [En Alta](https://open.spotify.com/track/5QX43W0c6X53arJNNtDV8U) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [En Alta \(Quevedo\)](https://open.spotify.com/album/2GVUHI3j9T7FUHToqFulkv) | 4:10 |
 | 58 | [De Luto](https://open.spotify.com/track/0WSKJY5hXkdmR8gbA3AXX3) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [CODA](https://open.spotify.com/album/4Z3uC2a3xxwnTCeCbAz6t1) | 2:53 |
 | 59 | [Al Otro Nivel](https://open.spotify.com/track/2WJXba0CALXqWk8ghw2RiR) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Al Otro Nivel](https://open.spotify.com/album/2RS3obBX5SSEQE1e2TEdtZ) | 4:46 |
-| 60 | [G Spot](https://open.spotify.com/track/7qcG5K5O8XjmKT2DFdxWl4) | [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [G Spot](https://open.spotify.com/album/0OGm90v3LUf6pZyeI55yTc) | 3:31 |
-| 61 | [BBY BOO](https://open.spotify.com/track/1yDJAXPuXbyhU5tNGGXlPh) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [BBY BOO](https://open.spotify.com/album/4CQs7H0Wo14xzJ2FMPbNxi) | 2:28 |
+| 60 | [BBY BOO](https://open.spotify.com/track/1yDJAXPuXbyhU5tNGGXlPh) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [BBY BOO](https://open.spotify.com/album/4CQs7H0Wo14xzJ2FMPbNxi) | 2:28 |
+| 61 | [G Spot](https://open.spotify.com/track/7qcG5K5O8XjmKT2DFdxWl4) | [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [G Spot](https://open.spotify.com/album/0OGm90v3LUf6pZyeI55yTc) | 3:31 |
 | 62 | [JS4E](https://open.spotify.com/track/5iaFGC7XdmWmfwxV9JUPY6) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [JS4E](https://open.spotify.com/album/1SKRBnPekNhaxB503BgR8U) | 3:57 |
 | 63 | [MILWAUKEE 2](https://open.spotify.com/track/5Fay99JyfeG16pLs9gLJno) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [MILWAUKEE 2](https://open.spotify.com/album/2dSp6CWL2wGk5wuDddVRRe) | 2:24 |
 | 64 | [Estikei](https://open.spotify.com/track/7LjWg30pfLnp31pXulL8z1) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Estikei](https://open.spotify.com/album/0r7C2pui7Zs41PN0G62R4u) | 2:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 99 | [Estilo de Vida](https://open.spotify.com/track/1muTEUeGKeiS6PlVHFBIWq) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb) | [CODA](https://open.spotify.com/album/4Z3uC2a3xxwnTCeCbAz6t1) | 2:21 |
 | 100 | [CC](https://open.spotify.com/track/5GX0pPQ3ci4DyzItOpaJo7) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [CC](https://open.spotify.com/album/7DlQeN6nryMuBbkyept0z3) | 3:11 |
 
-Snapshot ID: `MCw3ZmZjMTRmM2Y1YmViMjM2N2UwN2RjYmRiZWEwYjM2OTg5MGQ3NDJj`
+Snapshot ID: `MCwzNjQxNDVlODk1YWE2MDJlY2IyOGJkMGQzMjdjZjk5NjFiYjgwNzY3`

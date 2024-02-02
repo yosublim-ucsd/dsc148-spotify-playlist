@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Before the sea",
+        "url": "https://open.spotify.com/album/76MYd834C4kMxG3oh5djnd"
+      },
+      "artists": [
+        {
+          "name": "Keith Hamasaki",
+          "url": "https://open.spotify.com/artist/6nv23J7HXGspwrnU3M3O2i"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153601,
+      "name": "Before the sea",
+      "url": "https://open.spotify.com/track/4JkukV5QYxyUq4cwgn9BVI"
+    },
+    {
+      "album": {
         "name": "BLANKETS & TEA",
         "url": "https://open.spotify.com/album/1sq2sCx4tTuXaoSNo5Xu0u"
       },
@@ -561,6 +579,28 @@
     },
     {
       "album": {
+        "name": "Damn",
+        "url": "https://open.spotify.com/album/6P7kJQT9f04UGvUuhxQsyB"
+      },
+      "artists": [
+        {
+          "name": "byJ.",
+          "url": "https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws"
+        },
+        {
+          "name": "Patiotic Records",
+          "url": "https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120879,
+      "name": "Damn",
+      "url": "https://open.spotify.com/track/5O1j64ep8DD9sHtmhSVGlb"
+    },
+    {
+      "album": {
         "name": "Deepmind",
         "url": "https://open.spotify.com/album/2EY7EXnrdieWdNzdBbntWT"
       },
@@ -687,6 +727,24 @@
     },
     {
       "album": {
+        "name": "Garden Suitcase",
+        "url": "https://open.spotify.com/album/7xMTf3XHD0bDYg0qAybTry"
+      },
+      "artists": [
+        {
+          "name": "hello low",
+          "url": "https://open.spotify.com/artist/0rw0XSu4ERGOxViqqBfclo"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151898,
+      "name": "Garden Suitcase",
+      "url": "https://open.spotify.com/track/7M7F46ZhsjjQrat1xsSBnZ"
+    },
+    {
+      "album": {
         "name": "Get up",
         "url": "https://open.spotify.com/album/1bNYmG1mvFW3brv0P2BCoC"
       },
@@ -698,7 +756,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 64000,
       "name": "Get up",
       "url": "https://open.spotify.com/track/00GPpPXXRNgnfLN89pYNqX"
@@ -1326,7 +1384,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 194344,
       "name": "regn",
       "url": "https://open.spotify.com/track/4ViobejmVUpQS5CHu1T3DU"
@@ -1380,7 +1438,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 142317,
       "name": "Sakura Sunset",
       "url": "https://open.spotify.com/track/1X4vIPVvyjPLwoKG6sYKIA"
@@ -1658,6 +1716,24 @@
       "duration_ms": 153059,
       "name": "to float",
       "url": "https://open.spotify.com/track/0mlKE6Ye4DDsmxsraCexcM"
+    },
+    {
+      "album": {
+        "name": "Trust Spring",
+        "url": "https://open.spotify.com/album/2I3IoVyZOTVuSGOr5SX9kK"
+      },
+      "artists": [
+        {
+          "name": "ATONED",
+          "url": "https://open.spotify.com/artist/0OjQN1YWUMKO2Kf3ALv1TM"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133124,
+      "name": "Trust Spring",
+      "url": "https://open.spotify.com/track/79SRBZJ8mQo6cxpqNRjfv3"
     },
     {
       "album": {

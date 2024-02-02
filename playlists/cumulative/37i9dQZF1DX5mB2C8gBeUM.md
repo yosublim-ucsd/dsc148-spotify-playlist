@@ -2,7 +2,7 @@
 
 ### [Wild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> Country gone wild! You never know what you're gonna get\. Cover: Redferrin
+> Country gone wild! You never know what you're gonna get\. Cover: Shaboozey
 
 429 songs - 21 hr 28 min
 

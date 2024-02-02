@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 2166,
+  "2024-02-02": 2170,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5fwYfqYEDWu9UNfljA4NID\">OZ</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By OZ",
@@ -480,6 +480,24 @@
     },
     {
       "album": {
+        "name": "ESCAPE PLAN / MAFIA",
+        "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149610,
+      "name": "ESCAPE PLAN",
+      "url": "https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez"
+    },
+    {
+      "album": {
         "name": "ESCAPE PLAN (Official Music Video)",
         "url": "https://open.spotify.com/album/4WCfJ6zZkDs45XH8qsl2zG"
       },
@@ -491,7 +509,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 165610,
       "name": "ESCAPE PLAN",
       "url": "https://open.spotify.com/track/6MiYDtMKWIfoolACL9UMEy"
@@ -813,7 +831,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 176960,
       "name": "HIGHEST IN THE ROOM",
       "url": "https://open.spotify.com/track/0qSu9sPSy4GWTeN7H5qgkJ"
@@ -1639,10 +1657,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 206533,
       "name": "Saved",
       "url": "https://open.spotify.com/track/248OFOZef6ShXv6DGgbnxU"
+    },
+    {
+      "album": {
+        "name": "Saved (Official Video)",
+        "url": "https://open.spotify.com/album/5VbCp4lYvDnAZARWYNQIdg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224618,
+      "name": "Saved",
+      "url": "https://open.spotify.com/track/52ARMnx6e49vp2zriS5aFK"
     },
     {
       "album": {

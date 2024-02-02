@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,042 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,112 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 32 | [Pro Dia Nascer Feliz](https://open.spotify.com/track/2EjGS0YJPaf3C4TCmJddGL) | [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Malifoo](https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5), [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Pro Dia Nascer Feliz](https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk) | 3:23 |
 | 33 | [The Truth](https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [The Truth](https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj) | 3:13 |
 | 34 | [Toda Forma De Amor \- Remix](https://open.spotify.com/track/5OUcQYbAwl4uKlVqnTqs2C) | [Make U Sweat](https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Toda Forma De Amor \(Remix\)](https://open.spotify.com/album/6JrcGklaPVSgStFMVr1D80) | 3:48 |
-| 35 | [Telegrama \(Double MZK Remix\)](https://open.spotify.com/track/6ZT3MwKnS3u4IvNFT8iz8i) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Telegrama \(Double MZK Remix\)](https://open.spotify.com/album/5CyzZozQCAbNg8t1ww9UD2) | 2:39 |
-| 36 | [Um Dia Inteiro](https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw) | [DUX](https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6), [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Um Dia Inteiro](https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo) | 3:04 |
+| 35 | [Um Dia Inteiro](https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw) | [DUX](https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6), [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Um Dia Inteiro](https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo) | 3:04 |
+| 36 | [Telegrama \(Double MZK Remix\)](https://open.spotify.com/track/6ZT3MwKnS3u4IvNFT8iz8i) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Telegrama \(Double MZK Remix\)](https://open.spotify.com/album/5CyzZozQCAbNg8t1ww9UD2) | 2:39 |
 | 37 | [Tom's Diner](https://open.spotify.com/track/00FuFY2DemyowcHwMabQ11) | [Groove Crackers](https://open.spotify.com/artist/0a68MOyqyR7N3HopSFgAo8), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Tom's Diner](https://open.spotify.com/album/2PSz5TRIXyGCsHRW3sYsQR) | 2:14 |
 | 38 | [All The Lies \(with Felix Jaehn & The Vamps\)](https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [All The Lies \(with Felix Jaehn & The Vamps\)](https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL) | 2:59 |
 | 39 | [Save Me](https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5), [TRIXL](https://open.spotify.com/artist/0XzpwgL4nNoiTPbqztylMz), [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Save Me](https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf) | 2:40 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Alto Mar \- Woak & Rigon Remix](https://open.spotify.com/track/4eRdqHpdfJxJcUdzhoYBSq) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk), [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb), [Rigon](https://open.spotify.com/artist/0xDbxdDRHBs8SuyaWThzwO) | [Alto Mar \(Woak & Rigon Remix\)](https://open.spotify.com/album/0CiYa6remt7JTz5ZJFyvSs) | 2:42 |
 | 70 | [Hoje Caminhei \- Remix](https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO) | [Cazt](https://open.spotify.com/artist/66KMR938PcmbSkHzZzW6Gg), [Nicolas Candido](https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6), [ØNEhead](https://open.spotify.com/artist/0PGwcXveTYchEcTzdQHchT) | [Hoje Caminhei \(Remix\)](https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap) | 2:20 |
 
-Snapshot ID: `MCxkNDZkMzRmMzU5ZjM2NDQ0ZGE5OGZjNzU5MjJmZGZhOTQwZmVlMWRh`
+Snapshot ID: `MCxmOWFmNmJjNmM4YmZhNjExNGI1YjM1ZWE3Mjg5MGQ4NmJkZjQ3OTY5`

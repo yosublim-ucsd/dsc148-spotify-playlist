@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-468 songs - 1 day 9 hr 19 min
+469 songs - 1 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [A Sea of Stars \(Miami Nights 1984 Remix\)](https://open.spotify.com/track/68GKHn1VXyM8RHG1rm4Ov1) | [W O L F C L U B](https://open.spotify.com/artist/4dCDYKtFTMnKCI9PvEwMQX), [Miami Nights 1984](https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20) | [A Sea of Stars \(Miami Nights 1984 Remix\)](https://open.spotify.com/album/7bnXNCT9BhCqYra8IT8OWq) | 3:31 | 2023-01-20 |  |
 | [a ti y a mi nos quieren hacer daño](https://open.spotify.com/track/6XhDdfzt0TIv4g9jlFzqCq) | [Fran Laoren](https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4) | [a ti y a mi nos quieren hacer daño](https://open.spotify.com/album/4nWVVZDWGn1M25LblFJHFg) | 3:08 | 2022-04-01 | 2022-04-08 |
 | [Above The Clouds](https://open.spotify.com/track/3AGsnf8fjX4vBsIybP3B8T) | [Droid Bishop](https://open.spotify.com/artist/0HPVHsbV2yIYPp2Pk4kdHe) | [Nights](https://open.spotify.com/album/4pQQ9w4fIP6hawkDfMvUZS) | 5:01 | 2023-10-23 |  |
-| [Across Dark Sky](https://open.spotify.com/track/4h7PsMHwolAXNV7bemumCp) | [Cloned Clouds](https://open.spotify.com/artist/1ZAzHOklRnzauXs4DNYB0f) | [Across Dark Sky](https://open.spotify.com/album/6eOBd7hfeFIFnNCzVkPh90) | 3:13 | 2023-11-27 |  |
+| [Across Dark Sky](https://open.spotify.com/track/4h7PsMHwolAXNV7bemumCp) | [Cloned Clouds](https://open.spotify.com/artist/1ZAzHOklRnzauXs4DNYB0f) | [Across Dark Sky](https://open.spotify.com/album/6eOBd7hfeFIFnNCzVkPh90) | 3:13 | 2023-11-27 | 2024-02-02 |
 | [Aether](https://open.spotify.com/track/5o9xd68vUYLlzlwj0GNYUP) | [Downtown Binary](https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv) | [Aether](https://open.spotify.com/album/0ZoaBcqN3rGRFgMa2zwseP) | 4:18 | 2023-01-13 |  |
 | [Aether](https://open.spotify.com/track/4OnuNLwvIgroDdTXX2k5dF) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Aether](https://open.spotify.com/album/1wI6LtwwxH0RU5eX2agIxe) | 3:26 | 2021-10-15 |  |
 | [After Hours](https://open.spotify.com/track/4qg3M8Ml85iliPG2WRQ3FM) | [Sunset Neon](https://open.spotify.com/artist/7LpQ9EjCi2klKhDUhAUa1s) | [Starlight \(Deluxe Edition\)](https://open.spotify.com/album/6o57o477VyFrubOJqTMwUV) | 4:00 | 2021-10-15 | 2022-11-03 |
@@ -202,6 +202,7 @@
 | [Hotline Miami II](https://open.spotify.com/track/2qzbJyY0c4vzhXFlnRNCji) | [Das Mörtal](https://open.spotify.com/artist/0l5SpsbElFWLrDdMXWieNp) | [Hotline Miami II](https://open.spotify.com/album/6ASlNNjHy6yL8lNTMuNvPn) | 3:47 | 2022-04-01 | 2022-04-21 |
 | [Hotline Miami II](https://open.spotify.com/track/7qEIlg3a8Yrci7GhkmZR2V) | [Das Mörtal](https://open.spotify.com/artist/0l5SpsbElFWLrDdMXWieNp) | [Hotline Miami II](https://open.spotify.com/album/6v2alUvXCExu0CH7n4v9Ql) | 3:47 | 2022-07-22 | 2022-10-01 |
 | [Hounds of Hell](https://open.spotify.com/track/1DcB747sZ7wM71YkaEYpLC) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Teamworks EP \(Pt\. 2/2\)](https://open.spotify.com/album/3MWbClmnqoShaxN4onZh5V) | 7:20 | 2022-08-19 | 2022-09-24 |
+| [Hurts](https://open.spotify.com/track/6pJtuH0lfbCi98JDr166Uy) | [Kenno](https://open.spotify.com/artist/4fPQVQAFiRySPSBTpr68W1) | [Hurts](https://open.spotify.com/album/2ZvNwpLsK2gfNfEwct0TEf) | 3:32 | 2023-11-27 |  |
 | [hypercaste](https://open.spotify.com/track/7wSL7kdK3yXGOf9NDixcYb) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [hypercaste](https://open.spotify.com/album/6ftBu7bSdQneyhD2gujdCI) | 2:31 | 2023-10-27 |  |
 | [Hyperlandia \- Vocal Mix](https://open.spotify.com/track/2goi9r8tdsV1g79eesmaCX) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Hyperlandia](https://open.spotify.com/album/0UDVNOLLKTw4Fme8MbE1Mh) | 5:49 | 2022-10-14 |  |
 | [Hyperlandia \- Vocal Mix](https://open.spotify.com/track/4Vd53EHIw4lEfe7rqHSctN) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Hyperlandia](https://open.spotify.com/album/3DUcJ8bqyo4cZNt97VkmKi) | 5:49 | 2022-02-04 | 2022-10-13 |

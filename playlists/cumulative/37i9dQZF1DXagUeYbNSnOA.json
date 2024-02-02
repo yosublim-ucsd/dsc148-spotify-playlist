@@ -7723,6 +7723,24 @@
     },
     {
       "album": {
+        "name": "Delfina",
+        "url": "https://open.spotify.com/album/0DPas4m0NzEjiJAo6YxyYg"
+      },
+      "artists": [
+        {
+          "name": "Sol Madrigal",
+          "url": "https://open.spotify.com/artist/7qxccC6MPnRfj31zk2JcnB"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165471,
+      "name": "Delfina",
+      "url": "https://open.spotify.com/track/1qTT0vKbsT8GiVsB8X5fZe"
+    },
+    {
+      "album": {
         "name": "Deli",
         "url": "https://open.spotify.com/album/2va7VMmL5yd30EuNAHoE2k"
       },

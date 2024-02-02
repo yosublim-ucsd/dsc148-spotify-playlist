@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 227123,
+  "2024-02-02": 227224,
   "date_first_scraped": "2023-09-29",
   "description": "Les plus grands hits fran\u00e7ais des ann\u00e9es 2000. Photo : Diam's",
   "name": "Hits Fran\u00e7ais 2000",
@@ -60,6 +60,42 @@
     },
     {
       "album": {
+        "name": "Charango",
+        "url": "https://open.spotify.com/album/6poeQP5Vsy8V8cRdqLbn8c"
+      },
+      "artists": [
+        {
+          "name": "Yannick Noah",
+          "url": "https://open.spotify.com/artist/0BCkVcs4QEgfHlvZ7rjSNv"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195680,
+      "name": "Aux arbres citoyens",
+      "url": "https://open.spotify.com/track/2poOtKwdjc39DRNmY6wRV2"
+    },
+    {
+      "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/56kNIKcb5Tli9cdAA4qfk1"
+      },
+      "artists": [
+        {
+          "name": "Superbus",
+          "url": "https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232706,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/7el6SEqok66QW0WqqhYEsI"
+    },
+    {
+      "album": {
         "name": "Histoires de",
         "url": "https://open.spotify.com/album/2429EGI4W9DN926A6TNZKG"
       },
@@ -111,6 +147,28 @@
       "duration_ms": 169106,
       "name": "Comme des enfants",
       "url": "https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX"
+    },
+    {
+      "album": {
+        "name": "Dans Ma Bulle",
+        "url": "https://open.spotify.com/album/1ZlqqgXvzlq8kZBKsY0hWO"
+      },
+      "artists": [
+        {
+          "name": "Diam's",
+          "url": "https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM"
+        },
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360120,
+      "name": "Confessions Nocturnes",
+      "url": "https://open.spotify.com/track/0C9qil6cXEEJ8AzrMUEHv6"
     },
     {
       "album": {
@@ -212,6 +270,24 @@
     },
     {
       "album": {
+        "name": "Soir\u00e9e ann\u00e9es 2000",
+        "url": "https://open.spotify.com/album/5903eFYEpguXwflIPO8DcX"
+      },
+      "artists": [
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202266,
+      "name": "En apesanteur - Single Version",
+      "url": "https://open.spotify.com/track/51fnKEBEOLUxSoOad4jcA9"
+    },
+    {
+      "album": {
         "name": "Entre Nous",
         "url": "https://open.spotify.com/album/5MJA6xu4PFwVEHP50VQ8DX"
       },
@@ -310,6 +386,24 @@
     },
     {
       "album": {
+        "name": "Koxie",
+        "url": "https://open.spotify.com/album/5aGNnDoH6dvXVTlhvKSbLJ"
+      },
+      "artists": [
+        {
+          "name": "Koxie",
+          "url": "https://open.spotify.com/artist/54eDBxDgfcmO6jqlKg0XLb"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215506,
+      "name": "Gar\u00e7on",
+      "url": "https://open.spotify.com/track/18wOD0PpwKHf8KuvtM5sx7"
+    },
+    {
+      "album": {
         "name": "Sheryfa Luna",
         "url": "https://open.spotify.com/album/0I1iezuwcQDATLumFtVjpX"
       },
@@ -361,6 +455,24 @@
       "duration_ms": 209413,
       "name": "J'ai demand\u00e9 \u00e0 la lune",
       "url": "https://open.spotify.com/track/2QSAj76Ba6aMFX9RlXdUdO"
+    },
+    {
+      "album": {
+        "name": "Marcher Dans Le Sable",
+        "url": "https://open.spotify.com/album/1YaNnz7y8m8SGIT7cgcmVD"
+      },
+      "artists": [
+        {
+          "name": "De Palmas",
+          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240986,
+      "name": "J'en r\u00eave encore - Radio Edit",
+      "url": "https://open.spotify.com/track/3Hnk6OKqUg4QZitH2ExSwm"
     },
     {
       "album": {
@@ -440,6 +552,42 @@
     },
     {
       "album": {
+        "name": "Totem",
+        "url": "https://open.spotify.com/album/2qgCOodXgN7d6Re5fT1Ezz"
+      },
+      "artists": [
+        {
+          "name": "Zazie",
+          "url": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249466,
+      "name": "Je suis un homme",
+      "url": "https://open.spotify.com/track/33X8PxVlOvREs4URnDj9Fw"
+    },
+    {
+      "album": {
+        "name": "Dis-Moi Que Tu M'Aimes",
+        "url": "https://open.spotify.com/album/281WLNgXRkHC4ppESTgmUH"
+      },
+      "artists": [
+        {
+          "name": "Chim\u00e8ne Badi",
+          "url": "https://open.spotify.com/artist/04kcokUKRXC8btCcOMLi8z"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246573,
+      "name": "Je viens du Sud",
+      "url": "https://open.spotify.com/track/3mUCcWgGsK1VtZ3Zebe6u1"
+    },
+    {
+      "album": {
         "name": "Les Dix Commandements (L'int\u00e9grale)",
         "url": "https://open.spotify.com/album/79qNGzwU1l9vh3nw6GeY8l"
       },
@@ -516,6 +664,28 @@
     },
     {
       "album": {
+        "name": "Le chemin",
+        "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
+      },
+      "artists": [
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        },
+        {
+          "name": "Sita",
+          "url": "https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210706,
+      "name": "Le chemin (feat. Sita)",
+      "url": "https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb"
+    },
+    {
+      "album": {
         "name": "L'Equilibre Instable",
         "url": "https://open.spotify.com/album/6eMCkS0r8atntN0rgg2i9G"
       },
@@ -527,7 +697,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 285840,
       "name": "Le Man\u00e8ge",
       "url": "https://open.spotify.com/track/6yOGumo25Hrr7IKDS75gm6"
@@ -570,6 +740,24 @@
     },
     {
       "album": {
+        "name": "Ailleurs Land",
+        "url": "https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg"
+      },
+      "artists": [
+        {
+          "name": "Florent Pagny",
+          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204546,
+      "name": "Ma libert\u00e9 de penser",
+      "url": "https://open.spotify.com/track/6zxJh3RIzm6Qk7HauhCg9j"
+    },
+    {
+      "album": {
         "name": "Un Jour D'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/6MFXFliONetu0nByEb7d4w"
       },
@@ -607,6 +795,24 @@
       "duration_ms": 230866,
       "name": "Manhattan-Kaboul",
       "url": "https://open.spotify.com/track/7eJdx83TiKsVqAzLFBelMO"
+    },
+    {
+      "album": {
+        "name": "A La Vie A La Mort",
+        "url": "https://open.spotify.com/album/4yrYIH9dGbP75771NBeRO6"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236013,
+      "name": "Marie",
+      "url": "https://open.spotify.com/track/0ITqkmf62Q0Izdyo3PkNeU"
     },
     {
       "album": {
@@ -661,6 +867,28 @@
       "duration_ms": 263066,
       "name": "Mon coeur, mon amour",
       "url": "https://open.spotify.com/track/0oWAz88alrwkNvnfaRokhn"
+    },
+    {
+      "album": {
+        "name": "L'instant d'apr\u00e8s",
+        "url": "https://open.spotify.com/album/3teDBI5npi3hDWJ8zyFdv9"
+      },
+      "artists": [
+        {
+          "name": "Natasha St-Pier",
+          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
+        },
+        {
+          "name": "Pascal Obispo",
+          "url": "https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217186,
+      "name": "Mourir demain",
+      "url": "https://open.spotify.com/track/0bdhH65xZdscxkATgDQlSS"
     },
     {
       "album": {
@@ -913,7 +1141,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 233520,
       "name": "Une \u00e9tincelle",
       "url": "https://open.spotify.com/track/5OBdN1F98YEtrRoW8YLYVu"

@@ -1,0 +1,45 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlIoeoZqkmB.md) - [plain](/playlists/plain/37i9dQZF1DWSlIoeoZqkmB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSlIoeoZqkmB)
+
+### [KING SUPER LIVE 2024](https://open.spotify.com/playlist/37i9dQZF1DWSlIoeoZqkmB)
+
+> 2024年5月11日\(土\)＆12日\(日\)Kアリーナ横浜にて開催される「<a href="https://kingsuperlive.jp/">KING SUPER LIVE2024</a>」公式プレイリスト予習編！
+
+[Spotify](https://open.spotify.com/user/spotify) - 314 likes - 33 songs - 2 hr 7 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [HELP](https://open.spotify.com/track/6qzigrdGbzParrcscn1707) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/15OxWt5Wd6QKRr3BM2SI1K) | 3:47 |
+| 2 | [Freestyle Lover](https://open.spotify.com/track/2QwawnZ9rdnGhXWd7jJDIx) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [DETONATOR](https://open.spotify.com/album/3Ii5xT9Sreevb2z0eun83F) | 3:44 |
+| 3 | [DREAMS](https://open.spotify.com/track/655tvyhcRmteX32HfJVAdz) | [Romantic Mode](https://open.spotify.com/artist/1HWjBMDxhQeelXKA2vdgbp) | [DREAMS](https://open.spotify.com/album/4EuIn0YldaIEf1I0iayIkg) | 5:01 |
+| 4 | [Shangri\-La](https://open.spotify.com/track/3VZ0k11FSxi9F3oFQFqLzX) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [Shangri\-La](https://open.spotify.com/album/350pChVMUzzfEDdL5aI49T) | 4:40 |
+| 5 | [KING SUPER LIVE 2024　上坂すみれ　スペシャルメッセージ！](https://open.spotify.com/track/6ZH3jvPVWYaHbOjvktgAHd) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [KING SUPER LIVE 2024　上坂すみれ　スペシャルメッセージ！](https://open.spotify.com/album/6ohloGRvV04uCVVUOl2SsT) | 2:00 |
+| 6 | [ディア・パンタレイ](https://open.spotify.com/track/4nMTH2T9Cj4jxLCF8fLigp) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ディア・パンタレイ](https://open.spotify.com/album/3OnnSAL9s1IWt1vR622lyI) | 4:12 |
+| 7 | [NEW WORLD](https://open.spotify.com/track/2ckIDrwTftjPS4dXQjsQAv) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [NEW WORLD](https://open.spotify.com/album/7lCfkZLpoX85YOHPPGn7jD) | 3:40 |
+| 8 | [KING SUPER LIVE 2024　岡咲美保　スペシャルメッセージ！](https://open.spotify.com/track/6yhp16YyJM29qB2pAd3l5D) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [KING SUPER LIVE 2024　岡咲美保　スペシャルメッセージ！](https://open.spotify.com/album/2QoH3GwM1uNDyQUNxbW2ek) | 1:21 |
+| 9 | [ココロトラベル](https://open.spotify.com/track/0DOVx6G53HGJ1ZduLJUxg0) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [ココロトラベル](https://open.spotify.com/album/6BQDmo7rsb56PwwL44Yi4f) | 3:52 |
+| 10 | [輪舞\-revolution](https://open.spotify.com/track/0d4grsiGaNCE15qaFm5Tpy) | [奥井雅美](https://open.spotify.com/artist/4Ii7UojF0YlO2h2dIhdWfU) | [S\-mode \#2](https://open.spotify.com/album/4uFzIM8eYTxeCkdhMkYB3b) | 4:34 |
+| 11 | [Queen of the Night](https://open.spotify.com/track/4avbvMrNBS6mMJGrt050Y4) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [Queen of the Night](https://open.spotify.com/album/3bM4qVQcegyRF5U49sEUUr) | 4:13 |
+| 12 | [KING SUPER LIVE 2024　國府田マリ子　スペシャルメッセージ！](https://open.spotify.com/track/4ZP2mwPDygfGOTH7SbKaEj) | [國府田マリ子](https://open.spotify.com/artist/2zWZbDh3WpGrALfJb5CgSj) | [KING SUPER LIVE 2024　國府田マリ子　スペシャルメッセージ！](https://open.spotify.com/album/07oyIof8rWRNZIAVIEhFUl) | 2:09 |
+| 13 | [Horizon 2003](https://open.spotify.com/track/0d8Eg72yZBf7ojJ26QbkrK) | [國府田マリ子](https://open.spotify.com/artist/2zWZbDh3WpGrALfJb5CgSj) | [My Best Friend 3](https://open.spotify.com/album/2LfcYSsLK1nY31TQd3vAr6) | 5:22 |
+| 14 | [KING SUPER LIVE 2024　saji　スペシャルメッセージ！](https://open.spotify.com/track/64ykUkmZKMkuxVSGrk1Go5) | [saji](https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC) | [KING SUPER LIVE 2024　saji　スペシャルメッセージ！](https://open.spotify.com/album/2dDolzmSxaMtxXf7t8Vd6p) | 2:19 |
+| 15 | [スターチス](https://open.spotify.com/track/3WpkBKPICz2m3cxZaaVA19) | [saji](https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC) | [スターチス](https://open.spotify.com/album/398wuzoQbshuwpTcTQdZSC) | 4:03 |
+| 16 | [青空Highway](https://open.spotify.com/track/2ELOqozx7EXc3SRlu9THyH) | [Hekiru Shiina](https://open.spotify.com/artist/7wdWFcZE7UepLMw3sQV33S) | [青空Highway](https://open.spotify.com/album/2iuEZqAMiBr1Jt8kA76dAi) | 4:33 |
+| 17 | [めちゃめちゃカリスマ](https://open.spotify.com/track/1kAwmKNg88OPOyx9C4fxdq) | [七人のカリスマ](https://open.spotify.com/artist/7x8dSDNiUU6XRwJGRIrZDz), [カリスマ](https://open.spotify.com/artist/68k1h6racwqpRSnc29J4RM) | [めちゃめちゃカリスマ](https://open.spotify.com/album/3yZ5DwmRwcZQzOxaaNgdUt) | 5:52 |
+| 18 | [人なんだ](https://open.spotify.com/track/6CZzcCnBPSNIHKb1c29lB4) | [Suara](https://open.spotify.com/artist/4gaoQ5e8RCOVswub7zcfoV) | [人なんだ](https://open.spotify.com/album/0nKpIhPmduqYZ5e6o7pr0q) | 4:55 |
+| 19 | [残酷な天使のテーゼ](https://open.spotify.com/track/23phSRwoMy48rwFpmuAP8q) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/魂のルフラン](https://open.spotify.com/album/0NxmNaFH5fLLTxxfS6Vp0K) | 4:07 |
+| 20 | [Endless Story](https://open.spotify.com/track/0B6veGzy6V963S3if0GSRu) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [Endless Story](https://open.spotify.com/album/588Kj4NiJvr3hICx3y0YDd) | 3:45 |
+| 21 | [Blessing](https://open.spotify.com/track/06Ib3ZdvO0VyAZMdq0qpaw) | [千葉翔也](https://open.spotify.com/artist/4K9KcKXSLwOVO44wHuxML1) | [Blessing](https://open.spotify.com/album/2fg7Y4nRH7bTtqO9wSOMJm) | 4:19 |
+| 22 | [KING SUPER LIVE 2024　七海ひろき　スペシャルメッセージ！](https://open.spotify.com/track/3XDbsRh15QQZMZTSYxnUYH) | [Hiroki Nanami](https://open.spotify.com/artist/1NHRqPGPH0rhraHYVzzgP9) | [KING SUPER LIVE 2024　七海ひろき　スペシャルメッセージ！](https://open.spotify.com/album/6FyJpzhHwz4o9ppoS4kNtR) | 1:28 |
+| 23 | [It's My Soul](https://open.spotify.com/track/6DBJ85yCuh5oP6RIGbogaR) | [Hiroki Nanami](https://open.spotify.com/artist/1NHRqPGPH0rhraHYVzzgP9) | [It's My Soul](https://open.spotify.com/album/5Jc3k5zbt7RDBYLneXlF6N) | 3:47 |
+| 24 | [bi\-dama](https://open.spotify.com/track/6jYimcDQCoeWPZT7YW1u2W) | [HACHI](https://open.spotify.com/artist/2ksMoRs5T9ErEe5H7gxv7C) | [Close to heart](https://open.spotify.com/album/4GKdTchAb3il8S28ibi9Xt) | 3:27 |
+| 25 | [Star journey](https://open.spotify.com/track/6XTNGv94BmeVT3oC3lHDaZ) | [Soichiro Hoshi](https://open.spotify.com/artist/4KKSGgsZUtRJYVeOByk1JQ) | [Restart journey](https://open.spotify.com/album/0ThMbDG2Jg777dJafSmIN3) | 5:02 |
+| 26 | [秘密の庭のふたり](https://open.spotify.com/track/0drkpiibrRIpUc5tSubX2J) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [秘密の庭のふたり](https://open.spotify.com/album/3pVwRnFsKMjOwkpAWddA54) | 4:05 |
+| 27 | [Turn the World](https://open.spotify.com/track/1tZDf3bRkGIWYWz5Vme7uW) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Turn the World](https://open.spotify.com/album/14urutw4gdRPSWG2J40X5F) | 4:03 |
+| 28 | [スクラップアート](https://open.spotify.com/track/4aH955P1E3svLs4NPNAewA) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [スクラップアート](https://open.spotify.com/album/42jpClLjVy7znnAmzNUJfI) | 3:33 |
+| 29 | [LAST DANCE](https://open.spotify.com/track/1vixbHotMIpTHSeUyMwvxu) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [LAST DANCE](https://open.spotify.com/album/1FHQUEsJ5mUHT2pMmecvkN) | 3:45 |
+| 30 | [ETERNAL WIND\~Hohoemi wa Hikaru\-Kaze no Naka\~](https://open.spotify.com/track/3NKoasBeBI1XBlau8zr8bD) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL WIND\~Hohoemi wa Hikaru\-Kaze no Naka\~](https://open.spotify.com/album/6c5jjGBbSPmrTVIL6nHdbH) | 4:45 |
+| 31 | [嵐の中で輝いて](https://open.spotify.com/track/7wNP6adsYPuAfE6kpVrCP9) | [Chihiro Yonekura](https://open.spotify.com/artist/4vhezQRmmI48a5uigqV180) | [25 YEARS AFTER ～All Time Best～](https://open.spotify.com/album/2rLAVu5MHjRFXR3pWzzC3S) | 4:16 |
+| 32 | [KING SUPER LIVE 2024　RISE（Extreme Hearts）葉山陽和役・野口瑠璃子　スペシャルメッセージ！](https://open.spotify.com/track/6PXtQia2OqJtH2H9N03YG1) | [RISE（Extreme Hearts）葉山陽和役　野口瑠璃子](https://open.spotify.com/artist/6hhlKgWCQeLPXZgcdvQ6Bi) | [KING SUPER LIVE 2024　RISE（Extreme Hearts）葉山陽和役・野口瑠璃子　スペシャルメッセージ！](https://open.spotify.com/album/3xeWasd9ESalVLqht4r1L0) | 1:43 |
+| 33 | [SUNRISE\(ver.RISE\)](https://open.spotify.com/track/1W9CD10txny7JOhZoyrUJ3) | [RISE\(葉山陽和\(CV.野口瑠璃子\)](https://open.spotify.com/artist/6VJ01ToSd28Lr9NcsdP0dU), [小鷹咲希\(CV.岡咲美保\)](https://open.spotify.com/artist/6V2ZGs5KhUWjl6d1aAYDde), [前原純華\(CV.優木かな\)](https://open.spotify.com/artist/5BWX5JNIdKaCXuiHDH1l8b), [橘 雪乃\(CV.福原綾香\)](https://open.spotify.com/artist/5cvEB9jDl8ILH5GKPefBwX), [小日向理瀬\(CV.小澤亜李\)\)](https://open.spotify.com/artist/7yRuqeYigTvl5ejYnYZSSn) | [SUNRISE\(ver.RISE\)](https://open.spotify.com/album/7KXacsct0862UliD8sOIPl) | 4:56 |
+
+Snapshot ID: `MCw4OWZlYjk0ZjNjMmY5NmVmNzU0MTdlMmE0OTIyZTlmYmQzMzY2M2Fj`

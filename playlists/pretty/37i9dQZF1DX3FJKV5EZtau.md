@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 
 > Electronic tunes for your virtual world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,750 likes - 125 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,786 likes - 125 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 | 124 | [When Everything is Grey](https://open.spotify.com/track/3h4gssEEpQZxfT9SKF9wD0) | [Jaron](https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq) | [it's hard to see color \[When You're So Impossibly Far Away\*\]](https://open.spotify.com/album/1pqyO49hbBxbec1jMA5f0c) | 3:25 |
 | 125 | [I Tried It](https://open.spotify.com/track/1aT90LrFdM4Nmosb0PxhhU) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc) | [I Tried It](https://open.spotify.com/album/78pdflobgQ0fKGzTeAJ0m3) | 3:33 |
 
-Snapshot ID: `MCwyNTRmMWI0N2ZlYmViOThiMTk3MDdlMWIxZDY3ZWJjZDVlMzM5OGI5`
+Snapshot ID: `MCxiMWEwODYwMWFhYTRhNzUwYmY2OWM1MmQ4ODY2ZjUxYzk2MGIyOTJk`

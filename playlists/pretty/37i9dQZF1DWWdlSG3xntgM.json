@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 35345,
+  "num_followers": 35340,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjMxMTNjNDM5ODNlMWQ4MjhiNmZjZDNiOTk4YzlmYWUwYmZjYjdh",
+  "snapshot_id": "MCxiMzVhYmY2NDA4NTI2YmJhODYyYTg1ZjgzYWZkNmQwOTQ1YjU1OTAw",
   "tracks": [
     {
       "added_at": "2024-01-30 03:49:10",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-01-30 03:49:10",
       "album": {
+        "name": "Xu\u00e2n \u0110i L\u1ec5 Ch\u00f9a",
+        "url": "https://open.spotify.com/album/18i2NFATMQPG1f09I2eAwc"
+      },
+      "artists": [
+        {
+          "name": "Duy Khanh",
+          "url": "https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O"
+        }
+      ],
+      "duration_ms": 297800,
+      "name": "Th\u01b0 Xu\u00e2n Tr\u00ean R\u1eebng Cao",
+      "url": "https://open.spotify.com/track/31ucOkV1kym9k9lRXMhZ0d"
+    },
+    {
+      "added_at": "2024-01-30 03:49:10",
+      "album": {
         "name": "Li\u00ean Kh\u00fac \u0110\u00eam Bu\u1ed3n T\u1ec9nh L\u1ebb, Nh\u1eefng \u0110\u1ed3i Hoa Sim (Asia 283)",
         "url": "https://open.spotify.com/album/3dA8DbhPvOiIIgKgGDZXVP"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 286440,
       "name": "Gi\u1ecdt bu\u1ed3n kh\u00f4ng t\u00ean",
       "url": "https://open.spotify.com/track/6fvfC6QXhLput4cLYtxz6n"
-    },
-    {
-      "added_at": "2024-01-30 03:49:10",
-      "album": {
-        "name": "Xu\u00e2n \u0110i L\u1ec5 Ch\u00f9a",
-        "url": "https://open.spotify.com/album/18i2NFATMQPG1f09I2eAwc"
-      },
-      "artists": [
-        {
-          "name": "Duy Khanh",
-          "url": "https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O"
-        }
-      ],
-      "duration_ms": 297800,
-      "name": "Th\u01b0 Xu\u00e2n Tr\u00ean R\u1eebng Cao",
-      "url": "https://open.spotify.com/track/31ucOkV1kym9k9lRXMhZ0d"
     },
     {
       "added_at": "2024-01-30 03:49:10",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-01-30 03:49:10",
       "album": {
-        "name": "Ai Nh\u1edb Ch\u0103ng Ai",
-        "url": "https://open.spotify.com/album/6ejaYB328yZGYlnvJzdM9B"
+        "name": "S\u1ea7u L\u1ebb B\u00f3ng (Asia 023)",
+        "url": "https://open.spotify.com/album/6hey39MLiZZbXYk8e9HbeO"
       },
       "artists": [
         {
-          "name": "Ho\u00e0ng Oanh",
-          "url": "https://open.spotify.com/artist/2ztKQFCq6NdVbjWLq33H7o"
+          "name": "T\u00e2m \u0110oan",
+          "url": "https://open.spotify.com/artist/009DchB833vqAeN8v5zE4O"
         }
       ],
-      "duration_ms": 295253,
-      "name": "Chi\u1ec1u T\u00e2y \u0110\u00f4",
-      "url": "https://open.spotify.com/track/4AI14CynUc9CGne8oRbdCi"
+      "duration_ms": 247360,
+      "name": "Xin g\u1ecdi nhau l\u00e0 c\u1ed1 nh\u00e2n",
+      "url": "https://open.spotify.com/track/1PZ8lS5NZC3e6J1grnzfJG"
     },
     {
       "added_at": "2024-01-30 03:49:10",
@@ -779,18 +779,18 @@
     {
       "added_at": "2024-01-30 03:49:10",
       "album": {
-        "name": "S\u1ea7u L\u1ebb B\u00f3ng (Asia 023)",
-        "url": "https://open.spotify.com/album/6hey39MLiZZbXYk8e9HbeO"
+        "name": "Ai Nh\u1edb Ch\u0103ng Ai",
+        "url": "https://open.spotify.com/album/6ejaYB328yZGYlnvJzdM9B"
       },
       "artists": [
         {
-          "name": "T\u00e2m \u0110oan",
-          "url": "https://open.spotify.com/artist/009DchB833vqAeN8v5zE4O"
+          "name": "Ho\u00e0ng Oanh",
+          "url": "https://open.spotify.com/artist/2ztKQFCq6NdVbjWLq33H7o"
         }
       ],
-      "duration_ms": 247360,
-      "name": "Xin g\u1ecdi nhau l\u00e0 c\u1ed1 nh\u00e2n",
-      "url": "https://open.spotify.com/track/1PZ8lS5NZC3e6J1grnzfJG"
+      "duration_ms": 295253,
+      "name": "Chi\u1ec1u T\u00e2y \u0110\u00f4",
+      "url": "https://open.spotify.com/track/4AI14CynUc9CGne8oRbdCi"
     },
     {
       "added_at": "2024-01-30 03:49:10",

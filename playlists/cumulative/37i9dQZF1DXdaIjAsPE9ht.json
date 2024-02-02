@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Garden Suitcase",
+        "url": "https://open.spotify.com/album/7xMTf3XHD0bDYg0qAybTry"
+      },
+      "artists": [
+        {
+          "name": "hello low",
+          "url": "https://open.spotify.com/artist/0rw0XSu4ERGOxViqqBfclo"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151898,
+      "name": "Garden Suitcase",
+      "url": "https://open.spotify.com/track/7M7F46ZhsjjQrat1xsSBnZ"
+    },
+    {
+      "album": {
         "name": "gentle breath",
         "url": "https://open.spotify.com/album/0K8gBog3uUZS4Ynv3qU9ER"
       },

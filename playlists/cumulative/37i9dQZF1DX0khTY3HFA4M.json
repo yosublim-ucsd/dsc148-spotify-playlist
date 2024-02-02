@@ -8065,6 +8065,24 @@
     },
     {
       "album": {
+        "name": "Papa Knows Best",
+        "url": "https://open.spotify.com/album/3aSXNNj8XoYJZ5tOPPsH2w"
+      },
+      "artists": [
+        {
+          "name": "London Lighthouse",
+          "url": "https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132371,
+      "name": "Papa Knows Best",
+      "url": "https://open.spotify.com/track/2TLIc551287wxILT6GOeou"
+    },
+    {
+      "album": {
         "name": "Paper Plane",
         "url": "https://open.spotify.com/album/4MAjQfYWQYYzkFaVrt7jGD"
       },
@@ -8626,6 +8644,24 @@
       "duration_ms": 114146,
       "name": "Portra",
       "url": "https://open.spotify.com/track/0w2DwiZ8BEdqNoxZgoCIAS"
+    },
+    {
+      "album": {
+        "name": "poseidon",
+        "url": "https://open.spotify.com/album/63BcmPVShgWasXts8qMikS"
+      },
+      "artists": [
+        {
+          "name": "low&slow",
+          "url": "https://open.spotify.com/artist/5nRIouNA5T37sVSDEjbhAL"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121751,
+      "name": "poseidon",
+      "url": "https://open.spotify.com/track/6MpZRAlMbG1PvjuMNtzp9t"
     },
     {
       "album": {
@@ -11726,7 +11762,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 158918,
       "name": "Treetop Sailing",
       "url": "https://open.spotify.com/track/6FuMCYsA26hstQJohldRQa"
@@ -12843,6 +12879,24 @@
     },
     {
       "album": {
+        "name": "wicked",
+        "url": "https://open.spotify.com/album/08xWG2vUxhVXsjPFo9yajA"
+      },
+      "artists": [
+        {
+          "name": "LVTA",
+          "url": "https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146852,
+      "name": "wicked",
+      "url": "https://open.spotify.com/track/0Li6Y0Noq9THd4sTR7e5wq"
+    },
+    {
+      "album": {
         "name": "Windmills",
         "url": "https://open.spotify.com/album/5r14wdtlT9PPWfuE34Y3Rl"
       },
@@ -12960,6 +13014,24 @@
       "duration_ms": 143414,
       "name": "Wonderful Things",
       "url": "https://open.spotify.com/track/5AwHynTdA6YsnjbPvsw6P2"
+    },
+    {
+      "album": {
+        "name": "wondering why",
+        "url": "https://open.spotify.com/album/2hay8mrICqXjK0ZOps3bjC"
+      },
+      "artists": [
+        {
+          "name": "Harry G's Beats",
+          "url": "https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "wondering why",
+      "url": "https://open.spotify.com/track/1vbi7y9KK9tfOKNP5pmc2Q"
     },
     {
       "album": {

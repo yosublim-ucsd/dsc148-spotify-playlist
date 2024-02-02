@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 386880,
+  "2024-02-02": 386871,
   "date_first_scraped": "2022-12-10",
   "description": "Tune in, bliss out",
   "name": "Just Chill",
@@ -435,6 +435,28 @@
       "duration_ms": 207657,
       "name": "Begin Again - Gordi Remix",
       "url": "https://open.spotify.com/track/6iOfH4VV2jsg65J3EMnIgJ"
+    },
+    {
+      "album": {
+        "name": "Beth",
+        "url": "https://open.spotify.com/album/2jE8qn88oYgqh63C1UAtJ9"
+      },
+      "artists": [
+        {
+          "name": "Nikko Mad",
+          "url": "https://open.spotify.com/artist/29c8c8UVfvvDTkco0Ndw4y"
+        },
+        {
+          "name": "No.oN",
+          "url": "https://open.spotify.com/artist/0qMl6zkAQhTdHzzFA31ZZK"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115847,
+      "name": "Beth",
+      "url": "https://open.spotify.com/track/4coIsInDg3uwBC3zUQhnsE"
     },
     {
       "album": {
@@ -1617,7 +1639,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 168888,
       "name": "Inhale / Exhale (with Sabrina Claudio)",
       "url": "https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu"

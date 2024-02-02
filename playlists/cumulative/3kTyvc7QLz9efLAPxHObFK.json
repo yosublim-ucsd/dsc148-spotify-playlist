@@ -2277,6 +2277,24 @@
     },
     {
       "album": {
+        "name": "Blood Eagle",
+        "url": "https://open.spotify.com/album/6BA5hHKXDDOWN9TjRG3SHb"
+      },
+      "artists": [
+        {
+          "name": "Hellsystem",
+          "url": "https://open.spotify.com/artist/53EHsN2X6QI9xsmunKAW85"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183253,
+      "name": "Blood Eagle",
+      "url": "https://open.spotify.com/track/4lTu5wQWPC0cCpPivfcBkK"
+    },
+    {
+      "album": {
         "name": "Bloody",
         "url": "https://open.spotify.com/album/5WUQvmZfhYwI8FozzavIps"
       },
@@ -6878,6 +6896,28 @@
       "duration_ms": 317509,
       "name": "Feel My NRG",
       "url": "https://open.spotify.com/track/06G0yb518lZckPJjENRcGJ"
+    },
+    {
+      "album": {
+        "name": "Feel So Good (Creeds Remix)",
+        "url": "https://open.spotify.com/album/7wt9VdVP81lPQVPq2Zp58f"
+      },
+      "artists": [
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        },
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237003,
+      "name": "Feel So Good - Creeds Remix",
+      "url": "https://open.spotify.com/track/5e5LDEFKg598LsLDRkBo6Y"
     },
     {
       "album": {
@@ -22394,6 +22434,24 @@
       "duration_ms": 207157,
       "name": "Welcome To My Nightmare",
       "url": "https://open.spotify.com/track/7mXYCi1wA8n8zBN0ud211g"
+    },
+    {
+      "album": {
+        "name": "Westside",
+        "url": "https://open.spotify.com/album/601lFz5JptWCs9OB961FSm"
+      },
+      "artists": [
+        {
+          "name": "Adrenalize",
+          "url": "https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229161,
+      "name": "Westside",
+      "url": "https://open.spotify.com/track/6d2NGzytPyVKTZecDPKs93"
     },
     {
       "album": {

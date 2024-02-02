@@ -1,7 +1,7 @@
 {
-  "2024-02-01": 204879,
+  "2024-02-02": 204932,
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music by independent artists and labels. Cover: Haven Madison. Artwork by Paola Saliby",
+  "description": "The best new pop music by independent artists and labels. Cover: Lillian Hepler. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -919,6 +919,24 @@
       "duration_ms": 201378,
       "name": "52 blue mondays",
       "url": "https://open.spotify.com/track/4cVoqkEYVI9j1lz3NWX4Fs"
+    },
+    {
+      "album": {
+        "name": "5555",
+        "url": "https://open.spotify.com/album/5BGpC1K1Edhh4X3X8KGUpL"
+      },
+      "artists": [
+        {
+          "name": "..villa?",
+          "url": "https://open.spotify.com/artist/4GNV4dCNqiSvw6sCzSa5nR"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195771,
+      "name": "5555",
+      "url": "https://open.spotify.com/track/1s2J8T4R7McYkfOXgjQP1q"
     },
     {
       "album": {
@@ -2341,6 +2359,24 @@
       "duration_ms": 166046,
       "name": "All the Things You'd Ruin",
       "url": "https://open.spotify.com/track/6vK9lXoSYSSeorpAtpXMPW"
+    },
+    {
+      "album": {
+        "name": "All Time Low",
+        "url": "https://open.spotify.com/album/7HRuKjnuAyJOtGB9fELdVc"
+      },
+      "artists": [
+        {
+          "name": "Aria Lisslo",
+          "url": "https://open.spotify.com/artist/4HxxoSZ3v9gHeaLJZFhMBl"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "All Time Low",
+      "url": "https://open.spotify.com/track/3w03xQK7wqiNBWu0T6h800"
     },
     {
       "album": {
@@ -8620,6 +8656,24 @@
     },
     {
       "album": {
+        "name": "Call Me Yours",
+        "url": "https://open.spotify.com/album/3BPC42nOK14EoviiHP71Wg"
+      },
+      "artists": [
+        {
+          "name": "Lillian Hepler",
+          "url": "https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151829,
+      "name": "Call Me Yours",
+      "url": "https://open.spotify.com/track/3BZrc6J8hFLzl2qX6l7NZN"
+    },
+    {
+      "album": {
         "name": "Call My Own",
         "url": "https://open.spotify.com/album/6fKaC3BsUu5DeKzcvrg7ko"
       },
@@ -12949,7 +13003,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 173346,
       "name": "Denver",
       "url": "https://open.spotify.com/track/17lzfz6X01zjK7gt07o3PR"
@@ -15214,6 +15268,24 @@
     },
     {
       "album": {
+        "name": "eat me alive",
+        "url": "https://open.spotify.com/album/5hbB0FUNpayoGS3vRaMdnF"
+      },
+      "artists": [
+        {
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159946,
+      "name": "eat me alive",
+      "url": "https://open.spotify.com/track/6AYNmsHwCWmfYrniipNAWe"
+    },
+    {
+      "album": {
         "name": "Ed's House",
         "url": "https://open.spotify.com/album/7LFAoepbs9rlvCjstnK1G5"
       },
@@ -15265,6 +15337,24 @@
       "duration_ms": 219172,
       "name": "Edelweiss",
       "url": "https://open.spotify.com/track/1yxmTIHYOl1aKJaJ5dfQ7t"
+    },
+    {
+      "album": {
+        "name": "Ego Rush",
+        "url": "https://open.spotify.com/album/6PUUdGSQCZs1bu30g5fUac"
+      },
+      "artists": [
+        {
+          "name": "evi",
+          "url": "https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159806,
+      "name": "Ego Rush",
+      "url": "https://open.spotify.com/track/5405yu0tbDmDA1iSJNbrta"
     },
     {
       "album": {
@@ -16211,6 +16301,28 @@
       "duration_ms": 115401,
       "name": "everything sucks",
       "url": "https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK"
+    },
+    {
+      "album": {
+        "name": "Everything's Fine",
+        "url": "https://open.spotify.com/album/0JLQ10nHxkzRODNL6Kmmdv"
+      },
+      "artists": [
+        {
+          "name": "NOEL",
+          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
+        },
+        {
+          "name": "Tessa Odden",
+          "url": "https://open.spotify.com/artist/5fWn9g8ERHtGKWdkAuomBx"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196045,
+      "name": "Everything's Fine",
+      "url": "https://open.spotify.com/track/1vvRNNSTZ9XuTBFqHY0eDu"
     },
     {
       "album": {
@@ -26992,6 +27104,24 @@
     },
     {
       "album": {
+        "name": "If I Can't Have Love (God Then Please Just Give Me Money)",
+        "url": "https://open.spotify.com/album/0CuQfxslUlVjEPzqmBGAoS"
+      },
+      "artists": [
+        {
+          "name": "Bambina",
+          "url": "https://open.spotify.com/artist/7dKQ4jc9y35k3P5dKWsLL1"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210051,
+      "name": "If I Can't Have Love (God Then Please Just Give Me Money)",
+      "url": "https://open.spotify.com/track/0ewuee005YK77HvpRBcfcZ"
+    },
+    {
+      "album": {
         "name": "Where It Goes from Here",
         "url": "https://open.spotify.com/album/3ZCThraJoc53sC1SVEpMIt"
       },
@@ -27061,6 +27191,24 @@
       "duration_ms": 189913,
       "name": "If I Know Myself",
       "url": "https://open.spotify.com/track/1pIhP5U0CM2qcaKJpdGM3n"
+    },
+    {
+      "album": {
+        "name": "If It's Alright",
+        "url": "https://open.spotify.com/album/46jsJCD0dUeYhgHNUKrjJv"
+      },
+      "artists": [
+        {
+          "name": "Emerson Azarian",
+          "url": "https://open.spotify.com/artist/1jyynbj6tIl5gwyqIjAp1j"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114561,
+      "name": "If It's Alright",
+      "url": "https://open.spotify.com/track/4Gad4v9Cfv6HtU7xwk6b4F"
     },
     {
       "album": {
@@ -34747,6 +34895,24 @@
       "duration_ms": 153473,
       "name": "Mine",
       "url": "https://open.spotify.com/track/62f6K4BIhmaQEti3Sc6ouK"
+    },
+    {
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/61brdiy3qEnUfbWWALxipD"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161188,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/1K4W4T2b5mTzvmrVzVa7yH"
     },
     {
       "album": {
@@ -46800,6 +46966,24 @@
     },
     {
       "album": {
+        "name": "Sippin'",
+        "url": "https://open.spotify.com/album/3uazNdJqM7eWTrnjl8YhOd"
+      },
+      "artists": [
+        {
+          "name": "Tohsca",
+          "url": "https://open.spotify.com/artist/6Fwf8BxpZpyyUXpQV1xRL8"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179870,
+      "name": "Sippin'",
+      "url": "https://open.spotify.com/track/5kTFaEuTd6eNUPktiSDm1k"
+    },
+    {
+      "album": {
         "name": "Sirens",
         "url": "https://open.spotify.com/album/1Ra1SQiUJptTiQOdQ9Bl94"
       },
@@ -57011,6 +57195,24 @@
       "duration_ms": 166500,
       "name": "Watch Me Stand Out",
       "url": "https://open.spotify.com/track/0y10Vb0edPNHpZpSNbjsor"
+    },
+    {
+      "album": {
+        "name": "Water Worship Pray",
+        "url": "https://open.spotify.com/album/6IEFi4N1Ge92j1kCFZxXeo"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191016,
+      "name": "Water Worship Pray",
+      "url": "https://open.spotify.com/track/2EMa8oOv6HvRRErdtXrp3I"
     },
     {
       "album": {

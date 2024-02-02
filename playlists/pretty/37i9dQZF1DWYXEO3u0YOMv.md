@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,014 likes - 128 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,125 likes - 128 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 57 | [Welcome トゥ 混沌](https://open.spotify.com/track/5WFyER9XL7zcDkaj7CuYmv) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「ドロヘドロ」オープニングテーマ「Welcome トゥ 混沌」](https://open.spotify.com/album/4W2lpGvGvMmH7KLWofv4gf) | 3:38 |
 | 58 | [蒼](https://open.spotify.com/track/3zA25wyjvkZiGulyLMpDJx) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [adieu 1](https://open.spotify.com/album/0dszU2aJFWMMFrslTyhZkt) | 3:15 |
 | 59 | [Stay With Me](https://open.spotify.com/track/1PDVm6rKyLr4wsajScEoip) | [Seven Billion Dots](https://open.spotify.com/artist/15q0tk3egz6qJQAzRpMbMl) | [HOPE](https://open.spotify.com/album/1V7imbavVbdl9137lsY5v4) | 4:42 |
-| 60 | [HHOOWWLL](https://open.spotify.com/track/4RCqYqtn5WTmb2J5SfWp91) | [Gero×ARAKI](https://open.spotify.com/artist/3ZgB12rTRvnMVnoi9byaEB) | [HHOOWWLL](https://open.spotify.com/album/5ELxBrDn6T7zqxiifb1X4V) | 4:05 |
+| 60 | [HHOOWWLL](https://open.spotify.com/track/6GIg2usZhIVmRx9VeNS8YV) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK), [Araki](https://open.spotify.com/artist/09ONFXQOVjyy3AhFlBsZx8) | [HHOOWWLL](https://open.spotify.com/album/5iBBLdfvYDytrlaRUXQLVC) | 4:05 |
 | 61 | [Sacrifice](https://open.spotify.com/track/73edp4NGGZZJgrtt6qxlHT) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [Kagurairo Artifact](https://open.spotify.com/album/3BpVEPWTPrxBXREO0uxHVC) | 4:14 |
 | 62 | [スタンドバイミー](https://open.spotify.com/track/053ydqZPlzfOkFsRmY8SNL) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [スタンドバイミー](https://open.spotify.com/album/6vU96iKokwWo07rK08BoNm) | 4:37 |
 | 63 | [まっさら](https://open.spotify.com/track/3ZlbFeHjcbZOX43v4peFWZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [まっさら](https://open.spotify.com/album/4hBvsx4tu4hXaYTXveupAp) | 4:54 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 127 | [坂道のメロディ](https://open.spotify.com/track/65XW0J9tP56gJrPLdXgJpv) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [すてきな15才](https://open.spotify.com/album/2600J4K01OUJMqyn4S87ca) | 4:44 |
 | 128 | [ばかじゃないのに](https://open.spotify.com/track/2UkcZV07LP39NQg9tGBvnh) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ばかじゃないのに](https://open.spotify.com/album/6XY8TrEZf0R3xnm6kouGzT) | 4:16 |
 
-Snapshot ID: `MCxjZjhhNTA2ZDMwNWEzYzcwZjMyYTkwM2VkYzJiMmM2NTZlMTE5NDc3`
+Snapshot ID: `MCwxM2MyNTNiMWYwNjAyZmY3ODkyZDY2NWIxZDNmMTY3ZWZjZDRiZjIz`

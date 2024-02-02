@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/5cvyX1YB1KWzgF0ZIsQPLJ"
+      },
+      "artists": [
+        {
+          "name": "Saginaw Society",
+          "url": "https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267690,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/5qHNehosAT9As6OnEfjtR2"
+    },
+    {
+      "album": {
         "name": "Anse Source d'Argent",
         "url": "https://open.spotify.com/album/78HJ40CFyeOvdOhGy9LItG"
       },
@@ -1438,7 +1456,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 277360,
       "name": "Fall Song",
       "url": "https://open.spotify.com/track/07SatuQJo7AH6eHZQxpFp2"
@@ -2436,6 +2454,24 @@
       "duration_ms": 263063,
       "name": "Kogarashi",
       "url": "https://open.spotify.com/track/358BhQYtag5CMI3vx58ZKz"
+    },
+    {
+      "album": {
+        "name": "La Balade Bleu",
+        "url": "https://open.spotify.com/album/6XFrb3dkvb3mVhtI5XP9LG"
+      },
+      "artists": [
+        {
+          "name": "Belmont Central",
+          "url": "https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182738,
+      "name": "La Balade Bleu",
+      "url": "https://open.spotify.com/track/4kFHtdSchgDFLKAnV3n2KX"
     },
     {
       "album": {
@@ -4696,6 +4732,24 @@
       "duration_ms": 178640,
       "name": "Weary Whispers",
       "url": "https://open.spotify.com/track/3OiYzoixJ1b73KWVxgR6M2"
+    },
+    {
+      "album": {
+        "name": "West of The Moon",
+        "url": "https://open.spotify.com/album/2fcCGjD9Hbz4bZkwT9JvDB"
+      },
+      "artists": [
+        {
+          "name": "The City of Birches",
+          "url": "https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243720,
+      "name": "West of The Moon",
+      "url": "https://open.spotify.com/track/6PV20PKac87lYw10G9nZtC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-468 songs - 1 day 3 hr 55 min
+469 songs - 1 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Good Now \(Remix\) \(feat\. Wande\)](https://open.spotify.com/track/7lgSu9ocppDwVDOvr8L4cJ) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Good Now \(Remix\) \(feat\. Wande\)](https://open.spotify.com/album/0unGJPuRmYzRbkg43p79Pt) | 3:15 | 2022-02-19 | 2022-06-26 |
 | [GOOD TO ME](https://open.spotify.com/track/7neWN16iIGrzHsL2xa2plW) | [nathan huang](https://open.spotify.com/artist/4dzy2MaxMOZwVTWXXq3JAL), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [GOOD TO ME](https://open.spotify.com/album/3Cfnat6JaNYV3ol0qOzzek) | 3:27 | 2023-01-20 |  |
 | [Goodness and Mercy](https://open.spotify.com/track/5lnh7ZU2YS7MqFB8FH2IOB) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Quiet Time](https://open.spotify.com/album/17PlNaHTRnxmYLS4l6lU9G) | 3:08 | 2022-02-27 | 2022-06-16 |
-| [Goodness Gracious](https://open.spotify.com/track/11Mr0wJ9DcX1QyEdMZC8ei) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t), [Keelah Chase](https://open.spotify.com/artist/0m9wRtULtrl8kWvHQcupJE) | [Goodness Gracious](https://open.spotify.com/album/6Su3gT1IwNyHu05WxqIjJE) | 3:45 | 2024-01-12 |  |
+| [Goodness Gracious](https://open.spotify.com/track/11Mr0wJ9DcX1QyEdMZC8ei) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t), [Keelah Chase](https://open.spotify.com/artist/0m9wRtULtrl8kWvHQcupJE) | [Goodness Gracious](https://open.spotify.com/album/6Su3gT1IwNyHu05WxqIjJE) | 3:45 | 2024-01-12 | 2024-02-02 |
 | [Gotta Be God](https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Gotta Be God](https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv) | 2:48 | 2022-07-08 | 2024-01-13 |
 | [Grace](https://open.spotify.com/track/73RrO6QxGa9svtiBkzjgPc) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Grace](https://open.spotify.com/album/21muhjj4VKsJ3a7Nb6D66v) | 3:15 | 2023-10-31 |  |
 | [GRACE](https://open.spotify.com/track/01ioXCMkGpxuKrdEO3TSob) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [GRACE](https://open.spotify.com/album/6JzWGtTmJ29ZlAA87eW6Ct) | 4:15 | 2022-02-27 | 2023-01-21 |
@@ -226,6 +226,7 @@
 | [JUST BE US](https://open.spotify.com/track/3pdHgrjBEBZPY8AM7voeCb) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [JUST BE US](https://open.spotify.com/album/6OTEkrlDNbCaFfjr46CEY7) | 2:22 | 2023-10-31 |  |
 | [Just Wondering](https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy) | [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Wilder Wonderland](https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF) | 3:40 | 2023-01-20 |  |
 | [Keep Me](https://open.spotify.com/track/1bOR6zNOiMpVd2LDKP8XCE) | [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [Keep Me](https://open.spotify.com/album/56QvP6bxRamLdPzp1YwL52) | 2:30 | 2022-02-19 | 2022-06-24 |
+| [Keep me](https://open.spotify.com/track/6VNixtccaXI23rKht6kQQg) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Keep me](https://open.spotify.com/album/5RM33r3cYmWgSZCxwIyT0G) | 4:08 | 2024-01-12 |  |
 | [Kinda Love](https://open.spotify.com/track/6N16WmTbELJ8p6MFUE9lcr) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Larry Ginni Crescent](https://open.spotify.com/album/5guOQHPvxFAxhER52dfQNf) | 2:33 | 2022-02-19 | 2022-06-26 |
 | [King of Kings](https://open.spotify.com/track/1XjfamozcDQ4FzhiBkUdgO) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [King of Kings](https://open.spotify.com/album/2EwNW4WtmA5PLCfchjXGIR) | 4:58 | 2022-04-01 | 2023-01-21 |
 | [Knives & Lambs](https://open.spotify.com/track/5bIGoKUGaSeOFeqe8qV1aV) | [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg) | [Love Child 3](https://open.spotify.com/album/5yQtKbqyHDaHBdmoNzoZjm) | 5:59 | 2022-02-19 | 2022-06-25 |

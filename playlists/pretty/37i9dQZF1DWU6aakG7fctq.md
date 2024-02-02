@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie\. Cover: Ramona & Ximena Sariñana
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,098 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,925 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 99 | [Dance With U](https://open.spotify.com/track/3oNyVJz1msPy4OdiD04F6C) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [Short Life](https://open.spotify.com/artist/0xRCyCqeWZmNSCrvpI0DnO) | [Dance With U](https://open.spotify.com/album/2K9PN6gScQc0WhtdGKI3Fy) | 2:36 |
 | 100 | [veo luces](https://open.spotify.com/track/63wvx0oN5gandg86x2FSup) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [veo luces](https://open.spotify.com/album/4fscuZRhvbb7O0qgPFODlf) | 3:26 |
 
-Snapshot ID: `MCwzNmRiZWVlNjcwNDc1OTMwYjBhNzJmNGFhNDAwMWJmMTlkZWU2ZWFj`
+Snapshot ID: `MCw0MTBlYzkyMzYzMjI2MDQ0MmU3M2NjZGM2NzkyZGZhMTdhYzRkZmY2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Fridayy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,768,441 likes - 150 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,768,203 likes - 150 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 61 | [WY@](https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WY@](https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd) | 3:28 |
 | 62 | [Crash & Burn \(feat\. Blxst\)](https://open.spotify.com/track/1swquvjyuVbDP4QYMFhZ8d) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Crash & Burn \(feat\. Blxst\)](https://open.spotify.com/album/3jAriMle4Wj0L0CKXHQRF7) | 2:27 |
 | 63 | [Drop](https://open.spotify.com/track/52Z0HZ6X0yhQKbLDu8rGHT) | [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69) | [CLOSURE](https://open.spotify.com/album/2P6igT720bydbT6u1Cbrih) | 2:51 |
-| 64 | [Love Me To Find You](https://open.spotify.com/track/2BfaDvGnccdSeTqzFbney3) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH), [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv) | [Love Me To Find You](https://open.spotify.com/album/0K1WIwt6RYedA9m35kUBsN) | 2:57 |
+| 64 | [Love Me To Find You](https://open.spotify.com/track/1pkhUY53NetOiJTMfvfRQF) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH), [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv) | [Love Me To Find You](https://open.spotify.com/album/40GCAcjqfvm1d8RGehvlf9) | 2:57 |
 | 65 | [Oversteppin’ \(feat\. That Mexican OT\)](https://open.spotify.com/track/3GjWJb3PArubMXvc8kPHL6) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Oversteppin’ \(feat\. That Mexican OT\)](https://open.spotify.com/album/6NOOW5jXazGu4NEGBkWLAN) | 2:48 |
 | 66 | [IDGAF \(feat\. Chris Brown and Mariah the Scientist\)](https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [IDGAF \(feat\. Chris Brown and Mariah the Scientist\)](https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE) | 3:15 |
 | 67 | [40 Days](https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [L.I.T \(Lost In Translation\)](https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F) | 3:06 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 149 | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG) | 1:30 |
 | 150 | [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(Remixes\)](https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G) | 3:04 |
 
-Snapshot ID: `MCxmMzE0YTA4M2RlMzJlYmE5ZDJiZDdlZGU4Zjg5MTQyZjc1MGE5YTc1`
+Snapshot ID: `MCxjZjM0YTQwYTQ0MWE3NzU4NzVlYjIyNmZmOTQyMzc2MDczNzc0YzZj`

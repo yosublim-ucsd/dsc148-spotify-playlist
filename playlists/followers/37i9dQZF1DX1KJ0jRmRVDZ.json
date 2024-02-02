@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 112971,
+  "2024-02-02": 113002,
   "date_first_scraped": "2022-06-10",
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
   "name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
@@ -1259,6 +1259,24 @@
       "duration_ms": 229663,
       "name": "Chewinggum",
       "url": "https://open.spotify.com/track/0MAV5mwsbDdiAKetZciXta"
+    },
+    {
+      "album": {
+        "name": "Chocolat Cadabra",
+        "url": "https://open.spotify.com/album/2grvAfP3pjbRwkhaTbbNS9"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183881,
+      "name": "Chocolat Cadabra",
+      "url": "https://open.spotify.com/track/0AKxVjQmNYwYuNY5sCJuPn"
     },
     {
       "album": {
@@ -6269,10 +6287,28 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 215819,
       "name": "TOXY!",
       "url": "https://open.spotify.com/track/0E4SYZUiq9VZW0xX1sYUNH"
+    },
+    {
+      "album": {
+        "name": "Toxy!",
+        "url": "https://open.spotify.com/album/20wzGDktj5fJJA7xo8sPhf"
+      },
+      "artists": [
+        {
+          "name": "KUJIRAGI",
+          "url": "https://open.spotify.com/artist/4rG3x6s38W3SI4aS80gjnj"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215819,
+      "name": "Toxy!",
+      "url": "https://open.spotify.com/track/75e9UjBVkiH4xqsoA8Hzmz"
     },
     {
       "album": {
@@ -10131,7 +10167,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 183881,
       "name": "\u30b7\u30e7\u30b3\u30e9\u30ab\u30bf\u30d6\u30e9",
       "url": "https://open.spotify.com/track/5tDluNOXu6r7z7u9NKjPCt"
@@ -19028,6 +19064,28 @@
     },
     {
       "album": {
+        "name": "&SPRINT (Deluxe ver.)",
+        "url": "https://open.spotify.com/album/77StVOdnNzsN4BAU98cuir"
+      },
+      "artists": [
+        {
+          "name": "Dios",
+          "url": "https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu"
+        },
+        {
+          "name": "\u82b1\u8b5c",
+          "url": "https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209119,
+      "name": "\uff06SPRINT(Reverse) ft.KAF",
+      "url": "https://open.spotify.com/track/0FC5xVOB5k7D7oP1mi8VzN"
+    },
+    {
+      "album": {
         "name": "\uff06\u75be\u8d70 (Deluxe ver.)",
         "url": "https://open.spotify.com/album/4VQgTffnaflvIgx2jFz0IE"
       },
@@ -19043,7 +19101,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 209119,
       "name": "\uff06\u75be\u8d70(Reverse) ft.\u82b1\u8b5c",
       "url": "https://open.spotify.com/track/0G2X34hx1ks0LRf2Zwa9NT"

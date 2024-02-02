@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 
 > 
 
-[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,446 likes - 164 songs - 10 hr 41 min
+[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,442 likes - 164 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 | 29 | [Just A Feeling](https://open.spotify.com/track/4PAE3MkBOXIuMxS2baDziW) | [Nick Curly](https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2), [Mood Child](https://open.spotify.com/artist/1LVqAYTWun2fwHqr91UdOm) | [Just A Feeling](https://open.spotify.com/album/6nb0Mncp8xdW0TjEgZ0mrZ) | 3:26 |
 | 30 | [Beatz Alright](https://open.spotify.com/track/1sohDykcbb2btfKlMWbfvf) | [Toby Simpson](https://open.spotify.com/artist/4FsneofHgBocbprOOgcB8j) | [Recuperation EP](https://open.spotify.com/album/4wa3gIDLD5sH2EOBDl5Qe7) | 6:33 |
 | 31 | [Perfect \- Edit](https://open.spotify.com/track/6Q27pKlVnjU19BAwa3WChc) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Perfect](https://open.spotify.com/album/0WkxGMhPKn85CnnFQpm0QI) | 2:45 |
-| 32 | [Attitudes](https://open.spotify.com/track/4tbOgjltmrF3LQG75lJ9Il) | [Malikk](https://open.spotify.com/artist/0HhUeCRrcXYduJyhj8j4QF) | [Attitudes](https://open.spotify.com/album/3Dy0nefOvdnBG35jkqdy0N) | 3:16 |
+| 32 | [Attitudes](https://open.spotify.com/track/4tbOgjltmrF3LQG75lJ9Il) | [Malikk](https://open.spotify.com/artist/0HhUeCRrcXYduJyhj8j4QF), [Mood Child](https://open.spotify.com/artist/1LVqAYTWun2fwHqr91UdOm) | [Attitudes](https://open.spotify.com/album/3Dy0nefOvdnBG35jkqdy0N) | 3:16 |
 | 33 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 |
 | 34 | [A Prayer](https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [A Prayer](https://open.spotify.com/album/40iAAGAi3UrRd3WwGkJLbD) | 3:30 |
 | 35 | [Tenga](https://open.spotify.com/track/67Auq4UAJJm1js85o1DW5m) | [Rafa Barrios](https://open.spotify.com/artist/6nl0PkJi7Xog1gon9f6WIl) | [Tenga](https://open.spotify.com/album/5nnFINtPK2l5zl2Nmfz2qa) | 3:45 |

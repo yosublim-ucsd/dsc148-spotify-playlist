@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: <a href="spotify:artist:4rwolwLHj97rPwbhyNSeU9">Marizu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,209 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,345 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 99 | [Come Alive](https://open.spotify.com/track/6A8RrYAg9aG0BLTcrBt3k5) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [Shemoneh](https://open.spotify.com/album/0JEaUz6MRrYtki9Quyv2m0) | 9:09 |
 | 100 | [For Sure](https://open.spotify.com/track/2UyiKKnsU8R3ESFeFlBm78) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [For Sure](https://open.spotify.com/album/3HRHoRu4p6fZ6pms3uC8oC) | 6:28 |
 
-Snapshot ID: `MCw4YjVlMWFjNmIzNjU4NTVkNDFiZTI0ZjgxNzAzY2E0ODBiNDlhODky`
+Snapshot ID: `MCxiZjczNjQ3NWYyNjkyYjY0NWU2Y2Q1MjAxZmI0M2ZhMmZkODYzZWU3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Zeeshan Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,620 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,622 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 25 | [baby please no](https://open.spotify.com/track/4hOovG1f9UlDXq7adR4jJi) | [AHSAN](https://open.spotify.com/artist/74NqyFriwNs6QJWkJmGvYR), [Arhum Sameed](https://open.spotify.com/artist/2AQtQ8Q2knILV9y6l8UIks), [Hassam Anwar](https://open.spotify.com/artist/1H4fzyg33NrcIRYwpEZrvm) | [baby please no](https://open.spotify.com/album/7qFqGvDCDEu9bwiAImx1ML) | 2:58 |
 | 26 | [Rehnumai](https://open.spotify.com/track/7K2Z9TeTTXR0XBt6ikdqKD) | [Mujahid Hasan](https://open.spotify.com/artist/4ZBnUHzbV10lmXqmRpBejD), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [prodmaarij](https://open.spotify.com/artist/6hKItFSn6L9rvNYiNqZ27z) | [Rehnumai](https://open.spotify.com/album/2cGOn8hKhBW3QV11zrIgJu) | 4:47 |
 | 27 | [Bhanwray](https://open.spotify.com/track/7hd4hJvT4sRKt6ZODGIbRR) | [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN), [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9), [Joshua Savio](https://open.spotify.com/artist/0de1SZQ5sOAmgVK3vtfUt9) | [Bhanwray](https://open.spotify.com/album/7FLHPPyX759sAHlYblf8fw) | 4:10 |
-| 28 | [Stargazing](https://open.spotify.com/track/1hR9ZKmf9j5JNk5umLrUKX) | [Ali Raza](https://open.spotify.com/artist/522dF8hRyQ3b0jypJfUDQW) | [Stargazing](https://open.spotify.com/album/7ywIsRi70yOG0n0SDlx9LL) | 3:12 |
+| 28 | [Stargazing](https://open.spotify.com/track/1hR9ZKmf9j5JNk5umLrUKX) | [Ali Raza](https://open.spotify.com/artist/522dF8hRyQ3b0jypJfUDQW), [Ali Soomro](https://open.spotify.com/artist/21LaTM46e4X78iWHS1kvDR) | [Stargazing](https://open.spotify.com/album/7ywIsRi70yOG0n0SDlx9LL) | 3:12 |
 | 29 | [ANGEL DUST](https://open.spotify.com/track/0AnXn5586TXikxvmMGjgFC) | [Madlock Gilani](https://open.spotify.com/artist/69QGbimZ7ZZJ9w02ET3kpx) | [ANGEL DUST](https://open.spotify.com/album/71opIMTE7qVomRda5TumWf) | 2:45 |
 | 30 | [Manzil \| Streak Studio Season 1.](https://open.spotify.com/track/6bhneVKeW1dpsEZLmoXBD7) | [Adeel](https://open.spotify.com/artist/5UrNmh6stqn6GkzDfjxeVp), [Ali Rizwan](https://open.spotify.com/artist/22fpm2piNhggsLxUhn0NwK) | [Manzil \| Streak Studio Season 1.](https://open.spotify.com/album/10DP5cOqYlOj7GHki25Pyb) | 2:59 |
 | 31 | [Enna Akhiyaan](https://open.spotify.com/track/2iPPpOfyjYXTlrSiyEPrQh) | [Boss Menn](https://open.spotify.com/artist/6l3Cv46bf92QuX8VaIqdXz), [Nouman Javaid](https://open.spotify.com/artist/5pjo8yQSH4tYxX6YmBLkXv), [Arham Mufti](https://open.spotify.com/artist/7bYLyFD6k8LFP3HGqBr3V0) | [Enna Akhiyaan](https://open.spotify.com/album/2H344PRt6tcXvTQY4GzGPe) | 3:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 74 | [Ghar agya main](https://open.spotify.com/track/0MZn47xb5MW7Ampv6cbTbv) | [Armaghan Saif](https://open.spotify.com/artist/5ggFPpZHswvNkWcgCUqEx6) | [Ghar agya main](https://open.spotify.com/album/47HaoQ183IYU9ajXzMdihI) | 4:17 |
 | 75 | [Yaaden](https://open.spotify.com/track/0hTrRRWATfIHjJ9OSMlsDI) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [Hussain Ajani](https://open.spotify.com/artist/4TZi2SKhuNXEyRa7sOLa9H) | [Yaaden](https://open.spotify.com/album/7G26cHP8uiJb7Dy9B6llJA) | 2:38 |
 
-Snapshot ID: `MCwxOGY4YjM4MDQzMGIyMWNhODEwZTE4ZDc1Njk4MTVlMjRjMDlkNmU5`
+Snapshot ID: `MCwyYTBmMTM5YTEyNzg1OTg1MmEyMjczZmExZDAwNTY4NTZkNTE2YmE5`

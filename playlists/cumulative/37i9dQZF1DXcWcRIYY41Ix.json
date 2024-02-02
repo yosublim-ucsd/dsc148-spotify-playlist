@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 270049,
       "name": "Claroscuro",
       "url": "https://open.spotify.com/track/4NsXyQdZ80dXlGwLMyzUEz"
@@ -9222,6 +9222,28 @@
       "duration_ms": 155213,
       "name": "tu recuerdo (verde oto\u00f1o)",
       "url": "https://open.spotify.com/track/7lm2Q0zldRU3caAqdeCpz4"
+    },
+    {
+      "album": {
+        "name": "Palabra",
+        "url": "https://open.spotify.com/album/2mvupK1yZloMAMd35WrNxB"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Caccamo",
+          "url": "https://open.spotify.com/artist/0rVjxMmahuf20itFlVo1Di"
+        },
+        {
+          "name": "IZARO",
+          "url": "https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205181,
+      "name": "Tu y yo",
+      "url": "https://open.spotify.com/track/666OthmuNXcPPkJVGfNbnq"
     },
     {
       "album": {

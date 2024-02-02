@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: The Smile
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,274 likes - 102 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,261 likes - 102 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 101 | [Shadow](https://open.spotify.com/track/4DmvVTpeLgQOhb5RZJOPmj) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Shadow](https://open.spotify.com/album/6uEBSqiCHj0LD3rWb8j0kS) | 3:46 |
 | 102 | [I Feel Something Like That](https://open.spotify.com/track/0JbrWWQiqT0L45zUNM6GYQ) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3), [RUZZY TATTOO COLOUR](https://open.spotify.com/artist/5umzj4PGA5pKpgr40TMbsz) | [Hey Mom,Did You See Me In The Newspaper?](https://open.spotify.com/album/2QGUzPveseqBGL7bptAnkx) | 3:29 |
 
-Snapshot ID: `MCwzMDdlMzc3ZWM1NDYyM2MxNDBkMDE2MzAzMzRkNjc3MTIyNjU3NDAw`
+Snapshot ID: `MCxhMjdjNWM0MzI3MmNjOTk5MDk4NWRmMzU4OTU1NTYxNzQyZDg0M2Zj`

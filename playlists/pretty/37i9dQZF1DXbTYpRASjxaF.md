@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Iza Sabino, Laura Sette
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,256 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,268 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 49 | [Naipe Vagabundo](https://open.spotify.com/track/0gUYr9h0KIYEDW3yZpKDm9) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Naipe Vagabundo](https://open.spotify.com/album/2EBo00f8mLpLWtZHdlaATT) | 2:16 |
 | 50 | [Platinado](https://open.spotify.com/track/2zZWxrqEjaEBJwUzyEX01S) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Platinado](https://open.spotify.com/album/4E62XM9QVdCFVUuTcVFMPa) | 2:23 |
 
-Snapshot ID: `MCw2ZjYwZDg1MWJiZjVmNmRjMWUwYTJmZjYyNTNhZDYwMzg0YmFhZGMw`
+Snapshot ID: `MCw2MmNiYjM1NTUzMTE1NWI5N2U5NjZkNWI5YmU5MTFiNGFlNjAwZTFk`

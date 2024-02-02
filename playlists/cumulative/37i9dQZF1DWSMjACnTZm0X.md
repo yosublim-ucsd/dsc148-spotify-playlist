@@ -2,7 +2,7 @@
 
 ### [Amapiano to the World](https://open.spotify.com/playlist/37i9dQZF1DWSMjACnTZm0X)
 
-> Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz?si=hQdL67LfSD\-fyv0qtUJEhw">CKay</a>
+> Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q?si=R7ATifY\-T9GkZ2oKSSHRIg">Chike</a>
 
 182 songs - 12 hr 47 min
 

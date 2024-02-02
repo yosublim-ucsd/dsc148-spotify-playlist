@@ -60,10 +60,28 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 251093,
       "name": "ARK",
       "url": "https://open.spotify.com/track/0zAgwBgOPAgMqVvRbCukEP"
+    },
+    {
+      "album": {
+        "name": "$HUFFLE",
+        "url": "https://open.spotify.com/album/3yE9VJKvfnDCKs0xzNRHlq"
+      },
+      "artists": [
+        {
+          "name": "Urashimasakatasen",
+          "url": "https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251093,
+      "name": "ARK",
+      "url": "https://open.spotify.com/track/3OX7w9gvjZ9Z3h7T3xCyqv"
     },
     {
       "album": {
@@ -194,6 +212,24 @@
       "duration_ms": 216706,
       "name": "Chance!",
       "url": "https://open.spotify.com/track/0qsCl2VGBKUq50K1gT184f"
+    },
+    {
+      "album": {
+        "name": "L\u221eVE",
+        "url": "https://open.spotify.com/album/02RTnk3gvHrtNVYxefeqSb"
+      },
+      "artists": [
+        {
+          "name": "Urashimasakatasen",
+          "url": "https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Cinderella Step",
+      "url": "https://open.spotify.com/track/21oAFnYh1lT63gk8U5f4Ig"
     },
     {
       "album": {
@@ -1908,7 +1944,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 220000,
       "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30b9\u30c6\u30c3\u30d7",
       "url": "https://open.spotify.com/track/6kBW41TUekIPyVkfMhYLSw"
@@ -2180,10 +2216,28 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 228160,
       "name": "\u30d9\u30a4\u30d3\u30fc\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30e9\u30a4\u30c0\u30fc",
       "url": "https://open.spotify.com/track/6w4h0SHsBqhl3mX9gRUvhc"
+    },
+    {
+      "album": {
+        "name": "EGOIST",
+        "url": "https://open.spotify.com/album/54mnSCoA0f1XncPdV8ZWI6"
+      },
+      "artists": [
+        {
+          "name": "Gero",
+          "url": "https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228160,
+      "name": "\u30d9\u30a4\u30d3\u30fc\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30e9\u30a4\u30c0\u30fc",
+      "url": "https://open.spotify.com/track/7uPjB9ThvZqgx3jNlFYXIf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,023 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,017 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [Baile](https://open.spotify.com/track/03VcWEz57C8TYc9bfFKPDp) | [VGNL](https://open.spotify.com/artist/6auZy2TITJClAy9JiCNwHT), [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu) | [Baile](https://open.spotify.com/album/4ZrfdInTgxfQDoJvIBsVdi) | 2:40 |
 | 75 | [Viramos Estranhos 3](https://open.spotify.com/track/0JCtGxuxPvSM0S2nqg5nYD) | [A$TRO BOY](https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE), [Zaini](https://open.spotify.com/artist/7xamWP0cGZeLRBBeNybzZk) | [Viramos Estranhos 3](https://open.spotify.com/album/6dkvfrPXBsRC2kETEFgRkh) | 2:06 |
 
-Snapshot ID: `MCwyMzE2MjYzNTI1ODMxZjE3NzJhY2YzNDJjYWE1NTRhNjRhZWY1MzJj`
+Snapshot ID: `MCxhMDIyNGJiMDlkMTZkOTRmZWI0NWU1YWQ1NzZiMWNmZjVlMDFiMDM5`

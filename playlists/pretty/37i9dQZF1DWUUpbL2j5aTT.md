@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUpbL2j5aTT.md) - [plain]
 
 > The best of Brazilian House\. Photo: Meca
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,924 likes - 69 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,925 likes - 69 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUpbL2j5aTT.md) - [plain]
 | 57 | [Cuando Vengas](https://open.spotify.com/track/1l0aHFk8ABCVRTshocDReQ) | [Blue Man](https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI) | [Cuando Vengas](https://open.spotify.com/album/1fR6tN5tfSC8r2Zmux1LGz) | 2:15 |
 | 58 | [House Baby](https://open.spotify.com/track/2n7BLpFTnoVHkcyhljDZQ7) | [Dopelerz](https://open.spotify.com/artist/7vVYsm8yfMKCaXp2nwPIL5) | [House Baby](https://open.spotify.com/album/7cIxKD6uJzGXnZ9Ho4ZN5b) | 4:58 |
 | 59 | [One, Two](https://open.spotify.com/track/35X1aWkfdwvk8q4XQiZsPv) | [INDECK.](https://open.spotify.com/artist/0vkZ3GrLFGOe2rANGmmaYY) | [One, Two](https://open.spotify.com/album/4qVAFvHHHbf63rtlJ8mhJd) | 2:58 |
-| 60 | [Bad Boy](https://open.spotify.com/track/0Cyy5IEypFjBhVOyBOLZuF) | [Low Disco](https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx) | [Bad Boy](https://open.spotify.com/album/21QkoaGK1l2eEHI7y1SEc0) | 2:59 |
+| 60 | [Bad Boy](https://open.spotify.com/track/2DLJhXDtedEVkqOerPaxui) | [Low Disco](https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx) | [Bad Boy](https://open.spotify.com/album/2TIkT9PtrvA22Mu4u5HPuw) | 2:59 |
 | 61 | [Look at the Light \- Edit](https://open.spotify.com/track/093g7O9zhvt13iQ42onrJI) | [Peter Mac](https://open.spotify.com/artist/4Tet47xDCtFbmqBNR8MySc) | [Look At The Light](https://open.spotify.com/album/5m7cc0QqabgapOwriWbQYu) | 3:56 |
 | 62 | [Lemme Call You Right Back](https://open.spotify.com/track/3Zrfx7EnTivhZOwnVMkNwm) | [Bauhouse](https://open.spotify.com/artist/3W0ymz5go3eaOIclFYWyzz) | [House Is A Feeling](https://open.spotify.com/album/7qWrEM9uj6rBhPWXrR8mid) | 3:55 |
 | 63 | [Feel This Way](https://open.spotify.com/track/1PpGDmgW7rirQir644spGv) | [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Sanduú](https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f), [Bjarxoo](https://open.spotify.com/artist/01gguaAl3Ft79OTeXM1heN) | [Feel This Way](https://open.spotify.com/album/4oSrTwDImYzAbJ5x6bf6bR) | 2:38 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUpbL2j5aTT.md) - [plain]
 | 68 | [Macaw](https://open.spotify.com/track/3IYIYvGLrVkeIcp2pSwNG2) | [Softmal](https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ) | [Macaw](https://open.spotify.com/album/21vjXg1CCyd4LCZZjZ5k2n) | 6:00 |
 | 69 | [Nosso Espaço](https://open.spotify.com/track/5CRAaaj8HsuQ9gUXFE4RqR) | [Ella De Vuono](https://open.spotify.com/artist/2PRUReyWWiCkqNISBal5sn), [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Nossa Gangue](https://open.spotify.com/album/4Hc0j4uyuMGefL33kkYmn6) | 6:16 |
 
-Snapshot ID: `MCwzYTA0ZWM4YjY2ZjdmMTg4YzE4ZDM4NjFkMmI4ZGVmMTNhMTY3NThl`
+Snapshot ID: `MCwzMWY0NWFiYzM5NDc2Njc2ZmRhYmFlZTkzNjBkNTBlZjRlMjNhOWI5`

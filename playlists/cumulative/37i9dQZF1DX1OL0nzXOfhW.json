@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: Lewsz",
+  "description": "\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: Nancy Kwai",
   "name": "RADAR HK",
   "tracks": [
     {
@@ -1561,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "premiere",
+        "url": "https://open.spotify.com/album/5gOWqjfQsYNXSSkxooHfwu"
+      },
+      "artists": [
+        {
+          "name": "Nancy Kwai",
+          "url": "https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203248,
+      "name": "To be continued",
+      "url": "https://open.spotify.com/track/3PFwHgVhnT3TxGnjCr8mYv"
+    },
+    {
+      "album": {
         "name": "TRIPPIN",
         "url": "https://open.spotify.com/album/0r9CWKeNllgadGS079yej4"
       },
@@ -2000,6 +2018,24 @@
       "duration_ms": 223688,
       "name": "\u5168\u6b7b\u89d2\u7f8e\u5c11\u5973\u6230\u58eb",
       "url": "https://open.spotify.com/track/2uXTxj4B5vtsT8ieJA8U8f"
+    },
+    {
+      "album": {
+        "name": "\u516d\u5ea6\u76f8\u9694\u7406\u8ad6",
+        "url": "https://open.spotify.com/album/3wxU6Q9INasmx6GYVpZ8Lv"
+      },
+      "artists": [
+        {
+          "name": "Lolly Talk",
+          "url": "https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235353,
+      "name": "\u516d\u5ea6\u76f8\u9694\u7406\u8ad6",
+      "url": "https://open.spotify.com/track/5xPanuB9wjmTaZslFji92G"
     },
     {
       "album": {

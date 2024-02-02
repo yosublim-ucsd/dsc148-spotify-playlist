@@ -1,13 +1,49 @@
 {
   "description": "El Dembow que est\u00e1 subiendo en RD. Foto: Rochy RD",
-  "num_followers": 100109,
+  "num_followers": 100134,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjE0MWIxNzAzYzBjYTE4NGNhMTM1Y2IxYzIxZjIyOTE3MzY3YmM5",
+  "snapshot_id": "MCw1ODAxYzYwMGZhMTVlNjhmZGZjZWQzYzUxODdjYzFjZTFlODVmZWFk",
   "tracks": [
+    {
+      "added_at": "2023-12-22 05:09:41",
+      "album": {
+        "name": "Flow Sexy",
+        "url": "https://open.spotify.com/album/78HK77TtSPMxqAi6yH6jOP"
+      },
+      "artists": [
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "duration_ms": 165123,
+      "name": "Flow Sexy",
+      "url": "https://open.spotify.com/track/1aaNLFSkrqqM6KtBFjS2Hj"
+    },
+    {
+      "added_at": "2024-02-01 23:53:43",
+      "album": {
+        "name": "UN VOLAO",
+        "url": "https://open.spotify.com/album/2CCXpPq2goAscTXwNXgev8"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "duration_ms": 99000,
+      "name": "UN VOLAO",
+      "url": "https://open.spotify.com/track/1QBrDmUZ28brJz8vdvxzxI"
+    },
     {
       "added_at": "2023-12-22 05:09:41",
       "album": {
@@ -45,24 +81,20 @@
       "url": "https://open.spotify.com/track/2IeZQmfUHbPtzsK2RAq430"
     },
     {
-      "added_at": "2023-12-28 20:01:04",
+      "added_at": "2024-02-01 23:53:43",
       "album": {
-        "name": "Tuwi Tuwi",
-        "url": "https://open.spotify.com/album/2TLl92KX0u6TNGtcMGD4EY"
+        "name": "Piso Rojo",
+        "url": "https://open.spotify.com/album/6zb5Zc0MPLCx3qwN0SZHiE"
       },
       "artists": [
         {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        },
-        {
-          "name": "Donaty",
-          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+          "name": "El Pastor RD",
+          "url": "https://open.spotify.com/artist/4plI4LITOF226K197LazKR"
         }
       ],
-      "duration_ms": 135230,
-      "name": "Tuwi Tuwi",
-      "url": "https://open.spotify.com/track/4JfRDEkkMYiLp76wepG9Vw"
+      "duration_ms": 101935,
+      "name": "Piso Rojo",
+      "url": "https://open.spotify.com/track/2KIG5c0t9befwkZwDXFytv"
     },
     {
       "added_at": "2024-01-25 20:32:53",
@@ -101,38 +133,6 @@
       "url": "https://open.spotify.com/track/7GY9BCk8P624bRSl045dTR"
     },
     {
-      "added_at": "2024-01-25 20:32:53",
-      "album": {
-        "name": "Ando",
-        "url": "https://open.spotify.com/album/3LezoxQgjSbDhTaRxhOcLx"
-      },
-      "artists": [
-        {
-          "name": "Tivi Gunz",
-          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
-        }
-      ],
-      "duration_ms": 141125,
-      "name": "Ando",
-      "url": "https://open.spotify.com/track/5TyHGAXlplpzthOnOcTFhY"
-    },
-    {
-      "added_at": "2024-01-18 21:46:59",
-      "album": {
-        "name": "Tu Vera L\u00edo",
-        "url": "https://open.spotify.com/album/5l76qsgKpFbVSbvwLQiOgZ"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        }
-      ],
-      "duration_ms": 112727,
-      "name": "Tu Vera L\u00edo",
-      "url": "https://open.spotify.com/track/0GTJfuNoImFQKTRE5zJkYz"
-    },
-    {
       "added_at": "2023-12-22 05:09:41",
       "album": {
         "name": "No Hay Recreo",
@@ -147,6 +147,26 @@
       "duration_ms": 118168,
       "name": "No Hay Recreo",
       "url": "https://open.spotify.com/track/6soUhucfoNsgxze4fzA24p"
+    },
+    {
+      "added_at": "2024-02-01 23:53:43",
+      "album": {
+        "name": "Maldad y Tiniebla",
+        "url": "https://open.spotify.com/album/0DIGLIOzQdPV8LpPQ3Mm47"
+      },
+      "artists": [
+        {
+          "name": "EL YALA",
+          "url": "https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU"
+        },
+        {
+          "name": "Hansel El De La H",
+          "url": "https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG"
+        }
+      ],
+      "duration_ms": 155357,
+      "name": "Maldad y Tiniebla",
+      "url": "https://open.spotify.com/track/0wVTFmvtKzjFX3QNEkzIZ9"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -229,6 +249,62 @@
       "url": "https://open.spotify.com/track/3dXETJk47wnCwP4Sc43mLP"
     },
     {
+      "added_at": "2024-02-01 23:53:43",
+      "album": {
+        "name": "Sube Mela",
+        "url": "https://open.spotify.com/album/5dqvRPZcwjIsAPDGqz7cNI"
+      },
+      "artists": [
+        {
+          "name": "Papaa Tyga",
+          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
+        }
+      ],
+      "duration_ms": 140959,
+      "name": "Sube Mela",
+      "url": "https://open.spotify.com/track/3ftPhjnEAGFZlBoIJjyelE"
+    },
+    {
+      "added_at": "2024-01-25 20:32:53",
+      "album": {
+        "name": "Ando",
+        "url": "https://open.spotify.com/album/3LezoxQgjSbDhTaRxhOcLx"
+      },
+      "artists": [
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        }
+      ],
+      "duration_ms": 141125,
+      "name": "Ando",
+      "url": "https://open.spotify.com/track/5TyHGAXlplpzthOnOcTFhY"
+    },
+    {
+      "added_at": "2024-02-01 23:53:43",
+      "album": {
+        "name": "Misu Misu",
+        "url": "https://open.spotify.com/album/5G0xQjLUjNYqAQJgwCrxND"
+      },
+      "artists": [
+        {
+          "name": "Menor Queen",
+          "url": "https://open.spotify.com/artist/1MsuHuJMhPWFbzl2KWLyzz"
+        },
+        {
+          "name": "Kunno",
+          "url": "https://open.spotify.com/artist/3tWbpLn172AGK2x4Yr3KgB"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Misu Misu",
+      "url": "https://open.spotify.com/track/1ZxSNOmhnUEFgUFa5xLtX8"
+    },
+    {
       "added_at": "2024-01-18 21:46:59",
       "album": {
         "name": "Rikiry Goldito",
@@ -243,6 +319,50 @@
       "duration_ms": 143543,
       "name": "Rikiry Goldito",
       "url": "https://open.spotify.com/track/2RROMdodb9DLWy0FuWgVoM"
+    },
+    {
+      "added_at": "2024-02-01 23:53:43",
+      "album": {
+        "name": "Te Enamoraste, Perdiste",
+        "url": "https://open.spotify.com/album/6hRvWkDRUoKSkJjREFoJvG"
+      },
+      "artists": [
+        {
+          "name": "La Melma Music",
+          "url": "https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "Wander Love",
+          "url": "https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd"
+        },
+        {
+          "name": "Chencho Rosario",
+          "url": "https://open.spotify.com/artist/0dVO85rlBcRlw4O17SHi4I"
+        }
+      ],
+      "duration_ms": 134173,
+      "name": "Te Enamoraste, Perdiste",
+      "url": "https://open.spotify.com/track/316wzRNASMxvYyOWNR0zd0"
+    },
+    {
+      "added_at": "2024-01-18 21:46:59",
+      "album": {
+        "name": "Tu Vera L\u00edo",
+        "url": "https://open.spotify.com/album/5l76qsgKpFbVSbvwLQiOgZ"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "duration_ms": 112727,
+      "name": "Tu Vera L\u00edo",
+      "url": "https://open.spotify.com/track/0GTJfuNoImFQKTRE5zJkYz"
     },
     {
       "added_at": "2024-01-18 21:46:59",
@@ -269,40 +389,28 @@
       "url": "https://open.spotify.com/track/0qqRqd4xae348nMFehJXPq"
     },
     {
-      "added_at": "2023-12-22 05:09:41",
+      "added_at": "2024-02-01 23:53:43",
       "album": {
-        "name": "Flow Sexy",
-        "url": "https://open.spotify.com/album/78HK77TtSPMxqAi6yH6jOP"
+        "name": "Shupamelo",
+        "url": "https://open.spotify.com/album/09YTNgBlRw8amhBzVO8ESD"
       },
       "artists": [
         {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
         },
         {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        }
-      ],
-      "duration_ms": 165123,
-      "name": "Flow Sexy",
-      "url": "https://open.spotify.com/track/1aaNLFSkrqqM6KtBFjS2Hj"
-    },
-    {
-      "added_at": "2024-01-12 21:12:31",
-      "album": {
-        "name": "Chuky De La 42",
-        "url": "https://open.spotify.com/album/3jRMIc9xWNikmETxQrJnGw"
-      },
-      "artists": [
+          "name": "Kreizy k",
+          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
+        },
         {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+          "name": "GMBeats Degranalo",
+          "url": "https://open.spotify.com/artist/3mz31fCuwqJDQoKGN3sbnT"
         }
       ],
-      "duration_ms": 144827,
-      "name": "Chuky De La 42",
-      "url": "https://open.spotify.com/track/1IKz3mAgw2aNCCVXPYX1e0"
+      "duration_ms": 161538,
+      "name": "Shupamelo",
+      "url": "https://open.spotify.com/track/3MnvzYz8Z8S45TvKNEblPs"
     },
     {
       "added_at": "2024-01-18 21:46:59",
@@ -329,36 +437,24 @@
       "url": "https://open.spotify.com/track/7f3S36TfLiQcLfiva9rWeq"
     },
     {
-      "added_at": "2024-01-04 18:32:21",
+      "added_at": "2024-02-01 23:53:43",
       "album": {
-        "name": "Nobody Like Me",
-        "url": "https://open.spotify.com/album/4e9BiC4yUcw0p2ebspy3SV"
+        "name": "Dile que si",
+        "url": "https://open.spotify.com/album/22MelKJoTNWatDKkeXfL9Y"
       },
       "artists": [
         {
-          "name": "Johan Bless",
-          "url": "https://open.spotify.com/artist/33QBPNn9h5dUYW2GbceEeh"
-        }
-      ],
-      "duration_ms": 146469,
-      "name": "Titeres",
-      "url": "https://open.spotify.com/track/51tYVM8dJ68IYkHH9fsXsw"
-    },
-    {
-      "added_at": "2024-01-18 21:46:59",
-      "album": {
-        "name": "Turutu",
-        "url": "https://open.spotify.com/album/2cpafUCaZ2J1VgGYi7gd8x"
-      },
-      "artists": [
+          "name": "Jhayseven",
+          "url": "https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd"
+        },
         {
-          "name": "Dixson Waz",
-          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
         }
       ],
-      "duration_ms": 113110,
-      "name": "Turutu",
-      "url": "https://open.spotify.com/track/00X9XpI2BbnxRXynYrNLEE"
+      "duration_ms": 108661,
+      "name": "Dile que si",
+      "url": "https://open.spotify.com/track/7deTHoxJSuc5VPDE9ahpUK"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -383,18 +479,22 @@
     {
       "added_at": "2024-01-18 21:46:59",
       "album": {
-        "name": "Un Chuky",
-        "url": "https://open.spotify.com/album/5UTKb5yCwKJONNwF0hZUs9"
+        "name": "Apurale",
+        "url": "https://open.spotify.com/album/7LuDetAyvwOiDjbYq1KcRm"
       },
       "artists": [
         {
-          "name": "Whitecity",
-          "url": "https://open.spotify.com/artist/3StWchMfGY8mo4YdIPp9Rb"
+          "name": "Jhayseven",
+          "url": "https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
         }
       ],
-      "duration_ms": 116195,
-      "name": "Un Chuky",
-      "url": "https://open.spotify.com/track/39mXMsgX5ssR8GAMDEf8Wx"
+      "duration_ms": 116826,
+      "name": "Apurale",
+      "url": "https://open.spotify.com/track/2lWYj5CpdWXU91Tq3pU8CI"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -415,22 +515,6 @@
       "duration_ms": 150991,
       "name": "Oao",
       "url": "https://open.spotify.com/track/16tsUHnekjoAdvZ06yHDbI"
-    },
-    {
-      "added_at": "2024-01-18 21:46:59",
-      "album": {
-        "name": "La Parita",
-        "url": "https://open.spotify.com/album/1cDVNDJqQMTjInT1seVQm4"
-      },
-      "artists": [
-        {
-          "name": "El Alfo",
-          "url": "https://open.spotify.com/artist/2FoqRKqYLiAilDoGyoplIx"
-        }
-      ],
-      "duration_ms": 81900,
-      "name": "La Parita",
-      "url": "https://open.spotify.com/track/3SsHlZap64UF0DlUTbo0CG"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -497,26 +581,6 @@
       "url": "https://open.spotify.com/track/02nlftazZIBxtWLZspDV5W"
     },
     {
-      "added_at": "2024-01-18 21:46:59",
-      "album": {
-        "name": "Apurale",
-        "url": "https://open.spotify.com/album/7LuDetAyvwOiDjbYq1KcRm"
-      },
-      "artists": [
-        {
-          "name": "Jhayseven",
-          "url": "https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd"
-        },
-        {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
-        }
-      ],
-      "duration_ms": 116826,
-      "name": "Apurale",
-      "url": "https://open.spotify.com/track/2lWYj5CpdWXU91Tq3pU8CI"
-    },
-    {
       "added_at": "2023-12-22 05:09:41",
       "album": {
         "name": "Malo de Verdad (Remix)",
@@ -543,22 +607,6 @@
       "duration_ms": 206951,
       "name": "Malo de Verdad - Remix",
       "url": "https://open.spotify.com/track/38pdoR7NoHEugpvIxEKhdU"
-    },
-    {
-      "added_at": "2024-01-18 21:46:59",
-      "album": {
-        "name": "Me Huele A Dinero",
-        "url": "https://open.spotify.com/album/3iCZ4jFafaXY9w2w6D7PI9"
-      },
-      "artists": [
-        {
-          "name": "Kenly",
-          "url": "https://open.spotify.com/artist/4y4pCBoP0bVFwbT0O5rKwI"
-        }
-      ],
-      "duration_ms": 165943,
-      "name": "Me Huele A Dinero",
-      "url": "https://open.spotify.com/track/769gkGnblUKZFmIqrF0NFz"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -593,10 +641,10 @@
       "url": "https://open.spotify.com/track/5v1ncHJGnN4ONlPx63zjTU"
     },
     {
-      "added_at": "2023-12-22 05:09:41",
+      "added_at": "2024-02-01 23:53:43",
       "album": {
-        "name": "Se Nos Gaste",
-        "url": "https://open.spotify.com/album/0zxEY9GAMmSk7jkP3xhi1k"
+        "name": "Yo No Queria",
+        "url": "https://open.spotify.com/album/2kvHobtwakz6kkauGCY7it"
       },
       "artists": [
         {
@@ -604,13 +652,17 @@
           "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
         },
         {
-          "name": "El Baby R",
-          "url": "https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET"
+          "name": "OG DETRUYELO",
+          "url": "https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli"
+        },
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
         }
       ],
-      "duration_ms": 120994,
-      "name": "Se Nos Gaste",
-      "url": "https://open.spotify.com/track/2SsRIkIxgsBsASmvmyJjxa"
+      "duration_ms": 134571,
+      "name": "Yo No Queria",
+      "url": "https://open.spotify.com/track/55H7tV2iQWa2UqbJfWfY0Y"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -675,6 +727,26 @@
     {
       "added_at": "2023-12-22 05:09:41",
       "album": {
+        "name": "Se Nos Gaste",
+        "url": "https://open.spotify.com/album/0zxEY9GAMmSk7jkP3xhi1k"
+      },
+      "artists": [
+        {
+          "name": "Yoan Retro",
+          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
+        },
+        {
+          "name": "El Baby R",
+          "url": "https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET"
+        }
+      ],
+      "duration_ms": 120994,
+      "name": "Se Nos Gaste",
+      "url": "https://open.spotify.com/track/2SsRIkIxgsBsASmvmyJjxa"
+    },
+    {
+      "added_at": "2023-12-22 05:09:41",
+      "album": {
         "name": "Bala",
         "url": "https://open.spotify.com/album/3kb0GXriEy3vEqnhf4i7kP"
       },
@@ -691,26 +763,6 @@
       "duration_ms": 124871,
       "name": "Bala",
       "url": "https://open.spotify.com/track/3Ndp9BryXxb9K0uN6eIGu6"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "Vagabunder\u00eda",
-        "url": "https://open.spotify.com/album/6nzVp9EbUeN3mMBVrwVQg3"
-      },
-      "artists": [
-        {
-          "name": "Frasigan",
-          "url": "https://open.spotify.com/artist/6GQHqIsOYyPK7DEMp1wCHo"
-        },
-        {
-          "name": "Kaly Ocho",
-          "url": "https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD"
-        }
-      ],
-      "duration_ms": 128899,
-      "name": "Vagabunder\u00eda",
-      "url": "https://open.spotify.com/track/6XqxsiFsbjrsbxkLXuDf4k"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -963,26 +1015,6 @@
       "duration_ms": 136045,
       "name": "Que Pale",
       "url": "https://open.spotify.com/track/5gorLpRstyOJ2Nyy0qYV3g"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "Cocotico",
-        "url": "https://open.spotify.com/album/5sTxABf1vVdF4mDOkbb2to"
-      },
-      "artists": [
-        {
-          "name": "Crazy Design",
-          "url": "https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV"
-        },
-        {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
-        }
-      ],
-      "duration_ms": 136375,
-      "name": "Cocotico",
-      "url": "https://open.spotify.com/track/1MiX6P0EswKTILtABR0uQI"
     }
   ],
   "unique_name": "Rep\u00fablica Dembow",

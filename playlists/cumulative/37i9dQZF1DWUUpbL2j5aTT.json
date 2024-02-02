@@ -276,10 +276,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 179995,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/0Cyy5IEypFjBhVOyBOLZuF"
+    },
+    {
+      "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/2TIkT9PtrvA22Mu4u5HPuw"
+      },
+      "artists": [
+        {
+          "name": "Low Disco",
+          "url": "https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179995,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/2DLJhXDtedEVkqOerPaxui"
     },
     {
       "album": {

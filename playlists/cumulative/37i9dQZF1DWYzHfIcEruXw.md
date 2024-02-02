@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 10s\. 2010年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-119 songs - 8 hr 39 min
+120 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [ピースサイン](https://open.spotify.com/track/5d0vOwEXKjlcb0RWy0EIt6) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [ピースサイン](https://open.spotify.com/album/4ZpIFW4JzbWmvdvm9PI3K8) | 3:57 | 2021-12-21 | 2022-07-29 |
 | [ピースサイン](https://open.spotify.com/track/364JzOajs76bJymjHm3sVY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:58 | 2021-12-21 |  |
 | [マジLOVE1000%](https://open.spotify.com/track/2d7xS3RBz24ucevGPzWsck) | [ST☆RISH](https://open.spotify.com/artist/4qozdjjHNXwEDYMMuK6dUb) | [マジLOVE1000%](https://open.spotify.com/album/50lbroyCZOxivlsFFdMe13) | 3:35 | 2021-12-21 |  |
-| [ユキトキ](https://open.spotify.com/track/2m2HiaiQeTVrLjC4g2KzOz) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [ユキトキ](https://open.spotify.com/album/1WgQyGoQ6VXI1oSEtYJcik) | 4:29 | 2021-12-21 |  |
+| [ユキトキ](https://open.spotify.com/track/6mw7e4VZaynKx8syCfS1XQ) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [エウアル](https://open.spotify.com/album/0ADHXGbI8ZdgiHQqdpkfVo) | 4:28 | 2023-07-04 |  |
+| [ユキトキ](https://open.spotify.com/track/2m2HiaiQeTVrLjC4g2KzOz) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [ユキトキ](https://open.spotify.com/album/1WgQyGoQ6VXI1oSEtYJcik) | 4:29 | 2021-12-21 | 2024-02-02 |
 | [ラピスラズリ](https://open.spotify.com/track/5gW0U6PfSZxs3ZqcQvIf6L) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 3:58 | 2021-12-21 |  |
 | [ラピスラズリ](https://open.spotify.com/track/3nxwiLbh3cyBFqEJ4HNxwA) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ラピスラズリ](https://open.spotify.com/album/53u3NxTusoIGLwP7LswG2d) | 4:00 | 2021-12-21 | 2022-07-29 |
 | [ラブ・ドラマティック \(Funky Flag Version\)](https://open.spotify.com/track/05zDB03E1WxCLyraJJ2I2r) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [伊原六花](https://open.spotify.com/artist/2oHiy1x5X3FnhsLrrS6IEo) | [Funky Flag](https://open.spotify.com/album/0jgf1U1PH3sH1aTX89BXKA) | 4:22 | 2021-12-21 |  |

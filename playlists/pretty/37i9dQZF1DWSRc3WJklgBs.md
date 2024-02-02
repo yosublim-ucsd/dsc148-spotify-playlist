@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,225,792 likes - 230 songs - 12 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,225,805 likes - 230 songs - 12 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 229 | [Magnets in the Dark \(feat\. Lizzy Land\)](https://open.spotify.com/track/2jIWIrT95AuZoHmBl6DIBX) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Magnets in the Dark \(feat\. Lizzy Land\)](https://open.spotify.com/album/1qqEmrEsBQCWDJlBOoWXSl) | 3:36 |
 | 230 | [Inner Light](https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Inner Light](https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z) | 3:28 |
 
-Snapshot ID: `MCw3YmM3MzI5MDY2MjlkZjQyOTRlZDA2NDJiMjNlMDA0Yjg1MGY0YzM2`
+Snapshot ID: `MCwxNTViYTBkMzBkODMzYTk3M2Y5ZDQ0Y2IzYjQ1YzI5MGZhN2QxMTVh`

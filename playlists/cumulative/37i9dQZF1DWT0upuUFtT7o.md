@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Hana Eid
 
-2,163 songs - 4 day 22 hr 20 min
+2,164 songs - 4 day 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2141,6 +2141,7 @@
 | [YAKOYO](https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [YAKOYO](https://open.spotify.com/album/2HDyAE2vT8mR31fsl3eUrl) | 2:52 | 2023-08-08 | 2023-09-14 |
 | [Ye Old Man](https://open.spotify.com/track/7L6DW04d2MzlVwmROCAQUh) | [Mia Joy](https://open.spotify.com/artist/5a3lFI5IJGQbpMTdjrehHl) | [Spirit Tamer](https://open.spotify.com/album/2xIGwq94Eu3mfEEEQ5piYi) | 2:03 | 2023-01-11 | 2023-02-02 |
 | [YEARS WASTED](https://open.spotify.com/track/4rX2ATH5XU1Bm8tKmnxhsG) | [míra](https://open.spotify.com/artist/0WB5rykKeHBde6sSIfg4jj) | [YEARS WASTED](https://open.spotify.com/album/2Vmq3WW4nYoa6mxE4LjVbX) | 2:24 | 2022-02-09 | 2022-03-17 |
+| [Yes Please!](https://open.spotify.com/track/7GoZb3nes83ynwUOkxRmK5) | [SidePonies](https://open.spotify.com/artist/5KwKfaUL5Ha9ihmXDRYEB0) | [Yes Please!](https://open.spotify.com/album/7qT0HAYr3IlPyPPPyn5fIB) | 3:47 | 2024-02-01 |  |
 | [Yesterday's Toy](https://open.spotify.com/track/6ZMAkKjBEQLv5DoGSxiv73) | [Shallowhalo](https://open.spotify.com/artist/302pglvxOK8fDRZTsNoAgq) | [No Fun](https://open.spotify.com/album/6IzE4FQ4qNpv3qVi3PCapf) | 3:18 | 2022-07-14 | 2022-07-16 |
 | [Yirgacheffe](https://open.spotify.com/track/7IX440dnmx6beDGeLUFuHM) | [Kevin Klein](https://open.spotify.com/artist/0NWmpU8ggo9yQW1yswpp1C) | [Yirgacheffe / The Winds](https://open.spotify.com/album/2tpFXCwH91s5arOGrop9JZ) | 3:51 | 2023-03-01 | 2023-03-23 |
 | [You & Me](https://open.spotify.com/track/1McQo07n0SojoIgIQMI301) | [DWY](https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX) | [8\-Bit Memories](https://open.spotify.com/album/5CEvgBAlMi29crzTdYjPjX) | 3:22 | 2021-12-01 | 2022-01-13 |

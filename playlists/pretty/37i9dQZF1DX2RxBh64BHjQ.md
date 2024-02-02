@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0yknvLWQZxwsMjhUhwWZQ8">41</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,772,755 likes - 100 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,772,428 likes - 100 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Not Worthy 2 ft\. Jeezy](https://open.spotify.com/track/1pGkgfarR7dAlueOvkfS0y) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Super Wizz](https://open.spotify.com/album/5oDaFXMXc1SFwlUb4vZrZR) | 3:16 |
 | 100 | [Jet Lee](https://open.spotify.com/track/0Dj9XIgTrMiqJJG5hZcFir) | [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Jet Lee](https://open.spotify.com/album/4vO3ciCm1fXlUIS7YRbpy6) | 2:46 |
 
-Snapshot ID: `MCw3OGUyYzcxMDY0MzVmNWEzMjA0NTFlNWY0YzQzNjA3ZjFhNTA5Mjdi`
+Snapshot ID: `MCw0NmFmYjExOTgyNDg4MGIwNDdlZmJkZmY3NmMzMjZiMDNjNTYzZTAx`

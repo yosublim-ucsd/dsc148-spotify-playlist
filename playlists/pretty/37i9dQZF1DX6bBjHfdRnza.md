@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Nikita, the Wicked\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,672 likes - 85 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,782 likes - 85 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Auction](https://open.spotify.com/track/0fyatRJCPPj2V6maXthHIu) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [The Auction](https://open.spotify.com/album/4s1Ra8QnO5KdmEhkPUTYlt) | 2:56 |
-| 2 | [Destiny](https://open.spotify.com/track/6kgVM1XFTsKsGvyzaMgIi2) | [Cent](https://open.spotify.com/artist/19k9TrKzU0Jq8UF5ROVK7d), [Katia B](https://open.spotify.com/artist/4WmvFchREyHZdwvDlffQaU) | [Destiny](https://open.spotify.com/album/3v991d9HB0a1CMHmFgSu7q) | 3:09 |
-| 3 | [Boy, Empty](https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIRST ENCOUNTER](https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be) | 2:49 |
-| 4 | [Do Your Thing](https://open.spotify.com/track/30X8IKWPfADK3jt47GMyzj) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Do Your Thing](https://open.spotify.com/album/3WdohOvZuBMVfKTL30Msvi) | 3:32 |
+| 2 | [Boy, Empty](https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIRST ENCOUNTER](https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be) | 2:49 |
+| 3 | [Do Your Thing](https://open.spotify.com/track/30X8IKWPfADK3jt47GMyzj) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Do Your Thing](https://open.spotify.com/album/3WdohOvZuBMVfKTL30Msvi) | 3:32 |
+| 4 | [Destiny](https://open.spotify.com/track/6kgVM1XFTsKsGvyzaMgIi2) | [Cent](https://open.spotify.com/artist/19k9TrKzU0Jq8UF5ROVK7d), [Katia B](https://open.spotify.com/artist/4WmvFchREyHZdwvDlffQaU) | [Destiny](https://open.spotify.com/album/3v991d9HB0a1CMHmFgSu7q) | 3:09 |
 | 5 | [Disco Party Baby \- Original Mix](https://open.spotify.com/track/5IAaxB9xyH0T4JwQY2fg3W) | [Vampire Sex](https://open.spotify.com/artist/2qP2zz3K0jWe9OP7v7KLVV) | [Love At First Bite](https://open.spotify.com/album/6pXrT4ANTvAEZK8ghZ5DV0) | 3:09 |
 | 6 | [I Didn't Know I Could Fly](https://open.spotify.com/track/2VdFZZtTKxcBWPFct0WxiX) | [Latas](https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb), [Akın Paksoy](https://open.spotify.com/artist/3CeeyVbfjyxwIWmH5us6vZ) | [Past Life](https://open.spotify.com/album/3ChUtFrg7ZdQ1YjhnrOs6M) | 5:20 |
 | 7 | [That's My Shit](https://open.spotify.com/track/0V3mQisaCvNV2EOxn1N29C) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [That's My Shit](https://open.spotify.com/album/15C7YUmMrXy00kJB4Rlp5V) | 1:55 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 84 | [Hyperdream](https://open.spotify.com/track/4bL2exKkLpkKveLKnIltSQ) | [Zorza](https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr) | [Hyperdream](https://open.spotify.com/album/54yMMbi29Ta7xnouSuEs6J) | 2:48 |
 | 85 | [Forward Step](https://open.spotify.com/track/1ftMMNpvUuhFQhyptugUpo) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Forward Step](https://open.spotify.com/album/6uto8zjUa1Ght3zklDnqDi) | 6:47 |
 
-Snapshot ID: `MCwzZjM5MDVlMzYyMWFkMTNhZWUwY2RjMmUyZTMwYzMwNjJmNDRjZDlj`
+Snapshot ID: `MCw1ZTYzYzE1YjFjZTUzYjRjZTMxNjkwOGRhNDI0YTU4MzFjNTBkYTMy`

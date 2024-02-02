@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Anuv Jain
 
-252 songs - 14 hr 13 min
+253 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Aao Zara](https://open.spotify.com/track/0blUP1s0RReqSeijPeZDnf) | [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Shreya Phukan](https://open.spotify.com/artist/5Hfymmb6YdN0BXT5z394b6), [Raaj Jyoti Konwar](https://open.spotify.com/artist/5olB8pxiBEf6xV6cJlawbD) | [Aao Zara](https://open.spotify.com/album/6ybCBo24WHhTEa9obMijpQ) | 2:33 | 2023-07-05 | 2023-10-04 |
 | [Aasmaan](https://open.spotify.com/track/4OJ3ecc157Wg4Z29aglEOu) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Farzi \(Original Series Soundtrack\)](https://open.spotify.com/album/2W4AYutWKIjmtGVnU6q3Xz) | 2:52 | 2023-05-17 |  |
 | [Aate Rehte Hain](https://open.spotify.com/track/0bxI9eC4ax4T6gfXI8TtYv) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Zohrajabeen](https://open.spotify.com/album/6WbwIMCBi2mxR08rCkJUth) | 3:45 | 2023-07-24 | 2023-09-16 |
+| [Ab Hum Bache](https://open.spotify.com/track/6UrSaCOb8RetvfElMRdGeI) | [Sanchit Saklani](https://open.spotify.com/artist/5FdrEM97PPIDGaXn0uY0Ef) | [Ab Hum Bache](https://open.spotify.com/album/0IBx1xp9zyXLLpLxYnWVzl) | 4:10 | 2024-02-01 |  |
 | [Ab Kya Karen](https://open.spotify.com/track/45gLowg76AxVx2Q3Gfjy1Y) | [Qulid](https://open.spotify.com/artist/2CV0KIicosK2RGWjpil0Wp) | [Ehsaas](https://open.spotify.com/album/7bXn9yCtp6aPc7ADJLGyyu) | 2:44 | 2023-05-17 | 2023-07-06 |
 | [Acche Hain](https://open.spotify.com/track/6dxq28SkzTofI0p7mAarhl) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Acche Hain](https://open.spotify.com/album/5Q875wNYcM8u0jQJav8mDt) | 2:16 | 2023-07-12 | 2023-09-30 |
 | [Afwaeen](https://open.spotify.com/track/4Iy7HgDxa19p4MxVaA8W9L) | [Sunny Subramanian](https://open.spotify.com/artist/4Otbfyw3dUGWXAp3C7zbS2) | [Afwaeen](https://open.spotify.com/album/6tIJgl2e9HN8m9lzv5NVLD) | 2:23 | 2023-09-15 | 2023-11-29 |
@@ -46,7 +47,7 @@
 | [Bawariya](https://open.spotify.com/track/5V4skDQqJVmt6gIgYpYEFB) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Bawariya](https://open.spotify.com/album/1bIZt0uCgtKJOvlqvBSs4C) | 2:59 | 2023-11-21 | 2023-12-17 |
 | [Bechara Dil](https://open.spotify.com/track/35BePcnXPMZgIDsTY3UAvT) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2) | [Bechara Dil](https://open.spotify.com/album/6ukDINQR94HElsfitxKPFN) | 2:41 | 2023-12-26 | 2024-01-05 |
 | [Bechara Dil](https://open.spotify.com/track/5qwJbElzgetMpn5fVYFsyO) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2) | [Bechara Dil](https://open.spotify.com/album/0EqCYTvlwapU4OdjUfoEkP) | 2:41 | 2023-05-31 | 2024-01-04 |
-| [Bewakoofiyaan Kare](https://open.spotify.com/track/73mYX4I9cu6kA0Q8v1M8Z2) | [Anil Thakur](https://open.spotify.com/artist/1pUKvwa9hBCPDk8CP4gDKi), [Roshanaara Qureshi](https://open.spotify.com/artist/7G3sWx07js0ZjqND7YQvrF) | [Bewakoofiyaan Kare](https://open.spotify.com/album/16PdauoPKILtNmJepn4Qlf) | 3:00 | 2023-06-27 |  |
+| [Bewakoofiyaan Kare](https://open.spotify.com/track/73mYX4I9cu6kA0Q8v1M8Z2) | [Anil Thakur](https://open.spotify.com/artist/1pUKvwa9hBCPDk8CP4gDKi), [Roshanaara Qureshi](https://open.spotify.com/artist/7G3sWx07js0ZjqND7YQvrF) | [Bewakoofiyaan Kare](https://open.spotify.com/album/16PdauoPKILtNmJepn4Qlf) | 3:00 | 2023-06-27 | 2024-02-02 |
 | [Bikhra](https://open.spotify.com/track/6YnilfIRgLOzlOrqPEOEnb) | [Vaibhav Malhotra](https://open.spotify.com/artist/5wHCytYglbwzeqqfClAI1j) | [Afsana](https://open.spotify.com/album/17yHafgTW0pQ2yGcanLduv) | 3:25 | 2023-05-17 | 2023-05-27 |
 | [Bitata Pal](https://open.spotify.com/track/5p2MaDktvl7GmLfAQqdP0B) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Bitata Pal](https://open.spotify.com/album/6CroN34V63lcQsAYjxUCl3) | 3:43 | 2023-11-24 |  |
 | [Bitter Betrayals \(From "T\-Series Solos"\)](https://open.spotify.com/track/2qqFgR22eDiTcCTQUaSshU) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Nikhil Vinay](https://open.spotify.com/artist/0HsUQSehtJfQENJxgxQwg5), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs) | [Achha Sila Diya](https://open.spotify.com/album/2uodXwPtgPs131krAW6QIV) | 4:19 | 2023-09-29 | 2023-11-06 |

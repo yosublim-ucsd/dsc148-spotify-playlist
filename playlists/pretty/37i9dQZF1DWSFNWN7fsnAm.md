@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 
 > Listen to <a href="spotify:artist:1yqxFtPHKcGcv6SXZNdyT9">MK</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,292 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,318 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 | 79 | [In 'n' Out \- Radio Edit](https://open.spotify.com/track/0I6b4cc0AiI9B150JREcuZ) | [ELDON](https://open.spotify.com/artist/6so3Cydf32ZE4ztbphgyJV), [Deja](https://open.spotify.com/artist/1tQhPQaCikIyamVzWZyXfJ) | [On the Move \(Radio Edit\)](https://open.spotify.com/album/4BtjkeJY1RmqHml30jJO9U) | 3:27 |
 | 80 | [Insomnia](https://open.spotify.com/track/6Q5XmBbXPszddE3emn6hUr) | [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7) | [Insomnia / Ancestral Offerings](https://open.spotify.com/album/5GVfLqzwzi7AJR6fLAMJzX) | 6:19 |
 
-Snapshot ID: `MCw2YjcwNmRjYjBmZmFjY2VkM2UwZGQ4OTI3NDI4NDI2M2UxZDU5MWQ5`
+Snapshot ID: `MCxkMzIyZTJiN2YyNjBlMGU4NTk0MDU0MDkwNDI0NGI5MmUyYWU0NTcy`

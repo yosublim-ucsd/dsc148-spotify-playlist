@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos de la bachata. Timeless bachata hits. Cover: Aventura",
-  "num_followers": 675837,
+  "num_followers": 675958,
   "original_name": "Bachata Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDE0MmFlZDdmZWY2NzgyOTMzODVlOGRmMjU4NjJiZjk2MmUxODI3",
+  "snapshot_id": "MCw3NWJjMTliNDVjMDM2ZTU3ZmFjMmJlNjY1YmU1MzY2NTRjNmY4YjE2",
   "tracks": [
     {
       "added_at": "2023-03-17 00:44:12",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "El Triste",
-        "url": "https://open.spotify.com/album/6dK8zx6goVQQp4ajR5Xe5a"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 204893,
-      "name": "Sentimiento de Amor",
-      "url": "https://open.spotify.com/track/34FUq3P5k5vc49MfO9kYGP"
-    },
-    {
-      "added_at": "2023-03-17 00:44:12",
-      "album": {
         "name": "Pena Por T\u00ed",
         "url": "https://open.spotify.com/album/6u9Gf0TcIxJ4O6D7HzuXsl"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 178776,
       "name": "Pena Por T\u00ed",
       "url": "https://open.spotify.com/track/7fRQxmZcNZEUZJx1dcxWBd"
+    },
+    {
+      "added_at": "2023-03-17 00:44:12",
+      "album": {
+        "name": "El Triste",
+        "url": "https://open.spotify.com/album/6dK8zx6goVQQp4ajR5Xe5a"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 204893,
+      "name": "Sentimiento de Amor",
+      "url": "https://open.spotify.com/track/34FUq3P5k5vc49MfO9kYGP"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "La Luz De Mis Ojos",
-        "url": "https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7"
-      },
-      "artists": [
-        {
-          "name": "Elvis Martinez",
-          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Laudano",
-      "url": "https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6"
-    },
-    {
-      "added_at": "2023-03-17 00:44:12",
-      "album": {
         "name": "20/4 Bachata Vol.3",
         "url": "https://open.spotify.com/album/1L0dpFrmLr0D7CDfi48pv9"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 266480,
       "name": "La Avispa",
       "url": "https://open.spotify.com/track/2qU17itEaJatg5saBg4lm2"
+    },
+    {
+      "added_at": "2023-03-17 00:44:12",
+      "album": {
+        "name": "Pura Bachata",
+        "url": "https://open.spotify.com/album/42r5AIbVielDT0MKt80idK"
+      },
+      "artists": [
+        {
+          "name": "Marino Perez",
+          "url": "https://open.spotify.com/artist/4CUaw25QTAfWb6wA0yWPrN"
+        }
+      ],
+      "duration_ms": 184619,
+      "name": "No la Quiero Ver Con Otro",
+      "url": "https://open.spotify.com/track/7MbSL1f89YJGjuRmWLKlhf"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Pura Bachata",
-        "url": "https://open.spotify.com/album/42r5AIbVielDT0MKt80idK"
+        "name": "La Luz De Mis Ojos",
+        "url": "https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7"
       },
       "artists": [
         {
-          "name": "Marino Perez",
-          "url": "https://open.spotify.com/artist/4CUaw25QTAfWb6wA0yWPrN"
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
         }
       ],
-      "duration_ms": 184619,
-      "name": "No la Quiero Ver Con Otro",
-      "url": "https://open.spotify.com/track/7MbSL1f89YJGjuRmWLKlhf"
+      "duration_ms": 219666,
+      "name": "Laudano",
+      "url": "https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6"
     },
     {
       "added_at": "2023-03-17 00:44:12",

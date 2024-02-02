@@ -4,7 +4,7 @@
 
 > songs voor je playlist!
 
-330 songs - 16 hr 36 min
+332 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 | 2023-08-07 | 2024-01-07 |
 | [DNA](https://open.spotify.com/track/1CijnKFb3kqusDnNJrAJn1) | [Glen Fontein](https://open.spotify.com/artist/7oeQm1xiTWTKyq2DY42Hpq) | [DNA](https://open.spotify.com/album/4VFNlHIFWlwoknoAsJTyuu) | 2:34 | 2023-02-28 | 2023-04-19 |
 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 | 2023-05-12 | 2023-06-27 |
+| [Domino \- Sped Up](https://open.spotify.com/track/7I53PteWhM2E41k9sIjdRZ) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [Kuya Magik](https://open.spotify.com/artist/2XoYzhtOrvNdtu1NjyZsnb) | [Domino \(Sped Up\)](https://open.spotify.com/album/2iEVHzP58I3iWZypuLqHqR) | 3:17 | 2024-02-01 |  |
 | [Don't Gas Me](https://open.spotify.com/track/5OnNFaUjue55aBaKIaT63K) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [Don't Gas Me](https://open.spotify.com/album/40s9ebO3BAEye8KqbIM8tU) | 3:47 | 2023-11-14 |  |
 | [Droom Groot](https://open.spotify.com/track/4XiYnHAolrUxuRCaGLFG0R) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Droom Groot](https://open.spotify.com/album/6FflzXl74BClk23mWHzg6U) | 3:00 | 2023-08-24 |  |
 | [Drunk in Love \(Henny\)](https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Drunk in Love \(Henny\)](https://open.spotify.com/album/3AUvqkp5zza0MWlpv5OAwn) | 1:44 | 2023-03-16 | 2023-05-02 |
@@ -335,7 +336,8 @@
 | [Wil Je Weten](https://open.spotify.com/track/2Toz57Z50AtzmG1WJNynrC) | [OFFICIAL KALOUTJE](https://open.spotify.com/artist/4DelmsIXEfwweSJLOcfDQn) | [Wil Je Weten](https://open.spotify.com/album/6dms2PVjRmbmsvsU94Yu0D) | 2:33 | 2023-05-19 | 2023-07-11 |
 | [Wishes Come True](https://open.spotify.com/track/3VpY2SUf41sVpVYwLO4uyg) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Wishes Come True](https://open.spotify.com/album/0HXTNQ39atgxPSPSPmB8nP) | 2:44 | 2023-11-16 | 2023-11-30 |
 | [Yahyuppiyah \(feat\. Pcee, EeQue & Chley\)](https://open.spotify.com/track/2qp7rTcFVz67fz88JSnbkU) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [ASYLUM](https://open.spotify.com/album/27W7QteTVMhSPzBDnjODP2) | 4:56 | 2023-05-01 | 2023-05-26 |
-| [Zakelijke Crush](https://open.spotify.com/track/5LKeUnMZYtoyuonievJHTN) | [Eyah](https://open.spotify.com/artist/2dQhYDhI8IWPGbwgyqMb2E) | [Zakelijke Crush](https://open.spotify.com/album/4ICpP4qdD5pQRgasUOWeg2) | 3:11 | 2024-01-24 |  |
+| [Zakelijke Crush](https://open.spotify.com/track/3W8JPY2BajmXFaSt273oc6) | [Eyah](https://open.spotify.com/artist/2dQhYDhI8IWPGbwgyqMb2E) | [Zakelijke Crush](https://open.spotify.com/album/3TEH6FaJf2041RKyWC1kpO) | 3:11 | 2024-02-01 |  |
+| [Zakelijke Crush](https://open.spotify.com/track/5LKeUnMZYtoyuonievJHTN) | [Eyah](https://open.spotify.com/artist/2dQhYDhI8IWPGbwgyqMb2E) | [Zakelijke Crush](https://open.spotify.com/album/4ICpP4qdD5pQRgasUOWeg2) | 3:11 | 2024-01-24 | 2024-02-02 |
 | [Zij Laat Me Praten](https://open.spotify.com/track/1o2rSW6lzJgAQjTRew74hR) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Lars](https://open.spotify.com/album/43TZEM7ygBER2J582OdGWX) | 3:11 | 2023-12-07 | 2023-12-30 |
 | [Zusje](https://open.spotify.com/track/0u3QDgpEwLLgXwnQgPPnfC) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [Zusje](https://open.spotify.com/album/0SNid4vYygVVvwph9bueos) | 2:27 | 2023-05-09 | 2023-10-03 |
 

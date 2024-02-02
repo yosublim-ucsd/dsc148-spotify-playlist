@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,505 likes - 86 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,507 likes - 86 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 36 | [未来ノート](https://open.spotify.com/track/0OH9a0XlsXoEQPvd3CkeNx) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [未来ノート](https://open.spotify.com/album/5CaxVa8rlkAi9zQr4RO6lJ) | 4:25 |
 | 37 | [Chance!](https://open.spotify.com/track/5VfBsV4CGXTEoXcpKCYlbJ) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [R](https://open.spotify.com/album/4EickkApFQdwrGpgR8a7Q7) | 3:35 |
 | 38 | [ヒーローインポッシボー](https://open.spotify.com/track/3EJO9ApZrY39AWSkIeMCRU) | [花江夏樹](https://open.spotify.com/artist/6bd1YR3Ogw2OGpjydfk2TP) | [青春は残酷じゃない](https://open.spotify.com/album/0poQ2GG7EViIoWCwWaE71d) | 4:25 |
-| 39 | [ARK](https://open.spotify.com/track/0zAgwBgOPAgMqVvRbCukEP) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [＄ＨＵＦＦＬＥ](https://open.spotify.com/album/7LT9tCh3HhrcOWzK9j62l4) | 4:11 |
+| 39 | [ARK](https://open.spotify.com/track/3OX7w9gvjZ9Z3h7T3xCyqv) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [$HUFFLE](https://open.spotify.com/album/3yE9VJKvfnDCKs0xzNRHlq) | 4:11 |
 | 40 | [スーパーヒーロー](https://open.spotify.com/track/1CF2fTdiBSR6teCFkz58rh) | [となりの坂田。](https://open.spotify.com/artist/39hHIBvCe897cm5gTUp3cc) | [CRUISE TICKET](https://open.spotify.com/album/3TzgqnTRe1DcS9GOsMHgmc) | 3:52 |
 | 41 | [5 soul MATE"S"](https://open.spotify.com/track/4kxvOwxbHfOvghNYlawlEX) | [アイベヤ](https://open.spotify.com/artist/2K7SRRLUrYmq4tXW1vjQjP), [倉持洋一](https://open.spotify.com/artist/0JHqdvw8kzQJ1GM2ZkmdoX), [増子透](https://open.spotify.com/artist/5GWTevJFZlrS9I3PLjA5iY) | [TVアニメ「ダイヤのA」青心寮へようこそ!\~生ってこーぜ\~テーマソング 5 soul MATE"S"](https://open.spotify.com/album/40ndBfEupKF1OCrqdIspyS) | 3:54 |
 | 42 | [Grateful Story \- New Mix](https://open.spotify.com/track/4sict8k7NEcX1UwHSwkimg) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [O×T Complete Songs TV Anime "Ace of Diamond"](https://open.spotify.com/album/31MVKQ2l23p7ffFgLuWKao) | 4:39 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 57 | [枕男子](https://open.spotify.com/track/0lZm2bb74dls6EwTtdEjjs) | [めりぃ\(CV:花江夏樹\)](https://open.spotify.com/artist/1BMSB705CtH9G636Jjkdkx) | [枕男子](https://open.spotify.com/album/3aHyg1IqLSSkWRVLWTwag5) | 4:28 |
 | 58 | [Fukashin Ryoiki Destroyer](https://open.spotify.com/track/3kAZSfG4Y5NUxdlg1QpDYY) | [Rib](https://open.spotify.com/artist/4eO7EIigOqHaFTZD1oqK5f) | [MYLIST](https://open.spotify.com/album/6kHpapyshMJa3KcKA7KuZa) | 3:55 |
 | 59 | [Petenshi no Yuuutsu](https://open.spotify.com/track/7aY5JhCXFCwy5Di77tODbW) | [Utsuki Chikage \(CV: Wataru Hatano\)](https://open.spotify.com/artist/2mJEBOqW95SK373lnenYtj) | [A3! Vivid Spring EP](https://open.spotify.com/album/7JnNNAbW1Li5QiBMoyjb8t) | 3:07 |
-| 60 | [シンデレラステップ](https://open.spotify.com/track/6kBW41TUekIPyVkfMhYLSw) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [L∞VE](https://open.spotify.com/album/4qKM6NdUMTNFFTPPvOFhvp) | 3:40 |
+| 60 | [Cinderella Step](https://open.spotify.com/track/21oAFnYh1lT63gk8U5f4Ig) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [L∞VE](https://open.spotify.com/album/02RTnk3gvHrtNVYxefeqSb) | 3:40 |
 | 61 | [リングオブドランカー](https://open.spotify.com/track/4RsRkT4lHhC8mA9XODdRGn) | [Tetsuya Kakihara](https://open.spotify.com/artist/1p3FN7q7Hd6AaVGOgyJMku) | [Circle of LIFE](https://open.spotify.com/album/4Pfa4j6GQWOJ6WTQy47vay) | 3:26 |
 | 62 | [君じゃなきゃダメみたい](https://open.spotify.com/track/3ampsSIgy89L2INLIp3ym3) | [Tomohisa Sako](https://open.spotify.com/artist/0wqa4zlg4Ru1nVJRrOlx5B) | [キミの耳にラブソングを](https://open.spotify.com/album/7J3tNqe5P6sJQdG4dWavZs) | 4:29 |
 | 63 | [Mankai Kaika Sengen \- MANKAI STAGE SPRING Ver.](https://open.spotify.com/track/2QQ1xK0YNypz0ySeAQZDnB) | [Harugumi \(MANKAI STAGE\)](https://open.spotify.com/artist/5sL4777jRj9D4Zqs8HE2hv) | [Mankai Stage "A3!" Spring Troupe: Mankai no Sakura no Shita de](https://open.spotify.com/album/6yGNcCvrOM1v2zXCqJwW3n) | 3:48 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 76 | [名探偵キミに告ぐ](https://open.spotify.com/track/5n0H5LeVakrCSPBBPHY3kW) | [えなこ](https://open.spotify.com/artist/2jHLZmPoAmnlCswCMc8WCj) | [ドレス・レ・コード](https://open.spotify.com/album/3NBghE3iWLQfRZG4f8HkVN) | 4:02 |
 | 77 | [ぼうやの夢よ](https://open.spotify.com/track/3jX2OAfBOxRybA7t0GcdBQ) | [エミリア\(CV:高橋李依\)](https://open.spotify.com/artist/74NNqfYPIeWy9p6DTDxkcK) | [TVアニメ「Re:ゼロから始める異世界生活」後期エンディングテーマ「Stay Alive」](https://open.spotify.com/album/7BVqQT1IFgaSMxfDk4YFMu) | 3:30 |
 | 78 | [Ashita Tenki ni Naare](https://open.spotify.com/track/2gX9TP8JzHjgHFMbk0yI6O) | [Daisy×Daisy](https://open.spotify.com/artist/5wYga8lT3TNapDC8ciqarN) | [Dangerous x Dizzy x Daisy](https://open.spotify.com/album/1qm8lz6DgikAsbAOlNRYCn) | 4:51 |
-| 79 | [ベイビーミュージックライダー](https://open.spotify.com/track/6w4h0SHsBqhl3mX9gRUvhc) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK) | [EGOIST](https://open.spotify.com/album/0ipn4KbD0P64UOX7FfG97T) | 3:48 |
+| 79 | [ベイビーミュージックライダー](https://open.spotify.com/track/7uPjB9ThvZqgx3jNlFYXIf) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK) | [EGOIST](https://open.spotify.com/album/54mnSCoA0f1XncPdV8ZWI6) | 3:48 |
 | 80 | [ボーダーライン](https://open.spotify.com/track/23tAqSb0rt35fs2afloqwH) | [大石昌良](https://open.spotify.com/artist/2DCpkbmYB8FVjI0n15MdSR) | [ボーダーライン](https://open.spotify.com/album/0Dgj7OW90dReXbfCDFW3Cq) | 4:48 |
 | 81 | [Kiteretsu Poemer \- Hikigatari Ver.](https://open.spotify.com/track/7zGTy1N5etnVs7flQbF6Kg) | [大石昌良](https://open.spotify.com/artist/2DCpkbmYB8FVjI0n15MdSR) | [Kiteretsu Poemer \(Hikigatari Ver.\)](https://open.spotify.com/album/5dm4QWiyCi3UQ2uFna9G7G) | 3:08 |
 | 82 | [アンサー](https://open.spotify.com/track/0h77eDK5doDdvFKRP9GgRG) | [Sound Schedule](https://open.spotify.com/artist/6HORUWB9z2qb1Bm0q510Ww) | [Sound Schedule Live Tour “PLACE2019” LIQUIDROOM](https://open.spotify.com/album/5ZKL7tnZPYK9by71TBIOXq) | 6:26 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 85 | [Moratorium Dance Floor \- Live](https://open.spotify.com/track/6YImKwLnSElvNSeMVbWixk) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:54 |
 | 86 | [Otomodachi Film \- Live](https://open.spotify.com/track/6YMWAFs84TJWbW0zBZAhQQ) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:33 |
 
-Snapshot ID: `MCw4Mjk1Y2NmOWM1MDVmMDUyMDU5OTVmMzZlNTlmZGU1YTM4N2QxYzNi`
+Snapshot ID: `MCwyZmQxYzI2MGM3ZjQwN2VjYjhkYmMzMTE5YmZhZTRjZWZmYmFiOTg0`

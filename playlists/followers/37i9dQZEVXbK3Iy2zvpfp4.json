@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 4609,
+  "2024-02-02": 4608,
   "date_first_scraped": "2022-06-10",
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
   "name": "Viral 50 - Slovakia",
@@ -2281,7 +2281,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 156416,
       "name": "Asi to tak malo by\u0165",
       "url": "https://open.spotify.com/track/4DgyEczHepsj3KhfuXrxaC"
@@ -2731,7 +2731,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 160391,
       "name": "BACKROOMS",
       "url": "https://open.spotify.com/track/3cqX6bsRIwJ24CvKwzaIQw"
@@ -5015,7 +5015,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 182440,
       "name": "B\u00e9cane - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
@@ -9243,7 +9243,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 134471,
       "name": "ext\u00e1za",
       "url": "https://open.spotify.com/track/2zyacxcXuRUQ1owGDo2JnQ"
@@ -24171,7 +24171,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 207752,
       "name": "Pond\u011bl\u00ed a\u017e ned\u011ble - Sped Up",
       "url": "https://open.spotify.com/track/3lcCxnxPqh0Rp7vsrD7KD6"
@@ -28391,6 +28391,24 @@
       "duration_ms": 123547,
       "name": "Soak City (Do it)",
       "url": "https://open.spotify.com/track/6iiCzEd1ULpq7nXbZVQ4pi"
+    },
+    {
+      "album": {
+        "name": "Soaked",
+        "url": "https://open.spotify.com/album/3KlEcBtJhRhsqC13wbASjd"
+      },
+      "artists": [
+        {
+          "name": "Shy Smith",
+          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179449,
+      "name": "Soaked",
+      "url": "https://open.spotify.com/track/3nGIGnJd7jFZaPFdfyQLF2"
     },
     {
       "album": {

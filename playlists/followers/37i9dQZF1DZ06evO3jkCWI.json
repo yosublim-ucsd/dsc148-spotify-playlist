@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 154238,
+  "2024-02-02": 154304,
   "date_first_scraped": "2022-06-02",
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
   "name": "This Is Los Invasores De Nuevo Le\u00f3n",
@@ -421,6 +421,24 @@
       "duration_ms": 181386,
       "name": "El Preso de Nuevo Le\u00f3n",
       "url": "https://open.spotify.com/track/6wxe34W9Vy8PWwlkIy0Bf4"
+    },
+    {
+      "album": {
+        "name": "Corridos Volumen 1",
+        "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184240,
+      "name": "El Preso De Nuevo Le\u00f3n",
+      "url": "https://open.spotify.com/track/3lu45Zgfj4pRDen29QsZGx"
     },
     {
       "album": {
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 157066,
       "name": "Para Que Te Explico",
       "url": "https://open.spotify.com/track/08tHBseKFFGXzLJhJkRo20"

@@ -2,9 +2,9 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> det største dk rap lige nu 🌚
+> det største dk rap lige nu 🌚 <a href="spotify:artist:5LcNaarbF34TMSkVLE7YQc">Merro8</a> og <br/><a href="spotify:artist:2KbikmQKGiUPR2ARs1h0sq">Gilli</a> har den 🔥
 
-111 songs - 4 hr 45 min
+113 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Igen \(feat\. MAS\)](https://open.spotify.com/track/5iyWULPnXcozdzi9ODfVkL) | [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Igen \(feat\. MAS\)](https://open.spotify.com/album/37RNYLyXQb5MM4bAfwizDh) | 2:22 | 2023-11-16 | 2023-12-14 |
 | [IK FAKE LÆNGERE](https://open.spotify.com/track/0Q9d8VHYuO7SpKsOJg57z5) | [FABRÄK](https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8) | [IK FAKE LÆNGERE](https://open.spotify.com/album/6qqYkOgMSSAZd8AGO7J7ZI) | 2:38 | 2023-12-08 | 2024-01-17 |
 | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/track/4ymwixcQXSHyAY5Af4bvr8) | [Emil Stabil](https://open.spotify.com/artist/2toxhc2iSbFHWgy3VMnqR7), [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/album/3YON54IWdqFWos7oNwoiiG) | 2:34 | 2023-09-21 |  |
+| [Intet Nyt \(feat\. Gilli\)](https://open.spotify.com/track/4Bmua8zRMOEaqV45JbmhAH) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Intet Nyt \(feat\. Gilli\)](https://open.spotify.com/album/1CJ1RiMGtZkcEP5xJYJ25n) | 2:54 | 2024-02-01 |  |
 | [Je Ka Jo](https://open.spotify.com/track/0GFJI3tJuE9S3su4H8Co2G) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Je Ka Jo](https://open.spotify.com/album/29OCZ1A2FbLNBvoDrlEUf0) | 2:58 | 2023-09-29 |  |
 | [Jumeirah](https://open.spotify.com/track/38xttLsyfUwd284fbNjymm) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Jumeirah](https://open.spotify.com/album/6QlAljhTljlTtzuPEDzBCm) | 2:42 | 2023-09-21 | 2023-12-14 |
 | [K\-City \(feat\. Stepz\)](https://open.spotify.com/track/12gl0uMirrvJL9DzTgcRXR) | [EZ](https://open.spotify.com/artist/1KQsdrbzpa7RQfYq2U0ABb), [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj) | [K\-City \(feat\. Stepz\)](https://open.spotify.com/album/6DKZHaI2sj7p7rMxNnouhf) | 2:33 | 2023-09-21 | 2024-01-19 |
@@ -108,6 +109,7 @@
 | [TMAX](https://open.spotify.com/track/4ssk9gSrtDLemExleFmYeS) | [LOLO](https://open.spotify.com/artist/30G2LsTs2NCXeCbjuZYvnf) | [TMAX](https://open.spotify.com/album/0DQG2g45oPf0Zvi5gbCh0a) | 2:01 | 2023-09-21 | 2023-11-11 |
 | [Topform \(feat\. Lamin\)](https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:21 | 2023-09-21 |  |
 | [Tudo Bem \(feat\. Gilli\)](https://open.spotify.com/track/2hFdRvBjl6eWf0tPt9NYID) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Ny Sejr](https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ) | 2:10 | 2023-09-21 | 2023-12-14 |
+| [Ud Af Hovedet \(feat\. ICEKIID\)](https://open.spotify.com/track/5f4wCcBdSHI5SxlfU2cpNI) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [MELLEM HIMMEL & JORD](https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX) | 2:43 | 2024-02-01 |  |
 | [Under Radar](https://open.spotify.com/track/18jOIUboPPzwu84t9GlUKu) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [B.O.C](https://open.spotify.com/artist/2X22Hm97hQA8mFjSrn2foA) | [Under Radar](https://open.spotify.com/album/5e09iR2DufFRiMK8JmTlNu) | 3:10 | 2023-09-21 |  |
 | [USTOPPELIG](https://open.spotify.com/track/0R4tUBZQFD5PEcw2QMr2iy) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [USTOPPELIG](https://open.spotify.com/album/3WN3SEL9e7tf32zbNQWnaG) | 2:18 | 2024-01-04 | 2024-01-19 |
 | [Uwawe](https://open.spotify.com/track/3BzCCqPqIsheyW4DyLM1ut) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH) | [Uwawe](https://open.spotify.com/album/2ZVe0lGPmsM1wRI0orXPXy) | 2:19 | 2023-12-08 |  |

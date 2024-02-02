@@ -4,7 +4,7 @@
 
 > The best of Brazilian House\. Photo: Meca
 
-109 songs - 6 hr 47 min
+110 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Baby](https://open.spotify.com/track/5AiGklmXZAAKUlfNs1su49) | [Riro](https://open.spotify.com/artist/4NqnlCPDCBgLdVOY8lDark) | [Baby](https://open.spotify.com/album/3g0z38jrU0AE7aJNYniLBq) | 2:40 | 2023-10-13 |  |
 | [Back To Love](https://open.spotify.com/track/7p7W3U6Eo39Y125LYbdtyg) | [Windy City Classics](https://open.spotify.com/artist/7DHW83PorP554oWiE7pn8m), [Ale Salles](https://open.spotify.com/artist/3WUTfT3MAFhrVcvAntC3Iu), [F.Brothers](https://open.spotify.com/artist/4mDFQIBuckxntnJso2MFrP), [Leela D](https://open.spotify.com/artist/3H7Ar822wLNsiDOCXhpbQu) | [Back To Love](https://open.spotify.com/album/6x0vkrPeOWUXqRyvfDIErh) | 3:27 | 2023-07-21 |  |
 | [Back To Love \- Alex Gewer Remix](https://open.spotify.com/track/2aRoFgPAzB0xPDLXrjyGAP) | [Windy City Classics](https://open.spotify.com/artist/7DHW83PorP554oWiE7pn8m), [Ale Salles](https://open.spotify.com/artist/3WUTfT3MAFhrVcvAntC3Iu), [F.Brothers](https://open.spotify.com/artist/4mDFQIBuckxntnJso2MFrP), [Leela D](https://open.spotify.com/artist/3H7Ar822wLNsiDOCXhpbQu), [Alex Gewer](https://open.spotify.com/artist/0k8ztNiYX9wO2ZLFFqOSBH) | [Back To Love](https://open.spotify.com/album/7HV0plDgfHVjXopEwYDIeM) | 3:33 | 2023-08-04 | 2023-10-07 |
-| [Bad Boy](https://open.spotify.com/track/0Cyy5IEypFjBhVOyBOLZuF) | [Low Disco](https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx) | [Bad Boy](https://open.spotify.com/album/21QkoaGK1l2eEHI7y1SEc0) | 2:59 | 2023-07-21 |  |
+| [Bad Boy](https://open.spotify.com/track/0Cyy5IEypFjBhVOyBOLZuF) | [Low Disco](https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx) | [Bad Boy](https://open.spotify.com/album/21QkoaGK1l2eEHI7y1SEc0) | 2:59 | 2023-07-21 | 2024-02-02 |
+| [Bad Boy](https://open.spotify.com/track/2DLJhXDtedEVkqOerPaxui) | [Low Disco](https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx) | [Bad Boy](https://open.spotify.com/album/2TIkT9PtrvA22Mu4u5HPuw) | 2:59 | 2024-01-26 |  |
 | [Bad Intention](https://open.spotify.com/track/145YdK7lQGBkjugrN1oxpj) | [Pirate Snake](https://open.spotify.com/artist/6GC33IJFo0PDw5bsazEzpj), [3Beat](https://open.spotify.com/artist/6GygHIe8zmVX42gMgFQ3z8) | [Bad Intention](https://open.spotify.com/album/5IZv5Udw5vuqezSe87X0zG) | 2:50 | 2023-07-21 |  |
 | [Banho de Folhas \- Maz Remix](https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Banho de Folhas \(Maz Remix\)](https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O) | 3:35 | 2023-07-21 |  |
 | [Berlim \- Extended](https://open.spotify.com/track/3mag46vtAWm1gj3cdqab8g) | [Loudtech](https://open.spotify.com/artist/2oGd93cmIbD559RjQHpLhr) | [Berlim \(Extended\)](https://open.spotify.com/album/7lXsBRHRG4WncHsEXVzSI8) | 4:26 | 2023-11-10 |  |

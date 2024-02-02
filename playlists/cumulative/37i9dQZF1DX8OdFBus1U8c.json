@@ -1023,6 +1023,28 @@
     },
     {
       "album": {
+        "name": "Kaavalino?",
+        "url": "https://open.spotify.com/album/7IyuRS8ThskiE9cddnCmzp"
+      },
+      "artists": [
+        {
+          "name": "Anohnymouss",
+          "url": "https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT"
+        },
+        {
+          "name": "Soultrip Beats",
+          "url": "https://open.spotify.com/artist/05wCNPP0MOxwaGgIYKZGm7"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136015,
+      "name": "Kaavalino?",
+      "url": "https://open.spotify.com/track/2YqGnNIC2w1nXuv5PtPpd5"
+    },
+    {
+      "album": {
         "name": "KAAYI",
         "url": "https://open.spotify.com/album/6MGV4xLMxk0PcOyCGBmNR2"
       },

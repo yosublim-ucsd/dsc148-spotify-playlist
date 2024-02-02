@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-486 songs - 18 hr 41 min
+487 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [little birds](https://open.spotify.com/track/6qMSOAQMtABP9GALEsR1ZB) | [tawnbei](https://open.spotify.com/artist/2Np0o8All4XesC4ZMGufqI) | [Odyssey](https://open.spotify.com/album/2EnpRqNGTj9GYD76Z1AHjH) | 1:29 | 2022-08-19 | 2022-10-14 |
 | [Little Talks](https://open.spotify.com/track/0H71QVwrAWvUJZLvF1oDFX) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Little Talks](https://open.spotify.com/album/7fPL7gS9hiirN9U7u8Z8EN) | 2:20 | 2022-07-08 | 2022-09-23 |
 | [Lo Vibez](https://open.spotify.com/track/77zMfejQSnOnkf5iIP1gKP) | [d'Andy](https://open.spotify.com/artist/6OBQW4uISzDYrUR5dEYhkb) | [Lo Vibez](https://open.spotify.com/album/2VcN1RUvnFaGZcVdL9JRVg) | 1:47 | 2022-12-09 |  |
-| [Lo\-Fi Disco](https://open.spotify.com/track/2julBmkb51MrSa4jjW5ghK) | [Fuchsia Farro](https://open.spotify.com/artist/7b4QcBY9Rb12Lp8hse7Jtr) | [Color Of My Dreams](https://open.spotify.com/album/4Fx26dD3bFwmTXQbXJE9Ij) | 1:46 | 2022-06-17 |  |
+| [Lo\-Fi Disco](https://open.spotify.com/track/2julBmkb51MrSa4jjW5ghK) | [Fuchsia Farro](https://open.spotify.com/artist/7b4QcBY9Rb12Lp8hse7Jtr) | [Color Of My Dreams](https://open.spotify.com/album/4Fx26dD3bFwmTXQbXJE9Ij) | 1:46 | 2022-06-17 | 2024-02-02 |
 | [Locked In](https://open.spotify.com/track/1j8zVhwVap4GxbsmC5tgsZ) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [Locked In](https://open.spotify.com/album/6se5oHfh9hQ6PQ1Y1BJRID) | 2:12 | 2023-02-07 |  |
 | [lofi jam](https://open.spotify.com/track/7HQmkAioOUG8ZxPkfcEw5p) | [dave.](https://open.spotify.com/artist/17R10v2unr1DGfF0cDg7OE) | [lofi jam](https://open.spotify.com/album/6dsQvoFTSMBp7e3rwyzWf6) | 2:19 | 2021-12-07 | 2022-11-26 |
 | [Lofi love](https://open.spotify.com/track/4WrzPaoDS5vtaMuzQ53ffb) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [Mario Lopez](https://open.spotify.com/album/7d8M8gyeUImR6rm9YkwO3V) | 1:36 | 2022-04-15 |  |
@@ -312,6 +312,7 @@
 | [need a vacation?](https://open.spotify.com/track/1sHID1bINevTLGNkvfLQfC) | [kobicha](https://open.spotify.com/artist/4nJ6L5ADQdv6cZHXcvsRNd) | [need a vacation?](https://open.spotify.com/album/5xadz5QNEgrbOSKCje5wSf) | 2:08 | 2022-05-20 |  |
 | [new trees](https://open.spotify.com/track/79ZXRpT88I9x2SvsRCLe4S) | [vibe academy](https://open.spotify.com/artist/1QIlKfgGmOpQRigjy2CyPN) | [frozen grapes](https://open.spotify.com/album/1lGfubsWe9ThyEZUC3wDVz) | 1:50 | 2021-12-07 | 2022-09-17 |
 | [Night Light](https://open.spotify.com/track/2U6vFampiXQZtmOhNXz7dp) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [Night Light](https://open.spotify.com/album/2JEp433mqNZaTYe6R0D1AY) | 2:09 | 2022-03-21 |  |
+| [night ride](https://open.spotify.com/track/2d8PTn9Lk8Tvtlg3DpaYNX) | [dreamholder](https://open.spotify.com/artist/56kFTj4pDl6KHDi1J352pS) | [night ride](https://open.spotify.com/album/3AKKiKEd5M00WXyYzEUplF) | 2:28 | 2024-02-02 |  |
 | [Night Sky](https://open.spotify.com/track/51GyLiaxkMlEyRlfhOccli) | [Tyler.l](https://open.spotify.com/artist/4k4EIaXDU8iKDBMRhrV6Ic), [feelith.](https://open.spotify.com/artist/23JZkdnZR2pUnSc7e9bFGs) | [Night Sky](https://open.spotify.com/album/44BPW4slpKDeXbGHA10r8m) | 3:13 | 2022-06-24 | 2022-09-17 |
 | [Night Swirl](https://open.spotify.com/track/1hKL9vfXRRq9hGQRzjyB5d) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [Night Swirl](https://open.spotify.com/album/5AjsY9zY5GVzTEg6PlNOJ3) | 2:18 | 2023-08-31 |  |
 | [Nightingale](https://open.spotify.com/track/6tQpVsbFEkjg3kEAdO5ASH) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Nightingale](https://open.spotify.com/album/4leEHF6m89G1SStxfVdbyY) | 2:24 | 2022-07-01 | 2023-09-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Lil Vi
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,526 likes - 76 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,533 likes - 76 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 75 | [GLORD](https://open.spotify.com/track/7bwDy9YugqXLSkhpTB4MB1) | [Rudies Flacko](https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o) | [SHH](https://open.spotify.com/album/6NhKR6U35pR28qAVdXTQi3) | 1:18 |
 | 76 | [Toca Na Corrente](https://open.spotify.com/track/3HT7gQgtndBm0GKQdAIGIq) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Bem Vindo Natal Mixtape 2](https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr) | 2:09 |
 
-Snapshot ID: `MCw4MGJkMTlmNDI1ODQ0ODQ2MTI0Zjg3OWU1OTA3OWI0Y2RjMmNiMWRk`
+Snapshot ID: `MCwzMTMyMmQ3ZjVhNWRmMTdkOTA1NzhhMDk0ZDk2ZDllMzk1OTYwYjE0`

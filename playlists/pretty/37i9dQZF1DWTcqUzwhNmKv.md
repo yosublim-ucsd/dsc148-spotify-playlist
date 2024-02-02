@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Bad Omens x Poppy on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,472,452 likes - 76 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,472,748 likes - 76 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 75 | [Faking It](https://open.spotify.com/track/4yRqoKU4KlQIYlVFP4MiuJ) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [The Weight Of The Mask](https://open.spotify.com/album/70UeEiNvvXyBNF9QMQnZre) | 5:28 |
 | 76 | [Perpetual Terminal](https://open.spotify.com/track/0fcEV5CPc7QFD50pY4JhAs) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Perpetual Terminal](https://open.spotify.com/album/4CPpslrtV51rQzvjGG98fd) | 5:47 |
 
-Snapshot ID: `MCwxNmY3ZjM0YWFmZDJhY2EwODEwNjVlYTdkNWU2NTA3NTg0YTdlZDhm`
+Snapshot ID: `MCxmN2YzMTlhNzNhNjgxYzkwOTg4YzAwNThhOWU3ZWI5ZTdiZTVjNjU0`

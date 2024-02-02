@@ -640,7 +640,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 238473,
       "name": "Bequest",
       "url": "https://open.spotify.com/track/03Hyfti0W36eu4oHZUwrte"
@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "North Wind",
+        "url": "https://open.spotify.com/album/3rZWy0ccyoMV2uUyNnXW9k"
+      },
+      "artists": [
+        {
+          "name": "Spencer Burton",
+          "url": "https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256517,
+      "name": "Coyote",
+      "url": "https://open.spotify.com/track/4XvkVnSQOyLFgE4iu9w62g"
+    },
+    {
+      "album": {
         "name": "Crucified",
         "url": "https://open.spotify.com/album/1LJqHpDylPidxHHunS58Se"
       },
@@ -2358,7 +2376,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 184785,
       "name": "Fighting Like Hell to Be Free",
       "url": "https://open.spotify.com/track/6Mg4YqzbhRu0HeoWFSrCNQ"
@@ -6364,7 +6382,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 242484,
       "name": "This Distance",
       "url": "https://open.spotify.com/track/2BqSw3roc6RFuwoVAw9aud"

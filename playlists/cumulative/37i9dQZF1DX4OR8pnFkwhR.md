@@ -2,7 +2,7 @@
 
 ### [RADAR: Early Noise 2024](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> Spotifyが2024年に躍進を期待する次世代アーティスト「RADAR: Early Noise 2024」10組のアーティストを発表！！ Cover: 離婚伝説/＊<a href="https://spotify\-earlynoise.jp/">2024.3.15 Early Noise Night\#16開催決定！</a>
+> Spotifyが2024年に躍進を期待する次世代アーティスト「RADAR: Early Noise 2024」10組のアーティストを発表！！ <a href="https://spotify\-earlynoise.jp/">Early Noise Night\#16\(TOKYO\)</a>も3.15に開催決定！
 
 1,361 songs - 3 day 10 hr 53 min
 

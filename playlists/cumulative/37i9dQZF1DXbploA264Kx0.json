@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Andr",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Mong Tong",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 161095,
       "name": "About You",
       "url": "https://open.spotify.com/track/4BqlTz6a3BSQtuOgw58iyT"
+    },
+    {
+      "album": {
+        "name": "All Right",
+        "url": "https://open.spotify.com/album/7n7zEjg2Q4L666oluUD95F"
+      },
+      "artists": [
+        {
+          "name": "Hurshel",
+          "url": "https://open.spotify.com/artist/6z6uBfaMCKFCDIuHNYhRra"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188750,
+      "name": "All Right",
+      "url": "https://open.spotify.com/track/6QisFwVX3ub7juPflH7638"
     },
     {
       "album": {
@@ -172,7 +190,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 196743,
       "name": "Everything I'll Ever Need",
       "url": "https://open.spotify.com/track/1LNuTFBRjXPh9HqS6Nevv5"
@@ -785,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Terracotta",
+        "url": "https://open.spotify.com/album/5SkfmA6JHn14iV0vxtOtpb"
+      },
+      "artists": [
+        {
+          "name": "Mong Tong",
+          "url": "https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Terracotta",
+      "url": "https://open.spotify.com/track/3yycg2Wzo2Rv3t4nTdQiq8"
+    },
+    {
+      "album": {
         "name": "The Regionals: Taipei (feat. NICKTHEREAL, Karencici, Julia Wu, Kumachan)",
         "url": "https://open.spotify.com/album/5QTKfxYNGFJGIoaNpCSF8y"
       },
@@ -1010,7 +1046,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 153160,
       "name": "\u5bff\u53f8 Sushi ft. Gummy Bear Man",
       "url": "https://open.spotify.com/track/2bhBZr4ge9L826CcYTXP4y"

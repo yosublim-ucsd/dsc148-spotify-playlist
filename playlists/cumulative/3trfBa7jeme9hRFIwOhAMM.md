@@ -4,7 +4,7 @@
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-135 songs - 6 hr 38 min
+136 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Greedy](https://open.spotify.com/track/2CARgZ6KasNjGxIktGc9tP) | [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY) | [Greedy](https://open.spotify.com/album/6Fprb6xp0vBAETSqwWm3SX) | 2:03 | 2024-01-13 | 2024-01-23 |
 | [Here With Me](https://open.spotify.com/track/5WkJkW64ThQsfQ2tfaLcZ3) | [Noola](https://open.spotify.com/artist/5K7fwqqwElpjvTGk9rBetG) | [Here With Me](https://open.spotify.com/album/1ef49F2Q341KHNUFOehNGd) | 3:25 | 2023-06-30 |  |
 | [I Can't Stop](https://open.spotify.com/track/10n8wwk6hxEtDdP7Yfy4i3) | [Litchi](https://open.spotify.com/artist/2GotY6Cs3fOrQMyqDNVdKR), [Atlantis](https://open.spotify.com/artist/66CpjqdkIFtJqfDjs6ic6u) | [I Can't Stop](https://open.spotify.com/album/2YE6hr41q8rt02msCOKEXM) | 3:17 | 2023-07-14 | 2023-08-28 |
+| [I Don't Wanna Rush](https://open.spotify.com/track/3cJLvOe20mubVRkWEpgN9G) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [I Don't Wanna Rush](https://open.spotify.com/album/2z5b9JPx8u2UMzJXXV131T) | 3:04 | 2024-02-02 |  |
 | [I'll Stay With You](https://open.spotify.com/track/5tc1WMHKFiGA7qmhTXA3Jx) | [Larce](https://open.spotify.com/artist/7F0426slXf5O20phfCvcoX), [Xander Jones](https://open.spotify.com/artist/1CzF2XvSpgqgAJWXg6dZQK) | [I'll Stay With You](https://open.spotify.com/album/0hcOFJF72M5lPjJXc52bdw) | 2:29 | 2023-07-14 | 2023-07-29 |
 | [In My Hands \(with Camden Cox\)](https://open.spotify.com/track/5tQBXtnSjBN6ohQYLCxBlX) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [In My Hands \(with Camden Cox\)](https://open.spotify.com/album/0dVvNRierRGIDIJcLabobW) | 3:40 | 2023-09-20 | 2023-12-14 |
 | [In The Way](https://open.spotify.com/track/34UZKbpMZJjipetUfiQ0Dk) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [In The Way](https://open.spotify.com/album/6DJimTcE577JgLsRT1Xnvx) | 3:08 | 2023-07-11 | 2023-07-21 |

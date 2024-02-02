@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 141276,
+  "2024-02-02": 141565,
   "date_first_scraped": "2022-05-11",
   "description": "Gazing at pedals, soaring celestially high. Cover: Wisp",
   "name": "Shoegaze Now",
@@ -5899,6 +5899,24 @@
       "duration_ms": 206974,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/2BEqWfZNSG8LF2YOXzcdW6"
+    },
+    {
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/6i5AzWynjnUCWj4C2NmAXw"
+      },
+      "artists": [
+        {
+          "name": "Luster",
+          "url": "https://open.spotify.com/artist/0IqC2A5HTnTIKzqcFXJQms"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270562,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/4mJz9boLlkYuZFue3Kn6gs"
     },
     {
       "album": {

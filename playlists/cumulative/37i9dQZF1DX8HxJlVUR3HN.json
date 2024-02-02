@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Oakman",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Stuck in the Sound",
   "name": "VOLUME FRANCE",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 221604,
       "name": "Accidents",
       "url": "https://open.spotify.com/track/3IiyRusvy9yOh2uuDsG1Ai"
+    },
+    {
+      "album": {
+        "name": "The Ethereal Beauty",
+        "url": "https://open.spotify.com/album/1cJNcIoEZmIWDQHfO7N3b9"
+      },
+      "artists": [
+        {
+          "name": "Holydanger",
+          "url": "https://open.spotify.com/artist/0DFV3qOyMWdIbKTbHbEqFh"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233520,
+      "name": "Acting Real Nice",
+      "url": "https://open.spotify.com/track/0OVxgI1b8dhbA0NK5m6DWv"
     },
     {
       "album": {
@@ -506,7 +524,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 212250,
       "name": "Comfort Zone",
       "url": "https://open.spotify.com/track/4meJcWnZIsYL5CDpamJH0D"
@@ -1018,6 +1036,24 @@
       "duration_ms": 243612,
       "name": "It Only Bothers You",
       "url": "https://open.spotify.com/track/69MwqSM07rdnCA89MNxzdL"
+    },
+    {
+      "album": {
+        "name": "It's Gonna Be Alright",
+        "url": "https://open.spotify.com/album/4hgCmtgWCyXZHDggCKetE4"
+      },
+      "artists": [
+        {
+          "name": "Edg\u00e4r",
+          "url": "https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185800,
+      "name": "It's Gonna Be Alright",
+      "url": "https://open.spotify.com/track/1adglBbuQQaCbUORdvYjdZ"
     },
     {
       "album": {
@@ -1777,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "16 Dreams a Minute",
+        "url": "https://open.spotify.com/album/1485FZSX7HEo5vwK1KHk8c"
+      },
+      "artists": [
+        {
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198280,
+      "name": "Sonora",
+      "url": "https://open.spotify.com/track/7ndufWPCrZze2WkkRYRwNr"
+    },
+    {
+      "album": {
         "name": "Spin",
         "url": "https://open.spotify.com/album/3sx15DWfaOrDxTEyzAUHCO"
       },
@@ -2138,7 +2192,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 169880,
       "name": "Time",
       "url": "https://open.spotify.com/track/2w3KEeb54tgFgeMtB5HHgy"
@@ -2174,7 +2228,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 214918,
       "name": "To Be Enjoyed",
       "url": "https://open.spotify.com/track/7JGYcK2UQMqDnBg7Gt4Xv9"
@@ -2264,7 +2318,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 218388,
       "name": "Vale",
       "url": "https://open.spotify.com/track/2ITl12Jmlz6tvss8AxuXXz"
@@ -2344,6 +2398,24 @@
     {
       "album": {
         "name": "Gravity",
+        "url": "https://open.spotify.com/album/1SZsF5jCAYkm20OHRjhScl"
+      },
+      "artists": [
+        {
+          "name": "Spin Twice",
+          "url": "https://open.spotify.com/artist/4EIIaGs9qalNWfNNt1lo8d"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223124,
+      "name": "What's Wrong With Me",
+      "url": "https://open.spotify.com/track/1u3Bj7UCVMHaqbnmmpPmsX"
+    },
+    {
+      "album": {
+        "name": "Gravity",
         "url": "https://open.spotify.com/album/1uSQX0L4eOveqyskx0Sxf1"
       },
       "artists": [
@@ -2354,7 +2426,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 223124,
       "name": "What's Wrong With Me",
       "url": "https://open.spotify.com/track/4dHwcAWP1v64KaguYQ1fsc"

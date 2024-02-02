@@ -2,11 +2,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 ### [RADAR Podcasters Brasil](https://open.spotify.com/playlist/37i9dQZF1DXdWgffwYAtHM)
 
-> Podcasts que você precisa ter no RADAR\. Capa: <a href="spotify:show:6yTHTc5kaZj85vstsFV7GP">fiz o que pude ¯\\\_\(ツ\)\_/¯</a>
+> Podcasts que você precisa ter no RADAR\. Capa: <a href="spotify:show:6bSPrd8qTvWFk6e2NtZBbR">Assustador, Bizarro e Misterioso</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 877 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 894 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCw5MTA5NDg4ZmRkYTkzODEwMTE4OTgxN2Y3MjU2ZjhmMzc1YTQwNWUy`
+Snapshot ID: `MCw1YzIyMzg0NzU0ZWU0ZGUzYTY0YjZiZDdkODQxMDVjZDdjNGY4MTJi`

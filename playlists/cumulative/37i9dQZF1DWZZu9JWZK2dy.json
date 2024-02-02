@@ -716,10 +716,28 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 241506,
       "name": "JOINT",
       "url": "https://open.spotify.com/track/0VRn529V2PuyZ9HTbd5sy9"
+    },
+    {
+      "album": {
+        "name": "SAVIA",
+        "url": "https://open.spotify.com/album/7fIMsVvuT3qjRVLOwG4izc"
+      },
+      "artists": [
+        {
+          "name": "\u5ddd\u7530\u307e\u307f",
+          "url": "https://open.spotify.com/artist/5MqHx3rECV1BvBBFG3L508"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241506,
+      "name": "JOINT",
+      "url": "https://open.spotify.com/track/4Tfao8rUHTsmE1chDISzk9"
     },
     {
       "album": {
@@ -851,6 +869,24 @@
     },
     {
       "album": {
+        "name": "infinite synthesis",
+        "url": "https://open.spotify.com/album/5f2knLyWyxEl9wtnVNZe8X"
+      },
+      "artists": [
+        {
+          "name": "fripSide",
+          "url": "https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254080,
+      "name": "only my railgun",
+      "url": "https://open.spotify.com/track/27jIhWkbbjRBaLKeFF5vHN"
+    },
+    {
+      "album": {
         "name": "only my railgun",
         "url": "https://open.spotify.com/album/6oxGBR7M0cQ3IhQMJrMRVl"
       },
@@ -862,7 +898,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 257093,
       "name": "only my railgun",
       "url": "https://open.spotify.com/track/0djCH6HbCN3cFzNkKd46yv"

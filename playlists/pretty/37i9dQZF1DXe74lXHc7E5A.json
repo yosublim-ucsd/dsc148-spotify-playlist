@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Skepta",
-  "num_followers": 24218,
+  "num_followers": 24248,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzJlZjZkMTUwZmU0MmI1NDNmMWRhYTA5YTUwMDI2ZmJkNjQ2OTk1",
+  "snapshot_id": "MCxjMmEwMDgzNjRiY2QwNTZiNTVmNmQzZjBiZjljMDc2ODMyOTAxMWJi",
   "tracks": [
     {
       "added_at": "2024-01-26 00:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "bread & butter",
-      "url": "https://open.spotify.com/track/7IqsNN0EMckx9YqddgXlwg"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
         "name": "Adrenalean",
         "url": "https://open.spotify.com/album/6UQtl3xS1bK5lpotk4p9xn"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 132743,
       "name": "Adrenalean",
       "url": "https://open.spotify.com/track/0klIln517VMntb0BAesVuR"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "bread & butter",
+      "url": "https://open.spotify.com/track/7IqsNN0EMckx9YqddgXlwg"
     },
     {
       "added_at": "2024-01-26 00:01:00",

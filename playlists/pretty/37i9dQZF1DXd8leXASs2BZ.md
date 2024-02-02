@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 炒炒
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,799 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,812 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 8 | [Wasurenaide](https://open.spotify.com/track/3belJRGyvPLYgiCSXSpqO8) | [Shootz](https://open.spotify.com/artist/0gSHX4GAlRtZJ1tJhBv0SD), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [Wasurenaide](https://open.spotify.com/album/6hHfnpyuiYY1ZiP48U6HwI) | 4:13 |
 | 9 | [4 season](https://open.spotify.com/track/4MOMvm7jaxomexOj6GsUep) | [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG), [Campanella](https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ) | [4 season](https://open.spotify.com/album/5yV9fUvWMOgnjlEwyzOZeR) | 4:27 |
 | 10 | [Roar system](https://open.spotify.com/track/69ELkRb5OY5eIOrLqkQQWn) | [L.O.S.T](https://open.spotify.com/artist/1myOg2DWby1xHMKHDKRFPV) | [Youth After The Loss I](https://open.spotify.com/album/5HZQ3QkoyiroMYeWxYXpoy) | 2:39 |
-| 11 | [9](https://open.spotify.com/track/6pY42vhU4JWOkBTJvpndrY) | [IR](https://open.spotify.com/artist/0rGVRHYxdlIBwdcrHLusJ1), [Foux](https://open.spotify.com/artist/4z8fe4lPDIMVz7vzLRjmZl) | [NEVER ENOUGH](https://open.spotify.com/album/4SZS9RZ90ANoMUCMUcuICm) | 2:11 |
+| 11 | [9](https://open.spotify.com/track/6pY42vhU4JWOkBTJvpndrY) | [IR](https://open.spotify.com/artist/0rGVRHYxdlIBwdcrHLusJ1), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [NEVER ENOUGH](https://open.spotify.com/album/4SZS9RZ90ANoMUCMUcuICm) | 2:11 |
 | 12 | [YOUNG STAR](https://open.spotify.com/track/3nEqGsw6zXb8v0SG2sdqMA) | [STACK THE PINK](https://open.spotify.com/artist/3NoSLTyqIc9Zonh4V7JtXt), [JETG](https://open.spotify.com/artist/6FaSoiqFCltldCA2mhk5cr) | [YOUNG STAR](https://open.spotify.com/album/78Xf36i1GMgGGw3sBgGNA4) | 2:31 |
 | 13 | [Scarlet](https://open.spotify.com/track/7tb84qAWR15yAfVAyvCZRJ) | [AssToro](https://open.spotify.com/artist/1XVnuN1WPe1VMw78MuYeic), [Cheshire Yums](https://open.spotify.com/artist/5s0GruaCwZPkYWVQQH2DrD) | [DuskAlwaysWithU](https://open.spotify.com/album/6ViwVwDlteRNlk7tnkz3QV) | 2:24 |
 | 14 | [Lovers & Friends](https://open.spotify.com/track/6YghSDBOpbzqFj7PymW93D) | [Ym3boi](https://open.spotify.com/artist/200hgruptiem9UnOCoU2fg) | [Lovers & Friends](https://open.spotify.com/album/2DD1Xy3CjEcsepJEBStfGg) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [YAKINIKU, SUSHI](https://open.spotify.com/track/0HKwHQxyzVL3IWmn9reSgw) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [18stop](https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF) | [PLAY PURE 3](https://open.spotify.com/album/0Ae1o6q05ZzP47z7bW2UXZ) | 3:02 |
 | 100 | [Care free](https://open.spotify.com/track/7fAg5vKDq5jBOBpAoYExV6) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [XF MENEW](https://open.spotify.com/artist/3YF6gmNp1tjvTJp4MkLoWH) | [Care free](https://open.spotify.com/album/0DsApSEvCkKXGQom5mqKJ0) | 2:44 |
 
-Snapshot ID: `MCw0Zjc3NTc3MDViNzg5YjExMzVhNTMwMDhlMTc1NjljNjk3ZWU0MGZl`
+Snapshot ID: `MCxjOGM2NGYyN2YyN2VjZTlhZjlkN2Q1Y2FiZmM5OWU0ZjYwNjg0NThk`

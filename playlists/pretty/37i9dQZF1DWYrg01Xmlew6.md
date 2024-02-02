@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Nicola Siciliano in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,599 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,674 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 49 | [SUD ITALIAN DREAM](https://open.spotify.com/track/35woYksQFAx5OhYKzNXxRy) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3) | [SUD ITALIAN DREAM](https://open.spotify.com/album/4pGk4pX9muBUKwki6JnBut) | 3:06 |
 | 50 | [Leale e Infame](https://open.spotify.com/track/47eglSPfqHvnA4O3L9O5g2) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn) | [Leale e Infame](https://open.spotify.com/album/7ihxGS8fgircOQzGLQvtWV) | 2:24 |
 
-Snapshot ID: `MCwyY2VhNWUzNzVmOTI3NWJhZjMyYzdjODUxYjljZWY0NWFkZjBmMDQ4`
+Snapshot ID: `MCxkYzAyYTM5NjJiOTRjZDlkMmJiNGQ4MGM4OTVlNjYxMjE0ZGUwOTAz`

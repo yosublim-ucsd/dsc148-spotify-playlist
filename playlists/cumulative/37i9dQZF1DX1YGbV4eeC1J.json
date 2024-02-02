@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "Exceptionally vivid Swahili love stories for you and yours. Cover: Otile Brown & Rayvanny",
+  "description": "Exceptionally vivid Swahili love stories for you and yours. Cover: Mocco Genius",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -139,6 +139,28 @@
     },
     {
       "album": {
+        "name": "Angel & Demon",
+        "url": "https://open.spotify.com/album/2lP03gWGjSZvi5QqADbDY3"
+      },
+      "artists": [
+        {
+          "name": "Kivumbi King",
+          "url": "https://open.spotify.com/artist/3HUSbkQozU4gXUD82jAbRv"
+        },
+        {
+          "name": "Nviiri The Storyteller",
+          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173663,
+      "name": "Angel & Demon",
+      "url": "https://open.spotify.com/track/1qc2kAS8FbSUpA6p9Iqy3G"
+    },
+    {
+      "album": {
         "name": "Asali",
         "url": "https://open.spotify.com/album/1949QLHsnthywLL5n79tAz"
       },
@@ -198,6 +220,24 @@
       "duration_ms": 220408,
       "name": "Away",
       "url": "https://open.spotify.com/track/6l8LEBdIrPF57T4VZkQs3i"
+    },
+    {
+      "album": {
+        "name": "Bado",
+        "url": "https://open.spotify.com/album/2L9Ap65owutg0v7TKoOhIV"
+      },
+      "artists": [
+        {
+          "name": "killy",
+          "url": "https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214273,
+      "name": "Bado",
+      "url": "https://open.spotify.com/track/74buPdQW7Xy39ryorpOaWC"
     },
     {
       "album": {
@@ -543,6 +583,24 @@
     },
     {
       "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/6gOMG3WCRF3mZIum5TwMft"
+      },
+      "artists": [
+        {
+          "name": "Mocco Genius",
+          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201809,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/7umhIhajaZPJumJCR6u5Nt"
+    },
+    {
+      "album": {
         "name": "Hoi",
         "url": "https://open.spotify.com/album/2bzN3eovanDiVHhnW9afer"
       },
@@ -616,7 +674,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 248041,
       "name": "I Miss You (feat. Zuchu)",
       "url": "https://open.spotify.com/track/48jlHKY7uwSlqsTf1dnhsw"
@@ -1226,7 +1284,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 185242,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/0bk32GtgvGAgaShB0Hj5oV"
@@ -1418,7 +1476,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 223448,
       "name": "My Sugar (feat. Nadia Mukami)",
       "url": "https://open.spotify.com/track/5R26Xm8yAEf8mcHlaq8CYL"
@@ -1502,6 +1560,24 @@
       "duration_ms": 295285,
       "name": "Nakufa",
       "url": "https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3"
+    },
+    {
+      "album": {
+        "name": "Nakupenda",
+        "url": "https://open.spotify.com/album/1qQYwu5T9b3Vpfb9vwCnnf"
+      },
+      "artists": [
+        {
+          "name": "Beka Flavour",
+          "url": "https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219900,
+      "name": "Nakupenda",
+      "url": "https://open.spotify.com/track/4nqbJTJRxLQQnh5TxqFiaM"
     },
     {
       "album": {
@@ -1664,7 +1740,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 264122,
       "name": "Nenda Lote",
       "url": "https://open.spotify.com/track/66UNdqwxnjpfQdu3cD0lk5"

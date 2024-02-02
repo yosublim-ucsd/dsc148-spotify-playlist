@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 369419,
+  "2024-02-02": 369468,
   "date_first_scraped": "2023-06-18",
   "description": "The best new songs of the week! Cover: Kobie Dee",
   "name": "New Music Friday AU & NZ",
@@ -30148,24 +30148,20 @@
     },
     {
       "album": {
-        "name": "Miasma",
+        "name": "Miasma (feat. Winston McCall)",
         "url": "https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL"
       },
       "artists": [
         {
           "name": "Northlane",
           "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
-        },
-        {
-          "name": "Winston McCall",
-          "url": "https://open.spotify.com/artist/5SbE63j8ykElvWk3EZEmrx"
         }
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 258153,
-      "name": "Miasma",
+      "name": "Miasma (feat. Winston McCall)",
       "url": "https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG"
     },
     {

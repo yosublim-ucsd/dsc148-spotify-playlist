@@ -1401,6 +1401,24 @@
     },
     {
       "album": {
+        "name": "Wirang",
+        "url": "https://open.spotify.com/album/1OdvMWMKFQGzLJ92gU8Atc"
+      },
+      "artists": [
+        {
+          "name": "Guyon Waton",
+          "url": "https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294291,
+      "name": "Wirang",
+      "url": "https://open.spotify.com/track/2cNjYBMsuNELj4oJjYr0bg"
+    },
+    {
+      "album": {
         "name": "Yowes Modaro",
         "url": "https://open.spotify.com/album/01bzVLH7VeX5g4h03DMMAW"
       },

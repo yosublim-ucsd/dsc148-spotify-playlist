@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 
 > Positive and uplifting ambient instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,016 likes - 200 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,978 likes - 200 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 | 82 | [Walk with me](https://open.spotify.com/track/4NsbW7fe1W13OJ6Gxui1Mv) | [Times Are Changin'](https://open.spotify.com/artist/3rwP6QhyrzsIYFUeqy8HCK) | [Walk with me](https://open.spotify.com/album/09FhXMfmg2YIi01Z1QQQc3) | 2:28 |
 | 83 | [Beginnings](https://open.spotify.com/track/02NddgoemFd0ImJLtl2SAy) | [Bon Bruit](https://open.spotify.com/artist/0coLWs3rGDAnTiOPloePue) | [Beginnings](https://open.spotify.com/album/4aDQKCP3xdm9mWv5bWEjxk) | 3:19 |
 | 84 | [Duymak](https://open.spotify.com/track/35rthgtOnBYjnrwG7lsVnd) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Duymak](https://open.spotify.com/album/1F8inMXEvRBHxVcbQWxEPx) | 2:58 |
-| 85 | [The Land Untouched](https://open.spotify.com/track/76m4OZPd4JPBzPELtXeBwz) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [The Pilgrimage Series: Departure](https://open.spotify.com/album/5bX3B8XiOHrmOlq33D2iTG) | 4:00 |
+| 85 | [The Land Untouched](https://open.spotify.com/track/5dr26IQ3AnEHHD7pw8DS1E) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [The Pilgrimage Series](https://open.spotify.com/album/5mWcOaY3p9iMKPUKfxDrLt) | 4:00 |
 | 86 | [Open Fields](https://open.spotify.com/track/24CJS73HBvYtVguUZBnyAn) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Open Fields](https://open.spotify.com/album/6AUdvWLCptSVA1g8k7tMKD) | 3:03 |
 | 87 | [How Your Heart Sings](https://open.spotify.com/track/2aCsZCeT8P9MULklOrNHJH) | [Made Of Gold](https://open.spotify.com/artist/1ilmmDuqRKxhOkqBZTtqNH) | [Lighthouse](https://open.spotify.com/album/0TdaNHlOAybJQHT6IbKA8z) | 3:46 |
 | 88 | [Fluctuating Current](https://open.spotify.com/track/4RVLtTncdB9vY6Qo3ldP5f) | [Sci\-Boy](https://open.spotify.com/artist/7zeiybXwQMwCY6mlYbLwE0) | [Fluctuating Current](https://open.spotify.com/album/5dU7FPAazuKy2Zt7C7ZslO) | 3:20 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 | 199 | [Coda](https://open.spotify.com/track/2TFQPFUqRtgj1auq9b5PlR) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Endeavour](https://open.spotify.com/album/3MwtBdr2Ohdg6TCtHoZDAH) | 3:00 |
 | 200 | [Cross My Heart](https://open.spotify.com/track/50BBDsisFzJGiFbg6FDRAV) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI) | 2:28 |
 
-Snapshot ID: `MCw0MzQ0NjBiMjZlMGI1ODMxODExNmVlNTQ2NGJmNTBlNGM4MGExYmVi`
+Snapshot ID: `MCw5NDY2ZjU4ZTk0ZGI3M2FiMzRhMTliODk2NThmMmJiZjVhZDE4OGIy`

@@ -38995,6 +38995,24 @@
     },
     {
       "album": {
+        "name": "Yes Please!",
+        "url": "https://open.spotify.com/album/7qT0HAYr3IlPyPPPyn5fIB"
+      },
+      "artists": [
+        {
+          "name": "SidePonies",
+          "url": "https://open.spotify.com/artist/5KwKfaUL5Ha9ihmXDRYEB0"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227225,
+      "name": "Yes Please!",
+      "url": "https://open.spotify.com/track/7GoZb3nes83ynwUOkxRmK5"
+    },
+    {
+      "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/6IzE4FQ4qNpv3qVi3PCapf"
       },

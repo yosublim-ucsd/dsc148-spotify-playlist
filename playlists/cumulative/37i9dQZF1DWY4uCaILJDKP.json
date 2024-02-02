@@ -731,6 +731,42 @@
     },
     {
       "album": {
+        "name": "$HUFFLE",
+        "url": "https://open.spotify.com/album/3yE9VJKvfnDCKs0xzNRHlq"
+      },
+      "artists": [
+        {
+          "name": "Urashimasakatasen",
+          "url": "https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272866,
+      "name": "MAKOTO-Live for Justice-",
+      "url": "https://open.spotify.com/track/6NLhGajefGqMoNSfNouy1x"
+    },
+    {
+      "album": {
+        "name": "Matsuken EDM",
+        "url": "https://open.spotify.com/album/6BZ4DmvhKH23pWg1orkhO5"
+      },
+      "artists": [
+        {
+          "name": "Ken Matsudaira",
+          "url": "https://open.spotify.com/artist/5dQEL2DSm82YsiI3GnD8t6"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245017,
+      "name": "Matsuken EDM",
+      "url": "https://open.spotify.com/track/6BWxB9F2ziA1RsAfkrIB3H"
+    },
+    {
+      "album": {
         "name": "Catch the Moment",
         "url": "https://open.spotify.com/album/5mr96wuap8SvgVr9YnfUry"
       },
@@ -826,6 +862,24 @@
       "duration_ms": 205121,
       "name": "NICE\uff01RICE\uff01SMILE\uff01",
       "url": "https://open.spotify.com/track/5PHuST5U2NTTxmGTrcTiEh"
+    },
+    {
+      "album": {
+        "name": "nomeya utaeya odoreya sawage",
+        "url": "https://open.spotify.com/album/1J09R81digZMVfo977AIVh"
+      },
+      "artists": [
+        {
+          "name": "Urashimasakatasen",
+          "url": "https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228017,
+      "name": "nomeya utaeya odoreya sawage",
+      "url": "https://open.spotify.com/track/7jYRvRQUzZoGarMEOMmgBS"
     },
     {
       "album": {
@@ -1328,10 +1382,28 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 225693,
       "name": "\u3046\u3069\u3093",
       "url": "https://open.spotify.com/track/2JHaLhD9twCy1LYzHKRla5"
+    },
+    {
+      "album": {
+        "name": "one",
+        "url": "https://open.spotify.com/album/3Zd44R2vL12azsHVnLyrEP"
+      },
+      "artists": [
+        {
+          "name": "Gero",
+          "url": "https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225693,
+      "name": "\u3046\u3069\u3093",
+      "url": "https://open.spotify.com/track/2seSonACEUj57oga5FcAjc"
     },
     {
       "album": {
@@ -2058,7 +2130,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 245017,
       "name": "\u30de\u30c4\u30b1\u30f3EDM",
       "url": "https://open.spotify.com/track/7IUWKPni1OabRud8VpCotT"
@@ -2622,7 +2694,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 272866,
       "name": "\u8aa0-Live for Justice-",
       "url": "https://open.spotify.com/track/1L5wceNlns34OuiQ1UycYO"
@@ -2658,7 +2730,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 228017,
       "name": "\u98f2\u3081\u3084 \u6b4c\u3048\u3084 \u8e0a\u308c\u3084 \u9a12\u3052",
       "url": "https://open.spotify.com/track/53auYigwBSruRRFjPe4hf6"

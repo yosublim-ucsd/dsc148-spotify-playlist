@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 136270,
+  "2024-02-02": 136296,
   "date_first_scraped": "2022-01-01",
   "description": "Jazz voices of today. Cover: Samara Joy",
   "name": "Vocal Jazz",
@@ -11201,10 +11201,44 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 250200,
       "name": "Stuck In London",
       "url": "https://open.spotify.com/track/2FXL8Xr4WaXwroKIRU90SU"
+    },
+    {
+      "album": {
+        "name": "East Coast Jazz",
+        "url": "https://open.spotify.com/album/3gpYeykiZOtEvdteBn1zse"
+      },
+      "artists": [
+        {
+          "name": "Casey Abrams",
+          "url": "https://open.spotify.com/artist/1UxNUybRFdtksz3l5HtCEG"
+        },
+        {
+          "name": "Haus Music",
+          "url": "https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6"
+        },
+        {
+          "name": "Jesse Elder",
+          "url": "https://open.spotify.com/artist/5UmUEjkHl71LqO86BUSS3S"
+        },
+        {
+          "name": "Dave Tedeschi",
+          "url": "https://open.spotify.com/artist/5OwYNOuH4Cg597HGC7tFW5"
+        },
+        {
+          "name": "Kyle Morgan",
+          "url": "https://open.spotify.com/artist/73TllQfqNxBh5xit8niVyo"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250200,
+      "name": "Stuck In London",
+      "url": "https://open.spotify.com/track/3I8NvMvtbI4DiwL8ATz89i"
     },
     {
       "album": {

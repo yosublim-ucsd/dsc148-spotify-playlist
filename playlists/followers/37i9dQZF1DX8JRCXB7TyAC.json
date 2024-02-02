@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 30706,
+  "2024-02-02": 30767,
   "date_first_scraped": "2023-07-25",
   "description": "Workout with Haryanvi Songs. Cover: Ankit Baiyanpuria",
   "name": "Haryanvi Workout",
@@ -131,7 +131,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 207500,
       "name": "Aar Paar",
       "url": "https://open.spotify.com/track/6VwFxZXXIt0fpFqBm8oSZ7"
@@ -375,6 +375,24 @@
       "duration_ms": 110909,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/5hDKa4HzGxhnLGO6vnc3pA"
+    },
+    {
+      "album": {
+        "name": "Chhora Haryane Ala",
+        "url": "https://open.spotify.com/album/51Ucmq3UdA5pvIJGy0TvUC"
+      },
+      "artists": [
+        {
+          "name": "Diler Kharkiya",
+          "url": "https://open.spotify.com/artist/5d6sKB0JbbWKiWoPDTLPj0"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151899,
+      "name": "Chhora Haryane Ala",
+      "url": "https://open.spotify.com/track/04IAIuNeXUGZCJlogBfQqP"
     },
     {
       "album": {
@@ -1431,10 +1449,28 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 198444,
       "name": "Rubber",
       "url": "https://open.spotify.com/track/18jWMucGFV4gEXKcOw6eje"
+    },
+    {
+      "album": {
+        "name": "Rubber",
+        "url": "https://open.spotify.com/album/0FyjOTYcZ8ZjVQdiYIj0v6"
+      },
+      "artists": [
+        {
+          "name": "Khasa Aala Chahar",
+          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198444,
+      "name": "Rubber",
+      "url": "https://open.spotify.com/track/3NCCTW8MJU9RNRYmYckl9Z"
     },
     {
       "album": {

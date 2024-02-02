@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Faith without work\[out\]s is dead\.  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,362 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,629 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 99 | [Count Me Out](https://open.spotify.com/track/05uNEmsmsLaMxOOZQxtkGP) | [Yung Titan](https://open.spotify.com/artist/5b2wfaTcBypJir2aa3xAQU), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Count Me Out](https://open.spotify.com/album/2vTqJHgX7ymPgrvDH8e61l) | 2:50 |
 | 100 | [PIM](https://open.spotify.com/track/16iVYJn2ZP09P8CNGGKqtW) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [PIM](https://open.spotify.com/album/1TCtRIJKhDamX7voUlWMSd) | 2:59 |
 
-Snapshot ID: `MCwyMzhiYTAzY2Y3OGE5NWU4MWE3ZDkyNTdkOGY5ZTUwMWUyOGU5NTM2`
+Snapshot ID: `MCwyZGM3MTg2ZmFiY2E2NGY3NGQ1MGViODExY2YxZmZiZmUyZjMzYmMx`

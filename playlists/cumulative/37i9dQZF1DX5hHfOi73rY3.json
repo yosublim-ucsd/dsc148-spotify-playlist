@@ -326,7 +326,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 275806,
       "name": "Buggin' - Edit",
       "url": "https://open.spotify.com/track/2TqSk3lGTFTO2N6qDWpODA"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 190750,
       "name": "Burns - Edit",
       "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
@@ -410,6 +410,24 @@
       "duration_ms": 174330,
       "name": "Can't Play Myself (A Tribute To Amy)",
       "url": "https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp"
+    },
+    {
+      "album": {
+        "name": "Cash For Love",
+        "url": "https://open.spotify.com/album/5kEP8s3hsep25m0yEJpfFo"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276495,
+      "name": "Cash For Love",
+      "url": "https://open.spotify.com/track/1QCjgRff7EzAtIUlOpWSJV"
     },
     {
       "album": {
@@ -534,6 +552,28 @@
       "duration_ms": 228969,
       "name": "Control",
       "url": "https://open.spotify.com/track/5jtxBiPcN1rlvNDZOYI7UT"
+    },
+    {
+      "album": {
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        },
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "Dance To The Music",
+      "url": "https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa"
     },
     {
       "album": {
@@ -802,6 +842,24 @@
       "duration_ms": 206368,
       "name": "Finder - Radio-Edit",
       "url": "https://open.spotify.com/track/7az0Hd7YKK5UT10M1nG56c"
+    },
+    {
+      "album": {
+        "name": "Armada Deep House Selection, Vol. 4 (The Finest Deep House Tunes)",
+        "url": "https://open.spotify.com/album/2i9yjYi16dZwC5iwTFWgXG"
+      },
+      "artists": [
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205853,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/39WhV9YklFbeygAz7nhBkq"
     },
     {
       "album": {
@@ -1244,7 +1302,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 195960,
       "name": "I Need A Painkiller",
       "url": "https://open.spotify.com/track/6K43zu0UqLQSj3T6nNOeH5"
@@ -1266,7 +1324,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 256306,
       "name": "I Need Air (feat. Angela Hunte)",
       "url": "https://open.spotify.com/track/5je1EimWTwYw2p8XVym99q"
@@ -1288,7 +1346,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 301600,
       "name": "In For The Kill - Skream's Let's Get Ravey Remix",
       "url": "https://open.spotify.com/track/46SNlNPyoPOF19hGF4dbBD"
@@ -1386,6 +1444,28 @@
       "duration_ms": 413635,
       "name": "It's Only Real",
       "url": "https://open.spotify.com/track/1d8yv21IqQl580O8Nulc4W"
+    },
+    {
+      "album": {
+        "name": "It's Over EP",
+        "url": "https://open.spotify.com/album/3Qi8hbE9uiWP3l1GGhOfNX"
+      },
+      "artists": [
+        {
+          "name": "Jon Gurd",
+          "url": "https://open.spotify.com/artist/2Nd5J1iedlzuNp32YYNuAl"
+        },
+        {
+          "name": "Reset Robot",
+          "url": "https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "It's Over",
+      "url": "https://open.spotify.com/track/0Z7G2l8HgDK08AUQBty6zi"
     },
     {
       "album": {
@@ -1650,6 +1730,28 @@
       "duration_ms": 435483,
       "name": "Low Frequency - Radio Edit",
       "url": "https://open.spotify.com/track/6BllD3i0p0CuCP0MmkNmv9"
+    },
+    {
+      "album": {
+        "name": "Make It Hot",
+        "url": "https://open.spotify.com/album/6jbtfprot9CSfANCq9R0Eq"
+      },
+      "artists": [
+        {
+          "name": "Kastelo",
+          "url": "https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON"
+        },
+        {
+          "name": "JOS\u00c9PHINE",
+          "url": "https://open.spotify.com/artist/12pfYeZ791ghFuc59SZOf7"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177637,
+      "name": "Make It Hot",
+      "url": "https://open.spotify.com/track/6pdgjp4LLvSPXGPOLRN9oo"
     },
     {
       "album": {

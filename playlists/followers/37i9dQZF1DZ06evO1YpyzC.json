@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 250010,
+  "2024-02-02": 250028,
   "date_first_scraped": "2022-09-09",
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
   "name": "This Is Kane Brown",
@@ -231,7 +231,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 165333,
       "name": "Comeback",
       "url": "https://open.spotify.com/track/0O39q1NfkVnMurlMwMAEZm"
@@ -249,7 +249,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 164668,
       "name": "Cool Again",
       "url": "https://open.spotify.com/track/5P3oaNpPDVLRJsL3152SEs"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 179506,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
@@ -881,7 +881,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 178986,
       "name": "Lose It",
       "url": "https://open.spotify.com/track/7epGknfpAlH1u33S71Ur1o"
@@ -1205,7 +1205,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 181823,
       "name": "One Thing Right",
       "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"
@@ -1321,7 +1321,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 194146,
       "name": "Short Skirt Weather",
       "url": "https://open.spotify.com/track/6PN7QeNItfzZBpCTQvsLyq"
@@ -1531,7 +1531,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 185106,
       "name": "Wide Open",
       "url": "https://open.spotify.com/track/0t5zXzcJjRZMpBPAqkbjdW"

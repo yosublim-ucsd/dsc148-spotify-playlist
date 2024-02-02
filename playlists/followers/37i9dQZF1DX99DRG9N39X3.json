@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 605599,
+  "2024-02-02": 605739,
   "date_first_scraped": "2021-12-28",
   "description": "These songs rocked the 10s. Cover: Arctic Monkeys",
   "name": "10s Rock Anthems",
@@ -435,7 +435,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 185986,
       "name": "Blame It On My Youth",
       "url": "https://open.spotify.com/track/5vGtrfeMjb03aDHGDaIakG"
@@ -658,6 +658,24 @@
     },
     {
       "album": {
+        "name": "Hungry Ghost (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5TOhNGKg7g4jiVcWYvI7JQ"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212546,
+      "name": "Covered In Chrome",
+      "url": "https://open.spotify.com/track/56ElZaTQde4TbRLZ7gn1vw"
+    },
+    {
+      "album": {
         "name": "Colourmeinkindness",
         "url": "https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb"
       },
@@ -777,7 +795,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 195893,
       "name": "Feels Like Summer",
       "url": "https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY"
@@ -1516,6 +1534,24 @@
     },
     {
       "album": {
+        "name": "Echo Of Miles: Scattered Tracks Across The Path",
+        "url": "https://open.spotify.com/album/0Cpmgfv2YLtBN368ZbBxGY"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280266,
+      "name": "Live to Rise",
+      "url": "https://open.spotify.com/track/0zjTLZdBM5jHXsqP3uJ8sq"
+    },
+    {
+      "album": {
         "name": "The Balance",
         "url": "https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r"
       },
@@ -2161,6 +2197,24 @@
       "duration_ms": 241533,
       "name": "Sextape",
       "url": "https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE"
+    },
+    {
+      "album": {
+        "name": "SHINY AND OH SO BRIGHT, VOL. 1 / LP: NO PAST. NO FUTURE. NO SUN.",
+        "url": "https://open.spotify.com/album/20tssRttKLtNfZBlLXzrSs"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211813,
+      "name": "Silvery Sometimes (Ghosts)",
+      "url": "https://open.spotify.com/track/3U8JO4cwSGD5wNSsbzbr63"
     },
     {
       "album": {
@@ -3057,7 +3111,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 254805,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 
 > Future & melodic bass\. Cover: SLANDER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,076 likes - 150 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,103 likes - 150 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 | 149 | [Fight Or Flight](https://open.spotify.com/track/7L7pW3lHKv5TMKnygYq3a2) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Fight Or Flight](https://open.spotify.com/album/6i4ZtLtwQZj3BW4DIRIabC) | 3:10 |
 | 150 | [NEED IT](https://open.spotify.com/track/6Ycrb9oeP1wqg2zDSjdeEF) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [NEED IT](https://open.spotify.com/album/6hRN1GU6dWV7MU81ZTbL7i) | 2:41 |
 
-Snapshot ID: `MCw3MDdkNDhjMjI2ZDc5YjY2ZWQzNDkzMzAwN2QxYzc1YjY3Nzc2MDZk`
+Snapshot ID: `MCxkMTllMzc5YmY0NmRhZjZkZDkyNGI1Mzk5ZjVhZGZmMzVkYTY1NTc2`

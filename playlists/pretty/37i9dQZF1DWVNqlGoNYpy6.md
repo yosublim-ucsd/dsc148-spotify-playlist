@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNqlGoNYpy6.md) - [plain]
 
 > Enjoy music from Anime "Frieren"\. アニメ「葬送のフリーレン」プレイリスト。Enjoy Frieren Music\. ©山田鐘人・アベツカサ／小学館／「葬送のフリーレン」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,626 likes - 15 songs - 40 min 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 6,659 likes - 15 songs - 40 min 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNqlGoNYpy6.md) - [plain]
 | 14 | [Fear Brought Me This Far](https://open.spotify.com/track/3sNGWgSXq9HR6fOLKaDTD1) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [Frieren: Beyond Journey's End \- Original Series Soundtrack EP](https://open.spotify.com/album/1uHhpd4ep36y3qtaIcL1sW) | 2:19 |
 | 15 | [Zoltraak](https://open.spotify.com/track/5v3cE1JozTgYP4sdaDygDE) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [Frieren: Beyond Journey's End \- Original Series Soundtrack EP](https://open.spotify.com/album/1uHhpd4ep36y3qtaIcL1sW) | 2:20 |
 
-Snapshot ID: `MCxjMTYyNzVlOTE3MWJhZjVlMjc0MmFmZjA0NDNjYzY4M2QxMTljZWYw`
+Snapshot ID: `MCw3YWU1ZTgwYzdjYWQ5ZjcyMmQ5YWNkMTFkNzVjOGM4YWY3ZTQyNjM1`

@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-115 songs - 6 hr 41 min
+116 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Danny´s Dream \- Rain](https://open.spotify.com/track/1vEImeGWLWDYCxRPQJeDhy) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Danny´s Dream \- Rain](https://open.spotify.com/album/6V4FZFYpLpfLCk1qJWatur) | 3:34 | 2023-04-27 |  |
 | [Desire](https://open.spotify.com/track/09ppY0JbUbFgaNkU7YgVmD) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Rainy Days Jazz](https://open.spotify.com/album/5rfKCLIjhCsotHx4wbWDIV) | 4:01 | 2023-04-27 |  |
 | [Detour Ahead \(Rain\)](https://open.spotify.com/track/7f8cCtFCSEVOU5c8WDX5Iw) | [Akio](https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A) | [Detour Ahead \(Rain\)](https://open.spotify.com/album/4YYid3LXG2UbfvXCJOVhe3) | 3:45 | 2023-04-27 |  |
+| [Downfall](https://open.spotify.com/track/2dv3ZXTz70qDYe5OpMouWP) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Downfall](https://open.spotify.com/album/6Yl1lhoCj9VAsuNSgxV13i) | 2:52 | 2024-02-02 |  |
 | [Drizzle](https://open.spotify.com/track/7xAsNYcd0c2TRtX29Le7Ul) | [Eric Merlino](https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q) | [Drizzle](https://open.spotify.com/album/660BSmyiAOlSjmSTX080Za) | 3:44 | 2023-06-08 |  |
 | [Easy](https://open.spotify.com/track/0RL0vPsIpS1mGoDGaXOLYJ) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Rainy Days Jazz](https://open.spotify.com/album/5rfKCLIjhCsotHx4wbWDIV) | 2:22 | 2023-04-27 |  |
 | [Elise](https://open.spotify.com/track/2siast7oxxUacDe3OiZuYx) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Rainy Days Jazz](https://open.spotify.com/album/5rfKCLIjhCsotHx4wbWDIV) | 2:42 | 2023-04-27 |  |

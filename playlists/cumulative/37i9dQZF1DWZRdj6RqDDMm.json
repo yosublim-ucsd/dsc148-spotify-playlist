@@ -212,7 +212,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 300700,
       "name": "Always Coming Through",
       "url": "https://open.spotify.com/track/2EueEf9GMN9ppShrQYuhPk"
@@ -373,6 +373,42 @@
     },
     {
       "album": {
+        "name": "Belongs to you",
+        "url": "https://open.spotify.com/album/2M91mM7OZJtNaeiH8pqa7O"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133124,
+      "name": "Belongs to you",
+      "url": "https://open.spotify.com/track/2XNFPtWAxuNuO3vJ0IdaLA"
+    },
+    {
+      "album": {
+        "name": "BIG BIG WAY",
+        "url": "https://open.spotify.com/album/2SjuxCBdux4BKazNGcrx7n"
+      },
+      "artists": [
+        {
+          "name": "yoyo michael",
+          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228856,
+      "name": "BIG BIG WAY",
+      "url": "https://open.spotify.com/track/0XGZvAtlH8kT6NseNoNLA8"
+    },
+    {
+      "album": {
         "name": "Big Stepper Pt. 2",
         "url": "https://open.spotify.com/album/0ci3NNOgeqDg4ikDDaQgOD"
       },
@@ -410,6 +446,42 @@
       "duration_ms": 208691,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx"
+    },
+    {
+      "album": {
+        "name": "By Design",
+        "url": "https://open.spotify.com/album/1VPkVKrTUFIw1tWW444IYi"
+      },
+      "artists": [
+        {
+          "name": "Echow Clay",
+          "url": "https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "By Design",
+      "url": "https://open.spotify.com/track/3ulfbtT8i30DN94siN76xX"
+    },
+    {
+      "album": {
+        "name": "Call Me Blessed",
+        "url": "https://open.spotify.com/album/7KCjQA1lve605tpDbqzSud"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145039,
+      "name": "Call Me Blessed",
+      "url": "https://open.spotify.com/track/5CyrCBCWC87Ppz6lNomYrB"
     },
     {
       "album": {
@@ -915,6 +987,28 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2fT14UiGgn6VzKuAFGD37N"
+      },
+      "artists": [
+        {
+          "name": "Paul-Emmanuel",
+          "url": "https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3"
+        },
+        {
+          "name": "Still Blessed Music",
+          "url": "https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166273,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/7Cd7fuGbMQWGIdkGwmC4dv"
+    },
+    {
+      "album": {
         "name": "Free, Pt. 2",
         "url": "https://open.spotify.com/album/0uBdvE9bfkTdKQcQGZ5HAZ"
       },
@@ -952,7 +1046,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 174000,
       "name": "Freedom Dance",
       "url": "https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD"
@@ -1156,7 +1250,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 432258,
       "name": "I'm Grateful (Live)",
       "url": "https://open.spotify.com/track/2PZ0PgLrppcVON5sGS0VRE"
@@ -1316,7 +1410,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 200816,
       "name": "Konse",
       "url": "https://open.spotify.com/track/5ZlLfuWfBZMiZIPPmAD2oW"
@@ -1989,6 +2083,32 @@
     },
     {
       "album": {
+        "name": "Perfect Peace",
+        "url": "https://open.spotify.com/album/2Ft65MibXY2DrNy3aTxbCX"
+      },
+      "artists": [
+        {
+          "name": "Ealle",
+          "url": "https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5"
+        },
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        },
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193148,
+      "name": "Perfect Peace",
+      "url": "https://open.spotify.com/track/07bnH9ucRiSiSQsIhqE52B"
+    },
+    {
+      "album": {
         "name": "Pour Me",
         "url": "https://open.spotify.com/album/69Ez4lhB1Dw2uEsuhB6KRz"
       },
@@ -2316,7 +2436,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 132352,
       "name": "Thank You Lord",
       "url": "https://open.spotify.com/track/3b7hoD6OLI8GrbbFBzTAes"
@@ -2334,7 +2454,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 97418,
       "name": "The Light",
       "url": "https://open.spotify.com/track/6KQTXAGQoSxHMjd9xXIEtw"
@@ -2396,6 +2516,32 @@
       "duration_ms": 128000,
       "name": "The way You love me",
       "url": "https://open.spotify.com/track/4y1gZU40t8zPEdiK50GN3V"
+    },
+    {
+      "album": {
+        "name": "The Word",
+        "url": "https://open.spotify.com/album/4yntsBzEnFsAgRU5mektA9"
+      },
+      "artists": [
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Aigbeh D'gong",
+          "url": "https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172208,
+      "name": "The Word",
+      "url": "https://open.spotify.com/track/0rCaRP8FF3heR6qE3g8Q13"
     },
     {
       "album": {
@@ -2864,7 +3010,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 214159,
       "name": "Your Baby (Paruto Sessions)",
       "url": "https://open.spotify.com/track/4WDoX23maQicnPqtkXfDmo"

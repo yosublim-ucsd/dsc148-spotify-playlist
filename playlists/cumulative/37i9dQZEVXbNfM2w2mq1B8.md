@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
-1,412 songs - 3 day 7 hr 12 min
+1,413 songs - 3 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -797,7 +797,7 @@
 | [Oxytocin](https://open.spotify.com/track/4t2OeILB07eMGTXSUbMPEu) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:30 | 2021-08-01 | 2021-08-07 |
 | [p r i d e \. i s \. t h e \. d e v i l \(with Lil Baby\)](https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2021-05-16 | 2021-05-23 |
 | [p u n c h i n ‘ \. t h e \. c l o c k](https://open.spotify.com/track/57ZUX6TNyKLBydAdVVd02x) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 1:52 | 2021-05-16 | 2021-05-17 |
-| [Paint The Town Red](https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:50 | 2023-09-23 |  |
+| [Paint The Town Red](https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:50 | 2023-09-23 | 2024-02-02 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-05 | 2023-09-24 |
 | [Papi’s Home](https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:58 | 2021-09-05 | 2021-09-10 |
 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 | 2021-03-27 | 2021-05-16 |
@@ -1330,6 +1330,7 @@
 | [Мр\. Перфектен](https://open.spotify.com/track/3EafBu8bBdhrkLe84OgnNZ) | [Papi Hans](https://open.spotify.com/artist/27szsMQxZzAUJrm5BmhaNY) | [Мр\. Перфектен](https://open.spotify.com/album/2uTHyf7CYQRLnWWNZoiVEk) | 3:21 | 2022-06-01 | 2022-11-19 |
 | [мръсни балкани](https://open.spotify.com/track/5VZLotTkLWsBFkejMyAv6i) | [Boro Purvi](https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV) | [Песни за сватби и погребения](https://open.spotify.com/album/3UoZjJacxi8N43F52O6M68) | 2:28 | 2023-11-29 | 2023-12-01 |
 | [Мъже милиарди](https://open.spotify.com/track/1ocox9xxBvjSXVjoBFaxYh) | [Desi Slava](https://open.spotify.com/artist/1FYHEsfPuSTAOV5oK1CNXG) | [Мъже милиарди](https://open.spotify.com/album/7y14Wo26iMgHQ8U3WOYzvG) | 3:37 | 2022-04-02 | 2022-05-31 |
+| [Мъко моя](https://open.spotify.com/track/4ztl8aq18Bs0EayLVB1Zvk) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355) | [Мъко моя](https://open.spotify.com/album/4LgcFdEJ2XctgFkQnJq6px) | 3:39 | 2024-02-01 |  |
 | [На 30\-я Етаж](https://open.spotify.com/track/67aYv6F7DGUBdRbujS9B6y) | [FYRE](https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F) | [CAESAR](https://open.spotify.com/album/21IaJR7LfaalDFwkGAvP8e) | 2:32 | 2021-08-06 | 2021-08-10 |
 | [На Мода](https://open.spotify.com/track/3F7iGkKi1UzevYNYUBlMV8) | [Torino](https://open.spotify.com/artist/47WAtpqR2af9uiq2HWwWNM), [Pashata](https://open.spotify.com/artist/2YAAnLogLeNYzffelkG6lF), [Ustata](https://open.spotify.com/artist/6sGqL21vegtgNafT0a7W8q) | [На Мода](https://open.spotify.com/album/1VP0vOtVfdYvRYqI9OfHtI) | 2:47 | 2023-09-19 | 2023-09-22 |
 | [Навик](https://open.spotify.com/track/2SKoecvDt04LkeRGGzhjtA) | [Lidia](https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN), [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq) | [Навик](https://open.spotify.com/album/1E3PkOLbBMyFtLqL1e8u1Z) | 4:02 | 2022-04-08 | 2022-06-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: SEYA\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,047 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,048 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 79 | [ทำได้เพียงร้องไห้](https://open.spotify.com/track/6P7ndQhyt5rRm40SRyV5iI) | [Blackwolf BOY](https://open.spotify.com/artist/1eZ71wjLok7uYBUMcBOZQq) | [ทำได้เพียงร้องไห้](https://open.spotify.com/album/19IThxXWC5xD0Zi9jyeYew) | 3:53 |
 | 80 | [ข่าวดี \(ของเธอรึปล่าว\)](https://open.spotify.com/track/15m8Cv0NxCssMTbFWMTZkb) | [BADKNOB](https://open.spotify.com/artist/6u7qIBsTc5GPGiooQ7sjsf) | [ข่าวดี \(ของเธอรึปล่าว\)](https://open.spotify.com/album/6TIYTbB1NMRHv8wW23IQBA) | 4:15 |
 
-Snapshot ID: `MCwzYjM2NWZiNjdmMzFiNDliZTYzYjc3ZDQ0NWFjYTliYzMzYzQxMGZi`
+Snapshot ID: `MCw2Y2M3M2RkYTdmMWM2YTAwZTQ2YzhlYzkxNTA2MzdhYzRjNWQyMGQ1`

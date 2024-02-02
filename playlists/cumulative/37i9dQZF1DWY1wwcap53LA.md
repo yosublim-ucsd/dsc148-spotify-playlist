@@ -2,7 +2,7 @@
 
 ### [Country Frequency](https://open.spotify.com/playlist/37i9dQZF1DWY1wwcap53LA)
 
-> Country music making waves\. Cover: The Kentucky Gentlemen
+> Country music making waves\. Cover: Blanco Brown
 
 190 songs - 9 hr 49 min
 

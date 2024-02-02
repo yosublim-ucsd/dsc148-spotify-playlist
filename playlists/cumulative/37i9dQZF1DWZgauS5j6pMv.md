@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Jordan Mackampa
 
-374 songs - 22 hr 2 min
+375 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,8 @@
 | [Running For Cover](https://open.spotify.com/track/1YmJBGtzz7BsvyvekfkRzz) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [DOMENICO](https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt), [Prince Street Bodega](https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS) | [Running For Cover](https://open.spotify.com/album/5zIAjLfyBTRf68LnNVVAHX) | 2:39 | 2023-01-27 | 2023-02-25 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-07 | 2023-01-24 |
 | [Sales Pitch](https://open.spotify.com/track/7IEjQqBJsvp4U48FyLJkxG) | [Caleb Hawley](https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB) | [Sales Pitch](https://open.spotify.com/album/2nXYMagjpvyG1cbDw8z668) | 3:54 | 2023-02-24 | 2023-07-08 |
-| [Same Song](https://open.spotify.com/track/0XcJgUBTAm81tqB7SxafPS) | [falcxne](https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz), [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Same Song](https://open.spotify.com/album/4EJYHrZ1FEdIcadrIO449B) | 2:31 | 2023-03-31 |  |
+| [Same Song](https://open.spotify.com/track/0XcJgUBTAm81tqB7SxafPS) | [falcxne](https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz), [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Same Song](https://open.spotify.com/album/4EJYHrZ1FEdIcadrIO449B) | 2:31 | 2023-03-31 | 2024-02-02 |
+| [Same Song](https://open.spotify.com/track/6xBanShy5nCqzDj8Rk8QmJ) | [falcxne](https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz), [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Same Song](https://open.spotify.com/album/0HLt7MDAA0mZLuLktz5npe) | 2:31 | 2023-03-31 |  |
 | [Sankofa Song](https://open.spotify.com/track/1KJ15sDM1TVsTdLuV6pL4U) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Sankofa Song](https://open.spotify.com/album/23tozi7NYHGQkjgH7URU8U) | 5:25 | 2020-11-20 | 2022-01-29 |
 | [Saturday Night \(Need You Now\)](https://open.spotify.com/track/5HYNZhR70lfA1dzvQoXCBM) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Saturday Night \(Need You Now\)](https://open.spotify.com/album/22ZdsViHpBmUCQqxzQxPov) | 4:13 | 2024-01-19 |  |
 | [Say Your Name](https://open.spotify.com/track/46H4hZk0WHNC4fmVJaLfr6) | [Osquello](https://open.spotify.com/artist/6ScAPpYnDsH3Cu3TKmhUJr), [Akin Soul](https://open.spotify.com/artist/2tU7aVBZIXzsKTPhm56266) | [Say Your Name](https://open.spotify.com/album/5SzR4ahdi6DTBn3vevmw0j) | 3:35 | 2022-06-17 | 2023-12-02 |

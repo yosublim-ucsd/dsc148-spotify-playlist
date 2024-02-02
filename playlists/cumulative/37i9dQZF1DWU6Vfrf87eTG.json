@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "3 / 4 Ad",
+        "url": "https://open.spotify.com/album/0U3TarPouJwJwkkGh22iAO"
+      },
+      "artists": [
+        {
+          "name": "Davy Graham",
+          "url": "https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146480,
+      "name": "Angi",
+      "url": "https://open.spotify.com/track/4C5fbvzeJQSDHQxUpsGq5G"
+    },
+    {
+      "album": {
         "name": "3/4 AD",
         "url": "https://open.spotify.com/album/7dyUtGBLV46N0MpFIHTd67"
       },
@@ -200,7 +218,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 147066,
       "name": "Angi",
       "url": "https://open.spotify.com/track/24mF7MHU2S7NfkvyhKbHHZ"

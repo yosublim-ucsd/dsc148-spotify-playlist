@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Shaina Hayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,061 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,114 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [ON MY WAY](https://open.spotify.com/track/3yTFX1HE96ChTBh3zSTpbj) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav), [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [ON MY WAY](https://open.spotify.com/album/1pq94oLoPufKtOpJ3SKGMF) | 2:25 |
 | 75 | [Think About You](https://open.spotify.com/track/5sMNeg0MEPWlpbjwCg2gRH) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [Think About You](https://open.spotify.com/album/4L8dQDEmy0CCN0ZonRAthg) | 3:21 |
 
-Snapshot ID: `MCwxMDQ2OGViZTZiNzcwODM4ZjY5YWI2OGZjN2MwOWYyOWU2NThiOGMw`
+Snapshot ID: `MCw4NTY3NGQyZjExYjU4ODk3NDViNGE1NmRlZjkxZGJkMTJlMzlkNWIw`

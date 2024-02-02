@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 93674,
+  "2024-02-02": 93724,
   "date_first_scraped": "2022-08-06",
   "description": "Ambient waves for ethereal days ",
   "name": "Weightless",
@@ -2608,6 +2608,24 @@
     },
     {
       "album": {
+        "name": "Recalibration",
+        "url": "https://open.spotify.com/album/0cTozhl0QwvTlSmglW1T2u"
+      },
+      "artists": [
+        {
+          "name": "Sleep Lab",
+          "url": "https://open.spotify.com/artist/5m6EST12WzdTRdYKtk5w7W"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171359,
+      "name": "Recalibration",
+      "url": "https://open.spotify.com/track/7ujKX9sDEXuJqOi92UuCZV"
+    },
+    {
+      "album": {
         "name": "Receiving",
         "url": "https://open.spotify.com/album/0UENXvfeFXBs70PjI5DGY0"
       },
@@ -2851,6 +2869,24 @@
       "duration_ms": 203156,
       "name": "Snoozy Bliss",
       "url": "https://open.spotify.com/track/1vsJH9KHxzOtxvNiutXn9a"
+    },
+    {
+      "album": {
+        "name": "Sognante",
+        "url": "https://open.spotify.com/album/1HiRD8PccVANXCnKqQg8ya"
+      },
+      "artists": [
+        {
+          "name": "Everglades",
+          "url": "https://open.spotify.com/artist/5bfwEl4yO80YBMyJWkM7gk"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179250,
+      "name": "Sognante",
+      "url": "https://open.spotify.com/track/5aIuphPYQanxam9ZhzdqNE"
     },
     {
       "album": {
@@ -3481,6 +3517,24 @@
       "duration_ms": 135692,
       "name": "Waiting..",
       "url": "https://open.spotify.com/track/62WZsVC65cpmJGVqzjjgDo"
+    },
+    {
+      "album": {
+        "name": "We Were There",
+        "url": "https://open.spotify.com/album/57G7cX52RrJBJ9dlYqc0WH"
+      },
+      "artists": [
+        {
+          "name": "Aniaras",
+          "url": "https://open.spotify.com/artist/6giPu3LI4VQbyWGGHHVpfj"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186223,
+      "name": "We Were There",
+      "url": "https://open.spotify.com/track/14qdPKsnd3yifarqYFREzX"
     },
     {
       "album": {

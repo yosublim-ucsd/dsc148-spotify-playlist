@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-235 songs - 13 hr 57 min
+236 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Is This Love](https://open.spotify.com/track/4h0Lc2sgVxRa9ICugb5IjA) | [Groove Da Praia](https://open.spotify.com/artist/0wf8Rn6bjZgEkKp0eV9omw) | [The Complete Sessions Vol\. 1](https://open.spotify.com/album/1JqZRwdO197VVjSxHOymjG) | 3:17 | 2022-05-18 | 2023-05-13 |
 | [It Ain't Me Babe](https://open.spotify.com/track/0LHm4kBHO8rFmjoCVu5MN8) | [Lucas Francisco da Silva](https://open.spotify.com/artist/0q5JowzvhV2iVatlPv1oL5), [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [It Ain't Me Babe](https://open.spotify.com/album/7CHMzuyPoAonVJMHtINSfU) | 3:44 | 2021-12-09 |  |
 | [It Ain't over Til It's Over \- Bossa Version](https://open.spotify.com/track/76D2rppXQ0UDtKfk9eXLgc) | [Marcela Mangabeira](https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg) | [Colors of Bossa 5](https://open.spotify.com/album/0BRXwjsOpBpjsHpOfGorPz) | 3:48 | 2021-12-09 | 2023-05-13 |
+| [It Must Have Been Love](https://open.spotify.com/track/7f0h3FtS5IIm5PhnnEC2eh) | [Senti2](https://open.spotify.com/artist/3Bae7rEUTuL7Vj4rf853N4) | [It Must Have Been Love](https://open.spotify.com/album/5nhTzqSBGhnEot3V89luGV) | 2:24 | 2024-02-02 |  |
 | [It's a Shame](https://open.spotify.com/track/2g3YrAu9dB8fRkSN61wdon) | [The Big Bossa](https://open.spotify.com/artist/40wVf0nTSUmeWTbucENvIq) | [Bossanova Dinner](https://open.spotify.com/album/4rLGydRYO4CVBDIEPaGwFf) | 3:47 | 2021-12-09 | 2023-01-20 |
 | [It's a Shame](https://open.spotify.com/track/5jczKDtwEGoHxmoQkwKeoc) | [The Big Bossa](https://open.spotify.com/artist/40wVf0nTSUmeWTbucENvIq) | [Bossa Nova Lounge](https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv) | 3:47 | 2023-01-03 | 2023-05-13 |
 | [It's My Life](https://open.spotify.com/track/4Vor8YELTcUw7lBtsnQX2s) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [The Sunny Side EP](https://open.spotify.com/album/5noduZglxV0U46fHzxUlUY) | 3:24 | 2022-03-04 | 2023-04-21 |

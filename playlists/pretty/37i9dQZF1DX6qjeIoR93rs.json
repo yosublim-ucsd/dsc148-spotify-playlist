@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 59331,
+  "num_followers": 59381,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzUxODZjNmQ4ZGQwNjkyZmMyZTMyZDY3MGUwZDQ0MmMzYmIxMzUy",
+  "snapshot_id": "MCw0YjhkYjhhNGZjNDg3OWU5MGVlODY4YjM4MzFiZWI4NDdmNDkzNjI5",
   "tracks": [
     {
       "added_at": "2023-11-11 14:44:03",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-11-11 14:44:03",
       "album": {
+        "name": "Maskhara",
+        "url": "https://open.spotify.com/album/7bXGhJWxIhnFvwDKr9vqHx"
+      },
+      "artists": [
+        {
+          "name": "Bashar Murad",
+          "url": "https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql"
+        }
+      ],
+      "duration_ms": 186411,
+      "name": "Maskhara",
+      "url": "https://open.spotify.com/track/7602Aziy9m0JAcnzKX8mcC"
+    },
+    {
+      "added_at": "2023-11-11 14:44:03",
+      "album": {
         "name": "A3MEL ESH",
         "url": "https://open.spotify.com/album/2asPtwQJwsCs2LP0HQQgJP"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 96000,
       "name": "A3MEL ESH",
       "url": "https://open.spotify.com/track/3W2aWHlWIo373Npwv8TGEm"
-    },
-    {
-      "added_at": "2023-11-11 14:44:03",
-      "album": {
-        "name": "Maskhara",
-        "url": "https://open.spotify.com/album/7bXGhJWxIhnFvwDKr9vqHx"
-      },
-      "artists": [
-        {
-          "name": "Bashar Murad",
-          "url": "https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql"
-        }
-      ],
-      "duration_ms": 186411,
-      "name": "Maskhara",
-      "url": "https://open.spotify.com/track/7602Aziy9m0JAcnzKX8mcC"
     },
     {
       "added_at": "2023-11-11 14:44:03",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-11-11 14:44:03",
       "album": {
-        "name": "Gaza - Tradition musicale palestinienne",
-        "url": "https://open.spotify.com/album/6MXT3YX1QwNWXxmKfKNHzt"
+        "name": "Fattah Al Ward",
+        "url": "https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g"
       },
       "artists": [
         {
-          "name": "Ensemble Musical De Palestine",
-          "url": "https://open.spotify.com/artist/4s2acSp68ZnCVdC0lkQ9sz"
+          "name": "Amal Murkus",
+          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
         }
       ],
-      "duration_ms": 289920,
-      "name": "Mayel ya Ghuzayel",
-      "url": "https://open.spotify.com/track/5yV5kOWEoYWwmhcET8BCc9"
+      "duration_ms": 226866,
+      "name": "Che Guevara",
+      "url": "https://open.spotify.com/track/7itWreJjHK6oDM66FaG7Vb"
     },
     {
       "added_at": "2023-11-11 14:44:03",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-11-11 14:44:03",
       "album": {
+        "name": "Gaza - Tradition musicale palestinienne",
+        "url": "https://open.spotify.com/album/6MXT3YX1QwNWXxmKfKNHzt"
+      },
+      "artists": [
+        {
+          "name": "Ensemble Musical De Palestine",
+          "url": "https://open.spotify.com/artist/4s2acSp68ZnCVdC0lkQ9sz"
+        }
+      ],
+      "duration_ms": 289920,
+      "name": "Mayel ya Ghuzayel",
+      "url": "https://open.spotify.com/track/5yV5kOWEoYWwmhcET8BCc9"
+    },
+    {
+      "added_at": "2023-11-11 14:44:03",
+      "album": {
         "name": "Today Is the day",
         "url": "https://open.spotify.com/album/5pY94XM2JmmrY71Ck3aTMA"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 151058,
       "name": "Today is the day",
       "url": "https://open.spotify.com/track/3W4P1ay0wX7Rz1FIdwFfB3"
-    },
-    {
-      "added_at": "2023-11-11 14:44:03",
-      "album": {
-        "name": "Fattah Al Ward",
-        "url": "https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g"
-      },
-      "artists": [
-        {
-          "name": "Amal Murkus",
-          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Che Guevara",
-      "url": "https://open.spotify.com/track/7itWreJjHK6oDM66FaG7Vb"
     },
     {
       "added_at": "2023-11-11 14:44:03",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-11-11 14:44:03",
       "album": {
-        "name": "Badi Ellak",
-        "url": "https://open.spotify.com/album/5gIy2dF3eXhTo9XJULxLqK"
-      },
-      "artists": [
-        {
-          "name": "Sama Shoufani",
-          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
-        }
-      ],
-      "duration_ms": 209999,
-      "name": "Badi Ellak",
-      "url": "https://open.spotify.com/track/6gazpfEpfoPQSPuTBoR30C"
-    },
-    {
-      "added_at": "2023-11-11 14:44:03",
-      "album": {
         "name": "From Here",
         "url": "https://open.spotify.com/album/5D4XlS9tDo1ZdYvas3kqXX"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 152000,
       "name": "From Here",
       "url": "https://open.spotify.com/track/2gU3bW5VlHffe9V3VD89EM"
+    },
+    {
+      "added_at": "2023-11-11 14:44:03",
+      "album": {
+        "name": "Badi Ellak",
+        "url": "https://open.spotify.com/album/5gIy2dF3eXhTo9XJULxLqK"
+      },
+      "artists": [
+        {
+          "name": "Sama Shoufani",
+          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
+        }
+      ],
+      "duration_ms": 209999,
+      "name": "Badi Ellak",
+      "url": "https://open.spotify.com/track/6gazpfEpfoPQSPuTBoR30C"
     },
     {
       "added_at": "2023-11-11 14:44:03",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-11-11 14:44:03",
       "album": {
+        "name": "Bala Reash",
+        "url": "https://open.spotify.com/album/4A7wmvJgmesQ09AXQMfB0W"
+      },
+      "artists": [
+        {
+          "name": "Bigsam",
+          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
+        }
+      ],
+      "duration_ms": 226690,
+      "name": "Bala Reash",
+      "url": "https://open.spotify.com/track/58CDHApdREBXJYqrSoXmJy"
+    },
+    {
+      "added_at": "2023-11-11 14:44:03",
+      "album": {
         "name": "Abu 3ntr (feat. Lina Makoul)",
         "url": "https://open.spotify.com/album/0RZwnKlm8Oo2EtqcjrDQz3"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 213368,
       "name": "Abu 3ntr (feat. Lina Makoul)",
       "url": "https://open.spotify.com/track/68DqedAzUtn8RsX7hFRQGy"
-    },
-    {
-      "added_at": "2023-11-11 14:44:03",
-      "album": {
-        "name": "Bala Reash",
-        "url": "https://open.spotify.com/album/4A7wmvJgmesQ09AXQMfB0W"
-      },
-      "artists": [
-        {
-          "name": "Bigsam",
-          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
-        }
-      ],
-      "duration_ms": 226690,
-      "name": "Bala Reash",
-      "url": "https://open.spotify.com/track/58CDHApdREBXJYqrSoXmJy"
     }
   ],
   "unique_name": "Palestine Sounds",

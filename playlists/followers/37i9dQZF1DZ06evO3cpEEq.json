@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 332,
+  "2024-02-02": 333,
   "date_first_scraped": "2023-06-18",
   "description": "This is Felicity Urquhart. The essential tracks, all in one playlist.",
   "name": "This Is Felicity Urquhart",
@@ -413,7 +413,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 160826,
       "name": "Every Fool Has a Rainbow",
       "url": "https://open.spotify.com/track/1ya2GaDcFmCMnuCz6h55TB"
@@ -1379,7 +1379,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 145026,
       "name": "Swingtown",
       "url": "https://open.spotify.com/track/1kt9OqfXbusOxeAwTEA1nJ"
@@ -1433,7 +1433,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 220866,
       "name": "That Boy Sure Can Jump a Train",
       "url": "https://open.spotify.com/track/2wjpcNq46nxOdhjKJwWUT9"

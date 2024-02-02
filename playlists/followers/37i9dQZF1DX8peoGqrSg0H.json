@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 154202,
+  "2024-02-02": 154265,
   "date_first_scraped": "2022-05-30",
   "description": "\u0e40\u0e1e\u0e25\u0e07 T-Pop \u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Praesun",
   "name": "T-Pop Now",
@@ -147,10 +147,36 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 186683,
       "name": "ALALA (To The Top)",
       "url": "https://open.spotify.com/track/77Sye1USZZ2xmy18ln7dWe"
+    },
+    {
+      "album": {
+        "name": "ALALA (To The Top) (WhiteFox Studio) - Single",
+        "url": "https://open.spotify.com/album/5NxHf1ZgXzQxg5auKnHKYt"
+      },
+      "artists": [
+        {
+          "name": "ALALA",
+          "url": "https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt"
+        },
+        {
+          "name": "Nay PERSES",
+          "url": "https://open.spotify.com/artist/2tfjjJpLFUIbcXQFANpQqw"
+        },
+        {
+          "name": "JUNG PERSES",
+          "url": "https://open.spotify.com/artist/1Er9htPD9zH1LecGCERIJk"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191620,
+      "name": "ALALA (To The Top) (WhiteFox Studio)",
+      "url": "https://open.spotify.com/track/6nR3CGUWBFHfgIxitfImx2"
     },
     {
       "album": {
@@ -677,6 +703,24 @@
       "duration_ms": 201290,
       "name": "good boy",
       "url": "https://open.spotify.com/track/3hVbL6BkM5rbRzozafghgh"
+    },
+    {
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/4yOyrokpt9SeI9icULlYCB"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244865,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/2kpVbauiG7Tcue6kZPKYNG"
     },
     {
       "album": {
@@ -1297,7 +1341,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 184878,
       "name": "Perfect Match",
       "url": "https://open.spotify.com/track/0Ez4aGnrx0EkzhQQyME28j"
@@ -4271,7 +4315,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 163570,
       "name": "\u0e1c\u0e39\u0e49\u0e2b\u0e0d\u0e34\u0e07\u0e43\u0e19\u0e1d\u0e31\u0e19 (Dream Girls)",
       "url": "https://open.spotify.com/track/5yQbVafjD4dBdVbrYe3Aal"
@@ -6687,6 +6731,24 @@
       "duration_ms": 255957,
       "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (Hook) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President]",
       "url": "https://open.spotify.com/track/3IPNXwdcnW8WSMvUPl66hI"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19(\u0e41\u0e2d\u0e1a)\u0e23\u0e31\u0e01 - Close(d) Friend",
+        "url": "https://open.spotify.com/album/6vkEy8MOECSpIxFXe8U5ng"
+      },
+      "artists": [
+        {
+          "name": "DVI",
+          "url": "https://open.spotify.com/artist/5MDug90VBdUSLULq3hBU4X"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216623,
+      "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19(\u0e41\u0e2d\u0e1a)\u0e23\u0e31\u0e01 - Close(d) Friend",
+      "url": "https://open.spotify.com/track/4hixbQQlUe67vYHbPnOeih"
     },
     {
       "album": {

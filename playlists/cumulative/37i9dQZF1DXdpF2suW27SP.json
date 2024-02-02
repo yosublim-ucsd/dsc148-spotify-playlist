@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Piruka entra na zona. ",
+  "description": "Deejay Telio entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -538,7 +538,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 142000,
       "name": "Al\u00e9",
       "url": "https://open.spotify.com/track/7eVnASlqAzqYQPcpwZCgkw"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 285981,
       "name": "Anjos N\u00e3o Falam",
       "url": "https://open.spotify.com/track/2l1txEhbWQ349PIo1LqPd1"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 198314,
       "name": "Banda",
       "url": "https://open.spotify.com/track/0uayyEDH8Wz6X1aJ21K3da"
@@ -1682,7 +1682,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 266279,
       "name": "Chauffeur",
       "url": "https://open.spotify.com/track/3ARuPTEPMpbr7mz1aHa0a6"
@@ -2929,6 +2929,28 @@
     },
     {
       "album": {
+        "name": "Espirito",
+        "url": "https://open.spotify.com/album/43ELmi4Ak9u9vhEHUszb0I"
+      },
+      "artists": [
+        {
+          "name": "Young Max",
+          "url": "https://open.spotify.com/artist/1t6x0n25bBUkI4re1wQqKu"
+        },
+        {
+          "name": "Apollo G",
+          "url": "https://open.spotify.com/artist/4spmzPX02Jg0rnuyIWFngi"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Espirito",
+      "url": "https://open.spotify.com/track/1qRFaUg4Lr8suJArLQajv1"
+    },
+    {
+      "album": {
         "name": "Estadia",
         "url": "https://open.spotify.com/album/7rHFACi1s7gKshBvKBCbDN"
       },
@@ -3282,7 +3304,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 148732,
       "name": "FICAR RICO E FICAR CONTIGO",
       "url": "https://open.spotify.com/track/7ieKYTIZabcFxyAnlfVqAQ"
@@ -3427,6 +3449,24 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/4phICo5aQYrUQfiojNZsoN"
+      },
+      "artists": [
+        {
+          "name": "Instinto 26",
+          "url": "https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/63Jjy7fGgU2ktyQGPKbFIH"
+    },
+    {
+      "album": {
         "name": "TRAP SEASON",
         "url": "https://open.spotify.com/album/7rUkbZjRnOSOvAPPfk8bKX"
       },
@@ -3556,7 +3596,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 247209,
       "name": "Gelo no Copo",
       "url": "https://open.spotify.com/track/51oQ1UUf7mTzlvZtGHfQnu"
@@ -3874,6 +3914,24 @@
       "duration_ms": 164706,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya"
+    },
+    {
+      "album": {
+        "name": "hello",
+        "url": "https://open.spotify.com/album/2OZkkoRlZu8Fe4MNETsW9H"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "hello",
+      "url": "https://open.spotify.com/track/6d0iSU9wwOk3sxSRxPkr7O"
     },
     {
       "album": {
@@ -4390,7 +4448,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 206315,
       "name": "La\u00e7os",
       "url": "https://open.spotify.com/track/5bL7lLuBr3is5XQkkq0aDJ"
@@ -5272,6 +5330,24 @@
       "duration_ms": 220080,
       "name": "Moncler",
       "url": "https://open.spotify.com/track/2jwNTvtfC1JoroZURUspXC"
+    },
+    {
+      "album": {
+        "name": "More Love Than Cupid",
+        "url": "https://open.spotify.com/album/1kzqACdSVQLMXJBAWEfqmY"
+      },
+      "artists": [
+        {
+          "name": "Sassa G",
+          "url": "https://open.spotify.com/artist/26zYpaoCbWbUrbu0v1EGYC"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188787,
+      "name": "More Love Than Cupid",
+      "url": "https://open.spotify.com/track/0GTLjir5qKuLkRU6HI8NeM"
     },
     {
       "album": {
@@ -7190,7 +7266,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 176326,
       "name": "P\u00e9talas",
       "url": "https://open.spotify.com/track/2HWv8qbMqtymyVqC7zpj4e"
@@ -7622,6 +7698,28 @@
       "duration_ms": 177464,
       "name": "Seguran\u00e7a",
       "url": "https://open.spotify.com/track/6CQei9foPt8tr65hP8ESdQ"
+    },
+    {
+      "album": {
+        "name": "Sem Advers\u00e1rios",
+        "url": "https://open.spotify.com/album/1JXDDmDi09WpQBNm23ZvT1"
+      },
+      "artists": [
+        {
+          "name": "Zara G",
+          "url": "https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb"
+        },
+        {
+          "name": "Progvid",
+          "url": "https://open.spotify.com/artist/53yPvcTuQToqXFtROPF11W"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200583,
+      "name": "Sem Advers\u00e1rios",
+      "url": "https://open.spotify.com/track/5XXfmE8eLjEkOIQjr78UFi"
     },
     {
       "album": {
@@ -8290,6 +8388,42 @@
       "duration_ms": 208000,
       "name": "Tenta\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7v383pu4yGbdQW5t8Gv2dV"
+    },
+    {
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/3HcP3jIznUkVsqrb5zNTP0"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Rdc",
+          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217782,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/007WdvGuyIr8RcOU50AKR8"
+    },
+    {
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/4E4ucv13vQBNU16yhIwOGs"
+      },
+      "artists": [
+        {
+          "name": "Puro L",
+          "url": "https://open.spotify.com/artist/2qGDFd5cXDkCsP20UpBXQ5"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258868,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/1R2zJFZUSYHU8QUtHILfK6"
     },
     {
       "album": {
@@ -9020,6 +9154,24 @@
       "duration_ms": 241565,
       "name": "Volta",
       "url": "https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3"
+    },
+    {
+      "album": {
+        "name": "V\u00edcios",
+        "url": "https://open.spotify.com/album/45IAVsmUDKC52Cb9rPZWGY"
+      },
+      "artists": [
+        {
+          "name": "Estraca",
+          "url": "https://open.spotify.com/artist/1pA4isjpfB72WlZgDJhDjq"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179842,
+      "name": "V\u00edcios",
+      "url": "https://open.spotify.com/track/6t69SZfgiNIeMI0mjCqU52"
     },
     {
       "album": {

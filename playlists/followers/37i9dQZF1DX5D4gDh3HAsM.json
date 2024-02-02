@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 564584,
+  "2024-02-02": 564468,
   "date_first_scraped": "2021-12-28",
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
   "name": "Christmas Jazz",
@@ -2295,10 +2295,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 167666,
       "name": "The Christmas Waltz",
       "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
+    },
+    {
+      "album": {
+        "name": "A Very Laufey Holiday!",
+        "url": "https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/4eEdv0ZBTtWh8zS41SeUp8"
     },
     {
       "album": {

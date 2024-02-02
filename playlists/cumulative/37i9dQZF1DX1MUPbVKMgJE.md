@@ -2,7 +2,7 @@
 
 ### [Disco Forever](https://open.spotify.com/playlist/37i9dQZF1DX1MUPbVKMgJE)
 
-> All your Disco favorites\. Cover: Earth Wind & Fire
+> All your Disco favorites\. Cover: Donna Summer
 
 157 songs - 13 hr 32 min
 

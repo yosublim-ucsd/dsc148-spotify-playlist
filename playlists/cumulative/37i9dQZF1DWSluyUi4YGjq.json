@@ -620,10 +620,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 176230,
       "name": "Avalon",
       "url": "https://open.spotify.com/track/3d9lGlazIwY8f2xBfIIGps"
+    },
+    {
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/6193L5p5jwFGW6ivHCxMkX"
+      },
+      "artists": [
+        {
+          "name": "Zeruel",
+          "url": "https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176230,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/5Zs526IB2ezqyXc9WthLuY"
     },
     {
       "album": {

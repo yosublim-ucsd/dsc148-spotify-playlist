@@ -4,7 +4,7 @@
 
 > LeeHi's here for you, Hice Creams!
 
-119 songs - 7 hr 25 min
+120 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,8 +106,9 @@
 | [Sway \(푸시캣돌스\)](https://open.spotify.com/track/40b0zEI13mYnmNA8VSyx6W) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 6](https://open.spotify.com/album/53i3A4spyFNPr5IO5g6Is4) | 3:24 | 2022-03-14 | 2023-12-16 |
 | [Turn It Up](https://open.spotify.com/track/02L48nV0vwTuXl9bLIlMFn) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 1:47 | 2022-03-14 |  |
 | [Turn It Up](https://open.spotify.com/track/0t6hr8idp6EACxH95LCbjC) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S) | 1:47 | 2022-03-14 | 2022-07-29 |
-| [U Go Girl](https://open.spotify.com/track/3qYgty7NLEqtlp5g3zcaf0) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [K팝 스타 Top 3](https://open.spotify.com/album/2KnJ8hw1rWRdrsnRqo4CQz) | 3:41 | 2022-03-14 |  |
+| [U Go Girl](https://open.spotify.com/track/3qYgty7NLEqtlp5g3zcaf0) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [K팝 스타 Top 3](https://open.spotify.com/album/2KnJ8hw1rWRdrsnRqo4CQz) | 3:41 | 2022-03-14 | 2024-02-02 |
 | [U Go Girl \(Lee hyo ri\)](https://open.spotify.com/track/0txg4Pz2HSLfYhHWWLWQ8T) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K\-POP Star Top 3](https://open.spotify.com/album/16jo5GozI0XJRVxzfY7ka0) | 3:41 | 2022-03-14 | 2024-01-31 |
+| [U Go Girl \(Lee hyo ri\)](https://open.spotify.com/track/3bnSsHGurkr5kTcMKEYmIr) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K\-POP Star Top 3](https://open.spotify.com/album/4TTOBtpXwVNIxzZC83h1Ru) | 3:41 | 2024-01-17 |  |
 | [U Go Girl \(이효리\)](https://open.spotify.com/track/09HZ40hwlGbkl8mObkd1K5) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 3](https://open.spotify.com/album/6TFW5xgNem8rm12rspjfW6) | 3:41 | 2022-03-14 | 2023-12-16 |
 | [UP ALL NIGHT](https://open.spotify.com/track/3cLdPR1C6skgxJBIBv1CKt) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [SEOULITE](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | 3:40 | 2022-03-14 |  |
 | [UP ALL NIGHT](https://open.spotify.com/track/1FxbmTpIXQ1TxR4Y3Klbba) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [SEOULITE](https://open.spotify.com/album/1g08wh1OcyBLzMqRjNj5xJ) | 3:40 | 2022-03-14 | 2022-07-29 |

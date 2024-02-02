@@ -4,7 +4,7 @@
 
 > Top of the top hits from Korean Pop Artists! Cover: <a href="spotify:artist:41MozSoPIsD1dJM0CLPjZF">BLACKPINK</a>
 
-154 songs - 9 hr 1 min
+155 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 | 2022-07-14 |  |
 | [Wi Ing Wi Ing 위잉위잉](https://open.spotify.com/track/5NnNl71fwVkuB1M45CXvdb) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6rvPr27TMi5v6EJkHeInR4) | 3:14 | 2022-03-18 | 2022-07-29 |
 | [WINE \(Feat.Changmo\) \(Prod\. SUGA\)](https://open.spotify.com/track/3eHkFA3StDR9BU7EVrUFLs) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [WINE](https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75) | 3:52 | 2022-03-18 |  |
-| [YOU AND I](https://open.spotify.com/track/1sS61BTtpJxiw8VARNrD7n) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Nightmare \- Escape The ERA](https://open.spotify.com/album/3Y6fSean6h89OygPL0azrn) | 3:15 | 2022-03-18 |  |
+| [YOU AND I](https://open.spotify.com/track/1sS61BTtpJxiw8VARNrD7n) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Nightmare \- Escape The ERA](https://open.spotify.com/album/3Y6fSean6h89OygPL0azrn) | 3:15 | 2022-03-18 | 2024-02-02 |
+| [YOU AND I](https://open.spotify.com/track/4M5HZnLcoHBllOB5OF6UKE) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Nightmare \- Escape The ERA](https://open.spotify.com/album/5Kb4FUQqxS5lcHJQVIxTIF) | 3:15 | 2022-07-14 |  |
 | [YOUNG](https://open.spotify.com/track/49HmLcTG7tsqz32TF3rnCC) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [YOUNG](https://open.spotify.com/album/5XN0VfKWEWpxhjcks8MGLe) | 3:49 | 2022-03-18 |  |
 | [花요일 Blooming Day](https://open.spotify.com/track/4kmp56RAtXEzHOANS0BaLX) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [Blooming Days \- The 2nd Mini Album](https://open.spotify.com/album/14zRuZjpOkB4IrUkFsrN31) | 3:19 | 2022-03-18 |  |
 | [긴 밤이 오면](https://open.spotify.com/track/3j1RB91MFxn8oY9jYoQ36t) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [While You Were Sleeping, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Mi8XGlryJ75HOoWpbkR6x) | 3:46 | 2022-07-14 |  |

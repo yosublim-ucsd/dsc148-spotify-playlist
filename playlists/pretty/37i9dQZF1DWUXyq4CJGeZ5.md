@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 
 > Piano music for fall vibes and autumnal moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,911 likes - 430 songs - 19 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,908 likes - 430 songs - 19 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -439,4 +439,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 | 429 | [In Absentia](https://open.spotify.com/track/4JCgdyOYbYasqg1NWLEAnd) | [Ximena Lopez](https://open.spotify.com/artist/0xYM56zKh0cqSMVSAkqg0P) | [In Absentia](https://open.spotify.com/album/0KAYnnWgnaqGwLIHljAdkT) | 2:59 |
 | 430 | [Home](https://open.spotify.com/track/05Q8uBYvjswv0o6tleaVai) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Home](https://open.spotify.com/album/42kPAPri8I3wQyc42KZ9ok) | 3:25 |
 
-Snapshot ID: `MCw4Zjk1NzY1NjdjNzZjNGI2YTY0YzRkZTg3NjRkODlhMDc3Y2U5NTRk`
+Snapshot ID: `MCwxZWZlZmFhODA1NWYyMDc5NTQ1Mzk1OGYyZTlmMzQ2OGVlMzdlOGVi`

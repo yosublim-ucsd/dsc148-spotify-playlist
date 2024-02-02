@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 67983,
+  "num_followers": 68003,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDMwYjEyNDdhYWVmNDQwOWUzOTAyNDQ2ZjY3OTBjMWY4NGU4ZjU5",
+  "snapshot_id": "MCw1Y2JmYjU5OTcxYjA2MzRlZDQ1NjdmZDM1ZTY4NDM4ZDA4MTZlMTg0",
   "tracks": [
     {
       "added_at": "2024-01-10 11:09:49",
@@ -89,6 +89,42 @@
       "url": "https://open.spotify.com/track/7do3SyAo7tdUW47EQ2ivbX"
     },
     {
+      "added_at": "2024-02-01 08:39:17",
+      "album": {
+        "name": "This Moment",
+        "url": "https://open.spotify.com/album/283JCZJcJLqUYohOHMFuyI"
+      },
+      "artists": [
+        {
+          "name": "Shakti",
+          "url": "https://open.spotify.com/artist/3CHhVBXSF764Uot9sN2i8L"
+        },
+        {
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
+        },
+        {
+          "name": "Zakir Hussain",
+          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Selvaganesh Vinayakram",
+          "url": "https://open.spotify.com/artist/3zaDf0SFrXRErPR9pQUtup"
+        },
+        {
+          "name": "Ganesh Rajagopalan",
+          "url": "https://open.spotify.com/artist/5KyY7vbel5AZeTCe7sH2tM"
+        }
+      ],
+      "duration_ms": 431026,
+      "name": "Bending the Rules",
+      "url": "https://open.spotify.com/track/5vatektse7X51NxS0g5Y32"
+    },
+    {
       "added_at": "2024-01-10 11:09:49",
       "album": {
         "name": "Pasoori",
@@ -111,6 +147,30 @@
     {
       "added_at": "2024-01-10 11:09:49",
       "album": {
+        "name": "Bandish Bandits (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Farid Hasan",
+          "url": "https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ"
+        },
+        {
+          "name": "Mohammed Aman",
+          "url": "https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf"
+        }
+      ],
+      "duration_ms": 330921,
+      "name": "Garaj Garaj Jugalbandi",
+      "url": "https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO"
+    },
+    {
+      "added_at": "2024-01-10 11:09:49",
+      "album": {
         "name": "Khalasi | Coke Studio Bharat",
         "url": "https://open.spotify.com/album/0cUSfUJILJ9I38bntZKSLq"
       },
@@ -127,6 +187,26 @@
       "duration_ms": 258260,
       "name": "Khalasi | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/5LSAafg2oH9YPgf3EG17iw"
+    },
+    {
+      "added_at": "2024-01-10 11:09:49",
+      "album": {
+        "name": "Bandish Fusion & More",
+        "url": "https://open.spotify.com/album/2adewooNTGv4eFztnfoYAV"
+      },
+      "artists": [
+        {
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+        },
+        {
+          "name": "Ricky Kej",
+          "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
+        }
+      ],
+      "duration_ms": 400957,
+      "name": "Rangi Saari Gulabi Chunariya",
+      "url": "https://open.spotify.com/track/4JBNysi2ev6akvX0JXa9db"
     },
     {
       "added_at": "2024-01-10 11:09:49",
@@ -223,30 +303,6 @@
     {
       "added_at": "2024-01-10 11:09:49",
       "album": {
-        "name": "Bandish Bandits (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Farid Hasan",
-          "url": "https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ"
-        },
-        {
-          "name": "Mohammed Aman",
-          "url": "https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf"
-        }
-      ],
-      "duration_ms": 330921,
-      "name": "Garaj Garaj Jugalbandi",
-      "url": "https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO"
-    },
-    {
-      "added_at": "2024-01-10 11:09:49",
-      "album": {
         "name": "Samjhe Na",
         "url": "https://open.spotify.com/album/16EtpQZlUPuwFN1FC5bGeq"
       },
@@ -267,6 +323,30 @@
       "duration_ms": 197277,
       "name": "Samjhe Na",
       "url": "https://open.spotify.com/track/24tI4KfHROiG1cZNPerXWo"
+    },
+    {
+      "added_at": "2024-01-10 11:09:49",
+      "album": {
+        "name": "Bandish Bandits (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Ajoy Chakrabarty",
+          "url": "https://open.spotify.com/artist/6Xg6qVSMnpyFFBf8mtuUrR"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "duration_ms": 158476,
+      "name": "Garaj Garaj",
+      "url": "https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2"
     },
     {
       "added_at": "2024-01-10 11:09:49",
@@ -335,30 +415,6 @@
     {
       "added_at": "2024-01-10 11:09:49",
       "album": {
-        "name": "Bandish Bandits (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Ajoy Chakrabarty",
-          "url": "https://open.spotify.com/artist/6Xg6qVSMnpyFFBf8mtuUrR"
-        },
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        }
-      ],
-      "duration_ms": 158476,
-      "name": "Garaj Garaj",
-      "url": "https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2"
-    },
-    {
-      "added_at": "2024-01-10 11:09:49",
-      "album": {
         "name": "Chanakya",
         "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
       },
@@ -371,6 +427,30 @@
       "duration_ms": 163071,
       "name": "Chanakya",
       "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
+    },
+    {
+      "added_at": "2024-01-10 11:09:49",
+      "album": {
+        "name": "Radhe (From Songs of Faith)",
+        "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Neeraj Arya",
+          "url": "https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo"
+        },
+        {
+          "name": "Arunima Bhattacharya",
+          "url": "https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3"
+        }
+      ],
+      "duration_ms": 218307,
+      "name": "Radhe (From Songs of Faith)",
+      "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
     },
     {
       "added_at": "2024-01-10 11:09:49",
@@ -407,30 +487,6 @@
       "duration_ms": 190128,
       "name": "Dil Mein Ab",
       "url": "https://open.spotify.com/track/2c16ylboGOBz9EWMZ6iiEA"
-    },
-    {
-      "added_at": "2024-01-10 11:09:49",
-      "album": {
-        "name": "Radhe (From Songs of Faith)",
-        "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Neeraj Arya",
-          "url": "https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo"
-        },
-        {
-          "name": "Arunima Bhattacharya",
-          "url": "https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3"
-        }
-      ],
-      "duration_ms": 218307,
-      "name": "Radhe (From Songs of Faith)",
-      "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
     },
     {
       "added_at": "2024-01-10 11:09:49",
@@ -519,50 +575,6 @@
     {
       "added_at": "2024-01-10 11:09:49",
       "album": {
-        "name": "Aaj Rang Hai",
-        "url": "https://open.spotify.com/album/5ANnHLbfSJXZMUjPQTX13W"
-      },
-      "artists": [
-        {
-          "name": "Amaan Ali Bangash",
-          "url": "https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg"
-        },
-        {
-          "name": "Amrita Kak",
-          "url": "https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2"
-        },
-        {
-          "name": "Ayaan Ali Bangash",
-          "url": "https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG"
-        }
-      ],
-      "duration_ms": 205943,
-      "name": "Aaj Rang Hai",
-      "url": "https://open.spotify.com/track/60qVbVr6wm7yTOoj0s0a9z"
-    },
-    {
-      "added_at": "2024-01-10 11:09:49",
-      "album": {
-        "name": "Yariyaan - Single",
-        "url": "https://open.spotify.com/album/2EksT9ocgAiLmT4TIO15xV"
-      },
-      "artists": [
-        {
-          "name": "Hari & Sukhmani",
-          "url": "https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj"
-        },
-        {
-          "name": "Noori",
-          "url": "https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl"
-        }
-      ],
-      "duration_ms": 311186,
-      "name": "Yariyaan",
-      "url": "https://open.spotify.com/track/5DSFsWFoGi37SivNJAoTi4"
-    },
-    {
-      "added_at": "2024-01-10 11:09:49",
-      "album": {
         "name": "This Moment",
         "url": "https://open.spotify.com/album/283JCZJcJLqUYohOHMFuyI"
       },
@@ -595,6 +607,50 @@
       "duration_ms": 390826,
       "name": "Shrini\u2019s Dream",
       "url": "https://open.spotify.com/track/6llehsN0Mgms7vs6J88zTX"
+    },
+    {
+      "added_at": "2024-01-10 11:09:49",
+      "album": {
+        "name": "Yariyaan - Single",
+        "url": "https://open.spotify.com/album/2EksT9ocgAiLmT4TIO15xV"
+      },
+      "artists": [
+        {
+          "name": "Hari & Sukhmani",
+          "url": "https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj"
+        },
+        {
+          "name": "Noori",
+          "url": "https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl"
+        }
+      ],
+      "duration_ms": 311186,
+      "name": "Yariyaan",
+      "url": "https://open.spotify.com/track/5DSFsWFoGi37SivNJAoTi4"
+    },
+    {
+      "added_at": "2024-01-10 11:09:49",
+      "album": {
+        "name": "Aaj Rang Hai",
+        "url": "https://open.spotify.com/album/5ANnHLbfSJXZMUjPQTX13W"
+      },
+      "artists": [
+        {
+          "name": "Amaan Ali Bangash",
+          "url": "https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg"
+        },
+        {
+          "name": "Amrita Kak",
+          "url": "https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2"
+        },
+        {
+          "name": "Ayaan Ali Bangash",
+          "url": "https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG"
+        }
+      ],
+      "duration_ms": 205943,
+      "name": "Aaj Rang Hai",
+      "url": "https://open.spotify.com/track/60qVbVr6wm7yTOoj0s0a9z"
     },
     {
       "added_at": "2024-01-10 11:09:49",
@@ -739,26 +795,6 @@
     {
       "added_at": "2024-01-10 11:09:49",
       "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/02tgCcfhK6499d0CtWPQgR"
-      },
-      "artists": [
-        {
-          "name": "Ricky Kej",
-          "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
-        },
-        {
-          "name": "Charanraj MR",
-          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
-        }
-      ],
-      "duration_ms": 141459,
-      "name": "The Awakening",
-      "url": "https://open.spotify.com/track/2pvslHf4vcFm5PVW6wtMwo"
-    },
-    {
-      "added_at": "2024-01-10 11:09:49",
-      "album": {
         "name": "Ras Ke Bhare",
         "url": "https://open.spotify.com/album/2zFQCsirZmXXl4qNNO55D9"
       },
@@ -775,6 +811,26 @@
       "duration_ms": 233181,
       "name": "Ras Ke Bhare",
       "url": "https://open.spotify.com/track/00Z4zBOh25NUzsUGffMrZS"
+    },
+    {
+      "added_at": "2024-01-10 11:09:49",
+      "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/02tgCcfhK6499d0CtWPQgR"
+      },
+      "artists": [
+        {
+          "name": "Ricky Kej",
+          "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
+        },
+        {
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
+        }
+      ],
+      "duration_ms": 141459,
+      "name": "The Awakening",
+      "url": "https://open.spotify.com/track/2pvslHf4vcFm5PVW6wtMwo"
     },
     {
       "added_at": "2024-01-10 11:09:49",
@@ -859,30 +915,6 @@
     {
       "added_at": "2024-01-10 11:09:49",
       "album": {
-        "name": "Songs Of The River - Ganga",
-        "url": "https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn"
-      },
-      "artists": [
-        {
-          "name": "Shantanu Moitra",
-          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
-        },
-        {
-          "name": "Kaushiki Chakraborty",
-          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
-        },
-        {
-          "name": "Ambi Subramaniam",
-          "url": "https://open.spotify.com/artist/2sqD8w8hUsrIqYqyoxZC54"
-        }
-      ],
-      "duration_ms": 253636,
-      "name": "Bhagirathi",
-      "url": "https://open.spotify.com/track/1FKR1MFGHdjrIMoel4VyXc"
-    },
-    {
-      "added_at": "2024-01-10 11:09:49",
-      "album": {
         "name": "Albela",
         "url": "https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ"
       },
@@ -915,6 +947,30 @@
       "duration_ms": 239813,
       "name": "Lat Ulajhi",
       "url": "https://open.spotify.com/track/7pbF3jhnwASjMxeItgHP1S"
+    },
+    {
+      "added_at": "2024-01-10 11:09:49",
+      "album": {
+        "name": "Songs Of The River - Ganga",
+        "url": "https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn"
+      },
+      "artists": [
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        },
+        {
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+        },
+        {
+          "name": "Ambi Subramaniam",
+          "url": "https://open.spotify.com/artist/2sqD8w8hUsrIqYqyoxZC54"
+        }
+      ],
+      "duration_ms": 253636,
+      "name": "Bhagirathi",
+      "url": "https://open.spotify.com/track/1FKR1MFGHdjrIMoel4VyXc"
     },
     {
       "added_at": "2024-01-10 11:09:49",
@@ -995,38 +1051,6 @@
       "duration_ms": 335600,
       "name": "Longing",
       "url": "https://open.spotify.com/track/36RxCz8eUDCc6nKp9cvlhb"
-    },
-    {
-      "added_at": "2024-01-10 11:09:49",
-      "album": {
-        "name": "Padharo Mhare Des (Folk Fusion)",
-        "url": "https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N"
-      },
-      "artists": [
-        {
-          "name": "Swaraag",
-          "url": "https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Padharo Mhare Des - Folk Fusion",
-      "url": "https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx"
-    },
-    {
-      "added_at": "2024-01-10 11:09:49",
-      "album": {
-        "name": "Barsan Lagi",
-        "url": "https://open.spotify.com/album/24Ro5vvqnf9ElJX9ZgdhL4"
-      },
-      "artists": [
-        {
-          "name": "Abhay Jodhpurkar",
-          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
-        }
-      ],
-      "duration_ms": 219456,
-      "name": "Barsan Lagi",
-      "url": "https://open.spotify.com/track/2DolnMsowdoeGwD9f1P9iJ"
     }
   ],
   "unique_name": "Fusion Finds",

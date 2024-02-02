@@ -4,7 +4,7 @@
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-65 songs - 3 hr 28 min
+66 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Bombay Dreams \(feat\. Kavita Seth\)](https://open.spotify.com/track/4SlCYFaUQ8GRuwdpgniaGF) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Bombay Dreams \(feat\. Kavita Seth\)](https://open.spotify.com/album/5EyIytU4jYrTCuf8Xy49M3) | 3:18 | 2023-10-20 |  |
 | [Castles \- Bomb Bay Remix](https://open.spotify.com/track/7xasn2JEKs7Qf36NeK1Ztu) | [Anish Sood](https://open.spotify.com/artist/7qjp4poDA0EDaiCEKuH1ZQ), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Bomb Bay](https://open.spotify.com/artist/7xsYqVqZED2jeOTZESZ6Q8) | [Castles \(Bomb Bay Remix\)](https://open.spotify.com/album/0EcQPZjTUdW0Ta8sa18l8j) | 3:37 | 2023-10-20 |  |
 | [Chemistry](https://open.spotify.com/track/79yCicUXsMibJTNY0y5CXE) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Kanchan Daniel](https://open.spotify.com/artist/3PLLYBkFo8mZO9JIsXRRUA) | [Music For The \# Generation](https://open.spotify.com/album/5eEqeXiXjxhcZisBravDBr) | 3:39 | 2023-10-20 |  |
-| [Desire](https://open.spotify.com/track/3ksugse2MMQvb5RwILo8gL) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Ampresi](https://open.spotify.com/artist/5Fn1hBOpMl6EGasVkGAZ1P) | [Desire](https://open.spotify.com/album/2ZUXqOCce6uUxWYD7ZTfiU) | 3:50 | 2023-10-20 |  |
+| [Desire](https://open.spotify.com/track/3ksugse2MMQvb5RwILo8gL) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Ampresi](https://open.spotify.com/artist/5Fn1hBOpMl6EGasVkGAZ1P) | [Desire](https://open.spotify.com/album/2ZUXqOCce6uUxWYD7ZTfiU) | 3:50 | 2023-10-20 | 2024-02-02 |
+| [Desire](https://open.spotify.com/track/5jxoaTAMBZvZpN547gsF0e) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Ampresi](https://open.spotify.com/artist/5Fn1hBOpMl6EGasVkGAZ1P) | [Desire](https://open.spotify.com/album/6BGrMSEHdcrc8tvs5BVqW7) | 3:50 | 2023-12-06 |  |
 | [Easy to Say](https://open.spotify.com/track/34vphJNw9MpZqkNhOXEXkp) | [\#BBC](https://open.spotify.com/artist/0Q6aidKFOfCW2H1OW0ExOV) | [Easy to Say](https://open.spotify.com/album/7upEImDiNfOU0XNPjGQbWL) | 2:55 | 2023-12-06 |  |
 | [Easy To Say](https://open.spotify.com/track/3j9VzQkNGlZsr5582nKC1A) | [\#BBC](https://open.spotify.com/artist/0Q6aidKFOfCW2H1OW0ExOV) | [Easy To Say](https://open.spotify.com/album/6XSZrddGLhqcfSTcRZ3Rdp) | 2:55 | 2023-10-20 | 2024-01-29 |
 | [Flash](https://open.spotify.com/track/216RNiFj3BXXJZeYdCuUUr) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Flash](https://open.spotify.com/album/7EGry35I28U6reu63FlS4g) | 2:41 | 2023-10-20 |  |

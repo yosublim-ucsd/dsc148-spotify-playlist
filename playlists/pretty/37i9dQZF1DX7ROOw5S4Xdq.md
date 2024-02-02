@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: fhop music, Nívea Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,049 likes - 30 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,029 likes - 30 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 22 | [Grita! \(Shout!\) \- Ao Vivo](https://open.spotify.com/track/37h3VwFhtyxPp3jHD5sVXv) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Deixa Vir \- Vol II \(Ao Vivo\)](https://open.spotify.com/album/5qjk2btAEazVwm5MtrMcSE) | 4:41 |
 | 23 | [Vencer ou Vencer \(Ao Vivo\)](https://open.spotify.com/track/49GcUA2Qz4UWtuEVoxAAKF) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vencer ou Vencer \(Ao Vivo\)](https://open.spotify.com/album/6OK6jO8c6xB6QPdH56OYtE) | 5:25 |
 | 24 | [Me Lanço No Fogo](https://open.spotify.com/track/2fxWnGijuFl9c47IqtufGf) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Jessé Perão](https://open.spotify.com/artist/4F0ulsWKtKLdRkhxXDWv7l) | [Amigo](https://open.spotify.com/album/0m6DfVHeya8282nP01VS3Z) | 17:44 |
-| 25 | [Salmos 126](https://open.spotify.com/track/6hnv3hBOH0DsezViFDigud) | [Banda Universos](https://open.spotify.com/artist/6aYDjNjZBA7pSdglbMkgSC) | [Salmos 126](https://open.spotify.com/album/0IPyTBkXN4m67y4iS5nQ7H) | 3:15 |
+| 25 | [Salmos 126](https://open.spotify.com/track/2IDgmPIhL95HPzIcNUuG5D) | [Banda Universos](https://open.spotify.com/artist/6aYDjNjZBA7pSdglbMkgSC) | [Salmo 126](https://open.spotify.com/album/7bsxee4VZl2N39CzF1nPKk) | 3:15 |
 | 26 | [Guarda Meu Coração \(Ao Vivo\)](https://open.spotify.com/track/7jwR12aydd9GaSVZyHC4CC) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk) | [Guarda Meu Coração \(Ao Vivo\)](https://open.spotify.com/album/4sJbHPIdo01IM8O8KCJIOo) | 4:18 |
 | 27 | [Sou Teu Deus \(Ao Vivo\)](https://open.spotify.com/track/3eV6yRdBsk4fEE3vWITlIi) | [Letícia Vitória](https://open.spotify.com/artist/5TiYZA0hvaVGzez5lg9WhR) | [Sou Teu Deus \(Ao Vivo\)](https://open.spotify.com/album/6CK5rKAzqiKpm9Q9JdFMOW) | 4:38 |
 | 28 | [Digno É o Cordeiro](https://open.spotify.com/track/6fDudxq0GyMi05MQFIu19Y) | [Higor Rosa](https://open.spotify.com/artist/2fqNvfLoAikmiTGR5WgOeA), [Davi Silva](https://open.spotify.com/artist/37MmnavknAY8Z2ICERRshR) | [Digno É o Cordeiro](https://open.spotify.com/album/3Yq1vi6EhN3CejrghaKQyE) | 10:19 |
 | 29 | [Salmo 23](https://open.spotify.com/track/0ZqtF3wEbBIwfItBjuqyy4) | [Dort](https://open.spotify.com/artist/55J6E4RG9NM379yUE7F9A0) | [Salmo 23](https://open.spotify.com/album/68M07CNpq6vftxAy3UYSB9) | 5:00 |
 | 30 | [A Benção \- The Blessing](https://open.spotify.com/track/7ni7ZHhG5wLh2x4DeQnzI8) | [Musical Songsdei](https://open.spotify.com/artist/5O1bWmXcQoWFeW4QhmEMIb) | [Wedding Songs](https://open.spotify.com/album/6idu1dWtpDqDgRMqe2duxu) | 4:10 |
 
-Snapshot ID: `MCw5ZTRhYmE5MzEyMGEzMTVjMDY0OGRiYjBkMGUzOTVjOGMwNTZmMGJh`
+Snapshot ID: `MCxkMTFhZTEwYmUzZGI4NTk3ZGNkOTVjYjVjZDBkOTE0ZmIzYTQzZTA4`

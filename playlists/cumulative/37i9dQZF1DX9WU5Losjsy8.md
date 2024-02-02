@@ -4,7 +4,7 @@
 
 > Skifoan und Hüttenabriss.
 
-112 songs - 5 hr 39 min
+113 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Kleine Fee](https://open.spotify.com/track/6Hh3PWarkgiMwUP2klVS8h) | [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Kleine Fee](https://open.spotify.com/album/6mR5HHT7NuAD3ZA82tusHM) | 2:18 | 2023-10-20 | 2023-12-13 |
 | [Klempner Klaus](https://open.spotify.com/track/0LStK5S9hM7tmi8X7TItkY) | [GABBY](https://open.spotify.com/artist/7gM9yfQR9QrXqnHmeIkhbI), [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO) | [Klempner Klaus](https://open.spotify.com/album/4ZUCnOcTeLaz8XAKhl1zTL) | 2:35 | 2023-08-28 |  |
 | [Knicklicht](https://open.spotify.com/track/4tPfm4RkiCw8XppXUnFe7c) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Knicklicht](https://open.spotify.com/album/1TqfTWxuO8ciwXwoUB5GgE) | 2:18 | 2023-07-14 | 2024-01-19 |
+| [Knicklicht](https://open.spotify.com/track/6wXGstjGjHtMoGnJ8dar1M) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Knicklicht](https://open.spotify.com/album/3kklz0c9Z29XpvMv1e1rvq) | 2:18 | 2024-01-26 |  |
 | [Lass uns nicht geh'n \- Stereoact Remix](https://open.spotify.com/track/72FeMSpQJwXnhPT2sPjdqA) | [Cat Ballou](https://open.spotify.com/artist/6d5CGj93XLaqmyt10XgL8O), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Lass uns nicht geh'n \(Stereoact Remix\)](https://open.spotify.com/album/5LwpB5j8Z7iIm3zosk0SKf) | 2:44 | 2024-01-26 |  |
 | [Layla](https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Layla](https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4) | 3:05 | 2023-07-14 |  |
 | [Lea](https://open.spotify.com/track/02AnxXaXzxredcMjjb26U0) | [Bierkapitän](https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD), [Andy Luxx](https://open.spotify.com/artist/09Mknlo1aOXbEtxUD41wH2), [Dj Aaron](https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ) | [Lea](https://open.spotify.com/album/7DpARaNJn5iLOKGVANTSsq) | 2:39 | 2023-07-14 |  |
@@ -116,7 +117,7 @@
 | [Verdammt, ich lieb Dich \- 2020 Remastered](https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Reim \(Expanded Edition\)](https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg) | 3:40 | 2023-07-14 | 2023-11-04 |
 | [Wahnsinn](https://open.spotify.com/track/2Nv773K16hckJrb3Ir7wOu) | [Wolfgang Petry](https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7) | [Ich will mehr](https://open.spotify.com/album/77VmZTMiGJbIPBDchKu4hB) | 3:42 | 2023-08-28 |  |
 | [Wenn Du Bock hast \(kannst Du Dir noch'n Korn abholen\)](https://open.spotify.com/track/46D0UOocYv3GhGMemELnLD) | [MaxUhu](https://open.spotify.com/artist/2H9x61CC4ane71CxHsBA5V), [Bangermin](https://open.spotify.com/artist/2vB5ZWcBm1uV4bQhUT27ZQ) | [Wenn Du Bock hast \(kannst Du Dir noch'n Korn abholen\)](https://open.spotify.com/album/3W5Lgeupld5gcJvP3MKiJd) | 3:21 | 2023-12-19 | 2024-01-22 |
-| [Wieder Alles Im Griff \- Single Mix '99](https://open.spotify.com/track/0xJCFn6sMc3jgPmraCK0l6) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Der Deutsche Disco Fox Hit Mix 2005](https://open.spotify.com/album/2FVWxWLDl074hApITwtO9k) | 3:37 | 2023-12-19 |  |
+| [Wieder Alles Im Griff \- Single Mix '99](https://open.spotify.com/track/0xJCFn6sMc3jgPmraCK0l6) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Der Deutsche Disco Fox Hit Mix 2005](https://open.spotify.com/album/2FVWxWLDl074hApITwtO9k) | 3:37 | 2023-12-19 | 2024-02-02 |
 | [Wir eskalieren](https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Wir eskalieren](https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA) | 3:36 | 2023-07-14 |  |
 | [You're My Mate](https://open.spotify.com/track/7N0ds009y5ZNY90KGPuegE) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Fredhead](https://open.spotify.com/album/3tusImScmJ0KI6SYJgSbNR) | 3:17 | 2023-07-14 | 2023-07-29 |
 | [Zum Greifen nah](https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D) | [Rumbombe](https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG), [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO) | [Zum Greifen nah](https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf) | 2:47 | 2023-07-14 |  |

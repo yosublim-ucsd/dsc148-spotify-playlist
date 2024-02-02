@@ -6895,6 +6895,24 @@
     },
     {
       "album": {
+        "name": "CZAS CI\u0118 GONI",
+        "url": "https://open.spotify.com/album/6e1fjugmOLKnbDHKcSgf3q"
+      },
+      "artists": [
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179256,
+      "name": "CZAS CI\u0118 GONI",
+      "url": "https://open.spotify.com/track/0Cy7JUkNoTvArY03EEVfPA"
+    },
+    {
+      "album": {
         "name": "Czekam Na Znak",
         "url": "https://open.spotify.com/album/0qlpEOnkA92eMNZNuXJ7bn"
       },
@@ -7298,7 +7316,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -13626,7 +13644,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 149000,
       "name": "jem zimnego tosta",
       "url": "https://open.spotify.com/track/6wwzObHjLsOrvQvZ1QDanB"
@@ -16534,7 +16552,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 142222,
       "name": "Leje Wina",
       "url": "https://open.spotify.com/track/1feg6LWYEdvsjOLzAgWgDd"
@@ -25058,7 +25076,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -27980,7 +27998,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 150943,
       "name": "Skippers",
       "url": "https://open.spotify.com/track/4uayCD0blZhblTiQqKLYiC"

@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 66853,
+  "2024-02-02": 66893,
   "date_first_scraped": "2022-02-21",
   "description": "Spotify\u304c2024\u5e74\u306b\u8e8d\u9032\u3092\u671f\u5f85\u3059\u308b\u6b21\u4e16\u4ee3\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u300cRADAR: Early Noise 2024\u300d10\u7d44\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u767a\u8868\uff01\uff01 Cover: \u96e2\u5a5a\u4f1d\u8aac/\uff0a<a href=\"https://spotify-earlynoise.jp/\">2024.3.15 Early Noise Night#16\u958b\u50ac\u6c7a\u5b9a\uff01</a>",
   "name": "RADAR: Early Noise 2024",
@@ -8669,6 +8669,24 @@
     {
       "album": {
         "name": "New World",
+        "url": "https://open.spotify.com/album/3gcX6aWX8a6ZDbPtlVYvXA"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163013,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/5d0901OV306utjv7ALii1O"
+    },
+    {
+      "album": {
+        "name": "New World",
         "url": "https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq"
       },
       "artists": [
@@ -8679,7 +8697,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 163013,
       "name": "New World",
       "url": "https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J"

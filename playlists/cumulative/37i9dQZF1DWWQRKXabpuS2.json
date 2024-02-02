@@ -2107,6 +2107,24 @@
     },
     {
       "album": {
+        "name": "Fahad 2024",
+        "url": "https://open.spotify.com/album/4uEthD59d5aDXHxdRVh5Jy"
+      },
+      "artists": [
+        {
+          "name": "Fahad Alamri",
+          "url": "https://open.spotify.com/artist/5NUJZVaGD6S8osJn80Vt3P"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227520,
+      "name": "Jeetk",
+      "url": "https://open.spotify.com/track/7M0FzzZNLa4hicFxzfaviH"
+    },
+    {
+      "album": {
         "name": "Kareh Nafsi",
         "url": "https://open.spotify.com/album/6WAwzHLkg6FeJh07Mgo0qp"
       },
@@ -2208,7 +2226,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 351553,
       "name": "Kellahe El Shouq",
       "url": "https://open.spotify.com/track/6E3UOyIIeRzeycTVY84CLZ"
@@ -4575,6 +4593,28 @@
     },
     {
       "album": {
+        "name": "\u0627\u0644\u0641 \u0634\u0643\u0631\u0627\u064b",
+        "url": "https://open.spotify.com/album/4avdv89BhKv0QIZbxDtWXd"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u0631\u0648\u0627\u0646 \u0627\u0644\u0634\u0631\u0639\u0628\u064a",
+          "url": "https://open.spotify.com/artist/0y3v5JCTe3Thy9ENaJek3C"
+        },
+        {
+          "name": "\u0645\u062d\u0645\u062f \u0627\u0644\u0645\u064a\u0633\u0631\u064a",
+          "url": "https://open.spotify.com/artist/4Nobe2k6jBh5aMirCIlChR"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186911,
+      "name": "\u0627\u0644\u0641 \u0634\u0643\u0631\u0627\u064b",
+      "url": "https://open.spotify.com/track/1ZADeCy8PdRpyWTp4o6UAz"
+    },
+    {
+      "album": {
         "name": "\u0631\u0627\u0628\u062d \u0635\u0642\u0631 2023",
         "url": "https://open.spotify.com/album/1JacTI0m2p7hVvIta6UVpi"
       },
@@ -5510,7 +5550,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 334011,
       "name": "\u064a\u0627 \u0645\u0648\u0627\u062f\u0639\u0646\u064a",
       "url": "https://open.spotify.com/track/4xkoyU4spVdQdqThhLKfWY"

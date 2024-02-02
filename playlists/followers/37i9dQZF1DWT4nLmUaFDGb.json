@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 469770,
+  "2024-02-02": 469977,
   "date_first_scraped": "2022-01-26",
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
   "name": "Easy Jazz",
@@ -637,7 +637,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 228639,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP"
@@ -1463,7 +1463,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 272768,
       "name": "Hilltop",
       "url": "https://open.spotify.com/track/4b9JWOc6HbWTSlgmQVyjqF"

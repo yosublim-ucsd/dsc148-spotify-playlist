@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 9844,
+  "2024-02-02": 9884,
   "date_first_scraped": "2023-10-20",
   "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover: <a href=\"https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj?si=UC5GokWQQZObai5SqjeeTA\">Sinmidele</a> ",
   "name": "Praise and Chill",
@@ -1489,10 +1489,32 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 195000,
       "name": "Memories",
       "url": "https://open.spotify.com/track/06Aw2mGplT34DH8p685eKc"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/10LzKOFf7M5m1LVAucGsHM"
+      },
+      "artists": [
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Just Derrick",
+          "url": "https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2cJZ2nyLpIzHSQcZzDmiWL"
     },
     {
       "album": {

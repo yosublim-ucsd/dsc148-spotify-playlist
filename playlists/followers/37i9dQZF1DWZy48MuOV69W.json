@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 73802,
+  "2024-02-02": 73787,
   "date_first_scraped": "2021-12-28",
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
   "name": "Fireside Christmas Jazz",
@@ -1619,10 +1619,28 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 167666,
       "name": "The Christmas Waltz",
       "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
+    },
+    {
+      "album": {
+        "name": "A Very Laufey Holiday!",
+        "url": "https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/4eEdv0ZBTtWh8zS41SeUp8"
     },
     {
       "album": {

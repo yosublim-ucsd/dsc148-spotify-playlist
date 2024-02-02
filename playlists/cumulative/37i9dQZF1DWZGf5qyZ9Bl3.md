@@ -4,7 +4,7 @@
 
 > chill piano melodies and cozy lofi beats
 
-107 songs - 4 hr 5 min
+111 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [back to the way it was](https://open.spotify.com/track/7A96feaxjLPBkVksD221Vb) | [slone](https://open.spotify.com/artist/7srYknHlhn9AnHNmBhAFOb) | [back to the way it was](https://open.spotify.com/album/1IOafL6GAmdaqvCzPHunUd) | 1:49 | 2023-09-22 |  |
 | [Balancing Act](https://open.spotify.com/track/4vCoZT4ZIQa34l60caeafu) | [Zap Strap](https://open.spotify.com/artist/26um9QT84sVd1uLgI3K6lN) | [Balancing Act](https://open.spotify.com/album/4aDPMhyeN3LRMVDNWKzvns) | 1:33 | 2023-09-22 |  |
 | [Been Up Late](https://open.spotify.com/track/26PhJlzeqe0FgLzjxWX2RT) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [Been Up Late](https://open.spotify.com/album/7m8y89ElzYGrgst01C8Ir9) | 2:05 | 2023-09-22 | 2023-12-15 |
+| [Before the sea](https://open.spotify.com/track/4JkukV5QYxyUq4cwgn9BVI) | [Keith Hamasaki](https://open.spotify.com/artist/6nv23J7HXGspwrnU3M3O2i) | [Before the sea](https://open.spotify.com/album/76MYd834C4kMxG3oh5djnd) | 2:33 | 2024-02-02 |  |
 | [BLANKETS & TEA](https://open.spotify.com/track/61dILGHsXFOJf4hM9RIZ2M) | [ddrreeaamm](https://open.spotify.com/artist/36nRPSyGHHo4hT0wpvxTBr) | [BLANKETS & TEA](https://open.spotify.com/album/1sq2sCx4tTuXaoSNo5Xu0u) | 2:30 | 2023-09-22 |  |
 | [blind spot](https://open.spotify.com/track/2I18znGi0ssGoWmIugOcjK) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [blind spot](https://open.spotify.com/album/4aN4CpFSuRQQN22f4zk02q) | 2:38 | 2023-09-22 |  |
 | [bloom](https://open.spotify.com/track/0dOnielazzJAafGsSBYmWl) | [nikk.](https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH) | [bloom](https://open.spotify.com/album/5BJau1GLTkarkCZ6fHkpDK) | 2:13 | 2023-09-22 |  |
@@ -38,6 +39,7 @@
 | [clavia](https://open.spotify.com/track/1btRTBBwpv0ISGB0LScgz2) | [modecontrol](https://open.spotify.com/artist/5ONC1q1sMKkNGf8k0OoF7h) | [clavia](https://open.spotify.com/album/3RkuJvoRdaCnk3IB89mgri) | 1:36 | 2023-09-22 |  |
 | [Climbing](https://open.spotify.com/track/5SnbTsYX72YPhyU06IRuU4) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Climbing](https://open.spotify.com/album/2yqv18Dh91stSQDmbM8n5K) | 2:12 | 2023-09-22 |  |
 | [Come By Sometime](https://open.spotify.com/track/6Sw6pt7ksxQjwt1oOT4sU9) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [About Last Night](https://open.spotify.com/album/6HTLyZXIIM4ZtdkRweWlUK) | 2:18 | 2023-09-22 |  |
+| [Damn](https://open.spotify.com/track/5O1j64ep8DD9sHtmhSVGlb) | [byJ.](https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Damn](https://open.spotify.com/album/6P7kJQT9f04UGvUuhxQsyB) | 2:00 | 2024-02-02 |  |
 | [Deepmind](https://open.spotify.com/track/5ynxCqpiDWDFnZ02EuR4nm) | [Lala Vega & the Rookies](https://open.spotify.com/artist/3NOwCiCBRXtxSG9xcBi3IR) | [Deepmind](https://open.spotify.com/album/2EY7EXnrdieWdNzdBbntWT) | 2:19 | 2023-09-22 |  |
 | [Dreamland](https://open.spotify.com/track/4yvVPtvQ0yF1Nckkb3EGrd) | [Goloise](https://open.spotify.com/artist/4kMBqDrPnAOZnUVZLYNDbX) | [Dreamland](https://open.spotify.com/album/3MrnLV813ZQmMh0mUQNjXW) | 2:30 | 2023-09-22 |  |
 | [easel](https://open.spotify.com/track/1TqbZmrBR9n50ChWfJImcQ) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [easel](https://open.spotify.com/album/4uE9mTN0CSrr03PZvA5kgS) | 1:51 | 2023-09-22 |  |
@@ -45,7 +47,8 @@
 | [Fallen Down](https://open.spotify.com/track/4qc5uJs4lah9YnvCoIyKMh) | [FMBLL](https://open.spotify.com/artist/2w6778RfoCOsdjVH2wNkC8) | [Fallen Down](https://open.spotify.com/album/5JeWglXjfrRjSzAIF3LnJA) | 2:13 | 2023-09-22 |  |
 | [First Light](https://open.spotify.com/track/2BRki9AJwsZp0iaN4qqMpF) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [First Light](https://open.spotify.com/album/4FN8hl1pynMrgb2GqIApEw) | 1:59 | 2023-09-22 |  |
 | [Forrest](https://open.spotify.com/track/0t0jeNPpefsuhh31UPn1pK) | [Mr Davies](https://open.spotify.com/artist/2gLbE2Cr7iD5hNTTTFgY2K) | [Forrest](https://open.spotify.com/album/5O00VXNEsXB7F8XqZfWfSY) | 2:44 | 2023-10-06 |  |
-| [Get up](https://open.spotify.com/track/00GPpPXXRNgnfLN89pYNqX) | [Moondoe And His Fox](https://open.spotify.com/artist/6q3JOEdKg0t7udVnPeUtGT) | [Get up](https://open.spotify.com/album/1bNYmG1mvFW3brv0P2BCoC) | 1:04 | 2023-09-22 |  |
+| [Garden Suitcase](https://open.spotify.com/track/7M7F46ZhsjjQrat1xsSBnZ) | [hello low](https://open.spotify.com/artist/0rw0XSu4ERGOxViqqBfclo) | [Garden Suitcase](https://open.spotify.com/album/7xMTf3XHD0bDYg0qAybTry) | 2:31 | 2024-02-02 |  |
+| [Get up](https://open.spotify.com/track/00GPpPXXRNgnfLN89pYNqX) | [Moondoe And His Fox](https://open.spotify.com/artist/6q3JOEdKg0t7udVnPeUtGT) | [Get up](https://open.spotify.com/album/1bNYmG1mvFW3brv0P2BCoC) | 1:04 | 2023-09-22 | 2024-02-02 |
 | [Going to the Moon](https://open.spotify.com/track/7H61dXriqHsS2zoSfr69Os) | [Wine In Dusk](https://open.spotify.com/artist/6Lng7clMQAuyT3p8nmrwiM) | [Going To The Moon](https://open.spotify.com/album/0hbBxmSffPHBclLX5RsxO7) | 2:44 | 2023-09-22 |  |
 | [Granular Road](https://open.spotify.com/track/2TpPzyADjLMge83lyG7H0o) | [Morris Hardin](https://open.spotify.com/artist/5WzMpvVEVIAwBzvtHCHSMt) | [The Last Trip](https://open.spotify.com/album/4RSk852mbcyiY12mHp5bGX) | 2:42 | 2023-09-22 |  |
 | [Hacienda](https://open.spotify.com/track/7IUTIwIpHaquAp6mHMJEZ4) | [Pandaw](https://open.spotify.com/artist/5Dis5h8442u0u3IA8846ho) | [Hacienda](https://open.spotify.com/album/3bz3AZng3nz1ewUS5Wwpuk) | 2:25 | 2023-09-22 |  |
@@ -79,10 +82,10 @@
 | [purple growth](https://open.spotify.com/track/2pWoOr9umRytPP9jfQUD4K) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [purple growth](https://open.spotify.com/album/62gXgpJMgOYFirMW4N6KvK) | 2:48 | 2023-09-22 |  |
 | [Rain on a train](https://open.spotify.com/track/5fwV9gvxDehRq760bJYBst) | [Hallie](https://open.spotify.com/artist/4LmD8cR6Zd5udgGP2RHGdb) | [Rain on a train](https://open.spotify.com/album/5zlyQWR1roEcOru70HTVkl) | 2:12 | 2023-09-22 | 2023-12-15 |
 | [rebundance](https://open.spotify.com/track/7KLD4ITn31VoczaKOfSmGE) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [rebundance](https://open.spotify.com/album/5YRofK4ZSwPEaXhzGBcrpL) | 1:46 | 2023-09-22 |  |
-| [regn](https://open.spotify.com/track/4ViobejmVUpQS5CHu1T3DU) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [my reverie](https://open.spotify.com/album/2QWcdyMoDsGlTdIkpXbcHG) | 3:14 | 2023-09-22 |  |
+| [regn](https://open.spotify.com/track/4ViobejmVUpQS5CHu1T3DU) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [my reverie](https://open.spotify.com/album/2QWcdyMoDsGlTdIkpXbcHG) | 3:14 | 2023-09-22 | 2024-02-02 |
 | [Remember Us](https://open.spotify.com/track/7azNHjz8p1am7uQGVf0Qwh) | [Tojo McBee](https://open.spotify.com/artist/6EFSyrUYvhtp1vbYitZMh3) | [Remember Us](https://open.spotify.com/album/4aPbMJpheu9Zigz93qVD5H) | 2:17 | 2023-09-22 | 2024-01-12 |
 | [Sade Ghi](https://open.spotify.com/track/5PVN3nc3S5D6ZwT85qm3fB) | [Ellie S](https://open.spotify.com/artist/7abvh5NuD8o9JobP35lsv7) | [Favorite Smile](https://open.spotify.com/album/1mj8BnVTLloQOwl8Rcq81K) | 1:58 | 2023-09-22 |  |
-| [Sakura Sunset](https://open.spotify.com/track/1X4vIPVvyjPLwoKG6sYKIA) | [Naguro](https://open.spotify.com/artist/2sb7MQ0rQV3QZvrj6Ur4wf) | [Sakura Sunset](https://open.spotify.com/album/4quCoWKk640mavwa0F1Ykj) | 2:22 | 2023-09-22 |  |
+| [Sakura Sunset](https://open.spotify.com/track/1X4vIPVvyjPLwoKG6sYKIA) | [Naguro](https://open.spotify.com/artist/2sb7MQ0rQV3QZvrj6Ur4wf) | [Sakura Sunset](https://open.spotify.com/album/4quCoWKk640mavwa0F1Ykj) | 2:22 | 2023-09-22 | 2024-02-02 |
 | [Serenity](https://open.spotify.com/track/74EY4R1qANF25iAvTNPGvS) | [alxnd.](https://open.spotify.com/artist/6mv60wWPRPGe2dGphU1z8y) | [Serenity](https://open.spotify.com/album/3j7w2vGxCd8H01GjZsSfrb) | 4:20 | 2023-09-22 | 2024-01-19 |
 | [shorea](https://open.spotify.com/track/6XWMUhSPDDieBQJEL8Fkeg) | [mt\. fujitive](https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d), [oofoe](https://open.spotify.com/artist/6u1oX4NPDuxo0Eo41dgf9O) | [shorea / lumi](https://open.spotify.com/album/01nxPPcAo8tp1otqTdLhXP) | 2:14 | 2023-09-22 |  |
 | [Slow Too Slow](https://open.spotify.com/track/4rxkuhtG4udC2ROwptnKGe) | [Pure Solar](https://open.spotify.com/artist/3hqtmr6HdigDXWl6eGKoQB) | [Oxford](https://open.spotify.com/album/6OjvssIgoMIjSQB8z33Ifw) | 1:49 | 2023-09-22 | 2023-11-24 |
@@ -98,6 +101,7 @@
 | [The Comeback Kid!](https://open.spotify.com/track/6fO3hA8EZ9xlMkuJWFLX2E) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [The Comeback Kid!](https://open.spotify.com/album/6QjDkjlTwBWIYvdHPf94G0) | 2:39 | 2023-09-22 |  |
 | [Thinking Of You](https://open.spotify.com/track/5lTR1HXtYNiOYkZUGJfW4T) | [asanatobi](https://open.spotify.com/artist/6LeJY3URhc2QOx8vPAB2Ou) | [Thinking Of You](https://open.spotify.com/album/49M4f8YLFk6hwcvZCL9NxV) | 2:16 | 2023-11-24 |  |
 | [to float](https://open.spotify.com/track/0mlKE6Ye4DDsmxsraCexcM) | [Gramercy](https://open.spotify.com/artist/7tazsVXyiv13qgBbmDRtHI) | [to float](https://open.spotify.com/album/6r0Gj5Vvbk2S7zyk5E9ZWz) | 2:33 | 2023-09-22 |  |
+| [Trust Spring](https://open.spotify.com/track/79SRBZJ8mQo6cxpqNRjfv3) | [ATONED](https://open.spotify.com/artist/0OjQN1YWUMKO2Kf3ALv1TM) | [Trust Spring](https://open.spotify.com/album/2I3IoVyZOTVuSGOr5SX9kK) | 2:13 | 2024-02-02 |  |
 | [Tulips](https://open.spotify.com/track/7HdTphbSIaxvCS3rSPnUqA) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Tulips](https://open.spotify.com/album/2E1OnMBa7jtAztSiWHoDnB) | 1:38 | 2023-09-22 |  |
 | [undertheparasol](https://open.spotify.com/track/3UizsFODsw6Jdhwxj8lez4) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [undertheparasol](https://open.spotify.com/album/7ytiWK7Kjl9xldcXsIEZ5a) | 2:34 | 2023-09-22 |  |
 | [vague answers](https://open.spotify.com/track/6nHzt5NnFVjLOxTm6kCq42) | [Ginnypig](https://open.spotify.com/artist/72bmvqzLz3X1XDJ0eZh61F) | [vague answers](https://open.spotify.com/album/3OomK7eK4YJwDioPLA7zUW) | 2:08 | 2023-09-22 |  |

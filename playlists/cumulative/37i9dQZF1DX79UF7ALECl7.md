@@ -4,7 +4,7 @@
 
 > Have some chill house with your coffee
 
-147 songs - 10 hr 38 min
+149 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Blues On](https://open.spotify.com/track/3DEU62sc5nQrgunfkT6Tck) | [Daniel Hokum](https://open.spotify.com/artist/5G73jujPl3uMzC5zak8Jbd) | [Ruby Veil](https://open.spotify.com/album/6qYiTQ9XQVfE0cyJWwFwLN) | 8:05 | 2022-09-15 | 2022-11-08 |
 | [Cherry Skies](https://open.spotify.com/track/2taL7WpjrPMzwn65gVfxqP) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [Cherry Skies](https://open.spotify.com/album/5yytMHzOYkzesn2dON2tCe) | 3:30 | 2023-07-13 |  |
 | [Coffee and Feels](https://open.spotify.com/track/2Z2qsGVCBCAPGvXqe3JxeG) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Reunion](https://open.spotify.com/album/2M9pkurc1jUmSXH95OGixK) | 4:07 | 2022-09-15 |  |
-| [Company](https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Arturia](https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2) | 5:31 | 2022-09-15 |  |
+| [Company](https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Arturia](https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2) | 5:31 | 2022-09-15 | 2024-02-02 |
+| [Company](https://open.spotify.com/track/7dJwMUluT7ZmMF0bEEDzbR) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Arturia](https://open.spotify.com/album/1UUSyhcmb2F9ifsCuUZVuT) | 5:31 | 2024-02-01 |  |
 | [Deneb Cygni \- Original Mix](https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX) | [Takuya Yamashita](https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v) | [Deneb Cygni](https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP) | 7:33 | 2022-09-15 |  |
 | [Do This](https://open.spotify.com/track/5zrISuhxhXCp4Tnm6gjWZl) | [Keljet](https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g), [Hyara](https://open.spotify.com/artist/1Q0xi0vgcIdvtRdx2qtfi0) | [Do This](https://open.spotify.com/album/4z82w201UQTrLSxaEHKrgl) | 3:51 | 2022-09-15 |  |
 | [Don't Say Goodbye](https://open.spotify.com/track/1Z6uwcyE8ffTTpaPhBwDTx) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [Don't Say Goodbye](https://open.spotify.com/album/4QrlY7zLqIns9wayxlvit3) | 2:48 | 2022-09-15 | 2023-05-12 |
@@ -53,6 +54,7 @@
 | [Float](https://open.spotify.com/track/7mj2TROxaQSpRH1IKaTeMO) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Float](https://open.spotify.com/album/0VT6v6yIjICbZRsqJJ9LLO) | 4:07 | 2022-10-13 | 2022-11-14 |
 | [Float](https://open.spotify.com/track/7omCw0COR7xdEqGdAo15Qs) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Float](https://open.spotify.com/album/7wNrgLd06nnEGKmN41nXYI) | 4:07 | 2022-09-15 | 2022-10-14 |
 | [Gaia \- Radio Edit](https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Gaia](https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp) | 4:05 | 2022-09-15 |  |
+| [Golven](https://open.spotify.com/track/50i5vfuzSeaWIcVH5PjPO1) | [Anna Simonetta](https://open.spotify.com/artist/6bO9oIiqJAQQJPZJEaNucG), [Jeremy Lim](https://open.spotify.com/artist/4kaKtscY9uw3TitaJYWOyd) | [Golven](https://open.spotify.com/album/4hnKYfEXxxRnGlr8PrAkXN) | 3:14 | 2024-02-01 |  |
 | [Good Life](https://open.spotify.com/track/4lduh1GxES2Q3Sj8bXDWXt) | [mAsis](https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw) | [Good Life](https://open.spotify.com/album/4ROrdn8vpQyKPP1PBKHcuZ) | 3:43 | 2022-09-15 |  |
 | [Got to Fall Out](https://open.spotify.com/track/5jrITUm4fDGar2kVdYTsAH) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [After Midnyte](https://open.spotify.com/album/0cDfru0PQCiZP3HOucjWny) | 3:11 | 2022-09-15 |  |
 | [Gotta Dance](https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [Gotta Dance](https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP) | 3:17 | 2022-12-22 |  |

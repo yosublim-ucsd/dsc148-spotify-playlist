@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 3346998,
+  "2024-02-02": 3346998,
   "date_first_scraped": "2019-05-25",
   "description": "Country music to get you back to the basics.",
   "name": "Chillin' on a Dirt Road",
@@ -923,7 +923,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 233869,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
@@ -5311,7 +5311,7 @@
       ],
       "date_added": "2019-05-25",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 193929,
       "name": "Slow Dance In A Parking Lot",
       "url": "https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9"

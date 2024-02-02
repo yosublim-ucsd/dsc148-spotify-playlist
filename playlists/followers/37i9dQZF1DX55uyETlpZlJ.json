@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 23111,
+  "2024-02-02": 23115,
   "date_first_scraped": "2023-05-19",
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover :Rahul Dit-O",
   "name": "Kannada Indie",
@@ -451,7 +451,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 438967,
       "name": "Baare Banake",
       "url": "https://open.spotify.com/track/77YIyUafNBzKHEY8Mn5OAT"
@@ -1116,6 +1116,28 @@
     },
     {
       "album": {
+        "name": "E Antara",
+        "url": "https://open.spotify.com/album/5yFyCO1TBQ8drF3u8kOQW5"
+      },
+      "artists": [
+        {
+          "name": "Puornausri D",
+          "url": "https://open.spotify.com/artist/4CmS8ZU3EGQDw0dJ7APSsy"
+        },
+        {
+          "name": "Kishore Vishwakarma",
+          "url": "https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156201,
+      "name": "E Antara",
+      "url": "https://open.spotify.com/track/06B2qEW26f8HGryps3zjp6"
+    },
+    {
+      "album": {
         "name": "E Preeti",
         "url": "https://open.spotify.com/album/65sytc26MQaDBrib5Dc4ml"
       },
@@ -1383,6 +1405,24 @@
       "duration_ms": 185309,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/09ECyJMbdmo1i1Lq7yxArW"
+    },
+    {
+      "album": {
+        "name": "Full Charge",
+        "url": "https://open.spotify.com/album/6beHIG9uQMKnBduxEM9kO1"
+      },
+      "artists": [
+        {
+          "name": "H18",
+          "url": "https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146230,
+      "name": "Full Charge",
+      "url": "https://open.spotify.com/track/3uArz7gKhSuwSkTzFUlKBo"
     },
     {
       "album": {
@@ -2253,7 +2293,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 269489,
       "name": "Kanmaniye",
       "url": "https://open.spotify.com/track/3qm6n1CpNTb3OllQZpI2db"
@@ -2541,6 +2581,28 @@
       "duration_ms": 105482,
       "name": "Lokada Kalaji (Rendition) - SKODA Deccan Beats",
       "url": "https://open.spotify.com/track/3CrD7UchbZpqrm3Q6rzFGp"
+    },
+    {
+      "album": {
+        "name": "MADE IN KARNATAKA",
+        "url": "https://open.spotify.com/album/19gnp7j1D1BKrNMXzfNw91"
+      },
+      "artists": [
+        {
+          "name": "YASHICA RAJ",
+          "url": "https://open.spotify.com/artist/0mlHmQy2Zursbiill6EeXd"
+        },
+        {
+          "name": "MC Bijju",
+          "url": "https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96018,
+      "name": "MADE IN KARNATAKA",
+      "url": "https://open.spotify.com/track/02Zr33EJNBLMJOUgLxWBwb"
     },
     {
       "album": {
@@ -2967,7 +3029,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 90918,
       "name": "Money In The World",
       "url": "https://open.spotify.com/track/3mb6cmdGfriBt5WHamvtdo"
@@ -4405,7 +4467,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 317449,
       "name": "Omme Nee Nanage",
       "url": "https://open.spotify.com/track/3E2XCnmVjZdpisYfHL1Ewf"
@@ -5501,7 +5563,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 179258,
       "name": "Yaake Ni Heege?",
       "url": "https://open.spotify.com/track/4OeTmbpN23HcBQUxk8CBAX"

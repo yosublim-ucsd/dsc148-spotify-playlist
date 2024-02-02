@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "5 seconds ago",
+        "url": "https://open.spotify.com/album/3ELRgYerX3smXzYWTIwnS3"
+      },
+      "artists": [
+        {
+          "name": "\u6771 \u516b\u5343\u7a42(CV:\u7a17\u7530\u5be7\u3005)",
+          "url": "https://open.spotify.com/artist/4JSFkjTr98Px1NKZH6a8on"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225760,
+      "name": "5 seconds ago",
+      "url": "https://open.spotify.com/track/2dWpeauDYzZ5kfl6OOn9gk"
+    },
+    {
+      "album": {
         "name": "65535",
         "url": "https://open.spotify.com/album/6ZoU2pym8PqrNtmFpnuimw"
       },
@@ -4972,7 +4990,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 275800,
       "name": "Sincerely",
       "url": "https://open.spotify.com/track/4thBZp9kEDqeSwLtwcAZgk"
@@ -9265,7 +9283,7 @@
       "artists": [
         {
           "name": "KEIKO",
-          "url": "https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe"
+          "url": "https://open.spotify.com/artist/2wN2axCnXxq2QuVzySGCb5"
         }
       ],
       "date_added": "2024-01-23",

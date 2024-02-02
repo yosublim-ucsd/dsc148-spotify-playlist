@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 665040,
+  "2024-02-02": 665238,
   "date_first_scraped": "2023-12-14",
   "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
   "name": "This Is Avril Lavigne",
@@ -823,7 +823,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 129279,
       "name": "Mercury In Retrograde",
       "url": "https://open.spotify.com/track/5myAAZYPPELEl2aiGoW0sx"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 190137,
       "name": "Shelter (feat. Avril Lavigne)",
       "url": "https://open.spotify.com/track/62pC4mgtn2CwTxEHVbCCvn"

@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Natalia Lafourcade y Kevin Johansen.
 
-513 songs - 1 day 6 hr 59 min
+514 songs - 1 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Cielo](https://open.spotify.com/track/1mXLf0jnxS9Uevkds7rEvy) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Cielo](https://open.spotify.com/album/0KyvNuaS3Sy2N5dLXAgVlM) | 3:23 | 2023-03-10 | 2023-04-01 |
 | [Cielo \- Anhelo brújula del destino](https://open.spotify.com/track/2BfqQCKiA6F7l294f64IOY) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [La Sagrada](https://open.spotify.com/album/1xu99byFIkzbPmPDWxYTMc) | 3:47 | 2023-02-03 | 2023-02-25 |
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 | 2022-04-25 | 2022-05-24 |
-| [Claroscuro](https://open.spotify.com/track/4NsXyQdZ80dXlGwLMyzUEz) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Claroscuro](https://open.spotify.com/album/4RLLGLmJOwqsrq2H4DLUfo) | 4:30 | 2021-12-24 |  |
+| [Claroscuro](https://open.spotify.com/track/4NsXyQdZ80dXlGwLMyzUEz) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Claroscuro](https://open.spotify.com/album/4RLLGLmJOwqsrq2H4DLUfo) | 4:30 | 2021-12-24 | 2024-02-02 |
 | [Codo Con Codo](https://open.spotify.com/track/4DLl7PmnqhrYN6hDRO9Whu) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Codo Con Codo](https://open.spotify.com/album/0FmPdyJmPThdz0NBUnZalj) | 1:45 | 2021-12-24 | 2022-07-29 |
 | [COLAPSO](https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr) | [Lola Membrillo](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [COLAPSO](https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo) | 3:29 | 2021-12-24 | 2022-01-10 |
 | [Comando Antivandálico, Pero Violento](https://open.spotify.com/track/5Hq9XnHCw4VibGhCImcHBu) | [Rupatrupa](https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei) | [Comando Antivandálico, Pero Violento](https://open.spotify.com/album/19FKHlGrl68xlfNDuo9k8x) | 3:34 | 2023-06-23 | 2023-12-16 |
@@ -478,6 +478,7 @@
 | [Tu Ciudad](https://open.spotify.com/track/0GX27xOEfQreqFwFoLlNzL) | [TéCanela](https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0) | [Las Dos Caras del Hilo](https://open.spotify.com/album/7tnWl6gNdf7lFfTjEJjGB5) | 3:34 | 2021-12-24 | 2022-07-29 |
 | [Tu Ciudad](https://open.spotify.com/track/67Z5GMzR0MjCJ5sLtxZjHb) | [TéCanela](https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0) | [Las Dos Caras del Hilo](https://open.spotify.com/album/5PmHupdoqQsSbbnvIIN7JD) | 3:34 | 2022-07-22 | 2023-06-03 |
 | [tu recuerdo \(verde otoño\)](https://open.spotify.com/track/7lm2Q0zldRU3caAqdeCpz4) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [tu recuerdo \(verde otoño\)](https://open.spotify.com/album/1Xd6GKEZU54VsBjlM6VrSx) | 2:35 | 2023-12-22 | 2024-01-20 |
+| [Tu y yo](https://open.spotify.com/track/666OthmuNXcPPkJVGfNbnq) | [Giovanni Caccamo](https://open.spotify.com/artist/0rVjxMmahuf20itFlVo1Di), [IZARO](https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb) | [Palabra](https://open.spotify.com/album/2mvupK1yZloMAMd35WrNxB) | 3:25 | 2024-01-26 |  |
 | [Títere o Esclava](https://open.spotify.com/track/6JzQ9nEbVhLgSJalzBttcd) | [Marisa Valle Roso](https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL) | [Títere o Esclava](https://open.spotify.com/album/7h8BFDs5JISDXYMECFwzCD) | 3:55 | 2021-12-24 | 2021-12-29 |
 | [Tú Me Dijíste Que Venías](https://open.spotify.com/track/1HGuh9bVVWEaPhPvQ5woRm) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J) | [Tú Me Dijíste Que Venías](https://open.spotify.com/album/4AgWVLq6Yh25oqreliWR23) | 2:37 | 2021-12-24 | 2022-09-24 |
 | [Un Ayayay](https://open.spotify.com/track/4JmpAALgKd05VHMI0FHeGX) | [La Helen](https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7) | [Un Ayayay](https://open.spotify.com/album/1NVnhpXRW78bNYoI2J00VX) | 3:30 | 2023-06-02 | 2023-07-01 |

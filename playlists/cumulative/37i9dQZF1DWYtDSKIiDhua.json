@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Justin Timberlake",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: Afgan",
   "name": "mood.",
   "tracks": [
     {
@@ -238,6 +238,28 @@
       "duration_ms": 178666,
       "name": "A Little Bit Patient",
       "url": "https://open.spotify.com/track/13eVfN1euUur28OoD5s86X"
+    },
+    {
+      "album": {
+        "name": "A Night of Van Gogh",
+        "url": "https://open.spotify.com/album/24Iv7pLUbw3rJF9OrYX9Dy"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Ashley Alisha",
+          "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189586,
+      "name": "A Night of Van Gogh (feat. Ashley Alisha)",
+      "url": "https://open.spotify.com/track/7HqJqVGzUh8dh0Sensdphf"
     },
     {
       "album": {
@@ -480,7 +502,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 198131,
       "name": "analog romance",
       "url": "https://open.spotify.com/track/5wUkpYVnA8qJG4BNs0veHP"
@@ -2672,7 +2694,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 206400,
       "name": "eventually (feat. Yel)",
       "url": "https://open.spotify.com/track/5i6OUz4wTiFGJUZXiXlIai"
@@ -4533,6 +4555,24 @@
     },
     {
       "album": {
+        "name": "I Choose U",
+        "url": "https://open.spotify.com/album/4iXugqQS3ke03i6GnFKTaI"
+      },
+      "artists": [
+        {
+          "name": "Syahravi",
+          "url": "https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207689,
+      "name": "I Choose U",
+      "url": "https://open.spotify.com/track/4LCsmgexfiFAqgNK40FN8N"
+    },
+    {
+      "album": {
         "name": "i don't mind: RED+BLUE",
         "url": "https://open.spotify.com/album/57042oQZ05m9w5IAbAYN6X"
       },
@@ -5451,6 +5491,24 @@
     },
     {
       "album": {
+        "name": "Last Train",
+        "url": "https://open.spotify.com/album/2PD8XQXkYVt6aVFWyFvwSC"
+      },
+      "artists": [
+        {
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Last Train",
+      "url": "https://open.spotify.com/track/4r5nXbPkU5Quj5EYA0dh7r"
+    },
+    {
+      "album": {
         "name": "lately",
         "url": "https://open.spotify.com/album/7obFsECkREJyGc90vojKZ5"
       },
@@ -5596,6 +5654,24 @@
       "duration_ms": 134279,
       "name": "Letter To Ur N(ex)t",
       "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
+    },
+    {
+      "album": {
+        "name": "liar",
+        "url": "https://open.spotify.com/album/54mhTR3nIgCG5jJa0bf5ME"
+      },
+      "artists": [
+        {
+          "name": "Jaime Cheung",
+          "url": "https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194615,
+      "name": "liar",
+      "url": "https://open.spotify.com/track/5KjJiwSwzhF7lGLjfLkoxp"
     },
     {
       "album": {
@@ -5752,7 +5828,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 162385,
       "name": "Like California (feat. DeVita)",
       "url": "https://open.spotify.com/track/7ouOGLgqPhs5ezGPegOT6t"
@@ -6110,7 +6186,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 214000,
       "name": "Lover From The Internet",
       "url": "https://open.spotify.com/track/0PPVCIPsw7yHMJDS1Knsfj"
@@ -6262,6 +6338,28 @@
       "duration_ms": 209720,
       "name": "Mage",
       "url": "https://open.spotify.com/track/5ksO9lrmJu2BiL2C1VvJfR"
+    },
+    {
+      "album": {
+        "name": "Magic Lily",
+        "url": "https://open.spotify.com/album/488zbJbWKeqIbQ4u7Jq9EM"
+      },
+      "artists": [
+        {
+          "name": "PERC%NT",
+          "url": "https://open.spotify.com/artist/0cjZuJ13yFVPa5Nn0YUTbx"
+        },
+        {
+          "name": "Jang yezi",
+          "url": "https://open.spotify.com/artist/7vrikEJGYrPCU7eQSbtyTX"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Magic Lily",
+      "url": "https://open.spotify.com/track/4PhyojBl5KCm16LZEE8Ijx"
     },
     {
       "album": {
@@ -7655,6 +7753,28 @@
     },
     {
       "album": {
+        "name": "Pagdali",
+        "url": "https://open.spotify.com/album/185zJ1UyWQn80NFdOCjIPJ"
+      },
+      "artists": [
+        {
+          "name": "PLAYERTWO",
+          "url": "https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7"
+        },
+        {
+          "name": "Felip",
+          "url": "https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213658,
+      "name": "Pagdali",
+      "url": "https://open.spotify.com/track/7fMR5ryCo3m38yyj1PCym4"
+    },
+    {
+      "album": {
         "name": "Party Tonight",
         "url": "https://open.spotify.com/album/1C3NNgsETbvRBWxZvNsFl4"
       },
@@ -8434,7 +8554,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 196760,
       "name": "Round & Round",
       "url": "https://open.spotify.com/track/1nGzJFZ5nmG4zS7s8s0CuG"
@@ -8510,7 +8630,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 205673,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/5BhlE0di2Qeey289ECk9IF"
@@ -8648,7 +8768,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 223533,
       "name": "Scenes of Love",
       "url": "https://open.spotify.com/track/6AnQik4FfkngHAlP9YlqNI"
@@ -8816,6 +8936,24 @@
       "duration_ms": 215013,
       "name": "Shadow In The Storm",
       "url": "https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD"
+    },
+    {
+      "album": {
+        "name": "Shallow Water",
+        "url": "https://open.spotify.com/album/6vxwXV8w20fsU50YID7cKI"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163700,
+      "name": "Shallow Water",
+      "url": "https://open.spotify.com/track/3Uf7CHxUovGESEK2YvcGAY"
     },
     {
       "album": {
@@ -11072,7 +11210,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 220026,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3RuHXDuw425QiaPla1AvUQ"
@@ -12080,6 +12218,24 @@
       "duration_ms": 200863,
       "name": "Your Sadness",
       "url": "https://open.spotify.com/track/7jAwJRWO4SLmu7JGFmhl07"
+    },
+    {
+      "album": {
+        "name": "ZOMBIE",
+        "url": "https://open.spotify.com/album/0nkoLJGFDjSySEHAWS8j5S"
+      },
+      "artists": [
+        {
+          "name": "ISAFAT",
+          "url": "https://open.spotify.com/artist/33wEh0YSqRNAP4PZrH0zkt"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188076,
+      "name": "ZOMBIE",
+      "url": "https://open.spotify.com/track/14FpT18egCLY8Of6l0jveN"
     },
     {
       "album": {

@@ -1143,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/0yhYiC6UFANpVlhHt51VWB"
+      },
+      "artists": [
+        {
+          "name": "Upah Beats",
+          "url": "https://open.spotify.com/artist/6LPpXChwcxm1jxTQ8O9tlI"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172094,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/1SxFAijTZD0TWB984QnmYs"
+    },
+    {
+      "album": {
         "name": "Blurry",
         "url": "https://open.spotify.com/album/2oZNNkRDp2sLFsBg3yE7jk"
       },
@@ -1256,7 +1274,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 138904,
       "name": "butter",
       "url": "https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg"
@@ -1420,6 +1438,24 @@
       "duration_ms": 160273,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/2wQEhPop1Cg6WzCjJgeACB"
+    },
+    {
+      "album": {
+        "name": "cellular",
+        "url": "https://open.spotify.com/album/06O45DFgRdWkvaR10inL1C"
+      },
+      "artists": [
+        {
+          "name": "dueday",
+          "url": "https://open.spotify.com/artist/2yLP0IwAa0JkNWr6OMHM0i"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114500,
+      "name": "cellular",
+      "url": "https://open.spotify.com/track/4PeBAw8arxHxoMH6T1g0VU"
     },
     {
       "album": {
@@ -3468,7 +3504,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 82285,
       "name": "I Dream of Perfection",
       "url": "https://open.spotify.com/track/6EmGurhkEkSoeO7iAXVWJz"
@@ -5038,6 +5074,24 @@
       "duration_ms": 166153,
       "name": "More Than Ever",
       "url": "https://open.spotify.com/track/20xBuY19xf6sdctIwYM7se"
+    },
+    {
+      "album": {
+        "name": "morning meditations",
+        "url": "https://open.spotify.com/album/7Ih6Z8ZxGmEVz0G1TUf5fI"
+      },
+      "artists": [
+        {
+          "name": "Clocktown Stars",
+          "url": "https://open.spotify.com/artist/41tAquCucBUKN6L1xeMWns"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "morning meditations",
+      "url": "https://open.spotify.com/track/7yY00DIEZFDueSQZNPk7HW"
     },
     {
       "album": {
@@ -8308,6 +8362,24 @@
       "duration_ms": 99259,
       "name": "Tree Leaves",
       "url": "https://open.spotify.com/track/7Cowfhi6Y9Es19O5XhYrBM"
+    },
+    {
+      "album": {
+        "name": "Trouble In Smoky Paradise",
+        "url": "https://open.spotify.com/album/6LvEYsVFTVzi0Mcllrt2jd"
+      },
+      "artists": [
+        {
+          "name": "X56.aif",
+          "url": "https://open.spotify.com/artist/0sslEoFr85krxkxnGR8HnB"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148657,
+      "name": "Trouble In Smoky Paradise",
+      "url": "https://open.spotify.com/track/4xbDrO1BWWmmMpShGcCYTf"
     },
     {
       "album": {

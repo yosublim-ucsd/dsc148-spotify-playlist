@@ -4,7 +4,7 @@
 
 > Fold time and space through sound to reach imaginary universes.
 
-331 songs - 1 day 5 hr 34 min
+333 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Life Forms](https://open.spotify.com/track/7hj956jJ1eIMcQJy165Kpf) | [The Future Sound of XYZ](https://open.spotify.com/artist/3gqmTTI15kx2XMhxdfxwyY) | [Life Forms](https://open.spotify.com/album/5lMabjCJifbzYeRVpep5lY) | 2:30 | 2020-07-07\* | 2022-07-24 |
 | [Life In The Circus](https://open.spotify.com/track/37BOeQy16hgtJvmTrEYRCP) | [Mars Sense](https://open.spotify.com/artist/3CzreurmyGbePnOzFceCHm) | [Life In The Circus](https://open.spotify.com/album/09fVRkCx60JbsKJVIxPjNo) | 3:18 | 2022-01-07 | 2022-07-22 |
 | [Lighter than the Air](https://open.spotify.com/track/4MBjZS2wipFT30GSQkjxvL) | [Norwell](https://open.spotify.com/artist/6tpd4iKhBI02ABzfPfR27z), [Alpár](https://open.spotify.com/artist/6LOTmLaPHsnxCzUpqFomsw) | [Illúzío](https://open.spotify.com/album/0sGTtmmEMlFg6IKOlDiIlR) | 6:27 | 2021-05-23 | 2021-05-27 |
-| [Lipstick To Void](https://open.spotify.com/track/3iJP1AzZzlbUqJNJUvfJo3) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Under The Skin \(Original Soundtrack Album\)](https://open.spotify.com/album/0MJwS1KqklO8tr95IJAcQA) | 6:41 | 2020-10-22 |  |
+| [Lipstick To Void](https://open.spotify.com/track/3iJP1AzZzlbUqJNJUvfJo3) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Under The Skin \(Original Soundtrack Album\)](https://open.spotify.com/album/0MJwS1KqklO8tr95IJAcQA) | 6:41 | 2020-10-22 | 2024-02-02 |
 | [Liptones](https://open.spotify.com/track/2cxH8WTPErfw2OWnzYmIu1) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [YosepH](https://open.spotify.com/album/26q3SgrURehSidTag2eV0B) | 4:01 | 2020-07-07\* | 2022-11-09 |
 | [Liptones](https://open.spotify.com/track/3k81mjRRW79XEj7gXY7dVT) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [YosepH](https://open.spotify.com/album/3qbvYXMKBxCEP6WHZBJktD) | 4:01 | 2021-10-20 | 2023-04-26 |
 | [Little Fluffy Clouds \- 7" Edit](https://open.spotify.com/track/0SiXUBgqtFRk8rGKd0z3LH) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [The Orb \- History Of The Future \(Deluxe Edition\)](https://open.spotify.com/album/7cUZK5ii1GJqR4rYoVflfi) | 4:09 | 2020-07-07\* | 2021-05-26 |
@@ -225,8 +225,10 @@
 | [Ondulation](https://open.spotify.com/track/3jgdcsGGJOQL0qkqmBQsPC) | [Moebius](https://open.spotify.com/artist/0ctLTKGS1coZsfRHZw48tC) | [Blotch](https://open.spotify.com/album/04hAuvHAbFa2VpgJpHwl0V) | 4:02 | 2021-02-24 | 2022-07-21 |
 | [One Lifetime Is Not Enough For Us](https://open.spotify.com/track/0pmkec9RqvdhA5HReYNdqt) | [Lord Of The Isles](https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru) | [Whities 029](https://open.spotify.com/album/6kDyfCyknVtqOqfudLELst) | 3:09 | 2020-07-07\* | 2022-07-13 |
 | [Oquo Quooon](https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 3:51 | 2021-08-11 | 2022-07-29 |
+| [Oxygene, Pt\. 1](https://open.spotify.com/track/2K9u91HJTxyb6wGJQRaCWT) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygene Trilogy](https://open.spotify.com/album/469JDZgyHrDdZT25FeLKgT) | 7:39 | 2021-10-20 |  |
 | [Oxygene, Pt\. 1](https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 7:40 | 2020-07-07\* | 2024-02-01 |
-| [Oxygene, Pt\. 2](https://open.spotify.com/track/4roqhhRarPSjK7V9viFOVU) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 7:46 | 2020-07-07\* |  |
+| [Oxygene, Pt\. 2](https://open.spotify.com/track/4roqhhRarPSjK7V9viFOVU) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 7:46 | 2020-07-07\* | 2024-02-02 |
+| [Oxygene, Pt\. 2](https://open.spotify.com/track/1Gt7o5s9iZWkPfRqeJHiru) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygene Trilogy](https://open.spotify.com/album/469JDZgyHrDdZT25FeLKgT) | 7:47 | 2021-10-20 |  |
 | [Peccato d'orgoglio](https://open.spotify.com/track/09JR07UwuJtphsxvXJFzsI) | [Alphataurus](https://open.spotify.com/artist/6mFPT1M2JWpuoSGSCQCpHX) | [Alphataurus](https://open.spotify.com/album/0Wh01o7ulww79Oq2eSZ6PX) | 12:21 | 2020-07-07\* | 2021-05-28 |
 | [Phaedra \- Remastered 2018](https://open.spotify.com/track/6Qx7IRv8VmRTppmnks6fDm) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Phaedra \(Deluxe Version\)](https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n) | 17:39 | 2020-07-07\* |  |
 | [Phasma Gigas](https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm) | [Molero](https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ) | [Ficciones Del Trópico](https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV) | 4:29 | 2020-07-07\* | 2022-07-28 |

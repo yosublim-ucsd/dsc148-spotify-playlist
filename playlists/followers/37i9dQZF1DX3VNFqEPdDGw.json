@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 157038,
+  "2024-02-02": 157043,
   "date_first_scraped": "2021-12-28",
   "description": "Bhangra is our pride, Bhangra is our culture. Cover: Intense & G.Sidhu",
   "name": "Bhangra Bangers",
@@ -1506,6 +1506,28 @@
     },
     {
       "album": {
+        "name": "Poonian",
+        "url": "https://open.spotify.com/album/7LwD8POLU1k6LyvBe6VGZM"
+      },
+      "artists": [
+        {
+          "name": "Himmat Sandhu",
+          "url": "https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Poonian",
+      "url": "https://open.spotify.com/track/7HOB9THwRvVSozGYuycMSR"
+    },
+    {
+      "album": {
         "name": "Putt Patela Da",
         "url": "https://open.spotify.com/album/7ktFMBLCpBHdsXP5PLROM2"
       },
@@ -1813,7 +1835,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 200930,
       "name": "Tera Canada",
       "url": "https://open.spotify.com/track/7ghypi2mLGlUPzwbcfPTNe"

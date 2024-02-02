@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Jordan Mackampa
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,887 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,918 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 43 | [Awesome Ways](https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Awesome Ways](https://open.spotify.com/album/0REKjgSZr8BaRYMDBiVqXL) | 3:08 |
 | 44 | [Ice & Fire](https://open.spotify.com/track/440ldYsqevrNXmwwj9DD2B) | [King Canyon](https://open.spotify.com/artist/78mhiIF6AMT9bmfDp1P9NV), [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Mike Chiavaro](https://open.spotify.com/artist/3Yfht77kZkV1rYQKs5OSfN) | [Ice & Fire](https://open.spotify.com/album/1xauUnaLc4Baj0MmUbEggs) | 4:04 |
 | 45 | [Solid Ground](https://open.spotify.com/track/6nidjaDjgfQSN42dWkAYOM) | [MorningMaxwell](https://open.spotify.com/artist/0kvwtYUiypCDaaKKhTD2Pp), [Velvet Bloom](https://open.spotify.com/artist/1HiDrUs73y9fUOt8DjBH55), [r.em.edy](https://open.spotify.com/artist/2zimfjugiCq53nziN8cenP), [Max Glyde](https://open.spotify.com/artist/2q65DwOHtCQo4eX3MMomCb) | [Swim](https://open.spotify.com/album/6RizlEIgHyV4wlr4JatNcb) | 3:03 |
-| 46 | [Same Song](https://open.spotify.com/track/0XcJgUBTAm81tqB7SxafPS) | [falcxne](https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz), [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Same Song](https://open.spotify.com/album/4EJYHrZ1FEdIcadrIO449B) | 2:31 |
+| 46 | [Same Song](https://open.spotify.com/track/6xBanShy5nCqzDj8Rk8QmJ) | [falcxne](https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz), [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Same Song](https://open.spotify.com/album/0HLt7MDAA0mZLuLktz5npe) | 2:31 |
 | 47 | [Sexy!](https://open.spotify.com/track/3YX2f5qwFaoTaEpQu2zSoK) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Sexy!](https://open.spotify.com/album/2ioqM4ixub516lz78HjzuL) | 3:05 |
 | 48 | [Everyone Moves To LA \(feat\. Felicia Douglass\)](https://open.spotify.com/track/2UauebcRqmfb6NXRxBF5Re) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Felicia Douglass](https://open.spotify.com/artist/3uKe1tF6HSEHFFKfHgpGnj) | [CLUSTERFUNK](https://open.spotify.com/album/4iLyenp5vruRWu6tgV03WT) | 3:57 |
 | 49 | [All Night Long \- Ruck P Remix](https://open.spotify.com/track/6fYFZnIsm74om1JFSgZWZM) | [Patric Pleasure](https://open.spotify.com/artist/1S5UyTmyOEpVluYNaC8d5M), [Ruck P](https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn), [Emilia Anastazja](https://open.spotify.com/artist/0cKNOYRTUF2PeSXJCb3jOr) | [All Night Long \(Ruck P Remix\)](https://open.spotify.com/album/2sBfkBNyb4sZBAhfxybsVF) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Naked \- Feat\. Leven Kali](https://open.spotify.com/track/37usDo7KCpJJHrDnzHG8xU) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Naked \(Feat\. Leven Kali\)](https://open.spotify.com/album/7anDRgbTFWggPG51LUEhuG) | 3:04 |
 | 100 | [Bad Vibes \- Duss Hagen Remix](https://open.spotify.com/track/0FQLZBjjbgWPvywGYVi7qq) | [Saint Rock](https://open.spotify.com/artist/6C6t0KhFTcGHV7nUlPdjrK), [Duss Hagen](https://open.spotify.com/artist/5fMHCBdB7H8fyKwkQuiN9M) | [Bad Vibes \(Duss Hagen Remix\)](https://open.spotify.com/album/7JSqjbgXJIqndFYtLQe8XG) | 2:59 |
 
-Snapshot ID: `MCw3ZTMzMTA0NmNlNTJjZmYwMzU2NjI0ZGYyYjJiNjMwYjYzZDA5ZWIw`
+Snapshot ID: `MCwyYTBmMWNkMmU1ZjU0MDU4NGJjMmM3MGJhY2EwOWUzZTcxYWMzMzIw`

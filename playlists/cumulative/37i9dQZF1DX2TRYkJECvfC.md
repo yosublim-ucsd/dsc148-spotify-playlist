@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-470 songs - 1 day 16 hr 31 min
+471 songs - 1 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Downpour Of Blessings](https://open.spotify.com/track/13ofhF3akKSze47em3ihua) | [Yone\-ko](https://open.spotify.com/artist/5lpbbYojKrSoU2FoNlah10) | [Dial 2020 \(II\)](https://open.spotify.com/album/2rwZVVj0gLRL7z1D09QmYE) | 6:59 | 2022-02-21 | 2022-07-25 |
 | [A Power Over Me](https://open.spotify.com/track/3uPjbqezNTMIxRTaHYy5di) | [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX), [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [A Power Over Me EP](https://open.spotify.com/album/78uWTRjStnaxMpfeFj9MR1) | 5:34 | 2023-07-14 |  |
 | [A Sheltered Place \- Phaeleh Remix](https://open.spotify.com/track/38CngZw3TDi2XDCQPMKHJR) | [Way Out West](https://open.spotify.com/artist/3HghjRl8Mo6OJWG0WElY2z), [Phaeleh](https://open.spotify.com/artist/5NkUpXWkeXspvu7iQQOHhP) | [Tuesday Maybe \(Remixed\)](https://open.spotify.com/album/5hZJq3tQTNmLd7uZm3ljZw) | 3:48 | 2021-12-08 | 2023-01-06 |
-| [Again](https://open.spotify.com/track/5FZHoGKTKpkWeIuGacBLgS) | [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ) | [Again](https://open.spotify.com/album/3iGyQOA9EcfQyEPNw65dsg) | 4:18 | 2023-12-15 |  |
+| [Again](https://open.spotify.com/track/5FZHoGKTKpkWeIuGacBLgS) | [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ) | [Again](https://open.spotify.com/album/3iGyQOA9EcfQyEPNw65dsg) | 4:18 | 2023-12-15 | 2024-02-02 |
 | [Ahmed](https://open.spotify.com/track/1rIxb5rv6BUWXT6xmLt91x) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C) | [Mainacht](https://open.spotify.com/album/1iPW3GbDkNYheqeyWjMDn8) | 6:48 | 2021-12-08 |  |
 | [Air](https://open.spotify.com/track/2tVifODuxy46RFMDFzYMkI) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Air](https://open.spotify.com/album/7KGE6G4CQDvAoWpCg8vjFS) | 3:46 | 2023-05-12 |  |
 | [Alfa](https://open.spotify.com/track/0Z3a7SIDVOUvZFgr73qq0V) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Alfa](https://open.spotify.com/album/4uO8oJ4NuITPSvTnP33EfY) | 4:45 | 2023-03-03 |  |
@@ -26,6 +26,7 @@
 | [All Inclusive](https://open.spotify.com/track/4lT5XiuLmM8oeRsjsyuAXy) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [All Inclusive](https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ) | 6:27 | 2021-12-08 | 2022-01-15 |
 | [All Night Long](https://open.spotify.com/track/5YQQ9zU5mxgQcKDC3YSHnd) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [All Night Long](https://open.spotify.com/album/6dhfq40XcSorQ05h7RC7Ts) | 3:58 | 2023-02-03 |  |
 | [Alleghanys](https://open.spotify.com/track/3awOKjYfWhKg9MqHZoN831) | [Mitch Oliver](https://open.spotify.com/artist/1ckj2vv3RFouOkfBd8PxiJ) | [Alleghanys](https://open.spotify.com/album/40X8cf3IfXsqsARey9SPie) | 6:41 | 2021-12-08 | 2023-08-20 |
+| [Altitude](https://open.spotify.com/track/0jfawsq3wQKUtvoBfQRlPK) | [Hidden Voices](https://open.spotify.com/artist/7nm1s5jeLUOtV654BErfeu) | [Altitude](https://open.spotify.com/album/7d2R3XGaesuYEhQWEKpjE0) | 4:14 | 2024-01-26 |  |
 | [Amethyst](https://open.spotify.com/track/4MZBAmPqM7WJOVICPwFPst) | [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS), [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Amethyst](https://open.spotify.com/album/57V02f75ZzKZCOX3QFGmgF) | 4:27 | 2023-07-07 | 2023-07-24 |
 | [Amman \- Nils Hoffmann Remix](https://open.spotify.com/track/01pdcdTTNU68wz3nelUulJ) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Amman \(Nils Hoffmann Remix\)](https://open.spotify.com/album/594usaC9V9jwQwBU9ncqXa) | 4:14 | 2023-03-03 |  |
 | [And Then You Came](https://open.spotify.com/track/3jOZEvgu6UoEp77kzJjfHS) | [FERR](https://open.spotify.com/artist/2wJ0jGmAcvU2tYsIvGXg4P), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Maria Marcus](https://open.spotify.com/artist/3TFBKKjm1zzgBCOQi2SEGY) | [As Above So Below \(Deluxe Version\)](https://open.spotify.com/album/77Z0RXxgT4Qu5anSsMNmXn) | 4:47 | 2021-12-08 |  |

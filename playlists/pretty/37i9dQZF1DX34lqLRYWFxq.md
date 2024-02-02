@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly Rock update\. Cover: Charlotte Sands
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,104 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,105 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [cry baby](https://open.spotify.com/track/37lCmiRvR1tnyLDLc51vDy) | [nicole amoroso](https://open.spotify.com/artist/1YJQ6X2HtbL1xNTfPm0Ft7) | [cry baby](https://open.spotify.com/album/00ipBVb0eJJUtLj5aBf0y7) | 2:55 |
 | 100 | [Hunger Games](https://open.spotify.com/track/5DNLtVGw0jGfHVDtuZHs3g) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Hunger Games](https://open.spotify.com/album/2dW75BMldIC4ObSSAeawgC) | 3:40 |
 
-Snapshot ID: `MCwwZDM5ZDgzNDU2NmRiYWRmYjc1MDZjYzBlMDUzMjk5MDA2YTU2YTNk`
+Snapshot ID: `MCwzZTgxMWZiZjhlYTg1YWE0YmFhODE1ZDQ1ZmRjODFhYzVlMmRlNDIy`

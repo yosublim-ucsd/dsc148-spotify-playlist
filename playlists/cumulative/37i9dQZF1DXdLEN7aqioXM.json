@@ -222,7 +222,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 193043,
       "name": "Across Dark Sky",
       "url": "https://open.spotify.com/track/4h7PsMHwolAXNV7bemumCp"
@@ -3718,6 +3718,24 @@
       "duration_ms": 440760,
       "name": "Hounds of Hell",
       "url": "https://open.spotify.com/track/1DcB747sZ7wM71YkaEYpLC"
+    },
+    {
+      "album": {
+        "name": "Hurts",
+        "url": "https://open.spotify.com/album/2ZvNwpLsK2gfNfEwct0TEf"
+      },
+      "artists": [
+        {
+          "name": "Kenno",
+          "url": "https://open.spotify.com/artist/4fPQVQAFiRySPSBTpr68W1"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Hurts",
+      "url": "https://open.spotify.com/track/6pJtuH0lfbCi98JDr166Uy"
     },
     {
       "album": {

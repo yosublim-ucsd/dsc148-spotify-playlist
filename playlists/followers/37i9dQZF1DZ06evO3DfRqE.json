@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 7468,
+  "2024-02-02": 7470,
   "date_first_scraped": "2024-01-30",
   "description": "This is Jake Shimabukuro. The essential tracks, all in one playlist.",
   "name": "This Is Jake Shimabukuro",
@@ -127,6 +127,28 @@
       "duration_ms": 253933,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/01cbb52SrkVOB8VuFaPoGP"
+    },
+    {
+      "album": {
+        "name": "Doogie Kamealoha, M.D. (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5IIbiXNkg43JLSswf7L18p"
+      },
+      "artists": [
+        {
+          "name": "Wendy Wang",
+          "url": "https://open.spotify.com/artist/5os3sWMaH1ims6VwOogLcB"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148295,
+      "name": "Campfire",
+      "url": "https://open.spotify.com/track/3vas0K5wl8kr7IiphLlWR0"
     },
     {
       "album": {
@@ -955,7 +977,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 165373,
       "name": "\u30ec\u30c3\u30c4\u30fb\u30c0\u30f3\u30b9 - Solo",
       "url": "https://open.spotify.com/track/4OtasHlPr3hKhb8HEIruK1"

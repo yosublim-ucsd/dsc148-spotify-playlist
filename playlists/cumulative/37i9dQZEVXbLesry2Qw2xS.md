@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Estonia.
 
-1,765 songs - 3 day 22 hr 55 min
+1,766 songs - 3 day 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1020,6 +1020,7 @@
 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-01-05 |  |
 | [Murder Rate](https://open.spotify.com/track/5m8AUjnKQ3F6beIY23HOj5) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Тебя любят там где меня нет](https://open.spotify.com/album/3eayFI3gTLNnDoJs39o5V9) | 2:56 | 2022-11-19 | 2022-11-21 |
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-05-21 | 2022-06-10 |
+| [muusika](https://open.spotify.com/track/4kA1TncXXMeJbGpRJxk8h1) | [boipepperoni](https://open.spotify.com/artist/0MjPNmazpZOmBH1nOMaeQY) | [muusika](https://open.spotify.com/album/2n1MH0gEDBEH6uyhAmILjA) | 3:01 | 2024-02-01 |  |
 | [MY EYES](https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:11 | 2023-07-29 |  |
 | [My Flex](https://open.spotify.com/track/67AgOrAogVDA4tvtWnSGcR) | [DJEFX](https://open.spotify.com/artist/1gtiugmWqsfjfweMnPrv43), [Mooski](https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8), [euro](https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC) | [My Flex](https://open.spotify.com/album/5uXhw6aPhwFQmng52eQoDI) | 2:36 | 2023-09-24 | 2023-09-27 |
 | [My Friend](https://open.spotify.com/track/1E37w5VtNlRXTj43hNrwNb) | [OLLIE](https://open.spotify.com/artist/4hhNfPUZ2kBKGuseRny35w) | [My Friend](https://open.spotify.com/album/5Gguna94kJLZ4FUfeTbjEX) | 3:03 | 2023-12-12 | 2024-02-01 |
@@ -1718,7 +1719,7 @@
 | [Для Тебя \(Пусто\)](https://open.spotify.com/track/3qCPpBdgNJf1xG9t8O2pjJ) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [Cкучаю, Но Работаю](https://open.spotify.com/album/1jfgIZ6NpbIMApVH5qq7um) | 2:16 | 2023-04-22 | 2023-04-24 |
 | [Домой](https://open.spotify.com/track/5bA2HBafCfregvLZV4idXb) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [Домой](https://open.spotify.com/album/57NDWrCgxTDXI0RNYN9uQs) | 2:52 | 2021-12-12 | 2021-12-14 |
 | [ДУЛО](https://open.spotify.com/track/2Db7e6H4R5XXnyuTtxUggp) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [ДУЛО](https://open.spotify.com/album/6f2VuDAHzWpNAjEN5QxeOH) | 2:06 | 2021-05-10 | 2021-05-22 |
-| [Дымок](https://open.spotify.com/track/3cHHxlwvB16a1PllSM97jX) | [Ицык Цыпер](https://open.spotify.com/artist/3itorhtp2xgFl1iMPwvAGs), [Игорь Цыба](https://open.spotify.com/artist/02Gn2Lbcdednu9WM1T12nz) | [Дымок](https://open.spotify.com/album/2SjkQbWglFSOGpM7NziXF6) | 2:19 | 2024-01-23 |  |
+| [Дымок](https://open.spotify.com/track/3cHHxlwvB16a1PllSM97jX) | [Ицык Цыпер](https://open.spotify.com/artist/3itorhtp2xgFl1iMPwvAGs), [Игорь Цыба](https://open.spotify.com/artist/02Gn2Lbcdednu9WM1T12nz) | [Дымок](https://open.spotify.com/album/2SjkQbWglFSOGpM7NziXF6) | 2:19 | 2024-01-23 | 2024-02-02 |
 | [За всех](https://open.spotify.com/track/7uJlcGDXjx8Ha6t8kWFlxf) | [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [За всех](https://open.spotify.com/album/6iKw2kpxfdP9j0jn6Q3D7f) | 1:44 | 2022-02-08 | 2022-02-15 |
 | [ЗА ДЕНЬГИ ДА](https://open.spotify.com/track/1mAed61HkjfjJc5evljpNs) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [ЗА ДЕНЬГИ ДА](https://open.spotify.com/album/0DQpVAxO6BwRLfiaeQt6QE) | 1:59 | 2022-12-14 | 2022-12-19 |
 | [ЗА ДЕНЬГИ ДА](https://open.spotify.com/track/4PGzoH4hL1vORGOTxHdWjB) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [POPSTAR](https://open.spotify.com/album/33QIdvBtMb6tH4XmRBjPLj) | 1:59 | 2022-12-18 | 2023-02-20 |

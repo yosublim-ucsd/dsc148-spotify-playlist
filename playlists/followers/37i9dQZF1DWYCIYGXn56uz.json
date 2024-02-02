@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 383769,
+  "2024-02-02": 383728,
   "date_first_scraped": "2023-03-28",
   "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Valerio Mazzei",
   "name": "GENERAZIONE Z",
@@ -2089,6 +2089,24 @@
     {
       "album": {
         "name": "Fila indiana",
+        "url": "https://open.spotify.com/album/68GC0n66xwvHhuAL8aJ9rM"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193387,
+      "name": "Fila indiana",
+      "url": "https://open.spotify.com/track/1H36kJUqLOHLSL98XQBRFU"
+    },
+    {
+      "album": {
+        "name": "Fila indiana",
         "url": "https://open.spotify.com/album/2Dy8cBZkLwkAQJGUls25Hb"
       },
       "artists": [
@@ -2099,7 +2117,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 193387,
       "name": "Fila indiana",
       "url": "https://open.spotify.com/track/2WTgfEZW6gYWhHCMkn4lMc"
@@ -5142,7 +5160,7 @@
     },
     {
       "album": {
-        "name": "sofia </3",
+        "name": "Sofia </3",
         "url": "https://open.spotify.com/album/1o4hP3VBIoS2OwvIIrw2xz"
       },
       "artists": [
@@ -5155,7 +5173,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 175411,
-      "name": "sofia </3",
+      "name": "Sofia </3",
       "url": "https://open.spotify.com/track/5GiNMKuih6zryMHANHrS4U"
     },
     {

@@ -1,7 +1,7 @@
 {
-  "2024-02-01": 173144,
+  "2024-02-02": 173187,
   "date_first_scraped": "2022-01-02",
-  "description": "Music City must-hears. Cover: Brittney Spencer",
+  "description": "Music City must-hears. Cover: Michael Warren",
   "name": "Next From Nashville",
   "tracks": [
     {
@@ -11099,7 +11099,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 205568,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/5pNFOG7WqeKscjCPm580Nr"
@@ -16020,6 +16020,24 @@
     },
     {
       "album": {
+        "name": "Had To Be Wrote",
+        "url": "https://open.spotify.com/album/5wKlNknqRlcQzkCpJi0UnY"
+      },
+      "artists": [
+        {
+          "name": "Wyatt McCubbin",
+          "url": "https://open.spotify.com/artist/4HxnSRFjP0vKzW7z21kuPf"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183704,
+      "name": "Keep Your Radio On",
+      "url": "https://open.spotify.com/track/2nWWKG5Ehmq5txbc5vJUtO"
+    },
+    {
+      "album": {
         "name": "Keeping Me Up All Night",
         "url": "https://open.spotify.com/album/4q3MfAPYMT68yrthrSD68x"
       },
@@ -18902,6 +18920,24 @@
     },
     {
       "album": {
+        "name": "Marlboros",
+        "url": "https://open.spotify.com/album/6goYUOqily3a99wWA02fVO"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217091,
+      "name": "Marlboros",
+      "url": "https://open.spotify.com/track/15XHOyygvmfWPDNQ9Ee0D2"
+    },
+    {
+      "album": {
         "name": "Married Now",
         "url": "https://open.spotify.com/album/2AHUarSrE2rjQFYZcOzC13"
       },
@@ -20815,7 +20851,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 207506,
       "name": "Night In",
       "url": "https://open.spotify.com/track/3Qt9dcvy6bNpbl6nmiioDd"
@@ -23506,6 +23542,24 @@
     },
     {
       "album": {
+        "name": "Rainin' in Dallas",
+        "url": "https://open.spotify.com/album/7vkRag6sGvwVHeNiRihqQs"
+      },
+      "artists": [
+        {
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197750,
+      "name": "Rainin' in Dallas",
+      "url": "https://open.spotify.com/track/5R1VLQaMBkfw9Hc1AANOEw"
+    },
+    {
+      "album": {
         "name": "Raise My Voice",
         "url": "https://open.spotify.com/album/6AJBAFd6cYwUgSygsBYTdJ"
       },
@@ -24209,7 +24263,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 202531,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/0nwwcVkIvLXNPwgWro38Cd"

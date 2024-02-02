@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "MTM0MCxhODZiY2I0NzYxOWRjZDJlNzIzNmE2MjhlYmVlYzk1ZjZmZGI2Njlk",
+  "snapshot_id": "MTM0MSw5Y2I1MGFmM2MzNDk0NWZmNWU2ODk4MjY0MTdiYjRmZDU5Njk1NzAx",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -7027,6 +7027,22 @@
       "duration_ms": 453026,
       "name": "TNT",
       "url": "https://open.spotify.com/track/7noqdg2Oc77zl0lZsOsioI"
+    },
+    {
+      "added_at": "2024-02-02 01:03:49",
+      "album": {
+        "name": "Take Me Back To Eden",
+        "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 304023,
+      "name": "Chokehold",
+      "url": "https://open.spotify.com/track/1Uifdytv882RtTn6Gr4xAA"
     }
   ],
   "unique_name": "Zacklog",

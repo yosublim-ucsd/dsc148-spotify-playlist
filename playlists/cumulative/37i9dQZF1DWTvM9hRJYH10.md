@@ -2,7 +2,7 @@
 
 ### [Young Nashville](https://open.spotify.com/playlist/37i9dQZF1DWTvM9hRJYH10)
 
-> Music from Nashville's emerging Singers and Songwriters\. Cover: Georgia Webster
+> Music from Nashville's emerging Singers and Songwriters\. Cover: Tiera Kennedy
 
 318 songs - 16 hr 49 min
 

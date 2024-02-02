@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,839 likes - 150 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,080 likes - 150 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 102 | [Deathtouch](https://open.spotify.com/track/4ihxHSh37giw8ANfu8PqlP) | [Gravemind](https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH) | [Deathtouch](https://open.spotify.com/album/4lK1lZBV3S2o8XhMvSbvHH) | 3:45 |
 | 103 | [Kimo](https://open.spotify.com/track/5AkX89uLg47wse4Z1g6oil) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer](https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5) | 3:38 |
 | 104 | [Cut off the Head](https://open.spotify.com/track/3Dvk2S4NL3KYU4S4QRW8P8) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Cut Off The Head](https://open.spotify.com/album/0tVym6cewgIKrXkBhvAvSv) | 3:30 |
-| 105 | [From Ruin..\. We Rise](https://open.spotify.com/track/2lSSfK5GGDSUrot8FXq16S) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [From Ruin..\. We Rise](https://open.spotify.com/album/0tmEnen3nC6Oofdjsbr5jW) | 4:50 |
-| 106 | [For Whom the Banshee Cries](https://open.spotify.com/track/2wwbK9hDUHFaZO13XG5N5n) | [Sold Soul](https://open.spotify.com/artist/2X2KBI2OrNMci6TDQAXCA6), [Brittney Slayes](https://open.spotify.com/artist/47gDQfHce3BxdKGzAbI9v0) | [I Hope We Make It Out of This Alive](https://open.spotify.com/album/46V8n8Ws2mYTRFqVXc7IMx) | 6:24 |
+| 105 | [For Whom the Banshee Cries](https://open.spotify.com/track/2wwbK9hDUHFaZO13XG5N5n) | [Sold Soul](https://open.spotify.com/artist/2X2KBI2OrNMci6TDQAXCA6), [Brittney Slayes](https://open.spotify.com/artist/47gDQfHce3BxdKGzAbI9v0) | [I Hope We Make It Out of This Alive](https://open.spotify.com/album/46V8n8Ws2mYTRFqVXc7IMx) | 6:24 |
+| 106 | [From Ruin..\. We Rise](https://open.spotify.com/track/2lSSfK5GGDSUrot8FXq16S) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [From Ruin..\. We Rise](https://open.spotify.com/album/0tmEnen3nC6Oofdjsbr5jW) | 4:50 |
 | 107 | [Hideous](https://open.spotify.com/track/7aJcCmELuZ3Tqd19oVQD7n) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Culling Culture](https://open.spotify.com/album/3ILJRDzXPGR8104VfpAz0U) | 4:14 |
 | 108 | [The Isnis](https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [The Isnis](https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG) | 3:17 |
 | 109 | [Remnants in Time](https://open.spotify.com/track/4QrLsP1ZpVLdEVpdS1AnXm) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Days Before the World Wept](https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms) | 4:53 |
@@ -122,9 +122,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 112 | [The Soil](https://open.spotify.com/track/1zwypBAsxWePrtVBaabDmf) | [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [Hell Will Come for Us All](https://open.spotify.com/album/5u6SV78mDidg0AKa7u3M70) | 3:29 |
 | 113 | [Dead Rabbit](https://open.spotify.com/track/6YnVxaVJSDi12MJD6XMUFI) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Dead Rabbit](https://open.spotify.com/album/1VMwMOt7ka9NWKwdaynncb) | 3:11 |
 | 114 | [Remember Me](https://open.spotify.com/track/5JSpp4LKuqnaR3f5MZVWrc) | [Our Hollow, Our Home](https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Burn in the Flood](https://open.spotify.com/album/1qBh6vpLqGU19T3ICllOp2) | 3:30 |
-| 115 | [Bleed the Future](https://open.spotify.com/track/4DgVZwzoF2dENlLTvhWjr0) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Bleed the Future](https://open.spotify.com/album/3voN4heYWAWr2uxYlcL3pc) | 3:48 |
-| 116 | [Deathmask Divine](https://open.spotify.com/track/22RdGoI0UEZjckg2VX70WC) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Deathmask Divine](https://open.spotify.com/album/6F8ZKgYv9MLtTbw8g885JT) | 4:22 |
-| 117 | [The Price of Grace](https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [The Price of Grace](https://open.spotify.com/album/3kolLEZ68kVuXA1gwO0TJd) | 4:07 |
+| 115 | [The Price of Grace](https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [The Price of Grace](https://open.spotify.com/album/3kolLEZ68kVuXA1gwO0TJd) | 4:07 |
+| 116 | [Bleed the Future](https://open.spotify.com/track/4DgVZwzoF2dENlLTvhWjr0) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Bleed the Future](https://open.spotify.com/album/3voN4heYWAWr2uxYlcL3pc) | 3:48 |
+| 117 | [Deathmask Divine](https://open.spotify.com/track/22RdGoI0UEZjckg2VX70WC) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Deathmask Divine](https://open.spotify.com/album/6F8ZKgYv9MLtTbw8g885JT) | 4:22 |
 | 118 | [In Tenebris](https://open.spotify.com/track/0d0ECn7EN2uaczZyPSvbyx) | [Defamed](https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r) | [In Tenebris](https://open.spotify.com/album/49jAEdf2aGWuzk4v0eNm4L) | 4:16 |
 | 119 | [King Ov Fire](https://open.spotify.com/track/79Tk6FAVdwYretxYFbT9wk) | [Mental Cruelty](https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9) | [A Hill to Die Upon](https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m) | 3:49 |
 | 120 | [Gypsy Disco](https://open.spotify.com/track/3md0vbPVjAthmi7NgQYvcR) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [Gypsy Disco](https://open.spotify.com/album/6XlxptF7rFq2zqEX9aFhgg) | 2:01 |
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 126 | [Dead Pacifist](https://open.spotify.com/track/6XQwdcU1l90Q57jPbOMyhb) | [Tactosa](https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI) | [Exit Wounds](https://open.spotify.com/album/39q3NuRHTAQmPTBZRRhoRB) | 3:11 |
 | 127 | [Tower of Torsos](https://open.spotify.com/track/6RCgSGMboHdokG852OILQm) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Tower of Torsos](https://open.spotify.com/album/2bPi3VonAP6mtglL6iKtfX) | 3:29 |
 | 128 | [Survival](https://open.spotify.com/track/5cV5z3OWpzyvLmpZQiJhuA) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [Survival](https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr) | 3:19 |
-| 129 | [What I Would Give](https://open.spotify.com/track/0vt56Wbd2hcCYvtXoDyEg1) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Dusk](https://open.spotify.com/album/1jEj7ctr3pPvcVW6mFkt3i) | 4:10 |
-| 130 | [Anti\-Fetish](https://open.spotify.com/track/1DNJEei0Cn2KoUl8U3SyCe) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Negative Energy](https://open.spotify.com/album/30Ggyx6pEhcfLDLJ5mtXEh) | 3:58 |
+| 129 | [Anti\-Fetish](https://open.spotify.com/track/1DNJEei0Cn2KoUl8U3SyCe) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Negative Energy](https://open.spotify.com/album/30Ggyx6pEhcfLDLJ5mtXEh) | 3:58 |
+| 130 | [What I Would Give](https://open.spotify.com/track/0vt56Wbd2hcCYvtXoDyEg1) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Dusk](https://open.spotify.com/album/1jEj7ctr3pPvcVW6mFkt3i) | 4:10 |
 | 131 | [Dying Life](https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Dying Life](https://open.spotify.com/album/6Pc86g10o2mM7OSFl5HfLX) | 3:20 |
 | 132 | [Death Whistle](https://open.spotify.com/track/6t5wPcC3CtQjzn5O7i4yVg) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Death Whistle](https://open.spotify.com/album/71IhKehJidjr8Phqa4R3U8) | 5:53 |
 | 133 | [Death Magick](https://open.spotify.com/track/0XcyTZVnvgnvgDIQEIb1S6) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Death Magick](https://open.spotify.com/album/1wU3JkqJnu6jj3AnTas0Tq) | 7:07 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 149 | [Necromanteum](https://open.spotify.com/track/4BsyVbO7MkrVTJzBOQHS1M) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Necromanteum](https://open.spotify.com/album/2RZ0KrPK6mMo4XGjY0Ag8X) | 4:26 |
 | 150 | [From Nothing](https://open.spotify.com/track/5OejDZoN7KYcDUZhj9gxNL) | [Reflections](https://open.spotify.com/artist/0DTH9zFyvRb24bb8XN0iEr) | [From Nothing](https://open.spotify.com/album/04W2vQDW2m6KlJ0oFgudUz) | 3:51 |
 
-Snapshot ID: `MCxjN2Y3YjFmNzEzNWExYjMxODIzZjg1YWVhY2JjNjY4MTdkYzBhYjA4`
+Snapshot ID: `MCwwMTEyOTE4ODk3MjA4MTkxNmU4MDY1MWMxYWI3Y2ZhYjVjMzM0YWZk`

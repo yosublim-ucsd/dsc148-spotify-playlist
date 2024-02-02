@@ -1,13 +1,29 @@
 {
-  "description": "Discover your new favourite artists from UK&IE. Cover: NewDad",
-  "num_followers": 119170,
+  "description": "Discover your new favourite artists from UK&IE. Cover: Tyler Lewis",
+  "num_followers": 119160,
   "original_name": "RADAR UK & Ireland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDA1MmNmNTk3YWZiZTJlOTMwZTdkYjgyNzdiMTc0ZDVjMTY3ZTUx",
+  "snapshot_id": "MCxiZDhjMjUyNjNhY2ZkMWU5ZjVkNGM1N2MzZjNjNTUxNDQxNzU4ZDk4",
   "tracks": [
+    {
+      "added_at": "2024-02-02 00:00:00",
+      "album": {
+        "name": "downtime",
+        "url": "https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va"
+      },
+      "artists": [
+        {
+          "name": "Tyler Lewis",
+          "url": "https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p"
+        }
+      ],
+      "duration_ms": 192336,
+      "name": "downtime",
+      "url": "https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU"
+    },
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {

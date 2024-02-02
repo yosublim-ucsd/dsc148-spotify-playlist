@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-708 songs - 1 day 7 hr 48 min
+709 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -692,7 +692,7 @@
 | [Why \- Instrumental](https://open.spotify.com/track/4lrBgixwA1IgY7sjAHl3pm) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Why \(Instrumental\)](https://open.spotify.com/album/1FYz4elK9meLwqVC8paa9d) | 1:52 | 2021-12-23 | 2022-07-16 |
 | [Win the Lottery](https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's penny candy store \#7](https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd) | 3:06 | 2021-12-23 | 2022-12-24 |
 | [Windshield Wiper](https://open.spotify.com/track/5w8T6jJQ9ikTxyOVXUDpeS) | [Bunen](https://open.spotify.com/artist/0qB2un7FwMyJARnEvG48Kh), [Ohm Guru](https://open.spotify.com/artist/7GD1ahbgKEcQkS2qIvwwKY) | [Boredom Empire](https://open.spotify.com/album/5NFcbg1dhDWtUpVfjSF5BM) | 2:56 | 2022-03-24 | 2022-04-17 |
-| [winter sunburn](https://open.spotify.com/track/2F6nw7ztr11cC4sQeE6Kcn) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [winter sunburn](https://open.spotify.com/album/5nHOhbEw2vFByKWNUgD4TF) | 2:24 | 2023-12-21 |  |
+| [winter sunburn](https://open.spotify.com/track/2F6nw7ztr11cC4sQeE6Kcn) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [winter sunburn](https://open.spotify.com/album/5nHOhbEw2vFByKWNUgD4TF) | 2:24 | 2023-12-21 | 2024-02-02 |
 | [wooden piano](https://open.spotify.com/track/3Q6atcj3iYHcmWSS0ZYV8c) | [mimii](https://open.spotify.com/artist/5etiKSmq26ACCmKPKHB2eA) | [wooden piano](https://open.spotify.com/album/2qqqbBh9kX1Q93Zgk9B30Y) | 1:20 | 2021-12-23 | 2022-06-26 |
 | [wooden piano](https://open.spotify.com/track/6nZ5BZikC0DyOFpInapHCn) | [mimii](https://open.spotify.com/artist/5etiKSmq26ACCmKPKHB2eA), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [wooden piano](https://open.spotify.com/album/5hwhvjxUQrZslxfCpduJZq) | 1:20 | 2022-10-20 |  |
 | [XO](https://open.spotify.com/track/7gpDUoMZKBOiszaZ8sx17F) | [Botsfuneral](https://open.spotify.com/artist/4p5E4RsC9ZcUkyoK5j2Jx0) | [XO](https://open.spotify.com/album/4GbRETxpxr4bikdN7bj5HN) | 1:58 | 2021-12-23 | 2022-01-16 |
@@ -713,6 +713,7 @@
 | [夕映 03](https://open.spotify.com/track/4zfzaUsbKgV3cYDw2hhLeD) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夕映](https://open.spotify.com/album/3uEUBhmwTJusgd9GxYHxAR) | 1:58 | 2021-12-23 | 2022-07-17 |
 | [夜景 01](https://open.spotify.com/track/1XIHeOhhMJksHCFczCOW0p) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夜景](https://open.spotify.com/album/7zvsVcGHERSsrJ54RYw2HN) | 1:50 | 2022-01-06 | 2022-07-22 |
 | [夢の中](https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夢の中](https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb) | 2:39 | 2021-12-23 | 2022-07-29 |
+| [愛が廃れたって \- Instrumental](https://open.spotify.com/track/3JCWebd4sVMpxStBvFpoJS) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [MAHORO \(Instrumental\)](https://open.spotify.com/album/5V79pIal805EAayl2qblmu) | 4:11 | 2024-02-01 |  |
 | [秩父](https://open.spotify.com/track/5Ppgh0p36VFv6tyz1ouT2f) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:17 | 2024-01-10 |  |
 | [花火 01](https://open.spotify.com/track/3roiSk1Qepttg9ct0tLm5G) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [花火](https://open.spotify.com/album/4Jgfki9QuMF1C1eTdtoenN) | 1:55 | 2021-12-23 | 2023-06-22 |
 | [蛍の光 \- Step into a World](https://open.spotify.com/track/2C9mRXopIobQ0Op4LmvVfB) | [MAHBIE](https://open.spotify.com/artist/5ggbey9WKiS849lppw8lbs) | [蛍の光 \(Step into a World\)](https://open.spotify.com/album/2xuer9lpvG0RRLu2OICRn0) | 1:35 | 2022-03-24 | 2022-07-30 |

@@ -724,10 +724,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 193548,
       "name": "Quarentoxic",
       "url": "https://open.spotify.com/track/1kbA0ogOM9fWT4dDHMsa8y"
+    },
+    {
+      "album": {
+        "name": "Quarentoxic",
+        "url": "https://open.spotify.com/album/2WKsLQG7CwLheg60Gal0HC"
+      },
+      "artists": [
+        {
+          "name": "Kzn",
+          "url": "https://open.spotify.com/artist/5EZHJyeAbl8WK8PdMRR2eh"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193548,
+      "name": "Quarentoxic",
+      "url": "https://open.spotify.com/track/6FqIzYdOJD29Xf3y7cOyWF"
     },
     {
       "album": {

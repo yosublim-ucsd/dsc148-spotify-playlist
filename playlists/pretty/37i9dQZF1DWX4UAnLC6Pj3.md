@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Luis Angel El Flaco en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,141,915 likes - 125 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,141,968 likes - 125 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 124 | [Popurrí Al Divo \(La Diferencia, Si Quieres, Mi Fracaso\)](https://open.spotify.com/track/4qMT2GDBi1r5u2JPQTmT6f) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Hecho En México…Mágico](https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv) | 7:03 |
 | 125 | [Fruta Prohibida \(En Vivo\)](https://open.spotify.com/track/7LePdYin7ESpRVRURBx16C) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Mis Gustos Mis Canciones \(En Vivo\)](https://open.spotify.com/album/713vIeHuBR3osul4JUkdS2) | 2:43 |
 
-Snapshot ID: `MCxhZTlkNzRjNmQ4N2M4YWY1YjE2ODExOGJlYTQ3ZjUwYTI2YTRiNzMx`
+Snapshot ID: `MCw0MzhjMjM4ZGU3Yjg5MzdlMmQwMzliYTU0MzAzNmQyNGZlNDIwNjg3`

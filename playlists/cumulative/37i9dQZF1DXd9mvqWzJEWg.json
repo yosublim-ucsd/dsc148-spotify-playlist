@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/3HU5DXz2taeMRxafimOgom?si=IzDcDqJSQz-G5cFoehBhNQ\">Griffit Vigo</a>",
+  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx?si=DpnRVn6sSeqJZxCg6bvkUQ\">Vanger Boyz</a>",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -260,7 +260,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 338100,
       "name": "Baxolele Bawo",
       "url": "https://open.spotify.com/track/29cTBN1NTRlfGB5tonC6ys"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 316499,
       "name": "Crowd Pleaser",
       "url": "https://open.spotify.com/track/4sTXCT1XqZYbMVbndaPES0"
@@ -2315,6 +2315,28 @@
     },
     {
       "album": {
+        "name": "For The Streets EP",
+        "url": "https://open.spotify.com/album/50NQlg4fKp4AhGU0TTMeA6"
+      },
+      "artists": [
+        {
+          "name": "Vanger Boyz",
+          "url": "https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx"
+        },
+        {
+          "name": "NtokZeen Da One",
+          "url": "https://open.spotify.com/artist/1ea4A1ZVZ59Wg2bXxC9RQb"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334512,
+      "name": "Opera",
+      "url": "https://open.spotify.com/track/2YfIGM0wwIzq67o3syzu76"
+    },
+    {
+      "album": {
         "name": "P.A.B (People Are Burning) (feat. Madanon)",
         "url": "https://open.spotify.com/album/0mzcPb75OxCKOKi0rfmutl"
       },
@@ -3342,6 +3364,28 @@
       "duration_ms": 377573,
       "name": "Unomeva",
       "url": "https://open.spotify.com/track/60o7HF5nu0VYPt9grzY93O"
+    },
+    {
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/2P3OHl9eVdJNLI0fM6A7Bp"
+      },
+      "artists": [
+        {
+          "name": "Robin Pieters",
+          "url": "https://open.spotify.com/artist/2tw3IXCNK2a88IiwpOby1X"
+        },
+        {
+          "name": "NV Funk",
+          "url": "https://open.spotify.com/artist/2Y4YLJHlF2q5jg5pTE5CSz"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215659,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/5SoHrPWeNuGGw7gzV60DxW"
     },
     {
       "album": {

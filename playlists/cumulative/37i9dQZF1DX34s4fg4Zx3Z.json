@@ -2412,7 +2412,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 240558,
       "name": "BETTER",
       "url": "https://open.spotify.com/track/0wRhFSsqo6bHEciAY7VQ4g"
@@ -10334,7 +10334,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 292000,
       "name": "Gi\u1edd L\u00e0 L\u00fac \u0110\u1ec3 Anh Nh\u1eadn Ra",
       "url": "https://open.spotify.com/track/2VLBsQYTO0hjhzqzy9GYHB"
@@ -14667,6 +14667,24 @@
     },
     {
       "album": {
+        "name": "L\u1ec7ch",
+        "url": "https://open.spotify.com/album/6uM4TsZyNjehSgBYv4XLpW"
+      },
+      "artists": [
+        {
+          "name": "T\u1ecdi",
+          "url": "https://open.spotify.com/artist/1aVkG16ZfTc5XJ9qP7ti7i"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245760,
+      "name": "L\u1ec7ch",
+      "url": "https://open.spotify.com/track/3ANRCeNjOnstDGCG0gAWAy"
+    },
+    {
+      "album": {
         "name": "L\u1ed1i C\u0169 R\u00eau Phong",
         "url": "https://open.spotify.com/album/044vx6UpDhtpvkHwb7hbpU"
       },
@@ -16676,6 +16694,24 @@
       "duration_ms": 288000,
       "name": "M\u1edf m\u1eaft m\u1ed9ng m\u1ecb",
       "url": "https://open.spotify.com/track/1lvOz8lj6FkjG6s7A5Dcuq"
+    },
+    {
+      "album": {
+        "name": "M\u1eebng Xu\u00e2n",
+        "url": "https://open.spotify.com/album/1hZQEVvpocaJa7NLsJq3Gm"
+      },
+      "artists": [
+        {
+          "name": "July Hoan",
+          "url": "https://open.spotify.com/artist/7AA8o9ENzDIgrI5e4SvNq1"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335700,
+      "name": "M\u1eebng Xu\u00e2n",
+      "url": "https://open.spotify.com/track/402QAcii8meKyzrb98Bgej"
     },
     {
       "album": {
@@ -19112,7 +19148,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 184265,
       "name": "N\u1ebfu Anh Mu\u1ed1n \u0110\u1ed5i Vai - Rap Version",
       "url": "https://open.spotify.com/track/6h1nJ0J9eIDUDcVeaPgqBC"
@@ -29355,6 +29391,24 @@
     },
     {
       "album": {
+        "name": "\u0110\u00eam M\u1ea5t Ng\u1ee7",
+        "url": "https://open.spotify.com/album/7whQxgFuCWJjQDzMjzCpd6"
+      },
+      "artists": [
+        {
+          "name": "Quinn",
+          "url": "https://open.spotify.com/artist/4bvfBwk7P6u7mvXkaKu1Hy"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208677,
+      "name": "\u0110\u00eam M\u1ea5t Ng\u1ee7",
+      "url": "https://open.spotify.com/track/45yNl0JNeFDAEzELq22Wix"
+    },
+    {
+      "album": {
         "name": "\u0110\u00eam nay",
         "url": "https://open.spotify.com/album/4xLmjDRJfYnORYU1wdM38d"
       },
@@ -29406,7 +29460,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 241776,
       "name": "\u0110\u00eam \u0110\u1ea7y Sao",
       "url": "https://open.spotify.com/track/1c4fRHXswMWJV4PxU2wrxt"
@@ -30452,6 +30506,24 @@
       "duration_ms": 210325,
       "name": "\u0110\u1eebng Y\u00eau B\u1eb1ng L\u1eddi H\u1ee9a",
       "url": "https://open.spotify.com/track/5fjLjEkR3BFvULCku2e4Mp"
+    },
+    {
+      "album": {
+        "name": "\u0110\u1eebng \u0110i M\u00e0",
+        "url": "https://open.spotify.com/album/70RdRPFPF9FVnwACbO43pj"
+      },
+      "artists": [
+        {
+          "name": "Baliw Andy",
+          "url": "https://open.spotify.com/artist/2Kln7vQxfOmzqPqB0SHNLZ"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185723,
+      "name": "\u0110\u1eebng \u0110i M\u00e0",
+      "url": "https://open.spotify.com/track/5i81BidjU5L5Iv1huU9Gcs"
     },
     {
       "album": {

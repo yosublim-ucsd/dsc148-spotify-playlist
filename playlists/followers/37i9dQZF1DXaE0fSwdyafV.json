@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 132231,
+  "2024-02-02": 132252,
   "date_first_scraped": "2023-09-27",
   "description": "It's the witching hours. ",
   "name": "Protect Your Energy",
@@ -579,6 +579,24 @@
       "duration_ms": 219681,
       "name": "Garden Song",
       "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
+    },
+    {
+      "album": {
+        "name": "Girls That Play",
+        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202302,
+      "name": "Girls That Play",
+      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
     },
     {
       "album": {
@@ -1519,7 +1537,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 174221,
       "name": "Wolfcat",
       "url": "https://open.spotify.com/track/1Hu2OypX8tMPwBcCUaAeO4"

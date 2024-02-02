@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "\u00a1Popular, Mariachi, Vallenato y m\u00e1s pa' sentarse a beber! Foto: Arelys Henao",
+  "description": "\u00a1Popular, Mariachi, Vallenato y m\u00e1s pa' sentarse a beber! Foto: Diego Daza",
   "name": "Ranchenato",
   "tracks": [
     {
@@ -296,7 +296,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 233280,
       "name": "Amarga Despedida",
       "url": "https://open.spotify.com/track/6BdFSbbBaQ1EbnccsbfdNE"
@@ -1066,6 +1066,28 @@
       "duration_ms": 171857,
       "name": "El Desmadre",
       "url": "https://open.spotify.com/track/1UW2EbzKVV5Vubsmp5NA0j"
+    },
+    {
+      "album": {
+        "name": "A To' Timbal",
+        "url": "https://open.spotify.com/album/62XE6gFwbqHghQwsifIVyO"
+      },
+      "artists": [
+        {
+          "name": "Diego Daza",
+          "url": "https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc"
+        },
+        {
+          "name": "Carlos Rueda",
+          "url": "https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221311,
+      "name": "El DM",
+      "url": "https://open.spotify.com/track/4kqg2zepbSejpGMbQY58gy"
     },
     {
       "album": {

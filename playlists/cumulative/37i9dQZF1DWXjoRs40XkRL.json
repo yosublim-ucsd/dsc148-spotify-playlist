@@ -1618,6 +1618,24 @@
     {
       "album": {
         "name": "Dedh Ishqiya",
+        "url": "https://open.spotify.com/album/23R1Rdt3MDu5aHYh9FFGBp"
+      },
+      "artists": [
+        {
+          "name": "Rekha Bhardwaj",
+          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338552,
+      "name": "Jagaave Saari Raina",
+      "url": "https://open.spotify.com/track/4Y5YYrofXOcGZnrH03AhvF"
+    },
+    {
+      "album": {
+        "name": "Dedh Ishqiya",
         "url": "https://open.spotify.com/album/0x33kdKVOuPpUNyuQdX1LR"
       },
       "artists": [
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 338552,
       "name": "Jagaave Saari Raina",
       "url": "https://open.spotify.com/track/7CQ0O1bdOHZINqyOf1W3kz"

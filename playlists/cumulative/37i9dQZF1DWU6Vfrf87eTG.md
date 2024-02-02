@@ -4,7 +4,7 @@
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-183 songs - 10 hr 55 min
+184 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [All Along the Watchtower \(feat\. Gabe Witcher\) \- From Sons of Anarchy \(Instrumental\)](https://open.spotify.com/track/7gP40cgwzUeDkypRwpSNrf) | [The Forest Rangers](https://open.spotify.com/artist/46xMgypLHP8GNsYME3vRnV), [Gabe Witcher](https://open.spotify.com/artist/3MjRrLK3oWzDniKxjbKPYm) | [All Along the Watchtower \(feat\. Gabe Witcher\) \[From Sons of Anarchy \(Instrumental\)\]](https://open.spotify.com/album/2NkTkCkwPwGrljRyMZnA2q) | 2:52 | 2020-07-13 |  |
 | [Alpine Star](https://open.spotify.com/track/1SM7koUWwATTH13pTyGS7l) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Goes West](https://open.spotify.com/album/7vPbJA9o9NKBqjoI7StDmq) | 5:26 | 2020-07-13 |  |
 | [Alpine Star](https://open.spotify.com/track/3QDwa1AZKMBPrEMmme8gXo) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Goes West](https://open.spotify.com/album/0JbGIBNY8NDj1rpV6BAOCD) | 5:26 | 2020-07-13 | 2022-07-29 |
-| [Angi](https://open.spotify.com/track/24mF7MHU2S7NfkvyhKbHHZ) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [3/4 AD](https://open.spotify.com/album/7dyUtGBLV46N0MpFIHTd67) | 2:27 | 2023-01-20 |  |
+| [Angi](https://open.spotify.com/track/4C5fbvzeJQSDHQxUpsGq5G) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [3 / 4 Ad](https://open.spotify.com/album/0U3TarPouJwJwkkGh22iAO) | 2:26 | 2023-01-20 |  |
+| [Angi](https://open.spotify.com/track/24mF7MHU2S7NfkvyhKbHHZ) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [3/4 AD](https://open.spotify.com/album/7dyUtGBLV46N0MpFIHTd67) | 2:27 | 2023-01-20 | 2024-02-02 |
 | [Angi](https://open.spotify.com/track/2wxpgRChMOPsE9lebeEzMj) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [3/4 AD](https://open.spotify.com/album/5jCLZRSd8CyV34s7iEvqYZ) | 2:27 | 2020-07-13 | 2022-07-29 |
 | [Angi](https://open.spotify.com/track/6jXd3IhCFUJxDJ0wEtk010) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [3/4 AD](https://open.spotify.com/album/4UE3bjQpfPwVlPtKFPAxB3) | 2:27 | 2020-07-13 | 2023-02-26 |
 | [Angi](https://open.spotify.com/track/7pDKAoUXi0IpkcSF3lEJd7) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [3/4 AD](https://open.spotify.com/album/6qsqaKBusLJDMcTfDfOd4N) | 2:27 | 2023-01-20 | 2023-04-29 |

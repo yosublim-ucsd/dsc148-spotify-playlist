@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 6453,
+  "2024-02-02": 6512,
   "date_first_scraped": "2023-05-19",
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sanathan Shree Krishnan",
   "name": "RADAR Tamil",
@@ -659,7 +659,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 191998,
       "name": "Dry Ice",
       "url": "https://open.spotify.com/track/1mg6Gv8G88c7BLYolp8FF4"
@@ -805,7 +805,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 235115,
       "name": "FLYHIGH",
       "url": "https://open.spotify.com/track/09rtkeKUT1QU1GnC1kud4O"
@@ -1031,6 +1031,24 @@
       "duration_ms": 169999,
       "name": "i Aval",
       "url": "https://open.spotify.com/track/22eCEOuOXu7gMA40IDhnzU"
+    },
+    {
+      "album": {
+        "name": "I Dont Know How I Feel",
+        "url": "https://open.spotify.com/album/0PJeYQQnTBLlMxVfQsXBQe"
+      },
+      "artists": [
+        {
+          "name": "Kiran Surath N",
+          "url": "https://open.spotify.com/artist/3HtIU5rxQT1V2GiAorUK8I"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201321,
+      "name": "I Dont Know How I Feel",
+      "url": "https://open.spotify.com/track/7to9BxAFZuACql3MzwJrkW"
     },
     {
       "album": {
@@ -2193,7 +2211,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 251147,
       "name": "Manjakizhange",
       "url": "https://open.spotify.com/track/5V8lgBdrbPb9Nt4fM2g4Kx"
@@ -2571,7 +2589,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 271750,
       "name": "Neenguvadhale",
       "url": "https://open.spotify.com/track/6PUzpAsBuuKocDZfivBxtj"
@@ -2663,7 +2681,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 172500,
       "name": "Neeye Vaanaai",
       "url": "https://open.spotify.com/track/0MwPSfb7P81ozhBTxlZJDR"
@@ -2693,8 +2711,8 @@
       },
       "artists": [
         {
-          "name": "Rajaganapathy Gopalakrishnan",
-          "url": "https://open.spotify.com/artist/02lKzTzfEKd4sPq9pUn5dS"
+          "name": "Rajaganapathy",
+          "url": "https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq"
         }
       ],
       "date_added": "2024-01-15",
@@ -2936,6 +2954,24 @@
     },
     {
       "album": {
+        "name": "Peela Peter",
+        "url": "https://open.spotify.com/album/44ALmEIFiFmhyP0w9l50mP"
+      },
+      "artists": [
+        {
+          "name": "Krish Manoj",
+          "url": "https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94000,
+      "name": "Peela Peter",
+      "url": "https://open.spotify.com/track/5wDRGaS2eaKGdgECfGkmJy"
+    },
+    {
+      "album": {
         "name": "Piriyaadhe",
         "url": "https://open.spotify.com/album/6kQd4SMnVuHWvQ0XMRFiWh"
       },
@@ -3097,6 +3133,24 @@
       "duration_ms": 146666,
       "name": "Puppy Shame",
       "url": "https://open.spotify.com/track/2vDNF1Zqka9bCL9doi0oOs"
+    },
+    {
+      "album": {
+        "name": "Puriya Vei",
+        "url": "https://open.spotify.com/album/2uyiv7xioQOp84vEqlJNqs"
+      },
+      "artists": [
+        {
+          "name": "Killa K",
+          "url": "https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126599,
+      "name": "Puriya Vei",
+      "url": "https://open.spotify.com/track/3FB7rvufG8aW4bDkEUMbx3"
     },
     {
       "album": {
@@ -3443,6 +3497,24 @@
       "duration_ms": 295694,
       "name": "Thaaye",
       "url": "https://open.spotify.com/track/2tC6NKLWE0kkDcgWPy7rml"
+    },
+    {
+      "album": {
+        "name": "Thalaimurai",
+        "url": "https://open.spotify.com/album/64ubBdVV2I7QE7NYg5dcOQ"
+      },
+      "artists": [
+        {
+          "name": "Samson",
+          "url": "https://open.spotify.com/artist/4kgDn0gghgRb6JMYmiChDQ"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327624,
+      "name": "Thalaimurai",
+      "url": "https://open.spotify.com/track/0U6NR1jqmslRonec4FHjI0"
     },
     {
       "album": {

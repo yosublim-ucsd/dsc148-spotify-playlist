@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 70009,
+  "2024-02-02": 70018,
   "date_first_scraped": "2022-06-02",
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
   "name": "This Is Lenin Ram\u00edrez",
@@ -83,6 +83,28 @@
       "duration_ms": 202750,
       "name": "A Lo Que Sigue",
       "url": "https://open.spotify.com/track/0Ndnbc16qPg2CO34a8Z65Q"
+    },
+    {
+      "album": {
+        "name": "Bien Positivo",
+        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160906,
+      "name": "A Que Sabes",
+      "url": "https://open.spotify.com/track/6gw5op96WEbp8y4nT19Mdg"
     },
     {
       "album": {
@@ -475,7 +497,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 128039,
       "name": "El Centenario (En Vivo)",
       "url": "https://open.spotify.com/track/0eUb4yGTMT4WFiElWuTH5N"

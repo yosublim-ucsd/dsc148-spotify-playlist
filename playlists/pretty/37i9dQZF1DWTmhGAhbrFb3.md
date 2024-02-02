@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 
 > Música ambiental para noches tranquilas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,419 likes - 200 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,259 likes - 200 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 | 199 | [At Rest](https://open.spotify.com/track/1qox7A6GvcVMcqhpOoIzsX) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Dharma's Dream](https://open.spotify.com/album/6pkV7ilaHspVHyTXGy7yOk) | 2:39 |
 | 200 | [Corfu](https://open.spotify.com/track/26Ai0IMyGM4cGA0Dp2uTjm) | [The Blue Sun](https://open.spotify.com/artist/7IovadbLWNyXi5BWqo98gD) | [The Blue Sun](https://open.spotify.com/album/2vYFhbACGYRpPk5tlH0drO) | 3:48 |
 
-Snapshot ID: `MCwxZDI0M2Q1ZTgyOTc4NTFiMDhkMWYyMzExZWUyMzBjN2VjNDQ2NDAx`
+Snapshot ID: `MCwyYWY1ZDRlMTQ1ZGM0NmE3MjZhNWI0YmEwZTk2ZGViMGJhODgxZGUy`

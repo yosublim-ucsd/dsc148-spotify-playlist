@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Eddy de Pretto",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Leslie Medina",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -228,6 +228,24 @@
       "duration_ms": 157192,
       "name": "Baiser Amer",
       "url": "https://open.spotify.com/track/3cguuolaXUqJU7tUAEbFfZ"
+    },
+    {
+      "album": {
+        "name": "bbtumadores",
+        "url": "https://open.spotify.com/album/4WmnQJL9ALfQOetoBXUpdZ"
+      },
+      "artists": [
+        {
+          "name": "Leslie Medina",
+          "url": "https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160648,
+      "name": "bbtumadores",
+      "url": "https://open.spotify.com/track/5yqoaf3rsnWWeWhYWVQP17"
     },
     {
       "album": {
@@ -890,7 +908,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 192663,
       "name": "Hollywood game",
       "url": "https://open.spotify.com/track/08lrGHWmLDdGyQvFBlwqxF"
@@ -992,6 +1010,24 @@
       "duration_ms": 179760,
       "name": "J'me barre",
       "url": "https://open.spotify.com/track/2ZkWEkVDL73dSNAv21aa0B"
+    },
+    {
+      "album": {
+        "name": "J'suis pas d\u00e9sol\u00e9e",
+        "url": "https://open.spotify.com/album/3Orqw5q7jQXwqstseEYNF2"
+      },
+      "artists": [
+        {
+          "name": "Nochka",
+          "url": "https://open.spotify.com/artist/2LDcDxIuutAEQcHpmDOowg"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132495,
+      "name": "J'suis pas d\u00e9sol\u00e9e",
+      "url": "https://open.spotify.com/track/0lXOvhcpVYjLvxUhVY3MuY"
     },
     {
       "album": {
@@ -1975,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "Si\u00e8cle",
+        "url": "https://open.spotify.com/album/7Csl8SHuvVbY8ryd7SE4V4"
+      },
+      "artists": [
+        {
+          "name": "Distractions",
+          "url": "https://open.spotify.com/artist/0tjYp5aomovObVn97GZjIN"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196860,
+      "name": "Si\u00e8cle",
+      "url": "https://open.spotify.com/track/0vX8rhIZdNyTEWx462w0jx"
+    },
+    {
+      "album": {
         "name": "Souvenirs",
         "url": "https://open.spotify.com/album/0H0JL5VvXBnu5Kg7j8jEnr"
       },
@@ -2232,7 +2286,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 230458,
       "name": "Vanves",
       "url": "https://open.spotify.com/track/5y1qlBZufBrTIIFl9BtMQn"
@@ -2304,7 +2358,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 158051,
       "name": "\u00c7a ira",
       "url": "https://open.spotify.com/track/4fzoguCLFCgt2ldzSkLkL4"

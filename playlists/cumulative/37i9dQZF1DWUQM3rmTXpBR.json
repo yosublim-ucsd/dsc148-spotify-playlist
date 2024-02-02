@@ -2773,6 +2773,24 @@
     },
     {
       "album": {
+        "name": "Manshaa",
+        "url": "https://open.spotify.com/album/7IyiJ5H6iF16pXc5cs8RiF"
+      },
+      "artists": [
+        {
+          "name": "fulana",
+          "url": "https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Ya Thalam Ya Kabes",
+      "url": "https://open.spotify.com/track/4NikczXsuYD29AMrHcx90I"
+    },
+    {
+      "album": {
         "name": "\u062a\u062c\u0631\u0628\u0629 \u0631\u0642\u0645 \u0661 \\ \u0662",
         "url": "https://open.spotify.com/album/4IFxGT5v6ONryGGHxcOcf4"
       },

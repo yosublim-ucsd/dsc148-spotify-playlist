@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,463 likes - 63 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,591 likes - 63 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 | 45 | [741 Hz \- Quiet Stars](https://open.spotify.com/track/3JU6dvPmFRDisSGmxo7WNd) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Quiet Stars](https://open.spotify.com/album/7HtP4dHkmBSY6bmEzRUqAg) | 1:55 |
 | 46 | [Cleansing Heart 741 Hz](https://open.spotify.com/track/56CXESEfsaCPnzcB8kj1iO) | [Harper Rems](https://open.spotify.com/artist/3veRAXXPy3m69dx4ZtZJCP) | [Cleansing Heart 741 Hz](https://open.spotify.com/album/1KltK5tuNXB2DCJH79Qy4l) | 2:30 |
 | 47 | [741 Hz \- Love Frequencies](https://open.spotify.com/track/4UUpDUTPxXNJ2hsMAeQrVR) | [Aegean Noise](https://open.spotify.com/artist/0lGHTzI7DtmSGJq85VGjuH) | [Love Frequencies](https://open.spotify.com/album/2ssnnukfZzdMCQojhzMK51) | 1:56 |
-| 48 | [Vishuddha \(741hz\)](https://open.spotify.com/track/3AVThTFS4S4Ol9ZfLfkZ78) | [Kula Kriya](https://open.spotify.com/artist/3R2i0SUPRrMZrh0HurjAwn) | [Through The Chakras](https://open.spotify.com/album/5UEVsKVyAtDvh9B5o3YmYM) | 1:49 |
+| 48 | [Vishuddha \(741hz\)](https://open.spotify.com/track/6R9uMqBZRyanEMjSa60jZj) | [Kula Kriya](https://open.spotify.com/artist/3R2i0SUPRrMZrh0HurjAwn) | [Through The Chakras](https://open.spotify.com/album/20laVtUmPgjplNxrC4HHXc) | 1:49 |
 | 49 | [741 Hz Spiritual Bath](https://open.spotify.com/track/5OANFC7h3nM3Jj1nrTM1vM) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [New Beginning](https://open.spotify.com/album/1AjaVNgylLuRhsBZptlwKH) | 3:01 |
 | 50 | [741 Hz \- Miracle Tone](https://open.spotify.com/track/5fQxqgnJB4ictkKB2NBwYM) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [Solfeggio Frequencies \- Miracle Tone](https://open.spotify.com/album/1FeOwrv5KIrJp5znjhqUrQ) | 1:35 |
 | 51 | [741hz Purifies Mind and Body](https://open.spotify.com/track/7yOZ0gYi6owjohpcmTOKAe) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frecuencies Vol\. 1](https://open.spotify.com/album/7hNbEpRZcaTHj38NHxqXiz) | 4:09 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 | 62 | [Dark Waves](https://open.spotify.com/track/00HRepvlnm6qcRKr7benVb) | [A.I.C 83](https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V) | [Brown Noise](https://open.spotify.com/album/4H2iQaVz222z1FExVHOwB2) | 2:20 |
 | 63 | [Ferns](https://open.spotify.com/track/4EILGubj8yeAb5szI5BDVh) | [Kevin Hutchins](https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe) | [Ferns](https://open.spotify.com/album/1vM33GBEtobzFLRd1inD01) | 3:32 |
 
-Snapshot ID: `MCxjOTg1YjgzZDM1OWEzNjVjYWFmYTc2YTMxMDQ4NDdhNTUwMjk3MmMw`
+Snapshot ID: `MCw5OTJhZDNlN2E4MTBjZGRhZWU1Y2EzOTE5NjE5NDRmYTVmNjE2MTli`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 
 > A classic playlist full of favorites of the 80s!
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 331,192 likes - 69 songs - 4 hr 45 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 331,029 likes - 69 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 | 68 | [Super Freak](https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 3:25 |
 | 69 | [The Stroke](https://open.spotify.com/track/2H5BRl8I6IveJ6BgC7FpqQ) | [Billy Squier](https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r) | [Don't Say No](https://open.spotify.com/album/5FATFw46kqvlhayx9QCxLd) | 3:38 |
 
-Snapshot ID: `OTMwLDUxMWFkYmZiNTUzNmJlNTJjODE5NDA3NmIzNTliNDk1ZTA4MDY2OTc=`
+Snapshot ID: `OTMyLGZlZGIzZjkyMjdkNTJiOTJlNGJjNzljNzkxOTliMjVjYWFmYTczMTM=`

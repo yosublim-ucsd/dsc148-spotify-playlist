@@ -1707,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "how deep is your love",
+        "url": "https://open.spotify.com/album/5bCb8dgtLFkMOlpmVP0lfZ"
+      },
+      "artists": [
+        {
+          "name": "Jack All",
+          "url": "https://open.spotify.com/artist/4rtQc0T0U3nCqAV6BwmOO4"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189329,
+      "name": "how deep is your love",
+      "url": "https://open.spotify.com/track/55cUQwQw1BW6K3VrzCpvvY"
+    },
+    {
+      "album": {
         "name": "I Ain't Worried",
         "url": "https://open.spotify.com/album/6X3oVvm0vfJMZF3H37vhDh"
       },
@@ -2500,7 +2518,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 126460,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2XBFv43iLJAgc0tFLwpvSB"
@@ -3002,7 +3020,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 171891,
       "name": "Savage Love",
       "url": "https://open.spotify.com/track/49tiZj04if4awJE2vjJo6z"
@@ -3932,6 +3950,24 @@
       "duration_ms": 121125,
       "name": "wefoundlove",
       "url": "https://open.spotify.com/track/23kBxBCU9ey05l98Okzm1O"
+    },
+    {
+      "album": {
+        "name": "what was i made for",
+        "url": "https://open.spotify.com/album/3KhgQIQDqinlfOFK3ruHa8"
+      },
+      "artists": [
+        {
+          "name": "Archipelia",
+          "url": "https://open.spotify.com/artist/1wOpgYj0lsgHUCXDTAGzmH"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "what was i made for",
+      "url": "https://open.spotify.com/track/7ztVb1wBTjjkSJSg8cgmMA"
     },
     {
       "album": {

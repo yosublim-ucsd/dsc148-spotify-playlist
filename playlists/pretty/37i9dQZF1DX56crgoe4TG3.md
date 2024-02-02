@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Town Mountain
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,636 likes - 114 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,683 likes - 114 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 59 | [Valerie](https://open.spotify.com/track/3wShyyPO8fob86VMwkZOCt) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [City Painted Gold](https://open.spotify.com/album/23MGSQXuPuptLqoWIuQvah) | 4:54 |
 | 60 | [It's a Great Day to Be Alive](https://open.spotify.com/track/64lQoUgmhvS8KqstWlg4J9) | [Darrell Scott](https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0), [Darrell Scott String Band](https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh) | [Old Cane Back Rocker](https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik) | 4:27 |
 | 61 | [Rich Girl](https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Rich Girl](https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf) | 3:50 |
-| 62 | [Song For A Winter's Night](https://open.spotify.com/track/5BA7aoZQbAFRyTnaHpepNJ) | [Rumour Mill](https://open.spotify.com/artist/2Ehy1qL1iqqFumGgwFClw6) | [Song For A Winter's Night](https://open.spotify.com/album/2xohh3ZJof8cVR565Ap4GI) | 3:35 |
+| 62 | [Song For A Winter's Night](https://open.spotify.com/track/5BA7aoZQbAFRyTnaHpepNJ) | [Rumour Mill](https://open.spotify.com/artist/2Ehy1qL1iqqFumGgwFClw6), [Aline Deanna](https://open.spotify.com/artist/4Bs1gHun8gFz6HJAGtAdLV), [Anna Katarina](https://open.spotify.com/artist/3wUofml5k6dhBcD5OKPLup) | [Song For A Winter's Night](https://open.spotify.com/album/2xohh3ZJof8cVR565Ap4GI) | 3:35 |
 | 63 | [good 4 u \- Spotify Sessions](https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 3:36 |
 | 64 | [Get Lucky](https://open.spotify.com/track/5rs8b6GOWiKokzSjEhCIN8) | [The Beef Seeds](https://open.spotify.com/artist/2Lgu1zUJEcEB1A1tbhUSBR) | [Rhythm and Moo's](https://open.spotify.com/album/5W0SRmCrSDB4ncf86ayv2R) | 3:29 |
 | 65 | [Kryptonite](https://open.spotify.com/track/5nkAJwICnwnzsriZCcastc) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Cornbread Red](https://open.spotify.com/artist/6WGUADHV7LnpbmNi5PhfYO) | [Pickin' On 3 Doors Down: A Bluegrass Tribute \- Down to This:](https://open.spotify.com/album/4j19jxzQmLk1Iqu8jLfbnt) | 3:45 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 113 | [Little Piece of My Heart](https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA) | [John Hartford](https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6) | [Gum Tree Canoe](https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv) | 3:10 |
 | 114 | [No Diggity](https://open.spotify.com/track/2X2mue7uhDOCEgA3ewrB2l) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0tDKZRvMt5Ek8ejQrnd4OU) | 5:51 |
 
-Snapshot ID: `MCwyODBiZWE5NDM4OGY0NjQzNzc3ZGVmMDJiODZmYmEwY2U2NTYwOTJi`
+Snapshot ID: `MCwxM2Q2ODY2MDBhMzVjYTc4OTkyYWFkMDQ5YjFlNjBmNTFkMzk5N2U5`

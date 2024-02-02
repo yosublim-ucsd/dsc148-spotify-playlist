@@ -4,7 +4,7 @@
 
 > ¡Mi amooorrrrrr! Las canciones escritas por "El Lujo de Sinaloa".
 
-153 songs - 7 hr 59 min
+154 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Me Hubieras Dicho](https://open.spotify.com/track/39Olhit36Sgax7N3ColpHt) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Me Hubieras Dicho](https://open.spotify.com/album/705WMmmlFbwC4gAkgQtsQT) | 3:38 | 2022-01-25 |  |
 | [Me Sobrabas Tú](https://open.spotify.com/track/33XISWpHJRbAvFSMW1y44A) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Sueño XXX](https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR) | 3:01 | 2022-01-25 |  |
 | [Me Toca Llorar](https://open.spotify.com/track/6a7E7c016XBapSa7PbN6rq) | [Cheyo Carrillo](https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks) | [Quedamos](https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA) | 2:53 | 2022-01-25 |  |
+| [Me Va Extrañar](https://open.spotify.com/track/6zWisP0flLDhx1LsRt9zjB) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Me Va Extrañar](https://open.spotify.com/album/5DVKe6Y4oarrvfKhB7tnfh) | 4:38 | 2022-01-25 |  |
 | [Me Vas a Extrañar](https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 2:56 | 2022-01-25 |  |
 | [Mi Ego](https://open.spotify.com/track/0a5N7LqF4KyQq5dJbNYMob) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Mi Ego](https://open.spotify.com/album/6pIeaaZycvpTdeDLlK5W5y) | 3:23 | 2022-01-25 |  |
 | [Mi Vicio Más Grande](https://open.spotify.com/track/3YrTZUat5cgeVhrxEZvG1d) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Vicio Más Grande](https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB) | 2:17 | 2022-01-25 |  |
@@ -149,7 +150,7 @@
 | [Tu Frágil Desnudez](https://open.spotify.com/track/2X7pK6x3eAR8hP0Lg4Ejb7) | [Los Primos MX](https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc) | [Amor Brutal](https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe) | 3:03 | 2022-01-25 |  |
 | [Tu Soledad Y La Mía](https://open.spotify.com/track/0zruCJKifhqLZk8IwfvNrM) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Percepcíon](https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB) | 3:53 | 2022-01-25 |  |
 | [Vas a Llorar](https://open.spotify.com/track/0L1n3OFH2fZkU7f4iNh2iQ) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Vas a Llorar](https://open.spotify.com/album/517ZjQptntaGmfLTyoUuOq) | 2:57 | 2022-01-25 |  |
-| [Vas a Recordarme](https://open.spotify.com/track/68sLYh83RjZkPFlNg3cDR9) | [Banda Saucitos](https://open.spotify.com/artist/0N20ZTWNbKIiHIwT4QH9UM) | [Seguimos Firmes](https://open.spotify.com/album/2gtuFY8OsphtndFOjLD0Du) | 3:26 | 2022-01-25 |  |
+| [Vas a Recordarme](https://open.spotify.com/track/68sLYh83RjZkPFlNg3cDR9) | [Banda Saucitos](https://open.spotify.com/artist/0N20ZTWNbKIiHIwT4QH9UM) | [Seguimos Firmes](https://open.spotify.com/album/2gtuFY8OsphtndFOjLD0Du) | 3:26 | 2022-01-25 | 2024-02-02 |
 | [Vas A Recordarme](https://open.spotify.com/track/2lCEkKWWTOwsgXjOwZtMdd) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Vas A Recordarme](https://open.spotify.com/album/5oCSMM79ZFH04eRwF33pbV) | 3:56 | 2022-01-25 |  |
 | [Verme Brillar](https://open.spotify.com/track/6ze9VusaYl2wjZjDAik7dr) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 2:50 | 2022-01-25 |  |
 | [Vivir En Pecado](https://open.spotify.com/track/5PR6uzkU9z62LxkaBDWsPD) | [Nena Guzman](https://open.spotify.com/artist/77H38dMT3cSpIoM3xCPqvA) | [Vivir En Pecado](https://open.spotify.com/album/2bWvpp8ZK3t2ONOR7cjNjC) | 3:12 | 2022-01-25 |  |

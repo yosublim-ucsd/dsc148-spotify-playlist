@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 173730,
+  "num_followers": 173721,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGZkNjA2NWZjZmU2ZWIxZTQ3ZDAxNWMwZWI3NzhhNmRjZGVlMzUx",
+  "snapshot_id": "MCw1OWNkNDdmNjI2OGIwNmU3ZTE5ZTM1ODEyZTEyMjQ2MTI1ZDNkNGI0",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -267,22 +267,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Promise of a Brand New Day",
-        "url": "https://open.spotify.com/album/18QNLSpGZgj4aePM9STq2q"
+        "name": "Back To The River",
+        "url": "https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc"
       },
       "artists": [
         {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
-        },
-        {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
         }
       ],
-      "duration_ms": 225026,
-      "name": "Singing the Blues",
-      "url": "https://open.spotify.com/track/6IevgQPwNyD73SMi8nLWb1"
+      "duration_ms": 235440,
+      "name": "Back To The River",
+      "url": "https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -303,18 +299,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Back To The River",
-        "url": "https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc"
+        "name": "Promise of a Brand New Day",
+        "url": "https://open.spotify.com/album/18QNLSpGZgj4aePM9STq2q"
       },
       "artists": [
         {
-          "name": "Susan Tedeschi",
-          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
         }
       ],
-      "duration_ms": 235440,
-      "name": "Back To The River",
-      "url": "https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R"
+      "duration_ms": 225026,
+      "name": "Singing the Blues",
+      "url": "https://open.spotify.com/track/6IevgQPwNyD73SMi8nLWb1"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Ain't Got No Troubles",
-        "url": "https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x"
-      },
-      "artists": [
-        {
-          "name": "Eden Brent",
-          "url": "https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Ina Forsman",
         "url": "https://open.spotify.com/album/7lrmsF6mMiLYN8WAXJziez"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 249760,
       "name": "Now You Want Me Back",
       "url": "https://open.spotify.com/track/4Xdduaxx6hH6JER9A2Q71v"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Ain't Got No Troubles",
+        "url": "https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x"
+      },
+      "artists": [
+        {
+          "name": "Eden Brent",
+          "url": "https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d"
     },
     {
       "added_at": "2022-03-08 14:01:09",

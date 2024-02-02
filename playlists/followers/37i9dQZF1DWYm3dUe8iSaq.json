@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 279238,
+  "2024-02-02": 279369,
   "date_first_scraped": "2022-05-14",
   "description": "Indie folk songs to help your worries get lost in the woods.",
   "name": "Lost In The Woods",
@@ -1059,7 +1059,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 212287,
       "name": "Everybody Lets You Down",
       "url": "https://open.spotify.com/track/3tliQO1g9DSsEHJziifqEO"
@@ -3907,6 +3907,24 @@
       "duration_ms": 260000,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/4s3G9Ifc1dp8xEksZxNe8P"
+    },
+    {
+      "album": {
+        "name": "The Pilgrim, Their God and the King of My Decrepit Mountain",
+        "url": "https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb"
+      },
+      "artists": [
+        {
+          "name": "Tapir!",
+          "url": "https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213640,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/15emae2T8lWbQClJ5m29Nm"
     },
     {
       "album": {

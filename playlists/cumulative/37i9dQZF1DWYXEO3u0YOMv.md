@@ -4,7 +4,7 @@
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-160 songs - 10 hr 18 min
+161 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 | 2022-05-10 |  |
 | [Happy\-go\-Journey](https://open.spotify.com/track/6JcmTPEHDLvwToGpeAukA2) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Happy\-go\-Journey](https://open.spotify.com/album/35AHPNHsfU1eezJfDJfWrN) | 3:37 | 2023-01-17 |  |
 | [HERO](https://open.spotify.com/track/10rYKVajlQ1t2zFJ3HpR3D) | [Sonar Pocket](https://open.spotify.com/artist/4kuP7AbiovQdVXJkRHeq4w) | [HERO/Good bye 大切な人。](https://open.spotify.com/album/0t4BvgedMXBBELE75lLaaU) | 4:04 | 2022-05-10 |  |
-| [HHOOWWLL](https://open.spotify.com/track/4RCqYqtn5WTmb2J5SfWp91) | [Gero×ARAKI](https://open.spotify.com/artist/3ZgB12rTRvnMVnoi9byaEB) | [HHOOWWLL](https://open.spotify.com/album/5ELxBrDn6T7zqxiifb1X4V) | 4:05 | 2022-05-10 |  |
+| [HHOOWWLL](https://open.spotify.com/track/6GIg2usZhIVmRx9VeNS8YV) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK), [Araki](https://open.spotify.com/artist/09ONFXQOVjyy3AhFlBsZx8) | [HHOOWWLL](https://open.spotify.com/album/5iBBLdfvYDytrlaRUXQLVC) | 4:05 | 2024-01-25 |  |
+| [HHOOWWLL](https://open.spotify.com/track/4RCqYqtn5WTmb2J5SfWp91) | [Gero×ARAKI](https://open.spotify.com/artist/3ZgB12rTRvnMVnoi9byaEB) | [HHOOWWLL](https://open.spotify.com/album/5ELxBrDn6T7zqxiifb1X4V) | 4:05 | 2022-05-10 | 2024-02-02 |
 | [Higher Climber](https://open.spotify.com/track/6CjvyG9r1xCjDuZkzt8zAE) | [HOWL BE QUIET](https://open.spotify.com/artist/56jhSmJBKSKee5kUAlJjbX) | [Higher Climber](https://open.spotify.com/album/04jdwDX8QGyfATCb6ejnVW) | 4:08 | 2022-05-10 |  |
 | [Higher Climber](https://open.spotify.com/track/19OB0SmE7xO1jmiaSTd1QE) | [HOWL BE QUIET](https://open.spotify.com/artist/56jhSmJBKSKee5kUAlJjbX) | [Mr\. HOLIC](https://open.spotify.com/album/0DNteSo4zdyJ8H9KxoKekM) | 4:10 | 2022-05-10 | 2022-07-29 |
 | [History Maker](https://open.spotify.com/track/388Goi8izhV978LfGi0AQM) | [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [History Maker](https://open.spotify.com/album/4BsUgURzIq1r5FRCXDl66v) | 3:10 | 2022-05-10 | 2022-07-29 |

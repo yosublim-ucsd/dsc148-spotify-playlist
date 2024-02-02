@@ -2,7 +2,7 @@
 
 ### [GO\-GO](https://open.spotify.com/playlist/37i9dQZF1DXcLNIxmtGu8N)
 
-> Go\-Go Music from the heart of Washington, DC\. Cover, New Impressionz by Jay Kyri
+> Go\-Go Music from the heart of Washington, DC.
 
 80 songs - 6 hr 14 min
 

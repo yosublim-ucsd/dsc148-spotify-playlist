@@ -4,7 +4,7 @@
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-2,846 songs - 6 day 12 hr 57 min
+2,847 songs - 6 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2707,7 +2707,8 @@
 | [七福神](https://open.spotify.com/track/6LPDuzCtRkjz99wwbSynb8) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [RABBIT STAR ★](https://open.spotify.com/album/0eK9iO9xQ5lcTGcXAggJzT) | 3:00 | 2023-05-01 | 2023-05-08 |
 | [不屈に花](https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:17 | 2023-09-25 | 2023-10-02 |
 | [不自由の中](https://open.spotify.com/track/3tyikmaHUEnM0jn1MDTUJs) | [黒魔 \(Chroma\)](https://open.spotify.com/artist/2Gtmf2gf0Rs6NN2RTld3O2) | [不自由の中](https://open.spotify.com/album/3qHh3XhvMcTMUH0azZaDkH) | 3:43 | 2023-09-25 | 2023-10-02 |
-| [不要煩](https://open.spotify.com/track/1WVnhma7zzI2EAjHkglyhe) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9) | [不要煩](https://open.spotify.com/album/6N6wopy7YBAeu265Qc3mbh) | 5:08 | 2024-01-28 |  |
+| [不要煩](https://open.spotify.com/track/1WVnhma7zzI2EAjHkglyhe) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9) | [不要煩](https://open.spotify.com/album/6N6wopy7YBAeu265Qc3mbh) | 5:08 | 2024-01-28 | 2024-02-02 |
+| [不要煩](https://open.spotify.com/track/4agWmkaREyGIj9LnAzwurZ) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9) | [不要煩](https://open.spotify.com/album/2Ru6wYnq25w72SPBavb6It) | 5:08 | 2024-01-28 |  |
 | [乱痴気](https://open.spotify.com/track/1ZwmnDFffrkCgc4xzGVfqx) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [乱痴気](https://open.spotify.com/album/2lhPOikWoaNbBvmjmREKC3) | 3:41 | 2023-12-10 | 2023-12-18 |
 | [二つ目の家族 \- Sped Up Version](https://open.spotify.com/track/57MFJJBr3qfaYXtz6UKe3t) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Jesus Loves You \(Sped Up Version+Live Version\)](https://open.spotify.com/album/2tU8IM4u4YMOoqgvLT2RUo) | 2:55 | 2023-07-10 | 2023-07-17 |
 | [人生はラブコメじゃない](https://open.spotify.com/track/4Elw59NCfkX7GU4M3u4Csb) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [人生はラブコメじゃない](https://open.spotify.com/album/4oYrPsYTM0FSHZyGhJKrSM) | 2:30 | 2023-09-04 | 2023-09-11 |

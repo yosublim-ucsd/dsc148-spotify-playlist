@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 86531,
+  "2024-02-02": 86510,
   "date_first_scraped": "2023-12-01",
   "description": "Warm and cozy Christmas Jazz to your hot cup of coffee.",
   "name": "Christmas Coffeehouse Jazz",
@@ -1795,10 +1795,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 167666,
       "name": "The Christmas Waltz",
       "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
+    },
+    {
+      "album": {
+        "name": "A Very Laufey Holiday!",
+        "url": "https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/4eEdv0ZBTtWh8zS41SeUp8"
     },
     {
       "album": {

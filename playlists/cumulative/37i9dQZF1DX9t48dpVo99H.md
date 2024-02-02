@@ -4,7 +4,7 @@
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-76 songs - 3 hr 21 min
+77 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Throat Solfeggio 741 Hz](https://open.spotify.com/track/3srb1tARH6ehOeLKrdKxTr) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Solfeggio Nonagon](https://open.spotify.com/album/5agkzJIkbY3lzyonAKBwn0) | 2:55 | 2023-11-30 |  |
 | [Trippertronics 741 Hz](https://open.spotify.com/track/3wv1IHXCSUIeN1rnPkufvH) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Trippertronics](https://open.spotify.com/album/0y0xdDlRZQVfWYhfWQnQC4) | 2:53 | 2023-11-30 |  |
 | [Vinculum](https://open.spotify.com/track/4DILz6kUaczn1PRPNrMbCa) | [Emanuel Kulo](https://open.spotify.com/artist/2n9lQwZuLg8gcgxDoVO1IW) | [Infinite](https://open.spotify.com/album/36PDqIij3LmXA02mB9gcII) | 3:46 | 2023-03-10 |  |
-| [Vishuddha \(741hz\)](https://open.spotify.com/track/3AVThTFS4S4Ol9ZfLfkZ78) | [Kula Kriya](https://open.spotify.com/artist/3R2i0SUPRrMZrh0HurjAwn) | [Through The Chakras](https://open.spotify.com/album/5UEVsKVyAtDvh9B5o3YmYM) | 1:49 | 2023-03-10 |  |
+| [Vishuddha \(741hz\)](https://open.spotify.com/track/3AVThTFS4S4Ol9ZfLfkZ78) | [Kula Kriya](https://open.spotify.com/artist/3R2i0SUPRrMZrh0HurjAwn) | [Through The Chakras](https://open.spotify.com/album/5UEVsKVyAtDvh9B5o3YmYM) | 1:49 | 2023-03-10 | 2024-02-02 |
+| [Vishuddha \(741hz\)](https://open.spotify.com/track/6R9uMqBZRyanEMjSa60jZj) | [Kula Kriya](https://open.spotify.com/artist/3R2i0SUPRrMZrh0HurjAwn) | [Through The Chakras](https://open.spotify.com/album/20laVtUmPgjplNxrC4HHXc) | 1:49 | 2023-11-30 |  |
 | [Vishuddha \(Throat\) \[Chakra\]](https://open.spotify.com/track/0qpVazrOG8rpYlun1e9ClL) | [Air With Air Rising](https://open.spotify.com/artist/5YZaXFoZZsyjaxoy029RYD) | [7 Om Chanting Meditations](https://open.spotify.com/album/4HOj7igZ84vM6pNfLgJNuX) | 5:31 | 2023-03-10 | 2023-08-08 |
 | [Visions 741 Hz](https://open.spotify.com/track/0UH1vXrdAvxI8CucKsYiin) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Frame of Frequencies](https://open.spotify.com/album/2ADv7aRLplDrzNQVmQyDGd) | 3:31 | 2023-03-10 |  |
 

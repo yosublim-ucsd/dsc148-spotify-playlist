@@ -4,7 +4,7 @@
 
 > Música eletrônica para aquele treino de peso.
 
-107 songs - 6 hr 14 min
+109 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Kamasutra \- Raz Remix](https://open.spotify.com/track/3HqZ1VLMpR8g6VJTdBMJB4) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3), [Yahel](https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF) | [Kamasutra](https://open.spotify.com/album/2kC5NUhHHqKsqk1b5TmHob) | 5:55 | 2022-04-29 | 2022-06-18 |
 | [Keep Lit](https://open.spotify.com/track/1delQsJl7yq7EvnO6HDPDj) | [ROWKA](https://open.spotify.com/artist/2DGyN5NTOHXpEMIcrRHbRm) | [Keep Lit](https://open.spotify.com/album/621o4zsnVARGkWz6TTbYhp) | 2:40 | 2021-12-17 | 2022-04-23 |
 | [L.R.L.D.](https://open.spotify.com/track/2vlAFPryTEcJhdGAlh5xQo) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [L.R.L.D.](https://open.spotify.com/album/4mC5qrdPttU8rmsHIc1kWW) | 4:06 | 2021-12-17 |  |
-| [Last One](https://open.spotify.com/track/61yMjxM2ratUj6mZZ9S7WM) | [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb), [Douth!](https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz) | [Last One](https://open.spotify.com/album/0hu6xWo3nW9dveTBMeDKDE) | 2:31 | 2021-12-17 |  |
+| [Last One](https://open.spotify.com/track/00qWdSDe3TW81D10dsTLuY) | [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb), [Douth!](https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz) | [Last One](https://open.spotify.com/album/6r8PAYLclHHtGO99XwILvJ) | 2:31 | 2023-11-17 |  |
+| [Last One](https://open.spotify.com/track/61yMjxM2ratUj6mZZ9S7WM) | [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb), [Douth!](https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz) | [Last One](https://open.spotify.com/album/0hu6xWo3nW9dveTBMeDKDE) | 2:31 | 2021-12-17 | 2024-02-02 |
 | [Laurinha \- Radio Edit](https://open.spotify.com/track/0S45sEjrBbhAHpo20X4p0P) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Laurinha](https://open.spotify.com/album/7y3sgKoeWhEsAK2gNe3EMj) | 3:48 | 2021-12-17 |  |
 | [Like This](https://open.spotify.com/track/4EMS6Lj2BL9KhXYQqb8i2t) | [Gabzy](https://open.spotify.com/artist/0CB9F6M0fhV0xiSzkNHnvB), [Carlos Colleen](https://open.spotify.com/artist/6lunp2L5KJDCGpSt8Gvpx8) | [Like This](https://open.spotify.com/album/07fHGsN9a1FMdtTJMSF43S) | 4:05 | 2022-04-22 |  |
 | [Loosing](https://open.spotify.com/track/1Ey0xqWdXz3otBlskcxWhP) | [Snoouth](https://open.spotify.com/artist/0QNfYE28k4qfOqO1avjIig) | [Loosing](https://open.spotify.com/album/6eGjFkHDk7ROJHmTAD5fok) | 4:02 | 2021-12-17 |  |
@@ -80,7 +81,8 @@
 | [Power](https://open.spotify.com/track/7LKgkaIHxZrtmZ9QmDCgdq) | [Rafael Starcevic](https://open.spotify.com/artist/1ivrTKhIfaa3W4ErAkVOQW), [Liu Rosa](https://open.spotify.com/artist/31HEVXpDNrBpLFWxaUCxmT) | [Power](https://open.spotify.com/album/7iqwLWSmyf62HWOPsFxcHP) | 2:47 | 2021-12-17 | 2022-09-03 |
 | [Push The Feeling On](https://open.spotify.com/track/0NWkVDrjlHYHGWWQdShmos) | [Brannco](https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL), [Maya Days](https://open.spotify.com/artist/23lYDtdMB31cbu5g4z0wju) | [Push The Feeling On](https://open.spotify.com/album/0002K9tPYs8Me5kWaFAPko) | 2:38 | 2021-12-17 | 2022-07-29 |
 | [Push The Feeling On](https://open.spotify.com/track/7MRzjgoS72BNFT2pcToJGJ) | [Brannco](https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL), [Maya Days](https://open.spotify.com/artist/23lYDtdMB31cbu5g4z0wju) | [Push The Feeling On](https://open.spotify.com/album/4lzJoouKOsWxhpY3pJkNJG) | 2:38 | 2022-07-22 |  |
-| [Quarentoxic](https://open.spotify.com/track/1kbA0ogOM9fWT4dDHMsa8y) | [Kzn](https://open.spotify.com/artist/5EZHJyeAbl8WK8PdMRR2eh) | [Quarentoxic](https://open.spotify.com/album/3JZ8UlANPOiKPRXDub8In1) | 3:13 | 2021-12-17 |  |
+| [Quarentoxic](https://open.spotify.com/track/1kbA0ogOM9fWT4dDHMsa8y) | [Kzn](https://open.spotify.com/artist/5EZHJyeAbl8WK8PdMRR2eh) | [Quarentoxic](https://open.spotify.com/album/3JZ8UlANPOiKPRXDub8In1) | 3:13 | 2021-12-17 | 2024-02-02 |
+| [Quarentoxic](https://open.spotify.com/track/6FqIzYdOJD29Xf3y7cOyWF) | [Kzn](https://open.spotify.com/artist/5EZHJyeAbl8WK8PdMRR2eh) | [Quarentoxic](https://open.spotify.com/album/2WKsLQG7CwLheg60Gal0HC) | 3:13 | 2023-11-17 |  |
 | [Resistência](https://open.spotify.com/track/4HLBbEY2ZUFXq3Ygy3wN16) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3) | [Resistência](https://open.spotify.com/album/4xHZ6oFXaheV5IS8ssm6go) | 4:07 | 2022-06-17 | 2022-07-09 |
 | [SABER TOOTH](https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC) | [TIGER DROOL](https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [SABER TOOTH](https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9) | 2:45 | 2021-12-17 |  |
 | [Seuls Ensemble](https://open.spotify.com/track/4W72fwjmpJgyCXMzVXWFZI) | [URUBU](https://open.spotify.com/artist/7BqDcISRpyyVpVRggIveVC), [MELVIN LAUR](https://open.spotify.com/artist/4MOMYs5YnajsFyqH0QnECe) | [Seuls Ensemble](https://open.spotify.com/album/4I2RJq1qMCowQ8jUXLavYo) | 6:16 | 2022-04-22 |  |

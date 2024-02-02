@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 136748,
+  "2024-02-02": 136835,
   "date_first_scraped": "2021-12-21",
   "description": "Fresh rock from independent artists every Wednesday. Cover: The Thing",
   "name": "Fresh Finds Rock ",
@@ -4254,6 +4254,24 @@
     },
     {
       "album": {
+        "name": "Cold World",
+        "url": "https://open.spotify.com/album/4OMrhNt4uDO7k44AlkqLJb"
+      },
+      "artists": [
+        {
+          "name": "Death Lens",
+          "url": "https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197026,
+      "name": "Cold World",
+      "url": "https://open.spotify.com/track/4rUWdWtDbM3aYUHoFTzJdW"
+    },
+    {
+      "album": {
         "name": "Coltrane",
         "url": "https://open.spotify.com/album/2uAG8q5COn95790eIPaNF4"
       },
@@ -5025,7 +5043,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 201346,
       "name": "Cylinders",
       "url": "https://open.spotify.com/track/17I5FjmxdcfWX9GYjsSkVJ"
@@ -5846,6 +5864,24 @@
     },
     {
       "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/6NrMHKEEj6bSmrj5QmLEz4"
+      },
+      "artists": [
+        {
+          "name": "VENUS GRRRLS",
+          "url": "https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157762,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/0bFjFLAlwvmtmNIU0Hn8kI"
+    },
+    {
+      "album": {
         "name": "Dixie Queen",
         "url": "https://open.spotify.com/album/5ncqAGA1EfZsbpMTd4jbPN"
       },
@@ -6221,6 +6257,24 @@
       "duration_ms": 221461,
       "name": "Downtown Side",
       "url": "https://open.spotify.com/track/71Dd59CQo8agQxe20Glmcn"
+    },
+    {
+      "album": {
+        "name": "Drag Your Feet",
+        "url": "https://open.spotify.com/album/0gRbCKhMmjm1AYMn9IMK9x"
+      },
+      "artists": [
+        {
+          "name": "talker",
+          "url": "https://open.spotify.com/artist/1wcTmtixisIzV10W69W6lm"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231941,
+      "name": "Drag Your Feet",
+      "url": "https://open.spotify.com/track/03DcBF6sqPdGFgCGIPwGi1"
     },
     {
       "album": {
@@ -6883,7 +6937,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 159112,
       "name": "Exacto",
       "url": "https://open.spotify.com/track/0Z5LJXUpLKTSza18mr7K4L"
@@ -7110,6 +7164,24 @@
     },
     {
       "album": {
+        "name": "Damascus",
+        "url": "https://open.spotify.com/album/04XDgGMWOsWO87eGGxdJjL"
+      },
+      "artists": [
+        {
+          "name": "King Shelter",
+          "url": "https://open.spotify.com/artist/2wzc9c6rclNEtMBAkg3FEN"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152079,
+      "name": "Family Tree",
+      "url": "https://open.spotify.com/track/4YnfUZairwHwzRbIlmX1bk"
+    },
+    {
+      "album": {
         "name": "FASHION GIRL",
         "url": "https://open.spotify.com/album/1sQjRuK7w7NT6ufXwO4QGf"
       },
@@ -7309,6 +7381,24 @@
       "duration_ms": 197079,
       "name": "Fight Back Time",
       "url": "https://open.spotify.com/track/1e0jxzKnJEKnjse5gfPBwZ"
+    },
+    {
+      "album": {
+        "name": "Figment",
+        "url": "https://open.spotify.com/album/4FIwggCg2zoTRiS5V7IIhB"
+      },
+      "artists": [
+        {
+          "name": "Melts",
+          "url": "https://open.spotify.com/artist/6lQAyngCdU9GIs33U8jqlJ"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248736,
+      "name": "Figment",
+      "url": "https://open.spotify.com/track/00lgjZuViLIbF2a8XvVt7m"
     },
     {
       "album": {
@@ -8115,7 +8205,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 145407,
       "name": "Get Pegged",
       "url": "https://open.spotify.com/track/3lpmNUfvD7J8ItyImLVkhF"
@@ -9214,6 +9304,24 @@
     },
     {
       "album": {
+        "name": "Letter to Self",
+        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207409,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
+    },
+    {
+      "album": {
         "name": "Heavyweight",
         "url": "https://open.spotify.com/album/1cbUAh7LGxNsLpql5guTfB"
       },
@@ -9265,6 +9373,24 @@
       "duration_ms": 208106,
       "name": "hell in my head",
       "url": "https://open.spotify.com/track/0iEINUnpp5jyoCO5QCZpir"
+    },
+    {
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/0Qmdbz6WbN3VtVDiRJPcZO"
+      },
+      "artists": [
+        {
+          "name": "Hothead Wave",
+          "url": "https://open.spotify.com/artist/3s2hKPMbGXpWXpGPYloNz5"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232073,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/1IfQ5kpNLdyejFMB28CEzO"
     },
     {
       "album": {
@@ -9341,6 +9467,24 @@
       "duration_ms": 198080,
       "name": "Hey Sis",
       "url": "https://open.spotify.com/track/18BngYNbP0xadmssigycDH"
+    },
+    {
+      "album": {
+        "name": "HEY WHAT'S HAPPENIN?",
+        "url": "https://open.spotify.com/album/4kyZfTFL1yQG8A4BiOSuHL"
+      },
+      "artists": [
+        {
+          "name": "Thom Southern",
+          "url": "https://open.spotify.com/artist/3YGkI2PubCC6INbbtcpglJ"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108283,
+      "name": "HEY WHAT'S HAPPENIN?",
+      "url": "https://open.spotify.com/track/1JoGT0DC76LoABejDyTpz2"
     },
     {
       "album": {
@@ -10379,6 +10523,24 @@
       "duration_ms": 212000,
       "name": "I Might Fall In Love",
       "url": "https://open.spotify.com/track/0nvdQLgHJWmwOSxBKAXJK4"
+    },
+    {
+      "album": {
+        "name": "I Saw Jon Hamm At The Beach",
+        "url": "https://open.spotify.com/album/4zqYeafhR8rI5KONk7udHW"
+      },
+      "artists": [
+        {
+          "name": "Loose Buttons",
+          "url": "https://open.spotify.com/artist/6xRfeX9EnnnXrKlzMUr10y"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217781,
+      "name": "I Saw Jon Hamm At The Beach",
+      "url": "https://open.spotify.com/track/7uyjIiva3TyQ5jhVAWPQvS"
     },
     {
       "album": {
@@ -11666,6 +11828,24 @@
     },
     {
       "album": {
+        "name": "KEROSENE",
+        "url": "https://open.spotify.com/album/4v9WdvwwEeLBNETw9BAZRY"
+      },
+      "artists": [
+        {
+          "name": "Capital Soiree",
+          "url": "https://open.spotify.com/artist/1sd5vbMAYXlLoJNTQfY0HV"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "KEROSENE",
+      "url": "https://open.spotify.com/track/1L2C28Ig3hSNOFib1uo6Dz"
+    },
+    {
+      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/7dN18W1xfDDgWvLydFSUyO"
       },
@@ -11771,7 +11951,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 425363,
       "name": "King of the Slugs",
       "url": "https://open.spotify.com/track/059rVLt0il9OJVc93OQDQs"
@@ -12167,7 +12347,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 151157,
       "name": "Lidocaine",
       "url": "https://open.spotify.com/track/0slp3xaYYXJ5GTP2Pr7LZ3"
@@ -13071,7 +13251,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 163400,
       "name": "Mattress",
       "url": "https://open.spotify.com/track/6V9RcZmTpDpK7y55xWXPtz"
@@ -14606,6 +14786,28 @@
     },
     {
       "album": {
+        "name": "Nothing's Changed",
+        "url": "https://open.spotify.com/album/33ghK9oXVXJNkEOjT2yWF5"
+      },
+      "artists": [
+        {
+          "name": "Maxband",
+          "url": "https://open.spotify.com/artist/0p6j5TgQxg0Cwc1TPI3fhR"
+        },
+        {
+          "name": "A Beacon School",
+          "url": "https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280866,
+      "name": "Nothing's Changed",
+      "url": "https://open.spotify.com/track/6LHUubtVwmThrbG7GA3W8K"
+    },
+    {
+      "album": {
         "name": "Nuisance",
         "url": "https://open.spotify.com/album/6EjSHl2ylT9SkunuiVyzAD"
       },
@@ -15748,6 +15950,24 @@
     },
     {
       "album": {
+        "name": "Plateau",
+        "url": "https://open.spotify.com/album/1lVO4AstvS0S7tR1y8t9ko"
+      },
+      "artists": [
+        {
+          "name": "Hexmaze",
+          "url": "https://open.spotify.com/artist/2RaLhh25Ct5KABbL3J332E"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282073,
+      "name": "Plateau",
+      "url": "https://open.spotify.com/track/3VBNyssoLrTaLW1NAbibss"
+    },
+    {
+      "album": {
         "name": "Playing Dead",
         "url": "https://open.spotify.com/album/0NB0IRDFNl5epkWaRt8I7U"
       },
@@ -16631,7 +16851,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 192032,
       "name": "REDEMPTION ARC",
       "url": "https://open.spotify.com/track/6JRqhGQtFgO9mJgisIUreE"
@@ -17013,7 +17233,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 161784,
       "name": "RUN TO BUY VACUUM",
       "url": "https://open.spotify.com/track/0fWHQ0HDdc9XBKx4lC0xQ1"
@@ -17183,7 +17403,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 187487,
       "name": "Salt",
       "url": "https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G"
@@ -19654,6 +19874,24 @@
     },
     {
       "album": {
+        "name": "Hometown Vampire",
+        "url": "https://open.spotify.com/album/4KybaR7XKX0v6u70W4YpS3"
+      },
+      "artists": [
+        {
+          "name": "Elijah Johnston",
+          "url": "https://open.spotify.com/artist/50as9VMbiduY1sVn0d7z2T"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83404,
+      "name": "Syrup",
+      "url": "https://open.spotify.com/track/56HOxGRg1ICrkBLvWailZx"
+    },
+    {
+      "album": {
         "name": "t!mezone",
         "url": "https://open.spotify.com/album/7LyemIrA9Xf7ZiiJTDiMvX"
       },
@@ -20461,7 +20699,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 203561,
       "name": "The Other End",
       "url": "https://open.spotify.com/track/2dZ5guEuV4s2MoMGRsv4rj"
@@ -21673,7 +21911,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 226385,
       "name": "Up and Comer",
       "url": "https://open.spotify.com/track/469d5BNae99knRggeaqA0n"
@@ -21709,7 +21947,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 161135,
       "name": "Vacant",
       "url": "https://open.spotify.com/track/2Rm5HFAH6wT1UoQCAGLwKU"
@@ -22725,7 +22963,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 202191,
       "name": "Witches + Vampires",
       "url": "https://open.spotify.com/track/7bXY6a5iBUTky9r91ZjrjR"

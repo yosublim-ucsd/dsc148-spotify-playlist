@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-493 songs - 1 day 1 hr 22 min
+494 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Bring Me The Light \- Rob Gasser Remix](https://open.spotify.com/track/5i2aGKutUx2keiTqQXAm8j) | [Rob Gasser](https://open.spotify.com/artist/1WlxlG9IzXsq9MkneOPkxc), [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [Bring Me The Light \(Rob Gasser Remix\)](https://open.spotify.com/album/30gpaJcuO1M6izxV6osZvG) | 4:11 | 2022-03-31 | 2023-04-28 |
 | [Broken Love](https://open.spotify.com/track/55q35WjtYGNfsDFjGIFcWA) | [metr](https://open.spotify.com/artist/0RAWgVjsAEhbXPhqPGqd8n), [Adrian Benson](https://open.spotify.com/artist/6pto9yK3v6ju1r8piPps1P), [Ima Sobé](https://open.spotify.com/artist/3xZA1iqapR7QdWz6gpu0Zn) | [Broken Love](https://open.spotify.com/album/4SCPz1xCo9H8V2oasW8ST7) | 2:37 | 2022-11-30 | 2023-08-10 |
 | [Burned](https://open.spotify.com/track/3XfD2WZJmaxPOffgQfe88R) | [Henri Werner](https://open.spotify.com/artist/0nuGLpGw9XwyMLIKZxeRzE) | [Burned](https://open.spotify.com/album/2rhiCp8wA2uuERay3UfTIz) | 2:09 | 2023-06-15 | 2023-08-10 |
+| [BUSSIN'](https://open.spotify.com/track/3bpV7A3jeuP7wyvvKGQ0kR) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [BUSSIN'](https://open.spotify.com/album/7jnEukdmhcSFyrxAgNTDlz) | 1:26 | 2024-02-01 |  |
 | [By My Side](https://open.spotify.com/track/66p1AS3IxyCUZSm1ZOoKjQ) | [Acejax](https://open.spotify.com/artist/4XJPVnaKHtfPw75SomdyQ5), [Danilyon](https://open.spotify.com/artist/1mn63wKYd6Ai2mhHmwk8Nh) | [By My Side](https://open.spotify.com/album/3zdnm0Xg32crPVdEKFPsRC) | 2:58 | 2023-08-08 |  |
 | [By Your Side](https://open.spotify.com/track/7xdLOiw41ACPrR6lKRhMgk) | [God's Warrior](https://open.spotify.com/artist/4OGggb4JhHb8BejoK3Y0zh) | [By Your Side](https://open.spotify.com/album/0SprUbV3HTNOWG5guO0VSU) | 3:25 | 2022-10-26 | 2023-04-28 |
 | [bye bye](https://open.spotify.com/track/7q7W1iPAk23AM5k9nqPMlp) | [Andrah](https://open.spotify.com/artist/4zKVc3SBL6SPBkqxeIQlkk) | [bye bye](https://open.spotify.com/album/0um07umw9ZwBLm8LLym6II) | 2:48 | 2023-12-13 |  |
@@ -213,7 +214,7 @@
 | [Hold On Me](https://open.spotify.com/track/5ExBJA2HtqlQCUFnICjrTf) | [Raul Ojamaa](https://open.spotify.com/artist/6Z3GmozKVgFxFcP2Qzp0Fp), [Maris Pihlap](https://open.spotify.com/artist/3594I0JPmGJklcod5vZJv7) | [Hold On Me](https://open.spotify.com/album/2afxBQvxCZQ2KcbCy2Pwgd) | 3:28 | 2023-12-13 |  |
 | [Hollywood Perfect](https://open.spotify.com/track/2b4s9qk2mq5kaFj4rUZlzr) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [NotEvenTanner](https://open.spotify.com/artist/2FS6z8pQbDMXrscqKiw983) | [Faceless](https://open.spotify.com/album/4c0WhpvNSbSSlElNQOqlzU) | 2:42 | 2023-08-08 | 2023-12-14 |
 | [Home](https://open.spotify.com/track/1b8pnOzyvGcV2mkTyb7DMg) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Home](https://open.spotify.com/album/6Ylx3tJ8nATOEKSXGoybHH) | 2:49 | 2022-09-15 | 2023-08-10 |
-| [Howling](https://open.spotify.com/track/596lDSwIMzDoiq3E6jJ0wC) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Asena](https://open.spotify.com/artist/2kSWBds3WDrDvrV6s9VKfd) | [Howling](https://open.spotify.com/album/0wHRCxOtc8POmkwSjBINk6) | 3:24 | 2023-08-08 |  |
+| [Howling](https://open.spotify.com/track/596lDSwIMzDoiq3E6jJ0wC) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Asena](https://open.spotify.com/artist/2kSWBds3WDrDvrV6s9VKfd) | [Howling](https://open.spotify.com/album/0wHRCxOtc8POmkwSjBINk6) | 3:24 | 2023-08-08 | 2024-02-02 |
 | [Howling \- Andromedik Remix](https://open.spotify.com/track/3cvr7I6DJxIq3GL4UAU8p4) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Asena](https://open.spotify.com/artist/2kSWBds3WDrDvrV6s9VKfd) | [Howling \(Andromedik Remix\)](https://open.spotify.com/album/2xbLxzB4Dh0O5vx1sEiV7D) | 3:40 | 2023-08-08 | 2023-12-14 |
 | [Hurt Me](https://open.spotify.com/track/7IT4rIcgqQ3XjCOgp5a82V) | [Evanly](https://open.spotify.com/artist/7HQ2jxEKsBZjF78Vd8sUFu) | [Hurt Me](https://open.spotify.com/album/6Z8I2YQa7kgdeJ4XFM2Z6c) | 2:12 | 2022-05-31 | 2023-04-28 |
 | [Hyperphantasia](https://open.spotify.com/track/5jXJR2v7l3fzAooJQlAGrm) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [Hyperphantasia](https://open.spotify.com/album/4QE2gQnuibf71b7JcupHbp) | 3:58 | 2022-07-01 | 2023-04-28 |

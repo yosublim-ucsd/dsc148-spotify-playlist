@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXs5bD9fOOY.md) - [plain]
 
 > 今年の冬にぴったりな、"ハッピー"なクリスマスソングをひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,148 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,133 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXs5bD9fOOY.md) - [plain]
 | 69 | [Jingle Bell Rock](https://open.spotify.com/track/5WcBc2jpgWemNJFz5K5s2B) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Meet The Vamps \(Christmas Edition\)](https://open.spotify.com/album/2uFYxUG2I67ddvtgP8W7Gt) | 2:15 |
 | 70 | [Christmas \(Baby Please Come Home\) \(feat\. Scarlett Johansson, Taron Egerton, Reese Witherspoon & Tori Kelly\)](https://open.spotify.com/track/6wUYUvIqn9swoQSaeW9ZVp) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [Scarlett Johansson](https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa), [Taron Egerton](https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD), [Reese Witherspoon](https://open.spotify.com/artist/5V8q61RswIFvxhIfzYVew9), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Christmas \(Baby Please Come Home\) \[From Sing 2\]](https://open.spotify.com/album/0gnVoCrQKFmqRY5DdqLRxL) | 2:36 |
 
-Snapshot ID: `MCwyNzA1NGQ4MDc1OTU5YzRlMjkzOTMwNTk3MWNlNjE4ZDgxMjI2ZjNi`
+Snapshot ID: `MCxiMTUyZjA0Y2IyMzBjMzZjMTU0MWI2YTNkYmJkZWYyNzU1NDdkMThm`

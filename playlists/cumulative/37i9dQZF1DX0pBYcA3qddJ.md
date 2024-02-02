@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-655 songs - 1 day 20 hr 16 min
+656 songs - 1 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Looking in the Same Direction](https://open.spotify.com/track/57qvXY4KW4rambl2zbKRPk) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Looking in the Same Direction](https://open.spotify.com/album/58YNDEVDlJwLBnZCUCy1Mv) | 4:04 | 2023-08-03 | 2023-08-05 |
 | [Looking in the Same Direction](https://open.spotify.com/track/5aLx6MRUpqfaXfrtKv6qvU) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Rudy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0IfJojEmQFepjNutueqXs9) | 4:04 | 2023-09-14 | 2023-11-22 |
 | [Lost at Sea](https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lost At Sea](https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ) | 3:07 | 2023-06-01 |  |
+| [Love Is](https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is](https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB) | 2:35 | 2024-02-01 |  |
 | [Love On The Run](https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 7:03 | 2022-10-20 | 2023-02-08 |
 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 | 2023-02-28 | 2023-10-08 |
 | [Love Will Find A Way](https://open.spotify.com/track/1AU9uTZ4cm3xQ2K3YGmPjw) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Benny Sings with the Metropole Orkest](https://open.spotify.com/album/24Y03ASSmXoUmTA53rQZMi) | 3:27 | 2023-11-02 | 2023-11-22 |
@@ -541,7 +542,7 @@
 | [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 | 2023-11-14 |  |
 | [Waltz in Bb Minor](https://open.spotify.com/track/5d7h5dhyoncJuJmg0jV5gU) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Waltz in Bb Minor](https://open.spotify.com/album/4gUcfKjoa7FJeeGIcvHCMz) | 2:06 | 2022-12-01 | 2023-02-15 |
 | [Waltz in C Minor](https://open.spotify.com/track/74cR0Tj6N0Nq0doikA0sb0) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Harmonism I](https://open.spotify.com/album/2XOeI9TVCRZL28H4F5CYSm) | 2:20 | 2023-09-14 | 2023-11-22 |
-| [warm](https://open.spotify.com/track/6SBHNdpE9Tby5raTXFgKJI) | [sukima](https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc) | [warm](https://open.spotify.com/album/1fAWpY8RLatyjQBQ2OtnjS) | 4:02 | 2024-01-09 |  |
+| [warm](https://open.spotify.com/track/6SBHNdpE9Tby5raTXFgKJI) | [sukima](https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc) | [warm](https://open.spotify.com/album/1fAWpY8RLatyjQBQ2OtnjS) | 4:02 | 2024-01-09 | 2024-02-02 |
 | [Wayfinder \- Viola Concerto \- \(Ensemble Version\)](https://open.spotify.com/track/1G9QsKn11TbI34XDiwCR5b) | [Dai Fujikura](https://open.spotify.com/artist/5yFyiRuJTD0qgV64fByLMg), [Norio Sato](https://open.spotify.com/artist/1U3WCiLneJRvIHEERMo0gt), [ENSEMBLE NOMAD](https://open.spotify.com/artist/3avtDznurwP82lPxSYm6x0) | [Wayfinder](https://open.spotify.com/album/4C5F0OIC0ONaV5aXOKVyKM) | 22:50 | 2023-06-27 | 2023-08-30 |
 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 | 2022-10-20 | 2023-02-08 |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-13 |  |

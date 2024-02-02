@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 8368,
+  "2024-02-02": 8381,
   "date_first_scraped": "2022-09-21",
   "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover:Ghida. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
@@ -796,6 +796,24 @@
     },
     {
       "album": {
+        "name": "Dayman Faker",
+        "url": "https://open.spotify.com/album/0tHDV5WZRAv3Zo4Q0Mbm4m"
+      },
+      "artists": [
+        {
+          "name": "Sine",
+          "url": "https://open.spotify.com/artist/1MQryKKB1q19LauQsB4GzI"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "Dayman Faker",
+      "url": "https://open.spotify.com/track/3xVm2gJc4IiA9JZ48VWNyp"
+    },
+    {
+      "album": {
         "name": "December",
         "url": "https://open.spotify.com/album/1m4dJoy1edgAZ1mxxUrDXi"
       },
@@ -1450,6 +1468,28 @@
     },
     {
       "album": {
+        "name": "Helm",
+        "url": "https://open.spotify.com/album/7CWileWaBMzb6GglCwqbqH"
+      },
+      "artists": [
+        {
+          "name": "Mahdy Madness",
+          "url": "https://open.spotify.com/artist/36szCFNfwtBlzqucTGjkaA"
+        },
+        {
+          "name": "Ryder",
+          "url": "https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122820,
+      "name": "Helm",
+      "url": "https://open.spotify.com/track/182RxJj8p2YBarOnhxKrVR"
+    },
+    {
+      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/6JdHIz73iNQiexBQDk09Aj"
       },
@@ -1949,7 +1989,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 288213,
       "name": "Kindir Suprise",
       "url": "https://open.spotify.com/track/5jjxs06EnkLIUajLPTAdqH"
@@ -3844,6 +3884,24 @@
     },
     {
       "album": {
+        "name": "Talin",
+        "url": "https://open.spotify.com/album/0Dk18GCO3jBWJnPrDEMeOP"
+      },
+      "artists": [
+        {
+          "name": "Qaboo",
+          "url": "https://open.spotify.com/artist/7zE3Yn6mU7yAGmbGf1zYQ4"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152195,
+      "name": "Talin - Acoustic Version",
+      "url": "https://open.spotify.com/track/0vdUf2a33S0jgvwMwh6Odp"
+    },
+    {
+      "album": {
         "name": "Taqa",
         "url": "https://open.spotify.com/album/4uKTZ5zdxhhkIQTIjrQr6x"
       },
@@ -4199,7 +4257,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 199000,
       "name": "Way Up",
       "url": "https://open.spotify.com/track/4VLws1htn1cLel6LpUe3D4"

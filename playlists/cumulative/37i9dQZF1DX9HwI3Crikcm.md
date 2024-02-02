@@ -4,7 +4,7 @@
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-140 songs - 9 hr 29 min
+142 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,9 @@
 | [Brennans Reel](https://open.spotify.com/track/3HidYV1TitmxDpP0gTNPti) | [Martin Hayes Quartet](https://open.spotify.com/artist/2LzGweG3iEJCni35tLQnL5) | [The Blue Room](https://open.spotify.com/album/5eCpuMhayrr8WdMseIPCWK) | 3:02 | 2020-11-11 |  |
 | [Brennans Reel](https://open.spotify.com/track/4UzGBikPnwtnJcBKIhic4Q) | [Martin Hayes Quartet](https://open.spotify.com/artist/2LzGweG3iEJCni35tLQnL5) | [The Blue Room](https://open.spotify.com/album/1uxLJ6XxgZuiNxqdhlZ1Q4) | 3:02 | 2020-11-11 | 2022-11-13 |
 | [Brennans Reel](https://open.spotify.com/track/7DIJ8pWzjPPNNZi8BXbYjm) | [Martin Hayes Quartet](https://open.spotify.com/artist/2LzGweG3iEJCni35tLQnL5) | [Brennans Reel](https://open.spotify.com/album/3zpOzh4VaRf66sNWggmgks) | 3:02 | 2020-11-11 | 2022-11-09 |
-| [Caoineadh An Spailpín \(The Spalpeen's Lament\)](https://open.spotify.com/track/2VoNApWzE4XWtE90e4BFJw) | [Willie Clancy](https://open.spotify.com/artist/4KK08Oc4Xupje3eUyq8SJS) | [The Minstrel From Clare](https://open.spotify.com/album/4alXmlXENnuZnPQUJkYKVC) | 5:05 | 2023-03-16 |  |
+| [Caoineadh An Spailpín \(The Spalpeen's Lament\)](https://open.spotify.com/track/2VoNApWzE4XWtE90e4BFJw) | [Willie Clancy](https://open.spotify.com/artist/4KK08Oc4Xupje3eUyq8SJS) | [The Minstrel From Clare](https://open.spotify.com/album/4alXmlXENnuZnPQUJkYKVC) | 5:05 | 2023-03-16 | 2024-02-02 |
 | [Caoineadh An Spailpín \(The Spalpeen's Lament\)](https://open.spotify.com/track/3sQcd81KocTl0ZVQvcqh2n) | [Willie Clancy](https://open.spotify.com/artist/4KK08Oc4Xupje3eUyq8SJS) | [The Minstrel From Clare](https://open.spotify.com/album/6QK8bIcu19iuEPfyenHHDl) | 5:05 | 2020-11-11 | 2023-04-29 |
+| [Caoineadh an Spailpín \(The Spalpeen's Lament\)](https://open.spotify.com/track/4khMiX5zYEhiUgTWbe81x5) | [Willie Clancy](https://open.spotify.com/artist/4KK08Oc4Xupje3eUyq8SJS) | [The Minstrel from Clare](https://open.spotify.com/album/28yU8lLKGeuRzcAIDh8zcI) | 5:05 | 2023-11-10 |  |
 | [Caoineadh an Spailpín \(The Spalpeen's Lament\)](https://open.spotify.com/track/7HGUltqTH6YqynkMQl3zzd) | [Willie Clancy](https://open.spotify.com/artist/4KK08Oc4Xupje3eUyq8SJS) | [The Minstrel From Clare](https://open.spotify.com/album/75JKmNw0ljwHkoPoLFSkpP) | 5:05 | 2020-11-11 | 2022-07-29 |
 | [Coleraine Jig](https://open.spotify.com/track/7n76JlxTrfGMUHfCK7s4Nw) | [De Dannan](https://open.spotify.com/artist/09RBtr6JUJprt2li2NsdU8) | [The Best Of DeDannan](https://open.spotify.com/album/72QISrRZoQmgNZa7ucSlra) | 5:39 | 2020-11-11 | 2022-09-26 |
 | [Coleraine Jig / Derrane's / John Stenson's / Moher Reel \- 2022 Remaster](https://open.spotify.com/track/4lXHEHTVVB4sQGZSfswd9A) | [De Dannan](https://open.spotify.com/artist/09RBtr6JUJprt2li2NsdU8) | [The Star Spangled Molly \(2022 Remaster\)](https://open.spotify.com/album/6X0QjmyympxMvV0CcUMoCT) | 5:39 | 2020-11-11 |  |
@@ -97,7 +98,8 @@
 | [Road Up the Bog / One More Pint / Karin Eating a Pickle](https://open.spotify.com/track/4YPAxoYh2yYyrRKrYYEeIR) | [Marys Lane](https://open.spotify.com/artist/3oHO6keHwM1h3iW81nhj2z) | [Power in a Tiny Bottle](https://open.spotify.com/album/7cwu5GGMKBKMBvn5HZFieZ) | 3:43 | 2020-11-11 |  |
 | [Roaring Mary / Stormy Weather](https://open.spotify.com/track/1La2rKoNWzTT4KD5qlz1Sn) | [John Doherty](https://open.spotify.com/artist/6qN1MlgBXAnLRxGALRVevQ) | [Bundle And Go](https://open.spotify.com/album/0D33Hb2cWuuD2bhxVY9VGL) | 2:17 | 2020-11-11 | 2023-04-29 |
 | [Roaring Mary / Stormy Weather](https://open.spotify.com/track/1ObSUAb8X6yH2rnJruvltj) | [John Doherty](https://open.spotify.com/artist/6qN1MlgBXAnLRxGALRVevQ) | [Bundle And Go](https://open.spotify.com/album/4XT5jo6QonCnx7hIH9iqQY) | 2:17 | 2020-11-11 | 2022-07-29 |
-| [Roaring Mary / Stormy Weather](https://open.spotify.com/track/2dmoX3HaohxkJ6ubNJAkAP) | [John Doherty](https://open.spotify.com/artist/6qN1MlgBXAnLRxGALRVevQ) | [Bundle And Go](https://open.spotify.com/album/1qFZXECDg894gYOU3PX8zG) | 2:17 | 2023-03-16 |  |
+| [Roaring Mary / Stormy Weather](https://open.spotify.com/track/2dmoX3HaohxkJ6ubNJAkAP) | [John Doherty](https://open.spotify.com/artist/6qN1MlgBXAnLRxGALRVevQ) | [Bundle And Go](https://open.spotify.com/album/1qFZXECDg894gYOU3PX8zG) | 2:17 | 2023-03-16 | 2024-02-02 |
+| [Roaring Mary / Stormy Weather](https://open.spotify.com/track/6tOmAVnVKch0LXgJyttaja) | [John Doherty](https://open.spotify.com/artist/6qN1MlgBXAnLRxGALRVevQ) | [Bundle and Go](https://open.spotify.com/album/7A4cq0Om2zpnFJDBq34itt) | 2:17 | 2023-11-10 |  |
 | [Runs in the Family / Angry Birds](https://open.spotify.com/track/71YL7LsmiRb8EErKnKWluE) | [Adam Agee](https://open.spotify.com/artist/3LVrnF56s6BbtdKj1GMqEg), [Jon Sousa](https://open.spotify.com/artist/1vCSweNAIl03TMHHTE3Hn9) | [Suantraí](https://open.spotify.com/album/2htRFnWrSnCFlcDhqtWRk8) | 2:22 | 2020-11-11 |  |
 | [Ríl Liatroma / The Green Cockade / The Mourne Mountains](https://open.spotify.com/track/30vvDys9XzFytCWmQw2kO1) | [Téada](https://open.spotify.com/artist/1VBQhu7f3xYuYPxCo0ddQF) | [Ceol & Cuimhne \(Music & Memory\)](https://open.spotify.com/album/1y6gUYBfHfPgJYccX7t83s) | 4:10 | 2020-11-11 |  |
 | [Ríl Liatroma/The Green Cockade/The Mourne Mountains](https://open.spotify.com/track/1Vc39YjnHm0bHtMjiDu6kY) | [Téada](https://open.spotify.com/artist/1VBQhu7f3xYuYPxCo0ddQF) | [Ceol & Cuimhne \(Music & Memory\)](https://open.spotify.com/album/7quUNhhoH6QdgepIxWKOCv) | 4:10 | 2020-11-11 | 2022-07-29 |

@@ -1551,6 +1551,24 @@
     },
     {
       "album": {
+        "name": "Waltz van Amsterdam",
+        "url": "https://open.spotify.com/album/3QeDhkEceu7PJY02WUhttF"
+      },
+      "artists": [
+        {
+          "name": "Casper Hejlesen",
+          "url": "https://open.spotify.com/artist/6wJA4brAniop9TeGhaL17g"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290311,
+      "name": "Waltz van Amsterdam",
+      "url": "https://open.spotify.com/track/0kPLZB72XgKxlpq93qQ3R3"
+    },
+    {
+      "album": {
         "name": "When I Fall In Love",
         "url": "https://open.spotify.com/album/1Mw304xtAcLXdPpxkcuDXF"
       },

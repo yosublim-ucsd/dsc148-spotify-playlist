@@ -2,9 +2,9 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: Justice
+> The home for alternative electronic music\. Cover: Bicep
 
-890 songs - 2 day 14 hr 57 min
+892 songs - 2 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Chaotic NRG](https://open.spotify.com/track/5FKmQG3seap8bwPjbmQc5a) | [Panteros666](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt), [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS) | [Chaotic NRG](https://open.spotify.com/album/4FCtpzPYcNWouVVI3crsdV) | 4:40 | 2023-01-20 | 2023-09-01 |
 | [Cherry](https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/4uc3EuJ7ElNGMO4LtRTWwb) | 5:55 | 2022-05-25 | 2022-08-02 |
 | [Cherubim](https://open.spotify.com/track/6JzQKtrCAh7riHwJYMNPtM) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Cherubim](https://open.spotify.com/album/3WlyBAG8AbL6E9C09KGU4w) | 3:22 | 2022-11-11 | 2023-05-19 |
+| [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 | 2024-02-02 |  |
 | [Cicada \(feat\. Arca\)](https://open.spotify.com/track/1r4MvTc1gwfHdt2TuMMYx0) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Romeo](https://open.spotify.com/album/0dXxoVKkKfIFVgGO2FUu2u) | 3:53 | 2021-11-24\* | 2022-01-29 |
 | [Circle Back Around](https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Circle Back Around](https://open.spotify.com/album/4crvOlmTqKOcYeZkNs3D33) | 3:15 | 2023-02-24 | 2023-04-28 |
 | [Circle of Light](https://open.spotify.com/track/6a6ui28fBRRlc0TcdXoIbM) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Circle of Light](https://open.spotify.com/album/1XJIRwvgrc6roiNKphMRHr) | 3:40 | 2023-02-17 | 2023-09-01 |
@@ -420,7 +421,7 @@
 | [JOY \(God Only Knows\)](https://open.spotify.com/track/2gTF3yPxvDpW2EAYbOVeIt) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(God Only Knows\)](https://open.spotify.com/album/6g4DJWWISxd3PwUFM9sleU) | 4:26 | 2023-01-16 | 2023-09-15 |
 | [JOY \(I Did You Wrong\)](https://open.spotify.com/track/31ZBEAVjrABh1eSSDYPnRc) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(I Did You Wrong\)](https://open.spotify.com/album/5a929ZHQr9ctGnhlnfWjra) | 3:08 | 2023-09-28 | 2024-01-26 |
 | [JOY \(In Me All The Time\)](https://open.spotify.com/track/0cKYdxOPGO60h2c4DHbp7d) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(In Me All The Time\)](https://open.spotify.com/album/1wgSgebPc22KAzCsVcCPMG) | 3:42 | 2023-10-20 |  |
-| [JOY \(Push The Button\)](https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [JOY \(Push The Button\)](https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2) | 3:55 | 2023-12-22 |  |
+| [JOY \(Push The Button\)](https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [JOY \(Push The Button\)](https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2) | 3:55 | 2023-12-22 | 2024-02-02 |
 | [JOY \(Up The Street\)](https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Cult Classics](https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6) | 3:57 | 2023-11-03 |  |
 | [JOY \(Up The Street\)](https://open.spotify.com/track/5PFSQQxlsdUrR63J31spMv) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Up The Street\)](https://open.spotify.com/album/757FRJv2zPA021rfTPK7hr) | 3:57 | 2023-11-03 | 2023-11-05 |
 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 | 2022-06-30 | 2022-09-23 |
@@ -621,6 +622,7 @@
 | [Praise](https://open.spotify.com/track/4sZE7YGH1tM9zIyfc8erpX) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Praise](https://open.spotify.com/album/2r7MSIqqeINCoYKWQQlj8P) | 2:50 | 2023-03-24 | 2023-07-07 |
 | [Pressurized](https://open.spotify.com/track/1SmlpzSJLpt3puZ9Zv3zTo) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Pressurized](https://open.spotify.com/album/1PiYQn2LWd1S5EFZhCNqOe) | 2:16 | 2022-03-08 | 2022-03-10 |
 | [Problems](https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Problems](https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD) | 4:37 | 2022-09-22 | 2023-03-11 |
+| [Promises](https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises](https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF) | 3:28 | 2024-02-02 |  |
 | [Proud \- Dance System Remix](https://open.spotify.com/track/7miCWmqkll2P2MLiG58sUk) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Dance System](https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh) | [Proud \(Dance System Remix\)](https://open.spotify.com/album/0jhQ97Dc7WvwGHXkvtkVFJ) | 3:13 | 2021-12-10 | 2022-02-12 |
 | [PURE/HONEY](https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:48 | 2022-08-01 | 2022-12-10 |
 | [Purple Jelly Disc](https://open.spotify.com/track/2jXCwhlQELijGObzRJQtS2) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Purple Jelly Disc](https://open.spotify.com/album/1gwAs0QYbz44hiDNWEBjGi) | 6:12 | 2022-04-01 | 2022-05-27 |
@@ -694,7 +696,7 @@
 | [Shake](https://open.spotify.com/track/20SVpIZOH8je9junaB8IJH) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [All Thru The Night \(Locked On Vol 4\)](https://open.spotify.com/album/2jqtWThfb36fQEIi7LQLGE) | 5:43 | 2023-03-30 | 2023-08-05 |
 | [She Gives U](https://open.spotify.com/track/4O0ZhoIxA7xovHZ9RSbI9E) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77) | [She Gives U](https://open.spotify.com/album/0QYsPD9bqPwoIvQ5KdpFRf) | 5:31 | 2022-01-14 | 2022-05-28 |
 | [Shimmer](https://open.spotify.com/track/6NzCy1aUFe3VOWRdnbmQN1) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Cutie / Shimmer](https://open.spotify.com/album/2Jv8NoXc5iLVXVpCoUiB6t) | 5:10 | 2022-10-13 | 2023-09-01 |
-| [SHiNE](https://open.spotify.com/track/0XkufxjDJOVdVtV0E6Gt78) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [SHiNE](https://open.spotify.com/album/0ZABn38ZUmVmSoi36yQj3M) | 5:44 | 2023-10-20 |  |
+| [SHiNE](https://open.spotify.com/track/0XkufxjDJOVdVtV0E6Gt78) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [SHiNE](https://open.spotify.com/album/0ZABn38ZUmVmSoi36yQj3M) | 5:44 | 2023-10-20 | 2024-02-02 |
 | [Shorty](https://open.spotify.com/track/4wwZS4a7MR2DZIRjq8G5lD) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Shorty](https://open.spotify.com/album/2gxPIKRsVy27zkAPZ4QbZS) | 3:28 | 2023-01-13 | 2023-04-28 |
 | [Should’ve Known](https://open.spotify.com/track/3yGBhi4S3XBNtqK6de1mTD) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Salvation](https://open.spotify.com/album/34yu5063EpoaKKir1m0q9e) | 5:42 | 2023-07-20 | 2024-01-05 |
 | [Shutter Trak](https://open.spotify.com/track/4SSRXxNIPguI2fiELTC7jS) | [Dance System](https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh) | [Shutter Trak](https://open.spotify.com/album/2BxbJsBAlvRXXkteztnUKs) | 5:16 | 2022-03-04 | 2022-07-15 |

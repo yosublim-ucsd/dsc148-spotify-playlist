@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 22,
+  "2024-02-02": 22,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR\">Molly Irvine</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Molly Irvine",
@@ -1385,7 +1385,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 141130,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/6XkJKUgacEAcJg2eJP9kjp"
@@ -1411,7 +1411,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 137973,
       "name": "Sleepless (feat. GoldFord)",
       "url": "https://open.spotify.com/track/3NO0uDaqtPzSSU9GAj39hC"

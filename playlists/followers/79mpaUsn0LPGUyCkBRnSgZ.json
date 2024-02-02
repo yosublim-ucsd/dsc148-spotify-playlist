@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 1,
+  "2024-02-02": 1,
   "date_first_scraped": "2023-03-31",
   "description": "albums i plan to listen to eventually",
   "name": "Zacklog",
@@ -2541,7 +2541,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 221586,
       "name": "Dolphin",
       "url": "https://open.spotify.com/track/10n7ftA9Y0hAdaFMWDYsk2"
@@ -9207,6 +9207,24 @@
       "duration_ms": 201560,
       "name": "Tiny Little Bows",
       "url": "https://open.spotify.com/track/7GZh8jsIqDIVat6dY45uGw"
+    },
+    {
+      "album": {
+        "name": "TNT",
+        "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
+      },
+      "artists": [
+        {
+          "name": "Tortoise",
+          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453026,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/7noqdg2Oc77zl0lZsOsioI"
     },
     {
       "album": {

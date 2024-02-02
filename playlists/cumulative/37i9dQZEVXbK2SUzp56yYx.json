@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "DODGE THIS",
+        "url": "https://open.spotify.com/album/3FMai0CAnJMqm28fixkWkb"
+      },
+      "artists": [
+        {
+          "name": "core5k",
+          "url": "https://open.spotify.com/artist/660yiS4PKmTfYnO7X1nGBw"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83200,
+      "name": "DODGE THIS",
+      "url": "https://open.spotify.com/track/69dAPEKgjAUhtLBaOeI2BI"
+    },
+    {
+      "album": {
         "name": "ee nado x)",
         "url": "https://open.spotify.com/album/3xDbqXe7XB6jiCNUxNTaqa"
       },
@@ -254,7 +272,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 169541,
       "name": "I Wouldn't Mind - Sped Up",
       "url": "https://open.spotify.com/track/7LMvwcBObTDW6h05HXG0S2"
@@ -272,7 +290,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 380240,
       "name": "IYDKMIGTHTKY (Gimme That)",
       "url": "https://open.spotify.com/track/16m8dqnXoAmu40eCp1BESe"
@@ -446,7 +464,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 234909,
       "name": "Never Be Like You (feat. Kai)",
       "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
@@ -599,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Soaked",
+        "url": "https://open.spotify.com/album/3KlEcBtJhRhsqC13wbASjd"
+      },
+      "artists": [
+        {
+          "name": "Shy Smith",
+          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179449,
+      "name": "Soaked",
+      "url": "https://open.spotify.com/track/3nGIGnJd7jFZaPFdfyQLF2"
+    },
+    {
+      "album": {
         "name": "SPIT IN MY FACE!",
         "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
       },
@@ -646,7 +682,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 192240,
       "name": "TRUE",
       "url": "https://open.spotify.com/track/2oAmC0f5DWBDyXqsKO00ov"
@@ -926,7 +962,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 197804,
       "name": "\u041d\u0435 \u043f\u0435\u0440\u0435\u0436\u0438\u0432\u0430\u0439",
       "url": "https://open.spotify.com/track/1aELpuvNXAizGG5Rhi49as"
@@ -1126,7 +1162,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 108923,
       "name": "\u0426\u0435\u043b\u0443\u044e",
       "url": "https://open.spotify.com/track/22Gx9ozLJwjo4fBgoSw7y9"

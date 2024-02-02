@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 178644,
+  "2024-02-02": 178728,
   "date_first_scraped": "2022-02-10",
   "description": "Disfruta con mam\u00e1 la era dorada de los 80's.  ",
   "name": "Mam\u00e1 80era",
@@ -169,6 +169,24 @@
       "duration_ms": 128560,
       "name": "Amor Primero",
       "url": "https://open.spotify.com/track/6SPr50YRsnKPrb5UnJ9VTA"
+    },
+    {
+      "album": {
+        "name": "\u00bfD\u00f3nde Est\u00e1 el Pais de las Hadas? (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/395Ts8cMrWtmDHxrlYcTxz"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201186,
+      "name": "Barco a Venus",
+      "url": "https://open.spotify.com/track/11glwadtd8zwDamSDOX5cJ"
     },
     {
       "album": {
@@ -839,7 +857,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 225410,
       "name": "Fotografia",
       "url": "https://open.spotify.com/track/2ZZNEhPfLbc4sxhDwUwyk3"

@@ -1,12 +1,12 @@
 {
   "description": "The best Latin Indie tracks of today, featuring Andrea Bejar & Danny Schiller.",
-  "num_followers": 155954,
+  "num_followers": 155965,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjMyNmU3ZTZkNzgxZmI1NDM5YmNhNGI3YTJiZjYwNTY3Yzc3ZjQ3",
+  "snapshot_id": "MCxkMjYyZmJiOWUwNzdjMzdiYjE1YzUzNGYwMGYwZWE3ODc0NWY5OTFk",
   "tracks": [
     {
       "added_at": "2024-01-25 22:06:26",
@@ -1319,22 +1319,18 @@
     {
       "added_at": "2024-01-25 22:06:26",
       "album": {
-        "name": "No Puedo Olvidarte",
-        "url": "https://open.spotify.com/album/07zsPKA92ljSmL6X6jNE4Y"
+        "name": "Siempre Tendr\u00e9 Mi Voz",
+        "url": "https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4"
       },
       "artists": [
         {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
-        },
-        {
-          "name": "Tania Dominguez",
-          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
         }
       ],
-      "duration_ms": 207576,
-      "name": "No Puedo Olvidarte",
-      "url": "https://open.spotify.com/track/1n6HUdzct5wsH4xUvPgwnF"
+      "duration_ms": 165300,
+      "name": "Siempre Tendr\u00e9 Mi Voz",
+      "url": "https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu"
     }
   ],
   "unique_name": "Top Latin Indie",

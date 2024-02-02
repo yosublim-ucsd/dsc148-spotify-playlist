@@ -1,13 +1,37 @@
 {
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/5nWYsE0N983XcI3qsU55bp?si=twNR91SKQcS1I3f0ZhnEqg\">ZULO</a>",
-  "num_followers": 74186,
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl?si=IgtagbcLR92kynLsa_qxPw\">Nyota Parker</a>",
+  "num_followers": 74224,
   "original_name": "Mzansi Raps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2JlNGE2NTYzNDFiODk4YjA5YTVjMTI0NTRjMzBmMTEzNmI5NmU2",
+  "snapshot_id": "MCw2YTY1NzQzNGNiOGE5ZWUwZTk5YzE5MmRhY2Y5MWM0NjkxMjU3NGZl",
   "tracks": [
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Fede Sho",
+        "url": "https://open.spotify.com/album/3jUDSA3LWZ5AtzFMjlBVb1"
+      },
+      "artists": [
+        {
+          "name": "Bigstar Johnson",
+          "url": "https://open.spotify.com/artist/3qpREhld4ZetBAKhVZuwf2"
+        },
+        {
+          "name": "Stino Le Thwenny",
+          "url": "https://open.spotify.com/artist/5kicxKGLnJF6uG0pgb0F3m"
+        },
+        {
+          "name": "Caask Asid",
+          "url": "https://open.spotify.com/artist/1mfp5cTzPUaPI2BqCOAkSl"
+        }
+      ],
+      "duration_ms": 182588,
+      "name": "Fede sho",
+      "url": "https://open.spotify.com/track/44XEtWri9ZNRBbReamzZLK"
+    },
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
@@ -55,26 +79,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "PEOPLE FORGET TO BE PEOPLE (Deluxe)",
-        "url": "https://open.spotify.com/album/4ThKlVCBUqAFU2ojb5VdH0"
-      },
-      "artists": [
-        {
-          "name": "Wordz",
-          "url": "https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd"
-        },
-        {
-          "name": "MashBeatz",
-          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
-        }
-      ],
-      "duration_ms": 109714,
-      "name": "BIRDZ",
-      "url": "https://open.spotify.com/track/3L8Sl6hGnFzVhXJ1KWrZR2"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "LIKE THIS",
         "url": "https://open.spotify.com/album/19ZbPQ20CWfBWsBnr80VGj"
       },
@@ -91,6 +95,26 @@
       "duration_ms": 247960,
       "name": "LIKE THIS",
       "url": "https://open.spotify.com/track/2DDHFzK8hrJnyBICEft8sT"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "PEOPLE FORGET TO BE PEOPLE (Deluxe)",
+        "url": "https://open.spotify.com/album/4ThKlVCBUqAFU2ojb5VdH0"
+      },
+      "artists": [
+        {
+          "name": "Wordz",
+          "url": "https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd"
+        },
+        {
+          "name": "MashBeatz",
+          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
+        }
+      ],
+      "duration_ms": 109714,
+      "name": "BIRDZ",
+      "url": "https://open.spotify.com/track/3L8Sl6hGnFzVhXJ1KWrZR2"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -127,22 +151,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Back Into It",
-        "url": "https://open.spotify.com/album/2p3kYxinqZYCrQaHWiF4gT"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 162646,
-      "name": "Back Into It",
-      "url": "https://open.spotify.com/track/3Kyr9vr7VP2NLc9lBqxQFZ"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "4am",
         "url": "https://open.spotify.com/album/12Xqw4xIfcWk6ESdetl9YD"
       },
@@ -159,6 +167,42 @@
       "duration_ms": 191229,
       "name": "4am",
       "url": "https://open.spotify.com/track/0a5z5IAC1kssY9gKvBDsW9"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Back Into It",
+        "url": "https://open.spotify.com/album/2p3kYxinqZYCrQaHWiF4gT"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 162646,
+      "name": "Back Into It",
+      "url": "https://open.spotify.com/track/3Kyr9vr7VP2NLc9lBqxQFZ"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Release Form",
+        "url": "https://open.spotify.com/album/0CFcDaqpAgqIuYCY6oH31I"
+      },
+      "artists": [
+        {
+          "name": "Jay Jody",
+          "url": "https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR"
+        },
+        {
+          "name": "A-Reece",
+          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "B!tch I'm Good",
+      "url": "https://open.spotify.com/track/4ZsqIZhTMk33sbnGgICEwr"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -497,6 +541,22 @@
       "url": "https://open.spotify.com/track/6NvzVmhpOTyITRRdt9ibmF"
     },
     {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "I Love It Here",
+        "url": "https://open.spotify.com/album/3BzDtldlIXJJGh9Qc7tbLK"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 152368,
+      "name": "Crazy Crazy",
+      "url": "https://open.spotify.com/track/78ZkwNG2wXWlwTasHCbcGf"
+    },
+    {
       "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Nkalakatha (feat. Emtee)",
@@ -773,6 +833,22 @@
       "url": "https://open.spotify.com/track/5SgdmfnKvwzFfFuNNlm8M1"
     },
     {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "100 Gallonz",
+        "url": "https://open.spotify.com/album/1dAV0gySSDnraURbSebGOK"
+      },
+      "artists": [
+        {
+          "name": "Bad Milk",
+          "url": "https://open.spotify.com/artist/5QgWolbSv7ZF3FGhKepUgn"
+        }
+      ],
+      "duration_ms": 185639,
+      "name": "Last Letter",
+      "url": "https://open.spotify.com/track/5zf0pGzmnhhXxyXp1OPt27"
+    },
+    {
       "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "80's Love",
@@ -831,6 +907,22 @@
       "duration_ms": 214796,
       "name": "Coffee Shop In Rosebank",
       "url": "https://open.spotify.com/track/6Pu3lyI7V6Npt8wNshCYnO"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Buddy Buddy",
+        "url": "https://open.spotify.com/album/0O8f2TUuOMCLc8jB9Za30F"
+      },
+      "artists": [
+        {
+          "name": "SlickZack",
+          "url": "https://open.spotify.com/artist/3VznvXo63CbeIwEzapkitc"
+        }
+      ],
+      "duration_ms": 188682,
+      "name": "Buddy Buddy",
+      "url": "https://open.spotify.com/track/4gACAiWLKEZS7Y9YbAKQdi"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -917,6 +1009,22 @@
       "url": "https://open.spotify.com/track/6agL67tYcLo0pBkowC0i9q"
     },
     {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/6JEtgGgh8WflwvWE5YQ6lM"
+      },
+      "artists": [
+        {
+          "name": "Young GInger",
+          "url": "https://open.spotify.com/artist/3LBo85p6inX14TQba77J3E"
+        }
+      ],
+      "duration_ms": 215124,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/6M7jRiYZ2Ckq2bkZSNRm07"
+    },
+    {
       "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Inkumbulo",
@@ -975,6 +1083,22 @@
       "duration_ms": 217959,
       "name": "Again",
       "url": "https://open.spotify.com/track/4tKb1Si7aVoV4EeTRA9wnI"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "RULE 42 : From Darkness into Light",
+        "url": "https://open.spotify.com/album/0LSlY5FKkZHnstPNSpUsUW"
+      },
+      "artists": [
+        {
+          "name": "Myles Malone",
+          "url": "https://open.spotify.com/artist/36GLaDFfud4nTkO8KDT7GQ"
+        }
+      ],
+      "duration_ms": 170704,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/1zKx4rr9mCXxnY0vALiAjf"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -1167,30 +1291,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "GREEN",
-        "url": "https://open.spotify.com/album/6qTsPZso9mbCFVTHiSTeHt"
-      },
-      "artists": [
-        {
-          "name": "Teddy James III",
-          "url": "https://open.spotify.com/artist/2f5cPI3KZyp7IR3rGl3sIu"
-        },
-        {
-          "name": "J Molley",
-          "url": "https://open.spotify.com/artist/4Wgns8lkTyqv4k2SH3Zc6T"
-        },
-        {
-          "name": "MO\u00cbTT",
-          "url": "https://open.spotify.com/artist/0iyiD7Z1iDyjQs4oVRz3b4"
-        }
-      ],
-      "duration_ms": 147453,
-      "name": "GREEN",
-      "url": "https://open.spotify.com/track/3J6y0QAqf1MKClK9mGbEPk"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "Gwan (feat. Maglera Doe Boy)",
         "url": "https://open.spotify.com/album/2hZUuS7mLKc8ZcqQcYf0qc"
       },
@@ -1279,22 +1379,6 @@
       "duration_ms": 263785,
       "name": "PROBLEMZ",
       "url": "https://open.spotify.com/track/4kzJuA1VCgbAUz8N8K2bk8"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "Crazy Crazy",
-        "url": "https://open.spotify.com/album/5xcyDur11wVKjYcyEBYWx9"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 152368,
-      "name": "Crazy Crazy",
-      "url": "https://open.spotify.com/track/65AOgeFv8iH4G4UT5xlqgZ"
     }
   ],
   "unique_name": "Mzansi Raps",

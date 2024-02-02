@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5tYqFEuFELxnJZgGmmsfSh">Catz 'n Dogz</a>' favorite tracks\. Updated regularly\. Curated by Catz 'n Dogz\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-145 songs - 13 hr 47 min
+146 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Broken](https://open.spotify.com/track/51IwyOTRdP34qG2wdvVlkz) | [G Flame](https://open.spotify.com/artist/0wa29eaYEynKIb1pqqGZ8l) | [I Want You](https://open.spotify.com/album/1luisWuF1Jh9khS9OwcQX6) | 6:21 | 2022-07-23 | 2023-11-06 |
 | [Can't Slo Down](https://open.spotify.com/track/1WcEiVGFqKZEf7tCDB6qWp) | [Maara](https://open.spotify.com/artist/71tnaVVl10fbxBHN5Rcd4y) | [Fancy Feast](https://open.spotify.com/album/5neHT61F0lBmd0OIw4UUlw) | 6:41 | 2022-11-21 |  |
 | [CHIBI \(Nick León Remix\)](https://open.spotify.com/track/43lXv1JVPq0KzNlDN0DcjZ) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [CHIBI \(Nick León Remix\)](https://open.spotify.com/album/2QDzGhL4PT1531n5TGhPJa) | 3:09 | 2023-09-25 |  |
-| [Chill Out](https://open.spotify.com/track/6NR8p3e6GpYrG3ivLlRfZj) | [YUNG PRADO](https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I) | [Yung Pradito](https://open.spotify.com/album/0d9KX8XBmoFpShfo0XeK9P) | 4:53 | 2023-09-25 |  |
+| [Chill Out](https://open.spotify.com/track/00rB5HMEcR8c1cbVfka1Lt) | [YUNG PRADO](https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I) | [Chill Out](https://open.spotify.com/album/0fLXWmYlIy1t0NffuOgBoN) | 4:53 | 2023-09-25 |  |
+| [Chill Out](https://open.spotify.com/track/6NR8p3e6GpYrG3ivLlRfZj) | [YUNG PRADO](https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I) | [Yung Pradito](https://open.spotify.com/album/0d9KX8XBmoFpShfo0XeK9P) | 4:53 | 2023-09-25 | 2024-02-02 |
 | [Chucky73 \- Bzrp 43](https://open.spotify.com/track/4jmE3QZLQv9pIA791PGZ05) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [Chucky73 \- Bzrp 43](https://open.spotify.com/album/1EjGYxuGr01m4NgsoRs3OI) | 3:14 | 2022-07-23 |  |
 | [Come On Then](https://open.spotify.com/track/3bGLXTm4fIwTEyzzGkQldD) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [CLUB E.A.S.E\. \- \#1](https://open.spotify.com/album/2PtxIwsexEdZQ1scVU32Kl) | 6:20 | 2023-09-25 |  |
 | [Cosmic Warfare](https://open.spotify.com/track/6OuqoYHO8QzxNBRGihb6gM) | [Burnski](https://open.spotify.com/artist/4aOxcso0VF2zuORd93J32L) | [DNA](https://open.spotify.com/album/6i5gny2Cqvyrmr9abNl2Iy) | 4:50 | 2022-07-23 |  |

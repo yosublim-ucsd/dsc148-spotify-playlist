@@ -3152,7 +3152,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 214800,
       "name": "Chill Kill",
       "url": "https://open.spotify.com/track/68gQG2HpRMxIRom4pCugMq"
@@ -12180,7 +12180,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 205101,
       "name": "Shoong! (feat. LISA of BLACKPINK)",
       "url": "https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt"
@@ -15528,6 +15528,24 @@
       "duration_ms": 178360,
       "name": "WHEN I MOVE - Japanese Version",
       "url": "https://open.spotify.com/track/21GuGNE5kAObbWPDRYaYLi"
+    },
+    {
+      "album": {
+        "name": "When we meet again",
+        "url": "https://open.spotify.com/album/1DOu9V8PDpOaWko8NSNmoA"
+      },
+      "artists": [
+        {
+          "name": "LEE JUNHO",
+          "url": "https://open.spotify.com/artist/1nEFr6pWrot80eRuOkZQxg"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227683,
+      "name": "When we meet again",
+      "url": "https://open.spotify.com/track/5VszBqrAVGryNnF2djV1Ob"
     },
     {
       "album": {

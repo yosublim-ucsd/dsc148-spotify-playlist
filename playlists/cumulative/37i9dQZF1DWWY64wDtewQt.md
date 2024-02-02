@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-674 songs - 1 day 1 hr 31 min
+675 songs - 1 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,9 +514,10 @@
 | [RITUAL](https://open.spotify.com/track/1VvldVWHEtvwzKlGx8ahOg) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC) | [RITUAL](https://open.spotify.com/album/43nEXegWvPFJ1xDk2toTnI) | 1:43 | 2022-11-03 | 2023-03-25 |
 | [ROADKILL](https://open.spotify.com/track/2WqPiS79q9a5PXQhA3tun7) | [SAOTOMAMORE](https://open.spotify.com/artist/4MxJYU17fdqZ9tzK1d7aeM), [SMITHMANE](https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG) | [ROADKILL](https://open.spotify.com/album/6v6nePEhOnTXq7Zfk7EHmM) | 2:04 | 2022-09-02 | 2022-10-29 |
 | [robot rock](https://open.spotify.com/track/3yhv4I91mB3ykLImccAXXV) | [alper6nen](https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj) | [robot rock](https://open.spotify.com/album/4LsaHLgUewiHLWEzeqgQwN) | 2:33 | 2023-12-01 | 2024-01-21 |
-| [Robot Rock \(Funk\)](https://open.spotify.com/track/3ixyPOkAX9ooVeu3JWr9H2) | [DJ Crazy 013](https://open.spotify.com/artist/3LMb9Tf8kmQWdKoDmoQM29) | [Robot Rock \(Funk\)](https://open.spotify.com/album/5XfXXTKbjPlr3jpvnVNJw7) | 2:31 | 2023-12-01 |  |
+| [Robot Rock \(Funk\)](https://open.spotify.com/track/3ixyPOkAX9ooVeu3JWr9H2) | [DJ Crazy 013](https://open.spotify.com/artist/3LMb9Tf8kmQWdKoDmoQM29) | [Robot Rock \(Funk\)](https://open.spotify.com/album/5XfXXTKbjPlr3jpvnVNJw7) | 2:31 | 2023-12-01 | 2024-02-02 |
 | [robot rock \(funk\)](https://open.spotify.com/track/6M5Zzk6BAbo4YTvUCTsIen) | [DJ Crazy 013](https://open.spotify.com/artist/3LMb9Tf8kmQWdKoDmoQM29) | [robot rock \(funk\)](https://open.spotify.com/album/4doU2xxrxSK6BHe3TjsKdW) | 2:33 | 2023-12-01 | 2024-01-11 |
 | [Robot Rock \(funk\)](https://open.spotify.com/track/4WlO3Mb8cDzTVHxFQkP3pi) | [DJ Paulinho Mondi Da Baixa Baviera](https://open.spotify.com/artist/648ZoUpTM6iIMTCgo3lLCE) | [Robot Rock \(funk\)](https://open.spotify.com/album/5vNGbfKZZngxw51VUAzaIE) | 2:31 | 2023-12-01 | 2024-01-28 |
+| [Robot Rock \(Funk\)](https://open.spotify.com/track/3R3zF6Y5fnimYRXuBTrp9D) | [DJ Paulinho Mondi Da Baixa Baviera](https://open.spotify.com/artist/648ZoUpTM6iIMTCgo3lLCE) | [Robot Rock \(Funk\)](https://open.spotify.com/album/2Nmqx3yf0q79nCnVqmGyAq) | 2:33 | 2023-12-01 |  |
 | [robot rock \(funk\)](https://open.spotify.com/track/5CzmDYSqoancLlV8vMGdPl) | [DJ Paulinho Mondi Da Baixa Baviera](https://open.spotify.com/artist/648ZoUpTM6iIMTCgo3lLCE) | [robot rock \(funk\)](https://open.spotify.com/album/4GX5gPDX5eZkPY7aDm1Cs4) | 2:33 | 2023-12-01 | 2024-01-16 |
 | [Robot Rock \- Funk Remix](https://open.spotify.com/track/7ImCIbhZXIu0ulBGEwvC8W) | [Ayparia](https://open.spotify.com/artist/0nTNWXnHMzSj7wRtd3ECos), [alper6nen](https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj), [Armut](https://open.spotify.com/artist/72Jq4Qx7m1XizJTU5jv9Wj) | [Robot Rock \(Funk Remix\)](https://open.spotify.com/album/2Nus2h0JQmdCxs2jHHVzfp) | 2:33 | 2023-12-01 | 2024-01-23 |
 | [Robot Rock \- Remix](https://open.spotify.com/track/0fm4a0b9oDoLhhCSAtU8OH) | [Gatito Malo](https://open.spotify.com/artist/7JMpsXUQIJCt2l9o4BnBfF) | [Robot Rock \(Remix\)](https://open.spotify.com/album/1TJ6izayiTzSUAHznF1AgF) | 2:33 | 2023-12-01 | 2024-01-10 |

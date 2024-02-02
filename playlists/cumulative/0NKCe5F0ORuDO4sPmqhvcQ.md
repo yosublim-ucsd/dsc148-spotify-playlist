@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-565 songs - 1 day 7 hr 50 min
+567 songs - 1 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [all the bands](https://open.spotify.com/track/6lWOSug1EA1BMXlrE567x2) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw) | [all the bands](https://open.spotify.com/album/2uDiNQ5tLIw7M1Qu682asm) | 2:21 | 2022-06-24 | 2022-09-19 |
 | [All The Time](https://open.spotify.com/track/0cWqIiQczIXVORSfVxbg1X) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [All The Time](https://open.spotify.com/album/04Er7EWQFPjGPTthhPLh7n) | 2:59 | 2022-11-11 | 2023-01-30 |
 | [All This Motion \(with Louis the Child\)](https://open.spotify.com/track/1wMyUceyWBh1VVsmeQtPnj) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Ten Years](https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD) | 2:27 | 2022-07-29 | 2023-01-20 |
+| [All Ur Luv](https://open.spotify.com/track/3K1RnBxBkrMwoBE8gC63eY) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [All Ur Luv](https://open.spotify.com/album/1KrS7daFwtHSyT5aPsI0so) | 2:41 | 2024-02-01 |  |
 | [Alone Together](https://open.spotify.com/track/567GBv8OB00xUZ2edVn4Up) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Elysian](https://open.spotify.com/album/4TUygYUS1Y4TSIjBw63FVe) | 3:27 | 2023-08-16 |  |
 | [Always](https://open.spotify.com/track/7Lg4dEz9IVE5iUILPEdyUv) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [In Plain Sight](https://open.spotify.com/album/39H3aSkk8uCM25VoIx16y7) | 2:42 | 2023-02-23 |  |
 | [always](https://open.spotify.com/track/4x18rLsHPvkWkBPCULknfd) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [always](https://open.spotify.com/album/0BINonSEu5AmCiLrhhfAMm) | 2:26 | 2023-09-19 |  |
@@ -464,6 +465,7 @@
 | [State of Mind \- TELYKast Remix](https://open.spotify.com/track/6JyL6uaXr3aDVKKfzCfZPn) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA), [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [State Of Mind \(TELYKast Remix\)](https://open.spotify.com/album/4eh3AMHgsVerPpeDg0d7cV) | 3:18 | 2023-01-20 | 2023-01-30 |
 | [Statues](https://open.spotify.com/track/2vWYHrRiJhc2iIXxaZUnG5) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab) | [PILLARS ///](https://open.spotify.com/album/1xPKjBXYPMnr3N4vhKSo63) | 3:25 | 2022-02-28 | 2022-03-31 |
 | [Stay](https://open.spotify.com/track/1HvHz2LzxoG8FRrbWQaqqg) | [meesh](https://open.spotify.com/artist/6qEfyIMkz6rkRRhmuBTFWI) | [Stay](https://open.spotify.com/album/0BPbKYczJqVdAVZUltYFic) | 3:30 | 2022-04-08 |  |
+| [Stay \(feat\. Lyrah\)](https://open.spotify.com/track/7JCUET0Po7EzBz7PwlQf2J) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Stay \(feat\. Lyrah\)](https://open.spotify.com/album/3weaHHvf6IcRNNYO9O9Tff) | 2:52 | 2024-02-01 |  |
 | [Stay \- Slow Magic Remix](https://open.spotify.com/track/7311fH65MZV550TYVwRfFG) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [Sentiment \(The Remixes\)](https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V) | 3:55 | 2022-07-29 |  |
 | [Still Friends](https://open.spotify.com/track/2xurXrmbeXZKOiND6YA5cs) | [Nightly Gatherings](https://open.spotify.com/artist/0e7vmFNTfVsnRr3Laaw4FI) | [Still Friends](https://open.spotify.com/album/6vZSPshiv7uf91yIq6hDg7) | 3:22 | 2023-01-29 |  |
 | [Stop The World](https://open.spotify.com/track/6EMurB3UaCd5ybKwSh8kbI) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Stop The World](https://open.spotify.com/album/6FmaNoRM90E12hgKTt8eU5) | 2:59 | 2022-03-18 | 2022-03-31 |

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, featuring Barbara Doza\. Updates every Wednesday.
 
-1,735 songs - 3 day 22 hr 28 min
+1,736 songs - 3 day 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Deja](https://open.spotify.com/track/5JvaSsy5dmnhJmaDGyYBwI) | [Denni Den](https://open.spotify.com/artist/3BlpDYnHdlKijqDvT4bw2k), [Jessica Díaz](https://open.spotify.com/artist/5B3ilGtmTtjG6lZdBg9X67) | [Deja](https://open.spotify.com/album/4TS5kGbastlg6AS7D1lzCG) | 3:07 | 2022-03-09 | 2022-03-15 |
 | [Dejar Ir](https://open.spotify.com/track/0fDBYjcdhyX5dBYLk8CuVn) | [Cavito Mendoza](https://open.spotify.com/artist/1XqU4hvMAYthv8emuGGSv7) | [Dejar Ir](https://open.spotify.com/album/2jYxX2nzr4bHdKy1SiE4D9) | 3:27 | 2022-10-05 | 2022-12-01 |
 | [Del Amor Al Odio](https://open.spotify.com/track/3qBRVRm3dOA3RXVZPgBlqT) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Del Amor Al Odio](https://open.spotify.com/album/3jSsrpfRaecPJXr8bHHSUM) | 3:16 | 2022-11-10 | 2023-02-09 |
+| [Delfina](https://open.spotify.com/track/1qTT0vKbsT8GiVsB8X5fZe) | [Sol Madrigal](https://open.spotify.com/artist/7qxccC6MPnRfj31zk2JcnB) | [Delfina](https://open.spotify.com/album/0DPas4m0NzEjiJAo6YxyYg) | 2:45 | 2024-01-31 |  |
 | [Deli](https://open.spotify.com/track/77IU4RioA7XfZ3bWVpQtKb) | [Tux Lunan](https://open.spotify.com/artist/2BlT3FbY4C1I1A25unyxJa) | [Deli](https://open.spotify.com/album/2va7VMmL5yd30EuNAHoE2k) | 3:32 | 2022-04-13 | 2022-05-12 |
 | [Deli](https://open.spotify.com/track/2RJGG7vHbpeHAQBn3j0uXy) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [Deli](https://open.spotify.com/album/1epbH0ETJHGa7WAOso7Mbc) | 2:59 | 2022-10-05 | 2022-12-01 |
 | [Delirando](https://open.spotify.com/track/2YK1bWEZYctEqUmk6dnTFi) | [Eloisa](https://open.spotify.com/artist/1GbHLsyBjx0L5uJoPRoelG) | [Delirando](https://open.spotify.com/album/5IO7Xu0Nb5gP9DqNLsA0zf) | 2:34 | 2023-10-11 | 2023-10-26 |

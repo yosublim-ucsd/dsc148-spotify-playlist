@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Penny Arcade, Artwork: Isu Kim.
 
-1,013 songs - 2 day 10 hr 49 min
+1,014 songs - 2 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,8 @@
 | [easy](https://open.spotify.com/track/3EoXPxpXCAy3QTBB65vcYQ) | [pigments](https://open.spotify.com/artist/2UGbz7H7MWvzz9uOsi2WXP) | [easy](https://open.spotify.com/album/4JBi0srbD33YtEX6v1FuRE) | 3:37 | 2023-08-09 | 2023-11-09 |
 | [Echo Park](https://open.spotify.com/track/2pvvzmLpUSrb7yxLIP0IWU) | [Group Hug](https://open.spotify.com/artist/1sKgdwCShuj0glAYP1aWgP) | [Echo Park](https://open.spotify.com/album/3yMDSupsMzNHYOlQI7J4NV) | 4:04 | 2023-10-11 | 2023-11-30 |
 | [Echoes](https://open.spotify.com/track/5LdygNlvLAIzY6zZOThHTm) | [Dymd](https://open.spotify.com/artist/3g1ti2uYNc02iMdgwRxpkb) | [Echoes](https://open.spotify.com/album/2VhN0EWG1NTl1Z3tR9uBNK) | 3:07 | 2022-01-05 | 2022-01-13 |
-| [ECHOES](https://open.spotify.com/track/5g1Bs68ODHEtWyQMJslUzL) | [Ynonah](https://open.spotify.com/artist/4HbBdJq8PS74xvTxMpPR7c), [Blush Wilson](https://open.spotify.com/artist/2CVt1KZkOP6lSUryG7F4j0) | [UNCERTAINTY](https://open.spotify.com/album/0i331SHbaY5rsON9SZilVk) | 3:34 | 2024-01-17 |  |
+| [ECHOES](https://open.spotify.com/track/5g1Bs68ODHEtWyQMJslUzL) | [Ynonah](https://open.spotify.com/artist/4HbBdJq8PS74xvTxMpPR7c), [Blush Wilson](https://open.spotify.com/artist/2CVt1KZkOP6lSUryG7F4j0) | [UNCERTAINTY](https://open.spotify.com/album/0i331SHbaY5rsON9SZilVk) | 3:34 | 2024-01-17 | 2024-02-02 |
+| [ECHOES](https://open.spotify.com/track/7o0qMiguXqu5YlXvjpRopg) | [Ynonah](https://open.spotify.com/artist/4HbBdJq8PS74xvTxMpPR7c), [Blush Wilson](https://open.spotify.com/artist/2CVt1KZkOP6lSUryG7F4j0) | [UNCERTAINTY](https://open.spotify.com/album/6WmoP9UtwziwIc01ZOuUw8) | 3:34 | 2024-01-24 |  |
 | [Egal](https://open.spotify.com/track/15kfasEzeqJeyqgJF3lk7S) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb), [Whitey](https://open.spotify.com/artist/31HMcpiwcEdIUpPOQuqQfW) | [Egal](https://open.spotify.com/album/4lta8wNEEceVpWXnKoWkaq) | 2:27 | 2023-06-28 | 2023-11-30 |
 | [Egal](https://open.spotify.com/track/2nB8kIdKHdVJSEHA34r7mO) | [Theo](https://open.spotify.com/artist/71ZxzZ1l8fkfZGoR1bwDiL) | [Egal](https://open.spotify.com/album/5fI8PismtnGhQ5DT2OPswV) | 2:01 | 2022-10-26 | 2022-11-24 |
 | [Egal](https://open.spotify.com/track/7j3TJZmMxQ9BHqRDbmRUbe) | [Theo](https://open.spotify.com/artist/71ZxzZ1l8fkfZGoR1bwDiL) | [Egal](https://open.spotify.com/album/3JgLSTtv3UXYRchu3nY428) | 2:01 | 2022-11-23 | 2023-03-09 |

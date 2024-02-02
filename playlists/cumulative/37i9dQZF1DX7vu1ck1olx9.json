@@ -907,6 +907,24 @@
     },
     {
       "album": {
+        "name": "cellular",
+        "url": "https://open.spotify.com/album/06O45DFgRdWkvaR10inL1C"
+      },
+      "artists": [
+        {
+          "name": "dueday",
+          "url": "https://open.spotify.com/artist/2yLP0IwAa0JkNWr6OMHM0i"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114500,
+      "name": "cellular",
+      "url": "https://open.spotify.com/track/4PeBAw8arxHxoMH6T1g0VU"
+    },
+    {
+      "album": {
         "name": "Cleaning Trees",
         "url": "https://open.spotify.com/album/3ShMpTZnv3QU7r3q6b17IQ"
       },
@@ -1212,7 +1230,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 190710,
       "name": "Dignity",
       "url": "https://open.spotify.com/track/3KdWOfRqIwRzDxuhw1vKzW"
@@ -2172,7 +2190,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 159000,
       "name": "Honey",
       "url": "https://open.spotify.com/track/3QAyC3lilsgZ2ZyzMHibYN"
@@ -2432,7 +2450,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 140000,
       "name": "keep on",
       "url": "https://open.spotify.com/track/33cmTU5f3QszwFl8s8Lua9"
@@ -2954,6 +2972,24 @@
       "duration_ms": 128046,
       "name": "moon inhale",
       "url": "https://open.spotify.com/track/3AwO7k4camAuHP5jaowl0D"
+    },
+    {
+      "album": {
+        "name": "morning meditations",
+        "url": "https://open.spotify.com/album/7Ih6Z8ZxGmEVz0G1TUf5fI"
+      },
+      "artists": [
+        {
+          "name": "Clocktown Stars",
+          "url": "https://open.spotify.com/artist/41tAquCucBUKN6L1xeMWns"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "morning meditations",
+      "url": "https://open.spotify.com/track/7yY00DIEZFDueSQZNPk7HW"
     },
     {
       "album": {
@@ -3630,7 +3666,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 104945,
       "name": "Sandcastle",
       "url": "https://open.spotify.com/track/4uzI5lrZY5XD9D8QpUVESB"
@@ -4943,6 +4979,24 @@
     },
     {
       "album": {
+        "name": "train to tokyo",
+        "url": "https://open.spotify.com/album/2t2S3NiWHmEw7HNPxfaHzx"
+      },
+      "artists": [
+        {
+          "name": "Ali Kaj",
+          "url": "https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226387,
+      "name": "train to tokyo",
+      "url": "https://open.spotify.com/track/3UWWuXut5dDfLA6gDL5H8B"
+    },
+    {
+      "album": {
         "name": "Tranquility Farm",
         "url": "https://open.spotify.com/album/23rYdcFuFuMzqRl4Z5B0t1"
       },
@@ -4958,6 +5012,24 @@
       "duration_ms": 133483,
       "name": "Tranquility Farm",
       "url": "https://open.spotify.com/track/2HQZO4e5DndKooGqLWs8od"
+    },
+    {
+      "album": {
+        "name": "Trouble In Smoky Paradise",
+        "url": "https://open.spotify.com/album/6LvEYsVFTVzi0Mcllrt2jd"
+      },
+      "artists": [
+        {
+          "name": "X56.aif",
+          "url": "https://open.spotify.com/artist/0sslEoFr85krxkxnGR8HnB"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148657,
+      "name": "Trouble In Smoky Paradise",
+      "url": "https://open.spotify.com/track/4xbDrO1BWWmmMpShGcCYTf"
     },
     {
       "album": {

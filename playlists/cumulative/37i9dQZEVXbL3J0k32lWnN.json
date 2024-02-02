@@ -1157,6 +1157,40 @@
     },
     {
       "album": {
+        "name": "ANARCHY",
+        "url": "https://open.spotify.com/album/3HhI41WqIAWkCytVahKyVb"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/2qPnosDXSvEoVj6tzG7p4h"
+        },
+        {
+          "name": "Bonfire",
+          "url": "https://open.spotify.com/artist/4lhUAM6MXDFVc5Veq225ww"
+        },
+        {
+          "name": "BABYNAPS",
+          "url": "https://open.spotify.com/artist/79Vr18dF6qtEgWvQ5ZIlpQ"
+        },
+        {
+          "name": "djbasra",
+          "url": "https://open.spotify.com/artist/3QWyLTlDBtGXjdCfuXfsZQ"
+        },
+        {
+          "name": "SWEDISH WIFE MAFFIA",
+          "url": "https://open.spotify.com/artist/7aawB46SkOpdtTDK5gFQJe"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114366,
+      "name": "ANARCHY - Radio Edit",
+      "url": "https://open.spotify.com/track/7yISDabQTwkhyWCDnEJiuh"
+    },
+    {
+      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
       },
@@ -21826,7 +21860,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 163254,
       "name": "smugryger",
       "url": "https://open.spotify.com/track/0Mo3Jmq9uU1QJyhZu4DkR5"

@@ -4,7 +4,7 @@
 
 > POV: you're the main character in a romance novel.
 
-67 songs - 4 hr 4 min
+68 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Howl's Moving Castle \- Merry\-Go\-Round of Life](https://open.spotify.com/track/20nMssNxX89e7YMoT0gpFQ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Geek Wedding, Vol\. 2: The Sequel](https://open.spotify.com/album/11USWPKwpUSlDyrjBErJ6W) | 3:04 | 2022-02-14 |  |
 | [I Waited For You](https://open.spotify.com/track/3gpLoUSz1JsLb97VXUTtB5) | [Aaron Zigman](https://open.spotify.com/artist/74M3iphMpn1MA2YUe2Iigb) | [The Best Of Me \(Original Motion Picture Score\)](https://open.spotify.com/album/1EVM5W3wBvfAW7LXfPSsMT) | 1:30 | 2022-07-04 |  |
 | [I Waited for You](https://open.spotify.com/track/3sVFj8qVKJAFgZvD77xsau) | [Aaron Zigman](https://open.spotify.com/artist/74M3iphMpn1MA2YUe2Iigb) | [The Best of Me \(Original Motion Picture Score\)](https://open.spotify.com/album/2TRHx1axpzpqApnQgS8TU1) | 1:30 | 2022-02-14 | 2022-07-29 |
+| [ICARUS](https://open.spotify.com/track/7aTuZWl7qYNYBAHDOurXOx) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [AWAKENING](https://open.spotify.com/album/0mdrZ04JRhto7XX1HYmCwU) | 3:19 | 2024-02-01 |  |
 | [leaves and trees](https://open.spotify.com/track/17Cv0iBOjWabaeLqAMAxQf) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/5t97v94T6a45YYBBQ7I21a) | 5:57 | 2022-02-14 | 2022-07-29 |
 | [leaves and trees](https://open.spotify.com/track/4fm8QxhBYRmmxU3Kp1pi3p) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/4yhyBrxpfFUjazK1rVgzzO) | 5:57 | 2022-07-04 |  |
 | [leaves and trees](https://open.spotify.com/track/7zFGjpozrCWREmakIErLxx) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [leaves and trees](https://open.spotify.com/album/7F3CyaNx0b18PxiajqfyjS) | 5:58 | 2022-10-07 | 2022-11-13 |

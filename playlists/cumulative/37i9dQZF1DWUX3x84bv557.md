@@ -2,9 +2,9 @@
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> De nieuwste Nederlandse pop! Cover: Adriaan Persons
+> De nieuwste Nederlandse pop! Cover: MEAU
 
-479 songs - 23 hr 18 min
+484 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Flirt](https://open.spotify.com/track/5uRhJZJdp4B6uqHlAhMtYn) | [Maxim Froger](https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE) | [Flirt](https://open.spotify.com/album/19YmqAf1IM6MivwpqamrQi) | 2:24 | 2023-02-23 | 2023-03-10 |
 | [Fotoboek](https://open.spotify.com/track/3x8R2uLVCOgB7DgH558G1w) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Fotoboek](https://open.spotify.com/album/2di2M30D0NIAUoJ6CyvpQE) | 3:44 | 2023-02-23 | 2023-05-12 |
 | [Gebruiksaanwijzing](https://open.spotify.com/track/618yYVf9TdfLpcj6tdePaP) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Gebruiksaanwijzing](https://open.spotify.com/album/1DEK18Z3t4U358XPdRysMP) | 2:47 | 2023-02-23 | 2023-04-21 |
+| [Geef Die Pizza](https://open.spotify.com/track/2PdCgMQFFylXFSil7233VL) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE) | [Geef Die Pizza](https://open.spotify.com/album/583vJLH2kE6DpDXMGUi6Ko) | 2:20 | 2024-02-01 |  |
 | [Geef Me Dan Even](https://open.spotify.com/track/12uK11Y0VbFgqYEWCM4iCf) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Geef Me Dan Even](https://open.spotify.com/album/4EZjo1cp265mNWvfWR6YDJ) | 3:15 | 2023-02-23 | 2023-03-10 |
 | [Geef Me Dan Iets](https://open.spotify.com/track/5RtzKPMq4NIlLFmpgafBQA) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Geef Me Dan Iets](https://open.spotify.com/album/0Vv3vhNdSY9QBVZyQCXtur) | 2:58 | 2023-02-23 | 2023-07-08 |
 | [Geef Me Over](https://open.spotify.com/track/4aswIZFJRd9va6W0i7S0pO) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Geef Me Over](https://open.spotify.com/album/2oYQVqtgq7tP7fjRgiFBNj) | 3:10 | 2024-01-04 | 2024-01-19 |
@@ -178,6 +179,7 @@
 | [GOAT](https://open.spotify.com/track/1TJ9GtbZEJC2Ze5J3PAVH7) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [GOAT](https://open.spotify.com/album/0DsFrYd1H4YaginnzMkUkP) | 2:19 | 2023-02-23 | 2023-05-10 |
 | [Goddamn](https://open.spotify.com/track/1RKkXpPjda5Ow3dih6nNI8) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Lima](https://open.spotify.com/album/5Xj9VAjRTCfXHTWjHn2bxM) | 2:25 | 2023-02-23 | 2023-04-07 |
 | [Goed Nieuws](https://open.spotify.com/track/1qSTVPUUf1JGUc5NpIZ6mB) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Goed Nieuws](https://open.spotify.com/album/3iAznDDuEi5gm0XP4cAF1s) | 3:43 | 2023-06-01 | 2023-06-23 |
+| [Grijze Haren](https://open.spotify.com/track/0nlXGknakf5Y7Xa8r4nRtC) | [Jim Bakkum](https://open.spotify.com/artist/0RJ6eS1cimNNF64vRXGwfD) | [Grijze Haren](https://open.spotify.com/album/6cEL6zsNarhmTMftTvqr58) | 3:32 | 2024-02-01 |  |
 | [Grootste Nachtmerrie](https://open.spotify.com/track/024n8ZBMNDs0lPWXVbiPhE) | [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd) | [Grootste Nachtmerrie](https://open.spotify.com/album/1oN4gY30vybE4aeYfcsPPL) | 3:29 | 2023-09-28 | 2023-11-10 |
 | [Grote Dromen, Klein Dorp](https://open.spotify.com/track/0uqEpwCl4BHilst3RZmGTV) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Grote Dromen, Klein Dorp](https://open.spotify.com/album/4nbh9yi0MfNZfRgLTR66F4) | 2:21 | 2023-10-26 | 2023-11-10 |
 | [Haast](https://open.spotify.com/track/399bjhgodMuQoMkynf8rVM) | [ZWIJMEL](https://open.spotify.com/artist/7swrz956hjUaa1XUSXMdkd) | [Haast](https://open.spotify.com/album/1xXJ4D4MG5CDPqePtylf6T) | 2:44 | 2023-06-29 | 2023-09-22 |
@@ -239,6 +241,7 @@
 | [Jouw Love](https://open.spotify.com/track/1y0SJhnwKGEGZbH9OmrqyN) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Jouw Love](https://open.spotify.com/album/7s1jQ9f82JwSBC14Z1tvHH) | 2:56 | 2023-02-23 | 2023-03-31 |
 | [Kaarslicht](https://open.spotify.com/track/3zhKEoZJ2BBabaClXLxiB3) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [Kaarslicht](https://open.spotify.com/album/1ccGH8M1W1FB4TW8KHlN4r) | 2:39 | 2023-05-18 | 2023-07-28 |
 | [Kalmeer Me](https://open.spotify.com/track/6kfxfUbKtyZbAdcW3zxz0E) | [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE) | [Kalmeer Me](https://open.spotify.com/album/60wpnUXyT43TFowNqrvw5f) | 3:04 | 2024-01-18 |  |
+| [Kan Je Me Laten](https://open.spotify.com/track/0WiLq7KevSxwPjwPT6QDzt) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Kan Je Me Laten](https://open.spotify.com/album/6FrYMFvJal8M2go84iwQhT) | 2:22 | 2024-02-01 |  |
 | [Kansen](https://open.spotify.com/track/7Mw4F5tnXF5D52dghmzbLQ) | [Benjamin](https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d) | [Kansen](https://open.spotify.com/album/7Jk5bj58KHAdhERKgUqgET) | 2:50 | 2023-02-23 | 2023-03-31 |
 | [Kapitein](https://open.spotify.com/track/39lfuCGvxLUu5zIx5C9Y1C) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Kapitein](https://open.spotify.com/album/5Dz5CfH58kYE9nAwNwiFH3) | 3:14 | 2023-09-07 | 2023-10-13 |
 | [Kasper](https://open.spotify.com/track/1NC2AjrlULPt0W2ZUprK30) | [Daniel Kist](https://open.spotify.com/artist/3hcVwibmXAqkX0DIWxDVLA) | [Kasper](https://open.spotify.com/album/1zPxe1f2Sc6SAQfAmKOc2a) | 2:35 | 2023-10-05 | 2023-10-20 |
@@ -390,6 +393,7 @@
 | [Stilte](https://open.spotify.com/track/1DbUqQsA59SdJ2bJbreuLN) | [Stenfert](https://open.spotify.com/artist/7nfwBKWMnPY7FJZQwh1wq8) | [Stilte](https://open.spotify.com/album/05UIOGNkytQHWK8uznXwld) | 2:54 | 2023-02-23 | 2023-05-12 |
 | [Stoel In De Hemel](https://open.spotify.com/track/6bNfLrjVk5xFZSOQOhroYt) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [AEDM](https://open.spotify.com/album/3ua3jJ5hreBT7dp0D8TJya) | 3:13 | 2023-10-26 | 2023-12-15 |
 | [Stoel In De Hemel](https://open.spotify.com/track/6rJNM9Ep8bENSG3vkr2mst) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [AEDM](https://open.spotify.com/album/6x3zIf1yzUpcL7Pr12cxSx) | 3:13 | 2023-12-08 |  |
+| [Stukje Van Mij](https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Stukje Van Mij](https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL) | 3:25 | 2024-02-01 |  |
 | [Te Goed Om Waar Te Zijn](https://open.spotify.com/track/5xROc7yMnVnPBuGw9bTCTK) | [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE) | [Te Goed Om Waar Te Zijn](https://open.spotify.com/album/2mRv3JeT8QvCy44FknVLqF) | 2:49 | 2023-03-16 | 2023-06-09 |
 | [Tegen Beter Weten In](https://open.spotify.com/track/6pYrY75o2iVJVlX2n5d59c) | [Daniel Kist](https://open.spotify.com/artist/3hcVwibmXAqkX0DIWxDVLA) | [Tegen Beter Weten In](https://open.spotify.com/album/3zsaqHqGx1MaalIXkGyGiI) | 2:43 | 2023-02-23 | 2023-04-07 |
 | [Terug In M'n Armen](https://open.spotify.com/track/6pwln6CjzTKZJuYdoA0jSc) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC) | 3:27 | 2023-05-09 | 2023-08-18 |
@@ -419,6 +423,7 @@
 | [Vanavond Komt Ze Naar Mij](https://open.spotify.com/track/1XlUhojwsf89SFoxuwvXW8) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [Vanavond Komt Ze Naar Mij](https://open.spotify.com/album/1kTXTth3kzIUg2mtiUxyOt) | 3:08 | 2023-09-07 |  |
 | [Vas\-y \(Ga Maar\)](https://open.spotify.com/track/2GEuZRsMwllbjBFpdOOBAx) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh), [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Vas\-y \(Ga Maar\)](https://open.spotify.com/album/1ccTvU8Sgr65nVyIUs9ifV) | 3:06 | 2023-09-07 | 2024-01-12 |
 | [veilig](https://open.spotify.com/track/6AA25bMKeaifeQtJssZhYz) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [veilig](https://open.spotify.com/album/0Nd7v2vZvVEQt615Pl27uz) | 3:10 | 2024-01-18 |  |
+| [Venus \(ft\. Noor\)](https://open.spotify.com/track/5ImaYkWsroSsnfa0mD7vpD) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n), [Noor](https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT) | [Venus \(ft\. Noor\)](https://open.spotify.com/album/0iB2ctTWAoM76KbMy4RJh1) | 2:50 | 2024-02-01 |  |
 | [Ver Van Huis](https://open.spotify.com/track/1RkGMhN4VLb0fiytr7EodW) | [Ginger](https://open.spotify.com/artist/3mrOynKrihp03WXLtootoD), [Livv](https://open.spotify.com/artist/0DVLNg4cUvv8X38wf9iyt2) | [Ver Van Huis](https://open.spotify.com/album/2pXbiUAJ6gbNNjHOy7qFcM) | 3:21 | 2023-02-23 | 2023-04-07 |
 | [Verblind Door De Liefde](https://open.spotify.com/track/6hNBsoqPGscZ7n3AkylGUA) | [Ginger](https://open.spotify.com/artist/3mrOynKrihp03WXLtootoD) | [Verblind Door De Liefde](https://open.spotify.com/album/4nibfUi3NOq37haZTqiMkI) | 2:11 | 2023-09-14 | 2023-12-22 |
 | [Vergeven, Vergeten](https://open.spotify.com/track/6ID5NQlBr7RikVeC0jkKdH) | [Huize Lucas](https://open.spotify.com/artist/5V8b23P7NLOVaB04lfb79b) | [Vergeven, Vergeten](https://open.spotify.com/album/2hYdO6AFjcJVEqzcSwPAhE) | 3:34 | 2023-08-17 | 2023-09-01 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Zaho de Sagazan au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
+  "description": "Eddy de Pretto au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 318013,
       "name": "Et un jour une femme",
       "url": "https://open.spotify.com/track/6vB93dZmNfYrNuk2vsmb7f"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 205365,
       "name": "Il y a",
       "url": "https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW"
@@ -788,6 +788,24 @@
       "duration_ms": 170026,
       "name": "Je cours (feat. Nuit Incolore)",
       "url": "https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG"
+    },
+    {
+      "album": {
+        "name": "Je m'en fous",
+        "url": "https://open.spotify.com/album/2HiMpX3S30PigSeVi7YH9A"
+      },
+      "artists": [
+        {
+          "name": "Lisa Pariente",
+          "url": "https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151066,
+      "name": "Je m'en fous",
+      "url": "https://open.spotify.com/track/74ljmdHbvY25QxR9NyAF4O"
     },
     {
       "album": {
@@ -929,6 +947,24 @@
     },
     {
       "album": {
+        "name": "A.M.O.U.R",
+        "url": "https://open.spotify.com/album/3LwsjIHgP08344cotAfY0N"
+      },
+      "artists": [
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262092,
+      "name": "Juste une chanson",
+      "url": "https://open.spotify.com/track/7vOYObP8Svk2Hthv9J8gsq"
+    },
+    {
+      "album": {
         "name": "C'est dr\u00f4le la vie",
         "url": "https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD"
       },
@@ -1060,6 +1096,24 @@
       "duration_ms": 182280,
       "name": "Le bruit du silence",
       "url": "https://open.spotify.com/track/063IwEdb1LaITJk0LOP0h9"
+    },
+    {
+      "album": {
+        "name": "Le chant est libre",
+        "url": "https://open.spotify.com/album/0oc0MJZSiphw6KpY9KgKum"
+      },
+      "artists": [
+        {
+          "name": "Patrick Fiori",
+          "url": "https://open.spotify.com/artist/18PkzXDURSTyGZTg9w66qq"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222353,
+      "name": "Le chant est libre",
+      "url": "https://open.spotify.com/track/75mPIntRqq7cjqnwOImjoA"
     },
     {
       "album": {
@@ -1754,7 +1808,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 156477,
       "name": "XS",
       "url": "https://open.spotify.com/track/08Jrszz3ir62gPhy9wfU4i"

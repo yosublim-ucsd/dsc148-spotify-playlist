@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 
 > Digging deep into the history of 10s pop: Cover: Ariana Grande.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,864 likes - 400 songs - 1 day 0 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,921 likes - 400 songs - 1 day 0 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 | 399 | [Explosions](https://open.spotify.com/track/2AMEPKeicePOewTaGLYqec) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon](https://open.spotify.com/album/4754Cgv1sdfwTpdVX83xAC) | 4:03 |
 | 400 | [Did It for the Fame](https://open.spotify.com/track/48SDCCacrI1hM1wImM0IZF) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Homeward Bound](https://open.spotify.com/album/4dnV2SIeaxSpNqNY2TC9QZ) | 3:30 |
 
-Snapshot ID: `MCxmZDA0YmQ2M2U2NzFlMzlkMGNhOGFkY2VhMWU0MjQ4MWYyOGRkMzQy`
+Snapshot ID: `MCxmYzZjNTg3Zjg1NDZkMDc4Yjg3MDM3YWIxODkwZmMxNDVhNDdjMjRi`

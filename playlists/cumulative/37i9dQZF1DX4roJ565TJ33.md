@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-178 songs - 13 hr 51 min
+179 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Gamma](https://open.spotify.com/track/4SMsEJZnh1cNLhQ0SewYkK) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [HOME.S.](https://open.spotify.com/album/1GgqGyaOFzCy80a0kDXVmt) | 6:08 | 2022-11-17 |  |
 | [Gnossienne](https://open.spotify.com/track/4DdXAgQsfHAnS7lmdS0j7L) | [Adam Forkelid](https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Carl Mörner Ringström](https://open.spotify.com/artist/69e8RvFXfQnels113EADzc), [Daniel Fredriksson](https://open.spotify.com/artist/7hKJYQtmuy2g7QAp5dmTle) | [1st Movement](https://open.spotify.com/album/3GQELIw2FFQmOcW0hRBTx1) | 9:19 | 2021-11-08 |  |
 | [Hallonsommar](https://open.spotify.com/track/6d28xWKGgk9il20hrmclFy) | [Anna\. Luca](https://open.spotify.com/artist/3p3SDqItDVbc4VKR4LTQoT) | [Hallonsommar](https://open.spotify.com/album/48LBJhxQ126O5o1WKlhOFT) | 3:45 | 2021-11-08 |  |
+| [Hands Off](https://open.spotify.com/track/2qu8K7kFsLe19yUCVcWfna) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Hands Off](https://open.spotify.com/album/7fRrrDob3OiR8Q8O4IFpFy) | 4:23 | 2024-02-02 |  |
 | [Hard to say Goodbye](https://open.spotify.com/track/3whSnQldx9s3CCiggyvVxk) | [Filip Jers](https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl), [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [In the Spirit of Toots](https://open.spotify.com/album/3Yy4WuCa8UYTRNmTrcMoR0) | 4:01 | 2023-05-04 |  |
 | [Harmoni](https://open.spotify.com/track/4r47urHb2MTcLWeL3wh1lj) | [Axel Mårdsjö](https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD) | [Harmoni](https://open.spotify.com/album/1HQPbovE8OL79mqwkIymcc) | 3:54 | 2023-04-27 |  |
 | [Have a Day](https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Have a Day](https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k) | 6:23 | 2022-04-21 | 2023-09-16 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 393992,
+  "2024-02-02": 393950,
   "date_first_scraped": "2021-12-21",
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
   "name": "All Funked Up",
@@ -3918,7 +3918,7 @@
     },
     {
       "album": {
-        "name": "Up Is Just A Place (Xtended Mix feat. Fred Wesley)",
+        "name": "Up Is Just A Place (Richie Stevens Xtended Mix feat. Fred Wesley)",
         "url": "https://open.spotify.com/album/0e8IootF0vFHJzuOszLEot"
       },
       "artists": [
@@ -3953,13 +3953,17 @@
         {
           "name": "Fred Wesley",
           "url": "https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam"
+        },
+        {
+          "name": "Richie Stevens",
+          "url": "https://open.spotify.com/artist/0EZnKWoAW1x51x8STsHhsl"
         }
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 305454,
-      "name": "Up Is Just A Place (Xtended Mix feat. Fred Wesley)",
+      "name": "Up Is Just A Place (Richie Stevens Xtended Mix feat. Fred Wesley)",
       "url": "https://open.spotify.com/track/2X1jifAuCUkeIiidlRDxFl"
     },
     {

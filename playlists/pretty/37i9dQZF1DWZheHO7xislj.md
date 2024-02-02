@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 
 > Classic and new soul music for the perfect dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,584 likes - 200 songs - 12 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,589 likes - 200 songs - 12 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 | 199 | [The Family](https://open.spotify.com/track/14wpG5eRZwU73l6TYrvgkT) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Baltimore](https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS) | 4:58 |
 | 200 | [Space of You](https://open.spotify.com/track/3gkYWg3IFAWmRrXVr0kMh0) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Elle](https://open.spotify.com/album/2J3eJIHwv0u4SkFO81F3Gf) | 3:50 |
 
-Snapshot ID: `MCwzZDgwYTlhN2IyM2JlNTFkOTUwMDc5ZTUwNzNhZGQ5MzYyYzQxMzlm`
+Snapshot ID: `MCxiZjJjYTM5OWVmOTRmMjVjYmRiOGM2ZjJiMDBmZmM2MmMxNDAxZGM1`

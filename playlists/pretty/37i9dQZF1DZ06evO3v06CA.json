@@ -1,15 +1,15 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 190776,
+  "num_followers": 190793,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0NDUwNTQsMDAwMDAwMDBlMjNkYjI3OWRlZDAzNGI3MDNkMzUwMDJhNDFkYzI1MA==",
+  "snapshot_id": "Mjg0NDY1MTMsMDAwMDAwMDAwMGRhOTEzMTYwOWZjODlmYTY3OTc1ZjI3NTdkOWQ2Yg==",
   "tracks": [
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Waylon & Willie",
         "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/7jWbXvrgdbkajU8L28ahn5"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Unleashed",
         "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Always On My Mind",
         "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Ol' Waylon",
         "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
@@ -117,7 +117,23 @@
       "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
+      "album": {
+        "name": "Red Headed Stranger",
+        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "Blue Eyes Crying In the Rain",
+      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
+    },
+    {
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Willie Nelson American Outlaw (Live)",
         "url": "https://open.spotify.com/album/5heTM7q5ly9IPwJIFSbKLp"
@@ -233,23 +249,7 @@
       "url": "https://open.spotify.com/track/5iis9J2sptrUy0VIpFVIg1"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
-      "album": {
-        "name": "Red Headed Stranger",
-        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "Blue Eyes Crying In the Rain",
-      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
-    },
-    {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Highwayman 2",
         "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/4REjaHRPmVb7btssqChJSy"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Willie Nelson The Collection",
         "url": "https://open.spotify.com/album/4QQfWSR8uMbTye3EjCAea2"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/2GyH5rvdnfkjzsTFaWrrov"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "The Essential Merle Haggard: The Epic Years",
         "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "On The Road Again (Live)",
         "url": "https://open.spotify.com/album/6Cs43kWsaHLDRUcYMYqcc0"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/0vcJzE2LuNY9aoq2hdMjHZ"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Highwayman 2",
         "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/6ivUoajqXRNVIyEGhRkucw"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/3ST1SVHTxxiGodhUeASN3h"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "1100 Bel Air Place",
         "url": "https://open.spotify.com/album/472BgcjV7Cp8526Nhp8YVn"
@@ -517,39 +517,7 @@
       "url": "https://open.spotify.com/track/498EPEgZQ1jDoYHYpvF68F"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
-      "album": {
-        "name": "Highwayman",
-        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 167213,
-      "name": "Big River",
-      "url": "https://open.spotify.com/track/1ip07xbQWgehduEDY6j8r8"
-    },
-    {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Friendship",
         "url": "https://open.spotify.com/album/4tgLQ8VwHXVBkRi3beX95g"
@@ -569,59 +537,7 @@
       "url": "https://open.spotify.com/track/51EKPuV1uAWryjNMqZLtgJ"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
-      "album": {
-        "name": "American Classic",
-        "url": "https://open.spotify.com/album/1tUvHnprAPtpCVmwA1B5WI"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 261706,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/13wnRucX2HNMXfYZWz070v"
-    },
-    {
-      "added_at": "2024-01-31 12:14:13",
-      "album": {
-        "name": "Live - American Outlaws",
-        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 147453,
-      "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys - Live at Nassau Coliseum, Uniondale, NY - March 1990",
-      "url": "https://open.spotify.com/track/4yxlMScRJzhghqmccPhgQP"
-    },
-    {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
@@ -653,7 +569,59 @@
       "url": "https://open.spotify.com/track/3Q3R4fUAI7Lz1PEowFjK11"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
+      "album": {
+        "name": "American Classic",
+        "url": "https://open.spotify.com/album/1tUvHnprAPtpCVmwA1B5WI"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 261706,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/13wnRucX2HNMXfYZWz070v"
+    },
+    {
+      "added_at": "2024-02-01 12:33:41",
+      "album": {
+        "name": "Live - American Outlaws",
+        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 147453,
+      "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "url": "https://open.spotify.com/track/4yxlMScRJzhghqmccPhgQP"
+    },
+    {
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Shotgun Willie",
         "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
@@ -669,7 +637,7 @@
       "url": "https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "That's What Makes the World Go Around",
         "url": "https://open.spotify.com/album/0WJUACzppmRQemrlwap45e"
@@ -689,7 +657,7 @@
       "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
@@ -709,7 +677,7 @@
       "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Highwayman 2",
         "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
@@ -741,7 +709,7 @@
       "url": "https://open.spotify.com/track/6AEPHlvR4jgwXe2J0vM1Sl"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Fire & Brimstone",
         "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
@@ -769,7 +737,7 @@
       "url": "https://open.spotify.com/track/39TYRr1lPpurfYPXzsOiBV"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "A Country Boy Can Survive (Box Set)",
         "url": "https://open.spotify.com/album/2mUqVFSr5l4W2Hpm8t3Gfm"
@@ -797,7 +765,7 @@
       "url": "https://open.spotify.com/track/4raGevWiW8i1gactXulebp"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
@@ -817,7 +785,7 @@
       "url": "https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "California Sober (feat. Willie Nelson)",
         "url": "https://open.spotify.com/album/0mTOUvkezKot3JI1Cd9iDP"
@@ -837,7 +805,7 @@
       "url": "https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
@@ -869,7 +837,7 @@
       "url": "https://open.spotify.com/track/6FaNaSx1Z2WwdQIeqePjto"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "To All The Girls...",
         "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
@@ -889,7 +857,7 @@
       "url": "https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
@@ -921,7 +889,7 @@
       "url": "https://open.spotify.com/track/2zfK1yLW1HzHGbmYx6X9F8"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "City Of New Orleans",
         "url": "https://open.spotify.com/album/7sZ5lfnlyqmnlcInnKf3o3"
@@ -937,7 +905,7 @@
       "url": "https://open.spotify.com/track/15qBdyeOsal1QJvB3ysW9g"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
@@ -953,7 +921,7 @@
       "url": "https://open.spotify.com/track/166Dyvfibu4SOygA4vub85"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Waylon & Willie",
         "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
@@ -973,7 +941,7 @@
       "url": "https://open.spotify.com/track/1tmCPGkgKKurSN1onKcaJt"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
@@ -989,7 +957,7 @@
       "url": "https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
@@ -1021,7 +989,7 @@
       "url": "https://open.spotify.com/track/0Hb9GMc1lWt8FTnBCzELtr"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Highwayman 2",
         "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
@@ -1053,7 +1021,7 @@
       "url": "https://open.spotify.com/track/7pcpTlDSjqceuUHWqFiMLf"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "The Ballad of Dood & Juanita",
         "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
@@ -1073,7 +1041,7 @@
       "url": "https://open.spotify.com/track/0Vtik6x9dLUPNoyIoJZm9I"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Okie From Muskogee (Live)",
         "url": "https://open.spotify.com/album/2rwFK8bxHwqjIJO3he8Mc6"
@@ -1201,7 +1169,7 @@
       "url": "https://open.spotify.com/track/529x2bhs2op70bGqGOoLk4"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
@@ -1217,7 +1185,7 @@
       "url": "https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/0CJrzaavg6xQaIKolWD83H"
@@ -1237,7 +1205,7 @@
       "url": "https://open.spotify.com/track/34jUlISPpEYnJqzPc7B7Sh"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "French Touch",
         "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
@@ -1257,7 +1225,7 @@
       "url": "https://open.spotify.com/track/7INR1BCI0tZMtiBitUm2WN"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Shotgun Willie",
         "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
@@ -1273,7 +1241,7 @@
       "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "The Essential Willie Nelson",
         "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
@@ -1289,7 +1257,7 @@
       "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "The Sound In Your Mind",
         "url": "https://open.spotify.com/album/3d5AwnJrZpuP4iX59NUBwC"
@@ -1305,7 +1273,7 @@
       "url": "https://open.spotify.com/track/1s2Wyk3QM2qZ9J863GFd3n"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
@@ -1321,7 +1289,7 @@
       "url": "https://open.spotify.com/track/7iyd0aOJ2J54hENgLeGxCk"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
@@ -1353,7 +1321,7 @@
       "url": "https://open.spotify.com/track/7ATWHFSb8bWHTFyQ30t1Qf"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "My Very Special Guests",
         "url": "https://open.spotify.com/album/3am7sXkWVQ9mpldg5KtrUm"
@@ -1373,7 +1341,7 @@
       "url": "https://open.spotify.com/track/2uUhWqoiyp1wKJC81vKaJ4"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
@@ -1401,7 +1369,27 @@
       "url": "https://open.spotify.com/track/4FphdrrHaX3vXpT1eOrTHR"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
+      "album": {
+        "name": "Tuskegee (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 270573,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt"
+    },
+    {
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "Yesterday's Wine",
         "url": "https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf"
@@ -1417,7 +1405,7 @@
       "url": "https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO"
     },
     {
-      "added_at": "2024-01-31 12:14:13",
+      "added_at": "2024-02-01 12:33:41",
       "album": {
         "name": "And Then I Wrote",
         "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"

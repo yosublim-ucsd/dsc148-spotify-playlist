@@ -5810,10 +5810,36 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 151111,
       "name": "Same Song",
       "url": "https://open.spotify.com/track/0XcJgUBTAm81tqB7SxafPS"
+    },
+    {
+      "album": {
+        "name": "Same Song",
+        "url": "https://open.spotify.com/album/0HLt7MDAA0mZLuLktz5npe"
+      },
+      "artists": [
+        {
+          "name": "falcxne",
+          "url": "https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz"
+        },
+        {
+          "name": "ev\u00e4n",
+          "url": "https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G"
+        },
+        {
+          "name": "Relyae",
+          "url": "https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151111,
+      "name": "Same Song",
+      "url": "https://open.spotify.com/track/6xBanShy5nCqzDj8Rk8QmJ"
     },
     {
       "album": {

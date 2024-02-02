@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 743261,
+  "2024-02-02": 743162,
   "date_first_scraped": "2020-12-08",
   "description": "Melt into the Atmospheric Calm with these mellow beats and ambient tones.",
   "name": "Atmospheric Calm",
@@ -1817,7 +1817,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 153372,
       "name": "Gratefulness",
       "url": "https://open.spotify.com/track/40qeYynobNzqF9HfPkSFR3"
@@ -3413,7 +3413,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 189230,
       "name": "Response",
       "url": "https://open.spotify.com/track/0RxznT4d9yj4Uc70jYC95k"

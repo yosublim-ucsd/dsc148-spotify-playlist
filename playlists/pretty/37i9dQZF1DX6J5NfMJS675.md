@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,383,350 likes - 60 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,383,792 likes - 60 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 59 | [Time](https://open.spotify.com/track/1BEWNSB8KuQFYsFRUQ3LTF) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb), [Rachel Row](https://open.spotify.com/artist/3E0eyD6r9OkoOxyAOaA7hH) | [Time](https://open.spotify.com/album/5DdhTOq4eGizZus6MJFfO8) | 4:11 |
 | 60 | [Aenaa](https://open.spotify.com/track/0prIS5YgoC27IVoXmd4hLm) | [Die Arkitekt](https://open.spotify.com/artist/22sLqzalP9nWSfVtVxtJ5k) | [Aenaa](https://open.spotify.com/album/6hJtXIHhmY5jiQEfL9m1Sh) | 4:14 |
 
-Snapshot ID: `MCwwMmJkMGRjM2U0NTk0M2I4YjMxMTI4M2M2NzRhOTcxNDQyYjlhMGI1`
+Snapshot ID: `MCxhMTA2Y2ExNGU3MzkzZDkxOGFlZDQ2MGRjM2I1YWM2ZWU1MjY1OWJh`

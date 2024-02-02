@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 71130,
+  "2024-02-02": 71072,
   "date_first_scraped": "2022-06-10",
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
   "name": "Domino Sound System",
@@ -137,6 +137,24 @@
       "duration_ms": 179204,
       "name": "A Different View",
       "url": "https://open.spotify.com/track/15rMAd95cySgR8jgLgrlXI"
+    },
+    {
+      "album": {
+        "name": "A Friend By The Lake",
+        "url": "https://open.spotify.com/album/1yxpwsUCeQGVoyZE4Ww9j8"
+      },
+      "artists": [
+        {
+          "name": "Horsebeach",
+          "url": "https://open.spotify.com/artist/1z0OEnD3fL4Zwyud1f1CNL"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304960,
+      "name": "A Friend By The Lake",
+      "url": "https://open.spotify.com/track/368lk9d9kZ7eXp6gU6WCnE"
     },
     {
       "album": {
@@ -1507,7 +1525,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 92233,
       "name": "Black Tuesday",
       "url": "https://open.spotify.com/track/5VBp2Lwui2pQ09NoEpQQf2"
@@ -2456,6 +2474,24 @@
     },
     {
       "album": {
+        "name": "Come On Baby, Dig!",
+        "url": "https://open.spotify.com/album/7j9nknHlYjFovpiEBXKPla"
+      },
+      "artists": [
+        {
+          "name": "Blue Bendy",
+          "url": "https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169374,
+      "name": "Come On Baby, Dig!",
+      "url": "https://open.spotify.com/track/1cH5V204hnjVfsfJgUJP8B"
+    },
+    {
+      "album": {
         "name": "Common Sense",
         "url": "https://open.spotify.com/album/4ubVGpApB6SfHToZDKA05D"
       },
@@ -3233,10 +3269,28 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 101730,
       "name": "Disgust",
       "url": "https://open.spotify.com/track/2QpA6MWJNEE4PIVUwZomBk"
+    },
+    {
+      "album": {
+        "name": "Great Doubt",
+        "url": "https://open.spotify.com/album/0X5xnCnMafZT1sRIHnzAwP"
+      },
+      "artists": [
+        {
+          "name": "Astrid Sonne",
+          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201967,
+      "name": "Do you wanna",
+      "url": "https://open.spotify.com/track/6zlAetX5aprkyBGdUu0sKd"
     },
     {
       "album": {
@@ -5379,10 +5433,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 227200,
       "name": "Heading For The Door",
       "url": "https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/0wVe8xEptVO6v12vsMcDQa"
+      },
+      "artists": [
+        {
+          "name": "BUFFEE",
+          "url": "https://open.spotify.com/artist/375sZCoa1ojgt8tICkADmd"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224759,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5pzKnfOfgMNaoynKHqOWHT"
     },
     {
       "album": {
@@ -6211,7 +6283,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 187282,
       "name": "I'm Sorry (ft. Lous and The Yakuza)",
       "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
@@ -6560,6 +6632,24 @@
     },
     {
       "album": {
+        "name": "Nico Paulo",
+        "url": "https://open.spotify.com/album/4hxJYEOKb1NGphLaJb0QuN"
+      },
+      "artists": [
+        {
+          "name": "Nico Paulo",
+          "url": "https://open.spotify.com/artist/5qmzeW1wvVq0c2lFK1MieD"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107566,
+      "name": "Intro, Dream",
+      "url": "https://open.spotify.com/track/6h3eqlgYSMVbxQvNsfIwN3"
+    },
+    {
+      "album": {
         "name": "Invisible Darlings",
         "url": "https://open.spotify.com/album/5XXdFzDqMNPhC1uJGxrKWI"
       },
@@ -6865,7 +6955,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 233977,
       "name": "It's You - CAPYAC Remix",
       "url": "https://open.spotify.com/track/4Ck1cHb2gXGgzYbcH76nKp"
@@ -6977,6 +7067,24 @@
       "duration_ms": 228898,
       "name": "Jelsy",
       "url": "https://open.spotify.com/track/0a01pZuz12ELhxMyzYuQoF"
+    },
+    {
+      "album": {
+        "name": "What an enormous room",
+        "url": "https://open.spotify.com/album/2NdMVSjrgxqhELnvW1Odje"
+      },
+      "artists": [
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278942,
+      "name": "Jerk into joy",
+      "url": "https://open.spotify.com/track/4qrtb8xstngeZdrNjXV7fV"
     },
     {
       "album": {
@@ -9669,9 +9777,35 @@
           "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
         }
       ],
-      "date_added": "2024-01-29",
+      "date_added": "2024-01-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 422034,
+      "name": "Palace In My Head - Fred Falke Extended Club Remix",
+      "url": "https://open.spotify.com/track/1rIgvGq96hPE24YXIeIGpU"
+    },
+    {
+      "album": {
+        "name": "Palace In My Head (Fred Falke Remix)",
+        "url": "https://open.spotify.com/album/0KmmDNX9lSTwfCoR5ahkvU"
+      },
+      "artists": [
+        {
+          "name": "Jaakko Eino Kalevi",
+          "url": "https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3"
+        },
+        {
+          "name": "Alma Jodorowsky",
+          "url": "https://open.spotify.com/artist/4DBszooKyAkibrGnhMxKqr"
+        },
+        {
+          "name": "Fred Falke",
+          "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-01",
       "duration_ms": 310946,
       "name": "Palace In My Head - Fred Falke Remix",
       "url": "https://open.spotify.com/track/6NLXQtGnssNEpZMa35juxf"
@@ -11007,6 +11141,24 @@
       "duration_ms": 289453,
       "name": "She Belongs To Me - Live at the Royal Albert Hall",
       "url": "https://open.spotify.com/track/5SWH0cj1CS3JNinFHiRMjo"
+    },
+    {
+      "album": {
+        "name": "Shirl's Ghost",
+        "url": "https://open.spotify.com/album/6xi6ytd4uaTAREdZI6repe"
+      },
+      "artists": [
+        {
+          "name": "Michael Head & The Red Elastic Band",
+          "url": "https://open.spotify.com/artist/3WZM0y570VpJ2K4qTN4Pd1"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217127,
+      "name": "Shirl's Ghost",
+      "url": "https://open.spotify.com/track/4XTmVXeU3OxSQPeVVbd8K7"
     },
     {
       "album": {
@@ -12495,7 +12647,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 176583,
       "name": "The Little Drummer Boy",
       "url": "https://open.spotify.com/track/3PS3si74boOaOC6zxf858B"
@@ -12571,6 +12723,24 @@
       "duration_ms": 228618,
       "name": "The Needle",
       "url": "https://open.spotify.com/track/47fVWmk4VKwcB6h0ybsxIZ"
+    },
+    {
+      "album": {
+        "name": "The Path Less Travelled",
+        "url": "https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224303,
+      "name": "The Path Less Travelled",
+      "url": "https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe"
     },
     {
       "album": {
@@ -13863,7 +14033,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 206546,
       "name": "Water Underground",
       "url": "https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR"
@@ -13993,7 +14163,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 169111,
       "name": "Well of Roses",
       "url": "https://open.spotify.com/track/1h6yRZr7I5pQY0j5PNKmXg"
@@ -14305,7 +14475,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 392664,
       "name": "Wolves - Mogwai Mix",
       "url": "https://open.spotify.com/track/5rljsyShN8xio8yd5U9hoq"
@@ -14323,7 +14493,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 161500,
       "name": "Women & Children",
       "url": "https://open.spotify.com/track/7kEXTNPacq8h5Ox6viq9OZ"

@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 130908,
+  "num_followers": 130894,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTE0ZDQ1MDcyMWIzNGJhZDE0MjM1NWNlNWM0YTEyMzg5ZGJiM2Fi",
+  "snapshot_id": "MCwyNTQ5N2UxNDQ2ZTUyMjk2Mzk1OTUxNjBiYjI1NGQ5ZjUzNGQyMjUw",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Achados e Perdidos",
-        "url": "https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk"
-      },
-      "artists": [
-        {
-          "name": "Curumin",
-          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "Vem Menina",
-      "url": "https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Sem Nostalgia",
         "url": "https://open.spotify.com/album/3qosc8WvmeN2oMd7LWZ34K"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 214266,
       "name": "Amor em Jacum\u00e3",
       "url": "https://open.spotify.com/track/4DbtZtymMSyIoCY7P3mZU8"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Achados e Perdidos",
+        "url": "https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk"
+      },
+      "artists": [
+        {
+          "name": "Curumin",
+          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
+        }
+      ],
+      "duration_ms": 259040,
+      "name": "Vem Menina",
+      "url": "https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Para Dias Ruins",
-        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
+        "name": "Dan\u00e7a Entre Casais",
+        "url": "https://open.spotify.com/album/6dI3aSsEFqAP5GDjG70WvA"
       },
       "artists": [
         {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
         }
       ],
-      "duration_ms": 208279,
-      "name": "Alegria",
-      "url": "https://open.spotify.com/track/1SYDXvP1rahganh8t5plez"
+      "duration_ms": 232476,
+      "name": "Sonho Bossa Nova",
+      "url": "https://open.spotify.com/track/2TE7vDdfiipXdXCcU7IKox"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Dan\u00e7a Entre Casais",
-        "url": "https://open.spotify.com/album/6dI3aSsEFqAP5GDjG70WvA"
+        "name": "Para Dias Ruins",
+        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
       },
       "artists": [
         {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
         }
       ],
-      "duration_ms": 232476,
-      "name": "Sonho Bossa Nova",
-      "url": "https://open.spotify.com/track/2TE7vDdfiipXdXCcU7IKox"
+      "duration_ms": 208279,
+      "name": "Alegria",
+      "url": "https://open.spotify.com/track/1SYDXvP1rahganh8t5plez"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Juice of Mandarins",
-        "url": "https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY"
-      },
-      "artists": [
-        {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
-        }
-      ],
-      "duration_ms": 145609,
-      "name": "Juice of Mandarins",
-      "url": "https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Maris",
         "url": "https://open.spotify.com/album/2XwjNgH7Ft786K89P5Sc27"
       },
@@ -887,22 +871,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Flor de Laranjeira",
-        "url": "https://open.spotify.com/album/6oghWRjUCeWa8VMp9DA4tl"
+        "name": "Juice of Mandarins",
+        "url": "https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY"
       },
       "artists": [
         {
-          "name": "Dan Abranches",
-          "url": "https://open.spotify.com/artist/39OcL2HQfkltkdWwPAl3RC"
-        },
-        {
-          "name": "Gabriela Brown",
-          "url": "https://open.spotify.com/artist/7i0oKqLCG3UKrZi5Lh044f"
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
         }
       ],
-      "duration_ms": 210866,
-      "name": "N\u00f3",
-      "url": "https://open.spotify.com/track/5bl35Grj38IZo4VUvb0wuj"
+      "duration_ms": 145609,
+      "name": "Juice of Mandarins",
+      "url": "https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -923,6 +903,26 @@
       "duration_ms": 201878,
       "name": "Bossanova",
       "url": "https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Flor de Laranjeira",
+        "url": "https://open.spotify.com/album/6oghWRjUCeWa8VMp9DA4tl"
+      },
+      "artists": [
+        {
+          "name": "Dan Abranches",
+          "url": "https://open.spotify.com/artist/39OcL2HQfkltkdWwPAl3RC"
+        },
+        {
+          "name": "Gabriela Brown",
+          "url": "https://open.spotify.com/artist/7i0oKqLCG3UKrZi5Lh044f"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "N\u00f3",
+      "url": "https://open.spotify.com/track/5bl35Grj38IZo4VUvb0wuj"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Tom Jobim",
-        "url": "https://open.spotify.com/album/10g32N6XzlGiOQ79DvYbJO"
-      },
-      "artists": [
-        {
-          "name": "Edley INC.",
-          "url": "https://open.spotify.com/artist/4ugyOypb7Cflv7D72t80UE"
-        }
-      ],
-      "duration_ms": 248839,
-      "name": "Tom Jobim",
-      "url": "https://open.spotify.com/track/6BRjl1Pkk7zBUMnRwdnGOz"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Selva",
         "url": "https://open.spotify.com/album/5A3ELDQfpzdyD9lAkHmhg5"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 274537,
       "name": "Bossa Velha",
       "url": "https://open.spotify.com/track/6DKQ0FoOLV5UYmLZR3hmaJ"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Tom Jobim",
+        "url": "https://open.spotify.com/album/10g32N6XzlGiOQ79DvYbJO"
+      },
+      "artists": [
+        {
+          "name": "Edley INC.",
+          "url": "https://open.spotify.com/artist/4ugyOypb7Cflv7D72t80UE"
+        }
+      ],
+      "duration_ms": 248839,
+      "name": "Tom Jobim",
+      "url": "https://open.spotify.com/track/6BRjl1Pkk7zBUMnRwdnGOz"
     },
     {
       "added_at": "2023-06-23 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,457 likes - 150 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,471 likes - 150 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 149 | [Nuestro Amor](https://open.spotify.com/track/4sEqK8SeihEwDySmsf2Zed) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/0ZtKfpi3mUYi1T2n8SMoh5) | 3:40 |
 | 150 | [Lo Que Mas Quería](https://open.spotify.com/track/5owjrItInEpNGHrROUV9LQ) | [Carlos Manuel 'El Zafiro'](https://open.spotify.com/artist/4zonLJKAX1W7yrQZcGxRqo) | [Merengues Clásicos de los 80´s, Vol\. 2](https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE) | 4:23 |
 
-Snapshot ID: `MCxkNThiNGMyM2NiNjU2NWJjZWM1NjAwMzBkNDBkMzBiZWNlODZmYjZk`
+Snapshot ID: `MCw1YjAzOTIzNzUxMzg2NzFjYjZmMjJhYTJiZjlmMDViYWU5ZjUwMzhj`

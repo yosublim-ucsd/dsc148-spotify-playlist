@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Benjamín Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,496 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,464 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 99 | [Las Piedras](https://open.spotify.com/track/5FMyNDgr11zcBsxfilA005) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Las Piedras](https://open.spotify.com/album/0f502VlRJBXXIcu3q780yK) | 4:01 |
 | 100 | [Sin Fama ni Fortuna](https://open.spotify.com/track/0jL1naowZfg9x79IVmP9jf) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Épica](https://open.spotify.com/album/4nqQnsYw58gEOZeMWkQ6XV) | 3:14 |
 
-Snapshot ID: `MCw1NzU4ZmU2N2Y4M2ZiNmVkYjcwMGIzYTBmNmM5ODUwMjE3NWQzNTkw`
+Snapshot ID: `MCxkMWIwODQzZDI3MGIzMWZjMDI1OGY0MWQ4NWNkYzAyZGYxNmQ1MmVh`

@@ -1,12 +1,12 @@
 {
   "description": "A selection of the finest Hip-Hop tracks from the illest Arab Rappers. Cover: Abyusif",
-  "num_followers": 127441,
+  "num_followers": 127494,
   "original_name": "Arab Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmU2M2JmOTE4Mjk3MTdmMmRjOTk3MTRkMWYxNDM5NWI2NmNhN2Vk",
+  "snapshot_id": "MCw2ZjEzNmU1NzFhYWYyZGIwYjFkYzY0YmExNmU2MjMxMGU3YTM1OWQ5",
   "tracks": [
     {
       "added_at": "2024-01-31 04:57:19",
@@ -18,6 +18,10 @@
         {
           "name": "Abyusif",
           "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Dr. Mo3geza",
+          "url": "https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl"
         }
       ],
       "duration_ms": 140000,
@@ -251,22 +255,18 @@
     {
       "added_at": "2024-01-31 04:57:19",
       "album": {
-        "name": "Docteur (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig"
+        "name": "Fawda",
+        "url": "https://open.spotify.com/album/4wHsvjXysSTYAkVnT9hhAc"
       },
       "artists": [
         {
           "name": "Stormy",
           "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        },
-        {
-          "name": "Kartman",
-          "url": "https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg"
         }
       ],
-      "duration_ms": 196206,
-      "name": "Docteur - Spotify Singles",
-      "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
+      "duration_ms": 260000,
+      "name": "Fawda",
+      "url": "https://open.spotify.com/track/64icnQSqsWkz0d7oQeNlB9"
     },
     {
       "added_at": "2024-01-31 04:57:19",
@@ -391,18 +391,22 @@
     {
       "added_at": "2024-01-31 04:57:19",
       "album": {
-        "name": "Fawda",
-        "url": "https://open.spotify.com/album/4wHsvjXysSTYAkVnT9hhAc"
+        "name": "Docteur (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig"
       },
       "artists": [
         {
           "name": "Stormy",
           "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        },
+        {
+          "name": "Kartman",
+          "url": "https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Fawda",
-      "url": "https://open.spotify.com/track/64icnQSqsWkz0d7oQeNlB9"
+      "duration_ms": 196206,
+      "name": "Docteur - Spotify Singles",
+      "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
     },
     {
       "added_at": "2024-01-31 04:57:19",
@@ -567,6 +571,22 @@
     {
       "added_at": "2024-01-31 04:57:19",
       "album": {
+        "name": "Nemshy Men Hena",
+        "url": "https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "duration_ms": 186880,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2"
+    },
+    {
+      "added_at": "2024-01-31 04:57:19",
+      "album": {
         "name": "Fi Swat",
         "url": "https://open.spotify.com/album/5toT5zuJfqsK6Gm7MrC1ci"
       },
@@ -603,22 +623,6 @@
     {
       "added_at": "2024-01-31 04:57:19",
       "album": {
-        "name": "Gezira",
-        "url": "https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk"
-      },
-      "artists": [
-        {
-          "name": "Muhab",
-          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
-        }
-      ],
-      "duration_ms": 193743,
-      "name": "Gezira",
-      "url": "https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh"
-    },
-    {
-      "added_at": "2024-01-31 04:57:19",
-      "album": {
         "name": "SBITAR",
         "url": "https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp"
       },
@@ -635,18 +639,18 @@
     {
       "added_at": "2024-01-31 04:57:19",
       "album": {
-        "name": "Nemshy Men Hena",
-        "url": "https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK"
+        "name": "Gezira",
+        "url": "https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk"
       },
       "artists": [
         {
-          "name": "Abyusif",
-          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
         }
       ],
-      "duration_ms": 186880,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2"
+      "duration_ms": 193743,
+      "name": "Gezira",
+      "url": "https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh"
     },
     {
       "added_at": "2024-01-31 04:57:19",

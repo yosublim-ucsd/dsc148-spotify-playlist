@@ -1,12 +1,12 @@
 {
   "description": "Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses. Cover : Mehtab Ali Niazi",
-  "num_followers": 16764,
+  "num_followers": 16768,
   "original_name": "ECHO : Soulful Sitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTkxMDQ5MzQ4NTYzMjljZGQ2YzY1YTkxMDBlM2U0YWRiODU3MjRh",
+  "snapshot_id": "MCxlYWRkZmIwN2I0ZTBkMjkwMjk3Mzk3OTkzYmJlY2UzMDM2Y2EwODNm",
   "tracks": [
     {
       "added_at": "2023-08-18 00:33:02",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
+        "name": "Nada Yoga: Music of the Mystic",
+        "url": "https://open.spotify.com/album/2j2Fs9jZxDeDIQqvbqxyN9"
+      },
+      "artists": [
+        {
+          "name": "Ustad Usman Khan",
+          "url": "https://open.spotify.com/artist/3HywltOSu9HsE3gG7yulzq"
+        }
+      ],
+      "duration_ms": 543373,
+      "name": "Raga Shivaranjani (Yearning)",
+      "url": "https://open.spotify.com/track/0KIsFToKwuGkPALbFxatlE"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
         "name": "Inde Du Nord - North India : Raga Marwa Surbahar",
         "url": "https://open.spotify.com/album/745wcG6CErNyGb0v1pE1QP"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 278520,
       "name": "Lasya",
       "url": "https://open.spotify.com/track/5CuovYxxMDf0nrCTDdiddi"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
-        "name": "Nada Yoga: Music of the Mystic",
-        "url": "https://open.spotify.com/album/2j2Fs9jZxDeDIQqvbqxyN9"
-      },
-      "artists": [
-        {
-          "name": "Ustad Usman Khan",
-          "url": "https://open.spotify.com/artist/3HywltOSu9HsE3gG7yulzq"
-        }
-      ],
-      "duration_ms": 543373,
-      "name": "Raga Shivaranjani (Yearning)",
-      "url": "https://open.spotify.com/track/0KIsFToKwuGkPALbFxatlE"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -459,22 +459,18 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Instrumental India",
-        "url": "https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX"
+        "name": "Fusion Lounge",
+        "url": "https://open.spotify.com/album/7ivbfUFET5BZlp7j81s0Jg"
       },
       "artists": [
         {
-          "name": "Rais Khan",
-          "url": "https://open.spotify.com/artist/2Trh3HyOwLDl8pg6C264xK"
-        },
-        {
-          "name": "Sultan Khan",
-          "url": "https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY"
+          "name": "Suhel Rais Khan, Ustad Sultan Khan",
+          "url": "https://open.spotify.com/artist/5tGcEIgOrXtCk3KXejLTL1"
         }
       ],
-      "duration_ms": 260013,
-      "name": "Yaman Kalyan",
-      "url": "https://open.spotify.com/track/4gUjvoi9Xt9uJTMfdBBdz4"
+      "duration_ms": 258178,
+      "name": "Sitar Symphony - Original",
+      "url": "https://open.spotify.com/track/5qRS33ZGCIIrbf8tRzpy3a"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -495,18 +491,22 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Fusion Lounge",
-        "url": "https://open.spotify.com/album/7ivbfUFET5BZlp7j81s0Jg"
+        "name": "Instrumental India",
+        "url": "https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX"
       },
       "artists": [
         {
-          "name": "Suhel Rais Khan, Ustad Sultan Khan",
-          "url": "https://open.spotify.com/artist/5tGcEIgOrXtCk3KXejLTL1"
+          "name": "Rais Khan",
+          "url": "https://open.spotify.com/artist/2Trh3HyOwLDl8pg6C264xK"
+        },
+        {
+          "name": "Sultan Khan",
+          "url": "https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY"
         }
       ],
-      "duration_ms": 258178,
-      "name": "Sitar Symphony - Original",
-      "url": "https://open.spotify.com/track/5qRS33ZGCIIrbf8tRzpy3a"
+      "duration_ms": 260013,
+      "name": "Yaman Kalyan",
+      "url": "https://open.spotify.com/track/4gUjvoi9Xt9uJTMfdBBdz4"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Raga Khan",
-        "url": "https://open.spotify.com/album/6WtSHMIpnsc3MNAgiyQ4N4"
+        "name": "Mudra",
+        "url": "https://open.spotify.com/album/63FzmTnR1MGxv62LFbWyGD"
       },
       "artists": [
         {
-          "name": "Nishat Khan",
-          "url": "https://open.spotify.com/artist/44XDC1eZWRjnCvpiAFSRQm"
+          "name": "Prem Joshua",
+          "url": "https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1"
         }
       ],
-      "duration_ms": 531453,
-      "name": "Raga Gaoti",
-      "url": "https://open.spotify.com/track/4slENTEDQUIeyeSU8OnZsE"
+      "duration_ms": 485773,
+      "name": "Saffron Dreams (The Night Mudra)",
+      "url": "https://open.spotify.com/track/0Tr9JSBOWMlliyAzw0ATq5"
     },
     {
       "added_at": "2023-08-18 14:11:07",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
+        "name": "Raga Khan",
+        "url": "https://open.spotify.com/album/6WtSHMIpnsc3MNAgiyQ4N4"
+      },
+      "artists": [
+        {
+          "name": "Nishat Khan",
+          "url": "https://open.spotify.com/artist/44XDC1eZWRjnCvpiAFSRQm"
+        }
+      ],
+      "duration_ms": 531453,
+      "name": "Raga Gaoti",
+      "url": "https://open.spotify.com/track/4slENTEDQUIeyeSU8OnZsE"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
         "name": "Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music",
         "url": "https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 372000,
       "name": "Best Sitar Music",
       "url": "https://open.spotify.com/track/4RvwQkxmTl1SjNH1WXWFgS"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
-        "name": "Mudra",
-        "url": "https://open.spotify.com/album/63FzmTnR1MGxv62LFbWyGD"
-      },
-      "artists": [
-        {
-          "name": "Prem Joshua",
-          "url": "https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1"
-        }
-      ],
-      "duration_ms": 485773,
-      "name": "Saffron Dreams (The Night Mudra)",
-      "url": "https://open.spotify.com/track/0Tr9JSBOWMlliyAzw0ATq5"
     },
     {
       "added_at": "2023-08-23 08:05:52",

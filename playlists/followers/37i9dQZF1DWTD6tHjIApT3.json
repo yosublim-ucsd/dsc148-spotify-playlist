@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 107713,
+  "2024-02-02": 107769,
   "date_first_scraped": "2022-05-30",
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover:milet",
   "name": "Women's Voice",
@@ -9931,7 +9931,7 @@
     {
       "album": {
         "name": "iris / pray for peace",
-        "url": "https://open.spotify.com/album/78Hkgus8PNLbBePiCRJtyA"
+        "url": "https://open.spotify.com/album/4SxRwAlnfZVpPF7DEVrvtZ"
       },
       "artists": [
         {
@@ -9950,6 +9950,32 @@
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 207967,
+      "name": "iris",
+      "url": "https://open.spotify.com/track/63mR8YjEoMajP2hlQMgCUu"
+    },
+    {
+      "album": {
+        "name": "iris / pray for peace",
+        "url": "https://open.spotify.com/album/78Hkgus8PNLbBePiCRJtyA"
+      },
+      "artists": [
+        {
+          "name": "Ami Kusakari",
+          "url": "https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn"
+        },
+        {
+          "name": "mabanua",
+          "url": "https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP"
+        },
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-01",
       "duration_ms": 207967,
       "name": "iris",
       "url": "https://open.spotify.com/track/7JO1DK6KectzNNWGbZPBNW"
@@ -13802,6 +13828,24 @@
     },
     {
       "album": {
+        "name": "Namida no kuni",
+        "url": "https://open.spotify.com/album/2Wv8DIQeQQy8ri7NosTaRN"
+      },
+      "artists": [
+        {
+          "name": "Kayoko Yoshizawa",
+          "url": "https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234643,
+      "name": "Namida no kuni",
+      "url": "https://open.spotify.com/track/4CEiimOyFU2W6oo0m1R7ge"
+    },
+    {
+      "album": {
         "name": "Nanairo Colorful",
         "url": "https://open.spotify.com/album/357Rk5z5HzJ6HIb12RgZYq"
       },
@@ -13839,6 +13883,24 @@
       "duration_ms": 327741,
       "name": "NATSU NO HAMON",
       "url": "https://open.spotify.com/track/7eukm0qtr0iBsVl3R9ktqr"
+    },
+    {
+      "album": {
+        "name": "Nausica\u00e4 of the Valley of the Wind (2024 ver.)",
+        "url": "https://open.spotify.com/album/4mDDWOT4vrlUJ9ZE8hopTf"
+      },
+      "artists": [
+        {
+          "name": "Narumi Yasuda",
+          "url": "https://open.spotify.com/artist/38fnw8iZ8LYt1Es6gIId0I"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325185,
+      "name": "Nausica\u00e4 of the Valley of the Wind - 2024 ver.",
+      "url": "https://open.spotify.com/track/3OwTCA0MIrO6EvQJOUar32"
     },
     {
       "album": {
@@ -23612,6 +23674,24 @@
     },
     {
       "album": {
+        "name": "Yotei",
+        "url": "https://open.spotify.com/album/2FFYUv7eZ1pGgmwbVAGMFQ"
+      },
+      "artists": [
+        {
+          "name": "satomoka",
+          "url": "https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264616,
+      "name": "Yotei",
+      "url": "https://open.spotify.com/track/0sUt0usKLBjhcNjtetMU3g"
+    },
+    {
+      "album": {
         "name": "\u3042\u306a\u305f\u304c\u3060\u308c\u306e\u3053\u3069\u3082\u3067\u3042\u308d\u3046\u3068",
         "url": "https://open.spotify.com/album/6lAU8ES9faDFTk9JCd6ttg"
       },
@@ -31439,7 +31519,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 264616,
       "name": "\u4e88\u5b9a",
       "url": "https://open.spotify.com/track/65NJxK0BnrzcxHVOBEkyZN"
@@ -36935,7 +37015,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 234643,
       "name": "\u6d99\u306e\u56fd",
       "url": "https://open.spotify.com/track/3pI3svihigv3zIZpNhc5OD"
@@ -40373,7 +40453,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 325185,
       "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab - 2024 ver.",
       "url": "https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2"

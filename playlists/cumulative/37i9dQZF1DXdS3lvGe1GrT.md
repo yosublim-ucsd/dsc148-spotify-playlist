@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Sarah Julia \| Visual Artist: Bailey Elder
 
-1,054 songs - 2 day 15 hr 8 min
+1,055 songs - 2 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -832,6 +832,7 @@
 | [Slips Away](https://open.spotify.com/track/6zAb1Ys5eS8Rmw27K17pIf) | [Skin & Bones](https://open.spotify.com/artist/4AWfRAqqxXYzSjjvpUVhm1) | [Slips Away](https://open.spotify.com/album/7sS91iOAoy5EKAGiTRap8P) | 3:40 | 2022-07-20 | 2022-10-20 |
 | [Slow It Down Cowboy](https://open.spotify.com/track/1cTgJD1tvxXTmxJm4OjHj1) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Slow It Down Cowboy](https://open.spotify.com/album/2c0hi3ox1DBdF1u6OXGS6e) | 3:41 | 2023-03-01 | 2024-01-11 |
 | [Slow Motion](https://open.spotify.com/track/5Oo2adPyAEyyiUgVUinvUV) | [Lily Lyons](https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX) | [Slow Motion](https://open.spotify.com/album/4gh52dSbYMWshTBwsB4lSj) | 3:05 | 2023-01-11 | 2023-02-16 |
+| [Smile for Your Mother](https://open.spotify.com/track/1OjdMf1TraTrC1Ds11bJVE) | [Cristina Kaminis](https://open.spotify.com/artist/3gDgmsZ0EVomGqxUnTdGTO), [Anna Moss](https://open.spotify.com/artist/79EqLrXbrtaK3sNgSQYoRE), [Handmade Moments](https://open.spotify.com/artist/1dyhZOoZUFWMdK2U0QvMnO), [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Maria Cardona](https://open.spotify.com/artist/53cUAXXYDyfoAG0eSRVLbw) | [Smile for Your Mother](https://open.spotify.com/album/05FPrF8KIahU8H5tR5F70S) | 4:59 | 2024-02-02 |  |
 | [Smoke](https://open.spotify.com/track/2z8nCdpylee7dRldAs2AVR) | [Moreton](https://open.spotify.com/artist/402grluFMEdAXNHu3xldZ1) | [The Dog Years](https://open.spotify.com/album/5MAKiRCJ8Q9YO2pEROasGX) | 4:31 | 2023-05-31 | 2023-07-27 |
 | [Snow in the Desert](https://open.spotify.com/track/2Wq1irGC7IdIXsODW3HBR4) | [Virginia Man](https://open.spotify.com/artist/2SHS7BBj7Rv0UjsWwlkFEt) | [Snow in the Desert](https://open.spotify.com/album/2zjBRvcmaYdNzbe4LQle1L) | 5:24 | 2024-01-10 |  |
 | [So Long](https://open.spotify.com/track/3lqyDhYF2LySUAxc1PFlsN) | [Lo Noom](https://open.spotify.com/artist/03OMNIRl2S7PLASNxIeION) | [So Long](https://open.spotify.com/album/6tAMhO8WV1WPcDglep3DpM) | 3:54 | 2023-05-03 | 2024-01-11 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 742823,
+  "2024-02-02": 742683,
   "date_first_scraped": "2022-10-06",
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
   "name": "NCS Releases",
@@ -4781,7 +4781,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 279600,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/5KcKUpTEHMfcoAps9d5BvY"
@@ -5001,6 +5001,32 @@
       "duration_ms": 209302,
       "name": "Lachrymose",
       "url": "https://open.spotify.com/track/6NIoYuKRXmbklQdh6uPryZ"
+    },
+    {
+      "album": {
+        "name": "Late At Night",
+        "url": "https://open.spotify.com/album/1lLaZy31zYDLJ7B7GrJdE8"
+      },
+      "artists": [
+        {
+          "name": "CiDE",
+          "url": "https://open.spotify.com/artist/5LaVL7OUazcgstNz0MmnUb"
+        },
+        {
+          "name": "Vide",
+          "url": "https://open.spotify.com/artist/6NvLDPalJ0Xdf58b6JABvn"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154233,
+      "name": "Late At Night",
+      "url": "https://open.spotify.com/track/0JB5SP9rDrbk2dsZD2781h"
     },
     {
       "album": {

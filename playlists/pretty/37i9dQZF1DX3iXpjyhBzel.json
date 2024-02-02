@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Lukas Agustinho, Gabriela Rocha",
-  "num_followers": 1020559,
+  "num_followers": 1020677,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODVhODVjN2M2N2JlNTY2YTZiZGMwZDNjN2RjZjgxZjVkYjhmZjIw",
+  "snapshot_id": "MCw4YzYwNWZmYzAwOTUyZjAyNzJlMzFlNzg0MWYyMmQyNmEzY2JmNTUy",
   "tracks": [
     {
       "added_at": "2024-01-15 18:23:19",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-01-15 18:23:19",
       "album": {
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 354173,
+      "name": "Dependente",
+      "url": "https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW"
+    },
+    {
+      "added_at": "2024-01-15 18:23:19",
+      "album": {
         "name": "Nem Um Segundo",
         "url": "https://open.spotify.com/album/1L0d5ejVgEd1og01wwET1u"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 349333,
       "name": "Nem Um Segundo",
       "url": "https://open.spotify.com/track/7epXtZHT9aSqU4WRpbNrBA"
-    },
-    {
-      "added_at": "2024-01-15 18:23:19",
-      "album": {
-        "name": "Dependente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 354173,
-      "name": "Dependente",
-      "url": "https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW"
     },
     {
       "added_at": "2024-01-15 18:23:19",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-01-15 18:23:19",
       "album": {
+        "name": "O Amor Tem Um Nome (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1pYPXvssuXozUQKxQu5xt2"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        }
+      ],
+      "duration_ms": 427444,
+      "name": "O Amor Tem Um Nome - Ao Vivo",
+      "url": "https://open.spotify.com/track/6iNLDkJjEGaqguwPWwfrXx"
+    },
+    {
+      "added_at": "2024-01-15 18:23:19",
+      "album": {
         "name": "Voc\u00ea N\u00e3o Imagina",
         "url": "https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 318020,
       "name": "Voc\u00ea N\u00e3o Imagina",
       "url": "https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R"
-    },
-    {
-      "added_at": "2024-01-15 18:23:19",
-      "album": {
-        "name": "O Amor Tem Um Nome (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1pYPXvssuXozUQKxQu5xt2"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        }
-      ],
-      "duration_ms": 427444,
-      "name": "O Amor Tem Um Nome - Ao Vivo",
-      "url": "https://open.spotify.com/track/6iNLDkJjEGaqguwPWwfrXx"
     },
     {
       "added_at": "2024-01-15 18:23:19",

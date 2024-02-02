@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-26",
-  "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover: <a href=\"https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl?si=HadD_XhBS2mDgi67XVbyhA\">Phina</a> ",
+  "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover: <a href=\"https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL?si=QOxAEPw5SfeFdIYUaljgEA\">Christina Shusho</a> ",
   "name": "Swahili Praise",
   "tracks": [
     {
@@ -1811,6 +1811,24 @@
     },
     {
       "album": {
+        "name": "Sema Asante",
+        "url": "https://open.spotify.com/album/5x6r4x0WijAPuL6G3U3COc"
+      },
+      "artists": [
+        {
+          "name": "Wyse Tz",
+          "url": "https://open.spotify.com/artist/5iQS32vK2HWTCX9jhBeRz8"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155088,
+      "name": "Sema Asante",
+      "url": "https://open.spotify.com/track/4YNwDgPLqaUDlTZKUWPWs4"
+    },
+    {
+      "album": {
         "name": "Shida",
         "url": "https://open.spotify.com/album/6A83CUr0UmsmAZu8PahRe7"
       },
@@ -1998,7 +2016,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 334000,
       "name": "SON RISE (Level Up)",
       "url": "https://open.spotify.com/track/52oPQzJWO1V5MB3pdOENLC"

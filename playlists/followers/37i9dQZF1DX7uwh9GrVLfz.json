@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 115375,
+  "2024-02-02": 115450,
   "date_first_scraped": "2022-05-15",
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: \u30b5\u30d0\u30b7\u30b9\u30bf\u30fc (Saba Sister)",
   "name": "Punk Japan",
@@ -4641,10 +4641,28 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 163620,
       "name": "Midnight Grow",
       "url": "https://open.spotify.com/track/1A2MlEvCue0EWDvPP2aJL0"
+    },
+    {
+      "album": {
+        "name": "Midnight Grow",
+        "url": "https://open.spotify.com/album/6eeEuEu6WkeVpfR5jwMVZs"
+      },
+      "artists": [
+        {
+          "name": "SHANK",
+          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163620,
+      "name": "Midnight Grow",
+      "url": "https://open.spotify.com/track/4mhOSuIUlsmxjlfNwHTzRe"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Kick back to the soothing sounds of the Ukulele...
 
-73 songs - 3 hr 48 min
+74 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Moonlight](https://open.spotify.com/track/0KxDCJzQ5SQfMoe42IN0NC) | [Farah Sumners](https://open.spotify.com/artist/3fn8yofOvpgD2AKNTkbcuz) | [Rainbow](https://open.spotify.com/album/0xk2K2WET3c855QLiDQ8fC) | 3:24 | 2021-11-12 |  |
 | [Nearness Of You](https://open.spotify.com/track/7sSKDW4DGrp41vYsyv8FqN) | [Bill Tapia](https://open.spotify.com/artist/3ULZcv5WLuwSd83derlQhR) | [Livin' It Live](https://open.spotify.com/album/0snKiBMX04C2TSc4qu9wT7) | 4:35 | 2021-11-12 |  |
 | [Over the Rainbow \- What a Wonderful World: Instrumental Guitar & Hawaiian Ukelele](https://open.spotify.com/track/5yFEuHawcsewDx3aSYFJss) | [Relaxation Guitar Maestro](https://open.spotify.com/artist/6B5MoYNLUzzteweIhTxIaC) | [Over the Rainbow \- What a Wonderful World: Instrumental Guitar & Hawaiian Ukelele](https://open.spotify.com/album/3axtiXVPio96WlTBczCKKG) | 4:47 | 2021-11-12 |  |
-| [Paka Ua](https://open.spotify.com/track/7tGs3qEdxRPpu6EXahlICf) | [Ozzie Kotani](https://open.spotify.com/artist/142rlGd3piCJQf1OWRkywk), [Daniel Ho](https://open.spotify.com/artist/17SbhL3sy2cOMZ4sMvVFlI) | [The Descendants](https://open.spotify.com/album/6VodWMKGJ6HgcaHqftYngq) | 3:50 | 2021-11-12 |  |
+| [Paka Ua](https://open.spotify.com/track/1hHGhu5Ly4MtctPrshrAb5) | [Ozzie Kotani](https://open.spotify.com/artist/142rlGd3piCJQf1OWRkywk), [Daniel Ho](https://open.spotify.com/artist/17SbhL3sy2cOMZ4sMvVFlI) | [The Descendants](https://open.spotify.com/album/15YakA5L7dr86I60h4zKMy) | 3:50 | 2022-04-15 |  |
+| [Paka Ua](https://open.spotify.com/track/7tGs3qEdxRPpu6EXahlICf) | [Ozzie Kotani](https://open.spotify.com/artist/142rlGd3piCJQf1OWRkywk), [Daniel Ho](https://open.spotify.com/artist/17SbhL3sy2cOMZ4sMvVFlI) | [The Descendants](https://open.spotify.com/album/6VodWMKGJ6HgcaHqftYngq) | 3:50 | 2021-11-12 | 2024-02-02 |
 | [Pohai Ke Aloha](https://open.spotify.com/track/05jS1nFGqVQ6QFQlLVYw3m) | [Eco Friendly](https://open.spotify.com/artist/4EKiXQ8sC11kEoiz18VBmQ) | [Pohai Ke Aloha](https://open.spotify.com/album/190yIgaoivhzltuOLMzszR) | 2:58 | 2021-11-12 |  |
 | [Pua Lililehua](https://open.spotify.com/track/0X1cfOCdBaRfpu2MI0ur0l) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY) | [Soliloquy \- Ka Leo O Loko](https://open.spotify.com/album/5IvZf6jkaOeib9EvdyyJr8) | 2:53 | 2021-11-12 | 2022-07-29 |
 | [Pua Līlīlehua](https://open.spotify.com/track/4NlVNFMdM67IVhiYl9SDua) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY) | [Soliloquy: Ka Leo O Loko](https://open.spotify.com/album/0ZzGZp6cerAABuNHL3qRWO) | 2:57 | 2022-04-15 |  |

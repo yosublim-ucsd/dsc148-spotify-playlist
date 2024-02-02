@@ -89,6 +89,32 @@
     },
     {
       "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189693,
+      "name": "4 Minutes (feat. Justin Timberlake & Timbaland)",
+      "url": "https://open.spotify.com/track/1oHClQEgDmmbcEx12Kc5nZ"
+    },
+    {
+      "album": {
         "name": "4 Minutes (feat. Justin Timberlake & Timbaland) [HD Remaster]",
         "url": "https://open.spotify.com/album/7oL9ZqncTYB2RHNweEYD0t"
       },
@@ -108,7 +134,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 246520,
       "name": "4 Minutes (feat. Justin Timberlake & Timbaland) - HD Remaster",
       "url": "https://open.spotify.com/track/1cB7aazFBCT0H3rABcsNbg"
@@ -2946,7 +2972,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 256426,
       "name": "Ice Box",
       "url": "https://open.spotify.com/track/25u7tVNFhpPA450EFQBwML"
@@ -2964,7 +2990,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 315882,
       "name": "Ice Box",
       "url": "https://open.spotify.com/track/5sfFbyzZ13w4yMHHBRV0SI"
@@ -3882,7 +3908,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 244661,
       "name": "Make Me Better",
       "url": "https://open.spotify.com/track/1tDUgJIkSiayF0uYnv55C5"
@@ -3922,7 +3948,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 258893,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM"
@@ -3940,7 +3966,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 308024,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/6MINtZhD9cu6NbgZLeAZiv"
@@ -5671,6 +5697,24 @@
     },
     {
       "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223080,
+      "name": "Say It Right",
+      "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
+    },
+    {
+      "album": {
         "name": "Say It Right (Closed Captioned)",
         "url": "https://open.spotify.com/album/25kmX6K0acxhf0eZGEEico"
       },
@@ -5682,7 +5726,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 234784,
       "name": "Say It Right",
       "url": "https://open.spotify.com/track/459vuxUsUwJ5INdnp5URJa"
@@ -5946,7 +5990,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 265920,
       "name": "SexyBack (feat. Timbaland)",
       "url": "https://open.spotify.com/track/6sAuR3Cpxa0ojy31q6FYN3"
@@ -6026,7 +6070,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 188229,
       "name": "Shot Clock",
       "url": "https://open.spotify.com/track/6HBvufqPav4uxoON084OWR"
@@ -6044,7 +6088,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 201609,
       "name": "Shot Clock",
       "url": "https://open.spotify.com/track/2GlATHCDbLW7xq5BE0Bz5g"
@@ -6426,7 +6470,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 355648,
       "name": "Take Back the Night",
       "url": "https://open.spotify.com/track/1bZ1OR1CpfMmeEdF73kVQX"
@@ -6678,7 +6722,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 245631,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/449RlSJ3uwmcqWIzUINciK"
@@ -6820,7 +6864,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 424146,
       "name": "TKO",
       "url": "https://open.spotify.com/track/5mIqtDBiw3rqMxsJc4UVM6"
@@ -6930,7 +6974,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 184853,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/3ZaSMRVrDpi3ICBEWw7DPL"
@@ -7480,7 +7524,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 209640,
       "name": "Way Too Big",
       "url": "https://open.spotify.com/track/6SkcaJmyaGrnAPGxy31tMu"
@@ -7836,7 +7880,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 201660,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ"
@@ -7854,7 +7898,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 236236,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/7LFeV8Pf5rCN8uefWdfEql"

@@ -1,12 +1,12 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Sof\u00eda Mart\u00edn",
-  "num_followers": 124769,
+  "num_followers": 124760,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzE3YTc3NTk5M2IwYTM1NzYzOWMxZDBjNjI1MzgxOTc1MjU0MDNl",
+  "snapshot_id": "MCwzNDRmNzFjODRjYTdjZjAwYjQyMWY5ZjI4MTNkNmY5MTc4NTJmMDYy",
   "tracks": [
     {
       "added_at": "2024-01-19 07:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
+        "name": "CHICA BONITA",
+        "url": "https://open.spotify.com/album/1UuhV7VQzkEXU6o37DC1ZC"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "duration_ms": 97876,
+      "name": "CHICA BONITA",
+      "url": "https://open.spotify.com/track/4jCoSP8cmfPBFvFFXkIUjT"
+    },
+    {
+      "added_at": "2024-01-19 07:00:00",
+      "album": {
         "name": "INCEL",
         "url": "https://open.spotify.com/album/3eX3K3tfZF6UBaiTubLoWK"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 228456,
       "name": "INCEL",
       "url": "https://open.spotify.com/track/7fhBoPJVNgY859V4nUP7x6"
-    },
-    {
-      "added_at": "2024-01-19 07:00:00",
-      "album": {
-        "name": "CHICA BONITA",
-        "url": "https://open.spotify.com/album/1UuhV7VQzkEXU6o37DC1ZC"
-      },
-      "artists": [
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        }
-      ],
-      "duration_ms": 97876,
-      "name": "CHICA BONITA",
-      "url": "https://open.spotify.com/track/4jCoSP8cmfPBFvFFXkIUjT"
     },
     {
       "added_at": "2024-01-19 07:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
+        "name": "Ronin",
+        "url": "https://open.spotify.com/album/0KhBZHxOHPELzzIORsZcoE"
+      },
+      "artists": [
+        {
+          "name": "Guayaba",
+          "url": "https://open.spotify.com/artist/5MOE8DFWAHa51a5gKzz78m"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "tu dime d\u00f3nde ves el norte (=____=)",
+      "url": "https://open.spotify.com/track/6nzUw3TdOdgZthOwL3rv9E"
+    },
+    {
+      "added_at": "2024-01-19 07:00:00",
+      "album": {
         "name": "Torero (feat. alequi, BLNCO, Cma, Delgao, Fran Laoren, Mar\u00eda Escarmiento, Shy Kolbe & SUOB)",
         "url": "https://open.spotify.com/album/1PLDs8TC0e8UPD0fuiRQhZ"
       },
@@ -939,38 +955,6 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
-        "name": "Ronin",
-        "url": "https://open.spotify.com/album/0KhBZHxOHPELzzIORsZcoE"
-      },
-      "artists": [
-        {
-          "name": "Guayaba",
-          "url": "https://open.spotify.com/artist/5MOE8DFWAHa51a5gKzz78m"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "tu dime d\u00f3nde ves el norte (=____=)",
-      "url": "https://open.spotify.com/track/6nzUw3TdOdgZthOwL3rv9E"
-    },
-    {
-      "added_at": "2024-01-19 07:00:00",
-      "album": {
-        "name": "OJITOS ROJOS",
-        "url": "https://open.spotify.com/album/38An6jNp5N2fbq5yPj1bcu"
-      },
-      "artists": [
-        {
-          "name": "BAJOCERO X",
-          "url": "https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq"
-        }
-      ],
-      "duration_ms": 139715,
-      "name": "OJITOS ROJOS",
-      "url": "https://open.spotify.com/track/58xcliQlKIyd2pZsMFWzSX"
-    },
-    {
-      "added_at": "2024-01-19 07:00:00",
-      "album": {
         "name": "GRIS",
         "url": "https://open.spotify.com/album/2qnDfIFPrpJcOxrfuNXqAr"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 125991,
       "name": "GRIS",
       "url": "https://open.spotify.com/track/1Uhtp4LoA7qxapCAimRaOz"
+    },
+    {
+      "added_at": "2024-01-19 07:00:00",
+      "album": {
+        "name": "OJITOS ROJOS",
+        "url": "https://open.spotify.com/album/38An6jNp5N2fbq5yPj1bcu"
+      },
+      "artists": [
+        {
+          "name": "BAJOCERO X",
+          "url": "https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq"
+        }
+      ],
+      "duration_ms": 139715,
+      "name": "OJITOS ROJOS",
+      "url": "https://open.spotify.com/track/58xcliQlKIyd2pZsMFWzSX"
     },
     {
       "added_at": "2024-01-19 07:00:00",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
-        "name": "\u00a1qu\u00e9 asco! adultos bes\u00e1ndose",
-        "url": "https://open.spotify.com/album/0UIFvo5u6XQcpaqolhRKq2"
-      },
-      "artists": [
-        {
-          "name": "marsal",
-          "url": "https://open.spotify.com/artist/0pkxapeJYS2mENP1lATzgB"
-        },
-        {
-          "name": "Pr\u00f6z",
-          "url": "https://open.spotify.com/artist/2Iu7bGRaGHmvTuVWp8wMzX"
-        }
-      ],
-      "duration_ms": 123771,
-      "name": "\u00a1qu\u00e9 asco! adultos bes\u00e1ndose",
-      "url": "https://open.spotify.com/track/2dAlgjNcpogvpbs3H9MXXv"
-    },
-    {
-      "added_at": "2024-01-19 07:00:00",
-      "album": {
         "name": "no me hables\u30fb\uff9f\u2606\u2727",
         "url": "https://open.spotify.com/album/2aTY48jWWDcS4PyzGKUrlU"
       },
@@ -1087,22 +1067,22 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
-        "name": "L\u00aa N\u00aave",
-        "url": "https://open.spotify.com/album/2krXsG88F9yuWO0lrw80ar"
+        "name": "\u00a1qu\u00e9 asco! adultos bes\u00e1ndose",
+        "url": "https://open.spotify.com/album/0UIFvo5u6XQcpaqolhRKq2"
       },
       "artists": [
         {
-          "name": "Mda",
-          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+          "name": "marsal",
+          "url": "https://open.spotify.com/artist/0pkxapeJYS2mENP1lATzgB"
         },
         {
-          "name": "Nightclub20xx",
-          "url": "https://open.spotify.com/artist/7HQiiGBKAu5NhAfq6ONZif"
+          "name": "Pr\u00f6z",
+          "url": "https://open.spotify.com/artist/2Iu7bGRaGHmvTuVWp8wMzX"
         }
       ],
-      "duration_ms": 144544,
-      "name": "L\u00aa N\u00aave",
-      "url": "https://open.spotify.com/track/2Qn5ZSdjOunwUFEaifjWhU"
+      "duration_ms": 123771,
+      "name": "\u00a1qu\u00e9 asco! adultos bes\u00e1ndose",
+      "url": "https://open.spotify.com/track/2dAlgjNcpogvpbs3H9MXXv"
     },
     {
       "added_at": "2024-01-19 07:00:00",
@@ -1139,6 +1119,26 @@
       "duration_ms": 213000,
       "name": "estr333s",
       "url": "https://open.spotify.com/track/3fEirtdnmiW0BZNKs0mfxF"
+    },
+    {
+      "added_at": "2024-01-19 07:00:00",
+      "album": {
+        "name": "L\u00aa N\u00aave",
+        "url": "https://open.spotify.com/album/2krXsG88F9yuWO0lrw80ar"
+      },
+      "artists": [
+        {
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+        },
+        {
+          "name": "Nightclub20xx",
+          "url": "https://open.spotify.com/artist/7HQiiGBKAu5NhAfq6ONZif"
+        }
+      ],
+      "duration_ms": 144544,
+      "name": "L\u00aa N\u00aave",
+      "url": "https://open.spotify.com/track/2Qn5ZSdjOunwUFEaifjWhU"
     },
     {
       "added_at": "2024-01-19 07:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
-        "name": "Hyperandom.Mp3",
-        "url": "https://open.spotify.com/album/0lIGjZNui4AS8UHVTml2fF"
-      },
-      "artists": [
-        {
-          "name": "cmilo",
-          "url": "https://open.spotify.com/artist/1IhwB9stYiMABWq9qrpn6o"
-        }
-      ],
-      "duration_ms": 97896,
-      "name": "Hyperandom.Mp3",
-      "url": "https://open.spotify.com/track/5GuctQvRHBBTKQzErDzP47"
-    },
-    {
-      "added_at": "2024-01-19 07:00:00",
-      "album": {
         "name": "Santuario de Amana",
         "url": "https://open.spotify.com/album/72tR2JvY5gPLdTAXrgSSMW"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 145500,
       "name": "Santuario de Amana",
       "url": "https://open.spotify.com/track/2Uwds45ycKbgei17pWVTl2"
+    },
+    {
+      "added_at": "2024-01-19 07:00:00",
+      "album": {
+        "name": "Hyperandom.Mp3",
+        "url": "https://open.spotify.com/album/0lIGjZNui4AS8UHVTml2fF"
+      },
+      "artists": [
+        {
+          "name": "cmilo",
+          "url": "https://open.spotify.com/artist/1IhwB9stYiMABWq9qrpn6o"
+        }
+      ],
+      "duration_ms": 97896,
+      "name": "Hyperandom.Mp3",
+      "url": "https://open.spotify.com/track/5GuctQvRHBBTKQzErDzP47"
     },
     {
       "added_at": "2024-01-19 07:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
+        "name": "Cu\u00e1ntas Veces",
+        "url": "https://open.spotify.com/album/7igQKVqM29rwzZYHoV267G"
+      },
+      "artists": [
+        {
+          "name": "Nova Caeli",
+          "url": "https://open.spotify.com/artist/6RgIDy1x1vhGst77P2Wuts"
+        }
+      ],
+      "duration_ms": 161828,
+      "name": "Cu\u00e1ntas Veces",
+      "url": "https://open.spotify.com/track/7xqVmgYINjUmLktnTxQqFY"
+    },
+    {
+      "added_at": "2024-01-19 07:00:00",
+      "album": {
         "name": "waterpolo",
         "url": "https://open.spotify.com/album/267In0VMO1tk3QJ7UFadND"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 178949,
       "name": "waterpolo",
       "url": "https://open.spotify.com/track/2YPInvtnWL6R5nmxerrH6f"
-    },
-    {
-      "added_at": "2024-01-19 07:00:00",
-      "album": {
-        "name": "Cu\u00e1ntas Veces",
-        "url": "https://open.spotify.com/album/7igQKVqM29rwzZYHoV267G"
-      },
-      "artists": [
-        {
-          "name": "Nova Caeli",
-          "url": "https://open.spotify.com/artist/6RgIDy1x1vhGst77P2Wuts"
-        }
-      ],
-      "duration_ms": 161828,
-      "name": "Cu\u00e1ntas Veces",
-      "url": "https://open.spotify.com/track/7xqVmgYINjUmLktnTxQqFY"
     },
     {
       "added_at": "2024-01-19 07:00:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
+        "name": "BRAGUETA ABIERTA",
+        "url": "https://open.spotify.com/album/4emlv8delY0w6iM75ikyNT"
+      },
+      "artists": [
+        {
+          "name": "Sergi Prim",
+          "url": "https://open.spotify.com/artist/0QX72xwJCZnISwlruqyehy"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "BRAGUETA ABIERTA",
+      "url": "https://open.spotify.com/track/3aWGjHjRnXX6eGkPWebvoU"
+    },
+    {
+      "added_at": "2024-01-19 07:00:00",
+      "album": {
         "name": "Antipanico",
         "url": "https://open.spotify.com/album/0qx9VjT1iZaz7NGLNbqQ9W"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 186075,
       "name": "Antipanico",
       "url": "https://open.spotify.com/track/70zOMyUetEcZus2MknoWMI"
-    },
-    {
-      "added_at": "2024-01-19 07:00:00",
-      "album": {
-        "name": "BRAGUETA ABIERTA",
-        "url": "https://open.spotify.com/album/4emlv8delY0w6iM75ikyNT"
-      },
-      "artists": [
-        {
-          "name": "Sergi Prim",
-          "url": "https://open.spotify.com/artist/0QX72xwJCZnISwlruqyehy"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "BRAGUETA ABIERTA",
-      "url": "https://open.spotify.com/track/3aWGjHjRnXX6eGkPWebvoU"
     },
     {
       "added_at": "2024-01-19 07:00:00",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
-        "name": "fireflies",
-        "url": "https://open.spotify.com/album/2FzGhykxlK1KEzrREIxB9f"
-      },
-      "artists": [
-        {
-          "name": "detunedfreq",
-          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
-        }
-      ],
-      "duration_ms": 205241,
-      "name": "fireflies",
-      "url": "https://open.spotify.com/track/4YVEw9KuT1rAmjGkkKZPuG"
-    },
-    {
-      "added_at": "2024-01-19 07:00:00",
-      "album": {
         "name": "Soul Blackout (Remixes)",
         "url": "https://open.spotify.com/album/6LobJXIH6G9lspYdmxAuHa"
       },
@@ -1887,42 +1871,18 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
-        "name": "GALAXIA",
-        "url": "https://open.spotify.com/album/2Or5jNRIMSqTE6He3hZLPL"
+        "name": "fireflies",
+        "url": "https://open.spotify.com/album/2FzGhykxlK1KEzrREIxB9f"
       },
       "artists": [
         {
-          "name": "MRivas",
-          "url": "https://open.spotify.com/artist/45blvWfVyA9c2dqSZoJcnt"
-        },
-        {
-          "name": "Salty3r",
-          "url": "https://open.spotify.com/artist/2xMf3T0fvZXJ6EGZimtWdv"
+          "name": "detunedfreq",
+          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
         }
       ],
-      "duration_ms": 103165,
-      "name": "GALAXIA",
-      "url": "https://open.spotify.com/track/0zC57DepFKYZ5reK9MPPd9"
-    },
-    {
-      "added_at": "2024-01-19 07:00:00",
-      "album": {
-        "name": "Que m\u00e1s da",
-        "url": "https://open.spotify.com/album/3sJswWpzyKnIuTLv2izMIq"
-      },
-      "artists": [
-        {
-          "name": "Octopvs To The Party",
-          "url": "https://open.spotify.com/artist/2KhAknita2n0dejlwfhkd8"
-        },
-        {
-          "name": "XhanelBBY",
-          "url": "https://open.spotify.com/artist/0XilNKZaQEvUz3X571uXCW"
-        }
-      ],
-      "duration_ms": 121666,
-      "name": "Que m\u00e1s da",
-      "url": "https://open.spotify.com/track/5iwtTGyfu9QzlXiFvCwvnw"
+      "duration_ms": 205241,
+      "name": "fireflies",
+      "url": "https://open.spotify.com/track/4YVEw9KuT1rAmjGkkKZPuG"
     },
     {
       "added_at": "2024-01-19 07:00:00",
@@ -1951,6 +1911,46 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
+        "name": "Que m\u00e1s da",
+        "url": "https://open.spotify.com/album/3sJswWpzyKnIuTLv2izMIq"
+      },
+      "artists": [
+        {
+          "name": "Octopvs To The Party",
+          "url": "https://open.spotify.com/artist/2KhAknita2n0dejlwfhkd8"
+        },
+        {
+          "name": "XhanelBBY",
+          "url": "https://open.spotify.com/artist/0XilNKZaQEvUz3X571uXCW"
+        }
+      ],
+      "duration_ms": 121666,
+      "name": "Que m\u00e1s da",
+      "url": "https://open.spotify.com/track/5iwtTGyfu9QzlXiFvCwvnw"
+    },
+    {
+      "added_at": "2024-01-19 07:00:00",
+      "album": {
+        "name": "GALAXIA",
+        "url": "https://open.spotify.com/album/2Or5jNRIMSqTE6He3hZLPL"
+      },
+      "artists": [
+        {
+          "name": "MRivas",
+          "url": "https://open.spotify.com/artist/45blvWfVyA9c2dqSZoJcnt"
+        },
+        {
+          "name": "Salty3r",
+          "url": "https://open.spotify.com/artist/2xMf3T0fvZXJ6EGZimtWdv"
+        }
+      ],
+      "duration_ms": 103165,
+      "name": "GALAXIA",
+      "url": "https://open.spotify.com/track/0zC57DepFKYZ5reK9MPPd9"
+    },
+    {
+      "added_at": "2024-01-19 07:00:00",
+      "album": {
         "name": "No puedo decirte que no",
         "url": "https://open.spotify.com/album/29suSoGKjek1j6nHY9Ysmd"
       },
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2024-01-19 07:00:00",
       "album": {
-        "name": "AnKur",
-        "url": "https://open.spotify.com/album/40SX8MUqAxrVtI6XpsgnsW"
-      },
-      "artists": [
-        {
-          "name": "Jaunx",
-          "url": "https://open.spotify.com/artist/4vipzfP6wRvnEAvVaeIt1h"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "AnKur",
-      "url": "https://open.spotify.com/track/7JOarBKVSJ72L5y3hlbi9R"
-    },
-    {
-      "added_at": "2024-01-19 07:00:00",
-      "album": {
         "name": "tamagotchi",
         "url": "https://open.spotify.com/album/5tBPoDajcUY3wf4pnBJfMV"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 105100,
       "name": "tamagotchi",
       "url": "https://open.spotify.com/track/72QyKS10NvfMYszzFMYWzj"
+    },
+    {
+      "added_at": "2024-01-19 07:00:00",
+      "album": {
+        "name": "AnKur",
+        "url": "https://open.spotify.com/album/40SX8MUqAxrVtI6XpsgnsW"
+      },
+      "artists": [
+        {
+          "name": "Jaunx",
+          "url": "https://open.spotify.com/artist/4vipzfP6wRvnEAvVaeIt1h"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "AnKur",
+      "url": "https://open.spotify.com/track/7JOarBKVSJ72L5y3hlbi9R"
     }
   ],
   "unique_name": "helium",

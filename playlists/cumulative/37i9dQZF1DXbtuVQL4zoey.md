@@ -4,7 +4,7 @@
 
 > Beach vibes and summer jams only.
 
-533 songs - 20 hr 33 min
+536 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Cream Sunset](https://open.spotify.com/track/0cCzWMEaRgqnbOpNrnKoPD) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo), [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j) | [Cream Sunset](https://open.spotify.com/album/2LfvL0bCxhob1tQmg2UBMj) | 2:26 | 2022-07-22 | 2023-09-05 |
 | [Criada Muda](https://open.spotify.com/track/2XH3VT6CZkXTv903hE7oE4) | [Reflejitos](https://open.spotify.com/artist/6Wa63VdHO4nX4IgCAXrd3W) | [Criada Muda](https://open.spotify.com/album/4DGFRbuAmGvd4HkEIrHKKj) | 3:06 | 2022-07-29 | 2022-11-12 |
 | [Crimson Sunset](https://open.spotify.com/track/56K5DnvyPR7rXqFp8WJZIh) | [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j) | [Crimson Sunset](https://open.spotify.com/album/7LNYFZxlP2yunIqajpCyCh) | 2:08 | 2022-12-16 |  |
+| [Cruisin'](https://open.spotify.com/track/5cQfqmLVX7UhOmSGg3SyYA) | [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Cruisin'](https://open.spotify.com/album/4NCfPzsbvT7rAlaDPgfLpZ) | 2:18 | 2024-02-02 |  |
 | [Cruising](https://open.spotify.com/track/6k5ujvu6iu5hdgDZXBtkZG) | [Lghtr](https://open.spotify.com/artist/6sL0e0jiMbfjoQk2kraspM) | [Cruising](https://open.spotify.com/album/4eF0VhXpYiCB0V6L1nIrCu) | 2:09 | 2023-09-29 |  |
 | [Cruising Avenues](https://open.spotify.com/track/3pb6lOqe10g5OXtTyZA3Vb) | [Odd Shapes](https://open.spotify.com/artist/7A0I9hUuQHuonQhfYw3HrU) | [Thousand Islands](https://open.spotify.com/album/1xYOX8UICuZXSwo1e7vLVy) | 3:04 | 2022-05-20 | 2022-07-01 |
 | [Crushin](https://open.spotify.com/track/0kzFqquPfU14JmkkUUHbX8) | [The Man from Mexico](https://open.spotify.com/artist/7ig2AJW5U845K57IhLZvdb) | [La Muchacha Ochentas](https://open.spotify.com/album/15rmla56JfHzwiuU4a9vyh) | 2:36 | 2022-07-01 |  |
@@ -380,6 +381,7 @@
 | [Rich and Thick](https://open.spotify.com/track/479ml65kpUENyze9msPNGX) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf) | [Rich and Thick](https://open.spotify.com/album/6E2ywpUylcc7WtMzVZbqYl) | 3:19 | 2022-05-20 |  |
 | [Riptide](https://open.spotify.com/track/5epIUCDbbOxNw24rB0YgrC) | [Bambu](https://open.spotify.com/artist/6OExwlZp33GVhQqmL6nGy5) | [Riptide](https://open.spotify.com/album/30u0mn0Il5ychQrKZdnwUL) | 1:46 | 2022-10-28 | 2023-09-16 |
 | [Riptide](https://open.spotify.com/track/79Wiq8K0Ffom6OVYXHSrAb) | [Bambu](https://open.spotify.com/artist/6OExwlZp33GVhQqmL6nGy5) | [Riptide](https://open.spotify.com/album/4XTVisA6QosX0cdUYqqmZH) | 1:46 | 2022-05-20 | 2022-11-05 |
+| [Ritmo Apacible](https://open.spotify.com/track/637Tcs4eNm7evG1SDzWCtV) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Ritmo Apacible](https://open.spotify.com/album/37PBrNsuvDaeMdu9NmmsuN) | 2:29 | 2024-02-02 |  |
 | [Royal Highness](https://open.spotify.com/track/7uJKZCjiHRAde6xQm2Kx0Q) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Kid Tested & Mother Approved](https://open.spotify.com/album/2wz6cO6pnQb0qGfRYkMWVc) | 2:08 | 2022-05-20 |  |
 | [Rugged Soul](https://open.spotify.com/track/32j4lUE7CpoTIGUVM2ZN9n) | [Skeleton Panda](https://open.spotify.com/artist/0PuasH1K6rjltXwNAl06wQ) | [Rugged Soul](https://open.spotify.com/album/0JL0uJmED5AQeBfgmqDDwP) | 1:39 | 2022-05-20 | 2023-12-09 |
 | [Run Boy](https://open.spotify.com/track/57kn96jwh3J2BzIeYrHURr) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Dissolve](https://open.spotify.com/album/1FMSLJ1NVRYzqu3LkIKlWS) | 2:32 | 2022-05-20 | 2022-07-01 |
@@ -533,6 +535,7 @@
 | [While The Sun Goes Down](https://open.spotify.com/track/6mO1z3z7Np7JS87Gkiw7xM) | [Soulone Beats](https://open.spotify.com/artist/3aPWC84CTwM0fnRNLGqxQg) | [While The Sun Goes Down](https://open.spotify.com/album/3Uv5oulQmUWgDjdCAyVoR3) | 2:27 | 2022-05-27 | 2023-09-23 |
 | [Whiskey Jazz](https://open.spotify.com/track/2sig8mxmjeVn3MUPn6NeAC) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Rosoul](https://open.spotify.com/artist/1adLE7QwwUcHTpPZu4av97), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Whiskey Jazz](https://open.spotify.com/album/3gU8psGILcqNzKqDUEZx0m) | 2:10 | 2022-05-20 | 2022-06-25 |
 | [White Lotus](https://open.spotify.com/track/4suksbwXJA8hVjudRncmnD) | [Leave](https://open.spotify.com/artist/4bzPVOTRYr7xSjWfcXI7oU), [Felix Keppy](https://open.spotify.com/artist/0OTwn3Y9ggDdnBB8SVAEBg) | [White Lotus](https://open.spotify.com/album/3BYopkfayf7Sm5WxYT1NqN) | 1:41 | 2023-01-13 |  |
+| [wicked](https://open.spotify.com/track/0Li6Y0Noq9THd4sTR7e5wq) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [wicked](https://open.spotify.com/album/08xWG2vUxhVXsjPFo9yajA) | 2:26 | 2024-02-02 |  |
 | [Winter Keys](https://open.spotify.com/track/6NT3drJc597TCEIK8LMFka) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Winter Keys](https://open.spotify.com/album/1PFHDWjFCyXHVI867KFcoy) | 2:36 | 2022-05-20 | 2022-07-01 |
 | [Wishes](https://open.spotify.com/track/4o1qEEa5tc2olgrCk4XZJI) | [Maoen](https://open.spotify.com/artist/1bKSEAwS6nhv0kTYWfRkZK), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Morning Routine](https://open.spotify.com/album/7gy2voYE8UXk8TUOJsP08X) | 1:44 | 2022-05-20 | 2022-11-26 |
 | [Witching Hour](https://open.spotify.com/track/17uRVL0hDUqWwbF4KYSr48) | [Tin Ghosts](https://open.spotify.com/artist/5SkZxzEJm6ScRc4G4SAkwI) | [Witching Hour](https://open.spotify.com/album/1Nz6t4KOf741GhyFIKHAeF) | 2:31 | 2022-05-20 | 2022-05-27 |

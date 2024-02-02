@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Cover: Nikita, the Wicked. Artwork by Rewina Beshue.",
-  "num_followers": 167672,
+  "num_followers": 167782,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjM5MDVlMzYyMWFkMTNhZWUwY2RjMmUyZTMwYzMwNjJmNDRjZDlj",
+  "snapshot_id": "MCw1ZTYzYzE1YjFjZTUzYjRjZTMxNjkwOGRhNDI0YTU4MzFjNTBkYTMy",
   "tracks": [
     {
       "added_at": "2024-01-26 22:15:12",
@@ -23,26 +23,6 @@
       "duration_ms": 176363,
       "name": "The Auction",
       "url": "https://open.spotify.com/track/0fyatRJCPPj2V6maXthHIu"
-    },
-    {
-      "added_at": "2024-01-31 17:37:47",
-      "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/3v991d9HB0a1CMHmFgSu7q"
-      },
-      "artists": [
-        {
-          "name": "Cent",
-          "url": "https://open.spotify.com/artist/19k9TrKzU0Jq8UF5ROVK7d"
-        },
-        {
-          "name": "Katia B",
-          "url": "https://open.spotify.com/artist/4WmvFchREyHZdwvDlffQaU"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/6kgVM1XFTsKsGvyzaMgIi2"
     },
     {
       "added_at": "2024-01-24 18:00:00",
@@ -75,6 +55,26 @@
       "duration_ms": 212855,
       "name": "Do Your Thing",
       "url": "https://open.spotify.com/track/30X8IKWPfADK3jt47GMyzj"
+    },
+    {
+      "added_at": "2024-01-31 17:37:47",
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/3v991d9HB0a1CMHmFgSu7q"
+      },
+      "artists": [
+        {
+          "name": "Cent",
+          "url": "https://open.spotify.com/artist/19k9TrKzU0Jq8UF5ROVK7d"
+        },
+        {
+          "name": "Katia B",
+          "url": "https://open.spotify.com/artist/4WmvFchREyHZdwvDlffQaU"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/6kgVM1XFTsKsGvyzaMgIi2"
     },
     {
       "added_at": "2024-01-10 18:34:55",

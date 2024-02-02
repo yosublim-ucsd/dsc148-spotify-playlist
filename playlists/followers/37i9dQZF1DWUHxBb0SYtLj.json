@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 20902,
+  "2024-02-02": 20907,
   "date_first_scraped": "2021-12-28",
   "description": "Ascolta a tutto volume una selezione di spettacolari artiste italiane! Cover: Camilla Magli",
   "name": "EQUAL Italia",
@@ -5295,6 +5295,24 @@
     {
       "album": {
         "name": "Fila indiana",
+        "url": "https://open.spotify.com/album/68GC0n66xwvHhuAL8aJ9rM"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193387,
+      "name": "Fila indiana",
+      "url": "https://open.spotify.com/track/1H36kJUqLOHLSL98XQBRFU"
+    },
+    {
+      "album": {
+        "name": "Fila indiana",
         "url": "https://open.spotify.com/album/2Dy8cBZkLwkAQJGUls25Hb"
       },
       "artists": [
@@ -5305,7 +5323,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 193387,
       "name": "Fila indiana",
       "url": "https://open.spotify.com/track/2WTgfEZW6gYWhHCMkn4lMc"

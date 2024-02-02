@@ -1,12 +1,12 @@
 {
   "description": "all the stutter, all the feels.",
-  "num_followers": 44871,
+  "num_followers": 45002,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2ViZmJkMmIyODdjNWFkMTEwNGQ0MGQwZTE4ZGU3MTljYTliOGIw",
+  "snapshot_id": "MCw0YzlhMjczYWZiZTA5YmE1ZjEwNzQ5MGUxMGM1MjFmNTg4M2E4OTY0",
   "tracks": [
     {
       "added_at": "2024-01-11 23:00:00",
@@ -97,6 +97,22 @@
       "url": "https://open.spotify.com/track/6D8hNLZL3lz5Cp392mjrlG"
     },
     {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Need you",
+        "url": "https://open.spotify.com/album/5MnrvjNLuy6hR13XJGcxxt"
+      },
+      "artists": [
+        {
+          "name": "EBEN",
+          "url": "https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak"
+        }
+      ],
+      "duration_ms": 175522,
+      "name": "Need you",
+      "url": "https://open.spotify.com/track/72ezioGJGqEEpUWMsCBeil"
+    },
+    {
       "added_at": "2023-12-21 23:00:00",
       "album": {
         "name": "Ascend",
@@ -145,6 +161,22 @@
       "url": "https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1"
     },
     {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "High Road",
+        "url": "https://open.spotify.com/album/7vT3ASAHpNGwAD6gGo30gC"
+      },
+      "artists": [
+        {
+          "name": "ORZC",
+          "url": "https://open.spotify.com/artist/37oTmLY6rQTgMe4v8afZqE"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "High Road",
+      "url": "https://open.spotify.com/track/13kjnBoP4x5gESKZFnOJtZ"
+    },
+    {
       "added_at": "2024-01-11 23:00:00",
       "album": {
         "name": "Mas Que Nada",
@@ -189,6 +221,22 @@
       "url": "https://open.spotify.com/track/1GsurkwM6YwfQ9rNr14Of8"
     },
     {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "To Be Loved",
+        "url": "https://open.spotify.com/album/33ggnxVpDG4VspkNbJsxiu"
+      },
+      "artists": [
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        }
+      ],
+      "duration_ms": 171363,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/4LAhq9Q52LlwdpKxjaRzms"
+    },
+    {
       "added_at": "2024-01-25 23:00:00",
       "album": {
         "name": "Forget You",
@@ -223,6 +271,22 @@
       "duration_ms": 220245,
       "name": "DESCEND",
       "url": "https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "We Are The Risers",
+        "url": "https://open.spotify.com/album/0ZZZhM9g4uJKc50ziSWwPm"
+      },
+      "artists": [
+        {
+          "name": "Eli Mich",
+          "url": "https://open.spotify.com/artist/1HYEbZ42CBI8MsAa2TdDnj"
+        }
+      ],
+      "duration_ms": 204750,
+      "name": "We Are The Risers",
+      "url": "https://open.spotify.com/track/4fmjMZProIFigMcvyOILs6"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -261,6 +325,22 @@
       "url": "https://open.spotify.com/track/5j8YGb3u5uoryswPIpgT7v"
     },
     {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "without ur love",
+        "url": "https://open.spotify.com/album/1pjViRBeb37JuriN8ukcfX"
+      },
+      "artists": [
+        {
+          "name": "Midnight Dance Party",
+          "url": "https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj"
+        }
+      ],
+      "duration_ms": 231176,
+      "name": "without ur love",
+      "url": "https://open.spotify.com/track/4EZWt3NPTOoY9LBk7GuFmC"
+    },
+    {
       "added_at": "2023-12-21 23:00:00",
       "album": {
         "name": "With You",
@@ -283,6 +363,22 @@
       "duration_ms": 168398,
       "name": "With You",
       "url": "https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Will You Be There",
+        "url": "https://open.spotify.com/album/0Cq0XtuE4cy3KLZlVIfjCO"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 216377,
+      "name": "Will You Be There",
+      "url": "https://open.spotify.com/track/2QRtCSYAaiCxUoENINsAg4"
     },
     {
       "added_at": "2024-01-25 23:00:00",

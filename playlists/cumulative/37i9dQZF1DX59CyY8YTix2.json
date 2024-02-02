@@ -6726,7 +6726,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 153461,
       "name": "Mad Honey",
       "url": "https://open.spotify.com/track/4qK48wAWdmuq0B5ga0hamG"
@@ -12635,7 +12635,7 @@
     },
     {
       "album": {
-        "name": "Young life/brighter brighter",
+        "name": "Young life / brighter brighter",
         "url": "https://open.spotify.com/album/1zIN6VFlLxHjYRzaBmenqb"
       },
       "artists": [
@@ -17598,6 +17598,24 @@
       "duration_ms": 188811,
       "name": "\u30d0\u30b8\u30ea\u30b3",
       "url": "https://open.spotify.com/track/2zwqBVbPizLtqsNNUqY8QW"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30bf\u30d5\u30e9\u30a4",
+        "url": "https://open.spotify.com/album/3RWDRZ9L51JXdRYfsTBp0p"
+      },
+      "artists": [
+        {
+          "name": "\u9ed2\u5b50\u9996",
+          "url": "https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189521,
+      "name": "\u30d0\u30bf\u30d5\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/5hTz6biiwx8XYnP4rYNF8i"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 94510,
+  "2024-02-02": 94555,
   "date_first_scraped": "2022-05-30",
   "description": "Plug your brain into a modular synthesizer analog loop.",
   "name": "MoogTube",
@@ -884,6 +884,24 @@
     },
     {
       "album": {
+        "name": "Planet Jarre (Deluxe-Version)",
+        "url": "https://open.spotify.com/album/2r1JyHCVfb1ZUxwb5CzSns"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        }
+      ],
+      "date_added": "2021-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225053,
+      "name": "Equinoxe, Pt. 5",
+      "url": "https://open.spotify.com/track/0w6SpWTvf5i70VxgArASBB"
+    },
+    {
+      "album": {
         "name": "Equinoxe",
         "url": "https://open.spotify.com/album/41Dl68Kik63nV6zvn07NgY"
       },
@@ -895,7 +913,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 232093,
       "name": "Equinoxe, Pt. 5",
       "url": "https://open.spotify.com/track/3ZchdqDVsdeOq6PbHGt3MV"
@@ -2042,6 +2060,24 @@
     },
     {
       "album": {
+        "name": "Oxygene Trilogy",
+        "url": "https://open.spotify.com/album/469JDZgyHrDdZT25FeLKgT"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        }
+      ],
+      "date_added": "2021-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459920,
+      "name": "Oxygene, Pt. 1",
+      "url": "https://open.spotify.com/track/2K9u91HJTxyb6wGJQRaCWT"
+    },
+    {
+      "album": {
         "name": "Oxyg\u00e8ne",
         "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
       },
@@ -2053,7 +2089,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 460640,
       "name": "Oxygene, Pt. 1",
       "url": "https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm"
@@ -2078,6 +2114,24 @@
     },
     {
       "album": {
+        "name": "Oxygene Trilogy",
+        "url": "https://open.spotify.com/album/469JDZgyHrDdZT25FeLKgT"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        }
+      ],
+      "date_added": "2021-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246746,
+      "name": "Oxygene, Pt. 4",
+      "url": "https://open.spotify.com/track/2t9r7v0StZZraI1l6wgTgw"
+    },
+    {
+      "album": {
         "name": "Oxyg\u00e8ne",
         "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
       },
@@ -2089,7 +2143,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 246893,
       "name": "Oxygene, Pt. 4",
       "url": "https://open.spotify.com/track/0Tt2jli0yAD1MKSTb5MvS2"

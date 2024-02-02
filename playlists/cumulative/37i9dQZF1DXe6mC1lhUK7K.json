@@ -1467,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Wasting My Nights",
+        "url": "https://open.spotify.com/album/1X9H1qiFnjyIK5OuFv0FJF"
+      },
+      "artists": [
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179960,
+      "name": "STEPHEN KING",
+      "url": "https://open.spotify.com/track/0G5VxInG6PoZuSnBisMXei"
+    },
+    {
+      "album": {
         "name": "Still Alive (From the Original Motion Picture Scream VI)",
         "url": "https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q"
       },

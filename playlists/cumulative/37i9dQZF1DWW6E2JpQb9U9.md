@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-317 songs - 23 hr 51 min
+318 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Me Cuesta Creer \- En Vivo](https://open.spotify.com/track/0R1kLJXw9LFfpaej8U4BqA) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [MVD/05/03/05 \(En Vivo\)](https://open.spotify.com/album/3fV0us97rc1lbhjWVWQO2U) | 4:42 | 2022-04-01 | 2022-07-29 |
 | [Me envenenaste \- En directo Razzmatazz](https://open.spotify.com/track/1t3NbPBc8i2pQQnyneENrj) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Razzmatazz \(En directo\)](https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q) | 3:00 | 2023-06-02 | 2024-02-01 |
 | [Me estás atrapando otra vez \- En directo, Las Ventas 7 septiembre 1993](https://open.spotify.com/track/4w0IK3h9bT0FeY5YcH9A2t) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [En Las Ventas 7 septiembre 1993 \(En directo\)](https://open.spotify.com/album/30GKlcBPFyyhVjAxH6TC5Q) | 5:56 | 2022-04-01 | 2022-07-25 |
+| [Me Estás Tratando Mal \- Acústico Gran Rex Vol\. 2](https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Me Estás Tratando Mal \(Acústico Gran Rex Vol\. 2\)](https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM) | 4:26 | 2024-02-01 |  |
 | [Me Mata](https://open.spotify.com/track/4TOkJHPplwaJPmrhvLDZ6O) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [Kapangstock](https://open.spotify.com/album/5q9atOWoewQnrNG3t4mU5p) | 4:09 | 2022-04-01 | 2023-10-07 |
 | [Me Puedo Programar \(En Vivo](https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [En Vivo\-Vol.2](https://open.spotify.com/album/5qdC9gg5lgiYpPu9OWUAnw) | 3:21 | 2022-04-01 |  |
 | [Mil Horas \- En Vivo](https://open.spotify.com/track/6vQRSyzbD9UjBLD5os49n6) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Vivo \- Teatro Coliseo](https://open.spotify.com/album/6MmIwBF8II99Eq1vw6IlRc) | 3:02 | 2022-04-01 | 2022-07-14 |
@@ -212,7 +213,7 @@
 | [Ojos Rojos \- En vivo](https://open.spotify.com/track/5Rbbj3DEeK2PXRkzbJVv19) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Ojos Rojos \(En Vivo\)](https://open.spotify.com/album/3ccn8gkTRS9ly0X6795rsO) | 3:20 | 2023-08-31 | 2023-10-10 |
 | [Once \- En Vivo](https://open.spotify.com/track/18IcFu22fTHg9ozQ7cmfkz) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Once \(En Vivo\)](https://open.spotify.com/album/50CiSjlh8UQmAlViVVy2E8) | 4:29 | 2022-04-01 | 2022-07-19 |
 | [Oportunidad Oportuna \- En Vivo](https://open.spotify.com/track/4Rjs2IZkMR7owpO1yoVer9) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Autódromo de Buenos Aires, 19 de Junio de 2021 \(En Vivo\)](https://open.spotify.com/album/6Bs4kJWFkLO58YmGxVGOUJ) | 3:45 | 2023-04-07 | 2023-08-02 |
-| [Oportunidad Oportuna \- En Vivo](https://open.spotify.com/track/6OgghyP8vbOsC2CBvKYArD) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Autódromo de Buenos Aires, 19 de Junio de 2021 \(En Vivo\)](https://open.spotify.com/album/1Sxb0hpU35iLA3WeqEcMr8) | 3:45 | 2023-10-06 |  |
+| [Oportunidad Oportuna \- En Vivo](https://open.spotify.com/track/6OgghyP8vbOsC2CBvKYArD) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Autódromo de Buenos Aires, 19 de Junio de 2021 \(En Vivo\)](https://open.spotify.com/album/1Sxb0hpU35iLA3WeqEcMr8) | 3:45 | 2023-10-06 | 2024-02-02 |
 | [Oro de Abeja \(Vivo en Obras\)](https://open.spotify.com/track/6WYtFrLzFsoQmeipeBmmXz) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Trascenlace \(Vivo en Obras\)](https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy) | 4:43 | 2022-04-01 | 2022-07-02 |
 | [Paisano de Hurlingham](https://open.spotify.com/track/2UOJsDtVLCdSbwbhd2qSl3) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Divididos en Vélez \- Agradecer y Seguir](https://open.spotify.com/album/2TrRaAq10CSLmQV03lmQQy) | 6:08 | 2023-12-22 |  |
 | [Panic Show \- En Directo Desde Estadio De Huracán Buenos Aires / 2001](https://open.spotify.com/track/3uyCoLdG9s4fZGPoj8B2tn) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Insoportablemente Vivo \(En Directo Desde Estadio De Huracán Buenos Aires / 2001\)](https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x) | 3:38 | 2022-06-24 |  |

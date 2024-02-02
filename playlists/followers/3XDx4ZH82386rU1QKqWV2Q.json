@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 1065230,
+  "2024-02-02": 1065427,
   "date_first_scraped": "2023-06-15",
   "description": "Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!",
   "name": "SIGMA MALE TIKTOK MUSIC",
@@ -115,7 +115,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 216724,
       "name": "999",
       "url": "https://open.spotify.com/track/5xbt3rpxhFWXEFM9LrR5rO"
@@ -1827,7 +1827,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 132686,
       "name": "Dear Best Friend",
       "url": "https://open.spotify.com/track/1zJmO7JxS8d1TTDnkm0neu"
@@ -2346,6 +2346,24 @@
     },
     {
       "album": {
+        "name": "Etat du flux",
+        "url": "https://open.spotify.com/album/6iHQAIJYpYypzoixpVsvna"
+      },
+      "artists": [
+        {
+          "name": "N3URON",
+          "url": "https://open.spotify.com/artist/0NfuDnCzwIfKHCYle8Ja58"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133290,
+      "name": "Etat du flux",
+      "url": "https://open.spotify.com/track/2Msu7nxnBYOShtI8GRq5Kr"
+    },
+    {
+      "album": {
         "name": "ETERNAL",
         "url": "https://open.spotify.com/album/2eCAPVC8HXAEKc3XgVnTJw"
       },
@@ -2437,6 +2455,24 @@
       "duration_ms": 94426,
       "name": "EXIST (INTRO)",
       "url": "https://open.spotify.com/track/3WOQvVCBTgvFNFag0zmCXz"
+    },
+    {
+      "album": {
+        "name": "A.L.2.Y. (A Letter 2 You)",
+        "url": "https://open.spotify.com/album/62mjACeqyi8B9ocKHP4Tf3"
+      },
+      "artists": [
+        {
+          "name": "Threetime",
+          "url": "https://open.spotify.com/artist/5cbidYOexYEed0LKWXMOsq"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105645,
+      "name": "exotic_lyfestyle_prod.lukeruntz_",
+      "url": "https://open.spotify.com/track/5bAygY9jOCxRB3hr3EsDJO"
     },
     {
       "album": {
@@ -3827,7 +3863,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 224000,
       "name": "House Down",
       "url": "https://open.spotify.com/track/5TuBTdjCxrME5axAfnyPqc"
@@ -3907,6 +3943,24 @@
       "duration_ms": 127750,
       "name": "I Can't Wait",
       "url": "https://open.spotify.com/track/6p7z1BRGKYwjh7OBWmB7BR"
+    },
+    {
+      "album": {
+        "name": "i hope all of your dreams come true",
+        "url": "https://open.spotify.com/album/6Q4bXWBOgltXOdGLEQUABu"
+      },
+      "artists": [
+        {
+          "name": "SUNVOLUME",
+          "url": "https://open.spotify.com/artist/1QRKgtt4zlHihwAwVpMfxa"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "i hope all of your dreams come true",
+      "url": "https://open.spotify.com/track/1IRdgPM8JAIb4iVBN0qO1f"
     },
     {
       "album": {
@@ -4517,7 +4571,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 212500,
       "name": "LED Poisoning",
       "url": "https://open.spotify.com/track/4WmCTMxkCHZYXpIiqds8pj"
@@ -7501,7 +7555,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "SKYBRAIN",
       "url": "https://open.spotify.com/track/0hMF9JZmQDneq3U5LAlQ26"
@@ -7959,7 +8013,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 155820,
       "name": "STOOPID",
       "url": "https://open.spotify.com/track/2BK0jlOAN8zB07XwFduMSY"
@@ -8987,7 +9041,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 118032,
       "name": "Wait For Me Again",
       "url": "https://open.spotify.com/track/1vjLQyYsrCzoxalaSMn6p4"

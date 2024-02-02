@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,931 likes - 90 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,949 likes - 90 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 23 | [Mi Zaino Colorado / Al Pago de Federal / Tirador Sin Flecos \- En Vivo](https://open.spotify.com/track/0HeZU11H9gPbOipWUD81E5) | [Los Majestuosos Del Chamamé](https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp) | [Enganchados en Vivo Desde San José Feliciano / Nacional, Vol\. 2](https://open.spotify.com/album/3WT6s7UYfNlfID6p6N5BWZ) | 7:35 |
 | 24 | [Entre Chamamé y Sapucay](https://open.spotify.com/track/4CIfZ8W6QaIilsR7Ytb3LX) | [Monchito Merlo](https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3) | [Entre Chamamé y Sapucay](https://open.spotify.com/album/1icp40IGBQgUVHtyqdxRSX) | 2:35 |
 | 25 | [Pastor Luna y Su Acordeón](https://open.spotify.com/track/5OrIO5OgtulDJUtkfg1loG) | [Pastor Luna](https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW) | [30 Años Con el Chamamé](https://open.spotify.com/album/6Idi1uBauH0SESb3GdVLlf) | 2:11 |
-| 26 | [Sargento Sapo](https://open.spotify.com/track/62Jo56vQRQz0z6kydGxzxO) | [Los Criollos del Chamamé](https://open.spotify.com/artist/36f2CIEqFhCCBwCe68juJu) | [Festejando los 30 Años](https://open.spotify.com/album/55PYfEVMpfUekIwxTfFGQY) | 2:22 |
-| 27 | [Devuélveme el Corazón](https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Devuélveme el Corazón](https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0) | 3:00 |
+| 26 | [Devuélveme el Corazón](https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Devuélveme el Corazón](https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0) | 3:00 |
+| 27 | [Sargento Sapo](https://open.spotify.com/track/62Jo56vQRQz0z6kydGxzxO) | [Los Criollos del Chamamé](https://open.spotify.com/artist/36f2CIEqFhCCBwCe68juJu) | [Festejando los 30 Años](https://open.spotify.com/album/55PYfEVMpfUekIwxTfFGQY) | 2:22 |
 | 28 | [Enero](https://open.spotify.com/track/4NXUTU34xLQhFacaPxKij6) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Chamame](https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz) | 3:17 |
 | 29 | [Caña Doble para Mi Padre](https://open.spotify.com/track/6qZJ0iNA42Lp3KQ8r3Ya1K) | [Los Capos del Chamamé](https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn) | [El Guachito](https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM) | 3:01 |
 | 30 | [Adiós Ciudad de Mercedes](https://open.spotify.com/track/01XFm4g3gKr0Hmw2cjNn13) | [Los Sena](https://open.spotify.com/artist/3LIzi17zLwhW3k76I8DXcv) | [Reyes de la Alegría](https://open.spotify.com/album/4nHGvyIggXJIgOnhvCDgQK) | 2:10 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 64 | [El Cascabel](https://open.spotify.com/track/59jqFfNaUWKLRuuFRvePHl) | [Miguel Figueroa y Su Conjunto Amanecer Campero](https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef), [Luis Angel Torres](https://open.spotify.com/artist/2gu0de5RSdqvaEiEow3uAB) | [Amaneciendo](https://open.spotify.com/album/64NPd7ZaylZXrpYAIUrIKd) | 6:19 |
 | 65 | [Siete Higueras](https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf) | [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm), [Tarrago Ros](https://open.spotify.com/artist/2Bx9gYQLMfwrkxEhpo9xKL) | [Coleccion Aniversario](https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW) | 2:27 |
 | 66 | [La Leyenda de la Brasita de Fuego](https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Noche de Tormenta](https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd) | 3:12 |
-| 67 | [Oración del Remanso](https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Oración del Remanso](https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr) | 5:11 |
-| 68 | [Rumbeando Pal Litoral](https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf) | [Carlos Talavera con el Cuarteto Santa Ana](https://open.spotify.com/artist/6KmWYyLeQgz4DIQvxLZm9I), [Ernesto Montiel](https://open.spotify.com/artist/0kps7D5aSOND65MD33m9Pd) | [Los 55 Anos del Cuarteto Santa Ana](https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr) | 3:07 |
-| 69 | [Mi ponchillo colorado](https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP) | [Mario Millán Medina](https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:24 |
+| 67 | [Mi ponchillo colorado](https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP) | [Mario Millán Medina](https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:24 |
+| 68 | [Oración del Remanso](https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Oración del Remanso](https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr) | 5:11 |
+| 69 | [Rumbeando Pal Litoral](https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf) | [Carlos Talavera con el Cuarteto Santa Ana](https://open.spotify.com/artist/6KmWYyLeQgz4DIQvxLZm9I), [Ernesto Montiel](https://open.spotify.com/artist/0kps7D5aSOND65MD33m9Pd) | [Los 55 Anos del Cuarteto Santa Ana](https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr) | 3:07 |
 | 70 | [Tierra Colorada \- En Vivo en el Teatro Colón](https://open.spotify.com/track/3VNpX2bB43qkJGutZ65rff) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Tierra Colorada en el Teatro Colón: Chango Spasiuk en Concierto](https://open.spotify.com/album/3iTwMKOnbPJvE4SH12yj3s) | 4:48 |
 | 71 | [A villa Guillermina](https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg) | [Paquito Aranda](https://open.spotify.com/artist/78SvSuyvRN1LIjHpQd1daf) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:50 |
 | 72 | [Malvita](https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB) | [Blas Martinez Riera](https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:05 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 89 | [Jineteando](https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl) | [Fito Ledesma](https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:00 |
 | 90 | [Tiempo](https://open.spotify.com/track/1qQ2k6WRvClfd6e1BDjjtG) | [Hernán Crespo](https://open.spotify.com/artist/2SJyFDxAZamYqxC7tN2WeR), [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Tiempo](https://open.spotify.com/album/4VAmOJquewlCgACkqB6DgL) | 4:30 |
 
-Snapshot ID: `MCxiNTE1MDM4MzQ5ZWJkMTgxZjZiNWMxYmNjMThkMWVmMTE3MDg0Mzdl`
+Snapshot ID: `MCxlZjk2MjZkMGJmMDI1MDg2M2VjZGY2NGRlYTY2NjM1MWZmMTNhNTEz`

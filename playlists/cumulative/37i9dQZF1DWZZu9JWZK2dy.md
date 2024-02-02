@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-113 songs - 8 hr 2 min
+115 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,14 +46,16 @@
 | [INVOKE \-インヴォーク\-](https://open.spotify.com/track/2qge0m2SUWLUOPN9oypXm5) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [GEISHA BOY \-ANIME SONG EXPERIENCE\-](https://open.spotify.com/album/69ly56BCOHEVC3Q3UAlJzf) | 4:19 | 2022-07-06 | 2022-11-13 |
 | [INVOKE \-インヴォーク\-](https://open.spotify.com/track/34KpbxsYhTMt4N3HS34mb9) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [INVOKE \-インヴォーク\-](https://open.spotify.com/album/6EeRL1rcAcfBST5dbAQOYQ) | 4:20 | 2021-09-14 | 2022-07-29 |
 | [Iteza Gogo Kuji Don't be late](https://open.spotify.com/track/0kPsiiL5q1N54ywIbv1uaV) | [Sheryl Nome starring May'n](https://open.spotify.com/artist/5U8dcKsZ0mmeiUgbM0jvFC) | [MACROSS FRONTEER Ending Theme Diamond Crevasse / Iteza Gogo Kuji don't be late](https://open.spotify.com/album/66iUYxmg9mWPc4xbrpo9hq) | 5:43 | 2022-07-06 |  |
-| [JOINT](https://open.spotify.com/track/0VRn529V2PuyZ9HTbd5sy9) | [川田まみ](https://open.spotify.com/artist/5MqHx3rECV1BvBBFG3L508) | [SAVIA](https://open.spotify.com/album/2jOgLqERn9TY3dHpTPBpmP) | 4:01 | 2021-09-14 |  |
+| [JOINT](https://open.spotify.com/track/0VRn529V2PuyZ9HTbd5sy9) | [川田まみ](https://open.spotify.com/artist/5MqHx3rECV1BvBBFG3L508) | [SAVIA](https://open.spotify.com/album/2jOgLqERn9TY3dHpTPBpmP) | 4:01 | 2021-09-14 | 2024-02-02 |
+| [JOINT](https://open.spotify.com/track/4Tfao8rUHTsmE1chDISzk9) | [川田まみ](https://open.spotify.com/artist/5MqHx3rECV1BvBBFG3L508) | [SAVIA](https://open.spotify.com/album/7fIMsVvuT3qjRVLOwG4izc) | 4:01 | 2024-01-31 |  |
 | [Kerot! to March](https://open.spotify.com/track/3edh7C1iGIslrU7Vx7wTQH) | [Nobuaki Kakuda](https://open.spotify.com/artist/6d3s9bd3dlNCqNIQ7IMkWx), [Juri Ihata](https://open.spotify.com/artist/5V6Fmx6qjQcg7avFO4cyLK) | ["SERGEANT KERORO" KERORO Songs](https://open.spotify.com/album/6NA4L8cYcXbVnsYfzIestY) | 3:11 | 2022-07-06 |  |
 | [Lion](https://open.spotify.com/track/1ux8Y96cV5Qs0kdOCq4cZ2) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6), [Megumi Nakajima](https://open.spotify.com/artist/26ZuiIbHV0OGNX3EYsYeES) | [MACROSS FRONTIER Opening Theme Lion](https://open.spotify.com/album/36hcAxhOV7yBUdRquz4hj0) | 5:03 | 2022-07-06 |  |
 | [Love Destiny](https://open.spotify.com/track/14GCPjb7YH4BDvhF0DrvV5) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [Love Destiny](https://open.spotify.com/album/09wFdGA9QATYbr1yBH7YEL) | 4:33 | 2021-09-14 |  |
 | [MAJI DE KANSHA!](https://open.spotify.com/track/7fNIWITkFbwDZXLJsvlMcK) | [T\-Pistonz+KMC](https://open.spotify.com/artist/49bcuetvIVHNo5ARCZmR2k) | [GANBARIYO!](https://open.spotify.com/album/0Fw8zPzz10quVBw8tL2oZq) | 5:25 | 2023-09-29 |  |
 | [Motteke! Sailor Fuku](https://open.spotify.com/track/5Sg6CkwSkxByWyODIw0q5Y) | [Konata Izumi \(CV: Aya Hirano\)](https://open.spotify.com/artist/6iKqcqxRfV6U2GEUmv8CpO), [Kagami Hiiragi \(CV: Emiri Kato\)](https://open.spotify.com/artist/5fvbPC8rqrkz1VsqLqRx0D), [Tsukasa Hiiragi \(CV: Kaori Fukuhara\)](https://open.spotify.com/artist/5J8HJhja1Yop5ZDTQqRafw), [Miyuki Takara \(CV: Aya Endo\)](https://open.spotify.com/artist/7HNz2eAmvR2X7bGuHrBgpw) | [Motteke! Sailor Fuku](https://open.spotify.com/album/3VEAlxkmR2eYNJsuoB9J1x) | 4:14 | 2024-01-31 |  |
 | [Mysterious Eyes](https://open.spotify.com/track/3xtFrBrX6yuS1pNPVGufwO) | [GARNET CROW](https://open.spotify.com/artist/6vJEQqtEx2VB8clDzhyhvC) | [THE BEST History of GARNET CROW at the crest...](https://open.spotify.com/album/3e3NS2L4bziOWpIMvnRE3R) | 4:28 | 2021-09-14 |  |
-| [only my railgun](https://open.spotify.com/track/0djCH6HbCN3cFzNkKd46yv) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [only my railgun](https://open.spotify.com/album/6oxGBR7M0cQ3IhQMJrMRVl) | 4:17 | 2021-09-14 |  |
+| [only my railgun](https://open.spotify.com/track/27jIhWkbbjRBaLKeFF5vHN) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [infinite synthesis](https://open.spotify.com/album/5f2knLyWyxEl9wtnVNZe8X) | 4:14 | 2024-01-31 |  |
+| [only my railgun](https://open.spotify.com/track/0djCH6HbCN3cFzNkKd46yv) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [only my railgun](https://open.spotify.com/album/6oxGBR7M0cQ3IhQMJrMRVl) | 4:17 | 2021-09-14 | 2024-02-02 |
 | [Over Soul](https://open.spotify.com/track/3uIdLQXUeYAPI1DMQXbdpk) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [Over Soul](https://open.spotify.com/album/1pZ7Ubh11m5xzgXIP6ZrWk) | 3:53 | 2021-09-14 |  |
 | [Ponyo on the Cliff by the Sea](https://open.spotify.com/track/00lajXBbel7k0C8AefHwak) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Ponyo on the Cliff by the Sea Image Album](https://open.spotify.com/album/6bV3GjpvWu7Zf48GmSAnU3) | 2:46 | 2022-07-06 |  |
 | [Ride on Shooting Star](https://open.spotify.com/track/0pj90Ajg2NmdZalF67DfOF) | [the pillows](https://open.spotify.com/artist/6ilYV5oF8whllOnm4VZlYR) | [Flcl \(Original Soundtrack\)](https://open.spotify.com/album/02TbNzERYy1dt8LsQ9XZYu) | 2:21 | 2021-09-14 | 2022-07-29 |

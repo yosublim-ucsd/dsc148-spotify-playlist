@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,713 songs - 3 day 16 hr 15 min
+1,714 songs - 3 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 | 2023-09-30 | 2023-10-08 |
 | [Amo](https://open.spotify.com/track/422lbxDt4LGd8EvqwNLLq9) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Amo](https://open.spotify.com/album/53DQV8AagWMxuN0AGfFylV) | 3:08 | 2022-03-26 | 2022-04-30 |
 | [AMSTERDAM](https://open.spotify.com/track/7eL5hEvqtNmqG4FkYCYbfX) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 1:27 | 2024-01-06 | 2024-01-09 |
+| [ANARCHY \- Radio Edit](https://open.spotify.com/track/7yISDabQTwkhyWCDnEJiuh) | [Lavern](https://open.spotify.com/artist/2qPnosDXSvEoVj6tzG7p4h), [Bonfire](https://open.spotify.com/artist/4lhUAM6MXDFVc5Veq225ww), [BABYNAPS](https://open.spotify.com/artist/79Vr18dF6qtEgWvQ5ZIlpQ), [djbasra](https://open.spotify.com/artist/3QWyLTlDBtGXjdCfuXfsZQ), [SWEDISH WIFE MAFFIA](https://open.spotify.com/artist/7aawB46SkOpdtTDK5gFQJe) | [ANARCHY](https://open.spotify.com/album/3HhI41WqIAWkCytVahKyVb) | 1:54 | 2024-02-01 |  |
 | [ANC \(Ain’t No Cap\) \[feat\. DnoteOnDaBeat\]](https://open.spotify.com/track/53qhzT1Y88m4ixckMTC9YZ) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [DnoteOnDaBeat](https://open.spotify.com/artist/4wsqTX9xCVoObzRPvjoV4H) | [ANC \(Ain’t No Cap\) \[feat\. DnoteOnDaBeat\]](https://open.spotify.com/album/4niNpZTtGmGViyuXeJC9Di) | 1:57 | 2022-12-03 | 2022-12-05 |
 | [Andas in andas ut](https://open.spotify.com/track/7tHkIqI9XU8qCfLHIzl0pp) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Andas in andas ut](https://open.spotify.com/album/4Hy5SVsOUpO5ggDl3xOyen) | 2:36 | 2023-04-22 | 2023-10-15 |
 | [Andas in andas ut](https://open.spotify.com/track/0gF8DDkQ4AZEEgPsWL95n6) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Superlativ 97](https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu) | 2:37 | 2023-10-14 | 2024-01-30 |
@@ -1415,7 +1416,7 @@
 | [STICKY](https://open.spotify.com/track/2TJHQcYJVjpHOYoa8NeumK) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [STICKY](https://open.spotify.com/album/1iy7ZOslpXrT7NWtswHDu6) | 2:36 | 2024-01-27 |  |
 | [Sticky Situation](https://open.spotify.com/track/7vVLexVH1BvkF0xoXveBFt) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Sticky Situation](https://open.spotify.com/album/6BqwUpGcFPcSo7tkQT6xTD) | 2:59 | 2023-02-11 | 2023-02-19 |
 | [Stjärnorna](https://open.spotify.com/track/2FZax4rYTOkcnG02PrJDzk) | [Humlan Djojj](https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ), [Josefine Götestam](https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju) | [Stjärnorna](https://open.spotify.com/album/4X9JpQTFbAJJOc2vQTtnDT) | 2:46 | 2023-01-02 | 2023-11-26 |
-| [Stjärnorna](https://open.spotify.com/track/5jlAu4lHHVzheutRcbDklk) | [Humlan Djojj](https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ), [Josefine Götestam](https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju) | [Somna med Humlan Djojj](https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG) | 2:46 | 2023-12-29 |  |
+| [Stjärnorna](https://open.spotify.com/track/5jlAu4lHHVzheutRcbDklk) | [Humlan Djojj](https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ), [Josefine Götestam](https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju) | [Somna med Humlan Djojj](https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG) | 2:46 | 2023-12-29 | 2024-02-02 |
 | [Stockholm](https://open.spotify.com/track/5eBmEqZHt2u5bGDpl7u9Y8) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [En gång i tiden \(del 2\)](https://open.spotify.com/album/2D0NU2s1xrC8wGRkMrJUjP) | 3:08 | 2021-04-18 | 2021-04-22 |
 | [Stockholm](https://open.spotify.com/track/4H0AdBg9qzLtFiIywVy5iN) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Stockholm](https://open.spotify.com/album/3jzARru6P0tgzS8b8GPeOl) | 3:44 | 2023-11-13 | 2023-11-22 |
 | [Stockholm i natt](https://open.spotify.com/track/57TT1KRWDS35o1M9kiw4Jf) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Stockholm i natt](https://open.spotify.com/album/1DRbmA5XjnBuTrN6sPcrDx) | 3:32 | 2021-11-09 | 2021-11-27 |

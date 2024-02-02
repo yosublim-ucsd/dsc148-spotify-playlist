@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 710,
+  "2024-02-02": 711,
   "date_first_scraped": "2022-06-05",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5nEbufTK1GscqQUw0AL6wp\">JonTheProducer</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By JonTheProducer",
@@ -25,7 +25,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 199407,
       "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
       "url": "https://open.spotify.com/track/7xcfuHG60u1YiGAO02RZIF"
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 118773,
       "name": "Guaro",
       "url": "https://open.spotify.com/track/57sG0muDy6txXqYFBlcA6y"
@@ -1101,7 +1101,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 131711,
       "name": "Guaro",
       "url": "https://open.spotify.com/track/0YU53P25kD7JK8P6g4AoDv"
@@ -1279,7 +1279,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 219711,
       "name": "La Boca",
       "url": "https://open.spotify.com/track/1YfMT1kT3hWTyWdEHP6w5L"
@@ -1439,7 +1439,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 216733,
       "name": "Lento",
       "url": "https://open.spotify.com/track/31dIPeytivJSNsEqeyVyfW"
@@ -1461,7 +1461,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 229610,
       "name": "Lento",
       "url": "https://open.spotify.com/track/5JKiVNxTcziggFviKzyTmq"
@@ -1883,7 +1883,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 141508,
       "name": "Medicina",
       "url": "https://open.spotify.com/track/4R5xvs5X0phd0EYWyGigju"
@@ -1901,7 +1901,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 173256,
       "name": "Medicina",
       "url": "https://open.spotify.com/track/4ku0D5uNkQwwk8tH95vQYg"
@@ -2069,7 +2069,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 162880,
       "name": "Naturaleza",
       "url": "https://open.spotify.com/track/2OlxJKrbyLmzAO14EgV53K"
@@ -2091,7 +2091,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 164160,
       "name": "Naturaleza",
       "url": "https://open.spotify.com/track/6IWp8i54pHxYttrCUIaqNd"
@@ -2459,7 +2459,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 193825,
       "name": "PAP\u00c1S",
       "url": "https://open.spotify.com/track/5k06NOShiGa9ZxXHtavS2p"
@@ -2477,7 +2477,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 197994,
       "name": "PAP\u00c1S",
       "url": "https://open.spotify.com/track/2PON306vxEvIdohnhp7Xfk"
@@ -3029,7 +3029,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 186842,
       "name": "Un Poquito",
       "url": "https://open.spotify.com/track/3aWCkmStzGLDDmlwxJtQrU"
@@ -3051,7 +3051,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 199466,
       "name": "Un Poquito",
       "url": "https://open.spotify.com/track/016PgM2tBnXkKfoaXg0WBA"
@@ -3127,7 +3127,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 193600,
       "name": "Ya T\u00fa Me Conoces",
       "url": "https://open.spotify.com/track/0LTcMkl0IhBSRWYmHQ8mkY"
@@ -3149,7 +3149,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 195573,
       "name": "Ya T\u00fa Me Conoces",
       "url": "https://open.spotify.com/track/3ldgkMriNO5qTaIJ4zlNCL"

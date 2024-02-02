@@ -1,12 +1,12 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 176373,
+  "num_followers": 176473,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGExZWIzZjI1NTZhYWM0OTc0NTkzMGJlZGE4MWZiZmU2NmI0NmFj",
+  "snapshot_id": "MCwxN2M5Zjc3OTI4NjBiZDQwZWE3ODlkMGMzMGEzZjBmOGQxNDhmNWM0",
   "tracks": [
     {
       "added_at": "2023-12-27 09:37:08",
@@ -123,18 +123,22 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Lama Tkooni",
-        "url": "https://open.spotify.com/album/5UtCKCQtEMEgenYWqYmxIB"
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/1cOXVnqOJwaUSmVQ6FIM8H"
       },
       "artists": [
         {
-          "name": "siilawy",
-          "url": "https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B"
+          "name": "Ghaliaa",
+          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
+        },
+        {
+          "name": "Samer Doumet",
+          "url": "https://open.spotify.com/artist/7hlPAEf48Y2eLA4Oax6u47"
         }
       ],
-      "duration_ms": 211071,
-      "name": "Lama Tkooni",
-      "url": "https://open.spotify.com/track/3eFh5hiL65ylUoGAAI3Rl1"
+      "duration_ms": 201379,
+      "name": "3abali",
+      "url": "https://open.spotify.com/track/11Eb5dyeLaWfBgo9CuUhCO"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -175,22 +179,18 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Amygdala",
-        "url": "https://open.spotify.com/album/1cOXVnqOJwaUSmVQ6FIM8H"
+        "name": "Lama Tkooni",
+        "url": "https://open.spotify.com/album/5UtCKCQtEMEgenYWqYmxIB"
       },
       "artists": [
         {
-          "name": "Ghaliaa",
-          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
-        },
-        {
-          "name": "Samer Doumet",
-          "url": "https://open.spotify.com/artist/7hlPAEf48Y2eLA4Oax6u47"
+          "name": "siilawy",
+          "url": "https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B"
         }
       ],
-      "duration_ms": 201379,
-      "name": "3abali",
-      "url": "https://open.spotify.com/track/11Eb5dyeLaWfBgo9CuUhCO"
+      "duration_ms": 211071,
+      "name": "Lama Tkooni",
+      "url": "https://open.spotify.com/track/3eFh5hiL65ylUoGAAI3Rl1"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Kol Yom Men Dah",
-        "url": "https://open.spotify.com/album/5jLCYOiVF1KkRjDJl10r4f"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Hamaki",
-          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Mel Bedaya",
-      "url": "https://open.spotify.com/track/2j9B8YHcnxDwiDNZg6UXFl"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "A Girl Within My Soul",
         "url": "https://open.spotify.com/album/299UA28OE1Nk7AnmUAv2ED"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 391386,
       "name": "A Girl Within My Soul",
       "url": "https://open.spotify.com/track/2LT201aq632QgRQqLWFN5O"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Kol Yom Men Dah",
+        "url": "https://open.spotify.com/album/5jLCYOiVF1KkRjDJl10r4f"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Hamaki",
+          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Mel Bedaya",
+      "url": "https://open.spotify.com/track/2j9B8YHcnxDwiDNZg6UXFl"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Ya Ayech Bi Oyouni",
-        "url": "https://open.spotify.com/album/58bJrHDzBpbByyqV3WMqCH"
-      },
-      "artists": [
-        {
-          "name": "Yara",
-          "url": "https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e"
-        }
-      ],
-      "duration_ms": 242760,
-      "name": "Ma Baaref",
-      "url": "https://open.spotify.com/track/3o33CncxOfTLMYcGAIND9t"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
         "url": "https://open.spotify.com/album/3n3DCKoWvQdEgrF0GLDHuF"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 291440,
       "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
       "url": "https://open.spotify.com/track/4HbQMB4aMPTATNBC1qweUN"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Ya Ayech Bi Oyouni",
+        "url": "https://open.spotify.com/album/58bJrHDzBpbByyqV3WMqCH"
+      },
+      "artists": [
+        {
+          "name": "Yara",
+          "url": "https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e"
+        }
+      ],
+      "duration_ms": 242760,
+      "name": "Ma Baaref",
+      "url": "https://open.spotify.com/track/3o33CncxOfTLMYcGAIND9t"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Yawman Ma",
-        "url": "https://open.spotify.com/album/7gRVnSkXghsBft2P4K8Ycy"
-      },
-      "artists": [
-        {
-          "name": "Julia Boutros",
-          "url": "https://open.spotify.com/artist/1MBqKgaBet9mU8vI0hqj6c"
-        }
-      ],
-      "duration_ms": 202422,
-      "name": "Yawman Ma",
-      "url": "https://open.spotify.com/track/3gucBOpDuQQkemmVE2NtEQ"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "Hekm El Alb",
         "url": "https://open.spotify.com/album/2FA8ZbAi3WezUq5I7fvmgT"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 236066,
       "name": "Hekm El Alb",
       "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Yawman Ma",
+        "url": "https://open.spotify.com/album/7gRVnSkXghsBft2P4K8Ycy"
+      },
+      "artists": [
+        {
+          "name": "Julia Boutros",
+          "url": "https://open.spotify.com/artist/1MBqKgaBet9mU8vI0hqj6c"
+        }
+      ],
+      "duration_ms": 202422,
+      "name": "Yawman Ma",
+      "url": "https://open.spotify.com/track/3gucBOpDuQQkemmVE2NtEQ"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
+        "name": "Ya Bay",
+        "url": "https://open.spotify.com/album/2gnn8Mwb6Njbh34OsqvoIh"
+      },
+      "artists": [
+        {
+          "name": "Hayajan",
+          "url": "https://open.spotify.com/artist/0ezquZkJscWDhtBZwptcKT"
+        }
+      ],
+      "duration_ms": 336008,
+      "name": "Ween El-Kalam",
+      "url": "https://open.spotify.com/track/5FoOlTlC8pzAHV23s7gPqY"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
         "name": "R.I.M.I.X",
         "url": "https://open.spotify.com/album/2OVAzbPUeWOdrmcZ9Lr0Fc"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 206226,
       "name": "The Sun of Love - Remix",
       "url": "https://open.spotify.com/track/0ssucGvDVIMzkZsdeEkLks"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
-        "name": "Ya Bay",
-        "url": "https://open.spotify.com/album/2gnn8Mwb6Njbh34OsqvoIh"
-      },
-      "artists": [
-        {
-          "name": "Hayajan",
-          "url": "https://open.spotify.com/artist/0ezquZkJscWDhtBZwptcKT"
-        }
-      ],
-      "duration_ms": 336008,
-      "name": "Ween El-Kalam",
-      "url": "https://open.spotify.com/track/5FoOlTlC8pzAHV23s7gPqY"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "A Time to Cry - a Lament over Jerusalem",
-        "url": "https://open.spotify.com/album/5Q1IFJcO2UoccuVQkIukc8"
-      },
-      "artists": [
-        {
-          "name": "Nai Barghouti",
-          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
-        }
-      ],
-      "duration_ms": 208626,
-      "name": "Mum, Sing to the Wind",
-      "url": "https://open.spotify.com/track/6DdxuWERjRsWofoIuZJiwA"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "Caf\u00e9 Sessions",
         "url": "https://open.spotify.com/album/5SSTPqEYSx9SlO8AFx3nwg"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 232456,
       "name": "Magic",
       "url": "https://open.spotify.com/track/4Uag89IBUeSUvugURZaLnl"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "A Time to Cry - a Lament over Jerusalem",
+        "url": "https://open.spotify.com/album/5Q1IFJcO2UoccuVQkIukc8"
+      },
+      "artists": [
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        }
+      ],
+      "duration_ms": 208626,
+      "name": "Mum, Sing to the Wind",
+      "url": "https://open.spotify.com/track/6DdxuWERjRsWofoIuZJiwA"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Ella Enta (Live Session)",
-        "url": "https://open.spotify.com/album/5FT5xEJlyZtt1XIRZbxaq3"
-      },
-      "artists": [
-        {
-          "name": "Dana Hourani",
-          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
-        }
-      ],
-      "duration_ms": 248952,
-      "name": "Ella Enta - Live Session",
-      "url": "https://open.spotify.com/track/1l85llrpN5nsLuEdKlGQFQ"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "Ossit Helem",
         "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 232618,
       "name": "Bala Wala Shi (Live)",
       "url": "https://open.spotify.com/track/0EP3x8Yh2JtvWmFjEOENU3"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Ella Enta (Live Session)",
+        "url": "https://open.spotify.com/album/5FT5xEJlyZtt1XIRZbxaq3"
+      },
+      "artists": [
+        {
+          "name": "Dana Hourani",
+          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
+        }
+      ],
+      "duration_ms": 248952,
+      "name": "Ella Enta - Live Session",
+      "url": "https://open.spotify.com/track/1l85llrpN5nsLuEdKlGQFQ"
     },
     {
       "added_at": "2023-12-27 09:37:08",

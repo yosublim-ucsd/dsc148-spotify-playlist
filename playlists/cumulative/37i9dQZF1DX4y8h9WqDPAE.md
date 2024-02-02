@@ -4,7 +4,7 @@
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Fridayy
 
-624 songs - 1 day 8 hr 56 min
+625 songs - 1 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,8 @@
 | [Love In The Way](https://open.spotify.com/track/3fWchdm3NfLb4licNeIhV7) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Love In The Way](https://open.spotify.com/album/4sc3Nc9o5sCni7SCPsKE4t) | 3:41 | 2022-09-16 | 2023-03-25 |
 | [Love Jones \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/0vbFrb1U7sRV2UhEPCmE3t) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:03 | 2023-08-18 | 2023-10-14 |
 | [Love Me Right](https://open.spotify.com/track/4iDjnpw9LVl20pDoCDtOSM) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Full Circle : Sonic Book One](https://open.spotify.com/album/0ZTwFe2keKG5kkROe5Unf7) | 2:12 | 2023-05-05 | 2023-11-25 |
-| [Love Me To Find You](https://open.spotify.com/track/2BfaDvGnccdSeTqzFbney3) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH), [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv) | [Love Me To Find You](https://open.spotify.com/album/0K1WIwt6RYedA9m35kUBsN) | 2:57 | 2023-11-10 |  |
+| [Love Me To Find You](https://open.spotify.com/track/1pkhUY53NetOiJTMfvfRQF) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH), [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv) | [Love Me To Find You](https://open.spotify.com/album/40GCAcjqfvm1d8RGehvlf9) | 2:57 | 2023-11-10 |  |
+| [Love Me To Find You](https://open.spotify.com/track/2BfaDvGnccdSeTqzFbney3) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH), [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv) | [Love Me To Find You](https://open.spotify.com/album/0K1WIwt6RYedA9m35kUBsN) | 2:57 | 2023-11-10 | 2024-02-02 |
 | [Loving You](https://open.spotify.com/track/3wnvVFi4YQrMQBar9mjr2x) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Loving You](https://open.spotify.com/album/5t6XKWbdoGqCAKNrkSXN63) | 4:18 | 2023-03-17 | 2023-03-25 |
 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2022-12-09 |  |
 | [Low Waist](https://open.spotify.com/track/5rb99A8aR2scVXSLIbLAft) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Low Waist](https://open.spotify.com/album/48xKnLRBNSajT7mcP4zdTb) | 3:01 | 2023-09-29 |  |

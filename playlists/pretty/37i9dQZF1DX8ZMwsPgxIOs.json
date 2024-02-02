@@ -1,12 +1,12 @@
 {
   "description": "Techno is a state of mind. Cover: Amelie Lens",
-  "num_followers": 119626,
+  "num_followers": 119657,
   "original_name": "Techno State",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGE0M2MyYzkxYjFlN2JiZjlhYTE1NGRjYzFmNjgyY2M5MGY4Yjgy",
+  "snapshot_id": "MCwxZTdiMjNiMDkzZjRhOGFmNTQ2YWI0NmM0MzNlYzRkNDgyYmQ0ZmZk",
   "tracks": [
     {
       "added_at": "2024-01-19 00:01:00",
@@ -69,6 +69,30 @@
       "url": "https://open.spotify.com/track/7irrCOHmsuQve6JLGCMB0w"
     },
     {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "GENESIS",
+        "url": "https://open.spotify.com/album/0ooUnGvQJmZap152eUHY0y"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 208804,
+      "name": "GENESIS",
+      "url": "https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34"
+    },
+    {
       "added_at": "2023-12-22 00:01:00",
       "album": {
         "name": "You and Me",
@@ -107,6 +131,22 @@
       "duration_ms": 148571,
       "name": "What I Do",
       "url": "https://open.spotify.com/track/5Xi4xwLls4A7J0NqOfkWID"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Let's Begin",
+        "url": "https://open.spotify.com/album/3G95YugyYcr8ty6fIM1P5P"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "duration_ms": 250147,
+      "name": "Let's Begin",
+      "url": "https://open.spotify.com/track/008Q1wg8oH594VO9XkolM8"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -165,20 +205,20 @@
       "url": "https://open.spotify.com/track/1gVDPdCghb3j9wX02yeydF"
     },
     {
-      "added_at": "2023-12-22 00:01:00",
+      "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Desert Queen",
-        "url": "https://open.spotify.com/album/0yG7rxCosQLHe9LH6fgxoH"
+        "name": "Step Forward EP",
+        "url": "https://open.spotify.com/album/6G9EVsvrgPLV34oAxeNx2I"
       },
       "artists": [
         {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+          "name": "Ben Sterling",
+          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
         }
       ],
-      "duration_ms": 236691,
-      "name": "Desert Queen",
-      "url": "https://open.spotify.com/track/3XEGdwonYRQM5sX0I0CsoR"
+      "duration_ms": 335269,
+      "name": "Step Forward",
+      "url": "https://open.spotify.com/track/0wRlUOHmdlPEzuK1qfbYAm"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -195,6 +235,82 @@
       "duration_ms": 141780,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/7rISI4OowAaN0ciRUPTsk8"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Flash",
+        "url": "https://open.spotify.com/album/1dhyqzHzKfzY0aCgRuwgK3"
+      },
+      "artists": [
+        {
+          "name": "My Friend",
+          "url": "https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw"
+        },
+        {
+          "name": "Darla Jade",
+          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
+        }
+      ],
+      "duration_ms": 172520,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/0l5Xszbwm0vsNOWAiGwg8N"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Oh My",
+        "url": "https://open.spotify.com/album/35IaeVYU7soMmkdDbWVUo5"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Oh My",
+      "url": "https://open.spotify.com/track/0sgh2BTw3Rgckpu04xmJGe"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Hit It Back",
+        "url": "https://open.spotify.com/album/2MpANhnsIZjNCpomkvODeK"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        }
+      ],
+      "duration_ms": 138139,
+      "name": "Hit It Back",
+      "url": "https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Desert Queen",
+        "url": "https://open.spotify.com/album/0yG7rxCosQLHe9LH6fgxoH"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "duration_ms": 236691,
+      "name": "Desert Queen",
+      "url": "https://open.spotify.com/track/3XEGdwonYRQM5sX0I0CsoR"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -223,6 +339,38 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Perception",
+        "url": "https://open.spotify.com/album/2VAQkslaimMoY3kAIBwash"
+      },
+      "artists": [
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        }
+      ],
+      "duration_ms": 282247,
+      "name": "Perception",
+      "url": "https://open.spotify.com/track/1ekuYNPiJXmXqb92TORiPX"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/6sD3U3E72UvI8Od8I6QoiA"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 175781,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/0A0CZzjON3WXZvEyPoA6GQ"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Higher Power",
         "url": "https://open.spotify.com/album/5t81OipNDNgEJ8MR5RVwFU"
       },
@@ -245,6 +393,38 @@
       "url": "https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7"
     },
     {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Dirty Blonde",
+        "url": "https://open.spotify.com/album/72p8LFXjfXEHqfmHoHoUDb"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 207067,
+      "name": "Dirty Blonde",
+      "url": "https://open.spotify.com/track/4xTFiSi0CmH8hrkMeMGca4"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Formulate",
+        "url": "https://open.spotify.com/album/1gG1t6YSrSolqK0F6Dy03I"
+      },
+      "artists": [
+        {
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        }
+      ],
+      "duration_ms": 184047,
+      "name": "Formulate",
+      "url": "https://open.spotify.com/track/5hIikVMKkHbcqWf5RssqfC"
+    },
+    {
       "added_at": "2024-01-19 00:01:00",
       "album": {
         "name": "Digital Dream",
@@ -265,60 +445,56 @@
       "url": "https://open.spotify.com/track/4JnQpysntdJZsSvPwu67b5"
     },
     {
-      "added_at": "2023-12-22 00:01:00",
+      "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Flash",
-        "url": "https://open.spotify.com/album/1dhyqzHzKfzY0aCgRuwgK3"
+        "name": "Universal Nation (Charlotte de Witte Rework)",
+        "url": "https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq"
       },
       "artists": [
         {
-          "name": "My Friend",
-          "url": "https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw"
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
         },
         {
-          "name": "Darla Jade",
-          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
         }
       ],
-      "duration_ms": 172520,
-      "name": "Flash",
-      "url": "https://open.spotify.com/track/0l5Xszbwm0vsNOWAiGwg8N"
+      "duration_ms": 240000,
+      "name": "Universal Nation - Charlotte de Witte Rework - Edit",
+      "url": "https://open.spotify.com/track/1NhCSHNxAyFb00yI1Am68e"
     },
     {
-      "added_at": "2023-12-22 00:01:00",
+      "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Dirty Blonde",
-        "url": "https://open.spotify.com/album/72p8LFXjfXEHqfmHoHoUDb"
+        "name": "Oddity",
+        "url": "https://open.spotify.com/album/5kgvEI9RY1wVrCP1URSgwe"
       },
       "artists": [
         {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+          "name": "Powers & Paterson",
+          "url": "https://open.spotify.com/artist/00Zc5l1YWDtZJFQxqpYYNy"
         }
       ],
-      "duration_ms": 207067,
-      "name": "Dirty Blonde",
-      "url": "https://open.spotify.com/track/4xTFiSi0CmH8hrkMeMGca4"
+      "duration_ms": 180000,
+      "name": "Oddity",
+      "url": "https://open.spotify.com/track/1kzz0jJUMFEBYPgtvVrMSr"
     },
     {
-      "added_at": "2024-01-12 00:01:00",
+      "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Oh My",
-        "url": "https://open.spotify.com/album/35IaeVYU7soMmkdDbWVUo5"
+        "name": "Sleep When I'm Dead",
+        "url": "https://open.spotify.com/album/7I577n54Z2sUrjsXousEIY"
       },
       "artists": [
         {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        },
-        {
-          "name": "Alika",
-          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
+          "name": "Matt Guy",
+          "url": "https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Oh My",
-      "url": "https://open.spotify.com/track/0sgh2BTw3Rgckpu04xmJGe"
+      "duration_ms": 160500,
+      "name": "Sleep When I'm Dead",
+      "url": "https://open.spotify.com/track/7jfDt0UHiWpD5TJA8yiA7Q"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -341,6 +517,30 @@
       "url": "https://open.spotify.com/track/2Vp2qK8gK6HPvVenIvCauz"
     },
     {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Spiritum",
+        "url": "https://open.spotify.com/album/3DLisv8F3tPRnqRgAwPmxn"
+      },
+      "artists": [
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Shibui",
+          "url": "https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4"
+        }
+      ],
+      "duration_ms": 193528,
+      "name": "Spiritum",
+      "url": "https://open.spotify.com/track/1Ck2WX9Gw7zIFlhc6kZRu9"
+    },
+    {
       "added_at": "2024-01-12 00:01:00",
       "album": {
         "name": "Poison",
@@ -357,20 +557,24 @@
       "url": "https://open.spotify.com/track/5IUVlYlvUtiqEC1qJbFZu8"
     },
     {
-      "added_at": "2023-12-22 00:01:00",
+      "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Perception",
-        "url": "https://open.spotify.com/album/2VAQkslaimMoY3kAIBwash"
+        "name": "We Search The Light",
+        "url": "https://open.spotify.com/album/10Z3P4DqjY2KH0rtprw7O9"
       },
       "artists": [
         {
-          "name": "Chris Avantgarde",
-          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+          "name": "Peku",
+          "url": "https://open.spotify.com/artist/58ymJmJX4s6XHgrwP0wMH3"
+        },
+        {
+          "name": "Droplex",
+          "url": "https://open.spotify.com/artist/5yePldMswAMD9fvIfRUc2o"
         }
       ],
-      "duration_ms": 282247,
-      "name": "Perception",
-      "url": "https://open.spotify.com/track/1ekuYNPiJXmXqb92TORiPX"
+      "duration_ms": 396190,
+      "name": "We Search The Light",
+      "url": "https://open.spotify.com/track/2JgGVygm5ZQaLU8qmtJwEe"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -473,22 +677,6 @@
       "url": "https://open.spotify.com/track/4z5TeX7iJyiBU0J0CbzToz"
     },
     {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Oddity",
-        "url": "https://open.spotify.com/album/5kgvEI9RY1wVrCP1URSgwe"
-      },
-      "artists": [
-        {
-          "name": "Powers & Paterson",
-          "url": "https://open.spotify.com/artist/00Zc5l1YWDtZJFQxqpYYNy"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Oddity",
-      "url": "https://open.spotify.com/track/1kzz0jJUMFEBYPgtvVrMSr"
-    },
-    {
       "added_at": "2023-12-22 00:01:00",
       "album": {
         "name": "Dress Code",
@@ -503,6 +691,22 @@
       "duration_ms": 203437,
       "name": "Dress Code",
       "url": "https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Constellation Series, Vol. 2",
+        "url": "https://open.spotify.com/album/3zh113FtyKoyyv2RP3anDl"
+      },
+      "artists": [
+        {
+          "name": "Eynka",
+          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
+        }
+      ],
+      "duration_ms": 452626,
+      "name": "Cascada",
+      "url": "https://open.spotify.com/track/4aEiPEkgpHcu4HAzmIBfr8"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -523,6 +727,22 @@
       "duration_ms": 197822,
       "name": "Syren",
       "url": "https://open.spotify.com/track/3hGXZKj3lYKKRQtKE8XN55"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Europatr\u00e4ume",
+        "url": "https://open.spotify.com/album/5AXd8wp7NNydXNzFAxlXmf"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 216592,
+      "name": "Europatr\u00e4ume",
+      "url": "https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -751,22 +971,6 @@
       "duration_ms": 190393,
       "name": "Mind Off",
       "url": "https://open.spotify.com/track/0yiBVwWJkUDQlb10uQS5cp"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "Constellation Series, Vol. 2",
-        "url": "https://open.spotify.com/album/3zh113FtyKoyyv2RP3anDl"
-      },
-      "artists": [
-        {
-          "name": "Eynka",
-          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
-        }
-      ],
-      "duration_ms": 452626,
-      "name": "Cascada",
-      "url": "https://open.spotify.com/track/4aEiPEkgpHcu4HAzmIBfr8"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1375,22 +1579,6 @@
       "duration_ms": 174285,
       "name": "Coke & Rum",
       "url": "https://open.spotify.com/track/47SbCzEuIxZbLbNBs21FoW"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Vista Mare Forever",
-        "url": "https://open.spotify.com/album/6s7TqgQdz4A8Ghx0dXsxqW"
-      },
-      "artists": [
-        {
-          "name": "Giulia Tess",
-          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
-        }
-      ],
-      "duration_ms": 274738,
-      "name": "Monica Vitti",
-      "url": "https://open.spotify.com/track/7bIqHtObwmyE16EazeXHWa"
     },
     {
       "added_at": "2023-12-22 00:01:00",

@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 466008,
+  "2024-02-02": 465975,
   "date_first_scraped": "2021-12-21",
   "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Immortal",
   "name": "Extreme Metal",
@@ -1865,6 +1865,24 @@
       "duration_ms": 315360,
       "name": "Cradle of Insanity",
       "url": "https://open.spotify.com/track/0yZtGvT7RgxjncYE0Pg9fV"
+    },
+    {
+      "album": {
+        "name": "Crime & Castigo",
+        "url": "https://open.spotify.com/album/0ZHPGYQJGwJo1amjYy3h2T"
+      },
+      "artists": [
+        {
+          "name": "Hatefulmurder",
+          "url": "https://open.spotify.com/artist/6gzTPz8NipWH2EBUPw1CPy"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Crime & Castigo",
+      "url": "https://open.spotify.com/track/5zWrHra7s2PdCD3diJsQ2U"
     },
     {
       "album": {
@@ -9797,7 +9815,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 235919,
       "name": "Valkyriernes Sang",
       "url": "https://open.spotify.com/track/7KEeACpTUmbfSmBowFgmnK"

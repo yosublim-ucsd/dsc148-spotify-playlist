@@ -4,7 +4,7 @@
 
 > Celebrating the oral tradition of Punjabi poetry.
 
-44 songs - 3 hr 10 min
+45 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Baari Baari Barsi](https://open.spotify.com/track/60Ne3aGDgfPayz36USh52x) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [G Guri](https://open.spotify.com/artist/1wyLADmnHMGhDbTEOcGrwA) | [Baari Baari Barsi](https://open.spotify.com/album/6n1Ut1hOzm9i2TFfEziYGQ) | 3:41 | 2019-08-19 | 2022-07-29 |
 | [Bathinda](https://open.spotify.com/track/3PXMOjduIIgqtEKCa9JEML) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Best of Miss Pooja](https://open.spotify.com/album/7KOSz005q6xlD4bfCKcSw0) | 4:23 | 2019-08-19 |  |
 | [Bhabhi \- From "Ishq My Religion"](https://open.spotify.com/track/1scZ5UKdbOv8XBtVH7c43V) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Jaidev Kumar](https://open.spotify.com/artist/3jFf4UnboFrqsHZA8qBkH8) | [Bhabhi \(From "Ishq My Religion"\)](https://open.spotify.com/album/3PSh4IapNx8UAzagdJ8UYT) | 4:37 | 2019-08-19 |  |
-| [Bima Karvalo Jaan Da](https://open.spotify.com/track/3551XCfyJxPxF8CJOpMr1x) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Ishq Garaari](https://open.spotify.com/album/4BLtAkUxm6i28Nfmy9MKzs) | 3:05 | 2019-08-19 |  |
+| [Bima Karvalo Jaan Da](https://open.spotify.com/track/2oxCpE9thC83EQZtu9RUol) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Ishq Garaari](https://open.spotify.com/album/61HUwMGSGhdsjPxJMMb8HD) | 3:05 | 2019-08-19 |  |
+| [Bima Karvalo Jaan Da](https://open.spotify.com/track/3551XCfyJxPxF8CJOpMr1x) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Ishq Garaari](https://open.spotify.com/album/4BLtAkUxm6i28Nfmy9MKzs) | 3:05 | 2019-08-19 | 2024-02-02 |
 | [Bima Karvalo Jaan Da](https://open.spotify.com/track/1xPbA8SwKFVatyH6ZlL1hW) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Ishq Garaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UcmGe2HS6mKrPQ59QNDU5) | 3:05 | 2019-08-19 | 2022-09-23 |
 | [Bima Karvalo Jaan Da](https://open.spotify.com/track/1yZYTLyxkFIO36sOciszWZ) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Ishq Garaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0E3MzPed0qjRl1nDsSfLfH) | 3:05 | 2019-08-19 | 2022-07-29 |
 | [Boliyan](https://open.spotify.com/track/5FEeDDrfetiUrWDTT6pI1K) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [The Very Best Of](https://open.spotify.com/album/3OyG3px0xOAfvJ5pG2XlZm) | 7:06 | 2019-08-19 |  |

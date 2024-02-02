@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 160167,
+  "2024-02-02": 160344,
   "date_first_scraped": "2022-05-26",
   "description": "Snuggling in for the evening with a nice soundtrack",
   "name": "Mellow Evening",
@@ -209,7 +209,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 181000,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
@@ -2761,7 +2761,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 189257,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6"

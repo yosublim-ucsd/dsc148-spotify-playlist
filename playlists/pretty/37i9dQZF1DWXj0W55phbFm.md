@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,417 likes - 100 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,479 likes - 100 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 99 | [Tales For A Girl, 12](https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [Selected Recordings](https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg) | 9:12 |
 | 100 | [Loneliness](https://open.spotify.com/track/1SUB0RBI6008FD3K8TPXAJ) | [John Carter](https://open.spotify.com/artist/29bSP1G67IixkZAv6VhlaT), [Bobby Bradford](https://open.spotify.com/artist/3iysE3N9e6nZZ6kHUoiOCl) | [Self Determination Music](https://open.spotify.com/album/3CbtFB8aQJZJ1Q1lDxWf8K) | 9:10 |
 
-Snapshot ID: `MCxjM2U5YWQyMGRiNDE0MDU1NTg1YjEwMmM2MGFhNGIxOGQzNjExYzU3`
+Snapshot ID: `MCw2NmVjYzNiMDkzMDc1YzMxZGQwY2ZkNGE1NDg4NDRmNjVhNmJjMzIw`

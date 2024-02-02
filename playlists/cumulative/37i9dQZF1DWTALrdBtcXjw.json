@@ -3065,6 +3065,24 @@
     },
     {
       "album": {
+        "name": "The Inevitable Note",
+        "url": "https://open.spotify.com/album/7u5WZ0hyUFH3SDiTjGTMKg"
+      },
+      "artists": [
+        {
+          "name": "Tim Armacost",
+          "url": "https://open.spotify.com/artist/0red42E2Qf2ZhGZyVzNJ8P"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432703,
+      "name": "Lynn's Tune",
+      "url": "https://open.spotify.com/track/2ggdPVawgcrMUJ9sxCO5uL"
+    },
+    {
+      "album": {
         "name": "Lynn's Tune",
         "url": "https://open.spotify.com/album/48oUy0Sa91dXwotQ7c9tX5"
       },
@@ -5480,7 +5498,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 278386,
       "name": "There Should Be",
       "url": "https://open.spotify.com/track/4OWELAW8bSXtGVdEm0atsP"

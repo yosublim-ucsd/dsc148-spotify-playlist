@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 213512,
+  "2024-02-02": 213505,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Portugal.",
   "name": "Top 50 - Portugal",
@@ -6912,6 +6912,24 @@
     },
     {
       "album": {
+        "name": "Filho",
+        "url": "https://open.spotify.com/album/3t3LAyu0btZc3nO4XnZHav"
+      },
+      "artists": [
+        {
+          "name": "David Carreira",
+          "url": "https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162391,
+      "name": "Filho",
+      "url": "https://open.spotify.com/track/4zesPnw5FVtT3baj6N5DtY"
+    },
+    {
+      "album": {
         "name": "Fim de Semana no Rio",
         "url": "https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S"
       },
@@ -7315,7 +7333,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 150929,
       "name": "Frevo em Prel\u00fadio",
       "url": "https://open.spotify.com/track/6JXzku1W9NP02jXNqvY8Hh"

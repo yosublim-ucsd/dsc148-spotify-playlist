@@ -4,7 +4,7 @@
 
 > Barack Obama&\#x27;s favorite songs of 2023 plus somo of his favorite summer songs\. Includes Summer 22, &amp; 21 editions + bonus tracks.
 
-2,919 songs - 6 day 22 hr 37 min
+2,920 songs - 6 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1802,6 +1802,7 @@
 | [no doubt](https://open.spotify.com/track/3hm1vdAOy3t2nvFfXRlo0Y) | [mimi bay](https://open.spotify.com/artist/7BhFHZkSEe09pVDQZC6kVf) | [no doubt](https://open.spotify.com/album/2sYahxXmv97Nc7mfq1Lt7N) | 3:08 | 2021-03-06 | 2021-03-20 |
 | [No Flowers](https://open.spotify.com/track/3MCfn1QhvcUZnwzMP7jF9s) | [Yassin](https://open.spotify.com/artist/6MQaXix1Y8JL3q2zYZkd1v), [Sean Terrio](https://open.spotify.com/artist/0l0Wq630AJX4XHHp6auylt) | [No Flowers](https://open.spotify.com/album/00PVTLFK2za5MOZa6rHa31) | 2:29 | 2020-08-24 | 2020-09-08 |
 | [No Good](https://open.spotify.com/track/4l2GcQO1mZlSbVw6u4P2Kf) | [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ) | [No Good](https://open.spotify.com/album/11BZaIoM6bQ4UFjV4ddEwC) | 3:05 | 2020-06-13 | 2021-04-26 |
+| [No Hay Más](https://open.spotify.com/track/47QU3WYkUsPrtlLrw5MrjL) | [Sergi Barranco](https://open.spotify.com/artist/7dOw0iVZzE0c3kzJcDrh5w), [Carmen Arráez](https://open.spotify.com/artist/4wK8q4slC1jdxgiUejKwEY) | [Anáforas](https://open.spotify.com/album/4V987WePrxIr8LCkoWVnJJ) | 4:02 | 2024-02-01 |  |
 | [No Letting Go \- Chris "The Glove" Mix](https://open.spotify.com/track/1EB2TEq5sXEDRfMNiw5oyC) | [SkyRock Project](https://open.spotify.com/artist/5i2N7l43efjqDXCDHa3Sa6), [Jason Jump](https://open.spotify.com/artist/1nXHE5uOuoAr5QFV1Wk7Ly), [Dr.E.](https://open.spotify.com/artist/7aK8AXZKMLEhqGg5WloHjo), [Chris "The Glove"](https://open.spotify.com/artist/67bLMahHCXXWFbxDtXGI5k) | [No Letting Go](https://open.spotify.com/album/6wdnQhpe7sOAo9pYTjiy6X) | 3:28 | 2022-04-29 | 2022-05-15 |
 | [No Letting Go \- Freeway Mix](https://open.spotify.com/track/33eIeIVHwnHptZPOMrYF7O) | [SkyRock Project](https://open.spotify.com/artist/5i2N7l43efjqDXCDHa3Sa6), [Jason Jump](https://open.spotify.com/artist/1nXHE5uOuoAr5QFV1Wk7Ly), [Dr.E.](https://open.spotify.com/artist/7aK8AXZKMLEhqGg5WloHjo) | [No Letting Go](https://open.spotify.com/album/6wdnQhpe7sOAo9pYTjiy6X) | 3:38 | 2022-03-11 | 2022-03-31 |
 | [NO LIES](https://open.spotify.com/track/4knf2ZPO6w5KlqfXG5Wj4y) | [zions.camp](https://open.spotify.com/artist/0h5D9wagd5zMNuVVBnUtng) | [NO LIES](https://open.spotify.com/album/3waPigay3Up5wvSYI1TGQt) | 3:39 | 2022-07-22 | 2022-08-08 |

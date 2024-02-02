@@ -4,7 +4,7 @@
 
 > 
 
-1,127 songs - 2 day 15 hr 11 min
+1,130 songs - 2 day 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Blaze](https://open.spotify.com/track/3QgAz3qujZoMGSCk1zKpcf) | [BreakStyle](https://open.spotify.com/artist/1FtR1QSTaxYFJdsiHDc4ZF), [PsykoPhonic](https://open.spotify.com/artist/1KZdUfQP2t8y4XlV7zrr83) | [Blaze](https://open.spotify.com/album/0pr0XepqcZjgj1v6Nacpb6) | 2:27 | 2023-10-03 |  |
 | [Bleed This Music](https://open.spotify.com/track/3tjNiW58XN50r7xs5nKz46) | [INVADE](https://open.spotify.com/artist/4e8kbnPF9d7axpC8u8QJbX) | [Bleed This Music](https://open.spotify.com/album/34wHv8YF4xZGKC4YTEUu6H) | 3:56 | 2023-03-21 |  |
 | [Blinding Lights](https://open.spotify.com/track/05CUBHbxzt2T80aKashOaL) | [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa) | [Blinding Lights](https://open.spotify.com/album/71Z3vJtSdxkcv4mZDpd9yU) | 2:56 | 2022-08-23 |  |
+| [Blood Eagle](https://open.spotify.com/track/4lTu5wQWPC0cCpPivfcBkK) | [Hellsystem](https://open.spotify.com/artist/53EHsN2X6QI9xsmunKAW85) | [Blood Eagle](https://open.spotify.com/album/6BA5hHKXDDOWN9TjRG3SHb) | 3:03 | 2024-02-01 |  |
 | [Bloody](https://open.spotify.com/track/05Qykd10R9MQN2Le2kY0WV) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Bloody](https://open.spotify.com/album/5WUQvmZfhYwI8FozzavIps) | 2:52 | 2022-09-06 |  |
 | [BLOW THE SPEAKERS UP](https://open.spotify.com/track/3Z6yPfZ18vOpDcmvMsgTxg) | [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [BLOW THE SPEAKERS UP](https://open.spotify.com/album/3RPjZ1oE9b7FRHPEXQQrDl) | 3:02 | 2023-07-26 |  |
 | [Blow Up](https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Blow Up](https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH) | 3:24 | 2022-12-26 |  |
@@ -344,6 +345,7 @@
 | [Feed Your Soul](https://open.spotify.com/track/7mTyKvhmh3SiW0uOuqzRPZ) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Feed Your Soul](https://open.spotify.com/album/5VjPS4lmtkEC5VY08cIloC) | 3:13 | 2023-05-12 |  |
 | [Feed Your Soul](https://open.spotify.com/track/6pMSQuswOIzpjrUlhxHgYs) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Feed Your Soul](https://open.spotify.com/album/0RR0KChzbW7cHTcTUcVF6W) | 4:01 | 2023-07-10 |  |
 | [Feel My NRG](https://open.spotify.com/track/06G0yb518lZckPJjENRcGJ) | [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x), [Kamikaze](https://open.spotify.com/artist/6QzshKdtq6NS0Jac1nMn6I) | [Supermax](https://open.spotify.com/album/35XgR3Tg1pZnu8SBEu3eVM) | 5:17 | 2022-08-11 |  |
+| [Feel So Good \- Creeds Remix](https://open.spotify.com/track/5e5LDEFKg598LsLDRkBo6Y) | [DJ Isaac](https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq), [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Feel So Good \(Creeds Remix\)](https://open.spotify.com/album/7wt9VdVP81lPQVPq2Zp58f) | 3:57 | 2024-02-02 |  |
 | [Feel That Way](https://open.spotify.com/track/1Tq3Gu4rmyytCzzvbnW5y2) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [No Hero](https://open.spotify.com/artist/2UgbdflH882huQw44mxzLY), [Ella](https://open.spotify.com/artist/39KMdc7nYwuqkKJuhQ0IA6) | [Feel That Way](https://open.spotify.com/album/0mlqahlXwLIYZCb5NLEOwX) | 3:12 | 2023-05-24 |  |
 | [Feel The Power](https://open.spotify.com/track/7ADBnEfAdZBI6RurXs1R7n) | [Brisk](https://open.spotify.com/artist/67es8ZtGIcV80XDLwlQkU3), [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x) | [Feel The Power](https://open.spotify.com/album/4HaAk27sV6oTNj6qQHD9UT) | 3:39 | 2023-05-06 |  |
 | [Feeling Blue](https://open.spotify.com/track/2Bf8OtPj8x6JK1xBysipWM) | [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4) | [Feeling Blue](https://open.spotify.com/album/3qjIYkatqTwTsMJzSjDQmK) | 3:07 | 2023-09-05 |  |
@@ -1086,6 +1088,7 @@
 | [We Live for the Night](https://open.spotify.com/track/1aPDLIgrijgoKtZTXPx2BQ) | [Lumex](https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi) | [We Live for the Night](https://open.spotify.com/album/4FZjK9Sjw0ehnMtcR7km9S) | 2:20 | 2023-08-07 |  |
 | [We Will Rise](https://open.spotify.com/track/4GMvxtkxpfCOupmyH9kA8E) | [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq), [Doris](https://open.spotify.com/artist/6GMuNB7yEleCIuMyk0qskf) | [We Will Rise](https://open.spotify.com/album/0ozpy9yeRaNSe8XPX4xhd6) | 3:12 | 2023-09-01 |  |
 | [Welcome To My Nightmare](https://open.spotify.com/track/7mXYCi1wA8n8zBN0ud211g) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Welcome To My Nightmare](https://open.spotify.com/album/7x2ImrxaXBL79nq6WaK0Ui) | 3:27 | 2023-09-22 |  |
+| [Westside](https://open.spotify.com/track/6d2NGzytPyVKTZecDPKs93) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Westside](https://open.spotify.com/album/601lFz5JptWCs9OB961FSm) | 3:49 | 2024-02-01 |  |
 | [What About Us \- The Reawakening Edit](https://open.spotify.com/track/3gjcaWAkG0MKos0D5R1jJv) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [The Reawakening](https://open.spotify.com/album/4hjWfxhGo96EexBI8oZBFm) | 4:17 | 2023-09-20 |  |
 | [What It Feels Like](https://open.spotify.com/track/4v92frjOGG0wEWQUl2GORt) | [Manifest Destiny](https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j), [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [What It Feels Like](https://open.spotify.com/album/3xZ3JaSZNsPmfwKM7rfNxw) | 3:14 | 2023-12-13 |  |
 | [What We Live For](https://open.spotify.com/track/4Ipv3nHxflFU3KE38vpCul) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO), [MC Livid](https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe) | [What We Live For](https://open.spotify.com/album/1VMqSob1uAT6RTvF9LViWf) | 3:17 | 2022-09-22 |  |

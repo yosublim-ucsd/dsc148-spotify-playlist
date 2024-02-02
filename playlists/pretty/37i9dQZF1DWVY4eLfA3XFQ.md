@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Mau P
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,157 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,270 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 124 | [Que Pasa](https://open.spotify.com/track/1VZBZKvJIrmX69vTg9xWyv) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Que Pasa](https://open.spotify.com/album/0m7ydDnuLaqCUAKVZ4iRMi) | 2:48 |
 | 125 | [Bend N Snap](https://open.spotify.com/track/0cIfTCAE7fLAgvFzBA4XAW) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt) | [Bend N Snap](https://open.spotify.com/album/4drwTrVblA1u7ac2r27dxY) | 2:14 |
 
-Snapshot ID: `MCwzOWIzNDQzZWU4YjY0OTNiOTM4MWZjODRkYmE2MzkxZTJkYmI5YTI2`
+Snapshot ID: `MCwzZDU1MmM2MzgwYjc4ZWNkMWFhYWZkZGQ5MzQ3YWUyYWQ1MWZkZWE1`

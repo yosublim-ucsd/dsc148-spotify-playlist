@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6VdMW310YC7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6VdMW310YC7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6VdMW310YC7)
 
-### [Chill Tracks](https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7)
+### [Canciones para relajarse](https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7)
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 

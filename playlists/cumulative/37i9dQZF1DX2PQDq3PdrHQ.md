@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-653 songs - 1 day 1 hr 16 min
+655 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [9th dream.](https://open.spotify.com/track/2PPdzCmfoOebVe79eApvCk) | [Gabriel Cavalcanti](https://open.spotify.com/artist/2CLLtlHM5RuNUdDe7b7YwL), [96 Zeus](https://open.spotify.com/artist/4QJlbrf6YpfIkRB5GrK34n) | [9th dream.](https://open.spotify.com/album/2K9hii8ZIhwj9vOlqTGNEl) | 1:55 | 2023-01-20 |  |
 | [A Beautiful Night](https://open.spotify.com/track/6VZ5dHZbJxG2OQ7ZWb0RTj) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [A Beautiful Night](https://open.spotify.com/album/2pUCR4g0NeNkXuwJNIn8Ba) | 2:40 | 2022-06-24 | 2022-08-12 |
 | [a leap of sleep](https://open.spotify.com/track/4S2KNfRivsduJPWI52oJVf) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P), [yawn](https://open.spotify.com/artist/45gaMiwtS3JK5Nj6zPpMsI) | [a leap of sleep](https://open.spotify.com/album/7oshgmjoN3pBkAxacakGzQ) | 2:22 | 2023-01-13 |  |
+| [A New Dawn](https://open.spotify.com/track/4BopBYqzp4NXkkpjlE1hrJ) | [Mel Atonin](https://open.spotify.com/artist/5cuSwXym2KzOlDwHui2v5g) | [A New Dawn](https://open.spotify.com/album/2dHb6EPDsaT6i3jUBnhGq9) | 2:36 | 2024-02-02 |  |
 | [A Night Like This](https://open.spotify.com/track/7fk9IaVqs4DKkHQvcswJuL) | [Secret Corner](https://open.spotify.com/artist/7a40ZaJBGkEnOqrZyBCwQU) | [A Night Like This](https://open.spotify.com/album/207792NZ8lPpaJdAxBQrTx) | 1:52 | 2022-05-20 |  |
 | [a night to remember](https://open.spotify.com/track/7LxD5ps1MIhhLDB5SHR7m5) | [amlo](https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4) | [a night to remember](https://open.spotify.com/album/4Axumrdio6VhJkVAVc0OhT) | 2:32 | 2022-11-18 |  |
 | [a soft storm](https://open.spotify.com/track/0DXnOFTqbfl1pfddteGhs8) | [96 Zeus](https://open.spotify.com/artist/4QJlbrf6YpfIkRB5GrK34n), [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [and the rain fell slow](https://open.spotify.com/album/5wPQHvfVceXmWIb8fdwLXa) | 2:00 | 2022-10-07 |  |
@@ -94,7 +95,7 @@
 | [Cloudy days](https://open.spotify.com/track/2XZZi9nIXtmEhCQoXbheUz) | [LOFI LAND](https://open.spotify.com/artist/1pFOASn4amyKQUJm4SjeXe) | [Cloudy days](https://open.spotify.com/album/4RZlj3U0bB74lg8QFDD2Oi) | 1:54 | 2023-04-13 | 2023-09-08 |
 | [cloudy dreams](https://open.spotify.com/track/4m8wo5zZ79P1zFFDNtjzof) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [cloudy dreams & husky sun](https://open.spotify.com/album/36DWp8DF7nFJlo9zp3DK2u) | 3:11 | 2023-02-20 |  |
 | [Cloudy Nights](https://open.spotify.com/track/4AlvhJMmJYi8ppDW7bGDqy) | [Asokiah](https://open.spotify.com/artist/4uGUzUAhZFtLDYLCR6THc5) | [Cloudy Nights](https://open.spotify.com/album/44SfWeleJe2QWCbngSSImJ) | 2:11 | 2023-06-06 |  |
-| [Cloudy Sleeps](https://open.spotify.com/track/3CXXXcD1Yw8W8uTD9ZmR6a) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [Cloudy Sleeps](https://open.spotify.com/album/4yi7uuzEv3syYYIHbku9Nd) | 2:46 | 2023-05-03 |  |
+| [Cloudy Sleeps](https://open.spotify.com/track/3CXXXcD1Yw8W8uTD9ZmR6a) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [Cloudy Sleeps](https://open.spotify.com/album/4yi7uuzEv3syYYIHbku9Nd) | 2:46 | 2023-05-03 | 2024-02-02 |
 | [Coffee Rain](https://open.spotify.com/track/43c59toGFwmLFghKCbNQqG) | [lofi geek](https://open.spotify.com/artist/1hqeRW1EQZ1flf02acnGVU) | [Coffee Rain](https://open.spotify.com/album/0rYXQ4YcUnE0Uzzzk5GAnI) | 5:13 | 2023-07-17 | 2023-09-08 |
 | [Coffee Shop](https://open.spotify.com/track/43IS06oECXtadEuFCuqDiX) | [ax am](https://open.spotify.com/artist/1aYBi1snyye9aYO5Vs3OTO) | [Coffee Shop](https://open.spotify.com/album/7iK96zBOzUB8ROy0qcMSvy) | 2:15 | 2023-11-17 |  |
 | [Cold Nights](https://open.spotify.com/track/64tjNRFsLr1c4yJpR2C0cs) | [zero\_Ashes](https://open.spotify.com/artist/0RwRSroLXctkWZYKBbm8xV) | [Night Light](https://open.spotify.com/album/0JC4SwWrKoQbA55FN64t6R) | 2:28 | 2022-05-27 | 2023-09-22 |
@@ -534,6 +535,7 @@
 | [Slow Motion](https://open.spotify.com/track/3ggW4rNYrfFIb5hsnKockh) | [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ) | [Slow Motion](https://open.spotify.com/album/3uBcCG3c9QUDBK2S6lkwdT) | 2:37 | 2023-07-17 | 2023-09-22 |
 | [slow move](https://open.spotify.com/track/3xpUN6eBlBi3P4ZPu7xBBy) | [hinako fukushi](https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j) | [slow move](https://open.spotify.com/album/05QCXiRLNm7LJF9xp9j2wf) | 2:22 | 2023-01-13 |  |
 | [SLOWLY](https://open.spotify.com/track/13hIl9viyBhvPoLVag7BnQ) | [Sorsele](https://open.spotify.com/artist/2tTcT2ddh1bHSEsdLjLfpw) | [Slowly](https://open.spotify.com/album/0176EEPWJGAUTmjeetjYej) | 2:19 | 2023-03-01 |  |
+| [slumber softly](https://open.spotify.com/track/6V3mKIE20S9tUefe1qMRS1) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [slumber softly](https://open.spotify.com/album/4cvVPd5xOVXUD1QaWpxIMN) | 2:16 | 2024-02-02 |  |
 | [Smile Up](https://open.spotify.com/track/7lR1Eqou30iTbm75DHiPpL) | [Siktem](https://open.spotify.com/artist/3k4YXZEqBj8L4UsiPf8fgr) | [Smile Up](https://open.spotify.com/album/4LEXn8d1a2Qm7QLCR3xtPV) | 2:09 | 2022-06-10 | 2023-08-30 |
 | [smooth](https://open.spotify.com/track/5G8kS7n1eK2HShhGGjwm5q) | [Cat Dreams](https://open.spotify.com/artist/5FcssevMYhJmgxxVmIUkH1) | [smooth](https://open.spotify.com/album/6NZZ3hzPK50uVIpzLrD512) | 2:37 | 2023-07-17 | 2023-10-20 |
 | [So Delightful](https://open.spotify.com/track/1gXIL1uhqbYLPvoEaHETed) | [Lo\-Fi Luke](https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc), [Crispy](https://open.spotify.com/artist/0FeKA3PTgdvhkEPyuVNJ8g) | [So Delightful](https://open.spotify.com/album/6JN2nu4e3qHtUC7vK9Ouhi) | 2:42 | 2023-01-20 | 2023-09-29 |

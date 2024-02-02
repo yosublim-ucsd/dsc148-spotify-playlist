@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjA4YTRlYmExM2E5NmZkODQ3YTEwYTNkYmUyNzlkMDJhOWZlY2Fi",
+  "snapshot_id": "MCwyZWI5OWY4ZmZmYWEwZTZkZmEwNGQyMDAwMGNjNzc0NDg3Mjg0YjJk",
   "tracks": [
     {
       "added_at": "2024-01-09 15:00:00",
@@ -303,8 +303,8 @@
     {
       "added_at": "2024-01-09 15:00:00",
       "album": {
-        "name": "What a Wonderful Dream!!",
-        "url": "https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1"
+        "name": "Second Sparkle",
+        "url": "https://open.spotify.com/album/174XCy9uPbeni6paFwenJP"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF"
         }
       ],
-      "duration_ms": 279006,
-      "name": "\u9752\u7a7a\u3092\u5f85\u3063\u3066\u308b",
-      "url": "https://open.spotify.com/track/4kUI2w8uU0KmDb6pdvXPgC"
+      "duration_ms": 210148,
+      "name": "Free Flight",
+      "url": "https://open.spotify.com/track/2AZuJhYwI8eALfuCsri0IP"
     },
     {
       "added_at": "2024-01-09 15:00:00",
@@ -415,8 +415,8 @@
     {
       "added_at": "2024-01-09 15:00:00",
       "album": {
-        "name": "Second Sparkle",
-        "url": "https://open.spotify.com/album/174XCy9uPbeni6paFwenJP"
+        "name": "What a Wonderful Dream!!",
+        "url": "https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF"
         }
       ],
-      "duration_ms": 210148,
-      "name": "Free Flight",
-      "url": "https://open.spotify.com/track/2AZuJhYwI8eALfuCsri0IP"
+      "duration_ms": 279006,
+      "name": "\u9752\u7a7a\u3092\u5f85\u3063\u3066\u308b",
+      "url": "https://open.spotify.com/track/4kUI2w8uU0KmDb6pdvXPgC"
     },
     {
       "added_at": "2024-01-09 15:00:00",

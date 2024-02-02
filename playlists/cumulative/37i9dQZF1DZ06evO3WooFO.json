@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 188222,
       "name": "BLINK WAVE",
       "url": "https://open.spotify.com/track/42ZqUraQd0y6FIAJV5Es4C"
@@ -290,6 +290,24 @@
       "duration_ms": 194960,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb"
+    },
+    {
+      "album": {
+        "name": "ONE MORE TIME...",
+        "url": "https://open.spotify.com/album/00txDYFrU4LjWqwKE8iQJA"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126820,
+      "name": "CUT ME OFF",
+      "url": "https://open.spotify.com/track/2Zs1T1OXwcm6XgrIRvAfwH"
     },
     {
       "album": {

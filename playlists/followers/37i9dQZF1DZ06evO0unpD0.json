@@ -1,5 +1,5 @@
 {
-  "2024-02-01": 11057,
+  "2024-02-02": 11056,
   "date_first_scraped": "2021-12-29",
   "description": "This is Salif Keita. The essential tracks, all in one playlist.",
   "name": "This Is Salif Keita",
@@ -518,6 +518,24 @@
     },
     {
       "album": {
+        "name": "Moffou (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/08WWdjuCR4ZMhV3ZeUAEI7"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273306,
+      "name": "Iniagige",
+      "url": "https://open.spotify.com/track/285LCwb8xwnPfNlidUuJGI"
+    },
+    {
+      "album": {
         "name": "Moffou",
         "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
       },
@@ -529,7 +547,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-01",
       "duration_ms": 273306,
       "name": "Iniagige",
       "url": "https://open.spotify.com/track/32pS0vZAnmWe6iYPjaJ0Af"

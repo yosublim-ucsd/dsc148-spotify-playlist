@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 
 > Are you trapped in some kind of haunted Hell? What is your favorite nightmare?
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,131 likes - 111 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,151 likes - 111 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,22 +102,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 | 92 | [Wonderland](https://open.spotify.com/track/7vWPcuZIoxiL9YhCzI99Ai) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Alone In The City](https://open.spotify.com/album/5iSHURlCUgmfKhIW4LtJ6e) | 3:11 |
 | 93 | [Trap](https://open.spotify.com/track/1IsvB443RMP3WvnlKfvKec) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Alone In The City](https://open.spotify.com/album/5iSHURlCUgmfKhIW4LtJ6e) | 3:10 |
 | 94 | [July 7th](https://open.spotify.com/track/34BIP7nLRliqtKHIpOP8Y7) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Alone In The City](https://open.spotify.com/album/5iSHURlCUgmfKhIW4LtJ6e) | 3:14 |
-| 95 | [INSIDE \- OUTSIDE \- Intro](https://open.spotify.com/track/1bEvy601StaBjSoHWRu8Ft) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Nightmare \- Escape The ERA](https://open.spotify.com/album/3Y6fSean6h89OygPL0azrn) | 1:23 |
-| 96 | [YOU AND I](https://open.spotify.com/track/1sS61BTtpJxiw8VARNrD7n) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Nightmare \- Escape The ERA](https://open.spotify.com/album/3Y6fSean6h89OygPL0azrn) | 3:15 |
-| 97 | [Mayday](https://open.spotify.com/track/7IhpPz5wfQ2mgGekSX48Ow) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Nightmare \- Escape The ERA](https://open.spotify.com/album/3Y6fSean6h89OygPL0azrn) | 3:04 |
-| 98 | [Which a star](https://open.spotify.com/track/6WQiJedB90sfC2tBJZn5Q8) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Nightmare \- Escape The ERA](https://open.spotify.com/album/3Y6fSean6h89OygPL0azrn) | 4:08 |
-| 99 | [Scar](https://open.spotify.com/track/7LIixmuMvKokz1OF3Fi6KU) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Nightmare \- Escape The ERA](https://open.spotify.com/album/3Y6fSean6h89OygPL0azrn) | 3:16 |
-| 100 | [Full Moon](https://open.spotify.com/track/00vHOSgvVfyLzhlTZIJo1m) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Full Moon](https://open.spotify.com/album/6N7UA00H0IAexiQvOFGv5d) | 3:09 |
-| 101 | [Before & After \- Intro](https://open.spotify.com/track/3q73g0Y4qbcR7del2XNW4N) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Prequel](https://open.spotify.com/album/7dwF0tRN3awkAyYEdLJic3) | 1:10 |
-| 102 | [Fly high](https://open.spotify.com/track/0n5szv4EhrxeTAz2zYQJ0S) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Prequel](https://open.spotify.com/album/7dwF0tRN3awkAyYEdLJic3) | 3:31 |
-| 103 | [Wake up](https://open.spotify.com/track/1sluAZrbKiHqD4bpGPEVXJ) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Prequel](https://open.spotify.com/album/7dwF0tRN3awkAyYEdLJic3) | 3:32 |
-| 104 | [Sleep\-walking](https://open.spotify.com/track/5PYR7g3AmuYE5Yaay7s3us) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Prequel](https://open.spotify.com/album/7dwF0tRN3awkAyYEdLJic3) | 3:26 |
-| 105 | [괜찮아!](https://open.spotify.com/track/2wAmZkMXLlhCfa0c5h8nCh) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Prequel](https://open.spotify.com/album/7dwF0tRN3awkAyYEdLJic3) | 3:24 |
-| 106 | [My Toys](https://open.spotify.com/track/7uyVPw3r60XVA9xU2iC1Az) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽·Fall asleep in the mirror](https://open.spotify.com/album/1wmE0WCpGGAjFsL180dITF) | 1:06 |
-| 107 | [GOOD NIGHT](https://open.spotify.com/track/4aDLGyls7Qzv2xMISvDZV4) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽·Fall asleep in the mirror](https://open.spotify.com/album/1wmE0WCpGGAjFsL180dITF) | 2:54 |
-| 108 | [Lullaby](https://open.spotify.com/track/1b6wgs9fJpZ8UQ1P7u9g8B) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽·Fall asleep in the mirror](https://open.spotify.com/album/1wmE0WCpGGAjFsL180dITF) | 3:18 |
+| 95 | [INSIDE\-OUTSIDE \(Intro\)](https://open.spotify.com/track/658sFhGqJRrWMSR309Vu3c) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Nightmare \- Escape The ERA](https://open.spotify.com/album/5Kb4FUQqxS5lcHJQVIxTIF) | 1:23 |
+| 96 | [YOU AND I](https://open.spotify.com/track/4M5HZnLcoHBllOB5OF6UKE) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Nightmare \- Escape The ERA](https://open.spotify.com/album/5Kb4FUQqxS5lcHJQVIxTIF) | 3:15 |
+| 97 | [Mayday](https://open.spotify.com/track/4fZzNdpBHxsaBqe1tSu8yN) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Nightmare \- Escape The ERA](https://open.spotify.com/album/5Kb4FUQqxS5lcHJQVIxTIF) | 3:04 |
+| 98 | [Which a star](https://open.spotify.com/track/3Ebn2avyuAocucwLb5bZgf) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Nightmare \- Escape The ERA](https://open.spotify.com/album/5Kb4FUQqxS5lcHJQVIxTIF) | 4:08 |
+| 99 | [Scar](https://open.spotify.com/track/51jvNUd2sFGeGLENngCZR3) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Nightmare \- Escape The ERA](https://open.spotify.com/album/5Kb4FUQqxS5lcHJQVIxTIF) | 3:16 |
+| 100 | [Full Moon](https://open.spotify.com/track/3blfg1S9b1RjoxHVZBkbVB) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | 3:09 |
+| 101 | [Before & After \(Intro\)](https://open.spotify.com/track/65iv8RoAz17q14OyaPtFhD) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Prequel](https://open.spotify.com/album/4AFtuTQMC4tYXwmVw0a80n) | 1:10 |
+| 102 | [Fly high](https://open.spotify.com/track/1NzcpF2ayzywEQJ7yPR7eA) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Prequel](https://open.spotify.com/album/4AFtuTQMC4tYXwmVw0a80n) | 3:31 |
+| 103 | [Wake up](https://open.spotify.com/track/6IbCHD7jekcfz62KLXh0qy) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Prequel](https://open.spotify.com/album/4AFtuTQMC4tYXwmVw0a80n) | 3:32 |
+| 104 | [Sleep\-walking](https://open.spotify.com/track/2d5hvtaQ4Q5MB9haqkvlVH) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Prequel](https://open.spotify.com/album/4AFtuTQMC4tYXwmVw0a80n) | 3:26 |
+| 105 | [괜찮아!](https://open.spotify.com/track/2RhDdmok9KZ7GjSPoEvsew) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Prequel](https://open.spotify.com/album/4AFtuTQMC4tYXwmVw0a80n) | 3:24 |
+| 106 | [My Toys \(Intro\)](https://open.spotify.com/track/7nJk2sVzxfRJEMr9xd9rpC) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽·Fall asleep in the mirror](https://open.spotify.com/album/2YqAwFCBP4alKyQShJeFcd) | 1:06 |
+| 107 | [GOOD NIGHT](https://open.spotify.com/track/5zhuhNkILzHm585h104JlI) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽·Fall asleep in the mirror](https://open.spotify.com/album/2YqAwFCBP4alKyQShJeFcd) | 2:54 |
+| 108 | [Lullaby](https://open.spotify.com/track/4wPFXFg7vA5svqJy3P1UdN) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽·Fall asleep in the mirror](https://open.spotify.com/album/2YqAwFCBP4alKyQShJeFcd) | 3:18 |
 | 109 | [Welcome to Dream](https://open.spotify.com/track/1mMMltAd8i5qyv0nSwae8T) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/2BIlGYqHZqWuI6GqwXd22t) | 0:40 |
-| 110 | [Chase Me](https://open.spotify.com/track/2KH7ZhZs01rJOIVvuUNFbo) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/2BIlGYqHZqWuI6GqwXd22t) | 3:09 |
+| 110 | [Chase Me](https://open.spotify.com/track/0DctgOJ5qpE3bMCTfwwi2d) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/0H35i31IzpWMrLXSV6h2YN) | 3:09 |
 | 111 | [Emotion](https://open.spotify.com/track/0dCdQvk03zbYUXpoEEFJCl) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/2BIlGYqHZqWuI6GqwXd22t) | 3:43 |
 
-Snapshot ID: `MCxiMzcyMzA0MDhlN2JiMTFmNTYxNjM0OWYwNzY2Njg5YWIxYzUzNzJk`
+Snapshot ID: `MCw5YWRhNjg0YzdjMDRkMTg1ZGQ2ZGQ3ZTg5ZTQ2YTZmZjM3NTFhMDYz`

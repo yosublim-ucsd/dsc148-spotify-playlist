@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,409 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,407 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 29 | [wait4me](https://open.spotify.com/track/31aK27LYNykyLlSnZxQU5i) | [who28](https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB), [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [Memo](https://open.spotify.com/album/5T1R5hlk0mAt4uaBmxGrdw) | 3:07 |
 | 30 | [Them Us You Me](https://open.spotify.com/track/3KHBNhUmAoyb3AEbWgVYjd) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Them Us You Me](https://open.spotify.com/album/2Hvm2ruIBqU7Hkc6NANCkC) | 2:43 |
 | 31 | [知らない窓](https://open.spotify.com/track/0S7qGxp91LkeaSYKrv57XZ) | [酩酊麻痺](https://open.spotify.com/artist/5CwsNF2nphVi7Tq2QrLowQ) | [光](https://open.spotify.com/album/7y2U2BjGU8wVXvKO9f7b3w) | 4:07 |
-| 32 | [不要煩](https://open.spotify.com/track/1WVnhma7zzI2EAjHkglyhe) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9) | [不要煩](https://open.spotify.com/album/6N6wopy7YBAeu265Qc3mbh) | 5:08 |
+| 32 | [不要煩](https://open.spotify.com/track/4agWmkaREyGIj9LnAzwurZ) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9) | [不要煩](https://open.spotify.com/album/2Ru6wYnq25w72SPBavb6It) | 5:08 |
 | 33 | [Videotape](https://open.spotify.com/track/3rbOKx0ZeyltMb368mk4nS) | [Fried Banana Shop](https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF), [Teruko Konse](https://open.spotify.com/artist/7atnqUZ5be2atgpvIyxzOm) | [Videotape](https://open.spotify.com/album/6LUyykFPqBU3x57doZJx9N) | 2:57 |
 | 34 | [23](https://open.spotify.com/track/2Ac68DSGaW3qncZ9XbIxiY) | [life crown](https://open.spotify.com/artist/1GucUlQZCS6eETrQwUsg6m) | [23](https://open.spotify.com/album/6z9E8YsfMWcXBkwsJhTC3E) | 4:06 |
 | 35 | [Still, The Town Keeps on Turning](https://open.spotify.com/track/1aDohLjJw7aWYY9jGfGIVE) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Still, The Town Keeps on Turning](https://open.spotify.com/album/3L0lEbKuoAaDkbstNZsrq0) | 4:08 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [Holier \- JD\. REID Remix feat\. Shygirl](https://open.spotify.com/track/3SAGwjKKitPBNpgdi80ScD) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Holier \(JD\. REID Remix feat\. Shygirl\)](https://open.spotify.com/album/42At6bfdhnCcDuX2d3zhxh) | 3:35 |
 | 70 | [I'm a bee you're a flower \- The Bug remix](https://open.spotify.com/track/4iqrBlOyCkCDjpwRkhv2V4) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ), [The Bug](https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw) | [Gateway](https://open.spotify.com/album/7xWbzfGRjJpzrkQ6kONF2w) | 3:45 |
 
-Snapshot ID: `MCxjMTM4NzU1YzA0MGQ3ZGVlNmI0MzUwZWZiZjk0NmE0ZTNhZjJhNjk4`
+Snapshot ID: `MCxlMWI1ODI3OThhODVmZGQyY2VkMWM4ZTU0OGFmY2IzOTY0OWQ0ZThh`

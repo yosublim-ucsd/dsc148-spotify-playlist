@@ -2,7 +2,7 @@
 
 ### [FRONTEO](https://open.spotify.com/playlist/37i9dQZF1DX6jW9mPgBGv2)
 
-> El rango más alto\. Ellos lo tienen y lo saben\. Bad Bunny plantando cara.
+> El rango más alto\. Ellos lo tienen y lo saben\. Eladio Carrion plantando cara.
 
 115 songs - 7 hr 21 min
 

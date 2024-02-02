@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126484,
+  "num_followers": 126474,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDUzNyw0OGFiOWRhZjI4NmFjNjE4ZmE0ZjNkOTA2YzVmN2M1YWI1ODljYWRm",
+  "snapshot_id": "NDU0MiwyMjQ1ZWI1MzQxNGJlZDVmYmVkNDcwMzRmOTJmNDMyOTkxMGNhYTk5",
   "tracks": [
+    {
+      "added_at": "2024-02-01 11:18:55",
+      "album": {
+        "name": "Digital Friends",
+        "url": "https://open.spotify.com/album/5BssQ7HjIK7tyeiKLBVWPs"
+      },
+      "artists": [
+        {
+          "name": "No Mana",
+          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
+        },
+        {
+          "name": "SOFI",
+          "url": "https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb"
+        }
+      ],
+      "duration_ms": 221679,
+      "name": "Digital Friends",
+      "url": "https://open.spotify.com/track/0ygnGDRZjKhO9nOXo2WlLI"
+    },
     {
       "added_at": "2024-01-31 18:04:41",
       "album": {
@@ -1139,74 +1159,6 @@
       "duration_ms": 195250,
       "name": "Ruin U",
       "url": "https://open.spotify.com/track/6fvdPHXZnUl9UX2OgoT7Cq"
-    },
-    {
-      "added_at": "2023-10-19 15:44:52",
-      "album": {
-        "name": "All About You",
-        "url": "https://open.spotify.com/album/0UPEviguYBkCVLWVTwXx2y"
-      },
-      "artists": [
-        {
-          "name": "Britt Lari",
-          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
-        }
-      ],
-      "duration_ms": 165180,
-      "name": "All About You",
-      "url": "https://open.spotify.com/track/0Lc22wJyPHTKF8mEoOOGzT"
-    },
-    {
-      "added_at": "2023-10-18 14:35:56",
-      "album": {
-        "name": "Fight Me",
-        "url": "https://open.spotify.com/album/2cCk1i1D2XQaclGYqaa5oY"
-      },
-      "artists": [
-        {
-          "name": "Teddy Killerz",
-          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Fight Me",
-      "url": "https://open.spotify.com/track/2VMjr4nR9QptTiGOabyeFt"
-    },
-    {
-      "added_at": "2023-10-18 14:35:37",
-      "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/33WUMBvwFNU514XzG7vqbz"
-      },
-      "artists": [
-        {
-          "name": "TOMB",
-          "url": "https://open.spotify.com/artist/2PH8zrd38yO1SphvnINyvw"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/3i2kegGxj12kAXephAgZ8C"
-    },
-    {
-      "added_at": "2023-10-16 18:04:05",
-      "album": {
-        "name": "DRIFTER",
-        "url": "https://open.spotify.com/album/26Q9pfSZwbYEDgSKnuDRem"
-      },
-      "artists": [
-        {
-          "name": "THIRST",
-          "url": "https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde"
-        },
-        {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        }
-      ],
-      "duration_ms": 99310,
-      "name": "DRIFTER",
-      "url": "https://open.spotify.com/track/0X0YaxmMX1foUMubg0X6YR"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

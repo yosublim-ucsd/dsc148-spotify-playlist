@@ -1,13 +1,61 @@
 {
-  "description": "ur on the list bb \ud83e\ude90 featuring charlieeeee",
-  "num_followers": 245028,
+  "description": "ur on the list bb \ud83e\ude90 featuring jigitz",
+  "num_followers": 245055,
   "original_name": "planet rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2MwYmIyNWQ3NWViMzlmY2NmZTI4ZjA2ZjI0YzAzN2ViYmJjOWI5",
+  "snapshot_id": "MCxlYTAwMjQ3NTlmZDE2N2IxOTViOTNhMjk1ZTc5N2Y3NzliNzU0MWRh",
   "tracks": [
+    {
+      "added_at": "2024-01-29 10:31:32",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/26kfhv3S8MoeN7pzh2FSPE"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "duration_ms": 124615,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG"
+    },
+    {
+      "added_at": "2024-01-29 10:31:32",
+      "album": {
+        "name": "2special",
+        "url": "https://open.spotify.com/album/1kh8wuqfLpIc7ZCVLKmoXu"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "duration_ms": 167248,
+      "name": "2special",
+      "url": "https://open.spotify.com/track/1vZASGXOGqi8OhOEaMPMpT"
+    },
+    {
+      "added_at": "2024-01-29 10:31:32",
+      "album": {
+        "name": "you'll come back",
+        "url": "https://open.spotify.com/album/6bnRPsX8Q4Vvx4bBGZi3IH"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "duration_ms": 124686,
+      "name": "you'll come back",
+      "url": "https://open.spotify.com/track/12AUL8xZVqnq75tvmZs085"
+    },
     {
       "added_at": "2024-01-29 10:31:32",
       "album": {
@@ -35,34 +83,22 @@
     {
       "added_at": "2024-01-29 10:31:32",
       "album": {
-        "name": "2special",
-        "url": "https://open.spotify.com/album/1kh8wuqfLpIc7ZCVLKmoXu"
+        "name": "Wasting Time With You",
+        "url": "https://open.spotify.com/album/1nADZ50z704vj7HtopGgXC"
       },
       "artists": [
         {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        }
-      ],
-      "duration_ms": 167248,
-      "name": "2special",
-      "url": "https://open.spotify.com/track/1vZASGXOGqi8OhOEaMPMpT"
-    },
-    {
-      "added_at": "2024-01-29 10:31:32",
-      "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/26kfhv3S8MoeN7pzh2FSPE"
-      },
-      "artists": [
+          "name": "Denham Audio",
+          "url": "https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1"
+        },
         {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+          "name": "Triple Point",
+          "url": "https://open.spotify.com/artist/4k2HXxbrXKfNyu9vBuKapQ"
         }
       ],
-      "duration_ms": 124615,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG"
+      "duration_ms": 176800,
+      "name": "Wasting Time with You",
+      "url": "https://open.spotify.com/track/1LRw2qwjFCwntxtUp2QPqi"
     },
     {
       "added_at": "2024-01-29 10:31:32",
@@ -83,6 +119,30 @@
     {
       "added_at": "2024-01-29 10:31:32",
       "album": {
+        "name": "Need Somebody",
+        "url": "https://open.spotify.com/album/4zhjAZyG1fFbdPFdfo9tkv"
+      },
+      "artists": [
+        {
+          "name": "GESES",
+          "url": "https://open.spotify.com/artist/7ahE8B8ZhWe3fgVxLaVAXR"
+        },
+        {
+          "name": "Raphi",
+          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
+        },
+        {
+          "name": "Jethro Heston",
+          "url": "https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj"
+        }
+      ],
+      "duration_ms": 141398,
+      "name": "Need Somebody",
+      "url": "https://open.spotify.com/track/0wdJefRAVWCkhlQXFCi8kx"
+    },
+    {
+      "added_at": "2024-01-29 10:31:32",
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/58UHfHzT9zqjvSWbC06Bcn"
       },
@@ -95,22 +155,6 @@
       "duration_ms": 204826,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/0MuGa3SwwVYIeOpOzTOxzj"
-    },
-    {
-      "added_at": "2024-01-29 10:31:32",
-      "album": {
-        "name": "you'll come back",
-        "url": "https://open.spotify.com/album/6bnRPsX8Q4Vvx4bBGZi3IH"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        }
-      ],
-      "duration_ms": 124686,
-      "name": "you'll come back",
-      "url": "https://open.spotify.com/track/12AUL8xZVqnq75tvmZs085"
     },
     {
       "added_at": "2024-01-29 10:31:32",
@@ -135,22 +179,22 @@
     {
       "added_at": "2024-01-29 10:31:32",
       "album": {
-        "name": "Wasting Time With You",
-        "url": "https://open.spotify.com/album/1nADZ50z704vj7HtopGgXC"
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/7p0OAMkrvyhbv0z7wVdBQm"
       },
       "artists": [
         {
-          "name": "Denham Audio",
-          "url": "https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1"
+          "name": "Remedy Club",
+          "url": "https://open.spotify.com/artist/1MuDSnGT0IosRnJbulWvQn"
         },
         {
-          "name": "Triple Point",
-          "url": "https://open.spotify.com/artist/4k2HXxbrXKfNyu9vBuKapQ"
+          "name": "sim0ne",
+          "url": "https://open.spotify.com/artist/68sBUNLfzCGR5n2nImhFCV"
         }
       ],
-      "duration_ms": 176800,
-      "name": "Wasting Time with You",
-      "url": "https://open.spotify.com/track/1LRw2qwjFCwntxtUp2QPqi"
+      "duration_ms": 142362,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/5Ee0r9PetOsxgEG5h9IyqL"
     },
     {
       "added_at": "2024-01-29 10:31:32",
@@ -175,6 +219,22 @@
     {
       "added_at": "2024-01-29 10:31:32",
       "album": {
+        "name": "i'm hurting ! (deja-vu..)",
+        "url": "https://open.spotify.com/album/07W3pEXd8gK8GzJ3prgeuh"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "duration_ms": 176680,
+      "name": "i'm hurting ! (deja-vu..)",
+      "url": "https://open.spotify.com/track/7x3YdsIvT6RPGgz18GEXkv"
+    },
+    {
+      "added_at": "2024-01-29 10:31:32",
+      "album": {
         "name": "Into Dream",
         "url": "https://open.spotify.com/album/0cbRVDsqfp8FJttckcz1z7"
       },
@@ -191,42 +251,6 @@
       "duration_ms": 275737,
       "name": "Into Dream",
       "url": "https://open.spotify.com/track/39GEt8MHitZ93mBsIK9wME"
-    },
-    {
-      "added_at": "2024-01-29 10:31:32",
-      "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/7p0OAMkrvyhbv0z7wVdBQm"
-      },
-      "artists": [
-        {
-          "name": "Remedy Club",
-          "url": "https://open.spotify.com/artist/1MuDSnGT0IosRnJbulWvQn"
-        },
-        {
-          "name": "sim0ne",
-          "url": "https://open.spotify.com/artist/68sBUNLfzCGR5n2nImhFCV"
-        }
-      ],
-      "duration_ms": 142362,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/5Ee0r9PetOsxgEG5h9IyqL"
-    },
-    {
-      "added_at": "2024-01-29 10:31:32",
-      "album": {
-        "name": "i'm hurting ! (deja-vu..)",
-        "url": "https://open.spotify.com/album/07W3pEXd8gK8GzJ3prgeuh"
-      },
-      "artists": [
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        }
-      ],
-      "duration_ms": 176680,
-      "name": "i'm hurting ! (deja-vu..)",
-      "url": "https://open.spotify.com/track/7x3YdsIvT6RPGgz18GEXkv"
     },
     {
       "added_at": "2024-01-29 10:31:32",
@@ -369,6 +393,22 @@
       "url": "https://open.spotify.com/track/4PrGyX4YgCT6V3YqY7XEUw"
     },
     {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "How I Fell in Love",
+        "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
+      },
+      "artists": [
+        {
+          "name": "CH4YN",
+          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
+        }
+      ],
+      "duration_ms": 112551,
+      "name": "How I Fell in Love",
+      "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
+    },
+    {
       "added_at": "2024-01-29 10:31:32",
       "album": {
         "name": "Double Rainbow",
@@ -427,26 +467,6 @@
     {
       "added_at": "2024-01-29 10:31:32",
       "album": {
-        "name": "Why Can't We Live Forever?",
-        "url": "https://open.spotify.com/album/4I1DFWjeY89TY50WWWZlRK"
-      },
-      "artists": [
-        {
-          "name": "DJ HEARTSTRING",
-          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
-        },
-        {
-          "name": "Narciss",
-          "url": "https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "While U Sleep",
-      "url": "https://open.spotify.com/track/1DNvYQWmYVnKzXZUYssNhX"
-    },
-    {
-      "added_at": "2024-01-29 10:31:32",
-      "album": {
         "name": "Tell Me Daddy",
         "url": "https://open.spotify.com/album/4HMoL4sjAVMylMnSdcLbMs"
       },
@@ -467,6 +487,42 @@
       "duration_ms": 169329,
       "name": "Tell Me Daddy",
       "url": "https://open.spotify.com/track/09p7aiG886Vev83CeQyjPh"
+    },
+    {
+      "added_at": "2024-01-29 10:31:32",
+      "album": {
+        "name": "Why Can't We Live Forever?",
+        "url": "https://open.spotify.com/album/4I1DFWjeY89TY50WWWZlRK"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "Narciss",
+          "url": "https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "While U Sleep",
+      "url": "https://open.spotify.com/track/1DNvYQWmYVnKzXZUYssNhX"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "anywhere but here",
+        "url": "https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm"
+      },
+      "artists": [
+        {
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+        }
+      ],
+      "duration_ms": 131612,
+      "name": "anywhere but here",
+      "url": "https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1"
     },
     {
       "added_at": "2024-01-29 10:31:32",
@@ -573,28 +629,20 @@
       "url": "https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf"
     },
     {
-      "added_at": "2024-01-29 10:31:32",
+      "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Need Somebody",
-        "url": "https://open.spotify.com/album/4zhjAZyG1fFbdPFdfo9tkv"
+        "name": "We Are The Risers",
+        "url": "https://open.spotify.com/album/0ZZZhM9g4uJKc50ziSWwPm"
       },
       "artists": [
         {
-          "name": "GESES",
-          "url": "https://open.spotify.com/artist/7ahE8B8ZhWe3fgVxLaVAXR"
-        },
-        {
-          "name": "Raphi",
-          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
-        },
-        {
-          "name": "Jethro Heston",
-          "url": "https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj"
+          "name": "Eli Mich",
+          "url": "https://open.spotify.com/artist/1HYEbZ42CBI8MsAa2TdDnj"
         }
       ],
-      "duration_ms": 141398,
-      "name": "Need Somebody",
-      "url": "https://open.spotify.com/track/0wdJefRAVWCkhlQXFCi8kx"
+      "duration_ms": 204750,
+      "name": "We Are The Risers",
+      "url": "https://open.spotify.com/track/4fmjMZProIFigMcvyOILs6"
     },
     {
       "added_at": "2024-01-29 10:31:32",
@@ -631,6 +679,22 @@
       "duration_ms": 158300,
       "name": "We Can Go Always Go Back To Love",
       "url": "https://open.spotify.com/track/3wzbjzJFBSZeyYlpt8gVL6"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Blue Blood",
+        "url": "https://open.spotify.com/album/4NoVNF1zzaIf47ctj9oOS4"
+      },
+      "artists": [
+        {
+          "name": "vi0let",
+          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
+        }
+      ],
+      "duration_ms": 154748,
+      "name": "Blue Blood",
+      "url": "https://open.spotify.com/track/1ISY7X7jCpJsbKOVlE0BeK"
     },
     {
       "added_at": "2024-01-29 10:31:32",
@@ -727,22 +791,6 @@
       "duration_ms": 223680,
       "name": "Capable of love",
       "url": "https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN"
-    },
-    {
-      "added_at": "2024-01-29 10:31:32",
-      "album": {
-        "name": "shy girl",
-        "url": "https://open.spotify.com/album/3A99FyN9ydpMhAaFkn2Vac"
-      },
-      "artists": [
-        {
-          "name": "wilo wilde",
-          "url": "https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc"
-        }
-      ],
-      "duration_ms": 156551,
-      "name": "shy girl",
-      "url": "https://open.spotify.com/track/1BIzfT74hOzKieuBjk7jKf"
     },
     {
       "added_at": "2024-01-29 10:31:32",
@@ -2063,26 +2111,6 @@
     {
       "added_at": "2024-01-29 10:31:32",
       "album": {
-        "name": "CANDY+",
-        "url": "https://open.spotify.com/album/1BZkcT5JJxS23VPL6zWqpd"
-      },
-      "artists": [
-        {
-          "name": "Yameii Online",
-          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
-        },
-        {
-          "name": "Deko",
-          "url": "https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn"
-        }
-      ],
-      "duration_ms": 209156,
-      "name": "Up \u2229^\u03c9^\u2229",
-      "url": "https://open.spotify.com/track/0tKTLYPrzgAyTLtSI7rIt9"
-    },
-    {
-      "added_at": "2024-01-29 10:31:32",
-      "album": {
         "name": "I Feel The Magic",
         "url": "https://open.spotify.com/album/1GMnQFmswk86qt3vgCzTTE"
       },
@@ -2623,22 +2651,6 @@
     {
       "added_at": "2024-01-29 10:31:32",
       "album": {
-        "name": "vision$$",
-        "url": "https://open.spotify.com/album/6Zm46AoNgp8cLCWzuqWMKD"
-      },
-      "artists": [
-        {
-          "name": "benzii",
-          "url": "https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "vision$$",
-      "url": "https://open.spotify.com/track/2R40Mf4ntKNb1B2ZqOBmIo"
-    },
-    {
-      "added_at": "2024-01-29 10:31:32",
-      "album": {
         "name": "d(-_-)b dreaming of your latte art d(-_-)b",
         "url": "https://open.spotify.com/album/2MAkKniWFXaXXXzEFDRQ8p"
       },
@@ -2703,26 +2715,6 @@
       "duration_ms": 206626,
       "name": "DIE LIEBE KOMMT NICHT AUS BERLIN",
       "url": "https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc"
-    },
-    {
-      "added_at": "2024-01-29 10:31:32",
-      "album": {
-        "name": "i dont mean no harm",
-        "url": "https://open.spotify.com/album/764hIM8zWXHOAXxJSozK17"
-      },
-      "artists": [
-        {
-          "name": "Senses",
-          "url": "https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA"
-        },
-        {
-          "name": "kojo",
-          "url": "https://open.spotify.com/artist/18AWDR2N9U6HkTZ6wgmbRV"
-        }
-      ],
-      "duration_ms": 128063,
-      "name": "i dont mean no harm",
-      "url": "https://open.spotify.com/track/6lcxaASRl0lMaIU95yH8CH"
     },
     {
       "added_at": "2024-01-29 10:31:32",
